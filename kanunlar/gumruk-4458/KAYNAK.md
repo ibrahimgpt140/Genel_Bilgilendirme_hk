@@ -16,6 +16,7 @@
 - `00-baslik.txt`: kanun künyesi
 - `zz-islenemeyen-hukumler-ve-ekler.txt`: kanuna işlenemeyen hükümler ve değişiklik tabloları
 - `tam-metin.txt`: PDF'ten çıkarılan bölünmemiş tam metin
+- `ANALIZ.md`: bölüm yapısı, değişiklik notu sayıları ve en yeni değişiklikler (otomatik üretilir)
 
 ## Doğrulama durumu
 

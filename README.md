@@ -16,6 +16,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
+| `kilavuzlar/` | GİB kılavuzları ve analizleri |
 | `araclar/` | Maddelere bölme (`bol.py`) ve yapısal analiz (`analiz.py`) betikleri |
 
 ## Kurallar

@@ -1,0 +1,3078 @@
+ İNTERNET VERGİ DAİRESİ -
+ KDV İADE TALEPLERİNE AİT
+   LİSTELERİ GÖNDERME
+        KILAVUZU
+
+ GELİR İDARESİ BAŞKANLIĞI
+Uygulama ve Veri Yönetimi Daire Başkanlığı
+                  (III)
+ İade Uygulamaları ve Analiz Müdürlüğü
+               (23. ŞUBE)
+
+
+
+
+                            MART/2022
+  * İndirimli Orana Tabi İşlemlere Ait Satış Faturası Listesinde bulunan İl/İlçe Kodu” ile “UAVT
+  Numarası” alanları kaldırılmıştır.
+  * İndirimli Orana Tabi İşlemlere Ait Satış Faturası Listesine “Tapu Kayıt Yevmiye Numarası” ile
+  “Konut Teslimi Yapılan Kişi/Kurum” alanları eklenmiştir.
+
+
+
+
+                                                                                               1
+İÇİNDEKİLER
+Sayfa
+
+GİRİŞ ........................................................................................................................................ 4
+
+1. İNTERNET VERGİ DAİRESİNDEN KDV İADESİ TALEBİ VE LİSTELERİN
+GÖNDERİLMESİNE İLİŞKİN AÇIKLAMALAR.................................................................. 5
+
+1.1.İNTERNET VERGİ DAİRESİNDEN KDV İADESİ TALEBİNE İLİŞKİN
+AÇIKLAMALAR...................................................................................................................... 5
+
+1.1.1.İNDİRİLECEK KDV LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR.......................................... 11
+
+1.1.1.1.İNDİRİMLİ ORANA TABİ İŞLEMLER İÇİN ÖRNEK İNDİRİLECEK KDV
+LİSTESİ....................................................................................................................................17
+
+1.1.2.YÜKLENİLEN KDV LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR.......................................... 19
+1.1.3.GÜMRÜK ÇIKIŞ BEYANNAMELERİ/ETGB LİSTESİNE SİSTEM ÜZERİNDEN
+VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR...................... 26
+1.1.4.SATIŞ FATURALARI LİSTESİNE (İHRACAT) SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR.......................................... 29
+1.1.5.TEVKİFATLI SATIŞLARA İLİŞKİN SATIŞ FATURASI LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR…………………………………………………………………………… 33
+1.1.6.İHRAÇ KAYITLI SATIŞ FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE
+EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR............................ 37
+1.1.7.KDV KANUNUNUN GEÇİCİ 16, GEÇİCİ 26. ve GEÇİCİ 29. MADDELERİ GEREĞİ
+SATIŞ FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA
+BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR………………............................................. 42
+1.1.8.İADESİ TALEP EDİLEN KDV HESAPLAMA TABLOSUNA SİSTEM ÜZERİNDEN
+VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR...................... 46
+1.1.9.İNDİRİMLİ ORAN HESAPLAMA TABLOSUNA SİSTEM ÜZERİNDEN BELGE
+GİRİŞİ İLE İLGİLİ AÇIKLAMALAR………..………………………………..................... 49
+1.1.10.İNDİRİMLİ ORANA TABİ İŞLEMLERE AİT SATIŞ FATURASI LİSTESİNE
+SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR………………………………………………………………………….... 53
+1.1.11.YATIRIM TEŞVİK BELGELİ SATIŞLARA İLİŞKİN SATIŞ FATURASI
+LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE
+İLGİLİ AÇIKLAMALAR………………………………………………………………....... 59
+1.1.12.ULUSLARARASI ANLAŞMALAR KAPSAMINDA YAPILAN SATIŞLARA
+İLİŞKİN SATIŞ FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…...................................... 62
+1.1.13.KDV KANUNUNUN 13. MADDESİ KAPSAMINDA YAPILAN SATIŞLARA (D
+Bendi Hariç) İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…….................................. 66
+1.1.14.KAPASİTE RAPORLARI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…...................................... 70
+
+
+                                                                                                                                              2
+1.1.15.TAŞIMACILIK İSTİSNASINDAN KAYNAKLANAN SATIŞ FATURASI
+LİSTESİNE (ARAÇ HASILAT LİSTESİ) SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR……….............................. 72
+1.1.16.KDV KANUNUNUN 11/1-a MADDESİ KAPSAMINDA TÜRKİYE’DE İKAMET
+ETMEYENLERE ÖZEL FATURA İLE YAPILAN SATIŞLARA (BAVUL TİCARETİ)
+İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…………...........................77
+1.1.17.KDV KANUNU’NUN 11/1-a – 15/a – 15/b – 17/4-s MADDELERİ KAPSAMINDA (
+KDV BEYANNAMESİNDE İŞLEM KODU 302 -303-312-313-317 ) YAPILAN
+TESLİMLERE İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR………….......................... 80
+1.1.18.KDV    KANUNU’NUN     11/1-a    MADDESİ       KAPSAMINDA    SERBEST
+BÖLGELERDEKİ MÜŞTERİLER İÇİN YAPILAN FASON HİZMETLERE AİT SATIŞ
+FATURALARI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE
+GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…………………………………............................... 84
+1.1.19.GEÇİÇİ 17. MADDE KAPSAMINDAKİ TESLİMLERE İLİŞKİN SATIŞ
+FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE
+GİRİŞİ İLE İLGİLİ AÇIKLAMALAR………………………………………………........... 87
+1.1.20 GEÇİÇİ 38. MADDE’YE İSTİNADEN FATİH PROJESİ KAPSAMINDA MİLLİ
+EĞİTİM BAKANLIĞINA YAPILACAK MAL TESLİMİ VE HİZMET İFALARINA
+İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR…………………………...92
+1.1.21 GEÇİÇİ 39. MADDE’YE İSTİNADEN İMALAT SANAYİİNDE KULLANMAK
+ÜZERE YAPILAN YENİ MAKİNA VE TEÇHİZAT TESLİMLERİNE İLİŞKİN SATIŞ
+FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ
+İLE İLGİLİ AÇIKLAMALAR……………………………………………………………….96
+1.1.22 GEÇİÇİ 40. MADDE’YE İSTİNADEN UEFA SÜPER KUPA VE 2020 UEFA
+ŞAMPİYONLAR LİGİ FİNALİ MÜSABAKALARI KAPSAMINDA YAPILACAK
+TESLİM VE HİZMETLERE İLİŞKİN SATIŞ FATURASI LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR…………………………………………………………………………….99
+
+2.EXCEL DOSYASI OLUŞTURULMASI HAKKINDA GENEL AÇIKLAMALAR….....103
+
+3.KDV İADESİ TALEBİ GİRİŞLERİ İÇİN GOOGLE CHROME TARAYICISINDA
+YAPILMASI GEREKEN AYARLAR ………………………………………………..……108
+
+4. YENİ EXCEL LİSTESİ OLUŞTURMA VE LİSTELERİ SİSTEME YÜKLEME……...112
+
+
+
+
+                                                                                 3
+GİRİŞ
+
+
+        Bilindiği üzere; 60 Seri No.lu KDV Sirkülerinin “İade Uygulaması” başlıklı
+bölümünde; KDV mükelleflerinin, 2010/Ocak vergilendirme döneminden itibaren
+gerçekleşen iade hakkı doğuran işlemlerden kaynaklanan KDV iade taleplerine ait listelerin
+elektronik ortamda alınması uygulamasına başlanılmıştır. KDV İade taleplerinde; İndirilecek
+KDV Listesi, Yüklenilen KDV Listesi, Satış Faturaları Listesi, Gümrük (Çıkış) Beyannamesi
+Listesi gibi KDV İade talebi için ibrazı gereken listelerin internet vergi dairesi üzerinden
+gönderilmesi gerekmektedir.
+
+       Bu uygulama neticesinde, KDV iade talepleri ile ilgili olarak vergi dairelerince daha
+önce VEDOP üzerinden manuel olarak yapılan ve oldukça uzun zaman alan kontroller,
+Başkanlığımızca hazırlanan “KDV İadesi Risk Analizi” projesi ile elektronik ortamda
+yapılmakta, mükelleflerin elektronik ortamda gönderdikleri belgeler esas alınarak bir rapor
+halinde vergi dairelerinin kullanımına sunulmaktadır.
+
+       26 Nisan 2014 tarihinde yayınlanan; “KATMA DEĞER VERGİSİ GENEL
+UYGULAMA TEBLİĞİ” gereği, İnternet Vergi Dairesi’nden alınan listelere “KDV
+Hesaplama Tablosu” eklenmiştir. Ayrıca bu tarihten günümüze kadar sistemimizde yapılan
+güncellemeler neticesinde genel olarak tüm iade talep türlerine ait listeler, günümüz itibariyle
+İnternet Vergi Dairesi üzerinden alınmaktadır. Gerek KDV İade mevzuatında yapılan
+değişiklikler, gerekse mükelleflerimizden, Yeminli Mali Müşavir ve Serbest Muhasebeci Mali
+Müşavir gibi meslek mensuplarından gelen talepler doğrultusunda her geçen gün sistemimiz
+yenilenmeye devam etmektedir.
+
+         İnternet Vergi Dairesi üzerinden listelerin oluşturulup gönderilmesi esnasında sistem,
+iade hakkı doğuran işlem türüne bağlı olarak elektronik ortamda gönderilebilecek listelere
+ilişkin linkleri otomatik olarak ekrana getirmektedir. (EK:1)
+
+        Bu listelerin sistemden gönderilmesi gerekmektedir. Buna göre, elektronik ortamda
+gönderilemeyen diğer belge / liste / tablolar, eskiden olduğu gibi kâğıt ve/veya CD ortamında
+iade talep dilekçesi ekinde vergi dairesine verilecektir.
+
+        Bilindiği üzere; 01/2016 iade dönemi ve sonrası dönemler için; İndirimli orana tabi
+satışlara ilişkin satış faturası listesi internet vergi dairesinden alınmaya başlanılmıştır. Bu liste
+2016 Ocak ayından itibaren 406 - İndirimli orana tabi işlemlere ilişkin iade (yılı içinde aylık
+mahsuben iade.) 439 - İndirimli orana tabi işlemlere ilişkin iade. (yıllık) ve 405 işlem
+kodlarından - (İndirimli orana tabi malların ihraç kaydıyla teslimleri ile ilgili yüklenilen KDV
+farkından) iade talep eden mükellefler tarafından doldurulacaktır. Bu itibarla; İndirimli orana
+tabi satışlara ilişkin satış faturası listesinin boyutunun 100.000 satırdan fazla olması halinde,
+söz konusu listenin internet vergi dairesinden gönderilmesi zorunlu olmayıp, önceden olduğu
+gibi iade işlemini sonuçlandıracak olan vergi dairesi müdürlüğüne kâğıt/CD ortamında ibraz
+edilmesi yeterli olacaktır.
+
+
+
+
+                                                                                                   4
+1. İNTERNET VERGİ DAİRESİNDEN KDV İADESİ TALEBİ VE
+LİSTELERİN GÖNDERİLMESİNE İLİŞKİN AÇIKLAMALAR
+
+
+1.1. İNTERNET VERGİ DAİRESİNDEN KDV İADESİ TALEBİNE
+İLİŞKİN AÇIKLAMALAR
+
+       İnternet Vergi Dairesi İşlemleri Uygulamasından yararlanmak için bağlı bulunulan
+vergi dairesine başvurup “Kullanıcı Kodu” ve “Şifre” alınması gerekmektedir.
+
+       İnternet Vergi Dairesi işlemleri uygulamasından yararlanmakta olan mükelleflerin;
+KDV iade talebi listelerini, elektronik ortamda göndermesine ilişkin açıklamalar aşağıda yer
+almaktadır.
+
+
+AŞAMA 1:
+
+
+       İnternet Vergi Dairesinin ana sayfasındaki “Kullanıcı Girişi” butonu tıklanarak
+sisteme giriş yapılır.
+
+
+
+
+                                                                                          5
+AŞAMA 2:
+
+
+
+       Daha sonra ekrana gelen Kullanıcı Kodu, Şifre ve Doğrulama Kodu alanları
+doldurularak (Vergi daireniz kapalı zarf içinden bu bilgileri tarafınıza teslim edecektir.)
+“GİRİŞ” butonuna tıklanır.
+
+
+
+
+                                                                                         6
+AŞAMA 3:
+
+        Açılan ekranda “KDV İade İşlemleri” menüsü altında bulunan “KDV İadesi Talebi
+Girişi” linki tıklanır.
+
+
+
+
+AŞAMA 4:
+
+         İlk defa iade talebinde bulunulacaksa açılan ekrandan “KDV İadesi Talebi Girişi”
+linki tıklanır. Ancak, daha önce bilgi girişi yapılarak onaylanmamış veya onaylandıktan sonra
+pasife çekilerek tekrar bilgi girişi yapılması gerektiğinde “Daha Önce Girilen KDV İade
+Talepleri” linki ile ilgili dönem iade talebine ulaşılabilir.
+
+
+                                                                                           7
+AŞAMA 5:
+
+    Açılan ekrandan iade taleplerine ilişkin olarak sorulan sorular cevaplandırılır.
+
+
+
+
+                                                                                       8
+“T.C. Kimlik No./Vergi Kimlik No.” kısmında iade talebinde bulunacak olan mükellefin
+T.C Kimlik Numarası veya Vergi Kimlik Numarası girilir.
+
+“Dönem Tipi” kısmında iade talep eden mükellefin KDV beyannamelerini verme dönemine
+göre ilgili kutucuk seçilir.
+
+“Dönemi” kısmında iade talep edilen dönem ay ve yıl olarak kutucuklardan seçilir.
+Örneğimizde 2019 yılı Ocak ayına ait iade talebi girişi yapılmaktadır.
+
+“KDV İadesi Ön Kontrol Raporu Uygulaması Kapsamında İade Talep Ediyorum”
+kısmında ön kontrol raporuna göre iade talep ediliyorsa “Evet” seçeneği, böyle bir talep söz
+konusu değilse “Hayır” seçeneği seçilir.
+
+“İade Türü” kısmında iadenin; mahsuben, nakden veya kısmen mahsup kısmen nakden talep
+edilip edilmediği işaretlenir. İade talep edilmese dahi, ihraç kayıtlı teslimler nedeniyle sadece
+tecil terkin işlemi varsa ilgili kutucuk işaretlenir.
+
+“İade Talebiniz İçin ARTIRIMLI TEMİNAT MEKTUBU Verecek misiniz?” kısmına
+“Evet” seçeneği işaretlendiğinde “Banka/Katılım Bankası Teminat Mektubu” referans
+numarası bilgilerinin girileceği ekran açılır. Aynı iade döneminde birden fazla teminat
+mektubu alınmış ise (en fazla 5 adet) referans numaralarının ilk kutucuktan başlamak üzere
+sıra ile yazılması gerekir. Referans (mektup) numaraları kâğıt ortamındaki bilgilerde harf,
+işaret ve rakamlardan oluşuyorsa tamamı aynen yazılmalıdır.
+
+“İade Talebiniz İçin Teminat Gösterecek misiniz?" kısmına “Evet” seçeneği
+işaretlendiğinde “Banka/Katılım Bankası Teminat Mektubu” ve “Diğer Teminat” seçenekleri
+açılır. İade talebi Banka/Katılım Bankası teminat mektubu ile yapılacaksa ve aynı iade
+döneminde birden fazla teminat mektubu alınmış ise (en fazla 5 adet) referans numaralarının
+ilk kutucuktan başlamak üzere sıra ile yazılması gerekir. Referans (mektup) numaraları kâğıt
+ortamındaki bilgilerde harf, işaret ve rakamlardan oluşuyorsa tamamı aynen yazılmalıdır.
+
+       İade talebi için Banka/Katılım Bankası teminat mektubu seçeneğinin dışında bir
+teminat gösterilecek ise “Diğer Teminat” kutucuğu işaretlenerek açılan seçeneklerden
+teminatın türüne göre bir veya birden fazla kutucuk işaretlenmelidir.
+
+NOT: Artırımlı Teminat Mektubu veya Teminat ile iade seçildiğinde “İade Şekli”
+bölümünde “YMM KDV İadesi Tasdik Raporu Olmaksızın İade” seçeneği seçilmelidir.
+
+
+
+
+                                                                                               9
+“Başka         Firmaların        İhracatına         Aracılık     Eden        Dış      Ticaret
+Sermaye Şirketi veya Sektörel Dış Ticaret Şirketi misiniz?” kısmında Dış Ticaret Sermaye
+Şirketleri veya Sektörel Dış Ticaret Şirketlerinin “Evet” seçeneğini seçmeleri gerekmektedir.
+
+“KDV BEYANNAMESİNDEN GETİR” linki tıklandığında, iade talep edilen döneme
+ilişkin olarak KDV beyannamesinde yer alan iade hakkı doğuran işlem türleri otomatik ekrana
+gelecektir. Eğer iade talep edilen döneme ilişkin olarak sonradan düzeltme KDV beyannamesi
+verilmişse en son verilen düzeltme beyannamesindeki bilgiler getirilmektedir. (Eğer ekrana
+gelen bilgiler iade talebi ile uyumsuz ise bu durumda daha önce girilen bilgilerin düzeltilmesi
+gerekmektedir.)
+
+“İade Talep Şekli” kısmında Yeminli Mali Müşavir (YMM) KDV İadesi Tasdik Raporu olup
+olmadığı hususu cevaplandırılmalıdır.
+
+Açıklama: Eğer burada “YMM KDV İadesi Tasdik Raporuyla İade” seçeneği tercih
+edilmişse YMM’nin TC Kimlik Numarasının alttaki kutucuğa yazılarak kutucuğun yanındaki
+“GETİR” linki tıklanmalıdır. Bu durumda YMM’nin “Adı – Soyadı” bilgileri ekrana otomatik
+olarak gelecektir. (Teminatlı iadeler için bu bölüm “YMM KDV İadesi Tasdik Raporu
+Olmaksızın İade” şeklinde işaretlenmelidir.)
+
+
+
+
+                                                                                            10
+“İndirimli Orana Tabi Satışların Yapıldığı Sektör” kısmında, İndirimli Orana Tabi
+Satışlardan kaynaklanan KDV İadesine yönelik “Sektör” ve “Alt Sektör” bilgileri
+girilmelidir. “Alt Sektör” bilgisi bulunmayan sektörlerde bu alan boş geçilebilir. Bu alana
+“Ekle” butonu kullanılarak birden fazla “Sektör” bilgisi girilebilir. Ayrıca; bilgisayarda
+“Google Chrome” ayarlarından kaynaklı olarak “Alt Sektör” alanının hiç çıkmadığı zamanlar
+olabilmektedir. Böyle bir durumda sistemden “Güvenli Çıkış” yapıldıktan sonra “Geçmiş”
+kısmından “Tarama Verilerini Temizle” işlemi yapılmalıdır. Bu işlem yapıldıktan sonra
+yeniden giriş yapıldığında “Alt Sektör” bilgisinin girilebileceği alan ekrana gelmektedir.
+
+      Bütün bu sorulara cevap verilerek “TAMAM” butonu tıklanınca iade talebi
+kaydedilmiş olur ve listelerin oluşturulması safhasına geçilebilir.
+
+       Gönderilmesi gereken listeler ekranda linkler halinde yer alacaktır.
+
+         Bütün bu listeler doldurulmadan onaylama işlemi gerçekleştirilemez. Onaylandıktan
+sonra listelerde değişiklik ve/veya eklemeler yapılmak istenildiğinde, listeler vergi dairesince
+pasife çekilerek yeniden liste girişleri yapılabilecektir. Ayrıca liste girişleri yapıldıktan sonra,
+KDVİRA Kontrol Raporu oluşmadan önce bir defa ve kontrol raporu oluştuktan sonra da
+listeler mükellefler tarafından internet vergi dairesinde pasife çekilebilecektir.
+
+        Listelerin oluşturulmasına ilişkin olarak iki yöntem bulunmaktadır. Belge sayısı az
+olan mükellefler, her bir belgeyi sisteme tek tek girişini yapabileceklerdir. Belgelerini
+“Excel” formatında hazırlamış olan ve/veya kullandığı muhasebe programı otomatik olarak
+Excel dosyası oluşturabilen ya da bunu sağlamak için muhasebe programında gerekli
+revizeleri yaptıran mükellefler, düzenledikleri Excel dosyalarını sisteme yükleyerek listelerini
+oluşturabilirler.
+
+       Ancak; “Excel Listeleri” İnternet Vergi Dairesinde yer alan örnek formata uygun
+olmalıdır.
+
+
+
+1.1.1. İNDİRİLECEK KDV LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+       Mükellefler ve/veya meslek mensupları, her bir belge için aşağıda yer alan formu
+doldurarak İndirilecek KDV Listesini oluşturup gönderebilirler.
+
+        KDV beyannamesinde yer alan “Bu Döneme Ait İndirilecek KDV Tutarı” ile
+İndirilecek KDV Listesi’nin uyumlu olması gerekir. KDV Beyannamesinde “İndirimler”
+bölümünde yapılan değişikliklere göre; Yurtiçi Alımlara İlişkin KDV, Sorumlu Sıfatıyla
+Beyan Edilen KDV, İthalde Ödenen KDV alanlarındaki toplam KDV tutarları, İndirilecek
+KDV Listesi’ne girilen belgelerin toplam tutarı ile uyumlu olması gerekmektedir.
+
+        KDV Beyannamesinde; Bu Döneme Ait İndirilecek KDV / Yurtiçi Alımlara
+İlişkin KDV, Sorumlu Sıfatıyla Beyan Edilen KDV, İthalde Ödenen KDV alanlarında
+tutar bulunmadığı takdirde İndirilecek KDV listesine kayıt yapılmadan listeler
+onaylanabilecektir.
+
+                                                                                                 11
+       İndirilecek KDV Listesine belge girişi ile ilgili açıklamalar ve örnekler aşağıda yer
+almaktadır.
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                         12
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       13
+        Mükelleflerin İndirilecek KDV Listesini her satıra bir belge gelecek şekilde
+düzenlemeleri esastır. Aynı belgede farklı KDV oranlarından teslim bulunması halinde
+belgenin toplam tutarları tek satırda listeye eklenmesi gerekmektedir. Yukarıdaki
+tablolarda belgelerin girişine ilişkin örnekler verilmiştir.
+
+      Alış Faturasının Tarihi: Bu alana alış faturasının tarihi GG.AA.YYYY (gün/ay/yıl)
+       formatında yazılmalıdır.
+
+       İade döneminden önceki tarihlerde düzenlenmiş olan fatura listeye eklenecek ise,
+       faturanın tarihi değiştirilmeden yazılmalı “Belgenin İndirim Hakkının Kullanıldığı
+       KDV Dönemi” bölümünde iade dönemi yazılmalıdır.
+
+       Örneğin, 15/07/2014 tarihli belge, 2014/08 dönem indirilecek KDV listesine
+       eklenmesi gerektiğinde (muhasebe kayıtlarına 2014/08 döneminde kaydedildiği
+       durumda) belge tarihi değiştirilmeden “Belgenin İndirim Hakkının Kullanıldığı KDV
+       Dönemi” bölümünde 201408 yazılmalıdır.
+
+      Alış Faturasının Serisi: Bu alana alış faturasının serisi yazılmalıdır. Fatura serileri
+       genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+       rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+       harf ve sayı arasına herhangi bir işaret veya boşluk bırakılmaksızın bitişik olarak “A5”
+       şeklinde yazılmalıdır. Yukarıdaki tablonun 6. Satırında buna ilişkin örnek
+       bulunmaktadır.
+
+               Ancak ödeme kaydedici cihaz fişlerinde (yazar kasa fişlerinde) ve 421 Sıra
+       No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasında bulunan
+       mükellefler tarafından düzenlenen e-belgelerde “Seri” alanı bulunmadığından, bu
+       belgeler listeye eklenirken “Alış Faturasının Serisi” bölümü boş bırakılacaktır.
+       Yukarıdaki tablonun 10, 11, 12. satırlarında ödeme kaydedici cihaz fişleri ve e-belge
+       girişlerine ilişkin örnekler bulunmaktadır.
+
+      Alış Faturasının Sıra Numarası: Bu alana alış faturasının sıra numarası yazılmalıdır.
+       Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden
+       oluşabilir. E-Belge numarası –sıfır- “0” ile başlıyorsa başındaki –sıfır- lar girilmeden
+       yazılmalıdır.      (Örnek:     576,        9624,      701602,       GIB202201050005
+       A8F20120000000080000 vb.)
+
+              421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına
+       dâhil olma zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16
+       karakterden oluşan e-belgeler “Alış Faturasının Sıra No.su” alanına boşluk
+       bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+       yazılmalıdır. Yukarıdaki tablonun 10 ve 11. satırlarında e-belge girişlerine ilişkin
+       örnekler bulunmaktadır.
+
+
+
+
+                                                                                            14
+            Alış faturası alınan mal/hizmetlerin çok sayıda olması nedeniyle izleyen
+    faturalara nakil olmakta ise bu alana, faturanın toplam tutarının bulunduğu en son
+    belgenin sıra numarasının yazılması gerekmektedir.
+
+   Satıcının Adı Soyadı / Unvanı: Bu alana alış faturasını düzenleyen satıcının gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Satıcının Vergi Kimlik Numarası / TC Kimlik Numarası: Bu alana satıcının vergi
+    kimlik numarası yazılmalıdır. (Satıcı gerçek kişi ise TC kimlik numarası da
+    yazılabilir.)
+
+            Eğer satıcı yurtdışında veya serbest bölgede faaliyet gösteriyor ise yani alış
+    ithalatsa ya da KDV tam tevkifat kapsamında alıcı tarafından ödenerek 2 No.lu KDV
+    ile beyan edilmişse, bu durumda vergi kimlik numarası alanına 10 haneli olarak “Bir”
+    (1111111111) yazılmalıdır. Yukarıdaki tablonun 2. satırında ithalat alışına, 13.
+    satırında tam tevkifat kapsamında yapılan alıma ilişkin örnek bulunmaktadır.
+
+    ÖNEMLİ NOT: “ TAM SORUMLULUK” kapsamında beyan edilen tutar ve
+    “İTHALAT” işlemleri haricinde yazar kasa fişleri, perakende satış fişleri vb.
+    belgelerin listelere yazılmasında Vergi Kimlik Numarası olarak “1111111111”
+    kullanılmamalıdır.
+
+            Kayıtlarını muhasebe fişleri gibi yetkili amirlerin imza ve parafını taşıyan
+    mazbut vesikalara dayanarak yürüten müesseselerde; yazar kasa ve perakende satış
+    fişlerinin adı geçen vesikalar aracılığıyla yasal kayıtlara intikal ettirilmesi halinde, her
+    yazar kasa ve perakende satış fişinin ayrı ayrı İndirilecek KDV Listesine yazılması
+    yerine bu belgelerin kaydedildiği muhasebe fişine ait bilgilerin yazılması yeterlidir.
+
+            Buna göre, muhasebe fişinin İndirilecek KDV Listesi’ne kaydedilmesi
+    sırasında “Satıcının Vergi Kimlik/TC Kimlik Numarası” alanına 10 haneli olarak “Üç”
+    “3333333333” şeklinde giriş yapılması gerekmektedir. Ayrıca, bu imkândan sadece
+    muhasebe fişine kayıtlı yazar kasa veya perakende satış fişleri için yararlanılması
+    gerekmekte olup bu şekilde listeye girişi yapılabilecek muhasebe fişlerine kayıtlı
+    belgelerin toplam KDV’si, İndirilecek KDV Listesinin toplam KDV tutarının % 5’ini
+    aşamaz. Diğer taraftan, muhasebe fişine kayıtlı olmayan yazar kasa veya perakende
+    satış fişleri ile muhasebe fişine kayıtlı olsa dahi her bir faturanın had sınırı
+    gözetilmeksizin ayrı ayrı yazılması gerekmektedir.
+
+   Alınan Mal ve/veya Hizmetin Cinsi: Bu alana alınan mal/hizmetin cinsi yazılmalıdır.
+    Girişi yapılacak alış faturası ile birden fazla mal/hizmet alındı ise bu sütuna -çok genel
+    olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak alınan malların/hizmetlerin
+    cinsleri yazılır. Yukarıdaki tablonun 4. ve 6. satırlarında buna ilişkin örnekler
+    bulunmaktadır.
+
+
+                                                                                             15
+   Alınan Mal ve/veya Hizmetin Miktarı: Bu alana alınan mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak alış faturası ile
+    birden fazla mal/hizmet alındı ise bu alana -çok genel olmamak kaydıyla- ana başlıklar
+    halinde virgül ile ayırarak alınan malların/hizmetlerin miktarları ve birim/ölçü türleri
+    yazılmalıdır. Yukarıdaki tablonun 4. ve 6. satırlarında buna ilişkin örnekler
+    bulunmaktadır.
+
+
+
+   Alınan Mal ve/veya Hizmetin KDV Hariç Tutarı: Bu alana alış faturasının KDV
+    hariç tutarı TL cinsinden yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Alış
+    faturasında farklı KDV oranlarına tâbi mallar/hizmetler bulunsa dahi fatura
+    bölünmeden tek satırda KDV hariç tutarlarının toplamı yazılmalıdır. Örneğin A malı
+    100 TL ve teslimi %8’lik KDV’ye tâbi, B malı 200 TL ve teslimi %18’lik KDV’ye
+    tâbi, bu iki mal tek fatura ile alındısı ise bu belgeye ilişkin toplam KDV hariç tutar
+    (100 + 200 =) 300 TL olup bu alana 300,00 tutarı yazılmalıdır.
+
+   KDV’si: Bu alana alış faturasının KDV tutarı TL cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır. Alış faturası ile farklı KDV oranlarına tâbi mal/hizmet alındı
+    ise farklı oranlara göre hesaplanan KDV tutarları toplanıp belgedeki toplam KDV
+    tutarı bu alana yazılmalıdır. Örneğin; A malı 100 TL ve teslimi %8’lik KDV’ye tâbi,
+    B malı 200 TL ve teslimi %18’lik KDV’ye tâbi, bu iki mal tek fatura ile alındı ise bu
+    belgeye ilişkin toplam KDV tutarı (100x%8) + (200x%18) = 44 TL yazılmalıdır.
+    Satıcı yurtdışında veya serbest bölgede faaliyet gösteriyor ise (yani alış ithalat ise) bu
+    durumda 9 No.lu sütuna (faturada KDV olmayacağı için) alışa ilişkin gümrük
+    makbuzunda/banka dekontunda gösterilen KDV tutarı yazılmalıdır. Eğer KDV tam
+    tevkifat kapsamında alıcı tarafından ödenerek 2 No.lu KDV ile beyan edilmişse bu
+    alana 2 No.lu KDV Beyannamesi ile beyan edilen KDV tutarı kaydedilmelidir.
+
+    NOT: 05.12.2019 kabul tarih ve 7194 sayılı “Dijital Hizmet Vergisi ile Bazı
+    Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması
+    Hakkında Kanun’un 13. ve 14. maddesi kapsamına giren giderlere ait faturaların
+    İndirilecek ve Yüklenilen KDV Listelerine girişi yapılırken matrah kısmına fatura
+    matrahının tamamı, KDV kısmına ise ilgili kanun kapsamında sınırlanan tutara
+    isabet eden KDV tutarı girilmelidir.
+
+   GGB Tescil No.su (Alış İthalat İse) : Bu alana satıcı yurtdışında veya serbest
+    bölgede faaliyet gösteriyor ise (yani alış ithalat ise) alışa ilişkin Gümrük Giriş
+    Beyannamesinin (GGB) tescil numarası yazılmalıdır. Yukarıdaki tablonun 2. satırında
+    buna ilişkin örnek bulunmaktadır. Ancak, yurtdışından bir hizmet alımı söz konusu
+    ise (Gümrük Giriş Beyannamesi yoksa) bu alan boş bırakılır.
+
+   Belgenin İndirim Hakkının Kullanıldığı KDV Dönemi: Bu alana İndirilecek KDV
+    Listesine girişi yapılan faturanın indirim hakkının kullanıldığı (yasal defterlere
+
+
+                                                                                           16
+ kaydedildiği) KDV dönemi yıl, ay şeklinde arada boşluk bırakılmaksızın yazılmalıdır.
+ Örneğin 2019 Ağustos dönemi için “201908” ; 2019 Eylül dönemi için “201909”
+ şeklinde giriş yapılmalıdır. Ayrıca, belge ilgili takvim yılı içerisinde İndirilecek KDV
+ Listesinin döneminden önceki bir dönemde kesilmiş ve indirim hesabına iade
+ döneminde alınmış ise belgenin tarihinde değişiklik yapılmadan sisteme kaydedilip,
+ “Belgenin İndirim Hakkının Kullanıldığı KDV Dönem” alanına indirim hesabına
+ alındığı dönem yazılmalıdır. Yukarıdaki tablonun 5. satırında buna ilişkin örnek
+ bulunmaktadır.
+
+1.1.1.1. İNDİRİMLİ ORANA TABİ                     İŞLEMLER           İÇİN     ÖRNEK
+       İNDİRİLECEK KDV LİSTESİ
+
+
+
+
+ A. İndirimli Orana Tabi İşlemler Dolayısıyla Aylık Olarak KDV İadesi Talep Eden
+    Mükelleflerin Düzenlemesi Gereken İndirilecek KDV Listesi (406):
+
+
+
+
+                                                                                      17
+        406-İndirimli orana tabi işlemlerden (yılı içerisinde aylık iade talepleri) doğan aylık
+iade taleplerinde, iadenin talep edildiği ilk ayda; takvim yılı başından mahsup istenen döneme
+kadar olan İndirilecek KDV Listelerinin sisteme örnekteki gibi gönderilmesi gerekmektedir.
+Mükellefler, aylar itibariyle oluşturacakları İndirilecek KDV Listelerini yukarıda gösterilen
+tablo örneğinde olduğu gibi, tek bir liste haline getirerek İnternet Vergi Dairesi aracılığıyla
+elektronik ortamda göndermelidir. Tabloda açıkça görüldüğü üzere 406- İade Kodu ile aylık
+olarak 2018/Mart döneminde talep edilen iade işlemi için 2018/01-02 ve 03 dönemlerine ait
+indirilecek KDV listeleri, tek bir liste olarak 2018/03 döneminde sisteme girilmiştir.
+
+        Aynı yıl içerisinde daha sonraki aylarda örneğin; 2018/07 döneminde iade talep
+edildiğinde; 2018/07 dönemi indirilecek KDV listesinde 2018/04, 2018/05, 2018/06 ve
+2018/07 dönemi indirilecek KDV’ye ait belgeler tek bir liste şeklinde sisteme eklenmelidir.
+
+
+
+       B. İndirimli Orana Tabi İşlemlere İlişkin (Yıllık) KDV İadesi Talep Eden
+           Mükelleflerin Düzenlemesi Gereken İndirilecek KDV Listesi (450-439) :
+
+
+
+
+                                                                                            18
+        İndirimli Orana Tabi İşlemlerden doğan iade alacağının yılı içinde iade edilemeyen
+veya talep edilmeyen kısmı, izleyen yıl içinde iade talep edilebilecektir. İade talebi en erken
+izleyen yılın Ocak dönemine ait olup Şubat ayı içinde veya en geç Kasım dönemine ait olup
+Aralık ayı içinde verilecek KDV Beyannameleri ile yapılabilecektir. Ancak; aylık iade
+talebinden farklı olarak KDV Beyannamesinde -406- kodu yerine -439- kodu seçilmelidir ve
+iade istenilen yıla ait tüm dönemler ( 2018 yılı İndirilecek KDV Listesinin tamamı) örnekteki
+gibi tek bir liste olarak iade talep edilen ayda sisteme aktarılmalıdır.
+
+
+
+
+1.1.2.YÜKLENİLEN KDV LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+       Mükellefler ve/veya meslek mensupları, Yüklenilen KDV hesabında yer alan
+belgelerini, aşağıda bulunan “Yüklenilen KDV Bilgileri” tablosundaki bölümleri doldurup
+“ekle” butonuna basarak Yüklenilen KDV Listesine aktarabilirler. Yüklenilen KDV Listesinin
+oluşturulmasına yönelik olarak “Yüklenilen KDV Bilgileri Tablosuna” belge girişlerinin nasıl
+yapılacağına ilişkin açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+
+
+                                                                                            19
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    20
+    Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+       Mükelleflerin Yüklenilen KDV Listesine belge eklerken her belgeyi bir satıra gelecek
+şekilde giriş yapmaları esastır. (Doğrudan Yüklenimlerde olduğu gibi Genel Giderler veya
+ATİK’ler -Amortismana Tabi İktisadi Kıymetler- için de belge detayı yazılarak listeye giriş
+yapılmalıdır.)
+
+   Yüklenilen KDV Listesinde yer alan belgelere ait bilgiler “Bünyeye Giren Mal ve/veya
+Hizmetin KDV'si” sütununa kadar, İndirilecek KDV Listesindeki bilgilerle aynı olmalıdır.
+
+                                                                                        21
+   Alış Faturasının Tarihi: Bu alana alış faturasının tarihi GG.AA.YYYY (gün/ay/yıl)
+    formatında yazılmalıdır.
+
+   Alış Faturasının Serisi: Bu alana alış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Ancak ödeme kaydedici cihaz fişlerinde (yazar kasa fişlerinde)
+    ve 421 Sıra No.lu V.U.K. Genel Tebliği gereğince e-belge uygulamasında bulunan
+    mükellefler tarafından düzenlenen e-belgelerde “Seri” alanı bulunmadığından, bu
+    belgeler listeye eklenirken “Alış Faturasının Serisi” bölümü boş bırakılacaktır.
+
+   Alış Faturasının Sıra Numarası: Bu alana alış faturasının sıra numarası yazılmalıdır.
+    Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden
+    oluşabilir. E-Belge numarası –sıfır- “0” ile başlıyorsa başındaki –sıfır- lar girilmeden
+    yazılmalıdır. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421 Sıra
+    No.lu V.U.K. Genel Tebliği gereğince e-belge uygulamasına dâhil olma zorunluluğu
+    getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden oluşan e-
+    belgeler “Alış Faturasının Sıra No.su” alanına boşluk bırakılmadan bitişik olarak
+    (GIB2013000000082, ABC2014000011437 gibi) yazılmalıdır. Yukarıdaki tablonun 3.
+    satırında e-belge girişine ilişkin örnek bulunmaktadır.
+
+
+    Alış faturası alınan mal/hizmetlerin çok sayıda olması nedeniyle izleyen faturalara
+    nakil olmakta ise bu alana, faturanın toplam tutarının bulunduğu en son belgenin sıra
+    numarasının yazılması gerekmektedir.
+
+   Satıcının Adı Soyadı / Unvanı: Bu alana alış faturasını düzenleyen satıcının gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Satıcının Vergi Kimlik Numarası / TC Kimlik Numarası: Bu alana satıcının vergi
+    kimlik numarası yazılmalıdır. (satıcı gerçek kişi ise TC kimlik numarası da
+    yazılabilir.) Eğer satıcı yurtdışında veya serbest bölgede faaliyet gösteriyor ise yani
+    alış ithalatsa ya da KDV tam tevkifat kapsamında alıcı tarafından ödenerek 2 No.lu
+    KDV ile beyan edilmişse, bu durumda vergi kimlik numarası alanına 10 tane “Bir”
+    (1111111111) yazılmalıdır. Yukarıdaki tablonun 2. satırında ithalat faturasına ilişkin
+    örnek bulunmaktadır.
+
+
+
+    02.05.2012 tarihi itibariyle Yüklenilen KDV Listesinde ‘’3333333333’’ vergi
+    kimlik numarası ile belge girişi yapılamayacak olup, İndirilecek KDV Listesinde
+    “Satıcının Vergi Kimlik/TC Kimlik Numarası” alanına girişi yapılan “3333333333”
+    vergi kimlik numaralı muhasebe fişine kayıtlı yazar kasa veya perakende satış
+
+                                                                                         22
+    fişlerinden bir kısmı veya tamamı yüklenime konu olmuş ise Yüklenilen KDV
+    Listesine diğer belgelerde olduğu gibi her belge tek satıra gelecek şekilde belge
+    detayları yazılarak kaydedilmesi gerekmektedir. (Bu durumda indirilecek KDV
+    listesinde de her belge tek tek detaylı bir şekilde yazılmalıdır.)
+
+   Alınan Mal ve/veya Hizmetin Cinsi: Bu alana alınan mal/hizmetin cinsi yazılmalıdır.
+    Girişi yapılacak alış faturası ile birden fazla mal/hizmet alındı ise bu sütuna -çok genel
+    olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak alınan malların/hizmetlerin
+    cinsleri yazılır.
+
+   Alınan Mal ve/veya Hizmetin Miktarı: Bu alana alınan mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak alış faturası ile
+    birden fazla mal/hizmet alındı ise bu alana -çok genel olmamak kaydıyla- ana başlıklar
+    halinde virgül ile ayırarak alınan malların/hizmetlerin miktarları ve birim/ölçü türleri
+    yazılmalıdır.
+
+
+
+   Alış Faturasının KDV Hariç Tutarı: Bu alana alış faturasının KDV hariç tutarı TL
+    cinsinden yazılmalıdır. Bu sütun rakamlardan oluşmalıdır. Alış faturasında farklı KDV
+    oranlarına tâbi mallar/hizmetler bulunsa dahi fatura bölünmeden tek satırda KDV
+    hariç tutarlarının toplamı yazılmalıdır. Örneğin A malı 100 TL ve teslimi %8’lik
+    KDV’ye tâbi, B malı 200 TL ve teslimi %18’lik KDV’ye tâbi, bu iki mal tek fatura ile
+    alındısı ise bu belgeye ilişkin toplam KDV hariç tutar (100 + 200 =) 300 TL olup bu
+    alana 300,00 tutarı yazılmalıdır.
+
+   Alış Faturasının KDV’si: Bu alana alış faturasının KDV tutarı TL cinsinden
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Alış faturası ile farklı KDV oranlarına
+    tâbi mal/hizmet alındı ise farklı oranlara göre hesaplanan KDV tutarları toplanıp
+    belgedeki toplam KDV tutarı bu sütuna yazılmalıdır. Örneğin A malı 100 TL ve
+    teslimi %8’lik KDV’ye tâbi, B malı 200 TL ve teslimi %18’lik KDV’ye tâbi, bu iki
+    mal tek fatura ile alındısı ise bu belgeye ilişkin toplam KDV tutarı (100x%8) +
+    (200x%18) = 44 TL yazılmalıdır. Satıcı yurtdışında veya serbest bölgede faaliyet
+    gösteriyor ise (yani alış ithalat ise) bu durumda 9 No.lu sütuna (faturada KDV
+    olmayacağı için) alışa ilişkin gümrük makbuzunda/banka dekontunda gösterilen KDV
+    tutarı yazılmalıdır. Eğer KDV tam tevkifat kapsamında alıcı tarafından ödenerek 2
+    No.lu KDV ile beyan edilmişse bu sütuna 2 No.lu KDV Beyannamesi ile beyan edilen
+    KDV tutarı kaydedilmelidir.
+
+    NOT: 05.12.2019 kabul tarih ve 7194 sayılı “Dijital Hizmet Vergisi ile Bazı
+    Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması
+    Hakkında Kanun’un 13. ve 14. maddesi kapsamına giren giderlere ait faturaların
+    İndirilecek ve Yüklenilen KDV Listelerine girişi yapılırken matrah kısmına fatura
+    matrahının tamamı, KDV kısmına ise ilgili kanun kapsamında sınırlanan tutara
+    isabet eden KDV tutarı girilmelidir.
+
+                                                                                           23
+   Bünyeye Giren Mal ve/veya Hizmetin KDV’si: Bu alana alış faturasındaki KDV
+    tutarından, istisna kapsamında yapılan işlemin (malın teslim/hizmetin ifası) bünyesine
+    giren KDV tutarı yazılmalıdır. Alış faturasındaki mal/hizmetin tamamı iade istenilen
+    dönemde istisna kapsamında yapılan işlemin bünyesine girdi ise bu alan 9 No.lu alan
+    ile aynı olacaktır. Yani ödenen KDV tutarının tamamı bu alana yazılacaktır. Ancak
+    alış faturasındaki mal/hizmetin tamamı değil de bir kısmı istisna kapsamında yapılan
+    işlemin bünyesine girdi ise bu durumda ödenen KDV tutarının tamamı değil bünyeye
+    giren KDV tutarı yazılmalıdır.
+
+
+
+   GGB Tescil No.su (Alış İthalat İse) : Bu alana satıcı yurtdışında veya serbest
+    bölgede faaliyet gösteriyor ise (yani alış ithalat ise) alışa ilişkin Gümrük Giriş
+    Beyannamesinin (GGB) tescil numarası yazılmalıdır. Yukarıdaki tablonun 2. satırında
+    bu durum gösterilmiştir. Ancak, yurtdışından bir hizmet alımı söz konusu ise (yani
+    gümrük giriş beyannamesi yoksa) bu alan boş bırakılır.
+
+
+
+   Belgeye İlişkin İade Hakkı Doğuran İşlem Türü: Bu alan, iade hakkı doğuran işlem
+    türü (e-beyannamedeki kodu) yazılır. İade hakkı doğuran işlem türü bir tane veya
+    birden fazla olsa da her bir belgenin karşısına o belgenin ilgili olduğu işlem türü kodu
+    yazılmalıdır. İade hakkı doğuran işlem türlerinin kodları internet vergi dairesinden
+    iade talebi girilirken “Beyannameden bilgileri getir” denildiğinde ekrana otomatik
+    olarak gelmektedir. Ayrıca işlem kodları internet vergi dairesinden indirilen
+    “Yüklenilen_KDV_Listesi_FORMATI” isimli Excel dosyasının çalışma sayfasında da
+    bulunmaktadır.
+
+
+
+
+    ÖRNEK1: Korkmaz Makine Ltd.Şti.’nin 2019/08 döneminde iki farklı istisna işlemi
+    olduğunu varsayalım. (Mal İhracatı-301 ve Teşvikli Yatırım Malları Teslimi-308) Bu
+    durumda iade hakkı doğuran işlem türü bazında iki ayrı yüklenim hesabı yapılmalıdır.
+    Ancak tek “Yüklenilen KDV Listesi” gönderileceğinden kaydedilen belgelerin her
+    birinin “Belgeye İlişkin İade Hakkı Doğuran İşlem Türü” alanına iade işlem türü
+    yazılır.
+
+
+
+
+                                                                                         24
+    Korkmaz Makine Ltd.Şti.’den 19.03.2019 tarihinde A-65213 seri-sıra numaralı belge
+    ile alınan malın 3.800- TL si (KDV si 684 TL) ihracatı yapılan malın bünyesine
+    girmekte 4.200 TL si (KDV si 756 TL) ise teslim edilen teşvikli yatırım malı
+    bünyesine girmektedir. Bir fatura birden fazla işlem türü için yüklenim konusu yapılsa
+    dahi (faturanın KDV hariç tutarı ve KDV’si, İndirilecek KDV Listesi ile aynı
+    yazılmak şartıyla) sadece bünyeye giren KDV tutarında ayrıştırma yapılarak listeye
+    belge eklenmelidir.
+
+   Yüklenim Türü: Bu alana Yüklenilen KDV Listesine yazılan belgenin yüklenim türü
+    girilmelidir. Eğer belge “Doğrudan Yüklenim” (Mamul mal alımları, ham madde
+    alımları) ise “1”, “Genel Giderler” (genel yönetim gideri, pazarlama, satış, dağıtım
+    gideri vb.) den yüklenilmiş ise “2”, “ATİK” (Amortismana Tabi İktisadi Kıymet) den
+    yüklenilmiş ise “3” yazılmalıdır. Aynı belgede farklı yüklenim türleri bulunuyor ise,
+    (hem Doğrudan Yüklenim hem de Genel Giderler gibi) belge yüklenim türüne göre
+    bölünerek yazılmalıdır.
+
+    NOT: Yüklenim Türü alanı, Yüklenilen KDV Listesine 2014/08 KDV döneminden
+    itibaren eklenmiştir. Bu nedenle 2014/08 KDV döneminden önceki dönemlere ait
+    Yüklenilen KDV Listelerinde bu alan görülmeyecektir.
+
+   Belgenin İndirime Konu Edildiği KDV Dönemi: Bu alan 2015/11 iade dönemi
+    itibariyle Yüklenilen KDV Listesi verilmesi gereken bütün iade işlem türleri için
+    doldurulması zorunlu alandır. Yüklenilen KDV Listesine yazılan belge hangi dönem
+    İndirilecek KDV hesabına dâhil edilmiş ise o dönem yazılmalıdır. Örneğin;
+    01.04.2014 tarihli belge 2014/04 dönem KDV beyannamesinde “Bu Döneme Ait
+    İndirilecek KDV” bölümüne dâhil edilmiş ise bu alana 201404 yazılacaktır. Ancak,
+    07.06.2014 tarihli belge 2014/07 dönem KDV beyannamesinde “Bu Döneme Ait
+    İndirilecek KDV” bölümüne dâhil edildiğinde 201407 yazılacaktır.
+
+
+                                                                                       25
+      Belgenin Yüklenildiği KDV Dönemi: Bu alan 405,406 ve 439 iade işlem
+       türlerinden iadeler için doldurulması zorunlu alandır. (405 ve 406 işlem türleri
+       için 2015/11 dönemi itibariyle 439 işlem türü için ise 2016/01 dönemi itibariyle
+       girilmesi zorunlu alandır.) Bu alana Yüklenilen KDV Listesine yazılan belgenin
+       yüklenildiği dönem yazılmalıdır. Belge hangi iade işlem türünden, hangi dönemde
+       yüklenime konu edilmiş ise o dönem yazılmalıdır. Yüklenilen KDV listesinde bulunan
+       belgenin tamamının veya bir kısmının hangi ayda yapılan istisna satışlar için
+       yüklenildiğini belirtmek amacıyla bu alan kullanılmalıdır. Örneğin, Yüklenim
+       Listesinde yer alan belge 2015/08 döneminde yapılan istisna satışları için yüklenilmiş
+       ise bu alana 201508 yazılır. Aynı belge “Belgenin Yüklenildiği KDV Dönemi” alanı
+       farklı dönemler olarak yazılmak şartıyla birden fazla satıra kaydedilebilir. Böylece
+       indirimli orana tabi satışlar için aynı belge farklı aylarda yapılan istisna satışlarda
+       yüklenime konu olmuş ise bünyeye giren yüklenim tutarları bölünerek (İndirimli Oran
+       Hesaplama Tablosunda yazılı aylar itibariyle yüklenilen KDV tutarları ile uyumlu
+       olacak şekilde) yazılabilir.
+
+      Aracın Plaka Numarası: Bu alan “Uluslararası Taşımacılık İstisnası” iade türünde
+       karayolu taşımacılığı yapan mükellefler tarafından araca ait plaka numarasının
+       yazılması gereken bölümdür. Plaka “00AA0000” şeklinde birleşik olarak yazılmalıdır.
+       Kesilen faturada birden fazla araç varsa, yalnızca bir araca ait plaka numarası
+       girilebilmektedir. Diğer araçlara ait bilgiler için fatura örneğinin vergi dairesine ibraz
+       edilmesi gerekmektedir.
+
+      Aracın Şasi Numarası: Bu alana “Uluslararası Taşımacılık İstisnası” iade türünde,
+       karayolu taşımacılığı nedeniyle iade taleplerinde aracın şasi numarası yazılır. Kesilen
+       faturada birden fazla araca ait şasi numarası varsa, yalnızca bir araca ait şasi numarası
+       girilebilmektedir. Diğer araçlara ait bilgiler için fatura örneğinin vergi dairesine ibraz
+       edilmesi gerekmektedir.
+
+
+
+
+1.1.3.GÜMRÜK ÇIKIŞ BEYANNAMELERİ/ETGB LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+         GÇB/ETGB listesine İnternet Vergi Dairesi – sistem üzerinden doğrudan veya excel
+listesi üzerinden belge girişi ile ilgili açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+
+
+                                                                                              26
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    27
+    Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+       Mükelleflerin GÇB/ETGB Listesini her satıra bir GÇB/ETGB gelecek şekilde
+düzenlemeleri esastır. Ancak aynı ETGB’de farklı döviz cinsleri ile satış yapılmışsa, her
+döviz cinsi için ayrı bir satırda veri girişi yapılabilecektir. Yukarıdaki tabloda
+GÇB/ETGB’lerin girişlerine ilişkin örnek uygulama verilmiştir.
+
+
+
+
+                                                                                      28
+       Gümrük Çıkış Beyannamesi/ETGB Tescil Numarası: Bu alana Gümrük Çıkış
+        Beyannamesinin/ETGB’nin tescil numarası yazılmalıdır. (Gümrük Çıkış
+        Beyannamesi/ETGB tescil numarası 16 karakterden/18 karakterden oluşmaktadır ve
+        formatı şu şekildedir. (########EX###### , ########EX########)
+
+               İhracatta Gümrük Beyannamesinin bulunmaması durumunda (serbest bölge
+        işlem formu, özel fatura ile vb. yapılan ihracatlar da) belirtilen belgeler listelere ilave
+        edilmeyecek olup kâğıt ortamında vergi dairesine ibraz edilecektir.
+
+
+
+       GÇB/ETGB'deki Döviz Cinsi: Gümrük Çıkış Beyannamesindeki/ETGB’deki döviz
+        cinsi kutucuktan seçilerek doldurulur. (Gümrük Çıkış Beyannamesinin 22 no.lu
+        satırında bu bilgi bulunmaktadır.) Ayrıca İnternet Vergi Dairesinde bulunan excel
+        tablomuzda “Döviz Kodları” bilgileri bulunmaktadır.
+
+
+
+       GÇB/ETGB'ye İlişkin Toplam Fatura Tutarı (Döviz Cinsinden): Bu alana
+        Gümrük Çıkış Beyannamesine/ETGB’ye ilişkin toplam fatura tutarı döviz cinsinden
+        yazılmalıdır. (Gümrük Çıkış Beyannamesinin 22 no.lu satırında bu tutar
+        bulunmaktadır.
+
+
+
+       GÇB/ETGB: Bu alana, 1. sütunda tescil numarası girilen belge Gümrük Çıkış
+        Beyannamesi ise “GÇB”, Elektronik Ticaret Gümrük Beyannamesi ise “ETGB”
+        yazılmalıdır.
+
+
+
+
+1.1.4.SATIŞ FATURALARI LİSTESİNE  (İHRACAT)   SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+
+
+        Mükellefler, ihraç edilen her bir kalem (eşya) için aşağıda yer alan formu doldurarak
+satış faturaları listesini oluşturup gönderebilir. Satış faturaları listesine belge girişi ile ilgili
+açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+
+
+                                                                                                  29
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    30
+    Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+        "Satış Faturaları Listesi" ihraç edilen eşya (GTİP Numarası) bazında doldurulması
+gereken bir tablodur ve her satıra bir GTİP Numarası gelecek şekilde doldurulmalıdır. Eğer
+tek satış faturası ve tek GÇB ile birden fazla eşya ihraç edildi ise bu durumda ihraç edilen
+eşya adedince (GTİP Numarası adedince) GÇB tescil numarası, satış faturasının tarihi, serisi,
+sıra No.su ve malın alıcısı alanları tekrar edecektir. Bu durum yukarıda yer alan tablonun yeşil
+boyalı 3. ve 4. satırlarda örneklendirilmiştir. Örneğimizde aynı GÇB (52187300EX126875
+tescil no.lu GÇB) ve aynı satış faturası ile (15.01.2017 tarih ve T-965845 seri-sıra No.lu satış
+faturası ile) iki kalem eşya ihraç edilmiş ve iki ayrı satırda (her satıra bir GTİP numarası
+gelecek şekilde) liste doldurulmuştur.
+
+      Gümrük Çıkış Beyannamesi/ETGB Tescil Numarası: Bu alana Gümrük Çıkış
+       Beyannamesinin (GÇB)/ETGB’nin tescil numarası yazılmalıdır. (GÇB/ETGB tescil
+       numarası 16 karakterden/18 karakterden oluşmaktadır ve formatı şu şekildedir.
+       (########EX###### , ########EX########)
+
+
+                                                                                             31
+   İhraç Edilen Malın Cinsi: Bu alana ihraç edilen malın GTİP numarası (Gümrük
+    Tarife İstatistik Pozisyonu) yazılmalıdır. GTİP Numarası 12 haneli olmalı ve araya
+    nokta konulmamalıdır. Gümrük Çıkış Beyannamesinin “33 Eşya Kodu” satırında ihraç
+    edilen malın GTİP Numarası bulunmaktadır.
+
+
+
+   İhraç Edilen Malın Miktarı: Bu alana ihraç edilen malın miktarı yazılmalıdır. Bu
+    alan doldurulurken GÇB/ETGB’den faydalanılabilir.
+
+   İhraç Edilen Malın Ölçü Birimi Kodu: İhraç edilen malın ölçü birimi kutucuktan
+    seçilerek doldurulur. Bu alan doldurulurken GÇB/ETGB’den faydalanılabilir. Ayrıca,
+    örnek excel liste formatımızda “Ölçü Birim Kodları” bilgileri bulunmaktadır.
+
+
+
+   Satış Faturasının Tarihi: Bu alana ihraç edilen malın belgelendirildiği satış (ihracat)
+    faturasının tarihi GG.AA.YYYY (GÜN/AY/YIL) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana ihraç edilen malın belgelendirildiği satış (ihracat)
+    faturasının serisi yazılmalıdır. Bilindiği üzere fatura serileri “A5” gibi harf ve
+    rakamlardan oluşabileceği gibi “B” gibi sadece harften de oluşabilir. Faturaların
+    serileri A-5, A 5, A/5 şeklinde olsa bile (harf ve rakamların arasında "-, /, boşluk…"
+    gibi karakter olmaksızın) bitişik olarak "A5" şeklinde yazılmalıdır. Ancak 421 Sıra
+    No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+    zorunluluğu getirilen mükellefler tarafından, düzenlenmesi gereken e-belge bilgileri
+    doldurulurken bu belgelerde seri bulunmadığı için “Satış Faturasının Serisi” başlıklı
+    alan doldurulmayıp boş bırakılacaktır. Yukarıdaki tabloda buna ilişkin örnekler
+    bulunmaktadır.
+
+   Satış Faturasının Sıra No.su: Bu alana ihraç edilen malın belgelendirildiği satış
+    (ihracat) faturasının sıra numarası yazılmalıdır. Bu alan nümerik ve alfa nümerik
+    işaretlerin kullanıldığı en fazla 20 karakterden oluşabilir. (Örnek: 576, 9624, 701602,
+    A8F20120000000080000 vb.) (Yukarıdaki excel tablosu 2. satırında anılan belge
+    girişine ilişkin örnek bulunmaktadır.) 421 Sıra No.lu V.U.K. Genel Tebliği gereğince
+    elektronik belge uygulamasına dâhil olma zorunluluğu getirilen mükellefler
+    tarafından, düzenlenmesi gereken e-belgede yer alan 16 Karakterden oluşan e-belge
+    numarasının (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.
+    Örnek: GIB2013000000082, ABC2014000011437) tamamının satış faturasının sıra
+    numarası alanına yazılması gerekmektedir. Eğer satış faturası, alınan mal/hizmetlerin
+    çok sayıda olması nedeniyle izleyen faturalara nakil olmakta ise bu durumda bu alana,
+    faturanın toplam tutarının bulunduğu en son belgenin sıra numarasının yazılması
+    gerekmektedir.
+
+
+
+                                                                                        32
+      Alıcının Adı Soyadı/Unvanı: Bu alana ihraç edilen malın alıcısının unvanı/adı-soyadı
+       yazılmalıdır.
+
+
+
+      GÇB/ETGB: Bu alana, 1. sütunda tescil numarası girilen belge Gümrük Çıkış
+       Beyannamesi ise “GÇB”, Elektronik Ticaret Gümrük Beyannamesi ise “ETGB”
+       yazılmalıdır.
+
+
+
+1.1.5.TEVKİFATLI SATIŞLARA İLİŞKİN SATIŞ FATURASI LİSTESİNE
+SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE
+İLGİLİ AÇIKLAMALAR
+
+
+       Mükellefler her bir belge için aşağıda yer alan formu doldurarak Kısmi Tevkifat
+kapsamında yaptıkları satışlara ilişkin Tevkifatlı Satış Faturası Listesini oluşturup
+gönderebilirler. Tevkifatlı Satış Faturası Listesine belge girişi ile ilgili açıklamalar ve örnekler
+aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                                 33
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       34
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Bilindiği üzere
+    fatura serileri “A5” gibi harf ve rakamlardan oluşabileceği gibi “B” gibi sadece harften
+    oluşabilir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa bile (harf ve rakamların
+    arasında "-, /, boşluk…" gibi karakterler olmaksızın) bitişik olarak "A5" şeklinde
+    yazılmalıdır. Ancak 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+    uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+    gereken e-belge bilgileri doldurulurken bu belgelerde seri bulunmadığı için “Satış
+    Faturasının Serisi” başlıklı alan doldurulmayıp boş bırakılacaktır. Satış faturasında
+    herhangi bir seri numarası yoksa bu alan boş bırakılmalıdır. Yukarıdaki tabloda buna
+    ilişkin örnek bulunmaktadır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.)
+    (Yukarıdaki tablonun 3. ve 4. satırlarında anılan belge girişlerine ilişkin örnekler
+    bulunmaktadır.) 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+    uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+    gereken e-belgede yer alan 16 Karakterden oluşan e-belge numarasının (İlk üç
+    karakter alfa nümerik işaretleri, sonraki dört karakter faturanın düzenlendiği yılı ve
+    son dokuz karakter ise müteselsil numarayı ifade etmektedir. Örnek:
+    GIB2013000000082, ABC2014000011437) tamamının satış faturasının sıra numarası
+    alanına yazılması gerekmektedir. Eğer satış faturası, alınan mal/hizmetlerin çok sayıda
+    olması nedeniyle izleyen faturalara nakil olmakta ise bu durumda bu alana, faturanın
+    toplam tutarının bulunduğu en son belgenin sıra numarasının yazılması gerekmektedir.
+
+
+
+                                                                                          35
+   Alıcının Adı-Soyadı/Unvanı: Bu alana adına satış faturası düzenlenen alıcının adı-
+    soyadı/unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik Numarası / TC Kimlik Numarası: Bu alana alıcı tüzel
+    kişi/ortaklık ise vergi kimlik numarası; alıcı gerçek kişi ise TC kimlik numarası
+    yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana tevkifata tabi işlem kapsamında satışı
+    yapılan mal/hizmetin cinsi yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla
+    mal/hizmet satıldı ise bu sütuna -çok genel olmamak kaydıyla- ana başlıklar halinde
+    virgül ile ayırarak satılan malların/hizmetlerin cinsleri yazılır. Yukarıdaki tablonun 2.
+    satırın buna ilişkin örnek bulunmaktadır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana tevkifata tabi işlem kapsamında
+    satışı yapılan mal/hizmetin miktarı yazılmalıdır. Girişi yapılacak satış faturası ile
+    birden fazla mal/hizmet satıldı ise bu sütuna -çok genel olmamak kaydıyla- ana
+    başlıklar halinde virgül ile ayırarak satılan malların/hizmetlerin miktarı yazılır.
+    Yukarıdaki tablonun 2. satırında buna ilişkin örnek bulunmaktadır.
+
+   Satış Faturasının KDV Hariç Tutarı: Bu alana satış faturasının KDV hariç tutarı TL
+    cinsinden yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Satış faturası ile farklı KDV
+    oranlarına tabi mallar/hizmetler satıldı ise farklı oranlara tabi malların KDV hariç
+    tutarlarının toplamı bu alana yazılmalıdır. Örneğin; A malı 1.000 TL ve teslimi %8’lik
+    KDV’ye tabi, B malı 2.000 TL ve teslimi %18’lik KDV’ye tabi olup bu iki mal tek
+    fatura ile satıldı ise bu belgeye ilişkin toplam KDV hariç tutar (1.000 + 2.000 =) 3.000
+    TL olup bu alana 3.000,00 tutarı yazılmalıdır.
+
+   KDV'si: Bu alana satış faturasının KDV’si TL cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır. Satış faturası ile farklı KDV oranlarına tabi mallar/hizmetler
+    satıldı ise farklı oranlara göre hesaplanan KDV’ler toplanıp belgedeki toplam KDV
+    tutarı bu alana yazılmalıdır. Örneğin; A malı 1.000 TL ve teslimi %8’lik KDV’ye tabi,
+    B malı 2.000 TL ve teslimi %18’lik KDV’ye tabi olup bu iki mal tek fatura ile satıldı
+    ise bu belgeye ilişkin toplam KDV tutarı (1.000x%8) + (2.000x%18) = 440 TL olup
+    bu alana 440,00 tutarı yazılmalıdır.
+
+   Tevkif Edilen KDV Tutarı: Bu alana tevkifata tabi işlem kapsamında satış
+    faturasında belirtilen tevkif edilen KDV miktarı yazılmalıdır. Örneğin; toplam tutarı
+    10.000 TL olan tevkifata tabi satışı yapılan ürünün %18 KDV miktarı 1.800 TL’dir.
+    Bu tutar üzerinden 5/10 oranında yapılan tevkifat miktarı 900,00 TL bu alana
+    yazılacaktır.(1. Satır) Satış faturası ile farklı tevkifat oranlarına tabi mallar/hizmetler
+    satıldı ise farklı oranlara göre hesaplanan KDV’ler toplanıp belgedeki toplam tevkif
+    edilen KDV tutarı bu alana yazılmalıdır. Örneğin A malı 1.000 TL ve teslimi %8’lik
+    KDV’ye tabi olup yapılan tevkifat 1/2 oranında ve tevkifat tutarı 40 TL’dir. B malı
+
+                                                                                            36
+       2.000 TL ve teslimi %18’lik KDV’ye tabi olup yapılan tevkifat 2/3 oranında ve
+       tevkifat tutarı 240 TL’dir. Bu iki mal tek fatura ile satıldı ise bu belgeye ilişkin toplam
+       tevkif edilen KDV tutarı 280 TL olup bu alana 280,00 tutarı yazılmalıdır.
+
+
+
+
+1.1.6.İHRAÇ KAYITLI SATIŞ FATURASI LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+
+
+       Mükellefler her bir belge için aşağıda yer alan formu doldurarak İhraç Kayıtlı Satış
+Faturası Listesini oluşturup gönderebilirler. İhraç kayıtlı satış faturası belge girişi ile ilgili
+açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                               37
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       38
+        2014/Kasım döneminden itibaren İhraç Kayıtlı Satış Faturaları Listesi’ne giriş
+yapılırken, faturada bulunan her GTİP numarası bir satıra gelecek şekilde yazılması
+gerekmektedir. Bu şekilde yazılan belgelerde, Malın Miktarı, Malın KDV Hariç Tutarı, Malın
+KDV'si ve İhraç Kayıtlı Satılan Malın Ölçü Birim Kodu alanları GTİP numarasına isabet eden
+kısım kadar yazılmalıdır. Tek satış faturasında farklı GTİP numaralı mallar bulunuyorsa ve bir
+Gümrük Çıkış Beyannamesi veya ETGB ile ihraç edildi ise bu durumda ihraç edilen eşya
+adedince (GTİP Numarası adedince) GÇB/ETGB tescil numarası, satış faturasının tarihi,
+serisi, sıra no.su ve malın alıcısı alanları tekrar edecektir. Bu durum yukarıda yer alan
+tablonun 6. ve 7. satırlarında örneklendirilmiştir. Örneğimizde aynı GÇB/ETGB
+(44455555EX777777 tescil no.lu GÇB) ve aynı satış faturası ile (22.06.2018 tarih ve A 9850
+sıra no.lu satış faturası ile) 2 kalem eşya ihraç edilmiş ve 2 ayrı satırda (her satıra bir GTİP
+numarası gelecek şekilde) liste doldurulmuştur.
+
+         Eğer ihraç kayıtlı teslime ait bir faturadaki aynı GTİP numaralı mallar birden fazla
+Gümrük Çıkış Beyannamesi ile yurt dışı edildi ise bu durumda da satış faturasının tarihi,
+serisi, sıra no.su, malın alıcısı, alanları tekrar edecek şekilde Gümrük çıkış beyannamesi adedi
+kadar satırda yazılmalıdır.
+
+
+
+      Satış Faturasının Tarihi: Bu alana ihraç kayıtlı satış faturasının tarihi
+       GG.AA.YYYY (gün/ay/yıl) formatında yazılmalıdır.
+
+      Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Bilindiği üzere
+       fatura serileri “A5” gibi harf ve rakamlardan oluşabileceği gibi “B” gibi sadece harften
+       oluşabilir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa bile (harf ve rakamların
+       arasında "-, /, boşluk…" gibi karakterler olmaksızın) bitişik olarak "A5" şeklinde
+       yazılmalıdır. Ancak, 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+       uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+       gereken e-belge bilgileri doldurulurken bu belgelerde seri bulunmadığı için “Satış
+       Faturasının Serisi” başlıklı alan doldurulmayıp boş bırakılacaktır. Satış faturasında
+       herhangi bir seri numarası yoksa bu alan boş bırakılmalıdır.
+
+
+
+                                                                                             39
+   Satış Faturasının Sıra Numarası: Bu sütuna satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 25639, GIB20140000000000045 vb.) (Yukarıdaki
+    tablonun 2. ve 3. satırlarında anılan belge girişlerine ilişkin örnekler bulunmaktadır.)
+    421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil
+    olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi gereken e-belgede
+    yer alan 16 Karakterden oluşan e-belge numarasının (İlk üç karakter alfa nümerik
+    işaretleri, sonraki dört karakter faturanın düzenlendiği yılı ve son dokuz karakter ise
+    müteselsil      numarayı      ifade     etmektedir.     Örnek:      GIB2013000000082,
+    ABC2014000011437) tamamının satış faturasının sıra numarası alanına yazılması
+    gerekmektedir. Eğer satış faturası, alınan mal/hizmetlerin çok sayıda olması nedeniyle
+    izleyen faturalara nakil olmakta ise bu durumda bu alana, faturanın toplam tutarının
+    bulunduğu en son belgenin sıra numarasının yazılması gerekmektedir.
+
+   Alıcının Adı Soyadı/Unvanı: Bu alana ihraç kayıtlı satış faturası düzenlenen alıcının
+    adı-soyadı/unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik Numarası/ TC Kimlik Numarası: Bu alana alıcı tüzel
+    kişi/ortaklık ise vergi kimlik numarası; alıcı gerçek kişi ise TC kimlik numarası
+    yazılmalıdır.
+
+   Malın Cinsi: 2014/Kasım dönemine kadar olan dönemlere ilişkin liste girişlerinde bu
+    alana ihraç kayıtlı satılan malın cinsi yazılmalıdır. Bu alan harf ve rakamlardan
+    oluşabilir. Girişi yapılacak ihraç kayıtlı satış faturası ile birden fazla mal satıldı ise bu
+    alana çok genel olmamak kaydıyla ana başlıklar halinde virgül ile ayırarak satılan
+    malların cinsleri yazılır. 2014/Kasım dönemi ve sonraki dönemlere ilişkin liste
+    girişlerinde ise bu alana ihraç edilen malın GTİP numarası (Gümrük Tarife İstatistik
+    Pozisyonu) yazılmalıdır. GTİP Numarası 12 haneli olmalı ve araya boşluk veya nokta
+    konulmamalıdır. Gümrük Çıkış Beyannamesinin “33 Eşya Kodu” satırında ihraç
+    edilen malın GTİP Numarası bulunmaktadır. Bu satırdaki rakamlar 12 haneli olarak 6
+    No.lu Sütuna kaydedilmelidir.
+
+   Malın Miktarı: Bu alana ihraç edilen malın miktarı yazılmalıdır. Bu alan
+    doldurulurken GÇB’den faydalanılabilir.
+
+   Miktar Kodu (Ölçü Birim Kodu) : 2014/Kasım dönemi ve sonraki dönemlere ilişkin
+    liste girişlerinde bu alana ihraç edilen malın ölçü birimi kodlanarak yazılmalıdır. Bu
+    alan doldurulurken GÇB’den faydalanılabilir. Ayrıca, örnek excel liste formatımızda
+    “Ölçü Birim Kodları” bilgileri bulunmaktadır.
+
+
+
+   Malın KDV Hariç Tutarı: 2014/Kasım dönemine kadar olan dönemlere ilişkin liste
+    girişlerinde bu alana ihraç kayıtlı satış faturasının KDV hariç tutarı TL cinsinden
+
+                                                                                              40
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. İhraç kayıtlı satış faturası ile farklı
+    KDV oranlarına tabi mallar satıldı ise farklı oranlara tabi malların KDV hariç
+    tutarlarının toplamı bu alana yazılmalıdır. Örneğin; A malı 1.000 TL ve teslimi
+    %8’lik KDV’ye tabi, B malı 2.000 TL ve teslimi %18’lik KDV’ye tabi olup bu iki mal
+    tek fatura ile satıldı ise bu belgeye ilişkin toplam KDV hariç tutar (1.000 + 2.000 =)
+    3.000 TL olup bu alana 3.000,00 tutarı yazılmalıdır. 2014/Kasım dönemi ve sonraki
+    dönemlere ilişkin liste girişlerinde ise bu alana yine ihraç kayıtlı satış faturasının KDV
+    hariç tutarı TL cinsinden yazılacak ancak satış faturasında yer alan mallar GTİP
+    numarası bazında detaylandırılarak her GTİP numarasına isabet eden tutar bölünerek
+    yazılacaktır. Söz konusu işleme ilişkin liste örneği yukarıda yer almaktadır.
+
+   Malın KDV’si: 2014/Kasım dönemine kadar olan dönemlere ilişkin liste girişlerinde
+    bu alana ihraç kayıtlı satış faturasının KDV’si TL cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır. İhraç kayıtlı satış faturası ile farklı KDV oranlarına tabi
+    mallar satıldı ise farklı oranlara göre hesaplanan KDV’ler toplanıp belgedeki toplam
+    KDV tutarı bu alana yazılmalıdır. Örneğin; A malı 1.000 TL ve teslimi %8’lik
+    KDV’ye tabi, B malı 2.000 TL ve teslimi %18’lik KDV’ye tabi olup bu iki mal tek
+    fatura ile satıldı ise bu belgeye ilişkin toplam KDV tutarı (1.000 x%8) + (2.000 x%18)
+    = 440 TL olup bu alana 440,00 tutarı yazılmalıdır. 2014/Kasım dönemi ve sonraki
+    dönemlere ilişkin liste girişlerinde ise bu alana yine ihraç kayıtlı satış faturasının KDV
+    tutarı TL cinsinden yazılacak ancak satış faturasında yer alan mallar GTİP numarası
+    bazında detaylandırılarak her GTİP numarasına isabet eden tutar bölünerek
+    yazılacaktır. Söz konusu işleme ilişkin liste örneği yukarıda yer almaktadır.
+
+   İhracatçı Tarafından Yurt Dışına Düzenlenen Satış Faturasının Tarihi
+    (GÇB/ETGB Üzerindeki Bilgiler): Bu alana ihracatçı tarafından yurt dışına
+    düzenlenen satış faturasının tarihi (İhracatçı firmaya ait Gümrük Beyannamesi/ETGB
+    üzerinde yazılan fatura tarihi) GG.AA.YYYY (gün/ay/yıl) formatında yazılmalıdır.
+    İhracat GÇB/ETGB haricinde bir belge ile gerçekleşmişse (Serbest bölge işlem formu,
+    özel fatura vb.) bu alan boş bırakılmalıdır.
+
+   Gümrük Çıkış Beyannamesi (GÇB)/ETGB Tescil Numarası: Bu alana Gümrük
+    Çıkış Beyannamesi/ETGB tescil numarası yazılmalıdır. Gümrük Çıkış
+    Beyannamesi/ETGB tescil numarası 16 karakterden/18 karakterden oluşmaktadır ve
+    formatı şu şekildedir. (########EX###### , ########EX########) İhracat
+    GÇB/ETGB haricinde bir belge ile gerçekleşmişse (Serbest bölge işlem formu, özel
+    fatura vb.) bu alan boş bırakılmalıdır.
+
+
+
+   GÇB/ETGB : Bu sütuna, tescil numarası girilen belge Gümrük Çıkış Beyannamesi
+    ise “GÇB”, Elektronik Ticaret Gümrük Beyannamesi ise “ETGB” yazılmalıdır.
+
+
+
+
+                                                                                           41
+    1.1.7. KDV KANUNUNUN GEÇİCİ 16, GEÇİCİ 26. ve GEÇİCİ 29.
+    MADDELERİ GEREĞİ SATIŞ FATURASI LİSTESİNE SİSTEM
+    ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+    AÇIKLAMALAR
+
+
+   Mükellefler her bir belge için aşağıda yer alan formu doldurarak KDV Kanunu’nun Geçici
+16 ( İade Dönemi: 2016/09 itibariyle alınmaya başlamıştır. ), Geçici 26. ve Geçici 29.
+Maddeleri kapsamında yaptıkları satışlara ilişkin satış faturası listesini oluşturup
+gönderebilirler. Satış faturası listesine belge girişi ile ilgili açıklamalar ve örnekler aşağıda yer
+almaktadır.
+
+
+
+     Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                                  42
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       43
+           Mükelleflerin satış faturası listesini her satıra bir belge gelecek şekilde düzenlemeleri
+esastır.
+
+
+
+          Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+           (gün/ay/yıl) formatında yazılmalıdır.
+
+          Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Bilindiği üzere
+           fatura serileri “A5” gibi harf ve rakamlardan oluşabileceği gibi “B” gibi sadece harften
+           oluşabilir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa bile (harf ve rakamların
+           arasında "-, /, boşluk…" gibi karakterler olmaksızın) bitişik olarak "A5" şeklinde
+           yazılmalıdır. Ancak 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+           uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+           gereken e-belge bilgileri doldurulurken bu belgelerde seri bulunmadığı için “Satış
+           Faturasının Serisi” başlıklı alan doldurulmayıp boş bırakılacaktır. Satış faturasında
+           herhangi bir seri numarası yoksa bu alan boş bırakılmalıdır. Yukarıdaki tabloda buna
+           ilişkin örnek bulunmaktadır.
+
+          Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+           yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+           karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.)
+           (Yukarıdaki tablonun 2. ve 3. satırlarında anılan belge girişlerine ilişkin örnekler
+           bulunmaktadır.) 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+           uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+                                                                                                 44
+    gereken e-belgede yer alan 16 Karakterden oluşan e-belge numarasının (İlk üç
+    karakter alfa nümerik işaretleri, sonraki dört karakter faturanın düzenlendiği yılı ve
+    son dokuz karakter ise müteselsil numarayı ifade etmektedir. Örnek:
+    GIB2013000000082, ABC2014000011437) tamamının satış faturasının sıra numarası
+    alanına yazılması gerekmektedir. Eğer satış faturası, alınan mal/hizmetlerin çok sayıda
+    olması nedeniyle izleyen faturalara nakil olmakta ise bu durumda bu alana, faturanın
+    toplam tutarının bulunduğu en son belgenin sıra numarasının yazılması gerekmektedir.
+
+   Alıcının Adı-Soyadı/Unvanı: Bu alana adına satış faturası düzenlenen alıcının adı-
+    soyadı/unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik Numarası / TC Kimlik Numarası: Bu alana alıcı tüzel
+    kişi/ortaklık ise vergi kimlik numarası; alıcı gerçek kişi ise TC kimlik numarası
+    yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satışı yapılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet satıldı ise bu
+    sütuna -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak satılan
+    malların/hizmetlerin cinsleri yazılır. Yukarıdaki tabloda buna ilişkin örnekler
+    bulunmaktadır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet satıldı ise
+    sütuna -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak satılan
+    malların/hizmetlerin miktarı yazılır. Yukarıdaki tabloda buna ilişkin örnekler
+    bulunmaktadır.
+
+   Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının toplam tutarı TL
+    cinsinden yazılmalıdır. Bu alan rakamlardan oluşmalıdır.
+
+   Belgeye İlişkin İade Hakkı Doğuran İşlem Türü: Bu alan, iade hakkı doğuran işlem
+    türü ayrımı yapılmaksızın bir adet veya birden fazla iade hakkı doğuran işlem bulunsa
+    da doldurulmalıdır. Bu alana iade hakkı doğuran işlem türünün e-beyannamedeki kodu
+    yazılır. İade hakkı doğuran işlem türlerinin kodları internet vergi dairesinden iade
+    talebi girilirken açılan "KDV İADESİ TALEBİ GİRİŞİ" ekranında yer almaktadır.
+
+    ÖRNEK : Korkmaz Makine Ltd.Şti.’nin 2018/Eylül döneminde iade hakkı doğuran
+    işlemleri şu şekildedir.
+
+
+
+
+                                                                                         45
+      Yukarıdaki tabloda örneğimize uygun olarak "318 Koduna Ait İade Türü" ve "321
+Koduna Ait İade Türü" örnekleri gösterilmektedir.
+
+
+
+1.1.8.İADESİ TALEP EDİLEN KDV HESAPLAMA TABLOSUNA SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+       2014/05 dönemi ve sonraki dönemlerde, internet vergi dairesinden iade talep edilirken,
+Yüklenilen KDV Listesinin verilmesi gereken tüm iade işlemlerinde “İadesi Talep Edilen
+KDV Hesaplama Tablosu” nun da verilmesi gerekmektedir. Mükellefler aşağıda yer alan
+formu doldurarak İadesi Talep Edilen KDV Hesaplama Tablosunu oluşturup gönderebilirler.
+İadesi Talep Edilen KDV Hesaplama Tablosuna belge girişi ile ilgili açıklamalar ve örnekler
+aşağıda yer almaktadır.
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                          46
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       47
+   Dönem: Bu alana iade hakkı doğuran işlemin dönemi (Örneğin: 06/2018-06/2018
+    formatında) yazılmalıdır.
+
+   İade Hakkı Doğuran İşlem Türü: Bu alan, iade hakkı doğuran işlem türü ayrımı
+    yapılmaksızın bir adet veya birden fazla iade hakkı doğuran işlem bulunsa da
+    doldurulmalıdır. Bu alana iade hakkı doğuran işlem türünün e-beyannamedeki kodu
+    yazılır. (Örneğin:301,308 vb.) İade hakkı doğuran işlem türlerinin kodları internet
+    vergi dairesinden iade talebi girilirken açılan “KDV İADESİ TALEBİ GİRİŞİ”
+    ekranında       yer      almaktadır.     (Ayrıca      bahse      konu       kodlar
+    “yüklenilen_kdv_listesi_FORMATI” isimli Excel dosyasının çalışma sayfasında da
+    bulunmaktadır.)
+
+   İade Hakkı Doğuran İşlem Bedeli : Bu alana iade hakkı doğuran işlemin bedeli
+    (Teslim Bedeli) yazılmalıdır. Bu alan rakamlardan oluşmalıdır.
+
+
+
+   İadesi Talep Edilebilir Azami Vergi: Bu alana iade edilebilir azami vergi
+    hesaplanarak yazılmalıdır. (Teslim Bedeli ile Genel KDV oranının çarpımı sonucu
+    bulunacak tutardır.
+
+          Örneğin iade işlem bedelinin 100.000-TL olması halinde bu alana;
+    100.000-TL x %18 =18.000-TL yazılması gerekir. Bu alan rakamlardan oluşmalıdır.
+
+
+
+   İşlemin Bünyesine Doğrudan Giren Vergiler: Bu alana iade hakkı doğuran işlem
+    için bünyeye giren KDV tutarı yazılmalıdır. Yani kullanılan ilk madde ve malzeme ile
+    yardımcı madde ve malzemelerin KDV tutarıdır.
+
+
+
+                                                                                     48
+              Aynı örnek için 60.000-TL X %18 = 10.800-TL kabul edelim İlgili dönem mal
+       alımlarından Yüklenilen KDV Tutarı yazılmalıdır. Bu alan rakamlardan oluşmalıdır.
+
+
+
+      Genel İmal ve İdare Giderlerinden İade Hesabına Verilen Pay: Bu alana iade
+       hakkı doğuran işlem için yapılan giderlere ait verilen pay yazılmalıdır. (Pazarlama
+       satış ve dağıtım giderleri, yönetim giderleri, finansman giderleri vb. Bunu da 20.000-
+       TL X %18 = 3.600-TL kabul edelim. İlgili dönem genel giderlerden Yüklenilen KDV
+       tutarı yazılmalıdır. Bu alan rakamlardan oluşmalıdır.
+
+      Atikler Nedeniyle Yüklenilen Vergiden İade Hesabına Verilen Pay: Bu alana iade
+       hakkı doğuran işlemlerde kullanılan “Amortismana Tabi İktisadi Kıymet” alımları için
+       hesaba dâhil edilen pay tutarı yazılmalıdır. Ancak diğer alanlarla birlikte bu alanın
+       toplamı “İadesi Talep Edilebilir Azami Vergi” tutarını aşmamalıdır. Eğer ATİK KDV
+       yok ise bu alan boş bırakılmalıdır.
+
+              Bizim önceki dönemlerden aldığımız ve 40.000-TL tutarındaki imalatta
+       kullanılan makinemiz olduğunu varsayalım, makinenin KDV tutarı (40.000-TL x %18
+       = 7.200-TL) olmasına rağmen, bu dönem için bu alana yazabileceğimiz azami tutar;
+       (10.800+3.600=14.400), (18.000-14.400=3.600) 3.600-TL'dan fazla olmamalıdır.
+       İlgili dönem amortismanlardan Yüklenilen KDV tutarı yazılmalıdır. Bu alan
+       rakamlardan oluşmalıdır.
+
+
+
+      Yüklenilen KDV Toplamı: 5,6 ve 7. sütunlara yazılan tutarların toplamı yazılmalıdır.
+       Örneğimizde (10.800 +3.600 +3.600 = 18.000-TL) yazmamız gereken tutardır. Bu
+       alan rakamlardan oluşmalıdır.
+
+
+
+1.1.9. İNDİRİMLİ ORAN HESAPLAMA TABLOSUNA                                         SİSTEM
+ÜZERİNDEN BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+
+       2015/04 dönemi ve sonraki dönemlerde, internet vergi dairesinden iade
+talep edilirken, “İndirimli Orana Tabi İşlemlere İlişkin İade” işlemlerinde (yılı
+içerisinde mahsuben -406 işlem türü- ve yıllık -439 işlem türü- iade) ve indirimli
+orana tabi malların ihraç kaydıyla teslimleri ile ilgili Yüklenilen KDV farkından
+doğan -405 işlem türü- iade işlemlerinde “İndirimli Oran Hesaplama Tablosu”
+nun verilmesi gerekmektedir. İndirimli Oran Hesaplama Tablosunun
+doldurulması ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+                                                                                          49
+50
+   İşlem Türü: Bu alana ilgili dönem KDV beyannamesinde indirimli orana tabi işlemler
+    ile ilgili olan kod otomatik olarak gelmektedir. Aynı dönemde hem -406- hem -439-
+    işlem türünden iade talebi var ise bu durumda işlem türü seçilerek her ikisi için aynı
+    ekran kullanılarak bilgiler girilmelidir.
+
+   Dönem: Bu alana beyannamedeki işlem türü -406- ise iade talep edilen yılın Ocak
+    ayından iade talep edilen döneme kadar olan aylar gelecektir. Söz konusu alanda ilgili
+    ay seçilerek o aya ait bilgiler girilmelidir. 439 işlem türünden iade talebi var ise bir
+    önceki yılın 12 ayı ekrana gelecek ve ilgili aylar seçilerek bilgiler girilecektir.
+
+   İndirimli Orana Tabi İşlem Bedeli: Bu alana seçilen dönemin 1 No.lu KDV
+    Beyannamesi “Tevkifat Uygulanmayan İşlemler Bölümü, %1 ve %8’lik alımlara
+    ilişkin Toplam Matrah Tutarı’’ ve ‘’Kısmi Tevkifat Uygulanan İşlemler %8’lik
+    alımlara ilişkin Matrah Tutarı’’ toplamı yazılmalıdır.
+
+
+
+                                                                                         51
+   İndirimli Orana Tabi Hesaplanan KDV: Bu alana seçilen dönemin 1 No.lu Kdv
+    Beyannamesi, “Tevkifat Uygulanmayan İşlemler Bölümü, %1 ve %8’lik alımlara
+    ilişkin Toplam KDV Tutarı’’ ve ‘’Kısmi Tevkifat Uygulanan İşlemler %8’lik alımlara
+    ilişkin KDV Tutarı’’ toplamı yazılmalıdır.
+
+
+
+   İndirimli Orana Tabi Yüklenilen KDV: Bu alana seçilen dönemin indirimli orana
+    tabi işlemlerinden yapılan teslimlere isabet eden alımların KDV tutarı yazılmalıdır.
+
+   Fark: İndirimli Orana Tabi Yüklenilen KDV ile İndirimli Orana Tabi Hesaplanan
+    KDV tutarı arasındaki fark sistem tarafından hesaplanıp otomatik olarak gelecektir.
+
+   Önceki Dönem Sonu İade Edilebilir KDV Tutarı: Bu alanda satışların yapıldığı ilk
+    ayda tutar “0” (sıfır) olarak girilmelidir. Takip eden aylarda ise tablonun bir önceki
+    ayında “İadeye Esas KDV Tutarı” alanında yer alan tutar yazılmalıdır. Ancak, bu
+    tutarın ilgili aya ait “Devreden KDV” tutarından yüksek olması halinde, iadeye esas
+    KDV tutarı yerine, “Devreden KDV Tutarı” yazılmalıdır.
+
+
+    NOT: Tablonun bu alanına Ocak ayına ait tutar her zaman (Sıfır) “0” olarak
+    girilmelidir.
+
+
+
+   İadeye Esas KDV Tutarı: Bu alan “Fark” bölümü ile “Önceki Dönem Sonu İade
+    Edilebilir KDV Tutarı” nın toplamından oluşmakta olup sistem tarafından hesaplanıp
+    otomatik olarak gelecektir.
+
+   İade Edilebilir KDV Tutarı: 26.04.2014 tarih ve 28983 sayılı Resmi Gazete ile
+    01.05.2014 tarihi itibariyle uygulamaya konulan “KDV Genel Uygulama Tebliği” nin
+    III-B.3.6 Açıklamalı Örnek Bölümü gereğince:
+
+          Bu alana “İadeye Esas KDV Tutarı - O Yıl İçin Belirlenen İstisna Sınırı - Daha
+    Önceki Dönemler Mahsubu Gerçekleşen İade Tutarı” işleminin sonucu yazılacaktır.
+
+            Ancak; bu tutarın ilgili aya ait “Devreden KDV” tutarından yüksek olması
+    halinde “Devreden KDV Tutarı” yazılmalıdır. Bu tutarın negatif çıkması halinde sıfır
+    olarak yazılacaktır.
+
+    İade Edilebilir Kdv Tutarı = ( İadeye Esas Kdv Tutarı – Önceki Dönem Mahsubu
+    Gerçekleşen Kdv Tutarı / Tutarları – BKK Had Sınırı ) hesaplaması
+    yapılmaktadır.
+
+
+
+                                                                                       52
+      Devreden KDV Tutarı: 26.04.2014 tarih ve 28983 sayılı Resmi Gazete ile
+       01.05.2014 tarihi itibariyle uygulamaya konulan “KDV Genel Uygulama Tebliği” nin
+       III-B.3.1.2 üçüncü paragrafı, “İadesi talep edilebilir tutar, izleyen yılın Ocak
+       vergilendirme döneminden iadenin talep edildiği döneme kadar verilen
+       beyannamelerde yer alan devreden vergi tutarları ile karşılaştırılır. İadenin talep
+       edildiği döneme ait karşılaştırmada devreden vergi tutarı olarak iadesi talep edilen
+       tutar düşülmeden önceki devreden vergi tutarı dikkate alınır.’’ hükmü gereğince,
+
+       İlgili Ay Hesaplama Tablosu Devreden KDV Tutarı = İlgili Ay KDV
+       Beyannamesi 406 Kodu İade Tutarı + İlgili Ay KDV Beyannamesi 405 Kodu İade
+       Tutarı + İlgili Ay KDV Beyannamesi Devreden KDV Tutarı toplamının,
+       yazılması gerekmektedir.
+
+
+
+      Mahsubu Gerçekleşen KDV Tutarı: Bu alana seçilen aylardan önceki dönemlerde
+       gerçekleştirilmiş olan mahsup tutarları yazılacaktır.
+
+
+
+   NOT 1- İndirimli Oran Hesaplama Tablosunda her alana giriş yapılmalıdır. Ancak,
+   yazılacak herhangi bir tutar yoksa o bölümlere “sıfır” yazılarak geçilecektir.
+
+      Örneğin; mükellefin 2015/04 döneminde -439- iade türünden iade talebinin bulunması
+   ve işe başlama tarihinin 2014/05 olması halinde, 439 işlem türü için 2014/01-2014/12
+   dönemine kadar tüm dönemler açılacak olup, işe başlama tarihinden önceki dönemlere
+   (2014/01-2014/04) ilişkin tüm alanlar “sıfır” olarak yazılacaktır.
+
+   NOT 2- Tablonun oluşturulmasında, Excel tablosundan veri çekilmeyecektir. Girişler
+   manuel olarak bu ekrandan yapılacaktır.
+
+
+
+1.1.10. İNDİRİMLİ ORANA TABİ İŞLEMLERE AİT SATIŞ FATURASI
+LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE
+GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+     İndirimli Orana Tabi Satışlara İlişkin Satış Faturası Listesi; 01/2016 iade dönemi ve
+sonrası dönemler için, -406 işlem kodundan- İndirimli orana tabi işlemlere ilişkin iade (yılı
+içinde aylık mahsuben iade), -439 işlem kodundan- İndirimli orana tabi işlemlere ilişkin iade
+(yıllık) ve -405 işlem kodundan- (İndirimli orana tabi malların ihraç kaydıyla teslimleri ile
+ilgili yüklenilen KDV farkından) iade talep eden mükellefler tarafından doldurulacaktır.
+Mükellefler her bir belge için aşağıda yer alan formu doldurarak İndirimli Orana Tabi Satış
+Faturası Listesini gönderebilirler. Listeye belge girişi ile ilgili açıklamalar aşağıda yer
+almaktadır.
+
+                                                                                          53
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    54
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri          (Örnek Excel İndir)
+
+
+
+
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Ancak, satış faturası yerine Z raporu, mahsup fişi, ödeme
+    kaydedici cihaz fişleri veya 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik
+    belge uygulamasında bulunan mükellefler tarafından düzenlenen e- belgelerde “Seri”
+    alanı bulunmadığından “Alış Faturasının Serisi” bölümü boş bırakılacaktır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+
+                                                                                          55
+    belgeler “Alış Faturasının Sıra No.su” alanına boşluk bırakılmadan bitişik olarak
+    (GIB2013000000082, ABC2014000011437 gibi) yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+    Ancak, bu alana satış faturası yerine Z raporu, mahsup fişi veya ödeme kaydedici
+    cihaz fişleri yazılacak ise bu durumda vergi kimlik numarası alanına 10 tane “üç”
+    (3333333333) yazılmalıdır.
+
+    ÖNEMLİ: Excel’ de liste tamamlandıktan sonra Vergi Kimlik Numarası/TC Kimlik
+    Numarasının olduğu sütunun tamamı başlık olmadan seçilmeli ve aşağıdaki adımlar
+    takip edilmelidir.
+
+            Seçilen Sütun / Veri / Sütunu Metinlere Dönüştür / Sınırlandırılmış
+    işaretlenmeli ve ileri tuşuna basılmalı/ Sekme işaretlenmeli ve ileri tuşuna basılmalı /
+    Metin işaretlenmeli ve son tuşuna basılmalıdır.
+
+           Bu işlemler yapıldıktan sonra listeler girilebilecektir.
+
+
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet satındı ise bu
+    sütuna -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak alınan
+    malların/hizmetlerin cinsleri yazılır. Bir faturada hem %1 hem de %8 orana tabi satış
+    var ise bu mal/hizmetler KDV oranlarına göre ayrıştırılarak yazılması gerekir. Satış
+    faturasında %18’lik satış varsa listeye hiç yazılmayacaktır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak satış faturası ile
+    birden fazla mal/hizmet satılmış ise bu alana -çok genel olmamak kaydıyla- ana
+    başlıklar halinde virgül ile ayırarak satılan mal/hizmetlerin miktarları ve birim/ölçü
+    türleri yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin KDV Hariç Tutarı: Bu alana satış faturasının KDV
+    hariç tutarı TL cinsinden yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Satış
+    faturasında farklı KDV oranlarına tâbi mallar/hizmetler bulunursa fatura KDV
+    oranlarına göre bölünerek (%1 veya %8 KDV oranına tabi mallar) KDV hariç
+    tutarlarının toplamı yazılmalıdır. Satış faturasında %18’lik satış varsa listeye hiç
+    yazılmayacaktır.
+
+
+
+                                                                                          56
+   KDV Oranı: Bu alan rakamlardan oluşmalıdır. Bir faturada hem %1 hem de %8 orana
+    tabi satış var ise bu mal/hizmetler KDV oranlarına göre ayrıştırılarak yazılması
+    gerekir. Satış faturasında %18’lik satış varsa listeye hiç yazılmayacaktır.
+
+    ÖNEMLİ: Bu alana giriş yapılırken KDV oranının başında yüzde işaretinin
+    yazılmaması, 1 ve/veya 8 olarak girilmesi gerekmektedir. Hücre formatı yüzdeyi
+    otomatik olarak algılamaktadır.
+
+   KDV’si: Bu alana satış faturasının KDV tutarı TL cinsinden yazılmalıdır.
+
+   İade İşlem Türü: Bu alana ilgili satış faturasının, KDV beyannamesinde gösterilen
+    405,406 veya 439 iade işlem türlerinden hangisi için düzenlenmişse o işlem türü
+    yazılmalıdır.
+
+   GÇB Tescil Numarası (405 İşlem Türünden İadelerde): Bu alana sadece -405-
+    işlem türünden iadelerde yapılan satışlara ait faturalardaki malların ihracatının
+    yapıldığı gümrük çıkış beyannamesinin tescil numarası yazılmalıdır. Gümrük Çıkış
+    Beyannamesi tescil numarası 16 karakterden/18 karakterden oluşmaktadır ve formatı
+    şu şekildedir. (########EX###### , ########EX######## ). İhracat işlemi GÇB
+    düzenlenmeden yapılması halinde bu alan boş bırakılacaktır.
+
+
+
+    Zemin Sistem Numarası: Sadece inşaat taahhüt işlerinde ve/veya konut
+    teslimlerinde, teslimin yapıldığı konuta ait olan Zemin Sistem Numarasının yazılması
+    gereken alandır. Zemin Sistem Numarası, satışı yapılan taşınmaza ait tapu senedi
+    üzerinde yer almaktadır. Zemin Sistem Numarası tapu senedi bulunan tüm
+    taşınmazlara verilen taşınmaza özel bir numaradır. Bu alana sadece iadeye konu
+    konuta ait Zemin Sistem Numarası yazılacak olup arsaya veya binanın tümüne ait
+    Zemin Sistem Numarası yazılmayacaktır. Bu alan 01.04.2020 tarihinden itibaren
+    2020/01 dönemi ve sonraki dönemler için ilk defa gönderilecek veya pasife çekilip
+    yeniden onaylanacak olan İndirimli Orana Tabi Satışlara İlişkin Satış Fatura
+    Listelerinde yer alacaktır.
+
+
+
+   Tapu Kayıt Yevmiye Numarası: Sadece inşaat taahhüt işlerinde ve/veya konut
+    teslimlerinde, teslimin yapıldığı konuta ait Tapu Kadastro Genel Müdürlüğü
+    “Yevmiye Defteri” kayıtlarındaki “Tapu Kayıt Yevmiye Numarası” nın yazılması
+    gereken alandır. Tapu Kayıt Yevmiye Numarası, satışı yapılan taşınmaza ait tapu
+    senedi üzerinde yer almaktadır. “Zemin Sistem Numarası” girilen konutlarda “Tapu
+    Kayıt Yevmiye Numarası” nın da girilmesi zorunludur.
+
+
+
+
+                                                                                     57
+   Sektör Bilgisi Numarası: İndirimli Orana Tabi Satışlara ilişkin KDV İade talebinin
+    konusu olan “Sektör Bilgisi Numarası” nın yazılacağı alandır. Sektörlere ait verilen –
+    kod numaraları- “İndirimli Orana Tabi Satışlara İlişkin Satış Fatura Listesi” Excel
+    içeriğinde bulunmaktadır. Ayrıca; İnternet Vergi Dairesi üzerinden sisteme liste giriş
+    ekranında da otomatik olarak seçilebilmektedir. Bu alanın doldurulması zorunludur.
+    Örneğin; “İnşaat Sektörü” için belirlenen numara -100-, “Tekstil Sektörü” için
+    belirlenen numara -110- olarak çıkmaktadır.
+
+    Bu alana, ilgili dönemde İndirimli Oranda Satışlara İlişkin KDV İadesi talebinde
+    bulunulan sektör ve/veya sektörlere ait doğru numaraların girilmesi gerekmektedir.
+    Aksi halde KDVİRA Kontrol Raporu’nda bunlara ait sorgulamalar doğru
+    yapılamayacağından ilgili segmentlerde hata verecektir.
+
+   Alt Sektör Bilgisi Numarası: İndirimli Orana Tabi Satışlara ilişkin KDV İade
+    talebinin konusu olan “Alt Sektör Bilgisi Numarası” nın yazılacağı alandır. Alt
+    sektörlere ait verilen –kod numaraları- “İndirimli Orana Tabi Satışlara İlişkin Satış
+    Fatura Listesi” Excel içeriğinde bulunmaktadır. Ayrıca; İnternet Vergi Dairesi
+    üzerinden sisteme liste giriş ekranında da otomatik olarak seçilebilmektedir. Bu alanın
+    doldurulması zorunludur. Örneğin; “150 m2 Altı Daire Teslimi” alt sektörü için
+    belirlenen numara -101-, “Hazır Giyim Teslimi” alt sektörü için belirlenen numara -
+    111- olarak çıkmaktadır.
+
+    Bu alana, ilgili dönemde İndirimli Oranda Satışlara İlişkin KDV İadesi talebinde
+    bulunulan alt sektör ve/veya alt sektörlere ait doğru numaraların girilmesi
+    gerekmektedir. Aksi halde KDVİRA Kontrol Raporu’nda bunlara ait sorgulamalar
+    doğru yapılamayacağından ilgili segmentlerde hata verecektir.
+
+   Konut Teslimi Yapılan Kişi/Kurum: Konut teslimi arsa sahiplerine yapılmış ise -1- ,
+    farklı bir kişi ve/veya kurumlara yapılmış ise -2- “kod numarası” nın yazılması
+    gereken alandır.
+
+    Bu alana yazılması gereken –kod numaraları- “İndirimli Orana Tabi Satışlara İlişkin
+    Satış Fatura Listesi” Excel içeriğinde bulunmaktadır. Ayrıca; İnternet Vergi Dairesi
+    üzerinden sisteme liste giriş ekranında da otomatik olarak seçilebilmektedir.
+
+
+
+
+                                                                                        58
+1.1.11. YATIRIM TEŞVİK BELGELİ SATIŞLARA İLİŞKİN SATIŞ
+FATURASI     LİSTESİNE SİSTEM    ÜZERİNDEN    VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+        Yatırım Teşvik Belgeli Satışlara İlişkin Satış Faturası Listesi; 04/2016 iade dönemi ve
+sonrası dönemler için; - 308 işlem kodundan - teşvikli yatırım mallarının teslimi nedeniyle
+iade talep eden mükellefler tarafından doldurulacaktır. Mükellefler her bir belge için aşağıda
+yer alan formu doldurarak, “Yatırım Teşvik Belgeli Satışlara İlişkin Satış Faturası Listesi” ni
+gönderebilirler. Listeye belge girişi ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                            59
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri   (Örnek Excel İndir)
+
+
+
+
+                                                                         60
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgeler “Alış Faturasının Sıra No.su” alanına boşluk bırakılmadan bitişik olarak
+    (GIB2013000000082, ABC2014000011437 gibi) yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet satındı ise
+    yatırım teşvik belgesi ekindeki global listede yer alan mallar ayrı yazılmalıdır.
+    Dolayısıyla aynı belge satılan mal cinsi kadar satırda ayrı ayrı yazılmalıdır.
+
+
+                                                                                          61
+      Satılan Mal ve/veya Hizmetin GTİP Numarası: Bu alana malın GTİP numarası
+       (Gümrük Tarife İstatistik Pozisyonu) yazılmalıdır. GTİP Numarası 12 haneli olmalı ve
+       aralarında boşluk olmamalı veya nokta konulmamalıdır. Girişi yapılacak satış faturası
+       ile birden fazla mal/hizmet satılmış ise; her satıra bir GTİP numarası gelecek şekilde
+       ayrı ayrı yazılmalıdır. Bu alanın doldurulması belgedeki bilgilere bağlı olup, zorunlu
+       değildir.
+
+      Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+       yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak satış faturası ile
+       birden fazla mal/hizmet satılmış ise mal cinslerinin miktarları ayrı ayrı her satırda
+       yazılmalıdır.
+
+      Satılan Mal ve/veya Hizmetin Birimi: Bu alana malın ölçü birim kodu, ilgili
+       kutucuktan seçilerek doldurulur. Bu alan doldurulurken örnek Excel liste
+       formatımızda bulunan “Ölçü Birim Kodları” bilgilerinden yararlanılabilir.
+
+      Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+       yazılmalıdır. Bu alan rakamlardan oluşmalıdır.
+
+      Yatırım Teşvik Belgesinin Tarihi: Yatırım teşvik belgesinin tarihi yazılmalıdır.
+
+      Yatırım Teşvik Belgesinin Serisi: Yatırım teşvik belgesinin serisi yazılmalıdır. Seri
+       numarası yoksa bu alan boş geçilebilir. Yatırım Teşvik Belge Numarası “500.000” ve
+       üzeri olan belgeler için bu alan boş bırakılacaktır.
+
+      Yatırım Teşvik Belgesinin Sayısı: Yatırım teşvik belgesinin sayısı yazılmalıdır.
+
+      Yatırım Teşvik Belgesinin Eki Global Liste Sıra No’su: Bu alana faturada satışı
+       yapılmış olan malın yatırım teşvik belgesi ekindeki global listede yer alan sıra
+       numarası yazılacaktır.
+
+
+
+1.1.12. ULUSLARARASI ANLAŞMALAR KAPSAMINDA YAPILAN
+SATIŞLARA İLİŞKİN SATIŞ FATURASI LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+        Uluslararası Anlaşmalar Kapsamında yapılan teslimler nedeniyle (KDVK 19/2. Mad.
+– Beyannamede 314 işlem kodu) iade talebinde bulunan mükelleflerin 05/2016 beyanname
+dönemi ve sonraki dönemlerde “Uluslararası Anlaşmalar Kapsamında Yapılan Satışlara
+İlişkin Satış Faturası Listesi” ni internet vergi dairesinden göndermeleri gerekmektedir.
+Mükellefler her bir belge için aşağıda yer alan formu doldurarak Uluslararası Anlaşmalar
+
+
+                                                                                             62
+Kapsamında Yapılan Satışlara İlişkin Satış Fatura Listesi’ni gönderebilir. Listeye belge girişi
+ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                            63
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanı boş
+    bırakılmalıdır.
+
+
+
+
+                                                                                           64
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dahil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satışı yapılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet satıldı ise bu
+    alana -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak satılan
+    malların/hizmetlerin cinsleri yazılır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak satış faturası ile
+    birden fazla mal/hizmet satıldı ise alana -çok genel olmamak kaydıyla- ana başlıklar
+    halinde virgül ile ayırarak satılan malların/hizmetlerin miktarı yazılır.
+
+
+
+   Satılan Mal ve/veya Hizmetin Ölçü Birimi: Bu alana satılan mal/hizmetin ölçü
+    birimi yazılmalıdır. Girişi yapılacak ölçü birimi birden fazla ise ölçü birimleri aynı
+    olanlar toplanarak yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Girişi yapılacak satış faturası ile birden
+    fazla mal/hizmet satıldı ise tutarlar bölünmeden tek satırda yazılmalıdır.
+
+   İstisna Sertifikasının Verildiği Birim: KDV İstisna Sertifikasını veren birim ilgili
+    alandan seçilmek suretiyle doldurulmalıdır.
+
+   İstisna Sertifikasının Tarihi: KDV İstisna Sertifikasını veren birimin sertifikaya
+    verdiği tarih yazılmalıdır.
+
+
+
+
+                                                                                          65
+      İstisna Sertifikasının Sayısı: KDV İstisna Sertifikasını veren birimin sertifikaya
+       verdiği sayı yazılmalıdır.
+
+      Sözleşmenin Başlangıç Tarihi: Bu alana ilgili sözleşmenin başlangıç tarihi
+       yazılmalıdır.
+
+      Sözleşmenin Bitiş Tarihi: Bu alana ilgili sözleşmenin bitiş tarihi yazılmalıdır.
+
+      Sözleşmenin Sayısı: Bu alana ilgili sözleşmenin sayısı yazılmalıdır.
+
+
+
+
+1.1.13. KDV KANUNUNUN 13. MADDESİ KAPSAMINDA YAPILAN
+SATIŞLARA (D Bendi Hariç) İLİŞKİN SATIŞ FATURA LİSTESİNE
+SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE
+İLGİLİ AÇIKLAMALAR
+
+
+
+
+        KDV Kanununun 13.maddesi kapsamında yapılan teslimler nedeniyle (13/d bendi
+hariç), Beyannamede işlem kodları; 304, 305, 306, 307, 309, 310, 319, 323, 324, 325, 326,
+327, 328, 330, 331, 333, 334, 335 türlerinde iade talebinde bulunan mükelleflerin 06/2016
+beyanname dönemi ve sonraki dönemlerde “13. Madde Kapsamında Yapılan Satışlara (d
+bendi hariç) İlişkin Satış Fatura Listesi” ni internet vergi dairesinden göndermeleri
+gerekmektedir. Mükellefler her bir belge için aşağıda yer alan formu doldurarak 13. Madde
+Kapsamında Yapılan Satışlara İlişkin (D Bendi Hariç) Satış Fatura Listesini gönderebilirler.
+Listeye belge girişi ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+
+
+                                                                                          66
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    67
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dahil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+
+                                                                                          68
+    bırakılmadan     bitişik   olarak   (GIB2013000000082,         ABC2014000011437          gibi)
+    yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satışı yapılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla istisna belgesine ait satış
+    varsa ilgili istisna belgesine göre satılan mallar ayrı satırlarda (ilgili mallara ait tutarlar
+    da bölünerek) yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir.
+
+   Satılan Mal ve/veya Hizmetin Ölçü Birimi: Bu alana satılan mal/hizmetin ölçü
+    birimi yazılmalıdır. Bu alana satışı gerçekleşen malın ölçü birimi kodlanarak
+    yazılmalıdır. Ölçü birimi kodları yukarıda linki verilen Excel dosyasının çalışma
+    sayfasında yer almaktadır.
+
+   Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Girişi yapılacak satış faturası ile birden
+    fazla mal/hizmet satıldı ise tutarlar bölünmeden tek satırda yazılmalıdır.
+
+   İstisna Belgesinin Tarihi: KDV İstisna Belgesi’nin tarihi yazılmalıdır.
+
+   İstisna Belgesinin Sayısı: KDV İstisna Belgesi’nin sayısı yazılmalıdır.
+
+   İstisna Belgesinin Tebliğ Ek Numarası: Bu alana istisna belgesinin KDV Genel
+    Uygulama Tebliğinde bulunan Ek numarası yazılmalıdır. KDV Kanununun 13.
+    maddesinde yer alan istisna türlerinden birine ait yapılan satışlar için seçilebilecek
+    tebliğ ek numaraları şunlardır; 6A, 6B, 6C, 6D, 6E, 6F, 7A, 7B, 7D, 7E, 8A, 8B, 10,
+    11A, 11B, 11C, 11D, 22, 23A, 23B, 26, 27, 29.
+
+   İade İşlem Türü: Bu alanda iade işlem türüne ait kod seçilmelidir.
+
+
+
+
+                                                                                                69
+1.1.14. KAPASİTE RAPORLARI LİSTESİNE SİSTEM ÜZERİNDEN VE
+EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+        3065 sayılı KDV Kanunun 11/1-c maddesi gereğince ihraç kaydıyla teslimlerden
+kaynaklanan iade talebi veya tecil-terkin işlemi bulunan mükellefler, 01.08.2016 tarihinden
+itibaren tüm dönemler için gerçekleştirilecek olan iade taleplerinde, sadece Türkiye Odalar ve
+Borsalar Birliğinden alınmış “Kapasite Raporları Listesi” ni internet vergi dairesinden
+göndermeleri gerekmektedir.
+
+        Alınan her bir belge için aşağıda yer alan form doldurularak “Kapasite Raporları
+Listesi” oluşturulup gönderilebilir. Kapasite Raporları Listesine (TOBB) belge girişi ile ilgili
+açıklamalar ve örnekler aşağıda yer almaktadır.
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                             70
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Kapasite Raporu Onay Tarihi: Bu alana kapasite onay tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır. Onay tarihi alanı Kapasite Raporu’nun en son
+    sayfasının sağ alt köşesinde yer almaktadır.
+
+   Kapasite Raporu Onay Numarası: Bu alana kapasite raporu onay numarası
+    yazılmalıdır. Onay numarası Kapasite Raporu’nun en son sayfasının sağ alt köşesinde
+    yer almaktadır.
+
+
+
+                                                                                    71
+1.1.15. TAŞIMACILIK İSTİSNASINDAN KAYNAKLANAN SATIŞ
+FATURASI LİSTESİNE (ARAÇ HASILAT LİSTESİ) SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+
+
+        KDV Kanunun 14/1 maddesi gereğince Uluslararası Taşımacılık İstisnası (311 işlem
+kodu) iade taleplerinde 07/2016 iade dönemi ve sonraki dönemler için; sadece karayolu
+taşımacılığından kaynaklı iadelerde “Taşımacılık İstisnasından Kaynaklanan Satış Faturası
+Listesi (Araç Hasılat Listesi)” 03.08.2016 tarihinden itibaren internet vergi dairesinden
+alınmaya başlanılmıştır.
+
+        Mükellefler her bir belge için aşağıda yer alan formu doldurarak uluslararası
+taşımacılık kapsamında yaptıkları satışlara ilişkin “Taşımacılık İstisnasından Kaynaklanan
+Satış Faturası Listesi (Araç Hasılat Listesi)” ni oluşturup gönderebilirler. Araç Hasılat
+Listesi’ne belge girişi ile ilgili açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+
+
+                                                                                       72
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    73
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       74
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+    Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dahil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+   Firmanın Unvanı: Bu alana adına satış faturası düzenlenen alıcının adı-soyadı/unvanı
+    yazılmalıdır.
+
+   Alıcının Vergi Dairesi: Bu alana satış faturası düzenlenen alıcının bağlı olduğu vergi
+    dairesi ilgili bölümden seçilerek yazılmalıdır. Alıcının Türkiye’de bağlı olduğu bir
+    vergi dairesi yoksa bu alan boş bırakılmalıdır.
+
+   Alıcının Vergi Kimlik Numarası / TC Kimlik Numarası: Bu alana alıcı tüzel
+    kişi/ortaklık ise vergi kimlik numarası; alıcı gerçek kişi ise TC kimlik numarası
+    yazılmalıdır. Alıcının vergi numarası veya T.C. numarası yoksa (yurt dışında faaliyet
+    gösteren bir firma veya kişi olması halinde) on tane “1” yazılmalıdır. (1111111111)
+
+   Araç Plaka No (1): Bu alana taşımacılık işi yapılan aracın (çekicinin) plaka numarası
+    yazılmalıdır. Plaka yazılırken boşluk bırakılmayacaktır. (Örnek: 34HG2910 gibi)
+
+   Araç Plaka No (2): Bu alana taşımacılık işi yapılan aracın (Römork, Dorse vb.) plaka
+    numarası yazılmalıdır. Plaka yazılırken boşluk bırakılmayacaktır. (Örnek: 06CT1210
+    gibi)
+
+   Güzergâh (Giriş) : Uluslararası taşımacılık faaliyetine başlanan yabancı ülke ilgili
+    bölümden seçilerek yazılmalıdır. Faaliyetin Türkiye’ de başlayıp yabancı bir ülkede
+
+
+
+                                                                                           75
+    tamamlanması durumunda, bu bölüme Türkiye yazılıp – yazılmaması ihtiyaridir. Her
+    iki durumda da liste girişi mümkündür.
+
+   Güzergâh (Çıkış) : Uluslararası taşımacılık faaliyetinin sonlandığı yabancı ülke ilgili
+    bölümden seçilerek yazılmalıdır.
+
+   Diğer Gelir Kalemleri (Navlun, sigorta vb.):Uluslararası taşımacılık faaliyetinin
+    devamı niteliğinde kabul edilen navlun, sigorta, demuraj gibi faaliyetlerinden
+    kaynaklanan gelir durumları yazılmalıdır.
+
+   Tevsik Edici Belge No (Tır Karne vb.): Uluslararası taşımacılık faaliyetinin yapıldığı
+    belgenin (Tır Karnesi, CMR, Özet Beyan gibi uluslararası karayolu taşımacılığı tevsik
+    edici belge) numarası yazılmalıdır.
+
+   Fatura Tutarı: Uluslararası taşımacılık faaliyetine isabet eden fatura tutarı KDV
+    matrahı üzerinden (KDV hariç) olarak yazılmalıdır.
+
+   Araç Durumu: Bu alana uluslararası taşımacılık faaliyetine konu olan aracın durumu
+    girilmelidir. Araç öz mal iadeye konu ise “01”, kiralık iadeye konu ise “02”, öz mal
+    olup iadede kullanılmadı ise “03”, araç kiralık olup iadeye konu değil ise “04” ilgili
+    bölümden seçilerek yazılmalıdır.
+
+   Katedilen KM: Uluslararası taşımacılık faaliyeti kapsamında aracın kat ettiği mesafe
+    KM. (Kilometre) cinsinden yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Bu bölüme
+    yazılacak bir mesafe olmadığı zaman sıfır (0) yazılmalıdır.
+
+   Yurtdışı Giriş Gümrük Kapısı: Taşımacılık faaliyetinin, herhangi bir yabancı
+    ülkeden Türkiye’ye giriş yaptığı gümrük kapısı ilgili bölümden seçilerek yazılmalıdır.
+
+   Yurtdışı Çıkış Gümrük Kapısı: Taşımacılık faaliyetinin, Türkiye’den herhangi bir
+    ülkeye çıkış yaptığı gümrük kapısı ilgili bölümden seçilerek yazılmalıdır.
+
+   Gümrük Giriş Tarihi: Taşımacılık faaliyetinin, Türkiye’ye giriş yaptığı gümrük giriş
+    tarihi yazılmalıdır.
+
+   Gümrük Çıkış Tarihi: Taşımacılık faaliyetinin, Türkiye’den çıkış yaptığı gümrük
+    çıkış tarihi yazılmalıdır.
+
+
+
+
+                                                                                        76
+1.1.16 KDV KANUNUNUN 11/1-a MADDESİ KAPSAMINDA TÜRKİYE’DE
+İKAMET ETMEYENLERE ÖZEL FATURA İLE YAPILAN SATIŞLARA
+(BAVUL TİCARETİ) İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM
+ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+AÇIKLAMALAR
+
+
+        3065 sayılı KDV Kanunu’nun 11/1-a maddesi kapsamında yapılan teslimler
+nedeniyle, Türkiye'de İkamet Etmeyenlere Özel Fatura ile Yapılan Satışlarda (Bavul Ticareti)
+iade talebinde bulunan mükelleflerin –KDV Beyannamesinde İşlem Kodu -322 - 10/2016 iade
+dönemi ve sonraki dönemlerde, KDV Kanunu’nun 11/1-a maddesi kapsamında yapılan
+teslimler nedeniyle, “Türkiye'de İkamet Etmeyenlere Özel Fatura ile Yapılan Satışlara İlişkin
+Satış Fatura Listesi’ni internet vergi dairesinden göndermeleri gerekmektedir.
+
+       Mükellefler her bir belge için aşağıda yer alan formu doldurarak 11/1-a maddesi
+kapsamında yapılan teslimler nedeniyle Türkiye'de İkamet Etmeyenlere Özel Fatura ile
+Yapılan Satışlara İlişkin Satış Fatura Listesi’ni gönderebilir. Listeye belge girişi ile ilgili
+açıklamalar aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                            77
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri   (Örnek Excel İndir)
+
+
+
+
+                                                                         78
+   Özel Faturanın Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY (gün/ay/yıl)
+    formatında yazılmalıdır.
+
+   Özel Faturanın Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır.
+
+   Özel Faturanın Sıra Numarası: Bu alana satış faturasının sıra numarası yazılmalıdır.
+    Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden
+    oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421 Sıra No.lu
+    V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dahil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen Türkiye’de ikamet
+    etmeyen yabancı uyruklu alıcının veya yurtdışında ikamet eden ve buna dair ilgili ülke
+    resmi makamlarından alınmış ikamet tezkeresi veya bu mahiyette bir belgeye sahip
+    olan Türk uyruklu alıcının adı-soyadı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana, satış faturası
+    düzenlenen Türkiye’de ikamet etmeyen yabancı uyruklu alıcılar için 10 hane olarak
+    (3333333333) girilmeli veya yurtdışında ikamet eden ve buna dair ilgili ülke resmi
+    makamlarından alınmış ikamet tezkeresi veya bu mahiyette bir belgeye sahip olan
+    Türk uyruklu alıcının varsa Vergi Kimlik veya T.C. Kimlik Numarası yazılmalıdır.
+
+   Fatura Yurtdışı Çıkış Tarihi: Bu alana faturanın Gümrük Müdürlüğü’nde işlem
+    görerek tescilinin yapıldığı yurtdışı çıkış tarihi yazılmalıdır.
+
+   Çıkış Gümrük Kapısı: Bu alanda özel faturanın işlem gördüğü Gümrük Çıkış Kapısı
+    ismi seçilmelidir.
+
+   Gümrük Özel Fatura Tescil No: Bu alana Özel Fatura üzerindeki Gümrük
+    Müdürlüğü tescil numarası (########OF###### , ########OF########) formatında
+    girilmelidir. (Örneğin: 16611500OF000456 yazıldığında ilk iki hane ait olduğu yılı
+    (16=2016) sonraki 6 hane Gümrük Kapısı Kodu (611500=Sarp Gümrük Müdürlüğü)
+    ve “OF” kısmından sonrası ise 6 hane/8 hane olacak şekilde (456=000456) Gümrük
+
+                                                                                       79
+       Müdürlüğü tarafından       Özel    Fatura   üzerine   mühürlenen     tescil   numarasını
+       göstermektedir.
+
+      TCGT Pozisyon No (Malın Nevi): Bu alana özel faturanın üzerinde yer alan G.T.İ.P
+       numarası yazılmalıdır.
+
+      Fatura Tutarı (TL): Bu alana özel fatura tutarı “TL” cinsinden yazılmalıdır. Bu alan
+       rakamlardan oluşmalıdır.
+
+      Fatura Tutarı (Döviz): Bu alana özel fatura tutarı “Döviz” cinsinden yazılmalıdır. Bu
+       alan rakamlardan oluşmalıdır.
+
+      Döviz Cinsi: Bu alana özel faturada yer alan döviz tutarının cinsi yazılmalıdır.
+
+      Eşyanın Gideceği Ülke: Bu alana eşyanın gideceği ülke yazılmalıdır.
+
+
+
+
+1.1.17 KDV KANUNU’NUN 11/1-a – 15/a – 15/b – 17/4-s MADDELERİ
+KAPSAMINDA ( KDV BEYANNAMESİNDE İŞLEM KODU 302 -303-312-
+313-317 ) YAPILAN TESLİMLERE İLİŞKİN SATIŞ FATURA LİSTESİNE
+SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE
+İLGİLİ AÇIKLAMALAR
+
+
+        3065 sayılı KDV Kanunu’nun 11/1-a maddesi kapsamında yapılan “Hizmet İhracı ve
+Roaming Hizmetleri” , 15/a maddesi kapsamında “Diplomatik Organ ve Misyonlara Yapılan
+Teslim ve Hizmetler” , 15/b maddesi kapsamında “Uluslararası Kuruluşlara Yapılan Teslim
+ve Hizmetler” ile 17/4-s maddesi kapsamında “Engellilerin Eğitimleri, Meslekleri, Günlük
+Yaşamları İçin Özel Olarak Üretilmiş Her Türlü Araç - Gereç ve Özel Bilgisayar
+Programlarının Teslimi” nedeniyle            iade talebinde bulunan mükelleflerin ( KDV
+Beyannamesinde İşlem Kodu 302-303-312-313-317 ) 11/2016 iade dönemi (303 iade işlem
+türü için 12/2016) ve sonraki dönemlerde “302-303-312-313-317 İade İşlem Türlerine ait
+Satış Fatura Listesi” ni internet vergi dairesinden göndermeleri gerekmektedir.
+
+
+
+       Mükellefler her bir belge için aşağıda yer alan formu doldurarak 11/1-a, 15/a, 15/b ve
+17/4-s kapsamında yapılan teslimler nedeniyle, 302-303-312-313-317 İade İşlem Türlerine ait
+Satış Fatura Listesi’ni gönderebilirler. Listeye belge girişi ile ilgili açıklamalar aşağıda yer
+almaktadır.
+
+
+
+                                                                                             80
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    81
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Faturanın Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY (gün/ay/yıl)
+    formatında yazılmalıdır.
+
+   Faturanın Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri genelde
+    “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve rakamlardan da
+    oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi harf ve sayı
+    arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5” şeklinde
+    yazılmalıdır.
+
+   Faturanın Sıra Numarası: Bu alana satış faturasının sıra numarası yazılmalıdır. Bu
+    alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden oluşabilir.
+    (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421 Sıra No.lu V.U.K.
+    Genel Tebliği gereğince elektronik belge uygulamasına dahil olma zorunluluğu
+    getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden oluşan (İlk
+    üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın düzenlendiği yılı ve
+    son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-belgelerde, 16
+    karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk bırakılmadan bitişik
+    olarak (GIB2013000000082, ABC2014000011437 gibi) yazılmalıdır.
+
+
+
+
+                                                                                          82
+   Alıcının Adı Soyadı/ Unvanı: Bu alana adına satış faturası düzenlenen alıcının adı-
+    soyadı/unvanı yazılmalıdır. Satış faturası yurtdışına düzenlenmiş ise Türkiye’de
+    ikamet etmeyen yabancı uyruklu alıcının veya yurtdışında ikamet eden ve buna dair
+    ilgili ülke resmi makamlarından alınmış ikamet tezkeresi veya bu mahiyette bir
+    belgeye sahip olan Türk uyruklu alıcının adı-soyadı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcı tüzel kişi/ortaklık
+    ise vergi kimlik numarası, alıcı gerçek kişi ise TC kimlik numarası yazılmalıdır. Satış
+    faturası yurtdışına düzenlenmiş ise Türkiye’de ikamet etmeyen yabancı uyruklu
+    alıcılar için 10 hane olarak (3333333333) girilmeli veya yurtdışında ikamet eden ve
+    buna dair ilgili ülke resmi makamlarından alınmış ikamet tezkeresi veya bu mahiyette
+    bir belgeye sahip olan Türk uyruklu alıcının varsa Vergi Kimlik veya T.C. Kimlik
+    Numarası yazılmalıdır.
+
+   Mal ve/veya Hizmetin Cinsi: Bu alana satış faturası düzenlenen mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet alındı ise bu
+    alana -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak satılan
+    malların/hizmetlerin cinsleri yazılır.
+
+   Mal ve/veya Hizmetin Miktarı: Bu alana satış faturası düzenlenen mal/hizmetin
+    miktarı yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak satış
+    faturası ile birden fazla mal/hizmet alındı ise bu alana -çok genel olmamak kaydıyla-
+    ana başlıklar halinde virgül ile ayırarak satılan malların/hizmetlerin miktarları
+    yazılmalıdır.
+
+   Mal ve/veya Hizmetin Ölçü Birim Kodu: Bu alan satış faturası düzenlenen malın
+    ölçü birimi kutucuktan seçilerek doldurulur.
+
+   Fatura Tutarı (TL): Bu alana satış fatura tutarı “TL” cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır.
+
+   Fatura Tutarı (Döviz): Bu alana satış fatura tutarı “Döviz” cinsinden yazılmalıdır. Bu
+    alan rakamlardan oluşmalıdır. (317 işlem türünden iade taleplerinde bu alan “0,00” –
+    SIFIR- olarak geçilecektir.)
+
+   Döviz Cinsi: Bu alanda satış faturasında yer alan döviz tutarının cinsi seçilmelidir.
+    (317 işlem türünden iade taleplerinde bu alan boş bırakılacaktır.)
+
+   İade İşlem Türü: Bu alanda işlem türüne ait kod seçilmelidir.
+
+
+
+
+                                                                                        83
+1.1.18 KDV KANUNU’NUN 11/1-a MADDESİ KAPSAMINDA SERBEST
+BÖLGELERDEKİ MÜŞTERİLER İÇİN YAPILAN FASON HİZMETLERE
+AİT SATIŞ FATURALARI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+        3065 sayılı KDV Kanunu’nun 11/1-a maddesi kapsamında yapılan teslimler nedeniyle,
+Serbest Bölgelerdeki Müşteriler İçin Yapılan Fason Hizmetlere ilişkin iade talebinde bulunan
+mükelleflerin –KDV Beyannamesinde İşlem Kodu 316 - 12/2016 iade dönemi ve sonraki
+dönemlerde “KDV Kanunu’nun 11/1-a maddesi kapsamında yapılan teslimler nedeniyle
+“Serbest Bölgelerdeki Müşteriler İçin Yapılan Fason Hizmetlere İlişkin Satış Faturaları
+Listesi” ni internet vergi dairesinden göndermeleri gerekmektedir.
+
+         Mükellefler her bir belge için aşağıda yer alan formu doldurarak 11/1-a maddesi
+kapsamında yapılan teslimler için iade taleplerinde, Serbest Bölgelerdeki Müşteriler İçin
+Yapılan Fason Hizmetlere İlişkin Satış Fatura Listesi’ni gönderebilirler. Listeye belge girişi
+ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                           84
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       85
+   Faturanın Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY (gün/ay/yıl)
+    formatında yazılmalıdır.
+
+   Faturanın Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri genelde
+    “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve rakamlardan da
+    oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi harf ve sayı
+    arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5” şeklinde
+    yazılmalıdır.
+
+   Faturanın Sıra Numarası: Bu alana satış faturasının sıra numarası yazılmalıdır. Bu
+    alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden oluşabilir.
+    (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421 Sıra No.lu V.U.K.
+    Genel Tebliği gereğince elektronik belge uygulamasına dahil olma zorunluluğu
+    getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden oluşan (İlk
+    üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın düzenlendiği yılı ve
+    son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-belgelerde, 16
+    karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk bırakılmadan bitişik
+    olarak (GIB2013000000082, ABC2014000011437 gibi) yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana adına satış faturası düzenlenen alıcının adı-
+    soyadı/unvanı yazılmalıdır. Satış faturası yurtdışına düzenlenmiş ise Türkiye’de
+    ikamet etmeyen yabancı uyruklu alıcının veya yurtdışında ikamet eden ve buna dair
+    ilgili ülke resmi makamlarından alınmış ikamet tezkeresi veya bu mahiyette bir
+    belgeye sahip olan Türk uyruklu alıcının adı-soyadı yazılmalıdır.
+
+   Fatura Tutarı (TL): Bu alana fatura tutarı “TL” cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır.
+
+   Fatura Tutarı (Döviz): Bu alana fatura tutarı “Döviz” cinsinden yazılmalıdır. Bu alan
+    rakamlardan oluşmalıdır.
+
+   Döviz Cinsi: Bu alanda satış faturasında yer alan döviz tutarının cinsi seçilmelidir.
+
+   Fason Hizmetin Cinsi: Bu alana satış faturası düzenlenen mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla mal/hizmet alındı ise bu
+    alana -çok genel olmamak kaydıyla- ana başlıklar halinde virgül ile ayırarak satılan
+    malların/hizmetlerin cinsleri yazılır.
+
+   Fason Hizmetin Miktarı: Bu alana satış faturası düzenlenen mal/hizmetin miktarı
+    yazılmalıdır. Bu alan harf ve rakamlardan oluşabilir. Girişi yapılacak satış faturası ile
+    birden fazla mal/hizmet alındı ise bu alana -çok genel olmamak kaydıyla- ana başlıklar
+    halinde virgül ile ayırarak satılan malların/hizmetlerin miktarları yazılmalıdır.
+
+
+
+                                                                                            86
+      Fason Hizmetin Ölçü Birimi Kodu: Bu alan satış faturası düzenlenen malın ölçü
+       birimi kodu kutucuktan seçilerek doldurulur. (Kilogram=KGM, Adet=C62 vb.)
+
+      Gümrük Giriş Beyannamesi Tescil Numarası: Bu alana Gümrük Giriş
+       Beyannamesinin tescil numarası yazılmalıdır. Gümrük Giriş Beyannamesi tescil
+       numarası 16 karakterden/18 karakterden oluşmaktadır ve formatı şu şekildedir.
+       (########IM###### , ########IM########)
+
+      Malın Giriş Yaptığı Serbest Bölge Kodu: Bu alana ana madde ve malzemelerin
+       hangi serbest bölgeden geldiği, kutucuktan seçilerek doldurulmalıdır.
+
+      Gümrük Çıkış Beyannamesi Tescil Numarası: Bu alana Gümrük Çıkış
+       Beyannamesinin tescil numarası yazılmalıdır. Gümrük Çıkış Beyannamesi tescil
+       numarası 16 karakterden//18 karakterden oluşmaktadır ve formatı şu şekildedir.
+       (########EX######, ########EX######## )
+
+      Malın Çıkış Yaptığı Serbest Bölge Kodu: Bu alana ana madde ve malzemelerin
+       hangi serbest bölgeden çıktığı, kutucuktan seçilerek doldurulmalıdır.
+
+
+
+
+1.1.19 GEÇİÇİ 17. MADDE KAPSAMINDAKİ TESLİMLERE İLİŞKİN
+SATIŞ FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+      01.02.2017 tarihinden itibaren KDV Kanunu’nun Geçici 17. Maddesi gereğince KDV
+Beyannamesinde -702- işlem kodundan iade ve/veya tecil-terkin talebinde bulunan
+mükellefler, 01/2017 iade dönemi ve sonraki dönemler için, “Geçici 17. Madde
+Kapsamındaki Teslimlere İlişkin Satış Faturası Listesi” ni internet vergi dairesinden
+göndermeleri gerekmektedir.
+
+        12/2016 dönemi ve önceki iade dönemleri için ise bilgilerini, “İhraç Kayıtlı Teslimlere
+İlişkin Satış Faturaları Listesi” nde bildirmeye devam edeceklerdir.
+
+       Sonuç olarak; 01/2017 iade dönemi ve sonraki dönemler için -701- işlem kodundan
+iade ve/veya tecil terkin talebinde bulunan mükellefler bildirimlerini, “İhraç Kayıtlı Satış
+Faturası Listesi” üzerinden, -702- işlem kodundan iade ve/veya tecil terkin talebinde
+bulunanlarsa “Geçici 17. Madde Kapsamındaki Teslimlere İlişkin Satış Faturası Listesi”
+üzerinden vereceklerdir.
+
+     Geçici 17. Madde Kapsamındaki Teslimlere İlişkin Satış Faturası Listesi’ne belge girişi
+ile ilgili açıklamalar ve örnekler aşağıda yer almaktadır.
+
+
+                                                                                            87
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    88
+    Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+        Geçici 17. Madde Kapsamındaki Teslimlere İlişkin Satış Faturası Listesi’ne giriş
+yapılırken, faturada bulunan her GTİP numarası bir satıra gelecek şekilde yazılması
+gerekmektedir. Bu şekilde yazılan belgelerde; Malın Miktarı, Malın KDV Hariç Tutarı, Malın
+KDV'si ve Geçici 17. Madde Kapsamında Satılan Malın Ölçü Birimi Kodu alanları GTİP
+numarasına isabet eden kısım kadar yazılmalıdır. Tek satış faturasında farklı GTİP numaralı
+mallar bulunuyorsa ve bir gümrük çıkış beyannamesi ile ihraç edildi ise bu durumda ihraç
+edilen eşya adedince (GTİP Numarası adedince); GÇB Tescil Numarası, Satış Faturasının
+Tarihi, Serisi, Sıra No.su ve Malın Alıcısı alanları tekrar edecektir.
+
+        Geçici 17. Madde Kapsamında Yapılan Teslimlerin henüz ihracatı gerçekleşmemişse
+listede sadece Satış Faturası Bilgileri ile Dâhilde İşleme İzin Belgesi Bilgileri alanları
+doldurularak İhracat Bilgileri kısmı tablonun 5. satırında gösterildiği gibi boş bırakılarak
+yazılmalıdır.
+
+
+                                                                                         89
+   Satış Faturasının Tarihi: Bu alana DİİB sahibi mükellefe yapılan satış faturasının
+    tarihi GG.AA.YYYY (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Bilindiği üzere
+    fatura serileri “A5” gibi harf ve rakamlardan oluşabileceği gibi “B” gibi sadece harften
+    oluşabilir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa bile (harf ve rakamların
+    arasında "-, /, boşluk…" gibi karakterler olmaksızın) bitişik olarak "A5" şeklinde
+    yazılmalıdır. Ancak 421 Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge
+    uygulamasına dâhil olma zorunluluğu getirilen mükellefler tarafından, düzenlenmesi
+    gereken e-belge bilgileri doldurulurken bu belgelerde seri bulunmadığı için “Satış
+    Faturasının Serisi” başlıklı alan doldurulmayıp boş bırakılacaktır. Satış faturasında
+    herhangi bir seri numarası yoksa bu alan boş bırakılmalıdır.
+
+
+
+   Satış Faturasının Sıra No’su: Bu alana satış faturasının sıra numarası yazılmalıdır.
+    Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20 karakterden
+    oluşabilir. (Örnek: 25639, GIB20170000000000045 vb.) 421 Sıra No.lu V.U.K. Genel
+    Tebliği gereğince elektronik belge uygulamasına dâhil olma zorunluluğu getirilen
+    mükellefler tarafından, düzenlenmesi gereken e-belgede yer alan 16 Karakterden
+    oluşan e-belge numarasının (İlk üç karakter alfa nümerik işaretleri, sonraki dört
+    karakter faturanın düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı
+    ifade etmektedir. Örnek: GIB2017000000082, ABC2017000011437) tamamının satış
+    faturasının sıra numarası alanına yazılması gerekmektedir. Eğer satış faturası, alınan
+    mal/hizmetlerin çok sayıda olması nedeniyle izleyen faturalara nakil olmakta ise bu
+    durumda bu alana faturanın toplam tutarının bulunduğu en son belgenin sıra
+    numarasının yazılması gerekmektedir.
+
+   Malın Cinsi (GTİP Numarası) : Bu alana DİİB sahibi mükellefe satışı yapılan malın
+    GTİP Numarası (Gümrük Tarife İstatistik Pozisyonu) yazılmalıdır. GTİP Numarası 12
+    haneli olmalı ve araya boşluk veya nokta konulmamalıdır.
+
+    NOT: Dâhilde İşleme İzin Belgesi (DİİB) üzerinde yazan GTİP Numarası 12 haneli
+    değil ise bu numaranın sonuna eksik olan sayı kadar “sıfır” (0) eklenerek yazılmalıdır.
+
+    ÖRNEK: DİİB üzerindeki GTİP Numarası 12345678 ise listeye 123456780000
+    şeklinde giriş yapılmalıdır.
+
+
+
+   Malın Miktarı: Bu alana DİİB sahibi mükellefe satışı yapılan malın miktarı
+    yazılmalıdır. Hücreler sayı formatında, ondalık basamak sayısı en çok 2 haneli
+    olmalıdır.
+
+                                                                                          90
+   Miktar Kodu: Bu alana DİİB sahibi mükellefe satışı yapılan malın ölçü birimi
+    kodlanarak yazılmalıdır.
+
+   Malın KDV Hariç Tutarı: Bu alana Geçici 17. Madde Kapsamındaki Teslimlere Ait
+    Satış Faturasının KDV hariç tutarı TL cinsinden yazılacaktır. Ancak satış faturasında
+    yer alan mallar GTİP Numarası bazında detaylandırılarak her GTİP Numarasına isabet
+    eden tutar bölünerek yazılacaktır.
+
+   Malın KDV’si: Bu alana Geçici 17. Madde Kapsamındaki Teslimlere Ait Satış
+    Faturasının KDV tutarı TL cinsinden yazılacaktır. Ancak satış faturasında yer alan
+    mallar GTİP numarası bazında detaylandırılarak her GTİP numarasına isabet eden
+    tutar bölünerek yazılacaktır.
+
+   DİİB Sahibi Alıcının Adı Soyadı/Unvanı: Bu alana DİİB sahibi mükellefin adı-
+    soyadı/unvanı yazılmalıdır.
+
+   DİİB Sahibi Alıcının Vergi Kimlik Numarası / T.C. Kimlik Numarası: Bu alana
+    alıcı tüzel kişi/ortaklık ise vergi kimlik numarası, alıcı gerçek kişi ise TC kimlik
+    numarası yazılmalıdır.
+
+   DİİB Tarihi: Bu alana Dahilde İşleme İzin Belgesinin tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   DİİB Numarası: Bu alana Dahilde İşleme İzin Belgesinin numarası (2014/D1-00005)
+    şeklinde 13 karakter yazılmalıdır.
+
+   İhracatçı Tarafından Yurt Dışına Düzenlenen Satış Faturasının Tarihi (GÇB
+    Üzerindeki Bilgiler): Bu alana ihracatçı tarafından yurt dışına düzenlenen satış
+    faturasının tarihi (İhracatçı firmaya ait Gümrük Beyannamesi üzerinde yazılan fatura
+    tarihi) GG.AA.YYYY (gün/ay/yıl) formatında yazılmalıdır. İhracat GÇB haricinde bir
+    belge ile gerçekleşmişse (Serbest bölge işlem formu, özel fatura vb.) bu alan boş
+    bırakılmalıdır.
+
+
+
+   İhracatçı Vergi Kimlik Numarası: Bu alana ihracatı gerçekleştiren mükellefin vergi
+    kimlik numarası yazılmalıdır. Ayrıca ihracatı gerçekleştiren mükellef Dahilde İşleme
+    İzin Belgesine haiz olan mükellef de olabilir.
+
+
+
+   Malın Cinsi (GTİP Numarası - GÇB Üzerindeki Bilgiler) : Bu alana DİİB sahibi
+    mükellefe satışı yapılan malın GTİP Numarası (Gümrük Tarife İstatistik Pozisyonu)
+
+
+                                                                                      91
+       yazılmalıdır. GTİP Numarası 12 haneli olmalı ve araya boşluk veya nokta
+       konulmamalıdır.
+      Malın Miktarı: Bu alana ihraç edilen malın miktarı yazılmalıdır. Hücreler sayı
+       formatında, ondalık basamak sayısı en çok 2 haneli olmalıdır.
+
+      Miktar Kodu: Bu alana ihraç edilen malın ölçü birimi kodlanarak yazılmalıdır. Ölçü
+       birimi kodları yukarıda linki verilen Excel dosyasının çalışma sayfasında yer
+       almaktadır.
+
+      GÇB Tescil No: Bu alana Gümrük Çıkış Beyannamesinin tescil numarası
+       yazılmalıdır. Gümrük Çıkış Beyannamesi tescil numarası 16 karakterden/18
+       karakterden oluşmaktadır ve formatı şu şekildedir. (########EX###### ,
+       ########EX########)
+
+
+
+
+1.1.20 GEÇİÇİ 38. MADDE’YE İSTİNADEN FATİH PROJESİ
+KAPSAMINDA MİLLİ EĞİTİM BAKANLIĞINA YAPILACAK MAL
+TESLİMİ VE HİZMET İFALARI TESLİMLERİNE İLİŞKİN SATIŞ
+FATURA LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL FORMATINDA
+BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+    KDV Kanunu’nun geçici 38.maddesi kapsamında Millî Eğitim Bakanlığı tarafından
+Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında
+yapılan mal ve hizmet alımlarına istinaden KDV Beyannamesi -329- işlem türünden iade
+talep eden mükellefler 2017/12 dönemi itibarıyla; “Fatih Projesi Kapsamında Milli Eğitim
+Bakanlığına Yapılacak Mal Teslimi ve Hizmet İfaları Teslimlerine İlişkin Satış Fatura
+Listesi” ni internet vergi dairesinden göndermeleri gerekmektedir. Listeye belge girişi ile ilgili
+açıklamalar aşağıda yer almaktadır.
+
+
+
+
+                                                                                               92
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    93
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+
+                                                                                          94
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satışı yapılan mal/hizmetin cinsi
+    yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla istisna belgesine ait satış
+    varsa ilgili istisna belgesine göre satılan mallar ayrı satırlarda (ilgili mallara ait tutarlar
+    da bölünerek) yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Ölçü Birimi: Bu alana satılan mal/hizmetin ölçü
+    birimi yazılmalıdır. Bu alana satışı gerçekleşen malın ölçü birimi kodlanarak
+    yazılmalıdır. Ölçü birimi kodları yukarıda linki verilen Excel dosyasının çalışma
+    sayfasında yer almaktadır.
+
+   Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Girişi yapılacak satış faturası ile birden
+    fazla mal/hizmet satıldı ise tutarlar bölünmeden tek satırda yazılmalıdır.
+
+   İstisna Belgesinin Tarihi: KDV İstisna Belgesi’nin tarihi yazılmalıdır.
+
+   İstisna Belgesinin Sayısı: KDV İstisna Belgesi’nin sayısı yazılmalıdır.
+
+   İstisna Belgesinin Tebliğ Ek Numarası: Bu alana istisna belgesinin KDV Genel
+    Uygulama Tebliğinde bulunan Ek numarası yazılmalıdır.
+
+   İade İşlem Türü: Bu alanda iade işlem türüne ait kod seçilmelidir.
+
+
+
+
+                                                                                                95
+   1.1.21 GEÇİÇİ 39. MADDE’YE İSTİNADEN İMALAT SANAYİİNDE
+   KULLANMAK ÜZERE YAPILAN YENİ MAKİNA VE TEÇHİZAT
+   TESLİMLERİNE İLİŞKİN SATIŞ FATURA LİSTESİNE SİSTEM
+   ÜZERİNDEN VE EXCEL FORMATINDA BELGE GİRİŞİ İLE İLGİLİ
+   AÇIKLAMALAR
+
+
+     KDV Kanunu’nun geçici 39.maddesi kapsamında, imalat sanayiinde kullanılmak üzere
+yapılan yeni makine ve teçhizat teslimleri dolayısıyla yapılan mal ve hizmet alımlarına
+istinaden KDV Beyannamesi -332- işlem türünden iade talep eden mükellefler 2018/05
+dönemi itibarıyla; “İmalat Sanayiinde Kullanmak Üzere Yapılan Yeni Makina ve Teçhizat
+Teslimlerine İlişkin Satış Fatura Listesi” ni internet vergi dairesinden göndermeleri
+gerekmektedir. Listeye belge girişi ile ilgili açıklamalar aşağıda yer almaktadır.
+
+
+
+    Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                                                    96
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+                                                                       97
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+   Makina ve/veya Teçhizatın Cinsi: Bu alana satışı yapılan makine ve/veya teçhizatın
+    cinsi yazılmalıdır. Girişi yapılacak satış faturası ile birden fazla istisna belgesine ait
+    satış varsa ilgili istisna belgesine göre satılan mallar ayrı satırlarda (ilgili mallara ait
+    tutarlar da bölünerek) yazılmalıdır.
+
+   Makina ve/veya Teçhizatın GTIP Numarası: Bu alana satılan makine ve/veya
+    teçhizatın GTIP numarası (Gümrük Tarife İstatistik Pozisyonu) yazılmalıdır. GTİP
+    Numarası 12 haneli olmalı ve araya nokta konulmamalıdır.
+
+   Makina ve/veya Teçhizatın Miktarı: Bu alana satılan makine ve/veya teçhizatın
+    miktarı yazılmalıdır.
+
+
+
+   Makina ve/veya Teçhizatın Ölçü Birimi: Bu alana satılan makine ve/veya teçhizatın
+    ölçü birimi yazılmalıdır. Bu alana satışı gerçekleşen malın ölçü birimi kodlanarak
+
+
+
+                                                                                             98
+       yazılmalıdır. Ölçü birimi kodları yukarıda linki verilen Excel dosyasının çalışma
+       sayfasında yer almaktadır.
+
+      Makina ve/veya Teçhizatın Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+       yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Girişi yapılacak satış faturası ile birden
+       fazla mal/hizmet satıldı ise tutarlar bölünmeden tek satırda yazılmalıdır.
+
+      İstisna Belgesinin Tarihi: KDV İstisna Belgesi’nin tarihi yazılmalıdır.
+
+      İstisna Belgesinin Sayısı: KDV İstisna Belgesi’nin sayısı yazılmalıdır.
+
+      İstisna Belgesinin Tebliğ Ek Numarası: Bu alana istisna belgesinin KDV Genel
+       Uygulama Tebliğinde bulunan Ek numarası yazılmalıdır.
+
+      İade İşlem Türü: Bu alanda iade işlem türüne ait kod seçilmelidir.
+
+
+
+
+   1.1.22 GEÇİÇİ 40. MADDE’YE İSTİNADEN UEFA SÜPER KUPA VE
+   2020 UEFA ŞAMPİYONLAR LİGİ FİNALİ MÜSABAKALARI
+   KAPSAMINDA YAPILACAK TESLİM VE HİZMETLERE İLİŞKİN
+   SATIŞ FATURASI LİSTESİNE SİSTEM ÜZERİNDEN VE EXCEL
+   FORMATINDA BELGE GİRİŞİ İLE İLGİLİ AÇIKLAMALAR
+
+
+     KDV Kanunu’nun geçici 40.maddesi kapsamında, 2019 UEFA Süper Kupa ve 2020
+UEFA Şampiyonlar Ligi Finali müsabakaları kapsamında yapılacak teslim ve hizmetlere
+istinaden KDV Beyannamesi -336- işlem türünden iade talep eden mükellefler 2019/01
+dönemi itibarıyla; “UEFA Süper Kupa ve 2020 UEFA Şampiyonlar Ligi Finali Müsabakaları
+Kapsamında Yapılacak Teslim ve Hizmetlere İlişkin Satış Faturası Listesi” ni internet vergi
+dairesinden göndermeleri gerekmektedir. Listeye belge girişi ile ilgili açıklamalar aşağıda yer
+almaktadır.
+
+
+
+
+                                                                                             99
+ Sistem Üzerinden Belge Ekleme Ekran Görüntüleri
+
+
+
+
+                                                    100
+ Excel Üzerinden Belge Ekleme Ekran Görüntüleri (Örnek Excel İndir)
+
+
+
+
+   Satış Faturasının Tarihi: Bu alana satış faturasının tarihi GG.AA.YYYY
+    (gün/ay/yıl) formatında yazılmalıdır.
+
+   Satış Faturasının Serisi: Bu alana satış faturasının serisi yazılmalıdır. Fatura serileri
+    genelde “A” şeklinde sadece harflerden oluşabileceği gibi “A5” gibi harf ve
+    rakamlardan da oluşabilmektedir. Faturaların serileri A-5, A 5, A/5 şeklinde olsa dahi
+    harf ve sayı arasına herhangi bir işaret veya boşluk bırakmaksızın bitişik olarak “A5”
+    şeklinde yazılmalıdır. Satışlar e-belge ile yapılmışsa “Alış Faturasının Serisi” alanına
+    boş bırakılmalıdır.
+
+   Satış Faturasının Sıra Numarası: Bu alana satış faturasının sıra numarası
+    yazılmalıdır. Bu alan nümerik ve alfa nümerik işaretlerin kullanıldığı en fazla 20
+    karakterden oluşabilir. (Örnek: 576, 9624, 701602, A8F20120000000080000 vb.) 421
+    Sıra No.lu V.U.K. Genel Tebliği gereğince elektronik belge uygulamasına dâhil olma
+    zorunluluğu getirilen mükellefler tarafından düzenlenmesi gereken ve 16 karakterden
+    oluşan (İlk üç karakter alfa nümerik işaretleri, sonraki dört karakter faturanın
+    düzenlendiği yılı ve son dokuz karakter ise müteselsil numarayı ifade etmektedir.) e-
+    belgelerde, 16 karakterin tamamı “Alış Faturasının Sıra No.su” alanına boşluk
+    bırakılmadan bitişik olarak (GIB2013000000082, ABC2014000011437 gibi)
+    yazılmalıdır.
+
+                                                                                         101
+   Alıcının Adı Soyadı/ Unvanı: Bu alana satış faturası düzenlenen alıcının; gerçek
+    kişilerde adı-soyadı, tüzel kişilerde tüzel kişiliğin unvanı yazılmalıdır.
+
+   Alıcının Vergi Kimlik veya T.C. Kimlik Numarası: Bu alana alıcının vergi kimlik
+    numarası yazılmalıdır. (Alıcı gerçek kişi ise TC kimlik numarası da yazılabilir.)
+
+
+
+   Satılan Mal ve/veya Hizmetin Cinsi: Bu alana satışı yapılan mal/hizmetin cinsi
+    yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Miktarı: Bu alana satılan mal/hizmetin miktarı
+    yazılmalıdır.
+
+   Satılan Mal ve/veya Hizmetin Ölçü Birimi: Bu alana satılan mal/hizmetin ölçü
+    birimi yazılmalıdır. Bu alana satışı gerçekleşen malın ölçü birimi kodlanarak
+    yazılmalıdır. Ölçü birimi kodları yukarıda linki verilen Excel dosyasının çalışma
+    sayfasında yer almaktadır.
+
+   Satılan Mal ve/veya Hizmetin Tutarı: Bu alana satış faturasının tutarı TL cinsinden
+    yazılmalıdır. Bu alan rakamlardan oluşmalıdır. Girişi yapılacak satış faturası ile birden
+    fazla mal/hizmet satıldı ise tutarlar bölünmeden tek satırda yazılmalıdır.
+
+   İade İşlem Türü: Bu alanda iade işlem türüne ait kod seçilmelidir.
+
+
+
+
+                                                                                         102
+2.       EXCEL DOSYASI                 OLUŞTURULMASI                HAKKINDA           GENEL
+         AÇIKLAMALAR
+
+
+        Excel dosyasında B sütununun 5. satırı (B5 Hücresi), veri alımına başlandığı hücredir.
+         Mükelleflerin excel tablolarını buna göre oluşturmaları gerekmektedir. Bunu
+         sağlamanın en pratik yolu İnternet Vergi Dairesinden örnek excel dosyasının
+         indirilerek kullanılmasıdır.
+
+        Excel dosyası üzerinden gönderilen listede tümüyle boş bir satır bulunursa veri alma
+         işlemi o satırda durdurulur. Bu nedenle listede hiçbir satırı boş bırakmadan veriler arka
+         arkaya yazılmalıdır.
+
+        Gönderilecek dosya, bilgisayarda açık durmamalı, dosya gönderilmeden önce açık
+         olan dosya kapatılmalıdır.
+
+        Excel dosyasının sadece ilk çalışma sayfası okunacaktır. Bu sebeple tüm veriler ilk
+         çalışma sayfasında toplanmalıdır.
+
+        Excel dosyasının yukarıda anlatıldığı şekilde doldurulması sonrası aşağıda gösterildiği
+         üzere “Gözat…” butonu tıklanır ve oluşturulan Excel dosyası seçilir. Bu aşamada
+         seçilen nesnenin dosyanın kısa yolu olmadığına, dosyanın kendisi olduğuna dikkat
+         edilmesi gerekmektedir.
+
+
+
+
+                                                                                              103
+104
+   Oluşturulan Excel dosyası seçildikten sonra "Yükle" butonuna tıklanarak listelerin
+    sisteme yüklenmesi işlemi başlatılmalıdır. Sistem tarafından yükleme yapılırken
+    listeler kontrol edilecek, listelerde bir hata varsa mükellefler uyarılacaktır. Sistem
+    tarafından verilen uyarının gereği yapılarak liste yükleme işlemi gerçekleştirilir.
+
+   Doldurulması gereken bütün listeler yüklendikten sonra “ONAYLA” linkine
+    tıklanarak liste gönderme işlemi tamamlanır.
+
+   İnternet Vergi Dairesinde bulunan KDV İadesi bilgi girişi sayfasında işlem yapılmaya
+    başladıktan sonra herhangi bir sebeple İnternet Vergi Dairesinden çıkılması
+    durumunda yapılan tüm işlemler kayıt altına alınmaktadır. Daha sonra kalınan yerden
+    işleme devam edilebilir. Listeler oluşturulduktan sonra işlemleri sisteme göndermek
+    için mutlaka “ONAYLA” linkine tıklatılması gerekir.
+
+   Listeler oluşturulduktan sonra "ONAYLA" linkine tıklatılmadığı müddetçe sisteme
+    gönderilmez. Mükellefler, listelerinin son kontrollerini listelerin üzerine tıklayarak
+    yaptıktan sonra sisteme göndermek için "ONAYLA" linkine tıklatınca, sistem; "KDV
+    İADE TALEBİNE İLİŞKİN İNTERNET VERGİ DAİRESİ LİSTE ALINDISI"
+    ekranını açar. Bu liste alındısının yazdırılarak iade talep dilekçesine eklenmesi gerekir.
+
+
+
+
+                                                                                          105
+      Listelerin doldurulması ve gönderilmesi ile ilgili sorunlar için bağlı bulunulan vergi
+       dairelerinden veya “444 0 435” numaralı Çağrı Merkezi’nden yardım alınabilir.
+
+
+
+NOT: Yukarıda yer alan listelerin alınma/düzeltilme tarih ve saati bilgi amaçlı olup iade
+işlemlerinde iade talep dilekçesinin vergi dairesine verildiği tarih esas alınacaktır.
+
+
+                                                                                         106
+ Elektronik Ortamda Alınan/Düzeltilen Liste/Listeler
+
+   1-İndirilecek KDV Listesi
+
+   2-Yüklenilen KDV Listesi
+
+   3-Gümrük Çıkış Beyannameleri Listesi
+
+   4-Satış Faturaları (Mal İhracı) Listesi
+
+   5-Tevkifatlı Satışlara İlişkin Satış Faturaları Listesi
+
+   6-İhraç Kayıtlı Satış Faturası Listesi
+
+   7-Satış Faturası Listesi (318 – 320 - 321 Kodlu İade Türleri İçin)
+
+   8-İadesi Talep Edilen KDV Hesaplama Tablosu
+
+   9-İndirimli Oran Hesaplama Tablosu
+
+   10-İndirimli Orana Tabi Satışlara İlişkin Satış Faturası Listesi
+
+   11-Yatırım Teşvik Belgeli Satışlara İlişkin Satış Faturası Listesi
+
+   12-Uluslararası Anlaşmalar Kapsamında Yapılan Satışlara İlişkin Satış Faturası Listesi
+
+   13-13. Madde Kapsamında Yapılan Satışlara İlişkin (D Bendi Hariç) Satış Fatura
+   Listesi
+
+   14-Kapasite Raporları Listesi
+
+   15-Taşımacılık İstisnasından Kaynaklanan Satış Faturası Listesi (Araç Hasılat Listesi)
+
+   16-Türkiye'de İkamet Etmeyenlere Özel Fatura ile Yapılan (Bavul Ticareti) Satışlara
+   İlişkin Satış Fatura Listesi
+
+   17-302-303-312-313-317 İade İşlem Türlerine Ait Satış Fatura Listesi
+
+   18-Serbest Bölgelerdeki Müşteriler İçin Yapılan Fason Hizmetlere Ait Satış Faturaları
+   Listesi
+
+   19-Geçici 17. Madde Kapsamındaki Teslimlere İlişkin Satış Fatura Listesi
+
+   20-Fatih Projesi Kapsamında Milli Eğitim Bakanlığına Yapılacak Mal Teslimi ve
+   Hizmet İfaları Teslimlerine İlişkin Satış Fatura Listesi
+
+   21-İmalat Sanayiinde Kullanmak Üzere Yapılan Yeni Makina ve Teçhizat
+   Teslimlerine İlişkin Satış Fatura Listesi
+
+   22-UEFA Süper Kupa ve 2020 UEFA Şampiyonlar Ligi Finali Müsabakaları
+   Kapsamında Yapılacak Teslim ve Hizmetlere İlişkin Satış Faturası Listesi
+
+
+                                                                                      107
+3.     KDV İADESİ TALEBİ GİRİŞLERİ İÇİN GOOGLE CHROME
+       TARAYICISINDA YAPILMASI GEREKEN AYARLAR
+
+
+1.Google Chrome tarayıcısında “Geçmişi Temizleme” işleminin yapılması gerekmektedir.
+Bunun için boş bir Google Chrome sayfasında CTRL - H tuşlarına birlikte basınız.
+
+
+
+
+       Sayfanın üst solunda yer alan “Tarama Verilerini Temizle” kısmına tıklanmalıdır. Bu
+kısımda şifreler hariç butonların tamamı işaretlenmeli, zaman aralığı olarak; “En Baştan veya
+Tüm Zamanlar” işaretlenmeli ve alt sağ köşe de yer alan “Verileri Temizle” butonuna
+tıklanmalıdır.
+
+
+
+
+                                                                                         108
+2. Google Chrome tarayıcısının Türkçe sürüm olması gerekmektedir. Bunun için tarayıcınızın
+sağ üst bölümünde yer alan “Menü” simgesine       tıklayın ve “Ayarlar” ı seçiniz.
+
+
+
+
+                                                                                      109
+       Ayarlar sayfasının en altına inilerek “Gelişmiş” seçeneği tıklanmalı ve “Ek ayarlar”
+görüntülenmelidir.
+
+
+
+
+                                                                                       110
+        Ek Ayarlar içerisinde yer alan “Diller Sekmesinde” dil ve yazım denetiminin “Türkçe”
+olarak seçilmesi gerekmektedir.
+
+
+
+
+3.Yukarıdaki adımlar tamamlandıktan sonra bilgisayarın yeniden başlatılması gerekmektedir.
+(Ekran Girişine ait açıklamalar kılavuzun ilk sayfalarında yer almaktadır.)
+
+
+
+
+                                                                                        111
+4.       YENİ EXCEL LİSTESİ OLUŞTURMA VE LİSTELERİ SİSTEME
+         YÜKLEME
+        Liste yüklemesine başlamadan önce aşağıdaki yönergeleri takip ederek yeni “Excel
+Listeleri” oluşturulmalıdır.
+
+
+
+        İnternet Vergi Dairesine giriş yapıldıktan sonra “KDV İade İşlemleri / KDV İadesi
+         Talebi Girişi” bölümüne tıklanması gerekmektedir.
+
+
+
+
+        İlgili      dönem      liste       giriş  bölümündeki;        “Belge       Ekle        /
+Excel Girişi için tıklayınız / Örnek Excel için tıklayınız” bölümü kullanılarak örnek Excel
+indirilebilecektir. Bu bölüme giriş yapıldığı zaman, hangi liste girişi yapılırken bu ekrana
+gelinmiş ise direkt olarak o listenin örnek Excel formatı bilgisayara indirilebilecektir.
+Örneğin; İndirilecek KDV Listesi yüklenmeye çalışılırken bu ekrana gelinmiş ise, bu listenin
+örnek Excel formatı bilgisayara indirilecektir. Bu şekilde ilgili döneme ilişkin tüm listelerin
+örnek Excel formatları indirilebilecektir.
+
+
+
+
+                                                                                             112
+      Ayrıca iade türlerine ilişkin tüm listelerin örnek Excel formatlarına, Google Chrome
+       tarayıcısı “intvrg.gib.gov.tr” adresinde sayfanın altındaki Sık Kullanılanlar bölümünde
+       yer alan “KDV İade Talebi Listelerini Gönderme” başlıklı kılavuzdan da ulaşılması
+       mümkün bulunmaktadır. Aynı kılavuza, ilgili dönem liste giriş bölümündeki ‘’ Belge
+       Ekle / Belge Girişine İlişkin Açıklamalar İçin Tıklayınız ‘’ bölümü kullanılarak da
+       ulaşılabilecektir.
+
+      Yeni örnek Excel listesini indirdikten sonra eski verilerinizi yapıştırırken; '' Değerleri
+       Yapıştır '' yaparak yeni Excel listesine yapıştırmanız gerekmektedir.
+
+
+
+
+ÖNEMLİ: Lütfen Excel’de verileri direkt olarak yapıştır yapmayınız. Direkt olarak yapıştır
+yapıldığı zaman Excel hücrelerinin formatı bozulmaktadır.
+
+
+
+      İndirilen yeni listedeki ilgili hücreye sağ tıkladığınız zaman aşağıdaki örnek tablodaki
+       gibi “Özel Yapıştır” satırı içinden '' Değerleri Yapıştır '' seçeneği karşınıza çıkacaktır.
+
+
+
+
+                                                                                               113
+   Bu şekilde yapıştırma işlemi sonrası oluşturduğunuz listeyi sisteme yükleyebilirsiniz.
+
+
+
+
+                                                                                        114
+

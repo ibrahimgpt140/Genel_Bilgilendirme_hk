@@ -40,8 +40,11 @@ for i, ln in enumerate(lines):
         log.append(f"red: satır {i+1}: {ln.strip()[:70]}")
     elif kind == "muk":
         if num is not None and main - 1 <= num <= main + 1 and gec == 0:
-            key = f"madde-{num:04d}-mukerrer"
-            if any(k == key for k, _ in arts): key += "-2"
+            key = f"madde-{num:04d}-mukerrer" + (f"-{suf}" if suf else "")
+            if any(k == key for k, _ in arts):
+                n2 = 2
+                while any(k == f"{key}-{n2}" for k, _ in arts): n2 += 1
+                key += f"-{n2}"
             arts.append((key, i))
         else:
             log.append(f"red: satır {i+1}: {ln.strip()[:70]}")

@@ -5,17 +5,18 @@
 | Resmî Gazete | 26.04.2014 – Sayı: 28983 |
 | Bu dosyanın kaynağı | Kullanıcı tarafından yüklenen, Gelir İdaresi Başkanlığınca hazırlanmış konsolide metin (`teblig.pdf`) |
 | PDF oluşturulma | 15.04.2026 (Microsoft Word 2013, yazar: Gelir İdaresi Başkanlığı) |
-| İşlenmiş son değişiklik | Seri No: 57 (RG 31.01.2026) |
+| İşlenmiş son değişiklik | `teblig.pdf`: Seri No: 57 (RG 31.01.2026); `tam-metin-mevzuat-gov-tr.txt`: Seri No: 58 (RG 16.06.2026) |
 | SHA-256 | `bdea3737f421203d3814fce7c4b72c617dacd03878d4d8e655cacc9e19d0df68` |
 | Depoya eklenme | 18.11.2026 |
 
 ## 1. Güncellik uyarısı (önce bunu okuyun)
 
-- **Seri No: 58 (RG 16.06.2026, sayı 33282) bu metne işlenmemiştir.** İkincil kaynak özetine göre
-  (alomaliye.com, 16.06.2026) değiştirdiği bölümler: II/B-15.1.3 (mazbut vakıflar), II/F-1, II/F-2.1
-  (vakıf üniversiteleri, 01.01.2027), II/F-5 ve II/F-2.5.x (Darülaceze), II/F-4.27 (yeni; 2942 s.
-  Kanun kapsamında devir) ve IV/A3-1.1 (dördüncü paragraftan sonra teminatla ithal edilen mallara
-  ilişkin paragraf). Bu bölümler kullanılırken Resmî Gazete metnine bakılmalıdır — **DOĞRULANMADI**.
+- **`teblig.pdf` ve `tam-metin.txt` (GİB, 15.04.2026) Seri No: 58'i (RG 16.06.2026, sayı 33282) içermez.**
+  **`tam-metin-mevzuat-gov-tr.txt` ise mevzuat.gov.tr'den 18.11.2026'da alınmış, Seri No: 58 işlenmiş güncel metindir.**
+  Seri No: 58'in IV/A3-1.1'e eklediği paragraf (teminatla ithal edilip ihraç edilen mallarda azami iade tutarını
+  aşan KDV'nin vergi inceleme raporu aranmadan iadesi) bu güncel metinde "(Ek paragraf:RG-16/6/2026-33282)"
+  notuyla yer almaktadır (doğrulandı). Güncel hüküm gereken her durumda önce bu dosyaya bakılmalıdır.
+  `bolumler/` klasörü GİB metninden bölünmüştür.
 - **Oran ibareleri güncellenmemiş.** IV/A3-1.1'deki azami iade hükmünde "(%18)'i (genel KDV oranı)"
   ibaresi geçmektedir. Genel oran 7346 sayılı Cumhurbaşkanı Kararı ile 10.07.2023'ten itibaren %20'dir.
 - Metin `pdftotext -layout` ile çıkarılmıştır; dipnot numaraları başlık ve kelimelere bitişik
@@ -26,7 +27,8 @@
 | Dosya | İçerik |
 |---|---|
 | `teblig.pdf` | Yüklenen PDF (değiştirilmeden) |
-| `tam-metin.txt` | PDF'in tam metni |
+| `tam-metin.txt` | PDF'in tam metni (GİB, Seri No: 57'ye kadar) |
+| `tam-metin-mevzuat-gov-tr.txt` | mevzuat.gov.tr güncel metni (Seri No: 58 dahil), düz metin |
 | `bolumler/` | Ana bölümlere ayrılmış metin (aşağıdaki tablo; satır numaraları `tam-metin.txt`'ye göre) |
 
 Bölme betiği: `araclar/bol_kdvgut.py` (`python3 araclar/bol_kdvgut.py tam-metin.txt bolumler`).

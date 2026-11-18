@@ -1,312 +1,2105 @@
-I- MÜKELLEFİYET ............................................................................................................................................................ 1
-   A. VERGİNİN KONUSU ................................................................................................................................................ 1
-       1.Verginin Konusunu Teşkil Eden İşlemler ................................................................................................................. 1
-       2. Teslim....................................................................................................................................................................... 3
-       3. Teslim Sayılan Haller ............................................................................................................................................... 3
-       4. Hizmet ...................................................................................................................................................................... 4
-       5. Hizmet Sayılan Haller .............................................................................................................................................. 4
-       6. İşlemlerin Türkiye’de Yapılması .............................................................................................................................. 4
-   B. VERGİNİN KONUSU İLE İLGİLİ ÇEŞİTLİ HUSUSLAR ....................................................................................... 6
-       1. Kap ve Ambalaj Maddelerinin Vergilendirilmesi .................................................................................................... 6
-       2. Kamu Kurum ve Kuruluşları, Dernek ve Vakıflar ile Mesleki Kuruluşların Vergilendirilmesi .............................. 6
-       3. Nakil Vasıtaların Satışı............................................................................................................................................. 7
-       4. Avukatlık Ücretleri ................................................................................................................................................... 7
-       5. Personele Sağlanan Menfaatler ................................................................................................................................ 7
-       6. Müzayede Mahallinde Yapılan Satışlar ................................................................................................................... 7
-       7. Adi Ortaklıklarda Vergileme .................................................................................................................................... 8
-       8. Arsa Karşılığı İnşaat İşleri ........................................................................................................................................ 9
-       9. Yurt Dışına Düzenlenen Turlar .............................................................................................................................. 10
-       10. Promosyon Ürünleri, Numune ve Eşantiyonlar .................................................................................................... 11
-       11. Tüketicinin Korunması Hakkında Kanun Kapsamındaki Satışlar ........................................................................ 13
-       12. Profesyonel Futbol Faaliyetleri ............................................................................................................................ 14
-       13. Kazançları Basit Usulde Tespit Edilen Mükelleflerin KDV Karşısındaki Durumu ............................................. 16
-       14. Şehirlerarası Yolcu Taşımacılığı .......................................................................................................................... 16
-       15. İlaç Bedelleri ........................................................................................................................................................ 16
-       16. Kart, Şifre, Kod ve Benzerlerinin Satışında KDV Uygulaması .......................................................................... 16
-   C. MÜKELLEF VE VERGİ SORUMLUSU ................................................................................................................. 18
-       1. Mükellef ................................................................................................................................................................. 18
-       2. Vergi Sorumlusu .................................................................................................................................................... 21
-   Ç. VERGİYİ DOĞURAN OLAY .................................................................................................................................. 53
-       1. Vergiyi Doğuran Olayın Meydana Gelmesi ........................................................................................................... 53
-II. İSTİSNALAR ................................................................................................................................................................ 55
-   A. İHRACAT İSTİSNASI ............................................................................................................................................. 55
-       1. Mal İhracı ............................................................................................................................................................... 55
-       2. Hizmet İhracı .......................................................................................................................................................... 61
-       3. Roaming Hizmetleri ............................................................................................................................................... 64
-       4. Serbest Bölgelerdeki Müşteriler İçin Yapılan Fason Hizmetler ............................................................................. 65
-       5. Yolcu Beraberi Eşya (Türkiye’de İkamet Etmeyenlere KDV Hesaplanarak Yapılan Satışlar) .............................. 67
-       6. Türkiye’de İkamet Etmeyen Taşımacılar ile Fuar, Sergi, Panayır Katılımcılarına Yapılan Teslim ve Hizmetlerde İstisna
-       .................................................................................................................................................................................... 72
-       7. Yabancı Sinema Yapımcılarına Tanınan İstisna .................................................................................................... 73
-       8. İhraç Kaydıyla Teslimlerde Tecil-Terkin Uygulaması ........................................................................................... 74
-    26 Nisan 2014 – Sayı : 28983                                           RESMİ GAZETE                                                                  Sayfa 2 / 397
+  İçindekiler
+  I-
+  MÜKELLEFİYET.. 1
+  A. VERGİNİN
+  KONUSU.. 1
+  1.Verginin
+  Konusunu Teşkil Eden İşlemler 1
+  2. Teslim... 3
+  3. Teslim
+  Sayılan Haller 3
+  4. Hizmet 4
+  5. Hizmet
+  Sayılan Haller 4
+  6. İşlemlerin
+  Türkiye’de Yapılması 4
+  B. VERGİNİN
+  KONUSU İLE İLGİLİ ÇEŞİTLİ HUSUSLAR.. 6
+  1. Kap ve
+  Ambalaj Maddelerinin Vergilendirilmesi 6
+  2. Kamu Kurum
+  ve Kuruluşları, Dernek ve Vakıflar ile Mesleki Kuruluşların Vergilendirilmesi 6
+  3. Nakil
+  Vasıtaların Satışı 7
+  4. Avukatlık
+  Ücretleri 7
+  5. Personele
+  Sağlanan Menfaatler 7
+  6. Müzayede
+  Mahallinde Yapılan Satışlar 7
+  7. Adi
+  Ortaklıklarda Vergileme. 8
+  8. Arsa
+  Karşılığı İnşaat İşleri 9
+  9. Yurt
+  Dışına Düzenlenen Turlar 10
+  10. Promosyon
+  Ürünleri, Numune ve Eşantiyonlar 11
+  11.
+  Tüketicinin Korunması Hakkında Kanun Kapsamındaki Satışlar 13
+  12.
+  Profesyonel Futbol Faaliyetleri 14
+  13.
+   Kazançları Basit Usulde Tespit Edilen  Mükelleflerin KDV
+  Karşısındaki Durumu. 16
+  14.
+  Şehirlerarası Yolcu Taşımacılığı 16
+  15. İlaç
+  Bedelleri 16
+  C. MÜKELLEF
+  VE VERGİ SORUMLUSU.. 17
+  1. Mükellef. 17
+  2. Vergi
+  Sorumlusu. 19
+  Ç. VERGİYİ
+  DOĞURAN OLAY.. 52
+  1. Vergiyi
+  Doğuran Olayın Meydana Gelmesi 52
+  II.
+  İSTİSNALAR.. 54
+  A. İHRACAT
+  İSTİSNASI. 54
+  1. Mal İhracı 54
+  2. Hizmet
+  İhracı 60
+  3. Roaming
+  Hizmetleri 63
+  4. Serbest
+  Bölgelerdeki Müşteriler İçin Yapılan Fason Hizmetler 64
+  5. Yolcu
+  Beraberi Eşya (Türkiye’de İkamet Etmeyenlere KDV Hesaplanarak Yapılan
+  Satışlar) 66
+  6. Türkiye’de
+  İkamet Etmeyen Taşımacılar ile Fuar, Sergi, Panayır Katılımcılarına Yapılan
+  Teslim ve Hizmetlerde İstisna  71
+  7. Yabancı
+  Sinema Yapımcılarına Tanınan İstisna. 72
+  8. İhraç
+  Kaydıyla Teslimlerde Tecil-Terkin Uygulaması 73
+  9. Dahilde
+  İşleme ve Geçici Kabul Rejimleri Kapsamında İhraç Edilecek Malların
+  Üretiminde Kullanılan Girdilerin Temininde Tecil-Terkin Uygulaması 82
+  B. ARAÇLAR,
+  KIYMETLİ MADEN VE PETROL ARAMALARI İLE ULUSAL GÜVENLİK HARCAMALARI VE
+  YATIRIMLARDA İSTİSNA.. 86
+  1.Deniz, Hava
+  ve Demiryolu Taşıma Araçlarının Tesliminde, Tadil, Bakım ve Onarımında, İmal
+  ve İnşasına İlişkin Alımlarda İstisna. 86
+  2. Liman ve
+  Hava Meydanlarında Yapılan Hizmetlere İlişkin İstisna. 95
+  3. Petrol
+  Arama Faaliyetlerine İlişkin İstisna. 97
+  4. Altın,
+  Gümüş, Platin ile İlgili Arama, İşletme ve Zenginleştirme Faaliyetlerine
+  İlişkin İstisna. 100
+  5. Yatırım
+  Teşvik Belgesi Kapsamında Makine ve Teçhizat Teslimleri ile Yazılım ve Gayri
+  Maddi Hak Satış ve Kiralamalarında İstisna. 102
+  6. Limanlara
+  Bağlantı Sağlayan Demiryolu Hatları ile Liman ve Hava Meydanlarının İnşası,
+  Yenilenmesi ve Genişletilmesine İlişkin İstisna.
+  106
+  7. Ulusal
+  Güvenlik Amaçlı Teslim ve Hizmetlere İlişkin İstisna. 108
+  8.
+  Başbakanlık Merkez Teşkilatına Yapılacak Araç Teslimlerinde İstisna. 112
+  9. Ürün
+  Senetlerinin İhtisas/Ticaret Borsaları Aracılığıyla İlk Teslimi 113
+  10. Türkiye
+  Kızılay Derneğine Yapılan Teslim ve Hizmetler ile Türkiye Kızılay Derneğinin
+  Teslim ve Hizmetlerinde İstisna  113
+  11. Gıda,
+  Tarım ve Hayvancılık Bakanlığı Tarafından Tescil Edilen Gübreler ve Gübre
+  Üreticilerine Bu Ürünlerin İçeriğinde Bulunan Hammaddelerin Teslimi ile Yem
+  Teslimlerinde İstisna. 115
+  13. Organize
+  Sanayi Bölgeleri ile Küçük Sanayi Sitelerinin İnşasına İlişkin İstisna. 123
+  14. Ar-Ge,
+  Yenilik ve Tasarım Faaliyetlerinde Kullanılmak Üzere Yapılan Yeni Makina ve
+  Teçhizat Teslimlerinde İstisna  125
+  15. Genel ve
+  Özel Bütçeli Kamu İdarelerine, İl Özel İdarelerine, Belediyelere ve Köylere
+  Bağışlanan Tesislerin İnşasına İlişkin İstisna.
+  127
+  16.
+  Yabancılara Verilen Sağlık Hizmetlerinde İstisna.
+  131
+  17.İstisna
+  Uygulamalarında Alt Sınır 133
+  C.
+  TAŞIMACILIK İSTİSNASI. 136
+  1. Transit ve
+  Türkiye ile Yabancı Ülkeler Arasında Yapılan Taşımacılık İşlerinde İstisna. 136
+  2. İhraç Malı
+  Taşıyan Araçlara Motorin Teslimlerinde İstisna.
+  138
+  Ç. DİPLOMATİK
+  İSTİSNALAR.. 140
+  1. Diplomatik
+  Temsilcilik ve Konsolosluklara Yapılacak Teslim ve Hizmetlerde İstisna. 140
+  2.
+  Uluslararası Kuruluşlara Yapılan Teslim ve Hizmetlerde İstisna. 141
+  3. Yabancı
+  Devletlerin Diplomatik Temsilcilik ve Konsolosluk Mensupları ile Uluslararası
+  Kuruluş Mensuplarına Yapılan Teslim ve Hizmetlerde İstisna. 143
+  D. İTHALAT
+  İSTİSNASI. 146
+  1. Yurtiçi
+  Teslimleri KDV’den İstisna Olan Mal ve Hizmetler
+  146
+  2. Gümrük
+  Kanununa Göre Gümrük Vergisinden Muaf veya Müstesna Olan Eşya. 146
+  3. Bazı
+  Gümrük Rejimlerinin Uygulandığı Mallar 147
+  E. İNDİRİM VE
+  İADE HAKKI TANINAN DİĞER İSTİSNALAR.. 148
+  1.
+  Engellilerin Kullanımına Mahsus Araç ve Gereçlerin Tesliminde İstisna. 148
+  2.
+  Uluslararası Kuruluşlar ile Bu Kuruluşlara Bağlı Program, Fon, Temsilcilik ve
+  Özel İhtisas Kuruluşlarına Yapılan Teslim ve Hizmetlerde İstisna. 148
+  3. 3996
+  Sayılı Kanuna Göre Yap-İşlet-Devret veya 3359 Sayılı Kanun ile 652 Sayılı
+  Kararnameye Göre Kiralama Karşılığı Yaptırılan Projelerde KDV İstisnası 152
+  4. Büyük
+  Yatırımlara İlişkin İstisna. 154
+  5. İstanbul
+  Sismik Riskin Azaltılması ve Acil Durum Hazırlık Projesi (İSMEP)
+  KapsamındaYapılacak Teslim ve Hizmetlerde İstisna.
+  156
+  6.
+  Milletlerarası Andlaşma Hükümleri Çerçevesinde KDV'den İstisna Edilmiş Olan
+  Transit Petrol Boru Hattı Projelerinin İnşa ve Modernizasyonuna İlişkin
+  İstisna. 157
+  7. İmalat Sanayiine
+  Yönelik Yatırım Teşvik Belgesi Kapsamındaki İnşaat İşlerine İlişkin 1/5/2022
+  Tarihinden Önce Yapılan Mal ve Hizmet Alımları 158
+  8. Eğitimde
+  Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi
+  Kapsamında Milli Eğitim Bakanlığına Yapılacak Mal Teslimi ve Hizmet
+  İfalarında İstisna. 163
+  9. İmalat
+  Sanayiinde Kullanılmak Üzere Yapılan Yeni Makina ve Teçhizat Teslimlerinde
+  İstisna. 164
+        
+  10. 2019 UEFA Süper Kupa ve 2021 UEFA Şampiyonlar Ligi Finali Müsabakaları
+  Kapsamında Yapılacak Teslim ve Hizmetlerde İstisna
+  ………………………………………………………………………………………………………....165
+        
+  11.  Elektrik Motorlu Taşıt Araçlarının Geliştirilmesine Yönelik
+  Verilen Mühendislik Hizmetlerinde İstisna ………167
+  F. SOSYAL VE
+  ASKERİ AMAÇLI İSTİSNALARLA DİĞER İSTİSNALAR.. 167
+  1. Kültür ve
+  Eğitim Amacı Taşıyan İstisnalar 172
+  2. Sosyal
+  Amaç Taşıyan İstisnalar 173
+  3. Askeri
+  Amaç Taşıyan İstisnalar 178
+  4. Diğer
+  İstisnalar 178
+  G. GEÇİCİ
+  MADDELERDE YER ALAN İSTİSNALAR.. 194
+  1.
+  Özelleştirme Kapsamına Alınan İktisadi Kıymetlerin Teslim ve Kiralanması
+  İşlemleri 194
+  2. Teknoloji
+  Geliştirme Bölgesinde ve İhtisas Teknoloji Geliştirme Bölgesinde Verilen
+  Teslim ve Hizmetler 194
+  3. Milli
+  Eğitim Bakanlığına Bilgisayar ve Donanımlarının Bedelsiz Teslimleri ile
+  Bunlara İlişkin Yazılım Teslimi ve Hizmetleri 195
+  4.Konut Yapı
+  Kooperatiflerinin Üyelerine Konut Teslimleri ile Konut Yapı Kooperatiflerine
+  Yapılan İnşaat Taahhüt İşleri 197
+  5.Bireysel
+  Emeklilik Tasarruf ve Yatırım Sistemine Taşınmaz ve İştirak Hissesi Devri 199
+  6. Şehir İçi
+  Ulaşım Sistemleri ve Bunlara İlişkin Tesislerin Devir ve Teslimleri 199
+  7.
+  Taşınmazların Sosyal Güvenlik Kurumuna Devir ve Teslimi ile Bu Taşınmazların
+  Sosyal Güvenlik Kurumu Tarafından Devir ve Teslimleri 199
+  8. Belediye
+  ve İl Özel İdarelerinin 27/1/2017 Tarihinden Önce Yaptıkları Taşınmaz
+  Satışları 200
+  Ğ. İSTİSNADAN
+  VAZGEÇME VE İSTİSNALARIN SINIRI. 201
+  1. İstisnadan
+  Vazgeçme. 201
+  III. MATRAH,
+  NİSPET VE İNDİRİM... 202
+  A.MATRAH.. 202
+  1. Teslim ve
+  Hizmet İşlemlerinde Matrah. 202
+  2. İthalatta Matrah. 202
+  3.
+  Uluslararası Yük ve Yolcu Taşımalarında Matrah.
+  203
+  4. Özel
+  Matrah Şekilleri 203
+  5. Matraha
+  Dâhil Olan Unsurlar 207
+  6. Matraha
+  Dâhil Olmayan Unsurlar 208
+  7. Emsal
+  Bedeli ve Emsal Ücreti 209
+  B. ORAN.. 210
+  1. Genel
+  Açıklama. 210
+  2. İndirimli
+  Orana Tabi Bazı Mal ve Hizmetlere İlişkin Açıklamalar 210
+  3. İndirimli
+  Orana Tabi İşlemlerde İade Uygulaması 218
+  C. İNDİRİM... 237
+  1. Vergi
+  İndirimi 237
+  2.İndirilemeyecek
+  KDV.. 238
+  3. İstisna
+  Edilmiş İşlemlerde İndirim... 243
+  4. Kısmi
+  Vergi İndirimi 243
+  5. İndirimin
+  Belgelendirilmesi 243
+  6. Matrah ve
+  İndirim Miktarlarının Değişmesi 247
+  IV. KDV
+  İADESİNDE ORTAK HUSUSLAR.. 248
+  A. İADE
+  TUTARININ HESABI VE İADEYE DAYANAK İŞLEM VE BELGELER.. 248
+  1. İadesi
+  Talep Edilebilecek KDV.. 248
+  2. Mahsup
+  Yoluyla İade. 251
+  3. Maliye
+  Bakanlığınca Belirlenen Sınırı Aşmayan Nakden İadeler 253
+  4. YMM KDV
+  İadesi Tasdik Raporuna Dayalı İadeler 253
+  5. Teminat
+  Karşılığı İade. 255
+  6. Vergi İnceleme
+  Raporu ile İade. 256
+  7. İade
+  Talebinde Aranan Belgeler 257
+  B. İNDİRİMLİ
+  TEMİNAT UYGULAMASI SİSTEMİ (İTUS) 259
+  1. İTUS
+  Sertifikası Kapsamına Giren Mükellefler 261
+  2. İTUS
+  Sertifikası Uygulamasına Göre İade Taleplerinin Yerine Getirilmesi 262
+  3. İTUS
+  Sertifikasının İptal edilmesi 262
+  C. HIZLANDIRILMIŞ
+  İADE SİSTEMİ (HİS) 264
+  1. HİS
+  Uygulaması Kapsamına Girecek Mükellefler 264
+  2. HİS
+  Uygulamasına Göre İade Taleplerinin Yerine Getirilmesi 264
+  3. HİS
+  Sertifikasının İptal Edilmesi 265
+  D. DİĞER
+  HUSUSLAR.. 266
+  1. İade
+  Hakkının İndirim Yoluyla Kullanılması 266
+  2. Defter ve
+  Belgelerin Zayi Olması (Yangın, Su Baskını, Çalınma Gibi) Durumunda İade. 266
+  3. Kamuya Ait
+  Kuruluşlara İade. 266
+  4. İstisna
+  Kapsamında Yapılan Teslim ve/veya Hizmetin Matrahının Değişmesi ve Düzeltme
+  İşlemleri 267
+  5. İstisna
+  Kapsamındaki İşlemin Gerçekleştiği Dönemden Sonra Ortaya Çıkan Ödemeler 267
+  6. İade
+  Taleplerinde, Sadece Listesi Gönderilen Belgelere İlişkin Saklama ve İbraz
+  Yükümlülüğü. 267
+  7. Yoklama ve
+  Değerlendirme. 267
+  8. Kayıt
+  Düzeni 268
+  E. ÖZEL
+  ESASLAR.. 270
+  1.Ortak
+  Hükümler 270
+  2. Sahte
+  Belge Düzenlemek Amacıyla Mükellefiyet Tesis Ettirilmesi 272
+  3.Sahte Belge
+  Düzenleyen veya Kullananlar 273
+  4.Muhteviyatı
+  İtibariyle Yanıltıcı Belge Düzenleyen veya Kullananlar 276
+  5. İşlemlerin
+  Gerçekliğini İspat 277
+  6. Haklarında
+  Olumsuz Rapor Bulunan Mükelleflerin İade Talepleri
+  278
+  7. Haklarında
+  Sahte Belge veya Muhteviyatı İtibariyle Yanıltıcı Belge Düzenleme veya
+  Kullanma Tespiti Bulunan Mükelleflerin İade Talepleri 280
+  8. İadeye
+  Esas Diğer Belgelerin Sahte veya Muhteviyatı İtibariyle Yanıltıcı Olması 281
+  9. Diğer
+  Tespitler 281
+  10. Özel
+  Esaslara Tabi Mükelleflerin Kanuni Temsilcileri, Ortakları, Ortak Oldukları
+  veya Bunların Kurdukları veya Ortağı Oldukları Mükellefler ile Kanuni
+  Temsilcisi Oldukları Mükellefler 283
+  11. Doğrudan
+  Mal veya Hizmet Temin Ettikleri Mükellefler Hakkında Olumsuz Rapor veya
+  Tespit Bulunanlar 283
+  12. Geçiş
+  Hükümleri 284
+  13. 3/8/2016
+  Tarihli ve 6736 Sayılı Bazı Alacakların Yeniden Yapılandırılmasına İlişkin
+  Kanun Kapsamında KDV Artırımında Bulunanların Özel Esaslar Karşısındaki
+  Durumu. 286
+  14. 11/5/2018
+  Tarihli ve 7143 Sayılı Vergi ve Diğer Bazı Alacakların Yeniden
+  Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+  Kapsamında KDV Artırımında Bulunanların Özel Esaslar Karşısındaki Durumu. 286
+  V. VERGİNİN TARHI
+  VE ÖDENMESİ. 287
+  A.
+  VERGİLENDİRME USULLERİ. 290
+  B.
+  VERGİLENDİRME DÖNEMİ VE BEYAN ESASI. 294
+  1.
+  Vergilendirme Dönemi 294
+  2. Beyan
+  Esası 294
+  3. Beyanname
+  Verme Zamanı 295
+  4. Beyanname
+  Çeşitleri 296
+  C. TARH
+  İŞLEMLERİ. 296
+  1. Tarh Yeri 296
+  2. Tarhiyatın
+  Muhatabı 296
+  3. Tarh
+  Zamanı 297
+  D. VERGİNİN
+  ÖDENMESİ. 297
+  VI. USUL
+  HÜKÜMLERİ VE ÇEŞİTLİ HUSUSLAR.. 298
+  A.USUL
+  HÜKÜMLERİ. 298
+  1. Kayıt
+  Düzeni 298
+  B. ÇEŞİTLİ
+  HUSUSLAR.. 298
+  1. Verginin
+  Gider Kaydedilemeyeceği 298
+  2. Müteselsil
+  Sorumluluk. 298
+  C.
+  YÜRÜRLÜKTEN KALDIRILAN TEBLİĞLER.. 299
+  Ç. GEÇİCİ
+  HÜKÜMLER.. 300
+  1. KDV İade
+  Alacağının 4760 sayılı ÖTV Kanunundan Doğan Borçlara Mahsuben İadesi 300
+         
+  2. 518 Sıra No.lu Vergi Usul Kanunu Genel Tebliği İle İlan Edilen Mücbir
+  Sebep
+  Döneminde                                                           
+  KDV İade Uygulaması  
+  …………………………………………………………………………………………………   
+  296               
 
-   9. Dahilde İşleme ve Geçici Kabul Rejimleri Kapsamında İhraç Edilecek Malların Üretiminde Kullanılan Girdilerin Temininde
-   Tecil-Terkin Uygulaması ........................................................................................................................................... 83
-B. ARAÇLAR, KIYMETLİ MADEN VE PETROL ARAMALARI İLE ULUSAL GÜVENLİK HARCAMALARI VE
-YATIRIMLARDA İSTİSNA ......................................................................................................................................... 86
-   1.Deniz, Hava ve Demiryolu Taşıma Araçlarının Tesliminde, Tadil, Bakım ve Onarımında, İmal ve İnşasına İlişkin Alımlarda
-   İstisna ......................................................................................................................................................................... 86
-   2. Liman ve Hava Meydanlarında Yapılan Hizmetlere İlişkin İstisna .................. Hata! Yer işareti tanımlanmamış.
-   3. Petrol Arama Faaliyetlerine İlişkin İstisna ........................................................................................................... 100
-   4. Altın, Gümüş, Platin ile İlgili Arama, İşletme ve Zenginleştirme Faaliyetlerine İlişkin İstisna ........................... 103
-   5. Yatırım Teşvik Belgesi Kapsamında Makine ve Teçhizat Teslimleri ile Yazılım ve Gayri Maddi Hak Satış ve
-   Kiralamalarında İstisna ............................................................................................................................................ 105
-   6. Limanlara Bağlantı Sağlayan Demiryolu Hatları ile Liman ve Hava Meydanlarının İnşası, Yenilenmesi ve Genişletilmesine
-   İlişkin İstisna ............................................................................................................................................................ 109
-   7. Ulusal Güvenlik Amaçlı Teslim ve Hizmetlere İlişkin İstisna ............................................................................. 111
-   8. Başbakanlık Merkez Teşkilatına Yapılacak Araç Teslimlerinde İstisna .............................................................. 115
-   9. Ürün Senetlerinin İhtisas/Ticaret Borsaları Aracılığıyla İlk Teslimi .................................................................... 115
-   10. Türkiye Kızılay Derneğine Yapılan Teslim ve Hizmetler ile Türkiye Kızılay Derneğinin Teslim ve Hizmetlerinde İstisna
-   .................................................................................................................................................................................. 116
-   11. Gıda, Tarım ve Hayvancılık Bakanlığı Tarafından Tescil Edilen Gübreler ve Gübre Üreticilerine Bu Ürünlerin İçeriğinde
-   Bulunan Hammaddelerin Teslimi ile Yem Teslimlerinde İstisna ............................................................................ 118
-   12. Konut veya İş Yeri Teslimlerinde İstisna ........................................................................................................... 121
-   13. Organize Sanayi Bölgeleri ile Küçük Sanayi Sitelerinin İnşasına İlişkin İstisna ............................................... 126
-   14. Ar-Ge, Yenilik ve Tasarım Faaliyetlerinde Kullanılmak Üzere Yapılan Yeni Makina ve Teçhizat Teslimlerinde İstisna
-   .................................................................................................................................................................................. 128
-   15. Genel ve Özel Bütçeli Kamu İdarelerine, İl Özel İdarelerine, Belediyelere ve Köylere Bağışlanan Tesislerin İnşasına İlişkin
-   İstisna ....................................................................................................................................................................... 130
-   16. Yabancılara Verilen Sağlık Hizmetlerinde İstisna ............................................................................................. 134
-   17. Basılı Kitap ve Süreli Yayınların Tesliminde İstisna ......................................................................................... 136
-   18.İstisna Uygulamalarında Alt Sınır ....................................................................................................................... 138
-C. TAŞIMACILIK İSTİSNASI ................................................................................................................................... 141
-   1. Transit ve Türkiye ile Yabancı Ülkeler Arasında Yapılan Taşımacılık İşlerinde İstisna ..................................... 141
-   2. İhraç Malı Taşıyan Araçlara Motorin Teslimlerinde İstisna ................................................................................ 143
-Ç. DİPLOMATİK İSTİSNALAR ................................................................................................................................ 145
-   1. Diplomatik Temsilcilik ve Konsolosluklara Yapılacak Teslim ve Hizmetlerde İstisna ....................................... 145
-   2. Uluslararası Kuruluşlara Yapılan Teslim ve Hizmetlerde İstisna ........................................................................ 146
-   3. Yabancı Devletlerin Diplomatik Temsilcilik ve Konsolosluk Mensupları ile Uluslararası Kuruluş Mensuplarına Yapılan
-   Teslim ve Hizmetlerde İstisna .................................................................................................................................. 148
-D. İTHALAT İSTİSNASI ............................................................................................................................................ 151
-   1. Yurtiçi Teslimleri KDV’den İstisna Olan Mal ve Hizmetler ............................................................................... 151
-   2. Gümrük Kanununa Göre Gümrük Vergisinden Muaf veya Müstesna Olan Eşya ................................................ 151
-   3. Bazı Gümrük Rejimlerinin Uygulandığı Mallar ................................................................................................... 153
-E. İNDİRİM VE İADE HAKKI TANINAN DİĞER İSTİSNALAR .......................................................................... 153
-   1. Engellilerin Kullanımına Mahsus Araç ve Gereçlerin Tesliminde İstisna ........................................................... 153
-   2. Uluslararası Kuruluşlar ile Bu Kuruluşlara Bağlı Program, Fon, Temsilcilik ve Özel İhtisas Kuruluşlarına Yapılan Teslim ve
-   Hizmetlerde İstisna ................................................................................................................................................... 154
-   3. 3996 Sayılı Kanuna Göre Yap-İşlet-Devret veya 3359 Sayılı Kanun ile 652 Sayılı Kararnameye Göre Kiralama Karşılığı
-   Yaptırılan Projelerde KDV İstisnası......................................................................................................................... 157
-   4. Büyük Yatırımlara İlişkin İstisna ......................................................................................................................... 159
-   5. İstanbul Sismik Riskin Azaltılması ve Acil Durum Hazırlık Projesi (İSMEP) Kapsamında Yapılacak Teslim ve Hizmetlerde
-   İstisna ....................................................................................................................................................................... 161
-        26 Nisan 2014 – Sayı : 28983                                           RESMİ GAZETE                                                                   Sayfa 3 / 397
+         
+  3. Hazine ve Maliye Bakanlığı Tarafından Kahramanmaraş’ta Meydana Gelen
+  Depremden Etkilenen İller İçin İlan Edilen Mücbir Sebep Döneminde KDV İade
+  Uygulaması ………………………………………………………………………   298
+  D. YÜRÜRLÜK.. 300
+  EKLER DİZİNİ. 306
+  EK1: İCRA
+  DAİRELERİNCEYAPILAN SATIŞLARA AİT KATMA DEĞER VERGİSİ BEYANNAMESİ. 309
+  EK 2:İCRA
+  DAİRELERİNCE YAPILAN SATIŞLARA AİT BİLDİRİM... 310
+  EK3:TÜRKİYE'DE
+  İKAMET ETMEYENLERE ÖZEL FATURA İLE İHRACAT İSTİSNASI KAPSAMINDA YAPILAN
+  SATIŞLARA AİT İZİN BELGESİ ÖRNEĞİ. 311
+  EK
+  4:TÜRKİYE'DE İKAMET ETMEYENLERE İHRACAT İSTİSNASI KAPSAMINDA YAPILAN
+  SATIŞLARA AİT ÖZEL FATURA.. 312
+  EK 5: YABANCI
+  FUAR, SERGİ, PANAYIR KATILIMCILARI İLE TAŞIMACILARIN İADE TALEP FORMU.. 313
+  EK 6A: 
+  ARAÇLARIN TESLİMİNE VEYA İTHALİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 314
+  EK 6B:
+  ARAÇLARIN TADİL, ONARIM VE BAKIMINA İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 315
+  EK 6C:
+  ARAÇLARIN İMALİ VEYA İNŞASINDA KULLANILACAK İMAL/İNŞA PROJESİNDE YER ALAN MAL
+  VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN İMAL/İNŞA EDENE VERİLECEK
+  İSTİSNA BELGESİ ÖRNEĞİ (Bizzat İmal ve İnşa Edenler ile Sipariş Üzerine Fiilen
+  İmal ve İnşa Edenler) 317
+  EK 6D: 
+  ARAÇLARIN İMALİ VEYA İNŞASINDA KULLANILACAK İMAL/İNŞA PROJESİNDE YER ALAN MAL
+  VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN İMAL/İNŞA ETTİREN FİRMAYA
+  VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 319
+  EK
+  6E:FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE
+  İNŞASI OLANLARA İMAL/İNŞA PROJESİNDE YER ALAN MAL VE HİZMETLERİN ALIMINA VEYA
+  İTHALİNE İLİŞKİN VERİLECEK BELGE ÖRNEĞİ (KDV Mükellefi Olanlar İçin) 321
+  EK
+  6F:FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE
+  İNŞASI OLANLARA İMAL/İNŞA PROJESİNDE YER ALANMAL VE HİZMETLERİN ALIMINA VEYA
+  İTHALİNE İLİŞKİN VERİLECEK BELGE ÖRNEĞİ (KDV Mükellefi Olmayanlar İçin) 323
+  EK 7A: PETROL
+  ARAMA ŞİRKETİNİN YURT İÇİ ALIMLARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 325
+  EK 7B: PETROL
+  ŞİRKETİ MÜTEAHHİTLERİNİN YURT İÇİ ALIMLARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ  326
+  EK 7C:İTHALAT
+  İSTİSNASINA İLİŞKİN BELGE ÖRNEĞİ. 327
+  EK 7D: BORU
+  HATTIYLA TAŞIMACILIK YAPANLARA BU HATLARIN İNŞA VE MODERNİZASYONUNA İLİŞKİN
+  VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 328
+  EK 7E: BORU
+  HATTIYLA TAŞIMACILIK YAPANLARA BU HATLARIN İNŞA VE MODERNİZASYONUNA İLİŞKİN
+  VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ (KDV Mükellefi Olmayanlar İçin) 330
+  EK 8A:ALTIN,
+  GÜMÜŞ ve PLATİN İLE İLGİLİ ARAMA, İŞLETME, ZENGİNLEŞTİRME RAFİNAJ
+  FAALİYETLERİNE İLİŞKİN ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞINCA VERİLECEK YAZI
+  ÖRNEĞİ. 332
+  EK 8B: ALTIN,
+  GÜMÜŞ ve PLATİN İLE İLGİLİ ARAMA, İŞLETME, ZENGİNLEŞTİRME RAFİNAJ
+  FAALİYETLERİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 333
+  EK 9A:YATIRIM
+  TEŞVİK BELGESİ SAHİBİ MÜKELLEFLERE VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 335
+  EK 9B:YATIRIM
+  TEŞVİK BELGESİ KAPSAMINDAKİ İSTİSNA BİLDİRİM FORMU..
+  336
+  EK 10: 3065
+  SAYILI KANUNUN (13/e)  BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 337
+  EK 11A:
+  ULUSAL GÜVENLİK KURULUŞU TARAFINDAN ASIL YÜKLENİCİYE VERİLEN İSTİSNA BELGESİ
+  ÖRNEĞİ  339
+  EK 11B:
+  ULUSAL GÜVENLİK KURULUŞLARINA KDV KANUNUNUN (13/f) MADDESİ KAPSAMINDA
+  YAPILACAK TESLİM VE HİZMETLERİN ÜRETİMİNDE KULLANILACAK MAL VE HİZMETLERE AİT
+  LİSTE ÖRNEĞİ. 340
+  EK
+  11C:YÜKLENİCİLERİN TESLİM VE İFALARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 341
+  EK 11D:
+  YÜKLENİCİ FİRMALARA YAPILAN TESLİM VE HİZMETLERE AİT LİSTE.. 342
+  EK 12:AMERİKA
+  BİRLEŞİK DEVLETLERİNE VEYA ONUN NAMINA ORTAK SAVUNMA AMACIYLA YAPILACAK MAL
+  VE HİZMET ALIMLARINDA KATMA DEĞER VERGİSİ İSTİSNASI UYGULANMASI İÇİN TALEP
+  BELGESİ  343
+  EK 13: 3996
+  SAYILI KANUNA GÖRE YAP-İŞLET-DEVRET VEYA 3359 SAYILI KANUN İLE 652 SAYILI
+  KARARNAMEYE GÖRE KİRALAMA KARŞILIĞI YAPTIRILAN PROJELERDE KDV İSTİSNASI
+  UYGULAMASINA İLİŞKİN BELGE ÖRNEĞİ. 344
+  EK 14: 6111
+  SAYILI KANUNUN GECİÇİ 16 NCI MADDE UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ
+  ÖRNEĞİ  346
+  EK 15: 3065
+  SAYILI KANUNUN (17/2-d)  BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ
+  ÖRNEĞİ. 347
+  EK 16:
+  LİSANSLI DEPO İŞLETİCİLERİ İÇİN KATMA DEĞER VERGİSİ TAHSİLÂT BELGESİ. 348
+  EK 17: 3065
+  SAYILI KANUNUN GEÇİCİ 23 ÜNCÜ MADDESİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ
+  ÖRNEĞİ  349
+  EK 18: KESİN
+  VE SÜRESİZ TEMİNAT MEKTUBU ÖRNEĞİ. 350
+  EK 19: İADESİ
+  TALEP EDİLEN KDV HESAPLAMA TABLOSU.. 351
+  EK 20: İTUS
+  SERTİFİKASI ÖRNEĞİ. 352
+  EK 21: HİS
+  SERTİFİKASI ÖRNEĞİ. 353
+  EK 22: 3065
+  SAYILI KANUNUN (13/h) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 354
+  EK-23A: GIDA,
+  TARIM VE HAYVANCILIK BAKANLIĞI TARAFINDAN TESCİL EDİLEN GÜBRELERİN ÜRETİMİNDE
+  KULLANILACAK HAMMADDE LİSTESİ ÖRNEĞİ. 356
+  EK 23B: GÜBRE
+  ÜRETİCİLERİNİN GÜBRE İÇERİĞİNDE BULUNAN HAMMADDELERİ ALIMINDA KULLANILACAK
+  İSTİSNA BELGESİ ÖRNEĞİ. 357
+  EK 24: 3065
+  SAYILI KANUNUN (13/i) MADDESİNDEKİ İSTİSNA KAPSAMINDA YAPILAN TESLİMLERE
+  İLİŞKİN BİLDİRİM FORMU.. 358
+  EK 25: FATİH
+  PROJESİ KAPSAMINDAKİ MAL VE HİZMET ALIMLARINA İLİŞKİN MİLLİ EĞİTİM BAKANLIĞI
+  TARAFINDAN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 359
+  EK 26: 3065
+  SAYILI KANUNUN (13/j) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 361
+  EK 27: AR-GE,
+  YENİLİK VE TASARIM FAALİYETLERİNDE KULLANILMAK ÜZERE YAPILAN YENİ MAKİNE VE
+  TEÇHİZAT TESLİMLERİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ. 363
+  EK 28: İMALAT
+  SANAYİİNE YÖNELİK YENİ MAKİNE VE TEÇHİZAT TESLİMLERİNE İLİŞKİN VERİLECEK
+  İSTİSNA BELGESİ ÖRNEĞİ. 365
+  EK 29: 3065
+  SAYILI KANUNUN (13/k) MADDESİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ. 367
+         
+  EK 30:  İMALAT SANAYİİ İLE TURİZME YÖNELİK YATIRIM TEŞVİK BELGESİ SAHİBİ
+  MÜKELLEFLERE VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ
+  ………………………………………………………………………………360
+         
+  EK 31: ELEKTRİK MOTORLU TAŞIT ARAÇLARININ GELİŞTİRİLMESİNE YÖNELİK VERİLEN
+  MÜHENDİSLİK HİZMETLERİNE İLİŞKİN MÜKELLEFLERE VERİLECEK İSTİSNA BELGESİ
+  ÖRNEĞİ …………………………..370
+         
+  EK 32:  AFETZEDELERE BAĞIŞLANACAK KONUTLARIN İNŞASINA İLİŞKİN
+  İSTİSNA BELGESİ ÖRNEĞİ 373
+  EK 33:GENEL BÜTÇELİ KAMU İDARELERİNE BAĞIŞLANMAK ÜZERE KONUT, İŞ
+  YERİ, OKUL, ÖĞRENCİ YURDU, HASTANE, İBADETHANE, KÜLTÜR VE SANAT MERKEZİ,
+  KÜTÜPHANE GİBİ TAŞINMAZLARIN İNŞASINA İLİŞKİN YABANCI DEVLET KURUM VE
+  KURULUŞLARINA YAPILAN TESLİM VE HİZMETLER İLE GENEL BÜTÇELİ KAMU İDARELERİNE
+  BAĞIŞLANACAK KONUTLARIN YABANCI DEVLET KURUM VE KURULUŞLARINA TESLİMİNE
+  İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ
+  EK 33A: GENEL BÜTÇELİ KAMU İDARELERİNE
+  BAĞIŞLANACAK KONUT, İŞ YERİ, OKUL, ÖĞRENCİ YURDU, HASTANE, İBADETHANE, KÜLTÜR
+  VE SANAT MERKEZİ, KÜTÜPHANE GİBİ TAŞINMAZLARIN İNŞASINA İLİŞKİN PROJE
+  KAPSAMINDA YAPILACAK MAL TESLİMLERİ VE HİZMET İFALARINA İLİŞKİN LİSTE
+  EK 33B: GENEL BÜTÇELİ KAMU İDARELERİNE
+  BAĞIŞLANMAK ÜZERE YABANCI DEVLET KURUM VE KURULUŞLARINA TESLİM EDİLEN
+  KONUTLARIN BİLGİSİNİ İÇEREN LİSTE
+  EK 34: MİLLİ SAVUNMA VE İÇ GÜVENLİK
+  İHTİYAÇLARINDA KULLANILMAK ÜZERE YAPILAN TAŞIT TESLİMİNE İLİŞKİN VERİLECEK
+  İSTİSNA BELGESİ ÖRNEĞİ
 
-      6. Milletlerarası Andlaşma Hükümleri Çerçevesinde KDV'den İstisna Edilmiş Olan Transit Petrol Boru Hattı Projelerinin İnşa
-      ve Modernizasyonuna İlişkin İstisna ........................................................................................................................ 162
-      7. İmalat Sanayiine Yönelik Yatırım Teşvik Belgesi Kapsamındaki İnşaat İşlerine İlişkin 1/5/2022 Tarihinden Önce Yapılan
-      Mal ve Hizmet Alımları , ........................................................................................................................................ 163
-      8. Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi Kapsamında Milli Eğitim Bakanlığına
-      Yapılacak Mal Teslimi ve Hizmet İfalarında İstisna ................................................................................................ 168
-      9. İmalat Sanayiinde Kullanılmak Üzere Yapılan Yeni Makina ve Teçhizat Teslimlerinde İstisna ........................ 169
-      10. 2023 UEFA Şampiyonlar Ligi Finali Müsabakası Kapsamında Yapılacak Teslim ve Hizmetlerde İstisna ...... 171
-      11. Elektrik Motorlu Taşıt Araçlarının Geliştirilmesine Yönelik Verilen Mühendislik Hizmetlerinde İstisna ........ 172
-      12. Afetzedelere Bağışlanacak Konutların İnşasına İlişkin İstisna ......................................................................... 174
-      13. Afet Bölgesi Olarak Kabul Edilen Yerlerde Genel Bütçeli Kamu İdarelerine Bağışlanmak Üzere Konut, İş Yeri, Okul,
-      Öğrenci Yurdu, Hastane, İbadethane, Kültür ve Sanat Merkezi, Kütüphane Gibi Taşınmazların İnşasına İlişkin Yabancı Devlet
-      Kurum ve Kuruluşlarına Yapılan Teslim ve Hizmetler ile Genel Bütçeli Kamu İdarelerine Bağışlanacak Konutların Yabancı
-      Devlet Kurum ve Kuruluşlarına Teslimine İlişkin İstisna ..................................... Hata! Yer işareti tanımlanmamış.
-   F. SOSYAL VE ASKERİ AMAÇLI İSTİSNALARLA DİĞER İSTİSNALAR ......................................................... 180
-      1. Kültür ve Eğitim Amacı Taşıyan İstisnalar .......................................................................................................... 180
-      2. Sosyal Amaç Taşıyan İstisnalar ........................................................................................................................... 180
-      3. Askeri Amaç Taşıyan İstisnalar ........................................................................................................................... 185
-      4. Diğer İstisnalar ..................................................................................................................................................... 185
-   G. GEÇİCİ MADDELERDE YER ALAN İSTİSNALAR .......................................................................................... 203
-      1. Özelleştirme Kapsamına Alınan İktisadi Kıymetlerin Teslim ve Kiralanması İşlemleri ..................................... 203
-      2. Teknoloji Geliştirme Bölgesinde ve İhtisas Teknoloji Geliştirme Bölgesinde Verilen Teslim ve Hizmetler ...... 203
-      3. Milli Eğitim Bakanlığına Bilgisayar ve Donanımlarının Bedelsiz Teslimleri ile Bunlara İlişkin Yazılım Teslimi ve
-      Hizmetleri................................................................................................................................................................. 204
-      4.Konut Yapı Kooperatiflerinin Üyelerine Konut Teslimleri ile Konut Yapı Kooperatiflerine Yapılan İnşaat Taahhüt İşleri
-      .................................................................................................................................................................................. 206
-      5.Bireysel Emeklilik Tasarruf ve Yatırım Sistemine Taşınmaz ve İştirak Hissesi Devri ......................................... 207
-      6. Şehir İçi Ulaşım Sistemleri ve Bunlara İlişkin Tesislerin Devir ve Teslimleri .................................................... 208
-      7. Taşınmazların Sosyal Güvenlik Kurumuna Devir ve Teslimi ile Bu Taşınmazların Sosyal Güvenlik Kurumu Tarafından
-      Devir ve Teslimleri .................................................................................................................................................. 208
-      8. Belediye ve İl Özel İdarelerinin 27/1/2017 Tarihinden Önce Yaptıkları Taşınmaz Satışları ............................... 209
-   Ğ. İSTİSNADAN VAZGEÇME VE İSTİSNALARIN SINIRI................................................................................... 210
-      1. İstisnadan Vazgeçme ............................................................................................................................................ 210
-III. MATRAH, NİSPET VE İNDİRİM ............................................................................................................................ 211
-   A.MATRAH ................................................................................................................................................................ 211
-      1. Teslim ve Hizmet İşlemlerinde Matrah ................................................................................................................ 211
-      2. İthalatta Matrah .................................................................................................................................................... 211
-      3. Uluslararası Yük ve Yolcu Taşımalarında Matrah ............................................................................................... 213
-      4. Özel Matrah Şekilleri ........................................................................................................................................... 213
-      5. Matraha Dâhil Olan Unsurlar ............................................................................................................................... 217
-      6. Matraha Dâhil Olmayan Unsurlar ........................................................................................................................ 218
-      7. Emsal Bedeli ve Emsal Ücreti .............................................................................................................................. 219
-   B. ORAN ...................................................................................................................................................................... 220
-      1. Genel Açıklama .................................................................................................................................................... 220
-      2. İndirimli Orana Tabi Bazı Mal ve Hizmetlere İlişkin Açıklamalar ...................................................................... 220
-      3. İndirimli Orana Tabi İşlemlerde İade Uygulaması ............................................................................................... 229
-   C. İNDİRİM ................................................................................................................................................................. 247
-      1. Vergi İndirimi....................................................................................................................................................... 247
-      2.İndirilemeyecek KDV ........................................................................................................................................... 249
-       26 Nisan 2014 – Sayı : 28983                                           RESMİ GAZETE                                                                 Sayfa 4 / 397
+ 
+1
+2.11.1984 tarihli ve 18563 sayılı Resmi Gazete’de yayımlanmıştır.
+2
+25.02.2011 tarihli ve 27857 (1.mükerrer) sayılı Resmî Gazete’de yayımlanmıştır.
+3
+10.01.1961 tarihli ve 10705 sayılı Resmi Gazete’de yayımlanmıştır.
+4
+06.01.1961 tarihli ve 10700 sayılı Resmi Gazete’de yayımlanmıştır.
+[5] 18
+Seri No.lu Tebliğ ile cümle eklenmiştir. (Yürürlük 6/4/2018 tarihinden
+sonra yapılan teslimlere uygulanmak üzere 5/6/2018)
+[6] 18 Seri
+No.lu Tebliğ ile eklenen ibare; (Yürürlük 6/4/2018 tarihinden geçerli olmak
+üzere 5/6/2018 tarihinde)
+[7] 18
+Seri No.lu Tebliğ ile eklenen ibare; (Yürürlük 6/4/2018 tarihinden geçerli
+olmak üzere 5/6/2018 tarihinde)
+[8] 18 Seri No.lu Tebliğ ile değişen
+bölüm. (Yürürlük 6/4/2018 tarihinden sonra yapılan teslimlere uygulanmak üzere
+5/6/2018)
+[9] 41 Seri No.lu Tebliğ ile değişen
+örnekler. (Yürürlük 1/4/2022 tarihinden itibaren
+geçerli olmak üzere 21/4/2022 tarihinde)
+[10] 08.03.1995 tarihli ve 22221 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[11] 25 Seri No.lu Tebliğ ile eklenen
+ibare
+[12] 23.11.2004 tarihli ve 25649 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[13]
+16.05.2009 tarihli ve 27230 sayılı Resmi Gazete’de yayımlanmıştır.
+[14] 18 Seri No.lu Tebliğ ile bent eklenmiştir.
+(Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018 tarihinde)
+[15] 18 Seri No.lu Tebliğ ile cümle
+değişmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[16] 18 Seri No.lu Tebliğ ile başlık
+değişmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[17] 18 Seri No.lu Tebliğ ile ibare
+değişmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[18] 4.12.2003 tarihli ve 25326 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[19] 18 Seri No.lu Tebliğ ile ibare
+eklenmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[20] 6 Seri No.lu Tebliğ ile iki paragraf
+eklenmiştir.
+[21] 09.10.2012 tarihli ve 28436 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[22]
+12.06.2002 tarihli ve 24783 sayılı Resmi Gazete’de yayımlanmıştır.
+[23] 6 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “25 Seri No.lu Özel Tüketim Vergisi Genel Tebliğinde”
+[24] 43
+Seri No.lu Tebliğ ile sorumlu sıfatıyla” ibaresinden sonra gelmek üzere “kanuni
+süresinde” ibaresi eklenmiştir.
+[25] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[26] 43 Seri No.lu Tebliğ ile “- Sorumlu
+sıfatıyla” ibaresinden sonra gelmek üzere “kanuni süresinde” ibaresi
+eklenmiştir.
+[27] 43 Seri No.lu Tebliğ ile eklenen
+satır.
+[28] 43 Seri No.lu Tebliğ ile bölümde yer
+alan “Örnek”in ikinci paragrafının üçüncü cümlesi değiştirilmiştir.
+[29] 23 Seri No.lu Tebliğ ile “yıl
+geçmemek şartıyla” ibaresi “vergiyi doğuran olayın gerçekleştiği takvim yılını takip
+eden takvim yılı aşılmamak şartıyla” şeklinde değiştirilmiştir.
+[30] 23
+Seri No.lu Tebliğ ile “takvim yılı” ibaresi “takvim yılını takip eden takvim
+yılı” şeklinde değiştirilmiştir.
+[31] 17 Seri No.lu Tebliğ ile bölüm
+başlığı eklenmiştir. (Yürürlük tarihi: 1/1/2018
+[32] 17
+Seri No.lu Tebliğ ile başlığı ile birlikte bölüm eklenmiştir. (Yürürlük
+tarihi: 1/1/2018)
+[33] 41 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. Yürürlük:1/5/2022
+[34] 36 Seri No.lu Tebliğ ile satırlar
+değişmiştir. Yürürlük:1/7/2021
+[35] 35 Seri No.lu Tebliğ ile satırlar
+eklenmiştir. Yürürlük:1/3/2021
+[36] 11 Seri No.lu Tebliğ ile satır
+eklenmiştir.
+[37] 17
+Seri No.lu Tebliğ ile satır eklenmiştir.
+[38] 6
+Seri No.lu Tebliğ ile paragraf eklenmiştir.
+[39] 46
+Seri No.lu Tebliğ ile son paragrafının son cümlesi olan “Şu kadar ki, işleme
+taraf satıcı mükellefin de mücbir sebep kapsamında bulunması halinde, söz
+konusu alımlarda genel hükümler çerçevesinde tevkifat uygulamasına devam olunur.”
+ibaresi yürürlükten kaldırılmış ve aynı paragrafa cümleler eklenmiştir.
+[40] 35 Seri No.lu Tebliğ ile bölüm
+değişmiştir. Yürürlük:1/3/2021
+[41] 35 Seri No.lu Tebliğ ile ibare
+eklenmiştir. Yürürlük:1/3/2021
+[42] 38 Seri No.lu Tebliğ ile ibare
+değişmiştir. Yürürlük:21/12/2021
+[43] 35 Seri No.lu Tebliğ ile oran
+değişmiştir. Yürürlük:1/3/2021
+[44] 11 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[45] 46 Seri No.lu Tebliğ ile eklenen
+paragraf. Yürürlük: 1/4/2023
+[46] 35 Seri No.lu Tebliğ ile oran
+değişmiştir. Yürürlük:1/3/2021
+[47] 35 Seri No.lu Tebliğ ile oran
+değişmiştir. Yürürlük:1/3/2021
+[48] 35 Seri No.lu Tebliğ ile bölüm
+değişmiştir. Yürürlük:1/3/2021
+[49] 35 Seri No.lu Tebliğ ile oran değişmiştir.
+Yürürlük:1/3/2021
+[50] 36 Seri No.lu Tebliğ ile değişen ve
+eklenen ibareler. Yürürlük:1/7/2021
+[51] 35 Seri No.lu Tebliğ ile bölüm
+değişmiştir. Yürürlük:1/3/2021
+[52] 35 Seri No.lu Tebliğ ile oran
+değişmiştir. Yürürlük:1/3/2021
+[53] 30 Seri No.lu KDV Tebliği ile
+eklenmiştir. Yürürlük 1/3/2020
+[54] 35 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. Yürürlük:1/3/2021
+[55] 31 Seri No.lu KDV Tebliği ile
+değişmiştir. Yürürlük 1/4/2020
+[56] 41 Seri No.lu Tebliğ ile ibare
+eklenmiştir. Yürürlük:1/5/2022
+[57] 41 Seri No.lu Tebliğ ile ibare
+eklenmiştir. Yürürlük:1/5/2022
+[58] 31 Seri No.lu KDV Tebliği ile
+değişmiştir. Yürürlük 1/4/2020
+[59] 19 Seri No.lu Tebliğ ile değişen
+ibare. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018
+tarihinde)
+[60] 31 Seri No.lu KDV Tebliği ile
+değişmiştir. Yürürlük 1/4/2020 Değişmeden Önceki (5/10)
+[61] 19 Seri No.lu Tebliğ ile “
+konfeksiyon kırpıntıları” ibaresi eklenmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[62] 6 Seri No.lu Tebliğ ile “uygulanma”
+ibaresi “uygulanmaz” şeklinde değiştirilmiştir.
+[63] 31
+Seri No.lu KDV Tebliği ile değişmiştir. Yürürlük 1/4/2020 Değişmeden Önceki
+(5/10)’u
+[64] 19 Seri No.lu Tebliğ ile bölüm
+başlığı değişmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak
+üzere 6/7/2018 tarihinde)
+[65] 19 Seri No.lu Tebliğ ile
+“atıklarının” ibaresi “atıkları ile konfeksiyon kırpıntılarının” şeklinde
+değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere
+6/7/2018 tarihinde)
+[66] 30.12.2007 tarihli ve 26742 sayılı
+Resmi Gazete’de yayımlanmıştır
+[67] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[68] 6 Seri No.lu KDV Tebliği ile
+paragraf değiştirilmiştir.
+[69] 35 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. Yürürlük:1/3/2021
+[70] 43 Seri No.lu Tebliğ ile (4/10)
+ibaresi (5/10) olarak değiştirilmiştir. (Yürürlük:1/11/2022)
+[71] 43 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük:1/11/2022)
+[72] 41 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. Yürürlük:1/5/2022
+[73] 36 Seri No.lu Tebliğ ile
+değişmiştir. Yürürlük:1/7/2021
+[74] 21
+Seri No.lu Tebliğ ile yedinci ve sekizinci paragraflar değişmiştir.
+[75] 31
+Seri No.lu KDV Tebliği ile değiştirilmiştir. Yürürlük 1/4/2020 Değişmeden önce
+(5/10)
+[76] 36 Seri No.lu Tebliğ ile paragraflar
+eklenmiştir. Yürürlük:3/6/2021
+[77] 35 Seri No.lu Tebliğ ile örnek
+değişmiştir. Yürürlük:1/3/2021
+[78] 35 Seri No.lu Tebliğ ile örnek
+değişmiştir. Yürürlük:1/3/2021
+[79] 35 Seri No.lu Tebliğ ile ibare
+değişmiştir. Yürürlük:1/3/2021
+[80]
+10.10.2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanmıştır.
+[81] 1 Seri No.lu Tebliğ ile değişmiştir.
+[82] 11
+Seri No.lu Tebliğ ile değişmiştir.
+[83] 46 Seri No.lu Tebliğ ile eklenen
+paragraf. Yürürlük: 1/4/2023
+[84] 11 Seri No.lu Tebliğ ile
+değişmiştir.
+[85] 41 Seri No.lu Tebliğ ile satır
+eklenmiştir. Yürürlük:1/5/2022
+[86] 19 Seri No.lu Tebliğ ile bu bölümde
+yer alan “atıklarının” ibaresi “atıkları ile konfeksiyon kırpıntılarının”
+şeklinde, “atıklarından” ibareleri “atıkları ile konfeksiyon kırpıntılarından”
+olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak
+üzere 6/7/2018 tarihinde)
+[87] 41 Seri No.lu Tebliğ ile bölümde yer
+alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[88] 46 Seri No.lu Tebliğ ile eklenen
+paragraf. Yürürlük:1/4/2023
+[89]41 Seri No.lu Tebliğ ile satır
+eklenmiştir. Yürürlük:1/5/2022
+[90] 35 Seri No.lu Tebliğ ile eklenen ve
+değişen sıralar. Yürürlük:1/3/2021
+[91] 19 Seri No.lu Tebliğ ile bu bölümde
+yer alan “atıklarının” ibaresi “atıkları ile konfeksiyon kırpıntılarının”
+şeklinde, “atıklarından” ibareleri “atıkları ile konfeksiyon kırpıntılarından”
+olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli
+olmak üzere 6/7/2018 tarihinde)
+[92] 41 Seri No.lu Tebliğ ile bölümde yer
+alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[93] 18
+Seri No.lu Tebliğ ile birinci ve ikinci cümle değişmiştir (Yürürlük 6/4/2018 tarihinden
+sonra yapılan teslimlere uygulanmak üzere 5/6/2018 tarihinde)
+[94] 19 Seri No.lu Tebliğ ile bölüm
+değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere
+6/7/2018 tarihinde)
+[95] 19
+Seri No.lu Tebliğ ile bölüm sonuna dört paragraf eklenmiştir. (Yürürlük
+1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+ 
+[96] 19 Seri No.lu Tebliğ ile bölüm
+sonuna dört paragraf eklenmiştir. (Yürürlük 1/6/2018 tarihinden itibaren
+geçerli olmak üzere 6/7/2018 tarihinde)
+[97] 19 Seri No.lu Tebliğ ile parantez
+içi ibare değişmiştir.(Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak
+üzere 6/7/2018 tarihinde)
+[98] 41 Seri No.lu Tebliğ ile bölümde yer
+alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[99] 41 seri no.lu Tebliğ ile bölüm
+eklenmiştir. (Yürürlük:1/5/2022 tarihinden itibaren yapılacak işlemlere
+ilişkin iade taleplerine uygulanmak üzere 21/4/2022 tarihinde)
+[100] 28 seri no.lu KDV Tebliği ile
+eklenen paragraf (Yürürlük:8/11/2019)
+[101] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[102] 34 Seri No.lu Tebliğ ile cümle
+eklenmiştir. Yürürlük:5/2/2021
+[103] 15
+Seri No.lu Tebliğ ile dördüncü paragraftan sonra gelmek üzere paragraf ve örnek
+eklenmiştir.
+[104] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[105] 1
+Seri No.lu Tebliğ ile (Eklenen İbare): “veya YMM raporuna”
+[106] 1 Seri No.lu Tebliğ ile (Eklenen
+İbare): “veya YMM raporu”
+[107] 11 Seri No.lu Tebliğ ile iki cümle
+eklenmiştir.
+[108] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[109] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[110] 37
+Seri no.lu tebliğ ile kaldırılmıştır. Yürürlük:20.08.2021 önceki: b) İmza
+sirkülerinin onaylı bir örneği.
+ 
+[111]
+02.02.1985 tarihli ve 18654 sayılı Resmi Gazete'de yayımlanmıştır.
+[112] 1 Seri No.lu Tebliğ ile çıkarılan
+ibareler : “ -Yüklenilen KDV listesi”, “-İadesi Talep Edilen KDV Hesaplama
+Tablosu”
+[113] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[114] 19 Seri No.lu Tebliğ ile “bakım ve
+tamir giderlerini” ibaresi “bakım ve tamir giderleri ile otoyol geçiş
+ücretlerini” olarak değiştirilmiştir
+[115] 21.07.2004 tarihli ve 25529 sayılı
+Resmi Gazete'de yayımlanmıştır.
+[116] 28.07.1953 tarihli ve 8469 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[117] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[118] 23 Seri No.lu Tebliğ ile örnek
+değiştirilmiştir.
+[119] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[120] 23 Seri No.lu Tebliğ ile örnek
+değiştirilmiştir.
+[121] 11
+Seri No.lu Tebliğ ile paragraf değiştirilmiştir.
+[122] 11 Seri No.lu Tebliğ ile ikinci ve
+üçüncü paragraflar eklenmiştir.
+[123] 25 Seri No.lu Tebliğ ile eklenen
+cümle, (Yürürlük 23/3/2019 tarihini izleyen vergilendirme dönemlerine
+ilişkin iade taleplerine uygulanmak üzere.)
+[124] 6
+Seri No.lu KDV Tebliği ile paragraf yürürlükten kaldırılmıştır.
+[125] 6
+Seri No.lu KDV Tebliği ile “edilmesinin” ibaresi “edilmesi” olarak
+değiştirilmiştir.
+[126] 1 Seri No.lu KDV Tebliği ile
+çıkarılan ibare: “noterce”
+[127] 23
+Seri No.lu Tebliğ ile ibare değişmiştir.
+[128] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[129] 1 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “3065 sayılı Kanunun geçici 17 nci maddesi kapsamında”
+[130] 11 Seri No.lu Tebliğ ile cümle
+değiştirilmiştir.
+[131] 27.01.2005 tarihli ve 25709 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[132] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[133] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[134]
+04.11.1999 tarihli ve 23866 sayılı Resmi Gazete’de yayımlanmıştır.
+[135] 1 Seri No.lu Tebliğ ile ibare
+değişmiştir.
+[136] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[137] 1 Seri No.lu Tebliğ ile eklenen
+ibare: "veya YMM raporuna"
+[138] 1 Seri No.lu Tebliğ ile eklenen
+ibare: "veya YMM raporu"
+[139] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[140] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[141] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[142] 1 Seri No.lu Tebliğ ile eklenen
+ibare: "veya YMM raporuna"
+[143] 1 Seri No.lu Tebliğ ile eklenen
+ibare: "veya YMM raporu"
+[144] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[145] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[146] 1 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “(II/B-1.2.1.)”
+[147] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[148] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “veya YMM raporuna”
+[149] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “veya YMM raporu”
+[150] 1 Seri No.lu KDV Tebliği ile
+metinden çıkartılan beşinci paragraf: “Ayrıca istisna kapsamına, boru hattıyla
+transit taşımacılık yapan belge sahiplerinin bu hatların inşa ve
+modernizasyonuna ilişkin mal ve hizmet alımları da girmektedir.”
+[151]11.06.2013
+tarihli ve 28674 sayılı Resmi Gazete’de yayımlanmıştır.
+[152] 1 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “(13/1) inci maddesi hükmünde”
+[153] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[154] 15.06.1985 tarihli ve 18785 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[155] 18.11.2006 tarihli ve 26350 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[156] 6 Seri No.lu Tebliği ile “isteyen”
+ibaresi eklenmiştir.
+[157] 18.11.2006 tarihli ve 26350 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[158] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[159] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “veya YMM raporuna”
+[160] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “veya YMM raporu”
+[161] 10 Seri No.lu Tebliğ ile bölüm
+başlığı değiştirilmiştir.
+[162] 10 Seri No.lu Tebliğ ile paragraf
+değiştirilmiştir.
+[163] 26.12.1992 tarihli ve (mükerrer)
+21447 sayılı Resmi Gazete’de yayımlanmıştır.
+[164] 10 Seri No.lu Tebliğ ile değişen
+ibare.
+[165] 27 Seri No.lu Tebliğ ile
+değişmiştir. (Yürürlük:15/10/2019)
+[166] 10 Seri No.lu Tebliğ ile bu
+paragraftan sonra gelen (10 uncu) paragraf kaldırılmıştır.
+[167] 1 Seri No.lu Tebliği ile
+değişmiştir.
+[168]
+13.12.2012 tarihli ve 28496 sayılı Resmi Gazete'de yayımlanmıştır.
+[169]19.06.2012
+tarihli ve 28328 sayılı Resmi Gazete’de yayımlanmıştır.
+[170]20.06.2012
+tarihli ve 28329 sayılı Resmi Gazete’de yayımlanmıştır.
+[171] 1
+Seri No.lu Tebliğ ile Değişmeden Önceki İbare: “(II/B-1.5.4.)”
+[172] 10
+Seri No.lu Tebliğ ile Değiştirilmeden Önceki İbare: “Makine ve teçhizat
+istisnası bildirim formu”
+[173] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[174] 6
+Seri No.lu Tebliğ ile Değişmeden Önceki İbare: “Limanlar ve Hava Meydanlarına”
+[175] 6 Seri No.lu Tebliğ ile ibare
+değiştirilmiştir.
+[176] 6 Seri No.lu Tebliğ ile ibare
+değiştirilmiştir.
+[177] 6 Seri No.lu Tebliğ ile ibare
+değiştirilmiştir.
+[178] 6 Seri No.lu Tebliğ ile “Liman ve
+hava meydanlarına” ibaresi “Limanlara” şeklinde değiştirilmiştir.
+[179] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[180] 1 Seri No.lu Tebliğ ile eklenen
+ibare : “veya YMM raporuna”
+[181] 1
+Seri No.lu KDV Tebliğ ile eklenen ibare : “veya YMM raporu”
+[182] 15 Seri No.lu Tebliğ ile eklenen
+ibare : “Adalet Bakanlığı,”
+[183] 42 Seri No.lu Tebliğ ile “Jandarma
+Genel Komutanlığı, Sahil Güvenlik Komutanlığı” ibaresi “İçişleri Bakanlığı”
+olarak değiştirilmiş ve “, Emniyet Genel Müdürlüğü” ibaresi yürürlükten
+kaldırılmıştır. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere 28/5/2022
+tarihinde)
+[184] 40 Seri No.lu Tebliğ ile eklenen
+ibare
+[185] 15 Seri No.lu Tebliğ ile eklenen
+satır : “-Adalet Bakanlığı
+[186] 42 Seri No.lu Tebliğ ile paragrafta
+yer alan “-Jandarma Genel Komutanlığı,”, “- Sahil Güvenlik Komutanlığı” 
+ve “- Emniyet Genel Müdürlüğü” satırları yürürlükten kaldırılmış ve “-Adalet
+Bakanlığı” satırından sonra gelmek üzere “- İçişleri Bakanlığı” satırı
+eklenmiştir. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere 28/5/2022
+tarihinde)
+[187] 27 Seri No.lu Tebliğ ile eklenen
+paragraf  (Yürürlük: 15/10/2019)
+[188] 42 Seri No.lu Tebliğ ile “milli
+savunma ve iç güvenlik ihtiyaçlarına ilişkin olmak kaydıyla” ibaresi
+eklenmiştir. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere 28/5/2022
+tarihinde)
+[189] 40 Seri No.lu Tebliğ ile eklenen
+paragraf  (Yürürlük: 18/1/2022)
+[190] 40 Seri No.lu Tebliğ ile cümle
+değişmiştir. (Yürürlük: 18/1/2022)
+[191] 40 Seri No.lu Tebliğ ile cümle
+değişmiştir. (Yürürlük: 18/1/2022)
+[192] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[193] 42 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük: 28/5/2022)
+[194] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[195] 17.02.2005 tarihli ve 25730 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[196] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[197] 5 No.lu KDV Tebliği ile başlığıyla
+birlikte bölüm eklenmiştir.
+[198] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[199] 7 Seri No.lu Tebliği ile başlığıyla
+birlikte bölüm eklenmiştir.
+[200] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[201] 12 Seri No.lu Tebliği ile
+başlığıyla birlikte bölüm eklenmiştir.(1/4/2017 tarihinden itibaren
+uygulanmak üzere)
+[202] 42 Seri No.lu Tebliğ ile bölümde
+yer alan “bir yıl” ibaresi “üç yıl” olarak değiştirilmiştir. (Yürürlük:
+1/5/2022 tarihinden geçerli olmak üzere 28/5/2022 tarihinde)
+[203] 18
+Seri No.lu Tebliğ ile üçüncü ve dördüncü cümleler değişmiştir. (Yürürlük
+6/4/2018 tarihinden sonra yapılan teslimlere uygulanmak üzere 5/6/2018
+tarihinde)
+[204] 27 Seri No.lu Tebliğ ile eklene
+paragraf (Yürürlük:15/10/2019)
+[205] 42 Seri No.lu Tebliğ ile bölümde
+yer alan “bir yıl” ibaresi “üç yıl” olarak, “Bir yıllık” ibaresi “Üç yıllık”
+olarak,  “bir yıllık” ibaresi “üç yıllık” olarak, bölüm başlığında yer
+alan “Bir Yıl” ibaresi “Üç Yıl” olarak değiştirilmiştir. (Yürürlük: 1/5/2022
+tarihinden geçerli olmak üzere 28/5/2022 tarihinde)
+[206] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[207] 18
+Seri No.lu Tebliği ile başlığıyla birlikte bölüm eklenmiştir. (Yürürlük
+1/4/2018 tarihinden geçerli olmak üzere 5/6/2018 tarihinde)
+[208] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019
+tarihinde)
+[209] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019
+tarihinde)
+[210] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019
+tarihinde)
+[211] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir. Yürürlük:1/5/2022
+den itibaren yapılacak işlemlere ilişkin iade taleplerine uygulanmak üzere
+yayımı tarihinde.
+[212] 18 Seri No.lu Tebliği ile
+başlığıyla birlikte bölüm eklenmiştir. (Yürürlük 1/5/2018 tarihinden geçerli
+olmak üzere 5/6/2018)
+[213] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[214] 19 Seri No.lu Tebliği ile
+başlığıyla birlikte bölüm eklenmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[215] 27 Seri No.lu Tebliğ ile eklenen
+cümle (Yürürlük:15/10/2019)
+[216] 21 Seri No.lu Tebliğ ile cümle
+eklenmiştir.
+[217] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir. Yürürlük:1/5/2022
+den itibaren yapılacak işlemlere ilişkin iade taleplerine uygulanmak üzere
+yayımı tarihinde.
+[218] 19 Seri No.lu Tebliği ile
+başlığıyla birlikte bölüm eklenmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[219] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine uygulanmak
+üzere yayımı tarihinde.
+[220] 25 Seri No.lu Tebliğ ile eklenen
+bölüm. (Yürürlük 22/2/2019 tarihinden geçerli olmak üzere 23/3/2019
+tarihinde.)
+[221] 36 Seri No.lu Tebliğ ile eklenmiştir.
+Yürürlük.3/6/2021
+[222] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[223] 5, 7, 12, 18, 19 ve 25 Seri No.lu
+Tebliğler ile bölüm numarası teselsül ettirilmiştir.
+[224] 03.12.2004 tarihli ve 25659 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[225] 28.12.1984 tarihli ve 18619 sayılı
+Resmi Gazete'de yayımlanmıştır.
+[226] 11.05.1985 tarihli ve 18751 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[227] 07.10.2009 tarihli ve 27369
+(Mükerrer) sayılı Resmi Gazete’de yayımlanmıştır
+[228] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[229] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[230] 13.12.1994 tarihli ve 22140 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[231] 20.12.2003 tarihli ve 25322 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[232] 6 Seri No.lu Tebliği ile
+(Değişmeden Önceki İbare): “11 Seri No.lu Özel Tüketim Vergisi  (ÖTV)
+Genel Tebliğinde”
+[233] 6
+Seri No.lu Tebliği ile (Değişmeden Önceki İbare): “11 Seri No.lu ÖTV Genel
+Tebliğinin “Tanımlar” başlıklı (1.) bölümünde”
+[234] 6 Seri No.lu Tebliği ile Değişmeden
+Önceki İbare: “11 Seri No.lu ÖTV Genel Tebliği”
+[235] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[236] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[237] 12.03.1986 tarihli ve 19045 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[238] 06.07.1954 tarihli ve 8747 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[239] 21.05.1992 tarihli ve 21234 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[240] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[241] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[242] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “Program”
+[243] 6
+Seri No.lu KDV Tebliği ile bölüm başlığıyla birlikte değiştirilmiştir.
+[244] 1 Seri No.lu Tebliğ ile eklenen
+ibare: “Program”
+[245] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[246] 13.06.1994 tarihli ve 21959 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[247]
+15.05.1987 tarihli ve 19461 sayılı Resmi Gazete’de yayımlanmıştır.
+[248] 14.09.2011 tarihli ve 28054 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[249] 30 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 14/2/2020)
+[250] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[251] 7
+Seri No.lu Tebliğ ile (II/E-4) ve (II/E-4.1.) bölümleri başlıkları ile birlikte
+değiştirilmiştir.
+[252] 7 Seri No.lu Tebliğ ile
+değişmiştir.
+[253] 7 Seri No.lu Tebliğ ile
+değişmiştir.
+[254] 7 Seri No.lu Tebliğ ile değişmiştir.
+[255] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[256] 34 No.lu Tebliğ ile yapılan
+değişiklik. Yürürlük:5/2/2021
+[257] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[258] 3 Seri No.lu KDV Tebliğiyle başlığı
+ile birlikte bölüm eklenmiştir.
+[259] 10 Seri No.lu Tebliği ile
+başlığıyla birlikte bölüm eklenmiştir.
+[260] 42 Seri No.lu Tebliği ile
+değiştirilen bölüm başlığı. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere
+28/5/2022 tarihinde)
+[261] 42 Seri No.lu Tebliği ile
+değiştirilen ibare. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere
+28/5/2022 tarihinde)
+[262] 25 Seri No.lu Tebliğ ile
+değiştirilen paragraf.
+[263] 40 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 18/1/2022)
+[264] 30 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 14/2/2020)
+[265] 30 Seri No.lu Tebliğ ile
+değiştirilmiştir. (Yürürlük 14/2/2020)
+[266] 30 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 14/2/2020)
+[267] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[268] 42 Seri No.lu Tebliğ ile eklenen
+bölüm. (Yürürlük: 1/5/2022 tarihinden geçerli olmak üzere 28/5/2022 tarihinde)
+[269] 16
+No.lu KDV Tebliği ile başlığıyla birlikte bölüm eklenmiştir.
+[270] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[271] 18 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir. (Yürürlük 1/5/2018 tarihinden sonra yapılan
+teslimlere uygulanmak üzere 5/6/2018)
+[272] 30 Seri No.lu Tebliğ ile
+değiştirilmiştir. (Yürürlük 14/2/2020)
+[273] 44 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük 1/1/2023)
+[274] 44 Seri No.lu Tebliğ ile
+“31/12/2022” ibaresi “31/12/2024” olarak değiştirilmiştir. (Yürürlük 1/1/2023)
+[275] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[276] 25 Seri No.lu Tebliğ ile eklenen
+bölüm. 34 No.lu Tebliğ ile 2020 ibareleri 2021 olarak değişti.
+[277] 46 Seri No.lu Tebliğ ile bölümünün
+başlığı değiştirilmiştir. Yürürlük: 1/4/2023
+[278] 46 Seri No.lu Tebliğ ile paragrafta
+yer alan “2019 Avrupa Futbol Federasyonları Birliği (UEFA) Süper Kupa Finali ve
+2021 UEFA Şampiyonlar Ligi Finali müsabakalarına” ibaresi “2023 Avrupa Futbol
+Federasyonları Birliği (UEFA) Şampiyonlar Ligi Finali müsabakasına” olarak
+değiştirilmiştir. Yürürlük: 1/4/2023
+[279] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 tarihinden itibaren yapılacak işlemlere ilişkin iade
+taleplerine uygulanmak üzere 24/4/2022 tarihinden itibaren.
+[280] 42 Seri No.lu Tebliğ ile başlığı
+ile birlikte bölüm eklenmiştir. Yürürlük: 15/4/2022 tarihinden geçerli olmak
+üzere 28/5/2022 tarihinden itibaren.
+[281] 23 Seri No.lu Tebliğ ile “(17/4-c)”
+“ibaresi” “(17/2-b), (17/2-c), (17/2-d), (17/4-c), (17/4-ı), (17/4-ö)” şeklinde
+değiştirilmiştir.
+[282] 14.02.2007 tarihli ve 26434 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[283]
+01.04.1950 tarihli ve 7472 sayılı Resmi Gazete’de yayımlanmıştır.
+[284] 12.05.1992 tarihli ve 21226 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[285] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. Bu paragraftan sonra gelen 3 paragraf kaldırılmıştır.
+[286] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[287] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[288] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. Bu paragraftan sonra gelen 3 paragraf kaldırılmıştır.
+[289] 23 Seri No.lu Tebliğ ile
+değişmiştir.
+[290] 23 Seri No.lu KDV Tebliği
+değiştirilmiştir.
+[291] 23.07.1983 tarihli ve 18113 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[292] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. Bu paragraftan sonra gelen 3 paragraf kaldırılmıştır.
+[293] 19
+Seri No.lu Tebliğ ile bölüm başlığı değişmiştir. (Yürürlük 1/6/2018
+tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[294] 19
+Seri No.lu Tebliğ ile paragraf değişmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[295] 18 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. (Yürürlük 27/3/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[296] 14.06.2007 tarihli ve 26552 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[297] 7 Seri No.lu Tebliğ ile
+(Değiştirilmeden Önceki İbare): “tahvil”
+[298]
+28.02.1963 tarihli ve 11343 sayılı Resmi Gazete’de yayımlanmıştır.
+[299] 7 Seri No.lu Tebliğ ile son iki
+paragraf ile birlikte “Örnek” eklenmiştir.
+[300] 19 Seri No.lu Tebliğ ile bölüm
+başlığı değişmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere
+6/7/2018 tarihinde)
+[301] 19 Seri No.lu Tebliğ ile
+değişmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere
+6/7/2018 tarihinde)
+[302] 1 Seri No.lu Tebliğ ile bölüm
+değişmiştir.
+[303] 23
+Seri No.lu Tebliğ ile paragraf eklenmiştir.
+[304] 11 Seri No.lu Tebliğ ile bölüm
+başlığıyla birlikte değiştirilmiştir.
+[305] 6 Seri No.lu KDV Tebliği ile “Örnek
+3” kaldırılmıştır.
+[306] 31.01.2002 tarihli ve 24657 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[307] 19 Seri No.lu Tebliğ ile paragraf
+değişmiştir. (Yürürlük 1/6/2018 tarihinden itibaren geçerli olmak üzere
+6/7/2018 tarihinde)
+[308] 23 Seri No.lu Tebliğ ile
+“(17/4-o).” ibaresi “(17/4-ö)” olarak değiştirilmiştir.
+[309] 23 Seri No.lu Tebliğ ile
+paragraflar eklenmiştir.
+[310] 23 Seri No.lu Tebliğ ile
+“(17/4-o).” ibaresi “(17/4-ö)” olarak değiştirilmiştir.
+[311] 23 Seri No.lu Tebliğ ile “(17/4-o)
+maddesi” ibaresi “(17/4-o) ve (17/4-ö) maddeleri” olarak değiştirilmiştir.
+[312] 10 Seri No.lu Tebliğ ile bölüm
+başlığı değiştirilmiştir.
+[313] 10 Seri No.lu Tebliğ ile “ve
+Belediyeler” ibaresi yürürlükten kaldırılmıştır.
+[314] 10 Seri No.lu Tebliğ ile bölüm
+sonuna beş paragraf eklenmiştir.
+[315] 47 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük: 7/9/2023)
+[316] 47 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük: 7/9/2023)
+[317] 10 Seri No.lu Tebliğ ile “veya
+belediyeler ile il özel idarelerinin mülkiyetinde,” ibaresi yürürlükten
+kaldırılmıştır.
+[318] 17 Seri No.lu Tebliğ ile “ile
+bankalara borçlu olanların ve kefillerinin borçlarına karşılık taşınmaz ve
+iştirak hisselerinin (müzayede mahallerinde yapılan satışlar dâhil) bankalara
+devir ve teslimleri” ibaresi yürürlükten kaldırılmıştır.
+[319] 47 Seri No.lu Tebliğ ile paragrafta
+yer alan “(17/4-r) maddesi” ibaresinden sonra gelmek üzere “ile geçici 43 üncü
+maddesi” ibaresi, “iştirak hisseleri ile” ibaresinden sonra gelmek üzere
+“15/7/2023 tarihinden önce kurumların aktifinde kayıtlı bulunan” ibaresi,
+“aktiflerinde bulundurdukları” ibaresinden sonra gelmek üzere “söz konusu”
+ibaresi eklenmiştir. (Yürürlük: 7/9/2023)
+[320] 7 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[321] 47 Seri No.lu Tebliğ ile paragrafta
+yer alan “devredilen taşınmaz ve iştirak hisselerinin” ibaresi “devredilen
+iştirak hisseleri ile 15/7/2023 tarihinden önce kurumların aktifinde kayıtlı
+bulunan taşınmazların” olarak, “bu taşınmaz ve iştirak hisselerinin” ibaresi
+“iştirak hisseleri ile bu taşınmazların” olarak değiştirilmiştir. (Yürürlük:
+7/9/2023)
+[322] 1 Seri No.lu KDV Tebliği ile
+metinden çıkarılan ibare: “indirilecek KDV hesaplarından çıkarılarak”
+[323] 47 Seri No.lu Tebliğ ile başlığı
+ile birlikte eklenen paragraflar. (Yürürlük: 7/9/2023)
+[324] 10
+Seri No.lu Tebliğ ile “, belediyeler ile il özel idarelerinin mülkiyetinde”
+ibaresi yürürlükten kaldırılmıştır.
+[325] 7 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[326] 10 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[327] 7 Seri No.lu Tebliğ ile “Örnek:12”
+eklenmiştir.
+[328] 10 Seri No.lu Tebliğ ile bölümün
+son dört paragrafı yürürlükten kaldırılmıştır.
+[329] 10 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[330] 47 Seri No.lu Tebliğ ile başlığı
+ile birlikte eklenen bölüm. (Yürürlük: 7/9/2023)
+[331] 10 Seri No.lu Tebliğ ile “,
+belediyeler ile il özel idarelerinin mülkiyetinde” ibaresi yürürlükten
+kaldırılmıştır.
+[332] 10 Seri No.lu Tebliğ ile parantez içi
+hüküm yürürlükten kaldırılmıştır.
+[333] 10 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[334] 17
+Seri No.lu Tebliğ ile bölüm başlığı ile birlikte değiştirilmiştir. (Yürürlük
+tarihi: 1/1/2018)
+[335] 30.12.2012 tarihli ve 28513 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[336] 12.11.2011 tarihli ve 28110 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[337] 41 Seri No.lu Tebliğ ile cümle
+değiştirilmiştir. Yürürlük:21/4/2022
+[338] 7 Seri No.lu Tebliğ ile bölüm
+değiştirilmiştir.
+[339] 7
+Seri No.lu Tebliğ ile bölüm başlığı ile değiştirilmiştir.
+[340] 21.06.2006 tarihli ve 26205 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[341] 1
+Seri No.lu KDV Tebliği ile başlığıyla birlikte eklenen bölüm.
+[342] 18 Seri No.lu Tebliğ ile
+yürürlükten kaldırılan cümle: “Ayrıca bunlara yapılan mal ve hizmet
+satışlarında genel hükümler çerçevesinde vergi uygulanacağı tabiidir.” (Yürürlük
+1/4/2018 tarihinden geçerli olmak üzere 5/6/2018 tarihinde)
+[343] 18 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. (Yürürlük 1/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[344] 7
+Seri No.lu Tebliğ ile bölüm eklenmiştir.
+[345] 17 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. (Yürürlük tarihi: 1/1/2018)
+[346] 38 Seri No.lu Tebliğ ile
+eklenmiştir. Yürürlük:21/12/2021
+[347] 7
+Seri No.lu Tebliğ ile (Değiştirilmeden Önceki İbare): “Teknoloji Geliştirme
+Bölgelerinde”
+[348] 23 Seri No.lu Tebliğ ile bölümün
+birinci paragrafındaki “internet,” ibaresinden sonra gelmek üzere “,oyun”
+ibaresi eklenmiştir.
+[349] 23
+Seri No.lu Tebliğ ile bölümün ikinci paragrafındaki “internet,” ibaresinden
+sonra gelmek üzere “,oyun” ibaresi eklenmiştir.
+[350] 23
+Seri No.lu Tebliğ ile bölümün dördüncü paragrafındaki “internet,” ibaresinden
+sonra gelmek üzere “,oyun” ibaresi eklenmiştir.
+[351] 23 Seri No.lu Tebliğ ile “oyun
+programları,” ibaresi yürürlükten kaldırılmıştır.
+[352] 23 Seri No.lu Tebliğ ile paragraf
+değişmiştir.
+[353] 23 Seri No.lu Tebliğ ile bölümün
+ikinci paragrafındaki “internet,” ibaresinden sonra gelmek üzere “,oyun”
+ibaresi eklenmiştir.
+[354] 34
+Seri No.lu Tebliğ ile değişmiştir.
+[355] 18
+Seri No.lu Tebliğ ile paragraf değişmiştir. (Yürürlük 6/4/2018 tarihinden
+sonra yapılan teslimlere uygulanmak üzere 5/6/2018 tarihinde)
+ 
+[356] 7 Seri No.lu Tebliğ ile
+(Değiştirilmeden Önceki İbare): “31/12/2015”
+[357] 1 Seri No.lu KDV Tebliği ile
+başlığıyla birlikte eklenen bölüm.
+[358] 10 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[359] 34 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[360] 6 Seri No.lu KDV Tebliği ile
+eklenen ibare: ”eden”
+[361] 19
+Seri No.lu Tebliğ ile “(23/f)” ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük
+1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[362] 19 Seri No.lu Tebliğ ile “(23/f)”
+ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[363] 19 Seri No.lu Tebliğ ile “(23/f)”
+ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[364] 16 Seri No.lu KDV Tebliği ile bölüm
+başlığıyla birlikte değiştirilmiştir. (Yürürlük tarihi :1/1/2018)
+[365] 19 Seri No.lu Tebliğ ile “(23/f)”
+ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[366]
+18.10.1983 tarihli ve 18195 sayılı Resmi Gazete’de yayımlanmıştır.
+[367] 19 Seri No.lu Tebliğ ile “(23/f)”
+ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük 1/6/2018 tarihinden
+itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[368] 1
+Seri No.lu KDV Tebliği ile başlığıyla birlikte eklenen bölüm.
+[369] 19
+Seri No.lu Tebliğ ile “(23/f)” ibaresi “(23/g)” olarak değiştirilmiştir. (Yürürlük
+1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[370] 19
+Seri No.lu Tebliğ ile başlığıyla birlikte bölüm eklenmiştir. (Yürürlük
+1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[371] 36
+Seri No.lu Tebliğ ile eklenmiştir. Yürürlük:3/6/2021
+[372] 41
+Seri No.lu Tebliğ ile paragraf değişmiştir. Yürürlük: 1/4/2022 tarihinden
+itibaren geçerli olmak üzere 21/4/2022 tarihinde
+[373] 25
+Seri No.lu Tebliğ ile eklenen ibare.
+[374] 25 Seri No.lu Tebliğ ile değişen
+birinci paragraf ve eklenen örnek.
+[375] 23.07.1956 tarihli ve 9362 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[376] 41 Seri No.lu Tebliğ ile bölüm
+değiştirilmiştir. Yürürlük:21/4/2022
+[377] 41 Seri No.lu Tebliğ ile “(I) sayılı
+listenin” ibaresi “(I) sayılı listenin (B) bölümünün” olarak değiştirilmiştir.
+Yürürlük:21/4/2022
+[378] 10 Seri No.lu Tebliğ ile paragraf
+değiştirilmiştir.
+[379] 41 Seri No.lu Tebliğ ile paragraflar
+eklenmiştir. Yürürlük: 1/4/2022 tarihinden
+itibaren geçerli olmak üzere 21/4/2022 tarihinde
+[380] 11 Seri No.lu Tebliğ ile iki
+paragraf eklenmiştir.
+[381] 41 Seri No.lu Tebliğ ile “(I)
+sayılı listenin” ibaresi “(I) sayılı listenin (B) bölümünün” olarak
+değiştirilmiştir. Yürürlük:21/4/2022
+[382] 41 Seri No.lu Tebliğ ile bölüm
+değişmiştir. Yürürlük:21/4/2022
+[383] 41 Seri No.lu Tebliğ ile “(I)
+sayılı listenin” ibaresi “(I) sayılı listenin (B) bölümünün” olarak
+değiştirilmiştir. Yürürlük:21/4/2022
+[384] 47 Seri No.lu Tebliğ ile
+yürürlükten kaldırılan paragraf. Yürürlük: 9/7/2023
+[385] 41 Seri No.lu Tebliğ ile bölüm
+yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[386] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[387] 41 Seri No.lu Tebliğ ile paragrafın
+ikinci cümlesi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[388] 41 Seri No.lu Tebliğ ile “B
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:1/4/2022 tarihinden
+itibaren geçerli olmak üzere 21/4/2022 tarihinde
+[389] 41 Seri No.lu Tebliğ ile “(üç
+yıldız ve üzeri oteller, tatil köyleri ve benzeri tesisler hariç)” ibaresi
+yürürlükten kaldırılmıştır. Yürürlük:1/4/2022 tarihinden
+itibaren geçerli olmak üzere 21/4/2022 tarihinde
+[390] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[391] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[392] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[393] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün” ibaresi yürürlükten kaldırılmıştır. Yürürlük:21/4/2022
+[394] 30 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 14/2/2020)
+[395] 38 Seri No.lu Tebliğ ile eklenmiştir.
+(Yürürlük 21/12/2021)
+[396] 41 Seri No.lu Tebliğ ile “(5189
+sayılı Cumhurbaşkanı Kararı sonrası (I) sayılı listenin (B) bölümünün)” ibaresi
+eklenmiştir. Yürürlük:21/4/2022
+[397] 41 Seri No.lu Tebliğ ile “(5189
+sayılı Cumhurbaşkanı Kararı sonrası (I) sayılı listenin (B) bölümünün)” ibaresi
+eklenmiştir. Yürürlük: 21/4/2022
+[398] 10 Seri No.lu Tebliğ ile bölümün
+ikinci ve üçüncü paragrafları yürürlükten kaldırılmıştır.
+[399] 18
+Seri No.lu Tebliğ ile yürürlükten kaldırılan ibare: “teslim ve hizmetin
+gerçekleştiği vergilendirme döneminde” (Yürürlük 6/4/2018 tarihinden geçerli
+olmak üzere 5/6/2018 tarihinde)
+[400] 41 Seri No.lu Tebliğ ile “(B)
+bölümünün 28, 29 ve 31 inci sırası” ibaresi “28, 29, 31 ve 34 üncü sırası”
+olarak değiştirilmiştir. Yürürlük:1/5/2022
+[401] 45 Seri No.lu Tebliğ ile
+“2007/13033 sayılı Bakanlar Kurulu Kararı eki (II) sayılı listenin 28, 29, 31
+ve 34 üncü sırası” ibaresi “2007/13033 sayılı Bakanlar Kurulu Kararının geçici
+10 uncu maddesi ve Karar eki (II) sayılı listenin 28, 29, 31 ve 34 üncü sırası”
+olarak değiştirilmiştir. Yürürlük: 25/02/2023
+[402] 12
+Seri No.lu Tebliğ ile değiştirilmiştir. (1/4/2017 tarihinden itibaren
+uygulanmak üzere)
+[403] 43 Seri No.lu Tebliğ ile eklenen
+paragraf. (Yürürlük: 1/11/2022)
+[404] 23 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[405] 10 Seri No.lu Tebliğ ile bölüme
+birinci paragraftan sonra gelmek üzere beş paragraf eklenmiştir.
+[406] 16 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. (Yürürlük tarihi : 1/1/2018)
+[407] 29 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük tarihi : 1/1/2020)
+[408] 33 Seri No.lu Tebliğ ile
+eklenmiştir.
+[409] 39 Seri No.lu Tebliğ ile
+eklenmiştir.
+[410] 44 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük tarihi : 1/1/2023)
+[411] 22 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük tarihi : 1/1/2019)
+[412] 21 Seri No.lu Tebliğ ile “ay içi
+hesaplamalarda doğrudan yüklenimler nedeniyle” şeklinde değiştirilmiştir.
+[413] 10 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[414] 21 Seri No.lu Tebliğ ile “ay içi
+hesaplamalarda doğrudan yüklenimler nedeniyle” şeklinde değiştirilmiştir.
+[415] 11 Seri No.lu Tebliğ ile paragrafın
+ilk cümlesi yürürlükten kaldırılmıştır.
+[416] 11
+Seri No.lu Tebliğ ile “perde, avize,” ibaresi eklenmiştir.
+[417] 11 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[418] 23 Seri No.lu Tebliğ ile “takvim yılı”
+ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[419] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[420] 18 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde
+[421] 11
+Seri No.lu Tebliğ ile “mahsup talepleri” ibaresi “mahsuben iade
+talepleri YMM raporu,” şeklinde değiştirilmiştir.
+[422] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[423] 11 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[424] 1 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[425] 1 Seri No.lu Tebliğ ile değiştirilmiştir.
+[426] 11
+Seri No.lu Tebliğ ile paragraf eklenmiştir.
+[427] 41
+Seri No.lu Tebliğ ile bölümde yer alan “5.000 TL” ibareleri “10.000 TL” olarak
+değiştirilmiştir. Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin
+iade taleplerine uygulanmak üzere yayımı tarihinde.
+[428] 10
+Seri No.lu Tebliğ ile başlığıyla birlikte bölüm eklenmiştir.
+[429] 41
+Seri No.lu Tebliğ ile “(B) bölümünün 28, 29 ve 31 inci sırası” ibaresi “28, 29,
+31 ve 34 üncü sırası” olarak değiştirilmiştir. Yürürlük:1/5/2022
+[430] 45
+Seri No.lu Tebliğ ile “2007/13033 sayılı Bakanlar Kurulu Kararı eki (II) sayılı
+listenin 28, 29, 31 ve 34 üncü sırası” ibareleri “2007/13033 sayılı Bakanlar
+Kurulu Kararının geçici 10 uncu maddesi ve Karar eki (II) sayılı listenin 28,
+29, 31 ve 34 üncü sırası” olarak değiştirilmiştir. Yürürlük: 25/02/2023
+[431] 12
+Seri No.lu Tebliğ ile değiştirilmiştir. (1/4/2017 tarihinden itibaren
+uygulanmak üzere)
+[432] 41
+Seri No.lu Tebliğ ile bölümde yer alan “5.000 TL” ibareleri “10.000 TL” olarak
+değiştirilmiştir. Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin
+iade taleplerine uygulanmak üzere yayımı tarihinde.
+[433] 43
+Seri No.lu Tebliğ ile eklenen paragraf. (Yürürlük: 1/11/2022)
+[434] 10
+Seri No.lu Tebliğ ile (Değiştirilmeden Önceki İbare): “3.3. Yılı İçinde Mahsup
+Edilemeyen Vergilerin İadesi”
+[435] 10
+Seri No.lu Tebliğ ile (Değiştirilmeden Önceki İbare): “mahsuben iade
+edilemeyen”
+[436] 2 Seri No.lu Tebliğ ile ibare
+çıkarılmıştır.
+[437] 11
+Seri No.lu Tebliğ ile paragraf yürürlükten kaldırılmıştır.
+ 
+[438] 10 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[439] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[440] 11 Seri No.lu Tebliğ ile iki
+paragraf ve örnek eklenmiştir.
+[441] 41 Seri No.lu Tebliğ ile bölümde
+yer alan “5.000 TL” ibareleri “10.000 TL” olarak değiştirilmiştir.
+Yürürlük:1/5/2022 den itibaren yapılacak işlemlere ilişkin iade taleplerine
+uygulanmak üzere yayımı tarihinde.
+[442] 11 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[443] 34 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[444] 10
+No.lu Tebliğ ile “mahsuben” ibaresi yürürlükten kaldırılmıştır.
+[445] 10 No.lu Tebliğ ile “mahsuben”
+ibaresi yürürlükten kaldırılmıştır.
+*11 Seri
+No.lu Tebliğ ile değişmeden önceki ibare; “ÖNCEKİ DÖNEM SONU İADE EDİLEBİLİR
+KDV TUTARI”
+[446] 11 Seri No.lu Tebliğ ile değişmeden
+önceki ibare; “ÖNCEKİ DÖNEM SONU İADE EDİLEBİLİR KDV TUTARI”
+[447] 11 Seri No.lu Tebliğ ile değişmeden
+önceki ibare; “ÖNCEKİ DÖNEM SONU İADE EDİLEBİLİR KDV TUTARI”
+[448] 17 Seri No.lu Tebliğ ile değişmeden
+önceki ibare; “10.200”
+[449] 17 Seri No.lu Tebliğ ile paragraf
+değişmiştir.
+[450] 23 Seri No.lu Tebliğ ile
+paragraflar eklenmiştir.
+[451] 23 Seri No.lu Tebliğ ile bölümün
+birinci paragrafının (a) bendine ekleme yapılmıştır.
+[452] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[453] 18 Seri No.lu Tebliğ ile
+eklenmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[454] 36 Seri No.lu Tebliğ ile
+paragraflar değişmiştir. Yürürlük:3/6/2021
+[455] 7 Seri No.lu Tebliğ ile bölümün
+sonuna beş paragraf ve “Örnek 1:” eklenmiştir.
+[456] 18 Seri No.lu Tebliğ ile paragraf
+değişmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[457] 18 Seri No.lu Tebliğ ile paragraf
+değişmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[458] 18 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere 5/6/2018
+tarihinde)
+[459] 18
+Seri No.lu Tebliğ ile bu bentte yer alan “Örnek:” ibaresi “Örnek
+1:” olarak değiştirilmiş ve bu paragraftan sonra gelmek üzere “Örnek
+2:” eklenmiştir. (Yürürlük 6/4/2018 tarihinden geçerli olmak üzere
+5/6/2018 tarihinde)
+[460] 23 Seri No.lu Tebliğ ile bent
+eklenmiştir.
+[461] 6 Seri No.lu KDV Tebliği ile
+“mallar” ibaresi “mallara” şeklinde değiştirilmiştir.
+[462] 26 Seri No.lu Tebliğ ile bölüm
+eklenmiştir. (Yürürlük 22/3/2019 tarihinden itibaren geçerli olmak üzere
+28/3/2019 tarihinde)
+[463] 41 Seri No.lu Tebliğ ile paragraf
+eklenmiştir. Yürürlük:1/4/2022 tarihinden
+itibaren geçerli olmak üzere 21/4/2022 tarihinde
+[464] 23 Seri No.lu Tebliğ ile paragraf
+değişmiştir.
+[465] 23
+Seri No.lu Tebliğ ile başlıklar yürürlükten kaldırılmıştır.
+[466] 1 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “indirilebilir KDV hesabından çıkartılarak”
+[467] 23
+Seri No.lu Tebliğ ile “takvim yılı” ibaresi “takvim yılını takip eden takvim
+yılı” şeklinde değiştirilmiştir.
+[468] 23 Seri No.lu Tebliğ ile “takvim
+yılı” ibaresi “takvim yılını takip eden takvim yılı” şeklinde değiştirilmiştir.
+[469] 23 Seri No.lu Tebliğ ile “takvim
+yılı içinde kullanılması, yılın aşılmaması gerekir.” ibaresi “takvim yılını
+takip eden takvim yılı içinde kullanılması gerekir.” şeklinde değiştirilmiştir.
+[470] 23
+Seri No.lu Tebliğ ile “takvim yılı” ibaresi “takvim yılını takip eden takvim
+yılı” şeklinde değiştirilmiştir.
+[471] 23 Seri No.lu Tebliğ ile örnek
+değiştirilmiştir.
+[472] 23
+Seri No.lu Tebliğ ile örnek değiştirilmiştir
+[473] 11
+Seri No.lu Tebliğ ile üç paragraf eklenmiştir.
+[474] 23
+Seri No.lu Tebliğ ile “özel hesap dönemini aşmamak kaydıyla.” ibaresi “özel
+hesap dönemini takip eden özel hesap dönemini aşmamak kaydıyla.” şeklinde
+değiştirilmiştir.
+[475] 17 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[476] 1 Seri No.lu Tebliğ ile (Değişmeden
+Önceki İbare): “iade hakkı doğuran işlemin gerçekleştiği döneme ilişkin”
+[477] 1
+Seri No.lu Tebliğ ile ibare değişmiştir.
+[478] 11 Seri No.lu Tebliğ ile birinci
+paragraf yürürlükten kaldırılmıştır.
+[479] 1 Seri No.lu Tebliğ ile eklenen
+ibare : “yurtiçi ve yurtdışından”
+[480] 11 Seri No.lu Tebliğ ile cümle
+değiştirilmiştir.
+[481] 8 Seri No.lu Tebliğ ile cümle
+eklenmiştir.
+[482] 1 Seri No.lu Tebliğ ile
+değişmiştir.
+[483] 19 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[484] 43 Seri No.lu Tebliğ ile bölüm,
+başlığı ile birlikte değiştirilmiştir.
+[485] 46 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir. Yürürlük:1/4/2023
+[486] 6
+Seri No.lu KDV Tebliği ile “Vergi İnceleme Raporu ve Teminat Aranmaksızın İade”
+ibaresi “Mahsup Yoluyla İade” şeklinde değiştirilmiştir.
+[487] 6 Seri No.lu KDV Tebliği ile
+“Mahsup Yoluyla İade” ibaresi “Genel Açıklama” şeklinde değiştirilmiştir.
+[488] 19
+Seri No.lu Tebliğ ile “gümrükte onaylatılan özel fatura nüshası” ibaresinden
+sonra gelmek üzere “, onaylanmış antrepo beyannamesi” ibaresi eklenmiştir. (Yürürlük
+1/6/2018 tarihinden itibaren geçerli olmak üzere 6/7/2018 tarihinde)
+[489] 7 Seri No.lu Tebliğ ile eklenen
+“(4760 sayılı ÖTV Kanunundan doğan borçlar hariç)” parantez içi ibare 13 Seri
+No.lu Tebliğ ile yürürlükten kaldırılmıştır.
+[490] 34 Seri No.lu tebliğ ile
+eklenmiştir.
+[491]16.06.2006
+tarihli ve 26200 sayılı Resmi Gazete’de yayımlanmıştır.
+[492]
+Danıştay 4. Dairesinin 28/9/2021 tarihli ve E.No:2020/583, K.No:2021/4626
+sayılı kararı ile iptal edilen ibare. (Bu çerçevede, 30 günlük ek süreden sonra
+eksiklikleri/olumsuzlukları gideren mükelleflerin mahsup taleplerine ilişkin
+olarak; borcun vadesinden mahsup tarihine kadar geçen süre (vergi dairelerince
+yapılan işlemler sırasında meydana gelen gecikme) için gecikme zammı
+uygulanmaması, ancak eksiklik yazısının mükellefe tebliğ edildiği tarih ile
+mükellefin eksiklikleri/olumsuzlukları tam olarak giderdiği (iadeye hak
+kazandığı) tarih arasında geçen süre için gecikme zammı uygulanması
+gerekmektedir.)
+[493] 6
+Seri No.lu KDV Tebliği ile “YMM KDV İadesi Tasdik Raporuna Dayalı Nakden
+İadeler ” ibaresi “YMM KDV İadesi Tasdik Raporuna Dayalı İadeler Mahsup Yoluyla
+İade” şeklinde değiştirilmiştir.
+[494] 24 Seri No.lu KDV Tebliği ile
+eklenen bölüm başlığı
+[495] 06.1989 tarihli ve 20194 sayılı
+Resmi Gazete’de yayımlanmıştır.
+[496]
+02.01.1990 tarihli ve 20390 sayılı Resmi Gazete’de yayımlanmıştır.
+[497] 6 Seri No.lu KDV Tebliği ile
+“nakden” ibaresi yürürlükten kaldırılmıştır.
+[498] 11 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[499] 24 Seri No.lu KDV Tebliği ile
+eklenen bölüm (Yürürlük: 1/3/2019)
+[500] 43
+Seri No.lu Tebliğ ile “teminat mektubunun”
+ibaresi “teminat mektubunun veya sigorta şirketi kefalet senedinin” olarak
+değiştirilmiştir. (Yürürlük: 1/11/2022)
+[501] 43
+Seri No.lu Tebliğ ile “teminat mektupları”
+ibaresi “teminat mektupları veya sigorta şirketi kefalet senetleri” olarak
+değiştirilmiştir. (Yürürlük: 1/11/2022)
+[502]
+01.11.2005 tarihli ve 25983 (Mükerrer) sayılı Resmi Gazete’de yayımlanmıştır.
+[503] 43
+Seri No.lu Tebliğ ile eklenen paragraf. (Yürürlük:
+1/11/2022)
+[504] 43
+Seri No.lu Tebliğ ile bölüm başlığında yer alan “Teminat
+Mektuplarının” ibaresi “Teminat Mektuplarının ve Sigorta Şirketi Kefalet
+Senetlerinin” olarak değiştirilmiştir. (Yürürlük: 1/11/2022)
+[505] 43
+Seri No.lu Tebliğ ile paragrafta yer alan “Teminat
+mektupları” ibaresi “Teminat mektupları ve sigorta şirketi kefalet senetleri”
+olarak değiştirilmiştir. (Yürürlük: 1/11/2022)
+[506] 43
+Seri No.lu Tebliğ ile paragrafta yer alan yer alan “teminat mektuplarının”
+ibaresi “teminat mektuplarının ve sigorta şirketi kefalet senetlerinin”
+olarak,“teminat mektubunun” ibaresi “teminat mektubunun ve sigorta şirketi
+kefalet senedinin” olarak, “teminat mektubunun” ibaresi “teminat
+mektubunun/sigorta şirketi kefalet senedinin” olarak ve “bankaların” ibaresi
+“bankalar ve sigorta şirketlerinin” olarak değiştirilmiştir. (Yürürlük:
+1/11/2022)
+ 
+[507] 43
+Seri No.lu Tebliğ ile bölüm başlığında yer alan “Teminat
+Mektuplarının” ibaresi “Teminat Mektuplarının ve Sigorta Şirketi Kefalet
+Senetlerinin” olarak değiştirilmiştir. (Yürürlük: 1/11/2022)
+[508] 43
+Seri No.lu Tebliğ ile paragrafta yer alan “Banka
+teminat mektubu” ibaresi “Banka teminat mektubu ve sigorta şirketi kefalet
+senedi” olarak, “teminat mektuplarının” ibaresi “teminat mektuplarının ve
+sigorta şirketi kefalet senetlerinin” olarak değiştirilmiştir. (Yürürlük:
+1/11/2022)
+[509] 43
+Seri No.lu Tebliğ ile paragrafta yer alan “banka
+teminat mektuplarının” ibaresi “banka teminat mektupları ve sigorta şirketi
+kefalet senetlerinin” olarak, “Bankalar” ibaresi “bankalar ve sigorta
+şirketleri” olarak, “teminat mektuplarına” ibaresi “teminat mektuplarına ve
+sigorta şirketi kefalet senetlerine” olarak değiştirilmiştir. (Yürürlük:
+1/11/2022)
+[510] 43
+Seri No.lu Tebliğ ile paragrafta yer alan “Banka
+teminat mektubu” ibaresi “Banka teminat mektubu ve sigorta şirketi kefalet
+senedi” olarak, “teminat mektubunu veren banka şubesinden” ibaresi “teminat
+mektubunu ve sigorta şirketi kefalet senedini veren banka şubesi veya sigorta
+şirketinden” olarak değiştirilmiştir. (Yürürlük: 1/11/2022)
+[511] 11
+Seri No.lu Tebliğ ile başlığıyla birlikte bölüm eklenmiştir.
+[512] 43
+Seri No.lu Tebliğ ile bölümünün birinci ve
+ikinci paragraflarında yer alan “teminat mektubu” ibareleri “teminat mektubu
+veya sigorta şirketi kefalet senedi” olarak, üçüncü paragrafında yer alan
+“teminat mektuplarının” ibaresi “teminat mektuplarının veya sigorta şirketi
+kefalet senetlerinin” olarak değiştirilmiştir. (Yürürlük: 1/11/2022)
+[513] 11
+Seri No.lu Tebliğ ile sıra eklenmiştir.
+[514] 11
+Seri No.lu Tebliğ ile paragraf eklenmiştir.
+[515] 43
+Seri No.lu Tebliğ ile paragrafta yer alan “banka
+teminat mektubu” ibaresi “banka teminat mektubu veya sigorta şirketi kefalet
+senedi” olarak değiştirilmiştir.
+[516] 15
+Seri No.lu Tebliğ ile değiştirilmiştir.
+[517] 13
+Seri No.lu Tebliğ ile paragraf eklenmiştir.
+[518]
+Danıştay Dördüncü Dairesinin 19/12/2019 tarih ve E:2017/1255, K:2019/9334
+sayılı kararı ile iptal edildi. Temyiz talebimiz Vergi Dava Daireleri Kurulunun
+24/03/2021 tarih ve E:2020/1144, K:2021/326 sayılı kararı ile reddedildi.
+[519] 6
+No.lu KDV Tebliği ile Kaldırılan İbare : Ancak, bu durumda söz konusu
+belgelerin elektronik ortamda gönderildiğine ilişkin, "İnternet Vergi
+Dairesi Liste Alındısı”nın dökümü iade talep dilekçesi ekinde vergi dairesine ibraz
+edilir.
+[520] 1 Seri No.lu Tebliğ ile kaldırılan
+ibare: “Gümrük beyannameli mal ihracında, dış ticaret sermaye şirketleri ve
+sektörel dış ticaret şirketleri, ihracatına aracılık ettikleri mükelleflerin
+indirilecek KDV listesini de verirler”
+[521] 23 Seri No.lu Tebliğ ile bölüm
+eklenmiştir.
+[522] 27 Seri No.lu Tebliğ ile Tebliğ
+metninden çıkarılan ibare “nihai” (Yürürlük:15/10/2019)
+[523] 27 Seri No.lu Tebliğ ile Tebliğ
+metninden çıkarılan ibare “nihai” (Yürürlük:15/10/2019)
+[524] 43 Seri No.lu Tebliğ ile paragrafta
+yer alan “veya banka teminat mektubu” ibaresi “,
+banka teminat mektubu veya sigorta şirketi kefalet senedi” olarak
+değiştirilmiştir. (Yürürlük: 1/11/2022)
+[525] 27 Seri No.lu Tebliğ ile Tebliğ
+metninden çıkarılan ibare “nihai” (Yürürlük:15/10/2019)
+[526] 36 Seri No.lu Tebliğ ile
+paragraflar değişmiştir. Yürürlük:3/6/2021
+[527] 1 No.lu KDV Tebliği ile eklenen
+ibare: “en erken”
+[528] 23
+Seri No.lu Tebliğ ile “takvim yılı” ibaresi “takvim yılını takip eden takvim
+yılı” şeklinde değiştirilmiştir.
+[529] 18 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[530] 18 Seri No.lu Tebliğ ile “32”
+ibaresinden sonra gelmek üzere “, 36” ibaresi eklenmiştir.
+[531] 11 Ser No.lu Tebliğ ile
+“(IV/E/3.4), (IV/E/3.5),” ibaresi “(IV/E/3.2), (IV/E/3.3),” şeklinde
+değiştirilmiştir.
+[532] 11 Seri No.lu Tebliğ ile
+“(IV/E/3.4), (IV/E/3.5),” ibaresi “(IV/E/3.2), (IV/E/3.3),” şeklinde
+değiştirilmiştir.
+[533] 7 Seri No.lu Tebliğ ile bölümde yer
+alan son paragraf yürürlükten kaldırılmış ve yerine beş paragraf eklenmiştir.
+[534] 46 Seri No.lu Tebliğ ile eklenen
+paragraf. Yürürlük: 1/4/2023
+[535] 7 Seri No.lu Tebliğ ile bölümün son
+paragrafı yürürlükten kaldırılmıştır.
+[536] 46 Seri No.lu Tebliğ ile eklenen
+paragraf. Yürürlük: 1/4/2023
+[537] 34 Seri No.lu Tebliğ ile paragraf
+değişmiştir.
+[538] 18 Seri No.lu Tebliğ ile son
+cümlesi değiştirilerek yerine iki cümle eklenmiştir.
+[539] 1
+Seri No.lu Tebliğ ile (Değişmeden Önceki İbare): “İşlem ve belgeyle ilgili
+olmayan iddia ve deliller dikkate alınmaz.”
+[540] 18
+Seri No.lu Tebliğ ile bu paragrafın birinci cümlesinde yer alan “idare” ibaresi
+“komisyon” olarak değiştirilmiş ve “özel esaslara alınır” ibaresinden sonra
+gelmek üzere “ve mükerrer incelemeye meydan vermeksizin konuyla ilgili
+incelemeye sevk edilir” ibaresi eklenmiştir.
+[541] 34
+Seri No.lu Tebliğ ile paragraf değişmiştir.
+[542]
+14.02.2011 tarihli ve 27846 sayılı Resmi Gazete’de yayımlanmıştır.
+[543] 7
+Seri No.lu Tebliğ ile örnek eklenmiştir.
+[544] 7 Seri No.lu Tebliğ ile paragraf
+eklenmiştir.
+[545] 7 No.lu Tebliğ ile (13.) bölüm
+eklenmiştir.
+[546] 20 Seri No.lu Tebliğ ile başlığıyla
+birlikte bölüm eklenmiştir.
+[547] 37 Seri No.lu Tebliğ ile
+eklenmiştir. Yürürlük.20.08.2021
+[548] 46 Seri No.lu Tebliğ ile
+eklenmiştir. Yürürlük: 1/4/2023
+[549] 25 Seri No.lu Tebliğ ile eklenen
+bölüm başlığı. (Yürürlük; 1/3/2019 tarihinden geçerli olmak üzere 23/3/2019
+tarihinde)
+[550] 25 Seri No.lu Tebliğ ile eklenen
+bölüm. (Yürürlük; 1/3/2019 tarihinden geçerli olmak üzere 23/3/2019 tarihinde)
+[551] 46
+Seri No.lu Tebliğ ile eklenen paragraf. Yürürlük: 1/4/2023
+[552] 46
+Seri No.lu Tebliğ ile paragrafın ilk cümlesinde yer alan “otobüs işletmeleri”
+ibaresinden sonra gelmek üzere “ ile şehir içi yolcu taşımacılığı faaliyetinde
+bulunan ve bu faaliyetlerinden kaynaklanan hasılatlarının tamamını elektronik
+ücret toplama sistemleri aracılığıyla elde eden dolmuş işletmeleri (minibüs,
+midibüs vb. taşıtlarla belirlenmiş güzergahlarda şehir içi ve banliyö yolcu
+taşımacılığı faaliyetinde bulunan mükellefler dahil)” ibaresi, aynı paragrafta
+yer alan “Ancak belediyeler bünyesinde kurulmuş ve otobüsle toplu taşıma
+faaliyeti” ibaresinden sonra gelmek üzere “veya dolmuşla şehir içi yolcu
+taşımacılığı faaliyeti” ibaresi eklenmiştir. Yürürlük: 1/4/2023
+[553] 46
+Seri No.lu Tebliğ ile “otobüs” ibaresi “otobüs ve/veya dolmuş” şeklinde
+değiştirilmiştir. Yürürlük: 1/4/2023
+[554] 46
+Seri No.lu Tebliğ ile yürürlükten kaldırılan paragraf.
+[555] 46
+Seri No.lu Tebliğ ile paragrafın paragrafın birinci cümlesinde yer alan
+“otobüsle toplu taşıma” ibaresi “otobüsle toplu taşıma faaliyeti veya dolmuşla
+şehir içi yolcu taşımacılığı”, ikinci cümlesinde yer alan “faaliyetin” ibaresi
+“faaliyetlerin” şeklinde değiştirilmiş ve birinci cümlesinden sonra gelmek
+üzere “Kapsam giren faaliyetlerin birlikte yapılması hasılat esaslı
+vergilendirme usulüne göre vergilendirmeye engel teşkil etmez.” cümlesi
+eklenmiştir. Yürürlük: 1/4/2023
+[556] 46
+Seri No.lu Tebliğ ile “özel halk otobüsü işletmeciliği” ibaresinden sonra
+gelmek üzere “ve/veya dolmuş işletmeciliği” ibaresi eklenmiştir. Yürürlük:
+1/4/2023
+[557] 17 Seri No.lu Tebliğ ile satır
+eklenmiştir. (Yürürlük tarihi: 1/1/2018
+[558] 25 Seri No.lu Tebliğ ile satır
+eklenmiştir. (Yürürlük tarihi :23/3/2019)
+[559] 13 Seri No.lu Tebliğ ile bölüm
+eklenmiştir.
+[560] Danıştay Dördüncü Dairesinin
+19/12/2019 tarih ve E:2017/1255, K:2019/9334 sayılı kararı ile iptal edildi.
+Temyiz talebimiz Vergi Dava Daireleri Kurulunun 24/03/2021 tarih ve
+E:2020/1144, K:2021/326 sayılı kararı ile reddedildi.
+[561] 32 Seri No.lu Tebliğ ile
+eklenmiştir. Yürürlük:8/5/2020
+[562] 45 Seri No.lu Tebliğ ile Tebliğin
+(VI/Ç-2.) bölümünden sonra gelmek üzere başlığı ile birlikte eklenen bölüm.
+Yürürlük: 25/02/2023
+[563]
+[564]
+47 Seri No.lu Tebliğ ile eklenen bölüm
+[565] 10 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+[566] 10 Seri No.lu Tebliğ ile
+değiştirilmiştir.
+* 5 Seri
+No.lu KDV Tebliği ile eklenmiştir.
+[563] 7 Seri No.lu Tebliğ ile
+eklenmiştir.
+[564] 7 Seri No.lu Tebliğ ile
+eklenmiştir.
+[565] 12 Seri No.lu Tebliğ ile
+eklenmiştir.
+[566] 16 Seri No.lu Tebliğ ile
+eklenmiştir.
+[567] 18 Seri No.lu Tebliğ ile
+eklenmiştir.
+[568] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019 tarihinde)
+[569] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019 tarihinde)
+[570] 25 Seri No.lu Tebliğ ile eklenen
+ibare. (Yürürlük 18/1/2019 tarihinden geçerli olmak üzere 23/3/2019 tarihinde)
+[571] 18 Seri No.lu Tebliğ ile
+eklenmiştir.
+[572] 18 Seri No.lu Tebliğ ile
+eklenmiştir.
+[573] 19 Seri No.lu Tebliğ ile
+eklenmiştir.
+[574] Bu
+değişiklik 1/1/2024 tarihinde yürürlüğe girer.
+[575] Bu
+değişiklik yayımını izleyen ayın başında yürürlüğe girer.
+[576] Bu
+değişiklik yayımını izleyen ayın başında yürürlüğe girer.
+[577] Bu
+değişiklik yayımını izleyen ayın başında yürürlüğe girer.
+[578] Bu
+değişiklik 1/9/2024 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe
+girer.
+[579] Bu
+değişiklik 1/11/2024 tarihinde yürürlüğe girer.
+[580]
+31/10/2024 tarihli ve 32708 sayılı Resmî Gazete’de yayımlanan değişiklik ile
+Tebliğin (IV/A) bölümünün başına A1 ve A2 bölümleri eklenmiş ve mevcut A bölümü
+A3 olarak teselsül ettirilmiştir.
+[581] Bu
+değişiklik Katma Değer Vergisi Genel Uygulama Tebliğinin yürürlüğe girdiği
+tarihten geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+[582] Bu
+değişiklik 1/1/2025 tarihinde yürürlüğe girer.
+(583) Bu değişiklik yayımını izleyen ayın başından
+itibaren yapılan iade talepleri için geçerli olmak üzere yayımı tarihinde
+yürürlüğe girer.
+(584) 4/9/2025 tarihli ve 33007 sayılı Resmî
+Gazete’de yayımlanan değişiklikle bu bölüme 18 inci bölüm eklenmiş, sonraki
+bölüm buna göre teselsül ettirilmiştir.
+(585) Bu değişiklik 1/1/2026 tarihinde
+yürürlüğe girer.
+(586) Bu değişiklik yayımını izleyen ayın
+başında yürürlüğe girer.
+(587) Bu değişiklik 1/1/2026 tarihinden
+geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+(588) Bu değişiklik 1/6/2026 tarihinden geçerli
+olmak üzere yayımı tarihinde yürürlüğe girer.
 
-      3. İstisna Edilmiş İşlemlerde İndirim ....................................................................................................................... 255
-      4. Kısmi Vergi İndirimi ............................................................................................................................................ 255
-      5. İndirimin Belgelendirilmesi ................................................................................................................................. 256
-      6. Matrah ve İndirim Miktarlarının Değişmesi......................................................................................................... 259
-IV. KDV İADESİNDE ORTAK HUSUSLAR ................................................................................................................ 261
-   A1. GENEL AÇIKLAMA ........................................................................................................................................... 261
-   A2. İADELERİ VERGİ İNCELEMESİNE TABİ OLANLAR ................................................................................... 261
-      1. Kapsam ve Tanımlar ............................................................................................................................................ 261
-      2. Sahte Belge Düzenlemek Amacıyla Mükellefiyet Tesis Ettirilmesi .................................................................... 263
-      3. Sahte Belge Düzenleyen veya Kullananlar .......................................................................................................... 264
-      4. Muhteviyatı İtibarıyla Yanıltıcı Belge Düzenleyen veya Kullananlar ................................................................. 267
-      4.1. Muhteviyatı İtibarıyla Yanıltıcı Belge Kavramı ................................................................................................ 267
-      5. İşlemlerin Gerçekliğini İspat ................................................................................................................................ 268
-      6. Haklarında Olumsuz Rapor Bulunan Mükelleflerin İade Talepleri...................................................................... 270
-      7. Haklarında Sahte Belge veya Muhteviyatı İtibarıyla Yanıltıcı Belge Düzenleme veya Kullanma Tespiti Bulunan
-      Mükelleflerin İade Talepleri..................................................................................................................................... 271
-      8. İadeye Esas Diğer Belgelerin Sahte veya Muhteviyatı İtibarıyla Yanıltıcı Olması .............................................. 272
-      9. Diğer Tespitler ..................................................................................................................................................... 272
-      10. Olumsuz Rapor veya Tespit Bulunanların Kanuni Temsilcileri, Ortakları, Ortak Oldukları veya Bunların Kurdukları veya
-      Ortağı Oldukları Mükellefler ile Kanuni Temsilcisi Oldukları Mükellefler ............................................................ 274
-      11. Doğrudan Mal veya Hizmet Temin Ettikleri Mükellefler Hakkında Olumsuz Rapor veya Tespit Bulunanlar .. 274
-      12. Geçiş Hükümleri ................................................................................................................................................ 275
-   A3. İADE TUTARININ HESABI VE İADEYE DAYANAK İŞLEM VE BELGELER ............................................ 275
-      1. İadesi Talep Edilebilecek KDV ............................................................................................................................ 276
-      2. Mahsup Yoluyla İade ........................................................................................................................................... 281
-      3. Maliye Bakanlığınca Belirlenen Sınırı Aşmayan Nakden İadeler ........................................................................ 283
-      4. YMM KDV İadesi Tasdik Raporuna Dayalı İadeler ............................................................................................ 284
-      5. Teminat Karşılığı İade .......................................................................................................................................... 285
-      7. İade Talebinde Aranan Belgeler ........................................................................................................................... 287
-      8. İade Talep Süresi .................................................................................................................................................. 289
-   B. İNDİRİMLİ TEMİNAT UYGULAMASI SİSTEMİ (İTUS) .................................................................................. 291
-      1. İTUS Sertifikası Kapsamına Giren Mükellefler ................................................................................................... 291
-      2. İTUS Sertifikası Uygulamasına Göre İade Taleplerinin Yerine Getirilmesi ........................................................ 292
-      3. İTUS Sertifikasının İptal edilmesi ........................................................................................................................ 293
-   C. HIZLANDIRILMIŞ İADE SİSTEMİ (HİS)............................................................................................................ 294
-      1. HİS Uygulaması Kapsamına Girecek Mükellefler ............................................................................................... 294
-      2. HİS Uygulamasına Göre İade Taleplerinin Yerine Getirilmesi ........................................................................... 294
-      3. HİS Sertifikasının İptal Edilmesi ......................................................................................................................... 295
-   D. DİĞER HUSUSLAR ............................................................................................................................................... 297
-      1. İade Hakkının İndirim Yoluyla Kullanılması ....................................................................................................... 297
-      2. Defter ve Belgelerin Zayi Olması (Yangın, Su Baskını, Çalınma Gibi) Durumunda İade ................................... 297
-      3. Kamuya Ait Kuruluşlara İade .............................................................................................................................. 297
-      4. İstisna Kapsamında Yapılan Teslim ve/veya Hizmetin Matrahının Değişmesi ve Düzeltme İşlemleri ............... 298
-      5. İstisna Kapsamındaki İşlemin Gerçekleştiği Dönemden Sonra Ortaya Çıkan Ödemeler ..................................... 298
-      6. İade Taleplerinde, Sadece Listesi Gönderilen Belgelere İlişkin Saklama ve İbraz Yükümlülüğü ....................... 298
-      7. Yoklama ve Değerlendirme ................................................................................................................................. 298
-        26 Nisan 2014 – Sayı : 28983                                            RESMİ GAZETE                                                                   Sayfa 5 / 397
-
-       8. Kayıt Düzeni ........................................................................................................................................................ 299
-V. VERGİNİN TARHI VE ÖDENMESİ ......................................................................................................................... 301
-   A. VERGİLENDİRME USULLERİ ............................................................................................................................ 301
-   B. VERGİLENDİRME DÖNEMİ VE BEYAN ESASI .............................................................................................. 305
-       1. Vergilendirme Dönemi ......................................................................................................................................... 305
-       2. Beyan Esası .......................................................................................................................................................... 305
-       3. Beyanname Verme Zamanı .................................................................................................................................. 306
-       4. Beyanname Çeşitleri ............................................................................................................................................ 307
-   C. TARH İŞLEMLERİ ................................................................................................................................................ 307
-       1. Tarh Yeri .............................................................................................................................................................. 307
-       2. Tarhiyatın Muhatabı ............................................................................................................................................. 307
-       3. Tarh Zamanı ......................................................................................................................................................... 308
-   D. VERGİNİN ÖDENMESİ ........................................................................................................................................ 308
-VI. USUL HÜKÜMLERİ VE ÇEŞİTLİ HUSUSLAR .................................................................................................... 309
-   A.USUL HÜKÜMLERİ............................................................................................................................................... 309
-       1. Kayıt Düzeni ........................................................................................................................................................ 309
-   B. ÇEŞİTLİ HUSUSLAR ............................................................................................................................................ 309
-       1. Verginin Gider Kaydedilemeyeceği ..................................................................................................................... 309
-       2. Müteselsil Sorumluluk ......................................................................................................................................... 309
-   C. YÜRÜRLÜKTEN KALDIRILAN TEBLİĞLER ................................................................................................... 310
-   Ç. GEÇİCİ HÜKÜMLER ............................................................................................................................................ 311
-       1. KDV İade Alacağının 4760 sayılı ÖTV Kanunundan Doğan Borçlara Mahsuben İadesi .................................... 311
-       2. 518 Sıra No.lu Vergi Usul Kanunu Genel Tebliği İle İlan Edilen Mücbir Sebep Döneminde KDV İade Uygulaması 311
-       3. Hazine ve Maliye Bakanlığı Tarafından Kahramanmaraş’ta Meydana Gelen Depremden Etkilenen İller İçin İlan Edilen
-       Mücbir Sebep Döneminde KDV İade Uygulaması .................................................................................................. 313
-       4. Proje Uygulaması Getirilen İstisnalara İlişkin KDV Genel Uygulama Tebliğinin Yürürlüğünden Önce Başlanılmış ve Halen
-       Devam Eden İşler .................................................................................................................................................... 315
-   D. YÜRÜRLÜK ........................................................................................................................................................... 316
-EKLER DİZİNİ ................................................................................................................................................................ 316
-       EK1: İCRA DAİRELERİNCEYAPILAN SATIŞLARA AİT KATMA DEĞER VERGİSİ BEYANNAMESİ ..... 319
-       EK 2:İCRA DAİRELERİNCE YAPILAN SATIŞLARA AİT BİLDİRİM ............................................................. 320
-       EK3:TÜRKİYE'DE İKAMET ETMEYENLERE ÖZEL FATURA İLE İHRACAT İSTİSNASI KAPSAMINDA YAPILAN
-       SATIŞLARA AİT İZİN BELGESİ ÖRNEĞİ .......................................................................................................... 321
-       EK 4:TÜRKİYE'DE İKAMET ETMEYENLERE İHRACAT İSTİSNASI KAPSAMINDA YAPILAN SATIŞLARA AİT
-       ÖZEL FATURA....................................................................................................................................................... 322
-       EK 5: YABANCI FUAR, SERGİ, PANAYIR KATILIMCILARI İLE TAŞIMACILARIN İADE TALEP FORMU323
-       EK 6A: ARAÇLARIN TESLİMİNE VEYA İTHALİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ324
-       EK 6B: ARAÇLARIN TADİL, ONARIM VE BAKIMINA İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ325
-       EK 6C: ARAÇLARIN İMALİ VEYA İNŞASINDA KULLANILACAK İMAL/İNŞA PROJESİNDE YER ALAN MAL VE
-       HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN İMAL/İNŞA EDENE VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ
-       (Bizzat İmal ve İnşa Edenler ile Sipariş Üzerine Fiilen İmal ve İnşa Edenler) ........................................................ 327
-       EK 6D: ARAÇLARIN İMALİ VEYA İNŞASINDA KULLANILACAK İMAL/İNŞA PROJESİNDE YER ALAN MAL VE
-       HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN İMAL/İNŞA ETTİREN FİRMAYA VERİLECEK İSTİSNA
-       BELGESİ ÖRNEĞİ ................................................................................................................................................. 329
-       EK 6E:FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE İNŞASI
-       OLANLARA İMAL/İNŞA PROJESİNDE YER ALAN MAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN
-       VERİLECEK BELGE ÖRNEĞİ (KDV Mükellefi Olanlar İçin) ............................................................................. 331
-       EK 6F:FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE İNŞASI
-       OLANLARA İMAL/İNŞA PROJESİNDE YER ALANMAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN
-       VERİLECEK BELGE ÖRNEĞİ (KDV Mükellefi Olmayanlar İçin) ...................................................................... 332
- 26 Nisan 2014 – Sayı : 28983                                           RESMİ GAZETE                                                                  Sayfa 6 / 397
-
-EK 7A: PETROL ARAMA ŞİRKETİNİN YURT İÇİ ALIMLARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ . 334
-EK 7B: PETROL ŞİRKETİ MÜTEAHHİTLERİNİN YURT İÇİ ALIMLARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ
-.................................................................................................................................................................................. 336
-EK 7C:İTHALAT İSTİSNASINA İLİŞKİN BELGE ÖRNEĞİ .............................................................................. 337
-EK 7D: BORU HATTIYLA TAŞIMACILIK YAPANLARA BU HATLARIN İNŞA VE MODERNİZASYONUNA İLİŞKİN
-VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ .......................................................................................................... 338
-EK 7E: BORU HATTIYLA TAŞIMACILIK YAPANLARA BU HATLARIN İNŞA VE MODERNİZASYONUNA İLİŞKİN
-VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ (KDV Mükellefi Olmayanlar İçin) .................................................. 340
-EK 8A:ALTIN, GÜMÜŞ ve PLATİN İLE İLGİLİ ARAMA, İŞLETME, ZENGİNLEŞTİRME RAFİNAJ FAALİYETLERİNE
-İLİŞKİN ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞINCA VERİLECEK YAZI ÖRNEĞİ ........................ 342
-EK 8B: ALTIN, GÜMÜŞ ve PLATİN İLE İLGİLİ ARAMA, İŞLETME, ZENGİNLEŞTİRME RAFİNAJ
-FAALİYETLERİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ ........................................................ 343
-EK 9A:YATIRIM TEŞVİK BELGESİ SAHİBİ MÜKELLEFLERE VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ345
-EK 9B:YATIRIM TEŞVİK BELGESİ KAPSAMINDAKİ İSTİSNA BİLDİRİM FORMU .................................. 346
-EK 10: 3065 SAYILI KANUNUN (13/e) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ 347
-EK 11A: ULUSAL GÜVENLİK KURULUŞU TARAFINDAN ASIL YÜKLENİCİYE VERİLEN İSTİSNA BELGESİ
-ÖRNEĞİ................................................................................................................................................................... 349
-EK 11B: ULUSAL GÜVENLİK KURULUŞLARINA KDV KANUNUNUN (13/f) MADDESİ KAPSAMINDA
-YAPILACAK TESLİM VE HİZMETLERİN ÜRETİMİNDE KULLANILACAK MAL VE HİZMETLERE AİT LİSTE
-ÖRNEĞİ................................................................................................................................................................... 350
-EK 11C:YÜKLENİCİLERİN TESLİM VE İFALARINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ ..................... 351
-EK 11D: YÜKLENİCİ FİRMALARA YAPILAN TESLİM VE HİZMETLERE AİT LİSTE ............................... 352
-EK 12:AMERİKA BİRLEŞİK DEVLETLERİNE VEYA ONUN NAMINA ORTAK SAVUNMA AMACIYLA
-YAPILACAK MAL VE HİZMET ALIMLARINDA KATMA DEĞER VERGİSİ İSTİSNASI UYGULANMASI İÇİN
-TALEP BELGESİ .................................................................................................................................................... 353
-EK 13: 3996 SAYILI KANUNA GÖRE YAP-İŞLET-DEVRET VEYA 3359 SAYILI KANUN İLE 652 SAYILI
-KARARNAMEYE GÖRE KİRALAMA KARŞILIĞI YAPTIRILAN PROJELERDE KDV İSTİSNASI UYGULAMASINA
-İLİŞKİN BELGE ÖRNEĞİ ..................................................................................................................................... 354
-EK 14: 6111 SAYILI KANUNUN GECİÇİ 16 NCI MADDE UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ
-.................................................................................................................................................................................. 355
-EK 15: 3065 SAYILI KANUNUN (17/2-d) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ356
-EK 16: LİSANSLI DEPO İŞLETİCİLERİ İÇİN KATMA DEĞER VERGİSİ TAHSİLÂT BELGESİ ................. 358
-EK 17: 3065 SAYILI KANUNUN GEÇİCİ 23 ÜNCÜ MADDESİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ
-ÖRNEĞİ................................................................................................................................................................... 359
-EK 18: KESİN VE SÜRESİZ TEMİNAT MEKTUBU ÖRNEĞİ ........................................................................... 360
-EK 19: İADESİ TALEP EDİLEN KDV HESAPLAMA TABLOSU ..................................................................... 361
-EK 20: İTUS SERTİFİKASI ÖRNEĞİ .................................................................................................................... 362
-EK 21: HİS SERTİFİKASI ÖRNEĞİ ...................................................................................................................... 363
-EK 22: 3065 SAYILI KANUNUN (13/h) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ 364
-EK-23A: GIDA, TARIM VE HAYVANCILIK BAKANLIĞI TARAFINDAN TESCİL EDİLEN GÜBRELERİN
-ÜRETİMİNDE KULLANILACAK HAMMADDE LİSTESİ ÖRNEĞİ ................................................................ 366
-EK 23B: GÜBRE ÜRETİCİLERİNİN GÜBRE İÇERİĞİNDE BULUNAN HAMMADDELERİ ALIMINDA
-KULLANILACAK İSTİSNA BELGESİ ÖRNEĞİ ................................................................................................. 367
-EK 24: 3065 SAYILI KANUNUN (13/i) MADDESİNDEKİ İSTİSNA KAPSAMINDA YAPILAN TESLİMLERE İLİŞKİN
-BİLDİRİM FORMU ................................................................................................................................................ 369
-EK 25: FATİH PROJESİ KAPSAMINDAKİ MAL VE HİZMET ALIMLARINA İLİŞKİN MİLLİ EĞİTİM BAKANLIĞI
-TARAFINDAN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ ............................................................................... 371
-EK 26: 3065 SAYILI KANUNUN (13/j) BENDİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ . 373
-EK 27: AR-GE, YENİLİK VE TASARIM FAALİYETLERİNDE KULLANILMAK ÜZERE YAPILAN YENİ MAKİNE VE
-TEÇHİZAT TESLİMLERİNE İLİŞKİN VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ ......................................... 375
-EK 28: İMALAT SANAYİİNE YÖNELİK YENİ MAKİNE VE TEÇHİZAT TESLİMLERİNE İLİŞKİN VERİLECEK
-İSTİSNA BELGESİ ÖRNEĞİ ................................................................................................................................. 377
- 26 Nisan 2014 – Sayı : 28983                              RESMİ GAZETE                                                    Sayfa 7 / 397
-
-EK 29: 3065 SAYILI KANUNUN (13/k) MADDESİ UYGULAMASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ379
-EK 30: İMALAT SANAYİİ İLE TURİZME YÖNELİK YATIRIM TEŞVİK BELGESİ SAHİBİ MÜKELLEFLERE
-VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ .......................................................................................................... 381
-EK 31: ELEKTRİK MOTORLU TAŞIT ARAÇLARININ GELİŞTİRİLMESİNE YÖNELİK VERİLEN MÜHENDİSLİK
-HİZMETLERİNE İLİŞKİN MÜKELLEFLERE VERİLECEK İSTİSNA BELGESİ ÖRNEĞİ ............................ 383
-EK 32: AFETZEDELERE BAĞIŞLANACAK KONUTLARIN İNŞASINA İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ 384
-EK 33: GENEL BÜTÇELİ KAMU İDARELERİNE BAĞIŞLANMAK ÜZERE KONUT, İŞ YERİ, OKUL, ÖĞRENCİ
-YURDU, HASTANE, İBADETHANE, KÜLTÜR VE SANAT MERKEZİ, KÜTÜPHANE GİBİ TAŞINMAZLARIN
-İNŞASINA İLİŞKİN YABANCI DEVLET KURUM VE KURULUŞLARINA YAPILAN TESLİM VE HİZMETLER İLE
-GENEL BÜTÇELİ KAMU İDARELERİNE BAĞIŞLANACAK KONUTLARIN YABANCI DEVLET KURUM VE
-KURULUŞLARINA TESLİMİNE İLİŞKİN İSTİSNA BELGESİ ÖRNEĞİ ........................................................ 386
-

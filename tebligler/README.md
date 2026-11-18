@@ -4,7 +4,7 @@ Her klasörde `README.md` (kaynak, yayım tarihi, bilinmesi gerekenler) ve `tam-
 
 | Klasör | Tebliğ | Yayım |
 |---|---|---|
-| `kdv-genel-uygulama-28983/` | Katma Değer Vergisi Genel Uygulama Tebliği | RG 26.04.2014 (GİB PDF + mevzuat.gov.tr güncel metin, Seri 58 dahil) |
+| `kdv-genel-uygulama-28983/` | Katma Değer Vergisi Genel Uygulama Tebliği | RG 26.04.2014 (esas: mevzuat.gov.tr güncel metin, Seri No: 58 dahil; eski GİB PDF arşivde) |
 | `3568-gt-27/` | 3568 sayılı Kanun Genel Tebliği (Sıra No: 27) – karşıt inceleme | RG 06.12.2000 (RG taraması + OCR, DOĞRULANMADI) |
 | `kvgt-seri-1/` | Kurumlar Vergisi Genel Tebliği (Seri No: 1) | RG 03.04.2007 |
 | `transfer-fiyatlandirmasi-gt-1/` | Transfer Fiyatlandırması Yoluyla Örtülü Kazanç Dağıtımı Hakkında Genel Tebliğ (Seri No: 1) | RG 18.11.2007 |

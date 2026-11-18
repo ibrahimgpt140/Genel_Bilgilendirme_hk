@@ -3,67 +3,59 @@
 | | |
 |---|---|
 | Resmî Gazete | 26.04.2014 – Sayı: 28983 |
-| Bu dosyanın kaynağı | Kullanıcı tarafından yüklenen, Gelir İdaresi Başkanlığınca hazırlanmış konsolide metin (`teblig.pdf`) |
-| PDF oluşturulma | 15.04.2026 (Microsoft Word 2013, yazar: Gelir İdaresi Başkanlığı) |
-| İşlenmiş son değişiklik | `teblig.pdf`: Seri No: 57 (RG 31.01.2026); `tam-metin-mevzuat-gov-tr.txt`: Seri No: 58 (RG 16.06.2026) |
-| SHA-256 | `bdea3737f421203d3814fce7c4b72c617dacd03878d4d8e655cacc9e19d0df68` |
-| Depoya eklenme | 18.11.2026 |
+| Esas metin | `tam-metin.txt` — mevzuat.gov.tr işlenmiş güncel metni (https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19631&MevzuatTur=9&MevzuatTertip=5) |
+| Alınma | 18.11.2026 |
+| İşlenmiş son değişiklik | Seri No: 58 (RG 16.06.2026, sayı 33282) — IV/A3-1.1'deki "(Ek paragraf:RG-16/6/2026-33282)" notuyla doğrulandı |
+| Arşiv | `eski-gib-2026-04/`: kullanıcının yüklediği GİB konsolide PDF'i (15.04.2026, Seri No: 57'ye kadar). **Eski sürümdür, esas alınmaz;** yalnızca karşılaştırma için tutulur. |
 
-## 1. Güncellik uyarısı (önce bunu okuyun)
+## 1. Bilinmesi gerekenler (önce bunu okuyun)
 
-- **`teblig.pdf` ve `tam-metin.txt` (GİB, 15.04.2026) Seri No: 58'i (RG 16.06.2026, sayı 33282) içermez.**
-  **`tam-metin-mevzuat-gov-tr.txt` ise mevzuat.gov.tr'den 18.11.2026'da alınmış, Seri No: 58 işlenmiş güncel metindir.**
-  Seri No: 58'in IV/A3-1.1'e eklediği paragraf (teminatla ithal edilip ihraç edilen mallarda azami iade tutarını
-  aşan KDV'nin vergi inceleme raporu aranmadan iadesi) bu güncel metinde "(Ek paragraf:RG-16/6/2026-33282)"
-  notuyla yer almaktadır (doğrulandı). Güncel hüküm gereken her durumda önce bu dosyaya bakılmalıdır.
-  `bolumler/` klasörü GİB metninden bölünmüştür.
-- **Oran ibareleri güncellenmemiş.** IV/A3-1.1'deki azami iade hükmünde "(%18)'i (genel KDV oranı)"
+- Hüküm gerektiğinde **yalnızca `tam-metin.txt` veya `bolumler/`** kullanılır; bunlar güncel metindir.
+- **Oran ibareleri güncellenmemiş.** IV/A3-1.1'deki azami iade hükmünde güncel metinde de "(% 18)'i (genel KDV oranı)"
   ibaresi geçmektedir. Genel oran 7346 sayılı Cumhurbaşkanı Kararı ile 10.07.2023'ten itibaren %20'dir.
-- Metin `pdftotext -layout` ile çıkarılmıştır; dipnot numaraları başlık ve kelimelere bitişik
-  görünebilir (ör. "A3597." = A3 + dipnot 597). Kesin alıntıda PDF esas alınır.
+- Metin mevzuat.gov.tr'nin HTML görünümünden düz metne çevrilmiştir; başlıklar bazen iki satıra bölünmüş, dipnot
+  numaraları köşeli parantezle ([580] gibi) görünür, tablolar satır satır düzleşmiştir. Kesin alıntıda mevzuat.gov.tr esas alınır.
+- Yeni bir değişiklik tebliği yayımlandığında metin mevzuat.gov.tr'den yeniden alınmalıdır.
 
 ## 2. Dosyalar
 
 | Dosya | İçerik |
 |---|---|
-| `teblig.pdf` | Yüklenen PDF (değiştirilmeden) |
-| `tam-metin.txt` | PDF'in tam metni (GİB, Seri No: 57'ye kadar) |
-| `tam-metin-mevzuat-gov-tr.txt` | mevzuat.gov.tr güncel metni (Seri No: 58 dahil), düz metin |
-| `bolumler/` | Ana bölümlere ayrılmış metin (aşağıdaki tablo; satır numaraları `tam-metin.txt`'ye göre) |
-
-Bölme betiği: `araclar/bol_kdvgut.py` (`python3 araclar/bol_kdvgut.py tam-metin.txt bolumler`).
+| `tam-metin.txt` | Güncel tam metin (Seri No: 58 dahil) |
+| `bolumler/` | Güncel metnin ana bölümlere ayrılmış hali (satır numaraları `tam-metin.txt`'ye göre) |
+| `eski-gib-2026-04/` | Eski GİB PDF'i, metni ve bölümleri (Seri No: 57'ye kadar) — esas alınmaz |
 
 | Dosya | Bölüm | Satır |
 |---|---|---|
-| `bolumler/00-00.txt` | BAŞLANGIÇ | 1–13 |
-| `bolumler/01-I-A.txt` | I/A VERGİNİN KONUSU | 14–242 |
-| `bolumler/02-I-B.txt` | I/B VERGİNİN KONUSU İLE İLGİLİ ÇEŞİTLİ HUSUSLAR | 243–957 |
-| `bolumler/03-I-C.txt` | I/C MÜKELLEF VE VERGİ SORUMLUSU | 958–2973 |
-| `bolumler/04-II-A.txt` | II/A İHRACAT İSTİSNASI | 2974–4764 |
-| `bolumler/05-II-B.txt` | II/B ARAÇLAR, KIYMETLİ MADEN VE PETROL ARAMALARI, ULUSAL GÜVENLİK | 4765–7799 |
-| `bolumler/06-II-C.txt` | II/C TAŞIMACILIK İSTİSNASI | 7800–8313 |
-| `bolumler/07-II-D.txt` | II/D İTHALAT İSTİSNASI | 8314–8440 |
-| `bolumler/08-II-E.txt` | II/E İNDİRİM VE İADE HAKKI TANINAN DİĞER İSTİSNALAR | 8441–9941 |
-| `bolumler/09-II-F.txt` | II/F SOSYAL VE ASKERİ AMAÇLI İSTİSNALARLA DİĞER İSTİSNALAR | 9942–11224 |
-| `bolumler/10-II-G.txt` | II/G GEÇİCİ MADDELERDE YER ALAN İSTİSNALAR | 11225–11661 |
-| `bolumler/11-III-A.txt` | III/A MATRAH | 11662–12152 |
-| `bolumler/12-III-B.txt` | III/B ORAN | 12153–13709 |
-| `bolumler/13-III-C.txt` | III/C İNDİRİM | 13710–14483 |
-| `bolumler/14-IV-A1.txt` | IV/A1 İADE – GENEL AÇIKLAMA | 14484–14526 |
-| `bolumler/15-IV-A2.txt` | IV/A2 İADELERİ VERGİ İNCELEMESİNE TABİ OLANLAR | 14527–15252 |
-| `bolumler/16-IV-A3.txt` | IV/A3 İADE TUTARININ HESABI VE İADEYE DAYANAK İŞLEM VE BELGELER | 15253–16167 |
-| `bolumler/17-IV-B.txt` | IV/B İNDİRİMLİ TEMİNAT UYGULAMASI SİSTEMİ (İTUS) | 16168–16330 |
-| `bolumler/18-IV-C.txt` | IV/C HIZLANDIRILMIŞ İADE SİSTEMİ (HİS) | 16331–16460 |
-| `bolumler/19-IV-D.txt` | IV/D DİĞER HUSUSLAR | 16461–16651 |
-| `bolumler/20-V-A.txt` | V/A VERGİLENDİRME USULLERİ | 16652–16890 |
-| `bolumler/21-V-B.txt` | V/B VERGİLENDİRME DÖNEMİ VE BEYAN ESASI | 16891–17019 |
-| `bolumler/22-V-C.txt` | V/C TARH İŞLEMLERİ | 17020–17060 |
-| `bolumler/23-V-D.txt` | V/D VERGİNİN ÖDENMESİ | 17061–17085 |
-| `bolumler/24-VI-A.txt` | VI/A USUL HÜKÜMLERİ | 17086–17102 |
-| `bolumler/25-VI-B.txt` | VI/B ÇEŞİTLİ HUSUSLAR | 17103–17188 |
-| `bolumler/26-VI-C.txt` | VI/C YÜRÜRLÜKTEN KALDIRILAN TEBLİĞLER | 17189–17476 |
-| `bolumler/27-VI-D.txt` | VI/D YÜRÜRLÜK | 17477–20456 |
-| `bolumler/28-ZZ.txt` | İÇİNDEKİLER (tebliğ metnindeki) | 20457–20768 |
+| `bolumler/00-00.txt` | BAŞLANGIÇ | 1–14 |
+| `bolumler/01-I-A.txt` | I/A VERGİNİN KONUSU | 15–321 |
+| `bolumler/02-I-B.txt` | I/B VERGİNİN KONUSU İLE İLGİLİ ÇEŞİTLİ HUSUSLAR | 322–1287 |
+| `bolumler/03-I-C.txt` | I/C MÜKELLEF VE VERGİ SORUMLUSU | 1288–3964 |
+| `bolumler/04-II-A.txt` | II/A İHRACAT İSTİSNASI | 3965–6377 |
+| `bolumler/05-II-B.txt` | II/B ARAÇLAR, KIYMETLİ MADEN VE PETROL ARAMALARI, ULUSAL GÜVENLİK | 6378–10399 |
+| `bolumler/06-II-C.txt` | II/C TAŞIMACILIK İSTİSNASI | 10400–11079 |
+| `bolumler/07-II-D.txt` | II/D İTHALAT İSTİSNASI | 11080–11242 |
+| `bolumler/08-II-E.txt` | II/E İNDİRİM VE İADE HAKKI TANINAN DİĞER İSTİSNALAR | 11243–13292 |
+| `bolumler/09-II-F.txt` | II/F SOSYAL VE ASKERİ AMAÇLI İSTİSNALARLA DİĞER İSTİSNALAR | 13293–14911 |
+| `bolumler/10-II-G.txt` | II/G GEÇİCİ MADDELERDE YER ALAN İSTİSNALAR | 14912–15475 |
+| `bolumler/11-III-A.txt` | III/A MATRAH | 15476–16102 |
+| `bolumler/12-III-B.txt` | III/B ORAN | 16103–18609 |
+| `bolumler/13-III-C.txt` | III/C İNDİRİM | 18610–19738 |
+| `bolumler/14-IV-A1.txt` | IV/A1 İADE – GENEL AÇIKLAMA | 19739–19799 |
+| `bolumler/15-IV-A2.txt` | IV/A2 İADELERİ VERGİ İNCELEMESİNE TABİ OLANLAR | 19800–20808 |
+| `bolumler/16-IV-A3.txt` | IV/A3 İADE TUTARININ HESABI VE İADEYE DAYANAK İŞLEM VE BELGELER | 20809–22188 |
+| `bolumler/17-IV-B.txt` | IV/B İNDİRİMLİ TEMİNAT UYGULAMASI SİSTEMİ (İTUS) | 22189–22389 |
+| `bolumler/18-IV-C.txt` | IV/C HIZLANDIRILMIŞ İADE SİSTEMİ (HİS) | 22390–22541 |
+| `bolumler/19-IV-D.txt` | IV/D DİĞER HUSUSLAR (IV/E mülga dahil) | 22542–22781 |
+| `bolumler/20-V-A.txt` | V/A VERGİLENDİRME USULLERİ | 22782–23083 |
+| `bolumler/21-V-B.txt` | V/B VERGİLENDİRME DÖNEMİ VE BEYAN ESASI | 23084–23268 |
+| `bolumler/22-V-C.txt` | V/C TARH İŞLEMLERİ | 23269–23319 |
+| `bolumler/23-V-D.txt` | V/D VERGİNİN ÖDENMESİ | 23320–23344 |
+| `bolumler/24-VI-A.txt` | VI/A USUL HÜKÜMLERİ | 23345–23368 |
+| `bolumler/25-VI-B.txt` | VI/B ÇEŞİTLİ HUSUSLAR | 23369–23481 |
+| `bolumler/26-VI-C.txt` | VI/C YÜRÜRLÜKTEN KALDIRILAN TEBLİĞLER | 23482–23862 |
+| `bolumler/27-VI-D.txt` | VI/D YÜRÜRLÜK VE EKLER | 23863–35465 |
+| `bolumler/28-ZZ.txt` | İÇİNDEKİLER (tebliğ metnindeki) | 35466–37570 |
 
 Not: `27-VI-D.txt` yürürlük hükmünün yanında tebliğ eklerini (dilekçe, tablo ve form örnekleri) de içerir.
 

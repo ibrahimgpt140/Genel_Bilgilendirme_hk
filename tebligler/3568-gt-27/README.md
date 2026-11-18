@@ -24,4 +24,8 @@
 - **II/6:** Karşıt inceleme sonuçları tutanağa bağlanır.
 - **II/8:** Vergi dairelerinden bilgi istenmesi; usulüne uygun talepler 15 iş günü içinde yerine getirilir.
 
-Not: Bu tebliğin sonraki tebliğlerle değişen hükümleri (ör. parasal hadler) bu dosyalara işlenmemiştir.
+## Güncellik
+
+- Bu tebliğ mevzuat.gov.tr'de işlenmiş haliyle bulunmadığından **orijinal (değişmemiş) metin** olarak tutulmuştur; değişmeyen hükümleri için esas alınır.
+- **Değişen hüküm:** II/5'teki "KDV hariç 2 milyar lirayı aşmayan belgeler" sınırı güncel değildir. Güncel sınır, 46 Sıra No'lu Tebliğ'in RG 17.12.2025/33110 ile değişik hükmüne göre **150.000 TL**'dir (1/1/2026'dan itibaren) — bkz. `tebligler/3568-gt-46/tam-metin.txt`.
+- II/5'teki "%80" kuralı ve II/8'deki "15 iş günü" kuralı için bu klasördeki metin esas alınır; aradaki tebliğlerle (29, 34 vb.) değişip değişmediği ayrıca kontrol edilmemiştir.

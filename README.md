@@ -19,7 +19,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
-| `araclar/` | Maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) ve KDVGUT bölüm ayırma (`bol_kdvgut.py`) betikleri |
+| `araclar/` | Maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) ve eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) betikleri |
 
 ## Kurallar
 

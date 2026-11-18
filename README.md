@@ -12,6 +12,9 @@ dosyanın geçmişinden (History) görülebilir.
 | `kanunlar/ttk-6102/` | 6102 sayılı Türk Ticaret Kanunu, madde madde |
 | `kanunlar/gumruk-4458/` | 4458 sayılı Gümrük Kanunu, madde madde |
 | `kanunlar/kdvk-3065/`, `kvk-5520/`, `gvk-193/`, `smmm-ymm-3568/`, `aatuhk-6183/`, `damga-488/`, `harclar-492/`, `otv-4760/`, `serbest-bolgeler-3218/` | KDV, Kurumlar, Gelir, 3568, 6183, Damga, Harçlar, ÖTV ve Serbest Bölgeler kanunları, madde madde (18.11.2026) |
+| `kanunlar/tum/` | mevzuat.gov.tr'deki diğer tüm yürürlükteki kanunlar (905), dizin: `kanunlar/tum/README.md` |
+| `tuzukler/` | Yürürlükteki tüm tüzükler (107) |
+| `tebligler/genel-tebligler/` | Yürürlükteki tüm genel tebliğler (916), konu klasörlerine ayrılmış; dizin: `README.md` |
 | `yonetmelikler/` | YMM tasdik, çalışma usul ve esasları, vergi incelemesi, ticaret sicili, belge basım, gümrük yönetmelikleri |
 | `tebligler/` | Genel tebliğler, sirküler ve özelgeler |
 | `resmi-gazete/` | Günlük Resmî Gazete taramasının özetleri |
@@ -19,7 +22,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
-| `araclar/` | Maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) ve eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) betikleri |
+| `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) ve eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) betikleri |
 
 ## Kurallar
 

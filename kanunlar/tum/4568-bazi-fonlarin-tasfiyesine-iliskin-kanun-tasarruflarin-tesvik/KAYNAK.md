@@ -1,0 +1,20 @@
+# BAZI FONLARIN TASFİYESİNE İLİŞKİN KANUN (TASARRUFLARIN TEŞVİKİ VE KAMU YATIRIMLARININ HIZLANDIRILMASI HAKKINDA KANUNUN, ÖZELLEŞTİRME UYGULAMALARININ DÜZENLENMESİ VE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUNUN, ASKER AİLELERİNDEN MUHTAÇ OLANLARA YARDIM HAKKINDA KANUNUN, FUTBOL MÜSABAKALARINDA MÜŞTEREK BAHİSLER TERTİBİ HAKKINDA KANUNUN, GECEKONDU KANUNUNUN, SAĞLIK HİZMETLERİ TEMEL KANUNUNUN VE ÖDEME GÜÇLÜĞÜ İÇİNDE BULUNAN BANKERLERİN İŞLEMLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ VE YÜRÜRLÜKTEN KALDIRILMASI İLE BAZI TEKEL MADDELERİ FİYATLARINA YAPILAN ZAMLARDAN ELDE EDİLEN HASILATIN T.C.MERKEZ BANKASINDA AÇILACAK BİR DEPREM FONU HESABINDA TOPLANMASINA DAİR KANUNUN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN
+
+| | |
+|---|---|
+| Kanun No | 4568 |
+| Kaynak | https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4568&MevzuatTur=1&MevzuatTertip=5 |
+| Resmî Gazete | 26.05.2000 / 24060 |
+| Kabul | 23.05.2000 |
+| Alınma | 18.11.2026 (mevzuat.gov.tr güncel metni) |
+| PDF | `kaynak-dosyalar/kanun-pdf/1.5.4568.pdf` |
+| SHA-256 | `a8c9d178745688d9c7b1e551e206cb8a899d7d9c109231c16a6c525d3369894e` |
+| Madde bölme | bölündü |
+
+Bölme betiği çıktısı:
+
+```
+{"dosya": "tam-metin.txt", "ana_son": 8, "ek_son": 0, "gecici_son": 0, "parca": 8, "butunluk": true, "baslik_tasinan": 0}
+```
+
+Metin otomatik çıkarıldı; insan gözüyle resmî metinle karşılaştırılmadı. Kullanmadan önce mevzuat.gov.tr ile teyit ediniz.

@@ -1,0 +1,14 @@
+  Süresi                        Eski rütbeler                             Yeni rütbeler
+     yıl
+      3                        Astsubay Çavuş                            Astsubay Çavuş
+      3                       Astsubay Üstçavuş                      Astsubay Kıdemli Çavuş
+      3                      Astsubay Başçavuş                          Astsubay Üstçavuş
+      3                  Astsubay kıdemli Başçavuş                  Astsubay Kıdemli Üstçavuş
+      6           Astsubay 1 ve 2 kademeli kıdemli Başçavuş             Astsubay Başçavuş
+      6           Astsubay 3 ve 4 kademeli kıdemli Başçavuş         Astsubay Kıdemli Başçavuş
+
+       Sözleşmeli personel:
+       Geçici Madde 17 – Harb Tarihi Dairesi ve askeri müzelerde geçici hizmetli olarak
+istihdam edilmekte olan personel hakkında 657 sayılı Devlet Memurları Kanununun 4 üncü
+maddesinin (B) bendinde gösterilen şartlar aranmaz. Bunların sözleşmeli olarak
+istihdamlarına devam olunur.

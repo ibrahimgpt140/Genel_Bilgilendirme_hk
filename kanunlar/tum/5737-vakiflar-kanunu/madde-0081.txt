@@ -1,0 +1,15 @@
+46      MARDİN       MİDYAT           ANITLI                 -   135    8
+47      MARDİN       MİDYAT           ANITLI                 -   136    7
+48      MARDİN       MİDYAT           ANITLI                 -   103   72
+49      MARDİN       MİDYAT           ANITLI                 -   136   14
+50      MARDİN       MİDYAT         BARDAKÇI                 -   150    4
+51      MARDİN     NUSAYBİN          BALABAN                 -    -    194
+52      MARDİN     NUSAYBİN         ESKİHİSAR                -    -    33
+53      MARDİN     NUSAYBİN         GÜNYURDU                 -    -    90
+54      MARDİN     NUSAYBİN         GÜNYURDU                 -    -    107
+55      MARDİN     NUSAYBİN           ÜÇKÖY                  -   105   43
+56      MARDİN     DARGEÇİT         ÇATALÇAM                 -   104   53
+
+
+     Yürürlük
+     MADDE 81 – Bu Kanun yayımı tarihinde yürürlüğe girer.

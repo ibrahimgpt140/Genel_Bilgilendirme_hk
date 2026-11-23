@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+gib_kanun_id: 445
+gib_madde_id: 8478
+madde: "Madde 33 Nispet:"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/madde/8478
+gib_guncelleme: 2025-03-24T20:43:45
+alindi: 2026-11-23
+---
+
+# 6802 sayılı GİDER VERGİLERİ KANUNU — Madde 33 Nispet:
+
+(2447 sayılı Kanunun 8'inci maddesiyle değişen şekli) Banka ve sigorta muameleleri vergisinin nispeti % 15'tir. [1] </?id=985&no_cache=1&tx_CSMadde_pi1[madde]=UJYH1iqOUq9m0H2r&tx_CSMadde_pi1[update]=1#_ftn1> Kambiyo muamelelerinde nispet matrahın (7194 sayılı kanunun 8 inci maddesiyle değişen ibare; Yürürlük: 07.12.2019) binde ikisidir(6). [2] </?id=985&no_cache=1&tx_CSMadde_pi1[madde]=UJYH1iqOUq9m0H2r&tx_CSMadde_pi1[update]=1#_ftn2> (4761 sayılı Kanunun 5'inci maddesiyle değişen fıkra. Yürürlük; 22.06.2002) (700 Sayılı KHK'nın 36 ncı maddesiyle değişen ibare; Yürürlük: 09.07.2018) Cumhurbaşkanı(5), bu maddede belirtilen vergi oranını bankalar arası mevduat muameleleri, bankalar ile 2499 sayılı Sermaye Piyasası Kanununa göre kurulan aracı kurumlar arasındaki borsa para piyasası muameleleri ve diğer banka ve sigorta muameleleri için ayrı ayrı veya birlikte % 1'e, (5615 sayılı Kanunun 17 nci maddesiyle değişen ibare. Yürürlük; 04.04.2007) kambiyo muamelelerinde [3] </?id=985&no_cache=1&tx_CSMadde_pi1[madde]=UJYH1iqOUq9m0H2r&tx_CSMadde_pi1[update]=1#_ftn3> ise sıfıra kadar indirmeye ve (7194 sayılı kanunun 8 inci maddesiyle değişen ibare; Yürürlük: 07.12.2019) kambiyo muamelelerinde on katına, vergiye tabi diğer muamelelerde ise kanuni seviyesine kadar artırmaya yetkilidir(7). [4] </?id=985&no_cache=1&tx_CSMadde_pi1[madde]=UJYH1iqOUq9m0H2r&tx_CSMadde_pi1[update]=1#_ftn4> BKK İLE BELİRLENEN YÜRÜRLÜKTEKİ BANKA VE SİGORTA MUAMELELERİ VERGİSİ ORANLARI 1-) Bankalararası mevduat muameleleri sonucu lehe alınan paralar üzerinden (98/11591 sayılı B.K.K. ile % 1 Geçerlilik; 1.9.1998 Yürürlük; 2.9.1998) 2-) Bankalar ile 2499 sayılı Sermaye Piyasası Kanununa göre kurulan aracı kurumlar arasındaki borsa para piyasası muameleleri sonucu lehe alınan paralar üzerinden (98/11591 sayılı B.K.K. ile % 1. Geçerlilik; 1.9.1998 Yürürlük; 2.9.1998), 3-) Devlet tahvili, gelire endeksli senetler ve Hazine bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince çıkarılan menkul kıymetlerin geri alım ve satım taahhüdü ile iktisap veya elden çıkarılması karşılığında lehe alınan paralar üzerinden (2009/15398 sayılı B.K.K. ile % 1. Yürürlük; 01.10.2009), 4-) Devlet tahvili, gelire endeksli senetler ve Hazine bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince çıkarılan menkul kıymetlerin vadesi beklenilmeksizin satışı nedeniyle lehe alınan paralar üzerinden (2009/15398 sayılı B.K.K. ile % 1. Yürürlük; 01.10.2009), 5-) Değişmeden önceki şekli: Bakanlar Kurulu 6-) Değişmeden önceki şekli: binde biridir 7-) Değişmeden önceki şekli: yukarıdaki oranları aşmayacak şekilde yeniden tespit etmeye yetkilidir

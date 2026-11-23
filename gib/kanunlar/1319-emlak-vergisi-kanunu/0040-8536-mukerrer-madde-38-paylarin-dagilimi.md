@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+gib_kanun_id: 447
+gib_madde_id: 8536
+madde: "Mükerrer Madde 38 Payların Dağılımı(*)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/madde/8536
+gib_guncelleme: 2025-04-10T11:39:04
+alindi: 2026-11-23
+---
+
+# 1319 sayılı EMLAK VERGİSİ KANUNU — Mükerrer Madde 38 Payların Dağılımı(*)
+
+(5272 sayılı Kanunun 87/g maddesiyle kaldırılmıştır. Yürürlük: 24.12.2004) (**) (*) (4736 sayılı Kanunla değişmeden önceki başlık) Verginin Dağılımı (**) (Kaldırılmadan önceki şekli) (4736 sayılı Kanunun 4/C maddesiyle değişen madde,Yürürlük; 01.03.2002) 3030 sayılı Kanunun uygulandığı büyük şehir belediye sınırları ve mücavir alanlar içinde belediyelerce tahsil edilen emlâk vergisi tutarının yarısı büyük şehir belediyesi payı, bu pay ayrıldıktan sonra kalan tutarın % 15'i il özel idareler payı olarak ayrılır. İl özel idareler payının hesaplanmasına esas olan tutardan il özel idareler payının düşülmesinden sonra kalan kısmın %20'si büyük şehir belediyesi payına ayrıca ilave edilir. Birinci fıkra kapsamı dışında kalan belediyeler tarafından tahsil edilen emlâk vergisinin % 15'i il özel idareler payı olarak ayrılır. Yukarıdaki hükümlere göre, il özel idareleri ve büyük şehir belediyeleri payı olarak ayrılan miktarlar tahsil edildiği ayı takip eden ayın yedinci günü akşamına kadar il özel idareleri ve büyük şehir belediyelerine bir bildirim ile beyan edilerek aynı süre içinde ödenir. Tahsil ettikleri vergiyi yukarıda belirtilen süre içinde il özel idarelerine ve büyük şehir belediyelerine yatırmayan belediyelerden, yatırmaya mecbur oldukları paylar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı tatbik edilerek tahsil edilir. Belediye başkanları, belediyelerin tahsil ettikleri vergilerden il özel idarelerine ve büyük şehir belediyelerine ödemeleri gereken payları, zamanında ve tam olarak ödenmesini sağlamakla yükümlüdür. (4837 sayılı Kanunun 4 üncü maddesiyle son cümle kaldırılmıştır Yürürlük; 11.04.2003)(***) (***) (4837 sayılı Kanunun 4 üncü maddesiyle kaldırılan cümle) Bu yükümlülüğe uymayanlar adına, zamanında ödenmeyen payların % 10'u tutarında ceza kesilir ve bu ceza 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca müşterek ve müteselsilen sorumluluk esasına göre tahsil edilir. (****) (4736 sayılı Kanunla değişmeden önceki madde) (3239 sayılı kanunun 114'üncü maddesiyle eklenen madde) Belediyeler tarafından tahsil edilen Emlak Vergisinin % 15'i il özel idareleri payı, 27.6.1984 gün ve 3030 sayılı Kanunun uygulandığı şehirlerde il özel idareleri payı ayrıldıktan sonra kalan miktarın % 20'si büyük şehir belediyesi payı olarak ayrılır. İl özel idareleri ve büyük şehir belediyesi payı olarak ayrılan miktarlar tahsil edildiği ayı takip eden ayın son günü akşamına kadar ilgili il özel idareleri ile büyük şehir belediyelerine ödenir.

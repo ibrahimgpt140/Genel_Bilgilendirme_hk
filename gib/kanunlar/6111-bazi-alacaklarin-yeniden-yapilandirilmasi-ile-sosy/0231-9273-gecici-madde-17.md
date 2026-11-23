@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "6111 BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU VE DİĞER BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 460
+gib_madde_id: 9273
+madde: "Geçici Madde 17"
+kaynak: https://gib.gov.tr/mevzuat/kanun/460/madde/9273
+gib_guncelleme: 2025-04-10T14:54:33
+alindi: 2026-11-23
+---
+
+# 6111 sayılı BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU VE DİĞER BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Geçici Madde 17
+
+(1) Bu Kanunun yürürlüğe girdiği tarihten önce haklarında kapatma kararı verilen siyasi partilerden; kapatma kararının verildiği tarihten önceki döneme ilişkin olarak kesin hesabın verilmemiş olması nedeniyle Anayasa Mahkemesi tarafından denetim yapılmadığı için hesapları hakkında karar verilmemiş olanların Hazineye intikal etmesi gereken malvarlığına ilişkin olarak sorumlular aleyhine açılmış ve bu Kanunun yayımlandığı tarih itibarıyla kesin hükme bağlanmamış davalardan; davalıların davaya konu alacak aslının % 50'sini ve bu tutara alacağın Hazineye intikali gereken tarihten bu Kanunun yayımlandığı tarihe kadar geçen süreye TEFE/ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarı, bu Kanunun 18 inci maddesinin üçüncü fıkrasında öngörülen süre ve şekilde ödemeleri şartıyla, vazgeçilir ve kalan alacak aslı ile fer'i tutarlar tahsil edilmez. Bu şekilde hesaplanan fer'i tutar bu maddeye göre ödenmesi gereken asıl alacak tutarının yarısını geçemez. Bu hükümden yararlanmak isteyen davalıların Kanunun yayımını izleyen ikinci ayın sonuna kadar başvuruda bulunmaları şarttır. Bu madde hükmünden yararlanılması halinde yargılama masrafı ve vekâlet ücretleri karşılıklı olarak talep edilmez. Madde hükmünden yararlanmak üzere başvuruda bulunulduğu halde taksitlerden birinin ödenmemesi halinde madde hükmüne göre ödenmesi gereken alacağın tamamı muaccel olur ve muaccel hale geldiği tarihten itibaren 6183 sayılı Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında bir faiz ile birlikte başkaca bir işleme gerek kalmaksızın tahsil edilir.

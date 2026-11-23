@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "193 GELİR VERGİSİ KANUNU"
+gib_kanun_id: 433
+gib_madde_id: 6976
+madde: "Madde 70 Gayrimenkul Sermaye İradının Tarifi"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/madde/6976
+gib_guncelleme: 2025-03-24T19:27:08
+alindi: 2026-11-23
+---
+
+# 193 sayılı GELİR VERGİSİ KANUNU — Madde 70 Gayrimenkul Sermaye İradının Tarifi
+
+Aşağıda yazılı mal ve hakların sahipleri, mutasarrıfları, zilyedleri, irtifak ve intifa hakkı sahipleri veya kiracıları tarafından kiraya verilmesinden elde edilen iratlar gayrimenkul sermaye iradıdır: 1. Arazi, bina (Döşeli olarak kiraya verilenlerde döşeme için alınan kira bedelleri dahildir), maden suları, menba suları, madenler, taş ocakları, kum ve çakıl istihsal yerleri, tuğla ve kiremit harmanları, tuzlalar ve bunların mütemmim cüzileri ve teferruatı; 2. Voli mahalleri ve dalyanlar; 3. Gayrimenkullerin, ayrı olarak kiraya verilen mütemmim cüzileri ve teferruatı ile bilumum tesisatı demirbaş eşyası ve döşemeleri; 4. Gayrimenkul olarak tescil edilen haklar; 5. (3239 sayılı Kanunun 55'inci maddesiyle değişen bent) Arama, işletme ve imtiyaz hakları ve ruhsatları, ihtira beratı (İhtira beratının mucitleri veya kanunî mirasçıları tarafından kiralanmasından doğan kazançlar, serbest meslek kazancıdır.), alameti farika, marka, ticaret unvanı, her türlü teknik resim, desen, model, plan ile sinema ve televizyon filmleri, ses ve görüntü bantları, sanayi ve ticaret ve bilim alanlarında elde edilmiş bir tecrübeye ait bilgilerle gizli bir formül veya bir imalat usulü üzerindeki kullanma hakkı veya kullanma imtiyazı gibi haklar (Bu hakların kullanılması için gerekli malzeme ve teçhizat bedelleri de gayrimenkul sermaye iradı sayılır.); 6. (202 sayılı Kanunun 35'inci maddesiyle değişen bent) Telif hakları (bu hakların, müellifleri veya bunların kanuni mirasçıları tarafından kiralanmasından doğan kazançlar, serbest meslek kazancıdır); 7. (202 sayılı Kanunun 35'inci maddesiyle değişen bent) Gemi ve gemi payları (Motorlu olup olmadıklarına ve tonilatolarına bakılmaz) ile bilumum motorlu tahmil ve tahliye vasıtaları; 8. (3239 sayılı Kanunun 55'inci maddesiyle değişen bent) Motorlu nakli ve cer vasıtaları, her türlü motorlu araç, makine ve tesisat ile bunların eklentileri. (3239 sayılı Kanunun 55'inci maddesiyle değişen fıkra) Yukarıda yazılı mallar ve haklar ticarî veya zirai bir işletmeye dahil bulunduğu takdirde bunların iratları ticarî veya zirai kazancın tespitine müteallik hükümlere göre hesaplanır. (3239 sayılı Kanunun 55'inci maddesiyle değişen fıkra) Tüccarlara ait olsa dahi, işletmeye dahil bulunmayan gayrimenkullerle haklar hakkında bu bölümdeki hükümler uygulanır. (2361 sayılı Kanunun 49'uncu maddesiyle değişen fıkra) Vakfın gelirinden hizmet karşılığı olmayarak alınan hisseler ile zirai faaliyete bilfiil iştirak etmeksizin sadece üründen pay alan arazi sahiplerinin gelirleri bu kanunun uygulanmasında gayrimenkul sermaye iradı addolunur.

@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "193 GELİR VERGİSİ KANUNU"
+gib_kanun_id: 433
+gib_madde_id: 7274
+madde: "Ek Madde 3 Yatırım İndiriminin Konusu ve Nispeti"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/madde/7274
+gib_guncelleme: 2025-04-09T09:58:56
+alindi: 2026-11-23
+---
+
+# 193 sayılı GELİR VERGİSİ KANUNU — Ek Madde 3 Yatırım İndiriminin Konusu ve Nispeti
+
+( 4842 sayılı Kanunun 37/1 -c maddesiyle yürürlükten kaldırılmıştır Yürürlük; 24.04.2003)(*) (*)(4842 sayılı Kanunla yürürlükten kalkmadan önceki ek madde) (4108 sayılı Kanunun 17'nci maddesiyle değişen madde Geçerlilik; 1.1.1995) Yatırım indirimine, kaynağı ne olursa olsun, ek 2' nci maddede yazılı şartları haiz bulunan yatırımlarla ilgili harcamalardan; bina, makina, tesisat, araç (sadece işletmenin esas faaliyet konusu ile ilgili olanlar) ve benzeri amortismana tabi aktif değerlerin yeni olanlarının maliyet bedelleri esas teşkil eder. Aktif değerlerin yeni olmasından maksat, bunların yurt içinde veya dışında daha önce hiçbir şekilde kullanılmamış bulunmasıdır. Yurt dışında kullanılmış olsa dahi Hazine Müsteşarlığı'nca uygun görülen makina ve tesislerin ithali halinde, bu aktif kıymetler yatırım indirimi uygulaması bakımından yeni addolunur. Personel lojmanları inşası (kalkınmada öncelikli yörelerde yapılanlar hariç) ve tefrişi, arazi veya arsa tedariki, yedek parça temini, esas proje dışında münferit tesisat, makina, araç mübayaası için yapılan harcamalara yatırım indirimi uygulanmaz. İnşa edilmiş olarak veya inşa halinde satın alınan binaların satın alma bedeli üzerinden yatırım indirimi yapılmaz. Petrol Kanunu'na göre yürütülen arama ve sondaj faaliyetleri için yapılan ve aktifleştirilen harcamalardan, ilgili bakanlığın görüşü alınmak suretiyle, Maliye Bakanlığı'nca belirlenenler, yatırım indirimi uygulaması bakımından yatırım harcaması sayılır. (4369 sayılı Kanunun 30'uncu maddesiyle değişen fıkra Yürürlük; 1.1.1999) Yatırım indirimi oranı, yatırım tutarının % 40'ıdır. Bakanlar Kurulu bu oranı kalkınma planı ve yıllık programlarda özel önem taşıdığı belirtilen sektörlerde yapılan yatırımlar için % 100'e, 250 milyon ABD Doları karşılığı Türk Lirasını aşan sınai yatırımlarda % 200'e kadar artırmaya veya kanuni orandan az olmamak üzere yeniden tespit etmeye yetkilidir. Bu oran, organize sanayi bölgelerinde ve kalkınmada öncelikli yörelerde % 100 olarak uygulanır. (1) Bakanlar Kurulu'nca tespit edilen yeni oranlar, Bakanlar Kurulu Kararı'nın Resmî Gazete'de yayımlandığı tarihten itibaren yapılan harcamalara uygulanır. (1) (Ek 3'üncü maddenin 5'inci fıkrasının değişmeden önceki şekli) Yatırım indiriminin nispeti, yatırım miktarının % 30'udur. Bakanlar Kurulu bu oranı, kalkınmada öncelikli yöreler ile kalkınma planı ve yıllık programlarda özel önem taşıdığı belirtilen sektörlerde yapılan yatırımlar için % 100 oranına kadar artırmaya veya kanunî orandan az olmamak üzere yeniden tespit etmeye yetkilidir.

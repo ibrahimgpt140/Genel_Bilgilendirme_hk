@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "4737 ENDÜSTRİ BÖLGELERİ KANUNU (ENDÜSTRİ BÖLGELERİ KANUNU VE ORGANİZE SANAYİ BÖLGELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN)"
+gib_kanun_id: 478
+gib_madde_id: 9798
+madde: "Geçici Madde 1"
+kaynak: https://gib.gov.tr/mevzuat/kanun/478/madde/9798
+gib_guncelleme: 2025-04-11T14:07:27
+alindi: 2026-11-23
+---
+
+# 4737 sayılı ENDÜSTRİ BÖLGELERİ KANUNU (ENDÜSTRİ BÖLGELERİ KANUNU VE ORGANİZE SANAYİ BÖLGELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN) — Geçici Madde 1
+
+(DEĞİŞİK: geçici 1 inci madde, 01/07/2004 - 5195/7 mad.) Bu Kanunun yürürlük tarihinden önce 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümlerine göre kurulmuş bulunan mevcut organize sanayi bölgelerinden, sanayi parsellerinin tahsis oranı yüzde elliden düşük olan, tahsisi yapılmamış parsellerin bütünlük arz edecek şekilde bir arada bulunduğu, alt yapı inşaatı tamamlanmış ya da tamamlanmak üzere olan karayolu, demiryolu, liman, havaalanı yakınlığı gibi alt yapı avantajı bulunan bölgelerden Bakanlıkça uygun görülenler, Bakanlar Kurulunca endüstri bölgesi olarak ilan edilebilirler. Endüstri bölgesi kurulması talep edilen yerlerde, organize sanayi bölgelerinin bulunması durumunda, öncelikle mevcut organize sanayi bölgeleri bu madde uyarınca kısmen veya tamamen endüstri bölgesi olarak ilan edilebilirler. Endüstri bölgesi olarak ilan edilen organize sanayi bölgelerinin yönetim ve işletmesinden, ildeki sanayi odası ya da sanayi ve ticaret odası bünyesinde kurulacak Endüstri Bölgeleri İşletme Müdürlüğü sorumlu olur. Organize sanayi bölgesi yönetimi, endüstri bölgesi ilanına ilişkin Bakanlar Kurulu kararının Resmi Gazetede yayımlanmasını takiben bir yıl içinde, bölge yönetimini Endüstri Bölgesi İşletme Müdürlüğüne devreder. Bu bölgelerde, bu Kanun ile tanımlanan yatırımı gerçekleştiren yatırımcılar, bu Kanun ile getirilen teşviklerden yararlanırlar. Organize sanayi bölgelerinin endüstri bölgelerine dönüştürülebilmesi için aranan kriterler, Bakanlık tarafından hazırlanarak yürürlüğe konulacak yönetmelikle düzenlenir.

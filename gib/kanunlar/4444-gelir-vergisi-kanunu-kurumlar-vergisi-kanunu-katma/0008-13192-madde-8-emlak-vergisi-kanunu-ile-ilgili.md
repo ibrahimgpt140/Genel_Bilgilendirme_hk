@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "4444 GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, VERGİ USUL KANUNU, EMLAK VERGİSİ KANUNU, BELEDİYE GELİRLERİ KANUNU VE HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 608
+gib_madde_id: 13192
+madde: "Madde 8 Emlak Vergisi Kanunu İle İlgili"
+kaynak: https://gib.gov.tr/mevzuat/kanun/608/madde/13192
+gib_guncelleme: 2025-03-24T21:59:47
+alindi: 2026-11-23
+---
+
+# 4444 sayılı GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, VERGİ USUL KANUNU, EMLAK VERGİSİ KANUNU, BELEDİYE GELİRLERİ KANUNU VE HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Madde 8 Emlak Vergisi Kanunu İle İlgili
+
+29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununun 29 uncu maddesi aşağıdaki şekilde değiştirilmiş ve aynı Kanuna aşağıdaki geçici madde eklenmiştir. Vergi değeri Mad de 29- Vergi değeri, emlak vergisinin mevzuuna giren bina ve arazinin rayiç bedelidir. Rayiç bedel, bina ve arazinin beyan tarihindeki normal alım satım bedelidir. Genel beyan dönemi veya vergi değerini tadil eden sebeplerin mevcudiyeti halinde mükellefiyetin başlangıç yılını takip eden yıllarda emlak vergisi matrahı, her yıl, bir önceki yıl matrahının Vergi Usul Kanunu hükümleri uyarınca aynı yıl için tespit edilen yeniden değerleme oranının yarısı nispetinde artırılmak suretiyle bulunur. Bakanlar Kurulu, üçüncü fıkrada belirtilen artış oranını sıfıra kadar indirmeye veya yeniden değerleme oranına kadar artırmaya yetkilidir. Bakanlar Kurulu bu yetkisini, 2464 sayılı Belediye Gelirleri Kanununun 95 inci maddesi uyarınca belirlenen belediye grupları i tibariyle farklı oranlar tespit etmek suretiyle de kullanabilir. Ek süreye rağmen beyanname verilmemesi halinde, 32 nci maddeye göre belirlenen matrahlar hakkında da, ilgili bulunduğu yılı takip eden yıllarda aynı işlem yapılır. Bu maddenin uygulanması ile ilgili usulleri belirlemeye Maliye Bakanlığı yetkilidir. Geçici Madde 18- 1998 genel beyan dönemi veya 1998 yılında ortaya çıkan ve vergi değerini tadil eden nedenlerle emlak vergisi beyannamesi veren mükelleflerden dileyenler 1/11/1999 - 31/12/1999 tarihleri arasında yeniden beyanda bulunabilirler. Bu suretle beyanda bulunacak mükelleflerin bildirecekleri değerler; 1998 yılı genel beyan dönemine ilişkin olarak 1319 sayılı Emlak Vergisi Kanununun 10 ve 20 nci maddeleri hükümlerine göre hesaplanan asg a ri ölçüde tespit edilen vergi değerinin, bu yıla ait yeniden değerleme oranında artırılması suretiyle bulunacak değerden düşük olamaz. Düşük olması halinde mükellefin beyanı, bu şekilde hesaplanan değere yükseltilir. Mükellefler tarafından bu şekilde yeniden beyan olunacak bina, arsa ve arazi matrahları dikkate alınarak, mükelleflerin 1999 yılı için tahakkuk eden vergilerinde her hangi bir düzeltme yapılmaz. Mükelleflerin 2000 yılı emlak vergisi matrahları, bu madde hükümleri de dikkate alınmak suretiyle bu Kanunun değişik 29 uncu maddesi hükümlerine göre belirlenir.

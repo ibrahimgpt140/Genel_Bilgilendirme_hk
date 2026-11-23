@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+gib_kanun_id: 638
+gib_madde_id: 13683
+madde: "Geçici Madde 21 Geçici Maddeler(*)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/madde/13683
+gib_guncelleme: 2025-04-14T11:07:38
+alindi: 2026-11-23
+---
+
+# 5422 sayılı KURUMLAR VERGİSİ KANUNU — Geçici Madde 21 Geçici Maddeler(*)
+
+1) (3946 sayılı Kanununun 33 üncü maddesiyle eklenen madde Yürürlük; 1.1.1993) Kurumlar Vergisi Kanunu'nun bu kanunla değişiklik yapılmadan önceki 8'inci maddesinin; a) 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17 ve 19 numaralı bent hükümleri, kurumların 1993 yılına ilişkin olup 1.1.1994 tarihinden itibaren beyanı gereken kazançları hakkında da uygulanır. b) 14 numaralı bent hükmü, kurumların 1.1.1994 tarihinden önce devraldıkları kurumlara ait zararlar hakkında da uygulanır. c) 15 numaralı bendinde yer alan istisna hükmünün uygulanmasına, 1.1994 tarihinden önce faaliyete geçen işletmelerin kazançları hakkında istisna süresi sona erinceye kadar devam olunur. d) 18 numaralı bent hükmü, 1.1.1994 tarihinden önce satışı yapılan (vadeli satışlar dahil) iştirak hisselerinin veya gayrimenkullerinin satışından doğan kazançlar hakkında da uygulanır. 2) Kurumlar Vergisi Kanunu'nun bu kanunla değişiklik yapılmadan önceki 25'inci maddesi hükmü ile bu kanunla yürürlükten kaldırılan Mükerrer 25 ve geçici 19'uncu maddeleri hükümleri, kurumların 1993 yılına ilişkin olup, 1.1.1994 tarihinden itibaren beyanı gereken kazançları hakkında da uygulanır. 3) (4684 sayılı Kanunun 18/E maddesiyle kaldırılmıştır Yürürlük; 03.07.2001) (***) 4. (4108 sayılı Kanunun 39 uncu maddesiyle kaldırılmıştır.) (**) (*) (2362 sayılı Kanunun 20'inci maddesiyle 5422 sayılı Kanunun 4, 1137 sayılı Kanunun 3, 192 sayılı Kanunun 1'inci geçici maddesi yürürlükten kaldırılmıştır.) (**) (Kaldırılmadan önceki şekli) 4.Yurt dışında yapılan inşaat, onarma, montaj işlerinden ve teknik hizmetlerden sağlanan ve 1.1.1994-31.12.1999 tarihleri arasında Türkiye'de genel netice hesaplarına intikal ettirilen kazançlardan mahallinde ödenen benzeri vergilerin, Türkiye'de tarh olunan kurumlar vergisinden indirilmesi sonucu artan kısım, Gelir Vergisi Kanununun 94 üncü maddesinin ikinci fıkrasının 6 numaralı bendinin (b) alt bendine göre yapılan vergi tevkifatına mahsup edilir. Ancak, mahsup edilecek miktar, yabancı memleketlerde elde edilen kazançlar üzerinden bu Kanunun 25 inci ve Gelir Vergisi Kanununun 94 üncü maddesinin (6/b) bendine göre hesaplanan vergilerin toplamından fazla olamaz. (***) (4684 sayılı Kanunla kaldırılmadan önceki şekli) 3. İştirak edilen şirketlerden bedelsiz alınan hisse senetlerinin satışında maliyet bedeli, bu hisse senetlerinin itibari değeri esas alınarak Gelir Vergisi Kanunu'nun 38'inci maddesinin sonuna bu kanunun 8 inci maddesi ile eklenen fıkra hükmüne göre artırılmak suretiyle bulunur. Bu hüküm 31.12.2010 tarihine kadar uygulanır.

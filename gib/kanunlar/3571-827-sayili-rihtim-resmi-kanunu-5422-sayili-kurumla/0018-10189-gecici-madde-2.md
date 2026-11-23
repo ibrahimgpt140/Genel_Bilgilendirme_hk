@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "3571 827 SAYILI RIHTIM RESMİ KANUNU, 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 193 SAYILI GELİR VERGİSİ KANUNU, 3065 SAYILI KATMA DEĞER VERGİSİ KANUNU, 3074 SAYILI AKARYAKIT TÜKETİM VERGİSİ KANUNU VE 79 SAYILI MİLLİ KORUNMA SUÇLARININ AFFINA, MİLLİ KORUNMA TEŞKİLAT, SERMAYE VE FON HESAPLARININ TASFİYESİNE VE BAZI HÜKÜMLER İHDASINA DAİR KANUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASI İLE 7.11.1984 TARİHLİ VE 3074 SAYILI, 2.3.1984 TARİHLİ VE 2985 SAYILI, 7.11.1985 TARİHLİ VE 3238 SAYILI VE 29.5.1986 TARİHLİ VE 3294 SAYILI KANUNLARIN BAZI MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN"
+gib_kanun_id: 496
+gib_madde_id: 10189
+madde: "Geçici Madde 2"
+kaynak: https://gib.gov.tr/mevzuat/kanun/496/madde/10189
+gib_guncelleme: 2025-04-10T16:01:14
+alindi: 2026-11-23
+---
+
+# 3571 sayılı 827 SAYILI RIHTIM RESMİ KANUNU, 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 193 SAYILI GELİR VERGİSİ KANUNU, 3065 SAYILI KATMA DEĞER VERGİSİ KANUNU, 3074 SAYILI AKARYAKIT TÜKETİM VERGİSİ KANUNU VE 79 SAYILI MİLLİ KORUNMA SUÇLARININ AFFINA, MİLLİ KORUNMA TEŞKİLAT, SERMAYE VE FON HESAPLARININ TASFİYESİNE VE BAZI HÜKÜMLER İHDASINA DAİR KANUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASI İLE 7.11.1984 TARİHLİ VE 3074 SAYILI, 2.3.1984 TARİHLİ VE 2985 SAYILI, 7.11.1985 TARİHLİ VE 3238 SAYILI VE 29.5.1986 TARİHLİ VE 3294 SAYILI KANUNLARIN BAZI MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN — Geçici Madde 2
+
+Kamu menfaatine yararlı dernekler ile Bakanlar Kurulunca vergi muafiyeti tanınan vakıfların iktisadi işletmelerinin, bu Kanunun yayımı tarihine kadar adlarına tarh ve tebliğ edilmiş olduğu halde (uzlaşmaya varılmış olanlar hariç) henüz ödenmemiş vergi asıllarını % 10 fazlasıyla ve ihtilaf yaratmamak, yaratılmış ihtilaftan vazgeçmek kaydıyla bu Kanunun yürürlük tarihini izleyen aybaşından itibaren aylık eşit taksitlerle ve iki yıl içinde ödemeleri halinde, ödenen bu vergilere isabet eden gecikme zammı, gecikme faizi ve vergi cezaları ile 6183 sayılı Kanunun 51 inci maddesi uyarınca amme alacağının vergi aslına dönüşen kısmının tahsilinden vazgeçilir. Birinci fıkrada belirtilen işletmelerin, bu Kanunun yayımı tarihinden önceki dönemlerle ilgili olarak adlarına daha sonra tarh edilecek olan vergi asıllarını % 10 fazlasıyla ihtilaf yaratmamak kaydıyla tebliğ tarihini izleyen aybaşından itibaren aylık eşit taksitlerle ve iki yıl içinde ödemeleri halinde, ödenen bu vergilere isabet eden gecikme zammı, gecikme faizi ve vergi cezalarının tahsilinden vazgeçilir. Yukarıdaki hükümlerden faydalanarak taksitlerini ödemekte olan mükelleflerin herhangi bir taksidi zamanında ödememeleri halinde, ödenmeyen miktarlar bu maddeye göre belirlenen vade tarihi esas alınarak 6183 sayılı Kanuna göre gecikme zammı ile birlikte tahsil edilir. Bu maddenin uygulanmasına ait usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.

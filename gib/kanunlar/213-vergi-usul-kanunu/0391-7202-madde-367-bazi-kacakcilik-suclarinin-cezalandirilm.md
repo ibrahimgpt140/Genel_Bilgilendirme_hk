@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "213 VERGİ USUL KANUNU"
+gib_kanun_id: 434
+gib_madde_id: 7202
+madde: "Madde 367 Bazı Kaçakçılık Suçlarının Cezalandırılmasında Usul"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/madde/7202
+gib_guncelleme: 2025-03-24T19:27:23
+alindi: 2026-11-23
+---
+
+# 213 sayılı VERGİ USUL KANUNU — Madde 367 Bazı Kaçakçılık Suçlarının Cezalandırılmasında Usul
+
+(Değişik: 23/1/2008 - 5728/280 md.) (Değişik birinci fıkra : 23/7/2010 - 6009/13 md.) Yaptıkları inceleme sırasında 359 uncu maddede yazılı suçların işlendiğini tespit eden Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları tarafından ilgili rapor değerlendirme komisyonunun mütalaasıyla doğrudan doğruya ve vergi incelemesine yetkili olan diğer memurlar tarafından ilgili rapor değerlendirme komisyonunun mütalaasıyla vergi dairesi başkanlığı veya defterdarlık tarafından keyfiyetin Cumhuriyet başsavcılığına bildirilmesi mecburidir. 359 uncu maddede yazılı suçların işlendiğine sair suretlerle ıttıla hasıl eden Cumhuriyet başsavcılığı hemen ilgili vergi dairesini haberdar ederek inceleme yapılmasını talep eder. Kamu davasının açılması, inceleme neticesinin Cumhuriyet başsavcılığına bildirilmesine talik olunur. (7318 sayılı kanunun 5 inci maddesiyle eklenen fıkra. Yürürlük: 30.04.2021) 359 uncu maddenin (7423 sayılı kanunun 2 nci maddesiyle değişen ibare. Yürürlük: 01.01.2024) (ç) ve (d) fıkralarında (**)yazılı suçların işlendiğinin inceleme sırasında tespiti halinde incelemenin tamamlanması beklenmeksizin, sair suretlerle öğrenilmesi halinde ise incelemeye başlanmaksızın Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları tarafından bu tespitlere ilişkin rapor düzenlenir ve rapor değerlendirme komisyonunun mütalaasıyla birlikte keyfiyet Cumhuriyet başsavcılığına bildirilir. Kamu davasının açılması için incelemenin tamamlanması şartı aranmaz. (7394 sayılı kanunun 5 inci maddesiyle eklenen fıkra. Yürürlük: 15.04.2022) 359 uncu maddede yazılı suçlara ilişkin yürütülmekte olan soruşturma veya kovuşturmalarda mütalaaya konu fiilin, başka bir kişi tarafından veya başka bir kişiyle birlikte gerçekleştirildiğinin ortaya çıkması durumunda, bu kişi bakımından kamu davası açılması için rapor düzenlenmesi ve mütalaa verilmesi şartı aranmaz. 359 uncu maddede yazılı suçlardan dolayı cezaya hükmedilmesi, vergi ziyaı cezası veya usulsüzlük cezalarının ayrıca uygulanmasına engel teşkil etmez. (İptal fıkra: Anayasa Mahkemesi'nin 4/11/2021 tarihli ve E.: 2019/4, K.: 2021/78 sayılı Kararı ile.) (*) (*) ( Anayasa Mahkemesi'nin 4/11/2021 tarihli ve E.: 2019/4, K.: 2021/78 sayılı Kararı ile iptal fıkra) Ceza mahkemesi kararları, bu Kanunun dördüncü kitabının ikinci kısmında yazılı vergi cezalarını uygulayacak makam ve mercilerin işlem ve kararlarına etkili olmadığı gibi, bu makam ve mercilerce verilecek kararlar da ceza hâkimini bağlamaz. (**) Değişmeden önceki şekli : (ç) fıkrasında

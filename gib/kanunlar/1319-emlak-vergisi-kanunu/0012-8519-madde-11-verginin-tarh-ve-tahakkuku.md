@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+gib_kanun_id: 447
+gib_madde_id: 8519
+madde: "Madde 11 Verginin Tarh ve Tahakkuku"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/madde/8519
+gib_guncelleme: 2025-03-24T20:45:48
+alindi: 2026-11-23
+---
+
+# 1319 sayılı EMLAK VERGİSİ KANUNU — Madde 11 Verginin Tarh ve Tahakkuku
+
+( 4751 sayılı Kanunun 2/B maddesiyle değişen madde Yürürlük: 9.4.2002 ) Bina vergisi, ilgili belediye tarafından; a) Dört yılda bir defa olmak üzere takdir işlemlerinin yapıldığı yılı takip eden bütçe yılının Ocak ve Şubat aylarında, b) 33 üncü maddenin (1) ilâ (7) numaralı fıkralarında yazılı vergi değerini tadil eden sebeplerle bildirim verilmesi icabeden hallerde, vergi değerini tadil eden sebeplerin meydana geldiği bütçe yılını takip eden yılın Ocak ayı içinde, vergi değerini tadil eden sebep yılın son üç ayı içinde vuku bulmuş ve bildirim, vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılda verilmiş ise bildirimin verildiği tarihte, c) 33 üncü maddenin (8) numaralı fıkrasında yazılı hallerde, takdir işlemlerinin yapıldığı bütçe yılını takip eden yılın Ocak ve Şubat aylarında, 29 uncu maddeye göre hesaplanan vergi değeri esas alınarak yıllık olarak tarh olunur. Bildirim posta ile gönderilmiş ise vergi, bildirim verme süresinin son gününü takip eden yedi gün içinde tarh olunur. Bu suretle tarh olunan vergiler, tarh edilen tarihte tahakkuk etmiş sayılır ve mükellefe bir yazı ile bildirilir. Yapılan tarh ve tahakkuku takip eden yıllarda, 29 uncu maddeye göre tespit edilen vergi değeri üzerinden hesaplanan bina vergisi, her bütçe yılının başından itibaren o yıl için tahakkuk etmiş sayılır. Bir il veya ilçe hududu içerisinde birden fazla belediye olması halinde, belediye ve mücavir alan sınırları dışında bulunan binaya ait bina vergisini tarha yetkili olacak belediye, ilgili valiler tarafından belirlenir. (*) (*)Değişmeden önceki şekli (3239 sayılı Kanunun 103'üncü maddesiyle değişen fıkra) Bina Vergisi ilgili belediye tarafından mükellefin beyanı üzerine yıllık olarak tarh ve tahakkuk ettirilir. Şu kadar ki, bir il veya ilçe hududu içerisinde birden fazla belediye olması halinde belediye ve mücavir alan sınırları dışında bulunan binalara ait Bina Vergisini tarha yetkili olacak belediye ilgili valiler tarafından belirlenir. (4369 sayılı Kanunun 66'ıncı maddesiyle değişen fıkra Yürürlük; 29.7.1998) Genel beyan dönemi veya vergi değerini tadil eden sebeplerin doğması halinde mükellefiyetin başlangıç yılını takip eden yıllarda, bu Kanunun 29 uncu maddesinin üçüncü fıkrasına göre tespit edilen matrah üzerinden hesaplanan bina vergisi, her takvim yılının başından itibaren o yıl için tahakkuk etmiş sayılır. (**) (** ) (Değişmeden önceki şekli) Yapılan bu tarh ve tahakkuku takibeden yıllarda, Bina Vergisi her bütçe yılının birinci (Dahil) ayından itibaren o yıl için tahakkuk etmiş sayılır.

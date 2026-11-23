@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "193 GELİR VERGİSİ KANUNU"
+gib_kanun_id: 433
+gib_madde_id: 7475
+madde: "Geçici Madde 44 (4369 sayılı Kanunun 54'üncü maddesiyle eklenen geçici madde)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/madde/7475
+gib_guncelleme: 2025-04-09T12:26:59
+alindi: 2026-11-23
+---
+
+# 193 sayılı GELİR VERGİSİ KANUNU — Geçici Madde 44 (4369 sayılı Kanunun 54'üncü maddesiyle eklenen geçici madde)
+
+(4369 sayılı Kanunun 54'üncü maddesiyle eklenen geçici madde Yürürlük; 29.7.1998) Götürü usule tabi ticaret erbabından Gelir Vergisi Kanunu'nun bu kanunla değişik 47 ve 48' inci maddelerinde sayılan basit usule tabi olmanın genel ve özel şartlarını 31.12.1998 tarihi itibariyle taşıyanlar 1.1.1999 tarihinden itibaren basit usule tabi olurlar. Götürü usulde vergilendirilmekte iken 1.1.1999 tarihinden itibaren basit usulde vergilendirilme kapsamına alınan mükellefler, bu tarih itibariyle mevcut mallarını alış bedelleri ile, bu bedel bilinmiyorsa kendileri tarafından tespit edilecek rayiç bedelleri ile değerlemeye tabi tutarlar. 1.1.1999-31.12.2003 tarihleri arasındaki kazançlara uygulanmak üzere, münhasıran belediye teşkilatı bulunmayan köylerde (belediyelerin mücavir alan sınırları hariç) işyerlerinde faaliyet gösteren ve basit usulde vergilendirilen mükelleflerin 103' üncü maddede yazılı tarifenin birinci gelir diliminin yarısını aşmayan kazançları için beyanname verilmez. Basit usule tabi mükelleflerin 2001 yılı sonuna kadar, ilgili vergilendirme dönemleri için beyan edecekleri safi kazanç tutarlarının, Gelir Vergisi Kanunu'nun bu kanunla değişmeden önceki 46' ncı maddesine göre intibak ettirildikleri derecelerin bulundukları yöreler itibariyle belirlenen ve 1998 yılında uygulanacak olan götürü safi kazanç tutarlarının 1999, 2000 ve 2001 yıllarında yeniden değerleme oranında artırılan tutarlarını aşması halinde; beyan edilen tutarlar yerine bu tutarlar vergilemeye esas alınır. Bu uygulamada takvim yılı içinde işe başlayan veya işi bırakan mükelleflerin götürü safi kazancı, işe başlanılan ay hariç tutulmak ve işin bırakıldığı ay tam sayılmak suretiyle hesaplanan tutardır. Bu süre içinde 48 inci maddede yazılı hadler aranmaz. 31.12.2001 tarihinde basit usule tabi olmanın şartlarını topluca taşıyanların kazançları, şartları taşıdıkları sürece takip eden yıllarda da basit usule göre tesbit edilir. Yapılan denetimlerde, bir takvim yılı içinde iki defa belge almadığı veya vermediği tespit edilen mükellefler intibak ettirildikleri derecenin bir üstünden, birinci dereceden vergilendirilenler ise intiak ettirilen derecelere ait safi kazanç tutarları % 50 oranında artırılmak suretiyle bulunan tutar üzerinden vergilendirilirler.

@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+gib_kanun_id: 638
+gib_madde_id: 13672
+madde: "Geçici Madde 10 Geçici Maddeler(*)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/madde/13672
+gib_guncelleme: 2025-04-14T11:04:54
+alindi: 2026-11-23
+---
+
+# 5422 sayılı KURUMLAR VERGİSİ KANUNU — Geçici Madde 10 Geçici Maddeler(*)
+
+(3332 sayılı Kanunun 14'üncü maddesiyle değişen fıkra) Tam mükellefiyete tabi kurumların iştirak hisselerinin veya gayrimenkullerinin 1987, 1988 ve 1989 yıllarında satışından doğan kazançların tamamının satışın yapıldığı yılda kurum sermayesine ilave edilmesi, anonim şirketler yönünden sermaye arttırımı nedeniyle çıkarılacak hisse senetlerinin nama yazılı olması ve en geç altı ay içinde borsaya kote ettirilmesi şartıyla sermayeye eklenen bu kazançlar, Kurumlar Vergisi'nden müstesnadır. Şu kadar ki, vadeli satış nedeniyle kazancın tamamının aynı yıl içinde ödenmiş sermayeye dönüştürülememesi halinde ödenen nakdî sermaye kadar istisnadan yararlanılır ve bu satıştan doğan kazanca ulaşıncaya kadar her yıl ödenen nakdî sermaye kurum kazancından indirilir. Satışın yapıldığı yılı takip eden ikinci yılın sonunda ödenmiş sermayeye dönüştürelemeyen kazanç için istisna uygulanmaz. Bu kazançların sermayeye ilavesi kar dağıtımı sayılmaz ve sarmayeye ilave edilen kazançlar Gelir Vergisi Kanunu'nun 94'üncü maddesine göre tevkifata tabi tutulmaz. Şu kadar ki, menkul kıymet veya gayrimenkul ticareti ile uğraşan kurumların, bu amaçla ellerinde bulundurdukları değerlerin satışından elde ettikleri kazançlar istisna kapsamı dışındadır. (3239 sayılı Kanunun 80'inci maddesiyle değişen fıkra) Sermayeye eklenen bu kazançların beş yıl içinde herhangi bir surette işletmeden çekilmesi veya işletmelerin tasfiyesi halinde, bu kazançlar o yılın kazancı sayılarak vergiye tabi tutulur. (3239 sayılı Kanunun 80'inci maddesiyle eklenen fıkra) 1163 sayılı Kooperatifler Kanunu'na ya da özel kanunlarına göre kurulan kooperatifler, ortağın sahip olabileceği en fazla pay tutarı dikkate alınmaksızın istisnadan yararlanırlar. Ancak iştirak hisseleriyle gayrimenkullerin satşından doğan kazanç sermayeye eklenmeyerek özel bir fon hesabında gösterilir ve hiç bir şekilde ortaklara dağıtılmaz, kooperatifin amaçlarının gerçekleştirilmesinde kullanılır. (3332 sayılı Kanunun 14'üncü maddesiyle eklenen fıkra) Bu maddenin uygulanması dolayısıyla borsaya kote ettirilecek hisse senetleri için, hisse senetlerini çıkaran şirketin kârlılığı aranmaz. Türk Ticaret Kanunu'nun 391' inci madesinin bu suretle gerçekleştirilecek sermaye artırımına aykırı hükümleri uygulanmaz. (**) (*) (2362 sayılı Kanunun 20'inci maddesiyle 5422 sayılı Kanunun 4, 1137 sayılı Kanunun 3, 192 sayılı Kanunun 1'inci geçici maddesi yürürlükten kaldırılmıştır.) (**) ( 1990 Mali Yılı Bütçe Kanununun 60/b maddesi ile bu madde hükmü 1990 yılında da uygulanır.)

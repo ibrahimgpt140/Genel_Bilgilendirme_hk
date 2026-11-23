@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "4444 GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, VERGİ USUL KANUNU, EMLAK VERGİSİ KANUNU, BELEDİYE GELİRLERİ KANUNU VE HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 608
+gib_madde_id: 13197
+madde: "Madde 13 Değiştirilen İbareler"
+kaynak: https://gib.gov.tr/mevzuat/kanun/608/madde/13197
+gib_guncelleme: 2025-03-24T21:59:50
+alindi: 2026-11-23
+---
+
+# 4444 sayılı GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, VERGİ USUL KANUNU, EMLAK VERGİSİ KANUNU, BELEDİYE GELİRLERİ KANUNU VE HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Madde 13 Değiştirilen İbareler
+
+A) 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 64 üncü maddesinin birinci fıkrasında yer alan "...asgari ücretin yıllık brüt tutarıdır..." ibaresi "...asgari ücretin yıllık brüt tutarının % 25'idir..." şeklinde, B) 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun Geçici 10 uncu maddesinde yer alan "…geçici 23 üncü maddesi…" ibaresi "…geçici 28 inci maddesi…" şeklinde; C) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun; 1-86 ncı maddesinin üçüncü fıkrasında yer alan "... 361 inci madde ..." ibaresi, "... mükerrer 355 inci madde ...", 2-112 nci maddesinin 3 numaralı bendinde yer alan "…2577 sayılı İdari Yargılama Usulü Kanununun 27 nci maddesinin 8 numaralı bendi…" ibaresi, "…2577 sayılı İdari Yargılama Usulü Kanununun 27 nci maddesinin 3 numaralı fıkrası…, 3-Mükerrer 115 inci maddesinde yer alan "…250.000 lirayı (250.000 lira dahil)…" ibaresi "…1.000.000 lirayı (1.000.000 lira dahil) …", 4-232 nci maddesinin üçüncü fıkrasında yer alan "Yukarıdakiler dışında kalanların, birinci ve ikinci sınıf tüccarlardan ve defter tutmak mecburiyetinde olan çiftçilerden ..." ibaresi, "Yukarıdakiler dışında kalanların, birinci ve ikinci sınıf tüccarlar ile kazancı basit usulde tespit edilenlerden ve defter tutmak mecburiyetinde olan çiftçilerden ...", aynı fıkrada yer alan "…15.000.000 lirayı geçmesi veya bedeli 15.000.000 liradan …" ibaresi "…50.000.000 l i rayı geçmesi veya bedeli 50.000.000 liradan …", 5-235 inci maddesinin birinci fıkrasında yer alan "Birinci ve ikinci sınıf tüccarlar ile ..." ibaresi, "Birinci ve ikinci sınıf tüccarlar ile kazancı basit usulde tespit edilenler ve ...", 6-242 nci maddesinin son fıkrasında yer alan "Gelir Vergisi Kanununa göre sair kazanç ve iratları üzerinden ..." ibaresi, "Gelir Vergisi Kanununa göre diğer kazanç ve iratları üzerinden ...", 7-243 üncü maddesinde yer alan "Zirai işletmeleri, Gelir Vergisi Kanununun 12 nci maddesine göre hasılat bildirimine esas alınan ölçülerin üstünde bulunan çiftçiler, ..." ibaresi, "Zirai işletmeleri, Gelir Vergisi Kanununun 54 üncü maddesinde yazılı işletme büyüklüklerinin üstünde bulunan çiftçiler, ...", şeklinde, Değiştirilmiştir.

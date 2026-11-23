@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "193 GELİR VERGİSİ KANUNU"
+gib_kanun_id: 433
+gib_madde_id: 7509
+madde: "Geçici Madde 80 (6322 sayılı Kanunun 12 nci maddesiyle eklenen geçici madde)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/madde/7509
+gib_guncelleme: 2025-04-09T11:07:48
+alindi: 2026-11-23
+---
+
+# 193 sayılı GELİR VERGİSİ KANUNU — Geçici Madde 80 (6322 sayılı Kanunun 12 nci maddesiyle eklenen geçici madde)
+
+(700 Sayılı KHK'nın 45 inci maddesiyle değişen ibare; Yürürlük:09.07.2018) Cumhurbaşkanınca(*) istatistiki bölge birimleri sınıflandırması, kişi başına düşen milli gelir veya sosyoekonomik gelişmişlik düzeyleri dikkate alınmak suretiyle belirlenen illerde yapılacak yatırımlar için Ekonomi Bakanlığı tarafından düzenlenen yatırım teşvik belgeleri kapsamında; bu maddenin yürürlüğe girdiği tarihten itibaren 31/12/2023 tarihine kadar gerçekleşen yatırımlarda teşvik belgelerinde öngörülen ve fiilen istihdam edilen işçilerin ücretlerinin sanayi kesiminde çalışan 16 yaşından büyük işçiler için uygulanan asgari ücretin brüt tutarına tekabül eden kısmı üzerinden hesaplanan gelir vergisi, yatırımın kısmen veya tamamen işletilmesine başlanılan tarihten itibaren 10 yıl süreyle verilecek muhtasar beyanname üzerinden tahakkuk eden vergiden terkin edilir. Birinci fıkraya istinaden terkin edilecek verginin hesabında, öncelikle 32 nci maddede yer alan asgari geçim indirimi dikkate alınır. Yatırımın tamamlanamaması veya teşvik belgesinin iptal edilmesi halinde, gelir vergisi stopajı teşviki uygulaması nedeniyle terkin edilen vergiler, vergi ziyaı cezası uygulanmaksızın gecikme faiziyle birlikte tahsil olunur. Yatırımın faaliyete geçmesinden önce devri halinde devralan, aynı koşulları yerine getirmek kaydıyla gelir vergisi stopajı teşviki uygulamasından yararlanır. Yatırımın kısmen veya tamamen faaliyete geçmesinden sonra devri halinde, gelir vergisi stopajı teşviki uygulamasından devir tarihine kadar devreden, devir tarihinden sonra ise kalan süre kadar devralan yararlanır. Bu madde kapsamındaki gelir vergisi stopajı teşvikinden yararlananlar, diğer kanunlarda yer alan aynımahiyetteki hükümlerden ayrıca yararlanamazlar. Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir. (*) Değişmeden önceki şekli: Bakanlar Kurulunca

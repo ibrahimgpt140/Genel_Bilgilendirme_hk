@@ -7,6 +7,7 @@ kaynak bağlantısı, GİB güncelleme zamanı), ardından ilgili maddeler, ekle
 
 | Klasör | İçerik |
 |---|---|
+| `kanunlar/` | GİB'deki 221 kanun, madde madde (7.005 madde; maddelerin önceki halleriyle) |
 | `tebligler/` | Tüm GİB tebliğleri (konsolide metinler dahil) |
 | `sirkuler/` | Tüm sirkülerler |
 | `ozelgeler/` | Özelgeler — son 5 yıl (kayan pencere; 5 yılı dolan özelge ⚠ ile işaretlenir) |

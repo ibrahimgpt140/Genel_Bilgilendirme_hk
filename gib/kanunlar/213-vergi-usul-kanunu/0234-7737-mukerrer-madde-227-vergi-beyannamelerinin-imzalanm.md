@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "213 VERGİ USUL KANUNU"
+gib_kanun_id: 434
+gib_madde_id: 7737
+madde: "Mükerrer Madde 227 Vergi Beyannamelerinin İmzalanması ve Yeminli Malî Müşavir Tasdik Raporları"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/madde/7737
+gib_guncelleme: 2025-04-08T23:29:17
+alindi: 2026-11-23
+---
+
+# 213 sayılı VERGİ USUL KANUNU — Mükerrer Madde 227 Vergi Beyannamelerinin İmzalanması ve Yeminli Malî Müşavir Tasdik Raporları
+
+(Ek : 24/06/1994-4008/6 md.) Maliye Bakanlığı 1.Vergi beyannamelerinin 3568 sayılı Kanuna göre yetki almış serbest muhasebeci, serbest muhasebeci mali müşavir veya yeminli mali müşavirler tarafından da imzalanması mecburiyetini getirmeye, bu mecburiyeti beyanname çeşitleri, mükellef grupları ve faaliyet konuları itibariyle ayrı ayrı uygulatmaya, 2. Vergi kanunlarında yer alan muafiyet, istisna, yeniden değerleme, zarar mahsubu ve benzeri hükümlerden yararlanılmasını Maliye Bakanlığınca belirlenen şartlara uygun olarak yeminli mali müşavirlerce düzenlenmiş tasdik raporu ibraz edilmesi şartına bağlamaya, 3. (Ek: 23/7/2010-6009/10 md.) Vergi kanunları kapsamındaki yeminli mali müşavirlik tasdik işlemlerini elektronik ortamda gerçekleştirmeye ve tasdike konu işlemleri mükellef grupları, faaliyet ve tasdik konuları itibarıyla ayrı ayrı belirlemeye ve uygulatmaya, Bu uygulamalara ilişkin usul ve esasları belirlemeye yetkilidir. Yukarıdaki fıkra hükümlerine göre beyannameyi imzalayan veya tasdik raporunu düzenleyen meslek mensupları, imzaladıkları beyannamelerde veya düzenledikleri tasdik raporlarında yer alan bilgilerin defter kayıtlarına ve bu kayıtların dayanağını teşkil eden belgelere uygun olmamasından dolayı ortaya çıkan vergi ziyaına bağlı olarak salınacak vergi, ceza, gecikme faizlerinden mükellefle birlikte müştereken ve müteselsilen sorumlu tutulurlar. 2 numaralı bent hükmüne göre yararlanılması yeminli mali müşavirlerce düzenlenmiş tasdik raporu ibrazı şartına bağlanan konularda, (7338 sayılı kanunun 22 nci maddesiyle değişen ibare; Yürürlük:26.10.2021) tasdik raporunun zamanında ibrazı şarttır. (*) (7338 sayılı kanunun 22 nci maddesiyle eklenen cümle; Yürürlük:26.10.2021) Şu kadar ki, tasdik raporunun zamanında ibraz edilmemesi halinde, mükellefe tebliğ edilmek şartı ile 60 günlük bir mühlet verilir. (7338 sayılı kanunun 22 nci maddesiyle eklenen cümle; Yürürlük:26.10.2021) Tasdik raporunun bu süre içinde de ibraz edilmemesi halinde mükellefler tasdike konu haktan yararlanamazlar. Ancak, Maliye Bakanlığı tasdik raporlarının ibraz süresini iki aya kadar uzatmaya yetkilidir. (Ek: 25/5/1995 - 4108/5 md.) 233 Sayılı Kanun Hükmünde Kararname hükümlerine tabi olan Kamu İktisadi Teşebbüsleri ile bunlara ait müesseseler hakkında bu madde hükümleri uygulanmaz. (*)Değişmeden önceki şekli: tasdik raporunu zamanında ibraz etmeyen mükellefler tasdike konu hakdan yararlanamazlar.

@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "4684 BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN"
+gib_kanun_id: 502
+gib_madde_id: 10335
+madde: "Geçici Madde 1"
+kaynak: https://gib.gov.tr/mevzuat/kanun/502/madde/10335
+gib_guncelleme: 2025-04-10T16:14:47
+alindi: 2026-11-23
+---
+
+# 4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN — Geçici Madde 1
+
+8.7.1948 tarihli ve 5254 sayılı Muhtaç Çiftçilere Ödünç Tohumluk Verilmesi Hakkında Kanun uyarınca tohumluk dağıtımıyla ilgili olarak yapılan uygulamaların, birden fazla bakanlık eliyle yürütülmesi sonucunda bu uygulamaların muhatapları ve tarafları arasında oluşmuş ve/veya oluşacak olan görev zararı kapsamındaki borç alacak ilişkisinin tasfiyesi aşağıda yer alan esas ve usuller dahilinde gerçekleştirilir: a) 5254 sayılı Kanunun; 1) 9 uncu maddesi kapsamında, Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin 31.12.2000 tarihi itibarıyla Hazineden olan alacakları ve Bankaca 2000 yılına ilişkin olarak dağıtılan tohumlukların bedeli, 2) 10 uncu maddesi kapsamında, Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin 31.12.2000 tarihi itibarıyla Tarım ve Köyişleri Bakanlığından olan alacakları ile bu alacaklara ilişkin 31.12.2000-31.5.2001 tarihleri arasında tarımsal kredi faiz oranı üzerinden yürütülecek faiz tutarı, bu faize ilişkin banka sigorta muamele vergisi ve masraflar ile Bankaca 2000 yılına ilişkin olarak dağıtılan tohumluk bedeline yönelik olarak 2000 yılında kullandırılan tohumluk bedeline kullandırıldığı tarihten 31.5.2001 tarihine kadar tarımsal kredi faiz oranı üzerinden yürütülecek faiz tutarı, Hazinece, görev zararı kapsamında 2001 Malî Yılı Bütçe Kanununun ilgili hükümleri çerçevesinde ödenerek tasfiye edilir. b) 5254 sayılı Kanunun 9 uncu maddesi kapsamında ödenmeyen alacaklarla ilgili olarak Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketince Maliye Bakanlığına devredilen senet bedellerinin takip ve tahsiline anılan Bakanlıkça 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri dahilinde devam olunur. 2000 yılına ilişkin olarak tohumluk borçlarını vadesinde ödemeyenlerin borçları da Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketince, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri dahilinde takip ve tahsil edilmek üzere Maliye Bakanlığına devrolunur. c) Tasfiye edilen hesaplar Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketi nezdinde bankalar yeminli murakıplarınca denetlenir. Avans mahiyetinde tasfiye edilen tutarlar ile denetlenen tutarlar arasında farklılıklar bulunması halinde, Hazine Müsteşarlığının bağlı olduğu Bakanın onayı ile belirlenecek süre, usul ve esaslar kapsamında, farklılıklardan doğan yükümlülükler yerine getirilir. Görev zararlarının tasfiye edilmesini müteakiben doğabilecek farklılıklar nedeniyle Hazineye ait yükümlülükler, ilgili yıl bütçesine bu amaçla konulacak ödenek ile karşılanır.

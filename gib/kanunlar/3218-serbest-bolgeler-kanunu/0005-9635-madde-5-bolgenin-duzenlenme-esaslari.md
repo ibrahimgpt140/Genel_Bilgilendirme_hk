@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "3218 SERBEST BÖLGELER KANUNU"
+gib_kanun_id: 471
+gib_madde_id: 9635
+madde: "Madde 5 Bölgenin Düzenlenme Esasları"
+kaynak: https://gib.gov.tr/mevzuat/kanun/471/madde/9635
+gib_guncelleme: 2025-03-24T21:05:11
+alindi: 2026-11-23
+---
+
+# 3218 sayılı SERBEST BÖLGELER KANUNU — Madde 5 Bölgenin Düzenlenme Esasları
+
+Serbest bölge ilan edilen yerlerde ihtiyaç duyulacak arazi ve tesisler kamulaştırma Kanunu hükümlerine göre sağlanabilir. (6772 sayılı kanunun 1 inci maddesiyle eklenen cümleler; Yürürlük 24.02.2017) (703 Sayılı KHK'nın 192 nci maddesiyle değişen ibare; Yürürlük:09.07.2018) Cumhurbaşkanı(****) bu arazi ve tesislerin acele kamulaştırılmasını kararlaştırabilir. Arazi ve tesislerin kamulaştırılmasında kamulaştırma bedelleri ile kamulaştırma işlemlerinin gerektirdiği diğer giderlerin, kamulaştırma talebinde bulunan işletici tarafından karşılanması (703 Sayılı KHK'nın 192 nci maddesiyle değişen ibare; Yürürlük:09.07.2018) Cumhurbaşkanınca(*****) kararlaştırılabilir. (5810 sayılı kanunun 3 üncü maddesiyle değişen fıkra; Yürürlük 25.11.2008) Yerli veya yabancı gerçek veya tüzel kişiler (6772 sayılı kanunun 8 inci maddesiyle değişen ibare; Yürürlük 24.02.2017) Ekonomi Bakanlığından(***) ruhsat almak kaydıyla serbest bölgelerde faaliyette bulunabilirler. Serbest bölgelerde faaliyette bulunan yatırımcı kullanıcılara Hazinenin özel mülkiyetinde bulunan arazi, arsa ve binalar kiralanabilir veya bunlar üzerinde 49 yıla kadar irtifak hakkı tesis edilebilir. (6772 sayılı kanunun 1 inci maddesiyle kaldırılan cümle; Yürürlük 24.02.2017) (**) (6772 sayılı kanunun 1 inci maddesiyle eklenen cümleler; Yürürlük 24.02.2017) Devletin hüküm ve tasarrufu altındaki yerler ile bunlar üzerinde bulunan bina ve tesisler kiralanabilir veya aynı süre ile kullanma izni verilebilir. Türk Silahlı Kuvvetlerinin kullanımına tahsis edilen arazi ve binalar için Milli Savunma Bakanlığının görüşü alınır. Arazisi özel mülkiyete ait serbest bölgelerde kullanıcı niteliğini haiz olmayan mülk sahipleri, aidat ve benzeri bölge katılım bedelleri bakımından kullanıcılarla aynı mali yükümlülüklere tabidir. (*) Serbest bölgede arazinin kullanımı, yapı ve tesislerin projelendirilmesi, kurulması ve kullanılmasıyla ilgili diğer bütün izinler ve ruhsatlar bölge müdürlüğünce verilir ve denetlenir. Serbest bölgelerin asayiş hizmetleri polis tarafından yerine getirilir. (*)(Değişmeden önceki fıkra) Yerli veya yabancı gerçek veya tüzelkişiler Devlet Planlama Teşkilatı Müsteşarlığı'ndan ruhsat almak kaydıyla serbest bölgede faaliyette bulunabilir. (**)Kaldırılmadan önceki şekli: Devletin hüküm ve tasarrufu altındaki yerler için aynı süre ile kullanma izni verilebilir. (***)Değişmeden önceki şekli: Dış Ticaret Müsteşarlığından (****) Değişmeden önceki şekli: Bakanlar Kurulu (*****) Değişmeden önceki şekli: Bakanlar Kurulunca

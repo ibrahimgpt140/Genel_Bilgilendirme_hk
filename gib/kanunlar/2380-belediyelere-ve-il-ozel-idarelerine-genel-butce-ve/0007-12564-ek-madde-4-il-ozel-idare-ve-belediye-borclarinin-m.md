@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "2380 BELEDİYELERE VE İL ÖZEL İDARELERİNE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN"
+gib_kanun_id: 578
+gib_madde_id: 12564
+madde: "Ek Madde 4 İl Özel İdare ve Belediye Borçlarının Mahsubu"
+kaynak: https://gib.gov.tr/mevzuat/kanun/578/madde/12564
+gib_guncelleme: 2025-04-11T15:05:21
+alindi: 2026-11-23
+---
+
+# 2380 sayılı BELEDİYELERE VE İL ÖZEL İDARELERİNE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN — Ek Madde 4 İl Özel İdare ve Belediye Borçlarının Mahsubu
+
+(3986 sayılı Kanunun 17'nci maddesiyle eklenen ek madde) 1. İl Özel İdareleri ve belediyelerin, bunlara ait tüzelkişilerin veya bunlara bağlı müstakil bütçeli ve kamu tüzelkişiliğini haiz kuruluşların, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip edilen borçları, Maliye Bakanlığının talebi üzerine İller Bankası tarafından bu Kanun hükümlerine göre söz konusu idarelere dağıtılacak paylardan kesilerek belirlenecek hesaplara nakden veya hesaben ödenir. 2. İl Özel İdareleri ve belediyelerin, bunlara ait tüzelkişilerin veya bunlara bağlı müstakil bütçeli ve kamu tüzelkişiliğini haiz kuruluşların, Hazinenin kefalet veya garanti ettiği dış kredilerden kaynaklanan ve Hazinece kefil veya garanti eden sıfatıyla anılan kurum ve kuruluşlar adına alacaklısına yapılan ödemelerden doğan borçları ile Hazine ve Dış ticaret Müsteşarlığı'nın bağlı olduğu Bakan'ın onayı ile ülkenin dış kredi itibarı gözetilerek Hazine ve Dış Ticaret Müsteşarlığı tarafından alacaklısına ödenen diğer dış kredi ödemelerinden doğan borçları da dahil her ne sebeple olursa olsun Hazineye olan mevcut ve doğacak borçları ile Sosyal Sigortalar Kurumuna olan prim borçları Hazine ve Dış Ticaret Müsteşarlığı veya Sosyal Sigortalar Kurumunun ta lebi üzerine İller Bankası tarafından bu Kanun hükümlerine göre söz konusu idarelere dağıtılacak paylardan kesilerek belirlenecek hesaplara nakden veya hesaben ödenir. 3. Büyükşehir Belediyelerinin, bunlara ait tüzelkişilerin veya bunlara bağlı müstakil bütçeli ve kamu tüzelkişiliğini haiz kuruluşların, yukarıdaki bentler kapsamına giren mevcut veya doğacak borçları, Maliye Bakanlığı, Hazine ve Dış Ticaret Müsteşarlığı ve Sosyal Sigortalar Kurumunun talebi üzerine İller Bankası tarafından yine aynı bentler hükümleri dairesinde, bu idarelere 27.6.1984 tarih ve 3030 sayılı Kanun hükümlerine göre ayrılacak paylardan kesilerek mahsup edilir. 4. 1, 2 ve 3 numaralı bent hükümlerinin uygulamasında bu idarelerin 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip edilen borçları öncelik hakkına sahiptir. 5. Bu maddenin 1, 2 ve 3 numaralı bentlerine göre yapılacak kesintilerin oranlarını alacakların nev'ine göre ayrı ayrı veya topluca belirlemeye, mahsup işlemlerine ilişkin diğer usul ve esasları tespit etmeye Maliye Bakanlığı yetkilidir.

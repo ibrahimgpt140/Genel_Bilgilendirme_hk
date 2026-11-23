@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "5177 MADEN KANUNUNDA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN"
+gib_kanun_id: 631
+gib_madde_id: 13490
+madde: "Geçici Madde 2"
+kaynak: https://gib.gov.tr/mevzuat/kanun/631/madde/13490
+gib_guncelleme: 2025-04-11T16:04:29
+alindi: 2026-11-23
+---
+
+# 5177 sayılı MADEN KANUNUNDA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN — Geçici Madde 2
+
+Bu Kanun ile Maden Kanunu kapsamına alınan madenler için Taşocakları Nizamnamesine göre verilmiş yürüyen ruhsatların intibakı yapılır. Bu Kanunun yürürlüğe girdiği tarih itibarı ile Taşocakları Nizamnamesine göre süresi içinde temdit talebinde bulunulmuş ruhsatlar ile ruhsat almak üzere yapılan yeni müracaatlar, il özel idarelerince müracaat tarihinde yürürlükte olan Taşocakları Nizamnamesine göre sonuçlandırılarak uygun görülenler ruhsatlandırılır. Valilikler, il sınırları içindeki taşocağı ruhsatlarını bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde, hak sahibi, sınır koordinatları, cinsi, süresi, ruhsat alanı, mülkiyet durumu ve diğer bilgileri ile birlikte Maden İşleri Genel Müdürlüğüne bildirmek zorundadır. Ruhsat sahipleri, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde harç ve teminatını yatırarak; I. Grup (a) bendi madenler için faaliyet alanının koordinatları ile il özel idarelerine, diğer grup madenler için işletme projesi ile Maden İşleri Genel Müdürlüğüne müracaat ederek Maden Kanununa intibak yaptırmak zorundadır. Taşocağı ruhsatlarının faaliyet koordinatları ile ruhsat koordinatlarında farklılık olması durumunda, valiliklerin görüşü alınarak intibak yapılır. Çimento, kireç fabrikası veya asfalt üretim tesisinden herhangi birine sahip olan taşocağı ruhsat sahipleri, bu Kanuna intibaklarında mevcut taşocağı intibak alanlarını bir defaya mahsus olmak üzere azami 50 hektarı geçmeyecek şekilde genişletme talebinde bulunabilir. Genişletme talebinde bulunulan alanda maden veya mermer ruhsatı bulunmaması halinde, genişletme elli hektarı geçmeyecek şekilde Maden İşleri Genel Müdürlüğü tarafından uygun görülecek alan kadar yapılır. Süresinde intibakı yaptırılmayan ruhsatlar iptal edilir.

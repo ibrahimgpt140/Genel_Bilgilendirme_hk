@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "5234 BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN"
+gib_kanun_id: 510
+gib_madde_id: 10659
+madde: "Geçici Madde 6"
+kaynak: https://gib.gov.tr/mevzuat/kanun/510/madde/10659
+gib_guncelleme: 2025-04-10T16:46:08
+alindi: 2026-11-23
+---
+
+# 5234 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN — Geçici Madde 6
+
+25.3.2004, 28.3.2004 tarihlerinde Erzurum-Ilıca, Aşkale, Çat ve çevresinde, 2.7.2004 tarihinde Ağrı'da meydana gelen depremler ile 4-5-6.3.2004 tarihlerinde Ilıca ve çevresindeki sel afeti sonucunda Bayındırlık ve İskân Bakanlığı fen heyetleri tarafından belediye sınırları ile mücavir alanlarında belirlenen ağır hasarlı veya yıkık konut ve işyeri sahibi afetzedeler için Bayındırlık ve İskân Bakanlığı tarafından konut, her türlü alt yapı ve sosyal donatılar ile toplu işyeri yapılabilir veya yaptırılabilir. Orta hasarlı olduğu belirlenen konut veya işyeri sahibi afetzedelere ise, Bayındırlık ve İskân Bakanlığı tarafından, güçlendirme projesi ve onarım işleri için kredi verilebilir. Bayındırlık ve İskân Bakanlığı bu işler için gerektiğinde Başbakanlık Toplu Konut İdaresi Başkanlığının görevlendirilmesi için talepte bulunabilir. Söz konusu kredilerin kullandırılması, geri dönüşü ve yapılacak konut-işyerlerinin afetzedelere tahsisine ilişkin usul ve esaslar, Bayındırlık ve İskân Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir. Yukarıdaki fıkranın uygulanması için gerekli malî kaynak; bütçeden aktarılacak ödenekler, 7269 sayılı Kanunun 20.6.2001 tarihli ve 4684 sayılı Kanunla değişik 33 üncü maddesinde belirlenen esaslar çerçevesinde toplanan nakdî bağış ve yardımlar ile yurt dışından sağlanan her türlü dış kredi ve hibelerden sağlanır. Afetzedelere konut ve işyeri yapımı amacıyla tespit edilen alanlarda arsa ve arazi temininde 15.5.1959 tarihli ve 7269 sayılı Kanunun 21, ek 9 ve ek 10 uncu maddelerindeki hükümler uygulanır. Bu şekilde temin ve tahsis edilen arsa ve araziler görevlendirilmesi halinde Toplu Konut İdaresi Başkanlığına bedelsiz olarak devredilmiş sayılır. Bu araziler üzerinde imar mevzuatındaki kısıtlamalara bağlı kalmaksızın harita, her türlü imar ve parselasyon planları Bayındırlık ve İskân Bakanlığınca yapılır veya yaptırılır ve onanır. Bu madde uyarınca temin edilecek arsa ve araziler ile yeniden inşa edilecek veya onarılacak alt ve üst yapılarla ilgili; harita, imar ve parselasyon planları, ifraz, tevhit, tescil, ihale, sözleşme, ruhsatname ve sair işlemler, verilecek beyanname, taahhütname ve sözleşmeler ile tapu ve kadastro müdürlükleri dahil tüm kamu kurum ve kuruluşlarınca yapılacak işlemler her türlü vergi, resim, harç, fon, pay ve ücretten muaftır. Bu madde kapsamında gerçekleştirilecek işler, 4734 sayılı Kamu İhale Kanununun 21 inci maddesinin birinci fıkrasının (b) bendi kapsamında sayılır.

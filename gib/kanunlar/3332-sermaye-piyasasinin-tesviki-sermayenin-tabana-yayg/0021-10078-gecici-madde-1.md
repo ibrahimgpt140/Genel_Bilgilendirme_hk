@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "3332 SERMAYE PİYASASININ TEŞVİKİ, SERMAYENİN TABANA YAYGINLAŞTIRILMASI VE EKONOMİYİ DÜZENLEMEDE ALINACAK TEDBİRLER İLE 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 213 SAYILI VERGİ USUL KANUNU VE 3182 SAYILI BANKALAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 491
+gib_madde_id: 10078
+madde: "Geçici Madde 1"
+kaynak: https://gib.gov.tr/mevzuat/kanun/491/madde/10078
+gib_guncelleme: 2025-04-10T15:07:59
+alindi: 2026-11-23
+---
+
+# 3332 sayılı SERMAYE PİYASASININ TEŞVİKİ, SERMAYENİN TABANA YAYGINLAŞTIRILMASI VE EKONOMİYİ DÜZENLEMEDE ALINACAK TEDBİRLER İLE 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 213 SAYILI VERGİ USUL KANUNU VE 3182 SAYILI BANKALAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Geçici Madde 1
+
+Bu Kanunun 5 inci maddesinin (c), (h), (k), (m) ve (n) bentleri dışındaki hükümleri ile 6, 8 ve 15 inci maddeleri hükümleri 31/12/1989 tarihinde yürürlükten kalkar.

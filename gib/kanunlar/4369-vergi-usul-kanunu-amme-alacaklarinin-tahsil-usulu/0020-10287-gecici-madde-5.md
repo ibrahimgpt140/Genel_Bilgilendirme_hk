@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "4369 VERGİ USUL KANUNU, AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN, GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, GİDER VERGİLERİ KANUNU, EMLAK VERGİSİ KANUNU, VERASET VE İNTİKAL VERGİSİ KANUNU, MOTORLU TAŞITLAR VERGİSİ KANUNU, DAMGA VERGİSİ KANUNU, HARÇLAR KANUNU, 3505 SAYILI KANUN, KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN, BELEDİYE GELİRLERİ KANUNU, 1318 VE 4208 SAYILI KANUNLAR İLE 178 SAYILI MALİYE BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME VE 190 SAYILI GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 500
+gib_madde_id: 10287
+madde: "Geçici Madde 5"
+kaynak: https://gib.gov.tr/mevzuat/kanun/500/madde/10287
+gib_guncelleme: 2025-04-10T16:08:55
+alindi: 2026-11-23
+---
+
+# 4369 sayılı VERGİ USUL KANUNU, AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN, GELİR VERGİSİ KANUNU, KURUMLAR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU, GİDER VERGİLERİ KANUNU, EMLAK VERGİSİ KANUNU, VERASET VE İNTİKAL VERGİSİ KANUNU, MOTORLU TAŞITLAR VERGİSİ KANUNU, DAMGA VERGİSİ KANUNU, HARÇLAR KANUNU, 3505 SAYILI KANUN, KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN, BELEDİYE GELİRLERİ KANUNU, 1318 VE 4208 SAYILI KANUNLAR İLE 178 SAYILI MALİYE BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME VE 190 SAYILI GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Geçici Madde 5
+
+a) Gelir ve kurumlar vergisi mükelleflerinin, 213 sayılı Vergi Usul Kanununun 156 ncı maddesinde tanımı yapılan ve 1/1/1998 tarihi itibariyle faaliyette bulunan işyerlerinde, 1/6/1998 tarihinden önce ilgili idareye vermiş oldukları son 4 aylık sigorta prim bordrolarında bildirdikleri işçi sayısına ilave olarak bu Kanunun yayımını izleyen beşinci ayın sonuna kadar işe aldıkları ve fiilen çalıştırdıkları işçilerden sendika üyesi olanların ücretlerinden, bu suretle işe başlanılan aydan itibaren 36 ay süreyle kesilen ve beyan edilerek tahakkuk ettirilen gelir ve damga vergileri, beyanname verme süresini izleyen ikinci yılın aynı döneminde ödenir. b) (a) fıkrasındaki esaslar dahilinde işe alınan işçiler için, işe başlanılan aydan itibaren 12 ay süreyle, 506 sayılı Sosyal Sigortalar Kanununun 72 ve 73 üncü maddeleri uyarınca prime esas kazançları üzerinden tahakkuk ettirilecek primlerin işveren hissesinin yarısı Hazinece karşılanır. Ödeme usul ve esasları Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığının bağlı bulunduğu Devlet Bakanlığınca müştereken belirlenir. c) (a) fıkrasındaki esaslar dahilinde işe alınan işçiler için, 9/3/1988 tarihli ve 3417 sayılı Kanun hükümleri 3 yıl süreyle uygulanmaz.

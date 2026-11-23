@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+gib_kanun_id: 447
+gib_madde_id: 8521
+madde: "Madde 15 Geçici Muaflıklar"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/madde/8521
+gib_guncelleme: 2025-03-24T20:45:51
+alindi: 2026-11-23
+---
+
+# 1319 sayılı EMLAK VERGİSİ KANUNU — Madde 15 Geçici Muaflıklar
+
+( 1610 sayılı Kanunun 8'inci maddesiyle değişen şekli) Aşağıda yazılı arazi geçici olarak Arazi Vergisinden muaftır: a) Özel kanunlarına göre, Devlet ormanları dışında insan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazi 50 yıl; b) Topra k ve topoğrafik özellikleri ve erozyon gibi sınırlayıcı faktörler sebebiyle kültür bitkilerinin yetişmelerini engelliyen araziden; bataklık, turbiyer, çorak, makilik, çalılık, taşlık ve sair haller dolayısiyle üzerinde tarım yapılamayan sahaların, ıslah t e dbirleriyle yeniden tarıma elverişli hale getirilmesinde 10 yıl; c) Teknik, ekonomik ve ekolojik bakımlardan gerekli şartları haiz olan arazide yeniden fidanla dikim veya aşılama veya yeniden yetiştirme suretiyle ağaçlık, meyvalık, bağ ve bahçe meydana getirilmesinde asgari 2 yıl, azami 15 yıl; d) Sanayi ve Teknoloji Bakanlığınca, organize sanayi bölgeleri için iktisap olunduğu veya bu bölgelere tahsis edildiği kabul edilen arazi (Sanayici lehine tapudaki tescilin yapılacağı tarihe kadar) (6761 Sayılı Kanunun 4 üncü Maddesiyle eklenen ibare; Yürürlük: 24.11.2016) , (700 Sayılı KHK'nın 59 uncu maddesiyle değişen ibare; Yürürlük:09.07.2018) Cumhurbaşkanınca(*) serbest bölge ilan edilen arazi (Kullanıcı lehine tapuda tescilin yapılacağı tarihe kadar). (6728 sayılı kanunun 40 ıncı maddesiyle eklenen fıkra;Yürürlük 01.01.2017) e) Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için iktisap olunan veya tahsis edilen araziler Yatırım Teşvik Belgesi süresince. Geçici olarak mua flıktan istifade için arazinin bu maddede yazılı cihetlere tahsis edilmiş olduğunun ilgili vergi dairesine bütçe yılı içinde bildirilmesi şarttır. Muafiyetler, arazinin tayin olunan cihetlere tahsis edildiği yılı takibeden bütçe yılından başlar. Bütçe yılı içinde bildirim yapılmazsa muafiyet bildirimin yapıldığı yılı takibeden bütçe yılından muteber olur. Bu takdirde bildirimin yapıldığı bütçe yılının sonuna kadar geçen yıllara ait muafiyet hakkı düşer. (a) ve (b) fıkralarında yazılı muafiyet konusu arazinin bu fıkralarda gösterilen cihetlere tahsis edilmiş olup olmadığının şartları ile (c) fıkrasına göre geçici muafiyet verilecek haller, bunların şartları ve muafiyet süreleri (700 Sayılı KHK'nın 59 uncu maddesiyle değişen ibare; Yürürlük:09.07.2018) Cumhurbaşkanı kararı ile belli edilir ve (**) yürürlüğe konulur. (*) Değişmeden önceki şekli: Bakanlar Kurulunca (**) Değişmeden önceki şekli: Tarım ve Orman Bakanlıkları ile Türkiye Ziraat Odaları Birliğinin mütalaası alın m ak suretiyle Maliye Bakanlığınca belli edilir ve Bakanlar Kurulu kararı ile

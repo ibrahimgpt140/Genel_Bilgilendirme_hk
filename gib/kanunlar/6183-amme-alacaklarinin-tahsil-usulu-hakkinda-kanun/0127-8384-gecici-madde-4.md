@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+gib_kanun_id: 442
+gib_madde_id: 8384
+madde: "Geçici Madde 4"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/madde/8384
+gib_guncelleme: 2025-04-10T11:28:24
+alindi: 2026-11-23
+---
+
+# 6183 sayılı AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN — Geçici Madde 4
+
+(Ek: 6/3/1962 - 40/1 md.) Gelir, Kurumlar, dahilde alınan istihsal, nakliyat ve banka ve sigorta muameleleri vergilerinden, 1/1/1962 tarihinde vadesi geçmiş borcu bulunanlardan 48 inci maddeye göre yaptıkları tecil talepleri bu Kanunun yürürlüğe girmesinden önce reddedilmiş olanlar ile haklarında aynı madde uygulanmış bulunanların (İktisadi Devlet Teşebbüsleri hariç) bu Kanunun yürürlük tarihinden itibaren bir ay içinde tahsil dairesine yazı ile müracaat etmeleri şartı ile; son durumları yeniden incelenir. Bu inceleme sonunda, zor durumda bulundukları anlaşılanların, bakıye borçları (Bu Kanunun şümulüne giren borçlardan 1/1/1962 tarihi ile Kanunun yürürlük tarihi arasında cebren veya rızaen tahsilat yapılmış ise taksitlendirilmek suretiyle tecil edilecek miktar borç bakıyesidir.) Maliye Bakanlığınca, 48 inci maddedeki iki yıl kaydı ile bağlı olmaksızın; 1962 bütçe yılı sonunu tecavüz etmiyecek şekilde; taksitlendirilmek suretiyle münasip müddetle bir defaya mahsus olmak üzere tecil olunabilir. Kanunun teminat istenmesi, faiz aranması, haczedilmiş malların teminat yerine geçmesi, teminatın değiştirilmesi ve değerini kaybeden teminatın tamamlanması ile ilgili hükümleri mahfuzdur. Maliye Bakanlığı bu madde ile tanınan tecil yetkisini kısmen veya tamamen mahalli teşkilata devredebilir. Tecil şartlarına riayet edilmemesi; tahsil dairesince yapılacak yazılı tebliğ üzerine 15 gün içinde değerini kaybeden teminatın veya mahcuz malların tamamlanmaması veya yerine başkalarının gösterilmemesi hallerinde amme alacağı muaccel olur.

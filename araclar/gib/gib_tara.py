@@ -209,12 +209,94 @@ def tara(ozelge_bas):
     return degisen
 
 
+KANUN_LISTE = "https://gib.gov.tr/api/gibportal/mevzuat/kanun/filterList?page=0&size=1000&sortFieldName=priority&sortType=ASC"
+MADDE_LISTE = ("https://gib.gov.tr/api/gibportal/mevzuat/madde/findByKanunId?kanunId={}&status=2"
+               "&page=0&size=5000&sortFieldName=id&sortType=ASC")
+
+
+def _getir(url, govde=None):
+    for deneme in range(5):
+        try:
+            r = urllib.request.Request(url, data=govde, method="POST" if govde else "GET",
+                                       headers={"Content-Type": "application/json",
+                                                "User-Agent": "Mozilla/5.0 ymm-mevzuat-bankasi"})
+            with urllib.request.urlopen(r, timeout=180) as y:
+                return json.load(y)["resultContainer"]
+        except Exception as e:
+            print(f"  ! {url[:90]}: {e}; tekrar", file=sys.stderr)
+            time.sleep(3 * (deneme + 1))
+    raise RuntimeError(f"alınamadı: {url}")
+
+
+def _yaz_degisirse(yol, yeni):
+    if os.path.exists(yol):
+        eski = open(yol, encoding="utf-8").read()
+        if re.sub(r"\nalindi: .*", "", eski) == re.sub(r"\nalindi: .*", "", yeni):
+            return False
+    open(yol, "w", encoding="utf-8").write(yeni)
+    return True
+
+
+def kanunlari_tara():
+    """GİB'deki tüm kanunları madde madde gib/kanunlar/<no>-<ad>/ altına yazar."""
+    kok = os.path.join(KOK, "kanunlar")
+    os.makedirs(kok, exist_ok=True)
+    bugun = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    kanunlar = _getir(KANUN_LISTE, json.dumps({"status": 2, "deleted": False}).encode())["content"]
+    degisen, dizin, gecerli_klasor = [], [], set()
+    for kn in kanunlar:
+        no = (kn.get("kanunNo") or str(kn["id"])).strip()
+        ad = re.sub(r"<[^>]+>", " ", kn.get("title") or "").strip()
+        klasor = f"{slug(no, 12)}-{slug(ad, 50)}"
+        d = os.path.join(kok, klasor)
+        os.makedirs(d, exist_ok=True)
+        gecerli_klasor.add(klasor)
+        maddeler = _getir(MADDE_LISTE.format(kn["id"]))["content"]
+        maddeler.sort(key=lambda m: (m.get("priority") or 10**9, m["id"]))
+        gecerli, satirlar = set(), []
+        for sira, m in enumerate(maddeler, 1):
+            mb = re.sub(r"<[^>]+>", " ", m.get("title") or "").strip()
+            f = f"{sira:04d}-{m['id']}-{slug(mb, 50)}.md"
+            gecerli.add(f)
+            metin = metne(m.get("description")) or "_(Metin GİB portalında yok.)_"
+            yeni = "\n".join([
+                "---", "tur: Kanun maddesi", f"kanun: {json.dumps(no + ' ' + ad, ensure_ascii=False)}",
+                f"gib_kanun_id: {kn['id']}", f"gib_madde_id: {m['id']}",
+                f"madde: {json.dumps(mb, ensure_ascii=False)}", f"kaynak: {m.get('siteLink') or ''}",
+                f"gib_guncelleme: {(m.get('updated_at') or '')[:19]}", f"alindi: {bugun}", "---", "",
+                f"# {no} sayılı {ad} — {mb}", "", metin, ""])
+            if _yaz_degisirse(os.path.join(d, f), yeni):
+                degisen.append(("Kanun maddesi", (m.get("updated_at") or "")[:10], f"{no} s.K. {mb}",
+                                os.path.relpath(os.path.join(d, f), KOK)))
+            satirlar.append(f"| {sira} | [{mb.replace('|', '/')}]({f}) | {(m.get('updated_at') or '')[:10]} |")
+        for f in os.listdir(d):  # GİB'den kaldırılan / yeniden adlandırılan maddeler
+            if f.endswith(".md") and f != "README.md" and f not in gecerli:
+                os.remove(os.path.join(d, f))
+        rg = (kn.get("resmiGazeteTarih") or "")[:10]
+        _yaz_degisirse(os.path.join(d, "README.md"),
+                       f"# {no} sayılı {ad}\n\nKaynak: https://gib.gov.tr/mevzuat/kanun/{kn['id']} "
+                       f"(GİB). Resmî Gazete: {rg} / {kn.get('resmiGazeteSayi') or ''}. "
+                       f"{len(maddeler)} madde. GİB metni maddelerin önceki hallerini de içerir; "
+                       f"güncel resmî konsolide metin için depodaki `kanunlar/` klasörüne de bakınız.\n\n"
+                       "| Sıra | Madde | GİB güncelleme |\n|---|---|---|\n" + "\n".join(satirlar) + "\n")
+        dizin.append((no, ad, len(maddeler), klasor))
+        print(f"Kanun {no}: {len(maddeler)} madde", flush=True)
+    for k in os.listdir(kok):
+        if os.path.isdir(os.path.join(kok, k)) and k not in gecerli_klasor:
+            print(f"  uyarı: GİB listesinde artık olmayan klasör: {k}")
+    _yaz_degisirse(os.path.join(kok, "README.md"),
+                   f"# GİB kanunları ({len(dizin)} kanun, madde madde)\n\nKaynak: gib.gov.tr mevzuat → kanunlar.\n\n"
+                   "| Kanun No | Adı | Madde | Klasör |\n|---|---|---|---|\n" + "".join(
+                       f"| {n} | {a.replace('|', '/')} | {c} | [{k}]({k}/README.md) |\n" for n, a, c, k in dizin))
+    return degisen
+
+
 def calistir(ozelge_bas, gunluk):
     durum = durum_oku()
     sinir = bes_yil_siniri()
     ozelge_bas = ozelge_bas or min(durum.get("ozelge_baslangic", sinir), sinir)
     onceki_sinir = durum.get("bes_yil_siniri", sinir)
-    degisen = tara(ozelge_bas)
+    degisen = tara(ozelge_bas) + kanunlari_tara()
     # son taramadan bu yana 5 yılı dolan belgeler
     yeni_asan = []
     for tur in BES_YIL_TURLER:

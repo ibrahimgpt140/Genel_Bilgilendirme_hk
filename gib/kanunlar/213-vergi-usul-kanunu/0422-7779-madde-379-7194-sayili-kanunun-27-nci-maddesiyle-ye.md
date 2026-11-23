@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "213 VERGİ USUL KANUNU"
+gib_kanun_id: 434
+gib_madde_id: 7779
+madde: "MADDE 379 (7194 sayılı kanunun 27 nci maddesiyle yeniden düzenlenen madde; Yürürlük: 01.01.2020) Kanun yolundan vazgeçme:"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/madde/7779
+gib_guncelleme: 2025-05-09T11:00:31
+alindi: 2026-11-23
+---
+
+# 213 sayılı VERGİ USUL KANUNU — MADDE 379 (7194 sayılı kanunun 27 nci maddesiyle yeniden düzenlenen madde; Yürürlük: 01.01.2020) Kanun yolundan vazgeçme:
+
+Vergi/ceza ihbarnamesine karşı süresinde açılan davalarda, vergi mahkemesince verilen istinaf yolu açık kararlar ile bölge idare mahkemesince verilen temyiz yolu açık kararlarda (Danıştayın bozma kararı üzerine verilen kararlar hariç); 1. Kaldırılan vergi tutarının %60'ı, tasdik edilen vergi tutarının tamamı ile tasdik edilen vergi tutarına ilişkin vergi ziyaı cezasının %75'i, 2. Bağlı olduğu vergi aslı dava konusu yapılmayan veya 359 uncu maddede yazılı fiillere iştirak nedeniyle kesilen vergi ziyaı cezaları ile usulsüzlük ve özel usulsüzlük cezalarının kaldırılan tutarının %25'i ve tasdik edilen tutarının %75'i, mükellef için geçerli olan kanun yoluna başvuru süresi içerisinde, dava konusu vergi ve/veya vergi cezalarının tümü için kanun yolundan vazgeçildiğine ilişkin dilekçenin ilgili vergi dairesine verilmesi şartıyla kanun yolundan vazgeçme dilekçesinin verildiği tarih itibarıyla başkaca bir işleme gerek kalmaksızın tahakkuk eder. Bu şekilde tahakkuk eden tutarlar tahakkuk tarihinden itibaren bir ay içinde ödenir. Bu maddeye göre tahakkuk eden vergi ve/veya vergi cezalarının %80'inin, hesaplanacak gecikme faizi ile birlikte bu sürede tamamen ödenmesi şartıyla, vergi ve ceza tutarından %20 oranında indirim yapılır. Şu kadar ki, tasdik edilerek tahakkuk eden vergi tutarında indirim yapılmaz. İndirim hükmünden yararlanılabilmesi için dava konusu yapılan ve bu maddeye göre tahakkuk eden vergi ve/veya vergi cezaları ile gecikme faizlerinin birlikte bu fıkra kapsamında ödenmesi şarttır. Kanun yolundan vazgeçme dilekçesi vergi dairesince ilgili yargı merciine gönderilir ve bu dilekçenin vergi dairesine verildiği tarih kanun yolundan vazgeçme tarihi olarak kabul edilir. Kanun yolundan vazgeçilmesi hâlinde idarece de ihtilaf sürdürülmez. Kanun yolundan vazgeçildiği hâlde istinaf veya temyiz yoluna başvurulması durumunda ise bu başvurular incelenmez. Kanun yolundan vazgeçilen vergi ve vergi ziyaı cezası için bu maddeye göre yapılan tahakkuktan önce ödenen gecikme faizi ve gecikme zammı da dâhil tutarlar, bu madde hükmüne göre ödenecek tutarlara mahsup edilir. Bu madde uyarınca istinaf ve temyiz yolundan vazgeçilen davaya ilişkin kararlarda hükmedilen yargılama giderleri, avukatlık ücretleri ve fer'ileri karşılıklı olarak talep edilmez ve bu alacaklar için icra takibi yapılamaz. Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.

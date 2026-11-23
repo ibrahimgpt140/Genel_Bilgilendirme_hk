@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+gib_kanun_id: 442
+gib_madde_id: 8284
+madde: "Madde 18 İhtiyati tahakkukun neticeleri:"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/madde/8284
+gib_guncelleme: 2025-03-24T20:37:28
+alindi: 2026-11-23
+---
+
+# 6183 sayılı AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN — Madde 18 İhtiyati tahakkukun neticeleri:
+
+Hakkında 17 nci madde gereğince muamele yapılan mükellefin mezkür maddede yazılı vergi, resim ve cezalarından matrahı belli olanlar, itirazlı olsun olmasın, hesap edilen miktar üzerinden derhal tahakkuk ettirilir. Geçmiş yıllara ve cereyan etmekte olan yılın geçen aylarına ait matrahı henüz belli olmıyan ve 17 nci maddede sayılan vergi, resim ve cezaları geçici olarak ve harici karinelere göre takdir yolu ile tesbit ettirilen matrahlar üzerinden hesaplanır. Bu suretle hesap olunan vergi, resim ve bunların zam ve cezaları derhal tahakkuk ettirilir. Bu esasa göre tahakkuk eden vergi ve resimler ve bunların zam ve cezaları kanunlarına göre ödeme zamanları gelmeden tahsil olunmaz. Ancak bunlar için derhal ihtiyati haciz tatbik olunur. 17 nci maddenin 3 üncü bendine giren hallerde ihtiyati haciz muvazaalı teşebbüsten vergi ve resim bakımından faydalananların malları hakkında tatbik olunur. Bu maddedeki geçici takdirler, takdir komisyonları tarafından, talep tarihinden itibaren azami bir hafta içinde yapılır.

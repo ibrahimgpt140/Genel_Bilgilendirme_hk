@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+gib_kanun_id: 447
+gib_madde_id: 8540
+madde: "Madde 41 Kaldırılan Hükümler"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/madde/8540
+gib_guncelleme: 2025-03-24T20:46:12
+alindi: 2026-11-23
+---
+
+# 1319 sayılı EMLAK VERGİSİ KANUNU — Madde 41 Kaldırılan Hükümler
+
+(1446 sayılı Kanunun 3'üncü maddesiyle değişen şekli) Aşağıda yazılı kanunlarla diğer kanunlardaki bu kanuna uymayan hükümler 1/3/1972 tarihinden itibaren yürürlükten kaldırılmıştır. 1. 4/7/1931 tarihli ve 1837 sayılı Bina Vergileri Kanunu ile 1996, 2413, 2870, 2898, 4873, 5648, 5649, 6256, 206, 309, 177, 491, 496 sayılı Kanunlar ile ek ve tadilleri ve 1454 sayılı Kanunun 13'üncü maddesi ile 3202 sayılı Kanunun 5453 sayılı Kanunla değişik 5'inci maddesinin (b) fıkrası, 2871 sayılı Kanunun, 2, 3 ve 4'üncü ve 4040 sayılı Kanunun 489 sayılı Kanunla değişik 31'inci maddeleri ile 5237 sayılı Kanunun 4'üncü ve 5419 sayılı Kanunun 3'üncü maddeleri, 2. 27/6/1931 tarihli ve 1833 sayılı Arazi Vergisi Kanunu ile 2567, 3585, 3726, 4699, 5650, 6255, 483 sayılı Kanunlar ile ek ve tadilleri ve 3116 sayılı kanunun 5653 sayılı Kanunla değişik 86'ncı maddesinin arazi vergisi muafiyeti ile ilgili hükmü ve 3653 sayılı Kanunun 7'nci maddesi. 3. 213 sayılı Vergi Usul Kanununun 50, 51, 53 ila 62, 77 ve 78'inci maddeleri. 4. (2104 sayılı Kanunun 1'inci maddesiyle değişen bent) Özel kanunların bina ve arazi vergilerine ilişkin muaflık ve istisna hükümleri (31/5/1963 tarihli ve 244 sayılı Kanun gereğince yapılan milletlerarası antlaşmalarla tanınan muaflık ve istisna hükümleri ile, 11/7/1972 tarihli ve 1606 sayılı Kanunla tanınan muaflık hükümleri saklıdır).

@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "492 HARÇLAR KANUNU"
+gib_kanun_id: 439
+gib_madde_id: 8082
+madde: "Madde 28 Nispi harçlarda ödeme zamanı"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/madde/8082
+gib_guncelleme: 2026-05-14T17:59:35
+alindi: 2026-11-23
+---
+
+# 492 sayılı HARÇLAR KANUNU — Madde 28 Nispi harçlarda ödeme zamanı
+
+(1) sayılı tarifede yazılı nispi harçlar aşağıdaki zamanlarda ödenir: (6009 sayılı Kanunun 18 inci maddesiyle değişen bent Yürürlük; 01.08.2010) a) Karar ve ilam harcı, Karar ve ilam harçlarının dörtte biri peşin, geri kalanı (6487 sayılı Kanunun 10 uncu maddesiyle değişen ibare Yürürlük; 11.06.2013) kararın tebliğinden itibaren bir ay (1) içinde ödenir. (3) (4) Şu kadar ki, ölüm ve cismani zarar sebebiyle açılan maddi ve manevi tazminat davalarında peşin alınan harcın oranı yirmide bir olarak uygulanır. Bakiye karar ve ilam harcının ödenmemiş olması, hükmün tebliğe çıkarılmasına, takibe konulmasına ve kanun yollarına başvurulmasına engel teşkil etmez. (2) b) İcra Tahsil Harcı, İcra takiplerinde Tahsil Harcı, alacağın ödenmesi sırasında, ödeme yapılmayan hallerde harç alacağının doğması tarihinden itibaren 15 gün içinde ödenir. Harç alacağı icranın yerine getirilmesiyle doğar. Konunun değeri üzerinden alınacak İflas Harçlarında da bu bent hükümleri uygulanır. c) Depozito, defter tutma ve miras işlerine ait harçlar, (1) sayılı tarifenin (D) bölümünde yazılı depozito, defter tutma ve miras işlerine ait harçlar işin sonundan itibaren 15 gün içinde ödenir. (1) (6487 sayılı Kanunla değişmeden önceki şekli) kararın verilmesinden itibaren iki ay (2) (6009 sayılı Kanunla değişmeden önceki şekli) a) Karar ve İlam Harcı, Karar ve ilam harçlarının dörtte biri peşin, geri kalanı kararın verilmesinden itibaren iki ay içinde ödenir. (...) (*) (*) "Karar ve İlam Harcı ödenmedikçe ilgiliye ilam verilmez." tümcesi 17.03.2010 tarihli ve 27524 sayılı Resmi Gazete'de yayımlanan Anayasa Mahkemesinin 14.01.2010 tarih ve E. 2009/27, K. 2010/9 sayılı kararıyla iptal edilmiştir. (3) Anayasa Mahkemesinin 6/10/2022 tarihli ve 31975 sayılı Resmi Gazete'de yayımlanan 8/9/2022 tarihli ve E.: 2022/61, K.: 2022/101 sayılı Kararı ile bu bendin birinci cümlesi "davalısı harçtan muaf olan kamulaştırmasız el atma nedeniyle açılan tazminat davaları" yönünden iptal edilmiştir. Bu Kararın Resmî Gazete'de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır. (4) Anayasa Mahkemesinin 24/12/2025 tarihli ve 33117 sayılı Resmi Gazete'de yayımlanan 8/10/2025 tarihli ve E.: 2024/103, K.: 2025/201 sayılı Kararı ile bu bendin birinci cümlesinde yer alan “… kararın tebliğinden itibaren…” ibaresi "davalısı harçtan muaf olmayan kamulaştırmasız el atma nedeniyle açılan tazminat davaları" yönünden iptal edilmiştir. Bu Kararın Resmî Gazete'de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.

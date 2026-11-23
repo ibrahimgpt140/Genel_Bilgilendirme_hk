@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "3332 SERMAYE PİYASASININ TEŞVİKİ, SERMAYENİN TABANA YAYGINLAŞTIRILMASI VE EKONOMİYİ DÜZENLEMEDE ALINACAK TEDBİRLER İLE 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 213 SAYILI VERGİ USUL KANUNU VE 3182 SAYILI BANKALAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+gib_kanun_id: 491
+gib_madde_id: 10079
+madde: "Geçici Madde 2"
+kaynak: https://gib.gov.tr/mevzuat/kanun/491/madde/10079
+gib_guncelleme: 2025-04-10T15:08:11
+alindi: 2026-11-23
+---
+
+# 3332 sayılı SERMAYE PİYASASININ TEŞVİKİ, SERMAYENİN TABANA YAYGINLAŞTIRILMASI VE EKONOMİYİ DÜZENLEMEDE ALINACAK TEDBİRLER İLE 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 213 SAYILI VERGİ USUL KANUNU VE 3182 SAYILI BANKALAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN — Geçici Madde 2
+
+Bu Kanunun 5 inci maddesine göre sermayesine iştirak edilen anonim şirketlerin, bu iştirakin gerçekleştiği takvim yılı başından 31/12/1991 tarihine kadar elde edecekleri kurum kazançları, bu Kanunun 13 üncü maddesiyle değiştirilen Kurumlar Kanununun 25 inci maddesinin ikinci fıkrasının (a) bendi uyarınca vergilendirilir.

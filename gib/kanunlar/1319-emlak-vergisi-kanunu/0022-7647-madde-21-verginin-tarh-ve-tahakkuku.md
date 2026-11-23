@@ -1,0 +1,14 @@
+---
+tur: Kanun maddesi
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+gib_kanun_id: 447
+gib_madde_id: 7647
+madde: "Madde 21 Verginin Tarh ve Tahakkuku"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/madde/7647
+gib_guncelleme: 2025-03-24T19:34:18
+alindi: 2026-11-23
+---
+
+# 1319 sayılı EMLAK VERGİSİ KANUNU — Madde 21 Verginin Tarh ve Tahakkuku
+
+(4751 sayılı Kanunun 2/D maddesiyle değişen madde Yürürlük: 9.4.2002) Arazi vergisi, ilgili belediye tarafından; a) Dört yılda bir defa olmak üzere takdir işlemlerinin yapıldığı yılı takip eden yılın Ocak ve Şubat aylarında, b) 33 üncü maddenin (1) ilâ (7) numaralı fıkralarında yazılı vergi değerini tadil eden sebeplerle bildirim verilmesi icabeden hallerde, vergi değerini tadil eden sebeplerin meydana geldiği bütçe yılını takip eden yılın Ocak ayı içinde, vergi değerini tadil eden sebep bütçe yılının son üç ayı içinde vuku bulmuş ve bildirim, vergi değerini tadil eden sebebin meydana geldiği, bütçe yılını takip yılda verilmiş ise bildirimin verildiği tarihte, c) 33 üncü maddenin (8) numaralı fıkrasında yazılı hallerde, takdir işlemlerinin yapıldığı bütçe yılını takip eden yılın Ocak ve Şubat aylarında, 29 uncu maddeye göre hesaplanan vergi değeri esas alınarak yıllık olarak tarh olunur. Bildirim posta ile gönderilmiş ise vergi, bildirim verme süresinin son gününü takip eden yedi gün içinde tarh olunur. Bu suretle tarh olunan vergiler, tarh edilen tarihte tahakkuk etmiş sayılır ve mükellefe bir yazı ile bildirilir. Yapılan tarh ve tahakkuku takip eden yıllarda, 29 uncu maddeye göre tespit edilen vergi değeri üzerinden hesaplanan arazi vergisi, her bütçe yılının başından itibaren o yıl için tahakkuk etmiş sayılır. Bir il veya ilçe sınırları içerisinde birden fazla belediye olması halinde, belediye ve mücavir alan sınırları dışında bulunan araziye ait arazi vergisini tarha yetkili olacak belediye, ilgili valiler tarafından belirlenir. (*) (*) (Değişmeden önceki şekli) (3239 sayılı Kanunun 108'inci maddesiyle değişen fıkra) Arazi Vergisi ilgili belediye tarafından mükellefin beyanı üzerine yıllık olarak tarh ve tahakkuk ettirilir. Şu kadar ki, bir il veya ilçe hududu içerisinde birden fazla belediye olması halinde belediye ve mücavir alan sınırları dışında bulunan araziye ait Arazi Vergisini tarha yetkili olacak belediye ilgili valiler tarafından belirlenir. (4369 sayılı Kanunun 68'inci maddesiyle değişen fıkra. Yürürlük; 29.7.1998) Genel beyan dönemi veya vergi değerini tadil eden sebeplerin doğması halinde mükellefiyetin başlangıç yılını takip eden yıllarda, bu Kanunun 29 uncu maddesinin üçüncü fıkrasına göre tespit edilen matrah üzerinden hesaplanan arazi vergisi, her takvim yılının başından itibaren o yıl için tahakkuk etmiş sayılır. (1) (1) (Değişmeden önceki şekli) Yapılan bu tarh ve tahakkuku takibeden yıllarda Arazi Vergisi her bütçe yılının birinci (Dahil) ayından itibaren o yıl için tahakkuk etmiş sayılır.

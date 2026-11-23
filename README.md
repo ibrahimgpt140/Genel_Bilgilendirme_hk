@@ -17,12 +17,13 @@ dosyanın geçmişinden (History) görülebilir.
 | `tebligler/genel-tebligler/` | Yürürlükteki tüm genel tebliğler (916), konu klasörlerine ayrılmış; dizin: `README.md` |
 | `yonetmelikler/` | YMM tasdik, çalışma usul ve esasları, vergi incelemesi, ticaret sicili, belge basım, gümrük yönetmelikleri |
 | `tebligler/` | Genel tebliğler, sirküler ve özelgeler |
+| `kararlar/danistay/` | Danıştay vergi daireleri ve VDDK kararları (künye + özet + tam metin) ve karar dizini (`dizin.csv`) |
 | `resmi-gazete/` | Günlük Resmî Gazete taramasının özetleri |
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
-| `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) ve eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) betikleri |
+| `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`) eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama'dan karar çekme (`danistay.js`) betikleri |
 
 ## Kurallar
 

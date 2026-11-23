@@ -15,25 +15,43 @@ arka ucu bedesten.adalet.gov.tr) sisteminden alınır.
 
 ## Kapsam (23.11.2026 itibarıyla)
 
-| Daire | Karar yılı | Dizindeki karar | Tam metin |
+| Daire | Dizindeki karar (2024 / 2025 / 2026) | Tam metin | Tam metin kuralı |
 |---|---|---|---|
-| Vergi Dava Daireleri Kurulu | 2024 | 1.012 | Tamamı |
-| Vergi Dava Daireleri Kurulu | 2025 | 933 | Tamamı |
-| Vergi Dava Daireleri Kurulu | 2026 | 98 | Tamamı |
-| 3. Daire | 2024 / 2025 / 2026 | 7.709 / 3.833 / 67 | İlk aktarımdakiler |
-| 7. Daire | 2024 / 2025 / 2026 | 4.929 / 2.546 / 12 | İlk aktarımdakiler |
-| 9. Daire | 2024 / 2025 | 7.939 / 4.620 | İlk aktarımdakiler |
-| **Toplam** | | **33.698** | VDDK: 2.028 tekil karar |
+| Vergi Dava Daireleri Kurulu | 1.012 / 933 / 98 | 2.043 kayıt (2.028 tekil karar) | Tamamı |
+| 3. Daire | 7.709 / 3.834 / 72 | 5.388 | Konu bazında |
+| 7. Daire | 4.929 / 2.546 / 12 | 1.466 | Konu bazında |
+| 9. Daire | 7.939 / 4.620 / – | 4.386 | Konu bazında |
+| **Toplam** | **33.704** | **13.283 kayıt** | |
 
-- Dizindeki sayılar, Karar Arama'nın aynı daire ve karar yılı için verdiği toplamla birebir eşleşti.
-- Karar Arama'da bazı kararlar iki ayrı belge numarasıyla kayıtlı (yeniden yüklenmiş kayıtlar). VDDK'da 15 karar böyle; eski belge numaralarından 13'ünün metni sistemde "bulunamadı" hatası veriyor, aynı kararın yeni belge numarasındaki metni alındı. Dizinde iki belge numarası da durur, tam metin dosyası tektir.
-- 9. Daire 2026 ve diğer dairelerin 2026 kararları sisteme gecikmeli yükleniyor; haftalık güncellemeyle eklenir.
+**Konu bazında tam metin (3., 7. ve 9. Daire):** Karar Arama'da aşağıdaki kelimelerden biri geçen 2024–2026 kararlarının tamamı alındı.
+Her konu × daire × yıl için alınan karar sayısı, Karar Arama'nın verdiği toplamla birebir eşleşti (11.240 tekil kayıt).
+
+| Konu | Karar Arama'da aranan kelimeler |
+|---|---|
+| Sahte belge | "sahte belge", "sahte fatura" |
+| KDV iadesi | "KDV iadesi", "katma değer vergisi iadesi", "iade talebi" + katma değer vergisi, "mahsuben iade", "özel esaslar" |
+| Vergi ziyaı | "vergi ziyaı cezası" |
+| Tebligat | tebligat |
+
+Karar dosyalarında ve dizinde `konular` alanı bulunur. Konu, arama sonucuna ve karar metninde bu kelimelerin geçmesine göre işaretlenir (VDDK kararları da metinden işaretlendi).
+
+| Konu | VDDK | 3. Daire | 7. Daire | 9. Daire |
+|---|---|---|---|---|
+| Sahte belge | 444 | 3.573 | 269 | 3.050 |
+| Vergi ziyaı | 587 | 3.116 | 520 | 2.079 |
+| KDV iadesi | 267 | 574 | 233 | 484 |
+| Tebligat | 183 | 694 | 711 | 651 |
+
+Notlar:
+- Karar Arama'da bazı kararlar iki ayrı belge numarasıyla kayıtlı (yeniden yüklenmiş kayıtlar). Eski belge numarasının metni "döküman sistemde bulunamadı" hatası veriyor; aynı kararın yeni belge numarasındaki metni alındı (VDDK'da 13, 3. ve 9. Dairede 15 kayıt). Dizinde iki belge numarası da durur, tam metin dosyası tektir.
+- Konu dışında kalan 3., 7. ve 9. Daire kararlarının yalnızca künyesi ve resmî bağlantısı dizindedir.
+- 2026 kararları sisteme gecikmeli yükleniyor; haftalık güncellemeyle eklenir.
 - İdari dava daireleri (2., 4. [19.07.2023 sonrası], 5., 6., 8., 10., 12., 13. Daire ve İDDK) bu kapsamda değil; 2024–2026 için toplam ~120.000 karar.
 
 ## Haftalık güncelleme
 
 `python3 araclar/danistay/guncelle.py .` (depo kökünden; önce `araclar/danistay` içinde `npm install` ve `npx playwright install chromium`).
-İçinde bulunulan ve önceki yıl için VDDK, 3., 7. ve 9. Dairenin karar sayısını dizinle karşılaştırır; artan daire-yılın künyelerini yeniden tarar, yeni VDDK kararlarının tam metnini çeker ve dosyaları yazar.
+İçinde bulunulan ve önceki yıl için VDDK, 3., 7. ve 9. Dairenin karar sayısını dizinle karşılaştırır; artan daire-yılın künyelerini yeniden tarar, yeni kararların metnini çeker ve yazar: VDDK'da tamamı, 3., 7. ve 9. Dairede yalnızca metninde konu kelimelerinden biri geçenler.
 
 ## Karar dosyası şablonu
 
@@ -82,6 +100,8 @@ Ardından kısa özet ve karar metni gelir.
   Aramalar: sahte belge kullanma, sahte belge düzenleme, KDV iadesi, vergi ziyaı cezası; VDDK, 3., 4., 7. ve 9. Daire.
 
 - **23.11.2026 – 2024–2026 taraması.** VDDK, 3., 7. ve 9. Dairenin 2024, 2025 ve 2026 karar yıllarına ait tüm kararlarının künye dizini (33.698 kayıt) ve VDDK kararlarının tamamının tam metni (2.028 tekil karar). Tüm tam metinlerde esas ve karar numarası karar metninde programla bulundu.
+
+- **23.11.2026 – Konu bazında tam metin.** 3., 7. ve 9. Dairenin 2024–2026 kararlarından sahte belge, KDV iadesi, vergi ziyaı ve tebligat konularına girenlerin tam metni (11.240 kayıt); dizine `konular` sütunu eklendi.
 
 ## İlk aktarımdaki özetli kararlar (44)
 

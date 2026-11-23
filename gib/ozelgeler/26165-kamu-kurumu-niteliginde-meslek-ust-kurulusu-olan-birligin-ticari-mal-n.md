@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 26165
+baslik: "Kamu kurumu niteliğinde meslek üst kuruluşu olan birliğin ticari mal niteliğinde olmayan ve sadece odalarına ve tır sistemine kayıtlı üyelerine verilen tır karnelerinin taşıması esnasında sevk irsaliyesi düzenlenip düzenlenmeyeceği hk."
+tarih: 2011-11-22
+sayi: "B.07.1.GİB.4.06.18.02-32230/8298-1047"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26165
+gib_guncelleme: 2025-03-24T19:41:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kamu kurumu niteliğinde meslek üst kuruluşu olan birliğin ticari mal niteliğinde olmayan ve sadece odalarına ve tır sistemine kayıtlı üyelerine verilen tır karnelerinin taşıması esnasında sevk irsaliyesi düzenlenip düzenlenmeyeceği hk.
+
+**İlgili maddeler:** Madde 230 Faturanın Şekli
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Usul Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.06.18.02-32230/8298-1047 | 22/11/2011
+Konu | : | Tır karnelerin taşınması esnasında sevk irsaliyesi düzenlenme zorunluluğu hk.
+
+İlgi dilekçelerinizde...... Vergi Dairesi Müdürlüğünün ..... vergi numaralı mükellefi olarak 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu uyarınca faaliyet gösteren kamu kurumu niteliğinde mesleki üst kuruluşu olduğunuz, anılan Kanunun Birliğin görevlerini düzenleyen 56'ncı maddesinin (y) bendinde; "Uluslararası anlaşmalar gereği, elektronik ortam dahil TIR ve ATA Karneleri, menşe şahadetnameleri, dolaşım belge ve sertifikalarının basımı, dağıtımı ve uygulamalarına ilişkin hizmetler ile EAN-UCC çizgi kod sistemine ilişkin çalışmaları yürütmek" hükmü gereğince ve 1975 tarihli "Tır Karneleri Himayesinde Uluslararası Eşya Taşınmasına Dair Gümrük Sözleşmesi" (Tır Sözleşmesi)'nin hükümleri uyarınca Uluslararası Karayolu Taşımacılığı Birliği (IRU) tarafından basılarak birliğinize gönderilen TIR karnelerinin gümrüklerden alınarak karne dağıtmakla yetkili odalara gönderildiği ve nakliyeci firmalar tarafından kullanıldıktan sonra tekrar Uluslararası Karayolu Taşımacılığı Birliğine gönderilmek üzere gümrüğe nakil işlemlerinin yapıldığı belirtilerek, kamu kurumu niteliğinde meslek üst kuruluşu olan Birliğinizin ticari mal niteliğinde olmayan ve sadece odalarınıza ve tır sistemine kayıtlı üyelerinize verilen tır karnelerinin taşıması esnasında sevk irsaliyesi düzenlenip düzenlenmeyeceği hususunda Başkanlığımız görüşü talep edilmiştir.
+Bilindiği üzere; 5520 sayılı Kurumlar Vergisi Kanunu'nun 1'inci maddesinde, derneklere ait iktisadi işletmeler kurumlar vergisi mükellefleri arasında sayılmış, derneğin tüzelkişiliği ise mükellefiyet dışında bırakılmıştır.
+Aynı Kanunun 2'nci maddesinin beşinci ve altıncı fıkralarında ise derneklere ait veya bağlı olup faaliyetleri devamlı bulunan ve bu maddenin birinci ve ikinci fıkraları dışında kalan ticari, sınai ve zirai işletmeler ile benzer nitelikteki yabancı işletmelerin derneklerin iktisadi işletmeleri olduğu, derneklere ait iktisadî işletmelerin kazanç amacı gütmemeleri, faaliyetlerinin kanunla verilmiş görevler arasında bulunması, tüzel kişiliklerinin olmaması, bağımsız muhasebelerinin ve kendilerine ayrılmış sermayelerinin veya iş yerlerinin bulunmamasının mükellefiyetlerini etkilemeyeceği, mal veya hizmet bedelinin sadece maliyeti karşılayacak kadar olması, kar edilmemesi veya karın kuruluş amaçlarına tahsis edilmesinin bunların iktisadi niteliğini değiştirmeyeceği hükme bağlanmıştır.
+1 seri No.lu Kurumlar Vergisi Tebliği'nin "Dernek veya Vakıflara Ait İktisadi İşletmeler" başlıklı 2.4. bölümünde; "...Dernek veya vakfa ait bir iktisadi işletmenin varlığından söz edilebilmesi için iktisadi işletmeni
+- Dernek veya vakfa ait veya bağlı olması (ait olma, sermaye bakımından; bağlı olma ise idari bakımdan bağlılığı ifade eder),
+- Sermaye şirketi veya kooperatif şeklinde kurulmamış olması,
+- Ticari, sınai veya zirai alanda devamlı olarak faaliyette bulunması
+gerekmektedir...." şeklinde açıklama yer almıştır.
+Buna göre, vergi uygulamalarında dernek olarak değerlendirilmesi gereken birliğinizin tüzel kişiliği itibariyle Kurumlar Vergisi mükellefiyeti söz konusu olmayacak, ancak yukarıda yapılan açıklamalar doğrultusunda birliğinize bağlı olarak ticari, sınai veya zirai alanda devamlı olarak faaliyette bulunan bir iktisadi işletmenin bulunması halinde bu işletme kurumlar vergisi mükellefi olacaktır.
+Diğer taraftan, 01.06.2004 tarih ve 25479 sayılı Resmi Gazete'de yayımlanan 5174 sayılı Türkiye Odalar ve Borsalar Birliği İle Odalar ve Borsalar Kanunu'nun "Birliğin görevleri" başlıklı 56'ncı maddesinin (y) bendinde; "Uluslararası anlaşmalar gereği, ekonomik ortam dahil TIR ve ATAkarneleri, menşe şahadetnameleri, dolaşım belge ve sertifikalarının basımı, dağıtımı ve uygulamalarına ilişkin hizmetler ile EAN-UCC çizgi kod sistemine ilişkin çalışmaları yürütmek." hükmü yer almıştır.
+Aynı Kanunun "Birlikçe alınacak ücretler" başlıklı 71'nci maddesinde de; Birlikçe alınacak tavan ücretler belirlenmiş ve TIR ve ATA karneleri ile EAN-UCC çizgi kod sistemine ilişkin hizmetlerin de bu ücret dahilinde yapılacağı hüküm altına alınmıştır.
+İlgi yazılarınız ekinde yer alan özelge talep formunda, Birliğin; Uluslararası Karayolu Taşımacılığı Birliği (IRU) tarafından basılarak Birliğinize gönderilen TIR karnelerinin gümrüklerden alınarak karne dağıtmakla yetkili odalara gönderdiği ve nakliyeci firmalar tarafından kullanıldıktan sonra tekrar Uluslararası Karayolu Taşımacılığı Birliğine gönderilmek üzere gümrüğe nakil işlemlerinin yapıldığı, TIR karnelerinden alınan bedellerin tavan ücret dahilinde olduğu belirtilmektedir.
+Bu çerçevede, 5174 sayılı Türkiye Odalar ve Borsalar Birliği İle Odalar ve Borsalar Kanunu kapsamında Birliğiniz tarafından dağıtımı yapılan TIR karnelerinden elde edilen gelirler ticari faaliyet çerçevesinde elde edilmediğinden, TIR karnelerinin dağıtımı nedeniyle Birliğe ait bir iktisadi işletme oluşmayacak ve bu faaliyetler nedeniyle de kurumlar vergisi mükellefiyeti tesis edilmeyecektir.
+Diğer taraftan; 213 sayılı Vergi Usul Kanununun 229'uncu maddesinde; "Fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesikadır." şeklinde tanımlanmış, aynı Kanununun 230/5'inci maddesinde yer alan; "...(Malın alıcıya teslim edilmek üzere satıcı tarafından taşındığı veya taşıttırıldığı hallerde satıcının, teslim edilen malın alıcı tarafından taşınması veya taşıttırılması halinde alıcının, taşınan veya taşıttırılan mallar için sevk irsaliyesi düzenlenmesi ve taşıtta bulundurulması şarttır.)..." hükmü ile sevk irsaliyesinin düzenlenme esasları belirlenmiş olup, anılan Kanunun 231'inci maddesinin 5'inci bendinde de; "Fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami yedi gün içinde düzenlenir. Bu süre içerisinde düzenlenmeyen faturalar hiç düzenlenmemiş sayılır." hükmü yer almıştır.
+253 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği'nde de, Maden Kanunu'na göre düzenlenen maden sevk fişi, uluslararası taşımacılıkta kullanılan hamule senedi, konşimento gibi belgeler, gümrük girişi sırasında Gümrük İdareleri'nce düzenlenip verilen resmi belgeler, orman idarelerince düzenlenen nakliye tezkereleri ve buna benzer belgelerin, alınan ürünün alıcı veya satıcı tarafından taşınıp taşınmadığına bakılmaksızın sevk irsaliyesi olarak kabul edileceği ve satın aldığı malı kendi araçlarıyla taşıyan veya bir nakliyeciye taşıttıranlardan ayrıca sevk irsaliyesi istenmeyeceği belirtilmiştir.
+Buna göre; TIR ve ATA karnelerinin dolaşım belge ve sertifikalarının basımı, dağıtımı ve uygulamalarına ilişkin hizmetler 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile Birliğinize verilen görevler arasında yer alması nedeniyle Uluslararası Karayolu Taşımacılığı Birliği (IRU) tarafından basılarak birliğinize gönderilen TIR karnelerinin ticari mal niteliğinde olmaması, sadece gümrüklerden alınarak karne dağıtmakla yetkili odalara gönderilmesi ve nakliyeci firmalar tarafından kullanıldıktan sonra tekrar Uluslararası Karayolu Taşımacılığı Birliğine gönderilmesi kaydıyla tır karnelerinin taşınması esnasında sevk irsaliyesi düzenleme zorunluluğunuz bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 35245
+baslik: "Yapı Denetim firmalarına yapılan hakediş ödemelerinden damga vergisi kesintisi yapılıp yapılmayacağı hk."
+tarih: 2013-01-30
+sayi: "93767041-155[8-2012/20]-15  "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/35245
+gib_guncelleme: 2025-03-24T20:23:50
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yapı Denetim firmalarına yapılan hakediş ödemelerinden damga vergisi kesintisi yapılıp yapılmayacağı hk.
+
+**İlgili maddeler:** Madde 8 Resmi daire
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+KOCAELİ VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Grup Müdülüğü)
+
+Sayı : 93767041-155[8-2012/20]-15 30/01/2013
+Konu : Yapı Denetim firmalarına yapılan hakediş ödemelerinden damga vergisi kesintisi yapılıp yapılmayacağı hk.
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, yapı denetim faaliyeti ile iştigal eden firmanızın özel firma ve şahıslara vermiş olduğu hizmet karşılığında Bayındırlık Bakanlığının kontrolünde ilgili malmüdürlükleri vasıtasıyla ödeme yapıldığı, eski dosyalara ait işlemlerin ise belediyeler üzerinden yürütülmekte olduğu belirtilerek, belediyelerce yapılan söz konusu ödemeler nedeniyle damga vergisi kesintisi yapılıp yapılmayacağı hususunda görüş talep edildiği anlaşılmaktadır.
+Bilindiği üzere, 488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; Kanuna ekli (1) sayılı tablonun "IV.Makbuzlar ve diğer kağıtlar" başlıklı bölümünün 1/b fıkrasında, maaş, ücret, gündelik, huzur hakkı, aidat, ihtisas zammı, ikramiye, yemek ve mesken bedeli, harcırah, tazminat ve benzeri her ne adla olursa olsun hizmet karşılığı alınan paralar (avans olarak ödenenler dahil) için verilen makbuzlar ile bu paraların nakden ödenmeyerek kişiler adına açılmış veya açılacak cari hesaplara nakledildiği veya emir ve havalelerine tediye olunduğu takdirde nakli veya tediyeyi temin eden kağıtların nispi damga vergisine tabi tutulacağı hükme bağlanmıştır. 2009/15725 sayılı Bakanlar Kurulu Kararı ile 01/01/2010 tarihinden geçerli olmak üzere Kanuna ekli (1) sayılı tablonun IV/1-b fıkrasındaki kağıtlara ilişkin damga vergisi oranı binde 6,6 olarak belirlenmiştir.
+5393 sayılı Belediye Kanununun "Belediyenin Görev ve Sorumlulukları" başlıklı 14 üncü maddesinde, belediyelerin mahallî müşterek nitelikte olmak şartıyla imar, su ve kanalizasyon, ulaşım gibi kentsel altyapı hizmetlerini, konut hizmetlerini yapacağı veya yaptıracağı hükme bağlanmış; "Belediyenin Yetkileri ve İmtiyazları" başlıklı 15 inci maddesinin birinci fıkrasının; (b) bendinde, kanunların belediyeye verdiği yetki çerçevesinde yönetmelik çıkarmak, belediye yasakları koymak ve uygulamak, kanunlarda belirtilen cezaları vermek, (c) bendinde, gerçek ve tüzel kişilerin faaliyetleri ile ilgili olarak kanunlarda belirtilen izin veya ruhsatı vermek belediyelerin yetki ve imtiyazları arasında sayılmıştır.
+3194 sayılı İmar Kanununun "Yapı Ruhsatiyesi" başlıklı 21 inci maddesinin birinci fıkrasında, bu Kanunun kapsamına giren bütün yapılar için 26 ncı maddede belirtilen istisna dışında belediye veya valiliklerden yapı ruhsatiyesi alınmasının mecburi olduğu; "Ruhsat Alma Şartları" başlıklı 22 nci maddesinde, yapı ruhsatiyesi almak için belediye veya valilik bürolarına yapı sahipleri veya kanuni vekillerince dilekçeyle başvurulacağı; belediyeler veya valiliklerce ruhsat ve ekleri incelenerek eksik ve yanlış bulunmuyorsa müracaat tarihinden itibaren en geç otuz gün içinde yapı ruhsatiyesi verileceği; "Yapı Kullanma İzni" başlıklı 30 uncu maddesinde, yapı tamamen bittiği takdirde tamamının, kısmen kullanılması mümkün kısımları tamamlandığı takdirde bu kısımlarının kullanılabilmesi için inşaat ruhsatını veren belediye, valilik bürolarından, 27 nci maddeye göre ruhsata tabi olmayan yapıların tamamen veya kısmen kullanılabilmesi için ise ilgili belediye ve valilikten izin alınmasının mecburi olduğu, mal sahibinin müracaatı üzerine yapının ruhsat ve eklerine uygun olduğu ve kullanılmasında fen bakımından mahzur görülmediğinin tespitinin gerektiği; "Ruhsatsız veya Ruhsat ve Eklerine Aykırı Olarak Başlanan Yapılar" başlıklı 32 nci maddesinde, bu Kanun hükümlerine göre ruhsat alınmadan yapılabilecek yapılar hariç; ruhsat alınmadan yapıya başlandığının veya ruhsat ve eklerine aykırı yapı yapıldığının ilgili idarece tespiti, fenni mesulca tespiti ve ihbarı veya herhangi bir şekilde bu duruma muttali olunması üzerine, belediye veya valiliklerce o andaki inşaat durumunun tespit edileceği, yapının mühürlenerek inşaatın derhal durdurulacağı, durdurmanın, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebliğ edilmiş sayılacağı, bu tebligatın bir nüshasının da muhtara bırakılacağı, bu tarihten itibaren en çok bir ay içinde yapı sahibinin, yapısını ruhsata uygun hale getirerek veya ruhsat alarak, belediyeden veya valilikten mührün kaldırılmasını isteyeceği, ruhsata aykırılık olan yapıda, bu aykırılığın giderilmiş olduğu veya ruhsat alındığı ve yapının bu ruhsata uygunluğu, inceleme sonunda anlaşılırsa, mührün belediye veya valilikçe kaldırılacağı ve inşaatın devamına izin verileceği, aksi takdirde, ruhsatın iptal edileceği, ruhsata aykırı veya ruhsatsız yapılan bina, belediye encümeni veya il idare kurulu kararını müteakip, belediye veya valilikçe yıktırılacağı ve masrafının yapı sahibinden tahsil edileceği hüküm altına alınmıştır.
+Yukarıda yapılan açıklamalar çerçevesinde, belediyelerin belediye ve mücavir alan sınırları içerisinde inşa edilen yapılarla ilgili olarak kanunlardan gelen yetki, görev ve sorumluluklarının bulunduğu, bu kapsamda yapı denetim kuruluşlarının yaptıkları denetim yönünden, arsa sahipleri ve denetim şirketlerinin belediyelerin ilgili kanunlarla verilen yetki çerçevesinde koyduğu şartlara uyma sorumluluğunun bulunduğu ve yapı denetim hizmetlerinin bir eksiklik bulunup bulunmadığı yönünden kontrolü üzerine belediyeler tarafından yapı denetim şirketlerine ödemenin yapılabileceği hususları dikkate alındığında, belediyeler tarafından hizmet karşılığı yapı denetim firmalarına yapılan ödemeler nedeniyle düzenlenen kağıtların 488 sayılı Kanuna ekli (1) sayılı tablonun IV/1-b fıkrası uyarınca damga vergisine tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 31480
+baslik: "Transit ve Türkiye ile yabancı ülkeler arasında deniz, hava ve demiryolu ile yapılan yük ve yolcu taşıma işleri katma değer vergisinden istisna edilmiştir."
+tarih: 1997-06-02
+sayi: "B.07.0.GEL.0.53-5314-372/22705"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31480
+gib_guncelleme: 2025-03-24T20:03:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Transit ve Türkiye ile yabancı ülkeler arasında deniz, hava ve demiryolu ile yapılan yük ve yolcu taşıma işleri katma değer vergisinden istisna edilmiştir.
+
+**İlgili maddeler:** Madde 14 Transit Taşımacılık; Madde 32 İstisna Edilmiş İşlemlerde İndirim
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 02.06.1997 SAYI : B.07.0.GEL.0.53-5314-372/22705 KONU : İZMİR VALİLİĞİNE (Defterdarlık: Vasıtalı Ver.Gel. Müd.) İLGi : a) 06.02.1997 tarih ve DEF.0.35.12/KDV.02.2650/219 sayılı yazınız. b) 20.03.1997 gün ve DEF.0.35.12/KDV.02-2650/422 sayılı yazınız. İlgide kayıtlı yazılarınız ve ekleri incelendi. 3065 sayılı Katma Değer Vergisi Kanununun 14. maddesinin Bakanlar Kuruluna verdiği yetkiye dayanılarak çıkarılan 84/8889 sayılı Kararname ile Transit ve Türkiye ile yabancı ülkeler arasında deniz, hava ve demiryolu ile yapılan yük ve yolcu taşıma işleri katma değer vergisinden istisna edilmiştir. Aynı Kanunun 32. maddesine göre, vergiden istisna edilmiş bulunan bu işlemlerle ilgili fatura ve benzeri vesikalarda gösterilen katma değer vergisi, mükellefin vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinden indirilmektedir. Vergiye tabi işlemlerin mevcut olmaması veya hesaplanan verginin indirilecek vergiden az, olması hallerinde indirilemeyen katma değer vergisi, bu işlemleri yapanlara iade olunmaktadır. Uluslararası taşımacılık istisnası kapsamına giren işlemleri yapan mükelleflerin, işlemin beyan edildiği dönemde iade alacağının çıkmaması veya mükellefin ortaya çıkan iade alacağını nakden veya mahsuben talep etmeyip gelecek dönemlerde indirim yoluyla telafi etmek istemesi halinde de istisnanın Genel Tebliğlerde belirtilen belgelerle tevsik edilmesi gerekmektedi r. Bilgi edinilmesini ve mükellef durumunun yukarıdaki açıklamalar çerçevesinde değerlendirilerek gereğini rica ederim. Bakan a. Daire Başkanı

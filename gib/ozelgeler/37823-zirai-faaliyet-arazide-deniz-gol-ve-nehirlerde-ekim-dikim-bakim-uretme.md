@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 37823
+baslik: "Zirai faaliyet; arazide, deniz, göl ve nehirlerde, ekim, dikim, bakım, üretme, yetiştirme ve..."
+tarih: 2006-08-15
+sayi: "B.07.1.GİB.0.03.41/4102-535-63615"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/37823
+gib_guncelleme: 2025-03-24T22:32:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Zirai faaliyet; arazide, deniz, göl ve nehirlerde, ekim, dikim, bakım, üretme, yetiştirme ve...
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+Sayı : B.07.1.GİB.0.03.41/4102-535
+Konu :
+
+15.08.2006 63615
+.................. VERGİ DAİRESİ BAŞKANLIĞINA( Mükellef Hizmetleri Gelir Vergileri Grup müdürlüğü)
+
+İLGİ : .................. gün ve .................. sayılı yazınız.
+İlgi yazınız ve ekleri incelenmiş olup, aşağıdaki açıklamaların yapılması uygun görülmüştür.
+Gelir Vergisi Kanununun 52 nci maddesinde zirai faaliyet; arazide, deniz, göl ve nehirlerde, ekim, dikim, bakım, üretme, yetiştirme ve ıslah yollarıyla veyahut doğrudan doğruya tabiattan istifade etmek suretiyle nebat, orman, hayvan, balık ve bunların ürünlerinin istihsalini, avlanmasını, avcıları ve yetiştiricileri tarafından muhafazasını, taşınmasını, satılmasını veya bu ürünlerden sair bir şekilde faydalanılmasını ifade eder şeklinde tanımlanmış ve bu faaliyet sonucu istihsal olunan maddelere mahsul denilmiş ve ayrıca satışların dükkan ve mağaza açılarak yapılması halinde, mahsullerin dükkan ve mağazaya gelinceye kadar geçirdikleri safhaların zirai faaliyet safhasında kalacağı hükme bağlanmıştır.
+Buna göre, çiftçilerin ürettikleri zirai ürünleri mahalle aralarında veya pazar takibi suretiyle satmaları halinde, bu faaliyet de zirai faaliyetin bir parçası olup, ticari faaliyet kapsamında sayılmaması gerekir.
+Öte yandan, Vergi Usul Kanununun 156 ncı maddesinde iş yerinin tarifi " Ticari, sınai, zirai ve mesleki faaliyette iş yeri; mağaza, yazıhane, muayenehane, imalathane, şube, depo, otel, kahvehane, eğlence ve spor yerleri, tarla, bağ, bahçe, çiftlik, hayvancılık tesisleri, dalyan ve voli mahalleri, madenler, taş ocakları, inşaat şantiyeleri, vapur büfeleri gibi ticari, sınai, zirai veya mesleki bir faaliyetin icrasına tahsis edilen veya bu faaliyetlerde kullanılan yerdir. " şeklinde tanımlanmıştır.
+Zirai faaliyetle uğraşan kişilerin faaliyetlerini icra ettikleri tarla, bağ, bahçe, çiftlik veya hayvancılık tesisleri bu işlerle uğraşanların iş yeri olup anılan yerlerde yapılan işler zirai faaliyet kapsamındadır. Bu nedenle, çiftçilerin kendi ürettiği zirai mahsulleri devamlılık arz etmeyecek şekilde dükkan ve mağaza açmadan pazar takibi suretiyle seyyar olarak mevcut pazarlarda ve pazarcı esnafının satış yerlerinden ayrı olarak oluşturulan bağımsız bölümlerde, günlük işgaliye harcı ödeyerek zirai ürün satmaları zirai faaliyetin devamı olarak nitelendirilecek, ticari kazançla ilişkilendirilmeyecektir. Ancak, dükkan veya mağaza açmak ya da belediyece tahsis edilen yerlerde aylık veya yıllık kira bedeli karşılığı yer kiralamak suretiyle devamlılık arz edecek şekilde zirai ürün satmaları halinde ise ticari faaliyet olarak değerlendirilerek vergilendirilmeleri gerekmektedir.
+Bilgi edinilmesini, yukarıda yapılan açıklamalar doğrultusunda işlem tesis edilmesi hususunda gereğini rica ederim.
+Başkan a.
+Gelir İdaresi Grup Başkanı

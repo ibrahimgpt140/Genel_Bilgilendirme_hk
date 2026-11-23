@@ -10,7 +10,7 @@ kaynak bağlantısı, GİB güncelleme zamanı), ardından ilgili maddeler, ekle
 | `kanunlar/` | GİB'deki 221 kanun, madde madde (7.005 madde; maddelerin önceki halleriyle) |
 | `tebligler/` | Tüm GİB tebliğleri (konsolide metinler dahil) |
 | `sirkuler/` | Tüm sirkülerler |
-| `ozelgeler/` | Özelgeler — son 5 yıl (kayan pencere; 5 yılı dolan özelge ⚠ ile işaretlenir) |
+| `ozelgeler/` | GİB'deki tüm özelgeler (18.435); 5 yılı aşanlar ⚠, tarihsizler ? ile işaretli |
 | `ic-genelgeler/`, `genel-yazilar/` | İç genelgeler, genel yazılar |
 | `yonetmelikler/` | GİB'deki yönetmelikler |
 | `bkk/`, `cbk/` | Bakanlar Kurulu ve Cumhurbaşkanı kararları |
@@ -22,8 +22,8 @@ Her klasörün `README.md` dosyası tarih sıralı dizindir. Yeni/değişen kay�
 
 ## 5 yıl kuralı
 
-Belgeler 5 yıl sonunda geçersiz sayıldığından özelgeler her taramada en az son 5 yıl
-kapsanır. Künyede `bes_yil: gecerli/ASILDI` alanı, dizinde ⚠ sütunu bulunur; o gün 5 yılı
+Belgeler 5 yıl sonunda geçersiz sayılır. Özelgelerin tamamı tutulur, ancak 5 yılı aşanlar
+işaretlenir. Künyede `bes_yil: gecerli/ASILDI` alanı, dizinde ⚠ sütunu bulunur; o gün 5 yılı
 dolan özelgeler `GUNLUK.md`'ye yazılır. Tebliğ, sirküler, genel yazı, BKK/CBK vb. mevzuat
 metinleri yürürlükten kaldırılana kadar geçerli olduğundan tarih sınırı olmadan, güncel
 halleriyle tamamı tutulur.

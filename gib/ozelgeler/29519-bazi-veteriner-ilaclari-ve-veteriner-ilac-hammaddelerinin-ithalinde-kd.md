@@ -1,0 +1,27 @@
+---
+tur: Özelge
+gib_id: 29519
+baslik: "Bazı veteriner ilaçları ve veteriner ilaç hammaddelerinin ithalinde KDV oranı hk."
+tarih: 2012-02-24
+sayi: "B.07.1.GİB.4.16.16.02-300-11-115-88"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29519
+gib_guncelleme: 2025-03-24T19:55:39
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bazı veteriner ilaçları ve veteriner ilaç hammaddelerinin ithalinde KDV oranı hk.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BURSA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.16.16.02-300-11-115-88 | 24/02/2012
+Konu | : | Bazı veteriner ilaçları ve veteriner ilaç hammaddelerinin ithalinde KDV oranı
+
+İlgide kayıtlı özelge talep formunuzda; 294190000059, 283699173000, 293399809042, 294130000015, 300410000000, 300490005900, 293359950029 G.T.İ.P. numaralı veteriner ilacı ve hammaddelerinin ithalinde uygulanacak katma değer vergisi (KDV) oranı hakkında görüş sorulmaktadır.
+KDV Kanununun 28 inci maddesinin verdiği yetkiye dayanılarak yayımlanan 2007/13033 sayılı Kararname ile KDV oranları, Kararname eki I sayılı listede yer alan teslim ve hizmetler için % 1, II sayılı listede yer alan teslim ve hizmetler için % 8, bu listelerde yer almayan teslim ve hizmetler için ise % 18 olarak tespit edilmiştir.
+2007/13033 sayılı Kararname eki II sayılı listenin, B/20 nci sırasında, "Tarım ve Köyişleri Bakanlığı tarafından ruhsatlandırılan veteriner ispençiyari ve tıbbi müstahzarlar (veteriner kozmetikleri hariç)" yer almaktadır.
+Buna göre, Tarım ve Köyişleri Bakanlığı tarafından ruhsatlandırılan veteriner ispençiyari ve tıbbi müstahzarların (veteriner kozmetikleri hariç) teslimi ve ithali (%8) oranında KDV ye tabi olacaktır. Bu çerçevede özelge talep formunuzda G.T.İ.P. numaraları belirtilen veteriner ilaç ve ürünleri veteriner ispençiyari ve tıbbi müstahzarlar kapsamında değerlendirildiğinden bu ürünlerin teslimi ve ithali % 8 oranında KDV ye tabi tutulacaktır.
+Bilgi edinilmesini rica ederim.

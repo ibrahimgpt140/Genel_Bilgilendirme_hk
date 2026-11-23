@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 38248
+baslik: "Perakende mal satan veya hizmet ifa eden birinci ve ikinci sınıf tacirlere, Vergi Usul Kanununa..."
+tarih: 2003-07-27
+sayi: "B.07.0.GEL.0. 65/6516-778/31788"
+kanun: "3100 KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/443/ozelge/38248
+gib_guncelleme: 2025-03-24T22:58:15
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Perakende mal satan veya hizmet ifa eden birinci ve ikinci sınıf tacirlere, Vergi Usul Kanununa...
+
+T.C.
+MALİYE BAKANLIĞI
+Gelirler Genel Müdürlüğü
+
+SAYI : B.07.0.GEL.0. 65/6516-778
+KONU :
+27/07/2003/31788
+KIRKLARELİ VALİLİĞİ
+(Defterdarlık: Gelir Müdürlüğüne)
+İLGİ: 08.07.2003 gün ve B.07.4.DEF.0.39.10/45-4/2465 sayılı yazınız.
+Bilindiği üzere, Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında 3100 sayılı Kanunla, perakende mal satan veya hizmet ifa eden birinci ve ikinci sınıf tacirlere, Vergi Usul Kanununa göre fatura kullanma mecburiyeti bulunmayan satışları için ödeme kaydedici cihazları kullanma zorunluluğu getirilmiştir.
+Öte yandan, 3100 sayılı Kanunla ilgili olarak yayımlanmış bulunan 49 Seri No.lu Genel Tebliğin A/9. bölümünde "Pazar takibi suretiyle iş yapanlar" bu faaliyetleriyle ilgili olarak Vergi Usul Kanununda geçen fatura veya perakende satış vesikalarını düzenlemeleri şartıyla, ödeme kaydedici cihaz kullanma mecburiyetinin dışında bırakılmışlardır.
+Buna göre, İliniz mükelleflerinden .....Limited Şirketinin, haftanın belirli günlerinde semt pazarlarında yapacağı satışlarını ödeme kaydedici cihaz kullanmaksızın Vergi Usul Kanununa göre fatura veya perakende satış vesikaları ile belgelendirmesi mümkün bulunmaktadır.
+Ancak adı geçen mükellefin, teknik bir engel olmaması halinde bahse konu satışlarını Bakanlığımızca onaylı şarzlı ödeme kaydedici cihazlarla da belgelendirebileceği tabiidir.
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.

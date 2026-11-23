@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 37140
+baslik: "Organize sanayi bölgesinin mülkiyetinde buluna araziyi kiraya vermesi halinde bu arazi için  emlak vergisi muafiyetinin uygulanıp uygulanmayacağı husunda..."
+tarih: 2009-12-10
+sayi: "B.07.1.GİB.0.02.66/6654-506"
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/ozelge/37140
+gib_guncelleme: 2025-03-24T20:47:44
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Organize sanayi bölgesinin mülkiyetinde buluna araziyi kiraya vermesi halinde bu arazi için  emlak vergisi muafiyetinin uygulanıp uygulanmayacağı husunda...
+
+**İlgili maddeler:** Madde 15 Geçici Muaflıklar
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı­
+­
+Sayı : B.07.1.GİB.0.02.66/6654-506 10/12/2009*................
+Konu:
+
+............... BELEDİYE BAŞKANLIĞINA
+...............
+
+İlgi: ........... tarihli ve ................. sayılı yazınız.
+
+İlgide kayıtlı yazınızda, organize sanayi bölgesinin mülkiyetinde buluna araziyi kiraya vermesi halinde bu arazi için 1319 sayılı Emlak Vergisi Kanununun 15 inci maddesinin (d) fıkrası gereğince emlak vergisi muafiyetinin uygulanıp uygulanmayacağı konusunda bilgi verilmesi istenilmektedir.
+1319 sayılı Kanunun "Geçici Muaflıklar" başlıklı 15 inci maddesinin (d) fıkrasında, Sanayi ve Ticaret Bakanlığınca, organize sanayi bölgeleri için iktisap olunduğu veya bu bölgelere tahsis edildiği kabul edilen arazinin (Sanayici lehine tapudaki tescilin yapılacağı tarihe kadar) geçici olarak arazi vergisinden muaf olduğu; bu fıkradan sonra gelen paragrafta da, geçici olarak muaflıktan istifade için arazinin bu maddede yazılı cihetlere tahsis edilmiş olduğunun ilgili vergi dairesine bütçe yılı içinde bildirilmesinin şart olduğu, muafiyetlerin, arazinin tayin olduğu cihetlere tahsis edildiği yılı takibeden bütçe yılından başlayacağı, bütçe yılı içinde bildirim yapılmazsa muafiyetin, bildirimin yapıldığı yılı takibeden bütçe yılından muteber olacağı, bu takdirde bildirimin yapıldığı bütçe yılının sonuna kadar geçen yıllara ait muafiyet hakkının düşeceği hükme bağlanmıştır. Bu muafiyetin uygulanmasında arazinin kiraya verilip verilmemesinin bir önemi bulunmamaktadır.
+Bu itibarla, organize sanayi bölgesi tüzel kişiliğinin; maliki bulunduğu ve Sanayi ve Ticaret Bakanlığınca organize sanayi bölgeleri için iktisap olunduğu veya bu bölgelere tahsis edildiği kabul edilen arazi için ilgili belediyeye emlak vergisi bildirimi vermesi ve bu arazilerin, kiraya verilse dahi sanayici lehine tapudaki tescilin yapılacağı tarihe kadar geçici olarak arazi vergisinden muaf tutulması gerekmektedir.
+Ancak, organize sanayi bölgesi tüzel kişiliği tarafından bu muaflıktan yararlanmak için arazinin organize sanayi bölgeleri için iktisap olunduğunun veya bu bölgelere tahsis edildiğinin ilgili belediyeye bütçe yılı içinde bildirilmesi şarttır. Bütçe yılı içinde bildirim yapılmazsa muafiyet, bildirimin yapıldığı yılı takip eden bütçe yılından itibaren geçerli olacak ve bildirimin yapıldığı bütçe yılının sonuna kadar geçen yıllara ait muafiyet hakkı düşecektir.
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+Başkan a.

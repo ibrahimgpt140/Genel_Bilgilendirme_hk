@@ -1,0 +1,40 @@
+---
+tur: Özelge
+gib_id: 34512
+baslik: "Güneş Enerji Sistemi Kuruluşuna ilişkin sözleşmenin damga vergisine tabi olup olmadığı."
+tarih: 2017-02-21
+sayi: "B.07.1.GİB.4.07.16.02-155[DH.2015.34]-14734"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34512
+gib_guncelleme: 2025-03-24T20:18:39
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Güneş Enerji Sistemi Kuruluşuna ilişkin sözleşmenin damga vergisine tabi olup olmadığı.
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+ANTALYA VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Gelir Grup Müdürlüğü)
+
+Sayı :76464994-155[DH.2015.34]-14734 21.02.2017
+Konu :Güneş Enerji Sistemi Kuruluşuna
+ilişkin sözleşmenin damga vergisine tabi olup olmadığı.
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, şirketinizin … İli, … İlçesinde yenilenebilir enerji kapsamında güneş enerjisi santrali kurmayı planlamakta olduğu, bu kapsamda … … Tic. Ltd. Şti. ile "… Sözleşme" imzalandığı, Enerji Piyasası Düzenleme Kurulu tarafından şirketiniz adına düzenlenmiş bir üretim lisansı belgesi bulunmadığı, enerji santrali kurulum ve devreye alım işine ait sözleşmenin damga vergisinden istisna olup olmadığı konusunda görüş istenildiği anlaşılmaktadır.
+
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların damga vergisine tabi olduğu; Kanuna ekli (1) sayılı tablonun "I- Akitlerle ilgili kâğıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin nispi damga vergisine tabi olduğu hükme bağlanmıştır.
+
+4628 sayılı Elektrik Piyasası Kanununun 1 inci maddesinin üçüncü fıkrasının 30 numaralı bendinde, üretim tesisinin, elektrik enerjisinin üretildiği tesisler olduğu; 5784 sayılı Kanun ile eklenen geçici 14 üncü maddenin birinci fıkrasının (c) bendinin 2 numaralı altbendinde, 31.12.2012 tarihine kadar işletmeye girecek üretim ve otoprodüktör lisansı sahibi tüzel kişilere sağlanan teşvikler uyarınca, üretim tesislerinin yatırım döneminde, üretim tesisleriyle ilgili yapılan işlemler ve düzenlenen kâğıtların damga vergisi ve harçtan müstesna olduğu hükme bağlanmış, 31.01.2013 tarih ve 28545 sayılı Resmi Gazete'de yayımlanan 6408 sayılı Kanunun 3 üncü maddesiyle, 4628 sayılı Kanunun geçici 14 üncü maddesinin birinci fıkrasının ( c) bendinde yer alan "31.12.2012" ibaresi "31.12.2015" olarak değiştirilmiştir. 30.03.2013 tarih ve 28603 sayılı Resmi Gazete'de yayımlanan 6446 sayılı Elektrik Piyasası Kanununun geçici 4 üncü maddesinin birinci fıkrasının (b) bendinde de 31.12.2015 tarihine kadar ilk defa işletmeye girecek üretim lisansı sahibi tüzel kişilere sağlanan teşvikler uyarınca, üretim tesislerinin yatırım döneminde, üretim tesisleriyle ilgili yapılan işlemler ve düzenlenen kâğıtların damga vergisi ve harçtan müstesna olduğu hükme bağlanmıştır. 24/12/2015 tarihli ve 29572 sayılı Resmi Gazete'de yayımlanan 14/12/2015 tarihli ve 2015/8317 sayılı Bakanlar Kurulu Kararı Eki Kararın 2 nci maddesiyle, bu süre 31/12/2020 tarihine kadar uzatılmıştır. Ayrıca, 6446 sayılı Kanunun 30 uncu maddesinin (5) numaralı fıkrası ile 4628 sayılı Kanunun geçici 14 üncü maddesi yürürlükten kaldırılmıştır.
+
+Buna göre, gerek 4628 sayılı Kanundaki istisna süresini değiştiren 6408 sayılı Kanun gerekse 6446 sayılı Kanunda düzenlenen hüküm ile söz konusu Kanunların yürürlük tarihinden itibaren 31.12.2015 tarihine kadar ilk defa işletmeye girecek üretim lisansı sahibi tüzel kişilere yatırım teşviki sağlamak üzere, yatırım döneminde üretim tesisleriyle ilgili olarak yapılacak işlemler ve düzenlenen kağıtlar damga vergisi ve harçtan istisna edilmiştir.
+Diğer taraftan; 6446 sayılı Kanunun 14 üncü maddesinde; lisanssız yürütülebilecek faaliyetler sayılmış olup, anılan maddenin (1) numaralı fıkrasının (b) bendinde, kurulu gücü azami bir megavatlık yenilenebilir enerji kaynaklarına dayalı üretim tesisi faaliyetlerinde bulunacak kişilerin lisans alma ve şirket kurma yükümlülüğünden muaf olduğu, (4) numaralı fıkrasında ise bu kişilerin sisteme bağlanmasına ilişkin teknik usul ve esaslar ile satışa, başvuru yapılmasına ve denetim yapılmasına ilişkin usul ve esasların Kurum tarafından çıkarılan yönetmelikle düzenleneceği hükme bağlanmıştır.
+
+Özelge talep formu ekinde yer alan "… Sözleşme" nin 2 nci maddesinde, … İli … İlçesi … Köyü … Mevkii … parsel üzerinde kurulacak Güneş Enerjisi Santralinin kurulu gücünün … kWp DC'lik olduğu, 9 uncu maddesinde ise işin bitim süresinin projenin … tarafından onaylanmasından itibaren 10 hafta olduğu anlaşılmıştır.
+
+Buna göre, 6446 sayılı Elektrik Piyasası Kanununun geçici 4 üncü maddesinin birinci fıkrasının (b) bendi uyarınca damga vergisi istisnasından yararlanabilmesi için üretim lisansı sahibi olma şartı getirildiği ve söz konusu sözleşmenin imzalandığı tarih itibarıyla Enerji Piyasası Düzenleme Kurulu tarafından şirketiniz adına düzenlenen üretim lisansı belgesi bulunmadığı hususları dikkate alındığında, söz konusu sözleşmeye 6446 sayılı Kanunun geçici 3 üncü maddesi kapsamında damga vergisi istisnası uygulanması mümkün bulunmamaktadır.
+
+Bilgi edinilmesini rica ederim.

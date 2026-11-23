@@ -1,0 +1,39 @@
+---
+tur: Özelge
+gib_id: 26709
+baslik: "DHMİ'den kiralanan arazi üzerinde inşa edilen bina için yapılan harcamaların itfası."
+tarih: 2017-12-29
+sayi: "B.07.1.GİB.4.99.16.01-105[313-2015]-25567"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26709
+gib_guncelleme: 2025-03-24T19:43:39
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# DHMİ'den kiralanan arazi üzerinde inşa edilen bina için yapılan harcamaların itfası.
+
+**İlgili maddeler:** Madde 262 Maliyet Bedeli
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | 64597866-105[313-2016]-25567 | 29.12.2017
+Konu | : | DHMİ kiralanan arazi üzerinde inşa edilen bina için yapılan harcamaların itfası.
+
+İlgide kayıtlı özelge talep formunda; yurtiçi ve yurtdışı hava ve yük taşımacılığı faaliyetinden dolayı Başkanlığımız mükellefi olan şirketinizin, Devlet Hava Meydanları İşletmesi (DHMİ) ile imzalanan 5 yıllık kira sözleşmesine istinaden … Hava Limanında tahsis edilen alana kısmen taşınabilir bir bina yaptırdığını, söz konusu kira sözleşmesinde ortaklığınıza kira süresinin sonunda binayı başka bir yere taşıma imkanı tanındığı, binanın taşınabilir özellikteki inşaat, elektrik ve mekanik işlerinin binanın toplam maliyetinin %50'sini oluşturduğunun tahmin edildiği, bina için yapılan harcamaların taşınabilir kıymetlere ilişkin kısmının malzeme ve işçilik olarak fatura bazında ayrıştırılmasının mümkün bulunmadığı, bina maliyetinin geri kalan %50'lik bölümünün ise sökülüp nakledilmesi imkansız olan; betonarme kompozit döşemeler, binanın temel radye döşemesi, betonarme soket temeli, temel altında zeminin iyileştirilmesi için uygulanan fore kazık sistemi ile bazı doğramalar ve yapı elemanları gibi binanın taşınarak alanın terk edilmesi sırasında bina içerisindeki iktisadi kıymetini kaybedecek harcama kalemlerinden oluştuğu, 2014 hesap döneminde kullanılmaya başlanan söz konusu binanın taşınabilir bölümlerinin kira sözleşmesinin bitiminden önce veya sonra İstanbul'daki yeni havalimanının faaliyete geçmesi ile ilişkili olarak yeni havalimanında yapılacak benzer bir inşaat için kullanılmasının söz konusu olacağı belirtilmek suretiyle, DHMİ'den kiralanan alanda yapılan kısmen taşınabilir binanın tamamının özel maliyet olarak değerlendirilip değerlendirilmeyeceği, değerlendirilmemesi halinde taşınabilir bölümün tespiti ve amortismanı ile ilgili olarak uygulanması gereken yöntem konusunda Başkanlığımız görüşünün talep edildiği anlaşılmaktadır.
+213 sayılı Vergi Usul Kanununun;
+- 262 nci maddesinde, maliyet bedelinin, iktisadi bir kıymetin iktisap edilmesi veyahut değerinin artırılması münasebetiyle yapılan ödemelerle bunlara müteferri bilumum giderlerin toplamını ifade ettiği,
+- 269 uncu maddesinde, iktisadi işletmelere dahil bilumum gayrimenkullerin maliyet bedelleri ile değerleneceği; bu Kanuna göre, gayrimenkullerin mütemmim cüzüleri ve teferruatı, tesisat ve makinalar, gemiler ve diğer taşıtlar ile gayrimaddi hakların gayrimenkuller gibi değerleneceği,
+- 270 inci maddesinde, gayrimenkullerde, maliyet bedeline, satınalma bedelinden başka, makina ve tesisatta gümrük vergileri, nakliye ve montaj giderlerinin, mevcut bir binanın satın alınarak yıkılmasından ve arsasının tesviyesinden mütevellit giderlerin de gireceği; noter, mahkeme, kıymet takdiri, komisyon ve tellaliye giderleri ile Emlak Alım ve Özel Tüketim Vergilerini maliyet bedeline ithal etmekte veya genel giderler arasında göstermekte mükelleflerin serbest olduğu,
+- 271 inci maddesinde, inşa edilen binalarda ve gemilerde, imal edilen makina ve tesisatta, bunların inşa ve imal giderlerinin, satın alma bedeli yerine geçeceği,
+- 272 nci maddesinde, normal bakım, tamir ve temizleme giderleri dışında, gayrimenkulü veya elektrik üretim ve dağıtım varlıklarını genişletmek veya iktisadi kıymetini devamlı olarak artırmak maksadıyla yapılan giderlerin, gayrimenkulün veya elektrik üretim ve dağıtım varlıklarının maliyet bedeline ekleneceği, gayrimenkuller kira ile tutulmuş ise veya elektrik üretim ve dağıtım varlıklarının işletme hakkı verilmiş ise, kiracı veya işletme hakkına sahip tüzel kişi tarafından yapılan bir ve ikinci fıkralardaki giderlerin bunların özel maliyet bedeli olarak ayrıca değerleneceği, kiracının veya işletme hakkına sahip tüzel kişinin faaliyetini icra için vücuda getirdiği tesisata ait giderlerin de bu hükümde olduğu, gayrimenkuller veya elektrik üretim ve dağıtım varlıkları için yapılan giderlerin hem tamir, hem de kıymet artırma giderlerinden terekküp ettiği takdirde, mükellefin bu giderlerden maliyet bedeline eklenecek kısmı ayrı göstermek mecburiyetinde olduğu,
+- 313 üncü maddesinde, işletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan gayrimenkullerle 269 uncu madde gereğince gayrimenkul gibi değerlenen iktisadi kıymetlerin, alet, edavat, mefruşat, demirbaş ve sinema filmlerinin birinci kısımdaki esaslara göre tespit edilen değerinin bu Kanun hükümlerine göre yok edilmesinin amortisman mevzuunu teşkil edeceği,
+- 327 nci maddesinde, gayrimenkullerin, elektrik üretim ve dağıtım varlıklarının ve gemilerin iktisadî kıymetlerini artıran ve 272 nci maddede yazılı özel maliyet bedellerinin kira veya işletme hakkı süresine göre eşit yüzdelerle itfa edileceği, kira veya işletme hakkı süresi dolmadan, kiralanan veya işletme hakkı alınan şeyin boşaltılması veya işletme hakkının herhangi bir sebepten sona ermesi halinde henüz itfa edilmemiş olan giderlerin boşaltma veya hakkın sona erdiği yılda bir defada gider yazılacağı
+hükme bağlanmıştır.
+Ayrıca, mezkûr Kanunun 315 inci maddesinin verdiği yetkiye istinaden amortismana tabi iktisadi kıymetler için uygulanacak "Faydalı Ömür ve Amortisman Oranları" Bakanlığımızca tespit edilerek; 339, 365, 389, 399, 406, 418, 439 ve 458 Sıra No.lu Vergi Usul Kanunu Genel Tebliğleri ile değişik 333 Sıra No.lu Vergi Usul Kanunu Genel Tebliği eki liste (Amortisman Listesi) ile açıklanmıştır. Bahse konu Genel Tebliğin (2) No.lu bölümünde, Tebliğe ekli listenin 1-6 bölümleri arasında genel sınıflamaların yapılarak amortismana tabi iktisadi kıymetlerin faydalı ömürleri ve amortisman oranlarının tespit edildiği, listenin diğer bölümlerinde ise sektörler itibarı ile kullanılan amortismana tabi iktisadi kıymetlerin faydalı ömürleri ve amortisman oranlarının belirlendiği, mükelleflerin uygun amortisman oranlarını tespit ederken öncelikle, sektörel bazda tespit edilen amortisman oranlarını dikkate alacakları, bu ayrımlarda bulunmayan amortismana tabi iktisadi kıymetler için uygulanacak oranları, genel sınıflamada yer verilen oranlara göre tespit edecekleri belirtilmiştir.
+Bu itibarla, DHMİ ile şirketiniz arasında imzalanan kira sözleşmesine istinaden kiralanan alana inşa edilen binanın taşınabilir nitelikte olması, kısmen yeni yapılacak hava limanında kullanılacak olması, sözleşme süresi sonunda adı geçen kuruluşa devredilmemesi ve bu bakımdan yapılan harcamaların kiralanan gayrımenkulü genişletme veya iktisadi kıymetini devamlı olarak artırma niteliği bulunmadığı hususları göz önünde bulundurulduğunda, söz konusu kiralanan alana inşa edilen binanın özel maliyet kapsamında değerlendirilmesi mümkün bulunmamakta olup, inşa edilen binanın, taşınabilir ve taşınamaz kısım harcamalarını ihtiva eden maliyet bedeli ile değerlenmesi gerekmektedir. Ayrıca, maliyet bedeli ile aktife alınacak binanın, mezkûr amortisman listesine göre itfa edilmesi gerektiği tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

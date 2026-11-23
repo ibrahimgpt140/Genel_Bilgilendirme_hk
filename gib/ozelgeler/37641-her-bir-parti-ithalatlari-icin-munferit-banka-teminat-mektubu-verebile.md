@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 37641
+baslik: "Her bir parti ithalatları için münferit banka teminat mektubu verebilecekleri gibi, ileride yapacakları ithalatlarını da kapsayacak şekilde kendi firmaları adına global bir banka teminat mektubu verebileceklerdir."
+tarih: 1999-11-12
+sayi: "B.07.0.GEL.0.59/5910-46/049320"
+kanun: "3074 AKARYAKIT TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/591/ozelge/37641
+gib_guncelleme: 2025-03-24T21:54:06
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Her bir parti ithalatları için münferit banka teminat mektubu verebilecekleri gibi, ileride yapacakları ithalatlarını da kapsayacak şekilde kendi firmaları adına global bir banka teminat mektubu verebileceklerdir.
+
+**İlgili maddeler:** Mükerrer Madde 5 Beyan ve Ödeme
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 12.11.1999 SAYI : B.07.0.GEL.0.59/5910-46/049320 KONU : İthal edilecek ürünler için verilecek teminat mektupları hk. GÜMRÜK MÜSTEŞARLIĞINA (Gümrükler Genel Müdürlüğüne) İLGİ : a) 15.06.1999 tarih ve B.07.0.GEL.0.59/5910-16/24107 sayılı yazımız. b) 03.09.1999 tarih ve B.02.1.GÜM.0.06.00.17.521/6213/25983 sayılı yazınız. İlgi (b) de kayıtlı yazınızda, 9 ayrı şirket tarafından .....'tan ithal edilen 6 No.lu fuel-oilin ithali sırasında Akaryakıt Tüketim Vergisine ilişkin banka teminat mektubunun her ithalat için ayrı ayrı düzenlenmesinden kaynaklanan zaman ve iş kaybının önlenmesi amacıyla, ithal edilecek tüm ürünler için, ithalatı yapacak 9 şirket adına düzenlenecek global teminat mektubunun kabul edilmesinin talep edildiği belirtilerek, konuyla ilgili Bakanlığımız görüşünün bildirilmesi istenilmektedir. Bilindiği gibi, 07.11.1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanununa 3571 sayılı Kanunun 13. maddesi ile eklenen Mükerrer 5. maddesinin birinci fıkrasında, akaryakıt tüketim vergisine tabi petrol ürünlerini ithal eden gerçek veya tüzel kişilerin, ileride ödeyecekleri akaryakıt tüketim vergisi için gerektiğinde, esasları ve ürünler itibariyle tutarları Maliye ve Gümrük Bakanlığınca belirlenecek banka teminat mektubunu ilgili gümrük idaresine vermedikleri sürece gümrükleme yapılamayacağı, bu şekilde verilecek teminat mektubu tutarının ithal edilen ürünün gümrüklü değerinin bir katından fazla olamayacağı hükme bağlanmıştır. Teminat mektubu uygulamasına ilişkin esaslar, ilgi (a) da kayıtlı yazımız ekinde Müsteşarlığınıza gönderilen 20.07.1999 tarih ve 1999/1 sıra numaralı Akaryakıt Tüketim Vergisi Kanunu İç Genelgesi ile düzenlenmiş, daha önce de global teminat mektubu konusunda uygun görüş verilmiş bulunmaktadır. Teminat mektupları; bir borcun ödenmesinin veya bir taahhüdün yerine getirilmesinin temini için bankalar tarafından müteahhit veya borçlu lehine verilmiş bir güvence senedini ihtiva etmekte olup, bu mektuplar hangi iş ve kişi için verilmiş ise o iş ve kişi üzerindeki şartlar dahilinde paraya çevrilmektedir. Buna göre 9 firma adına global teminat düzenlenmesi halinde, bu firmalardan birinin veya bir kaçının taahhüdünü yerine getirmemesi durumunda teminatın, taahhüdünü yerine getirmeyen firma ve firmalar için paraya çevrilmesi ve paraya çevrilirken de global teminat mektubunun bankaya iade edilmesi gerekecektir. Daha sonraki bir tarihte taahhüdünü yerine getirecek olan firmalardan da yeni bir teminat mektubu gösterilmesi istenileceğinden, global teminat uygulamasının pratik bir yararı olmayacaktır. Dolayısıyla böyle bir global teminat mektubunun kabul edilmemesi gerekir. Ancak firmalar, her bir parti ithalatları için münferit banka teminat mektubu verebilecekleri gibi, ileride yapacakları ithalatlarını da kapsayacak şekilde kendi firmaları adına global bir banka teminat mektubu verebileceklerdir. Bilgi edinilmesini rica ederim.

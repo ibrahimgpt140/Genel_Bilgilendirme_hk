@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 36032
+baslik: "\"Portföy İşletmeciliği Yetki Belgesi\"nden her yıl finansal faaliyet harcı aranılıp aranılmayacağı hk."
+tarih: 2015-06-03
+sayi: "97895701-140[108-2014/13]-58197"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36032
+gib_guncelleme: 2025-03-24T20:31:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# "Portföy İşletmeciliği Yetki Belgesi"nden her yıl finansal faaliyet harcı aranılıp aranılmayacağı hk.
+
+**İlgili maddeler:** Madde 108 Mevzu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | 97895701-140[108-2014/13]-58197 | 03/06/2015
+Konu | : | Finansal Faaliyet Harcı
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, girişim sermayesi yatırım ortaklığı olarak faaliyet gösteren şirketinize .../.../2013 tarihinde Sermaye Piyasası Kurulu tarafından verilen "Girişim Sermayesi Yatırım Ortaklığı Portföy İşletmeciliği Yetki Belgesi"ne ait 2013 yılı harcının ödendiği belirtilerek, 2014 yılı içinde harç ödenip ödenmeyeceği hususunda görüş sorulduğu anlaşılmaktadır.
+492 sayılı Harçlar Kanununun 108 inci maddesinde, imtiyazname, ruhsatname ve diplomalardan bu kanuna bağlı (8) sayılı tarifede yazılı olanların harca tabi olduğu; 109 uncu maddesinde, imtiyazname, ruhsatname ve diploma harçlarını kendilerine bu belgeler verilen kişilerin ödemekle mükellef olduğu hükme bağlanmıştır.
+Aynı Kanuna bağlı (8) sayılı tarifede yer alan "XI-Finansal Faaliyet Harçları" başlıklı bölümün 4 üncü fıkrasında, yatırım ortaklığı kurma ve faaliyet izin belgelerinden harç alınacağı belirtilmiş ancak her yıl alınacağına dair bir ifadeye yer verilmemiştir.
+Öte yandan, 27 Seri No'lu Harçlar Kanunu Genel Tebliğinin I-A/a bölümünde, sürekli mükellefiyeti gerektiren ve ilgili vergi dairelerince takip ve tahsili gereken yıllık harca konu belgelere ilişkin açıklamalara yer verilmiştir.
+Buna göre, Sermaye Piyasası Kurulu tarafından şirketinize verilen ve yatırım ortaklığı kurma ve faaliyet izin belgeleri kapsamında bulunan .../.../2013 tarih ve ...sayılı "Portföy İşletmeciliği Yetki Belgesi"nden, söz konusu belgenin her yıl yenilenmesi gerekmemesi halinde, bir defaya mahsus olmak üzere harç alınması gerekmekte olup, bu yetki belgesine ilişkin olarak müteakip yıllar için harç aranılması söz konusu değildir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

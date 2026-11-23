@@ -1,0 +1,48 @@
+---
+tur: Özelge
+gib_id: 25310
+baslik: "Dernek tarafından yapılan kurs ve seminerlerin iktisadi işletme oluşturup oluşturmayacağı hk."
+tarih: 2014-04-07
+sayi: "51421814-130[17-2012/184]-44"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/25310
+gib_guncelleme: 2025-03-24T19:39:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Dernek tarafından yapılan kurs ve seminerlerin iktisadi işletme oluşturup oluşturmayacağı hk.
+
+**İlgili maddeler:** Madde 172 Defter Tutacaklar; Madde 223 Tasdik Makamı; Madde 1 Verginin konusu; Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 17
+
+T.C. GELİR İDARESİ BAŞKANLIĞI DENİZLİ VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | 51421814-130[17-2012/184]-44 | 07/04/2014
+Konu | : | Dernek tarafından yapılan kurs ve seminerlerin iktisadi işletme oluşturup oluşturmayacağı
+
+İlgide kayıtlı özelge talep formunuzda, dernek üyelerinden alacağınız aidatların katma değer vergisine tabi olup olmadığı ile dernek tüzüğü dahilinde kişisel gelişim faaliyetleri çerçevesinde (diksiyon, iletişim becerileri, hızlı okuma, hafıza teknikleri eğitimi gibi) kurs ve seminerler düzenlemek istediğiniz ve bu eğitimleri verebilmek için dışarıdan uzman kişilerin de temin edileceği belirtilerek bu durumun vergi mevzuatı açısından değerlendirilmesi talep edilmektedir.
+A) KURUMLAR VERGİSİ KANUNU YÖNÜNDEN:
+5520 sayılı Kurumlar Vergisi Kanununun 1/1-ç maddesi ile dernek ve vakıflara ait iktisadi işletmelerin kazançları kurumlar vergisinin konusu kapsamına alınmış olup, Kanunun 2 nci maddesinin beşinci fıkrasında da dernek veya vakıflara ait veya bağlı olup faaliyetleri devamlı bulunan sermaye şirketi ve kooperatif statüsünde bulunmayan ticari, sınai ve zirai işletmelerin iktisadi işletme olduğu; altıncı fıkrasında ise dernek veya vakıflara ait iktisadi işletmelerin kazanç amacı gütmemeleri, faaliyetlerinin kanunla verilmiş görevler arasında bulunması, tüzel kişiliklerinin olmaması, bağımsız muhasebelerinin ve kendilerine ayrılmış sermayelerinin veya iş yerlerinin bulunmamasının mükellefiyetlerini etkilemeyeceği; mal veya hizmet bedelinin sadece maliyeti karşılayacak kadar olması, kar edilmemesi veya karın kuruluş amaçlarına tahsis edilmesinin bunların iktisadi niteliğini değiştirmeyeceği hüküm altına alınmıştır.
+03.04.2007 tarihli ve 26482 sayılı Resmi Gazete'de yayımlanan 1 seri no.lu Kurumlar Vergisi Genel Tebliğinin "2.4. Dernek veya vakıflara ait iktisadi işletmeler" başlıklı bölümünde iktisadi işletmenin belirgin özelliklerine yer verilmiş olup, bunlar; bağlılık, devamlılık ve faaliyetin ticari, sınai veya zirai bir mahiyet arz etmesidir. Diğer bir anlatımla iktisadi işletmenin unsurları, ticari faaliyetin de temel özelliklerinden olan, bir organizasyona bağlı olarak piyasa ekonomisi içerisinde bedel karşılığı mal alım-satımı, imalatı vaya hizmet ifaları gibi faaliyetlerdir. Kanun, bu gibi halleri tek tek saymak yerine piyasa ekonomisi içerisinde icra edilen tüm iktisadi faaliyetleri kapsama almıştır. Anılan bölümde, iktisadi işletmenin tanımı içinde yer alan ve devamlı olarak yapılan ticari, sınai veya zirai faaliyetten söz edebilmek için bu işletmenin tedavül ekonomisine katılması, başka bir ifadeyle işletmede üretilen veya alınan malların veya verilen hizmetin bir bedel karşılığı satılmış olması gerektiği, aksi halde diğer unsurlar var olsa dahi bir iktisadi işletmenin varlığından söz edilemeyeceği ifade edilmiştir.
+Dernekler, tüzel kişilikleri itibariyle kurumlar vergisi mükellefi olmamakla birlikte derneklere ait iktisadi işletmeler kurumlar vergisi mükellefi olup vergisel yükümlülüklerini yerine getirmek zorundadırlar.
+Buna göre, derneğinizce düzenlenen kurs ve seminerlerin bir bedel karşılığı olmaksızın yerine getirilmesi halinde bu hizmetlerden dolayı derneğe bağlı bir iktisadi işletme oluşmayacaktır. Ancak kar amacı güdülmese dahi bu hizmetlerin yerine getirilmesi için yapılan masrafların hizmet verilenden tahsil edilmesi, doğrudan bağış adı altında da olsa bir bedel alınması durumunda derneğe bağlı bir iktisadi işletme oluşacağından, bu iktisadi işletme nezdinde kurumlar vergisi mükellefiyetinin tesis edileceği tabiidir.
+Diğer taraftan, derneklerin herhangi bir teslim ve hizmet karşılığı olmayan üyelik aidatlarının kurumlar vergisine tabi tutulmaması, ancak ödemenin bir teslim veya hizmet karşılığı yapılması halinde vergilendirilmesi gerekmektedir.
+B) KATMA DEĞER VERGİSİ KANUNU YÖNÜNDEN:
+3065 sayılı Katma Değer Vergisi Kanununun 1 inci maddesinin üçüncü fıkrasının (g) bendinde, genel ve katma bütçeli idarelere, il özel idarelerine, belediyeler ve köyler ile bunların teşkil ettikleri birliklere, üniversitelere, dernek ve vakıflara, her türlü mesleki kuruluşlara ait veya tabi olan veyahut bunlar tarafından kurulan veya işletilen müesseseler ile döner sermayeli kuruluşların veya bunlara ait veya tabi diğer müesseselerin ticarî, sınaî, ziraî ve meslekî nitelikteki teslim ve hizmetlerinin KDV ye tabi olduğu,
+17 nci maddesinin birinci fıkrasında, genel ve katma bütçeli daireler, il özel idareleri, belediyeler, köyler, bunların teşkil ettikleri birlikler, üniversiteler, döner sermayeli kuruluşlar, kanunla kurulan kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, siyasi parti ve sendikalar, kanunla kurulan veya tüzel kişiliği haiz emekli ve yardım sandıkları, kamu menfaatine yararlı dernekler, tarımsal amaçlı kooperatifler ve Bakanlar Kurulunca vergi muafiyeti tanınan vakıfların, ilim, fen ve güzel sanatları, tarımı yaymak, ıslah ve teşvik etmek amacıyla yaptıkları teslim ve hizmetleri ile tiyatro, konser salonu, kütüphane, sergi, okuma ve konferans salonları ile spor tesisleri işletmek veya yönetmek suretiyle ifa ettikleri kültür ve eğitim faaliyetlerine ilişkin teslim ve hizmetlerinin KDV den istisna olduğu,
+hüküm altına alınmıştır.
+Buna göre, derneğinizin kurs ve seminer faaliyetleri nedeniyle oluşan derneğinize ait iktisadi işletmenin teslim ve hizmetleri adı geçen Kanunun 1 inci maddesinin üçüncü fıkrasının (g) bendine göre KDV ye tabi olacaktır.
+Diğer taraftan, 08.08.2011 tarihli 60 No.lu KDV Sirkülerinde; "Üyelerden veya katılımcılardan alınan aidatlar, herhangi bir teslim veya hizmetin karşılığını teşkil etmemek şartıyla KDV nin konusuna girmemektedir. Örneğin dernek tüzüğünde belirtilen gelirlerden olan üye aidatları KDV ye tabi tutulmayacaktır." açıklamaları yer almaktadır.
+Bu itibarla, dernek tüzüğünde belirtilen üye aidatlarının herhangi bir teslim veya hizmetin karşılığını teşkil etmemesi şartıyla KDV ye tabi tutulmaması gerekmektedir. Ancak, derneğinizin üyelerine vereceği kurs ve seminer faaliyetlerinin karşılığı olarak alınacak üyelik aidatları kurum kazancının bir unsuru olarak KDV ye tabi olacaktır.
+C) VERGİ USUL KANUNU YÖNÜNDEN:
+213 sayılı Vergi Usul Kanununun 153 üncü maddesinde, kurumlar vergisi mükelleflerinin işe başlamayı vergi dairesine bildirmeye mecbur oldukları; 172 nci maddesinde, dernek ve vakıflara ait iktisadi işletmelerin defter tutmaya mecbur oldukları; 176 ncı maddesinde defter tutma bakımından iki sınıfa ayrılmış tüccarlardan I inci sınıf tüccarların bilanço esasına göre defter tutacakları; 177 nci maddesinde, her türlü ticaret şirketleri ile kurumlar vergisine tabi olan diğer tüzel kişilerin I inci sınıfa dahil oldukları hüküm altına alındıktan sonra, 182 nci maddede, bilanço esasında tutulacak defterler sayılmış, 220 nci maddede ise tasdike tabi defterlere ilişkin hükümler yer almıştır.
+Mezkûr Kanunun 229 uncu maddesinde fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesika olarak tanımlanmış, 230, 231 ve 232 nci maddelerinde, faturanın şekli ve nizamı ile fatura kullanma mecburiyetinde (fatura vermek ve almak zorunda) olanlara dair hükümlere yer verilmiş, 233 üncü ve müteakip maddelerinde de fatura yerine geçen belgeler düzenlenmiştir.
+Kurumlar Vergisi Kanununun 1 inci maddesine göre, dernekler (tüzel kişiliği itibarıyla) kurumlar vergisinin konusu dışında olup sadece bunlara ait iktisadi işletmelerin kurumlar vergisi mükellefiyeti bulunmaktadır. Derneklere ait veya bağlı olup faaliyetleri devamlı bulunan sermaye şirketleri ile kooperatifler dışında kalan ticari, sınai ve zirai işletmeler derneklerin iktisadi işletmeleridir.
+Derneklere bağlı iktisadi işletmeler diğer işletmeler gibi mükellefiyet tesis ettirme, defter tutma, beyanname verme, belge düzenine uyma ile Vergi Usul Kanununda belirtilen tüm vergisel yükümlülüklerini yerine getirmek zorundadır.
+Yukarıda yer alan kanun hükümlerine göre, Derneğinizin belli bir bedel karşılığında kursiyerlere düzenleyeceği kurs ve seminer faaliyetleri nedeniyle Derneğinize bağlı bir iktisadi işletme oluştuğundan Vergi Usul Kanunu hükümlerine göre birinci sınıf tüccarlar tarafından tutulması gereken defterlerin Kanunda belirtilen süreler içinde tasdik ettirilerek kullanılması, ayrıca aynı Kanunun belge düzeni ile ilgili hükümlerine riayet edilmesi gerekmektedir.
+Öte yandan herhangi bir teslim ve hizmet karşılığı olmayan üyelik aidatı için Vergi Usul Kanunu hükümlerine göre defter tutma ve belge düzenleme zorunluluğunuzun bulunmadığı tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

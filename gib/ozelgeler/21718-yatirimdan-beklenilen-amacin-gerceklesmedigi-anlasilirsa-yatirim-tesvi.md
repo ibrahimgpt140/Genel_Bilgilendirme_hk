@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 21718
+baslik: "Yatırımdan beklenilen amacın gerçekleşmediği anlaşılırsa, yatırım teşvik belgesinin mevcut haliyle tamamlanmış sayılarak kapatılması, yatırım indiriminden yararlandırılması için yeterli görülmemektedir."
+tarih: 2002-05-14
+sayi: "B.07.0.GEL.0.45/4500-31757/21899"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21718
+gib_guncelleme: 2025-03-24T19:28:52
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yatırımdan beklenilen amacın gerçekleşmediği anlaşılırsa, yatırım teşvik belgesinin mevcut haliyle tamamlanmış sayılarak kapatılması, yatırım indiriminden yararlandırılması için yeterli görülmemektedir.
+
+**İlgili maddeler:** Ek Madde 2 Yatırım İndirimin Şartları; Ek Madde 3 Yatırım İndiriminin Konusu ve Nispeti
+
+İlgi "a" da kayıtlı yazımızda: iliniz ..... Vergi Dairesi mükelleflerinden ..... hesap numarasında kayıtlı ..... A.Ş.'ne ait 03.12.1997 tarih ve 2770 sayılı İzin ve Teşvik Belgesinin mevcut haliyle tamamlanmış sayılarak kapatılması nedeniyle yararlanılan destek unsurlarının mükelleften alınması gerektiği bildirilmişti. Bu defa, bir örneği ekte gönderilen Hazine Müsteşarlığının ................ tarih ve ................ sayılı yazısında, belge kapsamından daha önce çıkarıldığı bildirilen 22 mt. boyundaki motor yatın belge kapsamına tekrar dahil edildiği belirtilmektedir. Bilindiği üzere, yatırım indirimi, genel kalkınma planlarında ve yıllık programlarda öngörülmüş bulunan alanlara, özel sektör tarafından yapılacak yatırımları özendirmek ve kalkınmayı hızlandırmak amacıyla düzenlenmiş bir teşvik sistemidir. Yatırım indiriminden yararlanmada esas olan yatırımların Gelir Vergisi Kanununda yer alan şartlara uygun olarak tamamlanmasıdır. Yukarıda belirtilen amaç doğrultusunda; 193 sayılı Gelir Vergisi Kanununun yatırım indiriminden yararlanma şartlarını düzenleyen Ek 2 nci maddesinin ikinci bendinde; yatırım indirimi uygulanacak yatırımın, kalkınma planları ve yıllık programlardan belirtilenlerden Maliye Bakanlığı ve Hazine Müsteşarlığı tarafından ortaklaşa kararlaştırılan sektörler veya konularda yapılması ile aynı maddenin beşinci bendinde, yatırım indirimi uygulanabilmesi için yatırımın Hazine Müsteşarlığının onayladığı şartlara uygun olarak yatırım teşvik belgesinde belirtilen süreler içinde tamamlanmış olması, şartlarına yer verilmektedir. Aynı Kanunun Ek 3 üncü maddesinin ikinci fıkrasında; "Yatırım indirimine,kaynağı ne olursa olsun, ek 2 nci maddede yazılı şartları haiz bulunan yatırımlarla ilgili harcamalardan; bina, makina, tesisat, araç (sadece işletmenin esas faaliyet konusu ile ilgili olanlar) ve benzeri amortismana tabi aktif değerlerin yeni olanlarının maliyet bedelleri esas teşkil eder." hükmü yer almaktadır. Buna göre, teşvik belgesi verilmesi ve destek unsurlarından yararlandırılmasından maksat, turizm faaliyetine ilişkin yatırımın öngörülen şartlar ve sürede yapılmasını sağlamaktır. Hazine Müsteşarlığının anılan yazısında belirtildiği üzere, turistik otel inşası ve buna bağlı olan yatırımlar için alınan teşvik belgesinin kapatılması sırasında, yatırımın esas unsuru olan turistik otel inşasının gerçekleştirilmediği, otel yatırımı yerine yat ve tekne harcaması yapılarak bu harcamaların otomobil bayiliği dolayısıyla elde edilen safi kurum kazancından indirim konusu yapılmak istendiği tespit edildiğinden, söz konusu teşvik belgesindeki harcamaların yatırım indirimi teşvikinden yararlanması mümkün bulunmamaktadır. Bu nedenlerle, yatırımdan beklenilen amacın gerçekleşmediği anlaşıldığından, yatırım teşvik belgesinin mevcut haliyle tamamlanmış sayılarak kapatılması, yatırım indiriminden yararlandırılması için yeterli görülmemektedir. Bilgi edinilmesini ve gereğini rica ederim.

@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 36554
+baslik: "Akaryakıt satışlarının faturaya dönüştürülmesi ve muhasebe kayıtları hk."
+tarih: 2014-04-14
+sayi: "95462982-105[VUK.ÖZLG-13-11]-110"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/36554
+gib_guncelleme: 2025-03-24T20:40:54
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Akaryakıt satışlarının faturaya dönüştürülmesi ve muhasebe kayıtları hk.
+
+**İlgili maddeler:** Madde 1 Kapsam
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BURSA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Usul Grup Müdürlüğü)
+
+Sayı | : | 95462982-105[VUK.ÖZLG-13-11]-110 | 14/04/2014
+Konu | : | Akaryakıt satışlarının faturaya dönüştürülmesi ve muhasebe kayıtları hk.
+
+İlgide kayıtlı özelge talep formunuzun tetkikinden, Akaryakıt pompalarına bağlı ödeme kaydedici cihazlar kullanılarak yapılan satışlar için otomatik olarak perakende satış fişi düzenlendiği, her gün sonunda da "Z" raporu alındığı, günlük olarak alınan "Z" raporlarındaki tüm hasılatın öncelikle gelir hesaplarına (yurt içi satışlar hesabına) kaydedildiği, daha sonra taşıt tanıma, müşteri tanıma, özel kartlar ve anlaşmalar gereğince gerçekleşen satışlarla ilgili ödeme kaydedici cihaz fişlerindeki tutarların faturaya dönüştürülerek ters kayıtla aynı hesapla ( yurt içi satışlar hesabına) gelir kayıtlarının yapıldığı, taşıt tanıma, müşteri tanıma, özel kartlar ve anlaşmalar kullanılarak gerçekleştirilen satışlara ait ÖKC fişlerinin ise 68 seri nolu genel tebliğ gereğince iptal edilerek 15 günü aşmamak kaydıyla 10 günlük periyotlar halinde faturaya dönüştürüldüğü belirtilerek, ödeme kaydedici cihazlara kayıtlı hasılatın muhasebe kayıtlarına intikalinde, "Z" raporlarının günlük tutarından taşıt tanıma, müşteri tanıma, özel kartlar ve anlaşmalar kullanılarak gerçekleştirilen ve sonradan faturaya dönüştürülen satışlardan tenzil edilerek kalan tutarın hasılat yazılıp yazılmayacağı konusunda Başkanlığımızdan görüş talep edildiği anlaşılmaktadır.
+Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında 3100 sayılı Kanunla ilgili olarak 07.09.2006 gün ve 26282 sayılı Resmi Gazete'de yayımlanan 68 Seri No.lu Genel Tebliğinin 1'inci bölümünde, "...Vergi Usul Kanununun Mükerrer 257 nci maddesinin 1 numaralı bendinde; "Mükellef ve meslek grupları itibariyle muhasebe usul ve esaslarını tespit etmeye, bu Kanuna göre tutulmakta olan defter ve belgeler ile bunlara ilaveten tutulmasını veya düzenlenmesini uygun gördüğü defter ve belgelerin mahiyet, şekil ve ihtiva etmesi zorunlu bilgileri belirlemeye, bunlarda değişiklik yapmaya; ...", 3 numaralı bendinde ise "Tutulması ve düzenlenmesi zorunlu defter, kayıt ve belgelerin mikro film, mikrofiş veya elektronik bilgi ve kayıt araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda izin vermeye veya zorunluluk getirmeye, ..." Maliye Bakanlığının yetkili olduğu hükümleri bulunmaktadır.
+Anılan hükümlerle Bakanlığımıza tanınan yetkiye dayanılarak, akaryakıt pompalarının bağlı olduğu ödeme kaydedici cihazlar kullanılmak suretiyle otomatik olarak düzenlenen fişlerin, fatura düzenleme tutarının (2013 yılı için 800 TL) altında veya üstünde olsa dahi "fatura yerine geçen belge" olarak kabul edilmesi ve bu şekilde belgelenen satışlar dolayısıyla nihai tüketiciler veya vergi mükelleflerince yapılan fatura düzenleme taleplerinin dikkate alınmaması uygun görülmüştür.
+Buna göre, nihai tüketicilerin tüketim amacıyla, mükellef olanların ise ticari, zirai ve mesleki faaliyetleriyle ilgili olarak satın aldıkları akaryakıt karşılığında düzenlenecek (üzerinde "TAŞIT VEYA MÜŞTERİ TANIMA SİSTEMİ FATURAYA DÖNÜŞTÜRÜLECEK" ibaresi bulunanlar hariç) söz konusu ödeme kaydedici cihaz fişleri, üzerinde yazılı tutar ne olursa olsun fatura yerine geçen belge olarak kabul edilecek, ayrıca faturaya dönüştürülmesi istenmeyecek ve yapılan incelemeler ve kontroller sırasında bu fişleri gider belgesi olarak kullananlardan fatura ibrazı talep edilmeyecektir." denilmiştir.
+Aynı Genel Tebliğin "Taşıt veya Müşteri Tanıma Sistemleri Kullanılarak veya Özel Anlaşmalara Dayanılarak Yapılan Akaryakıt Satışlarında Belge Düzeni" başlıklı 2'nci bölümünde de akaryakıt pompaları ödeme kaydedici cihazlara bağlanmış olan istasyonlardan, taşıt tanıma, müşteri tanıma vb. sistemler (fiş üzerinde "TAŞIT VEYA MÜŞTERİ TANIMA SİSTEMİ FATURAYA DÖNÜŞTÜRÜLECEK" ibaresi bulunan), bazı kurumlar tarafından geliştirilen özel kartlar (akıllı kart vb.) kullanılarak veya taşıt tanıma, müşteri tanıma vb. sistemler olmaksızın müşteriler ile akaryakıt dağıtım şirketleri veya istasyon işletmecileri arasında yapılan özel anlaşmalara dayanılarak gerçekleştirilen (ve pompalara bağlı ödeme kaydedici cihazlardan otomatik olarak çıkan fişlerle belgelendirilen) ve faturası mal teslimini müteakiben belirli periyotlarla düzenlenen akaryakıt satışlarına münhasır olmak üzere, bu satışlara ilişkin faturanın (katma değer vergisi açısından vergilendirme dönemi aşılmamak şartıyla) onbeş gün içinde dağıtım şirketleri ve/veya akaryakıt istasyon işletmelerince Vergi Usul Kanununa göre toplu olarak düzenlenceği ile belgeleme ve muhasebe kayıtlarına ilişkin usul ve esaslar açıklanmıştır.
+Buna göre; şirketinizce akaryakıt satışlarınız karşılığında pompalara bağlı ödeme kaydedici cihazlardan çıkan ve müşterilere verilen fişlerin (68 Seri No.lu Genel Tebliğin 2. bölümünde belirtilen haller dışında) müşterilerin isteğine binaen faturaya dönüştürülmemesi ve bu yöndeki fatura taleplerinin dikkate alınmaması ve muhasebe kayıtlarını da ödeme kaydedici cihazlardan alınan "Z" raporlarına göre yapılması gerekmektedir.
+Diğer taraftan, taşıt tanıma, müşteri tanıma vb. sistemler ile bazı kurumlar tarafından geliştirilen özel kartlar kullanılarak (akıllı kart vb.), taşıt tanıma, müşteri tanıma vb. sistemler olmaksızın müşteriler ile akaryakıt dağıtım şirketleri veya istasyon işletmecileri arasında özel anlaşmalara dayanılarak yapılan satışlarınıza ilişkin belge düzeninin ise 68 Seri No.lu Genel Tebliğin 2. bölümünde yapılan açıklamalar dikkate alınarak düzenlenecek faturanın katma değer vergisi açısından vergilendirme dönemi aşılmamak şartıyla on beş gün içinde düzenlenmesi ve bu kapsamdaki akaryakıt satışlarındaki muhasebe kayıtlarının da düzenlenen faturalarda yazılı miktar ve tutarların esas alınarak yapılması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 35451
+baslik: "Hazine arazisi üzerinde kurulan bedelsiz irtifak hakkı tesisi işleminde tapu harcı aranılıp aranılmayacağı hk."
+tarih: 2020-07-27
+sayi: "84695066-140-39056"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/35451
+gib_guncelleme: 2025-03-24T20:28:04
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Hazine arazisi üzerinde kurulan bedelsiz irtifak hakkı tesisi işleminde tapu harcı aranılıp aranılmayacağı hk.
+
+**İlgili maddeler:** Madde 4 Yabancı mahkeme ilamları; Madde 57 Mevzu; Madde 59 Harçtan müstesna tutulan işlemler; Madde 123 Özel kanunlardaki hükümler; Madde 7 Kamu kurum ve kuruluşlarının yükümlülükleri ve diğer hükümler
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+Zonguldak Vergi Dairesi Başkanlığı
+Gelir Kurumlar ve Diğer Vergiler Müdürlüğü
+
+Sayı | : | 84695066-140-E.39056 | 27.07.2020
+Konu | : | Hazine arazisi üzerinde kurulan bedelsiz irtifak hakkı tesisi işleminde tapu harcı aranılıp aranılmayacağı hk.
+
+İlgi | : | 10/6/2020 tarihli özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, 5084 Sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun mülga 5 inci maddesi kapsamında Kdz. Ereğli Yeni Tersaneler Bölgesinde başlamış olduğunuz ve 31/12/2008 tarihinde tamamladığınız yatırım faaliyetinde tersane alanı olarak kullandığınız Hazineye ait İlimiz Ereğli İlçesi, … Mahallesi, … ada ..ve … no.lu parsellerde bulunan, 13.678,42 m² ve 106.447,87 m² yüzölçümlü taşınmazlar üzerinde şirketiniz lehine 49 yıl süreyle bağımsız ve sürekli nitelikte irtifak hakkı tesis edilmesi işleminden tapu harcı aranılıp aranılmayacağı hususunda görüş talep edildiği anlaşılmıştır.
+
+492 sayılı Harçlar Kanununun 57 nci maddesinde tapu ve kadastro işlemlerinden bu Kanuna bağlı (4) sayılı tarifede yazılı olanlarının tapu ve kadastro harçlarına tabi olduğu belirtilmiş; Kanuna bağlı (4) sayılı tarifenin "I-Tapu işlemleri" başlıklı bölümünün; 13/c fıkrasında, (a) fıkrası dışında kalan her nevi cins ve kayıt tashihinde (her bir işlem için) maktu; 4 üncü maddesinde, gayrimenkullerin ve mülkiyetten gayri ayni hakların bağışlanmasında, kanuni mirasçılar dışında intifa hakkından kuru mülkiyet sahibi lehine ivazsız feragat edilmesinde ve süreli intifa haklarında süre dolarak intifa hakkının sona ermesinde kayıtlı değer üzerinden nispi; 20/d fıkrasında, gayrimenkul hükmündeki daimi ve müstakil hakların tesis ve devri için ödenen bedel üzerinden (Bu bedel, üzerinde hak tesis edilen gayrimenkulün emlak vergisi değerinin yarısından az, iki katından çok olamaz) devir alan için nispi harç aranılacağı hüküm altına alınmıştır.
+
+Buna göre, irtifak hakkı tesis ve devrinde tapu harcı, tesis ve devir için ödenen bedel esas alınmak suretiyle, tarife hükümlerinde belirtilmiş olan asgari ve azami miktarlar dikkate alınarak hesaplanmakta olup, irtifak hakkının bedelsiz olarak bağış müessesesi içinde yapılması durumunda 492 sayılı Kanuna bağlı (4) sayılı tarifenin "I-Tapu işlemleri" başlıklı bölümünün 4 üncü maddesi kapsamında harca tabi tutulması gerekmektedir.
+
+Ancak irtifak hakkının tesis ve devri işleminde, edinilen istifadeye karşı parasal anlamda bir bedel ödenmemekle beraber bir yükümlülük altına girildiği durumlarda, bağıştan söz edilmesi mümkün bulunmayacağından söz konusu işlem nedeniyle 492 sayılı Kanuna bağlı (4) sayılı tarifenin "I-Tapu işlemleri" başlıklı bölümünün 13/c maddesi kapsamında harç aranılacağı tabiidir.
+
+Bu itibarla, mülkiyeti Hazineye ait Ereğli İlçesi, … Mahallesi, … ada … ve … no.lu parsellerde bulunan 13.678,42 m² ve 106.447,87 m² yüzölçümlü taşınmazlarda, şirketinizin yatırım yapma taahhüdüne karşılık şirketiniz lehine bedelsiz olarak bağımsız ve sürekli nitelikte irtifak hakkı tesis edilmesi durumunda 492 sayılı Harçlar Kanununa bağlı (4) sayılı tarifenin I/13-c maddesi gereğince maktu harç aranılması; şirketinizin herhangi bir taahhüdüne karşılık olmayıp, bedelsiz olarak bağış müessesesi içinde şirketiniz lehine irtifak hakkı tesis edilmesi durumunda ise aynı tarifenin I/4 maddesi gereğince nispi tapu harcı aranılması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

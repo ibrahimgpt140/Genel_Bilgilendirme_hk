@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 24943
+baslik: "Tasdiksiz deftere kaydedilen belgenin KDV indirimi hk."
+tarih: 2012-02-16
+sayi: "B.07.4.DEF.0.17.10.00-KDV-2010-02-15"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/24943
+gib_guncelleme: 2025-03-24T19:38:22
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Tasdiksiz deftere kaydedilen belgenin KDV indirimi hk.
+
+**İlgili maddeler:** Madde 3 Vergi Kanunlarının Uygulanması ve İspat:; Madde 30 Re'sen Vergi Tarhı; Madde 134 Maksat; Madde 221 Tasdik Zamanı; Madde 29 Vergi İndirimi; Madde 34 İndirimin Belgelendirilmesi
+
+T.C. ÇANAKKALE VALİLİĞİ Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | B.07.4.DEF.0.17.10.00-KDV-2010-02-15 | 16/02/2012
+Konu | : | Tasdiksiz deftere kaydedilen belgenin KDV indirimi
+
+İlgi de kayıtlı özelge talep formunda, sehven Noter tasdiki yaptırılamayan 3/12/2008 - 31/12/2008 dönemine ait işletme defterine kaydedilen belgelerde yer alan KDV nin indirim konusu yapılıp yapılamayacağı hususunda Başkanlığımız görüşü istenilmektedir.
+213 sayılı Vergi Usul Kanununun 3/B maddesinde, vergilendirmede vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyetinin esas olduğu, 134 üncü maddesinde ise, incelemeden maksadın, ödenmesi gereken vergilerin doğruluğunu araştırmak, tespit etmek ve sağlamak olduğu hüküm altına alınmıştır. Aynı Kanunun "Tasdik Zamanı" başlıklı 221 inci maddesinde ise, "Bu Kanunda yazılı defterleri kullanacak olanlar, bunları aşağıda yazılı zamanlarda tasdik ettirmeye mecburdurlar" denilmektedir.
+Anılan Kanunun 352 nci maddesinin 8 numaralı bendinde; "Tasdiki mecburi olan defterlerden herhangi birinin tasdik muamelesinin yaptırılmamış olması (Kanuni sürenin sonundan başlayarak 1 ay geçtikten sonra tasdik ettirilenler tasdik ettirilmemiş sayılır.)" birinci derece usulsüzlük fiili olarak hüküm altına alınmıştır.
+Yine aynı Kanunun 30 uncu maddesi gereğince tutulması mecburi olan defterlerin tasdik ettirilmemiş olması re'sen takdir nedeni olarak belirlenmiştir.
+Öte yandan, KDV Kanununun 29/1-a ve 34/1 inci maddelerine göre, verginin indirim konusu yapılabilmesi için, fatura ve benzeri belgelerde ayrıca gösterilmesi ve bu belgelerin kanuni defterlere kaydedilmiş olması gerekmektedir.
+Bu hüküm ve açıklamalar çerçevesinde, tutulması zorunlu defterlerde;
+-Tasdik işleminin hiç yaptırılmamış olması,
+-Bir önceki takvim yılında veya hesap döneminde tasdik ettirilerek kullananlardan ara tasdike gidilmeksizin bir sonraki hesap döneminde de aynı defterlere kayıt yapılması,
+Vergi Usul Kanununun 30/3 ncü maddesine göre re'sen tarhiyat nedeni olup, bu defterlere kaydı yapılan belgelerde yer alan KDV nin de indirimi Kanunun 29 ve 34 üncü maddeleri gereğince mümkün bulunmamaktadır. Ancak, yapılacak incelemede ya da dönem matrahının takdiri sırasında tasdik ettirilmemiş defterlere kaydedilen belgelerin gerçek olduklarına kanaat getirilmesi ve bu verginin satıcı tarafından beyan edildiğinin tespit edilmiş olması kaydıyla bu belgelerdeki KDV nin indirim konusu yapılması mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 23030
+baslik: "Gerçek usulde faaliyetini terk eden,1999 yılında taksi işletmeciliği faaliyetine başlaması halinde, 31.12.1998 tarihi itibariyle basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirilmesi mümkün bulunmaktadır."
+tarih: 1999-03-23
+sayi: "B.07.0.GEL.0.44/4405-1036/11695"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23030
+gib_guncelleme: 2025-03-24T19:29:50
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Gerçek usulde faaliyetini terk eden,1999 yılında taksi işletmeciliği faaliyetine başlaması halinde, 31.12.1998 tarihi itibariyle basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirilmesi mümkün bulunmaktadır.
+
+**İlgili maddeler:** Madde 47 Basit usule tabi olmanın genel şartları(*); Madde 48 Basit Usule Tabi Olmanın Özel Şartları; Madde 50 Götürü Usule Tabi Olmanın Şartlarını Takvim Yılı İçinde Kaybedenler; Geçici Madde 44 (4369 sayılı Kanunun 54'üncü maddesiyle eklenen geçici madde)
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 23.03.1999 SAYI : B.07.0.GEL.0.44/4405-1036/11695 KONU : 1993 yılında gerçek usulde vergilendirmeye konu faaliyetini terk eden mükellefin 1999 yılına ta ksi işletmeciliğine başlaması halinde basit usulden fayda- lanıp faydalanamayacağı hk. ANKARA VALİLİĞİ (Defterdarlık: Vasıtasız Vergiler Gelir Müdürlüğüne) İLGİ : 24.02.1999 tarih ve B.07.4.DEF.0.06.11/GVK-12050-61/16649 sayılı yazınız. İlgide kayıtlı yazınız ekinde yer alan ve .....'a tayin edilen ..... sayılı muktezanız incelenmiş olup, aşağıdaki açıklamaların yapılmasına gerek görülmüştür. Bilindiği gibi, 193 sayılı Gelir Vergisi Kanununun 3946 sayılı Kanunla değişmeden önceki 50'nci maddesinde "Götürülük şartlarını kaybetmek suretiyle veya kendi talepleri üzerine gerçek usulde teklif edilecek olanlar, aynı işe devam ettikleri müddetçe bu usulden dönemezler" hükmü yer almıştır. Gelir Vergisi Kanununun 50'nci maddesinde 3946 sayılı Kanunla yapı lan değişiklik ile herhangi bir şekilde gerçek usulde vergilendirilecek olanlar veya gerçek usulde vergilendirilen mükelleflerin, yaptıkları işlerin niteliğine bakılmaksızın bir daha hiçbir şekilde götürü usulden yararlanamayacakları hükme bağlanmıştır. Bu hü kmün uygulanmasına ilişkin esaslar, 172 seri no'lu Gelir Vergisi Genel Tebliğinde örnekler ile açıklanmıştır. Anılan Tebliğde de açıklandığı üzere, bu hüküm 01.01.1994 tarihinden itibaren geçerlidir. Bu hükmün yürürlüğe girdiği tarihten önceki dönemde, f a aliyette bulunduğu şehir içi inşaat suyu taşımacılığı işini 1993 yılında terk eden adı geçen, daha sonraki yıllarda taksicilik faaliyetine başlayarak mükellefiyet tesisi için müracaat etmesi halinde, götürü usule tabi olmanın şartlarını taşıdığından götür ü usulde vergilendirilecektir. Diğer taraftan; 193 sayılı Gelir Vergisi Kanununa 4369 sayılı Kanunla eklenen geçici 44 üncü maddede "Götürü usule tabi ticaret erbabından Gelir Vergisi Kanununun bu Kanunla değişik 47 ve 48 inci maddelerinde sayılan basit usule tabi olmanın genel ve özel şartlarını 31.12.1998 tarihi itibariyle taşıyanlar 1.1.1999 tarihinden itibaren basit usule tabi olurlar." hükmü yer almaktadır. Buna göre; 1993 yılında gerçek usulde vergilendirmeye konu faaliyetini terk eden adı geçenin, 1999 yılında taksi işletmeciliği faaliyetine başlaması halinde, 31.12.1998 tarihi itibariyle basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirilmesi mümkün bulunmaktadır. Bilgi edinilmesini, gereğinin buna göre yapılmasını ve neticesinden ilgiliye de bilgi verilmesini rica ederim. Bakan a. Daire Başkanı

@@ -1,0 +1,37 @@
+---
+tur: Özelge
+gib_id: 20970
+baslik: "Kordela nakışı, örme bebek yelekleri, örme şal, banyo lif, bohça, ahşap boyama tepsi çalışmalarında esnaf muaflığı hk."
+tarih: 2012-08-16
+sayi: "B.07.1.GİB.4.48.15.01-120[9- 2012/20]-126"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/20970
+gib_guncelleme: 2025-03-24T19:28:26
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kordela nakışı, örme bebek yelekleri, örme şal, banyo lif, bohça, ahşap boyama tepsi çalışmalarında esnaf muaflığı hk.
+
+**İlgili maddeler:** Madde 9 Vergiden Muaf Esnaf; Madde 37 Ticari Kazancın Tarifi; Madde 46 Basit Usulde Ticari Kazancın Tespiti
+
+T.C. GELİR İDARESİ BAŞKANLIĞI MUĞLA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.48.15.01-120[9- 2012/20]-126 | 16/08/2012
+Konu | : | Kordela nakışı, örme bebek yelekleri, örme şal, banyo lif, bohça, ahşap boyama tepsi çalışmalarında esnaf muaflığı
+
+İlgide kayıtlı özelge talep formunda, açık pazar yerinde belediyeye ait tahta baraka büfede kordela nakışı, örme bebek yelekleri, elde yapılan bayan çantaları, örme şal, banyo lifi, bebek pikeleri, bohça, pike takımları, ahşap boyama tepsi ve şekerlik yaptığınızı belirterek, esnaf muaflığından faydalanıp faydalanamayacağınız hususunda görüş talep edilmektedir.
+193 sayılı Gelir Vergisi Kanununun "Vergiden Muaf Esnaf" başlıklı 9 uncu maddesinde, "Ticaret ve sanat erbabından aşağıda yazılı şekil ve suretle çalışanlar gelir vergisinden muaftır.
+1- Motorlu nakil vasıtaları kullanmamak şartı ile gezici olarak veya bir iş yeri açmaksızın perakende ticaret ile iştigal edenler (Giyim eşyalarıyla zati ve süs eşyaları, değeri yüksek olan ev eşyaları ile pazar takibi suretiyle gıda, bakkaliye ve temizlik maddelerini ve sabit iş yerlerinin önünde sergi açmak suretiyle o iş yerlerinde satışı yapılan aynı neviden malları satanlar hariç)
+...
+6-(5615 sayılı kanunla değiştirilen bent; yürürlülük tarihi 04/04/2007) Evlerde kullanılan dikiş, nakış, mutfak robotu, ütü ve benzeri makine ve aletler hariç olmak üzere, muharrik kuvvet kullanmamak ve dışarıdan işçi almamak şartıyla; oturdukları evlerde imal ettikleri havlu, örtü, çarşaf, çorap, halı, kilim, dokuma mamulleri, kırpıntı deriden üretilen mamuller, örgü, dantel, her nevi nakış işleri ve turistik eşya, hasır, sepet, süpürge, paspas, fırça, yapma çiçek, pul, payet, boncuk işleme, tığ örgü işleri, ip ve urganları, tarhana, erişte, mantı gibi ürünleri işyeri açmaksızın satanlar. Bu ürünlerin, pazar takibi suretiyle satılması ile ticari, zirai veya mesleki faaliyetleri dolayısıyla gelir ve kurumlar vergisi mükellefi olanların düzenledikleri hariç olmak üzere; düzenlenen kermes, festival, panayır ile kamu kurum ve kuruluşlarınca geçici olarak belirlenen yerlerde satılması muaflıktan faydalanmaya engel değildir." hükmü yer almaktadır.
+Öte yandan, Gelir Vergisi Kanununun 37 nci maddesinde, her türlü ticari ve sınaî faaliyetlerden doğan kazançların ticari kazanç olduğu belirtildikten sonra, ticari kazancın, Vergi Usul Kanunu hükümlerine ve Gelir Vergisi Kanununda yazılı gerçek (Bilânço veya işletme hesabı esası) veya basit usullere göre tespit edileceği hükme bağlanmıştır.
+Aynı Kanunun 46 ncı maddesinde de 47 ve 48 inci maddelerde yazılı şartları topluca haiz olanların ticari kazançlarının basit usulde tespit olunacağı belirtilmiş, anılan maddelerde ise basit usule tabi olmanın genel ve özel şartları açıklanmıştır.
+Diğer taraftan, 213 sayılı Vergi Usul Kanunu'nun 156 ncı maddesinde; "Ticari, sınai, zirai ve mesleki faaliyette işyeri; mağaza, yazıhane, idarehane, muayenehane, imalathane şube, depo, otel, kahvehane, eğlence ve spor yerleri, tarla, bağ, bahçe, çiftlik, hayvancılık tesisleri, dalyan ve voli mahalleri, madenler, taş ocakları, inşaat şantiyeleri, vapur büfeleri gibi ticari, sınai, zirai veya mesleki bir faaliyetin icrasına tahsis edilen veya bu faaliyetlerde kullanılan yerdir." şeklinde tanımlanmıştır.
+Konu ile ilgili ... Malmüdürlüğünden alınan 15.06.2012 tarih ve B.07.4.DEF.4.48.70.00/1958 sayılı yazı eki yoklama fişlerinde; ... Belediyesine ait açık pazar yerindeki tahta barakadan yapılmış büfede kordela nakışı, örme bebek yelekleri, elde yapılan bayan çantaları, örme şal, pike takımı (elde yapılan), ahşap boyama tepsi, şekerlik, ekmeklik satışının yapıldığı tespit edilmiş olup, bu faaliyeti ... Noterliğinin 11 Nisan 2012 tarih ve 00854 yevmiye No.lu Kira Sözleşmesi ile büfeyi bir yıllığına 600,00-TL'ye kiraladığınız işyerinde yaptığınız anlaşılmıştır.
+Buna göre, işyeri açarak faaliyette bulunmanız nedeniyle, esnaf muaflığından faydalanmanız mümkün bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

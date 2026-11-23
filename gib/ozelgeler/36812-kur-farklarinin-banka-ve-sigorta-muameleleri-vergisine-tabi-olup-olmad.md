@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36812
+baslik: "Kur farklarının banka ve sigorta muameleleri vergisine tabi olup olmadığı hakında."
+tarih: 1997-06-30
+sayi: "B.07.GEL 0. 56/5601- 846/27239"
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/36812
+gib_guncelleme: 2025-03-24T20:44:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kur farklarının banka ve sigorta muameleleri vergisine tabi olup olmadığı hakında.
+
+**İlgili maddeler:** Madde 28 I-Mevzu, vergiyi doğuran olay
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH: 30.06.1997 SAYI : B.07.GEL 0. 56/5601- 846/27239 KONU : K ur farklarının banka ve sigorta muameleleri vergisine tabi olup olmadığı hk. TEKİRDAĞ VALİLİĞİNE (Defterdarlık: Gelir Müdürlüğü) İLGİ: 21.7.1994 gün ve 606-BSMV-106-1994/3730 sayılı yazınız. Yazınızda, İliniz ..... Bankası ..... Şubesinden işyeri kredisi kullanan ..... ve .....'e aylık kur farkları üzerinden uygulanan banka ve sigorta muameleleri vergisinin ..... Vergi Dairesi Müdürlüğünce iade edilmesi üzerine, Saymanlık hesaplarını inceleyen Sayıştay Murakıplarınca adı geçen Vergi Dairesi Müdürlüğünden yapılan işlemin izahının istenildiği bildirilerek, kur farklarının banka ve sigorta muameleleri vergisine tabi olup olmadığı hususunun bildirilmesi istenilmektedir. Bilindiği üzere, 6802 sayılı Gider Vergileri Kanunu'nun 28. maddesinde; "Banka ve sigorta şirketlerinin 10.6.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanunu'na göre yaptıkları işlemler hariç olmak üzere, her ne şekilde olursa olsun yapmış oldukları bütün muameleler dolayısıyla kendi lehlerine he r ne nam ile olursa olsun nakden veya hesaben aldıkları paralar, banka ve sigorta muameleleri vergisine tabidir." denilmektedir. Bu hüküm gereğince, banka ve sigorta muameleleri vergisinde vergiyi doğuran olayın meydana gelebilmesi için bankaca bir muamele yapılmış olması ve bu muamele dolayısıyla banka lehine nakden veya hesaben bir para kalması gerekmektedir. K redi faizlerinde, faiz tahakkukunun yapılarak gelir hesaplarına alınması ile banka yönünden faiz geliri elde edilmiş olmakta ve vergiyi doğuran olay da o anda meydana gelmektedir. Döviz kredilerinde faiz tahakkukunun döviz cinsinden yapılması halinde banka ve sigorta muameleleri vergisi uygulamasına iki açıdan bakmak gerekir. 1-Faiz tahakkuku ile tahsilatı aynı anda yapılıyor ise,dövizin o günkü kuru üzerinden hesaplanan TL. banka ve sigorta muameleleri vergisinin matrahı olacaktır. Bu durumda, döviz olarak alınan faizin miktarı sabit olsa dahi döviz kurundaki değişime paralel olarak her defasında banka ve sigorta muame l eleri vergisinin matrahı farklı olacaktır. (Yani kur farkını da kapsayacaktır.) 2- Faiz tahakkuku ile tahsilatının farklı tarihlerde yapılması halinde, faiz tahakkukunun yapıldığı tarihteki kur üzerinden banka ve sigorta muameleleri vergisi ödenecek, tahakkuk ile tahsil tarihi arasında kur farkından kaynaklanarak banka gelirlerine kaydedilen para, yapılan muamele sonucu lehe alınan bir para olmadığından banka ve sigorta muameleleri vergisine tabi tutulmayacaktır. Ayrıca, banka tarafından gelir hesaplarına alınan anaparadaki kur farklarının banka ve sigorta muameleleri vergisine tabi tutulması gerekir. Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim. Bakan a. Daire Başkanı

@@ -1,0 +1,71 @@
+---
+tur: Özelge
+gib_id: 28718
+baslik: "İndirimli kurumlar vergisi."
+tarih: 2017-07-28
+sayi: "B.07.1.GİB.4.35.16.01-125[32/A-2015/3]-36594"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28718
+gib_guncelleme: 2025-03-24T19:52:04
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İndirimli kurumlar vergisi.
+
+**İlgili maddeler:** Madde 32 Kurumlar vergisi ve geçici vergi oranı
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İZMİR VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Vergileri Grup Müdürlüğü)
+
+Sayı | : | 84098128-125[32/A-2015/3]- | 28.07.2017
+Konu | : | İndirimli kurumlar vergisi.
+
+İlgide kayıtlı özelge talep formunuzda, şirketinizin "AOSB ... Çiğli/ İZMİR" adresinde elektrikli aydınlatma ürünleri ve armatürleri üretimi faaliyeti ile iştigal ettiği, 27.03.2014 tarihinde yatırım tamamlama vizesi gerçekleştirilen ... sayılı "Konusu: Elektrik Ampulü ve Lambaları ile Aydınlatma Teçhizatı İmalatı", "Cinsi: Komple Yeni Yatırım" olan Yatırım Teşvik Belgesine sahip olduğu ve söz konusu yatırım teşvik belgesinin 14.07.2009 tarihli ve 2009/15199 sayılı Bakanlar Kurulu Kararnamesi ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Karar hükümlerinden faydalandığı belirtilerek,
+
+a) Söz konusu yatırım teşvik belgesinde yatırım cinsi olarak "komple yeni yatırım" ibaresi yer aldığı ancak, teşvik belgesi kapsamında gerçekleştirilen komple yeni yatırımın, teşvik belgesi öncesi şirketinizce inşası tamamlanan fabrika binası içerisinde gerçekleştirildiği belirtilerek, anılan üretim tesisinden elde edilen kazancın tamamına indirimli kurumlar vergisi uygulanıp uygulanamayacağı,
+
+b) Bahsi geçen yatırım teşvik belgesinin Aliağa tesisinizde üretilen ara ürünlere ait olduğu, bu ürünlerin doğrudan satışa konu edilmeyip Çiğli'de faaliyet gösteren fabrikanızda üretilen nihai ürünlerin imalatında kullanıldığı belirtilerek, bu açıdan değerlendirildiğinde Aliağa tesisinizde üretilen ara ürünlere ilişkin olarak elde edilen kazancın nasıl hesaplanacağı,
+
+hususlarında Başkanlığımız görüşü talep edilmektedir.
+
+5520 sayılı Kurumlar Vergisi Kanununun 32/A maddesinde,
+
+"(1) Finans ve sigortacılık sektörlerinde faaliyet gösteren kurumlar, iş ortaklıkları, taahhüt işleri, 16/7/1997 tarihli ve 4283 sayılı Kanun ile 8/6/1994 tarihli ve 3996 sayılı Kanun kapsamında yapılan yatırımlar ile rödovans sözleşmelerine bağlı olarak yapılan yatırımlar hariç olmak üzere, bu maddenin ikinci fıkrasında belirtilen ve Hazine Müsteşarlığı tarafından teşvik belgesine bağlanan yatırımlardan elde edilen kazançlar, yatırımın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren yatırıma katkı tutarına ulaşıncaya kadar indirimli oranlar üzerinden kurumlar vergisine tabi tutulur.
+
+(2) Bu maddenin uygulamasında yatırıma katkı tutarı, indirimli kurumlar vergisi uygulanmak suretiyle tahsilinden vazgeçilen vergi yoluyla yatırımların Devletçe karşılanacak tutarını, bu tutarın yapılan toplam yatırıma bölünmesi suretiyle bulunacak oran ise yatırıma katkı oranını ifade eder. Bakanlar Kurulu;
+
+a) İstatistikî bölge birimleri sınıflandırması ile kişi başına düşen milli gelir veya sosyoekonomik gelişmişlik düzeylerini dikkate almak suretiyle illeri gruplandırmaya ve gruplar itibarıyla teşvik edilecek sektörleri ve bu sektörler ile organize sanayi bölgeleri, Gökçeada ve Bozcaada'da yapılan yatırımlara ve Bakanlar Kurulunca belirlenen kültür ve turizm koruma ve gelişim bölgelerinde yapılan turizm yatırımlarına ilişkin yatırım ve istihdam büyüklüklerini belirlemeye,
+
+b) Her bir il grubu, stratejik yatırımlar veya (a) bendinde belirtilen yerler için yatırıma katkı oranını % 55'i, yatırım tutarı 50 milyon Türk Lirasını aşan büyük ölçekli yatırımlarda ise % 65'i geçmemek üzere belirlemeye, kurumlar vergisi oranını % 90'a kadar indirimli uygulatmaya,
+
+c) Yatırıma başlanan tarihten itibaren bu maddeye göre hesaplanacak yatırıma katkı tutarına mahsuben, toplam yatırıma katkı tutarının %50'sini ve gerçekleştirilen yatırım harcaması tutarını geçmemek üzere; yatırım döneminde kurumun diğer faaliyetlerinden elde edilen kazançlarına indirimli kurumlar vergisi oranı uygulatmak suretiyle yatırıma katkı tutarını kısmen kullandırmaya, bu oranı her bir il grubu için sıfıra kadar indirmeye veya %80'e kadar artırmaya,
+
+ç) Yatırım harcamaları içindeki arsa, bina, kullanılmış makine, yedek parça, yazılım, patent, lisans ve know-how bedeli gibi harcamaların oranlarını ayrı ayrı veya topluca sınırlandırmaya, yetkilidir...
+
+..."
+
+hükmüne yer verilmiştir.
+
+Konuya ilişkin açıklamalara 2009/15199 sayılı Yatırımlarda Devlet Yardımları Hakkında Bakanlar Kurulu Kararı ile 2009/1 No.lu Yatırımlarda Devlet Yardımları Hakkında Kararın Uygulanmasına İlişkin Tebliğde yer verilmiştir.
+
+Anılan Tebliğin "Ek-4 Yatırım Cinsleri" başlıklı bölümünde;
+
+"Komple yeni yatırım: Mal ve hizmet üretimine yönelik olarak ana makine ve teçhizat ile yardımcı tesisleri içeren, gerektiğinde arazi-arsa, bina-inşaat harcamalarını da ihtiva eden, yatırımın yapılacağı yerde aynı üretim konusunda mevcut tesisi veya altyapı bütünlüğü bulunmayan yatırımlardır. Ayrıca, mevcut tesislerde makine ve teçhizat ilavesi nedeniyle kapasite artışının %100'ü geçmesi halinde bu yatırımlar yeni yatırım sayılır.
+
+…"
+
+açıklamalarına yer verilmiştir.
+
+Bu hüküm ve açıklamalar uyarınca, Hazine Müsteşarlığı tarafından 2009/15199 sayılı Karara göre düzenlenmiş olan teşvik belgesi kapsamındaki yatırımlardan elde edilen kazançlar, yatırımın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren yatırıma katkı tutarına ulaşıncaya kadar indirimli oranlar üzerinden kurumlar vergisine tabi tutulacaktır.
+
+Özelge talep formunuz ekinde yer alan ve 2009/15199 sayılı Karara göre düzenlenmiş olan yatırım teşvik belgesinin incelenmesinden, yapmış olduğunuz yatırımın komple yeni yatırım olduğu ve yatırımın konusunu da elektrik ampülü ve lambaları ile aydınlatma teçhizatı imalatı faaliyetlerinin oluşturduğu anlaşılmıştır.
+
+Buna göre, teşvik belgesi kapsamında gerçekleştirdiğiniz komple yeni yatırımın, teşvik belgesi öncesi şirketinizce inşası tamamlanan fabrika binası içerisinde gerçekleştirilmesi nedeniyle anılan üretim tesisinden elde edilen kazancın tamamına indirimli kurumlar vergisi uygulanması mümkün değildir. Söz konusu yatırımınızın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren Aliağa tesisinizde üretilen ürünlerin satışından elde edilen kazancın sadece 2009/15199 sayılı Karara göre düzenlenmiş yatırım teşvik belgeli yatırımınızdan kaynaklanan kısmı indirimli kurumlar vergisine tabi tutulabilecektir.
+
+Öte yandan, Aliağa tesisinizde anılan yatırım teşvik belgesi kapsamında gerçekleştirdiğiniz yatırımınızdan elde edilen ürünlerin doğrudan satışa konu edilmeyip Çiğli'de faaliyet gösteren fabrikanızda nihai ürünlerin imalatında kullanılması nedeniyle, Çiğli fabrikanızda üretilen nihai ürünlerin satışından doğan kazancınızdan Aliağa tesisinde yatırım teşvik belgesi kapsamında üretilen ara ürünlere isabet eden kısmın ayrıştırılarak tespit edilmesi ve sadece tespit edilen bu kazanca indirimli kurumlar vergisi uygulanması mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

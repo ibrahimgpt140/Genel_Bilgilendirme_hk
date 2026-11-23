@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 32572
+baslik: "Hava ambulans hizmetinde KDV oranı hk."
+tarih: 2015-03-11
+sayi: "39044742-010.01-419"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32572
+gib_guncelleme: 2025-03-24T20:08:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Hava ambulans hizmetinde KDV oranı hk.
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | 39044742-010.01-419 | 11/03/2015
+Konu | : | Hava ambulans hizmetinde KDV oranı
+
+İlgide kayıtlı özelge talep formunuzda, Şirketiniz tarafından ifa edilen hava ambulans hizmeti ile söz konusu ambulansın başka bir firmaya kiralanması hizmetinde uygulanması gereken KDV oranı hakkında Başkanlığımız görüşü talep edilmektedir.
+3065 sayılı KDV Kanununun; 1/1 inci maddesinde, ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde Türkiye'de yapılan teslim ve hizmetlerin vergiye tabi olduğu hüküm altına alınmıştır.
+KDV oranları, KDV Kanununun 28 inci maddesinin Bakanlar Kuruluna verdiği yetkiye istinaden yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi (BKK) ile BKK eki (I) sayılı listede yer alan mal ve hizmetler için %1, (II) sayılı listede yer alan mal ve hizmetler için %8, listelerde yer alanlar hariç olmak üzere vergiye tabi işlemler için %18 olarak tespit edilmiştir.
+2007/13033 sayılı BKK eki II sayılı listenin (B/21) inci sırasında, yer alan "İlgili Bakanlıklar ya da kanunlarla izin verilen gerçek veya tüzel kişiler tarafından yerine getirilen insan veya hayvan sağlığına yönelik koruyucu hekimlik, teşhis, tedavi ve rehabilitasyon hizmetleri (hayvan ırkının ıslahına yönelik hizmetler dahil), ambulans hizmetleri" %8 oranında KDV ye tabi tutulmaktadır.
+60 No.lu KDV Sirkülerinin "5. Oran" başlıklı bölümünde konu ile ilgili açıklamalara yer verilmiştir.
+Buna göre, Şirketiniz tarafından ifa edilen hava ambulans hizmeti 2007/13033 sayılı BKK eki (II) sayılı listenin (B/21) inci sırası kapsamında değerlendirilerek (%8) oranında KDV ye tabi tutulacaktır.
+Diğer taraftan; hava ambulansı hizmetinin ifa edilmesi için gerekli ekipmana sahip uçağın ambulans hizmeti veren başka firmaya kiralanması işlemi, ambulans hizmeti mahiyetinde olmadığından, genel oranda (%18) KDV ye tabi olacaktır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

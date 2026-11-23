@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 28745
+baslik: "Komple yeni yatırım için yapılan tamamlama vizesinde finansal kiralama yoluyla alınan makine ve teçhizatın sadece ödenen kira bedellerinin alınması durumunda indirimli kurumlar vergisinden yararlanılıp yararlanılamayacağı hk."
+tarih: 2013-07-30
+sayi: "84098128-176300-453"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28745
+gib_guncelleme: 2025-03-24T19:52:08
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Komple yeni yatırım için yapılan tamamlama vizesinde finansal kiralama yoluyla alınan makine ve teçhizatın sadece ödenen kira bedellerinin alınması durumunda indirimli kurumlar vergisinden yararlanılıp yararlanılamayacağı hk.
+
+**İlgili maddeler:** Madde 32 Kurumlar vergisi ve geçici vergi oranı
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İZMİR VERGİ DAİRESİ BAŞKANLIĞI MÜKELLEF HİZMETLERİ GELİR VERGİLERİ GRUP MÜDÜRLÜĞÜ
+
+Sayı | : | 84098128-176300-453 | 30/07/2013
+Konu | : | Komple yeni yatırım için yapılan tamamlama vizesinde finansal kiralama yoluyla alınan makine ve teçhizatın sadece ödenen kira bedellerinin alınması durumunda indirimli kurumlar vergisinden yararlanılıp yararlanılamayacağı.
+
+İlgide kayıtlı özelge talep formunda;
+- ...... İli ..... İlçesinde ... tarih ve ... sayılı Yatırım Teşvik Belgesi kapsamında gerçekleştirilen ......... yatırımının tamamlandığı ve tamamlama vizesinin Müsteşarlıkça yapılarak anılan belge yerine geçmek üzere 94006C sayılı belgenin tarafınıza gönderildiği,
+- Belge kapsamında, 5.575.827 TL yerli ve 396.514,33 TL ithal olmak üzere 5.972.341,33 TL makine ve teçhizat harcaması gerçekleştirildiği,
+- Teşvik belgesi özel şartlarında da belirtildiği üzere, yerli makine ve teçhizatın 3.895.424 TL'lik kısmı ile ithal makine ve teçhizatın 175.000 $'lık kısmının (268.258 TL) finansal kiralama yoluyla alındığı,
+- Ancak, Müsteşarlıkça teşvik belgesi kapanış rakamlarında makine ve teçhizata ilişkin fatura tutarları yerine, kapanış tarihi itibarıyla yalnızca ödenmiş finansal kiralama taksit bedellerinin (128.256 TL ithal, 1.680.398 TL yerli olmak üzere 1.808.654 TL makine ve teçhizat harcaması) dikkate alındığı,
+- Bunun üzerine, ... tarihli dilekçe ile Teşvik Uygulama Genel Müdürlüğüne başvurularak teşvik kapsamındaki makine ve teçhizat tutarı olarak ödenen kira bedellerinin değil makine ve teçhizat fatura bedellerinin dikkate alınması ve kapanış tutarlarının buna göre değiştirilmesinin talep edildiği,
+- İlgili Genel Müdürlükten gelen cevabi yazıda, "tamamlama vizesi işlemlerinde öteden beri sadece teşvik belgesi süresi içinde kalan kira ödemelerinin diğer yatırım harcamaları içerisinde gösterilerek yatırım tutarına dahil edildiği, vergi indiriminin ne şekilde uygulanacağına dair Gelir İdaresi Başkanlığından görüş alınması gerektiğinin" bildirildiği
+belirtilmiş olup yatırım tamamlama vizesi kapsamında belirtilmeyen ve tamamlama vizesinden sonraki tarihlerde ödenecek olan finansal kiralama taksitleri dolayısıyla indirimli kurumlar vergisi uygulamasından yararlanılıp yararlanılamayacağı konusunda Başkanlığımız görüşü sorulmuştur.
+5520 sayılı Kurumlar Vergisi Kanununun 32/A maddesinin birinci fıkrasında, finans ve sigortacılık sektörlerinde faaliyet gösteren kurumlar, iş ortaklıkları, taahhüt işleri, 16.7.1997 tarihli ve 4283 sayılı Kanun ile 8.6.1994 tarihli ve 3996 sayılı Kanun kapsamında yapılan yatırımlar ile rödovans sözleşmelerine bağlı olarak yapılan yatırımlar hariç olmak üzere, bu maddenin ikinci fıkrasında belirtilen ve Hazine Müsteşarlığı tarafından teşvik belgesine bağlanan yatırımlardan elde edilen kazançların, yatırımın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren yatırıma katkı tutarına ulaşıncaya kadar indirimli oranlar üzerinden kurumlar vergisine tabi tutulacağı belirtilmiştir.
+Öte yandan, 28.07.2009 tarih ve 27302 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 14.07.2009 tarih ve 2009/15199 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Kararın 3 üncü maddesinin altıncı fıkrasında, "Finansal kiralama şirketleri aracılığıyla gerçekleştirilecek yatırımlar için finansal kiralama şirketi adına ayrı bir teşvik belgesi düzenlenmez. Yatırımcının mükellefiyetlerini yerine getirmemesi hâlinde uygulanacak olan müeyyidelerden finansal kiralamaya konu makine ve teçhizata tekabül eden bölümü kısmen veya tamamen finansal kiralama şirketlerine de uygulanır." hükmüne yer verilmiş olup aynı Kararın 4 üncü maddesinin ikinci fıkrasında da, finansal kiralama şirketleri aracılığıyla yapılacak yatırımlarda finansal kiralamaya konu makine ve teçhizata ait toplam tutarın her bir finansal kiralama şirketi için asgarî ikiyüzbin Türk Lirası olması gerektiği hükme bağlanmıştır.
+Söz konusu Kararın uygulanmasına ilişkin olarak yayımlanan 2009/1 seri no.lu Tebliğin "Finansal Kiralama İşlemleri" başlıklı 29 uncu maddesinin birinci fıkrasında, teşvik belgesi kapsamı makine ve teçhizatın tamamının veya bir kısmının finansal kiralama yoluyla temin edilebileceği belirtilmiştir.
+Buna göre, 2009/15199 sayılı Bakanlar Kurulu Kararı kapsamında yatırım teşvik belgesine bağlanan yatırımlarınıza ilişkin olarak finansal kiralama yoluyla iktisap ettiğiniz yatırım malları dolayısıyla Kurumlar Vergisi Kanununun 32/A maddesinde belirtilen esaslar çerçevesinde indirimli kurumlar vergisi uygulamasından yararlanmanız mümkündür.
+Ancak, yatırıma katkı tutarının belirlenmesinde, finansal kiralama yoluyla temin edilen makine ve teçhizat için sadece ilgili dönemde ödenmiş kira tutarları dikkate alınarak indirimli kurumlar vergisi uygulamasından faydalanılabilecek, izleyen dönemlerde ödenecek kira tutarları üzerinden ise ödemenin yapıldığı dönemlerde yatırıma katkı tutarı hesaplanıp indirimli kurumlar vergisinden yararlanılacaktır.
+Bilgi edinilmesini rica ederim.
+
+Bu özelgede yer verilen görüş, 10.05.2016 tarih ve 66491453-007-3 </node/112886> sayılı özelge ile geçerliliğini yitirmiştir.
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

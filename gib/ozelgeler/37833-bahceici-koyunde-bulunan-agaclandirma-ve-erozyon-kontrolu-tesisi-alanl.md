@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 37833
+baslik: "Bahçeiçi köyünde bulunan ağaçlandırma ve erozyon kontrolü tesisi alanlarının korunması işinin iş ..."
+tarih: 2006-03-14
+sayi: "B.07.1.GİB.0.41/4102-518- 017416"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/37833
+gib_guncelleme: 2025-03-24T22:32:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bahçeiçi köyünde bulunan ağaçlandırma ve erozyon kontrolü tesisi alanlarının korunması işinin iş ...
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+Sayı : B.07.1.GİB.0.41/4102-518 14.03.2006 - 017416
+Konu :
+
+.................. VALİLİĞİNE
+(Defterdarlık: Gelir Müdürlüğü)
+
+İlgi : .................. tarihli ve .................. sayılı yazınız.
+İlgide kayıtlı yazınızda, Ormanların Korunmasında Muhtar ve İhtiyar Kurullarının Görevlendirilmelerine Ait Talimname gereği, iliniz .................. köyünde bulunan ağaçlandırma ve erozyon kontrolü tesisi alanlarının korunması işinin iş akdi ile köy tüzel kişiliğine yaptırıldığı belirtilerek, ödemeler için tevkifat yapılıp yapılmayacağı ve oranı konusunda tereddüte düşüldüğü belirtilerek Başkanlığımız görüşünün bildirilmesi istenilmektedir.
+193 sayılı Gelir Vergisi Kanununun 52 nci maddesinin birinci fıkrasında, zirai faaliyetten doğan kazancın zirai kazanç olduğu hükme bağlanmış; ikinci fıkrasında da zirai faaliyetin tanımı yapılmıştır. Söz konusu fıkraya göre zirai faaliyet; arazide, deniz, göl ve nehirlerde, ekim, dikim, bakım, üretme, yetiştirme ve ıslah yollarıyla veyahut doğrudan doğruya tabiattan istifade etmek suretiyle nebat, orman, hayvan, balık ve bunların ürünlerinin istihsalini, avlanmasını, avcıları veya yetiştiricileri tarafından muhafazasını, taşınmasını, satılmasını veya bu ürünlerden sair bir şekilde faydalanılmasını ifade ettiği hükme bağlanmıştır.
+Bu hüküm gereğince, orman köylülerinin orman idarelerine veya orman idaresine karşı taahhütte bulunan kurumlara ormanların ağaçlandırılması, bakımı, kesimi, ürünün toplanması, taşınması ve benzeri hizmetler gibi yaptıkları işler zirai faaliyet kapsamında ifa edilen hizmet olarak kabul edilmiş ve 4108 sayılı Kanunla Gelir Vergisi Kanununun 94 üncü maddesinin 11 numaralı bendine eklenen (c) alt bendi ile zirai faaliyet kapsamında ifa edilen hizmetler için yapılan ödemeler de tevkifat kapsamına alınmıştır.
+Konuyla ilgili olarak Bakanlığımızca hazırlanan 188 seri no.lu Gelir Vergisi Genel Tebliğinde yapılan açıklamalara göre;
+Orman İdaresine karşı orman köylüleri tarafından ormanların ağaçlandırılması, bakımı, kesimi, ağaçların toplanması, taşınması ve benzeri hizmetler için yapılan ödemeler üzerinden % 2 oranında gelir vergisi tevkifatı yapılacaktır.
+Ayrıca, söz konusu hizmetleri yapmak üzere Orman İdaresine karşı taahhütte bulunan Kooperatifler veya diğer kurumlarca, orman köylülerine yukarıda belirtilen hizmetleri karşılığı yapılan ödemeler üzerinden de kooperatifler veya diğer kurumlarca % 2 oranında tevkifat yapılacaktır.
+Ancak, kooperatiflere veya diğer kurumlara Orman İdaresi tarafından yapılan ödemeler üzerinden vergi tevkifatı yapılmayacaktır.
+Buna göre, orman idaresince, sözkonusu hizmetler karşılığı olarak köy tüzel kişiliğine yapılacak ödemelerden tevkifat yapılmayacak, köy tüzel kişiliği tarafından orman köylüsü çiftçilere ağaçlandırma ve erozyon kontrolü tesisi alanlarının korunması işi karşılığı yapılacak ödemelerden %2 oranında gelir vergisi tevkifatı yapılacaktır.
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Başkan a.
+Gelir İdaresiGrup Başkanı

@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 38004
+baslik: "İplikler, mensucat, işlenmiş deri ve köseleler ile bunlardan, imal edilen giyim eşyası, ayakkabı terlik ve çizme teslimlerinde uygulanacak katma değer vergisi oranları hk."
+tarih: 2006-06-08
+sayi: "B.07.1.GİB.0.53/5379- 55-96-43295"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38004
+gib_guncelleme: 2025-03-24T22:47:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İplikler, mensucat, işlenmiş deri ve köseleler ile bunlardan, imal edilen giyim eşyası, ayakkabı terlik ve çizme teslimlerinde uygulanacak katma değer vergisi oranları hk.
+
+T.C.
+MALİYE BAKANLIĞI
+GELİR İDARESİ BAŞKANLIĞI
+
+SAYI : B.07.1.GİB.0.53/5379- 55-96-43295 08.06.2006
+KONU :
+
+.............. VERGİ DAİRESİ BAŞKANLIĞINA
+
+İLGİ:29.03.2006 tarih ve 1311 sayılı yazınız.
+İlgide kayıtlı yazınız ekinde alınan .................. Ltd. Şti.ni muhatap 20.03.2006 tarih ve 1184 sayılı özelgeniz incelenmiş olup, aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur.
+Katma değer vergisi oranlarını belirleyen 2002/4480 sayılı Kararname Eki II sayılı listenin (B) bölümüne 06/03/2006 tarih ve 2006/10138 sayılı Karar ile 15, 16, 18, ve 19 uncu sıralar eklenerek iplikler, mensucat, işlenmiş deri ve köseleler ile bunlardan, imal edilen giyim eşyası, ayakkabı terlik ve çizme teslimlerinde uygulanacak katma değer vergisi oranı % 8'e indirilmiştir.
+Buna göre;
+1- TGTC'nin 4008.21.90.00.00 GTİP Numarasından ithal edilen gözenekli olmayan kauçuktan levha, tabaka ve şeritlerin işlenmiş post deri ve köseleler ile bunların taklitleri (suni kösele olması nedeniyle) % 8,
+2- Her nevi maddeden imal edilen ayakkabı ökçesi ve dış tabanı (çelikli taban, jurdan taban, zenne taban gibi her nevi taban) % 8
+oranında katma değer vergisine tabidir.
+Bilgi edinilmesini ve söz konusu özelgenizin yukarıdaki açıklamalar çerçevesinde yeniden değerlendirilmek ve mükellefe bildirilmek suretiyle gereğini rica ederim.
+
+Başkan a.

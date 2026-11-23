@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 30022
+baslik: "Geç ödeme ile ilgili tazminat ile satılan malların geç yüklemesi nedeniyle uygulanan geç yükleme tazminatının, satılan malların tabi olduğu oranda katma değer vergisine tabi tutulması gerekmektedir."
+tarih: 1997-10-08
+sayi: "B.07.0.GEL.0.54/5411-1959-42761"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30022
+gib_guncelleme: 2025-03-24T19:57:30
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Geç ödeme ile ilgili tazminat ile satılan malların geç yüklemesi nedeniyle uygulanan geç yükleme tazminatının, satılan malların tabi olduğu oranda katma değer vergisine tabi tutulması gerekmektedir.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 11 Mal ve Hizmet İhracatı; Madde 24 Matraha Dahil Olan Unsurlar
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 08.10.97 SAYI : B.07.0.GEL.0.54/5411-1959-42761 KONU : Mal teslimi ve hizmet ifalarında geç ödeme ve geç yükleme tazminatlarının K.D.V. karşısındaki durum u hk. KARABÜK VALİLİĞİNE (Defterdarlık: Gelir Müdürlüğü) İLGİ: 17.7.1997 tarih ve 170-1713 sayılı yazınız. İlgide kayıtlı yazınız ekinde yer alan ..... Vergi Dairesi mükellefi ..... A.Ş.'ne verilen 14.7.1997 tarih ve 170/1691 sayılı özelgeniz incelendi . Sözü edilen özelgede, mükellefin ihraç etmek üzere ..... A.Ş.'den satın alarak ihracını yaptığı demir çelik mamullerinin bedelinin geç ödenmesi ve geç yüklemeden dolayı satıcı firmaya ödeyeceği geç ödeme ve geç yükleme tazminatının katma değer vergisine tabi olmayacağının düşünüldüğü belirtilmektedir. Bilindiği gibi, Katma Değer Vergisi Kanununun 1/1. maddesi çerçevesinde yapılan mal teslimleri ve hizmet ifaları katma değer vergisine tabi bulunmaktadır. Herhangi bir teslim veya hizmetle ilgisi olmayan tazminat, ceza ve ödemeler ise verginin konusuna girmemektedir. Aynı Kanunun 24/c maddesinde, teslim edilen mallarla ilgili vade farkı, fiyat farkı, faiz, prim gibi çeşitli gelirler ile servis ve benzer adlar altında sağlanan her türlü menfaat, hizmet ve değerlerin, katma değer vergisi matrahına dahil edilerek vergilendirileceği hükme bağlanmıştır. Bu hükümlere göre, geç ödeme ile ilgili tazminat ile satılan malların geç yüklemesi nedeniyle uygulanan geç yükleme tazminatının, satılan malların tabi olduğu oranda katma değer vergisine tabi tutulması gerekmektedir. Öte yandan, bu satışların Katma Değer Vergisi Kanununun 11/1-c maddesine göre tecil-terkin uygulaması kapsamında yapılması halinde, sözü edilen tazminatlara ilişkin hesaplanan katma değer vergisi için de aynı uygulama yapılabilecektir. Bu durumda, ihracattan sonra uygulanan tazminatlar için, 25 Seri No.lu Katma Değer Vergisi Genel Tebliğinin (D) bölümündeki ihracat bedellerine bağlı vergi iadesi, kur farkı ve kaynak kullanımı deste k leme primlerinde ön ihracat istisnası uygulamasına göre işlem yapılması mümkün bulunmaktadır. Bilgi edinilmesini ve özelgenin buna göre yeniden değerlendirilerek gereğinin yapılmasını rica ederim. Bakan a. Daire Başkanı

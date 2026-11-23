@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 23131
+baslik: "İşletme büyüklüğü ölçüleri içerisinde yer almayan zirai faaliyetlerde bulunan çiftçiler zirai mahsul ve zirai hizmet bedelleri üzerinden tevkifat suretiyle vergilendirilecektir."
+tarih: 1999-03-05
+sayi: "B.07.0.GEL.0.41/4102-131/8315"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23131
+gib_guncelleme: 2025-03-24T19:30:01
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İşletme büyüklüğü ölçüleri içerisinde yer almayan zirai faaliyetlerde bulunan çiftçiler zirai mahsul ve zirai hizmet bedelleri üzerinden tevkifat suretiyle vergilendirilecektir.
+
+**İlgili maddeler:** Madde 53 Zirai Kazançta Vergileme; Madde 54 İşletme Büyüklüğü Ölçüleri; Madde 94 Vergi Tevkifatı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 05.03.1999 SAYI : B.07.0.GEL.0.41/4102-131/8315 KONU : Yumurta tavukçuluğu faaliyetinin vergilendirilmesi hk. ANKARA VALİLİĞİ (Defterdarlık : Vasıtasız Vergiler Gelir Müdürlüğü'ne) İLGİ : 08.01.1999 gün ve B.07.4.DEF.0.06.11/GVK-11054-001-00183 sayılı yazınız. İlgi yazınızın incelenmesinden, ..... Vergi Dairesi Müdürlüğünün ..... vergi numaralı mükellefi .....'nun yumurta tavukçuluğu faaliyetinden dolayı vergilendirilmesinin ne şekilde yapılacağı konusunda tereddütlerin olduğu belirtilmiştir. Bilindiği gibi, 193 sayılı Gelir Vergisi Kanununun 4369 sayılı Kanunla Değişik 53 üncü maddesinde; "Çiftçilerin elde ettikleri zirai kazançlar, bu Kanunun 94 üncü maddesine göre hasılatları üzerinden tevkifat yapılmak suretiyle vergilendirilir." 54 üncü madde yazılı işletme büyüklüğü ölçülerini aşan çiftçiler ile bir biçerdövere veya bu mahiyetteki bir motorlu araca veya on yaşına kadar ikiden fazla traktöre sahip çiftçilerin kazançları gerçek usulde (zi r ai işletme hesabı veya diledikleri takdirde bilanço esasına göre) tespit olunarak vergilendirilir. Kazançları gerçek usulde vergilendirilmeyen çiftçiler bu kazançları için beyanname vermezler." hükmü yer almıştır. Öte yandan, aynı Kanunun 54 üncü maddesinde de zirai kazancın gerçek usulde tespiti bakımından bir takvim yılı içinde dikkate alınacak işletme büyüklüğü ölçüleri belirtilmiştir. Ayrıca, Gelir Vergisi Kanununun 3946 sayılı Kanunla değişik 94 üncü maddesinde, kimlerin vergi tevkifatı yapmakla yükümlü oldukları sayılmış, 11 numaralı bendinde de çiftçilerden satın alınan zirai ürünlerin alış bedeli üzerinden bu çiftçilerin gelir vergilerine mahsuben tevkifat yapılacağı hükme bağlanmıştır. Diğer taraftan, 4369 sayılı Kanunun Geçici 45 inci maddesinin 2 nci fıkrasında ise Gelir Vergisi Kanununun bu Kanunla değişmeden önceki 53 üncü maddesi hükmü gereğince götürü gider veya gerçek kazanç usulüne göre vergilendirilen zirai kazanç mükelleflerinin, 31.12.1997 tarihi itibariyle bu Kanunun 54 üncü maddesin d e yazılı ölçüleri aşmamaları halinde, 01.01.1998 tarihinden itibaren zirai mahsulleri ve hizmetlerinin satış bedeli üzerinden yapılan tevkifat suretiyle vergilendirilecekleri belirtilmiştir. Bu hükme göre, Gelir Vergisi Kanununun 4369 sayılı Kanunla değiştirilmeden önceki 53 üncü maddesi gereğince götürü gider veya gerçek kazanç usulünde vergilendirilen çiftçilerden bu Kanunun 54 üncü maddesinde yazılı işletme büyüklüğü ölçüsünü 31.12.1997 tarihi itibariyle aşanların 01.01.1998 tarihinden itibaren gerçek u sulde, aşmayanların ise tevkifat suretiyle vergilendirilmeleri gerekir. Bu açıklamalar çerçevesinde; 4369 sayılı Kanunla belirlenen işletme büyüklüğü ölçüleri içerisinde yer almayan zirai faaliyetlerde bulunan çiftçiler zirai mahsul ve zirai hizmet bedell eri üzerinden tevkifat suretiyle vergilendirilecektir. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

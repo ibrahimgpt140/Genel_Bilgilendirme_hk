@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 22372
+baslik: "Kat karşılığı inşaat yapanlarda sadece inşaat yapımına tahsis edilen arsa veya arazilere ilişkin olarak inşaatın bitim tarihine kadar geçen süre için maliyet bedeli artırımı söz konusu olup, bunun dışında inşaat maliyeti ile ilgili olarak herhangi bir end"
+tarih: 1998-12-23
+sayi: "B.07.0.GEL.0.40/4031-49198"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/22372
+gib_guncelleme: 2025-03-24T19:29:15
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kat karşılığı inşaat yapanlarda sadece inşaat yapımına tahsis edilen arsa veya arazilere ilişkin olarak inşaatın bitim tarihine kadar geçen süre için maliyet bedeli artırımı söz konusu olup, bunun dışında inşaat maliyeti ile ilgili olarak herhangi bir end
+
+**İlgili maddeler:** Madde 38 Bilanço Esasında Ticari Kazancın Tespiti; Madde 39 İşletme Hesabı Esasında Ticari Kazancın Tespiti
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH: 23.12.1999 SAYI : B.07.0.GEL.0.40/4031-49198 KONU : Kat karşılığı inşaat yapanlarda Gelir Vergisi Kanununun 38 inci maddesinde sözü edilen maliyet bedeli ende kslemesinin uygulanıp uygulanamayacağı hk. HATAY VALİLİLİĞİ (Defterdarlık : Gelir Müdürlüğüne) İliniz ..... adresinde bulunan ..... tarafından Bakanlığımıza verilen dilekçenin incelenmesinden, beş yıl önce idari mahkeme tarafından ruhsatı iptal edilen inşaatın yeniden başlanılarak bitirilme imkanı doğduğundan Gelir Vergisi Kanununun 38'inci maddesinde sözü edilen maliyet bedeli endekslemesinin uygulanıp uygulanamayacağı konusunda tereddüte düşüldüğü anlaşılmış olup, aşağıdaki açıklamaların yapılmasına g e rek duyulmuştur. 193 sayılı Gelir Vergisi Kanununun 38 inci maddesinin sonuna 4108 sayılı Kanunla 01.01.1995 tarihinden itibaren geçerli olmak üzere eklenen fıkrada "Mükelleflerin iktisap tarihinden itibaren en az iki tam yıl süreyle işletmelerinde kayıtlı bulunan gayrimenkul, iştirak hisseleri ve amortismana tabi diğer iktisadi kıymetleri elden çıkarmaları halinde, bu iktisadi kıymetlerin maliyet bedeli bunların iktisap edildiği ve elden çıkarıldıkları yıllar hariç olmak üzere her takvim yılı için Vergi U sul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında artırılarak kazancın tespitinde dikkate alınabilir. Bu hüküm 39 uncu madde gereğince işletme hesabı esasına göre ticari kazancın tespitinde de uygulanır. Bilanço esasında defter tutan mükel l efler tarafından artırılan maliyet bedeline tekabül eden kazançlar, bilançonun pasifinde özel bir fon hesabında gösterilir. Bu fon, sermayeye ilave dışında herhangi bir suretle başka bir hesaba nakledildiği veya işletmeden çekildiği takdirde, o yılın kaza n cına dahil edilerek vergiye tabi tutulur. Sözkonusu iktisadi kıymetlerin alım satımı ile devamlı olarak uğraşanlar, alım satımını yaptıkları iktisadi kıymetler için bu hükümden yararlanamazlar. Şu kadar ki, inşaat yapımına tahsis edilen arsa ve arazilere i lişkin olarak inşaatın bitim tarihine kadar geçen süre için bu fıkra hükmüne göre maliyet bedeli artırımı yapılabilir. Ancak, inşaatın tamamlanmasından önce satışı yapılan gayrimenkuller için maliyet artırımı satışın yapıldığı tarihe kadar uygulanır. Bu fıkra hükmünün uygulanmasına ilişkin usul ve esasları tespit etmeye Maliye Bakanlığı yetkilidir." denilmektedir. Bu açıklamalar çerçevesinde, kat karşılığı inşaat yapanlarda sadece inşaat yapımına tahsis edilen arsa veya arazilere ilişkin olarak inşaatın bitim tarihine kadar geçen süre için maliyet bedeli artırımı söz konusu olup, bunun dışında inşaat maliyeti ile ilgili olarak herhangi bir endeksleme yapılması söz konusu değildir. Bilgi edinilmesini ve durumun adı geçene de duyurulmasını rica ederim. Bakan a. Daire Başkanı

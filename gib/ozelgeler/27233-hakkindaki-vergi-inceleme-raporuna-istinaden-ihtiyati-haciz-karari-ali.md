@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 27233
+baslik: "Hakkındaki vergi inceleme raporuna istinaden ihtiyati haciz kararı alınan mükellefe vergi/ceza ihbarnamesi gönderildiği tarihi müteakip otuz gün içinde indirim talebinde bulunabileceği;yine bu tarihi müteakip bir ay ödeme süresi olup , bu süre içerisinde"
+tarih: 1998-12-17
+sayi: "B.07.0.GEL.0.30/3049-376-386 / 48243"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/27233
+gib_guncelleme: 2025-03-24T19:45:37
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Hakkındaki vergi inceleme raporuna istinaden ihtiyati haciz kararı alınan mükellefe vergi/ceza ihbarnamesi gönderildiği tarihi müteakip otuz gün içinde indirim talebinde bulunabileceği;yine bu tarihi müteakip bir ay ödeme süresi olup , bu süre içerisinde
+
+**İlgili maddeler:** Madde 376 Vergi Ziyaı, Usulsüzlük ve Özel Usulsüzlük Cezalarında İndirme
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI : B.07.0.GEL.0.30/3049-376-386 / 48243 KONU : ..................... VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne İLGİ : ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınız ve ekleri incelenmiştir. Yazılardan anlaşıldığı üzere, İliniz ..................... Vergi Dairesi mükelleflerinden ..................... Tic.Ltd.Şti. hakkında yapılan inceleme sonucu düzenlenen 8.10.1998 gün ve GKR-1998-710/16,17 sayılı Vergi İnceleme Raporuna istinaden ve29.9.1998 gün ve GKY-1998-710/105 sayılı yazıları gereğince 30.9.1998 tarihli ihtiyati tahakkuk oluruna dayanılarak ihtiyati haciz kararı alınmıştır. İhtiyati tahakkuk işleminden sonra düzenlenen vergi/ceza ihbarnamesi 19.10.1998 tarihinde mükellef şirkete tebliğ edilmiş ve ş i rketçe de 11.11.1998 tarihinde ilgili vergi dairesine müracaat edilerek adlarına kesilen cezalar için Vergi Usul Kanununun 376. maddesi uyarınca indirim talebinde bulunulmuştur. Bu talep üzerine 17.11.1998 tarihinde indirimden arta kalan cezaların tahakku k ları verilmiştir. Bu defa mükellef şirket tarafından 11.12.1998 tarihinde yeniden müracaat edilerek haczedilen gayrimenkullerinin teminat olarak kabul edilmesi ve 376. Madde gereğince ödeme vadelerinin üç ay uzatılması talebinde bulunulmuştur. Bu durum da yapılacak işlem hususunda duraksamaya düşülmüş ve olay Bakanlığımıza intikal ettirilmiştir. Bilindiği gibi, 213 sayılı Vergi Usul Kanununun 4369 sayılı Kanunla değişmeden önceki 376. Maddesinde, "Re'sen veya ikmalen tarh edilen vergi veya vergi farkını ve aşağıda gösterilen indirimlerden arta kalan kaçakçılık, ağır kusur, kusur, usulsüzlük ve özel usulsüzlük cezalarını mükellef veya vergi sorumlusu ihbarnamelerin tebliği tarihinden itibaren otuz gün içinde ilgili vergi dairesine müracaatla vadesinde v e ya 6183 sayılı Kanunda zikredilen neviden teminat göstererek vadenin bitmesinden itibaren üç ay içinde ödeyeceğini bildirirse, maddede belirtilen oranlarda indirim yapılacağı hükme bağlanmış bulunmaktadır. Buna göre, tarh edilen vergi ve cezalara karşı dava açma süresi içerisinde indirim talebinde bulunulabilecek, bu süreyi takip eden ödeme süresi içerisinde veya 6183 sayılı Kanunda yazılı neviden teminat gösterilmesi halinde bu sürenin bitmesinden sonra hesaplanacak üç ay içerisinde ödeme yapılması gere kecektir. Olayda da, ihbarnameler mükellef şirkete 19.10.1998 tarihinde tebliğ edilmiş ve şirketçe otuz günlük süre içinde indirim talebinde bulunulmuştur. Tahakkuk tarihi 19.11.1998 tarihi olduğundan bu tarihten sonraki bir ay ödeme süresi olup, bu süre içerisinde teminat gösterilmesi halinde bu sürenin dolmasından sonra hesaplanacak üç ay, mükellefin vergi aslı ve cezadan arta kalan miktarı öödeme süresi olacaktır. Bilgi edinilmesini ve bu açıklamalar doğrultusunda gereğini rica ederim. Bakan a.

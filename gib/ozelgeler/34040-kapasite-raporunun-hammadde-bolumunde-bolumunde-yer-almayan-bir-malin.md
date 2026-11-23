@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 34040
+baslik: "Kapasite raporunun hammadde bölümünde bölümünde yer almayan bir malın üretimde kullanılması halinde 2012/3792 sayılı BKK 1.maddesi uyarınca iade talebinin yerine getirilmesi hk."
+tarih: 2014-04-21
+sayi: "39044742-ÖTV 8-1087"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/34040
+gib_guncelleme: 2025-03-24T20:15:57
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kapasite raporunun hammadde bölümünde bölümünde yer almayan bir malın üretimde kullanılması halinde 2012/3792 sayılı BKK 1.maddesi uyarınca iade talebinin yerine getirilmesi hk.
+
+**İlgili maddeler:** Madde 8 Verginin tecili
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | 39044742-ÖTV 8-1087 | 21/04/2014
+Konu | : | Kapasite raporunun hammadde bölümünde bölümünde yer almayan bir malın üretimde kullanılması halinde 2012/3792 sayılı BKK 1.maddesi uyarınca iade talebinin yerine getirilmesi hakkında
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden; firmanızca üretilen 3402.20.90.00.15 G.T.İ.P. numarasında yer alan yağ ve gres çözücüler tank temizleyicisi imalinde hammadde olarak 4760 sayılı Özel Tüketim Vergisi (ÖTV) Kanununa ekli (I) sayılı listenin (B) cetvelinde yer alan 2710.12.21.00.00 G.T.İ.P. numaralı white spirit isimli malın yerine aynı cetvelde yer alan 3824.90.40.00.00 G.T.İ.P. numaralı ticari ismi sentetik tiner olan malın kullanıldığı belirtilerek, bağlı olduğunuz sanayi odasınca firmanız adına düzenlenen kapasite raporunun hammadde veya yardımcı maddeler kısmında yer almayan sentetik tiner için ödenen ÖTV'nin 8/10/2012 tarih ve 2012/3792 sayılı Bakanlar Kurulu Kararının 1 inci maddesi uygulaması kapsamında yine bağlı olduğunuz sanayi odasınca düzenlenecek ekspertiz raporuna istinaden iade edilip edilemeyeceği hususunda Başkanlığımız görüşünün sorulduğu anlaşılmıştır.
+ÖTV Kanununa ekli (I) sayılı listenin (B) cetvelindeki vergi tutarları uygulanarak teslim edilen malların, imalatçılar tarafından imalatta kullanılmaları halinde vergi tutarlarının indirimli uygulanmasına yönelik 8/10/2012 tarihli ve 2012/3792 sayılı Bakanlar Kurulu Kararı 9/10/2012 tarihli ve 28436 sayılı Resmi Gazete'de yayımlanarak yürürlüğe girmiştir. Söz konusu Kararname ile ÖTV Kanununa ekli (I) sayılı listenin (B) cetvelindeki vergi tutarları uygulanarak teslim edilen malların, alıcı imalatçılar (sanayi sicil belgeli imalatçılar) tarafından imalatta kullanılmaları halinde vergi tutarlarının iade yöntemi ile indirimli uygulanması sağlanmıştır.
+Bahse konu Kararname eki Kararın 1 inci maddesinde, ÖTV Kanununa ekli (I) sayılı listenin (B) cetvelindeki vergi tutarları uygulanarak teslim edilen malların, (I) sayılı listeye dahil olmayan malların imalinde imalatçılar tarafından kullanılması halinde, imalatta kullanılan mallar için bahse konu maddede G.T.İ.P. numaraları itibariyle karşılarında gösterilen oran ile daha önce uygulanan vergi tutarının çarpılması suretiyle hesaplanan vergi tutarlarının uygulanacağı öngörülmüştür. Ayrıca söz konusu maddenin 2 numaralı fıkrasında 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanununun 2 nci maddesinde yer alan madeni yağ tanımına giren mallar ile bu kapsamda kullanılan diğer malların imal edilmesi halinde bu kapsamdaki imalatlar için Kararname eki Kararın 1 inci maddesi hükmünün uygulanmayacağı belirtilmiştir.
+Bahsi geçen Kararnamenin 1 inci maddesi uygulaması kapsamında indirimli vergi uygulamalarından kaynaklanan vergi farklılaştırmalarının alıcılara (sanayi sicil belgeli imalatçılara) iade yöntemi ile uygulanmasına ilişkin usul ve esaslar 11/10/2012 tarihli ve 28438 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 25 Seri No.lu ÖTV Genel Tebliğinin 1 ve 4 üncü bölümlerinde yer verilmiştir.
+25 Seri No.lu ÖTV Genel Tebliğinin 4 üncü bölümünde yer alan açıklamalara göre, bu Tebliğ kapsamında nakden veya mahsuben iade talepleri, iade talebine ilişkin KDV (KDV mükellefiyetinin bulunmaması halinde Gelir veya Kurumlar Vergisi) yönünden bağlı olunan vergi dairesine verilecek bir dilekçe ile yapılacaktır. Sanayi sicil belgesi imalatçıların söz konusu dilekçe ekine iade talep edenin sanayi sicil belgesinin aslı veya noter onaylı örneğini, iadeye konu ÖTV'leri içeren malların alımlarına ilişkin fatura ve benzeri belgelerin listesini, imal edilen mallarda ne kadar iadeye konu ÖTV'ye tabi mal kullanılması gerektiğine ve zayi miktarına ilişkin sanayi odası bulunan illerde sanayi odalarından, sanayi odası bulunmayan illerde sanayi ve ticaret odalarından alınan ekspertiz raporlarını, ekspertiz raporlarına göre imalatta kullanılan miktarın uygunluğuna dair hesaplamaları içeren tabloyu ve Tebliğin (4.1.2) bölümünde sayılan diğer belgeleri eklemesi gerekmektedir.
+Söz konusu Tebliğde sanayi sicil belgesini haiz imalatçılara nakden veya mahsuben yapılacak iade işlemlerinde aranan belgeler arasında yer alan ekspertiz raporlarının kapasite raporlarına uygun olarak düzenlenmesi gerektiğine ilişkin herhangi bir açıklamaya yer verilmemiştir. Bununla birlikte konu hakkında Türkiye Odalar ve Borsalar Birliği ile yapılan yazışma sonucu alınan cevabi yazıda; .............Sanayi Odası tarafından firmanız adına düzenlenmiş ve Birliklerince ..........tarih ve ........ numara ile onaylanmış olan kapasite raporunun incelenmesi neticesinde, bu raporda yağ ve gres çözücüler tank temizleyicisi imalatında hammadde olarak white spirit isimli malın ürün formülasyonunda bulunmasına karşın sentetik tiner isimli malın ürün formülasyonunda bulunmadığının tespit edildiği, 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununa göre ekspertiz raporlarını düzenleme yetkisinin Odalara ait olduğu ancak Odalarca düzenlenen ekspertiz raporlarının yine Odalarca düzenlenen ve Birliklerince onaylanan kapasite raporları ile uyumlu olması gerektiği ifade edilmiştir.
+Bu bağlamda, firmanız adına düzenlenen kapasite raporunun hammadde veya yardımcı madde bölümünde yer almamasına rağmen özelge talep formunuzda yağ ve gres çözücüler tank temizleyicisi imalatında white spirit yerine kullanıldığı ekspertiz raporu ile belgelendirileceği ifade edilen sentetik tiner için ödenen ÖTV'nin, 8/10/2012 tarihli ve 2012/3792 sayılı Bakanlar Kurulu Kararı eki Kararın 1 nci maddesi uygulaması kapsamında iade edilmesi mümkün bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

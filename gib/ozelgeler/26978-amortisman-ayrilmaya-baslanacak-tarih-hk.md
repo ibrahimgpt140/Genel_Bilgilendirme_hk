@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 26978
+baslik: "Amortisman ayrılmaya başlanacak tarih hk."
+tarih: 2015-02-10
+sayi: "11395140-105[313-2014/VUK1-18640]-229"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26978
+gib_guncelleme: 2025-03-24T19:44:39
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Amortisman ayrılmaya başlanacak tarih hk.
+
+**İlgili maddeler:** Madde 313 Amortisman Mevzuu; Madde 320 b) Süre Bakımından
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 11395140-105[313-2014/VUK1-18640]-229 | 10/02/2015
+Konu | : | Doğalgaz çevrim santralinde amortisman uygulaması.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden; şirketinizin ... 'nda kurulu ... santralinde .../2013 döneminde deneme üretimine ve testlere başladığı, deneme üretimi neticesinde üretilen elektriğin satıldığı, müteahhitle şirketiniz arasındaki geçici kabul tutanağının ise .../.../2014 tarihinde imzalandığı belirtilerek; tesisin amortismanına hangi yıl başlanması gerektiği hususunda Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+213 sayılı Vergi Usul Kanununun;
+313 üncü maddesinin birinci fıkrasında "İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan gayrimenkullerle 269 uncu madde gereğince gayrimenkul gibi değerlenen iktisadi kıymetlerin, alet, edevat, mefruşat, demirbaş ve sinema filmlerinin birinci kısımdaki esaslara göre tespit edilen değerinin, bu Kanun hükümlerine göre yok edilmesi amortisman mevzuunu teşkil eder." ,
+320 nci maddesinde "Amortisman süresi, kıymetlerin aktife girdiği yıldan başlar..."
+hükümleri yer almaktadır.
+Aktife girme kavramı, iktisadi kıymetin iktisap edilerek defter kayıtlarına geçirilmesini, değerleme gününde envantere dahil olmasını ve kullanılmaya hazır halde bulundurulmasını ifade etmekte olup iktisadi kıymetin işletmede fiilen kullanılmaya başlanması gerekli bulunmamaktadır.
+Bu itibarla, test aşaması devam eden ve bu sürede deneme üretimi yapılan bir iktisadi kıymetin kullanıma hazır halde bulunduğu kabul edilemeyeceğinden söz konusu iktisadi kıymetin amortismanına bu aşamaların tamamlandığı 2014 yılından itibaren başlanması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

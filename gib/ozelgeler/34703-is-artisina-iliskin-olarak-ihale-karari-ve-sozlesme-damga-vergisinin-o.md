@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 34703
+baslik: "İş artışına ilişkin olarak ihale kararı ve sözleşme damga vergisinin ödenip ödenmeyeceği hk."
+tarih: 2013-09-18
+sayi: "90792880-155.08[2013/2599]-1026  "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34703
+gib_guncelleme: 2025-03-24T20:19:15
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İş artışına ilişkin olarak ihale kararı ve sözleşme damga vergisinin ödenip ödenmeyeceği hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 6 Bir Kağıtta Birden Fazla Akit ve İşlem Bulunması; Madde 14 Nispet
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+ANKARA VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü)
+Sayı : 90792880-155.08[2013/2599]-1026 18/09/2013
+Konu : İş artışına ilişkin olarak ihale kararı ve sözleşme damga vergisinin ödenip ödenmeyeceği hk.
+.
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, "140 Personel ile Genel Temizlik Hizmeti" işine ilişkin olarak ... Üniversitesi İdari ve Mali İşler Daire Başkanlığı ile düzenlediğiniz sözleşme hükmüne istinaden yapılan iş artışı nedeniyle herhangi bir ek sözleşme veya protokol düzenlenmediği belirtilerek, iş artışına ilişkin olarak adı geçen daire başkanlığından firmanıza tebliğ edilen yazıya istinaden ihale kararı ve sözleşme damga vergisi ödenip ödenmeyeceği ile eğer ödenecekse matrahının nasıl hesaplanması gerektiği hususunda Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+Bilindiği üzere, 488 sayılı Damga Vergisi Kanununun 1'inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 2'nci maddesinde, vergiye tabi kağıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine, devrine veya bozulmasına ilişkin mektup ve şerhlerin damga vergisine tabi olacağı; 3'üncü maddesinde, damga vergisinin mükellefinin kâğıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kâğıtların damga vergisini kişilerin ödeyeceği; 4'üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı verginin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda ise üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı; 6'ncı maddesinin ikinci fıkrasında, bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma oldukları takdirde damga vergisinin en yüksek vergi alınmasını gerektiren akit ve işlemler üzerinden alınacağı; 8'inci maddesinde, bu Kanun da yazılı resmi daireden maksadın, genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köyler olduğu, bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmelerin resmi daire sayılmayacağı; 14'üncü maddesinin ikinci fıkrasında, belli parayı ihtiva eden mukavelenamelerin değiştirilmesi halinde artan miktarın aynı nispette vergiye tabi olacağı, üçüncü fıkrasında ise, mukavelenamelerin müddetinin uzatılması halinde aynı miktar veya nispette vergi alınacağı hükümlerine yer verilmiştir.
+Mezkur Kanuna ekli (1) sayılı tablonun "I.Akitlerle ilgili kağıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknameler ile "II. Kararlar ve mazbatalar" başlıklı bölümünün 2'nci maddesinde, ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarının nispi damga vergisine tabi olduğu hükme bağlanmıştır. 2012/4116 sayılı Bakanlar Kurulu Kararı ile 1/1/2013 tarihinden geçerli olmak üzere damga vergisi oranları, Kanuna ekli (1) sayılı tablonun I/A-1 fıkrasındaki kağıtlar için binde 9,48; II/2 maddesindeki kağıtlar için binde 5,69 olarak belirlenmiştir.
+... Üniversitesi İdari ve Mali İşler Daire Başkanlığı ile 09/11/2012 tarihinde düzenlediğiniz, "140 Personel ile Genel Temizlik Hizmeti Alımına Ait Sözleşme"nin 29'uncu maddesinde, "Öngörülemeyen durumlar nedeniyle bir iş artışının zorunlu olması halinde işin, (a) sözleşmeye konu hizmet içinde kalması, (b) idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması, şartlarıyla sözleşme bedelinin %20'sine kadar oran dahilinde, süre hariç sözleşme ve ihale dökümanındaki hükümler çerçevesinde ilave iş aynı yükleniciye yaptırılabilir." denilmektedir.
+Yukarıda yapılan açıklamalar çerçevesinde,
+-İş artışı için yeni bir ihale kararı alınmış, ek sözleşme veya bu kağıtların mahiyetini iktisap eden herhangi bir kağıt (protokol, fiyat farkı tespit tutanağı, vb.) düzenlenmiş ise, alınan ihale kararının 488 sayılı Kanuna ekli (1) sayılı tablonun II/2 maddesine göre, düzenlenen ek sözleşmenin veya sözleşme yerine geçen protokolün veya bu mahiyetteki kağıdın ise aynı tablonun I/A-1 fıkrasına göre,
+-İhale kararı ve ek sözleşme düzenlenmemiş fakat harcama yetkilisinden "olur" alınmış ise alınan "olur" hem ihale kararı, hem de mukaveledeki belli parayı değiştirir mahiyette olduğundan, söz konusu "olur"un, 488 sayılı Kanunun 6 ve 14'üncü maddelerinin ikinci fıkraları gereğince en yüksek vergi alınmasını gerektiren mukavele değişikliği (artırılan meblağ) üzerinden anılan Kanuna ekli (1) sayılı tablonun I/A-1 fıkrasına göre,
+damga vergisine tabi tutulması gerekmektedir.
+Bu durumda, sözleşme hükümlerine bağlı kalınarak %20 oran dahilinde yapılan iş artışına ilişkin olarak, idare tarafından ... Ltd. Şti.'ye hitaben düzenlenen "OLUR" hem ihale kararı hem de sözleşme bedelini değiştirir mahiyette olduğundan, öğrenim durumuna bakılmaksızın lise ve dengi gruptan mevcut genel temizlik personeline ilaveten yapılan 140 kişi x %20 = 28 kişilik iş artışı için 13/05/2013 tarihinden iş bitirme tarihi olan 31/12/2013 tarihine kadar olan süre dikkate alınmak suretiyle hesaplanacak bedel üzerinden Damga Vergisi Kanununun 6'ncı maddesinin ikinci fıkrası hükmüne göre Kanuna ekli (1) sayılı tablonun I/A-1 fıkrası gereğince binde 9,48 nispetinde damga vergisine tâbi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

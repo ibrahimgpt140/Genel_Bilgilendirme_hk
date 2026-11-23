@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24676
+baslik: "1997 yılında götürü usulde vergilendirilirken 01.01.1998 tarihinden itibaren  gerçek usulde vergilendirilme kapsamına alınan ödevlinin, götürü usulde vergilendirildiği dönemde tevkif yoluyla ödediği vergilerin 1998 yılı yıllık gelir vergisi beyannamesi üz"
+tarih: 1999-11-15
+sayi: "B.07.0.GEL.0.40/4009-46/49678"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24676
+gib_guncelleme: 2025-03-24T19:32:43
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 1997 yılında götürü usulde vergilendirilirken 01.01.1998 tarihinden itibaren  gerçek usulde vergilendirilme kapsamına alınan ödevlinin, götürü usulde vergilendirildiği dönemde tevkif yoluyla ödediği vergilerin 1998 yılı yıllık gelir vergisi beyannamesi üz
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı; Madde 121 Vergi Tevkifatının Mahsubu
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 15.11.1999 SAYI : B.07.0.GEL.0.40/4009-46/49678 KONU : 1997 yılında götürü usule tabi iken, 01.01.1998 tarihinden itibaren gerçek usulde vergilendirilen mükellefin, götürü usulde vergilendirildiği dönemlerde tevkif yoluyla ödenen vergilerin mahsup edilip edilmeyeceği hk. AYDIN VALİLİĞİ (Defterdarlık : Gelir Müdürlüğüne) İLGİ : 16.08.1999 tarih ve B.07.4.DEF.0.09.10/6.GVK.121-5669 sayılı yazınız. İliniz ..... Vergi Dairesi mükelleflerinden .....'un götürü usulde gelir vergisi mükellefi iken Gelir Vergisi Kanununun 50 nci maddesi hükmü gereğince 01.01.1998 tarihinden itibaren mükellefiyetinin gerçek usulde tesis edildiği anlaşılmış 1998 takvim yılına ait yıllık gelir vergisi beyannamesinde hesaplanan gelir vergisinden 1997 yılında götürü usulde vergilendirildiği dönemlerde tevkif suretiyle ödenen vergilerin mahsup edilip edilemeye-ceği hususunda tereddüte düşüldüğü anlaşılmıştır. Bilindiği üzere, 4369 sayılı Kanunla değişmeden önceki Gelir Vergisi Kanunun 121 inci maddesinde "Yıllık beyannamede gösterilen gelire dahil kazanç ve iratlardan bu Kanuna göre kesilmiş veya götürü usulde tespit edilmiş olan kazanç ve ücretler dolayısıyla ödenmiş bulunan vergiler, beyanname üzerinden hesaplanan gelir vergisine mahsup edilir. Mahsubu yapılan miktar (Götürü usulde tespit edilen ticari ve mesleki kazançlar için ödenen vergi ile asgari zirai vergiden doğanlar hariç) Gelir Vergisinden fazla olduğu tak-dirde, aradaki fark vergi dairesince mükellefe bildirilir ve mükellefin tebliğ tarihinden itibaren bir yıl içinde müracatı üzerine kendisine red ve iade olunur." hükmü yer almaktadır. Öte yandan, yine aynı Kanunun 4369 sayılı Kanunla yürürlükten kaldırılmadan ön-ceki mükerrer 121 nci maddesinin "A" fıkrasında "Götürü usule tabi ticaret ve serbest meslek erbabına bu faaliyetleri ile ilgili olarak yapılan ödemelerden 94 üncü madde uyarınca tevkif edilen vergiler, bu mükelleflerin ertesi takvim yılında götürü usulde tespit edilen kazançları üzerinden hesaplanan gelir vergisinden mahsup edilir. Tevkif yoluyla kesilen verginin, götürü usulde tespit edilen kazançlar üzerinden hesaplanan vergiden fazla olması veya mükellefin işini terk etmesi halinde, bu tutar mükel-lefe iade edilmez" hükmüne yer verilerek bu şekilde ödenen vergilerin nihai vergi niteliği kazanması sağlanmıştır. Buna göre, 1997 yılında götürü usulde vergilendirilirken 01.01.1998 tarihinden itiba-ren gerçek usulde vergilendirilme kapsamına alınan ödevlinin, götürü usulde vergilendirildiği dönemde tevkif yoluyla ödediği vergilerin 1998 yılı yıllık gelir vergisi beyannamesi üzerinden hesaplanan gelir vergisine mahsup edilmesi gerekmektedir. Mahsuplar so-nucunda arta kalan bir tutarın bulunması halinde ise bu tutarın mükellefe red ve iadesi söz konusu değildir. Bilgi edinilmesi ve gereğini rica ederim.

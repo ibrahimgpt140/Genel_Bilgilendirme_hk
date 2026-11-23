@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 36170
+baslik: "Şirketin Bankadan kullanacağı kredilere ilişkin olarak, şirket ile Kredi Garanti Fonu A.Ş. arasında düzenlenen ticari işletme rehin sözleşmesinin ticaret siciline tescilinin harçtan istisna olup olmadığı hk."
+tarih: 2012-01-03
+sayi: "B.07.4.DEF.0.29.10.00-HK-2-2"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36170
+gib_guncelleme: 2025-03-24T20:32:45
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Şirketin Bankadan kullanacağı kredilere ilişkin olarak, şirket ile Kredi Garanti Fonu A.Ş. arasında düzenlenen ticari işletme rehin sözleşmesinin ticaret siciline tescilinin harçtan istisna olup olmadığı hk.
+
+**İlgili maddeler:** Madde 123 Özel kanunlardaki hükümler
+
+T.C. GÜMÜŞHANE VALİLİĞİ Defterdarlık GELİR MÜDÜRLÜĞÜ
+
+Sayı | : | B.07.4.DEF.0.29.10.00-HK-2-2 | 03/01/2012
+Konu | : | Ticaret Sicil Harcı
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, ... A.Ş. Trabzon şubesinden kullanacağınız kredilerin teminatını teşkil etmek amacıyla, şirketiniz ile Kredi Garanti Fonu A.Ş. arasında düzenlenen "Düzenleme Şeklinde Ticari İşletme Rehni" ne istinaden Ticari İşletme Rehin Sözleşmesinin ticaret sicil harcından istisna olup olmadığı hususunda görüş talep edildiği anlaşılmıştır.
+Bilindiği gibi, 492 sayılı Harçlar Kanununun 123'üncü maddesinin üçüncü fıkrasında, "...Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri (Bu kooperatifler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından bankalardan kullandırılacak krediler için verilecek kefaletler dahil) bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin işlemler bu Kanunda yazılı harçlardan müstesnadır." hükmü yer almaktadır.
+Kanun hükmü uyarınca, Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri, bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılan kredilerin temini, teminatları ve geri ödenmelerine ilişkin işlemler ile bankalarca kullandırılan krediler için Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri ile Kredi Garanti Fonu A.Ş. tarafından verilecek kefaletlere ilişkin işlemlerden harç aranılmayacaktır.
+Buna göre, şirketinizin ... Bankası A.Ş. Trabzon şubesinden kullanacağı kredilere ilişkin olarak, şirketiniz ile Kredi Garanti Fonu A.Ş. arasında düzenlenen ticari işletme rehin sözleşmesinin ticaret siciline tescilinin harçtan istisna tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

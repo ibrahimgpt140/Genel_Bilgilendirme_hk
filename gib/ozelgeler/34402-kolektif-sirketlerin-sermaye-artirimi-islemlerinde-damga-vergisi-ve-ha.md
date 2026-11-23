@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 34402
+baslik: "Kolektif Şirketlerin sermaye artırımı işlemlerinde damga vergisi ve harca tabi olup olmadığı hk."
+tarih: 2018-10-25
+sayi: "41931384-155[1-2017-7]-47323"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34402
+gib_guncelleme: 2025-03-24T20:18:20
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kolektif Şirketlerin sermaye artırımı işlemlerinde damga vergisi ve harca tabi olup olmadığı hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 123 Özel kanunlardaki hükümler
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+SAKARYA VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı : 41931384-155[1-2017-7]-47323 25.10.2018
+Konu : Kolektif Şirketlerin sermaye artırımı işlemlerinde damga vergisi ve harca tabi olup olmadığı
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, kolektif şirket sermayenizi arttırmak istediğiniz belirtilerek sermaye artırımına ilişkin olarak noterce yapılacak işlemlerin damga vergisi ve harçtan müstesna tutulmasının mümkün olup olmadığı hususunda görüş talep edildiği anlaşılmaktadır.
+492 sayılı Harçlar Kanununun 123 üncü maddesinin üçüncü fıkrasında, anonim, eshamlı komandit ve limited şirketlerin kuruluş, pay devri, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemler ile Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri (Bu kooperatifler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından bankalardan kullandırılacak krediler için verilecek kefaletler dahil) bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin işlemler bu kanunda yazılı harçlardan müstesna olacağı hükmüne yer verilmiştir.
+Diğer taraftan, 488 sayılı Damga Vergisi Kanununun 9 uncu maddesinde, bu Kanuna ekli (2) sayılı tabloda yazılı kağıtların damga vergisinden müstesna olduğu; (2) sayılı tablonun "IV- Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümünün (16) numaralı fıkrasında ise, anonim, eshamlı komandit ve limited şirketler ile yatırım fonlarının kuruluşlarına, pay devirlerine, sermaye artırımlarına ve süre uzatımlarına ilişkin olarak düzenlenen kağıtların damga vergisinden müstesna olacağı hükmü yer almaktadır.
+Yukarıda belirtilen hükümler uyarınca, anonim, eshamlı komandit ve limited şirketlerin sermaye artırımı ile ilgili olarak düzenlenecek kağıtların ve noterde yapılacak işlemlerin damga vergisi ve harç istisnasından yararlanması mümkün bulunmakta olup, kollektif şirketinizin söz konusu istisnalardan yararlanması mümkün değildir.
+Bilgi edinilmesini rica ederim.

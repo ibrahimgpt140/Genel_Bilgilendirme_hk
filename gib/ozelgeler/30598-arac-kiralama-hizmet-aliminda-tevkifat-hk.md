@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 30598
+baslik: "Araç Kiralama Hizmet Alımında Tevkifat hk."
+tarih: 2012-11-27
+sayi: "B.07.4.DEF.0.02.10.00-2010/3-25"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30598
+gib_guncelleme: 2025-03-24T19:59:53
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Araç Kiralama Hizmet Alımında Tevkifat hk.
+
+**İlgili maddeler:** Madde 9 Vergi Sorumlusu
+
+T.C. ADIYAMAN VALİLİĞİ Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | B.07.4.DEF.0.02.10.00-2010/3-25 | 27/11/2012
+Konu | : | Araç Kiralama Hizmet Alımında Tevkifat
+
+İlgide kayıtlı özelge talep formunuzda, Şirketinizin, ... sürücüsüz araç kiralama hizmeti verdiği belirtilerek söz konusu hizmet karşılığı olarak ... tarafından yapılacak ödemelerde katma değer vergisi tevkifatı uygulanıp uygulanmayacağı hususunda bilgi istenilmektedir.
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun 9/1 inci maddesi ile vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutma konusunda Bakanlığımıza yetki vermiştir.
+Söz konusu maddenin verdiği yetkiye dayanılarak yayımlanan 117 Seri No.lu KDV Genel Tebliğinin;
+- (2.3.1) bölümünde, KDV Kanununun (1/3-f) maddesine göre, Gelir Vergisi Kanununun 70 inci maddesinde belirtilen mal ve hakların kiraya verilmesi işlemleri ile ilgili katma değer vergisinin, kiraya verenin başka faaliyetleri nedeniyle KDV mükellefiyetinin bulunmaması (sadece sorumlu sıfatıyla KDV ödeyenler bu kapsama dahildir) ve kiracının KDV mükellefi olması (sadece sorumlu sıfatıyla KDV ödeyenler bu kapsama dahil değildir) şartlarının birlikte var olması halinde, kiracı tarafından sorumlu sıfatıyla beyan edileceği, tevkifata tabi tutulan KDV nin beyan ve ödenmesi konusunda, Tebliğin (1.2) bölümündeki açıklamaların dikkate alınacağı,
+- (2.3.2) bölümünde, KDV ye tabi olan kiralama işlerinde kiraya verenin başka faaliyetleri dolayısıyla KDV mükellefi olması halinde, sorumluluk uygulamasının söz konusu olmayacağı; kiraya verenin, kiralama faaliyetlerine ait KDV yi diğer faaliyetleri ile birlikte genel esaslara göre beyan edeceği,
+belirtilmiştir.
+Buna göre; Şirketiniz tarafından ... yapılan sürücüsüz araç kiralanmasına ilişkin KDV tevkifata tabi tutulmayacak bu işleme ait KDV Şirketiniz tarafından beyan edilecektir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,56 @@
+---
+tur: Özelge
+gib_id: 34569
+baslik: "Su ve Kanalizasyon İdaresi Genel Müdürlüğü ve İller Bankası A.Ş. …Bölge Müdürlüğünce yapılacak hakediş ödemelerinde damga vergisi kesintisi yapılıp yapılmayacağı hk."
+tarih: 2016-02-18
+sayi: "50426076-155[1-2015/20-403]-39"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34569
+gib_guncelleme: 2025-03-24T20:18:50
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Su ve Kanalizasyon İdaresi Genel Müdürlüğü ve İller Bankası A.Ş. …Bölge Müdürlüğünce yapılacak hakediş ödemelerinde damga vergisi kesintisi yapılıp yapılmayacağı hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 3 Mükellef; Madde 8 Resmi daire
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+KAYSERİ VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Grup Müdürlüğü)
+
+18/02/2016
+Sayı : 50426076-155[1-2015/20-403]-39
+Konu : … Su ve Kanalizasyon İdaresi
+… Genel Müdürlüğü ve İller
+Bankası A.Ş. …Bölge
+Müdürlüğünce yapılacak hakediş
+ödemelerinde damga vergisi kesintisi
+yapılıp yapılmayacağı.
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, … Su ve Kanalizasyon İdaresi (…) Genel Müdürlüğü ve İller Bankası A.Ş. … Bölge Müdürlüğünce ihalesi yapılan ve yükleminiz altında yapımı devam eden kanalizasyon ve içme suyu inşaatları işine ait sözleşmelerin damga vergilerini ödediğinizi belirterek, adı geçen Müdürlüklerce firmanıza yapılacak hakediş ödemelerinden damga vergisi kesintisi yapılıp yapılmayacağı hususunda görüş talep edildiği anlaşılmaktadır.
+
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu, bu Kanundaki kağıtlar teriminin, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade ettiği; 8 inci maddesinde bu Kanunda yazılı resmi daireden maksadın genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köyler olduğu, bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmelerin resmi daire sayılmayacağı hükme bağlanmıştır.
+
+Mezkur Kanuna ekli (1) sayılı tablonun "IV. Makbuzlar ve diğer kağıtlar" başlıklı bölümünün 1/a fıkrasında, "Resmi daireler tarafından yapılan mal ve hizmet alımlarına ilişkin ödemeler (avans olarak yapılanlar dâhil) nedeniyle kişiler tarafından resmi dairelere verilen ve belli parayı ihtiva eden makbuz ve ibra senetleri ile bu ödemelerin resmi daireler nam ve hesabına, kişiler adına açılmış veya açılacak hesaplara nakledilmesini veya emir ve havalelerine tediyesini temin eden kağıtlar"ın nispi damga vergisine tabi olduğu hükme bağlanmıştır.
+
+Diğer taraftan, 2560 sayılı İstanbul Su Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanunun 1 inci maddesinde, İstanbul Su ve Kanalizasyon İdaresinin (İSKİ), İstanbul Büyük Şehir Belediyesine bağlı müstakil bütçeli ve kamu tüzel kişiliğini haiz bir kuruluş olduğu; 21 inci maddesinin (a) bendinde, İSKİ'nin görevleri için kullandığı taşınmaz malları, tesisleri, işlemleri ve faaliyetlerinin her türlü vergi, resim ve harçtan muaf olduğu; EK 5 inci maddesinde ise, bu Kanunun diğer büyükşehir belediyelerinde de uygulanacağı hükümlerine yer verilmiştir.
+
+Buna göre, Damga Vergisi Kanununun 8 inci maddesi kapsamında resmi daire sayılmayan İSKİ Genel Müdürlüğüne 2560 sayılı Kanunla tanınan damga vergisi ve harç muafiyetinin, yine resmi daire sayılmayan diğer Büyükşehir belediyelerine bağlı su ve kanalizasyon idarelerine de tatbik edilmesi gerekmektedir.
+
+Öte yandan, 6107 sayılı İller Bankası Anonim Şirketi Hakkında Kanununun 1 inci maddesinde, bu Kanun ile düzenlenen hususlar dışında, özel hukuk hükümlerine tabi, tüzel kişiliğe sahip, anonim şirket statüsünde "İller Bankası Anonim Şirketi" unvanıyla bir kalkınma ve yatırım bankası kurulduğu, bankanın kısaltılmış ünvanının "İLBANK" olduğu, bankanın ilgili olduğu Bakanlığın, Bayındırlık ve İskân Bakanlığı olduğu; 3 üncü maddesinde, bankanın amacının; il özel idareleri, belediyeler ve bağlı kuruluşları ile münhasıran bunların üye oldukları mahalli idare birliklerinin finansman ihtiyacını karşılamak, bu idarelerin sınırları içinde yaşayan halkın mahalli müşterek hizmetlerine ilişkin projeler geliştirmek, bu idarelere danışmanlık hizmeti vermek ve teknik mahiyetteki kentsel projeler ile alt ve üstyapı işlerinin yapılmasına yardımcı olmak ve her türlü kalkınma ve yatırım bankacılığı işlevlerini yerine getirmek olduğu; 13 üncü maddesinde de Bankanın bu Kanunda yer alan hükümler dışında 5411 sayılı Bankacılık Kanunu, 6762 sayılı Türk Ticaret Kanunu ve diğer kanunların ilgili hükümlerine tabi olduğu hükme bağlanmıştır.
+
+Buna göre, 488 sayılı Damga Vergisi Kanununun 8 inci maddesi kapsamında resmi daire statüsünde bulunmayan … Genel Müdürlüğü ve İller Bankası A.Ş. …Bölge Müdürlüğünce firmanıza yapılacak hakediş ödemeleri nedeniyle düzenlenen kağıtların, Kanuna ekli (1) sayılı tablonun IV/1-a fıkrası uyarınca damga vergisine tabi tutulmaması gerekmektedir.
+
+Öte yandan, özelge talep formu ve eklerinin incelenmesinden, söz konusu işe ilişkin iş artışı yapıldığı anlaşılmıştır. Buna göre, iş artışına ilişkin olarak;
+
+- Yeni bir ihale kararı alınmış, ek sözleşme veya bu kağıtların mahiyetini iktisap eden herhangi bir kağıt (protokol, fiyat farkı tespit tutanağı, vb.) düzenlenmiş ise, alınan ihale kararının 488 sayılı Kanuna ekli (1) sayılı tablonun II/2 maddesine göre, düzenlenen ek sözleşmenin veya sözleşme yerine geçen protokolün veya bu mahiyetteki kağıdın ise aynı tablonun I/A-1 fıkrasına göre,
+
+- İhale kararı ve ek sözleşme düzenlenmemiş fakat harcama yetkilisinden "olur"alınmış ise alınan "olur" hem ihale kararı, hem de mukaveledeki belli parayı değiştirir mahiyette olduğundan, söz konusu "olur"un, 488 sayılı Kanunun 6 ve 14 üncü maddelerinin ikinci fıkraları gereğince en yüksek vergi alınmasını gerektiren mukavele değişikliği (artırılan meblağ) üzerinden anılan Kanuna ekli (1) sayılı tablonun I/A-1 fıkrasına göre,
+
+damga vergisine tabi tutulması gerekmektedir.
+
+Ancak iş artışı uygulaması nedeniyle ihale makamı ile yüklenici arasında ihale kararı, ek sözleşme vb. belge düzenlenmemiş veya bu kağıtların yerine kaim olmak üzere ilgili makamdan "olur" alınmamışsa, söz konusu kağıtlara ilişkin olarak ayrıca damga vergisi aranılmayacağı tabiidir.
+
+Bilgi edinilmesini rica ederim.

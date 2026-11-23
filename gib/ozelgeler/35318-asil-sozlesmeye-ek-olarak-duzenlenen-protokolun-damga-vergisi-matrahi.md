@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 35318
+baslik: "Asıl sözleşmeye ek olarak düzenlenen protokolün damga vergisi matrahı hk."
+tarih: 2014-12-26
+sayi: "64597866-155[10-2014]-164 "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/35318
+gib_guncelleme: 2025-03-24T20:25:00
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Asıl sözleşmeye ek olarak düzenlenen protokolün damga vergisi matrahı hk.
+
+**İlgili maddeler:** Madde 10 Vergileme Ölçüleri
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı : 64597866-155[10-2014]-164 26/12/2014
+Konu : Asıl sözleşmeye ek olarak düzenlenen protokolün damga vergisi matrahı hk.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, şirketinizle ... A.Ş. arasında 25.06.2010 tarihinde "... Alımına ait Sözleşme" düzenlendiği, 29.03.2013 tarihinde sözleşmeye ek bir protokol imzalandığı, protokolün konusunun 2 nci maddede belirtilen şartların oluşması halinde bedelsiz ekipman teslimi olduğu belirtilerek, söz konusu protokolün damga vergisine tabi olup olmadığı hususunda görüş sorulduğu anlaşılmıştır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların damga vergisine tabi olduğu, 3 üncü maddesinde, damga vergisi mükellefinin kâğıtları imzalayanlar olduğu; 4 üncü maddesinde bir kâğıdın tabi olacağı verginin tayini için o kâğıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı; 6 ncı maddesinde bir kağıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların herbirinden ayrı ayrı vergi alınacağı, bir kağıtta toplanan akit ve işlemlerin birbirine bağlı ve bir asıldan doğma oldukları takdirde Damga Vergisinin, en yüksek vergi alınmasını gerektiren akit veya işlem üzerinden alınacağı; 10 uncu maddesinde, belli para teriminin, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade edeceği hükme bağlanmıştır.
+Anılan Kanuna ekli (1) sayılı tablonun "I-Akitlerle ilgili kâğıtlar" başlıklı bölümün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin nispi damga vergisine tabi olduğu hükme bağlanmıştır.
+Özelge talep formu eki şirketiniz ile ... A.Ş. arasında düzenlenen 29.03.2014 tarihli protokolün incelenmesinden, 2 nci maddesinde, 2013 yılı içerisinde 60 Milyon TL sipariş garantisi verilmesi durumunda, 60 Milyon TL siparişin % 6'sına karşılık 3.6 Milyon TL tutarında ilave ekipmanın, KDV'si Türk Telekom tarafından ödenmek üzere bedelsiz alınacağına ilişkin taahhüte yer verildiği anlaşılmaktadır.
+Buna göre; şirketiniz ile ... A.Ş. arasında imzalanan ... Alımına ait Sözleşme'ye ek olarak düzenlenen 29.03.2013 tarihli protokolün, en yüksek vergi alınması gerektiren sipariş garantisi taahhüdüne ilişkin bedel olan 60 milyon TL üzerinden Kanuna ekli (1) sayılı tablonun I/A-1 fıkrasına göre damga vergisine tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+__________________________________________________________________________

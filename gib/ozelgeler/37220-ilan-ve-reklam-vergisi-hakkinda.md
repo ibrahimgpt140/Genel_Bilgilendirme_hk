@@ -1,0 +1,44 @@
+---
+tur: Özelge
+gib_id: 37220
+baslik: "İlan ve reklam vergisi hakkında"
+tarih: 2007-03-22
+sayi: "B.07.1.GİB.0.66/6623-84/25762"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/37220
+gib_guncelleme: 2025-03-24T20:50:07
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İlan ve reklam vergisi hakkında
+
+**İlgili maddeler:** Madde 12 İlan ve Reklam Vergisi Konu:; Madde 13 Mükellef ve Sorumlu; Madde 14 İstisna ve Muaflıklar; Madde 15 Tarife ve Nispet
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI:B.07.1.GİB.0.66/6623-84/25762 22.3.2007
+KONU:
+
+............ BELEDİYE BAŞKANLIĞINA
+
+İLGİ:................
+
+İlgide kayıtlı yazınızda, ilan ve reklam vergisinin uygulanmasıyla ilgili olarak, ışıksız levha ve yazılar için uygulanan 1/2 metrekare muafiyetin bir işyerinde bulunan birden çok levhanın her biri için mi yoksa sadece birisi için mi uygulanacağı, bir yıldan fazla kalacak ilan ve reklamlar için her yıl beyanname verilip verilmeyeceği, akaryakıt istasyonlarında bayisi oldukları firmanın levha ve bayrakları için vergiyi ana bayi mi yoksa satıcı bayilerin mi ödeyeceği hususunda tereddüte düşüldüğü belirtilerek, konu hakkında Başkanlığımız görüşü sorulmaktadır.
+Bilindiği gibi, 2464 sayılı Belediye Gelirleri Kanununun 12 nci maddesinde,"Belediye sınırları ve mücavir alanlar içinde yapılan her türlü ilan ve reklam, ilan ve reklam vergisine tabidir." denilmekte ve 13 üncü maddesinde ise,
+"İlan ve reklam vergisinin mükellefi, yurt dışından gönderilen ilan ve reklamlar da dahil olmak üzere, ilan ve reklamı kendi adına yapan veya yaptıran gerçek veya tüzel kişilerdir.
+İlan ve reklam işlerini mutat meslek olarak ifa edenler, başkaları adına yaptıkları ilan ve reklamlara ait vergileri mükellefler adına ilgili belediyeye yaptırmaktan sorumludurlar."
+
+hükmü yer almaktadır.
+Öte yandan, Kanunun 14 üncü maddesinin (5) numaralı bendinde "Gerçek veya tüzel kişilere ait işyerlerinin içine veya dışına asılan iş sahibinin kimliği ile işin mahiyetini gösteren ve alanı 1/2 metrekareyi aşmayan ışıksız levhalar, (Alanı 1/2 metrekareyi aşan levhalar, aşan kısım üzerinden vergiye tabidir.)" hükmüne yer verilmiş olup, 15 inci maddesinin ikinci fıkrasının (a) bendinde, "Metrakare üzerinden yapılan hesaplamalarda, yarım metrakareye kadar olan kesirler yarım metrekareye, yarım metrekareyi aşanlar ise tam metrekareye tamamlanır.", (d) bendinde ise, "Vergi tarifesinin 1, 2 ve 4 üncü bentlerinde belirtilen ilan ve reklamların süresi 6 aydan, 3'üncü bendinde belirtilen ilan ve reklamların süresi 1 haftadan az olursa vergi miktarının yarısı alınır, 6 ayı geçen süreler 1 yıl, hafta kesirleri de tam hafta sayılır." denilmektedir.
+Anılan Kanunun verginin tarhı ve ödenmesi başlıklı 16 ncı maddesinde ise; "Vergiye tabi ilan ve reklamlarda ilan ve reklam işinin mükellefçe yapılması halinde ilan veya reklam işinin yapılmasından önce mükellef tarafından, ilan ve reklam işinin bu işi mutad meslek olarak ifa edenler tarafından yapılması halinde, ilan ve reklam işini yapanlarca ilan veya reklamın yapıldığı ayı takip eden ayın 20 nci günü akşamına kadar verilecek beyanname üzerine, tarh ve tahakkuk ettirilir. Beyannameler vergi tarifesinin 1, 2, 3, 4, 5 ve 6 ncı bentlerinde yazılı ilan ve reklamlarda bunların yapıldığı veya teşhir edildiği mahallin belediyesine verilir." hükmü yer almaktadır.
+Yukarıda yer alan hükümlere göre;
+1- İlan ve reklam amacıyla işyerinin içine veya dışına asılan ve iş sahibinin kimliği ile işin mahiyetini gösteren ışıksız levhaların birden fazla olması halinde, bir tanesinin 1/2 metrekaresinden ilan ve reklam vergisinin alınmaması; ancak, alanı 1/2 metrekareyi aşan levhalarda aşan kısım ile diğerleri üzerinden 15 inci maddenin ikinci fıkrasının (a) bendinde belirtilen esaslara göre ayrı ayrı ölçülüp ilan ve reklam vergisinin alınması,
+2- İlan ve reklam vergisinin, Kanunda öngörülen sürelerde beyan edilerek tarh ve tahakkuk ettirilip beyanname verme süresi içinde ödenmesi; söz konusu verginin bu şekilde yapılan beyan esas alınarak süreklilik arz eden ilan ve reklamlar için ayrıca yeniden beyanname verilmeksizin (değişiklik beyanları hariç) her yılın Ocak ayı itibariyle tarh ve tahakkuk ettirilmesi ve bu süre içerisinde de ödenmesi,
+3- Akaryakıt istasyonlarında bayisi olunan firmanın levha ve bayrakları için ilan ve reklam vergisinin, bu ilan ve reklamı yapanlar tarafından ilgili belediyeye yatırılması,
+Gerekmektedir.
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+Başkan a.

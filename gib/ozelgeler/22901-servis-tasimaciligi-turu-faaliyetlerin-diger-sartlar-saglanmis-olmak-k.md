@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 22901
+baslik: "Servis taşımacılığı türü faaliyetlerin (diğer şartlar sağlanmış olmak kaydıyla) basit usulde vergilendirilmesi mümkündür."
+tarih: 1999-04-30
+sayi: "B.07.0.GEL.0.44/4401-208/16851"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/22901
+gib_guncelleme: 2025-03-24T19:29:38
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Servis taşımacılığı türü faaliyetlerin (diğer şartlar sağlanmış olmak kaydıyla) basit usulde vergilendirilmesi mümkündür.
+
+**İlgili maddeler:** Madde 42 Birden fazla takvim yılına sirayet eden inşaat ve onarma işleri; Madde 51 Basit(*)  Usulün Hududu; Madde 94 Vergi Tevkifatı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 30.04.1999 SAYI : B.07.0.GEL.0.44/4401-208/16851 KONU : Gerçek usulden basit usule geçiş hk. MUĞLA VALİLİĞİ (Defterdarlık : Gelir Müdürlüğüne) İLGİ : a) 22.03.1999 tarih ve B.07.4.DEF.0.4.DEF.0.48.10.30.VUK.1/1153 sayılı yazı-nız. b) 12.04.1999 tarih ve B.07.4.DEF.0.48.10.GVK.10/1372 sayılı yazınız. İlgi (a) da kayıtlı yazınız ve eklerinin incelenmesinden; ........ Vergi Dairesi mükelleflerinden .....'un servis taşımacılığı faaliyetinin Gelir Vergisi Kanununun 51/4 üncü maddesine göre taahhüt kasamında değerlendirilerek 01.01.1994 tarihinden itibaren gerçek usulde gelir vergisi mükellefiyetinin tesis edildiği, adı geçenin bu işini 09.11.1994 tari-hinde terk ettiği ve 01.01.1999 tarihinden itibaren tekrar öğrenci taşıma işi yapmak üzere yeniden müracaat ederek basit usulde vergilendirme talebinde bulunduğu ancak, bu talebinin adı geçen Vergi Dairesince kabul edilmediği anlaşılmış olup, konu hakkında aşağıdaki açıklamaların yapılmasına gerek görülmüştür. Bilindiği üzere; Gelir Vergisi Kanununun 51 inci maddesinin 4 numaralı bent hükmü 3946 sayılı Kanun ile 30.12.1993 tarihinden itibaren yürürlüğe girmek üzere aşağıdaki şekilde değiştirilmiştir. "4. Her türlü taahhüt işleri yapanlar ile bu kişilere derece derece taahhütte bulunanlar." Bu hüküm 4108 sayılı Kanun ile "Bu Kanunun 94 üncü maddesinin birinci fıkrasında sayılan kişi ve kurumlara karşı inşaat ve onarma işini taahhüt edenler ile bu mükelleflere karşı derece derece taahhütte bulunanlar," şeklinde tekrar değiştirilmiş ve bu değişikliğin 01.01.1995 tarihinden itibaren geçerli olması sağlanmıştır. Ayrıca, 4108 sayılı Kanun ile Gelir Vergisi Kanununa eklenen geçici 42 inci mad-dede geçiş dönemine ilişkin bir düzenleme yapılmıştır. Buna göre, Gelir Vergisi Kanununun 51 inci maddesinin 4 numaralı bendinin bu Kanunla değişmeden önceki hükmü uyarınca, 01.01.1994 tarihinden itibaren gerçek usule alınmış olan mükelleflerden, 31.12.1994 tarihi itibariye götürü usule tabi olmaya ilişkin şartları topluca taşıyanlar; bu Kanunun yayımlandığı tarihi takip eden ayın sonuna kadar bağlı oldukları vergi dairesine yazılı olarak müracaat ederek, bu tarihe kadar 1995 yılına ilişkin götürü usule ait gelir vergisi tarh ve tahakkuk ettirdikleri takdirde, 01.01.1995 tarihinden itibaren söz konusu mükelleflerin götürü usulden yararlandırılabilmeleri temin edilmiştir. Bu geçici uygulamaya ilişkin esaslar ise 184 No.lu Gelir Vergisi Genel Tebliğinde açıklanmıştır. Öte yandan, Gelir Vergisi Kanununun 51/4 üncü maddesinin 4108 sayılı Kanun ile değişik 4 numaralı bendi, mükellefin yaptığı servis taşımacılığı türü faaliyetlerin (diğer şartlar sağlanmış olmak kaydıyla) basit usulde vergilendirilmesine imkan vermektedir. Bu sebeple, anılan mükellefin diğer şartları taşıması kaydıyla basit usulden yararlanması mümkün bulunmaktadır. Bilgi edinilmesini, gereğinin buna göre yapılarak neticeden adı geçene de bilgi verilmesini rica ederim.

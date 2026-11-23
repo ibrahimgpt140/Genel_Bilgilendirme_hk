@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24700
+baslik: "Kooperatifler birliğinin kendisine bağlı kooperatifler vasıtasıyla üretici ortaklarının giderlerini karşılamak amacıyla verdiği kredilerden elde ettiği faiz gelirlerinin risturn olarak kabul edilip edilmeyeceği hk."
+tarih: 1997-01-22
+sayi: "B.07.0.GEL.0.49/4906-50/2343"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/ozelge/24700
+gib_guncelleme: 2025-03-24T19:32:46
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kooperatifler birliğinin kendisine bağlı kooperatifler vasıtasıyla üretici ortaklarının giderlerini karşılamak amacıyla verdiği kredilerden elde ettiği faiz gelirlerinin risturn olarak kabul edilip edilmeyeceği hk.
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı; Madde 8 İstisnalar
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 22.01.1997 SAYI : B.07.0.GEL.0.49/4906-50/2343 KONU : Kooperatifler birliğinin kendisine bağlı kooperatifler vasıtasıyla üretici ortaklarının giderlerini karşılamak amacıyla verdiği kredilerden elde ettiği faiz gelir- lerinin risturn olarak kabul edilip edilmeyeceği hk. İZMİR VALİLİĞİ (Defterdarlık: Vasıtasız Ver. Gelir Müdürlüğüne) İLGİ: 15.11.1996 gün ve B.07.4.DEF.O.35.lI/176300-796/1158 sayılı yazınız. Yazınızda, ................................... Kooperatifleri Birliğinin kendisine bağlı kooperatifler vasıtasıyla üretici ortaklarının üretimle ilgili giderlerinin karşılanması amacıyla verdiği nakdi kredilerden elde ettiği faiz gelirlerinin Kurum l ar Vergisi Kanununun 3946 sayılı Kanunla değişik 8 nci maddesinin 2 numaralı bendi uyarınca risturn olarak değerlendirilip değerlendirilemeyeceği sorulmaktadır. Öte yandan, Birliğin ana sözleşmesinin Birliğin amaçlarına ilişkin 4'üncü maddesinin (b) bendinde "Bağlı kooperatiflerin ortakları ile ortak olmayan diğer üreticilerin tarımsal üretim faaliyetleri ile ilgili ihtiyaçlarının karşılanması için çalışmalar yapmak, gerektiğinde ortak üreticileri kredi ile desteklemek hükmünün, Tarım Satış Kooperatifleri Ana sözleşmesinin kooperatifin amacı ile ilgili 5'inci maddesinin A/b bendinde de "Ortakların ve ortak olmayan üreticilerin tarımsal üretim faaliyeti ile ilgili ihtiyaçlarını karşılamak gerektiğinde ortaklarını kredi ile desteklemek." şeklinde hükümlerin bulunduğu belirtilmektedir. 5422 sayılı Kurumlar Vergisi Kanununun 3946 sayılı Kanunla değişik 8 nci maddesinin 2 numaralı bendinin (c) fıkrasında "Kredi kooperatiflerinde; ortakların kullandıkları kredilere göre hesaplanan risturnlar"ın kurumlar vergisinden istisna edileceği hükme bağlanmıştır. Aynı bendin son iki fıkrasında ise, "Bu risturnların nakden veya aynı kıymette mal ile ödenmesi istisnanın uygulanmasına mani değildir. Ortaklard a n başka kimselerle yapılan muamelelerden doğan kazançlar ile ortaklarla ortaklık statüsü dışında yapılan muamelelerden doğan kazançlar hakkında risturnlara müteallik istisna hükmü uygulanmaz. Bunların genel kazançtan tefrikinde ortaklarla y a pılan iş hacminin genel iş hacmine olan nispeti esas tutulur. Bu risturnlar, Gelir Vergisi Kanununun 94 üncü maddesine göre gelir vergisi tevkifatına tabi tutulmaz. Ortaklara dağıtımı kar dağıtımı sayılmaz. denilmektedir. Buna göre, a dı geçen kooperatifin kendisine bağlı kooperatifler vasıtasıyla üretici ortaklarının üretimle ilgili giderlerinin karşılanması amacıyla verdiği nakdi kredilerden elde ettiği faiz gelirleri üzerinden hesapladıkları risturnlar Kurumlar Verg i si Kanununun 3946 sayılı Kanunla değişik 8 nci maddesinin 2 numaralı bendinin (c) numaralı fıkrası uyarınca kurumlar vergisinden müstesnadır. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

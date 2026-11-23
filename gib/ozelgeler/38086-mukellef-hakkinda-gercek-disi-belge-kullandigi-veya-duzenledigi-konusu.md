@@ -1,0 +1,16 @@
+---
+tur: Özelge
+gib_id: 38086
+baslik: "Mükellef hakkında gerçek dışı belge kullandığı veya düzenlediği konusunda olumsuz bir rapor varsa, teminatsız ve incelemesiz mahsup uygulamasından faydalanamayacaktır. Ancak rapor, A.Ş.'ye mal satanların kendilerine tevkifattan sonra ödenen vergi tutarını"
+tarih: 1997-06-23
+sayi: "B.07.0.GEL.0.53/5311-2081/26367"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38086
+gib_guncelleme: 2025-03-24T22:48:06
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Mükellef hakkında gerçek dışı belge kullandığı veya düzenlediği konusunda olumsuz bir rapor varsa, teminatsız ve incelemesiz mahsup uygulamasından faydalanamayacaktır. Ancak rapor, A.Ş.'ye mal satanların kendilerine tevkifattan sonra ödenen vergi tutarını
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 23.06.1997 SAYI : B.07.0.GEL.0.53/5311-2081/26367 KONU : İZMİR VALİLİĞİNE (Defterdarlık: Vasıtalı Ver.Gel.Müd.) ..... Anonim Şirketi tarafından Bakanlığımıza gönderilen 5.06.1997 tarihli dilekçenin bir örneği ilişiktir. Hurda metal tevkifatı nedeniyle mahsuben katma değer vergisi iadesi talebinde bulunan mükellef dilekçesinde, hurda metal alımı yaptığı mükelleflerden birisinin, kendisine ödenen 1/3 tutarındaki vergiyi beyan etmediği ve sahte belge tespiti nedeniyle incelemeye sevkedildiği, bir diğer mükellefin de 1996 yılının ilk 8 ayını beyan edip son 4 ayını beyan etmediğini, vergi dairesinin de bu tespitleri gerekçe göstererek mahsup taleplerinin yerine getirilmesi için mahsup tutarının toplamı kadar teminat istediği ifade edilmektedir. 51 Seri No.lu Katma Değer Vergisi Genel Tebliğinin (C) bölümünde; diğer Tebliğlerde müteselsil sorumluluk ile ilgili olarak yer alan hükümlerin vergi tevkifatı uygulayan mükelleflerin tevkifat uyguladıkları işlemler bakımından geçerli olmayacağı, tevkifat uygulayanların, tevkifat tutarını beyan edip ödemiş olmaları şartıyla, bu işlemlerle ilgili olarak önceki safhalarda ortaya çıkan verginin Hazineye intikal etmemiş olması nedeniyle müteselsil sorumluluk uygulaması ile muhatap tutulmayacakları hükme bağlanmıştır. Buna göre, ..... A.Ş. alımları dolayısıyla tevkif ettiği vergiyi ödemiş olması şartıyla, tevkif edilmeyen kısmın satıcı tarafından beyan edilip ödenmemesi nedeniyle müteselsil sorumluluk uygulaması ile muhatap tutulamayacaktır. Ancak dilekçe ekinde yer alan .....Vergi Dairesi Başkanlığının 11.06.1997 gün ve 11179 sayılı yazısında Şirketin gerçek dışı belge kullandığının tespit edildiği belirtilmektedir. Mükellef hakkında gerçek dışı belge kullandığı veya düzenlediği konusunda olumsuz bir rapor varsa, teminatsız ve incelemesiz mahsup uygulamasından faydalanamayacaktır. Ancak rapor, ..... A.Ş.'ne mal satanların kendilerine tevkifattan sonra ödenen vergi tutarını beyan edip ödememesinden kaynaklanan bir müteselsil sorumluluk raporu ise mahsup taleplerinin tem i nat ve inceleme aranılmadan yerine getirilmesi gerekmektedir. Bilgi edinilmesi ve durumun bu çerçevede değerlendirilerek gereğinin yerine getirilmesini rica ederim. Bakan a. Daire Başkanı

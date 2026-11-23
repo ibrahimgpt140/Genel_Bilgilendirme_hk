@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 34187
+baslik: "ÖTV indirimli ticari taksi plakasının başkasına devrinde ÖTV uygulaması"
+tarih: 2018-02-21
+sayi: "B.07.1.GİB.4.07.16.02-135-37819"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/34187
+gib_guncelleme: 2025-03-24T20:16:46
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# ÖTV indirimli ticari taksi plakasının başkasına devrinde ÖTV uygulaması
+
+**İlgili maddeler:** Geçici Madde 7 (6745 sayılı Kanunun 54 üncü maddesiyle eklenen Geçici Madde, Yürürlük; 07.09.2016)
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+Antalya Vergi Dairesi Başkanlığı
+Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | 76464994-135[ÖTV.2017.330] - 37819 | 21.02.2018
+Konu | : | ÖTV indirimli ticari taksi plakasının başkasına devrinde ÖTV uygulaması
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, ticari taksi faaliyetinde kullanmak amacıyla 4760 sayılı Özel Tüketim Vergisi Kanununa eklenen geçici 7 nci madde kapsamında ÖTV istisnasından faydalanarak araç iktisap ettiğiniz, söz konusu ticari aracın plakasını ve durağını başkasına devredeceğiniz fakat aracın sizde kalacağını belirterek, ilk iktisap aşamasında ödemediğiniz ÖTV'nin geri alınıp alınmayacağı hususunda Başkanlığımız görüşünün talep edildiği anlaşılmaktadır.
+6745 sayılı Yatırımların Proje Bazında Desteklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 54 üncü maddesiyle Özel Tüketim Vergisi Kanununa eklenen geçici 7 nci maddeyle, ÖTV Kanununa ekli (II) sayılı listenin 87.02 ve 87.03 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan şehiriçi taksi, dolmuş, servis, minibüs, midibüs ve otobüs taşımacılığı faaliyeti (araç kiralama, özel yolcu transferi ve benzeri hizmet ifası faaliyetleri hariç) ile 8701.20 ve 87.04 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan ticari yük taşımacılığı faaliyeti dolayısıyla bu maddenin yürürlüğe girdiği tarih itibarıyla gelir veya kurumlar vergisi mükellefiyeti bulunan ve bu faaliyetini ilgili mevzuatta öngörülen yükümlülükleri yerine getirmek ve yetkilendirilmek suretiyle maliki olduğu taşıtlar vasıtasıyla icra eden gerçek ve tüzel kişiler tarafından, söz konusu faaliyetler kapsamında kullanılan taşıtların yenilenmesi amacıyla, aynı tarife pozisyon sıraları kapsamındaki taşıtların (87.03 tarife pozisyon sırası kapsamındaki; yarış arabaları, arazi taşıtları, ATV olarak adlandırılan üç veya dört tekerlekli taşıtlar, motorlu karavanlar ile motor silindir hacmi 1600 cm3'ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten 30/6/2019 tarihine kadar (bu tarih dahil) ilk iktisabı ÖTV'den istisna tutulmuştur.
+Mezkûr maddenin dördüncü fıkrasında, bu madde hükmüne göre iktisap edilen taşıtın, ilk iktisap tarihinden itibaren üç tam yıl geçmeden, veraset yoluyla intikaller hariç, devri halinde adına kayıt ve tescil işlemi yapılandan, ticari yolcu veya yük taşımacılığı faaliyetinden çekilmesi (hurdaya ayrılması hariç) halinde ise bu madde hükmünden yararlanandan, taşıtın ilk iktisabındaki matrah esas alınarak, devir veya ticari taşımacılık faaliyetinden çekilme tarihindeki oran üzerinden hesaplanan özel tüketim vergisinin alınacağı hükme bağlanmıştır.
+Söz konusu istisna uygulamasının usul ve esaslarına ilişkin açıklamalara ise Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 2) ile değişik Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinin (VI/E) bölümünde yer verilmiştir.
+Mezkur Tebliğin söz konusu bölümünün "1.4.İstisna Kapsamında İktisap Edilen Taşıtın Devri" başlıklı alt bölümünde de belirtildiği üzere, istisna uygulaması kapsamında iktisap edilen taşıtın, ilk iktisap tarihinden itibaren üç tam yıl geçmeden;
+- Veraset yoluyla intikal hariç, satış veya devrinde, taşıtın ilk iktisabındaki matrah esas alınarak, devir (kayıt ve tescil) tarihindeki oran üzerinden hesaplanan ÖTV'nin, adına kayıt ve tescil işlemi yapılandan,
+- Şehiriçi ticari yolcu taşımacılığı veya ticari yük taşımacılığı faaliyetinden çekilmesi halinde ise taşıtın ilk iktisabındaki matrah esas alınarak, faaliyetten çekilme tarihindeki oran üzerinden hesaplanan ÖTV'nin, istisnadan yararlanandan
+alınması gerekmektedir.
+Yukarıda yapılan açıklamalar çerçevesinde, ÖTV Kanununun geçici 7 nci maddesinde düzenlenen istisna kapsamında taksicilik faaliyetinde kullanmak üzere iktisap ettiğiniz aracın plakasının ve durağının başkasına devredilerek ticari faaliyetten çekilmesi halinde, taşıtın ilk iktisabındaki matrah esas alınarak, faaliyetten çekilme tarihindeki oran üzerinden tarafınızca ÖTV beyan edilip ödenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.

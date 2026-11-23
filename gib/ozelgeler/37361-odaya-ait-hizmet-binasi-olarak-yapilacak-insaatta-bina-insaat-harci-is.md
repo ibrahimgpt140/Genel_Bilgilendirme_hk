@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 37361
+baslik: "Odaya Ait Hizmet Binası Olarak Yapılacak İnşaatta Bina İnşaat Harcı İstisnası Hk."
+tarih: 2018-05-15
+sayi: "85373914-175.02[66.01.9]-65002"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/37361
+gib_guncelleme: 2025-03-24T20:51:34
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Odaya Ait Hizmet Binası Olarak Yapılacak İnşaatta Bina İnşaat Harcı İstisnası Hk.
+
+**İlgili maddeler:** Madde 80 İmar İle İlgili Harçlar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+Manisa Vergi Dairesi Başkanlığı
+Gelir Kanunları Grup Müdürlüğü
+
+Sayı | : | 85373914-175.02[66.01.9]-E.65002 | 15.05.2018
+Konu | : | Odaya ait Hizmet Binası olarak yapılacak inşaatta Bina İnşaat Harcı istisnası
+
+İlgi | : | 05/03/2018 tarihli özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunuz ve eki dilekçenin incelenmesinden, 5362 sayılı Esnaf ve Sanatkarlar Meslek Kuruluşları Kanununa tabi olduğunuz, anılan Kanunun 65 inci maddesine istinaden Odanız tarafından hizmet binası olarak yapılacak inşaatın bina inşaat harcına ve imarla ilgili harçlara tabi olup olmadığı hususunda bilgi verilmesi istenildiği anlaşılmaktadır.
+
+2464 sayılı Belediye Gelirleri Kanununun Ek 1 inci maddesinde, belediye sınırları ve mücavir alanlar içinde yapılan her türlü bina inşaatının (ilave ve tadiller dahil), inşaat veya tadilat ruhsatının alınmasında Ek 6 ncı maddesinde yer alan tarifede gösterilen nispet ve hadlerde bina inşaat harcına tabi olduğu; Ek 2 nci maddesinde ise bina inşaat harcı ile ilgili istisna hükümlerine yer verilmiştir.
+
+2464 sayılı Kanunun 80 inci maddesinde de imar ile ilgili harçlara (parselasyon harcı, ifraz ve tevhit harcı, plan ve proje tasdik harcı, zemin açma izni ve toprak hafriyatı harcı, yapı kullanma izni harcı) ilişkin hükümlere yer verilmiş olup, 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun hükümleri uyarınca yapılan yapı ve tesislerin imarla ilgili harçlar ve bina inşaat harcından, organize sanayi bölgeleri ile sanayi ve küçük sanat sitelerinde yapılan yapı ve tesislerin ise bina inşaat harcı ve yapı kullanma izni harcından müstesna olacağı hüküm altına alınmış olup, 2464 sayılı Kanunun Ek 2 nci maddesinde de, 80 inci maddesinde de şoförler ve otomobilciler odası için herhangi bir istisna hükmü yer almamıştır.
+
+Öte yandan, 5362 sayılı Esnaf ve Sanatkarlar Meslek Kuruluşu Kanununun muafiyetler başlıklı 65 inci maddesinde, "Esnaf ve sanatkârlar meslek kuruluşlarının, kuruluş amaçlarını gerçekleştirmek ve bu amaçlarına uygun olarak kullanılmak üzere iktisap ettikleri ve edecekleri gayrimenkuller ile bu kuruluşların görevleri dolayısıyla elde ettikleri gelirler, katma değer vergisi ve emlak vergisi hariç her türlü vergi, resim ve harçtan müstesnadır." hükmü yer almaktadır.
+
+Bu hüküm uyarınca, Odanızın kuruluş amaçlarını gerçekleştirmek ve bu amaçlarına uygun olarak kullanılmak üzere iktisap ettiği ve edeceği gayrimenkuller katma değer vergisi ve emlak vergisi hariç her türlü vergi, resim ve harçtan müstesna bulunduğundan, Odanız tarafından yapılacak olan hizmet binası inşaatının bina inşaat harcından ve imarla ilgili harçlardan istisna tutulması mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

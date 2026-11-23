@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 29559
+baslik: "İş yeri kooperatifinin yapacağı inşaattaki KDV oranının durumu hk."
+tarih: 2012-01-23
+sayi: "B.07.1.GİB.4.27.15.01-11-515-2-6"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29559
+gib_guncelleme: 2025-03-24T19:55:47
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İş yeri kooperatifinin yapacağı inşaattaki KDV oranının durumu hk.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 17; Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI GAZİANTEP VERGİ DAİRESİ BAŞKANLIĞI VERGİ VE ANLAŞMALAR UYGULAMA MÜDÜRLÜĞÜ
+
+Sayı | : | B.07.1.GİB.4.27.15.01-11-515-2-6 | 23/01/2012
+Konu | : | İş yeri kooperatifinin yapacağı inşaattaki KDV oranının durumu
+
+İlgide kayıtlı özelge talep formunuzda, İşyeri Kooperatifinize ait arsa üzerinde sosyal tesis ve işyerleri inşaatına başlanılacağı belirtilerek, kooperatifinizin KDV mükellefiyeti tesis ettirip ettirmeyeceği ile inşaatın tamamlanmasını müteakip üyelerinize teslim edilecek işyerleri için KDV hesaplanıp hesaplanmayacağının bildirilmesi istenmektedir.
+Katma Değer Vergisi Kanununun 1/1 inci maddesine göre, Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler KDV ye tabidir.
+KDV oranları, KDV Kanununun 28 inci maddesinin verdiği yetkiye dayanılarak 30/12/2007 tarih ve 26742 sayılı Resmi Gazetede yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi ile Kararnameye ekli (I) sayılı listede yer alan teslim ve hizmetler için %1, (II) sayılı listede yer alan teslim ve hizmetler için % 8, bu listelerde yer almayan vergiye tabi işlemler için % 18 olarak tespit edilmiştir.
+2007/13033 sayılı Kararnameye göre, net alanı 150 m2 ye kadar olan konut teslimleri % 1, net alanı 150 m2 nin üzerindeki konutlar ile işyeri teslimleri % 18 oranında KDV ye tabidir.
+Yukarıda yer alan hüküm ve açıklamalar çerçevesinde, Kooperatifiniz tarafından inşa ettirilecek işyerlerinin üyelerinize teslimi genel oranda (% 18) KDV ye tabi olup Kooperatifinizin KDV mükellefiyeti tesis ettirmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

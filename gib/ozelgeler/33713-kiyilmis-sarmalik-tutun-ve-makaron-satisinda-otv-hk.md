@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 33713
+baslik: "Kıyılmış sarmalık tütün ve makaron satışında ÖTV hk."
+tarih: 2014-05-30
+sayi: "84412373-135[11/2-2013/33449]-44"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/33713
+gib_guncelleme: 2025-03-24T20:14:31
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kıyılmış sarmalık tütün ve makaron satışında ÖTV hk.
+
+**İlgili maddeler:** Madde 1 Verginin konusu; Madde 11 Vergileme ölçüleri ve matrah
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ADANA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Grup Müdürlüğü)
+
+Sayı | : | 84412373-135[11/2-2013/33449]-44 | 30/05/2014
+Konu | : | Kıyılmış sarmalık tütün ve makaron satışında ÖTV.
+
+İlgide kayıtlı özelge talep formunuzda, firmanızın sarmalık kıyılmış tütün ve makarondan (filtreli boş sigara kâğıdından) oluşan ürünün üretim ve toptan satışı faaliyeti ile iştigal ettiği, tütünü bandrollü olarak 100 gramlık, makaronu ise bandrolsüz olarak 200'lük paketler halinde farklı fiyat ve ambalajlarda ancak birlikte bayilerine sattığınızdan bahisle, özel tüketim vergisinin sarmalık kıyılmış tütünün tüketici fiyatı üzerinden mi yoksa tütün ve makaronun toplam perakende satış fiyatı üzerinden mi hesaplanacağı hususunda oluşan tereddüt nedeniyle Başkanlığımız görüşü talep edilmektedir.
+Bilindiği üzere, 4760 sayılı Özel Tüketim Vergisi Kanununun 1 inci maddesinin (1) numaralı fıkrasının (c) bendinde, Kanuna ekli (III) sayılı listedeki malların ithalatı veya imal ya da inşa edenler tarafından tesliminin bir defaya mahsus olmak üzere ÖTV'ye tabi olduğu; aynı maddenin 2 nci fıkrasında ise Kanuna ekli listelerde yer alan malların Türk Gümrük Tarife Cetvelinde tanımlanan eşyalar olduğu hüküm altına alınmıştır.
+Ayrıca, aynı Kanunun 11 inci maddesinin (2) numaralı fıkrasının (b) bendinde, (III) sayılı listenin (B) cetvelindeki mallar için asgari maktu vergi ve maktu vergi tutarlarının perakende satışa sunulan sigaraların birim ambalajı içinde yer alan her bir sigara, diğer tütün mamullerinin birim ambalajı içindeki mamulün her bir gramı itibariyle, maktu vergi tutarları ise 20 adet sigaradan veya 50 gram tütünden oluşan birim ambalaj itibariyle (Birim ambalajların farklı adet veya gramdan oluşması halinde vergi tutarı, anılan adet veya grama göre oranlanarak hesaplanır.) uygulanacağı; (4) numaralı fıkrasında, bu mallar için verginin matrahının nihai tüketicilere perakende satış fiyatı olduğu; 5 numaralı fıkrasında ise maktu vergi ile birlikte, asgari maktu vergi tutarına göre hesaplanacak vergi tutarından az olmamak üzere nispi vergi uygulanacağı hükme bağlanmıştır.
+Öte yandan, 12/7/2011 tarih ve 27992 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yönetmelikle değişik Sarmalık Kıyılmış Tütün Mamullerinin Üretimi, Ambalajlanması ve Piyasaya Arzına İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 4 üncü maddesinde, "sarmalık kıyılmış tütün mamulü", koruyucu maddeler dışında herhangi bir katkı maddesi ilave edilmeden, tütün yaprağının ve/veya tütün bitkisi parçalarının tamamen hammadde olarak kullanılması ile kıyılarak hazırlanan, birim paket içinde piyasaya arz edilen tüttürme amaçlı ürün; "makaron", sarmalık kıyılmış tütün mamulü tüketiminde kullanılan içi boş sigara tüpü olarak tanımlanmış; 6 ncı maddesinde de; "Sarmalık kıyılmış tütün mamulü, yirmi gramdan az, bin gramdan fazla olmamak kaydıyla her bir gram tütün için en az bir adet, en fazla iki adet makaron veya yaprak sigara kâğıdı ile birlikte aynı birim paketlerde piyasaya arz edilir.
+Birinci fıkradaki miktar şartlarına uyulması kaydıyla, sarmalık kıyılmış tütün mamulü üretimi yapanların talebi halinde sarmalık kıyılmış tütün mamulü ile makaron veya yaprak sigara kâğıdının ayrı paketler halinde birlikte piyasaya arz edilmesine Kurum tarafından izin verilebilir. Bu durumda makaron ve yaprak sigara kâğıdı paketinin görünebilir tüm dış yüzeyleri beyaz renkte olacak, üzerinde üçüncü fıkrada belirtilen ibareler dışında başka ibare bulunmayacaktır.
+İkinci fıkra kapsamında ayrı paketler halinde ancak birlikte piyasaya arz edilmesine Kurumca izin verilen; sarmalık kıyılmış tütün mamulü birim paketinin üzerinde, ".... adet makaron/yaprak sigara kağıdı ile birlikte piyasaya sunulmuştur.", makaron ve yaprak sigara kağıdı paketinin üzerinde ise, " .... gramlık ........ markalı sarmalık kıyılmış tütün mamulünden ayrı olarak satılamaz." ibaresi bulunur. Bu ibareler, sökülemez nitelikte olması şartıyla yapıştırılmak suretiyle de konulabilir." düzenlemesine yer verilmiştir.
+Dolayısıyla, özelge talep formunuzda belirtilen hususlar ve mezkûr Yönetmelik hükümleri birlikte değerlendirildiğinde, "sarmalık kıyılmış tütün mamulü ve makarondan oluşan ambalaj" olarak satışa sunulan ürünün birlikte kullanılacak miktar ve özellikte olduğu, makaronlar üzerinde markanın yer aldığı, tütünün makaron içerisine bir doldurma aparatı vasıtasıyla tüketici tarafından kolaylıkla doldurularak içime hazır sigara elde edilebildiği anlaşılmaktadır.
+Öte yandan, ayrı ayrı satışı mümkün olmayan ve ancak aynı paket içinde veya ayrı paketler halinde birlikte satışı mümkün olan sarmalık kıyılmış tütün mamulü ve makarondan oluşan ürünün hangi Gümrük Tarife İstatistik Pozisyonunda sınıflandırıldığı hususunda görüşüne başvurulan Gümrük ve Ticaret Bakanlığı Gümrükler Genel Müdürlüğünce konu ile ilgili olarak, Türk Gümrük Tarife cetvelinin yorumuna ilişkin genel kuralların, gerek 13/9/2008 tarihli ve 26996 sayılı Resmi Gazete'de yayımlanan Gümrük Genel Tebliğinde (Gümrük Tarife Cetveli İzahnamesi) (Seri No:1), gerekse 20/12/2013 tarih ve 2013/5760 sayılı Kararname eki 2014 yılı Türk Gümrük Tarife Cetvelinde yer aldığı; söz konusu kurallardan 3 no.lu kuralın, eşyanın iki veya daha fazla pozisyonda sınıflandırılabilmesi halinde uygulanacak kuralları düzenlediği, bu kuralın (b) bendine istinaden, perakende satılacak hale getirilmiş takım halinde bulunan eşyanın tarifedeki yerinin, takıma esas niteliğini veren maddeye göre tespitinin yapılması gerektiğine ilişkin hükmün sınıflandırmaya esas olacağının düşünüldüğü; bu kapsamda, 3-b no.lu Genel Yorum Kuralının uygulanmasının takımı oluşturan "sarmalık kıyılmış tütün" ve "makaron"dan tütünün takım halindeki eşyaya esas niteliğini verdiği, yazımız konusu ambalaj içeriğinin tamamı için "tütün" tarife pozisyonu yani 24.03 tarife pozisyonu üzerinden işlem yapılması gerektiği sonucunun ortaya çıktığı yönünde görüş bildirilmiştir.
+Bu çerçevede, ilgide kayıtlı özelge talep formunuzda üretiminin gerçekleştirildiği belirtilen ürünün (sarmalık kıyılmış tütün mamulü ve makarondan oluşan) tesliminde, söz konusu ürünün Türk Gümrük Tarife Cetvelindeki tarife pozisyonunun belirlenmesinde dikkate alındığı gibi, bir bütün olarak değerlendirilmesi ve ÖTV hesabının da buna göre yapılması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

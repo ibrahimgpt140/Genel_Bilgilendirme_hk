@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 34365
+baslik: "Bankalar tarafından gerçekleştirilen faktoring işlemleri nedeniyle düzenlenen sözleşmelerde damga vergisi"
+tarih: 2019-07-16
+sayi: "B.07.1.GİB.4.99.16.02-155.01-13839"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34365
+gib_guncelleme: 2025-03-24T20:18:13
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bankalar tarafından gerçekleştirilen faktoring işlemleri nedeniyle düzenlenen sözleşmelerde damga vergisi
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı : 64597866-155.01-13839 16.07.2019
+Konu : Bankalar tarafından gerçekleştirilen
+faktoring işlemleri nedeniyle düzenlenen
+sözleşmelerde damga vergisi
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, Başkanlığımız … vergi kimlik numarasında 5411 sayılı Bankacılık Kanunu kapsamında bankacılık faaliyetinde bulunduğunuz, söz konusu Kanunun 4 üncü maddesinde yer alan faaliyet konularından mevduat kabulü, kredi verme işlemleri ve diğer işlemlerle birlikte …/…/2011 tarih ve … sayılı BDDK yetki belgesine istinaden faktoring işlemleri gerçekleştirdiğiniz, bu kapsamda müşterileriniz ile faktoring sözleşmeleri ve alacak bildirim formları düzenlediğiniz belirtilerek, bahse konu sözleşme ve alacak bildirim formlarının Damga Vergisi Kanununa ekli (2) sayılı tabloda yer alan "IV-Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümünün (23) numaralı fıkrası kapsamında damga vergisinden istisna olup olmadığı hususunda Başkanlığımız görüşü talep edilmektedir.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği; 9 uncu maddesinde, bu Kanuna ekli (2) sayılı tabloda yazılı kağıtların damga vergisinden müstesna olduğu hüküm altına alınmıştır.
+Anılan Kanuna ekli (2) sayılı tablonun "IV-Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümün (23) numaralı fıkrasında, bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilere, bunların teminatlarına, geri ödenmelerine, devrine ve krediden doğan alacakların temlikine ilişkin kâğıtlar ile bu kâğıtlar üzerine konulacak şerhlerin damga vergisinden istisna olduğu hükmüne yer verilmiştir.
+Diğer taraftan, 5411 sayılı Kanunun 4 üncü maddesinde, bankaların, diğer kanunlarda öngörülen hükümler saklı kalmak kaydıyla gerçekleştirebileceği faaliyetler sayılmış olup faktöring ve forfaiting işlemleri bu faaliyetler arasında sayılmış olup 48 inci maddesinin birinci fıkrasında ise, bankalarca verilen nakdî krediler ile teminat mektupları, kontrgarantiler, kefaletler, aval, ciro, kabul gibi gayrinakdî krediler ve bu niteliği haiz taahhütler, satın alınan tahvil ve benzeri sermaye piyasası araçları, tevdiatta bulunmak suretiyle ya da herhangi bir şekil ve surette verilen ödünçler, varlıkların vadeli satışından doğan alacaklar, vadesi geçmiş nakdî krediler, tahakkuk etmekle birlikte tahsil edilmemiş faizler, gayrinakdî kredilerin nakde tahvil olan bedelleri, ters repo işlemlerinden alacaklar, vadeli işlem ve opsiyon sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle üstlenilen riskler, ortaklık payları ve Bankacılık Düzenleme ve Denetleme Kurulunca kredi olarak kabul edilen işlemlerin izlendikleri hesaba bakılmaksızın bu Kanun uygulamasında kredi sayılacağı hususu hükme bağlanmıştır.
+Özelge talep formunuz ekinde yer alan …/…/2017 tarihli "Faktoring Sözleşmesi" başlıklı kağıdın incelenmesinden, sözleşmenin 1 inci maddesinde sözleşmenin konusunun müşterinin mal ve hizmet satışlarından dolayı düzenlenen faturalardan doğan/doğacak her türlü alacaklarının, kambiyo senetlerinin ve benzeri ödeme vasıtalarının temlik/devir ve ciro yolu ile faktora devredilmesi ve bir hizmet komisyonu, faiz ve benzeri menfaatler karşılığında müşterinin faktoring hizmetlerinden yararlandırılması olduğu; 2 nci maddesinde ise alacak bildirim formunun sözleşme kapsamında temlik edilmiş alacağın faktora bildirimini içeren belge olduğu hususlarının yer aldığı, söz konusu sözleşmenin 5411 sayılı Kanunun 48 inci maddesi kapsamında kredi sözleşmesi mahiyetinde olduğu anlaşılmaktadır.
+Buna göre, Bankanız ile … San. ve Tic. Ltd. Şti. arasında düzenlenen faktoring sözleşmesi ve taaahüt içeren "Alacak Bildirim Formu" başlıklı kağıdın Damga Vergisi Kanununa ekli (2) sayılı tablonun IV/23 numaralı fıkrası kapsamında damga vergisinden istisna edilmesi mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.

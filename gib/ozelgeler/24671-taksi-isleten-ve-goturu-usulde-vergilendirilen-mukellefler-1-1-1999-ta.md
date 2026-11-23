@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24671
+baslik: "Taksi işleten ve götürü usulde vergilendirilen mükellefler, 1.1.1999 tarihinden itibaren basit usulde vergilendirme kapsamına alındığından bu tarihten itibaren bu mükelleflere yapılan ödemeler vergi tevkifatına tabi tutulmamaktadır."
+tarih: 2000-03-24
+sayi: "B.07.0.GEL.0.44/4417-302/12913"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24671
+gib_guncelleme: 2025-03-24T19:32:43
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Taksi işleten ve götürü usulde vergilendirilen mükellefler, 1.1.1999 tarihinden itibaren basit usulde vergilendirme kapsamına alındığından bu tarihten itibaren bu mükelleflere yapılan ödemeler vergi tevkifatına tabi tutulmamaktadır.
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 24.03.2000 SAYI : B.07.0.GEL.0.44/4417-302/12913 KONU : Önce taksi işleten ve götürü usulde vergilendirilen mükelleflere yapılan ödemelerden, gelir vergisi tevkifatı yapılıp yapılmayacağı hk. GAZİANTEP VALİLİĞİNE (Defterdarlık:Vasıtasız Vergiler Gelir Müdürlüğü) İLGİ : a) 04.11.1999 tarih ve B.07.4.DEF.0.27.11/99-515/4928 sayılı, b) 16.02.2000 tarih ve B.07.4.DEF.0.27.11/99-515-105/626 sayılı yazılarınız. İlgi (a)'da kayıtlı yazınız ekinde yer alan ve Muhasebe Müdürlüğü'ne tayin edilen, 15.10.1999 tarih ve ...... sayılı mukteza incelenmiş olup aşağıdaki açıklamaların yapılmasına gerek görülmüştür. Bilindiği üzere 4369 sayılı Kanunla 1.1.1999 tarihinden itibaren götürü usulde vergilendirme esası kaldırılmış ve yerine basit usulde vergilendirme esası getirilmiştir. Buna paralel olarak, 193 sayılı Gelir Vergisi Kanununun 94 üncü maddesinin 13 numaralı bendi ile sadece esnaf muaflığından yararlananlara mal ve hizmet alımları karşılığında yapılan ödemelerden tevkifat esası getirilmiştir. Buna göre; taksi işleten ve götürü usulde vergilendirilen mükellefler, 1.1.1999 tarihinden itibaren basit usulde vergilendirme kapsamına alınmışlardır. Basit usulde vergilendirilen mükelleflere yapılan ödemeler ise anılan bent hükmü kapsamına girmediğinden vergi tevkifatına tabi tutulmamaktadır. Bu nedenle; Cumhuriyet Savcılığı'nca soruşturma ve keşif işlemleri için görevlendirilen taksi işletmecilerine yapılan ödemeler üzerinden gelir vergisi tevkifatı yapılmayacaktır. Ancak, 1.1.1999 tarihinden önce taksi işleten ve götürü usulde vergilendirilen mükelleflere yapılan ödemeler üzerinden, sözkonusu tevkifatın yapılacağı tabiidir. Bilgi edinilmesini, gereğinin buna göre yapılarak neticesinden ilgililere de bilgi verilmesini rica ederim. Bakan a. Daire Başkanı

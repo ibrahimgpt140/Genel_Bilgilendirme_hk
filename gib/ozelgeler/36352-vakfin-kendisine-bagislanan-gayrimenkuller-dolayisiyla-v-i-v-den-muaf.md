@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36352
+baslik: "Vakfın, kendisine bağışlanan gayrimenkuller dolayısıyla V.İ.V.' den muaf olup olmayacağı hakkında."
+tarih: 2000-02-29
+sayi: "B.07.0.GEL.0.60/6001-683/9394"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36352
+gib_guncelleme: 2025-03-24T20:34:45
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Vakfın, kendisine bağışlanan gayrimenkuller dolayısıyla V.İ.V.' den muaf olup olmayacağı hakkında.
+
+**İlgili maddeler:** Madde 3 Muafiyetler
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 29.02.2000 SAYI : B.07.0.GEL.0.60/6001-683/9394 KONU : Vakfın, kendisine bağışlanan gayrimenkuller dolayısıyla V.İ.V.' den muaf olup olmayacağı hk. KARTAL VAKFI HAVA KUVVETLERİ KOMUTANLIĞI İLGİ : 03/02/2000 gün ve 3050-5-2000/İDA sayılı yazınız. Yazınızda, Vakfınızın kendisine bağışlanan gayrimenkuller dolayısıyla veraset ve intikal vergisinden muaf olup olmayacağı hususundaki Bakanlığımız görüşü sorulmaktadır. 7338 sayılı Veraset ve İntikal Vergisi Kanunu'nun 3'üncü maddesinin (a) bendinde, amme idareleri, emekli ve yardım sandıkları, sosyal sigorta kurumları, umumi menfaate hadim cemiyetler, siyasi partiler ve bunlara ait olan veya bunların aralarında kurdukları teşekküllerden kurumlar vergisine tabi olmayanların, aynı Kanun'un (b) bendinde de, yukarıdaki bentte sayılanlar dışında kalan hükmi şahıslara ait olup umumun istifadesi için ilim, araştırma, kültür, sanat, sıhhat, eğitim, din, hayır, imar, spor gibi maksatlarla kurulan teşekküllerin, veraset ve intikal vergisinden muaf tutulacağı hükme bağlanmıştır. Bu hükümlere göre, anılan Kanun'un 3'üncü maddesinin (a) bendinde sayılan kurumlar ile bunların dışında kalıp aynı maddenin (b) bendinde sayılan konularda herkesin yararlanmasına açık bir şekilde faaliyette bulunan tüzel kişilerin veraset ve intikal vergisinden muaf tutulması gerekmektedir. Resmi senedinin 4'üncü maddesinde Vakfınızın amacı genel olarak; "görevleri sırasında şehit olan veya hayatını kaybeden veyahut sakat kalan ..... Kuvvetlerine mensup subay, astsubay ve sivil memurların kendileri eş ve çocukları ile bakmakla yükümlü oldukları anne, baba ve kardeşlerinin sosyal ve ekonomik gereksinimleri ve çocuklarının eğitimi alanlarında dayanışmada bulunmak'' şeklinde belirlenmiştir. Söz konusu resmi senet maddesinin incelenmesinden de görüleceği üzere Vakfınızca görülecek hizmetlerden herkes değil sadece Türk Hava Kuvvetlerinde görevli personelin yararlanabilmesi mümkün bulunmaktadır. Bu durumda, 7338 sayılı Kanun'un 3'üncü maddesinin (a) ve (b) bendlerinde belirtilen teşekküllerden olmadığı açık olan Vakfınızın, kendisine veraset yoluyla veya ivazsız surette intikal edecek mallar dolayısıyla veraset ve intikal vergisinden muaf tutulması mümkün değildir. Bilgi edinilmesini rica ederim. Bakan a .

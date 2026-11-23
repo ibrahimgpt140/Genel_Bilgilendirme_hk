@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 35599
+baslik: "KİT statüsündeki A.Ş.nin tevhid ifraz ve satış işleminde harç uygulaması hk."
+tarih: 2018-10-25
+sayi: "46480499-140.04[218/722]-E.93197"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/35599
+gib_guncelleme: 2025-03-24T20:29:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# KİT statüsündeki A.Ş.nin tevhid ifraz ve satış işleminde harç uygulaması hk.
+
+**İlgili maddeler:** Madde 57 Mevzu; Madde 58; Madde 59 Harçtan müstesna tutulan işlemler; Madde 123 Özel kanunlardaki hükümler
+
+T.C.GELİR İDARESİ BAŞKANLIĞI
+Balıkesir Vergi Dairesi Başkanlığı
+Gelir Kanunları Grup Müdürlüğü
+
+Sayı | : | 46480499-140.04[218/722]-E.93197 | 25.10.2018
+Konu | : | KİT statüsündeki A.Ş.’nin tevhid ifraz ve satış işleminde harç uygulaması
+
+İlgi | : | 16/05/2018 tarihli özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunuzda, ………….. Teşkilatı A.Ş.'nin Müdürlüğünüzde yapılacak tevhid, ifraz ve satış işlemlerinin tapu harcından muaf olup olmadığı hususunda Başkanlığımızdan görüş talep edildiği anlaşılmıştır.
+Bilindiği üzere, 492 sayılı Harçlar Kanununun 57 nci maddesinde, tapu ve kadastro işlemlerinden bu Kanuna bağlı (4) sayılı tarifede yazılı olanların tapu kadastro harçlarına tabi olduğu belirtilmiş, 58 inci maddesinde ise tapu ve kadastro harcının mükellefleri bentler halinde sayılmış, Kanuna bağlı (4) sayılı tarifenin I-6/a fıkrasında ise, ifraz veya taksim veya birleştirme işlemlerinde kayıtlı değerler üzerinden nispi esasa göre harç aranılacağı hükme bağlanmıştır.
+492 sayılı Kanunun 123 üncü maddesinin birinci fıkrasında ise, özel kanunlarla harçtan muaf tutulan kişilerle, istisna edilen işlemlerden harç alınmayacağı hükme bağlanmıştır.
+………… Teşkilatı A.Ş.'nin 6475 sayılı Posta Hizmetleri Kanunu ile kurulduğu anlaşılmakta olup, söz konusu Kanunun 21 inci maddesinin birinci fıkrasında, "Bu Kanun ile kuruluş ve tescile ilişkin hükümleri hariç olmak üzere 6102 sayılı Kanun ve özel hukuk hükümlerine tabi Posta ve Telgraf Teşkilatı Anonim Şirketi unvanı altında bir anonim şirket kurulmuştur." hükmüne, geçici 4 üncü maddesinin ikinci fıkrasında ise PTT'nin yeniden yapılanması ile ilgili veya bu madde kapsamında düzenlenecek kâğıtların damga vergisinden, yapılacak işlemlerin harçlardan, bu Kanun çerçevesinde yapılacak taşınır ve taşınmaz intikallerinin veraset ve intikal vergisinden müstesna olduğu hükmüne yer verilmiştir.
+Buna göre, ………… Teşkilatı A.Ş.'nin Müdürlüğünüzde yapılacak tevhid, ifraz ve satış işlemlerinin, PTT'nin yeniden yapılanması ile ilgili veya 6475 sayılı Kanunun geçici 4 üncü maddesi kapsamında yapılması durumunda tapu harcından istisna tutulması gerekmekte olup, aksi halde söz konusu işlemlerden harç aranılması icap eder.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 30748
+baslik: "Alt yüklenicilere tevkifat uygulanıp uygulanmayacağı hk."
+tarih: 2011-06-14
+sayi: "B.07.1.GİB.4.06.17.01-KDV-4:2010-14009-07-419"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30748
+gib_guncelleme: 2025-03-24T20:00:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Alt yüklenicilere tevkifat uygulanıp uygulanmayacağı hk.
+
+**İlgili maddeler:** Madde 9 Vergi Sorumlusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.06.17.01-KDV-4:2010-14009-07-419 | 14/06/2011
+Konu | : | Alt yüklenicilere uygulanan tevkifat
+
+İlgide kayıtlı dilekçenizde, ... tarafından yüklenilen ... ayrımı yapım işinin ... kesiminin taşeronluğunun tarafınızca 2006 yılında üstlenildiği, söz konusu işin müteahhit firma tarafından 2009 yılında başka bir firmaya devredildiği, ihale makamı olan ... Genel Müdürlüğünce her iki durumun onaylandığı, işin devrinden sonra müteahhit firma ile sözleşmenin feshi, devri ya da işin geçici kabulü ile ilgili herhangi bir işlemin yapılmadığı yine de taahhüt ettiğiniz işlerin tamamlandığı ve işin bedeli ödenmeyen kısmı ile ilgili gerekli tespitler yapılarak buna ilişkin 2010 yılında fatura düzenleneceği belirtilerek, düzenlenecek faturada katma değer ve gelir vergisi tevkifatı yapılıp yapılmayacağı ile kazancın hangi döneme ait beyannameye dahil edileceği hususlarında görüş talep edilmektedir.
+GELİR VERGİSİ YÖNÜNDEN DEĞERLENDİRME:
+
+Gelir Vergisi Kanununun 42 nci maddesinde, "Birden fazla takvim yılına sirayet eden inşaat (dekapaj işleri de inşaat işi sayılır) ve onarma işlerinde kar veya zarar işin bittiği yıl kati olarak tespit edilir ve tamamı o yılın geliri sayılarak mezkur yıl beyannamesinde gösterilir." denilmekte olup, aynı Kanunun 94 üncü maddesinin birinci fıkrasının (3) numaralı bendinde ise; 42 nci madde kapsamına giren işler dolayısıyla bu işleri yapanlara (kurumlar dahil) ödenen istihkak bedelleri üzerinden 2009/14592 sayılı Bakanlar Kurulu Kararına istinaden % 3 oranında vergi kesileceği hükme bağlanmıştır.
+Diğer taraftan, Gelir Vergisi Kanununun 44 üncü maddesinde;
+"İnşaat ve onarma işlerinde geçici ve kesin kabul usulüne tabi olan hallerde geçici kabulün yapıldığını gösteren tutanağın idarece onaylandığı tarih; diğer hallerde işin fiilen tamamlandığı veya fiilen bırakıldığı tarih bitim tarihi olarak kabul edilir.
+Bitim tarihinden sonra bu işlerle ilgili olarak yapılan giderler ve her ne nam ile olursa olsun elde edilen hasılat, bu giderlerin yapıldığı veya hasılatın elde edildiği yılın kâr veya zararının tespitinde dikkate alınır." hükmü yer almaktadır.
+Bilindiği üzere, inşaat taahhüt işlerinde işin yıllara sari olup olmayacağı, işe başlama ve işin bitirilmesinin farklı takvim yıllarında vuku bulup bulmadığının tespiti ile mümkün olabilmektedir. İşin bitim tarihi olarak ise geçici ve kesin kabul usulüne tabi olan hallerde geçici kabul tutanağının onay tarihi, diğer hallerde işin fiilen tamamlandığı veya fiilen bırakıldığı tarihin esas alınması gerekmektedir.
+Buna göre, müteahhit firma tarafından üstlenilen inşaat işinin devredilmesine rağmen, tarafınızca taahhüt edilen inşaat işinin devam ettirilerek tamamlanması nedeniyle, söz konusu inşaat işinin bitim tarihi olarak, işin fiilen tamamlandığı tarihin esas alınması ve dolayısıyla bu işle ilgili kâr veya zararın işin fiilen bittiği yıla ait gelir vergisi beyannamesine aktarılması gerekmektedir.
+Öte yandan, işin fiilen bittiği tarihten sonra yapılan ödemeler üzerinden Gelir Vergisi Kanununun 94 üncü maddesine göre stopaj yapılmasına gerek olmayıp, bu ödemelerin, elde edildiği yılın kâr veya zararının tespitinde dikkate alınması gerekmektedir. Ancak işin fiilen tamamlandığı tarihe kadar yapılan ödemeler üzerinden Gelir Vergisi Kanununa göre % 3 oranında stopaj yapılacağı tabiidir.
+Bu açıklamalara göre; yaptığınız işin, bedeli tarafınıza ödenmeyen kısmı ile ilgili gerekli tespitlerin yapılıp, tespit edilen hususlara karşılık gelen bedelle ilgili faturanın 2010 yılında kesilmesi, işin 2010 yılında bitirildiği anlamına gelmekte olup, söz konusu fatura üzerindeki bedel üzerinden Gelir Vergisi Kanununun 94 üncü maddesine göre % 3 oranında stopaj yapılması gerekmektedir. Ayrıca yıllara sari olan bu işin kâr veya zararının 2010 yılı geliri olarak bu yıl beyannamesinde gösterilmesi gerekmektedir.
+KATMA DEĞER VERGİSİ YÖNÜNDEN DEĞERLENDİRME:
+Katma Değer Vergisi (KDV) Kanununun 9 uncu maddesi ile vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanları vergi alacağının ödenmesinden sorumlu tutma konusunda Bakanlığımıza yetki verilmiştir.
+Bu yetkiye dayanılarak yayımlanan 91 Seri No.lu Katma Değer Vergisi Genel Tebliğinin (A/2) bölümünde sayılan kurum ve kuruluşların, (A/3) bölümünde belirtilen işlemlere ait katma değer vergisini tevkifata tabi tutmaları uygun görülmüştür.
+Diğer taraftan, 91 Seri No.lu KDV Genel Tebliğinin (A/5-a) bölümünde;
+-Yapım işleri; bina, karayolu, demiryolu, otoyol, havalimanı, rıhtım, liman, tersane, köprü, tünel, metro, viyadük, spor tesisi, alt yapı, boru iletim hattı, haberleşme ve enerji nakil hattı, baraj, enerji santrali, rafineri tesisi, sulama tesisi, toprak ıslahı, taşkın koruma ve dekapaj gibi her türlü inşaat işleri ve bu işlerle ilgili tesisat, imalat, ihrazat, nakliye, tamamlama, (boya badana dahil) her türlü onarım, restorasyon,çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzeri yapım işlerini kapsamakta olduğu ve bu işlerin tevkifata tabi tutulacağı,
+-Yapım işleri ile birlikte ifa edilen mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, imar uygulama, her ölçekte imar planı hizmetleri ve benzeri hizmetlerin de bu kapsamda tevkifata tabi tutulacağı, bu hizmetlerin yapım işlerinden ayrı olarak danışmanlık ve benzeri hizmetler adı altında verildiği takdirde 91 Seri No.lu KDV Genel Tebliğinin (A/5-f) "Danışmanlık ve Denetim Hizmetleri" bölümü kapsamında değerlendirileceği,
+-Bu Tebliğin yayımını izleyen ay başından itibaren yüklenicileri tarafından tamamen veya kısmen alt yüklenicilere (taşeronlara) veya daha alt yüklenicilere devredilmiş ve devredilecek yapım işlerinde, işi devreden her yüklenicinin, kendisine ifa edilen hizmete ait katma eğer vergisi üzerinden bu tebliğdeki esaslar çerçevesinde tevkifat yapılmasının uygun görüldüğü ifade edilmiştir.
+Yukarıda yer alan hüküm ve açıklamalar çerçevesinde, firmanız tarafından, Karayolları Genel Müdürlüğünün ... yolunun inşaat işi (tesviye, sanat yapıları, köprü, alt temel, temel yapılması vb.) ihalesini almış müteahhit firma ... Ltd. Şti.ye (taşeron olarak) ifa edilen yapım işlerinde katma değer vergisi tevkifatı uygulanacaktır. Ayrıca, bu işin müteahhidi konumunda bulunan ... Ltd. Şti. nin 2009 yılında işi başka bir firmaya devretmesi ve firmanızın da devir tarihinden sonra yarım kalan işleri tamamlayarak ... Ltd. Şti. ye faturalandırması, devir tarihinden önceki inşaat işinin devamı mahiyetinde olduğundan, yapım işi kapsamında tevkifat uygulanması gerekmektedir.
+Bilgi edinilmesini rica ederim.

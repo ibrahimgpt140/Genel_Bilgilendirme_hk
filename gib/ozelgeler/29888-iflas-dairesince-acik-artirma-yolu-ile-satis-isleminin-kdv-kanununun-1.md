@@ -1,0 +1,40 @@
+---
+tur: Özelge
+gib_id: 29888
+baslik: "İflas Dairesince açık artırma yolu ile satış işleminin KDV Kanununun 17/4- (p) ve (r) maddeleri gereğince KDV'den istisna olup olmadığına ilişkin"
+tarih: 2009-08-18
+sayi: "B.07.1.GİB.0.55/5517-2163-079004"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29888
+gib_guncelleme: 2025-03-24T19:57:02
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İflas Dairesince açık artırma yolu ile satış işleminin KDV Kanununun 17/4- (p) ve (r) maddeleri gereğince KDV'den istisna olup olmadığına ilişkin
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 17
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI : B.07.1.GİB.0.55/5517-2163 18.08.2009/079001
+KONU :
+
+................
+................................
+........................../................
+
+İlgi: .................... tarihli dilekçeniz.
+
+İlgide kayıtlı dilekçeniz ve eklerinde; mülkiyeti müflis ................'ne ait taşınmaz ile mülkiyeti Hazineye ait 49 yıllık süre ile aynı Şirkete irtifak hakkı tesisli taşınmaz ile bağımsız bölüm, ortak alanlar ve sosyal tesislerin irtifak hakkının .................. İflas Dairesince açık artırma yolu ile satış işleminin KDV Kanununun 17/4- (p) ve (r) maddeleri gereğince KDV'den istisna olup olmadığına ilişkin Başkanlığımız görüşünün bildirilmesi istenilmektedir.
+Katma Değer Vergisi Kanununun 1 inci maddesinin 3 üncü fıkrasının (d) bendi ile müzayede mahallerinde yapılan satışların, (f) bendi ile de Gelir Vergisi Kanununun 70 inci maddesinde sayılan mal ve hakların kiralanması işlemlerinin KDV'ye tabi olacağı hükme bağlanmıştır.
+Aynı Kanunun 5793 sayılı Kanunla değişik, 17 nci maddesinin 4 üncü fıkrasının (p) bendinde, Hazinece yapılan taşınmaz teslimi ve kiralamaları, irtifak hakkı tesisi, kullanma izni ve ön izin verilmesi işlemleri, (r) bendinde ise kurumların aktifinde en az iki tam yıl süreyle bulunan iştirak hisseleri ile taşınmazların satışı suretiyle gerçekleşen devir ve teslimleri (müzayede mahallerinde yapılan satışlar dahil) KDV'den istisna edilmiştir.
+Konu hakkında Milli Emlak Genel Müdürlüğünden alınan .............. gün ve ........... sayılı yazıda, "................. lehine tesisli bulunan üst hakkının .............. İflas Müdürlüğünce yapılan satış sonucunda .........................'ne devrinden sonra da üst hakkı sözleşmesinin taraflarından biri, taşınmaz maliki olarak Hazine (Bakanlığımız) olacaktır." denilmiştir.
+Bu durumda, müflis Kiriş ........................... ne 49 yıllık süre ile irtifak hakkı tesisli taşınmaz ile bağımsız bölüm, ortak alanlar ve sosyal tesislerin irtifak hakkının ...............İflas Dairesince acık artırma yolu ile Şirketinize devrinin, Hazinece yapılan irtifak hakkı tesisi olarak değerlendirilip, Katma Değer Vergisi Kanununun 17/4- p maddesi uyarınca KDV'den müstesna olması gerekmektedir.
+Öte yandan, mülkiyeti müflis ........................... ne ait olan ve iki yıldan fazla adı geçen Şirketin aktifinde bulunan taşınmazın acık artırma yolu satışı da Kanunun 17/4-r maddesi gereğince KDV den istisnadır.
+Bilgi edinilmesini rica ederim.
+
+Başkan a.
+Gelir İdaresi Daire Başkanı

@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 23319
+baslik: "Avukatlık faaliyetinin devlet kurumu bünyesinde yapılması durumunda ücret geliri sayılacağı ve serbest meslek makbuzunun kesilmeyeceği hk."
+tarih: 2012-02-20
+sayi: "B.07.1.GİB.4.25.15.01-2011-VUK-6353-1-3"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23319
+gib_guncelleme: 2025-03-24T19:30:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Avukatlık faaliyetinin devlet kurumu bünyesinde yapılması durumunda ücret geliri sayılacağı ve serbest meslek makbuzunun kesilmeyeceği hk.
+
+**İlgili maddeler:** Madde 61 Ücretin Tarifi; Madde 63 Gerçek Ücretler; Madde 65 Serbest Meslek Kazancının Tarifi; Madde 66 Serbest Meslek Erbabı; Madde 94 Vergi Tevkifatı; Madde 103 Esas Tarife; Madde 104 Verginin Hesaplanması
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ERZURUM VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.25.15.01-2011-VUK-6353-1-3 | 20/02/2012
+Konu | : | Serbest Meslek Makbuzu
+
+İlgide kayıtlı özelge talep formunda; 11.01.2001 tarihinden itibaren serbest avukatlık mesleğini icra ettiğinizi ve ... ... Müdürlüğü ile yaptığınız sözleşme ile kurum bünyesinde sözleşmeli avukat olarak çalışmaya başladığınızı belirterek, söz konusu hizmet karşılığında almış olduğunuz ücret için idare adına makbuz düzenleme zorunluluğunuzun bulunup bulunmadığı hususunda Başkanlığımızdan özelge talep ettiğiniz anlaşılmakta olup, konuya ilişkin Başkanlığımız görüşleri aşağıda açıklanmıştır.
+193 sayılı Gelir Vergisi Kanununun;
+61 inci maddesinde,
+"Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetini değiştirmez..."
+65 inci maddesinde;
+"Her türlü serbest meslek faaliyetinden doğan kazançlar serbest meslek kazancıdır.
+Serbest meslek faaliyeti; sermayeden ziyade şahsi mesaiye, ilmi veya mesleki bilgiye veya ihtisasa dayanan ve ticari mahiyette olmıyan işlerin işverene tabi olmaksızın şahsi sorumluluk altında kendi nam ve hesabına yapılmasıdır."
+66 ncı maddesinde;
+"Serbest meslek faaliyetini mutad meslek halinde ifa edenler, serbest meslek erbabıdır. Serbest meslek faaliyetinin yanında meslekten başka bir iş veya görev ile devamlı olarak uğraşılması bu vasfı değiştirmez."
+hükümleri yer almaktadır.
+Öte yandan, 213 sayılı Vergi Usul Kanununun "Makbuz Mecburiyeti" başlıklı 236 ncı maddesinde; "Serbest meslek erbabı, mesleki faaliyetlerine ilişkin her türlü tahsilatı için iki nüsha serbest meslek makbuzu tanzim etmek ve bir nüshasını müşteriye vermek, müşteri de bu makbuzu istemek ve almak mecburiyetindedir."
+hükmüne yer verilmiştir.
+Bu hükümlere göre, ... Müdürlüğünden elde ettiğiniz gelir, bir işverene tabi ve belirli bir işyerine bağlı olarak elde ettiğinizden, Gelir Vergisi Kanununun 61, 63, 94, 103 ve 104 üncü maddeleri uyarınca ücret olarak vergiye tabi tutulması gerekmektedir. Diğer taraftan, kendi nam ve hesabınıza yürüteceğiniz mesleki faaliyetlerinizden elde edeceğiniz gelirin ise serbest meslek kazancı olarak vergilendirileceği tabiidir.
+Bu itibarla; serbest meslek erbabı olarak, mesleki faaliyetlerinize ilişkin her türlü tahsilatınız için serbest meslek makbuzu düzenleme zorunluluğunuz bulunmakla birlikte, ... Müdürlüğünden almış olduğunuz ücret için adı geçen kuruma serbest meslek makbuzu düzenlemeniz gerekmemektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

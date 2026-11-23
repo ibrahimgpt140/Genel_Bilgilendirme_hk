@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 32959
+baslik: "9021.9084.00.45 GTİP No.lu kalp pili ile kullanılan ürünün KDV oranı hk."
+tarih: 2011-09-08
+sayi: "B.07.1.GİB.4.34.17.01-KDV 28-1543"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32959
+gib_guncelleme: 2025-03-24T20:09:31
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 9021.9084.00.45 GTİP No.lu kalp pili ile kullanılan ürünün KDV oranı hk.
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.34.17.01-KDV 28-1543 | 08/09/2011
+Konu | : | 9021.9084.00.45 GTİP No.lu kalp pili ile kullanılan ürünün KDV oranı.
+
+İlgide kayıtlı özelge talep formunuzda, sağlık kurumlarınca kesilen faturalarda kalp pili için %8 oranında katma değer vergisi (KDV) hesaplandığı, 9021.90.84.00.45 Gümrük Tarife İstatistik Pozisyon (GTİP) numarasından ithal edilen ve kalp pilleri ile birlikte kullanılan lead ve introducerlar için %18 oranında KDV hesaplandığı belirtilerek konu hakkında bilgi istenilmektedir.
+KDV Kanununun; 1/1 inci maddesinde, Türkiye' de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin, 1/2 nci maddesinde her türlü mal ve hizmet ithalatının KDV ye tabi olduğu hükme bağlanmıştır.
+KDV oranları, KDV Kanununun 28 inci maddesinin Bakanlar Kuruluna verdiği yetkiye dayanılarak yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi ile Kararname eki (I) sayılı listede yer alan teslim ve hizmetler için % 1, (II) sayılı listede yer alan teslim ve hizmetler için %8, listelerde yer almayan vergiye tabi işlemler için %18 olarak tespit edilmiştir.
+Söz konusu Kararname eki (II) sayılı listenin B/22 nci sırasında; "90.21 Ortopedik cihazlar (Koltuk değnekleri, cerrahi kuşaklar ve fıtık bağları dahil); cebireler, gudyerler ve kırıklara mahsus diğer cihazlar; protez organlar; sağırların işitmesini kolaylaştırmaya mahsus cihazlar ve vücut kusur veya noksanlığını gidermek amacıyla üstte veya elde taşınan veya vücudun içine yerleştirilen diğer cihazlar (Aksam, parça ve aksesuarlar hariç)" sayılmış ancak aksam, parça ve aksesuarlar hariç tutulmuştur.
+Sağlık Bakanlığı (Tedavi Hizmetleri Genel Müdürlüğünün) Tıbbi Cihaz Yönetmeliğinde, kendi başına cihaz sayılmayan fakat cihazın kullanım amacına uygun bir şekilde kullanılmasını temin etmek için cihaz ile birlikte kullanılmak üzere imal edilen parça ve parçalar aksesuar olarak tanımlanmaktadır.
+Firmanız tarafından, kalp pili ile birlikte kullanılan lead ve introducerların 9021.90.84.00.45 GTİP numarasından ithal edildiği belirtilmekle birlikte, söz konusu eşyaların 2011 yılı Türk Gümrük Tarife Cetvelinde (TGTC) "9021.90.90.00.19 Diğerleri (aksam ve parçalar dahil)" GTİP numarasında yer aldığı anlaşılmıştır.
+Buna göre, TGTC nin "9021.90.90.00.19 Diğerleri (aksam ve parçalar dahil)" GTİP numarasında aksesuar olarak tanımlanan, lead ve introducer isimli eşyalar 2007/13033 sayılı Kararname eki (II) sayılı listenin B/22 nci sırasındaki 90.21 tarife pozisyonu kapsamındaki eşyalardan hariç tutulanlar arasında yer almakta olup bu aksesuarların ithal ve teslimi genel oranda (%18) KDV ye tabi bulunmaktadır.
+Bilgi edinilmesini rica ederim.

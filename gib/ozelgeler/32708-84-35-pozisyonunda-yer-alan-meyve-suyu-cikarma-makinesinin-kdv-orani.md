@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 32708
+baslik: "84.35 pozisyonunda yer alan meyve suyu çıkarma makinesinin KDV oranı"
+tarih: 2013-12-31
+sayi: "45404237-130[I.12.237]-348"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32708
+gib_guncelleme: 2025-03-24T20:08:42
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 84.35 pozisyonunda yer alan meyve suyu çıkarma makinesinin KDV oranı
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BURSA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | 45404237-130[I.12.237]-348 | 31/12/2013
+Konu | : | 84.35 pozisyonunda yer alan meyve suyu çıkarma makinesinin KDV oranı
+
+İlgide kayıtlı özelge talep formunuzdan, imalini yaptığınız (üzüm, şeftali, kayısı, vişne, domates, çilek, dut, biber, kuşburnu vb meyvelerin kabuk ve çekirdeğini ayırarak meyve suyu çıkarma işlemini gerçekleştiren) meyve suyu çıkartma makinesinin satışında % 18 KDV uyguladığınız, ancak bu makinelerin 2009/14812 No.lu Bakanlar Kurulu Kararına ekli (1) sayılı cetvelde 8435.10.00.00.11-12-19 GTİP numaraları ile "Üzüm sıkma presleri, Meyve sularını çıkarmaya mahsus presler, Diğerleri (fulvarlar ve benzeri makine ve cihazlar)" yer aldığı ve oranlarının % 8 olduğundan söz ederek, söz konusu makinelere uygulanması gereken KDV oranı hususunda Başkanlığımızdan görüş talep ettiğiniz anlaşılmaktadır.
+3065 Katma Değer Vergisi (KDV) Kanununun; 1/1 inci maddesine göre, Türkiye de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler KDV ye tabidir.
+KDV oranları KDV Kanununun 28 inci maddesinin Bakanlar Kuruluna verdiği yetkiye istinaden yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi ile Kararname eki (I) sayılı listede yer alan teslim ve hizmetler için %1, (II) sayılı listede yer alan teslim ve hizmetler için %8, listelerde yer alanlar hariç olmak üzere vergiye tabi işlemler için %18 olarak tespit edilmiştir.
+KDV oranları ile ilgili 31.12.2007 tarihinde yürürlüğe giren 24.12.2007 tarih ve 2007/13033 sayılı Kararname eki II sayılı listenin "B" bölümüne 05.02.2008 tarih ve 2008/13234 sayılı Kararname ile eklenen ve 09.02.2008 tarihinde yürürlüğe giren 28 inci ve 31.03.2008 tarih ve 2008/13426 sayılı Kararname ile eklenen ve 07.04.2008 tarihinde yürürlüğe giren 29 uncu sıralarda sayılan eşyalar arasında Türk Gümrük Tarife Cetveli (TGTC)' nin 8435.10.00.00.11, 12, 19 GTİP Numaralarında tanımlanan eşyalar yer almaktadır.
+Diğer taraftan 30.03.2009 (bu tarih dahil) ve 30.06.2009 (bu tarih dahil) tarihleri arasında yürürlükte bulunan 25.03.2009 tarih ve 2009/14812 sayılı Karar ile yapılan düzenleme de bu Kararname eki (1) sayılı cetvelde yer alan eşyaların tesliminde KDV oranı %8 olarak belirlenmiştir.
+Söz konusu Kararname eki cetveldeki eşyalar arasında TGTC'nin "8435.10.00.00.11 Üzüm sıkma presleri", "8435.10.00.00.12 Meyve sularını sıkmaya mahsus presler", "8435.10.00.00.19 Diğerleri (Fulvarlar ve benzeri makine ve cihazlar)" GTİP Numarasında tanımlanan eşyalar da yer almaktadır.
+TGTC'nin 84.35 tarife pozisyonunda "Şarap, elma şarabı, meyve suları veya benzeri içeceklerin imaline mahsus presleri fulvarlar ve benzeri makine ve cihazlar" tanımlanmıştır.
+Bu pozisyon diğerleri meyanında "El veya motor kuvvetiyle çalışan ve fermentasyon maksadına yönelik bulunmayan meyve sularının (turunçgiller, şeftali, kayısı, ananas ve kiraz cinsi meyvelerin suları ile domates suyu gibi) çıkartılmasına mahsus makine ve cihazları" kapsamaktadır.
+Bu nedenle, adı geçen firma tarafından imal edilen üzüm, şeftali, kayısı, vişne, domates, çilek, dut, biber, kuşburnu v.b meyvelerin kabuk ve çekirdeğini ayırarak meyve suyu çıkarma işlemini gerçekleştiren ve TGTC'nin 8435.10.00.00.11, 12, 19 GTİP Numaralarında olduğu belirtilen makine ve cihazların ithal ve tesliminin,
+-30.03.2009 tarihinden önce %18,
+-30.03.2009 (bu tarih dahil) - 30.06.2009 (bu tarih dahil) tarihleri arasında %8,
+-30.06.2009 tarihinden sonra %18 oranında KDV'ye tabi tutulması gerekmektedir.
+Öte yandan, 2007/13033 sayılı Kararname eki I sayılı listenin 17 inci sırasında sayılan eşyalar arasında TGTC'nin 8435.10.00.00.11, 12, 19 GTİP Numaraları kapsamındaki eşyalar da yer almaktadır.
+Dolayısıyla 8435.10.00.00.11, 12, 19 GTİP Numaralarında yer alan ve amortismana tabi iktisadi kıymet niteliği taşıyan makine ve cihazların (aksam, parça, aksesuar ve teferruatları hariç) finansal kiralamaya konu olmak üzere 3226 sayılı Finansal Kiralama Kanununa göre finansal kiralama şirketlerine teslimi ve bu malların finansal kiralama şirketleri tarafından katma değer vergisi mükellefleri ile işlemleri katma değer vergisinden istisna edildiği için katma değer vergisi mükellefiyeti bulunmayan ancak kazançları bilanço esasına göre belirlenen gelir ve kurumlar vergisi mükelleflerine kiralanması ve teslimi, bu kararnamenin yürürlüğü olan 27.12.2011 tarihinden sonra düzenlenen finansal kiralama sözleşmeleri kapsamındaki kiralama ve teslimler için geçerli olmak üzere, yayımı tarihinden itibaren %1 oranında KDV ye tabi bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

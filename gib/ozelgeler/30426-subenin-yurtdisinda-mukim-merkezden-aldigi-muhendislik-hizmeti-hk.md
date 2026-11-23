@@ -1,0 +1,61 @@
+---
+tur: Özelge
+gib_id: 30426
+baslik: "Şubenin yurtdışında mukim merkezden aldığı mühendislik hizmeti hk."
+tarih: 2014-07-17
+sayi: "84974990-130[9-2012-43]-723"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30426
+gib_guncelleme: 2025-03-24T19:59:27
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Şubenin yurtdışında mukim merkezden aldığı mühendislik hizmeti hk.
+
+**İlgili maddeler:** Madde 9 Vergi Sorumlusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | 84974990-130[9-2012-43]-723 | 17/07/2014
+Konu | : | Şubenin yurtdışında mukim merkezden aldığı mühendislik hizmeti.
+
+İlgide kayıtlı özelge talep formunuzda, İspanya'da yerleşik (mukim) ...........Şirketinin Türkiye Ankara Şubesi olarak Türkiye Cumhuriyeti Devlet Demir Yolları (TCDD) ile yaptığınız bakım hizmeti sözleşmesi kapsamında 2010 yılında adı geçen Şirketten aldığınız mühendislik hizmetine istinaden sorumlu sıfatıyla ödenen KDV nin ve Kurumlar Vergisi Stopajının Vergi Mevzuatı hükümlerine göre uygun olup olmadığının bildirilmesi istenmektedir.
+Kurumlar Vergisi Kanunu Yönünden:
+5520 sayılı Kurumlar Vergisi Kanununun 3 üncü maddesinin ikinci fıkrasında; Kanunun 1 inci maddesinde sayılan kurumlardan, kanuni ve iş merkezlerinden her ikisi de Türkiye'de bulunmayanların, dar mükellefiyet esasında sadece Türkiye'de elde ettikleri kazançlar üzerinden vergilendirileceği hükmü yer almış, üçüncü fıkrasında dar mükellefiyette kurum kazancını oluşturan kazanç ve iratlar bentler halinde sayılmıştır.
+Aynı Kanunun 30 uncu maddesinde, dar mükellefiyete tabi kurumların maddede sayılan kazanç ve iratları üzerinden, bu kazanç ve iratları avanslarda dahil olmak üzere nakden veya hesaben ödeyen veya tahakkuk ettirenler tarafından kurumlar vergisi kesintisi yapılacağı belirtilmiş olup, 12/01/2009 tarih ve 2009/14593 sayılı Bakanlar Kurulu Kararı ile serbest meslek kazançları üzerinden yapılacak tevkifat oranı petrol arama faaliyeti dolaysıyla sağlanacak serbest meslek kazançlarından %5, diğer serbest meslek kazançlarından %20 olarak belirlenmiştir.
+Diğer taraftan, "Türkiye Cumhuriyeti ile İspanya Krallığı Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması "01.01.2004 tarihinden itibaren uygulanmaktadır.
+İspanya mukimi (yerleşik) " ..................." şirketinin Ankara şubesi olarak TCDD Yüksek Hızlı Tren sistemlerinin bakımı hizmetini sunmak amacıyla mezkur şirketten aldığınız mühendislik hizmetleri dolayısıyla yaptığınız ödemelerin anılan Anlaşma'nın "Serbest Meslek Faaliyetleri" başlıklı 14 üncü maddesi kapsamında değerlendirilmesi gerekmektedir.
+Söz konusu Anlaşma'nın "Serbest Meslek Faaliyetleri"ni düzenleyen 14 üncü maddesinin 2 nci fıkrası;
+"2. Bir Akit Devlet teşebbüsünün serbest meslek faaliyetleri veya benzer nitelikteki diğer faaliyetleri dolayısıyla elde ettiği gelir, yalnızca bu Devlette vergilendirilebilecektir. Bununla beraber, eğer bu hizmet veya faaliyetler diğer Devlette icra edilirse ve eğer:
+a) Teşebbüs, bu hizmet veya faaliyetleri icra etmek üzere bu diğer Devlette bir işyerine sahip olursa; veya
+b) Hizmet veya faaliyetlerin icra edildiği süre veya süreler, herhangi bir kesintisiz 12 aylık dönemde toplam 183 günü aşarsa,
+söz konusu gelir, aynı zamanda bu diğer Akit Devlette de vergilendirilebilir.
+Böyle bir durumda olayına göre, ya yalnızca söz konusu işyerine atfedilebilen gelir, ya da yalnızca bu diğer Devlette icra edilen hizmet veya faaliyetlere atfedilebilen gelir, bu diğer Devlette vergilendirilebilir. Her iki durumda da bu teşebbüs, söz konusu gelir dolayısıyla bu diğer Akit Devlette, bu Anlaşmanın 7 nci maddesi hükümlerine göre vergilendirilmeyi, yani söz konusu gelir bu diğer Devlette bulunan işyerine atfedilebilirmiş gibi vergilendirilmeyi tercih edebilir. Bu tercih, bu diğer Devletin söz konusu gelir üzerinden tevkifat suretiyle vergi alma hakkını etkilemeyecektir."
+hükümlerini öngörmektedir.
+Anılan Anlaşma'nın Prokolü'nün 7 nci maddesinde ise,
+"7. 14 üncü maddenin 2 nci fıkrasına ilave olarak:
+Bir Akit Devlet teşebbüsü tarafından diğer Akit Devlette, bu diğer Devlette bulunan görevli personel veya istihdam edilen personel aracılığı ile hizmet veya faaliyetler (aynı veya bağlı projeler için) icra edilir ise, söz konusu hizmet veya faaliyetin bu diğer Devlette icra edildiği kabul edilecektir."
+hükmü yer almaktadır.
+Buna göre, İspanya mukimi " ..............."nun Türkiye'ye gelmeksizin İspanya'da icra edeceği serbest meslek hizmetleri veya benzer nitelikteki diğer faaliyetleri dolayısıyla elde edeceği gelirleri vergileme hakkı yalnız İspanya'ya aittir. Söz konusu hizmet faaliyetlerinin Türkiye'de icra edilmesi durumunda ise, adı geçen teşebbüsün bu faaliyetleri Türkiye'de bir işyeri vasıtasıyla icra etmesi veya Türkiye'deki faaliyetlerinin icra edildiği süre veya sürelerin herhangi bir kesintisiz 12 aylık dönemde toplam 183 günü aşması halinde, Türkiye'nin de bu faaliyetler nedeniyle elde edilen gelirleri vergileme hakkı bulunmaktadır.
+İspanya mukimi teşebbüslerin Türkiye'de icra edecekleri serbest meslek faaliyeti, bu teşebbüslerin personelleri vasıtasıyla Türkiye'de yapacakları serbest meslek faaliyetlerini ifade etmektedir. Faaliyetin Türkiye'de icra edilmesi durumunda, yaptıkları serbest meslek ödemeleri üzerinden vergi tevkifatı yapmak zorunda olan vergi sorumluları, tevkifat yükümlülüğünün doğduğu sırada, istihkak sahibi teşebbüsün faaliyet icrası amacıyla Türkiye'de herhangi bir kesintisiz 12 aylık dönemde toplam 183 günü aşan bir süre kalıp kalmama durumunu bilemeyeceğinden söz konusu ödemeler üzerinden vergi tevkifatını yapmak durumundadırlar.
+İspanya mukimi teşebbüsün Türkiye'de serbest meslek icrası için kaldığı sürenin herhangi bir kesintisiz 12 aylık dönemde toplam 183 günü aşıp aşmadığının tespitinde; Türkiye'de birden fazla teşebbüse serbest meslek faaliyeti sunuluyorsa bu faaliyetlerin tamamı ve hizmetin Türkiye'ye gönderilen birden fazla personel vasıtasıyla icra edildiği durumda, bunların Türkiye'de toplam kalma süreleri dikkate alınacaktır.
+Kendilerine yapılan ödemelerden vergi tevkifatı yapılan teşebbüsler Anlaşma hükümleri çerçevesinde bu ödemelerin Türkiye'de vergilendirilmemesinin gerektiği durumlarda, bizzat veya vekilleri vasıtasıyla, tevkif edilen vergilerin iadesi için ilgili vergi dairesine başvurabileceklerdir.
+Diğer taraftan, İspanya'da mukim şirketin şubeniz ile TCDD arasında imzalanan sözleşme gereği elde ettiği gelirlerinin de yine Anlaşma'nın 14 üncü maddesi kapsamında değerlendirilmesi gerekmektedir. Söz konusu şirketin iş yeri vasıtasıyla elde ettiği gelirleri Türkiye'nin de vergilendirme hakkı olacak ve vergilendirme iç mevzuat hükümlerimize göre yapılacaktır.
+Anlaşma'nın Türkiye'ye vergi alma hakkı tanıdığı durumlarda Türkiye'de söz konusu serbest meslek kazançları üzerinden bu şekilde ödenecek vergiler, Anlaşma'nın "Çifte Vergilendirmenin Önlenmesi"ne ilişkin 22 nci maddesinin 1 inci fıkrası kapsamında İspanya'da mahsup edilebilecektir.
+Anlaşma hükümlerinin iç mevzuata göre değişiklik getirdiği durumlarda, Anlaşma hükümlerinden yararlanabilmek için İspanya mukimi söz konusu şirketin İspanya'da tam mükellef olduğunun ve tüm dünya kazançları üzerinden bu ülkede vergilendirildiğinin İspanya yetkili makamlarından alınacak bir belge ile kanıtlanması ve bu belgenin aslı ile noterce veya İspanya'daki Türk Konsolosluklarınca tasdik edilen Türkçe tercümesinin bir örneğinin vergi sorumlularına veya ilgili vergi dairesine ibraz edilmesi gerekmektedir."
+Katma Değer Vergisi Kanunu Yönünden:
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun;
+-1/1 inci maddesinde, ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde Türkiye'de yapılan teslim ve hizmetlerin KDV ye tabi olduğu,
+-4 üncü maddesinde, hizmetin, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu, bu işlemlerin; bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmamayı taahhüt etmek gibi, şekillerde gerçekleşebileceği,
+-6/b maddesinde, hizmetin Türkiye'de yapılmasının veya hizmetten Türkiye'de faydalanılmasının işlemlerin Türkiye'de yapıldığını ifade ettiği,
+-9 uncu maddesinde, Mükellefin Türkiye içinde ikametgahının, işyerinin, kanuni merkezi ve iş merkezinin bulunmaması hallerinde ve gerekli görülen diğer hallerde Maliye Bakanlığının vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutulabileceği,
+hüküm altına alınmıştır
+KDV tevkifatı uygulamasına ilişkin ayrıntılı açıklamalara Mülga 15 ve 117 Seri No.lu KDV Genel Tebliği ile 26.04.2014 tarih ve 28983 sayılı Resmi Gazete'de yayımlanan Katma Değer Vergisi Genel Uygulama Tebliğinin (I/C-2.1.2) bölümünde yer verilmiştir.
+Diğer taraftan KDV oranları, KDV Kanununun 28 inci maddesinin verdiği yetkiye dayanılarak 30/12/2007 tarih ve 26742 sayılı Resmi Gazetede yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi ile Kararnameye ekli (I) sayılı listede yer alan teslim ve hizmetler için %1, (II) sayılı listede yer alan teslim ve hizmetler için %8, bu listelerde yer almayan vergiye tabi işlemler için %18 olarak tespit edilmiştir.
+Yukarıda yer alan hüküm ve açıklamalar çerçevesinde, İspanya mukimi ............. Şirketinden aldığınız mühendislik hizmeti genel oranda (% 18) KDV ye tabi olup, hesaplanan verginin sorumlu sıfatıyla 2 No.lu KDV Beyannamesi ile beyan edilip ödenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 32054
+baslik: "Fiyat farkı faturasındaki katma değer vergisinin KDV Beyannamesinin hangi satırında gösterileceği hususu."
+tarih: 2015-11-24
+sayi: "B.07.1.GİB.4.34.17.01-KDV.35-97216"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32054
+gib_guncelleme: 2025-03-24T20:06:36
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Fiyat farkı faturasındaki katma değer vergisinin KDV Beyannamesinin hangi satırında gösterileceği hususu.
+
+**İlgili maddeler:** Madde 24 Matraha Dahil Olan Unsurlar; Madde 35 Matrah ve İndirim Miktarlarının Değişmesi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü)
+
+Sayı | : | 39044742-KDV.35-97216 | 24/11/2015
+Konu | : | Fiyat farkı faturasındaki katma değer vergisinin KDV Beyannamesinin hangi satırında gösterileceği hususu.
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, müşterilerinize düzenlediğiniz satış faturalarına istinaden tarafınıza düzenlenen fiyat farkı faturalarındaki KDV nin, KDV beyannamesinde nasıl beyan edileceği hususunda görüş talep ettiğiniz anlaşılmıştır.
+
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun;
+
+1/1 inci maddesinde, Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV nin konusunu oluşturduğu;
+
+24/c maddesinde, vade farkı, fiyat farkı, faiz, prim gibi çeşitli gelirler ile servis ve benzer adlar altında sağlanan her türlü menfaat, hizmet ve değerlerin matraha dahil edileceği;
+
+29/1 inci maddesinde, mükelleflerin, yaptıkları vergiye tabi işlemler üzerinden hesaplanan katma değer vergisinden, Kanunda aksine hüküm olmadıkça, faaliyetlerine ilişkin olarak kendilerine yapılan teslim ve hizmetler dolayısıyla hesaplanarak düzenlenen fatura ve benzeri vesikalarda gösterilen katma değer vergisini indirebilecekleri;
+
+35 inci maddesinde ise, malların iade edilmesi, işlemin gerçekleşmemesi, işlemden vazgeçilmesi veya sair sebeplerle matrahta değişiklik vuku bulduğu hallerde, vergiye tabi işlemleri yapmış olan mükellef bunlar için borçlandığı vergiyi; bu işlemlere muhatap olan mükellef ise indirme hakkı bulunan vergiyi değişikliğin mahiyetine uygun şekilde ve değişikliğin vuku bulduğu dönem içinde düzelteceği, iade olunan malların fiilen işletmeye girmiş olması ve bu girişin defter kayıtları ile beyannamede gösterilmesinin şart olduğu
+
+hükme bağlanmıştır.
+
+Bu çerçevede, müşterilerinize düzenlediğiniz satış faturalarına istinaden tarafınıza düzenlenen fiyat farkı faturalarında hesaplanan KDV nin, 1 no.lu KDV beyannamesinin "İndirimler" kulakçığının "İndirimler" tablosundaki 103 no.lu satıra kaydedilerek indirim konusu yapılması mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

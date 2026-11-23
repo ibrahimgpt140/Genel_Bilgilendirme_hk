@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 37323
+baslik: "Belediye sınırları ve mücavir alanlar içerisindeki küçükbaş ve büyükbaş hayvan kesimi yapılan özel kombinalardan hayvan kesimi muayene ve denetleme harcı alınıp alınmayacağı hususunda......"
+tarih: 2009-11-11
+sayi: "B.07.1.GİB.0.02.66/6606-18"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/37323
+gib_guncelleme: 2025-03-24T20:51:11
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Belediye sınırları ve mücavir alanlar içerisindeki küçükbaş ve büyükbaş hayvan kesimi yapılan özel kombinalardan hayvan kesimi muayene ve denetleme harcı alınıp alınmayacağı hususunda......
+
+**İlgili maddeler:** Madde 72 Hayvan Kesimi Muayene ve Denetleme Harcı Konu:
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+Sayı : B.07.1.GİB.0.02.66/6606-18 11/11/2009*........
+Konu:
+......... VALİLİĞİNE
+(............. Müdürlüğü)
+
+İlgi: ........... tarihli ve ......... sayılı yazınız.
+
+İlgide kayıtlı yazınızda, belediye sınırları ve mücavir alanlar içerisindeki küçükbaş ve büyükbaş hayvan kesimi yapılan özel kombinalardan hayvan kesimi muayene ve denetleme harcı alınıp alınmayacağı hususunda Başkanlığımız görüşü sorulmaktadır.
+2464 sayılı Belediye Gelirleri Kanununun 72 nci maddesinde, "Belediye sınırları ve mücavir alanlar içinde, belediyelerce veya yetkili mercilerce verilen izne dayanılarak özel kişi ve kuruluşlarca tesis edilen mezbaha ve kanaralarda kesilen hayvanların kesim öncesi ve sonrası muayenesi veya belediye sınırları ve mücavir alanlar dışında kesilmiş olup da belediye sınırı içinde satışa arz edilecek etlerin sağlık bakımından muayene ve denetlenmesi, Hayvan Kesimi Muayene ve Denetleme Harcına tabidir. 2678 sayılı Kanuna göre kurulan resmi ve özel kombinalar bu harçtan muaftır." hükmü yer almaktadır.
+Buna göre özel kombinalarda kesilen hayvanların kesim öncesi ve sonrası muayenesinin belediyelerce yapılması halinde hayvan kesimi muayene ve denetleme harcı alınacak olup söz konusu kesim öncesi ve sonrası muayene işlemlerinin belediyece yapılmaması halinde ise bu harç aranılmayacaktır. Ancak, 2678 sayılı Kanuna göre kurulan resmi ve özel kombinalar bu harçtan muaf tutulacaktır.
+3285 sayılı Hayvan Sağlığı ve Zabıtası Kanununun 32/A maddesinde, hayvancılık işletmelerinin kamu sağlığı, hayvan sağlığı ve gıda güvenliği yönünden; ilgili mevzuat kapsamında her türlü izin ve ruhsatların verilmesi ile bu işletmelerin kontrol ve denetimlerinin Tarım ve Köyişleri Bakanlığınca yapılacağı ve bu hususlara ilişkin usul ve esasların yine bu Bakanlıkça çıkartılacak yönetmelikle belirleneceği açıklanmıştır.
+Aynı Kanunun 33 üncü maddesi ve 5179 sayılı Gıdaların Üretimi Tüketimi ve Denetlenmesine Dair Kanunun 4 üncü maddesine göre, özel ve resmi kombina ve mezbahaların çalışma izinlerinin verilmesi ve denetimlerinin yapılması Tarım ve Köyişleri Bakanlığının yetkisindedir.
+Bu itibarla, , 2678 sayılı Kanuna göre kurulan resmi ve özel kombinalarda kesilen hayvanların kesim öncesi ve sonrası muayeneleri belediyelerce yapılsa dahi söz konusu harcın alınmaması, belediye sınırları ve mücavir alanlar içerisinde bulunan ve 2678 sayılı Kanuna göre kurulmayan özel kombinalarda kesilen hayvanların kesim öncesi ve sonrası muayenesinin belediyece yapılması halinde ise alınması gerekmektedir.
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Bakan a.

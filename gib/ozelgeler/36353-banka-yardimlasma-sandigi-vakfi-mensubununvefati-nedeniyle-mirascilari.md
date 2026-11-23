@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36353
+baslik: "Banka Yardımlaşma Sandığı Vakfı mensubununvefatı nedeniyle, mirasçılarına yapılan ödemelerin Veraset ve İntikal Vergisine tabi olup olmayacağı hakkında."
+tarih: 2000-02-14
+sayi: "B.07.0.GEL.0.60/6026-152-6578"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36353
+gib_guncelleme: 2025-03-24T20:34:45
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Banka Yardımlaşma Sandığı Vakfı mensubununvefatı nedeniyle, mirasçılarına yapılan ödemelerin Veraset ve İntikal Vergisine tabi olup olmayacağı hakkında.
+
+**İlgili maddeler:** Madde 3 Muafiyetler; Madde 4 İstisnalar
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 14.02.2000 SAYI : B.07.0.GEL.0.60/6026-152-6578 KONU : Banka Yardımlaşma Sandığı Vakfı mensubunun vefatı nedeniyle, mirasçılarına yapılan ödemelerin Veraset ve İntikal Vergisine tabi olup olmayacağı hk. ANTALYA VALİLİĞİNE (Defterdarlık : Vasıtalı Vergiler Gelir Müdürlüğü) İLGİ : 12.01.2000 gün ve B.07.0.DEF.0.07.10/91-104 sayılı yazınız. İlgi yazınız ekinde yer alan 22/12/1999 gün ve ..... sayılı özelgenin incelenmesinden, ..... Bankası A.Ş. Mensupları ..... Yardımlaşma Vakfı tarafından 20/10/1997 tarihinde vefat eden .....'un mirasçılarına yapılan ödemenin, veraset ve intikal vergisine tabi tutulması yönünde görüş verildiği anlaşılmış olup, aşağıdaki açıklamaların yapılmasına gerek görülmüştür. Bilindiği üzere, 7338 sayılı Veraset ve İntikal Vergisi Kanunu'nun 3'üncü maddesinin (a) bendinde, amme idareleri, emekli ve yardım sandıkları, sosyal sigorta kurumları, umumi menfaate hadim cemiyetler, siyasi partiler ve bunlara ait olan veya bunların aralarında kurdukları teşekküllerden kurumlar vergisine tabi olmayanlar, (b) bendinde de, yukarıdaki fıkrada sayılanlar dışında kalan hükmi şahıslara ait olup umumun istifadesi için ilim, araştırma, kültür, sanat, sıhhat, eğitim, din, hayır, imar, spor gibi maksatlarla kurulan teşekküllerin veraset ve intikal vergisinden muaf tutulacağı hükme bağlanmıştır. Aynı Kanun'un 4'üncü maddesinin (f) bendinde ise üçüncü maddenin (a) ve (b) fıkraları kapsamına giren şahısların statüleri gereğince maksatları içinde usulüne uygun olarak yaptıkları yardımlar, (g) bendinde de amme idare ve müesseseleri ve 3659 sayılı Kanuna tabi müesseseler ve amme menfaatlerine hadim cemiyetlerden veya emekli sandıklarından (veya bu mahiyetteki kurumlardan) dul ve yetimlere bağlanan aylıklarla bu aylıklar dışında verilen emekli ikramiyeleri ile dul ve yetim evlenme ikramiyeleri ile dul ve yetim evlenme ikramiyeleri ve hizmet müddetlerini doldurmamış bulunanların dul ve yetimlerine aylık yerine toptan yapılan ödemeler ve harb malulleriyle şehit yetimlerine tekel bey'iyelerinden ödenen paralar veraset ve intikal vergisinden istisna edilmiştir. Bu hükümlere göre, Veraset ve İntikal Vergisi Kanunu'nun 3'üncü maddesinin (a) ve (b) bentlerinde sayılan kurum ve kuruluşlar, kendilerine yapılacak bağış ve yardımlar dolayısıyla veraset ve intikal vergisinden muaftır. Ayrıca, söz konusu kurum ve kuruluşlarca yapılan ve 4'üncü maddenin (f) bendi kapsamına giren yardımlarla aynı maddenin (g) bendinde sayılan kuruluşların hak sahiplerine yapmış oldukları ödemelerde veraset ve intikal vergisinden istisnadır. Ancak, ..... Bankası A.Ş. Mensupları ..... Yardımlaşma Sandığı Vakfı, 7338 sayılı Veraset ve İntikal Vergisi Kanunu'nun 3'üncü maddesinin (a) ve (b) bendinde belirtilen teşekküllerden olmadığı gibi 4'üncü maddenin (g) bendi kapsamına da girmediğinden, adı geçen vakıf tarafından .....'un mirasçılarına yapılan ödemelerin, veraset ve intikal vergisine tabi tutulması gerekir. Bilgi edinilmesini, gereğinin buna göre yapılarak sonucundan Bakanlığımıza bilgi verilmesini rica ederim. Bakan a. Daire Başkanı

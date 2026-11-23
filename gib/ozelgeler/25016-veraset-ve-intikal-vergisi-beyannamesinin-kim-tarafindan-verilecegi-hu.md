@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 25016
+baslik: "veraset ve intikal vergisi beyannamesinin kim tarafından verileceği hususunda"
+tarih: 2009-11-10
+sayi: "B.07.1.GİB.0.02.60/6000-2542 "
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/25016
+gib_guncelleme: 2025-03-24T19:38:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# veraset ve intikal vergisi beyannamesinin kim tarafından verileceği hususunda
+
+**İlgili maddeler:** Madde 12 Mirasçıların Sorumluluğu
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI :B.07.1.GİB.0.02.60/6000-2542
+KONU :
+10.11.2009 / ..........
+
+........... VALİLİĞİNE
+(Defterdarlık: ...........Müdürlüğü)
+
+İlgi: ...............tarih ve ........... sayılı yazınız.
+
+İlgide kayıtlı yazınız ve eklerinin incelenmesinden, .......................'ın adına kayıtlı gayrimenkulleri 30/06/1989 tarihinde ..............'a bağışladığı ve bağışı alan kişinin veraset ve intikal vergisi beyannamesini vermeden vefat ettiği belirtilerek, veraset ve intikal vergisi beyannamesinin kim tarafından verileceği hususundaki Başkanlığımız görüşünün sorulduğu anlaşılmaktadır.
+Bilindiği üzere, 4721 sayılı Türk Medeni Kanununun 580 inci maddesinde "Mirasçı olabilmek için mirasbırakanın ölüm anında mirasa ehil olarak sağ olması şarttır." denilmektedir.
+Ayrıca, aynı Kanunun 610 uncu maddesinde de yasal süre içinde mirası reddetmeyen mirasçının mirası kayıtsız şartsız kazanmış olacağı hükme bağlanmıştır.
+Öte yandan, 213 sayılı Vergi Usul Kanununun 12 nci maddesinde, ölüm halinde mükelleflerin ödevlerinin, mirası reddetmemiş kanuni ve mansup mirasçılarca yerine getirileceği belirtilmiştir.
+Belirtilen nedenlerle, ......................'ın 30/06/1989 tarihinde ivazsız bir suretle iktisap etmiş olduğu gayrimenkullerle ilgili veraset ve intikal vergisi beyannamesini vermeden vefat etmesi nedeniyle adı geçenin mirasçılarının mirası reddetmediklerinin tespit edilmesi durumunda söz konusu bağış işlemi ile ilgili veraset ve intikal vergisi beyannamesinin adı geçenin kanuni mirasçıları tarafından verilmesi gerekmektedir.
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+Bakan a.

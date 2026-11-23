@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 31494
+baslik: "Çerçeve anlaşması kapsamında yapılan teslimden kaynaklanan KDV?nin tevkif edilerek beyan edilen vergiden mahsubu"
+tarih: 2012-04-24
+sayi: "39044742-KDV.32-1437"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31494
+gib_guncelleme: 2025-03-24T20:03:17
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Çerçeve anlaşması kapsamında yapılan teslimden kaynaklanan KDV?nin tevkif edilerek beyan edilen vergiden mahsubu
+
+**İlgili maddeler:** Madde 15
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | 39044742-KDV.32-1437 | 24/04/2012
+Konu | : | Çerçeve anlaşması kapsamında yapılan teslimden kaynaklanan KDV'nin tevkif edilerek beyan edilen vergiden mahsubu
+
+İlgide kayıtlı dilekçeniz incelenmiştir.
+Avrupa Birliği ve Türkiye arasında mali yardımlar çerçevesinde imzalanan ve 5303 sayılı Kanun ile onaylanması uygun bulunan Çerçeve Anlaşma'nın vergi istisnalarına ilişkin usul ve esaslar, 20/05/2005 tarihli ve 25821 sayılı Resmi Gazete'de yayımlanan 1 Sıra No.lu Türkiye Avrupa Birliği Çerçeve Anlaşması Genel Tebliği'nde belirlenmiştir.
+Söz konusu Tebliğe göre, AT Yüklenicisi konumunda olan ... Üniversitesi'nin AT Sözleşmesi kapsamında tedarikçi konumunda olan Şirketinizden temin edeceği mal, hizmet ve işler için öncelikle KDV İstisna Sertifikası'nda yazılı süre içerisinde Şirketinizle tedarik sözleşmesi yapmaları (2.000.-TL'nin altında olanlar için sözleşme şartı bulunmamaktadır), bu sözleşmede sözleşmeye konu mal, hizmet ve işlerin yüklenicinin taraf olduğu AT Sözleşmesi kapsamında olduğunun yararlanıcı konumunda olan ... Üniversitesi'nin söz konusu sözleşmeden sorumlu üst idare amiri (rektör yrd. veya rektör) tarafından onaylanması gerekmekte olup, bu mal ve hizmet ifaları için AT Yüklenicisi ile yapılan ve yararlanıcı tarafından onaylanmış bulunan tedarik sözleşmesinin ve AT Yüklenicisinde yer alan Sertifika'nın onaylı örneğinin Şirketinize ibraz edilmesi halinde, Şirketiniz tarafından düzenlenen fatura ve benzeri evraklarda söz konusu sözleşmeye ve Çerçeve Anlaşma'ya atıf yapılmak suretiyle KDV hesaplanmaması gerekmektedir.
+Diğer taraftan, Şirketinize yapılacak mal teslimleri ve hizmet ifaları KDV'ye tabi olup, AT Yüklenicisine yaptığınız istisna kapsamına giren söz konusu teslimler ile ilgili olarak yüklenilen KDV'nin indirim yoluyla telafi edilememesi halinde nakden veya mahsuben iade konusu yapılması mümkün bulunmaktadır.
+Ayrıca KDV Kanunu'nun;
+- 9. maddesinde, mükellefin Türkiye içinde ikametgâhının, işyerinin, kanuni merkezi ve iş merkezinin bulunmaması ve gerekli görülen diğer hallerde, Maliye Bakanlığının vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutabileceği,
+- 29/1. maddesinde, mükelleflerin yaptıkları vergiye tabi işlemler üzerinden hesaplanan KDV'den, bu Kanunda aksine hüküm olmadıkça faaliyetlerine ilişkin olarak kendilerine yapılan teslim ve hizmetler dolayısıyla hesaplanarak düzenlenen fatura ve benzeri vesikalarda gösterilen KDV ile ithal olunan mal ve hizmetler dolayısıyla ödenen KDV'yi indirebilecekleri,
+- 32. maddesine göre, tam istisna kapsamına giren işlemlerle ilgili alış ve giderler dolayısıyla yüklenilen vergilerin indiriminin mümkün olmaması halinde, mükelleflere iade edilebileceği,
+hükme bağlanmıştır.
+15 Seri No'lu KDV Genel Tebliği'nin C bölümünde, yurt dışındaki firmaların hizmet ifalarında mükellef esas olarak yurt dışındaki firma olmakla birlikte, firmanın Türkiye'de ikametgâhı, işyeri, kanuni merkezi ve iş merkezi bulunmaması halinde verginin, Kanun'un 9. maddesi gereğince hizmetten faydalanan yurt içindeki muhatap tarafından bağlı bulunduğu vergi dairesine sorumlu sıfatıyla beyan edilip ödeneceği belirtilmiştir.
+Bu nedenle, Şirketinizin yukarıda belirtilen AT Sözleşmesi çerçevesinde ve sözleşme süresi içinde AT Yüklenicisi ile tedarik sözleşmesi yapmış olması ve sözleşme konusu hizmetin AT Sözleşmesi kapsamında olduğunun yararlanıcı olan ... Üniversitesi tarafından onaylanması halinde, bu sözleşmede yazılı hizmet KDV'den istisna olacağından bu hizmetten doğan KDV iade alacağının, Şirketiniz tarafından aynı dönemde yurt dışından temin edilen hizmet nedeniyle 2 No'lu KDV Beyannamesi ile beyan edilen KDV borcuna mahsubu mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

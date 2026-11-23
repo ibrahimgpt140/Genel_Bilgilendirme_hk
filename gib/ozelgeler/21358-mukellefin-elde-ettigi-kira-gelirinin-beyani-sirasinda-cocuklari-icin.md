@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 21358
+baslik: "Mükellefin elde ettiği kira gelirinin beyanı sırasında, çocukları için ödemiş olduğu kiraların indirim konusu yapılmayacağı tabiidir."
+tarih: 1998-12-25
+sayi: "B.07.0.GEL.0.43/4301-149/49947"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21358
+gib_guncelleme: 2025-03-24T19:28:39
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Mükellefin elde ettiği kira gelirinin beyanı sırasında, çocukları için ödemiş olduğu kiraların indirim konusu yapılmayacağı tabiidir.
+
+**İlgili maddeler:** Madde 21 Gayrimenkuller ve Haklarda; Madde 70 Gayrimenkul Sermaye İradının Tarifi; Madde 72 Gayrisafi Hasılat; Madde 74 Giderler
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH: 25.12.1998 SAYI : B.07.0.GEL.0.43/4301-149/49947 KONU : Mükellefin elde ettiği kira gelirinin beyanı sırasında, çocukları için ödemiş olduğu kiraların indirim konusu yapılıp yapılmayacağı hk. ................... İLGİ : 27.10.1998 tarihli dilekçeniz. İlgi dilekçenizin incelenmesinden; .....ilinde bulunan iki adet meskenden kira geliri elde ettiğinizi, ..... ve .....'ta kiralamış olduğunuz ve çocuklarınızın oturdukları konutların kiralarının tarafınızdan ödendiğini, yılın bir bölümünü .....'d' ikamet ett i ğiniz kendi evinizde, geri kalan bölümünü ise çocuklarınızın yanında geçirdiğinizi belirterek, elde ettiğiniz kira gelirinin beyanı sırasında ödemiş olduğunuz söz konusu kiraların indirim konusu yapılıp yapılmayacağı hususunda tereddüte düştüğünüz anlaşıl m ıştır. 193 sayılı Gelir Vergisi Kanununun 4369 sayılı Kanunla değişen 21 inci maddesinde "Binaların mesken olarak kiraya verilmesinden bir takvim yılı içinde elde edilen hasılatın 240.000.000 lirası gelir vergisinden müstesnadır. İstisna haddi üzerinde hasılat elde edilip beyan edilmemesi veya eksik beyan edilmesi halinde, bu istisnadan yararlanılamaz. Ticari, zırai veya mesleki kazancını yıllı beyanname ile bildirmek mecburiyetinde olanlar ile gelirleri bunlar tarafından bildirilecek olanlar bu istisnada n faydalanamazlar" denilmiş, aynı Kanunun 72 nci maddesinde de, gayrimenkul sermaye iratlarında, gayrisafi hasılatın, 70 inci maddede yazılı mal ve hakların kiraya verilmesinden bir takvim yılı içinde o yıla veya geçmiş yıllara ait olarak nakden veya aynen tahsil edilen kira bedellerinin tutarı olacağı belirtilmiştir. Diğer taraftan, aynı Kanunun 74 üncü maddesinde, gerçek gider usulüne göre safi iradın bulunması için gayrisafi hasılattan indirilecek giderler sayılmış, maddenin 10 uncu bendinde; sahibi bulundukları konutları kiraya verenlerin kira ile oturdukları konutun kira bedelini kira hasılatından indirebilecekleri belirtilmiştir. Bu hükümlere göre, elde ettiğiniz kira gelirlerinin yukarıda belirtilen istisna tutarını aşması halinde, aşan kısmı gayrimenkul sermaye iradı olarak beyan etmeniz gerekmektedir. Buna göre, gerçek gider usulünü seçmeniz halinde, beyan edeceğiniz kira gelirinizden ancak ikamet ettiğiniz konut için ödediğiniz kirayı indirmeniz mümkün bulunmaktadır. İkametgahınızın bulunduğu konu t un sahibi iseniz, bir başka ifade ile oturduğunuz konutta kiracı değilseniz, kira gelirinizin beyanı sırasında herhangi bir kira indirimi yapmanız mümkün değildir. Ayrıca, safi iratlarını gerçek gider usulüyle tespit eden gayrimenkul sermaye iradı sahiplerinin gerçek giderlerine ilişkin belgelerini, Yıllık Gelir Vergisi Beyannamesi ekinde ibraz etmelerine gerek bulunmamaktadır. Ancak, gerçek giderlerine ilişkin belgelerin Vergi Usul Kanununun ilgili maddeleri uyarınca istenildiğinde ibraz edilmek üzere 5 y ıl süreyle saklanması zorunludur. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

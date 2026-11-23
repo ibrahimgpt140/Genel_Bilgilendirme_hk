@@ -1,0 +1,45 @@
+---
+tur: Özelge
+gib_id: 25854
+baslik: "Kendi arsası üzerine yapılan dükkan ve dairelerin kiraya verilmesinde vergilendirme hk."
+tarih: 2015-10-12
+sayi: "11395140-105[262-2014/VUK1-18869]-86108"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25854
+gib_guncelleme: 2025-03-24T19:40:47
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kendi arsası üzerine yapılan dükkan ve dairelerin kiraya verilmesinde vergilendirme hk.
+
+**İlgili maddeler:** Madde 229 Faturanın Tarifi; Madde 262 Maliyet Bedeli; Madde 269 Gayrimenkuller; Madde 270 Gayrimenkullerde Maliyet Bedeline Giren Giderler; Madde 271 İnşa ve İmal Giderleri
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 11395140-105[262-2014/VUK1-18869]-86108 | 12/10/2015
+Konu | : | Arsa üzerine yapılan iş yeri ve daire inşaatlarının değerlemesi ve belge düzeni
+
+İlgide kayıtlı özelge talep formunuz ve dilekçelerinizde; inşaat yapım ve satış işleriyle iştigal ettiğiniz, bunun yanı sıra şahsınıza ait arsalar üzerine de inşaatlar yaptığınız, kendi arsanız üzerine yapmış olduğunuz inşaatta bulunan bazı dükkan ve daireleri satmayıp kiraya vermeyi düşündüğünüz belirtilerek kiraya vereceğiniz yerlerin vergisel durumu hakkında görüş talep edilmektedir.
+
+213 sayılı Vergi Usul Kanununun;
+
+262 nci maddesinde; maliyet bedelinin, iktisadi bir kıymetin iktisap edilmesi veyahut değerinin artırılması münasebetiyle yapılan ödemelerle bunlara müteferri bilumum giderlerin toplamını ifade edeceği,
+
+269 uncu maddesinde, iktisadi işletmelere dâhil bilumum gayrimenkullerin maliyet bedeli ile değerleneceği,
+
+270 inci maddesinde ise gayrimenkullerde maliyet bedeline, satın alma bedelinden başka, makine ve tesisatta gümrük vergileri, nakliye ve montaj giderleri ile mevcut bir binanın satın alınarak yıkılmasından ve arsanın tesviyesinden mütevellit giderlerin gireceği, ayrıca noter, mahkeme, kıymet takdiri, komisyon ve tellaliye giderleri ile emlak alım ve özel tüketim vergilerinin maliyet bedeline ithal etmekte veya genel giderler arasında göstermekte mükelleflerin serbest oldukları,
+
+271 inci maddesinde de, inşa edilen binalarda ve gemilerde, imal edilen makine ve tesisatta, bunların inşa ve imal giderlerinin, satın alma bedeli yerine geçeceği
+
+hüküm altına alınmıştır.
+
+Buna göre;
+
+- Adınıza kayıtlı arsa üzerine yapmış olduğunuz inşaat faaliyetiniz ticari faaliyet kapsamında değerlendirildiğinden söz konusu daire ve dükkanları maliyet bedeli ile değerleyerek kayıtlarınıza almanız gerekmekte olup daire ve dükkanların maliyetine Vergi Usul Kanununun 270 ve 271 inci maddelerinde belirtilen giderleri de eklemeniz mümkün bulunmaktadır.
+
+- İşletmenize dahil ettiğiniz daire ve dükkanların tarafınızca işletmeden çekilmek suretiyle kiralanmasının, kiralamak üzere gayrimenkul inşa etme faaliyetinin ticari mahiyetini değiştirmeyeceği tabii olup, söz konusu daire ve dükkanların kiralanmasından doğan kazancın ticari kazancınıza dahil edilmek suretiyle vergilendirilmesi gerekmektedir.
+
+- Ayrıca daire veya dükkanların 3. kişilere satılması durumunda gerçek satış bedeli üzerinden fatura düzenlenmesi gerektiği tabiidir.
+
+Bilgi edinilmesini rica ederim.

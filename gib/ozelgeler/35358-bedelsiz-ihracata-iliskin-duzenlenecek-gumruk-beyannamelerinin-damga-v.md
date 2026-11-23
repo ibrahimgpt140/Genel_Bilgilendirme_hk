@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 35358
+baslik: "Bedelsiz ihracata ilişkin düzenlenecek gümrük beyannamelerinin damga vergisine tabi olup olmadığı hk."
+tarih: 2018-08-08
+sayi: "64597866-155.13-17312"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/35358
+gib_guncelleme: 2025-03-24T20:25:51
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bedelsiz ihracata ilişkin düzenlenecek gümrük beyannamelerinin damga vergisine tabi olup olmadığı hk.
+
+**İlgili maddeler:** Ek Madde 2
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı : 64597866-155.13-17312 08.08.2018
+Konu : Bedelsiz ihracata ilişkin düzenlenecek
+gümrük beyannamelerinin damga vergisine
+tabi olup olmadığı
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, ürünlerinizin yurt dışında tanıtım ve pazarlanması amacıyla yurt dışına gönderilen tanıtım malzemelerine ilişkin bedelsiz ihracat ile ilgili olarak düzenlenecek gümrük beyannamelerinin damga vergisine tabi olup olmadığı hususunda görüş talep edildiği anlaşılmaktadır.
+Bilindiği üzere, 488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisinin mükellefinin kâğıtları imza edenler olduğu, 9 uncu maddesinde, bu Kanuna ekli (2) sayılı tabloda yazılı kâğıtların damga vergisinden müstesna olduğu; (2) sayılı tablonun "IV.Ticari ve medeni işlerle ilgili kâğıtlar" başlıklı bölümüne 6728 sayılı Kanunun 29 uncu maddesiyle eklenen (48) numaralı fıkrasında, ürünlerin yurt dışında tanıtım ve pazarlamasını sağlamak amacıyla, miktarı ticari teamüllere uygun örnek ürünlerin, tanıtım malzemelerinin veya promosyon amaçlı ürünlerin bedelsiz ihracatına ilişkin düzenlenen kâğıtlar ile yurt dışındaki fuarlara katılım amacıyla düzenlenen kâğıtların damga vergisinden istisna edileceği hükme bağlanmıştır.
+Buna göre, ürünlerinizin yurt dışında tanıtım ve pazarlamasını sağlamak amacıyla, miktarı ticari teamüllere uygun örnek ürünlerin, tanıtım malzemelerinin veya promosyon amaçlı ürünlerin bedelsiz ihracatına ilişkin olarak söz konusu fıkranın yürürlük tarihi olan 9/8/2016 tarihinden sonra düzenlenen gümrük beyannamelerinin, münhasıran bu ürünlere ilişkin düzenlenmiş olması koşuluyla Damga Vergisi Kanununa ekli (2) sayılı tablonun IV/48 fıkrası uyarınca damga vergisinden istisna tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

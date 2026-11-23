@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 32282
+baslik: "İndirimli orana tabi araçların kapsamı hk."
+tarih: 2018-11-27
+sayi: "96842599-130[28-2018/60]-E.92872"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32282
+gib_guncelleme: 2025-03-24T20:07:34
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İndirimli orana tabi araçların kapsamı hk.
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+Denizli Vergi Dairesi Başkanlığı
+(Gelir Kanunları Grup Müdürlüğü)
+
+Sayı | : | 96842599-130[28-2018/60]-E.92872 | 27.11.2018
+Konu | : | İndirimli orana tabi araçların kapsamı
+
+İlgi | : | 01.11.2018 tarihli özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunda, 287 sayılı Cumhurbaşkanı Kararının eki Kararda belirtilen motorlu araçların ikinci el (kullanılmış) olması halinde hangi oranda katma değer vergisi (KDV)' ne tabi tutulması gerektiği sorulmaktadır.
+Mal ve hizmetlere uygulanan KDV oranları, 3065 sayılı Katma Değer Vergisi Kanununun 28 inci maddesinin verdiği yetkiye dayanılarak, 700 sayılı KHK ile değişmeden önce Bakanlar Kurulu, değişiklik sonrasında ise Cumhurbaşkanı tarafından belirlenmektedir
+Bu kapsamda, 31.10.2018 tarihli ve 30581 mükerrer sayılı Resmi Gazete'de yayımlanan 287 sayılı Cumhurbaşkanı Kararının Eki Kararın 4 üncü maddesinde, "31.12.2018 tarihine kadar (bu tarih dâhil) uygulanmak üzere; 25.12.2017 tarihli ve 2017/11170 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelinin; 8701.20, 87.02, 87.04, 87.05 gümrük tarife istatistik pozisyon numaralarında yer alan malların katma değer vergisi oranı % 1 olarak belirlenmiştir." hükmüne yer verilmiştir.
+Buna göre, ikinci el (kullanılmış) olanları da dahil olmak üzere söz konusu motorlu araçların 31.12.2018 tarihine kadar (bu tarih dâhil) tesliminin % 1 oranında KDV'ye tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

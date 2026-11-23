@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24990
+baslik: "Bir şirketin en son adresinin ve ortaklarının ad ve soyadlarının özel bütçeli bir kuruluşa verilmesi vergi mahremiyetine kapsamına girmektedir."
+tarih: 1997-04-01
+sayi: "B.07.0.GEL.0.28/2803-5-744/13562"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/24990
+gib_guncelleme: 2025-03-24T19:38:28
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bir şirketin en son adresinin ve ortaklarının ad ve soyadlarının özel bütçeli bir kuruluşa verilmesi vergi mahremiyetine kapsamına girmektedir.
+
+**İlgili maddeler:** Madde 5 Vergi Mahremiyeti
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : O1 .04.1997 SAYI : B.07.0.GEL.0.28/2803-5-744/13562 KONU : Bir şirketin en son adresinin ve ortaklarının ad ve soyadlarının özel bütçeli bir kuruluşa verilmesinin vergi mahremiyetine girip girmeyeceği hk. ........... İLGİ: 19.2.1997 tarih ve B.11.2 .TTŞ.4.07.00.07.İc:643/3815 sayılı yazınız. İlgide kayıtlı yazınızın incelenmesinden; kuruluşunuza ait bir araştırmaya esas teşkil etmek üzere ......... A.Ş.'nin en son adresi ile şirket ortaklarının ad ve adreslerinin bildirilmesinin ìstenildiği anlaşılmıştır. 213 sayılı Vergi Usul Kanununun 5 inci maddesinde vergi mahremiyeti konusuna yer verilmiş olup bu maddede "Aşağıda yazılı kimseler görevleri dolayısıyle, mükellefïn ve mükellefle ilgili kimselerin şahıslarına, muamele ve hesap durumlarına, işlerine, işletmelerine, servetlerine veya mesleklerine müteallik olmak üzere öğrendikleri sırları veya gizli kalması lazımgelen diğer hususları ifşa edemezler ve kendilerinín veya üçüncü şahısların nezdine kullanamazlar" hükmü yer almış ve bu yasağa kimle r in uyacağı da maddede dört bent halinde gösterilmiş bulunmaktadır. Madde hükmüne göre, mükelleflerle ilgili olup vergi dairelerinde gizli kalması gereken hususların vergi dairesi yetkililerince ifşa edilmemesi gerekmektedir. Diğer taraftan, üçüncü kişileri ilgilendiren herhangi bir araştırma dolayısıyle veya kendi aralarındaki herhangi bir hususu açıklığa kavuşturmak veya yine kendi aralarındaki ihtilafların, çözümlenmesine yardımcı olacak diğer mükelleflere ait bilgileri vergi dairelerinden veya Bakan l ığımızdan isteyebileceklerine ve bu bilgilerinde verilebileceğine ilişkin bir hüküm 213 sayılı Vergi Usul Kanununda yer almadığı gibi, böyle bir mecburiyette bulunmamaktadır. Ancak, bir hakkın tesbití için mahkemece zorunlu görülerek istenilmesi halinde, mahkemelere bilgi verilebileceği tabiidir. Bu itibarla, söz konusu yazınızda istenilen bilgiler vergi mahremiyeti kapsamına girdiğinden, talebinizin yerine getirilmesine imkan görülememiştir. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

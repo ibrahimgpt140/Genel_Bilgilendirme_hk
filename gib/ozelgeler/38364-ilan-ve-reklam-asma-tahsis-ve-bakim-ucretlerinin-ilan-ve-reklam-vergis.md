@@ -1,0 +1,16 @@
+---
+tur: Özelge
+gib_id: 38364
+baslik: "İlan ve reklam asma, tahsis ve bakım ücretlerinin ilan ve reklam vergisine tabi olup olmayacağı hk."
+tarih: 2001-04-30
+sayi: "B.07.0.GEL.0.66/6624-69/23198"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/38364
+gib_guncelleme: 2025-03-24T23:01:41
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İlan ve reklam asma, tahsis ve bakım ücretlerinin ilan ve reklam vergisine tabi olup olmayacağı hk.
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdür1üğü TARİH : 30.04.2001 SAYI : B.07.0.GEL.0.66/6624-69/23198 KONU : İlan ve reklam asma, tahsis ve bakım ücretlerinin ilan ve reklam vergisine tabi olup olmayacağı hk. ­........................ VALİLİĞİ (Dèfterdarlık : Tahsilat Gelir Müdürlüğüne) İLGİ : ­........................ gün ye ­........................ sayılı yazınız. İlgide kayıtlı yazınızda, ilan ve reklam asma, tahsis, yer ve bakım ücretleri için belediye tarafından yapılan tahakkuk işlemleri çerçevesinde mükelleflerinin geç beyanları veya yapılan denetimler sonucu tespit yapılması durumunda ilan ve reklam asma, tahsis, yer ve bakım ücretlerine gecikme zammı ve gecikme faizi uygulanıp uygulanmayacağı hususunda tereddüt edildiği belirtilerek yapılacak işlemin bildirilmesi istenilmektedir. Bilindiği gibi, 3030 sayılı Büyük Şehir Belediyelerinin Yönetimi Hakkında Kanunun 18 nci maddesinin (e) fıkrasında; 6 ncı maddenin (A) fıkrasının (c) bendinde belirtilen alanlardaki ilan asma yerleri, elektrik direkleri, büfeleri ile tercihli yollardaki bariyerlere konulacak her türlü ilan ve reklamların vergileri ile asma, tahsis ve bakım ücretleri Büyük Şehir Belediyelerinin gelirleri arasında sayılmıştır. Diğer taraftan, 6183 sayılı Kanunun 1 nci maddesinde "Devlete, vilayet hususi idarelerine ve belediyelere ait vergi, resim, harç, ceza tahkik ve takiplerine ait muhakeme masrafı, vergi cezası, para cezası gibi asli; gecikme zammı, faiz gibi fer'i amme alacakları ve aynı idarelerin akitten, haksız fiil ve haksız iktisaptan doğanlar dışında kalan ve amme hizmetleri tatbikatından mütevellit olan diğer alacakları ile; bunların takip masrafları hakkında bu kanun hükümleri tatbik olunur" denilmektedir. Bununla birlikte, özel kanunları ile 6183 sayılı Kanuna atıfta bulunulan alacaklar hakkında bu kanunun 51 nci maddesi uyarınca gecikme zammı uygulanmaktadır. Yukarıdaki madde hükmünün lafzından da anlaşılacağı üzere; İlan ve Reklam Asma, Tahsis, Yer ve Bakım Ücretleri bu Kanun kapsamına giren bir alacak niteliğinde olmadığından, söz konusu ücretleri için 6183 sayılı Kanunun 51 nci maddesine göre gecikme zammı uygulanması mümkün değildir. Öte yandan, 213 sayılı Vergi Usul Kanununun "Kanunun şümulü" başlıklı 1 inci maddesinde, "Bu Kanun hükümleri ikinci maddede yazılı olanlar dışında, genel bütçeye giren vergi, resim ve harçlar ile il özel idarelerine ve belediyelere ait vergi, resim ve harçlar hakkında uygulanır..." hükmü yer almış bulunmaktadır. "İlan ve reklam asma, tahsis ve bakım ücretleri" 3030 sayılı Kanunun yukarıda belirtilen hükmüne göre alınmakta olan bir ücret olup, ilan ve reklam vergisi ile bir ilgisi yoktur. Bu itibarla, 213 sayılı Vergi Usul Kanununun 1 nci maddesi kapsamında mütalaa edilmeyen konu hakkında gecikme faizi hesabı da söz konusu değildir. Bilgi edinilmesini ve gereğini rica ederim.

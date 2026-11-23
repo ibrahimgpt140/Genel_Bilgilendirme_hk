@@ -1,0 +1,40 @@
+---
+tur: Özelge
+gib_id: 36415
+baslik: "mirasçılara intikal eden yabancı ortaklı üç şirkette bulunan muhtelif adetlerdeki hisse senetlerinin mirasçıların payları oranında üçüncü şahıslara devir işlemlerinin teminat gösterilmek suretiyle ilişik kesme belgesinin verileceği hususunda..."
+tarih: 2009-05-12
+sayi: "B.07.1.GİB.0.02.60/6026-515"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36415
+gib_guncelleme: 2025-03-24T20:35:36
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# mirasçılara intikal eden yabancı ortaklı üç şirkette bulunan muhtelif adetlerdeki hisse senetlerinin mirasçıların payları oranında üçüncü şahıslara devir işlemlerinin teminat gösterilmek suretiyle ilişik kesme belgesinin verileceği hususunda...
+
+**İlgili maddeler:** Madde 17 Vergiye mukabil alınacak teminat
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI :B.07.1.GİB.0.02.60/6026-515
+KONU :
+
+12.05.2009 / ..............
+
+......................VERGİ DAİRESİ BAŞKANLIĞINA
+(..................... Grup Müdürlüğü)
+
+İlgi: ................ tarih ve .................... sayılı yazınız.
+İlgide kayıtlı yazınız eki 10/04/2009 tarih ve 993 sayılı özelgenin incelenmesinden, 25/06/2008 tarihinde vefat eden ................'ın mirasçılarına intikal eden yabancı ortaklı üç şirkette bulunan muhtelif adetlerdeki hisse senetlerinin mirasçıların payları oranında üçüncü şahıslara devir işlemlerinin teminat gösterilmek suretiyle ilişik kesme belgesinin verileceği hususunda görüş verildiği anlaşılmıştır.
+Bilindiği üzere, Veraset ve İntikal Vergisi Kanununun 17 nci maddesinde "Amme idare ve müesseseleri, bankalar, bankerler, kasa kiralayanlar, sigorta şirketleri, sair şirket ve müesseseler, mahkemeler ve icra daireleri istihkak sahiplerine bu verginin mevzuuna giren herhangi bir muamele dolayısıyla para ve senet verebilmek için evvelemirde verginin ödenmiş olduğuna dair vergi dairesinden verilmiş bir tasdikname talebederler.
+Tasdikname ibraz etmeyen hak sahiplerinin istihkaklarından, veraset yoluyla intikallerde yüzde beş, ivazsız intikallerde yüzde onbeş oranında vergi karşılığı olarak tevkifat yaptıktan sonra, bakiyesini verebilirler. Tevkifatı yapanlar, tevkif ettikleri parayı en geç bir hafta içinde bulundukları yerin mal sandığına yatırmaya ve keyfiyeti bağlı bulundukları vergi dairesine yazı ile bildirmeye mecburdurlar.
+Tevkifat yapmadan para ve senet verenlerle tevkif ettikleri parayı yukarıda belirtilen süre içinde mal sandığına yatırmayanlardan (Hakimler hariç), tevkif etmeye ve yatırmaya mecbur oldukları paralar Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı tatbik edilerek tahsil edilir. Tevkifatı yapan ilgili kuruluşların, bu görevleri süresinde yerine getirmeyen sorumlularından, tevkif etmeye ve yatırmaya mecbur oldukları paraların %10'u oranında ayrıca ceza tahsil olunur." denilmektedir.
+Bu hükme göre, yukarıdaki maddede sayılan müesseselerde istihkakı bulunanlara, bu madde uyarınca vergi tevkifatı yapılmamasını sağlamaya yönelik yazı (tasdikname) verilebilmesi için, mükellefler tarafından veraset ve intikal vergisi beyannamesinin verilmiş olması ve tasdikname istenilen para ve senetlerin bu beyannamede gösterilmiş bulunması, tahakkuk eden vergiden para ve senede isabet eden vergi tutarı ile vadesi geçmiş taksitlerin ödenmesi gerekmektedir.
+Bu nedenle, mirasçılarca teminat gösterilmesi suretiyle hisse senetlerinin serbest bırakılması mümkün bulunmamaktadır.
+Kaldı ki, 1996/5 Seri No.lu Veraset ve İntikal Vergisi Kanunu İç Genelgesinde, 7338 sayılı Veraset ve İntikal Vergisi Kanununun 17 nci maddesinde sayılan müesseselerde istihkakı bulunanların bu istihkakı vergi tevkifatına tabi tutulmadan alabilmeleri için, tahakkuk eden veraset ve intikal vergisinin tamamının mı, yoksa beyannameye dahil edilmiş olan istihkaklara isabet eden verginin tamamının mı ödenmesi şartının aranılacağı hususunda gerekli açıklamalar yapılmıştır.
+Bilgi edinilmesini ve söz konusu özelgenin yukarıdaki açıklamalar çerçevesinde değerlendirilmesini rica ederim.
+
+Başkan a.

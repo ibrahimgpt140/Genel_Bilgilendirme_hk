@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 36167
+baslik: "Banka tarafından yurtdışında mukim şirket lehine açılmış ve açılacak kredilerden doğmuş veya doğacak borçların teminatını teşkil etmek üzere Türkiye'de bulunan taşınmaz üzerine tapuda yapılacak ipotek tesisi işleminin harca tabi olup olmadığı hk."
+tarih: 2012-03-05
+sayi: "B.07.1.GİB.4.34.18.01-003.01-876"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36167
+gib_guncelleme: 2025-03-24T20:32:44
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Banka tarafından yurtdışında mukim şirket lehine açılmış ve açılacak kredilerden doğmuş veya doğacak borçların teminatını teşkil etmek üzere Türkiye'de bulunan taşınmaz üzerine tapuda yapılacak ipotek tesisi işleminin harca tabi olup olmadığı hk.
+
+**İlgili maddeler:** Madde 123 Özel kanunlardaki hükümler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+İVEDİ
+Sayı | : | B.07.1.GİB.4.34.18.01-003.01-876 | 05/03/2012
+Konu | : | Banka tarafından yurtdışında mukim şirket lehine kredi tesisinde taşınmaz üzerine konulacak ipotek işleminde harç
+
+İlgi'de kayıtlı özelge talep formunda, ... Bankası AŞ tarafından ... Şirketi lehine açılmış ve açılacak kredilerden doğmuş veya doğacak borçların teminatını teşkil etmek üzere müvekkiliniz ... 'ın maliki bulunduğu taşınmaz üzerine tapuda yapılacak ipotek tesisi işleminin harca tabi olup olmadığı hususunda bilgi verilmesi istenilmektedir.
+Bilindiği üzere, 492 sayılı Harçlar Kanunu'nun 123'üncü maddesinin üçüncü fıkrasında, "Anonim, eshamlı komandit ve limited şirketlerin kuruluş, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemler ile Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri (Bu kooperatifler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından bankalardan kullandırılacak krediler için verilecek kefaletler dahil) bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin işlemler bu Kanunda yazılı harçlardan müstesnadır." hükmü yer almaktadır.
+Kanun hükmünün incelenmesinden de anlaşılacağı üzere, bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin yapılan işlemler harca tabi tutulmayacaktır.
+Bu itibarla, yurt dışında mukim ... kullanacağı kredilerin teminatını teşkil etmek üzere müvekkiliniz ... maliki bulunduğu taşınmaz üzerine adı geçen banka lehine yapılacak ipotek tesisi işleminin, münhasıran adı geçen bankadan kullanılacak kredinin teminatına ilişkin olması ve bu kredi borcu dışındaki borçları kapsayacak nitelikte genel mahiyetli ifadeler içermemesi kaydıyla, 492 sayılı Harçlar Kanununun 123'üncü maddesi kapsamında harca tabi tutulmaması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

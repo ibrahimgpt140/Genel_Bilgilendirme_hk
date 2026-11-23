@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 31422
+baslik: "Sivil havacılık faaliyeti ile uğraşan mükellefin bu faaliyet çerçevesinde yapacağı uçak ithali işleminde K.D.V. istisnası uygulaması için bağlı bulunduğunuz vergi dairesine yazılı olarak başvurmak suretiyle, gümrük idaresine ibraz edilecek yazı alınması g"
+tarih: 1997-08-18
+sayi: "B.07.0.GEL.0.52/5213-1-2-34714"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31422
+gib_guncelleme: 2025-03-24T20:03:03
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Sivil havacılık faaliyeti ile uğraşan mükellefin bu faaliyet çerçevesinde yapacağı uçak ithali işleminde K.D.V. istisnası uygulaması için bağlı bulunduğunuz vergi dairesine yazılı olarak başvurmak suretiyle, gümrük idaresine ibraz edilecek yazı alınması g
+
+**İlgili maddeler:** Madde 13 Araçlar, kıymetli maden ve petrol aramaları ile ulusal güvenlik harcamaları ve yatırımlarda istisna (4); Madde 16
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 18.08.1997 SAYI : B.07.0.GEL.0.52/5213-1-2-34714 KONU : Sivil havacılık faaliyeti ile uğraşan mükellefin bu faaliyet çerçevesinde yapacağı uçak ithali işleminde K.D.V. istisnası uygulaması .......... İLGİ : 4.7.1997 tarihli dilekçeniz. İlgide kayıtlı dilekçeniz ve ekleri incelendi. 3065 sayılı Katma Değer Vergisi Kanununun değişik 13/a maddesi ile faaliyetleri kısmen veya tamamen hava taşıma araçlarının kiralanması veya çeşitli şekillerde işletilmesi olan mükelleflere bu amaçla yapılan hava taşıma aracı teslimleri katma değer vergisinden istisna edilmiştir. Aynı Kanunun 16/1-a maddesine göre, dahilde teslimi vergiden istisn a edilen hava taşıma araçlarının ithali de katma değer vergisinden müstesnadır. İstisna uygulamasına ilişkin açıklamaların yapıldığı 48 Seri No.lu Katma Değer Vergisi Genel Tebliğinin (A) bölümünde, asli faaliyet konusu; bedel karşılığı yük ve yolcu taşımak, reklam, hizmeti vermek, ilaçlama yapmak olan mükelleflere, bu faaliyetlerde kullanılacak hava taşıma aracı tesliminin katma değer vergisinden istisna olacağı belirtilmiştir. Bu hükümlere göre, asli faaliyet konuları arasında sivil havacılık faaliyetinde bulunmak, yolcu ve yük taşımak, reklam hizmeti vermek, ilaçlama yapmak, fotoğraf çekmek, kurtarma çalışmaları yapmak olan firmanızın bu faaliyetlerde kullanılmak üzere uçak ithalinde, Katma Değer Vergisi Kanununun 13/a maddesi kapsamında istisna uy g ulanması mümkün bulunmaktadır. Öte yandan dilekçenizde bahsi geçen uçağın, nakliyenin bir gereği olarak dilekçeniz ekinde yer alan ..... Bakanlığı'nın ..... tarih ve .... sayılı yazısında belirtildiği şekilde, üç parça kit olarak (gövde, motor ve avionik) ithalinin gerçekleştirilecek oluşu, istisna uygulanmasına engel değildir. Bu açıklamalara göre, asli faaliyetleriniz kapsamında işletilmek üzere uçak ithali işleminde katma değer vergisi istisnası uygulanması için, bağlı bulunduğunuz vergi dairesine yazılı olarak başvurmak suretiyle, gümrük idaresine ibraz edilecek yazı alınması gerekmektedir. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

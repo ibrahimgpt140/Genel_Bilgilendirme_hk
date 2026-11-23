@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 33479
+baslik: "Müşteri çekleriyle yapılan ödemenin müteselsil sorumluluğu ortadan kaldırıp kaldırmayacağı hk."
+tarih: 2012-03-06
+sayi: "B.07.1.GİB.4.34.17.01-KDV.32-884"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/33479
+gib_guncelleme: 2025-03-24T20:12:21
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Müşteri çekleriyle yapılan ödemenin müteselsil sorumluluğu ortadan kaldırıp kaldırmayacağı hk.
+
+**İlgili maddeler:** Madde 32 İstisna Edilmiş İşlemlerde İndirim
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.34.17.01-KDV.32-884 | 06/03/2012
+Konu | : | Müşteri çekleriyle yapılan ödemenin müteselsil sorumluluğu ortadan kaldırıp kaldırmayacağı.
+
+İlgi kayıtlı talep formunda, üzerinde birden fazla ciro bulunan müşteri çekleriyle yapılan ödemenin müteselsil sorumluluk kapsamında değerlendirilip değerlendirilemeyeceği konusunda Başkanlığımız görüşü talep edilmektedir.
+KDV Kanununun 32 maddesi hükmü kapsamında yer alan iade taleplerinin yerine getirilmesine ilişkin usul ve esaslar muhtelif tarihli KDV Genel Tebliğleri ile belirlenmiş, 84 Seri No.lu KDV Genel Tebliği'nin "Müteselsil Sorumluluk/İşleme Doğrudan Taraf Olanlar" başlıklı III/1.1. bölümünde ise mal alımlarına ait katma değer vergisi dahil toplam işlem bedelinin banka aracılığı ile yada çekle yapılmış olması halinde alıcıların müteselsil sorumluluk uygulaması ile muhatap tutulmayacakları açıklanmıştır.
+Öte yandan, 1 No.lu Vergi Usul Kanunu Sirkülerinin "Tahsilat ve Ödemelerde Ciro ve Beyaz Cirolu Çeklerin Kullanımı" başlıklı 2 nci bölümünde çek düzenlemeleri ile ilgili genel açıklamalara yer verilmiştir.
+Bu açıklamalar çerçevesinde, mal alışlarınıza yönelik ödemelerin müşterilerinizden alınan ve üzerinde ciro bulunan çeklerle yapılması durumunda, çeklerin Türk Ticaret Kanununun 697 nci maddesi ve 1 No.lu Vergi Usul Kanunu Sirkülerine uygun olarak düzenlenmesi, ayrıca söz konusu çeklerin kendi ödemelerinizde kullanıldığının yeminli mali müşavir tarafından düzenlenen KDV iadesi tasdik raporunda izah veya tevsik edilmesi şartıyla, bu ödemelerin de 84 Seri No.lu KDV Genel Tebliği'nin "III/1.1. bölümü kapsamında değerlendirilmesi mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

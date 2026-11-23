@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 37307
+baslik: "S.S.K.'ya ait binalardan çevre temizlik vergisi alınmamaktadır."
+tarih: 1997-08-13
+sayi: "B.07.0.GEL.0.66/6601-415/33986"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/37307
+gib_guncelleme: 2025-03-24T20:50:58
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# S.S.K.'ya ait binalardan çevre temizlik vergisi alınmamaktadır.
+
+**İlgili maddeler:** Mükerrer Madde 44 Çevre Temizlik Vergisi (1)
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 13.08.1997 SAYI : B.07.0.GEL.0.66/6601-415/33986 KONU : S.S.K.'na ait binalardan çevre temizlik vergisi alınıp alınmayacağı hk. İÇİŞLERİ BAKANLIĞI (Maha lli İdareler Genel Müdürlüğüne) İLGİ: 4.8.1997 gün ve B050MAH0740001/45643 sayılı yazınız. İlgide kayıtlı yazınız ekindeki .....Valiliğinin 17.7.1997 gün ve ÇTV/GLR/1211-1801 sayılı yazısı ve ekleri incelenmiş, konu ile ilgili Bakanlığımız görüşü aşağıda belirtilmiştir. Bilindiği üzere, 2464 sayılı Belediye Gelirleri Kanununun mükerrer 44 üncü maddesinin birinci fıkrasında, "Belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin katı atık toplama ve kanalizasyon hizmetlerinden yararlanan konut, işyeri ve diğer şekillerde kullanılan binalar çevre temizlik vergisine tabiidir." hükmü yer almaktadır. Aynı maddenin üçüncü fıkrasında da, Çevre temizlik vergisinin mükellefi, her ne şekilde olursa olsun binaları kullananlardır. Boş bulun a n binalarda bu verginin mükellefi binaların malikleri veya malik gibi tasarruf edenlerdir." denilmektedir. Ayrıca, anılan maddenin ikinci fıkrasında çevre temizlik vergisinin kapsamına dahil edilmeyen binalar sayılmış olup, bunlar arasında Sosyal Sigortalar Kurumuna ait binalar yer almamaktadır. Ancak, 4792 sayılı Sosyal Sigortalar Kurumu Kanununun vergi, resim ve harçlara ilişkin istisnaları düzenleyen 24'üncü maddesinin (a) fıkrasında, Kuruma ait taşınır ve taşınmaz mallar ile bunlardan elde edilen hak ve gelirlerin her türlü vergi, resim ve harçlardan muaf tutulması öngörülmektedir. Buna göre, ilgide kayıtlı yazınız ekindeki .....Valiliğinin yazısında sözü edilen Sosyal Sigortalar Kurumuna ait hastane binası ile Kuruma ait olup boş bulunan binalardan, yukarıda yer alan 4792 sayılı Kanunun 24'üncü maddesi hükmüne göre çevre temizlik vergisi alınmaması gerekmektedir. Diğer taraftan, adı geçen kuruma ait olmakla birlikte başkaları tarafından kullanılan binalar (lojmanlar dahil) için çevre temizlik vergisi alınacağı tabiidir. Bilgi edinilmesini ve konu hakkındaki Bakanlıkları görüşünüzün belirlenerek gerekli duyurunun yapılmasını arz ederim. Bakan a. Daire Başkanı

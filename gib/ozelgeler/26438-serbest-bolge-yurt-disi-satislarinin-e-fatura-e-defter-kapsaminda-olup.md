@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 26438
+baslik: "Serbest Bölge Yurt Dışı Satışlarının e-Fatura, e-Defter Kapsamında Olup Olmadığı hk."
+tarih: 2014-05-05
+sayi: "68554973-105[413-2013/22]-39"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26438
+gib_guncelleme: 2025-03-24T19:42:55
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Serbest Bölge Yurt Dışı Satışlarının e-Fatura, e-Defter Kapsamında Olup Olmadığı hk.
+
+**İlgili maddeler:** Mükerrer Madde 242 Elektronik ortamdaki kayıtlar ve elektronik cihazla belge düzenleme(*); Mükerrer Madde 257 Yetki
+
+T.C. GELİR İDARESİ BAŞKANLIĞI MERSİN VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | 68554973-105[413-2013/22]-39 | 05/05/2014
+Konu | : | Serbest Bölge Yurt Dışı Satışlarının e-Fatura, e-Defter Kapsamında Olup Olmadığı.
+
+İlgide kayıtlı özelge talep formunda, e-fatura uygulamasında 58 seri no.lu Sirkülerde esas alınan brüt satış hasılatında 25.000.000.-TL. sı ve yukarısı rakamlara yurt dışı satışlarının dahil olup olmadığını, firmanızın 2011 yılı satışlarının; 62.996.917.-TL.sının Serbest Bölge yurtdışı, 690.432,98 TL. sının merkez şube yurtdışı, 478.127.-TL.sının merkez şube yurtiçi olmak üzere toplam 64.195.476,98.-TL. olduğunu, firmanızın satış hasılatının serbest bölgeden yapılan yurt dışı satışlarından teşekkül ettiğini belirterek, yurt içi satışlarınızın 25.000.000.-TL.sının altında kalması nedeniyle e-fatura ve e-defter kapsamına dahil olup olmadığınızın bildirilmesi istenilmektedir.
+Bilindiği üzere; 213 sayılı Vergi Usul Kanunu'nun mükerrer 257 nci maddesinin birinci fıkrasının 1 inci bendinde, Maliye Bakanlığı'nın mükellef ve meslek grupları itibarıyla muhasebe usul ve esaslarını tespit etmeye, aynı Kanuna göre tutulmakta olan defter ve belgeler ile bunlara ilaveten tutulmasını veya düzenlenmesini uygun gördüğü defter ve belgelerin mahiyet, şekil ve ihtiva etmesi zorunlu bilgileri belirlemeye, bunlarda değişiklik yapmaya; bedeli karşılığında basıp dağıtmaya veya üçüncü kişilere bastırıp dağıtmaya veya dağıttırmaya, bunların kayıtlarını tutturmaya, bu defter ve belgelere tasdik, muhafaza ve ibraz zorunluluğu getirmeye veya kaldırmaya, yine aynı Kanuna göre tutulacak defter ve düzenlenecek belgelerin tutulması ve düzenlenmesi zorunluluğunu kaldırmaya yetkili olduğu,
+Aynı fıkranın 3 üncü bendinde, Maliye Bakanlığı'nın, tutulması ve düzenlenmesi zorunlu defter, kayıt ve belgelerin mikro film, mikro fiş veya elektronik bilgi ve kayıt araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda izin vermeye veya zorunluluk getirmeye, bu şekilde tutulacak defter ve kayıtların kopyalarının Maliye Bakanlığında veya muhafaza etmekle görevlendireceği kurumlarda saklanması zorunluluğu getirmeye, bu konuda uygulama usul ve esaslarını belirlemeye yetkili olduğu hüküm altına alınmıştır.
+Öte yandan, aynı Kanun'un mükerrer 242 nci maddesinin ikinci fıkrası ile Maliye Bakanlığı; elektronik defter, kayıt ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazı ile defter ve belgelerin elektronik ortamda tutulması ve düzenlenmesi uygulamasına ilişkin usul ve esasları belirlemeye, elektronik ortamda tutulmasına ve düzenlenmesine izin verilen defter ve belgelerde yer alması gereken bilgileri internet de dâhil olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında Maliye Bakanlığı'na veya Maliye Bakanlığı'nın gözetim ve denetimine tâbi olup, kuruluşu, faaliyetleri, çalışma ve denetim esasları Bakanlar Kurulu'nca çıkarılacak bir yönetmelikle belirlenecek olan özel hukuk tüzel kişiliğini haiz bir şirkete aktarma zorunluluğu getirmeye, bilgi aktarımında uyulacak format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit etmeye, aynı Kanun kapsamına giren işlemlerde elektronik imza kullanım usul ve esaslarını düzenlemeye ve denetlemeye, ayrıca, Vergi Usul Kanunu ve diğer vergi kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan hükümlerin elektronik defter, kayıt ve belgeler için de geçerli olduğu; Maliye Bakanlığı'nın, elektronik defter, belge ve kayıtlar için diğer defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye yetkili olduğu hükme bağlanmıştır.
+421 sıra no.lu Vergi Usul Kanunu Genel Tebliği ile;
+04/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu kapsamında madeni yağ lisansına sahip olanlar ile bunlardan 2011 takvim yılında mal alan mükelleflerden 31/12/2011 tarihi itibariyle asgari 25 Milyon TL. brüt satış hasılatına sahip olanların,
+06/06/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu'na ekli (III) sayılı listedeki malları imal, inşa veya ithal edenler ile bunlardan 2011 takvim yılında mal alan mükelleflerden 31/12/2011 tarihi itibariyle asgari 10 Milyon TL. brüt satış hasılatına sahip olanların,
+elektronik defter tutma ve elektronik fatura uygulamasına dâhil olma zorunluluğu getirilmiş ve elektronik fatura uygulamasına 2013 takvim yılı (1/9/2013 tarihi itibariyle Gelir İdaresi Başkanlığı'na başvurulması gerekmektedir.), elektronik defter uygulamasına ise 2014 takvim yılı (Elektronik defter yazılımlarını kendi geliştiren mükelleflerin 01/09/2014 tarihi itibariyle elektronik defter test süreçlerini başarı ile tamamlamış olmaları gerekmektedir.) içerisinde geçmek zorunda oldukları,
+hükme bağlanmıştır.
+Konuyla ilgili olarak yayımlanan 58 sayılı Vergi Usul Kanunu Sirküleri'nde;
+5015 sayılı Petrol Piyasası Kanunu kapsamında madeni yağ lisansına sahip olan mükelleflerden 2011 takvim yılı içinde mal alışı yapanlar, satın aldıkları malın türüne, fiyatına, miktarına veya herhangi bir özelliğine bakılmaksızın, 2011 yılı gelir tablolarındaki brüt satış hasılatı rakamları 25 Milyon TL veya daha yüksek ise elektronik fatura ve elektronik defter uygulamalarına dahil olacaklardır. Lisans sahibi mükelleflerden alış yapanların, madeni yağ sektöründe veya başka bir sektörde faaliyet göstermesi zorunluluk karşısındaki durumlarını etkilememektedir.
+4760 sayılı Özel Tüketim Vergisi Kanunu'na ekli (III) sayılı listedeki malları imal, inşa veya ithal eden mükelleflerden 2011 takvim yılı içinde mal alışı yapanlar, satın aldıkları malın türüne, fiyatına, miktarına veya herhangi bir özelliğine bakılmaksızın 2011 yılı gelir tablolarındaki brüt satış hasılatı rakamları 10 Milyon TL. veya daha yüksek ise elektronik fatura ve elektronik defter uygulamalarına dahil olacaklardır. Bu kapsamda alış yapanların tütün, alkol, kolalı gazozlar sektörlerinde veya başka sektörlerde faaliyet göstermesi zorunluluk karşısındaki durumlarını etkilememektedir.
+Madeni yağ lisansına sahip olan ve 4760 sayılı Özel Tüketim Vergisi Kanunu'na ekli (III) sayılı listedeki malları imal, inşa veya ithal eden mükelleflerden sadece mal alışları bulunan mükellefler Genel Tebliğ kapsamında elektronik fatura ve elektronik defter uygulamalarına dahil olacaklardır. Hizmet alımları kapsam dahilinde değildir.
+Mükellefler brüt satış hasılatlarının hesaplanmasında, sadece madeni yağ, tütün, alkol veya kolalı gazoz satışları değil gelir tablosunda yer alan bütün satışları gösteren brüt satış hasılatına göre zorunluluk kapsamına alınacağı açıklamalarına yer verilmiştir.
+Buna göre, 4760 sayılı ÖTV Kanunu'na ekli (III) sayılı listedeki malların imal, inşa veya ithal edenlerden 2011 takvim yılında mal alan ve 31/12/2011 tarihi itibariyle asgari 10 milyon TL brüt satış hasılatına sahip olan mükellefler ile 5015 sayılı Petrol Piyasası Kanunu kapsamında madeni yağ lisansına sahip olanlar ile bunlardan 2011 takvim yılında mal alan mükelleflerden 31/12/2011 tarihi itibariyle asgari 25 Milyon TL. brüt satış hasılatına sahip olan mükelleflerin satın aldıkları malın türüne, fiyatına, miktarına veya herhangi bir özelliğine (sadece tüketim amaçlı olup, ticari amaçla satın alınıp alınmadığı dahil) bakılmaksızın söz konusu Tebliğ ve Sirkülerde belirlenen şartları taşımanız halinde elektronik defter ve elektronik fatura kullanma zorunluluğunuz bulunmaktadır.
+Brüt satış hasılatının hesaplanmasında, yurtiçi ya da yurt dışı satış hasılatlarınızın değil şirketinizin 2011 yılı gelir tablosunda yer alan bütün satışları gösteren brüt satış hasılatının dikkate alınması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

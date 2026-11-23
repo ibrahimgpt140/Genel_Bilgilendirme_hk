@@ -1,0 +1,37 @@
+---
+tur: Özelge
+gib_id: 35787
+baslik: "Kullanılan kredinin geri ödenmemesinden dolayı borçluya ait taşınmazın ipotek alacaklısı şirkete mülkiyetin devri ile söz konusu taşınmaz için şirket lehine vefa hakkı tesisine ilişkin işlemlerin harçtan ve damga vergisinden muaf olup olmadığı hk."
+tarih: 2012-08-23
+sayi: "B.07.1.GİB.4.48.15.01-HK/16-140"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/35787
+gib_guncelleme: 2025-03-24T20:29:58
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kullanılan kredinin geri ödenmemesinden dolayı borçluya ait taşınmazın ipotek alacaklısı şirkete mülkiyetin devri ile söz konusu taşınmaz için şirket lehine vefa hakkı tesisine ilişkin işlemlerin harçtan ve damga vergisinden muaf olup olmadığı hk.
+
+**İlgili maddeler:** Madde 57 Mevzu; Madde 123 Özel kanunlardaki hükümler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI MUĞLA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.48.15.01-HK/16-140 | 23/08/2012
+Konu | : | Kredi borcunun ödenmemesinden dolayı taşınmazın bankaya devrinde damga ve harç istisnası.
+
+İlgide kayıtlı özelge talep formunun incelenmesinden; şirketiniz tarafından ... A.Ş'den kullanılan kredinin geri ödenmemesinden dolayı ... İlçesi, ... Mahallesi ... ada ... parselde şirketiniz adına kayıtlı bulunan taşınmazın ipotek alacaklısı ... A.Ş'ye mülkiyetin devri ile söz konusu taşınmaz için şirketiniz lehine ... tarihine kadar geçerli olmak üzere ... . bedelle vefa hakkı tesisine ilişkin işlemlerin harçtan ve damga vergisinden muaf olup olmadığı hususunda Başkanlığımız görüşü talep edildiği anlaşılmıştır.
+492 Sayılı Harçlar Kanununun 57'nci maddesinde; "Tapu ve kadastro işlemlerinden bu kanuna bağlı (4) sayılı tarifede yazılı olanları, tapu ve kadastro harçlarına tabidir" denilmekte olup, 4 sayılı tarifenin "I-Tapu İşlemleri" başlıklı bölümünün 9'uncu maddesinde, mal birliği ve mal ortaklığının, mukaveleden mütevellit şüf'a, iştira ve vefa haklarının, aile yurtlarının mutlak veya nakil ile mükellef mirasçı nasbının sicile şerhinden veya tescilinden kayıtlı değer üzerinden harç aranılacağı hüküm altına alınmıştır. Sözkonusu harç oranları 29/12/2009 tarih ve 2009/15725 sayılı Bakanlar Kurulu Kararı ile 01/01/2010 tarihinden itibaren geçerli olmak üzere tarifenin I/9 uncu maddesi için binde 5,94 olarak belirlenmiştir.
+Aynı Kanunun 15.06.2012 tarih ve 28324 sayılı resmi gazetede yayınlanan 6322 sayılı Kanun ile değişmeden önceki 123'üncü maddesinin üçüncü fıkrasında; "Anonim, eshamlı komandit ve limited şirketlerin kuruluş, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemler ile Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri (Bu kooperatifler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından bankalardan kullandırılacak krediler için verilecek kefaletler dahil) bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin işlemler bu Kanunda yazılı harçlardan müstesnadır." hükmü yer almaktadır.
+Ayrıca, 01/11/2005 tarihinde yayımlanan 2005/1 No.lu Harçlar Kanunu Sirkülerinde; "Bankalar, özel finans kurumları, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılan kredilerin vadesinde ödenememesi sebebiyle kredi borçlusunun veya kefillerinin, borca karşılık teminat gösterilen gayrimenkullerinin krediyi kullandıran kuruluş tarafından satın alınması halinde istisna, söz konusu gayrimenkullerin kredi kuruluşunun aktifine girmesine kadar geçecek süreçte noterde, yargıda, icrada ve tapuda yapılacak işlemler nedeniyle doğacak harçlarla sınırlı olup, şirket aktifine kaydedilen gayrimenkullerin daha sonra satılması işlemlerinin harçtan bağışık tutulmasına imkan bulunmamaktadır." denilmektedir.
+Diğer taraftan, 488 sayılı Damga Vergisi Kanununun 1'inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3'üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu; 6'ncı maddesinin birinci fıkrasında, bir kâğıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların her birinden ayrı ayrı vergi alınacağı; 9'uncu maddesinde, bu Kanuna ekli (2) sayılı tabloda yazılı kağıtların damga vergisinden müstesna olduğu; Kanuna ekli (1) sayılı tablonun "I- Akitlerle İlgili Kağıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin nispi damga vergisine tabi olacağı hüküm altına alınmıştır. 2009/15725 sayılı Bakanlar Kurulu Kararı ile 1/1/2010 tarihinden itibaren geçerli olmak üzere damga vergisi oranları, Kanuna ekli (1) sayılı tablonun I/A-1 fıkrasındaki kağıtlar için binde 8,25 olarak belirlenmiştir.
+488 sayılı Damga Vergisi Kanuna ekli (2) sayılı tablonun "IV. Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümünün 15.06.2012 tarih ve 28324 sayılı resmi gazetede yayınlanan 6322 sayılı Kanun ile değişmeden önceki 23'üncü fıkrasında ise, bankalar, yurt dışı kredi kuruluşları ve uluslar arası kurumlarca kullandırılacak kredilerin temini ve geri ödenmesi amacıyla düzenlenecek kağıtlar ile bu kağıtlar üzerine konulacak şerhlerin (Kredi kullanımları hariç) damga vergisinden istisna edileceği hükme bağlanmıştır.
+Diğer taraftan, 4 Seri No.lu Damga Vergisi Sirkülerinde, Kanun kapsamındaki kredi tanımına, Bankalar Kanununa göre kredi olarak kabul edilen nakdi krediler ile teminat mektupları, kefalet, aval, ciro ve kabuller gibi gayrinakdi kredilerin gireceği, akreditiflerin de bu kapsamda değerlendirileceği belirtilmiştir.
+Ayrıca, 18 Seri No.lu Damga Vergisi Sirkülerinin "3- Kredinin teminatına ilişkin damga vergisi ve harç istisnası uygulaması" başlıklı bölümünde, söz konusu istisna kapsamında kullandırılan kredinin teminatına ilişkin olarak düzenlenen kağıtlar ile bu amaçla yapılan işlemlere münhasıran kullandırılan krediye ilişkin olması kaydıyla istisnanın uygulanması gerektiği açıklanmıştır.
+Bu itibarla; ... ilçesi, ... Mahallesi ... ada ... parselde şirketiniz adına kayıtlı bulunan gayrimenkulün, kredinin ödenmemesinden dolayı ipotek alacaklısı olan ... A.Ş.'ye mülkiyetin devri işleminin tapu harcından istisna tutulması gerekmekte olup, düzenlenen akitin ise şirketiniz adına kayıtlı bulunan söz konusu gayrimenkulün, bankadan kullanılan kredinin teminatını teşkil etmesi ve münhasıran bankadan kullandırılan krediye ilişkin olması kaydıyla adı geçen bankaya devir işlemi ile ilgili kısmının damga vergisinden istisna edilmesi gerekmektedir.
+Ancak, şirketiniz lehine vefa hakkı tesis edilmesine ilişkin işlemin istisna kapsamında değerlendirilmesi mümkün bulunmadığından, 492 sayılı Harçlar Kanununa ekli (4) sayılı tarifenin I/9 maddesi uyarınca tapu harcına ve 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun I/A-1 fıkrasına göre vefa hakkına ilişkin belirtilen bedel üzerinden damga vergisine tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

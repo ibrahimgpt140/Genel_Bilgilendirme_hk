@@ -1,0 +1,73 @@
+---
+tur: Özelge
+gib_id: 25642
+baslik: "Üçüncü şahıslar tarafından abonelere düzenlenen faturaların bayii tarafından ödenmesi ve bedelsiz olarak abonelere verilen ürünlere ilişkin belge düzeni hk."
+tarih: 2014-08-27
+sayi: "27575268-105[8705]-826 "
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/25642
+gib_guncelleme: 2025-03-24T19:40:21
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Üçüncü şahıslar tarafından abonelere düzenlenen faturaların bayii tarafından ödenmesi ve bedelsiz olarak abonelere verilen ürünlere ilişkin belge düzeni hk.
+
+**İlgili maddeler:** Madde 227 İspat Edici Kağıtlar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+ANKARA VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Usul Grup Müdürlüğü)
+
+Sayı : 27575268-105[8705]-826 27/08/2014
+Konu : Üçüncü şahıslar tarafından abonelere düzenlenen faturaların bayii tarafından ödenmesi ve bedelsiz olarak abonelere verilen ürünlere ilişkin belge düzeni hk.
+İlgi : .../.../... tarihli ve 79477 sayılı özelge talep formunuz.
+Özelge talep formunuzda; ...... Vergi Dairesi Müdürlüğünün ............... vergi kimlik numaralı mükellefi olan şirketinizin ..................... sözleşme kapsamında bayisi olduğu, şirketiniz vasıtasıyla abonelikleri yapılan müşterileriniz adına ..................... tarafından düzenlenen faturaların belirli bir süre şirketiniz tarafından ödenerek kanunen kabul edilmeyen gider olarak kaydedildiği; ayrıca pazarlama ve satış faaliyeti kapsamında belirli şartları sağlayan müşterilerinize bedelsiz olarak verilen ürünlerin bedellerinin kurum kazancının tespitinde gider olarak dikkate alındığı, müşterilerinize ise satış bedeli ve tenzilatın gösterildiği bedelsiz fatura düzenlendiği belirtilerek müşterileriniz adına ........................ tarafından düzenlenen ancak şirketiniz tarafından ödenen tutarların kurum kazancının tespitinde gider olarak dikkate alınıp alınamayacağı ile müşterilerinize bedelsiz olarak verilen ürünlerin bedellerinin kurum kazancının tespitinde gider olarak dikkate alınmasında muhasebe kayıtlarının nasıl yapılacağı hususlarında Başkanlığımız görüşü talep edilmektedir.
+I-KURUMLAR VERGİSİ KANUNU YÖNÜNDEN:
+5520 sayılı Kurumlar Vergisi Kanununun 6 ncı maddesinde kurumlar vergisinin mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde, Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hükme bağlanmış olup, safi kurum kazancının tespitinde Kurumlar Vergisi Kanununun 8 inci maddesi ile Gelir Vergisi Kanununun 40 ıncı maddesindeki giderler, hasılattan indirim konusu yapılabilecektir.
+193 sayılı Gelir Vergisi Kanununun 38 inci maddesinde ise
+"Bilanço esasına göre ticari kazanç, teşebbüsteki öz sermayenin hesap dönemi sonunda ve başındaki değerleri arasındaki müspet farktır. Bu dönem zarfında sahip veya sahiplerce;
+1- İşletmeye ilave olunan değerler bu farktan indirilir;
+2- İşletmeden çekilen değerler ise farka ilave olunur.
+Ticari kazancın bu suretle tespit edilmesi sırasında, Vergi Usul Kanunun değerlemeye ait hükümleri ile bu Kanunun 40 ve 41 inci maddeleri hükümlerine uyulur." hükmüne yer verilmiştir.
+Aynı Kanunun 40 ıncı maddesinde ise safi kazancın tespit edilmesinde indirilebilecek giderler sayılmış olup, aynı maddenin (1) numaralı bendinde, ticari kazancın elde edilmesi ve idame ettirilmesi için yapılan genel giderlerin safi kazancın tespitinde gider olarak indirilebileceği belirtilmiştir.
+Bir giderin kazancın elde edilmesi ve idamesi ile ilgili olduğunun kabulü için; giderle kazancın elde edilmesi ve idamesi arasında illiyet bağının bulunması, giderin keyfi olmaması yani kazancın elde edilmesi için mecburi olarak yapılması, yapılan gider karşılığında gayrimaddi bir kıymet iktisap edilmemiş olması ve bu giderlerin tevsik edici belgelere dayanması (fatura, fatura yerine geçen vesikalar gibi) ve yasal kayıtlarda izlenmesi gerekmektedir.
+Diğer taraftan, promosyon kampanyalarının düzenlenmesindeki amaç ürün satışının, dolayısıyla işletmenin ticari kazancının artırılmasıdır. Bu nedenle, promosyon amaçlı bedelsiz verilen malın, satışların artırılması amacıyla yapılan pazarlama harcaması niteliğinde olduğunun kabul edilmesi gerekmektedir. İşletme ile ilgili pazarlama harcamaları ise genel gider niteliğindedir. Ancak, promosyon amaçlı bedelsiz verilen malın kurum kazancının tespitinde gider olarak değerlendirilebilmesi için işin ehemmiyet ve genişliği ile orantılı olmasının gerekeceği tabiidir.
+Bu hüküm ve açıklamalara göre, şirketinizin bayisi olduğu ......................, sunmuş olduğu hizmetlere istinaden bu hizmetten yararlanan aboneleri adına düzenlemiş oldukları fatura bedelleri, şirketiniz tarafından ödenmiş olsa dahi söz konusu giderlere ilişkin tevsik edici belgenin şirketiniz adına düzenlenmemiş olması nedeniyle kurum kazancınızın tespitinde gider olarak indirim konusu yapılamayacaktır.
+Öte yandan, pazarlama ve satış aktiviteleri kapsamında, belirli şartları sağlayan abonelere işin ehemmiyet ve genişliği ile orantılı olmak kaydıyla ücretsiz olarak verilen ürünlerin alış bedellerinin Gelir Vergisi Kanununun 40 ıncı maddesinin birinci fıkrasının (1) numaralı bendi kapsamında gider olarak dikkate alınması mümkün bulunmaktadır.
+Il-KATMA DEĞER VERGİSİ YÖNÜNDEN:
+3065 sayılı KDV Kanununun;
+-1/1 maddesinde ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde
+Türkiye'de yapılan teslim ve hizmetlerin katma değer vergisine tabi olduğu,
+-29/1 maddesinde, mükelleflerin, yaptıkları vergiye tabi işlemler üzerinden hesaplanan katma değer vergisinden, bu Kanunda aksine hüküm olmadıkça, faaliyetlerine ilişkin olarak kendilerine yapılan teslim ve hizmetler dolayısıyla hesaplanarak düzenlenen fatura ve benzeri vesikalarda gösterilen katma değer vergisini indirebilecekleri; indirim hakkının da vergiyi doğuran olayın vuku bulduğu takvim yılı aşılmamak şartıyla, ilgili vesikaların kanuni defterlere kaydedildiği vergilendirme döneminde kullanılabileceği,
+-30/d maddesinde, Gelir ve Kurumlar Vergisi kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen katma değer vergisinin indirilemeyeceği, hüküm altına alınmıştır.
+Diğer taraftan promosyon ürünleri ile numune ve eşantiyon verilmesinde KDV uygulamasının usul ve esaslarının belirlendiği 50 Seri No.lu KDV Genel Tebliği'nin A/1 bölümünde,
+"Ticari hayatta, ticareti yapılan mallara olan talebin artırılması amacıyla, bir takım pazarlama teknikleri geliştirilmekte, satışı yapılan malın yanında başka bir malın ayrıca bir bedel alınmaksızın verilmesi de sıkça karşılaşılan bir pazarlama tekniği olarak ortaya çıkmaktadır. Bir malın tasarruf hakkının malik veya adına hareket edenlerce, alıcıya veya adına hareket edenlere devri olarak tanımlanan teslim hükümleri çerçevesinde ticari bir işletmenin yaptığı bedelsiz teslimler de katma değer vergisine konu olmaktadır.
+Ancak, firmaların iktisadi faaliyetini genişletme, emsal işletmelerle rekabet edebilme, üretim veya satışını yaptıkları mallara olan talebi koruma veya artırma amacıyla bir malın yanında başka bir mal verilmesi şeklinde gerçekleşen işlemlerde, promosyon ürünü açısından bir bedelsiz teslim söz konusu olmamaktadır. Zira, firmanın genişleyen faaliyetiyle bağlantılı olarak işletmede yaratılan katma değer artmaktadır. Nitekim piyasadan satın alınan veya ithal edilen malların promosyon ürünü olarak müşterilere verilmesi, mükellefler açısından pazarlama gideri niteliğini taşımakta ve bu malların alış bedelleri Gelir Vergisi Kanununun 40 'ıncı maddesinin 1 numaralı bendine göre gider olarak kaydedilebilmektedir.
+Dolayısıyla, firmanın yarattığı katma değer içerisinde vergilenen promosyon mallarının müşterilere verilmesi sırasında katma değer vergisi hesaplanmasına gerek bulunmamakta ve bu ürünler için yüklenilen katma değer vergisinin ise prensip olarak indirim konusu yapılması gerekmektedir.
+Bu durum, katma değer vergisi sistemindeki farklı oran uygulaması nedeniyle bazı sorunlara neden olmakta ve düşük oranda vergiye tabi bir malın yanında yüksek oranda vergiye tabi bir malın promosyon ürünü olarak verildiği hallerde, promosyon olarak verilen malların ticaretini yapan firmalar açısından haksız rekabet sorunu ortaya çıkmaktadır.
+Katma Değer Vergisi Kanununun 29/'üncü maddesi ile vergi indirimi uygulamasında doğabilecek aksaklıkları, vergi mükerrerliğine ve vergi muafiyetine meydan vermeyecek şekilde, bu Kanunun ana ilkelerine uygun olarak giderme ve indirimle ilgili usul ve esasları düzenleme konusunda Bakanlığımıza yetki verilmiş bulunmaktadır.
+Bu yetki çerçevesinde, promosyon ürünü olarak verilen malın (aynı işletmede imal veya inşa edilenler dahil) tabi olduğu katma değer vergisi oranının;
+- Satışı yapılan mala ait katma değer vergisi oranına eşit veya daha düşük oranda olması halinde promosyon ürünü için yüklenilen katma değer vergisinin tamamının indirim konusu yapılması,
+- Satışı yapılan malın tabi olduğu katma değer vergisi oranından yüksek olması halinde ise promosyon ürünü için yüklenilen katma değer vergisinden, satışı yapılan malın tabi olduğu orana isabet eden kısmın indirim konusu yapılması, kalan kısmın gelir veya kurumlar vergisi açısından gider veya maliyet olarak dikkate alınması, uygun görülmüştür.
+Her iki durumda da, promosyon ürünü olarak satın alınan, ithal edilen ya da aynı işletmede imal veya inşa edilen malların; ne kadarının aynı dönemde ayrıca bir bedel tahsil edilmeksizin verileceği, ne kadarının stoklarda kalacağı bilinemediğinden bu mallara ilişkin olarak yüklenilen vergi, öncelikle "indirilecek katma değer vergisi" hesabına alınacaktır. Birinci durumda, promosyon mallarının alımı, imal veya inşası ile her hangi bir bedel alınmaksızın müşterilere verilmesi işleminin aynı dönemde veya farklı dönemlerde gerçekleşmesi, bu mallarla ilgili olarak yüklenilip indirim konusu yapılacak katma değer vergisi açısından bir önem
+taşımamaktadır.
+Promosyon ürününün tabi olduğu katma değer vergisi oranının, satışı yapılan malın tabi olduğu orandan yüksek olduğu hallerde ise;
+- Promosyon olarak verilen malların alımı, imal veya inşası ile ayrıca bir bedel tahsil edilmeksizin müşterilere verilmesi işleminin aynı dönemde gerçekleşmesi halinde bu mallarla ilgili olarak yüklenilen ve öncelikle "indirilecek katma değer vergisi" hesabına alınmış olan katma değer vergisinden, satışı yapılan malın tabi olduğu orana isabet eden kısım dışındaki tutar, "indirilecek katma değer vergisi" hesabından çıkarılarak gider hesaplarına intikal ettirilecektir.
+- Promosyon, ürününün satın alındığı ya da işletmede imal veya inşa edildiği dönemde değil de, daha sonraki dönemlerde müşterilere verilmesi halinde ise bu ürünlerle ilgili olarak malların satın alındığı, imal veya inşa edildiği dönem beyannamesinde "indirilecek katma değer vergisi" olarak beyan edilen tutardan, satışı yapılan malın tabi olduğu orana isabet eden kısmın düşülmesinden sonra kalan tutar, ürünlerin ayrıca bir bedel alınmaksızın teslim edildiği dönem beyannamesinin 47'nci satırına dahil edilerek beyan edilecek ve aynı miktar gider veya maliyet hesaplarına alınacaktır." açıklamalarına yer verilmiştir.
+Bu hüküm ve açıklamalara göre, şirketinizin bayisi olduğu ............... tarafından aboneleri adına düzenlenen ancak şirketiniz tarafından ödenen fatura bedelleri Gelir Vergisi Kanununa göre kazancın tespitinde indirimi kabul edilmeyen gider olarak değerlendirildiğinden KDV Kanununun 30/d maddesine göre bu ödemelere ilişkin KDV'nin indirim konusu yapılması mümkün bulunmamaktadır.
+Diğer taraftan işin ehemmiyet ve genişliğiyle orantılı olması şartıyla abonelere ücretsiz olarak verilen ürünlere ilişkin yüklenilen KDV'nin 50 Seri No.lu KDV Genel Tebliği'nde yapılan açıklamalar çerçevesinde indirim konusu yapılması mümkün bulunmaktadır.
+m-VERGİ USUL KANUNU YÖNÜNDEN:
+213 sayılı Vergi Usul Kanununun "îspat edici kağıtlar" başlıklı 227 nci maddesinde; "Bu Kanunda aksine hüküm olmadıkça, bu Kanuna göre tutulan ve üçüncü şahıslarla olan münasebet ve muamelelere ait olan kayıtların tevsiki mecburidir." hükmüne yer verilmiş olup, söz konusu kayıtların ise Kanunun 229 ve müteakip maddelerinde yer alan belgelerden herhangi biri ile tevsik edilmesi gerekmektedir.
+Aynı Kanunun 229 uncu maddesinde; "Fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesikadır." şeklinde tanımlanmış, Kanunun 231 inci maddesinin (5) numaralı bendinde ise; "Fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami yedi gün içinde düzenlenir. Bu süre içerisinde düzenlenmeyen faturalar hiç düzenlenmemiş sayılır..." hükmüne yer verilmiştir.
+Buna göre; şirketinizin bayisi olduğu ................ tarafından aboneleri adına düzenlenen ancak şirketiniz tarafından ödenen fatura bedellerinin ticari faaliyetinizle ilişkilendirilmesi söz konusu olmadığından yapılan bu ödemeler için tarafınızca Vergi Usul Kanununa göre bir belge düzenlenmesi mümkün bulunmamaktadır.
+Diğer taraftan; pazarlama ve satış aktiviteleri kapsamında satışları artırmak amacıyla belirli şartları sağlayan abonelere bedelsiz olarak verilen ve promosyon olarak kabul edilen ürünler için fatura düzenlenmesine gerek bulunmamaktadır.
+Öte yandan, tek düzen muhasebe sisteminin uygulanmasına ilişkin açıklamalar, 26/12/1992 tarihve 21447 mükerrer sayılı Resmi Gazete'de yayımlanan 1 Sıra No'lu Muhasebe Sistemi Uygulama Genel Tebliği ve daha sonra bu konuda yayımlanan diğer Tebliğlerde yapılmış bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+Vergi Dairesi Başkanı a.
+Grup Müdürü
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413 .maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir. (***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

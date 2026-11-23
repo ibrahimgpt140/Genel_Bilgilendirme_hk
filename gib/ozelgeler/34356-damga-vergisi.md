@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 34356
+baslik: "Damga Vergisi"
+tarih: 2019-09-02
+sayi: "B.07.1.GİB.4.06.17.02-155.01.01.01[5026]-287961"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34356
+gib_guncelleme: 2025-03-24T20:18:11
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Damga Vergisi
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+ANKARA VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Kdv ve Diğer Vergiler Müdürlüğü
+
+Sayı : 90792880-155.01.01.01[5026]-287961 02.09.2019
+Konu : Damga Vergisi
+
+İlgi (a)'da kayıtlı özelge talep formu ve ekleri ile ilgi (b)'de kayıtlı yazınız ekindeki belgelerin incelenmesinden, … Okulu ve Eğitim Tümen Komutanlığı Kışla Gazino Müdürlüğü tarafından ihalesi yapılan ve şirketiniz yükleniminde bulunan "… Mal ve Hizmet Alımı İşi" ile ilgili olarak düzenlenen sözleşmede belirli bir tutara yer verilmemesi nedeniyle damga vergisinin hesap edilemediğinden bahisle söz konusu sözleşmeye ait damga vergisinin ödenip ödenmeyeceği hususunda görüş talep edildiği anlaşılmaktadır.
+
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu; 4 üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı, mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınacağı; 10 uncu maddesinde, damga vergisinin nispi veya maktu olarak alınacağı, nispi vergide, kağıtların nevi ve mahiyetlerine göre, bu kağıtlarda yazılı belli paranın, maktu vergide kağıtların mahiyetlerinin esas olduğu, belli para teriminin, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade edeceği hükümlerine yer verilmiştir.
+
+Anılan Kanuna ekli (1) sayılı tablonun "I-Akitlerle ilgili kağıtlar" başlıklı bölümünün A/9 fıkrasında, resmi dairelerin mal ve hizmet alımlarına ilişkin yaptıkları ihalelerde ihaleyi yapan idare ile düzenlenen sözleşmelerin nispi damga vergisine tabi olacağı hükme bağlanmıştır.
+
+Özelge talep formunuz ekinde yer alan … Okulu ve Eğitim Tümen Komutanlığı Kışla Gazino Müdürlüğü tarafından ihalesi yapılan "… Mal ve Hizmet Alımı İşi"ne ilişkin olarak düzenlenen sözleşmenin, "Sözleşmenin konusu" başlıklı 5 inci maddesinde, sözleşmenin konusunun teknik şartnamedeki çizelgede yer alan 156 kalem malın, … Mayıs 2017 - … Mayıs 2020 tarihleri arasında 3 (üç) yıllık süre ve ilk yıl sabit fiyatlar sonraki yıllar ise bir önceki yılın TÜFE+TEFE ortalaması dikkate alınarak mal ücretlerinin belirleneceği mal ve hizmet alım işi olduğu; "Sözleşmenin türü ve bedeli" başlıklı 6 ncı maddesinde, aylık olarak elde edilecek cironun %85'inin yüklenici tarafından idareye fatura kesilmek suretiyle ödenmesi, kalan %15'inin ise idareye ciro primi şeklinde verilmesi üzerinden akdedildiği; "Sözleşmenin ekleri" başlıklı 9 uncu maddesinde, ihale dokümanının (teklif mektupları, ihale karar tutanağı) bu sözleşmenin ayrılmaz parçası olduğu; 10 uncu maddesinde, sözleşme süresinin, işe başlama tarihinden itibaren 3 (üç) yıl olduğu belirlemelerine yer verildiği anlaşılmıştır.
+
+Buna göre, sözleşmede bedele yer verilmemekle birlikte ihale karar tutanağının sözleşmenin ayrılmaz parçası olduğu belirlemesine yer verildiği dikkate alındığında, söz konusu sözleşmenin atıf yapılan ihale karar tutanağındaki ihale bedeli üzerinden 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun I/A-9 fıkrasına göre damga vergisine tabi tutulması gerekmektedir.
+
+Diğer taraftan, sözleşme süresinin diğer yılları için mal ve hizmet bedellerinin belli edilmesine yönelik olarak sözleşmeye şerh konulması ya da belli parayı ihtiva eden ve ilk sözleşmeye atıf yapan yeni bir kağıt düzenlenmesi halinde, sözleşme değişikliğine ilişkin bu kağıdın/şerhin ayrıca damga vergisine tabi tutulacağı tabiidir.
+
+Bilgi edinilmesini rica ederim.

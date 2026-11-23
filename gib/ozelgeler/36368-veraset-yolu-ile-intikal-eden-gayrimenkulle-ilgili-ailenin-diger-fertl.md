@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 36368
+baslik: "Veraset yolu ile intikal eden gayrimenkulle ilgili ailenin diğer fertleri tarafından doldurulan veraset beyannamenin tarafınızca imzalanmasında bir sakınca olup olmadığı hususunda"
+tarih: 2006-06-05
+sayi: "B.07.1.GİB.0.60/6000-2381/ 042100"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36368
+gib_guncelleme: 2025-03-24T20:34:55
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Veraset yolu ile intikal eden gayrimenkulle ilgili ailenin diğer fertleri tarafından doldurulan veraset beyannamenin tarafınızca imzalanmasında bir sakınca olup olmadığı hususunda
+
+**İlgili maddeler:** Madde 4 İstisnalar; Madde 5 Verginin mükellefi; Madde 7 Beyanname; Madde 8 Beyannamenin verileceği yer; Madde 14 Verginin tarhı
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI :B.07.1.GİB.0.60/6000-2381/ 042100 ANKARA
+KONU :
+
+05.06.2006
+
+Sayın .......... .........
+...............
+
+İLGİ: 01/05/2006 tarihli dilekçeniz.
+4982 sayılı Bilgi Edinme Hakkı Kanunu gereğince, Bakanlığımız Basın ve Halkla İlişkiler Müşavirliğine yapmış olduğunuz 01/05/2006 tarihli bilgi edinme başvuru formunda; Babanızın 2001 yılında vefatı üzerine veraset yoluyla intikal eden gayrimenkulle ilgili kardeşiniz ve anneniz tarafından düzenlenen veraset ve intikal vergisi beyannamesinin tarafınızca imzalanması durumunda bir sakınca bulunup bulunmadığı hususlarında bilgi istenilmektedir.
+7338 sayılı Veraset ve İntikal Vergisi Kanunu'nun 5 inci maddesinde veraset ve intikal vergisi mükellefinin veraset yoluyla veya ivazsız bir tarzda mal iktisap eden şahıs olduğu belirtilmiş, aynı Kanun'un 7 inci maddesinde ise veraset yoluyla veya sair suretle mal iktisap edenlerin iktisap ettikleri malları bir beyanname ile bildirmeye mecbur oldukları belirlenmiş, 8 inci maddesinde de beyannamenin her mükellef tarafından ayrı ayrı veya bütün mirasçılarca müştereken verilebileceği, aynı maddenin 2 inci fıkrasında da yabancı memleketlerde bulunan mükelleflerin beyannamelerini Türkiye Konsolosluklarına verecekleri hükme bağlanmıştır.
+Aynı Kanun'un 14 üncü maddesinde ise veraset ve intikal vergisinin mükellef tarafından verilecek beyannameye istinaden tarh olunacağı hüküm altına alınmıştır.
+Bu hükümlere göre, mükellefler veraset ve intikal vergisi beyannamesini topluca veya hisseleri oranında ayrı ayrı verebilirler. Ayrıca yabancı memleketlerde bulunan mükelleflerin, veraset ve intikal vergisi beyannamelerini bulundukları memleketlerdeki Türkiye konsolosluklarına vermeleri mümkündür.
+Bu itibarla, babanızdan veraset yoluyla intikal eden mallarla ilgili veraset ve intikal vergisi beyannamesinde kendi hissenize isabet eden tutarı beyan etmek suretiyle diğer mirasçılardan ayrı olarak bulunduğunuz yerin Türkiye Konsolosluğuna vermenizde herhangi bir sakınca bulunmamaktadır.
+Diğer taraftan, anılan Kanunun 4 üncü maddesinin (b) fıkrasına göre, intikal eden menkul ve gayrimenkul mallardan evlatlıklarda dahil olmak üzere füruğ (çocuk) ve eşten her birine isabet eden miras hisselerinin (2001 yılı için) 21.755.000.000.-lirası, (füruğ bulunmaması halinde eşe isabet eden miras hissesinin 43.534.000.000.-lirası), veraset ve intikal vergisinden istisna tutulmaktadır.
+Buna göre, babanızdan tarafınıza veraset yoluyla intikal eden menkul ve gayrimenkul malların toplamından hissenize düşen tutarın (ölümün meydana geldiği yıldaki istisna tutarları dikkate alınacaktır.) istisna miktarını aşması halinde ise % 1'den başlayan vergi tarifesine göre vergilendirilmek suretiyle adınıza tarh olunacak veraset ve intikal vergisini de üç yılda altı eşit taksitte ödemeniz gerekmektedir.
+Bilgi edinilmesini rica ederim.

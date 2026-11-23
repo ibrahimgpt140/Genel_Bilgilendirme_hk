@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 27005
+baslik: "İmalatta kullanılan kalıp bedellerinin müşteriye yansıtılması halinde amortisman ayrılmasının mümkün olup olmadığı hk."
+tarih: 2012-03-08
+sayi: "B.07.1.GİB.4.34.19.02-019.01-905"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/27005
+gib_guncelleme: 2025-03-24T19:44:43
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İmalatta kullanılan kalıp bedellerinin müşteriye yansıtılması halinde amortisman ayrılmasının mümkün olup olmadığı hk.
+
+**İlgili maddeler:** Madde 313 Amortisman Mevzuu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.34.19.02-019.01-905 | 08/03/2012
+Konu | : | İmalatta kullanılan kalıp bedellerinin müşteriye yansıtılması halinde amortisman ayrılmasının mümkün olup olmadığı.
+
+İlgide kayıtlı özelge talep formunuzda ... ürünleri imalatı ve ticareti ile iştigal ettiğinizi, imalat için çeşitli ebatlarda kalıp kullanıldığınızı ve söz konusu kalıp bedellerinin yurt dışındaki alıcılara yansıtıldığı belirtilerek, kalıplar için amortisman ayrılıp ayrılmayacağı hususu sorulmaktadır.
+213 sayılı Vergi Usul Kanunu'nun 313'üncü maddesinde; "İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan gayrimenkullerle 269'uncu madde gereğince gayrimenkul gibi değerlenen iktisadi kıymetlerin, alet, edavat, mefruşat, demirbaş ve sinema filmlerinin birinci kısımdaki esaslara göre tespit edilen değerinin bu Kanun hükümlerine göre yok edilmesi amortisman mevzuunu teşkil eder.
+...
+Değeri (2012 yılı için) 770 TL'yi aşmayan peştemallıklar ile işletmede kullanılan ve değeri (2012 yılı için) 770 TL'yi aşmayan alet, edavat, mefruşat ve demirbaşlar amortismana tabi tutulmayarak doğrudan gider yazılabilir. İktisadi ve teknik bakımdan bütünlük arz edenlerde bu had topluca dikkate alınır." hükmü bulunmaktadır.
+Anılan Kanun'un 315'inci maddesinde ise "Mükellefler amortismana tabi iktisadi kıymetlerini Maliye Bakanlığının tespit ve ilan edeceği oranlar üzerinden itfa ederler. İlan edilecek oranların tespitinde iktisadi kıymetlerin faydalı ömürleri dikkate alınır." hükmü yer almaktadır.
+Amortismana tabi iktisadi kıymetler için uygulanacak "Faydalı Ömür ve Amortisman Oranları" 339, 365, 389, 399 ve 406 Sıra No'lu Vergi Usul Kanunu Genel Tebliğleri ile değişik 333 Sıra No'lu Vergi Usul Kanunu Genel Tebliği eki liste ile açıklanmıştır.
+Söz konusu kalıpların Kurumunuzun aktifinde kayıtlı olması ve Kurumunuzda bir yıldan fazla kullanılması halinde 333 Sıra No'lu Vergi Usul Kanunu Genel Tebliği eki listenin 31.2.2 "Kalıplar" başlıklı bölümünde yer alan oranlar üzerinden amortisman ayrılacağı tabiidir.
+Ancak, Kurumunuzun aktifinde kayıtlı bulunmayan ve yurt dışına ihraç edilen malların imalatında kullanılarak bedeli müşteriye yansıtılan ... kalıpları için amortisman ayrılması mümkün bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

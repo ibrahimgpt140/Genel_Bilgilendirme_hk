@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36934
+baslik: "Cari işlemler hesabını yıl sonunda kapatamayan banka şubelerinin B.S.M.V. karşısındaki durumu hakkında."
+tarih: 1999-07-12
+sayi: "B.07.0.GEL.0.56/5601-1046/29432"
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/36934
+gib_guncelleme: 2025-03-24T20:45:29
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Cari işlemler hesabını yıl sonunda kapatamayan banka şubelerinin B.S.M.V. karşısındaki durumu hakkında.
+
+**İlgili maddeler:** Madde 47 Beyanname Verilme Zamanı ve Yeri:; Madde 48 Ödeme süresi:
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 12.07.1999 SAYI : B.07.0.GEL.0.56/5601-1046/29432 KONU : Cari işlemler hesabını yıl sonunda kapatamayan banka şubelerinin B.S.M.V. karşısındaki durumu hk. MUĞLA VALİLİĞİNE (Defterdarlık : Gelir Müdürlüğü) İLGİ : 21.04.1999 tarih ve 1569 sayılı yazınız. İlgide kayıtlı yazınız ve ekleri incelendi. Bilindiği üzere, 6802 sayılı Gider Vergileri Kanunu'nun 47. maddesinin (a) fıkrasında, her mükellefin bir ay içindeki banka ve sigorta hizmetleri vergisi ile ilgili muamelelerini bir beyanname ile ertesi ayın 15 inci günü akşamına kadar muamelelerin yapıldığı yer vergi dairesine bildirmek mecburiyetinde olduğu belirtilmiş, aynı maddenin (d) fıkrasında da takvim yılı sonunda hesabı cari muamelelerini beyanname verme müddeti içinde kapatamayan bankaların bu muamelelerini takvim yılı sonundan itibaren en geç üç ay içinde ayrı bir beyanname ile bildirebilecekleri hükme bağlanmış bulunmaktadır. Aynı Kanun'un ödeme süresini belirleyen 48. maddesinde ise mükelleflerin beyanname üzerinden tarh ve tahakkuk ettirilen vergilerini beyanname verme süresi içinde ödemeye mecbur oldukları hükmüne yer verilmiştir. Bir banka, müşterisi ile olan alacak ve borç işlemlerini bir cari hesapta toplayabilir. Ancak, bir işlemin hesabı cari muamele olarak değerlendirilebilmesi, banka ile müşteri arasında yazılı bir sözleşmenin varlığına ve bu sözleşmenin hükümlerine göre yapılabilir. Aralarında bu tür yazılı anlaşma mevcut bulunan müşteri hesapları üzerindeki işlemler "cari hesap sözleşmesi" tabirini kapsar. Böyle muamelelerin yıl sonlarındaki kesin sonuçları geç alındığından bu sonuçlar ayrı bir beyanname ile bildirilebilir. Yazılı bir cari hesap sözleşmesine dayanmayan işlemlerden doğan gider vergisi matrahlarının kaynağı ne olursa olsun "cari hesap muameleleri" arasında değerlendirilmesi olanağı yoktur. Mükelleflerin takvim yılı sonunda hesabı cari muamelelerini beyanname verme süresi içinde kapatmaları halinde, beyanname normal süresi içinde verilecek ve bu beyanname üzerinde tarh ve tahakkuk eden vergi de beyanname verme süresi içinde ödenecektir. Hesabı cari muamelelerinin normal beyanname verme ve ödeme süresinin sonu olan 15.01.1999 tarihinden sonra kapatılması halinde ise, beyannamenin hesabın kapatıldığı tarihte verilerek, hesaplanacak banka ve sigorta muameleleri vergisinin de aynı gün ödenmesi gerekir. Diğer taraftan, 6802 sayılı Gider Vergileri Kanunu'nun 47/d maddesi gereğince ek olarak verilecek banka ve sigorta muameleleri vergisi beyannamesi için ayrıca bir bildirimde bulunulması gerekmemektedir. Bu açıklamalar çerçevesinde, .....bank A.Ş. ..... Şubesi'nin hesabı cari işlemlerine ilişkin hesaplarını beyannameyi verdiği 26.03.1999 tarihinde kapatmış ve tahakkuk eden banka ve sigorta muameleleri vergisini de bu tarihte ödemiş ise mükelleften ceza ve gecikme faizi aranması sözkonusu değildir. Bilgi edinilmesini ve konunun yukarıda yapılan açıklamalara göre değerlendirilerek, sözkonusu özelgenin yeniden düzenlenmesi hususunda gereğini rica ederim. Bakan a. Daire Başkanı

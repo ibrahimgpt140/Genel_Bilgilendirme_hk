@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 21910
+baslik: "Özel inşaatın tamamlandığı sırada sahibinin vefat etmesi üzerine varisler adına gelir vergisi yönünden mükellefiyet tesis edilip edilmeyeceği hk."
+tarih: 2015-12-31
+sayi: "B.07.1.GİB.4.34.16.01-120[37-2015/276]-109344"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21910
+gib_guncelleme: 2025-03-24T19:28:58
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Özel inşaatın tamamlandığı sırada sahibinin vefat etmesi üzerine varisler adına gelir vergisi yönünden mükellefiyet tesis edilip edilmeyeceği hk.
+
+**İlgili maddeler:** Madde 37 Ticari Kazancın Tarifi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Vergileri Grup Müdürlüğü
+
+Sayı | : | 62030549-120[37-2015/276]-109344 | 31/12/2015
+Konu | : | Özel inşaat.
+
+İlgide kayıtlı özelge talep formunda, mülkiyeti ... 'ya ait arsa üzerine şahsi ihtiyaç için özel inşaat yapıldığı, ancak inşaatın tamamlandığı sırada ... 'nun vefat ettiği, varislerinin iskan almak için belediyeye gittiklerinde müteahhitlik belgesi istenildiği belirtilerek, ticari nitelikte olmayan mesken inşaatı için gelir vergisi yönünden mükellefiyet tesis edilip edilmeyeceği hususunda Başkanlığımız görüşü sorulmaktadır.
+193 sayılı Gelir Vergisi Kanununun 37 nci maddesinin birinci fıkrasında, her türlü ticari ve sınai faaliyetlerden doğan kazancın ticari kazanç olduğu belirtilmiş, söz konusu maddenin ikinci fıkrasının 4 numaralı bendinde ise gayrimenkullerin alım satım ve inşa işleri ile devamlı olarak uğraşanların bu işlerinden elde ettikleri kazancın ticari kazanç olduğu hükme bağlanmıştır.
+Söz konusu hükümlerden de anlaşılacağı üzere, ticari faaliyet bir tür emek sermaye organizasyonuna dayanmakta olup, kazanç sağlama niyet ve kastının bulunup bulunmaması böyle bir organizasyon tarafından icra edilen faaliyetin ticari faaliyet olma niteliğine etki etmemektedir. Ancak bir faaliyetin ticari faaliyet sayılabilmesi için kazanç sağlama niyet ve kastı gerekmemekle birlikte, faaliyeti icra eden organizasyonun bütün unsurları ile birlikte değerlendirildiğinde kazanç sağlama potansiyeline sahip olması gerektiği ortaya çıkmaktadır.
+Özel inşaat olarak adlandırılan organizasyonlarda, bu organizasyonu üstlenen kişinin organizasyon kapsamındaki faaliyetleri inşaatın yapımına ve organizasyona ilişkin her türlü işlerden (işçi ve usta temini, malzeme alımı, her türlü ödeme ve tahsilat vb.) meydana gelmektedir.
+Buna göre, yukarıda sözü edilen ve ticari faaliyet olarak değerlendirilmeyen özel ihtiyaca ilişkin inşaat işleri, şahsi ihtiyaç kapsam ve sınırlarını aşmayan mesken inşaatlarına yöneliktir.
+Dolayısıyla, şahsi ihtiyaç kapsamı ve sınırlarının aşılması, işyeri ya da mesken ve dükkan ünitelerinden oluşan inşaatın yapılması durumunda ticari bir organizasyon şekli ve maddi unsurları ile açıkça ortaya çıkması bu faaliyetin ticari sayılması için yeterli olmaktadır. Bu uygulamada inşa edilen işyerinin satılmak amacıyla yapılıp yapılmamasının veya satılıp satılamamasının hiçbir önemi bulunmamaktadır.
+Bu hüküm ve açıklamalara göre, muris adına kayıtlı arsa üzerine yaptırılan inşaatın mesken inşaatı olması, gayrimenkullerin 7 varisin ikametine tahsis edilmek suretiyle şahsi ihtiyaç kapsam ve sınırlarını aşmaması ve kazanç sağlama potansiyeline sahip olmaması halinde, özel inşaat kapsamında gerçekleştirilen bu faaliyetle ilgili olarak Gelir Vergisi Kanununun ticari kazanca ilişkin hükümlerinin uygulanmayacağı ve bu faaliyet için ticari kazanç mükellefiyeti tesis edilmesine gerek bulunmayacağı tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

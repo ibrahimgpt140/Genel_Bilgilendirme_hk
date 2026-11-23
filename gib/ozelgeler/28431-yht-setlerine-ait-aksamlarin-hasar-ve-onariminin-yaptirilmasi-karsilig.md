@@ -1,0 +1,46 @@
+---
+tur: Özelge
+gib_id: 28431
+baslik: "YHT setlerine ait aksamların hasar ve onarımının yaptırılması karşılığında tevkifat yapılıp yapılmayacağı hk."
+tarih: 2012-09-07
+sayi: "B.07.1.GİB.4.06.16.01-125[30-12/4]-899"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28431
+gib_guncelleme: 2025-03-24T19:50:51
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# YHT setlerine ait aksamların hasar ve onarımının yaptırılması karşılığında tevkifat yapılıp yapılmayacağı hk.
+
+**İlgili maddeler:** Madde 15 Vergi kesintisi (45)(46)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Vergileri Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.06.16.01-125[30-12/4]-899 | 07/09/2012
+Konu | : | YHT setlerine ait aksamların hasar ve onarımının yaptırılması karşılığında tevkifat yapılıp yapılmayacağı
+
+İlgide kayıtlı özelge talep formunuzda, ..... Vergi Dairesi Müdürlüğü'nün ....... vergi numarasında kayıtlı mükellefi olduğunuz, Yüksek Hızlı Tren Setlerine ait arızalı aksamların yurt içi ve yurt dışı hasar ve onarımlarının yaptırılması işi ile ilgili olarak yurt dışında yerleşik ........ ve Türkiye'de yerleşik ....... San. Ltd. Şti. ile sözleşme imzaladığınız belirtilerek, söz konusu iş nedeniyle anılan şirketlere yapılacak ödemeler üzerinden vergi tevkifatı yapılıp yapılmayacağı hususunda Başkanlığımızdan görüş talep edilmektedir.
+İlgi (a)'da kayıtlı özelge talep formunuz ve ekinde yer alan TCDD Hizmet Alımları Tip Sözleşmesi'nin incelenmesi neticesinde; Genel Müdürlüğünüz ile ...... San. ve Tic. Ltd. Şti. arasında 01.04.2011 tarihinde Hizmet Alımları Sözleşmesinin imzalandığı ve sözleşmenin "İş Tanımı" başlıklı 5 inci maddesinde, sözleşme konusu işin "65006 no.lu Yüksek Hızlı Tren Setine ait arızalı aksamların yurtdışı hasar onarımı" olduğu, "İşin Yapılma Yeri, İşyeri Teslim ve İşe Başlama Tarihi" başlıklı 11 inci maddesinde, işin yapılma yerinin ........ firmasının İspanya'daki Fabrikası/Fabrikaları olduğu anlaşılmıştır.
+Yine ilgi (a)'da kayıtlı yazınız ekinde yer alan TCDD Cer Dairesi Başkanlığı "Yüksek Hızlı Tren Setine Ait Bojilerin, Otomatik Koşu Takımlarının, Yarı Sabit Bağlantıların ve Kardan Şaftların Üretici Firma Tesislerinde (İspanya'da) Onarım Teknik Şartnamesi"nin incelenmesi neticesinde;
+-Hasar onarımı yapılacak YHT 65006 tipi Yüksek Hızlı Elektrikli Tren Setinin, 6 vagondan meydana geldiği,
+-Yüklenici, bojilerin, yarı sabit bağlantıların, otomatik koşum takımlarının ve kardan şaftların hasar onarım hizmetinin, söz konusu Yüksek Hızlı Tren Setlerine ait sözleşmeler çerçevesinde TCDD'ye verildiği ve/veya Yüklenici arşivinde olan Revizyon Talimatlarına uygun olarak, kesintisiz/güvenilir bir işletmecilik sağlayacak şekilde (YHT 65006 no.lu tren setine monte edilmesinden sonra) verileceği,
+-Yüklenicinin bu işi, sorumluluğu kendine ait olmak kaydıyla, bu ve/veya benzer işler için istihdam ettiği yeterli sayıda ve konusunda uzman personel ile .... Firmasının İspanya'daki fabrikasında/fabrikalarında gerçekleştireceği,
+-Hasar onarımı İspanya'da yapılacak olan YHT 65006 no.lu Yüksek Hızlı Elektrikli Tren Setine ait bojilerin, yarı sabit bağlantıların, otomatik koşum takımlarının ve kardan şaftların TCDD hatlarındaki yer değiştirme işlemlerinin (nakli): atölye içi manevrasının idare tarafından yapılacağı, diğer tüm nakil işlemlerinin Yükleniciye ait olacağı, atölye içi araç manevrası esnasında makasların kontrolünün TCDD personeli tarafından yapılacağı,
+-YHT 65006 no.lu Yüksek Hızlı Tren Setine ait bütün bojilerin, kardan şaftların, yarı sabit bağlantıların ve otomatik koşum takımlarının fabrika koşullarında tamamen sökülebilmesi, boyut muayenesinin yapılabilmesi, tamir ve test edilebilmesi amacıyla ...... Firmasının İspanya'daki fabrikasına/fabrikalarına gönderileceği,
+-Yüklenici YHT 65006 no.lu Yüksek Hızlı Tren Setine ait bojilerin, yarı sabit bağlantıların, otomatik koşum takımlarının ve kardan şaftların onarımı için ........ firmasının İspanya'daki tesislerini kullanacağı,
+-YHT 65006 no.lu Yüksek Hızlı Tren Setine ait bütün bojiler, kardan şaftlar, yarı sabit bağlantılar ve otomatik koşum takımlarının fabrika koşullarında tamamen sökülebilmesi, boyut muayenesinin yapılabilmesi, tamir ve test edilebilmesi amacıyla ........ firmasının İspanya'daki fabrikasına/fabrikalarına gönderileceği,
+-Sökülerek İspanya'ya gönderilen ara kavramların (yarı sabit bağlantılar) sökülüp mekanik ve kimyasal olarak temizleneceği, gerekli bakımın yapılarak aşınan ve değişmesi gereken parçaların (ara kavramaların kilit cıvata seti gibi) Yüklenici tarafından değiştirileceği,
+anlaşılmıştır.
+Kurumunuz ile imzalanan sözleşmede, söz konusu iş ile ilgili yüklenici firma olarak ........ San. Tic. Ltd. Şti. göründüğünden, görüş talebinize cevap verilebilmesi için ilgi (b)'de kayıtlı yazımız ile ........ San. Ltd. Şti. arasında bir ortaklık ilişkisinin(adi ortaklık, iş ortaklığı gibi) bulunup bulunmadığı, iki şirket arasında kazanç paylaşımına ve yüklenilen işin hangi kısımlarından sorumlu olduklarına ilişkin bir sözleşmenin bulunup bulunmadığı hususları hakkında bilgi istenilmiştir. İlgi (c)'de kayıtlı yazınız ekinde yer alan ...... San. Tic. Ltd. Şti. ‘nin 21.03.2012 tarihli yazısından; ........ firmasının ......... San. Tic. Ltd. Şti. ‘nin % 99 oranında hissesine sahip olduğu, arızalı aksamların yurt dışı ve yurt içi hasar onarımı sözleşmesi kapsamında malzemelerin bir kısmının Türkiye'de tamiri mümkün olmadığı için....... . firmasının İspanya'da yerleşik fabrikalarında onarımının gerçekleştirildiği, bu kapsamda ...... . tarafından sağlanan malzemeler ve verilen hizmetler için adı geçen firmanın ........ San. Tic. Ltd. Şti.'ne fatura düzenlediği, söz konusu hizmet sözleşmelerine ilişkin tüm gelir faturalarının ise ........ San. Tic. Ltd. Şti. tarafından kurumunuza düzenlendiği, aynı şekilde sözleşmeye ilişkin tüm giderlerin de ....... San. Tic. Ltd. Şti. tarafından karşılandığı ve iki şirket arasında bir kazanç paylaşımı veya yüklenilen işin hangi kısımlarından sorumlu olduklarına dair bir sözleşmenin bulunmadığı anlaşılmaktadır.
+5520 sayılı Kurumlar Vergisi Kanununun 3 üncü maddesinde; "(1) Tam mükellefiyet: Kanunun 1 inci maddesinde sayılı kurumlardan kanuni ve iş merkezi Türkiye'de bulunanlar, gerek Türkiye içinde gerekse Türkiye dışında elde ettikleri kazançların tamamı üzerinden vergilendirilirler." hükmüne yer verilmiştir.
+Aynı Kanunun 6 ncı maddesinde; kurumlar vergisinin, mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde, Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hüküm altına alınmıştır.
+Yine aynı Kanunun 15 inci maddesinde de, Kamu idare ve kuruluşları, iktisadi kamu kuruluşları, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbest meslek erbabı, zirai kazançlarını bilanço veya zirai işletme hesabı esasına göre tespit eden çiftçilerin, kurumlara avanslar da dahil olmak üzere nakden veya hesaben yaptıkları maddede sayılan ödemeler üzerinden istihkak sahiplerinin kurumlar vergisine mahsuben % 15 oranında kesinti yapmak zorunda oldukları hükme bağlanmıştır.
+Buna göre, söz konusu sözleşmede her ne kadar ...... San. Tic. Ltd. Şti.'nin yüklenici firma olarak yer aldığı görülmekte ise de, sözleşmenin ...... San. Tic. Ltd. Şti. ile kurumunuz arasında imzalanması, ........ San. Tic. Ltd. Şti. ‘nin...... .'dan malzeme ve onarım hizmeti satın alması ve söz konusu hizmetin ..... . tarafından ....... San. Tic. Ltd. Şti.'ne düzenlenen fatura ile belgelendirilmesi, sözleşme kapsamındaki tüm gelir faturalarının ........ San. Tic. Ltd. Şti. tarafından kurumunuz adına düzenlenmesi, ayrıca anılan işin yapımı kapsamında Türkiye mukimi firma ile aralarında bir ortaklık kurmamaları nedeniyle ....... San. Tic. Ltd. Şti.'nin anılan iş karşılığında elde ettiği kazancın tamamını kurum kazancına dahil etmesi gerekmekte olup, kurumunuzca yapılacak ödemeler üzerinden Kurumlar Vergisi Kanununun 15 maddesi kapsamında tevkifat yapılması söz konusu olmayacaktır.
+Öte yandan, İspanya'da yerleşik olan........ firmasının da anılan iş nedeniyle elde edeceği kazancın, "Türkiye Cumhuriyeti ile İspanya Krallığı Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Ve Vergi Kaçakçılığına Engel Olma Anlaşması" hükümlerine göre değerlendirileceği tabiidir.
+Diğer taraftan, emsallere uygunluk ilkesine aykırı olarak tespit edilen bedel üzerinden ilişkili kişisi olan...... 'ya ödeme yapılması halinde 5520 sayılı Kurumlar Vergisi Kanununun 13 üncü maddesinde yer alan "Transfer Fiyatlandırması Yoluyla Örtülü Kazanç Dağıtımı" hükmünün uygulanacağı tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

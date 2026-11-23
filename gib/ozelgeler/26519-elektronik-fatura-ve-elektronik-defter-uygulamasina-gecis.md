@@ -1,0 +1,75 @@
+---
+tur: Özelge
+gib_id: 26519
+baslik: "Elektronik fatura ve elektronik defter uygulamasına geçiş."
+tarih: 2016-12-27
+sayi: "B.07.1.GİB.4.34.19.02-105[VUK1-20138]-263984"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26519
+gib_guncelleme: 2025-03-24T19:43:09
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Elektronik fatura ve elektronik defter uygulamasına geçiş.
+
+**İlgili maddeler:** Mükerrer Madde 257 Yetki
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 11395140-105[VUK1-20138]-263984 | 27.12.2016
+Konu | : | Elektronik fatura ve elektronik defter uygulamasına geçiş.
+
+İlgide kayıtlı özelge talep formunuzda; kooperatifinizin muhtasar ve KDV yönünden mükellefiyetinin bulunduğu, kurumlar vergisinden muaf olduğu, 2016 yılında üyelerine konut teslimlerini gerçekleştirdiği ve amacına ulaştığından dolayı 10/06/2016 tarihinde tasfiyeye girdiği, tasfiyenin 2017 takvim yılında sonlandırılacağı, üyelere yapılan konut teslimlerinden dolayı düzenlenen faturalar üzerine 454 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde bulunan hadlerin aşıldığı belirtilerek e-Fatura ve e-Defter uygulamalarına hangi tarihte geçmeniz gerektiği hususunda Başkanlığımız görüşü talep edilmektedir.
+
+Bilindiği üzere 213 sayılı Vergi Usul Kanunun mükerrer 257 nci maddesinin birinci fıkrasının (3) numaralı bendinde, Maliye Bakanlığının, tutulması ve düzenlenmesi zorunlu defter, kayıt ve belgelerin mikro film, mikro fiş veya elektronik bilgi ve kayıt araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda izin vermeye veya zorunluluk getirmeye, bu şekilde tutulacak defter ve kayıtların kopyalarının Maliye Bakanlığında veya muhafaza etmekle görevlendireceği kurumlarda saklanması zorunluluğu getirmeye, bu konuda uygulama usul ve esaslarını belirlemeye yetkili olduğu hükme bağlanmıştır.
+
+Anılan Kanunun mükerrer 242 nci maddesi ile Maliye Bakanlığının, elektronik defter, belge ve kayıtlar için diğer defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye yetkili olduğu hükme bağlanmıştır.
+
+Konuya ilişkin yayımlanan 421 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile bir kısım mükelleflere 2013 takvim yılında e-Fatura uygulamasına, 2014 takvim yılı içerisinde ise e-Defter uygulamasına geçme zorunluluğu getirilmiştir.
+
+Mezkur Tebliğ ile zorunluluk getirilen mükelleflere ilave olarak 20/06/2015 tarihli Resmi Gazetede yayımlanan 454 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile aşağıda sayılan mükelleflere de e-Fatura ve e-Defter uygulamalarına geçme zorunluluğu getirilmiştir.
+
+a) 2014 veya müteakip hesap dönemleri brüt satış hasılatı 10 Milyon TL ve üzeri olan mükellefler.
+
+b) 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli I sayılı listedeki malların imali, ithali, teslimi vb. faaliyetleri nedeniyle Enerji Piyasası Düzenleme Kurumu (EPDK)'ndan lisans alan mükellefler. Bayilik lisansı olanlar, münhasıran bu lisansa sahip olmaları nedeniyle bu bent kapsamında değerlendirilmeyecektir.
+
+c) Özel Tüketim Vergisi Kanununa ekli III sayılı listedeki malları imal, inşa ve ithal eden mükellefler.
+
+(a) bendindeki şartı, 2014 hesap döneminde sağlayan mükellefler 1/1/2016 tarihinden itibaren, 2015 veya müteakip hesap dönemlerinde sağlayan mükellefler ise ilgili hesap dönemine ilişkin gelir/kurumlar vergisi beyannamesinin verileceği tarihi takip eden hesap döneminin başından itibaren, (b) ve (c) bentlerinde sayılanlardan bu Tebliğin yayım tarihinden önce lisans alan veya mükellefiyet tesis ettirenler 1/1/2016 tarihinden itibaren, bu Tebliğin yayım tarihinden sonra lisans alan veya mükellefiyet tesis ettirenler ise, lisans aldıkları ya da mükellefiyet tesis ettirdikleri tarihi izleyen hesap döneminin başından itibaren elektronik fatura ve elektronik defter uygulamasına geçmek zorundadır. Bununla birlikte, lisans ya da mükellefiyet tesis tarihi ile izleyen hesap dönemi arasındaki sürenin üç aydan kısa olması halinde isteyen mükellefler bir sonraki hesap döneminin başından itibaren elektronik defter tutabilecekler ve e-Fatura uygulamasına geçebileceklerdir.
+
+Diğer taraftan; 213 sayılı Vergi Usul Kanunu'nun 161 inci maddesine göre, işi bırakma vergiye tabi olmayı gerektiren muamelelerin tamamen durdurulması ve sona erdirilmesini ifade eder. İşlerin herhangi bir sebep yüzünden geçici bir süre için durdurulması işi bırakma sayılmaz. Aynı Kanun'un 162 nci maddesine göre ise tasfiye ve iflas hallerinde, mükellefiyetin vergi ile ilgili muamelelerin tamamen sona erdirilmesine kadar devam etmesi ve bu hallerde tasfiye memurları veya iflas dairesi tarafından, tasfiye veya iflas kararlarını ve tasfiyenin veya iflasın kapandığının vergi dairesine ayrı ayrı bildirilmesi zorunludur.
+
+Tüzel kişilerin mükellefiyetlerinin sona erdirilmesi tasfiye ve iflas hallerinde söz konusu olmaktadır. Bir başka ifadeyle mükellefin işi bırakmış sayılabilmesi için işi ile ilgili tedarik işlemlerini durdurmasının yanı sıra, işletmede bulunan emtia stokları ile diğer döner ve sabit değerlerinin de elden çıkarılması veya bu varlıkların işletme sahiplerince işletmeden çekilmiş olması, tüzel kişiliğe haiz mükelleflerin ayrıca tasfiye sürecinin tamamlanarak ticaret unvanlarının sicilden silinmesi gerekmektedir.
+
+Ticaret şirketleri açısından mükellefiyetin sona erdirilmesi tasfiye ve iflas hallerine inhisar ettirilmiştir. Türk Ticaret Kanunu'nda öngörülen işlemler yerine getirilmeden ve tasfiye ve iflasın sona erdiği tescil ve ilan edilmeden tasfiyenin sona erdiğinin kabul edilmesi ve şirketin tüzel kişiliğinin ortadan kaldırılması mümkün değildir.
+
+Öte yandan 1163 sayılı Kooperatifler Kanunu'nun 1 inci maddesinde "Tüzel kişiliği haiz olmak üzere ortaklarının belirli ekonomik menfaatlerini ve özellikle meslek veya geçimlerine ait ihtiyaçlarını işgücü ve parasal katkılarıyla karşılıklı yardım, dayanışma ve kefalet suretiyle sağlayıp korumak amacıyla gerçek ve tüzel kişiler tarafından kurulan değişir ortaklı ve değişir sermayeli ortaklıklara kooperatif denir"
+
+7 nci maddesinde " Kooperatif ticaret siciline tescil ile tüzel kişilik kazanır. Tescilden önce kooperatif namına işlem yapanlan bunlardan şahsen ve zincirleme olarak sorumludur" hükümleri yer almaktadır.
+
+Aynı Kanun'un 81'inci maddesinde, " Kooperatif:
+
+1. Anasözleşme gereğince,
+2.Genel Kurul kararı ile,
+3.İflasın açılmasıyla,
+4.Kanunlarda öngörülen diğer hallerde, ilgili bakanlığın mahkemeden alacağı karar üzerine,
+5.Diğer bir kooperatifle birleşmesi veya devralınması suretiyle,
+6.Üç yıl olağan genel kurulunu yapmaması halinde,
+7.Amacına ulaşma imkanının bulunmadığının ilgili Bakanlıkça tespiti halinde mahkemeden alacağı kararla,
+
+Dağılır.
+
+Konut yapı kooperatifleri, anasözleşmede gösterilen işlerin tamamlanması ve ferdi mülkiyete geçilip konutların ortaklar adına tescil edilmesiyle amacına ulaşmış sayılır ve dağılır."
+
+82 nci maddesinde " İflastan gayrı hallerde kooperatifin dağılması, yetkili organlar tarafından Ticaret Siciline tescil ile ilan ettirilir. Yetkili organların kimler olacağı Anasözleşmede gösterilir"
+
+83 üncü maddesinde " Tasfiye haline giren kooperatifin bütün borçları ödendikten ve ortak pay bedelleri geri verildikten sonra kalan mallar ancak Anasözleşmede bu husus öngörülmüş olduğu takdirde, ortaklar arasında paylaştırılır........" denilmektedir.
+
+Buna göre; kooperatifinizin 454 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde belirtilen hadleri 2016 hesap döneminde aşması nedeniyle anılan Tebliğ gereği e-Fatura ve e-Defter uygulamalarına; 2016 hesap dönemine ilişkin kurumlar vergisi beyannamesinin verileceği tarihi takip eden hesap döneminin başı olan 1.1.2018 tarihi itibariyle geçmesi gerekmektedir. Ancak kooperatifinizin tasfiye sürecinin yukarıda yer verilen açıklamalar doğrultusunda 1.1.2018 tarihinden önce sonlandırılması ve ticaret sicilinde tescil edilmesi halinde e-Fatura ve e-Defter uygulamalarına dahil olma zorunluluğunuzun bulunmayacağı tabiidir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

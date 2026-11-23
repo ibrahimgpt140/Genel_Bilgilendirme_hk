@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 25686
+baslik: "Akaryakıt satışlarında, bankalar tarafından nihai tüketiciden alınan komisyon bedeli için fatura düzenlenip düzenlenmeyeceği hakkında."
+tarih: 2000-07-12
+sayi: "B.07.0.GEL.0.29/2921-229-194"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25686
+gib_guncelleme: 2025-03-24T19:40:27
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Akaryakıt satışlarında, bankalar tarafından nihai tüketiciden alınan komisyon bedeli için fatura düzenlenip düzenlenmeyeceği hakkında.
+
+**İlgili maddeler:** Madde 227 İspat Edici Kağıtlar; Madde 229 Faturanın Tarifi; Madde 232 Fatura Kullanma Mecburiyeti
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI : B.07.0.GEL.0.29/2921-229-194 KONU : ..................... VALİLİĞİ ( Defterdarlık : Usul Gelir Müdürlüğüne ) İLGİ : ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınızın incelenmesinden, kredi kartı ile yapılan akaryakıt satışlarında, bankalar tarafından nihai tüketiciden alınan % 3 komisyon bedeli için fatura düzenlenip düzenlenmeyeceği hakkında görüş bildirilmesinin istenildiği anlaşılmıştır. Bilindiği üzere, 213 sayılı Vergi Usul Kanununun 229. Maddesinde "Fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesikadır." Hükmü yer almakta olup, 232. maddesinde ise fatura kullanma mecburiyetinde olan kimseler sayılmıştır. Öte yandan, aynı kanunun 227 nci maddesinde de, bu kanunda aksine hüküm olmadıkça bu kanuna göre tutulan ve üçüncü şahıslarla olan münasebet ve muamelelere ait olan kayıtların tevsikinin mecburi olduğu hüküm altına alınmıştır. Akaryakıt satışlarında, nihai tüketiciden alınan % 3 komisyon bedeli, bankaların nihai tüketiciden aldığı bir komisyon değildir. Söz konusu komisyon, bankalar tarafından kredi kartı karşılığında satış yapan akaryakıt bayiinden alınmakta akaryakıt bayileri de nihai tüketicilere bu komisyonu yansıtmaktadırlar. Dolayısıyla söz konusu komisyon, akaryakıt bayii tarafından nihai tüketiciden alınan bir komisyondur. Buna göre, akaryakıt istasyonları tarafından kredi kartı ile yapılan satışlar sırasında müşteriye yansıtılan komisyonun fatura üzerinde belirtilmesi durumunda bunun için ayrı bir belgenin düzenlenmesine gerek yoktur. Ancak, anılan komisyonun faturada gösterilmemesi veya bu satış için toplu fatura düzenlenmesi nedeniyle fatura veya per a kende satış vesikası tanzim edilmemesi halinde ise, satışı gerçekleştiren şirket tarafından komisyon için ayrı bir belgenin düzenleneceği tabiidir. Bilgi edinilmesini ve gereğini rica ederim.

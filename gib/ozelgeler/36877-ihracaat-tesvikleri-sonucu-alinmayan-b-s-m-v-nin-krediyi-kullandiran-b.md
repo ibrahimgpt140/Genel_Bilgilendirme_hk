@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36877
+baslik: "İhracaat teşvikleri sonucu alınmayan B.S.M.V'.nin krediyi kullandıran banka şubesinden alınması gerektiği hakkında."
+tarih: 1997-06-06
+sayi: "07.0.GEL.0.56/5601-838/23580"
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/36877
+gib_guncelleme: 2025-03-24T20:45:01
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İhracaat teşvikleri sonucu alınmayan B.S.M.V'.nin krediyi kullandıran banka şubesinden alınması gerektiği hakkında.
+
+**İlgili maddeler:** Madde 30 Mükellef:
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 06.06.1997 SAYI : 07.0.GEL.0.56/5601-838/23580 KONU : İhracaat teşvikleri sonucu alınmayan B.S.M.V'.nin krediyi ku llandıran banka şubesinden alınması gerektiği hk. İSTANBUL VALİLİĞİNE (Defterdarlık: Tahsilat Gelir Müdürlüğü) İLGİ: 9.7.1996 gün ve DEF.0.34.17/288-57/11057 sayılı yazınız. İlgi yazınız ekinde alınan İliniz .... Vergi Dairesi mükelleflerinden .... A.Ş. ile ilgili olarak adı geçen Vergi Dairesi Müdürlüğüne hitaben verilen 28.6.1996 gün ve DEF.0.34.17/288-57/10298 sayılı muktezanızın incelenmesinden, ihracat teşvikleri sonucu alınmayan banka ve sigorta muameleleri vergisinin teşvikten yararlanan ihracatçıdan aranması gerektiği yönünde görüş verildiği anlaşılmıştır. Bilindiği üzere, 6802 sayılı Gider Vergileri Kanunu'nun mükellefi belirleyen 30. maddesinde "Banka ve sigorta muameleleri vergisini banka ve bankerlerle sigorta şirketleri öder." hükmü yer almaktadır. Ancak, adı geçen vergi vasıtalı bir vergi olduğundan müşterilere yansıtılabilir. Bu hüküm gereğince, ihracat teşvikleri sonucu alınmayan banka ve sigorta muameleleri vergisinin teşvikten yararlanan ihracatçıdan değil, adı geçen verginin asıl mükellefi olan kredi kullandıran ilgili Banka Şubesi'nden aranması gerekir. Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim. Bakan a. Daire Başkanı

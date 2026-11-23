@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 37967
+baslik: "2005 yılı Kurumlar Vergisi Beyannameleri ve eki mali tablolarının tasdiklerini içeren tam tasdik..."
+tarih: 2006-08-27
+sayi: "B.07.01.GIB.0.07.32/3200-40"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/37967
+gib_guncelleme: 2025-03-24T22:37:05
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 2005 yılı Kurumlar Vergisi Beyannameleri ve eki mali tablolarının tasdiklerini içeren tam tasdik...
+
+T.C
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI : B.07.01.GİB.0.07.32/3200-40
+KONU :
+
+TELEF AKS
+
+............................
+
+Yeminli Mali Müşavir ............'den alınan 27.06.2006 tarih ve 2006/2027(12) sayılı dilekçede, tam tasdik hizmeti verdiği;
+- ........... Vergi Dairesi'nin,
+- ................ Vergi Kimlik No.Iu mükellefi ............ Dış Tic. A.Ş'nin,
+- ................. Vergi Kimlik No.lu mükellefi .............. San. ve Tic. Ltd. Şti.'nin,
+- .............. Vergi Dairesi'nin
+- ............... Vergi Kimlik No.lu mükellefi .............. San. ve Tic. Ltd.
+Şti.'nin,
+2005 yılı Kurumlar Vergisi Beyannameleri ve eki mali tablolarının tasdiklerini içeren tam tasdik raporlarını sağlık sorunları nedeniyle süresinde veremeyeceğinden bahisle, ek süre talebinde bulunduğu anlaşılmaktadır.
+Buna göre, adı geçen mükelleflere ait tam tasdik raporlarının 31.07.2006 tarihine kadar vergi dairelerine testim edilebilmesi, Başkanlık Makamının 21.07.2006 tarihli Olurları ile uygun bulunmuştur.
+Bilgi edinilmesi ve gereğini rica ederim.

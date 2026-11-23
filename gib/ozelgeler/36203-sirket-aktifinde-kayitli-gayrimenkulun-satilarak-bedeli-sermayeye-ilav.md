@@ -1,0 +1,37 @@
+---
+tur: Özelge
+gib_id: 36203
+baslik: "şirket aktifinde kayıtlı gayrimenkulün satılarak bedeli sermayeye ilave edilecek olsa da, gayrimenkulün satışına ilişkin harçların istisnadan yararlandırılmasının mümkün bulunmadığı hakkında..."
+tarih: 2009-08-19
+sayi: "B.07.1.GİB.0.02.63-6373-3794/79072"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36203
+gib_guncelleme: 2025-03-24T20:33:04
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# şirket aktifinde kayıtlı gayrimenkulün satılarak bedeli sermayeye ilave edilecek olsa da, gayrimenkulün satışına ilişkin harçların istisnadan yararlandırılmasının mümkün bulunmadığı hakkında...
+
+**İlgili maddeler:** Madde 123 Özel kanunlardaki hükümler
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+Sayı : B.07.1.GİB.0.02.63-6373-3794/79072 19.08.2009
+Konu : Tapu harcı hk.
+
+........................... VERGİ DAİRESİ BAŞKANLIĞINA
+(....................... Grup Müdürlüğü)
+
+İlgi: .................. tarih ve ...................... sayılı yazınız.
+
+Yazınız ekini teşkil eden ve İliniz mükelleflerinden ...................... San. Ve Tic. A.Ş.'ne hitaben düzenlenen .............. tarih ve ......................sayılı muktezanızda, şirkete ait gayrimenkulün satılarak bedelinin şirket sermayesine ilave edilmesi suretiyle sermaye artırımına gidilmesi sırasında, tapuda yapılacak tescil işleminin harçtan istisna edilmesi gerektiği yönünde görüş verildiği anlaşılmaktadır.
+Bilindiği üzere, 492 sayılı Harçlar Kanununa bağlı (4) sayılı tarifenin I-20/a bendinde, gayrimenkullerin ivaz karşılığında veya ölünceye kadar bakma akdine dayanarak yahut trampa hükümlerine göre devir ve iktisabında gayrimenkulün beyan edilen devir ve iktisap bedelinden az olmamak üzere emlak vergisi değeri üzerinden devir eden ve devir alan için ayrı ayrı binde 15 oranında harç alınacağı hükme bağlanmıştır.
+Aynı Kanunun 123 üncü maddesinin son fıkrasında ise; anonim, eshamlı komandit ve limited şirketlerin kuruluş, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemlerin harca tabi tutulmayacağı ifade edilmektedir.
+İncelenmesinden de görüleceği üzere 123 üncü maddesindeki düzenleme ile, Kanunda bahsedilen şirketlerin kuruluş, sermaye artırımı, birleşme, devir bölünme ve nev'i değişikliklerine ilişkin işlemler harçtan müstesna tutulmuştur.
+Buna göre, şirket aktifinde kayıtlı gayrimenkulün satılarak bedeli sermayeye ilave edilecek olsa da, gayrimenkulün satışına ilişkin harçların istisnadan yararlandırılması mümkün bulunmamaktadır.
+Bilgi edinilmesini, söz konusu muktezanızın bu esaslar çerçevesinde yeniden değerlendirilerek, gereğinin ifasını rica ederim.
+
+Başkan a.

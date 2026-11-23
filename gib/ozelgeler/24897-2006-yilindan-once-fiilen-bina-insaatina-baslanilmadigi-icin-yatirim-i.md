@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 24897
+baslik: "2006 yılından önce fiilen bina inşaatına başlanılmadığı için yatırım indiriminden faydalanılmayan harcamaların 276 seri No'lu GVK Genel Tebliği'ne göre yatırım indiriminden faydalanıp faydalanamayacağı hk."
+tarih: 2011-11-23
+sayi: "B.07.1.GİB.4.34.16.01-GVK Geç.69-2087"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/24897
+gib_guncelleme: 2025-03-24T19:33:27
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 2006 yılından önce fiilen bina inşaatına başlanılmadığı için yatırım indiriminden faydalanılmayan harcamaların 276 seri No'lu GVK Genel Tebliği'ne göre yatırım indiriminden faydalanıp faydalanamayacağı hk.
+
+**İlgili maddeler:** Geçici Madde 69 (5479 sayılı Kanunun 3 üncü maddesiyle eklenen geçici madde; Yürürlük: 1/1/2006 tarihinden geçerli olmak üzere 08.04.2006); Madde 1 Verginin konusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Vergileri Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.34.16.01-GVK Geç.69-2087 | 23/11/2011
+Konu | : | 2006 yılından önce fiilen bina inşaatına başlanılmadığı için yatırım indiriminden faydalanılmayan harcamaların 276 seri No'lu GVK Genel Tebliği'ne göre yatırım indiriminden faydalanıp faydalanamayacağı
+
+İlgide kayıtlı özelge talep formunda, ... Vergi Dairesi Müdürlüğünün ... vergi kimlik numaralı mükellefi olduğunuzu, fabrika inşaati için 21/11/2005 tarihinde harcamalara başladığınızı, ancak 2006 yılı öncesi için Gelir Vergisi Kanunu'nun geçici 69'uncu maddesine göre fiilen bina inşaatına başlamadığınızdan dolayı Yatırım indiriminden faydalanamadığınızı belirterek 01.01.2006-08.04.2006 tarihleri arası yapmış olduğunuz harcamalar için 276 seri no.lu Gelir Vergisi Genel Tebliğine göre, yatırım indiriminden faydalanmanızın mümkün olup olmadığı hususunda bilgi talep edildiği anlaşılmakta olup konu hakkında Başkanlığımız görüşü aşağıda açıklanmıştır.
+193 sayılı Gelir Vergisi Kanununun Geçici 69'uncu maddesinde "Gelir ve kurumlar vergisi mükellefleri; 31/12/2005 tarihi itibarıyla mevcut olup, 2005 yılı kazançlarından indiremedikleri yatırım indirimi istisnası tutarları ile;
+a) 24/4/2003 tarihinden önce yapılan müracaatlara istinaden düzenlenen yatırım teşvik belgeleri kapsamında, 193 sayılı Gelir Vergisi Kanununun 9/4/2003 tarihli ve 4842 sayılı Kanunla yürürlükten kaldırılmadan önceki ek 1, 2, 3, 4, 5 ve 6 ncı maddeleri çerçevesinde başlanılmış yatırımları için belge kapsamında 1/1/2006 tarihinden sonra yapacakları yatırımları,
+b) 193 sayılı Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında 1/1/2006 tarihinden önce başlanan yatırımlarla ilgili olarak, yatırımla iktisadi ve teknik bakımdan bütünlük arz edip bu tarihten sonra yapılan yatırımları,
+nedeniyle, 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümlerine göre hesaplayacakları yatırım indirimi istisnası tutarlarını, (6009 sayılı Kanunun 5 inci maddesiyle değişen ibare Yürürlük; 2010 takvim yılı kazançlarına uygulanmak üzere 01.08.2010) yine bu tarihteki mevzuat hükümleri (bu Kanunun geçici 61 inci maddesinin ikinci fıkrasında yer alan vergi oranına ilişkin hüküm dâhil) çerçevesinde kazançlarından indirebilirler. (6009 sayılı Kanunun 5 inci maddesiyle eklenen cümleler Yürürlük; 2010 takvimyılı kazançlarına uygulanmak üzere 01.08.2010) Şu kadarki, vergi matrahlarının tespitinde yatırım indirimi istisnası olarak indirim konusu yapılacak tutar, ilgili kazancın % 25'ini aşamaz. Kalan kazanç üzerinden yürürlükteki vergi oranına göre vergi hesaplanır.
+Bu maddenin uygulanmasına ilişkin usûl ve esasları belirlemeye Maliye Bakanlığı yetkilidir." hükmü yer almaktadır.
+Konu ile ilgili olarak yayımlanan 276 seri no.lu Gelir Vergisi Genel Tebliğinde;
+"... 2.3. 1/1/2006-8/4/2006 tarihleri arasında yeni başlamış yatırımların durumu
+Anayasa Mahkemesinin 15/10/2009 tarihli ve 2006/95 Esas, 2009/144 Karar sayılı Kararıyla, 5479 sayılı Kanunun 15 inci maddesinin (2) numaralı bendindeki "2" rakamı iptal edilmiş bulunmaktadır.
+Bu çerçevede, 1/1/2006-8/4/2006 tarihleri arasında Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında yeni başlayan ve bu tarihler arasında yapılan yatırımlar nedeniyle hesaplanan yatırım indirimi tutarları da yatırım indirimi istisnasından yararlanabilecektir. Bu kapsamda olan yatırım harcamaları nedeniyle hesaplanan yatırım indirimi istisnası tutarlarının, ilgili dönemlerde kazancın bulunup bulunmadığına bakılmaksızın, 2010 hesap döneminden itibaren Tebliğin (3) numaralı bölümünde yapılan açıklamalar da dikkate alınarak ve endekslenmiş değerleri ile birlikte indirim konusu yapılması mümkün bulunmaktadır.
+Ancak, 8/4/2006 tarihinden sonra yeni başlayan yatırımlar nedeniyle yapılan harcamaların ya da 1/1/2006-8/4/2006 tarihinde başlamakla birlikte bu süre içinde tamamlanmayıp devam eden yatırımlar için 8/4/2006 tarihinden sonra yapılan harcamaların, yatırım indiriminden yararlanması mümkün değildir.
+..." açıklamalarına yer verilmiştir.
+Bu hüküm ve açıklamalar çerçevesinde, söz konusu yatırımınıza ilişkin olarak 01.01.2006-08.04.2006 tarihleri arasında yapmış olduğunuz harcama tutarları üzerinden hesaplanan yatırım indirimi istisnası tutarlarının 2006 yılında, bu yılda kazancın yetersiz olması halinde endekslenmek suretiyle müteakip yıllarda (2009 yılı hariç olmak üzere) kurum kazancından indirim konusu yapılabilecektir. Ancak, 2010 ve sonraki yıllarda indirim konusu yapılacak istisna tutarının ilgili kazancın %25'ini aşamayacağı tabiidir.
+Öte yandan, bina yatırımına 01.01.2006 tarihinden sonra başlanılmış olması nedeniyle bu yatırımınızla ilgili olarak 08.04.2006 tarihinden sonra yapılan harcamalar için yatırım indirimi istisnasından yararlanılamayacaktır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

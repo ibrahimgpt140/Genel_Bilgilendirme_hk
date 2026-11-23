@@ -1,0 +1,53 @@
+---
+tur: Özelge
+gib_id: 23421
+baslik: "Mahkeme tarafından ödenecek kıdem tazminatı ve ihbar tazminatının GVK'na göre verilecek beyannamede gider yazılıp yazılmayacağı,ödenecek damga vergisinin muhtasar beyannameye dahil edilip edilmeyeceği hk."
+tarih: 2013-08-14
+sayi: "97895701-155[19-2012/175]-1250   "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/23421
+gib_guncelleme: 2025-03-24T19:30:21
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Mahkeme tarafından ödenecek kıdem tazminatı ve ihbar tazminatının GVK'na göre verilecek beyannamede gider yazılıp yazılmayacağı,ödenecek damga vergisinin muhtasar beyannameye dahil edilip edilmeyeceği hk.
+
+**İlgili maddeler:** Madde 61 Ücretin Tarifi; Madde 19 İstihkaktan Kesinti Şekliyle Ödeme
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü
+
+Sayı : 97895701-155[19-2012/175]-1250 14/08/2013
+Konu : Mahkeme tarafından ödenecek kıdem tazminatı ve ihbar tazminatının GVK'na göre verilecek beyannamede gider yazılıp yazılmayacağı, ödenecek damga vergisinin muhtasar beyannameye dahil edilip edilmeyeceği hk.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, ... Vergi Dairesi Müdürlüğü mükelleflerinden ... vergi kimlik numarasında kayıtlı olan eşiniz ...'ın vefatı üzerine işyerinin kapanması nedeniyle ... Sulh Hukuk Mahkemesinin 2012/9 sayılı tereke dosyasıyla çalışanlara ödenecek kıdem tazminatı ve ihbar tazminatının 2012 takvim yılı serbest meslek kazancının tespitinde gider olarak indirilip indirilemeyeceği ile kıdem ve ihbar tazminatlarına ilişkin olarak ödenecek gelir vergisi ve damga vergisinin muhtasar beyannameye dahil edilip edilmeyeceği hususlarında görüş talep edildiği anlaşılmaktadır.
+Gelir Vergisi Kanunu Yönünden:
+193 sayılı Gelir Vergisi Kanununun "Serbest Meslek Kazancının Tarifi" başlıklı 65 inci maddesinde; "Her türlü serbest meslek faaliyetinden doğan kazançlar serbest meslek kazancıdır.
+Serbest meslek faaliyeti; sermayeden ziyade şahsi mesaiye, ilmi veya mesleki bilgiye veya ihtisasa dayanan ve ticari mahiyette olmıyan işlerin işverene tabi olmaksızın şahsi sorumluluk altında kendi nam ve hesabına yapılmasıdır..." hükmü yer almaktadır.
+Aynı Kanunun "Mesleki Giderler" başlıklı 68 inci maddesinde serbest meslek kazancının tespitinde indirilecek giderler sayılmak suretiyle belirtilmiştir.
+Kanunun 61 inci maddesinde; "Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetini değiştirmez... " hükmüne,
+94 üncü maddesinin birinci fıkrasında, yaptıkları ödemeler üzerinden tevkifat yapmaya
+mecbur olanlar sayılmış olup anılan fıkranın birinci bendinde, "Hizmet erbabına ödenen ücretler ile 61 inci maddede yazılı olup ücret sayılan ödemelerden (istisnadan faydalananlar hariç), 103 ve 104 üncü maddelere göre" gelir vergisi tevkifatı yapılacağı hükmüne yer verilmiştir.
+Ayrıca Kanunun 25 inci maddesinin birinci fıkrasının (7) numaralı bendi ile 1475 ve 854 sayılı Kanunlara göre ödenmesi gereken kıdem tazminatlarının tamamı ile 5953 sayılı Kanuna göre ödenen kıdem tazminatlarının hizmet erbabının 24 aylığını aşmayan miktarlarının (hizmet ifa etmeksizin ödenen ücretler tazminat sayılmaz) gelir vergisinden müstesna olacağı hüküm altına alınmıştır.
+Diğer taraftan, 1475 sayılı İş Kanununun 14 üncü maddesinde,
+" Kıdem Tazminatı: Bu Kanuna tabi işçilerin hizmet akitlerinin:
+1. İşveren tarafından bu Kanunun 24 üncü maddesinin II numaralı bendinde gösterilen sebepler dışında,
+2. İşçi tarafından bu Kanunun 25 inci maddesi uyarınca,
+3. Muvazzaf askerlik hizmeti dolayısıyla,
+4. Bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malullük aylığı yahut toptan ödeme almak amacıyla;
+5. 506 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (A) bendinin (a) ve (b) alt bentlerinde öngörülen yaşlar dışında kalan diğer şartları veya aynı kanunun geçici 81 inci maddesine göre yaşlılık aylığı bağlanması için öngörülen sigortalılık süresini ve prim ödeme gün sayısını tamamlayarak kendi istekleriyle işten ayrılmaları nedeniyle, Feshedilmesi veya kadının evlendiği tarihten itibaren bir yıl içerisinde kendi arzusu ile sona erdirmesi veya işçinin ölümü sebebiyle son bulması hallerinde işçinin işe başladığı tarihten itibaren hizmet akdinin devamı süresince her geçen tam yıl için işverence işçiye 30 günlük ücreti tutarında kıdem tazminatı ödenir. Bir yıldan artan süreler için de aynı oran üzerinden ödeme yapılır.
+Ancak, toplu sözleşmelerle ve hizmet akitleri ile belirlenen kıdem tazminatlarının yıllık miktarı, Devlet Memurları Kanununa tabi en yüksek Devlet memuruna 5434 sayılı T.C. Emekli Sandığı Kanunu hükümlerine göre bir hizmet yılı için ödenecek azami emeklilik ikramiyesini geçemez." hükmü bulunmaktadır.
+Öte yandan, 22.05.2003 tarih ve 4857 sayılı İş Kanununun 120 nci maddesi ile 1475 sayılı Kanunun kıdem tazminatını düzenleyen 14 üncü maddesi hariç diğer maddeleri yürürlükten kaldırılmış, Kanunun Geçici 1 inci maddesinde, "Diğer mevzuatta 1475 sayılı İş Kanununa yapılan atıflar bu Kanuna yapılmış sayılır.
+Bu Kanunun 120 nci maddesi ile yürürlükte bırakılan 1475 sayılı İş Kanununun 14 üncü maddesinin birinci fıkrasının 1 inci ve 2 nci bendi ile onbirinci fıkrasında, anılan Kanunun 16, 17 ve 26 ncı maddelerine yapılan atıflar, bu Kanunun 24, 25 ve 32 nci maddelerine yapılmış sayılır." hükmüne yer verilmiştir.
+Bu hüküm ve açıklamalara göre, eşinizin vefatı dolayısıyla kapatılan işyerindeki çalışanların iş akdinin feshedilmesi nedeniyle, 1475 ve 854 sayılı Kanunlara göre ödenecek kıdem tazminatlarının tamamının Gelir Vergisi Kanununun 25 inci maddesinin 7 nci bendi uyarınca gelir vergisinden istisna edilmesi, ödenen ihbar tazminatının ise Gelir Vergisi Kanununun 61 inci maddesi gereğince ücret olarak değerlendirilmesi ve aynı Kanunun 94 üncü maddesi uyarınca gelir vergisi tevkifatına tabi tutulması gerekmektedir.
+Diğer taraftan, ödenen kıdem tazminatı ile ihbar tazminatının Gelir Vergisi Kanununun 68 inci maddesinin birinci fıkrasının 10 uncu bendi çerçevesinde serbest meslek kazancının tespitinde gider olarak indirilmesi mümkün bulunmaktadır.
+Damga Vergisi Kanunu Yönünden:
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3 ncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu; 19 uncu maddesinde, genel ve özel bütçeli dairelerle il özel idareleri ve belediyeler, bankalar, iktisadi kamu teşekkülleri ile bunların iştirakleri ve müesseseleri ve benzeri teşekkül, iştirak ve müesseselerin ödemelerinde kullanılan ve nispi vergiye tabi bulunan makbuzlarla bu mahiyetteki kağıtlara ait vergilerin, bu ödemelerin yapılması, avans suretiyle ödemelerde avansın itası sırasında ilgili daire ve müesseseler tarafından istihkaklardan kesinti yapılması şekliyle tahsil edileceği; lüzum görülen hallerde damga vergisini istihkaktan kesinti yapılması şeklinde ödetme konusunda Bakanlığımıza yetki tanındığı; 23 üncü maddesinde, genel bütçeli daireler dışında kalan ve istihkaktan kesinti yapmak durumunda bulunan daire ve müesseseler tarafından bir ay içinde kesilen damga vergisinin, ertesi ayın yirminci (371 sıra no.lu VUK Tebliği uyarınca 23 üncü) günü akşamına kadar ödemenin yapıldığı yer vergi dairesine bir beyanname ile bildirileceği ve 26 ncı günü akşamına kadar yatırılacağı hükme bağlanmıştır.
+Mezkur Kanuna ekli (1) sayılı tablonun "IV. Makbuzlar ve diğer kağıtlar" başlıklı bölümünün 1/b fıkrasında, "Maaş, ücret, gündelik, huzur hakkı, aidat, ihtisas zammı, ikramiye, yemek ve mesken bedeli, harcırah, tazminat ve benzeri her ne adla olursa olsun hizmet karşılığı alınan paralar (avans olarak ödenenler dahil) için verilen makbuzlar ile bu paraların nakden ödenmeyerek kişiler adına açılmış veya açılacak cari hesaplara nakledildiği veya emir ve havalelerine tediye olunduğu takdirde nakli veya tediyeyi temin eden kağıtlar" ın nispi damga vergisine tabi olduğu hükme bağlanmıştır. 2009/15725 sayılı Bakanlar Kurulu Kararı ile 01/01/2010 tarihinden geçerli olmak üzere Kanuna ekli (1) sayılı tablonun IV/1-b fıkrasındaki kağıtlara ilişkin damga vergisi oranı binde 6,6 olarak belirlenmiştir.
+Diğer taraftan, 10 Seri No.lu Damga Vergisi Genel Kanunu Tebliğinde; "Buna göre, yaptıkları ödemelerden kestikleri gelir vergisini sorumlu sıfatıyla aylık muhtasar beyanname ile vergi dairesine bildirerek ödemek mecburiyetinde olan gerçek veya tüzel kişilerin, bu ödemeler sebebiyle düzenlenen kâğıtlara ait damga vergilerini de bu muhtasar beyanname ile aynı vergi dairesine ödemeleri Bakanlığımızca uygun görülmüştür." denilmektedir.
+Buna göre, eşiniz ...'ın vefatı üzerine işyerinin kapanması nedeniyle ... Sulh Hukuk Mahkemesinin 2012/9 sayılı tereke dosyasıyla çalışanlara yapılacak kıdem tazminatı ve ihbar tazminatı ödemelerine ilişkin düzenlenen kağıtların binde 6,6 nispetinde damga vergisine tabi tutulması ve söz konusu verginin ertesi ayın 23 üncü akşamına kadar vergi dairesine verilecek muhtasar beyanname ile bildirilmesi ve 26 ncı günü akşamına kadar ödenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.

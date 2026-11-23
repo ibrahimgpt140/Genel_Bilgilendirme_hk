@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 22156
+baslik: "6306 sayılı Kanun kapsamında alınan kira yardımının vergi kanunları karşısındaki durumu hk."
+tarih: 2015-11-06
+sayi: "B.07.1.GİB.4.06.18.02-105[229-2015-41]-1170"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/22156
+gib_guncelleme: 2025-03-24T19:29:06
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 6306 sayılı Kanun kapsamında alınan kira yardımının vergi kanunları karşısındaki durumu hk.
+
+**İlgili maddeler:** Madde 37 Ticari Kazancın Tarifi; Madde 227 İspat Edici Kağıtlar; Madde 229 Faturanın Tarifi; Madde 232 Fatura Kullanma Mecburiyeti; Madde 6 Safî kurum kazancı; Madde 1 Verginin Konusunu Teşkil Eden İşlemler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 27575268-105[229-2015-41]-1170 | 06/11/2015
+Konu | : | 6306 sayılı Kanun kapsamında alınan kira yardımının vergi kanunları karşısındaki durumu hk.
+
+İlgide kayıtlı özelge talep formunuz ve dilekçenizin incelenmesinden, … Vergi Dairesi Müdürlüğünün … vergi kimlik numaralı mükellefi olduğunuz, … İlçesi, … ada, … parselde bulunan binayı yeniden inşa etmek amacıyla satın aldığınız, söz konusu binanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun hükümlerine göre "Riskli Yapı" kapsamına dahil edilmesi nedeniyle binanın yıkıldığı ve bu kapsamda TOKİ tarafından firmanıza her ay kira yardımı yapıldığı belirtilerek, söz konusu kira yardımı ödemelerinin Kurumlar Vergisi ve Katma Değer Vergisi karşısındaki durumu ile fatura düzeni hakkında Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+A-KURUMLAR VERGİSİ KANUNU YÖNÜNDEN DEĞERLENDİRME:
+5520 sayılı Kurumlar Vergisi Kanununun 6 ncı maddesinde, kurumlar vergisinin, birinci maddede yazılı mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde de, Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hükme bağlanmış olup, aynı kanunun 37 nci maddesinde de her türlü ticari ve sınai faaliyetlerden doğan kazançların ticari kazanç olduğu belirtilmiştir.
+Bu itibarla, 16/05/2012 tarihli ve 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında TOKİ tarafından şirketinize yapılan kira yardımı ödemelerinin ticari kazancın bir unsuru olarak kurum kazancına dahil edilmesi ve vergilendirilmesi gerekmektedir.
+B- KATMA DEĞER VERGİSİ KANUNU YÖNÜNDEN DEĞERLENDİRME:
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun 1/1 inci maddesinde; ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti kapsamında Türkiye'de yapılan teslim ve hizmetlerin katma değer vergisine tabi olduğu hüküm altına alınmıştır.
+Öte yandan, 6306 sayılı Afet Riski Altındaki Alanlarının Dönüştürülmesi Hakkındaki Kanunun 5 inci maddesinde, riskli yapıların yıktırılmasında ve bunların bulunduğu alanlar ile riskli alanlar ve rezerv yapı alanlarındaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesinin esas olduğu, anlaşma ile tahliye edilen yapıların maliklerine veya malik olmasalar bile kiracı veya sınırlı ayni hak sahibi olarak bu yapılarda ikamet edenlere veya bu yapılarda işyeri bulunanlara geçici konut veya işyeri tahsisi ya da kira yardımı yapılabileceği hüküm altına alınmıştır.
+Bu hüküm ve açıklamalar çerçevesinde, söz konusu Kanun kapsamında TOKİ tarafından Şirketinize yapılan kira yardımı ödemeleri KDV'nin konusuna girmemektedir.
+C-VERGİ USUL KANUNU YÖNÜNDEN DEĞERLENDİRME:
+213 sayılı Vergi Usul Kanununun 227 nci maddesinin 1 inci fıkrasında, bu kanunda aksine hüküm olmadıkça bu kanuna göre tutulan ve üçüncü şahıslarla olan münasebet ve muamelelere ait olan kayıtların tevsikinin mecburi olduğu belirtilmiş, 229 uncu maddesinde, fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen vesika olarak tarif edilmiş, 232 nci maddesinde ise fatura kullanma mecburiyetinde olanlar sayılmıştır.
+Buna göre, 16/05/2012 tarihli ve 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında TOKİ tarafından şirketinize yapılan kira yardımı ödemelerinin ticari kazancın bir unsuru olarak kurum kazancına dahil edilerek vergilendirilecek olması nedeniyle, şirketinize yapılan söz konusu kira yardımı ödemeleri karşılığında Vergi Usul Kanunu hükümleri uyarınca fatura düzenlemeniz gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36313
+baslik: "Ticari minibüse ait hat bedeli veraset ve intikal vergisine tabi olup, veraset yoluyla intikal eden ticari minibüsün rayiç bedel tespiti yapılırken minibüsün kendisi için ayrı, hat bedelini de içeren ticari plaka için ayrı rayiç bedel takdiri yapılması ge"
+tarih: 2002-07-19
+sayi: "B.07.0.GEL.0.60/6000-2257/32068"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36313
+gib_guncelleme: 2025-03-24T20:34:20
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ticari minibüse ait hat bedeli veraset ve intikal vergisine tabi olup, veraset yoluyla intikal eden ticari minibüsün rayiç bedel tespiti yapılırken minibüsün kendisi için ayrı, hat bedelini de içeren ticari plaka için ayrı rayiç bedel takdiri yapılması ge
+
+**İlgili maddeler:** Madde 1 Verginin mevzuu; Madde 2 Kanunda kullanılan tabirler
+
+İIgide kayıtlı yazınızda, 18/01/2002 tarihinde vefat eden .....'ın mirasçıları tarafından İliniz ..... Vergi Dairesi Müdürlüğü'ne verilen veraset ve intikal vergisi beyannamesinde, 30.000.000.000.-TL. beyan edilen intikale konu ticari minibüsle ilgili olarak adı geçen vergi dairesince yapılan yoklama neticesinde, söz konusu minibüsün hat bedelinin piyasadaki tutarının 120.000.000.000.- TL olduğunun tespit edildiği ve rayiç bedel takdiri için olayın Takdir Komisyonuna intikal ettirildiği ancak, araca ait hat bedelinin veraset ve intikal vergisine tabi tutulup tutulmayacağı hususunda tereddüte düşüldüğü bildirilerek, konu hakkında BakanIığımız görüşünün bildirilmesi istenilmektedir. Bilindiği üzere, 7338 sayılı Veraset ve İntikal Vergisi Kanunu'nun 1'inci maddesinde, Türkiye Cumhuriyeti tabiiyetinde bulunan şahıslara ait mallarla Türkiye'de bulunan malların veraset yoluyla veya herhangi bir suretle ivazsız olarak bir şahıstan diğer şahsa intikalinin veraset ve intikal vergisine tabi olduğu belirtilmiş, aynı Kanunun 2'nci maddesinin (b) fıkrasında da, "mal" tabirinin, mülkiyete mevzu olabilen menkul ve gayrimenkul şeylerle mameleke girebilen sair bütün haklara ve alacakları ifade ettiği hususuna yer veriImiştir. Diğer taraftan, 1 Seri No.lu Veraset ve İntikal Vergisi Kanunu Genel Tebliğinin, Kanunun 2'nci maddesi ile ilgili bölümünde, malların; menkul (Kıymet ve mahiyetine helal gelmeksizin bir yerden diğer bir yere naklolunabilen mobilya, banknot, kıymetli evrak gibi) ve gayrimenkul (Tarla, ev, apartman gibi yerini değiştirmeyen) olarak ikiye ayırmanın mümkün olduğu gibi (Maddi mallar) ve (Gayri maddi mallar) diye de tefrik edilebileceği belirtiImiş ve mamelek ise bir şahsın hukuki bir bütünlük teşkil eylemek üzere sahip ve mükellef olabiIeceği, para ile ödenebilen mal, hak ve borçların tamamı şekIinde tanımlanmıştır. Veraset yoluyla intikal eden miras bir bütün olup, Kanun'un 2'nci maddesinde yazılı mal tanımına giren her şey terekeye dahil olmakta ve vergileme mirasın tamamı üzerinden yapılmaktadır. Dolayısıyla yazınızda sözü edilen olayda, 18/01/2002 tarihinde vefat eden .....'dan mirasçılarına intikal eden ..... plakalı ticari minibüsün kendisi dışında, minibüsün hat değerini de içeren ticari plaka bedeli "mal" tanımı kapsamına girmektedir. Ayrıca, ticari taksi ve minibüsler, hat (güzergah) değerini de içeren ticari plaka bedeli ile birlikte satışa konu olabiIdiği gibi, taksi veya minibüsün kendisi ve ticari plaka ayrı ayrı da satışa konu olabilmektedir. Bu nedenle, takdir komisyonlarınca veraset yoluyla intikal eden ticari minibüsün rayiç bedel tespiti yapılırken minibüsün kendisi için ayrı, hat bedelini de içeren ticari plaka için ayrı rayiç bedel takdiri yapılması gerekir. BiIgi edinilmesini ve gereğince işlem yapılmasını rica ederim.

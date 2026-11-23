@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 29644
+baslik: "Ödeme Kaydedici Cihaz Kullanma Mecburiyeti hk."
+tarih: 2011-10-25
+sayi: "B.07.1.GİB.4.44.15.01-ÖKC-2010-1-20"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29644
+gib_guncelleme: 2025-03-24T19:56:05
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ödeme Kaydedici Cihaz Kullanma Mecburiyeti hk.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 1 Kapsam
+
+T.C. GELİR İDARESİ BAŞKANLIĞI MALATYA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.44.15.01-ÖKC-2010-1-20 | 25/10/2011
+Konu | : | Ödeme Kaydedici Cihaz Kullanma Mecburiyeti
+
+İlgide kayıtlı özelge talep formunda; ... Lojmanları Karargah Grup Komutanlığı kantin bitişiğinde hazır yiyecek işi ile iştigal ettiğiniz, 2010 yılı Şubat-Mart-Nisan aylarında elde edilen hasılatın %5'ini ve Mayıs-Haziran-Temmuz-Ağustos-Eylül aylarında da elde edilen hasılatın %10'unu ilgili idareye kar olarak vereceğiniz, belirtilen adreste ... Ordu Sosyal Tesisler Müdürlüğüne ait ödeme kaydedici cihaz kullanıldığı belirtilerek, söz konusu mükellefiyetiniz ile ilgili olarak 3100 sayılı Kanunun gereğince 60 gün içerisinde ödeme kaydedici cihaz alıp kullanma mecburiyetinizin bulunup bulunmadığı ve KDV mükellefiyetinizin olup olmadığı hususunda, Başkanlığımızdan görüş talep edilmektedir.
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun 1/1 maddesinde, ticarî, sınaî, ziraî faaliyet ve serbest meslek faaliyeti çerçevesinde Türkiye'de yapılan teslim ve hizmetlerin katma değer vergisine tabi olduğu hüküm altına alınmıştır.
+3100 sayılı Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında Kanunun 1 inci maddesinin 1 numaralı bendinde; satışı yapılan malları aynen veya işlendikten sonra satışını yapanlar dışındaki kimselere satan veya aynı kimselere hizmet veren birinci ve ikinci sınıf tüccarların, bu Kanuna göre ödeme kaydedici cihaz kullanmak mecburiyetinde oldukları hükme bağlanmıştır.
+51 Seri No.lu Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında Kanunla İlgili Genel Tebliğ ile de, ödeme kaydedici cihazları kullanma mecburiyeti, kalkınmada birinci ve ikinci derecede öncelikli yörelerde faaliyet gösteren mükellefler için işe başlama tarihinden itibaren 60 gün olarak belirlenmiştir.
+Bu hüküm ve açıklamalar uyarınca, ... Lojmanları Karargah Grup Komutanlığı ... adresinde 01.02.2010 tarihinde başladığınız ticari faaliyet (hazır yiyecek faaliyeti) çerçevesinde yapılan teslim ve hizmetler, katma değer vergisine tabi olup, bu faaliyetiniz ile ilgili olarak 3100 sayılı Kanun ve Tebliğ hükümleri doğrultusunda, işe başlama tarihinden itibaren 60 gün içinde ödeme kaydedici cihaz alıp kullanmaya başlamanız gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

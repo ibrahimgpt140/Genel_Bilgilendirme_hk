@@ -10,8 +10,8 @@ Kullanım:
   python3 araclar/gib/gib_tara.py guncelle
       Tümünü yeniden tarar (API güncellenme tarihine göre sıralamaya izin
       vermiyor), yalnızca yeni/değişen dosyaları yazar ve gib/GUNLUK.md'ye ekler.
-      Özelgeler her zaman en az son 5 yıl taranır (5 yıl sonunda belgeler geçersiz
-      sayılır); 5 yılı dolan özelgeler künyede ve dizinde işaretlenir, günlüğe yazılır.
+      Özelgelerin tamamı tutulur (kullanıcı talebi, 23.11.2026); 5 yılı aşanlar künyede ve
+      dizinde ⚠ ile işaretlenir, o gün 5 yılı dolanlar günlüğe yazılır.
 """
 import argparse, json, os, re, sys, time, urllib.request, html as htmlmod
 from datetime import datetime, timezone
@@ -123,7 +123,7 @@ def yaz(tur, k):
         f"kanun: {json.dumps(((k.get('kanunNo') or '') + ' ' + (k.get('kanunTitle') or '')).strip(), ensure_ascii=False)}",
         f"kaynak: {k.get('siteLink') or k.get('link') or ''}",
         f"gib_guncelleme: {(k.get('updated_at') or '')[:19]}",
-    ] + ([f"bes_yil: {'ASILDI' if tarih(k, ta) and tarih(k, ta) < bes_yil_siniri() else 'gecerli'}"]
+    ] + ([f"bes_yil: {('ASILDI' if tarih(k, ta) < bes_yil_siniri() else 'gecerli') if tarih(k, ta) else 'TARIHSIZ'}"]
          if tur in BES_YIL_TURLER else []) + [
         f"alindi: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
         "---", "", f"# {baslik}", "",
@@ -163,12 +163,12 @@ def dizin_yaz():
             o.write(f"# GİB {ad} dizini ({len(kayit)} kayıt)\n\nKaynak: gib.gov.tr mevzuat. En yeni üstte.\n\n")
             if bes:
                 o.write(f"**5 yıl sınırı:** {bes_yil_siniri()} tarihinden eski belgeler 5 yılı aşmıştır "
-                        f"(⚠ işaretli, {asan} kayıt).\n\n| Tarih | 5 yıl | Sayı | Kanun | Başlık |\n|---|---|---|---|---|\n")
+                        f"(⚠ işaretli, {asan} kayıt). GİB'de tarihi girilmemiş özelgeler \"? tarihsiz\" ile gösterilir.\n\n| Tarih | 5 yıl | Sayı | Kanun | Başlık |\n|---|---|---|---|---|\n")
             else:
                 o.write("| Tarih | Sayı | Kanun | Başlık |\n|---|---|---|---|\n")
             for t, s, kn, b, f, by in kayit:
                 b = b.replace("|", "/")
-                isaret = (" | ⚠ aşıldı" if by == "ASILDI" else " | ✓") if bes else ""
+                isaret = ({"ASILDI": " | ⚠ aşıldı", "TARIHSIZ": " | ? tarihsiz"}.get(by, " | ✓")) if bes else ""
                 o.write(f"| {t}{isaret} | {s.replace('|','/')} | {kn} | [{b}]({f}) |\n")
         toplam.append((ad, klasor, len(kayit)))
     return toplam

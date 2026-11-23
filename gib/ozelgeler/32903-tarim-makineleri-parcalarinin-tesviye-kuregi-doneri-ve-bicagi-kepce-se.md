@@ -1,0 +1,28 @@
+---
+tur: Özelge
+gib_id: 32903
+baslik: "Tarım makineleri parçalarının (tesviye küreği döneri ve bıçağı, kepçe selesi, şasesi ve ağzı, ot tırmığı makinesinin şase boruları ve teli vb.) tesliminde uygulanacak KDV oranı hk."
+tarih: 2012-02-09
+sayi: "B.07.1.GİB.4.42.16.02-KDV-2/3373-13"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32903
+gib_guncelleme: 2025-03-24T20:09:16
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Tarım makineleri parçalarının (tesviye küreği döneri ve bıçağı, kepçe selesi, şasesi ve ağzı, ot tırmığı makinesinin şase boruları ve teli vb.) tesliminde uygulanacak KDV oranı hk.
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI KONYA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.42.16.02-KDV-2/3373-13 | 09/02/2012
+Konu | : | Tarım makineleri parçalarının (tesviye küreği döneri ve bıçağı, kepçe selesi, şasesi ve ağzı, ot tırmığı makinesinin şase boruları ve teli vb.) tesliminde uygulanacak KDV oranı hak.
+
+İlgide kayıtlı dilekçenizde, tarım aletlerinin yedek parçaları olan tesviye küreği döneri ve bıçağı (dolgu ve kanal açma), kepçe selesi, şasesi ve ağzı (pancar ve saman yükleme işleri) ot tırmığı makinesinin şase boruları, teli ve göbeği (biçilmiş yeşil otların dağıtılması, havalandırılması) ve saman aspiratörü makinesi içindeki aspiratör fanı satışında uygulanması gereken katma değer vergisi (KDV) oranı hakkında bilgi talep edilmektedir.
+KDV oranları, KDV Kanununun 28'inci maddesinin verdiği yetkiye dayanılarak yayımlanan 2007/13033 sayılı Bakanlar Kurulu Kararnamesi ile Kararname eki I sayılı listede yer alan teslim ve hizmetler için % 1, II sayılı listede yer alan teslim ve hizmetler için % 8, bu listelerde yer almayan vergiye tabi işlemler için ise %18 olarak tespit edilmiştir.
+2007/13033 sayılı Bakanlar Kurulu Kararnamesi eki II sayılı listenin (B DİĞER MAL VE HİZMETLER) bölümünün 28'inci sırasına 2009/14812 sayılı Bakanlar Kurulu Kararnamesi ile "8433.90 Aksam ve parçalar (84.33 pozisyonundaki makine ve cihazlara ait olanlar)" ibaresi eklenmiştir.
+Buna göre, 2009/14812 sayılı Bakanlar Kurulu Kararnamesinin yürürlüğü olan 30/03/2009 tarihinden itibaren, 84.33 tarife pozisyonunda yer alan makine ve cihazların aksam ve parçaları ile ilgili "8433.90" tarife alt açılımındaki "aksam ve parçalar"ın ithali veya yurtiçi teslimi %8 oranında KDV'ye tabi bulunmaktadır.
+Bu nedenle, özelge talep formunda belirtilen tarım makineleri kesim aksam ve parçalarından olan tesviye küreği döneri ve bıçağı, kepçe selesi, şasesi ve ağzı, ot tırmığı makinesinin şase boruları, teli ve göbeği ve saman aspiratörü makinesi içindeki aspiratör fanının Türk Gümrük Tarife Cetvelinin 84.33 pozisyonunda yer alan makine ve cihazlara ait olması halinde ithali veya yurtiçi tesliminde %8 oranında: 84.33 pozisyonunda yer alan makine ve cihazlara ait olmaması halinde %18 oranında KDV'ye tabi olacaktır.
+Bilgi edinilmesini rica ederim.

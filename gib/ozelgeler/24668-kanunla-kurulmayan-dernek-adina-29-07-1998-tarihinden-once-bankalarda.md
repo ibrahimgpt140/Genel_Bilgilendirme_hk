@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24668
+baslik: "Kanunla kurulmayan dernek adına 29/07/1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlerden tevkifat yapılmayacak ancak, bu tarihten sonra açılan veya vadesi yenilenen hesaplara yürütülecek faizlerden gelir vergisi tevkifatı y"
+tarih: 2000-09-19
+sayi: "B.07.0.GEL0.51/5144-475/50532"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24668
+gib_guncelleme: 2025-03-24T19:32:42
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kanunla kurulmayan dernek adına 29/07/1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlerden tevkifat yapılmayacak ancak, bu tarihten sonra açılan veya vadesi yenilenen hesaplara yürütülecek faizlerden gelir vergisi tevkifatı y
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı
+
+T.C. MALİYE BAKANLIĞI GeIirIer Genel Müdürlüğü TARİH : 19.09.2000 SAYI : B.07.0.GEL0.51/5144-475/50532 KONU : Derneğin bankalardaki mevduatlarına yürütülen faizlerden GV. tevkifatı yapılıp yapılmayacağı hk. ............ VALİLİĞİ (Defterdarlık : Gelir Müdürlüğü) İLGİ : ............ tarih ve ............sayılı yazınız. İlgi yazınız ekinde alınan, ..... Derneği'ne yazılan 18/09/2000 tarih ve 4437 sayılı muktezanın son paragrafında, adı geçen Derneğin tam mükellef kurum sayılmadığından, bankalardaki mevduat faizlerinden gelir vergisi tevkifatı yapılmayacağı belirtilmektedir. Bilindiği üzere, 193 sayılı Gelir Vergisi Kanunu'nun 94 üncü maddesinin birinci fıkrasının 4369 sayılı Kanunun 48 nci maddesiyle değişik 8 numaralı bendinde, kanunla kurulan dernek ve vakıflar ile dernek ve vakıf olmamakla birlikte; odalar, borsalar, meslek örgütleri ve bunların üst kuruluşları, siyasi partiler, emekli ve yardım sandıkları gibi vergi uygulamalarında dernek ve vakıf olarak kabul edilenler hariç, dernek ve vakıflar ile tam mükellef kurumlara ödenenler dahil, mevduat hesaplarına yürütülen faizlerden gelir vergisi tevkifatı yapılacağı hükme bağlanmıştır. Diğer taraftan, 22/08/1998 tarih ve 23441 sayılı Resmi Gazete'de yayımlanan 59 Seri No.Iu Kurumlar Vergisi Genel Tebliği'nin "Dernek ve Vakıflara Ödenen Menkul Sermaye İratlarında Tevkifat" başlıklı (1.2.1.) bölümünde bu hükmün 29/07/1998 tarihinden itibaren, vadesiz hesaplara ödenecek faizlerle, bu tarihten itibaren açılan veya vadesi yenilenen hesaplara ödenecek mevduat faizlerine uygulanacağı, bu tarihten önce açılmış olan vadeli hesaplara ödenen faizlerden tevkifat yapılmayacağı ve tevkifat uygulamasında mevduat hesabının vade tarihinin önemli olmadığı açıklanmıştır. Bu durumda, adı geçen Dernek kanunla kurulmadığından, dernek adına 29/07/1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlerden tevkifat yapılmayacağı ancak, bu tarihten sonra açılan veya vadesi yenilenen hesaplara yürütülecek faizlerden gelir vergisi tevkifatı yapılacağı tabiidir. Bilgi edinilmesini söz konusu özelgenin yukarıdaki açıklamalar çerçevesinde gözden geçirilmesini ve gereğini rica ederim. Bakan a.

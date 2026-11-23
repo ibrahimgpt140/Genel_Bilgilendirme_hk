@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 29184
+baslik: "Mahkeme kararı ile tespit edilen kira bedelinde KDV matrahı"
+tarih: 2015-06-18
+sayi: "B.07.1.GİB.4.34.17.01-010-61639"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29184
+gib_guncelleme: 2025-03-24T19:54:44
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Mahkeme kararı ile tespit edilen kira bedelinde KDV matrahı
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+
+Sayı | : | 39044742-010-61639 | 18/06/2015
+Konu | : | Mahkeme kararı ile tespit edilen kira bedelinde KDV matrahı
+
+İlgide kayıtlı özelge talep formunda, Şirketiniz aktifinde yer alan … adresindeki gayrimenkulle ilgili kira tespit davası sonucu … Mahkemesince taraflar arasındaki aylık kiranın 01.01.2012 tarihinden itibaren 32.000,00 TL olarak tespitine karar verildiği belirtilerek söz konusu bedele ilişkin katma değer vergisi (KDV) matrahının nasıl hesaplanacağı hususunda Başkanlığımız görüşü sorulmaktadır.
+
+KDV Kanununun;
+
+- 1/1 inci maddesinde; Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV'ye tabi olduğu,
+
+- 20/1 inci maddesinde; teslim ve hizmet işlemlerinde matrahın, bu işlemlerin karşılığını teşkil eden bedel olduğu,
+
+- 27 nci maddesinde; bedeli bulunmayan veya bilinmeyen işlemler ile bedelin mal, menfaat, hizmet gibi paradan başka değerler olması halinde matrah işlemin mahiyetine göre emsal bedeli veya emsal ücret olacağı, bedelin emsal bedeline veya emsal ücretine göre açık bir şekilde düşük olduğu ve bu düşüklüğün mükellefçe haklı bir sebeple açıklanamadığı hallerde de, matrah olarak emsal bedeli veya emsal ücretin esas alınacağı, emsal bedeli ve emsal ücreti Vergi Usul Kanunu hükümlerine göre tespit olunacağı hüküm altına alınmıştır.
+
+Vergi Usul Kanununun 267 nci maddesinde ise; emsal bedelin, gerçek bedeli olmayan veya bilinmeyen veyahut doğru olarak tespit edilemeyen bir malın, değerleme gününde satılması halinde emsaline nazaran haiz olacağı değer olduğu belirtilerek emsal bedelin sırası ile ortalama fiyat esası, maliyet bedeli esası ve takdir esası esaslarına göre tayin olunacağı açıklanmış ve bu esaslarla mukayyet olmaksızın kaza mercilerinin re'sen biçtikleri değerler ile zirai kazanç ölçülerini tespit eden kararnamelerde yer alan unsurların emsal bedeli yerine geçeceği hükmüne yer verilmiştir.
+
+Öte yandan, … Mahkemesinde açılan davaya konu emsal bedele ilişkin olarak, davacının 45.913,34 TL + KDV olarak dava açtığı ve mahkeme tarafından bu davaya ilişkin olarak kira bedelinin 32.000,00 TL olarak belirlendiği anlaşılmıştır.
+
+Bu hüküm ve açıklamalar çerçevesinde; mahkeme kararı ile belirlenen kira bedeli matrah olarak kabul edilmek suretiyle belirlenen tutar üzerinden KDV hesaplanması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 34421
+baslik: "Yurtdışı fuarlara gönderilecek ürünlerin nakliyesine yönelik sözleşmelerin damga vergisi hk."
+tarih: 2018-09-18
+sayi: "66813766-155[1-2016/76]-359968"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34421
+gib_guncelleme: 2025-03-24T20:18:23
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yurtdışı fuarlara gönderilecek ürünlerin nakliyesine yönelik sözleşmelerin damga vergisi hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 3 Mükellef; Madde 9 İstisnalar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İZMİR VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Kdv ve Diğer Vergiler Grup Müdürlüğü)
+
+Sayı : 66813766-155[1-2016/76]-359968 18.09.2018
+Konu : Yurtdışı fuarlara gönderilecek ürünlerin nakliyesine yönelik sözleşmelerin damga vergisi hk.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, yurt dışı fuarlarda Birliklerinizce ve sektörel tanıtım gruplarınızca kullanılacak tanıtım ve teşhir amaçlı bazı malların yurt dışı fuar alanına nakliyesi amacıyla, yurt içinde yerleşik nakliye firmaları ile düzenlenen bir örneği özelge talep formuna ekli sözleşmelerin damga vergisinden istisna edilip edilemeyeceği hususunda görüş talep edildiği anlaşılmıştır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu; 9 uncu maddesinde, bu Kanuna ekli (2) sayılı tabloda yazılan kağıtların damga vergisinden müstesna olduğu hüküm altına alınmıştır.
+488 sayılı Damga Vergisi Kanuna ekli (2) sayılı tablonun "IV. Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümüne 6728 sayılı Kanunun 29 uncu maddesi ile eklenen (48) numaralı fıkrada, "Ürünlerin yurt dışında tanıtım ve pazarlamasını sağlamak amacıyla, miktarı ticari teamüllere uygun örnek ürünler, tanıtım malzemeleri veya promosyon amaçlı ürünlerin bedelsiz ihracatına ilişkin düzenlenen kâğıtlar ile yurt dışındaki fuarlara katılım amacıyla düzenlenen kâğıtlar" damga vergisinden istisna edilmiştir.
+Bu çerçevede, özelge talep formunuz ekinde yer alan sözleşmelerin incelenmesinden, Birliğiniz ile ... A.Ş. arasında düzenlenen …/.../2016 tarihli sözleşmenin Fransa'da düzenlenen fuarda sergilenecek ürünlerin taşınmasına yönelik düzenlendiği; Birliğiniz ile … Ltd. Şti. arasında düzenlenen tarih içermeyen sözleşmenin Almanya'da … 2016 tarihinde düzenlenecek fuarda sergilenecek ürünlerin nakliyesine yönelik düzenlendiği anlaşılmaktadır.
+Bu itibarla, özelge talebinize konu sözleşmelere, 6728 sayılı Kanunun yürürlük tarihinden sonra düzenlenmiş olması ve münhasıran yurt dışındaki fuarlara gönderilecek ürünlerin nakliyesine ilişkin düzenlenmesi koşuluyla damga vergisi istisnası uygulanması mümkün bulunduğu dikkate alındığında, Birliğiniz ile … A.Ş. arasında düzenlenen …/…/2016 tarihli sözleşmenin damga vergisinden istisna tutulması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.

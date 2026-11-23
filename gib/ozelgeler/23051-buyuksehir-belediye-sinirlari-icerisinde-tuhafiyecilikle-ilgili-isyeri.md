@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 23051
+baslik: "Büyükşehir belediye sınırları içerisinde tuhafiyecilikle ilgili işyeri açmak isteyen mükellef basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirmeden yararlanabilecektir."
+tarih: 2000-05-26
+sayi: "B.07.0.GEL.0.44/4405-1079/24919"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23051
+gib_guncelleme: 2025-03-24T19:29:55
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Büyükşehir belediye sınırları içerisinde tuhafiyecilikle ilgili işyeri açmak isteyen mükellef basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirmeden yararlanabilecektir.
+
+**İlgili maddeler:** Madde 51 Basit(*)  Usulün Hududu
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 26.05.2000 SAYI : B.07.0.GEL.0.44/4405-1079/24919 KONU : Büyükşehir belediye sınırları içerisinde tuhafiyecilikle ilgili işyeri açmak isteyen mükellefin, basit usulden yararlanıp yararlanamayacağı hk. ............ VALİLİĞİNE (Defterdarlık:Vasıtasız Ver. Gelir Müdürlüğü) İLGİ : ............ tarihli ve ............ sayılı yazınız. İlgide kayıtlı yazınızın incelenmesinden; .....'ın; büyükşehir belediye sınırları içerisinde tuhafiyecilikle ilgili işyeri açmak istediği, bu faaliyeti nedeniyle basit usulde vergilendirilmeden yararlanıp yararlanamayacağı hususunda görüş talep ettiği, Defterdarlığınızca da, adı geçenin basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirmeden yararlanacağı yönünde görüş bildirildiği anlaşılmıştır. Bilindiği üzere; 4369 sayılı Kanunla 1.1.1999 tarihinden itibaren ticari kazancın götürü usulde tespiti kaldırılarak, yerine basit usulde vergilendirme esası getirilmiştir. Ayrıca, aynı kanunun 81/C-2 maddesiyle Gelir Vergisi Kanunu'nun 51. maddesinin başlığı basit usulün hududu olarak değiştirilmiştir. Söz konusu maddenin 12 numaralı bendinin Bakanlar Kuruluna verdiği yetkiye istinaden çıkartılan Bakanlar Kurulu Kararları halen yürürlükte bulunmaktadır. Bu nedenle, Defterdarlığınızca .....'a tayin edilen ilgi yazınıza ekli muktezanızın söz konusu Bakanlar Kurulu Kararı dikkate alınarak yeniden değerlendirilmesi gerekmektedir. Bilgi edinilmesini ve gereğinin buna göre yapılarak neticesinden adı geçene de bilgi verilmesini rica ederim. Bakan a.

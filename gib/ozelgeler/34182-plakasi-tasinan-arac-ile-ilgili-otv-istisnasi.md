@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 34182
+baslik: "Plakası Taşınan Araç İle İlgili ÖTV İstisnası"
+tarih: 2018-05-31
+sayi: "B.07.4.DEF.0.81.10.00-135-5898"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/34182
+gib_guncelleme: 2025-03-24T20:16:45
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Plakası Taşınan Araç İle İlgili ÖTV İstisnası
+
+**İlgili maddeler:** Geçici Madde 7 (6745 sayılı Kanunun 54 üncü maddesiyle eklenen Geçici Madde, Yürürlük; 07.09.2016)
+
+T.C.
+DÜZCE VALİLİĞİ
+Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | 13334133-135-5898 | 31.05.2018
+Konu | : | Plakası Taşınan Araç İle İlgili ÖTV İstisnası
+
+İlgi | : | 05.12.2017 tarihli ve 4196 kayıt numaralı özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunuzun ve eklerinin incelenmesinden; 2012 yılında almış olduğunuz 2006 model …….. marka ticari plakalı aracınızı 8/8/2017 tarihinde …….. plakadan ………. plakaya taşıdığınız belirtilerek, söz konusu aracın yenilenmesi amacıyla Özel Tüketim Vergisi Kanununun geçici 7 nci maddesinde düzenlenen istisna uygulamasından yararlanıp yararlanamayacağınız hususunda Defterdarlığımız görüşünün bildirilmesinin talep edildiği anlaşılmıştır.
+Özel Tüketim Vergisi Kanununun geçici 7 nci maddesinde, ÖTV Kanununa ekli (II) sayılı listenin 87.02 ve 87.03 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan şehiriçi taksi, dolmuş, servis, minibüs, midibüs ve otobüs taşımacılığı faaliyeti (araç kiralama, özel yolcu transferi ve benzeri hizmet ifası faaliyetleri hariç) ile 8701.20 ve 87.04 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan ticari yük taşımacılığı faaliyeti dolayısıyla bu maddenin yürürlüğe girdiği tarih itibarıyla gelir veya kurumlar vergisi mükellefiyeti bulunan ve bu faaliyetini ilgili mevzuatta öngörülen yükümlülükleri yerine getirmek ve yetkilendirilmek suretiyle maliki olduğu taşıtlar vasıtasıyla icra eden gerçek ve tüzel kişiler tarafından, söz konusu faaliyetler kapsamında kullanılan taşıtların yenilenmesi amacıyla, aynı tarife pozisyon sıraları kapsamındaki taşıtların (87.03 tarife pozisyon sırası kapsamındaki; yarış arabaları, arazi taşıtları, ATV olarak adlandırılan üç veya dört tekerlekli taşıtlar, motorlu karavanlar ile motor silindir hacmi 1600 cm3'ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten 30/6/2019 tarihine kadar (bu tarih dâhil) ilk iktisabı ÖTV'den istisna tutulmuştur.
+Mezkûr maddenin ikinci fıkrasında, bu düzenlemeden, bu maddenin yürürlüğe girdiği tarih itibarıyla maliki olunan, trafik tescil kuruluşlarınca ticari yolcu veya yük taşımacılığında kullanılmak üzere kayıt ve tescil edilmiş her bir taşıt bakımından, aynı cins bir taşıtın ilk iktisabında yararlanılabileceği hükme bağlanmıştır.
+Söz konusu istisna uygulamasının usul ve esaslarına ilişkin açıklamalara ise Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinin (VI/E) bölümünde yer verilmiştir.
+Mezkûr Tebliğin söz konusu bölümünün,
+- (1.1.1.) alt bölümünde, söz konusu istisna uygulamasından, esas itibariyle, taksi, dolmuş, servis, minibüs, midibüs ve otobüsle şehiriçi yolcu taşımacılığı faaliyeti ile yarı römorklar için çekici, kamyon ve kamyonetle ticari yük taşımacılığı faaliyeti dolayısıyla 6745 sayılı Kanunun yürürlüğe girdiği 7/9/2016 tarihi itibariyle gelir veya kurumlar vergisi mükellefiyeti bulunan ve bu faaliyetini ilgili mevzuatında öngörülen yükümlülükleri yerine getirmek ve yetkilendirilmek suretiyle maliki olduğu taşıtlar vasıtasıyla icra edenlerin yararlanabileceği,
+- (1.1.3) alt bölümünde; istisna uygulamasından yararlanmak isteyenlerin, maliki oldukları taşıtlarla fiilen yolcu veya yük taşımacılığı faaliyetiyle iştigal ettiklerini, bu bölümde yapılan açıklamalar çerçevesinde tevsik etmelerinin şart olduğu
+belirtilmiştir.
+Buna göre, 6745 sayılı Kanunun yürürlüğe girdiği 7/9/2016 tarihi itibariyle maliki olunan ancak adınıza kayıtlı plakası ……… iken 8/8/2017 tarihinde ………. olarak değiştirilen aracınız için mezkûr Genel Tebliğde belirlenen usul ve esaslar çerçevesinde, 4760 sayılı Özel Tüketim Vergisi Kanununun geçici 7 nci maddesinde düzenlenen istisna uygulamasından yararlanmanız mümkündür.
+Bilgi edinilmesini rica ederim.

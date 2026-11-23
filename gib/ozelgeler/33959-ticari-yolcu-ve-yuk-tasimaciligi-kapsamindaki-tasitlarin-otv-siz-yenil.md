@@ -1,0 +1,29 @@
+---
+tur: Özelge
+gib_id: 33959
+baslik: "Ticari Yolcu ve Yük Taşımacılığı Kapsamındaki Taşıtların ÖTV'siz yenilenmesi"
+tarih: 2017-05-09
+sayi: "B.07.1.GİB.4.99.16.02-135[Geçici 7]-8335"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/33959
+gib_guncelleme: 2025-03-24T20:15:38
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ticari Yolcu ve Yük Taşımacılığı Kapsamındaki Taşıtların ÖTV'siz yenilenmesi
+
+**İlgili maddeler:** Madde 7 Diğer istisnalar
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | 64597866-135[Geçici 7]-8335 | 09.05.2017
+Konu | : | Ticari Yolcu ve Yük Taşımacılığı Kapsamındaki Taşıtların ÖTV'siz yenilenmesi
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin tetkiki neticesinde, yapmakta olduğunuz şehiriçi personel taşımacılığı faaliyetinizin yanı sıra, 2013 yılında İstanbul Büyükşehir Belediyesi Ulaşım Daire Başkanlığı Toplu Ulaşım Hizmetleri Müdürlüğünden (UKOME) alınan belge ile, firmaların personel ya da misafirlerini gün içerisinde binek araçlarla taşıma faaliyetine başladığınız, hizmetten sözleşme yapılan firmanın personeli ya da misafirlerinin yararlandığı, taşıma faaliyetinin belirlenmiş güzergahlarda, şubeler arası transferler, havaalanı transferleri, firma ziyaretleri, mesai giriş ve çıkışları için yapıldığı, faturanın firma adına düzenlendiği, bu hizmetin yapılabilmesi için öncelikle UKOME'nin yasal zorunluluk olarak tuttuğu tüm şartların sağlandığı belirtilerek, söz konusu taşıma faaliyetinde kullanılan ve ruhsatlarında kullanım amacı "Yolcu Nakli-TİCARİ" yazan binek otomobili niteliğindeki taşıtlarınızı yenilemek amacı ile aynı tarife pozisyon sıraları kapsamındaki taşıtların 30/06/2019 tarihine kadar ilk iktisabında ÖTV Kanununun geçici 7 nci maddesinde yer alan istisnadan yararlanıp yararlanamayacağınız hakkında Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+6745 sayılı Yatırımların Proje Bazında Desteklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 54 üncü maddesiyle 4760 sayılı Özel Tüketim Vergisi Kanununa eklenen geçici 7 nci maddeyle, ÖTV Kanununa ekli (II) sayılı listenin 87.02 ve 87.03 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan şehiriçi taksi, dolmuş, servis, minibüs, midibüs ve otobüs taşımacılığı faaliyeti (araç kiralama, özel yolcu transferi ve benzeri hizmet ifası faaliyetleri hariç) ile 8701.20 ve 87.04 tarife pozisyon sıraları kapsamındaki taşıtlarla yapılan ticari yük taşımacılığı faaliyeti dolayısıyla bu maddenin yürürlüğe girdiği tarih itibarıyla gelir veya kurumlar vergisi mükellefiyeti bulunan ve bu faaliyetini ilgili mevzuatta öngörülen yükümlülükleri yerine getirmek ve yetkilendirilmek suretiyle maliki olduğu taşıtlar vasıtasıyla icra eden gerçek ve tüzel kişiler tarafından, söz konusu faaliyetler kapsamında kullanılan taşıtların yenilenmesi amacıyla, aynı tarife pozisyon sıraları kapsamındaki taşıtların (87.03 tarife pozisyon sırası kapsamındaki; yarış arabaları, arazi taşıtları, ATV olarak adlandırılan üç veya dört tekerlekli taşıtlar, motorlu karavanlar ile motor silindir hacmi 1600 cm3'ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten 30/6/2019 tarihine kadar (bu tarih dâhil) ilk iktisabı ÖTV'den istisna edilmiş olup, bu maddenin uygulanmasına ilişkin usul ve esasların Maliye Bakanlığınca belirleneceği hüküm altına alınmıştır.
+Söz konusu istisna uygulamasının usul ve esaslarına ilişkin açıklamalara 13/10/2016 tarih ve 29856 sayılı Resmi Gazete'de yayımlanan Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 2) ile değişik Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinin (VI/E) bölümünde yer verilmiştir.
+Mezkûr Tebliğin (VI/E/1.1.1) bölümünde, söz konusu istisna uygulamasından, esas itibariyle, taksi, dolmuş, servis, minibüs, midibüs ve otobüsle şehiriçi yolcu taşımacılığı faaliyeti ile yarı römorklar için çekici, kamyon ve kamyonetle ticari yük taşımacılığı faaliyeti dolayısıyla 6745 sayılı Kanunun yürürlüğe girdiği 7/9/2016 tarihi itibariyle gelir veya kurumlar vergisi mükellefiyeti bulunan ve bu faaliyetini ilgili mevzuatında öngörülen yükümlülükleri yerine getirmek ve yetkilendirilmek suretiyle maliki olduğu taşıtlar vasıtasıyla icra edenlerin yararlanabileceği, ticari maksatla taşımacılık faaliyetinde bulunmayıp, sadece esas iştigal konusuyla ilgili olarak personelini veya yükünü taşıyanların ve sadece araç kiralama, özel yolcu transferi ve benzeri (motorlu taşıtlar sürücü kursu, şoförlük kursu gibi) hizmet ifasında bulunanların bu faaliyetlerinde kullandıkları/işlettikleri taşıtlar bakımından istisna uygulamasından yararlanmalarının mümkün olmadığı açıklanmış, aynı Tebliğin (VI/1.1.3) bölümünde ise istisnadan yararlanılan taşıtların ilk iktisabında ibraz edilmesi gereken belgeler belirtilmiştir.
+Özelge talep formunun eklerinin incelenmesinden, Filo Otomobil ile Yolcu Taşımacılığı Geçici Yetki Belgesini ve Geçici Araç İzin Belgesini haiz olmakla birlikte, bu belgelerden geçici süre ile yararlandığınız, örnek araç tescil belgesinde "Ücretli Yolcu Taşıyamaz-30.01.2015-30.01.2016 Tarihleri Arası Geçerlidir" ibaresinin yer aldığı ve Şoförlü Otomobil ve Minibüs Tahsis Sözleşmesinin "3.4) Fiyatlar" bölümünde, araçların şehir içi ve şehir dışı fiyatlandırmasının yapıldığı anlaşılmıştır.
+Buna göre, yukarıda belirtilen hüküm ve yapılan açıklamalar çerçevesinde, Şirketinizce verilen şoförlü otomobil tahsis hizmetinin şehir içi ticari yolcu taşımacılığı kapsamında olmadığı, özel yolcu transferi kapsamında değerlendirilmesi gerektiği anlaşıldığından, ilgili taşıtların yerine aynı cinsteki taşıtların ilk iktisabında ÖTV Kanununun geçici 7 nci maddesi kapsamında istisna uygulanması mümkün bulunmamaktadır.
+Bilgi edinilmesini rica ederim.

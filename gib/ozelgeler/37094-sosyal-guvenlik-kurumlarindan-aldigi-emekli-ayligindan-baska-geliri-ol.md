@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 37094
+baslik: "Sosyal güvenlik kurumlarından aldığı emekli aylığından başka geliri olmayan mükelleflerin kendi veya eşleri üzerine tek meskeni dışında aynı veya değişik belediye sınırları içinde gelir getirmeyen işyeri, arsa veya araziye sahip olunması, indirimli bina v"
+tarih: 1999-03-01
+sayi: "B.07.0.GEL.0.66/6654-256"
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/ozelge/37094
+gib_guncelleme: 2025-03-24T20:47:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Sosyal güvenlik kurumlarından aldığı emekli aylığından başka geliri olmayan mükelleflerin kendi veya eşleri üzerine tek meskeni dışında aynı veya değişik belediye sınırları içinde gelir getirmeyen işyeri, arsa veya araziye sahip olunması, indirimli bina v
+
+**İlgili maddeler:** Madde 8 Nispet
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI : B.07.0.GEL.0.66/6654-256 KONU : Gelirleri sadece sosyal güvenlik kurumlarından aldıkları aylıktan ibaret olan tek mesken sahibi kimselerin Emlak Vergisi Kanunu hükümleri karşısındaki durumu hk. ........................ BAKANLIĞI (Mahalli İdareler Genel Müdürlüğüne) ........................ Belediye Başkanlığının ........................ tarih ve ........................ sayılı yazısı ve eklerinin birer örneği ilişik olarak gönderilmiştir. Bilindiği gibi, Emlak Vergisi Kanununun 4369 sayılı Kanunla değişik 8 inci maddesinin ikinci fıkrasında, "Bakanlar Kurulu, Türkiye sınırları içinde tek meskeni olup, gelirleri münhasıran kanunla kurulan sosyal güvenlik kurumlarından aldıkları aylıklardan ibaret bulunanların veya bunlardan kendileri üzerine kayıtlı meskeni olmayanların anılan kurumlardan aylık almayan ve herhangi bir geliri de bulunmayan eşlerinin aynı nitelikteki meskenlerine ait vergi oranlarını sıfıra kadar indirmeye yetkilidir. Bu hüküm yukarıda belirtilenlerin tek meskene hisse ile sahip olmaları halinde hisselerine ait kısım ile şehitlerin dul ve yetimlerine ve gazilere ait tek meskenleri hakkında da uygulanır. Muayyen zamanlarda dinlenme amacıyla kullanılan meskenler hakkında bu hüküm uygulanmaz." hükmü yer almaktadır. Bu hükme istinaden verilen yetki kullanılmış, 98/12031 ve 99/13802 sayılı Bakanlar Kurulu Kararları ile, Türkiye sınırları içinde sahip olunan tek meskene ait bina vergisi oranı yukarıda yer alan maddede belirtilen şartlarla 1999 ve 2000 yılları için sıfıra indirilmiştir. Diğer taraftan, konuya ilişkin gerekli açıklama 27.12.1998 tarihli ve 23566 sayılı Resmi Gazete'de yayımlanan 25 Seri Nolu Emlak Vergisi Kanunu Genel Tebliğinde yapılmıştır. Yukarıda belirtilen şartları taşıyan mükelleflerin, 25 Seri No.lu Tebliğe ekli bildirimlerden durumlarına uygun olanını doldurup belediyeye vermeleri, söz konusu indirimli bina vergisi oranının uygulanabilmesi için yeterli bulunmaktadır. Kanunla kurulan sosyal güvenlik kurumlarından aldığı emekli aylığından başka geliri olmayan mükelleflerin kendi veya eşleri üzerine tek meskeni dışında aynı veya değişik belediye sınırları içinde gelir getirmeyen işyeri, arsa veya araziye sahip olunması, indirimli bina vergisi oranının uygulanmasına engel teşkil etmemektedir. Ancak,Türkiye sınırları içinde tek meskeni olduğunu bildiren ve meskeni için indirimli bina vergisi oranı uygulanan mükelleflerin kendi veya eşleri üzerine daha sonra başka meskenlerinin veya gelirinin bulunduğunun tespiti halinde, eksik tahakkuk ettirilmek suretiyle tahsil edilmeyen bina vergisinin gecikme faizi ile birlikte cezalı olarak tahsil edileceği tabiidir. Bilgi edinilmesini ve konu hakkındaki Bakanlıkları görüşünün belirlenerek gerekli duyurunun yapılmasını arz ederim. Bakan a.

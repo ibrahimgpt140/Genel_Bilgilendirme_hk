@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 30903
+baslik: "İhraç edilmek üzere alınan plastik hammadde, granül ürünlerinde KDV tevkifatı hk."
+tarih: 2015-03-16
+sayi: "26468226-130[ÖZG-43-2014]-47"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30903
+gib_guncelleme: 2025-03-24T20:01:11
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İhraç edilmek üzere alınan plastik hammadde, granül ürünlerinde KDV tevkifatı hk.
+
+**İlgili maddeler:** Madde 11 Mal ve Hizmet İhracatı
+
+T.C. GELİR İDARESİ BAŞKANLIĞI TRABZON VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | 26468226-130[ÖZG-43-2014]-47 | 16/03/2015
+Konu | : | İhraç edilmek üzere alınan plastik hammadde, granül ürünlerinde KDV tevkifatı
+
+İlgide kayıtlı özelge talep formunuzda, imalatçı olmayıp plastik hammadde alımı-satımı yapan mükelleflerden ihraç edilmek üzere plastik hammadde, granül alımlarınızda katma değer vergisi tevkifatı uygulanıp uygulanmayacağı hususunda Başkanlığımız görüşü talep edilmektedir.
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun 17/4-g maddesinde; külçe altın ve külçe gümüş teslimleri ile kıymetli taşların (elmas, pırlanta, yakut, zümrüt, topaz, safir, zebercet, inci) 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre Türkiye'de kurulu borsalarda işlem görmek üzere ithali, borsaya teslimi ve borsa üyeleri arasında el değiştirmesi, döviz, para, damga pulu, değerli kâğıtlar, hisse senedi, tahvil, varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları, Türkiye'de kurulu borsalarda işlem gören sermaye piyasası araçları ile metal, plastik, lastik, kauçuk, kâğıt, cam hurda ve atıklarının tesliminin KDV den istisna olduğu hüküm altına alınmıştır.
+Aynı Kanunun 9 uncu maddesinin Bakanlığımıza verdiği yetkiye istinaden bazı işlemlerde vergi alacağını güvence altına almak amacıyla sorumluluk uygulaması öngörülmüş, tevkifat yapacak kurum ve kuruluşlar, tevkifat yapılacak işlemler ve tevkifat oranları 01/05/2014 tarihinde yürürlüğe giren KDV Genel Uygulama Tebliğinde açıklanmıştır.
+KDV Genel Uygulama Tebliğinin (I/C-2.1.3.3.4) bölümünde; metal, plastik, lastik, kauçuk, kâğıt, cam hurda ve atıklarının çeşitli işlemlerden geçirilip işlenmesi sonucunda elde edilen ve genellikle hurda ve atık niteliklerini kaybederek metal, plastik, lastik, kauçuk, kâğıt ve cam esaslı malzeme imalatında hammadde olarak kullanılan mamul niteliğindeki kırık, çapak, toz, granül ve benzeri ürünlerin tesliminin Kanunun (17/4-g) maddesi kapsamında olmayıp genel oranda (%18) KDV'ye tabi olduğu, bu ürünlerin tesliminde de (9/10) oranında tevkifat uygulanacağı açıklanmıştır.
+Öte yandan Tebliğin "(I/C-2.1.3.4.1.) Tevkifat Uygulamasında Sınır" başlıklı bölümünde; "Ayrıca 3065 sayılı Kanunun (11/1-c) ve geçici 17 nci maddeleri kapsamındaki teslimlerde ve bu Kanun uyarınca KDV'den istisna olan teslim ve hizmetlerde tevkifat söz konusu olmaz." açıklamalarına yer verilmiştir.
+Buna göre,
+1-İhraç edilmek üzere firmanıza imalatçı olmayan firmalar tarafından yapılan plastik hammadde ve granül teslimlerinin KDV Kanununun (11/1-c) maddesinde düzenlenen ihraç kayıtlı teslim hükümleri çerçevesinde değerlendirilmesi mümkün bulunmamaktadır.
+2-Hurda ve atık niteliğini kaybederek imalat sektöründe hammadde olarak kullanılan bir mamul haline gelen plastik hammadde ve granüller KDV Kanununun 17/4-g maddesinde düzenlenen istisna kapsamına girmemekte olup, genel oranda KDV'ye tabidir. Bu ürünlerin firmanıza tesliminde KDV Genel Uygulama Tebliğinde yer alan ve yukarıda yer verilen düzenlemeler çerçevesinde (9/10) oranında tevkifat uygulanması gerekmektedir.
+Bilgi edinilmesini ve gereğini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

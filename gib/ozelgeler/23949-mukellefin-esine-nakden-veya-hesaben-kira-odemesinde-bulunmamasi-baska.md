@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 23949
+baslik: "Mükellefin eşine nakden veya hesaben kira ödemesinde bulunmaması başka bir ifade ile işyeri kirası olarak hesaplarında gider göstermemesi halinde, söz konusu gayrimenkulün emsal kira bedelinin tevkifata tabi tutulmaksızın, eşi tarafından elde edilmiş gayr"
+tarih: 1999-12-18
+sayi: "B.07.0.GEL.0.43/ 4303-47/48311"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23949
+gib_guncelleme: 2025-03-24T19:31:10
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Mükellefin eşine nakden veya hesaben kira ödemesinde bulunmaması başka bir ifade ile işyeri kirası olarak hesaplarında gider göstermemesi halinde, söz konusu gayrimenkulün emsal kira bedelinin tevkifata tabi tutulmaksızın, eşi tarafından elde edilmiş gayr
+
+**İlgili maddeler:** Madde 70 Gayrimenkul Sermaye İradının Tarifi; Madde 73 Emsal Kira Bedeli Esası; Madde 94 Vergi Tevkifatı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH: 18.12.1998 SAYI : B.07.0.GEL.0.43/ 4303-47/48311 KONU : Mükellefin, eşine ait işyeri için herhangi bir kira ödemesinde bulunmadığı halde emsal kira bedeli üzerinden tevkifat yapıp, yapmayacağı hk. ERZİNCAN VALİLİĞİ (Defterdarlık : Gelir Müdürlüğüne) İliniz, .... adresinde bulunan ..... tarafından Bakanlığımıza verilen ..... tarihli dilekçenin incelenmesinden, adı geçenin eşine ait işyeri için herhangi bir kira ödemesinde bulunmaksızın ticari faaliyette bulunduğu ve bundan dolayı emsal kira bedeli üzerinden tevkifat yapıp, yapmayacağı hususunda bilgi istenildiği anlaşıl m ıştır. Bilindiği üzere, 193 sayılı Gelir Vergisi Kanununun 94 üncü maddesinde Kamu İdare ve müesseseleri, iktisadi kamu müesseseleri, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yöretenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbest meslek erbabı, zirai kazançlarını bilanço veya zirai işletme hesabı esasına göre tespit eden çiftçiler aşağıdaki bentlerde sayılan ödemeleri (avans olarak öd e nenler dahil) nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vergisine mahsuben tevkifat yapmaya mecburdurlar." denilmiştir. Ayrıca, aynı maddenin 5/a bendinde, anılan Kanunun 70 inci maddesinde yazılı mal ve hakların kiralanması karşılığında yapılan ödemelerden gelir vergisi tevkif edileceği hükme bağlanmış, 20.12.1996 tarih ve 96/8955 sayılı Bakanlar Kurulu Kararı ile 01.01.1997 tarihinden itibaren söz konusu ödemelerden yapılacak tevkifat nispeti % 20 olarak belirlenmiştir. Bu hüküm ler uyarınca, adı geçenin, mülkiyeti eşine ait olan işyeri için nakden veya hesaben kira ödemesinde bulunması halinde yapılan ödemelerin gayrisafi tutarı üzerinden % 20 nispetinde gelir vergisi tevkifatı yapılması ve tevkif edilen verginin % 10'u oranında fon payı hesaplanması gerekir. Öte yandan, Gelir Vergisi Kanununun 73 üncü maddesinde kiraya verilen mal ve hakların kira bedellerinin emsal kira bedelinden düşük olmayacağı, bedelsiz olarak başkalarının intifaına bırakılan mal ve hakların emsal kira bedelinin yetkili özel mercilerce takdir edilmiş kirası bu suretle takdir edilmiş kira mevcut değilse, Vergi Usul Kanununa göre belirlenen vergi değerinin %5'i olacağı belirtilmiştir. Bu durumda, mükellefin eşine nakden veya hesaben kira ödemesinde bulunmaması başka bir ifade ile işyeri kirası olarak hesaplarında gider göstermemesi halinde, söz konusu gayrimenkulün emsal kira bedelinin tevkifata tabi tutulmaksızın, eşi tarafından elde edilmiş gayrimenkul sermaye iradı olarak yıllık beyanname ile beyan edilmes i gerekmektedir. Bilgi edinilmesi ve gereğinin buna göre yapılarak, sonucundan adı geçene de bilgi verilmesini rica ederim. Bakan a. Daire Başkanı

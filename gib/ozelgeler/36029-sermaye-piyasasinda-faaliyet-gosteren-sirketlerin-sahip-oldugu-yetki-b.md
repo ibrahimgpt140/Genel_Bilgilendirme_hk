@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 36029
+baslik: "Sermaye piyasasında faaliyet gösteren şirketlerin sahip olduğu yetki belgesinin Sermaye Piyasası Kurulu mevzuatında yapılan değişiklik nedeniyle iptal edilerek yenilenmesi sonucunda tekrar finansal faaliyet harcı  ödenip ödenmeyeceği hk."
+tarih: 2015-09-28
+sayi: "B.07.1.GİB.4.34.18.01-140[108.2015/40]-82960"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36029
+gib_guncelleme: 2025-03-24T20:31:33
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Sermaye piyasasında faaliyet gösteren şirketlerin sahip olduğu yetki belgesinin Sermaye Piyasası Kurulu mevzuatında yapılan değişiklik nedeniyle iptal edilerek yenilenmesi sonucunda tekrar finansal faaliyet harcı  ödenip ödenmeyeceği hk.
+
+**İlgili maddeler:** Madde 108 Mevzu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | 97895701-140[108.2015/40]-82960 | 28/09/2015
+Konu | : | Finansal Faaliyet Harcı
+
+İlgide kayıtlı özelge talep formunun incelenmesinden, sermaye piyasasında faaliyet gösteren şirketinizin sahip olduğu yetki belgesinin Sermaye Piyasası Kurulu mevzuatında yapılan değişiklik nedeniyle iptal edilerek 14/01/2015 tarihinde yenilendiği, şirketiniz tarafından 02/01/2015 tarihinde 2015 yılına ait yetki belgesi için finansal faaliyet harcı ödendiği ve eski yetki belgesinin ticaret sicilinden terkin edildiği belirtilerek söz konusu yetki belgenizle ilgili olarak 2015 yılı için tekrar finansal faaliyet harcı ödeyip ödemeyeceğiniz hususunda görüş sorulduğu anlaşılmaktadır.
+
+Bilindiği üzere, 492 sayılı Harçlar Kanununun 108 inci maddesinde, "İmtiyazname, ruhsatname ve diplomalardan bu Kanuna bağlı (8) sayılı tarifede yazılı olanları harca tabidir. " denilmektedir.
+
+Aynı Kanunun 109 uncu maddesinde, imtiyazname, ruhsatname ve diploma harçlarını kendilerine bu belgeler verilen kişilerin ödemekle mükellef olduğu; 113 üncü maddesinde ise, bu harçların peşin olarak alınacağı, yıllık harçların her yıl ocak ayının başında yıllık olarak tahakkuk ettirilmiş sayılacağı, tahakkuk ettirilen harçların ayrıca mükellefe tebliğ olunmayacağı ve Ocak ayı içerisinde ödeneceği belirtilmiştir.
+
+492 sayılı Kanuna bağlı (8) sayılı tarifenin "XI-Finansal faaliyet harçları" başlıklı bölümünün 3 üncü maddesinde, sermaye piyasasında aracılık yapan kurumlara verilen yetki belgelerinden (Her belge için ayrı olmak üzere) (Her yıl için) 43.870,10 TL (2015 yılı) harç alınacağı hüküm altına alınmıştır.
+
+Diğer taraftan, 6362 sayılı Sermaye Piyasası Kanununun "Yetki Belgesi" başlıklı 40 ıncı maddesinde, "Yatırım hizmetleri ve faaliyetlerinde bulunmak üzere Kurulca izin verilenlere, icra edecekleri yatırım hizmetleri ve faaliyetlerini gösteren yetki belgesi verilir. Bir yetki belgesi ile bir veya birden fazla yatırım hizmeti ve faaliyetinde bulunma izni verilebilir." hükmü, 55 inci maddesinin beşinci fıkrasında da "Portföy yönetim şirketlerinin dönüşüm işlemleri ile esas sözleşme değişikliklerinde Kurulun uygun görüşünün alınması zorunludur." hükmü yer almaktadır.
+
+02/07/2013 tarih 28695 sayılı Resmi Gazete'de yayımlanan Portföy Yönetim Şirketleri ve Bu Şirketlerin Faaliyetlerine İlişkin Esaslar Tebliğinin 5 inci maddesinin birinci fıkrasının (d) bendinde; "Esas sözleşmesinin Kanun hükümlerine ve Kurul Düzenlemelerine uygun olması" hükmü ile 24 üncü maddesinin birinci fıkrasında, "Şirketin esas sözleşme değişiklikleri kurul iznine tabidir." hükmü yer almaktadır.
+
+Buna göre, şirketinizin esas sözleşme değişikliği ile yapı ve organizasyonlarını bahsi geçen tebliğe ve ilgili düzenlemelere uygun hale getirmek amacıyla 6362 sayılı Kanun kapsamında şirketinize verildiği anlaşılan yetki belgesinin, 492 sayılı Kanuna bağlı (8) sayılı tarifenin XI/3 üncü maddesine göre harca tabi tutulması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

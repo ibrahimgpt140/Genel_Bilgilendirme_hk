@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 25270
+baslik: "Nakliyecilik faaliyetinde bulunan mükelleflerin hurdaya çıkardıkları araçlarını Vergi Dairesine bildirmemeleri durumunlarda işi bırakmanın nasıl ve ne zaman olacağı hakkında."
+tarih: 2000-04-18
+sayi: "B.07.0.GEL.0.29/2902-160-l00/17618"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25270
+gib_guncelleme: 2025-03-24T19:39:23
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Nakliyecilik faaliyetinde bulunan mükelleflerin hurdaya çıkardıkları araçlarını Vergi Dairesine bildirmemeleri durumunlarda işi bırakmanın nasıl ve ne zaman olacağı hakkında.
+
+**İlgili maddeler:** Madde 160 İşi Bırakmanın Bildirilmesi; Madde 168 Süre
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 18.04.2000 SAYI : B.07.0.GEL.0.29/2902-160-l00/17618 KONU : Nakliyecilik faaliyetinde bulunan mükellefin otobüsünün hurdaya çıkmasına rağmen V.D.' ne bildirimde bulunmaması halinde işi bırakmanın nasıl ve ne zaman olacağı hk. ..................... VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) İlgi : a) ..................... gün ve ..................... sayılı yazımız. b) ..................... gün ve ..................... sayılı yazınız. İlgi a) da kayıtlı yazımız üzerine alınan ilgi b) de kayıtlı yazınız ve eklerinin incelenmesinden anlaşıldığı üzere; İliniz ..... Vergi Dairesi mükelleflerinden ..... 05.06.1990 tarihinde ..... plakalı otobüsü ile nakliyecilik işine başlamıştır. 1992, 1993 ve 1994 yıllarına ait beyannameleri vermediğinden, ilgili dönemlere ait dosyalar matrah takdiri için Takdir Komisyonuna sevk edilmiş, Takdir Komisyonu kararına istinaden mükellef adına cezalı tarhiyatlar yapılmıştır. Adı geçen mükellef tarafından, otobüsün 09.09.1992 tarihinde hurdacıya satıldığı, fakat durumun bildirilmesi gerektiğinin bilinmemesi nedeniyle vergi dairesine bilgi verilmediği, bu nedenle 09.09.1992 tarihi itibariyle mükellefiyetinin terkin edilerek cezalı tarhiyatların kaldırılması talep edilmektedir. Bilindiği üzere Vergi Usul Kanununun 160 ve 168 inci maddelerinde yer alan hükümler uyarınca, işi bırakan mükellefler durumu bir ay içerisinde vergi dairesine bildirmek zorundadırlar. Bildirimlerin doğruluğu ise vergi dairelerince yapılan yoklamalar ile tespit edilmektedir. Adı geçen mükellef her ne kadar 09.09.1992 tarihinde işi bıraktığını iddia etmekte ise de, vergi dairesince yapılan yoklama ile otobüsün 01.04.1997 tarihinde hurdaya çıkarılarak satıldığı tespit edilmiştir. Otobüsün 01.04.1997 tarihinde hurdaya çıkarılarak satıldığı tespit edildiğinden, mükellefin 09.09.1992 tarihinde işi bıraktığının kabulü mümkün bulunmamaktadır. Dolayısıyla, Vergi Dairesince mükellef hakkında yapılan işlemlerde vergi kanunlarına aykırı bir hususa raslanılamamıştır. Bilgi edinilmesini ve durumun ilgiliye de duyurulmasını rica ederim. Bakan a.

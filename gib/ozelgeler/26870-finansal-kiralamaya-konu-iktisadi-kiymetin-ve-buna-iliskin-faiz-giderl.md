@@ -1,0 +1,28 @@
+---
+tur: Özelge
+gib_id: 26870
+baslik: "Finansal kiralamaya konu iktisadi kıymetin ve buna ilişkin faiz giderlerinin itfası hk."
+tarih: 2015-07-20
+sayi: "27575268-105[Mük.290-2014-379]-770"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26870
+gib_guncelleme: 2025-03-24T19:44:21
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Finansal kiralamaya konu iktisadi kıymetin ve buna ilişkin faiz giderlerinin itfası hk.
+
+**İlgili maddeler:** Mükerrer Madde 290 Finansal kiralama işlemlerinde değerleme; Madde 315 Normal Amortisman
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Usul Grup Müdürlüğü)
+
+Sayı | : | 27575268-105[Mük.290-2014-379]-770 | 20/07/2015
+Konu | : | Finansal kiralamaya konu iktisadi kıymetin ve buna ilişkin faiz giderlerinin itfası hk.
+
+İlgide kayıtlı özelge talep formunuzda; şirketiniz tarafından kat karşılığı inşaat sözleşmesi kapsamında satmak amacıyla iş merkezi inşa edildiği, binanın parçası olan asansörün finansal kiralama sözleşmesiyle kiralandığı, kira sözleşmesi sonunda asansörün şirket mülkiyetine geçeceği, ancak finansal kiralama sözleşmesi bitiminde binanın ve bütünleyici parçası olan asansörün mülkiyetinin kat maliklerine ait olacağı belirtilerek, şirketiniz tarafından ödenen finansal kiralama bedelleri ile faizlerinin binanın maliyetine mi ekleneceği yoksa haklar hesabında mı izleneceği, hususlarında Başkanlığımız görüşü talep edilmiştir.
+213 sayılı Vergi Usul Kanununun 269 uncu maddesine göre iktisadi işletmelere dahil bilumum gayrimenkuller ile gayrimenkullerin mütemmim cüzüleri ve teferruatı maliyet bedelleri ile değerlenmekte, 271 inci maddesine göre de inşa edilen binalarda bunların inşa ve imal giderleri satın alma bedeli yerine geçmektedir.
+Mezkûr Kanunun mükerrer 290 ıncı maddesinin üçüncü fıkrasında finansal kiralama, kira süresi sonunda mülkiyet hakkının kiracıya devredilip devredilmediğine bakılmaksızın bir iktisadî kıymetin mülkiyetine sahip olmaktan kaynaklanan tüm riskler ile yararların kiracıya bırakılması sonucunu doğuran kiralamalar olarak tanımlanmış olup finansal kiralama işlemlerinde değerleme usul ve esasları 319 sıra numaralı Vergi Usul Kanunu Genel Tebliği ile açıklanmıştır.
+Bu hüküm ve açıklamalara göre, şirketiniz tarafından kat karşılığı inşaat sözleşmesi kapsamında satmak amacıyla inşa edilen büro/iş merkezinin mütemmim cüzü mahiyetinde olan asansör için yapılan finansal kiralama ödemelerinin 319 sıra numaralı Vergi Usul Kanunu Genel Tebliğinde yer verilen açıklamalara uygun olarak değerlenmesi ve faiz ödemeleri de dahil kira ödemelerinin kat karşılığı inşaat sözleşmesi kapsamında inşa edilen iş merkezinin maliyetine dahil edilmesi gerekmektedir.
+
+Bilgi edinilmesini rica ederim.

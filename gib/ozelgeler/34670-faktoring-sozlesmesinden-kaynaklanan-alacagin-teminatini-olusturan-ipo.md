@@ -1,0 +1,29 @@
+---
+tur: Özelge
+gib_id: 34670
+baslik: "Faktoring sözleşmesinden kaynaklanan alacağın teminatını oluşturan ipoteğin faktoring şirketi tarafından müşterisi dışında bir şirkete temlik edilmesine ilişkin düzenlenen sözleşmenin damga vergisi hk."
+tarih: 2014-04-14
+sayi: "97895701-155[9-2012/264]-888 "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34670
+gib_guncelleme: 2025-03-24T20:19:09
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Faktoring sözleşmesinden kaynaklanan alacağın teminatını oluşturan ipoteğin faktoring şirketi tarafından müşterisi dışında bir şirkete temlik edilmesine ilişkin düzenlenen sözleşmenin damga vergisi hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 9 İstisnalar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+Sayı : 97895701-155[9-2012/264]-888 14/04/2014
+Konu : Faktoring sözleşmesinden kaynaklanan alacağın teminatını oluşturan ipoteğin faktoring şirketi tarafından müşterisi dışında bir şirkete temlik edilmesine ilişkin düzenlenen sözleşmenin damga vergisi hk.
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, ... İli, ... İlçesi, ... Köyü, ... pafta, ... parsel no.lu taşınmazın ... hissesinin ... Ltd.Şti. adına kayıtlı olduğu, söz konusu taşınmazın ... Anonim Şirketi ile ... Anonim Şirketi arasında düzenlenen 25/07/2008 tarih ve 2635 no.lu faktoring sözleşmesi kapsamında, kredilerden doğmuş ve doğacak borçların teminatı için ... A.Ş lehine 09/09/2008 tarih, 10017 yevmiye no ile 1. Dereceden ipotek tesisinin yapıldığı ve damga vergisinin alınmayarak sadece tapu harcının alındığı, bu defa .... İcra Müdürlüğünün 16/11/2012 tarih ve 2009/3810 dosya no.lu yazılarıyla taşınmaz üzerindeki satışa arz şerhinin kaldırılmasının talep edildiği ve ipotek alacağının ... Limited Şirketine temlik edildiği belirtilerek yapılan bu temlik işleminin 488 sayılı Damga Vergisi Kanunu istisna hükümlerine tabi olup olmadığı hususunda Başkanlığımız görüşü talep edilmektedir.
+Bilindiği üzere, 488 sayılı Damga Vergisi Kanunun 1 inci maddesinde bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisi mükellefinin kağıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemler nedeniyle düzenlenen kağıtların damga vergisinin kişiler tarafından ödeneceği; 4 üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı verginin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı, mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre verginin alınacağı; 9 uncu maddesinde ise; bu Kanuna ekli (2) sayılı tabloda yazılı kağıtların damga vergisinden müstesna olduğu hükümlerine yer verilmiştir.
+Aynı Kanuna ekli (2) sayılı tablonun "IV- Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümün 20 nci fıkrasında, faktoring şirketlerinin müşterileriyle yaptıkları faktoring sözleşmeleri ile bu sözleşmelere ilişkin olarak düzenlenen diğer kağıtların damga vergisinden istisna olduğu hükmüne yer verilmiştir.
+Özelge talep formu eklerinde sunulan, temlik edenin ... A.Ş vekili Av. ..., temlik alanın ... Ltd. Şti. yetkilisi ... imzası bulunan, ... İcra Müdürlüğüne hitaben yazılan kağıtta, "Dosya borçluları ... AŞ ile ... Ltd. Şti'nin müvekkil şirkete borçları nedeniyle ...îcra Müdürlüğü'nün 2009/3810 E sayılı takibine konu alacakların tamamını ve bu alacağın teminatını teşkil eden ... İli, ... İlçesi, ... Köyü, ... pafta, ... ada, ... parseldeki ada niteliğindeki ana gayrimenkulün 1500000/1600008 arsa payının üzerinde bulunan l.derecedeki 3.000.000 TL bedelli ipoteği, tüm hak ve vecaibi ile birlikte tahsilini zamim olmamak ve tarafımıza rücu edilmemek kayıt ve şartıyla temlik, vergi ve harç giderleri temlik alandan tahsil edilmek suretiyle Borçlar Kanunu'nun 162. ve alacağın temlikine ilişkin diğer maddeleri uyarınca ... Ltd. Şti 'ne temlik etmiş bulunmaktayız." denilmektedir.
+Buna göre, ... Ltd. Şti. adına kayıtlı taşınmazın ... Tic. A.Ş ile ... A.Ş arasında faktoring şirketi lehine tesis edilen ipoteğin faktoring şirketi tarafından ... Tic. Ltd. Şti.'ne temlikini konu alan sözleşmenin, faktoring şirketinin müşterisiyle yaptığı sözleşmeler kapsamında değerlendirilerek Damga Vergisi Kanununa ekli (2) sayılı tablonun IV/20 nci fıkrasına göre damga vergisinden istisna tutulması mümkün bulunmamaktadır.
+Bilgi edinilmesini rica ederim.

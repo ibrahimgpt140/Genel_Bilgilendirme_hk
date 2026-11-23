@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36959
+baslik: "Depremde yıkılan, yanan veya tamamen kullanılmaz hale gelen binalarda çevre temizlik vergisi mükellefiyeti bu durumların meydana geldiği tarihten itibaren sona erecektir ve kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalara ait çevr"
+tarih: 2000-04-07
+sayi: "B.07.0.GEL.0.66/6601-544/15905"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/36959
+gib_guncelleme: 2025-03-24T20:46:35
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Depremde yıkılan, yanan veya tamamen kullanılmaz hale gelen binalarda çevre temizlik vergisi mükellefiyeti bu durumların meydana geldiği tarihten itibaren sona erecektir ve kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalara ait çevr
+
+**İlgili maddeler:** Madde 2 Bina Tabiri; Mükerrer Madde 44 Çevre Temizlik Vergisi (1)
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 07.04.2000 SAYI : B.07.0.GEL.0.66/6601-544/15905 KONU : Depremde yıkılan, yanan veya tamamen kullanılmaz hale gelen binalarla, kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalara ait çevre temizlik vergisi mükellefiyeti hk. İÇİŞLERİ BAKANLIĞI (Mahalli İdareler Genel Müdürlüğüne) ..... Belediye Başkanlığı tarafından Bakanlığımıza gönderilen 18.02.2000 tarih ve ..... sayılı yazının bir örneği ilişikte gönderilmiş olup, konu hakkında belirlenen Bakanlığımız görüşü aşağıda açıklanmıştır. Bilindiği üzere, 2464 sayılı Belediye Gelirleri Kanununun mükerrer 44 üncü maddesinin birinci fıkrasında, belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin katı atık toplama i1e kanalizasyon hizmetlerinden yararlanan konut, işyeri diğer şekillerde kullanılan binaların çevre temizlik vergisine tabi olduğu belirtilmiş, aynı maddenin on birinci fıkrasında da yanan, yıkılan ve benzeri nedenlerle tamamen kullanılmaz hale gelen binalarla, kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalarda mükellefiyetin bu durumların meydana geldiği tarihte sona ereceği hükme bağlanmıştır. Diğer taraftan, çevre temizlik vergisi bina gruplarının tespiti ile ilgili 31.12.1993 tarih ve 21805 mükerrer sayılı Resmi Gazete'de yayımlanan 93/5105 sayılı Bakanlar Kurulu Kararının 4 üncü maddesinde, atıkların arıtma, geri kazanma veya imha tesisi olan ve bu tesisleri faaliyette bulunan binalar ile boş tutulan binaların bu durumları belgelendirmek şartıyla iki a1t grupta değerlendirileceği görüşülmüştür. Bu itibarla, 17 Ağustos 1999 tarihinde meydana gelen deprem nedeniyle yıkılan, yanan veya tamamen kullanılmaz hale gelen binalarla kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalara ait çevre temizlik vergisi mükellefiyeti bu durumların meydana geldiği tarihten itibaren sona erecektir. Ancak, az veya orta hasarlı olup, herhangi bir yasaklama olmaksızın geçici bir kullanılmayan, dolayısıyla mevcut hasarların tamirinden sonra kullanılması mümkün olan binalarla prefabrik konut ve işyerleri için çevre temizlik vergisinin ödenmesi gerekmektedir. Boş tutulan binalar, bu durumları belgelendirmek şartıyla iki a1t grupta, boş binaları altıncı ve yedinci grupta bulunanlar ise en son grupta değerlendirilecektir. Diğer taraftan, 1319 sayılı Emlak Vergisi Kanununun 2 nci maddesinde bina tanımlanmıştır. Buna göre yapıldığı madde ne olursa olsun gerek karada, gerekse su üzerindeki sabit inşaatın tamamını kapsamaktadır. Çadırlar ve nakil vasıtaları ile takılıp çekilebilen seyyar evler ve benzerleri bina kapsamında değerlendirilmeyecektir. Bilgi edinilmesini ve konu hakkındaki Bakanlıkları görüşünün belirlenerek gerekli duyurunun yapılmasını arz ederim. Bakan a.

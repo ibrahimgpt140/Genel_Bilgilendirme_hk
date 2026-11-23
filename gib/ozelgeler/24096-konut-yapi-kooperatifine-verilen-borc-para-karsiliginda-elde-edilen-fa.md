@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24096
+baslik: "Konut yapı kooperatifine verilen borç para karşılığında elde edilen faizin menkul sermaye iradı olarak vergilendirilmesi yıllık beyanname il beyan edilecektir."
+tarih: 1998-07-16
+sayi: "B.07.0.GEL.0.40/4006-266/26679"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24096
+gib_guncelleme: 2025-03-24T19:31:26
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Konut yapı kooperatifine verilen borç para karşılığında elde edilen faizin menkul sermaye iradı olarak vergilendirilmesi yıllık beyanname il beyan edilecektir.
+
+**İlgili maddeler:** Madde 75 Tarifi; Geçici Madde 39 (3946 sayılı Kanunun 28'inci maddesiyle eklenen madde)
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 16.07.1998 SAYI : B.07.0.GEL.0.40/4006-266/26679 KONU : Konut yapı kooperatifine verilen borç para karşılığında elde edilen faizin menkul ser maye iradı olarak vergilendirilmesi hk. ANKARA VALİLİĞİ (Defterdarlık : Vasıtasız Vergiler Gelir Müdürlüğüne) İLGİ: 28.05.1998 tarih ve B.07.4.DEF.0.06.11/GVK-12075-017/3321 sayılı yazınız. İliniz Muhtelif Vergi Daireleri mükelleflerinden .....-....., .... ve ..... ile ilgili yazınız ve eklerinin incelenmesinden, adı geçenlerin ..... Konut Yapı Kooperatifine borç para verdikleri, bu para karşılığında 1997 yılı içerisinde faiz geliri elde ettikleri belirtilerek, sözü edilen menkul sermaye iratlarına indirim oranının uygulanıp uygulanmayacağı konusunda tereddüte düşüldüğü anlaşılmıştır. 193 sayılı Gelir Vergisi Kanununun 75 nci maddesinde; "Sahibinin ticari, zirai veya mesleki faaliyeti dışında, nakdi sermaye veya para ile temsil edilebilen değerlerden müteşekkil sermaye dolayısıyla elde ettiği, temettü, faiz, kira ve benzeri iratların menkul sermaye iradı" olduğu hükme bağlanmıştır. Aynı maddenin 6 numaralı bendinde ise, her nevi alacak faizlerinin (Adi, imtiyazlı, rehinli, senetli alacaklarla cari hesap alacaklarından doğan faizler ve kamu tüzel kişilerince borçlanılan ve senede bağlanmış olan meblağlar için ödenen faizler dahil) menkul sermaye iradı olduğu belirtilmiştir. Öte yandan, aynı Kanunun geçici 39 uncu maddesinin 5 numaralı bendi ile yıllık beyanname ile beyanı gereken ve Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının 5, 6, 7, 12 ve 14 numaralı bentlerinde yazılı menkul sermaye iratlarının, bu maddede belirlenen esaslar çerçevesinde Maliye Bakanlığınca hesaplanacak indiri m oranının uygulanması suretiyle bulunacak kısmı, 31.12.1999 tarihine kadar vergiden istisna edilmiştir. Konuya ilişkin açıklamalar 06.02.1998 tarih ve 23250 sayılı Resmi Gazete'de yayımlanan 209 Seri No'lu Gelir Vergisi Genel Tebliğinde yapılmış olup, sözü edilen tebliğin (A) bölümünde, Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının 6 numaralı bendinde yazılı alacak faizlerinin tutarı ne olursa olsun öteden beri yıllık beyanname ile bildirildiği, 01.01.1997 tarihinden itibaren elde edilen a l acak faizlerinin ise indirim oranının uygulanması suretiyle bulunacak kısmının 31.12.1999 tarihine kadar gelir vergisinden istisna olacağı belirtilmiştir. Buna göre, adı geçenlerin elde ettiği gelirler, Gelir Vergisi Kanununun 75 inci maddesinin 6 numaralı bendinde alacak faizi olarak tanımlanan menkul sermaye iradı olduğundan, 01.01.1997 tarihinden itibaren elde edilen söz konusu faiz gelirlerine % 67.6 oranının uygulanması suretiyle bulunulacak kısmı gelir vergisinden istisna edilecek, alacak faizi tev k if yoluyla vergilendirilmemiş menkul sermaye iradı olduğundan, kalan tutar 1 milyar 500 milyon liralık haddi aşıp aşmadığına bakılmaksızın yıllık beyanname ile beyan edilecektir. Bilgi edinilmesini ve gereğinin buna göre yapılarak durumun adı geçenlere d e bildirilmesini rica ederim. Bakan a. Genel Müdür Yardımcısı

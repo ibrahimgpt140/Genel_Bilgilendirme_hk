@@ -1,0 +1,51 @@
+---
+tur: Özelge
+gib_id: 36489
+baslik: "Her iki alt ekstremitede özrü bulunan % 60 oranındaki özürlünün otomatik vitesli aracına MTV istisnası hk."
+tarih: 2014-04-25
+sayi: "66813766-170[4-2013-9]-236"
+kanun: "197 MOTORLU TAŞITLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/441/ozelge/36489
+gib_guncelleme: 2025-03-24T20:36:28
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Her iki alt ekstremitede özrü bulunan % 60 oranındaki özürlünün otomatik vitesli aracına MTV istisnası hk.
+
+**İlgili maddeler:** Madde 4 İstisnalar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İZMİR VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü
+
+Sayı : 66813766-170[4-2013-9]-236 25/04/2014
+Konu : Her iki alt ekstremitede özrü bulunan
+% 60 oranındaki özürlünün otomatik
+vitesli aracına MTV istisnası hk.
+
+Sayın ........
+..................
+
+İlgi : 02.09.2013 tarihli özelge talebiniz.
+İlgide kayıtlı özelge talep formunuzun ve eklerinin incelenmesinden;
+- ..... Hastanesinden almış olduğunuz 21/5/2007 tarihli Sağlık Kurulu Raporunda her iki alt ekstremitede orta derece polio sekeli bulunması nedeniyle % 60 oranında engelli olduğunuzun belirtildiği,
+- Söz konusu rapora istinaden adınıza kayıt ve tescilli ..... plaka numaralı, otomatik vitesli taşıtınızın motorlu taşıtlar vergisinden istisna olup olmayacağı hususunda Başkanlığımız görüşünün sorulduğu anlaşılmaktadır.
+197 sayılı Motorlu Taşıtlar Vergisi Kanununun 3 üncü maddesinde "Motorlu Taşıtlar Vergisinin mükellefi; trafik sicili ile Ulaştırma Bakanlığınca tutulan sivil hava vasıtaları sicilinde adlarına motorlu taşıt kayıt ve tescil edilmiş olan gerçek ve tüzel kişilerdir." hükmü yer almaktadır.
+Anılan Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendinde, engellilik dereceleri % 90 ve daha fazla olan malûl ve engellilerin adlarına kayıtlı taşıtlar ile diğer malûl ve engellilerin, bu durumlarına uygun hale getirilmiş özel tertibatlı taşıtların motorlu taşıtlar vergisinden istisna olduğu belirtilmiştir.
+10/1/2004 tarih ve 25342 sayılı Resmi Gazete'de yayımlanan 21 Seri No.lu Motorlu Taşıtlar Vergisi Genel Tebliğinin "II-İstisnalar" başlıklı bölümünde,
+" 2 - Diğer Malûl ve Engellilere Ait Taşıtlarda İstisna Uygulaması
+Sakatlık dereceleri % 90 dan az olan malûl ve engellilerin bu durumlarını; tam teşekküllü Devlet hastanesinden alınan sağlık kurulu raporu ile belgelendirmeleri ve kendi adlarına kayıt ve tescilli olan taşıtların engellilik haline uygun özel tertibatlı veya özel tertibatlı hale getirilmiş taşıtlar olduğunu belirten "Motorlu Araç Tescil Belgesi"nin ilgili tescil kuruluşlarınca onaylanmış örneği ile "Araçlar İçin Teknik Belge" ve "Proje Raporu"nun aslı veya noter onaylı örneğini ilgili vergi dairelerine ibraz etmeleri halinde bu istisna hükmünden yararlanabileceklerdir.
+3 - Malûl ve Engelliler İstisnası İle İlgili Bildirim
+Malûl ve engelliler istisnasından yararlanacak olan malûl ve engelliler tarafından, "Malûl ve Engelliler Adına Kayıt ve Tescilli Taşıtlarda Motorlu Taşıtlar Vergisi İstisnası Bildirim Formu" düzenlenerek (Bildirim Formu'nun internetteki www.gib.gov.tr adresinde bulunan örneğinin düzenlenmesi mümkün bulunmaktadır.) istisnadan yararlanmak için gerekli olan diğer belgeler ile birlikte ilgili vergi dairesine verilecektir." açıklamaları yer almaktadır.
+Bununla birlikte, 2010/2 sayılı Motorlu Taşıtlar Vergisi Sirkülerinde, otomatik vitesli taşıtlarda istisna uygulaması ile ilglili olarak, sağlık raporunda sadece sol alt ekstremitede (ayak veya bacakta) sakatlığı olduğu belirtilen malul ve engellilerin otomatik vitesli taşıtları, başkaca özel tertibat yapılmasına gerek olmaksızın, malul ve engelli adına kayıt ve tescil edildiği tarihten itibaren motorlu taşıtlar vergisinden istisna olacağı açıklanmıştır.
+Buna göre, sağ alt ekstremitedeki engellik halinize uygun özel tertibat yaptırmanız ve 21 Seri No.lu Motorlu Taşıtlar Vergisi Genel Tebliğinde belirtilen diğer belgelerle ilgili vergi dairesine müracaat etmeniz üzerine, söz konusu taşıtın özürlü taşıtı olarak adınıza kayıt ve tescil edildiği tarih itibariyle motorlu taşıtlar vergisinden istisna edilmesi mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+Vergi Dairesi Başkanı a.
+Grup Müdürü
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

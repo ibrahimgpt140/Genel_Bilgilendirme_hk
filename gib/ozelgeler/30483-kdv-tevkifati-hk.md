@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 30483
+baslik: "KDV Tevkifatı hk."
+tarih: 2013-10-23
+sayi: "96620903-130[9/1-2012/14]-91"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30483
+gib_guncelleme: 2025-03-24T19:59:35
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# KDV Tevkifatı hk.
+
+**İlgili maddeler:** Madde 9 Vergi Sorumlusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI MUĞLA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+Sayı | : | 96620903-130[9/1-2012/14]-91 | 23/10/2013
+Konu | : | KDV Tevkifatı
+
+İlgide kayıtlı özelge talep formunuzda, firmanız ile ... Müdürlüğü arasında makine parkında bulunan Komatsu ağır toprak kamyonlarının damper, ana şase, iş makinelerinin şase, yürüyüş takımlarının kaynak ve torna işleri, iş makinelerinin ve plakalı araçların kaporta, Kuruma ait arazideki Marion ekskavatörlerin bom çatlaklarının yürüyüş takımlarının, kova adaptörü ve kova dil dolgusu kaynak işleri ve gerekli görülen torna işleri, Kurum bünyesinde her nevi muhtelif kaynak ve torna işleri, bütün iş makinelerinde kullanılan hidrolik hortumların yapılması, isteğe uygun çelik konstrüksiyon imalatının yapılması ve yapılan işlerin boyalarının yapılması işi için hizmet sözleşmesi düzenlendiği belirtilerek katma değer vergisi (KDV) tevkifatının nasıl uygulanacağı konusunda bilgi istenilmektedir.
+3065 sayılı KDV Kanununun 9 uncu maddesi ile vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanları vergi alacağının ödenmesinden sorumlu tutma konusunda Bakanlığımıza yetki verilmiştir.
+Bakanlığımıza tanınan bu yetkiye dayanılarak yayımlanan ve 01/05/2012 tarihinde yürürlüğe giren 117 Seri No.lu KDV Genel Tebliğinin "3.2.3. Makine, Teçhizat, Demirbaş ve Taşıtlara Ait Tadil, Bakım ve Onarım Hizmetleri" başlıklı bölümünde, Tebliğin (3.1.2/b) ayrımında sayılanlara karşı ifa edilen makine, teçhizat, demirbaş ve taşıtlara ait tadil, bakım ve onarım hizmetlerinde alıcılar tarafından (5/10) oranında KDV tevkifatı uygulanacağı belirtilmiştir.
+Aynı Tebliğin "3.2.5. İşgücü Temin Hizmetleri" bölümünde, Tebliğin (3.1.2) bölümünde sayılanlara, faaliyetlerinin yürütülmesi ile ilgili işlemlerde kullanacakları işgücünün sağlanması şeklinde verilen hizmetlerde alıcılar tarafından (9/10) oranında KDV tevkifatı uygulanacağı belirtilmiştir.
+Ayrıca, " 3.2.5.2.1. Gerçek veya tüzel kişiler faaliyetlerinin yürütülmesine ilişkin olarak ihtiyaç duydukları işgücünü kendilerine hizmet akdi ile bağlı ücretli statüsünde hizmet erbabı çalıştırarak temin etmek yerine, alt işverenlerden veya bu alanda ya da başka alanlarda faaliyette bulunan diğer kişi, kurum, kuruluş veya organizasyonlardan temin etmektedirler.
+Bu tür hizmetler, esas itibariyle, temin edilen elemanların, hizmeti alan işletmenin bilfiil sevk, idare ve kontrolü altında çalıştırılabilmesinin mümkün bulunduğu durumlarda tevkifat kapsamına girmektedir.
+Bu şekilde ortaya çıkan hizmetlerde aşağıdaki şartların varlığı halinde tevkifat uygulanacaktır.
+- Temin edilen elemanların, hizmeti alana ücretli statüsünde hizmet akdiyle bağlı olmaması gerekmektedir.
+- Temin edilen elemanların, hizmeti alanın sevk, idare ve kontrolü altında çalıştırılması gerekmektedir. Elemanların işletmenin mal ve hizmet üretimi safhalarından herhangi birinde çalıştırılması halinde, sevk, idare ve kontrolün hizmeti alan işletmede olduğu kabul edilecektir.
+Dolayısıyla işgücü temin hizmetinin varlığının tespitinde; hizmetin ifasında kullanılan elemanların işgücü temin hizmetini veren firmanın bünyesinde bulunması ve ona hizmet akdiyle bağlı olması, hizmeti alanın sevk, idare ve kontrolü altında çalıştırılması gibi karineler göz önünde bulundurulacak, bu hususların varlığı, taraflar arasında bir sözleşme yapılmışsa bu sözleşmedeki hükümler veya sözleşmeye bağlı teknik şartnamedeki açıklamalar da dikkate alınarak tespit edilecektir.
+İşgücü temin hizmeti veren mükellefin, söz konusu hizmeti bir başka mükelleften temin ettiği elemanları kullanarak sunması halinde sadece kendisine verilen işgücü temin hizmetinde tevkifat uygulanacaktır." hükmüne yer verilmiştir.
+Şirketiniz ile ... Müdürlüğü arasında düzenlenen hizmet alımına ait sözleşmenin 3 üncü maddesinde " İş Tanımı " " Sözleşme konusu iş; ... nin makine parkında bulunan Komatsu ağır toprak kamyonlarının damper ana şase, iş makinelerinin şase yürüyüş takımlarının kaynak ve torna işleri, iş makinelerinin ve plakalı araçların kaporta, ... ye ait arazideki Marion ekskavatörlerin bom çatlaklarının yürüyüş takımlarının, kova adaptörü ve kova dil dolgusu kaynak işleri ve gerekli görülen torna işleri, ... bünyesinde her nevi muhtelif kaynak ve torna işleri, bütün iş makinelerinde kullanılan hidrolik hortumların yapılması, isteğe uygun çelik konstrüksiyon imalatının yapılması ve yapılan işlerin boyalarının yapılması işleridir." şeklinde belirtilmiştir.
+Teknik şartnamenin 3.4 üncü maddesinde;" Kaynak atölyesine gelen her türlü kaynak, torna, tesviye, kaporta ve boya işleri ... tarafından belirlenen sorumlu elemanca personele tarif edilecek, yapılması istenilen iş, tarif edildiği şekil ve esaslara uygun olarak yapılacaktır." denilmektedir. 6.1 inci maddesinde " Kaynak atölyesinde çalışacak personelin iş başı ve paydos saatleri ... personeli ile aynı olup bu saatlere kesinlikle riayet edilecektir." ve 6.4 üncü maddesinde ise " Kaynak ve torna atölyesinde çalışan yüklenici elemanlarının yapmış olduğu her türlü kaynak, kaporta, torna, tesviye ve boya işleri ... nin tayin etmiş olduğu teknik sorumlu tarafından kontrol edilecektir. Kontrol esnasında isteğe uygun olmayan işler kabul edilmeyip tekrar yaptırılacaktır." ifadeleri yer almaktadır.
+Teknik Şartnamenin çalışma saatlerine ilişkin 9.1 inci maddesinde; " Bu şartname konusu işler, Cumartesi günü de dahil olmak üzere 6 (altı) çalışma gününde yapılacaktır. ... nin gerekli görmesi halinde işin durumuna göre Pazar günleri de gerekli sayıda eleman isteyecek ve yüklenici de istenilen sayıda eleman verecektir. Bu gibi çalışmalarda Pazar çalışma ücreti 4857 sayılı İş Kanununa göre düzenlenir." denilmekte olup, 9.2 nci maddesinde ise " Kaynak atölyesinin çalışma saatleri ... atölye çalışanları ile aynı olup Cumartesi günleri de çalışacaktır. Ancak Ç.L.İ. tarafından görülen lüzum üzerine çalışmasını gerektirecek kaynak işlerinin çıkması halinde çalışma saati uzayabilecektir. Başlanılan işi bitirmeden işi bırakmayacaktır. Fazla mesaiye kalan elemanlara fazla mesai ücretleri 4857 sayılı İş Kanununa göre ödenir." ifadesi yer almaktadır.
+Buna göre, sözleşme, idari ve teknik şartnamelerdeki belirlemeler ile mevzuat hükümleri birlikte değerlendirildiğinde, ... Müdürlüğü kaynak kaporta ve tornahanesinin 19 kişi ile bir yıl süreli işletilmesi işinde kullanılan elemanların sevk, idare ve kontrolünün ... Müdürlüğüne ait olduğu anlaşıldığından, bu hizmetin işgücü temin hizmeti kapsamında değerlendirilerek hizmet bedeli üzerinden hesaplanan KDV 9/10 oranında tevkifata tabi tutulacaktır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

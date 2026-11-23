@@ -1,0 +1,44 @@
+---
+tur: Özelge
+gib_id: 30115
+baslik: "Yurt dışına ihraç edilen prefabrik yapıların montaj işlemlerinin Kurumlar Vergisi, KDV açısından değerlendirilmesi ve belge düzeni hk."
+tarih: 2016-04-07
+sayi: "B.07.1.GİB.4.06.18.02-105[229-2014-220]-30441"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/30115
+gib_guncelleme: 2025-03-24T19:58:31
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yurt dışına ihraç edilen prefabrik yapıların montaj işlemlerinin Kurumlar Vergisi, KDV açısından değerlendirilmesi ve belge düzeni hk.
+
+**İlgili maddeler:** Madde 6 İşlemlerin Türkiye'de Yapılması
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Usul Grup Müdürlüğü)
+
+Sayı | : | 27575268-105[229-2014-220]-30441 | 07/04/2016
+Konu | : | Yurt dışına ihraç edilen prefabrik yapıların montaj işlemlerinin Kurumlar Vergisi, KDV açısından değerlendirilmesi ve belge düzeni hk.
+
+İlgi özelge talep formunuzda; şirketinizce, ......... elektrik santrali yapım ihalesini alan bir Türk firmasının bu işlerle ilgili işçi yatakhanesi vb. amaçlar için kullanacağı konteynırların (prefabrik yapıların) temini ve ……….. montajının üstlenildiği, söz konusu işin montajıyla ilgili olarak, elektrik santralinde çalışacak işçilerin kalacağı prefabrik yapıların imalat işlerinin Türkiye'deki işyerinizde yapılarak, elektrik santrali yapım ihalesini üstlenen Türk şirketine fatura edilmek suretiyle …….. ihraç edileceği, Türkiye'de montaja hazır hale getirilen prefabrik yapı malzemelerinin ihracat işlemi gerçekleştirildikten sonra elektrik santrali işini üstlenen firma ile yapılan sözleşme gereği ………. bulunan elektrik santrali sahasına montaj işleminin firmanız tarafından ……….. yapılacağı ve montaj sırasında bir kısım malzeme ve işçiliklerin ……… temin edileceği belirtilerek firmanız tarafından yurt içinde imal edilerek ………. demonte vaziyette ihraç edilecek olan prefabrik yapıların montajından doğacak kazancın Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (h) bendi kapsamında değerlendirilip değerlendirilmeyeceği, bu hizmet bedeli üzerinden KDV hesaplanıp hesaplanmayacağı ile montaj işlemine ilişkin faturanın ne şekilde düzenleneceği hususlarında Başkanlığımız görüşü talep edilmiştir.
+I-KURUMLAR VERGİSİ KANUNU YÖNÜNDEN DEĞERLENDİRME:
+5520 sayılı Kurumlar Vergisi Kanununun 3 üncü maddesinde; "Kanunun 1 inci maddesinde sayılı kurumlardan kanunî veya iş merkezi Türkiye'de bulunanlar, gerek Türkiye içinde gerekse Türkiye dışında elde ettikleri kazançların tamamı üzerinden vergilendirilirler." hükmü yer almaktadır.
+Aynı Kanunun "İstisnalar" başlıklı 5 inci maddesinin birinci fıkrasının (h) bendinde, yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanarak Türkiye'de genel sonuç hesaplarına intikal ettirilen kazançların kurumlar vergisinden müstesna olduğu hükme bağlanmıştır.
+1 seri no.lu Kurumlar Vergisi Genel Tebliğinin "5.9 Yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanan kazançlarda istisna" başlıklı bölümünde ise, yurt dışında bulunan işyerleri veya daimi temsilcileri aracılığıyla yapılan ve yurt dışında vergilendirilen inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanan kazançların (vergi yükü oranına bakılmaksızın) ayrıca yurt içinde de vergilendirilmesinin önüne geçilmesi amacıyla bu kazançların kurumlar vergisinden istisna edildikleri belirtilmektedir.
+Öte yandan 4734 sayılı Kamu İhale Kanununun 4 üncü maddesinin "Tanımlar" bölümünde; "Yapım: Bina, karayolu, demiryolu, otoyol, havalimanı, rıhtım, liman, tersane, köprü, tünel, metro, viyadük, spor tesisi, alt yapı, boru iletim hattı, haberleşme ve enerji nakil hattı, baraj, enerji santrali, rafineri tesisi, sulama tesisi, toprak ıslahı, taşkın koruma ve dekapaj gibi her türlü inşaat işleri ve bu işlerle ilgili tesisat, imalat, ihzarat, nakliye, tamamlama, büyük onarım, restorasyon, çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzeri yapım işleri" şeklinde tanımlanmıştır.
+Diğer taraftan, özelge talep formunuz ve eki sipariş fişinin tetkikinden; ……..elektrik santrali yapım ihalesi alan firmanın, bu işlerle ilgili işçi yatakhanesi vb. amaçlar için kullanacağı konteynırların (prefabrik yapıların) Türkiye'de şirketiniz tarafından demonte vaziyette imal edilerek …….. ihraç edileceği ve …….. bulunan elektrik santralı sahasına montaj işleminin yapılacağı, söz konusu işin toplam bedeline, sipariş edilen tüm iş ve malzemeler için gerekli olan tüm yardımcı ekipman ve aksesuarların tedariki, gerekli testlerin yapımı, bunlarla ilgili firma tarafından talep edilecek dokümanların hazırlanması sırasında gerekli olabilecek ekipmanların dahil olduğu anlaşılmıştır.
+Bu hüküm ve açıklamalar çerçevesinde, şirketiniz tarafından yurt içinde imal edilerek ……… demonte vaziyette ihraç edilen konteynırların (prefabrik yapıların) yurtdışında montajı işi, bu prefabrik yapıların ihracatından (satışından) ayrı düşünülemeyeceğinden ve yurt dışında yürütülen ayrı bir montaj işi olarak kabul edilemeyeceğinden, bahsi geçen faaliyetiniz dolayısıyla elde edeceğiniz kazancınızın Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (h) bendi kapsamında değerlendirilmesi ve istisnaya konu edilmesi mümkün bulunmamaktadır.
+Öte yandan, şirketiniz tarafından hizmetin tamamlanmasından itibaren azami yedi gün içinde fatura düzenlenmesi gerekmektedir.
+II-KATMA DEĞER VERGİSİ KANUNU YÖNÜNDEN DEĞERLENDİRME:
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun;
+-1/1 maddesinde, Türkiye'de yapılan ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV'ye tabi olduğu,
+-4 üncü maddesinde hizmetin, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu, bu işlemlerin bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmayı taahhüt etmek gibi şekillerde gerçekleşebileceği,
+-6 ncı maddesinde, işlemlerin Türkiye'de yapılmasının; malların teslim anında Türkiye'de bulunmasını, hizmetin Türkiye'de yapılmasını veya hizmetten Türkiye'de faydalanılmasını ifade ettiği,
+- 30 uncu maddesinin (a) bendinde, vergiye tabi olmayan veya vergiden istisna edilmiş bulunan malların teslimi ve hizmet ifası ile ilgili alış vesikalarında gösterilen veya bu mal ve hizmetlerin maliyetleri içinde yer alan KDV nin mükellefin vergiye tabi işlemleri üzerinden hesaplanan KDV den indirilemeyeceği
+hüküm altına alınmıştır.
+Diğer taraftan, aynı Kanunun 11/1-a maddesi ile ihracat teslimleri ve bu teslimlere ilişkin hizmetler ile yurt dışındaki müşteriler için yapılan hizmetlerin vergiden istisna olduğu, 12/1-a maddesinde bir teslimin ihracat teslimi sayılabilmesi için "teslimin yurt dışındaki bir müşteriye veya bir serbest bölgedeki alıcıya ya da yetkili gümrük antreposu işleticisine veya malların yetkili gümrük antreposu işleticisine tevdi edilmesi gerektiği; 12/2 nci maddesinde yurt dışındaki müşteri tabirinin; ikametgâhı, işyeri, kanunî ve iş merkezi yurt dışında olan alıcılar ile yurt içinde bulunan bir firmanın yurt dışında kendi adına müstakilen faaliyet gösteren şubelerini ifade ettiği, bir hizmetin yurtdışındaki müşteriler için yapılan hizmet sayılabilmesi için ise hizmetlerin yurtdışındaki bir müşteri için yapılmış olması ve hizmetten yurtdışında faydalanılması gerektiği belirtilmiştir.
+Bu hüküm ve açıklamalar çerçevesinde;
+-Şirketiniz tarafından yurt içinde imal edilerek demonte vaziyette Türkmenistan'daki şantiyeye gönderilecek olan prefabrik yapı malzemelerinin, Kanunun 11/1-a ve KDV Genel Uygulama Tebliğinin II/A-1 bölümünde yer alan usul ve esaslar (ihracat mevzuatı) çerçevesinde ihraç edilmesi durumunda, bu teslimlerin ihracat istisnası kapsamında KDV den istisna tutulması mümkün bulunmaktadır.
+-Söz konusu işlemin bir bütün olarak yurt dışında gerçekleştirilmesi durumunda söz konusu montaj işlemi KDV Kanununun 1 ve 6 ncı maddeleri gereğince KDV nin konusuna girmediğinden Türkiye'de yapılmayan işlem bedeli üzerinden KDV hesaplanmasına gerek bulunmamaktadır.
+Öte yandan, verginin konusuna girmeyen işlemler nedeniyle yüklenilen vergilerin Kanunun 30/a maddesine göre indirim konusu yapılması mümkün bulunmadığından, bu işleme ilişkin KDV'lerin indirim konusu yapılmaması ve daha önce indirim konusu yapılmış vergilerin indirim hesaplarından çıkartılması gerekmektedir.
+Bilgi edinilmesini rica ederim.

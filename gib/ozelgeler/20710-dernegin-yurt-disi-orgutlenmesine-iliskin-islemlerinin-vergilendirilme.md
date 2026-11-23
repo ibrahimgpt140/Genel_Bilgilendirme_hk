@@ -1,0 +1,56 @@
+---
+tur: Özelge
+gib_id: 20710
+baslik: "Derneğin yurt dışı örgütlenmesine ilişkin işlemlerinin vergilendirilmesi ve belge düzeni hk."
+tarih: 2014-04-17
+sayi: "11395140-105[227-2012/VUK-1- . . .]--992"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/20710
+gib_guncelleme: 2025-03-24T19:28:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Derneğin yurt dışı örgütlenmesine ilişkin işlemlerinin vergilendirilmesi ve belge düzeni hk.
+
+**İlgili maddeler:** Madde 1 Mevzu; Madde 4 Türkiye'de yerleşme; Madde 7 Kazanç Veya İradın Türkiye'de Elde Edilmesi; Madde 61 Ücretin Tarifi; Madde 94 Vergi Tevkifatı; Madde 215 Türkçe tutma ve Türk Parası kullanma zorunluluğu; Madde 227 İspat Edici Kağıtlar; Madde 229 Faturanın Tarifi; Madde 280 Yabancı Paralar; Madde 1 Verginin konusu; Madde 3 Tam ve dar mükellefiyet; Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 4 Hizmet; Madde 6 İşlemlerin Türkiye'de Yapılması; Madde 9 Vergi Sorumlusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 11395140-105[227-2012/VUK-1- . . .]--992 | 17/04/2014
+Konu | : | Derneğin yurt dışı örgütlenmesine ilişkin işlemlerinin vergilendirilmesi ve belge düzeni.
+
+İlgide kayıtlı özelge talep formunuzda, Derneğiniz tarafından yurt dışında birden fazla ülkede temsilcilik, şube ve benzeri şekilde yapılanma yoluna gidilmek istenildiği, bu yurt dışı birimlerde çalışacak personelden bir kısmının yurt dışında yerleşik Türkiye Cumhuriyeti vatandaşı, bir kısmının Türkiye'de yerleşik ve dernek bünyesinde istihdam edilmekte olan Türkiye Cumhuriyeti vatandaşı, bir kısmının ise yabancı ülke vatandaşı kişilerden oluşacağı belirtilerek; Türkiye'de dernek hesabından yapılacak para transferleri ile temsilci veya personel ücret ödemeleri, temsil ve ağırlama giderleri ile bu birimlerin yabancı ülkede faaliyette olacağı yerler için ödenecek kira ve diğer giderlerin vergilendirilmesi ve belge düzeninin nasıl olması gerektiği hususlarında Başkanlığımız görüşü talep edilmektedir.
+I- GELİR VE KURUMLAR VERGİSİ KANUNU AÇISINDAN
+5520 sayılı Kurumlar Vergisi Kanununun 1 inci maddesinde sayılanların kurumlar vergisine tabi olduğuna hükmedilmiş olup bunlar içinde dernekler sayılmamıştır. Dolayısıyla dernekler kurumlar vergisi mükellefi olamayacağı gibi derneklerin ticari faaliyette bulunmaları halinde derneklere ait oluşan yalnızca dernek iktisadi işletmeleri için kurumlar vergisi mükellefiyeti meydana gelmektedir.
+193 sayılı Gelir Vergisi Kanununun 1 inci maddesinde gerçek kişilerin gelirlerinin gelir vergisine tabi olduğu belirtilmiş, aynı Kanunun 3 üncü maddesinde;
+"Aşağıda yazılı gerçek kişiler Türkiye içinde ve dışında elde ettikleri kazanç ve iratların tamamı üzerinden vergilendirilirler:
+1. Türkiye 'de yerleşmiş olanlar;
+2. Resmi daire ve müesseselere veya merkezi Türkiye'de bulunan teşekkül ve teşebbüslere bağlı olup adı geçen daire, müessese, teşekkül ve teşebbüslerin işleri dolayısıyla yabancı memleketlerde oturan Türk vatandaşları (Bu gibilerden bulundukları memleketlerde elde ettikleri kazanç ve iratları dolayısıyla Gelir Vergisine veya benzeri bir vergiye tabi tutulmuş bulunanlar, mezkur kazanç ve iratları üzerinden ayrıca vergilendirilmezler.)" hükmüne yer verilmiştir. Aynı Kanunun 4 üncü maddesinde de; ikametgahı Türkiye'de bulunanlar ile bir takvim yılı içinde Türkiye'de devamlı olarak altı aydan fazla oturanların Türkiye'de yerleşmiş sayılacağına hükmedilmiştir.
+Gelir Vergisi Kanununun "Kazanç Veya İradın Türkiye'de Elde Edilmesi" başlıklı 7 nci maddesinin birinci fıkrasında dar mükellefiyete tabi kimseler bakımından kazanç ve iradın Türkiye'de elde edildiğinin maddenin devamında belirtilen şartlara göre tayin olunacağı ifade edilerek; ücretlerde hizmetin Türkiye'de ifa edilmiş veya edilmekte olması veya Türkiye'de değerlendirilmesinin, gayrimenkul sermaye iratlarında da gayrimenkulün Türkiye'de bulunması ve bu mahiyetteki mal ve hakların Türkiye'de kullanılması veya Türkiye'de değerlendirilmesinin bu konuda kıstas olacağına hükmedilmiştir. Yine 7 nci maddenin üçüncü fıkrasında, bu maddenin birinci fıkrasının 3 üncü, 4 üncü, 5 inci ve 7 nci bentlerinde sözü edilen değerlendirmeden maksadın, ödemenin Türkiye'de yapılması veya ödeme yabancı memlekette yapılmışsa, Türkiye'de ödeyenin veya nam ve hesabına ödeme yapılanın hesaplarına intikal ettirilmesi veya karından ayrılması olduğu hükme bağlanmıştır.
+5520 sayılı Kurumlar Vergisi Kanununun 3 üncü maddesinin ikinci fıkrasında; birinci maddede yazılı kurumlardan kanuni ve iş merkezlerinden her ikisi de Türkiye içinde bulunmayanların, yalnız Türkiye'de elde ettikleri kazançları üzerinden vergilendirileceği hükme bağlanmış, üçüncü fıkrasında ise dar mükellefiyet mevzuuna giren kurum kazancının hangi kazanç ve iratlardan oluştuğu belirtilmiştir. Anılan maddenin üçüncü fıkrasının (ç) bendinde de, taşınır ve taşınmazlar ile hakların Türkiye'de kiralanmasından elde edilen iratların dar mükellefiyet konusuna giren kurum kazancı olarak vergilendirileceği hükmüne yer verilmiştir.
+Aynı Kanunun "Dar mükellefiyette vergi kesintisi" başlıklı 30 uncu maddesinin birinci fıkrasında ise, dar mükellefiyete tabi kurumların yıllara yaygın inşaat işleri dolayısıyla elde ettikleri hakediş ödemeleri, serbest meslek kazançları, gayrimenkul sermaye iratları, menkul sermaye iratları gibi kazanç ve iratları üzerinden bu kazanç ve iratları avanslar da dahil olmak üzere nakden veya hesaben ödeyen veya tahakkuk ettirenler tarafından kurumlar vergisi kesintisi yapılacağı hükme bağlanmıştır.
+Gelir Vergisi Kanununun 61 inci maddesinde ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatler olarak tanımlanmış, aynı Kanunun 94 üncü maddesinin (1) numaralı bendiyle hizmet erbabına ödenecek ücretlerin 103 ve 104 üncü maddeleri kapsamında gelir vergisi tevkifatına tabi tutulacağı hüküm altına alınmıştır. Anılan Kanunun "Gayrimenkul Sermaye İradının Tarifi" başlıklı 70 inci maddesinde de bu maddede sayılan mal ve hakların kiraya verilmesinden elde edilen kazancın gayrimenkul sermaye iradı olarak değerlendirilmesi gerektiği belirtilmiştir.
+Aynı Kanunun 94 üncü maddesinde;
+"Kamu idare ve müesseseleri, iktisadi kamu müesseseleri, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbest meslek erbabı, zirai kazançlarını bilanço veya zirai işletme hesabı esasına göre tespit eden çiftçiler aşağıdaki bentlerde sayılan ödemeleri (avans olarak ödenenler dahil) nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vergilerine mahsuben tevkifat yapmaya mecburdurlar.
+1. Hizmet erbabına ödenen ücretler ile 61 inci maddede yazılı olup ücret sayılan ödemelerden (istisnadan faydalananlar hariç), 103 ve 104 üncü maddelere göre,
+5. a) 70 inci maddede yazılı mal ve hakların kiralanması karşılığı yapılan ödemelerden, ..." hükmüne yer verilmiştir.
+Bu hüküm ve açıklamalara göre, Gelir Vergisi Kanununun 94 üncü maddesine göre gerçek kişilere, Kurumlar Vergisi Kanununun 15 inci ve 30 uncu maddelerine göre tam veya dar mükellef tüzel kişilere, dernekler tarafından istihdam edilen personel için yapılacak ücret ve faaliyette bulunulan yer için yapılacak kira ödemeleri üzerinden 2009/14592 ve 2009/14593 sayılı Bakanlar Kurulu Kararları'nda ilgili durumlar için belirtilen oranlarda vergi kesintisi yapılması gerekmektedir. Ancak, bu kesintilere ilişkin olarak temsilcilik, şube ve benzeri şekilde yapılanma yoluyla faaliyette bulunulacak olan yabancı ülke ile ödemenin yapıldığı tarihte çifte vergilendirmeyi önleme anlaşması imzalanmış ve bu anlaşmanın yürürlüğe girmiş olması halinde ise bu anlaşma hükümlerinin öncelikle dikkate alınması gerektiği tabiidir.
+II- KATMA DEĞER VERGİSİ KANUNU AÇISINDAN
+3065 sayılı Katma Değer Vergisi Kanununun;
+1 inci maddesinde, ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti kapsamında Türkiye'de yapılan teslim ve hizmetlerin katma değer vergisine tabi olduğu, 4 üncü maddesinde, hizmetin; teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu ve bu işlemlerin bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, kiralamak, bir şeyi yapmamayı taahhüt etmek gibi şekillerde gerçekleşebileceği,
+6 ncı maddesinde, işlemlerin Türkiye'de yapılmasının, malların teslim anında Türkiye'de bulunmasını, hizmetin Türkiye'de yapılmasını veya hizmetten Türkiye'de faydalanılmasını ifade ettiği,
+9/1 inci maddesinde ise mükellefin Türkiye içinde ikametgahının, işyerinin, kanuni merkezi ve iş merkezinin bulunmaması hallerinde ve gerekli görülen diğer hallerde Maliye Bakanlığı'nın vergi alacağının emniyet altına alınması amacıyla, vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutabileceği,
+hükümlerine yer verilmiştir.
+Buna göre, Derneğinizin yurt dışında farklı ülkelerde temsilcilik, şube ve benzeri şekilde yapılanması sonucu gayrimenkul kiralaması, temsil ağırlama gideri vb. nitelikte alınan mal ve hizmetler, teslim/faydalanma yurt dışında olacağından KDV'ye tabi olmayacaktır. Öte yandan Derneğinizin personelinden almış olduğu hizmetler ise ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti kapsamında alınmayıp işçi-işveren münasebeti içinde alındığından KDV'nin konusuna girmemektedir.
+III- VERGİ USUL KANUNU AÇISINDAN
+Kurumlar Vergisi Kanununun 1 inci maddesine göre, dernekler (tüzel kişiliği itibarıyla) kurumlar vergisinin konusu dışında olup sadece bunlara ait iktisadi işletmelerin kurumlar vergisi mükellefiyeti bulunmaktadır. Derneklere ait veya bağlı olup faaliyetleri devamlı bulunan sermaye şirketleri ile kooperatifler dışında kalan ticari, sınai ve zirai işletmeler derneklerin iktisadi işletmeleridir.
+Derneklere bağlı iktisadi işletmeler diğer işletmeler gibi mükellefiyet tesis ettirme, defter tutma, beyanname verme, belge düzenine uyma ile Vergi Usul Kanununda belirtilen tüm vergisel yükümlülüklerini yerine getirmek zorundadır.
+Ancak, özelge talep formundan Derneğinize bağlı bir iktisadi işletmenin olmadığı anlaşıldığından Vergi Usul Kanunu hükümlerine göre defter tutma ve belge düzenleme zorunluluğunuz bulunmamaktadır.
+Diğer taraftan, Vergi Usul Kanununun 238 inci maddesinde, işverenlerin, her ay ödedikleri ücretler için ücret bordrosu tutmaya mecbur oldukları, Gelir Vergisi Kanununa göre vergiden muaf olan ücretlerle diğer ücret üzerinden vergiye tabi hizmet erbabına yapılan ücret ödemeleri için bordro tutulmayacağı hükme bağlanmıştır.
+Buna göre, personele ödenen ücretler için ücret bordrosu düzenlenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

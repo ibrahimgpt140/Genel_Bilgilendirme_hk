@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 31950
+baslik: "Başkaca bir faaliyeti nedeniyle vergi mükellefiyeti olmayan Yapı Kooperatifinin, katma değer vergisi mükellefiyetinin terkin edilmesi gerekmektedir."
+tarih: 2000-06-05
+sayi: "B.07.0.GEL.0.53-5317-1747/27016"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31950
+gib_guncelleme: 2025-03-24T20:05:32
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Başkaca bir faaliyeti nedeniyle vergi mükellefiyeti olmayan Yapı Kooperatifinin, katma değer vergisi mükellefiyetinin terkin edilmesi gerekmektedir.
+
+**İlgili maddeler:** Madde 17
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 05.06.2000 SAYI : B.07.0.GEL.0.53-5317-1747/27016 KONU : Başkaca bir faaliyeti nedeniyle mükellefiyeti olmayan kooperatifin KDV mükellefiyetinin terkin edilip edilmeyeceği hk. KAYSERİ VALİLİĞİNE (Defterdarlık : Gelir Müdürlüğü) İLGİ : 12.04.2000 tarih ve DEF.0.38.10/20-14182/1970-3124 sayılı yazınız. İlgide kayıtlı yazınız ekinde Bakanlığımıza göndermiş olduğunuz, iliniz ..... Vergi Dairesi Başkanlığı mükelleflerinden ..... Yapı Kooperatifine hitaben verilen 06.04.2000 tarihli ve ..... sayılı özelgeniz Katma Değer Vergisi Kanunu yönünden incelenmiş olup, aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. 3065 sayılı Katma Değer Vergisi Kanununun 17 nci maddesinin 4 numaralı fıkrasına 4369 sayılı Kanunun 60 inci maddesiyle 01.08.1998 tarihinden geçerli olmak üzere eklenen (k) bendi ile konut yapı kooperatiflerinin üyelerine yapmış oldukları konut teslimleri katma değer vergisind e n istisna edilmiştir. Konut yapı kooperatiflerinin üyelerine yapmış oldukları konut teslimleri katma değer vergisinden istisna edilmiş olduğundan, bunların, katma değer vergisi mükellefiyeti de bulunmamaktadır. Bu nedenle, başkaca bir faaliyeti nedeniyle vergi mükellefiyeti olmayan ..... Yapı Kooperatifinin, katma değer vergisi mükellefiyetinin terkin edilmesi gerekmektedir. Bilgi edinilmesini ve gereğini rica ederim. Bakan a.

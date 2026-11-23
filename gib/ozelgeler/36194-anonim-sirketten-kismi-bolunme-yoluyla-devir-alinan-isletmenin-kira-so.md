@@ -1,0 +1,40 @@
+---
+tur: Özelge
+gib_id: 36194
+baslik: "Anonim Şirketten kısmi bölünme yoluyla devir alınan işletmenin Kira Sözleşmesi, Yatırım Teşvik Belgeleri, ruhsatlar, gayrimenkuller ve sabit kıymetlerin devri ile ilgili olarak yapacağı işlemlerin kurumlar, gelir, katma değer ve damga vergisi ile harçlard"
+tarih: 2010-06-09
+sayi: "B.07.1.GİB.4.06.17.02-HÇ:123.M-2010-113-427"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36194
+gib_guncelleme: 2025-03-24T20:33:02
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Anonim Şirketten kısmi bölünme yoluyla devir alınan işletmenin Kira Sözleşmesi, Yatırım Teşvik Belgeleri, ruhsatlar, gayrimenkuller ve sabit kıymetlerin devri ile ilgili olarak yapacağı işlemlerin kurumlar, gelir, katma değer ve damga vergisi ile harçlard
+
+**İlgili maddeler:** Madde 123 Özel kanunlardaki hükümler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.06.17.02-HÇ:123.M-2010-113-427 | 09/06/2010
+Konu | : | Damga Vergisi ve Harç Muafiyeti
+
+İlgi (a) da kayıtlı özelge talep formunuz ile ... İnşaat San. ve Tic. Anonim Şirketinden kısmi bölünme yoluyla devir alınan ... Kira Sözleşmesi, Yatırım Teşvik Belgeleri, ruhsatlar, gayrimenkuller ve sabit kıymetlerin devri ile ilgili olarak yapacağınız işlemlerin kurumlar, gelir, katma değer ve damga vergileri ile harçlardan muaf olup olmadığı hakkında görüş talep edilmiş olup; ilgi (b) de kayıtlı dilekçenizle ise konunun sadece Damga Vergisi ve Harçlar Kanunu yönünden değerlendirilmesinin istenildiği anlaşılmıştır.
+Bilindiği üzere, 492 sayılı Harçlar Kanununun 38 inci maddesinin birinci fıkrasında, noter işlemlerinden bu kanuna bağlı (2) sayılı tarifede yazılı olanların noter harçlarına tabi olacağı; 41 inci maddesinde, noter harçlarının (2) sayılı tarifede yazılı işlemlerden değer veya ağırlık ölçüsüne göre nispi, işlemin nevi ve mahiyetine göre maktu esas üzerinden alınacağı hükme bağlanmış olup, aynı Kanunun 42 nci maddesinde ise; "Değer veya ağırlık ölçüsüne göre harca tabi işlemlerde (2)sayılı tarifede yazılı değer veya ağırlık esastır. Menkul ve gayrimenkul mallar hakkında alım, satım, taahhüt ve rehinle ilgili her nevi mukavele, senet ve kağıtlarda değer gösterilmesi mecburidir. Rehin bordroları ile kamu idarelerine verilmek üzere ilgili mevzuatla belirlenen kurallara uyulacağına ilişkin olarak düzenlenen taahhütnameler hakkında bu hükmün uygulanmaz." hükmü yer almıştır.
+492 sayılı Harçlar Kanununa bağlı (2) sayılı tarifenin "I-Değer ve ağırlık üzerinden alınan nispi harçlar" başlıklı bölümünü 1 numaralı fıkrasında; "Muayyen bir meblağı ihtiva eden her nevi senet, mukavelename ve kağıtlardan beher imza için binde 0,99" oranında harç aranılacağı hüküm altına alınmıştır.
+Aynı Kanunun 57 nci maddesinde, tapu ve kadastro işlemlerinden bu kanuna bağlı (4) sayılı tarifede yazılı olanların, tapu kadastro harçlarına tabi olacağı, Kanuna bağlı (4) sayılı tarifenin l/20-b bendinde de; "Gayrimenkullerin, irtifak haklarının ve gayrimenkul mükellefiyetinin sermaye şirketlerine sermaye olarak konulmasında ticaret mahkemesince tayin olunan değer üzerinden devir alan için ve gayrimenkul devir halinde devir eden için binde 16,5" oranında harç aranılacağı hüküm altına alınmıştır.
+492 sayılı Harçlar Kanunun 123 üncü maddesinin son fıkrasında ise; "Anonim, eshamlı komandit ve limited şirketlerin kuruluş, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemler ile Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri (Bu kooperatifler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından bankalardan kullandırılacak krediler için verilecek kefaletler dahil) bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödemelerine ilişkin işlemler bu Kanunda yazılı harçlardan müstesnadır." hükmü bulunmaktadır.
+Madde hükmünün tetkikinden de görüleceği üzere, anonim, eshamlı komandit ve limited şirketlerin birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemlerinin 492 sayılı Harçlar Kanununun 123 üncü maddesi hükmüne göre harçlardan istisna edilmesi gerekmektedir.
+Öte yandan, 488 sayılı Damga Vergisi Kanununun 1 incimaddesinde; bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olacağı, bu Kanundaki kağıtlar teriminin yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade edeceği; 9 uncu maddesinde ise bu Kanuna ekli (2) sayılı tabloda yazılı kağıtların Damga Vergisinden müstesna olacağı, hükümleri yer almıştır.
+488 sayılı Kanuna ekli (2) sayılı tablonun "IV-Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümünün 17 nci fıkrasında, Kurumlar vergisi Kanununa göre yapılan birleşme, devir ve bölünmeler nedeniyle düzenlenen kağıtların damga vergisinden istisna edileceği hükmü bulunmaktadır.
+Diğer taraftan, 5520 sayılı Kurumlar Vergisi Kanununun "Devir, bölünme ve hisse değişimi" başlıklı 19 uncu maddesinin üçüncü fıkrasının (b) bendinde; "Kısmî bölünme: Tam mükellef bir sermaye şirketinin veya sermaye şirketi niteliğindeki bir yabancı kurumun Türkiye'deki iş yeri veya daimî temsilcisinin bilânçosunda yer alan taşınmazlar ile en az iki tam yıl süreyle elde tutulan iştirak hisseleri ya da sahip oldukları üretim veya hizmet işletmelerininbir veya birkaçını kayıtlı değerleri üzerinden aynî sermaye olarak mevcut veya yeni kurulacak tam mükellef bir sermaye şirketine devretmesi, bu Kanunun uygulanmasında kısmî bölünme hükmündedir. Ancak, üretim veya hizmet işletmelerinin devrinde, işletme bütünlüğü korunacak şekilde faaliyetin devamı için gerekli aktif ve pasif kalemlerin tümünün devredilmesi zorunludur. Kısmî bölünmede devredilen varlıklara karşılık edinilen devralan şirket hisseleri, devreden şirkette kalabileceği gibi doğrudan bu şirketin ortaklarına da verilebilir. Taşınmaz ve iştirak hisselerinin bu bent kapsamında devrinde, devralan şirketin hisselerinin devreden şirketin ortaklarına verilmesi halinde, devredilen taşınmaz ve iştirak hisselerine ilişkin borçların da devri zorunludur." hükmü yer almaktadır.
+Dilekçeniz ekinde yer alan ... tarih ve ... sayılı Türkiye Ticaret Sicili Gazetesinin incelenmesinden; ... Ticaret Sicil Memurluğunda ... sicil numarasında tescilli ... İnşaat Sanayi ve Ticaret Anonim Şirketine ait ... şubesi bütün müştemilat, bütün hak ve yükümlülükleri, bütün varlık ve borçları ile birlikte 5520 sayılı Kurumlar Vergisi Kanununun 19 uncu maddesi hükmü gereğince Kısmi Bölünme yoluyla devir alınmasına, devir alınan varlıklarla ilgili olarak oluşacak ayni sermaye artışında ... İnşaat Sanayi ve Ticaret Anonim Şirketinin ortaklarına hisseleri oranında pay verilmesine karar verildiği anlaşılmaktadır.
+Bu itibarla, ... İnşaat San. ve Tic. Anonim Şirketinden kısmi bölünme yoluyla yapılan devir işlemlerinin 5520 sayılı Kurumlar Vergisi Kanununda belirtilen şartlar dahilinde yapılması halinde, bölünmeye ilişkin olarak düzenlenen kağıtlar ile kira sözleşmesinin diğer hükümleri aynı kalmak şartıyla düzenlenecek kağıtların 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun IV-17 nci fıkrası gereği damga vergisinden, devre ilişkin yapılacak işlemlerin 492 sayılı Harçlar Kanununun 123 üncü maddesine göre harçlardan istisna tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+Vergi Dairesi Başkanı a. Gelir İdaresi Grup Müdürü Y.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

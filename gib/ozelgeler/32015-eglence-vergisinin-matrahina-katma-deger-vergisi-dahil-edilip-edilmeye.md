@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 32015
+baslik: "Eğlence vergisinin matrahına katma değer vergisi dahil edilip edilmeyeceği ve katma değer vergisi dahil olarak düzenlenen giriş biletleri üzerinden hesaplanması gereken eğlence vergisinin iç yüzde yöntemi ile bulunacak katma değer vergisi hariç bedel üzer"
+tarih: 2003-05-30
+sayi: "B.07.0.GEL.0.66/6624-82/23100"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/32015
+gib_guncelleme: 2025-03-24T20:06:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Eğlence vergisinin matrahına katma değer vergisi dahil edilip edilmeyeceği ve katma değer vergisi dahil olarak düzenlenen giriş biletleri üzerinden hesaplanması gereken eğlence vergisinin iç yüzde yöntemi ile bulunacak katma değer vergisi hariç bedel üzer
+
+**İlgili maddeler:** Madde 20 Teslim ve Hizmet İşlemlerinde Matrah; Madde 24 Matraha Dahil Olan Unsurlar; Madde 20 Matrah
+
+T.C.MALİYE BAKANLIĞIGelirler Genel Müdürlüğü
+SAYI:B.07.0.GEL.0.66/6624-82/23100
+KONU:
+
+....................... BAKANLIĞI
+.............. Kültür ve Gösteri Merkezleri İşletmecilik ve Ticaret A.Ş tarafından Bakanlığımıza gönderilen 24.03.2003 tarihli dilekçenin bir örneği ilişikte gönderilmiş olup, konu ile ilgili Bakanlığımız görüşü aşağıda açıklanmıştır.
+Söz konusu dilekçede, eğlence vergisinin matrahına katma değer vergisi dahil edilip edilmeyeceği ve katma değer vergisi dahil olarak düzenlenen giriş biletleri üzerinden hesaplanması gereken eğlence vergisinin iç yüzde yöntemi ile bulunacak katma değer vergisi hariç bedel üzerinden hesaplanıp hesaplanamayacağı hususunda Bakanlığımız görüşü sorulmaktadır.
+Bilindiği gibi, 3065 sayılı Katma Değer Vergisi Kanununun 20 nci maddesinin 1 nci fıkrasına göre, teslim ve hizmet işlemlerinde matrahın, bu işlemlerin karşılığını teşkil eden bedel olduğu belirtilmekte ve söz konusu maddenin 4 üncü fıkrası ile de, belli tarifeye göre fiyatı tespit edilen işler ile bedelin biletle tahsil edildiği hallerde tarife ve bilet bedelinin katma değer vergisi dahil edilerek tespit edileceği ve verginin müşteriye ayrıca intikal ettirilmeyeceği hüküm altına alınmıştır.
+Yine aynı Kanunun, 24 maddesinde, matraha dahil olan unsurlar sayılmış vergi, resim, harç, pay, fon karşılığı gibi unsurların katma değer vergisi matrahına dahil olduğu belirtilmiştir.
+Diğer taraftan, 2464 sayılı Belediye Gelirleri Kanunun 20 nci maddesinin 1 inci fıkrasında,eğlence vergisinin matrahına "Biletle girilen yerlerde, eğlence vergisi hariç olmak üzere bilet bedeli olarak sağlanan gayrisafi hasılat (Bilet bedeli dışında bağış veya başka adlar altında alınan paralar dahil)" olduğu belirtilmiş ve vergini nispet ve miktarını belirleyen 21 inci maddesi ve bu madde ile ilgili olarak çıkarılan 97/10349 sayılı Bakanlar Kurulu Kararı ile yerli ve yabancı film göstermelerinden %10 oranında eğlence vergisi alınacağı hükme bağlanmıştır.
+Buna göre, katma değer vergisinin matrahına eğlence vergisi dahil edilmektedir. Eğlence vergisi ise, bilet bedelinden katma değer vergisi düşüldükten sonra kalan bedel üzerinden, yani katma değer vergisi matrahı üzerinden iç yüzde oranı ile hesaplanacaktır. Bu suretle hesaplanan eğlence vergisi, eğlence vergili bedelden çıkarılacak ve eğlence vergisinin matrahı bulunacaktır.
+Bilgi edinilmesini ve konu ile ilgili Bakanlığınız görüşünün belirlenerek gerekli duyurunun yapılmasını ve sonucundan Bakanlığımıza da bilgi verilmesini arz ederim.
+
+Bakan a.

@@ -1,0 +1,34 @@
+---
+tur: Özelge
+gib_id: 34650
+baslik: "İptal edilen ihale kararından sonra alınan ikinci ihale kararının damga vergisine tabi olup olmağı hk."
+tarih: 2014-05-30
+sayi: "57062627-488-1-10"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34650
+gib_guncelleme: 2025-03-24T20:19:06
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İptal edilen ihale kararından sonra alınan ikinci ihale kararının damga vergisine tabi olup olmağı hk.
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C.
+KASTAMONU VALİLİĞİ
+Defterdarlık Gelir Müdürlüğü
+Sayı : 57062627-488-1-10 30/05/2014
+Konu : İptal edilen ihale kararından sonra alınan ikinci ihale kararının damga vergisine tabi olup olmağı hk.
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden, özel bütçeli idare olan ve sürekli damga vergisi mükellefiyeti bulunan kurumunuz tarafından alınan ihale kararının ihale yetkilisi tarafından onaylanmasından itibaren en geç hangi tarihe kadar damga vergisinin tahsil edilerek takip eden ay içerisinde beyan edilip ödeneceği ile ihale kararının ihale yetkilisi tarafından onaylandığı tarih ile sözleşme imzalanma tarihi arasında ihalelere ilişkin şikâyet sonucunda ihalenin iptaline karar verilmesi veya yüklenicinin değişmesine ilişkin ikinci bir ihale kararının onaylanması durumunda, ihale yetkilisi tarafından onaylanan ihale kararlarının ayrı ayrı damga vergisine tabi olup olmayacağı hususlarında görüş talep edildiği anlaşılmaktadır.
+488 sayılı Damga Vergisi Kanunun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtlar teriminin, yazılıp imzalamak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanmak suretiyle manyetik ortamda elektronik veri şeklinde oluşturulan belgeleri ifade ettiği; 3 üncü maddesinde, damga vergisinin mükelleflerinin kâğıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemlere ait damga vergisini kişilerin ödeyeceği; 8 inci maddesinde, bu Kanunda yazılı resmi dairelerden maksadın genel ve özel bütçeli idareler, il özel idareleri, belediyeler ve köyler olduğu bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmelerin resmi daire sayılmayacağı; Kanuna ekli (1) sayılı tablonun "II-Kamrlar ve mazbatalar" başlıklı bölümünün 2 inci maddesinde, ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarının damga vergisine tabi olacağı hükme bağlanmıştır.
+Mezkur Kanunun 22 inci maddesinin (a) bendinde, Makbuz karşılığı ödemelerde, Maliye Bakanlığınca belirlenen mükellefler, kurum ve kuruluşlar tarafından bir ay içinde düzenlenen kâğıtların damga vergisinin, ertesi ayın yirminci (371 Sıra No.lu VUK Tebliği uyarınca yirmi üçüncü) günü akşamına kadar vergi dairesine bir beyanname ile bildireceği, yirmi altıncı günü akşamına kadar ödeneceği; (b) bendinde, (a) bendi dışındaki hallerde kâğıdın düzenlendiği tarihi izleyen on beş gün içinde vergi dairesine bir beyanname ile bildirileceği ve aynı süre içinde ödeneceği, maddenin son fıkrasında ise, Maliye Bakanlığının, bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye, lüzum göreceği işlemlere ilişkin kâğıtlara ait verginin yukarıdaki sürelere bağlı kalmaksızın ve beyanname aranmaksızın kâğıdın düzenlenmesinden önce veya noterlerce işleme tabi tutulması sırasında ödenmesi zorunluluğunu getirmeye, vergiyi işlem anında ilgili Kamu kurum veya kuruluşuna makbuz karşılığı ödettirmeye yetkili olduğu hükme bağlanmıştır.
+43 Seri No.lu Damga Vergisi Kanunu Genel Tebliğinin (3.1) maddesinde, Damga Vergisi Kanununun 22 nci maddesinin son fıkrasının verdiği yetkiye istinaden Bakanlığımızca daha önce yayımlanan 16 Seri No'lu Damga Vergisi Kanunu Genel Tebliğinde sayılan kurum ve kuruluşların sürekli damga vergisi mükellefiyetinin devam etmesinin uygun görüldüğü açıklaması yapılmış olup, bu kurum ve kuruluşlar arasında katma bütçeli idarelerde yer almaktadır.
+24.12.2005 tarih ve 26033 sayılı Resmi Gazete'de yayımlanan 5436 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun Geçici 3 üncü maddesinin son fıkrasında, "İlgili mevzuatında gerekli düzenleme yapılıncaya kadar, mevzuatta katma bütçeli idarelere yapılan atıflar, katma bütçeli idare iken 5018 sayılı Kanunla özel bütçeli idareler kapsamına alınan kamu idareleri bakımından, ilgisine göre bu idarelere yapılmış sayılır. Bu fıkranın uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve gerektiğinde düzenleme yapmaya Maliye Bakanı yetkilidir." hükmüne yer verilmiştir.
+Buna göre, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli (II) sayılı cetvelde sayılan "Özel Bütçeli İdareler" arasında yer alan Karayolları Genel Müdürlüğü, 488 sayılı Damga Vergisi Kanununun 8 inci maddesi çerçevesinde resmi daire olup damga vergisi uygulaması bakımından sürekli damga vergisi mükellefidir.
+Diğer taraftan, 213 sayılı Vergi Usul Kanunun 19 uncu maddesinde, vergi alacağının vergi kanunlarının vergiyi bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğacağı hükme bağlanmıştır.
+Anılan hükümlerin incelenmesinden de anlaşılacağı üzere, damga vergisinde vergiyi doğuran olay kâğıtların düzenlenerek hukuken tekemmül etmesi olup, düzenlenen kâğıtların hükümlerinin uygulanmaması, kısmen uygulanması, hükmünden yaralanılmaması veya kısmen yararlanılması vergileme açısından bir önem arz etmemektedir.
+Buna göre, bir kâğıdın damga vergisine tabi tutulabilmesi için kâğıdın herhangi bir hususu ispat veya belli edecek nitelik kazanmış, yani hukuken tekemmül etmiş olması gerekmektedir. İmzalanmak suretiyle hukuken tekemmül eden ve verginin konusuna giren bir kâğıdın hükmünden istifade edilmemiş olması veya kısmen istifade edilmiş olması, o kâğıdın bir hususu ispat ve belli edebilecek olma vasfını ortadan kaldırmayacağı gibi kâğıt eksiksiz olarak tekemmül ettikten sonra muamelelerin feshedilmiş olması vergilendirmeyi etkilemeyecektir.
+Yukarıda yapılan açıklamalar çerçevesinde, söz konusu ihale kararları alınmakla damga vergisi doğduğundan, ilk ihale kararı ve ihale kararının ihale yetkilisi tarafından onaylandığı tarih ile sözleşme imzalama tarihi arasında ihalelere ilişkin şikâyet sonucunda ihalenin iptaline karar verilmesi veya yüklenicinin değişmesine ilişkin olarak alınan ve ihale makamınca onaylanan ikinci ihale kararının, ayrı ayrı Damga Vergisi Kanununa ekli (1) sayılı tablonun 11/2 maddesi uyarınca damga vergisine tabi tutulması ve Kanunun 3 üncü maddesine göre vergiyi ödemesi gereken kişi durumundaki mükellef yüklenici firmadan damga vergisinin alınarak sürekli mükellefiyetiniz çerçevesinde idarenizce Damga Vergisi Kanununun 22/a bendi kapsamında damga vergi beyannamesiyle beyan edilip ödenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim

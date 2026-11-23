@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 24650
+baslik: "Zirai faaliyetler açısından zarar ziyan bedeli ödemelerinden gelir vergisi tevkifatı yapılması gerekir."
+tarih: 2003-12-31
+sayi: "B.07.0.GEL.0.41/4106-476"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24650
+gib_guncelleme: 2025-03-24T19:32:40
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Zirai faaliyetler açısından zarar ziyan bedeli ödemelerinden gelir vergisi tevkifatı yapılması gerekir.
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı
+
+T.C.
+MALİYE BAKANLIĞI
+Gelirler Genel Müdürlüğü
+
+SAYI : B.07.0.GEL.0.41/4106-476 31.12.2003
+KONU :
+
+.................... VALİLİĞİNE (Defterdarlık: Gelir Müdürlüğü)
+
+İLGİ: ....................tarih ve .................... sayılı yazınız.
+İlgi yazınızda, İliniz Katma Bütçeli İdareler Saymanlık Müdürlüğünün Muhasebat Genel Müdürlüğü Kontrolörlüğü tarafından teftiş edilmesi sonucu düzenlenen 18.06.2003 tarih ve 99.92/CR.2-7 sayılı cevaplı raporun 48 inci maddesinde sorulan zarar ziyan bedelinden gelir vergisi kanununun 94 üncü maddesine göre gelir vergisi tevkifatı yapılıp yapılmayacağı hususunda Bakanlığımız görüşü istenilmektedir.
+Bilindiği üzere, 193 sayılı Gelir Vergisi Kanununun 3946 sayılı Kanunla değişik 94 üncü maddesinde, kimlerin vergi tevkifatı yapmakla yükümlü oldukları sayılmış, 11 numaralı bendinde de çiftçilerden satın alınan zirai ürünlerin alış bedeli üzerinden bu çiftçilerin gelir vergilerine mahsuben tevkifat yapılacağı hükme bağlanmıştır. Söz konusu tevkifat oranları Bakanlar Kurulu'nun 31.12.1993 gün ve 93/5148 sayılı Kararı ile 01.01.1994 tarihinden itibaren geçerli olmak üzere hayvanlar ve bunların ürünleri ile kara ve su avcılığı ürünleri için % 2, diğer zirai ürünler için ise % 4, ticaret borsalarında tescil ettirilerek satın alınan hayvan ve hayvansal ürünlerde % 1, diğer zirai ürünlerde ise % 2 olarak belirlenmiştir.
+Arazinin üzerindeki zirai ürünlerle birlikte kamulaştırılmasında; arazi üzerindeki zirai ürünler için yapılacak ödemelerin, elde eden çiftçi açısından hasılat olarak değerlendirilmesi ve Gelir Vergisi Kanununun 94 ünü maddesi gereğince de tevkifat yapılması gerekmektedir.
+Bu açıklamalar çerçevesinde; kamulaştırma ödemelerine benzer olan zarar ziyan bedeli ödemelerinden de gelir vergisi tevkifatı yapılması gerekmektedir.
+Bilgi edinilmesini ve gereğini rica ederim.

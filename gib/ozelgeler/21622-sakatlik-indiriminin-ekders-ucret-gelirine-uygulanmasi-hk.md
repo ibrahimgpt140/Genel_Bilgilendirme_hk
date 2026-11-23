@@ -1,0 +1,33 @@
+---
+tur: Özelge
+gib_id: 21622
+baslik: "Sakatlık İndiriminin Ekders Ücret Gelirine Uygulanması Hk."
+tarih: 2012-02-25
+sayi: "B.07.4.DEF.0.12.10.00-B.07.4.DEF.0.12.10-2"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21622
+gib_guncelleme: 2025-03-24T19:28:48
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Sakatlık İndiriminin Ekders Ücret Gelirine Uygulanması Hk.
+
+**İlgili maddeler:** Madde 31 (6462 sayılı Kanunun 1 inci maddesiyle değişen ibare. Yürürlük; 03.05.2013)Engellilik(4) indirimi; Madde 61 Ücretin Tarifi
+
+T.C. BİNGÖL VALİLİĞİ Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | B.07.4.DEF.0.12.10.00-B.07.4.DEF.0.12.10-2 | 25/02/2012
+Konu | : | Sakatlık İndiriminin Ekders Ücret Gelirine Uygulanması Hk.
+
+İlgi kayıtlı özelge talep formunda, öğretmen olarak çalıştığınızı, bakmakla yükümlü olduğunuz çocuğunuzun rahatsızlığı nedeniyle aldığınız rapora istinaden 193 sayılı Gelir Vergisi Kanununun 31 inci maddesine göre sakatlık indiriminden yararlandığınızı ancak söz konusu indirimin ek ders ücret ödemesine yansıtılmadığını belirterek konu hakkında bilgi talep etmektesiniz.
+193 sayılı Gelir Vergisi Kanununun 61 inci maddesinde, "Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetin değiştirmez." hükmü yer almaktadır.
+Söz konusu Kanunun 31 inci maddesinde ise; "Çalışma gücünün asgari % 80'ini kaybetmiş bulunan hizmet erbabı birinci derece sakat, asgari % 60'ını kaybetmiş bulunan hizmet erbabı ikinci derece sakat, asgari % 40'ını kaybetmiş bulunan hizmet erbabı ise üçüncü derece sakat sayılır ve aşağıda sakatlık dereceleri itibariyle belirlenen aylık tutarlar, hizmet erbabının ücretinden indirilir." hükmü yer almakta olup, Gelir Vergisi Kanunun 89/3 üncü maddesinde de bu indirimden bakmakla yükümlü olduğu özürlü kişi bulunan hizmet erbabının da yararlanacağı hükme bağlanmıştır.
+Bu hüküm ve açıklamalara göre, çalışmakta olduğunuz bakanlıktan alınan ek ders ödemeleri ile maaş ödemelerinin tek işverenden alınan ücret olarak değerlendirilmesi, bakmakla yükümlü olduğunuz çocuğunuzun rahatsızlığı nedeniyle faydalandığınız sakatlık indirimine ilişkin tutarın, söz konusu ücretler toplamına uygulanması gerekmektedir.
+Bilgilerinize rica ederim.
+Defterdar
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

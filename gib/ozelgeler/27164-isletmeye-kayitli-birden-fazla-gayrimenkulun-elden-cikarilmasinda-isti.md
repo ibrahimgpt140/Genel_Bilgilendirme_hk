@@ -1,0 +1,53 @@
+---
+tur: Özelge
+gib_id: 27164
+baslik: "İşletmeye kayıtlı birden fazla gayrimenkulün elden çıkarılmasında istisna uygulaması hk."
+tarih: 2014-07-17
+sayi: "11395140-105[328-2012/VUK-1- . . .]-1896"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/27164
+gib_guncelleme: 2025-03-24T19:45:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İşletmeye kayıtlı birden fazla gayrimenkulün elden çıkarılmasında istisna uygulaması hk.
+
+**İlgili maddeler:** Madde 328 Amortismana Tabi Malların Satılması; Madde 5 İstisnalar
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | 11395140-105[328-2012/VUK-1- . . .]-1896 | 17/07/2014
+Konu | : | İşletmeye kayıtlı birden fazla gayrimenkulün elden çıkarılmasında istisna uygulaması hk.
+
+İlgide kayıtlı özelge talep formunuzun incelenmesinden;
+- ... tarihinde ... m² arsa satın alarak üzerine ... tarihinde tamamlanan fabrika binası ve idare binası inşa ettiğiniz, söz konusu binaların kullanılmaya başlanmasını takiben ... tarihinde "fabrika binası-idari bina ve arsası" olarak tapu aldığınız, ... tarihinde ise söz konusu gayrimenkulün cins değişikliği yapılmaksızın 1 parseli "fabrika binası ve idare binası arsası" ve 2 parseli de 2 ayrı arsa olmak üzere 3 parsele böldüğünüz,
+- ... tarihinde satın alınarak aktife kaydettiğiniz ... m² arsanın da ... tarihinde cins değişikliği olmaksızın, ayrı ayrı arsa olmak üzere 2 parsele böldüğünüz
+belirtilerek aktifte kayıtlı olan söz konusu fabrika binası-idari bina ile 4 adet arsanın tamamını satmayı düşündüğünüzden bahisle; söz konusu gayrimenkullerin aktifinizde 2 yıl kayıtlı olma şartının uygunluğuna ... tarihinde yapılan bölünme işlemlerinin engel teşkil edip etmediği; söz konusu gayrimenkulleri satmanız durumunda oluşacak kârın tamamının 213 sayılı Vergi Usul Kanununun 328 inci maddesi kapsamında yer alan yenileme fonu olarak değerlendirilip değerlendirilemeyeceği ile arsa ve bina satış kârından oluşacak bu fonun bina veya arsa ve tarla alımında kullanılması halinde Kurumlar Vergisi Kanununa göre tamamının mı yoksa %75'inin mi istisna kapsamında değerlendirileceği hususunda Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+l- KURUMLAR VERGİSİ KANUNU YÖNÜNDEN;
+5520 sayılı Kurumlar Vergisi Kanununun "İstisnalar" başlıklı 5 inci maddesinin birinci fıkrasının (e) bendinde;
+"Kurumların, en az iki tam yıl süreyle aktiflerinde yer alan taşınmazlar ve iştirak hisseleri ile aynı süreyle sahip oldukları kurucu senetleri, intifa senetleri ve rüçhan haklarının satışından doğan kazançların % 75'lik kısmı.
+Bu istisna, satışın yapıldığı dönemde uygulanır ve satış kazancının istisnadan yararlanan kısmı satışın yapıldığı yılı izleyen beşinci yılın sonuna kadar pasifte özel bir fon hesabında tutulur. Ancak satış bedelinin, satışın yapıldığı yılı izleyen ikinci takvim yılının sonuna kadar tahsil edilmesi şarttır. Bu süre içinde tahsil edilmeyen satış bedeline isabet eden istisna nedeniyle zamanında tahakkuk ettirilmeyen vergiler ziyaa uğramış sayılır.
+İstisna edilen kazançtan beş yıl içinde sermayeye ilave dışında herhangi bir şekilde başka bir hesaba nakledilen veya işletmeden çekilen ya da dar mükellef kurumlarca ana merkeze aktarılan kısım için uygulanan istisna dolayısıyla zamanında tahakkuk ettirilmeyen vergiler ziyaa uğramış sayılır. Aynı süre içinde işletmenin tasfiyesi (bu Kanuna göre yapılan devir ve bölünmeler hariç) halinde de bu hüküm uygulanır.
+....
+Menkul kıymet veya taşınmaz ticareti ve kiralanmasıyla uğraşan kurumların bu amaçla ellerinde bulundurdukları değerlerin satışından elde ettikleri kazançlar istisna kapsamı dışındadır."
+hükmü yer almaktadır.
+Kurumların iki tam yıl süreyle aktiflerinde yer alan taşınmaz ve iştirak hisselerinin satışından doğan kazançlara yönelik bu istisnanın temel amacı, kurumların sermaye yapılarının güçlendirilmesi, finansman sıkıntılarının giderilmesi ve bağlı değerlerinin ekonomik faaliyetlerinde daha etkin bir şekilde kullanılmasına imkan sağlamak ve işletmelerin finansal yapılarını güçlendirmektir.
+Buna göre, özelge talep formunuzda da belirtildiği üzere söz konusu taşınmazların satışından elde edilecek kazancın şirketinizce yine taşınmaz alımında kullanılması, bağlı bir değerin (taşınmaz) başka bir bağlı değere (taşınmaza) dönüştürülmesi sonucunu doğuracaktır. Bu durum söz konusu istisnanın getiriliş amacına aykırı olacağından anılan taşınmazların satışından elde edilecek kazancın, Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (e) bendi kapsamında istisnaya konu edilmesi mümkün bulunmamaktadır.
+ll- VERGİ USUL KANUNU YÖNÜNDEN
+213 Sayılı Vergi Usul Kanununun 314 üncü maddesinde " Boş arazi ve boş arsalar amortismana tabi değildir. Ancak:
+1. Tarım işletmelerinde vücuda getirilen meyvalık, dutluk, fındıklık, zeytinlik ve güllüklerle incir bahçeleri ve bağlar gibi tarım tesisleri;
+2. İşletmede inşa edilmiş olan her nev'i yollar ve harklar; amortismana tabi tutulur." hükmü bulunmaktadır.
+Anılan Kanunun 328 inci maddesinde ise; "Amortismana tabi iktisadi kıymetlerin satılması halinde alınan bedel ile bunların envanter defterinde kayıtlı değerleri arasındaki fark kar ve zarar hesabına geçirilir. İşletme hesabı esasında defter tutan mükelleflerle serbest meslek kazanç defteri tutan mükellefler bu farkı defterlerinde hasılat veya gider kaydederler.
+Amortisman ayrılmış olanların değeri ayrılmış amortismanlar düşüldükten sonra kalan meblağdır.
+Devir ve trampa satış hükmündedir.
+Şu kadar ki satılan iktisadi kıymetlerin yenilenmesi, işin mahiyetine göre zaruri bulunur veya bu hususta işletmeyi idare edenlerce karar verilmiş ve teşebbüse geçilmiş olursa bu takdirde, satıştan tahassül eden kâr, yenileme giderlerini karşılamak üzere, pasifte geçici bir hesapta azami üç yıl süre ile tutulabilir. Her ne sebeple olursa olsun bu süre içinde kullanılmamış olan kârlar üçüncü yılın vergi matrahına eklenir. Üç yıldan önce işin terki, devri veya işletmenin tasfiyesi halinde bu kârlar o yılın matrahına eklenir.
+Yukarıdaki esaslar dahilinde yeni değerlerin iktisabında kullanılan kâr, yeni değerler üzerinden bu Kanun hükümlerine göre ayrılacak amortismanlara mahsup edilir. Bu mahsup tamamlandıktan sonra itfa edilmemiş olarak kalan değerlerin amortismanına devam olunur." hükmüne yer verilmiştir.
+Bu hüküm uyarınca, yenileme fonunun ayrılabilmesi; amortismana tabi bir iktisadi kıymetin varlığı ve bu kıymetin satılmasından oluşan kârın aynı neviden yeni bir iktisadi kıymet alımında kullanılması halinde söz konusu olabilmektedir. Ayrıca yenileme fonundan yararlanabilmek için satılan kıymetin yenilenmesinin zaruri bulunması veya bu hususta işletmeyi idare edenlerce karar verilip teşebbüse geçilmiş olunması gerekir. Eğer elden çıkarılan iktisadi kıymetin yenilenmesinin zaruri bulunduğu açıksa bu yenileme fonu ayrılması için yeterlidir.
+Bu itibarla, fabrika binasının satışı neticesinde ortaya çıkan kârın, sadece yeni bir fabrika binasının iktisabı amacıyla yenileme fonuna alınması mümkün olup, başka yatırım giderlerinin karşılanması amacına yönelik olarak yenileme fonuna aktarılması mümkün bulunmamaktadır.
+Diğer taraftan, amortismana tabi olmayan arsaların satışından elde edilecek kârın, bina, arsa veya tarla alımında yenileme fonu olarak kullanılması mümkün değildir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

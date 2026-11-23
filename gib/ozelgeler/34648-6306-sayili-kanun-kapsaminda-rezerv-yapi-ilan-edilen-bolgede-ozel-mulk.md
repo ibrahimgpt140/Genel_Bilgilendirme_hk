@@ -1,0 +1,29 @@
+---
+tur: Özelge
+gib_id: 34648
+baslik: "6306 sayılı Kanun kapsamında rezerv yapı ilan edilen bölgede özel mülkiyette bulunan taşınmazlara ilişkin yapılan ihale ve sözleşmesinin damga vergisi hk."
+tarih: 2014-07-02
+sayi: "97895701-155[6306-7-2014/103]-1763"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34648
+gib_guncelleme: 2025-03-24T20:19:05
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 6306 sayılı Kanun kapsamında rezerv yapı ilan edilen bölgede özel mülkiyette bulunan taşınmazlara ilişkin yapılan ihale ve sözleşmesinin damga vergisi hk.
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü
+Sayı : 97895701-155[6306-7-2014/103]-1763 02/07/2014
+Konu : 6306 sayılı Kanun kapsamında rezerv yapı ilan edilen bölgede özel mülkiyette bulunan taşınmazlara ilişkin yapılan ihale ve sözleşmesinin damga vergisi hk.
+İlgide kayıtlı özelge talep formlarınız ve eklerinin incelenmesinden, Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş. tarafından ihalesi yapılan ... 4. Etap Arsa Satış Karşılığı Gelir Paylaşımı İşi ihalesinin iş ortaklığınız uhdesinde kaldığı, ihale konusu parsellerin 6306 sayılı Kanun kapsamında Çevre ve Şehircilik Bakanlığı tarafından rezerv yapı alanı olarak belirlendiği, bu kapsamda şirketiniz ile Emlak Konut Gayrimenkul Yatırım Ortaklığı arasında düzenlenecek "Arsa Satışı Karşılığı Gelir Paylaşımı Sözleşmesi" ile iş kapsamında alınan ihale kararının damga vergisinden istisna olup olmadığı hususunda görüş talep edildiği anlaşılmaktadır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu, bu Kanundaki kağıtlar teriminin, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade edeceği hükme bağlanmıştır.
+6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 1 inci maddesinde, bu Kanun'un amacının; afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasların belirlenmesi olduğu; 2 nci maddesinin (c) fıkrasında, rezerv yapı alanının, bu Kanun uyarınca gerçekleştirilecek uygulamalarda yeni yerleşim alanı olarak kullanılmak üzere, TOKİ'nin veya İdarenin talebine bağlı olarak veya resen, Maliye Bakanlığının uygun görüşü alınarak Bakanlıkça belirlenecek alanları ifade edeceği; 7 nci maddesinin 9 uncu fıkrasında, bu Kanun uyarınca yapılacak olan işlem, sözleşme, devir ve tesciller ile uygulamaların, noter harcı, tapu harcı, belediyelerce alınan harçlar, damga vergisi, veraset ve intikal vergisi, döner sermaye ücreti ve diğer ücretlerden; kullandırılan krediler sebebiyle lehe alınacak paraların ise banka ve sigorta muameleleri vergisinden müstesna olduğu hükme bağlanmıştır.
+İlgide kayıtlı özelge talep formu eki 10/04/2014 tarih ve 10771 sayılı Çevre ve Şehircilik Bakanlığı ...Altyapı ve Kentsel Dönüşüm Müdürlüğü yazısında, ... İli ... İlçesi, ... Mahallesinde bulunan ... ada ... no.lu parsel, ... ada ... no.lu parsel, ... ada 1no.lu parsellerin 6306 sayılı Kanun kapsamında rezerv yapı alanı sınırları dahilinde kaldığı belirtilmektedir.
+Buna göre, 6306 sayılı Kanun kapsamında rezerv yapı alanı sınırları dahilinde bulunduğu belirtilen ada ve parsellerle ilgili şirketiniz ile Emlak Konut Gayrimenkul Yatırım Ortaklığı arasında düzenlenecek arsa satışı karşılığı gelir paylaşımı sözleşmesi ve iş kapsamında alınacak ihale kararına, Emlak Konut Gayrimenkul Yatırım Ortaklığının mülkiyetinde bulunduğu anlaşılan taşınmazlar üzerinde adı geçen yatırım ortaklığı tarafından ihale yoluyla konut inşa ettirilmesi işleminin 6306 sayılı Kanun kapsamında olması halinde, damga vergisi istisnası uygulanması mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.

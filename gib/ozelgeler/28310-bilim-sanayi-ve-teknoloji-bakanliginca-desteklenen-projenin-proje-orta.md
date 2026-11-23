@@ -1,0 +1,55 @@
+---
+tur: Özelge
+gib_id: 28310
+baslik: "Bilim, Sanayi ve Teknoloji Bakanlığınca desteklenen projenin proje ortağı olan şirketin Ar-Ge indiriminden faydalanıp faydalanamayacağı hk."
+tarih: 2012-05-23
+sayi: "B.07.1.GİB.4.16.16.01-KV-11-68-238"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28310
+gib_guncelleme: 2025-03-24T19:50:13
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bilim, Sanayi ve Teknoloji Bakanlığınca desteklenen projenin proje ortağı olan şirketin Ar-Ge indiriminden faydalanıp faydalanamayacağı hk.
+
+**İlgili maddeler:** Madde 10 Diğer indirimler; Madde 3 İndirim, istisna, destek ve teşvik unsurları (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BURSA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.16.16.01-KV-11-68-238 | 23/05/2012
+Konu | : | Bilim, Sanayi ve Teknoloji Bakanlığınca desteklenen projenin proje ortağı olan şirketin Ar-Ge indiriminden faydalanıp faydalanamayacağı hk.
+
+İlgide kayıtlı özelge talep formunda, ... Vergi Dairesi Müdürlüğünün ... vergi kimlik numarasında kayıtlı şirketinizin Bilim, Sanayi ve Teknoloji Bakanlığı tarafından San-Tez Programı kapsamında desteklenmesi uygun görülen "..." kodlu "... araçların düşük frekanslarda ses ve titreşim özelliklerinin araştırılması ve iyileştirilmesi" başlıklı projenin, proje ortağı olduğunuzu belirterek;
+(1) Söz konusu proje ile ilgili Ar-Ge indiriminin; katkı paylarının ilgili banka hesabına aktarıldığı tarihte mi yoksa bu hesaptan ilgili Ar-Ge harcamalarının gerçekleştiği tarihte mi uygulanacağı, Ar-Ge indiriminin katkı paylarının ilgili banka hesabına ödendiği tarihte uygulanması durumunda;
+a) Proje sonunda harcanmayan ve iade edilen tutarların vergi mevzuatı açısından nasıl değerlendirileceği,
+b) Ödemesi yapılan katkı paylarının hangi harcama grubu altında değerlendirileceğinin nasıl tespit edileceği,
+(2) Tespit edilen Ar-Ge harcaması grubunun Ar-Ge indirimine tabi tutulmasında ilgili yönetmelikte belirtilen esasların dikkate alınıp alınmayacağı,
+(3) Harcamaların tamamının dışarıdan sağlanan fayda ve hizmetler olarak dikkate alınması durumunda, ilgili yönetmeliğin 7 nci maddesinde belirtilen Ar-ge indirimi açısından %20'lik sınırlamaya tabi olup olmayacağı ve mülkiyetinize geçecek olan makine ve donanımların da bu kapsamda değerlendirilip değerlendirilmeyeceği,
+hususlarında, Başkanlığımız görüşü talep edilmiştir.
+5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin birinci fıkrasında; "Ar-Ge indirimi: Teknoloji merkezi işletmelerinde, Ar-Ge merkezlerinde, kamu kurum ve kuruluşları ile kanunla kurulan veya teknoloji geliştirme projesi anlaşmaları kapsamında uluslararası kurumlardan ya da kamu kurum ve kuruluşlarından Ar-Ge projelerini desteklemek amacıyla fon veya kredi kullanan vakıflar tarafından veya uluslararası fonlarca desteklenen Ar-Ge ve yenilik projelerinde, rekabet öncesi işbirliği projelerinde ve teknogirişim sermaye desteklerinden yararlananlarca gerçekleştirilen Ar-Ge ve yenilik harcamalarının tamamı ile 500 ve üzerinde tam zaman eşdeğer Ar-Ge personeli istihdam eden Ar-Ge merkezlerinde ayrıca o yıl yapılan Ar-Ge ve yenilik harcamasının bir önceki yıla göre artışının yarısı, 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 10 uncu maddesine göre kurum kazancının ve 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 89 uncu maddesi uyarınca ticari kazancın tespitinde indirim konusu yapılır. Ayrıca bu harcamalar, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa göre aktifleştirilmek suretiyle amortisman yoluyla itfa edilir, bir iktisadi kıymet oluşmaması halinde ise doğrudan gider yazılır. Kazancın yetersiz olması nedeniyle ilgili hesap döneminde indirim konusu yapılamayan tutar, sonraki hesap dönemlerine devredilir. Devredilen tutarlar, takip eden yıllarda 213 sayılı Kanuna göre her yıl belirlenen yeniden değerleme oranında artırılarak dikkate alınır." hükmüne yer verilmiştir
+Aynı Kanunun 7 nci maddesinde ise; "Ar-Ge ve yenilik faaliyetlerinde bulunanların; kamu kurum ve kuruluşları, kanunla kurulan veya teknoloji geliştirme projesi anlaşmaları kapsamında uluslararası kurumlardan ya da kamu kurum ve kuruluşlarından Ar-Ge projelerini desteklemek amacıyla fon veya kredi kullanan vakıflar ile uluslararası fonlardan aldıkları destekler özel bir fon hesabında tutulur. Bu fon, 193 sayılı Kanun ve 5520 sayılı Kanuna göre vergiye tabi kazancın ve ilgili yılda yapılan Ar-Ge harcaması tutarının tespitinde dikkate alınmaz." hükmü yer almaktadır.
+5746 sayılı Kanunun uygulanmasına ve denetimine ilişkin usul ve esaslar; 31/07/2008 tarihinde 26953 sayılı Resmi Gazete'de yayınlanan "Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve Denetim Yönetmeliği"nde ayrıntılı olarak düzenlenmiş olup Yönetmeliğin "Ar-Ge ve yenilik harcamalarının kapsamı" başlıklı 7 nci maddesinde, Ar-Ge ve yenilik faaliyeti kapsamında değerlendirilen harcamalara ilişkin açıklamalara yer verilmiştir.
+Anılan Yönetmeliğin, "Ar-Ge indirimi uygulama esasları" başlıklı 8 inci maddesinin altıncı fıkrasında, Ar-Ge ve yenilik faaliyeti kapsamındaki harcamaların ayrıca, Vergi Usul Kanununa göre aktifleştirilmek suretiyle amortisman yoluyla itfa edileceği, yedinci fıkrasında da projelerin tamamlanmasına zorunlu nedenlerle imkân kalmaması veya projenin başarısızlıkla sonuçlanması nedeniyle iktisadi kıymet oluşmaması hâllerinde, Ar-Ge ve yenilik faaliyeti kapsamında yapılan ve önceki yıllarda aktifleştirilmiş olan tutarların doğrudan gider yazılacağı belirtilmiştir.
+Anılan Yönetmeliğin 24 üncü maddesinde de,
+"(1) Ar-Ge ve yenilik faaliyetlerinde bulunanların, kamu kurum ve kuruluşları, kanunla kurulan vakıflar ile uluslararası fonlardan aldıkları hibe destekler, desteğin tabi olduğu mevzuat hükümlerine uygun olarak özel bir hesapta izlenir.
+(2) Bu hesapta yer alan tutarlar, Gelir Vergisi Kanunu ve Kurumlar Vergisi Kanununa göre vergiye tabi kazancın tespitinde gelir, Ar-Ge indirimi tutarının tespitinde Ar-Ge harcaması olarak dikkate alınmaz. Bu şekilde sağlanan karşılıksız fonlardan yapılan harcamalar yapıldığı yere göre doğrudan gider ya da amortismana tabi iktisadi kıymet olarak muhasebeleştirilir.
+(3) Bu hesabın elde edildiği hesap dönemini izleyen 5 yıl içinde sermayeye ilave dışında herhangi bir şekilde başka bir hesaba nakledilmesi veya işletmeden çekilmesi hâlinde, zamanında tahakkuk ettirilmeyen vergiler vergi zıyaı cezası ve gecikme faiziyle birlikte işletmeden tahsil edilir.
+(4) Ar-Ge ve yenilik faaliyetlerinde bulunanların, kamu kurum ve kuruluşları, kanunla kurulan vakıflar ile uluslararası fonlardan aldıkları geri dönüşlü destekler bu kapsamda değerlendirilmez."
+hükmüne yer verilmiştir.
+5520 sayılı Kurumlar Vergisi Kanununun "Diğer İndirimler" başlıklı 10 uncu maddesinin birinci fıkrasının (a) bendinde; mükelleflerin, işletmeleri bünyesinde gerçekleştirdikleri münhasıran yeni teknoloji ve bilgi arayışına yönelik araştırma ve geliştirme harcamaları tutarının % 100'ü oranında hesaplanacak "Ar-Ge indirimi" nin kurumlar vergisi matrahının tespitinde; kurumlar vergisi beyannamesi üzerinde ayrıca gösterilmek şartıyla, indirim konusu yapılacağı hükme bağlanmıştır.
+1 seri no.lu Kurumlar Vergisi Genel Tebliğinin "10.2. Ar-Ge indirimi" başlıklı bölümünde konu ile ilgili açıklamalar yapılmış olup "10.2.9.1. Dışarıdan sağlanan fayda ve hizmetler" başlıklı alt bölümünde de,
+"Ar-Ge faaliyetinin esas itibarıyla işletme bünyesinde yapılması gerekmektedir.
+Fiili kullanım durumunun tespit edilmesi ve ortak giderlerin de buna göre paylaştırılması şartıyla bir kuruma ait olduğu halde diğer kurumlarla ortak kullanılan Ar-Ge departmanında yapılan Ar-Ge faaliyetleri, işletme bünyesinde yapılmış sayılacaktır. İşletmenin organizatörlüğünde olmak şartıyla, kamu kurum ve kuruluşlarına ait Ar-Ge merkezleriyle üniversiteler bünyesinde yapılan Ar-Ge faaliyetleri de bu kapsamda bulunmaktadır.
+Ar-Ge faaliyetlerinin yürütülmesi esnasında, proje bazında yerli ve yabancı teknik personelden mesleki ve teknik destek alınması veya bazı analizlerin dışarıda yaptırılması halinde bunlarla ilgili olarak yapılan ödemeler de Ar-Ge harcaması kapsamında değerlendirilecektir."
+açıklamalarına yer verilmiştir.
+İlgi dilekçeniz ve eklerinin incelenmesinden; "..." kod numaralı "... araçların düşük frekanslarda ses ve titreşim özelliklerinin araştırılması ve iyileştirilmesi" başlıklı projenin Sanayi ve Teknoloji Bakanlığınca STB Sanayi Tezleri (SAN-TEZ) Projelerinin Desteklenme Usul ve Esasları Hakkında Yönetmelik çerçevesinde desteklendiği, söz konusu projenin proje ortağının şirketiniz, proje yöneticisinin de Prof. Dr. ... olduğu, projenin Boğaziçi Üniversitesinde yürütüldüğü, proje bütçesinin %25'inin şirketinizce karşılanacağı ve projenin tamamlanmasını müteakip ortaya çıkabilecek patent v.b. hakların şirketinize ait olduğu anlaşılmaktadır.
+Bu hüküm ve açıklamalara göre, San-Tez Desteklenme Programı kapsamında Sanayi ve Teknoloji Bakanlığınca desteklenmesi uygun görülen projenin şirketiniz organizatörlüğünde olmak şartıyla üniversite bünyesinde yapılması ve projeyle ilgili Ar-Ge harcamalarına ilişkin fatura ve benzeri tevsik edici belgelerin şirketiniz adına düzenlenmesi şartıyla Ar-Ge indirimi uygulamasından yukarıda ayrıntılı olarak açıklandığı şekilde projeye ilişkin destek karar yazısının düzenlendiği veya proje sözleşmesinin yürürlüğe girdiği tarihten itibaren faydalanılabilmesi mümkündür.
+Bu bağlamda, hibe olarak alınacak destek tutarlarının, alındığı tarihte özel bir fon hesabına alınması gerekmekte olup bu hesapta yer alan tutarların kurum kazancına dahil edilmemesi ve bu tutardan yapılan Ar-Ge harcamalarının da Ar-Ge indirimine konu edilmemesi gerekmektedir. Hibe tutarını aşan Ar-Ge harcamalarının ise desteklenen Ar-Ge projesi ile ilgili olması şartıyla Ar-Ge indirimine konu edilmesi mümkün bulunmaktadır.
+Öte yandan, yukarıda belirtilen şartların sağlanamaması durumunda ise Ar-Ge indiriminden faydalanılması mümkün olmayıp, şirketinizce karşılanan proje tutarının avans olarak dikkate alınması ve bu tutarın proje sonunda harcanmayan ve iade edilen tutarlar düşüldükten sonra kalan kısmı ile Sanayi ve Teknoloji Bakanlığınca sağlanan ve proje için harcanan destek tutarının elde edilen gayrimaddi hakkın maliyet bedeli olarak kabul edilmesi gerekmektedir.
+Sanayi ve Teknoloji Bakanlığınca sağlanan ve proje için harcanan destek tutarı ile varsa şirketiniz mülkiyetine geçecek olan makine ve donanımların emsal değerinin ise ayrıca gelir olarak dikkate alınması gerektiği ise tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,70 @@
+---
+tur: Özelge
+gib_id: 30069
+baslik: "Yurt dışında bulunan firmanın  Türkiyede iştiraki olan firma tarafından giderlere katılım için ödenen bedeller ile yabancı firmadan program alımı ve Türkiye de görevlendirilen personele ücret ödemeler"
+tarih: 2014-05-28
+sayi: "39044742-KDV.4-1466"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30069
+gib_guncelleme: 2025-03-24T19:57:59
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yurt dışında bulunan firmanın  Türkiyede iştiraki olan firma tarafından giderlere katılım için ödenen bedeller ile yabancı firmadan program alımı ve Türkiye de görevlendirilen personele ücret ödemeler
+
+**İlgili maddeler:** Madde 4 Hizmet
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI MÜKELLEF HİZMETLERİ KDV GRUP MÜDÜRLÜĞÜ
+
+Sayı | : | 39044742-KDV.4-1466 | 28/05/2014
+Konu | : | Yurt dışında bulunan firmanın Türkiyede iştiraki olan firma tarafından giderlere katılım için ödenen bedeller ile yabancı firmadan program alımı ve Türkiye de görevlendirilen personele ücret ödemeler
+
+İlgide kayıtlı özelge talep formunuzda, merkezi Türkiye'de bulunan ve gemi çizim projeleri faaliyetiyle iştigal eden firmanızın merkezi Norveç'te bulunan ve Türkiye'de işyeri veya daimi temsilcisi bulunmayan bir şirketin iştiraki konumunda olduğu;
+-Norveç'te bulunan şirket tarafından Türkiye'de bulunan iştiraki firmanıza verilen gemi çizim projelerinde faydalanmak üzere Norveç'teki ana sunucu (server) üzerinden her bir personel için bağlantı anahtarı ile bağlanmak suretiyle verilen bilgisayar programı desteği (bilişim hizmetinin) için düzenlenen fatura ve Norveç'teki firma tarafından Türkiye'deki firmanızın yurtdışında yaptığı faaliyeti ile ilgili Türkiye dışında yaptığı harcamalar ile genel yönetim giderinden payına düşen giderler için düzenlenen faturada KVK ve KDV gereğince tevkifat yapılıp yapılmayacağı ile safı kurum kazancının tespitinde gider olarak dikkate alınıp alınamayacağı, gider olarak dikkate alınılmaması durumunda KVK ve KDV tevkifatları karşısındaki durumu,
+-Norveç'teki firmanın çalışanı konumunda ücret geliri yurtdışından ödenen Türkiye'deki firmanız bünyesinde çalıştırılmak üzere müdür unvanıyla görevlendirilen personele yapılan ücret ödemelerinin KVK 30 ve GVK 94 üncü madde karşısındaki durumu hakkında görüş talep edildiği anlaşılmaktadır.
+I-KURUMLAR VERGİSİ KANUNU YÖNÜNDEN
+5520 sayılı Kurumlar Vergisi Kanununun "Tam ve dar mükellefiyet" başlıklı 3 üncü maddesinin ikinci fıkrasında; Kanunun birinci maddesinde sayılan kurumlardan, kanuni ve iş merkezlerinden her ikisi de Türkiye'de bulunmayanların, dar mükellefiyet esasında sadece Türkiye'de elde ettikleri kazançlar üzerinden vergilendirileceği hükme bağlanmış olup üçüncü fıkrasında, dar mükellefiyette kurum kazancını oluşturan kazanç ve iratlar bentler halinde sayılmıştır.
+Aynı Kanunun dar mükellefiyette vergi kesintisinin düzenlendiği 30 uncu maddesinin birinci fıkrasının (b) bendinde dar mükellefiyete tabi kurumların serbest meslek kazançları üzerinden, bu kazanç ve iratları avanslar da dahil olmak üzere nakden veya hesaben ödeyen veya tahakkuk ettirenler tarafından %15 oranında vergi kesintisi yapılacağı hükme bağlanmıştır. Söz konusu maddenin ikinci fıkrasında da ticari veya zirai kazanca dahil olup olmadığına bakılmaksızın telif, imtiyaz, ihtira, işletme, ticaret unvanı, marka ve benzeri gayrimaddi hakların satışı, devir ve temliki karşılığında nakden veya hesaben ödenen veya tahakkuk ettirilen bedeller üzerinden bu maddenin birinci fıkrasında belirtilen kişilerce %15 oranında kurumlar vergisi kesintisi yapılacağı hükmüne yer verilmiştir. Maddenin sekizinci fıkrası ile Bakanlar Kuruluna bu maddede belirtilen vergi kesintisi oranlarını, gelir unsurları veya faaliyet konuları itibarıyla ayrı ayrı belirleme, sıfıra kadar indirme ve belirtilen oranın iki katına kadar artırma konusunda yetki verilmiştir.
+Bu yetkiye istinaden yayımlanan 2009/14593 sayılı Bakanlar Kurulu Kararı ile kesinti oranı petrol arama faaliyeti dolayısıyla sağlanacak serbest meslek kazançlarından %5, diğer serbest meslek kazançlarından %20, ticari veya zirai kazanca dahil olup olmadığına bakılmaksızın telif, imtiyaz, işletme, ticaret unvanı, marka ve benzeri gayrimaddi hakların satışı, devir ve temliki karşılığında nakden veya hesaben ödenen veya tahakkuk ettirilen bedeller üzerinden de %20 olarak belirlenmiştir.
+- Yurt dışında mukim firmalardan alınan bilgisayar programlarının üzerinde, herhangi bir değişiklik yapılmadan ve/veya çoğaltılmadan nihai tüketicilere satılması veya aynı şekilde işletmede kullanılması halinde yurt dışında mukim firma tarafından elde edilen kazanç ticari kazanç niteliği taşıyacağından, bu nitelikteki ödemeler üzerinden vergi kesintisi yapılmayacaktır.
+- Yurt dışında mukim firmalardan işletmede kullanılmak ve/veya müşterilere/bayilere satışını yapılmak üzere özel olarak bir bilgisayar programı hazırlatılması halinde veya daha önce üretilmiş, piyasada bulunan bilgisayar programlarının üzerinde, kullanıcıya yönelik özel değişikliklerin yapılması halinde yurt dışında mukim firma tarafından elde edilen kazanç, serbest meslek kazancı niteliği taşıdığından bu kapsamdaki ödemeler üzerinden %20 oranında vergi kesintisi yapılacaktır.
+-"Copyrigt" kapsamında bir bilgisayar programının çoğaltma, değiştirme, topluma dağıtma, gösterme gibi haklarının satın alınması halinde, satın alan tarafından bir gayrimaddi hak elde edilecek olup yurt dışında mukim firmaya yapılacak söz konusu gayrimaddi hak bedeli ödemelerinden %20 oranında vergi kesintisi yapılacaktır.
+Bu hüküm ve açıklamalara göre,
+- Yurt dışında mukim grup firmasından temin edilen bilgisayar programları ile ilgili yapılan ödemelerin, programların kullanım, uyarlanma ve hazırlanma durumlarına göre yukarıda yazılı esaslar çerçevesinde değerlendirilerek tevkifata tabi tutulması gerekmektedir.
+- Norveç mukimi firmanın şirketiniz için yurtdışında yapmış olduğu harcamalar bu firmanın genel giderlerinden şirketinize isabet eden kısmının, şirketiniz açısından ticari kazancın elde edilmesi ve idamesiyle bir illiyet bağının bulunması halinde kurum kazancının tespitinde genel gider olarak dikkate alınabilecektir. Ancak, şirketinizce yurt dışında mukim grup firmasına yapılan ödemelerin emsallere uygunluk ilkesine aykırı olması halinde ise Kurumlar Vergisi Kanununun transfer fiyatlandırması yoluyla örtülü kazanç hakkındaki hükümlerinin uygulanacağı tabiidir.
+- Norveç mukimi firmanın personeli olup müdür olarak şirketinizde çalışacak personelin ücreti doğrudan doğruya Norveç mukimi firma tarafından ödenecek olduğundan şirketinizce tevkifat yapılmasına gerek bulunmamaktadır.
+II-ÇİFTE VERGİLENDİRMEYİ ÖNLEME ANLAŞMALARI YÖNÜNDEN
+16.12.1971 tarihinde imzalanmış olan "Türkiye Cumhuriyeti ile Norveç Krallığı Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmenin Önlemesine ve Diğer Bazı Hususların Düzenlenmesine İlişkin Anlaşma" hükümleri 31.12.2011 tarihine kadar elde edilen gelirler için uygulanmakta olup söz konusu Anlaşmanın "Gayri Maddi Hak Bedelleri" başlıklı 12 nci maddesinde;
+"1. Bir Akit Devlet'te doğan ve diğer Akit Devlet'in bir mukimine ödenen gayrimaddi hak bedelleri, ancak bu diğer Devlet'te vergilendirilebilir.
+2. Bununla beraber, gayrimaddi hak bedelleri, bunların doğduğu Akit Devlet'te ve bu Devlet mevzuatına göre vergilendirilebilir; ancak alınan vergi, gayrimaddi hak bedellerinin gayrisafi miktarının % 10'unu aşamaz.
+3. Bu madde de kullanılan "gayrimaddi hak bedeli" deyimi, sinema filmleri ile televizyon film ve bantları dahil olmak üzere, edebi, artistik veya ilmi bir eser üzerindeki telif hakkının; bir ihtira beratının, sınai veya ticari bir alameti farikanın; bir resim veya bir modelin, bir planın, gizli bir formül veya bir imalat usulünün kullanılması veya kullanma imtiyazı ile bir sınai, ticari veya ilmi teçhizatın kullanılması veya kullanma imtiyazı ve sınai, ticari veya ilmi alanlarda elde edilmiş bir tecrübeye ait bilgiler için ödenen her nevi bedelleri kapsar.
+..." hükümlerine yer verilmiştir.
+Yukarıda bahsedilen server üzerinden bilgisayar programına ulaşım yoluyla verilen hizmetin Türkiye ile Norveç arasındaki ÇVÖA'nın 12 nci maddesi kapsamında değerlendirilmesi gerekmektedir. Söz konusu bilgisayar programına erişim ile verilen hizmet karşılığında ödenen bedeller üzerinden Anlaşma'nın 12 nci maddesine göre tevkifat yapılması gerekmekte olup, yapılacak bu tevkifat gayrimaddi hak bedeli gayrisafi tutarının %10'unu aşamayacaktır.
+Diğer taraftan, Norveç'te mukim firmanın personelinin Türkiye'de Şirketinizde icra ettiği müdürlük görevi karşılığında elde ettiği ücret gelirlerinin ise söz konusu Anlaşmanın "Ücretler" başlıklı 15 inci maddesi kapsamında değerlendirilmesi gerekmektedir. Anılan maddenin 1 ve 2 nci fıkraları aşağıdaki gibidir;
+"1. 16, 17, 18, 19 ve 20 nci maddeler hükümleri saklı kalmak üzere, bir Akit Devlet mukiminin hizmet karşılığı sağladığı ücret, maaş ve benzeri bedeller, hizmet diğer Akit Devlet'te icra edilmedikçe, sadece bu Devlet'te vergilendirilir. Hizmetin diğer Akit Devlet'te icra edilmesi halinde, bu hizmet dolayısiyle alınan ücretler, bu diğer Devlet'te vergilendirilebilir.
+2. Aşağıda zikredilen durumlarda, bir Akit Devlet mukiminin diğer Akit Devlet'te hizmet erbabı olarak aldığı ücretler, 1 inci fıkra hükümlerine bakılmaksızın sadece bu ilk sözü edilen Devlet'te vergilendirilir:
+a) İstihkak sahibi bir takvim yılı içinde toplam olarak 183 günü aşmayan bir süre veya süreler ile diğer Akit Devlet'te bulunursa, ve
+b) İstihkak diğer Devlet mukimi olmayan bir kişi tarafından veya onun adına ödenirse, ve
+c) İstihkak, bu ücreti ödeyen kişinin diğer Akit Devlet'te bulunan bir işyeri tarafından
+yüklenilmemişse,"
+Norveç teşebbüsü personelinin anılan hizmetleri karşılığında elde edeceği ücretlerin Türkiye'de vergilendirilmesi için yukarıda 2 nci fıkrada belirtilen koşullardan en az birinin ihlal edilmesi gerekmektedir. Bu üç şartın topluca gerçekleştiği durumda ise vergileme Norveç'te yapılacaktır.
+Anlaşma hükümleri çerçevesinde, gayrimaddi hak bedeli üzerinden ve ücret gelirleri yönünden Türkiye'de vergi alınması durumunda, Anlaşmanın "Çifte Vergilendirmeyi Önleme Usulleri" başlıklı 23 üncü maddesinde yer alan açıklamalar dikkate alınarak, Türkiye'de alınan vergiler, Norveç'te, gayrimaddi hak bedelleri yönünden mahsup, ücret gelirleri yönünden ise istisna edilecektir.
+Anlaşma hükümlerinin iç mevzuata göre değişiklik getirdiği durumlarda, Anlaşma hükümlerinden yararlanabilmek için söz konusu Norveç mukimi şirketin ve ücret erbabının bu ülkede tam mükellef olduğunun ve tüm dünya kazançları üzerinden bu ülkede vergilendirildiğinin Norveç yetkili makamlarından alınacak bir belge ile kanıtlanması ve bu belgenin aslı ile noterce veya bu ülkelerdeki Türk Konsolosluklarınca tasdik edilen Türkçe tercümesinin bir örneğinin vergi sorumlularına veya ilgili vergi dairesine ibraz edilmesi gerekmektedir.
+I-KATMA DEĞER VERGİSİ KANUNU YÖNÜNDEN:
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun;
+-1/1 inci maddesinde, Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV ye tabi olduğu,
+-1/2 nci maddesinde, her türlü mal ve hizmet ithalatının KDV ye tabi olduğu,
+-4 üncü maddesinde, hizmetin, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu; bu işlemlerin bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmamayı taahhüt etmek şeklinde gerçekleşebileceği,
+-6 ncı maddesinde, işlemlerin Türkiye'de yapılmasının, hizmetin Türkiye'de yapılmasını, değerlendirilmesini veya hizmetten Türkiye'de faydalanılmasını ifade ettiği,
+-9 uncu maddesinde, mükellefin Türkiye içinde ikametgahının, işyerinin, kanuni merkezi ve iş merkezinin bulunmaması hallerinde ve gerekli görülen diğer hallerde Maliye Bakanlığı, vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutabileceği,
+-20 nci maddesinde, teslim ve hizmet işlemlerinde matrahın bu işlemlerin karşılığını teşkil eden bedel olduğu,
+hükme bağlanmıştır.
+26.04.2014 tarih ve 28983 sayılı Resmi Gazete'de yayımlanan KDV Genel Uygulama Tebliğinin "I/C-2.1.2.1.İkametgahı, İşyeri, Kanuni Merkezi ve İş Merkezi Türkiye'de Bulunmayanlar Tarafından Yapılan İşlemler" başlıklı bölümünde; (01/05/2014 tarihinden önce 117 Seri No.lu KDV Genel Tebliğinin "2.1.İkametgahı, İşyeri, Kanuni Merkezi ve İş Merkezi Türkiye'de Bulunmayanlar Tarafından Yapılan İşlemler" başlıklı bölümü) ikametgahı, işyeri, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanların Türkiye'de yaptığı hizmetler ile bunların yurt dışında yaptığı ancak Türkiye'de faydalanılan hizmetlerin KDV'ye tabi olacağı, bu gibi hizmetlerde mükellef hizmetten faydalanan yurt içindeki muhatap olacağı ve sorumlu sıfatıyla beyan edilip ödeneceği açıklanmıştır.
+Buna göre, merkezi Norveç'te bulunan iştiraki olduğunuz firmadan aldığınız söz konusu hizmet bedeli üzerinden hesaplanan KDV'nin tamamının Şirketiniz tarafından sorumlu sıfatıyla tevkif edilerek 2 No.lu KDV Beyannamesi ile beyan edilmesi ve ödenmesi gerekmektedir.
+Diğer taraftan, merkezi Norveç'te bulunan iştiraki olduğunuz firmanın yapmış olduğu giderler ve genel yönetim giderlerinden firmanız payına düşen tutarlar için ödemiş olduğunuz bedellerin Şirketinize verilen herhangi bir hizmet karşılığı olması halinde, hizmet ithalatı kapsamında hizmet bedeli üzerinden hesaplanan KDV'nin tamamının yine Şirketiniz tarafından sorumlu sıfatıyla tevkif edilerek 2 No.lu KDV Beyannamesi ile beyan edilmesi ve ödenmesi gerektiği tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

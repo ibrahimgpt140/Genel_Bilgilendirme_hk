@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 34700
+baslik: "İştira (Alım) Hakkı Sözleşmesinin Harç ve Damga Vergisi Matrahı hk."
+tarih: 2013-09-19
+sayi: "97895701-155[1-2013/1]-1518 "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34700
+gib_guncelleme: 2025-03-24T20:19:15
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İştira (Alım) Hakkı Sözleşmesinin Harç ve Damga Vergisi Matrahı hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 4 Kağıtların Mahiyetlerinin Tayini; Madde 10 Vergileme Ölçüleri; Madde 38 Mevzu; Madde 42 Değer esası
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+(Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+Sayı :97895701-155[1-2013/1]-1518 19/09/2013
+Konu : İştira (Alım) Hakkı Sözleşmesinin Harç ve Damga Vergisi Matrahı hk.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden, 1. Derece Sit Alanı içerisinde bulunan ve üzerinde yapılanma izni bulunmayan gayrimenkullerin (... no.lu parseller) sit alanı statüsünden çıkarılarak üzerinde imar planları yapılmak istendiği, bunun için malikler ve alıcılar arasında iştira (alım) sözleşmesinin düzenleneceği, söz konusu sözleşmenin gerçekleşmesinin sit alanı şartının kaldırılması ve imar planının düzenlenmesi şartına bağlı olduğu, şartların gerçekleşmemesi halinde (gayrimenkullerin bulunduğu yerin sit alanı statüsünden çıkartılamaması ve imar planının gerçekleşmemesi halinde) sözleşmenin münfesih olacağı belirtilerek, sözleşmeden alınacak harç ve damga vergisinin, gayrimenkullerin emlak vergisi rayiç bedeli üzerinden mi yoksa inşaat alanı yüzölçümü ile sözleşmede belirtilen tutarın (1000 USD) çarpılması sonucu bulunacak tutar üzerinden mi hesaplanması gerektiği hususunda görüş talep edildiği anlaşılmaktadır.
+492 sayılı Harçlar Kanununun 38 inci maddesinde, noter işlemlerinden bu kanuna bağlı (2) sayılı tarifede yazılı olanlarının noter harçlarına tabi olduğu; 41 inci maddesinde, noter harçlarının (2) sayılı tarifede yazılı işlemlerden değer veya ağırlık ölçüsüne göre nispi, işlemin nevi ve mahiyetine göre maktu esas üzerinden alınacağı; 42 nci maddesinde, değer veya ağırlık ölçüsüne göre harca tabi işlemlerde (2) sayılı tarifede yazılı değer veya ağırlığın esas olduğu, menkul ve gayrimenkul mallar hakkında alım, satım, taahhüt ve rehinle ilgili her nevi mukavele, senet ve kâğıtlarda değer gösterilmesinin mecburi olduğu hükme bağlanmıştır.
+Kanuna ekli (2) sayılı tarifenin I-1 inci fıkrasında, muayyen bir meblağı ihtiva eden her nevi senet, mukavelename ve kağıtlardan beher imza için (01/01/2013 tarihinden geçerli olmak üzere 69 Seri No.lu Harçlar Kanunu Genel Tebliği ile belirlenen) binde 1,13 nispetinde harç alınacağı, bütün imzalar için bu suretle alınacak harcın toplam miktarının (50,45 TL)'den az, (25.874,70 TL)'den çok olamayacağı hükmü bulunmaktadır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 14 üncü maddesinde, kağıtların Damga Vergisi bu Kanuna ekli (1) sayılı tabloda yazılı nispet veya miktarlarda alınacağı, her bir kağıt için hesaplanacak vergi tutarının (1) sayılı tabloda yer alan sınırlamalar saklı kalmak üzere 800 bin Yeni Türk Lirasını (56 Seri No.lu Damga Vergisi Genel Tebliği ile 2013 yılı için 1.487.397,70 TL) aşamayacağı hüküm altına alınmıştır.
+
+Kanuna ekli (1) sayılı tablonun "I. Akitlerle ilgili kağıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin nispi damga vergisine tabi olduğu hükme bağlanmıştır.
+35 Seri No.lu Damga Vergisi Kanunu Tebliğinde ise, vergiye tabi kağıdın yabancı para cinsinden düzenlenmesi halinde kağıt üzerinde yer alan dövizin, kağıdın düzenlendiği tarihteki T.C. Merkez Bankasınca tespit ve ilan olunan cari döviz satış kuruna göre bulunacak Türk Lirası karşılığı üzerinden damga vergisinin hesaplanacağı, damga vergisi miktarının "azami tutarı" aşıp aşmadığı hususunun buna göre dikkate alınacağı belirtilmiştir.
+İlgide kayıtlı özelge talep formu eki "Düzenleme Şeklinde İştira Hakkı Sözleşmesi" başlıklı kağıdın incelenmesinden, "I-Tanımlar" başlıklı maddesinde, "Asgari İskan Edilebilir Alan: İşbu sözleşme 'de tanımlanan İskan Edilebilir Alan hesaplamasında kullanılacak olan (E) KAKS (Kat Alanı Kat Sayısı) oranının, anılan parsellere ilişkin olarak ortalama % 15 (yüzdeonbeş) olarak hesaplanması ile ortaya çıkan alan anlamına gelmektedir. (E=Emsal=% 15). Asgari (E) KAKS (Kat Alanı Kat Sayısı) %15 (yüzdeonbeş) lik emsal oranı hesaplanırken; konut lejantlı imar adalarının plan veya plan notlarında, açığa çıkan bodrum katlar iskan edilebilir ve emsal harici" plan notu olması halinde, bu parsellere ait TAKS (Taban Alan Kat Sayısı) oranına, KAKS (Kat Alanı Kat Sayısı) oranı ilave edilerek, Asgari (E) KAKS oranı hesaplanacaktır.
+"Gayrimenkul(ler)" ... parsellerinde kayıtlı olup Ek-1 'deki kadastral planda kırmızı çizgiler ile işaretlenmiş ve Ek-1/A 'daki listede mülkiyet detayları yer alan taşınmazlar anlamına gelmektedir.
+"İmar Planları" Gayrimenkullerin bulunduğu bölgeyi de içine alan 1/1.000, 1/5.000, 1/25.000 ile 1/100.000 ölçekli imar planı ve plan notları dahil tüm imar planları anlamına gelmektedir. İmar Planları'nı oluşturan planlardan her biri ayrı ayrı İmar Planı olarak anılacaktır.
+"İskan Edilebilir Alan" Gayrimenkullerin metrekare cinsinden İmar Planları uyarınca belirlenecek toplam iskan edilebilir alanı şeklinde anlaşılacaktır. Bu tanıma konut alanları, turizm alanları, özel sağlık alanları ve ticaret alanları olarak belirlenen imar adaları dahil olacaktır. Taraflar, herhangi bir tereddüde mahal vermemek adına, konut lejantlı imar adalarında "açığa çıkan bodrum katlar iskan edilebilir ve emsal harici" şeklinde plan notu olması halinde bu alanların İskan Edilebilir Alan tanımına dahil olacağını ve İskan Edilebilir Alan Tanımına ve hesaplamasına dahil edileceğini kabul, beyan ve taahhüt etmektedir"
+"IV) Satış Bedeli ve Ödeme Şartları" başlıklı maddesinin (4.4) ayıracında da; "Taraflar, III. Madde altında öngörülen süreler içinde Alıcı 'nın münhasıran kendi iradesine bağlı olarak Gayrimenkulleri işbu madde uyarınca belirlenecek olan bedel karşılığı Türk Lirasına satın alma hakkına sahip olduğunu kabul ve beyan etmektedirler. Satış bedeli, Gayrimenkuller üzerinde işbu Sözleşme 'de tanımlandığı şekliyle belirlenecek toplam İskan Edilebilir Alan 'ın her bir metrekaresi için 1.000 USD (Bin Amerikan Doları) ödenmesi ile belirlenecektir. İmar Planının resmi olarak onaylanmasını takip eden beş (5) yıl içinde lehte olacak imar değişikliklerinden doğacak İskan Edilebilir Alanların artışından malikler aynı oranda pay alacaklardır. Herhangi bir tereddüde mahal vermemek adına, Sözleşme Bedeli aşağıdaki şekilde hesaplanacaktır.
+
+Satış Bedeli = İskan Edilebilir Alan (metrekare cinsinden) X1000 USD
+Taraflar, işbu 4.4. madde hükümleri uyarınca hesaplanacak olan Satış Bedeli'nin hesaplanmasında İskan Edilebilir Alan 'ın hiçbir şekilde Asgari İskan Edilebilir Alan 'dan az olmayacağını kabul, beyan ve taahhüt ederler. Alıcı iştira hakkını kullanması ve İskan Edilebilir Alan 'dan az olması halinde, Gayrimenkulleri devralmak için Maliklere Asgari İskan Edilebilir Alan üzerinden hesaplanacak Satış Bedeli'ni ödemeyi kabul ve taahhüt eder. " ifadelerinin yer aldığı, sözleşme eki "Gayrimenkullerin Detayları" başlıklı Ek-1/A numaralı tabloda da, bahse konu parsellerin metrekare büyüklükleri ve maliklerin paylarına yer verildiği görülmektedir.
+Bu hüküm ve açıklamalara göre, sözleşmedeki "Asgari İskan Edilebilir Alan" tanımında belirtilen oranlar, bunlara ilaveten ortaya çıkacak bodrum katlar ve harici alanlar ile "İskan Edilebilir Alan" tanımında belirtilen toplam iskan edilebilir alan (konut alanları, turizm alanları, özel sağlık alanları ve ticaret alanları olarak belirlenen imar adaları dahil, konut lejantlı imar adalarında açığa çıkan bodrum katları vs) büyüklüğünün sözleşme eki tabloda metrekareleri belirtilen parsellerin ne kadarını kaplayacağı anlaşılmamaktadır.
+Bu itibarla, özelge talep formu eki "Düzenleme Şeklinde İştira Hakkı Sözleşmesi"nin, sözleşme bedeline konu "İskan Edilebilir Alan"ın belirlenmesinde EK-1/A tabloda yer alan parsellerin toplam metrekarelerinin temel alınması ve bu toplamın sözleşmenin (IV/4.4.) maddesinde belirlenen tutarla (1000 USD) çarpılması sonucu bulunacak değer üzerinden (yukarıda açıklanan azami hadler de göz önüne alınarak) damga vergisi ve harca tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

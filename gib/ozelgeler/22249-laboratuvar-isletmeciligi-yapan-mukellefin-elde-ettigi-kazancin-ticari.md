@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 22249
+baslik: "Laboratuvar işletmeciliği yapan mükellefin, elde ettiği kazancın ticari faaliyet kapsamına girmesi nedeniyle başka laboratuvarlara tahlil için göndereceği örnekler için, sevk irsaliyesi düzenlemesi gerekmektedir."
+tarih: 2000-08-17
+sayi: "B.07.0.GEL.0.40/4003-72/38774"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/22249
+gib_guncelleme: 2025-03-24T19:29:08
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Laboratuvar işletmeciliği yapan mükellefin, elde ettiği kazancın ticari faaliyet kapsamına girmesi nedeniyle başka laboratuvarlara tahlil için göndereceği örnekler için, sevk irsaliyesi düzenlemesi gerekmektedir.
+
+**İlgili maddeler:** Madde 37 Ticari Kazancın Tarifi; Madde 65 Serbest Meslek Kazancının Tarifi; Madde 230 Faturanın Şekli
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 17.08.2000 SAYI : B.07.0.GEL.0.40/4003-72/38774 KONU : Laboratuvar işletmeciliği yapan mükellefin, başka laboratuvarlara tahlil için göndereceği örnekler için, sevk irsaliyesi düzenleyip düzenlemeyeceği hk. ............ VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) İLGİ : ............ tarih ve ............ sayılı yazınız. İliniz ..... Vergi Dairesi mükelleflerinden ..... ve .....'nın işlettiği laboratuvar ile ilgili olarak, bu faaliyetten doğan kazancın serbest meslek kazancı olarak vergilendirilmesine ve başka laboratuvarlara tahlil için göndereceği örnekler için sevk irsaliyesi düzenlenmesi gerektiği konusuna ilişkin 12.05.2000tarih ve .....sayılı özelgeniz ve ekleri incelenmiş, aşağıda yer alan açıklamaların yapılmasına gerek duyulmuştur. Bilindiği üzere, 193 sayılı Gelir Vergisi Kanununun 37 nci maddesinde her türlü ticari ve sınai faaliyetten doğan kazançların ticari kazanç olduğu hükme bağlanmıştır. Yine aynı Kanunun 65 inci maddesinde de, "Her türlü serbest meslek faaliyetinden doğan kazançlar serbest meslek kazancıdır. Serbest meslek faaliyeti; sermayeden ziyade şahsi mesaiye ilmi veya mesleki bilgiye veya ihtisasa dayanan ve ticari mahiyette olmayan işlerin işverene tabi olmaksızın şahsi sorumluluk altında kendi nam ve hesabına yapılmasıdır..." hükmü yer almıştır. Bu hükümlere göre, ilgi yazınızdan muayene, teşhis ve tedavi yapılmadığı sadece tahlil laboratuvarı olarak kullanıldığı anlaşılan ..... Laboratuvarının işletmeciliğinden elde edilen kazancın, şahsi mesaiden ziyade sermayeye dayanması ve ticari bir organizasyon çerçevesinde yapılması nedeniyle ticari kazanç hükümlerine göre vergilendirilmesi gerekmektedir. Diğer taraftan, 213 sayılı Vergi Usul Kanununun 230 uncu maddesi ile fatura düzenlemek zorunda olan mükelleflere ticari emtia hareketlerinin seyirlerinin izlenebilmesi amacıyla sevk irsaliyesi düzenleme zorunluluğu getirilmiş ve sevk irsaliyesinin kimler tarafından hangi usul, esas, şekil ve şartlara göre düzenlenmesi gerektiğine ilişkin açıklamalar muhtelif tarihlerdeki Resmi Gazetelerde yayımlanan Vergi Usul Kanunu Genel Tebliğleri ile yapılmıştır. Adı geçenin elde ettiği kazancın ticari faaliyet kapsamına girmesi nedeniyle ticari faaliyette bulunan mükelleflerin tutması ve düzenlemesi gereken defter ve belgeleri kullanma yükümlülüğü olacağından, başka laboratuvarlara tahlil için göndereceği örnekler için sevk irsaliyesi düzenlemesi gerekmektedir. Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim. Bakan a.

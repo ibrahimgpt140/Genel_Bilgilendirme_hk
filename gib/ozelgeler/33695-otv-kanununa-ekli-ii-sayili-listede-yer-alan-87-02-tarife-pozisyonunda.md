@@ -1,0 +1,48 @@
+---
+tur: Özelge
+gib_id: 33695
+baslik: "ÖTV Kanununa ekli (II) sayılı listede yer alan 87.02 tarife pozisyonundaki otobüsün vergilendirilmesinde koltuk sayısının dikkate alınması"
+tarih: 2015-04-10
+sayi: "84412373-135[12.-2014-2578]-17"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/33695
+gib_guncelleme: 2025-03-24T20:14:28
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# ÖTV Kanununa ekli (II) sayılı listede yer alan 87.02 tarife pozisyonundaki otobüsün vergilendirilmesinde koltuk sayısının dikkate alınması
+
+**İlgili maddeler:** Madde 1 Verginin konusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ADANA VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Gelir Grup Müdürlüğü
+
+Sayı | : | 84412373-135[12.-2014-2578]-17 | 10/04/2015
+Konu | : | ÖTV Kanununa ekli (II) sayılı listede yer alan 87.02 tarife pozisyonundaki otobüsün vergilendirilmesinde koltuk sayısının dikkate alınması
+
+İlgide kayıtlı özelge talep formunuzda, şehirlerarası ve şehir içi toplu taşımacılıkta kullanılan otobüslerin üretim ve satışını yaptığınız, 87.02 tarife pozisyonundaki araçların ÖTV oranının tespitinde taşıma kapasitesi olarak oturma yerlerinin sayısı ve ayakta yolcu sayısının esas alınıp alınmayacağı, taşıma kapasitesi olarak oturma sayısının esas alınması halinde, koltuk olmasa dahi koltuk montajı için bulunan sabit tertibatların koltuk sayısının hesabında dikkate alınıp alınmayacağı hususlarında Başkanlığımız görüşü talep edilmektedir.
+Bilindiği üzere, 4760 sayılı Özel Tüketim Vergisi Kanununun (1/1-b) maddesiyle, Kanuna ekli (II) sayılı listedeki araçlardan kayıt ve tescile tabi olanların ilk iktisabı bir defaya mahsus olmak üzere ÖTV'nin konusuna alınmıştır.
+Aynı Kanunun (1/2) maddesine göre, Kanuna ekli listelerde yer alan mallar Türk Gümrük Tarife Cetvelinde tanımlanan eşyalar olup, bu malların tarife numaralarında veya tanımlarında bu Kanuna ekli listeler dışında yapılacak değişiklikler ÖTV uygulamasında hüküm ifade etmemektedir
+Bu kapsamda, ÖTV'nin konusu kapsamına giren malların tanımlanmasında Türk Gümrük Tarife Cetvelinde yer alan gümrük tarife istatistik pozisyon (G.T.İ.P.) numaraları itibariyle yapılan tanımlamalar dikkate alınmakta, Karayolları Trafik Kanunu, Motorlu Taşıtlar Vergisi Kanunu veya Motorlu Araçlar ve Römorkları Tip Onay Yönetmeliği gibi diğer mevzuatta yer alan tanımlamalar dikkate alınmamaktadır.
+Öte yandan, mezkur Kanunun (12/1) maddesinde, özel tüketim vergisinin, bu Kanuna ekli listelerde yazılı malların karşılarında gösterilen tutar ve/veya oranlarda alınacağı hükme bağlanmış olup, Kanuna ekli (II) sayılı listede 87.02 tarife pozisyonu kapsamında yer alan 10 veya daha fazla kişi taşımaya mahsus (şoför dahil) motorlu taşıtlardan otobüs %1, midibüs %4, minibüs ise %9 oranında ÖTV'ye tabi tutulmuştur.
+Ayrıca, 10 Seri No.lu Özel Tüketim Vergisi Genel Tebliğinin "Özel Tüketim Vergisi Kanununa Ekli (II) Sayılı Listede Yer Alan 87.02 Tarife Pozisyonundaki Araçların Vergilendirilmesi" başlıklı (B) bölümünde;
+"ÖTV Kanununa ekli (II) sayılı listede yer alan 87.02 tarife pozisyonundaki malların tanımı ve vergilendirilmesinde tereddüde düşüldüğü anlaşılmıştır.
+ÖTV Kanununa ekli listelerde yer alan mallar, Türk Gümrük Tarife Cetvelinde tanımlanan eşyalardır. ÖTV Kanununa ekli (II) sayılı listede 87.02 tarife pozisyonundaki araçlar:
+- Otobüs
+- Midibüs
+- Minibüs
+olarak yer almaktadır. Söz konusu araçlardan;
+- Sürücü dahil 26 kişi ve üzerinde taşıma kapasitesi olan araçlar otobüs,
+- Sürücü dahil 16 ila 25 kişi taşıma kapasitesi olan araçlar midibüs,
+- Sürücü dahil 10 ila 15 kişi taşıma kapasitesi olan araçlar minibüs,
+olarak değerlendirilmektedir.
+Buna göre, ÖTV Kanununa ekli (II) sayılı listede 87.02 G.T.İ.P numarası ile yer alan otobüs, midibüs ve minibüslerin vergilendirilmesinde yukarıdaki tanımlara göre hareket edilmesi gerekmektedir."
+açıklamasına yer verilmiştir.
+Bunun yanı sıra, ÖTV uygulamasında, söz konusu araçlar bakımından "taşıma kapasitesi" ifadesinden kasıt, 87.02 G.T.İ.P. numarasında sınıflandırılan araçtaki mevcut koltuk sayısı olup, koltuk montajı için sabit tertibat (açık koltuk bağlantı tertibatı) sayısı ve ayakta taşınabilecek yolcu sayısı 87.02 tarife pozisyonu kapsamındaki araçların sınıflandırılacağı kategorinin belirlenmesinde Başkanlığımızca dikkate alınmamaktadır.
+Bununla birlikte, aracın mevcut koltuk sayısının belirlenmesinde, söz konusu araçların engellilerin tekerlekli sandalye ile seyahatine imkân verecek şekilde üretimi/tadilatı kapsamında, koltuk montajına ilişkin sabit tertibatlar korunmak suretiyle tekerlekli sandalyelerin araç içerisinde koltuk olarak kullanılmasını sağlayacak şekilde yapılacak her bir sabit tertibat ayrı birer koltuk olarak değerlendirilmektedir.
+Bu çerçevede, ilgide kayıtlı başvurunuzda belirtilen kapsamda, 25+1 koltuk kapasitesine sahip olmakla birlikte fiilen 22+1 koltuklu olarak üretilen araçlarda engellilerin taşınmalarına/seyahatine yönelik yapılan dönüşüm işleminde, tekerlekli sandalyelerin araç içerisinde koltuk olarak kullanılmasını sağlayacak şekilde yapılacak her bir sabit tertibatın, aracın taşıma kapasitesinin (koltuk sayısının) belirlenmesinde ayrı birer koltuk olarak değerlendirilmesi mümkün bulunmaktadır.
+Bilgilerinize rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

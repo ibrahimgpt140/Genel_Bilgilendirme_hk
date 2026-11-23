@@ -1,0 +1,16 @@
+---
+tur: Özelge
+gib_id: 37942
+baslik: "Farklı illerde bulunan mükelleflerin, perakende akaryakıt satışı yapmak üzere kurdukları adi ortaklığın mükellefiyetinin farklı ilde oluşması halinde belge basım iznini sadece bağlı bulundukları vergi dairesinin il sınırları içerisinde kalan anlaşmalı mat"
+tarih: 1998-02-09
+sayi: "B.07.0.GEL.0.29/2992-538/3580"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/37942
+gib_guncelleme: 2025-03-24T22:34:08
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Farklı illerde bulunan mükelleflerin, perakende akaryakıt satışı yapmak üzere kurdukları adi ortaklığın mükellefiyetinin farklı ilde oluşması halinde belge basım iznini sadece bağlı bulundukları vergi dairesinin il sınırları içerisinde kalan anlaşmalı mat
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 09.02.1998 SAYI : B.07.0.GEL.0.29/2992-538/3580 KONU : Farklı illerde bulunan mükelleflerin, perakende akaryakıt satışı yapmak üzere kurdukları adi ortaklığın mükellefiyetinin farklı ilde oluşması halinde belge basım izninin nereden alınacağı hk. ..................... VALİLİĞİ (Defterdarlık : Usul Gelir Müdürlüğüne) İLGİ : ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınızın incelenmesinden; ..... Vergi Dairesi mükelleflerinden ..... ile ..... Vergi Dairesi mükelleflerinden .....'ın bir araya gelerek ..... ve Ortakları ünvanlı adi ortaklık kurdukları, akaryakıt perakende satışı yapacak olan bu ortaklığın Gelir Stopaj ve Katma Değer Vergisi yönünden ..... Vergi Dairesind e mükellefiyetinin oluştuğu, bu nedenle adi ortaklığa ilişkin belge basım izin yazısının hangi vergi dairesince verilmesi gerektiği hususunda tereddüte düşülerek konunun Bakanlığımıza intikal ettirildiği anlaşılmıştır. Bilindiği üzere, Vergi Usul Kanunu Uyarınca Vergi Mükellefleri Tarafından Kullanılan Belgelerin Basım ve Dağıtımı Hakkında Yönetmeliğin 13/a maddesinde, "Mükellefler, söz konusu belgeleri bedeli mukabilinde sadece bağlı bulundukları vergi dairesinin il sınırları içerisinde kalan anlaşmalı ma t baalara bastırabileceklerdir." hükmü yer almaktadır. Öke yandan, 257 sıra nolu Vergi Usul Kanunun Genel Tebliğinde, Defterdarlıklarla anlaşmalı olan matbaalarda belge bastırmak veya notere belge tasdik ettirmek isteyen mükelleflerin, her takvim yılında ilk defa belge basım veya noterde onayı için izin yazısı almak üzere vergi dairelerine verecekleri dilekçelerinin ekine, üye olma zorunluluğu bulunan oda veya mesleki teşekkülden alacakları başvuru tarihi itibariyle faal olduklarını belirten yazıyı da eklem e k zorunda oldukları açıklanmıştır. Buna göre, anılan adi ortaklığın ortaklarından herhangi birinin üye olma zorunluluğu bulunan odadan veya mesleki teşekkülden alacağı başvuru tarihi itibariyle faal olduğunu belgeleyen yazıyı, iliniz sınırları içerisinde faaliyette bulunacak olan adi ortaklığın bağlı olduğu ..... Vergi Dairesine vereceği izin talebini içeren dilekçesi ekine eklemesi yeterli olacaktır. Bu şekilde yapılacak olan talebe istinaden vergi dairesince verilecek izin yazısı üzerine de adi ortaklığın kullanacağı belgelerde ilinizdeki anlaşmalı matbaalarca basılacaktır. Bilgi edinilmesini ve gereğini rica ederim. Bakan a. Daire Başkanı

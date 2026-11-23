@@ -1,0 +1,40 @@
+---
+tur: Özelge
+gib_id: 36738
+baslik: "Aracı kuramların Takasbank Para Piyasasından elde ettikleri faiz gelirlerinde BSMV uygulaması"
+tarih: 2016-01-28
+sayi: "64597866-180[28/2016]-1721"
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/36738
+gib_guncelleme: 2025-03-24T20:44:15
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Aracı kuramların Takasbank Para Piyasasından elde ettikleri faiz gelirlerinde BSMV uygulaması
+
+**İlgili maddeler:** Madde 28 I-Mevzu, vergiyi doğuran olay
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Grup Müdürlüğü
+
+28.01.2016
+
+Sayı : 64597866-180[28-2016]- 1721
+Konu : Aracı kuramların Takasbank ParaPiyasasından elde ettikleri faiz gelirlerinde BSMV uygulaması
+..... YATİRİM MENKUL DEĞERLER A.Ş.
+İlgi:
+İlgide kayıtlı özelge talep formunda, aracı kurumların müşteri hesaplarından veya kendi özvarlıklarından oluşan nakit fazlalarını Takasbank Para Piyasasında (TPP) değerlendirebildiği, söz konusu işlemlerden lehe kalan paraların 98/11591 sayılı BKK ile % 1 oranında banka ve sigorta muameleleri vergisine (BSMV) tabi olduğu, önceki uygulamaya göre bu işlemlerde hesaplanan BSMV'nin TPP'den nakit kaynak kullanan borçlu aracı kurumdan faize ek olarak tahsil edilip bu piyasaya para yatıran aracı kurumlara aktarıldığı, aracı kurumların da bu şekilde tahsil ettikleri BSMV'leri vergi dairesine ödedikleri, ancak Takasbank tarafından yapılan uygulama değişikliği ile söz konusu işlemdeki BSMV tutarının alıcı aracı kurumdan tahsil edilme uygulamasına son verilerek satıcı aracı kurumun elde ettiği faiz geliri üzerinden BSMV hesaplaması uygulamasına geçildiği, aracı kurumların TPP'ye aktardıkları nakit paraların kaynağının müşterilerden temin edilen nakitlerden de oluştuğu ve faiz tahsilatlarının müşterilerle paylaşıldığı, aracı kurumların hem müşteri hesaplarından hem de kendi özvarlığından oluşan nakit fazlalarını TPP'de değerlendirmesi sonucu tahsil ettikleri faizler üzerinden kendi namına işlem yapıyor olmasından dolayı BSMV hesaplamaya devam etmesi gerektiği belirtilerek TPP'den elde edilen faiz gelirleri için aracı kurum nezdinde doğan %1 oranındaki BSMV yükümlülüğü haricinde bu tutarların bir kısmının aktarılması sonucunda ayrıca yatırım fonları dahil tüm müşteriler nezdinde yeniden BSMV'nin konusuna giren bir işlemin bulunup bulunmadığı hususunda Başkanlığımız görüşü talep edilmektedir.
+6802 sayılı Gider Vergileri Kanununun 28 inci maddesinin ikinci fıkrasında; "Bankerlerin yapmış oldukları banka muamele ve hizmetleri dolayısıyla kendi lehlerine her ne nam ile olursa olsun nakden veya hesaben aldıkları paralar (kendileri veya başkaları hesabına menkul kıymet alıp satmayı, alım-satıma tavassut etmeyi veya alıp sattıkları menkul kıymet karşılığı borçları ödemeyi taahhüt etmeyi meslek haline getirenlerin bu faaliyetleri dolayısıyla lehlerine kalan paralar ile mevduat faizi vermek veya sair adlarla faiz ve benzeri menfaatler sağlamak üzere devamlı olarak para toplama işiyle uğraşanların topladıkları paralara sağladıkları gelir ve menfaatler üzerinden komisyon, ücret, hizmet karşılığı gibi adlarla aldıkları paralar dahil) da banka muameleleri vergisine tabidir." hükmü, üçüncü fıkrasında ise, "90 sayılı Kanun Hükmünde Kararnameye göre ikraz işleriyle uğraşanlarla ikinci fıkrada belirtilen muamele ve hizmetlerden herhangi birini esas iştigal konusu olarak yapanlar buKanunun uygulamasında banker sayılırlar." hükmü yer almaktadır.
+Konuya ilişkin 87 Seri No.lu Gider Vergileri Genel Tebliğinin "6802 Sayılı Kanunun 28 inci Maddesinin İkinci Fıkrasında Belirtilen Muamele ve Hizmetleri Esas İştigal Konusu Olarak Yapanlar" başlıklı B-2- bölümünde; "Emeklilik yatırım fonları, menkul kıymet yatırım fon ve ortaklıkları, aracı kurumlar, portföy yönetim şirketleri, vadeli işlem aracılık şirketleri ile merkezi kayıt kuruluşu ve vadeli işlem ve opsiyon borsası gibi kuruluşlar, 2499 sayılı Sermaye Piyasası Kanununun 32 nci maddesinin verdiği yetki ve izin çerçevesinde menkul kıymetlere ilişkin
+
+işlemleri esas faaliyet konusu olarak yapmaktadırlar. Bunların 6802 sayılı Kanunun 28 inci maddesinin ikinci fıkrasında belirtilen işlemleri BSMVye tabi olacaktır.
+Buna göre, 6802 sayılı Kanunun 28 inci maddesinin ikinci fıkrasında belirtilen işlemleri esas iştigal konusu olarak yapanlar, bu işlemleri ilgili kanunlarla yetkilendirilmek veya izin verilmek suretiyle yürüten kişileri ifade etmektedir. Dolayısıyla bunların 6802 sayılı Kanunun 28 inci maddesinin ikinci fıkrasında belirtilen işlemleri 'esas iştigal konusu' olarak BSMV ye tabi olacak, bunlar dışındakilerin aynı fıkrada belirtilen işlemleri 'esas iştigal konusu' olmadığından KDV ye tabi olacaktır." açıklamaları yer almaktadır.
+Ayrıca, 1/9/1998 tarihli ve 23450 sayılı Resmi Gazetede yayımlanan 98/11591 sayılı Bakanlar Kurulu Kararının l/b maddesi uyarınca, bankalar ile 2499 sayılı Kanuna göre kurulan aracı kurumlar arasındaki borsa para piyasası muameleleri sonucu lehe alınan paralar %1 oranında BSMV'ye tabi bulunmaktadır.
+Yukarıda yer alan hüküm ve açıklamalara göre; aracı kurum olarak faaliyet gösteren şirketiniz banker kapsamında BSMV mükellefi olup, şirketinizin 6802 sayılı Kanunun 28 inci maddesinin ikinci fıkrasında belirtilen işlemler nedeniyle lehe aldığı paralar BSMV'ye tabi bulunmaktadır. Bu kapsamda, müşteri hesaplarından veya kendi özvarlıklarınızdan oluşan nakit fazlalarının Takasbank'ta değerlendirilmesine ilişkin borsa para piyasası işlemleri sonucunda Takasbank tarafından şirketinize aktarılan faiz tutarları üzerinden 98/11591 sayılı Bakanlar Kurulu Kararı uyarınca % 1 oranında BSMV hesaplanması gerekmektedir.
+Öte yandan, müşterilerinize ödenen faiz tutarları, müşterilerinizce yatırım amaçlı tutulan nakdi varlıkların nemalandırılması suretiyle elde edilen gelir mahiyetinde olduğundan, banker kapsamında BSMV mükellefi olan yatırım fonuna veya diğer müşterilere aktardığınız tutarların bu kişiler tarafından esas iştigal konusu kapsamında elde edilmediği değerlendirilmektedir. Dolayısıyla, şirketinizce aktarılan faiz tutarları üzerinden yatırım fonları veya banka ve sigorta şirketleri dışındaki müşterileriniz tarafından BSMV hesaplanmasına gerek bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+.

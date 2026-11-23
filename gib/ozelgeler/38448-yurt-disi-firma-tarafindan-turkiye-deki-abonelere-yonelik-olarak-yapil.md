@@ -1,0 +1,33 @@
+---
+tur: Özelge
+gib_id: 38448
+baslik: "Yurt dışı firma tarafından Türkiye'deki abonelere yönelik olarak yapılan haberleşme hizmeti ile bu hizmete ilişkin olarak şirket tarafından yurt dışındaki firmaya verilen aracılık hizmeti fon kesintisine tabi tutulacak işlemler arasında yer almadığından,"
+tarih: 2007-11-14
+sayi: "B.07.1.GİB.0.02.68./6802-2"
+kanun: "4684 BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/502/ozelge/38448
+gib_guncelleme: 2025-03-24T23:02:24
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yurt dışı firma tarafından Türkiye'deki abonelere yönelik olarak yapılan haberleşme hizmeti ile bu hizmete ilişkin olarak şirket tarafından yurt dışındaki firmaya verilen aracılık hizmeti fon kesintisine tabi tutulacak işlemler arasında yer almadığından,
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI : B.07.1.GİB.0.02.68./6802-2
+KONU: K.K.D.F.
+
+.............GPS, GSM MOBİL HABERLEŞME İNTERNET
+TEKNOLOJİSİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.
+.......................
+
+İlgi: ............ tarih ve .............. sayılı yazınız.
+İlgide kayıtlı yazınızda, .......... Emirlikleri / ..........i'den yönetilen bir uydu üzerinden sağlanan el uydu haberleşme telefon hizmetlerine aracılık ederek Türkiye temsilcisi sıfatıyla çalıştığınız ifade edilmekte ve yurt dışından verilen bu hizmete ilişkin olarak yurt dışı firma tarafından şirketinize tek bir fatura kesildiği, şirketinizin de bu konuşma ücretlerini abonelerin her birine kestiği faturalar ile tahsil ettikten sonra tahsil edilen konuşma ücretlerini yurt dışındaki firmaya transfer ettiği belirtilerek, yurt dışına transfer edilen söz konusu fatura bedeli üzerinden kaynak kullanımını destekleme fonu kesintisi yapılıp yapılmayacağı hususunda Başkanlığımız görüşünün bildirilmesi istenilmektedir.
+Bilindiği üzere, 12.05.1988 tarih ve 88/12944 sayılı Kararnameye İlişkin Kaynak Kullanımını Destekleme Fonu Hakkında 6 Sıra Nolu Tebliğde; kabul kredili, vadeli akreditif ve mal mukabili ödeme şekillerine göre yapılan ithalatın % 3 oranında kaynak kullanımını destekleme fonu kesintisine tabi olduğu hükme bağlanmıştır.
+Buna göre, yurt dışı firma tarafından Türkiye'deki abonelere yönelik olarak yapılan haberleşme hizmeti ile bu hizmete ilişkin olarak şirketinizce yurt dışındaki firmaya verilen aracılık hizmeti fon kesintisine tabi tutulacak işlemler arasında yer almadığından, söz konusu firmaya gönderilen konuşma ücretlerinden kaynak kullanımını destekleme fonu kesintisi yapılmasına gerek bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+Başkan a.

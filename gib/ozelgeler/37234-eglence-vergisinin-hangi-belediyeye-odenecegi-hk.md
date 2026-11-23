@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 37234
+baslik: "Eğlence vergisinin hangi belediyeye ödeneceği hk."
+tarih: 2015-04-24
+sayi: "97895701-175.02[17-2014/7.1.24.3483]-50998"
+kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/37234
+gib_guncelleme: 2025-03-24T20:50:17
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Eğlence vergisinin hangi belediyeye ödeneceği hk.
+
+**İlgili maddeler:** Madde 17 Eğlence Vergisi Konu:
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | 97895701-175.02[17-2014/7.1.24.3483]-50998 | 24/04/2015
+Konu | : | Eğlence vergisinin hangi belediyeye ödeneceği hakkında
+
+İlgide kayıtlı özelge talep formunuzda, şirket olarak sinema salonu işlettiğiniz belirtilerek sinema bileti satışlarından dolayı 2464 sayılı Belediye Gelirleri Kanununun 21 inci maddesi hükmü gereğince hesaplanan eğlence vergisinin işletmenizin bulunduğu ilçe belediyesine mi yoksa büyükşehir belediyesine mi ödeneceği hususunda Başkanlığımız görüşü sorulmaktadır.
+2464 sayılı Belediye Gelirleri Kanununun 17 nci maddesinde, "Bu Kanunun 21 inci maddesinde belirtilen ve belediye sınırları ile mücavir alanlar içinde yer alan eğlence işletmelerinin faaliyetleri Eğlence Vergisine tabidir." hükmü yer almaktadır.
+Aynı Kanunun 22 nci maddesinde ise, "1. Vergi biletle girilen yerlerde bilet bedellerine eklenmek suretiyle hesaplanır ve belediye tarafından özel damga konulması sırasında ödenir. Bu suretle alınan biletlerin kullanılmadan iadesi halinde peşin olarak ödenen vergi geri verilir.
+...
+2. Müşterek bahislerde her aya ait vergi o ayı takip eden ayın 20 nci günü akşamına kadar ilgili belediyeye bir beyanname ile bildirilir ve aynı sürede ödenir.
+3. Biletle girilmesi zorunlu olmayan eğlence yerlerinde her aya ait vergi o ayı takip eden ayın 20 nci günü akşamına kadar ilgili belediyeye yatırılır." hükmüne yer verilmiştir.
+Öte yandan, 5216 sayılı Büyükşehir Belediyesi Kanununun 23 üncü maddesinin birinci fıkrasının (d) bendinde, büyükşehir belediyesine bırakılan sosyal ve kültürel tesisler, spor, eğlence ve dinlenme yerleri ile yeşil sahalar içinde tahsil edilecek her türlü belediye vergi, resim ve harçlar büyükşehir belediyesinin gelirleri arasında sayılmış bulunmaktadır.
+Buna göre, şirketinizin işlettiği sinema salonuyla ilgili olarak sinema bileti satışı nedeniyle hesaplanacak eğlence vergisinin; söz konusu sinema salonunun büyükşehir belediyesine bırakılan sosyal ve kültürel tesisler, eğlence ve dinlenme yerleri arasında olması halinde büyükşehir belediyesince tahsil edilmesi; anılan yerler arasında bulunmaması halinde ise sınırları içerisinde bulunduğu ilçe belediyesince tahsil edilmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

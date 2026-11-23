@@ -1,0 +1,16 @@
+---
+tur: Özelge
+gib_id: 37893
+baslik: "Basit usule tabi mükelleflerin kullanmış oldukları belgelerin vergi dairesi ve inceleme elemanlarınca takibi ve yapılacak vergi incelemelerinde bu bilgilerden yararlanma ihtiyaçlarının ortaya çıkması halinde belgelerin ibrazı cari yıl içinde bürolardan, m"
+tarih: 1999-10-05
+sayi: "B.07.GEL.0.44/4425-182/041839"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/37893
+gib_guncelleme: 2025-03-24T22:32:32
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Basit usule tabi mükelleflerin kullanmış oldukları belgelerin vergi dairesi ve inceleme elemanlarınca takibi ve yapılacak vergi incelemelerinde bu bilgilerden yararlanma ihtiyaçlarının ortaya çıkması halinde belgelerin ibrazı cari yıl içinde bürolardan, m
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 05.10.1999 SAYI : B.07.GEL.0.44/4425-182/041839 KONU : Mükelleflerin kullanmış oldukları belgelerin takibi ve yapılacak vergi incelemeleri hk. ESKİŞEHİR VALİLİĞİNE (Defterdarlık : Gelir Müdürlüğü'ne) İLGİ : 09.04.1999 tarihli ve B.07.4.DEF.0.26.10/29-2/2286 sayılı yazınız. İlgide kayıtlı yazınızın incelenmesinden; mükelleflerin kullanmış oldukları belgelerin vergi dairesi ve inceleme elemanlarınca takibi ve yapılacak vergi incelemelerinde bu bilgilerden yararlanması için iptal tutanaklarının birer örneklerinin mükelleflerin tarh dosyalarında saklanmak üzere gönderilmesinin istenildiği anlaşılmıştır. Bilindiği üzere; 215 seri No.lu Gelir Vergisi Genel Tebliğinin 3.8. no.lu "Muhafaza ve İbraz Yükümlülüğü" başlıklı bölümünde; "27. Basit usulde vergilendirilen mükelleflerin, bir takvim yılı içinde aldıkları mallara ve hizmetlere ait alış belgeleri ve yaptıkları giderler ile hasılat belgeleri kayıtlarının tutulduğu bürolarda muhafaza edilecektir. Cari takvim yılına ilişkin belgelerin ibrazı da bu bürolardan talep edilecektir. 28. Cari takvim yılı kayıtlarının tutulması ve vergilendirmeyle ilgili tüm ödevler bürolarca yerine getirilecektir. Yıllık beyannamenin verilmesinden sonra o yıla ilişkin belgeler muhafaza edilmek üzere mükellefe teslim edilecektir. Teslim alınan belgeler, ilgili bulundukları yılı takip eden takvim yılı başından başlayarak 5 yıl süre ile mükelleflerce muhafaza edilecektir." şeklinde düzenlemeler yer almaktadır. Buna göre, basit usule tabi mükelleflerin kullanmış oldukları belgelerin vergi dairesi ve inceleme elemanlarınca takibi ve yapılacak vergi incelemelerinde bu bilgilerden yararlanma ihtiyaçlarının ortaya çıkması halinde yukarıda yer alan düzenlemelere göre belgelerin ibrazı cari yıl içinde bürolardan, müteakip yıllarda ise mükelleflerden talep edilecektir. Diğer taraftan, vergi dairesine işi terk dilekçesi veren mükellefler kullanılmamış olarak ellerinde bulunan belgeleri teslim aldıkları odalara veya birliğe ibraz edeceklerdir. Belgeler oda veya birliklerce iptal edilecektir. Öte yandan; işini terk edenlerden söz konusu belgeleri ibraz edemeyenler ile eksik belge ibraz edenler veya belgelerini kaybettiğini bildiren mükellefler hakkında, bu hususlarla ilgili oda ve birliklerce düzenlenen tutanak ilgili vergi dairesine gönderilecektir. Vergi dairesince bu mükellefler hakkında ikinci sınıf mükelleflere uygulanan şekilde işlem yapılacaktır. Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim. Bakan a.

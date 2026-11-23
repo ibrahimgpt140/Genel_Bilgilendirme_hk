@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 30029
+baslik: "Kurum ve kuruluşların kendileri değil de, bunlara ait iktisadi işletmelerine dahil bulunan gayrimenkullerin kendi personeline bile olsa bedel karşılığı kiraya verilmesi halinde katma değer vergisi uygulanacağı tabiidir."
+tarih: 1997-05-28
+sayi: "B.07.0.GEL.0.55-5501-2636/22137"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/30029
+gib_guncelleme: 2025-03-24T19:57:31
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kurum ve kuruluşların kendileri değil de, bunlara ait iktisadi işletmelerine dahil bulunan gayrimenkullerin kendi personeline bile olsa bedel karşılığı kiraya verilmesi halinde katma değer vergisi uygulanacağı tabiidir.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 3 Teslim Sayılan Haller; Madde 17
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 28.05.1997 SAYI : B.07.0.GEL.0.55-5501-2636/22137 KONU : Bazı kurum ve kuruluşların kendilerine değil de iktisadi işletmelerine ait gayrimenkullerini personeline bedel karşılığı kiraya verilmesinde K.D.V. hesaplanıp hesaplanmayacağı hk. SAKARYA VALİLİĞİNE (Defterdarlık: Gelir Müdürlüğü) ..... tarafından Bakanlığımıza verilen 23.1.1997 tarihli dilekçe incelenmiş ve bir örneği ilişikte gõnderilmiştir. Bilindiği üzere, 3065 sayılı Katma Değer Vergisi Kanunun 1/1 inci maddesi uyarınca Türkiye'de yapılan ticari, sınai, zirai ve serbest meslek faaliyeti kapsamındaki teslim ve hizmetler katma değer vergisine tabi olup, bu faaliyetlerin aynı maddenin 3/g bendinde sayılan kurum ve kuruluşlarca yapılması durumu değiştirmemektedir. İktisadi işletmelere dahil olan gayrimenkullerin kiraya verilmesi karşılığı elde edilen bedeller ticari kazanç hükümlerine göre işletmenin hasılatı olarak katma değer vergisine tabi bulunmaktadır. Ancak, iktisadi işletmelere dahil lojmanların sadece kendi personeline bedelsiz tahsisi katma değer vergisine tabi tutulmamakta, konuya ilişkin olarak 9 Seri No.lu Katma Değer Vergisi Genel Tebliğinde gerekli açıklamalar yapılmış bulunmaktadır. Dolayısıyla iktisadi işletme niteliği taşıyan ..... A.Ş.'ne ait gayrimenkullerin, personeline bedel karşılığı kiraya verilmesi katma değer vergisinde tabi bulunmaktadır. Diğer taraftan, Kanunun 17/4-d maddesi uyarınca "iktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri" katma değer vergisinden istisna olup, iktisadi işletme niteliği taşımayan kurum ve kuruluşlara ait binaların lojman olarak tahsisi karşılığı alınan bedeller için, bu madde hükmü uyarınca katma değer vergisi hesaplanmamaktadır. Buna karşılık, bu kurum ve kuruluşların kendileri değil de, bunlara ait iktisadi işletmelerine dahil bulunan gayrimenkullerin kendi personeline bile olsa bedel karşılığı kiraya verilmesi halinde katma değer vergisi uygulanacağı tabiidir. Bilgi edinilmesini ve durumun mükellef dilekçesindeki iddialar çerçevesinde ince lenerek gereğini rica ederim. Bakan a. Daire Başkanı

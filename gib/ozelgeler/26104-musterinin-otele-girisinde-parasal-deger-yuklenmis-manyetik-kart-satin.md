@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 26104
+baslik: "Müşterinin otele girişinde parasal değer yüklenmiş manyetik kart satın alması halinde bu kart karşılığında fatura veya perakende satış vesikasının düzenlenmesi gerekmektedir."
+tarih: 1997-10-10
+sayi: "B.07.0.GEL.0.65/6527-122-43393"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/26104
+gib_guncelleme: 2025-03-24T19:41:21
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Müşterinin otele girişinde parasal değer yüklenmiş manyetik kart satın alması halinde bu kart karşılığında fatura veya perakende satış vesikasının düzenlenmesi gerekmektedir.
+
+**İlgili maddeler:** Madde 229 Faturanın Tarifi; Madde 232 Fatura Kullanma Mecburiyeti
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 10.10.1997 SAYI : B.07.0.GEL.0.65/6527-122-43393 KONU : Müşteri harcamalarının belgelendiril- mesinde manyetik kartın V.U.K. karşı- sındaki durumu hk. ..................... VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) İLGİ: ..................... gü n ve ..................... sayılı yazınız. Yazınızdan, ..... Anonim Şirketinin otel işletmelerinde, müşterilerinin günlük ekstra harcamalarının belgelendirilmesinde manyetik kart kullanılmasının Vergi Usul ve diğer Kanunlara uygun olup olmadığı konusunda tereddüde düşüldüğü anlaşılmaktadır. Bilindiği gibi, Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında 3100 sayılı Kanunla ilgili olarak yayımlanmış bulunan 49 Seri No.lu Genel Tebliğin 5. bölümünde, münhasıran günlük müşteri listesinde kayıtlı müşterilerine hizmet veren otel, motel ve pansiyon işletmecileri, faaliyetleri ile ilgili olarak Vergi Usul Kanununun ilgili hükümlerinde belirtilen fatura veya perakende satış fişlerini düzenlemeleri şartıyl a ödeme kaydedici cihazları kullanma mecburiyetinin dışında bırakılmışlardır. Buna göre, münhasıran günlük müşteri listesinde kayıtlı müşterilerine hizmet veren, otel, motel ve pansiyon işletmecilerinin bu hizmetlerini Vergi Usul Kanununun ilgili hükümlerinde belirtilen fatura veya perakende satış fişleri ile belgelendirmeleri şartıyla ödeme kaydedici cihaz kullanma mecburiyetleri bulunmamaktadır. Öte yandan, 213 sayılı Vergi Usul Kanununun 229 uncu maddesinde "Fatura satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesikadır." hükmü yer almıştır. Yine aynı Kanunun 232 nci maddesinde, sattıkları veya yaptıkları işler için fatura vermek ve fatura almak zorunda olanlar hüküm altına alınmıştır. Buna göre, müşterinin otele girişinde parasal değer yüklenmiş manyetik kart satın alması halinde bu kart karşılığında fatura veya perakende satış vesikasının düzenlenmesi gerekmektedir. Ancak, kartın tamamının harcanmaması halinde kalan miktarın oteli terk ederken müşterinin başka hizmetler karşılığında alacağı faturadan mahsup edilmesi mümkün bulunmaktadır. Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim. Bakan a. Daire Başkanı

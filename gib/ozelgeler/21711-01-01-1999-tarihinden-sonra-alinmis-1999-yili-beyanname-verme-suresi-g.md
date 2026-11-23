@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 21711
+baslik: "01.01.1999 tarihinden sonra alınmış (1999 yılı beyanname verme süresi geçmeyen) yatırım teşvik belgesi kapsamında, 2000 yılında yapılması öngörülen yatırım harcamaları üzerinden hesaplanan yatırım indirimi tutarı, 1999 yılına ilişkin yıllık beyannamede di"
+tarih: 2000-06-23
+sayi: "B.07.0.GEL.0.45/4500/30417"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21711
+gib_guncelleme: 2025-03-24T19:28:51
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 01.01.1999 tarihinden sonra alınmış (1999 yılı beyanname verme süresi geçmeyen) yatırım teşvik belgesi kapsamında, 2000 yılında yapılması öngörülen yatırım harcamaları üzerinden hesaplanan yatırım indirimi tutarı, 1999 yılına ilişkin yıllık beyannamede di
+
+**İlgili maddeler:** Ek Madde 1 Yatırım İndiriminin Mahiyeti
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 23.06.2000 SAYI : B.07.0.GEL.0.45/4500/30417 KONU : 2000 yılında yapılması öngörülen yatırım harcamaları tutarının 1999 yılı için verilecek be yannamede yatırım indirimi istisnasına konu edilip edilemeyeceği hk. ................... İLGİ : 27.01.2000 gün ve Nok-2000/0269 sayılı dilekçeniz. Dilekçenizde, 01.01.1999-30.04.1999 tarihleri arasında alınan yatırım teşvik belgenizde yapılması zorunlu hale gelmiş ilave yatırımların revize işlemi yapılmış olması şartıyla, yapılacak artırım kadar 2000 yılında yapılması öngörülen yatırım harcamaları tutarının 1999 yılı için verilecek beyannamede yatırım indirimi istisnasına konu edilip edilemeyeceği hak k ında Bakanlığımız görüşü istenilmektedir. Bilindiği gibi, 193 sayılı Gelir Vergisi Kanununun 4369 sayılı Kanunun 30 uncu maddesiyle değiştirilen Ek 1 inci maddesi hükmü uyarınca mükelleflerin yatırım indiriminden faydalanması kabul edilmiş bulunan yatırımları kapsamında müteakip vergilendirme döneminde yapmayı öngördükleri yatırım harcamaları üzerinden hesaplanacak yatırım indirimi tutarları ilgili harcamalardan indirilebilecektir. Bu kapsamda, 01.01.1999 tarihinden sonra alınmış (1999 yılı beyanname verme süresi geçmeyen) yatırım teşvik belgesi kapsamında, 2000 yılında yapılması öngörülen yatırım harcamaları üzerinden hesaplanan yatırım indirimi tutarı, 1999 yılına ilişkin yıllık beyannamede dikkate alınabilecektir. Üzerinden yatırım indirimi hesaplanaca k öngörülen harcama tutarı, yatırım teşvik belgesine göre belirlenen, yatırım indiriminden yararlanacak iktisadi kıymetler için yapılacak harcama tutarları dikkate alınarak belirlenmesi gerekmektedir. Bilgi edinilmesini rica ederim. Bakan a.

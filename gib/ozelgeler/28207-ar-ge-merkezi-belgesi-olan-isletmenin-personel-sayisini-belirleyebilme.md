@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 28207
+baslik: "Ar-Ge Merkezi Belgesi Olan İşletmenin Personel Sayısını Belirleyebilme Dönemi"
+tarih: 2018-02-07
+sayi: "B.07.1.GİB.4.10.15.01-125.10.01[882/2017]-14324"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/28207
+gib_guncelleme: 2025-03-24T19:49:58
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ar-Ge Merkezi Belgesi Olan İşletmenin Personel Sayısını Belirleyebilme Dönemi
+
+**İlgili maddeler:** Madde 10 Diğer indirimler; Madde 3 İndirim, istisna, destek ve teşvik unsurları (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BALIKESİR VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | 46480499-125.10.01[882/2017]-14324 | 07.02.2018
+Konu | : | Ar-Ge Merkezi Belgesi Olan İşletmenin Personel Sayısını Belirleyebilme Dönemi
+
+İlgi | : | 05/09/2017 tarihli özelge talep formunuz.
+
+İlgide kayıtlı özelge talep formunda, 09.05.2017 tarihinde Ar-Ge Merkezi Belgesi aldığınız ve Ar-Ge Merkezlerine tanınan teşviklerden yararlanabilmek için 15 tam zaman eşdeğer personeli çalıştırmanızın gerekli olduğu, ancak bu personel sayısını kuruluş döneminiz olan Mayıs ayında temin edemediğiniz, gerekli personel sayısına Haziran ayında ulaştığınız, 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun ile Ar-Ge faaliyetlerine tanınan teşviklerden yararlanabilmek için personel sayısında üçer aylık dönemlerin dikkate alındığı belirtilerek, bu üçer aylık dönemlerin ne zaman başlayacağı hakkında Başkanlığımız görüşü talep edilmektedir.
+
+5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun 4 üncü maddesinin 3 üncü fıkrasında, "Asgari Ar-Ge veya tasarım personeli sayısının hesabında fiilen ve tam zamanlı olarak çalışan personelin üçer aylık dönemler itibarıyla ortalaması esas alınır." hükmüne yer verilmiştir.
+
+10.08.2016 tarih ve 29797 sayılı Resmi Gazete'de yayımlanan Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve Denetim Yönetmeliğinin "Tam zaman eşdeğer Ar-Ge veya tasarım personel sayısı hesabına ilişkin hususlar" başlıklı 23 üncü maddesinde;
+
+"(1) Ar-Ge veya tasarım merkezinde çalışan tam zaman eşdeğer Ar-Ge veya tasarım personeli sayısı; çalışan personelin, çalışma sürelerine göre üçer aylık dönemler itibarıyla toplam çalışma süresinin, bir kişinin üç aylık tam zamanlı çalışma süresine bölünmesi suretiyle hesaplanır. Haftada kırk beş saatin üzerindeki ve ek çalışma süreleri bu hesaplamada dikkate alınmaz. Üçer aylık dönemler, Ar-Ge veya tasarım merkezini bünyesinde bulunduran işletmenin geçici vergilendirme dönemleridir." açıklamasına yer verilmiştir.
+
+Yukarıda yapılan hüküm ve açıklamalara göre, adı geçen Kanun kapsamında gelir vergisi stopajı teşvikinden faydalanabilecek ar-ge personeli sayısının belirlenmesinde, bünyesinde Ar-Ge Merkezi bulunan işletmenizin geçici vergi dönemlerinin dikkate alınması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

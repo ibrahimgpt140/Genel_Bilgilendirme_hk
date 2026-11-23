@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 36310
+baslik: "İlgililerin iradesi dışında tasfiye nedeniyle yurtdışından Türkiye'ye zorunlu olarak aktarılan bir mevduat olduğundan, bu mevduatın (malın) veraset ve intikal vergisinin uygulaması açısından Türkiye'de bulunan bir mevduat (mal) olarak değerlendirilmemesi,"
+tarih: 2003-07-28
+sayi: "B.07.0.GEL.0.60/6004-808/32598"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36310
+gib_guncelleme: 2025-03-24T20:34:19
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İlgililerin iradesi dışında tasfiye nedeniyle yurtdışından Türkiye'ye zorunlu olarak aktarılan bir mevduat olduğundan, bu mevduatın (malın) veraset ve intikal vergisinin uygulaması açısından Türkiye'de bulunan bir mevduat (mal) olarak değerlendirilmemesi,
+
+**İlgili maddeler:** Madde 1 Verginin mevzuu; Madde 2 Kanunda kullanılan tabirler
+
+T.C.MALİYE BAKANLIĞIGelirler Genel Müdürlüğü
+SAYI : B.07.0.GEL.0.60/6004-808 ANKARA
+KONU :
+................VALİLİĞİNE(Defterdarlık: Vasıtalı Vergiler Gelir Müdürlüğü)
+İLGİ: ....................... gün ve ....................................... sayılı yazınız.
+İlgide kayıtlı yazınızda, ................. ile eşi .............'in ................'da müşterek hesap açtırdığı, ...............'in vefatı üzerine mirasçısı ve hesap ortağı eşi ..................'in hesapta bulunan tutarının .........bank .......'ın .............'da tasfiye halinde olması nedeniyle tüm mevduatın banka müşterisinin iradesi dışında Türkiye sınırları içerisinde bulunan ............bank Anonim Şirketine, ....................bank Anonim Şirketinin kapanmasıyla da ...........bank Anonim Şirketine oradan da ............bank ............ Şubesine devrolunduğu bildirilmektedir. Yazınızda ayrıca, hesap sahipleri tarafından ............. ...........bank ...........'de açtırılan ve banka müşterisinin iradesi dışında İliniz .............bank Güneşli Şubesine aktarılan mevduatın ............'daki banka hesabına transfer edilmesinin veraset ve intikal vergisi kapsamına girmeyeceği düşünüldüğü belirtilerek, konu hakkındaki Bakanlığımız görüşünün bildirilmesi istenilmektedir.
+Bilindiği üzere, 7338 sayılı Veraset ve İntikal Vergisi Kanununun 1'inci maddesiyle, Türkiye Cumhuriyeti tabiiyetinde bulunan şahıslara ait mallar ile Türkiye'de bulunan malların veraset tarikiyle veya herhangi bir suretle olursa olsun ivazsız bir tarzda bir şahıstan diğer şahsa intikali veraset ve intikal vergisine tabi olduğu hükme bağlanmıştır.
+Aynı Kanunun 2'nci maddesinin (b) fıkrasında da, "Mal" tabiri; mülkiyete mevzu olabilen menkul ve gayrimenkul şeylerle mameleke girebilen sair bütün hakları ve alacakları ifade ettiği belirlenmiştir.
+Bu hükümlere göre, Türkiye Cumhuriyeti tabiyetinde bulunan şahıslara ait mallar ile Türkiye'de bulunan malların veraset yoluyla veya her ne suretle olursa olsun ivazsız bir şekilde bir şahıstan diğer şahsa intikalinin veraset ve intikal vergisine tabi tutulması gerekmektedir.
+Ancak, ............. ile eşi ..............'in ........... ........bank ............'de açtırılan ve .........bank ............'in tasfiyesi nedeniyle banka müşterisinin iradesi dışında Türkiye sınırları içinde bulunan ................bank ............ Şubesine devrolunan (en son) mevduat, ilgililer tarafından Türkiye'ye yatırılmış bir mevduat olmayıp, ilgililerin iradesi dışında tasfiye nedeniyle Türkiye'ye zorunlu olarak aktarılan bir mevduat olduğundan, bu mevduatın (malın) veraset ve intikal vergisinin uygulaması açısından Türkiye'de bulunan bir mevduat (mal) olarak değerlendirilmemesi, dolayısıyla ...............bank ............... Şubesinde bulunan ve ................'in mirasçısı ................ hesabına transfer olan para üzerinden veraset ve intikal vergisi alınmaması gerekmektedir.
+Şu kadarki, .............. ile eşi .............. tarafından ............ ........bank ...........'de müşterek olarak açılan hesap, ...........'ın Türkiye'de bulunan merkez veya şubeleri nezdinde açılmış bir hesap ise söz konusu paranın veraset ve intikal vergisine tabi tutulacağı tabiidir.
+Bilgi edinilmesini rica ederim.
+
+Bakan a.

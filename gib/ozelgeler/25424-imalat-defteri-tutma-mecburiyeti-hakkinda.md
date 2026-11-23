@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 25424
+baslik: "İmalat defteri tutma mecburiyeti hakkında."
+tarih: 1997-12-25
+sayi: "B.07.0.GEL.0.29/2914-203-809/61930"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25424
+gib_guncelleme: 2025-03-24T19:39:51
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İmalat defteri tutma mecburiyeti hakkında.
+
+**İlgili maddeler:** Madde 197 İmalat Defteri
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 25.12.1997 SAYI : B.07.0.GEL.0.29/2914-203-809/61930 KONU : İmalat defteri tutma mecburiyeti hk. ..................... VALİLİĞİ (Defterdarlık: Vasıtasız Vergiler Gelir Müdürlüğüne) İLGİ: ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınız incelenmiş olup, gerekli açıklamalar aşağıda yapılmıştır. Bilindiği üzere, 213 sayılı Vergi Usul Kanununun 197 nci maddesinde "I'inci sınıf tüccarlardan devamlı olarak imalat ile uğraşanlar yukarıda yazılı defterlerden gayrı bir (imalat defteri) tutarlar." hükmü yer almaktadır. Ayrıca, 8.1.1996 gün ve 22517 sayılı Resmi Gazete'de yayımlanan 246 sıra numaralı Vergi Usul Kanunu Genel Tebliği ile, muhasebe işlemlerini 1 No'lu Muhasebe Sistemi Uygulama Genel Tebliğinde yer alan 7/A seçeneğine göre izleyen mükelleflerin imalat defteri tutma mecburiyetlerinin 1.1.1996 tarihinden itibaren kaldırıldığı açıklanmış olup, bu hususta izin almak üzere Bakanlığımıza başvurul m asına gerek bulunmadığı açıklanmıştır. Diğer taraftan, söz konusu yazınızda adı geçen mükellefin PVC den üretilmiş hazır profilleri fabrikadan satın alıp menteşe, kol ve vidalarla monte etme işlemlerinin imalat olarak sayılması mümkün bulunmamaktadır. Bu nedenle, adı geçen mükellef imalat defteri tutma zorunda değildir. Bilgi edinilmesini ve gereğini rica ederim. Bakan a. Daire Başkanı

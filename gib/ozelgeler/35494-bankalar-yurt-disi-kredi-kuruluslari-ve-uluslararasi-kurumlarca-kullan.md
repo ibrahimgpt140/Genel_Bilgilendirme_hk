@@ -1,0 +1,33 @@
+---
+tur: Özelge
+gib_id: 35494
+baslik: "Bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin teminatına yönelik Tapu Sicil Müdürlüklerince yapılacak ipotek işlemlerinde tapu harcı ve damga vergisinin tahsil edilip edilmeyeceği, edilmeyecek ise özel finans"
+tarih: 2004-03-13
+sayi: "B.07.0.GEL.0.63/6340-166"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/35494
+gib_guncelleme: 2025-03-24T20:28:22
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin teminatına yönelik Tapu Sicil Müdürlüklerince yapılacak ipotek işlemlerinde tapu harcı ve damga vergisinin tahsil edilip edilmeyeceği, edilmeyecek ise özel finans
+
+**İlgili maddeler:** Madde 30 Noksan tesbit edilen değer üzerinden harcın ödenmesi; Madde 123 Özel kanunlardaki hükümler
+
+T.C.MALİYE BAKANLIĞIGelirler Genel Müdürlüğü
+SAYI:B.07.0.GEL.0.63/6340-166
+KONU:
+........................ BAKANLIĞINA
+........................ GENEL MÜDÜRLÜĞÜ
+(Tasarruf İşlemleri Dairesi Başkanlığı)
+
+İLGİ: ........................ gün ve ........................ sayılı yazınız.
+İlgide kayıtlı yazınızda, bankalar yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin teminatına yönelik Tapu Sicil Müdürlüklerince yapılacak ipotek işlemlerinde tapu harcı ve damga vergisinin tahsil edilip edilmeyeceği, edilmeyecek ise özel finans kurumları ile finansal kiralama şirketlerinin de bu kapsam içinde değerlendirilip değerlendirilemeyeceği hususunda Bakanlığımız görüşü istenilmektedir.
+Bilindiği üzere, 2.1.2004 tarih ve 25334 mükerrer sayılı Resmi Gazete'de yayımlanan 5035 sayılı Kanunun 31 inci maddesi ile 492 sayılı Kanunun 123 üncü maddesinin son fıkrası "Anonim, eshamlı komandit, limited şirketlerin kuruluş, sermaye artırımı, birleşme, devir, bölünme ve nev'i değişiklikleri nedeniyle yapılacak işlemler ile bankalar, yurt dışı kredi kuruluşları ve yapılacak işlemler ile bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödenmelerine ilişkin işlemler harca tabi tutulmaz." şeklinde değiştirilmiştir.
+Aynı Kanununun 30 uncu maddesi ile de 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun "VI.Ticari ve medeni işlerle ilgili kağıtlar" başlıklı bölümünün (23) numaralı fıkrası "Bankalar, yurtdışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve geri ödenmesi amacıyla düzenlenecek kağıtlar ile bu kağıtlar üzerine konulacak şerhler (kredilerin kullanımları hariç)" şeklinde değiştirilmiştir.
+Diğer taraftan, aynı konuyla ilgili olarak 13.1.2004 tarihinde yayımlanan Damga Vergisi Sirküleri/4'de, kullandırılacak bu kredilerde damga vergisi istisnasının ne şekilde uygulanacağı açıklanmış ve "Kanun kapsamındaki kredi tanımına Bankalar Kanununa göre kredi olarak kabul edilen nakdi krediler ile teminat mektupları, kefaletler, aval, ciro ve kabuller gibi gayrinakdi krediler girmektedir. Akreditifler de bu kapsamda değerlendirilmektedir." denilmiştir.
+Ayrıca, Bankacılık Düzenleme ve Denetleme Kurumu ile yapılan yazışma sonucunda alınan cevabi yazıda, özel finans kurumlarının faaliyetlerinin 4389 sayılı Bankalar Kanunu ile düzenlendiği belirtilerek bunların fon toplanmasına ve kullandırılmasına ilişkin kendilerine özgü hususlar dışında bankalarla benzer esaslara göre çalıştıkları ve bu nedenle faaliyetlerini gerçekleştirmeleri sırasında karşılaştıkları belirli maliyetlerin bankalarla eşit olması gerektiği şekilde görüş bildirilmiştir.
+Buna göre, bankalar, özel finans kurumları, yurt dışı kredi kuruluşları ile uluslararası kurumlarca kullandırılacak kredilerin teminatına yönelik olarak bunların lehine yapılacak ipotek işlemlerinde ilgili kredi kuruluşlarından işlemin kredi ile ilgili olduğunun tevsiki koşuluyla damga vergisi ve harç aranılmaması olduğunun tevsiki koşuluyla damga vergisi ve harç aranılmaması gerekmektedir.
+Öte yandan, yukarıda açıklanan kredi kuruluşları kapsamında bulunmayan finansal kiralama şirketlerince kullandırılacak kredilerin 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun VI/(23) numaralı fıkrası ile 492 sayılı Harçlar Kanununun 123 üncü maddesi kapsamında değerlendirilmesi mümkün bulunmamaktadır. Ancak, 3226 sayılı Finansal Kiralama Kanununun finansal kiralama sözleşmeleri ile ilgili vergi, resim ve harç istisnası hükümlerinin gözönünde bulundurulacağı tabiidir.
+Bilgi edinilmesini arz ederim.

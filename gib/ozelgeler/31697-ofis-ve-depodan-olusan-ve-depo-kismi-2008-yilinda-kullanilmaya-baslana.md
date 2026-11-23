@@ -1,0 +1,54 @@
+---
+tur: Özelge
+gib_id: 31697
+baslik: "Ofis ve depodan oluşan ve depo kısmı 2008 yılında kullanılmaya başlanan 2011 yılında da inşaatı tamamlanarak cins tashihi yapılan taşınmazın satışında KDV ve KV istisnası."
+tarih: 2013-06-20
+sayi: "39044742-KDV.17.4-885"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31697
+gib_guncelleme: 2025-03-24T20:04:13
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ofis ve depodan oluşan ve depo kısmı 2008 yılında kullanılmaya başlanan 2011 yılında da inşaatı tamamlanarak cins tashihi yapılan taşınmazın satışında KDV ve KV istisnası.
+
+**İlgili maddeler:** Madde 17
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Katma Değer Vergisi Grup Müdürlüğü
+Sayı | : | 39044742-KDV.17.4-885 | 20/06/2013
+Konu | : | Ofis ve depodan oluşan ve depo kısmı 2008 yılında kullanılmaya başlanan 2011 yılında da inşaatı tamamlanarak cins tashihi yapılan taşınmazın satışında KDV ve KV istisnası.
+
+İlgide kayıtlı özelge talep formunuzda, firmanızın her türlü bilgisayar parçalarının alım-satım faaliyeti ile iştigal ettiği, ... beldesinde 2006/Temmuz ayında arsa satın alındığı, söz konusu arsa üzerinde 2007/Haziran ayında ofis ve depodan oluşan tek binanın inşaatına başlandığı, 2008/Nisan ayı içerisinde depo kısmının tamamlanarak kullanılmaya başlandığı ve bu kısım ile ilgili olarak ek işyeri açılışı ve tescil işlemlerinin gerçekleştirildiği, ayrıca 5/2/2008 tarihinde de belediyeden işyeri açma ve çalışma ruhsatının alındığı, 2010/Mayıs ayında bina inşaatına ilişkin yapı ruhsatının alındığı, söz konusu bina inşaatına ilişkin belediye tarafından 22/8/2011 tarihli iş bitirme tutanağının düzenlendiği, 2011/Kasım ayında yapı kullanma izin belgesinin alındığı, 14/12/2011 tarihinde tapuda cins tashihinin yapılarak 15/12/2012 tarihinde tapu senedinin hazırlandığı belirtilerek, söz konusu taşınmazın satışı durumunda elde edilecek kazancın kurumlar vergisi ve katma değer vergisinden istisna tutulup tutulamayacağı sorulmaktadır.
+Kurumlar Vergisi Kanunu Açısından:
+5520 sayılı Kurumlar Vergisi Kanununun "İstisnalar" başlıklı 5 inci maddesinin birinci fıkrasının (e) bendinde; kurumların, en az iki tam yıl süreyle aktiflerinde yer alan taşınmazlar ve iştirak hisseleri ile aynı süreyle sahip oldukları kurucu senetleri, intifa senetleri ve rüçhan haklarının satışından doğan kazançların %75 lik kısmının kurumlar vergisinden istisna olduğu, bu istisnanın, satışın yapıldığı dönemde uygulanacağı ve satış kazancının istisnadan yararlanan kısmının satışın yapıldığı yılı izleyen beşinci yılın sonuna kadar pasifte özel bir fon hesabında tutulacağı, satış bedelinin, satışın yapıldığı yılı izleyen ikinci takvim yılının sonuna kadar tahsil edilmesinin şart olduğu, bu süre içinde tahsil edilmeyen satış bedeline isabet eden istisna nedeniyle zamanında tahakkuk ettirilmeyen vergilerin ziyaa uğramış sayılacağı hükme bağlanmıştır.
+Konuyla ilgili olarak 1 Seri No.lu Kurumlar Vergisi Genel Tebliğinin "5.6.2.2.1 Taşınmazlar" başlıklı bölümünde;
+"Elden çıkarılacak taşınmazlardan doğacak kazancın, bu istisna uygulamasına konu olabilmesi için taşınmazın Türk Medeni Kanununun 705 inci maddesi gereğince kurum adına tapuya tescil edilmiş olması gerekmektedir. Bu nedenle, ilgili kurum adına tapuya tescili yapılmamış bir binanın satışından doğan kazanca bu istisna uygulanmayacaktır.
+Fiiliyatta cins tashihinin kurum adına tapuya tescilinin yapılmasında çeşitli nedenlerle gecikmeler olabilmektedir. Bu gibi durumlarda, taşınmazın işletme aktifinde iki yıl süreyle bulunup bulunmadığının, tespitinde, işletmede iki yıldan fazla süreyle sahip olunarak fiilen kullanıldığının, yapı inşaatı ruhsatı, vergi dairesi tespiti veya resmi kurum kayıtlarından birisi ile tevsik edilebilmesi mümkün olabilecektir.
+Örneğin; organize sanayi bölgeleri tarafından verilen tahsis belgesine istinaden veya çeşitli nedenlerle iki yıldan fazla süreyle fiilen kullanılan ancak, tapuda kurum adına henüz tescil edilmemiş bir taşınmazın tahsis belgesine dayanılarak veya zilyetliğin devri suretiyle satılması durumunda bir taşınmaz satışından bahsedilemeyeceğinden istisna uygulanmayacak, ancak, iki tam yıl kullanıldığı yukarıda yer alan açıklamalar çerçevesinde tevsik edilen taşınmazın tapuda kurum adına tescil edildikten sonra satılması halinde, satıştan elde edilen kazançlar bu istisna kapsamında değerlendirilecektir." açıklamalarına yer verilmiştir.
+Aynı Tebliğin "5.6.2.3.1.3. İnşa halindeki binalarda 2 yıllık sürenin tespiti" bölümünde de;
+"Kurumlar tarafından, inşaatı henüz tamamlanmayan, fiilen kullanma imkanı da bulunmayan binaların satılması halinde; kurum aktifinde iki tam yıl kayıtlı olması koşuluyla, sadece binanın arsasının satış kazancına tekabül eden kısmı kurumlar vergisinden istisna olacaktır.
+Ancak, arsa üzerinde inşa edilen ve aktife kaydedilen binanın, kurum adına tapuya tescil edilerek satılması halinde, satılan binanın iki yıllık aktifte bulundurulma süresinin başlangıç tarihi olarak, inşaatın tamamlandığı ve bina olarak kullanılmaya başlandığı tarih esas alınacaktır."açıklamalarına yer verilmiş olup;
+"5.6.2.3.4. Menkul kıymet veya taşınmaz ticareti ile uğraşılmaması" başlıklı bölümünde;
+"Menkul kıymet veya taşınmaz ticareti ve kiralanmasıyla uğraşan kurumların bu amaçla ellerinde bulundurdukları istisna kapsamındaki değerlerin satışından elde ettikleri kazançlar istisna kapsamı dışındadır.
+İstisna uygulaması esas itibarıyla bütün kurumlar için geçerlidir. Ancak, faaliyet konusu menkul kıymet veya taşınmaz ticareti ve kiralanması olan kurumların bu amaçla iktisap ettikleri ve ellerinde tuttukları kıymetlerin satışından elde ettikleri kazançlar için istisnadan yararlanmaları mümkün değildir.
+Satışa konu edilen kıymetlerin iki tam yıl kurum aktifinde kayıtlı olması da durumu değiştirmeyecektir. Aynı durum, satmak üzere taşınmaz inşaatı ile uğraşan mükellefler açısından da geçerlidir. Ancak, taşınmaz ticareti ile uğraşan mükelleflerin faaliyetlerinin yürütülmesine tahsis ettikleri taşınmazların satışından elde ettikleri kazançlara istisna uygulanabilecek; taşınmaz ticaretine konu edilen veya kiralama ya da başka surette değerlendirilen taşınmazların satış kazancı ise istisnaya konu edilmeyecektir." açıklamaları yer almaktadır.
+Diğer taraftan şirket ana sözleşmesinin "Amaç ve Konu" başlıklı 3 üncü maddesinde;
+"Şirket; bilgisayar, bilgisayar parçaları, bilgisayar sarf malzemeleri, bilgisayar destekli tasarım ve üretim sistemleri,.......... her türlü elektronik yedek parça ve aksesuarları kesintisiz güç kaynakları, elektrik ve elektronik optik sistemlerinin alımı, satımı ve pazarlamasını yapabilir. Ayrıca;
+...
+11. Şirketin amacına ulaşabilmesi için gerekli ayni hakkı, menkul ve gayrimenkulleri, her türlü aracı satın alabilir, inşa edebilir veya sair yollarla iktisap edebilir, devir ve ferağ edebilir, kiraya verebilir,........ depo, atölye, imalathane, idare, fabrika binaları gibi gayrimenkuller inşa" edebilir, bunları satabilir ve sair sebeplerle elden çıkarabilir." denilmektedir.
+Bu çerçevede, gayrimenkul alım-satım faaliyetiyle iştigal edilmesi halinde bu gayrimenkullerin satışından elde edilen kazancın istisna kapsamı dışında tutulduğu, gayrimenkul alım-satım faaliyetiyle iştigal edilse dahi faaliyetlerinin yürütülmesine tahsis edilmiş olan, bir başka ifadeyle alım-satım ve kiralama faaliyeti içinde değerlendirilmeyip kullanımı ve kayda alınışı itibariyle şirketin maddi duran varlıkları arasında değerlendirilen taşınmazların satışından elde edilen kazancın diğer şartların da sağlanmış olması kaydıyla her halükarda istisna kapsamında değerlendirilmesi mümkün bulunmaktadır.
+Öte yandan, Tapu ve Kadastro Genel Müdürlüğünün 16/3/2010 gün ve 2010/4-1697 No.lu Genelgesinde, cins değişikliği (cins tashihi), bir taşınmaz malın cinsinin, yapısız iken yapılı veya yapılı iken yapısız hale; bağ, bahçe, tarla vb. iken arsa, arazi iken, bağ, bahçe vb. duruma dönüştürmek için paftasında ve tapu sicilinde yapılan işlem olarak tanımlanmıştır.
+Bu hüküm ve açıklamalara göre, şirketiniz tarafından 2006 yılında satın alınan arsa üzerine inşa edilen ofis ve depodan oluşan, 2011 yılında bitirilerek 14/12/2011 tarihinde de tapuda cins tashihi yapılan binanın satılması halinde; satışa konu binanın tamamının satışından elde edilen kazancın %75 inin kurumlar vergisinden istisna edilebilmesi için söz konusu binanın kurum adına tapuya tescil edilmiş olması yanında en az iki tam yıl şirket aktifine kayıtlı olması gerekmekte olup, aktifte kayıtlı bulundurma süresinin başlangıç tarihi olarak da her ne kadar kısım kısım kullanılsa da bütün bölümleri ile birlikte inşaatın tamamlandığı ve bina olarak fiilen kullanılmaya başlandığı tarihin esas alınması gerekmektedir.
+Katma Değer Vergisi Kanunu Açısından:
+KDV Kanununun;
+1/1 inci maddesinde; Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV ye tabi olduğu,
+17/4-r maddesinde, kurumların aktifinde veya belediyeler ile il özel idarelerinin mülkiyetinde, en az iki tam yıl süreyle bulunan iştirak hisseleri ile taşınmazların satışı suretiyle gerçekleşen devir ve teslimler ile bankalara borçlu olanların ve kefillerinin borçlarına karşılık taşınmaz ve iştirak hisselerinin (müzayede mahallerinde yapılan satışlar dahil) bankalara devir ve teslimlerinin KDV den istisna olduğu, istisna kapsamındaki kıymetlerin ticaretini yapan kurumların, bu amaçla aktiflerinde bulundurdukları taşınmaz ve iştirak hisselerinin teslimlerinin istisna kapsamında yer almadığı
+hüküm altına alınmıştır.
+Konuya ilişkin açıklamalara 60 No.lu KDV Sirkülerinin (8.2.4) bölümünde yer verilmiştir.
+Buna göre, 14/12/2011 tarihinde tapuda cins tashihi yapılan binanın satılması halinde; bu teslimin KDV Kanununun 17/4-r maddesi kapsamında KDV den istisna tutulması için söz konusu binanın kurum adına tapuya tescil edilmiş olması yanında en az iki tam yıl şirket aktifine kayıtlı olması gerekmekte olup, aktifte kayıtlı bulundurma süresinin başlangıç tarihi olarak da her ne kadar kısım kısım kullanılsa da bütün bölümleri ile birlikte inşaatın tamamlandığı ve bina olarak fiilen kullanılmaya başlandığı tarihin esas alınması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 36281
+baslik: "Malların veraset yoluyla veya her ne suretle olursa olsun karşılıksız bir şekilde bir şahıstan diğer şahsa intikali veraset ve intikal vergisine tabi olduğu hakkında..."
+tarih: 2009-03-20
+sayi: "B.07.1.GİB.0.02.60/6004-2256/ 31522"
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/36281
+gib_guncelleme: 2025-03-24T20:34:12
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Malların veraset yoluyla veya her ne suretle olursa olsun karşılıksız bir şekilde bir şahıstan diğer şahsa intikali veraset ve intikal vergisine tabi olduğu hakkında...
+
+**İlgili maddeler:** Madde 1 Verginin mevzuu; Madde 6 Teklif mahalli; Madde 10 Verginin matrahı ve ilk tarhiyat; Madde 11 Değerleme günü
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI :B.07.1.GİB.0.02.60/6004-2256
+KONU :
+
+20/03/2009 / 31522
+
+...........VERGİ DAİRESİ BAŞKANLIĞINA
+(................ Grup Müdürlüğü)
+
+............'a vekaleten Av. .............. tarafından Başkanlığımıza verilen ............. tarihli dilekçe ve eklerinin birer örneği ilişikte gönderilmiştir.
+Söz konusu dilekçede, gaipliğine karar verilen .............. ile .........'in ikametgâh adreslerinin bilinmediği belirtilerek, veraset ve intikal vergisini tarha yetkili vergi dairesinin belirlenmesi istenilmektedir.
+7338 sayılı Veraset ve İntikal Vergisi Kanununun 6 ncı maddesinin (c) fıkrası uyarınca, veraset ve intikal vergisi tarhiyatını yapacak vergi dairesini belirlemeye Başkanlığınız yetkili kılınmıştır.
+Bilindiği üzere, 4721 sayılı Türk Medeni Kanununun 32 inci maddesinde, "Ölüm tehlikesi içinde kaybolan veya kendisinden uzun zamandan beri haber alınamayan bir kimsenin ölümü hakkında kuvvetli olasılık varsa, hakları bu ölüme bağlı olanların başvurusu üzerine mahkeme bu kişinin gaipliğine karar verebilir" hükmü yer almaktadır.
+Aynı Kanunun 35 inci maddesinde, "İlandan sonuç alınamazsa, mahkeme gaipliğe karar verir ve ölüme bağlı haklar, aynen gaibin ölümü ispatlanmış gibi kullanılır.
+Gaiplik kararı, ölüm tehlikesinin gerçekleştiği veya son haberin alındığı günden başlayarak hüküm doğurur." hükmü yer almakta, 575 inci maddesinde ise mirasın, mirasbırakanın ölümüyle açılacağı, mirasbırakanın sağlığında yapmış olduğu mirasla ilgili kazandırmalar ve paylaşımların, terekenin ölüm anındaki durumuna göre değerleneceği hükme bağlanmıştır.
+Bu hükümlere göre, gaiplik kararı kural olarak ölüme eşdeğer sonuçlar doğuracağından kişi, son haber tarihinden ya da ölüm tehlikesi tarihinden başlayarak gaiplik kararının verildiği tarihe kadarki dönemde ölmüş ve dolayısıyla ölüme bağlı haklar doğmuş sayılır. Bu nedenle, gaiplik kararı tıpkı gaibin ölümü sabit olmuş gibi bir durum husule getirir ve hakkında gaiplik kararı verilen kimsenin mirası mirasçılarına intikal eder.
+Diğer taraftan, 7338 sayılı Veraset ve İntikal Vergisi Kanununun 1 inci maddesinde, Türkiye Cumhuriyeti uyruğunda bulunan şahıslara ait mallar ile Türkiye'de bulunan malların veraset yoluyla veya herhangi bir suretle olursa olsun ivazsız bir tarzda bir şahıstan diğer şahsa intikalinin veraset ve intikal vergisine tabi olduğu hükme bağlanmıştır.
+Aynı Kanunun 10 uncu maddesinin (b) bendinde, gayrimenkullerin ticari işletmeye dahil olsun veya olmasın emlak vergisine esas olan değerle değerleneceği, 11 inci maddesinde de bu vergiye konu olacak malların değerleme gününün, miras yoluyla meydana gelen intikallerde mirasın açıldığı, diğer suretle meydana gelen intikallerde malların hukuken iktisap edildiği gündür denilmektedir.
+Buna göre, malların veraset yoluyla veya her ne suretle olursa olsun karşılıksız bir şekilde bir şahıstan diğer şahsa intikali veraset ve intikal vergisine tabi olup, veraset ve intikal vergisinin konusuna giren gayrimenkullerin, veraset yoluyla intikallerde ölüm tarihindeki, ivazsız intikallerde ise hukuken iktisap edildikleri tarihteki emlak vergisi değeri ile vergi matrahına dahil edilerek vergilendirilmeleri gerekmektedir.
+Bu itibarla, gaibin mal varlığının gaiplik kararının verilmesiyle mirasçılara intikal ettiği, Medeni Kanunun 575 inci maddesi uyarınca ölüm anı itibarıyla mirasın açıldığı ve gaiplik kararının ölüme bağlı hakları doğurduğu hususları göz önüne alındığında gaiplik karar tarihi olan 19/02/1997 tarihinde miras yoluyla intikal eden gayrimenkulün değerlendirmesinde bu tarihin esas alınması gerekir. Dolayısıyla, veraset ve intikal vergisi tarhına ............. ile .............'in gaipliklerine karar verildiği tarihteki emlak vergisi tarhına esas olan değerin beyan edilmesi gerekmektedir.
+Bilgi edinilmesini ve gereğinin buna göre yapılarak sonucundan Başkanlığımıza bilgi verilmesini rica ederim.
+
+Başkan a.

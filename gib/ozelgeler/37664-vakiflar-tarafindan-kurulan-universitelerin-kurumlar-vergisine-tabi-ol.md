@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 37664
+baslik: "Vakıflar tarafından kurulan üniversitelerin kurumlar vergisine tabi olup olmadıkları hk."
+tarih: 1997-01-22
+sayi: "B.07.0.GEL.0.50/5009-33/2348"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/ozelge/37664
+gib_guncelleme: 2025-03-24T22:14:16
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Vakıflar tarafından kurulan üniversitelerin kurumlar vergisine tabi olup olmadıkları hk.
+
+**İlgili maddeler:** Madde 7 Muaflıklar
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 22.01.1997 SAYI : B.07.0.GEL.0.50/5009-33/2348 KONU : Vakıflar tarafından kurulan üniversitelerin kurumlar vergisine tabi olup olmadıkları hk. İSTANBUL VALİLİĞİ (Defterdarlık:Vasıtasız V. Gelir Müdürlüğüne) İLGİ: 24.12.1996 gün ve 012020 sayılı yazınız. İlgi yazınızda, .......................................Vakfı tarafından kurulan ..............................................Üniversitesinin kurumlar vergisine tabi olup olmadığı hususu sorulmaktadır. Bilindiği üzere, Kurumlar Vergisi Kanununun 7 nci maddesinin 3 numaralı bendinde, kamu idare ve müesseseleri tarafından ilim, fen ve güzel sanatlar ile tarım ve hayvancılığı öğretmek, yaymak, ıslah ve teşvik maksadıyla işletilen müesseselerin (okullar, okul ate l yeleri, konservatuvarlar,genel kütüphaneler, tiyatrolar, müzeler, sergiler, nümune fidanlıkları, tohum ve hayvan ıslah ve üretme istasyonları, yarış yerleri, kitap, gazete ve mecmua yayınevleri ve emsali müesseseler) kurumlar vergisin d en muaf tutulmuş bulunmaktadır. Bu hükme göre katma bütçeli kuruluşlar olan üniversiteler kurumlar vergisinden muaf bulunmaktadır. 4.11.1981 tarihli ve 2547 sayılı Yüksek Öğretim Kanununun 56 ncı maddesinin 3708 sayılı Kanunla değişen (b) fıkrasında "Üniversiteler ve yüksek teknoloji ensitüleri, genel bütçeye dahil kamu kurum ve kuruluşlarına tanınan mali muafiyetler, istisnalar ve diğer mali kolaylıklardan aynen yararlanırlar." hükmü yer almaktadır. Aynı Kanunun ek 7 nci maddesinde ise vakıflarca kurulacak yüksek öğretim kurumlarının, bu Kanunun 56 ncı maddesinde yer alan mali kolaylıklardan, muafiyetlerden ve istisnalardan aynen istifade edeceği belirtilmiştir. Bu hükümlere göre, katma bütçeli kuruluş olan üniversiteler, Kurumlar Vergisi Kanununun 7 nci maddesinin 3 numaralı bendi uyarınca kurumlar vergisinden muaf olduğundan Türkiye Sağlık ve Tedavi Vakfı tarafından kurulan Fatih Üniversite'sinin de bu muafiyetten aynen yararlanması gerekir. Öte yandan, Kurumlar Vergisi Kanununun 7 nci maddesinin 3 numaralı bendi hükmüyle üniversitelere tanınmış olan vergi muafiyeti, üniversitenin kuruluş maksadı dışındaki faaliyetlerini kapsamamaktadır. Bu hükümlere gö re, üniversiteler tüzel kişiliği itibariyle kurumlar vergisi mükellefi olmayıp bunlara bağlı olup Kurumlar Vengisi Kanununun 7 nci maddesinin 3,4 ve 5 numaralı bentleri kapsamına girmeyen iktisadi kamu müesseseleri kurumlarn vergisi mükellefidir. Bilgi edinilmesini rica ederim. Bakan a. Daire Başkanı

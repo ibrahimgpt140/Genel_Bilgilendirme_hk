@@ -1,0 +1,49 @@
+---
+tur: Özelge
+gib_id: 25966
+baslik: "Kamudan alınan ihaleye istinaden kurulan adi ortaklığın iş bitimi sonucunda vergilendirilmesi  ve belge düzeni hk."
+tarih: 2012-07-30
+sayi: "B.07.1.GİB.4.35.18.02-1741-724"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25966
+gib_guncelleme: 2025-03-24T19:41:03
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kamudan alınan ihaleye istinaden kurulan adi ortaklığın iş bitimi sonucunda vergilendirilmesi  ve belge düzeni hk.
+
+**İlgili maddeler:** Madde 229 Faturanın Tarifi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İZMİR VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Usul Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.35.18.02-1741-724 | 30/07/2012
+Konu | : | iş ortaklığı belge düzeni
+
+İlgide kayıtlı dilekçenizde, ....Ltd. Şti. ve .... Ltd. Şti. tarafından .... Genel Müdürlüğünden alınan ihaleye istinaden kurulan Adi Ortaklığın iş bitimi sonucunda vergilendirilmesi ve belge düzeni ile ortaklığın bu iş için yüklenmiş olduğu katma değer vergisinin "Adi Ortaklığa" yasal mevzuata göre katma değer vergisi iade raporuna istinaden iade edilip edilmeyeceği ve transfer edilecek kardan adi ortaklık adına stopaj yapılıp yapılmayacağı hususlarında tereddüt oluştuğu belirtilmektedir
+5520 sayılı Kurumlar Vergisi Kanununun 1 inci maddesinin (d) bendinde iş ortaklıkları kurumlar vergisi mükellefleri arasında sayılmış, Kanunun 2 nci maddesinin 7 nci bendinde iş ortaklıklarının tanımı maddede fıkralar halinde yazılı kurumların kendi aralarında veya şahıs ortaklıkları ya da gerçek kişilerle, belli bir işin birlikte yapılmasını ortaklaşa yüklenmek ve kazancını paylaşmak amacıyla kurdukları ortaklıklardan bu şekilde mükellefiyet tesis edilmesini talep edenler olarak yapılmış, bunların tüzel kişiliklerinin olmamasının mükellefiyetlerini etkilemeyeceği hükme bağlanmıştır.
+03.04.2007 tarih ve 26482 sayılı Resmi Gazetede yayımlanan 1 Seri No.lu Kurumlar Vergisi Genel Tebliği'nin 2.5.1 inci bölümünün 3 üncü bendinde; "...Şahıs ortaklıkları veya gerçek kişilerin Kanunun 2 nci maddesinde sayılanlarla veya Kanunun 2 nci maddesinde sayılanların kendi aralarında oluşturdukları adi ortaklıklar hakkında, istenilmesi halinde iş ortaklıkları olarak kurumlar vergisi mükellefiyeti tesis ettirilebilecektir. Bu durumda, mükelleflerce talep edilmesi halinde tüzel kişiliğinin bulunup bulunmadığına bakılmaksızın iş ortaklıkları, kurumlar vergisi mükellefi olabileceklerdir.",
+"İşin bitiminde ortaya çıkan zararların durumu" başlıklı 2.5.3 üncü bölümünde; "Kurumlar, dilerlerse Borçlar Kanununa göre adi ortaklık veya Kurumlar Vergisi Kanununa göre iş ortaklığı şeklinde ortaklıklar oluşturarak faaliyet gösterebilmektedirler.
+Adi ortaklıklar, kurumlar vergisi mükellefi olmamalarına rağmen katma değer vergisi mükellefi olmaları nedeniyle ayrı defter tutabilmektedirler. Ortaklar ise dönem sonlarında ortaya çıkan kâr veya zararı, ortaklıktaki hisseleri oranında paylaşarak kendi hesaplarına dahil etmektedirler....",
+"Dağıtılan kâr paylarında vergi kesintisi" başlıklı 15.6 ncı bölümünde; "Kurumlar Vergisi Kanunu'nun 15 inci maddesinin ikinci fıkrasında, vergiden muaf olan kurumlara dağıtılan kâr payları üzerinden yapılacak vergi kesintisi; 30 uncu maddesinin üçüncü fıkrasında da Türkiye'de bir işyeri veya daimi temsilci aracılığıyla kâr payı elde edenler hariç olmak üzere, dar mükellef kurumlara veya kurumlar vergisinden muaf olan dar mükelleflere dağıtılan kâr payları üzerinden yapılacak vergi kesintisi hükümleri düzenlenmiştir.
+Öte yandan, 4842 sayılı Kanunun 12'nci maddesiyle değişik, Gelir Vergisi Kanununun 94'üncü maddesinin birinci fıkrasının (6) numaralı bendinin (b-i) ve (b-ii) alt bentlerinde, tam mükellef kurumlar tarafından; tam mükellef gerçek kişilere, gelir ve kurumlar vergisi mükellefi olmayanlara ve bu vergilerden muaf olanlara dağıtılan kâr paylarından; tam mükellef kurumlar tarafından; dar mükellef gerçek kişilere, dar mükellef kurumlara (Türkiye'de bir işyeri veya daimi temsilci aracılığıyla kâr payı elde edenler hariç) ve gelir ve kurumlar vergisinden muaf olan dar mükelleflere dağıtılan kâr paylarından vergi kesintisi yapılacağı..."
+açıklamalarına yer verilmiştir.
+Yukarıdaki hüküm ve açıklamalara göre, .... Genel Müdürlüğünden alınan ihaleye istinaden kurulan söz konusu ortaklıktan elde edilen kazancın, mevcut ortakların hisselerine göre bölüştürülmesi ve ortaklığın tarafları olan şirketlerce kurum kazançlarına dahil edilerek genel hükümler çerçevesinde vergilendirilmesi,
+193 sayılı Gelir Vergisi Kanunu ile 5520 sayılı Kurumlar Vergisi Kanunu'nun vergi tevkifatı ile ilgili hükümlerinde, tüzel kişiliği bulunmayan adi ortaklıktan elde edilen kârın ortaklara dağıtılması esnasında gelir veya kurumlar vergisi tevkifatına tabi tutulması ile ilgili bir hüküm bulunmadığından; söz konusu adi ortaklığın ortaklarına dağıtılacak olan kârdan gelir veya kurumlar vergisi tevkifatı yapılmaması,
+gerekmektedir.
+Ayrıca, 3065 sayılı KDV Kanununun 13/a maddesinde; "(4108 sayılı Kanunun 33'üncü maddesiyle değişen bent Yürürlük; 2.6.1995) Faaliyetleri kısmen veya tamamen deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçların kiralanması veya çeşitli şekillerde işletilmesi olan mükelleflere bu amaçla yapılan deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçlarının teslimleri, bu araçların imal ve inşaası ile ilgili olarak yapılan teslim ve hizmetler ile bunların tadili, onarım ve bakımı şeklinde ortaya (6111 Sayılı Kanunla değiştirilen ibare Yürürlük; 25.02.2011) çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetler" katma değer vergisinden istisna edilmiştir.
+Sözü edilen Kanunun 13 üncü maddesinde yer alan istisnanın uygulanmasına ilişkin usul ve esaslar ise 48 ve 107 Seri No.lu Katma Değer Vergisi Genel Tebliğleri ile belirlenmiştir.
+48 Seri No.lu KDV Genel Tebliğinin A/3 bölümünde; söz konusu araçları istisna kapsamında teslim almak veya tadil, bakım ve onarım yaptırmak isteyenler ile sözü edilen araçların imal ve inşası ile uğraşanlara istisna belgesi verilirken dikkate alınacak usul ve esaslar belirlenmiş,
+107 Seri No.lu KDV Genel Tebliğinin "Araçları Sipariş Üzerine Fiilen İmal ve İnşa Edenler" başlıklı E/1-iii bölümünde de; söz konusu araçları aldıkları sipariş üzerine fiilen imal ve inşa edenlerin bu işle ilgili mal ve hizmet alımlarında da istisna uygulanacağı, ancak siparişi alarak imal ve inşa işini fiilen yapan mükellefe verilecek istisna belgesinde sipariş üzerine yapılan araç imal ve inşası ile ilgili mal ve hizmet alımlarında geçerli olduğunun belirtileceği, imal ve inşa işini sipariş üzerine fiilen yapanların bu işte kullanacakları mal ve hizmetleri bu belgeye dayanarak KDV uygulanmaksızın istisna kapsamında temin edebilecekleri, istisna uygulamasında da 93 Seri No.lu KDV Genel Tebliğinin (1.5) bölümünde belirtilen sınırın dikkate alınacağı belirtilmiştir.
+Diğer taraftan, anılan Kanunun 32 nci maddesi ile Kanunun 11, 13, 14, 15 ve 17/4-s maddeleri uyarınca vergiden istisna edilmiş bulunan işlemlerle ilgili yüklenilen ve indirim yoluyla giderilemeyen kısmın iade edilebileceği belirlenmiştir.
+24 Seri No.lu KDV Genel Tebliğinde de; iade kapsamına, mal ve hizmet alımları yanında genel giderler ve amortismana tabi iktisadi kıymetler (ATİK) için ödenen vergiler de dahil edilmiştir.
+Buna göre; Adi Ortaklığın İstanbul .. Vergi Dairesinin .... vergi numaralı mükellefi .... Genel Müdürlüğü'nden alınan ihaleye istinaden inşa edeceği "... Botu"nun imal ve inşası ile ilgili olarak vergi dairesinden alacağı istisna belgesine istinaden satın alacağı mal ve hizmetler için KDV Kanununun 13/a maddesi kapsamında istisna uygulanabilecektir.
+Sözü edilen "... Botu"nun imal ve inşası tamamlandıktan sonra teslimi işleminde de, .... Genel Müdürlüğü'nün vergi dairesinden alacağı istisna yazısını ibraz etmesi durumunda, Kanunun 13/a maddesi kapsamında işlem yapılması mümkün bulunmakta, istisna belgesinin ibraz edilememesi halinde ise genel oranda (% 18) katma değer vergisinin uygulanması gerekmektedir.
+Ayrıca, anılan Kanunun 13/a maddesi uygulamasında, araçları aldıkları sipariş üzerine fiilen imal ve inşa eden mükelleflerin araçların inşası nedeniyle yaptıkları mal ve hizmet alımlarında KDV ödemediklerinden mal ve hizmet alımına dayalı bir iade hakları da bulunmamaktadır. Ancak, inşa edilecek araçlara ilişkin mal alımları ile ilgili olarak herhangi bir KDV ödememelerine rağmen diğer girdiler (genel giderler ve ATİK) nedeniyle yüklendikleri vergilerin iadesini konuya ilişkin belirlenen usul ve esaslar çerçevesinde talep edebileceklerdir.
+Diğer taraftan, 213 sayılı Vergi Usul Kanununun 229 uncu maddesinde faturanın, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari bir vesika olduğu hüküm altına alınmıştır.
+Buna göre, .. Genel Müdürlüğünden alınan ihaleye istinaden adi ortaklık olarak faaliyet göstermeniz ve adi ortaklığınızın kurumlar vergisi mükellefiyetinin bulunmaması nedeniyle, dönem sonlarında ortaya çıkan kâr veya zararın, ortaklıktaki hisseler oranında ortaklar tarafından paylaşılarak kendi hesaplarına dâhil edilmesi gerekmektedir. Bir teslim ve/veya hizmet karşılığı olmayan bu tutarlar için fatura düzenlenmeyeceği tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

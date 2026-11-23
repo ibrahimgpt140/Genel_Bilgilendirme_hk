@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 29553
+baslik: "Okul aile birliğinden yapılan kantin kiralamasında tevkifata esas alınacak matrah hk."
+tarih: 2012-01-28
+sayi: "B.07.1.GİB.4.38.15.01-KDV-20-911-19"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29553
+gib_guncelleme: 2025-03-24T19:55:46
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Okul aile birliğinden yapılan kantin kiralamasında tevkifata esas alınacak matrah hk.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 10 Vergiyi Doğuran Olayın Meydana Gelmesi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI KAYSERİ VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.38.15.01-KDV-20-911-19 | 28/01/2012
+Konu | : | Okul aile birliğinden yapılan kantin kiralamasında KDV tevkifatı ve beyanı hk
+
+İlgide kayıtlı özelge talep formunuzda, okul aile birliğinden kiraladığınız kantine ilişkin olarak tevkifata esas olacak KDV matrahının bildirilmesi istenilmektedir.
+Katma Değer Vergisi Kanununun 20 nci maddesinde, teslim ve hizmet işlemlerinde matrahın, bu işlemlerin karşılığını teşkil eden bedel olduğu, bedel deyiminin, malı teslim alan veya kendisine hizmet yapılan veyahut bunlar adına hareket edenlerden bu işlemler karşılığında her ne suretle olursa olsun alınan veya bunlarca borçlanılan para, mal ve diğer suretlerde sağlanan ve para ile temsil edilebilen menfaat, hizmet ve değerler toplamını ifade ettiği belirtilmiştir.
+Buna göre, söz konusu kiralama işleminde, KDV tevkifatının arz bedeli ve Milli Eğitim Müdürlüklerine aktarılan paylar düşülmeden önceki 1.500 TL lik kira bedeli üzerinden yapılması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

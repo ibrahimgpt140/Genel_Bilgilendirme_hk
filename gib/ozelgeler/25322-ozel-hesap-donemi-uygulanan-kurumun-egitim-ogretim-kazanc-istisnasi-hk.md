@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 25322
+baslik: "Özel Hesap Dönemi Uygulanan Kurumun Eğitim - Öğretim Kazanç İstisnası hk."
+tarih: 2012-02-23
+sayi: "B.07.1.GİB.4.09.15.01-2.2011.3.KVK.5.Md.-6 "
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/25322
+gib_guncelleme: 2025-03-24T19:39:35
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Özel Hesap Dönemi Uygulanan Kurumun Eğitim - Öğretim Kazanç İstisnası hk.
+
+**İlgili maddeler:** Madde 174 Hesap Dönemi; Madde 5 İstisnalar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+AYDIN VERGİ DAİRESİ BAŞKANLIĞI
+Vergi ve Anlaşmalar Uygulama Müdürlüğü
+
+Sayı : B.07.1.GİB.4.09.15.01-2.2011.3.KVK.5.Md.-6 23/02/2012
+Konu : Özel Hesap Dönemi Uygulanan
+Kurumun Eğitim - Öğretim Kazanç
+İstisnası.
+
+İlgide kayıtlı özelge talep formu ve eklerinin incelenmesinden; 12.07.2011 tarihinde ilköğretim okulu işletmeciliğine başladığınız, Bakanlığımıza yaptığınız başvuru sonucu söz konusu işletmeden elde edilecek kazancın 5520 sayılı Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendi hükümleri gereğince beş vergilendirme dönemi (2011 -
+2015) kurumlar vergisinden istisna edildiği, aynı zamanda Bakanlığımıza özel hesap dönemi için yapılan diğer bir başvuru sonucu işletmenize 01 Temmuz 2012 tarihinden itibaren başlamak üzere Özel Hesap Dönemi tayin edildiği belirtilerek, Bakanlığımız tarafından işletmenize tanınan istisna süresinin kesin bitiş tarihi hakkında bilgi istediğiniz anlaşılmaktadır.
+5520 sayılı Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan "Okul öncesi eğitim, ilköğretim, özel eğitim ve orta öğretim özel okulları ile Bakanlar Kurulunca vergi muafiyeti tanınan vakıflara veya kamu yararına çalışan derneklere bağlı rehabilitasyon merkezlerinin işletilmesinden, ilgili Bakanlığın görüşü alınmak suretiyle Maliye Bakanlığının belirleyeceği usuller çerçevesinde beş hesap dönemi itibarıyla elde edilen kazançlar (İstisna, belirtilen okulların ve rehabilitasyon merkezlerinin faaliyete geçtiği hesap döneminden itibaren başlar.)" hükmü ile madde metninde sayılan kurumların beş hesap döneminde elde edeceği kazançlar kurumlar vergisinden istisna edilmiştir.
+Söz konusu istisnanın uygulanması ile ilgili usul ve esaslar 03 Nisan 2007 tarih ve 26482 sayılı Resmi Gazetede yayımlanan 1 seri nolu Kurumlar Vergisi Genel Tebliğinin (5.10) numaralı bölümünde detaylı olarak açıklanmıştır.
+Öte yandan; 213 sayılı Vergi Usul Kanununun 174'üncü maddesinde; "Defterler hesap dönemi itibariyle tutulur. Kayıtlar her hesap dönemi sonunda kapatılır ve ertesi dönem başında yeniden açılır. Hesap dönemi normal olarak takvim yılıdır. Şu kadar ki, takvim yılı dönemi faaliyet ve muamelelerinin mahiyetine uygun bulunmayanlar için, bunların müracaatı üzerine Maliye Bakanlığı 12'şer aylık özel hesap dönemleri belli edebilir. Yeniden işe başlama veya işi bırakma hallerinde, hesap dönemi içinde bir yıldan eksik olan faaliyet süresi, hesap dönemi sayılır. Bu maddeye göre özel hesap dönemi tayin edilenlerin ticari ve zirai kazançları, hesap dönemlerinin kapandığı takvim yılının kazancı sayılır."
+hükmüne yer verilmiştir.
+Buna göre, Derneğinize bağlı iktisadi işletmenin eğitim - öğretim kazanç istisnası 30.06.2015 tarihinde sona erecektir. Zira, 01.07.2015 tarihinden 30.06.2016 tarihine kadar olan kazancınız 2015 yılına değil 2016 yılına ait kazanç olarak değerlendirilmektedir.
+Bilgi edinilmesini rica ederim.

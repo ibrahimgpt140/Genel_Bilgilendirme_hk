@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 27232
+baslik: "Ceza indirimi uygulaması sonucu tahakkuku verilen vergi ve ceza miktarının ödeme tarihi paranın banka şubesine yatırldığı tarih değil, bu paranın söz konusu şube tarafından Merkez Bankasına yatırldığı tarihdir."
+tarih: 2001-03-12
+sayi: "B.07.0.GEL.0.30/3049-376-392/13393"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/27232
+gib_guncelleme: 2025-03-24T19:45:37
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ceza indirimi uygulaması sonucu tahakkuku verilen vergi ve ceza miktarının ödeme tarihi paranın banka şubesine yatırldığı tarih değil, bu paranın söz konusu şube tarafından Merkez Bankasına yatırldığı tarihdir.
+
+**İlgili maddeler:** Madde 376 Vergi Ziyaı, Usulsüzlük ve Özel Usulsüzlük Cezalarında İndirme; Madde 41 Hususi ödeme şekilleri:
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 12.03.2001 SAYI : B.07.0.GEL.0.30/3049-376-392/13393 KONU : Mükellefin ceza indiriminden yararlanıp yararlanamayacağı hk. ..................... VALİLİĞİ ( Defterdarlık : Tahsilat Gelir Müdürlüğüne) İLGİ : ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınız ve ekleri incelenmiş, aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. Bilindiği üzere, 213 sayılı Vergi Usul Kanununun "Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında, indirme" başlıklı 376 ncı maddesinde "İkmalen, re'sen veya idarece tarh edilen vergi veya vergi farkını ve aşağıda gösterilen indirimlerden arta kalan vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarını mükellef veya vergi sorumlusu ihbarnamelerin tebliği tarihinden itibaren otuz gün içinde ilgili vergi dairesine başvurarak vadesinde veya 6183 sayılı Kanunda belirtilen türden teminat gösterilerek vadenin bitmesinden itibaren üç ay içinde ödeyeceğini bildirirse: 1-Vergi ziyaı cezasında birinci defada yarısı, müteakiben kesilenlerde üçte biri, 2-Usulsüzlük veya özel usulsüzlük cezalarında üçte biri, indirilir. Mükellef veya vergi sorumlusu ödeyeceğini bildirdiği vergi ve vergi cezasını yukarıda yazılı süre içinde ödemez veya dava konusu yaparsa bu madde hükmünden faydalandırılmaz. Yukarıdaki hükümler vergi aslına tabi olmaksızın kesilen usulsüzlük cezaları hakkında da uygulanır." hükmü yer almaktadır. Öte yandan, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 41. maddesinin Bakanlığımıza verdiği yetkiye istinaden vergi tahsilatı konusunda Bakanlığımız ile Finansbank arasında 13/10/1998 tarihinde protokol yapılmış olup, bu protokolde anılan bankaca ödeme süresi geçmemiş olan ve yetki verilen vergilerin "Vergi Tahsil Alındısı" ile tahsil edileceği düzenlenmiştir. Olayda ise, .....bank ..... Şubesince vergi ile indirimden arta kalan cezalar 12/02/2001 tarihinde tahsil edilmiş ve bu tahsilat için banka dekontu düzenlenmiştir. Havale olarak kabul edilen bu meblağ daha sonra ..... Vergi Dairesinin T.C. Merkez Bankası nezdindeki hesabına aktarılmıştır. Yukarıdaki açıklamalar gözönüne alındığında, ceza indirimi uygulaması sonucu tahakkuku verilen vergi ve ceza miktarının ödeme tarihi olarak bu paranın .....bank ..... Şubesine yatırıldığı tarihi esas almaya imkan bulunmamakta, bu paranın anılan şube tarafından T.C. Merkez Bankasına aktarıldığı tarihin dikkate alınması gerekmektedir. Bu durumda da, ödeme bir aylık süre geçtikten sonra yapılmış olduğundan ceza indirimi şartları ihlal edilmiş bulunmaktadır. Bu itibarla, mükellefin ceza indiriminden yararlanması söz konusu olamayacağından bir aylık ödeme süresinden sonra ödenmiş olan vergi ile indirimden arta kalan cezaların tamamlanması yolunda gerekli işlemlerin yapılması, bu miktarın tahsil ve takibi yoluna gidilmesi icap etmektedir. Bilgi edinilmesini ve gereğini rica ederim.

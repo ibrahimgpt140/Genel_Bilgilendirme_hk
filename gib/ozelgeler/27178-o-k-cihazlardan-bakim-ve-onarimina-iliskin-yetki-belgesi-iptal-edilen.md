@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 27178
+baslik: "Ö.K.Cihazlardan bakım ve onarımına ilişkin yetki belgesi iptal edilen servisler hk."
+tarih: 1997-08-27
+sayi: "B.07.0.GEL.0.65/6518 -44/36401"
+kanun: "3100 KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/443/ozelge/27178
+gib_guncelleme: 2025-03-24T19:45:18
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ö.K.Cihazlardan bakım ve onarımına ilişkin yetki belgesi iptal edilen servisler hk.
+
+**İlgili maddeler:** Madde 338 İştirak; Madde 347 Yardım; Madde 4 Satış ve Onarım; Mükerrer Madde 8 Ceza ve Sorumluluk; Madde 9 Diğer Hükümler
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 27.08.1997 SAYI : B.07.0.GEL.0.65/6518 -44/36401 KONU : Ö.K.Cihazlardan bakım ve onarımına ilişkin yetki belgesi iptal edilen servisler hk. GÜMÜŞHANE VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) ..... Anonim Şirketinden alınan fotokopisi ilişik dilekçede, İliniz mükelleflerinden .....'in, ödeme kaydedici cihazların bakım onarımına ilişkin yetki belgesinin 18.6.1996 tarihinde iptal edildiği halde, bu tarihten sonra da çeşitli gerekçelerle ödeme kaydedici cihazlara müdahalede bulunduğu belirtilmektedir. Bilindiği gibi, 3100 sayılı Kanunun 4/2. maddesinde, "Arızalanan ödeme kaydedici cihazların tamiri, bunları üreten veya ithal eden kişi veya kuruluşların yetkili servis elemanlarınca yapılabilir.. , 9. maddenin l. fıkrasında da "...Verilen yetkiyi kötüye kullananların y etki belgeleri iptal edilir. Ayrıca bunlar hakkında Vergi Usul Kanununun 338 ve 347. maddeleri hükümleri uygulanır." denilmiştir. Anılan Kanunun Mükerrer 8/2. maddesinde ise Bakanlığımızca belirlenip açıklanan usul ve esaslara uymayan, üretici veya ithalatçı kuruluşlar, bunların servisleri ve mükellefler hakkında herbir tespit için ayrı ayrı olmak üzere Vergi Usul Kanununa bağlı usulsüzlük cezalarına ait cetvelde yer alan birinci derece usulsüzlük cezalarının beş katı tutarın d a ceza kesileceği belirtilmiştir. Buna göre, .... Anonim Şirketi tarafından yetki belgesi 18.6.1996 tarihinde iptal edilen ....'e bu tarihten sonra ödeme kaydedici cihaz bakım ve onarımı yaptığının tespit edilmesi halinde yukarıdaki açıklamalar ışığında ceza uygulanması gerekmektedir. Bilgi edinilmesini ve gereğinin buna göre yapılarak sonucunun Bakanlığımıza bildirilmesini rica ederim. Bakan a. Daire Başkanı

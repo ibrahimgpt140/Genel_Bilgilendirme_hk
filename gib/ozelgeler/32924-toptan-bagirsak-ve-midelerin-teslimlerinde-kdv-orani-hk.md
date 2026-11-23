@@ -1,0 +1,33 @@
+---
+tur: Özelge
+gib_id: 32924
+baslik: "Toptan bağırsak ve midelerin teslimlerinde KDV oranı hk."
+tarih: 2012-01-17
+sayi: "B.07.1.GİB.4.20.15.01-40-MUK-2011-596-57"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/32924
+gib_guncelleme: 2025-03-24T20:09:22
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Toptan bağırsak ve midelerin teslimlerinde KDV oranı hk.
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI DENİZLİ VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.20.15.01-40-MUK-2011-596-57 | 17/01/2012
+Konu | : | Toptan bağırsak ve midelerin teslimlerinde KDV oranı
+
+İlgide kayıtlı özelge talep formunuzda, firmanızın küçük ve büyükbaş hayvan kesim mezbahası ve bunların etlerinin toptan ve perakende satışı işi ile iştigal ettiği belirtilerek, küçük ve büyükbaş hayvan bağırsakları ve midelerinin toptan teslimlerinde uygulanması gereken katma değer vergisi (KDV) oranının bildirilmesi istenilmiştir.
+KDV Kanununun 1/1 inci maddesinde, Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV ye tabi olduğu hükme bağlanmıştır.
+KDV Kanununun 28 inci maddesinin verdiği yetkiye dayanılarak yayımlanan 2007/13033 sayılı Kararname ile KDV oranları Kararnameye ekli I sayılı listede yer alan teslim ve hizmetler için % 1, II sayılı listede yer alan teslim ve hizmetler için % 8, bu listelerde yer almayan teslim ve hizmetler için ise % 18 olarak tespit edilmiştir.
+Söz konusu Kararname eki II sayılı listenin "A- Gıda Maddeleri" bölümünün 3 üncü sırasında, "22/12/2006 tarihli ve 2006/11437 sayılı Kararnamenin eki İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelinin 5 no.lu faslın 0504.00 pozisyonunda yer alan mallar" yer almaktadır.
+TGTC 05.04 tarife pozisyonunda; tam veya parça halinde hayvan bağırsakları, mesaneleri ve mideleri (balıklara ait olanlar hariç) (taze, soğutulmuş, dondurulmuş, tuzlanmış, salamura edilmiş, kurutulmuş veya tütsülenmiş) tanımlanmıştır.
+Buna göre, küçük ve büyükbaş hayvan bağırsak ve midelerinin toptan ya da perakende yurtiçi teslimi veya ithalinde % 8 oranında KDV uygulanması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

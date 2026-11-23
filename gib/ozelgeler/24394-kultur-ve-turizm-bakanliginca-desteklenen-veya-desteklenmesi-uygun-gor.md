@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 24394
+baslik: "Kültür ve Turizm Bakanlığınca desteklenen veya desteklenmesi uygun görülen projelere sponsor olan kişi veya kurumların bu proje ile ilgili harcamalarının gelir ve kurumlar vergisi matrahından indirilip indirilemeyeceği hakkında."
+tarih: 2006-10-05
+sayi: "B.07.1.GİB.0.43.43/4304-54/ 076777"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24394
+gib_guncelleme: 2025-03-24T19:31:56
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kültür ve Turizm Bakanlığınca desteklenen veya desteklenmesi uygun görülen projelere sponsor olan kişi veya kurumların bu proje ile ilgili harcamalarının gelir ve kurumlar vergisi matrahından indirilip indirilemeyeceği hakkında.
+
+**İlgili maddeler:** Madde 89 Diğer indirimler
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+SAYI :B.07.1.GİB.0.43.43/4304-54/ 076777
+KONU :
+05.10.2006
+.................................................
+İlgi : 03/10/2006 tarihli dilekçeniz.
+Dilekçeniz ve eklerinin incelenmesinden "Dünyada İlk Kez Gündüz-Gece-Zifiri Karanlıkta Tüm Renklerde Görünebilme Özelliğinde Tuval Üzerine Yağlıboya Tablolardan Oluşan Resim Sergisi Projesi"ne sponsor anlamında destek olacak kişi veya kurumların projenize verdikleri-verecekleri maddi desteklerin, Kültür ve Turizm Bakanlığı tarafından desteklenmesi uygun görülen projelerle ilgili harcamalar ile bu amaçla yapılan bağış ve yardımların tamamının gelir vergisi ve kurumlar vergisi matrahından indirilip indirilmeyeceği hakkında bilgi istenildiği anlaşılmaktadır.
+193 sayılı Gelir Vergisi Kanununun 89 uncu maddesinin 7 nci bendinin (b) alt bendi ve 5520 sayılı Kurumlar Vergisi Kanununun 10 üncü maddesinin (d) numaralı bendinin (2) alt bendi de;
+"Genel ve özel bütçeli kamu idareleri, il özel idareleri, belediyeler, köyler, kamu yararına çalışan dernekler, Bakanlar Kurulunca vergi muafiyeti tanınan vakıflar ve bilimsel araştırma faaliyetinde bulunan kurum ve kuruluşlar tarafından yapılan ya da Kültür ve Turizm Bakanlığınca desteklenen veya desteklenmesi uygun görülen;
+Ülkemizin uygarlık birikiminin kültürü, sanatı, tarihi, edebiyatı, mimarisi ve somut olmayan kültürel mirası ile ilgili veya ülke tanıtımına yönelik kitap, katalog, broşür, film, kaset, CD ve DVD gibi manyetik, elektronik ve bilişim teknolojisi yoluyla üretilenler de dahil olmak üzere görsel, işitsel veya basılı materyallerin hazırlanması, bunlarla ilgili derleme ve araştırmaların yayınlanması, yurt içinde ve yurt dışında dağıtımı ve tanıtımının sağlanmasına,
+ilişkin harcamalar ile bu amaçla yapılan her türlü bağış ve yardımların % 100 "ünün gelir ve kurumlar vergisi beyannamesi üzerinde ayrıca gösterilmek şartıyla gelir vergisi ve kurumlar vergisi matrahında indirileceği hüküm altına alınmıştır.
+Buna göre, Kültür ve Turizm Bakanlığı tarafından verilen 16.08.2006 tarih ve ........... sayılı yazı da adı geçen projenizin ilgili Bakanlıkça desteklenmesi nedeniyle projenize harcama, bağış veya yardım yoluyla destek veren gelir veya kurumlar vergisi mükelleflerinin projeye ilişkin yaptıkları harcamalar ile bu amaçla yapılan her türlü bağış ve yardım tutarlarının tamamını beyanname üzerinde ayrıca göstermek şartıyla gelir veya kurumlar vergisi matrahının tespitinde indirim konusu yapmaları mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.
+
+Başkan a.

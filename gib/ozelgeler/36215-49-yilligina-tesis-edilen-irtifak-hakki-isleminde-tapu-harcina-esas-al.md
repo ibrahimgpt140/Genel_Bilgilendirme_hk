@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 36215
+baslik: "49 Yıllığına tesis edilen irtifak hakkı işleminde tapu harcına esas alınacak bedel hk."
+tarih: 1997-09-24
+sayi: "B.07.0.GEL.0.64/6432-83-40882"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/36215
+gib_guncelleme: 2025-03-24T20:33:14
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# 49 Yıllığına tesis edilen irtifak hakkı işleminde tapu harcına esas alınacak bedel hk.
+
+**İlgili maddeler:** Madde 127 İşlemin yapılamıyacağı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 24.09.1997 SAYI : B.07.0.GEL.0.64/6432-83-40882 KONU : 49 Yıllığına tesis edilen irtifak hakkı işleminde tapu harcına esas alınacak bedel hk. ........................VALİLİĞİ (Defterdarlık:Gelir Müdürlüğüne) İLGİ: ........................ gün ve ........................ sayılı yazınız. İlgide kayıtlı yazınız ekinde alınan 9.11.1995 gün ve B.07.4.DEF.0.48.10/6459 sayılı müktezanız ve ekleri incelendi. Bilindiği gibi, 492 sayılı harçlar Kanununun 127 nci maddesinde, bu Kanunda aksine hüküm bulunmadıkça harçların tamamı peşin olarak ödenmeden harca mevzu olan işlemin yapılmayacağı hükmü yer almaktadır. Öte yandan, 492 sayılı Harçlar Kanununa ekli (4) sayılı tarifenin 20/e maddesinde, "Gayrimenkul üzerine irtifak hakkı tesis ve devrinde (634 sayılı Kat Mülkiyeti Kanununa göre yapılan kat irtifakları hariç olmak üzere) tesis ve devir için ödenen bedel üzerinden devir alan için binde 48 oranında harç alınacağı belirtilmiştir. Bu itibarla, irtifak hakkı sözleşmesinde birinci yıldan sonraki artış oranı belirlenmediğinden, irtifak hakkı tesisinin tapu siciline şerhinde 49 yıllık süre için toplam bedel üzerinden tapu harcı tahsil edilmesi gerekmektedir. Bilgi edinilmesini, gereğinin ona göre yapılarak söz konusu müktezanızın yeniden düzenlenerek sonucundan bilgi verilmesini rica ederim. Bakan a. Daire Başkanı

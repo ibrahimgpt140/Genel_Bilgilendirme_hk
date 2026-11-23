@@ -1,0 +1,49 @@
+---
+tur: Özelge
+gib_id: 22539
+baslik: "Gümrüksüz satış mağazalarında eksik ve kayıp olduğu saptanan emtianın tedariki sırasında katlanılan maliyetlerin ve bu ürünler üzerinden hesaplanan vergilerin gider olarak indirimi."
+tarih: 2017-07-27
+sayi: "B.07.1.GİB.4.99.16.02-125[8-2016]-13884"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/22539
+gib_guncelleme: 2025-03-24T19:29:23
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Gümrüksüz satış mağazalarında eksik ve kayıp olduğu saptanan emtianın tedariki sırasında katlanılan maliyetlerin ve bu ürünler üzerinden hesaplanan vergilerin gider olarak indirimi.
+
+**İlgili maddeler:** Madde 40 İndirilecek Giderler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI BÜYÜK MÜKELLEFLER VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri Grup Müdürlüğü
+
+Sayı | : | 64597866-125[8-2016]-13884 | 27.07.2017
+Konu | : | Gümrüksüz satış mağazalarında eksik ve kayıp olduğu saptanan emtianın tedariki sırasında katlanılan maliyetlerin ve bu ürünler üzerinden hesaplanan vergilerin gider olarak indirimi.
+
+İlgide kayıtlı özelge talep formunuzda, Gümrük Kanunu, Gümrüksüz Satış Mağazaları Yönetmeliği ile diğer ilgili mevzuat kapsamında yurt dışı yolculara gümrük, diğer satış vergileri ve fonlara tabi olmadan perakende satış yapan şirketinizin anılan yönetmeliğin 36 ncı maddesinin beşinci fıkrası uyarınca yaptığı aylık bazda emtia envanteri sayımları neticesinde eksik ve kayıp olduğu saptanan emtia ile bu emtiaların hesaplanan vergilerini gümrük idaresine beyan etmesi ve ilgili idarece hesaplanan gümrük vergisi, tarım-tütün fonunu, maktu ve diğer özel tüketim vergisi ile katma değer vergilerinin şirketinizce ödenmesi sonucunda bu emtiaların muhasebe kayıtlarınızda yer alan stoklarınızdan düşüldüğü belirtilerek, söz konusu eksik ve kayıp ürünlerin gümrüksüz satış mağazalarına tedariki sırasında oluşan maliyet ve giderler ile anılan yönetmelik kapsamında ödenen vergilerinin şirketinizin kurumlar vergisine tabi kazancının tespitinde gider olarak dikkate alınıp alınmayacağı konusunda Başkanlığımız görüşü sorulmaktadır.
+
+5520 sayılı Kurumlar Vergisi Kanununun 6 ncı maddesinde kurumlar vergisinin mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde, Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hüküm altına alınmıştır.
+
+193 sayılı Gelir Vergisi Kanununun "Bilanço Esasında Ticari Kazancın Tespiti" başlıklı 38 inci maddesinde ise bilanço esasına göre ticari kazancın, teşebbüsteki öz sermayenin hesap dönemi sonunda ve başındaki değerleri arasındaki müsbet fark olduğu, bu dönem zarfında işletmeye ilave olunan değerlerin bu farktan indirileceği, işletmeden çekilen değerlerin ise bu farka ilave olunacağı, ticari kazancın bu surette tespit edilmesi sırasında Vergi Usul Kanunun değerlemeye ait hükümleri ile aynı Kanunun 40 ve 41 inci maddeleri hükümlerine uyulacağı hükmüne yer verilmiştir.
+
+Kurumlar Vergisi Kanununun 8 inci maddesiyle, ticari kazanç gibi hesaplanan kurum kazancının tespitinde, mükelleflerin maddede yazılı giderleri hasılattan ayrıca indirmelerine olanak sağlanmış, Kanunun 11 inci maddesiyle de kurum kazancının tespitinde hangi indirimlerin yapılmasının kabul edilmeyeceği belirlenmiştir.
+
+Bu hüküm uyarınca, Kurumlar Vergisi Kanununun 8 inci maddesi yanında Gelir Vergisi Kanununun 40 ıncı maddesinde, safi ticari kazancın tespitinde hasılattan indirilecek giderler sayılmış olup, bunlar arasında ticari işletmede mevcut varlıkta herhangi bir suretle meydana gelen eksilmelerin gider yazılacağı hususuna yer verilmemiştir.
+
+Diğer taraftan, emtianın değerinde meydana gelen azalmalar ile ilgili olarak 213 sayılı Vergi Usul Kanununun 278 inci maddesinde; "Yangın, deprem ve su basması gibi afetler yüzünden veyahut bozulmak, çürümek, kırılmak, çatlamak, paslanmak gibi haller neticesinde iktisadi kıymetlerinde önemli bir azalış vaki olan emtia ile maliyetlerin hesaplanması mutad olmayan hurdalar ve döküntüler, üstüpü, deşe ve ıskartalar emsal bedeli ile değerlenir."
+
+hükmü yer almaktadır.
+
+Bahsi geçen hükmün incelenmesinden de anlaşılacağı üzere, emtianın doğal afetler ile emtianın kendisinde bozulmak, çürümek, kırılmak, çatlamak, paslanmak gibi haller neticesinde değerinde meydana gelen kayıpların, emtianın emsal bedeli ile değerlenmesi suretiyle telafisine imkân tanınmış olup, zayi olan, çalınan veya kaybolan emtianın ne şekilde değerleneceğine ilişkin herhangi bir düzenleme bulunmamaktadır.
+
+Öte yandan, 13.10.2006 tarih ve 26318 sayılı Resmi Gazete'de yayımlanan Gümrüksüz Satış Mağazaları Yönetmeliğinin 36 ncı maddesinin beşinci fıkrasında; "Mağaza işleticilerinin kusurlarından ileri gelmeyen kayıp ve çalıntıların geçerli belgelerle gümrüğe tevsiki gerekir. Ancak, kayıp ve eksikliğin mağaza işleticisi tarafından tespit edilerek beyan edilmesi halinde, eksikliğe ilişkin vergiler tahsil edilmek kaydıyla eksik ve kaybın kayıttan düşülmesine izin verilir. Ayrıca ceza aranmaz."
+
+düzenlemesi yer almaktadır.
+
+Buna göre, vergi kanunlarında eksik veya kayıp olduğu saptanan emtia bedellerinin zarar olarak yazılmasına veya bunlar için karşılık ayrılmasına imkan veren herhangi bir hüküm bulunmamaktadır. Dolayısıyla Gümrüksüz Satış Mağazaları Yönetmeliğinin 36 ncı maddesinin beşinci fıkrası uyarınca yapılan aylık bazda emtia envanteri sayımları neticesinde eksik ve kayıp olduğu saptanan emtianın gümrüksüz satış mağazalarına tedariki sırasında oluşan maliyet ve giderleri ile bu emtialar için anılan yönetmelik maddesine göre ödenen gümrük vergileri, tarım fonu, tütün fonu, maktu ve diğer özel tüketim vergileri ile katma değer vergilerinin kurum kazancınızın tespitinde gider olarak dikkate alınması mümkün değildir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,39 @@
+---
+tur: Özelge
+gib_id: 33457
+baslik: "Kanuna ekli (II) sayılı listedeki aracın şoför koltuğunun arkasında bulunan üç kişilik koltuk ve yaşam alanının kaldırılması ve aracın elektrik test ölçüm aracına tadili sonrası ÖTV farkı."
+tarih: 2014-06-06
+sayi: "84974990-130[15-2013/5]-576"
+kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/33457
+gib_guncelleme: 2025-03-24T20:12:09
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kanuna ekli (II) sayılı listedeki aracın şoför koltuğunun arkasında bulunan üç kişilik koltuk ve yaşam alanının kaldırılması ve aracın elektrik test ölçüm aracına tadili sonrası ÖTV farkı.
+
+**İlgili maddeler:** Madde 30 İndirilemeyecek Katma Değer Vergisi; Madde 1 Verginin konusu; Madde 4 Mükellef ve vergi sorumlusu; Madde 15 Verginin belgelerde gösterilmesi, matrahta, vergide ve mükellefiyette değişiklikler
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ANKARA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü)
+
+Sayı | : | 84974990-130[15-2013/5]-576 | 06/06/2014
+Konu | : | Kanuna ekli (II) sayılı listedeki aracın şoför koltuğunun arkasında bulunan üç kişilik koltuk ve yaşam alanının kaldırılması ve aracın elektrik test ölçüm aracına tadili sonrası ÖTV farkı.
+
+İlgide kayıtlı özelge talep formunuzda, 10/4/2013 tarihinde satın aldığınız Renault Traffic Multix Grand Confort marka aracın şoför koltuğunun arkasında bulunan üç kişilik koltuk ve yaşam alanının kaldırıldığı ve aracın elektrik test ölçüm aracına dönüştürülmesi amacıyla araca dolaplı elektrik test ölçüm cihazları ve operatörün çalışabilmesi için dönerli tek koltuk ilave edildiği belirtilerek, araca ilişkin ödenen KDV'nin indirim konusu yapılıp yapılamayacağı ve tadilat sonrası ÖTV farkı doğup doğmayacağı hususlarında Başkanlığımız görüşü talep edilmektedir.
+A- 3065 sayılı Katma Değer Vergisi Kanunu Uygulaması:
+3065 sayılı Katma Değer Vergisi Kanunu'nun 30/b maddesinde; "Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekilde işletilmesi olan mükelleflerin bu amaçla kullandıkları hariç olmak üzere işletmelere ait binek otomobillerinin alış vesikalarında gösterilen katma değer vergisi, mükellefin vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinden indirilemez." hükmüne yer verilmiştir.
+Mülga 23 Seri No'lu Katma Değer Vergisi Genel Tebliğinin "1.Binek Otomobillerinin Katma Değer Vergisi" başlıklı bölümünde; "3065 sayılı Katma Değer Vergisi Kanununun 30. maddesinin (b) bendinde yapılan değişikliğe göre, faaliyetleri; kısmen veya tamamen binek otomobillerinin kiralanması, taksicilik işletmeciliği yapılması veya binek otomobillerinin çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları binek otomobillerinin alışlarında ödenen ve faturalarda ayrıca gösterilen katma değer vergisi indirim konusu yapılabilecektir. Buna göre, binek otomobillerini yukarıda belirtildiği gibi çeşitli şekillerde işleten mükellefler bu amaçla kullanılan binek otomobilleri ile ilgili olarak indirim hakkından yararlanabileceklerdir.
+Ancak mükelleflerin işletme amacı dışında iktisap ettikleri binek otomobillerinin alış vesikalarında gösterilen katma değer vergisinin evvelce olduğu gibi indirimi mümkün değildir. İndirim konusu yapılamayan bu vergi, Gelir ve Kurumlar Vergisi Kanunları çerçevesinde işin mahiyetine göre gider veya maliyet unsuru olarak dikkate alınabilecektir. Bu uygulama binek otomobil işletmeciliği ile uğraşan mükelleflerin işletme amacı dışında satın aldıkları binek otomobiller için de geçerlidir." ifadeleri yer almaktadır.
+Buna göre; tarafınızdan satın alınan 2013 model Renault Traffic Multix Grand Confort marka araca ilişkin olarak ödenen katma değer vergisinin indirimi mümkün bulunmamakta olup, indirim konusu yapılamayan katma değer vergisinin doğrudan gider veya maliyet unsuru olarak dikkate alınması gerekmektedir.
+B- 4760 sayılı Özel Tüketim Vergisi Kanunu Uygulaması:
+Bilindiği üzere, 4760 sayılı Özel Tüketim Vergisi Kanunun (1/1-b) maddesi ile Kanuna ekli (II) sayılı listedeki mallardan kayıt ve tescile tabi olanların ilk iktisabı bir defaya mahsus olmak üzere ÖTV'ye tabi tutulmuş olup; Kanunun (2/1) maddesinde "ilk iktisap" ifadesi, (II) sayılı listedeki mallardan Türkiye'de kayıt ve tescil edilmemiş olanların kullanılmak üzere ithalini, müzayede yoluyla veya kayıt ve tescil edilmiş olsa dahi 4077 sayılı Tüketicinin Korunması Hakkında Kanun hükümlerine göre iade edilenler de dahil motorlu araç ticareti yapanlardan iktisabını, motorlu araç ticareti yapanlar tarafından kullanılmaya başlanmasını, aktife alınmasını veya adlarına kayıt ve tescil ettirilmesi olarak, "motorlu araç ticareti yapanlar"ifadesi ise (II) sayılı listedeki mallardan kayıt ve tescile tâbi olanları imal, inşa veya ithal edenler, fabrika, ana bayi, bölge bayii, bayi, yetkili satıcı ve acenteler ile Maliye Bakanlığınca bu nitelikte oldukları tespit edilenler olarak tanımlanmıştır.
+Ayrıca, aynı Kanunun (4/1-b) maddesinde verginin mükellefinin, (II) sayılı listedeki mallardan kayıt ve tescile tâbi olanlar için motorlu araç ticareti yapanlar, kullanmak üzere ithal edenler veya müzayede yoluyla satışını gerçekleştirenler olduğu; (11/3) maddesinde, (II) sayılı listedeki mallar için verginin matrahının, bunların teslimi, ilk iktisabı ve ithalinde, hesaplanacak özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardan teşekkül edeceği; (12/1) maddesinde de Kanuna ekli listelerde yer alan mallardan karşılarında belirtilen tutar ve/veya oranlarda Özel Tüketim Vergisi alınacağı hükme bağlanmıştır.
+Bunun yanı sıra, mezkur Kanunun (1/2) maddesinde, ÖTV kapsamına giren malların Türk Gümrük Tarife Cetvelinde tanımlanan eşyalar olduğu hüküm altına alınmış olup, bir malın Gümrük Tarife İstatistik Pozisyon numarasının belirlenmesi konusunda tek yetkili kurum Gümrük ve Ticaret Bakanlığı'dır. Yükümlülerin konuya ilişkin 10 Seri No.lu Gümrük Genel Tebliği (Tarife) uyarınca Bağlayıcı Tarife Bilgisi veya 11 Seri No.lu Gümrük Genel Tebliği (Tarife) uyarınca Tarife Bilgisi talepleri Gümrük ve Ticaret Bölge Müdürlüklerince sonuçlandırılmaktadır.
+Öte yandan, mezkur Kanunun (15/2-b) maddesinde, Kanuna ekli (II) sayılı listedeki mallardan kayıt ve tescile tabi olanların, ilk iktisap tarihinden itibaren beş yıl içinde 87.02 (Otobüs ve midibüs hariç), 87.03 veya 87.04 ("Diğerleri" grubu hariç) tarife pozisyonlarında yer alan mallara dönüştürülmesi halinde, daha önce ödenen vergi mahsup edilmek suretiyle bu malların ilk iktisabındaki matrah esas alınarak değişiklik uyarınca adına kayıt ve tescil işlemi yapılandan, değişikliğin kayıt ve tescili tarihinde dönüştürülen mallar için geçerli olan oran üzerinden, bu tarihte ÖTV alınacağı hükme bağlanmış olup, bu düzenleme ile ilgili açıklamalara 1 Seri No.lu Özel Tüketim Vergisi Genel Tebliğinin (15.3.2.) bölümünde yapılmıştır.
+Buna göre, söz konusu tadilat sonrası aracınıza ilişkin olarak başvurunuz üzerine ilgili Gümrük ve Ticaret Bölge Müdürlüğünce tespiti yapılacak tarife pozisyon numarasının 4760 sayılı Özel Tüketim Vergisi Kanununun (15/2-b) maddesinde belirtilen tarife pozisyon numaraları kapsamında olması halinde, yeni aracın daha düşük oranda ÖTV'ye tabi bir araç olmaması kaydıyla, tadilat masrafları dahil aracın emsal bedeli dikkate alınmak suretiyle mezkur Kanunun (15/2-b) maddesi ve 1 Seri No.lu Özel Tüketim Vergisi Genel Tebliğinin (15.3.2.) bölümü çerçevesinde ilave ÖTV beyanı ve ödemesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

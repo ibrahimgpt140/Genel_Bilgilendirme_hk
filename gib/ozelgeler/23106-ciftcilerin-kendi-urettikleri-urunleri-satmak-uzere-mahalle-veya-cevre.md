@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 23106
+baslik: "Çiftçilerin kendi ürettikleri ürünleri satmak üzere mahalle veya çevre pazarlara götürerek satmaları ve bu satışlarını belediyece Pazar yeri olarak ayrılan yerlerde herhangi bir yer tahsisi olmadan günlük işgaliye harcı ödemek suretiyle yapması durumunda"
+tarih: 2000-01-05
+sayi: "B.07.O.GEL.0.44/4407-1580/640"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/23106
+gib_guncelleme: 2025-03-24T19:29:58
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Çiftçilerin kendi ürettikleri ürünleri satmak üzere mahalle veya çevre pazarlara götürerek satmaları ve bu satışlarını belediyece Pazar yeri olarak ayrılan yerlerde herhangi bir yer tahsisi olmadan günlük işgaliye harcı ödemek suretiyle yapması durumunda
+
+**İlgili maddeler:** Madde 52 Zirai Kazanç, Zirai Faaliyet, Zirai İşletme, Çiftçi ve Mahsulün Tarifi
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 05.01.2000 SAYI : B.07.O.GEL.0.44/4407-1580/640 KONU : Çiftçilerin kendi ürettikleri malları pazarda satmaları halinde, ne şekilde vergilendirileceği hk. MANİSA VALİLİĞİ (Defterdarlık : Gelir Müdürlüğü'ne) İLGİ : 08.11.1996 tarih ve B.07.4.DEF.0.45.10/10.3641/6658 sayılı yazınız. İliniz ..... ilçesi Vergi Dairesi Müdürlüğünün ..... vergi numarasında kayıtlı mükelleflerinden ..... hakkındaki ilgide kayıtlı yazınız ve eklerinin incelenmesinden; adı geçenin babasına ait bahçede kendi yetiştirdiği sebze ve meyveleri haftada bir gün kurulan pazarda sattığı, kendi adına düzenlenen "Çiftçi Belgesi" bulunduğu, vergi dairesince manavlık faaliyetinden dolayı tesis edilen mükellefiyet şeklinin belirlenmesine esas görüşümüzün bildirilmesi istenilmektedir. Bilindiği üzere; 193 sayılı Gelir Vergisi Kanununun 52 nci maddesinde zirai faaliyet "...arazide, denizde, göl ve nehirlerde, ekim, dikim, bakım, üretim, yetiştirme ve ıslah yollariyle veyahut doğrudan doğruya tabiattan istifade etmek suretiyle nebat, orman, hayvan, balık ve bunların ürünlerinin üretilmesini, avlanmasını avcıları ve yetiştiricileri tarafından muhafazasını, taşımasını, satılmasını veya bu ürünlerden sair bir şekilde faydalanmasını ifade eder" şeklinde tanımlanmış, bu faaliyet sonucu üretilen maddelere de zirai ürün denileceği belirtilmiştir. Öte yandan, aynı Kanunun 52 nci maddesinin altıncı fıkrasında, zirai ürün satışlarının dükkan ve mağaza açılarak yapılması halinde, mahsüllerin dükkan ve mağazaya gelinceye kadar geçirdikleri safhaların zirai faaliyet safhasında kalacağı belirtilmiş ve çiftçiler tarafından doğrudan doğruya zirai faaliyetleri ile ilgili alım satım işlerinin tedviri için açılan yazıhanelerin, faaliyetleri bu mevzua münhasır kalmak şartıyla dükkan ve mağaza sayılmayacağı hükme bağlanmıştır. Bu hükümler uyarınca; çiftçilerin kendi ürettikleri ürünleri satmak üzere mahalle veya çevre pazarlara götürerek satmaları ve bu satışlarını belediyece Pazar yeri olarak ayrılan yerlerde herhangi bir yer tahsisi olmadan günlük işgaliye harcı ödemek suretiyle yapması durumunda bu faaliyetin zirai faaliyet, üretilen ürünlerin Pazar yerinde aylık kira alınmak suretiyle belediyece tahsis edilen yerlerde satılması durumunda bu yerler işyeri sayıldığından ticari faaliyet kapsamında değerlendirilmesi gerekmektedir. Bilgi edinilmesini ve gereğinin buna göre yapılarak neticesinden adı geçene bilgi verilmesini rica ederim. Bakan a.

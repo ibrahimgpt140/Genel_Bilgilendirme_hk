@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 31091
+baslik: "Ltd.  Şirketin  ihracatçı  firmaya  yaptığı fason  işçilik hizmetinin,  ihraç kaydıyla  bir  teslim  olmadığından,  tecil-terkin uygulaması kapsamında değerlendirilip değerlendirilemeyeceği hk."
+tarih: 2000-04-17
+sayi: "B.07.0.GEL.0.52/5211-103/15815"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/31091
+gib_guncelleme: 2025-03-24T20:01:47
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Ltd.  Şirketin  ihracatçı  firmaya  yaptığı fason  işçilik hizmetinin,  ihraç kaydıyla  bir  teslim  olmadığından,  tecil-terkin uygulaması kapsamında değerlendirilip değerlendirilemeyeceği hk.
+
+**İlgili maddeler:** Madde 11 Mal ve Hizmet İhracatı
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 17.04.2000 SAYI : B.07.0.GEL.0.52/5211-103/15815 KONU : Ltd. Şirketin ihracatçı firmaya yaptığı fason işçilik hizmetinin, ihraç kaydıyla bir teslim olmadığından, tecil-terkin uygulaması kapsamında değerlendirilip değerlendirilemeyeceği hk. MANİSA VALİLİĞİNE (Defterdarlık : Gelir Müdürlüğü) İLGİ : 08.02.2000 tarih ve 894 sayılı yazınız. İlgide kayıtlı yazınız ve ekleri incelendi. Bilindiği gibi, dahilde işleme ve geçici kabul rejimleri kapsamında ihraç tekstil ve konfeksiyon ürünlerinin imalinde kullanılacak maddelerin tesliminde Katma Vergisi Kanununun 11/1-c maddesi kapsamında tecil terkin işlemi yapılabilmesinin şartları 71 Seri No.lu Katma Değer Vergisi Genel Tebliğinde açıklanmıştır. Aynı tebliğde geçici kabul ve dahilde işleme izin belgesi kapsamında ithal edilen ham ve yardımcı kullanılarak üretilen malların ihraç kaydıyla tesliminde de tecil-terkin uygulanabileceği belirtilmiştir. Ancak, yazınız ekinde yer alan ..... Ltd. Şti.'nin dilekçe kumaş ve yardımcı maddelerin ihracatçı firma tarafından temin edildiği, firmalarınca sadece dikiş ile ilgili fason işçilik yapıldığı ifade edilmektedir. Katma Değer Vergisi Kanununun 11/1-c maddesi kapsamında tecil-terkin uygulamasına ilişkin açıklamaların yapıldığı 27 Seri No.lu Katma Değer Vergisi Tebliğinde, ücret karşılığında fason işi yapanların, yaptıkları bu iş dolayısıyla imalatçı sayılmayacakları belirtilmiştir. Bu durumda adı geçen şirketin, ihracatçı firmaya yaptığı fason işçilik hizmetinin; ihraç kaydıyla bir teslim olarak değerlendirilmesi mümkün olmadığından tecil-terkin uygulaması kapsamında işlem yapılmasına imkan bulunmamaktadır. Bilgi edinilmesini ve gereğini rica ederim. Bakan a.

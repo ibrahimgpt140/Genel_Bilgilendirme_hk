@@ -1,0 +1,42 @@
+---
+tur: Özelge
+gib_id: 22327
+baslik: "Tapusu şirket ortağına ait olan arsa üzerinde şirket tarafından yapılan dairelerin müşterilere satışında vergisel yükümlülükler ve belge düzeni hk."
+tarih: 2013-03-04
+sayi: "11395140-105[229-2012/VUK-1- . . .]--298"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/22327
+gib_guncelleme: 2025-03-24T19:29:13
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Tapusu şirket ortağına ait olan arsa üzerinde şirket tarafından yapılan dairelerin müşterilere satışında vergisel yükümlülükler ve belge düzeni hk.
+
+**İlgili maddeler:** Madde 38 Bilanço Esasında Ticari Kazancın Tespiti; Madde 229 Faturanın Tarifi; Madde 29 Vergi İndirimi
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Usul Grup Müdürlüğü
+Sayı | : | 11395140-105[229-2012/VUK-1- . . .]--298 | 04/03/2013
+Konu | : | Kat karşılığı inşaat işinde kat irtifakı tapularının sehven kurum ortağı üzerine alınması halinde inşaata ilişkin giderler vergisel yükümlülükler
+
+İlgide kayıtlı özelge talep formunuzda, kurumunuzun arsa sahipleri ile kat karşılığı inşaat sözleşmesi yaptığı, yapı ve ruhsat çıkarma aşamasında kurumunuz ortağı ...'ın da arsa üzerinden hisse aldığı, ruhsatta kurumunuzun müteahhit firma olarak gözüktüğü, kat irtifakı kurma aşamasında tapuların sehven ... adına çıkarıldığı, inşaat maliyetlerinin kurumunuz tarafından karşılandığı ve söz konusu faturaların da adınıza düzenlendiği belirtilerek, tapuların kurumunuz ortağı adına olması nedeniyle dairelerin müşterilere satışı aşamasında vergisel yükümlülükleriniz hususunda Başkanlığımız görüşü talep edilmiştir.
+I- KURUMLAR VERGİSİ KANUNU YÖNÜNDEN
+5520 sayılı Kurumlar Vergisi Kanununun "Safi kurum kazancı" başlıklı 6 ncı maddesinde; kurumlar vergisinin, mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hükmüne yer verilmiştir.
+Diğer taraftan, Vergi Usul Kanununun 3 üncü maddesinin (B) fıkrasında; vergilendirmede vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyetinin esas olduğu, vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyetinin yemin hariç her türlü delille ispatlanabileceği, vergiyi doğuran olayla ilgisi tabii ve açık bulunmayan şahit ifadesinin ispatlama vasıtası olarak kullanılamayacağı, iktisadi, ticari ve teknik icaplara uymayan veya olayın özelliğine göre normal ve mutat olmayan bir durumun iddia olunması halinde ispat külfetinin bunu iddia eden tarafa ait olduğu hükme bağlanmıştır.
+Bu itibarla; arsa sahipleri ile şirketiniz arasında imzalanan kat karşılığı inşaat sözleşmesine istinaden ruhsat çıkarma aşamasında müteahhit firma olarak görünmenize rağmen kat irtifakı kurma aşamasında tapuların sehven şirket ortağı ... adına çıkarılması işleminin, şirketinizi temsilen ve müteahhit firmanızın tapu müdürlüklerindeki işlemlerini yapmak üzere ve bedel karşılığı olmaksızın gerçekleştiğinin ispatlanması halinde, şirketinizin hissesine düşen dairelerin satışından elde edilen kazancın müteahhit firmanız tarafından beyanı gerektiğinden ... adına vergileme yapılmaması gerekmektedir.
+II- KATMA DEĞER VERGİSİ KANUNU YÖNÜNDEN
+3065 sayılı Katma Değer Vergisi Kanununun 1/1 inci maddesine göre; ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde Türkiye'de yapılan teslim ve hizmetler katma değer vergisine tabidir.
+Buna göre, tapu sicilinde ortağınız ... adına kayıtlı olmakla birlikte, kat karşılığı inşaat sözleşmesi uyarınca müteahhit firmanıza ait olan dairelerin satış işlemi kurum kazancınız olup, KDV Kanununun 1/1 inci maddesi gereğince KDV ye tabi tutulacaktır. Bu nedenle, ortağınız ... adına sehven tescil edilen arsa paylarının devrine yönelik tapuda gerçekleşen bedelsiz işlemler dolayısıyla ortağınız adına KDV yükümlülüğü tesis edilmesine gerek bulunmamaktadır.
+III- VERGİ USUL KANUNU YÖNÜNDEN
+213 sayılı Vergi Usul Kanununun 19 uncu maddesi uyarınca, vergi alacağı vergi kanunlarının vergiye bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğar.
+Mezkûr Kanunun 229 uncu maddesinde; "Fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesikadır." şeklinde tanımlanmış olup, 231 inci maddesinin 5 inci bendinde; "Fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azamî yedi gün içinde düzenlenir. Bu süre içerisinde düzenlenmeyen faturalar hiç düzenlenmemiş sayılır." hükmü yer almaktadır.
+Bu itibarla, kat karşılığı inşaat sözleşmesi gereği kurumunuza ait olan daireler fiilen şirket ortağı ...'a ait olmamakla beraber tapuda onun adına kayıtlı göründüğünden söz konusu dairelerin inşaat tamamlanmadan önce üçüncü kişilere satılması halinde mülkiyetin devri tapuda tescil suretiyle gerçekleşeceğinden satışa ilişkin faturanın müteahhit firmanız tarafından tapuya tescil tarihinden itibaren yedi gün içerisinde düzenlenmesi gerekmektedir.
+Öte yandan, inşaat tamamlandığında kurumunuz tarafından arsa sahiplerine yapılacak daire teslimlerinde emsal bedel üzerinden fatura düzenleneceği tabiidir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

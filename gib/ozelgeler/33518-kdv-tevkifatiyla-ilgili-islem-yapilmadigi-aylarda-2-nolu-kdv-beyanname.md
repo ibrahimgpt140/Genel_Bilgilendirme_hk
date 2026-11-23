@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 33518
+baslik: "KDV Tevkifatıyla ilgili işlem yapılmadığı aylarda 2 Nolu KDV Beyannamesinin boş olarak verilip verilmeyeceği"
+tarih: 2015-08-28
+sayi: "B.07.1.GİB.4.54.15.01-130[40-2015-31]-52"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/33518
+gib_guncelleme: 2025-03-24T20:12:54
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# KDV Tevkifatıyla ilgili işlem yapılmadığı aylarda 2 Nolu KDV Beyannamesinin boş olarak verilip verilmeyeceği
+
+**İlgili maddeler:** Madde 39 Vergilendirme Dönemi; Madde 40 Beyan Esası
+
+T.C. GELİR İDARESİ BAŞKANLIĞI SAKARYA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+ÇOK İVEDİ
+Sayı | : | 41931384-130[40-2015-31]-52 | 28/08/2015
+Konu | : | KDV Tevkifatıyla ilgili işlem yapılmadığı aylarda 2 Nolu KDV Beyannamesinin boş olarak verilip verilmeyeceği
+
+İlgide kayıtlı özelge talep formunuzda; şirketinizce sorumlu sıfatıyla 2 Nolu KDV Beyannamesini, tevkifata tabi işlemin olmadığı aylarda "beyan edilecek bilgim yoktur" seçeneği ile boş olarak verme mecburiyetinizin bulunup bulunmadığı hususunda Başkanlığımız görüşü istenilmektedir.
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun;
+- 39/1 inci maddesinde, katma değer vergisinde vergilendirme döneminin, faaliyet gösterilen takvim yılının üçer aylık dönemleri olduğu, ancak, Maliye Bakanlığının mükelleflerin yıllık gayri safi hâsılatlarına göre üç aylık vergilendirme dönemi yerine birer aylık vergilendirme dönemi tespit etmeye yetkili olduğu,
+- 40 ıncı maddesinin (1) numaralı fıkrasında, katma değer vergisinin, bu kanunda aksine hüküm bulunmadıkça mükelleflerin yazılı beyanları üzerine tarh olunacağı, (2) numaralı fıkrasında, bu kanunun 9 uncu maddesinde belirtilen hallerde bu beyanın, vergi kesintisi yapmakla sorumlu tutulanlar tarafından yapılacağı, (3) numaralı fıkrasında ise herhangi bir vergilendirme döneminde vergiye tabi işlemleri bulunmayan mükelleflerin de beyanname vermek mecburiyetinde oldukları,
+- 41/1 inci maddesinde, mükellefler ve vergi kesintisi yapmakla sorumlu tutulanların KDV beyannamelerini, vergilendirme dönemini takip eden ayın yirmi dördüncü günü akşamına kadar ilgili vergi dairesine vermekle yükümlü oldukları,
+hükme bağlanmıştır.
+Öte yandan, KDV Genel Uygulama Tebliğinin "V/B-2.1. Genel Açıklama" bölümünde; "KDV, bu Kanunda aksine hüküm bulunmadıkça mükelleflerin yazılı beyanları üzerine tarh olunur. Ayrıca Kanunun 9 uncu maddesinde belirtilen hallerde beyan, vergi kesintisi yapmakla sorumlu tutulanlar tarafından yapılır.
+KDV mükellefi olmakla birlikte bir vergilendirme döneminde vergiye tabi işlemi bulunmayan kimselerde beyanname vermek zorundadırlar. Ancak kendilerine, Kanunun 9 uncu maddesiyle; vergi kesmek sorumluluğu yüklenen kimseler, vergiye tabi işlemlerinin bulunmadığı vergilendirme dönemlerinde beyanname vermezler.
+….."
+açıklamalarına yer verilmiştir.
+Buna göre, şirketinizin KDV Kanununun 9 uncu maddesi kapsamında tevkifata tabi bir işleminin bulunmadığı aylarda, sorumlu sıfatıyla 2 Nolu KDV Beyannamesi verme zorunluluğu bulunmamaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

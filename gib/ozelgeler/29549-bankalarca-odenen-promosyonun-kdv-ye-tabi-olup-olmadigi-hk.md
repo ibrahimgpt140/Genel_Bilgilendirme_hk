@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 29549
+baslik: "Bankalarca ödenen promosyonun KDV'ye tabi olup olmadığı hk."
+tarih: 2012-01-30
+sayi: "B.07.1.GİB.4.35.17.01-35-02-101"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/29549
+gib_guncelleme: 2025-03-24T19:55:46
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Bankalarca ödenen promosyonun KDV'ye tabi olup olmadığı hk.
+
+**İlgili maddeler:** Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 4 Hizmet; Madde 20 Teslim ve Hizmet İşlemlerinde Matrah; Madde 1 Kapsam
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İZMİR VERGİ DAİRESİ BAŞKANLIĞI Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü
+
+Sayı | : | B.07.1.GİB.4.35.17.01-35-02-101 | 30/01/2012
+Konu | : | Bankalarca ödenen promosyonun KDV'ye tabi olup olmadığı.
+
+İlgide kayıtlı dilekçenizde; şirket personelinin ücret ödemeleri için anlaştığı bankalardan sağlanan promosyon tutarının katma değer vergisinin (KDV) konusuna girip girmediği konusunda bilgi verilmesi istenilmektedir.
+KDV Kanununun;
+-1/1 inci maddesinde, Türkiye'deki ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV'ye tabi olduğu,
+- 4 üncü maddesinde hizmetin, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu; bu işlemlerin, bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmamayı taahhüt etmek gibi şekillerde gerçekleşebileceği
+-20 nci maddesinde, teslim ve hizmet işlemlerinde matrahın, bu işlemlerin karşılığını teşkil eden bedel olduğu, bedel deyiminin ise, malı teslim alan veya kendisine hizmet yapılan veyahut bunlar adına hareket edenlerden bu işlemler karşılığında her ne suretle olursa olsun alınan veya bunlarca borçlanılan para, mal ve diğer suretlerde sağlanan ve para ile temsil edilebilen menfaat, hizmet ve değerler toplamını ifade ettiği,
+hüküm altına alınmıştır.
+Buna göre;
+1-Şirketiniz personelinin maaşlarının bankaya yatırılması işlemine bağlı olarak banka tarafından personelinize yapılacak promosyon ödemeleri KDV'ye tabi bulunmamaktadır.
+2-Promosyon ödemeleri üzerinden şirketiniz tarafından komisyon alınması veya promosyon ödemesinin bir kısmının şirketinize yapılması (şirketiniz hesaplarının söz konusu bankada bulunması sebebiyle) halinde şirketinize yapılacak promosyon ödemesi veya söz konusu komisyon tutarı üzerinden şirketinizce düzenlenecek faturada %18 oranında KDV hesaplanması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

@@ -1,0 +1,32 @@
+---
+tur: Özelge
+gib_id: 21032
+baslik: "Giyim eşyalarıyla zati ve süs eşyaları, değeri yüksek olan ev eşyaları ile pazar takibi  suretiyle gıda, bakkaliye  ve temizlik maddelerini ve sabit iş yerlerinin önünde sergi açmak suretiyle o iş yerlerinde satışı yapılan aynı neviden malları  satanlar h"
+tarih: 2003-06-18
+sayi: "B.07.0.GEL.0.44/4417-352/26091"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21032
+gib_guncelleme: 2025-03-24T19:28:28
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Giyim eşyalarıyla zati ve süs eşyaları, değeri yüksek olan ev eşyaları ile pazar takibi  suretiyle gıda, bakkaliye  ve temizlik maddelerini ve sabit iş yerlerinin önünde sergi açmak suretiyle o iş yerlerinde satışı yapılan aynı neviden malları  satanlar h
+
+**İlgili maddeler:** Madde 9 Vergiden Muaf Esnaf
+
+T.C.
+MALİYE BAKANLIĞIGelirler Genel Müdürlüğü
+
+SAYI : B.07.0.GEL.0.44/4417-352 18.06.2003 * 26091
+KONU :
+
+................ VALİLİĞİNE
+(Defterdarlık: Gelir Müdürlüğü)
+
+İLGİ : ................ tarihli ve ................ sayılı yazınız.
+İlgide kayıtlı yazınız ekinde yer alan iliniz ................Camiini Koruma ve Hayır İşlerine Yardım Derneğine tayin edilen 07.02.2003 tarih ve 1100 sayılı muktezanız incelenmiş olup, aşağıdaki açıklamaların yapılmasına gerek görülmüştür.
+Bilindiği üzere, 193 sayılı Gelir Vergisi Kanunu'nun 9 uncu maddesinin 1 numaralı bendinin parantez içi hükmü 4369 sayılı Kanunla "Giyim eşyalarıyla zati ve süs eşyaları, değeri yüksek olan ev eşyaları ile pazar takibi suretiyle gıda, bakkaliye ve temizlik maddelerini ve sabit iş yerlerinin önünde sergi açmak suretiyle o iş yerlerinde satışı yapılan aynı neviden malları satanlar hariç" şeklinde değiştirilerek " mutad meslek haline getirenler" ifadesi bent hükmünden çıkarılmıştır.
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Bakan a.

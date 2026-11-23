@@ -1,0 +1,38 @@
+---
+tur: Özelge
+gib_id: 27628
+baslik: "Yurt dışında mukim firmadan internet üzerinden reklam verilmesi amacıyla yapılan alan kiralaması işlemi için yapılan ödemelerle ilgili KDV ve stopaj uygulaması hk."
+tarih: 2012-02-23
+sayi: "B.07.1.GİB.4.34.16.01-KVK 30-725"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/27628
+gib_guncelleme: 2025-03-24T19:47:38
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yurt dışında mukim firmadan internet üzerinden reklam verilmesi amacıyla yapılan alan kiralaması işlemi için yapılan ödemelerle ilgili KDV ve stopaj uygulaması hk.
+
+**İlgili maddeler:** Madde 3 Tam ve dar mükellefiyet; Madde 30 Dar mükellefiyette vergi kesintisi; Madde 1 Verginin Konusunu Teşkil Eden İşlemler; Madde 4 Hizmet; Madde 6 İşlemlerin Türkiye'de Yapılması; Madde 9 Vergi Sorumlusu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Vergileri Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.34.16.01-KVK 30-725 | 23/02/2012
+Konu | : | Yurt dışında mukim firmadan internet üzerinden reklam verilmesi amacıyla yapılan alan kiralaması işlemi için yapılan ödemelerle ilgili KDV ve stopaj uygulaması
+
+İlgide kayıtlı özelge talep formunuz ile konuya ilişkin olarak alınan 12/11/2010 tarihli ve ... sayılı dilekçenizin tetkikinde, ... Vergi Dairesi Müdürlüğünün ... vergi kimlik numarasında kayıtlı mükellefi olduğunuz, Amerika Birleşik Devletleri'nde ... adresinde mukim ... Online İnc. Firması ile çalıştığınız, şirketinize reklam verenlere ... Advertising Türkiye bünyesinde bulunan reklam alanlarını kullanarak yayın yaptığınız, bunun karşılığında ... Advertising şirketinden belirli oranda komisyon aldığınız, söz konusu firma tarafından tarafınıza aylık olarak yaptığınız reklamların karşılığı fatura düzenlendiği ve bu faturalarda komisyonunuzun düşüldüğü, gelen faturalardaki brüt tutarlar üzerinden şirketinizce KDV ve stopaj hesaplanarak ödendiği belirtilerek, bahse konu reklam hizmetleri karşılığında anılan firmaya yaptığınız ödemeler üzerinden vergi kesintisi yapılıp yapılmayacağı ile bu ödemelerin KDV'ye tabi olup olmayacağıyla ilgili olarak Başkanlığımız görüşlerinin talep edildiği anlaşılmış olup, konuyla ilgili Başkanlığımız görüşleri aşağıdaki gibidir.
+KURUMLAR VERGİSİ YÖNÜNDEN
+5520 sayılı Kurumlar Vergisi Kanunu'nun 3'üncü maddesinin ikinci fıkrasında; Kanun'un 1'inci maddesinde sayılan kurumlardan, kanunî ve iş merkezlerinden her ikisi de Türkiye'de bulunmayanların, dar mükellef esasında sadece Türkiye'de elde ettikleri kazançları üzerinden vergilendirileceği hükmü getirilmiş, üçüncü fıkrasında ise dar mükellefiyette kurum kazancını oluşturan kazanç ve iratlar sayılmıştır.
+Öte yandan, anılan Kanun'un 30'uncu maddesinde, dar mükellefiyete tabi kurumların bu madde de yer alan kazanç ve iratları üzerinden, bu kazanç ve iratları avanslarda dahil nakden veya hesaben ödeyen veya tahakkuk ettirenler tarafından % 15 oranında kurumlar vergisi kesintisi yapılması öngörülmüş ise de, gerek bu madde de gerekse maddenin (8) numaralı fıkrasına istinaden 03/02/2009 tarihli Resmi Gazete'de yayımlanan 2009/14593 sayılı Bakanlar Kurulu Kararında ticari kazanç kapsamındaki ödemeler üzerinden vergi kesintisi yapılmasına ilişkin herhangi bir hüküm bulunmamaktadır.
+31/12/1997 tarihli ve23217 sayılı Resmi Gazete'de yayımlanan Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması'nın ticari kazançlar ile ilgili 7'nci maddesinin birinci fıkrasında, bir Akit Devlet teşebbüsüne ait kazancın, söz konusu teşebbüsün diğer Akit Devlette yer alan bir iş yeri vasıtasıyla ticari faaliyette bulunmadıkça, yalnız ilk bahsedilen Devlette vergilendirileceği; teşebbüsün iş yeri vasıtasıyla ticari faaliyette bulunması halinde kazancın bu diğer Devlette, iş yerine atfedilebilen miktarla sınırlı olmak üzere vergilendirilebileceği hükmüne yer verilmiştir.
+Bu hükümlere göre, internet üzerinde reklam verilmesi amacıyla yapılan reklam alanı kiralaması işleminin ticari faaliyet kapsamında değerlendirilmesi gerekmekte olup, Türkiye Cumhuriyeti ile Amerika Birleşik Devletleri arasında yapılan ikili anlaşmanın 7'nci maddesinin birinci fıkrası hükmüne göre, söz konusu reklam hizmeti için alan kiralama hizmeti veren Amerika Birleşik Devletleri mukimi ... Advertising firmasına ödeyeceğiniz bedeller üzerinden herhangi bir vergi kesintisi yapılmaması gerekmektedir.
+Öte yandan, Amerika Birleşik Devletleri'nde mukim firmanın, Anlaşma'nın "İşyeri"ne ilişkin bir örneği ekli 5'inci maddesi kapsamında Türkiye'de bir işyerine sahip olması veya daimi temsilci bulundurması ve söz konusu kazancın bu işyeri veya daimi temsilci vasıtasıyla elde edilmesi veya şirketinizin bu nitelikleri taşıması halinde, söz konusu kazancın ticari kazanç olarak değerlendirilmesi ve yıllık beyanname ile beyan edilerek vergilendirilmesi gerekmektedir.
+KATMA DEĞER VERGİSİ YÖNÜNDEN
+3065 Sayılı Katma Değer Vergisi (KDV) Kanunu'nun 1/1 maddesinde; Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin, 1/2 maddesinde; her türlü mal ve hizmet ithalatının KDV'ye tabi olduğu, 4/1 maddesinde; hizmetin, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu ve bu işlemlerin; bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmamayı taahhüt etmek gibi, şekillerde gerçekleşebileceği, 6/b maddesinde; işlemlerin Türkiye'de yapılmasının, hizmetin Türkiye'de yapılmasını veya hizmetten Türkiye'de faydalanılmasını ifade ettiği, 9/1 maddesinde, mükellefin Türkiye içinde ikametgâhının, işyerinin, kanunî merkezi ve iş merkezinin bulunmaması hallerinde ve gerekli görülen diğer hallerde Maliye Bakanlığının, vergi alacağının emniyet altına alınması amacıyla, vergiye tabi işlemlere taraf olanları verginin ödenmesinden sorumlu tutabileceği, hüküm altına almıştır.
+Diğer taraftan, 15 Seri No.lu KDV genel Tebliği'nin (C) bölümünde; "KDV Kanununun 1. maddesine göre işlemler Türkiye'de yapıldıkları takdirde vergiye tabi tutulabilecektir. Aynı Kanunun 6/b maddesine göre, Türkiye'de yapılan, ... veya faydalanılan hizmetler Türkiye'de ifa edilmiş sayılacaktır. Yurt dışındaki firmalara yaptırılan hizmetlerden bu kapsama girenlerin vergiye tabi olacağı açıktır. Bu gibi hizmet ifalarında mükellef esas olarak yurt dışındaki firma olmakla birlikte, firmanın Türkiye'de ikametgahı, işyeri, kanuni merkezi ve iş merkezi bulunmaması halinde vergi, sözü edilen Kanunun 9. maddesi gereğince hizmetten faydalanan yurt içindeki muhatap tarafından bağlı bulunulan vergi dairesine sorumlu sıfatıyla beyan edilip ödenecektir." denilmektedir.
+Buna göre, Amerika Birleşik Devletlerinde mukim olan ve internet üzerinde faaliyet gösterdiği belirtilen ... Advertising şirketinden yine internet üzerinde reklam hizmeti vermek amacıyla alan kiralanması işlemi KDV'ye tabi olup, söz konusu işlem üzerinden hesaplanan KDV'nin tamamının Şirketiniz tarafından tevkif edilerek, sorumlu sıfatıyla 2 No.lu KDV beyannamesi ile beyan edilip, kanuni süresi içinde ödenmesi gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

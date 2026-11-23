@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 33216
+baslik: "Eğitim amaçlı periyodik olmayan kitap ve broşür gibi diğer yayınların satışında da katma değer vergisi oranının %8 olarak uygulanması gerekmektedir. ·"
+tarih: 1997-05-06
+sayi: "B.07.0.GEL.0.55-5529-1529/18457"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/33216
+gib_guncelleme: 2025-03-24T20:10:31
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Eğitim amaçlı periyodik olmayan kitap ve broşür gibi diğer yayınların satışında da katma değer vergisi oranının %8 olarak uygulanması gerekmektedir. ·
+
+**İlgili maddeler:** Madde 28 Oran (1)
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 06.05.1997 SAYI : B.07.0.GEL.0.55-5529-1529/18457 KONU : Eğitim amaçlı periyodik olmayan yayın- ların ve dergi satışlarının K.D.V. oranı hk. TARIM VE KÕY İŞLERİ BAKANLIĞINA YAYIN DAİRESİ BAŞKANLIĞI İLGİ: 10.4.1997 gün ve 001-216 sayılı yazınız. İlgi yazınız incelendi. 3065 sayılı Katma Değer Vergisi Kanununun 28. maddesinin Bakanlar Kuruluna verdiği yetkiye istinaden yayımlanan 95/6431 sayılı Kararname ile değişik 92/3896 sayılı Kararname eki I sayılı listenin 6. sırasında "gazete ve dergilerin tesliminde katma değer vergisi oranı %l, II sayılı listenin 8. sırasında da "kitap ve benzeri yayınların teslimine ait oran % 8 olarak belirlenmiştir. Buna göre, Yayın Dairesi Başkanlığı Döner Sermaye İşletmesi Müdürlüğünün faaliyetlerine ilişkin olarak uygulanmakta olan işlemleri belirten dilekçenizin 1 ve 2. paragraflarındaki işlemlerde katma değer vergisi yönünden Kanuna aykırı bir husus bulunmamaktadır. Ancak, yazınızın 3. maddesindeki eğitim amaçlı periyodik olmayan kitap ve broşür gibi diğer yayınların satışında da katma değer vergisi oranının yukarıda tarih ve sayısı belirtilen Kararname eki II sayılı Listenin 8. sırasına istinaden %8 olarak uygulanması gerekmektedir. · Aynı maddede ifade edilen dergi satışlarının ise yukarıdaki açıklamalar çerçevesinde değerlendirilmesi uygun olacaktır. Bilgi edinilmesini arz ederim. Bakan a. Daire Başkanı

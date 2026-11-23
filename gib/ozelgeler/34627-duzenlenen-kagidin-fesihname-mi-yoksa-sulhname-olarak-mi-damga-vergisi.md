@@ -1,0 +1,31 @@
+---
+tur: Özelge
+gib_id: 34627
+baslik: "Düzenlenen kağıdın fesihname mi yoksa sulhname olarak mı damga vergisine tabi olacağı hk."
+tarih: 2014-11-03
+sayi: "97895701-155[1-2014/30]-2447"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34627
+gib_guncelleme: 2025-03-24T20:19:01
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Düzenlenen kağıdın fesihname mi yoksa sulhname olarak mı damga vergisine tabi olacağı hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 2 Şümul; Madde 3 Mükellef; Madde 4 Kağıtların Mahiyetlerinin Tayini
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Diğer Vergiler Grup Müdürlüğü
+Sayı : 97895701-155[1-2014/30]-2447 03/11/2014
+Konu : Düzenlenen kağıdın fesihname mi yoksa sulhname olarak mı damga vergisine tabi olacağı hk.
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, şirketiniz ile T.C. Milli Savunma Bakanlığı İstanbul Bölge Tedarik Komutanlığı arasında 1676 adet Sivil Tip Kaban Tedariki için 14/11/2013 tarihli bir nüsha "Muhtelif Giyim Kuşam Malzemesi Mal Alımına Ait Sözleşme " başlıklı sözleşmenin imzalandığı, ancak sözleşme eki şartnamede yazılı fermuar ölçülerinin yanlış yazılması ve bu ölçü değerlerine göre üretim yapılamayacağı gerekçesi ile ihtilafa düşüldüğü, bu doğrultuda Milli Savunma Bakanlığı Hukuk Müşavirliği Davalar Dairesi Başkanlığı tarafından uyuşmazlığın sulh yolu ile çözümlenmesi yönünde uygun görüş verdiği, bu amaçla şirketiniz ile ilgili idare arasında "Sulh Anlaşması Taslağı" başlıklı kağıdın imzalandığı belirtilerek, söz konusu kağıdın Damga Vergisi Kanunu yönünden nasıl vergilendirileceği hususunda görüş talep edildiği anlaşılmaktadır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu, bu Kanundaki kağıtlar teriminin, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade edeceği; 2 nci maddesinde, vergiye tabi kağıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine devrine veya bozulmasına ilişkin mektup ve şerhlerin de damga vergisine tabi olacağı; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği; 4 üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı, mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınacağı; 8 inci maddesinde bu Kanunda yazılı resmi daireden maksadın genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köyler olduğu hükme bağlanmıştır.
+Kanuna ekli (1) sayılı tablonun "I. Akitlerle ilgili kağıtlar" başlıklı bölümün A-1 fıkrasında belli parayı ihtiva eden mukavelename, taahhütname ve temliknamelerin; A-4 fıkrasında ise tahkimnameler ve sulhnamelerin nispi damga vergisine tabi olduğu hüküm altına alınmıştır.
+Diğer taraftan, sulhname, bir akdin uygulanmasında ortaya çıkacak sorunların mahkeme veya hakeme gitmeden taraflarca sulh yolu ile giderilmesi dolayısıyla düzenlenen kağıtlardır.
+İlgide kayıtlı özelge talep formu eki "Sulh Anlaşması Taslağı" başlıklı kağıdın 4 üncü maddesinde, "îdare, yüklenici .... Limited Şirketi arasında imzalanan 14 Kasım 2013 tarih ve 2-123679-0100 sayılı sözleşmenin varlığının devam etmesinin, idare ve yüklenicinin karşılıklı olarak zarara uğramasına ve her iki tarafın da sözleşmeden beklediği menfaati elde edememesine sebep olacağını ve bu sebeple adı geçen sözleşmenin sulhen tasfiye edilmesinin her iki tarafın da ortak iradesinin ürünü olduğunu taraflar karşılıklı olarak beyan ve kabul ederler"; 5 inci maddesinde, "îdare, yüklenici .... Limited Şirketinden tasfiye konusu sözleşmeye şamil olmak üzere, alacağı olan edimlerden feragat ile yüklenicinin sözleşmeden doğan borçlarından ibra eder. îdare, yüklenicinin de Milli Savunma Bakanlığını sözleşmeden doğan borçlarından ibra etmesini kabul eder."; 6 ncı maddesinde, "Yüklenici de, tasfiye konusu sözleşmeye şamil olmak üzere, Milli Savunma Bakanlığından olan tüm hak ve alacaklarından feragat ile idareyi sözleşmeden doğan tüm borçlarından ibra eder ve idarenin yükleniciyi sözleşmeden doğan borçlarından ibra etmesini kabul eder."; 9 uncu maddesinde, "Taraflar, işbu sulhen tasfiye sözleşmesi kapsamında birbirlerini karşılıklı olarak ibra etmiş olacak ve bu iş sebebiyle başkaca hiçbir talepte veya hak iddiasında bulunmayacaktır."; 11 nci maddesinde, "Her iki tarafın ortak iradesi ile kaleme alınan işbu sulhen tasfiye sözleşmesi, MSB Hukuk Müşavirliği ve Davalar Dairesi Başkanlığının uygun görüşü alındıktan sonra idare tarafından imzalanmasına müteakip yürürlüğe girecektir. Sulhen tasfiye sözleşmesi yürürlüğe girdikten sonra îdare ile .... Limited Şirketi arasında imzalanan 14 Kasım 2013 tarih ve 2-123679­0100 sayılı sözleşmenin tasfiyesi gerçekleştirilecek, tasfiye konusu sözleşme ve eklerinin hükümlerinden doğan tarafların sorumlulukları, işbu sulhen tasfiye sözleşmesinde yer alan hükümler çerçevesinde ortadan kalkacaktır."; 12 nci maddesinde, "îşbu sulhen tasfiye sözleşmesi ilam hükmünde olup, sulhen üzerinde anlaşılan hususlar hakkında taraflarca dava açılmayacaktır " denilmektedir.
+Yukarıda yapılan açıklamalar çerçevesine, ilgide kayıtlı özelge talep formunuz eki şirketiniz ile İstanbul Tedarik Bölge Komutanlığı arasında imzalanan 16/12/2013 tarihli " Sulh Anlaşması Taslağı" başlıklı kağıdın, atıfta bulunduğu 14/11/2013 tarihli sözleşmenin bedeli üzerinden sulhname olarak Kanuna ekli (1) sayılı tablonun I/A-4 fıkrasına göre nispi damga vergisine tabi tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

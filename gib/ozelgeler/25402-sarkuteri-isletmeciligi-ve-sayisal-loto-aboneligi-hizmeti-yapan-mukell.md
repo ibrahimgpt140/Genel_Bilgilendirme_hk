@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 25402
+baslik: "Şarküteri işletmeciliği ve sayısal loto aboneliği hizmeti yapan mükellefler defter tutma bakımından hangi sınıfa girdiğinin tespiti hakkında."
+tarih: 1997-03-17
+sayi: "B.07.0.GEL.0.29/2906-177-502/l0946"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25402
+gib_guncelleme: 2025-03-24T19:39:44
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Şarküteri işletmeciliği ve sayısal loto aboneliği hizmeti yapan mükellefler defter tutma bakımından hangi sınıfa girdiğinin tespiti hakkında.
+
+**İlgili maddeler:** Madde 177 Birinci Sınıf Tüccarlar
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 17.03.l997 SAYI : B.07.0.GEL.0.29/2906-177-502/l0946 KONU : Şarküteri işletmeciliği ve sayısal loto abone liği hizmeti yapan mükellefin defter tutma bakımından hangi sınıfa girdiğinin tespiti hk. ..................... VALİLİĞİ (Defterdarlık:Denetim Koordinasyon ve Usul Gelir Müdürlüğüne) ÍLGI: ..................... gün ve ..................... sayılı yazınız. İlgide kayıtlı yazınız ekinde alınan.................. ait dilekçenin incelenmesinden, İliniz Şirinyer Vergi Dairesi Müdürlüğünde Şarküteri işletmeciliğinden dolayı mükellefiyeti bulunan adı geçenin bu faaliyetinin yanında sayısal loto aboneliği hizmeti de yapmakta olduğu, bu abonelik hizmetinin belirli komisyon karşılığında yapıldığı, mükellefin sayısal lotodan dolayı ortalama cirosunun yaklaşık 15-16 milyar olduğundan bahisle, sınıf tayininde sayısal lotodan sağlanan cironun tamamının mı yoksa komisyonun mu esas alınacağı hususunun sorulduğu anlaşılmış olup, konuya ilişkin açıklama aşağıda yapılmıştır. Bilindiği üzere, 213 sayılı Vergi Usul Kanununun 177 nci maddesinde, birinci sınıf tüccarların kimler olduğu 6 bent halinde sayılmakta, 3 numaralı bendinde, "1 ve 2 numaralı bentlerde yazılı işlerin birlikte yapılması halinde 2 numaralı bentte yazılı iş hasılatının beş katı ile yıllık satış tutarının toplamı 5.200.000.000 lirayı aşanlar... I nci sınıfa dahildirler." hükmü yer almaktadır. Buna göre, sõz konusu mükellefçe şarkütericilik faaliyeti ile sayısal Loto abonelik hizmetleri birlikte yapıldığından bu mükellef için 177 nci maddenin 3 numaralı bent hükmüne göre işlem yapılması gerekmektedir. Bu durumda, sayısal loto aboneliği hizmetinden dolayı alınan komisyon miktarının gayri safi iş hasılatı kabul edilmesi ve bu hasılatın beş katı ile şarküteri işletmesine ilişkin yıllık satış tutarı toplamının 5.200.000.000 lirayı aşması halinde söz konusu mükellefin bilanço esasına göre defter tutması gerekecektir. Bilgi edinilmesini ve durumun adı geçene duyurulması hususunda gereğini rica ederim. Bakan a. Daire Başkanı

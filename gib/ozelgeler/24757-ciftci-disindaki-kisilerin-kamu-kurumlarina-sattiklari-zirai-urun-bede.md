@@ -1,0 +1,39 @@
+---
+tur: Özelge
+gib_id: 24757
+baslik: "Çiftçi dışındaki kişilerin kamu kurumlarına sattıkları zirai ürün bedelleri üzerinden adlarına yapılan tevkifatın yıllık beyannamede mahsup veya iadesi hk."
+tarih: 2014-07-15
+sayi: "85550353-120.[2013-110]-14"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/24757
+gib_guncelleme: 2025-03-24T19:33:09
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Çiftçi dışındaki kişilerin kamu kurumlarına sattıkları zirai ürün bedelleri üzerinden adlarına yapılan tevkifatın yıllık beyannamede mahsup veya iadesi hk.
+
+**İlgili maddeler:** Madde 121 Vergi Tevkifatının Mahsubu
+
+T.C. RİZE VALİLİĞİ Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | 85550353-120.[2013-110]-14 | 15/07/2014
+Konu | : | Gelir Vergisi Tevkifatı Hk.
+
+İlgide kayıtlı özelge talep formunuzda, gıda maddelerinin toptan ve perakende ticaretini yaptığınız, .... Fen Lisesi ile ..... Anadolu Öğretmen Lisesine yapılan gıda satışları üzerinden % 4 oranında gelir vergisi tevkifatı yapıldığı, gıda malzemesi alımlarınızın tamamının firmalardan fatura karşılığı alışlar olduğu belirtilerek, yapılan gelir vergisi tevkifatlarının yıllık gelir vergisi beyannamesinde hesaplanan gelir vergisinden mahsup edilip edilmeyeceği hususunda bilgi istenmektedir.
+193 sayılı Gelir Vergisi Kanununun "Vergi Tevkifatı" başlıklı 94 üncü maddesinde; "Kamu idare ve müesseseleri, iktisadi kamu müesseseleri, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbest meslek erbabı, zirai kazançlarını bilanço veya zirai işletme hesabı esasına göre tespit eden çiftçiler aşağıdaki bentlerde sayılan ödemeleri (avans olarak ödenenler dahil) nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vergilerine mahsuben tevkifat yapmaya mecburdurlar." hükmü yer almaktadır.
+213 sayılı Vergi Usul Kanununun 11 inci maddesi, tevkif yoluyla ödenen vergilerde müteselsil sorumluluk esasını getirmiştir. Söz konusu maddede, mal alım satımı dolayısıyla vergi kesintisi yapmak ve vergi dairelerine yatırmak zorunda olanlarla alım satıma taraf olanların tümünün verginin ödenmesinden müteselsilen sorumlu olacakları belirtilmiştir. Ayrıca, 3418 sayılı Kanunla 11 inci maddeye eklenen fıkra ile zirai ürünlerin (işlenmiş olanlar dahil) alım ve satımına aracılık eden kuruluşlar ve Ticaret Borsalarını, bu mahsullerin satın alınması sırasında yapılacak vergi tevkifatından müteselsilen sorumlu tutma; söz konusu ürünlerin satışı dolayısıyla yapılacak vergi tevkifatının hangi safhada yapılacağını her bir ürün için ayrı ayrı belirleme konusunda, Maliye Bakanlığı yetkili kılınmıştır.
+Diğer taraftan, Bakanlığımızca hazırlanıp 15.09.1990 gün ve 20636 sayılı Resmi Gazete'de yayımlanan 164 seri no.lu Gelir Vergisi Genel Tebliği ile zirai ürünlerin alımında yapılacak gelir vergisi tevkifatı ve müteselsil sorumluluk konusunda gerekli açıklamalar yapılmıştır.
+Söz konusu Tebliğin 3 üncü bölümünde, 193 sayılı Gelir Vergisi Kanununun 94 üncü maddesinde sayılan kişi, kurum ve kuruluşların çiftçilerden satın aldıkları zirai ürünler için yaptıkları ödemelerden (avans olarak ödenenler dahil) tevkifat yapmak zorunda oldukları; ancak bu tevkifatın yapılmaması halinde, ürünü çiftçiden satın alanın sorumluluğu olmakla birlikte, bu ürünün daha sonraki safhalarda alım-satımına taraf olanların da tevkif yoluyla ödenmeyen bu vergi ile buna bağlı ceza, gecikme faizi ve gecikme zammından müteselsilen sorumlu olacakları açıklanmıştır.
+Diğer bir anlatımla, zirai ürünleri çiftçi dışındaki kişilerden satın alanlar bu ürünlerle ilgili gelir vergisi tevkifatının yapıldığına kanaat getirirlerse gelir vergisi tevkifatını yapmayabileceklerdir. Bu durumda tevkif yoluyla ödenmesi gereken vergi ile buna bağlı ceza, gecikme faizi ve gecikme zammından müteselsilen sorumlu olacaklardır. Ancak, mükelleflerin müteselsil sorumluluğun dışında kalmayı tercih etmeleri halinde zirai ürünü kimden satın almış olurlarsa olsunlar gelir vergisi tevkifatı yaparak ilgili vergi dairesine yatırmak zorundadırlar.
+Aynı Tebliğinin "5590 sayılı Kanuna Göre Kurulmuş Bulunan Ticaret Borsalarında Tescil Ettirilerek Satın Alınan Zirai Ürün Bedellerinden Yapılacak Gelir Vergisi Tevkifatı ve Müteselsil Sorumluluk" başlıklı 4 üncü bölümünde, borsada işlem gören zirai ürünlerin tescil ettirilerek çiftçi dışındaki kişi ve kuruluşlardan satın alınması halinde, borsada tescil ettirilerek satın alınan zirai ürünler için, satın alanların müteselsil sorumluluğunun bulunmadığı, öte yandan bu Tebliğin 1, 2 ve 3 üncü bölümlerinde belirtilen kamu kurum ve kuruluşları ile diğer kişi, kurum ve kuruluşların çiftçi dışında kalan kişi, kurum ve kuruluşlardan, ticaret borsalarında tescil ettirerek, satın aldıkları zirai ürün bedelleri üzerinden, gelir vergisi tevkifatı yapmayacakları ve müteselsilen de sorumlu olmayacakları ancak, gerek çiftçilerden borsada tescil ettirilerek satın alınan, gerekse kişi, kurum ve kuruluşlardan yapılan zirai ürün alımlarında ürünün daha önce çiftçiden satın alınması esnasında gelir vergisi tevkifatının yapılmamış olması halinde, tevkif yoluyla ödenmesi gereken vergi ile buna bağlı ceza, gecikme faizi ve gecikme zammından tescil işlemini yapan borsalar ve vergisi tevkif yoluyla ödenmeyen zirai ürünü borsaya getirenlerin de müteselsil sorumlu olacakları belirtilmiştir.
+Öte yandan, anılan Tebliğin "Müteselsil Sorumluluk Çerçevesinde Tevkif Edilen Vergilerin Mahsubu" başlıklı 11/b bölümünde ise;
+"Zirai ürün alım-satım işi yapan kişi ve kuruluşların, sattıkları zirai ürün bedelleri üzerinden tevkif edilen vergiler, yıllık beyanname üzerinden hesaplanan vergilerden mahsup edilebilecektir. Bu mahsup işleminin yapılabilmesi için, zirai ürün satışı nedeniyle kendisine yapılan ödemeden alıcı tarafından tevkif edilen verginin ödendiğini gösteren belgenin, kesinlikle beyannameye eklenmesi gerekir.
+Öte yandan, çiftçiler dışında kalan kişilerin, sattıkları zirai ürün (işlenmiş olanlar dâhil) bedelleri üzerinden tevkif edilen vergilerin, yıllık beyanname üzerinden hesaplanan vergiden fazla olması halinde bu tutar, ödenmiş olmak kaydıyla genel hükümler çerçevesinde mükelleflerin diğer vergi borçlarına mahsup edilebilecektir. Bu mahsuplara rağmen kalan bir tutarın bulunması halinde bu tutar, mükelleflerin müracaatı üzerine genel hükümler çerçevesinde kendilerine iade edilebilecektir.
+Zirai ürün alım-satım işi yapan kişi ve kuruluşların yukarıda yapılan açıklamalara göre kendilerine yapılan ödemelerden tevkif edilen vergilerin, yıllık beyanname üzerinden hesaplanan gelir veya kurumlar vergisinden mahsup edilebilmesi ve mahsuplar sonunda kalan vergilerin iade edilebilmesi için ayrıca, kendilerinin satın almış oldukları zirai ürün bedelleri üzerinden tevkif ettikleri vergilerin de muhtasar beyanname ile beyan edilerek, ödenmiş olması gerekmektedir." açıklamalarına yer verilmiştir.
+Bu çerçevede, çiftçi dışındaki kişilerin kamu kurumlarına sattıkları zirai ürün bedelleri üzerinden adlarına yapılan tevkifatın yıllık beyannamede mahsup veya iadeye konu edilebilmesi için hem adlarına yapılan tevkifatın ödenmiş olması, hem de söz konusu zirai ürünlerin kendileri tarafından satın alınması sırasında tevkifatın yapılarak, beyannamenin ödemelere ait bildirim bölümüne zirai ürünü satan mükellefin adı yazılarak muhtasar beyanname ile beyan edilip ödenmiş olması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

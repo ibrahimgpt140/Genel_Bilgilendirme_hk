@@ -1,0 +1,28 @@
+---
+tur: Özelge
+gib_id: 34634
+baslik: "İhale kararında damga vergisi hk."
+tarih: 2014-09-29
+sayi: "84695066-010.01[DMG/1]-25  "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34634
+gib_guncelleme: 2025-03-24T20:19:03
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# İhale kararında damga vergisi hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 2 Şümul; Madde 3 Mükellef; Madde 4 Kağıtların Mahiyetlerinin Tayini; Madde 10 Vergileme Ölçüleri; Madde 14 Nispet
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+ZONGULDAK VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Grup Müdürlüğü
+Sayı : 84695066-010.01[DMG/1]-25 29/09/2014
+Konu : İhale kararında damga vergisi hk.
+İlgide kayıtlı özelge talep formunuz ve eklerinin tetkikinden; İller Bankası A.Ş. ... Bölge Müdürlüğünce ihale edilen ... Kanalizasyon İnşaatı işinin 2.244.755,00 TL. bedel karşılığında ... Ltd.Şti. uhdesinde kaldığı, yüklenici firma tarafından söz konusu ihale kararına ilişkin 11.111,54 TL. ihale karar pulu ve 19/03/2012 tarih ve 2011/121497 ihale kayıt no.lu sözleşmeye istinaden 18.519,23 TL. sözleşmeden doğan damga vergisinin ödendiği, yükleniciye ihale edilen işi, ihaleyi yapan kurumun 12/04/2012 tarih ve 542 sayılı oluruna müteakip aynı şartlarda ... noterliğinin 12/04/2012 tarih ve 03623 yevmiye no.lu devir sözleşmesi ile devir aldığınızı ve devir sözleşmesinden doğan 18.519,23 TL.damga vergisini ikinci kez ödediğinizi ancak ihalenin yapıldığı aşamada ödenmiş olan ihale karar pulu bedelinin ikinci kez ödenip ödenmeyeceği hususunda tereddüt hasıl olduğundan Başkanlığımız görüşünün talep edildiği anlaşılmıştır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu kanuna ekli 1 sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 2 nci maddesinde, vergiye tabi kağıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine devrine veya bozulmasına ilişkin mektup ve şerhlerinde damga vergisine tabi olduğu; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği; 4 üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerlerindeki yazının tazammum ettiği hüküm ve manaya bakılacağı, mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmış ise atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınacağı; 10 uncu maddesinde, damga vergisinin nispi veya maktu olarak alınacağı, nispi vergide kağıtların nev'i ve mahiyetlerine göre bu kağıtlarda yazılı belli paranın, maktu vergide kağıtların mahiyetlerinin esas olacağı, belli para teriminin, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade edeceği hükümlerine yer verilmiştir.
+Aynı kanuna ekli (1) sayılı tablonun ''I. Akitlerle ilgili kağıtlar'' başlıklı bölümünün A/1fıkrasında belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin; ''II- Kararlar ve Mazbatalar'' başlıklı bölümünün 2 inci fıkrasında ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarının nispi oranında damga vergisine tabi olduğu hüküm altına alınmıştır.
+Buna göre İller Bankası A.Ş. ... Bölge Müdürlüğünce ihale edilen ve yapılan ihale sonucunda ... Ltd.Şti.'ne ihale edilen ve ...'a devredilen işle ilgili olarak ikinci defa ihale kararı alınması durumunda bu karara ilişkin nispi oranda damga vergisinin aranılacağı tabidir.
+Bilgi edinilmesini rica ederim.

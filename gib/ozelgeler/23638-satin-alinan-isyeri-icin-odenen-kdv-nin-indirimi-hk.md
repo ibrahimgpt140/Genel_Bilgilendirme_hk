@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 23638
+baslik: "Satın alınan işyeri için ödenen KDV'nin indirimi hk."
+tarih: 2011-08-20
+sayi: "B.07.1.GİB.4.26.15.01-KDV-53-2/7-74"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/23638
+gib_guncelleme: 2025-03-24T19:30:40
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Satın alınan işyeri için ödenen KDV'nin indirimi hk.
+
+**İlgili maddeler:** Madde 65 Serbest Meslek Kazancının Tarifi; Madde 67 Serbest Meslek Kazancının Tespiti; Madde 68 Mesleki Giderler; Madde 70 Gayrimenkul Sermaye İradının Tarifi; Madde 29 Vergi İndirimi; Madde 30 İndirilemeyecek Katma Değer Vergisi; Madde 34 İndirimin Belgelendirilmesi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ESKİŞEHİR VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.26.15.01-KDV-53-2/7-74 | 20/08/2011
+Konu | : | Satın alınan işyeri için ödenen KDV'nin indirimi.
+
+İlgide kayıtlı özelge talep formunuzda, evrak arşivi olarak kullanmak üzere aldığınız taşınmaz için ödenen katma değer vergisinin indirim konusu yapılıp yapılamayacağı hususunda bilgi verilmesi talep edilmektedir.
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun "Vergi İndirimi" başlıklı 29 uncu maddesinin 1 inci fıkrasında; mükelleflerin, yaptıkları vergiye tabi işlemler üzerinden hesaplanan katma değer vergisinden, bu Kanunda aksine hüküm olmadıkça, kendilerine yapılan teslim ve hizmetler dolayısıyla hesaplanarak düzenlenen fatura ve benzeri vesikalarda gösterilen katma değer vergisi ile ithal olunan mal ve hizmetler dolayısıyla ödenen katma değer vergisini indirim konusu yapabilecekleri, "İndirilmeyecek Katma Değer Vergisi" başlıklı 30 uncu maddesinin d fıkrasında; Gelir ve Kurumlar Vergisi Kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen katma değer vergisinin indirim konusu yapılamayacağı, "İndirimin Belgelendirilmesi" başlıklı 34 üncü maddesinin 1 inci fıkrasında da; yurt içinden sağlanan veya ithal olunan mal ve hizmetlere ait KDV nin, alış faturası veya benzeri vesikalar ve gümrük makbuzu üzerinden ayrıca gösterilmek ve bu vesikalar kanuni defterlere kaydedilmek şartıyla indirilebileceği hükme bağlanmıştır.
+Özelge talep formu ekinde alınan, ... San. ve Tic. Ltd. Şti. tarafından adınıza düzenlenen ... tarih ve ... No.lu faturada, ... No.lu dükkanın ... TL ye satın alındığı, alış bedeli üzerinden (%18) oranında katma değer vergisi hesaplandığı ve ... TL katma değer vergisinin faturada ayrıca gösterildiği anlaşılmıştır.
+... tarihli yoklama fişinin incelenmesinden de, söz konusu 300 m2 taşınmazın boş olarak bulunduğu, taşınmazın gelecekte hukuk bürosu olarak kullanılmak amacı ile satın alındığı ve birkaç ay sonra da bir bölümünün evrak arşivi olarak kullanılacağı tarafınızca beyan edilmiştir.
+Yukarıda yer alan kanun maddeleri ve yapılan açıklamalar uyarınca; ... tarihinde satın alınan taşınmazın alış bedeli üzerinden hesaplanan KDV nin, söz konusu taşınmazın serbest meslek faaliyetinin icrasında kullanılması kaydıyla indirim konusu yapılması mümkün bulunmaktadır.
+Ancak taşınmazın, işyeri, büro, ofis, evrak arşivi ve depo olarak kullanılmaksızın serbest meslek faaliyetiyle ilgili olmayacak şekilde yatırım amaçlı olarak alınması, gelir getirecek şekilde başka kişilere kiralanması veya bedelsiz de olsa kullanıma bırakılması halinde taşınmaz, serbest meslek faaliyetinin icrasında kullanılmadığı için alışında yüklenilen KDV indirim konusu yapılamayacaktır.
+Öte yandan, söz konusu taşınmaz için KDV indiriminden yararlanıldıktan sonraki dönemlerde serbest meslek faaliyetinizle ilgili işyeri, büro, ofis, evrak arşivi ve depo olarak kullanımdan çıkartılıp gelir getirecek şekilde başka kişilere kiralanması veya bedelsiz de olsa kullanıma bırakılması halinde indirim konusu yapılan katma değer vergisinin, KDV Kanununun 30/a maddesi gereğince bu durumun meydana geldiği dönemde verilecek katma değer vergisi beyannamesinde indirim hesaplarından çıkarılarak ilave edilecek KDV satırında beyan edilmesi gerekmektedir.
+Bilgi edinilmesini rica ederim

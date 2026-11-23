@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 27197
+baslik: "Emlak (bina) vergisi beyannamesinin ek süre içinde verilmesi halinde ikinci derece usulsüzlük cezası kesilmesi gerekmektedir."
+tarih: 2001-04-03
+sayi: "B.07.0.GEL.66/6685-4373/18055"
+kanun: "1319 EMLAK VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/447/ozelge/27197
+gib_guncelleme: 2025-03-24T19:45:26
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Emlak (bina) vergisi beyannamesinin ek süre içinde verilmesi halinde ikinci derece usulsüzlük cezası kesilmesi gerekmektedir.
+
+**İlgili maddeler:** Madde 352 Usulsüzlük Dereceleri ve Cezaları; Madde 9 Mükellefiyetin Başlaması ve Bitmesi; Madde 27 Ek Süreler İçinde Beyanname Verilmesi; Madde 33 Vergi Değerini Tadil Eden Sebepler
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 03.04.2001 SAYI : B.07.0.GEL.66/6685-4373/18055 KONU : Süresi içinde verilmeyen emlak vergisi beyannamesi nedeniyle usulsüzlük cezası kesilip kesilmeyeceği hk. İÇİŞLERİ BAKANLIĞI (Mahalli İdareler Genel Müdürlüğüne) S.S. ..... Konut Yapı Kooperatifi tarafından Bakanlığımıza verilen 29.03.2001 tarihli dilekçe ile ..... Belediye Başkanlığının 11.04.2001 tarih ve ..... sayılı yazısının birer örneği ilişik olarak gönderilmiştir. ..... Belediye Başkanlığının yazısından, .....'in ilçeleri ..... mevkiinde çeşitli tarihlerde satın aldığı arsa hisselerini tevdii ettirerek 29.05.1999 tarihinde beyan ettiği, daha sonra söz konusu taşınmaz üzerinde inşa edilen ve 31.12.1999 tarihinde tamamlanan binalara ilişkin bina vergisi beyannamesinin 26.05.2000 tarihinde verildiği ve gerekli tarhiyatın yapıldığı, bina olarak beyan edilen ..... Konut Yapı Kooperatifine satışı 21.08.2000 tarihinde yapılan binalarla ilgili olarak Kooperatifinin arsa beyanı vermek istediği anlaşılmaktadır. Bilindiği üzere, 1319 sayılı Emlak Vergisi Kanununun 33/1 inci maddesinde yeni bina inşa edilmesinin vergi değerini tadil eden sebep olduğu, 23/b maddesinde de yeni inşa edilen binalar için inşaatın sona erdiği veya inşaatın sona erdiği veya inşaatın sona ermesinden evvel kullanılmaya başlanılmış ise kullanılmaya başlanıldığı bütçe yılı içinde, inşaat bütçe yılının son üç ayı içinde bitmiş veya kullanılmaya başlanılmış ise üç ay içinde emlakın bulunduğu yerdeki ilgili belediyeye emlak vergisi beyannamesi verileceği hükme bağlanmıştır. Ayrı Kanunun 9/b maddesinde de, bu Kanunun 33 üncü maddesinin 1-7 fıkralarında yazılı vergi değerini tadil eden sebeplerin doğması halinde bina vergisi mükellefiyetinin, bu değişikliklerin vukubulduğu tarihi takip eden bütçe yılından itibaren başlayacağı, 27 nci maddesinde de emlak vergisi beyannamelerinin süresi içinde verilmemesi halinde, bu sürenin sonundan itibaren iki ay bekleneceği, beyanname bu süre içinde verilirse vergi ziyaı olmamış sayılacağı belirtilmiştir. Öte yandan, 213 sayılı Vergi Usul Kanununun 352 nci maddesinde, emlak vergisi beyannamesinin iki aylık süre içinde verilmesi halinde ikinci derece usulsüzlük cezası kesilmesi öngörülmüştür. Bu durumda, 31.12.1999 tarihinde bittiği anlaşılan binalarla ilgili olarak .....'in 2 aylık ek süre içinde (26.05.2000 tarihinde) emlak (bina) vergisi beyannamesi vermesi kanun hükümlerine uygun olup, beyannamenin ek süre içinde verilmesi nedeniyle ikinci derece usulsüzlük cezasının kesilmesi gerekmektedir. Diğer taraftan, ..... tarafından ..... Konut Yapı Kooperatifine 21.08.2000 tarihinde arsa payı üzerinden satışı yapılan binalara ilişkin olarak, adı geçen Kooperatifin 2000 yılı sonuna kadar arsa beyannamesi değil bina vergisi beyannamesi vermesi gerekmektedir. Bilgi edinilmesini, konu hakkındaki Bakanlıkları görüşünün belirlenerek, adı geçen Belediye ve Kooperatife gerekli duyurunun yapılmasını arz ederim.

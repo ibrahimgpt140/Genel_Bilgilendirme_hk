@@ -1,0 +1,18 @@
+---
+tur: Özelge
+gib_id: 24099
+baslik: "Kurumlar vergisi mükellefiyeti bulunmayan dernek ve vakıflara ödenecek menkul kıymet gelirleri üzerinden vergi tevkifatı yapılıp yapılmayacağı hakkında."
+tarih: 1997-05-02
+sayi: "B.O7.0.GEL.0.0/5038-1/18140"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/ozelge/24099
+gib_guncelleme: 2025-03-24T19:31:26
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Kurumlar vergisi mükellefiyeti bulunmayan dernek ve vakıflara ödenecek menkul kıymet gelirleri üzerinden vergi tevkifatı yapılıp yapılmayacağı hakkında.
+
+**İlgili maddeler:** Madde 75 Tarifi; Madde 94 Vergi Tevkifatı; Madde 1 Mevzu
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 02.05.1997 SAYI : B.O7.0.GEL.0.0/5038-1/18140 KONU : Kurumlar vergisi mükellefiyeti bulunmayan dernek ve vakıflara ödenecek menkul kıymet gelirleri üzerinden vergi tevkifatı yapılıp yapılmayacağı hk. ........................................ İLGİ: 6 Mart 1997 tarihli ve B.02.TCM.0.13.00.05.98 sayılı yazınız. Yazınızda, Kurumlar Vergisi Kanununun 1inci maddesi kapsamında yer almaması nedeniyle kurumlar vergisi mükellefiyeti bulunmayan vakıf ve derneklere ve Kurumlar Vergisi Kanunu veya özel kanunlarla kurumllar vergisinden muaf tutulan kurumlara ödenecek Devlet Tahvili ve Hazine Bonosu ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi Başkanlıklarınca çıkarılan ve Gelir Vergisi Kanununun 7 5 'inci maddesinin 5 numaralı bendinde yer alan menkul kıymetlerin faiz ve gelirlerinin ödenmesi sırasında gelir vergisi tevkifatı yapılıp yapılmayacağı sorulmaktadır. Bilindiği gibi, 193 sayılı Gelir Vergisi Kanununun 94 üncü maddesinde, kamu idare ve müesseseleri, iktisadi kamu müesseseleri, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbe s t meslek erbabı, zirai kazançlarını bilanço veya zirai işletme hesabı esasına göre tespit eden çiftçilerin maddede belirtilen bentlerde sayılan ödemeleri (avans olarak ödenenler dahil) nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vey a kurumlar vergilerine mahsuben tevkifat yapmaya mecbur oldukları belirtilmiştir. 31.10.1996 tarih ve 22803 mükerrer sayılı Resmi Gazete'de yayınlanan 96/8635 sayılı Bakanlar Kurulu Kararı gereğince 1.11.1996 tarihinden itibaren ihraç edilen Devlet tahvili ve Hazine bonosu faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi Başkanlıklarınca çıkarılan ve Gelir Vergisi Kanunu'nun 75 inci maddesinin 5 numaralı bendinde yer alan menkul kıymetlerin faiz ve gelirlerinden % 10, 29.12.1996 tarih ve 22862 sayılı Resmi Gazete'de yayımlanan 96/8955 sayılı Bakanlar Kurulu Kararı gereğince l. l.1997 tarihinden itibaren ihraç edilen yukarıdaki menkul kıymetlerin faiz ve gelirlerinden % 12 oranında gelir vergisi tevkifatı yapılması gerekmektedir. Ancak, sözkonusu menkul kıymetlerin hamiline yazılı olması durumunda,bunlann kurumlar vergisinden muaf bir kuruma ait olup olmadığı ödeme sırasında tevkifat yapmakla sorumlu olanlar tarafından bilinemeyeceğinden. ödenen faiz ve gelirler üzerinden gerekli tevkifatın yapılması gerekir. Öte yandan menkul kıymetin nama yazılı olması ve bu menkul kıymet gelirini elde edenin kurumlar vergisinden muaf olduğunun tespit edilmesi halinde, yapılan ödemelerden tevkifat yapılmasına gerek bulunmamaktadır. Kurumla r vergisinden muaf olan kurumlar, bu durumlarını tevsik etmeleri şartıyla, Vergi Usul Kanununun düzeltme hükümleri çerçevesinde ilgili vergi dairesinden kendilerine yapılan ödemelerden kesilen vergilerin iadesini talep edebileceklerdir. Bilgi edinilmesini rica ederim. Bakan a. Gelirler Genel Müdürü

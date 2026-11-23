@@ -1,0 +1,44 @@
+---
+tur: Özelge
+gib_id: 25551
+baslik: "Hatalı düzenlenen e-faturanın  kanuni defter kayıtlarına alınma zorunluluğu ve düzeltme kayıtlarının yapılması  hk."
+tarih: 2020-12-03
+sayi: "93562567-105-E.36264"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25551
+gib_guncelleme: 2025-03-24T19:40:12
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Hatalı düzenlenen e-faturanın  kanuni defter kayıtlarına alınma zorunluluğu ve düzeltme kayıtlarının yapılması  hk.
+
+**İlgili maddeler:** Madde 227 İspat Edici Kağıtlar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+Şanlıurfa Vergi Dairesi Başkanlığı
+Gelir Kanunları Grup Müdürlüğü
+
+Sayı | : | 93562567-105-36264 | 03.12.2020
+Konu | : | Hatalı düzenlenen e-Fatura
+
+İlgide kayıtlı özelge talep formundan; tarafınızca düzenlenen … no.lu e-Fatura mal ve hizmet tutarının 579.729,12 TL olarak düzenlenmesi gerekirken hatalı olarak 579.729.115,00 TL olarak düzenlendiği, taraflar arasındaki iş ilişkisinden kaynaklı olarak sehven düzenlenmiş olan hatalı e-Faturanın iptal edilmesinin akabinde şirketinizce … no.lu e-Faturanın 579.729,12 TL (KDV hariç) olarak düzenlendiğinden bahisle, hatalı olarak düzenlenen söz konusu e-Faturanın yasal deftere kaydının yapılıp yapılmayacağı ile beyanlara dahil olup olmayacağı hususlarında Başkanlığımızdan görüş talebinde bulunduğunuz anlaşılmıştır.
+213 sayılı Vergi Usul Kanununun 227 nci maddesinde, bu Kanuna göre tutulan ve üçüncü şahıslarla olan münasebet ve muamelelere ait olan kayıtların tevsikinin mecburi olduğu belirtilmiş, 229 uncu maddesinde fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesika olarak tanımlanmıştır.
+Diğer taraftan, 213 sayılı Kanunun mükerrer 257 nci maddesinin birinci fıkrasının (3) numaralı bendinde Hazine ve Maliye Bakanlığının, tutulması ve düzenlenmesi zorunlu defter, kayıt ve belgelerin mikro film, mikro fiş veya elektronik bilgi ve kayıt araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda izin vermeye veya zorunluluk getirmeye, bu şekilde tutulacak defter ve kayıtların kopyalarının Hazine ve Maliye Bakanlığında veya muhafaza etmekle görevlendireceği kurumlarda saklanması zorunluluğu getirmeye, bu konuda uygulama usul ve esaslarını belirlemeye yetkili olduğu hükme bağlanmıştır.
+Mezkur Kanunun mükerrer 242 nci maddesinin (2) numaralı fıkrası ile Hazine ve Maliye Bakanlığı; elektronik defter, kayıt ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazı ile defter ve belgelerin elektronik ortamda tutulması ve düzenlenmesi uygulamasına ilişkin usul ve esasları belirlemeye, elektronik ortamda tutulması ve düzenlenmesine izin verilen defter ve belgelerde yer alması gereken bilgileri internet de dahil olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında Hazine ve Maliye Bakanlığına veya Hazine ve Maliye Bakanlığının gözetim ve denetimine tabi olup, kuruluşu, faaliyetleri, çalışma ve denetim esasları Cumhurbaşkanlığınca çıkarılacak bir yönetmelikle belirlenecek olan özel hukuk tüzel kişiliğini haiz bir şirkete aktarma zorunluluğu getirmeye, bilgi aktarımında uyulacak format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit etmeye, aynı Kanun kapsamına giren işlemlerde elektronik imza kullanım usul ve esaslarını düzenlemeye ve denetlemeye yetkili kılınmıştır.
+Söz konusu fıkrada ayrıca, Vergi Usul Kanunu ve diğer vergi kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan hükümlerin elektronik defter, kayıt ve belgeler için de geçerli olduğu; Hazine ve Maliye Bakanlığının, elektronik defter, belge ve kayıtlar için diğer defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye yetkili olduğu hükme bağlanmıştır.
+Gelir İdaresi Başkanlığınca e-Fatura uygulamasından yararlanma yöntemlerine göre Teknik Kılavuzlar yayımlanmış ve bu kılavuzların fatura senaryoları ile ilgili bölümlerinde e-Faturaların düzenlenebileceği senaryo türleri açıklanmış olup, şu an e-Fatura Uygulamasında "Temel, Ticari, Yolcu Beraberi Eşya, İhracat, Kamu Fatura ve Hal Tipi Fatura" olmak üzere altı senaryo baz alınarak fatura düzenlenebilmektedir.
+Bu senaryo tiplerinden en sık kullanılanlar "Temel Fatura" ve "Ticari Fatura" senaryoları olup, mükellefler kendilerine uygun olan fatura tiplerini (Satış, İade, Tevkifat, İstisna, Özel Matrah, İhraç Kayıtlı) seçerek faturalarını oluşturabilmektedir.
+"Temel Fatura" senaryosunda, düzenlenen faturalara e-Fatura uygulaması üzerinden "red yanıtı" dönülme imkanı bulunmamakla birlikte, 8 günlük itiraz süresi dolmamak şartıyla Temel Fatura İptal Portalı üzerinden satıcının ilgili fatura için iptal talebinde bulunma hakkı vardır. "Ticari Fatura" senaryosunda düzenlenen faturalara ise e-Fatura Uygulaması üzerinden itiraz mahiyetinde, mali mühür ile imzalı elektronik bir belge üreten yapıyı barındıran "red yanıtı" dönülebilmektedir. "Temel Fatura" senaryosunda düzenlenen faturalara e-Fatura Uygulaması üzerinden "red yanıtı"nın dönülememesi ya da Temel Fatura İptal Portalı üzerinden iptal talebinde bulunulmamış olması, 6102 sayılı Türk Ticaret Kanununun 18 inci maddesinde belirtilen harici yöntemlerle (noter aracılığıyla, taahhütlü mektupla, telgrafla veya güvenli elektronik imza kullanılarak kayıtlı elektronik posta sistemi ile) itiraz edilebilmesi imkanını ortadan kaldırmamaktadır. Bir başka ifade ile "Temel Fatura" senaryosunda düzenlenen faturalara Türk Ticaret Kanununun 18 inci maddesinde belirtilen yöntemler ile itiraz edilebilmesi imkanı bulunmaktadır. "Ticari Fatura" senaryosunda düzenlenmiş olan faturalara ilişkin olarak alıcıların e-Fatura Uygulaması üzerinden "red yanıtı" dönmemeleri, Türk Ticaret Kanununun 18 inci maddesinde belirtilen yöntemlerin, Kanunun 21 inci maddesinde belirtilen sürede kullanılabilme hakkını ortadan kaldırmamaktadır. Gerek e-Fatura Uygulaması üzerinden "red yanıtı" dönülmesi ya da iptal talebinde bulunulması, gerekse Türk Ticaret Kanununun 18 inci maddesinde belirtilen yöntemler ile faturaya itiraz edilmesine ilişkin olarak Kanunun 21 inci maddesinde belirtilen 8 (sekiz) günlük itiraz süresine uymak tacir olmanın hukuki sonuçlarındandır. Bu süre geçtikten sonra yapılan itirazlar, iptal talepleri ve e-Fatura Uygulaması üzerinden dönülen "red yanıtları" söz konusu faturaların alıcı tarafından fatura içeriğinin kabul edilmiş olduğu sonucunu doğurmaktadır.
+Diğer taraftan, bir mal teslimi için fatura düzenlendiğinde mal teslim edildikten sonra kısmen veya tamamen iadesinin yapılması durumunda ortada mal hareketinden kaynaklı bir iade bulunduğundan, düzenlenecek e-Fatura "İade Fatura" tipinde olmalı ve bu şekilde alınan faturaya ilişkin muhasebe kayıtları, muhasebe ilke ve kurallarına uygun olarak düzeltme kayıtları ile düzeltilmelidir.
+Ancak alıcısına e-Fatura Uygulaması üzerinden başarıyla gönderilmiş bir e-Faturaya konu malların, alıcısı tarafından hiç teslim alınmaması ve stok kayıtlarına hiç girmemesi veya herhangi bir mal iadesi bulunmaksızın sadece hatalı bir fatura olması, alıcısının faturayı kabul etmek istememesi vb. durumlarda;
+- Faturanın "Temel Fatura" senaryosunda düzenlenmiş olması halinde, Türk Ticaret Kanununun 18 inci maddesinde belirtilen harici yöntemlerle veya Temel Fatura İptal Portalı üzerinden yapılan iptal talebiyle,
+- Faturanın "Ticari Fatura" senaryosunda düzenlenmiş olması halinde ise, bu yöntemlere ek olarak e-Fatura Uygulaması üzerinden "red yanıtı"yla
+söz konusu faturaya itiraz edilebilmesi mümkün olup, bu durumlarda bir iade faturası düzenlenmesi zorunluluğu da bulunmamaktadır.
+İlgili fatura e-Fatura sistemi üzerinde başarıyla iletilmiş olmasına rağmen, gerçekte bir mal veya hizmet alışı olmadığı halde düzenlendiği değerlendirilen faturaların, muhatabı tarafından kanuni defter kayıtlarına alınma zorunluluğu bulunmamakla birlikte, muhasebe kayıtlarına alınmış olduğunun tespiti durumunda muhasebe kayıt ve düzeltme kuralları dikkate alınarak ters kayıt ile muhasebe kayıtlarının düzeltilmesi de mümkün bulunmaktadır. Söz konusu düzeltme kayıtlarının tevsik edici bilgi ve belgeleri olarak, muhatabı tarafından yapılan sistemsel veya harici itirazlara ilişkin bilgi ve belgeler, ilgililere ibraz edilmek bakımından muhasebe kayıtları ile birlikte muhafaza edilecek ve istenildiğinde ibraz edilecektir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

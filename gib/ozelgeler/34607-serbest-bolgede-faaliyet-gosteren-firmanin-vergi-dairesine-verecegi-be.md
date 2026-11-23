@@ -1,0 +1,29 @@
+---
+tur: Özelge
+gib_id: 34607
+baslik: "Serbest bölgede faaliyet gösteren firmanın vergi dairesine vereceği beyannamelerin damga vergisine tabi olup olmadığı hk."
+tarih: 2015-04-15
+sayi: "66813766-155[1/2014/107]-197  "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34607
+gib_guncelleme: 2025-03-24T20:18:57
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Serbest bölgede faaliyet gösteren firmanın vergi dairesine vereceği beyannamelerin damga vergisine tabi olup olmadığı hk.
+
+**İlgili maddeler:** Madde 1 Konu; Madde 3 Tanımlar
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İZMİR VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri KDV ve Diğer Vergiler Grup Müdürlüğü
+Sayı : 66813766-155[1/2014/107]-197 15/04/2015
+Konu : Serbest bölgede faaliyet gösteren firmanın vergi dairesine vereceği beyannamelerde damga vergisi tabi olup olmadığı hk.
+İlgide kayıtlı özelge talep formunun incelenmesinden, ... Serbest Bölgesinde faaliyette bulunan firmanızın vergi dairesine verdiği beyannamelerin damga vergisinden istisna olup olmadığı hususunda görüş talep ettiğiniz anlaşılmaktadır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; Kanuna ekli (1) sayılı tablonun "IV- Makbuzlar ve diğer kağıtlar" başlıklı bölümün 2/b bendinde, vergi beyannamelerinin maktu damga vergisine tabi olduğu hükme bağlanmıştır.
+3218 sayılı Serbest Bölgeler Kanununun geçici 3 üncü maddesinin 5810 sayılı Kanunun 01.01.2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe giren 7 nci maddesi ile değişik ikinci fıkrasının (c) bendinde, Avrupa Birliğine tam üyeliğin gerçekleştiği tarihi içeren yılın vergilendirme döneminin sonuna kadar bu bölgelerde gerçekleştirilen faaliyetlerle ilgili olarak yapılan işlemler ve düzenlenen kağıtların damga vergisinden ve harçlardan müstesna olduğu hükme bağlanmıştır.
+Buna göre, frmaların serbest bölgelerdeki faaliyetleri ile ilgili olarak düzenlenen kağıtlar damga vergisinden müstesna olup, bu kapsam ve sınırların dışındaki kağıtların anılan Kanunun hükümlerinden yararlanması mümkün bulunmamaktadır.
+Bu itibarla, vergi dairelerine verilen beyannamelerin, firmanızın sadece serbest bölgedeki faaliyetlerine ilişkin olarak düzenlenmiş olması şartıyla, 3218 sayılı Kanunun geçici 3 üncü maddesinin ikinci fıkrasının (c) bendi uyarınca 01.01.2009 tarihinden Avrupa Birliğine tam üyeliğin gerçekleştiği tarihi içeren yılın vergilendirme döneminin sonuna kadar damga vergisinden müstesna tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

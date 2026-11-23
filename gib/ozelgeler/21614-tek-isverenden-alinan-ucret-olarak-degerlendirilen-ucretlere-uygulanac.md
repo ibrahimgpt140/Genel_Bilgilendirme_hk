@@ -1,0 +1,35 @@
+---
+tur: Özelge
+gib_id: 21614
+baslik: "Tek işverenden alınan ücret olarak değerlendirilen ücretlere uygulanacak engellilik indirimi"
+tarih: 2015-05-06
+sayi: "16700543-120-25"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21614
+gib_guncelleme: 2025-03-24T19:28:48
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Tek işverenden alınan ücret olarak değerlendirilen ücretlere uygulanacak engellilik indirimi
+
+**İlgili maddeler:** Madde 31 (6462 sayılı Kanunun 1 inci maddesiyle değişen ibare. Yürürlük; 03.05.2013)Engellilik(4) indirimi; Madde 61 Ücretin Tarifi
+
+T.C. GELİR İDARESİ BAŞKANLIĞI GAZİANTEP VERGİ DAİRESİ BAŞKANLIĞI VERGİ VE ANLAŞMALAR UYGULAMA MÜDÜRLÜĞÜ
+
+Sayı | : | 16700543-120-25 | 06/05/2015
+Konu | : | Gelir Vergisi
+
+İlgide kayıtlı talep formunda, Şube Müdürü kadrosuyla .... İl Müdürlüğünde görev yaptığınızı, çalışma gücünüzün % 40'ını kaybettiğinizi, kurumunuzdan almış olduğunuz maaşınıza 3 üncü derece engellilik indirimi uygulanarak 200,00 TL. gelir vergisi matrahından düşüldüğü, kurumunuzdan aldığınız maaşın dışında "Gençlik ve Spor Uygulamasında Görevlendirileceklere Ödenecek Ücretlerle İlgili Esaslar" a göre (Gösterge ve maaş katsayısı çarpımı ile bulunan rakamdan) spor müsabakalarında görev yaptığınızda gelir vergisi ve damga vergisi kesilerek şahsınıza personel ücreti ödendiği belirtilerek, söz konusu ücretinize de maaş gibi engellilik indiriminin uygulanıp uygulanmayacağı hususunda bilgi verilmesi istenilmektedir.
+193 sayılı Gelir Vergisi Kanununun 61 inci maddesinde, "Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetin değiştirmez."
+Söz konusu Kanunun 31 inci maddesinde ise; "Çalışma gücünün asgari % 80'ini kaybetmiş bulunan hizmet erbabı birinci derece sakat, asgari % 60'ını kaybetmiş bulunan hizmet erbabı ikinci derece sakat, asgari % 40'ını kaybetmiş bulunan hizmet erbabı ise üçüncü derece sakat sayılır ve aşağıda sakatlık dereceleri itibariyle belirlenen aylık tutarlar, hizmet erbabının ücretinden indirilir." hükmü yer almaktadır.
+Ayrıca, 222 Seri No.lu Gelir Vergisi Genel Tebliğinin 6.1.bölümünün 13 numaralı bendinde de; "Hesaplanan sakatlık indiriminin aylık tutarının hizmet erbabının aylık tevkifat matrahından indirilmesi gerekmektedir." denilmiştir.
+Diğer taraftan, 21.11.1989 tarih ve 20349 sayılı Resmi Gazete'de yayımlanan 160 Seri No.lu Gelir Vergisi tebliğinde açıklandığı üzere, Bakanlıklar, bağlı kuruluşlar ve üniversiteler ile bu kuruluşlar bünyesinde kurulmuş olan döner sermaye işletmeleri tek işveren olarak kabul edilmiştir.
+Bu çerçevede; Bakanlıklar, bağlı kuruluşlar ve üniversitelerde bulunan tahakkuk birimlerinin, bu kuruluşlar bünyesinde kurulan döner sermaye işletmelerindeki tahakkuk birimleri ile koordineli olarak çalışarak, söz konusu kuruluşlar tarafından bir ay içinde yapılan ücret ödemeleri ile döner sermaye işletmeleri tarafından yapılan ücret ödemelerinin toplanarak, bu toplam tutar üzerinden Gelir Vergisi Kanununun 103 ve 104 üncü maddelerine göre vergilendirilmesi gerekmektedir.
+Buna göre, çalışmakta olduğunuz kurumdan spor müsabakalarından dolayı aldığınız ücret ödemeleri ile maaş ödemelerinin tek işverenden alınan ücret olarak değerlendirilmesi, faydalandığınız engellilik indirimine ilişkin tutarın söz konusu ücretler toplamına uygulanması gerekmektedir.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

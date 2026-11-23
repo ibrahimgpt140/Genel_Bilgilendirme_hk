@@ -1,0 +1,41 @@
+---
+tur: Özelge
+gib_id: 22881
+baslik: "Yıllara Sari İnşaat ve Onarım İşlerinde İşin Başlama ve Bitiş Tarihlerinin Tespiti hk."
+tarih: 2011-09-10
+sayi: "B.07.1.GİB.4.01.16.01-2010-3161-KV-71"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/22881
+gib_guncelleme: 2025-03-24T19:29:37
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Yıllara Sari İnşaat ve Onarım İşlerinde İşin Başlama ve Bitiş Tarihlerinin Tespiti hk.
+
+**İlgili maddeler:** Madde 42 Birden fazla takvim yılına sirayet eden inşaat ve onarma işleri; Madde 44 İnşaat ve Onarma İşlerinde İşin Bitimi; Madde 15 Vergi kesintisi (45)(46)
+
+T.C. GELİR İDARESİ BAŞKANLIĞI ADANA VERGİ DAİRESİ BAŞKANLIĞI (Mükellef Hizmetleri Gelir Grup Müdürlüğü)
+
+Sayı | : | B.07.1.GİB.4.01.16.01-2010-3161-KV-71 | 10/09/2011
+Konu | : | Yıllara Sari İnşaat ve Onarım İşlerinde İşin Başlama ve Bitiş Tarihlerinin Tespiti
+
+İlgi Özelge Talep Formu ile Başkanlığımız ... Vergi Dairesi Müdürlüğü'nün ... vergi numarasında kayıtlı mükellef olduğunuzu; ... ili ... Hidro Elektrik Santrali bina inşaatında ... İnş. ve Tic. A.Ş. nin taşeron firması olarak çeşitli inşaat taahhüt işleri yaptığınızı; bu işlerle ilgili yapılan sözleşmelerde işe başlama ve bitim sürelerine ilişkin kesin bir tarih olmadığını; ilk yaptığınız sözleşmeye istinaden işe Ocak/2010 tarihinde başladığınızı ve bu işin 2010 yılı içerisinde bitirileceğini; ikinci sözleşmenizdeki işe ise henüz başlanmadığını ve bitiş tarihinin 2011 yılı olacağının tahmin edildiğini; bu sözleşmelerden ilkinin yıllara sari inşaat işi olarak değerlendirilemeyeceğin; ancak iki sözleşmenin bir arada değerlendirilmesi halinde bunun yıllara sari inşaat işi olarak değerlendirilebileceğini; fakat ilk işinize ait hakediş ödemelerinizden Kurumlar Vergisi Kanununun 15/1-a bendi uyarınca %3 oranında kesinti yapıldığını belirterek, bu işinizden dolayı elde ettiğiniz hakedişlerinizden vergi kesintisi yapılıp yapılmayacağı ile elde edilen hasılatın 04-06/2010 kurum geçici vergi beyannamesinde gösterilip gösterilmeyeceği ve kesilen stopajların bahse konu dönem beyannamesinde mahsup edilip edilmeyeceği, hususunda görüş talep etmektesiniz.
+193 sayılı Gelir Vergisi Kanununun 42 nci maddesinde, birden fazla takvim yılına sirayet eden inşaat ve onarım işlerinde kar veya zararın işin bittiği yıl kati olarak tespit edileceği ve tamamının o yılın geliri sayılacağı hükme bağlanmıştır.
+Aynı Kanunun 44 üncü maddesinde düzenlenen geçici ve kesin kabul usulü, Kamu İhale Kanunu ve Bayındırlık İşleri Genel Şartnamesi ile Hizmet İşleri Genel Şartnamesine tabi kamu kesimince ihale olunan inşaat ve onarma işlerinde uygulanmaktadır. Bu usule tabi olmayan işlerde ise taraflar geçici ve kesin kabul usulünü seçebilecekleri gibi bir başka usulü de seçebilmektedirler. Bu durumda, geçici ve kesin kabul usulüne tabi işlerde, geçici kabul tutanağının idarece onaylandığı tarihin; geçici ve kesin kabul usulüne tabi olmayan işlerde ise işin fiilen tamamlandığı veya bırakıldığı tarihin işin bitim tarihi olarak kabul edilmesi ve bu işle ilgili kâr veya zararın bitim tarihi itibarıyla tespit edilerek tamamının işin bittiği yılın geliri olarak beyan edilmesi gerekir.
+Bir işin Gelir Vergisi Kanununun 42 nci maddesi kapsamına giren inşaat ve onarma işlerinden olması için; yapılan işin inşaat ve onarma işi olması, birden fazla takvim yılına sirayet etmesi ve taahhüde bağlı olarak yapılması gerekmektedir.
+5520 sayılı Kurumlar Vergisi Kanununun 15 inci maddesinin birinci fıkrasının (a) bendinde, 193 sayılı Gelir Vergisi Kanununda belirtilen esaslara göre birden fazla takvim yılına yaygın inşaat ve onarım işleri ile uğraşan kurumlara bu işleri ile ilgili olarak yapılan hak ediş ödemeleri üzerinden tevkifat yapılacağı hükme bağlanmış olup söz konusu tevkifat oranı 2009/14594 sayılı Bakanlar Kurulu kararı ile %3 olarak belirlenmiştir.
+Dolayısıyla, taşeronlara (alt yüklenicilere) yaptırılan işler yukarıdaki şartları taşıyorsa bu iş yıllara sari inşaat ve onarım işi kapsamında Gelir Vergisi Kanununun 42 nci maddesine göre vergilendirilecektir. Ancak, bir taşerona (alt yükleniciye) birden fazla bağımsız iş verilmesi durumunda yukarıdaki şartlar her bir iş için ayrı ayrı aranacak olup işlerden birisi yukarıdaki şartları taşıyorsa sadece bu iş yıllara sari iş kapsamında vergilendirilecektir.
+Öte yandan, nakden veya mahsuben tahsil edilen ancak, fazla veya yersiz olarak tahsil edildiği anlaşılan vergilerin iade ve mahsup işlemleri ile ilgili olarak gerekli düzenleme ve açıklamaların yer aldığı 252 seri no.lu Gelir Vergisi Genel Tebliğinin "3.2. Diğer Vergi Borçlarına Mahsup veya Nakden İade" başlıklı bölümünde;
+"Fazla veya yersiz olarak vergi tahakkuk ettirilmesine neden olan vergi hatasının düzeltilmesi halinde, vergi hatası nedeniyle fazla olarak tahakkuk ettirilmiş verginin ödenmiş olması şartıyla, verginin mükellefe iadesi gerekmektedir.
+Vergi borçlarına mahsup talebi halinde bu talebin bir dilekçe ile vergi dairesine bildirilmesi gerekmektedir. Düzeltme işlemi ile iade işleminin aynı vergi dairesi tarafından gerçekleştirilmesi durumunda iade işlemi için dilekçe dışında ayrıca bir belge ibrazına gerek yoktur. Vergi dairelerinin farklı olması halinde hata nedeniyle fazladan tahakkuk etmiş olan verginin ödendiğini gösteren belgenin ibrazı gereklidir."
+açıklamalarına yer verilmiştir.
+Bu hüküm ve açıklamalar çerçevesinde,
+- Şirketinize yaptırılan işin başlangıç tarihi olarak, sözleşmede işe başlama tarihi belli edilmişse bu tarih, işin başlama tarihi belirtilmemekle birlikte yer teslimi için bir tarih öngörülmüş ise bu tarih, yer teslim tarihi belirtilmemiş ise sözleşmede belirtilen işin fiili başlangıç tarihi, sözleşmede bunların hiçbiri belirtilmemiş ise, sözleşmenin imzalandığı tarih, işin başlangıç tarihi olarak esas alınacaktır. İşin bitim tarihi olarak ise geçici ve kesin kabul usulüne tabi olan hallerde geçici kabulün yapıldığını gösteren tutanağın onaylandığı tarih, diğer hallerde işin fiilen tamamlandığı veya fiilen bırakıldığı tarih, işin bitim tarihi olarak kabul edilecek ve elde edilen kazanç işin bittiği dönemin kazancı olarak vergiye tabi tutulacaktır.
+-Taşeron (alt yüklenici) olarak "projeye ait daimi (cebri boru, dirsek ve can ağzı) ve buna benzer işlerin uygulama projesine uygun olarak imalatı ve montajının yapılması" konulu sözleşmenize istinaden Ocak/2010 ayında başladığınız söz konusu işin aynı yıl içerisinde bitmesi ve yüklenilen diğer işten bağımsız olması durumunda, bu işin 193 sayılı Gelir Vergisi Kanununun 42 nci maddesindeki yıllara sari inşaat işi kapsamında değerlendirilmesi mümkün olmadığından şirketinize yapılan hakediş ödemelerinden, 5520 sayılı Kurumlar Vergisi Kanununun 15/1-a maddesine göre tevkifat yapılmaması ve elde edilen kazancın ilgili dönem geçici vergi beyannamesiyle beyan edilmesi gerekmektedir.
+- Ayrıca, söz konusu hakedişlerden kesilen vergilerin ilgili dönem geçici vergi beyannamesinde mahsup edilmesi mümkün olmayıp 252 seri no.lu Gelir Vergisi Genel Tebliğinin "3.2. Diğer Vergi Borçlarına Mahsup veya Nakden İade" başlıklı bölümünde yapılan açıklamalar çerçevesinde vergi borçlarınıza mahsubu veya nakden iadesi mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

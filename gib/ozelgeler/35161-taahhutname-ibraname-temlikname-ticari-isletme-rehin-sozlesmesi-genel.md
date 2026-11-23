@@ -1,0 +1,36 @@
+---
+tur: Özelge
+gib_id: 35161
+baslik: "Taahhütname, İbraname, Temlikname, Ticari İşletme Rehin Sözleşmesi, Genel Kredi Sözleşmesi ve buna ek olarak düzenlenen taahhütnamenin damga vergisi ve harçtan istisna olup olmadığı hk."
+tarih: 2013-01-30
+sayi: "45404237-326.11.38-72 "
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/35161
+gib_guncelleme: 2025-03-24T20:21:00
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Taahhütname, İbraname, Temlikname, Ticari İşletme Rehin Sözleşmesi, Genel Kredi Sözleşmesi ve buna ek olarak düzenlenen taahhütnamenin damga vergisi ve harçtan istisna olup olmadığı hk.
+
+**İlgili maddeler:** Madde 2 Şümul; Madde 1 Kanunun şümulü; Madde 123 Özel kanunlardaki hükümler
+
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+BURSA VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Gelir Grup Müdürlüğü
+Sayı : 45404237-326.11.38-72 30/01/2013
+Konu : Taahhütname, İbraname, Temlikname, Ticari İşletme Rehin Sözleşmesi, Genel Kredi Sözleşmesi ve buna ek olarak düzenlenen taahhütnamenin damga vergisi ve harçtan istisna olup olmadığı hk.
+
+İlgide kayıtlı özelge talep formunun incelenmesinden, noterliğinizce tasdik işlemi yapılacak özelge talep formuna ekli "Taahhütname" ile söz konusu taahhütnameye ek olarak düzenlenen "İbraname", "Temlikname", "Ticari İşletme Rehin Sözleşmesi" ile "Genel Kredi Sözleşmesi" ve sözleşmeye ek olarak düzenlenen "Taahhütname"nin damga vergisine tabi olup olmadığı hususunda görüş talep edildiği anlaşılmıştır.
+488 Sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; mezkur Kanunun Ek 2 nci ve 492 Sayılı Harçlar Kanununun Ek 1 inci maddelerinde ise döviz kazandırıcı faaliyetlere ilişkin işlemlerin harçtan ve bu işlemlerle ilgili olarak düzenlenen kağıtların damga vergisinden müstesna olduğu, bu maddelerin uygulanması bakımından döviz kazandırıcı faaliyetlerin neler olduğu ve bu maddelerin uygulanmasına ilişkin usul ve esasların Maliye Bakanlığı ile Dış Ticaret Müsteşarlığı tarafından birlikte tespit edileceği hükme bağlanmıştır.
+Mezkûr Kanun hükümlerinin uygulanmasına ilişkin usul ve esasların belirlendiği Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkında (1) Seri No.lu Tebliğde döviz kazandırıcı faaliyet tanımının, ihracat ile bu Tebliğde döviz kazandırıcı faaliyet tanımının, ihracat ile bu Tebliğde sayılan diğer döviz kazandırıcı faaliyetleri kapsayacağı belirtilmektedir.
+1 Seri No.lu Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkında Tebliğin "3.1. İhracat İşlemleri" bölümünün (3.1.2) ve (3.1.3) fıkralarında, ihracattan doğan alacağın ihracatçı tarafından temliki ve ihracat bağlantıları için düzenlenecek anlaşmalar ile ilgili işlemler ihracat işlemleri olarak kabul edilmiş olup, bu işlemler ile ilgili düzenlenen kağıtlara (gümrük idarelerine verilen beyannameler dahil) ihracata ilişkin olduğunun tevsik edilmesi kaydıyla, işlem yapan kuruluşlarca re'sen damga vergisi ve harç istisnası tatbik edileceği belirtilmiştir.
+488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun "Ticari ve medeni işlerle ilgili kâğıtlar" başlıklı bölümünün 15/06/2012 tarihli Resmi Gazetede yayımlanan 6322 sayılı Kanunla değişmeden önceki 23 numaralı fıkrasında, bankalar, yurtdışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve geri ödenmesi amacıyla düzenlenecek kağıtlar ile bu kağıtlar üzerine konulacak şerhler (kredilerin kullanımları hariç) damga vergisinden; 492 sayılı Harçlar Kanununun 123 üncü maddesinin 6322 Sayılı Kanunla değişmeden önceki üçüncü fıkrasında yer alan hüküm gereğince de Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri, bankalar, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerin temini ve bunların teminatları ile geri ödemelerine ilişkin işlemler harçtan istisna edilmiştir.
+4 ve 6 Seri No.lu Damga Vergisi Sirkülerlerinde, Kanun kapsamındaki kredi tanımına Bankalar Kanununa göre kredi olarak kabul edilen nakdi krediler ile teminat mektupları, kefaletler, aval, ciro ve kabuller gibi gayrinakdi kredilerin gireceği, akreditiflerin de bu kapsamında değerlendirileceği belirtilmiştir.
+Ayrıca, 18 Seri No.lu Damga Vergisi Sirkülerinin "3-Kredinin teminatına ilişkin damga vergisi ve harç istisnası uygulaması" başlıklı bölümünde, söz konusu istisna kapsamında kullandırılan kredinin teminatına ilişkin olarak düzenlenen kâğıtlar ile bu amaçla yapılan işlemlere münhasıran kullandırılan krediye ilişkin olması kaydıyla istisnanın uygulanması gerektiği açıklanmıştır.
+Buna göre özelge talep formunuz ekinde yer alan;
+- ... San. ve Tic. A.Ş tarafından yurtdışında yerleşik ... firmasına yapılan sevkiyatlardan doğan ve Türk Eximbank tarafından sigortalanmış alacağın sigorta sözleşmesi uyarınca Türk Eximbank tarafından tazmin edilmesi nedeniyle düzenlenen ve damga vergisine tabi kağıtlar mahiyetinde bulunmayan ibranamenin 492 Sayılı Harçlar Kanununun Ek 1 inci maddesi uyarınca harçtan; ihracat alacaklarının Türk Eximbanka devredilmesi ile ilgili olarak düzenlenen temliknamenin ve bu temliknamenin koşullarına uyulacağını içeren taahhütnamenin 488 Sayılı Damga Vergisi Kanununun Ek 2 inci ve 492 sayılı Harçlar Kanununun Ek 1 inci maddesi hükümleri uyarınca damga vergisi ve harçtan,
+-... Ltd. Şti.'nin Türk Eximbanktan kullandığı krediye ilişkin düzenlenen genel kredi sözleşmesi ve bu kredinin teminatını teşkil etmek üzere düzenlenen taahhütnamenin Damga Vergisi Kanununa ekli (2) sayılı tablonun IV/23 numaralı fıkrası uyarınca damga vergisinden ve Harçlar Kanununun 123 üncü maddesinin üçüncü fıkrası uyarınca harçtan,
+- ... Tic. A.Ş. ile Türkiye Halk Bankası ... Şubesi arasında düzenlenecek "Düzenlenme Şeklinde Ticari îşletme Rehni Sözleşmesi"nin, münhasıran adı geçen banka şubesinden temin edilecek kredinin teminatına ilişkin olması ve bu kredi borcu dışındaki borçları kapsayıcı genel mahiyetli ibareler içermemesi kaydıyla Damga Vergisi Kanununa ekli (2) sayılı tablonun IV/23 numaralı fıkrası uyarınca damga vergisinden ve yapılan işlemin Harçlar Kanununun 123 üncü maddesinin üçüncü fıkrası uyarınca harçtan, istisna tutulması gerekmektedir.
+Bilgi edinilmesini rica ederim.

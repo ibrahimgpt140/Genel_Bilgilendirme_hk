@@ -1,0 +1,37 @@
+---
+tur: Özelge
+gib_id: 35972
+baslik: "izaleişüyu yoluyla Hazine adına tescil edilen gayrimenkule ilişkin işlemlerde harç aranılıp aranılmayacağı hakkında..."
+tarih: 2009-10-07
+sayi: "B.07.1.GİB.0.02.63/6373-4280/97552"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/35972
+gib_guncelleme: 2025-03-24T20:30:59
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# izaleişüyu yoluyla Hazine adına tescil edilen gayrimenkule ilişkin işlemlerde harç aranılıp aranılmayacağı hakkında...
+
+**İlgili maddeler:** Madde 59 Harçtan müstesna tutulan işlemler
+
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+
+Sayı : B.07.1.GİB.0.02.63/6373-4280/97552 07.10.2009
+Konu : Tapu harcı
+................. VALİLİĞİNE
+(Defterdarlık: ........... Müdürlüğü)
+
+İlgi : ........... tarihli ve .............. sayılı yazınız.
+
+İlgide kayıtlı yazınız ekinde yer alan ........... tarihli ve .........sayılı özelgenin incelenmesinden, izaleişüyu yoluyla Hazine adına tescil edilen gayrimenkule ilişkin işlemlerde harç aranılmaması gerektiği yönünde görüş verildiği anlaşılmıştır.
+Bilindiği üzere, 492 sayılı Harçlar Kanununa bağlı (4) sayılı tarifenin I- Tapu İşlemleri Bölümünün 20/a bendinin 1 inci fıkrasında, gayrimenkullerin ivaz karşılığında veya ölünceye kadar bakma akdine dayanarak yahut trampa hükümlerine göre devir ve iktisabında, gayrimenkulün beyan edilen devir ve iktisap bedelinden az olmamak üzere emlak vergisi değeri üzerinden (cebri icra ve şüyuun izalesi hallerinde satış bedeli, istimlaklerde takdir edilen bedel üzerinden) devir eden ve devir alan için ayrı ayrı binde 15 oranında harç alınacağı hüküm altına alınmıştır.
+Kanun hükmü uyarınca, izaleişüyu davası sonucunda verilen karar uyarınca satışı yapılan gayrimenkullere ilişkin tapu işlemlerinde devir eden ve devir alandan ayrı ayrı olmak üzere binde 15 oranında harç alınması gerekmektedir.
+Öte yandan, 492 sayılı Kanunun 59 uncu maddesinin (a) fıkrası ile, genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köylerin iktisap edecekleri gayrimenkullerin vesair ayni hakların tescili, şerhi gerektiren işlemleri ve bunların terkinleri tapu harcından istisna edilmiştir.
+Buna göre, söz konusu olayda izaleişüyu yoluyla satışı yapılan gayrimenkulü devir alan Hazineden 492 sayılı Kanunun 59 uncu maddesinin (a) fıkrası uyarınca harç alınmaması; gayrimenkulü devreden şahıslardan ise hisseleri oranında, satış bedeli üzerinden tapu harcı aranılması gerekmektedir.
+Bu nedenle, Defterdarlığınız tarafından düzenlenen ......... tarihli ve ........... sayılı özelgenin yukarıdaki açıklamalar doğrultusunda yeniden düzenlenmesi gerekmektedir.
+Bilgi edinilmesini ve gereğinin yapılarak sonucundan bilgi verilmesini rica ederim.
+
+Bakan a.

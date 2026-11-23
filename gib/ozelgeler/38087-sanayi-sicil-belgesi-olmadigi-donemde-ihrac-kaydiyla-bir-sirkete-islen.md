@@ -1,0 +1,16 @@
+---
+tur: Özelge
+gib_id: 38087
+baslik: "Sanayi sicil belgesi olmadığı dönemde ihraç kaydıyla bir şirkete işlenmiş mermer tesliminde bulunan ve ikinci bir imalathane yatırımına başlayan şirketin bu yatırıma ait makine ve teçhizatları da ilave ederek kapasite raporu tanzim ettiği; söz konusu şirk"
+tarih: 1997-06-16
+sayi: "B.07.0.GEL.0.54/5411-1947/25050"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38087
+gib_guncelleme: 2025-03-24T22:48:07
+bes_yil: ASILDI
+alindi: 2026-11-23
+---
+
+# Sanayi sicil belgesi olmadığı dönemde ihraç kaydıyla bir şirkete işlenmiş mermer tesliminde bulunan ve ikinci bir imalathane yatırımına başlayan şirketin bu yatırıma ait makine ve teçhizatları da ilave ederek kapasite raporu tanzim ettiği; söz konusu şirk
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü TARİH : 16.06.1997 SAYI : B.07.0.GEL.0.54/5411-1947/25050 KONU : BALIKESİR VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) İLGİ : 12.11.1996 gün ve DEF.0.10.10/1-107-204/10939 sayılı yazınız. İliniz ..... Vergi Dairesi Müdürlüğü mükelleflerinden ..... Ltd.Şti.'nin ihraç kaydıyla ..... A.Ş.'ne işlenmiş mermer tesliminde bulunduğu, ihracatçı firmanın da bu malları ihraç ettiği, ancak bu dönemde imalatçı şirketin sanayi sicil belgesinin bulunmadığı, san a yi sicil belgesinin 8.12.1995 tarihinde alındığı ve bu arada bu belge alınmadan şirketin ..... ilinde ikinci imalathane yatırımına başladığı ve bu yatırıma ait makina ve teçhizatları da ilave ederek kapasite raporu tanzim ettiği belirtilerek adı geçen ş i rketin sanayi sicil belgesinin ..... ilindeki iş yeri için alınmış, .....'deki işyeri için alınmamış olması nedeniyle yapılacak işlem konusunda bilgi istenmektedir. Konuyla ilgili olarak Sanayi ve Ticaret Bakanlığı ile yapılan yazışma sonucu alınan 2.6.1997 gün ve 12658 sayılı yazıda, asgari 5 kişilik istihdamı olan işletmenin kapasite raporu, Ticaret Sicıl Gazetesi, Sanayi Sicil Beyannamesi ve yıllık işletme cetvelinden oluşan evrak ile Sanayi ve Ticaret Bakanlığına müracaat etmesi halinde Sa n ayi Siciline tescilinin yapılacağı ve işletme adına sanayi sicil belgesi tahsis edileceği belirtilmektedir. Öte yandan, adı geçen şirket nezdinde bir müdür yardımcısı, bir şef ve iki memurdan oluşan yoklama grubu tarafından yaptırılacak inceleme sonucu imalatçı olmanın sanayi sicil belgesi dışında kalan diğer şartlarını taşıdığının tespiti halinde, tecil-terkin kapsamında işlem yapılabilecektir. Bilgi edinilmesini, gereğini ve durumun dilekçesine cevaben adı geçen şirkete duyurulmasını rica ederim. Bakan a. Daire Başkanı

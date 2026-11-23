@@ -8,7 +8,7 @@ const sleep=ms=>new Promise(r=>setTimeout(r,ms));
  let ok=0,err=0;
  for(const id of ids){ if(fs.existsSync(`${out}/${id}.html`)) continue;
    for(let t=0;t<3;t++){ try{
-     const rp=p.waitForResponse(x=>x.url().includes('getDocContent'),{timeout:45000});
+     const rp=p.waitForResponse(x=>x.url().includes('getDocContent'),{timeout:45000}); rp.catch(()=>{});
      await p.goto(`${BASE}karar/${id}?aranacakKelimeler=vergi`,{waitUntil:'domcontentloaded',timeout:60000});
      const j=await (await rp).json(); const h=Buffer.from(j.data.content,'base64').toString('utf8');
      fs.writeFileSync(`${out}/${id}.html`,h); ok++; break;

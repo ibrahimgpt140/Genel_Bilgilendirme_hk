@@ -26,7 +26,7 @@ async function search(p,q){
   });
   const inp=p.locator("input[placeholder=\"Kelime yazıp Enter'a basın...\"]:visible").first();
   if(!(await p.locator('.dx-tag:visible').count())){ await inp.click(); await inp.fill('x'); await inp.press('Enter'); }
-  const rp=p.waitForResponse(r=>r.url().includes('getEmsalKarar'),{timeout:45000});
+  const rp=p.waitForResponse(r=>r.url().includes('getEmsalKarar'),{timeout:45000}); rp.catch(()=>{});
   await p.locator('.dx-button[aria-label="Sorgula"]').last().evaluate(el=>{el.scrollIntoView();});
   await p.locator('.dx-button[aria-label="Sorgula"]').last().click({force:true}).catch(async()=>{});
   const j=await (await rp).json();

@@ -1,0 +1,26 @@
+---
+tur: Tebliğ
+gib_id: 10301
+baslik: "TAHSİLAT GENEL TEBLİĞİ (SERİ: C SIRA NO:7)"
+tarih: 2023-11-14
+sayi: "32369"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10301
+gib_guncelleme: 2025-03-24T20:39:59
+alindi: 2026-11-23
+---
+
+# TAHSİLAT GENEL TEBLİĞİ (SERİ: C SIRA NO:7)
+
+**İlgili maddeler:** Madde 48 Tecil:
+
+Tecil faizi
+MADDE 1- 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinin Bakanlığımıza verdiği yetkiye istinaden, yıllık %24 olarak uygulanmakta olan tecil faizi oranı bu Tebliğin yayımı tarihinden itibaren yıllık %36 olarak belirlenmiştir.
+6183 sayılı Kanunun 48 inci maddesine istinaden bu Tebliğin yayımı tarihinden itibaren yapılacak müracaatlara dayanılarak tecil edilen amme alacaklarına yıllık %36 oranında tecil faizi uygulanacaktır.
+Bu Tebliğin yayımı tarihinden önce yapılan müracaatlara dayanılarak tecil edilecek olan amme alacakları ile bu Tebliğin yayımı tarihinden önce tecil edilmiş ve tecil şartlarına uygun olarak ödenmekte olan amme alacaklarına tecil şartlarına uygun olarak ödendikleri sürece müracaat tarihlerinden itibaren eski tecil faizi oranının uygulanması gerekmektedir.
+Öte yandan, bu Tebliğin yayımı tarihinden önce tecil talebinde bulunulmuş ve talep kabul edilerek tecil edilmiş amme alacaklarına yönelik tecilin ihlal edilmiş olması ancak, yeni talepler üzerine yeniden tecil yapılması (tecilin geçerli sayılması) halinde, bu Tebliğin yayımlandığı tarihe kadar eski tecil faizi oranı, bu tarihten sonra ödenmesi gereken taksit tutarlarına ise %36 tecil faizi oranı uygulanacaktır.
+Tecil faizi, Seri:A Sıra No:1 Tahsilat Genel Tebliğinde yer alan esaslar doğrultusunda hesaplanacaktır.
+Yürürlük
+MADDE 2- Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 3- Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.

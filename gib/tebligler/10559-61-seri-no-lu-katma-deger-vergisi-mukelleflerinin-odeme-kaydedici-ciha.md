@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10559
+baslik: "61 SERİ NO'LU KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNLA İLGİLİ GENEL TEBLİĞ"
+tarih: 2004-07-29
+sayi: "25537"
+kanun: "3100 KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/443/teblig/10559
+gib_guncelleme: 2025-03-24T20:40:51
+alindi: 2026-11-23
+---
+
+# 61 SERİ NO'LU KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNLA İLGİLİ GENEL TEBLİĞ
+
+Bilindiği üzere, 20/04/2004 tarih ve 25439 sayılı Resmi Gazetede yayımlanan 59 Seri No.lu Genel Tebliğin 4. bölümünde akaryakıt pompalarının (LPG dahil) ödeme kaydedici cihazlara bağlanma mecburiyetine ilişkin süreler açıklanmıştı. Söz konusu uygulamayla ilgili olarak Bakanlığımıza müracaat eden ödeme kaydedici cihaz firmalarının başvuruları incelenmiş ve büyük çoğunluğunun idari incelemeleri tamamlanarak cihazlar, teknik inceleme ve test çalışmaları yapılmak üzere Ödeme Kaydedici Cihazlar Teknik Komisyonu ve Türk Standartları Enstitüsüne sevk edilmiştir. Ancak, akaryakıt pompalarına bağlanacak ödeme kaydedici cihazlar, halen piyasada bulunanlardan farklı teknik ve fonksiyonel özellikler ihtiva etmekte olup, pompaya plaka veya müşteri bilgisinin girildiği bu sistem, ülkemizde ilk defa uygulanacaktır. Bu durum, söz konusu cihazların inceleme ve testlerine yönelik yeni teknik kriterler belirlenmesini; pompaların tadilata ihtiyaç duyması nedeniyle de Sanayi ve Ticaret Bakanlığından tadilat onayı alınmasını zorunlu kılmaktadır. Sistemin kurulması pompaların içine teknik müdahale yapılmasını gerektirdiğinden, ortamda bulunacak yanıcı ve patlayıcı özellikteki (benzin buharı vb.) unsurların ödeme kaydedici cihazların elektrik donanımlarından olumsuz etkilenme ihtimali bulunmakta ve dolayısıyla söz konusu inceleme ve testlerin sağlıklı bir şekilde yapılması uygulama ve çevre güvenliği bakımından büyük önem arz etmektedir. Anılan nedenlerle teknik birimlerin (Ödeme Kaydedici Cihazlar Teknik Komisyonu ve Türk Standartları Enstitüsü) kriter belirleme, inceleme ve test çalışmalarını sağlıklı bir şekilde tamamlamaları, pompalarda yapılacak tadilatlar için Sanayi ve Ticaret Bakanlığından onay alınması ve güvenli bir uygulama ortamının yaratılması amacıyla 59 Seri No.lu Genel Tebliğin 4. bölümünde yer alan ödeme kaydedici cihaz kullanma mecburiyetinin başlamasına, kayıtlar ve düzenlenecek belgelere dair 01/08/2004 tarihi, 01/01/2005 olarak yeniden belirlenmiştir . Buna göre, 59 Seri No.lu Genel Tebliğin "4/a" bölümünde sayılan mükellefler ile "4/b" bölümünde belirtilen bir önceki dönem satışları toplamı 3 Trilyon lirayı aşan akaryakıt istasyonu işletmecileri 01/01/2005 tarihinden itibaren akaryakıt pompalarını ödeme kaydedici cihazlara bağlatmış olacaklardır. Dileyen dağıtım şirketleri veya akaryakıt istasyonu işletmecilerine, sistemin kurulması konusunda ilgili ödeme kaydedici cihaz firmalarıyla gerekli sözleşmeleri yapmış olmaları şartıyla test ve deneme çalışmalarını yapmak üzere Bakanlığımızca dört aya kadar süre verilebilecektir. Tebliğ olunur.

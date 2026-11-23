@@ -1,0 +1,15 @@
+---
+tur: İç Genelge
+gib_id: 614
+baslik: "TAHSİLAT İÇ GENELGESİ SERİ NO: 1999/3"
+tarih: 
+sayi: ""
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/icgenelge/614
+gib_guncelleme: 2025-03-24T20:39:59
+alindi: 2026-11-23
+---
+
+# TAHSİLAT İÇ GENELGESİ SERİ NO: 1999/3
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlü ğü SAYI : B.07.0.GEL.0.37/3776-5 KONU : TAHSİLAT İÇ GENELGESİ 1999/3 ..............................VALİLİĞİ (Defterdarlık: Gelir Müdürlüğüne) 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun "Ödemenin mahsup edileceği alacaklar" başlıklı 47'nci maddesinde 4369 sayılı Kanunun 22'nci maddesi ile değişiklik yapılmış ve bu değişikliğe ilişkin açıklamalar 11.12.1998 gün ve 23350 sayılı Resmi Gazete'de yayımlanan 405 Seri No'lu Tahsilat Genel Tebliğinde yapılmıştır. Anılan Tebliğin 2.1.1 Ödeme Süresi Başlamış Henüz Vadesi Geçmemiş Alacaklara Karşılık Yapılan Ödemeler başlıklı bölümünde; amme borçlusunun ödeme süresi başlamış henüz vadesi geçmemiş borçlarına karşılık yapacağı ödemelerin öncelikle bu alacaklara mahsup edileceği, Ödeme süre si başlamış vadesi geçmemiş alacağın aynı vadeli birden fazla türden olması ve yapılan ödemenin alacağın tamamını karşılamaması halinde, ödemenin mahsubunun borçlunun talebi doğrultusunda, talep bulunmaması halinde tamamı karşılanabilen alacaktan başlanar a k yapılacağı belirtilmiştir. Bakanlığımıza intikal eden olaylardan, ödeme süresi başlamış vadesi geçmemiş aynı vadeli alacaklar içinde asli alacakların yanı sıra gecikme faizi gibi fer'i alacakların bulunması halinde kısmi ödemelerin mahsubunun ne şekilde yapılacağı hususunda tereddüte düşüldüğü anlaşılmıştır. Madde hükmüne göre amme alacağına karşılık rızaen yapılan ödelemeler sırası ile; ödeme süresi başlamış henüz vadesi geçmemiş, içinde bulunulan takvim yılı sonunda zamanaşımına uğrayacak, aynı tarihte zaman aşımına uğrayacak alacaklarda herbirine orantılı olarak, vadesi önce gelen ve teminatsız veya az teminatlı olana mahsup edilecektir. Değişiklikle, ödemenin alacak aslı ile fer'ilerini karşılamaması durumunda mahsubun alacak aslı ve fer'ilerine o r antılı olarak yapılması zorunlu kılınmıştır. Bu itibarla, ödeme süresi başlamış vadesi geçmemiş aynı vadeli birden fazla türden alacaklara karşılık yapılacak kısmi ödemelerde; 1-Aynı vadeli alacakların, örneğin gelir vergisi ve fon payı gibi, sadece asli alacaklardan oluşması halinde, Tebliğin yukarıda belirtilen bölümü uyarınca, 2-Aynı vadeli alacakların asli ve fer'i alacaklardan, örneğin gelir vergisi, gecikme faizi, vergi ziyaı cezası, fon payı, gecikme faizi ve vergi ziyaı cezasından oluşması halin de; -Gelir vergisi ve buna ait gecikme faizi bir grup, fon payı ve buna ait gecikme faizi ayrı bir grup, vergi ve fon payına ait cezaların her biri de ayrı ayrı birer grup olarak dikkate alınacak, - Sözkonusu gruplardan borçlunun talebi bulunması halinde bu talep doğrultusunda, talep bulunmaması halinde tamamı karşılanabilen alacak grubundan başlamak üzere, -Orantı hükmü de gözönünde bulundurularak, mahsup yapılacaktır. Bilgi edinilmesini rica ederim. Bakan a.

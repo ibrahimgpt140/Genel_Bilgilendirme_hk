@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9527
+baslik: "30 SERİ NO'LU DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ"
+tarih: 1997-01-29
+sayi: "22892"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/teblig/9527
+gib_guncelleme: 2025-03-24T20:17:37
+alindi: 2026-11-23
+---
+
+# 30 SERİ NO'LU DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 1 Konu; Madde 10 Vergileme Ölçüleri
+
+Bakanlığımıza intikal eden olaylarda, mal ve hizmet alımına ilişkin ihale kararları ile benzeri konularda düzenlenen sözleşmelerden tahsil olunacak damga vergisinin katma değer vergisi dahil toplam bedel üzerinden mi, yoksa bu vergi dikkate alınmaksızın sadece işin bedelini ifade eden meblağ üzerinden mi alınacağı hususunda tereddütlerin ve ihtilafların doğduğu anlaşılmaktadır. Bilindiği üzere, 488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olacağı, bu Kanundaki kağıtlar teriminin ise yazılıp imzalanmak veya imza yerine geçen bir işaret konulmak suretiyle düzenenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeleri ifade edeceği belirtilmiştir. Kanunun 10 uncu maddesinde de damga vergisinin nispi veya maktu olarak alınacağı, nispi vergide kağıtların nev'i ve mahiyetlerine göre bu kağıtlarda yazılı belli paranın, maktu vergide ise kağıtların mahiyetlerinin esas olacağı, belli para teriminin kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade edeceği hükme bağlanmıştır. Bu hükümlere göre, nispi damga vergisinin konusuna giren kağıtlarda, verginin matrahını, bu kağıtlarda yer alan veya hesaplanabilen değer teşkil edecektir. Bu nedenle, mal ve hizmet alımları ile ilgili olarak düzenlenecek ihale kararları, sözleşme ve diğer kağıtlarda, katma değer vergisi dahil bedelin belli olması halinde bu bedel; katma değer vergisi hariç bedel gösterilmesi halinde ise katma değer vergisi de hesaplanarak bedele ilave edilmek suretiyle bulunan toplam tutar üzerinden nispi damga vergisi hesaplanmaktadır. Ancak, yukarıda belirtilen şekilde yürütülen uygulama, bazı mükelleflerce ihtilaf konusu yapılmıştır. Bu konuda verilen ve sürekli hale gelen yargı kararlarında damga vergisi matrahına dahil edilen katma değer vergisinin, üstlenilen işin ya da verilen hizmetin bir bedeli olmadığı belirtilerek, katma değer vergisinin damga vergisi matrahına dahil edilmesi halinde, verginin vergilendirilmesi gibi bir uygulama sonucu doğacağı gerekçesiyle, katma değer vergisinin nispi damga vergisinin hesaplanmasında dikkate alınmaması gerektiğine hükmedilmiştir. Sürekli hale gelen yargı kararları uyarınca, bundan böyle nispi damga vergisine tabi kağıtların muhtevasında, katma değer vergisi yönünden herhangi bir düzenleme olup olmadığına bakılmaksızın, 1. Damga vergi sinin katma değer vergisi hariç olmak üzere sadece işin bedeli üzerinden hesaplanması, 2. Katma değer vergisi dahil edilerek düzenlenen kağıtlardan alınması icabeden damga vergisinin ise katma değer vergisi tutarı düşüldükten sonra kalan meblağ üzerinden hesaplanması, 3. Bu Tebliğin yayımı tarihi itibariyle Bakanlığımız veya vergi daireleri aleyhine verilmiş yargı kararlarının bir üst mercide dava konusu yapılmaması, 4. Tebliğin yayımı tarihinden önce ödenmiş bulunan damga vergileri yönünden herhangi bir işlem yapılmaması, 5. Söz konusu kağıtlarla ilgili olarak noterlerce yapılan işlemlere ilişkin nispi harç uygulamasına ise yukarıdaki esaslara göre devam edilmesi, uygun görülmüştür. Tebliğ olunur.

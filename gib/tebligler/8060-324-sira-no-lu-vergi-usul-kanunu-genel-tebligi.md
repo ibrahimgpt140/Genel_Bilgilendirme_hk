@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 8060
+baslik: "324 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ"
+tarih: 2003-10-28
+sayi: "25273"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/teblig/8060
+gib_guncelleme: 2025-03-24T19:38:18
+alindi: 2026-11-23
+---
+
+# 324 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 236 Makbuz Mecburiyeti
+
+1-Tevsik Zorunluluğu Bilindiği üzere, mükelleflerin ticari işlemleri ile nihai tüketicilerden mal ve hizmet bedeli olarak yapacakları 10.000.000.000 Türk Lirasını aşan tahsilat ve ödemelerin banka, özel finans kurumları veya Posta ve Telgraf Teşkilatı Genel Müdürlüğü aracılığıyla yapılacağı zorunluluğunun getirildiği ve buna ilişkin düzenlemelerin neler olduğu 320 ve 323 sıra numaralı Vergi Usul Kanunu Genel Tebliğleriyle açıklanmıştır. Ancak, bugüne kadar Bakanlığımıza yansıyan olaylar dikkate alınarak uygulamada birlik sağlanması amacıyla aşağıdaki hususların açıklanmasına gerek duyulmuştur. A) Vadeli Satışlarda: Söz konusu tebliğlerle mükelleflerin ticari işlemleri ile nihai tüketicilerden mal veya hizmet bedeli olarak yapılacak tahsilat ve ödemelerin tevsik zorunluluğunda olduğu belirtilmiştir. Bu açıklamalardan da anlaşılacağı üzere, tevsik kapsamında olan mal ve hizmet bedelinin 10.000.000.000 Türk Lirasını aşması yeterli olacaktır. Bir başka ifadeyle faturada gösterilen meblağın tevsik kapsamındaki tutarı aşması yeterlidir. Bu bedelin farklı tarihlerde ödenmesinde her bir ödemenin tahsilat ve ödemenin yapılacağı kurumlardan geçirilmesi gerekecektir. Örnek: Mükellef A, 30.000.000.000 Türk Lirası bedelindeki bir malını satmış ve bunun faturasını düzenlemiştir. Ancak malın bedeli 5 taksit halinde ödenecektir. Fatura bedeli belirlenen limiti aştığından taksit tutarları banka, özel finans kurumları ve PTT aracılığıyla ödenecektir. B) Cari Hesap Kullanılmasında: İşletmelerin kendi ortakları ile diğer gerçek ve tüzel kişilerle olan ve herhangi bir ticari içeriği olmayan nakit hareketlerinde işlem tutarı 10.000.000.000 Türk Lirasını aşıyor ise bunlar da tevsik kapsamında olacağından banka, özel finans kurumları veya PTT aracılığıyla tahsilat ve ödemeler yapılacaktır. Örnek: A işletmesi ortağı olan B işletmesinden nakit olarak borç almıştır. Bu borç ticari bir içeriği olmamakla beraber nakit hareketi söz konusu olduğundan bedelin 10.000.000.000 Türk Lirasını aşması halinde tahsilat ve ödemeler banka, özel finans kurumları ve PTT aracılığıyla yapılacaktır. C) Serbest Meslek Erbabında: Vergi Usul Kanunu'nun 236 ncı maddesi hükmüne göre, serbest meslek erbabı hizmeti tamamlamasına müteakiben yaptığı tahsilat için serbest meslek makbuzu düzenlemektedir. Bunlar da mesleki faaliyetlerine ilişkin ve tutarı 10.000.000.000 Türk Lirasını aşan her türlü tahsilatlarını banka, özel finans kurumu veya PTT aracılığıyla yapıldığını tevsik etmek zorundadır. 2) Geçici Vergide Yeniden Değerleme Oranı Geçici vergi uygulamasına ilişkin olarak 08/12/2000 gün ve 24254 sayılı Resmi Gazete'de yayımlanan 25/10/2000 gün ve 2000/1514 sayılı Bakanlar Kurulu Kararı ile 193 sayılı Gelir Vergisi Kanununun mükerrer 120 nci maddesinde yer alan geçici vergi dönemleri üç ay, beyan ve ödeme süreleri ise üçer aylık dönemi izleyen ikinci ayın 15 inci günü akşamı olarak belirlenmiş ve daha önceki tebliğlerimizde açıklanmıştır. Buna göre, 2003 yılının dokuz aylık geçici vergi döneminde uygulanacak yeniden değerleme oranı % 23,7 ( yüzde yirmi üç virgül yedi) olarak tespit edilmiştir. Tebliğ olunur.

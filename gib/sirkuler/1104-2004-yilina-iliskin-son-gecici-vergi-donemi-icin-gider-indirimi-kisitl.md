@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 1104
+baslik: "2004 yılına ilişkin son geçici vergi dönemi için gider indirimi kısıtlaması uygulamasına esas alınacak indirim oranı % 36,5 olarak tespit edilmiştir."
+tarih: 2005-02-07
+sayi: "KVK-14/ 2005-2/ Finansman Gider Kısıtlaması _5"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1104
+gib_guncelleme: 2025-03-24T22:13:31
+alindi: 2026-11-23
+---
+
+# 2004 yılına ilişkin son geçici vergi dönemi için gider indirimi kısıtlaması uygulamasına esas alınacak indirim oranı % 36,5 olarak tespit edilmiştir.
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Kurumlar Vergisi Sirküleri/14 Konusu : Finansman Gider Kısıtlaması Oranı Tarihi : 07/02/2005 Sayısı : KVK-14/ 2005-2/ Finansman Gider Kısıtlaması _5 İlgili Olduğu Maddeler : 5024 sayılı Kanunun Geçici 1 inci Maddesi İlgili Olduğu Kazanç Türleri : Ticari Kazanç, Kurum Kazancı 1 ) Giriş : Gelir ve kurumlar vergisi mükelleflerinin 2004 yılı son geçici vergi döneminde dikkate alacakları finansman gider kısıtlaması oranının tespitine yönelik açıklamalar sirkülerin konusunu oluşturmaktadır . 2) Yasal Düzenleme: 5024 sayılı, Vergi Usul Kanunu, Gelir Vergisi Kanunu ve Kurumlar Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun 9 uncu maddesinin (b) ve (c) bendleri ile Gelir Vergisi Kanunu'nun 41 inci maddesinin 8 numaralı ve Kurumlar Vergisi Kanunu'nun 15 inci maddesinin 13 numaralı bendleri, 01.01.2004 tarihinden itibaren yürürlükten kaldırılmıştır. Ancak, aynı Kanunun 5228 sayılı Kanunla değişik geçici 1 inci maddesinde, "( 5228 sayılı Kanunun 59/18 maddesiyle değişen ibare. Yürürlük; 31.07.2004) 31.12.2003 tarihi (kendilerine özel hesap dönemi tayin edilenlerde 2004 yılında biten hesap döneminin sonu) itibarıyla aktif toplamı 7,5 trilyon Türk Lirasını veya hesap dönemine ait ciroları toplamı 15 trilyon Türk Lirasını aşmayan mükelleflerden dileyenler, 2004 yılı (kendilerine özel hesap dönemi tayin edilenlerde 2004 yılında biten hesap döneminden sonra başlayan hesap dönemine ilişkin) geçici vergi dönemlerinde beyan edecekleri geçici vergi matrahının tespitinde; enflasyon düzeltmesine ilişkin hükümler yerine Vergi Usul Kanununun bu Kanunla değiştirilmeden önceki değerleme hükümleri ile Gelir Vergisi Kanunu ve Kurumlar Vergisi Kanununun bu Kanunla kaldırılan hükümlerini ve Vergi Usul Kanununun 280 inci maddesinin bu Kanunla kaldırılan son fıkrasını dikkate alırlar. Bu takdirde enflasyon düzeltmesinin dikkate alınmadığı hususu beyannamede belirtilir. Beyanname verme süresi içinde bu hususu bildirmeyen veya beyanname vermeyen mükelleflerin enflasyon düzeltmesine ilişkin hükümleri dikkate almadıkları kabul edilir." hükmüne yer verilmiştir. Buna göre, 2004 yılına ilişkin son geçici vergi dönemi için gider indirimi kısıtlaması uygulamasına esas alınacak indirim oranı % 36,5 olarak tespit edilmiştir. Bu durumda, tespit edilen orana göre mükellefler, 2004 yılına ilişkin son geçici vergi döneminde kullandıkları yabancı kaynaklara ilişkin gider ve maliyet unsurlarının (% 36,5 x % 25 =) % 9,1 ini kanunen kabul edilmeyen gider olarak dikkate alacaklardır. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

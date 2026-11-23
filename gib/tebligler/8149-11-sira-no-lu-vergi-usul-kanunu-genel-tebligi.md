@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 8149
+baslik: "11 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ"
+tarih: 1952-04-15
+sayi: " "
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/teblig/8149
+gib_guncelleme: 2025-05-23T09:17:56
+alindi: 2026-11-23
+---
+
+# 11 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 93 Tebliğ Esasları
+
+5432 sayılı Vergi Usul Kanununun 83 üncü maddesi hükmüne göre, vergilendirme ile ilgili olup hüküm ifade eden bütün evrakın muhataplarına posta vasıtasiyle, ilmühaberli taahhütlü olarak tebliğ edilmesi lâzım gelmektedir. Bazı illerden alınan yazılara nazaran; bu hükmün tatbikinde bir takım müşkillerle karşılaşıldığı, ezcümle, vergi tebliğ alındılarının Posta İdaresince tebliği yaptıran vergi dairesine veya komisyona zimmetsiz olarak iade edilmekte olduğu, bu sebeple, bulunamayan bazı tebliğ alındılarının postahanece tebliği yaptıran daireye iade edilip edilmediklerinin veya vergi dairesincemi ziyaa uğratıldıklarının tesbitine imkân bulunamadığı ve bu yüzden tahkikat ve muhabereler yapıldığı ve mükelleflerle de ihtilâfa düşüldüğü anlaşılmıştır. Malûm olduğu üzere, Hazine için alacak ve mükellef bakımından borç olan vergilerin tarh ve tahakkuku, zamanla takyit edilmiş bir takım muamelelerin ifasına bağlıdır. Bu muamelelerin muayyen bir zaman içinde yapılmaması hak sukûtunu müeddi olur ki, bu hal, her daim taraf vaziyetinde bulunan idare ile mükelleften birinin lehine ve diğerinin aleyhine neticeler tevlit eder. Böyle bir neticeye bağlı vergi muamelelerinde tebliğin önemi ise aşikârdır. Bundan başka verginin kabili tahsil hale geldiğinin tayininde ve sair bazı muamelelerde tebliğ tarihinin bilinmesine ihtiyaç vardır. Filhakika vergi muamelelerinin gerektirdiği tebliğlerin postaca yapılıp yapılmadığını tayin ve ispata imkân verecek yegâne vesika tebliğ alındısıdır. Bu itibarla tebliğ alındısının ziyaı, bittabi bu imkânı ortadan kaldıracağı gibi tebliğin yenilenmesi de caiz olamayacağından bu kabil bir durum dolayısiyle mükellefin zamanaşımı iddiasının idarece kabulü zarurî olacak ve binnetice mükelleften tahsil edilmesi mümkün olamayacak olan Hazine zararının müsebbibine tazmin ettirilmesi lâzım gelecektir ki bunun için evvel emirde alındının, tebliği yaptıran vergi dairesince mi yoksa postahanece mi ziyaa uğratıldığının tesbiti zarurî bulunmaktadır. Bu hususta Ulaştırma Bakanlığı ile yapılan muhabere neticesine, Posta İdaresince muhatabına tebliğ olunan vergi evrakına müteallik tebliğ alındılarının tebliği yaptıran daireye zimmetle teslim edilmesinin mümkün olduğu, ancak bu alındıların tebliği yaptıran daireye zimmetle iade edilmesi için, dahilî posta ücretleri tarifesine göre, her birinin 15 kuruş taahhüt ücretine tabi tutulması lâzımgeldiği, buna nazaran 20 gram ağırlığa kadar olan her vergi zarfından halen alınmakta olan 45 kuruş yerine 60 kuruş posta ücreti istifası iktiza edeceği anlaşılmış olduğundan bundan böyle vergi tebliğ zarflarının üzerlerine buna göre pul yapıştırılması ve postahanece zimmetle iade edilecek olan ve posta memuru ile muhatabının imzalarını ve tebliğ tarihini havi tebliğ alındılarının daima muayyen bir memurun imzasiyle alınıp Vergi Daireleri Kuruluş ve Görevleri Yönetmeliği hükümleri dairesinde muhafaza olunması ve tebliğ alındılarının mütad bir zaman içinde postahanece iade edilmemesi halinde keyfiyetin postahaneden sorulup tebliğ işlerinin akibetlerinin tesbiti iktiza eder. Buna göre gereğinin yapılması hususunun temini tamimen rica olunur.

@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 640
+baslik: "Toplam vergiye tabi gelir (matrah) üzerinden Gelir Vergisi Kanununun 103. maddesinde yer alan nispetler ve 104. maddesindeki düzenlemeler esas alınarak gelir vergisinin hesaplanması, daha sonra ise matrahın ücret gelirinden teşekkül eden kısmı üzerinden %"
+tarih: 2004-02-12
+sayi: "GVK- 17/2004-9/ Vergi Tarifesi"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/sirkuler/640
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# Toplam vergiye tabi gelir (matrah) üzerinden Gelir Vergisi Kanununun 103. maddesinde yer alan nispetler ve 104. maddesindeki düzenlemeler esas alınarak gelir vergisinin hesaplanması, daha sonra ise matrahın ücret gelirinden teşekkül eden kısmı üzerinden %
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Gelir Vergisi Sirküleri/17 Konusu : Ücret Gelirlerine Uygulanacak Gelir Vergisi Tarifesi Tarihi : 12/02/2004 Sayısı : GVK- 17/2004-9/ Vergi Tarifesi İlgili olduğu maddeler : Gelir Vergisi Kanununun 103 ve 104. Maddeleri İlgili olduğu kazanç türleri : Ücretler 1 - Giriş Yıllık gelir vergisi beyannamesinde ücret gelirlerinin de beyan edilmesi halinde, vergi tutarının ne şekilde hesaplanacağı bu sirkülerin konusunu oluşturmaktadır. 2-Gelir Vergisinin Hesaplanması : Gelir Vergisi Kanununun 104 üncü maddesinde , "Yıllık gelir vergisi, vergiye tabi gelirlerin yıllık toplamından 31. maddedeki indirimler düşüldükten sonra 103. maddedeki nispetler uygulanmak suretiyle hesaplanır." hükmü yer almıştır. Anılan Kanunun 103. maddesinin birinci fıkrasında, gelir vergisine tabi gelirlere uygulanacak " Vergi Tarifesi" yer almakta olup, maddenin ikinci fıkrasında, ücret gelirlerinin vergilendirilmesinde tarifede yer alan vergi oranlarının beş puan indirilmek suretiyle uygulanması öngörülmüştür. Buna göre, ilgili hükümler gereği yıllık beyannameye ücret gelirlerinin de dahil edilmesi durumunda, toplam vergiye tabi gelir (matrah) üzerinden Gelir Vergisi Kanununun 103. maddesinde yer alan nispetler ve 104. maddesindeki düzenlemeler esas alınarak gelir vergisinin hesaplanması, daha sonra ise matrahın ücret gelirinden teşekkül eden kısmı üzerinden %5 nispetinde gelir vergisi hesaplanarak ilk hesaplanan gelir vergisi tutarından düşülmesi gerekir. Bu yöntemle ulaşılan gelir vergisi tutarı, yıllık beyannamede "Hesaplanan Gelir Vergisi" olarak gösterilecektir. Örnek: Yıllık beyannamede 13 milyarı gerçek ücret gelirinden olmak üzere toplam vergiye tabi geliri (matrahı) 24 milyardan oluşan bir mükellefin,vergi tutarı şu şekilde hesaplanacaktır. Vergiye tabi gelir (matrah)..................................................................... . 24.000.000.000 .-TL Hesaplanan gelir vergisi ....................................................................... . 6.350.000.000 .-TL. Ücret gelirleri için hesaplanan 5 puan vergi indirimi tutarı .................. ........ 650.000.000 .-TL. (13.000.000.000 X %5) Hesaplanan Gelir Vergisi Tutarı ........................................................... .. 5.700.000.000 .-TL. (6.350.000.000-650.000.000=) Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

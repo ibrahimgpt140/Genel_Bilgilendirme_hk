@@ -1,0 +1,17 @@
+---
+tur: Kanun Gerekçesi
+gib_id: 167
+baslik: "4/1/1961 TARİHLİ VE 213 SAYILI VERGİ USUL KANUNU İLE 6/12/1984 TARİHLİ VE 3100 SAYILI KATMA DEĞER VERGİSİ MÜKKELEFLERİNİN ÖDEME KAYDEDİCİ CİHAZARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+tarih: 
+sayi: ""
+kanun: "3762 4/1/1961 TARİHLİ VE 213 SAYILI VERGİ USUL KANUNU İLE 6/12/1984 TARİHLİ VE 3100 SAYILI KATMA DEĞER VERGİSİ MÜKKELEFLERİNİN ÖDEME KAYDEDİCİ CİHAZARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/603/gerekce/167
+gib_guncelleme: 2025-05-30T11:39:49
+alindi: 2026-11-23
+---
+
+# 4/1/1961 TARİHLİ VE 213 SAYILI VERGİ USUL KANUNU İLE 6/12/1984 TARİHLİ VE 3100 SAYILI KATMA DEĞER VERGİSİ MÜKKELEFLERİNİN ÖDEME KAYDEDİCİ CİHAZARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+
+**Ekler:** <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/3762_sayili_kanun_gerekce.pdf>
+
+Buraya <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/3762_sayili_kanun_gerekce.pdf> tıklayarak gerekçeyi indirebilirsiniz.

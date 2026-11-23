@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9054
+baslik: "48 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ"
+tarih: 2023-12-30
+sayi: "32415 (2. Mükerrer)"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9054
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# 48 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+
+MADDE 1- 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Katma Değer Vergisi Genel Uygulama Tebliğinin (III/B-3.) bölümünün dokuzuncu paragrafında yer alan “2023 yılı için 57.300 TL” ibaresinden sonra gelmek üzere “, 2024 yılı için 90.800 TL” ibaresi eklenmiştir.
+MADDE 2- Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer.
+MADDE 3- Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.

@@ -1,0 +1,17 @@
+---
+tur: Kanun Gerekçesi
+gib_id: 166
+baslik: "213 SAYILI VERGİ USUL KANUNU 193 SAYILI GELİR VERGİSİ KANUNU 5422 SAYILI KURUMLAR VERGİSİ KANUNU 488 SAYILI DAMGA VERGİSİ KANUNU İLE 492 SAYILI HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+tarih: 
+sayi: ""
+kanun: "3689 213 SAYILI VERGİ USUL KANUNU, 193 SAYILI GELİR VERGİSİ KANUNU, 5422 SAYILI KURUMLAR VERGİSİ KANUNU, 488 SAYILI DAMGA VERGİSİ KANUNU İLE 492 SAYILI HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/602/gerekce/166
+gib_guncelleme: 2025-05-30T11:37:52
+alindi: 2026-11-23
+---
+
+# 213 SAYILI VERGİ USUL KANUNU 193 SAYILI GELİR VERGİSİ KANUNU 5422 SAYILI KURUMLAR VERGİSİ KANUNU 488 SAYILI DAMGA VERGİSİ KANUNU İLE 492 SAYILI HARÇLAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+
+**Ekler:** <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/3689_sayili_kanun_gerekce.pdf>
+
+Buraya <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/3689_sayili_kanun_gerekce.pdf> tıklayarak gerekçeyi indirebilirsiniz.

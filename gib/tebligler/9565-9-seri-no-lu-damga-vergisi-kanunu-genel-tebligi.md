@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9565
+baslik: "9 SERİ NO'LU DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ(*)"
+tarih: 1976-03-20
+sayi: "15534"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/teblig/9565
+gib_guncelleme: 2025-03-24T20:17:38
+alindi: 2026-11-23
+---
+
+# 9 SERİ NO'LU DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ(*)
+
+**İlgili maddeler:** Madde 4 Kağıtların Mahiyetlerinin Tayini
+
+İlân ve reklâmlar, 488 sayılı Kanunun 31 nci maddesinin 1 nci fıkrasının parantez içindeki hükmü gereğince, 1324 sayılı Kanun muvacahenesinde damga resmine tabi bulunmaktadır. 1324 sayılı kanunun 11 nci maddesinin 68 nci fıkrasında, dağıtılan basılmış ve basılmamış ilânnamelerin 1 kuruş damga resmine tabi olacağı; aynı maddenin 72 numaralı fıkrasında ise; kâğıt veya mukavvadan başka maddeler üzerine tertip olunarak umumi mahallere asılan veya yapıştırılan veya başka suretile teşhir olunun ilânlardan; 1 m 2 nin yarısı veya bundan aşağı olanlar .................................... 90 kr. 1 m 2 nin yarısından 1 m 2 ye kadar (dahil) olanlar .................................... 150 " 1 m 2 den 2. m 2 ye (dahil) olanlar .................................... 900 " 1 m 2 den sonra her yarım m 2 ve küsuru için .................................... 90 " Damga resmi alınacağı ve resmin, bu ilânların bulunduğu satıhların toplamı üzerinden hesap edileceği açıklanmış bulunmaktadır. Öte yandan, 29 Kasım 1956 gün ve 7 seri Numaralı Damga Resmi Genel Tebliğinin "Damga resminin makbuzla ödenmesinde kat'i ve lüzum ve zaruret görülen ilânlar hakkında aşağıda bildirildiği şekilde muamele yapılacaktır." başlıklı paragrafında; "Bankalar, İktisadi Devlet Teşekkülleri, ticarethaneler, şirketler gibi bir takım müesseselerin para cüzdanı, ufak para çantaları, termometre, anahtar, kâğıt açacağı, rozet, kibrit kutuları, resim çerçevesi, gibi plâstikten, madenden veya diğer maddelerden imal ettirelerek reklâm olmak üzere müşterilerine meccanen dağıttıkları eşyalar üzerindeki ilânların, 1324 sayılı Kanunun 11 nci maddesinin 68 nci fıkrası gereğince damga resmine tabi tutulması icap eder..." Denilmekte ise de; 11 nci maddenin 68 nci fıkrasında, basılmış ve basılmamış ilannameler dendiğine ve aynı fıkranın bir ve ikinci paragraflarında bazı gazete ve mecmua şeklindeki matbualar da ilânname sayıldığına göre, bankalar veya diğer kuruluşlar taraından reklâm maksadıyla dağıtılan plâstik, maden veya diğer maddelerden yapılmış eşyaların ilânname sayılmasına imkân yoktur. Söz konusu reklâma havi eşyalar üzerindeki ilânların, 11 nci maddenin 72 nci fıkrasındaki "Mukavvadan başka maddeler üzerine tertip olunarak ...başka suretle teşhir olunan ilânlar..." niteliğinde kabulü ve bu fıkraya göre damga resmine tabi tutulması gerekmektedir. Kaldı ki, Danıştay'ca verilen kararlarda da bahis konusu hediyelik ve reklam maksadıyla dağıtılan eşyaların 11 nci maddenin 72 numaralı fıkrsına göre damga resmine tabi olacağı hükme bağlanmış ve dolayısıyle söz konusu genel tebilğin yukarıdaki şekliyle uygulanması imkanı kalmamıştır. Ancak, bankalar veya diğer kuruluşlarca dağıtılan cep veya duvar takvimleri, katloglar veya benzeri reklâm veya hediyelik matbualar, 11 nci maddenin 72 numaralı fıkrası kapsamına girmediğinden, bu nevi makbuzların damga resminin eskiden olduğu gibi ilgili diğer fıkralara göre ödenmesine devam edilecektir, Bilgi edinilmesi ve söz konusu reklâmı ihtiva eden hediyelik eşyanın, 1324 sayılı Kanunun 11 nci maddesinin 72 numaralı fıkrasına göre damga resmine tabi tutulması önemle rica olunur. (*) Güncelliği Kalmamıştır.

@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9167
+baslik: "59 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ"
+tarih: 1996-12-28
+sayi: "22861"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9167
+gib_guncelleme: 2025-03-24T19:53:54
+alindi: 2026-11-23
+---
+
+# 59 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 13 Araçlar, kıymetli maden ve petrol aramaları ile ulusal güvenlik harcamaları ve yatırımlarda istisna (4); Madde 14 Transit Taşımacılık; Madde 29 Vergi İndirimi
+
+Katma değer vergisi iade ve mahsup işlemlerinde uygulanacak usul ve esaslarla ilgili olarak aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. A _ İNCELEME RAPORU VE TEMİNAT ARANILMADAN YAPILACAK İADELERDE SINIR : Devlet Harcama Belgeleri Yönetmeliği'nin 52 nci maddesinin Bakanlığımıza verdiği yetkiye dayanılarak Katma Değer Vergisi Kanununa göre iade hakkı doğuran işlemlerde teminat ve inceleme raporu aranılmadan iade yapılabilmesine imkan veren sınırlar: 1. İhracat istisnası ile ihraç kaydıyla yapılan teslimlerde 100 Milyon liradan 200 Milyon liraya; 2. Transit ve Türkiye ile yabancı ülkeler arasındaki taşımacılık işlerinde 50 Milyon liradan 100 Milyon liraya; 3. Diğer iade hakkı doğuran işlemlerde 15 Milyon liradan 30 Milyon liraya; yükseltilmiştir. Ayrıca bu Tebliğin yayım tarihinden geçerli olmak üzere Türkiye'de ikamet etmeyen yolculara tanınan istisna uygulamasına ilişkin olarak 51 Seri No.lu Katma Değer Vergisi Genel Tebliğinin I/F bölümünde belirlenen alt sınırın 10 Milyon liraya yükseltilmesi uygun görülmüştür. Diğer taraftan Katma Değer Vergisi Kanununa göre yapılacak iadelerde daha önce yayımlanmış Katma Değer Vergisi Genel Tebliğlerinde tespit edilen usul ve esasların uygulanmasına aynen devam edilecektir.(*) B _ ARAÇLARA İLİŞKİN İSTİSNA NEDENİYLE DOĞAN KATMA DEĞER VERGİSİ İADE ALACAKLARININ MAHSUBU : 3065 sayılı Katma Değer Vergisi Kanununun 13/b maddesi uyarınca deniz ve hava taşıma araçları için liman ve hava meydanlarında yapılan hizmetler katma değer vergisinden istisna edilmiş bulunmaktadır. Bu işlemler nedeniyle yüklenilen ve indirimle giderilemeyen vergiler Kanunun 32 nci maddesi çerçevesinde mükelleflere iade edilmektedir. Devlet Harcama Belgeleri Yönetmeliği'nin 52 nci maddesinin Bakanlığımıza verdiği yetkiye dayanılarak kanunun 13/b maddesinde belirlenen istisna kapsamındaki işlemler nedeniyle doğan katma değer vergisi iade alacaklarının, mükelleflerin kendi vergi borçlarına mahsubu işleminde teminat ve inceleme raporu aranma şartının kaldırılması uygun görülmüştür. Bu kapsamda yapılacak mahsup işlemlerinde, istisnadan kaynaklanan katma değer vergisi iadeleri için daha önce aranılan belgelerin vergi dairesine ibraz edileceği tabiidir. C _ TEBLİĞ İLE YAPILAN DÜZENLEMELERİN YÜRÜRLÜĞÜ : Teminat ve inceleme raporu aranmaksızın yapılacak iadeler konusunda bu Tebliğle belirlenen yeni sınırlar ve Kanunun 13/B maddesine ilişkin işlemler nedeniyle doğan katma değer vergisi iadelerinin mükelleflerin vergi borçlarına mahsubunda teminat ve inceleme raporu aranmaması yolundaki uygulama, incelemesine başlanılmamış iade ve mahsup talepleri bakımından geçerlidir. Dolayısıyla bu Tebliğle belirlenen yeni sınırların altındaki iade ve mahsup işlemleri için verilen teminatlar vergi dairelerince çözülecektir. İncelenmesine başlanılmış olan iade ve mahsup talepleri ise, inceleme elemanınca gerek görülmesi halinde, bu Tebliğle getirilen düzenlemelere bağlı kalınmaksızın inceleme sonucuna göre yerine getirilecektir. Tebliğ olunur. (*) Güncelliği Kalmamıştır.

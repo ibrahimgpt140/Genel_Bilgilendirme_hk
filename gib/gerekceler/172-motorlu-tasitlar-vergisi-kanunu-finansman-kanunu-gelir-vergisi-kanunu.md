@@ -1,0 +1,17 @@
+---
+tur: Kanun Gerekçesi
+gib_id: 172
+baslik: "MOTORLU TAŞITLAR VERGİSİ KANUNU, FİNANSMAN KANUNU, GELİR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU İLE 4306 VE 4481 SAYILI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE KURUMLAR VERGİSİ KANUNUNA BİR GEÇİCİ MADDE EKLENMESİ HAKKINDA KANUN"
+tarih: 
+sayi: ""
+kanun: "4605 MOTORLU TAŞITLAR VERGİSİ KANUNU, FİNANSMAN KANUNU, GELİR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU İLE 4306 VE 4481 SAYILI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE KURUMLAR VERGİSİ KANUNUNA BİR GEÇİCİ MADDE EKLENMESİ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/613/gerekce/172
+gib_guncelleme: 2025-05-30T13:59:32
+alindi: 2026-11-23
+---
+
+# MOTORLU TAŞITLAR VERGİSİ KANUNU, FİNANSMAN KANUNU, GELİR VERGİSİ KANUNU, KATMA DEĞER VERGİSİ KANUNU İLE 4306 VE 4481 SAYILI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE KURUMLAR VERGİSİ KANUNUNA BİR GEÇİCİ MADDE EKLENMESİ HAKKINDA KANUN
+
+**Ekler:** <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/4605_sayili_kanun_gerekce.pdf>
+
+Buraya <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/4605_sayili_kanun_gerekce.pdf> tıklayarak gerekçeyi indirebilirsiniz.

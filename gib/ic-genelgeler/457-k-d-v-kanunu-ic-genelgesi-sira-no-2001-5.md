@@ -1,0 +1,15 @@
+---
+tur: İç Genelge
+gib_id: 457
+baslik: "K.D.V. KANUNU İÇ GENELGESİ SIRA NO : 2001/5"
+tarih: 
+sayi: ""
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/icgenelge/457
+gib_guncelleme: 2025-09-01T14:19:05
+alindi: 2026-11-23
+---
+
+# K.D.V. KANUNU İÇ GENELGESİ SIRA NO : 2001/5
+
+T.C MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI: B.07.0.GEL.0.57/5773- KONU: KATMA DEĞER VERGİSİ İÇ GENELGESİ (Sıra No: 2001/5) ........................VALİLİĞİNE (Defterdarlık: Gelir/Vasıtalı Vergiler Gelir Müdürlüğü) ....................GELİRLER BÖLGE MÜDÜRLÜĞÜNE Katma değer vergisi uygulamaları ile ilgili olarak aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. 77 Seri No.lu Katma Değer Vergisi Genel Tebliğinin 3. bölümü uyarınca, dış ticaret sermaye şirketleri dışındaki mükelleflerden iadenin yapıldığı tarihten itibaren 6 ay içerisinde bu iade ile ilgili Yeminli Mali Müşavir raporu ibraz etmeyenler in teminatlarını % 100'e tamamlamaları, 15 işgünü içerisinde teminatlarını % 100'e tamamlama mal arı halinde ilgili döneme ait teminatlarının ise paraya çevrilmesi gerekmektedir. 71 Seri No.lu Katma Değer Vergisi Genel Tebliğinde ise, dahilde işleme veya geçici kabul izin belgesi sahibi olan firmaların bu kapsamda katma değer vergisi ödemeksizin satın aldığı ham ve yardımcı maddeleri kullanarak ürettiği malları ihraç ettiğine dair YMM tarafından her dönem için ayrı ayrı olmak üzere, her bir satıcı firma için ikişer örnek rapor düzenlene rek ihracatın yapıldığı ayı takibeden ay başından itibaren 2 ay içinde ilgili satıcılara gönderil mesi ve satıcıların da bu şekilde kendilerine gönderilen YMM raporlarını vergi dair esine ibraz etmeleri gerektiği belirtilmiştir. Ancak, Bakanlığımıza yansıyan olaylardan, 77 Seri No.lu Katma Değer Vergisi Genel Tebliğinde belirtilen 6 aylık ibraz süresinin alt firma incelemelerinin uzun sürmesi nedeniyle yetersiz kaldığı, 71 Seri No.lu Katma Değer Vergisi Genel Tebliğinde belirtilen 2 aylık sürenin ise raporu düzenleyecek olanın satıcının değil belge sahibi ihracatçının Yeminli Mali Müşavir i olması nedeniyle keza yeterli olmadığı, bu yüzden gecikmelerin ortaya çıktığı anlaşılmıştır. Bu husus gözönüne alınarak, Bakanlık Makamından alınan 18.5.2001 tarihli ve 0.57/5711-62 sayılı Onay ile; katma değer vergisi iadelerinde mükelleflerce Yeminli Mali Müşavir Tasdik Raporu ibraz edileceğinin beyan edilmesi durumunda, 71 ve 77 Seri No.lu Katma Değer Vergisi Genel Tebliğlerinde belirtilen süreler içerisinde bu iadeyle ilgili Yeminli Mali Müşavir Raporu ibraz edemeyecek olanlardan makul mazeret bildirenlere Vergi Usul Kanununun 17. maddesine göre, Genel Müdürlüğümüze ek süre verilmesi konusunda yetki verilmiştir. Buna göre, yukarıda belirtilen süreler içinde rapor ibraz edemeyecek olanların mazeretleriyle birlikte başvurmaları halinde, gerekli değerlendirme yapılarak mazeretleri haklı nedenlere dayananlara Defterdarlıklarca sözü edilen Genel Tebliğlerde belirtilen sürenin yarısı, Genel Müdürlüğümüzce de tamamı kadar ek süre verilebilecektir. Bilgi edinilmesini ve gereğinin buna göre yerine getirilmesinin sağlanmasını rica ederim. Gelirler Genel Müdürü

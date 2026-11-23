@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10607
+baslik: "32 SERİ NO'LU KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNLA İLGİLİ GENEL TEBLİĞ(*)"
+tarih: 1991-06-12
+sayi: "20899"
+kanun: "3100 KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/443/teblig/10607
+gib_guncelleme: 2025-03-24T20:40:51
+alindi: 2026-11-23
+---
+
+# 32 SERİ NO'LU KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNLA İLGİLİ GENEL TEBLİĞ(*)
+
+Bilindiği üzere, Katma Değer Vergisi mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında 3100 sayılı Kanunla ilgili 26 Seri No.lu Genel Tebliğde, katma değer vergisi oranlarına ilişkin II sayılı listede yeralan mal teslimleri için uygulanan katma değer vergisi oranının, 1 Haziran 1991 tarihinde itibaren % 8 olarak uygulanacağı belirtilmiş ve ödeme kaydedici cihazların bu orana göre programlanması sırasında uyulacak usul ve esaslar belirlenmişti. Anc ak 31 Mayıs 1991 gün ve 20887 sayılı Resmi Gazete'de yayımlanan 91.1855 sayılı Bakanlar Kurulu Kararı Eki Karar ile daha önce 1 Haziran 1991 tarihinden itibaren uygulanacağı bildirilen % 8 (katma değer vergisi) oranının uygulama tarihi 1 Ağustos 1991 tari h ine ertelenmiş, bazı mal teslimleri ve hizmet ifalarına uygulanan katma değer vergisi oranları ise yeniden belirlenmiştir. Buna göre, konu ile ilgili olarak; 1. Kararnamenin 1 inci maddesinin (c) bendinde bahsi geçen II sayılı listede yeralan % 6 oranında katma değer vergisine tabi tutulmakta olan malların teslimi ile uğraşan mükellefler, 1 Haziran 1991 tarihi itibariyle cihazlarına departmanlarında bir program değişikliği yapmayacaklar ve cihazlarını 1 Ağustos 1991 tarihine kadar mevcut haliyle (% 6 oranı n da katma değer vergisi hesaplayacak şekilde) kullanılmaya devam edeceklerdir. Anılan mükellefler, 1 Ağustos 1991 tarihinden itibaren ise söz konusu teslimleri için cihazlarının departmanları % 8 oranında katma değer vergisi hesaplayacak şekilde programlay a caklar veya programlatacaklardır. 2. Kararnamenin 1 inci maddesinin (a), (b) ve (d) bentlerinde belirtilen ve katma değer vergisi oranları 1 Haziran 1991 tarihinden geçerli olmak üzere yeniden belirlenen malların teslimi ile uğraşan mükellefler ise 1 Haziran 1991 tarihinden itibaren cihazlarının departmanlarını, yeniden belirlenen oranlara göre katma değer vergisi hesaplayacak şekilde programlayacaklar veya programlatacaklardır. Söz konusu program değişikliği 26 Seri No.lu Genel Tebliğde belirtilen esaslar çerçevesinde yapılacaktır. Yukarıda belirtilen tarihler itibariyle program değişikliğini yetiştiremeyen mükelleflere anılan tarihlerden itibaren 15 günlük bir ek süre tanınmıştır. Şu kadar ki mükellefler cihazlarını programlayıncaya kadar yapacakları satışlarını yeniden belirlenen ve yukarıda açıklanan oranlara uygun olarak Vergi Usul Kanununa göre düzenleyecekleri fatura veya perakende satış fişleri ile belgelendireceklerdir. Tebliğ olunur. (*) Güncelliği Kalmamıştır.

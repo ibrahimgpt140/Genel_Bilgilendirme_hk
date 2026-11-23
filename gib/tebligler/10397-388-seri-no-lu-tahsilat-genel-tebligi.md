@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 10397
+baslik: "388 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)"
+tarih: 1995-09-07
+sayi: "22397"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10397
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# 388 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)
+
+**İlgili maddeler:** Madde 48/A:
+
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesi ile Bakanlığımıza tanınan yetkiye istinaden, halen yıllık % 114 olarak uygulanmakta olan tecil faizi oranı bu Tebliğin yayımı tarihinden itibaren yıllık % 96 olarak belirlenmiştir. Bundan böyle, 6183 sayılı Kanunun 48 inci maddesine istinaden bu Tebliğin yayımı tarihinden itibaren yapılacak müracaatlara dayanılarak tecil edilen amme alacaklarına yıllık % 96 oranında tecil faizi uygulanacaktır. Bu Tebliğin yayımı tarihinden önceki müracaatlara dayanılarak tecil edilecek olan amme alacaklarına da müracaat tarihinden bu Tebliğin yayımı tarihine kadar geçen süre için geçerli olan oranlar, bu Tebliğin yayımı tarihinden sonra da % 96 oranında tecil faizi uygulanması gerekm ektedir. Aynı şekilde, bu Tebliğin yayımı tarihinden önce tecil edilipte tecil şartlarına uygun olarak ödenmekte olan amme alacaklarının bu Tebliğin yayımı tarihinden sonra ödenmesi gereken taksit miktarlarına; bu Tebliğin yayımı tarihine kadar geçen süre için geçerli olan oranlar, bu Tebliğin yayımı tarihinden sonra da % 96 oranında tecil faizi uygulanacaktır. Borcu tecil edilen mükelleflerden tecil şartlarının kabul edildiğine dair (tecilin gerçekleşmesinden hemen sonra) alınacak yazıda; faiz oranının belirlendiği kısmın altı çizilmek suretiyle hangi oranda tecil faizi ödeneceğine dair gerekli uyarı yapılacaktır. Tebliğ olunur. (*) Güncelliği Kalmamıştır.

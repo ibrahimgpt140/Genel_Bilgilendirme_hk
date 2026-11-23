@@ -1,0 +1,45 @@
+---
+tur: İç Genelge
+gib_id: 569
+baslik: "TAHSİLAT İÇ GENELGESİ SERİ NO: 2015/3"
+tarih: 2015-04-10
+sayi: ""
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/icgenelge/569
+gib_guncelleme: 2026-05-14T10:29:31
+alindi: 2026-11-23
+---
+
+# TAHSİLAT İÇ GENELGESİ SERİ NO: 2015/3
+
+T.C.
+
+MALİYE BAKANLIĞI
+
+Gelir İdaresi Başkanlığı
+
+Sayı : 87893753-010.06.01[36-07]-35162 10/04/2015
+
+Konu : Tahsilat İç Genelgesi
+
+(Seri No: 2015/3)
+
+TAHSİLAT İÇ GENELGESİ
+
+(Seri No: 2015/3)
+
+....................VALİLİĞİNE
+
+(Defterdarlık: Gelir Müdürlüğü)
+
+....................VERGİ DAİRESİ BAŞKANLIĞINA
+
+03/04/2015 tarihli ve 29315 sayılı Resmi Gazetede yayımlanan Anayasa Mahkemesinin 19/03/2015 tarihli ve E. No:2014/144, K. No:2015/29 sayılı kararı ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun mükerrer 35 inci maddesinin beşinci ve altıncı fıkralarının iptaline karar verilmiş ve bu karar yayımlandığı tarih itibarıyla yürürlüğe girmiştir.
+
+Bu kapsamda, tüzel kişilerle küçüklerin ve kısıtlıların, vakıflar ve cemaatler gibi tüzel kişiliği olmayan teşekküllerin mal varlığından tamamen veya kısmen tahsil edilemeyen veya tahsil edilemeyeceği anlaşılan amme alacağının kanuni temsilci ile teşekkülü idare edenlerden takibinin; 213 sayılı Vergi Usul Kanunu kapsamında olan alacaklar için anılan Kanunun 10 uncu maddesine, 213 sayılı Kanun kapsamında olmayan alacaklar için ise 6183 sayılı Kanunun mükerrer 35 inci maddesine göre yapılması gerekmektedir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Adnan ERTÜRK
+
+Gelir İdaresi Başkanı

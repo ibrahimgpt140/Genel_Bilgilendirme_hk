@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 10493
+baslik: "292 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ"
+tarih: 1962-01-12
+sayi: " "
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10493
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# 292 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 88 Gayrimenkul malların, gemilerin haczi
+
+Bakanlığa intikal eden hâdiselerden, âmme için haczedilen veya borçlusu tarafından teminat olarak gösterilen gayrimenkullerin haczi için tapu idarelerinin yapılan tebliğlerde, hacze mevzu olan âmme alacağının miktarının tasrih edilmediği öğrenildiğinden keyfiyetin tavzihine lüzum hasıl olmuştur. Bilindiği üzere; 6183 sayılı Âmme Alacaklarının Tahsil Usulü Hakkındaki Kanunun 62 nci maddesinde "Borçlunun mal bildiriminde gösterilen veya tahsil dairesince tesbit edilen borçlu veya üçüncü şahıslar elindeki malları ile gayrimenkullerinden, alacak ve haklarından âmme alacağına yetecek miktarı tahsil dairesince haczolunur.» ve 13 üncü maddesinde de «İhtiyati haciz aşağıdaki hallerden her hangi birinin mevcudiyeti takdirinde hiçbir müddetle mukayyet olmaksızın alacaklı âmme idaresinin mahalli en büyük memurunun karariyle, haczin ne suretle yapılacağına dair olan hükümlere göre, derhal tatbik olunur» denilmekte ve aynı kanunun 48 inci maddesinde de âmme alacağının tecili halinde teminatın, aslî ve fer'i âmme alacaklarını karşılayacak miktarda olacağına ve 10 uncu maddesinde de, ilgililer tarafından gösterilen ve alacaklı âmme idaresince haciz varakalarına müsteniden haczedilen gayrimenkul malların teminat olarak kabul edileceğine işaret edilmiş bulunmaktadır. Mezkûr maddeler hükümlerine göre, gayrimenkullerin gerek teminat olarak alınmaları dolayısiyle gerekse ihtiyati veya katî olarak haczedilmeleri halinde âmme alacağının miktarının tâyini zaruridir. Bahis konusu kanun hükümlerinin yerine getirilmesi ve bilâhare bir gayrimenkul üzerine aynı âmme idaresi veya sair idareler tarafından konulan hacizlerin birbirinden kolaylıkla tefriki ve mahcuz gayrimenkulün tapu kaydı üzerinde mevcut takyitlerin tapu dairesi tarafından bilinmesi ve haczedilen gayrimenkul başkasına rehinli ise rehin alacaklısının hacizden haberdar edilebilmesi için tapu dairelerine tebliğ edilecek hacizlerde behemehal hacze mevzu olan âmme alacağı miktarının tasrihi zaruridir. Bu itibarla : 1. Bundan sonra, gayrimenkullerin teminat olarak alınması veya ihtiyati ve kat'i olarak haczi dolayısiyle tapu idarelerine tebliğ edilecek olan hacizlerde, hacze sebep olan âmme alacağının behemehal miktarının tasrihinin usul ittihaz edilmesi, 2. Daha evvel tapu idarelerine tebliğ edilen gayrimenkul hacizlerinde hacze mesnet olan âmme alacağının miktarı tasrih edilmemişse, ek olarak yapılacak tebliğatla bunların da miktarının tasrihi, 3. 6183 sayılı kanunun 88 inci maddesi gereğince gemilerin haczi de gayrimenkullerin haczi hakkındaki esaslara tabi tutulmuş olduğundan, bunların haczinde de yukarıda 1 ve 2 nci maddelerde mevzubahis edildiği şekilde keyfiyetin, geminin sicilinin tutulduğu daireye tebliği, 4. Bu şekilde hacze sebep olan âmme alacağı miktarının bilâhare haciz tarihinden sonra artması halinde re'sen; borçlusu tarafından ödemede bulunulmak veya sair şekillerde tahsilât yapılmak suretiyle azalması halinde de ilgililer tarafından talep edildiği takdirde, son durumların (yâni bakiye miktarının) alâkalı tapu veya liman idarelerine bildirilmesi. uygun görülmüştür. Bilgi edinilmesi ve işbu genel yazı hükmünün sür'atle alâkalılara duyurulması rica olunur.

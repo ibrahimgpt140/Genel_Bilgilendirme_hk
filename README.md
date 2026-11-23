@@ -22,6 +22,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
+| `gib/` | gib.gov.tr mevzuatı: tüm tebliğ, sirküler, iç genelge, genel yazı, BKK/CBK, gerekçe ve 01.09.2025'ten itibaren özelgeler; günlük güncellenir (`araclar/gib/gib_tara.py`) |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
 | `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`), eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama tarama betikleri (`danistay/`) |
 

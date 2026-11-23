@@ -1,0 +1,33 @@
+---
+tur: Bakanlar Kurulu Kararı
+gib_id: 1841
+baslik: "6802 SAYILI KANUNUN 33 ÜNCÜ MADDESİNE İLİŞKİN"
+tarih: 2007-04-05
+sayi: "2007/11854"
+kanun: "6802 GİDER VERGİLERİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/445/bkk/1841
+gib_guncelleme: 2025-03-24T20:43:57
+alindi: 2026-11-23
+---
+
+# 6802 SAYILI KANUNUN 33 ÜNCÜ MADDESİNE İLİŞKİN
+
+Karar Sayısı : 2007/11854
+Ekli "Fındık Alımı ve Satımı Hakkında Kararda Değişiklik Yapılmasına İlişkin Karar"ın yürürlüğe konulması; Tarım ve Köyişleri Bakanlığının 7/3/2007 tarihli ve 139 sayılı yazısı üzerine, 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnamenin 35 inci, 6802 sayılı Gider Vergileri Kanununun 33 üncü ve 20/6/2001 tarihli ve 4684 sayılı Kanunun geçici 3 üncü maddelerine göre, Bakanlar Kurulu'nca 12/3/2007 tarihinde kararlaştırılmıştır.
+
+FINDIK ALIMI VE SATIMI HAKKINDA KARARDA
+DEĞİŞİKLİK YAPILMASINA
+İLİŞKİN KARAR
+
+MADDE 1 - (1) 28/8/2006 tarihli ve 2006/10865 sayılı Kararnamenin eki Fındık Alımı ve Satımı Hakkında Karar'ın 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+"MADDE 1 - (1) Toprak Mahsulleri Ofisi Genel Müdürlüğü (TMO) fındık alımı ile fındık üretim bölgelerindeki depolama ihtiyacını gidermeye yönelik olarak lisanslı depoculuk faaliyetine uygun depolar yapmak ve/veya yaptırmakla görevlendirilmiştir."
+MADDE 2 - (1) Aynı Kararın 4 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+"İşyeri açma, depo, malzeme ve yer temini
+MADDE 4 - (1) TMO, Ana Statüsü ve bu Karar kapsamındaki faaliyetleri yerine getirmek amacıyla idari bina, depo, arazi, malzeme, demirbaş ve gerekli diğer araç ve gereçleri satın almaya, kiralamaya; satın aldığı ürünü işlemek üzere gerekli noktalarda tesis kiralamaya ve/veya açmaya, arsa/arazi kamulaştırmaya yetkilidir.
+(2) Depo yapımı için uygun görülen kamu arsa/arazileri TMO'ya tahsis edilecektir."
+MADDE 3 - (1) Aynı Kararın 6 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+"Finansman temini ve yatırım bedeli
+MADDE 6 - (1) TMO'nun ürün alımları için gerekli olan finansman, TMO kaynakları ile iç veya dış kredi temini suretiyle karşılanır. Depo yatırımları için gerekli olan finansman ise, TMO kaynakları, bütçeye konulan ödenekten yapılacak aktarımlar ve iç veya dış kredi temini suretiyle karşılanır. Bu kapsamda yurtiçi veya yurtdışından kullanılacak döviz ya da YTL cinsi krediler üzerinden, Kaynak Kullanımı Destekleme Fonu kesintisi yapılmaz. Söz konusu krediler nedeniyle bankaların lehe aldıkları paralar % 1 oranında Banka ve Sigorta Muameleleri Vergisine tabidir.
+(2) TMO tarafından kredi temini için yapılacak "alım garantili satış" ve benzeri finansman tekniklerinin uygulanmasında belirlenen alım-satış şartları aranmaz. Bu işlemlerden alım-satım farkları ve diğer giderler borçlanma maliyeti olarak kabul edilir."
+MADDE 4 - (1) Bu Karar yayımı tarihinde yürürlüğe girer.
+MADDE 5 - (1) Bu Kararı Tarım ve Köyişleri Bakanı yürütür.

@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 9808
+baslik: "13 SERİ NO'LU HARÇLAR KANUNU GENEL TEBLİĞİ"
+tarih: 1986-06-07
+sayi: "19130"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/teblig/9808
+gib_guncelleme: 2025-03-24T20:27:51
+alindi: 2026-11-23
+---
+
+# 13 SERİ NO'LU HARÇLAR KANUNU GENEL TEBLİĞİ
+
+10.6.1985 tarih ve 3226 sayılı Finansal Kiralama Kanunu 28.6.1985 tarih ve 18795 sayılı Resmî Gazete de yayımlanarak aynı gün yürürlüğe girmiştir. Ülkemiz ekonomisinde önemli bir boşluğu dolduracak olan Kanunun 30 uncu maddesinin 1 inci fıkrasındaki, "sözleşme her türlü vergi, resim ve harçtan istisnadır." hükmünün uygulamasında, Bakanlığımıza intikal eden olaylardan Harçlar Kanunu yönünden bazı tereddütlerin olduğu anlaşıldığından, aşağıdaki açıklamaların yapılması uygun görülmüştür. Finansal Kiralama Kanununun amacı, belirli bir menkul veya gayrimenkule ihtiyaç duyan kişi ve kuruluşları, bu malları kredi ile iktisap etme yerine, kiralamaya teşvik etmektir. Finansal kiralama sözleşmesinin konusuna her türlü menkul mallarla gayrimenkuller girmektedir. Sözleşme ile finansal kiralama şirketi, kiralayan sıfatıyla, finansal kiralamayı kabul eden işletmelere, ihtiyaç duyulan menkul ve gayrimenkul malların zilyetliğini ve ekonomik mülkiyetini belli bir süre için, belli bir bedel karşılığında devretmektedir. Kanunun 8 inci maddesinde sözleşmenin, noterlikçe düzenleme şeklinde yapılacağı ve menkul mallara dair sözleşmenin noterlikteki özel sicile tescil edileceği, gayrimenkul mallara dair sözleşmenin tapu kütüğünün beyanlar hanesine, gemilerle ilgili sözleşmenin ise gemi siciline şerh edileceği esası getirilmiştir. Ayrıca tescil ve şerhten sonra üçüncü kişilerin finansal kiralama konusu mal üzerindeki ayni hak iktisaplarını kiralayana karşı ileri süremiyeceği açıkça belirtilmiştir. Bu hükümlerden de anlaşılacağı üzere, sözkonusu sözleşmenin Kanundaki amaca uygun surette finansal kiralama sözleşmesi olarak hüküm ifade edebilmesi için, Kanunun 8 inci maddesinde belirlenen ilgili sicillere şerh veya tescil edilmesi gerekmektedir. Yukarıdaki açıklamalar doğrultusunda Kanunun 30 uncu maddesinde yer alan "sözleşme her türlü vergi, resim ve harçtan istisnadır." hükmünün, sadece sözleşmenin düzenlenmesini değil, fakat aynı zamanda bu sözleşmenin ilgili sicillere tescil veya şerh işlemlerini de kapsayacak şekilde anlaşılması gerekmektedir. Nitekim Finansal Kiralama Kanununun 30 uncu maddesinin gerekçesinde bu konu açıkça belirtilmiş, finansal kiralamanın her türlü vergi, resim ve harçtan müstesna tutulmasının öngörüldüğü açıklanmıştır. Bu gerekçeye göre, Kanun koyucunun yalnızca sözleşmeden doğan vergiyi değil, fakat aynı zamanda bu sözleşmenin hüküm ifade edebilmesi için gerekli olan diğer işlemlerle ilgili vergi, resim ve harçları da istisna kapsamına alma amacında olduğu anlaşılmaktadır. Bu nedenlerle finansal kiralama sözleşmesinin; a) Noterde tabi olacağı işlemler, b) Tapu sicilinin beyanlar hanesine şerhi, c) Gemi siciline şerhi, harçtan istisna edilecektir. Tebliğ olunur.

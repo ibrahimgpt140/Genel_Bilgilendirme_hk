@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 974
+baslik: "Fabrika çıkışı kapalı kasa kamyonet olarak imal edilen motorlu araçların binek otomobile çevrilmesi durumunda yüklenilen KDV'nin indirimi hakkında"
+tarih: 2004-03-29
+sayi: "KDVK-10 / 2004-10"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/sirkuler/974
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# Fabrika çıkışı kapalı kasa kamyonet olarak imal edilen motorlu araçların binek otomobile çevrilmesi durumunda yüklenilen KDV'nin indirimi hakkında
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü KATMA DEĞER VERGİSİ SİRKÜLERİ / 10 Konusu : Fabrika çıkışı kapalı kasa kamyonet olarak imal edilen motorlu araçların binek otomobile çevrilmesi durumunda yüklenilen KDV'nin indirimi hakkında Tarihi : 29.03.2004 Sayısı : KDV-10 /2004-10 İlgili olduğu maddeler : Katma Değer Vergisi Kanunu Madde 30/b 1.Giriş : Fabrika çıkışı kapalı kasa kamyonet olarak imal edilen motorlu araçlara ( Fiat Doblo Cargo, Peugeot Partner, v.b.) koltuk ilavesinden sonra ruhsatının binek otomobil olarak değiştirilmesi halinde KDV indirimine ilişkin Bakanlığımıza intikal eden bazı tereddütler ile ilgili açıklamalarımız aşağıdadır. B. İndirim Uygulaması: Fabrika çıkışı kapalı kasa kamyonet olarak imal edilen motorlu araçlar, 87.04 tarife pozisyonunda belirtilen "eşya taşımaya mahsus motorlu araçlar" kapsamına girmektedir. Bu araçların iktisabında yüklenilen KDV genel hükümler çerçevesinde indirim konusu yapılabilecektir. Bu araçlara koltuk konulması ve binek otomobil olarak ruhsat değişikliği yapılması halinde Dünya Gümrük Örgütünün 1977 yılında yaptığı 19. dönem toplantısında aldığı karara ve buna dayalı olarak Gümrükler Genel Müdürlüğü'nün 12.03.1998 tarih ve 1998/9 sayılı genelgesi çerçevesinde araçların değişiklikten sonra sahip olduğu yük ve yolcu kapasitelerinin karşılaştırması yapılacaktır. Bu karşılaştırmada kişi başına 70 kg'lık ağırlık esas alınacaktır. Buna göre aracın değişiklikten sonra şoför hariç 4 kişilik yolcu koltuğu bulunması halinde yolcu taşıma kapasitesi (5x70kg) = 350 kg olarak kabul edilecektir. Değişiklikten sonra araç için öngörülen yük taşıma kapasitesinin 350 kg'dan fazla olması halinde taşıt 87.04 tarife pozisyonu kapsamındaki "eşya taşımaya mahsus motorlu araçlar" olarak mütalaa edilecek ve aracın iktisabında yüklenilen KDV indirim konusu yapılabilecektir. Yolcu kapasitesi yük kapasitesinden fazla olan taşıtlar ise 87.03 tarife pozisyonundaki "binek otomobil" kapsamında değerlendirilecek ve bunların iktisabında yüklenilen vergi indirim konusu yapılamayacaktır. Bu durumda, taşıtların koltuk ilavesinden sonra ruhsatının da binek otomobili olarak değiştirilmesi halinde indirilen katma değer vergisinin, değişikliğin yapıldığı döneme ait KDV beyannamesinin 20. satırına eklenerek beyan edilmesi gerekmektedir. İndirim hesaplarından bu şekilde çıkarılan ve beyan edilen katma değer vergisinin gelir ve kurumlar vergisi matrahlarının tespiti bakımından gider veya maliyet unsuru olarak değerlendirileceği tabiidir. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

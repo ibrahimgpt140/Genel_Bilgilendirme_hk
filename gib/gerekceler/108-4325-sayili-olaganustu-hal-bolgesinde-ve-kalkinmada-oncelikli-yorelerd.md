@@ -1,0 +1,17 @@
+---
+tur: Kanun Gerekçesi
+gib_id: 108
+baslik: "4325 SAYILI OLAĞANÜSTÜ HAL BÖLGESİNDE VE KALKINMADA ÖNCELİKLİ YÖRELERDE İSTİHDAM YARATILMASI VE YATIRIMLARIN TEŞVİK EDİLMESİ İLE 193 SAYILI GELİR VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+tarih: 
+sayi: ""
+kanun: "4325 4325 SAYILI OLAĞANÜSTÜ HAL BÖLGESİNDE VE KALKINMADA ÖNCELİKLİ YÖRELERDE İSTİHDAM YARATILMASI VE YATIRIMLARIN TEŞVİK EDİLMESİ İLE 193 SAYILI GELİR VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/473/gerekce/108
+gib_guncelleme: 2026-06-18T11:42:27
+alindi: 2026-11-23
+---
+
+# 4325 SAYILI OLAĞANÜSTÜ HAL BÖLGESİNDE VE KALKINMADA ÖNCELİKLİ YÖRELERDE İSTİHDAM YARATILMASI VE YATIRIMLARIN TEŞVİK EDİLMESİ İLE 193 SAYILI GELİR VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+
+**Ekler:** <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/UNIVERSAL/2026/4325_Sayili_Kanun_Gerekce.pdf>
+
+Buraya <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/UNIVERSAL/2026/4325_Sayili_Kanun_Gerekce.pdf>tıklayarak gerekçeyi indirebilirsiniz.

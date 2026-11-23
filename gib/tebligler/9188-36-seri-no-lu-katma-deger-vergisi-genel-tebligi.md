@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9188
+baslik: "36 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ"
+tarih: 1990-06-05
+sayi: "20539"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9188
+gib_guncelleme: 2025-03-24T19:53:54
+alindi: 2026-11-23
+---
+
+# 36 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 29 Vergi İndirimi; Madde 14 Transit Taşımacılık; Madde 15; Madde 32 İstisna Edilmiş İşlemlerde İndirim; Madde 40 Beyan Esası
+
+Katma değer vergisi uygulaması ile ilgili olarak aşağıdaki açıklamalara gerek duyulmuştur. A _ Ödeme Kaydedici Cihaz Kullanmak Zorunda Olan Mükelleflerden İstenecek Belge: Vergi Usul Kanununun Mükerrer 257 nci maddesinin Bakanlığımıza verdiği yetkiye dayanılarak, 3100 sayılı Kanun uyarınca ödeme kaydedici cihaz kullanmak zorunda olan mükelleflerin, söz konusu cihazların mali hafızalarından her ay alacakları aylık raporları o aya ait katma değer vergisi beyannamelerine eklemeleri zorunluluğu getirilmiştir. Bu uygulama Mayıs 1990 dönemine ilişkin olarak mali hafızadan alınacak aylık raporun 25 Haziran 1990 tarihine kadar verilecek katma değer vergisi beyannamesine eklenmesi suretiyle başlanacaktır. B _ İade Hakkı Doğuran İşlemlerde Yüklenilen Vergilerin Hesabı ; Katma Değer Vergisi Kanununun 32 nci maddesinde sayılan istisnalar ile aynı Kanunun 29/2 nci maddesinde belirtilen temel gıda maddesi teslimlerine ilişkin işlemler dolayısıyla yüklenilen vergiler indirimin mümkün olmaması halinde mükelleflere iade edilmektedir. Mükellefler, iade hakkı doğuran işlemlerle ilgili olarak yüklendikleri katma değer vergisini doğru olarak hesaplamak zorundadırlar. Vergi Usul Kanununun 275 inci maddesine göre maliyet muhasebesi tutan imalatçı ihracatçılar, yüklendikleri katma değer vergisini aynı ilkeler ışığında hesaplayacaklardır. Buna göre genel imal ve genel idare giderlerinden mamüle verilen paranın hesabında hangi usul kullanılıyor ise bu giderler dolayısıyla yüklenilen katma değer vergisinin hesabında da aynı usul kullanılacaktır. C _ Taşımacılık İstisnası Nedeniyle İnceleme Raporu ve Teminat Aranılmadan Yapılacak İadelerde Sınır: Transit ve Türkiye ile yabancı ülkeler arasında deniz, hava, kara ve demiryolu ile yapılan yük ve yolcu taşıma işlerinde teminat ve inceleme raporu aranılmaksızın iade yapılabilmesine imkan veren sınır, Devlet Harcama Belgeleri Yönetmeliğinin değişik 17 nci maddesinin Bakanlığımıza verdiği yetkiye istinaden bu Tebliğin yayımı tarihinden itibaren geçerli olmak üzere 10.000.000,_ TL'ye çıkartılmıştır. Bu uygulamada 28 seri No.lu Katma Değer Vergisi Genel Tebliğinin 2.000.000 liralık sınır dışındaki bütün hükümleri aynen geçerli olacaktır. D _ Diplomatik İstisna Uygulaması; Karşılıklılık ilkesi gereğince, Sudan'ın Türkiye'deki diplomatik temsilciliğinin ve diplomatik haklara sahip mensuplarının, Katma Değer Vergisi Kanununun l5/1-a maddesi ile düzenlenen istisnadan yararlanması uygun görülmüştür. Bu nedenle; 1. Genel olarak diplomatik istisnadan yararlanmayacak devletlerin belirtildiği 19/4/1985 tarih ve 18730 sayılı Resmi Gazete'de yayımlanan 13 seri No.lu Katma Değer Vergisi Genel Tebliğinin (A) bölümünde yer alan listeden, 2. PTT hizmetlerinde diplomatik istisnadan yararlanmayacak devletlerin belirtildiği 28/3/1986 tarih ve 19061 sayılı Resmi Gazete'de yayımlanan 20 seri No.lu Katma Değer Vergisi Genel Tebliğinin (F) bölümünde yer alan (a) listesinden, "Sudan" çıkarılmıştır.(*) Tebliğ olunur. (*) Güncelliği kalmamıştır.

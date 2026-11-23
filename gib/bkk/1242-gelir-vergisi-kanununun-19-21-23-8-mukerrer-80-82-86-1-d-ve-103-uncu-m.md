@@ -1,0 +1,17 @@
+---
+tur: Bakanlar Kurulu Kararı
+gib_id: 1242
+baslik: "GELİR VERGİSİ KANUNUNUN 19,21, 23/8,mükerrer 80,82,86/1-d  ve 103 ÜNCÜ MADDELERİNE İLİŞKİN"
+tarih: 2003-12-30
+sayi: "2003/6578"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/bkk/1242
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# GELİR VERGİSİ KANUNUNUN 19,21, 23/8,mükerrer 80,82,86/1-d  ve 103 ÜNCÜ MADDELERİNE İLİŞKİN
+
+**İlgili maddeler:** Madde 19 Ticarî ve ziraî kazançlarda yatırım indirimi istisnası; Madde 21 Gayrimenkuller ve Haklarda; Madde 23 Ücretlerde; Madde 82 Arızi Kazançlar; Madde 86 Toplama yapılmayan haller; Madde 103 Esas Tarife
+
+Karar Sayısı : 2003/6578 193 sayılı Gelir Vergisi Kanununun 19 , 21 , 23/8 , mükerrer 80 , 82 , 86/1-d ve 103 üncü maddelerinde yer alan tutarlarla ilgili ekli Karar'ın yürürlüğe konulması; Maliye Bakanlığı'nın 08/12/2003 tarihli ve 052152 sayılı yazısı üzerine, mükerrer 123 üncü maddesinin verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 10/12/2003 tarihinde kararlaştırılmıştır. 10/12/2003 Tarihli ve 2003/ 6578 Sayılı Kararnamenin Eki KARAR Madde 1- 193 sayılı Gelir Vergisi Kanununun 19 uncu maddesinde yer alan ticari ve zirai kazançlarda yatırım indirimi istisnasına ilişkin iktisadi kıymetlerde yatırım indirimi hesaplanmayacak tutar, 2004 takvim yılında uygulanmak üzere 6.000.000.000 lira olarak tespit edilmiştir. Madde 2- 193 sayılı Gelir Vergisi Kanununun 21 inci maddesinde yer alan gayrimenkul sermaye iradı istisnasına ilişkin tutar, 2004 takvim yılında uygulanmak üzere 1.800.000.000 lira olarak tespit edilmiştir. Madde 3- 193 sayılı Gelir Vergisi Kanununun 23/8 inci maddesinde yer alan hizmet erbabına işyeri veya işyeri müştemilatı dışında kalan yerlerde yemek verilmek suretiyle sağlanan menfaatlere ilişkin istisna tutarı, 2004 takvim yılında uygulanmak üzere 7.000.000 lira olarak tespit edilmiştir. Madde 4- 193 sayılı Gelir Vergisi Kanununun mükerrer 80 inci maddesinde yer alan değer artış kazançlarına ilişkin istisna tutarı, 2004 takvim yılında uygulanmak üzere 12.000.000.000 lira olarak tespit edilmiştir. Madde 5- 193 sayılı Gelir Vergisi Kanununun 82 nci maddesinde yer alan arızi kazançlara ilişkin istisna tutarı, 2004 takvim yılında uygulanmak üzere 12.000.000.000 lira olarak tespit edilmiştir. Madde 6- 193 sayılı Gelir Vergisi Kanununun 86/1-d maddesinde yer alan tevkifata ve istisna uygulamasına konu olmayan menkul ve gayrimenkul sermaye iratlarına ilişkin beyanname verme sınırı, 2004 takvim yılında uygulanmak üzere 750.000.000 lira olarak tespit edilmiştir. Madde 7- 193 sayılı Gelir Vergisi Kanununun 103 üncü maddesinde yer alan vergi tarifesi gelir dilimleri tutarları artırılarak, 2004 takvim yılı gelirlerine uygulanmak üzere aşağıdaki şekilde yeniden düzenlenmiştir. 6.000.000.000 liraya kadar %20 14.000.000.000 liranın 6.000.000.000 lirası için 1.200.000.000 lira, fazlası %25 28.000.000.000 liranın 14.000.000.000 lirası için 3.200.000.000 lira, fazlası %30 70.000.000.000 liranın 28.000.000.000 lirası için 7.400.000.000 lira, fazlası %35 140.000.000.000 liranın 70.000.000.000 lirası için 22.100.000.000 lira, fazlası %40 140.000.000.000 liradan fazlasının 140.000.000.000 lirası için 50.100.000.000 lira, fazlası %45 Oranında vergilendirilir. Madde 8- Bu Karar 01/01/2004 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer. Madde 9- Bu Karar hükümlerini Maliye Bakanı yürütür.

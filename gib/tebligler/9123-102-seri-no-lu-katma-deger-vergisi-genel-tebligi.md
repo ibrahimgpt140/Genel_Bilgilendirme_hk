@@ -1,0 +1,22 @@
+---
+tur: Tebliğ
+gib_id: 9123
+baslik: "102 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ"
+tarih: 2006-12-20
+sayi: "26382"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9123
+gib_guncelleme: 2025-03-24T19:53:54
+alindi: 2026-11-23
+---
+
+# 102 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 29 Vergi İndirimi
+
+3065 sayılı Katma Değer Vergisi (KDV) Kanununun 5035 sayılı Kanunla değişik 29 uncu maddesinde; Bakanlar Kurulu tarafından vergi nispeti indirilen teslim ve hizmetlerle ilgili olup teslim ve hizmetin gerçekleştiği vergilendirme döneminde indirilemeyen ve tutarı Bakanlar Kurulunca tespit edilecek sınırı aşan verginin mahsuben ödeneceği, yılı içinde mahsuben iade edilemeyen verginin ise nakden iade edileceği ve Maliye Bakanlığı'nın bu konudaki usul ve esasları tespit etmeye yetkili olduğu hükme bağlanmıştır.
+Bakanlar Kurulu, bu hükmün uygulanmasına yönelik olarak 2006/10379 sayılı Kararname ile indirimli vergi oranına tabi teslim ve hizmetlerde iade uygulaması ile ilgili sınırı 2006 yılında gerçekleşecek işlemler için geçerli olmak üzere 10.000 YTL olarak belirlemiştir.
+Aynı Kararnameye göre, 2007 ve izleyen yıllarda ise bu sınır Vergi Usul Kanunu hükümleri uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanacak, bu şekilde yapılacak hesaplamada, 50 YTL ve daha düşük tutarlar dikkate alınmayacak, 50 YTL'den fazla olan tutarlar ise 100 YTL'nin en yakın katına yükseltilecektir.
+28/11/2006 tarih ve 26360 sayılı Resmî Gazete’de yayımlanan 363 Sıra No'lu Vergi Usul Kanunu Genel Tebliği uyarınca yeniden değerleme oranı 2006 yılı için % 7,8 olarak tespit edilmiştir.
+Buna göre, 2007 yılında gerçekleştirilecek indirimli orana tabi işlemlerden doğan KDV iadelerine ilişkin alt sınır, 2006 yılı için belirlenen yeniden değerleme oranı (%7,8) esas alınmak suretiyle 10.800 YTL olarak uygulanacaktır.
+Tebliğ olunur.

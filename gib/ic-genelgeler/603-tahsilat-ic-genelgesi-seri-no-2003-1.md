@@ -1,0 +1,15 @@
+---
+tur: İç Genelge
+gib_id: 603
+baslik: "TAHSİLAT İÇ GENELGESİ SERİ NO: 2003/1"
+tarih: 
+sayi: ""
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/icgenelge/603
+gib_guncelleme: 2025-03-24T20:39:59
+alindi: 2026-11-23
+---
+
+# TAHSİLAT İÇ GENELGESİ SERİ NO: 2003/1
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI : B.07.0.GEL.0.38/3802-66 KONU : TAHSİLAT İÇ GENELGESİ SERİ NO : 2003/1 ............................VALİLİĞİ (Defterdarlık: ................................................) İLGİ : 4.12.1998 gün ve B.07.0.GEL.0.38/3802-13/45379-45380-45381 sayılı yazılarımız. 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine istinaden ekonomik ve mali zorluklar içinde bulunduklarını belirterek tecil talebinde bulunan mükelleflerin bu taleplerinin biran önce incelenerek karara bağlanması ve kamu alacaklarının daha etkin bir biçimde tahsil edilmesi amacı ile ilgide kayıtlı yazımızla iliniz Defterdarlık, Vergi Dairesi Başkanlıkları, Vergi Daireleri ve Malmüdürlüklerine tanınan tecil ve taksitlendirme yetkisi; a) Ankara, İstanbul ve İzmir Defterdarlıkları için 400.000.000.000 lira, b) Ankara, İstanbul ve İzmir'de bulunan Vergi Dairesi Başkanlıkları için 300.000.000.000 lira, c) Yukarıdaki iller dışında kalan büyükşehir belediyesi bulunan İl Defterdarlıkları ve Vergi Dairesi Başkanlıkları için 200.000.000.000 lira, d) Diğer İl Defterdarlıkları için 100.000.000.000 lira, e) Vergi Daireleri ve Malmüdürlükleri için 20.000.000.000 lira, olarak yeniden belirlenmiştir. İlinize tanınan bu tecil ve taksitlendirme yetkisinin kullanılmasında aşağıda belirtilen esaslara uyulması gerekmektedir. 1- Yapılacak tecil ve tasitlendirmelerde müracaat tarihinden itibaren azami 12 aylık süre aşılmayacaktır. (Verilecek sürenin hesabında bütçe yılının aşılıp aşılmadığına bakılmayacaktır.) 2- Taşıt Alım, Motorlu Taşıtlar, Katma Değer Vergisi, Geçici Vergi, Zirai (Stp) Vergisi, Özel Tüketim Vergisi, Banka ve Sigorta Muameleleri Vergisi, Harçlar, Fonlar ve Ecrimisil ile Eğitime Katkı Payı ve Eğitime Katkı Payına ait gecikme zammından olan alacaklar tecil edilmeyecektir. 3- Miktar itibariyle ilinize tanınan tecil ve taksitlendirme yetkisini aşan talepler; mükellefin eksiksiz olarak doldurması gereken " Erteleme ve Taksitlendirme Talep ve Değerlendirme Formu" ile birlikte tecili talebedilen borcun ayrı ayrı nev'i, vadeleri, miktarı ve gerekli görülen diğer bilgilere de yer verilmek suretiyle en geç 5 gün içinde Bakanlığımıza (Gelirler Genel Müdürlüğüne) gönderilecektir. 4- 313 Seri No'lu Tahsilat Genel Tebliğinde de açıklandığı üzere, tecil talebinde bulunan mükelleflere bu talepleri karara bağlanıp kendilerine kesin tebligat yapılıncaya kadar önerdikleri taksitlerin muntazaman ödenmesi gerektiği özellikle hatırlatılacaktır. İlinize tanınan tecil ve taksitlendirme yetkisi bundan böyle bu İç Genelge ile 7 ve 10 Seri No'lu Tahsilat İç Genelgeleri doğrultusunda kullanılacaktır. Bilgi edinilmesini ve durumun ilgililere de duyurularak uygulamanın bu esaslar doğrultusunda yürütülmesinin teminini önemle rica ederim. Bakan a.

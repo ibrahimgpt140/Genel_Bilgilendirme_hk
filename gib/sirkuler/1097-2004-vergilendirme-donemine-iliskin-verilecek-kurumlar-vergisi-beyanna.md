@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 1097
+baslik: "2004 vergilendirme dönemine ilişkin verilecek kurumlar vergisi beyannamesinin düzenlenmesi ile ilgili açıklamalar"
+tarih: 2006-04-11
+sayi: "KVK-21/2006-2/Kurumlar Vergisi Beyannamesi-3"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1097
+gib_guncelleme: 2025-03-24T22:13:31
+alindi: 2026-11-23
+---
+
+# 2004 vergilendirme dönemine ilişkin verilecek kurumlar vergisi beyannamesinin düzenlenmesi ile ilgili açıklamalar
+
+T.C. MALİYE BAKANLIĞI Gelir İdaresi Başkanlığı Kurumlar Vergisi Sirküleri/21 Konusu : Yıllık Kurumlar Vergisi Beyannamesinin Verilme Süresinin Uzatılması Tarihi : 11/04/2006 Sayısı : KVK-21/2006-2/Kurumlar Vergisi Beyannamesi-3 İlgili Olduğu Maddeler : Kurumlar Vergisi Kanunu Madde 21 ve 40 İlgili Olduğu Kazanç Türleri : Kurum Kazancı 1 - Giriş Yıllık kurumlar vergisi beyannamesinin verilme süresinin uzatılması bu Sirkülerin konusunu oluşturmaktadır. 2. Yıllık Kurumlar Vergisi Beyannamesinin Verilme Süresinin Uzatılması Kurumlar Vergisi Kanununun 21 inci maddesine göre, 2005 takvim yılına ait yıllık kurumlar vergisi beyannamesinin 2006 yılı Nisan ayının 15 inci günü akşamına kadar verilmesi gerekmektedir. Başkanlığımıza iletilen sorunlar nedeniyle, Vergi Usul Kanununun 17 nci maddesindeki yetkiye dayanılarak kurumlar vergisi mükelleflerinin 2005 takvim yılına ait yıllık kurumlar vergisi beyannamelerinin verilme süresi 25 Nisan 2006 Salı günü akşamına kadar uzatılmıştır. Beyanname verme süresinin uzatılması ödeme süresini etkilememektedir. Bu nedenle, mükelleflerin beyan ettikleri vergileri kanuni süresinde ödeyecekleri tabiidir. Duyurulur. Kemal UNAKITAN Maliye Bakanı

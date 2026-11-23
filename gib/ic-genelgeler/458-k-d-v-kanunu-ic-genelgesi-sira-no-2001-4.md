@@ -1,0 +1,15 @@
+---
+tur: İç Genelge
+gib_id: 458
+baslik: "K.D.V. KANUNU İÇ GENELGESİ SIRA NO : 2001/4"
+tarih: 
+sayi: ""
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/icgenelge/458
+gib_guncelleme: 2025-09-01T14:18:34
+alindi: 2026-11-23
+---
+
+# K.D.V. KANUNU İÇ GENELGESİ SIRA NO : 2001/4
+
+T.C MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI: B.07.0.GEL.0.57/5773- KONU: KATMA DEĞER VERGİSİ İÇ GENELGESİ (Sıra No: 2001/4) ........................ VALİLİĞİNE (Defterdarlık: Gelir/Vasıtalı Vergiler Gelir Müdürlüğü) Kat ma değer vergisi uygulamaları ile ilgili olarak aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. 1- Bilindiği üzere 2001/1 Sıra No'lu Katma Değer Vergisi İç Genelgesinde , gümrük beyannamelerinin "vergi dairelerince bir yazı ile doğrudan ilgili gümrük idaresinden istenilmek ve gümrük idaresince de doğrudan vergi dairesine cevap verilmek suretiyle" teyit edileceği belirtilmiştir. Ancak, mükelleflerin ihracat işlemlerine ilişkin bilgilerin doğru, sağlıklı ve kısa sürede takibi amacıyla gümrük beyannamelerine ilişkin bilgilerin Gümrük Müsteşarlığı tarafından Bakanlığımıza verilmesi ve gümrük beyannamelerinde yer alan kimlik bilgilerinin doğruluğunun tespiti için de mükelleflerin sicil bilgilerinin Bakanlığımız tarafından Gümrük Müsteşarlığına manye t ik ortamda "text file olarak" verilmesi hususunda Bakanlığımız ile sözü edilen Müsteşarlık arasında 16.2.2001 tarihinde protokol imzalanmıştır. Gümrük Müsteşarlığınca manyetik ortamda verilen bilgilerin vergi daireleri otomasyonu (VEDOP) projesi çerçevesinde vergi dairelerinin kullanımına açılması ile birlikte, gümrük idareleri ile ( 2001/1 Sıra No'lu Katma Değer Vergisi İç Genelgesinde belirtildiği şekilde) yazışma yapmadan, (VEDOP) sorgulama sonuçlarına göre teyit alınmasına imkan sağlanmıştır. Sorgul ama sonuçları bilgisayar çıktısı alınarak muhafaza edilecek ve gerekli görülmedikçe veya Bakanlığımızca aksine talimat verilmedikçe gümrük idarelerinden ayrıca yazılı teyit alınmayacaktır. 2- Gümrük Müsteşarlığınca verilen gümrük beyannamesi özetlerinde ihracatçılara tecil-terkin kapsamında satış yapan imalatçılara ilişkin bilgiler bulunmamaktadır. Tecil-terkin kapsamında satış yapan mükellefler tarafından gümrük beyannamelerine ilişkin olarak verilen bilgilerle, (VEDOP) sorgulaması sonucu alınan bilgilerin birbirleriyle uyumlu olması halinde söz konusu ihracat ile ilgili olarak gerekli görülmedikçe gümrük idaresinden ayrıca yazılı teyit alınmayacaktır. 3- Yeminli mali müşavirler tarafından düzenlenen katma değer vergisi iadesi raporlarında gümrük beyannamelerinin teyidine yer verilmemesi halinde yukarıda belirtilen şekilde yapılan sorgulama ile yetinilecek, ayrıca teyit aranılmadan rapor işleme konulacaktır. Ancak ihracatın gerçek olup olmadığı konusunda yeminli mali müşavirlerin sorumluluğunun d evam edeceği tabiidir. 4- İade talep eden mükelleflerin gümrük beyannamelerine ait bilgilerin (VEDOP) sorgulamasından alınamadığı durumlarda teyit, 2001/1 ve 2001/2 Sıra No'lu Katma Değer Vergisi İç Genelgelerinde belirtildiği şekilde yapılacaktır. Bilgi edinilmesini ve gereğini rica ederim. Maliye Bakanı

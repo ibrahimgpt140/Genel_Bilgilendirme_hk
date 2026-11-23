@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 1105
+baslik: "Yurtdışında yerleşik ve Türkiye'de ticaret sicili kaydı bulunmayan firmalar faaliyette bulundukları serbest bölge müdürlüklerinden alacakları ve 'serbest bölgedeki işyerinde imalat faaliyetinde bulunduklarına ilişkin' bir yazıyı verecekleri ilk geçici ver"
+tarih: 2005-01-07
+sayi: "KVK-13/2005-1/Serbest Bölgeler Uygulaması-1"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1105
+gib_guncelleme: 2025-03-24T22:13:31
+alindi: 2026-11-23
+---
+
+# Yurtdışında yerleşik ve Türkiye'de ticaret sicili kaydı bulunmayan firmalar faaliyette bulundukları serbest bölge müdürlüklerinden alacakları ve 'serbest bölgedeki işyerinde imalat faaliyetinde bulunduklarına ilişkin' bir yazıyı verecekleri ilk geçici ver
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Kurumlar Vergisi Sirküleri/13 Konusu : Serbest Bölgelerde Sanayi Sicil Kaydı Bulunmayan Mükellefler Hakkında Uygulama Tarihi : 07/01/2005 Sayısı : KVK-13/2005-1/Serbest Bölgeler Uygulaması-1 İlgili Olduğu Maddeler : 3218 sayılı Serbest Bölgeler Kanununun Geçici 3 üncü maddesi İlgili Olduğu Kazanç Türleri : Gelir ve kurumlar vergisi 1 - Giriş 3218 sayılı Serbest Bölgeler Kanununda 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile yapılan düzenlemelere ilişkin vergisel uygulamalar 85 Seri Numaralı Kurumlar Vergisi Genel Tebliğinde açıklanmış bulunmaktadır. Sanayi sicil belgesi ve kapasite raporunun bir örneğinin hangi mükelleflerden isteneceğine ilişkin açıklamalar bu Sirkülerin konusunu oluşturmaktadır. 2. Konu İle İlgili Mevzuat Söz konusu Tebliğin "2.3. İmalat Faaliyetlerine Uygulanacak İstisna" bölümünde, Serbest Bölgeler Kanununun geçici 3 üncü maddesinin ikinci fıkrası uyarınca serbest bölgelerde faaliyet gösteren mükelleflerin imal ettikleri ürünlerin satışından elde ettikleri kazançlara ilişkin istisna uygulaması açısından, - Bölgelerde "imalat" faaliyetinde bulunmak üzere almış oldukları ruhsatın bir örneğini, - Sanayi sicil belgesi ve kapasite raporunun bir örneğini, - İmalat faaliyetinde kullanılacak araç parkını gösteren bir listeyi, yeni mükellefiyet tesis ettirenler mükellefiyet tesisinde, halen serbest bölgelerde faaliyete devam edenler 2004 yılı sonuna kadar, durum değişikliklerinde ise (yeni bir alanda imalata başlayacak mükelleflerin bu durumu ruhsatlarına işlettirdikten sonra) değişikliği müteakip verecekleri ilk geçici vergi beyannamesi ekinde, ilgili vergi dairesine vermeleri gerektiği belirtilmiştir. 3. Sanayi Sicil Kaydı Bulunmayan Mükellefler Hakkında Uygulama Bakanlığımıza yapılan başvurulardan, yurtdışında yerleşik ve Türkiye'de ticaret sicili kaydı bulunmayan firmaların sanayi sicil belgesi ve kapasite raporu almada sorunlarla karşılaştıkları anlaşılmakta olduğundan, bu mükelleflerin, faaliyette bulundukları serbest bölge müdürlüklerinden alacakları ve "serbest bölgedeki işyerinde imalat faaliyetinde bulunduklarına ilişkin" bir yazıyı verecekleri ilk geçici vergi beyannamesi ekinde bağlı oldukları vergi dairesine vermeleri yeterli görülmüştür. Duyurulur. Kemal UNAKITAN Maliye Bakanı

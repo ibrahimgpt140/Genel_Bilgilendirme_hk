@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 946
+baslik: "Konut yapı kooperatiflerince üyelerinin sosyal ve kültürel ihtiyaçlarını karşılamak üzere yaptırılan okul, hastane, sağlık ocağı, ibadethane gibi yapılara ilişkin inşaat taahhüt işlerinde; kooperatifin inşaat ruhsatının 29.07.1998 tarihinden önce alınmış"
+tarih: 2006-03-14
+sayi: "KDVK-38/2006-4"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/sirkuler/946
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# Konut yapı kooperatiflerince üyelerinin sosyal ve kültürel ihtiyaçlarını karşılamak üzere yaptırılan okul, hastane, sağlık ocağı, ibadethane gibi yapılara ilişkin inşaat taahhüt işlerinde; kooperatifin inşaat ruhsatının 29.07.1998 tarihinden önce alınmış
+
+T.C. MALİYE BAKANLIĞI Gelir İdaresi Başkanlığı KATMA DEĞER VERGİSİ SİRKÜLERİ / 38 Tarihi : 14/03/2006 Sayısı : KDVK-38/2006-4 Konusu : Konut yapı kooperatiflerine yapılan inşaat taahhüt işleri hk. İlgili Kanun Maddeleri : Katma Değer Vergisi Kanununun 28 ve geçici 15 inci maddeleri. Başkanlığımıza intikal eden olaylardan, konut yapı kooperatiflerince yaptırılan eğitim ve sağlık tesisleri (okul, hastane, sağlık ocağı vb.) ile ibadethaneler için verilen inşaat işlerinde istisna veya indirimli oranda KDV uygulanıp uygulanamayacağı hususunda tereddüde düşüldüğü anlaşılmaktadır. 3065 sayılı Katma Değer Vergisi Kanununa 4369 sayılı Kanunla geçici 15 inci madde eklenerek, 29.07.1998 tarihinden önce inşaat ruhsatı alınmış inşaatlara ilişkin olarak konut yapı kooperatiflerine yapılan inşaat taahhüt işlerinin katma değer vergisinden istisna olduğu hükme bağlanmıştır. Diğer taraftan, 30.07.2002 tarih ve 24831 sayılı Resmi Gazete'de yayımlanan 2002/4480 sayılı Bakanlar Kurulu Kararı ile konut yapı kooperatiflerine yapılan inşaat taahhüt işleri için katma değer vergisi oranı %1 olarak tespit edilmiştir. İnşaat taahhüt işlerinin katma değer vergisinden istisna olabilmesi veya bu işler için indirimli oranda katma değer vergisi uygulanabilmesi için; -Kooperatifin konut yapı kooperatifi olması, -İşin konut yapı kooperatifine yapılması, -Yapılan işin inşaat işi olması ve taahhüde dayanması, gerekmektedir. İnşaat taahhüt kapsamına giren işler ise 49 Seri No.lu Katma Değer Vergisi Genel Tebliği ile 5 Seri No.lu Katma Değer Vergisi Sirkülerinde belirtilmiştir. Tebliğ ve Sirkülerdeki açıklamalara göre istisna veya indirimli oran uygulamasından yararlanabilecek inşaat işleri arasında konut yapımı yanında çocuk parkı, bahçe gibi sosyal tesisler de yer almaktadır. Buna göre, konut yapı kooperatiflerince üyelerinin sosyal ve kültürel ihtiyaçlarını karşılamak üzere yaptırılan okul, hastane, sağlık ocağı, ibadethane gibi yapılara ilişkin inşaat taahhüt işlerinde; - Kooperatifin inşaat ruhsatının 29.07.1998 tarihinden önce alınmış olması halinde kısmi istisna hükümlerine göre, - Ruhsatın bu tarih veya daha sonra alınmış olması halinde % 1 KDV oranı uygulanmak suretiyle, işlem yapılabilecektir. Duyurulur. Osman ARIOĞLU Gelir İdaresi Başkanı

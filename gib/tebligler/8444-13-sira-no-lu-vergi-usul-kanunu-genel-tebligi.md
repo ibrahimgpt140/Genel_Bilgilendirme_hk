@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 8444
+baslik: "13 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ(*)"
+tarih: 1953-03-17
+sayi: " "
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/teblig/8444
+gib_guncelleme: 2025-03-24T19:38:19
+alindi: 2026-11-23
+---
+
+# 13 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ(*)
+
+5432 numaralı Vergi Usul Kanunu mucibince yapılacak değerlemelerine esas olmak üzere, borsada rayici olmayan yabancı paraları için aynı kanunun 262 nci maddesinin ikinci fıkrası hükmüne müsteniden tesbit olunan kurlar aşağıda gösterilmiştir. Borsada rayici olmayan yabancı paralariyle bu kabil yabancı paralariyle olan senetli ve senetsiz alacak ve borçların değerlenmesinde, bu kurların uygulanmasının temini rica olunur. YILI Sıra No. D ö v i z l e r 1950 Türk L. 1951 Türk L. 1952 Türk L. 1 100 Arjantin Pezosu 20,16 19,60 20,02 2 1 Avusturalya Lirası 6,272 6,2720 6,2720 3 100 Avusturya Şilini 13,188 13,1087 13,108 4 100 Arnavut Leki 5,506 5,6026 5,6026 5 100 Brezilya Kruzeirosu (Milreis) 15,260 15,288 15,274 6 100 Bulgar Levası 0,980 0,980 41,1460 7 100 Batı Almanya Doyçe Markı 66,667 66,6552 66,6552 8 100 Belçika Kongosu Frangı _ _ _ 9 1 Cenubi Afrika Lirası 7,8435 7,8435 7,8398 10 100 Cibuti Frangı 1,308 1,3088 1,3136 11 100 Cezayir Frangı 0,80 0,80 0,80 12 100 Danimarka Kuronu 40,5440 40,5440 40,5440 13 100 Doğu Afrika Şilini 39,368 39,368 39,368 39,368 14 100 Dominik Cumhuriyeti Pezosu - _ - 15 100 Fin Markı 1,2075 1,2215 1,2215 16 100 Fransız Fası Frangı 0,80 0,80 0,80 17 100 Filipin Pezosu 139,580 139,580 139,580 18 100 Fransız Afrika Müstemlekeleri Frangı (C. F. A.) 1,60 1,60 1,60 19 100 Fransız Pasifik Müstemlekeleri Frangı (C. F. P.) 4,40 4,40 4,40 20 100 Guatemala Ketzali _ _ 280,00 21 100 Hint Rupisi 58,80 58,80 58,80 22 100 Honkong Doları 49,056 49,210 49,140 23 100 Hindi Çini Kuruşu 13,60 _ _ 24 1 Haşimi Ürdün Kırallığı Dinarı 7,84 7,84 7,8437 25 100 Habeşistan Doları _ _ 112,00 26 100 İran Riyali 8,6917 8,6917 8,6917 27 1 İsrail Lirası 7,84 7,84 _ 28 100 İsrail Lirası _ _ 274,5286 29 100 İspanyol Pezetası 25,6480 25,6480 25,648 30 100 Japon Yeni 0,778 0,778 0,778 31 1 Kıbrıs Lirası 7,84 7,84 7,84 32 100 Kanada Doları 263,212 275,10 289,275 33 100 Kolombiya Pezosu _ _ 112,00 34 100 Kosta Rika Kolonu _ _ 42,2240 35 100 Lübnan Lirası 127,2727 127,76764 86,672 36 100 Lüksemburg Frangı _ _ 5,60 37 100 Macar Forinti 24,108 24,108 24,108 38 100 Meksiko Pezosu 32,368 32,396 32,368 39 1 Mısır Lirası 8,05 8,050 8,0410 40 100 Norveç Kuronu 38,20 39,20 39,20 41 100 Nikaragua Kordobası _ _ 42,42 42 100 Panama Balboası _ _ 280,00 43 100 Pakistan Rupisi _ _ 84,98 44 100 Portoriko Doları _ _ 280,00 45 100 Rumen Leyi 1,835 1,8175 24,491 46 100 Suriye Lirası 127,2727 127,2727 83,68 47 100 Singapur Doları 92,204 _ _ 48 100 Siyam Bahtı (Tikal) 22,40 22,40 _ 49 100 Suudî Arabistan Riyali 60,828 65,4387 78,5886 50 100 Salvador Kolonu _ _ 112,00 51 100 Şili Pezosu 6,580 _ _ 52 100 Tunus Frangı 0,80 0,80 0,80 53 100 Uruguay Pezosu _ _ 103,60 54 100 Venezuella Bolivarı _ _ 84,00 55 1 Irak Dinarı 7,84 7,84 7,84 56 1 Yeni Zelanda Lirası 7,8435 7,8435 7,84 (*) Güncelliği Kalmamıştır.

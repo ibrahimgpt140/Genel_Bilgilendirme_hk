@@ -1,0 +1,26 @@
+---
+tur: Yönetmelik
+gib_id: 323
+baslik: "SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODALARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK"
+tarih: 2025-02-24
+sayi: "32823"
+kanun: "3568 SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/444/yonetmelikler/323
+gib_guncelleme: 2025-03-24T20:43:16
+alindi: 2026-11-23
+---
+
+# SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODALARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+
+MADDE 1- 21/2/1990 tarihli ve 20440 sayılı Resmî Gazete’de yayımlanan Serbest Muhasebeci Mali Müşavirler Odaları Yönetmeliğinin 38 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, aynı maddenin dördüncü fıkrasında yer alan “ve irtibat bürosu” ibaresi yürürlükten kaldırılmış, aynı fıkraya ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+“Her meslek mensubu mesleki faaliyetine başlamadan önce bağlı olduğu odanın bilgisi dahilinde işyeri açmak zorundadır. İşyeri açılış ve kapanışları en geç otuz gün içerisinde Odaya bildirilir. Meslek mensupları ve bunların kurdukları ortaklık büroları ve şirketler, hiçbir şekilde irtibat bürosu açamazlar.”
+“Şubeden sorumlu olacak ortağın, şubenin bulunduğu ilde ikamet etmesi zorunludur.”
+MADDE 2- Aynı Yönetmeliğin 39 uncu maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.
+“d) Meslek mensupları, mesleki unvanlarını kullanmak şartıyla, mesleğin konusuna giren işlerle ilgili alanlarda, ilgili kamu tüzel kişilerinden lisans ve ruhsat gibi belgeler ile iktisap ettikleri unvanlarından sadece birini de kullanabilirler. Bu şekilde unvan kullanacak meslek mensuplarının, kullanacağı unvana ilişkin işi fiilen icra ediyor olması şarttır.”
+MADDE 3- Aynı Yönetmeliğin 40 ıncı maddesi aşağıdaki şekilde değiştirilmiştir.
+“MADDE 40- Meslek mensuplarına Birlik tarafından tek tip olarak bastırılan kimlik belgesi verilir. İşyerinin başka bir oda bölgesine nakli, isim yahut soyadı değişikliği hallerinde meslek mensubuna yeni kimlik belgesi verilir ve eskisi iptal edilir. Meslekten herhangi bir suretle ayrılanlar kimlik belgelerini, iptal edilmek üzere Odaya teslim ederler.”
+MADDE 4- Aynı Yönetmeliğin 47 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddenin üçüncü fıkrası yürürlükten kaldırılmıştır.
+“Meslek mensupları ile müşterileri arasında mesleki konularda yapılacak tip sözleşmeler Birlik tarafından hazırlanır.”
+MADDE 5- Aynı Yönetmeliğin 50 nci maddesinin onuncu fıkrasında yer alan “10 günden az” ibaresi “15 günden az” olarak değiştirilmiştir.
+MADDE 6- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+MADDE 7- Bu Yönetmelik hükümlerini Serbest Muhasebeci Mali Müşavirler Odaları Yönetim Kurulları yürütür.

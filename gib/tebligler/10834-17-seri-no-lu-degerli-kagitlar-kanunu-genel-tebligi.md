@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10834
+baslik: "17 SERİ NO'LU DEĞERLİ KAĞITLAR KANUNU GENEL TEBLİĞİ"
+tarih: 1999-11-28
+sayi: "23890"
+kanun: "210 DEĞERLİ KAĞITLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/446/teblig/10834
+gib_guncelleme: 2025-03-24T20:45:38
+alindi: 2026-11-23
+---
+
+# 17 SERİ NO'LU DEĞERLİ KAĞITLAR KANUNU GENEL TEBLİĞİ
+
+Bilindiği üzere, 210 sayılı Değerli Kağıtlar Kanununun (*) 2343 sayılı Kanunla (**) değişik 1 inci maddesinde, "Bu Kanuna bağlı tabloda yazılı kağıtlar ve belgeler "değerli kağıt" sayılır. Bu Kanunun kapsamına giren veya diğer kanunlarla kapsama alınacak olan değerli kağıtların basımı, dağıtımı ve bedellerinin tahsili ile ilgili usul ve esasları ve bu kağıtların bedellerini tespite Maliye Bakanlığı yetkilidir." hükmüne yer verilmiºtir. 26.11.1999 tarih ve 4481 sayılı "17.8.1999 ve 12.11.1999 Tarihlerinde Marmara Bölgesi ve Civarında Meydana Gelen Depremin Yol Açtığı Ekonomik Kayıpları Gidermek Amacıyla Bazı Mükellefiyetler İhdası ve Bazı Vergi Kanunlarında Değişiklik Yapılması Hakkında Kanun (***)' un 12 nci maddesiyle 210 sayılı Değerli Kağıtlar Kanununa ekli tabloya banka çekleri ilave edilmiştir. Aynı madde ile sözkonusu Kanunun 3 üncü maddesinin sonuna "Çekler ilgili bankalarca bastırılır ve satılır. Satılan çeklerin (genel ve katma bütçeli idareler, il özel idareleri ve belediyelere verilen çekler hariç) değerli kağıt bedelleri, bankalarca her ayın yedinci günü akşamına kadar ilgili mal sandıklarına ödenir." hükmü eklenmiştir. Aynı Kanunun, 17 nci maddesi uyarınca 1.12.1999 tarihinden itibaren uygulamaya girecek bu hükme göre ilgili bankalarca bu tarihten itibaren müşterilere verilecek olan çeklerin her bir yaprağından 600.000 lira değerli kağıt bedeli tahsil edilecektir. Bankalar tahsil ettikleri değerli kağıt bedellerini ayrı bir hesapta izleyeceklerdir. Değerli Kağıtlar Kanunu kapsamına alınan "banka çekleri" ibaresi, bankalar tarafından hazırlanan ve kullanılmak üzere müşterilerine verilen her türlü çekleri ifade etmektedir. Ancak, bankalar tarafından genel ve katma bütçeli idarelere, il özel idarelerine ve belediyelere verilen çek yaprakları için değerli kağıt bedeli tahsil edilmeyecektir. Diğer taraftan, tahsil edilen değerli kağıt bedelleri bankalar açısından lehe kalan bir para niteliğinde olmadığından 6802 sayılı Gider Vergileri Kanunu uyarınca Banka ve Sigorta Muameleleri Vergisine tabi tutulmayacaktır. Bankalar bir ay içinde tahsil ettikleri değerli kağıt bedellerini düzenleyecekleri bir bildirim ile izleyen ayın yedinci günü akşamına kadar bulundukları yerdeki mal sandıklarına (Defterdarlık muhasebe müdürlüğüne veya malmüdürlüğüne) yatıracaklardır. Süresinde veya eksik yatırılan değerli kağıt bedelleri 6183 sayılı Amme Alacakları Tahsil Usulü Hakkında Kanun uyarınca takip ve tahsil edilecektir. Tebliğ olunur. (*) 28.02.1963 gün ve 11343 sayılı Resmi Gazete'de yayımlanmıştır. (**) 28.11.1980 gün ve 17174 sayılı Resmi Gazete'de yayımlanmıştır. (***) 26.11.1999 gün ve 23888 sayılı M³kerrer Resmi Gazete'de yayımlanmıştır.

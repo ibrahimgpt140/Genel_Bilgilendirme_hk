@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 968
+baslik: "3093 sayılı TRT Gelirleri Kanununun 4. maddesinde sayılan cihazları imal ve ithal edenlerden fabrika çıkış fiyatı veya ithal maliyeti üzerinden bir defaya mahsus olarak alınan bandrol ücreti özel tüketim vergisi matrahına dahil edilerek özel tüketim vergi"
+tarih: 2004-05-27
+sayi: "KDVK-16 /2004-16"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/sirkuler/968
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# 3093 sayılı TRT Gelirleri Kanununun 4. maddesinde sayılan cihazları imal ve ithal edenlerden fabrika çıkış fiyatı veya ithal maliyeti üzerinden bir defaya mahsus olarak alınan bandrol ücreti özel tüketim vergisi matrahına dahil edilerek özel tüketim vergi
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü KATMA DEĞER VERGİSİ SİRKÜLERİ / 16 Konusu : 3093 sayılı TRT Gelirleri Kanununun 4. maddesi hükmü gereğince tahsil edilen bandrol ücretinde esas alınacak matrah. Tarihi : 27.05.2004 Sayısı : KDVK-16 /2004-16 İlgili olduğu maddeler : Katma Değer Vergisi Kanunu madde 20/1,2 ve 24/b; Özel Tüketim Vergisi Kanunu madde 11/2 1. Giriş: Bakanlığımıza intikal eden olaylardan, 3093 sayılı TRT Gelirleri Kanununun 4. maddesi hükmü gereğince tahsil edilen bandrol ücretinde esas alınacak matrah hususunda tereddüde düşüldüğü anlaşılmakta olup, aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. 2. Teslim ve Hizmet İşlemlerinde Katma Değer Vergisi ve Özel Tüketim Vergisi Matrahı: Katma Değer Vergisi Kanununun teslim ve hizmet işlemlerinde matrahın düzenlendiği 20. maddesinin 1. fıkrasına göre teslim ve hizmet işlemlerinde matrah, bu işlemlerin karşılığını teşkil eden bedel olup; bedel deyimi aynı maddenin 2. fıkrasında malı teslim alan veya kendisine hizmet yapılan veya bunlar adına hareket edenlerden bu işlemler karşılığında her ne suretle olursa olsun alınan veya bunlarca borçlanılan para, mal ve diğer suretlerle sağlanan ve para ile temsil edilebilen menfaat, hizmet ve değerler toplamı olarak tanımlanmaktadır. Kanunun 24/b maddesi hükmü uyarınca vergi, resim, harç, pay, fon karşılığı gibi unsurların matraha dahil olması zorunludur. Öte yandan, Özel Tüketim Vergisi Kanununun 11/2 maddesine göre verginin matrahı, (IV) sayılı listedeki malların teslimi ve ithalinde hesaplanacak özel tüketim vergisi hariç katma değer vergisi matrahını oluşturan unsurlardan meydana gelmektedir. Buna göre (IV) sayılı listede sayılan ve bandrol ücretine tabi bulunan malların katma değer vergisi matrahına bandrol ücreti dahil olduğundan, bu ücretin özel tüketim vergisi matrahına da dahil edilmesi yasal zorunluluktur. 3. Sonuç 3093 sayılı TRT Gelirleri Kanununun 4. maddesinde sayılan cihazları imal ve ithal edenlerden fabrika çıkış fiyatı veya ithal maliyeti üzerinden bir defaya mahsus olarak alınan bandrol ücreti özel tüketim vergisi matrahına dahil edilerek özel tüketim vergisi hesaplanacaktır. Katma değer vergisinin ise bandrol ücreti ve özel tüketim vergisi dahil bedel üzerinden hesaplanacağı tabiidir. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

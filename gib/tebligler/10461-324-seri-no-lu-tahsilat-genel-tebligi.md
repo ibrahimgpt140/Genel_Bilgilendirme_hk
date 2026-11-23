@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10461
+baslik: "324 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)"
+tarih: 1967-11-01
+sayi: " "
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10461
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# 324 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)
+
+Bakanlığa intikal eden hadiselerden Bazı Suç ve Cezaların Affı hakkındaki Kanun tatbikatında ihtilâflı hadiselerde vergi aslının ödeme süresini tayinde tereddütler olduğu anlaşıldığından keyfiyetin tavzihine lüzum hasıl olmuştur. Bilindiği üzere; Bazı Suç ve Cezaların Affı Hakkındaki Kanunun 8 inci maddesinin 2 nci fıkrasında "ihtilâflı vergilerde tarafların malî veya idarî kaza mercilerine müracatları veya ihtilâfı devam ettirilmeleri mükelleflerin veya sorumluların ihtilâfın sonunda vergi aslının süresinde ödenmesi kaydiyle aftan istifadelerine engel olmaz" denilmek suretiyle ihtilâflı hadiselerde alâkalıların vergi aslını süresinde ödemeler i şartiyle aftan istifade edebileceklerine işaret edilmiş fakat bu sürenin ne olacağı ve nasıl tayin edileceği belirtilmemiştir. Mevzuatımızda sözü edilen fıkrada bahsedildiği şekilde tayin edilmiş bir süre de yoktur. Bu sebeple, bu süreyi Vergi Usul Kanu nu hükümlerine göre tesbit etmek icap etmektedir. Zira kanunda Vergi Usul Kanunu hükümlerinin ihmal edileceğine dair de bir sarahat yoktur. Bilindiği üzere; Vergi Usul Kanunu hükümlerine göre vergiler, İtiraz Komisyonu kararı üzerine vecibüttahsil hale gelirler. Ve İtiraz Komisyonu kararı üzerine tanzim edilen ihbarname tebliği tarihinden itibaren bir ay içerisinde ödenirler. Ancak tehiri icra kararları ile bu ödeme süreleri değişebilir. Bu vaziyet karşısında ihtilâflı hadiselerde ödeme süresinin tayinind e de Vergi Usul Kanunu hükümleri dairesinde hareket edilecektir. Ancak, gerek Vergi Usul gerekse Danıştay Kanunlarına göre alâkalıların ihtilâfın devamı esnasında malî ve idarî kaza mercilerinden tehiri icra kararı almaları veya Temyiz Komisyonundan talep ettikleri tehiri icra kararının süresi içerisinde gelmemesi halinde muayyen müddet içerisinde teminat vererek icrayı durdurmaları mümkündür. O takdirde muayyen olan ödeme mükellefiyeti kanunun mükellefe tanıdığı bir hakka müsteniden tehiri icra kararının sonuna bırakılmış olacağından, 31/12/1965 tarihinden evvelki dönemlere taallûk eden ihtilâflı hadiselerde tehiri icra kararı alındığı veya henüz tehiri icra kararı gelmediği için Vergi Usul Kanununun 400 üncü maddesi gereğince teminat gösterilmek suretiyl e icra tehir edildiği takdirde, ihtilâflı vergi aslı tehiri icra kararının kalkmasını nıüteakip 6183 sayılı Kanunun 56 ncı maddesi ile muayyen olan süre içerisinde rızaen ödendiği takdirde cezanın affa tabi tutulması uygun görülmüştür. Bilgi edinilmesi ve bundan sonraki hadiselerde yukarıda açıklandığı şekilde muamele yapılmakla beraber, bu yazının vürudundan evvel işaret edilen süre içerisinde vergi aslı ödenmiş bulunan ihtilâflı vergi cezalarının da keza affa tabi tutulması ve ayrıca kazalara da gönderil m iş bulunan bu genel yazı hükmünün sür'atle alâkalılara duyurulması rica olunur. (*) Güncelliği Kalmamıştır.

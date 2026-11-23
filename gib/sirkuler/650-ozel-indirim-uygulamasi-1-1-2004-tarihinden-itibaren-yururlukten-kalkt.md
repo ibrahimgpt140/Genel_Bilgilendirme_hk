@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 650
+baslik: "Özel indirim uygulaması 1.1.2004 tarihinden itibaren yürürlükten kalktığından, Aralık ayında peşin olarak ödenen ücretlerin vergilendirilmesinde 2003 yılı özel indirim tutarı tam olarak dikkate alınır. Öte yandan, 1.1.2004 tarihinden sonra yapılan ücret ö"
+tarih: 2003-12-12
+sayi: "GVK- 7/2003-7 / Ücret Gelirlerinde Özel İndirim"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/sirkuler/650
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# Özel indirim uygulaması 1.1.2004 tarihinden itibaren yürürlükten kalktığından, Aralık ayında peşin olarak ödenen ücretlerin vergilendirilmesinde 2003 yılı özel indirim tutarı tam olarak dikkate alınır. Öte yandan, 1.1.2004 tarihinden sonra yapılan ücret ö
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Gelir Vergisi Sirküleri/7 Konusu : Gerçek ücretlerin vergilendirilmesinde özel indirim uygulaması Tarihi : 12 /12/2003 Sayısı : GVK- 7/2003-7 / Ücret Gelirlerinde Özel İndirim İlgili olduğu maddeler : Gelir Vergisi Kanunu Madde 31,104 İlgili olduğu kazanç türleri : Ücretler 1 - Giriş Aralık/2003 ve Ocak/2004 aylarında yapılacak maaş ödemelerinde 1.1.2004 tarihinden itibaren uygulamadan kaldırılan özel indirimin ne şekilde uygulanacağına ilişkin Bakanlığımıza iletilmiş bulunan sorularla ilgili olarak yapılan açıklamalar bu sirkülerin konusunu oluşturmaktadır. 2- Gerçek Ücretlerin Vergilendirilmesinde Özel İndirim Uygulaması: 15 Aralık-14 Ocak dönemi ücretlerinin vergilendirilmesinde hangi yıla ilişkin özel indirim tutarının dikkate alınacağına ilişkin açıklama 166 Seri Nolu Gelir Vergisi Genel Tebliğinde yapılmıştır. Gelir Vergisi Kanununun 31 inci maddesinin birinci fıkrasının (1) numaralı bendinde yer alan gerçek ücretlerin vergilendirilmesinde gayrisafi ücret tutarından indirim konusu yapılan özel indirim uygulaması, anılan maddede 4842 sayılı Kanunla yapılan değişiklikle 1.1.2004 tarihinden geçerli olmak üzere yürürlükten kaldırılmıştır. Özel indirim uygulaması 1.1.2004 tarihinden itibaren yürürlükten kalktığından, Aralık ayında peşin olarak ödenen ücretlerin vergilendirilmesinde 2003 yılı özel indirim tutarı tam olarak dikkate alınır. Öte yandan, 1.1.2004 tarihinden sonra yapılan ücret ödemelerinde (nakden veya hesaben) ise bu ödeme 15 Aralık-14 Ocak dönemine ait olsa dahi özel indirim dikkate alınmayacaktır. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

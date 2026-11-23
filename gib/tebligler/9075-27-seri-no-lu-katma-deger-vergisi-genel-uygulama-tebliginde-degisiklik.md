@@ -1,0 +1,27 @@
+---
+tur: Tebliğ
+gib_id: 9075
+baslik: "27 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ"
+tarih: 2019-10-15
+sayi: "30919"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9075
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# 27 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+
+MADDE 1 – 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete'de yayımlanan Katma Değer Vergisi Genel Uygulama Tebliğinin (II/B-5.1) bölümünün altıncı paragrafında yer alan “otobüs (Belediyeler ve İl Özel İdareleri ile bunların bağlı kuruluşları ve hisselerinin tamamına sahip oldukları şirketlerce şehir içi yolcu taşımacılığında kullanılmak üzere iktisap edilecek olanlar hariç), minibüs,” ibaresi “minibüs, otobüs (Belediyeler ve İl Özel İdareleri ile bunların bağlı kuruluşları ve hisselerinin tamamına sahip oldukları şirketlerce şehir içi yolcu taşımacılığında kullanılmak üzere iktisap edilecek olan minibüs ve otobüsler hariç),” şeklinde değiştirilmiştir.
+MADDE 2 – Aynı Tebliğin (II/B-7.1.) bölümünün dördüncü paragrafından sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
+“Diğer taraftan, ulusal güvenlik kuruluşlarınca milli savunma ve iç güvenlik ihtiyaçları için kullanılan kent güvenlik ve plaka tanıma sistemleri dahil tarama, tanıma ve takip sistemleri, radar sistemleri ile istisna kapsamındaki araç, silah ve sistemlerine ilişkin araştırma-geliştirme ve test faaliyetlerine yönelik zorunlu olarak kullanılması gereken tesislerin teslimi de bu istisna kapsamında değerlendirilir.”
+MADDE 3 – Aynı Tebliğin (II/B-12.2.2.) bölümünün birinci paragrafından sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
+“Alıcılar dışındaki gerçek veya tüzel kişiler tarafından bankalar aracılığıyla satıcıların hesabına yapılan döviz transferleri;
+- Döviz transferine ilişkin banka dekontunda alıcıya ve teslime konu konut veya iş yerine ilişkin bilgilere (proje adı, adresi, bağımsız bölüm numarası) yer verilmesi veya
+- Dövizi transfer eden gerçek veya tüzel kişiler tarafından, transfere konu tutarın alıcı adına gönderildiğine dair satıcıya, alıcı ve teslime konu konut veya iş yerine ilişkin bilgileri (proje adı, adresi, bağımsız bölüm numarası) içeren bir muvafakatname verilmesi
+kaydıyla istisna uygulamasında Türkiye’ye getirilen döviz olarak kabul edilir.”
+MADDE 4 – Aynı Tebliğin (II/B-15.1.3.) bölümünün ikinci paragrafının sonuna aşağıdaki cümle eklenmiştir.
+“Mülkiyeti Türkiye Diyanet Vakfında bulunmakla birlikte, anılan Vakıf tarafından karşılıksız, süresiz ve geri dönüşsüz olarak Diyanet İşleri Başkanlığına tahsis edilen madde kapsamındaki ibadethane ve din eğitimi verilen tesislerin inşası dolayısıyla bağışta bulunan söz konusu Vakfa yapılan teslim ve hizmetler de istisna kapsamındadır.”
+MADDE 5 – Aynı Tebliğin (IV/B-3.) ve (IV/C-3.) bölümlerinde yer alan “nihai” ibareleri Tebliğ metninden çıkarılmıştır.
+MADDE 6 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 7 – Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.

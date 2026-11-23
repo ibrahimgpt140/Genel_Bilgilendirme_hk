@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 6992
+baslik: "19 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)"
+tarih: 1953-05-05
+sayi: " "
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/teblig/6992
+gib_guncelleme: 2025-03-24T19:28:17
+alindi: 2026-11-23
+---
+
+# 19 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)
+
+**İlgili maddeler:** Madde 104 Verginin Hesaplanması
+
+Bilindiği üzere, Gelir Vergisi Kanununun 91 inci maddesi hükmü, aylık, haftalık, gündelik ücret ödemelerinin vergilerinin 2, 3, 4 numaralı yıllık ücret ödemelerinin vergilerinin ise 1 numaralı cetvele göre hesaplanmasını âmirdir. Gündelik, haftalık, aylık ve yıllık gibi zaman itibariyle olmayan ücretler, hükmün sarahatı karşısında bizzarur hizmetlinin aslî istihkakının tabi olduğu cetvele ithalen vergilendirilmekte idi. Ancak; vâki itirazlar neticesinde, mâlî kaza mercileri ve Şûrayı Devletce ittihaz olunan müteaddit kararlarda, 1. Müesseselerin sene sonu kârlarından memur ve müstahdemlerine temettü veya ikramiye namı ile yaptıkları ücret ödemelerinin, 2. 1389 sayılı Kanun gereğince Hazine lehine intaç edilen davalardan ötürü tahakkuk eden vekâlet ücretleri dolayısiyle bu işde hizmeti sebkeden avukat ve diğer memurlara ödenen vekâlet ücreti hisselerinin, 3. İşten çıkma tazminatlarının (işten çıkarılanın 12 aylığını aşan vergiye tabi bulunan kısmı) . Vergisinin, 1 numaralı cetvele göre hesaplanması gerektiği içtihat edilmiş olduğundan, müstekar bir hal almış bulunan bu içtihada göre muamele ifası uygun görülmüştür. Ancak; Gelir Vergisi Kanununun 75 inci maddesinde mükelleflerin kanunun ikinci maddesinde zikredilen kaynaklardan bir takvim yılı içinde elde ettikleri kazanç ve iratların yıllık beyannamede toplanarak vergilendirilmesi esası kabul edilmiş, bunun istisnaları müteakip 71 ve 72 nci maddelerde tasrih olunmuştur. Filhakika, 71 inci maddenin a bendinde, tam mükellefiyette vergiye tabi gelir sadece ücretlerden ibaret ise, bu gelirin yıllık beyannamede toplanmıyacağı hükme bağlanmıştır. Ücretlerin 70 inci madde hükmü dışında mütalâa edilmesi, bunların vergisinin tediye sırasında alınmış olması ve vergi hesaplanırken ücretin bir yıllık tutarının gözönünde tutulmuş bulunması sebebine müstenittir. Diğer taraftan, aynı kanunun 91 inci maddesinin açık hükmü muvacehesinde, muhtelif ücret ödemesi vasfında olmayan ödemelerin topluca nazara alınacağı kabul edilmiştir. Bu bakımlardan, aynı işveren tarafından aynı hizmetin karşılığında veya hizmetlilik aktinin icabı olarak yapılan bahis mevzuu ücret ödemelerini vergilendirmede, bunların toplamının nazara alınması zaruridir. Binaenaleyh, mahiyeti yukarda izah edilen ve kaza mercilerince yıllık ücret vasfında bulundukları kabul edilen ödemelerden 1 numaralı vergi cetveline göre vergi tevkifatı yapılırken, aynı işveren tarafından aynı hizmet aktinden mütevellit olarak veya aynı hizmetin karşılığını teşkil etmek üzere başkaca bir yıllık ücret ödemesi yapılıp yapılmadığının araştırılması, bu mahiyette bir ödeme yapılmışsa bu sonuncu ödemenin evvelkilerle birleştirilerek yekûnu üzerinden 1 numaralı cetvele göre vergisinin hesaplanması ve bulunacak vergiden evvelce kesilenlerin tenzilinden sonra kalan miktarın bu sonuncu yıllık ücret ödemesinin vergisi ad ve itibar edilmesi lâzım gelir. Buna göre işlem yapılması ve malî kaza mercilerine intikal etmiş olup da henüz karara bağlanmamış bulunan ihtilâflı tediyelerin vergisinin de bu suretle hesabı rica olunur. (*) Güncelliği kalmamıştır.

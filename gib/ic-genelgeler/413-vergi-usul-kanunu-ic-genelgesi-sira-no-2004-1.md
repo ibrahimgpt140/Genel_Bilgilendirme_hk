@@ -1,0 +1,15 @@
+---
+tur: İç Genelge
+gib_id: 413
+baslik: "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 2004/1"
+tarih: 
+sayi: ""
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/icgenelge/413
+gib_guncelleme: 2025-05-27T13:17:13
+alindi: 2026-11-23
+---
+
+# VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 2004/1
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü SAYI : B.07.0.GEL.0.28/2803-5-819/ 27904 KONU : VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 2004/1 .................... VALİLİĞİNE (Defterdarlık:Gelir Müdürlüğü) Bakanlığımıza intikal eden olaylardan, icra müdürlüklerince zaman zaman defterdarlık ve vergi dairelerinden mükellefler hakkında bilgi istenildiği, istenilen bilgilerin Vergi Usul Kanununun 5 inci maddesinde yer alan mahremiyet hükümleri nedeniyle verilmesi mümkün olmadığı bildirilmesine rağmen, bazı alacaklı taraf vekilleri tarafından istenilen bilgilerin vergi mahremiyetine girmeyeceği ileri sürülerek vergi dairesi müdürlükleri hakkında Cumhuriyet Başsavcılıklarına yapılan şikayetler üzerine vergi dairesi çalışanlarının ifade vermek zorunda kalmaları karşısında durum Bakanlığımıza intikal ettirilmiştir. Bilindiği üzere 213 sayılı Vergi Usul Kanununun 5 inci maddesinin son fıkrasında "...Ayrıca, kamu görevlilerince yapılan adli ve idari soruşturmalarla ilgili olarak talep edilen bilgi ve belgeler verilebilir. Sahte ve muhteviyatı itibariyle yanıltıcı belge düzenledikleri veya kullandıkları vergi inceleme raporuyla tespit olunanların, kanunla kurulmuş mesleki kuruluşlarına ve 3568 sayılı Kanunla kurulan birlik ve meslek odalarına bildirilmesi vergi mahremiyetini ihlal sayılmaz. Bu takdirde kendilerine bilgi verilen kişi ve kurumlar da bu madde de yazılı yasaklara uymak zorundadırlar....." hükmü yer almaktadır. Söz konusu madde hükmüne göre sahte veya muhteviyatı itibariyle yanıltıcı belge düzenleyen ve kullananların maddede ismi geçen birlik ve kuruluşlara bildirilmesi ile kamu görevlilerince yapılan adli ve idari soruşturmalarla ilgili olarak talep edilecek bilgi ve belgeler verilebilir. Konuyla ilgili olarak Adalet Bakanlığı ile yapılan yazışmalar sonucunda alınan 23.02.2004 tarihli ve 04539 sayılı yazıda; icra müdürlüklerinin kamu hizmeti yaptıkları belirtildiğinden, kamu hizmeti gören bu tür gerçek ve tüzel kişilerin istedikleri bilgilerin aşağıdaki çerçevede verilmesi mümkün bulunmaktadır. Bu tür gerçek veya tüzel kişilere verilecek bilgiler; ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz gerektirmeden mükellefin tarh dosyasından temin edilebilmeli ve Vergi Usul Kanununun mahremiyet hükümlerini ihlal edecek nitelikte olmamalıdır. Buna göre hakkında bilgi istenen mükellefin vergi levhasında bulunan bilgilerle ikametgah adresi ve halen mükellef olup olmadığı gibi hususların bildirilmesi mahremiyetin ihlali anlamına gelmeyeceğinden, bu bilgilerin icra müdürlüklerine verilmesinde bir sakınca bulunmamaktadır. Öte yandan mahremiyet kapsamına giren bilgilerin verilmeyeceği de tabiidir. Bilgi edinilmesini ve gereğinin buna göre yerine getirilmesini rica ederim. Kemal UNAKITAN Maliye Bakanı

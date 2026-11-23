@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 9798
+baslik: "25 SERİ NO'LU HARÇLAR KANUNU GENEL TEBLİĞİ"
+tarih: 1994-05-11
+sayi: "21931"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/teblig/9798
+gib_guncelleme: 2025-03-24T20:27:50
+alindi: 2026-11-23
+---
+
+# 25 SERİ NO'LU HARÇLAR KANUNU GENEL TEBLİĞİ
+
+492 sayılı Harçlar Kanununun mükerrer 138 inci maddesine 4.5.1994 tarihli ve 3986 sayılı Kanunun 12 nci maddesi ile eklenen ve 7.5.1994 tarihinde yürürlüğe giren fıkrada, "Bu Kanuna bağlı tarifelerdeki 1.1.1994 tarihi itibariyle geçerli olan maktu harçlar (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil) % 100, nispi harçlar, % 20 oranında artırılmıştır. Yıllık harç kapsamında bulunan belgelere ait 1994 yılı kıst dönemine ait harçlar tahsil edilemez." hükmü yer almaktadır. Bu fıkra hükmü gereğince Kanuna bağlı tarifelerde yer alan maktu harçların (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil) % 100, nispi harçların % 20 oranında artırılmak suretiyle 7.5.1994 tarihinden itibaren uygulanacak miktar ve nispetleri Tebliğ ekindeki tarifelerde gösterilmiştir. Ekli tarifelerde yer alan ve yıllık harç kapsamında bulunan belgelerin tabi olduğu yıllık harç tutarlarının yıl içinde artırılmış olması sebebiyle, yukarıda belirtilen fıkra hükmü gereğince, söz konusu belge sahibi yıllık harç mükelleflerinden, 1994 yılı için kıst dönem harcı tahsil olunmayacaktır. Tebliğ olunur. (1) SAYILI TARİFE (Yargı Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek1.html> (2) SAYILI TARİFE (Noter Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek2.html> (3) SAYILI TARİFE (Vergi Yargısı Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek3.html> (4) SAYILI TARİFE (Tapu ve Kadastro İşlemlerinden Alınacak Harçlar) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek4.html> (5) SAYILI TARİFE (Konsolosluk Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek5.html> (6) SAYILI TARİFE (Pasaport, Vize, İkamet Tezkeresi ve Dışişleri Bakanlığı Tasdik Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek6.html> (7) SAYILI TARİFE (Gemi ve Liman Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek7.html> (8) SAYILI TARİFE (İmtiyazname, Ruhsatname ve Diploma Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek8.html> (9) SAYILI TARİFE (Trafik Harçları) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/yedek/fileadmin/mevzuatek/eski/harclarteb25ek9.html>

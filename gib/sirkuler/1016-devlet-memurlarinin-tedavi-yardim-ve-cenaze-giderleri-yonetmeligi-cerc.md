@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 1016
+baslik: "Devlet Memurlarının Tedavi Yardım ve Cenaze Giderleri Yönetmeliği çerçevesinde verilen tedavi yardım beyannamesi, aile yardım bildirimi ile Mal Bildiriminde Bulunulması Hakkında Yönetmeliği çerçevesinde verilen mal bildirimleri vb. beyanname ve bildirimle"
+tarih: 2004-08-04
+sayi: "DV-13/2004-12/ Diğer Vergi Beyannameleri Dışındaki Beyanname ve Bildirimler"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1016
+gib_guncelleme: 2025-03-24T20:17:37
+alindi: 2026-11-23
+---
+
+# Devlet Memurlarının Tedavi Yardım ve Cenaze Giderleri Yönetmeliği çerçevesinde verilen tedavi yardım beyannamesi, aile yardım bildirimi ile Mal Bildiriminde Bulunulması Hakkında Yönetmeliği çerçevesinde verilen mal bildirimleri vb. beyanname ve bildirimle
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Damga Vergisi Sirküleri/13 Konusu : Diğer Vergi Beyannameleri Dışındaki Beyanname ve Bildirimler Tarihi : 04 Ağustos 2004 Sayısı : DV-13/2004-12/ Diğer Vergi Beyannameleri Dışındaki Beyanname ve Bildirimler İlgili olduğu maddeler : 488 sayılı Kanuna ekli (1) sayılı tablonun "IV.Makbuzlar ve diğer kağıtlar" başlıklı bölümünün; (2) numaralı fıkrasının (b) bendinin (5) numaralı alt bendi. 1 - Giriş Devlet Memurlarının Tedavi Yardım ve Cenaze Giderleri Yönetmeliği çerçevesinde verilen tedavi yardım beyannamesi, aile yardım bildirimi ile Mal Bildiriminde Bulunulması Hakkında Yönetmeliği çerçevesinde verilen mal bildirimleri vb. beyanname ve bildirimlerden damga vergisi alınıp alınmayacağı hususu bu sirkülerin konusunu oluşturmaktadır. 2-Yasal Düzenleme Bilindiği üzere, 31.07.2004 gün ve 25539 sayılı Resmi Gazete'de yayımlanan Bazı Kanunlarda ve 178 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanunun 59 uncu maddesinin (4) fıkrasının (e) bendi ile 488 sayılı Damga Vergisi Kanuna ekli (1) sayılı tablosunun "Makbuzlar ve diğer kağıtlar" başlıklı bölümünün (2) numaralı fıkrasının (b) bendinin (5) numaralı alt bendinde yer alan "Diğerleri" ibaresi "Diğer vergi beyannameleri" şeklinde değiştirilmiştir. 3- Diğer Vergi Beyannameleri Dışındaki Beyanname ve Bildirimlerden Damga Vergisi Alınıp Alınmayacağı Yasal düzenleme kısmında belirtilen Kanun değişikliği ile resmi dairelere verilen vergi beyannamelerinin vergilendirilmesi amaçlandığından, Devlet Memurlarının Tedavi Yardım ve Cenaze Giderleri Yönetmeliği gereğince tedavi yardımı beyannamesi ve aile yardımı bildirimi vermek zorunda olanlar, Mal Bildiriminde Bulunulması Hakkında Yönetmeliği çerçevesinde mal bildiriminde bulunmak zorunda olanlar ile vb. vergi yükümlülüğü dışında beyanname ve bildirim vermek zorunda olanlar tarafından düzenlenen ve 488 sayılı Kanuna ekli (1) sayılı tablonun "IV _ Makbuzlar ve diğer kağıtlar" başlıklı bölümünün (2) numaralı fıkrasının (b) bendinin 5. Diğerleri fıkrasına göre vergilendirilen söz konusu kağıtların, 488 sayılı Kanuna ekli (1) sayılı tabloda yer almaması şartıyla "Diğer vergi beyannameleri" kapsamında değerlendirilmemesi ve 31.07.2004 tarihinden itibaren damga vergisine tabi tutulmaması gerekmektedir. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

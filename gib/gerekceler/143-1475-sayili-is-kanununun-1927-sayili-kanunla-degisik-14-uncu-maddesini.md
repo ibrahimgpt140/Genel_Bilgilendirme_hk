@@ -1,0 +1,17 @@
+---
+tur: Kanun Gerekçesi
+gib_id: 143
+baslik: "1475 SAYILI İŞ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 14 ÜNCÜ MADDESİNİN DEĞİŞTİRİLMESİ 98 İNCİ MADDESİNE BİR FIKRA EKLENMESİ 193 SAYILI GELİR VERGİSİ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 25 İNCİ MADDESİNİN 7 İNCİ FIKRASI"
+tarih: 
+sayi: ""
+kanun: "2320 1475 SAYILI İŞ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 14 NCÜ MADDESİNİN DEĞİŞTİRİLMESİ, 98 NCİ MADDESİNE BİR FIKRA EKLENMESİ; 193 SAYILI GELİR VERGİSİ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 25 NCİ MADDESİNİN 7 NCİ FIKRASININ DEĞİŞTİRİLMESİ VE 4/7/1975 TARİHLİ 1927 SAYILI KANUNUN 6 NCI MADDESİNİN YÜRÜRLÜKTEN KALDIRILMASINA DAİR KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/575/gerekce/143
+gib_guncelleme: 2025-05-29T11:54:31
+alindi: 2026-11-23
+---
+
+# 1475 SAYILI İŞ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 14 ÜNCÜ MADDESİNİN DEĞİŞTİRİLMESİ 98 İNCİ MADDESİNE BİR FIKRA EKLENMESİ 193 SAYILI GELİR VERGİSİ KANUNUNUN 1927 SAYILI KANUNLA DEĞİŞİK 25 İNCİ MADDESİNİN 7 İNCİ FIKRASI
+
+**Ekler:** <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/2320_sayili_kanun_gerekce.pdf>
+
+Buraya <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_GEREKCE/2025/2320_sayili_kanun_gerekce.pdf> tıklayarak gerekçeyi indirebilirsiniz.

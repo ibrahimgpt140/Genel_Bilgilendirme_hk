@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10406
+baslik: "379 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)"
+tarih: 1993-01-13
+sayi: "21464"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10406
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# 379 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ(*)
+
+Bilindiği üzere, 5682 sayılı Pasaport Kanununun 7 ve 22 nci maddeleri gereğince vergi borçları nedeniyle yurt dışına çıkmaları mahzurlu görülenler hakkında yapılacak işlemler 346, 353, 365 ve 368 Seri No.lu Tahsilat Genel Tebliğleri ile açıklanmıştı. Ancak, Bakanlığımıza intikal eden olaylardan; vergi borcu nedeniyle yurt dışına çıkma yasağı konulmasına ilişkin işlemlerde bazı aksamalar olduğu anlaşılmıştır. Bu nedenle; uygulamanın aşağıda belirtilen şekilde yürütülmesi uygun görülmüştür. 1. Mükelleflerin yurt dışına çıkmasını engelleyen vergi borcu miktarı 1.000.000.-liradan 50.000.000.-liraya çıkarılmıştır. Buna göre, geçici olarak yurt dışına çıkmak isteyen mükelleflerden vergi borcu miktarı 50.000.000.-liradan az olanların isimlerinin Emniyet Makamlarına intikal ettirilmemesi, Vergi borcu 50.000.000.-liradan az olan mükelleflerin geçici olarak yurt dışına çıkmalarına mani olunmak üzere bu Tebliğin yayımı tarihinden önce Emniyet Makamlarına tebligat yapılmış olunması halinde ise bu tebligatın derhal geri alınması, gerekmektedir. 2. Vergi borcu 50.000.000.-lira ve daha fazla olduğu için yurt dışına çıkmaları sakıncalı görülen mükelleflerin bu borçlarını karşılayacak miktarda 6183 sayılı Kanun hükümlerine göre teminat göstermeleri halinde yurt dışına çıkmalarına izin verilmesi ve bu durumun derhal ilgili Emniyet Makamlarına bildirilmesi gerekmektedir. 3. Yurt dışına çıkma yasağı konulmasındaki amacın kamu alacağının tahsilini güvence altına almak olduğu gözönünde bulundurularak Emniyet Makamlarına verilecek bilgilerde; borçlunun adı, soyadı, baba ve ana adı, doğum tarihi, iş ve ikametgah yerleri, vergi borcunun mahiyeti ve miktarı, yılı, nev'i ve vadesinin eksiksiz olarak bildirilmesi zorun ludur. Bu bilgilerden herhangi birinin eksik olması halinde, Emniyet Makamlarınca tahdit konulmayarak eksik bilgiler tamamlatılmak üzere evrakın derhal ilgili defterdarlığa iade edilmesi gerekmektedir. 4. Yurt dışına çıkmalarına mani olunan kişilere keyfiyet ayrı bir yazı ile bildirilerek borçlarının mahiyeti, yılı, miktarı ve vadesi ile ne şekilde tasfiye olunabileceği, çıkış tahdidinin kaldırılabilmesi için ne gibi işlemler yapılması gerektiği açıkça belirtilecek ve bu şekilde amme alacağının daha çabuk t ahsil edilmesine çalışılacaktır. 5. Yurt dışına çıkmaları yasaklanan mükelleflerin borçları dikkatle takip edilerek, borcun ödenmesi, terkini, teminat altına alınması, tahsil zamanaşımına uğraması gibi tahdit konulmasını gerektiren nedenlerin ortadan kalkması halinde durum derhal ilgili Emniyet Makamlarına bildirilerek mükelleflerin mağdur duruma düşmelerinin önlenmesi gerekmektedir. Tebliğ olunur. (*) 395 Seri No.lu Tebliğ ile kaldırılmıştır.

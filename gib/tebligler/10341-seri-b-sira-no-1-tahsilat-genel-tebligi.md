@@ -1,0 +1,32 @@
+---
+tur: Tebliğ
+gib_id: 10341
+baslik: "SERİ: B SIRA NO :1 TAHSİLAT GENEL TEBLİĞİ(*)"
+tarih: 2008-03-25
+sayi: "26827"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10341
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# SERİ: B SIRA NO :1 TAHSİLAT GENEL TEBLİĞİ(*)
+
+**İlgili maddeler:** Madde 12 Teminat hükmünde olan eşya:; Madde 37 Ödeme zamanı ve önce ödeme:
+
+1) Kapsam:
+Bu Tebliğde, Devlet Su İşleri Genel Müdürlüğü tarafından tahakkuk ettirilen ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip edilmesi gereken alacakların takip ve tahsiline ilişkin açıklamalar yer almaktadır.
+2) Devlet Su İşleri Genel Müdürlüğünün Hukuki Yapısı:
+Devlet Su İşleri Genel Müdürlüğü (DSİ) 28.02.1954 tarihinde yürürlüğe giren 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanunun 1 inci maddesiyle kamu tüzel kişiliğini haiz mülhak (katma) bütçeli bir kamu idaresi olarak kurulmuştur.
+24.12.2003 tarihli ve 25326 sayılı Resmî Gazete'de yayımlanan ve bir bütün olarak 01.01.2006 tarihinde yürürlüğe giren 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 12 nci maddesinde, genel yönetim kapsamındaki idarelerin bütçelerinin merkezî yönetim bütçesi, sosyal güvenlik kurumları bütçeleri ve mahallî idareler bütçeleri olarak ayrıldığı, merkezî yönetim bütçesinin, Kanuna ekli (I), (II) ve (III) sayılı cetvellerde yer alan kamu idarelerinin bütçelerinden oluştuğu ve genel bütçenin, Devlet tüzel kişiliğini oluşturan ve DSİ'nin de sayıldığı Kanuna ekli (I) sayılı cetvelde yer alan kamu idarelerinin bütçesi olduğu hüküm altına alınmıştır.
+Bu itibarla, 5018 sayılı Kanuna ekli (I) sayılı cetvelde yer alan DSİ, 6200 sayılı Kanunun yürürlüğe girdiği 28.02.1954 tarihinden 5018 sayılı Kanunun bir bütün olarak yürürlüğe girdiği 01.01.2006 tarihine kadar geçen sürede kamu tüzel kişiliğini haiz mülhak (katma) bütçeli bir kamu idaresi iken, 5018 sayılı Kanunla Devlet tüzel kişiliğine dahil genel bütçe kapsamında bir kamu idaresine dönüşmüştür.
+3) Devlet Su İşleri Genel Müdürlüğünce Tahakkuk Ettirilen Alacakların Takibi:
+6200 sayılı Kanunun 32 nci maddesinde yer alan "Tahakkuk eden borçlar, Bayındırlık Vekaletince tesbit olunan taksit ve müddetler içerisinde ödenir. Müddeti içerisinde ödemiyenlerden bu meblağ Umum Müdürlük teşkilatı tarafından % 10 fazlasiyle ve Amme Alacaklarının Tahsil Usulü Hakkındaki Kanun hükümlerine tevfikan tahsil olunur." hükmüne istinaden 01.01.2006 tarihine kadar DSİ, alacaklarını 6183 sayılı Kanun hükümlerine göre kendi teşkilatı aracılığıyla takip ve tahsil etmiştir.
+5018 sayılı Kanunun "Gelirlerin dayanakları" başlıklı 37 nci maddesinin ikinci fıkrasında, "Genel yönetim kapsamındaki kamu idarelerinin gelirlerinin kanuni dayanakları bütçelerinde gösterilir. Bütçelerde yer alan gelirler, ilgili kanunlarında belirtilen usullere göre tarh, tahakkuk ve tahsil edilir. Genel bütçe gelirlerinin tarh, tahakkuk ve tahsili Maliye Bakanlığı veya tarh ve tahakkuka ilgili mevzuatına göre yetkili idareler tarafından yapılır." hükmü yer almaktadır.
+Buna göre, 5018 sayılı Kanunun bütün olarak yürürlüğe girdiği tarihten itibaren, gerek 6200 gerekse diğer Kanunlar ile DSİ tarafından tarh ve tahakkuk ettirilen ve 6183 sayılı Kanuna göre takip edilmesi gereken alacakların takip ve tahsilinin Bakanlığımıza bağlı vergi dairelerince yapılması ve genel bütçeye gelir kaydedilmesi gerekmektedir.
+4) Diğer Hususlar:
+DSİ tarafından tahakkuk ettirilen ve ertesi yıllarda ödenmesi gereken "Sulama ve Kurutma Tesisleri İşletme ve Bakım Ücretleri" ile "Yatırım Bedeli Taksiti" olarak ödenecek tutarlar, 6200 sayılı Kanunun 32 nci maddesinde yer alan "Tahakkuk eden borçlar, Bayındırlık Vekaletince tesbit olunan taksit ve müddetler içerisinde ödenir..." hükme istinaden, 2008 yılından başlamak üzere her yılın 01-30 Nisan tarihleri arasında vergi dairelerine ödenmesi gerekmektedir. Süresinde ödenmeyen bu tutarlara 6200 sayılı Kanunun 32 nci maddesi gereğince ödeme tarihine kadar geçen süre için yalnızca %10 oranında gecikme zammı uygulanacaktır.
+DSİ teşkilatınca tahsil edilememiş alacaklar vergi dairelerince devralınarak 6183 sayılı Kanun hükümlerine göre takip ve tahsil edilecektir. Alacakların takibine ilişkin olarak DSİ teşkilatı tarafından yürütülmüş olan işlemler geçerli olup vergi daireleri yapılan bu işlemlere devam edecektir. Alacakların devrine ilişkin işlemler Bakanlığımız ile DSİ tarafından müştereken belirlenecektir.
+Tebliğ olunur.
+
+(*) SERİ : B SIRA NO : 6 Tahsilat Genel Tebliği ile yürürlükten kaldırılmıştır; Yürürlük:30.12.2011.

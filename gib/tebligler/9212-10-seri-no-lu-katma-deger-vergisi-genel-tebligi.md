@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9212
+baslik: "10 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ"
+tarih: 1985-01-09
+sayi: "18630"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/teblig/9212
+gib_guncelleme: 2025-03-24T19:53:54
+alindi: 2026-11-23
+---
+
+# 10 SERİ NO'LU KATMA DEĞER VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 15
+
+3065 sayılı Katma Değer Vergisi Kanununun 15. maddesi ile, "Karşılıklı olmak kaydıyla, yabancı devletlerin Türkiye'deki diplomatik temsilciliklerine, konsolosluklarına ve bunların diplomatik haklara sahip mensuplarına ve uluslararası anlaşmalar gereğince vergi muafiyeti tanınan uluslararası kuruluşlara ve bunların mensuplarına yapılan teslim ve hizmetler" katma değer vergisinden istisna edilmiş ve maddenin vergiyi yetkiye istinaden 8.12.1984 tarih ve 18599 Sayılı Resmi Gazete'de yayımlanan 6 Seri No.lu Katma Değer Vergisi Genel Tebliğinde, diplomatik istisna uygulamasının usul ve esasları Bakanlığımızca tespit edilmiş bulunmaktadır. A _ Kanunun 15. maddesinin verdiği yetki gereğince, Türkiye'nin temsilcilik, konsolosluk ve diplomatik haklara sahip mensuplarına katma değer veya benzeri vergilerde muafiyet tanımadığı veya istisna uygulamadığı tespit edilen aşağıdaki devletlerin Türkiye'deki diplomatik temsilcilikleri, konsoloslukları ve diplomatik haklara sahip mensupları bu istisnadan faydalanamayacaklardır. 1. Avustralya 11. İtalya 2. Endonezya 12. Japonya 3. Fas 13 Küba 4. Finlandiya 14. Meksika 5. Fransa 15. Romanya 6. Güney Kore 16. Senegal 7. Hindistan 17. Sudan 8. İngiltere 18. Şili 9. İspanya 19. Tunus 10. İsviçre 20. Arjantin 21. Cezayir Ancak, yukarıda belirtilen devletlerin, Dışişleri Bakanlığına başvurup, Türkiye'nin kendi devletlerinde bulunan diplomatik temsilciliklerine, konsolosluklarına ve bunların diplomatik haklara sahip mensuplarına katma değer vergisinde veya benzeri vergilerde muafiyet tanıyabileceklerini veya istisna uygulayabileceklerini belirtmeleri halinde, sözkonusu devletler de daha sonra yayımlanacak genel tebliğlerle diplomatik istisna kapsamına alınabileceklerdir.(*) B _ Diğer taraftan, Katma Değer Vergisi Kanununun istisnaların sınırına ilişkin 19. maddesinin 2. fıkrası uluslararası anlaşma hükümleriyle tanınmış olan istisna ve muaflıkların bu Kanun hükümleriyle sınırlı olmaksızın uygulanacağı hükmünü amir bulunmaktadır. Bu nedenle uluslararası anlaşmalar gereğince vergi muafiyeti tanınan veya istisna uygulanan kuruluşlara bu kuruluşların resmi ihtiyaçlarını karşılamak amacıyla yapılan teslim ve hizmetlerde katma değer vergisi istisnasının uygulanmasında 6 Seri No.lu Katma Deger Vergisi Genel Tebliğinde yer alan sınırlamalar ve usuller uygulanmayacaktır. Katma değer vergisi istisnasından yararlanmak isteyen uluslararası kuruluşlar, işlemi yapacak müesseseden, resmi ihtiyaçlarında kullanacakları mal ve hizmetlere katma değer vergisinin uygulanmamasını bir yazı ile talep edeceklerdir. Bu başvuruda, ilgili uluslararası anlaşmaya atıfta bulunmak suretiyle kuruluşlarının vergi muafiyetinden yararlandığı kaydedilecek, ayrıca resmi ihtiyaçları için talep ettikleri mal ve hizmetleri açıkça belirteceklerdir. Sözkonusu yazıya istinaden mal teslim eden veya hizmet yapan kuruluşlar, faturalarında katma değer vergisini ayrıca göstermeyecekler, ancak bu kuruluş tarafından kendilerine gönderilen yazıyı muhafaza edecekler ve bir inceleme talebinde ibraz edeceklerdir. Tebliğ olunur. (*) Yürürlükten Kaldırılmıştır.

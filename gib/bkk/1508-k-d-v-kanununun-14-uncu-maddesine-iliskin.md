@@ -1,0 +1,34 @@
+---
+tur: Bakanlar Kurulu Kararı
+gib_id: 1508
+baslik: "K.D.V. KANUNUNUN 14 ÜNCÜ MADDESİNE İLİŞKİN"
+tarih: 2006-12-30
+sayi: "2006/11453"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/bkk/1508
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# K.D.V. KANUNUNUN 14 ÜNCÜ MADDESİNE İLİŞKİN
+
+**İlgili maddeler:** Madde 14 Transit Taşımacılık
+
+Karar Sayısı : 2006/11453
+Ekli “İhraç Malı Taşıyan Araçlara Motorin Tesliminde Özel Tüketim Vergisi ve Katma Değer Vergisi İstisnası Uygulanacak Sınır Kapılarına İlişkin Kararda Değişiklik Yapılmasına Dair Karar”ın yürürlüğe konulması; Maliye Bakanlığının 11/12/2006 tarihli ve 96954 sayılı yazısı üzerine, 4760 sayılı Özel Tüketim Vergisi Kanunu’nun 7/A maddesi ile 3065 sayılı Katma Değer Vergisi Kanunu’nun 14 üncü maddesinin (3) numaralı fıkrasına göre, Bakanlar Kurulu’nca 15/12/2006 tarihinde kararlaştırılmıştır.
+İHRAÇ MALI TAŞIYAN ARAÇLARA MOTORİN TESLİMİNDE ÖZEL TÜKETİM VERGİSİ VE KATMA DEĞER VERGİSİ İSTİSNASI UYGULANACAK SINIR KAPILARINA İLİŞKİN KARARDA DEĞİŞİKLİK
+YAPILMASINA DAİR KARAR
+
+MADDE 1 – 26/6/2006 tarihli ve 2006/10784 sayılı Kararnamenin eki İhraç Malı Taşıyan Araçlara Motorin Tesliminde Özel Tüketim Vergisi ve Katma Değer Vergisi İstisnası Uygulanacak Sınır Kapılarına İlişkin Karar’ın 1 inci maddesine, “Ambarlı” ibaresinden sonra gelmek üzere “Çanakkale Kepez” ibaresi eklenmiştir.
+
+MADDE 2 –Bu Karar yayımını izleyen gün yürürlüğe girer.
+
+MADDE 3 –Bu Karar hükümlerini Maliye Bakanı yürütür.
+
+Bakanlar Kurulu Kararının Yayımlandığı Resmî Gazete’nin
+Tarihi | Sayısı
+4/8/2006 | 26249
+
+Bakanlar Kurulu Kararında Değişiklik Yapan Kararnamenin Yayımlandığı Resmî Gazete’nin
+Tarihi | Sayısı
+16/11/2006 | 26348

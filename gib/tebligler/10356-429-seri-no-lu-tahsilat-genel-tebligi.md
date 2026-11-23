@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 10356
+baslik: "429 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ"
+tarih: 2003-11-12
+sayi: "25287"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/teblig/10356
+gib_guncelleme: 2025-03-24T20:40:00
+alindi: 2026-11-23
+---
+
+# 429 SERİ NO'LU TAHSİLAT GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 48/A:; Madde 51 Gecikme Zammı, Nispet ve Hesabı:
+
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendirilen amme alacaklarına uygulanacak yıllık tecil faizi oranı ile aynı Kanunun 51 inci maddesi uyarınca ödeme müddeti içerisinde ödenmeyen amme alacaklarına vadenin bitim tarihinden itibaren uygulanacak aylık gecikme zammı nispetinin belirlenmesine ilişkin olarak aşağıdaki açıklamaların yapılması uygun görülmüştür. I- TECİL FAİZİ ORANI 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesi ile Bakanlığımıza tanınan yetkiye istinaden, halen yıllık %60 olarak uygulanmakta olan tecil faizi oranı bu Tebliğin yayımı tarihinden itibaren yıllık %36 olarak belirlenmiştir. Bundan böyle, 6183 sayılı Kanunun 48 inci maddesine istinaden bu Tebliğin yayımı tarihinden itibaren yapılacak müracaatlara dayanılarak tecil edilen amme alacaklarına yıllık % 36 oranında tecil faizi uygulanacaktır. Bu Tebliğin yayımı tarihinden önceki müracaatlara dayanılarak tecil edilecek olan amme alacaklarına müracaat tarihlerinden bu Tebliğin yayımı tarihine kadar geçen süre için geçerli olan oranlar, bu Tebliğin yayımı tarihinden sonra da %36 oranında tecil faizi uygulanması gerekmektedir. Aynı şekilde, bu Tebliğin yayımı tarihinden önce tecil edilmiş ve tecil şartlarına uygun olarak ödenmekte olan amme alacaklarının bu Tebliğin yayımı tarihinden sonra ödenmesi gereken taksit miktarlarına; bu Tebliğin yayımı tarihine kadar geçen süre için geçerli olan oranlar, bu Tebliğin yayımı tarihinden sonra da %36 oranında tecil faizi uygulanacaktır. Tecilin gerçekleşmesi üzerine borcu tecil edilen mükelleflere yapılacak bildirimde; faiz oranının belirlendiği kısmın altı çizilmek suretiyle hangi oranda tecil faizi ödeneceğine dair gerekli uyarı yapılacaktır. II- GECİKME ZAMMI NİSPETİ 6 183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinin dördüncü fıkrasının Bakanlar Kuruluna verdiği yetkiye istinaden 31/01/2002 tarih ve 24657 sayılı Resmi Gazete'de yayımlanan 28/01/2002 tarih ve 2002/3550 sayılı Bakanlar Kurulu Kararı uyarınca 31/01/2002 tarihinden geçerli olmak üzere amme alacağının ödeme müddeti içinde ödenmeyen kısmına vadenin bitim tarihinden itibaren her ay için ayrı ayrı %7 nispetinde gecikme zammı uygulanmaktaydı. Anılan maddenin Bakanlar Kuruluna verdiği yetkiye istinaden 12/11/2003 tarih ve 25287 sayılı Resmi Gazete'de yayımlanan 03/11/2003 tarih ve 2003/6345 sayılı Bakanlar Kurulu Kararı ile amme alacağının ödeme müddeti içinde ödenmeyen kısmına vadenin bitim tarihinden itibaren her ay için ayrı ayrı %4 nispetinde gecikme zammı uygulanması kararlaştırılmış ve belirtilen Karar 12/11/2003 tarihinden itibaren yürürlüğe girmiş bulunmaktadır. Buna göre, 12/11/2003 tarihinden önce vadesi geldiği halde bu tarihe kadar ödenmemiş olan amme alacaklarının bu tarihten itibaren ödenecek kısımlarına ve 12/11/2003 tarihinden itibaren vadesi geldiği halde vadelerinde ödenmeyen amme alacaklarına yukarıda belirtilen nispetlerde ve 381 Seri No'lu Tahsilat Genel Tebliğinde yer alan esaslar doğrultusunda gecikme zammı uygulanacaktır. Tebliğ olunur.

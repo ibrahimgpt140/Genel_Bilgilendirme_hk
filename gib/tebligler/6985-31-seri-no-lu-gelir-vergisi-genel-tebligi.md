@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 6985
+baslik: "31 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)"
+tarih: 1956-05-21
+sayi: " "
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/teblig/6985
+gib_guncelleme: 2025-03-24T19:28:17
+alindi: 2026-11-23
+---
+
+# 31 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)
+
+Vaki haberleşmelerden; Gelir Vergisi Kanununun 98 inci maddesi gereğince, haklarında ortalama kâr haddi tatbik olunan mükellefler için resen takdir komisyonundan istihsal olunan kararlara istinaden ikmalen tarh edilen gelir vergisine ceza uygulanmakta olduğu anlaşılmaktadır. Bilindiği üzere; Gelir Vergisi Kanununun 98 inci maddesinde; yapılan vergi incelemelerinde perakende ticaret erbabı ile otel, bar, gazino, lokanta, kahvehane, kır bahçesi, plâj ve emsali eğlence ve istirahat yerleri işletenlerin beyannamelerinde gösterdikleri gayrî safî kazançlar Vergi Usul Kanununa göre tesbit edilen ortalama kâr hadlerine nazaran açık bir surette düşük bulunduğu takdirde, beyan edilen bu kazançların yerine yine Usul Kanununa göre teşkil olunacak takdir komisyonunca tesbit edilecek kazançların alınacağı ve komisyonca kazanç takdiri yoluna gidilebilmesi için düşüklüğün mükellef tarafından haklı sebeplerle izah olunamaması ve düşüklük sebeplerinin inceleme ile meydana çıkarılmamış bulunmasının şart olduğu hükme bağlanmıştır. Diğer taraftan, Vergi Usul Kanununun 321 inci maddesinde, vergi ziyaının, mükellefin vergilendirme ile ilgili ödevlerini zamanında yerine getirmemesi veya eksik yerine getirmesi yüzünden, verginin zamanında tahakkuk ettirilmemesi veya eksik tahakkuk ettirilmesini ifade edeceği belirtilmiş ve aynı kanunun 6094 sayılı kanunla muaddel 324 üncü maddesinin 2 nci fıkrasının bir numaralı bendinde "Bir vergilendirme dönemi içinde toplamı 5000 liradan az olmamak üzere beyannamede yazılı vergi matrahının % 10 unu geçen bir miktarın noksan veya yanlış bildirilmesi; (beyanname dışında ayrıca bir tetkike ihtiyaç göstermeksizin beyannamede yazılı malumata istinaden vergi dairesince tesbiti mümkün olan noksan veya yanlış bildirmeler bu hükümden müstesnadır.) Verilen beyannamelerde hiç beyanda bulunulmaması veya 30 uncu maddenin 2 veya 3 numaralı bentlerinde yazılı sebeplerle resen takdir olunan ve yukarda yazılı hadleri aşan matrah veya matrah farkları da noksan beyan hükmündedir." denilmiştir. Gelir Vergisi Kanununun 98 inci maddesinde derpiş olunan şartların mevcudiyeti sebebiyle kazançların resen takdir komisyonlarınca tesbiti cihetine gidilmesi halinde takdir işlemi. Vergi Usul Kanununun 30 uncu maddesinin 2 ve 3 numaralı fıkralarında gösterilen sebeplere istinat etmemesine ve bulunan matrah farkları da mükellefin vergilendirme ile alâkalı ödevlerini zamanında yerine getirmemesinden veya eksik yerine getirmesinden mütevellit bulunmamasına binaen, bu kabil ahvalde takdir komisyonlarınca tesbit edilmiş olan matrah farkları üzerinden ikmalen tarh edilen vergiler dolayısiyle mükellefler adına vergi ziyaı sebebiyle, ceza (kusur ve kaçakçılık cezası) kesilmesi mümkün değildir. Bilgi edinilmesi ve gereğinin bu esaslara göre ifası rica olunur. (*) Güncelliği kalmamıştır.

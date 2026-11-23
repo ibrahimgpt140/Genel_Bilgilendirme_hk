@@ -1,0 +1,32 @@
+---
+tur: Tebliğ
+gib_id: 6726
+baslik: "262 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ"
+tarih: 2007-03-06
+sayi: "26454"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/teblig/6726
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# 262 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Mükerrer Madde 120 Geçici Vergi; Madde 121 Vergi Tevkifatının Mahsubu
+
+Katma değer vergisi iade alacağının geçici vergiye mahsup edilmesi ile söz konusu geçici verginin yıllık gelir/kurumlar vergisine mahsubundan sonra kalan tutarın nakden veya mahsuben iadesine ilişkin açıklamalar bu Tebliğin konusunu oluşturmaktadır.
+1. Geçici Verginin Mahsubu ve İadesi
+1.1. Yasal Düzenleme
+Gelir Vergisi Kanununun mükerrer 120 nci maddesinde; üçer aylık dönemler halinde tahakkuk ettirilerek tahsil edilen geçici verginin, yıllık beyanname üzerinden hesaplanan gelir vergisinden mahsup edileceği, mahsup edilemeyen tutarın mükellefin diğer vergi borçlarına mahsup edileceği, bu mahsuplara rağmen kalan geçici vergi tutarının da o yılın sonuna kadar yazılı olarak talep edilmesi halinde mükellefe red ve iade edileceği belirtilmiştir. Bu esaslar kurumlar vergisi mükellefleri açısından da geçerlidir.
+1.2. Beyanname Üzerinden Hesaplanan Vergiye Mahsup ve İade
+Yıllık beyanname üzerinden hesaplanan gelir veya kurumlar vergisinden ilgili hesap dönemine ilişkin geçici vergi dönemlerinde ödenen geçici vergi mahsup edilmektedir.
+Mahsup işleminin yapılabilmesi için, tahakkuk ettirilmiş geçici verginin ödenmiş olması gerekmektedir. Ödenen geçici vergi tutarının, geçici verginin ilgili olduğu döneme ilişkin olarak verilen yıllık beyanname üzerinden hesaplanan gelir veya kurumlar vergisinden fazla olması halinde, mahsup edilemeyen tutar mükellefin diğer vergi borçlarına mahsup edilmektedir.
+Geçici verginin gerek mahsuben gerekse nakden iadesinde herhangi bir tutar sınırlaması olmadığı gibi geçici vergiye ilişkin iade taleplerinde teminat ve inceleme raporu da aranmamaktadır.
+Diğer taraftan, geçici vergi dönemleri itibarıyla tahakkuk ettirilmiş, ancak ödenmemiş bulunan geçici verginin yıllık beyanname üzerinden hesaplanan gelir veya kurumlar vergisinden mahsup edilmesi mümkün değildir.
+Konuya ilişkin ayrıntılı açıklamalar 252 Seri No.lu Gelir Vergisi Genel Tebliğinde(1) yapılmıştır.
+2. Katma Değer Vergisine İlişkin Mahsup ve İade
+Katma Değer Vergisi iade uygulamasının usul ve esasları, iade hakkı doğuran işlemin türüne göre ilgili KDV Genel Tebliğlerinde düzenlenmiştir. Katma değer vergisi alacakları mükelleflerin isteğine bağlı olarak nakden veya mahsuben iade edilebilmektedir. Genel Tebliğlerde yapılan düzenlemelere göre nakden veya mahsuben iade uygulamaları farklı usul ve esaslara bağlanmıştır.
+3. Katma Değer Vergisi İade Alacağının Geçici Vergiye Mahsubu
+Katma değer vergisi iade alacağının geçici vergi borçlarına mahsup edilmesi ve mahsup yoluyla ödenmiş bu geçici verginin de yıllık gelir/kurumlar vergisi beyannamesi üzerinden hesaplanan gelir/kurumlar vergisine mahsubundan sonra kalan tutarın nakden iadesinin talep edilmesi durumunda, söz konusu iade taleplerinin asıl kaynağının katma değer vergisi alacağı olması nedeniyle bu tür iade talepleri, nakden iade şartları ile iade usul ve esaslarının belirlendiği Katma Değer Vergisi Genel Tebliğleri çerçevesinde yerine getirilecektir.
+Tebliğ olunur.
+(1) 06/04/2004 tarihli ve 25425 sayılı Resmi Gazete'de yayımlanmıştır.

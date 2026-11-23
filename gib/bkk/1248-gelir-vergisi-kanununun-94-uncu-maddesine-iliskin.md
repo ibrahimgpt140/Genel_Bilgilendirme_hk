@@ -1,0 +1,17 @@
+---
+tur: Bakanlar Kurulu Kararı
+gib_id: 1248
+baslik: "GELİR VERGİSİ KANUNUNUN 94 ÜNCÜ MADDESİNE İLİŞKİN"
+tarih: 2001-08-17
+sayi: "2001/2847 "
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/bkk/1248
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# GELİR VERGİSİ KANUNUNUN 94 ÜNCÜ MADDESİNE İLİŞKİN
+
+**İlgili maddeler:** Madde 94 Vergi Tevkifatı
+
+Karar Sayısı: 2001/2847 193 sayılı Gelir Vergisi Kanunu'nun değişik 94'üncü maddesi nde yer alan tevkifat nispetleri hakkında 30/12/1993 tarihli ve 93/5148 sayılı Kararname nin eki Karar'da değişiklik yapılmasına ilişkin ekli Karar'ın yürürlüğe konulması; Maliye Bakanlığı'nın 26/07/2001 tarihli ve 040682 sayılı yazısı üzerine, adı geçen Kanunun anılan maddesine göre, Bakanlar Kurulu'nca 27/07/2001 tarihinde kararlaştırılmıştır. 27/07/2001 Tarihli ve 2001/2847 Sayılı Kararnamenin Eki KARAR Madde 1- 93/5148 sayılı Bakanlar Kurulu Kararı nın eki Karar'ın I inci maddesinin değişik 8 numaralı bendinin (a), (b) ve (c) alt bentleri aşağıdaki şekilde değiştirilmiştir. "a) Döviz tevdiat hesaplarına yürütülen faizlerden ve özel finans kurumlarınca döviz katılma hesaplarına ödenen kar paylarından; aa) 1 yıla (özel finans kurumlarında 360 güne) kadar vadeli hesaplarda % 18, ab) 1 yıl (özel finans kurumlarında 360 gün) ve daha uzun vadeli hesaplarda % 16" "b) Nama yazılı mevduat hesaplarına yürütülen faizlerden, ba) Vadesiz ve ihbarlı hesaplarda % 16 bb) 3 aya kadar (3 ay dahil) vadeli hesaplarda % 16, bc) 6 aya kadar (6 ay dahil) vadeli hesaplarda % 14, bd) 1 yıla kadar vadeli hesaplarda % 10, be) 1 yıl ve daha uzun vadeli hesaplarda % 6," "c) Hamiline yazılı mevduat hesaplarına yürütülen faizlerden, ca) Vadesiz ve ihbarlı hesaplarda % 16 cb) 3 aya kadar (3 ay dahil) vadeli hesaplarda % 16, cc) 6 aya kadar (6 ay dahil) vadeli hesaplarda % 14, cd) 1 yıla kadar vadeli hesaplarda % 10, ce) 1 yıl ve daha uzun vadeli hesaplarda % 6," Madde 2- 93/5148 sayılı Bakanlar Kurulu Kararı nın eki Karar'ın I inci maddesinin değişik 9 numaralı bendinin (c) alt bendi aşağıdaki şekilde değiştirilmiştir. "c) Özel finans kurumlarınca kar ve zarara katılma hesabı karşılığında ödenen kar paylarından ca) 30 ve 90 gün vadeli hesaplarda % 16, cb) 180 gün vadeli hesaplarda % 14, cc) 360 gün vadeli hesaplarda % 10, cd) 360 günden daha uzun vadeli hesaplarda % 6," Madde 3- 93/5148 sayılı Bakanlar Kurulu Kararı nın eki Karar'ın I inci maddesinin değişik 14 numaralı bendi aşağıdaki şekilde değiştirilmiştir. "14. 75 inci maddenin ikinci fıkrasının 14 numaralı bendinde yer alan menkul sermaye iratlarından (Kanunla kurulan dernek ve vakıflar ile dernek ve vakıf olmamakla birlikte; odalar, borsalar, meslek örgütleri ve bunların üst kuruluşları, siyasi partiler, emekli ve yardım sandıkları gibi vergi uygulamalarında dernek ve vakıf olarak kabul edilenler hariç, dernek ve vakıflar ile tam mükellef kurumlara ödenenler dahil) % 20." Madde 4- Bu Kararın; a) 1 inci maddesi yayım tarihini takip eden günden itibaren açılan veya vadesi sözkonusu günden sonra yenilenen hesaplara ödenecek faizler ile vadesiz hesaplara ödenecek faizler için geçerli olmak üzere, b) 2 nci maddesi yayım tarihini takip eden günden itibaren açılan veya vadesi sözkonusu günden sonra yenilenen hesaplar ile vadesiz hesaplara ödenecek kar payları için geçerli olmak üzere, c) 3 üncü maddesi yayım tarihini takip eden günden itibaren geri alım veya satım taahhüdü ile yapılan işlemler için geçerli olmak üzere, yayımı tarihinde yürürlüğe girer. Madde 5- Bu Karar hükümlerini Maliye Bakanı yürütür.

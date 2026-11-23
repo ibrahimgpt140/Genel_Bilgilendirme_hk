@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 966
+baslik: "Vergi Usul Kanununun mükerrer 290 ıncı maddesine göre finansal kiralama tanımına girmeyen ancak 3226 sayılı Finansal Kiralama Kanunu kapsamında finansal kiralama şirketlerine veya finansal kiralama şirketlerince yapılan kiralama işlemlerine; Katma Değer V"
+tarih: 2004-06-24
+sayi: "KDVK- 18 /2004- 18"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/sirkuler/966
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# Vergi Usul Kanununun mükerrer 290 ıncı maddesine göre finansal kiralama tanımına girmeyen ancak 3226 sayılı Finansal Kiralama Kanunu kapsamında finansal kiralama şirketlerine veya finansal kiralama şirketlerince yapılan kiralama işlemlerine; Katma Değer V
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü KATMA DEĞER VERGİSİ SİRKÜLERİ / 18 Konusu : Finansal kiralama işlemleri hakkında. Tarihi : 24.06.2004 Sayısı : KDVK- 18 /2004- 18 İlgili olduğu maddeler : VUK 290 (mükerrer), KDVK 28, 3226 sayılı Finansal Kiralama Kanunu. 1. Giriş: 213 sayılı Vergi Usul Kanununun mükerrer 290 ıncı maddesi uyarınca finansal kiralama tanımına girmeyen ancak 3226 sayılı Finansal Kiralama Kanunu kapsamında yapılan kiralama işlemlerine uygulanacak katma değer vergisi oranı ile ilgili olarak aşağıda yapılan açıklamalara gerek duyulmuştur. 3065 sayılı Katma Değer Vergisi Kanununun 28 inci maddesi uyarınca, yayımlanan 17.07.2002 tarih ve 2002/4480 sayılı Bakanlar Kurulu Kararının Eki (I) sayılı listenin 9 uncu sırasında, 3226 sayılı Finansal Kiralama Kanununa göre, sadece finansal kiralamaya konu olan malların (bu listenin 8 inci sırasında sayılan taşıtlar dahil) finansal kiralama şirketlerine veya finansal kiralama şirketlerince teslimi veya kiralanması işlemlerine uygulanacak katma değer vergisi oranı belirtilmiştir. 213 sayılı Vergi Usul Kanununa 4842 sayılı Kanunla eklenen ve finansal kiralama işlemlerinde değerleme hükümlerini düzenleyen mükerrer 290 ıncı maddeye ilişkin açıklamalara 319 Sıra Numaralı Vergi Usul Kanunu Genel Tebliğinde yer verilmiştir. Söz konusu Tebliğde, finansal kiralama işlemlerinde katma değer vergisi uygulamasına ilişkin olarak herhangi bir değişiklik yapılmadığı belirtilerek, finansal kiralama şirketleri dışındaki şirketlerin yaptığı ve finansal kiralama sayılan işlemlerde 3226 sayılı Finansal Kiralama Kanununa göre yapılan sözleşmeler için öngörülen indirimli katma değer vergisi oranlarının uygulanmasının mümkün olmadığı açıklanmıştır. Buna göre, Vergi Usul Kanununun mükerrer 290 ıncı maddesine göre finansal kiralama tanımına girmeyen ancak 3226 sayılı Finansal Kiralama Kanunu kapsamında finansal kiralama şirketlerine veya finansal kiralama şirketlerince yapılan kiralama işlemlerine; Katma Değer Vergisi Kanununun 28 inci maddesi uyarınca yayımlanan 17.07.2002 tarih ve 2002/4480 sayılı Bakanlar Kurulu Kararının eki (I) sayılı listenin 9 uncu sırasında belirtilen katma değer vergisi oranının uygulanması mümkün bulunmaktadır. Duyurulur. Kemal UNAKITAN Maliye Bakanı

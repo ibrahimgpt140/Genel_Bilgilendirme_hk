@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 6994
+baslik: "17 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)"
+tarih: 1953-01-08
+sayi: " "
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/teblig/6994
+gib_guncelleme: 2025-03-24T19:28:17
+alindi: 2026-11-23
+---
+
+# 17 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ(*)
+
+Gelir Vergisi Kanununun 35 inci maddesinde "indirim, yalnız aile reisi sıfatiyle vergiye tabi tutulan mükellefler hakkında uygulanır." denildiği, aynı kanunun 78 inci maddesinde de "aile reisi eşler için koca, velâyet ve vesayet altındaki çocuklar için baba, baba ölmüş veya velâyeti nezedilmişse anadır." hükmü vazedildiği cihetle, en az geçim indirimi tatbikatında, aile reisinin mükellefiyetini gerektiren bir geliri bulunmadığı ahvalde, aile efradından gelir sahibi olan eş ve çocuklar, aile reisi olmamaları hesabiyle mezkûr indirimden faydalandırılmamakta idi. Bu konuda tahaddüs eden ihtilâflar dolayısiyle gerek malî kaza mercileri ve gerekse Devlet Şûrasınca verilen ve aile reisinin vergiye tabi geliri bulunmaması halinde, en az geçim indiriminin karının gelirine tatbik olunması lâzım geldiği yolundaki kararlar tevali ettiğinden, kaza mercilerinin bu içtihadı müstekar bir hal almış bulunmaktadır. İdarî kaza mercilerinin bu içtihadına uyulması muvafık bulunduğundan, bundan böyle, aşağıda tesbit edilen esaslar dairesinde muamele yapaılacaktır. A _ Aile reisinin geliri olmasa dahi, aile fertleri _eş ve çocuklar_ dolayısiyle yıllık beyanname verildiği takdirde, bu toplu gelire, aile reisinin medenî hal ve ailevî durumu nazara alınarak, en az geçim indirimi uygulanmaktadır. Binaenaleyh, yıllık beyanname verilen hallerde mevcut tatbikatta bir değişiklik yapılması bahis konusu değildir. B _ Aile reisinin hiç bir geliri mevcut bulunmadığı ve aile fertleri dolayısiyle de yıllık beyanname verilmediği ahvalde, en az geçim indiriminin ne suretle uygulanacağına gelince : 1. İndirimin aile reisi dışında kalanlara uygulanabilmesi için, aile reisinin gelir vergisine tabi hiç bir gelire sahip olmadığının alâkalılarca muteber ve kanaatbahş vesaik ile isbat olunması gerekir. 2. İndirim, eşin geliri mevcutsa bu gelire, eşin de geliri yoksa çocuklardan -34 üncü maddedeki evsafı haiz çocuklar- her hangi birisinin gelirine uygulanır. 3. Gelir Vergisi Kanununun 35 inci maddesi hükmü açık ve katidir. Binaenaleyh, bir adaletsizliğin izalesi düşünülürken, kanunun mezkûr hükmünün ihmali gibi bir yola gidilmemek için, en az geçim indirimi hadlerinin tâyininde yine aile reisinin medenî hâl ve ailevî durumunun nazara alınması icap edeceğinden, indirimin tatbiki bakımından vergi karnesinin aile reisi adına alınmış olması ve indirimin, eşin, eşin yoksa, çocuklardan hangisinin gelirine uygulanacağının işaret ettirilmesi iktiza eder. 4. Aile reisinin geliri olmadığının isbatı zımnında ibraz olunacak vesaikin sıhhat derecesinin vergi dairelerince ayrıca tahkik edilmesi lâzımdır. Gereğince işlem yapılması ve mali kaza mercilerine intikal etmiş olup da henüz karara bağlanmamış bulunan ihtilâflar hakkında da bu tebliğimiz dairesinde muamele icrası rica olunur. (*) Güncelliği kalmamıştır.

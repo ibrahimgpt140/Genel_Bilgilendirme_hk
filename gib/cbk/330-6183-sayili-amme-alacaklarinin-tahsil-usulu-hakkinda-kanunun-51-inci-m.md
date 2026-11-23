@@ -1,0 +1,15 @@
+---
+tur: Cumhurbaşkanı Kararı
+gib_id: 330
+baslik: "6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNUN 51 İNCİ MADDESİNİN BİRİNCİ FIKRASINDA YER ALAN GECİKME ZAMMI ORANININ, HER AY İÇİN AYRI AYRI UYGULANMAK ÜZERE %4,5 OLARAK BELİRLENMESİ HAKKINDA KARAR (KARAR SAYISI: 8484)"
+tarih: 2024-05-21
+sayi: "8484"
+kanun: "6183 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN"
+kaynak: https://gib.gov.tr/mevzuat/kanun/442/cbk/330
+gib_guncelleme: 2025-03-24T20:39:59
+alindi: 2026-11-23
+---
+
+# 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNUN 51 İNCİ MADDESİNİN BİRİNCİ FIKRASINDA YER ALAN GECİKME ZAMMI ORANININ, HER AY İÇİN AYRI AYRI UYGULANMAK ÜZERE %4,5 OLARAK BELİRLENMESİ HAKKINDA KARAR (KARAR SAYISI: 8484)
+
+Cumhurbaşkanı Kararına ulaşmak için tıklayınız. <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Cumhurbaskani_Karari/8484.pdf>

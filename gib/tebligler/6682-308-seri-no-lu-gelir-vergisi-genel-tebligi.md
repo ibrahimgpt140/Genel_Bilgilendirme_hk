@@ -1,0 +1,31 @@
+---
+tur: Tebliğ
+gib_id: 6682
+baslik: "308 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ"
+tarih: 2019-11-20
+sayi: "30954"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/teblig/6682
+gib_guncelleme: 2025-03-24T19:28:16
+alindi: 2026-11-23
+---
+
+# 308 SERİ NO'LU GELİR VERGİSİ GENEL TEBLİĞİ
+
+**İlgili maddeler:** Geçici Madde 67 (5281 sayılı Kanunun 30 uncu maddesiyle 01.01.2006 tarihinden itibaren elde edilen gelirlere uygulanmak üzere  eklenen geçici madde. Yürürlük; 01.01.2006)
+
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 7/8/2014 tarihli ve 29081 sayılı Resmî Gazete’de yayımlanan Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulmasının Usul ve Esasları Hakkında Tebliğ (II-13.1)’in 12/A maddesi uyarınca sermaye piyasası araçlarının hak sahibi ismine açılmaksızın toplu olarak tutulduğu ve izlendiği yabancı merkezi saklama kuruluşu ve genel saklama yetkisi bulunan yatırım kuruluşları nezdinde açılan hesapların 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun geçici 67 nci maddesi kapsamındaki tevkifat ve bildirim sorumlulukları ile bu hesaplarda izlenen sermaye piyasası araçlarının müşterinin talimatı ile hesap dışındaki hak sahibi bazında tutulan başka bir hesaba virman yapılması durumunda söz konusu kıymetlerin alış bedellerinin tespit edilmesine ilişkin esasların belirlenmesidir.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun geçici 67 nci maddesinin on sekizinci fıkrasına dayanılarak hazırlanmıştır.
+Hak sahibi ismine açılmaksızın toplu olarak tutulan hesaplar için tevkifat sorumluluğu
+MADDE 3 – (1) Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulmasının Usul ve Esasları Hakkında Tebliğ (II-13.1)’in 12/A maddesinde yabancı merkezi saklama kuruluşu hesabı; hak sahibi ismine açılmaksızın toplu olarak tutulan, yurt dışında kurulmuş ve yetkilendirilmiş, yabancı hukuka tabi olan yabancı merkezi saklama kuruluşları tarafından, münhasıran yurt dışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının izlendiği hesap şeklinde tanımlanmıştır. Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulmasının Usul ve Esasları Hakkında Tebliğ (II-13.1)’in 12/A maddesinin yedinci fıkrasında ise genel saklama yetkisi bulunan yatırım kuruluşları tarafından sunulan saklama hizmetinin mezkûr maddede yabancı merkezi saklama kuruluşları için belirlenmiş esaslara tabi olarak verebileceği ifade edilmiştir.
+(2) Sermaye Piyasası Kurulunun 20/6/2019 tarihli ve 831 sayılı İlke Kararı uyarınca Merkezi Kayıt Kuruluşu nezdinde açılacak toplu hesaplarda yalnızca 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 2 nci maddesinin birinci fıkrasında belirtilen ve sermaye şirketi olarak değerlendirilen “yabancı kurumlar ile yabancı fonlar”ın sahip olduğu devlet iç borçlanma senetlerini tutulabilecekleri belirtilmiştir.
+(3) Yabancı merkezi saklama kuruluşu bünyesinde açılan hesaplarda sermaye piyasası araçlarının hak sahibi ismine açılmaksızın toplu olarak tutulması ve bu hesaplarda toplu olarak izlenen sermaye piyasası araçlarına Sermaye Piyasası Kurulu Kararı uyarınca yalnızca 5520 sayılı Kanunun 2 nci maddesinin birinci fıkrasında belirtilen ve sermaye şirketi olarak değerlendirilen “yabancı kurumlar ile yabancı fonlar”ın sahip olabilmesi nedeniyle, yabancı merkezi saklama kuruluşları ve genel saklama yetkisi bulunan yatırım kuruluşlarının yabancı merkezi saklama kuruluşları için belirlenmiş esaslara göre verdikleri saklama hizmetleri nedeniyle 193 sayılı Kanunun geçici 67 nci maddesi kapsamında tevkifat ve bildirim sorumlulukları bulunmamaktadır.
+Hak sahibi ismine açılmaksızın toplu olarak tutulan hesaplardan çıkan sermaye piyasası araçlarında maliyet bildirimi
+MADDE 4 – (1) Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulmasının Usul ve Esasları Hakkında Tebliğ (II-13.1)’in 12/A maddesi uyarınca açılan toplu hesaplarda izlenen sermaye piyasası araçlarının müşterinin talimatına istinaden hesap dışındaki hak sahibi bazında tutulan başka bir hesaba virman yapılması durumunda, menkul kıymet alıcısı müşterinin yazılı olarak bildirdiği fiyat, söz konusu menkul kıymetlerin alış bedeli kabul edilecektir. Söz konusu bedel, menkul kıymetin virman veya satışının gerçekleştiği günden önceki günde oluşan ağırlıklı ortalama fiyatının %10 altında/üzerinde oluşabilecektir. Ancak bildirilen bedelin %10’luk marjı aşması veya müşterilerin herhangi bir fiyat bildirmediği durumlarda söz konusu menkul kıymetin başka bir hesaba virmanının gerçekleştiği günden önceki günde oluşan ağırlıklı ortalama fiyatı esas alınacaktır.
+(2) Ağırlıklı ortalama fiyat bilgisinin tespitinde virman gününden bir önceki günde Devlet tahvili ve hazine bonoları için T.C. Merkez Bankasınca açıklanan fiyatların dikkate alınması gerekmektedir.
+Yürürlük
+MADDE 5 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.

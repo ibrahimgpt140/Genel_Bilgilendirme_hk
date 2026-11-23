@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 9815
+baslik: "6 SERİ NO'LU DÖVİZ KAZANDIRICI FAALİYETLERDE DAMGA VERGİSİ VE HARÇ İSTİSNASI UYGULAMASI HAKKINDA TEBLİĞ (SERİ NO: 1)'DE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ"
+tarih: 2016-08-18
+sayi: "29805"
+kanun: "492 HARÇLAR KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/439/teblig/9815
+gib_guncelleme: 2025-03-24T20:27:51
+alindi: 2026-11-23
+---
+
+# 6 SERİ NO'LU DÖVİZ KAZANDIRICI FAALİYETLERDE DAMGA VERGİSİ VE HARÇ İSTİSNASI UYGULAMASI HAKKINDA TEBLİĞ (SERİ NO: 1)'DE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+
+MADDE 1 – 27/2/2004 tarihli ve 25386 sayılı Resmî Gazete’de yayımlanan Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkında Tebliğ (Seri No:1)’in 7 nci maddesinin ikinci paragrafından sonra gelmek üzere aşağıdaki paragraf eklenmiştir. “9/8/2016 tarihli ve 29796 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 15/7/2016 tarihli ve 6728 sayılı Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun yürürlük tarihinden önce yapılan uluslararası ihale konusu işlere ilişkin olarak, Kanunun yürürlük tarihinden önceki mevzuat hükümleri çerçevesinde Ekonomi Bakanlığınca verilecek Vergi Resim Harç İstisnası Belgesine istinaden damga vergisi ve harç istisnası uygulanır.”
+MADDE 2 - Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 3 - Bu Tebliğ hükümlerini Maliye Bakanı yürütür.

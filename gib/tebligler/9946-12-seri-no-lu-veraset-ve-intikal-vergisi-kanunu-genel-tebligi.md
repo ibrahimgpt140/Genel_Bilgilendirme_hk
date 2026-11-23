@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 9946
+baslik: "12 SERİ NO'LU VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ(*)"
+tarih: 1966-11-09
+sayi: " "
+kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/440/teblig/9946
+gib_guncelleme: 2025-03-24T20:33:54
+alindi: 2026-11-23
+---
+
+# 12 SERİ NO'LU VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ(*)
+
+Maliye Müfettişleri tarafından, vergi dairelerinde, veraset ve intikal vergisi işlemlerinin teftişi neticesinde tanzim olunan raporlar ile bu raporlara ilgililerce verilen cevaplardan ve muhtelif valiliklerle yapılan haberleşmelerden, bu vergiye ilişkin özel usulsüzlük cezalarının yanlış uygulandığı anlaşılmaktadır. 213 sayılı Vergi Usul Kanununun 351 inci maddesinde usulsüzlük; vergi kanunlarının şekle ve usule müteallik hükümlerine riayet edilmemesi şeklinde tanımlanmıştır. Bu tanımlamaya göre, bir vergi doğsun veya doğmasın şekle ve usule uyulmaması hali usulsüzlük cezasının tatbikini icabettirir. Ancak, aynı kanunun 485 sayılı Kanunla değişik 354 üncü maddesinde, veraset ve intikal vergisi beyannamelerini kanuni sürenin bitm e sini takibeden günden başlıyarak 15 gün içinde verenlere, 25 liradan az 250 liradan çok olmamak şartiyle verginin % 2 si, daha sonra verenlere, 100 liradan az 2000 liradan çok olmamak şartiyle verginin % 5 i tutarında özel usulsüzlük cezası kesileceği hük m e bağlanmıştır. Kanun metninin tetkikinden de anlaşılacağı üzere, cezanın matrahını vergi teşkil ettiğine göre, ortada vergi olmadan usulsüzlük cezası kesilmesi bahis konusu değildir. Bilindiği üzere, veraset ve intikal vergisi esas itibariyle beyana dayanan bir vergidir. Bu vergi, 7338 sayılı Kanunun 14 üncü maddesinde açıklandığı üzere, 5 inci maddede gösterilen mükellefler tarafından 7 nci maddedeki malûmatı kapsayacak şekilde tanzim olunarak 9 uncu maddede yazılı müddetler veya bu müddetlere 213 sayı l ı Kanunun 342 nci maddesiyle eklenen 15 er günlük bekleme müddetleri içinde verilen beyannamelere ve bu beyannameler muhteviyatının doğruluğu tespit etmek üzere düzenlenecek idari tahkikat tutanaklarına müsteniden tarh olunur. Yukarda açıklanan belli müdd e tler içinde beyanname verilmez ise yapılacak idari tahkikat üzerine re'sen vergi tarhı cihetine gidilir. Mükellef tarafından, Vergi Usul Kanununun 342 nci maddesinin 1 inci ve 2 nci fıkralarında yazılı ek süreler içinde beyanname verilirse, vergi ziyaı olmamış sayılacağından, tarhedilecek vergiye aynı kanunun 485 sayılı Kanunla değişik 354 üncü maddesi gereğince özel usulsüzlük cezasının uygulanması icap eder. Ancak, yukarıda da işaret edildiği üzere, intikal eden mallar değeri, matrahtan tenzili icap eden borç ve masraflardan az olduğu veya istisna haddi dahilinde kaldığı takdirde mükelleflerin bir vergi ile teklif edilmeleri bahis konusu olamıyacağından, başka bir deyimle ortada tarhedilecek vergi bulunmadığından, özel usulsüzlük cezası kesilmeside müm k ün değildir. Gereğinin buna göre ifasını tamimen tebliğ ve rica ederim. (*) Güncelliği Kalmamıştır.

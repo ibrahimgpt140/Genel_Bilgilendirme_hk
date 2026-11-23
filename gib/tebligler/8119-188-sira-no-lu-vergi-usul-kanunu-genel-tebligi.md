@@ -1,0 +1,17 @@
+---
+tur: Tebliğ
+gib_id: 8119
+baslik: "188 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ"
+tarih: 1988-12-20
+sayi: "20025"
+kanun: "213 VERGİ USUL KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/434/teblig/8119
+gib_guncelleme: 2025-03-24T19:38:18
+alindi: 2026-11-23
+---
+
+# 188 SIRA  NO'LU VERGİ USUL KANUNU GENEL TEBLİĞİ
+
+**İlgili maddeler:** Madde 124 Şikayet Yolu İle Müracaat; Madde 369 Yanılma ve görüş değişikliği(*); Madde 413 Mükelleflerin izahat talebi(*)
+
+(395 Sıra No.lu Vergi Usul Kanunu Tebliğiyle Yürürlükten Kaldırılmştır.) 1 - BİLGİ İSTEME Vergi Usul Kanununun 413. maddesinde "Mükellefler, Maliye Bakanlığından veya Maliye Bakanlığının bu hususta yetkili kıldığı makamlardan vergi durumları ve uygulaması bakımından müphem ve tereddüdü mucip gördükleri hususlar hakkında izahat isteyebilirler" hükmü yer almaktadır. Bu hüküm uyarınca, mükellefler, Bakanlığımız Merkez veya Taşra Teşkilatından bilgi isteyebilmektedirler. Ancak Bakanlık merkezinden bilgi istenilmesi halinde, mükellefin vergi kaydının bulunduğu ilin Defterdarlığı ile ayrıca yazışma yapılması gerektiğinden, bilgi verilmesinde gecikmeler doğmaktadır. Bu nedenle gereksiz yazışmaların önlenmesi ve Bakanlığa intikal eden sorunların daha kısa süre içinde çözümlenebilmesi için 1 Ocak 1989 tarihinden geçerli olmak üzere Vergi Usul Kanununun 412. maddesinin Bakanlığımıza verdiği yetkiye dayanılarak aşağıdaki usul ve esaslar belirlenmiştir. a) Mükelleflere "... vergi durumları ve uygulaması bakımından müphem ve tereddüdü mucip gördükleri hususlar hakkında..." bilgi vermeleri için Defterdarlıklar yetkili kılınmışlardır. b) Mükellefler Bakanlığımızdan değil doğrudan Defterdarlıklardan bilgi isteyeceklerdir. c) Defterdarlıklar mükelleflere; kanunlar, genel tebliğler, iç genelgeler, genel yazılar ve daha önce aynı konuda bildirilen Bakanlık görüşleri doğrultusunda bilgi vereceklerdir. d) Defterdarlıklar çözümlenemeyen veya çözümünde tereddüte düşülen konularda Bakanlığa başvuracaklardır. Ancak Defterdarlık intikal ettirilen konuyla ilgili yapılan işlemleri, konunun çözümüne ilişkin kendi görüşünü, mükellef dilekçesi ile birlikte Bakanlığa gönderecektir. e) Mükelleflerin l Ocak l989 tarihinden sonra Defterdarlıklar yerine Bakanlığımızdan bilgi istemeleri halinde, bu dilekçeleri Bakanlıkça cevaplandırılmadan doğrudan açıklamaya yetkili Defterdarlıklara göndereceklerdir. Mükelleflerin istekleri, Defterdarlıklarca incelenerek cevaplandırılacaktır. f) Defterdarlıkça verilen cevabı mükellefin yetersiz bulması halinde, tekrar Defterdarlığa müracaat ederek Bakanlıktan görüş alınmasını isteyebilecektir. Defterdarlık bu istek dilekçesini ve daha evvel konuya ilişkin verdiği cevap yazısı ve eklerini Bakanlığa gönderecektir. Bakanlık, Defterdarlık aracılığı ile mükellefe cevap verecektir. 2 - ŞİKAYET YOLUYLA BAŞVURMA : Vergi Usul Kanununun 124. maddesindeki "Vergi Mahkemesinde dava açma süresi geçtikten sonra yaptıkları düzeltme talepleri reddolunanlar şikayet yolu ile Maliye Bakanlığına müracaat edebilirler..." hükmü çerçevesinde Şikayet yolu ile yapılan başvurular Bakanlığımızca değerlendirilecektir. Ancak şikayet yolu ile Bakanlığa başvurulabilmesi için öncelikle, düzeltmeye yetkili vergi dairesine düzeltme talebinde bulunulması ve bu talebin de reddedilmiş olması gerekir. (395 Sıra No.lu Vergi Usul Kanunu Tebliğiyle Yürürlükten Kaldırılmştır.) 3 - ÖNERİDE BULUNMA : Mükelleflerin veya meslek kuruluşlarının Vergi Kanunlarının uygulanması ile ilgili önerileri doğrudan Bakanlığa yapılabilir. Tebliğ olunur.

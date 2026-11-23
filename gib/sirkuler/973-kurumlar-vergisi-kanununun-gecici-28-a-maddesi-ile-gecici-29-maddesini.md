@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 973
+baslik: "Kurumlar Vergisi Kanununun geçici 28/a maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentlerinde yer alan istisna şartlarının ihlali halinde Katma Değer Vergisi Kanununun geçici 10. maddesinde yer alan istisnadan yararlanılması"
+tarih: 2004-05-04
+sayi: "KDVK-11 / 2004-11"
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/sirkuler/973
+gib_guncelleme: 2025-03-24T19:53:53
+alindi: 2026-11-23
+---
+
+# Kurumlar Vergisi Kanununun geçici 28/a maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentlerinde yer alan istisna şartlarının ihlali halinde Katma Değer Vergisi Kanununun geçici 10. maddesinde yer alan istisnadan yararlanılması
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü KATMA DEĞER VERGİSİ SİRKÜLERİ / 11 Konusu : Katma Değer Vergisi Kanununun geçici 10. maddesi uygulaması hakkında. Tarihi : 04.05.2004 Sayısı : KDV-11 /2004-11 İlgili olduğu maddeler : Katma Değer Vergisi Kanunu geçici 10. madde Kurumlar Vergisi Kanununun geçici 28. maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentleri kapsamında gerçekleştirilen gayrimenkul satışlarına yönelik 51 Seri No'lu Kurumlar Vergisi Genel Tebliğinde düzenlenen sermaye artırımına ilişkin sürelere uyulmaması sonucu kurumlar vergisi istisnasından yararlanılamaması halinde Katma Değer Vergisi Kanununun geçici 10. maddesi uygulaması ile ilgili olarak aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. Bilindiği üzere, 3065 sayılı Katma Değer Vergisi Kanununun geçici 10. maddesinde , " 5422 sayılı Kurumlar Vergisi Kanununun geçici 28. maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentleri kapsamındaki teslimler vergiden müstesnadır. Bu şekilde teslim edilen kıymetlerin iktisabında yüklenilen ve teslimin yapıldığı dönemde indirilemeyen katma değer vergisi, bu hesap dönemine ait kurumlar vergisi matrahının tespitinde gider olarak kabul edilir. Şu kadar ki; satış nedeniyle oluşan kazancın tamamının, teslimi takip eden hesap dönemi başından itibaren ikinci hesap dönemi sonuna kadar ödenmiş sermayeye dönüştürülmemesi halinde, satıştan doğan kazancın ödenmiş sermayeye dönüşmeyen kısmına ait katma değer vergisi, teslimin yapıldığı tarihteki katma değer vergisi nispetine göre hesaplanarak 213 sayılı Vergi Usul Kanunu hükümlerine göre tarh edilir." hükmü yer almaktadır. Buna göre; 1. Kurumlar Vergisi Kanununun geçici 28/a maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentlerinde yer alan istisna şartlarının ihlali halinde Katma Değer Vergisi Kanununun geçici 10. maddesinde yer alan istisnadan yararlanılması mümkün değildir. 2. Katma Değer Vergisi Kanununun geçici 10. maddesinin son fıkrasında yer alan "sermayeye ilave süresi" konusundaki hüküm Kurumlar Vergisi Kanununun geçici 28/a maddesi ile geçici 29. maddesinin birinci fıkrasının (6) ve (7) numaralı bentlerindeki hükümlerle paralellik arz etmekte olup herhangi bir farklılık öngörmemektedir. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

@@ -1,0 +1,15 @@
+---
+tur: Sirküler
+gib_id: 1114
+baslik: "Vakıflara vergi muafiyeti tanınmasının şartlarından olan ve aynı zamanda derneklere Bakanlar Kurulu Kararı ile kamuya yararlı dernek statüsü verilmesi sürecinde Bakanlığımız görüşünün oluşturulmasında esas alınan kriterler arasında yer alan brüt gelirin ü"
+tarih: 2004-02-18
+sayi: "KVK-4/2004-2/Dernek ve Vakıflar-2"
+kanun: "5422 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1114
+gib_guncelleme: 2025-03-24T22:13:31
+alindi: 2026-11-23
+---
+
+# Vakıflara vergi muafiyeti tanınmasının şartlarından olan ve aynı zamanda derneklere Bakanlar Kurulu Kararı ile kamuya yararlı dernek statüsü verilmesi sürecinde Bakanlığımız görüşünün oluşturulmasında esas alınan kriterler arasında yer alan brüt gelirin ü
+
+T.C. MALİYE BAKANLIĞI Gelirler Genel Müdürlüğü Kurumlar Vergisi Sirküleri/4 Konusu : Vakıflara vergi muafiyeti tanınması ve derneklere kamuya yararlı dernek statüsü verilmesinde aranılan, brüt gelirin üçte ikisinin belirli amaçlara harcanmış olması şartının uygulanma dönemi Tarihi : 18/02/2004 Sayısı : KVK-4/2004-2/Dernek ve Vakıflar-2 İlgili olduğu maddeler : 4962 Sayılı Kanun Madde 20 1- Giriş Vakıflara vergi muafiyeti tanınmasının şartlarından olan ve aynı zamanda derneklere Bakanlar Kurulu Kararı ile kamuya yararlı dernek statüsü verilmesi sürecinde Bakanlığımız görüşünün oluşturulmasında esas alınan kriterler arasında yer alan brüt gelirin üçte ikisinin belirli amaçlara harcanmış olması şartının geçerli olduğu döneme ilişkin açıklamalar bu sirkülerin konusunu oluşturmaktadır. 2- Üçte İki Oranının Geçerli Olacağı Dönemler 2.1- Vakıfların Vergi Muafiyeti Taleplerinin Değerlendirilmesinde 30/07/2003 tarih ve 4962 sayılı Kanunun 20 nci maddesinde ; nevi itibariyle genel, katma ve özel bütçeli idarelerin bütçeleri içinde yer alan bir hizmetin veya hizmetlerin yerine getirilmesini amaç edinmek üzere kurulan ve gelirlerinin en az üçte ikisini bu amaçlara harcayan vakıflara, Maliye Bakanlığının önerisi üzerine Bakanlar Kurulunca vergi muafiyeti tanınabileceği hükme bağlanmıştır. Söz konusu hüküm 07/08/2003 tarihi itibariyle yürürlüğe girmiştir. Bu kapsamda, gelirlerin belirli amaçlara harcanmasına yönelik üçte iki oranı 2003 yılından başlamak üzere geçerli olacaktır. Vakıflara vergi muafiyeti tanınmasının şartları, vergi muafiyeti tanınan vakıfların yerine getireceği yükümlülükler ve vergi muafiyetinin kaldırılmasına ilişkin usul ve esaslar 83 Seri No.lu Kurumlar Vergisi Genel Tebliğinde açıklanmış bulunmaktadır. 2.2- Kamuya Yararlı Dernek Statüsü Verilmesinde Bakanlığımız Görüşünün Oluşturulması Sürecinde Derneklere Bakanlar Kurulu Kararı ile kamuya yararlı dernek statüsü verilmesi sürecinde, Bakanlığımız görüşünün oluşturulmasında esas alınan kriterler 2 No.lu Kurumlar Vergisi Sirkülerinde belirtilmiştir. Bu kriterlerden birisi de, son 2 yılda, yıl içinde elde edilen gelirlerin en az üçte ikisinin dernek amaçlarına harcanmış olmasıdır. 2004 yılında geçmiş dönemler esas alınarak yapılacak değerlendirmelerde üçte iki oranı geçerli olacaktır. Duyurulur. Osman ARIOĞLU Bakan a. Gelirler Genel Müdürü

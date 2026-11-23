@@ -1,0 +1,15 @@
+---
+tur: Tebliğ
+gib_id: 10696
+baslik: "10 SIRA NO'LU MUHASEBE SİSTEMİ UYGULAMA GENEL TEBLİĞİ"
+tarih: 2000-12-19
+sayi: "24265"
+kanun: "3568 SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)"
+kaynak: https://gib.gov.tr/mevzuat/kanun/444/teblig/10696
+gib_guncelleme: 2025-03-24T20:43:16
+alindi: 2026-11-23
+---
+
+# 10 SIRA NO'LU MUHASEBE SİSTEMİ UYGULAMA GENEL TEBLİĞİ
+
+Vergi Usul Kanununun 175 inci maddesinin Bakanlığımıza verdiği yetkiye dayanılarak, ek mali tabloları düzenlemek zorunda olan mükellefler ile maliyet hesaplarını 7/A seçeneğine göre tutmak zorunda olan mükellefler hakkında aşağıdaki düzenlemelerin yapılması uygun görülmüştür. 1- Ek Mali Tabloları Düzenlemek Zorunda Olan Mükelefler 3 Sıra Nolu Muhasebe Sistemi Uygulama Genel Tebliği (*) ile ek mali tabloları düzenlemek zorunda olan işletmelerin belirlenmesinde aktif toplamı ve net satışların toplamı kriteri getirilmiştir. Bu hüküm uyarınca, aktif toplamı veya net satışları toplamı belirli bir tutarı aşan mükellefler ek mali tabloları düzenlemek zorundadırlar. Bu tutarlar son olarak 9 Sıra No'lu Muhasebe Sistemi Uygulama Genel Tebliği (**) ile 900 milyar lira ve 2 trilyon lira olarak belirlenmiştir. Sözkonusu tutarlar günün ekonomik koşulları dikkate alınarak sırasıyla 1,8 trilyon ve 4 trilyon liraya yükseltilmiştir. Buna göre, 2000 yılı aktif toplamı 1,8 trilyon lira veya net satışlar toplamı 4 trilyon lirayı aşan mükelleflerin, temel mali tabloları yanı sıra ek mali tabloları da düzenlemeleri zorunludur. Bu mükelleflerin 2001 yılında verecekleri yıllık gelir veya kurumlar vergisi beyannamesine sözkonusu tablolardan sadece kar dağıtım tablosunu eklemeleri yeterlidir. 2- 7/A Seçeneğini Uygulamak Zorunda Olan Mükellefler 3 Sıra Nolu Muhasebe Sistemi Uygulama Genel Tebliği ile, maliyet hesaplarında 7/A seçeneğinin uygulanması, aktif toplamı veya net satışları toplamı belirlenen tutarları aşan üretim ve hizmet işletmeleri için zorunlu hale getirilmiştir. Halen uygulanmakta olan bu tutarlar 9 sıra No'lu Muhasebe Sistemi Uygulama Genel Tebliği ile 150 milyar lira ve 300 milyar lira olarak belirlenmiştir. 9 sıra No'lu Muhasebe Sistemi Uygulama Genel Tebliği ile belirlenen sözkonusu tutarlar sırasıyla 300 milyar lira ve 600 milyar liraya yükseltilmiştir. Buna göre, 2000 yılı aktif toplamı 300 milyar lirayı veya net satışlar toplamı 600 milyar lirayı aşan üretim ve hizmet işletmelerinin 2001 yılında maliyet hesaplarını 7/A seçeneğine göre tutmaları zorunludur. 3- Parasal Hadler Bu tebliğde yer alan parasal hadler, takip eden yıllarda Bakanlığımızca ayrıca bir belirleme yapılmadığı takdirde, her yıl bir önceki yıl için Vergi Usul Kanunu hükümleri uyarınca tespit edilen yeniden değerleme oranında artırılarak uygulanacaktır. Bu şekilde yapılacak hesaplamada 50 milyon lira ve daha düşük olan tutarlar dikkate alınmayacak, 50 milyon liradan fazla olan tutarlar ise 100 milyon liraya yükseltilecektir. Tebliğ olunur. (*) 18.09.1994 tarih ve 22055 sayılı Resmi Gazetede yayımlanmıştır. (**) 27.12.1998 tarih ve 23566 sayılı Resmi Gazetede yayımlanmıştır.

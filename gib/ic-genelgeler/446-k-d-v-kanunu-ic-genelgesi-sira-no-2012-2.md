@@ -1,0 +1,58 @@
+---
+tur: İç Genelge
+gib_id: 446
+baslik: "K.D.V. KANUNU İÇ GENELGESİ SIRA NO :  2012/2"
+tarih: 2012-07-20
+sayi: ""
+kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/436/icgenelge/446
+gib_guncelleme: 2026-05-13T15:40:53
+alindi: 2026-11-23
+---
+
+# K.D.V. KANUNU İÇ GENELGESİ SIRA NO :  2012/2
+
+T.C.
+
+MALİYE BAKANLIĞI
+
+Gelir İdaresi Başkanlığı
+
+SAYI : B.07.1.GİB.0.06.53-130[5373-167]
+
+KONU :
+
+20.07.2012*074686
+
+KATMA DEĞER VERGİSİ İÇ GENELGESİ
+
+(SIRA NO: 2012/2)
+
+........................ VALİLİĞİNE
+
+( Defterdarlık: Gelir Müdürlüğü
+
+................VERGİ DAİRESİ BAŞKANLIĞINA
+
+(.......................... Müdürlüğü)
+
+Katma Değer Vergisi Kanununun 13/a maddesinde; faaliyetleri kısmen veya tamamen deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçların kiralanması veya çeşitli şekillerde işletilmesi olan mükelleflere bu amaçla yapılan deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçlarının teslimleri, bu araçların imal ve inşaası ile ilgili olarak yapılan teslim ve hizmetler ile bunların tadili, onarım ve bakımı şeklinde ortaya çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetlerin katma değer vergisinden istisna olduğu hüküm altına alınmıştır.
+
+48, 107 ve 116 Seri No.lu KDV Genel Tebliğlerindeki açıklamalara göre istisnadan yararlanmak için bağlı bulunduğu vergi dairesine bir dilekçe ile başvuracak olan mükelleflere verilecek yazıların ekteki (EK:1, EK:2, EK:3, EK:4, EK:5, EK:6, EK:7 ve EK:8) örneklere göre verilmesi uygun görülmüş, konu ile ilgili olarak daha önce yayımlanmış bulunan 1998/I Sıra No.lu Katma Değer Vergisi İç Genelgesi yürürlükten kaldırılmıştır.
+
+Bilgi edinilmesini ve gereğinin buna göre yerine getirilmesini rica ederim.
+
+Mehmet KILCI Bakan a. Gelir İdaresi Başkanı
+
+EK 1 : ARAÇLARIN TESLİMİNE VEYA İTHALİNE İLİŞKİN <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK1.pdf>VERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK1.pdf>
+
+EK 2 : ARAÇLARIN İMAL VE İNŞASINA İLİŞKİN VERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK2.pdf>
+
+EK 3 : ARAÇLARIN İMALİ VEYA İNŞASINDA KULLANILACAK MAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN VERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK3.pdf>
+
+EK 4 : ARAÇLARIN TADİLİ, BAKIMI VE ONARIMINA İLİŞKİN VERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK4.pdf>
+
+EK 5 : <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK5.pdf>ARAÇLARIN SİPARİŞ VERİLEREK İMALİ VE İNŞASINDA KULLANILACAK HİZMETLERİN ALIMINA İLİŞKİN OLARAK ARACI İMAL VE İNŞA ETTİREN FİRMAYA VERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK5.pdf>
+EK 6 : ARAÇLARIN SİPARİŞ ÜZERİNE İMALİ VE İNŞASINDA KULLANILACAK MAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN OLARAK ARACI İMAL VE İNŞA EDEN FİRMAYAVERİLECEK YAZI ÖRNEĞİ <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK6.pdf>
+EK 7 : <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK7.pdf>FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE İNŞASI OLANLARA BU ARAÇLARIN İMAL VE İNŞASINDA KULLANILACAK MAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN VERİLECEK YAZI ÖRNEĞİ (KDV Mükellefi Olanlar İçin) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK7.pdf>
+EK 8 : <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK8.pdf>FAALİYETLERİ DENİZ TAŞIMA ARAÇLARI İLE YÜZER TESİS VE ARAÇLARIN İMAL VE İNŞASI OLANLARA BU ARAÇLARIN İMAL VE İNŞASINDA KULLANILACAK MAL VE HİZMETLERİN ALIMINA VEYA İTHALİNE İLİŞKİN VERİLECEK YAZI ÖRNEĞİ (KDV Mükellefi Olmayanlar İçin) <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/KDV_icgen_EK8.pdf>

@@ -39,6 +39,8 @@ MADDE 3- Aynı Tebliğin 4.3.1 numaralı fıkrasında yer alan “oldukları” 
 MADDE 4- Aynı Tebliğin 4.3.4 numaralı fıkrasının 1 numaralı bendinde yer alan “üçüncü ayın son gününe” ibaresi “dördüncü ayın 10 uncu günü sonuna”, 2 numaralı bendinde yer alan “ayın son gününe” ibaresi “ayı takip eden ayın 10 uncu günü sonuna”, 3 numaralı bendinde yer alan “ayın” ibareleri “ayı takip eden ayın 10 uncu günü”, “son dönem geçici vergi dönemine” ibaresi “hesap döneminin üçüncü geçici vergi dönemini takip eden üç ayına” şeklinde ve aynı bölümde yer alan tablo aşağıdaki şekilde değiştirilmiş ve ikinci paragrafının sonuna aşağıdaki cümle eklenmiştir.
 “Özel hesap dönemini kullanan mükellefler, tabloda yer alan bilgileri, hesap dönemlerinin başlangıç ve bitiş aylarına uygun olarak dikkate alacaklardır.”
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/elektronideftersirano4ek.gif>]
+
 MADDE 5- Aynı Tebliğin 4.3.7 numaralı fıkrasında yer alan “imzalı” ibaresinden sonra gelmek üzere “ya da Dijital Vergi Dairesi üzerinden elektronik ortamda verilen” ibaresi, “uygulaması” ibaresinden sonra gelmek üzere “ya da Dijital Vergi Dairesi” ibaresi eklenmiştir.
 MADDE 6- Aynı Tebliğin 4.3.12 numaralı fıkrasında yer alan “TÜBİTAK-UEKAE’den” ibaresi “TÜBİTAK BİLGEM KAMU SM’den” şeklinde değiştirilmiştir.
 MADDE 7- Aynı Tebliğin 4.4.1 numaralı fıkrasının (e) bendinin ilk cümlesinde yer alan “ikincil” ibaresi yürürlükten kaldırılmış, aynı bentte yer alan “yeterliliğe” ibaresi “yeterliğe” şeklinde değiştirilmiş ve son cümlesinde yer alan “ikincil kopyalarının” ibaresi “kopyaların” şeklinde değiştirilmiş ve (g) bendinde yer alan “ikincil” ibareleri yürürlükten kaldırılmıştır.

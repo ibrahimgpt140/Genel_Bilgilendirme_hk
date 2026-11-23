@@ -47,25 +47,41 @@ Aşağıdaki örneklerde ortaklık ile oy veya kâr payı hakkının eşit oldu�
 Örnek 1:
 (X) Ltd. Şti. (Y) A.Ş.’nin %20 oranında ortağıdır. Bu durumda, (X) ve (Y) arasındaki ilişkinin boyutu Kanunda belirtilen %10 şartını karşıladığı için bu iki kurum arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek1.jpg>]
+
 Örnek 2:
 (X) Ltd. Şti. (Y) A.Ş.’nin %20 oranında ortağı, (Y) A.Ş.’de (Z) Ltd. Şti.’nin %80 oranında ortağıdır. Bu durumda, (X) ve (Z) ilişkili kişi olup aralarındaki ortaklık ilişkisi (%20*%80 =) %16, Kanunda belirtilen %10 şartını karşıladığı için (X) ve (Z) arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek2.jpg>]
 
 Örnek 3:
 (B) A.Ş. (A) Ltd. Şti.’nin %50 oranında ortağı, (C) A.Ş. (B) A.Ş.’nin %40 oranında ortağı, (D) gerçek kişisi de (C) kurumunun %20 oranında ortağıdır. (A) kurumu ile (D) gerçek kişisi arasındaki ilişki, (B) kurumunun (A) kurumuna ortak olması, (D) gerçek kişisinin de (B) kurumunun ortağı olan (C) kurumunun ortağı olması nedeniyle oluşmaktadır. Bu nedenle (A) kurumu ve (D) gerçek kişisi arasındaki ortaklık ilişkisinin boyutu, bu üç ayrı ortaklık oranın çarpılması suretiyle tespit edilir. Bu durumda, (%20*%40*%50 =) %4 oranı Kanunda belirtilen %10 şartını karşılamadığı için (A) kurumu ve (D) gerçek kişisi arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilmez.
 Bu örnekte (D) gerçek kişisi aynı zamanda (A) kurumunun %7 oranında ortağı olsaydı, (A) kurumu ile (D) gerçek kişisi arasındaki ilişkinin boyutu hesaplanırken, bu ortaklık payının da dikkate alınması gerekirdi. Bu durumda, [%7+(%20*%40*%50) =] %11, Kanunda belirtilen %10 şartını karşıladığı için (D) gerçek kişisi ile (A) kurumu arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek3b2.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek3a.jpg>]
+
 Örnek 4:
 
 (A) ve (B) gerçek kişileri kardeş olup (C) kurumunun ayrı ayrı %5 oranında ortağıdır. Tebliğin 3.1.5 bölümünde açıklandığı üzere, transfer fiyatlandırması bakımından ortakların veya eşlerinin anne, baba, büyükanne ve büyükbabaları, çocukları ve torunları ile üçüncü derece dahil yansoy hısımları ve kayın hısımları ilişkili kişi sayılmaktadır. Bu durumda, (A) ve (B) gerçek kişileri kardeş olmaları vasfıyla ilişkili kişi olup bu kişilerin (C) kurumunda olan ortaklık paylarının toplamı (%5+%5 =) %10, Kanunda belirtilen %10 şartını karşıladığı için (A) ve (B) gerçek kişileri ile (C) kurumu arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek4.jpg>]
+
 Örnek 5:
 (M) gerçek kişisi (K) A.Ş.’nin %1 oranında ortağı ve aynı zamanda bu kurumun genel müdürüdür. (M) gerçek kişisi idare ve denetim bakımından (K) kurumu ile ilişkili olduğu için aralarındaki ortaklık ilişkisinin boyutuna bakılmaksızın (M) gerçek kişisi ile (K) kurumu arasında gerçekleşen işlemler [(M) gerçek kişisi ile (K) kurumu arasında istihdam ilişkisi kapsamında gerçekleşen işlemler hariç] örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek5.jpg>]
 
 Örnek 6:
 (M) gerçek kişisi (K) A.Ş.’nin %9 oranında ortağıdır. (N) de (M)’nin eşidir. (N) gerçek kişisi ile (K) kurumu arasındaki ilişki, eşinin (K) kurumuna ortak olması sebebiyle oluşmaktadır. (M) gerçek kişisi ile (K) kurumu arasında gerçekleşen işlemler, aralarındaki ortaklık ilişkisinin Kanunda belirtilen %10 şartının altında olması nedeniyle örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilmez. Bu durumda aralarında başka bir ilişki kaynağı olmaması kaydıyla, (M) gerçek kişisinin eşi (N) ile (K) kurumu arasında gerçekleşen işlemler de örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilmez.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek6.jpg>]
+
 Örnek 7:
 (X) A.Ş. (A) Ltd. Şti. ve (B) Ltd. Şti.’ye sırasıyla %50 ve %40 oranında ortaktır. (A) ve (B) kurumları da (K) Ltd. Şti.’nin sırasıyla %16 ve %8 oranında ortağıdır. (X) ve (K) kurumları arasındaki ilişki (A) ve (B) kurumları aracılığıyla oluşmakta olup aralarındaki ortaklık ilişkisinin boyutu (A) ve (B) kurumlarının (K) kurumundaki ortaklık oranı ve bu kurumların (X) kurumu ile aralarındaki ortaklık ilişkisi dikkate alınarak hesaplanır. Bu durumda, (%50*%16+%40*%8 =) %11,2, Kanunda belirtilen %10 şartını karşıladığı için (X) kurumu ve (K) kurumu arasında gerçekleşen işlemler örtülü kazanç dağıtımı hükümleri kapsamında değerlendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/transfer4/transfer4_ornek7.jpg>]
 
 MADDE 3 – Aynı Tebliğin “5- Emsallere Uygun Fiyat ya da Bedelin Tespitinde Kullanılan Yöntemler” başlıklı bölümünün ikinci ve üçüncü paragrafı aşağıdaki şekilde değiştirilmiştir.
 “Emsallere uygun fiyat veya bedeller, geleneksel işlem yöntemleri olarak adlandırılan karşılaştırılabilir fiyat yöntemi, maliyet artı yöntemi ve yeniden satış fiyatı yöntemleri ile işlemsel kâr yöntemleri olarak adlandırılan kâr bölüşüm yöntemi ve işleme dayalı net kâr marjı yöntemlerinden işlemin mahiyetine en uygun olan yöntem kullanılarak tespit edilir. Bu yöntemler arasında herhangi bir öncelik sırası yoktur. Bununla birlikte, yöntemlerin eşit şekilde uygulanabilir olduğu durumlarda geleneksel işlem yöntemleri işlemsel kâr yöntemlerine tercih edilir.

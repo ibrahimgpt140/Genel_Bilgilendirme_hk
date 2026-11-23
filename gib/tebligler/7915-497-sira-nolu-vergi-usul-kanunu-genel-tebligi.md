@@ -75,8 +75,12 @@ a) Mükellefin normal amortisman usulünü seçmesi:
 Amortisman oranı : 1/3 = %33,33
 Yıllık amortisman tutarı: 30.000 x %33,33 = 10.000
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vukteb497ek1.gif>]
+
 b) Mükellefin azalan bakiyeler usulünü seçmesi:
 Amortisman oranı: 1/3 = %33,33 x 2 = %66,66 (Azalan bakiyeler usulünde uygulanacak amortisman oranı 213 sayılı Kanunun mükerrer 315 inci maddesi uyarınca %50 oranını geçemeyeceği için amortisman oranının %50 olarak uygulanması gerekmektedir)
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vukteb497ek2.gif>]
 
 Listelerde yer almayan iktisadi kıymetlerin iktisap edilmesi
 MADDE 9 – (1) 213 sayılı Kanunun Geçici 30 uncu maddesi kapsamında iktisap edilen amortismana tabi iktisadi kıymetlerin 333 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin ekinde bulunan listedeki herhangi bir sınıflamada yer almaması durumunda, iktisadi kıymetlere uygulanacak amortisman oranları, mükelleflerin müracaatları üzerine Bakanlığımızca belirlenecek olup, mükelleflerin söz konusu iktisadi kıymetler için de anılan madde hükmünden faydalanmaları mümkün bulunmaktadır.

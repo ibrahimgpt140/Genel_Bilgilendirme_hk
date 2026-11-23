@@ -22,7 +22,7 @@ Konusu | : Pick-up türü araçlarda ÖTV uygulaması.
 Tarihi | : 04.03.2010
 Sayısı | : ÖTV 2/ 2010-1
 İlgili Olduğu Maddeler | : ÖTV Kanunu madde: 1, 12.
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Giriş:
 6/2/2010 tarihli ve 27485 sayılı Resmi Gazetede yayımlanan 2 Seri No.lu Gümrük Genel Tebliği (Gümrük Tarife Cetveli Açıklama Notları) eki Gümrük Tarife Cetveli Açıklama Notlarının 87.03 tarife pozisyonuna ilişkin bölümünde, hem insan hem da eşya taşıyabilen ve kamyonet türüne giren çok amaçlı araçlardan, ikiden fazla aksı olanlar ile eşya taşımaya mahsus alandaki azami taban uzunluğu aracın dingiller arası mesafenin %50'sindan fazla olanların 87.04 pozisyonunda sınıflandırılacağı belirtilmiştir. Bu durumda söz konusu tebliğin yayımı tarihinden önce 87.04 tarife pozisyonunda sınıflandırılan çift kabinli (pick-up türü) bazı araçların, bu tarihten sonra 87.03 tarife pozisyonunda sınıflandırılabileceği anlaşılmaktadır.
 Bu şekilde tarife pozisyonu değişen araçlarda ÖTV uygulamasına ilişkin olarak aşağıdaki açıklamaların yapılmasına gerek görülmüştür.

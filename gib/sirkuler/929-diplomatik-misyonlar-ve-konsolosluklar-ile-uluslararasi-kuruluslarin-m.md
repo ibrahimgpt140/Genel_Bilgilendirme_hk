@@ -22,6 +22,8 @@ Konusu | : Diplomatik misyonlar ve konsolosluklar ile uluslararası kuruluşlar�
 Tarihi | : 30 / 04 / 2010
 Sayısı | : KDVK-55 / 2010-3
 İlgili Olduğu Maddeler ve Tebliğler | : 15. Madde, 113 Seri No.lu KDV Genel Tebliği
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 5/12/2009 tarih ve 27423 sayılı Resmi Gazetede yayımlanan 113 Seri No.lu KDV Genel Tebliği'nin (D) bölümünde diplomatik istisna konusunda 1/1/2010 tarihinden itibaren geçerli olmak üzere yapılan düzenlemelerle ilgili olarak Başkanlığımıza intikal eden tereddütler dikkate alınarak aşağıdaki hususlarda açıklama yapılmasına ihtiyaç duyulmuştur.
 1) 113 Seri No.lu KDV Genel Tebliği'nin (D) bölümü gereğince diplomatik misyonlar ve konsolosluklar ile uluslararası kuruluşların mensuplarına KDV iadesi yapmaya;

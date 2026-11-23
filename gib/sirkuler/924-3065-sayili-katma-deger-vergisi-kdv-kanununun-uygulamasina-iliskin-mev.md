@@ -20,6 +20,8 @@ KATMA DEĞER VERGİSİ SİRKÜLERİ/60
 Konusu | :
 Tarihi | : 8/8/2011
 Sayısı | : KDVK-60/2011-1
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 3065 sayılı Katma Değer Vergisi (KDV) Kanununun uygulamasına ilişkin mevcut sirkülerlerin birleştirilmesi ile uygulamada tereddüt edilen hususlara yönelik açıklamalar bu Sirkülerin konusunu oluşturmaktadır.
 1. KDV'NİN KONUSU

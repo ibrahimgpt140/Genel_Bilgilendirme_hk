@@ -26,111 +26,111 @@ Tebliğ olunur.
 
 (1) SAYILI TABLO
 Damga Vergisine Tabi Kağıtlar
-
-I. Akitlerle ilgili kağıtlar
-
-A. Belli parayı ihtiva eden kağıtlar:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+I. Akitlerle ilgili kağıtlar | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+A. Belli parayı ihtiva eden kağıtlar: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Mukavelenameler, taahhütnameler ve temliknameler | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 2. Kira mukavelenameleri (Mukavele süresine göre kira bedeli üzerinden) | (Binde 1,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 3. Kefalet, teminat ve rehin senetleri | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 4. Tahkimnameler ve sulhnameler | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 5. Fesihnameler (Belli parayı ihtiva eden bir kağıda taalluk edenler dahil) | (Binde 1,5)
-
-B. Belli parayı ihtiva etmeyen kağıtlar:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+B. Belli parayı ihtiva etmeyen kağıtlar: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Tahkimnameler | (21,20 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 2. Sulhnameler | (21,20 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 3.Turizm işletmeleri ile seyahat acentelerinin aralarında düzenledikleri kontenjan sözleşmeleri (Belli parayı ihtiva edenler dahil) | (118,30 YTL.)
-
-II. Kararlar ve mazbatalar
-
-1. Meclislerden, resmi heyetlerden ve idari davalarla ilgili olmayarak Danıştaydan verilen mazbata, ilam ve kararlarla hakem kararları:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+II. Kararlar ve mazbatalar | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+1. Meclislerden, resmi heyetlerden ve idari davalarla ilgili olmayarak Danıştaydan verilen mazbata, ilam ve kararlarla hakem kararları: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 a) Belli parayı ihtiva edenler | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 b) Belli parayı ihtiva etmeyenler | (21,20 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 2. İhale kanunlarına tabi olan veya olmayan daire ve kurumların yetkili organlarınca verilen her türlü ihale kararları (Maliye Bakanlığının veya Sayıştayın vizesine tabi ihale kararlarının vize edilmemesi durumunda bu karara ilişkin vergi red ve iade olunur.) | (Binde 4,5)
-
-III. Ticari işlemlerde kullanılan kağıtlar
-
-1. Ticari ve mütedavil senetler:
-
-a) Emtia senetleri:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+III. Ticari işlemlerde kullanılan kağıtlar | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+1. Ticari ve mütedavil senetler: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+a) Emtia senetleri: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 aa) Makbuz senedi (Resepise) | (7,60 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 ab) Rehin senedi (Varant) | (4,60 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 ac) İyda senedi | (1,00 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 ad) Taşıma senedi | (0,50 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 b) Konşimentolar | (4,60 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 c) Deniz ödüncü senedi | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 d) İpotekli borç senedi, irat senedi | (Binde 7,5)
-
-2. Ticari belgeler:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+2. Ticari belgeler: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 a) Menşe ve Mahreç şahadetnameleri | (7,60 YTL.)
-
-b) Resmi dairelere ve bankalara ibraz edilen bilançolar ve işletme hesabı özetleri:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+b) Resmi dairelere ve bankalara ibraz edilen bilançolar ve işletme hesabı özetleri: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 ba) Bilançolar | (16,40 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 bb) Gelir tabloları | (8,10 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 bc) İşletme hesabı özetleri | (8,10 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 c) Barnameler | (1,00 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 d) Tasdikli manifesto nüshaları | (3,40 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 e) Ordinolar | (0,50 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 f) Gümrük idarelerine verilen özet beyan formları | (3,40 YTL.)
-
-IV. Makbuzlar ve diğer kağıtlar
-
-1. Makbuzlar:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+IV. Makbuzlar ve diğer kağıtlar | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+1. Makbuzlar: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 a) Resmi daireler tarafından yapılan mal ve hizmet alımlarına ilişkin ödemeler (avans olarak yapılanlar dahil) nedeniyle, kişiler tarafından resmi dairelere verilen ve belli parayı ihtiva eden makbuz ve ibra senetleri ile bu ödemelerin resmi daireler nam ve hesabına, kişiler adına açılmış veya açılacak hesaplara nakledilmesini veya emir ve havalelerine tediyesini temin eden kağıtlar | (Binde 7,5)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 b) Maaş, ücret, gündelik, huzur hakkı, aidat, ihtisas zammı, ikramiye, yemek ve mesken bedeli, harcırah, tazminat ve benzeri her ne adla olursa olsun hizmet karşılığı alınan paralar için verilen makbuzlar ile bu paraların nakden ödenmeyerek kişiler adına açılmış veya açılacak cari hesaplara nakledildiği veya emir ve havalelerine tediye olunduğu takdirde nakli veya tediyeyi temin eden kağıtlar | (Binde 6)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 c) Ödünç alınan paralar için verilen makbuzlar veya bu mahiyetteki senetler | (Binde 6)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 d) İcra dairelerince resmi daireler namına şahıslara ödenen paralar için düzenlenen makbuzlar | (Binde 6)
-
-2. Beyannameler (Bu beyannamelerin sadece bir nüshası vergiye tabidir):
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+2. Beyannameler (Bu beyannamelerin sadece bir nüshası vergiye tabidir): | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 a) Yabancı memleketlerden gelen posta gönderilerinin gümrüklenmesi için postanelerce gümrüklere verilen liste beyannamelerde yazılı her gönderi maddesi için | (0,50 YTL.)
-
-b) Vergi beyannameleri:
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+b) Vergi beyannameleri: | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 ba) Yıllık gelir vergisi beyannameleri | (21,20 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 bb) Kurumlar vergisi beyannameleri | (28,30 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 bc) Katma değer vergisi beyannameleri | (14,10 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 bd) Muhtasar beyannameler | (14,10 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 be) Diğer vergi beyannameleri (damga vergisi beyannameleri hariç) | (14,10 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 c) Gümrük idarelerine verilen beyannameler | (28,30 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 d) Belediye ve il özel idarelerine verilen beyannameler | (10,50 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 e) Sosyal güvenlik kurumlarına verilen sigorta prim bildirgeleri | (10,50 YTL.)
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 3. Tabloda yazılı kağıtlardan aslı 1,00 Yeni Türk Lirasından fazla maktu ve nispi vergiye tabi olanların resmi dairelere ibraz edilecek özet, suret ve tercümeleri. | (0,50 YTL.)

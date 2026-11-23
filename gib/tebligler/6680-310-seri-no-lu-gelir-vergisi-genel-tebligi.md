@@ -59,12 +59,16 @@ i) 89 uncu maddesinin birinci fıkrasının (15) numaralı bendinde yer alan bas
 olarak tespit edilmiştir.
 (3) 193 sayılı Kanunun 103 üncü maddesinin birinci fıkrasında yer alan gelir vergisine tabi gelirlerin vergilendirilmesinde esas alınan tarife, 2020 takvim yılı gelirlerinin vergilendirilmesinde esas alınmak üzere aşağıdaki şekilde yeniden belirlenmiştir:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/310_serno_GVK_1.jpg>]
+
 (4) 193 sayılı Kanunun mükerrer 121 inci maddesi hükmü uyarınca, anılan maddenin birinci fıkrasında yer alan tutar, 1/1/2020 tarihinden itibaren verilmesi gereken yıllık gelir ve kurumlar vergisi beyannamelerinde uygulanmak üzere 1.400.000 TL olarak tespit edilmiştir.
 ÜÇÜNCÜ BÖLÜM
 Basit Usulde Vergilendirme ile İlgili Hususlar
 Kar hadleri emsallerine göre düşük olarak tespit edilmiş bulunan emtia için özel hadler
 MADDE 4 – (1) Milli piyango bileti, akaryakıt, şeker ve bunlar gibi kar hadleri emsallerine göre düşük olarak tespit edilmiş bulunan emtia için özel hadler belirleme yetkisi 193 sayılı Kanunun 48 inci maddesi ile Maliye Bakanlığına verilmiştir. Bu yetki kullanılarak 2019 yılı için 31/12/2018 tarihli ve 30642 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No: 305) ile belirlenen tutarlar yeniden artırılmıştır.
 (2) Buna göre, anılan maddelerin ticaretini yapanların, 2020 takvim yılında da basit usulden yararlanabilmeleri için alış, satış veya hasılatlarının 31/12/2019 tarihi itibarıyla aşağıda belirtilen hadleri aşmaması gerekmektedir:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/310_serno_GVK_2.jpg>]
 
 (3) Belirtilen bu malların alım satımı ile uğraşanlar hakkında, basit usulün özel şartları bakımından yukarıdaki hadler dikkate alınmak suretiyle, 2/5/1982 tarihli ve 17682 sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No:136)’ndeki hesaplamalar doğrultusunda işlem yapılacaktır.
 Basit usule tabi mükelleflerde gün sonunda toplu belge düzenleme uygulaması

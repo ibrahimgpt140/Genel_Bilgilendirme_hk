@@ -21,6 +21,8 @@ Konusu | : İşgücü temin hizmetlerinde katma değer vergisi tevkifat uygulama
 Tarihi | : 23/06 /2010
 Sayısı | : KDVK-59/2010-7
 İlgili Olduğu Madde | : KDV Kanununun 9/1 maddesi.
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 A. Giriş
 Katma Değer Vergisi (KDV) Kanununun 9/1 maddesinin Bakanlığımıza verdiği yetkiye dayanılarak 96 Seri No.lu KDV Genel Tebliği ile 1/12/2005 tarihinden itibaren geçerli olmak üzere, KDV mükelleflerinin, alt işverenlerden veya bu konuda faaliyette bulunan diğer işletmelerden temin ettikleri işgücü hizmetlerine ait KDV yi %90 oranında tevkifata tabi tutarak sorumlu sıfatıyla beyan etmeleri uygun görülmüş, bu uygulama 97 Seri No.lu KDV Genel Tebliği ile 5/1/2006 tarihinden itibaren 91 Seri No.lu KDV Genel Tebliğinin (A/2) bölümünde sayılan kurum, kuruluş ve işletmelerin satın alacağı işgücü temin hizmetlerine de teşmil edilmiştir.

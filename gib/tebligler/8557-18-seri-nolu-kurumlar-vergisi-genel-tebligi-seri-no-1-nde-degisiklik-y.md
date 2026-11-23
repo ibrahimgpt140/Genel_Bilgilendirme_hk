@@ -95,6 +95,8 @@ yabancı kaynak)
 Buna göre, (C) A.Ş. tarafından, 2021 yılının birinci geçici vergilendirme döneminde 125.000 TL’lik finansman giderinin %10’luk kısmı olan (125.000 TL x %10=) 12.500 TL finansman gider kısıtlaması düzenlemesi uyarınca kurum kazancının tespitinde KKEG olarak dikkate alınacaktır.
 Örnek 2: (D) A.Ş.’nin 2021 yılına ilişkin geçici vergilendirme dönemleri itibarıyla öz kaynak, yabancı kaynak ve finansman giderlerine ilişkin tutarları aşağıdaki gibidir:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kvgt18ek1.gif>]
+
 -Birinci geçici vergilendirme döneminde finansman gider kısıtlaması:
 Birinci geçici vergilendirme döneminin son günü itibarıyla çıkarılan bilançoya göre yabancı kaynak (500.000 TL) ile öz kaynak (600.000 TL) mukayesesi yapıldığında, birinci geçici vergilendirme döneminin son günü itibarıyla yabancı kaynak tutarı öz kaynak tutarını aşmadığından, bu dönemde finansman gider kısıtlaması uygulanmayacaktır.
 -İkinci geçici vergilendirme döneminde finansman gider kısıtlaması:
@@ -176,6 +178,8 @@ Buna göre, (G) A.Ş. tarafından, 2021 yılının birinci geçici vergilendirme
 Örnek 2: (H) A.Ş. 1/1/2022 tarihi itibarıyla (D) Bankasından 100.000 Avro banka kredisi kullanmış olup 31/12/2022 tarihinde anapara ve %5 faiz ödemesi yapılacaktır.
 Avro kuru, kredinin kullanıldığı 1/1/2022 tarihinde 7,00 TL olup 31/3/2022 tarihinde 6,00 TL, 30/6/2022 tarihinde 8,00 TL, 30/9/2022 tarihinde 7,10 TL ve 31/12/2022 tarihinde ise 7,50 TL olmuştur.
 100.000 Avro tutarındaki krediye ilişkin geçici vergilendirme dönemlerinin son günü itibarıyla değerleme yapılmıştır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kvgt18ek2.gif>]
 
 (H) A.Ş.’nin geçici vergilendirme dönemleri itibarıyla finansman gider kısıtlaması öncesi çıkarmış olduğu bilançolarında yapacağı mukayese sonucunda yabancı kaynak toplamının öz kaynak toplamını aştığının tespit edilmiş olması halinde, (D) Bankasından kullanmış olduğu 100.000 Avro kredi nedeniyle, ikinci geçici vergilendirme (1 Ocak – 30 Haziran) döneminde 100.000 TL, üçüncü geçici vergilendirme (1 Ocak – 30 Eylül) döneminde 10.000 TL ve dördüncü geçici vergilendirme (1 Ocak – 31 Aralık) döneminde ise 50.000 TL tutarında finansman gideri, gider kısıtlamasının hesabında dikkate alınacaktır.
 (H) A.Ş., kredi geri ödemesini 31/12/2022 tarihinde yapmış olup 2022 yılında finansman gideri kısıtlamasında, (D) Bankasından kullanmış olduğu bu kredi nedeniyle 2022 yılı için hesaplayacağı 50.000 TL kur farkı giderini dikkate alacaktır.

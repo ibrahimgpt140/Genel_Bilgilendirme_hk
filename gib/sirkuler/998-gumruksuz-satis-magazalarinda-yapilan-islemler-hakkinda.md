@@ -22,7 +22,7 @@ Konusu | : Gümrüksüz satış mağazalarında yapılan işlemler
 Tarihi | : 06 / 10 / 2009
 Sayısı | : ÖTV-2 /2009-4
 İlgili Olduğu Maddeler | : Özel Tüketim Vergisi Kanunu madde 5, 7, 10 Gümrük Kanunu madde 93 - 107, 167
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Giriş:
 Gümrüksüz satış mağazalarına yapılan teslimlerde KDV uygulamasına ilişkin bugünkü tarihli ve 2009/1 sıra numaralı KDV Sirkülerinde yapılan açıklamalara paralel olarak, gümrüksüz satış mağazaları tarafından ithal edilen veya bu mağazalara yurt içinden teslim edilen mallarda ÖTV uygulanmasına ilişkin tereddütlerin giderilmesi amacıyla aşağıdaki açıklamaların yapılması gerekli görülmüştür.
 2. Kanun hükümleri:

@@ -18,6 +18,7 @@ Konusu | : Malul ve Engellilerin Araç Alımında ÖTV İstisnası Uygulamasın�
 Tarihi | : 30.04.2010
 Sayısı | : ÖTV-2/ 2010-3
 İlgili Olduğu Maddeler | : ÖTV Kanunu madde: 7/2, 15/2-a.
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1. Konu:
 4760 sayılı Özel Tüketim Vergisi Kanununun 7 nci maddesinin 2 numaralı bendi kapsamında ilk iktisabı yapılacak araçlarda ÖTV istisnası uygulaması ile bu istisnadan yararlanılarak iktisabı yapılan araçların devrinde ÖTV yönünden oluşan tereddütlerin giderilmesine ilişkin açıklamalar, bu sirkülerin konusunu oluşturmaktadır.

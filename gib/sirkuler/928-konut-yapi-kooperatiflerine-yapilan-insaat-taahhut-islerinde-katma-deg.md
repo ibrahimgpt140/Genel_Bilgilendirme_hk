@@ -21,7 +21,8 @@ Konusu | : Konut yapı kooperatiflerine yapılan inşaat taahhüt işlerinde kat
 Tarihi | : 7/5 /2010
 Sayısı | : KDVK-56/2010-4
 İlgili Olduğu Maddeler ve Tebliğler | : KDV Kanununun 1/1, 28, 29/2 ve geçici 15 inci maddeleri.
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 A. Giriş
 Konut yapı kooperatiflerine yapılan inşaat taahhüt işlerinde istisna ve indirimli oranda KDV uygulaması konusunda 49, 66 ve 106 Seri No.lu KDV Genel Tebliğleri ile 5 No.lu KDV Sirkülerinde gerekli açıklamalar yapılmıştır.
 Ancak Başkanlığımıza intikal eden olaylardan, bahsi geçen konuyla ilgili işlemlerin niteliğinin belirlenmesi konusunda tereddütler yaşandığı anlaşılmış olup, konuyla ilgili olarak aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur.

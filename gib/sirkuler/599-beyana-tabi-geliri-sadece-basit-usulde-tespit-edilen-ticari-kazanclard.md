@@ -23,7 +23,7 @@ Tarihi | : 15/02/2007
 Sayısı | : GVK-58/2007-2/ Basit Usule Tabi Mükelleflerin Yıllık Beyannamesi-9
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Madde 92 ve 117
 İlgili olduğu kazanç türleri | : Ticari Kazanç
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1-Giriş
 Geliri sadece basit usulde tespit edilen ticari kazançlardan ibaret olan gelir vergisi mükelleflerine ait yıllık beyannamelerin verilme süresinin uzatılması bu sirkülerin konusunu oluşturmaktadır.
 2. Yıllık Gelir Vergisi Beyannamesi Verilme Süresinin Uzatılması
@@ -32,4 +32,4 @@ Ancak, ilgili meslek odaları ve mükellefler tarafından Başkanlığımıza il
 Öte yandan, beyanname verme süresinin uzatılması ödeme süresini etkilememektedir. Bu nedenle, beyannamelerini ek süre içinde veren basit usule tabi mükelleflerin beyan ettikleri vergileri kanuni süresinde (2007 yılı Şubat ve Haziran aylarında) ödemeleri gerektiği tabiidir.
 Duyurulur.
 
-Kemal UNAKITAN MALİYE BAKANI
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Kemal UNAKITAN MALİYE BAKANI

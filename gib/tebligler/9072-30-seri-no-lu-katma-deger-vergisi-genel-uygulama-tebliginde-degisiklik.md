@@ -20,6 +20,8 @@ Diğer taraftan, sağlık tesislerine yönelik sunulan hizmetleri bilfiil ifa et
 Söz konusu hizmetlerin, alt yüklenicilerden temin edilmeksizin doğrudan yüklenici firma tarafından Sağlık Bakanlığına sunulması halinde, aşağıdaki tabloda bu hizmetlere karşılık gelen işlem türleri dikkate alınarak (işlem türü sütununda işlem türü belirlenmeyenler için Tebliğin (I/C-2.1.3.2.13.) bölümü kapsamında 5/10 oranında) tevkifat uygulanacaktır:
 Tablo: Kamu Özel İş Birliği Modeli ile Yaptırılan Sağlık Tesislerine İlişkin İşletme Döneminde Alınacak Hizmetlerde Uygulanacak Tevkifat Oranları
 
+[Görsel: <https://www.resmigazete.gov.tr/eskiler/2020/02/20200214-8_dosyalar/image002.jpg>]
+
 Örnek: Yüklenici (A) firması, işletmeye alınan sağlık tesisine yönelik alt yüklenici (B) firmasından temin etmek suretiyle Sağlık Bakanlığına güvenlik hizmeti vermektedir. Alt yüklenici (B) firması da bu hizmeti bir alt yüklenici (C) firmasından sağlamaktadır.
 Bu durumda, hizmeti bilfiil ifa eden (C) firması tarafından aracı (B) firmasına sunulan güvenlik hizmetinin, yukarıdaki tabloya göre “İşgücü Temin Hizmetleri” kapsamında değerlendirilmesi gerektiğinden, Tebliğin (I/C-2.1.3.2.5.) bölümünde yer alan şartların sağlanıp sağlanmadığına bakılmaksızın, bu hizmete ilişkin aracı (B) firması tarafından (9/10) oranında KDV tevkifatı uygulanacaktır.
 Aracı konumundaki (B) firması tarafından yüklenici (A) firması adına düzenlenecek faturada tevkifat uygulanmayacaktır. Yüklenici (A) firması tarafından Sağlık Bakanlığına düzenlenecek faturada ise Tebliğin (I/C-2.1.3.2.13.) bölümü uyarınca (5/10) oranında tevkifat uygulanacaktır.”

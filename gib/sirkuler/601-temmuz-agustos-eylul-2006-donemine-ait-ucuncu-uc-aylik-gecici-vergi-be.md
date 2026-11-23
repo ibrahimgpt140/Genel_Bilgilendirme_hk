@@ -23,6 +23,7 @@ Tarihi | : 07/11/2006
 Sayısı | : GVK-56/2006-13/Geçici Vergi Beyannamesi-9
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Mükerrer Madde 120, Kurumlar Vergisi Kanunu Madde 32
 İlgili olduğu kazanç türleri | : Ticari Kazanç, Serbest Meslek Kazancı ve Kurum Kazancı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1-Giriş
 
@@ -33,4 +34,4 @@ Ancak, Başkanlığımıza iletilen sorunlar nedeniyle, Vergi Usul Kanununun 17 
 Öte yandan, beyannamesini 13 Kasım tarihine kadar veren mükelleflerin beyan ettikleri vergiyi 17 Kasım 2006 günü akşamına kadar ödeyecekleri tabiidir.
 Bilgi ve gereği ilgililere duyurulur.
 
-Kemal UNAKITAN MALİYE BAKANI
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Kemal UNAKITAN MALİYE BAKANI

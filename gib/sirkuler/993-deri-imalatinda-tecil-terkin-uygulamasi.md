@@ -17,6 +17,7 @@ Konusu | : Deri İmalatında Tecil-Terkin Uygulaması
 Tarihi | : 17/10/2011
 Sayısı | : ÖTV-1/2011-1
 İlgili Olduğu Maddeler | : ÖTV Kanunu 8/1 inci madde
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1-Giriş:
 Başkanlığımıza intikal eden olaylardan, sanayi sicil belgesi sahibi imalatçıların 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I) sayılı listenin (B) cetvelinde yer alan 3403.11.00.00.00 ve 3403.91.00.00.00 G.T.İ.P. numaralı malları ham derinin işlenmesi sürecinde imalatta kullanmaları halinde adı geçen Kanunun 8/1 inci maddesi hükmü kapsamında tecil-terkin uygulamasından yararlanıp yararlanamayacakları hususunda tereddütler oluştuğu anlaşılmaktadır.

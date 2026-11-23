@@ -112,6 +112,8 @@ MADDE 6 – (1) 6102 sayılı Kanun bakımından şirket sözleşmesinde (6102 s
 
 Buna göre yapılması gereken kayıtlar aşağıda gösterilmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vukteb495ek1.gif>]
+
 Yatırım teşvik belgesi almak amacıyla başvuruda bulunulması
 
 MADDE 7 – (1) 213 sayılı Kanunun 280/A maddesi hükmünden yararlanılabilmesi için ticaret siciline tescil tarihini izleyen üçüncü ayın sonuna kadar yatırım teşvik belgesi almak üzere ilgili mevzuatında belirlenen esaslar doğrultusunda Ekonomi Bakanlığına (Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğüne) ya da ilgili yerel birimlere (Kalkınma Ajansları, Sanayi Odaları) başvuruda bulunulmalıdır.
@@ -170,6 +172,8 @@ Yatırım teşvik belgesinin iptal edilmesi durumunda, iptale konu belge kapsam�
 
 Buna göre, yapılması gereken muhasebe kayıtları aşağıda gösterilmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/2025/213_Teblig495_Ek2.png>]
+
 Sermaye olarak konulan yabancı paranın yatırım teşvik belgesi haricinde sarf olunması
 
 MADDE 11 – (1) Mükelleflerin, madde kapsamına giren yabancı paralarını, yatırım teşvik belgesi haricinde sarf etmeleri halinde, bu harcamalar nedeniyle lehe ve aleyhe oluşan kur farkları ilgili gelir veya gider hesaplarına dahil edilerek kurum kazancının hesabında dikkate alınacaktır.
@@ -177,6 +181,8 @@ MADDE 11 – (1) Mükelleflerin, madde kapsamına giren yabancı paralarını, y
 Örnek 4: Örnek 1 ve 3’teki ABCD A.Ş., madde kapsamındaki dövizi (ABD Doları) ile 25/10/2018 tarihinde KDV dahil 30.000 ABD Doları (1 ABD Doları=4,00 TL) bedelle bir binek otomobili satın almıştır. (Alınan otomobil yatırım teşvik belgesinde yer almamakta olup, ABCD A.Ş., kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi faaliyetinde bulunmamaktadır. KDV maliyet bedeli içerisinde dikkate alınmıştır.)
 
 Buna göre, yapılması gereken muhasebe kayıtları aşağıda gösterilmiştir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vukteb495ek3.gif>]
 
 Kayıtlardan da görüleceği üzere, yatırım teşvik belgesi kapsamında sarf olunmayan yabancı paralar nedeniyle oluşan kur farkı ilgili gelir hesabına alınmıştır.
 
@@ -191,6 +197,8 @@ MADDE 12 – (1) 213 sayılı Kanunun 280/A maddesinin birinci fıkrası uyarın
 Örnek 5: 10/4/2018 tarihinde kurulan ve 13/7/2018 tarihinde yatırım teşvik belgesi alan F Ltd. Şti., madde kapsamında yaptığı harcamalar sonucu oluşan kur farklarını özel fon hesabına almış olup, 31/12/2019 tarihinde özel fon hesabı 15.000 TL borç bakiyesi vermiştir. Bu durumda, madde kapsamına giren yabancı paraların yatırım teşvik belgesi kapsamında sarf olunması nedeniyle bu dönem zarfında şirket aleyhine net olarak kur farkı zararı oluşmuş olup, şirket lehine bir fon oluşmadığı ve sermayeye ilave edilecek bir unsur ortaya çıkmadığından, bu bakiye tutar bu dönem sonu itibariyle zarara geçirilmek suretiyle kapatılacaktır.
 
 Buna göre, yapılması gereken muhasebe kayıtları aşağıda gösterilmiştir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vukteb495ek4.gif>]
 
 Diğer hususlar
 

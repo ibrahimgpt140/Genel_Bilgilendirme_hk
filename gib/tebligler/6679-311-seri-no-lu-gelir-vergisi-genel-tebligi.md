@@ -86,6 +86,8 @@ Bayan (D)’nin, yaptığı beste çalışmaları her ne kadar 18 inci maddede s
 
 Buna göre, Bayan (D)’nin beyanı aşağıdaki gibi olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img1.gif>]
+
 Tevkifat uygulaması
 
 MADDE 5 – (1) 193 sayılı Kanunun 94 üncü maddesinin birinci fıkrasında vergi tevkifatı yapmak zorunda olanlar ile tevkifata tabi ödemeler belirtilmiştir. Aynı fıkranın (2) numaralı bendinde, yaptıkları serbest meslek işleri dolayısıyla bu işleri icra edenlere yapılan ödemelerden; 12/1/2009 tarihli ve 2009/14592 sayılı Bakanlar Kurulu Kararı uyarınca, 18 inci madde kapsamına giren serbest meslek işleri dolayısıyla yapılan ödemelerden %17, diğerlerinden %20 oranında gelir vergisi tevkifatı yapılacağı düzenlemesi yer almaktadır.
@@ -316,7 +318,11 @@ MADDE 14 – (1) Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralan
 
 Örnek 8: Kozmetik ürünlerinin toptan ticareti faaliyeti nedeniyle kurumlar vergisi mükellefi olan (EFG) Ltd. Şti.’nin sahip olduğu binek otomobillere ilişkin 2020 hesap döneminde yapmış olduğu giderler aşağıdaki gibi olup, giderlerin tümü bu yıl için yapılmıştır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img2.gif>]
+
 Buna göre, (EFG) Ltd. Şti.’nin sahip olduğu binek otomobiller için yapmış olduğu harcamalara ilişkin safi kurum kazancının tespitinde gider olarak dikkate alınabilecek azami tutarlar aşağıdaki gibi olacaktır:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img3.gif>]
 
 * Motorlu Taşıtlar Vergisi Kanununun 14 üncü maddesi uyarınca, taşıt kiralama faaliyeti ile uğraşan işletmelerin bu amaçla kiraya verdikleri taşıtlar hariç binek otomobiller için ödenen vergiler gelir ve kurumlar vergilerinin matrahlarının tespitinde gider olarak kabul edilmemektedir.
 
@@ -350,11 +356,15 @@ MADDE 15 – (1) Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralan
 
 Bay (K) tarafından 2020 yılında iktisap edilen binek otomobil için en fazla 300.000 TL’ye isabet eden kısım için ayrılan amortisman, safi kazancın tespitinde gider olarak dikkate alınabilecektir. Buna göre mükellefin yıllar itibarıyla kazancın tespitinde gider olarak dikkate alabileceği amortisman bedelleri aşağıdaki gibidir:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img4.gif>]
+
 (*) Kıst amortisman uygulamasından dolayı binek otomobillerin aktife alındığı yılda gider konusu yapılamayan (60.000 TL – 35.000 TL) 25.000 TL itfa süresinin son yılı olan 2024 yılında, o yıl için amortismana esas bedel üzerinden ayrılan amortismandan ayrı olarak safi kazancın tespitinde gider olarak indirim konusu yapılabilecektir.
 
 Örnek 13: İnşaat işiyle iştigal eden kurumlar vergisi mükellefi (TDE) Ltd. Şti. 1/9/2020 tarihinde vergisiz fiyatı 240.000 TL olan bir adet binek otomobil satın almıştır. Söz konusu araç için mükellef tarafından ödenen özel tüketim vergisi ve katma değer vergisi tutarı toplamı 354.720 TL olup, mükellef tarafından binek otomobilin iktisabı için ödenen vergiler safi kazancın tespitinde tercihen doğrudan gider olarak dikkate alınmıştır. Adı geçen mükellef söz konusu binek otomobili 2/1/2024 tarihinde 100.000 TL bedel karşılığında satmıştır.
 
 Buna göre, işletme kayıtlarına vergisiz satış fiyatı üzerinden alınan binek otomobil için 2020 yılında en fazla 160.000 TL’ye isabet eden kısım için ayrılan amortisman, kurum kazancının tespitinde gider olarak dikkate alınabilecektir. Mükellef kurum tarafından bu kapsamda yıllar itibarıyla ayrılan amortisman tutarları aşağıdaki gibidir:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img5.gif>]
 
 Diğer taraftan, 193 sayılı Kanunun 40 ıncı maddesinin birinci fıkrasının (1) numaralı bendi, 68 inci maddesinin birinci fıkrasının (5) numaralı bendi ile bu Tebliğin 13 üncü maddesinde yapılan açıklamalar çerçevesinde, mükellef kurum tarafından iktisap edilen binek otomobil için ödenen ve tercihen gider olarak dikkate alınan özel tüketim vergisi ve katma değer vergisi tutarı toplamı olan 354.720 TL’nin 2020 yılı için azami 140.000 TL’si safi kazancın tespitinde gider olarak dikkate alınabilecek, söz konusu tutarı aşan (354.720 TL – 140.000 TL) 214.720 TL kanunen kabul edilmeyen gider olarak mükellef kurumun 2020 hesap dönemi kurum kazancına ilave edilecektir.
 
@@ -371,6 +381,8 @@ Mükellef kurumun binek otomobilini 2024 yılında sattığında yapması gereke
 (3) Mükelleflerin aktiflerinde yer alan binek otomobiller için amortismana esas bedelden daha fazla tutar üzerinden amortisman ayırmaları halinde, genel hükümlere göre ayrılan amortisman tutarı ile amortismana esas bedel üzerinden ayrılan amortisman tutarı arasındaki fark, kanunen kabul edilmeyen gider sayılarak, o yıla ilişkin gelir veya kurumlar vergisi kazancına ilave edilecektir. Söz konusu binek otomobillerinin mükellefler tarafından satışı halinde ise ilgili yıllarda amortisman ayırma aşamasında kanunen kabul edilmeyen gider olarak kazanca ilave olunan tutarların toplamı mükelleflerce vergiye tabi olmayan gelir olarak dikkate alınacak ve bu tutar, gelir veya kurumlar beyannamesinde “Diğer İndirimler” satırında gösterilmek suretiyle kazanç üzerinden indirim konusu yapılabilecektir.
 
 Örnek 14: Bir önceki örnekte, mükellef kurumun 1/9/2020 tarihinde vergisiz satış fiyatı olan 240.000 TL üzerinden aktifine aldığı binek otomobili için, aktife kayıtlı bedelin tamamı üzerinden amortisman ayırması durumunda; mükellef tarafından binek otomobili için ayrılan amortisman tutarı ile amortismana esas bedel üzerinden hesaplanan amortisman tutarı arasındaki fark KKEG olarak ilgili yıllarda kurum kazancına ilave olunacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/GV311teb_img6.gif>]
 
 Adı geçen mükellefin söz konusu binek otomobili 2/1/2024 tarihinde 100.000 TL bedel karşılığında satması halinde yapması gereken muhasebe kaydı aşağıdaki gibi olacaktır (KDV ihmal edilmiştir):
 

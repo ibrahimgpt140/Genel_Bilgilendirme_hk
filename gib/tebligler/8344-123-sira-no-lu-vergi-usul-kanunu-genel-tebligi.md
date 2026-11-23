@@ -17,7 +17,7 @@ Avusturya Dolarının, 213 sayılı Vergi Usul Kanunu gereğince yapılacak değ
 Bu para ve bu paralarla olan senetli ve senetsiz alacak ve borçların değerlendirilmesinde, 5.10.1974 tarihinden itibaren aşağıdaki kurlar uygulanacaktır.
 Bilgi edinilmesi rica olunur.
 
-Sıra No. | 122 No.lu Gn. Teb. Sıra No.: | DÖVİZLER | Kur Kuruş
-1 | 2 | 1 Avustralya Doları | 1832,60
+Sıra No. | [Görsel: <icons/ecblank.gif>] | 122 No.lu Gn. Teb. Sıra No.: | [Görsel: <icons/ecblank.gif>] | DÖVİZLER | [Görsel: <icons/ecblank.gif>] | Kur Kuruş
+1 | [Görsel: <icons/ecblank.gif>] | 2 | [Görsel: <icons/ecblank.gif>] | 1 Avustralya Doları | [Görsel: <icons/ecblank.gif>] | 1832,60
 
 (*) Güncelliği Kalmamıştır.

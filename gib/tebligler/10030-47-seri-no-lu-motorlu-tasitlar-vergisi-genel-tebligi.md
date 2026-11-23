@@ -30,6 +30,12 @@ MADDE 4 –
 A. (I) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 Otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri ile motosikletler aşağıdaki (I) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/47/1.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/47/2.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/47/3.jpg>]
+
 Yürürlük
 MADDE 5 – (1) Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer.
 Yürütme

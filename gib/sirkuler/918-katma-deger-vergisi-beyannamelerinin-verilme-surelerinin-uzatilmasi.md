@@ -21,7 +21,8 @@ Konusu | : Katma Değer Vergisi Beyannamelerinin Verilme Sürelerinin Uzatılmas
 Tarihi | : 19/10/2012
 Sayısı | : KDV-65 / 2012 -5
 İlgili Olduğu Madde | : Katma Değer Vergisi Kanununun 41 inci ve Vergi Usul Kanununun Mükerrer 28 inci maddeleri
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Giriş
 Eylül/2012 dönemi katma değer vergisi beyannamelerinin verilme süresinin uzatılması bu Sirkülerin konusunu oluşturmaktadır.
 2. Katma Değer Vergisi Beyannamelerinin Verilme Sürelerinin Uzatılması

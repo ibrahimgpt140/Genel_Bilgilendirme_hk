@@ -66,43 +66,43 @@ b) Bahis konusu düzenlemeler gerçekleştirilinceye kadar mükellefler cihazlar
 Tebliğ olunur.
 NİHAİ ASGARİ ŞART: ÖRNEK - 1
 
-................................................................................. | Mükellefin Adı ve Ünvanı.
-................................................................................. | Ad resi, Bağlı Olduğu Vergi
-................................................................................. | Dairesi ve Sicil No.
-
-29.01.1986 | Tarih
-FİŞ NO: 001 | Fiş No
-Saat: 1045 | Saat
-
-GİYİM %10 | *11000
+................................................................................. | [Görsel: <icons/ecblank.gif>] | Mükellefin Adı ve Ünvanı.
+................................................................................. | [Görsel: <icons/ecblank.gif>] | Ad resi, Bağlı Olduğu Vergi
+................................................................................. | [Görsel: <icons/ecblank.gif>] | Dairesi ve Sicil No.
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+29.01.1986 | [Görsel: <icons/ecblank.gif>] | Tarih | [Görsel: <icons/ecblank.gif>]
+FİŞ NO: 001 | [Görsel: <icons/ecblank.gif>] | Fiş No | [Görsel: <icons/ecblank.gif>]
+Saat: 1045 | [Görsel: <icons/ecblank.gif>] | Saat | [Görsel: <icons/ecblank.gif>]
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+GİYİM %10 | *11000 | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 M.GİD %6 | *5000 | Mal Cinsleri, Vergi Oranları ve
 T.GİD %3 | *3000 | Vergi Dahil Satış Tutarları.
-ET %0 | 1500
-
+ET %0 | 1500 | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 TOPKDV | *1335 | Alınan Katma Değer Vergisi Toplamı
 TOPLAM | *20500 | Vergi Dahil Toplam Satış Tutarları.
-
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 MFOA | 0000000 | Mali Sembol, Firma Kodu ve Cihaz Sicil No.
 
 GEÇİCİ ASGARİ ŞART: ÖRNEK - 2
 
-............................................................................. | Mükellefin Adı ve Ünvanı.
-............................................................................. | Ad resi, Bağlı Olduğu Vergi
-............................................................................. | Dairesi ve Sicil No.
-
-29.01.1986 | Tarih ve Fiş No
-Saat: 1045 | Saat
-
-GİYİM %V1 | *11000
+............................................................................. | [Görsel: <icons/ecblank.gif>] | Mükellefin Adı ve Ünvanı.
+............................................................................. | [Görsel: <icons/ecblank.gif>] | Ad resi, Bağlı Olduğu Vergi
+............................................................................. | [Görsel: <icons/ecblank.gif>] | Dairesi ve Sicil No.
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+29.01.1986 | [Görsel: <icons/ecblank.gif>] | Tarih ve Fiş No | [Görsel: <icons/ecblank.gif>]
+Saat: 1045 | [Görsel: <icons/ecblank.gif>] | Saat | [Görsel: <icons/ecblank.gif>]
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+GİYİM %V1 | *11000 | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 M.GİD %V2 | *5000 | Mal Cinsleri, Vergi Oranları ve
 T.GİD %V3 | *3000 | Gösteren Rumuzlar ve Vergi Dahil
 ET %V4 | 1500 | Satış Tutarları
-
-V1 %10 | 1.000
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
+V1 %10 | 1.000 | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 V2 %6 | 273 | Rumuzların Tekabül Ettiği Vergi
 V3 %3 | 82 | Oranları ve Bu oranlara Göre
-V4 %0.0 | Otomatik Olarak Hesaplanan Vergiler.
-
+V4 %0.0 | [Görsel: <icons/ecblank.gif>] | Otomatik Olarak Hesaplanan Vergiler.
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 TOPKDV | *1335 | Alınan Katma Değer Vergisi Toplamı
 TOPLAM | *20500 | Vergi Dahil Toplam Satış Tutarları.
 MFOA | 0000000 | Mali Sembol, Firma Kodu ve Cihaz Sicil No.
@@ -113,15 +113,15 @@ GEÇİCİ ASGARİ ŞART: ÖRNEK - 3
 ................................................................ | Mükellefin Adı veya Ünvanı.
 ................................................................ | Ad resi, Bağlı Olduğu Vergi
 ................................................................ | Dairesi ve Sicil No.
-
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 29.01.1986 | 0001 | Tarih ve Fiş No . 10.45
-1045 | Saat
-GİYİM | *11000 %10
+1045 | [Görsel: <icons/ecblank.gif>] | Saat
+GİYİM | *11000 %10 | [Görsel: <icons/ecblank.gif>]
 M.GİD | *5000 %6 | Mal Cinsleri, Vergi Oranları ve
 T.GİD | *3000 %3 | Vergi Dahil Satış Tutarları.
-ET | 1500 %0
-
+ET | 1500 %0 | [Görsel: <icons/ecblank.gif>]
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 TOPKDV | *1335 | Alınan Katma Değer Vergisi Toplamı
 TOPLAM | *20500 | Vergi Dahil Toplam Satış Tutarı.
-MFOA 00000005 | Mali Sembol, Firma Kodu ve
-Cihaz Sicil No.
+MFOA 00000005 | [Görsel: <icons/ecblank.gif>] | Mali Sembol, Firma Kodu ve
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>] | Cihaz Sicil No.

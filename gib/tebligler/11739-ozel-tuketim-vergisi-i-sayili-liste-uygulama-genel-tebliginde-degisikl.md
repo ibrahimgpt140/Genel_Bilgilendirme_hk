@@ -20,6 +20,8 @@ b) (C/5.1.) alt bölümünün ikinci paragrafında yer alan “; Ambarlı, Mersi
 
 değiştirilmiş ve aynı (C/5.1.) alt bölümünün ikinci paragrafından sonra gelmek üzere aşağıdaki liste eklenmiştir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/OTV_Kanunu/1.jpg>]
+
 Aynı Tebliğin “II- İSTİSNALAR VE VERGİ İNDİRİMİ” başlıklı bölümünün (C/6.1.) ve (C/6.2.) alt bölümlerinde yer alan “2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11” ibareleri “2710.19.62.00.10, 2710.19.62.00.11, 2710.19.64.00.10, 2710.19.64.00.11 ve 2710.19.68.00.11” şeklinde ve “2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12” ibareleri “2710.19.43.00.11 ve 2710.20.11.00.11” şeklinde değiştirilmiştir.
 
 MADDE 3 – Aynı Tebliğin “II- İSTİSNALAR VE VERGİ İNDİRİMİ” başlıklı bölümünün;
@@ -36,6 +38,8 @@ MADDE 4 – Aynı Tebliğin “III- İNDİRİMLİ VERGİ UYGULAMALARI VE MÜTESE
 a) (B/1.1.) alt bölümünde yer alan “Deniz Yakıtı” tanımı aşağıdaki şekilde,
 
 “ Deniz Yakıtı: Kararname kapsamına giren deniz araçlarının ana ve yardımcı makinelerinde kullanılan ve aşağıda Gümrük Tarife İstatistik Pozisyon (G.T.İ.P.) numaraları ve mal isimleri ile belirtilen Özel Tüketim Vergisi Kanununa ekli (I) sayılı listenin (A) cetvelindeki akaryakıtları,
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/OTV_Kanunu/2.jpg>]
 
 b) (B/2.) ve (B/2.1.) alt bölümlerinde yer alan “2710.11.45.00.11, 2710.11.45.00.12, 2710.11.45.00.19, 2710.11.49.00.11 ve 2710.11.49.00.19” ibareleri “2710.12.45.00.11, 2710.12.45.00.13, 2710.12.49.00.11 ve 2710.12.49.00.12” şeklinde,
 

@@ -12,4 +12,4 @@ alindi: 2026-11-23
 
 # 4684 Sayılı Kanun ve İlgili Mevzuat
 
-_(Metin GİB portalında yok; ek dosyaya bakınız.)_
+_(Metin GİB portalında yok; kaynak bağlantısına veya eklere bakınız.)_

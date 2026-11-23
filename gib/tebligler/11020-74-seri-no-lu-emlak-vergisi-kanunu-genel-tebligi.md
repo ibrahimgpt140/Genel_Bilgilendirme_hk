@@ -28,13 +28,19 @@ MADDE 3 – (1) 2017 yılında yapılan takdirler nedeniyle bina ve arazi vergis
 (2) Bu mükelleflerin bina, arsa ve arazilerinin 2019 yılı vergi değerleri, 2018 yılı vergi değerlerinin, bu yıla ait yeniden değerleme oranının yarısı olan (%23,73/2=) %11,865 (on bir virgül sekiz yüz altmış beş) oranında artırılması suretiyle bulunacak tutarlar olacaktır.
 ÖRNEK 1: Mükellef (A) Yozgat ili, Aydıncık Belediyesi sınırları içinde yer alan meskeni 2010 yılında satın almıştır. 2018 yılı emlak vergi değeri 140.000,00 TL olan meskenin 2019 yılı emlak vergi değeri aşağıda belirtildiği şekilde hesaplanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/74/74_serno_emlak_1.jpg>]
+
 2019 yılı itibarıyla mükellef olacakların emlak vergi değerlerinin tespiti
 MADDE 4 – (1) Mükellefiyeti 2019 yılında başlayanların, mükellefiyetleri ile ilgili bina, arsa ve arazi vergisi tarhiyatına esas alınacak vergi değerleri; takdir komisyonlarınca 2017 yılında takdir edilen asgari ölçüde arsa ve arazi metrekare birim değerlerinin; 2018 yılına ait yeniden değerleme oranının yarısı nispetinde artırılması suretiyle bulunacak asgari ölçüde metrekare birim değeri dikkate alınarak hesaplanacaktır.
 ÖRNEK 2: Mükellef (B) 2018 yılında Iğdır Belediyesi sınırları içinde yer alan 950 m2 büyüklüğünde bir arsa satın almış ve bu arsaya ilişkin emlak vergisi bildirimini ilgili belediyeye vermiştir. Arsanın bulunduğu cadde için takdir komisyonunca 2018 yılından itibaren uygulanmak üzere takdir edilen asgari ölçüde arsa metrekare birim değeri 35,00 TL'dir.
 2018 yılına ait yeniden değerleme oranının yarısı %11,865 olarak tespit edilmiş olduğuna göre, mükellefiyeti 2019 yılında başlayacak bu mükellefin 2018 yılında satın aldığı arsanın 2019 yılı arazi (arsa) vergisine esas vergi değeri aşağıda belirtildiği şekilde hesaplanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/74/74_serno_emlak_2.jpg>]
+
 ÖRNEK 3: Mükellef (C) Antalya ili, Alanya Belediyesi sınırları içinde yer alan 400 m2 arsa üzerinde inşa edilen ve inşaatı 2011 yılında sona ermiş olan bir işyerini 2018 yılında satın almıştır. Betonarme karkas, 1 inci sınıf olan inşaatın dıştan dışa yüzölçümü 120 m2'dir. Bu işyeri için 2019 yılına ait uygulanacak bina metrekare normal inşaat maliyet bedeli 1.308,60 TL'dir. Arsanın bulunduğu cadde için 2018 yılında uygulanan asgari ölçüde arsa metrekare birim değeri 500,00 TL'dir.
 2019 yılına ait asgari ölçüde arsa ve arazi metrekare birim değerlerinin hesabında uygulanacak artış oranı %11,865 olarak tespit edildiğine göre mükellefiyeti 2019 yılında başlayan bu mükellefin işyerinin 2019 yılı vergi değerinin tespitinde emlak (bina) vergi değeri aşağıdaki şekilde hesaplanacaktır. (Vergi değerinin hesabında asansör, klima veya kalorifer payı ilavesi ile aşınma payı indirimi ihmal edilmiştir.)
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/74/74_serno_emlak_3.jpg>]
 
 Yürürlük
 MADDE 5 – (1) Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer.

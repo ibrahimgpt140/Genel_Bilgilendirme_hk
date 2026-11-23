@@ -22,7 +22,7 @@ Buna göre, 1/1/2007 tarihinden itibaren Veraset ve İntikal Vergisi Kanununun 4
 – Para ve mal üzerine düzenlenen yarışma ve çekilişlerde kazanılan ikramiyelerde 2.068 YTL olarak dikkate alınacaktır.
 Öte yandan, Veraset ve İntikal Vergisi Kanununun 16 ncı maddesinde yer alan vergi tarifesi matrah dilim tutarları 1/1/2007 tarihinden geçerli olmak üzere yukarıda belirtilen yeniden değerleme oranında artırılmak suretiyle tespit edilmiştir. Bu nedenle, 1/1/2007 tarihinden itibaren veraset yolu ile veya ivazsız surette meydana gelen intikallerde veraset ve intikal vergisi aşağıdaki tarifeye göre hesaplanacaktır.
 
-Matrah | Veraset yoluyla intikallerde vergi oranı (yüzde) | İvazsız intikallerde vergi oranı (yüzde)
+[Görsel: <icons/ecblank.gif>] | Matrah | Veraset yoluyla intikallerde vergi oranı (yüzde) | İvazsız intikallerde vergi oranı (yüzde)
 İlk | 140.000 YTL için | 1 | 10
 Sonra gelen | 300.000 YTL için | 3 | 15
 Sonra gelen | 640.000 YTL için | 5 | 20

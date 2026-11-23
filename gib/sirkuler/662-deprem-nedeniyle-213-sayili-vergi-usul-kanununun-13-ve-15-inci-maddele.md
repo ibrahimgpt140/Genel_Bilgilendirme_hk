@@ -44,6 +44,8 @@ Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ile Gaziantep ilinin İslahiye 
 Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ile Gaziantep ilinin İslahiye ve Nurdağı ilçelerinde mücbir sebep hali 30.11.2024 tarihinde sona eren mükellefler ile mükellefiyet kaydı belirtilen yerler dışında olmakla birlikte söz konusu yerlerdeki meslek mensuplarıyla arasında deprem tarihi itibarıyla Aracılık ve Sorumluluk Sözleşmesi bulunması nedeniyle mücbir sebep kapsamında değerlendirilen ve mücbir sebep hali 30.11.2024 tarihinde sona eren mükellefler tarafından mücbir sebep halinin başladığı tarihten (06.02.2023) mücbir sebep halinin sona erdiği tarihe (30.11.2024) kadar verilmesi gereken KDV beyannameleri ile Ba-Bs bildirimlerinin verilme süresi ile bu beyannamelere istinaden tahakkuk eden vergilerin ödeme süresi aşağıda yer alan tabloda belirtildiği şekilde yeniden belirlenmiştir.
 KDV beyannameleri ile Ba-Bs bildirimlerinin verilme ve ödeme süreleri
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vuksirku179.png>]
+
 Duyurulur.
 
 Bekir BAYRAKDAR

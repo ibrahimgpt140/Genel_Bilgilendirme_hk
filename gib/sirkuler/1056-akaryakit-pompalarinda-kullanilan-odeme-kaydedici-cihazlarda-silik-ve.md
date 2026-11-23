@@ -19,7 +19,7 @@ Gelir İdaresi Başkanlığı ÖDEME KAYDEDİCİ CİHAZ SİRKÜLERİ/8
 Konusu | : Ödeme Kaydedici Cihazlarda Kullanılacak Kağıt Rulolar.
 Tarihi | : 08/01/2007
 Sayısı | : ÖKC-8/2007-1
-
+[Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 İlgili olduğu maddeler | : 3100 Sayılı Kanun Madde 10
 
 1- Giriş

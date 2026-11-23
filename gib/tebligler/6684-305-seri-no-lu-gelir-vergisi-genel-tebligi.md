@@ -63,6 +63,8 @@ Kar hadleri emsallerine göre düşük olarak tespit edilmiş bulunan emtia içi
 MADDE 4 – (1) Milli piyango bileti, akaryakıt, şeker ve bunlar gibi kar hadleri emsallerine göre düşük olarak tespit edilmiş bulunan emtia için özel hadler belirleme yetkisi 193 sayılı Kanunun 48 inci maddesi ile Maliye Bakanlığına verilmiştir. Bu yetki kullanılarak 2018 yılı için 29/12/2017 tarihli ve 30285 mükerrer sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No: 302) ile belirlenen tutarlar yeniden artırılmıştır.
 (2) Buna göre, anılan maddelerin ticaretini yapanların, 2019 takvim yılında da basit usulden yararlanabilmeleri için alış, satış veya hasılatlarının 31/12/2018 tarihi itibariyle aşağıda belirtilen hadleri aşmaması gerekmektedir.
 
+[Görsel: <http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-12_dosyalar/image002.gif>]
+
 (3) Belirtilen bu malların alım satımı ile uğraşanlar hakkında, basit usulün özel şartları bakımından yukarıdaki hadler dikkate alınmak suretiyle, 2/5/1982 tarihli ve 17682 sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No:136)’ndeki hesaplamalar doğrultusunda işlem yapılacaktır.
 Basit usule tabi mükelleflerde gün sonunda toplu belge düzenleme uygulaması
 MADDE 5 – (1) Basit usulde vergilendirilen mükelleflerle ilgili 6/12/1998 tarihli ve 23545 sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No:215) ile getirilen, belge vermedikleri günlük hasılatları için gün sonunda tek bir fatura düzenlenmesine ilişkin uygulamanın, 31/12/2019 tarihine kadar devam etmesi Vergi Usul Kanununun mükerrer 257 nci maddesinin Bakanlığımıza verdiği yetkiye istinaden uygun görülmüştür.

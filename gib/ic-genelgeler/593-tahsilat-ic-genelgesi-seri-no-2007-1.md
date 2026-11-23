@@ -39,4 +39,4 @@ Buna göre, mahkemeler ile icra müdürlükleri tarafından malvarlığı araşt
 Ayrıca, mahkemeler ve icra müdürlükleri tarafından istenen bilgi ve belgelerin vergi dairelerinin görev alanları ile ilgili bulunmaması veya kayıtlarında mevcut olmaması halinde verilecek cevabi yazıda, bu hususların gerekçeli bir şekilde belirtilmesi icap etmektedir.
 Bilgi edinilmesini ve gereğini rica ederim.
 
-Kemal UNAKITAN Maliye Bakanı
+[Görsel: <icons/ecblank.gif>] | Kemal UNAKITAN Maliye Bakanı

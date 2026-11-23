@@ -193,6 +193,8 @@ Dileyen mükellefler, her hesap dönemine ilişkin ilk ayda (hesap dönemi için
 
 Bu fıkrada yer alan açıklamalar çerçevesinde defter ve berat dosyalarını oluşturma, NES veya Mali Mühürle imzalama/onaylama ve Başkanlık onaylı berat dosyalarını alma süreleri aşağıdaki tabloda belirtilmektedir. Özel hesap dönemini kullanan mükellefler, tabloda yer alan bilgileri, hesap dönemlerinin başlangıç ve bitiş aylarına uygun olarak dikkate alacaklardır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/1_serno_elektronik_def.jpg>]
+
 (6 Sıra No.lu Elektronik Defter Tebliği ile eklenen paragraf; Yürürlük: 01.01.2025) Uygulamadan yararlananlar tarafından hesap dönemi (özel hesap dönemi dahil) bazında oluşturulacak envanter defterine ilişkin olarak;
 
 a) Açılış onayı yerine geçen hesap döneminin ilk gününe ait e-Defter ve berat dosyalarının gelir vergisi mükelleflerinde hesap döneminin ilk ayını takip eden dördüncü ayın 10 uncu günü sonuna kadar, diğer mükelleflerde hesap döneminin ilk ayını takip eden dördüncü ayın 14 üncü günü sonuna kadar,

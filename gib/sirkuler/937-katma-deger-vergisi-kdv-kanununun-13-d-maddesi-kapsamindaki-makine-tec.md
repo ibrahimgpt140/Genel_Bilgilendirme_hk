@@ -22,6 +22,9 @@ Konusu | : Katma Değer Vergisi (KDV) Kanununun 13/d maddesi kapsamındaki makin
 Tarihi | : 21/03/2007
 Sayısı | : KDVK-47/2007- 3
 İlgili Olduğu Maddeler | : KDV Kanunu 2, 13/d
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 A.Giriş
 Başkanlığımıza intikal eden olaylardan, teşvik belgesine sahip mükelleflerin finansal kiralama şirketleri aracılığıyla gerçekleştirdikleri yatırımlar kapsamında finansal kiralama şirketlerine yapılan makine-teçhizat teslimlerinde KDV Kanununun 13/d maddesinde yer alan istisnanın uygulanıp uygulanamayacağı hususunda tereddüte düşüldüğü anlaşılmaktadır.

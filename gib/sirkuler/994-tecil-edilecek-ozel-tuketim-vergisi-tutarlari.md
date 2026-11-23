@@ -18,6 +18,7 @@ Konusu | : Tecil Edilecek Özel Tüketim Vergisi Tutarları
 Tarihi | : 27.07.2010
 Sayısı | : ÖTV-1/2010-4
 İlgili Olduğu Maddeler | : ÖTV Kanunu Madde 8 ve 12. Maddeler
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 25/07/2010 tarihli ve 27652 sayılı Resmi Gazete'de yayımlanan 07/06/2010 tarihli ve 2010/668 sayılı Bakanlar Kurulu Kararının 1 inci maddesi ile 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I) sayılı listenin (B) cetvelindeki malların aynı Kanunun 8 inci maddesinin (1) numaralı fıkrası uyarınca tesliminde, birimi itibariyle bu mallar için yürürlükte olan özel tüketim vergisi tutarının uygulanacağı ve bu tutarın söz konusu cetveldeki malların karşılarında gösterilen orana göre hesaplanacak vergi tutarının tecil edileceği hükme bağlanmıştır.
 Buna göre söz konusu kararname kapsamında ÖTV Kanununun 8 inci maddesinin (1) numaralı fıkrası uyarınca (I) sayılı listenin (B) cetvelinde yer alan mallar için G.T.İ.P. numaraları itibariyle uygulanacak yürürlükteki ÖTV, tecil ve tahsil tutarlarına ilişkin tablo aşağıda yer almaktadır.

@@ -146,80 +146,80 @@ Yatırım indirimine ilişkin endeksleme uygulaması aşağıda yeralan örnekle
 (A) Anonim Şirketi'nin 1995-1999 yıllarında 10.000.000.000.– liralık yatırım tutarı ve yararlanılacak teşvik tedbirleri bölümünde %30 oranında yatırım indirimi olan yatırım teşvik belgesini 15.1.1995 tarihinde almıştır. Buna göre firmanın 1995 yılında 2.000.000.000.– lira yatırım harcaması, 200.000.000.– lira yatırım indirimi uygulanabilecek kazancı, 1996 yılında 1.500.000.000.– lira yatırım harcaması, 300.000.000.– lira yatırım indirimi uygulanabilecek kazancı, 1997 yılında 2.500.000.000.– lira yatırım harcaması, 600.000.000.– lira yatırım indirimi uygulanabilecek kazancı, 1998 yılında 2.000.000.000 lira yatırım harcaması, 500.000.000.– lira yatırım indirimi uygulanabilecek kazancı, 1999 yılında 2.000.000.000.– lira yatırım harcaması, 100.000.000.– lira yatırım indirimi uygulanabilecek kazancı,2000 yılında 1.500.000.000.– lira, 2001 yılında 1.000.000.000.– lira, 2002 yılında ise 6.000.000.000.– lira yatırım indirimi uygulanabilecek kazancı mevcuttur. Endeksleme katsayısının da her yıl için %50 olduğunu varsayalım.
 Buna göre, yatırım indirimine ilişkin endeksleme uygulaması yıllar itibariyle aşağıdaki şekilde olacaktır.
 
-1995 Yılı uygulaması:
+1995 Yılı uygulaması: | [Görsel: <icons/ecblank.gif>]
 - Yapılan yatırım harcaması | 2.000.000.000.–TL
 - Yatırım indirimi oranı | %30
 - İndirilebilecek yatırım indirimi tutarı (2.000.000.000 X 0,30) | 600.000.000.–TL
 – Yatırım indirimi uygulanabilecek kazanç | 200.000.000.–TL
 – Devreden yatırım indirimi (200.000.000 - 600.000.000), | 400.000.000.–TL
 
-1996 Yılı uygulaması:
+1996 Yılı uygulaması: | [Görsel: <icons/ecblank.gif>]
 – Yapılan yatırım harcaması | 1.500.000.000.–TL
 – Yatırım indirimi oranı . | %30
 – İndirilebilecek yatırım indirimi tutarı (1.500.000.000 X 0,30) | 450.000.000.–TL
-(1.500.000.000 X 0,30)
+(1.500.000.000 X 0,30) | [Görsel: <icons/ecblank.gif>]
 – 1995 yılından devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar (400.000.000 X 0,50 = 200.000.000) (400.000.000 + 200.000.000 = 600.000.000) | 600.000.000.–TL
 – İndirilebilecek toplam yatırım indirimi tutarı (600.000.000 + 450.000.000) | 1.050.000.000.–TL
 – Yatırım indirimi uygulanabilecek kazanç (300.000.000 - 1.050.000.000) | 300.000.000.–TL
 – Uygulanamayan ve b ir sonraki yıla devreden yatırım indirimi tutarı (1995 yılına ait olanı 300.000.000) (1996 yılına ait olanı 450.000.000) | 750.000.000.–TL
 
-1997 yılı uygulaması:
+1997 yılı uygulaması: | [Görsel: <icons/ecblank.gif>]
 – Yapılan yatırım harcaması | 2.500.000.000.–TL
 – Yatırım indirimi oranı | %30
 – İndirilebilecek yatırım indirimi tutarı (2.500.000.000 X 0,30) | 750.000.000.–TL
 – Bir önceki yıldan devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar | 1.125.000.000.–TL
-a) 1995 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (300.000.000 x 0,50) = 150.000.000.–TL (300.000.000 + 150.000.000)= 450.000.000.–Tl
-b) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (450.000.000 X 0,50) = 225.000.000.–TL (450.000.000 + 225.000.000)=675.000.000.–TL
+a) 1995 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (300.000.000 x 0,50) = 150.000.000.–TL (300.000.000 + 150.000.000)= 450.000.000.–Tl | [Görsel: <icons/ecblank.gif>]
+b) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (450.000.000 X 0,50) = 225.000.000.–TL (450.000.000 + 225.000.000)=675.000.000.–TL | [Görsel: <icons/ecblank.gif>]
 – İndirilebilecek toplam yatırım indirimi tutarı | 1.875.000.000.–TL
 – Yatırım indirimi uygulanabilecek kazanç | 600.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (1996 yılına ait olanı 525.000.000) (1997 yılına ait olanı 750.0 00.000) | 1.275.000.000.–TL
 
-1998 yılı uygulaması:
+1998 yılı uygulaması: | [Görsel: <icons/ecblank.gif>]
 – Yapılan yatırım harcaması | 2.000.000.000.–TL
 – Yatırım indirimi oranı | %30
 – İndirilebilecek yatırım indirimi tutarı (2.000.000.000 X 0,30) | 600.000.000.–TL
 – Bir önceki yıldan devreden yatırım indirimi tutarının endeksle nmesi sonucu indirilebilecek tutar | 1.912.500.000.–TL
-a) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (525.000.000 X 0,50) = 262.500.000.–TL (525.000.000 + 262.500.000) = 787.500.000.–TL
-b) 1997 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (750.000.000 X 0,50) = 375.000.000.–TL (750.000.000 + 375.000.000) =1.125.000.000.–TL
+a) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (525.000.000 X 0,50) = 262.500.000.–TL (525.000.000 + 262.500.000) = 787.500.000.–TL | [Görsel: <icons/ecblank.gif>]
+b) 1997 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (750.000.000 X 0,50) = 375.000.000.–TL (750.000.000 + 375.000.000) =1.125.000.000.–TL | [Görsel: <icons/ecblank.gif>]
 – İndirilebilecek toplam yatırım indirimi tutarı | 2.512.500.000.–TL
 – Yatırım indirimi uygulanabilecek kazanç | 500.000·000.-TL
 - Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (1996 yılına ait olanı 287.500.000) (1997 yılına ait olanı 1.125.000.000) (1998 yılına ait olanı 600.000.000) | 2.012.500.000.-TL
 
-1999 yılı uygulanması :
+1999 yılı uygulanması : | [Görsel: <icons/ecblank.gif>]
 – Yapılan yatırım harcaması | 2·000.000.000.–TL
 - Yatırım indirimi oranı | %30
 – İndirilebilecek yatırım indirimi tutarı | 600.000.000.–TL
-(2.000.000.000 X 0.30)
+(2.000.000.000 X 0.30) | [Görsel: <icons/ecblank.gif>]
 – Bir önceki yıldan devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar | 3.018.750.000.–TL
-a) 1996 yılına ilişkin olup ind irilemeyerek devreden yatırım indirimi tutarı (287.500.000 X 0,50) = 143.750.000 -TL (287.500.000 + 143.750.000) = 431.250.000.–TL
-b) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.125.000.000 X 0,50) = 562.500.000.–TL (1.125.000.000 + 562.500.000)=1.687.500.000.–TL
-c) 1998 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (600.000.000 X 0,50) = 300.000.000.–TL (600.000.000 + 300.000.000) = 900.000.000.–TL
+a) 1996 yılına ilişkin olup ind irilemeyerek devreden yatırım indirimi tutarı (287.500.000 X 0,50) = 143.750.000 -TL (287.500.000 + 143.750.000) = 431.250.000.–TL | [Görsel: <icons/ecblank.gif>]
+b) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.125.000.000 X 0,50) = 562.500.000.–TL (1.125.000.000 + 562.500.000)=1.687.500.000.–TL | [Görsel: <icons/ecblank.gif>]
+c) 1998 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (600.000.000 X 0,50) = 300.000.000.–TL (600.000.000 + 300.000.000) = 900.000.000.–TL | [Görsel: <icons/ecblank.gif>]
 – İndirilebilecek toplam yatırım indirimi tutarı | 3.618.750.000.–TL
 - Yatırım indirimi uygulanabilecek kazanç | 100.000·000.–TL
 - Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (1996 yılına ait olanı 331.250.000) (1997 yılına ait olanı 1.687.500.000) (1998 yılına ait olanı 900.000.000) (1999 yılına ait olanı 600.000.000) | 3.518.750.000.–TL
 
-2000 yılı uygulaması :
+2000 yılı uygulaması : | [Görsel: <icons/ecblank.gif>]
 – Bir önceki yıldan devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar | 5.112.500.000.–TL
-a) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (331.250.000)
-b) 1997 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (1.687.500.000 X 0,50) = 843.750.000.–TL (1.687.500.000 + 843.750.000) = 2.531.250.000.–TL
-c) 1998 yılına ilişkin ve indirilemeyen yatırım indirimi tutarı (900.000.000 X 0,50) = 450.000.000.–TL (900.000.000 + 450.000.000) = 1.350.000.000.–TL
-d) 1999 yılına ilişkin ve indirilemeyen yatırım indirimi tutarı (600.000.000 X 0,50) = 300 000.000.–TL (600.000.000 + 300.000.000) = 900.000.000.–TL
+a) 1996 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (331.250.000) | [Görsel: <icons/ecblank.gif>]
+b) 1997 yılına ilişkin olup indirilemeyen yatırım indirimi tutarı (1.687.500.000 X 0,50) = 843.750.000.–TL (1.687.500.000 + 843.750.000) = 2.531.250.000.–TL | [Görsel: <icons/ecblank.gif>]
+c) 1998 yılına ilişkin ve indirilemeyen yatırım indirimi tutarı (900.000.000 X 0,50) = 450.000.000.–TL (900.000.000 + 450.000.000) = 1.350.000.000.–TL | [Görsel: <icons/ecblank.gif>]
+d) 1999 yılına ilişkin ve indirilemeyen yatırım indirimi tutarı (600.000.000 X 0,50) = 300 000.000.–TL (600.000.000 + 300.000.000) = 900.000.000.–TL | [Görsel: <icons/ecblank.gif>]
 – Yatırım indirimi u ygulanabilecek kazanç | 1.500.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (1997 yılına ilişkin olanı 1.362.500.000) (1998 yılına ilişkin olanı 1.350.000.000) (1999 yılına ilişkin olanı 900.000.000) | 3.612.500.000.–TL
 
-200 1 yılı uygulaması :
+200 1 yılı uygulaması : | [Görsel: <icons/ecblank.gif>]
 – Bir önceki yıldan devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar | 4.737.500.000.–TL
-a) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.362.500.000)
-b) 1998 yılına ilişki n olup indirilemeyerek devreden yatırım indirimi tutarı (1.350.000.000 0,50 = 675.000.000) (1.350.000.000 + 675.000.000 = 2.025.000.000)
-c) 1999 yılına ilişkin ve indirilemeyerek devreden yatırım indirimi tutarı (900.000.000 X 0,50) = 450.000.000.–TL (900.000.000 + 450.000.000)=1.350.000.000.–TL
+a) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.362.500.000) | [Görsel: <icons/ecblank.gif>]
+b) 1998 yılına ilişki n olup indirilemeyerek devreden yatırım indirimi tutarı (1.350.000.000 0,50 = 675.000.000) (1.350.000.000 + 675.000.000 = 2.025.000.000) | [Görsel: <icons/ecblank.gif>]
+c) 1999 yılına ilişkin ve indirilemeyerek devreden yatırım indirimi tutarı (900.000.000 X 0,50) = 450.000.000.–TL (900.000.000 + 450.000.000)=1.350.000.000.–TL | [Görsel: <icons/ecblank.gif>]
 – Yatırım indirimi uygulanabilecek kazanç | 1.000.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (1997 yılına ait olanı 362.500.000) (1998 yılına ait olanı 2. 025.000.000) (1999 yılına ait olanı 1.350.000.000) | 3.737.500.000.–TL
 
-2002 Yılı Uygulaması :
+2002 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – Bir önceki yıldan devreden yatırım indirimi tutarının endekslenmesi sonucu indirilebilecek tutar | 4.412.500.000.–TL
-a) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (362.500.000)
-b) 1998 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (2.025.000.000)
-c) 1999 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.350.000.000 X 0,50 = 675.000.000) (1.350.000.000 + 675.000.000=2.025.000.000)
+a) 1997 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (362.500.000) | [Görsel: <icons/ecblank.gif>]
+b) 1998 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (2.025.000.000) | [Görsel: <icons/ecblank.gif>]
+c) 1999 yılına ilişkin olup indirilemeyerek devreden yatırım indirimi tutarı (1.350.000.000 X 0,50 = 675.000.000) (1.350.000.000 + 675.000.000=2.025.000.000) | [Görsel: <icons/ecblank.gif>]
 – Yatırım indirimi uygulanabilecek kazanç | 6.000.000.000.–TL
 – Vergiye tabi kazanç (6.000.000.000 - 4.412.500.000) | 1.587.500.000.–TL
 
@@ -253,14 +253,14 @@ Sözkonusu firmanın bu belgeler için yukarıda belirtilen yıllarda yaptığı
 Endeksleme katsayısının da her yıl için %50 olduğunu varsayalım.
 Buna göre yatırım indirimine ilişkin endeksleme uygulaması yıllar itibariyle aşağıdaki şekilde olacaktır.
 
-1995 Yılı Uygulaması :
+1995 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – (X) belgesine göre yapılan yatırım harcaması | 4.000.000.000.–TL
 – Yatırım İndirimi oranı | %30
 – İndirilebilecek Yatırım İndirimi tutarı (4.000.000.000 X 0,30) | 1.200.000.000.–TL
 – Yatırım indirimi uygulanabilecek kazanç | 700.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (700.000.000-1.200.000.000). | 500.00.000.–TL
 
-1996 Yılı Uygulaması :
+1996 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – (X) Belgesine göre yapılan yatırım harcaması | –
 – (Y) Belgesine göre yapılan yatırım harcaması | 2.000.000.000.– TL
 – Her iki belgeye göre yapılan toplam yatırım harcaması | 2.000.000.000.–TL
@@ -270,10 +270,10 @@ Buna göre yatırım indirimine ilişkin endeksleme uygulaması yıllar itibariy
 – Her iki belgeye göre indirilebilecek toplam yatırım indirimi tutarı | 2.750.000.0 00.–TL
 – Yatırım indirimi uygulanabilecek kazanç | 500.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı | 2.250.000.000.–TL
-(X) Belgesi 1995 yılına ilişkin 250.000.000)
-(Y) Belgesi 1996 yılına ilişkin 2.000.000.000)
+(X) Belgesi 1995 yılına ilişkin 250.000.000) | [Görsel: <icons/ecblank.gif>]
+(Y) Belgesi 1996 yılına ilişkin 2.000.000.000) | [Görsel: <icons/ecblank.gif>]
 
-1997 Yılı Uygulaması :
+1997 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – (X) Belgesine göre yapılan yatırım harcaması | 4.000.000.000.–TL
 – (Y) Belgesine göre yapılan yatırım harcaması | 2.000.000.000.–TL
 – Her iki belgeye göre yapılan toplam yatırım harcaması | 6.000.00.000.–TL
@@ -287,7 +287,7 @@ Buna göre yatırım indirimine ilişkin endeksleme uygulaması yıllar itibariy
 – Yatırım indirimi uygulanabilecek kazanç | 1.500.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (Y) Belgesi 1996 yılına ilişkin 1.875.000.000) (X) Belgesi 1997 yılına ilişkin 1.200.000.000) (Y) Belgesi 1997 yılına ilişkin 2.000.000.000) | 5.075.000.000.–TL
 
-1998 Yılı Uygulaması :
+1998 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – (Y) Belgesine göre yapılan yatırım harcaması | 2.000.000.000.–TL
 – Yatırım indirimi oranı | %100
 – İndirilebilecek yatırım indirimi tutarı (2.000.000.000 X 100) | 2.000.000.000.–TL
@@ -298,19 +298,19 @@ Buna göre yatırım indirimine ilişkin endeksleme uygulaması yıllar itibariy
 – Yatırımı indirimi uygulanabilecek kazanç | 2.500.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (Y) Belgesi, 1996 yılına ilişk in 312.500.000.– (X) Belgesi, 1997 yılına ilişkin 1.800.000.000.– (Y) Belgesi, 1997 yılına ilişkin 3.000.000.000.– (Y) Belgesi, 1998 yılına ilişkin 2.000.000.000.– | 7.112.500.000.–TL
 
-1999 Yılı Uygulaması :
+1999 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – İndirebilecek toplam yatırım indirimi tutarı | 10.668.750.000.–TL
-(Y) Belgesi, 1996 yılına ilişkin olup 1998 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (312.500.000 X 0,50 = 156.250.000) (312.500.000 + 156.250.000 = 468.750.000)
-(X) Belgesi, 1997 yılına ilişkin olup 1998 yılından de vreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (1.800.000.000 X 0,50 = 900.000.000) (1.800.000.000 + 900.000.000 = 2.700.000.000)
-(Y) Belgesi, 1997 yılına ilişkin olup 1998 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (3.000.000.000 X 0,50 = 1.500.000.000) (3.000.000.000 + 1.500.000.000 = 4.500.000.000)
-(Y) Belgesi, 1998 yılına ilişkin olup bu yıldan devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (2.000.000.000 X 0,50 = 1.000.000.000) (2.000.000.000 + 1.000.000.000 = 3.000.000.000)
+(Y) Belgesi, 1996 yılına ilişkin olup 1998 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (312.500.000 X 0,50 = 156.250.000) (312.500.000 + 156.250.000 = 468.750.000) | [Görsel: <icons/ecblank.gif>]
+(X) Belgesi, 1997 yılına ilişkin olup 1998 yılından de vreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (1.800.000.000 X 0,50 = 900.000.000) (1.800.000.000 + 900.000.000 = 2.700.000.000) | [Görsel: <icons/ecblank.gif>]
+(Y) Belgesi, 1997 yılına ilişkin olup 1998 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (3.000.000.000 X 0,50 = 1.500.000.000) (3.000.000.000 + 1.500.000.000 = 4.500.000.000) | [Görsel: <icons/ecblank.gif>]
+(Y) Belgesi, 1998 yılına ilişkin olup bu yıldan devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (2.000.000.000 X 0,50 = 1.000.000.000) (2.000.000.000 + 1.000.000.000 = 3.000.000.000) | [Görsel: <icons/ecblank.gif>]
 – Yatırım indirimi uygulanabilecek kazanç | 5.500.000.000.–TL
 – Uygulanamayan ve bir sonraki yıla devreden yatırım indirimi tutarı (Y) Belgesi, 1997 yılına ilişkin 2.168.750.000.– ( Y) Belgesi, 1998 yılına ilişkin 3.000.000.000.– | 5.168.750.000.–TL
 
-2000 Yılı Uygulaması :
+2000 Yılı Uygulaması : | [Görsel: <icons/ecblank.gif>]
 – İndirilebilecek toplam yatırım indirimi tutarı | 7.753.125.000.–TL
-(Y) Belgesi, 1997 yılına ilişkin olup 1999 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (2.168.750.000 X 0,50 = 1.084.375.000) (2.168.750.000 + 1.084.375.000 = 3.253.125.000)
-(Y) Belgesi, 1998 yılına ilişkin olup 1999 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (3.000.000.000 X 0,50 = 1.500.000.000) (3.000.000.000 + 1.500.000.000 = 4.500.000.000)
+(Y) Belgesi, 1997 yılına ilişkin olup 1999 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (2.168.750.000 X 0,50 = 1.084.375.000) (2.168.750.000 + 1.084.375.000 = 3.253.125.000) | [Görsel: <icons/ecblank.gif>]
+(Y) Belgesi, 1998 yılına ilişkin olup 1999 yılından devreden ve endeksleme sonucu indirilebilecek yatırım indirimi tutarı (3.000.000.000 X 0,50 = 1.500.000.000) (3.000.000.000 + 1.500.000.000 = 4.500.000.000) | [Görsel: <icons/ecblank.gif>]
 – Yatırım indirimi uygulanabilecek kazanç | 9.000.000.000.–TL
 – Vergilendirilecek kazanç | 1.246.875.000.–TL
 

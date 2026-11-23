@@ -24,6 +24,8 @@ Değerli kağıt bedelleri
 
 MADDE 3 – (1) 210 sayılı Kanuna ekli Değerli Kağıtlar Tablosunda yer alan değerli kağıtların bedelleri aşağıdaki şekilde belirlenmiştir:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/degerlikagitlar66.gif>]
+
 (2) Birinci fıkrada yer alan tabloda belirtilen değerli kağıtlar muhasebe birimleri, yetkili memurlar, noterler ve noterlik görevini yapan memurlar ile bankalar tarafından yeni bedelleri üzerinden satılır.
 
 (3) Muhasebe birimleri ve yetkili memurlarda mevcut değerli kağıtların yeniden değerlendirilmesi ve muhasebeleştirilmesi işlemleri 27/12/2014 tarihli ve 29218 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe Yönetmeliği hükümlerine göre yürütülür.

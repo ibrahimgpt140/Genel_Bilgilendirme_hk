@@ -28,14 +28,22 @@ MADDE 4 – (1)
 A. (I) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 1/1/2018 tarihinden (bu tarih dahil) sonra kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtlar ile motosikletler aşağıdaki (I) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/mtv/52_serno_mtv_1.jpg>]
+
 B. (II) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 (I) ve (I/A) sayılı tarifelerde yazılı otomobil, arazi taşıtı, kaptıkaçtı ve benzerleri ile motosikletler dışında kalan motorlu kara taşıtları, aşağıdaki (II) sayılı tarifeye göre vergilendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/mtv/52_serno_mtv_2.jpg>]
 
 C. (IV) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 Uçak ve helikopterler (Türkkuşu, Türk Hava Kurumuna ait olanlar hariç) aşağıdaki (IV) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/mtv/52_serno_mtv_3.jpg>]
+
 D. (I/A) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 31/12/2017 tarihinden (bu tarih dahil) önce kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtlar, 197 sayılı Kanunun geçici 8 inci maddesinde düzenlenen (I/A) sayılı tarifeye göre vergilendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/mtv/52_serno_mtv_4.jpg>]
 
 Yürürlük
 MADDE 5 – (1) Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer.

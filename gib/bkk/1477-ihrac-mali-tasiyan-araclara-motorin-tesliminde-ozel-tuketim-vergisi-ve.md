@@ -23,3 +23,5 @@ MADDE 2– Aynı Karara aşağıdaki geçici madde eklenmiştir.
 "GEÇİCİ MADDE 1- (1) Ekli listede yer alan Çıldır Aktaş, Dilucu, Kapıköy ve Sarp kara sınır kapıları ile Alsancak, Derince, Giresun, İskenderun, Karasu, Samsun, Trabzon, Yalova ve Zonguldak deniz sınır kapılarında istisna uygulamasına, bu sınır kapılarındaki gümrüklü sahada akaryakıt istasyonlarının kurulduğunun ve genel güvenlik önlemlerinin alındığının, Gümrük ve Ticaret Bakanlığının olumlu görüşü üzerine Maliye Bakanlığınca tespit edildiği tarihten itibaren başlanır."
 MADDE 3– Bu Karar yayımı tarihinde yürürlüğe girer.
 MADDE 4– Bu Karar hükümlerini Maliye Bakanı yürütür.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Bkk/2017_10467BKK_ek.jpg>]

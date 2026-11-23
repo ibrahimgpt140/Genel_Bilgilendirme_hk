@@ -22,6 +22,9 @@ Konusu | : Kasım / 2007 vergilendirme dönemine ait Katma Değer Vergisi Beyann
 Tarihi | : 24/12/2007
 Sayısı | : KDVK-50/2007-6
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanunu Madde 41/1, 41/4 ve 46/1
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1.Giriş:
 Kasım/2007 vergilendirme dönemine ait katma değer vergisi beyannamelerinin verilme süresinin uzatılması bu sirkülerin konusunu oluşturmaktadır.

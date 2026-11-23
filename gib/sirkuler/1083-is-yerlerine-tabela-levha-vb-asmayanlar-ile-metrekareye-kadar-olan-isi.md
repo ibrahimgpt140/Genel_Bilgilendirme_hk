@@ -28,6 +28,8 @@ Tarihi | : 14.12.2006
 
 Sayısı | : BGK-2/2006-1
 
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+
 İlgili olduğu maddeler | : 2464 sayılı Belediye Gelirleri Kanunu'nun 12, 13, 14, 15 ve 16 ncı maddeleri
 
 1 - Giriş

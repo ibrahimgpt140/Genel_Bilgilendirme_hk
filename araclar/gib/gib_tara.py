@@ -67,6 +67,8 @@ def metne(html):
     if not html:
         return ""
     soup = BeautifulSoup(html, "html.parser")
+    for im in soup.find_all("img", src=True):  # taranmış belge/tablo görselleri kaybolmasın
+        im.replace_with(f"\n[Görsel: <{im['src']}>]\n")
     for a in soup.find_all("a", href=True):
         a.replace_with(f"{a.get_text(' ', strip=True)} <{a['href']}>")
     for tr in soup.find_all("tr"):
@@ -116,7 +118,7 @@ def yaz(tur, k):
     if dosyalar:
         satir += ["**Ekler:** " + ", ".join(
             f"<https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey={f}>" for f in dosyalar), ""]
-    satir += [metne(k.get("description")) or "_(Metin GİB portalında yok; ek dosyaya bakınız.)_", ""]
+    satir += [metne(k.get("description")) or "_(Metin GİB portalında yok; kaynak bağlantısına veya eklere bakınız.)_", ""]
     yeni = "\n".join(satir)
     if os.path.exists(yol):
         eski = open(yol, encoding="utf-8").read()

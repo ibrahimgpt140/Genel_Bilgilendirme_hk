@@ -51,14 +51,14 @@ Buna göre, 29/7/1998 tarihinden itibaren yeni beyanname verecek mükellefler il
 ÖRNEK: Mükellef (A) asgari beyan değeri 2.5 milyar lira olan arazisini 10 milyar lira olarak beyan etmiştir. Kanunun yayımı tarihinden sonra beyanname veren bu mükellef 250 milyon liralık arazi vergisi istisnasından yararlanacaktır. Diğer taraftan, asgari beyan değeri üzerinden vergininin hesabında 1 milyon liralık eski istisna dikkate alınacaktır. Buna göre, mükellefin 1998 yılında ödemesi gereken vergi aşağıdaki gibi hesaplanacaktır.
 
 — | Mükellefin beyanı (matrah) | : | 9.750.000.000 TL.
-(10.000.000.000-250.000.000=)
+[Görsel: <icons/ecblank.gif>] | (10.000.000.000-250.000.000=) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Hesaplanan arazi vergisi | : | 9.750.000 TL.
-(9.750.000.000 x % 01=)
+[Görsel: <icons/ecblank.gif>] | (9.750.000.000 x % 01=) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Asgari ölçülere göre bulunan değer | : | 2.500.000.000 TL.
 — | Asgari ölçülere göre bulunan matrah | : | 2.499.000.000 TL.
-(2.500.000.000-1.000.000=)
+[Görsel: <icons/ecblank.gif>] | (2.500.000.000-1.000.000=) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Asgari değerlere göre bulunan vergi | : | 7.497.000 TL.
-(2.499.000.000 x % 03)
+[Görsel: <icons/ecblank.gif>] | (2.499.000.000 x % 03) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Ödenmesi gereken arazi vergisi | : | 9.750.000 TL.
 
 Mükellefin beyanı üzerinden hesaplanan vergi, asgari ölçülere dikkate alınarak hesaplanan vergiden fazla olduğundan, beyanı üzerinden hesaplanan 9.750.000 lira arazi vergisi iki eşit taksitte ödencektir.
@@ -88,9 +88,9 @@ Buna göre mükellefin ödeyeceği bina vergisi aşağıdaki gibi olacaktır.
 
 — | Binanın rayiç değeri | : | 24 milyar TL.
 — | Bina vergisinin matrahı | : | 18 milyar TL.
-(24 milyar-6 milyar=)
+[Görsel: <icons/ecblank.gif>] | (24 milyar-6 milyar=) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Hesaplanan bina vergisi | : | 18 milyon TL.
-(18 milyar x % 01=)
+[Görsel: <icons/ecblank.gif>] | (18 milyar x % 01=) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 — | Asgari ölçülere göre bulunan değeri | : | 8 milyar TL.
 — | Asgari ölçülere göre bulunan vergi değerine göre bulunan matrah ( 8 milyar-2 milyar=) | : | 6 milyar TL.
 — | Asgari değere göre bulunan vergi (6 milyarx %04=) | : | 24 milyon TL.
@@ -100,11 +100,11 @@ Emekli maaşı alan ve indirimli vergi oranı uygulananların durumuna ilişkin 
 ÖRNEK: T.C. Emekli Sandığı'ndan emekli maaşı alan ve başkaca bir geliri olmayan mükellef emekli (C), Kanunun yayımı tarihine kadar beyanda bulunmamıştır. Bu mükellef 1998 genel beyan döneminde asgari beyan değeri 4 milyar lira olan tek konutunu 8 milyar lira olarak beyan etmiştir. İndirimli vergi oranı kapsamında bulunanlara uygulanacak vergi oranı 98/10752 sayılı Bakanlar Kurulu Kararı ile binde 2 olarak belirlenmiştir. Buna göre, mükellefin ödeyeceği vergi aşağıdaki gibi olacaktır.
 
 — | Mükellefin beyanı (matrah) | : | 8 milyar TL.
-Hesaplanan bina vergisi | : | 8 milyon TL.
-(8 milyar x % 01=) | :
+[Görsel: <icons/ecblank.gif>] | Hesaplanan bina vergisi | : | 8 milyon TL.
+[Görsel: <icons/ecblank.gif>] | (8 milyar x % 01=) | : | [Görsel: <icons/ecblank.gif>]
 — | Asgari ölçülere göre bulunan değer | : | 4 milyar TL.
 — | Asgari değerlere göre bulunan vergi | : | 8 milyon TL.
-(4 milyar x % 02)
+[Görsel: <icons/ecblank.gif>] | (4 milyar x % 02) | [Görsel: <icons/ecblank.gif>] | [Görsel: <icons/ecblank.gif>]
 
 Mükellefin beyanına göre hesaplanan 8 milyon lira vergi, asgari beyan değerine göre bulunan vergi ile aynı olduğundan beyanı üzerinden hesaplanan 8 milyon lira vergiyi 2 eşit taksitte ödeyecektir. Ancak, Bakanlar Kurulu yetkisini kullanarak 1999 yılı için vergi oranını "0" (sıfır) olarak belirlediğinde, bu mükellef 1999 yılına ilişkin olarak herhangi bir vergi ödemeyecektir.
 

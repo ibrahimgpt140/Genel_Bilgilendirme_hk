@@ -22,6 +22,9 @@ Konusu | : Tekstil ve konfeksiyon sektöründeki fason işlerde uygulanacak katm
 Tarihi | : .../07/2007
 Sayısı | : KDVK-49/2007- 5
 İlgili Olduğu Maddeler | : KDV Kanunu 28. madde
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 Başkanlığımıza intikal eden olaylardan, tekstil ve konfeksiyon sektöründeki fason işlerde uygulanacak KDV oranı konusunda tereddüte düşüldüğü anlaşılmaktadır.
 KDV Kanununun 28 ve 36. maddelerinin verdiği yetkiye dayanılarak çıkarılan 2007/12143 sayılı Kararnamenin 5. maddesi ile 2002/4480 sayılı Kararname eki II sayılı listenin B bölümüne 22. sıra eklenerek "Fason olarak yapılan tekstil ve konfeksiyon işleri" ne uygulanacak KDV oranı 01/06/2007 tarihinden geçerli olmak üzere %8 olarak belirlenmiştir.

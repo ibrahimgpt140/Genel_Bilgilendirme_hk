@@ -28,13 +28,19 @@ MADDE 4 – (1) İşyerleri ve diğer şekilde kullanılan binalara ait çevre t
 (a) Büyükşehir belediyeleri dışındaki belediyelerde uygulanacak çevre temizlik vergisi tarifesi:
 Büyükşehir belediyeleri dışındaki belediyelerde uygulanacak olan çevre temizlik vergisi tarifesi aşağıda yer almaktadır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Belediye_Gelirleri/50_serno/1.jpg>]
+
 (b) Büyükşehir belediyelerinde uygulanacak çevre temizlik vergisi tarifesi:
 2464 sayılı Kanunun mükerrer 44 üncü maddesinin beşinci fıkrasına göre, büyükşehir belediyelerinde çevre temizlik vergisi, diğer belediyelerde uygulanan çevre temizlik vergisi tutarları %25 artırılarak hesaplanacaktır. Buna göre büyükşehir belediyelerinde uygulanacak olan çevre temizlik vergisi tarifesi aşağıda yer almaktadır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Belediye_Gelirleri/50_serno/2.jpg>]
 
 İndirimli çevre temizlik vergisi uygulaması
 MADDE 5 – (1) 2464 sayılı Kanunun mükerrer 44 üncü maddesinin onikinci fıkrasında, "Bakanlar Kurulu; beşinci fıkradaki tarifede yer alan bina gruplarını belirlemeye ve bu maddenin dördüncü ve beşinci fıkralarında yer alan tutarları yöreler, belediyelerin nüfusları ve bina grupları itibarıyla ayrı ayrı dörtte birine kadar indirmeye veya yarısına kadar artırmaya yetkilidir." hükmü yer almaktadır.
 (2) Bu hükmün verdiği yetkiye dayanılarak yürürlüğe konulan 13/12/2005 tarihli ve 2005/9817 sayılı Bakanlar Kurulu Kararının ekindeki Kararın 7 nci maddesine göre; konut, işyeri ve diğer şekilde kullanılan binalar için belirlenen tutarlar, büyükşehir belediye sınırları içinde bulunanlar hariç olmak üzere kalkınmada öncelikli yörelerdeki belediyeler ile nüfusu 5.000'den az olan belediyelerde %50 indirimli olarak uygulanacaktır.
 (3) Buna göre, kalkınmada öncelikli yörelerdeki belediyeler ile nüfusu 5.000'den az olan belediyelerde bulunan konutlara ait çevre temizlik vergisi su tüketim miktarı esas alınmak suretiyle metreküp başına 12 kuruş olarak hesaplanacak; işyeri ve diğer şekillerde kullanılan binalara ait çevre temizlik vergisi tutarları ise aşağıdaki tarifeye göre hesaplanacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Belediye_Gelirleri/50_serno/3.jpg>]
 
 Yürürlük
 MADDE 6 – (1) Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer.

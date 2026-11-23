@@ -60,7 +60,7 @@ Gelir Vergisi Kanununun 48 inci maddesinin 10 numaralı bendinde belirtilen mük
 Öte yandan, götürü usule tabi olan serbest meslek erbabında ise, Gelir yergisi Kanununun 69 uncu maddesi uyarınca, yukarıda 8 numaralı bentte yer alan hasılat haddi uygulanacaktır.
 Diğer taraftan, sigara, içki, damga pulu, milli piyango bileti, akaryakıt, şeker ve bunlar gibi kar hadleri emsallerine nazaran bariz şekilde düşük olarak tespit edilmiş bulunan emtia alım-satımı ile uğraşanlar için yıllık alış, satış ve hasılat tutarları; Gelir Vergisi Kanununun 48 inci maddesinin verdiği yetkiye dayanılarak 1996 takvim yılında uygulanmak üzere Bakanlığımızca aşağıdaki şekilde yeniden tespit edilmiştir.
 
-Büyükşehir Belediye Sınırları Dışında Kalan Yerlerde | Büyükşehir Belediye Sınırları İçinde Kalan Yerlerde
+[Görsel: <icons/ecblank.gif>] | Büyükşehir Belediye Sınırları Dışında Kalan Yerlerde | Büyükşehir Belediye Sınırları İçinde Kalan Yerlerde
 Emtianın Cinsi: | Yıllık Alım Ölçüsü (TL.) : | Yıllık Satış Ölçüsü (TL.) : | Yıllık Alım Ölçüsü (TL.) : | Yıllık Satış Ölçüsü (TL.) :
 D. Pulu-K. Kağıt | 1.500.000.000 | 1.750.000.000 | 2.100.000.000 | 2.400.000.000
 Şeker-Çay | 900.000.000 | 1.150.000.000 | 1.200.000.000 | 1.500.000.000

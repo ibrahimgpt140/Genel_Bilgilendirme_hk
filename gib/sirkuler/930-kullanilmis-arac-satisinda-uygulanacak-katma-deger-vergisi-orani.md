@@ -22,6 +22,8 @@ Konusu | : Kullanılmış araç satışında uygulanacak katma değer vergisi or
 Tarihi | : 29 / 04 / 2010
 Sayısı | : KDV-54/ 2010-2
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanununun 28 inci maddesi
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1. Giriş
 Başkanlığımıza intikal eden olaylardan, kullanılmış araç satışında uygulanacak katma değer vergisi oranına ilişkin tereddüt bulunduğu anlaşılmış olup konu hakkında aşağıdaki açıklamaların yapılması uygun görülmüştür.

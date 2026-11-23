@@ -48,7 +48,7 @@ Marine diesel | 162.550 TL/Litre
 Kalorifer yakıtı | 24.624 TL/Kilogram
 Fuel oil | 14.700 TL/Kilogram
 Sıvılaştırılmış petrol gazı çeşitleri | 1.873 TL/Kilogram
-(LPG, bütan,propan)
+(LPG, bütan,propan) | [Görsel: <icons/ecblank.gif>]
 
 Madde 4- 7/11/1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanununun değişik 4 üncü maddesinin birinci fıkrasında yer alan akaryakıt tüketim vergisi tutarları, aşağıdaki şekilde yeniden tespit edilmiştir.
 Motorin | 175.800 TL/Litre

@@ -22,6 +22,7 @@ Konusu | :Yatırım indiriminden yararlanacak mükelleflere ilişkin gelir vergi
 Tarihi | : 02 /03/2007
 Sayısı | : GVK-60/2007-4/ Yıllık Gelir Vergisi Beyannamesi
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Geçici Madde 69
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1. Giriş
 
@@ -78,4 +79,4 @@ Diğer Gelirlere İsabet eden Vergi= 6.490* 0,50= 3.245 YTL
 Yıllık gelir vergisi beyannamesinin "39 nolu Hesaplanan Gelir Vergisi" satırına aktarılacak tutar = 7.205 YTL (3.960 + 3.245) olacaktır.
 
 Duyurulur.
-Osman ARIOĞLU Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Osman ARIOĞLU Gelir İdaresi Başkanı

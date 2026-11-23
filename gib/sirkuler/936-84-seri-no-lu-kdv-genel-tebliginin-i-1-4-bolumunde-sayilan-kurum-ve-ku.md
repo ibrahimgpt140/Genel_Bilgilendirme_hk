@@ -22,6 +22,9 @@ Konusu | : Sermayelerinin % 51 veya daha fazlası kamuya ait kuruluşların Katm
 Tarihi | : 06/07/2007
 Sayısı | : KDVK-48 /2007-4
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanunu 29/2
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1.Giriş:
 Başkanlığımıza intikal eden olaylardan sermayelerinin % 51 veya daha fazlası kamuya ait kuruluşların Katma Değer Vergisi (KDV) Kanununun 29/2. maddesi çerçevesinde doğan alacaklarının nakden iadesinde inceleme raporu ve teminat aranılıp aranılmayacağı konusunda tereddüde düşüldüğü anlaşılmıştır.

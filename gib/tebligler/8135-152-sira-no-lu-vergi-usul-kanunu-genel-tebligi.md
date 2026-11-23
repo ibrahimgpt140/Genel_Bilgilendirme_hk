@@ -124,7 +124,7 @@ Sıra No. | Derneğin adı | Bulunduğu Yer | Onanma Tarihi Sayısı
 106 | Diyanet İşleri Başkanlığı Mensupları için Hastane Yaptırma Donatma ve Yaşatma Derneği | Ankara | 16.1.1971 | 7/1809
 107 | Yüksek İhtisas Hastanesi Geliştirme Derneği | Ankara | 16.1.1971 | 7/1814
 108 | Türkiye Saralıları Koruma Derneği | Ankara | 8.4.1972 | 7/4262
-109 | Türkiye Çocuk Felci ve Diğer Virus Hastalıklarla Savaş Derneği | Ankara | 11.8.1971
+109 | Türkiye Çocuk Felci ve Diğer Virus Hastalıklarla Savaş Derneği | Ankara | 11.8.1971 | [Görsel: <icons/ecblank.gif>]
 110 | Bilimsel Yayınlar Derneği | Ankara | 26.1.1971 | 7/2908
 111 | Ana ve Çocuk Sağlığını Koruma Derneği | Ankara | 27.6.1972 | 7/1813
 112 | Türkiye Aile Planlaması Derneği | Ankara | 31.1.1972 | 7/4582
@@ -330,7 +330,7 @@ Sıra No. | Derneğin adı | Bulunduğu Yer | Onanma Tarihi Sayısı
 310 | İzmir Atatürk Ormanı Kurma ve Koruma Derneği | İzmir | 1.7.1968 | 6/10257
 311 | Ege Üniversitesi Tıp Fakültesi Cerrahi Kliniği Göğüs ve Kalp Hastalıkları Yardım Derneği | İzmir | 16.1.1971 | 6/11111
 312 | İzmir Hastanelerine Yardım ve İlmi Araştırmaları Teşvik Derneği | İzmir | 18.1.1969 | 6/11261
-313 | Ege Bölgesi Trafik Hastanesi Yaptırma ve Yaşatma Derneği (Trafik Kazalarına Yardım Derneği | İzmir | 22.11.1972
+313 | Ege Bölgesi Trafik Hastanesi Yaptırma ve Yaşatma Derneği (Trafik Kazalarına Yardım Derneği | İzmir | 22.11.1972 | [Görsel: <icons/ecblank.gif>]
 314 | Ege Üniversitesi Yardım Derneği | İzmir | 9.2.1978 | 7/14797
 315 | İzmir Flarmoni Derneği | İzmir | 24.12.1979 | 7/18676
 316 | Kırklareli Verem Savaş Derneği | Kırklareli | 7.6.1951 | 3/13121

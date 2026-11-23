@@ -14,7 +14,11 @@ alindi: 2026-11-23
 
 MADDE 1 – 31/12/2015 tarihli ve 29579 sayılı Resmî Gazete’de yayımlanan “2016 Yılı Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Asgari Ücret Tarifesi”nin eki “EK-1-B”de yer alan “TABLO III” bölümünün “1. KURULUŞ İŞLEMLERİ” başlıklı kısmı aşağıdaki şekilde değiştirilmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/3568tarife_ek1.gif>]
+
 MADDE 2 – Aynı Tarifenin eki “EK-3”te yer alan “2016 YILI YEMİNLİ MALİ MÜŞAVİRLİK TASDİK İŞLEMLERİ ASGARİ ÜCRETLERİ” bölümünün “V YEMİNLİ MALİ MÜŞAVİRLER TARAFINDAN YAPILAN DİĞER İŞ VE İŞLEMLER” başlığı altındaki “1. KURULUŞ İŞLEMLERİ” kısmı aşağıdaki şekilde değiştirilmiştir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/3568tarife_ek2.gif>]
 
 MADDE 3 – Bu Tarife yayımı tarihinde yürürlüğe girer.
 MADDE 4 – Bu Tarife hükümlerini Maliye Bakanı yürütür.

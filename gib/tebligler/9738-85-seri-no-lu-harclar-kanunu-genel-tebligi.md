@@ -28,6 +28,8 @@ MADDE 3 – (1) 492 sayılı Kanuna bağlı tarifelerdeki maktu harçlar ile mak
 
 (2) Bu çerçevede, Türkiye Cumhuriyeti Muvazzaf ve Fahri Konsolosluklarının yapacağı işlemlerden alınacak harç miktarlarının hesaplanmasına esas olacak döviz kuru 1 ABD Doları = 5,82 TL olarak; bu işlemlere uygulanacak emsal sayılar ise aşağıdaki tabloda gösterildiği şekilde yeniden belirlenmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/HKTeb85_ek.jpg>]
+
 Yürürlük
 
 MADDE 4 – (1) Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer.

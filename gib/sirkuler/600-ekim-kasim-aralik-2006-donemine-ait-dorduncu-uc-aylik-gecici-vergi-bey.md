@@ -23,7 +23,7 @@ Tarihi | : 05/02/2007
 Sayısı | : GVK-57/2007-1/Geçici Vergi Beyannamesi-10
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Mükerrer Madde 120, Kurumlar Vergisi Kanunu Madde 32
 İlgili olduğu kazanç türleri | : Ticari Kazanç, Serbest Meslek Kazancı ve Kurum Kazancı
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1-Giriş
 Ekim-Aralık /2006 dönemine ilişkin dördüncü üç aylık geçici vergi beyannamesinin verilme süresinin uzatılması bu Sirkülerin konusunu oluşturmaktadır.
 2. Dördüncü Üç Aylık Geçici Vergi Beyannamesinin Verilme Süresinin Uzatılması
@@ -34,4 +34,4 @@ Ancak, yoğun yıl sonu işlemleri ile ilgili olarak Başkanlığımıza iletile
 
 Bilgi ve gereği ilgililere duyurulur.
 
-Kemal UNAKITAN MALİYE BAKANI
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Kemal UNAKITAN MALİYE BAKANI

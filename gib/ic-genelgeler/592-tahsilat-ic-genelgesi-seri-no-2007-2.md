@@ -54,4 +54,4 @@ Bu şekilde katılımcıların bireysel emeklilik hesabındaki birikimlerinin bi
 
 Bilgi edinilmesini ve gereğinin buna ifasını rica ederim.
 
-Osman ARIOĞLU Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Osman ARIOĞLU Gelir İdaresi Başkanı

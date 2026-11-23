@@ -68,11 +68,17 @@ Taşıma katsayısı, mali tablonun ait olduğu aya ilişkin fiyat endeksinin, b
 
 Taşıma katsayısı kullanılarak parasal olmayan kıymetlerle ilgili olarak yapılacak düzeltme işlemi, aşağıdaki formüle göre hesaplanan taşıma katsayıları ile yapılacaktır(6).
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk_teb_338_01.jpg>]
+
 Örnek
 
 (A) Limited Şirketinin aktifinde yer alan bir demirbaşın 31/12/2003 tarihli enflasyon düzeltmesine tabi tutulmuş dönem sonu bilançosundaki değeri 1.200.000.000 TL.dır. Söz konusu demirbaşın 30/6/2004 tarihli ikinci geçici vergi dönemine ilişkin bilançodaki kayıtlı değeri de 1.200.000.000 TL.dır. 30/6/2004 tarihli bilançonun enflasyon düzeltmesine tabi tutulması işleminde, bu demirbaşın düzeltmeye esas tutarının taşıma katsayısı ile çarpılması gerekmektedir.
 
 Buna göre demirbaşın düzeltilmiş tutarı aşağıdaki şekilde bulunacaktır. (Bu demirbaşa ait birikmiş amortismanın düzeltilmesi ihmal edilmiştir.)
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-02.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-03.jpg>]
 
 3.3. Düzeltme Katsayısı
 
@@ -80,17 +86,31 @@ Düzeltme işlemine tabi tutulacak mali tabloda yer alan iktisadi kıymetlerden 
 
 Düzeltme işlemi aşağıdaki formüle göre hesaplanan düzeltme katsayıları kullanılarak yapılacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-04.jpg>]
+
 Örnek 1
 
 31/12/2003 tarihli dönem sonu bilançosunu enflasyon düzeltmesine tabi tutan (B) işletmesi, (C) Anonim Şirketinin %5 hissesine tekabül eden hisse senetlerini 15/3/2004 tarihinde (D) işletmesinden 50.000.0000.000 TL.na satın almıştır. (B) işletmesinin 30/6/2004 tarihli bilançosunda söz konusu bu menkul kıymetlerin değeri 50.000.000.000 TL. olarak görünecektir. Bu tutarın düzeltilmesi ise aşağıdaki adımların gerçekleştirilmesi ile olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-05.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-06.jpg>]
 
 Örnek 2
 
 31/12/2003 tarihli dönem sonu bilançosunu enflasyon düzeltmesine tabi tutan (E) işletmesinin 05/02/2004 tarihinde demirbaş olarak kullanmak üzere aktifine aldığı 1.000.000.000 TL. tutarındaki bilgisayarın 30/6/2004 tarihli 2 nci geçici vergi dönemine ait bilançodaki düzeltilmiş değeri, düzeltmeye esas tarih itibariyle sahip olduğu değerine düzeltme katsayısı uygulanmak suretiyle aşağıdaki şekilde tespit edilecektir. (Bilgisayarın faydalı ömrü 4 yıldır.)
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-07.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-08.jpg>]
+
 *Bilgisayar İçin Amortisman Hesaplanması:
 
 Bilgisayarın faydalı ömrü 4 yıldır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-09.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-10.jpg>]
 
 3.4. Toplulaştırılmış Yöntemlere Göre Düzeltme Katsayıları
 
@@ -102,11 +122,15 @@ Toplulaştırılmış yöntemler kullanılarak düzeltilebilecek parasal olmayan
 
 Bu yöntemde düzeltme katsayısı, mali tabloların ait olduğu aya ilişkin fiyat endeksinin, bu endeks ile bir önceki geçici vergi döneminin sonundaki fiyat endeksi toplamının ikiye bölünmesi sonucu bulunan endekse bölünmesiyle elde edilen katsayı olarak hesaplanır ve düzeltmeye esas tutar olarak da düzeltme işlemine tabi tutulan bilançoda yer alan stoklara ait değerler esas alınır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-11.jpg>]
+
 Örnek
 
 Perakende hazır giyim ürünleri satışı ile iştigal eden ve 31/12/2003 tarihli dönem sonu bilançosunu enflasyon düzeltmesine tabi tutmuş olan (F) Limited Şirketinin 30/6/2004 tarihli bilançosunda stok mevcudu 20.000.000.000 TL. olarak görünmektedir. İşletme sahipleri, 30/6/2004 tarihli bilançoyu düzeltirken bilançoda görünen stokların düzeltmeye esas tarih ve tutarlarını tespit etmekte zorlanmış bu nedenle stoklarını toplulaştırılmış yöntemlerden basit ortalama yöntemini tercih etmek suretiyle düzeltmeye karar vermişlerdir.
 
 Bu yönteme göre düzeltilmiş stok değerleri aşağıdaki şekilde bulunacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-12.jpg>]
 
 Dönem Ortalama Düzeltme Katsayısı (A) = 7982,7 / [(7982,7 + 7862,2) / 2] = 1,0076
 
@@ -117,6 +141,8 @@ Düzeltilmiş Tutar (A x B) = 20.152.000.000 TL.dır.
 3.4.2. Hareketli Ağırlıklı Ortalama Yöntemi
 
 Bu yöntemde düzeltme katsayısı, enflasyon düzeltmesine tabi tutulmuş dönem başı stoğun ilgili dönemin sonuna taşınmış değeri ile dönem içi alış ve giderlerin enflasyon düzeltmesine tabi tutulmuş değerleri toplamının, dönem başı stok ile dönem içi alış ve giderlerin enflasyon düzeltmesine esas alınacak tutarlarının toplamına bölünmesi ile hesaplanır ve düzeltmeye esas tutar olarak da dönem sonu stoğun enflasyon düzeltmesine esas alınacak tutarı alınır. Bu hesaplamada amortisman ve reel finansman giderleri, endekslenmeden dikkate alınır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-13.jpg>]
 
 Örnek
 
@@ -147,9 +173,19 @@ Buna göre 30/6/2004 tarihli bilançoda görünen stokların, hareketli ağırl�
 
 1. Enflasyon düzeltmesine tabi tutulmuş dönem başı stoğun ilgili dönemin sonuna taşınmış değerinin bulunması:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-14.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-15.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-16.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-17.jpg>]
+
 2. Dönem içi alışların enflasyon düzeltmesine tabi tutulmuş değerlerinin bulunması:
 
 2.1.Düzeltme katsayılarının hesaplanması:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-18.jpg>]
 
 2.2. 1/1/2004 tarihinden sonra işletmeye giren malların 30/6/2004 tarihinde düzeltmeye tabi tutulması:
 
@@ -167,6 +203,8 @@ TOPLAM | 2.900.000 | 2.955.878 | 3.250.000 | 3.328.155
 
 A malı için,
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-19.jpg>]
+
 Dönem Sonu Stoğun Hareketli Ağırlıklı Ortalama Yöntem Kullanılarak Bulunan Taşınmış Değeri:
 
 30/6/2004 tarihi itibariyle stok tutarı = 2.200.000
@@ -175,6 +213,8 @@ Hareketli ağırlıklı ortalama düzeltme katsayısı = 1,04461
 2.200.000 x 1,04461 = 2.298.142 TL
 
 B malı için,
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/images/mevzuat_image/vuk-teb-338-20.jpg>]
 
 Dönem Sonu Stoğun Hareketli Ağırlıklı Ortalama Yöntem Kullanılarak Bulunan Taşınmış Değeri:
 

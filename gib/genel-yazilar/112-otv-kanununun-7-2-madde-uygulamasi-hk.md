@@ -12,4 +12,6 @@ alindi: 2026-11-23
 
 # ÖTV KANUNUNUN (7/2) MADDE UYGULAMASI HK.
 
-_(Metin GİB portalında yok; ek dosyaya bakınız.)_
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Genel_Yazi/OTVGenelYazi14092015_1.jpg>]
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Genel_Yazi/OTVGenelYazi14092015_2.jpg>]

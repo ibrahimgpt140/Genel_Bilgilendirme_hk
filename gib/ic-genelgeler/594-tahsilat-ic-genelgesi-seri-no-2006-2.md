@@ -72,4 +72,4 @@ Buna göre, 5535 sayılı Kanunun 7 nci maddesi kapsamında olan dernek ve vakı
 
 Bilgi edinilmesini ve gereğini rica ederim.
 
-Osman ARIOĞLU Gelir İdaresi Başkanı
+[Görsel: <icons/ecblank.gif>] | Osman ARIOĞLU Gelir İdaresi Başkanı

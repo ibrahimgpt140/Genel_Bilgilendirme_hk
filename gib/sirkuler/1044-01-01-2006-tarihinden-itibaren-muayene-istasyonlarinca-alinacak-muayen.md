@@ -26,9 +26,9 @@ Sayısı | : | TMH-1/2005-1
 3- Yapılan düzenleme ile 01/01/2006 tarihinden itibaren muayene istasyonlarınca yapılacak araç muayenelerinde alınacak Teknik Muayene Harç tutarları:
 
 a- Otobüs, kamyon, çekici ve tanker için | 128.60 YTL.
-b- Otomobil, minibüs, kamyonet, özel amaçlı taşıt, arazi taşıtı,
+b- Otomobil, minibüs, kamyonet, özel amaçlı taşıt, arazi taşıtı, | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 römork ve yarı römork için | 96.70 YTL.
-c- Traktör (römorklu ve römorksuz), motosiklet,
+c- Traktör (römorklu ve römorksuz), motosiklet, | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 motorlu bisiklet için | 50.70 YTL.
 
 olarak uygulanacaktır.
@@ -37,5 +37,6 @@ Diğer taraftan, 2918 sayılı Kanunun 35 inci maddesinin 2 nci fıkrasında yer
 
 Duyurulur.
 
-Osman ARIOĞLU
-Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Osman ARIOĞLU
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]

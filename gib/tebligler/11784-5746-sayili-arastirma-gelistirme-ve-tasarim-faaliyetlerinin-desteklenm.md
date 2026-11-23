@@ -108,9 +108,13 @@ Bu durumda, 40 personelin ücretlerinin tamamı için teşvikten faydalanılabil
 
 Teşvikten tam olarak faydalanılabilmesi için 20 personelin aylık toplam çalışma süresi olan (20x180=) 3.600 saatin, yarısının (1.800 saatinin) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Toplamda Ar-Ge merkezinde veya bölgedeki şubede 1.800 saat çalışıldığından 20 personelin ücretlerinin tamamı teşvike konu edilebilecektir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn9.gif>]
+
 Örnek 10: İşveren (K)’nın Ar-Ge merkezinde veya teknoloji geliştirme bölgesindeki şubesinde 30 Ar-Ge ve destek personeli haftada 6 gün 7,5 saat esasına göre çalışmakta, Pazar günleri çalışmamaktadır. Mart ayında 27 iş gününde, bu personelin 10’u aylık 202,5 saat, 5’i aylık 150 saat, 10’u aylık 50 saat merkez veya bölge içinde, kalan sürelerini ise merkez veya bölge dışında çalışarak geçirmekte, diğer 5’i ise aylık 202,5 saat merkez veya bölge dışında çalışmaktadır.
 
 Teşvikten tam olarak faydalanılabilmesi için 30 personelin aylık toplam çalışma süresi olan (30x202,5=) 6.075 saatin, yarısının (3.037,5 saatinin) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Toplamda Ar-Ge merkezinde veya bölgedeki şubede 3.275 saat çalışıldığından 30 personelin ücretlerinin tamamı teşvike konu edilebilecektir.
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn10.gif>]
 
 (11) Ar-Ge, tasarım ve destek personelinin toplam çalışma süresinin yarısından daha az bir oranda merkezde veya bölgede çalıştığı veya toplam Ar-Ge, tasarım ve destek personelinin yarısından azının çalışma süresinin tamamını merkezde veya bölgede çalışarak geçirdiği durumlarda, merkezde veya bölgede çalışılan süre dikkate alınmak suretiyle, merkez veya bölge dışında çalışılan sürelerden ücretine teşvik uygulanacak personel işverence belirlenecektir.
 
@@ -120,7 +124,11 @@ Teşvikten tam olarak faydalanılabilmesi için 30 personelin aylık toplam çal
 
 Bu durumda, teşvikten tam olarak faydalanılabilmesi için 50 personelin, yarısının aylık 180 saat merkez veya bölge içinde çalışması veya aylık toplam çalışma süresi olan (50x180=) 9.000 saatin, yarısının (4.500 saat) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Ancak, merkez veya bölgede çalışılan toplam süre 2.700 saat olduğundan, merkez veya bölge dışında çalışılan süreden ücretleri teşvike konu edilecek personel işverence belirlenecektir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn11.gif>]
+
 Örnekte, işveren tarafından tercih edilmesi halinde teşvikten aşağıdaki şekilde de yararlanılabilmesi mümkündür.
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn11_2.gif>]
 
 Örnek 12: İşveren (M)’nin Ar-Ge merkezinde veya teknoloji geliştirme bölgesindeki şubesinde 70 Ar-Ge ve destek personeli haftada 5 gün 8 saat esasına göre çalışmakta ve hafta sonları çalışmamaktadır.
 
@@ -128,7 +136,11 @@ Bu durumda, teşvikten tam olarak faydalanılabilmesi için 50 personelin, yarı
 
 Bu durumda, teşvikten tam olarak faydalanılabilmesi için 70 personelin, yarısının aylık 168 saat merkez veya bölge içinde çalışması veya aylık toplam çalışma süresi olan (70x168=) 11.760 saatin, yarısının (5.880 saat) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Ancak, merkez veya bölgede çalışılan toplam süre 4.620 saat olduğundan, hak kazanılan süre için merkez veya bölge dışında çalışılan süreden ücretleri teşvike konu edilecek personel işverence belirlenecektir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn12.gif>]
+
 Örnekte, işveren tarafından tercih edilmesi halinde teşvikten aşağıdaki şekilde de yararlanılabilmesi mümkündür.
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn12_2.gif>]
 
 Örnek 13: İşveren (N)’nin Ar-Ge merkezinde veya teknoloji geliştirme bölgesindeki şubesinde 100 Ar-Ge ve destek personeli haftada 5 gün 9 saat esasına göre çalışmakta ve hafta sonları çalışmamaktadır.
 
@@ -136,7 +148,11 @@ Bu durumda, teşvikten tam olarak faydalanılabilmesi için 70 personelin, yarı
 
 Bu durumda, teşvikten tam olarak faydalanılabilmesi için 100 personelin aylık toplam çalışma süresi olan (100x180=)18.000 saatin, yarısının (9.000 saat) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Ancak, merkez veya bölgede çalışılan toplam süre 8.100 saat olduğundan, hak kazanılan süre için merkez veya bölge dışında çalışılan süreden ücretleri teşvike konu edilecek personel işverence belirlenecektir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn13.gif>]
+
 Örnekte, işveren tarafından tercih edilmesi halinde teşvikten aşağıdaki şekilde de yararlanılabilmesi mümkündür.
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn13_2.gif>]
 
 Örnek 14: İşveren (O)’nun Ar-Ge merkezinde veya teknoloji geliştirme bölgesindeki şubesinde 33 Ar-Ge ve destek personeli haftada 5 gün 9 saat esasına göre çalışmakta ve hafta sonları çalışmamaktadır.
 
@@ -144,7 +160,11 @@ Bu durumda, teşvikten tam olarak faydalanılabilmesi için 100 personelin aylı
 
 Bu durumda, teşvikten tam olarak faydalanılabilmesi için 33 personelin aylık toplam çalışma süresi olan (33x180=) 5.940 saatin, yarısının (2.970 saat) merkez veya bölge içinde çalışılarak geçirilmesi gerekmektedir. Örnekte, merkez veya bölgede çalışılan toplam süre 2.140 saat olduğundan, merkez veya bölge dışında çalışılan 2.140 saatlik süre de teşvik kapsamında değerlendirilecektir. Merkez veya bölge dışında çalışılan 2.140 saatlik süre için ücretlerine teşvik uygulanacak personel işverence belirlenecektir.
 
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn14.gif>]
+
 Örnekte, işveren tarafından tercih edilmesi halinde teşvikten aşağıdaki şekilde de yararlanılabilmesi mümkündür.
+
+[Görsel: <https://www.gib.gov.tr/sites/default/files/fileadmin/user_upload/Tebligler/5746/5746sernoteb9orn14_2.gif>]
 
 (12) Ar-Ge, tasarım ve destek personelinin tamamının merkez veya bölge dışında çalışması ve merkez veya bölgede çalışan personel bulunmaması durumunda hiçbir personel teşvik kapsamında değerlendirilmeyecektir.
 

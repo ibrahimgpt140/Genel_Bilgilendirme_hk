@@ -237,11 +237,15 @@ Kanunun 4 üncü maddesinin ikinci fıkrasına göre, ilgili hesap dönemi içer
 
 İşletmenin, 2020 hesap döneminde aynı hizmetlerden elde ettiği hasılata ilişkin tablo ise aşağıdaki gibidir:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/dijitalteb1.jpg>]
+
 Buna göre, 2020 hesap döneminin Ocak-Haziran döneminde söz konusu işletme tarafından elde edilen hasılat tutarı, Kanunun 4 üncü maddesinin birinci fıkrasında yer alan her iki haddi de aştığından 2020 hesap dönemi Haziran ayı sonu itibariyle işletme bakımından muafiyet sona erecektir. Mezkûr maddenin ikinci fıkrasına göre, hadlerin aşıldığı vergilendirme dönemini takip eden dördüncü vergilendirme dönemi olan 2020 hesap dönemi Ekim ayı başından itibaren işletmenin dijital hizmet vergisi mükellefiyeti başlayacaktır.
 
 Kanunun 4 üncü maddesinin üçüncü fıkrasına göre, birbirini takip eden iki hesap dönemi boyunca birinci fıkradaki hadlerden herhangi birinin altında kalanların vergi muafiyeti, izleyen hesap döneminden itibaren tekrar başlar.
 
 Örnek 4: Finansal muhasebe açısından konsolide bir grubun üyesi olmayan (S) işletmesi sesli içeriklerin dijital ortamda satışı ile bu içeriklerin dijital ortamda dinlenmesine ve elektronik cihazlara kaydedilmesine yönelik dijital ortamda hizmet sunmaktadır. İşletmenin bu hizmetlerden elde ettiği hasılat tutarları hesap dönemleri itibarıyla aşağıdaki gibidir:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/dijitalteb2.jpg>]
 
 Yukarıdaki hasılat tutarlarına göre, 2021 ve 2022 hesap dönemlerinde elde edilen hasılat tutarları Kanunda belirlenen muafiyet hadlerinin en az birinin altında kaldığından, (S) işletmesi 2023 hesap döneminin başından itibaren dijital hizmet vergisinden muaf olacaktır.
 
@@ -382,6 +386,8 @@ Dijital hizmet vergisi, fatura ve fatura yerine geçen belgelerde ayrıca göste
 Kanunun 1 inci maddesinin birinci fıkrasının (b) bendi kapsamındaki dijital içeriklerin aracı platformlar vasıtasıyla satışında, içeriği satanın açıkça belirtilmediği ve bu durumun taraflar arasındaki sözleşmelere yansıtılmadığı, düzenlenen fatura ve benzeri belgelerde dijital içeriği satana ait bilgilere açıkça yer verilmediği hallerde dijital içerik satışına ilişkin hasılatın tamamı söz konusu içeriğin satışına aracılık eden mükellefin matrahına dâhil edilir.
 
 Örnek 1: Mükellef (A) işletmesinin, dijital ortamda sunmuş olduğu reklam hizmetlerinden dolayı Mart 2020 vergilendirme döneminde elde ettiği döviz cinsinden hasılata ilişkin matrah aşağıdaki gibidir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/dijitalteb3.jpg>]
 
 Örnek 2: Mükellef (B) işletmesi, Nisan 2020 vergilendirme döneminde dijital ortamda sunduğu reklam hizmeti dolayısıyla (C) işletmesinden 10 milyon TL hasılat elde etmiştir. Mükellef (B) işletmesi bu hizmetin bir kısmını aynı dönemde mükellef (D) işletmesinin oyun uygulamasında reklamın yayınlanması suretiyle sunmuş ve bunun karşılığında mükellef (D) işletmesine 4 milyon TL ödemiştir.
 

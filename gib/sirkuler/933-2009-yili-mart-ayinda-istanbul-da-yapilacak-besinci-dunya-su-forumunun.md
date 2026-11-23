@@ -22,6 +22,9 @@ Konusu | : 2009 yılı Mart ayında İstanbul'da yapılacak Beşinci Dünya Su F
 Tarihi | : 17 / 11 / 2008
 Sayısı | : KDVK-51/2008-1
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanunu geçici 27. madde
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 23.10.2008 tarihli ve 27033 sayılı Resmi Gazete'de yayımlanan 5804 Sayılı "2009 Yılında İstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun Organizasyonu İle Katma Değer Vergisi Kanununa Bir Geçici Madde Eklenmesine Dair Kanun"nun 3. maddesi ile Katma Değer Vergisi Kanununa geçici 27. madde eklenmiş ve "2009 yılı Mart ayında İstanbul'da yapılacak Beşinci Dünya Su Forumunun Organizasyonundan sorumlu Forum Sekretaryasına bu Forumun gerçekleştirilmesi için yapılacak mal teslimleri ile hizmet ifaları" katma değer vergisinden istisna edilmiştir.
 Bu hükmün uygulanmasında, Forum Sekretaryası tarafından anılan Forumun gerçekleştirilmesi için alınacak mal ve hizmetlere ilişkin olarak örneği Ek:1'de yer alan bir belge düzenlenerek mal tesliminde veya hizmet ifasında bulunan mükelleflere verilecektir. Forum Sekretaryasına teslim veya hizmette bulunan mükellefler ise bu belgeye dayanarak söz konusu işlemlere ait bedel üzerinden katma değer vergisi hesaplamayacaklardır.

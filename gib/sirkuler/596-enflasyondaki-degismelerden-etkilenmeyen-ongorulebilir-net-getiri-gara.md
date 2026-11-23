@@ -22,6 +22,7 @@ Konusu | :TÜFE' ye Endeksli Devlet Tahvillerinde Vergileme
 Tarihi | : 12/03/2007
 Sayısı | : GVK-61/2007-5/ Tevkifat Uygulaması-2
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Geçici Madde 67
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1. Giriş
 
@@ -60,23 +61,23 @@ Söz konusu tahvile ilişkin kupon faiz ödemeleri ile tahvilin alım-satım ve 
 - 07.03.2007 Tarihi İtibarıyla Enflasyon Dahil Birikmiş Faiz Tutarının Tespiti :
 
 Enflasyon Dahil Birikmiş Faiz Tutarı | = Reel Alış Birikmiş Faiz Tutarı * Alış Günü Referans
-Endeksi / İhraç Günü Referans Endeksi
-
-= 7,81 [2000 *0.05*(14/182)*(136/134)]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Endeksi / İhraç Günü Referans Endeksi
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 7,81 [2000 *0.05*(14/182)*(136/134)]
 
 - Enflasyon Farkını İçeren Temiz Alış Fiyatının Tespiti:
 
 Temiz Fiyat | = Takas Alış Bedeli- Enflasyon Dahil Birikmiş Faiz
-= 2.112,19 (2.120 -7,81)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 2.112,19 (2.120 -7,81)
 
 - Kupon Başına Prim Tutarının Tespiti:
 
 Nominal Bedelin Alış Tarihindeki Endekslenmiş Değeri = 2.029,85 [2.000 * (136/134)]
 
 Kupon Başına Ödenen Prim Tutarı | = ( Temiz Fiyat - Nominal Bedelin Alış Tarihindeki
-Endekslenmiş Değeri) / Kupon Sayısı
-= 82,34 (2.112,19-2.029,85) / 10
-= 8,23
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Endekslenmiş Değeri) / Kupon Sayısı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 82,34 (2.112,19-2.029,85) / 10
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 8,23
 
 - İlk Kupon Ödemesinde Tevkifat Matrahının Tespiti:
 
@@ -91,21 +92,21 @@ Bu çerçevede, ilk kupon ödemesinde tevkifat matrahı, brüt kupon tutarından
 - Kıymetin Kupon Ödemesi Sonrası Satışında Tevkifat Matrahının Tespiti:
 
 Kıymetin Kupon Ödemesi Sonrası Satışında Tevkifat Matrahı | = Takas Satış Fiyatı - Temiz
-Alış Fiyatı + Alıştan Sonra
-Ödenen Kupon Adedi *
-Kupon Başına Ödenen Prim
-Tutarı
-= 104,27 (2.200- 2.112,19 +
-2*8,23 )
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Alış Fiyatı + Alıştan Sonra
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Ödenen Kupon Adedi *
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Kupon Başına Ödenen Prim
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Tutarı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 104,27 (2.200- 2.112,19 +
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | 2*8,23 )
 
 - İtfada Tevkifat Matrahının Tespiti:
 
 Anaparanın İtfa Tarihinde Endekslenmiş Değeri = 2.985,07 [2000* (200/134)]
 
 Anapara İtfasında Tevkifat Matrahı | = Endekslenmiş İtfa Değeri - Nominal Bedelin Alış
-Tarihindeki Endekslenmiş Değeri
-= 955,22 (2.985,07- 2.029,85)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Tarihindeki Endekslenmiş Değeri
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | = 955,22 (2.985,07- 2.029,85)
 
 Duyurulur.
 
-Osman ARIOĞLU Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Osman ARIOĞLU Gelir İdaresi Başkanı

@@ -48,17 +48,23 @@ MADDE 3- (1) Bölgede çalışan Ar-Ge, tasarım ve destek personelinin bu göre
 
 (B) A.Ş.'nin Bay (C)’ye yapacağı ücret ödemesine ait teşvik uygulaması aşağıdaki gibi olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/331_ek_1.jpg>]
+
 (A) Teknoloji Geliştirme Bölgesinde faaliyette bulunan (B) A.Ş.’de çalışan Bay (C)’nin ücret geliri ilgili aydaki brüt asgari ücretin 40 katından fazla olduğundan, (B) A.Ş.’nin yararlanacağı ve terkine konu edilecek teşvik tutarı, asgari ücretin brüt tutarının 40 katına isabet eden (249.859,40 TL) vergiden, asgari ücrete isabet eden gelir vergisinin mahsubu yapıldıktan sonra kalan 246.543,70 TL olacaktır. Personele ödenen ücretin vergi matrahı üzerinden hesaplanan gelir vergisinden terkin edilecek tutar ile ilgili aydaki asgari ücret istisnası düşüldükten sonra kalan [352.760,33 TL – (246.543,70 TL + 3.315,70 TL)] 102.900,93 TL tutarındaki gelir vergisi ise vergi dairesine ödenecektir.
 
 Örnek 2: (D) Teknoloji Geliştirme Bölgesinde faaliyette bulunan (E) A.Ş.’de Ar-Ge personeli olarak 2025 yılının Eylül ayında işe başlayan Bay (F)’ye Ar-Ge faaliyeti kapsamında haftalık 45 saati geçmeyen çalışmasına ilişkin olarak 800.000 TL brüt ücret ödenmiştir.
 
 (E) A.Ş.'nin Bay (F)’ye yapacağı ücret ödemesine ait teşvik uygulaması aşağıdaki gibi olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/331_ek_2.jpg>]
+
 (D) Teknoloji Geliştirme Bölgesinde çalışan Bay (F)’nin ücret geliri ilgili aydaki brüt asgari ücretin 40 katından az olduğundan, (E) A.Ş. tarafından Bay (F)’ye ödenen ücret üzerinden kesilen gelir vergisinden asgari ücrete isabet eden gelir vergisinin mahsubu yapıldıktan sonra kalan tutarın tamamı stopaj teşviki kapsamında değerlendirilecek olup vergi dairesine yatırılacak herhangi bir tutar bulunmamaktadır.
 
 Örnek 3: (G) Teknoloji Geliştirme Bölgesinde faaliyette bulunan (H) A.Ş.’de yazılım personeli olarak çalışan Bay (I)’ya yazılım faaliyeti kapsamında haftalık 45 saati geçmeyen çalışmasına ilişkin olarak 1/1/2025 tarihinden itibaren ayda 1.500.000 TL brüt ücret ödenmektedir.
 
 (H) A.Ş.'nin Bay (I)’ya 2025 yılının Eylül ayında yapacağı ücret ödemelerine ait teşvik uygulaması aşağıdaki gibi olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/331_ek_3.jpg>]
 
 Bildirim ve beyan
 
@@ -78,9 +84,13 @@ MADDE 5- (1) 6550 sayılı Kanunun geçici 1 inci maddesinin birinci fıkrasın�
 
 Bay (L)’ye yapılan ücret ödemesine ait istisna uygulaması aşağıdaki gibi olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/331_ek_4.jpg>]
+
 Örnek 5: (M) Araştırma Merkezinde yürütülen araştırma altyapı projesinde Ar-Ge personeli olarak 2025 yılının Eylül ayında işe başlayan Bayan (N)’ye Ar-Ge faaliyeti kapsamındaki çalışmasına ilişkin olarak 1.700.000 TL brüt ücret ödenmiştir.
 
 Bayan (N)’ye yapılan ücret ödemelerine ait istisna uygulaması aşağıdaki gibi olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2026/331_ek_5.jpg>]
 
 Araştırma altyapı projesinde çalışan Bayan (N)’nin bu proje karşılığında elde etmiş olduğu ücret geliri, ödemenin yapıldığı ayda geçerli olan asgari ücretin aylık brüt tutarının 40 katını aştığından, aşan kısmı ücret olarak vergilendirilecektir. Bayan (N)’nin ilgili aydaki ücret tutarının asgari ücretin 40 katının altında kalması halinde ise ücret gelirinin tamamı istisna kapsamında değerlendirilecektir.
 

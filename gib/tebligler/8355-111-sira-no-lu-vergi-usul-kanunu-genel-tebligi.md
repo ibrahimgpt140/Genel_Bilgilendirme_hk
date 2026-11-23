@@ -15,7 +15,7 @@ alindi: 2026-11-23
 Borsada rayici olmayan yabancı paralara ait kurlar hakkında Vergi Usul Kanunu 108 No.lu tebliğe ektir.Borsada rayici olmayan, yabancı paraları 213 sayılı Vergi Usul Kanunu gereğince 1972 yılı için yapılacak değerlemelerine esas olmak üzere aynı kanunun 280 nci maddesinin 2 ve 3 ncü fıkraları hükümlerine müsteniden Bakanlığımızca tesbit olunan kurlar aşağıda gösterilmiştir.
 Borsada rayici olmayan yabancı paraların ve bu kabil yabancı paralar ile olan senetli ve senetsiz alacak ve borçların değerlendirilmesinden kurların uygulanması rica olunur.
 
-Sıra No. | 108 Sıra No.lu Genel Tebliğdeki Sıra No: | D ö v i z l e r | Kur Kuruş
+Sıra No. | 108 Sıra No.lu Genel Tebliğdeki Sıra No: | [Görsel: <icons/ecblank.gif>] | D ö v i z l e r | Kur Kuruş
 1 | 1 | 1 | Amerikan Doları | 1400,00
 2 | 2 | 1 | Avustralya Doları | 1785,00
 3 | 3 | 1 | Avustralya Şilini | 60,09
@@ -101,7 +101,7 @@ Sıra No. | 108 Sıra No.lu Genel Tebliğdeki Sıra No: | D ö v i z l e r | Kur
 83 | 83 | 1 | Yunan Drahmisi | 46,66
 84 | 84 | 1 | Zambiya Kwaçası | 1960,00
 
-Sıra No. | 108 Sıra No.lu Genel Tebliğdeki Sıra No: | E f e k t i f l e r | Kur Kuruş
+Sıra No. | 108 Sıra No.lu Genel Tebliğdeki Sıra No: | [Görsel: <icons/ecblank.gif>] | E f e k t i f l e r | Kur Kuruş
 1 | 1 | 1 | Amerikan Doları | 1400,00
 2 | 33 | 1 | Avusturalya Doları | 1459,59
 3 | 2 | 1 | Avusturya Şilini | 60,09

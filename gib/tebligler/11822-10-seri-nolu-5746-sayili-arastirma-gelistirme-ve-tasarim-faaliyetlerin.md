@@ -48,6 +48,8 @@ MADDE 2- Aynı Tebliğin 3 üncü maddesinin on altıncı fıkrası ile aynı ma
 
 (A) A.Ş.'nin, Ar-Ge kapsamında çalıştırılan doktoralı personel Bay (B)'ye yapacağı ücret ödemesine ilişkin teşvik uygulaması aşağıdaki gibi olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/10_serno_5746_1.jpg>]
+
 Ar-Ge merkezinde çalışan Bay (B)'nin ücret geliri, ilgili aydaki brüt asgari ücretin 40 katından fazla olduğundan (A) A.Ş.’nin yararlanabileceği ve terkine konu edilecek teşvik tutarı, asgari ücretin brüt tutarının 40 katına isabet eden (249.859,40 TL) vergiden, asgari ücret istisnasına isabet eden gelir vergisinin mahsubu yapıldıktan sonra kalan 246.543,70 TL gelir vergisi tutarının % 95'i olan 234.216,52 TL'si olacaktır. Söz konusu ücret üzerinden hesaplanan gelir vergisinden terkin edilecek tutar ile ilgili aydaki asgari ücret istisnası düşüldükten sonra kalan [317.760,33 TL - (3.315,70 TL + 234.216,52 TL)] 80.228,11 TL tutarındaki gelir vergisi ise vergi dairesine ödenecektir.
 
 Söz konusu örnekte Bay (B), haftada 45 saatin üzerinde çalışarak aynı ücreti almış olsaydı, haftada 45 saatlik çalışmasına isabet eden tutar gelir vergisi stopajı teşviki kapsamında değerlendirilecek olup haftalık 45 saatin üzerindeki çalışmasına karşılık gelen ücret tutarı ise gelir vergisi stopajı teşviki kapsamında değerlendirilmeyecektir.
@@ -60,13 +62,19 @@ Tasarım faaliyeti kapsamındaki çalışmasına ilişkin olarak; doktoralı per
 
 a) 2025 yılının Eylül ayında işe giren doktoralı olan bir personele ait teşvik hesaplaması:
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/10_serno_5746_2.jpg>]
+
 b) 2025 yılının Eylül ayında işe giren destek personeline ait teşvik hesaplaması:
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/10_serno_5746_3.jpg>]
 
 Ar-Ge merkezinde çalışan söz konusu personelin ücret gelirleri ilgili aydaki brüt asgari ücretin 40 katından az olduğundan (C) A.Ş.’nin yararlanabileceği ve terkine konu edilecek teşvik, brüt asgari ücretin 40 katına isabet eden vergiye ilişkin hesaplama yapılmaksızın, söz konusu personele ödenen ücretler üzerinden kesilen gelir vergisinden asgari ücrete isabet eden gelir vergisinin mahsubu yapıldıktan sonra kalan tutara göre 5746 sayılı Kanunda belirtilen yasal oranlar dahilinde hesaplanacaktır.”
 
 “Örnek 3: (Ç) Anonim Şirketinin Ar-Ge merkezinde tam zamanlı olarak çalışan doktoralı Bay (D)’ye Ar-Ge faaliyeti kapsamında haftalık 45 saati geçmeyen çalışmasına ilişkin olarak 2025 yılı Ocak ayından itibaren ayda 1.500.000 TL brüt ücret ödenmektedir.
 
 (Ç) A.Ş.'nin Bay (D)’ye 2025 yılının Eylül ayında yapacağı ücret ödemesine ilişkin teşvik uygulaması aşağıdaki gibi olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/10_serno_5746_4.jpg>]
 
 MADDE 3- Aynı Tebliğin 8 inci maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.
 

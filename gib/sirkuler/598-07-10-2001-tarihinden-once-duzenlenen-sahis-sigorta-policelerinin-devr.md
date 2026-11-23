@@ -23,7 +23,7 @@ Tarihi | : 23 /02/2007
 Sayısı | : GVK-59/2007-3/ Bireysel Emeklilik Sistemi-2
 İlgili olduğu maddeler | : Gelir Vergisi Kanunu Madde 22, 23, 25, 40, 63, 75, 86, 89, 94, 4697 Sayılı Kanun Geçici Madde 1, Veraset ve İntikal Vergisi Kanunu Madde 1, 2
 İlgili olduğu kazanç türleri | : Ticari Kazanç, Ücret, Menkul Sermaye İradı
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Giriş
 Bireysel emeklilik sistemi ve şahıs sigortaları için ödenen katkı payı ve primlerinin gelir vergisi karşısındaki durumuna ilişkin açıklamalar, 3 seri numaralı Gelir Vergisi Sirkülerinde yapılmıştır.
 07/10/2001 tarihinden önce düzenlenen şahıs sigorta poliçelerinin devredilmesi halinde, devralan kişiye yapılan ödemelerin vergilendirilmesi ile işverenlerce bireysel emeklilik sistemine ödenen katkı paylarının gider olarak indirimi ve ölüm, maluliyet ve benzeri risklere karşı yapılan riziko teminatları ile birikimli teminatların aynı poliçede (karma poliçe) gösterilmesi halinde vergilemenin nasıl yapılacağına ilişkin açıklamalar bu sirkülerin konusunu oluşturmaktadır.
@@ -47,6 +47,6 @@ Bu madde kapsamında yapılacak indirim, işverenler tarafından hizmetlilerine 
 Belirli risklere karşı yapılan ve riskin gerçekleşmesi halinde hak sahibine belirli bir ödeme yapılmasını öngören birikimsiz sigorta poliçeleri kapsamında yapılan ödemelere ilişkin açıklamalar 3 seri numaralı Gelir Vergisi Sirkülerinde yapılmıştır.
 Buna göre, ölüm, maluliyet ve benzeri risklere karşı yapılan riziko teminatları ile birikimli teminatların aynı poliçede (karma poliçe) gösterilmesi durumunda, söz konusu poliçenin birikimli teminata isabet eden kısmı ile ilgili olarak yapılacak ödemeler, Gelir Vergisi Kanunu uygulamasında menkul sermaye iradı addolunmakta olup, bu kısmın Veraset ve İntikal Vergisi Kanunu karşısındaki durumu hakkında 31/08/2007 tarih ve 3 numaralı Veraset ve İntikal Vergisi Kanunu Sirkülerinde yapılan açıklamalar esas alınacaktır.(*) Duyurulur.
 
-Osman ARIOĞLU Gelir İdaresi Başkanı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Osman ARIOĞLU Gelir İdaresi Başkanı
 
 (*) 31.08.2007 tarih ve GVK-64/2007-8/Ücretler, Menkul Sermaye İradı sayılı Gelir Vergisi Sirküleri ile değişen paragraf (Değişmeden önceki paragraf)Buna göre, ölüm, maluliyet ve benzeri risklere karşı yapılan riziko teminatları ile birikimli teminatların aynı poliçede (karma poliçe) gösterilmesi durumunda, söz konusu poliçenin birikimli teminata isabet eden kısmı ile ilgili olarak yapılacak ödemeler, vergi kanunlarının uygulanması açısından menkul sermaye iradı sayıldığından, bu kısmın veraset ve intikal vergisine tabi tutulmayacağı tabiidir.

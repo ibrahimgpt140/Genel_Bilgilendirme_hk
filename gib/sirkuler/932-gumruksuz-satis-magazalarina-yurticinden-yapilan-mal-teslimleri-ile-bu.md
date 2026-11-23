@@ -22,6 +22,7 @@ Konusu | : Gümrüksüz Satış Mağazalarına Yurtiçinden Yapılan Mal Tesliml
 Tarihi | : 06 / 10 / 2009
 Sayısı | : KDVK-52 /2009-1
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanunu Madde 1, 11, 12 ve 16
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1. Giriş:
 Gümrüksüz satış mağazalarına yurtiçinden yapılacak teslimler ile bu mağazalar tarafından gerçekleştirilecek teslim ve ithalatta katma değer vergisi uygulamasına ilişkin olarak aşağıdaki açıklamaların yapılmasına gerek duyulmuştur.

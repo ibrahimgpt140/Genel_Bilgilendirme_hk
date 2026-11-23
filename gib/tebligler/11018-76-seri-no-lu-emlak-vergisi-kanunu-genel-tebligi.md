@@ -25,13 +25,19 @@ MADDE 2 – (1) Bakanlığımızca 2019 yılı için yeniden değerleme oranı %
 MADDE 3 – (1) Bu mükelleflerin bina, arsa ve arazilerinin 2020 yılı vergi değerleri, 2019 yılı vergi değerlerinin, bu yıla ait yeniden değerleme oranının yarısı olan (%22,58/2=) %11,29 (onbir virgül yirmidokuz) oranında artırılması suretiyle bulunacak tutarlar olacaktır.
 ÖRNEK 1: Mükellef (A) Kırşehir ili, Kaman Belediyesi sınırları içinde yer alan meskeni 2013 yılında satın almıştır. 2019 yılı emlak vergi değeri 130.000,00 TL olan meskenin 2020 yılı emlak vergi değeri aşağıda belirtildiği şekilde hesaplanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/76_serno_emlak_1.jpg>]
+
 2020 yılı itibarıyla mükellef olacakların emlak vergi değerlerinin tespiti
 MADDE 4 – (1) Mükellefiyeti 2020 yılında başlayanların, mükellefiyetleri ile ilgili bina, arsa ve arazi vergisi tarhiyatına esas alınacak vergi değerinin hesabında; takdir komisyonlarınca 2017 yılında takdir edilen ve 2018 yılında uygulanan asgari ölçüde arsa ve arazi metrekare birim değerleri; 30/11/2018 tarihli ve 30611 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 503) ile 2018 yılına ait belirlenen yeniden değerleme oranının yarısı olan (%23,73/2=) %11,865 (onbir virgül sekizyüzaltmışbeş) nispetinde artırılması suretiyle bulunacak 2019 yılı değerinin, bu yıla ait yeniden değerleme oranının yarısı olan (%22,58/2=) %11,29 (onbir virgül yirmidokuz) nispetinde artırılmak suretiyle dikkate alınacaktır.
 ÖRNEK 2: Mükellef (B) 2019 yılında Eskişehir ili, Sivrihisar Belediyesi sınırları içinde 1100 m2 büyüklüğünde bir arsa satın almış ve bu arsaya ilişkin emlak vergisi bildirimini ilgili belediyeye vermiştir. Arsanın bulunduğu cadde için takdir komisyonunca 2018 yılından itibaren uygulanmak üzere takdir edilen asgari ölçüde arsa metrekare birim değeri 80,00 TL’dir.
 2018 yılına ait yeniden değerleme oranının yarısı %11,865, 2019 yılına ait yeniden değerleme oranının yarısı ise %11,29 olarak tespit edilmiş olduğuna göre, mükellefiyeti 2020 yılında başlayacak bu mükellefin 2019 yılında satın aldığı arsanın 2020 yılı arazi (arsa) vergisine esas vergi değeri aşağıda belirtildiği şekilde hesaplanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/76_serno_emlak_2.jpg>]
+
 ÖRNEK 3: Mükellef (C) Ankara ili, Mamak Belediyesi sınırları içinde yer alan 500 m2 arsa üzerinde inşa edilen ve inşaatı 2009 yılında sona ermiş olan bir işyerini 2019 yılında satın almıştır. Betonarme karkas, 1 inci sınıf olan inşaatın dıştan dışa yüzölçümü 140 m2’dir. Bu işyeri için 2020 yılına ait uygulanacak bina metrekare normal inşaat maliyet bedeli 1.436,85 TL’dir. Arsanın bulunduğu cadde için 2018 yılında uygulanan asgari ölçüde arsa metrekare birim değeri 760,00 TL’dir.
 2019 yılına ait asgari ölçüde arsa ve arazi metrekare birim değerlerinin hesabında uygulanacak artış oranı %11,865, 2020 yılına ait asgari ölçüde arsa ve arazi metrekare birim değerlerinin hesabında uygulanacak artış oranı ise %11,29 olarak tespit edildiğine göre mükellefiyeti 2020 yılında başlayan bu mükellefin işyerinin 2020 yılı vergi değerinin tespitinde emlak (bina) vergi değeri aşağıdaki şekilde hesaplanacaktır. (Vergi değerinin hesabında asansör, klima veya kalorifer payı ilavesi ile aşınma payı indirimi ihmal edilmiştir.)
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Emlak_Vergisi/76_serno_emlak_3.jpg>]
 
 Yürürlük
 MADDE 5 – (1) Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer.

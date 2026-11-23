@@ -21,5 +21,7 @@ MADDE 1– (1) 24/12/2007 tarihli ve 2007/13033 sayılı Bakanlar Kurulu Kararı
 "31- Türk Gümrük Tarife Cetvelinin 2711.19.00.00.11 gümrük tarife istatistik pozisyon numarasında yer alan Sıvılaştırılmış Petrol Gazı (L.P.G.)'nm, motorlu taşıtlarda yakıt olarak kullanılacak olanları (otogaz) hariç olmak üzere Enerji Piyasası Düzenleme Kurumundan "LPG Dağıtıcı Lisansını haiz olanlarca teslimi ile bunlardan satın alanların sonraki safhalardaki teslimi,"
 MADDE 2– (1) 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I) sayılı listenin (A) cetvelinde yer alan bazı mallara ilişkin özel tüketim vergisi tutarları aşağıdaki şekilde tespit edilmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Bkk/2017_10468BKK_tablo.jpg>]
+
 MADDE 3– (1) Bu Karar 1/8/2017 tarihinde yürürlüğe girer.
 MADDE 4– (1) Bu Karar hükümlerini Maliye Bakanı yürütür.

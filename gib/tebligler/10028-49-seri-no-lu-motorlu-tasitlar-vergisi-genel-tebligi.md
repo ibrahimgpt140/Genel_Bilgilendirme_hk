@@ -33,11 +33,17 @@ MADDE 4 – (1)
 A. (I) Sayılı Motorlu Taşıtlar Vergisi Tarifesinin Motosikletler Bölümü
 Motosikletler aşağıdaki (I) sayılı tarifenin "2- Motosikletler" başlıklı bölümüne göre vergilendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/1.jpg>]
+
 B. (II) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 (I) sayılı tarifede yazılı otomobil, arazi taşıtı, kaptıkaçtı ve benzerleri ile motosikletler dışında kalan motorlu kara taşıtları, aşağıdaki (II) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/2.jpg>]
+
 C. (IV) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 Uçak ve helikopterler (Türkkuşu, Türk Hava Kurumuna ait olanlar hariç) aşağıdaki (IV) sayılı tarifeye göre vergilendirilir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/MTV_Kanunu/3.jpg>]
 
 197 sayılı Kanunun 6 ncı maddesinin birinci fıkrası uyarınca; Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından tutulan sivil hava vasıtaları siciline zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş olan uçaklar için, bu tarifede belirtilen motorlu taşıtlar vergisi tutarları yüzde 25 oranında uygulanır.
 Yürürlük

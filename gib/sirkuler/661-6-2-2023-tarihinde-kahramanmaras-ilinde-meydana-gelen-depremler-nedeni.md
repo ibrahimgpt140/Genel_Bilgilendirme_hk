@@ -133,6 +133,12 @@ Hazine ve Maliye Bakanı
 
 Tablo-1
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vuksirku180_1.jpg>]
+
 Tablo-2 (KDV Beyannameleri ile Ba-Bs bildirimlerine ilişkin)
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vuksirku180_2.jpg>]
+
 Tablo-3 (Yıllık Gelir ve Kurumlar Vergisi Beyannamelerine ilişkin)
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/vuksirku180_3.jpg>]

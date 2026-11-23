@@ -26,6 +26,8 @@ Tarihi | :
 
 Sayısı | : DV-16/2006-1/Aylık prim ve hizmet belgesi ve e-bildirge sözleşmeleri
 
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+
 İlgili olduğu maddeler | : 488 sayılı Kanunun 1, 3, 8, 24 üncü maddeleri, bu Kanuna ekli (1) sayılı tablonun "I.Akitlerle ilgili kağıtlar" başlıklı bölümünün A/1 inci fıkrası, "IV.Makbuzlar ve diğer kağıtlar" başlıklı bölümünün 2/e fıkrası, 5502 sayılı Sosyal Güvenlik Kurumu Kanununun 36 ncı maddesi
 
 1-Giriş
@@ -49,3 +51,5 @@ Ancak, 488 sayılı Kanuna göre resmi daire sayılmayan ya da damga vergisi mua
 Duyurulur.
 
 Osman ARIOĞLU Gelir İdaresi Başkanı
+
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]

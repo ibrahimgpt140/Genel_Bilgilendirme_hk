@@ -18,6 +18,7 @@ Konusu | : Aerosol Üretiminde Kullanılacak L.P.G.'yi Üreten Dağıtıcılara 
 Tarihi | : 08.03.2010
 Sayısı | : ÖTV-1/2010-2
 İlgili Olduğu Maddeler | : ÖTV Kanunu Madde 12
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 5/2/2010 tarih ve 2010/135 sayılı Bakanlar Kurulu Kararının 1 inci maddesi ile 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I) sayılı listenin (A) cetvelinde yer alan 2711.19.00.00.11 G.T.İ.P. numaralı "Sıvılaştırılmış Petrol Gazı (L.P.G.) Diğerleri"nin, aerosol üretiminde kullanılmak üzere tesliminde özel tüketim vergisi (ÖTV) tutarı sıfır olarak belirlenmiştir.
 Söz konusu kararnamenin uygulanmasına ilişkin usul ve esaslar 18 Seri No.lu ÖTV Genel Tebliğinde açıklanmıştır.

@@ -22,6 +22,9 @@ Konusu | : Şubat / 2007 vergilendirme dönemine ait katma değer vergisi beyann
 Tarihi | : 13/03/2007
 Sayısı | : KDV-46/2007-2
 İlgili Olduğu Maddeler | : Katma Değer Vergisi Kanunu Madde 41/1, 41/3 ve 46/1
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1.Giriş
 Şubat/2007 vergilendirme dönemine ait katma değer vergisi beyannamelerinin verilme süresinin uzatılması bu sirkülerin konusunu oluşturmaktadır.

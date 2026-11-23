@@ -300,6 +300,8 @@ Ancak, iade hesabına verilebilecek azami pay tutarı (300.000 TL) mükellefin b
 
 Mükellef tarafından ATİK’e ilişkin yüklenilen KDV’den iade hesabına pay verilmesi durumunda, yukarıda belirtilen bilgiler çerçevesinde aşağıdaki tablo hazırlanarak iade dosyasına eklenmesi gerekir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2025/KDVtebligek.jpg>]
+
 Mükellefin Mayıs dönemi sonrasında iade hakkı doğuran işlemlerinin bulunması halinde, söz konusu çekiciye ilişkin yüklenilen ve indirim yoluyla giderilemeyen KDV’den iade hesabına verilebilecek pay tutarının hesabında yukarıdaki açıklamalar çerçevesinde işlem tesis edileceği tabiidir.”
 
 b) (IV/A3-1.7.) bölümünde yer alan Örnek 2:’den sonra gelmek üzere aşağıdaki paragraf eklenmiştir.

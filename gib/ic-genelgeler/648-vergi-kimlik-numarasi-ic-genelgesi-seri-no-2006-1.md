@@ -88,4 +88,4 @@ Vergi dairelerince, Türkiye Cumhuriyeti tabiyetinde bulunan gerçek kişiler i�
 
 Bilgi edinilmesi ve gereğinin buna göre yapılmasını rica ederim.
 
-Mehmet ATUĞ Başkan a. Gelir İdaresi Başkan Yardımcısı
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | Mehmet ATUĞ Başkan a. Gelir İdaresi Başkan Yardımcısı

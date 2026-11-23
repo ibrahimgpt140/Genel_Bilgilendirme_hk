@@ -30,6 +30,8 @@ Matrah dilim tutarlarının tespiti
 MADDE 4 – (1) 7338 sayılı Veraset ve İntikal Vergisi Kanununun 16 ncı maddesinin üçüncü fıkrasında, "Vergi tarifesinin matrah dilim tutarları, her yıl bir önceki yıla ilişkin olarak Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Bu şekilde hesaplanan dilim tutarlarının yüzde 5 ini aşmayan kesirler dikkate alınmaz. ..." hükmüne yer verilmiştir.
 (2) Buna göre, 1/1/2018 tarihinden itibaren veraset yoluyla veya ivazsız suretle meydana gelen intikallerde veraset ve intikal vergisi aşağıdaki tarifeye göre hesaplanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/7338/1.jpg>]
+
 Yürürlük
 MADDE 5 – (1) Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer.
 Yürütme

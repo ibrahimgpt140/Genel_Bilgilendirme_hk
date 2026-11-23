@@ -149,6 +149,8 @@ MADDE 11 – (1) Bu Tebliğ kapsamında yapılan yeniden değerleme neticesinde 
 (4) Değer artışı üzerinden %2 oranında hesaplanan verginin zamanında beyan edilmemesi veya tahakkuk eden verginin taksitlerinin sürelerinde ödenmemesi halinde 213 sayılı Kanunun geçici 31 inci maddesi hükümlerinden faydalanılamaz.
 Örnek 1: Tam mükellefiyet esasında vergilendirilen, hesap dönemi takvim yılı olan (A) A.Ş.’nin 9/6/2021 tarihi itibarıyla yasal defter kayıtlarında maliyet bedeli 50.000.000 TL ve birikmiş amortismanı 30.250.000 TL olan ve 1991 yılından itibaren aktifinde yer alan binanın 2021 yılı Temmuz ayında bu Tebliğ kapsamında yeniden değerlemeye tabi tutulması halinde, yeniden değerlemeye ilişkin hesaplamalar aşağıdaki şekilde olacaktır. Mükellef daha önce 2018 yılında 213 sayılı Kanunun geçici 31 inci maddesi uygulamasından yararlanmamıştır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/1.jpg>]
+
 Değer artışının hesabında, yeniden değerleme öncesi ve sonrası net bilanço aktif değerleri olarak, Kanunun yürürlük tarihi (9/6/2021) itibarıyla binanın yasal defter kayıtlarında yer alan bedeli ile birikmiş amortismanları arasındaki ve bunların yeniden değerleme sonrası bulunan tutarları arasındaki fark tutarlar dikkate alınacaktır.
 Bu kapsamda değer artışı, taşınmazın;
 - Yeniden değerleme sonrası net bilanço aktif değerinden (290.337.500,00 - 175.654.187,50 = 114.683.312,50),
@@ -157,12 +159,16 @@ indirilmesi suretiyle hesaplanacak olup, örneğimizde (114.683.312,50 - 19.750.
 Yapılan yeniden değerleme sonrasında 94.933.312,50 TL değer artışı üzerinden %2 oranında hesaplanan 1.898.666,25 TL verginin kurumlar vergisi yönünden bağlı olunan vergi dairesine yeniden değerleme işleminin yapıldığı tarihi izleyen ayın son günü (31/8/2021) akşamına kadar beyan edilip aynı sürede ilk taksiti (632.888,75 TL), 31/10/2021 tarihine kadar (bu tarih dâhil) ikinci taksiti ve 31/12/2021 tarihine kadar da (bu tarih dâhil) üçüncü taksiti ödenecektir.
 Yukarıda gösterilen işlemlere ait muhasebe kayıtları ise aşağıdaki şekilde olacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/2.jpg>]
+
 Mükellef, yeniden değerlemeye tabi tuttuğu binayı yeni değeri üzerinden amortismana tabi tutabilecektir. Buna göre söz konusu binanın maliyet bedeli 290.337.500 TL’ye çıktığından, 2021 yılı ve müteakip yıllarda ayrılacak yıllık toplam amortisman tutarı da (290.337.500 x %2 =) 5.806.750 TL olacaktır.
 2021 yılının ikinci geçici vergi döneminde de, söz konusu bina için aktifte kayıtlı yeniden değerleme öncesi değer üzerinden [(50.000.000 x %2) / 4 = 250.000] amortisman ayıran mükellef tarafından (213 sayılı Kanunun geçici 31 inci maddesinin yedinci fıkrası gereğince, yeniden değerlemede, 9/6/2021 tarihi itibarıyla yasal defter kayıtlarında yer alan değerler dikkate alınabileceğinden, 2021 yılının birinci geçici vergi dönemi için ayrılan amortisman tutarı yeniden değerlemeye tabi tutulmuş, ikinci geçici vergi dönemine ilişkin amortisman tutarı yeniden değerleme öncesindeki değer üzerinden hesaplanmıştır.);
 - 2021 yılının üçüncü geçici vergi dönemi için gider olarak birikmiş amortisman tutarına dâhil edilecek tutar [(5.806.750 x ¾) - 1.451.687,50 (birinci geçici vergi dönemi) - 250.000 (ikinci geçici vergi dönemi) =] 2.653.375 TL,
 - 2021 yılının dördüncü geçici vergi dönemi için gider olarak birikmiş amortisman tutarına dâhil edilecek ilave tutar ise (5.806.750 - 1.451.687,50 - 250.000 - 2.653.375 =) 1.451.687,50 TL olacak
 ve böylece 2021 yılı üçüncü geçici vergi döneminde ayrılmış toplam amortisman tutarı 4.355.062,50 TL ve dördüncü geçici vergi döneminde ayrılmış toplam amortisman tutarı ise 5.806.750 TL olarak gerçekleşecektir.
 Örnek 2: Tam mükellefiyet esasında vergilendirilen (B) A.Ş.’nin 15/8/2017 tarihinde KDV hariç 20.000.000 TL bedelle satın aldığı faydalı ömrü 10 yıl olan jeneratörün birikmiş amortisman tutarı 9/6/2021 tarihi itibarıyla 8.500.000 TL olup, söz konusu jeneratör 2021 yılı Ağustos ayında yeniden değerlemeye tabi tutulacak olursa yeniden değerlemeye ilişkin hesaplamalar aşağıdaki şekilde olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/3.jpg>]
 
 Bu durumda değer artışı;
 - Yeniden değerleme sonrası net bilanço aktif değerinden (44.319.600 - 18.835.830 = 25.483.770),
@@ -172,10 +178,14 @@ Yapılan yeniden değerleme sonrasında hesaplanan 13.983.770 TL değer artış�
 Örnek 3: Tam mükellefiyet esasında vergilendirilen (C) Ltd. Şti.’nin 2005 yılı Temmuz ayında 1.000.000 TL bedelle satın alarak idari faaliyetlerde kullandığı binanın 25/5/2018 tarihi itibarıyla birikmiş amortisman tutarı 265.000 TL’dir. Mükellefçe, 50 yıl faydalı ömür ve %2 amortisman oranı dikkate alınarak normal amortisman usulüne göre amortisman ayırılmaktadır.
 a) Mükellef tarafından 2018 yılı Ağustos ayında söz konusu taşınmaz 213 sayılı Kanunun geçici 31 inci maddesi ve 500 Sıra No.lu Vergi Usul Kanunu Genel Tebliği çerçevesinde yeniden değerlemeye tabi tutulmuş olup, 2018 yılındaki söz konusu yeniden değerleme sonrası tutarlar aşağıdaki gibidir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/4.jpg>]
+
 b) Mükellef, yeniden değerlemeye tabi tuttuğu taşınmazını yeni değeri üzerinden amortismana tabi tutmaya devam etmiştir. Buna göre söz konusu taşınmazın yeniden değerlenmiş maliyet bedeli 2.816.140 TL olarak hesaplandığından, 2018 yılı ve müteakip yıllarda ayrılacak yıllık amortisman tutarı da (2.816.140 x %2=) 56.322,80 TL olacaktır. 2018 yılı sonu itibarıyla (2018 dahil) birikmiş amortisman tutarı (746.277,10 + 5.000 + 23.161,40 + 14.080,70=) 788.519,20 TL’dir.
 c) 9/6/2021 tarihi itibarıyla yasal defter kayıtlarında söz konusu binanın maliyet bedeli 2.816.140 TL, birikmiş amortismanı (788.519,20 + 56.322,80 (2019 yılı amortisman tutarı) + 56.322,80 (2020 yılı amortisman tutarı) + 14.080,70 (2021 yılı birinci geçici vergi dönemi amortisman tutarı) =) 915.245,50 TL olarak yer almaktadır.
 2021 yılının ikinci geçici vergi döneminde, söz konusu taşınmaz için aktifte kayıtlı değer üzerinden amortisman ayıran mükellef bu defa 7326 sayılı Kanunla 213 sayılı Kanunun geçici 31 inci maddesine eklenen yedinci fıkra ve bu Tebliğ kapsamında söz konusu taşınmazı 2021 yılının Eylül ayında yeniden değerlemek istemektedir. Bu durumda, 2021 yılı Mayıs ayı Yİ-ÜFE değerinin 2018 yılı Mayıs ayı Yİ-ÜFE değerine bölünmesi sonucu bulunacak olan oran (666,79/354,85=1,87907) yeniden değerlemede kullanılacaktır.
 Buna göre, 2021 yılı Eylül ayında yapılacak yeniden değerleme ve değer artışı aşağıdaki şekilde hesaplanacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/5.jpg>]
 
 Yeniden Değerleme Sonrası Net Bilanço Aktif Değeri (5.291.724,19 - 1.719.810,36 =) 3.571.913,83 TL
 Yeniden Değerleme Öncesi Net Bilanço Aktif Değeri (2.816.140,00 - 915.245,50 =) 1.900.894,50 TL
@@ -192,6 +202,8 @@ Maliyet Bedeli (-): (5.291.724,19 TL)
 Birikmiş Amortisman (+): 1.905.020,70 TL
 Kar: 1.613.296,51 TL
 Yukarıda gösterilen işlemlere ait muhasebe kayıtları ise aşağıdaki şekilde olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/VergiUsul_Kanunu/530/6.jpg>]
 
 Özel fon hesabındaki tutarlar
 MADDE 12 – (1) Pasifte özel bir fon hesabında gösterilen değer artışı tutarının, mükellefler tarafından istenildiğinde sermayeye ilave edilmesi mümkün bulunmaktadır. Ancak, söz konusu fonun sermayeye ilave edilme dışında herhangi bir şekilde başka bir hesaba nakledilen veya işletmeden çekilen kısmı, bu işlemin yapıldığı dönem kazancı ile ilişkilendirilmeksizin bu dönemde gelir veya kurumlar vergisine tabi tutulur.

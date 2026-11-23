@@ -19,6 +19,9 @@ Gelir İdaresi Başkanlığı
 KATMA DEĞER VERGİSİ SİRKÜLERİ / 45
 
 Konusu Tarihi Sayısı İlgili Olduğu Maddeler | : Ocak / 2007 vergilendirme dönemine ait Katma Değer Vergisi Beyannamelerinin verilme süresinin uzatımı : 05/02/2007 : KDV-45/2007-1 : Katma Değer Vergisi Kanunu Madde 41/1, 41/3 ve 46/1
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 1.Giriş:
 Ocak/2007 vergilendirme dönemine ait katma değer vergisi beyannamelerinin verilme süresinin uzatılması bu sirkülerin konusunu oluşturmaktadır.

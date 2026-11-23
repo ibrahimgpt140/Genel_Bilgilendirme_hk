@@ -45,12 +45,20 @@ a) Söz konusu Bakanlar Kurulu Kararı (BKK) ile maddeden yararlanacak ticari, z
 Buna göre;
 i) Bilanço esasına göre defter tutan yıllık gelir veya kurumlar vergisi mükelleflerinin çok zor durum halinin tespitinde aşağıdaki mali göstergeler kullanılacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/1.jpg>]
+
 ii) İşletme/zirai işletme hesabı esasına göre defter tutan, ticari kazancı basit usulde tespit edilen ve serbest meslek kazanç defteri tutan mükelleflerin çok zor durum halinin tespitinde aşağıdaki mali göstergeler kullanılacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/2.jpg>]
 
 iii) Mükelleflerin mali durumlarının değerlendirilmesi sonucu; nakit oranının 0,1 veya 0,1’den küçük, likidite oranının 0,7 veya 0,7’den küçük ve kaldıraç oranının 0,7 veya 0,7’den büyük olması ve bu şartların bir arada bulunması halinde mükelleflerin çok zor durumda oldukları kabul edilecektir.
 b) 48/A maddesi kapsamında mükelleflerin çok zor durum derecesinin belirlenmesinde, aşağıdaki likidite ve kaldıraç oranlarının kullanılması BKK ile uygun görülmüştür.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/3.jpg>]
+
 Mükelleflerin, likidite ve kaldıraç analiz tablolarına göre ayrı ayrı tespit edilen dereceler toplanarak “Çok Zor Durum Derecesi” bulunacaktır. Bu dereceye göre azami tecil süresi ile 6183 sayılı Kanunun 48 inci maddesine göre belirlenen tecil faizinin (Yürürlükteki Tecil Faiz Oranı=TFO) belirli bir yüzdesi esas alınarak bulunan faiz oranı “Tecil Süresi ve Faiz Oranı Belirleme Tablosu”ndan tespit edilecektir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/4.jpg>]
 
 Kanunun 48/A maddesi kapsamında tecil talebinde bulunan mükelleflerin vermiş oldukları bilgi ve belgeler değerlendirilerek, nakit, likidite ve kaldıraç oranları tespit edilecektir. Tecile yetkili makamlar, mükelleflerin vermiş oldukları mali durumlarını gösteren bilgi ve belgelerin doğruluğunu araştırma yetkisine sahip olup, bu kapsamda mükelleften ve üçüncü kişilerden ilave bilgi talebinde bulunabilecektir. Değerlendirmeler sonucunda mükellefin madde hükmünden yararlanması için gerekli şartların varlığı anlaşıldığı takdirde, çok zor durum derecesine göre tecil ve taksitlendirme yapılabilecektir.
 BKK ile belirlenen kriterlerden tecil süresi azami süreyi göstermekte olup, tecile yetkili makamlarca, mükellefin talep ettiği tecil süresinden daha kısa sürede tecil yapılması mümkündür.
@@ -65,6 +73,8 @@ Tecile yetkili makam tarafından yapılan değerlendirmede tecil başvuru tarihi
 tespit edilmiş ve yapılan araştırmalarda borç ödemede hüsnüniyet sahibi olduğu görüldüğünden, talebinin madde kapsamında değerlendirilmesi için gerekli şartların oluştuğu anlaşılmıştır.
 Mükellefin, likidite oranı (0,55) karşılığı olan 2 derecesi ile kaldıraç oranı (0,95) karşılığı olan 3 derecesinin toplanması neticesinde çok zor durum derecesi 5 olarak tespit edilmiştir.
 BKK ile çok zor durum derecesi 5 olan mükellefler için belirlenen azami tecil süresi ve faiz oranları aşağıda yer almaktadır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/5.jpg>]
 
 Tecile yetkili makam, söz konusu borcun 12 ayda 12 eşit taksitte ödenmesini uygun bulmuştur.
 Bu durumda, tecil edilen borç için yürürlükteki tecil faiz oranının %50’si esas alınarak faiz hesaplanması (Yıllık %12 olan tecil faizi oranı yerine yıllık % 6 tecil faizi oranı uygulanacaktır.) gerekmektedir.
@@ -105,6 +115,8 @@ Söz konusu damga vergisine tecil müracaat tarihine kadar geçen süre için he
 Mükellef ilk 2 taksiti ödeme planında yer alan süreler içinde, kalan taksit tutarlarının tamamını 3 üncü taksit ödeme süresi içinde ödemiştir.
 Bu durumda, ödenen ilk 2 taksit için yürürlükteki tecil faizi oranının %70’i oranında tecil faizi uygulanacak, geri kalan taksitlerin tamamının faiz oranı daha düşük bir süre olan 6 ay içinde ödenmesi nedeniyle, erken ödenen taksit tutarlarına ödemenin yapıldığı süre için öngörülmüş olan yürürlükteki tecil faizi oranının %65’i oranında tecil faizi uygulanacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/6.jpg>]
+
 13. 48/A maddesinin dördüncü fıkrasında “Amme borçlusunun alacaklı tahsil daireleri itibarıyla tecil edilen borçlarının toplamı beşyüz bin Türk lirasını (bu tutar dâhil) aşmadığı takdirde teminat şartı aranmaz. Bu tutarın üzerindeki amme alacaklarının tecilinde, gösterilmesi zorunlu teminat tutarı beşyüz bin Türk lirasını aşan kısmın %25’idir.” hükmü yer almaktadır.
 Buna göre, 48/A maddesi kapsamında tecil edilecek amme alacaklarının 500.000,- lirayı (bu tutar dahil) aşmaması halinde teminat aranılmaksızın tecil yapılması mümkün bulunmaktadır. Tecil edilecek amme alacağının toplam tutarının 500.000,- lirayı aşması durumunda, gösterilmesi zorunlu olan teminat tutarı 500.000,- lirayı aşan kısmın %25’i olacaktır. Ayrıca, alınacak teminat tutarının tespitinde, gecikme zammı yerine, Yİ-ÜFE tutarı dikkate alınacaktır.
 Hükmün uygulaması sırasında teminat tutarına yönelik düzenlemeler dikkate alınarak bu Tebliğin Birinci Kısım Dördüncü Bölüm “I.Tecil” başlıklı bölümünün “A. Kanunun 48 inci Maddesine Göre Tecil” başlıklı bölümün 4-a bölümünde yapılan açıklamalara göre işlem yapılacaktır.
@@ -137,6 +149,8 @@ Haczedilen gayrimenkullerin toplam değeri (15.650.000,- lira) tecil edilen bor�
 Mükellef tarafından hacizli gayrimenkullerin satışına izin verilmesi talep edilmiştir. Talep tarihi itibarıyla tecilli borca karşılık 4.200.000,- lira taksit ödemesi yapılmıştır.
 Hacizli gayrimenkullerin değerleri dikkate alındığında, değeri 2.000.000,- liranın altında olan satışına izin verilebilecek 3 adet (500.000,-, 750.000,- ve 1.900.000,- lira değerindeki) gayrimenkul bulunmaktadır.
 Mükellefin gayrimenkul satışına ilişkin talebinin vergi dairesince uygun bulunması üzerine, mükellef tarafından 3 adet gayrimenkulün satıldığı varsayıldığında, vergi dairesine ödenecek asgari tutar aşağıda gösterilmiştir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/Tebligler/Amme_Alacaklari/10/7.jpg>]
 
 Mükellefin tecilli borca ilişkin olarak daha önce yaptığı 4.200.000,- lira ödeme ile gayrimenkullerin satışından yapılan 1.875.000,- lira tahsilat sonucunda tecilli borç (25.000.000-6.075.000=)18.925.000,- liraya inmiştir.
 Satış sonrasında tecil talebi üzerine hesaplanan zorunlu teminat tutarını karşılayacak mahcuz mal ve/veya teminat bulunması gerektiğinden, gayrimenkul üzerinden haczin kaldırılabilmesi için [(25.000.000-500.000=)24.500.000x0,25=]6.125.000,- lira tutarında teminat bulunması gerekmektedir.

@@ -100,6 +100,8 @@ Sermayeye ilave olunan öz sermaye kalemlerinin sermayenin bir unsuru olduğu ta
 Buna göre, mükellefin toplam 1.000.000 TL tutarındaki sermayesinin %60’ı nakdi sermayeden, %30’u enflasyon düzeltmesi olumlu farklarından, %10’u ise geçmiş yıl karlarından oluşmaktadır. 1/9/2023 tarihinde sermayenin 400.000 TL azaltılması nedeniyle azaltılan tutarın 240.000 TL’sinin (400.000 TLx0,60) nakdi sermayeden, 120.000 TL’sinin (400.000 TLx0,30) enflasyon düzeltmesi olumlu farklarından, 40.000 TL’sinin (400.000 TLx0,10) ise geçmiş yıl karlarından kaynaklandığı kabul edilecektir.
 Bu kapsamda, azaltıma konu edilen ve enflasyon düzeltmesi olumlu farklarından kaynaklanan 120.000 TL hem kurumlar vergisine hem de ortakların niteliğine bağlı olarak kar dağıtımına bağlı vergi kesintisine, geçmiş yıl karından kaynaklanan 40.000 TL ise ortakların niteliğine bağlı olarak yalnızca kar dağıtımına bağlı vergi kesintisine tabi tutulacaktır. Nakdi sermayeden kaynaklanan 240.000 TL üzerinden ise herhangi bir vergileme yapılması söz konusu olmayacaktır.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_1.jpg>]
+
 32.4.4. Öz sermaye kalemlerinin sermayeye eklendiği tarihten itibaren beş tam yıl geçmeden kurumlar tarafından sermaye azaltılması
 Sermayeye ilave olunan öz sermaye kalemlerinin sermayenin bir unsuru olduğu tarihten itibaren beş tam yıl geçmeden, kurumların sermayelerini azaltmaları durumunda Tebliğin “32.4.2.” bölümünde yer alan ve üç sınıfta gruplandırılan sermaye unsurlarının sırasıyla azaltıma konu edildiği kabul edilecektir. Buna göre, beş tam yıllık süre tamamlanmadan sermaye azaltımı yapılması durumunda, sermaye azaltımının sırasıyla;
 I. Sermayeye ilave dışında başka bir hesaba nakledilmesi, işletmeden çekilmesi veya sermaye hesabından başka hesaplara aktarımı kurumlar vergisine ve kar dağıtımına/ana merkeze aktarılan tutara bağlı vergi kesintisine tabi tutulacak öz sermaye kalemlerinden,
@@ -110,6 +112,8 @@ yapıldığı kabul edilecek ve buna göre vergileme yapılacaktır.
 Mükellef kurum tarafından 7/8/2025 tarihinde tescil edilen kararla şirket sermayesinin 400.000 TL azaltılması kararı alınmıştır.
 Buna göre, azaltıma konu edilen sermayenin 200.000 TL’sinin enflasyon düzeltmesi olumlu farklarından, 100.000 TL’sinin geçmiş yıl karlarından ve kalan 100.000 TL’sinin de nakdi sermayeden yapıldığı kabul edilecektir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_2.jpg>]
+
 32.4.5. Öz sermaye unsurlarının sermayeye ilave edilme tarihine göre sermaye azaltımındaki öncelik durumu
 Kurumlar tarafından yapılacak sermaye azaltımında, daha önce sermayeye eklenen öz sermaye unsurlarının sermayeye eklenme tarihi itibarıyla bazılarının beş tam yıllık süreyi aşması bazılarının ise bu süreyi aşmaması söz konusu olabilmektedir. Bu durumda, sermayeye ilave edilen öz sermaye unsurlarından öncelikle sermayeye eklenme tarihi beş tam yılı geçmemiş olan unsurların sermayeden azaltıldığı kabul edilecektir.
 Örnek: 9.000.000 TL nakdi sermayesi olan (KLM) Ltd. Şti., 14/7/2017 tarihinde tescil edilen kararla tamamı enflasyon düzeltmesi olumlu farklarından karşılanmak suretiyle sermayesini 12.000.000 TL’ye çıkarmıştır.
@@ -117,6 +121,8 @@ Mükellef kurum tarafından 28/11/2022 tarihinde tescil edilen ikinci bir kararl
 Bu defa, mükellef kurum yetkili organı tarafından 9.000.000 TL sermaye azaltımı kararı alınmış ve bu karar 7/8/2024 tarihinde tescil edilmiştir.
 (KLM) Ltd. Şti. tarafından yapılan sermaye azaltımının, öncelikle sermayeye eklenme tarihi beş tam yıllık süreyi geçmemiş unsurlardan karşılandığı varsayılacaktır. Buna göre, sermaye azaltımının sırasıyla yeniden değerleme artışları (3.000.000 TL) ve geçmiş yıl karlarından (2.000.000 TL) yapıldığı kabul edilecektir. Kalan kısmın ise sermayeye eklenme tarihi beş tam yıllık süreyi geçmiş unsurlardan karşılanması gerekmektedir.
 Buna göre, mükellefin 12.000.000 TL tutarındaki kalan toplam sermayesinin; %25’i enflasyon düzeltmesi olumlu farklarından, %75’i ise nakdi sermayeden oluşmaktadır. Azaltıma konu edilmek istenen sermayeden kalan 4.000.000 TL’nin, 1.000.000 TL’sinin (4.000.000 TLx0,25) enflasyon düzeltmesi olumlu farklarından, 3.000.000 TL’sinin (4.000.000 TLx0,75) ise nakdi sermayeden kaynaklandığı kabul edilecektir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_3.jpg>]
 
 32.4.6. Geçmiş yıl zararlarının mahsubu suretiyle sermaye azaltımı
 Kurumlar vergisi mükellefleri geçmiş yıl zararlarının mahsubu suretiyle de sermaye azaltımında bulunabilmektedirler. Geçmiş yıl zararları nedeniyle bilançoda oluşan açığın kapatılmasına ilişkin hükümler esas itibarıyla 6102 sayılı Türk Ticaret Kanununda düzenlenmektedir.
@@ -128,6 +134,8 @@ Buna göre, öz sermaye kalemlerinin sermayeye ilave edilmesinden itibaren beş 
 Kurumun sermaye azaltımı kararından önce toplam sermayesi 10.000.000 TL olduğundan, bu sermaye içerisinde; Vergi Usul Kanununun 280/A maddesi hükmüne istinaden ayrılan ve sermayeye ilave edilen özel fon %10 (1.000.000 TL/10.000.000 TL), geçmiş yıl karları %40 (4.000.000 TL/10.000.000 TL) ve nakdi sermaye %50’lik (5.000.000 TL/10.000.000 TL) kısmı oluşturmaktadır.
 Bu bağlamda, azaltıma konu edilen 2.500.000 TL’lik sermayenin; 250.000 TL’sinin VUK’a göre ayrılan özel fondan, 1.000.000 TL’sinin sermayeye eklenmiş geçmiş yıl karlarından ve 1.250.000 TL’sinin ise ortaklarca işletmeye konulan ve vergilendirilmeyecek nakdi sermayeden karşılandığı kabul edilecektir. Kanunun 32/B maddesi hükmüne istinaden azaltıma konu edilen tutar üzerinden vergi kesintisi yapılmayacağından, özel fonlar ile geçmiş yıl karlarından azaltıma konu edilen tutar üzerinden vergi kesintisi söz konusu olmayacaktır.
 Diğer taraftan, VUK 280/A hükmüne istinaden ayrılan ve sermayeye eklenen özel fonun sermaye azaltımına konu edilmesi nedeniyle bu tutar üzerinden kurumlar vergisi hesaplanması gerekmektedir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_4.jpg>]
 
 32.4.7. Devir ve bölünme işlemleri nedeniyle sermaye azaltılması
 Kurumlar Vergisi Kanununun 19 uncu maddesinin birinci ve ikinci fıkralarında devre ilişkin hükümlere yer verilmiş olup, aynı maddenin üçüncü fıkrasının (a) ve (b) bentlerinde de tam bölünme ve kısmi bölünme olarak kabul edilen işlemler tanımlanmıştır. Kanunun 20 nci maddesinde ise 19 uncu madde kapsamında yapılan işlemler nedeniyle doğan karların hesaplanmayacağı ve vergilendirilmeyeceği hüküm altına alınmıştır.
@@ -142,8 +150,12 @@ Kanunun 19 uncu maddesi kapsamındaki tam bölünme işlemi sonucunda mevcut ve/
 Bu durumda da Kanunun 32/B maddesinde hüküm altına alınan beş tam yıllık sürenin tespitinde, sermaye unsurlarının devreden şirketin sermayesinde kaldığı süreler de devralan şirketler tarafından dikkate alınacaktır.
 Örnek: (BCD) Ltd. Şti. Kurumlar Vergisi Kanununun 19 uncu maddesi kapsamında tam bölünme suretiyle tasfiyesiz infisah edecek olup, söz konusu kurumun bilançosunda yer alan kıymetler bölünme tarihi itibarıyla aşağıdaki gibidir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_5.jpg>]
+
 Kurumun 800.000 TL olan sermayesi, kuruluş aşamasında işletmeye konulan 400.000 TL tutarındaki nakdi sermaye ile 26/2/2018 tarihinde sermayeye eklenen; 100.000 TL enflasyon düzeltmesi olumlu farkları ve 300.000 TL geçmiş yıl karlarından oluşmaktadır.
 (BCD) Ltd. Şti.’nin bilançosunda yer alan kıymetler, kayıtlı değerleri üzerinden bölünme tarihi olan 9/12/2022 tarihinde yeni kurulan (EFG) A.Ş. ve (ŞTU) Ltd. Şti.’ne aşağıdaki şekilde devredilmiştir. Bölünen kurumun sermayeye ilave edilmiş olan öz kaynak unsurlarının yeni kurulan şirketlere aktarılan değerlerle orantılı şekilde devredildiği kabul edilmiştir. Tam bölünme işlemi sonrası yeni kurulan şirketlerin bilançoları ise aşağıdaki gibidir.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_6.jpg>]
 
 Tam bölünme sonrası, (EFG) A.Ş.’nin 400.000 TL tutarındaki sermayesinin 200.000 TL’sinin nakdi sermayeden, 150.000 TL’sinin geçmiş yıl karlarından ve 50.000 TL’sinin enflasyon düzeltmesi olumlu farklarından oluştuğu kabul edilecektir.
 Diğer taraftan, (ŞTU) Ltd. Şti.’nin 400.000 TL tutarındaki sermayesinin ise 200.000 TL’sinin nakdi sermayeden, 150.000 TL’sinin geçmiş yıl karlarından ve 50.000 TL’sinin enflasyon düzeltmesi olumlu farklarından oluştuğu kabul edilecektir.
@@ -151,6 +163,8 @@ Bu defa, (ŞTU) Ltd. Şti. 18/12/2024 tarihinde 150.000 TL sermaye azaltımı ka
 Buna göre, sermaye azaltımı kararının tescil tarihi itibarıyla (ŞTU) Ltd. Şti.’nin sermayesinde yer alan unsurlar, bölünen kurum olan (BCD) Ltd. Şti.’nin sermayesine 26/2/2018 tarihinde ilave olduğundan ve bu unsurlar (BCD) Ltd. Şti. ile (ŞTU) Ltd. Şti.’nin sermayesinde toplamda beş tam yıldan fazla süreyle kaldığından, azaltıma konu edilecek tutar Tebliğin “32.4.3.” bölümünde yapılan açıklamalara göre tespit edilecektir.
 (ŞTU) Ltd. Şti.’nin, sermaye azaltım kararından önce toplam sermayesi 400.000 TL olduğundan, bu sermaye içerisinde; enflasyon düzeltmesi olumlu farkları %12,5 (50.000 TL/400.000 TL), geçmiş yıl karları %37,5 (150.000 TL/400.000 TL) ve nakdi sermaye %50’lik (200.000 TL/400.000 TL) kısmını oluşturmaktadır.
 Mükellefin azaltıma konu edilen sermayesinin 150.000 TL olduğu hususu dikkate alındığında, sermayenin; 18.750 TL’sinin (150.000x0,125) enflasyon düzeltmesi olumlu farklarından, 56.250 TL’sinin (150.000x0,375) geçmiş yıl karlarından ve 75.000 TL’sinin (150.000x0,50) nakdi sermayeden azaltıldığı kabul edilecek ve vergilemeye ilişkin hesaplamalar aşağıdaki gibi olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_7.jpg>]
 
 32.4.7.3. Kısmi bölünme işlemleri nedeniyle yapılan sermaye azaltımı
 Kanunun 19 uncu maddesi kapsamında gerçekleşen kısmi bölünme işlemi sonucunda, devredilen varlıklara karşılık edinilen devralan şirket hisseleri, devreden şirkette kalabileceği gibi doğrudan bölünen şirketin ortaklarına da verilebilmektedir. Kısmi bölünme dolayısıyla yapılacak sermaye azaltımında ise Türk Ticaret Kanununun ilgili hükümleri uygulanacaktır. Bu kapsamda, kısmi bölünme sonucunda sermaye konulan şirketten alınan hisselerin devreden şirket ortaklarına verilmesi nedeniyle devreden şirket nezdinde sermaye azaltımına gidilmesi gerekmektedir.
@@ -161,6 +175,8 @@ Kısmi bölünme sonrası sermaye unsurlarını devralan şirket nezdinde sermay
 Sermayesi 2.500.000 TL olan ve nakdi sermayeden oluşan (UVY) A.Ş.’nin, (BDE) A.Ş.’den devir aldığı tutarlar da dikkate alınarak yapmış olduğu sermaye artışı sonucu sermayesi 4.000.000 TL olmuştur. Bu tutarın; 3.000.000 TL’si ayni ve nakdi sermayeden, 400.000 TL’si enflasyon düzeltmesi olumlu farkından, 600.000 TL’si ise geçmiş yıl karlarından oluşmaktadır. Anılan şirket tarafından 18/1/2023 tarihinde tescil edilen kararla 2.000.000 TL sermaye azaltımı kararı alınmıştır.
 Buna göre, sermaye azaltımı kararının tescil tarihi itibarıyla (UVY) A.Ş.’nin, sermayesinde yer alan unsurlar, kısmi bölünen (BDE) A.Ş.’nin sermayesine 24/6/2015 tarihinde ilave olduğundan ve bu unsurlar (BDE) A.Ş. ile (UVY) A.Ş.’nin sermayesinde toplamda beş tam yıldan fazla süreyle kaldığından, azaltıma konu edilecek sermaye unsurları ve tutarlar Tebliğin “32.4.3.” bölümünde yapılan açıklamalara göre tespit edilecektir.
 Mükellefin toplam sermayesinin 4.000.000 TL olduğu hususu dikkate alındığında, sermayenin %75’i ayni ve nakdi sermayeden, %10’u enflasyon düzeltmesi olumlu farklarından, %15’inin ise sermayeye ilave edilen geçmiş yıl karlarından kaynaklandığı varsayılacak ve azaltıma konu sermaye unsurları ile buna ilişkin vergi hesaplaması aşağıdaki gibi olacaktır.
+
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/kurumlarteb21/kurumlarteb21_8.jpg>]
 
 32.4.8. Sermaye şirketlerinin kendi hisselerini iktisap etmesi sonucu yapılan sermaye azaltımı
 Gelir Vergisi Kanununun 94 üncü maddesinin dördüncü fıkrasında, tam mükellef sermaye şirketlerinin iktisap ettikleri kendi hisse senetleri ve ortaklık paylarıyla ilgili hükümlere yer verilmiş olup, Tebliğin “15.6.7.” bölümünde de konuyla ilgili gerekli açıklamalar yapılmıştır.

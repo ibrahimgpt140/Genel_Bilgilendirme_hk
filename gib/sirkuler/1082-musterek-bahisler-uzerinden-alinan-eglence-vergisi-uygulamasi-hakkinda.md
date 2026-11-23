@@ -28,6 +28,8 @@ Tarihi | : 26/04/2007
 
 Sayısı | : BGK-1/2007-1
 
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+
 İlgili olduğu maddeler | : Belediye Gelirleri Kanunu 19, 20 ve 21
 
 1-Giriş
@@ -71,5 +73,7 @@ Bu durumda, eğlence vergisinin matrahı (708.000 - 108.000) 600.000.- YTL olaca
 Duyurulur.
 
 Osman ARIOĞLU
+
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 
 Gelir İdaresi Başkanı

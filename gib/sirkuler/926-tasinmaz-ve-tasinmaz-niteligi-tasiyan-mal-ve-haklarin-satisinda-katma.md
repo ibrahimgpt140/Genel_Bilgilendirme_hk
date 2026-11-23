@@ -21,7 +21,8 @@ Konusu | : Taşınmaz ve taşınmaz niteliği taşıyan mal ve hakların satış
 Tarihi | : 23/6 /2010
 Sayısı | : KDVK-58/ 2010-6
 İlgili Olduğu Maddeler ve Tebliğler | : KDV Kanunu 1/1, 1/3-d, 17/4-r, 17/4-p, geçici 28 nci maddeler
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1- Giriş
 Başkanlığımıza intikal eden olaylardan, taşınmaz teslimlerinde KDV uygulamalarına ilişkin bazı tereddütlerin olduğu anlaşılmış ve aşağıdaki hususların açıklanmasına gerek duyulmuştur.
 2- Konuyla İlgili Yasal Hüküm ve Düzenlemeler

@@ -69,6 +69,8 @@ Ecrimisil borcunun vade tarihi olan 19/3/2014 tarihinden 26/4/2016 tarihine kada
 Ecrimisil ile gecikme zammının toplamı olan 202.920,30 TL üçe bölünmek suretiyle ödenecek taksit tutarı bulunacaktır.
 Borçlunun ödeyeceği taksit tutarları ve vadeleri aşağıdaki gibidir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/tahsilatB10_ek.gif>]
+
 Süresinde ödenmeyen taksitler
 MADDE 10 – (1) Taksitlerin süresinde ödenmemiş veya eksik ödenmiş olması, sonraki taksitlerin fıkra kapsamında ödenmesine engel değildir.
 (2) Süresinde ödenmeyen ya da eksik ödenen taksit tutarları, her bir taksidin vade tarihinden ödemenin yapıldığı tarihe kadar (bu tarih dahil) geçen süre için 6183 sayılı Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı ile birlikte, bu Kanun hükümlerine göre takip ve tahsil edilecektir.

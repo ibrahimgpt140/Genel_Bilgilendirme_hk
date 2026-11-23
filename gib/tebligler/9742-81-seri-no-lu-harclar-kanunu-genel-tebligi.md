@@ -20,6 +20,8 @@ Harç miktarlarının hesaplanmasına esas olacak döviz kuru ve emsaller
 MADDE 3 – (1) 492 sayılı Kanuna bağlı tarifelerdeki maktu harçlar ile maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler, anılan Kanunun mükerrer 138 inci maddesi hükmü gereğince, 1/1/2018 tarihinden geçerli olmak üzere yeniden tespit edilmiştir.
 (2) Bu çerçevede, Türkiye Cumhuriyeti Muvazzaf ve Fahri Konsolosluklarının yapacağı işlemlerden alınacak harç miktarlarının hesaplanmasına esas olacak döviz kuru 1 ABD Doları = 3,77 TL olarak; bu işlemlere uygulanacak emsal sayılar ise aşağıdaki tabloda gösterildiği şekilde yeniden belirlenmiştir.
 
+[Görsel: <https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/harclarteblig81.gif>]
+
 Yürürlük
 MADDE 4 – (1) Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer.
 Yürütme

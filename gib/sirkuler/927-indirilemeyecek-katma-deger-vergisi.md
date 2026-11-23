@@ -21,7 +21,8 @@ Konusu | : İndirilemeyecek katma değer vergisi
 Tarihi | : 23/6 /2010
 Sayısı | : KDV-57 / 2010 -5
 İlgili Olduğu Madde | : Katma Değer Vergisi Kanunu 30 uncu madde
-
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 1. Giriş
 Katma Değer Vergisi (KDV) Kanununun 30 uncu maddesinin uygulamasına yönelik Başkanlığımıza intikal eden tereddüt konusu olaylarla ilgili olarak aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur.
 2. Yasal Düzenleme

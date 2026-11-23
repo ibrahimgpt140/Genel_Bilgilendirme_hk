@@ -28,6 +28,8 @@ MADDE 4 – (1)
 A. (I) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 1/1/2018 tarihinden (bu tarih dahil) sonra kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtlar ile motosikletler aşağıdaki (I) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-7_dosyalar/image002.gif>]
+
 21/3/2018 tarihli ve 7103 sayılı Vergi Kanunları İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 18 inci maddesiyle 197 sayılı Kanunun 5 inci maddesine eklenen fıkralar uyarınca;
 - (I) sayılı tarifenin “1- Otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri” başlıklı bölümünde yer alan ve sadece elektrik motoru olan taşıtlardan, motor gücü;
 a) 70 kW’ı geçmeyenler 1, 2, 3 satır numaralarında,
@@ -50,6 +52,8 @@ vergilendirilecektir.
 B. (II) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 (I) ve (I/A) sayılı tarifelerde yazılı otomobil, arazi taşıtı, kaptıkaçtı ve benzerleri ile motosikletler dışında kalan motorlu kara taşıtları, aşağıdaki (II) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-7_dosyalar/image004.gif>]
+
 7103 sayılı Kanunun 17 nci maddesiyle 197 sayılı Kanunun 2 nci maddesinde yer alan minibüs tanımının değiştirilmesi neticesinde oturma yeri onyedi kişiye kadar olan ve insan taşımak amacıyla imal edilmiş taşıtlar da minibüs olarak vergilendirilecektir.
 7103 sayılı Kanunun 19 uncu maddesiyle 197 sayılı Kanunun 6 ncı maddesine eklenen fıkralar uyarınca;
 - (II) sayılı tarifenin “2) Panel van ve motorlu karavanlar (Motor Silindir hacmi)” başlıklı bölümünde yer alan ve sadece elektrik motoru olan taşıtlardan, motor gücü;
@@ -61,9 +65,13 @@ vergilendirilecektir.
 C. (IV) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 Uçak ve helikopterler (Türkkuşu, Türk Hava Kurumuna ait olanlar hariç) aşağıdaki (IV) sayılı tarifeye göre vergilendirilir.
 
+[Görsel: <http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-7_dosyalar/image006.gif>]
+
 197 sayılı Kanunun 6 ncı maddesinin birinci fıkrası uyarınca; Ulaştırma ve Altyapı Bakanlığı tarafından tutulan sivil hava vasıtaları siciline zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş olan uçaklar için, bu tarifede belirtilen motorlu taşıtlar vergisi tutarları %25’i oranında uygulanır.
 D. (I/A) Sayılı Motorlu Taşıtlar Vergisi Tarifesi
 31/12/2017 tarihinden (bu tarih dahil) önce kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtlar, 197 sayılı Kanunun Geçici 8 inci maddesinde düzenlenen (I/A) sayılı tarifeye göre vergilendirilir.
+
+[Görsel: <http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-7_dosyalar/image008.gif>]
 
 7103 sayılı Kanunun 21 inci maddesiyle 197 sayılı Kanunun Geçici 8 inci maddesine eklenen fıkra uyarınca; (I/A) sayılı tarifede yer alan ve sadece elektrik motoru olan taşıtlardan, motor gücü;
 a) 70 kW’ı geçmeyenler birinci satırında,

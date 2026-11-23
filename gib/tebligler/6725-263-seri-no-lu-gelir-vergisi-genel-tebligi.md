@@ -37,7 +37,7 @@ Mahsup sonucu ödenmesi gereken bir vergi olması halinde; bu tutar, aynı Kanun
 Beyan yoluyla mahsup edilemeyen zararların, başka gelir unsurlarındaki kazanca mahsubu yapılamayacağı gibi ertesi yıllara devredilmesi de söz konusu değildir.
 Örnek: Bay (A)'nın, 2006 yılında (X) Bankası aracılığıyla yapmış olduğu menkul kıymet alım-satımına ilişkin bilgiler aşağıdaki gibidir.
 
-(YTL)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | (YTL)
 Tarih | Menkul Kıymet Türü | Kar/Zarar | Tevkifat Matrahı | Tevkifat Oranı (%) | Vergi
 Şubat 2006 | Hisse Senedi | 180 | 180 | 15 | 27
 Mart 2006 | Tahvil | 120 | 120 | 15 | 18
@@ -49,29 +49,29 @@ Ekim 2006 | Hisse Senedi | -110 | - | - | -
 Kasım 2006 | Tahvil | -150 | - | - | -
 Bu durumda Bay (A)'nın ihtiyari beyanında yer alacak tutarlara ilişkin hesaplama aşağıdaki gibi olacaktır.
 
-(YTL)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | (YTL)
 Menkul Kıymet Türü | Kar/Zarar | Beyan Edilen Gelir | Vergi Oranı (%) | Hesaplanan Vergi | Toplam | Yıl İçinde Tevkif Edilen Vergi | İade Tutarı
 Tahvil | 220 | 170 | 15 | 25,5 | 30,5 | 45,5 | 15
 50 | 10 | 5
 Hisse Senedi | -230 | 0 | - | - | - | 27 | 27
 Bay (A)'nın "G.V.K. Geçici 67/11 inci Maddesine Göre İhtiyari Beyanda Bulunan Mükellefler İçin Yıllık Gelir Vergisi Beyannamesi" nin Tablo-2 ve Tablo-3 bölümleri aşağıdaki şekilde doldurulacaktır.
-(YTL)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | (YTL)
 TABLO-2 ALIM-SATIM KAZANÇLARINA İLİŞKİN BİLDİRİM
-MENKUL KIYMET TÜRÜ | KAR | ZARAR | TEVKİF EDİLEN VERGİ
-20 | Sabit Getirili Menkul Kıymetler | 220 | 45,5
-21 | Değişken Getirili Menkul Kıymetler | -230 | 27
-22 | Diğer Sermaye Piyasası Araçları
-23 | Yatırım Fonları Katılma Belgeleri
-24
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | MENKUL KIYMET TÜRÜ | KAR | ZARAR | TEVKİF EDİLEN VERGİ
+20 | Sabit Getirili Menkul Kıymetler | 220 | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | 45,5
+21 | Değişken Getirili Menkul Kıymetler | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | -230 | 27
+22 | Diğer Sermaye Piyasası Araçları | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+23 | Yatırım Fonları Katılma Belgeleri | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
+24 | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>]
 25 | Toplam | a | 220 | b | -230 | c | 72,5
-(YTL)
+[Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | [Görsel: <http://www.gelirler.gov.tr/icons/ecblank.gif>] | (YTL)
 TABLO-3 VERGİ BİLDİRİMİ
-26 | Vergiye Tabi Gelir (25 a) | 220
-27 | Hesaplanan Gelir Vergisi | 30,5
-28 | Yıl İçinde Tevkif Edilen Vergiler (25 c) | 72,5
-29 | Ödenmesi Gereken Gelir Vergisi (27-28) | -
-30 | İadesi Gereken Gelir Vergisi (28-27) | 42
-31 | Damga Vergisi
+26 | Vergiye Tabi Gelir (25 a) | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.6822?OpenElement&FieldElemFormat=jpg>] | 220
+27 | Hesaplanan Gelir Vergisi | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.6E68?OpenElement&FieldElemFormat=jpg>] | 30,5
+28 | Yıl İçinde Tevkif Edilen Vergiler (25 c) | 72,5 | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.754A?OpenElement&FieldElemFormat=jpg>]
+29 | Ödenmesi Gereken Gelir Vergisi (27-28) | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.7B14?OpenElement&FieldElemFormat=jpg>] | -
+30 | İadesi Gereken Gelir Vergisi (28-27) | 42 | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.814A?OpenElement&FieldElemFormat=jpg>]
+31 | Damga Vergisi | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.86FC?OpenElement&FieldElemFormat=jpg>] | [Görsel: <http://www.gelirler.gov.tr/gelir2.nsf/844f2e0bba23cbe686256aa4002edc51/5a3263708484729d802572610063a919/mevkapsam/0.8BF2?OpenElement&FieldElemFormat=jpg>]
 2- Dar Mükellef Gerçek Kişi ve Kurumların Özel Amaçlı Araçlardan (ADR, GDR, DR) Elde Ettikleri Kazançların Vergilendirilmesi
 257 seri numaralı Gelir Vergisi Genel Tebliğinde menkul kıymetlerin, mülkiyetin şekil değiştirerek devri sonucunu doğuran, ADR, GDR ya da DR gibi uluslararası piyasalarda işlem görmek üzere ihraç edilmiş özel amaç araçları (depo sertifikası) haline getirilmesi durumunda, bu sertifikalardan elde edilen gelirlerin vergilendirilmesine ilişkin açıklamalara yer verilmiştir.
 01/01/2006 tarihinden sonra iktisap edilmiş depo sertifikalarının (ADR-GDR-DR) iptal edilerek karşılığı menkul kıymetlerin alımı şeklinde dar mükellef yatırımcılarca (gerçek kişi/kurum) elden çıkarılması sonucu elde edilen kazançların vergilendirilmesi Geçici 67 nci madde hükümleri çerçevesinde yapılacak olup, iptal işleminin 07/07/2006 tarihinden önce yapılması durumunda (ilgili çifte vergilendirmeyi önleme anlaşmaları ile 257 ve 258 seri numaralı Gelir Vergisi Genel Tebliğleri göz önünde bulundurularak) % 15, bu tarihten itibaren yapılması halinde ise % 0 oranında tevkifat uygulanacaktır.

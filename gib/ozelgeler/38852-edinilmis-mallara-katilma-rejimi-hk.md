@@ -7,6 +7,7 @@ sayi: "E-97895701-160[2026/5.1-19]-493812"
 kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/38852
 gib_guncelleme: 2026-04-21T17:05:44
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-66813766-175.01[5-2025/8]-6106"
 kanun: "1319 EMLAK VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/447/ozelge/39141
 gib_guncelleme: 2026-11-12T10:58:13
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

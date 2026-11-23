@@ -1,0 +1,69 @@
+---
+tur: Özelge
+gib_id: 22469
+baslik: "Müşteriye fatura edilen yakıt ve  otopark vb. giderlerin vergilendirilmesi."
+tarih: 2023-12-18
+sayi: "62030549-120[40-2020/397]-1469526"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/22469
+gib_guncelleme: 2025-03-24T19:29:20
+bes_yil: gecerli
+alindi: 2026-11-23
+---
+
+# Müşteriye fatura edilen yakıt ve  otopark vb. giderlerin vergilendirilmesi.
+
+**İlgili maddeler:** Madde 40 İndirilecek Giderler
+
+T.C.
+HAZİNE VE MALİYE BAKANLIĞI
+İstanbul Vergi Dairesi Başkanlığı
+Gelir Kanunları Gelir Ve Kurumlar Vergileri Grup Müdürlüğü
+
+Sayı | : | 18.12.2023
+Konu | : | Müşteriye fatura edilen yakıt ve otopark vb. giderlerin vergilendirilmesi.
+
+İlgi | :
+
+İlgide kayıtlı özelge talep formunda, kiralama yoluyla edindiğiniz ve şirket faaliyetlerinde kullandığınız araçlarınıza ait giderlerin 193 sayılı Gelir Vergisi Kanununun 40 ıncı maddesinin birinci fıkrasının (5) numaralı bendi kapsamında belirlenen limitlerin altında olduğu ve söz konusu araçlara ait yakıt, otopark vb. cari giderlerin ise müşterileriniz adına fatura edildiği belirtilerek, müşterilere fatura edilerek yansıtılan yakıt, otopark vb. cari giderlerin gider kısıtlamasına tabi olup olmayacağı hususunda Başkanlığımızdan görüş talep edildiği anlaşılmakta olup, konuya ilişkin Başkanlığımız görüşü aşağıda açıklanmıştır.
+
+5520 sayılı Kurumlar Vergisi Kanununun 6 ncı maddesinde; kurumlar vergisinin, mükelleflerin bir hesap dönemi içinde elde ettikleri safi kurum kazancı üzerinden hesaplanacağı, safi kurum kazancının tespitinde Gelir Vergisi Kanununun ticari kazanç hakkındaki hükümlerinin uygulanacağı hüküm altına alınmış olup, Gelir Vergisi Kanununun 40 ıncı maddesi ile Kurumlar Vergisi Kanununun 8 inci maddesinde safi kazancın tespit edilmesinde indirilecek giderler sayılmıştır.
+
+193 sayılı Gelir Vergisi Kanununun bilanço usulüne göre ticari kazancın tespiti ile ilgili 38 inci maddesinde "Bilanço esasına göre ticari kazanç, teşebbüsteki öz sermayenin hesap dönemi sonunda ve başındaki değerleri arasındaki müspet farktır. Bu dönem zarfında sahip veya sahiplerce:
+
+1. İşletmeye ilave olunan değerler bu farktan indirilir;
+
+2. İşletmeden çekilen değerler ise farka ilave olunur.
+
+Ticari kazancın bu suretle tespit edilmesi sırasında, Vergi Usul Kanununun değerlemeye ait hükümleri ile bu kanunun 40 ve 41'inci maddeleri hükümlerine uyulur." hükmüne yer verilmiştir.
+
+Diğer taraftan, aynı Kanunun "İndirilecek Giderler" başlıklı 40'ıncı maddesinde;
+
+"Safi kazancın tespit edilmesi için, aşağıdaki giderlerin indirilmesi kabul edilir:
+
+1. Ticari kazancın elde edilmesi ve idame ettirilmesi için yapılan genel giderler; (4108 sayılı Kanunun 19'uncu maddesiyle eklenen hüküm Geçerlilik; 1.1.1995 Yürürlük : 2.6.1995) (İhracat, yurt dışında inşaat, onarma, montaj ve taşımacılık faaliyetlerinde bulunan mükellefler, bu bentte yazılı giderlere ilaveten bu faaliyetlerden döviz olarak elde ettikleri hâsılatın binde beşini aşmamak şartıyla yurt dışındaki bu işlerle ilgili giderlerine karşılık olmak üzere götürü olarak hesapladıkları giderleri de indirebilirler.)(7194 sayılı kanunun 13 üncü maddesiyle eklenen parantez içi hüküm; Yürürlük: 1/1/2020 tarihinden itibaren başlayan vergilendirme dönemi gelir ve kazançlarına uygulanmak üzere 07.12.2019) (Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, kiralama yoluyla edinilen binek otomobillerinin her birine ilişkin aylık kira 5.500 Türk lirasına (323 Seri No.lu Gelir Vergisi Genel Tebliği ile 2023 yılında uygulanmak üzere 17.000 TL)(1) kadarlık kısmı ile binek otomobillerinin iktisabına ilişkin özel tüketim vergisi ve katma değer vergisi toplamının en 115.000 Türk lirasına (323 Seri No.lu Gelir Vergisi Genel Tebliği ile 2023 yılında uygulanmak üzere 440.000)(2) kadarlık kısmı gider olarak dikkate alınabilir.)
+
+...
+
+5. "Kiralama yoluyla edinilen veya işletmeye dahil olan ve işte kullanılan taşıtların giderleri (7194 sayılı kanunun 13 üncü maddesiyle eklenen parantez içi hüküm; Yürürlük:1/1/2020 tarihinden itibaren başlayan vergilendirme dönemi gelir ve kazançlarına uygulanmak üzere 07.12.2019)(Şu kadar ki faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, binek otomobillere ilişkin giderlerin en fazla %70'i indirilebilir.)
+
+..."
+
+hükmü yer almaktadır.
+
+Bununla birlikte, 311 Seri no.lu Gelir Vergisi Genel Tebliği'nin beşinci bölümünün "Binek otomobillere ilişkin tamir, bakım, yakıt ve benzeri cari giderler" başlıklı 14 üncü maddesinde de;
+
+"(1) Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, binek otomobillere ilişkin giderlerin en fazla %70'i, gelir ve kurumlar vergisi açısından safi kazancın tespitinde gider olarak indirim konusu yapılabilecektir.
+(2) İşletmeye veya envantere dâhil olup ticari veya mesleki faaliyette kullanılan binek otomobillerin giderleri sınırlandırılmakta olup, bu sınırlama esas itibarıyla faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere binek otomobillerin giderlerini kapsamaktadır.
+(3) Birinci fıkra kapsamındaki giderler genel olarak taşıtların tamir, bakım, yakıt, sigorta ve benzeri cari giderleridir.
+(4) Yapılan giderlerin işletmeye veya envantere kayıtlı ya da kiralama yoluyla edinilen binek otomobillere ilişkin olup olmamasının bir önemi bulunmamaktadır."
+
+açıklamaları yer almaktadır.
+
+Ayrıca, 213 sayılı Vergi Usul Kanununun 3 üncü maddesinde, vergilendirmede vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyetinin esas olduğu belirtilmiş, 227 nci maddesinde de "Bu Kanunda aksine hüküm olmadıkça bu kanuna göre tutulan ve üçüncü şahıslarla olan münasebet ve muamelelere ait olan kayıtların tevsiki mecburidir." hükmüne yer verilmiştir.
+
+Bu hüküm ve açıklamalara göre, esas faaliyet konusu kısmen veya tamamen binek otomobillerin kiralanması veya çeşitli şekillerde işletilmesi olmayan Şirketinizin, projeler ile ilgili işlerinde kullanmak üzere kiralama yoluyla edindiği binek otomobillere ait yakıt, otopark vb. giderlerinin, müşterileriniz adına düzenlenen fatura ile yansıtılmak suretiyle tahsil edilmesi halinde ilgili olduğu dönemde gelir olarak kaydedilmesi gerekmektedir.
+
+Öte yandan, anılan giderlerin Şirketinizce karşılanmasından sonra, müşteriye fatura düzenlemek suretiyle yansıtılması durumunda yansıtma faturasında yer alan tutarın tamamının gelir kaydedilmesi nedeniyle, gider olarak dikkate alınacak tutarın da gider kısıtlamasına tabi tutulmaksızın tamamının gider olarak dikkate alınması mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.

@@ -7,6 +7,7 @@ sayi: "43456486-130-27018"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/39017
 gib_guncelleme: 2026-06-03T12:55:22
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-90792880-155.01[1275]-"
 kanun: "488 DAMGA VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/38884
 gib_guncelleme: 2026-05-12T15:56:52
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

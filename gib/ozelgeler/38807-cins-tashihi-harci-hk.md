@@ -7,6 +7,7 @@ sayi: "64958909-140-134638"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/38807
 gib_guncelleme: 2026-02-05T14:01:34
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

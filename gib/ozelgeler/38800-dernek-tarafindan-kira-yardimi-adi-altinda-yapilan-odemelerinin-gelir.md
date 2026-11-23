@@ -7,6 +7,7 @@ sayi: "64958909-120-126878"
 kanun: "488 DAMGA VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/38800
 gib_guncelleme: 2026-01-15T12:37:44
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

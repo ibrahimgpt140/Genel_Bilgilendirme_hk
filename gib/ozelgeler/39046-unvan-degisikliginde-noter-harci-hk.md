@@ -7,6 +7,7 @@ sayi: "E-17192610-140[HARÇ-26-410]-184214"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/39046
 gib_guncelleme: 2026-06-18T10:10:11
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

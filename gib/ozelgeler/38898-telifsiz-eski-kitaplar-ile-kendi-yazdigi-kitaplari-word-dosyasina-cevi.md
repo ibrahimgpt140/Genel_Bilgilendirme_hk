@@ -7,6 +7,7 @@ sayi: "E-60938891-120[GVK:1-2]-13375"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38898
 gib_guncelleme: 2026-05-15T14:42:46
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

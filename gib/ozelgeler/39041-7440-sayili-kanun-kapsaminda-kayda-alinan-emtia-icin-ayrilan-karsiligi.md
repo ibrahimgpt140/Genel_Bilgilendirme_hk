@@ -7,6 +7,7 @@ sayi: "E-27575268-105[2023-854]-92251"
 kanun: "3568 SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)"
 kaynak: https://gib.gov.tr/mevzuat/kanun/444/ozelge/39041
 gib_guncelleme: 2026-06-10T10:37:27
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

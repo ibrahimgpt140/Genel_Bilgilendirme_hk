@@ -1,0 +1,53 @@
+---
+tur: Özelge
+gib_id: 28705
+baslik: "İndirimli Kurumlar Vergisi Uygulamaları"
+tarih: 2022-11-07
+sayi: "13334133-125-24393"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28705
+gib_guncelleme: 2025-03-24T19:52:02
+bes_yil: gecerli
+alindi: 2026-11-23
+---
+
+# İndirimli Kurumlar Vergisi Uygulamaları
+
+**İlgili maddeler:** Madde 32 Kurumlar vergisi ve geçici vergi oranı
+
+T.C.
+DÜZCE VALİLİĞİ
+Defterdarlık Defterdarlık Gelir Müdürlüğü
+
+Sayı | : | 13334133-125-24393 | 07.11.2022
+Konu | : | İndirimli Kurumlar Vergisi Uygulamaları
+
+İlgi | : | ….
+
+İlgide kayıtlı özelge talep formunuzda;
+
+- Vinç ve benzeri ekipman imalatı faaliyetinizle ilgili olarak … tarihinde başlamış olduğunuz tevsi yatırımınız için aldığınız "…" sayılı yatırım teşvik belgesinde vergi indirimi oranının %70 ve yatırıma katkı oranının %30 olarak belirlendiği,
+
+- 22.02.2017 tarihinde Resmi Gazetede yayımlanan 2017/9917 sayılı Yatırımlarda Devlet Yardımları Hakkında Kararda Değişiklik Yapılmasına Dair Karara istinaden imalat sanayiine yönelik %100 oranında vergi indirim oranı ile %45 yatırıma katkı oranlarının uygulandığı,
+
+- Daha sonra revize edilen … tarih ve "…" sayılı yatırım teşvik belgesinde vergi indirim oranının %80 ve yatırıma katkı oranının %40 olarak yeniden belirlendiği
+
+belirtilerek, revize öncesi yapılan harcamalara, … tarihinde revize edilen yatırım teşvik belgesinde belirlenen yatırım katkı oranının, 2018 yılı 4. geçici vergilendirme dönemi ve sonrasında uygulanıp uygulanamayacağı hususunda Defterdarlığımız görüşü sorulmuştur.
+
+Kurumlar Vergisi Kanununun 32/A maddesinde, "(1) Finans ve sigortacılık sektörlerinde faaliyet gösteren kurumlar, iş ortaklıkları, taahhüt işleri, 16/7/1997 tarihli ve 4283 sayılı Kanun ile 8/6/1994 tarihli ve 3996 sayılı Kanun kapsamında yapılan yatırımlar ile rödovans sözleşmelerine bağlı olarak yapılan yatırımlar hariç olmak üzere, bu maddenin ikinci fıkrasında belirtilen ve Ekonomi Bakanlığı tarafından teşvik belgesine bağlanan yatırımlardan elde edilen kazançlar, yatırımın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren yatırıma katkı tutarına ulaşıncaya kadar indirimli oranlar üzerinden kurumlar vergisine tabi tutulur.
+
+(2) Bu maddenin uygulamasında yatırıma katkı tutarı, indirimli kurumlar vergisi uygulanmak suretiyle tahsilinden vazgeçilen vergi yoluyla yatırımların Devletçe karşılanacak tutarını, bu tutarın yapılan toplam yatırıma bölünmesi suretiyle bulunacak oran ise yatırıma katkı oranını ifade eder. Yatırımın tamamlanması şartıyla, indirimli kurumlar vergisi uygulanmak suretiyle yararlanılan kısmı hariç olmak üzere kalan yatırıma katkı tutarı, yatırımın tamamlandığı hesap dönemini izleyen yıllarda Vergi Usul Kanunu hükümlerine göre bu yıllar için belirlenen yeniden değerleme oranında artırılarak dikkate alınır..." hükmüne yer verilmiştir.
+
+Aynı Kanunun Geçici 9 uncu maddesinde; mükelleflerin 2017, 2018 ve 2019 takvim yıllarında gerçekleştirdikleri imalat sanayiine yönelik yatırım teşvik belgesi kapsamındaki yatırım harcamaları için, bu Kanunun 32/A maddesinin ikinci fıkrasının (b) bendinde "%55", "%65" ve "%90" şeklinde yer alan kanuni oranların sırasıyla "%70", "%80" ve "%100" şeklinde ve (c) bendinde "%50" şeklinde yer alan kanuni oranın ise "%100" şeklinde uygulanacağı, bu süreyi bitiminden itibaren, sürenin bitimini takip eden her bir takvim yılı itibarıyla ayrı ayrı ya da birlikte, beş yıla kadar uzatmaya Cumhurbaşkanının yetkili olduğu hükme bağlanmıştır.
+
+Cumhurbaşkanı bu yetkisini 29/12/2019 tarihli ve 2019/1950 sayılı Cumhurbaşkanı Kararı ile kullanmış olup 2012/3305 sayılı Kararın (20/08/2020 tarihli ve 2846 sayılı Cumhurbaşkanı Kararı ile değişik) Geçici 8 inci maddesinde de, "(1) Bu Karar ve daha önceki kararlara istinaden imalat sanayiine yönelik (US-97 Kodu:15-37) düzenlenen yatırım teşvik belgeleri kapsamında;
+
+...
+
+b)1/1/2017 ile 31/12/2022 tarihleri arasında gerçekleştirilecek yatırım harcamaları için bölgesel ve stratejik teşvik uygulamaları kapsamında vergi indirimi desteğinde uygulanacak yatırıma katkı oranları her bir bölgede geçerli olan yatırıma katkı oranına 15 puan ilave edilmek suretiyle, kurumlar vergisi veya gelir vergisi indirimi tüm bölgelerde yüzde yüz oranında ve yatırıma katkı tutarının yatırım döneminde yatırımcının diğer faaliyetlerinden elde ettiği kazançlarına uygulanacak oranı yüzde yüz olmak üzere,
+
+teşvik belgesi üzerinde herhangi bir işlem yapılmaksızın uygulanır." açıklamaları yer almaktadır.
+
+Buna göre, … tarihinde yatırım teşvik belgeniz revize edilerek vergi indirim oranı ve yatırıma katkı oranı artırılmış olduğundan, … tarihinden sonraki dönemlere ilişkin (bu tarihin içinde bulunduğu geçici vergilendirme dönemi dahil) olmak üzere verilecek geçici ve yıllık kurumlar vergisi beyannamelerinde, teşvik belgesi kapsamındaki (revize öncesi olanlar dahil) tüm harcamalara, revize edilmiş yatırıma katkı oranı esas alınarak indirimli kurumlar vergisi uygulanması mümkün bulunmaktadır.
+
+Bilgi edinilmesini rica ederim.

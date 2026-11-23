@@ -7,6 +7,7 @@ sayi: "E-90792880-180[2025/2]-502827"
 kanun: "6802 GİDER VERGİLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/38952
 gib_guncelleme: 2026-06-01T10:50:03
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

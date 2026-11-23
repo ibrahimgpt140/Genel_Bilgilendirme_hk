@@ -7,6 +7,7 @@ sayi: "E-66523654-130[ÖZG-42-2025]-149871"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38944
 gib_guncelleme: 2026-05-21T16:28:48
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

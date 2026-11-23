@@ -7,6 +7,7 @@ sayi: "E-64597866-105-1132393"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38865
 gib_guncelleme: 2026-04-30T14:05:54
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

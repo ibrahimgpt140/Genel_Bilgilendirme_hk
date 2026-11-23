@@ -7,6 +7,7 @@ sayi: "E-54211343-120[Mük.20/B-2025/1]-19917"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38894
 gib_guncelleme: 2026-05-15T14:11:15
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

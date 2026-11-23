@@ -1,0 +1,43 @@
+---
+tur: Özelge
+gib_id: 28674
+baslik: "İndirimli Kurumlar Vergisi HK."
+tarih: 2024-07-09
+sayi: "49327596-125[KVK.ÖZ.2023.30]-187728"
+kanun: "5520 KURUMLAR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/28674
+gib_guncelleme: 2025-03-24T19:51:59
+bes_yil: gecerli
+alindi: 2026-11-23
+---
+
+# İndirimli Kurumlar Vergisi HK.
+
+**İlgili maddeler:** Madde 32 Kurumlar vergisi ve geçici vergi oranı
+
+T.C. GELİR İDARESİ BAŞKANLIĞI Antalya Vergi Dairesi Başkanlığı Gelir Kanunları Grup Müdürlüğü
+
+Sayı | : | E-49327596-125[KVK.ÖZ.2023.30]-…. | 09.07.2024
+Konu | : | İndirimli Kurumlar Vergisi HK.
+
+İlgi | : | ….
+
+İlgide kayıtlı özelge talep formunuzda, şirketinizin otel işletmeciliği kapsamında kurumlar vergisi mükellefi olduğu ve Turizm Teşvik Kanununun 13 üncü maddesi ve buna bağlı yayımlanan Bakanlar Kurulu Kararı kapsamında ihracatçı kapsamında değerlendirildiği belirtilerek, Kurumlar Vergisi Kanununun 32 nci maddesinde yer alan 5 puanlık indirimden yararlanıp yararlanamayacağınız hususunda Başkanlığımız görüşü sorulmuştur.
+
+5520 sayılı Kurumlar Vergisi Kanununun 32 nci maddesinin yedinci fıkrasında, "İhracat yapan kurumların münhasıran ihracattan elde ettikleri kazançlarına kurumlar vergisi oranı (7456 sayılı kanunun 21 inci maddesiyle değişen ibare; Yürürlük: 1/10/2023 tarihinden itibaren verilmesi gereken beyannamelerden başlamak üzere; kurumların 2023 yılı ve izleyen vergilendirme dönemlerinde elde edilen kazançlarına, özel hesap dönemine tabi olan kurumların ise 2023 takvim yılında başlayan özel hesap dönemi ve izleyen vergilendirme dönemlerinde elde edilen kazançlarına uygulanmak üzere 15.07.2023) 5 puan indirimli uygulanır." hükmü yer almaktadır.
+
+1 seri no.lu Kurumlar Vergisi Genel Tebliğinin;
+
+- "32.1.2.2. Kapsam ve yararlanacak olanlar" başlıklı alt bölümünde, "...İhracat yapan kurumların münhasıran ihracat faaliyetinden elde ettikleri kazançları, sanayi sicil belgesini haiz kurumların ise münhasıran üretim faaliyetinden elde ettikleri kazançları söz konusu 1 puanlık indirime konu edilebilecektir."
+
+- "32.1.2.5. İhracat faaliyetlerinden elde edilen kazançlarda kurumlar vergisi oranının 1 puan indirimli uygulanması" başlıklı bölümünde, "İhracat yapan kurumlar, gerek mal gerekse hizmet ihraçlarından elde ettikleri kazançlarına münhasır olmak üzere ilgili dönemde geçerli olan kurumlar vergisi oranını 1 puan indirimli uygulayabileceklerdir. Bu madde uygulamasında hizmet ihracı, yurt dışındaki bir müşteri için yapılan ve yurt dışında faydalanılan hizmetleri kapsamaktadır. Ayrıca, karşılıklı olmak şartıyla uluslararası roaming anlaşmaları çerçevesinde yurt dışındaki müşteriler için Türkiye'de verilen roaming hizmetlerinden elde edilen kazançlar da oranın 1 puan indirimli uygulanacağı kazançlar arasında kabul edilecektir..."
+
+açıklamalarına yer verilmiştir.
+
+Öte yandan, 2634 sayılı Turizmi Teşvik Kanununun 13 üncü maddesinde "... Belgeli işletmelerden Cumhurbaşkanınca her yıl belirlenen döviz miktarını sağlayanlar, ihracatçı sayılırlar." hükmü yer almaktadır.
+
+Konuya ilişkin yayımlanan 2016/8706 sayılı "Kültür ve Turizm Bakanlığından Belgeli Konaklama ve Deniz Turizmi Tesislerinin İhracatçı Sayılması İçin Sağlamaları Gereken Döviz Miktarına İlişkin Kararın" 2 nci maddesinde, Kültür ve Turizm Bakanlığından belgeli asli fonksiyonu konaklama olan işletmeler ile Kültür ve Turizm Bakanlığından belgeli deniz turizmi tesislerinin ihracatçı sayılabilmeleri için yurt dışından …. Amerikan Doları ve üzeri döviz miktarını sağlamalarının gerektiği ancak vergi kanunlarında yer alan ihracata ilişkin hükümlerin saklı olduğu açıklamalarına yer verilmiştir.
+
+Buna göre şirketinizin, indirim uygulamasında ihracat faaliyeti olarak kabul edilmeyen otel işletmeciliğinden elde ettiği kazançlar için, kurumlar vergisi oranının 5 puan indirimli uygulanması mümkün bulunmamaktadır.
+
+Bilgi edinilmesini rica ederim.

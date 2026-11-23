@@ -7,6 +7,7 @@ sayi: "E-79690095-140[2--2026-120-53]-126479"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/39055
 gib_guncelleme: 2026-09-10T12:06:27
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

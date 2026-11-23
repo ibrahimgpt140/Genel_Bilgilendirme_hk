@@ -7,6 +7,7 @@ sayi: "E-26468226-175.02.01.06[ÖZG-2-2025]-149594"
 kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/39134
 gib_guncelleme: 2026-11-11T15:18:31
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

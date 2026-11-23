@@ -7,6 +7,7 @@ sayi: "23921810-155-41850"
 kanun: "488 DAMGA VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/38832
 gib_guncelleme: 2026-02-18T14:09:02
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

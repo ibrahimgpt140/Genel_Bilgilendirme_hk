@@ -10,7 +10,8 @@ Kullanım:
   python3 araclar/gib/gib_tara.py guncelle
       Tümünü yeniden tarar (API güncellenme tarihine göre sıralamaya izin
       vermiyor), yalnızca yeni/değişen dosyaları yazar ve gib/GUNLUK.md'ye ekler.
-      Daha eski özelgeler için: guncelle --ozelge-baslangic 2024-01-01
+      Özelgeler her zaman en az son 5 yıl taranır (5 yıl sonunda belgeler geçersiz
+      sayılır); 5 yılı dolan özelgeler künyede ve dizinde işaretlenir, günlüğe yazılır.
 """
 import argparse, json, os, re, sys, time, urllib.request, html as htmlmod
 from datetime import datetime, timezone
@@ -38,6 +39,18 @@ TURLER = {
     "taslak":        ("taslaklar",      "Taslak",               "timePublishedAt",  None),
     "uluslararasi-anlasma": ("uluslararasi", "Uluslararası Anlaşma", "creationDate", None),
 }
+BES_YIL_TURLER = {"ozelge"}  # 5 yıl kuralının uygulandığı belge türleri
+
+
+def bes_yil_siniri(bugun=None):
+    """Bugünden 5 yıl önceki tarih (YYYY-AA-GG). Bu tarihten eski belge 5 yılı aşmıştır."""
+    b = bugun or datetime.now(timezone.utc).date()
+    try:
+        return b.replace(year=b.year - 5).isoformat()
+    except ValueError:  # 29 Şubat
+        return b.replace(year=b.year - 5, day=28).isoformat()
+
+
 TR = str.maketrans("çğıöşüÇĞİÖŞÜâîû", "cgiosuCGIOSUaiu")
 
 
@@ -110,6 +123,8 @@ def yaz(tur, k):
         f"kanun: {json.dumps(((k.get('kanunNo') or '') + ' ' + (k.get('kanunTitle') or '')).strip(), ensure_ascii=False)}",
         f"kaynak: {k.get('siteLink') or k.get('link') or ''}",
         f"gib_guncelleme: {(k.get('updated_at') or '')[:19]}",
+    ] + ([f"bes_yil: {'ASILDI' if tarih(k, ta) and tarih(k, ta) < bes_yil_siniri() else 'gecerli'}"]
+         if tur in BES_YIL_TURLER else []) + [
         f"alindi: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
         "---", "", f"# {baslik}", "",
     ]
@@ -140,14 +155,21 @@ def dizin_yaz():
                 continue
             bas = open(os.path.join(d, f), encoding="utf-8").read(3000)
             g = lambda a: (re.search(rf"\n{a}: (.*)", bas) or [None, ""])[1].strip().strip('"')
-            kayit.append((g("tarih"), g("sayi"), g("kanun"), g("baslik"), f))
+            kayit.append((g("tarih"), g("sayi"), g("kanun"), g("baslik"), f, g("bes_yil")))
         kayit.sort(key=lambda x: x[0], reverse=True)
+        bes = tur in BES_YIL_TURLER
+        asan = sum(1 for x in kayit if x[5] == "ASILDI")
         with open(os.path.join(d, "README.md"), "w", encoding="utf-8") as o:
-            o.write(f"# GİB {ad} dizini ({len(kayit)} kayıt)\n\nKaynak: gib.gov.tr mevzuat. En yeni üstte.\n\n"
-                    "| Tarih | Sayı | Kanun | Başlık |\n|---|---|---|---|\n")
-            for t, s, kn, b, f in kayit:
+            o.write(f"# GİB {ad} dizini ({len(kayit)} kayıt)\n\nKaynak: gib.gov.tr mevzuat. En yeni üstte.\n\n")
+            if bes:
+                o.write(f"**5 yıl sınırı:** {bes_yil_siniri()} tarihinden eski belgeler 5 yılı aşmıştır "
+                        f"(⚠ işaretli, {asan} kayıt).\n\n| Tarih | 5 yıl | Sayı | Kanun | Başlık |\n|---|---|---|---|---|\n")
+            else:
+                o.write("| Tarih | Sayı | Kanun | Başlık |\n|---|---|---|---|\n")
+            for t, s, kn, b, f, by in kayit:
                 b = b.replace("|", "/")
-                o.write(f"| {t} | {s.replace('|','/')} | {kn} | [{b}]({f}) |\n")
+                isaret = (" | ⚠ aşıldı" if by == "ASILDI" else " | ✓") if bes else ""
+                o.write(f"| {t}{isaret} | {s.replace('|','/')} | {kn} | [{b}]({f}) |\n")
         toplam.append((ad, klasor, len(kayit)))
     return toplam
 
@@ -189,20 +211,37 @@ def tara(ozelge_bas):
 
 def calistir(ozelge_bas, gunluk):
     durum = durum_oku()
-    ozelge_bas = ozelge_bas or durum.get("ozelge_baslangic", "2025-09-01")
+    sinir = bes_yil_siniri()
+    ozelge_bas = ozelge_bas or min(durum.get("ozelge_baslangic", sinir), sinir)
+    onceki_sinir = durum.get("bes_yil_siniri", sinir)
     degisen = tara(ozelge_bas)
+    # son taramadan bu yana 5 yılı dolan belgeler
+    yeni_asan = []
+    for tur in BES_YIL_TURLER:
+        kl = TURLER[tur][0]
+        for f in os.listdir(os.path.join(KOK, kl)):
+            if f[0].isdigit():
+                bas = open(os.path.join(KOK, kl, f), encoding="utf-8").read(1500)
+                t = (re.search(r"\ntarih: (.*)", bas) or [None, ""])[1].strip()
+                if t and onceki_sinir <= t < sinir:
+                    yeni_asan.append((TURLER[tur][1], t, f))
+    durum["bes_yil_siniri"] = sinir
     simdi = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     durum.update(son_tarama=simdi, ozelge_baslangic=min(ozelge_bas, durum.get("ozelge_baslangic", ozelge_bas)))
     durum_yaz(durum)
     dizin_yaz()
-    if gunluk and degisen:
+    if gunluk and (degisen or yeni_asan):
         g = os.path.join(KOK, "GUNLUK.md")
         eski = open(g, encoding="utf-8").read() if os.path.exists(g) else "# GİB mevzuat değişiklik günlüğü\n"
         bas, _, govde = eski.partition("\n")
         blok = f"\n## {simdi[:10]} taraması ({len(degisen)} yeni/güncellenen)\n\n" + "".join(
             f"- **{a}** {t} — [{b}]({y})\n" for a, t, b, y in degisen)
+        if yeni_asan:
+            blok += f"\n**5 yılı dolan belgeler ({len(yeni_asan)}):**\n\n" + "".join(
+                f"- ⚠ {a} {t} — {f}\n" for a, t, f in yeni_asan)
         open(g, "w", encoding="utf-8").write(bas + "\n" + blok + govde)
-    print(json.dumps({"degisen": len(degisen), "liste": degisen[:50]}, ensure_ascii=False, indent=1))
+    print(json.dumps({"degisen": len(degisen), "liste": degisen[:50], "bes_yil_siniri": sinir,
+                      "bes_yili_yeni_dolan": yeni_asan}, ensure_ascii=False, indent=1))
 
 
 if __name__ == "__main__":

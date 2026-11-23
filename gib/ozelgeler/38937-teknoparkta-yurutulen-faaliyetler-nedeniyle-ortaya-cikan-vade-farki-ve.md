@@ -7,6 +7,7 @@ sayi: "E-84974990-130[KDV-1/İ/24-2021/7]-530524"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38937
 gib_guncelleme: 2026-05-21T16:29:07
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

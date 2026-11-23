@@ -7,6 +7,7 @@ sayi: "E-31435689-170-70134"
 kanun: "197 MOTORLU TAŞITLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/441/ozelge/38845
 gib_guncelleme: 2026-04-02T12:38:51
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

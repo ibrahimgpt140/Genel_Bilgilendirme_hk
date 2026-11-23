@@ -7,6 +7,7 @@ sayi: "E-98622691-105[Konaklama Vergisi/2026]-86971"
 kanun: "6802 GİDER VERGİLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/39148
 gib_guncelleme: 2026-11-13T15:31:32
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

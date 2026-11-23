@@ -7,6 +7,7 @@ sayi: "E-39044742-130[Özelge]-1745987"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/39000
 gib_guncelleme: 2026-06-09T14:07:45
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

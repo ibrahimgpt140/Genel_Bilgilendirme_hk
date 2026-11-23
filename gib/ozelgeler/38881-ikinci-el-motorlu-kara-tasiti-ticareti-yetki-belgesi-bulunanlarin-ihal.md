@@ -7,6 +7,7 @@ sayi: "E-66813766-140[38-2026/9]-321949"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/38881
 gib_guncelleme: 2026-05-07T11:34:28
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

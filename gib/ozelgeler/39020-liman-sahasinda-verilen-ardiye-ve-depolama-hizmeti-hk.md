@@ -7,6 +7,7 @@ sayi: "36062021-130[2024-KDV-ÖZE/107]-154700"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/39020
 gib_guncelleme: 2026-06-03T13:56:51
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

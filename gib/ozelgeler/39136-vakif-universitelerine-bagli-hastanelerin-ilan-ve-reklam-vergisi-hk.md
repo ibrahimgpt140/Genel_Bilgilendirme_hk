@@ -7,6 +7,7 @@ sayi: "E-97895701-175.02[2025/7.1-11]-1427683"
 kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/39136
 gib_guncelleme: 2026-11-11T15:23:10
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

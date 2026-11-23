@@ -7,6 +7,7 @@ sayi: "E-17192610-120[GV-21-66]-"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38770
 gib_guncelleme: 2025-12-18T14:41:57
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-27575268-105[Mük.298-2025-1139]-737156"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38871
 gib_guncelleme: 2026-04-30T14:23:11
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

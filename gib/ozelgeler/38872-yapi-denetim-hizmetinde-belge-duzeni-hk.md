@@ -7,6 +7,7 @@ sayi: "E-27575268-105[2024-1363]-755256"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38872
 gib_guncelleme: 2026-04-30T14:24:54
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

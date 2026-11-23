@@ -7,6 +7,7 @@ sayi: "E-62030549-125[19-2026]-…."
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/39056
 gib_guncelleme: 2026-09-21T18:22:59
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

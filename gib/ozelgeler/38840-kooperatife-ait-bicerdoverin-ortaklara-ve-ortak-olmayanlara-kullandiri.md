@@ -7,6 +7,7 @@ sayi: "17192610-125[KV-23-539]-79945"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38840
 gib_guncelleme: 2026-03-17T10:50:03
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

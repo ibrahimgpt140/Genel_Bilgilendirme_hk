@@ -7,6 +7,7 @@ sayi: "E-70463696-120[2024]-631"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38815
 gib_guncelleme: 2026-02-17T15:28:03
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-26696128-130[28-2025/11]-113216"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38997
 gib_guncelleme: 2026-06-09T14:05:17
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

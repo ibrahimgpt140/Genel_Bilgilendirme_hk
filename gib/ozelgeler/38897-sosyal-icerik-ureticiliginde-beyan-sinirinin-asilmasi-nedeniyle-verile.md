@@ -7,6 +7,7 @@ sayi: "E-84098128-120.01.02.04[M.20/B-2025/3]-158965"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38897
 gib_guncelleme: 2026-05-15T14:39:21
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

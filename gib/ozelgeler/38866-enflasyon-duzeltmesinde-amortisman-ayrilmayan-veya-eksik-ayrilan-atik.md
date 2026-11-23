@@ -7,6 +7,7 @@ sayi: "E-67854564-105[1741-9465]-494221"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38866
 gib_guncelleme: 2026-04-30T14:07:46
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "97895701-140.06.99[2025.229]-260973"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/38838
 gib_guncelleme: 2026-03-06T09:46:07
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

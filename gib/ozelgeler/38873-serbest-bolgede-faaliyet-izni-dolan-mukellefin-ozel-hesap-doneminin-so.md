@@ -7,6 +7,7 @@ sayi: "E-11395140-105[174-2025-VUK2-2647]-194333"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38873
 gib_guncelleme: 2026-04-30T14:27:29
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

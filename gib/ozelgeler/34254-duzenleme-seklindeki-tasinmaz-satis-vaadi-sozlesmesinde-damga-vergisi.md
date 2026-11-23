@@ -1,0 +1,30 @@
+---
+tur: Özelge
+gib_id: 34254
+baslik: "Düzenleme şeklindeki taşınmaz satış vaadi sözleşmesinde damga vergisi hk."
+tarih: 2022-11-28
+sayi: "E-16700543-155[22-515-82]-108507"
+kanun: "488 DAMGA VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/34254
+gib_guncelleme: 2025-03-24T20:17:52
+bes_yil: gecerli
+alindi: 2026-11-23
+---
+
+# Düzenleme şeklindeki taşınmaz satış vaadi sözleşmesinde damga vergisi hk.
+
+**İlgili maddeler:** Madde 1 Konu
+
+T.C. GELİR İDARESİ BAŞKANLIĞI Gaziantep Vergi Dairesi Başkanlığı Gelir, Kurumlar ve Diğer Vergiler Müdürlüğü
+
+Sayı | : | E-16700543-155[22-515-82]-108507 | 28.11.2022
+Konu | : | Düzenleme şeklindeki taşınmaz satış vaadi sözleşmesinde damga vergisi
+
+İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, … Anonim Şirketi ile … arasında …/…/2022 tarihinde Noterliğinizde düzenlenen "Düzenleme Şeklinde Ön Ödemeli Konut Finansmanı Sistemi Veya Peşin Ödemeli Konut Satış Vaadi Sözleşmesi"nin 4.6 maddesinde yer alan sözleşmenin şirket kefaletiyle imzalandığına ilişkin belirlemenin, bu sözleşmeye "0" (sıfır) nispet damga vergisi uygulanmasına engel teşkil edip etmeyeceği hususunda görüş talep ettiğiniz anlaşılmaktadır.
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu, bu Kanundaki kağıtlar teriminin, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade edeceği; 3 üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu; 4 üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, mahiyeti tayin edilmek istenilen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınacağı; 6 ncı maddesinin ikinci fıkrasında, bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma oldukları takdirde damga vergisinin, en yüksek vergi alınmasını gerektiren akit veya işlem üzerinden alınacağı, üçüncü fıkrasında, bu akit ve işlemlere asıl işlemin akitlerinden başka bir şahsın eklenen akit ve işleminin de ayrıca vergiye tabi olduğu, bir kağıt üzerinde birden fazla adi kefalet ve garanti taahhüdü bulunması halinde, ayrı ayrı olmak üzere bunlardan yalnızca birinden damga vergisi alınacağı, dördüncü fıkrasında ise pey akçesi, cayma tazminatı, ücret tevkifi, cezai şart gibi bir sözleşmenin müeyyidesi mahiyetinde olan taahhütlerden, başlı başına bir sözleşmeye konu olmadıkça damga vergisi alınmayacağı hükümleri yer almaktadır.
+Anılan Kanuna ekli (1) sayılı tablonun "I.Akitlerle ilgili kağıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenamelerin; A/10-b fıkrasında, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında düzenlenen ön ödemeli konut satış sözleşmelerinin nispi damga vergisine tabi olduğu hükümlerine yer verilmiştir.
+Diğer taraftan, 3/2/2017 tarihli ve 29968 sayılı Resmî Gazete'de yayımlanan 31/1/2017 tarihli ve 2017/9759 sayılı Bakanlar Kurulu Kararı ile 488 sayılı Kanuna ekli (1) sayılı tablonun "I.Akitlerle ilgili kağıtlar" başlıklı bölümünün A/10-b fıkrasında yer alan 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında düzenlenen ön ödemeli konut satış sözleşmelerine "0" (sıfır) nispetinde damga vergisi uygulanacağı karara bağlanmıştır.
+Öte yandan, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 40 ıncı maddesinin birinci fıkrasında, ön ödemeli konut satış sözleşmesinin, tüketicinin konut amaçlı bir taşınmazın satış bedelini önceden peşin veya taksitle ödemeyi, satıcının da bedelin tamamen veya kısmen ödenmesinden sonra taşınmazı tüketiciye devir veya teslim etmeyi üstlendiği sözleşme olduğu; 41 nci maddesinde, ön ödemeli konut satışının tapu siciline tescil edilmesinin, satış vaadi sözleşmesinin ise noterde düzenleme şeklinde yapılmasının zorunlu olduğu hükümlerine yer verilmiştir.
+Bu çerçevede, başvurunuza konu …/…/2022 tarihli "Düzenleme Şeklinde Ön Ödemeli Konut Finansmanı Sistemi Veya Peşin Ödemeli Konut Satış Vaadi Sözleşmesi" başlıklı kağıdın incelenmesinden, sözleşmenin … Anonim Şirketi ile … arasında düzenlendiği; 3 üncü maddesinde, sözleşmenin konusunun ön kayıt başvurusu alınarak kura çekiliş yöntemiyle satışa sunulan şirket tarafından … ili, … İlçesi, … Mahallesi … Ada, … Parsel üzerinde yaptırılacak olan … Projesi … Etap … Blok … Kat … nolu Bağımsız bölümün Hak sahibine satışının vaadi olarak belirlendiği; "Ödeme Planı" başlıklı (4.1) maddesinde, daire peşin satış bedelinin (KDV hariç) … TL, peşinat bedelinin … TL olduğu, geriye kalan … TL'nin … Bankasından (… Tic. Şb.) kullanılacak kredi ile karşılanacağı; (4.6) maddesinde, kredilendirilen miktarın hak sahibi ile banka arasında şirketin kefaletiyle imzalanmış bulunan Ön Ödemeli Konut Finansmanı Sistemi Kredi Sözleşmesinin ilgili hükümleri gereği banka tarafından … A.Ş.'nin mevduat hesabına virman edileceği, hak sahibinin bu hususta bankaya gerekli talimatı vereceğini kabul ve taahhüt edeceği; "Anlaşmazlıkların Çözümü" başlıklı 14 üncü maddesinde ise tüketici tarafın, uyuşmazlık konusundaki başvurularını 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri doğrultusunda ilgili tüketici mahkemesine veya tüketici hakem heyetine yapacağı belirlemelerine yer verildiği, sözleşmede teminata ilişkin bir belirlemeye ayrıca yer verilmediği ve kefil sıfatıyla imzanın da yer almadığı anlaşılmaktadır.
+Buna göre, özelge talebine konu "Düzenleme Şeklinde Ön Ödemeli Konut Finansmanı Sistemi Veya Peşin Ödemeli Konut Satış Vaadi Sözleşmesi" başlıklı kağıtta teminata ilişkin bir belirlemeye yer verilmediği ve kefil imzasının da bulunmadığı hususları birlikte değerlendirildiğinde, söz konusu kağıda "0" (sıfır) nispetinde damga vergisi uygulanması mümkün bulunmaktadır.
+Bilgi edinilmesini rica ederim.

@@ -7,6 +7,7 @@ sayi: "E-31315688-125[2025]-"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38878
 gib_guncelleme: 2026-05-05T11:47:39
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

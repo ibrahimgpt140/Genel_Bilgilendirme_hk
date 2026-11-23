@@ -7,6 +7,7 @@ sayi: "E-73903997-175.02[44-2024/1]-102300"
 kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/39132
 gib_guncelleme: 2026-11-11T15:09:34
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

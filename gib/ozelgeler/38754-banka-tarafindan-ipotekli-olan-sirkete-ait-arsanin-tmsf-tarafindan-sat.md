@@ -7,6 +7,7 @@ sayi: "16432732-130[17-2022-75]-83530"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38754
 gib_guncelleme: 2025-10-30T12:16:09
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

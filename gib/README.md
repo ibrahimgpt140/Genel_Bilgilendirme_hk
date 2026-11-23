@@ -9,7 +9,7 @@ kaynak bağlantısı, GİB güncelleme zamanı), ardından ilgili maddeler, ekle
 |---|---|
 | `tebligler/` | Tüm GİB tebliğleri (konsolide metinler dahil) |
 | `sirkuler/` | Tüm sirkülerler |
-| `ozelgeler/` | Özelgeler — 01.09.2025'ten itibaren (daha eskisi istenirse çekilir) |
+| `ozelgeler/` | Özelgeler — son 5 yıl (kayan pencere; 5 yılı dolan özelge ⚠ ile işaretlenir) |
 | `ic-genelgeler/`, `genel-yazilar/` | İç genelgeler, genel yazılar |
 | `yonetmelikler/` | GİB'deki yönetmelikler |
 | `bkk/`, `cbk/` | Bakanlar Kurulu ve Cumhurbaşkanı kararları |
@@ -19,11 +19,18 @@ kaynak bağlantısı, GİB güncelleme zamanı), ardından ilgili maddeler, ekle
 Her klasörün `README.md` dosyası tarih sıralı dizindir. Yeni/değişen kayıtlar
 `GUNLUK.md` dosyasına tarihli olarak eklenir.
 
+## 5 yıl kuralı
+
+Belgeler 5 yıl sonunda geçersiz sayıldığından özelgeler her taramada en az son 5 yıl
+kapsanır. Künyede `bes_yil: gecerli/ASILDI` alanı, dizinde ⚠ sütunu bulunur; o gün 5 yılı
+dolan özelgeler `GUNLUK.md`'ye yazılır. Tebliğ, sirküler, genel yazı, BKK/CBK vb. mevzuat
+metinleri yürürlükten kaldırılana kadar geçerli olduğundan tarih sınırı olmadan, güncel
+halleriyle tamamı tutulur.
+
 ## Güncelleme
 
 ```
 python3 araclar/gib/gib_tara.py guncelle                       # günlük tarama
-python3 araclar/gib/gib_tara.py guncelle --ozelge-baslangic 2024-01-01   # eski özelgeleri de ekle
 ```
 
 Metinler GİB HTML'inden düz metne çevrilmiştir; tablolar `|` ile ayrılmış

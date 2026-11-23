@@ -7,6 +7,7 @@ sayi: "E-97895701-175.01[2025/6.1-28]-261017"
 kanun: "1319 EMLAK VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/447/ozelge/39140
 gib_guncelleme: 2026-11-12T10:54:58
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

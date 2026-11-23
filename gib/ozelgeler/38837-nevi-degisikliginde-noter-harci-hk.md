@@ -7,6 +7,7 @@ sayi: "49327596-140.02[DV.ÖZ.2026.3]-52410"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/38837
 gib_guncelleme: 2026-03-06T09:43:34
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

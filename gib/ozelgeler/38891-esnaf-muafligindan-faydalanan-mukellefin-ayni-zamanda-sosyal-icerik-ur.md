@@ -7,6 +7,7 @@ sayi: "E-38418978-120[9-25/1]-122466"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38891
 gib_guncelleme: 2026-05-15T11:31:27
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

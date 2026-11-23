@@ -1,0 +1,91 @@
+---
+tur: Özelge
+gib_id: 21382
+baslik: "Türkiye'de ikamet etmeden önce Belarus'ta elde edilen ücret gelirinin beyanı"
+tarih: 2023-11-20
+sayi: "84098128-120.03.05.06[23-2023/3]-539349"
+kanun: "193 GELİR VERGİSİ KANUNU"
+kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/21382
+gib_guncelleme: 2025-03-24T19:28:39
+bes_yil: gecerli
+alindi: 2026-11-23
+---
+
+# Türkiye'de ikamet etmeden önce Belarus'ta elde edilen ücret gelirinin beyanı
+
+**İlgili maddeler:** Madde 23 Ücretlerde
+
+T.C. GELİR İDARESİ BAŞKANLIĞI İzmir Vergi Dairesi Başkanlığı Gelir Kanunları Gelir Vergileri Grup Müdürlüğü
+
+Sayı | : | E-84098128-120.03.05.06[23-2023/3]-539349 | 20.11.2023
+Konu | : | Türkiye'de ikamet etmeden önce Belarus'ta elde edilen ücret gelirinin beyanı
+
+İlgi | : | …
+
+İlgide kayıtlı özelge talep formunda, Belarus (Beyaz Rusya) vatandaşı olduğunuzu, 4 Nisan 2022 tarihine kadar Belarus'ta anılan tarihten itibaren ise Türkiye'de ikamet ettiğinizi, Türkiye'de ikamet ettiğiniz tarihten itibaren Türkiye'de yerleşik olmayan ve daimi temsilcisi bulunmayan Gürcistan mukimi bir şirket için uzaktan ücretli olarak çalıştığınızı ve ücret ödemelerinizin döviz olarak yapıldığını belirterek Türkiye'de ikamet etmeden önce Belarus'ta elde etmiş olduğunuz ücret gelirinin Türkiye'de istisna olup olmadığı, söz konusu ücret geliri için Türkiye'de beyanname vermenizin gerekip gerekmediği, Türkiye'de beyanname vermenizin gerekmesi halinde Belarus'ta ödediğiniz vergiyi mahsup edip edemeyeceğiniz hususlarında Başkanlığımız görüşü talep edilmektedir.
+
+193 sayılı Gelir Vergisi Kanununun 1 inci maddesinde; "Gerçek kişilerin gelirleri gelir vergisine tabidir. Gelir bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır." denilmiş, aynı Kanunun 3 üncü maddesinde ise; "Aşağıda yazılı gerçek kişiler Türkiye içinde ve dışında elde ettikleri kazanç ve iratların tamamı üzerinden vergilendirilirler:
+
+1. Türkiye'de yerleşmiş olanlar;
+
+2. Resmi daire ve müesseselere veya merkezi Türkiye'de bulunan teşekkül ve teşebbüslere bağlı olup adı geçen daire, müessese, teşekkül ve teşebbüslerin işleri dolayısiyle yabancı memleketlerde oturan Türk vatandaşları (Bu gibilerden, bulundukları memleketlerde elde ettikleri kazanç ve iratları dolayısiyle Gelir Vergisi'ne veya benzeri bir vergiye tabi tutulmuş bulunanlar, mezkur kazanç ve iratları üzerinden ayrıca vergilendirilmezler.)"
+
+hükmüne yer verilmiştir.
+
+Aynı Kanunun 4 üncü maddesinde de, ikametgahı Türkiye'de bulunanlar ile bir takvim yılı içinde Türkiye'de devamlı olarak altı aydan fazla oturanların Türkiye'de yerleşmiş sayılacağı hükme bağlanmıştır.
+
+Anılan Kanunun "Ücretin tarifi" başlıklı 61 inci maddesinde, "Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetini değiştirmez.
+
+... "
+
+hükmü yer almaktadır.
+
+Ayrıca, anılan Kanunun 94 üncü maddesinin birinci fıkrasında tevkifat yapmak zorunda olan mükellefler sayılmış, birinci bendinde de hizmet erbabına ödenen ücretler ile 61 inci maddede yazılı olup ücret sayılan ödemelerden (istisnadan faydalananlar hariç) Kanunun 103 ve 104 üncü maddelerine göre gelir vergisi tevkifatı yapılması gerektiği hükmüne yer verilmiş olup, 95 inci maddenin birinci fıkrasının (1) numaralı bendinde ise ücretlerini yabancı bir memleketteki işverenden doğrudan doğruya alan hizmet erbabının gelirlerini yıllık beyanname ile bildirecekleri hüküm altına alınmıştır.
+
+Öte yandan, "Türkiye Cumhuriyeti Hükümeti ile Beyaz Rusya Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşması" (Anlaşma) hükümleri 01.01.1999 tarihinden itibaren uygulanmakta olup, söz konusu anlaşmanın "Mukim" başlıklı 4 üncü maddesinin 1 ve 2 nci fıkralarında;
+
+"1. Bu Anlaşmanın amaçları bakımından, "bir Akit Devletin mukimi" terimi, o Devletin mevzuatı gereğince ev, ikametgah, kurumlaşılan yer, yönetim yeri veya benzer yapıda diğer herhangi bir kriter nedeniyle vergi mükellefi olan kişi anlamına gelir ve aynı zamanda bu Devlet veya mahalli idareyi de içerir. Ancak bu terim, yalnızca o Devletteki kaynaklardan elde edilen gelir nedeniyle vergiye tabi tutulan herhangi bir kişiyi kapsamaz.
+
+2. 1 inci fıkra hükümleri dolayısıyla bir gerçek kişi her iki Akit Devlette de mukim olduğunda, bu kişinin durumu aşağıdaki kurallara göre belirlenecektir:
+
+a) Bu kişi, yalnızca daimi olarak kalabileceği bir meskenin bulunduğu Devletin mukimi kabul edilecektir. Eğer bu kişinin her iki Devlette de daimi olarak kalabileceği bir meskeni varsa, bu kişi, kişisel ve ekonomik ilişkilerinin daha yakın olduğu Devletin bir mukimi olarak kabul edilecektir (hayati menfaatlerin merkezi);
+
+b) Eğer kişinin hayati menfaatlerinin merkezinin yer aldığı Devlet saptanamazsa veya her iki Devlette de daimi olarak kalabileceği bir meskeni yoksa, bu kişi yalnızca kalmayı adet edindiği evin bulunduğu Akit Devletin bir mukimi olarak kabul edilecektir;
+
+c) Eğer kişinin her iki Akit Devlette de kalmayı adet edindiği bir ev varsa veya her iki Devlette de böyle bir ev sözkonusu değilse, bu kişi yalnızca vatandaşı bulunduğu Devletin bir mukimi olarak kabul edilecektir;
+
+d) Eğer her iki Devlet de bu kişinin kendi vatandaşı olduğunu veya aksine her ikisinin de vatandaşı olmadığını düşünürse, Akit Devletlerin yetkili makamları sorunu karşılıklı Anlaşmayla çözeceklerdir."
+
+hükümleri yer almaktadır.
+
+Bu hükümler uyarınca, bir gerçek kişinin mukimliğinin belirlenmesinde öncelikle taraf devletlerin kendi iç mevzuat hükümleri dikkate alınmakta olup, bir kişi iç mevzuatımız gereğince 1 inci fıkrada belirtilen kriterler nedeniyle mukim kabul ediliyorsa bu kişi Anlaşma yönünden de Türkiye mukimi kabul edilmektedir. Akit devletlerin iç mevzuatları gereğince kişinin aynı anda her iki devletin de mukimi olması durumunda ise, Anlaşmanın 4 üncü maddesinin 2 nci fıkrasındaki kriterlerden önce yer alana öncelik verilmek suretiyle mukimliğin tespiti yapılmaktadır.
+
+Anlaşmanın "Bağımlı Faaliyetler" başlıklı 15 inci maddesinin 1 ve 2 nci fıkralarında;
+
+"1. 16, 18, 19 ve 20 nci maddelerin hükümleri saklı kalmak üzere, bir Akit Devlet mukiminin bir hizmet dolayısıyla elde ettiği ücret, maaş ve diğer benzeri ödemeler, bu hizmet diğer Akit Devlette ifa edilmedikçe, yalnızca bu Devlette vergilendirilecektir. Hizmet diğer Devlette ifa edilirse, buradan elde edilen sözkonusu gelir bu diğer Devlette de vergilendirilebilir.
+
+2. 1 inci fıkra hükümlerine bakılmaksızın, bir Akit Devlet mukiminin diğer Akit Devlette ifa ettiği bir hizmet dolayısıyla elde ettiği gelir, eğer:
+
+a) Gelir elde eden kişi, diğer Devlette ilgili takvim yılı içinde başlayan veya biten herhangi bir 12 aylık dönemde bir yada bir kaç seferde toplam 183 günü aşmamak üzere kalırsa, ve
+
+b) Ödeme, diğer Devletin mukimi olmayan bir işveren tarafından veya böyle bir işveren adına yapılırsa, ve
+
+c) Ödeme, işverenin diğer Devlette sahip olduğu bir işyeri veya sabit yerden yapılmazsa yalnızca ilk bahsedilen Devlette vergilendirilecektir."
+
+hükmüne yer verilmiştir.
+
+Buna göre, Anlaşmanın 4 üncü maddesine göre 4 Nisan 2022 tarihinden önce Beyaz Rusya mukimi olmanız halinde bu tarihe kadar elde ettiğiniz Türkiye kaynaklı ücret gelirleri Anlaşmanın 15 inci maddesinin 1 inci fıkrası uyarınca, hizmet Türkiye'de ifa edilmedikçe yalnızca Beyaz Rusya'da vergilendirilecektir. Söz konusu dönemde Beyaz Rusya mukimi olmanız halinde tarafınıza yapılan ve Türkiye kaynaklı olmayan gelirlere Türkiye-Beyaz Rusya arasındaki Anlaşmanın uygulanmayacağı tabii olup, söz konusu gelirlere ilişkin vergilendirmenin gelirinizin Gürcistan kaynaklı olması halinde varsa Beyaz Rusya-Gürcistan arasındaki Çifte Vergilendirmeyi Önleme Anlaşması hükümlerine göre eğer anlaşma yoksa Beyaz Rusya'da iç mevzuat hükümlerine göre yapılacağı tabiidir.
+
+4 Nisan 2022 tarihinden önce Türkiye mukimi olmanız halinde ve hizmetin Beyaz Rusya'da ifa edilmesi halinde ise Türkiye-Beyaz Rusya Anlaşmasının 15 inci maddenin 2 nci fıkrasının (a), (b) ve (c) bentlerinde yer alan üç koşulun bir arada gerçekleşmesi şartıyla vergileme hakkı yalnızca Türkiye'ye ait olacak; bu koşulların ez az birisinin gerçekleşmemesi halinde ise Beyaz Rusya'nın da söz konusu ücret gelirlerinden vergi alma hakkı olacaktır. Anlaşmanın her iki ülkeye vergilendirme hakkı verdiği durumda ise Anlaşmanın "Çifte Vergilendirmenin Önlenmesi" başlıklı 22 nci maddesinin birinci fıkrası uyarınca, Beyaz Rusya'da ödenen vergi Türkiye'de vergiden istisna edilecektir. Ancak geriye kalan gelirinize ilişkin vergi hesaplanırken, istisna edilen gelir vergiden istisna değilmiş gibi dikkate alınarak bir vergi oranı uygulanabilecektir.
+
+Öte yandan, Türkiye Cumhuriyeti ile Gürcistan Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması" hükümleri 01.01.2011 tarihinden itibaren uygulanmakta olup, söz konusu anlaşmanın "Bağımlı Faaliyetler" başlıklı 15 inci maddesinin 1 nci fıkrasında; "1. 16, 18, 19 ve 20 nci maddelerin hükümleri saklı kalmak üzere, bir Akit Devlet mukiminin bir hizmet dolayısıyla elde ettiği ücret, maaş ve diğer benzeri gelirler, bu hizmet diğer Akit Devlette ifa edilmedikçe, yalnızca bu Devlette vergilendirilecektir. Hizmet diğer Devlette ifa edilirse, buradan elde edilen gelir bu diğer Devlette vergilendirilebilir." hükmüne yer verilmiştir.
+
+Buna göre, 4 Nisan 2022 tarihinden itibaren Türkiye mukimi olmanız ve Gürcistan kaynaklı ücret gelirleri elde etmeniz halinde Türkiye-Gürcistan Anlaşmasının 15 inci maddesinin 1 inci fıkrası uyarınca, hizmet Gürcistan'da ifa edilmedikçe yalnızca Türkiye'de vergilendirilecektir.
+
+Bilgi edinilmesini rica ederim.
+
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.

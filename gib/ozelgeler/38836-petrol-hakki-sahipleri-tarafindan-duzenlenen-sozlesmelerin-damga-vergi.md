@@ -7,6 +7,7 @@ sayi: "90792880-155.13.04[778]-17655"
 kanun: "488 DAMGA VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/438/ozelge/38836
 gib_guncelleme: 2026-02-18T14:18:20
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

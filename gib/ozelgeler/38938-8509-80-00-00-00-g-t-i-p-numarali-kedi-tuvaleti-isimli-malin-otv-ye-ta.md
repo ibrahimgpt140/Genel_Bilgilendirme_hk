@@ -7,6 +7,7 @@ sayi: "E-39044742-135-1682886"
 kanun: "4760 ÖZEL TÜKETİM VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/437/ozelge/38938
 gib_guncelleme: 2026-06-01T11:03:25
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

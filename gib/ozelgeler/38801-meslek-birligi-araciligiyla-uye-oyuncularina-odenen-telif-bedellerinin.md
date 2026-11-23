@@ -7,6 +7,7 @@ sayi: "62030549-125[2- 2022]-163380"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38801
 gib_guncelleme: 2026-01-20T14:22:01
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

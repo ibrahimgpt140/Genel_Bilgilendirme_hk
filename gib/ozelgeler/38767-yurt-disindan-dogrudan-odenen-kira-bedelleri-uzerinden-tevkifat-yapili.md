@@ -7,6 +7,7 @@ sayi: "E-62030549-125-"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38767
 gib_guncelleme: 2025-12-18T14:28:01
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

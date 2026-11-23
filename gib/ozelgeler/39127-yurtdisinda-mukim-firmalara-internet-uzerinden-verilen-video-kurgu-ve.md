@@ -7,6 +7,7 @@ sayi: "E-62030549-120[37-2024]-1235968"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/39127
 gib_guncelleme: 2026-11-10T10:52:49
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

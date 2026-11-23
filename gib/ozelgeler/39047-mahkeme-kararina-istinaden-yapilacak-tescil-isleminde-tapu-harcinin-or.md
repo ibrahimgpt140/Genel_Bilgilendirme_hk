@@ -7,6 +7,7 @@ sayi: "E-97895701-140.04.01[2025.279]-631976"
 kanun: "492 HARÇLAR KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/439/ozelge/39047
 gib_guncelleme: 2026-06-18T10:26:41
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

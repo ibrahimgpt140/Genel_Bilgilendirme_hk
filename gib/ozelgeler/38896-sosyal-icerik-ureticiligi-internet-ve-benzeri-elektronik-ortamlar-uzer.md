@@ -7,6 +7,7 @@ sayi: "E-93767041-120.01.02.04-33282"
 kanun: "193 GELİR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/433/ozelge/38896
 gib_guncelleme: 2026-05-15T14:36:25
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-33775506-130[KDV 53.01.201]-168261"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38782
 gib_guncelleme: 2026-01-05T11:06:54
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

@@ -7,6 +7,7 @@ sayi: "E-66813766-175.02[Mük-44-2025/3]-282981"
 kanun: "2464 BELEDİYE GELİRLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/449/ozelge/39138
 gib_guncelleme: 2026-11-11T15:41:57
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

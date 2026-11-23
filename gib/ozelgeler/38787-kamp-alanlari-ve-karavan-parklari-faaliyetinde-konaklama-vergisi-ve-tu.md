@@ -7,6 +7,7 @@ sayi: "E-49327596-187[DV.ÖZ.2025.111]-388138 "
 kanun: "6802 GİDER VERGİLERİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/445/ozelge/38787
 gib_guncelleme: 2026-01-08T11:29:54
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

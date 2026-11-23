@@ -7,6 +7,7 @@ sayi: "E-11395140-105[VUK-3-5434]-1118955"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/38864
 gib_guncelleme: 2026-04-30T13:39:48
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

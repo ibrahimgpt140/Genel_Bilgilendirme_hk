@@ -7,6 +7,7 @@ sayi: "73903997-160-99916"
 kanun: "7338 VERASET VE İNTİKAL VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/440/ozelge/38766
 gib_guncelleme: 2025-11-26T16:07:35
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

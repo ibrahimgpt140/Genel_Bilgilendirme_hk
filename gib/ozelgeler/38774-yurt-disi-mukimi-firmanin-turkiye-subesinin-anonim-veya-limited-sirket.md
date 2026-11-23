@@ -7,6 +7,7 @@ sayi: "E-38418978-125[19-2025/2]-"
 kanun: "5520 KURUMLAR VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/435/ozelge/38774
 gib_guncelleme: 2025-12-18T14:48:55
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

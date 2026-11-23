@@ -7,6 +7,7 @@ sayi: "E-76464994-130[KDV.2025.429]-398351"
 kanun: "3065 KATMA DEĞER VERGİSİ KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/436/ozelge/38993
 gib_guncelleme: 2026-06-09T11:09:44
+bes_yil: gecerli
 alindi: 2026-11-23
 ---
 

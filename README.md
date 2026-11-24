@@ -28,6 +28,8 @@ dosyanın geçmişinden (History) görülebilir.
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
 | `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`), eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama tarama betikleri (`danistay/`) |
 
+> **Claude ve diğer yapay zekâ asistanları:** Bu depoyla çalışmadan önce [`CLAUDE.md`](CLAUDE.md) dosyasındaki talimatı okuyun ve uygulayın.
+
 ## Kurallar
 
 1. **Müşteri verisi bu depoya girmez.** VKN, unvan, defter, beyanname, sözleşme

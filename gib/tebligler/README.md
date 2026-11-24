@@ -1,9 +1,11 @@
-# GİB Tebliğ dizini (2493 kayıt)
+# GİB Tebliğ dizini (2495 kayıt)
 
 Kaynak: gib.gov.tr mevzuat. En yeni üstte.
 
 | Tarih | Sayı | Kanun | Başlık |
 |---|---|---|---|
+| 2026-11-24 | 33440 | 213 VERGİ USUL KANUNU | [598 Sıra Nolu Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ](11920-598-sira-nolu-vergi-usul-kanunu-genel-tebligi-sira-no-509-nde-degisikl.md) |
+| 2026-11-24 | 33440 | 213 VERGİ USUL KANUNU | [599 Sıra Nolu Vergi Usul Kanunu Genel Tebliği](11921-599-sira-nolu-vergi-usul-kanunu-genel-tebligi.md) |
 | 2026-11-10 | 33426 | 213 VERGİ USUL KANUNU | [597 SIRA NOLU VERGİ USUL KANUNU GENEL TEBLİĞİ](11919-597-sira-nolu-vergi-usul-kanunu-genel-tebligi.md) |
 | 2026-10-11 | 33397 | 213 VERGİ USUL KANUNU | [596 SIRA NOLU VERGİ USUL KANUNU GENEL TEBLİĞİ](11884-596-sira-nolu-vergi-usul-kanunu-genel-tebligi.md) |
 | 2026-09-05 | 33361 | 213 VERGİ USUL KANUNU | [595 SIRA NOLU VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 538)’NDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ](11882-595-sira-nolu-vergi-usul-kanunu-genel-tebligi-sira-no-538-nde-degisikl.md) |

@@ -1,0 +1,7 @@
+---
+kaynak: https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/mevzuat/uluslararasi_mevzuat/Diger_Anlasmalar/Turkiye_ile_Amerika_Birlesik_Devletleri_Arasinda_Vergi_Muafiyetleri_Anlasmasinin_Kapsamina_Katma_Deger_Vergisinin_Dahil_Edilmesine_Iliskin_Karar.pdf
+dosya: Turkiye_ile_Amerika_Birlesik_Devletleri_Arasinda_Vergi_Muafiyetleri_Anlasmasinin_Kapsamina_Katma_Deger_Vergisinin_Dahil_Edilmesine_Iliskin_Karar.pdf
+baglanti_sayfasi: 2-diger-uluslararasi-anlasmalar.md
+---
+
+_(Metin çıkarılamadı: taranmış görüntü olabilir; özgün dosyaya bakınız.)_

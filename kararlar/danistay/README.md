@@ -11,7 +11,9 @@ arka ucu bedesten.adalet.gov.tr) sisteminden alınır.
 | `vddk/<yıl>/`, `3-daire/<yıl>/`, `4-daire/<yıl>/`, `7-daire/<yıl>/`, `9-daire/<yıl>/` | Tam metni alınmış kararlar; klasör yılı **karar** yılıdır. Her karar `E<esas>_K<karar>.md` (künye + karar metni; ilk aktarımdaki 44 kararda ayrıca özet ve aynı adla `.pdf`) |
 | `dizin/<daire>-<yıl>.csv` | Karar dizini: o daire ve karar yılındaki **tüm** kararların künyesi (daire, E/K, tarih, belge no, tam metin dosyası, kaynak bağlantısı) |
 | `dizin/vergi-emsal-aramalari-2026-11-20.csv` | Önceki konu aramalarının (sahte belge, KDV iadesi, vergi ziyaı) 1.641 kararlık sonuç listesi |
-| `../../araclar/danistay/` | Tarama betikleri: `sayim.js` (daire × yıl sayımı), `dizin_tara.js` (künye dizini), `metin_cek.js` (tam metin), `depoya_yaz.py` (depoya yazma), `guncelle.py` (haftalık güncelleme) |
+| `ibk/` | **İçtihatları Birleştirme Kurulu kararları** (1965–2024, 98 karar; 48'i vergiyle ilgili). Kaynak: Danıştay *İBK Kararları Hakkında Karar Bülteni* (09.10.2025 güncellemesi). Her karar PDF + metin; taranmış olanlar OCR'lı (`ocr: true`). Dizin: `ibk/README.md` |
+| `vddk-bultenleri/` | **VDDK gündem karar bültenleri** (49 bülten, 2019–2026) ve bültenlerde bağlantısı verilen **644 Kurul kararının** tam metni (`vddk-bultenleri/kararlar/`; 2019–2020 kararları dahil). Kaynak: danistay.gov.tr → Yayınlar → Kararlar Bülteni |
+| `../../araclar/danistay/` | Tarama betikleri: `sayim.js` (daire × yıl sayımı), `dizin_tara.js` (künye dizini), `metin_cek.js` (tam metin), `depoya_yaz.py` (depoya yazma), `guncelle.py` (haftalık güncelleme), `ibk_bulten_cek.py` (İBK ve VDDK bültenleri) |
 
 ## Kapsam (23.11.2026 itibarıyla)
 

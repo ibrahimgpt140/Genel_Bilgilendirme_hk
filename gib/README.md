@@ -15,7 +15,8 @@ kaynak bağlantısı, GİB güncelleme zamanı), ardından ilgili maddeler, ekle
 | `yonetmelikler/` | GİB'deki yönetmelikler |
 | `bkk/`, `cbk/` | Bakanlar Kurulu ve Cumhurbaşkanı kararları |
 | `gerekceler/` | Kanun gerekçeleri |
-| `kkdf/`, `taslaklar/`, `uluslararasi/` | KKDF, taslaklar, uluslararası anlaşmalar |
+| `kkdf/`, `taslaklar/` | KKDF, taslaklar |
+| `uluslararasi/` | Uluslararası anlaşma sayfaları; **`uluslararasi/cvoa/`**: çifte vergilendirmeyi önleme anlaşmaları (94 ülke, 107 metin), 228 ÇVÖA özelgesi, 4 genel tebliğ, oran tabloları; `uluslararasi/dosyalar/`: bilgi değişimi, AB ve diğer anlaşmalar dahil 611 dosya (PDF + metin, taranmışlar OCR'lı). 6 bağlantı GİB tarafında bozuk (`_indirme.json`). Araç: `araclar/gib/uluslararasi_cek.py` |
 
 Her klasörün `README.md` dosyası tarih sıralı dizindir. Yeni/değişen kayıtlar
 `GUNLUK.md` dosyasına tarihli olarak eklenir.

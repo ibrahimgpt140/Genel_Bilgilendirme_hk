@@ -17,12 +17,14 @@ dosyanın geçmişinden (History) görülebilir.
 | `tebligler/genel-tebligler/` | Yürürlükteki tüm genel tebliğler (916), konu klasörlerine ayrılmış; dizin: `README.md` |
 | `yonetmelikler/` | YMM tasdik, çalışma usul ve esasları, vergi incelemesi, ticaret sicili, belge basım, gümrük yönetmelikleri |
 | `tebligler/` | Genel tebliğler, sirküler ve özelgeler |
-| `kararlar/danistay/` | Danıştay vergi daireleri ve VDDK kararları (künye + özet + tam metin) ve karar dizini (`dizin/`) |
+| `kararlar/danistay/` | Danıştay vergi daireleri ve VDDK kararları (künye + özet + tam metin), karar dizini (`dizin/`), İçtihatları Birleştirme Kurulu kararları (`ibk/`, 98 karar) ve VDDK karar bültenleri ile bültenlerdeki 644 Kurul kararı (`vddk-bultenleri/`) |
 | `resmi-gazete/` | Günlük Resmî Gazete taramasının özetleri |
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
 | `kaynak-dosyalar/` | mevzuat.gov.tr'den indirilen resmî PDF/Word dosyaları |
 | `gib/` | gib.gov.tr mevzuatı: 221 kanun madde madde, tüm tebliğ, sirküler, iç genelge, genel yazı, BKK/CBK, gerekçe ve tüm özelgeler (5 yılı aşanlar işaretli); günlük güncellenir (`araclar/gib/gib_tara.py`) |
+| `gib/uluslararasi/cvoa/` | Çifte vergilendirmeyi önleme anlaşmaları: 94 ülke, ÇVÖA özelgeleri ve tebliğleri (gib.gov.tr) |
+| `kararlar/anayasa-mahkemesi/` | Anayasa Mahkemesinin vergiyle ilgili 595 norm denetimi ve 379 bireysel başvuru kararı, konu başlıklarına göre dizinli (anayasa.gov.tr) |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
 | `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`), eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama tarama betikleri (`danistay/`) |
 

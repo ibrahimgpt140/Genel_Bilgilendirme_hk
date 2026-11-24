@@ -1,0 +1,7 @@
+---
+kaynak: https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/mevzuat/uluslararasi_mevzuat/GENTEB_2_BKKLIST.htm
+dosya: GENTEB_2_BKKLIST.htm
+baglanti_sayfasi: arsiv/mevzuat/uluslararasi_mevzuat/Cifte_Vergilendirme/Ciftevergilendirmetebligleri.htm
+---
+
+EK II YÜRÜRLÜKTE BULUNAN BAKANLAR KURULU KARARLARI BKK'nın Yayımlandığı kapsadığı BKK Resmi Gazete Yürürlük Ülke taş. faal. Tarihi No'su Tarihi No'su Tarihi ABD deniz ve hava 23.12.1986 86/11330 31.12.1986 19328 01.01.1987 İsviçre hava 27.12.1989 89/14919 30.12.1989 20388 01.01.1989 İsrail deniz ve hava 20.05.1992 92/3078 28.05.1992 21241 01.01.1992 Umman hava 09.01.1997 97/9186 29.04.1997 22974 01.01.1987 Katar hava 09.01.1997 97/9186 29.04.1997 22974 01.01.1987 Bahreyn hava 09.01.1997 97/9186 29.04.1997 22974 01.01.1987 | | | | | | | | EK II | YÜRÜRLÜKTE BULUNAN BAKANLAR KURULU KARARLARI | | | | | | | | | | | BKK'nın | | | Yayımlandığı | | | | kapsadığı | BKK | Resmi Gazete | Yürürlük | | Ülke | taş. faal. | Tarihi | No'su | Tarihi | No'su | Tarihi | | ABD | deniz ve hava | 23.12.1986 | 86/11330 | 31.12.1986 | 19328 | 01.01.1987 | | İsviçre | hava | 27.12.1989 | 89/14919 | 30.12.1989 | 20388 | 01.01.1989 | | İsrail | deniz ve hava | 20.05.1992 | 92/3078 | 28.05.1992 | 21241 | 01.01.1992 | | Umman | hava | 09.01.1997 | 97/9186 | 29.04.1997 | 22974 | 01.01.1987 | | Katar | hava | 09.01.1997 | 97/9186 | 29.04.1997 | 22974 | 01.01.1987 | | Bahreyn | hava | 09.01.1997 | 97/9186 | 29.04.1997 | 22974 | 01.01.1987

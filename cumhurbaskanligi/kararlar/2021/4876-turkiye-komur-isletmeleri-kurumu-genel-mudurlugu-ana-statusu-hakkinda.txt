@@ -1,0 +1,366 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.4876.pdf
+ADI: TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU GENEL MÜDÜRLÜĞÜ ANA STATÜSÜ HAKKINDA KARAR (KARAR SAYISI: 4876)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 03.12.2021 / 31678
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: f26acca8e1a7dd3f09ffbc598879ff26aeca6557fb9d8e340a8347a2069cd6a4
+
+           TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU GENEL MÜDÜRLÜĞÜ
+                              ANA STATÜSÜ
+
+                                         BİRİNCİ BÖLÜM
+                                 Amaç, Kapsam, Dayanak ve Tanımlar
+
+       Amaç ve kapsam
+       MADDE 1- (1) Bu Ana Statü; Türkiye Kömür İşletmeleri Kurumu Genel
+Müdürlüğünün hukuki statüsü, faaliyet alanı ve görevleri, organları ve teşkilat yapısı,
+müessese, bağlı ortaklık, işletme ve iştirakleri ile bunlar arasındaki ilişkileri, tasfiye ve
+denetimle ilgili hususlarla idari, mali ve personele ilişkin hususları düzenlemek amacıyla
+hazırlanmıştır.
+
+       Dayanak
+       MADDE 2- (1) Bu Ana Statü, 8/6/1984 tarihli ve 233 sayılı Kanun Hükmünde
+Kararname ile 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararname hükümlerine
+dayanılarak hazırlanmıştır.
+
+        Tanımlar ve kısaltmalar
+        MADDE 3- (1) Bu Ana Statüde geçen;
+        a) Ar-Ge: Yeni bir sistem, hizmet, ürün, yazılım, süreç geliştirmek amacıyla tasarlanan
+yaratıcı projeleri,
+        b) Bakan: Enerji ve Tabii Kaynaklar Bakanını,
+        c) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+        ç) Rödovans sözleşmesi: Maden işletme ruhsatı sahibinin maden sahasının tamamı veya
+bir kısmı üzerinde sahip olduğu maden işletme izninden kaynaklanan madencilik faaliyeti yapma
+ve maden ocağından çıkan maden cevherini kullanma, yararlanma ve üzerinde tasarruf yapma
+yetkilerini belli bir bedel karşılığı devretmeyi taahhüt ettiği sözleşmeyi,
+        d) TKİ: Türkiye Kömür İşletmeleri Kurumunu,
+        e) Yan ürün: Üretim süreci sırasında ve sonrasında teknik nedenlerle ana ürün ile
+beraber ortaya çıkan malzeme ve türev ürünleri,
+        ifade eder.
+        (2) Bu Ana Statüde yer almayan tanım ve terimler için, 4/6/1985 tarihli ve 3213 sayılı
+Maden Kanunu ile 233 sayılı Kanun Hükmünde Kararnamede yer alan tanımlar esas alınır.
+
+                                         İKİNCİ BÖLÜM
+                              TKİ’nin Yapısı, Amaçları ve Faaliyet Alanı
+
+           TKİ’nin yapısı1
+
+1
+    22/12/2023 tarihli ve 7974 sayılı Cumhurbaşkanı Kararıyla bu kamu iktisadi teşebbüsünün nominal sermayesi
+       MADDE 4- (1) TKİ; tüzel kişiliğe sahip, faaliyetlerinde özerk ve sorumluluğu
+sermayesi ile sınırlı iktisadi devlet teşekkülüdür.
+       (2) TKİ, 233 sayılı Kanun Hükmünde Kararname ve 399 sayılı Kanun Hükmünde
+Kararname ile bu Ana Statü hükümleri saklı kalmak üzere özel hukuk hükümlerine tabidir.
+       (3) TKİ, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile
+8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.
+       (4) TKİ, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu, 5/1/2002 tarihli ve 4735
+sayılı Kamu İhale Sözleşmeleri Kanunu, 2/4/1987 tarihli ve 3346 sayılı Kamu İktisadi
+Teşebbüsleri ile Fonların Türkiye Büyük Millet Meclisince Denetlenmesinin Düzenlenmesi
+Hakkında Kanun ile 3/12/2010 tarihli ve 6085 sayılı Sayıştay Kanunu çerçevesinde Sayıştay
+denetimine tabidir.
+       (5) TKİ’nin merkezi Ankara’dadır.
+       (6) TKİ’nin sermayesi 1.000.000.000 (2.195.020.038) TL olup, tamamı Devlete aittir.
+       (7) TKİ’nin ilgili olduğu bakanlık, Enerji ve Tabii Kaynaklar Bakanlığıdır.
+
+         TKİ’nin amaçları ve faaliyet alanı
+         MADDE 5- (1) Devletin genel madencilik, sanayi ve enerji politikalarına uygun olarak
+ülkemizin enerji ihtiyacını karşılamak üzere; linyit, asfaltit, bitümlü şeyi, turba gibi enerji
+hammaddelerini etkin ve verimli bir şekilde aramak, üretmek, temiz kömür teknolojilerine uygun
+olarak kullanımlarını sağlamak ve stratejik öneme sahip ikincil ürünleri elde etmek üzere kurulan
+TKİ’nin faaliyet konuları şunlardır:
+         a) Her türlü arama, etüt, plan, proje ve programları yapmak, takip etmek, uygulama
+stratejilerini tespit etmek ve gerçekleştirilmesini sağlamak.
+         b) Faaliyet alanına giren hususlarda, üretimin gerçekleştirilmesi ve üretilen ürünlerin
+zenginleştirilmesi, türev ürünlerin elde edilmesi ve bunların değerlendirilmesi için gerekli her
+türlü yeraltı ve yerüstü, sosyal ve sınai tesisleri kurmak, kurdurmak, işletmek, işlettirmek ve
+ürünlerini değerlendirmek, söz konusu tesislerin ülkemiz çevre mevzuatına uygun olmasını
+sağlamak amacıyla her türlü önlemi almak ve aldırmak.
+         c) İştigal konusu faaliyetler için gerekli arama, araştırma ve istimlak işlerini yapmak
+veya yaptırmak.
+         ç) Faaliyet konusu madenler ile bunlardan elde edilen türev ürünlerin (katkılı/katkısız)
+üretim ve ticaretini yapmak ve yaptırmak, aynı zamanda bu ürünlerin ithalat ve ihracatını yapmak.
+         d) Kömür üretimi sırasında ve sonrasında elde edilen yan ürün, artık ve atıkları
+değerlendirmek ve faaliyet alanı ile ilgili her türlü ambalajlama, torbalama, nakliye, yükleme
+ve boşaltma işleri yapmak, yaptırmak.
+         e) Ruhsat hukuku TKİ’ye ait olan maden sahalarını üçüncü şahıslara kiralamak veya
+rödovans sözleşmeleri yapmak.
+         f) Amaçları ve faaliyet alanı ile ilgili olarak ve sahip olduğu imkânlar kullanılarak bedeli
+
+2.195.020.038 TL olarak belirlenmiştir.
+mukabilinde, gerektiğinde araç ve gereç kiraya vermek ya da üçüncü şahıslardan kiralamak.
+        g) Faaliyetlerini aksatmayacak şekilde ilgili mevzuat çerçevesinde danışmanlık hizmeti,
+mal ve diğer hizmet satışı yapmak.
+        ğ) Faaliyetleri ile ilgili her türlü belge ve sertifika almak, ulusal ve uluslararası alanda,
+madencilik sektöründe (kamu ve özel) her türlü eğitimleri vermek ve belgelendirmek,
+sertifika ve mesleki yeterlilik sınav ve belgelendirme hizmeti sunmak, istihdamı geliştirme
+kapsamında düzenlenen beceri kazandırma programlarının uygulanmasını sağlamak.
+        h) Amaçları ile ilgili sigorta acenteliği dâhil her türlü ticari faaliyette bulunmak, ayni
+ve fikri haklar almak ve satmak.
+        ı) Cumhurbaşkanı kararıyla yurt içinde veya yurt dışında ortaklıklar ve şirketler
+kurmak veya tasfiye etmek, kurulmuş ve kurulacak ortaklık ve şirketlere iştirak etmek veya
+bunlardan ayrılmak.
+        i) İşletmelerin, iştiraklerin ve diğer birimlerin bütçeleri ile fiyat, tarife ve yatırımların,
+genel ekonomi ve madencilik, sanayi ve enerji politikalarına uyumunu sağlamak.
+        j) Üretilen kömürlerin karakteristikleri dikkate alınarak ülke genelinde etkin ve verimli
+bir şekilde kömür kullanımını sağlamak amacıyla raporlar hazırlamak; Bakanlığın onayını
+müteakip, kömürlerin kullanımı ile ilgili karar verici birim ve otoritelerle paylaşmak.
+        k) Maden ruhsatları talep etmek, almak, satmak, uhdesinde bulunan maden ruhsatlarını
+bölerek yeni ruhsat talep etmek, gayrimenkulleri tasarruf etmek, kiralamak, kiraya vermek,
+leh ve aleyhte rehin, ipotek, intifa, irtifak hakları, gayrimenkul mükellefiyeti ve benzeri hakları
+tesis etmek.
+        1) Faaliyet konusu alanlarda kurulmuş ve kurulacak kamu ve özel kuruluşlara idari ve
+teknik alanlarda rehberlik yapmak.
+        m) Uhdesindeki ruhsat sahalarında, 3213 sayılı Kanunun 2 nci maddesi kapsamındaki
+IV. Grup (b) bendi madenlerde bulunan kömür kaynaklı metan gazını işletmek, işlettirmek.
+        n) Lisanssız enerji üretim tesisleri kurmak ve işletmek, işlettirmek, ayrıca Bakanlığın
+uygun görüşü doğrultusunda lisanslı her türlü enerji üretim tesisi kurmak, işletmek, işlettirmek ve
+enerji üretim tesisine hissedar olmak.
+        o) Madencilik faaliyetlerinin tamamlandığı sahalarda; doğaya yeniden kazandırma
+çalışmaları yapmak, sosyoekonomik katkı sağlayıcı faaliyetlerde bulunmak, bu sahaların
+rehabilitasyonu kapsamında oluşan alanların ekimini yapmak, üretilen ürünleri ticari olarak
+değerlendirmek.
+        ö) Kömür ve türevleri başta olmak üzere madenlerin kalite ve özellikleri ile iş yerlerindeki
+çalışma ortamlarındaki parametrelerin ölçülmesine yönelik, akredite laboratuvarlar kurmak, kamu
+ve özel sektöre hizmet sunmak.
+        p) Faaliyet alanıyla ilgili konularda uygulamalı Ar-Ge çalışmaları yapmak.
+        r) Faaliyet alanıyla ilgili Bakanlıkça verilen diğer görevleri yapmak.
+        (2) TKİ, amaç ve faaliyetlerini doğrudan doğruya merkez, işletme, iştirak ve diğer birimler
+eliyle yerine getirir.
+
+                                     ÜÇÜNCÜ BÖLÜM
+                             TKİ’nin Organları ve Teşkilat Yapısı
+       TKİ’nin organları
+       MADDE 6- (1) TKİ’nin organları, Yönetim Kurulu ve Genel Müdürlüktür.
+         Yönetim Kurulu
+         MADDE 7- (1) Yönetim Kurulu bir başkan ve beş üyeden oluşur.
+         (2) TKİ Yönetim Kurulunun teşkili ile görev ve yetkileri, üyelerinin atanmaları, nitelik ve
+şartları, görev ve süreleri, görevden alınmaları ile diğer hususlar hakkında; 233 sayılı Kanun
+Hükmünde Kararname, 399 sayılı Kanun Hükmünde Kararname ve diğer ilgili mevzuat
+hükümleri uygulanır.
+         (3) Yönetim Kurulu, TKİ’nin amaç ve faaliyetlerini gerçekleştirme ve yönetimi ile
+ilgili gerekli her türlü kararı alır.
+         (4) Genel Müdür, Yönetim Kurulunun başkanıdır. Genel Müdürün bulunmadığı hallerde,
+Genel Müdürün Yönetim Kurulu üyeleri arasından görevlendireceği Genel Müdür vekili Yönetim
+Kuruluna başkanlık eder.
+
+        Yönetim Kurulunun toplanması
+        MADDE 8- (1) Yönetim Kurulu, Genel Müdürün daveti üzerine ayda iki defadan az
+olmamak üzere toplanır. Toplantı günü ile saatini de gösteren gündem, Yönetim Kurulu
+Başkanı tarafından tespit edilerek en az yirmi dört saat önce üyelere dağıtılır. Yönetim Kurulu
+kararıyla gündemde değişiklik yapılabilir.
+        (2) Yönetim Kurulu üyeleri de kurul karan alınmasına gerek görülen konuların
+görüşülmesi ve karara bağlanmasıyla ilgili olarak önerge verebilirler. Toplantı yapılması en az
+iki üyenin ortaklaşa yazılı önergesine bağlıdır.
+        (3) Toplantı yeri, TKİ merkezidir. Yönetim Kurulu, karar almak şartı ile başka bir
+yerde de toplanabilir.
+        (4) TKİ’nin Yönetim Kurulu toplantısına katılma hakkına sahip olanlar bu toplantılara,
+13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 1527 nci maddesi uyarınca elektronik
+ortamda da katılabilir. TKİ, 29/8/2012 tarihli ve 28396 sayılı Resmi Gazete’de yayımlanan
+Ticaret Şirketlerinde Anonim Şirket Genel Kurulları Dışında Elektronik Ortamda Yapılacak
+Kurullar Hakkında Tebliğ hükümleri uyarınca hak sahiplerinin bu toplantılara elektronik
+ortamda katılmalarına ve oy vermelerine imkân tanıyacak Elektronik Toplantı Sistemini
+kurabileceği gibi bu amaç için oluşturulmuş sistemlerden de hizmet satın alabilir. Yapılacak
+toplantılarda bu hüküm uyarınca kurulmuş olan sistem üzerinden veya destek hizmeti alınacak
+sistem üzerinden hak sahiplerinin İlgili mevzuatta belirtilen haklarım mezkûr Tebliğ
+hükümlerinde belirtilen çerçevede kullanması sağlanır.
+        (5) Yönetim Kurulu, üye tam sayısının salt çoğunluğu olan en az dört üye ile toplanır
+ve kararlarım üye tam sayısının salt çoğunluğu ile alır. Oylarda eşitlik olması halinde
+Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+        (6) Yönetim Kurulunda oylar, kabul ve ret şeklinde kullanılır. Çekimser oy kullanılmaz.
+Ret oyu kullanan üye kararın altına ret gerekçesini yazarak imzalar.
+        (7) Toplantıya katılmayan üyeler yazılı olarak veya vekil tayin etmek suretiyle oy
+kullanamaz.
+        (8) Yönetim Kurulu Başkan ve üyelerinin bütün toplantılara katılmaları esastır.
+Yönetim Kurulu üyelerinden mazereti olanların toplantıdan önce mazeretlerim Yönetim
+Kurulu Başkanlığına bildirmeleri gerekir. Arka arkaya dört toplantıya veya bir yıl içinde
+toplam on toplantıya mazeretsiz olarak katılmayan üyeler istifa etmiş sayılır.
+        (9) Yönetim Kurulu kararlan, TKİ’nin bulunduğu yer noterliğince onaylı karar
+defterine veya kalamozaya tarih ve sıra numarası altında yazılır. Karar defterinin her sayfası
+toplantıya katılan üyeler tarafından imzalanır.
+        (10) Kararların en geç bir ay içinde karar defterine yazılıp imza işleminin tamamlanması
+gerekir.
+        (11) Olağanüstü hallerde, yukarıdaki fıkralarda sayılan toplantı ve gündem şartlarına
+bakılmaksızın Genel Müdürün daveti üzerine toplanılabilir.
+
+        Genel Müdürlük
+        MADDE 9- (1) TKİ Genel Müdürlüğü; Genel Müdür, Genel Müdür yardımcıları ve
+bağlı birimlerden oluşur.
+
+        Genel Müdürün görev ve yetkileri
+        MADDE 10- (1) TKİ Genel Müdürü, TKİ’yi, Yönetim Kurulu kararlan çerçevesinde
+yönetir ve üçüncü kişilere karşı temsil eder.
+        (2) Genel Müdürün atanması, nitelikleri, görev, yetki ve sorumlulukları ile diğer hususlar
+hakkında; 233 sayılı Kanun Hükmünde Kararname, 399 sayılı Kanun Hükmünde Kararname ve 3
+sayılı Cumhurbaşkanlığı Kararnamesi ile diğer ilgili mevzuat hükümleri uygulanır.
+        (3) TKİ Genel Müdürü, TKÎ Yönetim Kurulunun alt mercilere devredilemeyeceğini
+belirterek verdiği yetkiler hariç, sınırlarını açıkça belirlemek şartıyla, yetkilerinden bir kısmını
+astlarına ve daha alttaki mercilere devredebilir. İlgili mevzuatta öngörülen mercilerden izin
+alınmasını gerektiren konulara ilişkin yetki devri bu iznin alınmasından sonra yapılır. Yetki
+devri yapılmış olması Genel Müdürün sorumluğunu ortadan kaldırmaz.
+
+        Genel Müdür yardımcıları
+        MADDE 11- (1) TKİ Genel Müdür yardımcılarının atanmaları, nitelikleri, görev,
+yetki ve sorumlulukları ile diğer hususlar hakkında; 233 sayılı Kanun Hükmünde Kararname,
+399 sayılı Kanun Hükmünde Kararname ve 3 sayılı Cumhurbaşkanlığı Kararnamesi ile diğer
+ilgili mevzuat hükümleri uygulanır.
+        (2) Genel Müdür yardımcıları arasındaki iş bölümü Genel Müdür tarafından belirlenir.
+
+       TKİ birimlerinin kurulması
+       MADDE 12- (1) TKİ’nin, 233 sayılı Kanun Hükmünde Kararname ve 399 sayılı
+Kanun Hükmünde Kararname ile bu Ana Statü hükümleri çerçevesinde amaç ve faaliyetlerim
+gerçekleştirmek üzere, ana organizasyon şemasında Genel Müdür yardımcılarından sonraki
+birinci ve ikinci kademede yer alan görevlere kadar olan Genel Müdürlük birimleri, Genel
+Müdürün teklifi üzerine Yönetim Kurulu karan ile kurulur.
+         (2) Kurumun diğer birimlerinin kurulması, gerektiğinde değiştirilmesi veya kaldırılması,
+ilgili üst birimin teklifi üzerine Genel Müdürün onayı ile olur.
+
+                                  DÖRDÜNCÜ BÖLÜM
+                         Müesseseler, Bağlı Ortaklıklar ve İştirakler
+
+         Müesseselerin kurulması ve nitelikleri
+         MADDE 13- (1) Müesseselerin kurulması ve nitelikleri hakkında 233 sayılı Kanun
+Hükmünde Kararname hükümleri uygulanır.
+         (2) Müesseselerin kurulması, kaldırılması, statülerinin değiştirilmesi, çalışma konularının
+genişletilmesi veya daraltılması, sermayelerinin artırılması veya azaltılması ve diğer müesseselerle
+birleştirilmesi TKİ Yönetim Kurulu kararıyla olur.
+
+      Müessese organları
+      MADDE 14- (1) Müessese organları, yönetim komitesi ve müessese müdürlüğüdür.
+Müessese yönetim komitesi
+
+        MADDE 15- (1) Müessese yönetim komitesinin teşkili, görev ve yetkileri ile yönetim
+komitesi üyelerinin atanmaları, nitelik ve şartları hakkında 233 sayılı Kanun Hükmünde
+Kararname ve 399 sayılı Kanun Hükmünde Kararname hükümleri uygulanır.
+        (2) Yönetim komitesinin başkanı müessese müdürüdür. Müessese müdürünün bulunmadığı
+hallerde, TKİ Genel Müdürünün yönetim komitesi üyeleri arasından görevlendireceği kişi veya
+Yönetim Kurulunun TKİ mensupları arasından tefrik edeceği kimse, müessese müdür vekili olarak
+yönetim komitesine başkanlık eder.
+
+         Müessese yönetim komitesinin toplanması
+         MADDE 16-(1) Yönetim komitesi önceden belli edilecek günde ve en az ayda iki defa
+toplanır. Başkanın isteği veya en az iki üyenin görüşme koşullarını gösteren yazılı önergesi
+üzerine belli günler dışında da toplantı yapılabilir.
+         (2) Toplantı yeri müessese merkezidir. TKİ Genel Müdürünün izni ile müessese ile
+ilgili başka bir yerde de toplanılabilir.
+         (3) Yönetim komitesi başkan ve üyelerinin bütün toplantılara katılmaları esastır.
+Mazereti olanların durumları toplantıya ait tutanakta belirtilir.
+         (4) Yönetim komitesinden karar alınmasını gerektiren konulara ait teklifler müessese
+müdürü tarafından komiteye getirilir ve gündeme alınır.
+         (5) Yönetim komitesi toplantı gündemi başkan tarafından tespit edilir ve toplantıdan
+en az yirmi dört saat önce üyelere dağıtılır. Yönetim komitesi kararıyla gündemde değişiklik
+yapılabilir.
+        (6) Yönetim komitesi, üye tam sayının salt çoğunluğu ile toplanır ve kararlarım çoğunlukla
+alır. Oylarda eşitlik olması halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+        (7) Müessese müdürü herhangi bir yönetim komitesi kararının uygulanmasında ciddi
+sakıncalar gördüğü ve kararda komitece ısrar edildiği takdirde, konunun önce TKİ Genel
+Müdürü tarafından incelenmesini isteyebilir. Genel Müdür gerekli görürse konunun TKİ
+Yönetim Kurulunca incelenerek kesin çözüme kavuşturulmasını ister. Bu hususta TKİ Genel
+Müdürünün talimatı alınıncaya veya TKİ Yönetim Kurulu karar verinceye kadar yönetim
+komitesi kararı uygulanmaz. TKİ Genel Müdürünün talimatına veya TKİ Yönetim Kurulu
+kararına uyulması zorunludur.
+        (8) Olağanüstü hallerde beşinci fıkrada belirtilen hususlara uyulmaz.
+
+        Müessese müdürü
+        MADDE 17- (1) Müessese müdürünün atanması, nitelikleri, görev, yetki ve sorumlulukları
+ile diğer hususlar hakkında; 233 sayılı Kanun Hükmünde Kararname, 399 sayılı Kanun Hükmünde
+Kararname ile diğer ilgili mevzuat hükümleri uygulanır.
+
+         Bağlı ortaklıklar
+         MADDE 18- (1) Bağlı ortaklıkların kuruluşu, yönetim kurulunun teşkili, yönetim
+kurulu üyesi, genel müdür ve genel müdür yardımcılarının atanması veya seçilmesi ve
+bunların nitelik ve şartları, yönetim kurulunun ibrası ve diğer konularda, 233 sayılı Kanun
+Hükmünde Kararname ve ana sözleşme hükümleri ile bunlarda hüküm bulunmayan
+hususlarda 6102 sayılı Kanun hükümleri uygulanır.
+         (2) Bağlı ortaklık genel müdürü hariç, TKİ’nin payını temsil etmek üzere atanmış olan
+bütün yönetim kurulu üyeleri başka bir bağlı ortaklık veya iştirakte yönetim, denetim ve
+tasfiye kurulu üyesi olamaz.
+         (3) TKİ’yi temsilen, bağlı ortaklık yönetim kurulu üyesi olarak görev alacak gerçek kişilerin
+hisse senedi verme yükümlülüğü, TKİ tarafından yerine getirilir. Bu kişilerin yükümlülüğü görev
+süreleri ile sınırlı olup, görev süreleri sonunda hisselerini devretmek zorundadırlar.
+         (4) Yönetim kurulunun toplanması ve diğer hususlarda ana sözleşme hükümleri ile
+6102 sayılı Kanun hükümleri uygulanır.
+         (5) Bağlı ortaklık genel müdürü, TKİ ve bağlı ortaklık yönetim kurulunca alınan
+kararların uygulanması ve bağlı ortaklığın yönetiminde gereken gayret ve basireti göstermekle
+yükümlü ve aksine davranışlardan sorumludur.
+         (6) Bağlı ortaklık, TKİ Yönetim Kurulu tarafından tespit edilen yatırım, planlama ve
+pazarlama ana hedeflerine göre hareket eder.
+
+       İştiraklere uygulanacak hükümler
+       MADDE 19- (1) İştiraklerin teşkili, nitelikleri, yönetimi ve diğer hususlarda 233 sayılı
+Kanun Hükmünde Kararname ve bu Ana Statü ile şirket ana sözleşmesi hükümleri, bunlarda
+hüküm bulunmayan hallerde 6102 sayılı Kanun hükümleri uygulanır.
+        (2) TKİ’ye ve bağlı ortaklıklara ait iştiraklerin yönetim kurullarında, TKİ’yi ve bağlı
+ortaklığı temsilen her %15 hisse için en az bir üye bulundurulur.
+
+      Yönetim kurulu üyelerinin rapor vermesi
+      MADDE 20- (1) TKİ’nin temsilcileri, TKİ adına yönetim kurulu üyesi oldukları
+anonim şirketin faaliyetleri ve mali durumu hakkında tüzüğünde belirtilen usullere göre
+TKİ’ye rapor verir.
+
+                                   BEŞİNCİ BÖLÜM
+                   Mali Hükümler, Tasfiye ve Denetim, Plan, Program ve
+                              Bütçeler, Yatırım Projeleri
+
+        Mali hükümler, tasfiye ve denetim
+        MADDE 21- (1) Plan, program ve bütçeler, yatırım projelerinin hazırlanması, yatırım
+ve finansman programları, küçük tamamlama, idame ve yenileme yatırımları, fiyat ve
+tarifeler, muhasebe sistemleri, bilançolar, netice hesapları, faaliyet raporları ve kar dağıtımı
+ile tasfiye ve denetim konularında 233 sayılı Kanun Hükmünde Kararname ve diğer ilgili
+mevzuat hükümleri uygulanır.
+
+         Plan, program ve bütçeler
+         MADDE 22- (1) TKİ, yatırım ve işletme faaliyetlerini plan, program ve bütçelere dayalı
+olarak yürütmek ve bağlı ortaklıklarının da aynı esaslara uymasını sağlamakla yükümlüdür.
+         (2) TKİ, bağlı ortaklıklarını da kapsayan yıllık genel yatırım ve finansman programını,
+233 sayılı Kanun Hükmünde Kararname hükümlerine göre hazırlayarak Hazine ve Maliye
+Bakanlığına sunar.
+         (3) TKİ ve bağlı ortaklıklarının işletme bütçeleri, her hesap dönemi için yıllık genel
+yatırım ve finansman programındaki hedefler esas alınarak hazırlanır ve yönetim kurullarınca
+onaylanır.
+         (4) İlgili mevzuat hükümleri kapsamında, yıl içinde işletme bütçelerinde gerekli
+değişiklikler yapılır.
+         (5) Teşekkül ve bağlı ortaklıkları, kesinleşen yıllık genel yatırım ve finansman programları
+ile işletme bütçelerinin birer örneğini ilgili kurumlara gönderir.
+
+       Yatırım Projeleri
+       MADDE 23- (1) TKİ, Kalkınma Planına göre kendisi tarafından yapılması gereken
+yatırımlara ait mali, ekonomik ve teknik çalışmaları zamanında yaparak projelerini hazırlar ve
+bağlı ortaklıkların aynı esaslar çerçevesinde hazırladıkları projeleri de ekleyerek takvim yılı
+başından yedi ay önce Bakanlık ile Strateji ve Bütçe Başkanlığına gönderir.
+       (2) Bakanlık; TKİ ve bağlı ortaklıklarının projeleri üzerinde gerekli incelemeleri
+yaparak bunları, yıllık genel yatırım ve finansman programına dâhil edilmek üzere, aynı yılın
+Haziran ayı sonuna kadar Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına
+gönderir.
+       (3) TKİ, bağlı ortaklıklar arasında teknik projelerde ihtiyaçlar doğrultusundaki
+standardizasyonun sağlanması amacıyla teknik yardım yapar ve koordinasyonu sağlar.
+       (4) Projesi hazır olmayan yatırıma başlanamaz.
+
+                                     ALTINCI BÖLÜM
+                                      Son Hükümler
+
+        Personele ilişkin hükümler
+        MADDE 24- (1) TKİ personelinin istihdam şekilleri, atanmaları, görevlerine son
+verilmesi, yükümlülük ve sorumlulukları, kadrolarının tespiti, ücret, prim ve ikramiyeleri,
+yurtdışına gönderme, siyasi faaliyet yasağı ve vekâlet ücretlerinin dağıtımı ile yönetim kurulu
+ve tasfiye kurulu üyelerinin ücret ve hakları konularında, 233 sayılı Kanun Hükmünde
+Kararname ve 399 sayılı Kanun Hükmünde Kararname ile diğer ilgili mevzuat hükümleri
+uygulanır.
+
+      Ana Statüde hüküm bulunmayan hallerde uygulanacak mevzuat
+      MADDE 25- (1) Bu Ana Statüde düzenlenmeyen hususlarda, 233 sayılı Kanun
+Hükmünde Kararname ile 399 sayılı Kanun Hükmünde Kararname hükümleri uygulanır. Bu
+Kanun Hükmünde Kararnamelerde de yer almayan hususlarda 6102 sayılı Kanunun ilgili
+hükümleri uygulanır.
+
+       Yürürlükten kaldırılan Ana Statü
+       MADDE 26- (1) 27/11/1984 tarihli ve 18588 sayılı Resmi Gazete’de yayımlanan
+Türkiye Kömür İşletmeleri Kurumu Ana Statüsü yürürlükten kaldırılmıştır.
+
+       Yürürlük
+       MADDE 27- (1) Bu Ana Statü yayımı tarihinde yürürlüğe girer.
+
+     Yürütme
+     MADDE 28- (1) Bu Ana Statü hükümlerini Türkiye Kömür İşletmeleri Kurumu Genel
+Müdürü yürütür.
+

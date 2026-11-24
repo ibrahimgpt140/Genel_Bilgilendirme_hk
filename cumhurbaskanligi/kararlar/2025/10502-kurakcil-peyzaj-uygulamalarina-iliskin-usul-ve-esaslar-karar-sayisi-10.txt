@@ -1,0 +1,328 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.10502.pdf
+ADI: KURAKÇIL PEYZAJ UYGULAMALARINA İLİŞKİN USUL VE ESASLAR (KARAR SAYISI: 10502)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 18.10.2025 / 33051
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: f3404b5f4041133c9e3f29191615cd6b2b0f4a5b80e6b97d90a30f0fcdba77b1
+
+                   
+                            & %!%$!%&%&
+
+
+
+
+       !##$#"  $ 
+
+
+
+
+                                             
+
+
+
+
+                                                                 &$#""$& %
+                                                                              
+
+
+
+
+                                   '-+,*)(  
+        KURAKÇIL PEYZAJ UYGULAMALARINA İLİŞKİN USUL VE ESASLAR
+
+      Amaç
+      MADDE 1- (1) Bu Usul ve Esasların amacı; meskûn mahalde kalan kamusal açık-yeşil
+alanlar ile yarı özel açık-yeşil alanlarda su kaynaklarının etkin ve verimli kullanılmasını, iklim
+değişikliğine uyum sağlanmasını, yerel ekolojik koşulların gözetilmesini ve dirençli-
+sürdürülebilir kentsel peyzaj alanlarının oluşturulmasını sağlayan kurakçıl peyzaj ve sulama
+uygulamalarının belirlenmesidir.
+
+       Tanımlar
+       MADDE 2- (1) Bu Usul ve Esaslarda geçen;
+       a) Bakanlık: Tarım ve Orman Bakanlığını,
+       b) Bitkisel peyzaj elemanları: Ağaçlar, ağaççıklar, çalılar, yer örtücüler, çimler başta
+olmak üzere peyzaj tasarım ve uygulamasında kullanılan tüm doğal, yarı doğal ve kültürel
+bitki türlerini,
+       c) Kamusal (genel) açık-yeşil alanlar: Kent ve mahalle parkları, yol, bulvar ve refüjler
+gibi toplumun yararlandığı veya rekreasyonel ihtiyaçlarının karşılandığı, ekosistem hizmetleri
+sağlayan kamusal alanları,
+       ç) Kentsel yeşil alanlar: Kamusal (genel) açık-yeşil alanlar ve yarı özel açık-yeşil
+alanları,
+       d) Kurakçıl peyzaj: Suyun verimli kullanımını esas alarak kuraklığa, tuzluluğa ve
+sıcaklığa dayanıklı, su ihtiyacı az olan bitkilerle tasarlanan, yerel iklim ve doğal vejetasyon ile
+uyumlu, çevresel, estetik ve kültürel değerleri gözeten çok işlevli sürdürülebilir peyzajı,
+       e) Kurakçıl Peyzaj Uygulamaları Rehber Dokümanı: 4/5/2023 tarihli ve 32180 sayılı
+Resmî Gazete’de yayımlanan 2023/9 sayılı Cumhurbaşkanlığı Genelgesine dayanılarak
+Bakanlığın resmi internet sitesinde yayımlanan rehber dokümanı,
+       f) Malçlama: Buharlaşmayı azaltarak suyun verimli kullanımını sağlamak, toprak
+sıcaklığını dengelemek ve sağlıklı bitki gelişimini teşvik etmek amacıyla bitkilerin kök
+bölgelerinin ve/ veya bütün toprak yüzeyinin organik veya inorganik malzemelerle
+örtülmesini,
+       g) Peyzaj: Karakteri doğal ve/ veya insan aktiviteleri ve etkileşimleri sonucu oluşan
+alanı,
+       ğ) Peyzaj İzleme Sistemi: Peyzaj uygulaması ve sulamaya ilişkin verilerin yer aldığı ve
+izlemenin yapıldığı Bakanlıkça geliştirilen bilgi sistemini,
+       h) Sorumlu idare: Kentsel yeşil alanlardan sorumlu idareleri,
+       ı) Yapısal peyzaj elemanları: Peyzaj tasarım ve uygulamasında kullanılan pergola,
+kamelya, bahçe mobilyaları vb. ahşap peyzaj donatı elemanları, çitler, merdivenler, kapılar ile
+sert zeminler gibi yapısal elemanları,
+       i) Yarı özel açık-yeşil alanlar: Üniversite kampüs alanları, askeri alanlar, kamu kurum
+ve kuruluşları, havaalanları, turizm tesisleri, golf, futbol ve atletizm sahaları, organize sanayi
+bölgeleri gibi çoğunlukla toplumun tümüyle yararlanamadığı, sadece belirli bir kesim
+tarafından belli şartlarda kullanıma açık rekreasyonel alanları,
+       j) Yeşil altyapı: Ekosistem hizmetlerinin sürdürülebilirliğinin desteklenmesi ve
+biyoçeşitliliğin artırılması için stratejik olarak tasarlanan ve yönetilen doğal ve yarı doğal
+alanlar ağını,
+       k) Zonlama: Bitkisel peyzaj elemanlarının su ihtiyacı, kullanım yoğunluğu ve
+işlevselliği, toprak özellikleri, meteorolojik özellikler, topografya, bakım gerekliliği ve estetik
+katkısı dikkate alınarak alanın planlı alt bölgelere ayrılmasını,
+       ifade eder.
+       Genel esaslar
+       MADDE 3- (1) Kurakçıl peyzaj uygulamaları ile su kaynaklarının etkin ve verimli
+kullanılmasını sağlamak maksadıyla;
+       a) Peyzajda; kuraklığa, tuzluluğa, sıcaklığa dayanıklı ve su ihtiyacı az olan, yerel iklim
+ve doğal vejetasyona uygun bitkisel peyzaj elemanlarının kullanılması, yetiştirilmesi,
+       b) Peyzaj tasarımında, ilgili federasyonlarca çim kullanımının zorunlu olduğu belirlenen
+spor tesisleri dışında çim kullanımının azaltılması, çim kullanımının zorunlu olduğu alanlarda
+ise kullanım yeri ve kullanım amaçları dikkate alınarak bölgenin iklim koşullarına uygun,
+kuraklığa dayanıklı çim türlerinin seçilmesi,
+       c) Peyzajda çim yerine yerel iklime ve doğal vejetasyona uygun, çok yıllık yer
+örtücülerin ve kuraklığa dayanıklı doğal bitkilerin kullanılması,
+       ç) Peyzaj tasarımında bitki su ihtiyacına ve kullanım yoğunluğuna göre zonlama
+yapılması,
+       d) Bölgeye ve yerel iklim koşullarına uygun yapısal peyzaj elemanlarının kullanılması,
+       e) Peyzaj uygulamalarında yerel iklim koşullarına, doğal yapıya ve bitki örtüsüne
+uyumlu malçlama yapılması,
+       f) Bitkisel peyzaj elemanları kullanılmadan sadece organik ve inorganik malç
+malzemesi kullanılarak toprak yüzeyinin kapatılmaması,
+       g) Su verimliliği sağlayan basınçlı sulama yöntemlerinin kullanılması,
+       ğ) Peyzaj sulamasında içme-kullanma suyu şebekesinden sulama yapılmaması, sulama
+ihtiyacının öncelikli olarak arıtılmış atıksular olmak üzere geleneksel olmayan su
+kaynaklarından sağlanması, buna yönelik çevresel altyapının ve kademeli geçiş planlarının
+oluşturulması, geleneksel olmayan su kaynaklarına erişimin mümkün olmadığı yerlerde ve
+yeraltı suyu kullanımının zorunlu olduğu şartlarda su tahsis belgesi alınması,
+       h) Su kullanımının ölçüm ve izleme sistemleri ile kayıt altına alınması,
+       ı) Sulama ve bakım faaliyetlerinde enerji ihtiyacının öncelikli olarak yenilenebilir enerji
+kaynaklarından sağlanması,
+       i) Yeşil altyapı uygulamalarının kurakçıl peyzaj uygulamalarıyla uyumlu hale
+getirilmesi,
+       j) Peyzajda bulunan sosyal donatılarda sensörlü musluk, tasarruflu musluk ucu aparatı,
+düşük hacimli rezervuar gibi su verimliliği sağlayan ekipmanların kullanılması,
+       k) Bakanlık, ilgili meslek odaları, üniversiteler başta olmak üzere ilgili kurum ve
+kuruluşlarca kurakçıl peyzaj uygulama esaslarına yönelik bu Usul ve Esasları uygulamakla
+yükümlü kurum ve kuruluşlara eğitimlerin verilmesi, halkın bilgilendirilmesi ve iyi
+uygulamaların ilgili alanlarda tanıtılarak farkındalığın artırılması,
+       esastır.
+
+      Kurakçıl peyzaj tasarımı ve uygulaması1
+      MADDE 4- (1) Kurakçıl peyzaj tasarım ve uygulamasından sorumlu idarelerce;
+      a) Uygulama alanının tasarımı aşamasında; doğal yapı özellikleri arazi etüt ve literatür
+çalışmaları ile belirlenir; çevresel ve fiziksel sorunlar tespit edilerek önceliklendirilir; toprak
+analizleri yapılarak analiz sonuçlarına uygun iyileştirme ve ıslah yöntemleri tespit edilir.
+      b) Peyzaj sulaması için arıtılmış atıksular başta olmak üzere geleneksel olmayan su
+kaynaklarının tespiti yapılır.
+
+
+
+1
+ 21/10/2025 tarihli ve 33054 sayılı Resmî Gazete’de yayımlanan düzeltme ile bu Cumhurbaşkanı
+Kararının 4 üncü ve geçici 2 nci maddelerinde yer alan “8 inci madde” ibareleri, “7 nci madde”
+şeklinde değiştirilerek düzeltilmiştir.
+      c) Uygulama alanında yer alacak faaliyetler için kullanım alanlarına uygun gerekli
+yapılar ve mekanlar ile bunların konumları belirlenir.
+      ç) Kullanım alanlarının belirlenmesinden sonra zonlama yapılır.
+      d) Peyzajda kullanılacak kurakçıl bitkiler, 7 nci madde gereğince yayımlanan bitkisel
+peyzaj elemanları arasından seçilir.
+      e) Sıcak, kuru, güney ve batı bakılı alanlar için az su isteyen bitkiler; kuzey ve doğu
+bakılı alanlarda ise daha fazla neme ihtiyaç duyan bitkiler kullanılır.
+      f) Eğimli yeşil alanlarda, teraslama yapılarak toprak tutucu bitkiler ile yer örtücüler ya
+da çalılar kullanılır.
+      g) İlgili federasyonlarca çim kullanımının zorunlu olduğu belirlenen spor tesislerinde
+kullanılacak çim türleri, 7 nci madde gereğince yayımlanan çim türleri arasından seçilir.
+      ğ) Çim kullanımı zorunlu olan alanlar dışında 7 nci madde gereğince yayımlanan diğer
+bitkisel peyzaj elemanları tek veya grup halinde kullanılarak çim alan oranı azaltılır.
+      h) Toprakta buharlaşmanın en aza indirilmesi amacıyla bölgenin iklim koşullarına ve
+doğal yapısına uyumlu malç malzemesi, suyun bitki köklerine ulaşmasını sağlayacak
+kalınlıkta kullanılır.
+      ı) Beton, asfalt gibi geçirgenliği düşük olan malzemelerden yapılmış sert zemin alanları
+asgari düzeyde tutulur. Zemin malzemesinde su akışını yavaşlatan ve yüksek su
+geçirgenliğine sahip malzemeler kullanılır.
+
+      Sulama planlaması ve uygulaması
+      MADDE 5- (1) Kurakçıl peyzaj sulama planlaması ve uygulamasından sorumlu
+idarelerce;
+      a) İçme-kullanma suyu şebekesinden peyzaj sulaması yapılmaması esastır. Geleneksel
+olmayan su kaynaklarının kullanımı önceliklendirilir. Yeraltı suyu kullanımının zorunlu
+olduğu şartlarda ise su tahsis belgesi alınır.
+      b) Toprak analizine ve belirlenen bitki desenine uygun sulama programı hazırlanır.
+Sulama programı hava koşulları esas alınarak uygulanır.
+      c) Sulama gün ağarmadan önce ya da gün batımından hemen sonra yapılır.
+      ç) Sulamada basınçlı sulama yöntemleri ve otomasyonlu sulama sistemleri kullanılır. Bu
+sistemlerin yılda en az bir kez periyodik kontrolü ve bakımı yapılır. Su kullanımı ölçüm ve
+izleme sistemleri ile kayıt altına alınır.
+      (2) Peyzaj sulamasında geleneksel olmayan su kaynaklarının kullanımında;
+      a) Arıtılmış atıksuların kullanımına öncelik verilir. Arıtılmış atıksuyun yeniden
+kullanımında yürürlükteki mevzuatta yer alan yükümlülüklere ve kriterlere uyulur.
+      b) Mevcut peyzajda, hâlihazırda geleneksel olmayan su kaynakları kullanılamıyorsa
+kademeli olarak geleneksel olmayan su kaynaklarının kullanımı sağlanır.
+      c) Yeni yapılacak peyzajın sulanmasında geleneksel olmayan su kaynaklarının
+kullanımına ilişkin altyapı sistemleri peyzaj ile birlikte projelendirilerek tesis edilir.
+      ç) Alanda yüzeyden akışa geçen yağış suları yeniden kullanım için yeraltı veya yerüstü
+depolarında biriktirilir.
+      d) Sulamadan dönen suların yeniden kullanılması için drenaj kanalları oluşturulur.
+Drenaj kanalları ile toplanan sulama suları uygun filtrasyon yöntemi sonrası sulamada
+yeniden kullanılır.
+      (3) İlgili federasyonlarca çim kullanımının zorunlu olduğu belirlenen spor tesislerinde
+içme-kullanma suyu şebekesinden peyzaj sulaması yapılmaması esastır. Sulama ihtiyacı
+öncelikli olarak arıtılmış atıksular olmak üzere geleneksel olmayan su kaynaklarından
+sağlanır, buna yönelik çevresel altyapı oluşturulur. Yeraltı suyu kullanımının zorunlu olduğu
+şartlarda su tahsis belgesi alınır.
+      Kurakçıl peyzaj verilerinin izlenmesi
+      MADDE 6- (1) Bu Usul ve Esaslar kapsamında yer alan sorumlu idarelerce her yıl
+Şubat ayının sonuna kadar bir önceki yılın peyzaj uygulamasına, sulamaya ve geleneksel
+olmayan su kaynaklarının kullanımına ilişkin veriler Peyzaj İzleme Sistemine girilir.
+      (2) Milli güvenlik kapsamında görev ve yetkisi bulunan kurum ve kuruluşlar, Peyzaj
+İzleme Sistemine veri girişi yükümlülüğünden muaftır. Gerekli veriler Bakanlık tarafından
+belirlenen usul ile bildirilir.
+      (3) Peyzaj İzleme Sistemine girilen veriler; Çevre, Şehircilik ve İklim Değişikliği
+Bakanlığı içinde yetkilendirilmiş birimlerin erişimine açılır.
+
+      Kurakçıl peyzaj türlerinin belirlenmesi
+      MADDE 7- (1) Kuraklığa, tuzluluğa ve sıcaklığa dayanıklı, su ihtiyacı az olan, yerel
+iklim ve doğal vejetasyon ile uyumlu bitki türleri Bakanlık onayıyla belirlenir. Peyzajda
+kullanılacak kuraklığa dayanıklı odunsu bitkiler, Çevre, Şehircilik ve İklim Değişikliği
+Bakanlığınca yayımlanan rehber esas alınarak belirlenir. Belirlenen bitki türleri Kurakçıl
+Peyzaj Uygulamaları Rehber Dokümanında yer alır. Bitki türlerinde değişiklik olması
+durumunda güncelleme yapılır.
+      (2) Kurakçıl Peyzaj Uygulamaları Rehber Dokümanı Bakanlığın resmi internet sitesinde
+yayımlanır.
+
+      Peyzaj verilerinin toplanması
+      GEÇİCİ MADDE 1- (1) Bakanlık tarafından talep edilen veriler, Peyzaj İzleme Sistemi
+faaliyete geçene kadar EK-1’de yer alan Peyzaj İzleme Formu ile Bakanlığa gönderilir.
+
+      Spor tesislerinde çim kullanımı1
+      GEÇİCİ MADDE 2- (1) İlgili federasyonlarca çim kullanımının zorunlu olduğu
+belirlenen spor tesislerinde, su ihtiyacı yüksek olan çim türleri yerine, 7 nci madde gereğince
+yayımlanan çim türleri kullanılır. Mevcut alanlarda; bu Usul ve Esasların yürürlüğe girdiği
+tarihten itibaren en geç 3 yıl içerisinde, bu Usul ve Esaslara uyum sağlanır.
+
+     Yürürlük
+     MADDE 8- (1) Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.
+
+     Yürütme
+     MADDE 9- (1) Bu Usul ve Esasları Tarım ve Orman Bakanı yürütür.
+                                                                                      EK-1
+                                PEYZAJ İZLEME FORMU
+1.    İdare adı
+
+2.    Adres
+
+      Toplam peyzaj büyüklüğü (m2)
+      Toplam peyzaj içerisindeki
+3.    toplam yeşil alan büyüklüğü
+      (ormanlar ve sosyal donatılar
+      hariç) (m2)
+      Toplam sulanan peyzaj
+      büyüklüğü (m2)
+      Peyzajda kullanılan yıllık su
+4.    miktarı (m3/yıl)
+                                           Şebeke suyu (m3/yıl)
+                                           Yeraltı (kuyu) suyu (m3/yıl)
+                                           Yüzey suyu (şebeke suyu
+                                           dışında kalan göl, baraj,
+                                           nehir vb. kaynaklardan
+                                           direkt çekilen sular)
+      Peyzajda kullanılan suyun
+                                           (m3/yıl)
+      kaynak tipine göre miktarı
+5.                                         Taşıma su (Arazöz) (m3/yıl)
+      (m3/yıl)
+                                           Geleneksel olmayan su          Yağmur
+                                           kaynakları (m3/yıl)            suyu
+                                                                          hasadı
+                                                                          Arıtılmış
+                                                                          atıksu
+                                                                          Diğer
+                                           Gün doğumu öncesi veya
+      Sulama günün hangi döneminde
+                                           gün batımı sonrası
+      yapılıyor?
+6.                                         Gün ortası
+      Peyzajda basınçlı (damla,
+      yağmurlama vb.) sulama
+7.    yöntemleri kullanılarak sulanan
+      alan (m2)
+      Peyzajda otomatik sulama             Evet ( )
+8.
+      sistemi kullanılıyor mu?             Hayır ( )
+      Peyzajda kullanılan su ölçüm ve      Evet ( )
+      izleme sistemleri ile kayıt altına   Hayır ( )
+9.
+      alınıyor mu?
+      Peyzaj tasarımı esnasında toprak     Evet ( )
+10.   analizleri yapılıyor mu?             Hayır ( )
+      Peyzaj düzenlemesinde kurakçıl       Ağaçlar
+11.   bitkiler kullanılıyor ise            Ağaççıklar
+      kategorisine göre bitkisel peyzaj    Çalılar
+      elemanlarının Latince ve Türkçe       Çiçekler
+      isimlerini belirtiniz. (Örn:          Yer
+      Biberiye (Rosmarinus officinalis      örtücüler
+      L.))                                  Sarılıcı ve
+                                            tırmanıcılar
+                                            Kaktüsler
+                                            Çim
+      Kurakçıl bitkilerin yer aldığı
+12.
+      alan büyüklüğü (m2)
+      Peyzajda kullanılan çim yüzey
+13.
+      alanı (m2)
+      Peyzajda kullanılan çim türlerini
+14.
+      belirtiniz.
+      Malçlama yapılıyor ise
+15.   kullanılan malç malzemelerini
+      belirtiniz.
+      Peyzaj tasarımında zonlama            Evet ( )
+16.
+      yapılıyor mu?                         Hayır ( )
+17.   Peyzaj için kullanılan yıllık su
+      bedeli belirtiniz (TL/yıl)
+      Peyzajın yıllık bakım bedelini
+18.   belirtiniz (TL/yıl)
+      Peyzaj için kullanılan yıllık
+19.   enerji bedelini belirtiniz (TL/yıl)
+      Peyzaj sulaması için                  Jeotermal enerji
+      yenilenebilir enerji kaynakları       Güneş enerjisi
+      kullanılıyor ise türüne göre          Rüzgâr enerjisi
+20.
+      toplam kullanım oranını               Diğer
+      belirtiniz (%)
+      Peyzaj sulaması için kullanılan
+      yenilenebilir enerji
+21.   kaynaklarının yıllık enerji
+      maliyetine katkısını belirtiniz
+      (TL/yıl)
+                                      Dönüştürülen alan
+                                      (m2)?
+                                      Elde edilen su
+                                      tasarrufu miktarı
+      Mevcut peyzajın kurakçıl peyzaj
+                                      (m3/yıl)
+      ile yeniden düzenlenmesine
+22.                                   Enerji tasarrufu
+      ilişkin çalışma yapıldı ise
+                                      miktarı (kWh/yıl)?
+      kazanımları belirtiniz.
+                                      Bakım
+                                      maliyetlerinden elde
+                                      edilen tasarruf
+                                      miktarı (TL/yıl)?
+      Geleneksel olmayan su
+      kaynaklarının kullanımına
+23.
+      ilişkin planlamalarınızı
+      belirtiniz.
+

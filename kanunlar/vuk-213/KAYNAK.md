@@ -3,11 +3,11 @@
 | | |
 |---|---|
 | Kaynak | https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf |
-| İndirme tarihi | 16.11.2026 |
-| PDF'in mevzuat.gov.tr'deki oluşturulma tarihi | Wed Jul  1 09:21:10 2026 +03 |
+| İndirme tarihi | 24.11.2026 |
+| PDF'in mevzuat.gov.tr'deki oluşturulma tarihi | Tue Nov 24 09:28:30 2026 +03 |
 | Sayfa sayısı | 205 |
 | PDF dosyası | `kaynak-dosyalar/VUK-213.pdf` |
-| SHA-256 | `f04c9b088672ddaf6e861738346bc9eb07b2475e278a8eab7e06e8c46ef5f200` |
+| SHA-256 | `a56d9831e3f34a9aceaa6320900d5113b30c79fc4f30d44688182833a64ac693` |
 
 ## İçerik
 

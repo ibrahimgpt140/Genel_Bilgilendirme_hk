@@ -6,9 +6,9 @@
 | Kaynak | https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2809&MevzuatTur=1&MevzuatTertip=5 |
 | Resmî Gazete | 30.03.1983 / 18003 |
 | Kabul | 28.03.1983 |
-| Alınma | 18.11.2026 (mevzuat.gov.tr güncel metni) |
+| Alınma | 24.11.2026 (mevzuat.gov.tr güncel metni) |
 | PDF | `kaynak-dosyalar/kanun-pdf/1.5.2809.pdf` |
-| SHA-256 | `1134e6a6f764704bd40f85f13c70d53650a39e1f14d6375fd0fe45fbb42c6c1a` |
+| SHA-256 | `5183b351d2fa4e4099b6022ae655a8ee472c2ceceb0e52fde4e134ce32e1067b` |
 | Madde bölme | bölündü |
 
 Bölme betiği çıktısı:

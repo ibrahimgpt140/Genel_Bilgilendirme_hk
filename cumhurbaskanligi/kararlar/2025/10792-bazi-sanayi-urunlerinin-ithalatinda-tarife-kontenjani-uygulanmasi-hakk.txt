@@ -1,0 +1,315 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.10792.pdf
+ADI: BAZI SANAYİ ÜRÜNLERİNİN İTHALATINDA TARİFE KONTENJANI UYGULANMASI HAKKINDA KARAR (KARAR SAYISI: 10792)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 31.12.2025 / 33124 (Mükerrer)
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: daef354034f925f9d8dc505769b0f23cc5182947862cc340bec8030a7b2df8ce
+
+31 Aralık 2025 ÇARŞAMBA       Resmî Gazete            Sayı : 33124 (3. Mükerrer)
+
+                      CUMHURBAŞKANI KARARI
+
+
+
+
+      Karar Sayısı: 10792
+
+
+
+
+                               31 Aralık 2025
+
+
+
+
+                                                Recep Tayyip ERDOĞAN
+                                                  CUMHURBAŞKANI
+
+
+
+
+                            Yönetmelik Adı – 1
+         BAZI SANAYİ ÜRÜNLERİNİN İTHALATINDA TARİFE KONTENJANI
+                      UYGULANMASI HAKKINDA KARAR
+
+       Kapsam
+       MADDE 1- (1) Ekli tabloda gümrük tarife pozisyonu (GTP) ve karşısında tanımı belirtilen
+eşyanın ithalatında, 15/02/2027 tarihine kadar (bu tarih dahil) geçerli olmak üzere aynı tabloda
+gösterilen miktar ve gümrük vergisi oranı ile tarife kontenjanları açılmıştır.
+       Uygulama
+       MADDE 2- (1) 1 inci maddede tespit edilen tarife kontenjanları çerçevesinde yapılacak
+ithalatta ekli tabloda gösterilen gümrük vergisi, bunun dışında yapılacak ithalatta ise yürürlükteki
+İthalat Rejimi Kararı çerçevesinde söz konusu eşya için tespit edilen gümrük vergisi uygulanır.
+       İthal lisansı
+       MADDE 3- (1) Bu Karar çerçevesinde yapılacak ithalat için Ticaret Bakanlığınca (İthalat
+Genel Müdürlüğü) ithal lisansı düzenlenir.
+       (2) Bu Karar kapsamında ithal edilecek eşyaya ilişkin gümrük beyannamelerinin, ithal
+lisansının geçerlilik süresi içinde tescil edilmiş olması şarttır.
+       Usul ve esaslar
+       MADDE 4- (1) Bu Karar çerçevesinde tespit edilen tarife kontenjanlarına başvuru ile tarife
+kontenjanlarının dağıtımı, yönetimi ve uygulanmasına ilişkin usul ve esaslar Ticaret
+Bakanlığınca yayımlanacak tebliğ veya tebliğler ile belirlenir.
+       Diğer mevzuat
+       MADDE 5- (1) Bu Kararda yer almayan hususlarda, İthalat Rejimi Kararı ve diğer ilgili
+mevzuat hükümleri uygulanır.
+       Yürürlük
+       MADDE 6- (1) Bu Karar 1/1/2026 tarihinde yürürlüğe girer.
+       Yürütme
+       MADDE 7- (1) Bu Karar hükümlerini Ticaret Bakanı yürütür.
+
+
+
+                                              TABLO
+                                                                                           Gümrü
+                     Dipnot                                             Biri                 k
+G.T.P.                         Eşyanın Tanımı                                   Miktarı
+                                                                         m                 Vergisi
+                                                                                             %
+2712.20.90               *     Parafin                               Ton        10.000       0
+                         *     Ağırlıkça %98,5 veya daha fazla
+2811.19.80.90.19               saflıkta fosforöz asit (CAS RN 13598- Ton         2.000        0
+                               36-2).
+                                                                                        Gümrü
+                     Dipnot                                            Biri               k
+G.T.P.                        Eşyanın Tanımı                                  Miktarı
+                                                                        m               Vergisi
+                                                                                          %
+                       *      Minimum %99,5 saflıkta ve aşağıdaki
+                              özelliklerde asetilaseton (CAS RN
+                              123-54-6):
+                              - maksimum % 0,1 asetik asit içeren,
+                              - maksimum % 0,1 su içeren,
+2914.19.90                                                             Ton     1.100      0
+                              - maksimum 15 APHA renk
+                              değerinde,
+                              - kırınma indisi 1,450 ± 0,002
+                              - yoğunluğu: 0,970 - 0,975 g/cm3
+                              (20°C).
+                       *      Ağırlıkça %99 veya daha fazla
+2915.21                                                                Ton    70.000      0
+                              saflıkta asetik asit (CAS RN 64-19-7).
+2915.32                *      Vinil Asetat.                            Ton    107.000     0
+2916.12.00.00.13       *      Butil Akrilat (CAS RN 141-32-2).         Ton     65.000     0
+                      *,a     55. fasıl ve 68.15 GTP’li ürünlerin
+2926.10                                                                Ton    60.000      0
+                              üretiminde kullanılan akrilonitril.
+                      *,a     Tekstil apreleme malzemesinin
+                              hammaddesi olarak kullanılan
+2931.90.00                    ağırlıkça %99 veya daha fazla saflıkta   Ton     5.000      0
+                              oktametilsiklotetrasiloksan (CAS RN
+                              556-67-2).
+2932.20.90             *      Epsilon-Kaprolakton.                     Ton     800        0
+                       *      Kuru ağırlığı hesaplandığında %55
+                              veya daha fazla sodyum lügnosülfonat
+3804.00                                                                Ton     1.800      0
+                              içeren sodyum lügnosülfonat sulu
+                              çözeltisi.
+3815.19.90
+(Mülga satır:RG-
+1/7/2026-33297-CK-
+11484/1 md.)
+                      *,a     Çamaşır makinesi, bulaşık makinesi
+                              ve buzdolabı iç ve dış aksam
+                              parçalarının üretiminde kullanılan
+3903.30                                                                Ton     4.000      0
+                              kendinden renkli, UV dayanımı ve
+                              antistatik özelliklere sahip
+                              aşağıdakileri içeren;
+                                                                               Gümrü
+             Dipnot                                          Biri                k
+G.T.P.                Eşyanın Tanımı                                 Miktarı
+                                                              m                Vergisi
+                                                                                 %
+                      - Gerilme katsayısı 2250 MPa
+                      (Megapascal) veya daha fazla fakat
+                      2270 MPa dan az olan (ISO 527
+                      metoduna göre belirlenmiş),
+                      - Kopmada gerilme dayanımı % 25
+                      (ISO 527’ye göre belirlenmiş),
+                      - 220 °C’de 10 kilogramının erime
+                      akış hızı 10g/10dk veya daha fazla
+                      fakat 21 g/10dk’ dan az olan (ISO
+                      1133’e göre belirlenmiş),
+                      - Renk değeri ISO 11664-4 test
+                      metoduna göre belirlenmiş;
+                      • “L” değeri 92,80’e eşit veya daha
+                      fazla ve 94’e eşit veya daha az olan,
+                      • “a” değeri -006’ya eşit veya daha
+                      fazla ve -3,02’ye eşit veya daha az
+                      olan,
+                      • “b” değeri -0,62’ye eşit veya daha
+                      fazla ve -1,82’ye eşit veya daha az
+                      olan,
+                      akrilonitril butadien stiren kopolimeri.
+               *      Tolüen diamin ve propilen oksit
+                      reaksiyonu sonucu elde edilen polieter
+3907.29.20            polyol (OH 380-415 mg                    Ton    2.200      0
+                      KOH/g,Vizkosite: 15000-20000
+                      mPas).
+               *      Sükroz-gliserol ve propilen oksit
+                      reaksiyonu sonucu elde edilen polieter
+3907.29.20                                                     Ton   14.500      0
+                      polyol (OH 430-470,
+                      Vizkosite:15000-20000 mPas).
+                                                                                    Gümrü
+                   Dipnot                                         Biri                k
+G.T.P.                      Eşyanın Tanımı                               Miktarı
+                                                                   m                Vergisi
+                                                                                      %
+                    *,a     Her nevi taşıt aracı lastiği üretiminde
+                            kullanılmak üzere, ağırlıkça;
+                            - %90 veya daha fazla, ancak %98'den
+                            fazla olmayan poliamid 6
+5902.10.90                  - %2 veya daha fazla, ancak %7'den      Ton    1.800      0
+                            fazla olmayan resorsinol-formaldehit
+                            lateks ve
+                            - %1'den fazla olmayan pamuk ipliği
+                            içeren lastik kord bezi.
+                    *,a     Rotatif (rotary) tip kompresör,
+                            soğutma kapasitesi 2 kW ile 8kW
+                            arasında olan tek veya üç fazlı motora       2.000.00
+8414.30.81.90.00                                                    Adet              0
+                            sahip, R32 veya R410 tip refrijeran          0
+                            sıvı kullanan, klimaların üretimine
+                            mahsus olan.
+                            Elektrik transformatörü:
+                            - güç taşıma kapasitesi 1 kVA'yı
+                            geçmeyen ,
+                            - bir ferrit nüveye sahip,
+                            - fiş veya kablosu olmayan,
+                            - sıvı izolasyonu olmayan,                   13.000.0
+8504.31.80          *,a                                             Adet              0
+                            çamaşır makineleri, çamaşır kurutma          00
+                            makineleri, bulaşık makineleri,
+                            fırınlar, klimalar, buzdolapları ve
+                            termosifonların imalatında güç ve
+                            kontrol kartları için dahili olarak
+                            kullanılmaya mahsus.
+                            Elektrik transformatörü:
+                            • güç taşıma kapasitesi 1 kVA'yı
+                            geçmeyen,
+                            • fiş veya kablosu olmayan,
+                                                                         10.000.0
+8504.31.80          *,a     • sıvı izolasyonu olmayan,              Adet              0
+                                                                             00
+                            TV'lerin, VS'lerin (görsel çözümler,
+                            monitör, akıllı tahta) ve set üstü
+                            kutuların imalatında dahili olarak
+                            kullanılmaya mahsus.
+                                                                              Gümrü
+             Dipnot                                         Biri                k
+G.T.P.                Eşyanın Tanımı                               Miktarı
+                                                             m                Vergisi
+                                                                                %
+              *,a     Nikel—metal hidrit (NiMh)
+                      akümülatörler:
+                      -voltajı150 V veya daha fazla olan
+                      ancak, 300 V'u geçmeyen,
+                      -uzunluğu 220 mm veya fazla olan
+                      ancak, 500 mm'yi geçmeyen,
+8507.50.00                                                    Adet 185.000      0
+                      -genişliği 500 mm veya daha fazla
+                      olan ancak, 1125 mm'yi geçmeyen,
+                      -yüksekliği 100 mm veya daha fazla
+                      olan ancak, 235 mm'yi geçmeyen,
+                      87. fasılda yer alan motorlu taşıtların
+                      imalinde kullanılmaya mahsus.
+              *,a     Yeniden şarj edilebilir lityum iyon
+                      polimer piller (batarya):
+                      -nominal kapasitesi 1 060 mAh olan,
+                      -nominal gerilimi 7,4 V (ortalama
+8507.60.00            gerilimi 0,2 C’de deşarj) olan,
+veya                  -8,4 V’luk (±0,05) voltajı olan,        Adet 100.000      0
+8507.80.00            -uzunluğu 86,4 mm (±0,1) olan,
+                      -genişliği 45 mm (±0,1) olan,
+                      -yüksekliği 11 mm (±0,1) olan,
+                      yazarkasaların imalinde kullanılmaya
+                      mahsus.
+              *,a     Lityum-iyon akümülatör:
+                      -Kalınlığı 6 mm’ den fazla olmayan,
+                      -Genişliği 100 mm’den fazla olmayan,
+                      -Uzunluğu 150,15 mm’den fazla
+                      olmayan,
+                      - Nominal kapasitesi 1.000 mAh veya          11.000.0
+8507.60.00                                                    Adet              0
+                      daha fazla olan ancak, 10.000                   00
+                      mAh'den fazla olmayan,
+                      -Ağırlığı 150 gr'dan fazla olmayan,
+                      8517.13.00 alt başlığında yer alan
+                      ürünlerin imalinde kullanılmaya
+                      mahsus.
+                                                                                        Gümrü
+                   Dipnot                                             Biri                k
+G.T.P.                      Eşyanın Tanımı                                   Miktarı
+                                                                       m                Vergisi
+                                                                                          %
+                    *,a     Lityum İyonlu (Li-Ion)
+                            Akümülatörler:
+                            -Voltajı 150 V veya daha fazla olan
+                            ancak, 300 V’u geçmeyen,
+                            -Uzunluğu 290 mm veya daha fazla
+                            olan ancak 490 mm'yi geçmeyen,
+8507.60.00                                                            Adet   138.000      0
+                            -Genişliği 670 mm veya daha fazla
+                            olan ancak 1120 mm'yi geçmeyen,
+                            -Yüksekliği 140 mm veya daha fazla
+                            olan ancak 230 mm'yi geçmeyen,
+                            87. fasılda yer alan motorlu taşıtların
+                            imalinde kullanılmaya mahsus.
+8529.90.93.00.00    *,a     Yalnız LED Diyotlu Baskılı Devre
+veya                        Kartı; prizmalar/lensler ile donatılmış
+8539.51.00.00.00            olsun ya da olmasın, bağlayıcı(lar) ile          40.000.0
+                                                                      Adet                0
+9405.41.31.00.00            donatılmış olsun ya da olmasın, 85.28               00
+9405.42.31.00.00            başlığındaki ürünlerin arka ışık
+9405.49.40.00.00            ünitelerinin imaline mahsus.
+                    *,a     Aşağıdaki özelliklere sahip kare veya
+                            dikdörtgen şeklinde baskı devre
+                            kartları:
+                            - plastikten yapılmış bir gövde,
+                            - ön tarafında voltaj kontrolü sağlayan          5.000.00
+9503.00.75                                                            Adet                0
+                            bir potansiyometre,                                  0
+                            - komutları iletmek için devre
+                            kartlarına bağlı renkli kablolar
+                            oyuncakların (arabaların) imalinde
+                            kullanılmaya mahsus.
+                    *,a     Aşağıdaki özelliklere sahip ses
+                            mekanizması:
+                            - plastikten yapılmış bir
+9503.00.29
+                            gövde(genellikle ten renginde),                  3.000.00
+9503.00.95                                                            Adet                0
+                            - gövdenin üst kısmında hoparlör                     0
+                            delikleri,
+                            - gövdenin altında bir yalıtım şeridi,
+                            - yalıtım şeridi çıkarıldıktan sonra
+                                                                                         Gümrü
+                     Dipnot                                            Biri                k
+G.T.P.                        Eşyanın Tanımı                                  Miktarı
+                                                                        m                Vergisi
+                                                                                           %
+                              gövdenin üst kısmına bastırılarak
+                              çalışan bir mekanizma,
+                              - düğmeye basıldığında çalan önceden
+                              yüklenmiş sesler
+                              oyuncakların (oyuncak bebeklerin)
+                              imalinde kullanılmaya mahsus.
+                       *,a    Fermuar imalinde kullanıma mahsus,
+                              adi metalden fermuar sürgüleri, monte
+9607.20.10                    edilmiş fermuar dişlerine sahip dar      Ton     5.000        0
+                              bant, pinler/kutucuklar ve diğer
+                              fermuar aksamı.
+                       *, a   Plastik zincir dişleri monte edilmiş dar
+9607.20.90                    şeritler, fermuar imalinde kullanıma
+                                                                       Ton     5.000        0
+                              mahsus.
+
+
+
+* : Bu GTP’lerde sadece eşya tanımı sütununda özellikleri belirtilen ürünler için vergi oranı
+düşürülmüştür.
+(a) : Bu GTP'lerde sadece eşya tanımı sütununda belirtilen amaçlar için vergi oranı
+düşürülmüştür; bu eşya gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabidir.
+

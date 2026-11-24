@@ -60,7 +60,7 @@ sermaye artırımı, gayrimenkullerin ve irtifak haklarının ayni sermaye olara
 halinde bunların şirket adına tapuya tescili,
          İşlemleri ve bu işlemlerle ilgili olarak düzenlenen kağıtlar, 31.12.2003 tarihine kadar
 488 sayılı Kanuna göre damga vergisinden ve 492 sayılı Kanuna göre harçlardan istisna
-edilir.185
+edilir.186
          Kredilerin amaç dışı kullanılması, taahhüt edilen ihracatın gerçekleştirilmemesi veya
 teşvik belgesindeki şartların yerine getirilmemesi halinde, alınmayan damga vergileri ve
 harçlar, ihracatçı veya yatırımcı kişi veya kuruluşlardan, 213 sayılı Vergi Usul Kanunu
@@ -75,7 +75,7 @@ yukarıdaki fıkra gereğince bildirimde bulunmayan kuruluşlar, damga vergisi, 
 gecikme faizinin ödenmesinden ilgililerle birlikte müteselsilen sorumludurlar.
 
 
-185
+186
    Bu fıkradaki "31.12.1993" tarihi 26/12/1993 tarih ve 3946 sayılı Kanunun 36 ncı maddesi ile 31.12.1998
 olarak daha sonra; 22/7/1998 tarih ve 4369 sayılı Kanunun 81/K maddesi ile de 31/12/2003 olarak
 değiştirilmiştir.
@@ -141,7 +141,7 @@ cezalarından; vadesi 1/1/1999 tarihinden önce olup, bu tarih itibariyle ödenm
 1/1/1999 tarihinden sonra kesinleştiği halde ödenmeyenlere, vade tarihinden ödendikleri
 tarihe kadar geçen süre için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun
 51 inci maddesine göre geçikme zammı uygulanır.
-        6-17/12/2003 tarihli ve 5024 sayılı Kanunun Geçici Maddesi:186
+        6-17/12/2003 tarihli ve 5024 sayılı Kanunun Geçici Maddesi:187
         Geçici Madde 1- 31.12.2003 tarihi (kendilerine özel hesap dönemi tayin edilenlerde
 2004 yılında biten hesap döneminin sonu) itibarıyla aktif toplamı 7,5 trilyon Türk Lirasını
 veya hesap dönemine ait ciroları toplamı 15 trilyon Türk Lirasını aşmayan mükelleflerden
@@ -154,7 +154,7 @@ Usul Kanununun 280 inci maddesinin bu Kanunla kaldırılan son fıkrasını dikk
 takdirde enflasyon düzeltmesinin dikkate alınmadığı hususu beyannamede belirtilir.
 Beyanname verme süresi içinde bu hususu bildirmeyen veya beyanname vermeyen
 mükelleflerin enflasyon düzeltmesine ilişkin hükümleri dikkate almadıkları kabul edilir.
-186
+187
    Bu maddede yer alan” Dileyen mükellefler, 2004 yılının (kendilerine özel hesap dönemi tayin edilenlerde
 2004 yılında biten hesap döneminden sonra başlayan) ilk geçici vergi döneminde beyan edecekleri geçici vergi
 matrahının tespitinde;” ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle”31.12.2003 tarihi
@@ -378,6 +378,7 @@ Kararnamenin/Tebliğin      Resmî Gazete'nin             Değişiklik Gören Ma
                                           (2.Mükerrer)     353, 355, Mükerrer Madde
                                                             355,370, Ek Madde 1, Ek
                                                          Madde 11, Mükerrer Madde 413
+     Tebliğ      599         24/11/2026      33440            Mükerrer Madde 298
 
 
 
@@ -396,13 +397,13 @@ Kararın Numarası
                          30, Birinci Kitap İkinci Kısım İkinci
                         Bölüm Başlığı, Mükerrer Madde 30, 40,
                         46, 49, 72, 73, 83, 84, 85, 89, 177, 213,
-       205             227, 242, 243, 245, Mükerrer Madde 315,
-                                                                            28/2/1963
+       205
+                       227, 242, 243, 245, Mükerrer Madde 315,              28/2/1963
                          Mükerrer Madde 320, 328, Dördüncü
                         Kitap Üçüncü Kısım Üçüncü Bölüm (Ek
                         Madde 1, Ek Madde 2, Ek Madde 3, Ek
-                        Madde 4, Ek Madde 5, Ek Madde 6, Ek
 
+        Madde 4, Ek Madde 5, Ek Madde 6, Ek
         Madde 7, Ek Madde 8, Ek Madde 9, Ek
          Madde 10), Geçici Madde 5, Geçici
                      Madde 11
@@ -440,12 +441,11 @@ Kararın Numarası
         Madde 5, Ek Geçici Madde 6, Ek Geçici
        Madde 7, Ek Geçici Madde 8, Usulsüzlük
                    Cezalarına Ait Cetvel
-                                                      1/1/1981 tarihinden
-           45, 46, 323, 371, 374, Usulsüzlük
-2455                                                     geçerli olmak
-                 Cezalarına Ait Cetvel
-                                                        üzere 5/5/1981
+           45, 46, 323, 371, 374, Usulsüzlük          1/1/1981 tarihinden
+2455
+                 Cezalarına Ait Cetvel                   geçerli olmak
 
+                                                     üzere 5/5/1981
         379, 380, 381, 382, 383, 384, 385, 386,
         387, 388, 389, 390, 391, 392, 393, 394,
 2577    395, 396, 397, 398, 399, 400, 401, 402,        20/1/1982
@@ -487,17 +487,16 @@ Kararın Numarası
                         116, 358
 3094               Geçici Madde 11                    12/12/1984
 3181                     341                           17/4/1985
-        Mükerrer Madde 49, 73, 74, Usulsüzlük
-3210                                                    4/6/1985
-                Cezalarına Ait Cetvel
+3210    Mükerrer Madde 49, 73, 74, Usulsüzlük           4/6/1985
 
+                                          Cezalarına Ait Cetvel
                               5, 11, 49, Mükerrer Madde 49, 72, 74, 75,
                                 104, 112, 114, 115, 126, 127, 141 inci
                                 maddeyi takiben Ek Madde, 149, 168,
                                177, 183, 201, 202, 203, 206, 221, 223,
                               230, 231, 232, 233, Mükerrer Madde 257,
                               285, 313, 343, 344, 345, Mükerrer Madde
-              3239                                                                    1/1/1986187
+              3239                                                                    1/1/1986188
                                  347, 352, 353, Mükerrer Madde 354,
                               Mükerrer Madde 355, 356, 358, 361, 371,
                               376, Ek Bölüm Ek Madde 4, Ek Bölüm Ek
@@ -527,9 +526,8 @@ Kararın Numarası
                                                                                  1/1/1992 tarihinden
               3824                        Mükerrer Madde 298                        geçerli olmak
                                                                                    üzere 11/7/1992
-              3946                Mükerrer Madde 414, Ek Madde 13                     30/12/1993
 
-187
+188
     3239 sayılı Kanunun 144 uncu maddesi uyarınca söz konusu Kanunun; 213 sayılı Kanunun değiştirilmesine
 ilişkin olan birinci bölümünün araziye ait, asgari ölçüde birim değer tesbiti için yeniden kurulan Takdir
 Komisyonları ve arazi ile ilgili diğer hükümleri ve yoklamadan maksat ve yoklama memurlarına ilişkin
@@ -537,6 +535,8 @@ hükümleri 11/12/1985 tarihinde; arsalara ait asgari ölçüde birim değer tes
 Komisyonları ile ilgili hükümleri 1/3/1986 tarihinde, Bakanlar Kuruluna ve Maliye ve Gümrük Bakanlığına yetki
 veren hükümleri 1/1/1986 tarihinden geçerli olmak üzere 11/12/1985 tarihinde yürürlüğe girecektir.
 
+             Mükerrer Madde 414, Ek Madde 13                30/12/1993
+ 3946
                     40, 41, Ek Madde 10                      1/1/1994
              8, 135, 220, Mükerrer Madde 227,
            Mükerrer Madde 257, Mükerrer Madde
@@ -570,15 +570,14 @@ KHK/570                 Ek Madde 13
            maddenin 5 ve 9 uncu bentleri, 135, 160
             ncı maddeye eklenen fıkra, 173 üncü
            maddenin birinci fıkrasının 1 inci bendi,        29/7/1998
-          235, 256, 257, 268, 280, Mükerrer Madde
- 4369     298, 313, 352 nci maddenin 4 üncü bendi,
+ 4369     235, 256, 257, 268, 280, Mükerrer Madde
+          298, 313, 352 nci maddenin 4 üncü bendi,
             353, 355, 361, Mükerrer Madde 414,
              Geçiçi Madde 19, Geçiçi Madde 20
                              279                            31/12/1998
-           5 inci maddenin 3 üncü fıkrası, 30 uncu
-                                                             1/1/1999
-          maddenin 7 nci bendi, 109, 112, 153, 154,
+           5 inci maddenin 3 üncü fıkrası, 30 uncu           1/1/1999
 
+       maddenin 7 nci bendi, 109, 112, 153, 154,
         157, 160 ncı maddenin 2 nci fıkrası, 173
           üncü maddenin 1 inci fıkrasının 2 nci
          bendi, 182, 185, 193, Mükerrer Madde
@@ -617,11 +616,10 @@ KHK/570                 Ek Madde 13
 4783                      30                          geçerli olmak
                                                      üzere 9/1/2003
                                                    1/7/2003 tarihinden
-                                                    itibaren yapılacak
-4842             Mükerrer Madde 290
-                                                          kiralama
-                                                        işlemlerinde
+4842             Mükerrer Madde 290                 itibaren yapılacak
+                                                         kiralama
 
+                                                      işlemlerinde
                                                     uygulanmak üzere
                                                        24/4/2003
                                                     1/4/2003 tarihinden
@@ -667,8 +665,8 @@ KHK/570                 Ek Madde 13
                  Mükerrer Madde 355                  izleyen üçüncü
                                                           günde
 5234                       13                           21/9/2004
-5281                    355, 356                        31/12/2004
 
+              5281                                355, 356                            31/12/2004
               5345                          128, Ek Madde 13                           16/5/2005
                                Mükerrer Madde 257, 272, 327, Mükerrer
               5398                                                                     21/7/2005
@@ -697,64 +695,65 @@ KHK/570                 Ek Madde 13
                                                                                  1/7/2010 tarihinden
               6009
                                           114, Geçici Madde 28                      geçerli olmak
-                                                                                  üzere 1/8/2010188
+                                                                                  üzere 1/8/2010189
                                                   140, 367                             1/1/2011
               6111                                    5                                25/2/2011
            KHK/646                   135, 140, 367 ve Ek Madde 13                      10/7/2011
                               Ek Madde 13’ün 4 üncü fıkrasının (b), (c)               31/12/2011
                               ve (d) bentleri ile aynı fıkrada yürürlükten        tarihinden geçerli
                                     kaldırılan “Maliye Bakanı:” ve                   olmak üzere
-           KHK/666                       “Yetkilidir.” ibareleri                       2/11/2011
-                                  Ek Madde 13’ün 4 üncü fıkrasının (a)                14/1/2012
-                                    bendi, aynı fıkranın “Yetkilidir.”            tarihinden geçerli
-                                 ibaresinden sonra gelen 1 inci, 2 nci, 3            olmak üzere
+           KHK/666
+                                         “Yetkilidir.” ibareleri                       2/11/2011
+                                 Ek Madde 13’ün 4 üncü fıkrasının (a)                 14/1/2012
+                                   bendi, aynı fıkranın “Yetkilidir.”             tarihinden geçerli
 
 
-188
+189
    Anayasa Mahkemesinin 26/1/2012 tarihli ve E.: 2011/74, K.: 2012/15 sayılı Kararı ile; 23/7/2010 tarihli ve
 6009 sayılı Kanunun 62 nci maddesinin (d) bendinde yer alan “… 1/7/2010 tarihinden geçerli olmak üzere …”
 ibaresi, bu bentte yer alan 8 inci ve 16 ncı maddeler yönünden iptal edilmiştir.
 
-                          üncü ve 4 üncü paragrafları ile 6 ncı      2/11/2011
-                                        fıkrası
-       6322                  112, 325/A, Geçici Madde 29             15/6/2012
-       6455                              153/A                       11/4/2013
-       6487                           151, 152/A                     11/6/2013
+                         ibaresinden sonra gelen 1 inci, 2 nci, 3     olmak üzere
+                          üncü ve 4 üncü paragrafları ile 6 ncı        2/11/2011
+                                         fıkrası
+       6322                  112, 325/A, Geçici Madde 29               15/6/2012
+       6455                              153/A                         11/4/2013
+       6487                            151, 152/A                      11/6/2013
        Anayasa
    Mahkemesinin
 27/12/2012 tarihli ve
-                                     Ek Madde 13                     10/10/2013
+                                      Ek Madde 13                      10/10/2013
     E.: 2011/139,
  K.: 2012/205 sayılı
         Kararı
-       6518                      Mükerrer Madde 257                  19/2/2014
-       6637                          107/A, 132/A                     7/4/2015
-       6728               28, 153, 153/A, Mükerrer 355, 370           9/8/2016
-       6745                                11                         7/9/2016
-       7020                          Mükerrer 355                    27/5/2017
-                              157, Mükerrer Madde 257                5/12/2017
+       6518                      Mükerrer Madde 257                    19/2/2014
+       6637                          107/A, 132/A                       7/4/2015
+       6728               28, 153, 153/A, Mükerrer 355, 370             9/8/2016
+       6745                                11                           7/9/2016
+       7020                          Mükerrer 355                      27/5/2017
+                               157, Mükerrer Madde 257                 5/12/2017
        7061
-                                     101, 102, 103                    1/1/2018
-       7099                               223                        15/3/2018
+                                     101, 102, 103                      1/1/2018
+       7099                                223                         15/3/2018
                         5, 10, 278/A, 353, Mükerrer Madde 355,
-                                                                     27/3/2018
+                                                                       27/3/2018
                                            376
-                                                                       27/3/2018
-                                                                   tarihinden sonra
-                                                                     tescil edilen
-                                         280/A                          sermaye
-                                                                      şirketlerine
-                                                                  uygulanmak üzere
-       7103
-                                                                       27/3/2018
-                                                                       27/3/2018
-                                                                   tarihinden önce
-                                                                    tarhiyat öncesi
-                                     Ek Madde 11                     uzlaşma talep
-                                                                    edilenler hariç
-                                                                      olmak üzere
-                                                                       27/3/2018
+                                                                         27/3/2018
+                                                                     tarihinden sonra
+                                                                       tescil edilen
+                                         280/A                            sermaye
+                                                                        şirketlerine
+       7103                                                         uygulanmak üzere
+                                                                         27/3/2018
+                                                                         27/3/2018
+                                                                     tarihinden önce
+                                                                      tarhiyat öncesi
+                                      Ek Madde 11
+                                                                       uzlaşma talep
+                                                                      edilenler hariç
+                                                                        olmak üzere
 
+                                                        27/3/2018
                                                      Yayım tarihi olan
                                                     27/3/2018’i izleyen
                      Geçici Madde 30

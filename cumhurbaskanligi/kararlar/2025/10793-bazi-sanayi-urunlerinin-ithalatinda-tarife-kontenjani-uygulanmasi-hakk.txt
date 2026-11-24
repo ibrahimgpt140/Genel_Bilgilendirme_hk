@@ -1,0 +1,131 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.10793.pdf
+ADI: BAZI SANAYİ ÜRÜNLERİNİN İTHALATINDA TARİFE KONTENJANI UYGULANMASI HAKKINDA KARAR (KARAR SAYISI: 10793)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 31.12.2025 / 33124 (Mükerrer)
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: 748b6536756d0a0ea73a556e76fb6e08d5428475364a9bc424c6c6f3182d9105
+
+31 Aralık 2025 ÇARŞAMBA       Resmî Gazete            Sayı : 33124 (3. Mükerrer)
+
+                      CUMHURBAŞKANI KARARI
+
+
+
+
+      Karar Sayısı: 10793
+
+
+
+
+                               31 Aralık 2025
+
+
+
+
+                                                Recep Tayyip ERDOĞAN
+                                                  CUMHURBAŞKANI
+
+
+
+
+                            Yönetmelik Adı – 1
+           BAZI SANAYİ ÜRÜNLERİNİN İTHALATINDA TARİFE KONTENJANI UYGULANMASI
+                                     HAKKINDA KARAR
+
+                  Kapsam
+                  MADDE 1- (1) Ekli tabloda gümrük tarife pozisyonu (GTP) ve karşısında tanımı belirtilen
+          eşyanın ithalatında, 16/2/2026-31/12/2026 (bu tarihler dâhil) tarihleri arasında geçerli olmak üzere
+          aynı tabloda gösterilen miktar ve gümrük vergisi oranı ile tarife kontenjanları açılmıştır.
+
+                   Uygulama
+                   MADDE 2- (1) 1 inci maddede tespit edilen tarife kontenjanları çerçevesinde yapılacak
+          ithalatta ekli tabloda gösterilen gümrük vergisi, bunun dışında yapılacak ithalatta ise yürürlükteki
+          İthalat Rejimi Kararı çerçevesinde söz konusu eşya için tespit edilen gümrük vergisi uygulanır.
+
+                 Usul ve esaslar
+                 MADDE 3- (1) Bu Karar çerçevesinde tespit edilen tarife kontenjanlarına başvuru ile tarife
+          kontenjanlarının dağıtımı, yönetimi ve uygulanmasına ilişkin usul ve esaslar Ticaret Bakanlığınca
+          yayımlanacak tebliğ veya tebliğler ile belirlenir.
+
+                Diğer mevzuat
+                MADDE 4- (1) Bu Kararda yer almayan hususlarda, İthalat Rejimi Kararı ve diğer ilgili
+          mevzuat hükümleri uygulanır.
+
+                   Yürürlük
+                   MADDE 5- (1) Bu Karar yayımı tarihinde yürürlüğe girer.
+
+                   Yürütme
+                   MADDE 6- (1) Bu Karar hükümlerini Ticaret Bakanı yürütür.
+
+
+          Ek-1 Tarife Kontenjanı Kapsamı Eşya
+
+                                                                                               Kontenjan
+                                                                                                            Gümrük
+          G.T.P.              Dipnot           Eşyanın Tanımı               Birim   Miktarı    Kullanım
+                                                                                                            Vergisi %
+                                                                                                Dönemi
+                                       2-aminonaftalin-l,5-disülfonik
+2921.45.00                             asit (CAS RN 117-62-4) veya
+(Değişik satır:RG-1/7/2026-      *     bunun sodyum tuzlarından (CAS         Kg     110.000                      0
+33297-CK-11486/1 md.)                  RN 19532-03-7 veya 62203-79-
+                                       6) biri.
+2921.45.00
+                                       7-aminonaftalin-l,3,6-trisülfonik
+(Değişik satır:RG-1/7/2026-      *                                           Kg     90.000                       0
+                                       asit (CAS RN 118-03-6).
+33297-CK-11486/1 md.)
+2921.51.19
+                                       2,4-diaminobenzensülfonik     asit
+(Değişik satır:RG-1/7/2026-      *                                           Kg     55.000                       0
+                                       (CAS RN 88-63-1).
+33297-CK-11486/1 md.)
+2924.21.00
+                                       (3-aminofenil) üre hidroklorür                          16/2/2026-
+(Değişik satır:RG-1/7/2026-      *                                           Kg     70.000     31/12/2026        0
+                                       (CAS RN 59690-88-9).
+33297-CK-11486/1 md.)
+                                       2-[(4-amino-3-
+2930.90.95
+                                       metoksifenil)sülfonil]etil
+(Değişik satır:RG-1/7/2026-      *                                           Kg     35.000                       0
+                                       hidrojen sülfat (CAS RN 26672-
+33297-CK-11486/1 md.)
+                                       22-0).
+                                     Yalnız doğal reçine ve doğal
+3806.10                          *   reçinelerden elde edilen reçine        Kg      40.000.000                  0
+                                     asitleri.
+                                     Yalnız titanyum oksit ve tungsten
+3815.90.90                      *                                           Kg        450.000                   0
+                                     trioksit içeren katalizör.
+                                     NADCAP ve AS9100 sertifikalı,
+                                     7040 serisi alüminyum alaşımlı
+                                     levha:
+                                     -193.746 mm2’den yüksek katı
+                                     dikdörtgen kesit alanı için
+                                     130mm veya daha fazla fakat
+                                     149mm’den fazla olmayan bir
+7606.12.99                     *,a kalınlığa veya                           Kg         30.000                   0
+                                     -166.203 mm2’den yüksek katı
+                                     dikdörtgen kesit alanı için 150
+                                     mm veya daha fazla ancak 180
+                                     mm’den fazla olmayan bir
+                                     kalınlığa sahip havacılık
+                                     endüstrisi ürünlerinin imalinde
+                                     kullanılmaya mahsus.
+          * : Bu GTP’lerde sadece eşya tanımı sütununda özellikleri belirtilen ürünler için vergi oranı
+          düşürülmüştür.
+          (a) Bu GTP’lerde sadece eşya tanımı sütununda belirtilen amaçlar için vergi oranı düşürülmüştür; bu
+          eşya gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabidir.
+
+
+                  10793 SAYILI CUMHURBAŞKANI KARARINDA DEĞİŞİKLİK YAPAN
+                         CUMHURBAŞKANI KARARLARINA İLİŞKİN TABLO
+
+               Değiştiren Cumhurbaşkanı
+                        Kararının               Cumhurbaşkanı Kararının           Değişikliğin Yürürlüğe
+                                                   Değişen Maddeleri                   Giriş Tarihi
+                Tarihi            Sayısı
+               30/6/2026          11486                   Ekli tablo                      1/7/2026
+

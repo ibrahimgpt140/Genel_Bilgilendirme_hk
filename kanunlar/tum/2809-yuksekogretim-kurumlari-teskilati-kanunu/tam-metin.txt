@@ -803,9 +803,9 @@ oluşturulan ve rektörlüğe bağlanan Denizli Mühendislik Fakültesi‘nden;
         f) (Değişik: 3/7/1992-3837/9 md.) Rektörlüğe bağlı Mühendislik-Mimarlık Fakültesinin
 iki ayrı fakülteye dönüştürülmesiyle oluşturulan ve rektörlüğe bağlanan Mühendislik Fakültesi
 ile Mimarlık Fakültesi ve rektörlüğe bağlı olarak yeni kurulan İşletme Fakültesinden;
-       g) Milli Eğitim Bakanlığına bağlı İzmir Yüksek İslam Enstitüsünün fakülteye
+        g) Milli Eğitim Bakanlığına bağlı İzmir Yüksek İslam Enstitüsünün fakülteye
 dönüştürülmesiyle oluşturulan ve rektörlüğe bağlanan İlahiyat Fakültesi‘nden;
-       h) (Değişik: 3/7/1992-3837/9 md.) Rektörlüğe bağlı Atatürk İlkeleri ve İnkilap Tarihi
+        h) (Değişik: 3/7/1992-3837/9 md.) Rektörlüğe bağlı Atatürk İlkeleri ve İnkilap Tarihi
 Enstitüsü, Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü,
 Deniz Bilimleri ve Teknolojisi Enstitüsü ile rektörlüğe bağlı olarak yeni kurulan Onkoloji
 Enstitüsü, Hemodiyaliz-Tramsplantasyon Enstitüsü, Eğitim Bilimleri Enstitüsü, Güzel
@@ -1977,7 +1977,6 @@ Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
         Kadir Has Üniversitesi:46
 
 
-
    m) 25/1/2012 tarihli ve 2012/2752 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Havacılık ve
 Uzay Bilimleri Fakültesi kurulmuştur.
    n) 9/3/2012 tarihli ve 2012/2944 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eğitim Bilimleri
@@ -1995,6 +1994,9 @@ Rektörlüğe bağlı olan Sivil Havacılık Yüksekokulu kapatılmıştır.
    ş) 25/12/2019 tarihli ve 30989 sayılı Resmi Gazete’de yayımlanan 1911 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve
 Spor Yüksekokulu kapatılmıştır.
+   t) 21/11/2026 tarihli ve 33437 sayılı Resmî Gazete’de yayımlanan 12016 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Suriye’de kurulan Cerablus Meslek Yüksekokulu, İktisadi ve İdari Bilimler Fakültesi
+(El-Bab), İslami İlimler Fakültesi (Azez), Eğitim Fakültesi (Afrin) kapatılmıştır.
 46
     a) 12/8/1998 tarihli ve 98/11641 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Florence
 Nightingale Hastanesi Hemşirelik Yüksekokulu kurulmuştur.
@@ -2010,8 +2012,6 @@ e) 25/1/2012 tarihli ve 2012/2748 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 Fakültesi ile Mühendislik Fakültesi, Mühendislik ve Doğa Bilimleri Fakültesi adı altında birleştirilmiştir.
 f) 16/1/2012 tarihli ve 2012/2735 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Güzel
 Sanatlar Fakültesinin adı Sanat ve Tasarım Fakültesi olarak değiştirilmiştir.
-g) 5/3/2012 tarihli ve 2012/2935 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İktisadi ve
-İdari Bilimler Fakültesinin adı İktisadi, İdari ve Sosyal Bilimler Fakültesi olarak değiştirilmiştir.
       Ek Madde 3 – (Ek: 5/3/1992-3785/1 md.; Değişik: 28/5/1997-4263/1 md.)
       İstanbul’da Türk Eğitimine Özgü Kadir Has Vakfı (…)47 tarafından 2547 sayılı
 Yükseköğretim Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi ve
@@ -2030,8 +2030,11 @@ kurulmuştur.
       oluşur.
 
         Koç Üniversitesi:48
-        Ek Madde 4 – (Ek: 5/3/1992-3785/1 md.)
 
+
+
+g) 5/3/2012 tarihli ve 2012/2935 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İktisadi ve
+İdari Bilimler Fakültesinin adı İktisadi, İdari ve Sosyal Bilimler Fakültesi olarak değiştirilmiştir.
 ğ) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
 Yüksekokulu ile Uygulamalı Bilimler Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Uygulamalı Bilimler
 Yüksekokulu kapatılmıştır.
@@ -2064,9 +2067,8 @@ Edebiyat Fakültesi kurulmuştur.
 kurulmuştur.
    f) 20/12/2010 tarihli ve 2010/1201 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
 Enstitüsü kurulmuştur.
-   g) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hemşirelik
-Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Hemşirelik Yüksekokulu kapatılmıştır.
-      İstanbul’da Vehbi Koç Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
+      Ek Madde 4 – (Ek: 5/3/1992-3785/1 md.)
+      İstanbul’da Vehbi Koç Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
 yükseköğretim kurumlarına ilişkin hükümlerine tabi ve kamu tüzelkişiliğine sahip olmak üzere
 Koç Üniversitesi adıyla yeni bir Üniversite kurulmuştur.
       Bu Üniversite;
@@ -2074,25 +2076,25 @@ Koç Üniversitesi adıyla yeni bir Üniversite kurulmuştur.
       b) (Değişik: 17/11/1999-4480/2 md.) İşletme Enstitüsü ve Sosyal Bilimler Enstitüsünden,
       Oluşur.
 
-        İhsan Doğramacı Bilkent Üniversitesi:4950
-        Ek Madde 5 – (Ek: 5/3/1992-3785/1 md.)
-        Ankara’da Hacettepe Çocuk Sağlığı Enstitüsü Vakfı, Hacettepe Tıp Merkezi Vakfı ve
+       İhsan Doğramacı Bilkent Üniversitesi:4950
+       Ek Madde 5 – (Ek: 5/3/1992-3785/1 md.)
+       Ankara’da Hacettepe Çocuk Sağlığı Enstitüsü Vakfı, Hacettepe Tıp Merkezi Vakfı ve
 Hacettepe Üniversitesi Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
 yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz
 İhsan Doğramacı Bilkent Üniversitesi adıyla bir Üniversite kurulmuştur.
-        Bu Üniversite;
-        a) Fen Fakültesi, Güzel Sanatlar-Tasarım ve Mimarlık Fakültesi, İktisadi İdari ve Sosyal
+       Bu Üniversite;
+       a) Fen Fakültesi, Güzel Sanatlar-Tasarım ve Mimarlık Fakültesi, İktisadi İdari ve Sosyal
 Bilimler Fakültesi, İnsani Bilimler ve Edebiyat Fakültesi, İşletme Fakültesi, Mühendislik
 Fakültesi, Müzik ve Sahne Sanatları Fakültesinden,
-        b) Uygulamalı Teknoloji ve İşletmecilik Yüksekokulu ile Uygulamalı Yabancı Diller
+       b) Uygulamalı Teknoloji ve İşletmecilik Yüksekokulu ile Uygulamalı Yabancı Diller
 Yüksekokulundan,
-        c) (Değişik: 22/6/2006-5526/1 md.) Dünya Sistemleri, Ekonomileri ve Stratejik
+       c) (Değişik: 22/6/2006-5526/1 md.) Dünya Sistemleri, Ekonomileri ve Stratejik
 Araştırmalar Enstitüsü, Güzel Sanatlar Enstitüsü, Ekonomi ve Sosyal Bilimler Enstitüsü, İnsanî
 Bilimler ve Edebiyat Enstitüsü, İşletme Enstitüsü, Mühendislik ve Fen Bilimleri Enstitüsü, Müzik
 ve Sahne Sanatları Enstitüsü ile Ankara, Erzurum, Malatya, Şanlıurfa ve Van illerindeki eğitim
-bilimleri enstitülerinden,
-        Oluşur.
 
+   g) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hemşirelik
+Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Hemşirelik Yüksekokulu kapatılmıştır.
 49
     14/7/2010 tarihli ve 6005 sayılı Kanunun 3 üncü maddesiyle bu maddenin başlığı ile birinci, üçüncü ve beşinci
 fıkralarında yer alan “Bilkent Üniversitesi” ibareleri “İhsan Doğramacı Bilkent Üniversitesi” olarak ve altıncı
@@ -2117,7 +2119,9 @@ Rektörlük bünyesinde yer alan Dünya Sistemleri, Ekonomileri ve Stratejik Ara
    g) 16/5/2025 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde bulunan Güzel Sanatlar Enstitüsü, Müzik ve Sahne Sanatları Enstitüsü, İşletme Enstitüsü
 ve Uygulamalı Yabancı Diller Yüksekokulu kapatılmıştır.
-        (Ek fıkra: 22/6/2006-5526/1 md.) İkinci fıkranın (c) bendinde belirtilen eğitim
+bilimleri enstitülerinden,
+        Oluşur.
+        (Ek fıkra: 22/6/2006-5526/1 md.) İkinci fıkranın (c) bendinde belirtilen eğitim
 bilimleri enstitüleri, kampüslerinde uluslararası yüksek kalite ve standarda sahip eğitim
 merkezi olmak amacıyla kurulabilecek 625 sayılı Özel Öğretim Kurumları Kanununa tâbi ilk
 ve orta öğretim okullarını laboratuvar okulları olarak kullanır. Ankara'daki laboratuvar okulu
@@ -2150,7 +2154,6 @@ ilişkin usûl ve esaslar, Maliye ve Millî Eğitim bakanlıkları ile İhsan Do
 
         Harran Üniversitesi:51
 
-
 51
    a) 4/7/1995 tarihli ve 95/7044 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Veteriner Fakültesi
 ile İktisadi ve İdari Bilimler Fakültesi kurulmuştur.
@@ -2159,8 +2162,6 @@ Fakültesi, Eğitim Fakültesi ile Turizm ve Otel İşletmeciliği Yüksekokulu 
   c) 2/11/2007 tarihli ve 2007/12786 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve
 Spor Yüksekokulu kurulmuştur.
   ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuştur.
-  d) 25/7/2012 tarihli ve 2012/3527 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Viranşehir Sağlık
 Yüksekokulu kurulmuştur.
         Ek Madde 6 – (Ek: 3/7/1992-3837/25 md.)
         Şanlıurfa’da Harran Üniversitesi adıyla yeni bir üniversite kurulmuştur.
@@ -2178,6 +2179,8 @@ Enstitüsü, Sağlık Bilimleri Enstitüsünden
 
         Süleyman Demirel Üniversitesi:52
 
+   d) 25/7/2012 tarihli ve 2012/3527 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Viranşehir Sağlık
+Yüksekokulu kurulmuştur.
    e) 22/10/2012 tarihli ve 2012/3902 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühedislik ve
 Doğa Bilimleri Fakültesi kurulmuştur.
    f) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Siverek
@@ -2214,8 +2217,6 @@ f) 8/11/2010 tarihli ve 2010/1096 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 Bilimler Yüksekokulunun adı Yalvaç Büyükkutlu Uygulamalı Bilimler Yüksekokulu olarak değiştirilmiştir.
 g) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim Fakültesi
 kurulmuştur.
-ğ) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Bilimleri
-Enstitüsü ile Eğirdir Turizm ve Otelcilik Yüksekokulu kurulmuştur.
         Ek Madde 7 – (Ek: 3/7/1992-3837/25 md.)
         Isparta’da Süleyman Demirel Üniversitesi adıyla yeni bir üniversite kurulmuştur.
         Bu Üniversite;
@@ -2237,6 +2238,8 @@ Enstitüsü ve Sağlık Bilimleri Enstitüsü ile Güzel Sanatlar Enstitüsü’
         Aydın Adnan Menderes Üniversitesi:5354
 
 
+ğ) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Bilimleri
+Enstitüsü ile Eğirdir Turizm ve Otelcilik Yüksekokulu kurulmuştur.
 h) 3/2/2012 tarihli ve 2012/2793 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mühendislik-
 Mimarlık Fakültesi kapatılmış ve Rektörlüğe bağlı olarak Mühendislik Fakültesi ve Mimarlık Fakültesi kurulmuştur.
 ı) 16/3/2012 tarihli ve 2012/2972 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eczacılık Fakültesi
@@ -2266,8 +2269,6 @@ Yüksekokulu kurulmuştur.
 Uygulamalı Bilimler Yüksekokulu ve İletişim Fakültesi kurulmuş olup, daha sonra 30/10/2017 tarihli ve
 2017/11320 sayılı Bakanlar Kurulu Kararı ile Nazilli Uygulamalı Bilimler Yüksekokulu kapatılmış, aynı Karar
 ile Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi kurulmuştur.
-   e) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Aydın İktisat
-Fakültesi ile Diş Hekimliği Fakültesi kurulmuştur.
         Ek Madde 8 – (Ek: 3/7/1992-3837/ 25 md.)
         Aydın’da Aydın Adnan Menderes Üniversitesi adıyla yeni bir Üniversite kurulmuştur.
 Bu üniversite;
@@ -2285,6 +2286,8 @@ Enstitüsü ve Sağlık Bilimleri Enstitüsü’nden;
          Zonguldak Bülent Ecevit Üniversitesi:5556
 
 
+   e) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Aydın İktisat
+Fakültesi ile Diş Hekimliği Fakültesi kurulmuştur.
    f) 7/6/2011 tarihli ve 2011/1984 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Söke İşletme
 Fakültesi kurulmuştur.
    ğ) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Söke Mimarlık ve
@@ -2321,8 +2324,6 @@ kurulmuştur.
 Safronbolu İlçesinde Fethi Toker Güzel Sanatlar ve Tasarım Fakültesi kurulmuştur.
    c) 9/9/2005 tarihli ve 2005/9466 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Deniz İşletmeciliği
 ve Yönetimi Yüksekokulu kurulmuş olup, daha sonra 30/9/2013 tarihli ve 2013/5477 sayılı Bakanlar Kurulu
-Kararı ile Deniz İşletmeciliği ve Yönetimi Yüksekokulu kapatılmış ve Rektörlüğe bağlı olarak Denizcilik
-Fakültesi kurulmuştur.
         Ek Madde 9 – (Ek: 3/7/1992-3837/25 md.)
         Zonguldak’ta Zonguldak Bülent Ecevit Üniversitesi adıyla yeni bir üniversite
 kurulmuştur.55 Bu üniversite;
@@ -2338,7 +2339,8 @@ Enstitüsü ve Sağlık Bilimleri Enstitüsü’nden;
         Oluşur.
 
 
-
+Kararı ile Deniz İşletmeciliği ve Yönetimi Yüksekokulu kapatılmış ve Rektörlüğe bağlı olarak Denizcilik
+Fakültesi kurulmuştur.
   ç) 21/11/2005 tarihli ve 2005/9691 sayılı Bakanlar Kurulu Kararı ile Devrek Fen-Edebiyat Fakültesinin adı
 Fen-Edebiyat Fakültesi, Çaycuma İktisadi ve İdari Bilimler Fakültesinin adı İktisadi ve İdari Bilimler Fakültesi
 olarak değiştirilmiştir.
@@ -2383,7 +2385,6 @@ kapatılmıştır.
        Bu üniversite;
        a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Tıp Fakültesi, Güzel
 Sanatlar Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Su Ürünleri Fakültesi ile Mühendislik
-Fakültesinden;
 
 57
     a) 16/2/1999 tarihli ve 99/12444 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mimarlık ve
@@ -2436,7 +2437,8 @@ Rektörlüğe bağlı olarak Müzik ve Sahne Sanatları Fakültesi kurulmuştur.
     14/5/2012 tarihli ve 2012/3209 sayılı Bakanlar Kurulu Kararı ile 10/1/2012 tarihinden geçerli olmak üzere,
 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararının 3 üncü maddesinin birinci fıkrasında yer alan
 "Meslek Yüksekokulları" ibaresi "Yüksekokulları" şeklinde değiştirilmiştir.
-       b) Çukurova Üniversitesine bağlı iken adı ve bağlantısı değiştirilerek rektörlüğe bağlanan
+Fakültesinden;
+       b) Çukurova Üniversitesine bağlı iken adı ve bağlantısı değiştirilerek rektörlüğe bağlanan
 Turizm İşletmeciliği ve Otelcilik Yüksekokulu, Mersin Meslek Yüksekokulu, Gülnar Meslek
 Yüksekokulu, Mut Meslek Yüksekokulu ile yeni kurulan Tarsus Meslek Yüksekokulu’ndan;
        c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü,
@@ -2451,7 +2453,6 @@ Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Teknik Eğitim Fakültesi i
 Üniversitesine bağlı Denizli Tıp Fakültesi ve Denizli Mühendislik Fakültesinin ad ve bağlantıları
 değiştirilerek rektörlüğe bağlanmasıyla oluşturulan Tıp Fakültesi ve Mühendislik Fakültesi,
 Dokuz Eylül Üniversitesine bağlı Denizli Eğitim Yüksekokulunun fakülteye dönüştürülmesi, adı
-ve bağlantısı değiştirilerek rektörlüğe bağlanmasıyla oluşturulan Eğitim Fakültesinden;59
 59
     17/5/2007 tarihli ve 5662 sayılı Kanunun 2 nci maddesiyle; bu maddenin (a) bendine, "Fen-Edebiyat Fakültesi"
 ibaresinden sonra gelmek üzere "Mimarlık ve Tasarım Fakültesi" ibaresi eklenmiş, (b) bendinde yer alan "Serinhisar
@@ -2491,7 +2492,8 @@ bünyesinde yer alan Fizik Tedavi ve Rehabilitasyon Yüksekokulu kapatılmışt�
    m) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen Fakültesi kurulmuş, Rektörlük bünyesinde
 yer alan Fen- Edebiyat Fakültesi kapatılmıştır.
-       b) Rektörlüğe bağlı olarak yeni kurulan Fizik Tedavi ve Rehabilitasyon Yüksekokulu,
+ve bağlantısı değiştirilerek rektörlüğe bağlanmasıyla oluşturulan Eğitim Fakültesinden;59
+       b) Rektörlüğe bağlı olarak yeni kurulan Fizik Tedavi ve Rehabilitasyon Yüksekokulu,
 Turizm İşletmeciliği ve Otelcilik Yüksekokulu ile Dokuz Eylül Üniversitesine bağlı iken
 bağlantısı değiştirilerek rektörlüğe bağlanan Denizli Meslek Yüksekokulu ve yeni kurulan
 Çivril Meslek Yüksekokulundan;59
@@ -2506,7 +2508,6 @@ ve Sağlık Bilimleri Enstitüsünden;
 İdari Bilimler Fakültesi ile Uludağ Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe
 bağlanan Necatibey Eğitim Fakültesi ile Uludağ Üniversitesine bağlı Balıkesir Mühendislik
 Fakültesinin adı ve Bağlantısı değiştirilerek rektörlüğe bağlanmasıyla oluşturulan Mühendislik
-Fakültesinden; ile yeni kurulan Tıp Fakültesinden,
 61
     1/3/2006 tarihli ve 5467 sayılı Kanunun 2 nci maddesiyle, bu maddenin (a) bendinin sonuna "ile yeni kurulan Tıp
 Fakültesinden," ibaresi, (c) bendine "Fen Bilimleri Enstitüsü," ibaresinden sonra gelmek üzere "Sağlık Bilimleri
@@ -2546,7 +2547,8 @@ bağlı olarak Hukuk Fakültesi kurulmuştur.
    m) 4/3/2022 tarihli ve 31768 sayılı Resmi Gazete’de yayımlanan 5252 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Burhaniye Uygulamalı Bilimler Fakültesi kurulmuş, Rektörlük bünyesinde yer alan
 Burhaniye Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
-       b) Uludağ Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe bağlanan
+Fakültesinden; ile yeni kurulan Tıp Fakültesinden,
+       b) Uludağ Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe bağlanan
 Balıkesir Meslek Yüksekokulu ile Uludağ Üniversitesine bağlı Balıkesir Turizm İşletmeciliği
 ve Otelcilik Yüksekokulunun adı ve bağlantısı değiştirilerek rektörlüğe bağlanmasıyla oluştu-
 rulan Turizm İşletmeciliği ve Otelcilik Yüksekokulu ile rektörlüğe bağlı olarak yeni kurulan
@@ -2557,6 +2559,7 @@ Sağlık Bilimleri Enstitüsü, Edremit Zeytincilik Enstitüsü ile Gönen Jeote
        Oluşur.
 
         Kocaeli Üniversitesi:63
+
 
 63
    a) 30/5/1997 tarihli ve 97/9535 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Güzel Sanatlar
@@ -2599,8 +2602,6 @@ Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Barbaros Denizcilik Yü
 Bilimler Fakültesi kurulmuştur.
   ö) 26/9/2016 tarihli ve 2016/9270 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı bulunan Beden Eğitimi
 ve Spor Yüksekokulu kapatılmış ve Üniversiteye bağlı olarak Spor Bilimleri Fakültesi kurulmuştur.
-  p) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
-Fakültesi kurulmuştur.
         Ek Madde 13 – (Ek: 3/7/1992-3837/25 md.)
         Kocaeli’nde Kocaeli Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu Üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Teknik Eğitim Fakültesi,
@@ -2615,6 +2616,8 @@ ve Sağlık Bilimleri Enstitüsünden;
 
         Sakarya Üniversitesi:64
 
+   p) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
+Fakültesi kurulmuştur.
    r) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Kocaeli
 Sağlık Yüksekokulu kapatılmıştır.
    s) 27/12/2016 tarihli ve 2016/9717 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Uygulamalı
@@ -2655,8 +2658,6 @@ Yüksekokulu kurulmuştur.
 Fakültesi kurulmuştur.
    i) 18/3/2014 tarihli ve 2014/6152 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Siyasal Bilgiler
 Fakültesi kurulmuştur.
-   j) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Turizm
-Fakültesi, Orta Doğu Enstitüsü ile Spor Bilimleri Fakültesi kurulmuştur.
         Ek Madde 14 – (Ek: 3/7/1992-3837/25 md.)
         Sakarya’da Sakarya Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu Üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Teknik Eğitim Fakültesi,
@@ -2672,6 +2673,8 @@ Enstitüsünden;
         Manisa Celal Bayar Üniversitesi:6566
 
 
+   j) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Turizm
+Fakültesi, Orta Doğu Enstitüsü ile Spor Bilimleri Fakültesi kurulmuştur.
    k) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Beden
 Eğitimi ve Spor Yüksekokulu kapatılmıştır.
    l) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
@@ -2710,8 +2713,6 @@ ve Spor Yüksekokulu kapatılması ve Üniversiteye bağlı olarak Spor Bilimler
 kurulmuştur.
 ğ) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi kurulmuştur.
-h) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
-Rektörlük bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
         Ek Madde 15 – (Ek: 3/7/1992-3837/25 md.)
         Manisa’da Manisa Celal Bayar Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 Üniversite;
@@ -2733,6 +2734,8 @@ Enstitüsü ve Sağlık Bilimleri Enstitüsünden;
 
         Bolu Abant İzzet Baysal Üniversitesi:6768
 
+h) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
+Rektörlük bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
 ı) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Lisansüstü Eğitim Enstitüsü ile İnsan ve Toplum Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer
 alan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü, Sosyal Bilimler Enstitüsü ve Fen-Edebiyat Fakültesi
@@ -2762,8 +2765,6 @@ g) 5/3/2012 tarihli ve 2012/2908 sayılı Bakanlar Kurulu Kararı ile Rektörlü
 kurulmuştur.
 ğ) 17/2/2012 tarihli ve 2012/2852 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi
 ile Ziraat ve Doğa Bilimleri Fakültesi kurulmuştur.
-h) 4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık Fakültesi
-kurulmuştur.
         Ek Madde 16 – (Ek: 3/7/1992-3837/25 md.)
         Bolu’da Bolu Abant İzzet Baysal Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
@@ -2784,6 +2785,8 @@ Enstitüsü ile Sağlık Bilimleri Enstitüsünden
 
          Hatay Mustafa Kemal Üniversitesi:6970
 
+h) 4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık Fakültesi
+kurulmuştur.
 ı) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
 i) 25/1/2019 tarihli ve 30666 sayılı Resmi Gazete’de yayımlanan 669 sayılı Cumhurbaşkanı Kararı ile
@@ -2816,8 +2819,6 @@ Tayfur Ata Sökmen Tıp Fakültesi olarak değiştirilmiştir.
    c) 23/9/2008 tarihli ve 2008/14198 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan
 Mühendislik–Mimarlık Fakültesi kapatılmış, Rektörlüğe bağlı olarak Mühendislik Fakültesi ve Mimarlık Fakültesi
 kurulmuştur.
-   ç) 25/2/2009 tarihli ve 2009/14728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Fizik Tedavi ve
-Rehabilitasyon Yüksekokulu kurulmuştur.
        Ek Madde 17 – (Ek: 3/7/1992-3837/25 md.)
        Hatay’da Hatay Mustafa Kemal Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu Üniversite;
@@ -2836,6 +2837,8 @@ Enstitüsü ile Sağlık Bilimleri Enstitüsünden;
 
         Afyon Kocatepe Üniversitesi:71
 
+   ç) 25/2/2009 tarihli ve 2009/14728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Fizik Tedavi ve
+Rehabilitasyon Yüksekokulu kurulmuştur.
    d) 25/10/2010 tarihli ve 2010/1052 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
 Fakültesi ile İletişim Fakültesi kurulmuştur.
    e) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bilişim
@@ -2871,8 +2874,6 @@ kurulmuştur.
 Edebiyat Fakültesi kurulmuştur.
    ç) 22/3/2004 tarihli ve 2004/7121 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
 Yüksekokulu kurulmuştur.
-   d) 11/11/2005 tarihli ve 2005/9635 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm
-İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
         Ek Madde 18 – (Ek: 3/7/1992-3837/25 md.)
         Afyon’da Afyon Kocatepe Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 üniversite;
@@ -2891,6 +2892,9 @@ Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsünden;
         Gebze Teknik Üniversitesi:727374
 
 
+
+   d) 11/11/2005 tarihli ve 2005/9635 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm
+İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
    e) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Teknik
 Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
    f ) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bolvadin
@@ -2925,9 +2929,6 @@ maddenin başlığı, metne işlendiği şekilde değiştirilmiştir.
 73
     a) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı Cumhurbaşkanı Kararının 1 inci
 maddesiyle, Rektörlüğe bağlı olarak Havacılık ve Uzay Bilimleri Fakültesi kurulmuştur.
-b) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri
-Enstitüsü ile Sosyal Bilimler Enstitüsü kapatılmıştır.
         Ek Madde 19 – (Ek: 3/7/1992-3837/25 md.; Değişik: 21/10/2014-6562/1 md.)
         Kocaeli’nde Gebze Teknik Üniversitesi adıyla yeni bir üniversite kurulmuştur.
         Bu üniversite, Rektörlüğe bağlı olarak;
@@ -2949,6 +2950,10 @@ Enstitüsü ile Sosyal Bilimler Enstitüsü kapatılmıştır.
         Kafkas Üniversitesi:75
 
 
+
+b) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri
+Enstitüsü ile Sosyal Bilimler Enstitüsü kapatılmıştır.
 74
      31/8/2026 tarihli ve 33356 sayılı Resmî Gazete’de yayımlanan 11681 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan Bilişim Teknolojileri Enstitüsünün adı Yapay Zekâ Enstitüsü olarak değiştirilmiştir.
@@ -2979,9 +2984,6 @@ Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 Fakültesi kurulmuş ve Üniversite bünyesinde yer alan Kars Sağlık Yüksekokulu kapatılmıştır.
    j) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan Eğitim Fakültesinin adı Dede Korkut Eğitim Fakültesi olarak değiştirilmiştir.
-   k) 2/11/2023 tarihli ve 32357 sayılı Resmî Gazete’de yayımlanan 7759 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Sarıkamış Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Sarıkamış
-Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
         Ek Madde 20 – (Ek: 3/7/1992-3837/25 md.)
         Kars’ta Kafkas Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Artvin Orman Fakültesi
@@ -2996,6 +2998,10 @@ Enstitüsü ve Sağlık Bilimleri Enstitüsünden;
 
          Çanakkale Onsekiz Mart Üniversitesi:76
 
+
+   k) 2/11/2023 tarihli ve 32357 sayılı Resmî Gazete’de yayımlanan 7759 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Sarıkamış Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Sarıkamış
+Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
    l) 30/10/2026 tarihli ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Diş Hekimliği Fakültesinin adı İsmail Aytemiz Diş Hekimliği Fakültesi olarak
 değiştirilmiştir.
@@ -3033,10 +3039,6 @@ Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 Fakültesi kurulmuştur.
    m) 16/2/2016 tarihli ve 2016/8555 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan İktisadi ve İdari
 Bilimler Fakültesinin adı Siyasal Bilgiler Fakültesi olarak değiştirilmiştir.
-   n) 11/9/2017 tarihli ve 2017/10830 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Biga Uygulamalı
-Bilimler Fakültesi kurulmuş ve Üniversite bünyesinde bulunan Biga Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
-   o) 17/1/2018 tarihli ve 2018/11272 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
-Fakültesi kurulmuş ve Rektörlüğe bağlı olan Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
        Ek Madde 21 – (Ek: 3/7/1992-3837/25 md.)
        Çanakkale’de Çanakkale Onsekiz Mart Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
@@ -3054,6 +3056,10 @@ Enstitüsü’nden;
 
          Niğde Ömer Halisdemir Üniversitesi:777879
 
+   n) 11/9/2017 tarihli ve 2017/10830 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Biga Uygulamalı
+Bilimler Fakültesi kurulmuş ve Üniversite bünyesinde bulunan Biga Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
+   o) 17/1/2018 tarihli ve 2018/11272 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
+Fakültesi kurulmuş ve Rektörlüğe bağlı olan Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
    ö) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuştur.
    p) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
@@ -3089,10 +3095,6 @@ kurulmuştur.
 d) 1/6/2010 tarihli ve 2010/528 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mühendislik-
 Mimarlık Fakültesinin adı Mühendislik Fakültesi olarak değiştirilmiş ve Rektörlüğe bağlı olarak Mimarlık
 Fakültesi kurulmuştur.
-e) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eğitim Bilimleri
-Enstitüsü kurulmuştur.
-f) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi
-ve Tarım Bilimleri ve Teknolojileri Fakültesi kurulmuştur.
         Ek Madde 22 – (Ek: 3/7/1992-3837/25 md.)
         Niğde’de Niğde Ömer Halisdemir Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
@@ -3112,6 +3114,10 @@ Enstitüsünden;
         Kütahya Dumlupınar Üniversitesi:8081
 
 
+e) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eğitim Bilimleri
+Enstitüsü kurulmuştur.
+f) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi
+ve Tarım Bilimleri ve Teknolojileri Fakültesi kurulmuştur.
 g) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler
 Fakültesi kurulmuştur.
 ğ) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Tıp Fakültesi
@@ -3138,15 +3144,11 @@ bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.
 o) 18/9/2025 tarihli ve 33021 sayılı Resmî Gazete’ de yayımlanan 10415 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan İslami İlimler Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
 80
-    9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
+   9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
 alan “Dumlupınar Üniversitesi” ibareleri “Kütahya Dumlupınar Üniversitesi” şeklinde değiştirilmiştir.
 81
    a) 12/3/1999 tarihli ve 99/12628 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi,
 Güzel Sanatlar Fakültesi ve Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
-   b) 9/9/2005 tarihli ve 2005/9465 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Uygulamalı
-Bilimler Yüksekokulu kurulmuştur.
-   c) 24/5/2006 tarihli ve 2006/10493 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Enstitüsü kurulmuştur.
         Ek Madde 23 – (Ek: 3/7/1992-3837/25 md.)
         Kütahya’da Kütahya Dumlupınar Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
@@ -3163,6 +3165,10 @@ Enstitüsünden;
         Tokat Gaziosmanpaşa Üniversitesi:8283
 
 
+   b) 9/9/2005 tarihli ve 2005/9465 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Uygulamalı
+Bilimler Yüksekokulu kurulmuştur.
+   c) 24/5/2006 tarihli ve 2006/10493 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Enstitüsü kurulmuştur.
    ç) 2/11/2007 tarihli ve 2007/12785 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
 kurulmuştur.
    d) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Simav
@@ -3197,19 +3203,16 @@ bünyesinde yer alan İslami İlimler Fakültesinin adı İlahiyat Fakültesi ol
 82
     9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
 alan “Gaziosmanpaşa Üniversitesi” ibareleri “Tokat Gaziosmanpaşa Üniversitesi” şeklinde değiştirilmiştir.
-83
-    a) 31/3/1994 tarihli ve 94/5564 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
-Spor Yüksekokulu kurulmuştur.
-   b) 4/7/1995 tarihli ve 95/7044 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İktisadi ve İdari
-Bilimler Fakültesi ile Tıp Fakültesi kurulmuştur.
        Ek Madde 24 – (Ek: 3/7/1992-3837/25 md.)
        Tokat’ta Tokat Gaziosmanpaşa Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 üniversite;
        a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi ile Cumhuriyet
-Üniversitesine bağlı iken adı ve bağlantısı değiştirilerek rektörlüğe bağlanan Ziraat Fakültesinden;
-       b) Cumhuriyet Üniversitesine bağlı iken adı ve bağlantıları değiştirilerek rektörlüğe bağlanan
-Tokat Meslek Yüksekokulu, Zile Meslek Yüksekokulu ile Niksar Meslek Yüksekokulundan;
 
+83
+   a) 31/3/1994 tarihli ve 94/5564 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
+Spor Yüksekokulu kurulmuştur.
+  b) 4/7/1995 tarihli ve 95/7044 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İktisadi ve İdari
+Bilimler Fakültesi ile Tıp Fakültesi kurulmuştur.
   c) 26/9/1997 tarihli ve 97/10050 sayılı Bakanlar Kurulu Kararı ile Zile Turizm İşletmeciliği ve Otelcilik
 Yüksekokulu kurulmuştur.
   ç) 4/3/2002 tarihli ve 2002/3811 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
@@ -3259,7 +3262,10 @@ Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
   t) 30/6/2020 tarihli ve 31171 sayılı Resmî Gazete’de yayımlanan 2704 sayılı Cumhurbaşkanı Kararının 1 inci
 maddesiyle, Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde bulunan Eğitim
 Bilimleri Enstitüsü, Fen Bilimleri Enstitüsü,Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
-       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Erbaa Fen
+Üniversitesine bağlı iken adı ve bağlantısı değiştirilerek rektörlüğe bağlanan Ziraat Fakültesinden;
+       b) Cumhuriyet Üniversitesine bağlı iken adı ve bağlantıları değiştirilerek rektörlüğe bağlanan
+Tokat Meslek Yüksekokulu, Zile Meslek Yüksekokulu ile Niksar Meslek Yüksekokulundan;
+       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Erbaa Fen
 Bilimleri Enstitüsünden;
        Oluşur.
 
@@ -3314,11 +3320,6 @@ Sağlık Yüksekokulu kapatılmış ve Rektörlüğe bağlı olarak Fethiye Sağ
 Fakültesinin adı İslami İlimler Fakültesi olarak değiştirilmiştir.
    ö) 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
 Fakültesi kurulmuştur.
-   p) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
-   r) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak İlahiyat Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan İslami İlimler Fakültesi
-kapatılmıştır.
         Ek Madde 25 – (Ek: 3/7/1992-3837/25 md.)
         Muğla’da Muğla Sıtkı Koçman Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 üniversite;
@@ -3339,37 +3340,42 @@ Enstitüsünden;
 kurulmuştur. Bu üniversite; a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi,
 İktisadi ve İdari Bilimler Fakültesi, Orman Fakültesi ile Gaziantep Üniversitesi’ne bağlı
 Kahramanmaraş Ziraat Fakültesinin adı ve bağlantısı değiştirilerek rektörlüğe bağlanan Ziraat
-Fakültesinden;
-        b) Gaziantep Üniversitesine bağlı Kahramanmaraş Meslek Yüksekokulunun adı ve
-bağlantısı değiştirilerek rektörlüğe bağlanan Kahramanmaraş Meslek Yüksekokulundan;
 
+   p) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
+   r) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak İlahiyat Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan İslami İlimler Fakültesi
+kapatılmıştır.
 86
-   a) 4/7/1995 tarihli ve 95/7044 sayalı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Teknik Eğitim
+    a) 4/7/1995 tarihli ve 95/7044 sayalı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Teknik Eğitim
 Fakültesi, Mühendislik ve Mimarlık Fakültesi, İlahiyat Fakültesi kurulmuş; 9/5/1996 tarihli ve 96/8176 sayılı
 Bakanlar Kurulu Kararı ile Teknik Eğitim Fakültesi kapatılarak yerine Tıp Fakültesi kurulmuştur.
-  b) 2/6/2000 tarihli ve 2000/854 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitim ve
+   b) 2/6/2000 tarihli ve 2000/854 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitim ve
 Spor Yüksekokulu kurulmuştur.
-  c) 17/3/2004 tarihli ve 2004/7032 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
+   c) 17/3/2004 tarihli ve 2004/7032 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
 Fakültesi ile Eğitim Fakültesi kurulmuştur.
-  ç) 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Göksun
+   ç) 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Göksun
 Uygulamalı Bilimler Yüksekokulu ile Yabancı Diller Yüksekokulu kurulmuştur.
-  d) 2/1/2012 tarihli ve 2012/2658 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Elbistan Teknoloji
+   d) 2/1/2012 tarihli ve 2012/2658 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Elbistan Teknoloji
 Fakültesi kurulmuştur.
-  e) 26/1/2015 tarihli ve 2015/7226 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Afşin Sağlık
+   e) 26/1/2015 tarihli ve 2015/7226 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Afşin Sağlık
 Yüksekokulu kurulmuştur.
-  f) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
+   f) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
 Fakültesi kurulmuştur.
-  g) 14/5/2018 tarihli ve 2018/12001 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+   g) 14/5/2018 tarihli ve 2018/12001 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
 Fakültesi kurulmuş ve Rektörlük bünyesinde bulunan Kahramanmaraş Sağlık Yüksek Okulu kapatılmıştır.
-  ğ) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile
+   ğ) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve
 Spor Yüksekokulu kapatılmıştır.
-  h) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
+   h) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen Fakültesi kurulmuş, Rektörlük bünyesinde
 yer alan Fen- Edebiyat Fakültesi kapatılmıştır.
-  ı) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
+   ı) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İletişim Fakültesi ve Turizm Fakültesi kurulmuştur.
-        c) (Mülga:30/7/2026-7592/16 md.)
+Fakültesinden;
+        b) Gaziantep Üniversitesine bağlı Kahramanmaraş Meslek Yüksekokulunun adı ve
+bağlantısı değiştirilerek rektörlüğe bağlanan Kahramanmaraş Meslek Yüksekokulundan;
+        c) (Mülga:30/7/2026-7592/16 md.)
         ç) (Ek:30/7/2026-7592/16 md.) Kahramanmaraş İstiklal Üniversitesine bağlı iken
 bağlantısı değiştirilerek Rektörlüğe bağlanan İslami İlimler Fakültesi, Sağlık Bilimleri
 Fakültesi ve İnsan ve Toplum Bilimleri Fakültesi ile Rektörlüğe bağlı İlahiyat Fakültesi,
@@ -3399,7 +3405,6 @@ Fakültesinden;
 
         Kırıkkale Üniversitesi:88
 
-
 87
     a) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller
 Yüksekokulu kurulmuştur.
@@ -3415,10 +3420,6 @@ Spor Yüksekokulu kurulmuştur.
 Fakültesi kurulmuştur.
    ç) 6/6/2005 tarihli ve 2005/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
 Fakültesi kurulmuştur.
-   d) 1/12/2008 tarihli ve 2008/14398 Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Fakültesi kurulmuştur.
-   e) 8/4/2013 tarihli ve 2013/4623 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuştur.
         Ek Madde 28 – (Ek: 3/7/1992-3837/25 md.)
         Kırıkkale’de Kırıkkale Üniversitesi adıyla yeni bir Üniversite kurulmuştur. Bu üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Mühendislik
@@ -3448,10 +3449,11 @@ Eğitim Yüksekokulu; Dicle Üniversitesi Eğitim Fakültesine bağlı Siirt Eğ
 Karadeniz Teknik Üniversitesine bağlı Giresun Eğitim Yüksekokulu; Yüzüncü Yıl
 Üniversitesine bağlı Van Eğitim Yüksekokulu aynı üniversitelere bağlı Eğitim Fakültelerine
 ve Selçuk Üniversitesine bağlı Kız Sanat Eğitim Yüksekokulu aynı üniversiteye bağlı Mesleki
-Eğitim Fakültesine dönüştürülmüştür.
 
-         Ek Madde 30 – (Ek: 3/7/1992-3837/25 md.; Değişik: 29/3/2001-4633/3 md.)
-
+ d) 1/12/2008 tarihli ve 2008/14398 Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Fakültesi kurulmuştur.
+ e) 8/4/2013 tarihli ve 2013/4623 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
+Yüksekokulu kurulmuştur.
  f) 30/9/2013 tarihli ve 2013/5482 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler
 Fakültesi kurulmuştur.
  g) 16/2/2015 tarihli ve 2015/7314 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Beden
@@ -3464,7 +3466,10 @@ Rektörlük bünyesinde yer alan Fen-Edebiyat Fakültesi kapatılmıştır.
 Rektörlüğe bağlı Mühendislik Fakültesinin adı Mühendislik ve Mimarlık Fakültesi olarak değiştirilmiştir.
  i) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olan Mühendislik ve Mimarlık Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
-        Cumhurbaşkanı üniversitelere bağlı olarak fakülte, enstitü ve yüksekokul kurmaya; bu
+Eğitim Fakültesine dönüştürülmüştür.
+
+        Ek Madde 30 – (Ek: 3/7/1992-3837/25 md.; Değişik: 29/3/2001-4633/3 md.)
+        Cumhurbaşkanı üniversitelere bağlı olarak fakülte, enstitü ve yüksekokul kurmaya; bu
 birimlerle ilgili olarak birleştirmeye, kapatmaya, bağlantı ve isim değişikliği yapmaya
 yetkilidir. Bağlantı değişikliği yapılan birimlere ait kadrolar, taşınmazlar ve demirbaşlar, bir
 başka işleme gerek kalmadan bağlanılan üniversiteye aktarılmış sayılır.8990
@@ -3478,9 +3483,6 @@ Bu üniversite;
 Fakültesi ile Mühendislik-Mimarlık Fakültesinden,
        b) Anadolu Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe bağlanan Sağlık
 Hizmetleri Meslek Yüksekokulu ile Eskişehir Sağlık Hizmetleri Meslek Yüksekokulundan,
-       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Anadolu Üniversitesi
-Rektörlüğüne bağlı iken,bağlantısı değiştirilerek rektörlüğe bağlanan Fen Bilimleri Enstitüsü,
-Metalurji Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
 
 89
    Bazı üniversitelere bağlı olarak kurulan sağlık yüksekokullarıyla ilgili olarak 2/11/1996 tarihli ve 22805 sayılı
@@ -3521,7 +3523,10 @@ Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
     k) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen Fakültesi kurulmuş, Rektörlük bünyesinde
 yer alan Fen- Edebiyat Fakültesi kapatılmıştır.
-        oluşur.
+       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Anadolu Üniversitesi
+Rektörlüğüne bağlı iken,bağlantısı değiştirilerek rektörlüğe bağlanan Fen Bilimleri Enstitüsü,
+Metalurji Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
+       oluşur.
 
          Ek Madde 32 – (Ek: 13/8/1993-KHK-496/2 md.)
          Anadolu Üniversitesi, yurt düzeyinde ve yurtdışında çağdaş iletişim ve eğitim-öğretim
@@ -3549,9 +3554,6 @@ vakıf üniversitesi kurulmuştur.
         e) (Değişik: 17/11/1999-4480/3 md.) Güzel Sanatlar Tasarım ve Mimarlık Fakültesi
 ile Diş Hekimliği Fakültesi,
         f) Rektörlüğe bağlı Sağlık Bilimleri Enstitüsü, Fen Bilimleri Enstitüsü ve Sosyal
-Bilimler Enstitüsü ile Hemşirelik Yüksekokulu,Fizik Tedavi ve Rehabilitasyon Yüksek Okulu
-ve Sağlık İdaresi ve İşletmesi Yüksek Okulundan,
-        g) (Ek: 25/7/2000-KHK-612/5 md.; Aynen kabul: 10/1/2001-4617/3 md.) Eczacılık
 93
    a) 27/2/1997 tarihli ve 97/9235 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk Fakültesi,
 İletişim Fakültesi, Sağlık Teknolojisi Yüksekokulu kurulmuştur.
@@ -3565,7 +3567,10 @@ Fakültesi kurulmuştur.
 Yüksekokulu kurulmuştur.
     e) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı Cumhurbaşkanı Kararının 1 inci
 maddesiyle, Rektörlüğe bağlı olarak Gıda, Tarım ve Hayvancılığı Geliştirme Enstitüsü kurulmuştur.
-Fakültesi ve Eğitim Fakültesinden;
+Bilimler Enstitüsü ile Hemşirelik Yüksekokulu,Fizik Tedavi ve Rehabilitasyon Yüksek Okulu
+ve Sağlık İdaresi ve İşletmesi Yüksek Okulundan,
+       g) (Ek: 25/7/2000-KHK-612/5 md.; Aynen kabul: 10/1/2001-4617/3 md.) Eczacılık
+Fakültesi ve Eğitim Fakültesinden;
        h) (Ek: 25/7/2000-KHK-612/5 md.; Aynen kabul: 10/1/2001-4617/3 md.) Eğitim
 Bilimleri Enstitüsü, Avrupa Birliği Uluslararası İlişkiler Enstitüsü, Transplantasyon ve Gen
 Bilimleri Enstitüsü ve Yanık, Yangın ve Doğal Afetler Enstitüsünden;
@@ -3591,6 +3596,7 @@ sorumludur.
 
         Işık Üniversitesi:95
 
+
 94
    a) 10/9/2007 tarihli ve 2007/12586 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Denizcilik
 Yüksekokulu kurulmuştur.
@@ -3609,12 +3615,6 @@ Fakültesi kurulmuştur.
 Rektörlüğe bağlı olarak Mühendislik ve Doğa Bilimleri Fakültesi ve İktisadi, İdari ve Sosyal Bilimler Fakültesi
 kurulmuş, Rektörlük bünyesinde yer alan Mühendislik Fakültesi, Fen-Edebiyat Fakültesi ve İktisadi ve İdari
 Bilimler Fakültesi kapatılmıştır.
-    e) 14/7/2021 tarihli ve 31541 sayılı Resmî Gazete’de yayımlanan 4277 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş ve Rektörlük bünyesinde yer alan Sosyal Bilimler
-Enstitüsü ve Fen Bilimleri Enstitüsü kapatılmıştır.
-    f) 25/6/2021 tarihli ve 31522 sayılı Resmî Gazete’de yayımlanan 4146 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
-bağlı olan Güzel Sanatlar Fakültesi ile Mimarlık ve Tasarım Fakültesinin, Sanat, Tasarım ve Mimarlık Fakültesi adı
-altında birleştirilmesine karar verilmiştir.
         Ek Madde 35 – (Ek: 5/6/1996-4142/2 md.)
         İstanbul'da Fevziye Mektepleri Vakfı tarafından, 2547 sayılı Kanunun vakıf yükseköğretim
 kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip Işık Üniversitesi
@@ -3642,13 +3642,15 @@ Fatih Üniversitesi adıyla yeni bir vakıf üniversitesi kurulmuştur.
        f) (Mülga: 22/1/2013-6410/4 md.)
        g) Fen Bilimleri Enstitüsü,
        h) Sosyal Bilimler Enstitüsü,
-       ı) Sağlık Bilimleri Enstitüsü,
-       i) Biyomedikal Mühendislik Enstitüsü'nden,
-       Oluşur.
 
-
+    e) 14/7/2021 tarihli ve 31541 sayılı Resmî Gazete’de yayımlanan 4277 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş ve Rektörlük bünyesinde yer alan Sosyal Bilimler
+Enstitüsü ve Fen Bilimleri Enstitüsü kapatılmıştır.
+    f) 25/6/2021 tarihli ve 31522 sayılı Resmî Gazete’de yayımlanan 4146 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı olan Güzel Sanatlar Fakültesi ile Mimarlık ve Tasarım Fakültesinin, Sanat, Tasarım ve Mimarlık Fakültesi adı
+altında birleştirilmesine karar verilmiştir.
 
- Bu üniversite 23/7/2016 tarihli ve 29779 sayılı Resmî Gazete’de yayımlanan 22/7/2016 tarihli ve 667 sayılı
+  Bu üniversite 23/7/2016 tarihli ve 29779 sayılı Resmî Gazete’de yayımlanan 22/7/2016 tarihli ve 667 sayılı
 KHK ile kapatılmış olup, daha sonra 667 sayılı KHK’nin 18/10/2016 tarihli ve 6749 sayılı Kanunla
 değiştirilerek kabul edilmesinden dolayı bu hüküm kanunlaşmıştır.
 96
@@ -3666,7 +3668,11 @@ Yüksekokulu kurulmuştur.
 Teknoloji Enstitüsü kurulmuştur.
     f) 12/12/2012 tarihli ve 2012/4061 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar,
 Tasarım ve Mimarlık Fakültesi kurulmuştur.
-        Sabancı Üniversitesi:97
+        ı) Sağlık Bilimleri Enstitüsü,
+        i) Biyomedikal Mühendislik Enstitüsü'nden,
+        Oluşur.
+
+        Sabancı Üniversitesi:97
         Ek Madde 37 – (Ek: 5/6/1996-4142/2 md.)
         İstanbul'da Hacı Ömer Sabancı Vakfı tarafından, 2547 sayılı Kanunun vakıf yükseköğretim
 kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip Sabancı Üniversitesi
@@ -3680,7 +3686,6 @@ adıyla yeni bir vakıf üniversitesi kurulmuştur.
         Oluşur.
 
         İstanbul Bilgi Üniversitesi:98
-
 
 97
    a) 2/11/2009 tarihli ve 2009/15741 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik
@@ -3717,11 +3722,6 @@ Enstitüsü kurulmuştur.
 Fakültesi, Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi şeklinde değiştirilmiştir.
     i) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
 Fakültesi ile Tıp Fakültesi kurulmuştur.
-    j) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Sağlık Bilimleri Yüksekokulu kapatılmıştır.
-    k) 8/1/2018 tarihli ve 2018/11209 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Lisansüstü
-Programlar Enstitüsü kurulmuş ve Rektörlüğe bağlı olan Fen Bilimleri, Sağlık Bilimleri ve Sosyal Bilimler
-enstitüleri kapatılmıştır.
        Ek Madde 38 – (Ek: 5/6/1996-4142/2 md.)
        İstanbul'da Bilgi Eğitim ve Kültür Vakfı tarafından, 2547 sayılı Kanunun vakıf
 yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip
@@ -3734,13 +3734,14 @@ yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tü
        e) Sosyal Bilimler Enstitüsü'nden,
        Oluşur.
 
-        Yeditepe Üniversitesi:99
-        Ek Madde 39 – (Ek: 5/6/1996-4142/2 md.)
-        İstanbul'da İstanbul Eğitim ve Kültür Vakfı tarafından, 2547 sayılı Yükseköğretim
-Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu
-tüzelkişiliğine sahip Yeditepe Üniversitesi adıyla yeni bir vakıf üniversitesi kurulmuştur.
+         Yeditepe Üniversitesi:99
+         Ek Madde 39 – (Ek: 5/6/1996-4142/2 md.)
 
-
+    j) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Sağlık Bilimleri Yüksekokulu kapatılmıştır.
+    k) 8/1/2018 tarihli ve 2018/11209 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Lisansüstü
+Programlar Enstitüsü kurulmuş ve Rektörlüğe bağlı olan Fen Bilimleri, Sağlık Bilimleri ve Sosyal Bilimler
+enstitüleri kapatılmıştır.
     l) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5867 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Sivil Havacılık
 Yüksekokulu, Spor Bilimleri ve Teknolojisi Yüksekokulu, Turizm ve Otelcilik Yüksekokulu ve Uygulamalı Bilimler
@@ -3775,7 +3776,10 @@ Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
     ı) 19/3/2026 tarihli ve 33201 sayılı Resmi Gazete’de yayımlanan 11097 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Güzel Sanatlar Fakültesinin adı Sanat ve Tasarım Fakültesi, İktisadi ve İdari
 Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiştir.
-        Bu Üniversite, Rektörlüğe bağlı olarak;
+        İstanbul'da İstanbul Eğitim ve Kültür Vakfı tarafından, 2547 sayılı Yükseköğretim
+Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu
+tüzelkişiliğine sahip Yeditepe Üniversitesi adıyla yeni bir vakıf üniversitesi kurulmuştur.
+        Bu Üniversite, Rektörlüğe bağlı olarak;
         a) Mimarlık-Mühendislik Fakültesi,
         b) Tıp Fakültesi,
         c) Fen-Edebiyat Fakültesi,
@@ -3799,9 +3803,6 @@ bir vakıf üniversitesi kurulmuştur.
          Bu Üniversite, Rektörlüğe bağlı olarak;
          a) Fen-Edebiyat Fakültesi,
          b) İşletme Fakültesi,
-         c) Mühendislik Fakültesi,
-         d) Fen Bilimleri Enstitüsü,
-         e) Sosyal Bilimler Enstitüsü‘nden,
 
 100
     a) 28/4/2003 tarihli ve 2003/5593 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk
@@ -3822,7 +3823,10 @@ Fakültesi kurulmuştur.
 Bilimleri Enstitüsü kurulmuştur.
     ğ) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
-         Oluşur.
+         c) Mühendislik Fakültesi,
+         d) Fen Bilimleri Enstitüsü,
+         e) Sosyal Bilimler Enstitüsü‘nden,
+         Oluşur.
 
       İstanbul Kültür Üniversitesi:101
       Ek Madde 41 – (Ek: 9/7/1997-4281/1 md.)
@@ -3839,10 +3843,7 @@ kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine s
       g) Sosyal Bilimler Enstitüsü‘nden,
       Oluşur.
 
-      Doğuş Üniversitesi:102
-      Ek Madde 42 – (Ek: 9/7/1997-4281/1 md.)
-      İstanbul’da Doğuş Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim
-kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip “Doğuş Üniversitesi”
+         Doğuş Üniversitesi:102
 
 101
     a) 12/8/1998 tarihli ve 98/11641 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk Fakültesi
@@ -3874,7 +3875,10 @@ Enstitüsü ve Fen Bilimleri Enstitüsü kapatılmıştır.
 Rektörlük bünyesinde yer alan Fen-Edebiyat Fakültesi kapatılmış, Rektörlük bünyesinde yer alan Mühendislik
 Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi, İktisadi ve İdari Bilimler Fakültesinin adı İktisadi,
 İdari ve Sosyal Bilimler Fakültesi olarak değiştirilmiştir.
-adıyla yeni bir vakıf üniversitesi kurulmuştur.
+        Ek Madde 42 – (Ek: 9/7/1997-4281/1 md.)
+        İstanbul’da Doğuş Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim
+kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip “Doğuş Üniversitesi”
+adıyla yeni bir vakıf üniversitesi kurulmuştur.
         Bu Üniversite, Rektörlüğe bağlı olarak;
         a) İktisadi ve İdari Bilimler Fakültesi,
         b) Mühendislik Fakültesi,
@@ -3900,7 +3904,6 @@ kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini h
 
         Maltepe Üniversitesi:104
 
-
 103
     a) 25/6/2012 tarihli ve 2012/3348 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik-
 Mimarlık Fakültesi kapatılmış, Rektörlüğe bağlı olarak Mühendislik Fakültesi ile Mimarlık Fakültesi kurulmuştur.
@@ -3921,10 +3924,6 @@ Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olara
 Yüksekokulu kurulmuştur.
     e) 6/6/2013 tarihli ve 2013/4929 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mimarlık
 Fakültesinin adı Mimarlık ve Tasarım Fakültesi olarak değiştirilmiştir.
-    f) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-
-Edebiyat Fakültesinin adı İnsan ve Toplum Bilimleri Fakültesi olarak değiştirilmiştir.
-    g) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan İktisadi ve İdari
-Bilimler Fakültesinin adı İşletme ve Yönetim Bilimleri Fakültesi olarak değiştirilmiştir.
       Ek Madde 44 – (Ek: 9/7/1997-4282/1 md.)
       İstanbul’da Marmara Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim
 kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz “Maltepe
@@ -3940,13 +3939,14 @@ kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini h
       h) Hemşirelik Yüksekokulundan,
       Oluşur.
 
-       İstanbul Beykent Üniversitesi:105106
-       Ek Madde 45 – (Ek: 9/7/1997-4282/1 md.)
-       İstanbul’da Adem Çelik-Beykent Eğitim Vakfı tarafından, 2547 sayılı Kanunun vakıf
-yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz
-“İstanbul Beykent Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
-       Bu Üniversite, Rektörlüğe bağlı olarak;
+        İstanbul Beykent Üniversitesi:105106
+        Ek Madde 45 – (Ek: 9/7/1997-4282/1 md.)
+        İstanbul’da Adem Çelik-Beykent Eğitim Vakfı tarafından, 2547 sayılı Kanunun vakıf
 
+    f) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-
+Edebiyat Fakültesinin adı İnsan ve Toplum Bilimleri Fakültesi olarak değiştirilmiştir.
+    g) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan İktisadi ve İdari
+Bilimler Fakültesinin adı İşletme ve Yönetim Bilimleri Fakültesi olarak değiştirilmiştir.
     ğ) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuştur.
     h) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile Rektörlük
@@ -3977,13 +3977,16 @@ Yüksekokulu kapatılmıştır.
 106
     2/2/2023 tarihli ve 7437 sayılı Kanunun 5 inci maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
 alan “Beykent Üniversitesi” ibareleri “İstanbul Beykent Üniversitesi” şeklinde değiştirilmiştir.
-         a) Fen-Edebiyat Fakültesi,
-         b) İktisadi ve İdari Bilimler Fakültesi,
-         c) Mimarlık Fakültesi,
-         d) Güzel Sanatlar Fakültesi,
-         e) Sosyal Bilimler Enstitüsü,
-         f) Fen Bilimleri Enstitüsünden,
-         Oluşur.
+yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz
+“İstanbul Beykent Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
+       Bu Üniversite, Rektörlüğe bağlı olarak;
+       a) Fen-Edebiyat Fakültesi,
+       b) İktisadi ve İdari Bilimler Fakültesi,
+       c) Mimarlık Fakültesi,
+       d) Güzel Sanatlar Fakültesi,
+       e) Sosyal Bilimler Enstitüsü,
+       f) Fen Bilimleri Enstitüsünden,
+       Oluşur.
 
         Çağ Üniversitesi:107
         Ek Madde 46 – (Ek: 9/7/1997-4282/1 md.)
@@ -3999,7 +4002,8 @@ adıyla yeni bir vakıf üniversitesi kurulmuştur.
         f) Fen Bilimleri Enstitüsünden,
         Oluşur.
 
-         Bahçeşehir Üniversitesi:108109
+        Bahçeşehir Üniversitesi:108109
+
 
 107
     a) 6/11/1997 tarihli ve 97/10212 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk Fakültesi
@@ -4023,12 +4027,6 @@ Bilimleri Fakültesi ile Eğitim Bilimleri Enstitüsü kurulmuştur.
 Fakültesi kurulmuştur.
     e) 8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
 Enstitüsü kurulmuştur.
-    f) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuş, Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa
-Bilimleri Fakültesi, İktisadi ve İdari Bilimler Fakültesinin adı İktisadi, İdari ve Sosyal Bilimler Fakültesi olarak
-değiştirilmiş ve Rektörlük bünyesinde yer alan Fen-Edebiyat Fakültesi kapatılmıştır.
-    g) 6/2/2017 tarihli ve 2017/9889 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
-Fakültesi kurulmuştur.
        Ek Madde 47 – (Ek: 15/1/1998-4324/1 md.)
        İstanbul’da Bahçeşehir Uğur Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf
 yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip
@@ -4044,13 +4042,15 @@ yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tü
 Enstitüsünden;
        Oluşur.
 
-        Haliç Üniversitesi:110
-        Ek Madde 48 – (Ek: 15/1/1998-4324/1 md.)
-        İstanbul’da Bizim Lösemili Çocuklar Vakfı tarafından 2547 sayılı Kanunun vakıf
-yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip
-“Haliç Üniversitesi” adıyla yeni vakıf üniversitesi kurulmuştur.
-       Bu Üniversite, Rektörlüğe bağlı olarak;
+         Haliç Üniversitesi:110
+         Ek Madde 48 – (Ek: 15/1/1998-4324/1 md.)
 
+    f) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
+Yüksekokulu kurulmuş, Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa
+Bilimleri Fakültesi, İktisadi ve İdari Bilimler Fakültesinin adı İktisadi, İdari ve Sosyal Bilimler Fakültesi olarak
+değiştirilmiş ve Rektörlük bünyesinde yer alan Fen-Edebiyat Fakültesi kapatılmıştır.
+    g) 6/2/2017 tarihli ve 2017/9889 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
     ğ) 9/5/2020 tarihli ve 31122 sayılı Resmî Gazete’de yayımlanan 2504 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Eğitim Bilimleri
 Enstitüsü, Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
@@ -4079,22 +4079,24 @@ kapatılmıştır.
     ğ) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
 kapatılmıştır.
-         a) Fen-Edebiyat Fakültesi,
-         b) Tıp Fakültesi,
-         c) Mühendislik Fakültesi,
-         d) İşletme Fakültesi,
-         e) Hemşirelik Yüksekokulu,
-         f) Su Ürünleri Yüksekokulu,
-         g) Beden Eğitimi ve Spor Yüksekokulu,
-         h) Sağlık Bilimleri Enstitüsü,
-         ı) Konservatuar’dan,
-         Oluşur.
+       İstanbul’da Bizim Lösemili Çocuklar Vakfı tarafından 2547 sayılı Kanunun vakıf
+yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğine sahip
+“Haliç Üniversitesi” adıyla yeni vakıf üniversitesi kurulmuştur.
+       Bu Üniversite, Rektörlüğe bağlı olarak;
+       a) Fen-Edebiyat Fakültesi,
+       b) Tıp Fakültesi,
+       c) Mühendislik Fakültesi,
+       d) İşletme Fakültesi,
+       e) Hemşirelik Yüksekokulu,
+       f) Su Ürünleri Yüksekokulu,
+       g) Beden Eğitimi ve Spor Yüksekokulu,
+       h) Sağlık Bilimleri Enstitüsü,
+       ı) Konservatuar’dan,
+       Oluşur.
 
-       İstanbul Okan Üniversitesi:111112
-       Ek Madde 49 – (Ek: 15/12/1999-4488/2 md.)
-       İstanbul’da Okan Kültür Eğitim ve Spor Vakfı tarafından 2547 sayılı Kanunun vakıf
-yüksek öğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine sahip
-“İstanbul Okan Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
+         İstanbul Okan Üniversitesi:111112
+
+
 111
     9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
 alan “Okan Üniversitesi” ibareleri “İstanbul Okan Üniversitesi” şeklinde değiştirilmiştir.
@@ -4130,17 +4132,19 @@ inci maddesiyle, Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü k
 Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü, Sosyal Bilimler Enstitüsü kapatılmıştır.
     l) 21/5/2021 tarihli ve 31487 sayılı Resmî Gazete’de yayımlanan 4000 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
-    m) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Eczacılık Fakültesi kurulmuştur.
-        Bu Üniversite, Rektörlüğe bağlı olarak;
-        a) Fen-Edebiyat Fakültesi,
-        b) Mühendislik Fakültesi,
-        c) İktisadi ve İdari Bilimler Fakültesi,
-        d) Uygulamalı Bilimler Yüksekokulu,
-        e) Meslek Yüksekokulu,
-        f) Sosyal Bilimler Enstitüsü,
-        g) Fen Bilimleri Enstitüsünden,
-        Oluşur.
+       Ek Madde 49 – (Ek: 15/12/1999-4488/2 md.)
+       İstanbul’da Okan Kültür Eğitim ve Spor Vakfı tarafından 2547 sayılı Kanunun vakıf
+yüksek öğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine sahip
+“İstanbul Okan Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
+       Bu Üniversite, Rektörlüğe bağlı olarak;
+       a) Fen-Edebiyat Fakültesi,
+       b) Mühendislik Fakültesi,
+       c) İktisadi ve İdari Bilimler Fakültesi,
+       d) Uygulamalı Bilimler Yüksekokulu,
+       e) Meslek Yüksekokulu,
+       f) Sosyal Bilimler Enstitüsü,
+       g) Fen Bilimleri Enstitüsünden,
+       Oluşur.
 
        Ufuk Üniversitesi:113
        Ek Madde 50 – (Ek: 15/12/1999-4488/2 md.)
@@ -4161,13 +4165,10 @@ sahip “Ufuk Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştu
        j) Fen Bilimleri Enstitüsü,
        k) Sağlık Bilimleri Enstitüsü,
        l) Kazaları Araştırma ve Önleme Enstitüsünden,
-       Oluşur.
 
-      Ek Madde 51 – (Ek: 15/12/1999-4488/2 md.)
-      28.3.1983 tarihli ve 2809 sayılı “Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı
-Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanunun” adı “Yükseköğretim
-Kurumları Teşkilatı Kanunu” şeklinde değiştirilmiştir.
 
+    m) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Eczacılık Fakültesi kurulmuştur.
 113
     a) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
 Fakültesi kurulmuştur.
@@ -4176,7 +4177,13 @@ Mimarlık Fakültesi kurulmuştur.
 114
     25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’ de yayımlanan 1157 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olan Uygulamalı Yabancı Diller Yüksekokulunun adı Yabancı Diller Yüksekokulu olarak değiştirilmiştir.
-     Çeşitli mevzuatlarda “Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun
+        Oluşur.
+
+      Ek Madde 51 – (Ek: 15/12/1999-4488/2 md.)
+      28.3.1983 tarihli ve 2809 sayılı “Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı
+Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanunun” adı “Yükseköğretim
+Kurumları Teşkilatı Kanunu” şeklinde değiştirilmiştir.
+      Çeşitli mevzuatlarda “Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun
 Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanuna” yapılmış atıflar “Yükseköğretim
 Kurumları Teşkilatı Kanununa” yapılmış sayılır.
 
@@ -4197,8 +4204,7 @@ Yaşar Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
        i) Sosyal Bilimler Enstitüsünden,
        Oluşur.
 
-         İstanbul Ticaret Üniversitesi:116
-
+        İstanbul Ticaret Üniversitesi:116
 
 115
     a) 9/7/2007 tarihli ve 2007/12479 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
@@ -4218,15 +4224,6 @@ maddesiyle, Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulm
 Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
      g) 17/9/2026 tarihli ve 33373 sayılı Resmî Gazete’de yayımlanan 11788 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan İktisadi ve İdari Bilimler Fakültesi ile Fen-Edebiyat Fakültesi kapatılmıştır.
-116
-    a) 24/5/2012 tarihli ve 2012/3246 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Uygulamalı Bilimler
-Fakültesi kurulmuştur.
-     b) 30/9/2014 tarihli ve 2014/6854 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Finans
-Enstitüsü kurulmuştur.
-     c) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-
-Edebiyat Fakültesinin adı İnsan ve Toplum Bilimleri Fakültesi, Mühendislik ve Tasarım Fakültesinin adı
-Mühendislik Fakültesi, Ticari Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiş olup, Rektörlüğe
-bağlı olarak Mimarlık ve Tasarım Fakültesi kurulmuştur.
         Ek Madde 53 – (Ek: 29/3/2001-4633/5 md.)
         İstanbul’da İstanbul Ticaret Odası Eğitim ve Sosyal Hizmetler Vakfı tarafından 2547
 sayılı Kanunun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu
@@ -4243,10 +4240,18 @@ tüzel kişiliğine sahip İstanbul Ticaret Üniversitesi adıyla bir vakıf ün
         i) Dış Ticaret Enstitüsünden,
         Oluşur.
 
-        İzmir Ekonomi Üniversitesi:117
+         İzmir Ekonomi Üniversitesi:117
 
 
-
+116
+    a) 24/5/2012 tarihli ve 2012/3246 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Uygulamalı Bilimler
+Fakültesi kurulmuştur.
+    b) 30/9/2014 tarihli ve 2014/6854 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Finans
+Enstitüsü kurulmuştur.
+    c) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-
+Edebiyat Fakültesinin adı İnsan ve Toplum Bilimleri Fakültesi, Mühendislik ve Tasarım Fakültesinin adı
+Mühendislik Fakültesi, Ticari Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiş olup, Rektörlüğe
+bağlı olarak Mimarlık ve Tasarım Fakültesi kurulmuştur.
     ç) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Uygulamalı
 Bilimler Fakültesi kapatılmıştır.
     d) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
@@ -4272,14 +4277,6 @@ Desinatörlük Yüksekokulunun adı Uygulamalı Yönetim Bilimleri Yüksekokulu 
 ve Gıda Bilimleri Fakültesi kurulmuştur.
     ç) 24/2/2010 tarihli ve 2010/221 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Bilgisayar
 Bilimleri Fakültesinin adı Mühendislik ve Bilgisayar Bilimleri Fakültesi olarak değiştirilmiştir.
-    d) 12/7/2010 tarihli ve 2010/723 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hukuk Fakültesi
-kurulmuştur.
-    e) 10/9/2012 tarihli ve 2012/3703 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Fakültesi kurulmuştur.
-    f) 8/4/2013 tarihli ve 2013/4620 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İktisadi ve
-İdari Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiştir.
-    g) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
-kurulmuştur.
         Ek Madde 54 – (Ek: 29/3/2001-4633/5 md.)
         İzmir’de İzmir Ticaret Odası Eğitim ve Sağlık Vakfı tarafından 2547 sayılı Kanunun
 vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine
@@ -4297,13 +4294,16 @@ sahip İzmir Ekonomi Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur
         j) Fen Bilimleri Enstitüsünden,
         Oluşur.
 
-         TOBB Ekonomi ve Teknoloji Üniversitesi:118
-         Ek Madde 55 – (Ek: 26/6/2003-4909/1 md.)
-         Ankara’da Türkiye Odalar ve Borsalar Eğitim ve Kültür Vakfı tarafından 2547 sayılı
-Kanunun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere, kamu tüzel
-kişiliğine sahip TOBB Ekonomi ve Teknoloji Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
-         Bu Üniversite, Rektörlüğe bağlı olarak;
+        TOBB Ekonomi ve Teknoloji Üniversitesi:118
 
+    d) 12/7/2010 tarihli ve 2010/723 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hukuk Fakültesi
+kurulmuştur.
+    e) 10/9/2012 tarihli ve 2012/3703 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Fakültesi kurulmuştur.
+    f) 8/4/2013 tarihli ve 2013/4620 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İktisadi ve
+İdari Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiştir.
+    g) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
+kurulmuştur.
     ğ) 16/3/2015 tarihli ve 2015/7438 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İşletme Enstitüsü
 kurulmuştur.
     h) 14/11/2016 tarihli ve 2016/9528 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik ve
@@ -4328,46 +4328,52 @@ Sanatlar, Tasarım ve Mimarlık Fakültesinin adı Mimarlık ve Tasarım Fakült
    f) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan Güzel Sanatlar, Tasarım ve Mimarlık Fakültesinin adı Mimarlık ve Tasarım Fakültesi
 olarak değiştirilmiştir.
-        a) Fen-Edebiyat Fakültesi,
-        b) İktisadî ve İdarî Bilimler Fakültesi,
-        c) Mühendislik Fakültesi,
-        d) Sosyal Bilimler Enstitüsü,
-        e) Fen Bilimleri Enstitüsünden,
-        f) (Ek: 19/2/2009-5839/1 md.) Ankara ve kalkınmada öncelikli yöreler öncelikli
+         Ek Madde 55 – (Ek: 26/6/2003-4909/1 md.)
+         Ankara’da Türkiye Odalar ve Borsalar Eğitim ve Kültür Vakfı tarafından 2547 sayılı
+Kanunun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere, kamu tüzel
+kişiliğine sahip TOBB Ekonomi ve Teknoloji Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
+         Bu Üniversite, Rektörlüğe bağlı olarak;
+         a) Fen-Edebiyat Fakültesi,
+         b) İktisadî ve İdarî Bilimler Fakültesi,
+         c) Mühendislik Fakültesi,
+         d) Sosyal Bilimler Enstitüsü,
+         e) Fen Bilimleri Enstitüsünden,
+         f) (Ek: 19/2/2009-5839/1 md.) Ankara ve kalkınmada öncelikli yöreler öncelikli
 olmak üzere, Milli Eğitim Bakanlığı ile TOBB Ekonomi ve Teknoloji Üniversitesi tarafından
 birlikte tespit edilecek illerdeki eğitim bilimleri enstitülerinden,
-        Oluşur.
-        (Ek fıkra: 19/2/2009-5839/1 md.) İkinci fıkranın (f) bendinde belirtilen eğitim bilimleri
+         Oluşur.
+         (Ek fıkra: 19/2/2009-5839/1 md.) İkinci fıkranın (f) bendinde belirtilen eğitim bilimleri
 enstitüleri, kampüslerinde uluslararası yüksek kalite ve standartlara sahip eğitim merkezi olmak
 amacıyla kurulabilecek 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa tâbi
 ilk ve ortaöğretim okullarını laboratuvar okulları olarak kullanır. Kampüslerde açılacak
 ortaöğretim kurumları fen lisesi statüsünde eğitim verirler. Ankara’daki laboratuvar okulu ile
 TOBB Ekonomi ve Teknoloji Üniversitesinin fakülteleri, enstitüleri ve diğer birimlerinin
 öğrencileri ve öğretmenleri müşterek akademik ve sosyal çalışmalarda bulunur.
-        (Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullardaki öğretmenler, kampüslerindeki
+         (Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullardaki öğretmenler, kampüslerindeki
 eğitim bilimleri enstitüsünde yükseklisans veya doktora öğrencisi olabileceği gibi, eğitim bilimleri
 enstitüsü öğretim elemanları da laboratuvar okullarında öğretmenlik yapabilir.
-        (Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullarında onuncu sınıftan onbirinci sınıfa
+         (Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullarında onuncu sınıftan onbirinci sınıfa
 geçişte, TOBB Ekonomi ve Teknoloji Üniversitesi Senatosu tarafından belirlenecek ve Milli
 Eğitim Bakanlığınca kabul edilerek onaylanacak uluslararası sınavlarda başarılı olma şartı aranır.
 Bu liselerden mezun olabilmek için uluslararası bakalorya diploması alınması da gereklidir.
-        (Ek fıkra: 19/2/2009-5839/1 md.) TOBB Ekonomi ve Teknoloji Üniversitesinin
+         (Ek fıkra: 19/2/2009-5839/1 md.) TOBB Ekonomi ve Teknoloji Üniversitesinin
 eğitim bilimleri enstitülerine bağlı olarak kurulacak kampüslerdeki laboratuvar okullarında
 öğrenim gören öğrencilerin en az yüzde yetmişinin burslu olması zorunludur. Bu kampüslerde
 eğitim ve araştırma bilimleri ile sağlık merkezi, lojmanlar, misafirhaneler gibi her türlü tesisin
 kurulması ve işletilmesiyle ilgili ücretler dâhil her türlü giderler ile okullarda burslu okuyacak
 öğrencilere sağlanacak burslar;
-        a) TOBB Ekonomi ve Teknoloji Üniversitesi ve Üniversitenin kampüslerinde bulunan
+         a) TOBB Ekonomi ve Teknoloji Üniversitesi ve Üniversitenin kampüslerinde bulunan
 okulların tüm personelinin ücretlerinden, bu Kanunun yürürlüğe girdiği tarihi takip eden
 aybaşından itibaren yirmibeş yıl süre ile kesilecek gelir vergisi tutarının özel bir hesaba
 aktarılmasıyla oluşan kaynaktan,
-        b) Burssuz öğrencilerden alınacak eğitim ücretlerinden,
-        c) TOBB Ekonomi ve Teknoloji Üniversitesinin temin veya kabul edeceği diğer gelir
+         b) Burssuz öğrencilerden alınacak eğitim ücretlerinden,
+        c) TOBB Ekonomi ve Teknoloji Üniversitesinin temin veya kabul edeceği diğer gelir
 kaynakları ile bağışlardan,
         karşılanır. (a) bendinde belirtilen özel hesabın oluşturulması, kullanımı ve denetimine
 ilişkin usul ve esaslar, Maliye ve Milli Eğitim bakanlıkları ile TOBB Ekonomi ve Teknoloji
 Üniversitesince birlikte hazırlanacak yönetmelikle düzenlenir.
-        Kırşehir Ahi Evran Üniversitesi:119120121
+
+        Kırşehir Ahi Evran Üniversitesi:119120121
         Ek Madde 56 – (Ek: 1/3/2006-5467/1 md.)
         Kırşehir’de Kırşehir Ahi Evran Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 üniversite;
@@ -4387,8 +4393,7 @@ Yüksekokulu ile Çiçekdağı Meslek Yüksekokulundan,
 Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
         oluşur.
 
-         Kastamonu Üniversitesi:122
-
+        Kastamonu Üniversitesi:122
 119
     17/5/2007 tarihli ve 5662 sayılı Kanunun 3 üncü maddesiyle; (a) bendinin başına "Rektörlüğe bağlı olarak
 yeni kurulan Tıp Fakültesi ile" ibaresi eklenmiştir.
@@ -4412,15 +4417,6 @@ Spor Yüksekokulu kapatılmıştır.
     f) 25/5/2024 tarihli ve 32556 sayılı Resmî Gazete’de yayımlanan 8528 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İlahiyat Fakültesi kurulmuş, Rektörlük bünyesinde yer alan İslami İlimler Fakültesi
 kapatılmıştır.
-122
-    a) 22/9/2008 tarihli ve 2008/14190 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve İdari
-İlimler Fakültesi kurulmuştur.
-    b) 25/2/2009 tarihli ve 2009/14695 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm İşletmeciliği
-ve Otelcilik Yüksekokulu kurulmuştur.
-    c) 21/1/2010 tarihli ve 2010/65 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Sağlık
-Yüksekokulunun adı Fazıl Boyner Sağlık Yüksekokulu olarak değiştirilmiştir.
-    ç) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi
-kurulmuştur.
         Ek Madde 57 – (Ek: 1/3/2006-5467/1 md.)
         Kastamonu'da Kastamonu Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Gazi Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
@@ -4436,9 +4432,17 @@ bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan İhsangaz
 Enstitüsünden,
         oluşur.
 
-        Düzce Üniversitesi:123
 
 
+122
+    a) 22/9/2008 tarihli ve 2008/14190 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve İdari
+İlimler Fakültesi kurulmuştur.
+    b) 25/2/2009 tarihli ve 2009/14695 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm İşletmeciliği
+ve Otelcilik Yüksekokulu kurulmuştur.
+    c) 21/1/2010 tarihli ve 2010/65 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Sağlık
+Yüksekokulunun adı Fazıl Boyner Sağlık Yüksekokulu olarak değiştirilmiştir.
+    ç) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi
+kurulmuştur.
     d) 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik ve
 Mimarlık Fakültesi ile İlahiyat Fakültesi kurulmuştur.
     e) 13/8/2012 tarihli ve 2012/3643 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İnebolu
@@ -4471,14 +4475,8 @@ bünyesinde yer alan Kastamonu Tıp Fakültesinin adı Tıp Fakültesi olarak de
     o) 14/7/2025 tarihli ve 32956 sayılı Resmî Gazete’de yayımlanan 10073 sayılı Cumhurbaşkanı Kararı ile
 Üniversiteye bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri
 Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
-123
-    a) 28/4/2008 tarihli ve 2008/13603 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik
-Fakültesi kurulmuştur.
-    b) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Teknik
-Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
-    c) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İşletme Fakültesi,
-Sanat ve Tasarım Fakültesi kurulmuştur.
-        Ek Madde 58 – (Ek: 1/3/2006-5467/1 md.)
+        Düzce Üniversitesi:123
+        Ek Madde 58 – (Ek: 1/3/2006-5467/1 md.)
         Düzce'de Düzce Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi ile Abant İzzet Baysal
 Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe
@@ -4489,11 +4487,14 @@ Otelcilik Yüksekokulundan,
         c) Abant İzzet Baysal Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu ile Akçakoca Meslek Yüksekokulundan,
         d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
-Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
-        oluşur.
 
-        Burdur Mehmet Akif Ersoy Üniversitesi:124125
-
+123
+    a) 28/4/2008 tarihli ve 2008/13603 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik
+Fakültesi kurulmuştur.
+    b) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Teknik
+Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
+    c) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İşletme Fakültesi,
+Sanat ve Tasarım Fakültesi kurulmuştur.
     ç) 28/7/2010 tarihli ve 2010/776 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
 Yüksekokulu kurulmuş, daha sonra 16/1/2012 tarihli ve 2012/2732 sayılı Bakanlar Kurulu kararı ile bu
 yüksekokulun adı Hakime Erciyas Yabancı Diller Yüksekokulu olarak değiştirilmiştir.
@@ -4529,24 +4530,22 @@ Rektörlüğe bağlı olan Ziraat ve Doğa Bilimleri Fakültesinin adı Ziraat F
     ö) 1/7/2025 tarihli ve 32943 sayılı Resmî Gazete’de yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Akçakoca Turizm İşletmeciliği ve
 Otelcilik Yüksekokulu kapatılmıştır.
-124
-    9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer alan
-“Mehmet Akif Ersoy Üniversitesi” ibareleri “Burdur Mehmet Akif Ersoy Üniversitesi” şeklinde değiştirilmiştir.
-        Ek Madde 59 – (Ek: 1/3/2006-5467/1 md.)
-        Burdur’da Burdur Mehmet Akif Ersoy Üniversitesi Adıyla yeni bir üniversite kurulmuştur.
+Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
+       oluşur.
+
+       Burdur Mehmet Akif Ersoy Üniversitesi:124125
+       Ek Madde 59 – (Ek: 1/3/2006-5467/1 md.)
+       Burdur’da Burdur Mehmet Akif Ersoy Üniversitesi Adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
-        a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Akdeniz Üniversitesi
+       a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, Akdeniz Üniversitesi
 Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan
 Veteriner Fakültesi ile Süleyman Demirel Üniversitesi Rektörlüğüne bağlı iken adı ve
 bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Eğitim Fakültesinden,
-        b) Süleyman Demirel Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
-        c) Süleyman Demirel Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı
-değiştirilerek oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Bucak Hikmet Tolunay
-Meslek Yüksekokulu, Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu, Gölhisar
-Meslek Yüksekokulu ile Ağlasun Meslek Yüksekokulundan,
+       b) Süleyman Demirel Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 
-
+124
+    9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer alan
+“Mehmet Akif Ersoy Üniversitesi” ibareleri “Burdur Mehmet Akif Ersoy Üniversitesi” şeklinde değiştirilmiştir.
 125
     a) 4/9/2007 tarihli ve 2007/12583 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Bucak Zeliha
 Tolunay Uygulamalı Teknoloji ve İşletmecilik Yüksekokulu kurulmuştur.
@@ -4586,22 +4585,22 @@ Yüksekokulu kapatılmıştır.
 Rektörlüğe bağlı olarak Tıp Fakültesi kurulmuştur.
     o) 30/10/2026 tarihli ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Tarım ve Hayvancılık Teknolojileri Estitüsü kurulmuştur.
-       d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
+oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
+        c) Süleyman Demirel Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı
+değiştirilerek oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Bucak Hikmet Tolunay
+Meslek Yüksekokulu, Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu, Gölhisar
+Meslek Yüksekokulu ile Ağlasun Meslek Yüksekokulundan,
+        d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
 Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
-       oluşur.
+        oluşur.
 
-        Uşak Üniversitesi:126
-        Ek Madde 60 – (Ek: 1/3/2006-5467/1 md.)
-        Uşak'ta Uşak Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
-        a) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+       Uşak Üniversitesi:126
+       Ek Madde 60 – (Ek: 1/3/2006-5467/1 md.)
+       Uşak'ta Uşak Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
+       a) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, Eğitim Fakültesi, Mühendislik
 Fakültesi ile İktisadî ve İdarî Bilimler Fakültesinden,
-        b) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
-        c) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Banaz Meslek Yüksekokulu, Eşme
-Meslek Yüksekokulu, Karahallı Meslek Yüksekokulu, Sivaslı Meslek Yüksekokulu ile Ulubey
-Meslek Yüksekokulundan,
+
 126
     a) 19/9/2007 tarihli ve 2007/12631 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
 Fakültesi kurulmuştur.
@@ -4639,18 +4638,18 @@ maddesiyle, Rektörlüğe bağlı olan Ziraat ve Doğa Bilimleri Fakültesinin a
 bağlı olan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
     m) 20/9/2024 tarihli ve 32668 sayılı Resmî Gazete’de yayımlanan 8991 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan İslami İlimler Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
-       d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
+        b) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
+        c) Afyon Kocatepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Banaz Meslek Yüksekokulu, Eşme
+Meslek Yüksekokulu, Karahallı Meslek Yüksekokulu, Sivaslı Meslek Yüksekokulu ile Ulubey
+Meslek Yüksekokulundan,
+        d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
 Enstitüsünden,
-       oluşur.
+        oluşur.
 
-       Recep Tayyip Erdoğan Üniversitesi:127128129
-       Ek Madde 61 – (Ek: 1/3/2006-5467/1 md.)
-       Rize'de Recep Tayyip Erdoğan Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
-üniversite;
-       a) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, Eğitim Fakültesi, İlâhiyat Fakültesi,
-Su Ürünleri Fakültesi ile yeni kurulan Tıp Fakültesinden,
-
+         Recep Tayyip Erdoğan Üniversitesi:127128129
+         Ek Madde 61 – (Ek: 1/3/2006-5467/1 md.)
 
 127
     30/3/2012 tarihli ve 6287 sayılı Kanunun 19 uncu maddesiyle bu maddenin “Rize Üniversitesi” olan başlığı iken
@@ -4699,7 +4698,12 @@ Fakültesi kapatılmıştır.
     30/6/2020 tarihli ve 31171 sayılı Resmî Gazete’de yayımlanan 2704 sayılı Cumhurbaşkanı Kararının 2 nci
 maddesi ile, Rektörlüğe bağlı olan Mühendislik Fakültesi ile Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi;
 Mühendislik ve Mimarlık Fakültesi adı altında birleştirilmiştir.
-        b) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+        Rize'de Recep Tayyip Erdoğan Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
+üniversite;
+        a) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, Eğitim Fakültesi, İlâhiyat Fakültesi,
+Su Ürünleri Fakültesi ile yeni kurulan Tıp Fakültesinden,
+        b) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
         c) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Ardeşen Meslek Yüksekokulu ile Fındıklı
@@ -4718,11 +4722,6 @@ rektörlüğe bağlanan Ziraat Fakültesi ile Çorlu Mühendislik Fakültesinden
         b) Trakya Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
 ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
         c) Trakya Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
-ve rektörlüğe bağlanan Meslek Yüksekokulu, Çorlu Meslek Yüksekokulu, Çerkezköy Meslek
-Yüksekokulu, Hayrabolu Meslek Yüksekokulu, Malkara Meslek Yüksekokulu, Marmara Ereğlisi
-Meslek Yüksekokulu, Muratlı Meslek Yüksekokulu, Saray Meslek Yüksekokulu ile Şarköy
-Meslek Yüksekokulundan,
-        d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü
 
 130
     9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
@@ -4748,18 +4747,18 @@ Spor Yüksekokulu kapatılmıştır.
     ğ) 10/12/2022 tarihli ve 32039 sayılı Resmî Gazete’de yayımlanan 6498 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Sağlık Yüksekokulu
 kapatılmıştır.
-ile Sağlık Bilimleri Enstitüsünden,
+ve rektörlüğe bağlanan Meslek Yüksekokulu, Çorlu Meslek Yüksekokulu, Çerkezköy Meslek
+Yüksekokulu, Hayrabolu Meslek Yüksekokulu, Malkara Meslek Yüksekokulu, Marmara Ereğlisi
+Meslek Yüksekokulu, Muratlı Meslek Yüksekokulu, Saray Meslek Yüksekokulu ile Şarköy
+Meslek Yüksekokulundan,
+        d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü
+ile Sağlık Bilimleri Enstitüsünden,
         oluşur.
 
        Erzincan Binali Yıldırım Üniversitesi:132133134
        Ek Madde 63 – (Ek: 1/3/2006-5467/1 md.)
        Erzincan'da Erzincan Binali Yıldırım Üniversitesi adıyla yeni bir üniversite kurulmuştur.
 Bu üniversite;
-       a) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, Eğitim Fakültesi ile Hukuk
-Fakültesinden ile yeni kurulan Tıp Fakültesinden,
-       b) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
 
 132
     17/5/2007 tarihli ve 5662 sayılı Kanunun 4 üncü maddesiyle; bu maddenin (a) bendinin sonuna “ile yeni
@@ -4805,7 +4804,12 @@ Fakültesi kapatılmıştır.
 Rektörlüğe bağlı olarak Deprem Teknolojileri Enstitüsü kurulmuştur.
     n) 16/5/2025 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Yabancı Diller ve Turizm Fakültesi kurulmuştur.
-       c) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+       a) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, Eğitim Fakültesi ile Hukuk
+Fakültesinden ile yeni kurulan Tıp Fakültesinden,
+       b) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
+       c) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, İlahiyat Meslek Yüksekokulu,
 Refahiye Meslek Yüksekokulu, Kelkit Aydın Doğan Meslek Yüksekokulu ve Tercan Meslek
 Yüksekokulu ile Fırat Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
@@ -4819,11 +4823,6 @@ Enstitüsü, Fen Bilimleri Enstitüsünden,
         Aksaray'da Aksaray Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Niğde Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
 ve rektörlüğe bağlanan Fen-Edebiyat Fakültesi, İktisadî ve İdarî Bilimler Fakültesi, Mühendislik
-Fakültesi ile Eğitim Fakültesinden,
-        b) Niğde Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
-ve rektörlüğe bağlanan Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulundan,
-        c) Niğde Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
-ve rektörlüğe bağlanan Meslek Yüksekokulu, Sağlık Hizmetleri Meslek Yüksekokulu, Ortaköy
 
 135
     a) 27/9/2010 tarihli ve 2010/934 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde Şereflikoçhisar
@@ -4857,10 +4856,15 @@ Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
 Rektörlüğe bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.
     k) 7/3/2026 tarihli ve 33189 sayılı Resmî Gazete’ de yayımlanan 11003 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan İslami İlimler Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
-Meslek Yüksekokulu ile Şereflikoçhisar Berat Cömertoğlu Meslek Yüksekokulundan,
-       d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
+Fakültesi ile Eğitim Fakültesinden,
+        b) Niğde Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
+ve rektörlüğe bağlanan Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulundan,
+        c) Niğde Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
+ve rektörlüğe bağlanan Meslek Yüksekokulu, Sağlık Hizmetleri Meslek Yüksekokulu, Ortaköy
+Meslek Yüksekokulu ile Şereflikoçhisar Berat Cömertoğlu Meslek Yüksekokulundan,
+        d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
 Enstitüsünden,
-       oluşur.
+        oluşur.
 
         Giresun Üniversitesi:136137
         Ek Madde 65 – (Ek: 1/3/2006-5467/1 md.)
@@ -4871,11 +4875,6 @@ Edebiyat Fakültesi, İktisadî ve İdarî Bilimler Fakültesi ile Eğitim Fakü
         b) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
         c) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu ve Tirebolu Meslek Yüksekokulu ile
-Cumhuriyet Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve
-rektörlüğe bağlanan Alucra Meslek Yüksekokulu ve Şebinkarahisar Meslek Yüksekokulundan,
-        d) (Değişik: 17/5/2007-5662/5 md.) Rektörlüğe bağlı olarak yeni kurulan Sosyal
-Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
 136
     17/5/2007 tarihli ve 5662 sayılı Kanunun 5 inci maddesiyle bu maddenin (a) bendinin başına “Rektörlüğe
 bağlı olarak yeni kurulan Tıp Fakültesi ile” ibaresi eklenmiştir.
@@ -4909,7 +4908,12 @@ Fakültesi kurulmuştur.
 Fakültesi kurulmuştur.
     k) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan İslami İlimler Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
-        oluşur.
+oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu ve Tirebolu Meslek Yüksekokulu ile
+Cumhuriyet Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve
+rektörlüğe bağlanan Alucra Meslek Yüksekokulu ve Şebinkarahisar Meslek Yüksekokulundan,
+        d) (Değişik: 17/5/2007-5662/5 md.) Rektörlüğe bağlı olarak yeni kurulan Sosyal
+Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
+        oluşur.
 
         Hitit Üniversitesi:138
         Ek Madde 66 – (Ek: 1/3/2006-5467/1 md.)
@@ -4927,7 +4931,6 @@ Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
         oluşur.
 
         Yozgat Bozok Üniversitesi:139140141
-
 
 138
     a) 10/4/2009 tarihli ve 2009/14934 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi
@@ -4960,12 +4963,6 @@ alan “Bozok Üniversitesi” ibareleri “Yozgat Bozok Üniversitesi” şekli
 kurulmuştur.
     b) 2/2/2009 tarihli ve 2009/14641 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim Fakültesi
 ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
-    c) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
-Spor Yüksekokulu kurulmuştur.
-    ç) 13/9/2010 tarihli ve 2010/898 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi
-kurulmuştur.
-    d) 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hayvansal
-Üretim Yüksekokulu kurulmuştur.
         Ek Madde 67 – (Ek: 1/3/2006-5467/1 md.)
         Yozgat’ta Yozgat Bozok Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Tıp Fakültesi ile Erciyes Üniversitesi
@@ -4985,6 +4982,12 @@ Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüs�
         Adıyaman Üniversitesi:142
 
 
+    c) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
+Spor Yüksekokulu kurulmuştur.
+    ç) 13/9/2010 tarihli ve 2010/898 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi
+kurulmuştur.
+    d) 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hayvansal
+Üretim Yüksekokulu kurulmuştur.
     e) 13/8/2012 tarihli ve 2012/3640 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Ziraat
 Fakültesinin adı Tarım ve Doğa Bilimleri Fakültesi olarak değiştirilmiş, 16/2/2016 tarihli ve 2016/8555 sayılı
 Bakanlar Kurulu Kararı ile bu Fakültenin adı Ziraat Fakültesi olarak değiştirilmiştir.
@@ -5013,12 +5016,6 @@ Enstitüsü, Sosyal Bilimler Enstitüsü ve Sağlık Bilimleri Enstitüsü kapat
 kurulmuştur.
     b) 7/4/2008 tarihli ve 2008/13497 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve İdari
 Bilimler Fakültesi ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
-    c) 24/8/2009 tarihli ve 2009/15399 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
-Fakültesi kurulmuştur.
-    ç) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mesleki
-ve Teknik Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
-    d) 7/5/2010 tarihli ve 2010/430 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık
-Fakültesi kurulmuştur.
         Ek Madde 68 – (Ek: 1/3/2006-5467/1 md.)
         Adıyaman'da Adıyaman Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Gaziantep Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
@@ -5039,6 +5036,12 @@ Enstitüsünden,
         Ordu Üniversitesi:143
 
 
+    c) 24/8/2009 tarihli ve 2009/15399 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
+Fakültesi kurulmuştur.
+    ç) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mesleki
+ve Teknik Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
+    d) 7/5/2010 tarihli ve 2010/430 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık
+Fakültesi kurulmuştur.
     e) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
 Fakültesi, Sağlık Bilimleri Enstitüsü, Eczacılık Fakültesi, Diş Hekimliği Fakültesi ve Yabancı Diller Yüksekokulu
 kurulmuştur.
@@ -5068,12 +5071,6 @@ bağlı olarak İlahiyat Fakültesi kurulmuş, Rektörlük bünyesinde yer alan 
 Fakültesi ile Güzel Sanatlar Fakültesi kurulmuştur.
     b) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
 Spor Yüksekokulu kurulmuştur.
-    c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi
-ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
-    ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
-Fakültesi kurulmuştur.
-    d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Müzik ve Sahne
-Sanatları Fakültesi kurulmuştur.
         Ek Madde 69 – (Ek: 1/3/2006-5467/1 md.)
         Ordu'da Ordu Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
@@ -5095,6 +5092,12 @@ Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
 
 
 
+    c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi
+ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
+    ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
+Fakültesi kurulmuştur.
+    d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Müzik ve Sahne
+Sanatları Fakültesi kurulmuştur.
     e) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
 Fakültesi, Turizm Fakültesi ile Yabancı Diller Yüksekokulu kurulmuş ve Rektörlük bünyesinde yer alan Sağlık
 Yüksekokulu ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kapatılmıştır.
@@ -5121,11 +5124,6 @@ Enstitüsü kurulmuştur.
     g) 21/5/2021 tarihli ve 31487 sayılı Resmî Gazete’ de yayımlanan 4000 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Mühendislik-Mimarlık Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Teknoloji
 Fakültesi kapatılmıştır.
-    ğ) 4/3/2022 tarihli ve 31768 sayılı Resmi Gazete’de yayımlanan 5252 sayılı Cumhurbaşkanı Kararı ile
-Rektörlük bünyesinde yer alan Mühendislik-Mimarlık Fakültesinin adı Mühendislik Fakültesi olarak
-değiştirilmiştir.
-    h) 16/12/2023 tarihli ve 32401 sayılı Resmî Gazete’ de yayımlanan 7956 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Güzel Sanatlar Fakültesi kurulmuştur.
         Ek Madde 70 – (Ek: 1/3/2006-5467/1 md.)
         Amasya'da Amasya Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Ondokuz Mayıs Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
@@ -5151,10 +5149,12 @@ kurulmuştur.146
 bağlanan Tıp Fakültesinden,
         b) Kadir Has Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Florance Nightingale Hastanesi Hemşirelik Yüksekokulundan,
-        c) Kadir Has Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Sağlık Hizmetleri Meslek Yüksekokulundan,
-        d) Kadir Has Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 
+    ğ) 4/3/2022 tarihli ve 31768 sayılı Resmi Gazete’de yayımlanan 5252 sayılı Cumhurbaşkanı Kararı ile
+Rektörlük bünyesinde yer alan Mühendislik-Mimarlık Fakültesinin adı Mühendislik Fakültesi olarak
+değiştirilmiştir.
+    h) 16/12/2023 tarihli ve 32401 sayılı Resmî Gazete’ de yayımlanan 7956 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Güzel Sanatlar Fakültesi kurulmuştur.
     ı) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan Güzel Sanatlar Fakültesinin adı Hattat Hamdullah Güzel Sanatlar Fakültesi olarak
 değiştirilmiştir.
@@ -5175,7 +5175,10 @@ Rektörlüğe bağlı olarak İşletme ve Yönetim Bilimleri Fakültesi kurulmu�
     17/1/2019 tarihli ve 7161 sayılı Kanunun 13 üncü maddesiyle madde başlığında ve birinci fıkrada yer alan
 “İstanbul Bilim Üniversitesi” ibareleri “Demiroğlu Bilim Üniversitesi” şeklinde ve birinci fıkrada yer alan
 “Türk Kardiyoloji Vakfı” ibaresi “Prof. Dr. Cemi Demiroğlu Türk Kardiyoloji Vakfı” şeklinde değiştirilmiştir.
-oluşturulan ve rektörlüğe bağlanan Sağlık Bilimleri Enstitüsünden,
+       c) Kadir Has Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Sağlık Hizmetleri Meslek Yüksekokulundan,
+       d) Kadir Has Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Sağlık Bilimleri Enstitüsünden,
        oluşur.
 
        Özyeğin Üniversitesi:147
@@ -5194,6 +5197,7 @@ sahip Özyeğin Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
         oluşur.
 
         İstanbul Aydın Üniversitesi:148
+
 
 
 147
@@ -5222,11 +5226,6 @@ kurulmuştur.
 kurulmuştur.
     c) 8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
 Fakültesi kurulmuştur.
-    ç) 22/4/2013 tarihli ve 2013/4696 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan
-Mühendislik-Mimarlık Fakültesinin adı Mühendislik Fakültesi olarak değiştirilmiş ve Rektörlüğe bağlı
-olarak Mimarlık ve Tasarım Fakültesi ile Sağlık Bilimleri Enstitüsü kurulmuştur.
-    d) 6/7/2015 tarihli ve 2015/7916 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
-kurulmuştur.
         Ek Madde 73 – (Ek: 9/5/2007-5656/1 md.)
         İstanbul’da Anadolu Eğitim ve Kültür Vakfı tarafından 2547 sayılı Yükseköğretim
 Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere kamu
@@ -5245,9 +5244,14 @@ tüzel kişiliğine sahip İstanbul Aydın Üniversitesi adıyla bir vakıf üni
         oluşur.
 
         Acıbadem Mehmet Ali Aydınlar Üniversitesi:149150
-        Ek Madde 74 – (Ek: 9/5/2007-5656/1 md.)
-        İstanbul’da Acıbadem Eğitim ve Sağlık Vakfı tarafından 2547 sayılı Yükseköğretim
 
+
+
+    ç) 22/4/2013 tarihli ve 2013/4696 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan
+Mühendislik-Mimarlık Fakültesinin adı Mühendislik Fakültesi olarak değiştirilmiş ve Rektörlüğe bağlı
+olarak Mimarlık ve Tasarım Fakültesi ile Sağlık Bilimleri Enstitüsü kurulmuştur.
+    d) 6/7/2015 tarihli ve 2015/7916 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
+kurulmuştur.
     e) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Uygulamalı
 Bilimler Yüksekokulu kurulmuştur.
     f) 26/3/2018 5/2/2018 tarihli ve 2018/11593 sayılı Bakanlar Kurulu Kararı Eki Karar ile Rektörlüğe bağlı
@@ -5275,10 +5279,9 @@ Edebiyat Fakültesi kapatılmıştır.
     d) 4/3/2022 tarihli ve 31768 sayılı Resmi Gazete’de yayımlanan 5252 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Mühendislik Fakültesi’nin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak
 değiştirilmiştir.
-    e) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
-Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak
-değiştirilmiştir.
-Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere kamu tüzel
+        Ek Madde 74 – (Ek: 9/5/2007-5656/1 md.)
+        İstanbul’da Acıbadem Eğitim ve Sağlık Vakfı tarafından 2547 sayılı Yükseköğretim
+Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere kamu tüzel
 kişiliğine sahip Acıbadem Mehmet Ali Aydınlar Üniversitesi adıyla bir vakıf üniversitesi
 kurulmuştur.
         Bu Üniversite, Rektörlüğe bağlı olarak;
@@ -5293,6 +5296,13 @@ kurulmuştur.
         ğ) Sosyal Bilimler Enstitüsünden,
         h) Sağlık Bilimleri Enstitüsünden,
         oluşur.
+
+
+
+
+   e) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
+Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak
+değiştirilmiştir.
          İzmir Üniversitesi:151
 
         Ek Madde 75 – (Ek: 9/5/2007-5656/1 md.)
@@ -6321,11 +6331,11 @@ bünyesinde yer alan Bayburt Eğitim Fakültesinin adı Eğitim Fakültesi olara
 Enstitüsünden,
        oluşur.
 
-         Gümüşhane Üniversitesi:180
-         Ek Madde 98 – Ek: 22/5/2008-5765/1 md.)
-         Gümüşhane’de Gümüşhane Üniversitesi adıyla yeni bir üniversite kurulmuştur.
-         Bu Üniversite;
-         a) Rektörlüğe bağlı olarak yeni kurulan İletişim Fakültesi ile Karadeniz Teknik Üniversitesi
+       Gümüşhane Üniversitesi:180
+       Ek Madde 98 – Ek: 22/5/2008-5765/1 md.)
+       Gümüşhane’de Gümüşhane Üniversitesi adıyla yeni bir üniversite kurulmuştur.
+       Bu Üniversite;
+       a) Rektörlüğe bağlı olarak yeni kurulan İletişim Fakültesi ile Karadeniz Teknik Üniversitesi
 Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve Rektörlüğe bağlanan
 Gümüşhane Mühendislik Fakültesi ile Gümüşhane İktisadi ve İdari Bilimler Fakültesinden,
         b) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
@@ -6668,9 +6678,9 @@ tüzel kişiliğine sahip Hasan Kalyoncu Üniversitesi adıyla bir vakıf ünive
 sayılı Yükseköğretim Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi
 olmak üzere, kamu tüzel kişiliğine sahip Melikşah Üniversitesi adıyla yeni bir vakıf üniversitesi
 kurulmuştur.
-        Bu Üniversite, Rektörlüğe bağlı olarak;
-        a) Fen-Edebiyat Fakültesinden,
-        b) İktisadi ve İdari Bilimler Fakültesinden,
+      Bu Üniversite, Rektörlüğe bağlı olarak;
+      a) Fen-Edebiyat Fakültesinden,
+      b) İktisadi ve İdari Bilimler Fakültesinden,
 
     ç) 13/3/2017 tarihli ve 2017/10332 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi
 kurulmuştur.
@@ -6778,7 +6788,7 @@ sahip Toros Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
        f) Meslek Yüksekokulundan,
        g) Fen Bilimleri Enstitüsünden,
        ğ) Sosyal Bilimler Enstitüsünden,
-        oluşur.
+       oluşur.
 
 
 
@@ -8155,7 +8165,9 @@ c) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayı
 maddesiyle, Rektörlüğe bağlı olarak Somali Mogadişu Recep Tayyip Erdoğan Sağlık Bilimleri Fakültesi kurulmuştur.
 ç) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
 olarak Suriye’de (Çobanbey/Halep) Çobanbey Tıp Fakültesi ile Çobanbey Sağlık Hizmetleri Meslek Yüksekokulu
-kurulmuştur.
+kurulmuştur. Daha sonra 21/11/2026 tarihli ve 33437 sayılı Resmî Gazete’de yayımlanan 12016 sayılı
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Suriye’de kurulan Çobanbey Tıp Fakültesi ile Çobanbey Sağlık
+Hizmetleri Meslek Yüksekokulu kapatılmıştır.
 d) 17/1/2018 tarihli ve 2018/11262 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak, Somali’de Somali
 Mogadişu Recep Tayyip Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu, Sudan’da Sudan Nyla Sağlık Hizmetleri
 Meslek Yüksekokulu ile Filipinler’de Bangsamoro Sultan Kudarat Sağlık Hizmetleri Meslek Yüksekokulu kurulmuştur.
@@ -8169,8 +8181,6 @@ Rektörlüğe bağlı olarak Cerablus Sağlık Hizmetleri Meslek Yüksekokulu ku
 bünyesinde yer alan Hartum Sağlık Bilimleri Enstitüsünün adı Sudan Sağlık Bilimleri Enstitüsü olarak değiştirilmiştir.
 h) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan İbni Sina Tıp Fakültesinin adı Buhara İbni Sina Tıp Fakültesi olarak değiştirilmiştir.
-ı) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
-bağlı olarak Özbekistan’ın Semerkant şehrinde Semerkant Tıp Fakültesi kurulmuştur.
         Ek Madde 158 – (Ek: 27/3/2015-6639/5 md.)
         İstanbul’da Sağlık Bilimleri Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
 Üniversite, Rektörlüğe bağlı olarak;
@@ -8193,8 +8203,12 @@ toplanır ve salt çoğunlukla karar alır. Bakan ve Yükseköğretim Kurulu tar
 üyelerin görev süresi dört yıldır. Mütevelli Heyetinin çalışma usul ve esasları, Mütevelli
 Heyetinin teklifi üzerine Yükseköğretim Kurulu tarafından belirlenir.249250
         Mütevelli Heyetinin görevleri şunlardır:
-        a) Üniversitenin stratejik planı ve bütçe teklifi üzerinde görüş bildirmek.251
 
+
+
+
+ı) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı olarak Özbekistan’ın Semerkant şehrinde Semerkant Tıp Fakültesi kurulmuştur.
 i) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Özbekistan’ın Buhara şehrinde Buhara İbni Sina Diş Hekimliği Fakültesi ve Buhara İbni Sina Sağlık
 Bilimleri Fakültesi kurulmuştur.
@@ -8221,11 +8235,8 @@ tarafından” şeklinde değiştirilmiştir.
 ile Türkiye Sağlık Enstitüleri Başkanlığı Yönetim Kurulunca belirlenen Sağlık Bilimleri Üniversitesi dışından bir
 üye” ibaresi “iki üye” şeklinde, yedinci cümlesinde yer alan “, Yükseköğretim Kurulu ve Türkiye Sağlık Enstitüleri
 Başkanlığı Yönetim Kurulu” ibaresi “ve Yükseköğretim Kurulu” şeklinde değiştirilmiştir.
-251
-    11/11/2020 tarihli ve 7256 sayılı Kanunun 22 nci maddesiyle bu fıkranın (a) bendinde yer alan “planını ve bütçe
-teklifini onaylamak” ibaresi “planı ve bütçe teklifi üzerinde görüş bildirmek” şeklinde, (b) bendinde yer alan “karar”
-ibaresi “katkı” şeklinde değiştirilmiştir.
-        b) Kamu kurum ve kuruluşları ve gerçek ve özel hukuk tüzel kişileriyle iş birliği
+        a) Üniversitenin stratejik planı ve bütçe teklifi üzerinde görüş bildirmek.251
+        b) Kamu kurum ve kuruluşları ve gerçek ve özel hukuk tüzel kişileriyle iş birliği
 yapılmasına ve ortak projeler yürütülmesine katkı vermek.251
         c) (Mülga:11/11/2020-7256/22 md.)
         d) Rektör tarafından gündeme alınması önerilen konularda karar vermek.
@@ -8263,11 +8274,16 @@ Kanununun ek 9 uncu maddesi çerçevesinde birlikte kullanım protokolleri yapar
 uygulama ve araştırma faaliyetlerini yürütür. Üniversitenin birlikte kullanım protokolü imzaladığı
 eğitim ve araştırma hastaneleri, aynı zamanda Üniversitenin uygulama ve araştırma merkezi
 statüsü kazanır. Üniversite öğretim elemanı kadrolarından birlikte kullanılan eğitim ve araştırma
-hastanelerine tahsis edilecek akademik kadroların dağılımı ve nitelikleri Sağlık Bakanlığınca
+
+251
+    11/11/2020 tarihli ve 7256 sayılı Kanunun 22 nci maddesiyle bu fıkranın (a) bendinde yer alan “planını ve bütçe
+teklifini onaylamak” ibaresi “planı ve bütçe teklifi üzerinde görüş bildirmek” şeklinde, (b) bendinde yer alan “karar”
+ibaresi “katkı” şeklinde değiştirilmiştir.
+hastanelerine tahsis edilecek akademik kadroların dağılımı ve nitelikleri Sağlık Bakanlığınca
 belirlenir. Bu kadrolara öğretim üyelerinin atamaları Üniversite tarafından Sağlık Bakanlığının
 uygun görüşü alınarak yapılır. Öğretim elemanları ile 3359 sayılı Kanunun ek 9 uncu maddesine
 göre eğitim ve araştırma faaliyetlerinin yürütülmesi ile sağlık hizmeti sunumu için sözleşme
-imzalanabilir. Üniversitenin birimlerine tahsis edilecek öğretim üyesi norm kadro sayısı, Rektörün
+imzalanabilir. Üniversitenin birimlerine tahsis edilecek öğretim üyesi norm kadro sayısı, Rektörün
 önerisi ile Yükseköğretim Kurulu tarafından tespit edilir.
          Mekteb-i Tıbbiyye-i Şâhâne adıyla hizmet vermek üzere inşa edilen ve hâlen Marmara
 Üniversitesi adına tahsisli olan Haydarpaşa Kampüsü, Sağlık Bilimleri Üniversitesine tahsis
@@ -8291,11 +8307,9 @@ Gönen Jeotermal Enstitüsü ile Rektörlüğe bağlı olarak yeni kurulan Sosya
 Fen Bilimleri Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
         oluşur.
 
-        İskenderun Teknik Üniversitesi:253
-
 
 252
-    a) 13/3/2017 tarihli ve 2017/10332 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
+   a) 13/3/2017 tarihli ve 2017/10332 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
 ve Doğa Bilimleri Fakültesi ile İnsan ve Toplum Bilimleri Fakültesi kurulmuştur.
     b) 8/1/2018 tarihli ve 2018/11209 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
 Fakültesi kurulmuştur.
@@ -8316,11 +8330,8 @@ bağlı olarak İlahiyat Fakültesi kurulmuş, Rektörlük bünyesinde yer alan 
     ğ) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü,
 Gönen Jeotermal Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
-253
-    a) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Elektrik-
-Elektronik Fakültesi, İnşaat Fakültesi, Makine Fakültesi kapatılmış ve Rektörlüğe bağlı olarak Mühendislik ve
-Doğa Bilimleri Fakültesi kurulmuştur.
-        Ek Madde 160 – (Ek: 31/3/2015-6640/2 md.)
+        İskenderun Teknik Üniversitesi:253
+        Ek Madde 160 – (Ek: 31/3/2015-6640/2 md.)
         Hatay ili İskenderun ilçesinde İskenderun Teknik Üniversitesi adıyla yeni bir üniversite
 kurulmuştur.
         Bu üniversite;
@@ -8348,6 +8359,10 @@ Lojistik Enstitüsü ile Çevre ve Deniz Bilimleri Enstitüsünden,
 
         Alanya Alaaddin Keykubat Üniversitesi:254
 
+253
+    a) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Elektrik-
+Elektronik Fakültesi, İnşaat Fakültesi, Makine Fakültesi kapatılmış ve Rektörlüğe bağlı olarak Mühendislik ve
+Doğa Bilimleri Fakültesi kurulmuştur.
     b) 13/3/2017 tarihli ve 2017/10332 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Teknoloji
 Fakültesi kapatılmıştır.
     c) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
@@ -8363,11 +8378,6 @@ Enstitüsü, Sosyal Bilimler Enstitüsü, Taşımacılık ve Lojistik Enstitüs�
 Fakültesi, Diş Hekimliği Fakültesi, Turizm Fakültesi, Spor Bilimleri Fakültesi kurulmuştur.
     b) 8/1/2018 tarihli ve 2018/11209 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sanat, Tasarım ve
 Mimarlık Fakültesi ile Antalya İli Gazipaşa İlçesinde Gazipaşa Havacılık ve Uzay Bilimleri Fakültesi kurulmuştur.
-    c) 9/4/2018 tarihli ve 2018/11657 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuş ve Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Rafet Kayış Fakültesi olarak
-değiştirilmiştir.
-    ç) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
-bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
        Ek Madde 161 – (Ek: 31/3/2015-6640/3 md.)
        Antalya ili Alanya ilçesinde Alanya Alaaddin Keykubat Üniversitesi adıyla yeni bir
 üniversite kurulmuştur.
@@ -8400,7 +8410,11 @@ tüzel kişiliğine sahip Antalya Belek Üniversitesi adıyla bir vakıf üniver
          İstanbul Rumeli Üniversitesi:256
 
 
-
+    c) 9/4/2018 tarihli ve 2018/11657 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
+Yüksekokulu kurulmuş ve Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Rafet Kayış Fakültesi olarak
+değiştirilmiştir.
+    ç) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
     d) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan İşletme Fakültesinin adı “İktisadi ve İdari Bilimler Fakültesi” olarak değiştirilmiştir.
     e) 25/12/2019 tarihli ve 30989 sayılı Resmi Gazete’de yayımlanan 1911 sayılı Cumhurbaşkanı Kararı ile
@@ -8412,11 +8426,6 @@ olarak değiştirilmiştir.
 255
     2/2/2023 tarihli ve 7437 sayılı Kanunun 5 inci maddesiyle bu maddenin başlığında ve birinci fıkrasında yer alan
 “Antalya AKEV Üniversitesi” ibareleri “Antalya Belek Üniversitesi” şeklinde değiştirilmiştir.
-256
-    a) 6/2/2017 tarihli ve 2017/9889 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
-Yüksekokulu kurulmuştur.
-    b) 9/4/2018 tarihli ve 2018/11657 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
-Fakültesi kurulmuştur.
        Ek Madde 163 – (Ek: 31/3/2015-6640/5 md.)
        İstanbul’da Balcı Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
 yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine sahip
@@ -8430,27 +8439,28 @@ yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tü
        e) Fen Bilimleri Enstitüsünden,
        oluşur.
 
-       Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi:257
-       Ek Madde 164 – (Ek:1/4/2015-6641/1 md.)
-       İstanbul’da Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi adıyla bir üniversite
+      Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi:257
+      Ek Madde 164 – (Ek:1/4/2015-6641/1 md.)
+      İstanbul’da Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi adıyla bir üniversite
 kurulmuştur.
-       Bu Üniversite, Rektörlüğe bağlı olarak;
-       a) Sosyal ve Beşeri Bilimler Fakültesinden,
-       b) Hukuk Fakültesinden,
-       c) Siyasal Bilgiler Fakültesinden,
-       ç) İslami İlimler Fakültesinden,
-       d) Tıp Fakültesinden,
-       e) Mühendislik ve Mimarlık Fakültesinden,
-       f) Bilgisayar ve Bilişim Fakültesinden,
-       g) Sosyal Bilimler Enstitüsünden,
-       ğ) Fen Bilimleri Enstitüsünden,
-       h) Sağlık Bilimleri Enstitüsünden,
-       oluşur.
-       Rektör beş yıllığına, Yükseköğretim Kurulunun önereceği profesör akademik unvanına
-sahip üç aday arasından Cumhurbaşkanı tarafından atanır.
-       Üniversite yönetimine, üniversitenin faaliyet alanları ile stratejik planına ilişkin görüş
-
-
+      Bu Üniversite, Rektörlüğe bağlı olarak;
+      a) Sosyal ve Beşeri Bilimler Fakültesinden,
+      b) Hukuk Fakültesinden,
+      c) Siyasal Bilgiler Fakültesinden,
+      ç) İslami İlimler Fakültesinden,
+      d) Tıp Fakültesinden,
+      e) Mühendislik ve Mimarlık Fakültesinden,
+      f) Bilgisayar ve Bilişim Fakültesinden,
+      g) Sosyal Bilimler Enstitüsünden,
+      ğ) Fen Bilimleri Enstitüsünden,
+      h) Sağlık Bilimleri Enstitüsünden,
+      oluşur.
+      Rektör beş yıllığına, Yükseköğretim Kurulunun önereceği profesör akademik unvanına
+256
+    a) 6/2/2017 tarihli ve 2017/9889 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri
+Yüksekokulu kurulmuştur.
+    b) 9/4/2018 tarihli ve 2018/11657 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
+Fakültesi kurulmuştur.
     c) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı Cumhurbaşkanı Kararının 1 inci
 maddesiyle, Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi ve Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük
 bünyesinde yer alan Sağlık Yüksekokulu, Fen Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
@@ -8458,12 +8468,14 @@ bünyesinde yer alan Sağlık Yüksekokulu, Fen Bilimleri Enstitüsü ve Sosyal 
 Rektörlük bünyesinde yer alan Sanat ve Tasarım Fakültesinin adı Sanat, Tasarım ve Mimarlık Fakültesi olarak,
 Mühendislik ve Mimarlık Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
 257
-    a) 31/8/2026 tarihli ve 33356 sayılı Resmî Gazete’de yayımlanan 11681 sayılı Cumhurbaşkanı Kararı ile
+     a) 31/8/2026 tarihli ve 33356 sayılı Resmî Gazete’de yayımlanan 11681 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş ve Rektörlük bünyesinde yer alan Fen Bilimleri
 Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
 b) 5/9/2026 tarihli ve 33361 sayılı Resmî Gazete’ de yayımlanan 11725 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesine bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
-vermek üzere aşağıdaki kurum ve kuruluşların üst yöneticilerinin katılımıyla Üniversite Danışma
+sahip üç aday arasından Cumhurbaşkanı tarafından atanır.
+         Üniversite yönetimine, üniversitenin faaliyet alanları ile stratejik planına ilişkin görüş
+vermek üzere aşağıdaki kurum ve kuruluşların üst yöneticilerinin katılımıyla Üniversite Danışma
 Kurulu oluşturulur:
          a) Millî Eğitim Bakanlığı
          b) Dışişleri Bakanlığı
@@ -8499,14 +8511,12 @@ Vakfın organları; Mütevelli Heyet, Yönetim Kurulu ve Denetleme Kuruludur. Ma
 Dışişleri Bakanı ve Millî Eğitim Bakanı ile orta, lise ve yükseköğretim öğrencilerini burs ve
 yurt temini ile desteklemek üzere kurulan kamu yararına faaliyet gösteren dernekler ile vergi
 muafiyeti tanınan vakıflardan Cumhurbaşkanı tarafından belirlenen beş dernek veya vakıf
-Vakfın kurucularını oluşturur. Vakfın kuruluşuna katılan kişi ve tüzel kişi temsilcileri Vakfın
-
-
 
 258
    2/7/2018 tarihli ve 700 sayılı KHK’nin 72 nci maddesiyle, bu maddenin altıncı fıkrasında yer alan
 “Üniversite Yönetim Kurulunun teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-Mütevelli Heyetini oluşturur.259
+Vakfın kurucularını oluşturur. Vakfın kuruluşuna katılan kişi ve tüzel kişi temsilcileri Vakfın
+Mütevelli Heyetini oluşturur.259
          Vakfın gelirleri şunlardır:
          a) Vakfın yapacağı hizmetler karşılığında alınacak ücretler
          b) Her türlü yardım ve bağışlar
@@ -8536,7 +8546,6 @@ Bakanlığı ile Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi
 tarafından müştereken belirlenir.
 
         İbn Haldun Üniversitesi:261
-
 
 
 259
@@ -8974,8 +8983,8 @@ Arapgir Meslek Yüksekokulu, Akçadağ Meslek Yüksekokulu, Battalgazi Meslek
 Yüksekokulu, Darende Bekir Ilıcak Meslek Yüksekokulu, Doğanşehir Vahap Küçük
 Meslek Yüksekokulu, Kale Turizm ve Otel İşletmeciliği Meslek Yüksekokulu, Hekimhan
 Mehmet Emin Sungur Meslek Yüksekokulu ile Yeşilyurt Meslek Yüksekokulundan,
-      ç) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden,
-      oluşur.
+        ç) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden,
+        oluşur.
 
         İstanbul Üniversitesi-Cerrahpaşa:278
         Ek Madde 182 – (Ek: 9/5/2018-7141/7 md.)

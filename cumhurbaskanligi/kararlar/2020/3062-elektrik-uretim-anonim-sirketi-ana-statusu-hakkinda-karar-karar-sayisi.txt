@@ -1,0 +1,405 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.3062.pdf
+ADI: ELEKTRİK ÜRETİM ANONİM ŞİRKETİ ANA STATÜSÜ HAKKINDA KARAR (KARAR SAYISI: 3062)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 07.10.2020 / 31267
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: 52d263d45db8cc3ec343e97326dfc655ae17a7348e83000d1b9be891773b45e0
+
+                  ELEKTRİK ÜRETİM ANONİM ŞİRKETİ ANA STATÜSÜ
+
+                                      BİRİNCİ BÖLÜM
+                              Amaç, Kapsam, Dayanak ve Tanımlar
+
+        Amaç ve kapsam
+        MADDE 1- (1) Bu Ana Statü, Elektrik Üretim Anonim Şirketinin hukuki statüsü,
+amaç ve faaliyet konuları, organları ve teşkilat yapısı, müessese, bağlı ortaklık, işletme ve
+iştirakleri ile bunlar arasındaki ilişkileri ve ilgili diğer hususları düzenlemek amacıyla
+hazırlanmıştır.
+
+       Dayanak
+       MADDE 2- (1) Bu Ana Statü, 8/6/1984 tarihli ve 233 sayılı Kanun Hükmünde
+Kararname, 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararname, 14/3/2013 tarihli ve
+6446 sayılı Elektrik Piyasası Kanunu ile 5/2/2001 tarihli ve 2001/2026 sayılı Bakanlar Kurulu
+Kararı hükümlerine dayanılarak hazırlanmıştır.
+
+        Tanımlar ve kısaltmalar
+        MADDE 3- (1) Bu Ana Statüde geçen;
+        a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+        b) Elektrik üretiminde kullanılacak hammaddeler: Kalker (kireçtaşı), kalsit, dolomit ve
+mermeri,
+        c) Elektrik üretiminde kullanılacak madenler: Linyit, taşkömürü, bitümlü şist, bitümlü
+şeyl ve benzeri fosil kaynaklarını,
+        ç) Enerji alış ve enerji satış anlaşmaları: Mülga TETAŞ’ın taraf olduğu mevcut
+sözleşmeler ile 6446 sayılı Kanunun ilgili hükümleri kapsamında EÜAŞ tarafından imzalanan
+anlaşmaları,
+        d) EÜAŞ: Elektrik Üretim Anonim Şirketini,
+        e) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+        f) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+        g) Maden üretim tesisi: Elektrik üretiminde kullanılacak hammadde ve madenin
+üretilmesi için madencilik faaliyetlerinin yürütüldüğü maden işletmelerini,
+        ğ) Merkez: Elektrik Üretim Anonim Şirketinin merkez teşkilatını,
+        h) Rödovans sözleşmesi: Maden işletme ruhsatı sahibinin maden sahasının tamamı
+veya bir kısmı üzerinde sahip olduğu maden işletme izninden kaynaklanan madencilik
+faaliyeti yapma ve maden ocağından çıkan maden cevherlerini kullanma, yararlanma ve
+üzerinde tasarruf yapma yetkilerini belli bir bedel karşılığı devretmeyi taahhüt ettiği
+sözleşmeyi,
+        ı) TEAŞ: Mülga Türkiye Elektrik Üretim İletim Anonim Şirketini,
+        i) TEDAŞ: Türkiye Elektrik Dağıtım Anonim Şirketini,
+        j) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+        k) TEK: Mülga Türkiye Elektrik Kurumunu,
+        l) Teşekkül: Elektrik Üretim Anonim Şirketini,
+        m) TETAŞ: Mülga Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketini,
+        n) Toptan satış tarifesi: Teknik ve teknik olmayan kayıplar ile genel aydınlatma
+kapsamında dağıtım şirketlerine ve tarifesi düzenlemeye tabi tüketiciler için görevli tedarik
+şirketlerine satılan elektrik enerjisine uygulanan ve Kurul tarafından belirlenen tarifeyi,
+        o) Varolan sözleşmeler: 6446 sayılı Kanunun 18 inci maddesinin beşinci fıkrası
+kapsamında EÜAŞ’ın taraf olduğu sözleşmeleri,
+        ö) Yan ürün: Üretim süreci sırasında ve sonunda teknik nedenlerle ana ürün ile beraber
+ortaya çıkan ısı, buhar, kül, alçıtaşı, kömür üstü organik materyal (gidya vb.) gibi çıktı ya da
+çıktıları,
+        ifade eder.
+        (2) Bu Ana Statüde yer almayan tanımlar için, 6446 sayılı Kanun, 4/6/1985 tarihli ve
+3213 sayılı Maden Kanunu ile 233 sayılı Kanun Hükmünde Kararnamede yer alan tanımlar
+esas alınır.
+
+                                       İKİNCİ BÖLÜM
+                              EÜAŞ’ın Yapısı, Amaç ve Faaliyet Alanı
+
+          EÜAŞ’ın yapısı
+          MADDE 4- (1) EÜAŞ; tüzel kişiliğe sahip, faaliyetlerinde özerk ve sorumluluğu
+sermayesiyle sınırlı iktisadi devlet teşekkülüdür.
+          (2) EÜAŞ; 6446 sayılı Kanun, 233 sayılı Kanun Hükmünde Kararname ve 399 sayılı
+Kanun Hükmünde Kararname ile bu Ana Statü hükümleri saklı kalmak üzere özel hukuk
+hükümlerine tabidir.
+          (3) EÜAŞ, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu
+ile 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.
+          (4) EÜAŞ, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu, 5/1/2002 tarihli ve
+4735 sayılı Kamu İhale Sözleşmeleri Kanunu, 2/4/1987 tarihli ve 3346 sayılı Kamu İktisadi
+Teşebbüsleri ile Fonların Türkiye Büyük Millet Meclisince Denetlenmesinin Düzenlenmesi
+Hakkında Kanun ile 3/12/2010 tarihli ve 6085 sayılı Sayıştay Kanunu hükümlerine tabidir.
+          (5) EÜAŞ’ın merkezi Ankara’dadır.
+          (6) EÜAŞ’ın sermayesi 14.000.000.000 TL (42.634.000.000 TL) olup tamamı Devlete
+        1
+aittir.
+          (7) EÜAŞ’ın ilgili olduğu Bakanlık, Enerji ve Tabii Kaynaklar Bakanlığıdır.
+
+
+1
+  22/12/2023 tarihli ve 7974 sayılı Cumhurbaşkanı Kararı ile bu kamu iktisadi teşebbüsünün nominal
+sermayesi 42.634.000.000 TL olarak değiştirilmiştir.
+        EÜAŞ’ın amaç ve faaliyet konuları
+        MADDE 5- (1) EÜAŞ amaç ve faaliyetlerini doğrudan doğruya merkez, müessese,
+işletme, bağlı ortaklık, iştirak ve diğer birimler veya üçüncü şahıslar eliyle yerine getirir.
+EÜAŞ’ın amaç ve faaliyet konuları şunlardır:
+        a) İlgili mevzuat hükümleri çerçevesinde üretim tesislerinde elektrik enerjisi üretmek.
+        b) İlgili mevzuat gereğince devir alınması gereken üretim tesislerini devir almak ve
+özel sektöre devri yapılmamış üretim tesislerini kendisi ve/veya bağlı ortaklıkları vasıtasıyla
+işletmek, gerektiğinde sistemden çıkarmak.
+        c) Bakanlığın uygun görüşü ile yeni yapılacak üretim tesisleri için özel hukuk
+hükümlerine tabi tüzel kişiler ile ortaklık kurmak.
+        ç) İşletme hakkı devri yoluyla özel hukuk hükümlerine tabi tüzel kişilere devri
+yapılmış veya yapılacak tesis ve işletmelerin ve bunlara yapılacak ilave, ikame ve idame
+yatırımlarının mülkiyetini muhafaza etmek, ilgili mercilerce özelleştirilmesine karar verilen
+tesislerin veya iştirak hisselerinin ilgili mevzuat çerçevesinde devrini yapmak.
+        d) Faaliyet alanıyla ilgili olarak Kurumdan lisansları almak ve Kurul tarafından
+belirlenen lisans bedellerini Kuruma ödemek ve alacağı lisansların hükümleri uyarınca
+faaliyet göstermek.
+        e) Nükleer enerji üretim tesisi yapımı için ilgili mevzuat gereğince ilgili mercilerden
+kuruluş yeri, inşaat, işletme ve benzeri izinler ve lisans alınmasıyla ilgili işlemleri yapmak.
+        f) Üretim tesislerinin işletilmesi ve kurulmasında diğer gerçek ve tüzel kişilerden bu
+konulara ilişkin hizmet almak.
+        g) Elektrik üretimi ve madencilik için gereken her türlü etüt, her ölçekteki mekânsal
+(imar) planları, haritaları, projeleri ve faaliyetlerini gerçekleştirmek için gerekli inşaat ve
+tesisleri yapmak, yaptırmak; söz konusu tesislerin proje, tesis ve işletme aşamalarında
+ülkemiz çevre mevzuatına uygun olmasını sağlamak amacıyla gerekli her türlü önlemleri
+almak ve kendi paylarına düşen hukuki ve mali sorumluluk, ilgili şirket veya kuruluşlarda
+kalmak üzere aldırmak.
+        ğ) Üretim tesislerinin yapılması, bakımı ve onarımı, rehabilitasyonu, işletilmesi ve
+genişletilmesi ile ilgili her türlü mal ve hizmetleri yurt içinden ve/veya yurt dışından tedarik
+etmek.
+        h) Faaliyet konuları ile ilgili olarak gerekli tesis ve makineleri bulundurmak, bu
+maksatla kurulmuş tesis ve makine kapasiteleri ile insan kaynaklarını değerlendirmek.
+        ı) Üretim tesislerinin yapımı ve işletilmesi ile ilgili olarak gerekli sistem ve makine
+teçhizat konularında araştırma, geliştirme ve eğitim çalışmaları yapmak, gerektiğinde bunları
+imal etmek veya ettirmek.
+        i) Amaç ve faaliyet konuları ile ilgili olarak ve sahip olduğu imkânlar kullanılarak
+bedeli mukabilinde, gerektiğinde araç ve gereç kiraya vermek ya da üçüncü şahıslardan
+kiralamak, faaliyetlerini aksatmayacak şekilde ilgili mevzuat çerçevesinde danışmanlık
+hizmeti, mal ve diğer hizmet satışı yapmak, maden üretim tesislerinde hammadde ve maden
+üretimi ile santrallerde elektrik üretimi sırasında veya sonrasında ortaya çıkan her türlü yan
+ürünün satışını yapmak.
+         j) İmtiyaz sözleşmesi/işletme hakkı devir sözleşmesi gereğince maden üretim
+tesislerini görevli şirkete devretmek, devredilen maden üretim tesislerini görevli şirketten
+devralmak, özel sektöre devri yapılmamış maden üretim tesislerini işletmek, üretimi
+tamamlanan maden sahalarının mevzuata uygun şekilde kapatılmasını sağlamak.
+         k) Kömüre dayalı termik santrallerin ana yakıt ihtiyacının sağlanacağı hammadde ve
+maden sahalarını projelendirmek, projelendirilen sahalarda maden üretim tesisi kurmak ve
+işletmek veya maden üretim tesislerinin kurulması ve işletilmesi işini diğer gerçek ve tüzel
+kişilere yaptırmak.
+         l) Ruhsat hukuku Teşekküle ait olan hammadde ve maden sahalarını üçüncü şahıslara
+kiralamak veya rödovans sözleşmeleri yapmak.
+         m) Teşekkülün elektrik üretiminde kullanmak amacı ile hammadde ve madenin temini
+ile ilgili olarak maden ruhsatı almak/devretmek.
+         n) Ruhsat hukuku Teşekküle ait olan hammadde ve maden sahalarının yatırıma
+açılması için gerekli etüt ve araştırmaları yapmak/yaptırmak, uluslararası kabul gören
+standartlarda kaynak ve rezerv raporu (ön fizibilite raporu) hazırlamak/hazırlatmak ve çeşitli
+yatırım modelleri altında bu projelerin hayata geçirilmesini sağlamak.
+         o) Ruhsat hukuku Teşekküle ait olan maden sahalarında, elektrik üretim tesisi kurmak
+veya kurdurmak amacıyla yapılmış sözleşme veya işlemler çerçevesinde, yatırım döneminde;
+termik santralde ilk elektrik üretimi yapılıncaya kadar termik santral ve tesisleri ile kömür
+işletmesi hazırlık ve ilk tesislerin kurulması çalışmalarından dolayı üretilmek zorunda kalınan
+kömürlerin, işletme döneminde ise termik santralin teknik nedenlerle çalıştırılamaması
+nedeniyle elektrik üretiminin yapılamaması durumunda maden işletmesinin emre amade
+tutulması için üretilmek zorunda kalınan kömürlerin piyasaya satışını yapmak.
+         ö) Gerektiğinde santrallerin enerji üretiminde kullanılan veya kullanılacak olan yakıt
+ve diğer her türlü hammaddeyi satın almak.
+         p) Nükleer tesislerin kurulması ve işletilmesine yönelik olarak yakıt ve teknolojinin
+transfer edileceği ülkelerle, uluslararası alanda bölgesel ya da ikili anlaşmaların yapılması,
+yenilenmesi konusunda ilgili kurumlar nezdinde girişimlerde bulunmak ve yapılacak
+anlaşmalarda öngörülen görevleri yerine getirmek.
+         r) Teşekkülü ilgilendiren konularda, uluslararası mevcut ikili ve çoklu ilişkileri devam
+ettirmek, gerektiğinde yeni ilişkiler kurmak.
+         s) Mevcut sözleşmeler ve varolan sözleşmeler kapsamında imzalanmış olan enerji alış
+ve satış anlaşmalarını yürütmek, ayrıca elektrik enerjisi mübadele, ithalat ve ihracat
+anlaşmaları ile mevcut imtiyaz ve uygulama sözleşmeleri kapsamında enerji alış ve satış
+anlaşmaları imzalamak.
+         ş) 6446 sayılı Kanun ve ilgili mevzuat kapsamında elektrik enerjisi ve kapasitesi alım
+ve satımına ilişkin ikili anlaşmalar yapmak ve yürütmek, organize toptan elektrik
+piyasalarında faaliyette bulunmak.
+         t) Toptan satış tarifesini hazırlamak ve onaylanmış tarifeyi uygulamak.
+         u) Görevli tedarik şirketlerine tarifesi düzenlemeye tabi olan tüketiciler için toptan
+satış tarifesinden elektrik enerjisi satmak.
+         ü) Tarifesi düzenlemeye tabi olmayan tüketiciler için görevli tedarik şirketlerine
+elektrik enerjisi satışına ilişkin fiyat, hüküm ve şartları taraflarla serbestçe belirlemek.
+         v) Kurul tarafından son kaynak tedarikçisi olarak yetkilendirilen tedarikçilere, son
+kaynak tedarikçisi kapsamındaki müşteriler için temin ettiği elektrik enerjisinin Kurul
+tarafından her yıl belirlenecek oranı kadarını temin etmek.
+         y) Dağıtım şirketlerinin, genel aydınlatma ile teknik ve teknik olmayan kayıplarından
+dolayı enerji ihtiyaçlarını temin etmek.
+         z) Uluslararası anlaşmalar çerçevesinde verilen görevleri yapmak.
+         aa) Yerli kömür ve yerli-ithal kömür karışımı yakıtlı elektrik üretim santrallerini
+işleten şirketlerden, mevzuat çerçevesinde elektrik enerjisi almak.
+         bb) Amaç ve faaliyetleriyle ilgili olarak; ilgili kurum ve kuruluşlarla, iletim ve dağıtım
+sisteminin gereksinimi olan anlaşmaları yapmak.
+         cc) Mevzuatla kendisine verilen diğer görevleri yerine getirmek.
+
+                                       ÜÇÜNCÜ BÖLÜM
+                                EÜAŞ’ın Organları ve Teşkilat Yapısı
+
+       EÜAŞ’ın organları
+       MADDE 6- (1) EÜAŞ’ın organları, Yönetim Kurulu ve Genel Müdürlüktür.
+
+         Yönetim Kurulu
+         MADDE 7- (1) Yönetim Kurulu, bir başkan ve beş üyeden oluşur.
+         (2) Yönetim Kurulunun teşkili ile görev ve yetkileri, üyelerinin atanmaları, nitelik ve
+şartları, görev ve süreleri, görevden alınmaları ve diğer hususlar hakkında; 233 sayılı Kanun
+Hükmünde Kararname, 399 sayılı Kanun Hükmünde Kararname ve diğer ilgili mevzuat
+hükümleri uygulanır.
+         (3) Yönetim Kurulu, EÜAŞ’ın amaç ve faaliyetlerini gerçekleştirme ve yönetimi ile
+ilgili gerekli her türlü kararı alır.
+         (4) Genel Müdür, Yönetim Kurulunun başkanıdır. Genel Müdürün bulunmadığı
+hallerde, Genel Müdürün Yönetim Kurulu üyeleri arasından görevlendireceği Genel Müdür
+vekili Yönetim Kuruluna başkanlık yapar.
+         (5) Kamu görevi sıfatı uhdesinde kalmak üzere EÜAŞ Yönetim Kurulu üyeliğine
+atananlar, başka bir teşebbüs, bağlı ortaklık veya iştirakte yönetim kurulu veya denetim
+kurulu üyesi olarak görev alamazlar.
+        Yönetim Kurulunun toplanması
+        MADDE 8- (1) Yönetim Kurulu, Genel Müdürün daveti üzerine ayda iki defadan az
+olmamak üzere toplanır. Toplantı günü ile saatini de gösteren gündem, Yönetim Kurulu
+Başkanı tarafından tespit edilerek en az 24 saat önce üyelere dağıtılır. Yönetim Kurulu
+kararıyla gündemde değişiklik yapılabilir.
+        (2) Yönetim Kurulu üyeleri de kurul kararı alınmasına gerek görülen konuların
+görüşülmesi ve karara bağlanmasıyla ilgili olarak önerge verebilirler. Toplantı yapılması için
+en az iki üyenin ortaklaşa yazılı önerge vermesi gerekir.
+        (3) Toplantı yeri, EÜAŞ’ın merkezidir. Yönetim Kurulu, karar almak şartı ile başka
+bir yerde de toplanabilir.
+        (4) EÜAŞ’ın Yönetim Kurulu toplantısına katılma hakkına sahip olanlar bu
+toplantılara, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 1527 nci maddesi
+uyarınca elektronik ortamda da katılabilir. EÜAŞ, 29/8/2012 tarihli ve 28396 sayılı Resmî
+Gazete’de yayımlanan Ticaret Şirketlerinde Anonim Şirket Genel Kurulları Dışında
+Elektronik Ortamda Yapılacak Kurullar Hakkında Tebliğ hükümleri uyarınca hak sahiplerinin
+bu toplantılara elektronik ortamda katılmalarına ve oy vermelerine imkân tanıyacak elektronik
+toplantı sistemini kurabileceği gibi bu amaç için oluşturulmuş sistemlerden de hizmet satın
+alabilir. Yapılacak toplantılarda bu hüküm uyarınca kurulmuş olan sistem üzerinden veya
+destek hizmeti alınacak sistem üzerinden hak sahiplerinin ilgili mevzuatta belirtilen haklarını
+mezkûr Tebliğ hükümlerinde belirtilen çerçevede kullanması sağlanır.
+        (5) Yönetim Kurulu, üye tam sayısının salt çoğunluğu olan en az dört üye ile toplanır
+ve kararlarını üye tam sayısının salt çoğunluğu ile alır. Oylarda eşitlik olması halinde
+Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+        (6) Yönetim Kurulunda oylar, kabul ve ret şeklinde kullanılır. Çekimser oy
+kullanılmaz. Ret oyu kullanan üye kararın altına ret gerekçesini yazarak imzalar.
+        (7) Toplantıya katılmayan üyeler yazılı olarak veya vekil tayin etmek suretiyle oy
+kullanamaz.
+        (8) Yönetim Kurulu Başkan ve üyelerinin bütün toplantılara katılmaları esastır.
+Yönetim Kurulu üyelerinden mazereti olanların toplantıdan önce mazeretlerini Yönetim
+Kurulu Başkanlığına bildirmeleri gerekir. Arka arkaya dört toplantıya veya bir yıl içinde
+toplam on toplantıya mazeretsiz olarak katılmayan üyeler istifa etmiş sayılır.
+        (9) Yönetim Kurulu kararları, EÜAŞ’ın bulunduğu yer noterliğince onaylı karar
+defterine veya kalamozaya tarih ve sıra numarası altında yazılır. Karar defterinin her sayfası
+toplantıya katılan üyeler tarafından imzalanır.
+        (10) Kararların en geç bir ay içinde karar defterine yazılıp imza işleminin
+tamamlanması gerekir.
+        (11) Olağanüstü hallerde, yukarıdaki fıkralarda sayılan toplantı ve gündem şartlarına
+bakılmaksızın Genel Müdürün daveti üzerine toplanılabilir.
+       Genel Müdürlük
+       MADDE 9- (1) Genel Müdürlük; Genel Müdür, Genel Müdür yardımcıları ve bağlı
+birimlerden oluşur.
+
+        Genel Müdür
+        MADDE 10- (1) Genel Müdür, Teşekkülü; Yönetim Kurulu kararları çerçevesinde
+yönetir ve üçüncü kişilere karşı temsil eder.
+        (2) Genel Müdürün atanması, nitelikleri, görev, yetki ve sorumlulukları ile diğer
+hususlar hakkında; 233 sayılı Kanun Hükmünde Kararname, 399 sayılı Kanun Hükmünde
+Kararname ve 3 sayılı Cumhurbaşkanlığı Kararnamesi ile diğer ilgili mevzuat hükümleri
+uygulanır.
+        (3) Genel Müdür, yetkilerinden bir kısmını, Yönetim Kurulunun alt mercilere
+devredilemeyeceğini belirterek verdiği yetkiler hariç olmak üzere ve sınırlarını açıkça
+belirlemek şartıyla astlarına devredebilir. İlgili mevzuatta öngörülen mercilerden izin
+alınmasını gerektiren konulara ilişkin yetki devri bu iznin alınmasından sonra yapılır. Yetki
+devri Genel Müdürün sorumluluğunu ortadan kaldırmaz.
+
+        Genel Müdür yardımcıları
+        MADDE 11- (1) Genel Müdür yardımcılarının atanmaları, nitelikleri, görev, yetki ve
+sorumlulukları ile diğer hususlar hakkında; 233 sayılı Kanun Hükmünde Kararname, 399
+sayılı Kanun Hükmünde Kararname ve 3 sayılı Cumhurbaşkanlığı Kararnamesi ile diğer ilgili
+mevzuat hükümleri uygulanır.
+        (2) Genel Müdür yardımcıları arasındaki iş bölümü Genel Müdür tarafından belirlenir.
+
+        Teşekkül birimlerinin kurulması
+        MADDE 12- (1) EÜAŞ’ın, 233 sayılı Kanun Hükmünde Kararname ve 399 sayılı
+Kanun Hükmünde Kararname ile bu Ana statü hükümleri çerçevesinde amaç ve faaliyetlerini
+gerçekleştirmek üzere, Teşekkül ana organizasyon şemasında Genel Müdür yardımcılarından
+sonra gelen birinci kademedeki Genel Müdürlük birimleri, Teşekkül Genel Müdürünün teklifi
+üzerine Yönetim Kurulu kararı ile kurulur, kaldırılır veya değiştirilir.
+        (2) Teşekkülün diğer birimlerinin kurulması ve gerektiğinde değiştirilmesi veya
+kaldırılması, ilgili birimin teklifi üzerine Genel Müdürün onayı ile olur.
+
+                                    DÖRDÜNCÜ BÖLÜM
+                           Müesseseler, Bağlı Ortaklıklar ve İştirakler
+
+      Müesseselerin kurulması ve nitelikleri
+      MADDE 13- (1) EÜAŞ, işletmelerini sermayesinin tamamı kendisine ait olmak üzere
+müessese şeklinde teşkilatlandırabilir.
+        (2) Müesseselerin kurulması ve nitelikleri hakkında 233 sayılı Kanun Hükmünde
+Kararname hükümleri uygulanır.
+        (3) Müesseselerin kurulması, kaldırılması, statülerinin değiştirilmesi, çalışma
+konularının genişletilmesi veya daraltılması, sermayelerinin arttırılması veya azaltılması,
+diğer müesseselerle birleştirilmesi Teşekkül Yönetim Kurulu kararıyla olur. Bu kararların
+alınmasında tasarruf, kârlılık, verimlilik ve daha fazla yatırım kaynağı oluşturma amaç ve
+ilkeleri gözetilir.
+
+        Bağlı ortaklıklara uygulanacak hükümler
+        MADDE 14- (1) Bağlı ortaklıkların kuruluşu, yönetim kurulunun teşkili, yönetim
+kurulu üyesi, genel müdür ve genel müdür yardımcılarının atanması veya seçilmesi ve
+bunların nitelik ve şartları, yönetim kurulunun ibrası ve diğer konularda 233 sayılı Kanun
+Hükmünde Kararname ve bağlı ortaklık ana sözleşmesi ve bunlarda hüküm bulunmayan
+konularda 6102 sayılı Kanun hükümleri uygulanır.
+        (2) Özel kesim; bağlı ortaklıktaki hisse oranı %20 ile %40 arasında ise yönetim
+kurulunda bir üye, %40 ve daha fazla ise iki üye bulundurma hakkına sahip olur. Teşekkülü
+temsilen bağlı ortaklıklara atanacak yönetim kurulu üyelerinden en az biri Teşekkül
+çalışanları arasından seçilir.
+        (3) Bağlı ortaklık genel müdürü hariç olmak üzere, Teşekkülün payını temsilen
+atanmış yönetim kurulu üyeleri başka bir bağlı ortaklık veya iştirakte yönetim ve tasfiye
+kurulu üyesi olamaz.
+        (4) Teşekkülü temsilen, kurucu ortak olarak görev alacak gerçek kişilere hisse senedi
+verme yükümlülüğü, Teşekkül tarafından yerine getirilir. Bu kişilerin yükümlülüğü görev
+süreleri ile sınırlı olup, görev süreleri sonunda hisselerini devretmek zorundadırlar.
+        (5) Yönetim kurulunun toplanması ve diğer hususlarda bağlı ortaklık ana sözleşmesi
+ve 6102 sayılı Kanun hükümleri uygulanır.
+        (6) Bağlı ortaklık genel müdürü, Teşekkül ve bağlı ortaklık yönetim kurulunca alınan
+kararların uygulanması ve bağlı ortaklığın yönetiminde gereken gayret ve basireti göstermekle
+yükümlü ve aksine davranışlardan sorumludur.
+        (7) Bağlı ortaklık, Teşekkül Yönetim Kurulu tarafından tespit edilen yatırım, planlama
+ve pazarlama ana hedeflerine göre hareket eder.
+
+        İştiraklere uygulanacak hükümler
+        MADDE 15- (1) İştiraklerin teşkili, nitelikleri, yönetimi ve diğer hususlarda 233 sayılı
+Kanun Hükmünde Kararname, bu Ana Statü ile şirket ana statüsü ve bunlarda hüküm
+bulunmayan hususlarda 6102 sayılı Kanun hükümleri uygulanır.
+        (2) Teşekkül ve bağlı ortaklıklara ait iştiraklerin yönetim kurullarında, Teşekkül ve
+bağlı ortaklıkları temsilen her %15 hisse için Teşekkülde görevli en az bir üye bulundurulur.
+      Yönetim kurulu üyelerinin rapor vermesi
+      MADDE 16- (1) Teşekkül temsilcileri, Teşekkül adına yönetim kurulu üyesi oldukları
+anonim şirketin faaliyetleri ve mali durumu hakkında tüzüğünde belirtilen usullere göre
+Teşekküle rapor verir.
+
+                                       BEŞİNCİ BÖLÜM
+                                Mali Hükümler, Tasfiye ve Denetim
+
+       Mali hususlar ile tasfiye ve denetim
+       MADDE 17- (1) Plan, program ve bütçeler, yatırım projelerinin hazırlanması, yatırım
+ve finansman programları, küçük tamamlama idame ve yenileme yatırımları, fiyat ve tarifeler,
+muhasebe sistemleri, bilançolar, netice hesapları, faaliyet raporları ve kâr dağıtımı ile tasfiye
+ve denetim konularında, 233 sayılı Kanun Hükmünde Kararname ve diğer ilgili mevzuat
+hükümleri uygulanır.
+
+       Plan, program ve bütçeler
+       MADDE 18- (1) Teşekkül, yatırım ve işletme faaliyetlerini plan, program ve bütçelere
+dayalı olarak yürütmek ve bağlı ortaklarının da aynı esaslara uymasını sağlamakla
+yükümlüdür.
+       (2) Teşekkül, bağlı ortaklıklarını da kapsayan yıllık genel yatırım ve finansman
+programını, 233 sayılı Kanun Hükmünde Kararname hükümlerine göre hazırlayarak Hazine
+ve Maliye Bakanlığına gönderir.
+       (3) Teşekkül ve bağlı ortaklıklarının işletme bütçeleri her hesap dönemi için yıllık
+genel yatırım ve finansman programındaki hedefler esas alınarak hazırlanır ve yönetim
+kurullarınca onaylanır. Yıllık genel yatırım ve finansman programında değişiklik yapılması
+halinde, bu değişikliğe uygun olarak işletme bütçelerinde de gerekli düzeltmeler yapılır.
+       (4) Teşekkül ve bağlı ortaklıkları, kesinleşen yıllık genel yatırım ve finansman
+programları ile işletme bütçelerinin birer örneğini ilgili kurumlara gönderir.
+
+        Yatırım projeleri
+        MADDE 19- (1) Teşekkül, kalkınma planına göre kendisi tarafından yapılması
+gereken yatırımlara ait mali, ekonomik ve teknik çalışmaları zamanında yaparak projelerini
+hazırlar ve bağlı ortaklıklarının aynı esaslar çerçevesinde hazırladıkları projeleri de ekleyerek
+takvim yılı başından yedi ay önce Bakanlık ile Strateji ve Bütçe Başkanlığına gönderir.
+        (2) Bakanlık; EÜAŞ ve bağlı ortaklıklarının projeleri üzerinde gerekli incelemeleri
+yaparak bunları, yıllık genel yatırım ve finansman programına dâhil edilmek üzere, aynı yılın
+Haziran ayı sonuna kadar Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına
+gönderir.
+        (3) Teşekkül, bağlı ortaklıklar arasında teknik projelerde ihtiyaçlar doğrultusundaki
+standardizasyonun sağlanması amacıyla teknik yardım yapar ve koordinasyonu sağlar.
+                                        ALTINCI BÖLÜM
+                                         Çeşitli Hükümler
+
+        Personele ilişkin hükümler
+        MADDE 20- (1) Teşekkül, müessese ve bağlı ortaklık personelinin istihdam şekilleri,
+atanmaları, görevlerine son verilmesi, yükümlülük ve sorumlulukları, kadroların tespiti, ücret,
+prim ve ikramiyeler, yurtdışına gönderme, siyasi faaliyet yasağı ve vekâlet ücretlerinin
+dağıtımı ile yönetim kurulu ve tasfiye kurulu üyelerinin ücret ve hakları konularında, 233
+sayılı Kanun Hükmünde Kararname ve 399 sayılı Kanun Hükmünde Kararname ile diğer
+ilgili mevzuat hükümleri uygulanır.
+
+        Teşekkül ile TEDAŞ ve TEİAŞ arasındaki ilişkileri düzenleyen hükümler
+        MADDE 21- (1) Teşekkül ile TEDAŞ ve TEİAŞ arasındaki mali, idari ve teknik
+konulardaki ilişkiler, teşekküllerin kendi aralarında ve Bakanlık koordinatörlüğünde
+düzenleyecekleri protokol esasları dâhilinde yürütülür. Protokol hükümlerinde anlaşmazlık
+halinde Bakanlıkça verilecek karar geçerlidir.
+        (2) Teşekkül ile TEİAŞ ve TEDAŞ’ın birbirlerine uygulayacakları mal ve hizmet
+tarifeleriyle bunların değişim esasları taraflar arasında yapılacak sözleşmelerle belirlenir.
+
+       TEK ve TEAŞ dönemine ilişkin hükümler
+       MADDE 22- (1) TEAŞ’ın yükümlülüğünde olan tüm sözleşmeler ve anlaşmaların;
+Teşekkülün amaç ve faaliyet konularıyla ilgili olanları Teşekkül tarafından üstlenilir. Birden
+fazla kuruluşu ilgilendiren sözleşmelerde ise, Teşekkülü ilgilendiren hükümlere ait hak ve
+yükümlülükler üstlenilir.
+       (2) TEK ve TEAŞ'ın mevcut ve bu Ana Statüye aykırı olmayan yönetmelikleri,
+yönetim kurulu kararları, sirkülerleri ve genelgeleri usulüne uygun olarak yenileri yürürlüğe
+konuluncaya kadar uygulanmaya devam olunur.
+
+      Ana Statüde hüküm bulunmayan hallerde uygulanacak mevzuat
+      MADDE 23- (1) Bu Ana Statüde düzenlenmeyen hususlarda 233 sayılı Kanun
+Hükmünde Kararname ile 399 sayılı Kanun Hükmünde Kararname hükümleri uygulanır. Bu
+Kanun Hükmünde Kararnamelerde de yer almayan hususlarda 6102 sayılı Kanunun ilgili
+hükümleri uygulanır.
+
+       Yürürlükten kaldırılan Ana Statü
+       MADDE 24- (1) 27/7/2006 tarihli ve 26241 sayılı Resmî Gazete’de yayımlanan
+Elektrik Üretim Anonim Şirketi Ana Statüsü yürürlükten kaldırılmıştır.
+
+       Yürürlük
+       MADDE 25- (1) Bu Ana Statü yayımı tarihinde yürürlüğe girer.
+     Yürütme
+     MADDE 26- (1) Bu Ana Statü hükümlerini Elektrik Üretim Anonim Şirketi Genel
+Müdürü yürütür.
+

@@ -7,6 +7,6 @@ amortismana tabi iktisadi kıymetleri maliyet bedeli, maliyet bedeli bilinmiyors
 kendilerince alış tarihindeki rayice göre tahmin olunacak bedeli ile değerlenir. Şu kadar ki, bu
 kıymetlerin alış tarihleri ile mükellefiyete giriş veya gerçek usule geçiş tarihi arasındaki
 yıllara ait amortismanlar tutarı bu değerden düşülür ve bakiyesinin amortismanına devam
-olunur.173
+olunur.174
         Mükellefçe tahmin olunacak bedelin fazla hesaplandığının tesbiti halinde bundan
 dolayı adına ceza kesilmez.

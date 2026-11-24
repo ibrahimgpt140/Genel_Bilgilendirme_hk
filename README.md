@@ -18,6 +18,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `yonetmelikler/` | YMM tasdik, çalışma usul ve esasları, vergi incelemesi, ticaret sicili, belge basım, gümrük yönetmelikleri |
 | `tebligler/` | Genel tebliğler, sirküler ve özelgeler |
 | `kararlar/danistay/` | Danıştay vergi daireleri ve VDDK kararları (künye + özet + tam metin), karar dizini (`dizin/`), İçtihatları Birleştirme Kurulu kararları (`ibk/`, 98 karar) ve VDDK karar bültenleri ile bültenlerdeki 644 Kurul kararı (`vddk-bultenleri/`) |
+| `cumhurbaskanligi/` | mevzuat.gov.tr'deki Cumhurbaşkanlığı Kararnameleri (işlenmiş güncel metin), Cumhurbaşkanı Kararları ve Cumhurbaşkanlığı Genelgeleri (PDF'ten çıkarılan metin); dizin: `cumhurbaskanligi/README.md` |
 | `resmi-gazete/` | Günlük Resmî Gazete taramasının özetleri |
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |
@@ -26,7 +27,8 @@ dosyanın geçmişinden (History) görülebilir.
 | `gib/uluslararasi/cvoa/` | Çifte vergilendirmeyi önleme anlaşmaları: 94 ülke, ÇVÖA özelgeleri ve tebliğleri (gib.gov.tr) |
 | `kararlar/anayasa-mahkemesi/` | Anayasa Mahkemesinin vergiyle ilgili 595 norm denetimi ve 379 bireysel başvuru kararı, konu başlıklarına göre dizinli (anayasa.gov.tr) |
 | `kilavuzlar/` | GİB kılavuzları ve analizleri |
-| `araclar/` | Toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`), eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama tarama betikleri (`danistay/`) |
+| `GUNLUK-mevzuat.md` | mevzuat.gov.tr kaynaklı içerikte (kanunlar, tüzükler, genel tebliğler, yönetmelikler, KDVGUT, Cumhurbaşkanlığı mevzuatı) her gün bulunan değişiklikler ve yeni kayıtlar (`araclar/mevzuat/mevzuat_tara.py`) |
+| `araclar/` | mevzuat.gov.tr günlük güncelleme (`mevzuat/mevzuat_tara.py`), toplu paket işleme (`toplu_isle.py`), maddelere bölme (`bol.py`), yapısal analiz (`analiz.py`), eski GİB KDVGUT PDF metni için bölüm ayırma (`bol_kdvgut.py`) ve Danıştay Karar Arama tarama betikleri (`danistay/`) |
 
 > **Claude ve diğer yapay zekâ asistanları:** Bu depoyla çalışmadan önce [`CLAUDE.md`](CLAUDE.md) dosyasındaki talimatı okuyun ve uygulayın.
 

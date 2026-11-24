@@ -6,9 +6,6 @@ bir vakıf üniversitesi kurulmuştur.
          Bu Üniversite, Rektörlüğe bağlı olarak;
          a) Fen-Edebiyat Fakültesi,
          b) İşletme Fakültesi,
-         c) Mühendislik Fakültesi,
-         d) Fen Bilimleri Enstitüsü,
-         e) Sosyal Bilimler Enstitüsü‘nden,
 
 100
     a) 28/4/2003 tarihli ve 2003/5593 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk
@@ -30,4 +27,7 @@ Bilimleri Enstitüsü kurulmuştur.
     ğ) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
 
+         c) Mühendislik Fakültesi,
+         d) Fen Bilimleri Enstitüsü,
+         e) Sosyal Bilimler Enstitüsü‘nden,
          Oluşur.

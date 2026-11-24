@@ -5,17 +5,16 @@ değerlerini, azalan bakıyeler üzerinden amortisman usulü ile yok edebilirler
        Bu usulün tatbikinde;
        1. Her yıl, üzerinden amortisman hesaplanacak değer, evvelce ayrılmış olan
 amortismanlar toplamının tenzili suretiyle tesbit olunur. (Ek hüküm: 17/12/2003-5024/4
-md.) Enflasyon düzeltmesi yapılan dönemlerde, üzerinden amortisman ayrılacak değer,
-amortismana tâbi iktisadî kıymetin düzeltilmiş değerinden daha evvel ayrılmış olan
-amortismanların toplamının taşınmış değerleri indirilmek suretiyle tespit edilir.
 
 
-
-106
+107
    14/10/2021 tarihli ve 7338 sayılı Kanunun 32 nci maddesiyle bu fıkraya “kıymetlerini” ibaresinden sonra
 gelmek üzere “, 320 nci maddenin dördüncü fıkrası saklı kalmak üzere,” ibaresi eklenmiştir.
 
+md.) Enflasyon düzeltmesi yapılan dönemlerde, üzerinden amortisman ayrılacak değer,
+amortismana tâbi iktisadî kıymetin düzeltilmiş değerinden daha evvel ayrılmış olan
+amortismanların toplamının taşınmış değerleri indirilmek suretiyle tespit edilir.
         2. (Değişik: 17/12/2003-5024/4 md.) Bu usulde uygulanacak amortisman oranı %
-50'yi geçmemek üzere normal amortisman oranının iki katıdır.107
+50'yi geçmemek üzere normal amortisman oranının iki katıdır.108
         3. Bu usulde amortisman süresi normal amortisman nispetlerine göre hesaplanır.
         Bu sürenin son yılına devreden bakıye değer, o yıl tamamen yok edilir.

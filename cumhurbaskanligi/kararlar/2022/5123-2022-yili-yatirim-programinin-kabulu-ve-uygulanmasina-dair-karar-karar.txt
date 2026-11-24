@@ -1,0 +1,81 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.5123.pdf
+ADI: 2022 YILI YATIRIM PROGRAMININ KABULÜ VE UYGULANMASINA DAİR KARAR (KARAR SAYISI: 5123)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 15.01.2022 / 31720 (Mükerrer)
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: e34ed514b0acd27411d8a1125e3911616b0d432d0ab73b47632db124889659de
+
+15 Ocak 2022 CUMARTESİ          Resmî Gazete                  Sayı : 31720 (Mükerrer)
+
+                         CUMHURBAŞKANI KARARI
+
+
+
+
+      Karar Sayısı: 5123
+
+
+
+
+                                   14 Ocak 2022
+
+
+
+
+                                                    Recep Tayyip ERDOĞAN
+                                                      CUMHURBAŞKANI
+
+
+
+
+DÜZELTME: 16/1/2022 tarihli ve 31721 sayılı Resmî Gazete'de yayımlanan düzeltme ile
+bu Kararın eki 2022 Yılı Yatırım Programının Kabulü ve Uygulanmasına Dair Kararın
+sehven mükerrer yayımlanan 159’uncu sayfası değiştirilerek düzeltilmiştir.
+SEKTÖRÜ:                EC.ITIM - YÜKSEKÖGRETIM
+PROJE SAHiBi:           DÜZCE ÜNI. - EGE ÜNI.
+
+                                                                                                                                    PROJE TUTAR!                  2021 YILI SONU KÜMÜLATIF
+                                                                                                                 BAŞLAMA                                                   HARCAMA                    2022 YILI YATIRIMI
+PROJE NO                                  PROJE ADI              YERi            KARAKTERISTIC.I                   BiTiŞ
+                                                                                                                   YILI      DIŞ KREDi        TOPLAM             DIŞ KREDi       TOPLAM          DIŞ KREDi        TOPLAM
+B) DEVAM EDEN PROJELER TOPLAMI                                                                                                                     178.488.000                      55.368.000                         38.500.000
+b) 2022 yılından sonraya kalanlar                                                                                                                  178.488.000                      55.368.000                         38.500.000
+2008H03-924            Derslik ve Merkezi Birimler               Düzce     Eğitim (26.000 m'). Kütüphane         2008-2024                         154.488.000                      50.318.000                         30.000.000
+                                                                                    (18.830 m')
+                         Kütüphane Binası                        Düzce         Kütüphane (18.830 m')             2018-2024                          54.000.000                       8.906.000                                2.000
+                         Spor Bilimleri Fakültesi                Düzce            Eğitim (6.000 m')              2017-2024                          44.238.000                      10.162.000                             4.998.000
+                         Sağlık Bilimleri Fakültesi ikmal lnş.   Düzce           Eğitim (20.000 m')              2020-2022                          56.250.000                      31.250.000                        25.000.000
+2020H03-153178           Kampüs Altyapısı                        Düzce   Doğalgaz Dönüşümü, Elektrik hattı,      2020-2023                          24.000.000                       5.050.000                             8.500.000
+                                                                         Kampüs içi Yol, Kanalizasyon hattı,
+                                                                         Peyzaj, Su isale hattı, Telefon hattı
+C) YENİ PROJELER TOPLAM!                                                                                                                             6.400.000                                                             6.400.000
+a) 2022 yılında bitenler                                                                                                                             6.400.000                                                             6.400.000
+2022H03-186454           Muhtelif İşler                          Düzce   Bakım Onarım, BİT, Kesin Hesap,         2022-2022                           5.200.000                                                             5.200.000
+                                                                                Makine-Teçhizat
+2022H03-186468           Yayın Alımı                             Düzce   Basılı Yayın Alımı, Elektronik Yayın    2022-2022                           1.200.000                                                             1.200.000
+                                                                                         Alımı
+
+EGE ÜNiVERSiTESi                                                                                                                                   115.258.000                      72.475.000                         39.431.000
+A) ETÜD-PROJE iŞLERi TOPLAMI                                                                                                                          200.000                                                               200.000
+a) 2022 yılında bitenler                                                                                                                              200.000                                                               200.000
+2022H03-186474           Çeşitli Ünitelerin Etüt Projesi         lzmir                Etüt-Proje                 2022-2022                            200.000                                                               200.000
+B) DEVAM EDEN PROJELER TOPLAMI                                                                                                                     101.058.000                      72.475.000                        25.231.000
+a) 2022 yılında bitenler                                                                                                                            60.903.000                      50.672.000                        10.231.000
+2005H03-734              Derslik ve Merkezi Birimler             İzmir           Eğitim (11.000 m')              2005-2022                          44.803.000                      40.572.000                         4.231.000
+                        Yabancı Diller Yüksek Okulu Binası       İzmir           Eğitim (11.000 m')              2017-2022                          44.803.000                      40.572.000                             4.231.000
+2020H03-150139           Kampüs Altyapısı                        lzmir   Doğalgaz Dönüşümü, Elektrik hattı,      2020-2022                          16.100.000                      10.100.000                             6.000.000
+                                                                         Kampüs İçi Yol, Kanalizasyon hattı,
+                                                                         Peyzaj, Su isale hattı, Telefon hattı
+b) 2022 yılından sonraya kalanlar                                                                                                                   40.155.000                      21.803.000                         15.000.000
+2020H03-150145         Büyük Onarım                              İzmir      Büyük Onarım, Güçlendirme,           2020-2023                          30.155.000                      20.153.000                         10.000.000
+                                                                                   Restorasyon
+2021H03-168766           Ulusal Açık Ders Malzemeleri Üretimi    İzmir   BİT, Etüt-Proje, Müşavirlik, Makine-    2021-2023                          10.000.000                       1.650.000                             5.000.000
+                         ve Paylaşımı                                                  Teçhizat
+C} YENİ PROJELER TOPLAM!                                                                                                                            14.000.000                                                         14.000.000
+a) 2022 yılında bitenler                                                                                                                            14.000.000                                                         14.000.000
+2022H03-186472           Muhtelif İşler                          lzmir   Bakım Onarım, BİT, Kesin Hesap,         2022-2022                           8.000.000                                                          8.000.000
+                                                                                Makine-Teçhizat
+2022H03-186476           Yayın Alımı                             İzmir   Basılı Yayın Alımı, Elektronik Yayın    2022-2022                           6.000.000                                                             6.000.000
+                                                                                         Alımı
+

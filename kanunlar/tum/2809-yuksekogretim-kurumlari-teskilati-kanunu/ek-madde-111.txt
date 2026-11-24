@@ -13,7 +13,7 @@ sahip Toros Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
        f) Meslek Yüksekokulundan,
        g) Fen Bilimleri Enstitüsünden,
        ğ) Sosyal Bilimler Enstitüsünden,
-        oluşur.
+       oluşur.
 
 
 

@@ -1,10 +1,11 @@
-       İstanbul Beykent Üniversitesi:105106
-       Ek Madde 45 – (Ek: 9/7/1997-4282/1 md.)
-       İstanbul’da Adem Çelik-Beykent Eğitim Vakfı tarafından, 2547 sayılı Kanunun vakıf
-yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz
-“İstanbul Beykent Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
-       Bu Üniversite, Rektörlüğe bağlı olarak;
+        İstanbul Beykent Üniversitesi:105106
+        Ek Madde 45 – (Ek: 9/7/1997-4282/1 md.)
+        İstanbul’da Adem Çelik-Beykent Eğitim Vakfı tarafından, 2547 sayılı Kanunun vakıf
 
+    f) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-
+Edebiyat Fakültesinin adı İnsan ve Toplum Bilimleri Fakültesi olarak değiştirilmiştir.
+    g) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan İktisadi ve İdari
+Bilimler Fakültesinin adı İşletme ve Yönetim Bilimleri Fakültesi olarak değiştirilmiştir.
     ğ) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuştur.
     h) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile Rektörlük
@@ -36,10 +37,13 @@ Yüksekokulu kapatılmıştır.
     2/2/2023 tarihli ve 7437 sayılı Kanunun 5 inci maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
 alan “Beykent Üniversitesi” ibareleri “İstanbul Beykent Üniversitesi” şeklinde değiştirilmiştir.
 
-         a) Fen-Edebiyat Fakültesi,
-         b) İktisadi ve İdari Bilimler Fakültesi,
-         c) Mimarlık Fakültesi,
-         d) Güzel Sanatlar Fakültesi,
-         e) Sosyal Bilimler Enstitüsü,
-         f) Fen Bilimleri Enstitüsünden,
-         Oluşur.
+yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz
+“İstanbul Beykent Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
+       Bu Üniversite, Rektörlüğe bağlı olarak;
+       a) Fen-Edebiyat Fakültesi,
+       b) İktisadi ve İdari Bilimler Fakültesi,
+       c) Mimarlık Fakültesi,
+       d) Güzel Sanatlar Fakültesi,
+       e) Sosyal Bilimler Enstitüsü,
+       f) Fen Bilimleri Enstitüsünden,
+       Oluşur.

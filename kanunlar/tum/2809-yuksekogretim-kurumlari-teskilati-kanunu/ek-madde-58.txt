@@ -1,3 +1,4 @@
+        Düzce Üniversitesi:123
         Ek Madde 58 – (Ek: 1/3/2006-5467/1 md.)
         Düzce'de Düzce Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
         a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi ile Abant İzzet Baysal
@@ -9,11 +10,14 @@ Otelcilik Yüksekokulundan,
         c) Abant İzzet Baysal Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu ile Akçakoca Meslek Yüksekokulundan,
         d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
-Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
-        oluşur.
 
-        Burdur Mehmet Akif Ersoy Üniversitesi:124125
-
+123
+    a) 28/4/2008 tarihli ve 2008/13603 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik
+Fakültesi kurulmuştur.
+    b) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Teknik
+Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
+    c) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İşletme Fakültesi,
+Sanat ve Tasarım Fakültesi kurulmuştur.
     ç) 28/7/2010 tarihli ve 2010/776 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
 Yüksekokulu kurulmuş, daha sonra 16/1/2012 tarihli ve 2012/2732 sayılı Bakanlar Kurulu kararı ile bu
 yüksekokulun adı Hakime Erciyas Yabancı Diller Yüksekokulu olarak değiştirilmiştir.
@@ -49,6 +53,6 @@ Rektörlüğe bağlı olan Ziraat ve Doğa Bilimleri Fakültesinin adı Ziraat F
     ö) 1/7/2025 tarihli ve 32943 sayılı Resmî Gazete’de yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Akçakoca Turizm İşletmeciliği ve
 Otelcilik Yüksekokulu kapatılmıştır.
-124
-    9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer alan
-“Mehmet Akif Ersoy Üniversitesi” ibareleri “Burdur Mehmet Akif Ersoy Üniversitesi” şeklinde değiştirilmiştir.
+
+Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
+       oluşur.

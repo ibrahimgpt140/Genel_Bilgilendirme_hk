@@ -7,9 +7,6 @@ Bu üniversite;
 Fakültesi ile Mühendislik-Mimarlık Fakültesinden,
        b) Anadolu Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe bağlanan Sağlık
 Hizmetleri Meslek Yüksekokulu ile Eskişehir Sağlık Hizmetleri Meslek Yüksekokulundan,
-       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Anadolu Üniversitesi
-Rektörlüğüne bağlı iken,bağlantısı değiştirilerek rektörlüğe bağlanan Fen Bilimleri Enstitüsü,
-Metalurji Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
 
 89
    Bazı üniversitelere bağlı olarak kurulan sağlık yüksekokullarıyla ilgili olarak 2/11/1996 tarihli ve 22805 sayılı
@@ -51,4 +48,7 @@ Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen Fakültesi kurulmuş, Rektörlük bünyesinde
 yer alan Fen- Edebiyat Fakültesi kapatılmıştır.
 
-        oluşur.
+       c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Anadolu Üniversitesi
+Rektörlüğüne bağlı iken,bağlantısı değiştirilerek rektörlüğe bağlanan Fen Bilimleri Enstitüsü,
+Metalurji Enstitüsü ve Sağlık Bilimleri Enstitüsünden,
+       oluşur.

@@ -19,11 +19,11 @@ yapıldığı tarihi takip eden üçüncü takvim yılının sonuna kadar pasift
 tutulabilir. Bu süre içinde, satılan iktisadi kıymetlerin yenilenmesi veya benzer mahiyetteki
 bir iktisadi kıymetin iktisabı gerçekleşmezse, geçici hesapta tutulan kâr, satışın yapıldığı yılı
 takip eden üçüncü takvim yılının kâr ve zarar hesabına eklenir.
+
         b) Pasifte geçici bir hesapta tutulan kâr, finansal kiralama yoluyla edinilenler de dâhil
 olmak üzere (a) bendindeki esaslar dâhilinde iktisap edilen bir veya birden fazla kıymetin bu
 Kanun hükümlerine göre ayrılacak amortismanlarına mahsup edilir. Bu mahsup
 tamamlandıktan sonra itfa edilmemiş olarak kalan değerlerin amortismanına devam olunur.
-
         c) Pasifte geçici bir hesapta tutulan kâr, satışı yapılan iktisadi kıymetin yerine iktisap
 edilen yeni kıymetlerin amortisman ayrılabilecek tutarından fazla ise bu fazlalık, satışın
 yapıldığı yılı takip eden üçüncü takvim yılının kâr ve zarar hesabına eklenir.

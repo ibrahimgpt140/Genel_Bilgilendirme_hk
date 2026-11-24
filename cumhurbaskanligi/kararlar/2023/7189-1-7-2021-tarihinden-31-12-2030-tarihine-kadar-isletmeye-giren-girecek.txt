@@ -1,0 +1,51 @@
+KAYNAK: https://www.mevzuat.gov.tr/MevzuatMetin/20.5.7189.pdf
+ADI: 1/7/2021 TARİHİNDEN 31/12/2030 TARİHİNE KADAR İŞLETMEYE GİREN/GİRECEK YEK BELGELİ YENİLENEBİLİR ENERJİ KAYNAKLARINA DAYALI ELEKTRİK ÜRETİM TESİSLERİ İÇİN UYGULANACAK FİYATLAR VE SÜRELER İLE FİYATLARIN GÜNCELLENMESİNE İLİŞKİN KARAR (KARAR SAYISI: 7189)
+TÜR: Cumhurbaşkanı Kararı
+RESMÎ GAZETE: 01.05.2023 / 32177
+ALINMA: 24.11.2026 (mevzuat.gov.tr güncel metni)
+
+PDF SHA-256: 320abf35d2f2c12131a81152184437108e1d735c4cf4203d40a2c3f3982302cb
+
+1 Mayıs 2023 PAZARTESİ                  Resmî Gazete                                     Sayı : 32177
+
+                          CUMHURBAŞKANI KARARI
+
+
+
+
+      Karar Sayısı: 7189
+
+
+
+
+                                          30 Nisan 2023
+
+
+
+
+                                                                Recep Tayyip ERDOĞAN
+                                                                   CUMHURBAŞKANI
+
+
+
+
+           _________
+          DÜZELTME:4/5/2023 tarihli ve 32180 sayılı Resmî Gazete’de yayımlanan düzeltme ile Kararın
+ Ek-2’sindeki KURE-2 terimine ait tanımda sehven “ABD Doları” şeklinde yer alan ibare “Avro” şeklinde
+ değiştirilerek düzeltilmiştir.
+                     Güncel YEK Destekleme Mekanizması Uygulama Fiyatının geçerli olacağı aydan önceki ikinci ay içerisinde Türkiye Cumhuriyet
+ KURE-2              Merkez Bankası tarafından yayımlanan günlük Avro alış kurlarının ortalaması
+
+(*) YEKDEMao ile YKFao değeri virgülden sonra iki hane olacak şekilde yuvarlanarak uygulanır.
+(**) İlk güncelleme hesabı için kullanılacak YEKDEMoao ile YKFoao değeri için Ek-1 'de yer alan.fiyatlar kullanılır.
+
+
+Herhangi bir aylık dönem için "Türk Lirası kuruş/kWh" cinsinden hesaplanan "YEKDEMao" değerinin, bu aylık dönemden bir önceki ay içerisinde
+Türkiye Cumhuriyet Merkez Bankası tarafından yayımlanan günlük ABD Doları alış kurlarının ortalama değeri kullanılarak ABD Doları cinsinden
+karşılığı belirlenir.
+
+ABD Doları cinsinden belirlenen YEKDEMGD'nin, YEKDEMTAVAN ve YEKDEMTABAN değerlerinin arasında olması halinde YEKDEMGD,
+YEKDEMGD'nin YEKDEM1AvAN'nın üzerinde olması durumunda YEKDEMTAVAN ve YEKDEMGD'nin YEKDEMTABAN'nın altında olması
+halinde ise YEKDEMTABAN değerinin ilgili aylık dönemden bir önceki ay içerisinde Türkiye Cumhuriyet Merkez Bankası tarafından yayımlanan
+günlük ABD Doları alış kurlarının ortalama değerine göre hesaplanan "Türk Lirası kuruş/kWh" cinsinden karşılığı ilgili aylık dönem için uygulanır.
+

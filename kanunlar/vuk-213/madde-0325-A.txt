@@ -13,6 +13,7 @@ ettirilmeyen vergiler gecikme faizi ile birlikte tahsil edilir.
 çekilmesi, ortaklara dağıtılması, dar mükelleflerce ana merkeze aktarılması veya işin terki,
 işletmenin tasfiyesi, devredilmesi, bölünmesi ya da girişim sermayesi yatırım ortaklıklarının
 hisse senetlerinin veya girişim sermayesi yatırım fonu katılma paylarının elden
+
 çıkarılmasından itibaren altı ay içinde bu maddede belirtilen amaçla yeniden kullanılmaması
 halinde, bu işlemlerin yapıldığı veya sürenin dolduğu dönemde vergiye tabi tutulur.
         Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.

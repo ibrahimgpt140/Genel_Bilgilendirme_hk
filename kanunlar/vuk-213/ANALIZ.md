@@ -42,7 +42,7 @@ Başlık sonundaki sayılar kaynak metindeki dipnot işaretleridir.
 | &nbsp;&nbsp;BİRİNCİ KISIM | Genel Esaslar | 331 |
 | &nbsp;&nbsp;İKİNCİ KISIM | Vergi Cezaları | 344 |
 | &nbsp;&nbsp;ÜÇÜNCÜ KISIM | Vergi Cezasının Kesilmesi, Ödenmesi ve Kalkması | 364 |
-| BEŞİNCİ KİTAP | Vergi Davaları167 | 377 |
+| BEŞİNCİ KİTAP | Vergi Davaları168 | 377 |
 
 ## İşlem notlarına göre en yeni 15 değişiklik
 

@@ -203,7 +203,7 @@ tespitinde dikkate alınır.
 ayı dahil) bir önceki yılın aynı dönemine göre Devlet İstatistik Enstitüsünün Toptan Eşya
 
 Fiyatları Genel Endeksinde meydana gelen ortalama fiyat artış oranıdır. Bu oran Maliye
-Bakanlığınca Resmî Gazete ile ilân edilir.96979899100101102103104
+Bakanlığınca Resmî Gazete ile ilân edilir.96979899100101102103104105
         C) (Ek: 30/3/2006-5479/11 md.) Vergi kanunlarında yer alan "toptan eşya fiyatları
 genel endeksi" ibaresi "üretici fiyatları genel endeksi" ve "TEFE" ibaresi "ÜFE" olarak
 uygulanır.
@@ -212,9 +212,7 @@ defter tutan gelir veya kurumlar vergisi mükellefleri (kollektif, adî komandit
 dâhil, (A) fıkrasının (9) numaralı bendi kapsamında söz konusu fıkranın (1) numaralı
 bendinde yer alan şartlara bakılmaksızın enflasyon düzeltmesi yapanlar ile kayıtlarını Türk
 para birimi dışında başka bir para birimiyle tutmalarına izin verilenler hariç), (A) fıkrasında
-yer alan enflasyon düzeltmesi yapma şartlarının gerçekleşmediği hesap dönemlerinin sonu
-itibarıyla, bilançolarına dâhil bulunan amortismana tabi iktisadi kıymetlerini (bu niteliklerini
-korudukları müddetçe sat-kirala-geri al işlemine veya kira sertifikası ihracına konu edilenler
+
 96
      11/11/2017 tarihli ve 30237 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığı (Gelir İdaresi
 Başkanlığı)’nın 484 Sıra Nolu Vergi Usul Kanunu Genel Tebliği ile 2017 yılı için yeniden değerleme oranı %
@@ -264,7 +262,15 @@ tebliğler de yürürlükte bulunmaktadır.
 Başkanlığı)’nın 585 Sıra Nolu Vergi Usul Kanunu Genel Tebliği ile 2025 yılı için yeniden değerleme oranı %
 25,49 (yirmi beş virgül kırk dokuz) olarak tespit edilmiştir. Öte yandan, bu konuda daha önce yayımlanmış olan
 tebliğler de yürürlükte bulunmaktadır.
+105
+     24/11/2026 tarihli ve 33440 sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye Bakanlığı (Gelir İdaresi
+Başkanlığı)’nın 599 Sıra Nolu Vergi Usul Kanunu Genel Tebliği ile 2026 yılı için yeniden değerleme oranı %
+27,83 (yirmi yedi virgül seksen üç) olarak tespit edilmiştir. Öte yandan, bu konuda daha önce yayımlanmış olan
+tebliğler de yürürlükte bulunmaktadır.
 
+yer alan enflasyon düzeltmesi yapma şartlarının gerçekleşmediği hesap dönemlerinin sonu
+itibarıyla, bilançolarına dâhil bulunan amortismana tabi iktisadi kıymetlerini (bu niteliklerini
+korudukları müddetçe sat-kirala-geri al işlemine veya kira sertifikası ihracına konu edilenler
 hariç) ve bunlar üzerinden ayrılmış olup bilançolarının pasifinde gösterilen amortismanları
 aşağıda belirtilen şartlar doğrultusunda yeniden değerleyebilirler.
          1. İktisadi kıymetlerin maliyet bedellerine eklenmiş bulunan (iktisadi kıymetlerin
@@ -301,10 +307,10 @@ her birine isabet eden değer artışları ile bunların hesap şekilleri amorti
 ayrıntılı olarak gösterilir.
          6. Pasifte özel bir fon hesabında gösterilen değer artışı tutarının, sermayeye ilave
 edilme dışında herhangi bir şekilde başka bir hesaba nakledilen veya işletmeden çekilen
+
 kısmı, bu işlemin yapıldığı dönem kazancı ile ilişkilendirilmeksizin bu dönemde gelir veya
 kurumlar vergisine tabi tutulur. Sermayeye eklenen değer artışları, ortaklar tarafından
 işletmeye ilave edilmiş kıymetler olarak kabul edilir. Bu işlemler kâr dağıtımı sayılmaz.
-
          7. Yeniden değerlemeye tabi tutulan iktisadi kıymetlerin elden çıkarılması (satış,
 devir, işletmeden çekiş, tasfiye gibi) halinde, bunlara isabet eden pasifte özel bir fon
 hesabında gösterilen değer artışları aynen amortismanlar gibi muameleye tabi tutulur.

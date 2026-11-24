@@ -1,6 +1,6 @@
-# YMM Mevzuat Bilgi Bankası
+# Vergi ve Ticaret Mevzuatı Arşivi
 
-Yeminli mali müşavirlik çalışmalarında kullanılan mevzuatın sürümlü arşivi.
+Vergi, ticaret ve gümrük mevzuatının sürümlü arşivi.
 Her değişiklik tarihli bir kayıt olarak tutulur; bir maddenin geçmişteki hali
 dosyanın geçmişinden (History) görülebilir.
 

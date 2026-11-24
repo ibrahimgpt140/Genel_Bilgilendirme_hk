@@ -2,6 +2,857 @@
 kaynak: https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/mevzuat/uluslararasi_mevzuat/TURKCE_METIN/GAMBIYA.pdf
 dosya: GAMBIYA.pdf
 baglanti_sayfasi: arsiv/mevzuat/uluslararasi_mevzuat/Cifte_Vergilendirme/Ciftevergilendirmeturkcemetinleri.htm
+ocr: true
 ---
 
-_(Metin çıkarılamadı: taranmış görüntü olabilir; özgün dosyaya bakınız.)_
+> **OCR metni:** Bu belge taranmış görüntüdür; metin Tesseract (Türkçe) ile çıkarılmıştır ve okuma hataları içerebilir. Kesin metin için PDF'e bakınız.
+
+TÜRKİYE CUMHURİYETİ HÜKÜMETİ
+İLE
+GAMBİYA CUMHURİYETİ HÜKÜMETİ ARASINDA
+GELİR ÜZERİNDEN ALINAN VERGİLERDE
+
+“ÇİFTE VERGİLENDİRMEYİ ÖNLEME ANLAŞMASI
+
+TÜRKİYE CUMHURİYETİ HÜKÜMETİ
+
+VE
+
+GAMBİYA CUMHURİYETİ HÜKÜMETİ
+
+Gelir üzerinden alınan vergilerde çifte vergilendirmeyi
+önleyen bir Anlaşma yapmak isteğiyle
+
+AŞAĞIDAKİ ANLAŞMAYA VARMIŞLARDIR:
+
+Madde 1 ,
+KAPSANAN KİŞİLER
+
+Bu Anlaşma, Akit Devletlerden birinin veya her ikisinin mukimi olan kişilere
+uygulanacaktır. '
+
+Madde 2 ,
+KAPSANAN VERGİLER
+
+1. Bu Anlaşma, ne şekilde alındığına bakılmaksızın bir Akit Devlet veya politik alt
+bölümleri ya da mahalli idareleri adına gelir üzerinden alınan vergilere uygulanacaktır.
+
+2. Menkul veya gayrimenkul varlıkların devrinden doğan kazançlara uygulanan
+vergiler ile teşebbüsler tarafından ödenen ücret ya da maaşların toplam tutarı üzerinden
+alınan vergiler de dahil olmak üzere, toplam gelir veya gelirin unsurları üzerinden alınan
+tüm vergiler, gelir üzerinden alınan vergiler olarak kabul edilecektir.
+
+3. Anlaşmanın uygulanacağı mevcut vergiler özellikle:
+
+.a) Türkiye'de:
+
+i) gelir vergisi;
+il) kurumlar vergisi;
+
+(bundan böyle “Türk vergisi" olarak bahsedilecektir)
+Gambiya'da:
+
+i) gelir vergisi;
+il kurumlar vergisi;
+
+(bundan böyle "Gambiya vergisi" olarak bahsedilecektir).
+
+4. Anlaşma aynı zamanda, Anlaşmanın imza tarihinden sonra mevcut vergilere
+ilave olarak veya onların yerine alınan ve mevcut vergilerle aynı nitelikte olan veya onlara
+önemli ölçüde benzeyen vergilere de uygulanacaktır. Akit Devletlerin yetkili makamları,
+ilgili vergi mevzuatlarında yapılan önemli değişiklikleri birbirlerine bildireceklerdir.
+
+Madde 3
+GENEL TANIMLAR
+
+Bu Anlaşmanın amaçları yönünden, metin aksini gerektirmedikçe:
+
+a) i) “Türkiye” terimi, kara ülkesi, iç suları, karasuları ve bunların üzerindeki
+hava sahasını, bunun yanı sıra Türkiye'nin uluslararası hukuk uyarınca canlı
+veya cansız doğal kaynakların aranması, işletilmesi ve korunması amacıyla
+egemenlik hak ve yetkilerine sahip olduğu deniz alanlarını ifade eder;
+
+ih “Gambiya” terimi, kara ülkesi, iç suları, karasuları ve bunların üzerindeki
+hava sahasını, bunun yanı sıra Gambiya'nın uluslararası hukuk uyarınca canlı
+
+2.
+
+veya cansiz doğal kaynakların aranması, işletilmesi ve korunması amacıyla
+egemenlik hak ve yetkilerine sahip olduğu deniz alanlarını ifade eder;
+
+b) "bir Akit Devlet" ve "diğer Akit Devlet" terimleri, metnin gereğine göre Türkiye
+veya Gambiya anlamına gelir;
+
+c) “vergi” terimi, bu Anlaşmanın 2 nci maddesinde kavranan vergileri ifade eder;
+
+d) "kişi" terimi, bir gerçek kişiyi, bir şirketi ve kişilerin oluşturduğu diğer herhangi
+bir kuruluşu kapsar;
+
+6) "şirket" terimi, herhangi bir kurum veya vergileme yönünden kurum olarak
+muamele gören herhangi bir kuruluş anlamına gelir;
+
+f) “kanuni ana merkez” terimi, Türk Ticaret Kanunu veya Gambiya Şirket Sicili'ne
+göre tescil edilen kayıtlı merkezi ifade eder;
+
+g) Bir Akit Devlete ilişkin "vatandaş" terimi:
+
+i) o Akit Devletin vatandaşlığı veya uyrukluğuna sahip herhangi bir gerçek
+kişiyi; ve
+
+il) o Akit Devlette yürürlükte olan mevzuata göre statü kazanan herhangi bir
+tüzel kişiyi, ortaklığı veya birliği
+
+ifade eder;
+
+h) "bir Akit Devlet teşebbüsü" ve "diğer Akit Devlet teşebbüsü" terimleri sırasıyla,
+bir Akit Devletin mukimi tarafından işletilen bir teşebbüs. ve diğer Akit Devletin
+mukimi tarafından işletilen bir teşebbüs anlamına gelir;
+i) "yetkili makam" terimi:
+
+i) Türkiye'de, Maliye Bakanını veya onun yetkili temsilcisini; ve
+
+i) Gambiya'da, Maliye ve Ekonomik İşler Bakanını veya onun yetkili
+temsilcisini;
+
+ifade eder;
+İ) “uluslararası trafik” terimi, yalnızca diğer Akit Devletin sınırları içinde bulunan
+yerler arasında yapılan gemi, uçak veya kara yolu nakil vasıtası işletmeciliği hariç
+olmak üzere, bir Akit Devlet teşebbüsü tarafından gemi, uçak veya kara yolu nakil
+vasıtası işletilerek yapılan her türlü taşımacılığı ifade eder.
+
+Anlaşmanın bir Akit Devlet tarafından herhangi bir tarihte uygulanması
+
+bakımından, Anlaşmada tanımlanmamış herhangi bir terim, metin aksini gerektirmedikçe,
+Anlaşmanın uygulandığı vergilerin amaçları bakımından, o tarihte bu Devletin
+mevzuatında sahip olduğu anlamı taşıyacak ve. bu Devletin yürürlükteki :vergi
+mevzuatında yer alan herhangi bir anlam, bu Devletin diğer mevzuatında bu terime
+verilen anlama göre üstünlük taşıyacaktır.
+
+Madde 4
+MUKİM
+
+1. Bu Anlaşmanın amaçları bakımından, "bir Akit Devletin mukimi” terimi, bu Devlet,
+
+herhangi bir politik alt bölümü veya mahalli idaresi de dahil olmak üzere, o Devletin
+
+mevzuatı gereğince ev, ikametgah, kanuni ana merkez, yönetim yeri veya benzer yapıda
+
+diğer herhangi bir kriter nedeniyle vergiye tabi olan herhangi bir kişi anlamına gelir. Ancak
+
+bu terim, yalnızca o Devletteki kaynaklardan elde edilen gelir nedeniyle o Devlette:
+vergiye tabi tutulan herhangi bir kişiyi kapsamaz.
+
+2. 1 inci fıkra hükümleri dolayısıyla bir gerçek kişi her iki Akit Devletin de mukimi
+olduğunda, bu kişinin durumu aşağıdaki şekilde belirlenecektir: ,
+
+a) bu kişi, yalnızca daimi olarak kalabileceği bir evin bulunduğu Devletin mukimi
+kabul edilecektir. Eğer bu kişinin her iki Devlette de daimi olarak kalabileceği" bir
+evi varsa, bu kişi, yalnızca kişisel ve ekonomik ilişkilerinin daha yakın olduğu
+(hayati menfaatlerin merkezi olan) Devletin mukimi kabul edilecektir; .
+
+b) eğer kişinin hayati menfaatlerinin merkezinin yer aldığı Devlet saptanamazsa
+veya her iki Devlette de daimi olarak kalabileceği bir evi yoksa, 'bu kişi yalnızca
+kalmayı adet edindiği evin bulunduğu Devletin mukimi kabul edilecektir;
+
+c) eğer kişinin her iki Devlette de kalmayı adet edindiği bir ev varsa veya her iki
+Devlette de böyle bir ev söz konusu değilse, bu kişi yalnızça vatandaşı .olduğu
+Devletin mukimi kabul edilecektir;
+
+d) eğer kişi her iki Devletin de vatandaşıysa veya her iki Devletin de vatandaşı.
+değilse, Akit Devletlerin yetkili o makamları sorunu karşılıklı anlaşmayla
+çözeceklerdir.
+
+3. Gerçek kişi dışındaki bir kişi, 1 inci fıkra hükümleri dolayısıyla.her iki Akit Devletin
+de mukimi olduğunda, bu kişi yalnızca kanuni ana merkezinin bulunduğu Devletin mukimi
+kabul edilecektir.
+
+Madde 5
+İŞ YERİ
+
+1. Bu Anlaşmanın amaçları bakımından "iş yeri" terimi, bir teşebbüsün : işinin
+tamamen veya kısmen yürütüldüğü işe ilişkin sabit bir yer anlamına gelir. ©
+
+2. "İş yeri" terimi özellikle şunları kapsamına alır:
+
+a) yönetim yeri;
+“şube;
+büro;
+fabrika;
+
+atölye, ve
+
+f) maden ocağı, petrol veya doğal gaz kuyusu, taş ocağı veya doğal kaynakların
+çıkarıldığı diğer herhangi bir yer.
+
+3. Bir inşaat şantiyesi, yapım, montaj veya kurma projesi, yalnızca 12 ayı aşan bir
+süre devam etmesi durumunda bir iş yeri oluşturur.
+
+4. — Bu maddenin daha önceki hükümleri ile bağlı kalınmaksızın, "iş yeri" teriminin
+"aşağıdaki hususları kapsamadığı kabul edilecektir:
+
+i a) tesislerin, teşebbüse ait malların veya ticari eşyanın yalnızca depolanması,
+teşhiri veya teslimi amacıyla kullanılması;
+
+b) teşebbüse ait mal veya ticari eşya stoklarının, yalnızca depolama, teşhir veya
+teslim amacıyla elde tutulması;
+
+c) teşebbüse ait mal veya ticari eşya stoklarının, yalnızca bir başkâ teşebbüse
+" işlettirilmesi amacıyla elde tutulması;
+
+d) işe ilişkin sabit bir yerin, yalnızca teşebbüse mal veya ticari eşya satın alma
+veya bilgi toplama amacıyla elde tutulması;
+
+e) işe ilişkin sabit bir yerin, teşebbüs için yalnızca hazırlayıcı veya yardımcı
+karakter taşıyan diğer herhangi bir işin yürütülmesi amacıyla elde tutulması;
+
+f) işeilişkin sabit bir yerin, yalnızca a) ila e) bentlerinde bahsedilen faaliyetlerin
+birini veya birkaçını bir arada icra etmek için elde tutulması; ancak, söz konusu
+faaliyetlerin bir arada yürütülmesi sonucunda işe ilişkin sabit yerde oluşan bütün
+bu faaliyetlerin hazırlayıcı veya yardımcı nitelikte olması şarttır.
+
+5. 1 inci ve 2 nci fıkra hükümleriyle bağlı kalınmaksızın, bir kişi - 6 ncı fıkranın
+uygulanacağı bağımsız nitelikteki bir acente dışında- bir Akit Devlette, bir teşebbüs adına
+
+. hareket eder ve o teşebbüs adına sözleşme akdetme yetkisine sahip olup, bu yetkisini “
+mutaden kullanırsa, bu kişinin faaliyetleri, 4 üncü fıkrada bahsedilen ve anılan fikra
+hükümlerine göre işe ilişkin sabit bir yer aracılığıyla yürütüldüğünde bu sabit yere iş yeri
+mahiyeti kazandırmayan faaliyetler ile sınırlı olmadıkça, bu teşebbüs, bu Devlette, söz
+konusu kişinin teşebbüs için gerçekleştirdiği her türlü faaliyet dolayısıyla bir iş yerine
+sahip kabul edilecektir.
+
+6. Bir teşebbüs, bir Akit Devlette, işlerini yalnızca kendi işlerine olağan şekilde
+devam eden bir simsar, genel komisyon acentesi veya bağımsız statüde diğer herhangi
+- bir acente vasıtasıyla yürüttüğü için bu Devlette bir iş yerine sahip kabul olunmayacaktır.
+
+7. , Bir Akit Devletin mukimi olan bir şirket, diğer Akit Devletin mukimi olan veya bu
+diğer Devlette ticari faaliyette bulunan (bir iş yeri vasıtasıyla veya diğer bir şekilde) bir
+şirketi kontrol eder ya da onun tarafından kontrol edilirse, bu şirketlerden herhangi biri
+diğeri için bir iş yeri oluşturmayacaktır.
+
+Nİ
+
+Lİ
+
+| Madde 6 j |
+GAYRİMENKUL VARLIKLARDAN ELDE EDİLEN GELİR
+
+1. Bir Akit Devlet mukiminin diğer Akit Devlette bulunan gayrimenkul varlıklardan
+elde ettiği gelir (tarım veya ormancılıktan elde edilen gelir dahil), bu diğer Devlette
+vergilendirilebilir.
+
+2. "Gayrimenkul varlık" terimi, söz konusu varlığın bulunduğu Akit Devletin
+mevzuatına göre tanımlanacaktır. Terim her halükarda, gayrimenkul varlığa müteferri
+varlıkları, tarım (balık üretimi ve yetiştiriciliği dahil) ve ormancılıkta kullanılan hayvanları
+ve araçları, özel hukuk hükümlerinin uygulanacağı gayrimenkul mülkiyetine ilişkin hakları,
+gayrimenkul intifa haklarını ve maden ocaklarının, kaynakların ve diğer doğal kaynakların
+işletilmesi veya işletme hakkı karşılığında doğan sabit ya da değişken ödemeler
+üzerindeki hakları kapsayacak; gemiler, uçaklar ve kara a yolu nakil vasıtaları gayrimenkul
+varlık olarak değerleridirilmeyecektir.
+
+3. 1 inci fikra. hükümleri, gayrimenkul varlığın doğrudan kullanımından,
+kiralanmasından veya diğer herhangi bir şekilde kullanımından elde edilen gelire
+uygulanacaktır.
+
+4. oo 1 inci ve 3 üncü fıkra hükümleri aynı zamanda, bir teşebbüsün gayrimenkul
+varlıklarından elde edilen gelir ile serbest meslek faaliyetlerinin icrasında kullanılan
+gayrimenkul varlıklardan elde edilen gelire de uygulanacaktır.
+
+© — Madde7
+TİCARİ KAZANÇLAR
+
+1. Bir Akit Devlet teşebbüsüne ait kazanç, söz konusu teşebbüs diğer Akit Devlette
+yer alan bir iş yeri vasıtasıyla ticari faaliyette bulunmadıkça, yalnızca bu Devlette
+vergilendirilecektir. Eğer teşebbüs yukarıda bahsedilen şekilde ticari faaliyette bulunursa,
+teşebbüsün kazancı, yalnızca iş yerine atfedilebilen miktarla sınırlı olmak üzere bu diğer
+Devlette vergilendirilebilir.
+
+2. 3 üncü fıkra hükümleri saklı kalmak üzere, bir Akit Devlet teşebbüsü diğer Akit
+Devlette yer alan bir iş yeri vasıtasıyla ticari faaliyette bulunduğunda, her iki Akit Devlette
+de bu iş yerine atfedilsdek kazanç, bu iş yeri aynı veya benzer koşullar altında, aynı veya
+benzer faaliyetlerde bulunan ayrı ve bağımsız bir teşebbüs olsaydı ve iş yerini
+oluşturduğu teşebbüsten tamamen bağımsız bir nitelik kazansaydı ne kazanç elde
+edecek ise aynı miktarda bir kazanç olacaktır.
+
+3. Bir iş yerinin kazancı belirlenirken, iş yerinin bulunduğu Devlette veya başka
+yerde yapılan, yönetim ve genel idare giderleri de dahil olmak üzere, iş yerinin
+amaçlarına uygun olan giderlerin indirilmesine müsaade edilecektir.
+
+4. Bir iş yerine, bu iş yeri tarafından teşebbüs adına yalnızca. mal. veya ticari eşya
+satın alınması dolayısıyla hiç bir kazanç atfedilmeyecektir.
+
+5. Kazanç, bu Anlaşmanın diğer maddelerinde ayrı olarak düzenlenen gelir
+unsurlarını da kapsamına aldığında, o maddelerin hükümleri bu madde hükümlerinden
+etkilenmeyecektir.
+
+, Madde 8 .
+DENİZ, HAVA VE KARA TAŞIMACILIĞI
+
+1. — Bir Akit Devlet teşebbüsünün uluslararası trafikte gemi, uçak veya kara yolu nakil
+vasıtası işletmeciliğinden elde ettiği kazançlar, yalnızca bu Devlette vergilendirilecektir.
+
+2. Bu maddenin amaçları bakımından, bir Akit Devlet teşebbüsünün uluslararası
+trafikte gemi, uçak veya kara yolu nakil vasıtası işletmeciliğinden elde ettiği kazançlar, 1
+inci fıkra hükümlerinin uygulanacağı kazançların yanı sıra arızi olarak elde edilmesi
+koşulu ile konteynerlerin kullanımından veya kiralanmasından elde edilen kazançları da
+kapsayacaktır.
+
+3. Bu maddenin 1 inci fıkra hükümleri aynı zamanda, bir ortaklığa, bir ortak girişime
+veya uluslararası işletilen bir acenteye iştirak dolayısıyla elde edilen kazançlara da
+uygulanacaktır.
+
+N Madde 9 Ni
+BAĞIMLI TEŞEBBÜSLER
+
+a) Bir Akit Devlet teşebbüsü doğrudan veya dolaylı olarak diğer Akit Devlet ,
+, teşebbüsünün yönetim, kontrol veya sermayesine katıldığında, veya
+
+b) Aynı kişiler doğrudan veya dolaylı olarak bir Akit Devlet teşebbüsünün ve diğer
+Akit Devlet teşebbüsünün yönetim, kontrol veya sermayesine katıldığında,
+
+ve her iki halde de, iki teşebbüs arasındaki ticari veya mali ilişkilerde .oluşan veya
+oluşturulan koşullar, bağımsız teşebbüsler arasında oluşması gereken koşullardan
+farklılaştığında, bu şartlar altında, teşebbüslerden birisinde olması gereken, fakat bu
+koşullar nedeniyle kendini göstermeyen kazanç, o teşebbüsün kazancına eklenir ve buna
+" göre vergilendirilebilir.
+
+2. Bir Akit Devletin kendi teşebbüsünün kazancına dahil edip vergilendirdiği
+kazancın, diğer Akit Devlette vergilendirilen diğer Devletin teşebbüsünün kazancını
+içermesi ve aynı zamar'da, ilk bahsedilen Devletin kavradığı bu kazancın, iki bağımsız
+teşebbüs arasında olması gereken koşullar göz önünde tutularak, bu ilk bahsedilen
+Devlet tarafından, kendi teşebbüsünde kendisini göstermesi gereken kazanç olduğunun
+iddia edilmesi durumunda, diğer Devlet bu belirlemenin yerinde olduğu kanâatine varırsa,
+söz konusu kazanç üzerinden alınan verginin miktarında gerekli düzeltmeleri yapacaktır.
+Bu düzeltme yapılırken, bu Anlaşmanın diğer hükümleri göz önünde tutulacak ve
+gerektiğinde Akit Devletlerin yetkili makamları birbirlerine danışacaklardır.
+
+Madde 10
+TEMETTÜLER
+
+1. Bir Akit Devletin mukimi olan bir şirket tarafından diğer Akit Devletin bir mukimine .
+ödenen temettüler, bu diğer Devlette vergilendirilebilir.
+
+2. Bununla beraber söz konusu temettüler, temettüyü ödeyen şirketin mukim olduğu
+Akit Devlette ve bu Devletin mevzuatına göre de vergilendirilebilir; ancak, temettünün
+gerçek lehdarı diğer Akit Devletin bir mukimi ise, bu şekilde alınacak vergi:
+
+a) gerçek lehdar, temettü ödeyen şirketin sermayesinin doğrudan doğruya en az
+yüzde 10 unu elinde tutan bir şirket (ortaklık hariç) ise, gayrisafi temettü tutarının
+yüzde 5 ini;
+
+b) diğer tüm durumlarda gayrisafi temettü tutarının yüzde 15 ini
+aşmayacaktır.
+
+3. Bu maddede kullanılan "temettü" terimi, hisse senetlerinden, “intifa” senetlerinden
+veya “intifa” haklarından, kurucu hisse senetlerinden veya alacak niteliğinde olmayıp
+kazanca katılmayı sağlayan diğer haklardan elde edilen gelirleri, bunun yanı Sıra dağıtımı
+yapan şirketin mukim olduğu Devletin mevzuatına göre, vergileme yönünden hisse
+senetlerinden elde edilen gelirle aynı muameleyi gören diğer şirket haklarından elde
+edilen gelir ile yatırım fonu ve yatırım ortaklığından elde edilen gelirleri ifade eder.
+
+4, Diğer Akit Devlette yer alan bir iş yeri vasıtasıyla ticari faaliyette bulunan bir Akit
+Devlet şirketinin kazancı 7 nci maddeye göre vergilendirildikten sonra, kalan kısım
+üzerinden bu maddenin 2 nci fıkrasının (a) bendine uygun olarak, iş yerinin bulunduğu
+Akit Devlette vergilendirilebilir.
+
+5. Bir. Akit Devlet mukimi olan temettünün gerçek lehdarı, temettüyü ödeyen şirketin
+
+mukim olduğu diğer Akit Devlette yer alan bir işyeri vasıtasıyla ticari faaliyette bulunursa
+veya bu diğer Devlette yer alan sabit bir yer vasıtasıyla serbest meslek faaliyeti icra
+ederse ve söz konusu temettü elde ediş olayı ile bu işyeri veya sabit yer arasında etkin
+bir bağ bulunmaktaysa, 1 inci ve 2 nci fıkra hükümleri uygulanmayacaktır. Bu durumda,
+olayına göre, 7 nci veya 14 üncü madde hükümleri uygulanacaktır...  ,
+
+Madde 11
+FAİZ
+
+1. Bir Akit Devlette doğan ve diğer Akit Devletin bir mukimine ödenen faiz, bu diğer
+Devlette vergilendirilebilir.
+
+2. Bununla beraber söz konusu faiz, elde edildiği Akit Devlette ve o Devletin
+mevzuatına göre de vergilendirilebilir; ancak, faizin 'gerçek lehdarı diğer Akit Devletin bir .
+mukimi ise, bu şekilde alınacak vergi faizin gayrisafi tutarının yüzde 10 unu aşmayacaktır.
+
+3. , © 2 nci'fıkra hükümlerine bakılmaksızın:
+
+a) Gambiya'da doğan ve Türkiye Hükümeti'ne veya Türkiye Cumhuriyet Merkez
+Bankası'na veya Türk Exim Bank (Türkiye İhracat Kredi Bankası A.Ş. ya a ödenen :
+faizler, Gambiya vergisinden istisna edilecektir;
+
+b). Türkiye'de doğan ve Gambiya Hükümeti'ne veya Gambiya Merkez Bankası'na
+ödenen faizler, Türk vergisinden istisna edilecektir. ,
+
+4. Bu maddede kullanılan "faiz" terimi, ipotek garantisine bağlı olsun olmasın veya
+
+borçlunun kazancına katılma hakkını tanısın tanımasın, her nevi alacaktan doğan gelirleri
+- ve özellikl& kamu menkul kıymetleri ile tahvil veya borç senetlerinden elde edilen gelirleri .
+, ifade eder. ,
+
+5. Bir Akit Devlet mukimi olan faizin gerçek lehdarı, faizin elde edildiği diğer Akit
+Devlette bulunan bir iş yeri vasıtasıyla ticari faaliyette bulunursa veya bu diğer Devlette
+yer alan sabit bir yer vasıtasıyla serbest meslek faaliyeti icra ederse ve söz konusu faizin
+ödendiği alacak ile bu iş yeri veya sabit yer arasında etkin bir bağ bulunmaktaysa, 1 inci
+ve 2 nci fıkra hükümleri uygulanmayacaktır. Bu durumda, olayına göre, 7 nci veya 14
+üncü madde hükümleri uygulanacaktır.
+
+6. Bir Akit Devletin kendisi, politik alt bölümü, mahalli idaresi veya bu Devletin bir
+mukimi tarafından ödenen faizin, o Devlette elde edildiği kabul olunacaktır. Bununla
+beraber, faiz ödeyen kişi, bir Akit Devletin mukimi olsun veya olmasın, bir Akit Devlette
+faiz ödemeye neden olan borç-alacak ilişkisiyle bağlantılı bir iş yerine veya sabit yere
+sahip olduğunda ve faiz bu iş yerinden veya sabit yerden kaynaklandığında, söz konusu
+faizin iş yerinin veya sabit yerin bulunduğu Devlette elde edildiği kabul olunacaktır.
+
+7. Alacak karşılığında ödenen faizin miktarı, ödeyici ile gerçek lehdar arasında veya
+her ikisi ile bir başka kişi arasında var olan özel ilişki nedeniyle, böyle bir ilişkinin olmadığı
+durumda ödeyici ve gerçek lehdar arasında kararlaştırılacak miktarı aştığında, bu madde
+hükümleri yalrızca en son bahsedilen miktara uygulanacaktır. Bu durumda ödemelerin
+aşan kısmı, bu Anlaşmanın diğer hükümleri de dikkate alınarak, her bir Akit Devletin
+mevzuatına göre vergilendirilecektir.
+
+, Madde 12 ,
+GAYRİMADDI HAK BEDELLERİ
+
+1. Bir Akit Devlette doğan ve diğer Akit Devletin bir mukimine ödenen gayrimaddi
+hak bedelleri, bu diğer Devlette vergilendirilebilir.
+
+2. Bununla beraber, söz konusu gayrimaddi hak bedelleri elde edildikleri Akit
+Devlette ve o Devletin mevzuatına göre de vergilendirilebilir; ancak: gayrimaddi hak
+bedelinin gerçek lehdarı diğer Akit Devletin bir mukimi ise, bu şekilde alınacak vergi
+gayrimaddi hak bedelinin gayrisafi tutarının yüzde 10 unu aşmayacaktır.
+
+3. Bu maddede kullanılan "gayrimaddi hak bedelleri" terimi, sinema filmleri ile radyo
+ve televizyon kayıtları dahil olmak üzere, edebi, sanatsal veya bilimsel her nevi telif
+hakkının, her nevi patentin, ticari markanın, desen veya modelin, planın, gizli formül veya
+
+“ üretim' yönteminin kullanımı veya kullanım hakkı karşılığında veya sınai, ticari veya
+
+bilimsel tecrübeye dayalı bilgi birikimi karşılığında yapılan her türlü ödemeyi ifade eder.
+
+4. Bir Akit Devlet mukimi olan gayrimaddi hak bedelinin gerçek lehdarı, gayrimaddi
+hak bedelinin elde edildiği diğer Akit Devlette yer alan bir iş yeri vasıtasıyla ticari faaliyette
+bulunursa veya bu diğer Devlette yer alan sabit bir yer vasıtasıyla serbest meslek faaliyeti
+icra ederse ve söz konusu bedelin ödendiği hak veya. varlik ile bu iş yeri veya sabit yer
+arasında etkin bir bağ bulunmaktaysa, 1 inci ve 2 nci fıkra hükümleri uygulanmayacaktır.
+Bu durumda, olayına göre, 7 nci veya 14 üncü madde hükümleri uygulanacaktır.
+
+5. Bir Akit Devletin kendisi, politik alt bölümü, mahalli idaresi ya da bu Devletin bir
+mukimi tarafından ödenen gayrimaddi hak bedelinin, o Devlette elde edildiği kabul
+“olunacaktır. Bununla beraber, gayrimaddi hak bedelini ödeyen kişi, bir Akit Devletin
+mukimi olsun veya olmasın, bir Akit Devlette gayrimaddi hak bedelini ödemeye neden
+olan hak veya varlık ile bağlantılı bir iş yerine veya sabit bir yere sahip olduğunda ve
+gayrimaddi hak bedeli bu iş yeri veya sabit yerden kaynaklandığında, söz konusu .
+gayrimaddi hak bedelinin, iş yerinin veya sabit yerin bulunduğu Akit Devlette elde edildiği
+
+kabul olunacaktır.
+
+6. Kullanım, hak veya bilgi karşılığında ödenen gayrimaddi hak bedelinin miktarı,
+ödeyici ile gerçek lehdar arasında veya her ikisi ile bir başka kişi arasında var olan özel
+ilişki nedeniyle, böyle bir ilişkinin olmadığı durumlarda ödeyici ile gerçek lehdar arasında
+| kararlaştırılacak miktarı aştığında, bu madde hükümleri yalnızca en son bahsedilen
+miktara uygulanacaktır. Bu durumda ödemelerin aşan kısmı, bu Anlaşmanın diğer
+hükümleri de dikkate alınarak, her bir Akit Devletin mevzuatına göre vergilendirilecektir.
+
+Madde 13
+SERMAYE DEĞER ARTIŞ KAZANÇLARI
+
+1. Bir Akit Devlet mukimince, diğer Akit Devlette yer alan ve 6 ncı maddede belirtilen
+gayrimenkul varlıkların 'elden çıkarılmasından sağlanan kazançlar, bu diğer Devlette
+vergilendirilebilir.
+
+2. Bir Akit Devlet teşebbüsünün diğer Akit Devlette sahip olduğu bir iş yerinin ticari
+varlığına dahil menkul varlıkların veya bir Akit Devlet mukiminin diğer Akit Devlette
+serbest meslek faaliyeti icra etmek üzere kullandığı sabit bir yere ait menkul varlıkların
+elden çıkarılmasından doğan kazançlar, bu iş yerinin (yalnız veya tüm teşebbüsle birlikte)
+veya sabit yerin elden çıkarılmasından doğan kazanç da dahil olmak üzere, bu diğer
+Devlette vergilendirilebilir.
+
+3. Bir Akit Devlet mukiminin uluslararası trafikte işletilen gemi, uçak veya kara yolu
+nakil vasıtalarının veya söz konusu gemi, uçak veya kara yolu nakil vasıtalarının
+işletilmesiyle ilgili menkul varlıkların elden çıkarılmasından sağladığı kazançlar, yalnızca
+bu Devlette vergilendirilecektir.
+
+4, 1, 2 ve 3 üncü fıkralarda belirtilenlerin "dışında kalan varlıkların elden
+çıkarılmasından doğan kazançlar, yalnızca elden çıkaranın mukim olduğu Akit Devlette
+vergilendirilecektir.
+
+Madde 14 , ,
+SERBEST MESLEK FAALİYETLERİ
+
+1. Bir Akit Devletin mukimi olan bir gerçek kişinin serbest meslek faaliyetleri veya
+bağımsız nitelikteki diğer faaliyetleri dolayısıyla elde ettiği gelir, bu kişi diğer Akit Devlette
+faaliyetlerini icra etmek için sürekli kullanabileceği sabit bir yere sahip olmadıkça, yalnızca
+bu Devlette vergilendirilecektir. Eğer kişi böyle bir sabit yere sahip ise, yalnızca SÖZ
+konusu sabit yere atfedilebilen. gelir bu diğer Devlette vergilendirilebilir.
+
+2. "Serbest meslek faaliyetleri" terimi, özellikle bağımsız olarak yürütülen bilimsel,
+edebi, sanatsal, eğitici veya öğretici faaliyetleri, bunun yanı sıra doktorların, avukatların,
+mühendislerin, mimarların, diş hekimlerinin ve muhasebecilerin bağımsız faaliyetlerini
+kapsamına alır.
+
+Ni Madde 15 ,
+ÜCRET GELİRLERİ
+
+1. 16, 18, 19 ve 20 nci maddelerin hükümleri saklı kalmak üzere, bir Akit Devlet
+mukiminin bir hizmet akdi dolayısıyla elde ettiği maaş, ücret ve diğer benzeri gelirler, bu
+hizmet diğer Akit Devlette ifa edilmedikçe, : yalnızca bu Devlette vergilendirilecektir.
+Hizmet diğer Devlette ifa edilirse, buradan elde edilen söz konusu gelir bu diğer Devlette
+vergilendirilebilir.
+
+2. 1 inci fıkra hükümlerine bakılmaksızın, bir Akit Devlet mukiminin diğer Akit
+Devlette ifa ettiği bir hizmet dolayısıyla elde ettiği gelir, eğer: ,
+
+a) gelir elde eden kişi, diğer Devlette, ilgili takvim yılı içinde başlayan veya sona
+eren herhangi bir on iki aylık dönemde bir veya birkaç seferde toplam 183 günü
+aşmamak üzere kâlırsa, ve
+
+“b) ödeme, diğer Devletin mukimi olmayan bir işveren tarafından veya böyle bir
+işveren adına yapılırsa, ve
+
+c) ödeme, işverenin diğer Devlette sahip olduğu bir iş yerinden veya sabit yerden
+yapılmazsa
+
+yalnızca ilk bahsedilen Devlette vergilendirilecektir.
+3. 1 inci ve 2 nci fıkra hükümlerine bakılmaksızın, bir Akit Devlet mukimince diğer
+Akit Devlette icra edilen bir çalışma karşılığında elde edilen ücret ve diğer gelirler,
+kişilerce ifa edilen bu hizmet eğer:
+
+a) bu Anlaşmanın 5 inci maddesinin 3 üncü fıkrasına göre iş yeri oluşturmayan
+bir inşaat şantiyesi, yapım, montaj veya kurma projesi, ve
+
+b) bir Akit Devlet mukimi olan bir teşebbüs tarafından uluslararası trafikte işletilen
+bir gemi, uçak veya kara yolu nakil vasıtasında icra'edilen işlerle
+
+ilgili ise diğer Akit Devlette vergilendirilmez.
+
+o Madde16
+YÖNETİCİLERE YAPILAN ÖDEMELER
+
+Bir Akit Devlet mukiminin, diğer Akit Devletin mukimi olan bir: şirketin yönetim
+kurulu üyesi olması dolayısıyla elde ettiği ücret ve diğer benzeri ödemeler, bu diğer ©
+Devlette vergilendirilebilir. i
+
+Madde 17
+SANATÇI VE SPORCULAR
+
+1. 14 ve 15 inci maddelerin hükümlerine bakılmaksızın, bir Akit Devlet mukimi olan
+tiyatro, sinema, radyo veya televizyon sanatçısı gibi bir sanatçının, bir müzisyenin veya
+
+bir sporcunun diğer Akit Devlette bu sıfatla icra ettiği şahsi faaliyetleri dolayısıyla elde
+ettiği gelir, bu diğer Devlette vergilendirilebilir.
+
+2. Bir sanatçının ya da sporcunun bu sıfatla icra ettiği şahsi faaliyetlerden doğan
+gelir, sanatçının veya sporcunun kendisi adına değil de bir başkası adına tahakkuk
+ederse, bu gelir 7, 14 ve 15 inci maddelerin hükümlerine bakılmaksızın, sanatçı ya da
+sporcunun faaliyetlerinin icra edildiği Akit Devlette vergilendirilebilir.
+
+3. Bir sanatçı veya sporcunun bir Akit Devlette icra ettiği faaliyetlerden elde ettiği
+gelir, bu Devlete yapılan ziyaretin tamamen veya önemli ölçüde diğer Akit Devletin, politik
+alt bölümünün veya mahalli idaresinin kamusal fonlarından karşılanması halinde, bu
+Devlette vergiden istisna edilecektir.
+
+Madde 18
+EMEKLİ MAAŞLARI
+
+19 uncu maddenin 2 nci fıkrası hükümleri saklı kalmak üzere, bir Akit Devlet
+mukimine geçmiş: çalışmaları karşılığında ödenen emekli maaşları ve diğer benzeri
+ödemeler yalnızca bu Devlette vergilendirilecektir. Bu hüküm aynı zamanda, bir Akit
+Devlet mukimine ömür boyu sağlanan düzenli ödemelere de uygulanacaktır.
+
+Madde 19 .
+KAMU HİZMETİ
+
+a) Bir Akit Devlete, politik alt bölümüne veya mahalli idaresine bir gerçek kişi
+tarafından verilen hizmetler karşılığında, bu Devlet, alt bölüm veya idare
+tarafından yapilan ve emekli maaşı dışında kalan maaş, ücret ve diğer benzeri
+“ ödemeler, yalnızca bu Devlette vergilendirilecektir.
+
+b) Bununla birlikte, hizmet diğer Akit Devlette ifa edilirse ve gerçek kişi bu diğer
+Devletin bir mukimi ise, söz konusu maaş, ücret ve diğer benzeri ödemeler
+yalnızca bu diğer Devlette vergilendirilecektir. Ancak bu kişinin:
+
+İ) bu Devletin bir vatandaşı olması; veya
+
+ii) yalnızca bu hizmeti ifa etmek için bu Devletin bir mukimi durumuna
+geçmemiş-olması
+
+. Zorunludur.
+
+a) 1 inci fıkra hükümlerine bakılmaksızın, bir Akit Devlete, politik alt bölümüne
+veya mahalli idaresine bir gerçek kişi tarafından verilen hizmetler karşılığında, bu
+Devlet, alt bölüm veya idare tarafından veya bunlarca oluşturulan fonlardan
+ödenen emekli maaşları ve diğer benzeri ödemeler, yalnızca bu Devlette
+vergilendirilecektir.
+
+b) Bununla birlikte, gerçek kişinin diğer Akit Devletin bir mukimi ve vatandaşı
+olması halinde, söz konusu emekli maaşları ve diğer benzeri ödemeler yalnızca
+bu diğer Devlette vergilendirilecektir.
+
+3. Bir Akit Devlet, politik alt bölümü veya mahalli idaresi tarafından yürütülen ticari
+faaliyetlerle bağlantılı olarak verilen hizmetler karşılığında yapılan maaş, ücret, emekli
+maaşları ve diğer benzeri ödemelere 15, 16, 17 ve 18 inci maddelerin hükümleri
+uygulanacaktır.
+
+Na Madde 20.
+ÖĞRETMENLER VE ÖĞRENCİLER
+
+* Bir Akit Devleti ziyareti sırasında veya hemen öncesinde diğer Akit Devletin
+mukimi olan ve ilk bahsedilen Devlette yalnızca öğrenim veya mesleki eğitim amacıyla
+bulunan bir öğrenci veya stajyere, geçimini, öğrenimini veya mesleki eğitimini
+sağlayabilmesi için bu Devletin dışındaki. kaynaklardan yapılan ödemeler, bu Devlette
+vergilendirilmeyecektir.
+
+2. Benzer şekilde, bir Akit Devleti ziyareti sırasında veya hemen öncesinde diğer Akit
+Devletin mukimi. olan ve ilk bahsedilen Devlette esas itibarıyla öğretim veya bilimsel
+araştırma yapmak amacıyla iki yılı aşmayan bir süre veya süreler için bulunan bir
+öğretmen veya öğretim üyesinin söz konusu öğretim veya araştırmaya ilişkin kişisel
+hizmetleri karşılığında ilk bahsedilen Devletin dışındaki kaynaklardari elde ettiği gelirler,
+ilk bahsedilen Devlette vergiden istisna edilecektir.
+
+. Madde 21
+DİGER GELİRLER
+
+. Bir Akit Devlet mukiminin, nerede doğarsa doğsun, bu Anlaşmanın önceki
+maddelerinde ele alınmayan gelir unsurları, yalnızca bu Devlette vergilendirilecektir.
+
+Madde 22...
+ÇİFTE VERGİLENDİRMENİN ÖNLENMESİ
+
+1. Bir Akit Devlet mukimi, bu Anlaşma hükümlerine uygun olârak diğer Akit Devlette .
+vergilendirilebilen bir gelir elde ettiğinde, ilk bahsedilen Devlet, bu mukimin geliri.
+üzerinden alınacak vergiden, diğer Devlette ödenen gelir vergisine eşit bir tutarın .
+mahsubuna müsaade edecektir.
+
+Bununla birlikte söz konusu mahsup, diğer Devlette vergilendirilebilen gelire
+atfedilebilen, mahsuptan önce hesaplanan gelir vergisi miktarını aşmayacaktır.
+
+2. Anlaşmanın herhangi bir hükmü uyarınca, bir Akit Devlet mukimi tarafından elde
+edilen gelir bu.Devlette vergiden istisna edilirse, bu Devlet, bu mukimin geriye kalan geliri
+üzerinden alınacak vergi miktarını hesaplarken, istisna edilmiş olan geliri de dikkate
+alabilir.
+
+Madde 23
+AYRIM YAPILMAMASI
+
+1. Bir Akit Devletin vatandaşları, diğer Akit Devlete, bu diğer Devletin -
+vatandaşlarının aynı koşullarda, özellikle mukimlik yönünden, karşı karşıya kaldıkları veya
+
+kalabilecekleri vergilemeden ve buna bağlı mükellefiyetlerden değişik veya daha ağır bir
+vergilemeye ve buna bağlı mükellefiyetlere tabi tutulmayacaklardır. i
+
+2. 10 uncu maddenin 4 üncü fıkrası hükümleri saklı kalmak üzere, bir Akit Devlet
+teşebbüsünün diğer Akit Devlette sahip olduğu bir iş yeri, diğer Devlette, bu diğer
+Devletin aynı faaliyetleri yürüten teşebbüslerine göre daha az lehe bir vergileme ile karşı
+karşıya kalmayacaktır.
+
+3. Bir Akit Devletin, diğer Akit Devletin bir veya birkaç mukimi tarafından, doğrudan
+veya dolaylı olarak, kısmen veya tamamen sermayesine sahip olunan veya kontrol edilen
+teşebbüsleri, ilk bahsedilen Devlette, bu Devletin diğer benzeri teşebbüslerinin tabi
+oldukları veya olabilecekleri vergilemeden ve buna bağlı mükellefiyetlerden değişik veya .
+daha ağır bir vergilemeye ya da buna bağlı mükellefiyetlere tabi tutulmayacaklardır.
+
+4. Bu hükümler, bir Akit Devletin, vergileme amaçları bakımından kendi mukimlerine
+şahsi veya ailevi durumları dolayısıyla uyguladığı şahsi .indirimleri, vergi ve matrah .
+indirimlerini diğer Akit Devletin mukimlerine de uygulamak zorunda olduğu yönünde ©
+anlaşılmayacaktır. '
+
+Madde 24 Ni
+KARŞILIKLI ANLAŞMA USULU
+
+1. Bir kişi, Akit Devletlerden birinin veya her ikisinin işlemlerinin kendisi için bu
+Anlaşma hükümlerine uygun düşmeyen bir vergileme yarattığı veya yaratacağı kanaatine
+vardığında, bu Devletlerin iç mevzuatlarında öngörülen müracaat usulleriyle bağlı
+kalmaksızın, durumu mukimi olduğu Akit Devletin yetkili makamına veya durumu 23 üncü
+maddenin 1 inci fıkrasına uygunsa, vatandaşı olduğu Akit Devletin yetkili makamına ârz
+edebilir. Söz konusu müracaat, Anlaşma hükümlerine aykırı düşen bir vergilemeyle
+sonuçlanan eylemin ilk bildiriminden itibaren üç yıl içerisinde yapılmalıdır.
+
+2. Söz konusu yetkili makam, itirazı haklı bulur ancak kendisi tatminkâr bir çözüme
+ulaşamaz ise, Anlaşmaya ters düşen vergilemeyi önlemek amacıyla, diğer Akit Devletin
+yetkili makamıyla karşılıklı anlaşma yoluyla sorunu çözmeye gayret sarf edecektir.
+
+3. Akit . Devletlerin (yetkili o makamları, (Anlaşmanın yorumundan o veya
+uygulanmasından kaynaklanan her türlü güçlüğü 'veya tereddüdü karşılıklı anlaşma
+yoluyla çözmek için gayret göstereceklerdir. Yetkili makamlar aynı zamanda, Anlaşmada
+ele alınmayan durumlardan kaynaklanan çifte vergilendirmenin ortadan kaldırılması için
+de birbirlerine danışabilirler.
+
+4. Akit Devletlerin yetkili makamları, bundan önceki fıkralarda' belirtilen hususlarda
+anlaşmaya varabilmek için birbirleriyle, kendilerinden veya temsilcilerinden oluşan ortak .
+bir Komisyon kanalı da dahil olmak üzere, doğrudan haberleşebilirler.
+
+Madde 25.
+BİLGİ DEĞİŞİMİ
+1, Akit Devletlerin yetkili makamları, bu Anlaşma hükümlerinin uygulanmasıyla ilgili
+
+bilgileri veya Anlaşma ile uyumsuzluk göstermediği sürece Akit Devletler, politik alt
+bölümleri veya mahalli idareleri adına alınan hertür ve tanımdaki vergilerle ilgili iç
+
+mevzuat hükümlerinin idaresi veya uygulanması ile ilgili olduğu öngörülen bilgileri
+değişime tabi tutacaklardır. Bilgi değişimi 1 inci ve 2 nci maddelerle sınırlı değildir.
+
+2. Bir Akit Devlet tarafından 1 inci fıkra kapsamında alınan her türlü bilgi, o Devletin
+kendi iç mevzuatı çerçevesinde elde ettiği bilgiler gibi gizli tutulacak ve yalnızca 1 inci
+fıkrada bahsedilen vergilerin tahakkuk veya tahsilleri veya cebri icra ya da
+kovuşturmasıyla veya bu hususlardaki itirazlara bakmakla görevli kişi veya makamlara
+(adli makamlar ve idari kuruluşlar dahil) veya bunları denetlemekle görevli olan kişilere
+verilebilecektir. Bu kişi veya makamlar söz konusu bilgileri yalnızca bu amaçlar
+doğrultusunda kullanacaklardır. Bu kişi veya makamlar, söz konusu bilgileri mahkeme
+duruşmalarında veya adli kararlar alınırken açıklayabilirler.
+
+3. ; Tincive2ncifıkra hükümleri hiç bir surette bir Akit Devleti:
+
+a) kendisinin veya diğer Akit Devletin mevzuatına ve idari uygulamalarına aykırı
+idari önlemler alma;
+
+b) kendisinin veya diğer Akit Devletin mevzuatı veya normal idari işlemleri
+çerçevesinde elde edilemeyen bilgileri sunma;
+
+c) herhangi bir ticari, sınai, mesleki sırrı veya ticari işlemi aleni hale getiren
+bilgileri veya aleniyeti kamu düzenine (ordre public) aykırı düşen bilgileri verme
+
+yükümlülüğü altına sokacak şekilde yorumlanamaz.
+
+4. Bir Akit Devlet tarafından bu madde uyarınca bilgi talep edilmesi durumunda,
+diğer Akit Devlet, kendi vergi amaçları yönünden bu bilgilere ihtiyacı, olmasa bile, talep
+edilen bilgiyi sağlamak için kendi bilgi toplama yöntemlerini kullanacaktır. Önceki cümlede
+yer alan yükümlülük, 3 üncü fıkradaki sınırlamalara tabi olmakla birlikte, bu sınırlamalar
+hiç bir surette bir Akit Devlete, sadece ulusal menfaati olmadığı gerekçesiyle bilgi
+sağlamayı reddetme hakkı verecek şekilde yorumlanmayacaktır.
+
+5. 3 üncü fıkra hükümleri hiç bir surette bir Akit Devlete, bilginin bir banka, diğer
+finansal kurum, temsilci veya bir acente ya da yediemin gibi hareket eden bir kişide
+bulunması veya bir kişinin sermaye payları ile ilgili olması nedeniyle bu bilgiyi sağlamayı
+reddetme hakkı verecek şekilde yorumlanmayacaktır.
+
+li | © o Madde26
+DİPLOMATİK TEMSİLCİLER VE KONSOLOSLUK MEMURLARI
+
+Bu Anlaşma hükümleri, diplomatik temsilciler veya konsolosluk memurlarının
+uluslararası hukukun genel kuralları veya özel anlaşma hükümleri uyarınca
+yararlandıkları mali ayrıcalıkları etkilemeyecektir.
+
+, , Madde 27 |
+VERGİLERİN TAHSIİLATINDA YARDIMLAŞMA
+
+1. Akit Devletler, alacaklarının tahsilatında birbirlerine yardım edeceklerdir. Bu
+yardım 1 inci ve 2 nci maddelerle sınırlı değildir. Akit Devletierin yetkili makamları, bu
+maddenin uygulama biçimini karşılıklı anlaşma yoluyla belirleyebilirler.
+
+2. Bu maddede kullanılan “alacak” terimi, bu Anlaşmaya veya Akit Devletlerin taraf
+olduğu diğer herhangi bir hukuki belgeye aykırı olmadığı sürece, Akit Devletler, politik alt
+bölümleri ya da mahalli idareleri adına alınan her tür ve tanımdaki vergiler dolayısıyla
+borçlanılan bir tutarı, bunun yanı sıra faiz, idari cezalar ve bu tutara ilişkin tahsilat veya
+koruma masraflarını ifade eder.
+
+3. Bir Akit Devletin alacağının, bu Devletin mevzuatı uyarınca icra yoluyla
+istenebildiği ve borçlunun, o esnada bu Devletin mevzuatı uyarınca alacağın tahsilatını
+engelleyemediği durumda, söz konusu alacak, bu Devletin yetkili makamının talebi
+üzerine diğer Akit Devletin yetkili makamınca tahsil edilmek amacıyla kabul edilecektir. Bu
+alacak, bu diğer Devlet tarafından, kendi alacağıymış gibi, kendi vergilerinin i icrası ve
+tahsilatına uyguladığı mevzuat hükümlerine göre tahsil edilecektir.
+
+4. Bir Akit Devlet alacağının, bu, Devletin kendi mevzuatı uyarınca tahsilatını
+sağlamak için koruma tedbirleri alabileceği bir alacak olması durumunda, söz konusu
+alacak, bu Devletin yetkili makamının talebi üzerine, koruma önlemleri almak amacıyla
+diğer Akit Devletin yetkili makamınca kabul edilecektir. Bu diğer Devlet, bu tür tedbirlerin
+uygulandığı sırada, alacağın ilk bahsedilen Devlette icra yoluyla alınamayacağı veya
+borçlunun tahsilatı önleme hakkının bulunduğu durumlarda bile, kendi mevzuatı
+hükümleri uyarınca, bu alacak kendi alacağıymış gibi koruma tedbirleri alacaktır.
+
+5. 3 üncü ve 4 üncü fıkra hükümlerine bakılmaksızın, 3 üncü veya 4 üncü fıkranın
+amaçları yönünden bir Akit Devlet tarafından kabul edilen bir alacak, bu Devlette zaman
+aşımına tabi olmayacak veya niteliği gereği, bu Devletin mevzuatı uyarınca bir.alacağa
+tanınan herhangi bir öncelik, bu alacağa tanınmayacaktır. Bunun yanı sıra, 3 üncü veya 4
+üncü fıkranın amaçları bakımından, bir Akit Devlet tarafından kabul edilen bir alacak, bu
+Devlette, diğer Akit Devletin mevzuatı uyarınca bu alacağa tanınan herhangi bir önceliğe
+sahip olmayacaktır.
+
+6. Bir Akit Devlet alacağının varlığı, geçerliliği veya tutarıyla ilgili davalar, diğer Akit
+Devletin mahkemeleri veya idari kuruluşlarına getirilemez. '
+
+7. Bir Akit Devletin, 3 Üncü veya 4 üncü fıkra uyarınca bir talepte bulunmasından
+sonra ve diğer Akit Devletin alacağı tahsil ederek ilk bahsedilen Devlete göndermesinden
+önceki herhangi bir zamanda, ilgili alacağın,
+a) 3 üncü fıkraya göre talepte bulunulması durumunda, ilk bahsedilen Devletin
+alacağının, bu Devletin mevzuatı uyarınca icra yoluyla istenebilen ve borçlusunun .
+o esnada bu Devletin mevzuatı uyarınca tahsilatını engelleyemediği, veya .
+
+b) 4 üncü fikraya göre talepte bulunulması durumunda, ilk bahsedilen Devletin
+alacağının, alacağın tahsilatını sağlamak amacıyla kendi mevzuatı uyarınca
+koruma tedbirleri alabileceği
+
+bir alacak, olmaktan çıkması durumunda, ilk bahsedilen “Devletin yetkili makamı, diğer »
+Devletin yetkili makamını derhal durumdan haberdar edecek ve ilk bahsedilen Devlet,
+diğer Devletin tercihi doğrultusunda talebini ya askıya alacak ya da geri çekecektir.
+
+8. Bu madde hükümleri hiçbir şekilde bir Akit Devleti:
+
+a) kendisinin veya diğer Akit Devletin mevzuatına ve idari uygulamalarına aykırı
+idari.önlemler alma; ,
+
+b) kamu düzenine aykırı önlemler alma;
+
+c) diğer Akit Devletin, olayına göre, kendi mevzuatı ve idari uygulamaları
+gereğince tahsilat ve korumaya ilişkin gerekli önlemlerin tümünü almaması
+durumunda, yardım sağlama;
+
+d) bu Devletin idari külfetinin, diğer Akit Devletin elde edeceği faydadan açık bir
+şekilde fazla olduğu durumlarda, yardım sağlama
+
+yükümlülüğü altına sokacak şekilde yorumlanamaz.
+
+aç ladide 28
+YÜRÜRLÜĞE GİRME
+
+1. Her bir Akit Devlet, bu Anlaşmanın yürürlüğe girmesi için kendi mevzuatında
+öngörülen işlemlerin tamamlandığını, diplomatik yollardan, diğer Akit Devlete bildirecektir.
+Bu Anlaşma, bu bildirimlerden sonuncusunun yapıldığı tarihte yürürlüğe girecektir.
+
+2. Bu Anlaşmanın hükümleri;
+
+a) kaynakta kesilen vergiler bakımından, bu Anlaşmanın yürürlüğe girdiği tarihi
+takip eden Ocak ayının birinci günü veya daha sonra ödenen veya mahsup edilen
+tutarlar için; ve
+
+b) diğer vergiler bakımından, bu Anlaşmanın yürürlüğe girdiği tarihi takip eden
+Ocak ayının birinci günü veya daha sonra başlayan vergilendirme yılları için
+
+hüküm ifade edecektir.
+
+. Madde 29
+YURURLUKTEN KALKMA
+
+1. Bu Anlaşma, bir Akit Devlet tarafından feshedilinceye kadar yürürlükte kalacaktır.
+Her bir Akit Devlet, Anlaşmanın yürürlüğe girdiği tarihten itibaren beş yıllık bir sürenin
+sona ermesinden sonra başlayan herhangi bir takvim yılının bitiminden en az altı ay önce,
+diplomatik yollardan fesih ihbarnamesi vermek suretiyle Anlaşmayı feshedebilir.
+
+i 2. Bu durumda, Anlaşma:
+
+a) kaynakta kesilen vergiler bakımından, fesih ihbarnamesinin verildiği takvim
+yılının bitiminden sonra ödenen veya mahsup edilen.tutarlar için; ve
+
+“.b) diğer vergiler bakımından, fesih * ihbarnamesinin verildiği takvim -yılının
+bitiminden sonra başlayan vergilendirme yılları i için
+
+hüküm ifade etmeyecektir.
+
+- Madde 30
+DEĞİŞİKLİK
+Bu Anlaşma, Akit Devletlerin karşılıklı yazılı rızalarıyla herhangi bir zamanda
+
+değiştirilebilir. Değişiklikler, bu Anlaşmanın 28 inci maddesinin 1 inci fıkrasında belirtilen
+hukuki usule uygun şekilde yürürlüğe girecektir.
+
+BU HUSUSLARI TEYİDEN, aşağıda imzaları bulunan tam yetkili temsilciler, bu
+Anlaşmayı imzaladılar.
+
+Türk ve İngiliz dillerinde, ikişer nüsha halinde, her iki metin de aynı derecede
+geçerli olmak üzere 11 Şubat 2014 tarihinde, Ankara'da düzenlenmiştir.
+
+TÜRKİYE CUMHURİYETİ GAMBİYA CUMHURİYETİ
+HÜKÜMETİ ADINA HÜKÜMETİ ADINA
+
+ehmet ŞİMŞEK Kebba TOURAY
+Maliye Bakanı Maliye ve Ekonomik
+
+Bakanı

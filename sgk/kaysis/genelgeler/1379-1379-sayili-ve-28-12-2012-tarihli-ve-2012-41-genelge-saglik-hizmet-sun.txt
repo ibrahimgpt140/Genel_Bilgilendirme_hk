@@ -1,0 +1,1464 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/132250
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 1379
+ADI: 1379 SAYILI VE 28/12/2012 TARİHLİ VE 2012/41 GENELGE-SAĞLIK HİZMET SUNUCULARI İNCELEME VE KONTROL STANDARTLARI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: df073bfc55713e4ec7b0dec797adaaca07aa1057defdd4c68bd21c19c445191a
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                            SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                     Rehberlik ve Teftiş Başkanlığı
+
+Sayı : 16747942- 13+5
+Konu :Sağlık hizmet sunucuları inceleme ve
+           kontrol standartlan
+
+
+
+                                            GENELGE
+                                              2012/41
+
+
+
+         2011-42 sayılı sağlık hizmet sunucuları denetim usul ve esasları konulu genelge 12.10.2012
+tarihli ve 2012/34 sayılı genelge ile yürürlükten kaldırılmış olup, geçiş sürecinde sağlık hizmet
+sunucularının denetim, inceleme ve kontrol işlemleri risk analizi ve sürekli denetim yönergesinde
+belirtilen usul ve esaslar çerçevesinde yürütülmekteydi.
+         Sağlık hizmet sunucularına yönelik inceleme ve kontrol işlemlerinin standardize edilerek,
+yürürlükteki mevzuata uyarlı hale getirilmesi ve uygulamada birlikteliğin sağlanması amacıyla
+“Sağlık Hizmet Sunucuları İnceleme ve Kontrol Standartlan” hazırlanmıştır.
+         Bu itibarla sağlık hizmet sunucularının inceleme ve kontrol işlemleri ekte yer alan “Sağlık
+Hizmet Sunucuları İnceleme ve Kontrol Standartlan” çerçevesinde yürütülecektir.
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+
+EK: Sağlık Hizmet Sunucuları İnceleme ve Kontrol Standartları
+ve ekleri (87 sayfa)
+
+
+
+
+Dağıtım:Merkez ve Taşra Teşkilatı
+
+Gereği:
+Merkez ve Taşra Teşkilatı
+
+
+
+
+Adres :    Simon Bolivar Caddesi No: 23                  Ayrıntılı Bilgi İçin; Grup Baş.: S. AKDENİZ
+          Çankava/ANKARA                                 e-posta: riskanalizi@sgk.gov.tr
+SAĞLIK HİZMET SUNUCULARININ
+
+   İNCELEME VE KONTROL
+
+       STANDARTLARI
+
+
+
+
+       Ankara, 2012
+
+
+                              1
+                                                                                 İÇİNDEKİLER
+
+
+
+
+1.      GİRİŞ ...................................................................................................................................................................... 5
+     1.1.        AMAÇ ..................................................................................................................................................................... 5
+     1.2.        KAPSAM .................................................................................................................................................................. 5
+     1.3.        TANİMLAR .............................................................................................................................................................. 5
+2.      İNCELEME VE KONTROL İLKELERİ ......................................................................................................... 10
+     2.1.        GENEL İLKELER .....................................................................................................................................................10
+     2.2.        ÇALIŞMA İLKELERİ ..........................................................................................................................................10
+     2.3.        GENEL ÇALIŞMA U SULLERİ ..................................................................................................................................11
+3.      İNCELEME VE KONTROLLERDE YARARLANILABİLECEK MEVZUAT ......................................... 11
+4.      İZLEME VE DEĞERLENDİRME SERVİSİ, GÖREVLERİ, SORUMLULUKLARI ................................ 12
+     4.1.        İZLEME VE DEĞERLENDİRME SERVİSİ ....................................................................................................................12
+        4.1.1.     İzleme ve Değerlendirme Birimi .......................................................................................................... 12
+        4.1.2.     İnceleme ve Kontrol Ekibi .................................................................................................................... 12
+     4.2.     İZLEME VE DEĞERLENDİRME BİRİMİNİN GÖREV, YETKİ VE SORUMLULUKLARİ ....................................................12
+     4.3.     İNCELEME VE KONTROL EKİBİNİN GÖREV, YETKİ VE SORUMLULUKLARİ ..............................................................13
+     4.4.     İZLEME VE DEĞERLENDİRME BİRİMİ İLE İNCELEME VE KONTROL EKIBMN EĞİTİMİ ............................................14
+     4.5.     İZLEME VE DEĞERLENDİRME BİRİMİ İLE İNCELEME VE KONTROL EKIBMN SİSTEME KAYDEDİLMESİ ................ 14
+5.      İNCELEME VE KONTROLE TABİ TUTULMA USULLERİ ...................................................................... 15
+     5.1.     SAĞLIK HİZMETİ SUNUCULARININ İNCELEME VE KONTROLE TABİ TUTULMA İŞLEMLERİ .......15
+        5.1.1.     İhbar ve Şikâyete Bağlı İnceleme ve Kontrol ....................................................................................... 15
+        5.1.2.     Planlı İnceleme ve Kontrol .................................................................................................................. 15
+        5.1.3.     Gerekçeli İnceleme ve Kontrol ............................................................................................................. 15
+     5.2.     İKİNCİ VE ÜÇÜNCÜ BASAMAK RESMİ SAĞLIK KURUMLARİ HAKKİNDA İNCELEME VE ARAŞTIRMA .......................15
+     5.3.     SAĞLIK HİZMETİ SUNUCULARININ İNCELEME VE KONTROLE TABİ TUTULMA GEREKÇELERİ .16
+6.      SAĞLIK HİZMET SUNUCULARI İNCELEME VE KONTROL STANDARTLARI ............................... 16
+     6.1.YÖNTEM ................................................................................................................................................................16
+     6.2.ÖN HAZİRLİK VE İNCELEME VE KONTROL STRATEJİSİNİN BELİRLENMESİ .............................................................16
+     6.3.GENEL, TIBBİ VE İDARİ BİRİMLER HAKKİNDA BİLGİLERİN TEMİNİ ......................................................................18
+     6.4.SAĞLIK KURUMLARİ İÇİN İHBAR VE ŞİKÂYETE BAĞLI VE GEREKÇELİ İNCELEME VE KONTROL
+STANDARTLARİ ................................................................................................................................................................... 19
+   6.5.  SAĞLIK HİZMET SUNUCULARI PLANLI İNCELEME VE KONTROL STANDARTLARI ........................20
+         6.5.1.         Adres Değişikliği .................................................................................................................................. 20
+         6.5.2.         SHS Ortaklarında Değişiklik ............................................................................................................... 20
+         6.5.3.         Hekimlerin Çalışma Durumlarının Bildirimi ....................................................................................... 20
+         6.5.4.         Acil Servisteki Hekim Sayıları .............................................................................................................. 20
+         6.5.5.         İlk Muayene Sonrası Verilen Randevu Tarihleri .................................................................................. 21
+         6.5.6.         Fazla Oranda İlave Ücret Alınması ..................................................................................................... 21
+         6.5.7.         Katılım Payı Alınmaması ..................................................................................................................... 21
+         6.5.8.         İlave Ücret Alınmayacak Kişiler/Sağlık Hizmetleri ............................................................................. 21
+         6.5.9.         İlave Ücret Belgesi ............................................................................................................................... 21
+         6.5.10.        Kayıtlı Olmayan Hekim Üzerinden Yapılan Bildirimler ...................................................................... 22
+         6.5.11.        Personelin Ayrılışlarının Kuruma Bildirilmesi .................................................................................... 22
+         6.5.12.        Kurum Personelinin SHS’de Çalışması/Ortaklığı ................................................................................ 22
+         6.5.13.        SHS Hekiminin Resmi SHS’de Başhekim/Başhekim Yardımcısı Olarak Çalışması ............................. 22
+         6.5.14.        Yeni Eklenen Branşta Çalışacak Hekimin Bildirilmesi ........................................................................ 22
+
+
+
+                                                                                                                                                                                         2
+        6.5.15. İptal Edilen Branşın Kuruma Bildirimi ................................................................................................ 22
+        6.5.16. Hizmet Alım Sözleşmelerinin Kuruma Bildirimi ................................................................................... 23
+        6.5.17. Feshedilmiş Sağlık Hizmet Sunucusundan Hizmet Alımı...................................................................... 23
+        6.5.18. Reklam, Tanıtım ve Yönlendirme .......................................................................................................... 23
+        6.5.19. Kampanya, Tarama ve Check-up İşlemlerinin Kuruma Bildirilmesi ................................................... 23
+        6.5.20. Muayene Kotasının Aşılması ................................................................................................................ 23
+        6.5.21. FTR Seans Sayılarında Kota Aşımı ...................................................................................................... 23
+        6.5.22. Hemodiyaliz Cihazları ve Diğer Cihazlara İlişkin Bildirimler ............................................................. 24
+        6.5.23. Diyaliz Paketi Kapsamındaki Tetkik ve Tahlillerin Ayrıca Faturalandırılması ................................... 24
+        6.5.24. Diyaliz Seanslarının Süresi .................................................................................................................. 24
+        6.5.25. Kardiyolojik Girişim Sayısı .................................................................................................................. 24
+        6.5.26. Yasaklı ya da Miadı Geçmiş İlaç/Malzeme Kullanımı .......................................................................... 24
+        6.5.2 7. Sunulmayan Sağlık Hizmetinin Faturalandırılması ............................................................................. 25
+        6.5.28. Sağlık Yardımından Yararlanmayan Kişilerin İşlemlerinin Faturalandırılması .................................. 25
+        6.5.29. Gerçeğe Aykırı Belge Düzenleme ......................................................................................................... 25
+        6.5.30. Temini Zorunlu İlaç/Malzeme/Kan Komponentinin Hastalara Temin Ettirilmesi ............................... 25
+        6.5.31. SUT’ta Yer Almayan ve/veya Verileceği Taahhüt Edilmeyen Sağlık Hizmetinin Faturalandırılması. 26
+        6.5.32. Tek Kullanımlık Malzemelerin Birden Fazla Kullanımı ....................................................................... 26
+        6.5.33. Acil Halin Bitimi Sonrası Sunulan Sağlık Hizmetleri ........................................................................... 26
+     6.6.    ECZANELER İÇİN İHBAR VE ŞİKÂYETE BAĞLI VE GEREKÇELİ İNCELEME VE KONTROL STANDARTLARİ ................ 26
+        6.6.1.    Sahte Reçeteler ..................................................................................................................................... 27
+        6.6.2.    Sahte Sağlık Kurulu Raporları ............................................................................................................. 27
+     6.7.    ECZANELER İÇİN PLANLİ İNCELEME VE KONTROL STANDARTLARİ .........................................................................28
+        6.7.1.    Eczacı ve Diğer Eczane Çalışanlarının Durumu .................................................................................. 28
+        6.7.2.    Hasta Seçimi Yapılması ........................................................................................................................ 28
+        6.7.3.    Reçetedeki İlacın, Bedeli Karşılığında Satılması ................................................................................. 28
+        6.7.4.    Reçetedeki İlaçların Hastaya Teslim Edilmemesi/Eksik Teslim Edilmesi ............................................ 28
+        6.7.5.    Eczanede Nüfus Cüzdanı veya TC Kimlik Numaraları Bulunması ....................................................... 29
+        6.7.6.    Fesihli Eczanenin Reçetesinin Sözleşmeli Eczanede Bulunması .......................................................... 29
+        6.7.7.    İlaç Katkı Payı veya Eşdeğer İlaç Fiyat Farkının Alınmaması ............................................................ 29
+        6.7.8.    Yönlendirme.......................................................................................................................................... 29
+        6.7.9.    İlaçların İTS kontrolleri ....................................................................................................................... 30
+        6.7.10. Reçete Arkasına Alınan İmzalar ........................................................................................................... 30
+        6.7.11. Reçete ve Eki Belgelerde Tahrifat ........................................................................................................ 30
+        6.7.12. Muvazaa ............................................................................................................................................... 30
+        6.7.13. Majistral İlaç Reçeteleri ....................................................................................................................... 31
+     6.8.    OPTİSYENLİK MÜESSESELERİ İÇİN İNCELEME VE KONTROL STANDARTLARİ ..........................................................31
+7.      TUTANAK VE RAPORLARIN DÜZENLEME USULLERİ ........................................................................ 31
+     7.1.       TUTANAK DÜZENLENMESİNDE GÖZ ÖNÜNDE BULUNDURULACAK HUSUSLAR .......................................................31
+     7.2.       İFADE TUTANAKLARİNİN DÜZENLENMESİNDE DİKKAT EDİLECEK HUSUSLAR........................................................32
+     7.3.       RAPORLARIN DÜZENLENMESİNDE DİKKAT EDİLECEK HUSUSLAR....................................................32
+     7.4.       EK BELGELER .........................................................................................................................................................34
+     7.5.       İNCELEME VE KONTROL TUTANAKLARİNİN DÜZENLENME U SULLERİ ....................................................................34
+        7.5.1.    Sağlık Kurumlarına İlişkin İnceleme ve Kontrol Tutanaklarının Düzenlenme Usulü .......................... 34
+        7.5.2.    Eczanelere İlişkin İnceleme ve Kontrol Tutanaklarının Düzenlenme Usulü ........................................ 35
+        7.5.3.    Optisyenlik Müesseseleri İçin İnceleme ve Kontrol Tutanaklarının Düzenlenme Usulü ...................... 35
+     7.6.    İFADE TUTANAKLARİNİN DÜZENLENME USULÜ ......................................................................................................35
+     7.7.    FATURA İNCELEME BİRİMLERİNCE DÜZENLENECEK TUTANAKLARİN DÜZENLENME USULÜ ..................................35
+     7.8.    DURUM TESPİT RAPORLARİNİN DÜZENLENME USULÜ ............................................................................................36
+     7.9.    İNCELEME VE ARAŞTIRMA TUTANAĞI DÜZENLENME USULÜ..................................................................................36
+8. ....................................................................................................................................................................
+
+
+
+                                                                                                                                                                                   3
+DÜZENLENEN RAPORLAR İLE İLGİLİ YAPILACAK İŞLEMLER ...............................................................37
+9. ....................................................................................................................................................................
+SAĞLIK HİZMETİ SUNUCULARININ YÜKÜMLÜLÜKLERİ ..........................................................................39
+10.        EKLER ............................................................................................................................................................40
+
+
+
+
+                                                                                                                                                                            4
+    1. GİRİŞ
+
+
+    1.1.    Amaç
+    5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 73. maddesine göre,
+Kurumumuzla sözleşmeli/protokollü sağlık hizmeti sunucuları tarafından genel sağlık sigortalısı ve
+bakmakla yükümlü olduğu kişilere sunulan sağlık hizmetlerinin Kurum tarafından yayımlanan
+mevzuat ile sözleşme ve protokol hükümlerine uygun olarak verilip verilmediğinin aynı Kanunun
+78. maddesine göre sağlık sosyal güvenlik merkezlerinin bulunduğu illerdeki sosyal güvenlik il
+müdürlüklerinde görevli personel tarafından inceleme, araştırma ve kontrollerinin yapılması,
+inceleme, araştırma ve kontrol yapan personelin görev, yetki ve sorumlulukları, çalışma ilke ve
+standartları, düzenlenen tutanak ve raporlar hakkında yapılması gereken işlemler ile başlıca
+inceleme ve kontrol konularına ilişkin genel esaslar belirtilmiştir.
+
+    1.2.    Kapsam
+    Sosyal Güvenlik Kurumu ile sözleşme/protokol yapan sağlık hizmet sunucularında ve genel
+sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin sağlık hizmeti aldığı sözleşmesiz
+hastanelerde yapılacak sağlık hizmet alımı incelemelerini kapsar.
+
+    1.3. Tanımlar
+        Kurum: Sosyal Güvenlik Kurumudur.
+
+        inceleme: Literatürde “Ele alınan bir konu ya da olayın özelliklerini ve ayrıntılarını inceden
+inceye anlamaya çalışma, ilgili yasa ve kuralları ortaya çıkarma ve birtakım sonuçlar elde etmek için
+yapılan yöntemli çalışma” olarak tanımlanan inceleme kelimesi “sosyal güvenlik mevzuatının
+verdiği yetkiye dayanılarak Kurumla sözleşme yapmış gerçek ve tüzel kişiler hakkında yapılan
+tetkik işlemleri” anlamında kullanılmıştır.
+        Kontrol: Kurumla sözleşme yapmış gerçek ve tüzel kişiler, Genel Sağlık Sigortalısı ve
+bakmakla yükümlü olduğu kişiler ve ilgililerin iş ve işlemlerin ilgili mevzuat ve sözleşme
+hükümlerine uygun olup olmadığının araştırılması, gözden geçirilmesidir.
+        inceleme ve Kontrol: İnceleme ve kontrol faaliyetlerinin birlikte yürütülmesidir.
+        Araştırma: Bir sonuca ulaşmak, bir gerçeği ortaya çıkarmak için yapılan iş ve işlemlerdir.
+
+        Yerinde İnceleme ve Kontrol: Sağlık hizmet sunucusunun hizmeti sunduğu yerde
+inceleme, araştırma ve kontrol faaliyetlerini yürütülmesidir.
+
+
+
+
+                                                                                                    5
+        Sağlık hizmeti: Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişiler için 5510 sayılı
+Kanunun 63. maddesi gereği finansmanı sağlanacak tıbbî ürün ve hizmetlerdir.
+        Sağlık Hizmeti Sunucusu: Birinci, ikinci ve üçüncü basamak resmi ve özel sağlık kurum ve
+kuruluşları ile basamaklandırılamayan sağlık kuruluşlarının yanında; optisyenlik müesseseleri, tıbbi
+cihaz ve malzeme tedarikçileri ve kaplıcaların da dâhil olduğu, 5510 sayılı Yasa kapsamında
+Kurumumuzla hizmet sunumu, faturalama ve ödeme ilişkisine giren tüm gerçek ve tüzel kişilerdir.
+(Bkz. Sağlık Uygulama Tebliği)
+        Sağlık Kurumu ve Kuruluşları: Resmi ya da özel tüzel kişiliklere ya da gerçek kişilere ait
+olup ayakta veya yatarak teşhis, tetkik ve tedavi hizmeti sunan yataklı ve yataksız sağlık tesisleri ve
+laboratuarları, muayenehaneleri, kaplıcaları, aile hekimlerini, kurum hekimliklerini, Kurumca
+yetkilendirilen işyeri hekimlerini ve serbest eczaneleri ifade eder.
+        Sağlık Kurum ve Kuruluşları, bulundukları hizmet basamağına göre; birinci, ikinci ve
+üçüncü basamak sağlık kurum ve kuruluşları şeklinde ayrılabilir.
+
+        Birinci Basamak Sağlık Kuruluşları: Kamu idareleri bünyesindeki kurum hekimlikleri,
+sağlık ocağı, verem savaş dispanseri, ana-çocuk sağlığı ve aile planlaması merkezi, sağlık merkezi
+ve toplum sağlığı merkezi ile Sağlık Bakanlığı ile aile hekimliği sözleşmesi yapmış aile hekimleri,
+112 acil sağlık hizmeti birimi, üniversitelerin medikososyal birimleri, Türk Silahlı Kuvvetlerinin
+birinci basamak sağlık üniteleri, “Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları
+Hakkında Yönetmelik” kapsamında açılan özel poliklinikler, “Ağız ve Diş Sağlığı Hizmeti Sunulan
+Özel Sağlık Kuruluşları Hakkında Yönetmelik” kapsamında açılan ağız ve diş sağlığı hizmeti veren
+sağlık kuruluşları bu kapsamdadır.
+        İkinci Basamak Sağlık Kurumlan: Eğitim ve araştırma hastanesi olmayan devlet hastaneleri
+ve dal hastaneleri ile bu hastanelere bağlı semt poliklinikleri, entegre ilçe hastaneleri, Sağlık
+Bakanlığı’na bağlı ağız ve diş sağlığı merkezleri, tıp fakültelerinin bulunduğu ilin dışında yer alan
+uygulama ve araştırma merkezleri (üniversite hastaneleri) ile Türk Silahlı Kuvvetleri’nin eğitim ve
+araştırma hastanesi olmayan hastaneleri, belediyelere ait hastaneler ile kamu kurumlarına ait tıp
+merkezi ve dal merkezleri, Özel Hastaneler Yönetmeliği’ne göre ruhsat almış hastaneler, Ayakta
+Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik kapsamında açılan tıp
+merkezleri, Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin
+geçici ikinci maddesine göre faaliyetlerine devam eden tıp merkezleri ve dal merkezleri bu
+kapsamdadır.
+        Üçüncü Basamak Sağlık Kurumları: Eğitim ve araştırma hastaneleri, özel dal eğitim ve
+araştırma hastaneleri, üniversite tıp fakültelerinin bulunduğu ilde kurulu sağlık uygulama ve
+
+                                                                                                    6
+araştırma merkezleri (üniversite hastaneleri) ile bu hastanelere bağlı semt poliklinikleri ve
+üniversitelerin diş hekimliği fakülteleri, Türk Silahlı Kuvvetleri’ne bağlı tıp fakültesi hastanesi ile
+eğitim ve araştırma hastaneleri, vakıflara ait eğitim ve araştırma hastaneleri gibi resmi sağlık
+kurumları bu kapsamdadır (Bakınız Sağlık Uygulama Tebliği).
+           Mesul Müdür: Özel Hastaneler Yönetmeliği’nin 16. maddesine göre, özel hastanelerin
+tıbbî, idarî ve teknik hizmetlerinin sorumluluğunu taşıyan ve bu hizmetlerin yürütülmesini sağlayan
+kişidir.
+           Sağlık Uygulama Tebliği (SUT): Kapsamı 5510 sayılı Kanun’un 60. maddesinde belirtilen
+genel sağlık sigortalıları ve bakmakla yükümlü oldukları kişilerin, Kurumumuzca finansmanı
+sağlanan sağlık hizmetleri, yol, gündelik ve refakatçi giderlerinden yararlanma esas ve usulleri ile bu
+hizmetlere ilişkin olarak Sağlık Hizmetleri Fiyatlandırma Komisyonunca belirlenen bedellerin
+bildirilmesi amacıyla çıkarılan tebliğdir.
+           Sözleşme: Kurumumuz ile özel sağlık hizmeti sunucuları arasında sağlık ile ilgili çeşitli
+alanlarda hizmet alımına ilişkin olarak imzalanan ve tarafları bağlayıcı niteliği bulunan, “sözleşme
+uygulaması ile ilgili usul ve esasları, ödeme şartları ve zamanı, cezai şartlar, fesih ve
+uyuşmazlıklarda başvurulacak mahkeme” gibi hususları belirleyen yasal belgedir.
+           Protokol: Kurumumuz ile üniversiteler ve Sağlık Bakanlığı arasında imzalanan,
+kapsamındaki kişilerin Sosyal Güvenlik Kurumu tarafından karşılanan “ayakta/yatarak muayene,
+tetkik, tahlil ve tedavisinin teminine ilişkin usul ve esaslar ile karşılıklı hak ve yükümlülükleri”
+belirleyen yasal belgedir.
+           Hasta Dosyası: Yataklı tedavi hizmeti veren resmi ve özel tüm sağlık tesislerinde tedavi
+gören her hasta için açılan ve içinde hastanın tedavisi ile ilgili olarak yapılan işlemler ile ilgili
+belgelerin bulunduğu dosyadır.
+           Özel Hastaneler Yönetmeliği’nin 48. maddesine göre; özel hastanelere başvuran her hasta
+için hasta dosyası düzenlenir. Hasta dosyasına hastanın tedavisiyle ilgili bütün müşahedeler ve
+yapılan muayene, tahlil ve tetkik sonuçları ile tedavi ve günlük değişiklikler yazılır.
+
+           Hasta dosyası içerisinde, asgarî olarak aşağıdaki belgelerin bulunması şarttır:
+
+           a) Hasta kabul kâğıdı,
+
+           b) Tıbbî müşahede ve muayene kâğıdı,
+
+           c) Hasta tabelası,
+
+           d) Derece kâğıdı,
+
+
+                                                                                                    7
+        e) Röntgen istek kâğıdı ve tetkik raporları,
+
+        f) Laboratuar istek kâğıdı ve tetkik raporları,
+
+        g) Ameliyat kâğıdı,
+
+        h) Hastanın muayene istek formu,
+
+        ı) Çıkış özeti,
+        i) 01/08/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları
+Yönetmeliği’nin 24. maddesi uyarınca alınmış ve uygulanacak tedavinin kabul edildiğine dair rızayı
+gösteren muvafakat formu.
+        Hasta Tabelası: Hasta dosyasında bulunan ve hastalara verilen ilaçlar, alınan tedbirler, iaşe
+(yemek) vb. bilgilerin yer aldığı belgedir.
+        Epikriz: Kelime olarak “hasta çıkış özeti” anlamına gelmekle birlikte, ilgili doktoru
+tarafından hastanın taburcu olmasından sonra tanzim edilen bir belge olarak “hastalığın tanısı,
+yapılan operasyon ve sonuçları, taburcu muayene bulguları, öneriler ve benzeri bilgiler yer alan,
+hastanın bir başka hekim tarafından kontrolü esnasında kolaylık sağlayan” bir rapordur.
+        İşlem Grubu: Sağlık Uygulama Tebliği ile Tedavi Yardımına İlişkin Uygulama Tebliği
+eklerinde yer alan Paket Fiyat Uygulama Listelerinde yer alan işlemlerin ait olduğu grupları gösteren
+ve A’dan E’ye kadar olmak üzere 5 kademeden oluşan dereceleme sistemidir.
+        Ameliyat Raporu: Ameliyat edilen hastalarla ilgili olarak, ameliyat esnasında yapılan
+işlemlerin, kullanılan malzemelerin ve ameliyatla ilgili önemli görülen diğer hususların kaydedildiği
+rapordur.
+        Tedavi: İlaç kullanımı, girişimsel radyoloji ve cerrahi uygulama, öneride bulunma ve
+benzeri yöntemler ile hastalığı iyileştirmek, tehlikesini azaltmak ya da yarattığı ızdırabı hafifletmek
+için yapılan tıbbî uygulamaların tümüdür (Tanı ve Tedavi Protokolleri Etik Kurulu Hk.
+Yönetmelik/Md.4). 2008 yılı Sağlık Uygulama Tebliği’ne göre tedavi kategorileri şunlardır:
+        a) Yatarak tedaviler: Sağlık kurumlarında yatış tarihinden itibaren taburcu işlemi
+yapılıncaya kadar uygulanan tedavilerdir.
+        b) Günübirlik tedavi: Sağlık kurumlarında yatış ve taburcu işlemi yapılmadan, 24 saatlik
+zaman dilimi içinde yapılan tedavilerdir.
+       c) Ayaktan tedavi: Sağlık kurum ve kuruluşlarında veya bulunduğu yerde yatırılmaksızın
+sağlık hizmetlerinin sağlanması, ayaktan tedavi olarak kabul edilir.
+       İlaç: Hastalıklardan korunma, teşhis, tedavi veya vücudun herhangi bir fonksiyonunu
+
+                                                                                                    8
+değiştirmek üzere kullanılan sentetik, bitkisel veya biyolojik kaynaklı etken madde, terkip ve/veya
+eczacılık ürünleridir (İlaç Araştırmaları Hk. Yönetmelik).
+        Takip No: Medula tarafından her hasta başvurusu için bir adet olmak üzere üretilen ve her
+başvuruda yapılan işlemlerin toplu takibini sağlayan numerik ve alfabetik karakterlerin karışımından
+oluşan bir numaradır.
+        Medula: “Medikal” ve “ulak” kelimelerinden türetilerek isimlendirilen ve ülke genelindeki
+Kurum sağlık harcamalarının takibi ve sağlık finansman politikalarının geliştirilebilmesi amacı ile
+tüm sağlık hizmet sunucularından sağlık hizmeti kullanım verisini toplamak ve gerekli geri
+ödemeleri yapabilmek amacı ile oluşturulan bir bilgi işlem sisteminin genel adıdır.
+        Eczacı: 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanunun 1 inci maddesinde tarif edilen
+eczane sahibi ve/veya mesul müdürünü ifade eder.
+
+        A grubu reçete: Sağlık Uygulama Tebliğinin (25.2.2) numaralı maddesinin (d) bendinde
+    sayılan reçetelerdir.
+        B grubu reçete: Sağlık Uygulama Tebliğinin (25.2.2) numaralı maddesinin (g) bendinde
+    sayılan reçetelerdir.
+
+        C grubu reçete: Sağlık Uygulama Tebliğinin (25.2.2) numaralı maddesinin (a), (b), (c), (e)
+    ve (f) bentlerinde sayılan reçetelerdir.
+        Fatura dönemi: Özel düzenlemeler saklı kalmak kaydıyla, eczane tarafından her ayın
+    birinci günü ile sonuncu günü arasında verilen hizmetleri kapsayan dönemdir.
+        İlaç takip sistemi: İlaç dış ambalajlarında yer alan karekodlar üzerinden, ilaçların
+kayıtlarının tutulduğu ve takibinin yapıldığı sistemdir.
+        Ayrıca;
+        İl Müdürü: Sosyal Güvenlik İl Müdürünü,
+        Merkez Müdürü; Sağlık Sosyal Güvenlik Merkez Müdürünü,
+        İfade eder.
+
+    2. İNCELEME VE KONTROL İLKELERİ
+
+    2.1.   Genel İlkeler
+        İnceleme ve kontrol işlemleri, özü itibariyle denetim ihtiyacım doğuran bir riskin varlığına
+yani önceden tanımlanmış birtakım normlara aykırılık olasılığına dayanır. İnceleme ve kontrollerin
+başarısı, gerçekleştirilen işin açıkça ilan edilmiş ölçütlere uygun yürütülmesi ile ilgilidir.
+        İnceleme ve kontrol ekipleri, Kurumumuzla sözleşmeli/protokollü sağlık hizmeti
+
+
+                                                                                                 9
+sunucularına yönelik incelemeleri etkin bir şekilde yerine getirebilmek için aşağıda belirtilen temel
+ilkeleri göz önünde bulundurmalıdır. Bu ilkeler şunlardır;
+        a) Dürüstlük: Ekipler incelemelerini yerine getirirken açık ve dürüst olmalıdır. Görevi ile
+bağdaşmayacak hareketlerden kaçınmalıdır.
+        b) Tarafsızlık: Ekipler, bütün görevleri boyunca önyargılardan, kayırmadan, dışsal
+etkilenmelerden veya çıkar çatışmalarından arınmış bir mesleki davranış içerisinde bulunmalıdır.
+
+        c) Mesleki Yeterlik ve Gerekli Özen: Ekipler görevlerini yürütürken gerekli özeni
+göstermeli, özenle çalışmalı ve mesleki anlamda yeterli olmalıdır. İnceleme ve kontrol ekipleri salt
+bir görevi yerine getirmenin ötesinde o görevin gerektirdiği çabayı, titizliği göstermelidir.
+        ç) Sır Saklama: Ekipler, inceleme ve kontrol işlemlerini yürütürken edindikleri bilgileri
+yasal veya mesleki bir görev olmaksızın kullanmamalı veya açıklamamalıdır.
+        d) Mesleki Davranış: İnceleme ve kontrol ekipleri yaptıkları işin saygınlığının gerektirdiği
+şekilde tutarlı davranmalı ve bu saygınlığa gölge düşürecek herhangi bir davranıştan kaçınmalıdır.
+        e) Bağımsızlık: İnceleme ve kontrol ekipleri bağımsız olmalıdır. Kurum mevzuatı
+doğrultusunda yapılan tespitleri raporlarına aktarmada hiçbir etki altında kalmamalıdır.
+
+        2.2.    Çalışma İlkeleri
+        a)      İnceleme ve kontroller, eğitici ve rehberlik yaklaşımını öne çıkaran bir anlayışla
+yerine getirilir.
+        b)      İnceleme ve kontrol ekipleri, inceleme ve kontrollerin yardım edici, yapıcı ve
+caydırıcı fonksiyonlarını göz önünde bulundururlar.
+        c)      Kolektif çalışma ve dayanışma içerisinde inceleme ve kontrolün, başarılı ve verimli
+yürütülmesi hedeflenir.
+        2.3.        Genel Çalışma Usulleri
+        a) Öncelikle incelemesi veya kontrolü yapılacak iş ve işlemlere ilişkin mevzuat ayrıntılı
+olarak tetkik edilerek bir ön hazırlık yapılmalıdır.
+        b) İncelemelere başlamadan önce hangi iş ve işlemlerin yapılacağı, hangi usul ve
+yöntemlerin belirleneceği, temel hedeflerin neler olacağı gibi hususlar değerlendirilmelidir.
+        c) Tespit edilen ve hatalı, eksik veya mevzuata aykırı olduğu düşünülen işlemlerin
+başlangıcından sonucuna kadar ayrıntılı incelemesi yapılmalıdır.
+        d) Hatalı, eksik veya aykırı işlemi yapan taraflarla görüşmeden, ilgililerin izahatlarını
+dinlemeden konu hakkında karar verilmemeli, tenkit yapılmamalıdır.
+        e) İnceleme ekiplerinin iyi niyeti asıl olmakla birlikte, hata ile usulsüzlük noktasında doğru
+
+
+                                                                                                   10
+bir karara ancak detaylı inceleme ve araştırma ile belge ve bilgiler çerçevesinde ulaşılabileceği
+hatırdan çıkarılmamalıdır.
+        f) İnceleme ve kontroller sırasında tespit edilen ve genel uygulama değişikliği önerilmesi
+düşünülen hususlarda, ayrıntılı değerlendirme yapılmalı, büyük veya küçük tüm birimlerde
+uygulanabilirliği ve getirileri iyi araştırılmalıdır.
+        g) İnceleme ve kontrol işlevinin yanında, eğitim ve rehberlik işlevini de dikkate almalı,
+uygulamaya müdahale etmeden (emir ve talimat vermeden) o husustaki mevzuat, ilgililere doğru bir
+şekilde aktarılmalıdır.
+        h) Raporlar çok uzatılmamalı, gereksiz ayrıntılara ve tekrarlara girilmemek, suçlayıcı veya
+tahkir edici ifadeler kullanılmamalıdır. Raporlar tarafsız bir dille, kısa, somut, net anlaşılır,
+hissiyattan uzak ifadeler ile yazılmalıdır
+        i) Daha önce yapılan inceleme ve kontroller neticesinde düzenlenen raporlar ve bunlar
+üzerine yapılan işlemler tetkik edilmelidir.
+        j) İnceleme ve kontrol ekipleri görevleri sırasında ilgililere nezaket kurallarına ve
+memuriyet gereklerine uygun bir lisan ile muamele etmeli, tartışmaya sebebiyet verecek tarz, ifade
+ve hitaplardan kaçınmalıdırlar.
+        k) İnceleme ve kontrol ekiplerinin giyimleri ile karşılanıp bilgileri ile uğurlandığı, bilgi
+kadar temsilin de önemli olduğu unutulmamalıdır.
+    3. İNCELEME VE KONTROLLERDE YARARLANILABİLECEK MEVZUAT
+        Sağlık hizmet sunucularına yönelik inceleme ve kontrollerde Kurum tarafından çıkartılmış
+konuyla ilgili her türlü mevzuat ile Kurumun sağlık hizmet sunucularıyla yapmış olduğu sözleşme ve
+protokoller dışında başvurulabilecek bazı mevzuat kaynakları 14 numaralı ekte yer almaktadır.
+    4. İZLEME VE DEĞERLENDİRME SERVİSİ, GÖREVLERİ, SORUMLULUKLARI
+
+    4.1.    İzleme ve Değerlendirme Servisi
+    Sağlık sosyal güvenlik merkezleri bünyesinde oluşturulacak olan bu servis, izleme ve
+değerlendirme birimi, inceleme ve kontrol ekibi ile diğer personelden oluşur.
+
+    4.1.1. İzleme ve Değerlendirme Birimi
+    Merkez müdürlüğündeki           sağlık hizmetleri sınıfındaki personel veya iş ve işlemlerin
+yoğunluğuna göre diğer görevli personel arasından merkez müdürünün teklifi ve il müdürünün onayı
+ile en az üç kişiden oluşan bir izleme ve değerlendirme birimi kurulur.
+    İzleme ve değerlendirme birimi, sağlık kurum ve kuruluşları ile eczane ve optisyenlik
+müesseseleri için olmak üzere birden fazla ayrı ayrı kurulabilir. İzleme ve değerlendirme birimi,
+merkez müdürüne bağlı olarak görev yapar.
+
+                                                                                                 11
+    4.1.2. İnceleme ve Kontrol Ekibi
+    Merkez müdürlüğündeki         sağlık hizmetleri sınıfındaki personel veya iş ve işlemlerin
+yoğunluğuna göre diğer görevli personel arasından merkez müdürünün teklifi ve il müdürünün onayı
+ile en az iki kişiden oluşan bir inceleme ve kontrol ekibi kurulur.
+    İnceleme ve kontrol ekipleri, sağlık kurum ve kuruluşları ile eczane ve optisyenlik müesseseleri
+için olmak üzere birden fazla ayrı ayrı kurulabilir. İnceleme ve kontrol ekipleri, merkez müdürüne
+bağlı olarak görev yapar.
+
+    4.2.       İzleme ve Değerlendirme Biriminin Görev, Yetki ve Sorumlulukları
+    1. İnceleme ve kontrole tabi tutulacak olan sağlık hizmeti sunucularını belirleyerek merkez
+müdürünün uygun görüşü ile il müdürünün onayına sunmak,
+    2. İnceleme ve kontrole tabi tutulacak olan sağlık hizmeti sunucuları ile ilgili olarak inceleme
+ve kontrol ekibinin görev emrini hazırlayıp merkez müdürünün onayına sunmak,
+    3. Onaylanan görev emirlerini, inceleme ve kontrol ekibine zimmet karşılığı vermek,
+    4. İnceleme ve kontrol ekibi tarafından düzenlenen tutanakları ve durum tespit raporlarını
+mevzuat çerçevesinde incelemek ve değerlendirmek,
+    5. Raporlarda tespit edilen eksikliklerin giderilmesi için raporları, inceleme ve kontrol ekibine
+gerekçesini de belirterek yazılı olarak iade etmek,
+    6. Değerlendirilen raporları merkez müdürünün uygun görüşü ile il müdürünün onayına
+sunmak,
+    7. İkinci ve üçüncü basamak resmi sağlık kurumlan haricindeki sağlık hizmet sunucuları
+hakkında, kamu kurum ve kuruluşları ile genel sağlık sigortalısının kendisi, bakmakla yükümlü
+olduğu kişiler ya da üçüncü kişiler tarafından il müdürlüklerine yazılı, ALO 170 veya elektronik
+ortamda gönderilen ihbar ve şikâyetlerle ilgili inceleme ve kontrol işlemlerinin gerçekleştirilmesi ve
+sonuçlandırılmasını sağlamak,
+    8. İkinci ve Üçüncü basamak resmi sağlık kurumlan hakkında kamu kurum ve kuruluşları ile
+genel sağlık sigortalısının kendisi, bakmakla yükümlü olduğu kişiler ya da üçüncü kişiler tarafından
+il müdürlüklerine yazılı, ALO 170 veya elektronik ortamda gönderilen ihbar ve şikâyetlerle ilgili
+inceleme ve araştırmanın yapılarak, Rehberlik ve Teftiş Başkanlığına gönderilmesini sağlamak,
+Türk Silahlı Kuvvetlerine bağlı sağlık hizmet sunucuları ile ilgili ihbar ve şikâyet hallerinde, konuyu
+doğrudan Rehberlik ve Teftiş Başkanlığına iletmek,
+    9. İl müdürlüğünce fatura inceleme esnasında Kurum tarafından yayımlanan mevzuat ile
+sözleşme ve protokol hükümlerine aykırılıkların tespit edilmesi hallerinde, düzenlenen fatura tespit
+tutanağında yer alan hususları değerlendirerek inceleme ve kontrol işlemlerinin gerçekleştirilmesini
+
+
+                                                                                                    12
+sağlamak,
+    10. İki yılda en az bir defa gerçekleştirilmek üzere sağlık hizmet sunucuları ile optisyenlik
+müesseseler! hakkında Kurumca yayımlanan mevzuat ve sözleşme/protokol hükümlerine göre
+inceleme ve kontrole alınacak sağlık hizmet sunucularını belirleyerek, merkez müdürünün uygun
+görüşü ile il müdürünün onayına sunmak,
+    11. İnceleme ve kontrol sonuçları ile ilgili aylık istatistik raporları düzenlemek ve sonuçları
+hakkında merkez müdürü ve il müdürüne bilgi vermek,
+    12. Verilen benzer nitelikteki diğer görevleri yürütmek,
+
+    4.3.       İnceleme ve Kontrol Ekibinin Görev, Yetki ve Sorumlulukları
+    1. İl Müdürü tarafından incelenmesi ve kontrolü uygun bulunan sağlık hizmet sunucularının
+Kurumca yayımlanan mevzuat ve sözleşme/protokol hükümlerine uygunluğu yönünden inceleme ve
+kontrol işlemlerini yapmak,
+
+    2. Sağlık hizmet sunucusu ile yapılan sözleşme/protokol hükümleri göz önünde bulundurularak
+görevlerinin yürütülmesi sırasında sağlık hizmeti sunucusuna serbestçe girmek ve kontrol amaçlı
+gezmek,
+
+    3. Görevleriyle ilgili tüm resmi ve özel gerçek ve tüzel kişiler ile tüm kurum ve kuruluşlara ait
+her türlü kayıt, bilgi ve belgelerin ibrazını istemek, bunları incelemek, gerektiğinde tasdikli örnek
+veya fotokopilerini almak, bunlara ilişkin tutanak düzenlemek, sağlık hizmet sunucularına ilişkin
+kayıt, bilgi ve belgenin talep edilmesine yönelik her türlü işlemi, inceleme ve kontrol ekibinde yer
+alan sağlık hizmetleri sınıfındaki personel marifetiyle yürütmek,
+    4. Sağlık hizmeti sunucusunun yetkilisi, çalışanları ya da sağlık hizmeti alan sigortalıların
+bilgisine başvurmak, gerekirse ifadelerini almak,
+    5. Görevlerinin ifası esnasında gerekli çalışma ortamının sağlanmasını istemek,
+    6. Sağlık hizmeti sunucularının vermiş oldukları sağlık hizmetlerini ve bu hizmetlere ilişkin
+ödeme belgesi ve eklerinin ilgili mevzuat ve sözleşme/protokol hükümleri çerçevesinde düzenlenip
+düzenlenmediğini kontrol etmek,
+    7. İnceleme ve kontrol işleminin tamamlanmasının ardından, inceleme ve kontrol tutanakları
+düzenlemek, tespit edilen hususlar ile ilgili durum tespit raporu hazırlayarak izleme ve
+değerlendirme birimine sunmak,
+    8. İncelenen evrak ve kayıtlar üzerinde evrakın incelendiğini gösteren tarih ve imza haricinde
+herhangi bir ilave veya düzeltme yapmamak, bilgi işlem ortamındaki bilgi ve kayıtları
+değiştirmemek,
+
+
+                                                                                                  13
+    9. İnceleme ve kontrolün yapılacağı sağlık hizmet sunucusunun ismini açıklamamak, yaptıkları
+görev ile ilgili işlemler hakkında il müdürü veya merkez müdürü haricindeki kişilere bilgi
+vermemek,
+
+    10. İhbar ya da şikâyette bulunan kişilerin kimliklerini açıklamamak,
+
+    11. Görevleri sırasında ve çalışmaları esnasında nezaket kurallarına uygun hareket etmek,
+
+    12. Verilen benzer nitelikteki diğer görevleri yürütmek,
+
+    4.4.       İzleme ve Değerlendirme Birimi ile İnceleme ve Kontrol Ekibinin Eğitimi
+     İzleme ve değerlendirme birimi ile inceleme ve kontrol ekiplerinin iş ve işlemlerinin ifası
+kapsamındaki eğitimler, il müdürlüğü tarafından verilir.
+
+    4.5.       İzleme ve Değerlendirme Birimi ile İnceleme ve Kontrol Ekibinin Sisteme
+Kaydedilmesi
+     İl müdürlüğü tarafından, inceleme ve kontrol ekibinde görevlendirilen personelin bilgileri
+“sgkintranet” adresinde yer alan "inceleme ve kontrol uygulamaları" bölümüne kaydedilecektir.
+
+
+
+
+                                                                                                   14
+     5.         İNCELEME VE KONTROLE TABİ TUTULMA USULLERİ
+
+     5.1.       Sağlık Hizmeti Sunucularının inceleme ve Kontrole Tabi Tutulma işlemleri
+      Sağlık hizmeti sunucuları hakkında, ihbar ve şikâyete bağlı inceleme ve kontrol, planlı
+inceleme ve kontrol ve gerekçeli inceleme ve kontrol olmak üzere üç şekilde inceleme ve kontrol
+yapılacaktır. İkinci ve üçüncü basamak resmi sağlık kurum ve kuruluşları için ise inceleme ve
+araştırma işlemleri yürütülecektir.
+     5.1.1.     İhbar ve Şikâyete Bağlı İnceleme ve Kontrol
+     İhbar ve şikâyete bağlı inceleme ve kontrol, sağlık hizmet sunucuları hakkında, genel sağlık
+sigortalısı ile bunların bakmakla yükümlü oldukları kişiler, üçüncü kişiler ya da kamu kurumları
+tarafından Kurumumuza yazılı, ALO 170 veya elektronik ortamda gönderilen ihbar ve şikâyetlerde
+belirtilen hususların incelenmesi ve araştırılması ile ilgili olarak yapılır.
+     Sağlık hizmet sunucusunun inceleme ve kontrol işlemi devam etmekteyken ilgili sağlık hizmet
+sunucusu hakkında Kurumumuza yeni bir ihbar ve şikâyette bulunulması halinde, bu hususların
+araştırılması ve incelenmesi de aynı inceleme ve kontrol ekibi tarafından gerçekleştirilir.
+     İhbar ve şikâyete konu hususların araştırılması ve incelenmesi, ihbar ve şikâyetin Kurum
+kayıtlarına girdiği tarihten itibaren iki ay içerisinde tamamlanır.
+
+     5.1.2.     Planlı İnceleme ve Kontrol
+     Sağlık hizmet sunucuları hakkında Kurumca yayımlanan mevzuat ve sözleşme/protokol
+hükümlerine göre iki yılda en az bir defa yapılır.
+
+     5.1.3.     Gerekçeli İnceleme ve Kontrol
+     Gerekçeli inceleme ve kontrol, Sağlık hizmet sunucularının inceleme ve kontrole tabi tutulma
+gerekçeleri başlığı altında belirtilen hususlar çerçevesinde sağlık hizmet sunucuları hakkında
+yapılması gereken inceleme ve kontroldür.
+     Risk Analizi ve Sürekli Denetim Grup Başkanlığı, gerekçeli inceleme ve kontrol yapılması
+gereken sağlık hizmet sunucularına ait bilgileri, yazılı ve/veya elektronik ortamda koordinatör il
+müdürlüklerine gönderecektir.
+
+    5.2.        İkinci ve Üçüncü Basamak Resmi Sağlık Kurumlan Hakkında İnceleme ve
+Araştırma
+      İkinci ve üçüncü basamak resmi sağlık kurumları hakkında kamu kurum ve kuruluşları ile
+genel sağlık sigortalısının kendisi, bakmakla yükümlü olduğu kişiler ya da üçüncü kişiler tarafından
+il müdürlüklerine yazılı, ALO 170 veya elektronik ortamda gönderilen ihbar ve
+
+
+
+
+                                                                                                 15
+şikâyetlerle ilgili gerekli inceleme ve araştırma yürütülerek, Rehberlik ve Teftiş Başkanlığına
+gönderilir. Bu hususlarla ilgili inceleme ve araştırmalarda EK-13 te bulunan inceleme ve araştırma
+tutanağı usulüne göre düzenlenerek Rehberlik ve Teftiş Başkanlığına iletilir.
+      Türk Silahlı Kuvvetlerine bağlı sağlık hizmet sunucuları ile ilgili ihbar ve şikâyet hallerinde,
+konu doğrudan Rehberlik ve Teftiş Başkanlığına gönderilir.
+
+      5.3.     Sağlık Hizmeti Sunucularının İnceleme ve Kontrole Tabi Tutulma Gerekçeleri
+    1. Kurum Müfettişlerince yürütülmekte olan inceleme ve soruşturmalar kapsamında inceleme,
+kontrol ve araştırma talebinde bulunulması,
+    2. Risk Analizi ve Sürekli Denetim Grup Başkanlığı tarafından hazırlanan veri analiz
+raporlarında yer alan hususlarla ilgili inceleme, kontrol ve araştırma talep edilmesi,
+    3. Sağlık hizmeti alan genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin, üçüncü
+şahısların ya da diğer kamu kurumlarının Kurumumuza yazılı, ALO 170 veya elektronik ortamda
+gönderilen ihbar ve şikâyetlerinin bulunması,
+    4. İl Müdürlüğünce, Kurum tarafından yayımlanan mevzuat ile sözleşme ve protokol
+hükümlerine aykırılıkların tespit edilmesi veya herhangi bir aykırılık olup olmadığının kontrolü
+amacıyla inceleme ve kontrol talebinde bulunulması,
+    Hallerinde sağlık hizmet sunucusu hakkında görev emri hazırlanır.
+    6. SAĞLIK HİZMET SUNUCULARI İNCELEME VE KONTROL STANDARTLARI
+
+    6.1.       Yöntem
+    Daha önce izah edilen genel amaçlar doğrultusunda yürütülecek olan sağlık hizmet sunucuları
+inceleme ve kontrollerinin nasıl bir yöntem ile yürütüleceği; görevin kapsamı, incelenen fatura
+sayısı, inceleme ve kontrole konu tıbbi branşın mahiyetinden kaynaklanan farklılıklar gibi pek çok
+faktöre göre değişkenlik gösterebilir. Bu nedenle tek bir ideal yöntem belirlenmesi söz konusu
+olmayıp kullanılacak inceleme ve kontrol yönteminin, görevli inceleme ve kontrol ekiplerince ve
+içinde bulunulan şartlara göre belirlenmesi gerekmektedir.
+
+    6.2.       Ön Hazırlık ve İnceleme ve Kontrol Stratejisinin Belirlenmesi
+    Sağlık hizmet sunucularının inceleme ve kontrollerine yönelik ön hazırlık süreci,
+inceleme/kontrol işlemlerinin önemli bir aşamasıdır. İnceleme, araştırma ve kontrolün sonraki
+safhalarında yapılacak işlemlerin ve varılacak kanaatlerin sıhhati, inceleme ve kontrol gerektiren
+riskli noktaların takdirinde isabet sağlanması ve etkili sonuçlara ulaşılması, görevlendirme süresine
+sadık kalınması gibi hususlar büyük ölçüde ön hazırlık safhasında yürütülen çalışmaların kalitesine
+
+
+                                                                                                    16
+bağlıdır. Bu nedenle ön hazırlık safhası zaman kaybı gibi görülmemeli, tam tersine ileride
+yaşanabilecek zaman kayıplarının engellenmesi, inceleme ve kontrolün amacına ulaşmasının garanti
+altına alınması için özel bir önem atfedilmelidir.
+     Ön hazırlık safhasında yapılması gereken işlemler ve dikkate alınması gereken hususlar
+kronolojik bir sıra izlenerek şu şekilde özetlenebilir:
+     Sağlık hizmet sunucularına yönelik inceleme ve kontrollerde, öncelikle konu ile ilgili mevzuat
+değişiklikleri Resmi Gazete, Kurumumuzun internet ve intranet sayfaları ya da elektronik ortamda
+oluşturulan e-posta grupları aracılığı ile takip edilmeli, kâğıt ortamında temin edildi ise düzgün
+şekilde dosyalanmalı, mümkün ise Excel ya da Word programları ile oluşturulacak bir fihrist
+çizelgesinde izlenmelidir. Bu izleme yapılırken, bilhassa değişiklik getiren düzenlemelerin
+yürürlüğe girdiği tarihler ve değişiklik getirdikleri eski düzenlemeler hususunda fihristlere ya da
+elektronik dosya isimlerine tarih bilgisi girilmelidir. Bu şekilde, bir yandan incelenen döneme ait
+işlemlerin o dönemin cari mevzuatı açısından değerlendirilmesi sağlanırken bir yandan da inceleme
+ve kontrol isteminin içeriği ne olursa olsun, konu ile ilgili mevzuatın her seferinde yeniden
+araştırılması ve güncelliğinin sağlanması için zaman harcamaya gerek kalmayacaktır.
+     Ön hazırlığın ikinci aşaması inceleme ve kontrol gerekçesinde yer alan bilgi ve belgelerin
+dikkatli ve detaylı bir şekilde analiz edilmesidir. Bu aşamada;
+     - İnceleme ve kontrol isteminin belli bir konuyu mu işaret ettiği (belli bir tıbbi işlem, branş,
+doktor vb.) yoksa genel bir mahiyeti mi olduğu (A Hastanesi’nin iş ve işlemleri, B Hastanesi’nin
+faturaları vb.),
+
+     - İnceleme ve kontrol görevi için bir süre sınırı konulup konulmadığı, konulmuş ise sürenin
+bitimine ne kadar zaman kaldığı, kalan sürenin resmi tatil, hizmet içi eğitim vb. nedenlerle bölünüp
+bölünmeyeceği, eldeki iş durumuna göre inceleme ve kontrol faaliyetine ne zaman başlanabileceği,
+oluşabilecek aksaklıklar için durumdan izleme ve değerlendirme birimini hemen haberdar etmeye
+gerek olup olmadığı,
+     - İncelemesi veya kontrolü yapılacak sağlık hizmet sunucusunun nerede olduğu, yerinde
+yapılacak bir inceleme ve kontrole mi yoksa Kurum birimlerinde ve masa başında yapılacak bir
+inceleme ve kontrole mi ihtiyaç duyulacağı, yerinde inceleme ve kontrol yapılacaksa Sağlık hizmet
+sunucusunun bulunduğu yere ulaşım sorunu olup olmadığı,
+     - İnceleme ve kontrol gerekçesinde yer alan belgelerin nelerden ibaret olduğu ve hangi bilgileri
+içerdiği, eksik evrak olup olmadığı, istenmesi gereken ilave bilgi ve belgelerin neler olduğu ve hangi
+birimlerden istenilmesi gerektiği,
+
+
+
+                                                                                                   17
+     - Düzenlenecek raporda kesin olarak hangi hususların belirtilmesi gerektiği,
+     Sorularının yanıtlanması gerekir.
+
+     Üçüncü aşamada, inceleme ve kontrole başlamadan önce elde bulunması gerekli belgeler (eksik
+evrak, hastane sözleşmesi, reçete, ödeme belgeleri vb.) temin edilir, konu ile ilgili mevzuat derlenip
+okunur, gerekirse kısa özetler çıkarılır ya da önemli noktalar altı çizilerek belirtilir. İnceleme ve
+kontrolü yapılacak konunun mahiyetine göre internet üzerinden ya da konunun uzmanları ile
+görüşülerek teknik bilgi edinilir (tıbbi işlemlerin mahiyeti, uygulama endikasyonları, tıbbi malzeme
+hakkında bilgiler, malzemenin ithalatçı/bayi/fiyat bilgileri vb.).
+     Son aşamada ise, elde edilen bilgilere göre inceleme ve kontrolde nasıl bir yöntem izleneceği,
+konunun hangi açılardan ele alınarak irdeleneceği ve kapsamının nasıl sınırlandırılacağı, inceleme ve
+kontrol esnasında yapılacak işlerin hangi sırada yapılacağı, hangi faaliyetin ne kadar sürede
+yapılacağı, mümkün ise inceleme ve kontrol ekibinde kimin hangi konuların incelemesinden
+sorumlu olacağı, raporlamanın nasıl yapılacağı gibi hususlarda karar verilerek bir inceleme ve
+kontrol planı ve stratejisi oluşturulur.
+     İnceleme ve kontrol planı ve stratejisi, inceleme ve kontrolü yapılacak sağlık hizmet
+sunucusunun çalışma tarzına, elde edilebilecek bilgilerin mahiyetine, çalışma ortamına ve benzeri
+faktörlere göre değişebileceğinden, planlama ve stratejiyi belirleme aşamasının yerinde yapılacak
+incelemeler sonrasına bırakılması da mümkündür.
+     6.3.       Genel, Tıbbi ve İdari Birimler Hakkında Bilgilerin Temini
+     Sağlık hizmet sunucularına yönelik inceleme ve kontrollere başlanıldığında temininde fayda
+olduğu düşünülen bilgiler şu şekilde sıralanabilir:
+     - SHS nin kuruluş ve Kurumumuzla sözleşme imzalama tarihi, adres ve telefonları,
+     - Kurumumuzla imzaladığı sözleşmenin kapsamı,
+     - Kaçıncı basamakta yer aldığı, türü (resmi, özel, genel dal, özel dal, eğitim ve araştırma,
+üniversite) ve ruhsatında belirtilen yatak sayısı,
+     - Bulunduğu çevredeki durumu (aynı kategoride başka hastane/eczane/tıp merkezi v.s. bulunup
+bulunmadığı, çevreye ulaşımı, hasta profili vb.),
+    - Hastanenin sevk ettiği ve sevkli olarak kabul ettiği hasta sayısı,
+     - Hastanede kullanılan bilgi işlem programının özellikleri, hangi verilerin istenmesine müsait
+olduğu,
+
+     - İnceleme ve kontrol konusuna bağlı olarak Kurumumuzun bilgi işlem sisteminden hangi
+verilerin nasıl temin edilebileceği, bilgilerin temininde herhangi bir sıkıntı olup olmayacağı,
+
+
+                                                                                                   18
+     - Tüm tıbbi ve idari birim/servislerin sorumluları ve erişim bilgileri (telefon, faks, vs.),
+     - Çalışan personelin unvanları itibarı ile sayıları (doktor, eczacı, hemşire, diğer personel vb.),
+
+     -Özellikle tıbbi birimlerde tutulan kayıtların türleri ve kayıt düzeni, kayıt düzeninde aksaklık
+olup olmadığı,
+     - Bilgi işlem sisteminden ya da birimlerden hangi bilgilerin nasıl temin edileceği, istenen
+bilgilerin bulunması yönünden bir sıkıntı doğup doğmayacağı,
+
+     - İnceleme ve kontrol süresi ve mahiyeti göz önünde bulundurularak, inceleme ve kontrol
+ekipleri tarafından temininde fayda olduğu düşünülen diğer bilgiler.
+
+     6.4.        Sağlık Kurumlan İçin İhbar ve Şikâyete Bağlı ve Gerekçeli İnceleme ve Kontrol
+Standartları
+     “2012 Yılı Sosyal Güvenlik Kurumu Özel Sağlık Hizmeti Sunucularından Sağlık Hizmeti Satın
+Alım Sözleşmesi” kapsamında çok sayıda inceleme ve kontrol konusu bulunmakla birlikte sıklıkla
+karşılaşılanlar başta olmak üzere çeşitli kontrol konularına ilişkin temel esaslara aşağıda yer
+verilmiştir.
+     Her bir inceleme ve kontrol ayrı bir süreç gerektirmekte ise de SHS ile ilgili bir şikâyet ya da
+inceleme ve kontrol gerekçesi ile karşılaşıldığında öncelikli yapılması gereken, şikâyet dilekçesi ve
+varsa eklerinin tetkikidir. Konu ile ilgili mevzuatın derlenmesi, gerektiğinde konu hakkında teknik
+bilgi edinilmesi oldukça önemlidir.
+     Diğer bir öncelikli husus ise şikâyetçinin veya ihbarcının beyanlarına başvurulması hususudur.
+Eğer şikâyetçinin dilekçesi müstear bir isimle kaleme alınmışsa veya isimsiz ve imzasız bir yazı
+mevcutsa şikâyetin özündeki unsurlara bakmak gerekir.
+
+     İnceleme ve kontrol konusunun içeriğine göre hasta dosyası içeriği belgelerin (teşhise esas olan
+bulgular, hasta yakınması, hekimin fizik muayene bulguları, tetkik, tahlil sonuçları, protokol kayıt
+defteri, hasta yatış kayıtları, hemşire gözlem kağıdı, hasta tabelası, laboratuvar kayıtları,
+ameliyathane kayıtları, epikriz raporu vd.) tetkiki, gerektiğinde, tedaviyi yapan sağlık personelinin
+(hekim, hemşire, teknisyen) bilgisine başvurulması gerekebilir. Ayrıca uygulanan tedavi konusunda
+hastadan bilgi alınması, yapılan tedavi ile ilgili bilirkişi tetkik ve görüşlerine başvurulması faydalı
+olabilir.
+    Konu ile ilgili tüm delillerin toplanmasının ardından SHS yetkililerinin bilgilerine müracaat
+edilir. Varsa kurum zararı ve sorumluları tespit edilir.
+
+
+
+
+                                                                                                     19
+    6.5.         Sağlık Hizmet Sunucuları Planlı İnceleme ve Kontrol Standartları
+
+    6.5.1.       Adres Değişikliği
+    Ticaret sicil gazetesinde ilgili işyeri için yapılan bildirim ile Kuruma yapılan bildirimler
+karşılaştırılır. Gerektiğinde, Sağlık Bakanlığınca adres değişikliği için düzenlenen ruhsat ve eski
+adres için tahliye beyanları incelenir. SHS yetkilileri veya çalışanlarının beyanlarına başvurularak
+adres değişikliğinin tam tarihi tespit edilmeye çalışılır. Adres değişikliği bildirimlerinin diğer kurum
+ve kuruluşlara da (Maliye Bakanlığı, Gümrük ve Ticaret Bakanlığı, ilgili odalar vd.) yapılacağı
+hususları dikkate alınarak ilgili kurum veya kuruluşlarla yazışmalar yapılarak adres değişiklik
+tarihinin tespitine çalışılır.
+
+    6.5.2.       SHS Ortaklarında Değişiklik
+    Ticaret sicil gazetesi incelenerek, değişikliğin süresi içerisinde Kuruma bildirilip bildirilmediği
+tespit edilir. Ortaklık yapısındaki değişikliklerin diğer kurum ve kuruluşlara da (Sağlık Bakanlığı,
+Maliye Bakanlığı, Gümrük ve Ticaret Bakanlığı, ilgili odalar vd.) yapılacağı hususları dikkate
+alınarak ilgili kurum veya kuruluşlarla yazışmalar yapılarak ortaklardaki değişiklik tarihinin
+tespitine çalışılır.
+
+    6.5.3.       Hekimlerin Çalışma Durumlarının Bildirimi
+    Yerinde kontroller ile tam zamanlı veya kısmi zamanlı çalışan hekimlerin fiili çalışmaları
+belirlenir. SHS’nin Kurumumuza yönelik faturaları incelenerek ilgili hekim/hekimlerce yapılan iş ve
+işlemlerin tarihleri ile ilgili hekimlerin Kurumumuza bildirimleri karşılaştırılır. Sağlık Bakanlığı ile
+gerekli yazışmalar yapılarak çapraz kontrol sağlanır. Gerektiğinde ilgili hekim/hekimler ve SHS
+yetkililerinin beyanlarına başvurulur. Kurum kayıtlarından sigortalılık bildirimlerine bakmak da
+faydalı olabilir.
+
+    6.5.4.       Acil Servisteki Hekim Sayıları
+    Sağlık Bakanlığının ilgili mevzuatı ve SHS’nin ruhsatı incelenir. Yerinde kontroller sırasında
+durum tespit tutanağı ile acilde çalışan yeterli sayıda uzman/pratisyen hekim bulunup bulunmadığı
+tespit edilir. Acil servis protokol defteri incelenerek yeterli hekimin bulunup bulunmadığı, defterde
+ismi görülen doktorların aktif olarak görevi başında bulunup bulunmadığı hususu tetkik edilir. Acil
+servis aylık doktor nöbet çizelgesi incelenerek, ilgili protokol defterleri ile karşılaştırılır. Gerek
+duyulursa, ilgili hekim/hekimler, SHS yetkilileri ve hasta/hasta yakınlarının beyanlarına başvurulur.
+
+    6.5.5.       İlk Muayene Sonrası Verilen Randevu Tarihleri
+    Örnekleme yöntemi ile belirlenen hastaların ilk muayene tarihleri, SHS kayıtlarından
+belirlenerek randevu veya tanı/tedavi için verilen randevu tarihi ile karşılaştırılır. Gerektiğinde
+
+                                                                                                     20
+hasta/hasta yakını veya SHS yetkililerinin beyanlarına başvurulur.
+
+    6.5.6.      Fazla Oranda İlave Ücret Alınması
+    Örnekleme usulüyle seçilen hastaların ya da ihbar veya şikâyete konu hastaların gerekli Medula
+incelemeleri yapılarak hangi sağlık hizmetlerini aldığı belirlenir. Hasta, hasta yakını veya SHS
+       yetkililerinin beyanlarına başvurulur.     Hastalarda bulunması      gereken ödemeye ilişkin
+(makbuz, fiş, fatura, kredi kartı slibi vb.) belgeler kontrol edilerek Kurumca belirlenen orandan daha
+fazla ilave ücret alınıp alınmadığının tespitine çalışılır.
+
+    6.5.7.      Katılım Payı Alınmaması
+    Örnekleme usulüyle seçilen hastaların ya da ihbar veya şikâyete konu hastaların gerekli Medula
+incelemeleri yapılarak hangi sağlık hizmetlerini aldığı belirlenir. Hasta, hasta yakını veya SHS
+       yetkililerinin beyanlarına başvurulur.     Hastalarda bulunması      gereken ödemeye ilişkin
+(makbuz, fiş, fatura, kredi kartı slipleri vb.) belgeler kontrol edilerek katılım payı alınıp
+alınmadığının tespitine çalışılır.
+
+    6.5.8.      İlave Ücret Alınmayacak Kişiler/Sağlık Hizmetleri
+    Kurum mevzuatına göre ilave ücret alınmayacak sağlık hizmetleri ve kişiler belirlenerek SHS
+kayıtları bu noktadan hareketle incelenir. Gerektiğinde hasta/hasta yakını veya SHS yetkililerinin
+beyanlarına başvurulur. Ödemeye ilişkin (makbuz, fiş, fatura, kredi kartı slipleri vb.) belgeler kontrol
+edilerek ilave ücret alınıp alınmadığının tespitine çalışılır.
+
+    6.5.9.      İlave Ücret Belgesi
+    Hasta veya hasta yakınlarının beyanlarına başvurularak ilgili belgenin kendilerine verilip
+verilmediği tespit edilmeye çalışılır. SHS’nin konu ile ilgili kayıtları tetkik edilir. Gerektiğinde SHS
+yetkililerinin beyanlarına başvurulur.
+    6.5.10.     Kayıtlı Olmayan Hekim Üzerinden Yapılan Bildirimler
+    Hasta veya hasta yakınının beyanlarına başvurulur. SHS yetkililerinden konu ilgili bilgi alınır.
+SHS’nin konu ile ilgili kayıtları tetkik edilir. Medula sistemindeki veriler ile ilgili hastane kayıtları,
+hasta veya yakınlarının beyanları ışığında karşılaştırılır. SHS’de yapılan yerinde kontroller sırasında,
+Medula sisteminde kayıtlı olmayan hekim çalışıp çalışmadığı hususu da ayrıca incelenir.
+
+    6.5.11.     Personelin Ayrılışlarının Kuruma Bildirilmesi
+    Hekim veya hekim harici uygulayıcı sağlık personelinin ayrılış tarihleri, SHS kayıtlarından ve
+Medula sisteminden tetkik edilir. Söz konusu hekim veya hekim harici uygulayıcı sağlık
+personelinin ayrılışlarına ilişkin Kuruma verilen bildirimler karşılaştırılır.
+
+
+                                                                                                       21
+    6.5.12.     Kurum Personelinin SHS’de Çalışması/Ortaklığı
+    SHS kayıtlarından, çalışanların, mesul müdürlerinin, sahibinin, anonim şirketlerde yönetim
+kurulu üyesinin ve/veya kurucu ortaklarının, diğer şirket türlerinde ise ortaklarının listesi alınır.
+Alınan veriler ilgili SHS’nin ticaret sicil gazetesinde belirtilen ortaklık yapısıyla karşılaştırılır.
+
+    Konuyla ilgili herhangi bir şikâyet halinde ya da inceleme ve kontrol ekiplerince şüpheye
+düşülen bir durumda ilgili kişi için Kurumumuzun İnsan Kaynakları Daire Başkanlığı ile yazışmalar
+yapılır.
+
+    6.5.13.     SHS Hekiminin Resmi SHS’de Başhekim/Başhekim Yardımcısı Olarak
+Çalışması
+    SHS kayıtlarından, çalışanların, mesul müdürlerinin, sahibinin, anonim şirketlerde yönetim
+kurulu üyesinin ve/veya kurucu ortaklarının, diğer şirket türlerinde ise ortaklarının listesi alınır.
+Alınan veriler ilgili SHS’nin ticaret sicil gazetesinde belirtilen ortaklık yapısıyla karşılaştırılır.
+    Konuyla ilgili herhangi bir şikâyet halinde ya da inceleme ve kontrol ekiplerince şüpheye
+düşülen bir durumda ilgili kişi için Sağlık Bakanlığı ile yazışmalar yapılır.
+
+    6.5.14.     Yeni Eklenen Branşta Çalışacak Hekimin Bildirilmesi
+    SHS’nin Kurumumuza bildirimini yaptığı branş bilgileri ile inceleme ve kontrol ekiplerinin fiili
+tespitleri karşılaştırılır. Konuyla ilgili SHS yetkililerin veya ilgililerin beyanlarına başvurulur.
+Gerekli hallerde Sağlık Bakanlığı ile yazışmalar yapılabilir.
+
+    6.5.15.     İptal Edilen Branşın Kuruma Bildirimi
+    SHS’nin, ruhsatında/faaliyet izin belgesinde yer alan branşlardan iptal edilenlerin veya İl Sağlık
+Müdürlüğü tarafından süreli olarak faaliyeti durdurulanların, iptal ve faaliyetin durdurulma tarihleri
+ile ilgili olarak Sağlık Bakanlığı ile yazışmalar yapılarak mevcut ruhsat bilgileri ile karşılaştırılır. Bu
+doğrultuda Kuruma yapılmış bildirimler ile çapraz kontroller yapılır.
+
+    6.5.16.     Hizmet Alım Sözleşmelerinin Kuruma Bildirimi
+    Hizmet alım yöntemiyle yapılan tetkik ve tahlillere ilişkin yapılan hizmet alım sözleşmeleri
+incelenir. Hizmet alım sözleşmesinin Kuruma bildiriminin yapılıp yapılmadığı tetkik edilir. Gerekli
+hallerde hasta beyanına başvurulabilir.
+
+    6.5.17.     Feshedilmiş Sağlık Hizmet Sunucusundan Hizmet Alımı
+    Hizmet alım yöntemiyle yapılan tetkik ve tahlillere ilişkin yapılan hizmet alım sözleşmesi
+incelenir. Hizmet alımı yapılan SHS’nin Kurumumuzla sözleşmesinin feshedilip feshedilmediği
+Medula sisteminden kontrol edilir. Gerektiğinde her iki SHS yetkililerinin beyanlarına başvurulur.
+
+
+                                                                                                         22
+    6.5.18.    Reklam, Tanıtım ve Yönlendirme
+    Konu ile ilgili ihbar ve şikâyet durumlarında, hastaların, ilgili hekimlerin varsa şikâyetçinin
+beyanlarına başvurulur. Farklı bir sağlık tesisinden yönlendirme yapıldığı iddiası var ise her iki
+sağlık kuruluşuna başvuran ortak hastalar, Kurum bilgi işlem kayıtlarından çıkartılarak ilgili
+hastaların bilgisine başvurulur. Gerekli hallerde SHS yetkililerinden konu ile ilgili bilgi alınır.
+
+    6.5.19.    Kampanya, Tarama ve Check-up İşlemlerinin Kuruma Bildirilmesi
+    Sağlık Bakanlığından alınan kampanya, tarama veya check-up izin belgeleri tetkik edilir.
+Kampanya başlangıç ve bitiş tarihleri ile Kuruma yapılan bildirimlerin tarihleri karşılaştırılır.
+
+    6.5.20.    Muayene Kotasının Aşılması
+    Hastane ve Medula kayıtları tetkik edilerek muayene sayıları çıkartılır. Hesaplanan kota ile
+karşılaştırılarak mevzuata aykırılığın olup olmadığı tespite çalışılır.
+
+    6.5.21.    FTR Seans Sayılarında Kota Aşımı
+    SHS’nin ilgili branşta Kurumumuza fatura ettiği işlemlerden, hekim sayısı, işlem adedi gibi
+sayısal büyüklükler bulunur. Merkezde tam zamanlı çalışan hekim sayıları, hekim dışı personel
+sayısı, merkezin çalışma süresi, çalışma saatleri, kabin sayısı ve uygulamanın seans süresi ile
+karşılaştırılarak birimin günlük yapabileceği maksimum seans sayısı ve süresi belirlenir.
+Karşılaştırmalar yapılarak maksimum seans sayısı ve süresinin aşılıp aşılmadığı belirlenir. Konuyla
+ilgili olarak gerek duyulursa hasta, hasta yakını veya SHS yetkililerinin beyanlarına başvurulabilir.
+    6.5.22.     Hemodiyaliz Cihazları ve Diğer Cihazlara İlişkin Bildirimler
+    Kurum’a yapılan bildirim ile yerinde kontroller sırasında tespiti yapılan mevcut durum
+karşılaştırılır. Gerektiğinde il sağlık müdürlükleri ile yazışmalar yapılarak, SHS’nin ruhsata
+işlenmesi gereken cihazlarındaki artış, eksiliş veya yenileme hallerinde aldıkları izin belgesinin
+tarihi belirlenir. İzin belgesinin alındığı tarihten itibaren süresi içinde Kurum’a bildirim yapılıp
+yapılmadığı kontrol edilir.
+
+    6.5.23.     Diyaliz Paketi Kapsamındaki Tetkik ve Tahlillerin Ayrıca Faturalandırılması
+    Diyaliz işlemleri kapsamında Kurumumuza fatura edilen belgeler ve ekleri incelenir. İhbar veya
+şikâyete konu şahısların ya da örnekleme yöntemi ile belirlenen hastaların, Medula sistemi üzerinden
+takip   detayları   kontrol   edilerek   paket   fiyata   dâhil   tetkiklerin   ayrıca   faturalandırılıp
+faturalandırılmadığı tespit edilir. Gerek duyulursa SHS yetkililerinin beyanlarına başvurulur.
+
+    6.5.24.     Diyaliz Seanslarının Süresi
+    Diyaliz merkezinden Kurumumuza belli bir tarih aralığında fatura edilen işlem sayısı belirlenir.
+
+
+                                                                                                      23
+Diyaliz merkezinin hekim, hekim dışı personel sayısı, bu kişilerin çalışma saatleri, diyaliz
+merkezinin çalışma saatleri ve diyaliz makine sayısı dikkate alınarak seans süreleri belirlenir.
+Kurumumuza fatura edilen işlemlerin ortalama seanslarının mevzuatımızda belirtilen sürelerden az
+olduğu tespit edilirse, nedenlerinin araştırılması için diyaliz merkezinin yetkililerinin beyanlarına
+başvurulabilir. SHS’nin mevzuatta belirtilen sürelerden az süren seanslar için ileri sürdüğü tıbbi
+zorunluluk hali ayrıca değerlendirilir. Hasta ve yakınlarının beyanlarına başvurulması ortalama
+seans sürelerinin belirlenmesinde yardımcı olabilir.
+
+    6.5.25.       Kardiyolojik Girişim Sayısı
+    İlgili branş hekimlerinin gerçekleştirdiği ve Kurumumuza fatura edilen günlük kardiyolojik
+işlemler Medula sisteminden belirlenir. SHS’nin ilgili branştaki kayıtları ile Medula sistemi kayıtları
+karşılaştırılarak Kurum mevzuatına aykırılığın olup olmadığı araştırılır. İlgili hekim ve SHS
+yetkililerinin beyanlarına başvurulur. Gerek duyulursa hasta ve yakınlarının beyanlarına da
+başvurulabilir.
+
+    6.5.26.       Yasaklı ya da Miadı Geçmiş İlaç/Malzeme Kullanımı
+    Konuyla ilgili ihbar veya şikâyet bulunması halinde ilgili hususlar çerçevesinde inceleme
+yapılarak ilgili hasta veya yakınlarının beyanlarına başvurulur. SHS’de yerinde inceleme ve
+kontroller yapılarak miadı geçmiş ilaç, tıbbi malzeme, kan ve kan komponentlerinin bulunup
+bulunmadığı kontrol edilir. Gerektiğinde SHS yetkilileri ve ilgililerin beyanlarına başvurulabilir.
+    6.5.27.       Sunulmayan Sağlık Hizmetinin Faturalandırılması
+    Kurum Medula sisteminden örneklemeyle seçilen hasta veya yakınlarına ulaşılarak sağlık
+hizmetini alıp almadıklarının tespitine çalışılır. İhbar ve şikâyete dayalı inceleme ve kontrollerde
+hasta veya yakınlarının beyanlarına başvurulur. SHS tarafından Kurumumuza fatura edilen belgeler
+ve ekleri incelenir. Sağlık hizmetini yerine getirdiği iddia edilen hekim/hekimlerin beyanlarına
+başvurulur. SHS’nin protokol defterleri incelenerek adına sağlık hizmeti sunulduğu iddia edilen kişi
+veya kişilere ait protokol kaydının bulunup bulunmadığı araştırılır. Sağlık hizmeti sunulmadığı halde
+sunulmuş gibi yapılarak Kurumumuza fatura edildiğinden şüphelenilen kişiler için reçete düzenlenip
+düzenlenmediği, düzenlenmişse bu reçetelerin hangi eczanelerden alındığı, reçete arkalarındaki
+imzaların kimlere ait olduğu, ilgili hastanın bu ilaçları alıp almadığının tespitine çalışılarak olası
+SHS-Hekim-Eczane organizasyonun varlığı ortaya konulmaya çalışılır. Gerekli hallerde Kurumun
+ilgili birimleri ile yazışmalar yapılarak, ilgili kişilerin kontrol muayenesine tabi tutulması
+sağlanabilir.
+
+
+
+
+                                                                                                      24
+    6.5.28.    Sağlık Yardımından Yararlanmayan Kişilerin İşlemlerinin Faturalandırılması
+    Konuyla ilgili ihbar ve şikâyette bulunan kişilerin şikâyetlerinde belirttikleri hususlar
+çerçevesinde inceleme yapılır. Sağlık yardımları Kurumca karşılanan kişilerin beyanlarına
+başvurularak konu hakkında bildikleri öğrenilir. Gerek duyulduğunda, SHS yetkililerinin
+beyanlarına başvurulabilir. Kurumca sağlık yardımları karşılanmayan kişilerin sağlık hizmetleri,
+sağlık yardımları Kurumca karşılanan başkaca biri üzerinden gerçekleşmişse ilgili kişilerin akraba,
+eş-dost ilişkisi içinde olabileceği, alınan beyanların bu ilişkiler nedeniyle yanıltıcı olabileceği göz
+önünde bulundurulmalıdır.
+
+    6.5.29.    Gerçeğe Aykırı Belge Düzenleme
+    Örnekleme yöntemi ile Kuruma gönderilen fatura eki belgeler belirlenerek, söz konusu
+belgelerin gerek Hastane kayıtları ile gerekse Kurum Medula Sistemi ile çapraz kontrolü sağlanır.
+Konu ile ilgili ihbar veya şikâyet mevcut ise şikâyet konusu kapsamında incelemeler
+derinleştirilerek, gerektiğinde hasta ve SHS yetkililerinin beyanlarına başvurulur.
+
+    6.5.30.    Temini     Zorunlu      İlaç/Malzeme/Kan       Komponentinin        Hastalara     Temin
+Ettirilmesi
+    Temini zorunlu ilaç, tıbbi malzeme ve kan bileşenlerinin listesi çıkartılır. Bunlar üzerinden
+gidilerek örnekleme yolu ile hastalar belirlenir ve beyanlarına başvurulur. Konu hakkında ihbar veya
+şikâyet var ise ilgili hastalar üzerinden hareketle incelemeler yapılır. Gerektiğinde SHS yetkililerinin
+beyanlarına başvurulabilir.
+    6.5.31.    SUT’ta Yer Almayan ve/veya Verileceği Taahhüt Edilmeyen Sağlık Hizmetinin
+Faturalandırılması
+    SUT’ta belirtilen hüküm ile fatura ve eki belgeler tetkik edilir. Konu ile ilgili ihbar veya şikâyet
+hallerinde ilgili hastaların Medula sistemi kayıtları tetkik edilerek beyanlarına başvurulur. Bahse
+konu sağlık hizmetlerini alıp almadıkları kendilerine sorulur. Gerektiğinde SHS yetkililerinin
+beyanlarına başvurulabilir.
+
+    6.5.32.    Tek Kullanımlık Malzemelerin Birden Fazla Kullanımı
+    Konu ile ilgili ihbar ya da şikâyet olması durumunda söz konusu malzemenin SHS’deki fatura
+girişleri ile çıkışları kontrol edilerek, mevcut malzeme sayısının tespit edilir. Gerekli hallerde ilgili
+malzemeyi kullanan servis görevlileri ile görüşülebilir.
+
+    6.5.33.    Acil Halin Bitimi Sonrası Sunulan Sağlık Hizmetleri
+    Acil halin sona ermesi sonrasında acil halin sona erdiğine ve müteakip işlemlerin ilave ücrete
+tabi olduğuna dair hastaya/hasta yakınına gerekli bilgilendirmenin yapılıp yapılmadığı hususu ile
+
+
+                                                                                                      25
+ilgili olarak öncelikle SHS kayıtlarında bahse konu belgelerin bir suretinin bulunup bulunmadığı
+tetkik edilir. Gerektiğinde hasta/hasta yakınının beyanlarına başvurularak ilgili belgeler
+kendilerinden de talep edilir.
+
+    6.6.         Eczaneler İçin İhbar ve Şikâyete Bağlı ve Gerekçeli İnceleme ve Kontrol
+Standartları
+    “Sosyal Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden
+İlaç Teminine İlişkin Protokol” kapsamında yürütülen işlemler ile ilgili olarak çok sayıda inceleme
+ve kontrol konusu bulunmakla birlikte sıklıkla karşılaşılanlar başta olmak üzere çeşitli kontrol
+konularına ilişkin temel esaslara aşağıda yer verilmiştir.
+    Her bir inceleme ve kontrol ayrı bir süreç gerektirmekte ise de eczaneler ile ilgili bir şikâyet ya
+da inceleme ve kontrol gerekçesi ile karşılaşıldığında öncelikli yapılması gereken, şikâyet dilekçesi
+ve varsa eklerinin tetkikidir. Sonrasında ilgili eczanenin Kurumda yer alan dosyasının temin edilerek
+incelenmesi inceleme ve kontrol ekibine yardımcı olabilir.
+    Diğer bir öncelikli husus ise şikâyetçi veya ihbar edenin beyanlarına başvurulması hususudur.
+Eğer şikâyetçinin dilekçesi müstear bir isimle kaleme alınmışsa veya isimsiz ve imzasız bir yazı
+mevcutsa şikâyetin özündeki unsurlara bakmak gerekir.
+    Hakkında inceleme ve kontrol gerçekleştirilen eczaneye ait reçetelerin listesi Kurum Medula
+sisteminden temin edilir. Sağlık kurulu raporlarının durumu ilgili sağlık tesisinin kayıtlarından,
+elektronik reçete dışındaki reçeteler ise yine ilgili sağlık tesisinin protokol kayıtlarından
+incelenebilir.
+
+    İnceleme ve kontrolün esas konusuna göre şikâyet dilekçesinde bahsi geçen veya durumu
+şüpheli görülen reçetelerde isimleri yazılı kişilerin bilgilerine müracaat edilir. İhtiyaç halinde
+reçeteleri ya da sağlık kurulu raporlarını düzenleyen doktorların beyanlarına başvurulur. Konu ile
+ilgili tüm delillerin toplanmasından sonra eczane sahibi/mesul müdür ve eczane çalışanlarının
+bilgilerine müracaat edilir. Varsa kurum zararı ve sorumluları tespit edilir.
+
+    6.6.1.       Sahte Reçeteler
+    Yerinde kontroller sırasında manuel düzenlenmiş evraklar varsa bunlar incelenmelidir. Şüphe
+edilen durumlarda söz konusu reçetelerin düzenlendiği sağlık kurumunun protokol defteri
+kayıtlarına müracaat edilebilir. Ancak sahtecilik olayına karışanlar arasında ilgili sağlık kuruluşunda
+görev yapan personel de bulunuyorsa, o takdirde poliklinik protokol defteri kayıtlarında hastanın
+adına rastlanabilir. Bu nedenle özellikle reçetelerdeki ilaç dozları ve kutu sayılarının yüksek olması,
+reçete arkası imzaların olmaması gibi durumlarda mutlaka reçete sahibinin bilgisine
+
+                                                                                                    26
+başvurulmalıdır. Diğer bir adım da söz konusu reçeteyi, reçete üzerinde isim kaşesi olan doktora
+göstererek bilgisine başvurulmasıdır. İlgili doktorun beyanlarına ek olarak el yazısı imza ve paraf
+örneklerinin de alınması gerekir. Konu kapsamında adına reçete düzenlenmiş kişilerin bilgilerine
+başvurularak hastanın tanı/tedavi süreçlerindeki öyküsü alınmalıdır. Kullandığı ilaçlar ve dozları,
+gittiği sağlık kurum/kuruluşlarının, hekimlerin, eczanelerin isimleri, ilaçlarını kimler vasıtasıyla
+temin ettiği, tedavi süreçlerinde kendisine yardımcı olan kişiler olup olmadığı, muayene ücreti,
+katılım payı bilgileri sorulmalı ve bunların tamamı Medula kayıtları ile karşılaştırılmalıdır. Hasta ve
+ya hasta yakınının söz konusu reçetelerdeki ilaçları eksiksiz alıp almadığı, sağlık tesisine gidip
+gitmediği, varsa sağlık kurulu raporunun bilgisi dâhilinde olup olmadığı hususları tetkik edilir.
+
+    6.6.2.      Sahte Sağlık Kurulu Raporları
+    Şekil itibariyle gerçekliğinden şüphelenilen sağlık kurulu raporlarının gerçekliği, raporun
+düzenlendiği sağlık tesisi nezdinde araştırılır. Bunun için sağlık tesisi kayıtları incelenerek raporda
+imzası bulunan doktorların beyanlarına başvurulur. İçerik yönünden sahte olan e-reçete, e-rapor
+tespiti yapılmışsa şekil yönüyle de inceleme yapılmalıdır. Burada hekimin bilgisi, beyanı ile sanal
+ortam kayıtları ile sonuca gidilebilir. İçerik itibariyle gerçekliğinden şüphelenilen sağlık kurulu
+raporları ile ilgili olarak, adına rapor düzenlenmiş kişinin, rapor konusu hastalıklara gerçekten sahip
+olup olmadığını ortaya koymak amacıyla farklı bir hastanede kontrol muayenesine tabi tutulması
+sağlanır. Bahse konu sağlık kurulu raporuna istinaden düzenlenmiş reçetelerin bulunup bulunmadığı,
+reçetedeki ilaçların hasta tarafından alınıp alınmadığı hususları tetkik edilir.
+
+    6.7.       Eczaneler İçin Planlı İnceleme ve Kontrol Standartları
+
+    6.7.1.     Eczacı ve Diğer Eczane Çalışanlarının Durumu
+    Eczanede fiili olarak inceleme ve kontrole gidilmeden önce Kurum kayıtlarından eczanede kaç
+çalışan olduğu ve isimleri ile ayrılmış olan personelin olup olmadığı, var ise bu kişilerin isimleri
+tespit edilir. Eczaneye gidildiğinde öncelikle eczane sahibinin/mesul müdürün eczanede bulunup
+bulunmadığı, bulunmadığı hallerde telefon ile ulaşıldığında makul süre içerisinde eczaneye gelip
+gelmediği, eczane çalışanlarının kimler olduğu tetkik edilir. Fiili olarak çalıştığı görülenler ile
+Kurum kayıtlarının mukayesesi yapılır. Kurum kayıtlarına göre ayrılışı yapılan personelin eczanede
+bulunup bulunmadığına dikkat edilir. Kayıtlara göre çalıştığı anlaşılan ancak eczanede bulunmayan
+çalışanların durumu ayrıca tetkik edilir.
+
+    6.7.2.     Hasta Seçimi Yapılması
+    Reçete karşılamada reçete veya hasta seçimi yapıldığının yerinde kontrollerde tespiti zor olsa da
+konu ile ilgili ihbar veya şikâyet olması durumunda öncelikle ilgililerin beyanlarına başvurulur.
+
+                                                                                                    27
+Eczanenin karşıladığı reçeteler üzerinde gerekli incelemeler yapılır. Özellikle ayrı bir faturalandırma
+ve ödeme prosedürüne tabi olan yurtdışı sigortalılarının reçeteleri ile ilgili olarak bahse konu
+şikâyetler ile daha sık karşılaşıldığı hususu göz önünde bulundurulmalıdır.
+
+    6.7.3.      Reçetedeki İlacın, Bedeli Karşılığında Satılması
+    Konu hakkında ihbar ve şikâyet olması durumunda ilgililerin beyanlarına başvurulur. Söz
+konusu reçete Medula siteminden kontrol edilir. Reçetedeki ilaçların hasta tarafından alınıp
+alınmadığı, alındı ise hangilerinin bedeli karşılığında verildiği hususu tetkik edilir. Bedeli ödendiği
+iddia edilen ilaçlara yönelik varsa ödeme belgeleri talep edilerek incelenir. Özellikle paranteral
+ilaçlara ait enjektörlerin hastalara bedeli karşılığında verilip verilmediği kontrol edilir.
+
+    6.7.4.      Reçetedeki İlaçların Hastaya Teslim Edilmemesi/Eksik Teslim Edilmesi
+    Konu ile ilgili olarak yerinde kontroller sırasında tespitler yapılabileceği gibi bu husus, sıklıkla
+şikâyetlere konu olabilecek bir husustur. İhbar ya da şikâyet konusu olduğunda doğrudan ilgili
+hastaların bilgisine başvurmanın yanı sıra örnekleme yöntemi ile hasta belirlenerek inceleme
+genişletilir. Söz konusu hastaların reçeteleri temin edilerek (elektronik ortamda ya da kâğıt olarak)
+kendilerine hangi ilaçların kaç kutu teslim edildiği sorulur. İlaç isimlerini hastaların
+hatırlayamayabileceği ihtimalinden dolayı ilaçların kullanım alanlarından hareketle hastalara bilgi
+verilebilir. Ayrıca kâğıt ortamındaki bir reçete ise reçete arkasında yer alan imzanın kendisine ya da
+yakınlarına ait olup olmadığı, reçete ile ilişkilendirilen bir sağlık kurulu raporu mevcut ise raporun
+bilgisi dâhilinde olup olmadığı tetkik edilir. Eczanenin muhtelif yerlerinde bulunan ilaçların İTS
+(ilaç takip sistemi) kayıtları sorgulanabilir.
+
+    6.7.5.      Eczanede Nüfus Cüzdanı veya TC Kimlik Numaraları Bulunması
+    Her ne kadar sözleşme ile hükme bağlanmış bir husus olmasa da yerinde yapılan inceleme ve
+kontrollerde tespitinin yapılması gerekli bir konudur. Kontroller sırasında şüphe oluşturacak
+miktarda nüfus cüzdanı aslı veya fotokopisi, elektronik veya kağıt ortamında tutulmuş TC Kimlik
+Numaraları bulunması durumunda, bu bilgiler Medula sisteminden kontrol edilerek bahse konu
+şahıslara ulaşılır. Adlarına kayıtlı reçetelerde yazılı ilaçları alıp almadıkları, reçetenin düzenlendiği
+sağlık tesisine gidip gitmedikleri, reçete ile ilişkilendirilen sağlık kurulu raporu mevcut ise bahse
+konu sağlık kurulu raporunun bilgileri dâhilinde olup olmadığı, e-reçete olmayan reçetelerde yer
+alan reçete arkası imzanın hastaya veya yakınına ait olup olmadığı hususları tetkik edilir. Konu ile
+ilgili olarak eczacı ve eczane çalışanlarının bilgilerine başvurulur.
+
+    6.7.6.      Fesihli Eczanenin Reçetesinin Sözleşmeli Eczanede Bulunması
+    Yerinde kontrollerde, eczanede bulunan reçetelerden yeterli sayıda reçete seçilerek reçete arkası
+
+                                                                                                      28
+eczane kaşeleri kontrol edilmelidir. Şüpheye düşülen durumlarda reçete sahiplerine ilaçlarını hangi
+eczaneden ve ne şekilde temin ettikleri, reçetede yazılı ilaçların eksiksiz olarak alınıp alınmadığı,
+reçete arkası imzanın kendisine/yakınına ait olup olmadığı hususları tetkik edilir. Gerektiğinde her
+iki eczane sahibinin ve hasta/hasta yakınlarının yazılı beyanlarına da başvurulabilir.
+
+    6.7.7.     İlaç Katkı Payı veya Eşdeğer İlaç Fiyat Farkının Alınmaması
+    Yerinde kontroller sırasında eczanenin karşıladığı reçetelerin listesi alınarak örnekleme yöntemi
+ile yeterli sayıda reçete belirlenir ve söz konusu reçetelere yönelik alınan katkı paylarına/eşdeğer ilaç
+fiyat farkına yönelik belgeler, eczanenin günlük yazarkasa raporları tetkik edilir. Kontroller sırasında
+karşılaşılan hastaların ya da örnekleme yolu ile seçilen hastaların bilgilerine başvurulur. Varsa
+ödeme belgeleri talep edilir. Konu ile ilgili ihbar veya şikâyet olması durumunda, varsa şikâyet
+dilekçesinde yer alan somut kişi bilgilerinden hareketle konu irdelenir.
+
+    6.7.8.     Yönlendirme
+    İnternet, faks, telefon, kurye, komisyoncu vb. yollarla eczaneye reçete gelip gelmediğine,
+yerinde kontroller sırasında rastlanabileceği gibi bahse konu husus sıklıkla ihbar ya da şikâyetlere de
+konu olabilmektedir. Her iki durumda da örnekleme yolu ile hasta belirlemesi yoluna gidilmeli,
+hastaların bilgilerine başvurulmalıdır. Hastalara bizzat sağlık tesisine giderek reçete düzenletip
+düzenletmedikleri, adlarına düzenlenen reçeteleri bizzat ya da yakınları aracılığıyla alıp almadıkları,
+eczane elemanınca reçetelerinin toplanıp toplanmadığı, ilgili eczaneye gitmeleri konusunda bir
+yönlendirme ile karşılaşıp karşılaşmadıkları, reçetede yazılı ilaçların eksiksiz olarak kendilerine
+teslim edilip edilmediği, reçetedeki ilaç dozu ile hastanın kullandığı dozun aynı olup olmadığı, varsa
+sağlık kurulu raporunun bilgileri dâhilinde olup olmadığı hususları değerlendirilir.
+
+    6.7.9.      İlaçların İTS kontrolleri
+    Eczane içerisinde (rafta ya da eczanenin muhtelif bölümlerinde) bulunan ilaçlar örnekleme
+yöntemi ile seçilerek İTS kayıtlarından kontrolleri yapılır. Böylece eczanede hastalara teslim
+edilmeyen ilaç bulunup bulunmadığı tespit edilmeye çalışılır. Özelikle yerinde kontroller sırasında
+eczanede kutusuz ilaç bulunup bulunmadığına dikkat edilmelidir.
+
+    6.7.10.     Reçete Arkasına Alınan İmzalar
+    Planlı inceleme ve kontroller sırasında, elektronik ortamda düzenlenenler hariç diğer reçetelerin
+bir kısmı genel olarak gözden geçirilmelidir. Reçetelerde ilaçları alan kişilere ait imzaların olup
+olmadığı varsa da tek elden atılıp atılmadığının tespiti yapılmaya çalışılmalıdır. Şüpheli durumlarda
+hastanın bilgisine başvurulmalıdır. İhbar, şikâyet ya da gerekçeli inceleme ve kontroller kapsamında
+ise ihbar veya şikâyet dilekçesinde bahsi geçen kişinin bilgisi alınır. Gerektiğinde eczanenin diğer
+
+                                                                                                      29
+dönemlerinden reçeteler seçilerek reçete sahiplerine imzalar sorulmalıdır.
+
+    6.7.11.     Reçete ve Eki Belgelerde Tahrifat
+    Eczanenin karşıladığı reçeteler arasından seçilmiş reçeteler ve ekleri incelenir. Şüphe oluşturan
+bir husus ile karşılaşıldığında ilgili belgelerin düzenlenmiş olduğu sağlık kurum/kuruluşlarından söz
+konusu belgenin kayıtları tetkik edilebilir. Reçete üzerinde tahrifat, şüpheli düzeltme vb. bir işlem
+söz konusu ise ilgili hekimden teyit alınabilir.
+
+    6.7.12.     Muvazaa
+    Yerinde kontroller sırasında bu durumun hemen tespit edilmesi kolay olmasa da inceleme ve
+kontrol ekibinin yapacağı çeşitli tespitler söz konusu eczanenin gerekçeli inceleme ve kontrol
+kapsamına alınmasını sağlayabilir. Bu noktada eczacının ikametgâhının eczanenin faaliyet
+gösterdiği ilden farklı olması, eczane işlemlerinin vekâletname üzerinden gerçekleştiriliyor olması,
+eczacının ikametgâhı ile eş ve çocuklarının ikametgâhının farklı olması ve 18 yaş altı çocuklarının
+farklı illerde eğitim görüyor olması, eş/çocuklarının veya eczacının ilaçlarını farklı illerdeki
+eczanelerden temin etmesi gibi hususların birden fazlasının mevcut olması ve verilerin birbirini teyit
+etmesi halinde muvazaa bakımından önemli bulgular oluşacaktır. Yukarıda bahsi geçen hususların
+Kurumumuz ve diğer kurum/kuruluşlar nezdinde araştırılması gerekmektedir.
+     6.7.13.   Majistral İlaç Reçeteleri
+     Majistral ilaçlara yönelik bir gerekçeli denetim ya da ihbar ve şikâyet söz konusu ise bu
+durumda öncelikle bahse konu majistrallere yönelik hammadde kontrolleri yapılmalıdır. Bunun için
+eczane faturaları üzerinden söz konusu hammaddelerin girişleri ile eczaneden toplam çıkışları
+karşılaştırılmalıdır. Majistral ilaçların reçetede yazıldığı şekliyle, uygun formlarda hazırlanıp uygun
+ambalaj ile hastaya verilip verilmediği (pomat halindeki ilacın ecza şişesi ile sunulması gibi) kontrol
+edilmelidir.
+   Hastaların bilgisine başvurulması aşamasında özellikle söz konusu majistralin kendilerine nasıl
+bir ambalajda teslim edildiği (şişe, krem kutusu, küçük paketler vd.), nasıl kullandığı (cilt üzerine,
+yutarak, gargara vd.), bu ilacı hangi nedenle kullandığı, reçeteyi bizzat düzenletip düzenletmediği,
+katkı payı ödeyip ödemediği hususları sorulmalıdır.
+   6.8. Optisyenlik Müesseseleri İçin İnceleme ve Kontrol Standartları
+   Optisyenlik müesseseleri için ihbar ve şikayete bağlı, gerekçeli ve planlı inceleme ve
+kontrollerde düzenlenecek tutanaklar yürürlükteki mevzuat, sözleşme/protokoller v.s çerçevesinde
+güncellenerek ekte düzenlenmiştir. Optisyenlik müesseselerine yönelik inceleme ve kontrollerde,
+hastane ve eczaneler için açıklanan inceleme ve kontrol standartları çerçevesinde işlemler yapılarak
+
+
+                                                                                                    30
+ekte bulunan ilgili tutanaklar düzenlenir.
+
+
+    7. TUTANAK VE RAPORLARIN DÜZENLEME USULLERİ
+
+           7.1.   Tutanak Düzenlenmesinde Göz Önünde Bulundurulacak Hususlar
+    a) Tutanakta kullanılan ifade ve cümleler kısa, öz, anlaşılır mahiyette olmalı, yanlış anlamaya
+mahal vermeden gerektiğinde bu incelemeye ilişkin raporun başka bir inceleme ve kontrol
+elemanınca tanzimini de mümkün olmalıdır.
+    b) Tutanağı düzenleyen şahıs, tutanakta hiçbir şekilde şahsi görüş ve kanaatine yer vermemeli,
+ayrıca, raporu nasıl yazacağını önceden tasarlayarak tespiti gereken hususları noksansız olarak
+tutanağa almalı, çok zorunlu olmadıkça yeni ve ek bir tutanak tanzim etmek veya yeniden inceleme
+yapmak zorunda kalınmamalıdır.
+    c) Tutanağın düzenlenmesi sırasında, konuyla ilgisi bulunanların, sağlık hizmet sunucusu
+yetkililerinin veya mesul müdürünün, eczacı veya mesul müdürünün de bulunmasına gayret
+edilmelidir.
+     d) Tutanağın her sayfası düzenleyenler tarafından ayrı ayrı imzalanmalıdır.
+     e) Nihai şekli verilmiş tutanakta yapılacak düzeltme veya eklemeler hem ilgili kişiler ve hem
+de inceleme elemanınca her birinin yanına paraf edilmek suretiyle tasdik olunmalıdır.
+     f) Tutanaklar mavi renkli tükenmez veya dolma kalemle düzenlenmelidir.
+
+           7.2.   İfade Tutanaklarının Düzenlenmesinde Dikkat Edilecek Hususlar
+
+           İfade tutanaklarında; ifade veren kişinin açık kimliği, öğrenim durumu, ikametgah adresi ve
+TC kimlik numarası, mesleği, ifade alma işleminin yapıldığı yer ve tarih ile varsa telefon numarası
+mutlaka yazılacaktır.
+
+           İfade alma sırasında başkaca kimseler hazır bulundurulmuşsa, bu kişilerin de açık kimliği ve
+T.C. kimlik numarasına ifade tutanağında yer verilecektir.
+
+           Okur-yazar olmayan kişilerin ifadesinin alınmasından sonra, "ifade içeriğinin yüzüne karşı
+yüksek sesle okunduğu ve söylediklerinin aynısı olduğunun anlaşılmasından sonra ifadesinin
+doğruluğunu sağ el başparmak izi ile tasdik ettiği" bilgisine yer verilecektir.
+
+           7.3.   Raporların Düzenlenmesinde Dikkat Edilecek Hususlar
+           Raporlar, Türkçe anlatım ve yazım kurallarına uygun olarak, açık ve anlaşılır bir dille
+yazılır.
+     Düzenlenecek olan durum tespit raporları "Times New Roman" yazı tipi ve 12 karakter boyutu
+
+
+                                                                                                     31
+ile tek satır aralığıyla düzenlenecektir. EK-12 de belirtilen başlıklar dışında başkaca bir başlık
+kullanılmayacaktır.
+
+    Durum tespit raporları; “Giriş”, “Tespit edilen hususlar”, “Konunun değerlendirilmesi” ve
+“Sonuç” olmak üzere dört(4) bölümden oluşur. İnceleme ve kontroller sonucu düzenlenen raporlar
+durum tespit raporlarına dönüştürüldüğünden, bu raporlarda sonuç ve kanaat kısmı yerine sadece
+sonuç kısmı yer alacak olup kanaat belirtilmeyecektir.
+
+    İnceleme ve kontrol ekibi tespitlerini, konunun değerlendirmesi kısmında mevzuat hükümleri
+çerçevesinde değerlendirecekler fakat sonuç kısmında hangi tespitin hangi idari, mali, cezai veya
+diğer yaptırımla karşılanması gerektiği hususundan bahsetmeyeceklerdir.
+
+    1- Giriş Bölümü:
+    Durum tespit raporunun giriş bölümü 3 kısımdan oluşur. Bunlar sırasıyla incelemenin konusu,
+inceleme ve kontrolün başlangıç ve bitiş tarihi, inceleme ve kontrol ile ilgili olarak yapılan
+çalışmalardır.
+     İnceleme, araştırma veya kontrolün konusu; Sağlık hizmet sunucusu ile ilgili olarak
+inceleme ve kontrol ekibine verilen görev emri yazısında belirtilen konu yazılacaktır.
+     İnceleme ve kontrolün başlangıç ve bitiş tarihleri; Sağlık hizmet sunucusunun inceleme ve
+kontrolüne başlanıldığı ve inceleme ve kontrolün bittiği tarihler yazılacaktır.
+     İnceleme ve kontrol ile ilgili olarak yapılan çalışmalar; İnceleme ve araştırma konusu ile
+ilgili olarak yapılan inceleme, araştırma, kontrol, yazışmalar ve bu çalışmalar sonucunda temin
+edilen bilgi ve belgelere kısaca değinilir.
+     İnceleme konusuyla ilgili olarak ifadesi alınanların isimlerine yer verilir; böylece alınan
+ifadelerin toplu olarak görülmesi sağlanır. İfadesi alınan kişilerin tamamına yer verilmesi asıldır;
+ancak ifadesi alınanların çok fazla olması durumunda, dizi pusulasındaki ek numaralarına atıfta
+bulunulmakla yetinilebilir.
+     2- İnceleme ve Kontrolde Tespit Edilen Hususlar
+
+     İnceleme ve kontrol sırasında tespit edilen ve tutanağa bağlanan hususlar maddeler halinde bu
+bölümde açıklanır.
+     3- Konunun Değerlendirilmesi
+
+     İncelemenin yürütülmesindeki plana göre yapılan işlemler, alınan beyanlar, incelenen belgeler,
+fiilin varlığını doğrulayan veya reddeden belgeler ve her türlü deliller, olaylar arasındaki ilişkiler,
+tespit edilen fiil ya da fiiller, fiilin ne şekilde, nasıl ve ne zaman, kim tarafından uygulandığı anlatılıp
+
+
+                                                                                                         32
+açıklanır.
+     Alınan beyanlara değinilir. Alınan beyanlarda kişiler mevzuata aykırı fiillerini açıkça kabul
+etmesi durumunda bu husus belirtilir ve sonuç bir hükme bağlanır. Örtülü (zımni) kabul veya
+reddetme durumlarında; ifadeler, incelemede elde edilen delil, karine ve emarelerle karşılaştırılarak
+tahlil edilir. Fiilin sübut şekli gösterilerek, bir sonuca ve hükme ulaşılır.
+     Delillerin anlatım sıralaması; önce kesin deliller (kayıt ve belgeler), daha sonra takdiri deliller
+(tanık ifadeleri, bilirkişi görüşleri vb) şeklinde yapılır.
+     Konunun değerlendirilmesi kısmı en fazla üzerinde durulması gereken kısımdır. İnceleme ve
+kontrol ekibi yaptığı tüm tespitleri, alınan beyanları, elde ettiği tüm bilgi ve belgeleri mevzuat
+hükümleri çerçevesinde değerlendirir. İnceleme ve kontrol ekipleri, yaptıkları tespitleri
+sözleşme/protokol veya ilgili mevzuat hükümlerine aykırı olup olmadıkları yönüyle değerlendirirler.
+    Konunun değerlendirilmesi kısmında yapılan eylemin tekerrür kapsamında olup olmadığı,
+sağlık hizmet sunucusunun daha önce yazılı uyarı alıp almadığı belirtilecektir.
+    4- Sonuç Bölümü
+    Değerlendirme bölümünde belirtilen hususlar çerçevesinde sonuç bölümü düzenlenir. Bu
+bölümde eylemin hangi mevzuat, sözleşme veya protokol hükmüne aykırı olduğu belirtilirken idari,
+mali, cezai ve diğer yaptırımlardan bahsedilmeyecektir.
+
+    Örnek: İnceleme ve kontrol ekibi sahte reçete, sahte karekod, sahte rapor v.s. tespitinde
+bulunmuşsa; bu tespitlerini eczane protokolünün ilgili hükmü çerçevesinde değerlendirecek ancak
+eczanenin uyarılması veya reçete bedelinin 10 katı tutarında ceza uygulanması, TCK açısından suç
+duyurusunda bulunulması gibi yaptırımlardan bahsetmeyecektir. Bu yaptırımları sözleşme servisi
+yerine getirecektir.
+
+    7.4.        Ek Belgeler
+    Rapora eklenen her türlü belge, konunun işleniş seyrine uyum gösterecek şekilde sıraya
+konulacak ve her birisine ayrı bir ek numarası verilecektir. Rakamla verilecek olan ek numaraları
+sayfanın sağ üstüne kırmızı renkli kalemle yazılacaktır. Sayfa sayısı birden fazla olan belgelere aynı
+ek numarası verilecek, içerikleri aynı ya da benzer nitelikte olan belgeler birbirleriyle
+ilişkilendirilerek ek numarası verilecektir (1/3, 1/5, 2/1 vb). Raporda değerlendirilmeyen belgeler ek
+yapılmayacaktır. Ek belgelerin sol alt köşesi inceleme ve kontrol ekiplerince paraflanacaktır.
+
+
+
+
+                                                                                                     33
+    7.5.       İnceleme ve Kontrol Tutanaklarının Düzenlenme Usulleri
+
+    7.5.1.     Sağlık Kurumlarına İlişkin İnceleme ve Kontrol Tutanaklarının Düzenlenme
+Usulü
+    İhbar ve şikâyete bağlı inceleme ve kontrollerde Ek-1'de, gerekçeli inceleme ve kontrolde Ek-
+2'de ve planlı inceleme ve kontrolde ise Ek-3'te yer alan tutanaklar kullanılacaktır.
+    İnceleme ve kontrol, tutanakları il müdürü ya da görevlendireceği kişiler tarafından
+“sgkintranet” adresinde yer alan "İnceleme ve Kontrol Uygulamaları" bölümünden üç nüsha olarak
+temin edilerek inceleme ve kontrol ekibine verilir.
+        İnceleme ve kontroller sonucunda düzenlenen inceleme ve kontrol tutanağının bir nüshası
+rapor ekinde izleme ve değerlendirme birimine, bir nüshası inceleme ve kontrol ekibinde kalan rapor
+ekine, bir nüshası ise incelemesi yapılan sağlık hizmeti sunucusu yetkilisine verilir.
+    7.5.2.     Eczanelere İlişkin İnceleme ve Kontrol Tutanaklarının Düzenlenme Usulü
+    İhbar ve şikâyete bağlı inceleme ve kontrollerde Ek-4'de, gerekçeli inceleme ve kontrolde Ek-
+5'de ve planlı inceleme ve kontrolde ise Ek-6’da yer alan tutanaklar kullanılacaktır.
+
+    İnceleme ve kontrol tutanakları il müdürü ya da görevlendireceği kişiler tarafından
+“sgkintranet” adresinde yer alan "İnceleme ve Kontrol Uygulamaları" bölümünden üç nüsha olarak
+temin edilerek inceleme ve kontrol ekibine verilir.
+
+        İnceleme ve kontroller sonucunda düzenlenen durum tespit tutanağının bir nüshası rapor
+ekinde izleme ve değerlendirme birimine, bir nüshası inceleme ve kontrol ekibinde kalan rapor
+ekine, bir nüshası ise incelemesi yapılan sağlık hizmeti sunucusu yetkilisine verilir.
+
+    7.5.3.     Optisyenlik Müesseseleri İçin İnceleme ve Kontrol Tutanaklarının Düzenlenme
+Usulü
+    İhbar ve şikâyete bağlı inceleme ve kontrollerde Ek-7'de, gerekçeli inceleme ve kontrolde Ek-
+8'de ve planlı inceleme ve kontrolde ise Ek-9'da yer alan tutanaklar kullanılacaktır.
+
+    İnceleme ve kontrol tutanakları, il müdürü ya da görevlendireceği kişiler tarafından sgkintranet
+adresinde yer alan "İnceleme ve Kontrol Uygulamaları" bölümünden üç nüsha olarak temin edilerek
+inceleme ve kontrol ekibine verilir.
+
+        İnceleme ve kontroller sonucunda düzenlenen durum tespit tutanağının bir nüshası rapor
+ekinde izleme ve değerlendirme birimine, bir nüshası inceleme ve kontrol ekibinde kalan rapor
+ekine, bir nüshası ise incelemesi yapılan sağlık hizmeti sunucusu yetkilisine verilir.
+
+    7.6.       İfade Tutanaklarının Düzenlenme Usulü
+    Sağlık hizmeti sunucularının yetkilisi ya da çalışanları ile sağlık hizmeti alan genel sağlık
+
+
+                                                                                                 34
+sigortalısı ve bakmakla yükümlü olduğu kişilerin, ihbar ve şikâyette bulunan kişilerin veya diğer
+ilgililerin beyanlarının alınmasında Ek-10'da yer alan tutanak formu kullanılacaktır.
+
+    İfade tutanakları 3 (üç) nüsha olarak düzenlenir. İfade tutanaklarının birinci nüshası izleme ve
+değerlendirme birimine verilecek olan rapor ekine, ikinci nüshası ise inceleme ve kontrol ekibinde
+kalacak olan rapor ekine konulur. İfade tutanağının üçüncü nüshası ise ifade veren kişiye verilir.
+
+    7.7.       Fatura İnceleme Birimlerince Düzenlenecek Tutanakların Düzenlenme Usulü
+    Fatura inceleme birimleri tarafından fatura incelemesi esnasında Kurum tarafından yayımlanan
+mevzuat ile sözleşme ve protokol hükümlerine aykırılıkların tespit edilmesi halinde Ek-11'de yer
+alan tutanak formu kullanılacaktır.
+    Tutanak, 2 (iki) nüsha olarak düzenlenecektir. Tutanağın birinci nüshası gereği yapılmak üzere
+merkez müdürüne verilecek olup ikinci nüshası ise inceleyici tarafından muhafaza edilecektir.
+
+    7.8.       Durum Tespit Raporlarının Düzenlenme Usulü
+    Sağlık hizmeti sunucularının inceleme ve kontrolleri sonucunda düzenlenecek olan durum tespit
+raporları için Ek-12'de yer alan rapor formatları kullanılacaktır.
+    Raporlara, inceleme ve kontrol ekibi tarafından her yıl birden başlamak ve sıra takip etmek üzere
+ayrı ayrı numara verilir.
+    Raporlar 2 (iki) nüsha olarak düzenlenecektir. Raporun ilk nüshası izleme ve değerlendirme
+birimine, ikinci nüshası ise inceleme ve kontrol ekibinde yer alan rapor klasörüne konulur.
+
+    7.9.       İnceleme ve Araştırma Tutanağı Düzenlenme Usulü
+    İnceleme ve araştırma tutanakları (Ek:13), inceleme ve kontrol ekiplerince 2. ve 3. basamak
+resmi sağlık hizmet sunucularına yönelik ihbar ve şikâyetlerde inceleme ve kontroller sonucunda
+düzenlenerek Rehberlik ve Teftiş Başkanlığına gönderilecektir.
+    İnceleme ve araştırma tutanağı dört (4) bölümden oluşur. Bunlar Giriş, Yapılan Çalışmalar,
+Tespit Edilen Hususlar, Görüş ve Değerlendirme bölümleridir. Bu bölümlerde aşağıda yer alan
+bilgiler yer almaktadır.
+        1- Giriş:
+        Bu bölümde, sağlık hizmet sunucusu ile ilgili olarak inceleme ve kontrol ekibine verilen
+görev emri yazısında belirtilen konular yazılır. İnceleme ve kontrole başlama ve bitiş tarihleri
+belirtilir. İnceleme ve araştırması yapılan sağlık hizmet sunucusuna ait bilgilere yer verilir.
+        2- İnceleme ve Kontrol İle İlgili Olarak Yapılan Çalışmalar
+
+        İnceleme ve araştırma konusu ile ilgili olarak yapılan inceleme, araştırma, kontrol,
+
+
+                                                                                                     35
+yazışmalar ve bu çalışmalar sonucunda temin edilen bilgi ve belgelere kısaca değinilir.
+
+        İnceleme konusuyla ilgili olarak ifadesi alınanların isimlerine yer verilir; böylece alınan
+ifadelerin toplu olarak görülmesi sağlanır. İfadesi alınan kişilerin tamamına yer verilmesi asıldır;
+ancak ifadesi alınanların çok fazla olması durumunda, dizi pusulasındaki ek numaralarına atıfta
+bulunulmakla yetinilebilir.
+
+
+
+
+                                                                                                 36
+           3- Tespit Edilen Hususlar
+           Sağlık hizmet sunucusunun inceleme ve kontrolü aşamasında, inceleme ve kontrol ekibi
+tarafından yapılan tespitlerin belirtildiği bölümdür. Bu bölümde, aşağıda yer alan asgari inceleme ve
+araştırma kriterleri çerçevesinde, inceleme ve kontrol çalışmaları yapılır.
+           - Konuyla ilgili ihbar veya şikayet varsa, ihbar ve şikayette bulunanın belirttiği hususlar
+çerçevesinde çalışmalar yapılır. Şikayetçi veya ihbar edenin ifadesine başvurulur. Eğer şikayetçinin
+dilekçesi müstear bir isimle kaleme alınmışsa veya isimsiz ve imzasız bir yazı mevcutsa şikayetin
+özündeki unsurlara bakılarak hareket edilir. Müştekinin ifadesi ışığında diğer delillerin toplanmasına
+geçilir.
+           - Konuya ilişkin gerekli Medula sistemi kontrol ve incelemeleri yapılır.
+           - İhbar ve şikayete konu branş, muayene ve/veya tıbbi müdahalede bulunan doktorlar
+bazında inceleme yapılır.
+           4- Değerlendirme
+           Raporun "Tespit Edilen Hususlar" bölümünde belirtilen konuların, sağlık hizmeti
+sunucusunun tabi olduğu mevzuat ve sözleşme/protokol hükümleri çerçevesinde ele alınarak tespit
+edilen hususların değerlendirildiği bölümdür.
+    8. DÜZENLENEN RAPORLAR İLE İLGİLİ YAPILACAK İŞLEMLER
+
+    İnceleme ve kontrol ekibi, yapılan her inceleme ve kontrol işlemlerinden sonra, inceleme ve
+kontrollerin tamamlandığı tarihten itibaren 10 (on) iş günü içerisinde Ek-12'de belirtilen formata
+uygun olarak düzenlemiş olduğu raporu ve ekinde yer alan belgeleri tek nüsha olarak izleme ve
+değerlendirme birimine verir. İnceleme/kontroller ile ilgili olarak diğer kamu kurum ve
+kuruluşlarından bilgi alınması gerekiyor ise bu süre dikkate alınmaz. Ancak istenilen bilgilerin
+gecikmesi halinde ilgili kurum ve kuruluşa tekit yazıları gönderilir. İlgili yazılar rapor ekinde izleme
+ve değerlendirme birimine sunulur.
+    İzleme ve değerlendirme birimleri, inceleme ve kontrol ekipleri tarafından düzenlenen durum
+tespit raporlarını, Kurum mevzuatı yönünden değerlendirir.
+    İzleme ve değerlendirme birimi ile inceleme ve Kontrol ekibi arasında görüş ayrılığı
+bulunmayan raporlar, takdim yazısı hazırlanarak yerine getirilmek üzere ilgili birimlere gönderilir.
+    İzleme değerlendirme birimi tarafından raporda düzeltilmesi veya tamamlatılması gereken
+hususların tespit edilmesi halinde, bunların giderilmesi için rapor, iade gerekçeleri de belirtilmek
+suretiyle yazılı olarak ilgili inceleme ve kontrol ekibine iade edilir.
+    Rapordaki inceleme eksikliği ve şekle ilişkin hususlar inceleme ve kontrol ekiplerince giderilir.
+
+
+                                                                                                     37
+Eksik inceleme ve şekle ilişkin hususlar haricinde; inceleme ve kontrol ekibi ile izleme ve
+değerlendirme birimi görüşleri arasında farklılık olması durumunda, bunların giderilmesi raporu
+düzenleyen ekipten yazılı olarak istenir.
+    Raporu düzenleyen inceleme ve kontrol ekibi, eksik inceleme ve şekle ilişkin hususlar haricinde,
+izleme ve değerlendirme biriminin görüşüne katılmaz ise; her iki görüşün belirtildiği yazı ve bu yazı
+ekinde rapor ve ekleri, Sosyal Güvenlik İl Müdürüne sunulacaktır. Bu durumda İl Müdürü tarafından
+benimsenen görüş doğrultusunda işlem yapılacaktır.
+    Raporu düzenleyen ekip üyeleri arasında raporda yapılan tespitler ve değerlendirmeler ile ilgili
+görüş farklılıklarının bulunması halinde, bu farklılıklar raporda belirtilir. Rapor, izleme ve
+değerlendirme birimi tarafından incelenir. Raporda mevcut farklı görüşlerden değiştirilmesi istenen
+husus gerekçeleri de belirtilmek suretiyle yazılı olarak ilgili ekip üyesinden yazılı olarak istenir.
+İnceleme ve kontrol ekibi üyesinin bu isteğe katılmaması halinde, ekip üyelerinin farklı görüşleri ile
+birlikte izleme ve değerlendirme biriminin görüşünün de belirtildiği onay hazırlanarak, İl Müdürüne
+sunulur. İl Müdürü tarafından onaylanan görüş doğrultusunda işlem yapılır.
+    Yapılan değerlendirme sonucu uygun görülen raporlar, uygulanmak üzere merkez müdürünün
+uygun görüşü ile il müdürünün onayına sunulur. İl müdürü tarafından sevk onayı verilen raporlar,
+raporlarda tespiti yapılan hususlara ilişkin nihai işlemlerin yürütülmesi amacıyla sözleşme servisine
+havale edilir. Sözleşme servisince gerekli işlemlerin yürütülmesinin ardından söz konusu rapor,
+uygulama onayı için il müdürlüğüne havale edilir.
+
+
+
+
+                                                                                                   38
+    9. SAĞLIK HİZMETİ SUNUCULARININ YÜKÜMLÜLÜKLERİ
+    1. Sağlık hizmet sunucusu yetkilileri, genel sağlık sigortalısı ve bakmakla yükümlü olduğu
+kişiler adına düzenledikleri veya tutmak zorunda oldukları her türlü kayıt, fatura ve eki belgeler ile
+inceleme ve kontrol ekibi tarafından hazırlanması istenilen tablo ve raporları inceleme ve kontrol
+süresi içerisinde göstermek, vermek ve incelenmesine yardımcı olmak zorundadır.
+    2. İnceleme ve kontrol ekibine, inceleme ve kontrol süresince konumlarına uygun bir çalışma
+ortamı sağlamak ve görevlerinin ifası sırasında gereken her türlü kolaylığı ve yardımı sağlamak
+zorundadırlar.
+    3. İnceleme ve kontrol esnasında sağlık hizmet sunucuları sahipleri ve bu işle ilgili diğer kişiler
+inceleme ve kontrol ekibinin görevine engel olmazlar.
+
+
+
+
+                                                                                                    39
+    10. EKLER
+
+
+EK-1 Sağlık Kurumu İhbar ve Şikâyete Bağlı İnceleme ve Kontrol Tutanağı (2 sayfa)
+EK-2 Sağlık Kurumu Gerekçeli İnceleme ve Kontrol Tutanağı (2 sayfa)
+EK-3 Sağlık Kurumu Planlı İnceleme ve Kontrol Tutanağı (10 sayfa)
+EK-4 Eczane İhbar ve Şikâyete Bağlı İnceleme ve Kontrol Tutanağı (2 sayfa)
+EK-5 Eczane Gerekçeli İnceleme ve Kontrol Tutanağı (2 sayfa)
+EK-6 Eczane Planlı İnceleme ve Kontrol Tutanağı (4 sayfa)
+EK-7 Optisyenlik Müessesesi İhbar ve Şikâyete Bağlı İnceleme ve Kontrol Tutanağı (2
+sayfa) EK-8 Optisyenlik Müessesesi Gerekçeli İnceleme ve Kontrol Tutanağı (2 sayfa)
+Ek-9 Optisyenlik Müessesesi planlı İnceleme ve Kontrol Tutanağı(7 sayfa)
+EK-10 İfade Tutanağı (1 sayfa)
+EK-11 Fatura İnceleyici Tespit Tutanağı (1 sayfa)
+EK-12 İnceleme ve Kontrol Sonucunda Düzenlenecek Durum Tespit Raporu Formatı (2
+sayfa) EK-13 İnceleme ve Araştırma Tutanağı(1 sayfa)
+EK-14 Yararlanılabilecek Mevzuat Bilgileri
+
+
+
+
+                                                                                      40
+41
+

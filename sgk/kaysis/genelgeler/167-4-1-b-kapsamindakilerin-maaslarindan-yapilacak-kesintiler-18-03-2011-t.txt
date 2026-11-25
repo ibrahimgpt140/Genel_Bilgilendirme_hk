@@ -1,0 +1,228 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/136249
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 167
+ADI: 4/1-B KAPSAMINDAKİLERİN MAAŞLARINDAN YAPILACAK KESİNTİLER 18/03/2011 TARİHLİ 2011/30 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f978f6b32af952c6017c91814c0318867581cd4b3fdd13407d853635bb523eca
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sirateji Geliştirme Başkanlığı
+Sayı *B.13.2.SGK 4.65.01.07/ 147 A ERİN
+Konu : 4/1-b kapsamındakilerin
+maaşlarından yapılacak kesintiler
+
+GENELGE
+
+SE
+
+Bilindiği üzere, 5510 sayıh Kanunun 4 üncü maddesinin birinci &krasınn (b) bendi
+kapsamında smekli, dul ve yetim maaşı ödemelerine ilişkin işlemler Kurumumuz tarafından
+geliştirilen ve uygulamaya açılan EMEKTAR sistemi üzerinden gerçekleştirilecek olup, 2011 yılı
+Man ayından itibaren de gelir ve aylıklar bu sistem üzerinden hesaplanacaktır. Söz konusu
+
+o uyguluma içerisinde, sağlık primleri hariç hiçbir kesinti işlemi yapılmayacak, kesinti işlemleri
+muhasehe birimlerince MOSİP (Mali Yönetim Ölomasyon Sistemi Projesi) sistemi üzerinden
+gerçekleştirilecektir Bu sebeple uygulamaya ilişkin aşağıdaki açıklamaların yapılmasına ihliyaç
+duyulmuştur.
+
+A- UYGULAMANIN MAHİYETİ
+
+4/)-b kapsamında olanların cmekli aylıkları ünitelerimiz tarafından bağlanmakta olup,
+bunların işlemleri EMEKTAR sistemi üzerinde gerçekleştirilecektir. Sistemde gerçekleştirilen bu
+işlemler üzerinden her ayın belli bir günü emekli aylıkları hesaplanacuk ve elektronik ortamda
+MOSİP sitemine aktarılacakur,
+
+EMEKTAR sisteminde hesaplanan brüt aylıklar üzerinden yapılacak tüm kesintiler (sağlık
+prümleri hariç) MOSİP sistemine girilen kayıtlar üzerinden gerçekleştirilecektir.
+
+Emekli aylıkları açısından harcama birimi Sosyal Sigortalar Genel Müdürlüğü
+olduğundan, aylıkların tahakkuk işlemleri bu birim tarafından gerçekleştirilecek ve Merkez
+Muhasebe birimi tarafından muhasebeleştirildikten sonra bankaya gönderilme işlemini MOSİP
+“lem üzerinden perçekleştirecektir. Bankaya gönderme işlemi sırasında her bir aylık alan kişi
+için merkez, ve taşra muhasebe birimleri tarafından MOSİP sistemine girilen kesintiler Merkez
+Muhasebe Biriminde muhasebeleştirileceklir,
+
+R- KESİNTİ İŞLEMLERİ
+
+o Kesinti işlemleri aşağıda belirtilen sıra dahilinde ve uygulama mantığı içerisinde
+gerçekleştirilecektir.
+
+)- Sosyal Güvenlik Destek Primleri (SGDP)
+
+Aylık alanların kendi nam ve hesaplarına bir ekonomik faali yete bulunmaları veya hizmet
+akdi ile çalışmalarının ünitelerimiz bünyesindeki tescil birimleri tarafından tespiti halinde bunların
+kaydı SEDES sistemine yapılacaktır,
+
+Bu testil kayıtları ber ayın ilk günü MOSİP sistemine aklarılavak ilgili kişiler adına SGDP
+tahakkuku yapılacak ve buna ilişkin kesinti bilgileri hazırlanacaktır.
+
+2- Ririkmiş SGDP
+
+Emekli. dul ve yetimlere alı eski sistemde kayıtlı olan birikmiş SGDP, elektronik ortamda
+MOSİP sistemine aktarılmıştır. Aktarılan borç miktarları her bir kişi için toplu olarak
+aktarıldığından, önitelerdeki tahsis birimleri aktarılan bu borçları MOSIP sisteminde, kurum
+
+Sayfa 4
+Adres. Ziyabey Cad. Non 06330 BalgavANKARA, Ayrıntılı bilgi için iribaı O. DIŞLIKAYA Şb Md
+Teletor (03H2)207 8243 Faks: (0312) 20781 46
+t-posa: udislikayalğisgk gov.ir Elektronik AĞwww. sek gov.
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Strateji Geliştirme Başkanlığı
+halası olup olmadığını, borcun sebebini ve toplu paranın birden fazla aylara ait ise dağılımını de
+yaparak kaydetme işlemini gerçekleştirecektir. Kaydetme işleminden sonra ünitedeki muhasebe
+birimince bu işlem muhasebeleştirildikten sonra ilgilinin aylıklarından kesinü işlemi
+gerçekleşecektir.
+
+3- Nafaka Kesintileri
+
+Devir Sırasında önceki sistemlere kaydedilen nafaka kayıtları elektronik urlada MOSIP
+sistemine aktarılmıştır. Tahsis birimleri elekironik ortamda aklarılan bu kayıtlara ilişkin nafaka
+dosya ve yazıları bir tutanakla muhasebe birimlerine teslim edeceklerdir. Muhasebe birimleri köz
+konusu nafaka kayıtlarının MOSİP sistemine doğru aktarılıp aktarılmadığım kontrol ederek söz
+konusu yazıları teslim alacaklardır.
+
+Devir işleminden sonra ünitelere gelen nafaka yazıları muhasebe birimlerine sevk
+
+o edilecek ; muhasebe birimleri tarafından MOSİP sisteminde kayıt altına alınacaktır.
+
+Önceki sisleme girilmeyen ve bu nedenle elektronik ortamda MOSİP sistemine
+aklarılnmayan nafaka yazıları da aynı şekilde tutanakla muhasebe birimlerine teslim edilecek ve
+muhasebe birimlerince MOSİP sisteminde kayıt alına alınacaktır.
+
+Aylık ödemeleri sırasında söz konuşu kayıtlar üzerinden yapılan nafaka kesintileri Merkez
+Muhasebe Birimi tarafından ilgili icra dairelerine gönderilecektir
+
+4- Resmi Üsireler Adına Yapılan Kesintiler
+
+Devir sırasında önceki sisteme kaydedilen vergi, mal müdürlükleri ve benzeri icra kayıtlan
+elektronik ortamda MOSİP şiştemine aktarılmıştır, Tahsis birimleri elektronik ortamda aktarılan
+bu kayırlara ilişkin dosya ve yazıları bir tutanakla muhasebe birimlerine teslim edeceklerdir.
+
+Devir işleminden sonra ünitelere gelen vergi daireleri ve mal müdürlükleri taratından
+bildirilen icra yazıları muhasebe hirimlerine sevk edilecek ve muhasebe birimlerince MOSİP
+wsteminde jera işlemleri menüsünden kayıt alana alınacaktır
+
+Önceki sisteme girilmeyen ve bu nedenle clekironik ortamda MOSİP sistemine
+aklarılamayan vergi ve benzeri icra yazıları da aynı şekilde tutanakla muhasehe birimlerine teslim
+edilecek ve muhasebe birimlerince MOSİP sisteminde kayıt altına ahnacaktır.
+
+S- İcra İşlemleri
+
+Devir sırasında önceki sistemlerde kaydedilen ivra kayıtları elektronik ortamda MOŞİP
+
+ii silemine aktarılmıştır. Tahsis birimleri elektronik ortamda aktarılan bu kayıtlara Hişkin icra dosya
+ve yazıları bir tutanakla muhasebe birimlerine teslim edeceklerdir. Muhasebe birimleri söz konusu
+iera kayıtlarının MOSİP sistemine doğru aktarılıp aklarılmadığını konmol ederek söz konusu
+yazıları teslim alacaklardır.
+
+evir işleminden sonra ünitelere gelen icra yazıları muhasebe birimlerine sevk edilecek,
+muhasebe birimleri tarafından MOSİP sisteminde kayıt altına alınacaktır.
+
+Önceki sisteme girilmeyen ve bu nedenle elektronik ortamda MOSİP sistemine
+uklarılamayan icra yazıları da aynı şekilde tutanakla muhasebe birimlerine teslim edilecek ve
+muhasebe birimlerince MOSİP sisteminde kayıt altına alınacaktır.
+
+Aylık ödemeleri sırasında 662 konusu kayıtlar üzerinden yapılan icra kesintileri Merkez
+Muhasebe Birimi tarafından ilgili icra dairelerine gönderilecektir.
+
+Elektronik ortama aktarılan icra kayıtlarında kesinti miktarları tutar olarak belirtilmiş
+bulunmaktadır, MOSİP sisteminde icra kesini miktarı, emekli aylığının belli bir oranı olarak
+
+Sayfa M4
+AdresiZivahey Cal Na: 06529 BalgavANKARA Ayrıntılı hilgi için imibat: O.DIŞLİKAYA Şö.Me
+telefon. (0312)2078293 © Faks (0312)207 81 46
+eposa, odislikayağğsgk govur Elektronik Ağwww.sek.povir
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Strateji Geliştirme Başkanlığı
+belirilmekic ve icra yazısının Kurum kayıtlarına giriş tarihine göre sıraya konularak
+kesilmektedir. Birden fazla icra karan olan kişiler, bazı icra dosyaları için tauhhütde bulunmuşsa,
+kesinti işiemi taahhüt edilen tutar kadar yapılmaktadır. Devir işleminden önce eski sistemde icra
+kayularının orana göre veya taahhül ayrımı belli olmadığından ünitelerdeki tahsis birimleri,
+hangi dosyaların taahhütlü olduğunu tespit ederek, kişilerin emekli siçil numarası, T.C Kimlik
+Numarası, icra dosya numarası ve taahhül edilen tutar veya oranı da içeren bir listeyi muhasebe
+birimlerine teslim etmesi gerekmektedir. Muhasebe birimleri de MOSİP sisteminde fistedeki
+isimleri seçerek taahhüde çevirme işlemini yapacakür,
+
+6- Yersiz Ödemeler
+
+Emekli, dul ve yetimlere ait eski sistemde kayalı olan yersiz ödemeler elektronik ortamda
+MOSİF sistemine aktarılmıştır. Aktarılan borç miktarları her bir kişi için toplu olarak
+uktarıldığından, ünitelerdeki tahsis birimleri aktarılan bu yersiz ödemeleri MOSİP sisteminde,
+
+o Kurum hatası olup olmadığım, borcun sehebini ve toplu paranın birden fazla aylara ait ise bu
+dağılımını da yaparak kaydeme işlemini gerçekleştircecktir. Kaydetme işleminden sunra
+ünitedeki muhasebe birimince bu işlem muhasebeleştirilecek olup, ilgilinin aylıklarından kesinti
+işlemi gerçekleşecektir,
+
+7- Muayene Ücretleri
+
+Devir tarihinden önce eski sisteme girilmiş olan muayene ücreti Kesintileri elektronik
+ortamda MOSİP sistemine aktarılmıştır.
+
+Devir tarihinden sonraki muayene Ücrelleri MEDULA sisteminden elektronik ortamda
+MOSİP sistemine aktarılarak kesinti yapılacağından ünitelerimizin herhangi bir işlem yapmasına
+görek yoktur.
+
+8- İlaç Katkı Payları
+
+Devir tarihinden önce eski sisteme girilmiş olan ilaç katkı payları elektronik ortamda
+MOSİP sistemine aktarılmışlır.
+
+Gelir ve aylık alanların eczanelerden aldıkları ilaç bedelleri üzerinden hesaplanacak katkı
+payları MEDULA sistemi üzerinden elektronik ortamda MOŞİP sistemine aktarılarak kesinti
+yapılacağından Ünitclerimizin herhangi bir işlem yapmasına gerek yoktur.
+
+9- Optik Katkı Payları
+
+Devir tarihinden önce eski sisteme girilmiş olan optik kak payları elektronik orumda
+
+o MOSİP sistemine aktarılmıştır.
+
+Gelir ve aylık alanların aldıkları optik bedelleri üzerinden hesaplanacak katkı payları
+MEDULA sisiemi üzerinden elektronik ortamda MOSİP sistemine aktarılarak kesinti
+yapılacağından ünitelerimizin herhangi bir işlem yapmasına gerek yoktur.
+
+10- Kömür Kesintisi
+
+Devir sırasında önceki sisteme kaydedilen kömür kesinti kayıtları elektronik urumda
+MUSİP sistemine aklarılmışur. Yeni giriş işlemleri muhasebe birimlerince yapılacaktır.
+
+Sayfu 34
+Adres Ziyabey Cad No:6 00520 BalgavANKARA Ayrınulı bilgi için irtibat: O.DIŞLİKAYA  ŞpMd
+Telefon (0312)2078293 © Faks (0112) 2078144
+«posta: odislikayafdiyuk gov ir Elektronik Ağrwww suk yavr
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Strateji Geliştirme Başkanlığı
+C- DİĞER HUSUŞLAR
+Bankalardan İade Edilen Emekli Aylıkları
+Bankalarda altı ay hareket görmeyip iade edilen veya merkez ve taşra teşkilallarımızdaki
+lgili birimlerce bankadan istenilen hareketsiz paralar MOSİP sistemine aktarılarak
+muhasebeleştirilecektir,
+Bu tutarlara İlişkin yapılacak işlemler Strateji Geliştirme Başkanlığı tarafından daha sonra
+duyurulacaktır.
+Diğer
+Yukarda belirtilen hususlarda güncelleme işlemlerinin 21.03.2017 tarihi akşamınu kadar
+o tamamlanması gerekmektedir. İl Müdürlüklerince muhasebe birimlerinde ihtiyaç duyulacak
+personel takviyesinin yapılması ve uygulama sırasında herhangi bir karışıklığa sebebiyet
+verilmemesi İçin azami dikkat ve özenin gösterilmesi gerekmektedir.
+Bilgi ve gereğini rica ederim.
+“İM. Emin ZARARSIZ
+Kuruş bağın
+DAĞITIM:
+Gereği:
+Sosyal Sigurualar Genel Müdürlüğüne
+o Hizmet Sunumu Genel Müdürlüğüne
+Sosyal Güvenlik İl Müdürlüklerine
+Adres:Ziyabey Cad. No:6 06520 BalpavANKARA Ayrıntılı bilgi için irtiba O.DIŞLIKAYA Şb.Md.
+Telefon: (0312)207 8293 Faks: (0)12)707 8) 46
+e-posta: odislikayalBsek gin ir Flektronik Ağunuw.sek.pov.ir

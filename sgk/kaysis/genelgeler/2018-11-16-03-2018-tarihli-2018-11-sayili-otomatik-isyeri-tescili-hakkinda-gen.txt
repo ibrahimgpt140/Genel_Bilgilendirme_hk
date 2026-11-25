@@ -1,0 +1,296 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/140412
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2018/11
+ADI: 16/03/2018 TARİHLİ 2018/11 SAYILI OTOMATİK İŞYERİ TESCİLİ HAKKINDA GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f73ff48af1bc611d3142774da9f1ed17ba5ef37917483082f2a5fe8d75c92b3f
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı :24010506-010.06-E.1654785 16/03/2018
+Konu : Otomatik İşyeri Tescili
+GENELGE
+2018-11
+
+1- GENEL AÇIKLAMALAR
+
+Bilindiği üzere, 10/3/2018 tarihli ve 30356 sayılı Resmi Gazete'de yayımlanan 7099 sayılı
+Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair
+Kanunun 18 inci ve 19 uncu maddesi ile 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanunun 11 inci maddesinin üçüncü fıkrasının ikinci cümlesi;
+
+“Şirket kuruluşunun ticaret sicil müdürlüklerine bildirilmesi halinde yapılan bu bildirim
+Kuruma yapılmış sayılır ve ilgililerce ayrıca işyeri bildirgesi düzenlenmez.” şeklinde değiştirilmiş,
+
+Aynı maddenin altıncı fıkrasına “Bu bildirimlerden hangisinin işyerinin bildirilmesi yerine
+geçeceği Kurumca belirlenir, belirlenenlerle ilgili ayrıca işyeri bildirgesi düzenlenmez” hükmü
+eklenmiş,
+
+Anılan Kanunun 100 üncü maddesinin üçüncü fıkrası “Kurum, bu Kanun gereği verilecek
+her türlü belge veya bilginin internet, elektronik ve benzeri ortamda gönderilmesi hususunda,
+gerçek veya tüzel kişiler ile yazılı sözleşme ile yetki verilmiş gerçek veya tüzel kişilere izin
+vermeye, bu kişileri aracı kılmaya veya zorunlu tutmaya, Kuruma verilmesi gereken her türlü
+belge, bildirge ve taahhütnamenin gerçek ve tüzel kişiler ile tüzel kişiliği olmayan kurum ve
+kuruluşlara verilmesini mecbur kılmaya, söz konusu belgeleri diğer kamu idarelerine ait formlarla
+birleştirmeye ve bu belgeleri kamu idarelerinin elektronik bilgi işlem ortamından almaya, bu
+kişilere yapılacak bildirimleri Kuruma verilmiş saymaya, bu Kanunun uygulaması ile ilgili işveren,
+sigortalı ve diğer kurum, kuruluş ve kişilerin talepleri üzerine veya re'sen düzenleyeceği her türlü
+bilgi ve belgeyi bilgi işlem ortamında oluşturmaya, bu şekilde hazırlanacak olan bilgi ve belgelerin
+sadece internet ve benzeri iletişim ortamından ilgili kişilere verilmesini kararlaştırmaya yetkilidir.”
+şeklinde değiştirilmiştir.
+
+Buna göre, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+sigortalı çalıştırılmasa dahi ticaret sicil müdürlüklerince tescil edilen şirket kuruluşları ile Kuruma
+verilen yetki doğrultusunda yalnızca yapı ruhsatına istinaden Kurumca otomatik işyeri tescili
+yapılacağı, bu durumda ilgililerce ayrıca işyeri bildirgesi düzenlenmeyeceği ve Sosyal Sigorta
+İşlemleri Yönetmeliği 29 uncu maddesinde belirtilen belgeler ile genelge ekinde yer alan
+formlardan Ek-1, Ek-2'nin valilikler, belediyeler ve ruhsat vermeye yetkili diğer kamu ve özel
+hukuk tüzel kişilerine, Ek-2'nin ticaret sicil müdürlüklerine verilerek Kurumca ayrıca söz konusu
+belgelerin istenmeyeceği hüküm altına alınmıştır.
+
+Bu doğrultuda, işyerinin otomatik tescil işlemi sırasında yapılacak işlemler aşağıda
+açıklanmıştır.
+
+2- TİCARET SİCİLİ MÜDÜRLÜKLERİNCE TESCİL EDİLEN ŞİRKET
+KURULUŞLARINA İSTİNADEN OTOMATİK İŞYERİ TESCİLİ
+
+2-1- Genel Açıklamalar
+
+Bilindiği üzere, 5510 sayılı Kanunun 11 inci maddesinin üçüncü fıkrasında yapılan
+değişiklik ile sigortalı çalıştırılmasa dahi ticaret sicil müdürlüklerince tescil edilen şirket
+kuruluşlarına istinaden işyeri tescilinin otomatik yapılmasına karar verilmiştir. Ticaret sicil
+müdürlüklerince tescil edilen şirketlerin otomatik olarak işyeri tescilinin yapılabilmesi için ticaret
+sicil müdürlüklerine yapılan şirket kuruluşu başvurularında şirket kuruluş dilekçesi ve bildirim
+formu ile birlikte;
+
+-Sosyal Sigorta İşlemleri Yönetmeliği 29 uncu maddesine göre işyeri bildirgesi eki
+belgelerin,
+
+- Islak imzalı e-Sigorta sözleşmesinin,
+
+- İşveren haricindeki kişilerce e-Sigorta hizmetleri internet kullanıcı kodu ve kullanıcı şifresi
+başvurusunun yapılması durumunda, işveren vekili veya işvereni temsil ve ilzama yetkili olunması
+ya da işveren adına; Sosyal Güvenlik Kurumuna her türlü başvuruyu yapmaya, Kurumla her türlü
+sözleşmeyi imzalamaya, Kurumdan her türlü belgeyi teslim almaya ve Kuruma her türlü belgeyi
+vermeye yetkili olunduğuna veya e-Sigorta hizmetleri internet kullanıcı kodu ve kullanıcı şifresi
+başvurusu yapmaya, e-Sigorta sözleşmesi imzalamaya, kullanıcı kodu ve kullanıcı şifresi teslim
+almaya, Kuruma e-Sigorta kanalıyla aylık prim ve hizmet belgesi göndermeye yetkili olunduğuna
+dair özel vekaletnamenin aslının veya noter onaylı suretinin ya da ilgili idarelerce onaylı suretinin,
+
+verilmesi gerekmektedir.
+
+Ticaret sicil müdürlükleri tarafından bu bilgiler Kuruma on-line olarak aktarılacaktır. Bu
+aktarma sonucunda ticaret sicil müdürlüklerince tescil edilen şirket bakımından işyerinin otomatik
+tescil işlemi ve e-Sigorta aktivasyon işlemi yapılacak ve işveren Kuruma müracaat etmeden
+e-Sigorta işlemlerini yapabilecektir.
+
+Ancak, belgelerin ticaret sicil müdürlüklerine verilmemesi halinde ticaret sicil
+müdürlüklerince yapılan tescile istinaden işyerinin otomatik tescil işlemi yine yapılacak olup
+e-Sigorta aktivasyon işlemi gerçekleştirilmeyecektir. Bu durumda, işverenin e-Sigorta işlemlerini
+yapabilmesi için belirtilen belgelerle bizzat Kuruma başvurması gerekmektedir.
+
+Ayrıca, ticaret sicil müdürlükleri şirket kuruluş dilekçesi ve bildirim formu ekinde kendisine
+verilen belgeleri Kurumca istenilmesi durumunda ibraz etmek üzere muhafaza edecektir.
+
+Yukarıda anlatılan süreç ticaret sicil müdürlüklerince tescil edilen şirketlerin otomatik işyeri
+tescili ile alakalı olup; otomatik tescil işlemi yapıldıktan sonra işverenin işyerini devretmesi,
+kapatması, yeni bir e-Sigorta kullanıcısı belirlenmesi gibi diğer bütün işlemlerde Kuruma verilmesi
+gereken belgelerin (örneğin imza sirküsü vb.) ilgili Sosyal Güvenlik İl Müdürlüğü/Sosyal Güvenlik
+Merkezine verilmesi gerekmektedir.
+
+Ticaret sicil müdürlükleri şirket kuruluş dilekçesi ve bildirim formu ile birlikte sunulması
+gerekli olan belgelerin verilmesi konusunda şirket kuruluşu başvurusunda bulunanları uyaracaktır.
+
+2-2- Ticaret Sicili Müdürlüklerince Tescil Edilen Şirket Kuruluşlarına İstinaden
+Otomatik İşyeri Tescili
+
+Ticaret sicili müdürlüklerince tescil edilen şirket kuruluşuna istinaden Kurum tarafından
+işyeri tescilinin otomatik olarak oluşturulması aşağıda belirtilen aşamalar göz önünde
+bulundurularak yapılacaktır.
+
+-Ticaret sicili müdürlüklerince tescil edilen şirket kuruluşuna istinaden yapılacak otomatik
+tescillerde sigortalı çalıştırılıp çalıştırılmadığı önem arz etmediğinden, sigortalı çalıştırılmaya
+ilişkin şirket kuruluş dilekçesi ve bildirim formunda bir bilgi bulunmasa dahi işyeri dosyası
+otomatik olarak tescil edilecektir. Bu durumda ayrıca işyeri bildirgesi verilmeyecektir.
+
+-Şirket kuruluş dilekçesi ve bildirim formunda sigortalının çalıştırılmaya başlanacağına dair
+tarih bulunması halinde dosyanın kapsama alınma tarihi olarak bu tarih, müracaat tarihi olarak
+şirketin kuruluş tarihi; sigortalı çalıştırılmaya başlanacağına dair tarihin bulunmaması halinde ise
+
+dosyanın kapsama alınma tarihi ve müracaat tarihi olarak şirketin kuruluş tarihi esas alınacaktır.
+
+-Ticaret sicili müdürlüklerince tescil edilen şirket kuruluşuna istinaden işyeri dosyası
+otomatik oluşturulacak ve işyeri tescil ekranında listeleme menüsünde yer alan işyerine ilişkin
+bilgileri içeren Ek-3 formunun dökümü alınarak işverene tebliğ edilecektir.
+
+-Sigortalı çalıştırılmasa dahi otomatik tescil yapılan işyerinde daha sonra işveren tarafından
+sigortalı çalıştırılmaya başlanılması halinde, işyerinin kanun kapsamına alınış tarihi sigortalı
+çalıştırılmaya başlanılan tarih esas alınarak güncellenecektir. Ancak bu durumda işyeri bildirgesi
+istenilmeyecek ve işyeri bildirgesinin verilmemesinden dolayı 5510 sayılı Kanunun 102 nci
+maddesinin birinci fıkrasının (b) bendi uyarınca idari para cezası uygulanmayacaktır.
+
+-Ticaret sicili müdürlüklerince tescil edilen şirket kuruluşuna istinaden otomatik işyeri
+tescili yapıldıktan sonra otomatik tescil edilen şirket adına aynı adres için işyeri bildirgesi verilmesi
+halinde işyeri tescil edilmeyecek ve işlemler otomatik tescil edilen dosya üzerinden yürütülecektir.
+
+-Otomatik işyeri tescili şirketlerin ilk kuruluşu için söz konusu olduğundan, işyeri bildirgesi
+verilmesini gerektiren işlemler (şube açılışı, devir, new'i değişikliği, işyerinin nakli gibi) için işyeri
+bildirgesi verme yükümlülüğü bulunmaktadır.
+
+-Otomatik tescil edilen şirketin ihale konusu iş alması, bina inşaatı, şirket kuruluş adresinden
+faklı bir adreste yeni bir işyeri açması gibi nedenlerle sigortalı çalıştırmaya başlanması halinde
+işyeri bildirgesi verilecek, verilmemesi halinde 5510 sayılı Kanunun 102 nci maddesinin birinci
+fıkrasının (b) bendi uyarınca idari para cezası uygulanacaktır.
+
+-Sigortalı çalıştırılmasa dahi otomatik tescil yapılan işyerinde tescil tarihinden itibaren 2 yıl
+içinde sigortalı çalıştırılmaması halinde oluşturulan dosya sistem tarafından kapsamdan
+çıkarılacaktır. Ancak 2 yıllık süreden sonra sigortalı çalıştırılması halinde dosya yeniden aktif hale
+getirilebilecek ve işlemler bu dosya üzerinden yürütülecektir.
+
+-Ticaret sicili müdürlüklerince tescil edilen şirket kuruluşuna istinaden otomatik tescil edilen
+işyerlerinden, e-sigorta başvuru sözleşmesi ticaret sicil müdürlüklerine verildiğinden, ayrıca Sosyal
+Güvenlik Kurumuna başvuruya gerek kalmadan e-Sigorta kullanıcı adı ve şifresi üretilerek
+e-Devlet üzerinden ilgiliye gönderilecektir.
+
+3- VALİLİKLER, BELEDİYELER VE RUHSAT VERMEYE YETKİLİ DİĞER
+KAMU VE ÖZEL HUKUK TÜZEL KİŞİLERİNCE VERİLEN YAPI RUHSATLARINA
+İSTİNADEN OTOMATİK İŞYERİ TESCİLİ
+
+3-1- Genel Açıklamalar
+
+Bilindiği üzere, 5510 sayılı Kanunun 11 inci maddesinin altıncı fıkrasında yapılan değişiklik
+ile Kuruma verilen yetki doğrultusunda Kurum; valilikler, belediyeler ve ruhsat vermeye yetkili
+diğer kamu ve özel hukuk tüzel kişilerince verilen yapı ruhsatlarına istinaden otomatik işyeri tescili
+yapılmasına karar vermiştir. Yapı ruhsatlarına istinaden otomatik işyeri tescili yapılabilmesi için
+yapı ruhsatına başvuranlar tarafından ruhsat vermeye yetkili mercilere yapılan yapı ruhsatı
+başvurularında;
+
+-Sosyal Sigorta İşlemleri Yönetmeliği 29 uncu maddesine göre işyeri bildirgesi eki
+belgelerin,
+
+- Yapı ruhsatına ilişkin bildirim formunun
+
+- Islak imzalı e-Sigorta sözleşmesinin,
+
+- İşveren haricindeki kişilerce e-Sigorta hizmetleri internet kullanıcı kodu ve kullanıcı şifresi
+başvurusunun yapılması durumunda, işveren vekili veya işvereni temsil ve ilzama yetkili olunması
+ya da işveren adına; Sosyal Güvenlik Kurumuna her türlü başvuruyu yapmaya, Kurumla her türlü
+sözleşmeyi imzalamaya, Kurumdan her türlü belgeyi teslim almaya ve Kuruma her türlü belgeyi
+vermeye yetkili olunduğuna veya e-Sigorta hizmetleri internet kullanıcı kodu ve kullanıcı şifresi
+başvurusu yapmaya, e-Sigorta sözleşmesi imzalamaya, kullanıcı kodu ve kullanıcı şifresi teslim
+almaya, Kuruma e-Sigorta kanalıyla aylık prim ve hizmet belgesi göndermeye yetkili olunduğuna
+dair özel vekaletnamenin aslının veya noter onaylı suretinin ya da ilgili idarelerce onaylı suretinin,
+
+verilmesi gerekmektedir.
+
+Ruhsat vermeye yetkili merci tarafından bu bilgiler Kuruma on-line olarak aktarılacak tır.
+Bu aktarma sonucunda yapı ruhsatına istinaden işyerinin otomatik tescil işlemi ve e-Sigorta
+aktivasyon işlemi yapılacak ve işveren Kuruma müracaat etmeden e-Sigorta işlemlerini
+yapabilecektir.
+
+Ancak, bu belgelerden yapı ruhsatına ilişkin bildirim formu hariç diğer belgelerin yapı
+ruhsatı vermeye yetkili mercilere verilmemesi halinde yapı ruhsatına istinaden işyerinin otomatik
+tescil işlemi yine yapılacak olup, e-Sigorta aktivasyon işlemi gerçekleştirilmeyecektir. Bu
+durumda, işverenin e-Sigorta işlemlerini yapabilmesi için belirtilen belgelerle bizzat Kuruma
+başvurması gerekmektedir.
+
+Ayrıca, ruhsat vermeye yetkili merci yapı ruhsatı ekinde kendisine verilen belgeleri
+Kurumca istenilmesi durumunda ibraz etmek üzere muhafaza edecektir.
+
+Yukarıda anlatılan süreç yapı ruhsatlarının verilmesinde otomatik işyeri tescili ile alakalı
+olup tescil işlemi yapıldıktan sonra işverenin işyerini devretmesi, kapatması, yeni bir e-Sigorta
+kullanıcısı belirlenmesi gibi diğer bütün işlemlerde Kuruma verilmesi gereken belgelerin (örneğin
+imza sirküsü vb.) ilgili Sosyal Güvenlik İl Müdürlüğü/Sosyal Güvenlik Merkezine verilmesi
+gerekmektedir.
+
+Ruhsat vermeye yetkili merciler yukarıda belirtilen belgelerin verilmesi konusunda yapı
+ruhsatı başvurusunda bulunanları uyaracaktır. Buna rağmen, özellikle yapı ruhsatına ilişkin
+bildirim formunun ruhsat vermeye yetkili mercie verilmemesi otomatik işyeri tescili için zorunlu
+olan verilerin Kuruma aktarılmaması sonucunu doğuracaktır. Bu durumda, yapı ruhsatının verilme
+aşamasında otomatik işyeri tescili yapılamayacak olup; işverenin sigortalı çalıştırmaya başladığının
+kendisi tarafından işyeri bildirgesi verilerek bildirilmesi veya Kurumca tespit edilmesi halinde
+işyeri tescil edilecek, işyeri bildirgesinin yasal süresinde verilmemesi halinde 5510 sayılı Kanunun
+102 nci maddesinin birinci fıkrasının (b) bendi uyarınca idari para cezası uygulanacaktır.
+
+3-2- Yapı Ruhsatına İstinaden İşyeri Tescili
+
+İşyeri tescilinin otomatik olarak oluşturulması aşağıda belirtilen aşamalar göz önünde
+bulundurularak yapılacaktır.
+
+-Yapı ruhsatına istinaden yapılacak otomatik tescillerde sigortalı çalıştırılıp çalıştırılmadığı
+önem arz etmediğinden sigortalı çalıştırılmaya ilişkin yapı ruhsatında bir bilgi bulunmasa dahi
+işyeri dosyası tescil edilecektir. Bu durumda ayrıca işyeri bildirgesi verilmeyecektir.
+
+-Yapı ruhsatında sigortalının çalıştırılmaya başlanacağına dair tarih bulunması halinde
+dosyanın kapsama alınma tarihi olarak bu tarih, müracaat tarihi olarak ruhsatın onay tarihi, sigortalı
+çalıştırılmaya başlanacağına dair tarihin bulunmaması halinde ise dosyanın kapsama alınma tarihi
+ve müracaat tarihi olarak ruhsatın onay tarihi esas alınacaktır.
+
+-Yapı ruhsatında yapı sahibi ve yapı müteahhidi bölümlerinde belirtilen kişilerin aynı olması
+halinde yapı sahibi adına, farklı olması halinde ise yapı müteahhidi adına dosya tescili yapılacaktır.
+
+-Yapı ruhsatına istinaden işyeri dosyası otomatik oluşturulacak ve işyeri tescil ekranında
+listeleme menüsünde yer alan işyerine ilişkin bilgileri içeren Ek-3 formunun dökümü alınarak
+işverene tebliğ edilecektir.
+
+-Sigortalı çalıştırılmasa dahi otomatik tescil yapılan işyerinde daha sonra işveren tarafından
+sigortalı çalıştırılmaya başlanılması halinde işyerinin kanun kapsamına alınış tarihi sigortalı
+çalıştırılmaya başlanılan tarih esas alınarak güncellenecektir. Ancak bu durumda işyeri bildirgesi
+istenilmeyecek ve işyeri bildirgesinin verilmemesinden dolayı 5510 sayılı Kanunun 102 nci
+maddesinin birinci fıkrasının (b) bendi uyarınca idari para cezası uygulanmayacaktır.
+
+-Yapı ruhsat onay tarihinden önceki bir tarihle sigortalı çalışlırıldığının tespit edilmesi
+durumunda işyeri bildirgesi verme yükümlülüğünün bulunması nedeniyle, sigortalı çalıştırılmaya
+başlanılan tarih esas alınarak işyeri tescili güncellenerek 5510 sayılı Kanunun 102 nci maddesinin
+birinci fıkrasının (6) bendi uyarınca idari para cezası uygulanacaktır.
+
+-Sigortalı çalıştırılmasa dahi otomatik tescil yapılan işyerinde tescil tarihinden itibaren 2 yıl
+içinde sigortalı çalıştırılmazsa oluşturulan dosya sistem tarafından kapsamdan çıkarılacaktır. Ancak
+2 yıllık sürenin sonunda kapsamdan çıkarılan işyeri dosyasının oluşturulmasına esas olan yapı
+
+ruhsatının geçerli olduğuna dair veya söz konusu yapı ruhsatına ilişkin yenileme ruhsatı ile
+başvurulması halinde dosya yeniden aktif hale getirilebilecek ve asgari işçilik tespitine ilişkin 5510
+sayılı Kanunun 85 inci maddesi uyarınca ünitece yapılacak araştırma işlemi bu dosya üzerinden
+yürütülecektir.
+
+-Yapı ruhsatına istinaden otomatik işyeri tescili yapıldıktan sonra yapı sahibi/yapı
+müteahhiti adına ilçe bazında aynı TC/Vergi Kimlik, ada ve parsel numarasıyla işveren tarafından
+işyeri bildirgesi verilmesi halinde işyeri tescil edilmeyecek ve işlemler otomatik tescil edilen dosya
+üzerinden yürütülecektir.
+
+-Yapı ruhsatına istinaden otomatik tescili yapılan kişi tarafından herhangi bir sigortalı
+çalıştırılmaksızın anahtar teslimi suretiyle işin yaptırılması ve işi alan müteahhit tarafından işyeri
+dosyası açılmak üzere başvuru yapılması durumunda, otomatik tescil edilen işyeri dosyası
+üzerinden işlemler yürütülecektir. Ancak bu durumda, dosyanın tescil edildiği Sosyal Güvenlik İl
+Müdürlüğü/Sosyal Güvenlik Merkez Müdürlüğü tarafından dosyada müteahhit adına güncelleme
+işlemleri gerçekleştirilecektir.
+
+-Kurum tarafından otomatik tescil edilen işyeri dosyasından hiç bildirimde
+bulunulmamasına karşın asgari işçilik miktarının tespiti için başvuru yapılması halinde ünitece
+yapılacak araştırma işlemi, Sosyal Sigorta İşlemleri Yönetmeliğinin 112 nci maddesinin ikinci
+fıkrası uyarınca otomatik tescil edilen dosyadan yapılacaktır.
+
+- Yapı ruhsatına istinaden otomatik tescil edilen işyerlerinden, e-sigorta başvuru sözleşmesi
+ruhsat vermeye yetkili mercie verildiğinden ayrıca Sosyal Güvenlik Kurumuna başvuruya gerek
+kalmadan e-Sigorta kullanıcı adı ve şifresi üretilerek e-Devlet üzerinden ilgiliye gönderilecektir.
+
+- Yapı ruhsatı dışında kalan diğer tüm ruhsatlar bakımından sigortalı çalıştırılması halinde
+işyeri dosyası tescil edilebilmesi için işyeri bildirgesi verme yükümlülüğü bulunmaktadır.
+
+4. DİĞER HUSUSLAR
+
+Bu genelgede belirtilen hükümler 7099 sayılı Yatırım Ortamının İyileştirilmesi Amacıyla Bazı
+Kanunlarda Değişiklik Yapılmasına Dair Kanunun 18 inci ve 19 uncu maddesinin yürürlüğe girdiği
+10/03/2018 tarihinde uygulanmaya başlanır.
+
+Ekler:
+
+Ek-1: Yapı Ruhsatına İlişkin Bildirim Formu
+
+Ek-2: e-Sigorta Sözleşmesi
+
+Ek-3: Tescil Tebligat Dökümü

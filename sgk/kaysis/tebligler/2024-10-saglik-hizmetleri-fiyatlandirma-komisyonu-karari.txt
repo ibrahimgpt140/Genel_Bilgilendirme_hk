@@ -1,0 +1,68 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/204439
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: 2024/10
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 12.12.2024 - 32750
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 6c0c25db21b8a81453cc3a2c7bbe2017a5e08b5213942e24febde9c75af88366
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+12 Aralık 2024 PERŞEMBE Resmi Gazete Sayı : 32750
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+
+Karar No: 2024/10
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma Komisyonu
+(SHEK) 03/12/2024 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE 1- Sağlık Uygulama Tebliği (SUT) eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” nde yer alan “704210”, “704230”
+ve “704233” kodlu, “Tanıya Dayalı İşlem Puan Listesi (EK-2C)” nde yer alan “P704210”, “P704230” ve “P704233” kodlu hemodiyaliz
+tedavisi işlem puanlarının aşağıdaki şekilde belirlenmesine oy birliği ile,
+
+Acil hemodiyaliz 321665
+704230 321665
+704233 Ev hemodiyalizi 3.216,65
+P704210 Acil hemodiyalizi 6.802,54
+2704230 6.802,54
+
+Ev hemodiyalizi 6.802,54
+
+MADDE ?- SUT eki EK-2/B listesinde “kan bileşenleri” başlığı altında yer alan işlem puanlarının aşağıdaki şekilde
+belirlenmesine oy birliği ile,
+
+705351 Tek donörden çift aferez trombosit süspansiyonu, tek ünite 4.281,70
+705352 Aferez trombosit süspansiyonu pediatrik (ikiye bölünmüş), tek ünite 3.443,77
+705353 Aferez trombosit süspansiyonu pediatrik (üçe bölünmüş), tek ünite 2.345,04
+705354 Tek donörden çift aferez trombosit süspansiyonu, pediatrik (ikiye bölünmüş), tek ünite 2.288,41
+705355 Tek donörden çift aferez trombosit süspansiyonu, pediatrik (üçe bölünmüş), tek ünite 1.574,70
+705360 Aferez gtanülosit süspansiyonu 1.823,25
+70530 238662
+705371 Eritrosit Süspansiyonu, Kızılay'dan temin edilen 5.574,48
+705372 Pediatrik eritrosit süspansiyonu, üçlü transfer torba ile hazırlanan, tek ünite 2.433,18
+705373 Pediatrik eritrosit süspansiyonu, dörtlü transfer torba ile hazırlanan, tek ünite 2.061,43
+705380 Granülosit süspansiyonu (Random donor, 1 ünite) 147,34
+105390 85220
+
+133177)
+705410 Otolog fibrin yapıştırıcı 1.823,25
+705420 Tam kan (Torbada) | 1.179,99
+705430 Taze donmuş plazma 141741
+705431 Taze donmuş plazma pediatrik (ikiye bölünmüş), tek ünite 782,39
+Taze donmuş plazma pedisirik (üçe bölünmüş), tek ünite 51085
+705440 Trombosit süspansiyonu (1 tinite random donör trombositi) 141741
+70541 Random trombosit silspansiyonu filtrelenmiş (pediatrik) 3.203,12
+705442 Havuzlanmış trombosit süspansiyonu, dörtlü 7.165,28
+705443 İ Havuzlanmış trombosit süspansiyonu, altılı 10.923,47
+
+MADDE 3- “SÜREKLİ GLUKOZ İZLEME SENSÖRÜ” isimli tıbbi malzemenin aylık 3.500,00 TL olarak SUT eki “Tıbbi
+Sarf Malzemeler Listesi (EK-3/C-4)“ ne eklenmesine ve bahse konu tıbbi malzemenin geri ödeme kural/kriterlerinin belirlenmesine
+ilişkin SUT düzenlemesinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına oy birliği ile,
+
+MADDE 4- Alınan kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de
+
+belirtilen tarihte yürürlüğe girmesine,
+Karar verilmiştir.

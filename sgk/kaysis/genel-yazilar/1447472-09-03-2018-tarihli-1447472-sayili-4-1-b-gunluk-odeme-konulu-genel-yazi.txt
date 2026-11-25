@@ -1,0 +1,72 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/140202
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 1447472
+ADI: 09/03/2018 TARİHLİ, 1447472 SAYILI, 4/1-(B) GÜNLÜK ÖDEME KONULU GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: b7655bdb47245960c38845f2669b3dd6b90eebb089de62cec17dda3c782aae79
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde BULUNAMADI
+
+i 4 T.C.
+( S GK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+e Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı :98547999-010-£. 1447479 09/03/2018
+Konu : Günlük Ödeme
+GENEL YAZI
+
+Bilindiği üzere, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılar ile bunların hak sahiplerinin gelir ve
+aylıkları Emektar projesinde bağlanmakta ve bağlanan aylıklar işlem yapılan tarihi takip eden ayın ödeme
+gününde MOSİP programı üzerinden ilgili bankalara gönderilmektedir.
+
+Bu şekilde bağlanan aylıklarla birlikte aylık ödeme döneminde ödenen perakende tutarlar günlük
+ödeme olarak gönderilerek sigortalı ve hak sahiplerinin hak etmiş oldukları tutarları ödeme dönemi
+beklenilmeksizin bir an önce alabilmelerine yönelik çalışmalar tamamlanmış olup, söz konusu uygulamaya
+201$/Nisan çalışma dönemi itibariyle başlanılmıştır.
+
+Günlük ödemeler; malullük ve yaşlılık aylığı ile sürekli iş göremezlik geliri ilk karar işlemleri ile
+ölüm geliri ve aylığı ilk karar işlemlerini kapsamakta olup, mahkeme kararı olan dosyalar için günlük ödemi
+kapsamında gönderilmeyecektir.
+
+Gelir/aylik bağlanacak sigortalı veya hak sahibinin perakende ödeme tutarının birden fazla dönemi
+kapsaması halinde perakende ödemesi en fazla 2 ödeme şeklinde gerçekleştirilecektir.
+
+-Birinci kısım ödemede, işlem yapılan tarihe kadar hak kazanılan gelir ve aylıklar,
+
+-İkinci kısım ödemede ise, işlem yapılan tarihi takip eden ödeme dönemi ile aylık ödeme dönemine
+kadar olan gelir aylıklar,
+
+Günlük ödeme olarak sigortalı veya hak sahibi adına ilk defa gelir/aylık ödemesi yapılan bankaya
+gönderilecektir.
+
+Örnek: Sigortalı 25/06/2018 tarihinde yaşlılık aylığı talebinde bulunmuş olup, tarafına 01/07/201
+terihi itibariyle yaşlılık aylığı bağlanacaktır. Emektar çalışma dönemi Ekim/2018'dir. Emektar sisteminde
+05/09/2018 tarihinde operatör tarafından bağlanan aylığın onay işlemi 10/09/2018 tarihinde tamamlanarak
+aynı gün (10/09/2018) günlük ödeme olarak MOSİP sistemine aktarılacaktır. Günlük ödemeler;
+01/07/2018-24/09/2018 süresi için birinci kısım ödeme, 25/09/2018-24/10/2018 süresi için ikinci kısım
+ödeme olarak MOSİP sistemine aktarılacak, MOSİP sistemi, birinci kısım ödemeyi 10/9/2018 tarihinden
+sonra, ikinci kısım ödemeyi ise sigortalının aylık ödeme tarihi olan 25/09/2018 tarihinde ödenmek üzere
+bankaya gönderecektir. Sigortalının 2018/Ekim aylığı ise 25/10/2018 tarihinde ödenecektir,
+
+Günlük yapılacak ödemeler Emektar projesinde ilk kararın 2. Onay işlemi yapıldıktan sonra günlük
+olarak saat 16.30'da Emektar sisteminden MOSİP sistemine, sosyal güvenlik il müdürlüğü/sosyal güvenlik
+merkezlerine yetki devri yapılana kadar Emeklilik Yazılımları Daire Başkanlgı'nca aktarılacaktır. Bu
+nedenle hatalı bağlandığı tespit edilen aylıkların mutlaka gün içinde saat 16.30'a kadar düzeltilmesi
+gerekmektedir. Bu şekilde düzeltilemeyen aylıklara ilişkin düzeltmeler, ikinci karar işlemi yapılmak
+suretiyle bir sonraki çalışma döneminde yapılacaktır.
+
+Günlük ödemelerde, sigortalı ve hak sahiplerine genel bilgilendirme Emektar sisteminden alınacak
+olan bilgi mektubu ile yapılacak olup, ayrıca MOSİP sisteminden günlük ödeme tutarı bankaya
+gönderildiğinde ilgililere SMS yoluyla bilgilendirme yapılacağından, sigortalı ve bak sahiplerinin GSM
+numaraları mutlaka temin edilerek Kurumsal SMS Portalına giriş yapılması sağlanacaktır.
+
+Bilgi edinilmesini ve gereğini rica ederim. ,
+
+İsmail YILMAZ,
+Genel Müdür
+Bu belge, 5070 sayılı Elekiromik İmza Kanununun 5 inel maddesi gereğince güvenli elekironik imza TE İmzalanmştr
+Mithatpaşa Cd. No:7 Sıhhiye/ANKARA Ayrınulı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312432 1063 Faks: 0312 432 10 62
+e-nosta: ehem hacedh(dsek.sov.tr Web: www.sek.govir
+Hmmm m

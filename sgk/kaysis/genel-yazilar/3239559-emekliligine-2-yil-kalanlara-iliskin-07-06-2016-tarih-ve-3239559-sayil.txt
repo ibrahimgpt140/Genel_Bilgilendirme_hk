@@ -1,0 +1,102 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/95830
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3239559
+ADI: EMEKLİLİĞİNE 2 YIL KALANLARA İLİŞKİN 07.06.2016 TARİH VE 3239559 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dc32c39b8c2e0d367b798869b1c6ea51796855fea584554958be0f3d37d4f666
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Sayı : 57405428-20199-4/A.MVZ.-E.3239559 07/06/2016
+Konu : Emekliliğine 2 yıl kalanlar.
+GENEL YAZI
+
+İlgi : a) Devredilen SSK Tahsisler Daire Bşk.'nın 6/12/2006 - 943738 sayılı Genel Yazısı.
+
+b) Devredilen SSK Tahsisler Daire Başk.'nın 15/6/2007 tarihli Toplu Yazısı.
+
+c) 10/10/2012 - 17849151 sayılı Genel Yazı.
+
+d) 6/2/2013 - 2269093 sayılı Genel Yazı.
+
+e) 6/9/2013 - 14554191 sayılı Genel Yazı.
+
+f) 28/2/2014 - 2014/6 sayılı Genelge.
+
+g) 12/5/2014 - 7109568 sayılı Genel Yazı.
+
+h) 1/7/2014 - 10241866 sayılı Genel Yazı.
+
+1) 6/8/2015 - 4080064 sayılı Genel Yazı.
+
+j) 6/6/2016 -319017 sayılı Genel Yazı.
+
+Bilindiği üzere, hizmet kayıtlarının güncel tutulması ve emeklilik işlemlerinin daha kısa
+sürede tamamlanması için 2013, 2014 ve 2015 yıllarında emekliliğine 2 yıl kalanların listeleri
+gönderilerek hizmet kayıtlarının güncellenmesi talimatlandırılmıştır.
+
+Diğer taraftan, aylık bağlama işleminin hizmet kayıtlarından doğrudan alınarak elektronik
+ortamda yapılmasına yönelik program yazılımlarına devam edilmekte olup 2017 yılı içerisinde
+açılması planlanmaktadır.
+
+Söz konusu çalışmalar çerçevesinde 2016 yılı içinde emekliliğine 2 yıl kalanların listesi
+ünitelere gönderilmiş olup WdosyalarıSGKDSNGECICNemekliliğine2yılkalanlar linkinden listelere
+ulaşılması mümkündür.
+
+Hizmet bildirme ve birleştirme yapılan dosyalar ile aylık bağlanma işlemi tamamlanmış
+dosyaların incelenmesinde, sigortalı tescil kayıtları düzeltilmeyerek iptal ipka işleminin
+yapılmadığı, sigortalıların hizmet kayıtlarının güncellenmesi yerine halen prim tahakkuk cetveli
+hazırlanarak aylık bağlama işleminin sonuçlandırıldığı, dolayısıyla hizmet kayıtları ile aylık
+bağlandıktan sonraki hizmet gün sayılarının uyuşmadığı, her bir ünitece sicil dosyası açıldığı,
+sigortalı taleplerinin sicil dosyasında (borçlanma başvuru, isteğe bağlı sigorta yada ck 5 nci
+maddeye müracaat, eski yılara ait makbuz ve dekontlar vb) bulunmadığı anlaşılmaktadır.
+
+Emekliliğine 2 yıl kalanların listeleri hakkında, sigortalıların birden fazla sicil numarasının
+bulunup bulunmadığı araştırılarak öncelikle iptal-ipka işleminin yapılması ve yaş tashisi bulunup
+bulunmadığının araştırılması gerekmektedir.
+
+1950-1965 yılları arasındaki hizmetler ile 1965 yılından sonraki hizmetler, 506 sayılı
+Kanunun 85 inci maddesine göre isteğe bağlı sigorta, 86 ncı maddesine göre topluluk sigortası,
+2925 sayılı Kanuna tabi hizmetleri ve askerlik borçlanması bilgilerinin ilgili programlara
+aktarılması sağlanacak, varsa 1479, 2926, 5434 sayılı kanunlar ile 506 sayılı Kanunun geçici 20 nci
+maddesi kapsamındaki hizmetler istenerek bu hizmetlerinde ilgili programlara aktarımı
+sağlanacaktır.
+
+Tescil ve hizmet kayıtları düzeltilen sigortalıların, işlemlerinin daha kısa sürede
+sonuçlandırılması için her bir ünitede ayrı ayrı sicil dosyası açılmayarak sigortalının son çalışması
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+nerede ise sicil dosyası sigortalının çalışmasına ait tüm bilgilerle birlikte son çalışılan üniteye
+gönderilecektir. Sigortalının (4/a) hizmetleri son çalıştığı üniteden istenecek, eksik hizmetlerde son
+çalışılan ünite tarafından önceki çalışmaların geçtiği illerden istenecektir.
+
+"(4/a), (4/b) ve (4/c) Hizmet Bildirme Programı" ile bildirilen hizmetler ile SGK Tescil ve
+Hizmet Dökümü programındaki hizmet aynı olacak, (4/a) hizmetlerinde herhangi bir sorun
+bulunmuyorsa hizmet bildirme talebine “SGK Tescil ve Hizmet Dökümünde bildirilen hizmetler
+geçerlidir” denilmesi yeterli olacaktır.
+
+Emekliliğine 2 yıl kalanlara ait gönderilen listelerde yer alan her bir sigortalı için ilişikte
+bir örneği gönderilen kontrol listesi kullanılacaktır. Hazırlanan kontrol listesi ayrıca ne zaman
+emekli olurum ve kıdem tazminatı ödenmesi taleplerinde de kullanılacak, bu sigortalıların talepleri
+halinde de tescil ve hizmet kayıtları aylık bağlamaya hazır hale getirilecektir.
+
+Tescil ve hizmet kayıtlarının güncel tutulması çalışmaları çerçevesinde tescil ve hizmet
+servislerinde yeterli personel bulundurulması, gönderilen listelerin ivedilikle ve doğru bir şekilde
+tamamlanması, ay içinde düzeltilen kayıtların sayısının ilişikte gönderilen listeye göre hazırlanarak
+her ayın son iş gününde Hizmet Akdiyle Çalışanlar Daire Başkanlığının bölge mail gruplarına
+gönderilmesinin sağlanması gerekmektedir.
+
+Bilgi edinilmesini rica ederim.
+
+Ekler :
+1) Tescil ve Kayıtların Düzeltilmesi ve Güncellenmesine
+İlişkin Kontrol Listesi
+2) Hizmet Düzeltme Sayıları Tablosu
+DAĞITIM
+Gereği:
+Merkez ve Taşra Teşkilatı
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır

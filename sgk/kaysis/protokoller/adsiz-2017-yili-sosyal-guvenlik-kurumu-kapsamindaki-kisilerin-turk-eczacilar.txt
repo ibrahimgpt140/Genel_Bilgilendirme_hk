@@ -1,0 +1,2614 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105516
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Sözleşme / Protokoller
+SAYI: 
+ADI: 2017 YILI SOSYAL GÜVENLİK KURUMU KAPSAMINDAKİ KİŞİLERİN TÜRK ECZACILARI BİRLİĞİ ÜYESİ ECZANELERDEN İLAÇ TEMİNİNE İLİŞKİN PROTOKOL
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: fecb1074ae4d06cf9e5d8b290055a10e38bdd5af093918652e144fcd431f6d74
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+     SOSYAL GÜVENLİK KURUMU KAPSAMINDAKİ KİŞİLERİN TÜRK
+   ECZACILARI BİRLİĞİ ÜYESİ ECZANELERDEN İLAÇ TEMİNİNE İLİŞKİN
+                             PROTOKOL
+
+1.TARAFLAR, KONU, DAYANAK VE TANIMLAR
+
+1.1.Taraflar
+Sosyal Güvenlik Kurumu ve Türk Eczacıları Birliğidir.
+
+1.2. Konu
+Sosyal Güvenlik Kurumu tarafından sağlık hizmetlerinin finansmanı sağlanan ve bu
+Protokolün (2) numaralı maddesinde belirtilen kişilere, serbest eczanelerden ilaç ve provizyon
+sisteminde yer alan tıbbi malzemelerin teminine ilişkin usul ve esaslar ile karşılıklı hak ve
+yükümlülüklerin belirlenmesidir.
+1.3. Dayanak
+Bu Protokol; 5510 sayılı Kanunun 73 üncü maddesi, 5502 sayılı Kanun ile 6643 sayılı Türk
+Eczacıları Birliği Kanununun 39 uncu maddesinin (j) fıkrası hükümleri gereğince
+düzenlenmiştir.
+1.4. Tanımlar
+Bu Protokolde geçen;
+1.4.1. Kurum: Sosyal Güvenlik Kurumunu,
+1.4.2. Kurum taşra teşkilatı: Kurumla sözleşmeli eczanenin reçetelerini teslim ettiği ve
+Kurum tarafından web sayfasında duyurulan birimi,
+1.4.3. TEB: 6643 sayılı Kanunla kurulan Türk Eczacıları Birliğini,
+1.4.4. Eczacı: 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanunun 1 inci maddesinde tarif
+edilen eczane sahibi ve/veya mesul müdürü,
+1.4.5. Eczane: 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanun kapsamında faaliyet
+gösteren serbest eczaneyi,
+1.4.6. Hasta: Kurum tarafından sağlık hizmetlerinin finansmanı sağlanan ve (2) numaralı
+maddede belirtilen kişileri,
+1.4.7. Mevzuat: Kanun, tüzük, yönetmelik, tebliğ, genelge, yönerge, genel yazı, usul ve
+esasları ve diğer yasal mevzuatı,
+1.4.8. SUT: Protokolün geçerli olduğu dönemde yürürlükte bulunan Sosyal Güvenlik Kurumu
+Sağlık Uygulama Tebliği ile Ek Tebliğleri,
+1.4.9. A grubu reçete: Yatan hasta reçetelerini (günübirlik tedavi reçeteleri de dahil) ve
+sağlık raporu ile temin edilen ilaç/ilaçları içeren reçeteleri,
+1.4.10. B grubu reçete: Kurum mevzuatına göre ayrı fatura edilmesine ilişkin düzenleme
+olmayan veya içeriğinde herhangi bir raporlu ilaç bulundurmayan ayaktan hasta reçetelerini
+(A ve C grubu dışında kalan reçeteler)
+1.4.11. C grubu reçete: Kurum mevzuatına göre ayrı fatura edilmesine ilişkin düzenleme
+olan reçeteler ile bu Protokol ekinde (EK-4) yer alan reçeteleri,
+1.4.12. Fatura dönemi: Özel düzenlemeler saklı kalmak kaydıyla, eczane tarafından her ayın
+birinci ve sonuncu günü dâhil olmak üzere verilen hizmetleri kapsayan dönemi,
+1.4.13. (Değişik: 03/05/2017-2017/1 Ek Protokol 9.md.-(a) Yürürlük:01/04/2017) Ödeme
+Yönetmeliği: “Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve Bedellerinin
+Ödenmesine İlişkin Usul Ve Esaslar Hakkında Yönetmelik” başlıklı yönetmeliği,
+1.4.14. İlaç Takip Sistemi (İTS): İlaç dış ambalajlarında yer alan karekodlar üzerinden,
+ilaçların kayıtlarının tutulduğu ve takibinin yapıldığı sistemi,
+İfade eder.
+
+2. PROTOKOLE GÖRE HİZMET ALACAK KİŞİLER
+
+2.1. SUT’un (1.2) numaralı maddesinde belirtilen kişiler.
+
+3. UYGULANACAK USUL VE ESASLAR
+
+3.1. Eczane tarafından SUT’un "Sağlık Hizmeti Sunucuları"' başlıklı bölümünde tanımlanan
+sağlık hizmeti sunucularından: Birinci Basamak Resmi Sağlık Kuruluşları (Toplum sağlığı
+merkezlerinden görevli olarak aile sağlığı merkezlerine görevlendirilen hekimlerin reçeteleri
+dahil), İkinci Basamak Resmi Sağlık Kurumları, Üçüncü Basamak Resmi Sağlık Kurumları
+ve sözleşmeli İkinci Basamak Özel Sağlık Kurumları tarafından düzenlenen reçetelerin yanı
+sıra sözleşmeli diyaliz merkezleri, sözleşmeli tanı tedavi merkezleri, kurum hekimleri ve
+işyeri hekimleri (yalnızca ilgili işyerinde çalışanlara) tarafından düzenlenen reçeteler
+sözleşmeli eczaneler tarafından bu Protokol ve bu Protokolün imzalandığı tarihteki SUT
+hükümleri çerçevesinde karşılanır.
+Ancak SUT hükümlerine göre, özel sağlık kurum ve kuruluşlarında yapılan diş tedavileri ve
+bu tedavilere ait ilaç bedelleri hasta tarafından ödendikten sonra Kurumdan talep edilecektir.
+Bu nedenle, söz konusu ilaçlara ait bedeller eczane tarafından Kuruma fatura edilmeyecektir.
+SUT’ta eczacının ilaç vermesi ile ilgili iş ve işlemlere ilişkin değişiklik yapılması halinde
+görüş birliği sağlanır.
+Hasta sevk işlemlerine ilişkin olarak eczacıların herhangi bir sorumlulukları yoktur.
+Karşılanan reçetelerden sevk nedeniyle herhangi bir kesinti yapılmayacaktır.
+
+3.2. Reçete muhteviyatı ilaç bedellerinin eczaneye ödenebilmesi için, reçetelerin Sağlık
+Bakanlığı ve Kurum mevzuatına uygun olarak düzenlenmiş olması, aşağıda sayılan işlemlerin
+reçeteye uygulanması ve belirtilen belgelerin reçete ekinde bulunması şarttır. Eczane
+tarafından bu özellikleri taşımayan reçeteler kabul edilmeyecek, kabul edilse dahi bu
+reçetelerdeki ilaç bedelleri [(3.3.) numaralı madde kapsamında yapılan iade sonrasında
+düzeltilmiş bulunanlar hariç] Kurum tarafından ödenmeyecektir
+
+3.2.1. Reçetelerde, hekimin adı soyadı, kuruluş/kurumun adı, hekimin ana uzmanlık dalı ile
+birlikte var ise yan uzmanlık dalı, asistanlar için ihtisas yaptığı uzmanlık dalı, hekimin
+diploma numarası veya Sağlık Bakanlığınca verilen doktor diploma tescil numarası bilgileri
+ve hekimin ıslak imzası mutlaka yer alacaktır. Ayrıca reçetelerde hasta adı soyadı, T.C.
+Kimlik Numarası, reçete tanzim tarihi ile MEDULA takip numarası veya protokol numarası
+yer alacaktır. İmza dışındaki bilgiler, el yazısı ile yazılabileceği gibi kaşe veya bilgisayar
+ortamında veya hastane otomasyon sistemleri tarafından basılan etiketin/barkodun
+yapıştırılması veya bilgisayardan yazılmış reçete şeklinde olabilir. Hastane bilgi etiketinde yer
+alan tarih ile hekimin yazdığı reçete tarihi arasında farklılık bulunması halinde hekimin
+reçeteye yazmış olduğu tarih esas alınır. Reçetelerde, kurum başhekiminin onayı ve mühür
+aranmayacaktır. Kurumla sözleşmeli resmi sağlık kurumlarınca temin edilemeyen yatan
+hastalara ait reçetelerde "Eczanemizde Yoktur. Yatan Hasta" kaşesi ve başhekimlik onayı
+aranacaktır.
+
+3.2.2. Reçetelerin arka yüzünde; reçete sahibi ya da ilacı/ilaçları alan kişinin adı, soyadı ve
+“.... kalem ....kutu ilacı aldım” ibaresi, T.C. Kimlik Numarası, T.C. Kimlik Numarası
+olmaması halinde ibraz edilen kimlik belge numarası yer alacaktır. Okuma yazma bilmeyen
+reçete sahibi veya ilacı/ilaçları alan kişinin reçeteye parmak izi alınır.
+
+3.2.3. Reçetelerin arka yüzüne eczane kaşesi basılacak ve eczacı tarafından imzalanacaktır.
+(EK-2)
+
+3.2.4. Verilen ilaçların tamamının karekod bilgileri İlaç Takip Sisteminden onay alınarak
+Kuruma fatura edilecektir. Sağlık Bakanlığı tarafından Beşeri Tıbbi Ürünler Ambalajlama ve
+Etiketleme Yönetmeliği ile karekod uygulaması kapsamı dışında tutulan ürünlere ait kupür ve
+barkod diyagramları reçeteye düşmeyecek şekilde eklenecektir. İlaç Takip Sistemi (İTS-
+Karekod uygulaması) üzerinden satış onayı alınarak Kuruma fatura edilen ilaçlarla ilgili
+olarak Sağlık Bakanlığınca ve Kurumca belirlenecek usul ve esaslara göre işlem yapılacaktır.
+
+3.2.5. Majistral ilacın terkibine giren ilaç varsa, bunlara ait karekodların İlaç Takip Sistemine
+satış bildirimi yapılacaktır. Karekod uygulaması kapsamı dışında tutulan ürünler için ise
+kupür ve barkod diyagramları reçeteye düşmeyecek şekilde eklenecektir. Majistral terkibine
+giren ancak Kurum geri ödeme listesinde yer almayan ilaçlar için kupür/karekod gibi
+kanıtlayıcı belgenin reçeteye eklenmesi gerekmemektedir.
+Majistral tarifeye yönelik güncellemeler her yıl görüşülüp, yeniden değerlendirilir.
+
+3.2.6. Reçetelerde yazılan ilacın miktarı bir birimden (kutu, şişe vb.) fazla ise hekim
+tarafından miktarın ayrıca yazı ile de belirtilmesi gerekmektedir.
+
+3.2.7. Provizyon sistemine reçete kaydı yapıldıktan sonra sistemden alınan çıktı reçeteye
+eklenecektir.
+
+3.2.8. Yurtdışı sigortalıları için, provizyon sisteminde müstahaklık sorgulaması yapılıncaya
+kadar, Sosyal Güvenlik İl/Merkez Müdürlüklerince düzenlenmiş "Sosyal Güvenlik
+Sözleşmesine Göre Sağlık Yardım Belgesi"nin fotokopisi, bu sigortalılara ilişkin deneme ilaç
+provizyon çıktısı ve İTS’ye karekod bildirimi yapıldığına dair çıktı reçeteye eklenecek olup,
+ayrıca adlarına düzenlenen reçetelere sağlık yardım hakkını veren ülkenin adı yazılacaktır.
+Söz konusu reçetelerin Kuruma ibrazında bu Protokol ekinde (EK-3) bulunan form
+doldurulacaktır.
+Geçirdikleri iş kazası nedeniyle prim ödeme gün sayısı şartına bağlı olmaksızın Kurumca
+sağlık hizmetlerinin finansmanı sağlanan aktif sigortalılar için provizyon sisteminde
+müstahaklık sorgulaması yapılıncaya kadar, işveren tarafından düzenlenmiş ve iş kazası
+bölümü doldurulmuş vizite kağıdı reçeteye eklenecektir. İş kazası reçetesi e-reçete olarak
+girilmiş ise vizite kağıdı eklenmesine gerek yoktur.
+Yurtdışı sigortalılarından TC Kimlik Numarası ile MEDULA sisteminden provizyon alınan
+sigortalıların reçeteleri ise bu madde çerçevesinde değerlendirilmeyecek, diğer reçeteler gibi
+MEDULA üzerinden karşılanacaktır.
+
+3.2.9. Aşağıda belirtilen ilaçların kullanımında endikasyon uyumu aranacaktır.
+• SUT’ta ödeme şartı endikasyona bağlı olan ilaçlar (SUT’un 4.2 numaralı maddesinde özel
+olarak etken madde adı belirtilip endikasyon uyumu aranacağı belirtilen ilaçlar),
+• SUT eki EK-4/E, EK-4/F ve EK-4/G listelerinde ödeme şartı olarak ayrıca endikasyon
+belirtilen ilaçlar,
+• Sağlık Bakanlığı tarafından yayımlanan Endikasyon Dışı İlaç Kullanımı Genelgesinde
+belirtilen ilaçlar,
+• İlaç kullanım raporuna dayanılarak katılım payından muaf olarak verilen ilaçlar. (SUT eki
+EK-4/D listesinde yanında (*) yıldız işareti bulunanlar için kendi bulunduğu üst başlıklarda
+belirtilen hastalıklarda kullanımında),
+Bu ilaçların endikasyon dışı reçete yazımında, Sağlık Bakanlığı tarafından verilen endikasyon
+dışı ilaç kullanım izninin bir örneği reçeteye eklenecektir.
+
+3.2.10. Sadece MEDULA’ya tanımlanması yapılmamış kişilere yazılan reçete ve raporlarda;
+kullanımı rapora bağlı veya katılım payı alınmayacak ilaç(lar) için ilgili raporun bir fotokopisi
+reçeteye eklenecektir. 01.11.2010 tarihinden itibaren elektronik ortamda düzenlenmiş sağlık
+raporları ile ilgili olarak herhangi bir rapor veya ek belge fotokopisi eklenmeyecek olup
+raporun MEDULA sisteminde kayıtlı olması yeterlidir.
+
+3.2.11. Reçetede ilacın ticari adı belirtilmeyip sadece kimyasal adı (etken madde adı)
+belirtilmiş ise eczacılar tarafından o etken maddeyi içeren piyasada bedeli en düşük olan ilaç
+verilecektir. Pahalı olan ilacın verilmesi halinde en düşük bedel üzerinden ödeme yapılır.
+Ancak provizyon sisteminde eşdeğer ilaç uygulaması bandında yer alan ilaçlardan herhangi
+birisinin verilmesi halinde verilen ilacın bedeli ödenecektir.
+
+3.2.12. Reçetede yazılı ilacın "Bedeli Ödenecek İlaçlar Listesi" nde (SUT eki EK-4/A) ve
+provizyon sisteminde eşdeğer ürün grubu sütununda yer almaması halinde, hekim tarafından
+reçeteye yazılmış olan ilacın yerine farmasötik eşdeğerinin verilebilmesi için, verilecek ilaç
+bedelinin reçetede yazılı ilaç bedelinden fazla olmaması ve eczacı tarafından reçete üzerine "
+……….…..ilacı yerine .......................ilacını veriyorum, farmasötik eşdeğeri olduğunu
+onaylıyorum.” ibaresinin yazılarak veya bu ibareyi içeren kaşenin basılarak imzalanması
+şarttır.
+
+3.2.13. Bu protokolün ekinde (EK-4) belirtilen reçetelerde ilgili bölge eczacı odası onayı
+olacaktır.
+
+3.2.14. Reçetelerde mutlaka teşhis yer alacaktır. Teşhisin rapor ile belgelendiği durumlarda
+(ilacın ödenmesi için hekim tarafından teşhis olarak MEDULA sistemine özel kodlarla
+girilenler de dahil olmak üzere) teşhis reçete üzerinde yok ise rapordaki teşhis reçete teşhisi
+olarak kabul edilir. Reçetede kullanımı endikasyon uyumuna bağlı ilaçlar hariç olmak üzere
+tek teşhis yazılması yeterlidir.
+
+3.2.15. Reçete hekim tarafından SUT’ta belirtilen istisnalar haricinde elektronik (e-reçete)
+ortamda düzenlenecektir. Sağlık Bakanlığı tarafından elektronik imza uygulamasının
+başlatılmasından sonra güvenli elektronik imza ile imzalanmamış olan e-reçeteler ve e-
+raporlar eczacılar tarafından kabul edilmeyecektir. E-reçete olarak düzenlenmiş reçeteler için
+aşağıdaki kurallar eczane tarafından uygulanacaktır.
+
+3.2.15.1. Hastanın T.C. Kimlik Numarası ve MEDULA takip numarası/elektronik reçete
+numarası MEDULA eczane provizyon sistemine girilecektir.
+
+3.2.15.2. Reçete muhteviyatı, bu Protokol hükümlerine göre reçete sahibi/ilaçları alana teslim
+edilecektir. Bu işlem, eczaneden ilaçları alan kişinin T.C. Kimlik Numarasının ve istenmesi
+halinde ilacı alan kişi ile ilgili diğer ek doğrulama bilgilerinin MEDULA eczane provizyon
+sistemine kayıt edilmesi ile tamamlanmış olacaktır. Bu şekilde yapılan işlemlerden sonra
+eczacı hastaya ilaçlarını teslim etmiş sayılacaktır. Teslime ilişkin herhangi bir belge
+aranmayacaktır.
+3.2.15.3. SUT ve eklerinde, bazı ilaçların kullanımı için düzenlenecek reçetelerin ekinde
+ibrazı istenilen belgelerde aranan bilgiler, e-reçete/ e-rapor uygulamasında e-reçete veya e-
+rapor içinde belirtilecek olup ayrıca belge istenmeyecektir.
+
+3.2.15.4. Aşağıdaki ilaçları ihtiva eden ve zikredilen hizmet sunucuları tarafından düzenlenen
+reçeteler (Kurum tarafından gerekli düzenlemeler tamamlanıncaya kadar) manuel olarak
+düzenlenecektir.
+        a) Yabancı ülkelerle yapılan “Sosyal Güvenlik Sözleşmeleri” kapsamında Kurum
+tarafından sağlık hizmeti verilen kişiler için düzenlenen reçeteler,
+        b) Majistral ilaç içeren reçeteler, alerji aşıları reçeteleri,
+        c) İthal ilaç grubuna giren kişiye özel yurt dışından getirtilen ilaçlar için düzenlenen
+reçeteler,
+        ç) SUT’un 1.7(2) fıkrasının b ve c bentlerinde tanımlanan ve MEDULA hastane
+sisteminden provizyon alınamamasına rağmen sağlık hizmeti sunulması durumunda
+düzenlenen reçeteler,
+        d) Acilde düzenlenen reçeteler,
+        e) Aile hekimleri tarafından “gezici sağlık hizmeti” kapsamında düzenlenen reçeteler
+(bu reçetelerin gezici sağlık hizmeti kapsamında düzenlendiğini belirtir ifadenin bulunması ve
+hekim tarafından onaylanması gerekmektedir.),
+        f) Evde sağlık hizmeti kapsamında düzenlenen reçeteler,
+        g) Resmi ve özel sağlık kuruluşlarından; kamu idareleri bünyesindeki kurum
+hekimliklerinde, işyeri hekimliklerinde, belediyelere ait polikliniklerde, huzur evlerinde, aile
+hekimlikleri dışındaki birinci basamak resmi sağlık hizmeti sunucularında, üniversitelerin
+mediko-sosyal birimlerinde, Türk Silahlı Kuvvetlerinin birinci, ikinci ve üçüncü basamak
+sağlık hizmet sunucularında düzenlenen reçeteler (resmi ve özel sağlık kuruluşlarının
+MEDULA hastane sistemini kullanmaya başlamaları veya teknik alt yapılarını oluşturmaları
+halinde e-reçete uygulamasına geçmeleri zorunludur.)
+
+3.2.15.5. Şeker ölçüm çubukları, şeker ölçüm cihazları, iğne ucu ve karekodu bulunmayan
+ilaçları ihtiva eden e-reçeteler için reçete çıktısı alınarak, barkodlar ve varsa fiyat küpürleri
+reçete çıktısına yapıştırılacaktır.
+
+3.2.15.6. Elektrik kesintisi ya da MEDULA provizyon sistemi ve/veya hekimin kullandığı
+yazılım sisteminin çalışmaması nedeniyle, hekim tarafından hizmetin aksamaması için kağıt
+ortamında düzenlenmiş olan reçeteler de eczane tarafından Protokol hükümleri çerçevesinde
+kabul edilecektir.
+
+3.2.15.7. Oluşabilecek sorunlar karşısında sağlık hizmetlerinin aksamaması için hekim
+tarafından düzenlenen e-reçeteler, çıktı olarak kâğıt ortamında da düzenlenerek hastaya
+verilebilecek ve eczaneler tarafından kabul edilerek Kuruma gönderilecektir. Bu şekilde hem
+e-reçete hem de kâğıda yazılmış olan reçeteler için eczane tarafından her iki şekilden biri
+tercih edilerek işleminin yapılması halinde, Kurum tarafından ödemesi yapılacaktır.
+
+3.3.Reçete iadesi
+
+3.3.1. Reçete üzerinde;
+1. Hastaya ait bilgilerin (Ad, soyad, kimlik numarası),
+2. Hekime ait bilgilerin (ad, soyad, diploma numarası/ diploma tescil numarası, sağlık
+kurum/kuruluşunun adı, ilacın ödenmesi için gerekli ise uzmanlık dalı),
+3. Hekimin imzasının,
+4. Reçete düzenlenme tarihinin,
+5. Reçete kayıt defteri protokol numarasının veya MEDULA takip numarasının,
+6. Reçete teşhisinin (reçete ekinde teşhisi belirtir rapor yok ise), Reçetede kullanımı
+endikasyon uyumuna bağlı ilaçlar hariç olmak üzere tek teşhis yazılması yeterlidir.
+7. Protokolün (3.2.9) numaralı maddesinde yer alan ilaçlarla ilgili endikasyon uyumunun,
+8. Bir birimden fazla reçete edilmiş ilaca ait birim adetinin yazı ile belirtilmesinin,
+9. Hekim, hasta, tarih, protokol no, ilaç ile ilgili bilgilerde değişiklik, iptal veya karalama var
+ise değişikliğe ilişkin hekim onayının (kaşe ve imza),
+10. SUT ve eki listeler gereği reçete üzerinde belirtilmesi gereken ilaca ait özel şartları
+tanımlayan ibarelerin, değerlerin veya kullanım sürelerinin,
+11. Yatan hastalara ait reçetelerde “Eczanemizde yoktur. Yatan hasta” kaşesi ve Başhekimlik
+onayının,
+Bulunmaması,
+12. Reçetedeki barkod etiketi üzerindeki hekim ile reçeteyi yazan hekimin farklı olması,
+13. Reçetede yazılı hekim bilgisinin sehven yanlış girilmesi,
+14. Manuel reçetelerde e-reçete düzenlenememe gerekçesinin bulunmaması,
+Reçete arkasında;
+1. İlaç/ilaçları alan kişinin adı, soyadı, adres veya telefon bilgisi, reçete sahibi veya birinci
+derece yakını dışındaki kişilerce alınmış ise T.C. Kimlik Numarası, T.C. Kimlik Numarası
+olmaması halinde ibraz edilen kimlik belge numarası ve imzasının, “….kalem/kutu ilacı
+aldım.” ibaresinin,
+2. Eczane kaşesi ve eczacı imzasının,
+3. Farmasötik eşdeğer verilmesi halinde eşdeğer kaşesinin ve eczacı imzasının (provizyon
+sisteminde eşdeğer ürün grubu sütununda yer almayan ilaçlar),
+4. Bölge Eczacı Odası koordinasyonunda dönüşümlü karşılanan reçetelerde oda onayının,
+bulunmaması,
+Reçete ekinde;
+1. Provizyon sistemine kayıt sonrasında alınan çıktının,
+2. Provizyon sistemine raporlu olarak kaydedilmiş reçetelere ait sağlık raporunun, (elektronik
+rapor hariç)
+3. SUT gereği reçete ekinde bulunması gereken belgelerin (sağlık raporu, tahlil/tetkik belgesi,
+güvenlik ve endikasyon dışı ilaç kullanım izni vb.),
+4. Yurtdışı sigortalılara ait belgelerin eksik olması veya süresinin dolmuş olması,
+5. İş kazası halinde düzenlenmiş vizite kâğıdının bulunmaması,
+6. Sağlık Bakanlığı tarafından Beşeri Tıbbi Ürünler Ambalajlama ve Etiketleme Yönetmeliği
+ile karekod uygulaması kapsamı dışında tutulan ilaçlar ile şeker ölçüm çubukları, şeker ölçüm
+cihazları, insülin kalem iğne uçları ve karekod uygulaması kapsamı dışında kalan tüm
+ürünlere ait kupürlerin bulunmaması veya bu ilaçlardan karekodlu olanların karekod
+sonlandırmasının yapılmaması, (sözleşme dönemi boyunca yalnızca bir defaya ve ilk tespit
+edilen reçeteye mahsus olmak üzere)
+
+Reçete eki belgelerde;
+   1. İlaç kullanım raporunda hasta kimlik bilgileri veya ilaç adına ilişkin yazım hataları
+      bulunması,
+   2. İlaç kullanım raporunda SUT hükümlerine göre bulunması gereken, ilacın kullanım
+       dozu, teşhis, etken madde, kullanım süresi, ilgili hekim onayı, tedavi şeması, ICD-10
+       kodu veya ilacın ödenmesi için SUT’ta özel düzenlenmiş kriterlerin (tedavi geçmişi,
+       tahlil sonuç bilgileri, ilaca başlama ve sonlandırma kıstasları, vb) bulunmaması veya
+       bulunan bilgilerin rapor içeriğiyle çelişki oluşturması, durumunda,
+Reçete ve ekleri tekrar fatura edilmeyecek şekilde iptal edilerek düzeltilmek üzere iade edilir.
+
+Faturanın hatalı tasnif edildiğinin, fatura üzerinde yer alan bilgilerin sistemle uyumlu
+olmadığının veya fatura bilgilerinde eksiklikler bulunduğunun fatura kontrol aşamasında
+tespiti halinde söz konusu fatura ve eki belgeler düzeltilmek üzere eczaneye iade edilir.
+
+3.3.2. İade edilen reçetelerde ve eki belgelerde yapılacak düzeltmelerde, reçeteyi yazan doktor
+yoksa başhekimlik kaşe ve onayı kabul edilir.
+Aile hekimleri tarafından düzenlenmiş reçetelerde ise yerine görevli diğer hekimin düzeltmesi
+kabul edilir. E- reçete veya raporların düzeltilmesi işlemi için (hekimin başka bir yerde görev
+alması durumunda düzeltme yapabilmesi için) MEDULA’da 3 (üç) ay içerisinde gerekli
+düzenleme yapılır.
+
+3.4. (Değişik: 03/05/2017-2017/1 Ek Protokol 1.md. Yürürlük:01/04/2017) Eczacı indirim
+oranları, bir önceki yıl satış hasılatı (KDV hariç) üzerinden aşağıda belirtildiği şekilde
+uygulanacaktır;
+700.000 TL' ye kadar satış hâsılatı olan eczaneler tarafından % 0 indirim,
+700.0001 TL ile 900.000 TL arasında satış hâsılatı olan eczaneler tarafından % 0,75 indirim,
+900.001 TL ile 1.500.000 TL arasında satış hâsılatı olan eczaneler tarafından % 2,20 indirim.
+1.500.000 TL üzerinde satış hâsılatı olan eczaneler tarafından % 2,75 indirim.
+İmalatçı ve ithalatçı indirimi yapılarak depocuya satış fiyatı üzerinden depocu ve eczacı kar
+oranları uygulandıktan sonra ulaşılan fiyattan eczane indirimi yapılır.
+Bununla birlikte bir önceki yıl satış hasılatı (KDV hariç) üzerinden her reçete başına;
+200.000 TL’ ye kadar satış hâsılatı olan eczacıya 3,27TL (üçTL,yirmiyedikuruş) ,
+200.001 TL ile 400.000TL arasında satış hâsılatı olan eczacıya 2,73TL (ikiTL,yetmişüç
+kuruş),
+400.001 TL ile 700.000TL arasında satış hâsılatı olan eczacıya 1,63TL (bir TL,altmışüç
+kuruş),
+700.001 TL ile 900.000TL arasında satış hâsılatı olan eczacıya 81 Kuruş (seksenbirkuruş),
+900.001 TL ile 1.200.000TL arasında satış hâsılatı olan eczacıya 54 Kuruş (ellidörtkuruş),
+1.200.001 TL ile 1.500.000 TL arasında satış hâsılatı olan eczacıya 43 Kuruş (kırküçkuruş),
+1.500.001 TL üzerinde satış hâsılatı olan eczacıya 32 Kuruş (otuzikikuruş),
+hizmet bedeli ödenir.
+Bir önceki yıl satış hâsılatı olmayan ve yeni açılan eczaneler için en düşük indirim oranı ve en
+yüksek hizmet bedeli uygulanır.
+Ayrıca mobil reçeteler ile soğuk zincir ilaçları içeren reçetelerde, reçete başı hizmet bedeli
+% 50 artırımlı olarak ödenir.
+Mobil reçetelerde “ Mobil Reçete Kaşesi” bulunması veya hekim tarafından “Mobil Reçete”
+ibaresinin yazılması zorunludur.
+Yıllık reçete sayısında mücbir sebepler hariç, olağanüstü artma veya azalma olması halinde
+hizmet bedeli yeniden değerlendirilir.
+2017 sözleşme döneminde, eczane indirim oranının ve reçete başı hizmet bedelinin
+belirlenmesinde, 6736 sayılı Kanun ile eczanelere verilen işletme kayıtlarının düzeltilmesi
+hakkı çerçevesinde düzenlenen faturalar nedeniyle oluşan satış hasılatı artışı dikkate alınmaz.
+2016 yılı satış hasılatının (KDV hariç) belirlenmesinde, eczane tarafından ibraz edilen EK-5
+formda belirtilmiş olması kaydıyla işletme kaydının düzeltilmesi için kesilmiş olan faturalar
+satış hasılatından eksiltilir. Buna ilişkin fatura fotokopisi EK-5 form ekinde ilgili vergi
+dairesine ve Kuruma ibraz edilir.
+
+3.5. SUT hükümlerine göre eczacı tarafından, kapsamda sayılan kişilerden Kurum adına tahsil
+edilen poliklinik muayene katılım payları, eczacının alacağından mahsup edilir ve kalan tutar
+eczacıya ödenir.
+Kurum, devlet adına eczaneler üzerinden yapılan muayene katılım payı tahsilatı için alternatif
+uygulamalar üzerine çalışmalar yürütür.
+
+3.6. Reçete muhteviyatı ilaçlar bölünemez, reçetede yer alan tüm ilaçların aynı eczane
+tarafından verilmesi ve fatura edilmesi zorunludur.
+
+3.7. Protokol ekinde (EK-4) belirtilen reçeteler Türk Eczacıları Birliği sorumluluğunda ve
+ilgili Bölge Eczacı Odası koordinasyonunda eczanelerce eşit paylaşım esasına dayanarak üst
+limitli olarak karşılanır. Söz konusu reçeteler eczacı tarafından Bölge Eczacı Odasına
+onaylatıldıktan sonra Kuruma fatura edilecektir.
+Kurumca sağlık hizmetlerinin finansmanı sağlanan kişiler, bu madde kapsamındaki reçeteleri
+ile istedikleri eczaneye başvurabilirler. Bu madde hükmüyle ilgili düzenlemeler Protokol
+ekinde (EK-4) belirtilmiştir. Gerek duyulan konularda TEB Merkez Heyeti hastayı mağdur
+etmeyecek ilave önlemler alır. TEB Merkez Heyeti bu maddenin uygulanmasını yasal
+düzenlemeler ve mahkeme kararlarına uygun olarak yapar.
+Sisteme ilişkin Kuruma iletilen öneri ve şikâyetler Kurum tarafından yazılı olarak TEB’e
+iletilir. TEB tarafından yapılan iyileştirmeler de Kuruma yazılı olarak bildirilir.
+Bölge Eczacı Odaları tarafından hizmetin yürütümü için gerekli olan katkı payı, bu sistemin
+işleyişi için yapılan masrafları geçmeyecek şekilde TEB Merkez Heyeti tarafından belirlenir.
+Bölge Eczacı Odaları üçer aylık dönemlerde sistemin gelir ve giderlerini gösteren belgeleri
+TEB aracılığıyla Kuruma rapor eder.
+Kişilerin ilaca erişiminin, dağıtımı yapan eczacı odası tarafından aksatılması halinde bu sorun
+giderilinceye kadar aksaklığın olduğu bölgede Kurum bu madde hükmünü uygulamamaya
+yetkilidir.
+
+3.8. Bu Protokol çerçevesinde eczaneden temin edilen reçete muhteviyatı ilaçlar için eşdeğer
+ilaç uygulamasında, SUT'ta belirtilen hükümler geçerlidir. SUT eki Bedeli Ödenecek İlaçlar
+Listesinde eşdeğer grubu sütununda yer alan ilaçların ödenmesinde aşağıdaki hususlar
+uyarınca ödeme yapılır. Ancak eşdeğer ilaç uygulaması kapsamında olan, TEB tarafından
+iletilen ve piyasada bulunmayan ilaçlar, öncelikli olarak değerlendirilir.
+
+3.8.1. Reçetede yazılı ilaç, SUT’ta belirlenen yüzdelik dilim içinde ise kendisi veya ucuz olanı
+verilir ve verilen ilaç üzerinden ödeme yapılır.
+
+3.8.2. SUT'ta belirlenen yüzdelik dilim içinde ancak reçetede yazılı ilaçtan daha pahalı
+olanının verilmesi durumunda reçetede yazılı ilaç bedeli üzerinden ödeme yapılır.
+
+3.8.3. Reçetede yazılı ilaç SUT'ta belirlenen yüzdelik dilimin üzerinde ise, belirlenen yüzdelik
+dilimin içinde ilaç verilmesi durumunda verilen ilacın bedeli esas alınarak ödeme yapılır.
+3.8.4. Reçetede yazılı ilaç SUT’ta belirlenen yüzdelik dilimin üzerinde ise ve eczane
+tarafından da bu ilaç veya yüzdelik dilimin üzerinde başka bir ilaç verilmiş ise en ucuz ilaç
+bedeli üzerine SUT’ta belirlenen yüzdelik tutarın eklenmesi ile bulunacak bedel üzerinden
+ödeme yapılır.
+
+3.9. Reçetede yer alan ampul adedi kadar plastik tek kullanımlık enjektör bedeli ödenir.
+Hekimce reçeteye enjektör ve/veya adedi yazılmamış olsa dahi reçetedeki ampul sayısı kadar
+tek kullanımlık enjektör verilir. Reçeteye enjektörlerin alındığına dair bir kayıt düşülmek
+suretiyle ilgiliye imzalattırılır. Enjektör bedeli her yıl Kurumca belirlenir.
+İnsülin kalem iğne ucu bedelleri, insülin kartuşları ile birlikte ya da tek başına reçete
+edildiğinde (hastanın günlük insülin kullanımına göre) ödenir. Şeker ölçüm çubuk bedelleri,
+bunlara ait barkodun reçeteye eklenmesi halinde SUT’un ilgili maddesine göre ödenir.
+Yatan hasta için enjektör, insülin kalem iğne ucu ve şeker ölçüm çubuk bedelleri ödenmez.
+
+3.10. Bu Protokol gereği, iade edildiği halde düzeltilmeyen reçetelerin SUT’ta belirtilen
+reçete düzenleme ve ilaç yazılım esaslarına uymadığı tespit edildiğinde reçete/ilaç bedelleri
+ödenmez. Ayakta ve yatarak tedavilerde, SUT’ta öngörülen tedavi sürelerine uygun olmayan
+miktarda ilaç içeren reçetelerin verilmesi halinde, SUT’ta belirtilen tedavi süresine karşılık
+gelen miktarın bedeli ödenir. Bedeli ödenmeyen ilaçlara ait karekod bilgileri İTS’den yeniden
+satılabilir hale getirilemez, varsa kupürler iptal edilir ve eczaneye iade edilmez.
+
+3.11. Reçetelerde yazılı ilaçların ambalaj miktarı (20 tablet, 100 ml. gibi) hekim tarafından
+belirtilmemiş ise, eczacı tedaviyi sağlayabilecek mümkün olan en küçük ambalajı verecektir.
+Büyük ambalajlı olanların verilmesi halinde dahi, bedeli ucuz olan ilaç üzerinden ödeme
+yapılacaktır.
+
+3.12. Reçete ekinde yer alan ancak fatura edilmeyen ilaç fiyat kupürü ve barkod diyagramları
+iptal edilir ve iade edilmez.
+
+3.13. Reçeteler, düzenlendiği il dışındaki diğer illerden de karşılanabilir.
+
+3.14. (Değişik: 03/05/2017-2017/1 Ek Protokol 2.md. Yürürlük:03/05/2017) Bu Protokolün
+EK-6 numaralı eki “Sosyal Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği
+Üyesi Eczanelerden Tıbbi Malzemelerin Temini Sözleşmesi”ni imzalayan eczaneler
+tarafından, sözleşmede belirlenen tıbbi malzemeler, sözleşmedeki usul ve esaslara göre
+karşılanır.
+
+3.15. Reçete girişi aşamasında reçetedeki ilaçlarla uyumlu olmayan rapor seçilmiş ancak
+sistemde reçetedeki ilaçlarla uyumlu hasta adına düzenlenmiş rapor varsa kesinti yapılmaz.
+
+3.16. Eczaneler genel sağlık sigortalısı ve bunların bakmakla yükümlü oldukları kişilere
+sunmuş oldukları sağlık hizmetlerine ilişkin MEDULA eczane provizyon sistemine kayıtlı
+olan sağlık verilerini ve kişisel verileri üçüncü şahıslar ile paylaşamaz.
+
+3.17. Eczacılar, kendilerine hasta gönderilmesine yönelik olarak her ne şekilde olursa olsun,
+kurumlar, hekimler, diğer sağlık kurum ve kuruluşları ve üçüncü şahıslarla kurye şirketleri ile
+açık veya gizli işbirliği yapamaz, simsar, kurye elemanı ve benzeri yönlendirici personel
+bulunduramaz, reçete toplama ve yönlendirme yapamaz. İnternet, faks, telefon, kurye,
+komisyoncu ve benzeri yollarla eczanelere gelen reçeteler kabul edilmez. Eczacılara bu yolla
+gelen ilaç talepleri karşılanmaz. Bu durumunun Kurum veya TEB tarafından tespit edilmesi
+halinde 6197 sayılı yasanın 24 üncü maddesi gereği İl Sağlık Müdürlüğüne işlem yapılması
+için bildirilir.
+Protokolün eki (EK-4) uyarınca Bölge Eczacı Odası koordinasyonluğunda yapılan reçete
+dağıtım işlemleri bu madde kapsamı dışındadır.
+
+4.ÖDEME ŞARTLARI VE ZAMANI
+
+4.1. Faturaların düzenlenmesi
+Sözleşmeli eczanelerce protokolde belirtilen esaslar çerçevesinde karşılanan ve her ayın ilk ve
+son gününü kapsayan döneme ait reçeteler, o aya ait son günün tarihini taşıyacak şekilde
+provizyon sistemi üzerinden dönem sonlandırması yapılarak faturalandırılır. Elektronik fatura
+kullanan eczaneler için fatura düzenlenmesine ilişkin olarak Kurumca duyurulacak usul ve
+esaslara uyulacaktır.
+E-reçetelere ait herhangi bir reçete çıktısı fatura ekine konmayacaktır. (Şeker ölçüm
+çubukları, şeker ölçüm cihazı, iğne ucu ve karekodu bulunmayan ilaçları ihtiva eden e-reçete
+çıktıları hariç) Sadece icmal listesi faturaya ilave edilecektir. Protokolün 3.7 inci maddesi
+gereği karşılanan reçetelerden e-reçete olanları için ise, fatura ekinde bu reçetelere ilişkin
+bölge eczacı odasınca onaylanmış icmal listesinin bulunması yeterlidir.
+Eczaneler faturalarını; SUT’un ilgili maddesinde belirtilen usul ve esaslara göre tasnif
+edeceklerdir.
+Bu Protokolün (2) numaralı maddesinde belirtilen kişilerin eczanelere müracaatlarında,
+Kurumca finansmanı sağlanan sağlık hizmetlerinden yararlanma haklarının olup olmadığının
+tespiti için eczane provizyon sistemi üzerinden, T.C. Kimlik Numarası ile provizyon alınması
+zorunludur. Ancak, T.C. Kimlik Numarası ile provizyon alınamaması durumunda, ilgili
+Kanunlara tabi olduklarını gösterir belge ile (Provizyon sistemi üzerinden müstahaklık
+sorgulamasının yapılması sağlanıncaya kadar), müracaat ve diğer gerekli işlemler yürütülerek
+verilen hizmetlere ilişkin faturalar her hasta için ayrı ayrı olmak üzere manuel olarak
+düzenlenir. Bu kişilerin Kurum bilgi işlem sistemine T.C. Kimlik Numarasının kaydının
+sağlanması amacı ile fatura ekinde ilgili Kanunlara tabi olduklarını gösterir belge fotokopisi
+Kuruma gönderilir.
+
+4.2.Faturaların teslimi
+4.2.1. Düzenlenen faturalar, dönem sonlandırması yapılan ayı takip eden ayın ilk 15 (onbeş)
+günü içinde Kurum taşra teşkilatına teslim edilir. Her ayın ilk 15 (onbeş) günü içerisinde
+teslim edilen faturaların teslim tarihi o ayın 15 (onbeş) inci günü olarak kabul edilir. 15
+(onbeş) inci günün tatil gününe gelmesi durumunda takip eden ilk iş günü teslim edilir.
+Teslimat sırasında Kurumca evrak tarih ve numarası verilir.
+Ancak, her ayın l’i (bir) ila 15'i (onbeş) arasında karşılanan kan ürünü ve hemofili reçeteleri
+takip eden 3 (üç) iş günü içinde, 16 (onaltı) ila ay sonu arasında karşılanan reçeteler ise takip
+eden 3 (üç) iş günü içinde olmak üzere ayda iki kere faturalandırılarak Kurum taşra teşkilatına
+teslim edilir.
+
+4.2.2. Zamanında teslim edilmeyen reçetelerin inceleme ve ödeme süreci, teslim edildiği
+tarihten sonraki ay döneminde teslim alınmış gibi kabul edilerek bu tarihten itibaren başlar.
+Kuruma zamanında teslim edildiği halde Kurum tarafından hatalı kayıt yapılması ya da kayıt
+altına alınamama gibi nedenlerle ödeme geciktirilemez.
+4.2.3.Reçetelerin, faturaların ve fatura eki listelerin sorumluluğu Kurum tarafından teslim
+alınıncaya kadar (kimin tarafından teslim edildiğine bakılmaksızın) eczacıya aittir.
+      Fatura Kuruma teslim edildikten sonra fatura eki belgelerin/reçetelerin eksik teslim
+edildiğinin eczacı tarafından fark edilmesi veya Kurum tarafından örnekleme sırasında fark
+edilmesi durumunda eczacının Kuruma gerekçesi ile birlikte belgeler/reçeteleri ibraz etmesi
+halinde söz konusu evrak Kurum tarafından teslim alınır. Bir takvim yılı içerisinde söz
+konusu durumun 2 (iki)’nin üzerinde tekrarlanması halinde reçete/reçetelerin tutarının %20
+tutarında cezai şart uygulanarak reçeteler teslim alınır.
+
+4.3.Fatura inceleme ve ödeme
+4.3.1.Eczacı, sözleşme yapılması/yenilenmesi aşamasında faturalarının kontrolünde
+örnekleme yönteminin kullanılıp kullanılmaması hakkında tercihini Kuruma vereceği dilekçe
+ile bildirir. Tercihte bulunulmaması halinde örnekleme yöntemi kabul edilmiş sayılır.
+Örnekleme yapılarak fatura incelenmesi yöntemini kabul eden eczacı tarafından Kuruma
+gönderilen fatura ve eki belgeler, teslim tarihinden itibaren en geç 60 (altmış) gün içerisinde
+(Değişik: 03/05/2017-2017/1 Ek Protokol 9.md.-(b) Yürürlük:01/04/2017) “Ödeme
+Yönetmeliği”ne göre örnekleme yöntemiyle (A grubu, B grubu, C grubu için belirlenen
+oranlarda) incelenir ve inceleme sonucunda tespit edilen hata oranı reçetelerin kendi
+gruplarına uygulanarak ödeme gerçekleştirilir. Örnekleme yöntemini kabul eden eczacılara 60
+(altmış) günden önce avans ödemesi yapılabilir.
+Ayın 1 (bir) inci ve 15 (onbeş) inci günleri arasında karşılanan ve süresinde teslim edilen kan
+ürünü ve hemofili reçetelerinin fatura bedelleri bir sonraki ayın ilk 3 (üç) iş günü, ayın 16
+(onaltı) ncı ve ay sonu arasında karşılanan ve süresinde teslim edilen reçetelerin fatura
+bedelleri ise bir sonraki ayın 12 (oniki) nci ve 15 (onbeş) inci günleri arasında Kurumca
+belirlenen usul ve esaslara göre incelenerek ödenir.
+Kuruma teslim edilen örnekleme yöntemi ile incelenecek fatura eki reçeteler, reçete kontrol
+aşamasında herhangi bir kritere bağlı olmadan ve manuel müdahale olmaksızın provizyon
+sistemince sadece bir sefer örnekleme yöntemi ile seçilerek çıktı alınır. Örnekleme yöntemi
+ile seçilen bu reçeteler eczacı tarafından sistemden görülür.
+Örnekleme yöntemini tercih etmeyen eczacı tarafından Kuruma teslim edilen fatura eki
+reçetelerin tamamı incelenerek, fatura teslim tarihinden itibaren 60 (altmış) ıncı gün itibariyle
+(Değişik: 03/05/2017-2017/1 Ek Protokol 9.md.-(b) Yürürlük:01/04/2017) “Ödeme
+Yönetmeliği”ne göre ödenir. Bu süreden önce avans ödemesi yapılmaz.
+
+4.3.2. Kurumca iade edilen reçeteler eczacı tarafından gerekli düzeltmeler yapıldıktan sonra
+teslim alındığı tarihten itibaren 15 (onbeş) işgünü içerisinde Kuruma teslim edilir. Bu süre
+içerisinde teslim edilmeyen reçete bedelleri veya eksiklikleri tamamlanmadan Kuruma teslim
+edilen reçete/reçetedeki eksikliği olan ilaç bedelleri ödenmez. Ödenmeyen bedel ödenecek
+miktardan düşülerek, döneme ait fatura bedeli takip eden ilk ödeme döneminde ödenir.
+Örnekleme yöntemini kabul eden eczaneler için, ödenmeyen bedeller hata oranı tespitinde
+dikkate alınarak faturaya yansıtılır.
+        İlgili hekime yukarıdaki süre içerisinde ulaşılamadığının eczacı tarafından belgelenerek
+Kuruma başvurulması halinde 15 (on beş) iş günü ek süre tanınır.
+
+4.3.3. Kurum inceleme sonucunda tespit ettiği hata oranını, hata tutarını ve hatalı bulunan
+hususları eczaneye, provizyon sistemi üzerinden gönderilen mesaj ve ayrıca sistem elverdiği
+ölçüde SMS ile eczacıya bildirir. Provizyon sistemi üzerinden yapılan bildirim esas alınır.
+4.3.4. Kurumca örnekleme yöntemi ile yapılan inceleme sonucunda tespit edilen hata oranının
+A grubu reçetelerde %3’ün, B grubu reçetelerde %5’in üzerinde olması halinde provizyon
+sisteminden, eczacının ekranına 5 (beş) iş günü süreyle kırmızı bantlı uyarı yapılacaktır.
+Eczacı tarafından bu reçetelerin tamamının kontrol edilmesinin uyarının yapıldığı günü takip
+eden 5 (beş) iş günü içinde yazılı olarak talep edilmesi halinde ilgili fatura dönemine ilişkin
+incelenmesi istenen gruptaki tüm reçeteler incelenir. Bu madde gereği işlem yapılan eczacıya,
+daha önce ödeme yapılmamış ise, fatura teslim tarihinden itibaren 60 (altmış) gün içinde
+alacaklarından mahsuben fatura tutarının tamamının avans ödemesi yapılır, fatura teslim
+tarihinden itibaren 90 (doksan) gün içinde de reçetelerin tamamı incelenir.
+Bu madde kapsamında eczacıya yapılan yersiz ödemeler, eczacının Kurumda tahakkuk etmiş
+alacağından mahsup edilir. Kurumda tahakkuk etmiş alacağı veya yeterli alacağı bulunmayan
+eczacılar için Kurum alacağı genel hükümlere göre tahsil edilir.
+
+4.3.5. Örnekleme yöntemini kabul eden eczacı tarafından, itiraz inceleme komisyonuna
+başvurulması halinde, Kurum tarafından örnekleme yöntemi ile yapılan inceleme sonucunda
+belirlenen fatura tutarı için daha önce ödeme yapılmamış ise, fatura teslim tarihinden itibaren
+60 (altmış) gün içinde alacaklarından mahsuben fatura tutarının tamamının ödemesi yapılır.
+Fatura teslim tarihinden itibaren 90 (doksan) gün içinde de reçetelerin tamamı incelenir.
+Eczane itiraz inceleme komisyonu; sağlık sosyal güvenlik merkez müdürü veya
+görevlendireceği personel başkanlığında, sağlık sosyal güvenlik merkezinde görev yapan 1
+(bir) sağlık hizmetleri sınıfı personeli ile reçetesi incelenen eczacı ve bölge eczacı odasından
+bir eczacı olmak üzere toplam 4 (dört) kişiden oluşur. Reçetesi incelenen eczacının itiraz
+inceleme komisyonuna katılamaması halinde yazılı olarak yetkilendireceği başka bir eczacı
+komisyona katılabilir. Kararlar oyçokluğu ile alınır. Eşitlik olması halinde genel müdürlükte
+oluşturulan itiraz inceleme üst komisyonuna gönderilir.
+İtiraz inceleme üst komisyonuna gönderilecek olan itiraza konu belgelerin bir nüshası ilgili
+bölge eczacı odasına verilir.
+Genel müdürlük itiraz inceleme üst komisyonu; Kurumu temsilen 2 (iki) kişi, TEB’i temsilen
+1 (bir) kişi olmak üzere toplam 3 (üç) kişiden oluşur. Kararlar oybirliği ile alınır. Bu konuda
+huzur hakkı ödenmez.
+Örnekleme yöntemini kabul etmeyen eczacının reçeteleri Kurum tarafından incelenir ve
+komisyona gerek kalmaksızın sonuçlandırılır.
+
+4.3.6. Protokolün (5.3) numaralı maddesindeki fiillerin tespit edildiği reçetede fiili
+ilgilendiren reçete veya ilaç bedelleri ödenmez (5.3.3, 5.3.6 ve 5.3.14 maddeleri hariç).
+Kurumca yapılan yersiz ödemeler varsa, ödeme tarihinden itibaren hesaplanacak yasal faizi
+ile birlikte eczacının Kurumda tahakkuk etmiş alacağından mahsup edilir. Eczacının
+alacağının yersiz ödeme tutarını karşılamaması veya alacağının olmaması halinde, genel
+hükümlere göre tahsil edilir.
+
+4.3.7. Eczacının kendisinin ve/veya çalışanlarının Kuruma sigorta prim aslı, işsizlik sigortası
+prim aslı, cezai şart ile bunlara bağlı gecikme cezası, gecikme zammı ve doğabilecek diğer
+ferilerine ilişkin borcu bulunması halinde bu borç miktarı yasal faizi ile birlikte eczanenin
+Kurumdaki alacağından düşüldükten sonra varsa kalan tutar eczacıya ödenir. Bu işlemlerle
+ilgili belgenin bir sureti ilgiliye gönderilir.
+       Yukarıda sayılan konularda ve bu protokolden kaynaklı Kurum tarafından eczacıya
+yapılacak her türlü ödemelerde de yasal faiz uygulanır.
+4.3.8. Eczacının yazılı müracaatı halinde kesinleşmiş dönemlerle ilgili kesinti oranlarını ve
+tutarlarını gösteren bir belge eczacıya verilir.
+
+4.3.9. Kurum tarafından yapılan ödemelerde; ödemeye ait tutarın hangi faturaya ait olduğunun
+belirlenebilmesi için banka bilgilerine fatura numarası veya icmal döküm numarası
+yazılmasına ilişkin çalışma Kurum tarafından tamamlanır.
+
+5.SÖZLEŞMENİN FESHİ VE CEZAİ ŞARTLAR
+
+5.1. Taraflar bir ay önceden yazılı bildirimde bulunmak şartıyla sözleşmeyi her zaman
+feshedebilir.
+
+5.2. Savunma
+Bu protokolün (5) numaralı maddesinde yer alan fiillerin tespiti halinde eczacıya 15 (onbeş)
+gün süre verilerek eczacının yazılı savunması istenir. Talep edilmesi halinde soruşturmanın
+gizliliğine riayet edilerek savunma istenilen konuyla ilgili eczacının Protokol kapsamında
+yaptığı iş ve işlemlere yönelik bilgi ve belgelerin birer örneği eczacıya verilir. Bu süre
+içerisinde savunma verilmesi halinde savunması Kurum taşra teşkilatınca değerlendirilir. 15
+(onbeş) gün içerisinde savunma verilmemesi halinde Kurumca işlemlere devam edilir.
+(Değişik: 03/05/2017-2017/1 Ek Protokol 3.md. Yürürlük:01/04/2017) Sözleşme feshi, uyarı
+ve cezai şartlara yapılacak itirazlar EK-7’de yer alan “Eczanelerin Sözleşmeden Kaynaklı
+Yaptırımlara İlişkin İtirazlarının Değerlendirilmesine İlişkin Usul Ve Esaslar” doğrultusunda
+değerlendirilir.
+
+5.3. Cezai şart uygulanacak fiiller, fesih nedeni fiiller ve sözleşme yapılmayacak süreler
+
+5.3.1. Reçetede yazılan ilacın eczanede bulunduğu halde eczanede bulunan ilacın
+verilmediğinin ve/veya reçete karşılamada reçete veya hasta seçimi yapıldığının ve/veya
+reçete sahibinin kurallara uygun yazılmış ve provizyon sisteminin onay verdiği reçetesinde
+yer alan ilacı hastaya bedeli karşılığında satıldığının tespiti halinde, eczane yazılı olarak
+uyarılır, tekrarı halinde sözleşme feshedilir ve 2 (iki) ay süre ile sözleşme yapılmaz. Hastanın
+kendi isteğiyle aldığı reçeteler için bu madde hükmü uygulanmaz.
+
+5.3.2. Eczacının Kuruma fatura ettiği reçetelerde (e-reçete olarak düzenlenenler hariç)
+bulunması gereken ve reçete muhteviyatı ilaçların reçete sahibine ya da ilacı alana teslim
+edildiğine ilişkin imzanın, reçete sahibine veya ilacı alana ait olmadığının tespit edilmesi
+halinde, reçete bedelinin 2 (iki) katı tutarında cezai şart uygulanarak eczacı yazılı olarak
+uyarılır, tekrarı halinde reçete bedelinin 5 (beş) katı tutarında cezai şart uygulanarak sözleşme
+feshedilir ve 1 (bir) ay süre ile sözleşme yapılmaz. Ancak hastanın ilacı aldığını beyan etmesi
+durumunda bu madde hükmü uygulanmaz.
+
+5.3.3. Sözleşmesi feshedilen eczacıya ait reçetelerin Kurum ile sözleşmeli eczacı tarafından
+Kuruma fatura edilmesi halinde, reçete bedelinin 10 (on) katı tutarında cezai şart uygulanarak
+eczacı uyarılır. Tekrarı halinde reçete bedelinin 20 (yirmi) katı tutarında cezai şart
+uygulanarak sözleşme feshedilir ve 6 (altı) ay süre ile sözleşme yapılmaz.
+
+5.3.4. Reçetede yazılı ilaç yerine farmasötik eşdeğer olmayan ilaç verilmesi durumunda bir
+fatura döneminde ilaç bedelinin 5 (beş) katından az olmamak üzere 500 (beşyüz) TL cezai
+şart uygulanır.
+Bu maddenin uygulanmasında reçetenin karşılandığı tarihteki Kurum provizyon sistemindeki
+eşdeğer tablosu dikkate alınır.
+
+5.3.5. Kurum, İl Sağlık Müdürlüğü veya Eczacı Odası tarafından eczanede yapılan denetimde,
+reçete sahibi veya ilacı alan kişiye teslim edilmeyen ilaçlara ait reçetelerin Kuruma fatura
+edildiğinin tespiti halinde ilaç bedelinin 2 (iki) katı tutarında cezai şart uygulanarak eczacı
+uyarılır. Tekrarı halinde ilaç bedelinin 10 (on) katı tutarında cezai şart uygulanarak sözleşme
+feshedilir ve 6 (altı) ay süre ile sözleşme yapılmaz. Ancak, Kurum tarafından yapılacak
+soruşturma neticesinde hastaya teslim edilmek üzere hastanın ilaç alım tarihinden itibaren 60
+(altmış) günü geçmeyecek sürede ilaçların eczanede bekletildiğinin saptanması halinde bu
+madde hükmü uygulanmaz.
+
+5.3.6. Kurumun mahsup suretiyle tahsilini yaptığı haller hariç olmak üzere, alınması gereken
+ilaç katılım payları ve/veya poliklinik muayene katılım payını ve/veya eşdeğer ilaç
+uygulaması nedeniyle oluşan fiyat farklarını tahsil etmeyen veya hastaya iade eden eczacılara,
+ilk tespitte 500 (beşyüz) TL cezai şart uygulanarak eczane yazılı olarak uyarılır, yazılı uyarıya
+rağmen tekrarı halinde sözleşme feshedilir ve 1 (Bir) ay süre ile sözleşme yapılmaz. Tespit
+işlemi Kurumca yapılabileceği gibi ilgili eczacı odası tarafından da yapılabilir. Tespit
+işleminin, ilgili eczacı odası tarafından yapılması ve Türk Eczacıları Birliği Merkez Heyetince
+onaylanarak Kuruma yazılı olarak bildirilmesi halinde Kurum tarafından madde hükümleri
+uygulanır. Eczacı odası tespiti ve TEB Merkez Heyeti onayına istinaden yapılan işlemlerin
+yargı kararı ile haksız yapıldığına karar verilmesi durumunda, eczacının uğradığı her türlü
+maddi ve manevi zarar, tespiti yapan eczacı odası ile Türk Eczacıları Birliğince müteselsilen
+karşılanır. Ancak Kurum aleyhine dava açılması halinde, açılan dava Türk Eczacıları Birliğine
+ihbar edilir. Eczacı tarafından, poliklinik muayene katılım payı tahsil edilmemesi veya iade
+edilmesi halinde uygulanacak cezai şart tutarının hesaplanmasında (6.17) numaralı madde
+hükmünün son fıkrası uygulanmaz.
+
+5.3.7. Resmi veya özel sağlık kurum ve kuruluşlarına ait ilaçların kupürlerinin veya bedeli
+daha önce ödenmiş reçetelere ait kupürlerin Kuruma fatura edildiğinin tespit edilmesi halinde
+3.000 (üç bin) TL cezai şart uygulanır. Bu madde protokolün imzalanmasından itibaren 1 (bir)
+yıl geçerlidir.
+
+5.3.8. Kuruma fatura edilen reçetede ya da reçete ekinde bulunması gereken belgelerde (e-
+reçete ve/veya e-rapor olarak düzenlenenler hariç) (tıbbi bilgi ve belgeler de dahil olmak
+üzere) eczacı veya eczane çalışanları tarafından tahrifat yapıldığının ve Kurum zararının
+oluştuğunun tespiti halinde reçete bedelinin 10 (on) katı tutarında cezai şart uygulanarak
+eczacı uyarılır. Tekrarı halinde reçete bedelinin 20 (yirmi) katı tutarında cezai şart
+uygulanarak sözleşme feshedilir ve 1 (bir) yıl süreyle sözleşme yapılmaz.
+
+5.3.9. Kurumca yapılan incelemeler neticesinde Provizyon sistemine gerçeğe aykırı reçete
+kaydı yapılarak Kuruma fatura edildiğinin tespiti halinde reçete bedelinin 10 (on) katı
+tutarında cezai şart uygulanarak eczacı uyarılır. Tekrarı halinde reçete bedelinin 20 (yirmi)
+katı tutarında cezai şart uygulanarak sözleşme feshedilir ve 1 (bir) yıl süre ile sözleşme
+yapılmaz. Ancak bu durumun sehven yapıldığının eczacı tarafından bildirilmesi ve Kurumca
+yapılacak araştırma ve/veya inceleme sonucunda tespit edilmesi durumunda bu hüküm
+uygulanmaz.
+5.3.10. Eczacı ya da eczane çalışanlarınca Kurumu zarara uğratmak amacıyla kasıtlı olarak
+Kuruma sahte ilaç fiyat kupürü/sahte karekod, sahte reçete veya sahte rapor fatura edildiğinin
+tespiti halinde reçete bedelinin 10 (on) katı tutarında cezai şart uygulanarak eczacı uyarılır.
+Tekrarı halinde reçete bedelinin 20 (yirmi) katı tutarında cezai şart uygulanarak sözleşme
+feshedilir ve 1 (bir) yıl süreyle sözleşme yapılmaz.
+Ancak, söz konusu sahte ilaç fiyat kupürü/sahte karekod, sahte reçete veya sahte raporun
+eczacı yada eczane çalışanları dışında üçüncü kişilerin dahli ile Kuruma fatura edildiğinin
+yapılacak araştırma ve/veya inceleme sonucunda tespit edilmesi halinde, bu madde hükmü
+uygulanmaz.
+
+5.3.11. Eczacı, Kurum ile Kuruma bağlı vakıf, dernek gibi kuruluşlara bağış yapamaz, hediye
+vb. şekilde katkıda bulunamaz. Bu durumun tespit edilmesi halinde sözleşme feshedilir, 3 (üç)
+ay süre ile sözleşme yapılmaz. Tespit işlemi Kurumca yapılabileceği gibi ilgili eczacı
+odasınca da yapılabilir. Tespit işleminin, ilgili eczacı odasınca yapılması ve Türk Eczacıları
+Birliği Merkez Heyetince onaylanarak Kuruma yazılı olarak bildirilmesi halinde Kurumca
+fesih yapılır. Yargı kararı ile haksız yapıldığına karar verilen tespitler nedeniyle sözleşmesi
+feshedilen eczacının uğradığı her türlü maddi ve manevi zarar, tespiti yapan eczacı odası ile
+Türk Eczacıları Birliğince müteselsilen karşılanır. Ancak Kurum aleyhine dava açılması
+halinde, açılan dava Türk Eczacıları Birliğine ihbar edilir.
+
+5.3.12. Eczanenin muvazaalı olarak faaliyet gösterdiğine ilişkin bulguların tespit edilmesi
+halinde durum ivedilikle İl Sağlık Müdürlüğüne ve TEB’e bildirilir. Kurum gerekli
+incelemeleri yapar. Bu süreç içerisinde Sağlık Müdürlüğünden ve/veya TEB’den eczanenin
+muvazaalı olduğuna dair bilgi/karar gelmesi halinde sözleşme feshedilir.
+Eczacı tarafından eczanenin muvazaalı olarak işletildiğinin Kuruma bildirilmesi halinde
+eczanenin ekranı kapatılarak tüm ödemeleri durdurulur.
+Eczanenin muvazaalı olarak işletildiğinin tespiti halinde sözleşme tarihinden itibaren
+Kurumca eczaneye yapılan tüm ödemeler geri alınır.
+Sağlık Bakanlığı tarafından muvazaalı eczane işletmesi nedeni ile ruhsatnamesi iptal edilmiş
+eczacı ile 5 (beş) yıl süre ile sözleşme yapılmaz.
+Kurumca eczanelerde yapılan denetimlerde eczacının mazeretsiz olarak eczanede
+bulunmadığının 3 (üç) kere tespiti halinde durum İl Sağlık Müdürlüğüne bildirilir. İl Sağlık
+Müdürlüğünden eczanenin muvazaalı olduğuna dair bilgi/karar gelmesi halinde söz konusu
+karara göre işlem yapılır.
+
+5.3.13. Bu sözleşmenin (7.3) ve (7.5) numaralı maddeleri kapsamındaki bildirimlerin süresi
+içerisinde yapılmaması halinde eczacıya 500 (beşyüz) TL cezai şart uygulanır.
+Ancak eczanenin herhangi bir şekilde yerinin değişmemesi, adres değişikliğinin belediyenin
+veya kamu idaresinin yapmış olduğu değişiklik nedeniyle oluşması halinde cezai şart
+uygulanmaz.
+
+5.3.14. Muayene katılım payını tahsil etmemek amacıyla reçete girilip silinmesi, hastanın ilaç
+almasını engellemek amacıyla reçete girilip silinmesi, hastanın rızası dışında adına devam
+reçetesi girilip silinmesi veya ilaç veriliş sürelerini ihlal amacıyla reçete girilip silinmesi
+fiillerinin tespit edilmesi durumunda yapılan her işlem için fiile iştirak eden tüm eczanelere
+ayrı ayrı 100 (yüz) TL cezai şart uygulanarak eczane yazılı olarak uyarılır. Maddede sayılan
+fiillerden herhangi birinin tekrarı halinde cezai şart miktarı 300 (üçyüz) TL olarak uygulanır.
+6. CEZAİ ŞART VE FESHE İLİŞKİN GENEL HÜKÜMLER
+
+6.1. Bu Protokol hükümleri ile ilgili olarak ceza hukuku açısından suç teşkil eden fiillerin
+tespiti halinde, ilgili Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+
+6.2. Hakkında suç duyurusunda bulunulan ve sözleşmesi feshedilen eczacı veya mesul müdür
+hakkında takipsizlik kararı verilmesi ve bu kararın kesinleşmesinden sonra talep halinde
+sözleşme yapılır.
+
+6.3. Bu Protokol hükümleri ile ilgili olarak hakkında suç duyurusunda bulunulan ve açılan
+Kamu davası sonucunda ceza mahkemesi tarafından beraat kararı verilen eczacının beraat
+kararından sonra talebi halinde sözleşme yapılır.
+
+6.4. Fiilin/fiillerin tekrar olup olmadığının tespitinde, tebligat tarihleri esas alınır,
+fiilin/fiillerin işlendiği tarihten geriye doğru Kurumla sözleşmeli olduğu süreler dikkate
+alınarak son 1 (bir) yıla bakılır.
+Uyarının eczacıya tebliğ edildiği tarihten sonraki 1 (bir) yıl içerisinde karşılanarak Kuruma
+fatura edilmiş olan reçetelerde, aynı fiilin tekrar işlendiğinin tespiti halinde fesih işleminin
+gereği uygulanır.
+
+6.5. Yazılı uyarının tebliğ edildiği tarihten önceki dönemlere ait olup Kuruma teslim edilmiş
+reçetelerde aynı fiilin tekrarının tespiti halinde cezai şart, ilk tespit gibi uygulanır.
+Yazılı uyarının tebliğ edildiği tarihten önceki dönemlere ait olup Kuruma teslim edilmiş
+reçetelerde, uyarı yapılan aynı fiilin/fiillerin tekrarının tespiti halinde, fiilin/fiillerin
+gerektirdiği fesih hükümleri uygulanmaz, yazılı uyarıyı gerektiren her fiil için eczacı uyarılır.
+
+6.6. Eczacı tarafından, bu protokolün (5.3) numaralı maddesinde belirtilen fiillerden fesih
+gerektiren birden fazla farklı fiilin aynı veya farklı fatura döneminde tespiti halinde yeniden
+sözleşme yapılması için bekleme sürelerinden uzun olan süre uygulanır.
+
+6.7. Protokolün (5) ve (6.1) numaralı maddelerinde belirtilen fiiller nedeniyle Kurum
+tarafından yapılan cezai şart, uyarı ve fesih işlemleri, eczacının T.C. Kimlik Numarası,
+eczanenin ve eczacının ismi, yapılan işleme esas protokol yılı ve ilgili protokol hükümleri ile
+fesih başlangıç tarihi ve süresi, tebligat masrafları TEB tarafından karşılanmak üzere Türk
+Eczacıları Birliğine bildirilir.
+
+6.8. Fesih nedeniyle sözleşme yapılmayacak süre içinde sözleşmesi feshedilen eczacının yeni
+bir isimle veya başka bir adreste eczane açması, eczane devir alması veya mesul müdür olarak
+görev alması halinde eczacı ile sözleşme yapılmaz.
+
+6.9. Fesih nedeniyle sözleşme yapılmayacak süre dolduğunda, feshe ilişkin yargı süreci
+devam etse dahi eczacının talebi halinde sözleşme yapılır.
+
+6.10. Bu protokolün yürürlük tarihinden önceki dönemlerde geçerli olan protokol
+hükümlerine göre Kuruma fatura edilen ve kontrolleri Kurum tarafından bu Protokol yürürlük
+tarihinden sonra yapılan reçeteler için, ya da reçete kontrolleri yapılmış olmakla birlikte fesih
+uyarı ve cezai şarta ilişkin işlemlerin henüz tamamlanmadığı durumlarda tespit edilen
+fiil/fiiller için Kurumca bu Protokol hükümleri uygulanır.
+Ancak eczacı tarafından Kurumdan tebligat tarihinden itibaren bir defaya mahsus olmak
+üzere yazılı olarak talep edilmesi halinde, ilgili protokol hükümleri uygulanır.
+
+6.11. Bu Protokol ve bu Protokolün yürürlük tarihinden önce geçerli olan protokol
+hükümlerine göre sözleşmesi feshedilen ve Kurum aleyhine feshe ilişkin dava açmış ve
+ihtiyati tedbir kararı almış eczacı ile ihtiyati tedbir kararı çerçevesinde ihtirazı kayıtla
+sözleşme devam eder. Sözleşmenin yenilenmesi gerektiğinde ihtirazi kayıtla sözleşme
+yenilenir.
+Ancak ihtiyati tedbir kararının kaldırılması ve/veya davanın reddedilmesi halinde sözleşme
+feshedilir ve fesih nedeniyle sözleşme yapılmayacak süre uygulanır.
+
+6.12. Bu Protokolün yürürlük tarihinden önce herhangi bir nedenle Kurumca veya Kuruma
+devredilen kurumlarca sözleşmesi feshedilen ve/veya cezai şart uygulanan eczacının bu
+işleme karşı dava açmış olması ve açılan davanın Protokolün yürürlüğe girdiği tarihte
+kesinleşmemiş olması halinde yazılı talebi ile; Kurumca tespit edilen ve sözleşmesinin
+feshedilmesi ve/veya cezai şart uygulanmasına ilişkin fiil/fiiller için bu Protokolün (5) ve (6)
+numaralı maddelerinde yer alan hükümler uygulanır. Ancak Kurumca tahsil edilmiş olan
+cezai şart ve yersiz ödeme tutarları geri ödenmez, mahsup edilmez.
+       Bu protokolden önceki protokollerde sözleşmenin feshi ve cezai şart gerektiren
+maddelerden bu protokolde kaldırılmış olanlar nedeniyle sözleşme feshi ve/veya cezai şart
+uygulanmış olan işlemler, konusu kalmadığından durdurulur ve işlem yapılmaz.
+Bu Protokolün yürürlük tarihinden önce (5.3) numaralı maddede sayılan fiillerden dolayı
+sözleşmesi feshedilen ve/veya cezai şart uygulanan eczanelerin yazılı talebi üzerine, bu
+Protokoldeki cezai şart ve fesih hükümleri uygulanır. Ancak eczanenin feshine ilişkin fiil için;
+bu Protokol hükümlerinde eczacının yazılı olarak uyarılması ve/veya “tekrarı halinde” yeni
+bir yaptırım belirtilmiş ise, bu Protokolün yürürlük tarihinden önce yapılmış fesih işlemi
+“yazılı olarak uyarı” ve/veya fesih işlemine esas fiil ise tekrara dayalı yaptırımlar için ilk fiil
+olarak kabul edilir.
+Bu madde hükmü uygulanırken daha önce Kuruma devredilen kurumlar ile yapılan
+protokoller gereği sözleşmesi feshedilen eczacı için, fesih tarihinden itibaren geçen süre bu
+Protokol hükümlerine göre sözleşme yapılmayacak süreden düşülür.
+
+6.13. Kurum, herhangi bir şikayet ya da tespit ettiği bir husus nedeniyle gerekçeli olarak, bu
+Protokolün uygulanmasıyla ilgili hususları, eczane nezdinde yapılacak olan da dahil olmak
+üzere, Kurum müfettişleri, Kurumun kontrol ve denetim ile görevli memurları ve Kurum
+yetkilileri marifeti ile her zaman incelettirebilir. Kurum yetkilileri tarafından yapılacak
+denetimlerde çalışanların sigortalı olup olmadıklarının tespiti yapılarak, sigortasız çalışanlar
+Kurumun ilgili birimine bildirilir. Kurum yetkilileri tarafından eczane içinde yapılacak
+inceleme ve denetimler Bölge Eczacı Odalarınca görevlendirilecek denetçi eczacı ile birlikte
+yapılır. Bölge Eczacı Odaları, Kurumun denetçi eczacı görevlendirilmesine dair yazılı
+taleplerini karşılarlar. Bu talebin karşılanmaması halinde denetim Kurum elemanlarınca
+gerçekleştirilir.
+
+6.14. Sağlık Bakanlığı ve İl Sağlık Müdürlüklerince görevlendirilen yasal denetçiler
+tarafından eczanede yapılan denetimlerde bu Protokolde sözleşmenin feshini ve/veya cezai
+şart gerektiren hususlarının tespit edilerek Kuruma bildirilmesi halinde, bu durum Kurum
+tarafından değerlendirilerek fesih hükümleri ve süreleri ile cezai şartlara ilişkin işlem yapılır.
+6.15. Türk Eczacıları Birliği Merkez Heyeti ve Bölge Eczacı Odaları tarafından yapılan
+denetimlerde, bu Protokolde sözleşmenin feshini ve/veya cezai şartı gerektiren hususların
+tespiti halinde bu hususlar Kuruma bildirilir. Kurum tarafından değerlendirilerek yukarıda
+belirtilen fesih hükümleri ve süreleri ile cezai şarta ilişkin işlem yapılır. Kurum aleyhine dava
+açılması halinde, açılan dava Türk Eczacıları Birliğine ihbar edilir. Eczacı odası tespiti ve
+TEB Merkez Heyeti onayına istinaden yapılan işlemlerin yargı kararı ile haksız olduğuna
+ilişkin karar verilmesi durumunda, eczacının uğradığı her türlü maddi ve manevi zarar, tespiti
+yapan eczacı odası ile Türk Eczacıları Birliğince müteselsilen karşılanır.
+
+6.16. Cezai şart, uyarı ve feshe ilişkin işlemlerde tebligat tarihi esas alınır.
+
+6.17. Bir fatura dönemi için uygulanacak cezai şartın hesaplanması reçete bazında yapılır. Bir
+reçetede birden fazla usulsüz fiilin tespit edilmesi durumunda cezai şartlardan en yüksek olanı
+esas alınır.
+Bir fatura döneminde cezai işlem gerektiren birden fazla reçete tespit edilmesi halinde
+belirlenen cezai şartlar her bir reçetedeki tespit için ayrı ayrı hesaplanıp bu bedeller toplanmak
+suretiyle tahsil edilir.
+Cezai şartlar reçete/ilaç bedelinden az olamaz. (Bu maddenin uygulanmasında Protokolün
+5.3.4, 5.3.6 ve 5.3.14 numaralı madde hükmü hariçtir.)
+Kurumca uygulanacak cezai şart tutarının her fiil için 250 (ikiyüzelli) TL’den az olması
+halinde, alınacak cezai şart bedeli 250 (ikiyüzelli) TL olarak uygulanır. Belirtilen aynı
+fiilin/fiillerin son 1 (bir) yıl içinde tekrarlandığının tespit edilmesi halinde uygulanacak cezai
+şart bedeli her fiil için 500 (beşyüz) TL olarak uygulanır.
+
+6.18. Kurumca cezai şartların eczacıya tebliğinde, tespit edilen her bir fiil ve her cezai şart
+tutarı açıkça belirtilir. Fiillerle ilgili cezai işlemin tebliği aşamasında tüm tespitler yazılı
+olarak bildirilir.
+
+6.19. Cezai şart tutarı, tebliğ tarihini takip eden 15 (onbeş) işgünü içerisinde eczacı tarafından
+talep edilmesi halinde 6 (altı) eşit taksitte tahsil edilebilir. Tahsilat, eczanenin Kurumdan
+alacağı bulunması halinde, alacağından taksitle mahsup edilmesi şeklinde de yapılabilir.
+Ancak eczacının, alacağının cezai şart tutarını karşılamaması, alacağının olmaması veya
+taksitlerini ödememesi halinde, ceza miktarı genel hükümlere göre tahsil edilir.
+
+6.20. Konusu suç teşkil eden hususla ilgili bu Protokolün (6.1) maddesi uyarınca hakkında
+Cumhuriyet Savcılığına suç duyurusunda bulunulan ve kamu davası açılarak dava sonucunda
+suçu sabit görülen eczacıya ilgili madde gereğince fesih cezası uygulanır.
+      Söz konusu maddenin yürütümünde 5510 sayılı Kanunun 103. maddesi esas alınır.
+
+7. PROTOKOLE İLİŞKİN GENEL HÜKÜMLER
+
+7.1. Kurumla eczane arasında bu protokol esaslarına göre her yılın Nisan ayında sözleşme
+yenilenir. Kurum ile TEB arasında yapılacak ek protokol veya protokollerle düzenleme
+yapılması halinde, sözleşmeli eczacı bu düzenlemelere uymakla yükümlüdür. Kurum,
+Protokol hükümlerini kabul eden ve başvuru formunu getiren eczacı ile (feshi gerektirecek
+hususlar nedeniyle sözleşmeleri feshedilenlerin fesih süreleri boyunca ve muvazaalı olarak
+açıldığı kanıtlanan eczaneler hariç) sözleşme yapar. Eczacı sözleşmede protokol hükümlerini
+okuduğunu ve kabul ettiğini el yazısı ile yazacaktır.
+[(03/05/2017-2017/1 Ek Protokol 10.md. Yürürlük:01/04/2017) Madde 10- Protokolün 7.1
+numaralı maddesinin uygulanmasında 5510 sayılı Kanunun 103 üncü maddesi ve Sosyal
+Güvenlik Kurumu Sağlık Hizmeti Satın Alım Sözleşmelerinin/ Protokollerinin Hazırlanması
+ve Akdedilmesine İlişkin Yönetmelik hükümlerine uyulur.]
+
+7.2. Kurum tarafından eczacıya yapılacak tebligatlar sözleşmede belirttiği adresine, eczacı
+tarafından Kuruma yapılacak bildirimler ise Kurumun taşra teşkilatına yapılır. Tebligatlar,
+7201 sayılı “Tebligat Kanunu” hükümlerine göre ve iadeli taahhütlü olarak yapılır.
+
+7.3. Sözleşmede belirtilen adrese yapılan tebligatlar, eczacıya yapılmış sayılır. Adres
+değişikliği halinde eczacı adres değişikliğini ruhsatnamenin eczacıya teslim edildiği tarihten
+itibaren 5 (beş) işgünü içinde yazılı olarak Kurumun taşra teşkilatına bildirir. Aksi halde
+bildirilen son adrese yapılan tebligatlar geçerli sayılır. Kamu idareleri veya belediyeler
+tarafından yapılan değişiklikler nedeniyle oluşan adres değişiklikleri için süre şartı aranmaz.
+
+7.4. Eczanenin unvanının ve/veya mesul müdürünün değişmesi halinde unvan değişikliği
+ve/veya mesul müdürün ayrılışı, değişiklik ve/veya ayrılış tarihinde eczacı tarafından yazılı
+olarak Kuruma bildirilir. Kurum tarafından bu tarih itibariyle reçete girişi durdurulur. Mesul
+müdürün sözleşme yapmaya engel halinin olmaması halinde sözleşme devam eder ve reçete
+girişi açılır, aksi halde sözleşme feshedilir.
+
+7.5. Eczanenin kapanması devredilmesi veya ruhsatının askıya alınması halinde; kapanma
+devir veya ruhsatın askıya alınma tarihinde sözleşme kendiliğinden sona erer, Kapanış, devir
+veya askıya alınma işlemi 15 (onbeş) gün içinde Kuruma bildirilir.
+
+7.6. Kapanma, devir veya ruhsatın askıya alınma tarihine kadar eczane tarafından karşılanan
+reçeteler protokolün (4.2) numaralı maddesi doğrultusunda Kuruma teslim edilir. Bu faturalar
+Kurum tarafından öncelikli olarak kontrol edilir ve bedelleri (4.3) numaralı maddesi
+esaslarına göre ödenir.
+
+7.7. Kurum tarafından yapılan inceleme sonucu Protokol hükümlerine göre eczacıya iadesi
+gereken reçeteler, /faturalar,      Kurumca elden veya ödemeli olarak gönderilir. Bu
+reçeteler/faturalar eczane tarafından Kuruma kargo ile veya iadeli taahhütlü posta yoluyla
+gönderilebileceği gibi elden de teslim edilebilir. Kargo ile yapılan geri gönderme işlemlerinde
+kargoya veriliş tarihi Kuruma teslim edildiği tarih olarak değerlendirilir.
+
+7.8. Eczacı, Kurumdan doğmuş ve doğacak alacaklarını hiçbir suretle devir ve temlik edemez.
+
+7.9. Sözleşmeden doğacak her türlü vergi, resim, harç ve masraflar eczacı tarafından
+karşılanır.
+
+7.10. Sözleşmenin herhangi bir nedenle sona ermesi halinde, bu süre zarfında işleme alınmış
+olan fatura/faturalar ve eki belgeler, sözleşme hükümlerine göre sonuçlandırılır.
+
+7.11. Protokol hükümleri ancak tarafların mutabakatı ile değiştirilebilir.
+
+7.12. Eczacı tarafından ilk kez sözleşme imzalanması halinde eczacıya ait;
+- Kimlik fotokopisi (T.C. Kimlik Numarası ile birlikte),
+- Ruhsat fotokopisi,
+- İmza sirkülerinin noter onaylı örneği,
+- Bölge Eczacı Odasından onaylı sözleşme metni
+- Mükellefin bağlı olduğu vergi dairesinden alınan bir önceki yıl hasılatını gösteren onaylı
+form (yeni açılan eczaneler hariçtir),
+- Örnekleme metodu ile inceleme istenmemesi halinde bunu belirten dilekçe,
+- Eczacı odasından alınan yeni tarihli “Sözleşmeye Engel Yoktur” belgesi,
+Kuruma bir dilekçe ekinde ibraz edilecektir.
+
+7.13. Sözleşmenin yenilenmesi halinde;
+- Değişiklik olması halinde ruhsat fotokopisi,
+- Mükellefin bağlı olduğu vergi dairesinden alınan bir önceki yıl hasılatını gösteren onaylı
+form,
+- Bölge Eczacı Odasından onaylı sözleşme metni,
+- Örnekleme metodu ile inceleme istenmemesi halinde bunu belirten dilekçe,
+- Eczacı odasından alınan yeni tarihli “Sözleşmeye Engel Yoktur” belgesi,
+Kuruma bir dilekçe ekinde ibraz edilecektir.
+
+7.14. Kurumla sözleşme imzalayan eczacıya provizyon şifresi verilir. Sözleşmeli eczane aynı
+sözleşme dönemi içerisinde herhangi bir gerekçe ile tekrar şifre talebinde bulunduğunda her
+bir şifre için 50 (elli) TL bedel tahsil edilir.
+
+7.15. (Değişik: 03/05/2017-2017/1 Ek Protokol 4.md. Yürürlük:01/04/2017) Eczacılar,
+sözleşme yaparken 6643 sayılı Türk Eczacıları Birliği Kanununun 39 uncu maddesine
+dayanılarak, bu protokolün tüm maddelerini, sayfalarını ve eklerini içeren TEB tarafından
+bastırılmış ve her sayfası eczacı tarafından imzalanmış “Tip Sözleşmesini” (EK-1) ve “Sosyal
+Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden Tıbbi
+Malzemelerin Temini Sözleşmesini” (EK-6) kullanırlar. Eczanenin yapacağı indirim oranının
+tespiti amacıyla Protokolün eki (EK-5) formunun bir örneği Kurum taşra teşkilatına ibraz
+edilecektir.
+
+7.16. Sözleşmeler 02/05/2016 tarihine kadar imzalanarak Kuruma teslim edilecektir. Bu tarihe
+kadar sözleşme yapılmaması halinde eczacının mevcut sözleşmesi feshedilmiş sayılır.
+
+7.17. Bu Protokol ve ilgili SUT hükümlerinin uygulanmasına yönelik olarak sözleşmeli
+eczane sahibi eczacıların ve eczacılık fakültesi öğrencilerinin bilgilendirilmesi ve eğitilmesi
+için Kurum, Türk Eczacıları Birliği ve Eczacı Odaları işbirliği halinde programlar hazırlar ve
+uygular.
+
+7.18. (Değişik: 03/05/2017-2017/1 Ek Protokol 5.md. Yürürlük:01/04/2017) Geçici koruma
+altındaki yabancılar için düzenlenmiş reçete muhteviyatı ilaçların karşılanması ve reçetelerin
+incelenmesi Kurum, AFAD ve TEB tarafından imzalanan protokol hükümleri çerçevesinde
+yürütülür.
+
+7.19. Bu protokolün sözleşme metni olarak basım ve dağıtımı Türk Eczacıları Birliği
+tarafından yapılır. Sözleşme bedeli eczanelerin bir önceki yıl satış hasılatına göre kademeli
+olarak TEB merkez heyetince belirlenir. Ayrıca Kurumca talep edilmesi halinde kitap, broşür
+vb. dokümanların basım ve dağıtımı Türk Eczacıları Birliği tarafından yapılır.
+8.YETKİLİ MAHKEME
+
+8.1. Bu Protokolün uygulanmasında Kurum ile TEB arasında doğan uzlaşmazlıklarda Ankara
+mahkemeleri ve icra daireleri yetkilidir.
+
+8.2. Taşra teşkilatı ile eczaneler arasında imzalanan sözleşmelerin uygulanmasından doğan
+uyuşmazlıklarda sözleşmeyi yapan taşra teşkilatının bulunduğu yer mahkemeleri ve icra
+daireleri yetkilidir.
+
+9. YÜRÜRLÜK
+
+9.1. Bu Protokol 01/04/2016 tarihinde yürürlüğe girer. Protokolün süresi 2+2 yıl olmak üzere
+4 yıl olup; 31/03/2020 tarihine kadar geçerlidir. İlk 2 yılın sonunda genel değerlendirme
+görüşmeleri yapılır. Mali konular bir önceki yılın hesaplamaları yapılarak, bir önceki yılın
+enflasyon oranında güncellenir. Revizyon görüşmelerine süre bitiminden en az 1(bir) ay, yeni
+dönem protokol görüşmelerine süre bitiminden en az 3 (üç) ay önce başlanır. Süre bitiminde
+herhangi bir nedenle protokolün imzalanamaması durumunda görüşmeler devam eder. Bu
+sürede yenisi imzalanıncaya kadar bu protokol hükümleri geçerlidir.
+
+9.2. (Değişik: 03/05/2017-2017/1 Ek Protokol 6.md. Yürürlük:01/04/2017) Mali konularda
+enflasyon oranında yapılacak iyileştirme düzenlemesi Sosyal Güvenlik Kurumu ile Türk
+Eczacıları Birliği ile arasında belirlenecek kriterlere göre ilgili yılın Nisan ayının birinden
+geçerli olmak üzere uygulanır.
+
+9.3. Bu Protokolün 3.2.5, 3.9, 3.14 ve 4.3.3 numaralı maddeleri MEDULA sistemine
+entegrasyonun sağlanması sonrasında yürürlüğe girer.
+
+10.YÜRÜTME
+
+10.1. Bu protokolün yürütümü Sosyal Güvenlik Kurumu ve Türk Eczacıları Birliği tarafından
+yapılır. Kurum ve TEB arasında yetkililerden oluşan bir komisyon kurulur. Komisyon Ocak,
+Mayıs, ve Eylül aylarının ilk haftasında toplanır. Protokolün/sözleşmenin yürütülmesindeki
+aksaklıkları ve itirazları değerlendirerek karara varır. Komisyon protokolde revizyon
+yapılması halinde söz konusu hususları yazılı olarak tutanak altına alır.
+
+Taraflar 1 (bir) ay önceden yazılı bildirimde bulunmak şartıyla, bu protokolü feshetme
+hakkına sahiptir.
+
+10.2. Bu Protokol içeriği sözleşmenin yürütümü Kurum taşra teşkilatı tarafından yapılır.
+
+10.3. 21 (yirmi bir) sayfa, iki nüsha ve 6 (altı) eki belge olarak düzenlenen bu Protokol
+01/04/2016 tarihinde Kurum ile TEB arasında karşılıklı mutabakat ile imzalanmış olup, bir
+nüshası Türk Eczacıları Birliğinde bir nüshası da Sosyal Güvenlik Kurumunda saklanacaktır.
+
+[(03/05/2017-2017/1 Ek Protokol 11.md. Yürürlük:01/04/2017) Madde 11- Dört sayfa, iki
+nüsha ve iki eki belge olarak düzenlenen bu Protokol, 01/04/2017 tarihinden itibaren geçerli
+olmak üzere 03/05/2017 tarihinde Kurum ile TEB arasında karşılıklı mutabakat ile
+imzalanmış olup, bir nüshası Türk Eczacıları Birliğinde bir nüshası da Sosyal Güvenlik
+Kurumunda saklanacaktır.]
+TÜRK ECZACILARI BİRLİĞİ   SOSYAL GÜVENLİK KURUMU
+
+
+
+   Ecz. Erdoğan ÇOLAK       Dr. Mehmet Selim BAĞLI
+          Başkan                 Kurum Başkanı
+                                                                                                                              EK-1
+
+
+Sosyal                                         Güvenlik                                           Kurumu                            ile
+……………………………………..………………………………………………………….....
+.......................................................................................................... adresinde faaliyet gösteren
+…………………..…………………………………….…..………..............................................
+................              Eczanesi                     sahibi                                ve             mesul          müdürü
+………………..………………………..………….……………………arasında,                                                                                       Sosyal
+Güvenlik Kurumu ile Türk Eczacıları Birliğinin ortaklaşa imzaladıkları Protokol esaslarına
+uygun olarak hizmet sunulması amacıyla iş bu sözleşme yapılmıştır.
+Bu sözleşme; Sosyal Güvenlik Kurumu tarafından sağlık hizmetlerinin finansmanı
+sağlananların tabi oldukları mevzuat hükümleri çerçevesinde muayene ve tedavileri
+sonucunda                                düzenlenecek                                 reçetelerdeki                      muhteviyatın
+……….............................................................................................. Eczanesinden ...../..../........
+tarihinden itibaren protokolde belirlenen hükümlere göre, (yüzde...........) oranında indirim
+uygulanmak suretiyle alınmasını kapsar.
+Kurum ile Türk Eczacıları Birliği arasında yapılacak Ek Protokol/Protokollerle düzenleme
+yapılması halinde, sözleşmeli eczaneler bu düzenlemelere uymakla yükümlüdür.
+
+
+
+
+ECZANE                                                                                   SOSYAL GÜVENLİK
+T.C Kimlik No:                                                                               KURUMU
+Diploma No:
+                                               EK-2
+
+………………….. ECZANESİ
+Eczacı adı :
+Adres :
+
+............................ ilacı yerine ……
+........................ ilacını veriyorum,
+eşdeğeri olduğunu onaylıyorum.
+
+İMZA
+
+……… adet ……. ml enjektör
+aldım.
+
+....... kalem ........ kutu ilacı aldım
+İlacı alan
+İMZA
+                                                                                              EK-3
+
+        ........................................................... ECZANESİ REÇETE LİSTESİ
+             (Yurt Dışı Sigortalıları Ve Hak Sahipleri İçin Düzenlenecektir)
+
+İLİ :
+İLÇESİ :
+ECZACI ADI KODU :
+ECZANE ADRESİ:
+TEL NO :
+REÇETE SAYISI :
+REÇETE DÖNEMİ :
+TOPLAM İLAÇ KALEM ADEDİ :
+REÇETE BAŞINA ÖDENEN ORTALAMA KALEM ADEDİ:
+ORTALAMA REÇETE TUTARI :
+FATURA TOPLAM TUTARI :
+
+                                   REÇETE SAHİBİNİN
+  SIRA NO        SOYADI ADI            SİCİL NO     YAKINLIK                           ÇALIŞTIĞI
+                                      TAHSİS NO     DURUMU                              KURUM
+                                                                                        ÜNİTESİ
+                                                                                       (MEMUR)
+
+
+
+                                        REÇETENİN
+  TARİHİ            SERİ NO              TUTARI                  İSKONTO              KATKI PAYI
+                                                                  TUTARI               TUTARI
+                                                                                       EK-4
+
+Bu protokolün (3.7.) numaralı maddesi kapsamında yer alan reçeteler, Kurumla tip
+sözleşme imzalayan eczaneler tarafından aşağıda belirtilen esas ve usuller çerçevesinde
+karşılanacaktır.
+1. Eczacılar, protokolün (3.7.) numaralı maddesinde yer alan reçeteleri karşılarken, TEB
+    Merkez Heyeti tarafından oluşturulan yazılım programında yer alan farklı grup
+    uygulaması ve sıralama sistemi uyarınca işlem yapacaklardır.
+2. Sıralamaya girmek istemeyen eczacılar, Bölge Eczacı Odasına yazılı başvuruda
+   bulunur. Bunun dışındaki eczacılar, kota üst limiti esasına göre kapsamdaki reçeteleri
+   karşılar.
+
+3. Bu reçetelerde kota üst limiti, bölgesel kriterler göz önünde bulundurularak her grup
+   için Türk Eczacıları Birliği Merkez Heyeti tarafından belirlenir. Reçetelerin
+   bölünememesi nedeniyle sıralama limitinin aşılması halinde limit üstü tutar, eczanenin
+   bir sonraki sırasının kotasından düşülecektir.
+
+4. Sıralama, eczane isimlerinin o il/ilçedeki alfabetik dizilişi esas alınarak oluşturulur ve
+   kura ile belirlenecek harften başlar. Sıralamanın oluşturulmasından sonra sisteme dahil
+   olacak eczacılar mevcut sıranın sonuna eklenir.
+
+5. Sıralamada yer alan eczacılar, gerekli iletişimin sağlanabilmesi için aktif olarak
+   kullandıkları en az bir sabit telefon numarası, cep telefonu numarası, faks numarası ve
+   elektronik posta adresini eczacı odalarına yazılı olarak bildirmek zorundadır. Bu
+   bilgilerde bir değişiklik olması halinde üç gün içinde güncel bilgi eczacı odasına yazılı
+   olarak bildirilir.
+
+6. Sıralamaya dahil olup kotası dolmayan ve Kurumla sözleşmesi bulunan her eczacı bu
+   kapsamdaki reçeteyi karşılar.
+
+7. Sıralamada yer alsın ya da almasın Kurumla sözleşmesi bulunan her eczacı, kapsamda
+   yer alan reçetenin eczanesine gelmesi halinde reçete hakkında eczacı odasına/bürosuna
+   veya eczacı odası temsilcisine bilgi vermekle yükümlüdür.
+
+8. Bu sisteme dahil olmayan veya sistemde yer almakla birlikte kotası dolan eczacı
+   tarafından bildirilen reçete, eczacı odası veya temsilcisi tarafından sıradaki eczaneye
+   iletilir. Sisteme dahil ve kotası dolmayan sıradaki eczacı, reçete muhteviyatını en kısa
+   süre       içerisinde   hastaya     veya    hastaya     ulaştırılmak    üzere     eczacı
+   odasına/temsilcisine/bürosuna veya reçetenin geldiği eczaneye ulaştırır.
+
+9. Eczacı, o an için eczanesinde mevcut olmayan reçete muhteviyatı ilacı bulabilmek için
+   azami gayreti gösterir. Ecza depolarından sorulan ve depolarda bulunmadığı faks veya
+   yazılı olarak eczacıya bildirilen ilacın yer aldığı reçete eczacı tarafından eczacı
+   odasına/bürosuna veya temsilcisine bildirilir. Reçete muhteviyatı ilacın depolarda da
+   bulunmadığı ve bu nedenle temin edilemediği hastaya/hasta yakınına bildirilir.
+
+10. Medula Eczane Programında bu sıralamaya tabi reçetelerin ayrı fatura edilmesi için
+    gerekli düzenleme yapılır. Ayrıca Türk Eczacıları Birliği Merkez Heyeti tarafından
+    hazırlanan yazılım programı ile sistemin sağlıklı işlemesinin takip ve kontrolü yapılır.
+11. İlaçların hastaya tesliminden sonra eczacı, karşıladığı reçeteye ait olan ve Türk
+    Eczacıları Birliği’nin reçete tevzi sisteminden alınan döküm listesini onay için eczacı
+    odasına teslim eder. Onay işlemleri eczacı tarafından yapılır, kesinlikle hastaya/hasta
+    yakınına yaptırılmaz. Eczacı odası onayı bulunmayan bu sistem kapsamındaki reçete
+    bedelleri Kurum tarafından ödenmez.
+
+12. Kapsam dahilindeki reçetelerin karşılama usul ve esaslarına uymayan eczacılar ilk
+    olarak yazılı olarak uyarılır. Daha sonra Türk Eczacıları Birliği Merkez Heyeti
+    tarafından 5000 (Beşbin) TL para cezası verilir. Üçüncü ihlalde ise sisteme dahil tüm
+    sıralardan 6 (altı) ay süreyle çıkarılır.
+
+13. Türk Eczacıları Birliği Merkez Heyeti Kurumla mutabakat sağlayarak aşağıdaki sıralı
+    dağıtım listesine ilaç eklemesi yapabilir.
+
+14. Sıralı Dağıtım sistemine tabi reçete grupları aşağıda belirtilmiştir.
+
+   a- Mor ve turuncu reçeteye yazılması zorunlu olan ilaçların yer aldığı reçeteler,
+   b- İşyeri hekimi tarafından yazılan reçeteler,
+   c- Eritropoietin ve darbepoetin preparatlarını ihtiva eden reçeteler,
+   ç- Özel yada Kamu Diyaliz Merkezlerinde düzenlenmiş tüm reçeteler,
+   d- Diyaliz solüsyonlarını ihtiva eden reçeteler,
+   e- Eczacı Odalarınca dağıtım protokolü yapılan ünitelerdeki yatan hasta reçeteleri,
+   f- 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu hükümlerine
+   göre korunma, bakım ve rehabilitasyon hizmetlerinden ücretsiz faydalanan kişilere ait
+   reçeteler ile özel ve kamu huzurevlerinde kalan kişilere ait reçeteler ile 5378 sayılı
+   Özürlüler Ve Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması
+   Hakkında Kanuna göre özel rehabilitasyon merkezlerinde kalan kişilere ait reçeteler,
+   g- Eczane olmayan yerleşim bölgelerindeki sigortalı ve hak sahiplerine ait reçeteler,
+   h- Organ nakli sonrasında kullanılan ilaçlar
+   ı- Tüp bebek ve tüp bebek öncesi tedavisinde kullanılan ilaçları içeren reçeteler.
+   i- Oral beslenme solüsyonlarını ihtiva eden reçeteler
+   j- Harp Okulları, Askeri Liseler, Polis Meslek Yüksek Okulları, Fakülte ve Yüksek
+   Okullarda TSK namına okuyanlar ve Astsubay Yüksek Okullarında okuyan
+   öğrencilerin reçeteleri
+   k- Yurt dışı sigortalılarına ait reçeteler
+   l- Evde bakım hizmetleri çerçevesinde düzenlenen reçeteler.
+   m. Talasemi endikasyonunda kullanılan ilaçlar (Deferipron, Deferasiroks)
+   n. TNF alfa blokeri olarak kullanılan ilaçlar
+   o. Majistral formül ihtiva eden reçeteler
+   p. Rituximab, Abatasept, Tofasitinibsitrat, Kanakinumab, Tosilizumab, Sertolizumab
+(Değişik: 03/05/2017-2017/1 Ek Protokol 6.md. Yürürlük:01/04/2017)
+                                                                                            EK–5
+
+                                    ECZANE BİLGİ FORMU
+
+ECZACININ
+UNVANI                          : ……………………………………….. ECZANESİ
+ADI SOYADI                      : ………………………………………..
+VERGİ KİMLİK NO                 : ………………………………………..
+T.C. KİMLİK NO                  : ………………………………………..
+
+
+                                                                       6736 SAYILI KANUN     6736 SAYILI KANUN
+                                                                          KAPSAMINDA            KAPSAMINDA
+                                           TAHAKKUK     ÖDENEN VERGİ      DÜZENLENEN       DÜZENLENEN FATURA
+          SATIŞ HASILATI   GELİR VERGİSİ
+ YILI                                        EDEN           (TL)        FATURA TUTARI       TUTARI HARİÇ SATIŞ
+          (KDV HARİÇ TL)   MATRAHI (TL)
+                                           VERGİ (TL)                    (KDV HARİÇ TL)    HASILATI (KDV HARİÇ
+                                                                                                     TL)
+
+ 20…
+
+
+Not:    1- Mükellefin bağlı olduğu vergi dairesine onaylatılacaktır.
+        2- 6736 sayılı Kanun kapsamında düzenlenen fatura var ise fotokopisi eklenecektir.
+(Ekleme: 03/05/2017-2017/1 Ek Protokol 8.md. Yürürlük:01/04/2017)
+                                                                                        EK-6
+
+      SOSYAL GÜVENLİK KURUMU KAPSAMINDAKİ KİŞİLERİN TÜRK
+    ECZACILARI BİRLİĞİ ÜYESİ ECZANELERDEN TIBBİ MALZEMELERİN
+                        TEMİNİ SÖZLEŞMESİ
+
+
+
+1. TARAFLAR, KONU, DAYANAK VE TANIMLAR
+
+1.1 Taraflar
+
+Bu sözleşmenin tarafları, Sosyal Güvenlik Kurumu ile………………… adresinde mukim,
+………………. eczanesi sahibi ve/veya mesul müdürü …………….dır.
+
+1.2. Konu
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve diğer kanunlardaki özel
+hükümler gereği genel sağlık sigortasından yararlandırılan kişiler adına SUT’ta tanımlı sağlık
+hizmeti sunucuları tarafından sağlık raporu ve reçete düzenlenmesi suretiyle kullanılması
+öngörülen tıbbi malzemelerin temin edilmesine ilişkin usul ve esaslar ile karşılıklı hak ve
+yükümlülüklerin belirlenmesidir.
+
+1.3. Dayanak
+
+Bu sözleşme; 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunun 63 üncü
+maddesinin birinci fıkrasının (f) bendi ve ikinci fıkrası, 73 üncü maddesi ile 6197 sayılı
+Kanunun 28 inci maddesi, Genel Sağlık Sigortası Uygulamaları Yönetmeliğinin ilgili
+maddeleri ve Sosyal Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi
+Eczanelerden İlaç Teminine İlişkin Protokolün 3.14. maddesi uyarınca düzenlenmiştir.
+
+1.4.Tanımlar
+
+Eczacı: 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanunun 1 inci maddesinde tarif edilen
+eczane sahibi ve/veya mesul müdürü,
+
+Eczane: 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanun kapsamında serbest faaliyet
+gösteren ve birinci basamak sağlık kuruluşu olan ve sözleşmede belirlenen tıbbi malzemeleri
+karşılayan eczaneleri,
+
+Fatura dönemi: Eczane tarafından her ayın birinci günü ile sonuncu günü arasında (birinci ve
+son gün dahil) verilen hizmetleri kapsayan dönemi,
+
+Fatura teslim süresi: Fatura dönemini takip eden ayın birinci gününden onbeşinci gününe
+(onbeşinci gün dahil) onbeşinci gün resmi tatil ise takip eden ilk iş günü sonuna kadar geçen
+süreyi,
+Hasta : SUT’un “kapsam” başlığı altında belirtilen genel sağlık sigortasından yararlandırılan
+kişilerden, SUT’ta tanımlı sağlık hizmeti sunucularınca düzenlenen sağlık raporları
+doğrultusunda malzeme reçete edilen kişileri,
+
+I.Grup reçete:Tıbbi malzemelere ilişkin reçeteleri,
+
+II.Grup reçete: Örnekleme yöntemine tabii reçeteleri (Hasta alt bezi reçeteleri),
+
+III. Grup reçete: Hazır protez/ortez reçetelerini,
+
+İnceleme Dönemi : Denetimin/incelemenin/soruşturmanın başladığı ve sonuçlandırıldığı tarih
+aralığında incelenen fatura dönemini/dönemlerini,
+
+İş günü: Ulusal,resmi ve dini bayram günleri, yılbaşı,1 Mayıs günü, hafta sonu tatil günleri ve
+idari izin günleri dışındaki çalışma günlerini,
+
+Kurum: Sosyal Güvenlik Kurumunu,
+
+Kurum taşra teşkilatı: Eczanelerin, sözleşmesinin yürütüldüğü, Kurumca yetkilendirilen
+ilgili Sağlık Sosyal Güvenlik Merkezini,
+
+Malzeme: Eczane Protokolü eki sözleşmede belirlenmiş olan tıbbi malzemeleri (tıbbi sarf
+malzemesi, ortez, protezleri);
+
+a)     Tıbbi sarf malzemesi: İnsanda kullanıldıklarında asli fonksiyonunu farmakolojik,
+immünolojik veya metabolik etkiler ile sağlamayan fakat bu fonksiyonunu yerine getirirken
+bu etkiler tarafından desteklenebilen ve insan üzerinde yaralanma veya sakatlığın tanısı,
+izlenmesi, tedavisi, hafifletilmesi veya mağduriyetin giderilmesi amacıyla üretilmiş tek başına
+veya birlikte kullanılabilen her türlü malzemeyi,
+
+b)      Ortez: İnsan vücudunun herhangi bir organının hareketlerine yönelik olarak
+kolaylaştırma, kısıtlama, sabitleme, yardımcı olma, önleme veya düzeltme amacıyla
+kullanılan araç, alet ve cihazları,
+
+c)     Protez: Olmayan bir organın yerini alabilecek araç, alet ve cihazları,
+
+MEDULA: (MEDULA-Tıbbi Malzeme Provizyon Sistemi) Kurum bilgi işlem sistemleri
+üzerinden müracaat eden kişinin, sözleşme konusu malzemelerden yararlanma hakkının olup
+olmadığının tespiti için kullanılan ve girilen bilgiler esas alınarak reçete muhteviyatının
+karşılanmasına ilişkin bazı denetim ve sorgulamalar yaparak karşılanan reçetelerin Kuruma
+fatura edilmesi ve kontrolünde kullanılan elektronik bilgi sistemini,
+
+Mesul müdür: Eczanenin sahibi ve/veya mesul müdürü olan eczacıyı,
+
+Ödeme dönemi: Eczane tarafından Kuruma teslim edilen faturalarının teslim tarihinden
+itibaren inceleme ve ödemenin gerçekleştirildiği 60 (altmış) günlük süreyi,
+Protokol: Sosyal Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi
+Eczanelerden İlaç Teminine İlişkin Protokolü,
+
+Sağlık hizmeti sunucusu(SHS): SUT’ta düzenlenen ikinci ve üçüncü basamak resmi sağlık
+kurumlarını ve ikinci basamak özel sağlık kurumlarını,
+
+Sağlık raporu: Uzman hekim raporu; SUT’ta belirtilen özel hükümler saklı kalmak kaydıyla
+ilgili tek uzman hekim tarafından düzenlenen başhekimlik mührü ve ıslak imza onayı bulunan
+sağlık raporunu,
+
+Sağlık kurulu raporu: SUT’ta belirtilen özel hükümler saklı kalmak kaydıyla ilgili uzmanlık
+branşından üç uzman hekimin katılımıyla, ilgili uzmanlık branşından üç uzman hekim
+bulunmaması halinde ise ilgili branş uzmanı ile birlikte öncelikle bu uzmanlık branşına en
+yakın uzmanlık branşından olmak üzere başhekimin seçeceği diğer uzmanlık branşlarından
+uzman hekimlerin katılımı ile en az üç uzman hekimden oluşan sağlık kurullarınca
+düzenlenen başhekimlik mührü ve ıslak imza onayı bulunan sağlık raporunu,
+
+SUT: Kurum tarafından yayımlanan ve hizmetin verildiği tarihte yürürlükte olan Sosyal
+Güvenlik Kurumu Sağlık Uygulama Tebliğini ve eklerini,
+
+TEB: Türk Eczacıları Birliğini,
+
+TİTUBB: Türkiye İlaç ve Tıbbi Cihaz Ulusal Bilgi Bankası’nı,
+
+Yönetmelik: Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından yayımlanan Tıbbi Cihaz Satış,
+Reklam ve Tanıtım Yönetmeliğini,
+
+Ödeme yönetmeliği: Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve
+Bedellerinin Ödenmesine İlişkin Usul ve Esaslar Hakkında Yönetmeliğini
+
+ifade eder.
+
+2. SÖZLEŞMEYE KONU KİŞİLER
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve diğer Kanunlardaki özel
+hükümler gereği genel sağlık sigortasından yararlandırılan kişileri ifade eder.
+
+3. HAK VE YÜKÜMLÜLÜKLERE İLİŞKİN GENEL İLKELER
+
+3.1. Kurumun Hak ve Yükümlülükleri
+
+3.1.1.Sağlık hizmeti sunucularınca düzenlenen sağlık raporları doğrultusunda reçete
+muhteviyatı malzemeler, sözleşmeli eczaneler tarafından bu sözleşme çerçevesinde
+hazırlanarak, hasta/hasta yakınına teslim edildiği tarihte yürürlükte olan Kurum mevzuatı
+doğrultusunda karşılanır.
+
+3.1.2. Kurum, kendi bünyesinde ilgili mevzuat ve işbu sözleşme gereğince yerine getirilecek
+hizmetlerin sunumu için gerekli yazılım ve donanım dahil altyapı hizmetini sunar.
+3.1.3. Kurum, sağlık hizmetleri sunumunda hakkaniyet, verimlilik ve etkinliğin sağlanması
+amacıyla sağlık harcamalarına ait her türlü veri ve bilgiye ulaşma hakkına sahiptir.
+
+
+
+3.2. Eczanenin Hak ve Yükümlülükleri
+
+3.2.1. Eczane, Kurum mevzuat hükümleri, sözleşmede düzenlenen usul esaslar ile Yönetmelik
+kapsamındaki mevzuat hükümlerine uymakla yükümlü olduğunu kabul ve taahhüt eder.
+
+3.2.2. Eczane, genel sağlık sigortalıları arasında, hizmetin kalitesi ya da hizmetlerin
+erişilebilirliği açısından faaliyetleri ile ilgili hiçbir hastaya karşı ayrımcılık yapamaz, hastalara
+ait tıbbi bilgilerin gizliliği ile ilgili yasal gerekliliklere uymakla yükümlüdür. Konu hakkında
+Kurum taşra teşkilatına (Ek-6/3) taahhüt vermekle yükümlüdür.
+
+3.2.3. Eczane, sağlık hizmetlerinin sunumu açısından MEDULA sisteminin gerektirdiği bilgi
+işlem altyapısını, kendi bünyesinde oluşturmakla yükümlüdür.
+
+3.2.4. Eczane, MEDULA sistemine kaydettiği her türlü bilginin doğruluğunu kabul ve taahhüt
+eder.
+
+3.2.5. Eczane, hizmet verdiği hastalara ilişkin tüm bilgi ve belgeleri en az 10 (on) yıl süreyle
+saklamak zorundadır. Verilen hizmetlerle ilgili bilgiler eczanede kayıt altına alınır. Eczanede
+yazışma, kayıt gibi işlemler (Ek-6/4 Hasta İşlem Formu vb.) bilgisayar ortamında tutulabilir.
+Ancak, bilgisayar ortamında kayıt tutulması, Kurum tarafından istenildiğinde yazılı kayıt
+sunma zorunluluğunu ortadan kaldırmaz. Bilgisayar kayıtlarının ve yazılı kayıt sisteminin
+düzenli tutulmasından eczane sorumludur.
+
+3.2.6. Eczane, bu Sözleşmede belirlenmiş olan malzemelerle ilgili fatura ve eki belgeleri SUT
+hükümleri ve sözleşmede belirtilen usul ve esaslar doğrultusunda düzenler.
+
+3.2.7. Sözleşmenin yürütümünden sorumlu Kurumun taşra teşkilatı tarafından, eczane mesul
+müdürüne MEDULA sistemi şifresi verilir. Eczaneye verilen şifrenin güvenliğinden mesul
+müdür sorumludur. Bu şifre ile yapılan işlemlerin şifre sahibi tarafından yapıldığı kabul edilir.
+Sözleşmeli eczane aynı sözleşme dönemi içerisinde herhangi bir gerekçe ile tekrar şifre
+talebinde bulunduğunda verilen her bir şifre için eczaneden 50 (elli) TL bedel tahsil edilir.
+
+3.2.8. Taahhüt vermeyen (Ek-6/3) ve TİTUBB kayıt işlemlerini tamamlamayan eczanelerden
+hizmet alınmaz.
+
+3.2.9. Eczanenin karşılayacağı malzemelerle ilgili TİTUBB’ta bayilik kayıtları tamamlanmış
+olmalıdır. TİTUBB’a kayıtlı bayilikleri başlangıç tarihinden sona erdiği gün dahil olmak
+üzere geçerlidir. Eczane, MEDULA sistemindeki gerekli düzenlemeler yapılıncaya kadar
+bayilik belgelerinin birer örneğini fatura ekinde ibraz etmek zorundadır.
+
+4. UYGULANACAK USUL VE ESASLAR
+
+4.1. Reçetenin Şekline İlişkin Esaslar
+4.1.1. Reçetelerde;
+
+a) Reçeteyi düzenleyen sağlık hizmeti sunucusunun adı ve/veya MEDULA tesis kodu,
+
+b)Hasta adı soyadı, T.C. Kimlik Numarası,
+
+c) Reçete tanzim tarihi,
+
+ç) Teşhis ve/veya ICD-10 tanı kodunun eklenmesi,
+
+d) MEDULA takip numarası veya protokol numarası,
+
+e) Hekimin adı soyadı, Sağlık Bakanlığınca verilen hekim diploma ve/veya uzmanlık tescil
+numarasını içeren bilgiler ile ıslak imzası,
+
+f) Malzeme adı, taraf bilgisi olan malzemelerde, vücudun hangi tarafında (sağ/sol) kullanıldığı
+bilgisi,
+
+g) Malzemenin adedi,
+
+ğ) Hekim, hasta, tarih, protokol no, malzeme ile ilgili bilgilerde değişiklik, iptal veya
+karalama var ise değişikliğe ilişkin hekim onayının (kaşe ve imza) bulunması,
+
+gerekmektedir.
+
+İmza dışındaki bilgiler, el yazısı ile yazılabileceği gibi kaşe veya bilgisayar ortamında veya
+hastane otomasyon sistemleri tarafından basılan etiketin/barkodun yapıştırılması şeklinde
+olabilir.
+
+4.1.2. Hasta müracaatında reçetelerin arka yüzüne;
+
+a) Taraf bilgisi olan malzemelerde vücudun hangi tarafında kullanıldığına dair bilgi,
+
+b) Malzemenin SUT eki listelerde yer alan kodu,
+
+c) Malzemeleri alan kişinin adı, soyadı ve T.C. Kimlik numarası,
+
+ç) Malzemelerin kupürü varsa etiket/barkod bilgileri,
+
+d) Müracaat ve teslim tarihi, telefon numarası ve / veya adresi,
+
+e) Teslim aldığına ilişkin ibare ve imzası,
+
+f) MEDULA-Tıbbi Malzeme Provizyon Sistem çıktısı
+
+yazılması/eklenmesi gerekmektedir. Bu bilgiler reçete arkasına basılacak Ek-6/7’de örneği yer
+alan kaşenin doldurulması suretiyle de alınabilir.
+
+Reçete, MEDULA-Tıbbi Malzeme Provizyon Sistemine kayıt edilerek, sistemden iki adet
+çıktı alınır, bir kopya teslim edildiğine dair reçete arkasına eklenir, diğer kopya hasta/hasta
+yakınına bilgi amaçlı verilir. MEDULA sisteminden alınan Hasta İşlem Formu (Ek-6/4)
+hasta/hasta yakınına imzalatılarak Kurum tarafından yapılan inceleme denetimlerde ibraz
+edilmek üzere saklanır.
+
+4.1.3. Özel haller
+
+a) Provizyon sisteminden yapılan sorgu neticesinde müstehaklıkları 60 kodu ile sorgulanan ve
+prim ödemeyen (g,c-1,c-3,c-9 vb) hak sahipleri ile Yabancı ülkelerle yapılan sosyal güvenlik
+sözleşmesi kapsamında Kurum Sağlık hizmetlerinden yararlandırılan kişiler ve Yurtdışı
+Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS) numarası ile hasta takip
+numarası/provizyon alınan kişiler de dahil olmak üzere tıbbi malzeme için Kurumun ilgili
+biriminden onay alınacaktır.
+
+Ayrıca müstehaklıkları 60 kodu ile sorgulanan ve prim ödemeyen (g,c-1,c-3,c-9 vb) hak
+sahipleri için (Kurumla götürü bedel sözleşmesi yapan SHS’ler hariç) SUT hükümleri geçerli
+olup, sevk zincirine uyulması ve reçetelerine sevk belgelerinin de eklenmesi gerekmektedir.
+
+b) İş kazası ve meslek hastalıkları ile ilgili reçetelerde; iş kazası ve meslek hastalığı bildirim
+formunun,
+
+c) Trafik kazaları ile ilgili reçetelerde; SUT ve konu ile ilgili diğer Kurum mevzuatında yer
+alan belgelerin,
+
+ç) Özürlü sağlık kurulu raporu varsa, reçeteyi yazan hekim ve/veya hastane başhekimi
+tarafından raporun onaylı fotokopisinin,
+
+reçete ekinde bulunması gerekmektedir.
+
+4.1.4. MEDULA Sistemi
+
+Tıbbi Malzeme raporlarının ve reçetelerinin elektronik ortamda düzenlenebilmesi için
+MEDULA sistemindeki gerekli alt yapı çalışmaları tamamlandığında uygulamaya
+geçilecektir.
+
+4.2.Tıbbi Sarf Malzemelerinin Karşılanması
+
+4.2.1. Eczane tarafından, malzeme temini için başvuru yapıldığı tarihte reçeteye başvuru tarihi
+yazılır, eczane kaşesi basılarak eczacı tarafından imzalanır.
+
+4.2.2. Sürekli kullanım gerektiren raporla verilen malzemeler hariç olmak üzere reçete ve
+sağlık raporunun aslı ile başvuruda bulunulacaktır. Sürekli kullanım gerektiren raporla
+verilen malzemeler için raporun reçetesini yazan hekim veya hastane başhekimliği tarafından
+aslı gibidir onayı yapılmış bir sureti reçete ekinde ibraz edilir.
+
+4.2.3. SUT eki tıbbi sarf malzeme listelerinde yer alan sürekli kullanım gerektiren rapor
+takipli malzemeler için tıbbi uygunluk aranması zorunlu olmayıp, ihtiyaç duyulması halinde
+tıbbi uygunluk aranabilecektir.
+4.2.4. Kullanım adetleri günlük/haftalık/aylık vb. olarak reçetelendirilebilen malzemelerin,
+SUT’ta belirtilen miktarlardan fazla reçete edilmesi durumunda, SUT’ta belirtilen kullanım
+adetleri doğrultusunda bedelleri Kurumca karşılanır.
+
+4.2.5. Eczane tarafından, reçetelerin düzenlenme tarihinden itibaren 5 (beş) işgünü içerisinde
+yapılan hasta müracaatları kabul edilecektir. Kabul edilen reçetenin sisteme kaydı yapılacak
+ve 10 (on) iş günü içerisinde tamamlanarak hastaya teslim edilmiş olacaktır. 10 (on) iş
+gününün sonunda hasta/hasta yakınına teslim edilmeyen malzeme bedelleri ve süresi içinde
+yapılmayan hasta müracaatları ve/veya sistem kayıtlarına ilişkin malzeme bedelleri Kurumca
+ödenmeyecektir.
+
+4.2.6. SUT’ta ki istisnalar hariç olmak üzere malzemeyi temin eden eczanenin, üretici ve/veya
+distribütör firmalarca TİTUBB kayıt bildirim işleminin tamamlanmış olması gerekmektedir.
+
+4.2.7. SUT eki listelerinde yer alan malzeme bedellerinin karşılanmasında; malzemeye ait
+TİTUBB kayıt/bildirim işleminin tamamlanmış olma şartı aranacaktır. Malzemenin adı
+barkodu ve SUT listelerinde eşleştiği SUT kodunun belirtilmesi gerekmektedir.
+
+İbraz edilen barkod ve varsa etiket bilgisi TİTUBB’dan kontrol edilmelidir.
+
+4.2.8. SUT hükümlerine göre katılım payı alınması gerektiği belirtilen kişilerden SUT
+hükümlerinde belirtilen oranlarda katılım payı eczane tarafından tahsil edilir. Eczane
+tarafından, kapsamda sayılan kişilerden Kurum adına tahsil edilen katılım payları, eczanenin
+alacağından mahsup edilir ve kalan tutar eczaneye ödenir.
+
+4.2.9. SUT hükümlerine göre katılım payı alınmayacak kişilerden katılım payı alınması
+halinde, alınan tutar eczanenin alacağından mahsup edilerek hastaya ödenir.
+
+4.2.10. Eczane tarafından Kuruma usulüne uygun şekilde hazırlanarak teslim edilen fatura ve
+eki belgeler II. grup reçeteler hariç olmak üzere örnekleme yapılmaksızın incelenir.
+
+4.2.11. Sözleşmelerin geçerlilik süresi sonunda; eczanenin bu sözleşmeden doğan Kuruma
+olan borcu, MEDULA üzerinden iletilen toplam tahakkuk tutarına göre hesaplanacak son altı
+aylık fatura ortalamasını aşan eczane ile sözleşme yapılmaz.
+
+4.2.12. Hasta/hasta yakınına orijinal ambalajından garanti belgesi çıkan malzemeye ait
+kullanım kılavuzu ve garanti belgesi verilir. Garanti belgesinde seri numarası, model, tarih,
+firma onayı vb. bilgilerin olması gerekmektedir. Malzemelerin garanti belgesinin asılları
+hastada kalacaktır. Ayrıca eczane tarafından hasta/hasta yakınına eczanenin adı, adresi ve
+iletişim bilgilerinin olduğu bir belge düzenlenerek verilir.
+
+4.2.13. Eczaneler hastayı sağlık hizmeti sunucusuna veya hekime, aynı şekilde sağlık hizmeti
+sunucuları veya hekimler de hastayı belli eczaneye yönlendiremez. Eczane sahibi ve mesul
+müdürleri eczanelere hasta gönderilmesine yönelik olarak her ne şekilde olursa olsun, diğer
+sağlık hizmeti sunucuları ve üçüncü şahıslarla açık veya gizli işbirliği yapamaz, simsar ve
+benzeri yönlendirici personel bulunduramaz, reçete toplama ve yönlendirme yapamaz.
+Bu durumunun Kurum veya TEB tarafından tespit edilmesi halinde 6197 sayılı yasanın 24
+üncü maddesi gereği İl Sağlık Müdürlüğüne işlem yapılması için bildirilir.
+
+4.3. Teknik Hükümler
+
+4.3.1. Reçeteler, düzenlendiği il dışındaki Kurum ile sözleşmeli eczane tarafından da
+karşılanabilir.
+
+4.3.2. Reçete içeriği malzemeleri hastaya temin eden eczane ile fatura eden eczane aynı
+değilse malzeme bedeli ödenmez.
+
+4.3.3. Reçetenin ve raporun aslının olmaması halinde, reçete bedeli ödenmez. Ancak, sürekli
+kullanım gerektiren malzemelerin temininde reçeteyi yazan hekim tarafından veya başhekim
+tarafından onaylamış raporun örneği ve reçete aslı ile ödeme yapılır.
+
+Ancak, tıbbi malzeme ve sarf malzemesinin aynı raporda yer alması halinde, raporun aslı
+malzemeye dair reçete ekine, raporun reçeteyi yazan hekim tarafından onaylı örneği ise sarf
+malzemesine dair reçete ekine konulur.
+
+4.3.4. Eczane tarafından Kuruma teslim edilen reçetelerin kontrolü aşamasında çıkan
+eksikliklerden dolayı iade edilen reçetelerde yer alan barkod ve varsa fiyat etiketleri tekrar
+fatura edilemeyecek şekilde iptal edilerek iade edilir.
+
+4.3.5. Kurumca eczaneye iade edilen reçete ve eki belgelerde, (4.1.1.) maddesinde belirtilen
+hususlardan birinin veya birkaçının eksik olduğu durumlarda aslına sadık kalmak kaydıyla;
+
+a) Reçetede hekimce yapılması gereken düzeltmeler reçeteyi yazan uzman hekim, ilgili
+hekimin bulunmaması halinde aynı branştan hekim tarafından, sağlık raporlarında ise uzman
+hekim raporlarında raporun çıktığı hastanede raporu düzenleyen hekim tarafından (bu
+hekimin bulunmaması halinde aynı branştan hekim), sağlık kurulu raporlarında ise raporda
+yer alan hekimlerden biri tarafından gerekli düzeltme yapılır.
+
+b) (4.1.2.) maddesinde belirtilen hususlardan; malzeme temini için başvurunun yapıldığı
+tarihin reçete ve raporun arkasına yazılmadığının tespiti durumunda, Ek-6/4 Hasta İşlem
+Formunun reçete ekinde ibraz edilmesi halinde reçete bedeli ödenir.
+
+c) Reçete muhteviyatının tesliminde reçete arkası bilgilerin eksik olduğunun tespit edilmesi
+halinde eksiklik tamamlatılmak üzere reçete eczaneye iade edilir.
+
+ç) Fatura üzerindeki ilave düzenleme/düzeltmelerde ise eczane mesul müdürünün imza ve
+kaşesi aranacaktır.
+
+d) Sözleşmenin (5.1.3) maddesinde belirtilen icmal listesinde veya faturada mesul müdürün
+imzasının olmaması halinde belgeler eksiklik tamamlatılmak üzere iade edilir.
+
+e) Sözleşmenin (4.1.3) maddesinin (b) bendinde yer alan işveren tarafından düzenlenmiş olan
+iş kazası ve meslek hastalığı bildirim formunun eksik olması halinde, eksik belge
+tamamlatılmak üzere fatura iade edilir.
+f) Sözleşmenin (3.2.9) maddesindeki bayilik belgesinin eksik olması halinde eksik belge
+tamamlatılmak üzere reçete iade edilir.
+
+Eczanenin eksik olan bayiliğine ilişkin belgeyi tamamlamaması halinde reçetelerdeki ilgili
+bayiliğine ilişkin malzeme bedeli ödenmez. Ödenmiş ise yersiz ödeme kabul edilir. Kurum
+tarafından tahsil edilir.
+
+g) Kurumca belirlenen usul ve esaslar ile reçete düzenleme yazılım esaslarına uyulmaması,
+reçetenin süresi içinde MEDULA Sistemine kaydedilmemesi, reçetenin fatura ekinde
+bulunmaması durumlarında reçete/malzeme bedelleri ödenmez.
+
+ğ) 4.1.2. numaralı maddede düzenlenmiş olan reçete ekinde bulunması gereken barkod veya
+fiyat etiketi bilgilerinin eksik olması durumunda eksik olan barkod veya fiyat etiketi bedelleri
+ödenmez.
+
+h) Reçete düzenleme tarihinin ve teslim tarihinin, hasta T.C. Kimlik numarasının hatalı
+girilmesi hastanın hak kayıplarına neden olması halinde bu gibi durumlarda reçete iptal
+edilerek hastaya hakları iade edilir, eczaneye reçete bedeli ödenmez.
+
+4.3.6. Kurumca yapılan inceleme sonucu sözleşme hükümlerine göre eczaneye iadesi gereken
+reçete ve eki belgeler eczaneye ödemeli olarak gönderilir veya tutanak karşılığı elden teslim
+edilir. İade edilen reçete/fatura ve eki belgeler eczane tarafından Kuruma kargo ile veya iadeli
+taahhütlü olarak gönderilir veya elden teslim edilir.
+
+4.3.7. Kurumca iade edilen reçeteler, eczane tarafından, teslim alındığı tarihten itibaren 10
+(on) işgünü içerisinde gerekli düzeltmeler yapılarak Kuruma teslim edilir. Bu süre içerisinde
+teslim edilmeyen reçete bedelleri veya eksiklikleri tamamlanmadan Kuruma teslim edilen
+reçete bedelleri ödenmez.
+
+4.3.8. Reçete, fatura ve eki belgelerin sorumluluğu, Kurum tarafından teslim alınıncaya kadar
+gönderilme (kargo veya iadeli taahhütlü olarak veya elden teslim) şekline bakılmaksızın
+eczacıya aittir. İade edilen faturaların sorumluluğu eczacı tarafından teslim alındıktan sonra
+eczacıya aittir.
+
+4.4. Diğer Düzenlemeler
+
+4.4.1. Eczanenin unvanının ve/veya mesul müdürünün değişmesi halinde unvan değişikliği
+ve/veya mesul müdürün ayrılışı, değişiklik ve/veya ayrılış tarihinde eczacı tarafından yazılı
+olarak Kuruma bildirilir.
+
+4.4.2. Mesul müdürün vefatı halinde; vefat tarihi itibariyle Kurumla var olan sözleşme sona
+erer, reçete kabul edilmez. Söz konusu tarihten sonra kabul edilen reçete bedelleri Kurumca
+ödenmez. İlgili eczanenin MEDULA Sistemi üzerinden verilen işlem yetkisi sonlandırılır.
+4.4.3.
+
+a) Adres değişikliği halinde eczacı, adres değişikliğini ruhsatnamenin eczacıya teslim edildiği
+tarihten itibaren 5 (beş) işgünü içinde yazılı olarak Kurumun taşra teşkilatına bildirir. Aksi
+halde bildirilen son adrese yapılan tebligatlar geçerli sayılır.
+
+b) Kamu idareleri veya belediyeler tarafından yapılan değişiklikler nedeniyle oluşan adres
+değişiklikleri için süre şartı aranmaz.
+
+Eczanenin herhangi bir şekilde yerinin değişmemesi, adres değişikliğinin belediyenin veya
+kamu idaresinin yapmış olduğu değişiklik nedeniyle oluşması halinde cezai şart uygulanmaz
+
+4.4.4. Eczanenin kapanması, devredilmesi veya ruhsatının askıya alınması halinde; kapanma,
+devir veya ruhsatın askıya alınma tarihinde sözleşme kendiliğinden sona erer. Kapanış, devir
+veya askıya alınma işlemi 15 (onbeş) gün içinde Kuruma bildirilir.
+
+4.5. Sözleşmede Değişiklik Yapılması
+
+4.5.1. Sözleşmede Protokol hükümleri ve ilgili mevzuat doğrultusunda değişiklik yapılabilir.
+
+4.5.2. Ek sözleşme ile yapılacak değişikliklerle, sözleşmeye aykırılık teşkil eden fiiller
+nedeniyle tebliğ ve itiraz aşamaları tamamlanmış olan yaptırımlardan feragat edilemez.
+
+4.5.3. Kurum, sözleşme şartlarında ek sözleşme ile; tıbbi malzeme listesinde, tıbbi malzeme
+bedellerinde ve geri ödeme kural ve/veya kriterlerinde ise ek sözleşme gerektirmeden
+değişiklik yapabilir.
+
+4.5.4. Düzenlenen ek sözleşmeler Kurumun resmi internet sitesinden ilgililere duyurulur.
+
+4.5.5. Eczaneler sözleşmenin yürütümü sırasında, Kurum tarafından (Ek-6/1) formunda ve
+aranan koşullarda yapılan değişikliklerin gereğini Kurumca belirlenecek süre içerisinde yerine
+getirmekle ve talep edilmişse durumu Kuruma bildirmekle yükümlüdür.
+
+4.5.6. Sözleşmeli eczaneler ek protokol/sözleşme ile yapılan değişikliklere uymakla
+yükümlüdür. Ek protokol/sözleşme ile bildirilen değişiklikleri yerine getirmeyen ve yeni
+koşullara uymayan eczanelerin sözleşmeleri Kurumca tek taraflı feshedilir.
+
+5. ÖDEME ŞARTLARI VE ZAMANI
+
+5.1. Faturaların Düzenlenmesi
+
+5.1.1. Eczane, MEDULA sistemi üzerinden ilgili fatura döneminde reçete karşılığı temin
+ettiği reçetelerinin icmal listelerinin dökümlerini almak suretiyle dönem sonlandırması yapar.
+Her grup için ayrı fatura düzenler.
+
+5.1.2. Sözleşmenin sona ermesi halinde, eczane sözleşmenin sona erdiği tarihten önce temin
+edilen malzeme reçetelerine ilişkin işlemlerini, o ayın son gününü kapsayacak şekilde
+düzenler, dönemi sonlandırarak faturalandırır.
+Eczanenin kapanması halinde kapanış tarihi itibarıyla dönem sonlandırılarak, faturalandırılır.
+
+5.1.3. Eczacı icmal listesini ve faturayı imzalayarak onaylar. Kaşelenmemiş ve eczacının ıslak
+imzası olmayan fatura bedelleri ödenmez.
+
+5.1.4. Trafik kazası, iş kazası, meslek hastalıkları ve adli vaka durumlarında (her hasta için
+ayrı fatura) ve yabancı ülkelerle yapılan sosyal güvenlik sözleşmeleri kapsamında Kurum
+sağlık yardımlarından yararlandırılan ve Sosyal Güvenlik İl Müdürlüklerince düzenlenmiş ve
+onaylanmış “Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi” (aslı veya
+fotokopisi) ile müracaat eden kişilere (ülke bazında ayrı fatura) dair ayrı faturaların manuel
+olarak düzenlenmesi gerekmektedir. Bu grup faturaların örnekleme yapılmaksızın tamamı
+incelenir.
+
+5.2. Fatura ve eki belgeler
+
+5.2.1. SUT’ta belirtilen istisnai durumlar hariç olmak üzere reçetede yer alan malzemenin
+adedi kadar barkod numarası ve etiket aslının reçete ekinde ibraz edilmesi esastır. Ancak,
+ambalajı üzerindeki barkodların çıkarılamadığı/çıkarıldığı zaman sterilizasyonun bozulacağı
+steril ambalajlı malzemeler/cihazlar için reçete arkasına barkod numarasının yazılması ve
+“barkod çıkarıldığında sterilizasyonu bozulur” ifadesinin bulunması gereklidir.
+
+5.2.2. Eczane SUT listeleri altında yer alan özel koşullardaki bilgi ve belgelerle ilgili evrakları
+faturaya bağlı reçete ekinde Kuruma ibraz etmek zorundadır.
+
+5.2.3. Eczanenin TİTUBB’a kayıtlı bayilikleri ile ilgili belgelerin bir örneğinin fatura ekinde
+Kuruma ibrazı zorunludur.
+
+5.3. Faturaların Teslimi
+
+5.3.1. Kesilen faturalar takip eden ayın 15’ine (on beş) kadar Kuruma teslim edilir.
+
+5.3.2. Eczane her grup için düzenlediği faturaları, dönem sonu icmal listelerini, fatura teslim
+tutanakları üst yazısını (Ek-6/6), evrakların zarar görmesini ve bozulmasını engelleyecek
+şekilde, ayrı dosyalar halinde (Dosya üstüne ilgili fatura dönemi ve grup numaraları yazılır.)
+Kurum taşra teşkilatına teslim eder.
+
+5.3.3. Sözleşmenin (5.1.2.) maddesindeki düzenlemeler hariç olmak üzere zamanında teslim
+edilmeyen fatura ve eki belgelerin incelenme ve ödeme süreci, teslim edildiği tarihten sonraki
+fatura döneminde teslim alınmış gibi kabul edilerek ilgili tarihten itibaren başlar. Kuruma
+zamanında teslim edildiği halde Kurum tarafından hatalı kayıt yapılması ya da kayıt altına
+alınamama gibi nedenlerle ödeme geciktirilemez.
+
+5.3.4. Sözleşmenin (5.1.2.) maddesinde düzenlemesi yapılan hallerde kesilen faturalar takip
+eden ayın 15’ine (on beş) kadar Kuruma teslim edilir.
+5.4. Ödeme Esasları
+
+5.4.1. Eczanelere yapılacak ödemelerde Kurumca belirlenecek mevzuat geçerlidir. Bu
+mevzuata aykırı olarak temin edilen malzeme bedelleri ödenmez, ödenmiş ise yapılan bu
+ödemeler yersiz ödeme kabul edilir ve mevzuat hükümleri çerçevesinde geri tahsil edilir.
+
+5.4.2. Bu sözleşme kapsamında eczaneye yapılan yersiz ödemeler ödeme tarihinden itibaren,
+sözleşmenin uygulanmasından kaynaklanan ceza koşulu ise tebliğ tarihinden itibaren
+hesaplanacak kanuni faizi ile birlikte, eczanenin Kurumda tahakkuk etmiş alacağından
+mahsup edilir. Kurumda tahakkuk etmiş alacağı veya yeterli alacağı bulunmayan eczaneler
+için Kurum alacağı söz konusu faizi ile birlikte genel hükümlere göre tahsil edilir.
+
+5.4.3. SUT’ta yer alan malzeme fiyatları tavan fiyatlardır. Eczane SUT fiyatları üzerinden
+ilgili kanunlarda tanımlanan KDV oranlarını ilave ederek fatura düzenler.
+
+5.4.4. Eczacının kendisinin ve/veya çalışanlarının Kuruma sigorta prim aslı, işsizlik sigortası
+prim aslı, cezai şart ile bunlara bağlı gecikme cezası, gecikme zammı ve doğabilecek diğer
+ferilerine ilişkin borcu bulunması halinde bu borç miktarı eczanenin Kurumdaki alacağından
+mahsup edildikten sonra varsa kalan tutar eczacıya ödenir.
+
+5.4.5. Yersiz ödemeler ile ceza koşulunun tahsilinde, önce yersiz ödemelerin mahsubu yapılır.
+
+5.5. Örnekleme
+
+5.5.1. Eczane tarafından Kuruma usulüne uygun şekilde hazırlanarak teslim edilen hasta alt
+bezi fatura ve eki belgeler (Sözleşmenin 5.1.4 numaralı maddesindeki faturalar hariç olmak
+üzere) % 10 örnekleme yapılarak incelenir.
+
+Eczane sözleşme yapılması/yenilenmesi aşamasında hasta alt bezi faturalarının kontrolünde
+örnekleme yönteminin kullanılıp kullanılmaması hakkında tercihini Kuruma vereceği dilekçe
+ile bildirir. Tercihte bulunulmaması halinde örnekleme yöntemi kabul edilmiş sayılır.
+
+5.5.2. Örnekleme yöntemini kabul etmeyen eczanelere ait fatura ve eki belgelerin tamamı
+incelenir.
+
+5.5.3. Kurumca gerekli görüldüğü hallerde ilgili eczanelere ait fatura eki belgelerin tamamı
+incelenebilir.
+
+5.6. Ödeme dönemi
+
+5.6.1. Usulüne uygun şekilde faturalandırılarak Kuruma teslim edilen faturalar teslim
+tarihinden itibaren 60 (altmış) gün içinde incelenerek, SUT’ta yer alan fiyatlar üzerinden
+ödenir.
+
+5.6.2. Fatura dönemi içinde usulüne uygun şekilde faturalandırılarak, fatura teslim süresi
+içinde Kuruma teslim edilmiş ancak 60 (altmış) günün sonunda Kurum taşra teşkilatı
+tarafından inceleme işlemlerinin sonuçlandırılamaması sebebiyle ödenmemiş olan fatura
+bedellerinin tamamı, eczaneye avans olarak ödenir.
+Fatura ve eki belgeler, fatura teslim tarihinden itibaren üç ay içinde incelenerek avans hesabı
+kapatılır. Yapılan inceleme neticesinde reçete ve eki belgelerde eksiklik tespit edilerek
+faturadan kesinti yapılması halinde eczanenin Kurumda tahakkuk etmiş alacağından mahsup
+edilir. Kurumda tahakkuk etmiş alacağı veya yeterli alacağı bulunmayan eczaneler için genel
+hükümlere göre tahsil edilir.
+
+5.7. Ödemelerin Durdurulması
+
+Bu Sözleşme kapsamında eczaneye yapılacak ödemeler ilgili mevzuat hükümleri
+doğrultusunda Kurumca durdurulabilir.
+
+
+
+6. SÖZLEŞMENİN FESHİ VE CEZA KOŞULLARI
+
+6.1. Sözleşmenin Feshini Gerektiren Diğer Hususlar
+
+6.1.1. Taraflar, 30 (otuz) gün öncesinden yazılı bildirimde bulunmak şartıyla, sözleşmeyi
+herhangi bir sebep göstermeksizin her zaman feshedebilir. Sözleşmenin eczane tarafından tek
+taraflı olarak feshedilmesi halinde 6 (altı) ay süreyle tekrar sözleşme yapılmaz.
+
+6.1.2. Eczanenin ruhsatının Sağlık Bakanlığınca iptal edilmesi halinde,          iptal tarihinden
+itibaren MEDULA ekranı kapatılarak reçeteleri kabul edilmez.
+
+6.2. Ceza Koşulu Uygulanacak Fiiller
+
+6.2.1. Eczane ve mesul müdüre ilişkin değişikliklerin bildirilmemesi halinde eczaneye 500
+(beşyüz) TL ceza koşulu uygulanır.
+
+6.2.2. Sözleşmenin (3.2.9) maddesi gereği eczanenin, bayisi olmadığı ve/veya bayilik süresi
+dolduğu halde malzemeleri karşılaması halinde reçete tutarının 2 (iki) katı kadar ceza koşulu
+uygulanır.
+
+6.3. Ceza Koşulu ve Fesih Gerektiren Fiiller
+
+6.3.1. Alınması gereken katılım payının eksik tahsil edildiğinin ve/veya tahsil edilmediğinin
+tespit edilmesi halinde, eczane yazılı olarak uyarılır. 500 (beşyüz) TL tutarında ceza koşulu
+uygulanır. Fiilin tekrarı halinde 1 (bir) ay süreyle sözleşme askıya alınır.
+
+6.3.2. Katılım payı alınmaması gereken kişilerden katılım payı tahsil edildiğinin tespiti
+halinde, tahsil edilen katılım payı eczaneden tahsil edilerek ilgili hasta/hasta yakınına iade
+edilir, eczane yazılı olarak uyarılır ve 500 (beşyüz) TL tutarında ceza koşulu uygulanır. Fiilin
+tekrarı halinde 1(bir) ay süreyle sözleşme askıya alınır.
+
+6.3.3. Eczane tarafından Kuruma fatura edilen reçete arkasında bulunması gereken hasta/hasta
+yakınına ait imzanın hasta/hasta yakınına ait olmadığının tespit edilmesi halinde, ilgili reçete
+bedelinin 2 (iki) katı tutarında cezai şart uygulanarak eczane yazılı olarak uyarılır. Aynı fiilin
+tekrar edilmesi halinde malzeme bedelinin/bedellerinin 5 (beş) katı tutarında cezai şart
+uygulanarak, 1(bir) ay süreyle sözleşme askıya alınır. Ancak, hastanın reçete muhteviyatı
+malzeme/malzemeleri aldığını beyan etmesi durumunda bu madde hükmü uygulanmaz.
+
+6.3.4. Eczane tarafından reçete veya hasta seçimi yapıldığının ve/veya hastalara ait bilgilerin
+üçüncü şahıslarla paylaşıldığının tespiti halinde, ilk tespitte yazılı olarak uyarılır, ikinci
+tespitte 2 (iki) ay süreyle sözleşme askıya alınır.
+
+6.3.5. Belirtilen sürelerin sonunda malzemenin teslim edilmemesi halinde malzeme bedelinin
+2 (iki) katı kadar ceza koşulu uygulanarak eczane yazılı uyarılır. Tekrarı halinde malzeme
+bedelinin 10 (on) katı kadar ceza koşulu uygulanır. 6(altı) ay süreyle sözleşme askıya alınır.
+
+6.3.6. Eczane tarafından reçete sahibinin kurallara uygun yazılmış reçete ve raporunda yer
+alan malzemenin hastaya bedeli karşılığında satıldığının tespiti halinde, malzeme bedelinin
+5(beş) katı kadar ceza koşulu uygulanır. Reçete içeriği malzemenin hastadan bedeli alınıp
+aynı zamanda Kuruma fatura edilmesi halinde malzeme bedelinin 10(on) katı ceza koşulu
+uygulanarak sözleşmesi feshedilir ve 1 (bir) yıl süreyle sözleşme yapılmaz.
+
+6.3.7. Kurum ile sözleşmesi feshedilen eczanenin karşılamaya devam ettiği reçetelerin,
+Kurum ile sözleşmeli bir başka eczane tarafından Kuruma fatura edilmesi halinde fatura eden
+eczaneye söz konusu reçete/reçetelerinin 10(on) katı ceza koşulu uygulanır, ilgili eczane
+yazılı uyarılır. Tekrarı halinde söz konusu reçete/reçetelerinin 20(yirmi) katı ceza koşulu
+uygulanır, eczanenin sözleşmesi 6 (altı) ay süreyle askıya alınır.
+
+6.3.8. Reçetelerdeki ıslak imzanın eczacıya ait olmadığının Kurum tarafından tespit edilmesi
+halinde ilgili eczacı uyarılır, reçete bedelinin 10(on) katı ceza koşulu uygulanır. Tekrarı
+halinde reçete bedelinin 20(yirmi) katı ceza koşulu uygulanır sözleşme feshedilir ve 1 (bir) yıl
+süreyle sözleşme yapılmaz.
+
+6.3.9. Eczacı veya eczanede çalışanlar tarafından reçete/reçete eki belgede tahrifat
+yapıldığının tespit edilmesi halinde, reçete tutarının 10 (on) katı ceza koşulu uygulanır.
+Eczane uyarılır. Tekrarı halinde reçete tutarının 20 (yirmi) katı ceza koşulu uygulanarak,
+sözleşmesi feshedilir ve 1 (bir) yıl süreyle sözleşme yapılmaz.
+
+6.3.10. Eczacı veya eczanede çalışanlar tarafından sahte reçete/reçete eki belgenin (sahte
+barkod, sahte reçete veya sahte rapor vb.) Kuruma fatura ettiğinin tespit edilmesi halinde
+reçete tutarının 10(on) katı tutarında ceza koşulu uygulanır. Tekrarı halinde reçete tutarının 20
+(yirmi) katı ceza koşulu uygulanarak sözleşme feshedilir ve 1 (bir) yıl süreyle sözleşme
+yapılmaz.
+
+6.3.11. Kurumca yapılan incelemeler neticesinde provizyon sistemine gerçeğe aykırı reçete
+kaydı yapılarak Kuruma fatura edildiğinin tespiti halinde reçete bedelinin 10 (on) katı
+tutarında cezai şart uygulanarak eczane uyarılır. Tekrarı halinde reçete bedelinin 20 (yirmi)
+katı tutarında cezai şart uygulanarak, sözleşme feshedilir ve 2 (iki) yıl süre ile sözleşme
+yapılmaz.
+6.3.12. Kurum tarafından yapılacak inceleme ve denetimlerde istenilen bilgi ve belgelerin
+ibraz edilmemesi, inceleme ve denetime engel olunması denetimle görevli olan memurların
+görevlerini yapmasını engellemek amacıyla cebir ve tehdit kullanan eczanelere, Türk Ceza
+Kanununun 265 inci maddesi saklı olmak üzere 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanunun 102.maddesinin 1. Fıkrasının (ı) bendinde yer alan yaptırımlar uygulanır.
+
+
+
+6.4. Ceza Koşulları ve Fesih İşlemlerine İlişkin Diğer Hükümler
+
+6.4.1. Ceza koşulu ve/veya fesih uygulamasını gerektiren bir fiilin tespiti halinde 20 (yirmi) iş
+günü içinde eczaneden yazılı savunma istenir. Savunma talep yazısının tebliğ tarihinden
+itibaren 10 (on) iş günü içinde eczane savunmasını verir. Kurum gerekli gördüğü hallerde bu
+süreyi uzatabilir. Kurum müfettişlerince yapılan inceleme veya soruşturmalarda, müfettişlerce
+savunma alınmış olması halinde aynı konuya ilişkin olarak Kurumca yeniden savunma
+istenmez.
+
+6.4.2.Süresi içerisinde savunma verilmemesi veya verilen savunmanın değerlendirilmesi
+sonucunda ceza koşulu ve/veya fesih uygulanmasına karar verilmesini müteakip eczaneye
+gerekli tebliğ yapılır. Eczane, ceza koşulu ve fesih işleminin tebliğ tarihinden itibaren 10 (on)
+iş günü içinde Kurumun taşra teşkilatına itiraz edebilir. İtirazlar feshin ve ceza koşulunun
+uygulanmasını durdurmaz. İtirazlar, mücbir sebepler dışında 15 (onbeş) iş günü içinde
+Kurum taşra teşkilatınca karara bağlanır. Ceza koşulu, uyarı ve feshe ilişkin işlemlerde tebliğ
+tarihi esas alınır.
+
+Konu ile ilgili olarak mahkemeye başvurulmuş olması, ceza koşulunun takip ve tahsili ile
+feshin uygulanmasını durdurmaz.
+
+6.4.3. Bu Sözleşmenin (6) başlıklı bölümündeki ceza koşullarından;
+
+a) (6.3.1),(6.3.2),(6.3.3),(6.3.5),(6.3.6), (6.3.9), (6.3.10),(6.3.11) maddelerdeki ceza koşulları
+reçete bazında değerlendirilir.
+
+b) (6.3.12) maddelerdeki ceza koşulları inceleme dönemi olarak değerlendirilir.
+
+c) (6.3.4),(6.3.7),(6.3.8) maddedeki ceza koşulları fatura dönemi olarak değerlendirilir.
+
+6.4.4. Eczane tarafından sözleşmenin (6.4.3) maddesinin (a) bendinde belirtilen fiil/fiillerden,
+bir fatura dönemi için uygulanacak ceza koşulunun hesaplanması reçete bazında yapılır. Bir
+reçetede birden fazla usulsüz fiilin tespit edilmesi durumunda ceza koşullarından en yüksek
+olanı esas alınır.
+
+Bir fatura döneminde ceza koşulu gerektiren fiil/fiillerin birden fazla reçetede tespit edilmesi
+halinde belirlenen ceza koşulu her bir reçete için ayrı ayrı hesaplanıp bu bedeller toplanmak
+suretiyle tahsil edilir.
+Yine aynı sözleşme döneminde, sözleşmenin (6) başlıklı maddesinde belirtilen fiil/fiillerden
+sözleşmenin feshini gerektiren birden fazla farklı fiilin işlendiğinin tespiti halinde uzun olan
+fesih süresi uygulanır.
+
+6.4.5. Sözleşmenin (6) başlıklı maddesinde belirtilen ilgili fiil/fiillerin gerçekleştirildiğinin
+tespiti halinde eczane yazılı olarak uyarılır. Tebliğ tarihi esas olmak üzere bir sene içinde aynı
+fiil/fiilin gerçekleşmesi ikinci tekrar olarak değerlendirilir.
+
+6.4.6. Yazılı uyarının tebliğ edildiği tarihten önceki dönemlere ait olup Kuruma teslim edilmiş
+reçetelerde aynı fiilin tekrarının tespiti halinde ceza koşulu uygulanır.
+
+6.4.7. Kurum tarafından sözleşmesi feshedilmiş eczane ile feshe neden olan fiillere bağlı
+olarak oluşan Kurum alacakları tahsil edilmeden ve fesih süresi tamamlanmadan yeni bir
+sözleşme yapılmaz.
+
+6.4.8. 5237 sayılı Kanunda belirtilen ve Kurum zararına neden olan nitelikli dolandırıcılık
+suçunun işlendiğinin kesinleşmiş mahkeme kararıyla sabit görülmesi şartıyla, söz konusu
+fiillerin eczacı veya çalışanları tarafından işlendiği durumda ilgililerin herhangi bir şekilde
+faaliyette bulunduğu eczane ile hiçbir şekilde sözleşme yapılmaz, kesinleşmiş mahkeme
+kararının beklenmesi, sözleşmede belirtilen ceza koşulu ve/veya fesih sürelerinin
+uygulanmasına engel olmaz.
+
+6.4.9. Sözleşmede ceza koşulu veya fesih uygulamasını gerektiren fiillerin 26.09.2004 tarihli
+ve 5237 sayılı Türk Ceza Kanunu yönünden de suç oluşturması halinde ilgililer hakkında
+Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+
+6.4.10. Fesih nedeniyle sözleşme yapılmayacak süre dolduğunda, feshe ilişkin yargı süreci
+devam etse dahi, Kurum alacaklarının tahsil edilmiş olması şartıyla, eczacının talebinin,
+Kurum tarafından uygun görülmesi halinde sözleşme yapılabilir.
+
+6.4.11. Eczane sahibi ve mesul müdürün aynı kişi olmadığı durumlarda, her ikisi de
+fesih/uyarı ve ceza koşullarına ilişkin hükümlerden doğan borçlardan müştereken ve
+müteselsilen sorumludurlar.
+
+6.4.12. Sağlık Bakanlığı ve İl Sağlık Müdürlüklerince görevlendirilen yasal denetçiler
+tarafından eczanede yapılan denetimlerde bu sözleşmenin feshini ve/veya cezai şart gerektiren
+hususlarının tespit edilerek Kuruma bildirilmesi halinde, bu durum Kurum tarafından
+değerlendirilerek fesih hükümleri ve süreleri ile cezai şartlara ilişkin işlem yapılır.
+
+6.4.13. Türk Eczacıları Birliği Merkez Heyeti ve Bölge Eczacı Odaları tarafından yapılan
+denetimlerde, bu sözleşmenin feshini ve/veya cezai şartı gerektiren hususların tespiti halinde
+bu hususlar Kuruma bildirilir. Yapılan bildirim Kurum tarafından değerlendirilerek yukarıda
+belirtilen fesih hükümleri ve süreleri ile cezai şarta ilişkin işlem yapılır. Kurum aleyhine dava
+açılması halinde, açılan dava Türk Eczacıları Birliğine ihbar edilir. Eczacı odası tespiti ve
+TEB Merkez Heyeti onayına istinaden yapılan işlemlerin yargı kararı ile haksız olduğuna
+ilişkin karar verilmesi durumunda, eczacının uğradığı her türlü maddi ve manevi zarar, tespiti
+yapan eczacı odası ile Türk Eczacıları Birliğince müteselsilen karşılanır.
+
+7. İNCELEME VE DENETİM
+
+Kurum, eczane ve fatura edilen tıbbi malzemeler ile ilgili her türlü bilgi, belge ve
+dokümanları isteme, inceleme, kopyalarını alma, eczacının, eczane çalışanlarının ya da sağlık
+hizmeti sunucularının bilgisine başvurma ve denetim yetkisine sahiptir. Kurum bu yetkisini,
+uygun gördüğü zamanlarda, Sosyal Güvenlik Kurumu Kapsamındaki Kişilerin Türk
+Eczacıları Birliği Üyesi Eczanelerden İlaç Teminine İlişkin Protokol hükümleri doğrultusunda
+kullanabilir.
+
+
+
+8. SÖZLEŞMEYLE İLİŞKİN DİĞER HÜKÜMLER
+
+8.1. Kurum tarafından eczaneye yapılacak ceza koşulu ve/veya uyarı ve/veya fesih cezaları ile
+ilgili tebligatlar sözleşmede belirttiği adresine, eczane tarafından Kuruma yapılacak
+bildirimler ise Kurumun ilgili taşra teşkilatına, 7201 sayılı “Tebligat Kanunu” hükümlerine
+göre yapılır.
+
+8.2. Sözleşmede belirtilen adrese yapılan tebligatlar eczaneye yapılmış sayılır. Adres
+değişikliği halinde, Kuruma bildirilen son adrese yapılan tebligatlar geçerli sayılır. Adres
+değişikliğinin Kuruma bildirilmemiş olması halinde sözleşmede belirtilen adrese yapılan
+tebligatlar geçerli sayılır.
+
+8.3. Eczane, Kurumdan doğmuş ve doğacak alacaklarını hiçbir suretle başka bir eczane
+ve/veya gerçek ve/veya tüzel kişilere devir ve temlik edemez.
+
+8.4. Sözleşmeden doğacak her türlü vergi, resim harç ve masraflar satış eczaneye aittir.
+
+8.5. Sözleşme için TEB tarafından eczanelerden herhangi bir sözleşme ücreti alınmaz.
+
+9. MÜCBİR SEBEP
+
+Eczaneden kaynaklanan bir kusurdan ileri gelmemiş olması, hizmetin yerine getirilmesine
+engel nitelikte olması, eczanenin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması,
+mücbir sebebin meydana geldiği tarihi izleyen 15 (onbeş) gün içinde eczacının Kuruma yazılı
+olarak bildirimde bulunması ve bu durumun yetkili merciler tarafından belgelendirilmesi
+kaydıyla aşağıda belirtilen haller mücbir sebep olarak kabul edilir.
+
+a) Doğal afetler,
+
+b) Kanuni grev,
+
+c) Genel salgın hastalık,
+
+ç) Kısmi veya genel seferberlik ilanı,
+d) Gerektiğinde Kurum tarafından kabul edilecek benzeri diğer haller.
+
+10. YETKİLİ MAHKEME
+
+Bu sözleşmenin uygulanmasından doğan uyuşmazlıklarda, ANKARA ili mahkeme ve icra
+daireleri / sözleşmeyi yapan taşra teşkilatının bulunduğu yer mahkemeleri ve icra daireleri
+yetkilidir.
+
+11. YÜRÜRLÜK
+
+11.1. Bu sözleşme, … /… /2017 tarihinden, 31/12/2017 tarihine kadar geçerlidir.
+
+11.2. İmzalanan sözleşmeler, Sözleşmede belirtilen istisnalar dışında, her takvim yılının 15
+Aralık günü mesai bitimine kadar sözleşme taraflarından birisi feshi ihbar etmediği taktirde
+aynı şartlarla bir yıl daha uzamış sayılır.
+
+12. YÜRÜTME
+
+12.1. Bu sözleşmenin imzalanması ve yürütümü Kurum taşra teşkilatı tarafından yapılır.
+
+12.2. …. (…………) sayfa, iki nüsha ve eki 8 (sekiz) belge olarak düzenlenen bu sözleşme
+metni, taraflar arasında karşılıklı mutabakat ile imzalanmıştır. Sözleşmenin bir nüshası
+eczanede ve bir nüshası da Kurum taşra teşkilatında saklanır.
+
+          Eczane Mesul Müdürü                           Sosyal Güvenlik Kurumu
+
+
+
+Adı –Soyadı
+
+İmza
+
+
+
+
+İmza Tarihi: …/…/20…
+
+Eczane Sicili:
+
+Eczane Adresi ve Kaşesi:
+
+
+
+EKLER:
+
+Ek-6/1: İstenecek Belgeler
+
+Ek-6/2: Sözleşme Başvuru Formu
+
+Ek-6/3: Eczane Taahhütnamesi Örneği
+Ek-6/4: Hasta İşlem Formu
+
+Ek-6/5: Hasta Taahhütnamesi Örneği
+
+Ek-6/6: Eczane Sözleşmesi Dönem Fatura Teslim Üst Yazısı Örneği
+
+Ek-6/7: Kaşe örneği
+
+Ek-6/8: Tıbbi malzeme listesi
+                                                                              EK-6/1
+
+
+            SÖZLEŞME YAPMAK İÇİN ARANAN BELGELER FORMU
+NO   BELGE ADI                                  AÇIKLAMA
+1    Sözleşme Başvuru Formu                     Bu Sözleşmenin Ekinde yer alan Ek-6/2
+                                                Formu
+     Eczane Mesul Müdürü imza sirküleri, Noter tarafından onaylanmış olmalıdır.
+2    Kimlik fotokopisi
+3    Eczane Mesul Müdürünün İl sağlık Noter onaylı/ Düzenleyen İl sağlık
+     müdürlüğü tarafından düzenlenmiş mesul müdürlüğü tarafından onay
+     müdürlük belge ve eczane ruhsat fotokopisi
+4    Eczane Mesul Müdürüne ilişkin Adli sicil Aslı
+     kaydını gösterir belge
+5    Eczane tarafından imzalanmış Ek te yer Aslı
+     alan taahhüt
+
+
+
+
+Eczane Mesul Müdürünün                    Kontrolü Yapan Kurum Yetkilisi
+Yetkilisi Personelin
+Adı Soyadı:                               Adı Soyadı:
+Eczane Kaşesi
+                                          Görevi:
+İmza:
+                                          İmza:
+Tarih:
+                                          Tarih:
+                                                               EK-6/2
+
+
+                         SÖZLEŞME BAŞVURU FORMU
+
+Eczanenin Adı
+
+Eczane Tanımlayıcı No
+
+Vergi Numarası
+
+                                 İLETİŞİM BİLGİLERİ
+Cadde/Sokak
+
+Bina/Daire Numarası
+
+İlçe/Semt
+
+İl
+
+Posta Kodu
+Telefon
+Numarası – 1
+Telefon
+Numarası – 2
+
+Faks Numarası
+Elektronik
+Posta Adresi
+
+                        Adı                           Soyadı
+        Eczane Mesul
+         Müdürünün
+                        İmzası
+
+
+Tarih
+                                                                                           EK-6/3
+
+                               ECZANE TAAHHÜTNAMESİ
+
+Kurumunuz tarafından sağlık hizmetleri karşılanan Genel Sağlık Sigortalısı ve bakmakla
+yükümlü olduğu kişiler ile ikili sosyal güvenlik sözleşmeleri çerçevesinde sağlık hizmetleri
+Sosyal Güvenlik Kurumu tarafından karşılanan kişiler için sağlık hizmeti sunucuları
+tarafından reçete ve sağlık raporu ile ihtiyaç gösterilen ve tarafımızca temin edilen
+malzemelerin,
+
+Hastaya intikalinde, ilgili hastanın Korunması Yasası ve yönetmeliklerinin öngördüğü şartları
+yerine getireceğimizi,
+
+Garanti belgesi, kullanma kılavuzuna sahip ürünlerin garanti belgesi ve kullanma kılavuzlarını
+hastaya vereceğimizi,
+
+Eczanemizden istenen her türlü bilgi ve belgeleri eksiksiz ve doğru olarak istenen süre
+içerisinde Sosyal Güvenlik İl Müdürlüğüne intikal ettireceğimizi,
+
+Garanti süresi boyunca ve satış sonrası bakım, onarım hizmetlerini ve yedek parça teminini
+eczane aracılığı ile malzemenin bakım /onarım işlemleri ile ilgili servise ya da üretici/ithalatçı
+firmaya ulaştırılması ve geri gönderilmesi ile ilgili olarak nakliye, posta, kargo veya benzeri
+herhangi bir ulaşım giderinin hastadan talep edilmeksizin eksiksiz olarak tarafımızca yerine
+getirileceğini,
+
+Genel sağlık sigortalılarına ait tıbbi bilgilerin gizliliği ile ilgili geçerli yasal gerekliliklere
+uymanın gerektiğini ve kişisel veri niteliğindeki bilgilerini üçüncü kişilerle
+paylaşmayacağımı,
+
+Aksi halde, ithalat rejimi Kararları ve Yönetmeliği ile Hasta Kanununda öngörülen
+müeyyidelerin eczanemize uygulanmasını ve hakkımızda diğer lüzumlu tedbirlerin alınmasını
+kabul ve taahhüt ederiz. (Tarih)…./…./……..
+
+
+
+Eczane Adı:
+
+Adresi:
+
+Telefon numarası:
+
+Kaşe
+
+                                   Eczane Mesul Müdürünün
+
+                                           Adı-Soyadı
+
+                                              İmza
+                                                                           EK-6/4
+                                  HASTA İŞLEM FORMU
+
+TC Kimlik No:
+
+Hasta Adı Soyadı:
+
+Hasta Telefon No:
+
+Hasta Adresi:
+
+MALZEMELER
+
+SUT Kodu                SUT Adı                       Teslim Tarihi:
+
+
+
+
+Malzemeleri Teslim Alanın                             Eczane Kaşe İmzası
+
+Hasta/ Hasta yakını TC Kimlik No:
+
+Hasta/ Hasta yakını adresi/Telefon No:
+
+
+
+Adı /Soyadı
+Tarih/İmza
+                                                                                    EK-6/5
+
+
+                                HASTA TAAHHÜTNAMESİ
+
+
+Tıbbi Malzeme Adı       : …………………………
+SUT Kodu         : …………………………
+SUT Miad Süresi : ………………………….
+Yukarıda bilgileri verilen, ……………………. isimli eczaneden talep ettiğim, malzeme ile
+aynı işlevsel özellikte ve aynı tıbbi sonucu verdiği kabul edilen malzemenin daha önceden
+bedeli Sosyal Güvenlik Kurumu tarafından ödenmek suretiyle;
+   Temin etmediğimi
+   Temin ettiğimi ancak SUT’ ta belirlenmiş olan miad süresinin dolduğunu,
+aksi durumun tespiti halinde her türlü hukuki ve maddi sorumluluğunun tarafıma ait olduğunu
+kabul ve beyan ederim. Tarih .…/…./….
+                                                      Hasta Adı-Soyadı
+Genel Sağlık Sigortalısının:
+Adı-Soyadı / T.C. Kimlik No :
+Hastanın
+Adı-Soyadı                :
+T.C. Kimlik No             :
+Yakınlığı                  :
+Adres                     :
+Cep Tel                   :
+
+
+Bu taahhüttün yukarıda kimlik bilgileri bulunan…………… tarafından………………adlı
+malzemenin teminine ilişkin Sosyal Güvenlik Kurumu tarafından ödenmek suretiyle
+karşılamadığına ilişkin taahhütnamenin, gerçeğe aykırı olduğunun bu sözleşmeye taraf
+Kurum tarafından tespiti halinde geçerli olacağını hiçbir sebep veya nedenle amacı dışında
+hasta tarafından verilecek taahhütü kullanmayacağımızı kabul ve beyan ederiz.
+(Tarih)…./…./……..
+Eczane Adı:/Adresi:
+Telefon numarası:
+Eczane Kaşe :
+Eczane Mesul Müdürü İmzası
+                                                                                        EK-6/6
+
+
+          ECZANE SÖZLEŞMESİ DÖNEM FATURA TESLİM ÜST YAZISI
+
+
+
+        Kurumunuz tarafından sağlık hizmetleri karşılanan Genel Sağlık Sigortalısı ve
+bakmakla yükümlü olduğu kişiler ile ikili sosyal güvenlik sözleşmeleri çerçevesinde sağlık
+hizmetleri Sosyal Güvenlik Kurumu tarafından karşılanan kişiler adına sözleşmeli/protokollü
+sağlık hizmeti sunucuları tarafından reçete ve sağlık raporu ile ihtiyaç gösterilen malzemelerle
+ilgili Kurumunuz ile Eczanem arasında …/…/…… tarihinde imzalamış olduğum, Sosyal
+Güvenlik Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden Tıbbi
+Malzemelerin Temini Sözleşmesi hükümlerine istinaden temin ettiğim fatura
+muhteviyatlarının …………. Bankası ………… şubesi …….. hesap numarasına ödenmesini
+arz ederim.
+
+
+
+
+Eczane İsmi:
+
+Eczane Mesul Müdürü Adı ve Soyadı:
+
+Eczane Adresi:
+
+Tarih ve İmza:
+
+
+
+
+Ekler: 1- İcmal Listesi
+
+        2-….adet Fatura ve ekleri
+                                 EK-6/7
+
+
+
+………………. ECZANESİ
+
+Malzeme Vücut Tarafı (varsa) :
+
+SUT Kodu :
+
+Müracaat Tarihi:
+
+Hasta T.C. Kimlik No :
+
+Tel No veya Adres:
+
+İmza:
+
+
+
+……………. tarihinde teslim aldım.
+
+Adı Soyadı:
+
+İmza:
+
+T.C. Kimlik No:
+                                                                            EK-6/8
+
+                               TIBBİ MALZEME LİSTESİ
+SIRA
+       SUT KODU ALAN TANIMI                                                 LİSTE
+ NO
+                VARİS ÇORABI VE ANTİEMBOLİZM ÇORAP VE MANŞONU
+ 1     DO1001   VARİS ÇORABI (ÇİFT)                                           EK-3/C-3
+ 2     DO1002   ANTİEMBOLİZM BASINÇ ÇORABI                                    EK-3/C-3
+ 3     DO1003   ANTİEMBOLİZM BASINÇ MANŞONU                                   EK-3/C-3
+                KONUŞMA CİHAZI
+ 4     DO1006   KONUŞMA CİHAZI                                                EK-3/C-3
+                ASPİRATÖR CİHAZI
+ 5     DO1007   EV TİPİ ASPİRATÖR                                             EK-3/C-3
+                NEBÜLİZATÖR CİHAZI
+ 6     DO1008   NEBÜLİZATÖR                                                   EK-3/C-3
+                PULSE OKSİMETRE CİHAZI
+ 7     DO1018   PULSE OKSİMETRE CİHAZI                                        EK-3/C-3
+                DİĞER
+ 8     DO1022   ENÜREZİS ALARM CİHAZI                                         EK-3/C-3
+                ALT EKSTREMİTE ORTEZLERİ
+ 9     OP1000   ALÜMİNYUM KOLTUK DEĞNEĞİ (ADET FİYATIDIR)                     EK-3/C-2
+ 10    OP1001   AYAK BİLEĞİ STABİLİZASYON ORTEZİ (HAVA, JEL VB. YASTIKLI)     EK-3/C-2
+ 11    OP1007   BASTON (ADEDİ)                                                EK-3/C-2
+ 12    OP1011   CANADİAN (ALÜMİNYUM, ADEDİ)                                   EK-3/C-2
+ 13    OP1014   YAN BARLI,DİZ ORTEZİ (SABİTLEYİCİ/EKLEMSİZ)                   EK-3/C-2
+ 14    OP1016   DİZLİK YÜN                                                    EK-3/C-2
+ 15    OP1017   DİZLİK NEOPREN (PATELLA AÇIK/KAPALI)                          EK-3/C-2
+ 16    OP1023   ELASTİK AYAK BİLEKLİĞİ                                        EK-3/C-2
+ 17    OP1024   FLEKSİBLE BALENLİ ELASTİK AYAK BİLEKLİĞİ                      EK-3/C-2
+ 18    OP1025   ELASTİK DİZLİK                                                EK-3/C-2
+ 19    OP1026   EPİN YASTIĞI                                                  EK-3/C-2
+ 20    OP1027   FLEKSİBLE BALENLİ DİZLİK                                      EK-3/C-2
+ 21    OP1028   HALLUKS VALGUS ATELİ (ADEDİ)                                  EK-3/C-2
+ 22    OP1029   HALLUKS VALGUS MAKARASI (ADEDİ)                               EK-3/C-2
+ 23    OP1031   KALÇA ABDÜKSİYON/DKÇ ORTEZLERİ                                EK-3/C-2
+ 24    OP1032   KALKANEAL KAP                                                 EK-3/C-2
+ 25    OP1048   EPİN TAKVİYESİ (ÇİFT)                                         EK-3/C-2
+ 26    OP1049   ARK TAKVİYELİ TABANLIK (ÇİFT)                                 EK-3/C-2
+ 27    OP1052   ORTOPEDİK BOT (ÇİFTİ)                                         EK-3/C-2
+ 28    OP1053   KENDİNDEN AFO'LU BOT                                          EK-3/C-2
+ 29    OP1054   PATELLAR TENDON BANDI                                         EK-3/C-2
+ 30    OP1074   TRİPOT (ALÜMİNYUM)                                            EK-3/C-2
+ 31    OP1106   WALKER (ALÜMİNYUM)(HAREKETLİ-SABİT-TERS)                      EK-3/C-2
+                WALKER (MODİFİYE; AKSİLLA DESTEKLİ, ÖNKOL DESTEKLİ,
+                VS)
+ 32    OP1108                                                                 EK-3/C-2
+              ÜST EKSTREMİTE ORTEZLERİ
+              İNCE EL BECERİLERİNİ DESTEKLEYEN TUTMA VE KAVRAMA
+33   OP1111                                                        EK-3/C-2
+              APARATLARI DİNAMİK
+              İNCE EL BECERİLERİNİ DESTEKLEYEN TUTMA VE KAVRAMA
+34   OP1112                                                        EK-3/C-2
+              APARATLARI STATİK
+35   OP1118   BAŞPARMAK BANDI                                      EK-3/C-2
+36   OP1124   EL BİLEĞİ BALENLİ YÜN SPLİNT                         EK-3/C-2
+37   OP1125   ELASTİK DİRSEKLİK                                    EK-3/C-2
+38   OP1126   EPİKONDİLİT BANDI                                    EK-3/C-2
+              KLAVİKULA BANDAJI-VALPAU BANDAJI-KOL ASKISI-OMUZ
+39   OP1131                                                        EK-3/C-2
+              ASKISI
+40   OP1135   OMUZ RETRAKSİYON HARNESİ                             EK-3/C-2
+41   OP1140   SARMİENTO ORTEZİ                                     EK-3/C-2
+42   OP1142   STATİK DİRSEK SPLİNTİ                                EK-3/C-2
+43   OP1144   STATİK EL-BİLEK SPLİNTİ                              EK-3/C-2
+44   OP1147   STATİK EL SPLİNTİ                                    EK-3/C-2
+45   OP1149   STATİK PARMAK SPLİNTİ                                EK-3/C-2
+46   OP1151   STATİK EL-BİLEK-DİRSEK SPLİNTİ                       EK-3/C-2
+              DORSOLOMBER/TORAKOLOMBER ÇELİK/FLEKSİBLE BALENLİ
+47   OP1268                                                        EK-3/C-2
+              KORSE
+48   OP1275   SERVİKAL ORTEZ (SÜNGER) (COLLAR-BOYUNLUK)            EK-3/C-2
+49   OP1276   SERVİKAL ORTEZ (PLASTAZOT) (COLLAR-BOYUNLUK)         EK-3/C-2
+50   OP1277   SERVİKAL ORTEZ (PHİLADELPHİA)                        EK-3/C-2
+51   OP1280   GÖVDE KORSESİ ELASTİK (CERRAHİ SONRASI)              EK-3/C-2
+52   OP1282   HİPEREKSTANSİYON ORTEZ (JEWETT VB TLO)               EK-3/C-2
+53   OP1283   LUMBOSAKRAL FLEKSİBLE/ÇELİK BALENLİ KORSE            EK-3/C-2
+54   OP1285   LUMBOSAKRAL YÜN ELASTİK KORSE                        EK-3/C-2
+55   OP1286   MİDE KORSESİ GENEL CERRAHİ                           EK-3/C-2
+56   OP1287   MİNERVA ORTEZİ CTO                                   EK-3/C-2
+              TEKERLEKLİ SANDALYELER
+57   OP1342   STANDART MANUEL TEKERLEKLİ SANDALYE                  EK-3/C-2
+58   OP1343   HAFİF MANUEL TEKERLEKLİ SANDALYE                     EK-3/C-2
+59   OP1344   PEDİATRİK TEKERLEKLİ SANDALYE                        EK-3/C-2
+60   OP1294   TEKERLEKLİ SANDALYE OTURMA ADAPTASYONU               EK-3/C-2
+              DİĞER
+61   OP1299   YÜZ BASKI MASKESİ ELASTİK                            EK-3/C-2
+62   OP1300   HAVALI YATAK                                         EK-3/C-2
+63   OP1301   HAVALI MİNDER                                        EK-3/C-2
+              GÖRME ENGELLİLER İÇİN TELESKOPİK VEYA KATLANABİLİR
+64   OP1341                                                        EK-3/C-2
+              BASTON
+              ASPİRASYON KATETERİ
+65   A10000   ASPİRASYON KATETERİ                                  EK-3/C-4
+              ÜRİNER SİSTEM SONDA, TORBA VE KATETERLERİ
+66   A10004   İDRAR TORBASI                                        EK-3/C-4
+67   A10005   İDRAR TORBASI MUSLUKLU 2000 CC.                      EK-3/C-4
+68   A10006   İDRAR TORBASI STERİL MUSLUKLU 2000 CC.               EK-3/C-4
+69    A10007   İDRAR TORBASI 100 CC.ERKEK İÇİN STERİL               EK-3/C-4
+70    A10008   İDRAR TORBASI 100 CC.KIZ İÇİN STERİL                 EK-3/C-4
+71    A10009   SONDA, PREZERVATİF                                   EK-3/C-4
+               ENTERAL VE PARENTERAL BESLENME SONDA, TORBA VE
+               SETLERİ
+72    A10022   ENTERAL BESLENME POMPA SETİ (TORBALI)                EK-3/C-4
+73    A10023   ENTERAL BESLENME POMPA SETİ (ŞİŞE KAPAKLI)           EK-3/C-4
+74    A10024   ENTERAL BESLENME SETİ GRAVİTY                        EK-3/C-4
+75    A10031   ENJEKTÖR 50CC ( BESLENME AMAÇLI-GÜN AŞIRI 1 ADET)    EK-3/C-4
+               KOLOSTOMİ, İLEOSTOMİ VE ÜROSTOMİ MALZEMELERİ
+               KOLOSTOMİ TORBASI (TEK PARÇALI ALTTAN
+76    A10036                                                        EK-3/C-4
+               BOŞALTMALI)(FİLTRE DAHİL)
+77    A10037   KOLOSTOMİ ADAPTÖRÜ                                   EK-3/C-4
+78    A10038   KOLOSTOMİ TORBASI (ADAPTÖR İÇİN) (FİLTRE DAHİL)      EK-3/C-4
+               İLEOSTOMİ TORBASI(TEK PARÇALI ALTTAN
+79    A10039                                                        EK-3/C-4
+               BOŞALTMALI)(FİLTRE DAHİL)
+80    A10040   İLEOSTOMİ ADAPTÖRÜ                                   EK-3/C-4
+81    A10041   İLEOSTOMİ TORBASI (ADAPTÖR İÇİN)(FİLTRE DAHİL)       EK-3/C-4
+82    A10042   MACUN, İLEOSTOMİ                                     EK-3/C-4
+83    A10043   PASTA, KOLOSTOMİ                                     EK-3/C-4
+84    A10044   ÜROSTOMİ TORBASI ÇEŞİTLERİ                           EK-3/C-4
+85    A10045   ÜROSTOMİ ADAPTÖRÜ                                    EK-3/C-4
+86    A10046   PASTA, ÜROSTOMİ                                      EK-3/C-4
+87    A10047   STOMA CAP                                            EK-3/C-4
+               HASTA HİJYENİ İÇİN KULLANILAN BAKIM MALZEMELERİ
+88    A10048   AĞIZ BAKIM SETİ (GÜNLÜK KULLANIM İÇİN)               EK-3/C-4
+89    A10049   HASTA ALT BEZİ/KÜLOTLU HASTA ALT BEZİ                EK-3/C-4
+90    A10118   ÇOCUK HASTA ALT BEZİ/ ÇOCUK KÜLOTLU HASTA ALT BEZİ   EK-3/C-4
+               DİYALİZ SARF MALZEMELERİ
+               BAĞLANTI ADAPTÖRÜ, PERİTON DİALİZ, KATETERİ İÇİN,
+91    A10050                                                        EK-3/C-4
+               PLASTİK
+               BAĞLANTI ADAPTÖRÜ, PERİTON DİALİZ, KATETERİ İÇİN,
+92    A10051                                                        EK-3/C-4
+               TİTANYUM
+93    A10052   SET, ARA BAĞLANTI, PERİTON DİALİZ KATETERİ İÇİN      EK-3/C-4
+94    A10053   PRİTON DİYALİZ MİNİ KAPAK                            EK-3/C-4
+95    A10054   CYLER DRENAJ SETİ                                    EK-3/C-4
+96    A10055   HOMECHOİCE ALETLİ PD SETİ                            EK-3/C-4
+97    A10056   HOMECHOİCE DÜŞÜK RESÜRKÜLASYON HACİMLİ APD SETİ      EK-3/C-4
+98    A10057   SLEEP-SAFE SET PLUS                                  EK-3/C-4
+99    A10058   PD-NİGHT VARİO PLUSSYSTEM WİTH PIN                   EK-3/C-4
+100   A10059   SLEEP-SAFE SET PAED                                  EK-3/C-4
+               VENTİLASYON, NEBÜLİZATÖR VE SOLUNUM CİHAZI SARF
+               MALZEMELERİ
+101   A10060   AİR-WAY ORAL                                         EK-3/C-4
+102   A10061   SET, NEBULİZER, ERİŞKİN                              EK-3/C-4
+103   A10064   İNHALASYON TEDAVİ ÇEMBERİ (AEROCHAMBER)              EK-3/C-4
+104   A10066   TRİFLU (SOLUNUM EGZERSİZ ALETİ)                       EK-3/C-4
+               NAZAL MASKELER
+105   A10073   MASKE, STANDART CPAP                                  EK-3/C-4
+106   A10074   SET CPAP (MASKE, PEEP VALVİ, SET)                     EK-3/C-4
+               MASKE, NAZAL BAĞLAMA SETLİ, NONİNVAZİV VENTİLASYON
+107   A10075                                                         EK-3/C-4
+               İÇİN SİLİKON ESASLI
+               MASKE, NAZAL KÜÇÜK BOY BAĞLAMA SETLİ, NONİNVAZİV
+108   A10076                                                         EK-3/C-4
+               VENTİLASYON İÇİN
+               MASKE, NAZAL ORTA BOY BAĞLAMA SETLİ, NONİNVAZİV
+109   A10077                                                         EK-3/C-4
+               VENTİLASYON İÇİN
+110   A10078   MASKE, HAZNESİZ NEBULİZER                             EK-3/C-4
+111   A10079   MASKE, HAZNELİ PEDİATRİK                              EK-3/C-4
+112   A10080   MASKE, HAZNELİ -ERİŞKİN                               EK-3/C-4
+               MASKE, ORA NAZAL BAĞLAMA SETLİ, NONİNVAZİV
+113   A10081                                                         EK-3/C-4
+               VENTİLASYON İÇİN SİLİKON ESASLI
+               MASKE, ORA NAZAL KÜÇÜK BOY BAĞLAMA SETLİ,
+114   A10082                                                         EK-3/C-4
+               NONİNVAZİV VENTİLASYON İÇİN
+               MASKE, ORA NAZAL ORTA BOY BAĞLAMA SETLİ, NONİNVAZİV
+115   A10083                                                         EK-3/C-4
+               VENTİLASYON İÇİN
+               STERİL ELDİVEN
+116   A10092   STERİL ELDİVEN (PUDRALI/PUDRASIZ)                     EK-3/C-4
+                                                                                      EK-7
+
+     ECZANELERİN SÖZLEŞMEDEN KAYNAKLI YAPTIRIMLARA İLİŞKİN
+    İTİRAZLARININ DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR
+
+Amaç
+
+Madde 1- (1) Bu usul ve esaslar, 01/04/2016 tarihinde yürürlüğe giren Sosyal Güvenlik
+Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden İlaç Teminine
+İlişkin Protokol (Protokol) kapsamında sözleşme imzalamış olan eczanelerin, Protokolün “5.
+Sözleşmenin Feshi ve Cezai Şartlar” bölümünde yer alan yaptırımlara karşı itirazlarında ve
+itirazlarının değerlendirmesinde uygulanacak usul ve esasların belirlenmesi amacıyla
+hazırlanmıştır.
+
+Kapsam
+
+Madde 2- (1) Bu usul ve esaslar, Protokol kapsamında sözleşme imzalayan eczaneleri,
+sözleşme yürütümü ile görevlendirilmiş Kurum birimlerini ve itirazların incelenmesi
+konusunda görevlendirilmiş/yetkilendirilmiş Kurum personelini ve diğer kişileri kapsar.
+
+Dayanak
+
+Madde 3- (1) Bu usul ve esaslar 01/04/2016 tarihinde yürürlüğe giren Sosyal Güvenlik
+Kurumu Kapsamındaki Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden İlaç Teminine
+İlişkin Protokole dayanılarak hazırlanmıştır.
+
+İtiraz
+
+Madde 4- (1) Kurumun taşra birimleri tarafından yapılan inceleme/kontrol vb. işlemler
+sonucunda Protokolün (5) numaralı maddesi kapsamında fiillerin ilk tespiti halinde eczacının
+Protokolün (5.2) numaralı maddesi kapsamında savunması alınır ve Kurum taşra teşkilatınca
+değerlendirilir. Yapılan değerlendirme sonucu eczaneye tebliğ edilir.
+
+(2) Eczane tarafından, tebligatın eczaneye ulaşmasını takip eden 5 (beş) iş günü içerisinde
+işlemin “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme Komisyonu” tarafından
+değerlendirilmesi için yazılı olarak itirazda bulunulabilir.
+
+(3) İtiraz, itirazı takip eden 15 (onbeş) iş günü içerisinde oluşturulacak “Eczane Uyarı ve
+Cezai Şart İtiraz Değerlendirme Komisyonu” marifetiyle değerlendirilir.
+
+Madde 5- (1) Kurumun taşra birimleri tarafından yapılan inceleme/kontrol vb. işlemler
+sonucunda Protokolün (5) numaralı maddesi kapsamında fiillerin Protokol hükümlerine göre
+aynı fiilin tekrar işlendiğinin tespiti halinde eczacının Protokolün (5.2) numaralı maddesi
+kapsamında savunması alınır ve Kurum taşra teşkilatınca değerlendirilir. Yapılan
+değerlendirme sonucu eczaneye tebliğ edilir.
+(2) Eczane tarafından, tebligatın eczaneye ulaşmasını takip eden 5 (beş) iş günü içerisinde
+işlemin “Eczane Fesih ve Cezai Şart İtiraz Değerlendirme Üst Komisyonu” tarafından
+değerlendirilmesi için yazılı olarak itirazda bulunulabilir.
+
+(3) İtiraz, Sosyal Güvenlik İl Müdürlüğü tarafından, “Eczane Fesih ve Cezai Şart İtiraz
+Değerlendirme Üst Komisyonu” tarafından değerlendirilmek üzere gerekli bilgi ve belgelerle
+birlikte Genel Sağlık Sigortası Genel Müdürlüğüne gönderilir.
+
+Komisyonlar
+
+             “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme Komisyonu”
+
+Madde 6- (1) İtirazda bulunan eczanenin sözleşmesini yürüten Sosyal Güvenlik İl Müdürlüğü
+bünyesinde “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme Komisyonu” oluşturulur.
+
+(2) Komisyon Sosyal Güvenlik İl Müdürü veya belirleyeceği Sosyal Güvenlik İl Müdür
+Yardımcısı başkanlığında, Sağlık Sosyal Güvenlik Merkezi Müdürü veya Sağlık Sosyal
+Güvenlik Merkez Müdür Yardımcısı, sağlık hizmeti sunucuları sözleşme servisi veya sağlık
+hizmeti sunucuları eğitim ve denetim servisinde görevli bir eczacı, eczacı olmaması halinde
+yetkilendirilmiş bir sağlık hizmetleri sınıfı personel ve eczanenin üyesi olduğu bölge eczacı
+odası yönetiminden iki üye olmak üzere 5 (beş) üyeden oluşur. Komisyon üyeleri kararını
+itirazın kabulü veya reddi yönünde kullanır, kararlar oyçokluğu ile alınır.
+
+(3) İtirazda bulunan eczacı, diğer ilgililer veya konuya ilişkin görüşüne ihtiyaç duyulan kişiler
+Komisyon toplantısına davet edilebilir. Bu kişilerin oy hakkı yoktur.
+
+(4) Komisyon üyelerinin senelik izin, hastalık izni ve benzeri nedenlerle komisyona
+katılamamaları halinde karar yeter sayısına ulaşılamaması durumunu önlemek amacıyla yedek
+üyeler belirlenir ve toplantılara katılımı sağlanır.
+
+           “Eczane Fesih ve Cezai Şart İtiraz Değerlendirme Üst Komisyonu”
+
+Madde 7- (1) Genel Sağlık Sigortası Genel Müdürlüğü bünyesinde “Sözleşmeli eczane fesih,
+uyarı ve cezai şart itiraz değerlendirme üst komisyonu” oluşturulur.
+
+(2) Komisyon Genel Sağlık Sigortası Genel Müdürü veya belirleyeceği Genel Sağlık Sigortası
+Genel Müdür Yardımcısı Başkanlığında, ilgili Daire Başkanı, ilgili Şube Müdürü, Türk
+Eczacıları Birliği yönetiminden görevlendirilecek iki kişi olmak üzere 5 (beş) üyeden oluşur.
+Komisyon üyeleri kararını itirazın kabulü veya reddi yönünde kullanır, kararlar oyçokluğu ile
+alınır.
+
+(3) İtirazda bulunan eczacı, diğer ilgililer veya konuya ilişkin görüşüne ihtiyaç duyulan kişiler
+Komisyon toplantısına davet edilebilir. Bu kişilerin oy hakkı yoktur.
+
+(4) Komisyon üyelerinin senelik izin, hastalık izni ve benzeri nedenlerle komisyona
+katılamamaları halinde karar yeter sayısına ulaşılamaması durumunu önlemek amacıyla yedek
+üyeler belirlenir ve toplantılara katılımı sağlanır.
+Komisyonların çalışma usul ve esasları
+
+              “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme Komisyonu”
+
+Madde 8- (1) Protokolün “5.3. Cezai şart uygulanacak fiiller, fesih nedeni fiiller ve sözleşme
+yapılmayacak süreler” başlıklı bölümünde yer alan fiil ve fiillerin ilk defa tespiti sonucu
+uygulanan yaptırımlara ilişkin itirazlar “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme
+Komisyonu”nda değerlendirilir.
+
+(2) Komisyon kararları nihai olup, kararlara ilişkin olarak Kuruma başka bir itirazda
+bulunulamaz.
+
+(3) Komisyonun değerlendirme süreci tebliğ edilen kararların uygulanmasına engel teşkil
+etmez.
+
+(4) Komisyon kararları ilgili karar defterine veya tutanaklara yazılarak ıslak imza ile kayda
+alınır. İtiraz eden eczaneye Komisyon kararının sonucu hakkında yazılı bilgi verilir.
+
+(5) Bölge eczacı odası adına toplantıya katılanlar için yetki/görev belgesi toplantıdan önce
+Kuruma ibraz edilir.
+
+(6) Etik kurallar çerçevesinde komisyona Kurum dışından katılan üyelere yetki ve
+sorumluluklarına ilişkin taahhüt imzalatılır.
+
+            “Eczane Fesih ve Cezai Şart İtiraz Değerlendirme Üst Komisyonu”
+
+Madde 9- (1) İlk tespitleri “Eczane Uyarı ve Cezai Şart İtiraz Değerlendirme Komisyonu”
+tarafından değerlendirilerek karara bağlanmış olan fiil/ fiillerin tekrarı halinde uygulanan
+yaptırıma ilişkin itirazlar ile feshe ilişkin fiil/fiillere yapılan itirazlar “Eczane Fesih ve Cezai
+Şart İtiraz Değerlendirme Üst Komisyonu” tarafından değerlendirilir.
+
+(2) Komisyon kararları nihai olup, kararlara ilişkin olarak Kuruma başka bir itirazda
+bulunulamaz.
+
+(3) Komisyonun değerlendirme süreci tebliğ edilen kararların uygulanmasına engel teşkil
+etmez.
+
+(4) Komisyon kararları ilgili karar defterine veya tutanaklara yazılarak ıslak imza ile kayda
+alınır. Komisyon kararları ilgili eczacıya bildirim yapılmak üzere itirazda bulunan eczanenin
+sözleşmesini yürüten Sosyal Güvenlik İl Müdürlüğüne bildirilir.
+
+Yürürlük
+
+Madde 10- Bu usul ve esaslar 2017/1 sayılı Sosyal Güvenlik Kurumu Kapsamındaki
+Kişilerin Türk Eczacıları Birliği Üyesi Eczanelerden İlaç Teminine İlişkin Ek Protokol ile
+birlikte yürürlüğe girer.
+

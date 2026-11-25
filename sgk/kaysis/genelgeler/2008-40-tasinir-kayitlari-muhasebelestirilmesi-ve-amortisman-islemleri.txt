@@ -1,0 +1,817 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/57311
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2008-40
+ADI: TAŞINIR KAYITLARI, MUHASEBELEŞTİRİLMESİ VE AMORTİSMAN İŞLEMLERİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: bfa986b1a239e977c45ff9be1ff93a8d92d8812ab2e6fb232c2bb0cad9c3ee40
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                 Strateji Geliştirme Başkanlığı
+
+
+Sayı : B.13.1.SGK.0.08.902.04.00/143618                                                         15/05/2008
+Konu: Taşınır Kayıtları, Muhasebeleştirilmesi
+        ve Amortisman İşlemleri
+
+
+                                             GENELGE
+                                              2008/40
+
+
+       Bilindiği üzere Sosyal Güvenlik Kurumu 01.01.2006 tarihinden itibaren 5018 sayılı Kamu
+Mali Yönetimi ve Kontrol Kanunu kapsamına alınmıştır. Söz konusu Kanunun 3 üncü maddesinde
+“taşınır mal” kamu kaynağı olarak tanımlanmıştır. Kanunun 45 inci maddesinde ise genel yönetim
+kapsamındaki kamu idarelerince taşınırın edinilmesi, yönetilmesi, trampası ve elden çıkarılması gibi
+hususların ilgili kanunlarında düzenleneceği öngörülmüş; taşınırların kaydı, muhafazası ve
+kullanımı ile mal yönetim hesabının verilmesi, mal yönetim sorumlularıyla bunlar adına görev
+yapacak olanların belirlenmesine ilişkin usul ve esasların Maliye Bakanlığınca hazırlanacak ve
+Bakanlar Kurulu tarafından çıkarılacak yönetmelikle belirleneceği hükmüne yer verilmiştir.
+       5018 sayılı Kanun gereğince hazırlanan Taşınır Mal Yönetmeliği 28.12.2006 tarihli ve
+2006/11545 sayılı Bakanlar Kurulu kararı ile 18.01.2007 tarihli 26407 sayılı Resmi Gazetede
+yayımlanarak yürürlüğe girmiştir.
+        Söz konusu Yönetmelikle ilgili Kurum merkezimize intikal eden bilgilerden, uygulama ile
+ilgili tereddütlerin hasıl olduğu anlaşılmıştır. Bu tereddütlerin giderilmesi ve uygulama birliğinin
+sağlanması açısından aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur.
+
+       Taşınır İşlemlerinde Sorumluluk
+       1- Harcama Yetkilileri taşınırların;
+       a) Etkili, ekonomik, verimli ve hukuka uygun olarak edinilmesinden ve kullanılmasından
+       b) Kontrolünden ve kötüye kullanılmaması için gerekli önlemlerin alınmasından,
+       c) Kasıt, kusur veya ihmal sonucu kırılan, bozulan veya kaybolan taşınırların ilgililerden
+tazmini için gerekli işlemleri yapmak veya yaptırmaktan,
+       d) Kayıtlarının bu Yönetmelikte belirtilen esas ve usullere göre saydam ve erişilebilir şekilde
+tutulmasını sağlamaktan,
+       e) Taşınır yönetim hesabını ilgili mercilere vermekten
+       sorumludur.
+       2- Taşınır kayıt ve kontrol yetkilileri;
+       a) Edinilen taşınırları teslim almaktan, ilgililere vermekten, ambarlarda muhafaza etmekten,
+       b) Taşınırların giriş ve çıkışına ilişkin envanter kayıtlarını usulüne uygun olarak tutulmaktan,
+       c) Ambar sayımını ve stok kontrolünü yapmaktan,
+       d) Kayıtlarını tuttuğu taşınırların yönetim hesabını hazırlamak ve harcama yetkilisine
+vermekten,
+       e) Sorumluluklarında bulunan ambarlarda kasıt, kusur, ihmal veya tedbirsizlikleri nedeniyle
+meydana gelen kayıp ve noksanlıklardan,
+       f) Yerlerine gelenlere taşınır işlemlerine ilişkin belge ve kayıtlar ile sorumluluklarındaki
+taşınırları teslim etmekten,
+       sorumludur.
+       3-Muhasebe Yetkilileri;
+       a) Edinilen veya elden çıkarılan taşınırları değer olarak muhasebe kayıtlarında izlemekle,
+
+Ziyabey Cad. No:6 Balgat 06520 ANKARA              Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50             e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+
+       b) Harcama birimlerince hazırlanan hesap cetvellerinde gösterilen değerlerin muhasebe
+kayıtlarıyla uygunluğunu kontrol ederek onayladıktan sonra, harcama yetkilisine göndermekle,
+       Görevli ve sorumludurlar.
+       Harcama yetkilileri taşınır kayıtlarının bu Yönetmelik hükümlerine uygun olarak tutulması ve
+taşınır yönetim hesabının ilgili mercilere gönderilmesi sorumluluğunu taşınır kayıt ve kontrol
+yetkilileri aracılığıyla yerine getirir.
+       Taşınır Mal Yönetmeliğinin 6 ve 7 inci maddeleri gereğince;
+       -Her harcama biriminde (merkez ve taşra) en az bir kişi, harcama yetkilisince taşınır kayıt ve
+kontrol yetkilisi olarak belirlenmelidir.
+       -Taşınır kayıt ve kontrol yetkilileri, harcama yetkililerince, memuriyet veya çalışma unvanına
+bağlı kalmaksızın, taşınır kayıt ve işlemlerini bu Yönetmelikte belirtilen usule uygun şekilde
+yapabilecek bilgi ve niteliklere sahip personel arasından görevlendirilecektir. Taşınır işlemleri
+yoğun olan harcama birimlerinde birden fazla taşınır kayıt ve kontrol yetkilisi görevlendirilebilir.
+
+      Harcama birimlerince kullanılacak defterler, fiş ve belgeler
+      Taşınır işlemleri Kurumumuzca işletilen taşınır programı üzerinden takip edilecek, yapılacak
+işlemler aşağıdaki defterlere otomatik olarak işlenecektir. Tüm defter, fiş, belge ve cetveller mevcut
+yazılımda yer almakta olup, ihtiyaç duyulması halinde programdan çıktı alınabilecektir.
+özelliklerine göre tutulacak defterler aşağıda belirtilmiştir
+      a) Tüketim malzemeleri için 1 Örnek numaralı Tüketim Malzemeleri Defteri,
+      b) Dayanıklı taşınırların için 2 Örnek numaralı Dayanıklı Taşınırlar Defteri
+      c) Kültür varlıkları için 3 Örnek numaralı Müze Defteri,
+      d) Kütüphanelerdeki yazma ve basma nadir eserler ile kitap ve kitap dışı materyaller için 4
+Örnek numaralı Kütüphane Defteri.
+
+      Komisyonların oluşturulması
+      Yönetmelikte her harcama birimi bünyesinde taşınır işlemlerine ilişkin oluşturulacak 3 ayrı
+komisyon ve 2 kuruldan bahsedilmektedir.
+      a) Kayıttan düşme komisyonu, (Taşınır Mal Yönetmeliğinin 10 uncu maddesi)
+      b) Değer tespit komisyonu, (Taşınır Mal Yönetmeliğinin 13 üncü maddesi)
+      c) Hurdaya ayırma komisyonu, (Taşınır Mal Yönetmeliğinin 28 inci maddesi)
+      d) Sayım kurulu, (Taşınır Mal Yönetmeliğinin 32 inci maddesi)
+      e) Devir kurulu, Taşınır Mal Yönetmeliğinin 33 üncü maddesi)
+      Yukarıda sıralanan harcama biriminde oluşturulacak olan tüm bu komisyonların yaptığı
+işlemleri yapacak bir komisyon oluşturulabilir.
+
+      Harcama birimlerince Taşınır İşlem Fişinin ilgili muhasebe birimine gönderilmesi
+      Yönetmeliğin 30 uncu maddesi gereğince;
+      Taşınır kayıt ve kontrol yetkilileri tarafından, muhasebe kayıtlarında ilgili stok ve maddî
+duran varlık hesaplarında izlenen taşınırlardan; satın alma suretiyle edinilenlerin giriş işlemleri ile
+değer artırıcı harcamalar için düzenlenen Taşınır İşlem Fişlerinin bir nüshası ödeme emri belgesi
+ekinde, muhasebe birimine gönderilecektir. Diğer şekillerde edinilen taşınırların girişleri ve maddî
+duran varlık hesaplarında izlenen taşınırların çıkışları için düzenlenen Taşınır İşlem Fişlerinin birer
+nüshası, düzenleme tarihini takip eden en geç on gün içinde ve her durumda malî yıl sona ermeden
+önce ilgili muhasebe birimine gönderilecektir.
+      Muhasebe kayıtlarında "150-İlk Madde ve Malzemeler Hesabı"nda izlenen tüketim
+malzemelerinin çıkışları için düzenlenen Taşınır İşlem Fişleri muhasebe birimine
+gönderilmeyecektir. Bunların yerine, üç aylık dönemler itibarıyla, kullanılmış tüketim
+malzemelerinin taşınır II nci düzey detay kodu bazında düzenlenen onaylı bir listesi, en geç ilgili
+dönemin son iş günü mesai bitimine kadar muhasebe birimine gönderilecektir. Bu süreler, Mart,
+Haziran, Eylül ve Aralık ayının son iş günü olarak uygulanacaktır.
+      Muhasebe yetkilileri ise, taşınır giriş ve çıkış işlemlerine ilişkin olarak kendilerine gönderilen
+Taşınır İşlem Fişlerinde gösterilen tutarları II nci düzey detay kodu itibarıyla ilgili hesaplara
+kaydedeceklerdir.
+Ziyabey Cad. No:6 Balgat 06520 ANKARA               Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50              e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                   T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                     Strateji Geliştirme Başkanlığı
+
+
+       Sayım ve devir işlemleri
+       Kurumumuza ait taşınırların sayımı, taşınır kayıt ve kontrol yetkililerinin görevlerinden
+ayrılmalarında, yıl sonlarında ve harcama yetkilisinin gerekli gördüğü durum ve zamanlarda
+yapılacaktır. Taşınır sayımları, her bir harcama yetkilisince, kendisinin veya görevlendireceği bir
+kişinin başkanlığında taşınır kayıt ve kontrol yetkilisinin de katılımıyla, en az üç kişiden oluşturulan
+Sayım Kurulu tarafından yapılacaktır.
+       Ambarların devri, Ambar Devir ve Teslim Tutanağı düzenlenerek yapılacak, Merkezde
+Destek Hizmetleri Daire Başkanlığı ile ilgili diğer merkez harcama birimlerinin, taşrada ise
+aralarında devir işlemi yapılan harcama birimlerinin ortak çalışması ile bu devir işlemleri yerine
+getirilecek, karşılıklı taşınır işlem fişleri kesilecektir.
+
+     Taşınır malların envanteri ve kayda alınması
+     Taşınır Mal Yönetmeliğin Geçici 2 inci maddesi hükümleri Kurumumuzda aşağıdaki şekilde
+uygulamaya konulacaktır.
+
+      1- Muhasebe birimlerince; 31.12.2007 tarihi itibariyle daha önce 150, 253, 254, 255, 257 ve
+522 hesap kodlarına alt detaylar bazında kaydedilmiş olan değerler, 500 Net Değer Hesabına borç
+veya alacak kaydedilmek suretiyle sıfırlanacaktır.
+
+     Örnek-1: İl Müdürlüğü demirbaşlar hesabında kayıtlı bir büro mobilyasının kayıtlı değeri
+1000 YTL, birikmiş amortismanı 400 YTL yeniden değerleme farkları hesabı 200 YTL olarak tespit
+edilmiştir. Kayıtlardan çıkarılması işlemi aşağıdaki şekilde yapılacaktır. (Yeniden değerleme
+yapmayanlar için 522 kodlu hesaplar ve 500.08 kodlu hesap kullanılmayacaktır.)
+
+      --------------------------------------------------31.12.2007-------------------------------------------------
+        257.05.20.03.01           BİRİKMİŞ AMORTİSMANLAR HS.                          400.00
+                                  (Büro mobilyasının hesap detay adı)
+        500.02.03.06              NET DEĞER HESABI                                  1.000.00
+                                  (Demirbaşlar)
+        522.01.05.03.01           YENİDEN DEĞERLEME FARKLARI                          200.00
+                                  (Büro mobilyasının hesap detay adı)
+                          255.20.03.01 DEMİRBAŞLAR HS.                                                1.000.00
+                                           Büro Mobilyaları
+                          500.02.03.09 NET DEĞER HS                                                     400.00
+                                           Birikmiş Amortismanlardan Envanteri Yapılanlar
+                          500.02.03.10 NET DEĞER HS.                                                    200.00
+                                           Yen. Değ. Farklarından Aktarılanlar
+
+      Kayıtlı demirbaşların bedel, amortisman ve yeniden değerleme farklarının net değer hesabına
+      aktarılması olup, mahsubu.
+      -----------------------------------------------------------------------------------------------------------------
+
+      Örnek-2: İl Müdürlüğünün dayanıklı tüketim malzemeleri ve dayanıklı taşınırlarına ilişkin
+kayıtları aşağıdaki gibidir.
+
+                                                                                          YENİDEN
+    HESAP             HESAP ADI              TUTARI: AMORTİSMANI:                       DEĞERLEME
+    KODU                                                                                 FARKLARI:
+               Yazı Malzemeleri
+    150.01.01                                2.500.00
+    253.03.03 Ulaştırma                      10.000.00      7.500.00                 2.000.00
+              Haberleşme
+              Cihazları veAletleri
+    254.01.10 Otomobil                       15.000.00 4.500.00                      3.500.00
+    255.03.09 Büro makineleri                25.000.00 12.500.00                     6.000.00
+Ziyabey Cad. No:6 Balgat 06520 ANKARA                      Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50                     e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                   T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                     Strateji Geliştirme Başkanlığı
+
+
+
+
+     --------------------------------------------------31.12.2007-------------------------------------------------
+       500.02.06                 NET DEĞER HESABI                                       2.500.00
+       500.02.03.04              NET DEĞER HESABI                                      10.000.00
+       500.02.03.05              NET DEĞER HESABI                                      15.000.00
+       500.02.03.06              NET DEĞER HESABI                                      25.000.00
+       257.03.03.03              BİRİKMİŞ AMORTİSMANLAR HS.                             7.500.00
+       257.04.01.01              BİRİKMİŞ AMORTİSMANLAR HS.                             4.500.00
+       257.05.03.01              BİRİKMİŞ AMORTİSMANLAR HS.                            12.500.00
+       522.01.05.02.04            NET DEĞER HESABI                                      2.000.00
+       522.01.04.01.01            NET DEĞER HESABI                                      3.500.00
+       522.01.05.02.01            NET DEĞER HESABI                                      6.000.00
+                         150.01.01        İLK MADDE VE MALZEME HS.                                        2.500.00
+                         253.03.03        TESİS, MAK. VE CİHAZLAR HS.                                   10.000.00
+                         254.01.01        TAŞITLAR HS.                                                  15.000.00
+                         255.03.01        DEMİRBAŞLAR HS.                                               25.000.00
+                         500.02.03.09 NET DEĞER HESABI                                                  24.500.00
+                         500.08           NET DEĞER HESABI                                              11.500.00
+       Kayıtlı demirbaşların bedel, amortisman ve yeniden değerleme farklarının net değer
+       hesabına aktarılması olup, mahsubu.
+     -----------------------------------------------------------------------------------------------------------------
+     NOT: 2007 yılı için taşınır hesaplarından 253, 254, 255 hesapları ve 257 birikmiş amortisman
+hesapları Devredilen SSK hesaplarında (20) kodu olmaksızın, Devredilen Bağ-Kur ve Emekli
+Sandığı hesaplarında ise (20) kodu ile birlikte yer almaktadır.
+
+       2- Harcama birimlerince; 150, 253, 254, 255 kodlu taşınırlara ilişkin 31.12.2007 tarihi
+itibariyle yapılan fiili envanterler Taşınır İşlem Fişine bağlayarak ilgili muhasebe birimine
+gönderilecektir. Harcama birimleri taşınır envanteri sırasında aşağıdaki hususlara dikkat
+edeceklerdir.
+
+      a) Taşınırların kayıtlı değeri var ise;
+      - Daha önce taşınır bedelinin tamamı kadar amortisman veya tükenme payı ayrılması
+sonucunda iz bedele (0,01 YKR) düşen taşınırlar, yine iz bedeli ile envanter listelerine alınacaktır.
+      - Edinme bedelinin tamamı kadar amortisman veya tükenme payı ayrılmamış olan taşınırlar,
+edinme bedellerinden birikmiş amortisman veya tükenme payı düşüldükten sonra kalan net değeri
+üzerinden envantere alınacaktır.
+      - İz bedeli ile izlenen taşınırlardan hurdaya ayrılması gereken taşınır var ise, bu Yönetmeliğin
+28 inci maddesine göre oluşturulacak Hurdaya Ayırma Komisyonu marifetiyle hurdaya ayrılacaktır.
+
+      b) Taşınırın kayıtlı değeri yok ise;
+      - Değer Tespit Komisyonunca belirlenecek değer üzerinden envantere alınacaktır.
+
+      c) Sayımlar bu yönetmeliğin 32 inci maddesine göre oluşturulacak Sayım Kurulu marifetiyle
+yapılacaktır.
+
+      d) Tüm bu işlemlerde bu yönetmeliğin 10 uncu maddesinde belirtilen belgeler kullanılacaktır.
+
+      3- Muhasebe birimlerince, harcama birimlerinden gelen envantere ilişkin Taşınır İşlem
+Fişlerini 31.12.2007 tarihi itibariyle kayıtlara alınacaktır.
+
+       Örnek: İl Müdürlüğünün dayanıklı tüketim malzemeleri ve dayanıklı taşınırlarına ilişkin
+harcama birimince 150, 253, 254, 255 kodlu taşınırlara ilişkin 31.12.2007 tarihi itibariyle yapılan
+fiili envanterleri Taşınır İşlem Fişine bağlanarak muhasebe birimine gönderilmiştir.
+
+Ziyabey Cad. No:6 Balgat 06520 ANKARA                      Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50                     e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                  T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Strateji Geliştirme Başkanlığı
+
+
+
+     HESAP KODU                       HESAP ADI                                TUTARI
+     150.01.01                        Yazı Araçları                             2.500.00
+     253.02.06                        Posta Makineleri                          2.500.00
+     254.01.01                        Otomobil                                 10.500.00
+     255.02.01                        Bilgisayarlar ve Sunucular               12.500.00
+
+
+     --------------------------------------------------31.12.2007-------------------------------------------------
+       150.20.01.01 İLK MADDE VE MALZEME HS.                                         2.500.00
+       253.20.02.06 TESİS, MAK. VE CİHAZLAR HS.                                      2.500.00
+       254.20.01.01 TAŞITLAR HS.                                                   10.500.00
+       255.20.02.01 DEMİRBAŞLAR HS.                                                12.500.00
+                                 500.02.06         NET DEĞER HESABI                                   2.500.00
+                                 500.02.03.04 NET DEĞER HESABI                                        2.500.00
+                                 500.02.03.05 NET DEĞER HESABI                                       10.500.00
+                                 500.02.03.06 NET DEĞER HESABI                                       12.500.00
+
+     Taşınır İşlem Fişine göre taşınırların 3 üncü düzey muhasebe kaydı.
+     ----------------------------------------------------------------------------------------------------------------
+
+      4- Muhasebe birimlerince; 31.12.2007 tarihi itibariyle envanteri yapılmış ve Taşınır İşlem
+Fişlerine göre kayıtlara alınmış taşınır mallar için amortisman işlemlerine ilişkin muhasebe
+kayıtları, (30/12/2006 tarihli ve 26392 sayılı Resmi Gazete’de yayımlanan “Genel Yönetim
+Kapsamındaki Kamu İdarelerinde Uygulanacak Amortisman ve Tükenme Payı Süre, Yöntem ve
+Oranlarına İlişkin Genel Tebliğ (Sayı: 2006–1)” (Ek:1) de yer alan oranlara göre amortisman
+uygulaması)
+
+                                                                           2007 YILI AYRILAN
+           HESAP        TUTARI:                  AMORTİSMANI                  AMORTİSMAN
+           KODU:                                    ORANI:                       TUTARI :
+         253.20.02.06 2.500.00                   20                         500.00
+         254.20.01.01 10.500.00                  10                       1.050.00
+         255.20.02.01 12.500.00                  20                       2.500.00
+
+
+     Örnek: 31/12/2007 tarihinde yapılacak amortisman kaydı.
+
+     --------------------------------------------------31.12.2007-------------------------------------------------
+       630.13.01.03.02 İŞL.TES.MAK.VE CİH.AMOR.GİD. 500.00
+       630.13.01.04           TAŞITLARIN AMOR.GİD.                            1.050.00
+       630.13.01.05           DEMİRBAŞLARIN AMOR.GİD.                         2.500.00
+                                 257.03.20.02.06 BİRİKMİŞ AMORTİSMANLAR HS.                                500.00
+                                 257.04.20.01.01 BİRİKMİŞ AMORTİSMANLAR HS.                              1.050.00
+                                 257.05.20.02.01 BİRİKMİŞ AMORTİSMANLAR HS.                              2.500.00
+                Taşınırların 2007 yılı amortisman gider kaydı.
+     -----------------------------------------------------------------------------------------------------------------
+
+       Ayrıca daha önce 970- Doğrudan Gider Kaydedilmiş Maddi Duran Varlıklar Hesabına kaydı
+yapılmış taşınırlara ait tutarlar, 971 hesap borç, 970 hesap alacak şeklinde ters kayıt ile
+sıfırlanacaktır.
+
+
+
+Ziyabey Cad. No:6 Balgat 06520 ANKARA                     Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50                    e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                  T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Strateji Geliştirme Başkanlığı
+
+
+      5- 150 hesap kodunda izlenen taşınırların muhasebeleştirilmesi:
+      Yönetmeliğin 30. maddesinde belirtilen hükümler gereğince, “150 İlk Madde ve Malzeme
+Hesabı”na kaydedilmiş olan taşınırların belirlenen süreler içerisinde tüketilen kısmının muhasebe
+kayıtlarının yapılabilmesi amacıyla detaylı hesap planına, Taşınır Mal Yönetmeliği eki tüketim
+malzemelerinin I.düzey kodlarına paralel olmak üzere Ek-3 listede yer alan “630.14 İlk Madde ve
+Malzeme Giderleri” yardımcı hesap kodu açılmıştır. Buna göre tüketilen taşınırlara ilişkin listeler
+muhasebe birimlerine geldiğinde, muhasebeleştirme işlemi “630.14 İlk Madde ve Malzeme
+Giderleri” yardımcı hesabının ilgili yardımcı hesap koduna borç, “150 İlk Madde ve Malzeme
+Hesabı” nın ilgili yardımcı hesap koduna alacak şeklinde yapılacaktır.
+      Tüketme veya kullanma suretiyle çıkışları yapılan taşınırların bu paragrafta yazılı şekilde
+muhasebeleştirilebilmesi için bu taşınırların başka bir üretim sürecine sokulmuyor olması bir başka
+deyişle bir ürün veya varlık edinimine konu edilmiyor olması gerekmektedir.
+      2008 yılında stok kayıtlarına ilişkin örnekler aşağıda verilmiştir.
+
+      Örnek 1- Strateji Geliştirme Başkanlığı ambarından tüketime verilen 12.000 YTL tutarındaki
+kırtasiye malzemelerinin çıkışına ilişkin liste Taşınır Mal Yönetmeliğinin 30 uncu maddesi uyarınca
+düzenlenerek merkez muhasebe birimine 31.03.2008 tarihinde gönderilmiştir. (Taşınır kodu:
+150.20.01.03 Kağıt Ürünler)
+
+     Çözüm:
+     --------------------------------------------------31.03.2008-------------------------------------------------
+       630.14.20.01 GİDERLER HESABI                                                               12.000
+                         Kırtasiye Malzemeleri
+                150.20.01.03 İLK MADDE VE MALZEME HESABI                                                   12.000
+                                 Kağıt Ürünler
+     ----------------------------------------------------------------------------------------------------------------
+
+      5018 sayılı Kanun hükümleri gereğince kamu idarelerinin performanslarının ölçülebilmesi
+için gelir, gider taşınır ve taşınmazlarına ilişkin mali işlemlerin muhasebe kayıtlarının
+bütçelerindeki kurumsal sınıflandırmalara göre ayrı tutulması gerekir.
+      Bu nedenle, kamu idaresi bütçesinde kurumsal olarak sınıflandırılarak ödenek tahsis edilmiş
+bir harcama biriminin ambarına taşınır devri halinde Taşınır İşlem Fişi düzenlenmesi gerekir.
+Düzenlenen Taşınır İşlem Fişlerinin, devir veren ve devir alan harcama birimleri aynı muhasebe
+biriminden hizmet alsa dahi muhasebe birimine gönderilmesi zorunludur. Ancak her iki harcama
+biriminin düzenlediği Taşınır İşlem Fişlerinin muhasebe birimine gönderilmesi halinde mükerrer
+kayıtlara neden olacağından sadece devir alan harcama birimince Taşınır İşlem Fişi muhasebe
+birimine gönderilecektir. Söz konusu Taşınır İşlem Fişinin ekine devir yapan harcama biriminin
+düzenlediği Taşınır İşlem Fişinin de eklenmesi zorunludur.
+
+       Örnek 2- Kurumumuz Destek Hizmetleri Daire Başkanlığı ambarında bulunan 5.000 YTL
+tutarındaki kırtasiye malzemesinin Genel Sağlık Sigortası Genel Müdürlüğü ambarına
+devredilmesine ilişkin taşınır işlem fişi, merkez muhasebe birimine ulaşmıştır.
+
+     Çözüm:
+     --------------------------------------------------15.04.2008-------------------------------------------------
+       150.20.01.03-GSS Analitik kodu İlk madde ve Malzeme Hesabı                                      5.000
+                                                 Kağıt Ürünler
+                150.20.01.03-Destek Analitik kodu İlk madde ve Malzeme Hesabı                                 5.000
+                                                            Kağıt Ürünler
+       Destek Hizmetlerinden GSS Gen.Müd.ğü ambarına aktarılan stok kaydı olup, mahsubu.
+     -----------------------------------------------------------------------------------------------------------------
+
+
+
+Ziyabey Cad. No:6 Balgat 06520 ANKARA                     Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50                    e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                         SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Strateji Geliştirme Başkanlığı
+
+
+      Bu durumda, Genel Sağlık Sigortası Genel Müdürlüğü tarafından düzenlenen Taşınır İşlem
+Fişi muhasebe birimine gönderilirken, ekinde Destek Hizmetleri Daire Başkanlığının Taşınır İşlem
+Fişi de bulunacaktır.
+      Aynı harcama biriminin bir ambarından diğer ambarına taşınır devri yapılması halinde
+devreden ambarın çıkış devir alan ambarın giriş kaydına esas olmak üzere Taşınır İşlem Fişi
+düzenlemesi gerekir. Ancak bu işlemin dahili olması nedeniyle muhasebe kayıtlarında değişiklik
+gerektirmediğinden düzenlenen Taşınır İşlem Fişleri muhasebe birimine gönderilmeyecektir.
+      Taşınırların, kayıt kontrol ve muhasebeleştirme işlemlerinin bu genelge hükümlerine uygun
+olarak yapılması gerekmektedir.
+      Bilgi edinilmesini ve gereğini önemle rica ederim.
+
+
+
+
+                                                                       Tahsin GÜNEY
+                                                                      Kurum Başkanı V.
+                                                                        (Üst Yönetici)
+
+
+
+
+EKLER :
+1- Amortisman ve Tükenme Payı Süre ve Oranları Listesi (4 sayfa)
+2- Duran Varlıklar Amortisman ve Yeniden Değerleme Defteri (1 sayfa)
+3- İlk Madde ve Malzeme Giderleri Hesap Listesi (1 sayfa)
+4- Harcama Birimlerince Kullanılacak Defter Örnekleri ve Açıklamaları (8 Sayfa)
+
+
+
+DAĞITIM
+Gereği:
+Tüm Merkez ve Taşra Teşkilatı
+
+
+
+
+Ziyabey Cad. No:6 Balgat 06520 ANKARA           Ayrıntılı bilgi için irtibat: M. Karasu Daire Bşk.
+Tel:0312 207 80 40 Faks:0312 207 81 50          e-posta:mkarasu@sgk.gov.tr         Elekt.Ağ:www.sgk.gov.tr.
+                                                                                                                                                                           EK : 1
+                                                                                AMORTİSMAN VE TÜKENME PAYI SÜRE VE ORANLARI LİSTESİ
+Hesap Kodu
+
+             Yardımcı 1
+                          Yardımcı 2
+                                       Yardımcı 3
+                                                    Yardımcı 4
+                                                                                                                        Amortisman Amortisman
+                                                                 HESAP GRUBU, HESAP VE YARDIMCI HESABIN ADI               Süresi      Oranı                    Açıklama
+                                                                                                                          ( Yıl )   ( Yüzde )
+
+ 25                                                              MADDİ DURAN VARLIKLAR
+251                                                              YERALTI VE YERÜSTÜ DÜZENLERİ HESABI
+251          01                                                  Boru Hatları                                              40         2,50
+251          02                                                  Enerji Nakil Hatları                                      40         2,50
+251          03                                                  Su İsale Hatları                                          40         2,50
+251          04                                                  Kanalizasyon Hatları                                      40         2,50
+251          05                                                  Tüneller                                                  40         2,50
+251          06                                                  Köprü ve Geçitler
+251          06           01                                     Köprüler                                                  20          5
+251          06           02                                     Alt Geçitler                                              20          5
+251          06           03                                     Üst Geçitler                                              20          5
+251          07                                                  Yollar                                                    20          5
+251          08                                                  Sulama Kanalları                                          20          5
+251          09                                                  Baraj ve Göletler                                         40         2,50
+251          10                                                  Hava Meydanları                                           20          5
+251          11                                                  Liman ve Rıhtımlar                                        20          5
+251          12                                                  İskeleler                                                 20          5
+251          13                                                  Çekek Yerleri                                             20          5
+251          14                                                  Balıkçı Barınakları                                       20          5
+251          15                                                  Mendirekler ve Dalgakıranlar                              20          5
+251          16                                                  Şamandıra, Dolfen ve Platformlar                          20          5
+251          17                                                  Toplu Taşıma Hatları ve İstasyonları
+251          17           01                                     Demiryolu Hatları ve İstasyonları                         40         2,50
+251          17           02                                     Metro Hatları ve İstasyonları                             40         2,50
+251          17           03                                     Tramvay Hatları ve İstasyonları                           20          5
+251          17           04                                     Teleferik Hatları ve İstasyonları                         20          5
+251          17           05                                     Telesiyej Hatları ve İstasyonları                         20          5
+251          17           06                                     Yolcu Terminalleri (Otogar)                               20          5
+251          18                                                  Park ve Bahçeler                                          20          5
+251          99                                                  Diğer Yeraltı ve Yerüstü Düzenleri                        20          5
+252                                                              BİNALAR HESABI
+252          01                                                  İdare Binaları
+252          01           01                                     Hizmet Binaları                                           50          2
+252          01           99                                     Diğer                                                     50          2
+252          02                                                  Eğitim ve Öğretim Amaçlı Binalar                                               Binalar       Hesabında         belirlenen
+252          02           01                                     Ana Okulları                                              50          2        amortisman süre ve oranları beton,
+252          02           02                                     İlköğretim Okulları                                       50          2        kargir, demir, çelik binalar için
+252          02           03                                     Orta Öğretim Okulları                                     50          2        geçerlidir. Yarı kargir ve yarı ahşap
+252          02           04                                     Üniversite, Akademi, Enstitü ve Yüksek Okul Binaları      50          2        binalar için bu sürelerin 2/3'ü dikkate
+252          02           05                                     Mesleki Eğitim Merkezleri                                 50          2        alınır. Ahşap, kerpiç binalar için burada
+252          02           99                                     Diğer                                                     50          2        belirlenen amortisman sürelerinin yarısı
+252          03                                                  Sağlık Hizmeti Amaçlı Binalar                                                  esas alınır. Galip malzemesi saç, çinko,
+252          03           01                                     Sağlık Evleri                                             50          2        teneke olan mevsimlik faaliyette
+252          03           02                                     Sağlık Ocakları                                           50          2        bulunan sinema, gazino ve emsali
+252          03           03                                     Dispanserler                                              50          2        yerlerdeki cam veya ahşap tesisler ile
+252          03           04                                     Hastaneler                                                50          2        benzeri binalar ve galip malzemesi cam
+252          03           05                                     Laboratuvarlar                                            50          2        olan binalar (Sera, depo ve tesisler) ve
+252          03           06                                     Fizik Tedavi ve Rehabilitasyon Merkezleri                 50          2        benzerleri ve her çeşit tanklar için bu
+252          03           07                                     Klinikler                                                 50          2        bölümde belirlenen sürelerin 3/10'u esas
+252          03           08                                     Veteriner Klinikleri ve Hayvan Hastaneleri                50          2        alınır.    Galip    malzemesi       teneke
+252          03           99                                     Diğer                                                     50          2        muvakkat barakalar, inşaat şantiye
+252          04                                                  Sosyal ve Kültürel Amaçlı Binalar                                              binaları ve prefabrik yapılar için ise
+252          04           01                                     Yurt ve Pansiyonlar                                       50          2        binalar için belirlenen sürelerin 1/5'i
+252          04           02                                     Bakımevi ve Huzurevleri                                   50          2        esas alınarak amortisman uygulaması
+252          04           03                                     Kreş ve Gündüz Bakımevleri                                50          2        yapılır.
+252          04           04                                     Misafirhaneler                                            50          2
+252          04           05                                     Halk Eğitim Merkezi                                       50          2
+252          04           06                                     Kurs Merkezleri                                           50          2
+252          04           07                                     Kütüphaneler                                              50          2
+252          04           08                                     Sinema, Tiyatro ve Opera vb. Salonları ve Stüdyoları      50          2
+252          04           09                                     Sergi ve Fuar Alanları                                    50          2
+252          04           10                                     Müzeler,Sanat Galerileri                                  50          2
+252          04           11                                     İbadet Yerleri                                            50          2
+252          04           12                                     Eğitim ve Dinlenme Binaları                               50          2
+252          04           13                                     Düğün, Tören ve Konferans Salonları                       50          2
+252          04           14                                     Hayvanat Bahçeleri                                        50          2
+252          04           99                                     Diğer                                                     50          2
+252          05                                                  Spor Amaçlı Bina ve Tesisler
+252          05           01                                     Spor Sahaları                                             50          2
+252          05           02                                     Spor Salonları                                            50          2
+252          05           03                                     Stadyumlar                                                50          2
+252          05           04                                     Kortlar                                                   50          2
+252          05           05                                     Yarış Pistleri                                            50          2
+252          05           06                                     Hipodromlar                                               50          2
+252   05   99        Diğer                                                  50            2
+252   06             Turizm ve Dinlenme Amaçlı Bina ve Tesisler
+252   06   01        Turizm Kompleksi                                       50            2
+252   06   02        Oteller                                                50            2
+252   06   03        Tatil Köyleri                                          50            2
+252   06   04        Moteller                                               50            2
+252   06   05        Pansiyonlar                                            50            2
+252   06   06        Kültür ve Eğlence Merkezleri                           50            2
+252   06   07        Kamping ve Günübirlik Alanları                         50            2
+252   06   08        İçmece ve Kaplıca Tesisleri                            50            2
+252   06   99        Diğer                                                  50            2
+252   07             Konutlar
+252   07   01        Kamu Konutları                                         50            2
+252   07   99        Diğer                                                  50            2
+252   08             Tutukevi, Cezaevi ve Islahevleri
+252   08   01        Cezaevleri                                             50            2
+252   08   02        Islahevleri                                            50            2
+252   08   03        Madde Bağımlıları Islah Merkezleri                     50            2
+252   08   04        Tutukevleri                                            50            2
+252   08   99        Diğer                                                  50            2
+252   09             Ticaret Amaçlı Binalar
+252   09   01        Alışveriş ve İş Merkezleri                             50            2
+252   09   02        Büyük ve Çok Katlı Mağazalar                           50            2
+252   09   03        Market ve Süpermarketler                               50            2
+252   09   04        Restoranlar, Lokantalar                                50            2
+252   09   99        Diğer                                                  50            2
+252   10             Depolama Amaçlı Binalar
+252   10   01        Hangarlar, Antrepolar, Silolar ve Depolar              50            2
+252   10   99        Diğer                                                  50            2
+252   11             Tarihi Yapılar
+252   11   01        Saraylar                                            Amortismana Tabi Değil
+252   11   02        Köşkler, Kasırlar                                   Amortismana Tabi Değil
+252   11   03        Medreseler ve Külliyeler                            Amortismana Tabi Değil
+252   11   99        Diğer                                               Amortismana Tabi Değil
+252   99             Diğer Binalar                                         50             2
+253                  TESİS, MAKİNE VE CİHAZLAR HESABI
+253   01             Tesisler Grubu
+253   01   01        Sanayi ve Üretim Tesisleri                             20            5
+253   01   01   01   Fabrikalar                                             20            5
+253   01   01   02   Atölyeler                                              20            5
+253   01   01   03   İmalathaneler                                          20            5
+253   01   01   04   Tersaneler                                             20            5
+253   01   01   99   Diğer Sanayi ve Üretim Tesisleri                       20            5
+253   01   99        Diğer Tesisler                                         20            5
+253   02             Makineler
+253   02   01        Tarım ve Ormancılık Makineleri                         5            20
+253   02   02        Atölye Makineleri                                      5            20
+253   02   03        İnşaat Makineleri                                      5            20
+253   02   04        İş Makineleri                                          5            20
+253   02   99        Diğer Makineler                                        5            20
+253   03             Cihazlar ve Aletler
+253   03   01        Tıbbi ve Laboratuvar Cihazları ve Aletleri             5            20
+253   03   02        Yangın Söndürme Cihazları ve Aletleri                  5            20
+253   03   03        Ulaştırma-Haberleşme Cihazları ve Aletleri             5            20
+253   03   04        Isıtıcı, Soğutucu ve Dondurucu Cihaz ve Aletler        5            20
+253   03   05        Aydınlatma Cihazları ve Aletleri                       5            20
+253   03   06        Ölçü, Tartı ve Çizim Cihazları ve Aletleri             5            20
+253   03   07        Temizleyici Cihazlar ve Aletler                        5            20
+253   03   08        Sportif Cihazlar ve Aletler                            5            20
+253   03   09        Pişirici Cihazlar ve Aletler                           5            20
+253   03   10        Ses, Gösteri ve Görüntüleme Cihazları ve Aletleri      5            20
+253   03   11        Fotoğraf Cihazları ve Aletleri                         5            20
+253   03   12        Enerji Sağlayan Cihazlar ve Aletler                    5            20
+253   03   99        Diğer Cihazlar ve Aletler                              5            20
+253   99             Diğer Tesis, Makine ve Cihazlar
+253   99   99        Diğer Tesis, Makine ve Cihazlar                        5            20
+254                  TAŞITLAR HESABI
+254   01             Karayolu Taşıtları
+254   01             Karayolu Taşıtları                                     10           10
+254   01   01        Arazi Taşıtları                                        10           10
+254   01   02        Çekici                                                 10           10
+254   01   03        Traktör                                                10           10
+254   01   04        Kamyon                                                 10           10
+254   01   05        Kamyonet                                               10           10
+254   01   06        Kaptıkaçtı                                             10           10
+254   01   07        Minibüs                                                10           10
+254   01   08        Motosiklet                                             10           10
+254   01   09        Otobüs                                                 10           10
+254   01   10        Otomobil                                               10           10
+254   01   11        Tanker                                                 10           10
+254   01   12        Özel Amaçlı Taşıtlar                                   10           10
+254   01   13   Motorsuz Kara Araçları                                  10           10
+254   01   99   Diğer Karayolu Taşıtları                                10           10
+254   02        Su ve Deniz Taşıtları
+254   02   01   Yolcu Taşımada Kullanılanlar                            10           10
+254   02   02   Yük Taşımada Kullanılanlar                              10           10
+254   02   03   Özel Amaçlı Su ve Deniz Taşıtları                       10           10
+254   02   99   Diğer Su ve Deniz Taşıtları                             10           10
+254   03        Hava Taşıtları
+254   03   01   Uçak                                                    10           10
+254   03   02   Helikopter                                              10           10
+254   03   03   Motorsuz Hava Taşıtları                                 10           10
+254   03   99   Diğer Motorlu Hava Taşıtları                            10           10
+254   04        Demiryolu Taşıtları
+254   04   01   Katı-Sıvı Yakıtlı Lokomotifler                          10           10
+254   04   02   Elektrikli Lokomotifler                                 10           10
+254   04   03   Vagonlar                                                10           10
+254   04   99   Diğer Demiryolu Taşıtları                               10           10
+254   99        Diğer Taşıtlar
+254   99   99   Diğer Taşıtlar                                          10           10
+255             DEMİRBAŞLAR
+255   01        Giyecek, Döşeme ve Mefruşat
+255   01   01   Giysiler                                                1            100
+255   01   02   Halılar                                                 4             25
+255   01   03   Bayrak ve Flamalar                                      1            100
+255   01   04   Çadırlar ve Teferruatı                                  4             25
+255   01   05   Mehter, Bando ve Boru Takımları                         4             25
+255   01   99   Diğer Giyecek, Döşeme ve Mefruşat                       4             25
+255   02        Bilgi İşlem ve Elektronik
+255   02   01   Dizüstü Bilgisayar                                      5            20
+255   02   02   Kişisel Bilgisayar                                      5            20
+255   02   03   Sunucular                                               5            20
+255   02   04   Yazıcı ve Tarayıcılar                                   5            20
+255   02   05   Kesintisiz Güç Kaynakları                               5            20
+255   02   06   Elektronik Araçlar                                      5            20
+255   02   99   Diğer Bilgi İşlem Malzemesi                             5            20
+255   03        Büro Demirbaşları
+255   03   01   Masalar                                                 5             20
+255   03   02   Oturma ve Yatma Amaçlı Malzemeler                       5             20
+255   03   03   Sehpa, Etajer ,Komodin v.b.                             5             20
+255   03   04   Panel ve Paravanlar                                     5             20
+255   03   05   Dolaplar                                                5             20
+255   03   06   Askılık, Vestiyer, Portmanto                            1            100
+255   03   07   Kasalar                                                 5             20
+255   03   08   Kova ve Bidonlar                                        1            100
+255   03   09   Büro Makineleri                                         5             20
+255   03   10   Numaratörler ve Tarih Damgaları                         5             20
+255   03   11   Masa Takımları                                          5             20
+255   03   12   Çanta ve Bavullar                                       5             20
+255   03   99   Diğer Büro Demirbaşları                                 5             20
+255   04        Canlı Demirbaşlar
+255   04   01   Küçükbaş Hayvanlar                                      1            100
+255   04   02   Büyükbaş Hayvanlar                                      1            100
+255   04   03   Kuşlar ve Kümes Hayvanları                              1            100
+255   04   04   Suda Yaşayan Hayvanlar                                  1            100
+255   04   99   Diğer Canlı Demirbaşlar                                 1            100
+255   05        Güvenlik Demirbaşları
+255   05   01   Ateşli Silahlar                                         1            100
+255   05   02   Ateşsiz Silahlar                                        1            100
+255   05   03   Elektronik Güvenlik Sistemleri                          1            100
+255   05   04   Diğer Güvenlik Ekipmanları                              1            100
+255   05   99   Diğer Silahlar                                          1            100
+255   06        Tarihi ve Sanat Değeri Olan Demirbaşlar
+255   06   01   Etnografik Eserler                                   Amortismana Tabi Değil
+255   06   02   Arkeolojik Eserler                                   Amortismana Tabi Değil
+255   06   03   Tablet                                               Amortismana Tabi Değil
+255   06   04   Mühür ve Mühür Baskısı                               Amortismana Tabi Değil
+255   06   05   Arşiv Vesikası                                       Amortismana Tabi Değil
+255   06   06   Geleneksel Türk Süslemesi                            Amortismana Tabi Değil
+255   06   07   Fosiller                                             Amortismana Tabi Değil
+255   06   08   Güzel Sanat Eserleri                                 Amortismana Tabi Değil
+255   06   09   Para, Pul, Sikke v.b.                                Amortismana Tabi Değil
+255   06   10   Kitap, Belge, El Yazmaları ve Nadir Eserler          Amortismana Tabi Değil
+255   06   99   Diğer Tarihi veya Sanatsal Değeri Olan Demirbaşlar   Amortismana Tabi Değil
+255   07        Kütüphane Demirbaşları
+255   07   01   Kitap                                                Amortismana Tabi Değil
+255   07   02   Belge                                                Amortismana Tabi Değil
+255   07   03   Tez ve Araştırma Çalışmaları                         Amortismana Tabi Değil
+255   07   04   Bilgi Saklama Üniteleri                                5             20
+255   07   05   Harita, Plan ve Paftalar                             Amortismana Tabi Değil
+255   07   99   Diğer Kütüphane Demirbaşları                         Amortismana Tabi Değil
+255   08        Eğitim Demirbaşları
+255   08   01   Öğrenci Sırası                                5            20
+255   08   02   Öğretmen Kürsüsü                              5            20
+255   08   03   Yazı Tahtaları ve Panolar                     5            20
+255   08   04   Derslik Donanımları                           5            20
+255   08   05   Laboratuvar Takımları                         5            20
+255   08   99   Diğer Eğitim Demirbaşları                     5            20
+255   09        Mutfak Demirbaşları
+255   09   01   Tencere                                       1            100
+255   09   02   Tabak                                         1            100
+255   09   03   Bardak                                        1            100
+255   09   04   Küçük Mutfak Demirbaşları                     1            100
+255   09   05   Taşımada Kullanılan Mutfak Demirbaşları       1            100
+255   09   99   Diğer Mutfak Demirbaşları                     1            100
+255   99        Diğer Demirbaşlar
+255   09   01   Süs Eşyaları                                  1            100
+255   09   99   Diğer Demirbaşlar                             1            100
+256             DİĞER MADDİ DURAN VARLIKLAR HESABI
+256   01        Orta Malları ve Genel Hizmet Alanları        1            100
+256   02        Ormanlar                                   Amortismana Tabi Değil
+256   03        Maden Ocakları                             Amortismana Tabi Değil
+256   04        Sınırlı Ayni Haklar                          1            100
+256   99        Diğer Maddi Duran Varlıklar                  1            100
+ 26             MADDİ OLMAYAN DURAN VARLIKLAR
+260             HAKLAR HESABI
+260   01        Bilgisayar Yazılımları                        5            20
+260   02        Harita, Plan ve Projeler
+260   02 01     Haritalar                                      5            20
+260   02 02     Plan ve Projeler                               5            20
+260   03        Lisanslar                                      1           100
+260   04        Patentler                                     20             5
+260   99        Diğer Haklar                                   5            20
+263             ARAŞTIRMA VE GELİŞTİRME GİDERLERİ HESABI       1           100
+264             ÖZEL MALİYETLER HESABI                         1           100
+267             DİĞER MADDİ OLMAYAN DURAN VARLIKLAR            1           100
+ 27             ÖZEL TÜKENMEYE TABİ VARLIKLAR
+271             ARAMA GİDERLERİ HESABI                        1            100
+277             DİĞER ÖZEL TÜKENMEYE TABİ VARLIKLAR           1            100
+                                                                                                                                                                                                                             EK : 2
+                                                                                   DURAN VARLIKLAR AMORTİSMAN VE YENİDEN DEĞERLEME DEFTERİ
+                                             AMORTİSMANA TABİ KIYMETİN                                                            ORANLAR                                                                                       Yıl: ……
+
+
+
+
+                                                                                                                         AMORTİSMAN
+                                                                                                                                                                    YENİDEN                     YENİDEN
+
+
+
+
+                                                                                                                                      DEĞERLEME
+          TAŞINIRIN / TAŞINMAZIN
+                                                                                                                                                     YENİDEN
+
+
+
+
+                                                                                                                                       ORANI %
+                                                                                                                           ORANI %
+
+
+                                                                                                                                       YENİDEN
+                                                                                       DEĞER                SATIŞ VEYA                                             DEĞERLEME      YENİDEN      DEĞERLEME       BİRİKMİŞ
+                                             EDİNME    YEVMİYE   MALİYET/İKTİSAP               AMORTİSMAN                                           DEĞERLEME
+                                                                                      ARTIRICI                TERKİN                                             ÖNCESİ BİRİKMİŞ DEĞERLEME  SONRASI BİRİKMİŞ AMORTİSMAN   NET DEĞER
+                                             TARİHİ   NUMARASI       DEĞERİ                      SÜRESİ                                           ÖNCESİ MALİYET
+                                                                                    HARCAMALAR                TARİHİ                                              AMORTİSMAN SONRASI TUTARI   AMORTİSMAN        TUTARI
+HESAP YARDIMCI                                                                                                                                        BEDELİ
+                  *SİCİL NO/NO     CİNSİ                                                                                                                             TUTARI                      TUTARI
+KODU HESAP KODU
+
+
+
+
+                                    TOPLAM
+                                                                                      EK : 3
+                                                (2007 yılı için)
+                                      İLK MADDE VE MALZEME GİDERLERİ
+630   14           İlk Madde ve Malzeme Giderleri
+630   14   01      Kırtasiye Malzemeleri
+630   14   02      Temizlik Malzemeleri
+630   14   03      Yiyecekler
+630   14   04      İçecekler
+630   14   05      Yemler
+630   14   06      Giyecek, Mefruşat ve Tuhafiye Malzemeleri
+630   14   07      İlaç ve Tıbbi Malzemeler
+630   14   08      Zirai Maddeler
+630   14   09      Yakacak, Akaryakıt ve Madeni Yağlar
+630   14   10      Bakım-Onarım ve Üretim Malzemeleri
+630   14   11      Yedek Parçalar
+630   14   12      Hayvanlar
+630   14   13      Nakil Vasıtaları Lastikleri
+630   14   14      Güvenlik Amaçlı Tüketim Malzemeleri
+630   14   99      Diğer İlk Madde ve Malzeme
+630   14   20      2007 Taşınır Kodları
+630   14   20 01   Kırtasiye Malzemeleri
+630   14   20 02   Beslenme, Gıda Amaçlı ve Mutfakta Kullanılan Tüketim Malzemeleri
+630   14   20 03   Tıbbi ve Laboratuar Sarf Malzemeleri
+630   14   20 04   Yakıtlar, Yakıt Katkıları ve Katkı Yağlar
+630   14   20 05   Temizleme Ekipmanları
+630   14   20 06   Giyecek, Mefruşat ve Tuhafiye Malzemeleri
+630   14   20 07   Yiyecek
+630   14   20 08   İçecek
+630   14   20 09   Canlı Hayvanlar
+630   14   20 10   Zirai Maddeler
+630   14   20 11   Yem
+630   14   20 12   Bakım Onarım ve Üretim Malzemeleri
+630   14   20 13   Yedek Parçalar
+630   14   20 14   Nakil Vasıtaları Lastikleri
+630   14   20 15   Değişim, Bağış ve Satış Amaçlı Yayınlar
+630   14   20 16   Spor Malzemeleri Grubu
+630   14   20 17   Basınçlı Ekipmanlar
+630   14   20 99   Diğer Tüketim Amaçlı Malzemeler
+                                                  (2008 yılı için)
+630 14             İlk Madde ve Malzeme Giderleri
+630 14 01          Kırtasiye Malzemeleri
+630 14 02          Beslenme, Gıda Amaçlı ve Mutfakta Kullanılan Tüketim Malzemeleri
+630 14 03          Tıbbi ve Laboratuar Sarf Malzemeleri
+630 14 04          Yakıtlar, Yakıt Katkıları ve Katkı Yağlar
+630 14 05          Temizleme Ekipmanları
+630 14 06          Giyecek, Mefruşat ve Tuhafiye Malzemeleri
+630 14 07          Yiyecek
+630 14 08          İçecek
+630 14 09          Canlı Hayvanlar
+630 14 10          Zirai Maddeler
+630 14 11          Yem
+630 14 12          Bakım Onarım ve Üretim Malzemeleri
+630 14 13          Yedek Parçalar
+630 14 14          Nakil Vasıtaları Lastikleri
+630 14 15          Değişim, Bağış ve Satış Amaçlı Yayınlar
+630 14 16          Spor Malzemeleri Grubu
+630 14 17          Basınçlı Ekipmanlar
+630 14 99          Diğer Tüketim Amaçlı Malzemeler
+KÜTÜPHANE DEFTERİNE İLİŞKİN AÇIKLAMALAR
+Bu defter, kütüphanelerdeki tarihi ve sanat değeri olan yazma-basma nadir eserler ile kitap ve kitap dışı materyaller için tutulur. Taşınır Kod Listesinin (B)
+bölümünün kütüphanede bulunan Kütüphane Demirbaşları Grubunda yer alan taşınırlar ile Tarihi veya Sanat Değeri Olan Demirbaşlar Grubunda yer alan
+taşınırlar taşınır kodları düzeyinde kaydedilir.
+
+(1) Harcama Biriminin bulunduğu il ve ilçenin adı ve kodu, (merkez birimleri için il ve ilçe kodu "00.00" olarak, il merkezleri için ilçe kodu "00" olarak gösterilir.)
+
+(2) Taşınır kayıtlarının tutulduğu ve taşınır kayıt ve kontrol yetkilisinin bağlı olduğu harcama biriminin adı ve kodu,
+(3) Harcama birimine hizmet veren muhasebe biriminin adı ve kodu,
+(4) Taşınırın hesap kodu ile tüm detay kodlarını içeren taşınırın kaydedildiği son detay kodunu,
+(5) Eserin kayıtlara alınması için kullanılan adet, cilt, fasikül, sayfa, varak vb.,
+(6) Taşınır girişine esas teşkil eden Taşınır İşlem Fişinin tarihi ve numarası,
+(7) Giriş veya çıkış işleminin yapılması için Taşınır İşlem Fişi veya Zimmet Fişinin düzenlenmesine esas teşkil eden bağış, devir, sayım noksanı, sayım fazlası,
+kayıp, çalınma vb.işlem çeşidi,
+(8) Elektronik ortamda tutulan kayıtlarda bilgisayar tarafından otomatik olarak verilen numara; elektronik olmayan ortamlarda tutulan kayıtlarda ise taşınır kodu,
+edinildiği yıl ile giriş sıra numarasını içeren numara,
+(9) Birkaç sayfadan oluşan belgelerin satır sayıları,
+(10) Kaydedilen kitabın ciltlenmesinde kullanılan karton, bez, suni deri, deri vb.,
+(11) Eser veya kitaba değer tespit edilmiş ise bu değer, satın alınmış ise satın alma değeri, böyle bir değer yok ise iz bedeli,
+(12) Eserin başka bir yere gönderilmesi veya verilmesi halinde buna ilişkin olarak düzenlenen Taşınır İşlem Fişi veya emrin tarih ve numarası,
+yazılır.
+

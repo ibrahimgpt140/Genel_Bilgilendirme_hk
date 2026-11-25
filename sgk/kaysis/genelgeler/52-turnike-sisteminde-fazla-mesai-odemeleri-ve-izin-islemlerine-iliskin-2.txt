@@ -1,0 +1,315 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105980
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 52
+ADI: TURNİKE SİSTEMİNDE, FAZLA MESAİ ÖDEMELERİ VE İZİN İŞLEMLERİNE İLİŞKİN 2011/52 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 6c2be03530d66002a1d258b20f8cc51c433ad2b2f1dc113b92b7fbce7be9d663
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+İnsan Kaynakları Daire Başkanlığı
+Sayı :B.13.2.SGK.0.71.00.11/392 21/06/2011
+Konu : Turnike sisteminde, fazla mesai
+ödemeleri ve izin işlemleri.
+GENELGE
+2011/52
+i 5502 sayılı oSosyal Güvenlik Kurumu Kanununun 28 inci maddesi gereğince
+hazırlanan ve Yönetim Kurulumuzun 12/03/2010 tarihli ve 2010/47 sayılı Kararı ile kabul
+edilen Sosyal Güvenlik Kurumu Fazla Çalışma Usul ve Esaslarının 5 inci maddesinde; “5502
+sayılı Sosyal Güvenlik Kurumu Kanununun 28 inci maddesi uyarınca fazla çalışma gerektiren
+her türlü Kurum işleri için çalışma saatleri dışında görevlendirilen ve fiilen çalışan memurlar
+ile sözleşmeli personele ayda 60 saati geçmemek üzere ve yılı merkezi yönetim bütçe
+kanununda belirtilen ücretin iki katı karşılığında fazla çalışma yaptırılabilir. Zorunlu hallerde
+bu süre ihtiyaç duyulan birimlerin teklifi üzerine Başkanlık onayı ile “50 oranında
+artırılabilir.” hükmüne yer verilmiştir.
+
+Aynı Usul ve Esasların 7 nci maddesinde ise; “Fazla çalışma yapan personelin bu
+çalışmalarını belgelemek üzere, görevlendirilecek yetkililerin kontrolü ve sorumluluğunda
+ekli fazla çalışma cetvelleri düzenlenir. Düzenlenen bu cetveller söz konusu personel ile
+yetkililer tarafından imzalanır. İmzalanan bu cetveller esas alınıp, ekli aylık fazla çalışma
+puantaj cetveli hazırlanarak birim amirlerince imzalanmasını müteakip yazı ekinde tahakkuk
+birimlerine gönderilir.” hükmüne yer verilmiştir.
+
+Kurumumuz merkez ve taşra teşkilatı birimlerinde çalışan personelin Kuruma giriş ve
+çıkışlarının kayıt altına alınmasını teminen binaların girişine kurulan tumike sisteminin
+sorunsuz çalıştığı tespit edilmiş olup, bu çerçevede Kurumumuzda birimler arası uygulama
+birliğinin sağlanması için;
+
+1- Merkez ve taşra teşkilatında tumike sistemi bulunan binalarda görev yapan
+personelin tamamının 01/06/2011 tarihinden itibaren göreve geliş ve gidişlerinin turnike
+sisteminin kullanılarak yapılması, turnike sistemi bulunmayan binalarda çalışan personelin
+ise göreve geliş ve gidişlerinin “Günlük Çalışma Cetveli” (Ek-1) doldurularak yapılması,
+
+2- Giriş kartını unutan, kaybeden veya kartı arızalanan personelle ilgili olarak ekte
+(Ek-2) örneği bulunan tutanağın 2 nüsha olarak danışmada bulunan görevli personel
+tarafından düzenlenmesini müteakip sisteme kayıt işleminin de yapılarak tutanağın bir
+suretinin personelin çalıştığı birime gönderilmesi,
+
+3- Göreve geliş ve gidişleri servis araçları ile sağlanan personelin, sabah göreve
+başlangıç saatine 15 dakikaya kadar opsiyon tanınması, ayrıca Kurumun çeşitli adreslerde
+birimlerinin bulunması ve buralarda çalışan personelin ara servisi kullanarak belirli
+merkezlerden taşınması halinde personelin göreve geliş saatleri için tanınacak opsiyon
+süresinin Ankara'da Destek Hizmetleri Daire Başkanlığı tarafından belirlenmesi ve bu
+sürelerin İnsan Kaynakları Daire Başkanlığı ile ilgili birimlere bildirilmesi, diğer İllerde ise
+opsiyon sürelerinin İl Müdürü tarafından belirlenmesi,
+
+4- Personelin kısa süreli (sigara vb.) mazeretleri için çalışma saatleri içerisinde 10'ar
+dakika olmak üzere toplam dört defaya kadar Kurum dışına çıkmaları halinde bu sürelerin izin
+hesabında dikkate alınmaması,
+
+Adres: Ziyabey Cad. No:6 06510 Balga/ANKARA |
+Ayrıntılı bilgi için irtibat : Salim KAHRAMANOĞLU İnsan Kaynakları Daire Başkanı
+Telefon : 0312 2078511 Faks: 0312 207 81 44 E-Posta: iktahakkuk(Gsek.gov.tr Elektronik Ağ; www.sgk.gov.tr
+
+T.C
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+İnsan Kaynakları Daire Başkanlığı
+
+5- Personelin günlük çalışma süresi içerisinde mazeret, hastalık, görevlendirme, eğitim
+gibi nedenlerle Kurum dışına çıkmalarının gerektiği hallerde turnike programının bulunduğu
+büp:/#urnike/logout.aspx adresinde yer alan “Tumike ve Kartlı Geçiş Sistemi İşlemleri”
+programını kullanarak izin talebinde bulunmaları ve bu taleplerin amirleri tarafından
+değerlendirilerek onaylanması ve personelin özel mazeretleri nedeniyle kullandıkları izinlerin
+bir ayda sekiz saati aşması halinde aşan sürelerin 657 sayılı Kanununun 104 üncü maddesinin
+(C) bendinde belirtilen 10 günlük mazeret izninden düşülmesi
+
+6- Personelin kendisi, ana, baba, eş ve çocukları ile kardeşlerinden birinin rahatsızlığı
+nedeniyle personelin refakat etmek amacıyla Kurum dışına çıkmalarının gerektiği hallerde
+http://turnike/logout.aspx adresinde yer alan “Turnike ve Kartlı Geçiş Sistemi İşlemleri”
+programını kullanılarak izin talebinde bulunmaları, bu taleplerin amirleri tarafından
+değerlendirilerek onaylanması ve bu nedenle verilecek saatlik izinlerin aylık sekiz saatlik
+mazeret izni dışında değerlendirilmesi,
+
+7- Turnike sistemi bulunan binalarda çalışan personele ayda 90 saate kadar fazla
+çalışma yaptırılması ve ekte bir örneği bulunan, “Fazla Çalışma Cetveli” (Ek-3) düzenlemek
+suretiyle fiilen fazla çalışma yapanlara, fazla çalışmaları karşılığında turnike sisteminden alınan
+elektronik çıktılardaki fazla çalışma sürelerini gösteren tumike sistemi üzerinden alınan “Aylık
+Fazla Çalışma -Puantaj Cetveli” (Ek-4) esas alınacak fazla çalışma ücreti ödenmesi,
+
+8- Turnike sistemi bulunmayan binalarda çalışan personele ayda 60 saate kadar fazla
+çalışma yaptırılması ve ekte bir örneği bulunan, “Fazla Çalışma Cetveli” (Ek-3) düzenlemek
+suretiyle fiilen fazla çalışma yapanlara birim amirleri tarafından personelinin fazla çalışmaya
+başlayış ve ayrılış saatlerinin titizlikle takip edilmek suretiyle, fazla çalışmaları karşılığında
+manuel olarak düzenlenen “Aylık Fazla Çalışma Puantaj Cetveli” (Ek-4) esas alınarak fazla
+çalışma ücreti ödenmesi,
+
+9- Turnike sistemi bulunmakla birlikte, günlük çalışma saatleri elektronik turnike
+sistemine uymayan (Şoför, Aşçı, Dağıtıcı vb.) personelin ayda 90 saate kadar fiilen fazla
+çalışma yapmaları halinde, fazla çalışma ücretlerinin 8 inci maddeye göre ödenmesi,
+
+10- Geçici görev, denetim, toplantı, eğitim gibi görevler nedeniyle Kurum dışında
+bulunan personelin günlük çalışma saatlerini aşan fazla çalışma süreleri için belgelendirilmek
+(Ek-5) kaydıyla, bu sürelerin birim amirlerinin denetim ve kontrolünü müteakip “Aylık Fazla
+Çalışma Puantaj Cetveli” ne (Ek-4) eklenmek suretiyle fazla çalışma ücreti ödenmesi,
+
+Hususlarında bilgi edinilmesini ve gereğini rica ederim.
+
+Ekler:
+
+1- Günlük Çalışma Cetveli
+
+2- Tutanak
+
+3- Fazla Çalışma Cetveli
+
+4- Aylık Fazla Çalışma Puantaj Cetveli
+
+5- Görevlendirme Belgesi
+
+Adres. Ziyabey Cad. No:6 06510 Balga/ANKARA ||
+Ayrıntılı bilgi için irtibat : Salim KAHRAMANOĞLU İnsan Kaynakları Daire Başkanı
+
+Telefon : 0312 207 85 11 Faks: 0312 207 81 44 E-Posta: iktahakkuk(2sek gov.tr Elektronik Ağ: www.sgk.gov.tr
+
+GÜNLÜK ÇALIŞMA CETVELİ , Ek-1
+O
+AYM. i
+se © Panama |
+? EMME a
+TARİHLER | GÜNLER GELİŞ ÇIKIŞ GELİŞ Çıkış YETKİLİSİ |
+A A |
+| NN A
+KR A
+| NN
+| —
+A RP
+KR NCA EEG
+| NN KR KR
+m 7
+NK A
+NN RK A
+NK RK A
+sğ This PDF was created using the Sonic PDF Creator.
+iü To remove this watermark, please Hcense this product at www.inyestintecii Söm
+
+T.C. i
+©, SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI EK-2
+i
+, TUTANAK
+İ ” 5 .
+| Lİ Personel giriş kartım bozuk.
+| Lİ Personel giriş kartımı unuttum. pa
+ Personek giriş kartımı kaybettim.
+Göreve başlama saati , Görevden ayrılış saati
+numan... Genel Müdürlüğüne
+amm, Başkanlığına
+: mis... Müşavirliğine
+Maamamımı Müdülüğüne
+İ “© Biriminizde............................. olarak görev yapan ....................... SİGİl
+Numaralı memenin saree nl İ20,... tarihinde
+yukarida belirtilen nedenle ( turnikeden giriş ve çıkış yapamamıştır.
+Yukarıdaki nedenle belirtilen tarihteki giriş ve çıkış saatlerim doğru olup, düzenlenen bir
+nüsha tutanağı görev yaptığım birime vermek üzere elden teslim aldım.
+Personelin Görevli Personelin
+!
+Soyadı ! ...... eee keeessacar | SOYBĞİ İL eee eee eeeeereeeeeeereeee
+i
+|
+i
+| |
+| İmza İmza
+m e lir
+
+EK-5
+FAZLA ÇALIŞMA CETVELİ :
+BAŞLAMA | BİTİRME | TOPLAM | BAŞLANGIÇ PUANTAJ AMİRİNİN
+TARİHLER | GÜNLER | Sanayi | saari | Sar | olası o | SİTİRMRİMZASI ADI, SOYADI, İMZASI
+İİ İREİL A İİ
+li ll e |
+NN A
+İ
+NN A A A
+ES
+yi
+e a
+çi O RR ii
+BİRİN YETKİLİSİNİN ADI, SOYADI, ÜNVANI, İMZASI : ç kia Wi
+iğ) This PDF was created using the Sonic PDF Creator. yapta
+To remove this watermark, piease jicense this product at wwwnvesiinteci.com. 4
+
+>
+b i hb bab İN 7 li 7
+
+: i /i , , ti | rel
+a Ml (EE
+
+b NEN İl A
+
+BR iş li | e tm 17 ii hai
+: Bi gd i di : İ Re ö2İ
+
+YA RM KEŞ
+
+z S , ; İİ Dİ TI ni
+EN Nm EN
+ektirme |
+
+b E 7 7
+
+İL RE pa
+Eğ lila
+| ll İli $ |
+
+- İEEİ — e — — vs
+
+© g İZE —
+
+EEE EEE NN ELE ML GE i
+e LİN GN Ni
+MM TT :
+
+2 | | i
+
+li | NAM EMEMANAEN oh
+
+SEL MA
+
+va -İ | Kam N Rİ - - İ İ.
+e ER İİ . : NE 14 , ii
+DE A KE Tİ
+yar
+zl | İTİ | m i,
+; © maeuuuuuuuuu :
+: MES
+lili gli
+
+a | alla İ
+
+ll eljipilijp iii
+
+MENMUN Nuuuun
+
+ll işllilap. ji
+
+İli e
+
+ENNE İİ
+
+z K ENE A GE ME A i İ i : j j
+
+NELNENENEEEEEERENNN iz
+İİİ dE ş
+
+z bi) | İİ Ki
+
+ğ : iel - ” . "”i - . ” sl 1: : > £ 3) Di 2 : p
+
+sağa This PDF was createdi using the Sonic PDE Creator.
+o To remove this watermark, please ficense this product at wwwinvestinteci. com.
+
+©
+> NN
+Mi
+— ; i
+a &. .;
+© $
+Ii zi |
+m Ni i
+Wi Ni :
+E : |
+3 Z ,
+> »
+İni Zz ni
+Ni ğ | . . yi
+iğ N pi : OR N Ni Ni
+Lol —, SR VE pe a
+iz! ğ
+< >
+& N 3)
+ul 8 i
+ii
+z ğ
+z â vi
+Z a YA
+li Xp , a
+| 8 i
+z :
+is) i &
+5 & ;
+< .
+z z
+Ea ES : İğ |
+bari , ö E i
+pu : ; :
+ö © : ğ ZI i
+, , 2 ; E . :
+$ ş £,
+, ps a li
+Pi Eg 5 i i i
+ui. Sg & ii
+5 2 E  “
+i Z Eg
+» » & 5 :
+E EE Eş) |8 . N
+ğ 3
+c z ği 2 © E 8 ©
+& £ 2 e 5 8 Eş S8 E >
+e SS > Z8g zZ & Gö 6 5
+2 8 b &ş. > 2 S8 Ş Sg
+BO 8 © 2 5. E i 5 E
+&« © © öm ö i 5 E £ DE
+si This PDF was created using the Sonic PDF Creator.
+i To remove *his Watermark, please ficense this product al www.inyestinteci.com.

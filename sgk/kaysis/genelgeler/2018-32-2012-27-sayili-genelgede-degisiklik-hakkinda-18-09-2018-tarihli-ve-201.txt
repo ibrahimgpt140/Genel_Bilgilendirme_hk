@@ -1,0 +1,109 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/144010
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2018/32
+ADI: 2012/27 SAYILI GENELGEDE DEĞİŞİKLİK HAKKINDA 18/09/2018 TARİHLİ VE 2018/32 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 98628b05146ff772d80d2479957d614bc8010f5da4582d32a71134c9f3adf9f5
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> T.C.
+S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı :24010506-010-E.12089308 18/09/2018
+Konu : 2012/27 sayılı Genelgede Değişiklik
+GENELGE
+2018/32
+
+1/8/2012 tarihli ve 2012/27 sayılı Kurum Genelgesinin 7.2 numaralı bölümü aşağıdaki
+şekilde değiştirilmiştir.
+
+"7.2- 5510 sayılı Kanunun 93 üncü maddesinin ikinci fıkrasına göre, Kurumun prim ve
+diğer alacakları ödeme süresinin dolduğu tarihi takip eden takvim yılı başından başlayarak on yıllık
+zamanaşımına tâbidir. Zamanaşımını kesen sebepler 6183 sayılı Kanunun 103 üncü maddesinde,
+durduran sebepler ise 6183 sayılı Kanunun 104 üncü maddesi ile 5510 sayılı Kanunun 9l inci
+maddesinde sayılmıştır.
+
+Kurum alacağının zamanaşımına uğrayıp uğramadığı konusu ile ilgili olarak, Kurumumuz
+ile borçlular arasında oluşan anlaşmazlıklar bazen dava konusu da yapılarak mahkemelerin iş
+yükünün artmasına neden olmaktadır.
+
+Bu nedenle gerekli program çalışmaları bitene kadar, İl Müdürlükleri tarafından işyeri
+dosyalarının ve sigortalıların borçları düzenli aralıklarla taranarak, en eski borçtan başlamak üzere
+işyeri ove sigortalı borçları belirlenecektir. (6183 sayılı Kanunun 103 üncü ve 104 üncü
+maddelerinde ve 5510 sayılı Kanunun 91 inci maddesinde sayılan zamanaşımını kesen ve
+durduran sebepler ile diğer gerekli araştırmalar yapılarak, yapılan tarama sonucunda tespit edilen
+borcun zamanaşımına girdiğinin anlaşılması halinde borçlulara genelge ekinde yer alan "Borç
+Bilgilendirme Formu" gönderilmek suretiyle yazının tebliğinden itibaren 15 gün içerisinde ödeme
+yapılması istenilecektir. Söz konusu Kurum alacağı için yapılacak olan rızaen ödemeler kabul
+edilecektir. Borçlular tarafından ödeme yapılmaması halinde herhangi bir mahkeme ilamı
+aranmaksızın zamanaşımına girmiş borcun 6183 sayılı Kanun kapsamında takibi mümkün
+olmadığından, bu borçlar icra servisine gönderilmeyecek olup muhasebe sisteminin ilgili hesabında
+tutulacaktır.
+
+Diğer taraftan, 6183 sayılı Kanunun 58 inci maddesine göre ödeme emrine itiraz, ödeme
+emrinin tebliğinden itibaren 15 gün içinde yapılması gerektiğinden, kendisine ödeme emri
+gönderilen borçlu, borcunun zamanaşımına girdiği yönünde ödeme emrinin tebliğinden itibaren 15
+gün içinde alacaklı ünitemize itiraz etmesi halinde; kişilerin yargıya gitmesine gerek duyulmaksızın
+söz konusu alacağın zamanaşımına girip girmediği Prim Tahakkuk İtiraz Komisyonunca
+incelenecek, zamanaşımına girdiği tespit edilen alacaklara ait icra takip dosyası alacaklı servise
+iade edilecektir. Kuruma zamanaşımı defii iddiası ile itiraz edilmesi mahkemeye dava açma
+süresini durduran veya kesen bir işlem olarak kabul edilmeyecektir. İcra takip dosyasında birden
+fazla dönem bulunması ve bu dönemlerden bazılarının zamanaşımına girdiğinin tespit edilmesi
+halinde sadece zamanaşımına girdiği tespit edilen dönemin icradan iptali yapılacaktır.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cad.No: 7 06430 Sıhhıye/Ankara
+Telefon: 0(312) 458 71 10 Fax: 0(312)432 1237 Birim Eposta: isverenlerPrimDB(&sgk.gov.tr
+Ayrıntılı bilgi için irtibat: İbrahim ÖZÇELİK Daire Başkanı Eposta:iozcelik2(©sgk.gov.tr
+ALO
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+Borcun zamanaşımına uğraması sonucunda söz konusu alacak için artık borçlu hakkında
+icra ve haciz yoluna başvurulamamakta dolayısıyla zamanaşımına uğramış olan alacak, alacaklı
+için alacak hakkını (borçlu için de borçluluk niteliğini) sona erdirmeyip onu "eksik bir borç" haline
+dönüştürdüğünden, diğer bir ifade ile ilgili kişilerin borçlarını ortadan kaldırmadığından bu kişiler
+Kuruma karşı halen borçlu sayılmaktadır. Bu nedenle zamanaşımına girmiş borçlar;
+
+- Kurumca verilecek borcu yoktur yazılarında veya Kurum ve Kuruluşlarca yapılacak borç
+sorgulamalarında,
+
+-Kurumca uygulanan teşvik, destek ve indirimlerde,
+
+- Primlerini kendileri ödeyen sigortalıların sağlık hizmetlerinden yararlanılmasında,
+
+- KDV Mahsubu ile prim ödenmesinde kullanılan "Borç Döküm Formunda",
+
+işverenin/sigortalıların borcu olarak dikkate alınacaktır.
+
+Yine ihale konusu veya özel bina inşaatlarında yapılan araştırma işlemi sonucunda
+saptanan fark işçilik borçlarının işverene tebliği üzerine söz konusu borçların işverence
+zamanaşımına girdiği ile ilgili itiraz edilmesi durumunda bahse konu bu borçlar ödenmeden ihale
+konusu işlerde teminatın iadesi ve özel bina inşaatlarında ise iskan için ilişiksizlik belgesi
+verilmeyecektir.
+
+Ayrıca 6183 sayılı Kanunun 23 üncü maddesine göre Hazine ve Maliye Bakanlığına bağlı
+tahsil dairelerince reddiyat yapılması durumunda anılan maddenin birinci fıkrasına göre yapılacak
+mahsuptan sonra Kurumun zamanaşımına girmiş prim alacakları dahil prim ve diğer alacaklarından
+muaccel olanlara mahsup yapılacaktır."
+
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+Dr. Mehmet Selim BAĞLI
+Kurum Başkanı
+EK: Borç Bilgilendirme Formu
+DAĞITIM/GEREĞİ: BİLGİ:
+Merkez ve taşra teşkilatı Aile, Çalışma ve Sosyal Hizmetler Bakanlığı
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cad.No: 7 06430 Sıhhıye/Ankara
+Telefon: 0(312) 458 71 10 Fax: 0(312)432 1237 Birim Eposta: isverenlerPrimDB(&sgk.gov.tr
+Ayrıntılı bilgi için irtibat: İbrahim ÖZÇELİK Daire Başkanı Eposta:iozcelik2(©sgk.gov.tr
+ALO
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN

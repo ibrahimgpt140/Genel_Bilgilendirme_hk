@@ -1,0 +1,1348 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/135887
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4756824
+ADI: 21/09/2017 TARİHLİ,4756824 SAYILI VE 4/1-(A) VE (B) KAPSAMINDAKİ SİGORTALILARIN TAHSİS UYGULAMALARINDA TEREDDÜT EDİLEN HUSUSLAR KONULU GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 8fe540bf2ecf922bf11553507515ecd4dbd92b14aa83b0a2a8604b31ae80de73
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+ii T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+TASAR Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı : 98547999-010-E.4756824 21/09/2017
+Konu : 4/1 -(a) ve (b) Kapsamındaki Sigortalıların Tahsis
+Uygulamalarında Tereddüt Edilen Hususlar.
+GENEL YAZI
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin
+birinci fıkrasının (a) ve (b) bentleri kapsamındaki sigortalılar ile bunların hak sahipleri hakkında
+Kanunun 54 üncü ve 96 ncı maddeleri ile 2330 sayılı Nakdi Tazminat Kanununun 4 üncü
+maddesine ilişkin uygulamalarda;
+
+Kanunun 96 ncı maddesiyle ilgili olarak; Kurumumuzdan gelir/aylık almakta olan
+sigortalı/hak sahiplerine yersiz ödenen gelir/aylıkların tespitinde,
+
+Kanunun 54 üncü maddesinde düzenlenen ve hak sahiplerine hak kazandıkları ölüm
+gelir/aylıklarından tercih ettikleri gelir ve aylığın ödenmesine ilişkin tercih sisteminin ne şekilde
+uygulanacağı ile tercih edilen aylıkların başlangıç tarihinin tespitinde,
+
+4/1-(a) ve 4/1-(b) sigortalıları yönünde tereddüt yaşandığı ve farklı uygulamaların yapıldığı
+yine, vazife malullüğü aylığı bağlanmış olan sigortalıların bu aylık öncesi ve sonrası hizmetleri ile
+engellilik ve hastalık hallerinin sonraki emeklilik işlemlerinde ne şekilde değerlendirileceğine
+ilişkin 6495 sayılı Kanunla değişik 2330 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasının
+uygulama usul ve esasları belirlenmiş olup, anılan konulardaki işlemlerin aşağıdaki açıklamalar
+doğrultusunda yapılması gerekmektedir.
+
+1- Yersiz Yapılan Gelir/aylık Ödemelerinin Tespiti İle Tahsiline İlişkin İşlemler
+
+Bilindiği üzere, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun “Yersiz
+Ödemelerin Geri Alınması” başlıklı 96 ncı maddesi;
+
+“Kurumca işverenlere, sigortalılara, isteğe bağlı sigortalılara gelir veya aylık almakta
+olanlara ve bunların hak sahiplerine, genel sağlık sigortalılarına ve bunların bakmakla yükümlü
+olduğu kişilere, fazla veya yersiz olarak yapıldığı tespit edilen bu Kanun kapsamındaki her türlü
+ödemeler;
+
+a) Kasıtlı veya kusurlu davranışlarından doğmuşsa, hatalı işlemin tespit tarihinden geriye
+doğru en fazla on yıllık sürede yapılan ödemeler, bu ödemelerin yapıldığı tarihlerden,
+
+b) Kurumun hatalı işlemlerinden kaynaklanmışsa, hatalı işlemin tespit tarihinden geriye
+doğru en fazla beş yıllık sürede yapılan ödemeler toplamı, ilgiliye tebliğ edildiği tarihten itibaren
+yirmi dört ay içinde yapılacak ödemelerde faizsiz, yirmidört aylık sürenin dolduğu tarihten sonra
+yapılacak ödemelerde ise bu süre sonundan,
+
+itibaren hesaplanacak olan kanuni faizi ile birlikte, ilgililerin Kurumdan alacağı varsa bu
+alacaklarından mahsup edilir, alacakları yoksa genel hükümlere göre geri alınır.” hükmünü amirdir.
+
+Buna göre, tahsis uygulamaları yönünden yapılan yersiz aylık ödemeleri aşağıda belirtilmiş
+olup, bunlar;
+
+Bu belge, 5070 sayılı Elektronik Imza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+
+e-posta: ehgm hacedbiösgk.gov.tr Web: www.sgk.gov.tr 1
+
+- Aylığın iptali,
+
+- Aylık miktarının yanlış hesaplanması,
+
+- Aylığın belirli bir sürede sehven ödenmesi,
+
+- Aylık başlangıcında yapılan hatalar,
+
+- Aylığın yanlış statüde bağlanması,
+
+- Ölüm dosyalarında hak sahipleri arasında muvafakat ve yersiz ödemeler,
+
+şeklinde gruplandırılmıştır.
+
+L.. Aylığın İptali
+
+Aylığın iptali, sigortalıların kasıtlı veya kusurlu davranışlarından veya Kurumun hatalı
+işlemlerinden kaynaklanan nedenlerle bağlanmaması gereken bir aylığın bağlandığının tespit
+edilmesi sonucu, aylığın başlangıç tarihi itibariyle iptal edilmesidir.
+
+Aylığın iptalinin, sigortalıların kasıtlı veya kusurlu davranışlarından kaynaklanması
+durumunda; bağlanan aylık başlangıç tarihi itibariyle iptal edilecek ve 5510 sayılı Kanunun 96 ncı
+maddesinin birinci fıkrasının (a) bendi kapsamında yersiz ödeme tespit tarihinden geriye doğru 10
+yıllık sürede ödenen aylıklar tespit edilerek tahsili yoluna gidilecektir.
+
+Örnek 1: En son özel sektörde çalışırken Kurumumuza 01/04/2009 tarihinde yaşlılık
+sigortasından tahsis talebinde bulunan ve tarafına toplam 5135 prim ödeme gün sayısı üzerinden
+01/05/2009 tarihi itibariyle 4/1-(a) kapsamında yaşlılık aylığı bağlanan sigortalının 01/04/2017
+tarihinde dosyasının tetkikinde; aylık bağlama işlemlerinde dikkate alınan 900 günlük hizmetin
+sahte olduğu tespit edilmiştir. 900 günlük hizmetin iptali sonucu sigortalının tahsis talep tarihi
+itibariyle aylık bağlama koşulları oluşmadığından aylığın iptali gerekmektedir.
+
+Bu durumda, sigortalıya yapılan yersiz ödemeler sigortalının kasıtlı veya kusurlu
+davranışından kaynaklandığından, 5510 sayılı Kanunun 96 ncı maddesinin birinci fikrasının (a)
+bendi gereğince yersiz ödeme tespit tarihinden geriye doğru 10 yıllık sürede yapılan ödemelerin
+tespit edilerek;
+
+01/04/2017-yersiz ödeme tespit tarihi
+
+10
+
+01/04/2007 -Borç başlangıç tarihi
+
+Sigortalıya 01/05/2009 tarihinden itibaren aylık bağlandığından, bu tarih itibariyle yapılan
+yersiz ödemelerin borç kaydedilerek yasal faizi ile tahsili gerekmektedir.
+
+Aylık iptalinin Kurumun hatalı işlemlerinden kaynaklanması durumunda; bağlanan aylık
+başlangıç tarihi itibariyle iptal edilecek ve 5510 sayılı Kanunun 96 ncı maddesinin birinci fıkrasının
+(b) bendi kapsamında yersiz ödeme tespit tarihinden geriye doğru 5 yıllık sürede ödenen aylıklar
+tespit edilerek tahsili yoluna gidilecektir.
+
+Örnek 2: En son kamu sektöründe çalışırken Kurumumuza 14/08/2010 tarihinde yaşlılık
+sigortasından tahsis talebinde bulunan ve tarafına toplam 5100 prim ödeme gün sayısı üzerinden
+15/08/2010 tarihi itibariyle 4/1-(a) kapsamında yaşlılık aylığı bağlanan sigortalının 15/05/2017
+tarihinde dosyasının tetkikinde; aylık bağlama işlemlerinde dikkate alınan 450 gün hizmet süresinin
+başka bir sigortalıya ait olduğu anlaşılmıştır. Söz konusu hizmet süresinin toplam prim ödeme gün
+sayısından düşülmesi halinde sigortalının tahsis talep tarihi itibariyle aranan prim ödeme gün sayısı
+koşulu oluşmadığından aylık alma hakkı düşmüştür.
+
+Bu durumda, sigortalıya yapılan yersiz ödemeler Kurumun hatalı işlemlerinden
+kaynaklandığından, 5510 sayılı Kanunun 96 ncı maddesinin birinci fıkrasının (b) bendi gereğince
+yersiz ödeme tespit tarihinden geriye doğru 5 yıllık sürede yapılan ödemelerin tespit edilerek;
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 03124321063 Faks: 0312 43210 62
+
+e-posta: ehgm hacedbwsgk.gov.tr Web: www.sgk.gov.tr 2
+
+15/05/2017 -yersiz ödeme tespit tarihi
+
+A,
+
+15/05/2012 -Borç başlangıç tarihi
+
+15/05/2012 tarihinden itibaren yapılan yersiz ödemeler borç kaydedilerek sigortalıya borcu
+tebliğ edilecektir. Sigortalının borcunu tebliğ tarihinden itibaren yirmi dört ay içerisinde ödemesi
+halinde yapılan yersiz ödeme tutarı faiz uygulanmaksızın tahsil edilecek, borcun yirmi dört aylık
+süre dolduktan sonra ödenmesi halinde ise yirmi dört aylık sürenin sonundan ödemenin yapıldığı
+tarihe kadar kanuni faizi uygulanacaktır.
+
+1.2. Aylık Miktarının Yanlış Hesaplanması
+
+Bağlanan aylığın miktarının yanlış hesaplandığının (sigortalının bazı hizmetlerinin sonradan
+tespit edilmesi, başka sigortalılara ait hizmetlerin karışması, aylığın hesaplanmasına esas gün ve
+kazanç bilgilerinin veya diğer bilgilerin aylık bağlama programlarına yanlış girilmesi..vb)
+sonradan tespit edilmesi halinde, öncelikle talep tarihi itibariyle aylık yeniden hesaplanarak
+düzeltilecektir. Hesaplanan yeni aylık eski aylıktan;
+
+-Yüksekse, aylık başlangıç tarihi itibariyle hesaplanan fark aylıklar ödenecektir.
+
+-Düşükse, yersiz ödemenin sigortalı veya Kurum hatasından kaynaklanıp kaynaklanmadığı
+tespit edilecektir. Yersiz ödemenin sigortalıların kasıtlı veya kusurlu davranışlarından
+kaynaklanması durumunda; yersiz ödeme tespit tarihinden geriye doğru 10 yıllık sürede ödenmesi
+gereken aylıklar ile ödenen aylıklar arasındaki yersiz ödenen fark aylıklar için borç kaydı
+yapılacaktır. Yersiz ödemenin Kurumun hatalı işlemlerinden kaynaklanması durumunda ise tespit
+tarihinden geriye doğru sadece 5 yıllık sürede ödenmesi gereken aylıklar ile ödenen aylıklar
+arasındaki yersiz ödenen fark aylıklar için borç kaydı yapılacaktır.
+
+Örnek 1: İlk işe giriş tarihi 01/01/1977 olan ve en son özel sektörde çalışmakta iken
+30/06/2007 tarihinde işten ayrılarak aynı tarihte tahsis talebinde bulunan ve tarafına 01/07/2007
+tarihinden itibaren yaşlılık aylığı bağlanan sigortalının aylık bağlama işlemi sonuçlandıktan sonra
+1980-1982 yılları arasında 4/1-(a) kapsamında 645 gün hizmet süresi tespit edilmiştir. Söz konusu
+hizmet süreleri dikkate alınarak sigortalının aylığı talep tarihi itibariyle yeniden hesaplanmış ve
+aylık miktarı yükselmiştir. Sigortalıya aylık başlangıç tarihi olan 01/07/2007 tarihi itibariyle
+01/07/2007-17/07/2017 süresi fark aylıklarının (ödenmesi gereken aylıklar-ödenen aylıklar)
+ödenmesi gerekmektedir.
+
+Örnek 2: Sigortalılık başlangıç tarihi 01/10/1973 olan ve 4/1-(b) kapsamında 30/3/2005
+tarihinde yaşlılık sigortasından tahsis talebinde bulunan sigortalıya 01/04/2005 tarihi itibariyle
+aylık bağlanmıştır. Tahsis numarasının son rakamı “9”dur. Kurum denetim elemanı tarafından
+22/06/2017 tarihinde yapılan denetimde sigortalının 4/1-(a) kapsamında 1996-1998 tarihleri
+arasında (A) işyerinde geçen hizmetlerinin sahte olduğu tespit edilerek söz konusu hizmetler iptal
+edilmiştir. Sigortalı iptal edilen hizmetlere rağmen tahsis talebinde bulunduğu 30/3/2005 tarihi
+itibariyle aylığa hak kazanma koşullarını kaybetmediğinden aylıkları ödenmeye devam edilmekle
+birlikte, iptal edilen hizmetler aylık hesaplama işleminde dikkate alınmadan tahsis talep tarihi
+itibariyle aylığı yeniden hesaplanacaktır. Aylık miktarının düşmesi halinde sigortalıya yapılan
+yersiz ödemelerin tespitinde; sahte hizmetlerin oluşması sigortalıların kasıtlı ve kusurlu
+davranışlarından meydana geldiğinden, yersiz ödeme tespit tarihinden geriye doğru 10 yıllık sürede
+yersiz ödenen aylıklar için borç kaydı yapılacaktır.
+
+22/06/2017 -yersiz ödeme tespit tarihi
+
+10
+
+22/06/2007 -Borç başlangıç tarihi
+Bu belge, 3070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(&sgk.gov.tr Web: www.sgk.gov.tr 3
+
+Sigortalı için yeniden hesaplanan aylık eski aylıktan;
+
+-Yüksek ise, aylık başlangıç tarihi itibariyle fark aylık ödenecektir.
+
+-Düşük ise, sigortalıya 22/6/2007 tarihinden itibaren yersiz ödenen fark aylıklar yasal faizi
+ile birlikte tahsil edilecektir.
+
+1.3. Aylığın Belirli Bir Sürede Sehven Ödenmesi
+
+Aylığın belirli bir sürede sehven ödenmesi yaşlılık aylıklarında aylığın yeniden
+hesaplanmasını gerektirmekle birlikte ölüm aylıklarında hak sahiplerine ödenen aylıklar yönünden
+aylık yeniden hesaplanmamaktadır. Sigortalılara aylık obağlandıktan sonra tahsis talep tarihi
+itibariyle hak kazanma koşullarının oluşmadığının öğrenilmesi veya aylık alırken aylıklarının
+kesilmesini gerektiren şekilde çalışmaya başladıkları halde, bu durumun sonradan anlaşılması
+hallerinde belirli bir süre sigortalılara yersiz aylık ödenmiş olacaktır.
+
+Sigortalıların tahsis talep tarihi itibariyle aylığa hak kazanma koşullarının oluşmadığının
+aylık bağlandıktan sonra anlaşılması ve bu durumun Kurumun hatalı işleminden (hizmetlerin
+karışması, hizmet çakışmalarının daha sonra fark edilerek hizmet iptallerinin yapılması, yaş, prim
+gün sayısı veya sigortalılık süresinin yanlış tespit edilmesi vb.) kaynaklanması ve sigortalının daha
+sonraki bir tarihte hak kazanma koşullarının oluştuğunun anlaşılması halinde, aylık başlangıç tarihi
+itibariyle iptal edilmekle birlikte aylığa (yazılı talep koşulu aranmaksızın) hak kazanma
+koşullarının sonradan oluştuğu tarihi tahsis talep tarihi gibi kabul edilerek aylık bu tarih itibariyle
+yeniden hesaplanmaktadır. Yersiz aylık ödendiği tespit edilen süreler; tespit tarihinden geriye
+doğru 5 yıllık sürede ise bunların tahsili yoluna gidilmekte, 5 yıldan önceki süreleri kapsaması
+halinde ise yersiz ödeme çıkarılmamaktadır.
+
+Sigortalıların tahsis talep tarihi itibariyle aylığa hak kazanma koşullarının oluşmadığının
+aylık bağlandıktan sonra anlaşılması ve bu durumun sigortalıların kasıtlı ve kusurlu
+davranışlarından kaynaklandığının anlaşılması halinde ise yukarıda “1.1. Aylığın İptali”
+bölümünde belirtildiği şekilde aylık iptal edilerek, tespit tarihinden geriye doğru 10 yıllık sürede
+yapılan yersiz ödemeler borç çıkartılacaktır.
+
+Diğer taraftan, yaşlılık aylığı alırken tüm sigorta kollarına tabi çalışmaya başladıkları halde
+yaşlılık aylıkları ödenmeye devam edilenlerin aylıkları, çalışmaya başladıkları tarihi takip eden
+ödeme dönemi itibariyle kesilecektir. Sigortalılara çalıştıkları dönemde yapılan yersiz ödemelerin
+sigortalıların kasıtlı veya kusurlu davranışlarından kaynaklanıp kaynaklanmadığının tespitinde |
+aylık sürede durum değişikliğinin bildirim yükümlüğünün sigortalı veya işveren tarafından yapılıp
+yapılmadığı hususu incelenecek ve sigortalı bildirim yapmamış olsa bile işveren sigortalı işe giriş
+bildirgesini çalışılmaya başlanılan tarihten itibaren | aylık süre içinde Kuruma göndermiş ise
+yersiz ödeme sigortalı hatası kapsamında değerlendirilmeyecektir. Aynı durum ölüm gelir/aylığı
+almakta iken çalışmaya başlayan ve bu durumu daha sonra tespit edilen hak sahipleri için de
+uygulanacaktır.
+
+Netice itibariyle, yukarıda belirtilen durumlarda aylıkların kesilmesi veya yeniden
+ödenmeye başlanması gerekiyorsa bu işlemler yapılmakla birlikte, yapılan yersiz ödemelerin
+sigortalıların kasıtlı veya kusurlu davranışlarından kaynaklanması halinde, yersiz ödenen aylıkların,
+yersiz ödemenin tespit tarihinden önceki 10 yıllık sürede bulunması halinde bu sürede ödenen
+aylıklar için borç kaydı yapılacak, 10 yıllık süreden önceki sürelere denk gelmesi halinde ise
+herhangi bir borç çıkarılmayacaktır. Yersiz ödemenin Kurumun hatalı o işlemlerinden
+kaynaklanması durumunda ise yersiz ödenen aylıkların, bu defa yersiz ödemenin tespit tarihinden
+önceki 5 yıllık sürede olup olmamasına göre belirtildiği şekilde işlem yapılacaktır.
+
+Örnek 1: İlk işe giriş tarihi 13/09/1986 olan ve en son özel sektörde çalışmakta iken
+13/05/2011 tarihinde işten ayrılarak 28/05/2011 tarihinde tahsis talebinde bulunan ve tarafına
+01/06/2011 tarihinden itibaren yaşlılık aylığı bağlanan sigortalının dosyasının 28/06/2017 tarihinde
+incelenmesinde; tahsis talep tarihi itibariyle 25 yıllık sigortalılık süresi koşulunun oluşmadığı, bu
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedbösgk.gov.tr Web: www.sgk.gov.tr 4
+
+şartın 13/09/2011 tarihinde yerine geldiği anlaşılmıştır.
+
+Bu durumda, yersiz ödemenin Kurumun hatalı işlemlerinden kaynaklanması nedeniyle
+sigortalının 25 yıllık sigortalılık süresini doldurduğu 13/09/2011 tarihi tahsis talep tarihi olarak
+kabul edilecek ve aylık bu tarih itibariyle yeniden hesaplanarak bu tarihi takip eden aybaşı olan
+01/10/2011 tarihi itibariyle aylık bağlanacaktır. Sigortalıya yersiz yapılan ödemeler; yersiz ödeme
+tespit tarihinden 5 yıl (Kurumun hatalı işlemlerinden kaynaklanması nedeniyle) geriye gidilmek
+suretiyle;
+
+28/06/2017
+
+5
+
+28/06/2012 belirlenecektir. Sigortalıya 01/10/2011 tarihinden itibaren yeniden aylık
+hesaplandığından, hesaplanan aylık, mevcut aylıktan düşük ise 28/6/2012 tarihinden itibaren
+sadece fark aylıklar borç çıkarılacaktır. Aylık mevcut aylıktan yüksek ise herhangi bir borç kaydı
+çıkarılmadan sadece fark aylıklar sigortalıya ödenecektir.
+
+Örnek 2: Örmek | deki sigortalıya yersiz aylık bağlanma sebebinin Kurumun hatalı
+işlemleri yerine sigortalının kasıtlı veya kusurlu hareketinden kaynaklanmış olması durumunda
+yaşlılık aylığı başlangıç tarihi itibariyle iptal edilecek ve yersiz ödeme tespit tarihi olan 28/06/2017
+tarihinden geriye doğru 10 yıl gidilmek suretiyle;
+
+28/06/2017
+
+10
+
+28/06/2007 belirlenecektir. Yersiz ödemenin sigortalıların kasıtlı veya kusurlu
+davranışından kaynaklanması durumunda yeni talep şartı arandığından, sigortalı talepte
+bulunmadığı sürece aylık bağlama işlemi yapılmayacak ve iptal edilen aylık 01/06/2011 tarihi
+itibariyle bağlandığından, aylık başlangıç tarihi itibariyle ödenen tüm aylıklar adına borç
+çıkartılacak ve yasal faiziyle tahsil edilecektir.
+
+Örnek 3: 04/09/2010 tarihinde 4/1-(b) kapsamında iken ölen sigortalının hak sahibi kız
+çocuğuna 01/10/2010 tarihi itibariyle ölüm aylığı bağlanmıştır. 26/10/2017 tarihinde Kurum
+hizmet kayıtlarında yapılan incelemede, kız çocuğunun 08/12/2010-15/01/2011 tarihleri arasında
+4/1<(a) kapsamında çalıştığı halde durum değişikliğini Kuruma bildirmediği, işe giriş bildirgesinin
+de işveren tarafından çalışılmaya başlanılan tarihten itibaren | aylık süre dışında verildiği
+anlaşılmıştır.
+
+Bu durumda, kız çocuğunun işe girdiği tarihi takip eden ödeme dönemi (tahsis numarasının
+son rakamı 7) olan 25/12/2010 tarihi itibariyle aylığının kesilmesi gerekmektedir. 5510 sayılı
+Kanunun 35 inci maddesi gereğince aylık almakta iken hak sahipliği koşulunu kaybedenlere
+taleplerini takip eden aybaşından itibaren ölüm aylığı bağlanması gerektiğinden ve kız çocuğunun
+daha sonra talebi bulunmadığından aylık bağlanmayacak ve yapılan yersiz ödemeler sigortalı hatası
+kapsamında değerlendirildiğinden, yersiz ödeme tespit tarihinden 10 yıl geriye gidilmek suretiyle
+tespit yapılacaktır.
+
+26/10/2017
+
+10
+
+26/10/2007 belirlenmekle birlikte, kız çocuğunun aylığının 25/12/2010 tarihi itibariyle
+kesilmesi gerektiğinden 25/12/2010 tarihi itibariyle ödenen tüm aylıklar hak sahibi adına borç
+kaydedilecektir.
+
+Kız çocuğunun çalışmaya başladığının işveren tarafından süresinde Kuruma bildirilmiş
+Bu belge, 3070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(&sgk.gov.tr Web: www.sgk.gov.tr 5
+
+olması halinde ise, yersiz ödeme sigortalı hatası kapsamında değerlendirilmeyecek ve bu defa
+yersiz ödeme tespit tarihinden geriye doğru 5 yıl gidilmek suretiyle
+
+26/10/2017
+
+05
+
+26/10/2012 belirlenecektir. Hak sahibi çocuğa 25/12/2010 tarihi yerine 26/10/2012 tarihi
+itibariyle yapılan aylık ödemeleri borç kaydedilecektir.
+
+Örnek 4 : 01/12/2001 tarihinde 4/1-(a) kapsamında çalışırken ölen sigortalının hak sahibi
+kız çocuğuna 01/01/2002 tarihi itibariyle ölüm aylığı bağlanmış ve Kurum hizmet kayıtlarında
+07/01/2017 tarihinde yapılan incelemede hak sahibi kız çocuğunun 01/03/2005- 30/07/2005
+tarihleri arasında 4 ay 4/1-(a) kapsamında çalıştığı ve bu sürelerde de kız çocuğuna ölüm aylığı
+ödendiği anlaşılmıştır. Kız çocuğu çalışmaya başladığını bildirmediği gibi işe giriş bildirgesinin de
+işveren tarafından çalışılmaya başlanılan tarihten itibaren 1 aylık süre dışında verildiği
+anlaşılmıştır. Hak sahibi kız çocuğuna yapılan yersiz ödemeler sigortalı hatası kapsamında
+değerlendirildiğinden, yersiz ödeme tespit tarihinden 10 yıl geriye gidilmek suretiyle tespit
+yapılacaktır.
+
+07/01/2017
+
+10
+
+07/01/2007 belirlenmekle birlikte, kız çocuğunun işten ayrıldığı tarih itibariyle hak sahipliği
+koşulunun yeniden oluşması nedeniyle 01/08/2005 tarihi itibariyle ölüm aylıklarının ödenmesine
+devam edilecek ancak kız çocuğuna yersiz ödeme yapılan 01/03/2005- 30/07/2005 süresi, 10 yıl
+geriye gidilmek suretiyle tespit edilen 07/01/2017 tarihinden önceki sürede bulunduğundan hak
+sahibine yersiz ödeme borcu çıkartılmayacaktır.
+
+1.4. Aylık Başlangıcında Yapılan Hatalar
+
+Sigortalıların aylık başlangıç tarihleri genel olarak tahsis talep tarihlerine göre belirlenmekle
+birlikte, aylık başlangıç tarihini değiştiren unsurlar da bulunmaktadır. Sigortalıların tahsis talep
+tarihlerinin değişmesi veya tahsis talep tarihi değişmemekle birlikte aylık başlangıç tarihlerinin
+değişmesi nedeniyle yersiz ödemeler oluşmaktadır.
+
+1.4.1. Tahsis Talep Tarihinin Değişmesi
+
+Sigortalıların tahsis talep tarihleri; farklı nedenli yargı kararları doğrultusunda
+değişebileceği gibi işten ayrılma koşulunun gerçekleşmediğinin sonradan tespit edilmesi, aylık
+başlangıç tarihlerinin aylık bağlama programlarına yanlış girilmesi ...vb. nedenlerle
+değişebilmektedir. Tahsis talep tarihinin değişmesi aylığın yeni talep tarihi itibariyle yeniden
+hesaplanmasını gerektirmektedir. Yeniden hesaplanan aylık tutarının mevcut aylık tutarından fazla
+olması durumunda yersiz ödemenin sigortalı veya Kurum hatasından kaynaklanıp
+kaynaklanmadığına bakılmaksızın fark aylıkları ödenecektir.
+
+Ancak, hesaplanan yeni aylığın, mevcut aylık tutarından az olması durumunda; öncelikle
+yersiz ödemenin sigortalı veya Kurum hatasından kaynaklanıp kaynaklanmadığı tespit edilecektir.
+Yersiz ödemenin sigortalıların kasıtlı veya kusurlu davranışlarından kaynaklanması durumunda;
+yersiz ödeme tespit tarihinden geriye doğru 10 yıllık sürede ödenmesi gereken aylıklar ile ödenen
+aylıklar arasındaki yersiz ödenen fark aylıklar için borç kaydı yapılacaktır. Yersiz ödemenin
+Kurumun hatalı işlemlerinden kaynaklanması durumunda ise tespit tarihinden geriye doğru sadece
+5 yıllık sürede ödenmesi gereken aylıklar ile ödenen aylıklar arasındaki yersiz ödenen fark aylıklar
+için borç kaydı yapılacaktır.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye. ANKARA Ayrınulı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312 432 1063 Faks: 0312 43210 62
+
+e-posta: ehgm hacedbösgk.gov.tr Web: www.sgk.gov.tr 6
+
+Örnek: 4/1-(b) kapsamında çalışmakta iken 02/08/2015 tarihinde Kurumumuza 4/1-(b)
+kapsamında (o yaşlılık (o sigortasından aylık bağlanması talebinde bulunan sigortalıya
+01/08/1989-01/08/1990 tarihleri arası 506 sayılı Kanuna tabi aralıklı olarak geçen 350 gün
+çalışması birleştirilerek 9351 prim ödeme gün sayısı ve SI yaş üzerinden 01/09/2015 tarihinden
+ibaren aylık bağlanmıştır. 01/04/2017 tarihinde sigortalının dosyasının incelenmesinde aylık
+bağlama işlemlerinde dikkate alınan ve 4/1-(a) kapsamında geçen 350 gün hizmetin 150 gününün
+aynı isimli başka bir sigortalının hizmetleri ile karıştığı anlaşılmış olup, söz konusu hizmetlerin
+iptal edilmesi sonucu sigortalının mevcut hizmet süresine göre emeklilik yaş haddinin 51 yerine 52
+olduğu anlaşılmış dolayısıyla tahsis talep tarihi itibariyle aylığa hak kazanma koşullarının
+oluşmadığı anlaşılmıştır.
+
+Bu durum Kurumun hatalı işlemlerinden kaynaklandığından sigortalıya 52 yaşını
+doldurduğu tarih olan 03/07/2016 tarihini takip eden aybaşı olan 01/08/2016 tarihi itibariyle
+yaşlılık aylığı yeniden hesaplanarak bağlanacaktır. Sigortalıya yapılan yersiz ödemeler Kurumun
+hatalı işlemlerinden kaynaklandığından tespit tarihinden geriye doğru 5 yıl gidilecektir. Yersiz
+ödeme tarihi;
+
+01/04/2017
+
+5
+
+01/04/2012 şeklinde belirlenmekle birlikte sigortalıya 01/09/2015 tarihi itibariyle aylık
+bağlandığından bu tarihten sonra ödenen yersiz ödemeler dikkate alınacaktır.
+
+Sigortalıya 01/08/2016 tarihi itibariyle bağlanan aylık eski aylıktan;
+
+-Yüksek ise, borç süresi 01/09/2015-01/08/2016 süresi ödenen aylıklar olup, sigortalıya
+01/08/2016 tarihinden itibaren yeniden aylık bağlanacağından bu tarihten işlem yapılan tarihe
+kadar ki süre için fark aylık ödenecektir.
+
+-Düşük ise, 01/09/2015-01/08/2016 süresinde ödenen aylıkların tümü ile 01/08/2016
+tarihinden işlem yapılan tarihe kadar geçen süredeki fark aylıklar borç çıkarılacaktır.
+
+1.4.2. Sadece Aylık Başlangıç Tarihinin Değişmesi
+
+Sigortalıların hizmet borçlanma ve ihya talep tarihleri, tahsis talep tarihinden önce olmak
+kaydıyla, borçlanma ve ihya bedellerinin yasal süresinde tahsis talep tarihinden sonra ödenmesi
+veya tahsis talep tarihi itibariyle 4/1-(b) kapsamındaki hizmetlere ilişkin prim borçlarının
+bulunması ve bu borçların talep tarihinden sonraki bir tarihte ödenmesi halinde sigortalılardan yeni
+bir talep belgesi alınmaksızın aylıklar bu borçların ödendiği tarihi takip eden aybaşından
+başlatılmaktadır. Bu durumda, sigortalıların tahsis talep tarihleri değişmediğinden aylık yeniden
+hesaplanmamakta, ancak aylık başlangıç tarihinin değişmesi nedeniyle değişen dönem için yersiz
+ödeme oluşmaktadır. Yersiz ödemenin sigortalıların kasıtlı veya kusurlu davranışlarından
+kaynaklanması halinde, yersiz ödenen aylıkların, yersiz ödemenin tespit tarihinden önceki 10 yıllık
+sürede bulunması halinde bu sürede ödenen aylıklar için borç kaydı yapılacak, 10 yıllık süreden
+önceki sürelere denk gelmesi halinde ise herhangi bir borç çıkarılmayacaktır. Yersiz ödemenin
+Kurumun hatalı işlemlerinden kaynaklanması durumunda ise yersiz ödenen aylıkların, yersiz
+ödemenin tespit tarihinden önceki 5 yıllık sürede olup olmamasına göre; 5 yıllık sürede bulunması
+halinde bu sürede ödenen aylıklar için borç kaydı yapılacak, 5 yıllık süreden önceki sürelere denk
+gelmesi halinde ise herhangi bir borç çıkarılmayacaktır.
+
+Örnek: Sigortalı 540 gün fiili askerlik hizmetini borçlanmak için Kurumumuza 13/07/2015
+tarihinde talepte bulunmuş olup, borçlanma bedelini ödemeden yine aynı ay içinde 22/07/2015
+tarihinde yaşlılık sigortasından aylık talebinde bulunmuştur. Sigortalı borçlanma bedelini ise
+12/08/2015 tarihinde ödemiştir. Sigortalıya aylık talebini takip eden aybaşı olan 01/08/2015
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 7
+
+itibariyle aylık bağlanmıştır. Sigortalının aylık miktarına itirazına ilişkin dilekçesine istinaden
+dosyasının 11/05/2017 tarihinde incelenmesinde; 540 günlük askerlik borçlanması ile yaşlılık
+aylığı bağlanması için gereken gün koşulunu yerine getirdiği dolayısıyla tahsis talep tarihi yerine,
+borçlanma tutarını ödediği tarih olan 12/08/201$5'i takip eden aybaşı olan 01/09/2015 tarihi
+itibariyle aylık bağlanması gerektiği anlaşılmıştır.
+
+Bu durumda, sigortalı için yeni bir aylık hesabı yapılmaksızın sadece aylık başlangıç tarihi
+01/09/2015 şeklinde değiştirilecek olup, o sigortalıya 01/08/2015-01/09/2015 süresinde yersiz
+ödenen aylık için Kurum hatası kapsamında borç kaydı yapılacaktır.
+
+1.5. Aylığın Yanlış Statüde Bağlanması
+
+Sigortalıların birden fazla sosyal güvenlik kanununa veya 5510 sayılı Kanuna göre birden
+fazla statüde geçen hizmetleri aylık bağlanırken birleştirilmektedir. Bu şekilde hizmet birleştirmesi
+yapılarak aylık bağlanan sigortalılara daha sonra yanlış statüde aylık bağlandığı tespit edilen
+sigortalının farklı statüde geçen hizmet sürelerinin tahsis talep tarihinden önce olması şartıyla,
+mevcut tahsis talebi diğer statüler için de geçerli sayılmakta ve yeni bir tahsis talep belgesi
+alınmamaktadır.
+
+Sigortalıların mevcut tahsis talep tarihi dikkate alınarak aylık bağlanması gereken statüde
+aylık yeniden hesaplanacaktır. Hesaplanan aylık miktarı yanlış statüde ödenen aylık tutarı ile
+karşılaştırılacaktır. Hesaplanan yeni aylık diğer statüden bağlanan aylıktan;
+
+- Yüksekse, aylık başlangıç tarihi itibariyle iki aylık arasındaki fark aylıkları ödenecektir.
+
+- Düşükse, borç kaydı işlemlerinde yersiz ödemenin sigortalı veya Kurum hatasından
+kaynaklanıp kaynaklanmadığı tespit edilecektir. Yersiz ödemenin sigortalıların kasıtlı veya kusurlu
+davranışlarından kaynaklanması durumunda yersiz ödeme tespit tarihinden geriye doğru 10 yıllık
+sürede ödenmesi gereken aylıklar ile ödenen aylıklar arasındaki yersiz ödenen fark aylıklar için
+borç kaydı yapılacaktır. Yersiz ödemenin Kurumun hatalı işlemlerinden kaynaklanması durumunda
+ise tespit tarihinden geriye doğru sadece 5 yıllık sürede ödenmesi gereken aylıklar ile ödenen
+aylıklar arasındaki yersiz ödenen fark aylıklar için borç kaydı yapılacaktır.
+
+Diğer taraftan, yanlış statüden aylık bağlandığı tespit edilen sigortalıların dosyalarının farklı
+ünitelerde bulunması halinde, gerek yeni aylığın hesaplanmasında gerekse borç kaydı işlemlerinin
+yapılmasında ünitelerin birbiriyle irtibat kurması gerekmektedir. Ünitelerin birbirini bilgilendirmesi
+öncelikle aylık miktarları yönünden yapılacak doğru statüden bağlanacak aylığın miktarına göre
+üniteler borç kaydı ve birikmiş ödeme işlemlerini karşılıklı olarak gerçekleştirecekleri gibi yanlış
+statüde bağlanan aylığa ilişkin dosya, doğru statüden aylık bağlama işlemlerinin yapılacağı üniteye
+gönderilecektir.
+
+Örnek 1: Sigortalıya 23/10/1999 tarihli tahsis talebine istinaden 01/11/1999 tarihinden
+itibaren 1479 sayılı Kanuna göre yaşlılık aylığı bağlanmıştır. 06/12/2015 tarihinde dosyada
+gerçekleştirilmek istenen ikinci karar işlemi sırasında sigortalı hatasından kaynaklanmayan
+nedenlerle aylığın bağlanması gereken statünün hatalı tespit edildiği ve aylığın 2926 sayılı Kanuna
+göre bağlanması gerektiği anlaşılmış olup, her iki dosyanın işlemi aynı ünite tarafından yapılacaktır.
+
+Bu durumda; öncelikle 1479 sayılı Kanuna göre bağlanan ve 1/11/1999 tarihi ile
+Aralık/2015 ödeme dönemine kadar yersiz olarak ödenen aylık miktarlarının toplamı ile 2926 sayılı
+Kanuna göre aynı dönem için ödenmesi gereken aylık miktarları toplamı mukayese edilecek, 2926
+sayılı Kanuna göre ödenmesi gereken toplam aylık tutarı, 1479 sayılı Kanuna göre ödenmiş olan
+toplam aylık tutarından;
+
+Fazla ise 1479 sayılı Kanuna göre bağlanmış olan aylık, başlangıç tarihinden itibaren iptal
+edilecek, ödenen aylıkların tamamı için faizsiz olarak borç oluşturulacaktır. Sigortalının
+23/10/1999 tarihli tahsis talebine istinaden 01/11/1999 tarihinden itibaren 2926 sayılı Kanuna göre
+yaşlılık aylığı bağlanacak ve 2926 sayılı Kanuna göre bağlanan aylık için aylık başlangıç tarihinden
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312 432 1063 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 8
+
+itibaren hesaplanan birikmiş aylık tutarları 1479 sayılı Kanuna göre ödenen ve borç kaydı
+yaratılan aylıklardan mahsup edilerek, fark aylıklar sigortalıya ödenecektir.
+
+Düşük ise, Kurum hatası kapsamında tespit tarihinden geriye doğru 5 yıllık sürenin
+başlangıcı tespit edilecektir.
+
+06/12/2015
+
+5
+
+06/12/2010 tarihinden sonra 1479 sayılı Kanuna göre bağlanan dosyadan ödenen aylıklar
+için borç kaydı işlemi yapılacaktır. 2926 sayılı Kanuna göre aylık bağlanan dosyada ise sistemde
+aylıklar 01/11/1999 tarihi itibariyle hesaplatıldığı halde 06/12/2010 tarihi itibariyle birikmiş
+aylıklar hesap edilerek ödenecektir. Borç kaydı ile birikmiş aylık ödeme işlemi aynı dönem içinde
+yapılacağından, 1479 sayılı Kanuna göre bağlanan dosyadan 06/12/2010 tarihi itibariyle ödenen
+aylıklar için yapılan borç kaydından, 2926 sayılı Kanuna göre bağlanan dosyadan 06/12/2010
+tarihinden sonra ödenecek birikmiş aylıklar sistem tarafından mahsup edilerek, kalan borç tutarı
+kurum hatası kapsamında bağlanan aylıktan kesilmeye devam edilecektir.
+
+Örnek 2: Örnek | deki sigortalının 1479 sayılı Kanuna göre bağlanan dosyanın bulunduğu
+ünite (A ünitesi) ile doğru statü olan 2926 sayılı Kanuna göre aylığını bağlayacak ünitenin (B
+ünitesi) farklı olması halinde;
+
+1479 sayılı Kanuna göre bağlanan aylığa ilişkin dosyanın bulunduğu A ünitesi, öncelikle bu
+statüden bağlanan aylığı, aylık başlangıç tarihi itibariyle iptal edecektir. 2926 sayılı Kanuna göre
+aylığı bağlayacak B ünitesine aylığın iptal edildiğini ve iptal edilen aylık miktarını bildirecektir. B
+ünitesi 2926 sayılı Kanuna göre aylığı 01/11/1999 tarihi itibariyle sistemde bağlayacak ve bu
+kapsamda hesaplanan aylık miktarı ile A ünitesi tarafından 1479 sayılı Kanun kapsamında iptal
+edilen aylık miktarını karşılaştıracaktır. 2926 sayılı Kanuna göre hesaplanan aylık tutarının 1479
+sayılı Kanuna göre bağlanan aylıktan;
+
+-Yüksek olduğunun anlaşılması halinde A ünitesine 1479 sayılı Kanun kapsamında aylık
+başlangıç tarihinden iptal tarihine kadar ödenen tüm aylıklar için faizsiz borç kaydı yaratılması
+gerektiğini bildirecektir. A ünitesi, borç kaydını sistemde yarattıktan sonra aynı dönem içinde 2926
+sayılı Kanuna göre bağlanan aylık, aylık başlangıç tarihi itibariyle ödenecektir. 2926 sayılı Kanun
+kapsamında gönderilen birikmiş aylıklardan, 1479 sayılı Kanun kapsamında borç kaydı yapılan
+tutar mahsup edilecek ve fark aylıkların sigortalıya ödenmesi sağlanacaktır. Bu işlemin kesinlikle
+aynı ödeme döneminde yapılması gerekmektedir.
+
+-Düşük olduğunun anlaşılması durumunda, B ünitesi tarafından A ünitesine bu durum
+bildirilecektir. Yanlış statüden aylık bağlanması Kurum işlemlerinden kaynaklanan hata olarak
+değerlendirildiğinden, A ünitesince yersiz ödeme tespit tarihi olan 06/12/2015 tarihinden geriye
+doğru 5 yıl gidilmek suretiyle belirlenen 06/12/2010 tarihi itibariyle 1479 sayılı Kanuna göre
+ödenen aylıklar için sistemde borç kaydı oluşturulacaktır. B ünitesi ise, 2926 sayılı Kanuna göre
+sistemde aylıkları 01/11/1999 tarihi itibariyle bağlayacak ancak, ödenecek birikmiş aylıkların
+başlangıcını yersiz ödeme tespit tarihi olan 06/12/2015 tarihinden geriye doğru 5 yıl gidilmek
+suretiyle belirlenen 06/12/2010 tarihi itibariyle ödeyecektir. A ünitesi tarafından 5 yıllık süreye
+ilişkin yapılan borç kaydı ile B ünitesi tarafından 5 yıllık süreye ilişkin birikmiş aylık ödenmesi
+işlemleri aynı dönem içinde yapılacağından, birikmiş aylıklar borca mahsup edilecek ve kalan borç
+tutarı Kurum hatası kapsamında 2926 sayılı Kanuna göre bağlanan aylıktan kesilmeye devam
+edilecektir.
+
+Örnek 3: Sigortalıya 16/02/1989 tarihli talebine istinaden 01/03/1989 tarihinden itibaren
+4/1-(b) statüsünde yaşlılık aylığı bağlanmıştır. 25/06/2017 tarihinde hizmet ve basamak intibakı
+çalışmaları sırasında, sigortalının son yedi yıllık fiili hizmet süresi içinde en fazla hizmetinin
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312 432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr a
+
+4/1<(a) statüsünde geçtiği; dolayısıyla yaşlılık aylığının statüsünün hatalı tespit edildiği ve aylığın
+4/1-(a) statüsünde bağlanması gerektiği anlaşılmış olup, her iki dosyanın işlemi aynı ünite
+tarafından yapılacaktır.
+
+Bu durumda; öncelikle 4/1-(b) statüsünde bağlanan ve 01/03/1989 tarihi ile 25/06/2017
+tarihine kadar yersiz olarak ödenen aylık miktarlarının toplamı ile 4/1-(a) statüsünde aynı dönem
+için ödenmesi gereken aylık miktarları toplamı mukayese edilecek, 4/1-(a) statüsünde ödenmesi
+gereken toplam aylık tutarı, 4/1-(b) statüsünden ödenmiş olan toplam aylık tutarından;
+
+Fazla ise, 4/1-(b) statüsünden bağlanmış olan aylık, başlangıç tarihinden itibaren iptal
+edilecek, ödenen aylıkların tamamı için faizsiz olarak borç oluşturulacaktır. Sigortalının
+16/02/1989 tarihli talebine istinaden 01/03/1989 tarihinden itibaren 4/1-(a) statüsünden yaşlılık
+aylığı bağlanacak ve 4/1-(a) statüsünden bağlanan aylık için aylık başlangıç tarihinden itibaren
+hesaplanan birikmiş aylık tutarları 4/1-(b) statüsünden ödenen ve borç kaydı yaratılan aylıklardan
+mahsup edilerek, fark aylıklar sigortalıya ödenecektir.
+
+Düşük ise, Kurum hatası kapsamında tespit tarihinden geriye doğru 5 yıllık sürenin
+başlangıcı tespit edilecektir.
+
+25/06/2017
+
+5
+
+25/06/2012 tarihinden sonra 4/1-(b) statüsünden ödenen aylıklar için borç kaydı işlemi
+yapılacaktır. 4/1-(a) statüsünden aylık bağlanan dosyada ise, sistemde aylıklar 01/03/1989 tarihi
+itibariyle hesaplatıldığı halde, birikmiş aylıklar 25/06/2012 tarihi itibariyle hesap edilerek
+ödenecektir. Borç kaydı ile birikmiş aylık ödeme işlemi aynı dönem içinde yapılacağından, 4/1-(b)
+statüsünden 25/06/2012 tarihi itibariyle ödenen aylıklar için yapılan borç kaydından, 4/1-(a)
+statüsünden bağlanan dosyadan 25/06/2012 tarihinden sonra ödenecek birikmiş aylıklar sistem
+tarafından mahsup edilerek, kalan borç tutarı kurum hatası kapsamında bağlanan aylıktan
+kesilmeye devam edilecektir.
+
+Örnek 4: Örnek 3'teki sigortalının 4/1-(b) statüsünden bağlanan dosyasının bulunduğu
+ünite (C) ile doğru statü olan 4/1-(a) statüsünden aylığını bağlayacak ünitenin (D) farklı üniteler
+olması halinde;
+
+4/1-(b) statüsünden bağlanan aylığa ilişkin dosyanın bulunduğu C ünitesi, öncelikle bu
+statüden bağlanan aylığı, aylık başlangıç tarihi itibariyle iptal edecektir. 4/1-(a) statüsünden aylığı
+bağlayacak D ünitesine, aylığın iptal edildiğini ve iptal edilen aylık miktarlarını bildirecektir. D
+ünitesi, 4/1-(a) statüsünden aylığı sistemde 01/03/1989 tarihi itibariyle bağlayacak ve bu kapsamda
+hesaplanan aylık miktarı ile C ünitesi tarafından 4/1-(b) statüsünden iptal edilen aylık miktarını
+karşılaştıracaktır. 4/1-(a) statüsünden hesaplanan aylık tutarının 4/1-(b) statüsünden bağlanan
+aylıktan;
+
+-Yüksek olduğunun anlaşılması halinde, C ünitesine 4/1-(b) kapsamında aylık başlangıç
+tarihinden iptal tarihine kadar ödenen tüm aylıklar için faizsiz borç kaydı yaratılması gerektiğini
+bildirecektir. C ünitesi, sistemde borç kaydını yarattıktan sonra aynı dönem içinde 4/1-(a)
+statüsünden aylık başlangıç tarihi itibariyle aylıkların ödenmesi sağlanacak, bu durumda sistemde
+4/1-(a) statüsünden gönderilen birikmiş aylıklardan, 4/1-(b) statüsünden borç kaydı yapılan tutar
+mahsup edilecek ve fark aylıkların sigortalıya ödenmesi sağlanacaktır. Bu işlemin kesinlikle aynı
+ödeme döneminde yapılması gerekmektedir.
+
+-Düşük olduğunun anlaşılması durumunda ise, D ünitesi tarafından C ünitesine bu durum
+bildirilecektir. Yanlış statüden aylık bağlanması Kurum işlemlerinden kaynaklanan hata olarak
+değerlendirildiğinden, C ünitesince yersiz ödeme tespit tarihi olan 25/06/2017 tarihinden geriye
+doğru 5 yıl gidilmek suretiyle belirlenen 25/06/2012 tarihi itibariyle 4/1-(b) statüsünden ödenen
+aylıklar için sistemde borç kaydı oluşturulacaktır.
+
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 432 10 62
+
+e-posta: ehgm hacedbösgk.gov.tr Web: www.sgk.gov.tr 10
+
+D ünitesi ise, 4/1-(a) statüsünden sistemde aylıkları 01/03/1989 tarihi itibariyle bağlayacak
+ancak, ödenecek birikmiş aylıkların başlangıcını yersiz ödeme tespit tarihi olan 25/06/2017
+tarihinden geriye doğru 5 yıl gidilmek suretiyle belirlenen 23/06/2012 tarihi itibariyle ödeyecektir.
+C ünitesi tarafından 5 yıllık süreye ilişkin yapılan borç kaydı ile D ünitesi tarafından 5 yıllık süreye
+ilişkin birikmiş aylık ödenmesi işlemleri aynı dönem içinde yapılacağından, birikmiş aylıklar borca
+mahsup edilecek ve kalan borç tutarı Kurum hatası kapsamında 4/1-(a) statüsünden bağlanan
+aylıktan kesilmeye devam edilecektir.
+
+Örnek 5: Sigortalıya 12/10/1986 tarihli tahsis talebine istinaden 01/11/1986 tarihinden
+itibaren 1479 sayılı Kanuna göre yaşlılık aylığı bağlanmıştır. 06/10/2016 tarihinde dosyada
+gerçekleştirilmek istenen ikinci karar işlemi sırasında sigortalı hatasından kaynaklanmayan
+nedenlerle aylığın bağlanması gereken statünün hatalı tespit edildiği ve aylığın 5434 sayılı Kanuna
+göre bağlanması gerektiği anlaşılmıştır. 1479 sayılı Kanuna göre bağlanan aylığa ilişkin dosya
+Konak Sosyal Güvenlik Merkezinde, 5434 sayılı Kanuna göre bağlanması gereken aylık Emeklilik
+Hizmetleri Genel Müdürlüğü Kamu Görevlileri Emeklilik Daire Başkanlığında bulunmaktadır.
+
+1479 sayılı Kanuna göre bağlanan aylığa ilişkin dosyanın bulunduğu Konak SGM öncelikle
+bu statüden bağlanan aylığı, aylık başlangıç tarihi itibariyle iptal edecektir. 5434 sayılı Kanuna
+göre aylığı bağlayacak Kamu Görevlileri Emeklilik Daire Başkanlığına aylığın iptal edildiğini ve
+iptal edilen aylık miktarını bildirecektir. Kamu Görevlileri Emeklilik Daire Başkanlığı 5434 sayılı
+Kanuna göre aylığı 01/11/1986 tarihi itibariyle sistemde bağlayacak ve bu kapsamda hesaplanan
+aylık miktarı ile Konak SGM tarafından 1479 sayılı Kanun kapsamında iptal edilen aylık miktarını
+karşılaştıracaktır. 5434 sayılı Kanuna göre hesaplanan aylık tutarının 1479 sayılı Kanuna göre
+bağlanan aylıktan;
+
+-Yüksek olduğunun anlaşılması halinde Konak SGM'ye 1479 sayılı Kanun kapsamında
+aylık başlangıç tarihinden iptal tarihine kadar ödenen tüm aylıklar için faizsiz borç kaydı
+yaratılması gerektiğini bildirecektir. Konak SGM, borç kaydını sistemde yarattıktan sonra aynı
+dönem içinde 5434 sayılı Kanuna göre bağlanan aylık, aylık başlangıç tarihi itibariyle ödenecektir.
+5434 sayılı Kanun kapsamında gönderilen birikmiş aylıklardan, 1479 sayılı Kanun kapsamında
+borç kaydı yapılan tutar mahsup edilecek ve fark aylıkların sigortalıya ödenmesi sağlanacaktır. Bu
+işlemin kesinlikle aynı ödeme döneminde yapılması gerekmektedir.
+
+-Düşük olduğunun anlaşılması durumunda, Kamu Görevlileri Emeklilik Daire Başkanlığı
+tarafından Konak SGM'ye bu durum bildirilecektir. Yanlış statüden aylık bağlanması Kurum
+işlemlerinden kaynaklanan hata olarak değerlendirildiğinden, Konak SGM tarafından yersiz ödeme
+tespit tarihi olan 06/10/2016 tarihinden geriye doğru 5 yıl gidilmek suretiyle belirlenen 06/10/2011
+tarihi itibariyle 1479 sayılı Kanuna göre ödenen aylıklar için sistemde borç kaydı oluşturulacaktır.
+Kamu Görevlileri Emeklilik Daire Başkanlığı ise, 5434 sayılı Kanuna göre sistemde aylıkları
+01/11/1986 tarihi itibariyle bağlayacak ancak, ödenecek birikmiş aylıkların başlangıcını yersiz
+ödeme tespit tarihi olan 06/10/2016 tarihinden geriye doğru 5 yıl gidilmek suretiyle belirlenen
+06/10/2011 tarihi itibariyle ödeyecektir. Konak SGM tarafından 5 yıllık süreye ilişkin yapılan borç
+kaydı ile Kamu Görevlileri Emeklilik Daire Başkanlığınca 5 yıllık süreye ilişkin birikmiş aylık
+ödenmesi işlemleri aynı dönem içinde yapılacağından, birikmiş aylıklar borca mahsup edilecek ve
+kalan borç tutarı Kurum hatası kapsamında 5434 sayılı Kanuna göre bağlanan aylıktan kesilmeye
+devam edilecektir.
+
+Örnek 6: 23/08/2006 tarihinde vefat eden 4/1-(a) sigortalısının hak sahibi eşine ölüm
+tarihini takip eden aybaşı olan 01/09/2006 tarihinden itibaren ölüm sigortasından aylık
+bağlanmıştır. Çalıştığı işten ayrılarak babasından ölüm aylığı almak için müracaat eden kız çocuğu
+hakkında 15/05/2017 tarihinde yapılan inceleme sırasında, vefat eden sigortalının 4/1-(a)
+hizmetlerinin bir kısmının denetim sonucu sahte olduğunun tespit edildiği ve 2829 sayılı Kanuna
+göre son statünün 4/1-(b) olması nedeniyle aylığın bu kapsamda bağlanması gerektiği anlaşılmıştır.
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye. ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 14
+
+İki statüye ilişkin dosyalar farklı ünitelerde bulunmaktadır.
+
+Bu durumda iki ünite tarafından işlemler örnek 2 ve 3'te belirtildiği şekilde yapılmakla
+birlikte, yersiz ödeme nedeni sahte hizmetlerin iptali olduğundan, sigortalıların kasıtlı veya kusurlu
+hareketi nedeniyle yersiz ödeme tespit tarihi olan 15/05/2017 tarihinden 10 yıl geriye gidilmek
+suretiyle hak sahiplerine gerek borç çıkarılacak gerekse birikmiş ödenecek süre 15/05/2007 olarak
+belirlenecektir.
+
+1.6. Ölüm Dosyalarında Hak Sahipleri Arasında Muvafakat ve Yersiz Ödemeler
+
+5510 sayılı Kanunun 96 ncı maddesinin ikinci fıkrası “Alacakların yersiz ödemelere
+mahsubu, en eski borçtan başlanarak borç aslına yapılır, kanuni faiz kalan borca uygulanır. Bu
+hüküm ilgili hak sahiplerinin muvafakat etmeleri kaydıyla, aynı dosyadan diğer bir hak sahibine
+yapılan yersiz ödemelere mahsubunda da uygulanır.” Hükmünü amirdir.
+
+Buna göre, ölüm aylıklarında hak sahiplerinin hak etmedikleri dönemlere ilişkin yersiz
+ödemelerin tespitinde; bir hak sahibine yersiz ödeme çıkarılan bir dönem için başka bir hak
+sahibine fark aylığı ödenmesi gerekiyorsa, muvafakat alınmak kaydıyla (dosyada hak sahipleri
+arasında öz-üvey ilişkisinin bulunmaması halinde muvafakat alınmadan işlemler sonuçlandırılacak
+ancak, itiraz olması ile hak sahipleri arasında öz-üvey ilişkisinin bulunması halinde mahsup işlemi
+yapılmayacaktır.) işlemler sonuçlandırılacaktır.
+
+Diğer taraftan, hak sahiplerine yapılan yersiz ödeme miktarının tespitinde, yersiz ödemenin
+Kurumun hatalı işlemlerinden veya sigortalıların kasıtlı veya kusurlu davranışlarından
+kaynaklanmasına göre tespit tarihinden geriye doğru 5 veya 10 yıllık sürelerde yapılan ödemeler
+dikkate alınacaktır. Yersiz ödemelerin bu sürelerden önceki dönemleri kapsaması halinde borç
+çıkarılmayacaktır. Ancak, fark aylıkların ödenmesinde süre sınırlaması bulunmamaktadır.
+
+Örnek 1:
+
+Ölüm tarihi (| : 10/10/2016
+
+Kamu/ Özel o: Kamu
+
+Tahsis talep tarihi : 14/10/2016
+
+Aylık başlangıç tarihi:15/10/2016
+
+Tahsis numarası son rakamı: 0
+Dosyanın güncel hali:
+
+Tahsis Kodu Yakınlığı Aylık Miktarı Aylık Hissesi
+3210 -
+(3310 Ocuğu 500 Va 3 — 26/06/2017
+
+Yaşlılık aylığı almakta iken 10/10/2016 tarihinde vefat eden sigortalının hak sahibi eşine ve
+erkek çocuğuna 15/10/2016 tarihinden itibaren ölüm aylığı bağlanmıştır. Hak sahibi erkek çocuk
+yükseköğrenim öğrencisi olup muhtemel mezuniyet tarihi Haziran/2017 dönemidir. Öte yandan
+hak sahibi erkek çocuk 10/07/2017 tarihli dilekçesi ile mezun olduğunu ve aylığının annesine
+aktarılmasını talep etmiştir. Fakat yapılan inceleme sonucu hak sahibi erkek çocuğun 10/02/2017
+tarihinde mezun olduğu anlaşılmıştır. Bu itibarla hak sahibi erkek çocuğun aylığı 26/02/2017 tarihi
+itibariyle kesilecektir.
+
+Dosyanın yeni hali:
+
+Tahsis Kodu Yakınlığı Aylık Miktarı Aylık Hissesi Durumu
+(3310 ocuğu CcC. | - Z* - 26/02/2017
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 12
+
+26/02/2017- 25/06/2017 süresi erkek çocuğa ödenen yersiz ödeme:
+500*(4 ay)- 2000 TL
+26/02/2017- 25/06/2017 süresi eşin hak ettiği birikmiş:
+(1300-1000)* (4 ay) 1200 TL
+Sistemde hak sahibi eşin hak ettiği 1200 TL için birikmiş, hak sahibi erkek çocuğa yersiz
+ödenen 2000 TL için borç kaydı yaratılacak ancak hak sahipleri arasında üveylik ilişkisi
+bulunmadığından borç aslından alacak mahsup edilecek ve kalan 800 TL için 5510 sayılı Kanunun
+96 ncı maddesinin (a) bendi kapsamında sistemde borç kaydı oluşturulacaktır.
+Örnek 2:
+Ölüm tarihi o : 05/07/2015
+Kamu/ Özel |: Özel
+Tahsis talep tarihi : 10/07/2015
+Aylık başlangıç tarihi:01/08/2015
+Tahsis numarası son rakamı: 5
+Dosyanın güncel hali:
+Tahsis Kodu Yakınlığı Aylık Miktarı Aylık Hissesi Durumu
+3210 a -
+(3410 Çocuğu 800 7
+05/07/2015 tarihinde vefat eden sigortalının hak sahibi eşine ve kız çocuğuna 01/08/2015
+tarihinden itibaren ölüm aylığı bağlanmıştır. Kurumumuz denetmenlerince yapılan inceleme
+sonucu hak sahibi kız çocuğun boşandığı eşiyle yaşadığı tespit edilmiş olup hak sahibi kız çocuğun
+aylıkları aylık başlangıç tarihi olan 01/08/2015 tarihi itibariyle kesilmiştir.
+Dosyanın yeni hali:
+Tahsis Kodu Yakınlığı Aylık Miktarı Aylık Hissesi Durumu
+ği -
+3410 OcUĞU a G* 01/08/2015
+Hak sahibi kız çocuğun aylıkları Haziran/2017 çalışma dönemi için kesilmiş olup, hak
+sahibi eş muvafakat vermemiştir. Bu durumda hak sahibi kız çocuğa 01/08/2015-18/06/2017 süresi
+ödenen tutarlar 5510 sayılı Kanunun 96 ncı maddesinin (a) bendi kapsamında tahsil edilecek, hak
+sahibi eşe 01/08/2015- 18/06/2017 süresi için birikmiş hesaplanacaktır.
+Örnek 3:
+Ölüm tarihi (o : 05/05/1995
+Kamu/ Özel  : Özel
+Tahsis talep tarihi : 10/05/1995
+Aylık başlangıç tarihi:01/06/1995
+Tahsis numarası son rakamı: 4
+Dosyanın güncel hali:
+(Tahsis Kodu Yakınlığı Aylık Miktarı — | Aylık Hissesi oo |Durumu > (|
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrınulı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 13
+
+3210 Eşi 1200 - |
+3410 Çocuğu İso — İk İİ
+3420 ocuğu 600 Ya 7
+
+05/05/1995 tarihinde vefat eden sigortalının hak sahiplerine 01/06/1995 tarihinden itibaren
+ölüm aylığı bağlanmıştır. Kurumumuzca yapılan intibak çalışması sonucu hak sahiplerine bağlanan
+aylıkların hatalı olduğu tespit edilmiştir.
+
+Ocak/2013 ödeme dönemi için tespit edilen yeni aylıklar için hak sahiplerine yersiz ödenen
+tutarlar borç çıkarılacak olup hak sahiplerinin hatalarından kaynaklanmayan yersiz ödeme
+olduğundan hak sahiplerine borcun tespit edildiği dönem olan Ocak/2013 döneminden itibaren
+geriye dönük 5 yıllık borç hesaplanacaktır. Bu itibarla 24/01/2008- 23/01/2013 süresi için hak
+sahiplerine yersiz ödenen tutarlar 5510 sayılı Kanunun 96 ncı maddesinin (b) bendine göre tahsil
+edilecektir.
+
+Dosyanın yeni hali:
+
+Tahsis Kodu Yakınlığı Aylık Miktarı Aylık Hissesi Durumu |
+-
+
+3410 7
+13420 ocUğU 500 Ya 7
+
+Örnek 4:
+
+Ölüm tarihi o : 31/01/2005
+
+Kamu/ Özel |: Özel
+
+Tahsis talep tarihi : 03/02/2005
+
+Aylık başlangıç tarihi:01/02/2005
+
+Tahsis numarası son rakamı: |
+Dosyanın güncel hali:
+
+Tahsis Kodu Yakınlığı Aylık Hissesi Durumu
+3210 LE KE
+3410 ocuğU (6W 00 (25 7
+
+31/01/2005 tarihinde vefat eden sigortalının hak sahiplerine 01/02/2005 tarihinden itibaren
+ölüm aylığı bağlanmıştır. Hak sahibi eşin 01/06/2017 tarihli dilekçesinde üvey kızının çalıştığını
+aylığının kendisine aktarılması istemiştir. Kurum kayıtlarının incelenmesinde hak sahibi kız
+çocuğunun 18/01/2006 tarihinden itibaren çalıştığı tespit edilmiştir.
+
+Dosyanın yeni hali:
+Tahsis Kodu Yakınlığı Aylık Hissesi Durumu
+3210 NN EZ
+3410 OcuUğuU - - ç*21/01/200
+
+Bu durumda, hak sahibi kız çocuğun aylığı işe giriş tarihini takip eden ödeme dönemi olan
+21/01/2006 tarihinden itibaren kesilmiştir. Hak sahibi kız çocuğunun 4/1-(a) kapsamında çalıştığı
+halde durum değişikliğini Kuruma bildirmediği, işe giriş bildirgesinin de işveren tarafından
+çalışılmaya başlanılan tarihten itibaren 1 aylık süre dışında verildiği anlaşılmıştır. Bu nedenle, kız
+çocuğuna borcun tespit tarihinden geriye dönük 10 yıllık sürede ödenen aylıklar borç çıkarılmış,
+hak sahibi eşe ise kız çocuğunun aylıktan çıktığı tarihten çalışma dönemine kadar birikmiş
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 14
+
+hesaplanmıştır. Hak sahibi eşin muvafakat vermemesine istinaden hak sahibi eşe 21/01/2006-
+20/06/2017 süresi için birikmiş ödenecek, hak sahibi kıza ise 21/06/2007- 20/06/2017 süresi yersiz
+ödeme için borç çıkarılacaktır.
+
+2- Birden Fazla Dosyadan Ölüm Gelir/Aylığına Hak Kazananlardan Tercih Hakkı
+Verilenler
+
+Bilindiği üzere, birden fazla dosyadan gelir ve/veya aylığa hak kazanan sigortalı ve hak
+sahiplerine bu gelir ve aylıkların hangilerinin ne şekilde ödeneceği; 5510 sayılı Kanuna göre
+bağlanan gelir ve aylıklar için Kanunun 54 üncü maddesinde, Kanunun yürürlük tarihinden önce
+birden fazla dosyadan gelir/aylık almakta iken Kanunun yürürlük tarihinden sonra yeni bir
+dosyadan gelir/aylığa hak kazananlar için de Kanunun geçici 7 nci maddesinin beşinci fıkrası ile
+Sosyal Sigorta İşlemleri Yönetmeliğinin geçici 31 nci maddesinde düzenlenmiştir.
+
+Diğer taraftan, hak sahiplerine hak kazandıkları ölüm gelir/aylıklarından tercih ettikleri gelir
+ve aylığın ödenmesi hususu ilk defa 5510 sayılı Kanunun 54 üncü maddesi ile getirilen bir
+düzenleme olup, tercih sisteminin uygulanmasında 4/1-(b) kapsamındaki sigortalılar yönünden
+ünitelerce farklı uygulamaların yapıldığı ve tercih edilen aylıkların başlangıç tarihinin tespitinde
+tereddüt yaşandığı tespit edilmiştir.
+
+Buna göre, 4/1-(b) kapsamındaki hak sahiplerinden tercih hakkı verilen ölüm gelir ve
+aylıklarına hak kazananlar için yapılacak işlemler aşağıda belirtildiği şekilde sonuçlandırılacaktır.
+
+2008/Ekim ayı başı itibariyle yürürlüğü giren 5510 sayılı Kanunun 54 üncü maddenin
+birinci fıkrasının;
+
+(a) bendinde uzun vadeli sigorta kollarının birleşmesinde;
+
+“1) Hem eşinden, hem de ana ve/veya babasından ölüm aylığına hak kazananlara, tercihine
+göre eşinden ya da ana ve/veya babasından bağlanacak aylığı,”
+
+“2) Evliliğin ölüm nedeniyle sona ermesi durumunda sonraki eşinden de aylığa hak
+kazananlara tercih ettiği aylığı,”
+
+(b) bendinde kısa vadeli sigorta kollarının birleşmesinde;
+
+“1) Hem eşinden, hem de ana ve/veya babasından ölüm gelirine hak kazananlara, tercihine
+göre eşinden ya da ana ve/veya babasından bağlanacak geliri,”
+
+“2) Evliliğin ölüm nedeniyle sona ermesi durumunda sonraki eşinden de gelire hak
+kazananlara tercih ettiği geliri,”
+
+bağlanacağı hüküm altına alınmıştır.
+
+Hak kazanılan ölüm gelir/aylıklarından tercih hakkı verilenlerde, Kanunda tercihlere sayı
+yönünden bir sınırlama getirilmediğinden, hak sahipleri almaya hak kazandıkları ölüm gelir veya
+aylıklarını tercihleri doğrultusunda birden fazla değiştirebileceklerdir.
+
+Kanunun 54 üncü maddesindeki kurallar, 2008/Ekim sonrası ölen sigortalılardan statü
+ayrımı yapılmaksızın hak kazanılan ölüm gelir ve aylıkları için uygulandığı gibi, 2008/Ekim öncesi
+1479 ve 2926 sayılı kanunlara, 2008/Ekim sonrası 5510 sayılı Kanunun 4/1-(b) kapsamında ölüm
+aylığına hak kazanıldığı durumlarda da (aynı statü) uygulanacaktır.
+
+Tercih hakkı verilen ölüm gelir ve aylıklarında hak sahiplerinin mutlaka tercihleri
+alınacaktır. Eşten ölüm gelir/aylığı alırken, ilk defa ana/babadan ölüm gelir/aylığı talebinde
+bulunan hak sahiplerine eş ve ana/baba dosyalarındaki aylık miktarları hakkında bilgilendirme
+yapılmak suretiyle yeniden tercihleri istenecek ve tercih edilen dosyanın ilk defa gelir/aylık
+ödenecek dosya olması halinde, gelir/aylık başlangıç tarihinin belirlenmesi genel koşullara göre
+yapılacaktır. Diğer bir ifadeyle, ölüm gelir/aylığının başlangıç tarihi hak sahibi olma koşullarının
+yerine geldiği tarihi takip eden aybaşı olacaktır.
+
+Diğer taraftan, tercihlerine göre ölüm gelir/aylığı ödenmekte iken tercihlerini
+değiştirenlerin yeni dosyadan ödemeleri, tercihlerine ilişkin talep tarihini takip eden aybaşından;
+eski dosyadan gelir/aylığın kesilmesi işlemi ise, tercihlerine ilişkin talep tarihini takip eden ödeme
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrınulı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 15
+
+döneminden itibaren yapılacaktır. Gerek ilk gerekse sonraki tercihlerde dosyalardaki diğer hak
+sahiplerinin durum değişiklik tarihleri dikkate alınmayacaktır.
+
+Örnek 1: 1479 sayılı Kanuna göre yaşlılık aylığı almakta iken 25/09/2014 tarihinde vefat
+eden sigortalının eşi (A) ve kızı (B)'ye 01/10/2014 tarihi itibariyle ölüm bağlanmış olup, hak
+sahibi eş (A), çalışmakta iken 08/04/2015 tarihinde vefat eden 4/1-(b) kapsamındaki annesinden
+dolayı da ölüm aylığına hak kazanmış ve 26/05/2015 tarihinde tahsis talebinde bulunmuştur. Hak
+sahibi eşin talebine istinaden öncelikle, halen eşinden dolayı almakta olduğu aylık miktarı ile
+annesinden bağlanacak aylık miktarı belirtilmek suretiyle hak sahibinin tercihte bulunması
+istenecektir.
+
+Hak sahibinin tercihini;
+
+-Annesinden bağlanacak ölüm aylığı yönünde kullanması halinde, annesinin ölüm tarihi
+olan 08/04/2015 tarihini takip eden aybaşından (01/05/2015) itibaren tarafına ölüm aylığı
+bağlanacak, aylık bağlanması gereken 01/05/2015 tarihini takip eden ödeme dönemi itibariyle de
+eşinden aldığı ölüm aylığı kesilecektir. Hak sahibine eş dosyasından 01/03/2015 tarihini takip eden
+ödeme döneminden itibaren yapılan yersiz ödemeler, anne dosyasından hesaplanan birikmiş
+aylıklarından mahsup edilecektir. Eş dosyasında varsa diğer hak sahiplerinin hisse düzeltmeleri
+yapılarak fark ödemeleri gerçekleştirilecektir.
+
+-Eşinden dolayı almakta olduğu aylıktan yana kullanması halinde ise herhangi bir işlem
+yapılmaksızın mevcut ölüm aylığı ödenmeye devam edilecektir.
+
+Örnek 2: Örnek I1'deki hak sahibi (AY'nın annesinden dolayı tercih ettiği ölüm aylığı
+dosyasına kız kardeşi (C) 18/09/2016 tarihinde boşanarak 22/09/2016 tarihinde aylık talebinde
+bulunmuştur. Hak sahibi (C)'ye 01/10/2016 tarihi itibariyle ölüm aylığı bağlanmıştır. Bu durumda
+iki çocuğa 96 50 şer hisse üzerinden aylığın tamamı ödenecektir. Bunun üzerine hak sahibi (A)
+tercihini eş aylığı yönünde değiştirmiş ve 30/11/2016 tarihli dilekçesi ile aylık bağlanması
+talebinde bulunmuştur. Bu durumda hak sahibi (A)'ya tercih talebinde bulunduğu tarihi takip eden
+aybaşı olan 01/12/2016 tarihi itibariyle eş dosyasından ölüm aylığı ödenmeye başlanacak, anne
+dosyasındaki aylığı ise tercihe ilişkin talep tarihini takip eden ödeme dönemi itibariyle kesilecektir.
+Yapılan tercih doğrultusunda hem eş hem de anne dosyasında bulunan diğer hak sahiplerinin
+hisseleri de bu tarihlere göre yeniden belirlenecektir.
+
+Yukarıda örneklerde de görüldüğü üzere, ilk defa aylık bağlanacak dosyanın tercih edilmesi
+halinde ölüm aylıkları genel kurallara göre belirlenirken, daha önce tercih yapılmış ve bu şekilde
+ölüm gelir/aylıkları ödenirken, yeniden tercihte bulunanların ölüm gelir/aylıkları tercih talep
+tarihlerine göre belirlenecektir.
+
+Örnek 3: 5510 sayılı Kanuna göre 4/1-(b) kapsamında 25/09/2015 tarihinde vefat eden
+sigortalının eşi (A) ve kızı (B)'ye 01/10/2015 tarihi itibariyle ölüm bağlanmış olup, hak sahibi eş
+(A) 08/04/2016 tarihinde vefat eden 4/1-(a) kapsamındaki babasından dolayı da ölüm aylığına hak
+kazanmış ve 26/05/2016 tarihinde tahsis talebinde bulunmuştur. Hak sahibi eşin talebine istinaden
+öncelikle, halen eşinden dolayı almakta olduğu aylık miktarı ile babasından bağlanacak aylık
+miktarı belirtilmek suretiyle hak sahibinin tercihte bulunması istenecektir.
+
+Hak sahibinin tercihini;
+
+-Babasından bağlanacak ölüm aylığı yönünde kullanması halinde, babasının ölüm tarihi
+olan 08/04/2016 tarihini takip eden aybaşından (01/05/2016) tarihinden itibaren tarafına ölüm
+aylığı bağlanacak, aylık bağlanması gereken 01/05/2016 tarihini takip eden ödeme dönemi
+itibariyle de eşinden aldığı ölüm aylığı kesilecektir. Hak sahibine eş dosyasından 01/05/2016
+tarihini takip eden ödeme döneminden itibaren yapılan yersiz ödemeler, baba dosyasından
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 4321062
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 16
+
+01/05/2016 tarihi itibariyle hesaplanan birikmiş aylıklarından mahsup edilecektir. Eş dosyasında
+varsa diğer hak sahiplerinin hisse düzeltmeleri yapılarak fark ödemeleri gerçekleştirilecektir.
+Yapılan işlemlerin tamamından çıkacak borç ve alacak işlemleri Emektar Programından tarafından
+yapılacak ikinci karar işlemine göre belirlenecek ve MOSİP sisteminde alacak tutarından borç
+tutarı mahsup edildikten sonra kalan meblağ hak sahiplerine ödenecektir.
+
+-Eşinden dolayı almakta olduğu aylıktan yana kullanması halinde ise herhangi bir işlem
+yapılmaksızın mevcut ölüm aylığı ödenmeye devam edilecektir.
+
+Örnek 4: Örnek 3'teki hak sahibieş tercihini eşinden aldığı aylık yönünden kullanıp aylık
+almaya devam ederken bu defa 4/1-(b) kapsamındaki annesi de 22/03/2017 tarihinde ölmüştür. Bu
+durumda hak sahibinin eşi, annesi ve babasının ölüm tarihi 2008/Ekim sonrası olup, ölen eşi ve
+annesi 4/1-(b) kapsamında, babası ile 4/1-(a) kapsamındadır. Ölüm tarihleri 2008/Ekim sonrası
+olduğu için statüler farklı olsa bile 5510 sayılı Kanunun 54 üncü madde hükümleri uygulanacak ve
+en yüksek ödemeye imkan veren iki dosya üzerinden ödemeler gerçekleştirilecektir. Daha önce
+tercih hakkı kullandığı, eş ve baba dosyası dışında, annesinden dolayı ilk defa ölüm aylığı
+bağlanacağından bu dosyadan hak kazandığı aylığın başlangıcı, annesinin öldüğü tarihi takip eden
+aybaşı, baba ve eş dosyasında ise tercih talebinde bulunduğu için tercihini takip eden aybaşı
+olacaktır. 3 dosyadan ancak iki dosya üzerinden ödeme yapılacağından, hak sahibine tercihi
+sorulurken aşağıdaki karşılaştırmalara göre belirlenen aylık tutarlarının bildirilmesi gerekir.
+
+Hak kazanılan aylık türleri ve miktarları:
+
+4/1-(b) Eş ölüm aylığı 1400TL
+
+4/1-(a) Baba ölüm aylığı 1200 TL
+
+4/1-(b) Anne ölüm aylığı 800 TL
+
+Tercihini anne ve baba aylığı yönünde kullanırsa
+
+4/1-(a) Baba ölüm aylığı 1200 tam
+
+4/1-(b) Anne ölüm aylığı 800 yarım -)400
+
+Toplamda 1600 TL
+
+Tercihini eş aylığı yönünde kullanırsa
+
+4/1-(b) Eş ölüm aylığı 1400 TL
+
+Hak sahibi eş tercihini eş aylığı yerine ana ve babadan aldığı aylık yönünde kullanırsa eş
+aylığı tercihini takip eden ödeme döneminden kesilecektir. Baba aylığı tercihini takip eden
+aybaşından, anne aylığı ise annenin ölüm tarihini takip eden aybaşından itibaren ödenecektir.
+
+Örnek 5: 2926 sayılı Kanun kapsamında aylık almakta iken 01/01/2008 tarihinde ölen
+sigortalının hak sahibi eşi (D)'ye ölüm tarihini takip eden aybaşı olan 01/02/2008 itibariyle ölüm
+aylığı bağlanmıştır. Diğer taraftan, hak sahibinin babası 5510 sayılı Kanunun 4/1-(b), (2) numaralı
+alt bendi kapsamında iken 29/3/2009 tarihinde vefat etmiştir. Bu durumda, Sosyal Sigorta İşlemleri
+Yönetmeliğinin geçici 31 nci maddesi gereğince sigortalıların ölümünün birinin 2008/Ekim öncesi,
+diğerinin sonra olması ve statülerinin farklı olması nedeniyle 5510 sayılı Kanunun 54 üncü
+maddesine göre değerlendirme yapılmayacağından her iki aylık tamdan ödenecek ve tercih
+istenmeyecektir.
+
+Örnek 6: 506 sayılı Kanuna göre yaşlılık aylığı almakta iken 25/04/2009 tarihinde vefat
+eden eşten dolayı hak sahibi eş ve çocuğuna 01/05/2009 tarihinden itibaren ölüm aylığı
+bağlanmıştır. Diğer taraftan, hak sahibi eş, 24/2/2016 tarihinde 4/1-(b) kapsamında iken geçirdiği iş
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312 432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 17
+
+kazası sonucu ölen babasından dolayı da ölüm gelirine hak kazanmış ve talepte bulunmuştur. Bu
+durumda hak sahibi hem eşinden ölüm aylığına hem de babasından ölüm gelirine hak kazandığı
+için tercih istenmeksizin yüksek olan aylık tamdan, diğeri yarımdan ödenir.
+
+Örnek 7: 2926 sayılı Kanun kapsamında iken 02/03/2007 tarihinde vefat eden sigortalıdan
+dolayı hak sahibi eşe 01/04/2007 tarihinden itibaren ölüm aylığı bağlanmıştır. Hak sahibi eşin
+annesi ise 5510 sayılı Kanunun 4/1-(b) (4) numaralı alt bent kapsamında sigortalı iken 12/08/2015
+tarihinde ölmüştür. Eşinden aylık alan hak sahibi bu defa annesinden de ölüm aylığı talebinde
+bulunmuştur. Bu durumda, Sosyal Sigorta İşlemleri Yönetmeliğinin geçici 31 nci maddesi
+gereğince sigortalıların ölümünün birinin 2008/Ekim öncesi, diğerinin sonra olması ve statülerinin
+aynı olması nedeniyle 5510 sayılı Kanunun 94 üncü maddesine göre değerlendirme yapılacak ve
+hak sahibi eşin talebine istinaden öncelikle, halen eşinden dolayı almakta olduğu aylık miktarı ile
+annesinden bağlanacak aylık miktarı belirtilmek suretiyle hak sahibinin tercihte bulunması
+istenecektir.
+
+Hak sahibinin tercihini;
+
+-Annesinden bağlanacak ölüm aylığı yönünde kullanması halinde, annesinin ölüm tarihi
+olan 12/08/2015 tarihini takip eden aybaşından (01/09/2015) itibaren tarafına ölüm aylığı
+bağlanacak, aylık bağlanması gereken 01/09/2015 tarihini takip eden ödeme dönemi itibariyle de
+eşinden aldığı ölüm aylığı kesilecektir. Hak sahibine eş dosyasından 01/09/2015 tarihini takip eden
+ödeme döneminden itibaren yapılan yersiz ödemeler, anne dosyasından hesaplanan birikmiş
+aylıklarından mahsup edilecektir. Eş dosyasında varsa diğer hak sahiplerinin hisse düzeltmeleri
+yapılarak fark ödemeleri gerçekleştirilecektir.
+
+-Eşinden dolayı almakta olduğu aylıktan yana kullanması halinde ise herhangi bir işlem
+yapılmaksızın mevcut ölüm aylığı ödenmeye devam edilecektir.
+
+3- Vazife Malullüğü Aylığı Alıp, Engelliliği Nedeniyle Vergi İndiriminden
+Yararlananlar ile Çalışma Gücü Kaybı “o 60'ın Altında Olanlar
+
+Bilindiği üzere, 5510 sayılı Kanunun;
+
+38 inci maddesinde, vazife malullüğü aylığı almakta iken, çalışmaya başlamaları nedeniyle
+haklarında uzun vadeli sigorta hükümleri uygulananlar için malullük, yaşlılık ve ölüm aylığı
+bağlanmasında veya toptan ödeme yapılmasında esas alınacak sigortalılık süresi, prim ödeme gün
+sayısı ve prime esas kazancın hesaplanmasında vazife malullüğü aylığı bağlandığı tarihten önceki
+sürelerin dikkate alınmayacağı,
+
+47 inci maddesinde ise; vazife malullüğü aylığı bağlananların 4 üncü maddenin birinci
+fıkrasının (a) bendi kapsamında çalışmaları nedeniyle istekleri üzerine haklarında uzun vadeli
+sigorta kolları uygulananlardan; yeniden aylık bağlanması için yazılı istekte bulunan ya da
+emekliye ayrılan veya herhangi bir nedenle görevi sona erenler hakkında sonraki çalışmaları
+karşılığında aylığa hak kazanmaları halinde bu süre için, 29 uncu maddeye göre aylık
+hesaplanacağı,
+
+öngörülmüştür.
+
+Diğer taraftan, 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkındaki Kanunun,
+6495 sayılı Kanunun 80 inci maddesiyle değişik 4 üncü maddesinin ikinci fıkrası; “.... Bu Kanuna
+veya bu Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara göre aylık
+bağlanan maluller ile 5434 sayılı Kanunun 56 ncı ve mülga 64 üncü maddesi kapsamında aylık
+bağlanan malullerin, malul sayılmaları sebebiyle aylık bağlandığı tarihten önceki her türlü
+sigortalılık ve prim ödeme süreleri, iştirakçilik ve fiili hizmet süreleri ile bunların itibari ve fiili
+hizmet süresi zammı olarak değerlendirilen süreleri, malullük aylığı bağlanmasından sonra geçecek
+çalışma veya sigortalılık süreleriyle hiçbir sebeple birleştirilemez. Bu şekilde aylık bağlanmasından
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedbösgk.gov.tr Web: www.sgk.gov.tr 18
+
+önce geçen söz konusu süreler; malullük aylığı bağlanmasından sonra geçen sigortalılık ve çalışma
+sürelerinin tabi olacağı sigortalılık hâli ile mülga 2829 sayılı Kanun uygulaması yönünden dikkate
+alınmayacağı gibi, sonradan geçen sigortalılık veya çalışma süreleri yaşlılık/emeklilik, malullük ya
+da ölüm/dul veya yetim aylığı bağlanmasında veya toptan ödeme yapılmasında ilgili mevzuatına
+göre ayrı bir çalışma veya sigortalılık süresi olarak değerlendirilir. Ancak, bu Kanuna göre aylık
+bağlandığı tarihten sonra çalışmaya başlayanlardan, aylık bağlandıktan sonraki çalışmaları 5510
+sayılı Kanunun yürürlük tarihinden sonra olanlar için 5510 sayılı Kanunun geçici 14 üncü maddesi
+hükümleri uygulanamaz. Yukarıda belirtilen kanunlara göre malullük aylığı bağlanmasına esas
+alınmış hastalık ya da engellilik hâlleri ve bu hastalık ya da engellilik hallerindeki ilerlemeler,
+sonradan geçen çalışmalar sebebiyle yaşlılık aylığına hak kazanılması koşullarının belirlenmesinde
+dikkate alınmaz” hükmüne amirdir.
+
+Söz konusu maddenin uygulanmasına ilişkin usul ve esaslar 22/02/2013 tarihli 2013/11
+sayılı, 28/11/2013 tarihli ve 2013/40 sayılı genelgeler ile belirlenmiş olup, 2330 sayılı Kanun ile
+bu Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara göre aylık bağlanan
+maluller ile 5434 sayılı Kanunun 56 ncı ve mülga 64 üncü maddesi kapsamında aylık bağlanan
+malullerin, malul sayılmaları sebebiyle aylık bağlandığı tarihten önceki her türlü sigortalılık ve
+prim ödeme süreleri, fiili hizmet süreleri ile bunların itibari hizmet ve fiili hizmet süresi zammı
+olarak değerlendirilen sürelerinin, malullük aylığı bağlanmasından sonra geçecek çalışma veya
+sigortalılık süreleriyle hiçbir sebeple birleştirilmeyeceği, sonradan geçen sigortalılık veya çalışma
+sürelerinin yaşlılık/emeklilik, malullük ya da ölüm/dul veya yetim aylığı bağlanmasında veya
+toptan ödeme yapılmasında ilgili mevzuatına göre ayrı bir çalışma veya sigortalılık süresi olarak
+değerlendirileceği talimatlandırılmıştır.
+
+Diğer taraftan, yine yukarıda belirtilen 2330 sayılı Kanunun 4 üncü maddesi çerçevesinde
+vazife malullüğü aylığı bağlanmasına esas alınmış hastalık ya da engellilik halleri ve bu hastalık ya
+da engellilik hallerindeki ilerlemeler, sonradan geçen çalışmalar sebebiyle yaşlılık aylığına hak
+kazanma koşullarının belirlenmesinde dikkate alınmayacaktır.
+
+Engelliliği nedeniyle vergi indiriminden yararlanmaya hak kazanan 4/1-(a) kapsamındaki
+sigortalılara yaş koşulu aranmaksızın ve engellilik dereceleri dikkate alınmak suretiyle 5510 sayılı
+Kanunun geçici 10 uncu maddesinin ikinci fıkrası ile 506 sayılı Kanunun geçici 87 nci maddeleri
+doğrultusunda, Kurum Sağlık Kurulunca çalışma gücündeki kayıp oranı “o 60'ın altında olduğu
+tespit edilen 4/1-(b) kapsamındaki sigortalılara ise 5510 sayılı Kanunun 28 inci maddesinin beşinci
+fıkrası kapsamında, aynı şekilde 4/1-(c) sigortalılara ise 5510 sayılı Kanunun geçici 4 üncü
+maddesinin altıncı fıkrası ile 28 inci maddesinin beşinci fıkrası kapsamında yaşlılık aylığı
+bağlanmaktadır.
+
+Buna göre, vazife malullüğü aylığı bağlandıktan sonra çalışmaya devam eden ve 5510 sayılı
+Kanunun 28 inci maddesinin beşinci fıkrası, geçici 4 üncü maddesinin altıncı fıkrası ile geçici 10
+uncu maddesinin ikinci fıkrası ve 506 sayılı Kanunun geçici 87 nci maddeleri kapsamında
+Kurumumuzdan yaşlılık aylığı talebinde bulunan 4/1-(a), 4/1-(b) ve 41-(c) (kapsamındaki
+sigortalılarla ilgili olarak öncelikle;
+
+-Sigortalılara yaşlılık aylığı talep tarihinden önce vazife malullüğü aylığı bağlanıp
+bağlanmadığı hususu Kurum hizmet kütüğünden kontrol edilecektir. Vazife malullüğü aylığı
+bağlanmış olanların, aylık bağlanmadan önceki sigortalılık başlangıç tarihleri ve hizmet süreleri,
+bağlanacak yaşlılık aylığında dikkate alınmayacak, vazife malullüğü aylığı bağlandığı tarihten
+sonraki sigortalılık başlangıç tarihi ve hizmet süreleri aylığa hak kazanma koşullarının tespitinde
+esas alınacaktır.
+
+- Yine söz konusu sigortalıların engellilik veya çalışma gücü kayıplarına vazife malullüğüne
+esas hastalık ve arızalarının etkisinin olup olmadığı hususunda tespit yapılması gerektiğinden,
+sigortalıların hem vazife malullüğüne hem de yaşlılık aylığı bağlanmasına esas engellilik ve
+çalışma gücü kayıplarının tespitine esas sağlık kurulu raporlarının birlikte değerlendirilmesi
+gerekmektedir. Bu nedenle, 4/1-(a) kapsamındaki sigortalıların dosyalarında bulunan engelliliğine
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedbösgk.gov.tr Web: www.sgk.gov.tr 419
+
+esas sağlık kurulu raporu ve dayanağı tıbbi belgeler ile Maliye Bakanlığı Merkez Sağlık Kurulu
+kararı ve diğer belgeler, 4/1-(b) kapsamındaki sigortalılar için ise çalışma gücü kaybına esas sağlık
+kurulu raporu ve dayanağı tıbbi belgeler Emeklilik Hizmetleri Genel Müdürlüğü Maluliyet ve
+Sağlık Kurulları Daire Başkanlığına gönderilecektir. Anılan Daire bünyesindeki Kurum Sağlık
+Kurulunca Kamu Görevlileri Emeklilik Daire Başkanlığından sigortalıların vazife malullüğüne esas
+görevi nedeniyle yaralanması sonrası düzenlenen ilk müdahale raporu, daha sonra hastalığı ile ilgili
+düzenlenmiş sağlık kurulu raporları/raporlar epikriz ve tıbbi belgelerle birlikte maluliyetine esas
+teşkil eden sağlık kurulu raporunun aslının veya yetkililerce onaylı ve ıslak imzalı nüshası istenerek
+değerlendirme yapılacaktır. Yapılan değerlendirme Kurum Sağlık Kurulunca ilgili üniteye
+bildirilerek aylık bağlama işlemleri sonuçlandırılacaktır.
+
+4- 2330 Sayılı Kanunun 4 Üncü Maddesinin Birinci Fıkrasının (d) Bendi Kapsamında
+Bağlanan Vazife Malullüğü/Ölüm Aylıkları
+
+2330 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (d) bendinde; herhangi bir sosyal
+güvenlik kurumuna tabi olmayanların engelli hale gelmeleri halinde, öğrenim durumlarına göre
+657 sayılı Devlet Memurları Kanununun değişik 36 ncı maddesi hükümlerine göre belirlenecek
+giriş derece ve kademeleri üzerinden (Öğrenimi bulunmayanların ilkokul mezunu gibi) kendilerine,
+ölümlerinde dul ve yetimlerine 5434 sayılı Kanun hükümlerine göre görev malullüğü aylığı We 25
+artırılarak bağlanacağı öngörülmüştür.
+
+Bu hüküm doğrultusunda bağlanacak aylığın statüsü mülga 2829 sayılı Sosyal Güvenlik
+Kurumlarına Tabi Olarak Geçen Hizmetlerin Birleştirilmesi Hakkında Kanununun 8 inci maddesi
+ile 5510 sayılı Kanunun 53 üncü maddesi hükümleri uyarınca belirlenmekte ve malullük veya ölüm
+aylığı, (o tespit edilen statüde aranan aylık bağlama koşullarının yerine gelmesi halinde
+bağlanmaktadır.
+
+Öte yandan, 4/1-(c) kapsamındaki sigortalılardan 5434 sayılı Kanuna veya ilk defa 2008 yılı
+Ekim ayı başından sonra çalışmaya başlaması nedeniyle 5510 sayılı Kanuna tabi olanların, vazife
+malullüğü kapsamına giren olaylar sonucunda malul olmaları veya vefat etmeleri halinde
+kendilerine veya hak sahiplerine vazife malullüğü aylığı bağlanması için herhangi bir hizmet süresi
+(prim ödeme gün sayısı) ile sigortalılık süresi şartı aranmamakta iken, 4/1-(a) ve 4/1-(b)
+kapsamındaki sigortalıların malullük veya ölüm aylığına hak kazanabilmeleri için ilgili mevzuatları
+gereği belirli prim ödeme gün sayısı ve/veya sigortalılık süresine (malullük aylığı için 10 yıllık
+sigortalılık süresi ve 1800 gün, ölüm aylığı için 1800 veya 5 yıllık sigortalılık süresi ve 900 gün )
+sahip olmaları gerekmektedir.
+
+Diğer taraftan, vazife malullüğü kapsamına giren olaylar sonucunda malul kalan veya
+ölenlerden;
+
+- Herhangi bir sigortalılık statüsüne tabi olmayanlara, 2330 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (d) bendi kapsamında, malullük aylığı için 5434 sayılı Kanun ile
+öngörülen malullük kriterinin sağlanması şartıyla ve herhangi bir sigortalılık süresi ve/veya prim
+ödeme gün sayısı aranmaksızın kendilerine, ölenlerin ise hak sahiplerine görev malullüğü aylığı
+bağlanmaktadır.
+
+- 4/1-(a) ve 4/1-(b) kapsamındaki sigortalılardan kendileri veya hak sahiplerine malullük ve
+ölüm aylığı bağlanması için ilgili mevzuatlarında belirlenen aylık bağlama koşullarının yerine
+gelmemesi nedeniyle kendi statülerinde aylık bağlanamayanlara, 2330 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (d) bendi kapsamında herhangi bir sosyal güvenlik kurumuna tabi
+olmayanlar kapsamında aylık bağlanacaktır.
+
+2330 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (d) bendi kapsamında aylık
+bağlanacak 4/1-(a) ve 4/1-(b) kapsamındaki sigortalı veya hak sahiplerinin;
+
+- 2330 sayılı Kanun kapsamına giren bir nedenle yaralanıp yaralanmadıkları veya
+öldüklerine ilişkin olay kapsamı ile malullük durumlarının,
+
+- 4/l-(a) veya 4/1-(b) statüleri kapsamında malullük/ölüm aylığına hak kazanma
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye/ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312 432 1063 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(sgk.gov.tr Web: www.sgk.gov.tr 20
+
+koşullarının oluşup oluşmadığının,
+
+tespitine ilişkin işlemler oBağımsız ve Hizmet Akdiyle Çalışanlar Emeklilik Daire
+Başkanlığı tarafından o sonuçlandırılacaktır. Bu işlemler sonucunda 4/1-(a) veya 4/1-(b)
+kapsamındaki sigortalılardan tabi oldukları sigortalılık statüsünde aranan malullük/ölüm aylığı
+bağlama koşullarını yerine getirmeyenlerin dosyaları, belge asıllarıyla birlikte 2330 sayılı Kanunun
+4 üncü maddesinin birinci fıkrasının (d) bendi kapsamında değerlendirilerek primsiz aylıklar
+kapsamında 5434 sayılı Kanunun ilgili hükümlerine göre vazife malullüğü/ölüm aylığı bağlanmak
+üzere Kamu Görevlileri Emeklilik Daire Başkanlığına gönderilecektir.
+
+Diğer taraftan, güvenlik koruculuğu görevleri sırasında maluliyet incelemesi talebinde
+bulunan ve söz konusu talepleri uyarınca malul sayılmaları nedeniyle 4/1-(a) kapsamında malullük
+aylığı bağlanacak güvenlik korucularının görevlerinin sonlandırıldığı tarih, tahsis talep tarihi olarak
+değerlendirilerek; gerek aylığa hak kazanma koşulları gerekse aylık başlangıç tarihi bu tarihe göre
+belirlenecektir.
+
+Örnek 1- En son 4/1-(a) kapsamında sigortalı olan Güvenlik Korucusu (A), güvenlik
+koruculuğu görevi nedeniyle 28/10/2016 tarihinde yürütülen operasyon sırasında yaralanmıştır.
+Sigortalı (A) 30/06/2017 tarihli dilekçesi ile tarafına aylık bağlanması talebinde bulunmuştur. En
+son 4/1-(a) kapsamında olması nedeniyle sigortalının talebi Bağımsız ve Hizmet Akdiyle Çalışanlar
+Emeklilik Daire Başkanlığı tarafından; ilgilinin yaralanmasının 2330 sayılı Kanun kapsamına girip
+girmediği ve malul olup olmadığı yönüyle incelenecektir. Anılan Başkanlıkça yapılan inceleme
+sonucunda; sigortalının icra edilen bir operasyon sırasında yaralanması nedeniyle hakkında 2330
+sayılı Kanun hükümlerinin uygulanması gerektiği, ayrıca Kurum Sağlık Kurulunca maluliyetine
+karar verilerek maluliyet derecesi tespit edilmiştir. Sigortalının malul sayılması nedeniyle güvenlik
+koruculuğu görevinin sonlandırıldığı 07/08/2017 tarihi itibariyle 12 yıllık sigortalılık süresi ve
+toplam 1627 prim gün sayısının olduğu belirlenmiş ancak 4/1-(a) statüsünde aylık bağlanması için
+aranan 10 yıllık sigortalılık süresi koşulu yerine geldiği halde, 1800 prim gün koşulunun yerine
+gelmemesi nedeniyle bu statüde aylık bağlama işlemi yapılmayacak ve sigortalının oluşturulan
+dosyası Kamu Görevlileri Emeklilik Daire Başkanlığına gönderilecektir. Sigortalı (A) hakkında
+başka bir inceleme yapılmaksızın 2330 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (d)
+bendine göre 3434 sayılı Kanunun ilgili hükümlerine göre primsiz aylıklar kapsamında vazife
+malullüğü aylığı bağlanacaktır.
+
+Örnek 2- Örnek 1'de belirtilen Sigortalı (A) hakkında yapılan incelemelerde; sigortalının
+malul sayılması nedeniyle güvenlik koruculuğu görevinin sonlandırıldığı 07/08/2017 tarihi
+itibariyle 4/1-(b) kapsamında 03/10/2010 tarihinde başlayan sigortalılığı nedeniyle 6 yıl 10 ay 4
+gün sigortalılık süresi ve toplam 1875 prim gün sayısının olduğu belirlenmiş ancak malullük aylığı
+bağlanacak 4/1-(a) statüsünde, aylık bağlanması için aranan 1800 prim gün sayısı koşulu yerine
+geldiği halde 10 yıllık sigortalılık süresi koşulunun yerine gelmemesi nedeniyle bu statüde aylık
+bağlama işlemi yapılmayacak ve sigortalının oluşturulan dosyası Kamu Görevlileri Emeklilik Daire
+Başkanlığına gönderilecektir. Sigortalı (A) hakkında başka bir inceleme yapılmaksızın 2330 sayılı
+Kanunun 4 üncü maddesinin birinci fıkrasının (d) bendine göre 5434 sayılı Kanunun ilgili
+hükümlerine göre primsiz aylıklar kapsamında vazife malullüğü aylığı bağlanacaktır.
+
+Örnek 3- 4/1-(a) kapsamında Sigortalı olan (B), 14/03/2016 tarihinden itibaren sigortalı
+olarak görev yapmakta iken 23/05/2017 tarihinde ölmüştür. Sigortalı (B)'nin ölümünün 3713
+sayılı Terörle Mücadele Kanununun 21 inci maddesinin birinci fıkrasının (j) bendi kapsamında
+(Terör eyleminin ortaya çıkarılması, etkilerinin azaltılması veya bertaraf edilmesinin
+sağlanmasında yardımcı ve faydalı olanlar bu faaliyetlerinden dolayı hayatını kaybettiği ilgili
+valinin teklifi üzerine Nakdi Tazminat Komisyonu tarafından karara bağlanan) olduğundan bahisle
+hak sahipleri 02/07/2017 tarihinde talepte bulunmuşlardır. Ölüm tarihi itibariyle toplam 425 gün
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 24
+
+hizmeti bulunan sigortalı (B)'nin hak sahiplerine ölüm aylığı bağlanamadığından (5 yıllık
+sigortalılık süresi * 900 gün) sigortalının dosyası, Bağımsız ve Hizmet Akdiyle Çalışanlar
+Emeklilik Daire Başkanlığı tarafından, aylık bağlanamama gerekçeleri açıklanmak suretiyle Kamu
+Görevlileri Emeklilik Daire Başkanlığına gönderilecektir. Kamu Görevlileri Emeklilik Daire
+Başkanlığınca Sigortalı (B) hakkında başka bir inceleme yapılmaksızın hak sahiplerine 2330 sayılı
+Kanunun 4 üncü maddesinin birinci fıkrasının (d) bendine göre 5434 sayılı Kanunun ilgili
+hükümlerine göre primsiz aylıklar kapsamında ölüm aylığı bağlanacaktır.
+
+Örnek 4- En son 4/1-(a) kapsamında sigortalı olan Güvenlik Korucusu (C), güvenlik
+koruculuğu görevi nedeniyle ve emniyet güçleriyle birlikte 28/10/2014 tarihinde yürütülen bir
+operasyonda uyuşturucu kaçakçılığı yapan kişilerle yaşanan çatışma sonucunda yaralanmıştır.
+Sigortalı (C) 06/06/2017 tarihli dilekçesi ile tarafına aylık bağlanması talebinde bulunmuştur. En
+son 4/1-(a) kapsamında olması nedeniyle sigortalının talebi Bağımsız ve Hizmet Akdiyle Çalışanlar
+Emeklilik Daire Başkanlığı tarafından; ilgilinin yaralanmasının 2330 sayılı Kanun kapsamına girip
+girmediği ve malul olup olmadığı yönüyle incelenecektir. Anılan Başkanlıkça yapılan inceleme
+sonucunda; sigortalının icra edilen bir operasyon sırasında yaralanması nedeniyle hakkında 2330
+sayılı Kanun hükümlerinin uygulanması gerektiği, ayrıca Kurum Sağlık Kurulunca sigortalının
+başkasının sürekli bakımına muhtaç derecede malul olduğu ve maluliyet derecenin “1” olduğuna
+karar verildiği tespit edilmiştir. Sigortalının malul sayılması nedeniyle güvenlik koruculuğu
+görevinin sonlandırıldığı 07/08/2017 tarihi itibariyle 9 yıllık sigortalılık süresi ve toplam 2605 prim
+gün sayısının olduğu anlaşılmıştır. Bu durumda sigortalı (C)'nin aylık bağlama şartlarını
+(başkasının sürekli bakımına muhtaç olması nedeniyle sigortalılık süresi aranmaksızın sadece 1800
+gün) yerine getirmesi nedeniyle Bağımsız ve Hizmet Akdiyle Çalışanlar Emeklilik Daire
+Başkanlığı tarafından aylık bağlama işlemi sonuçlandırılacaktır. e Sigortalı başkasının sürekli
+bakımına muhtaç derecede malul olması nedeniyle aylığıyla birlikte 5434 sayılı Kanunun ek 77 nci
+maddesi kapsamında net asgari ücretin iki katı tutarında ek ödemeden de yararlandırılacaktır.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+
+Genel Müdür
+
+DAĞITIM:
+Gereği :
+Taşra Teşkilatına
+(81 İl Müdürlüğü )
+Bilgi :
+Merkez Teşkilatına
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 1063 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(ösgk.gov.tr Web: www.sgk.gov.tr 22

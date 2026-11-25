@@ -1,0 +1,342 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/60370
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 323
+ADI: SOSYAL GÜVENLİK KURUMU KURUL SAĞLIK KURULLARININ GÖREV,YETKİ,ÇALIŞMA USUL VE ESASLARI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 899a9d46847b40a64baa2c8ddff46613a27a056701df1f19a256871730e059fd
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+SOSYAL GÜVENLİK KURUMU
+KURUM SAĞLIK KURULLARININ GÖREV, YETKİ, ÇALIŞMA
+USUL ve ESASLARI
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+Amaç ve kapsam
+
+MADDE 1 — (1) Bu usul ve esaslar, Sosyal Güvenlik Kurumu Kurum Sağlık Kurullarının
+kararlarında doğruluk, işleyişinde etkinlik ve verimliğin sağlanmasını; sigortalılara tutarlı, hızlı ve
+nitelikli hizmet sunulmasını teminen bu Kurulların görev, yetki, çalışma usul ve esaslarını
+düzenlemek amacıyla düzenlenmiştir.
+
+(2) Bu usul ve esaslar, tüm Kurum Sağlık Kurullarını kapsar.
+
+Dayanak
+
+MADDE 2 — (1) Bu usul ve esaslar Maluliyet Tespiti İşlemleri Yönetmeliği ile Çalışma
+Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliğine dayanılarak
+hazırlanmıştır.
+
+Tanımlar
+
+MADDE 3 —(1) Bu usul ve esaslarda geçen;
+
+a) Başkan: Kurum Sağlık Kurulu Başkanını,
+
+b) Daire başkanlığı: Maluliyet ve Sağlık Kurulları Daire Başkanlığını,
+
+c) Genel müdür: Emeklilik Hizmetleri Genel Müdürünü,
+
+ç) Genel müdürlük: Emeklilik Hizmetleri Genel Müdürlüğünü,
+
+d) Genel sağlık sigortalısı: Kanunun 60 ıncı maddesinde sayılan kişileri,
+
+e) Hak sahibi: Sigortalının veya sürekli iş göremezlik geliri ile malullük, vazife malullüğü
+veya yaşlılık aylığı almakta olanların ölümü halinde, gelir veya aylık bağlanmasına veya toptan
+ödeme yapılmasına hak kazanan eş, çocuk, ana ve babasını,
+
+f) İl müdürlüğü: Kurum Sağlık Kurulunun bulunduğu sosyal güvenlik il müdürlüğünü,
+
+g) Kanun: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununu,
+
+8) Kontrol muayenesi: Kanunun 94 üncü maddesinin 2 nci fıkrasında belirtilen hallerde
+istenilen muayeneyi,
+
+h) Kurul: Kurum Sağlık Kurulunu,
+
+ı) Kurum: Sosyal Güvenlik Kurumunu,
+
+i) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+
+j) Kurum Sağlık Kurulu: Kurumca yetkilendirilen sağlık hizmeti sunucularının sağlık
+kurullarınca düzenlenecek raporlardaki teşhis ve bu teşhise dayanak teşkil eden belgeleri
+incelemek suretiyle, çalışma gücü kaybı ve meslekte kazanma gücü kaybı oranlarını, erken
+yaşlanma hâlini, vazifelerini yapamayacak şekilde meslekte kazanma gücü kaybını ve malullük
+derecelerini belirlemeye yetkili hekimlerden ve/veya diş hekimlerinden oluşan kurulları,
+
+k) Sağlık kurulu raporu: Kurumca yetkilendirilmiş sağlık hizmeti sunucularının sağlık
+kurullarınca düzenlenen sağlık kurulu raporlarını,
+
+1) Sekretarya: Kurum sağlık kurullarının hizmetlerini yürütmek üzere Daire Başkanlığı ve il
+müdürlüğü bünyesinde oluşturulan birimi,
+
+m) Sigortalı: Kısa ve/veya uzun vadeli sigorta kolları bakımından adına prim ödenmesi
+gereken veya kendi adına prim ödemesi gereken kişiyi,
+
+n) Üye: Kurum sağlık kurulu üyelerini,
+
+o) Yüksek Sağlık Kurulu: Kanunun 58 inci maddesinde belirtilen görevleri yerine getirmek
+üzere branşları Kurum tarafından belirlenen uzman hekimlerden oluşan kurulunu,
+
+ifade eder.
+
+Sayfa 1/5
+mmm
+
+İKİNCİ BÖLÜM
+Kurum Sağlık Kurulları
+Kurum Sağlık Kurulun Oluşumu ve Koordinasyonu
+MADDE 4 — (1) Kurulların oluşturulmasına, kapatılmasına ve ihtiyaç doğrultusunda aynı
+yerde birden fazla kurul kurulmasına Kurum Yönetim Kurulu yetkilidir.
+
+(2) Kurul; Kurum tarafından görevlendirilen en az 4 (dört) hekimden oluşur. Kurul öncelikle
+Kurum bünyesinde bulunan hekimlerden, gerek duyulması halinde ise resmi sağlık hizmeti
+sunucularından görevlendirilecek uzman hekimlerden oluşturulur.
+
+(3) Kurulda görev alan uzman hekimlerin branşları Daire Başkanlığı tarafından belirlenir.
+
+(4) Kurul üyeleri, il müdürünün teklifi üzerine genel müdürün onayı ile belirlenir.
+
+(5) Kurul, sosyal güvenlik il müdürüne bağlı olarak çalışır.
+
+(6) Daire Başkanlığı bünyesinde de bir Kurul kurulur. Daire Başkanlığının görev alanına
+giren konularda Kuruma yapılan yazılı talep, ihbar, şikâyet ve öneriler ile Rehberlik ve Teftiş
+Başkanlığı tarafından yürütülen inceleme/soruşturma kapsamında veya Kuruma müracaat
+edilmeksizin açılan davalara ilişkin olarak mahkemeler tarafından yapılan talepler bu kurul
+tarafından değerlendirilerek karara bağlanır. Daire Başkanlığı bünyesinde yeteri sayıda hekim
+bulunmaması halinde ilgili birim amirinin muvafakatı, Genel Müdürün teklifi ve Kurum
+Başkanının onayı ile bu Kurulda Kurum hekimi görevlendirilebilir.
+
+(7) Farklı il müdürlüklerinde bulunan kurullar tarafından alınan kararların tutarlılığını
+sağlamak, bilgi birikimi ile tecrübenin tüm Kurum sathında paylaşılmak ve benzeri amaçlarla
+Daire Başkanlığı tarafından Kurullar koordine edilir.
+
+Başkanın seçilmesi
+
+MADDE 5$ — (1) Başkan, kurul üyelerinin kendi aralarında yapacağı seçimle ve oy çokluğu
+ile iki yıllık süre için seçilir. Başkanın Kurum hekimi olması mecburidir. Başkan seçilinceye kadar
+kurum hekimlerinden meslekte kıdemli olan üye başkanlığa vekâlet eder. Başkanın olmadığı
+durumlarda en kıdemli üye başkanlığı yürütür.
+
+(2) Başkanın, herhangi bir nedenle görevinin sona ermesi durumunda, üyeler arasından aynı
+usulle yeni başkan seçilir.
+
+(3) Üyeler arasında hiçbir Kurum hekiminin bulunmaması halinde ise seçim yapılarak oy
+çokluğu ile Kurul başkanı belirlenir.
+
+Üyelerin hizmet süreleri
+
+MADDE 6 — (1) Kurulun Kurum hekimi üyeleri, sağlık kurulunda süresiz görev alırlar. Bu
+üyelerin zorunlu haller dışında değiştirilmesi; il müdürünün hazırlayacağı gerekçeli talep üzerine,
+genel müdürün uygun görüşü ile gerçekleşir.
+
+(2) Kurulun resmi sağlık hizmeti sunucularından görevlendirilen hekim üyelerin hizmet
+süreleri iki yıldır. İhtiyaç duyulması halinde bu süre Kurum Başkanının onayı ile arttırılabilir veya
+uzatılabilir. Süresi dolan üyeler yeniden görevlendirilebilir. Kurulun bulunduğu il müdürlüğü,
+üyelerin hizmet süresinin bitiminden en az 30 gün önce durumu ilgili kuruma ve Genel Müdürlüğe
+(Daire Başkanlığına) yazılı olarak bildirir.
+
+(3) Bir takvim yılı içerisinde mazereti olmaksızın birbirini izleyen beş veya toplam on
+toplantıya katılmayan üyelerin, üyelikleri kendiliğinden sona erer. Üyelikleri herhangi bir nedenle
+sona eren üyelerin yerine, il müdürlüğü tarafından aynı usulle bir başka üye görevlendirilir ve
+Genel Müdürlüğe (Daire Başkanlığına) bildirilir. Görevlendirilen yeni üye, yerini aldığı üyenin
+görev süresini tamamlar.
+
+Sayfa2/5
+a amaaa mmm
+
+Kurulun görevleri
+
+MADDE 7 — (1) Kurulun görevleri şunlardır:
+
+a) Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalıların iş kazası veya meslek hastalığı sonucu meslekte kazanma gücünü ne oranda
+kaybettiğine karar vermek.
+
+b) Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalıların hangi hallerde çalışma gücünün en az *060'ını kaybettiğine karar vermek.
+
+c) Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalıların, hangi
+hallerde çalışma gücünün en az “060'ını veya vazifelerini yapamayacak şekilde meslekte kazanma
+gücünü kaybettiğine karar vermek.
+
+ç) Sigortalıların ve genel sağlık sigortası sigortalılarının bakmakla yükümlü olduğu çocukları
+ile hak sahibi çocuklarının hangi hallerde çalışma gücünün en az *060'ını kaybettiğine karar
+vermek.
+
+d) Kanuna göre sigortalı sayılan kadınların engelli çocuklarının hangi hallerde başka birinin
+sürekli bakımına muhtaç durumda sayılacağına karar vermek.
+
+e) Kanuna göre sigortalı sayılanların yaşlılık sigortası kapsamında çalışma gücü kaybı
+oranına karar vermek.
+
+f) Sürekli iş göremezlik derecesi tespit edilmiş sigortalıların ölümünün iş kazası veya meslek
+hastalığı sonucu olup olmadığına karar vermek.
+
+g) Sigortalıların hangi hallerde erken yaşlanmış sayılacaklarına karar vermek.
+
+8) Malullük aylığı veya sürekli iş göremezlik geliri bağlanmış sigortalıların ve çalışma
+gücünün en az *060'ını yitiren malul çocukların kontrol muayenesini değerlendirerek karar
+vermek.
+
+h) Kurulca verilen kararlarla ilgili olarak, tarafların açtıkları dava sürecinde gerek Kurumun
+ilgili birimleri, gerekse iş mahkemelerinden intikal eden dosyalarda tespit edilen mevzuat ile ilgili
+ve maddi hataları düzelterek karara bağlamak ve tıbbi görüş bildirmek.
+
+1) Kurulun çalışma ve görevleri ile ilgili konularda verilen hizmetin daha iyi düzeye
+getirilmesi için il müdürlüğü aracılığıyla Daire Başkanlığına önerilerde bulunmak.
+
+i) İl müdürlüğünce/Daire Başkanlığınca verilen benzer nitelikteki diğer görevleri yapmak.
+
+Başkanın görev ve yetkileri
+
+MADDE 8 — (1) Başkanın görev ve yetkileri şunlardır:
+
+a) Kurul toplantılarına başkanlık etmek.
+
+b) Kurulun, haftada en az bir kez olmak üzere iş yoğunluğunu da dikkate alarak toplantı
+günlerini ve sayısını belirlemek.
+
+c) Kurula gelen dosyaların üyelere dağıtımını sağlamak.
+
+ç) Üyelerin kurul kararlarını imzalamalarını sağlamak.
+
+d) Kurula iştirak eden üyelerin toplantı katılım cetvellerini imzalamalarını sağlamak.
+
+e) Kurul üyesi olarak görevlerini yerine getirmek.
+
+Üyelerin görev ve yetkileri
+
+MADDE 9 — (1) Üyelerin görev ve yetkileri şunlardır:
+
+a) Kendilerine verilen dosyaları değerlendirerek, tıbbi görüşünü kurula sunmak.
+
+b) Kayıt altına alınan kararları imzalamak.
+
+c) Kurul toplantı katılım cetvelini imzalamak.
+
+Sayfa3/5
+KR mmm mm m A
+
+ÜÇÜNCÜ BÖLÜM
+Kurul Sekretaryası
+
+Kurul Sekreteryası
+
+MADDE 10 — (1) Kurulların sekreterya iş ve işlemlerini yürütmek üzere, Daire Başkanlığı
+ve/veya il müdürlüğünce belirlenen yeteri kadar idari personelden oluşur.
+
+Sekretaryanın görevleri
+
+MADDE 11 - (1) Sekretaryanın görevleri şunlardır:
+
+a) Kurula intikal etmek üzere ilgili birimlerden gönderilen dosyaların ön hazırlığını yaparak
+Kurula sunmak.
+
+b) Kurulda değerlendirilerek dosyalarda, eksik bilgi, belge veya mevzuat hatası tespit
+edilmesi halinde gerekli düzeltmelerin yapılması veya tamamlanması için dosyaları gönderen
+birime iade etmek.
+
+c) Kurula mevzuat desteği vermek.
+
+ç) Kurulda alınan kararları, tarih sırasına göre kaydetmek ve tarih karar sayısı vermek.
+
+d) Kurulda görüşülen dosyaların işlemlerinin tamamlanmasından sonra kararları ilgili
+birimlere göndermek.
+
+e) Kurula gelen dosyalara ve Kurul kararlarına ilişkin istatistikleri hazırlamak ve raporlamak.
+
+P) İl müdürlüğünce/Daire Başkanlığınca istenilen bilgi ve belgeleri hazırlayıp ilgililere
+iletmek.
+
+g) İl müdürlüğünce/Daire Başkanlığınca verilen benzer nitelikteki diğer görevleri yapmak.
+
+DÖRDÜNCÜ BÖLÜM
+Kurulun Çalışma Usul ve Esasları
+
+Kurul toplantıları
+
+MADDE 12 — (1) Kurul, iş yoğunluğuna göre haftada en az bir kez ve en az üç üye ile
+toplanır. Kararlar, katılan üyelerin oy çokluğu ile alınır. Oyların eşitliği halinde başkanın taraf
+olduğu görüş kabul edilmiş sayılır. Üyeler çekimser kalamaz.
+
+(2) Mazereti nedeni ile toplantıya katılamayacak olan üye, durumunu toplantı öncesi başkana
+veya başkanın yokluğunda yerine bakacak üyeye bildirir.
+
+(3) Kurul tarafından değerlendirilen raporlar ve dayanağı tıbbi belgelerde imzası bulunan
+hekimler kurul kararında yer alamazlar.
+
+Eksik bilgi ve belgenin istenmesi
+
+MADDE 13 — (1) Kurul, gönderilen dosyalarda eksiklik tespit ettiği veya ek bilgi ve belgeye
+ihtiyaç duyduğu takdirde, yazıyla veya kararla, eksikliğin giderilmesi veya ek bilgi ve belgenin
+tamamlanması için dosyaları iade eder.
+
+(2) Kurul, dosya içinde mevcut olan sağlık kurulu raporları ve dayanağı tıbbi belgelerde
+eksiklik görürse, eksikliklerin tamamlanması için sigortalının veya hak sahibinin, Kurumca
+yetkilendirilen sağlık hizmeti sunucularından yeniden muayenesini, gerektiğinde yatırılarak
+müşahede altına alınmasını, bunun sonunda usulüne uygun düzenlenen sağlık kurulu raporu ve
+tıbbi dayanaklarının temin edilmesini isteyebilir.
+
+(3) Kurul gerektiğinde uygulanan tedavi, tıbbi tetkikler, çıkış özeti (epikriz) vb. belgeleri
+Medula Sistemi verilerini kullanarak temin eder.
+
+Uzman hekimlerin görüşüne başvurulması
+
+MADDE 14 — (1) Kurul gerekli gördüğü hallerde, değerlendirilen raporlar ve dayanağı tıbbi
+belgelerde imzası olmamak şartıyla resmi sağlık hizmeti sunucularından uzman hekimleri Kurula
+davet ederek, görüşlerini yazılı olarak alır.
+
+Sayfa 4/5
+RR SŞŞM Re İİİ
+
+Kurul dosyalarının incelenme süresi
+
+MADDE 15 — (1) Kurula intikal eden dosya ve evraklar en geç 30 gün içerisinde
+sonuçlandırılır.
+
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+
+Kurul kararları
+
+MADDE 16 — (1) Çalışma gücünün en az “e 60'ını kaybetmiş haliyle ilk defa çalışmaya
+başladığı tespit edilen sigortalının, daha sonraki taleplerine istinaden Kurulca yapılan
+değerlendirme sonucunda;
+
+a) İşe girdikten sonra ortaya çıkan farklı hastalıklardan dolayı çalışma gücünün en az 9
+60'ını kaybetmediği kararına varılması halinde “çalışma gücünün en az “6 60'ını kaybetmiş haliyle
+ilk defa çalışmaya başladığı ” kararı devam eder.
+
+b) Ancak yapılan değerlendirme sonucunda, sigortalının ilk defa çalışmaya başladığı tarihte
+çalışma gücünün en az “e 60'ını kaybetmediğinin tespiti halinde, Kurum işlemlerinde devamlılık
+söz konusu olduğundan gerekçeleri yazılarak bu konuda daha önce verilmiş karar iptal edilir.
+
+(2) Daha önce verilmiş kurul kararının herhangi bir nedenle iptal edilmesi gerektiğinde, yeni
+kararda iptal edilen kurul kararının tarih ve sayısı, gerekçesi belirtilerek iptal edildiği yazılır.
+
+(3) Yüksek Sağlık Kurulunca kontrol muayenesi gerektiği kararı verilmesi halinde, bu
+kontrol muayenesine ilişkin değerlendirme Kurulca yapılır.
+
+(4) Sigortalıların çalışma gücü kaybı tespitine ilişkin alınan tüm kararlarda ve tebligatlarda,
+değerlendirmeye esas alınan ilk işe giriş tarihi belirtilir.
+
+Yürürlükten kaldırılan hükümler
+
+MADDE 17 — (1) 07/02/2013 tarihli ve 2013/35 sayılı Yönetim Kurulu Kararı eki Kurum
+Sağlık Kurulları Görev, Yetki, Çalışma Usul ve Esasları yürürlükten kaldırılmıştır.
+
+Yürürlük
+
+MADDE 18—(1) Bu Usul ve Esaslar 15/08/2014 tarihi itibarı ile yürürlüğe girer.
+
+Yürütme
+
+MADDE 19 — (1) Bu Usul ve Esasların hükümlerini Sosyal Güvenlik Kurumu Başkanı
+yürütür.
+
+Sayfa5/5
+A a amma mmm m

@@ -1,0 +1,621 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/136250
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 1062
+ADI: MERKEZİ TAHSİLAT SİSTEMİ 30/12/2011 TARİHLİ 2011/71 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 44c1263ab8a4f01144a82ec4eb9fc69d46cbb57a5231e1eea6ddc93cbdb7173d
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+
+Sayı : B.13.2.SGK.0.65.01.05/ 1062                                                       30 Aralık 2011
+Konu : Merkezi tahsilat sistemi.
+
+
+
+                                                GENELGE
+                                                 2011/ 71
+
+
+
+A-GİRİŞ :
+        5502 Sayılı Sosyal Güvenlik Kurumu Kanunu ile idari ve mali açıdan özerk olarak
+kurulan Kurumumuz, esas olarak prim gelirleri ile sosyal sigortacılık hizmetlerini
+yürütmektedir. Bu kapsamda gerçekleştirilen mali işlemlerin kayıt ve takibi yönünden ise
+işlemlerini 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu hükümlerine göre
+yürütmektedir.
+        Mali işlemlerin mevzuat hükümlerine göre yürütülmesi için Kurumumuz tarafından
+Mali Otomasyon Sistemi Projesi (MOSİP) adı ile bir uygulama yazılımı geliştirilmiş ve
+uygulamaya konulmuştur. Bu kapsamda Kurumumuz tahsilat işlemleri gözlenmiş ve Kurum
+merkezimize intikal eden sorunlarla birlikte değerlendirilerek, MOSİP yazılımı içinde bir
+Merkezi Tahsilat Sistemine karar verilmiştir. Buna göre Kurumumuz adına, kasa ve off-line
+banka hesapları aracılığıyla yapılanlar da dahil olmak üzere, tüm tahsilat bankalar
+aracılığıyla on-line olarak merkezi bir hesapta toplanacak; MOSİP Sistemi üzerinden ilgili
+muhasebe birimi hesaplarına aktarılacaktır. Halen on-line olarak tahsil edilen primler de
+çalışmalar tamamlandıkça bu sisteme dahil edilecektir. Söz konusu sistem kapsamındaki
+işlemler aşağıda açıklandığı şekilde yürütülecektir.
+
+B- GENEL HÜKÜMLER
+
+        1- Kurum gelirlerine ilişkin işlemleri gerçekleştiren servisler, bu işlemler yönünden
+“Tahakkuk Birimi”, bu işlemleri gerçekleştiren memurlar “Tahakkuk Birimi Kullanıcısı” ve
+bu işlemleri onaylayan amirler “Gelir Tahakkuk Memuru” olarak görev ifa edeceklerdir.
+        2- Gelir tahakkuk memurları, tüm onay işlemlerini ilgili programlardan alınan
+belgeler üzerinden gerçekleştireceklerdir. Bu belgeler gerçekleştirme belgesi olarak ilgili
+servislerde saklanacak, elektronik ortamdaki kayıtlar muhasebe sisteminde gelir tahakkuk
+kaydı olarak muhasebeleştirilecektir.
+        3- Kurumumuzun tüm tahsilat işlemleri Merkezi Tahsilat Sistemi üzerinden
+bankacılık sistemi vasıtasıyla on-line olarak gerçekleştirilecektir.
+        4- Tahsilat işlemleri, esas olarak, MOSİP Sisteminde muhasebeleştirilen tahakkuk
+kayıtları üzerinden gerçekleştirilecektir.
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           1/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+        5- Tahakkuk kayıtları, niteliğine göre, ilgilinin TC Kimlik Numarası, Vergi
+Numarası, Kurum Kodu, İşyeri Sicil Numarası ve benzeri unsurlar ile oluşturulacaktır.
+        6- Tahakkuka bağlı tahsilat, niteliğine göre, bankalar tarafından ilgili kişiyi
+tanımlayan numara ile MOSİP Sisteminden yapılacak borç sorgulanmasına dayalı olarak
+gerçekleştirilecektir.
+        7- Tahakkuka dayalı olmayan tahsilat bankalar tarafından kişiyi tanımlayan
+numaranın MOSİP sisteminden sorgulanarak kişi bilgilerinin doğrulanmasından sonra
+tahsilat türü ve tahsilatın ilgili olduğu ünitemiz sorgulanarak gerçekleştirilecektir.
+        8- Bankalar tarafından yapılan tüm tahsilat Ödeme Muhasebe Birimi tarafından ilgili
+bankanın Ankara’daki temerküz şubesinde açılacak MOSİP On-Line Tahsilat Hesabına
+kaydedilecektir.
+        9- Bankalar tarafından yapılan tahsilat, mutabakat işlemleri tamamlandıktan sonra,
+merkezde Ödeme Muhasebe Birimi tarafından ilgili banka için 102 – Bankalar Hesabına
+borç, 511.01- Muhasebe Birimleri Arası İşlemler Hesabına (İşlemi Başlatan Muhasebe
+Birimi) alacak kaydedilecek şekilde otomatik olarak muhasebeleştirilecektir.
+        10- Ödeme Muhasebe Birimindeki muhasebe kayıtlarının gerçekleşmesini
+müteakiben ve otomatik olarak, günlük tahsilat, ilgili muhasebe biriminde 511.02
+Muhasebe Birimleri Arası İşlemler Hesabına (Adına İşlem Yapılan Muhasebe Birimi) borç,
+333.14.07.01 Emanetler Hesabına (Günlük Tahsilat), tahsilat türlerini de gösterecek şekilde
+alacak kaydedilerek muhasebeleştirilecektir.
+        11- Taşra muhasebe birimlerinin 333.14.07.01 Emanetler Hesabına (Günlük
+Tahsilat) otomatik olarak kaydedilen tutarların gelir veya ilgili olduğu hesaba kaydedilmesi
+işlemi MOSİP Sisteminde yazılan bir program aracılığı ile otomatik olarak yapılacaktır. Bu
+işlemler MOSİP Sisteminde Muhasebe Daire Başkanlığı tarafından bildirilecek menüde yer
+alan ilgili form üzerindeki “Günlük Tahsilatı Muhasebeleştir” butonuna basılmak suretiyle
+yapılacaktır. Bu menüdeki işlemler, tahsilat tarihi ve tahsilat türüne göre 333.14.07.01
+kodlu emanet hesabına otomatik olarak kaydedilen tutarların ilgili formda listelenmesi
+üzerine muhasebe yetkilileri tarafından gerçekleştirilecektir. kaydedilen tahsilat türlerinin
+muhasebe sistemindeki hesaplarla ilişkisi MOSİP Sisteminde kurulmuştur. Buna göre,
+333.14.07.01 kodlu hesaba mahsup edilerek yapılacak tahsilat işlemlerinde her bir tahsilat
+türü ilgili olduğu hesaba otomatik olarak kaydedilecektir.
+        12- Günlük tahsilat kayıtlarının muhasebeleştirilmesi sırasında ilgili tahakkuk
+hesapları ile ilişkilendirilemeyen tutarlar otomatik olarak 333.14.07.01 kodlu hesaba borç,
+333.14.07.02 kodlu hesaba alacak kaydedilerek muhasebeleştirilecektir.
+        13- Muhasebe birimleri kendileri adına on-line olarak gerçekleşen tahsilatları
+Muhasebe Daire Başkanlığı tarafından kendilerine bildirilen menüdeki form üzerinden anlık
+olarak takip edeceklerdir: Kendisi adına olması gerekirken başka bir muhasebe birimi adına
+yapıldığını tespit ettiği tahsilatın kendisine maledilmesini sistem üzerinden
+gerçekleştirecektir.
+
+
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           2/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+C-PRİM TAHSİLATI
+
+    I- 5510 SAYILI KANUNUN 4/1-a MADDESİ KAPSAMINDA OLUP
+VADESİNDE ÖDENMEYEN PRİMLERİN TAHSİLATI (GEÇMİŞ DÖNEM PRİMLERİ)
+
+        1- İşveren dosyalarının bulunduğu her bir ünitemiz gelir işlemleri yönünden 5018
+sayılı Kanun kapsamında birer gelir tahakkuk birimidir. İşveren Sisteminde işlem yapan
+kullanıcılar Tahakkuk Birimi Kullanıcısı; bu birimlerin amirleri ile yetki devri yaptığı
+kimseler ise Tahakkuk Memurlarıdır.
+        2-Tahakkuk Birimi Kullanıcıları, işlemlerini yürüten muhasebe birimlerinden bu rol
+için ilgili amir tarafından imzalanacak bir yazı ile MOSİP Sisteminde birer kullanıcı tanımı
+yaptıracaklardır. Bu kullanıcı rolü ile, MOSİP Sisteminde kendi birimindeki mükelleflerden
+yapılan tahsilatı anlık olarak takip edeceklerdir.
+        3- Geçmiş dönem 4/a prim tahsilatı, bankalar tarafından işyeri sicil numarası ile
+MOSİP Sistemi üzerinden erişilerek, İşveren Sistemi üzerinden sorgulanacak toplam borç
+tutarı üzerinden yapılacak ve MOSİP Sistemi üzerinden İşveren Sistemine tahsilat olarak
+kaydedilecektir. Sistem aşağıdaki şekilde işleyecektir:
+        a- Bankalar, MOSİP Sistemi ile banka sistemleri arasında kurulan elektronik
+bağlantı üzerinden işyeri sicil numarası ile borç sorgusu yapacaktır. Bankaların bu sorgusu
+MOSİP Sistemi üzerinden İşveren Sistemine yönlendirilecektir. İşveren Sistemi, sorgulanan
+işyerinin ödenmemiş borçlarının anaparaları ile işlenmiş gecikme zammı ve cezalarını
+toplam bir tutar olarak MOSİP Sistemine döndürecek, MOSİP Sistemi de bu sonucu
+bankaya gösterecektir. Bu borca karşılık yapılan tahsilat MOSİP Sistemine kaydedilecektir.
+        b- Mutabakat gerçekleşmeden önce bu tahsilat MOSİP Sistemi merkez hesaplarında
+bekleyecektir. Mutabakattan sonra tahsilatlar, öncelikle Ödeme Muhasebe Birimi tarafından
+muhasebeleştirilecektir.      Ödeme      Muhasebe     Biriminin   muhasebe      kayıtlarının
+gerçekleşmesini takiben otomatik olarak, ilgili muhasebe birimlerinde günlük tahsilata
+ilişkin muhasebe kayıtları oluşacaktır. Bu muhasebe kayıtlarında geçmiş dönem prim
+tahsilatı, emanet hesaplarında gösterilecektir. Muhasebe birimleri günlük tahsilata ilişkin
+muhasebe işlem fişlerinin dökümlerini Muhasebe Daire Başkanlığı tarafından bildirilecek
+menü üzerinden alarak imzalayıp, yevmiye dosyasına kaldıracaklardır.
+        c- Muhasebe birimleri, kendileri adına MOSİP Sisteminde günlük olarak
+gerçekleşen ve otomatik olarak emanet hesaplarına alınan tahsilatları, Muhasebe Daire
+Başkanlığı tarafından bildirilecek menüden izleyecek ve gelir kayıtlarını
+muhasebeleştirecektir.
+        ç- Taşra muhasebe birimlerinde oluşan tahsilata ilişkin muhasebe kayıtlarında
+geçmiş dönem primleri emanet hesabına kaydedilecektir. MOSİP Sistemi ile İşveren
+Sistemi arasında elektronik olarak kurulan entegrasyon üzerinden bu emanetler, işveren
+sistemine tahsilat olarak kaydedilecektir.
+        d- İşveren Sistemindeki tüm işlemler, önceden olduğu gibi, MOSİP Sistemine
+aktarılacak; bu kayıtlar MOSİP Sistemindeki emanet hesapları ile ilişkilendirilerek
+kapatılacaktır.
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           3/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+        e- İşverenlerin “Borcu Yoktur Yazısı” alabilmesi, MOSİP Sistemindeki tutarların
+İşveren Sistemine tahsilat kaydedilmesine bağlı olduğundan, gecikmeleri engellemek üzere,
+mutabakat işlemleri beklenmeden de İşveren Sistemine tahsilat kayıtları yapılabilecektir.
+Bunun için; bankadan tahsil edilen paralar, tahakkuk birimi kullanıcıları veya muhasebe
+yetkilileri tarafından MOSİP Sistemindeki ilgili menüden takip edilecek; aciliyeti olan
+işlemler ilgili menüden işaretlenerek, form üzerindeki “İşveren Sistemine Tahsilat Kaydet”
+butonuna basılmak suretiyle İşveren Sistemine gönderilecektir.
+
+        II. 60 INCI MADDE KAPSAMINDA GSS PRİMLERİ:
+
+         1- Ünitelerimizin GSS tescil işlemlerini yapan servisleri, bu işlemler yönünden gelir
+tahakkuk birimidir. Tescil kayıtlarını GSS Sağlık Aktivasyon Programına giren personel
+“tahakkuk birimi kullanıcısı”, bu kayıtlarını onaylayan kişiler ise “Gelir Tahakkuk
+Memuru”durlar. Gelir tahakkuk memurları onayladıkları kayıtlardan tahakkuk memuru
+sıfatı ile sorumludurlar.
+         2- 5510 sayılı Kanunun 60 ıncı maddesi kapsamında sigortalı sayılanlardan primini
+kendisi ödeyenler, bu amaçla kullanılan müracaat formları ile ünitelerimize müracaat
+etmektedirler. Söz konusu müracaatlar, ünitelerimizin GSS tescili işlemlerine bakan
+servisleri tarafından GSS Sağlık Aktivasyon Programına girilecektir.
+          3- GSS Sağlık Aktivasyon Programına kaydedilen müracaat kayıtları, aynı
+programdaki Onayda Bekleyen Kayıtlar menüsünden, ilgili birimdeki onaya yetkili amir
+tarafından onaylanacaktır: Onaylanan bu kayıtlar MOSİP Sistemi ile GSS Sağlık
+Aktivasyon Programı arasında elektronik ortamda sağlanan bağlantı üzerinden, onay anında
+MOSİP Sistemine aktarılacaktır. Elektronik ortamda aktarılan bu veriler bir gelir tahakkuk
+işlemi olduğundan, onay veren amirler sisteme girilen verilerin müracaat bilgileri ile
+uygunluğunu kontrol edeceklerdir.
+         4- Primini kendisi ödeyenlerin dışındaki tescil işlemleri (vatansız ve sığınmacılar,
+yurtlarda bakım altındaki çocuklar gibi), ilgili daireler tarafından internet üzerinden GSS
+Sağlık Aktivasyon Programına kaydedilecek ve yine anlık olarak MOSİP Sistemine
+aktarılacaktır.
+         5- Gün içinde GSS Sağlık Aktivasyon Programında tescili sonlandırılan kişilerin
+kayıtları da, aynı şekilde, MOSİP Sistemine aktarılacaktır. Sonlandırılan tescil kayıtlarına
+ilişkin olarak, sonlandırma tarihinden aktarma işleminin gerçekleştiği ay sonuna kadarki
+süre için MOSİP Sisteminde kayıtlı tahakkuk kaydı otomatik olarak iptal edilecektir.
+         6- GSS Tescili sonucunda düzenlenecek tebligatlarda ödemelerin kapsam
+dahilindeki bankalar aracılığıyla yapılacağı ibaresine yer verilecektir.
+         7- Gün içinde GSS Sağlık Aktivasyon Programından MOSİP Sistemine aktarılan
+tescil kayıtları üzerinden, tescil başlangıç tarihinden o ay sonuna kadar kısmî, aktarmanın
+gerçekleştiği ay sonuna kadar ise tam olarak, her bir ay için hesaplanacak prim alacakları
+belli aralıklarla otomatik olarak MOSİP Sisteminde muhasebeleştirilecektir. Aynı şekilde,
+sonlandırılan tescil kayıtları için tescil sonlandırma tarihinden o ay sonuna kadar kısmî,
+aktarmanın gerçekleştiği ay sonuna kadar tam olarak hesaplanan prim alacakları tahakkuk
+iptal işlemi olarak muhasebeleştirilecektir. Bu muhasebe kayıtlarında prim alacakları 120-
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           4/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+Gelir Tahakkukları Hesabına kaydedilecektir. Muhasebe yetkilileri otomatik olarak oluşan
+bu muhasebe kayıtlarına ilişkin muhasebe işlem fişlerinin dökümlerini, Muhasebe Daire
+Başkanlığı tarafından bildirilecek menüden günlük olarak alacak, imzaladıktan sonra
+yevmiye dosyasına kaldıracaklardır.
+        8- Daha önce GSS Sağlık Aktivasyon Programından aktarılıp, henüz
+sonlandırılmamış tescil kayıtları için, her ayın ilk günü bir önceki aya ait prim alacakları
+MOSİP Sistemi üzerinde otomatik olarak hesaplanacak; hesaplanan bu tutarlar üzerinden
+tahakkuk kayıtları muhasebeleştirilecektir.
+        9- GSS Primleri bankacılık sistemi üzerinden on-line olarak tahsil edilecektir.
+Bankalar GSS Primlerini, ilgilinin TC Kimlik Numarası ile MOSİP Sisteminde
+sorguladıktan sonra tahsil edeceklerdir. Bankaların borç sorgulamalarında, ilgili adına
+MOSİP Sisteminde görünen tahakkuk kayıtları, son ödeme tarihlerine göre ilgili mevzuatı
+uyarınca hesaplanacak gecikme cezası ve zammı toplamları halinde görünecektir.
+        10- GSS Primlerine ilişkin tahsilat, Merkezi Tahsilat Sistemi üzerinden
+gerçekleşecek ve merkez hesaplarına girecektir. Yapılan tahsilat, bankalarla mutabakat
+yapılıncaya kadar merkez hesaplarında bekleyecektir. Mutabakat gerçekleştikten sonra
+öncelikle Ödeme Muhasebe Biriminde sistem tarafından otomatik olarak
+muhasebeleştirilecektir.      Ödeme      Muhasebe     Biriminin   muhasebe       kayıtlarının
+gerçekleşmesini takiben otomatik olarak ilgili muhasebe birimlerinde günlük tahsilata
+ilişkin muhasebe kayıtları oluşacaktır. Bu muhasebe kayıtlarında GSS prim tahsilatı, emanet
+hesaplarında gösterilecektir. Muhasebe birimleri günlük tahsilata ilişkin muhasebe işlem
+fişlerinin dökümlerini Muhasebe Daire Başkanlığı tarafından bildirilecek menü üzerinden
+alarak imzalayıp, yevmiye dosyasına kaldıracaklardır.
+        11- Muhasebe birimleri, kendileri adına MOSİP Sisteminde günlük olarak
+gerçekleşen ve otomatik olarak emanet hesaplarına alınan tahsilatları, Muhasebe Daire
+Başkanlığı tarafından bildirilecek menüden izleyecek ve gelir kayıtlarını
+muhasebeleştirecektir.
+         12- Mutabakat işlemleri tamamlanmadan önce yapılan tahsilat, gelir tahakkuk
+birimleri ve muhasebe birimleri tarafından MOSİP Sistemi üzerinden izlenebilecektir: eğer
+gün içinde sağlık provizyonu verilmesi gerekiyorsa, muhasebe birimleri tarafından MOSİP
+Sisteminde görünen tahsilat işaretlenip, menü üzerindeki “İşlendi Olarak İşaretle” butonuna
+basılarak, tahsilat kaydı işlenebilecektir.
+        13-Tahsilat kaydı yapıldıktan sonra sağlık provizyonu MOSİP Sisteminden SPAS
+Sistemine bildirilecektir.
+
+III. 4/1-a KAPSAMINDA HİZMET BORÇLANMALARI
+
+       1- Ünitelerimizin 4/1-a Borçlanma işlemlerini yapan servisleri, bu işlemler
+yönünden gelir tahakkuk birimidir. Borçlanma işlemlerini 4/1-a Borçlanma Programına
+giren personel “tahakkuk birimi kullanıcısı”, bu kayıtlarını onaylayan kişiler ise “Gelir
+Tahakkuk Memuru”durlar. Gelir tahakkuk memurları onayladıkları kayıtlardan tahakkuk
+memuru sıfatı ile sorumludurlar.
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           5/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+        2- 5510 sayılı Kanunun 4/1-a maddesi kapsamında sigortalı sayılanların hizmet
+borçlanmaları 4/1-a Borçlanma Programından yapılmaktadır. Borçlanma talebinde
+bulunanların müracaatları alındıktan sonra, ilgili servis memurları tarafından 4/1-a
+Borçlanma Programına bilgi girişi yapılarak kaydedilecektir. Borçlanma işleminin kaydı
+sırasında, ilgili kişi tarafından daha önce Kurum hesaplarına yatırılıp, muhasebe birimi
+tarafından emanet hesaplara kaydedilen tutarlar on-line ve otomatik olarak MOSİP
+Sisteminden sorgulanarak veri girişinin yapıldığı ekranda “emanette bekleyen tutar”
+alanında gösterilecektir: Veri girişini yapan kullanıcı emanette görünen tutarın ilgili
+borçlanmaya mahsup edilecek tutarını ekrandaki ilgili alana girecek ve borçlanma kayıt
+işlemini gerçekleştirecektir. Daha sonra girilen kayda ilişkin 4/1-a Borçlanma
+Programından döküm alınacak ve yetkili amirin onayına sunulacaktır.
+        3-Yetkili amir, 4/1-a Borçlanma Programından alınan Başvuru Belgesini
+imzalayacak, aynı zamanda bu belgeye ilişkin kaydı 4/1-a Borçlanma Programından
+onaylayacaktır.
+        4- 4/1-a Borçlanma Programından onaylanan kayıtlar, MOSİP Sistemi ile 4/1-a
+Borçlanma Programı arasında elektronik ortamda sağlanan bağlantı üzerinden, onay anında
+MOSİP Sistemine otomatik olarak aktarılacaktır. Elektronik ortamda aktarılan bu kayıtlar,
+aynı zamanda bir gelir tahakkuk işlemi olduğundan, onay yapan görevliler “gelir tahakkuk
+memuru” sıfatıyla bu kayıtların müracaata ve ilgili mevzuatına uygunluğundan
+sorumludurlar. Bu nedenle elektronik ortamdaki kayıtların müracaata uygunluğunu dikkatli
+bir şekilde kontrol edilecektir.
+        5-Borçlanma işlemini gerçekleştiren servisler tarafından düzenlenecek tebligatlarda,
+ödemelerin kapsam dahilindeki bankalara yapılacağına dair ibarelere yer verilecektir.
+        6- 4/1-a Borçlanma Programında onaylanarak, MOSİP Sistemine aktarılan kayıtlar,
+belli aralıklarla MOSİP Sisteminde otomatik olarak muhasebeleştirilecektir. Bu muhasebe
+kayıtlarında borçlanma karşılığı prim alacakları 120- Gelir Tahakkukları hesabında
+gösterilecektir. 4/1-a Borçlanma Programında mahsup edilmesi işaretlenen emanet kayıtları
+ise aynı anda tahsilat olarak gösterilecektir. Muhasebe yetkilileri otomatik olarak oluşan bu
+muhasebe kayıtlarına ilişkin muhasebe işlem fişlerinin dökümlerini, Muhasebe Daire
+Başkanlığı tarafından bildirilecek menüden günlük olarak alacak, imzaladıktan sonra
+yevmiye dosyasına kaldıracaklardır.
+        7- Borçlanma primlerine ilişkin alacaklarımız bankacılık sistemi üzerinden on-line
+olarak tahsil edilecektir. Bankalar borçlanma primlerini, ilgilinin TC Kimlik Numarası ile
+MOSİP Sisteminden yapacakları borç sorgusu ile ilişkili olarak tahsil edeceklerdir.
+Bankalar tarafından TC Kimlik Numarası ile yapılacak borç sorgusunda, ilgili adına 4/1-a
+Borçlanma Programında yapılıp MOSİP Sistemine aktarılarak muhasebeleştirilen
+borçlanma kayıtlarından tebligat tarihi girilmiş olup da üzerinden 30 gün geçmemiş
+olanlarla, tebligat tarihi girilmemiş olanlar gösterilecektir. Tebligat tarihi girilmiş olup da
+üzerinden 30 gün geçmiş olan borçlanma kayıtları bankalara gösterilmeyecektir. Tebligat
+tarihi girilmiş olmasına rağmen 30 gün içinde tahsilatı yapılmamış olan borçlanma
+işlemleri, ünitelerimizin borçlanma servisleri tarafından 4/1-a Borçlanma Programında iptal
+edilecektir. İptal edilen kayıtlar yukarıda bahsedilen bağlantı üzerinden aynı şekilde MOSİP
+Sistemine aktarılacaktır.
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           6/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+        8- Borçlanma Primlerine ilişkin tahsilat, Merkezi Tahsilat Sistemi üzerinden
+gerçekleşecek ve merkez hesaplarına girecektir. Yapılan tahsilat, bankalarla mutabakat
+yapılıncaya kadar merkez hesaplarında bekleyecektir. Mutabakat gerçekleştikten sonra
+öncelikle Ödeme Muhasebe Biriminde sistem tarafından otomatik olarak
+muhasebeleştirilecektir.      Ödeme       Muhasebe      Biriminin    muhasebe      kayıtlarının
+gerçekleşmesini takiben otomatik olarak ilgili muhasebe birimlerinde günlük tahsilata
+ilişkin muhasebe kayıtları oluşacaktır. Bu muhasebe kayıtlarında borçlanma prim tahsilatı,
+tahsilat türü de belirtilerek emanet hesaplarında gösterilecektir. Muhasebe birimleri günlük
+tahsilata ilişkin muhasebe işlem fişlerinin dökümlerini Muhasebe Daire Başkanlığı
+tarafından bildirilecek menü üzerinden alarak imzalayıp, yevmiye dosyasına
+kaldıracaklardır.
+        9- Merkezi olarak tahsil edilerek ünite emanet hesaplarına kaydedilen tutarlar,
+MOSİP Sisteminde yapılan bir program vasıtasıyla ilgili tahakkuk kaydıyla
+ilişkilendirilerek ilgili hesaplarına gelir kaydedilecektir. Bu işlem muhasebe yetkilileri
+tarafından Muhasebe Daire Başkanlığı tarafından bildirilecek menüde yer alan form
+üzerindeki “tahsilatı muhasebeleştir” butonuna basılmak suretiyle yapılacaktır. Sistem
+tarafından borçlanma tahsilatı olarak kaydedilecek tutarlar borçlanma programına tebligat
+tarihi girilmiş olan kayıtlarla müracaat tarihi üzerinden 30 gün geçmemiş kayıtlardır. Bunun
+dışındaki borçlanma tahsilatı, ilgili kişiler adına emanet hesabında bekleyecektir.
+        10- Mutabakat işlemleri tamamlanmadan önce yapılan tahsilat, gelir tahakkuk
+birimleri ve muhasebe birimleri tarafından MOSİP Sistemi üzerinden izlenebilecektir: eğer
+gün içinde emeklilik işlemlerinin tamamlanması gerekçesi ile tahsilat kaydının
+gerçekleşmesi gerekiyorsa, muhasebe birimleri tarafından MOSİP Sisteminde görünen
+tahsilat işaretlenip, menü üzerindeki “İşlendi Olarak İşaretle” butonuna basılarak, tahsilat
+kaydı gerçekleştirilebilecektir.
+        11- Borçlanma primlerine ilişkin tahsilat kaydı yapıldığında ilgili hizmet tablosuna
+hizmet kayıtları MOSİP Sistemi tarafından işlenecektir.
+
+IV. TARIM VE ORMAN İŞLERİNDE ÇALIŞANLAR (5510/Ek madde 5), TİCARİ
+ARAÇ VE SANATÇILAR(5510/Ek madde 6), 30 GÜNDEN AZ PRİM ÖDEYENLER VE
+5/g YURTDIŞI İSTEĞE BAĞLI SİGORTA İŞLEMLERİ.
+
+        1- Ünitelerimizin Ek-5 ve Ek-6 isteğe bağlı sigorta işlemlerini yapan servisleri, bu
+işlemler yönünden gelir tahakkuk birimidir. İsteğe bağlı sigorta işlemlerini 4/1-a tescil
+Hizmet Programına giren personel “tahakkuk birimi kullanıcısı”, bu kayıtlarını onaylayan
+kişiler ise “Gelir Tahakkuk Memuru”durlar. Gelir tahakkuk memurları onayladıkları
+kayıtlardan tahakkuk memuru sıfatı ile sorumludurlar.
+        2- İlgili servis personeli, yapılan müracaatları 4/1-a Tescil Hizmet Programına
+girdikten sonra alınacak dökümü onaya yetkili olan amirin onayına sunacaktır. Onaya
+yetkili olan amir, kağıt ortamındaki müracaatı onayladıktan sonra aynı zamanda ilgili 4/1-a
+Tescil Hizmet Programında bu işlemi onaylayacaktır. Onaylanan tescil kayıtları MOSİP
+Sistemi ile sağlanan elektronik bağlantı üzerinden otomatik olarak MOSİP Sistemine
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           7/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+aktarılacaktır. Elektronik ortamda aktarılan kayıtlar gelir tahakkuk işlemidir ve bu kayıtları
+onaylayanlar bu kayıtlardan gelir tahakkuk memuru sıfatı ile sorumludur.
+        3- İlgililere yapılacak tebligatlarda ödemelerin, kapsam dahilindeki bankalara
+yapılacağına dair ibarelere yer verilecektir.
+        4- MOSİP Sistemine aktarılan tescil kayıtlarında beyan edilen kazanç tutarı
+üzerinden MOSİP Sistemi tarafından hesaplanacak prim alacaklarına ilişkin tahakkuk
+kayıtları, belirli aralıklarla otomatik olarak muhasebeleştirilecektir.
+        5- Her ayın ilk günü, daha önce MOSİP Sistemine aktarılmış olup da henüz
+sonlandırılmamış tescil kayıtları üzerinden hesaplanacak prim alacakları MOSİP Sisteminde
+bir önceki aya ait tahakkuk olarak, ilgili muhasebe birimi bazında otomatik
+muhasebeleştirilecektir.
+        6- 4/1-a isteğe bağlı primlere ilişkin alacaklarımız bankacılık sistemi üzerinden on-
+line olarak tahsil edilecektir. Bankalar 4/1-a isteğe bağlı primlerini, ilgilinin TC Kimlik
+Numarası ile MOSİP Sisteminden yapacakları borç sorgusu ile ilişkili olarak tahsil
+edeceklerdir.
+        7- 4/1-a isteğe bağlı primlerine ilişkin tahsilat, Merkezi Tahsilat Sistemi üzerinden
+gerçekleşecek ve merkez hesaplarına girecektir. Yapılan tahsilat, bankalarla mutabakat
+yapılıncaya kadar merkez hesaplarında bekleyecektir. Mutabakat gerçekleştikten sonra
+öncelikle Ödeme Muhasebe Biriminde sistem tarafından otomatik olarak
+muhasebeleştirilecektir.        Ödeme      Muhasebe     Biriminin      muhasebe   kayıtlarının
+gerçekleşmesini takiben otomatik olarak ilgili muhasebe birimlerinde günlük tahsilata
+ilişkin muhasebe kayıtları oluşacaktır. Bu muhasebe kayıtlarında borçlanma prim tahsilatı,
+tahsilat türü de belirtilerek emanet hesaplarında gösterilecektir. Muhasebe birimleri günlük
+tahsilata ilişkin muhasebe işlem fişlerinin dökümlerini Muhasebe Daire Başkanlığı
+tarafından bildirilecek menü üzerinden alarak imzalayıp, yevmiye dosyasına
+kaldıracaklardır.
+        8- Merkezi olarak tahsil edilerek ünite emanet hesaplarına kaydedilen tutarlar,
+MOSİP Sisteminde yapılan bir program vasıtasıyla ilgili tahakkuk kaydıyla
+ilişkilendirilerek ilgili hesaplarına gelir kaydedilecektir.
+        9- Mutabakat işlemleri tamamlanmadan önce yapılan tahsilat, gelir tahakkuk
+birimleri ve muhasebe birimleri tarafından MOSİP Sistemi üzerinden izlenebilecektir. Eğer
+gün içinde emeklilik işlemlerinin tamamlanması gerekçesi ile tahsilat kaydının
+gerçekleşmesi gerekiyorsa, muhasebe birimleri tarafından MOSİP Sisteminde görünen
+tahsilat işaretlenip, menü üzerindeki “İşlendi Olarak İşaretle” butonuna basılarak, tahsilat
+kaydı gerçekleştirilebilecektir.
+        10- 4/1-a isteğe bağlı primlerine ilişkin tahsilat kaydı yapıldığında ilgili hizmet
+tablosuna hizmet kayıtları MOSİP Sistemi tarafından işlenecektir.
+
+
+Ç- KAMU ZARARLARINA İLİŞKİN ALACAKLAR İLE YERSİZ ÖDEMELERE
+İLİŞKİN ALACAKLARIN TAHSİLATI
+      1-Emekli aylıklarına ilişkin yersiz ödemelerle, kamuya verilen zararlar nedeniyle
+doğan Kurum alacakları her ilde kurulacak bir Takip Birimi eliyle takip edilecektir.
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           8/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+        2- Fazla ve yersiz ödemelere ilişkin Kurum alacakları ilgili harcama birimi
+tarafından MOSİP Sisteminde, Kişilerden Alacaklar menüsündeki Borç Girişi formundan
+MOSİP Sistemine kaydedilecektir. Bu kayıtlara ilişkin MOSİP Sisteminden alınacak borç
+döküm belgesi, ildeki Takip Birimine gönderilecektir.
+        3- Takip Birimi, gelen borç döküm belgelerini MOSİP Sisteminden sorgulayacak ve
+sistem üzerinden “Alacak Dosyası Oluştur” butonuna basarak, bir alacak dosyası
+oluşturacaktır. Aynı form üzerindeki “Muhasebeye Gönder” butonuna basarak,
+muhasebeleşmesi için ilgili muhasebe birimine gönderecektir.
+        4- Muhasebe birimleri söz konusu kayıtları MOSİP Sistemi üzerinden
+muhasebeleştireceklerdir.
+        5- Fazla veya yersiz ödemelere ilişkin Kurum alacakları bankacılık sistemi
+üzerinden on-line olarak tahsil edilecektir. Bankalar Kurum alacaklarını, ilgilinin TC
+Kimlik Numarası ile MOSİP Sisteminden yapacakları borç sorgusu ile ilişkili olarak tahsil
+edeceklerdir.
+        6- Kurum alacaklarına ilişkin tahsilat, Merkezi Tahsilat Sistemi üzerinden
+gerçekleşecek ve merkez hesaplarına girecektir. Yapılan tahsilat, bankalarla mutabakat
+yapılıncaya kadar merkez hesaplarında bekleyecektir. Mutabakat gerçekleştikten sonra
+öncelikle Ödeme Muhasebe Biriminde sistem tarafından otomatik olarak
+muhasebeleştirilecektir.      Ödeme      Muhasebe      Biriminin      muhasebe   kayıtlarının
+gerçekleşmesini takiben otomatik olarak ilgili muhasebe birimlerinde günlük tahsilata
+ilişkin muhasebe kayıtları oluşacaktır. Bu muhasebe kayıtlarında Kurum alacakları tahsilatı,
+tahsilat türü de belirtilerek emanet hesaplarında gösterilecektir. Muhasebe birimleri günlük
+tahsilata ilişkin muhasebe işlem fişlerinin dökümlerini Muhasebe Daire Başkanlığı
+tarafından bildirilecek menü üzerinden alarak imzalayıp, yevmiye dosyasına
+kaldıracaklardır.
+        7- Merkezi olarak tahsil edilerek ünite emanet hesaplarına kaydedilen tutarlar,
+MOSİP Sisteminde yapılan bir program vasıtasıyla ilgili tahakkuk kaydıyla
+ilişkilendirilerek ilgili hesaplarına gelir kaydedilecektir. Bu işlem muhasebe yetkilileri
+tarafından Muhasebe Daire Başkanlığı tarafından bildirilecek menüde yer alan form
+üzerindeki “tahsilatı muhasebeleştir” butonuna basılmak suretiyle yapılacaktır.
+        8- Mutabakat işlemleri tamamlanmadan önce yapılan tahsilat, takip birimleri ve
+muhasebe birimleri tarafından MOSİP Sistemi üzerinden izlenebilecektir: Eğer gün içinde
+acil durumlar sebebiyle tahsilat kaydının gerçekleşmesi gerekiyorsa, muhasebe birimleri
+tarafından MOSİP Sisteminde görünen tahsilat işaretlenip, menü üzerindeki “İşlendi Olarak
+İşaretle” butonuna basılarak, tahsilat kaydı gerçekleştirilebilecektir.
+
+D- NAKİT TEMİNATLAR
+       1- Kurumumuz adına yatırılması gereken nakit teminatlar bankalar aracılığıyla
+Merkezi Tahsilat Sistemi üzerinden on-line olarak tahsil edilecektir. Teminat tahsilatı, ilgili
+kişinin TC Kimlik veya Vergi Numarası bankalar tarafından MOSİP Sisteminde
+doğrulandıktan sonra ilgili ünite ve tahsilat türü belirlenmek suretiyle yapılacaktır.
+       2- Tahsilatın muhasebeleştirme işlemleri yukarıda anlatıldığı gibi yürütülecektir.
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                           9/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+E- FATURALI ÖDEMELER ve EK KARŞILIKLARA İLİŞKİN TAHSİLATLAR
+
+       1- Faturalı ödemelere ilişkin Kurum alacaklarının tahsilatı, emekliler veya hak
+sahiplerine yapılan ödemeler sırasında, MOSİP Sisteminde ilgili daire veya kurum adına
+oluşturulan tahakkuk kayıtları üzerinden gerçekleştirilecektir.
+       2- Ek Karşılıklara ilişkin tahakkuk işlemleri MOSİP Sisteminde
+gerçekleştirilecektir.
+       3- MOSİP Sisteminde gerçekleşen faturalı ödemeler ve ek karşılıklara ilişkin
+tahakkuk kayıtları ilgili daire veya kurumlara tebliğ edilecektir; yapılan tebligatlarda
+ödemelerin kapsama dahil bankalar aracılığıyla yapılacağına dair ibarelere yer verilecektir.
+       4- Bankalar bu tür tahsilatı, ilgili daire veya kurumun Kurum Kodu ile MOSİP
+Sisteminden yapacakları borç sorgulamasına dayalı olarak gerçekleştireceklerdir.
+       5- Muhasebe işlemleri diğer maddelerde belirtildiği gibi yapılacaktır.
+
+F- KİRA TAHAKKUK VE TAHSİLATI
+
+        1- Kurumuzun taşınır veya taşınmaz mallarının kiraya verilmesi işlemlerini yapan
+birimleri, bu işlemler yönünden gelir tahakkuk birimidir. Kira sözleşme bilgilerini MOSİP
+Sisteme girenler “Gelir tahakkuk birim kullanıcısı”, bu kayıtları onaylayan kişiler ise “Gelir
+Tahakkuk Memuru”durlar. Gelir tahakkuk memurları onayladıkları kayıtlardan tahakkuk
+memuru sıfatı ile sorumludurlar.
+        2- Kira gelirlerinin tahakkuku için kira sözleşme bilgileri, gelir tahakkuk birimi
+kullanıcıları tarafından MOSİP Sisteminde “SGK İşlemleri” menüsündeki “Kira İşlemleri”
+formundan sisteme girilecektir. Bu kayıtlar onaya yetkili kişi tarafından onaylandıktan
+sonra, aynı kişiler tarafından form üzerindeki “Muhasebeye Gönder” butonuna basılarak
+muhasebe birimine bildirilecektir.
+        3- Muhasebe yetkilileri Muhasebe Daire Başkanlığı tarafından bildirilecek menüden
+kira tahakkuk kayıtlarını takip edecek ve muhasebeleştireceklerdir. Kira geliri tahakkukları
+120-Gelirlerden Alacaklar Hesabında kaydedilerek gösterilecektir.
+        4- Kira gelirleri bankalar tarafından MOSİP Sistemindeki tahakkuk kayıtları
+sorgulanarak otomatik olarak muhasebeleştirilecektir. Kira tahakkukları ilgilinin TC Kimlik
+Numarası veya Vergi Numarası ile sorgulanacaktır.
+        5- On-Line olarak gerçekleşen kira tahsilatı öncelikle merkez hesaplarında
+bekleyecektir. Bankalarla yapılacak günlük mutabakat işlemi neticesinde kira tahsilatı önce
+Ödeme Muhasebe Biriminde, müteakiben ve otomatik olarak ilgili muhasebe birimlerinde
+muhasebeleştirilecektir. Muhasebe işlemleri önceki bölümlerde anlatıldığı gibi
+gerçekleştirilecektir.
+
+
+G- DİĞER TAHSİLATLAR
+
+      1- Tahakkuka bağlı olmayan tahsilatın tamamı ilgililerin TC Kimlik Numaraları
+veya Vergi Numarası ile gerçekleştirilecektir.
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                          10/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+         2- Bankalar tarafından yukarıda sayılanlar dışında yapılan tahsilatta, tahsilatın türü
+ile ilgili ünitemize ait bilgilere yer verilecektir.
+         3- Diğer tahsilat, gelir tahakkuk birimleri ve muhasebe birimleri tarafından MOSİP
+Sisteminde izlenecek, müracaat veya diğer kanallarla başka birim adına tahsil edildiği
+anlaşılan tutarlar MOSİP Sistemi üzerinden adına tahsilat gerçekleşen birimden istenecektir.
+
+Ğ- SON HÜKÜMLER
+
+        1- On-line olarak tahsil edilen tutarlardan ilgilisine iade edilmesi gereken tutarlar,
+MOSİP Sisteminde bu tutarlara ilişkin tahsilat kaydı banka, tahsilat tarihi ve banka dekont
+numarası ile sorgulanarak bulunduktan sonra, Muhasebe Daire Başkanlığı tarafından
+bildirilecek menüdeki form üzerinden gerçekleştirilecektir.
+         2- Sistem devreye alınmadan önceki tahsilatın iadesi, ilgili tutar emanet
+hesaplarındaysa bu hesaplardan iade şeklinde yapılacaktır. İade edilecek tutar daha önce
+gelir kaydedilmişse, harcama veya gelir tahakkuk birimleri tarafından, gelirlerden red ve
+iadeye ilişkin MOSİP Sisteminden düzenlenecek                 bir muhasebe işlem fişi ile
+gerçekleştirilecektir.
+        3- Merkezi Tahsilat Sistemi 01 Ocak 2012 tarihinden itibaren öncelikle çalışmaları
+tamamlanan kamu bankaları üzerinden uygulamaya açılacak olup, bilahare prim tahsilat
+protokolü imzalamış diğer bankalarda da çalışmaların tamamlanmasını müteakip uygulama
+başlatılacaktır. Bu sebeple muhasebe birimleri tarafından açılmış olup halen kullanılmakta
+olan off-line banka hesaplarının tümü en geç 31 Ocak 2012 tarihi itibariyle kapatılacak ve
+bu hesapların bakiyeleri aynı gün akşamı Ödeme Muhasebe Biriminin cari hesaplarına
+aktarılacaktır.Vezne tahsilatı bu uygulama ile paralel olarak Ocak 2012 ayı sonuna kadar
+yapılacak olup, 01 Şubat 2012 tarihinde vezneler tüm iller de kapatılacaktır.
+        4- Sistemin sağlıklı bir şekilde devreye alınabilmesi için, vatandaşların
+bilgilendirilmesi amacıyla ünitelerimiz gerekli tedbirleri alacak, mümkün olan her vasıtayla
+vatandaş bilgilendirilecektir.
+        5- Yukarıda bahsedilen tahsilat işlemleri bankalarla imzalanan prim tahsilat
+protokolleri çerçevesinde yürütülecektir.
+
+       Bilgi edinilmesini ve gereği hususunda hassasiyet gösterilmesini önemle rica
+ederim.
+
+
+
+
+                                                                                 Fatih ACAR
+                                                                                Kurum Başkanı
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                          11/12
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+
+
+DAĞITIM:
+Gereği :                                                      Bilgi    :
+Merkez ve Taşra Teşkilatına                                  Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+…./12/2011 Muhasebeci                    : V.GÜLDÜRMEZ
+…./12/2011 Daire Bşk                     : M.KARASU
+…./12/2011 Strateji Gel. Bşk            : A.AÇIKGÖZ
+…./12/2011 Kurum Bşk. Yrd.              : Y.GÖKALP
+
+Koordinasyon:
+...../12/2011 Aktüerya ve Fon Yön.D.Bşk. : İ. SEVİNÇ
+...../12/2011 Hiz.Sun.Genel Müdür V      : A. ONAR
+…./12/2011 Primler Genel Müdür V         : M.KURUCA
+
+
+
+
+Adres: Ziyabey Cad. No:6 06520 Balgat/ANKARA               Ayrıntılı bilgi için irtibat: Daire Bşk. Mahmut KARASU
+Tel: (312) 207 85 47 Faks: (312) 207 81 46
+eposta: mkarasu@sgk.gov.tr elektronik ağ: www.sgk.gov.tr
+
+                                                                                                          12/12
+

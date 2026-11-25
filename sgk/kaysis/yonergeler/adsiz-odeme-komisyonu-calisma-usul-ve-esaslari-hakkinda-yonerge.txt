@@ -1,0 +1,1405 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/24564
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 
+ADI: Ödeme Komisyonu Çalışma Usul ve Esasları Hakkında Yönerge
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dfd8e0a4576042a9569f613f12a3373df6a515125ab9576921abfa1cd7db7e07
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+ÖDEME KOMİSYONUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
+
+         Amaç ve dayanak
+         MADDE 1- (1) Bu Yönergenin amacı, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 63 üncü ve 72 nci maddelerine dayanılarak oluşturulan komisyonların çalışma
+usul ve esaslarını belirlemektir.
+         Tanımlar
+         MADDE 2- (1) Bu Yönergede geçen;
+         a) Başkanlık: Sosyal Güvenlik Kurumu Başkanlığını,
+         b) Bilimsel Komisyonlar: Görüş ve önerilerine başvurulmak üzere, akademisyen ve/veya
+ilgili dal uzmanlarından Ödeme Komisyonu Başkanının onayı ile oluşturulan komisyonları,
+         c) Birim fiyat: Bir ilacın kamu fiyatının ambalaj miktarına bölünmesiyle oluşan fiyatı,
+         ç) Dağıtım belgesi: İlacın yeterli sayıda piyasaya verildiğini gösterir depo satışı fatura
+örneğini, (Kılavuza göre başvuru dosyasında Tahmini Bütçe Etkisi tablosunu sunmakla yükümlü
+olan ilaçlar için, bu tabloda ilacı kullanması muhtemel hasta sayısına ait birinci yıl için belirtilen
+sayının 1 (bir) aya denk gelecek kadarını gösterir depo satışı fatura örneğini,)
+         d) Dönem: Komisyonların bir yıllık çalışma takvimi içerisinde yılda üç defa gerçekleştirilen
+çalışma sürelerini,
+         e) Eşdeğer bant aralığı: Ödeme lisesinde yer alan eşdeğer ilaç grubunun en ucuz birim fiyata
+sahip ilacın %10 fazlasına kadar olan ödeme aralığını,
+         f) Gizlilik ve etik kurallar belgesi: Komisyonlara katılacak asil, yedek ve gözlemci üyeler ile
+sekreterya görevini yürüten personel tarafından imzalanacak belgeyi,
+         g) Kamu fiyatı: Bir ilacın perakende satış fiyatına kamu kurum iskontosu uygulandıktan
+sonra oluşan fiyatı,
+         ğ) Kılavuz: Komisyonlara yapılacak başvurularda izlenecek yola ilişkin Yönerge ekini,
+         h) Kurum: Sosyal Güvenlik Kurumunu,
+         ı) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+         i) Liste: SUT ekinde ve/veya Kurum resmi internet sitesinde yayımlanan ilaç ile ilgili
+listeleri,
+         j) Ödeme Komisyonu: Kurumca finansmanı sağlanacak sağlık hizmetleri ile bu hizmetlere
+ilişkin ödeme usul ve esaslarının belirlenmesi hususunda Kurum Başkanlığının koordinatörlüğünde
+oluşturulan komisyonu,
+
+                                                                                                      1
+        k) Sağlık Hizmeti / İlaç: Bir hastalığı tedavi etmek ve/veya önlemek, bir teşhis yapmak veya
+bir fizyolojik fonksiyonu düzeltmek, düzenlemek veya değiştirmek amacıyla insana uygulanan
+doğal ve/veya sentetik kaynaklı etkin madde veya maddeler kombinasyonu olan beşeri tıbbi
+ürünlerle beşeri ilaçları,
+        l) Sağlık Hizmetleri Fiyatlandırma Komisyonu (SHFK): 5510 sayılı Kanunun 72 nci
+maddesi gereğince oluşturulan komisyonu,
+        m) Sekreterya: Bu Yönergede yer alan komisyonların görev alanına giren konularla
+ilgili sekreterya hizmetini yürüten İlaç ve Eczacılık Daire Başkanlığının ilgili birimlerini,
+        n) SUT: Kurum Sağlık Uygulama Tebliğini,
+        o) Tavana esas ilaç: Eşdeğer bant aralığının belirlenmesini sağlayan en ucuz birim fiyata
+sahip ilacı,
+        ö) Tıbbi ve Ekonomik Değerlendirme Komisyonu (TEDK): İlaçlarla ilgili olarak yapılan
+başvuruları inceleyip görüş ve/veya karar veren komisyonu,
+        ifade eder.
+        Ödeme komisyonuna katılacak temsilciler
+        MADDE 3-
+        1) Ödeme Komisyonu; Genel Sağlık Sigortası Genel Müdürü başkanlığında, Kurum
+Başkanının görevlendireceği Genel Sağlık Sigortası Genel Müdürlüğü bünyesinde görevli biri İlaç
+ve Eczacılık Daire Başkanı olmak üzere üç daire başkanı, Maliye Bakanlığının ve Sağlık
+Bakanlığının görevlendireceği en az daire başkanı düzeyinde ikişer temsilci ile Kalkınma Bakanlığı
+ve Hazine Müsteşarlığının görevlendireceği en az daire başkanı düzeyinde birer temsilcinin
+katılımıyla 10 (on) asil üyeden oluşur.
+        2) Komisyon Başkanının katılamayacağı toplantılara başkanlık etmek üzere görüşülen konu
+ile ilgili Genel Sağlık Sigortası Genel Müdür Yardımcısı Komisyon Başkanı tarafından
+görevlendirilir. Komisyon Başkanının katılamayacağı toplantılara genel müdür yardımcıları aynı
+yetkilerle başkanlık eder.
+        3) İlgili kurumlarca, Komisyon Başkanı hariç olmak üzere, Ödeme Komisyonundaki asil üye
+sayısı kadar en az şube müdürü veya konu ile ilgili uzman düzeyinde yedek üye belirlenir.
+Komisyon üyelerinin herhangi bir nedenle görevinden ayrılması durumunda komisyon üyelikleri
+için yeni görevlendirilen üyeler Kuruma bildirilir. Komisyon üyelerinin geçici görev, izin, hastalık
+
+
+
+                                                                                                   2
+gibi nedenlerle görevleri başında bulunamadıkları durumlarda aynı yetkilerle yedek üyeler
+toplantılara katılır. Üyeler dışındaki kişiler toplantılara ancak davet edilmeleri halinde katılabilirler.
+       4) Komisyon asil ve yedek üyelerinin isimlerinin yer aldığı liste Başkanlık onayının
+ardından Kurum resmi internet sitesinde yayımlanır ve değişiklik durumunda güncellenir.
+       5) Komisyona katılacak asil ve yedek üyeler gizlilik ve etik kurallar belgesini imzalayarak
+görevlerine başlarlar.
+
+
+      Ödeme Komisyonu ve Komisyon Başkanının görevleri
+      MADDE 4 - (1) Ödeme Komisyonunun görevleri şunlardır:
+       a) Kurumca finansmanı sağlanacak sağlık hizmetleri ile bu hizmetlere ilişkin ödeme usul ve
+esaslarının belirlenmesine esas olarak Tıbbi ve Ekonomik Değerlendirme Komisyonu tarafından
+hazırlanan görüşleri değerlendirerek karara bağlamak,
+       b) Temininde güçlük yaşanan ve hayati önem arzeden ya da toplum sağlığını ilgilendiren
+sağlık hizmetleri hakkında doğrudan karar almak,
+       c) Listelere ilave edilmesine karar verilen, listelerde mevcut olan ve şahsi tedavi için yurt
+dışından temin edilen ilaçların katılım payından muafiyeti konusunu değerlendirerek karara
+bağlamak,
+       ç) Listeden çıkarılması gereken sağlık hizmetleri ile ilgili karar almak,
+       d) Çalışmalar sırasında gerekli görülerek gündem dışı gündeme alınan konuları
+değerlendirerek karara bağlamak.
+      (2) Ödeme Komisyonu Başkanının görevleri şunlardır:
+       a) Komisyonun çalışmalarını koordine etmek ve gerektiğinde Ödeme Komisyonunu
+olağanüstü toplantıya çağırmak,
+       b) Kurum içinden veya dışından görevlendirilecek bilimsel komisyon üyelerini belirlemek,
+       c) Aşağıda tanımlanan başvurularla ilgili kararları onaylamak,
+             İlacın aynı eşdeğer grubunda yer alan ilaçlarla ambalaj miktarının aynı veya daha
+düşük, birim fiyatının da eşdeğer bant aralığında olması halinde, bu ilaç başvurularının
+değerlendirmeye alınarak karara bağlanması ve alınan kararların aynı dönemdeki diğer başvuruların
+sonuçlandırılmasının     beklenmeden      duyurulması,     (Değerlendirme,     TEDK’nın      her    dönem
+çalışmasında öncelikle ve değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır)
+
+
+
+                                                                                                             3
+            Aynı veya daha düşük ambalaj miktarında olmak kaydıyla; eşdeğer grubu bulunmayan
+listedeki ilaç ile aynı etken maddeyi aynı miktarda içeren, birim fiyatı listede mevcut ilaç ile
+oluşacak eşdeğer bant aralığında olan imal statüsündeki ilaç başvurularının değerlendirmeye
+alınarak   karara   bağlanması     ve   alınan    kararların   aynı   dönemdeki   diğer   başvuruların
+sonuçlandırılması beklenmeden duyurulması, (Değerlendirme, TEDK’nın her dönem çalışmasında
+öncelikle ve değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır)
+            “İlaç başvuruları ile ilgili sekreterya tarafından yürütülecek işlemler” başlıklı maddede
+yer alan işlemlerin yapılması,
+       ç) TEDK tarafından imal ilaç başvuruları için Ödeme Komisyonunun olağanüstü
+toplantısında kararlaştırılması yönünde oluşturulan görüşleri değerlendirerek Ödeme Komisyonunu
+olağanüstü toplantıya çağırmak,
+       d) Ödeme Komisyonu tarafından alınan nihai kararları Başkanlık onayına sunmak.
+
+
+      Ödeme Komisyonunun çalışma esasları
+      MADDE 5-
+       a) Yılda en az üç defa olağan, Komisyon Başkanının daveti üzerine ise olağanüstü toplanır.
+Her takvim yılının ilk toplantısı Komisyon Başkanının daveti üzerine gerçekleşir ve bir yıllık
+çalışma takvimi belirlenir. Belirlenen çalışma takvimi Kurum resmi internet sitesinde yayımlanır.
+       b) Gündemde yer alacak konular Komisyon Başkanı tarafından toplantı gününden en az bir
+hafta önce üyelere bildirilir. Olağanüstü toplantı durumunda gündem, toplantı gün ve saati en geç
+toplantı tarihinden 3 (üç) gün önce üyelere bildirilir.
+       c) Çalışmalar, toplantı gündeminde görüşülecek konular sonuçlandırılıncaya kadar devam
+eder. Her toplantıda gündemdeki konular, yapılan değerlendirmeler ve alınan kararlar ile gerekçeleri
+ayrıntılı olarak düzenlenen tutanakta belirtilir. Toplantılar sonuçlandığında alınan kararlara ait
+tutanak komisyon üyeleri tarafından imzalanır.
+       ç) Çalışmalar tamamlandıktan sonra alınan kararlar, gerekçeleri ile birlikte en geç 7 (yedi) iş
+günü içinde Başkanlığa gönderilir. Başkanlık, Ödeme Komisyonunca alınan kararları değerlendirir.
+       d) Kurum Başkanı tarafından uygun görülen kararlar, gereği yapılmak üzere, uygun
+görülmeyen kararlar ise tekrar değerlendirilmek üzere Ödeme Komisyonu Başkanına gönderilir.
+Tekrar incelenmek üzere iade edilen kararlar, komisyonun ilk olağan toplantısında değerlendirilerek
+karara bağlanır.
+
+
+                                                                                                     4
+        e) Başvurulardan komisyonca kabul edilen ve Başkanlıkça onaylanan kararlar onayı
+müteakiben Kurum tarafından yürürlük tarihi belirtilerek yayımlanır. Kabul edilmeyen veya
+değerlendirme süreci devam eden başvurular, başvuru sahibine Başkanlık onay tarihinden itibaren 10
+(on) iş günü içerisinde gerekçesi ile birlikte ilgili sekreterya tarafından bildirilir.
+        f) Toplantıya tüm temsilcilerin katılımı esastır. İlgili kurumlar üyelerin katılımını sağlamakla
+yükümlüdürler. Komisyon en az üye tam sayısının salt çoğunluğuyla toplanır ve en az üye tam
+sayısının salt çoğunluğu ile karar alır. Toplantılarda çekimser oy kullanılamaz. Oyların eşitliği
+halinde Komisyon Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Verilen karara
+katılmayan üye, katılmama nedenini yazılı olarak karar tutanağında belirtir.
+        g) Komisyon, başvuru yapılan konular ile ilgili her türlü ilave bilgi ve belgelerin yazılı
+ve/veya sözlü olarak sunulmasını talep edebilir.
+        ğ) Komisyon, başvuru yapılan konular ile ilgili alternatif ödeme modellerini başvuru
+sahiplerinden talep edebilir.
+        h) Komisyon; ihtiyaç duyulan ilaç/ilaç grupları ile ilgili mevcut alternatiflerine göre
+getireceği klinik kazanç, tedavi üstünlükleri ve finans modellerinin belirlenmesi amacıyla Komisyon
+tarafından belirlenecek üniversite hastaneleri ile eğitim ve araştırma hastanelerinde bu kapsamda
+çalışma talep edebilir, çalışmaların sonucu Komisyon tarafından değerlendirilir.
+        Tıbbi ve Ekonomik Değerlendirme Komisyonuna katılacak temsilciler
+        MADDE 6-
+    (1) Tıbbi ve Ekonomik Değerlendirme Komisyonu (TEDK), Kurum İlaç ve Eczacılık Daire
+Başkanı başkanlığında;
+            Kurumu temsilen, Komisyon Başkanı dahil olmak üzere Kurum Başkanının onayı ile
+görevlendirilecek altı üye,
+            Sağlık Bakanlığını temsilen ilgili kurum tarafından belirlenmiş iki üye,
+            Kalkınma Bakanlığı, Hazine Müşteşarlığı ve Maliye Bakanlığını temsilen en az şube
+müdürü veya uzman düzeyinde ilgili kurumlar tarafından belirlenmiş birer üye,
+            Akademisyenler arasından Başkanlıkça biri tabip olmak üzere belirlenecek iki üye,
+            İlaç Endüstrisi İşverenleri Sendikası, Türkiye İlaç Sanayi Derneği, Araştırmacı İlaç
+Firmaları Derneği ve Gelişimci İlaç Firmaları Derneğini temsilen ilgili kuruluşlar tarafından
+belirlenmiş birer gözlemci üye, olmak üzere 13 (on üç) asil ve 4 (dört) gözlemci üyeden oluşur.
+Komisyon Başkanı hariç olmak üzere üye sayısı kadar da yedek üye belirlenir.
+
+                                                                                                      5
+   (2) Komisyon Başkanının geçici görev, izin, hastalık izni gibi nedenlerle görevi başında
+bulunamadığı durumlarda toplantılara başkanlık etmek üzere, Komisyon Başkanı tarafından
+Kurumu temsilen katılan üyeler arasından bir üye görevlendirilir. Komisyon Başkanı tarafından
+toplantılara başkanlık etmek üzere görevlendirilen üye Komisyon Başkanının katılamayacağı
+toplantılara aynı yetki ile başkanlık eder.
+   (3) Komisyon üyelerinin herhangi bir nedenle görevinden ayrılması durumunda, komisyon
+üyelikleri için yeni görevlendirilen üyeler Kuruma bildirilir. Komisyon üyelerinin geçici görev, izin,
+hastalık gibi nedenlerle görevleri başında bulunamadıkları durumlarda aynı yetkilerle yedek üyeler
+toplantılara katılır. Kurumu temsilen katılan üyelerden birinin komisyona başkanlık etmek üzere
+görevlendirilmesi halinde yerine yedek üye toplantılara katılır. Üyeler dışındaki kişiler toplantılara
+ancak davet edilmeleri halinde katılabilirler.
+   (4) Komisyon, gerektiğinde görüşlerine başvurmak üzere gerçek/tüzel kişileri toplantıya davet
+edebilir veya bunlardan yazılı görüş isteyebilir.
+   (5) Komisyonunun sekreterya hizmetleri, Genel Sağlık Sigortası Genel Müdürlüğü İlaç ve
+Eczacılık Daire Başkanlığı bünyesindeki ilgili birimler tarafından yürütülür.
+   (6) Komisyonun asil, yedek ve gözlemci üyelerinin isimlerinin yer aldığı liste, Başkanlık
+onayının ardından Kurum resmi internet sitesinde yayımlanır ve değişiklik durumunda güncellenir.
+   (7) Komisyona katılacak asil, yedek ve gözlemci üyeler gizlilik ve etik kurallar belgesini
+imzalayarak görevlerine başlarlar.
+
+
+       MADDE 7- (1) Tıbbi ve Ekonomik Değerlendirme Komisyonu Başkanının görevleri
+şunlardır:
+       a) Komisyonun çalışmalarını koordine etmek,
+       b) Bilimsel komisyon çalışmalarını düzenlemek,
+       c) Komisyon tarafından oluşturulan görüşlerin Ödeme Komisyonuna iletilmesini sağlamak,
+       d) Komisyon tarafından imal ilaç başvuruları için Ödeme Komisyonunun olağanüstü
+toplantısında kararlaştırılması yönünde oluşturulan görüşleri, Ödeme Komisyonu başkanına iletmek.
+
+
+       Tıbbi ve Ekonomik Değerlendirme Komisyonunun görevlerine ilişkin hükümler
+       MADDE 8-
+       a) Başvuru dosyası ile sunulan literatür ve verileri değerlendirmek,
+
+
+                                                                                                    6
+       b) Listede yer alan veya listeye alınma talebi bulunan ilaçlar ile ilgili klinik ve teknik veriler
+ile ekonomik ve mali değerlendirmeleri inceleyerek, gerektiğinde bilimsel komisyon ve gerçek/tüzel
+kişilerden gelen değerlendirmeleri de dikkate alarak görüş oluşturup Ödeme Komisyonuna sunmak,
+       c) Komisyonun karara bağlayarak, Ödeme Komisyonu Başkanının onayı ile Kurum resmi
+internet sitesinde duyurulan başvurular dışındaki başvurulardan, öncelikle imal ilaç başvurularını
+değerlendirmek, aynı dönemdeki diğer başvuruların sonuçlandırılması beklenilmeden yayımlanması
+gerekli görülen imal ilaç başvuruları için belirleme yaparak, Ödeme Komisyonunun olağanüstü
+toplantısında kararlaştırılması yönünde görüş oluşturmak,
+       ç) Kurumca finansmanı sağlanan ilaçların pazar payları ile bütçe üzerindeki etkileri hakkında
+hazırlanan raporları klinik ve teknik veriler ile ekonomik ve mali değerlendirmeleri inceleyerek,
+gerektiğinde bilimsel komisyon görüşlerini de dikkate alarak, görüş oluşturup Ödeme Komisyonuna
+sunmak,
+       d) İlgili kurum ve kuruluşların veya şahısların başvuruları ile ilgili yapılacak düzenlemelere
+ilişkin önerileri değerlendirmek ve görüş oluşturup Ödeme Komisyonuna sunmak,
+       e) Listeden çıkarılmak üzere; firma başvurularını (Ruhsat iptali/ruhsat arkası şerhine
+istinaden yapılanlar hariç), Kurum tespitlerini, Sağlık Bakanlığı’nın veya ilgili kurum ve
+kuruluşların başvurularını değerlendirmek ve Ödeme Komisyonuna sunmak,
+       f) Eşdeğer ilaç uygulaması kapsamında ilaç grupları ile ilgili yapılan analizleri
+değerlendirerek eşdeğer gruplarında yapılması gereken düzenlemeleri rapor halinde Ödeme
+Komisyonuna sunmak,
+       g) Listede yer alan ilaçların referans fiyattaki değişikliklerine istinaden veya firma talebine
+ilişkin iskonto azalmalarını Sağlık Hizmetleri Fiyatlandırma Komisyonunca devredilen yetki
+çerçevesinde değerlendirmek, Ödeme Komisyonuna sunmak,
+       ğ) Listeye ilave edilmesine karar verilen, listede mevcut olan ve şahsi tedavi için yurt
+dışından temin edilen ilaçların katılım payından muafiyeti konusunu değerlendirerek Ödeme
+Komisyonuna sunmak,
+       h) İlacın, aynı eşdeğer grubunda yer alan ilaçlarla ambalaj miktarının aynı veya daha düşük
+olması, birim fiyatının da eşdeğer bant aralığında olması halinde, bu ilaç başvurularını
+değerlendirmeye alarak karara bağlamak ve alınan kararları aynı dönemdeki diğer başvuruların
+sonuçlandırılmasını beklemeden Ödeme Komisyonu Başkanının onayı ile Kurum resmi internet
+
+
+
+                                                                                                       7
+sitesinde duyurmak, (Değerlendirme, TEDK’nın her dönem çalışmasında öncelikle ve
+değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır)
+        ı) Aynı veya daha düşük ambalaj miktarında olmak kaydıyla; eşdeğer grubu bulunmayan
+listedeki ilaç ile aynı etken maddeyi aynı miktarda içeren, birim fiyatı listede mevcut ilaç ile
+oluşacak eşdeğer bant aralığında olan imal statüsündeki ilaç başvurularını değerlendirmeye alarak
+karara bağlamak ve alınan kararları aynı dönemdeki diğer başvuruların sonuçlandırılmasını
+beklemeden Ödeme Komisyonu Başkanının onayı ile Kurum resmi internet sitesinde duyurmak,
+(Değerlendirme, TEDK’nın her dönem çalışmasında öncelikle ve değerlendirme tarihindeki ilaç
+fiyatları esas alınarak yapılır)
+        i) Başvuru sırasında istenilecek bilgi ve belgelerin standartlarının belirlenmesini, bunlara
+ilişkin formların geliştirilmesini ve yenilenmesini sağlamak,
+        j) İlaçların reçetelenmesine ve ödenmesine ilişkin kuralların belirlenmesi konusunda görüş
+oluşturarak Ödeme Komisyonuna sunmak,
+        k) Listede mevcut ürünlerin prospektüs / KÜB-KT ve / veya kullanım değişikliklerine ilişkin
+başvuruları ile ilgili olarak reçeteleme ve ödeme kurallarına ilişkin görüşleri Ödeme Komisyonuna
+sunmak,
+
+
+        Tıbbi ve Ekonomik Değerlendirme Komisyonunun çalışma esasları
+        MADDE 9-
+        a) Komisyon başkanının daveti üzerine toplanır. Çalışmaları, toplantı gündeminde
+görüşülecek konular sonuçlandırılıncaya kadar devam eder. Kurumca yayımlanan başvuru tarihleri
+içerisinde, kılavuza uygun olarak yapılmış veya ilgili sekreterya tarafından eksiklikleri tamamlatılmış
+başvuru dosyaları komisyon gündemine alınır ve sonuçlandırılır. Her toplantıda gündemdeki konular,
+yapılan değerlendirmeler ve alınan kararlar ile gerekçeleri ayrıntılı olarak tutanak altına alınır ve
+imzalanır. Çalışmalar sonunda hazırlanan tutanak, Ödeme Komisyonu toplantısından en az 5 (beş) iş
+günü önce Ödeme Komisyonu Başkanına teslim edilir.
+        b) Halk sağlığını yakından ilgilendiren ve acil tedbir alınmasını gerektiren başvurular ile
+Kurumca yayımlanan Yurt Dışı İlaç Listesinde yer alan ilaçlardan imal ruhsatlı olanlara ilişkin
+başvurular, başkanın gerekçeli önerisi ile gündem dışı olarak Komisyonda öncelikli olarak
+görüşülerek değerlendirilebilir ve gerekli görülen başvuruları için Ödeme Komisyonunun olağanüstü
+toplantısında kararlaştırılması yönünde görüş oluşturabilir.
+
+
+                                                                                                     8
+        c) Komisyonların görev alanları ile ilgili konularda ilaç firmaları dışındaki kurum ve
+kuruluşlar ile şahıslar tarafından yapılacak başvurular Kurumca duyurulan çalışma takvimine göre
+komisyonun gündemine alınır.
+        ç) Komisyon öncelikli olarak başvuru dosyası ile sunulan literatür ve verileri değerlendirir.
+Sunulan literatür veya verilerin doğru ya da uygulanabilir olmadığının tespit edilmesi halinde
+başvuru komisyon kararı ile reddedilir.
+        d) Toplantıya tüm temsilcilerin katılımı esastır. İlgili kurumlar bu hususu sağlamakla
+yükümlüdürler. Komisyon en az üye tam sayısının salt çoğunluğuyla toplanır ve en az üye tam
+sayısının salt çoğunluğu ile karar alır. Toplantılarda çekimser oy kullanılamaz. Oyların eşitliği
+halinde Komisyon Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Verilen karara
+katılmayan üye, katılmama nedenini yazılı olarak karar tutanağında belirtir. Gözlemci üyeler
+toplantılara komisyon başkanının daveti üzerine katılırlar, toplantı yeter sayılarının hesaplanmasında
+dikkate alınmazlar, oy kullanamazlar ve oy kullanma esnasında toplantılarda bulunmazlar.
+        e) Komisyon başvuru yapılan konular ile ilgili her türlü ilave bilgi ve belgelerin yazılı
+ve/veya sözlü olarak sunulmasını talep edebilir.
+
+
+        MADDE 10- (1) İlaç başvuruları ile ilgili sekreterya tarafından yürütülecek işlemler
+şunlardır:
+        a) Listede yer alan ilaçların; Sağlık Bakanlığınca fiyat değiştirilmeyerek veya fiyat
+düşürülerek yapılan;
+              1. Firma değişikliğine ilişkin ruhsat devri,
+              2. İlaç isim, barkod değişikliği,
+              3. İskonto oranlarının arttırılma talepleri ile referans fiyat değişikliğinden kaynaklanan
+iskonto artışı,
+              4. Ruhsat iptali/ruhsat arkası şerhine istinaden listeden çıkma talepleri değerlendirilir.
+Yapılan düzenlemeler her hafta Çarşamba günü Kurum resmi internet sitesinde yayımlanır.
+Çarşamba gününün resmi tatil olması halinde bir sonraki iş günü yayımlanır.Yayımlanan liste
+yayımı tarihini takip eden ilk iş günü yürürlüğe girer.
+        b) Başvurusu olan ilaç, karşılaştırılacak ilaç/ilaçlarla aynı veya daha düşük ambalaj
+miktarında olmak kaydıyla;
+
+
+
+                                                                                                      9
+               1. Eşdeğer grubundaki kamu birim fiyatı en ucuz olan ilacın en az %5 altında kamu
+birim fiyatlı olduğu tespit edilen ilaçların,
+               2. Orijinali listede bulunan, değerlendirme tarihinde kamu birim fiyatı orijinal ilacın
+kamu birim fiyatını aşmayan ilk jenerik ilaçların,
+               3. Dahil olacağı eşdeğer grubun en ucuz birim fiyatına eşit veya daha düşük fiyatla
+bedeli ödenecek ilaçlar listesine girecek ilk imal ilaçların,
+               4. Aynı etken maddeyi aynı miktarda içeren ve eşdeğer grubu bulunmayan listedeki
+ilaç ile eşdeğer grup oluşturacak nitelikte ve değerlendirme tarihindeki birim fiyatı, listede mevcut
+ilacın birim fiyatını aşmayan imal statüsündeki ilaçların,
+               başvuruları değerlendirilir. Bu grup ilaçların başvuruları sırasında dağıtım belgesini
+Kuruma ibraz etmeleri gerekmektedir.
+         Yapılan değerlendirmeler sonucunda listeye ilavesine karar verilen ilaçlar her hafta
+Çarşamba günü Kurum resmi internet sitesinde yayımlanır. Yayınlanan liste takip eden ilk iş günü
+yürürlüğe girer. Çarşamba gününün resmi tatil olması halinde bir sonraki iş günü yayımlanır.
+         c) Listeye yeni alınan ve eşdeğer grubun en ucuz birim fiyata sahip olan ilaç, listeye alındığı
+tarihten itibaren %1 pazar payına ulaşana kadar eşdeğer grupta bant hesabına dahil edilmez. Bu
+grup ilaçların pazar payları, aylık takip edilir. %1 pazar payına ulaşan ilaçlar, eşdeğer grupta bant
+hesabına dahil edilir.
+         ç) Listede yer alan ilaçlardan eşdeğer grubunun en ucuzu olan ilaçların pazar payları takip
+edilir. Son 5 (beş) aylık süre verilerinin hiçbirinde %1 pazar payına ulaşamamış ilaçlar, eşdeğer
+grupta bant hesabından çıkarılır. Söz konusu ilaçların aylık takibi yapılarak %1 pazar payına
+ulaştığında tekrar eşdeğer grupta bant hesabına dahil edilir.
+         d) Dağıtım belgesi ile ilgili diğer durumlar;
+    1. Listeye yeni alınan ilaçlar (Daha önce şahsi tedavi için yurt dışından temin edilen ve
+Türkiye’de ruhsatlandırılan ilaçlar hariç) için, listeye alındığı tarihten itibaren 5 (beş) ay içerisinde
+dağıtım belgesi Kuruma ibraz edilmek zorundadır. 5 inci ayın sonunda dağıtım belgesi Kuruma
+ibraz edilemeyen ilaçlar, Ödeme Komisyonu Başkanının onayı ile provizyon sisteminde pasif hale
+getirilir.
+         Ancak, 10 uncu ayın sonunda halen dağıtım belgesi ibraz edilemeyen ilaçlar ise Ödeme
+Komisyonu Başkanının onayı ile listeden çıkarılır. Bu şekilde listeden çıkarılan ilaçlar için 6 (altı)
+
+
+
+                                                                                                      10
+ay süre ile tekrar başvuru yapılamaz. 6 (altı) aylık süre sonunda yapılacak başvuru Kılavuz
+doğrultusunda yapılır ve çalışma takvimine göre komisyonların gündemine alınır.
+        Provizyon sisteminde pasif hale getirilmiş ilaçlar ise; dağıtım belgesinin Kuruma ibraz
+edilmesi halinde, kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmamak kaydıyla sistemden
+Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Human albüminler ve immunglobulinler
+için zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz.
+    2. Daha önce şahsi tedavi için yurt dışından temin edilen ve Türkiye’de ruhsatlandırılarak
+listeye alınan ya da alınacak ilaç/ilaçların piyasaya arzından firmalar sorumludur.
+       Dağıtım belgesi, ödemeye başvuru esnasında ya da 1(bir) ay önceden bildirilmek kaydıyla
+listeye dahil edildikleri tarihten itibaren en geç 3(üç) aylık süre içerisinde Kuruma ibraz edilebilir.
+       Listeye alınan ilaçlar için; dağıtım belgesinin en son getirileceği tarihin 3 aylık süreyi
+aşması halinde ilaç/ilaçların şahsi olarak ya da Sağlık Bakanlığınca yetkilendirilmiş taraflarca temin
+edilmesi ve Kurum tarafından ödenmesi durumunda ilaç/ilaçların temin fiyatları ile ilacın Kamu
+fiyatı arasında oluşacak farkın mali yükümlülüğü firmaya aittir.
+       e) Firmalar listede yer alan piyasada mevcut ilaçları için piyasaya arz edemeyecekleri tarihi
+40 iş günü öncesinde gerekçeleri ile Kuruma yazılı olarak bildirmek zorundadır. Ödeme
+Komisyonunca kabul edilecek mücbir sebepler dışında, piyasada bulunmaması nedeni ile ilacın
+şahsi olarak ya da Sağlık Bakanlığınca yetkilendirilmiş taraflarca temin edilmesi ve Kurum
+tarafından ödenmesi durumunda ilaç/ilaçların temin fiyatları ile ilacın Kamu fiyatı arasında oluşacak
+farkın mali yükümlülüğü firmaya aittir.
+       f) Listede yer alan ilaçlar, piyasada bulunma durumunun tespiti için yıllık periyotlarla izlenir.
+Biten yıl içinde hiç satışının olmadığı belirlenen ilaçlar sekreterya tarafından pasif hale getirilir.
+Pasif hale getirilmiş ilaçlar için firması tarafından aktiflenme talebi ile Kuruma başvurulması
+halinde kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmaması ve dağıtım belgesinin
+Kuruma ibrazı kaydıyla, sistemden Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir.
+Bunun dışındaki aktiflenme talepleri için yönerge eki kılavuz kapsamında başvurulması
+gerekmektedir. Pasiflendikleri tarihten itibaren 10 uncu ayın sonunda halen aktiflenme talebi
+olmayanlar gerekli değerlendirme yapılmak üzere Ödeme Komisyonuna sunulur.
+       g) Listede yer alan ilaçlardan Sağlık Bakanlığınca yayınlanan ilaç fiyat listesinde fiyatının
+sıfır olduğu veya fiyat listesinde yer almadığı aylık olarak tespit edilen ilaçlar Ödeme Komisyonu
+Başkanının onayı ile provizyon sisteminde pasif hale getirilir. Pasif hale getirilmiş ilaçların Sağlık
+
+
+                                                                                                          11
+Bakanlığınca yayınlanan ilaç fiyat listesinde isim ve fiyatlarının yeniden yer alması ve firması
+tarafından Kuruma başvurulması halinde; kamu fiyatları pasiflendikleri tarihteki kamu fiyatını
+aşmamak kaydıyla, sistemden Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Bunun
+dışında ilacın Yönerge eki kılavuz kapsamında başvurması gerekmektedir.
+       Pasiflendikleri tarihten itibaren 10 uncu ayın sonunda halen fiyat listesinde yer almayan
+ilaçlar ise Ödeme Komisyonu Başkanının onayı ile listeden çıkarılır.
+       ğ) Perakende satış fiyatı bulunmayan, depocu satış fiyatı ile piyasaya arzı gerçekleşen ilaçlar
+için yukarıdaki maddelerde yer alan dağıtım belgesi aranmaz.
+       MADDE 11- (1) İlaç başvuruları ve istenecek belgeler şunlardır:
+       a) Başvurular için sekreteryaya müracaat edilir.
+       b) Başvurular; kılavuzda belirtilen esaslara uygun olarak yapılır (Ek-1).
+       c) Başvuru dosyası, sekreterya tarafından şekil olarak ön inceleme yapıldıktan sonra
+uygunluk parafı verilir ve firma tarafından evrak servisine teslim edilir. Eksikliği sonradan tespit
+edilen bilgi ve belgeler ilgili firmaya yazılı olarak bildirilir. Eksik bilgi ve belgelerin tamamlandığı
+tarih, başvuru tarihi olarak esas alınır.
+       ç) Komisyonların çalışmalarında tespit edilen eksik veya ek bilgi ve belgeler, tespit
+tarihinden itibaren 5 (beş) iş günü içinde ilgili firmadan yazılı olarak istenir. Eksik/ek bilgi ve belge
+tamamlanana kadar inceleme süreci durur. İnceleme süreci durdurulan başvurularda, istenilen tüm
+belgeler ilgili firma tarafından komisyonların çalışmalarının bitimine kadar teslim edilir.
+       d) Bu süre içerisinde istenilen belgelerin teslim edilmemesi halinde komisyonlarca mevcut
+bilgi ve belgeler esas alınarak karar verilir.
+       e) Verilen her türlü bilgi ve belgelerin doğruluğundan, bilgilerin kesinleşmiş olmasından
+Kuruma bilgi ve belgeyi verenler sorumludur. Yanlış verilen bilgi ve belgelere dayanılarak alınan
+kararlar nedeniyle Kurumun uğrayacağı zarar, bilgi ve belgeyi Kuruma sunanlardan yasal faizi de
+dahil edilerek tahsil veya tazmin edilecektir.
+       f) Listede yer alan ilaç/ilaç grupları ile listeye alınma talebi bulunan ilaçlar için, firma ya da
+Kurum tarafından geliştirilen alternatif ödeme modelleri ilgili firmalar ile oluşturulur.
+       g) Listede küçük ambalajlı formu bulunan aynı firmaya ait büyük ambalajlı ilaçların
+başvurularında, başvurusu olan ilacın birim fiyatının, en küçük ambalajlı ilacın birim fiyatının %10
+altında olması ve akılcı ilaç kullanımına uygunluk kriterleri esas alınır.
+
+
+
+                                                                                                      12
+          ğ) Ödeme Komisyonunca listeden çıkarılması yönünde karar alınan ilaçlar için uygulama,
+kararın yayım tarihinden üç ay sonra yürürlüğe girer. Firmanın eczane stok zararını karşılayacağına
+dair yazılı beyanı halinde yayım tarihinden sonraki üç aylık yürürlük süresi beklenmez.
+
+
+          Bilimsel komisyonlar
+          MADDE 12-
+          a) Ödeme ve Tıbbi ve Ekonomik Değerlendirme komisyonlarının gerektiğinde görüş aldığı
+komisyondur.
+          b) Bilimsel komisyon ayrı ayrı veya birlikte görüş vermek üzere en az 3 (üç) katılımcıdan
+oluşur.
+          c) Bilimsel komisyon üyeleri çalışma sonuçlarını ayrı ayrı veya birlikte yazılı olarak
+sunarlar.
+          ç) Bilimsel komisyon toplantılarına, Ödeme Komisyonunda temsil edilen kurumların
+temsilcileri katılabilir.
+
+
+          Komisyon kararlarına itiraz ve tekrar başvuru
+          MADDE 13-
+          (1) Başvurunun reddedilmesi halinde söz konusu kararın ilgiliye tebliğ tarihinden itibaren 2
+(iki) ay içinde sadece red kararına yönelik gerekçeleri ile bu gerekçelere yönelik varsa ek bilgi ve
+belgeler ile itiraz edilebilir. Bu şekildeki itirazlar bir kereye mahsus olmak üzere yapılır ve çalışma
+takvimine uygun olarak komisyonlarca değerlendirilir. İtiraz süresinin 2 (iki) ayı aşması halinde
+yönerge eki kılavuza göre başvuru yapılır.
+          (2) Bir başvuruya ikinci kez red kararı verilmesi halinde, aynı konu ile ilgili olarak, ikinci
+red kararının ilgiliye tebliğ tarihinden itibaren 9 (dokuz) ay içinde tekrar başvuru yapılamaz. Ancak
+red kararı verilen sağlık hizmetine ait yeni bilimsel veri olması veya endikasyon değişikliği
+durumlarında bu süre dikkate alınmaz. (Bu sağlık hizmeti ile ilgili Türkiye’de klinik araştırma
+yapıldığının Sağlık Bakanlığı ve/veya uzmanlık eğitimi veren üniversite hastaneleri tarafından
+belgelendirilmesi halinde, 9 (dokuz) aylık süre beklenmeden 1 (bir) defa daha başvurulabilir.)
+
+
+
+
+          Komisyon çalışmalarının gizliliği
+
+
+                                                                                                     13
+       MADDE 14-
+       (1) Komisyonlara katılacak asil ve yedek üyeler, Ödeme Komisyonu tarafından hazırlanan
+gizlilik ve etik kurallar belgesini imzalayarak görevlerine başlarlar.
+       (2) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından, komisyon
+çalışmaları sürerken veya sonuçlandığında alınan kararlar, yayımlanıncaya veya duyuruluncaya
+kadar açıklanmaz.
+       Yürürlükten kaldırılan yönergeler
+       MADDE 15- Bu yönergenin yayım tarihi itibariyle, 23.05.2014 tarihinde yayımlanan
+Ödeme Komisyonunun Çalışma Usul ve Esasları Hakkında Yönerge yürürlükten kaldırılmıştır. Söz
+konusu Yönergeye yapılan atıflar bu Yönergenin ilgili maddelerine yapılmış sayılır.
+       Yürürlük
+       MADDE 16- (1) Bu yönerge, Sosyal Güvenlik Kurumu resmi internet sitesinde
+yayımlandığı tarih itibariyle yürürlüğe girer.
+      Yürütme
+       MADDE 17- Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+
+
+
+
+       EKLER
+
+
+       1-İlaç Başvuru Kılavuzu
+
+
+
+
+                                                                                           14
+                    İLAÇ BAŞVURU KILAVUZU (KILAVUZ)
+
+
+1.    Beşeri tıbbi ürünlerin/beşeri ilaçların SUT eki bedeli ödenecekler
+      listesine dahil edilmesine yönelik başvurunun sunumu hakkında genel
+      talimatlar:
+1.1   İlaçların SUT eki bedeli ödenecek ilaçlar listesine dahil edilmesine yönelik başvuru
+      aşağıda ayrıntıları belirtilen kılavuz uyarınca Tıbbi ve Ekonomik Değerlendirme
+      Komisyonu’na sunulacak kapsamlı bir veri ve bilgi dosyasını içerir.
+
+1.2   İlaçların farklı yitilik (birim farmasötik form içindeki etkin madde miktarı) ve farmasötik
+      form için yapılacak başvurularda her yitilik ya da farmasötik form için; Bölüm-I, Bölüm-
+      II ve Bölüm-III içeren başvuru dosyası düzenlenir.
+
+1.3   Dosyada yönerge gereği sunulacak olan tüm bilgi ve veriler Türkçe, dosya kapsamında
+      sunulacak literatür kaynakları orijinal dildeki fotokopisi, literatür kaynaklarının özetleri
+      ise Türkçe tercümeleri ile birlikte sunulur.
+
+1.4   Dosya bir nüsha halinde ve ekinde dijital ortamda iki adet CD olarak sunulur.
+
+1.5   Hazırlanan dosyalar öncelikle komisyon sekreteryasında yönerge gereği içermesi gereken
+      belgeler yönünden Ek:1A ve 1B’de örneği verilen Ödeme Komisyonu başvuru formuna
+      göre kontrol edilir. Form iki nüsha olarak düzenlenir. Formun bir kopyası başvuran firma
+      sorumlusunda, ikinci kopyası dosyasında kalır. Yönerge gereği içinde bulunması gereken
+      belgeler yönünden tam olduğu tespit edilen dosyalar Kurum evrak servisine teslim edilir.
+      Eksik dosyalar eksiklikleri giderilmek üzere ilgili firmaya iade edilir.
+
+      Kurum evrak kaydından işleme alınan dosyanın eksikliğinin sonradan tespiti halinde;
+      Yönerge gereği ilgili firmaya eksik belgeler bildirilir, eksiklerin tamamlandığı tarih dosya
+      başvuru tarihi olarak esas alınır.
+
+2.    Tıbbi ve Ekonomik Değerlendirme Komisyonu’na sunulacak dosyanın
+      içeriği ve yapısı:
+2.1   İlaçların bedeli ödenecekler listesine dahil edilmesine yönelik başvuru dosyasının içeriği
+      bu kılavuzun 3. kısmında bildirildiği şekilde sunulacak üç bölümden oluşur:
+
+      Bölüm I- Genel
+      Bölüm II- Klinik veriler
+      Bölüm III- Farmakoekonomik değerlendirme
+
+2.2   Başvuru dosyası, ayırıcılarla düzenlenmiş klasör(ler)de/dosya(lar)da sunulacaktır.
+
+2.3   Klasörün sırt kısmında beşeri tıbbi ürünün adı ve ruhsat sahibinin adı belirtilecektir.
+
+
+
+
+                                                                                      Sayfa 1 / 21
+3.      Dosya içeriği:
+
+3.1     Bölüm I- Genel:
+
+3.1.1   İçindekiler
+3.1.2   Dilekçe (Ek:3)
+3.1.3   Beşeri tıbbi ürünün bilgi kartı (Ek:2)
+3.1.4   Beşeri tıbbi ürünün renkli ruhsat fotokopisi
+3.1.5   Barkod onay yazısı fotokopisi
+3.1.6   Satış izni fotokopisi
+3.1.7   Beşeri tıbbi ürünün onaylı prospektüsü ya da varsa onaylı kısa ürün bilgisi (KÜB) ve
+        kullanma talimatı (KT)
+3.1.8 Ürünün Sağlık Bakanlığı (SB) internet sayfasında yayımlanan fiyat listesi çıktısı
+3.1.9 Orijinal (innovatör) ürünlerde ve listeye ilk defa girecek yeni moleküllerde varsa FDA
+        pazarlama izni ve New Drug Application (NDA) numarası, EMEA pazarlama izni varsa
+        co-marketing belgesi fotokopisi. (Bu belgelerin ibraz edilmemesi halinde ürüne referans
+        fiyata istinaden mahsuplaşma yapılmaz)
+        Türkiye’de geliştirilen ve ruhsatlandırılan yeni moleküller için bu belgeler aranmaz.
+3.1.10 İnnovatör ürünler ve listeye ilk defa girecek yeni moleküller için OECD ülkelerinde
+        ruhsat durumu ile geri ödeme listesinde olup olmadığı, başvuru tarihinde, Beşeri İlaçların
+        Fiyatlandırılmasına Dair Kararname gereği Sağlık Bakanlığı tarafından referans olarak
+        belirlenen ülkeler ile imal ve/veya ithal edildiği ülkedeki geri ödeme bilgileri (Ek:4)
+3.1.11 Başvurularda; beşeri tıbbi ürünün/beşeri ilacın endike olduğu hastalığın epidemiyolojisi
+        ve aynı endikasyon için bedeli ödenecekler listesine dahil diğer ilaç ve/veya ilaç dışı
+        tedavilerle karşılaştırmalı olarak en belirgin üstünlük ve yararları hakkında kısa özet
+        (tercihen 1 sayfayı geçmemelidir)
+3.1.12 Ruhsat alınmaksızın satış izni verilen ürünlerin başvurularında ise Ek:1A’da bu ürünler
+        için istenen belgeler
+3.1.13 İlacın satışa sunulduğuna dair depo satışı fatura örnekleri ve/veya dağıtım listesi
+
+3.2     Bölüm II- Klinik veriler:
+
+3.2.1 Klinik-Farmakolojik profil:
+       Beşeri tıbbi ürünün terapötik sınıfını ve spesifik olarak genel farmakolojik profilini
+aşağıda sıralanan hususlar çerçevesinde açıklayınız:
+
+3.2.1.1 Terapötik sınıf:
+       -       ATC 4, yoksa en yakın ATC kodu sınıflandırma sistemine göre beşeri tıbbi
+ürünün tedavi alanı.
+        -      Bu sınıftaki beşeri tıbbi ürünün başlıca farmakolojik etkisi(leri).
+3.2.1.2 İlacın:
+       -       Öngörülen tedavi süresi dahil tavsiye edilen ve yaygın olarak kullanılan tedavi
+       rejimleri belirtilmelidir.
+       -       Diğer beşeri tıbbi ürün(ler) ile kombine kullanılmak üzere endike ise, bu
+       kombinasyonların ayrıntıları ilgili yitiliklerle birlikte belirtilmelidir.
+       -       İnnovatör ürünler ile listeye ilk defa girecek yeni moleküllerin ilgili
+       endikasyon(lar)daki etkililiğine ilişkin klinik araştırmalarından elde edilen sonuçları
+       özetleyiniz (Ek:5 ve 6).
+       -       İnnovatör ürünler ile listeye ilk defa girecek yeni moleküllerin güvenliliğine
+       yönelik klinik araştırmalarından elde edilen sonuçları özetleyiniz (Ek:5 ve 7).-
+
+                                                                                     Sayfa 2 / 21
+3.2.1.3 Alternatif tedavi seçenekleri (İnnovatör ürünler ve listeye ilk defa girecek yeni
+moleküller için) :
+       -       Aynı endikasyon için halihazırda mevcut olan başlıca tedavi seçeneklerinin neler
+       (ilaç, cerrahi girişim, radyoterapi, fizik tedavisi vb) olduğunu ve bunlardan anlamlı
+       farklarını belirtiniz.
+
+       Önerilen beşeri tıbbi ürünün aynı endikasyon için kullanılan diğer tedavi seçenekleriyle
+       kıyaslandığı karşılaştırmalı klinik araştırmaları kullanınız.
+       Sunulan verilerin tablo formatında olması tavsiye edilir. (Öncelikle Türkiye’de yapılan
+       klinik çalışmalar tercih edilir.)
+
+3.2.1.4 İnnovatör ürünler ile listeye ilk defa girecek yeni moleküller için Ek:6 ve 7’de özetlenen
+       her klinik araştırmanın ve varsa, meta-analiz çalışmasının orjinalini bu bölüme ekleyiniz.
+       Eklenen literatür kaynaklarının özet bölümünün Türkçe çevirileri ilgili her literatürün
+       önünde sunulmalıdır.
+
+
+3.2.2 Endike olduğu hastalığın (hastalıkların) epidemiyolojisi hakkında(İnnovatör ürünler
+ile listeye ilk defa girecek yeni moleküller için) :
+
+       3.2.2.1 Beşeri tıbbi ürünün endike olduğu hastalık durumunu (patofizyoloji ve klinik
+               seyir) ve varsa basamaklı tedavi rejimini özetleyiniz.
+       3.2.2.2 Hastalığın (hastalıkların) epidemiyolojisi:
+                Prevalans: Kullanıldığı tanının Türkiye’deki tahmini prevalansı
+               (Bu bilgi Ek:9 ve Ek:10 Bölüm 4’de sunulmalıdır).
+                Varsa diğer ülkelerdeki prevalans verilerini ekleyiniz.
+
+
+3.3    Bölüm III- Farmakoekonomik değerlendirme:
+       Farmakoekonomik değerlendirmede beşeri tıbbi ürünün maliyetinin ve bunların
+uygulanması ile ortaya çıkan ekonomik sonuçların analitik metodlar ile ortaya konması
+istenmektedir.
+       Bu bağlamda başvurular iki kategoride değerlendirilecektir:
+
+3.3.1 Jenerik ürünler için:
+
+         Eğer innovatör ürün ödeme listesinde ise aynı etkin maddeyi aynı endikasyon için aynı
+yitilikte, aynı veya benzer (tablet ve kapsül gibi) farmasötik formda içeren beşeri tıbbi ürünler
+için farmakoekonomik çalışma istenmez.
+
+       Ancak, bedeli ödenecekler ilaçlar listesine dahil edilmek istenen jenerik ürün için listede
+bulunan innovatör ve varsa diğer jenerikler ile karşılaştırmalı birim fiyat hesabının yapılması
+gerekmektedir (hesaplamalar Kurum iskontosu düşüldükten sonra kamuya maloluş fiyatları
+üzerinden yapılacaktır). Başvuru sahibinin Ek:8’deki tabloyu doldurması gerekmektedir.
+
+       Bu gruba girmeyen jenerik ürünlerdeki değerlendirmeler Bölüm 3.3.2 kapsamında
+yapılacaktır.
+
+
+
+
+                                                                                     Sayfa 3 / 21
+3.3.2 İnnovatör ürünler ile listeye ilk defa girecek yeni moleküller için:
+
+
+3.3.2.1. Farmakoekonomik değerlendirme yapılması gerekmeyen istisnai ürünler: Aşağıda
+belirtilen gruplarda yer alan ürünlerin başvuru dosyasına farmakoekonomik değerlendirmenin
+konulmasına gerek bulunmamaktadır.
+
+
+       a) Sağlık Bakanlığı tarafından yetim ilaç* statüsünde ruhsatlandırılmış ürünler (*Sağlık
+Bakanlığı’nın Beşeri İlaçların Fiyatlandırılması Hakkında Tebliğ; Resmi Gazete 26651; 22 Eylül
+2007). Bu gruptaki ilaçlar için Ek: 9’daki tabloyu doldurunuz.
+
+
+       b) Halen listede bulunan moleküllerin farklı dozaj, MR, SR, PEN ve ambalaj formları
+için ruhsatlı diğer yitiliklerinin ve ambalaj formlarının Ek:4/A kapsamında yer aldığı
+durumlarda; talebe konu ilacın kamuya maliyetinin listede mevcut ilacın fiyatını aşmaması
+halinde veya eşdeğerinin olması halinde Ek: 8 ve 9’u doldurunuz.
+
+
+      c) Listede mevcut olan ürünlerle co-marketing yapılmak üzere ruhsatlandırılmış ve fiyat
+dezavantajı getirmeyen ürünler için Ek: 8 ve 9’u doldurunuz.
+
+
+3.3.2.2 Farmakoekonomik değerlendirme yapılacak ürünler: Yukarıda sayılan istisnai ürünler
+haricindeki ürünlerdir.
+
+       Bu bölümde yapılan başvuruda beşeri tıbbi ürün ile ilgili farmakoekonomik
+değerlendirmede kullanılan:
+
+     Klinik araştırma(lar) (meta-analiz veya randomize, çift kör, kontrollü çalışmalar;
+     farmakoekonomik analiz için kullanılacak klinik araştırmalar ancak yayınlanmış veya
+     ruhsat başvurusu için planlanmış klinik araştırmaların verileri ile yapılabilir.)
+    Tedavi maliyeti bilgileri
+     ve gerekli diğer bilgiler ve bu bilgilerin kaynakları listelenmelidir.
+
+       Yapılan farmakoekonomik analizin amacı açıkca belirtilmelidir.
+
+        Farmakoekonomik analiz başka bir ülke verileri ile yapılmış ise hangi ülkelerde
+başvuruda kullanıldığı ve Türkiye’ye özgü gerekli uyarlama yapılarak ve yapılan bu
+uyarlamaların ayrıntıları (hastane servisleri, ilaç maliyetleri, konsültasyon, uygulama ücretleri
+vb.) belirtilmelidir (Türkiye’ye özgü verilerin bulunmaması halinde gerekçeleri ve kaynakları
+gösterilerek tahmini veriler kullanılabilir).
+
+        Farmakoekonomik analizin bakış açısı; sadece direkt sağlık harcamalarını içeren geri
+ödeme kurumu bakış açısı ile yapılmalıdır (tüm maliyeti göz önünde bulunduran toplumsal bakış
+açısı yalnız ek olarak verilebilir).
+
+       Karşılaştırma için kullanılacak beşeri tıbbi ürün için yeni ürünün piyasaya girmesi
+halinde yerini alacağı ürünler seçilmeli, bu yargının nedenleri ve seçim kriterleri açıklanmalıdır.
+
+    Eğer beşeri tıbbi ürün mevcut bir farmakoterapötik gruba ait ise bu grubun diğer
+     alternatifleri arasında en yaygın kullanılan veya literatürde karşılaştırma amaçlı
+     kullanılan alternatifi ile karşılaştırılmalıdır.
+                                                                              Sayfa 4 / 21
+    Eğer yeni bir farmakoterapötik grubun ilk üyesi ise diğer farmakoterapötik gruplardan
+     aynı endikasyon(lar) için en yaygın kullanılan veya literatürde karşılaştırma amaçlı
+     kullanılan beşeri tıbbi ürün/ürünlerle karşılaştırılmalıdır.
+    Eğer aynı endikasyon için halihazırda mevcut olan başlıca tedavi seçenekleri ilaç dışı
+     (cerrahi girişim, radyoterapi, fizik tedavisi vb) ise bu duruma göre karşılaştırılmalıdır.
+    Eğer en yaygın uygulama tedavisiz takip ise bu duruma göre karşılaştırılmalıdır.
+
+       Farmakoekonomik analizde kullanılan doz ve süreler, -gerek analize konu olan gerekse
+    karşılaştırılan ürün için- analizin girdilerinin alınmış olduğu çalışmalar ile uyumlu olmalıdır.
+
+       Farmakoekonomik analiz aşağıdaki              tür ile açıklaması yapılmak koşuluyla
+    gerçekleştirilebilir ve ekinde uygun duyarlılık analizi içermelidir.
+               -       Maliyet-minimizasyon
+               -       Maliyet-etkililik
+               -       Maliyet-yararlılık (ancak maliyet-etkililik analizine ek olarak başvuru
+       sahibi tarafından verilebilir).
+
+3.3.3 Yeni tedavi dengesi (İnnovatör ürünler ile listeye ilk defa girecek yeni moleküller)
+için:
+      Ek 9’daki tabloyu doldurunuz.
+
+
+3.3.4   Ruhsat alınmaksızın Sağlık veya Tarım Bakanlığından satışına izin verilen ürünlerin
+        başvurularında ise Ek:8 ve Ek:10 doldurularak bu bölümde verilmelidir.
+
+
+
+
+                                                                                       Sayfa 5 / 21
+Ek:1A
+
+                      ÖDEME KOMİSYONU BAŞVURU FORMU
+
+                           Başvuru türlerine göre istenen belgeler
+
+    1. İlk kez yapılan başvurular:
+       (Sağlık Bakanlığı’ndan orjinal ruhsat alan ilaçlar, orjinal dosya içeriği ile başvuracaktır)
+
+        İlacın adı, farmasötik formu, yitiliği:
+
+        Firma adı:
+
+         İnnovatör ürünler ile listeye ilk defa girecek yeni molekül
+         Jenerik ürünler
+         Ruhsat alınmaksızın satış izni verilen ürün
+
+İnnovatör ürünler ile               Jenerik ürünler için                Ruhsat alınmaksızın
+listeye ilk defa girecek                                                satış izni verilen
+yeni moleküller için                                                    ürünlerin başvurusu*
+Bölüm I                             Bölüm I                             Bölüm I
+ Dilekçe                            Dilekçe                           1) Sağlık Bakanlığı’ndan
+ Beşeri tıbbi ürünün bilgi          Beşeri tıbbi ürünün bilgi         izinli ise:
+kartı                               kartı                                Dilekçe
+ Beşeri tıbbi ürünün renkli         Beşeri tıbbi ürünün renkli         Ürünün bilgi kartı
+ruhsat fotokopisi                   ruhsat fotokopisi                    İzin belgesi fotokopisi
+ Barkod onay yazısı                 Barkod onay yazısı                 Etiket örneği
+fotokopisi                          fotokopisi                           Satış izin belgesi
+ Satış izni fotokopisi              Satış izni fotokopisi              Barkod bilgisi
+ Onaylı prospektüs                  Onaylı prospektüs                  Kılavuzda istenildiği şekilde
+(varsa onaylı KÜB ve KT)            (varsa onaylı KÜB ve KT)            doldurulmuş Ek:4
+ Fiyat listesi çıktısı              Fiyat listesi çıktısı              Fiyat listesi çıktısı
+(SB internet sitesi)                (SB internet sitesi)                (SB internet sitesi)
+ Varsa FDA/NDA/EMEA                 Kısa özet                          Kısa özet
+pazarlama izni ve varsa              İlacın satışa sunulduğuna          İlacın satışa sunulduğuna
+co-marketing belgesi fotokopisi     dair depo satışı fatura örnekleri   dair depo satışı fatura örnekleri
+ Kılavuzda istenildiği şekilde     ve/veya dağıtım listesi             ve/veya dağıtım listesi
+doldurulmuş Ek:4                                                        2) Tarım Bakanlığı’ndan
+ Kısa özet                                                             izinli ise:
+ İlacın satışa sunulduğuna                                              Dilekçe
+dair depo satışı fatura örnekleri                                        Ürünün bilgi kartı
+ve/veya dağıtım listesi                                                  İzin belgesi fotokopisi
+                                                                         İhracat/İthalat onay belgesi
+                                                                         Etiket örneği
+                                                                         Proforma fatura fotokopisi
+                                                                         Barkod bilgisi
+                                                                         CE belgesi
+                                                                         Kılavuzda istenildiği şekilde
+                                                                        doldurulmuş Ek:4
+                                                                         Kısa özet
+
+
+
+                                                                                                Sayfa 6 / 21
+Bölüm II                          Bölüm II                           Bölüm II
+
+ Klinik veriler (İnnovatör        Klinik veriler (Jenerik
+ürünler ile listeye ilk defa      ürünler için kılavuzda istenilen
+girecek yeni moleküller için      belgeler)
+kılavuzda istenilen belgeler)
+
+ Literatür kaynakları, listesi
+ve fotokopileri ile özetlerinin
+Türkçe tercümeleri
+
+Bölüm III                         Bölüm III                          Bölüm III
+ Farmakoekonomik                  Farmakoekonomik                   Ek.8’i doldurunuz
+değerlendirme (İnnovatör          değerlendirme (Jenerik ürünler
+ürünler ile listeye ilk defa      için kılavuzda istenilen            Ek:10’u doldurunuz
+girecek yeni moleküller için      belgeler)
+kılavuzda istenilen belgeler)
+
+ Yeni tedavi dengesi
+
+
+
+
+*Bu ürünler Sağlık Bakanlığı veya Tarım Bakanlığı tarafından satışına izin verilen hastalığa özel
+(doğuştan metabolik hastalıklar, kistik fibrosis ve inek sütü alerjisi) diyet ürünleri ile tıbbi
+mamalardır.
+
+
+
+
+                                                                                            Sayfa 7 / 21
+Ek:1B
+
+  2. Beşeri tıbbi ürün bilgisi değişiklikleri başvurusu:
+
+     İlacın adı, farmasötik formu,yitiliği:
+
+     Firma adı:
+
+
+        Firma değişikliği     Barkod            Ürün ismi            Endikasyon           İskonto değişikliği
+                              değişikliği       değişikliği          değişikliği
+         Dilekçe              Dilekçe          Dilekçe             Dilekçe             Dilekçe
+         Beşeri tıbbi         Beşeri           Beşeri tıbbi        SB’den alınan
+        ürünün renkli         tıbbi ürünün      ürünün renkli        endikasyon
+        ruhsat fotokopisi     renkli ruhsat     ruhsat fotokopisi    değişikliği yazısı
+                              fotokopisi                             fotokopisi
+                                                                      Eski ve yeni
+                                                                     prospektüs (varsa
+                                                                     KÜB ve KT)
+                                                                      Yeni endikasyon
+                                                                     ile ilgili klinik
+                                                                     çalışmalar
+                                                                     Yeni endikasyon
+                                                                     ile ilgili Türkiye
+                                                                     tahmini prevalansı
+                                                                     /hasta sayısı
+                                                                      Yeni endikasyon
+                                                                     için reçeteleme,
+                                                                     kullanım ve ödeme
+                                                                     koşulları önerisi
+
+         Barkod onay          Barkod           Fiyat listesi
+        yazısı fotokopisi     onay yazısı       çıktısı ve yayın
+                              fotokopisi        tarihi (SB
+                                                internet sitesinde
+                                                yayımlanan eski
+                                                ve yeni fiyat
+                                                birlikte)
+         Satış izni           Fiyat            SB’den alınan
+        fotokopisi            listesi çıktısı   isim onayı yazı
+                              ve yayın          fotokopisi
+                              tarihi (SB
+                              internet
+                              sitesinde
+                              yayımlanan
+                              eski ve yeni
+                              fiyat
+                              birlikte)
+         Fiyat listesi
+        çıktısı ve yayın
+        tarihi (SB internet
+        sitesinde
+        yayımlanan eski
+        ve yeni fiyat
+        birlikte)
+
+                                                                                             Sayfa 8 / 21
+3. Ödeme listesinden çıkartılma başvurusu:
+
+         Dilekçe
+         Varsa ruhsat/şerh iptal
+        belgesi (SB’dan)
+
+
+4. Diğer başvurular (Ek:4/A’da yer alan bilgilere itiraz ve öneriler, komisyon kararına
+itiraz)
+
+         Dilekçe
+
+
+
+
+                                                                                 Sayfa 9 / 21
+              1. Ek:2 Beşeri Tıbbi Ürünün Bilgi Kartı (A4 kartona çıktı alınacaktır)
+
+
+
+Beşeri Tıbbi Ürünün Adı                                                                              Tıbbi ve Ekonomik
+Barkod                                                                                               Değerlendirme
+Firma Adı                                                                                            Komisyon görüşü:
+Ruhsat / İzin Tarih /No
+Satış İzin Onay Tarihi/No
+Barkod Onay Tarihi /No
+İmal ve/veya İthal Edildiği Yer
+FDA (NDA)/ EMEA Onay Tarihleri
+(varsa)
+
+Ek Bilgi (varsa ilave iskonto teklifi dahil)
+Farmasötik Formu,                            Fiyat Bilgileri                Beşeri Tıbbi Ürünün
+yitiliği, ambalaj        İmalatçı /    Perakende        Kamu      Kamu     etkin madde ve miktarı      Ödeme Komisyon
+miktarı                  İthalatçı     Satış Fiyatı   iskontosu   Fiyatı                                  Kararı:
+                          Fiyatı                        (%)
+
+
+
+
+                                                                            Olağan     Maksimum
+                                                                           Kullanım       Dozu
+                                                                             Dozu
+                                                                           (ICD-10 kodlarına göre)
+
+
+                               Endikasyon
+    ICD-10 Kodları ile               ATC 4 yoksa en yakın ATC
+                                            Sınıflaması
+
+
+
+
+                                                                                                     Sayfa 10 / 21
+Ek:3
+
+Dilekçe
+Dilekçede dikkat edilmesi gereken hususlar:
+
+
+Başvuru dilekçesinde başvuru net ve kesin ifadeler ile özetlenir; talebe konu ürünün statüsü
+(innovatör ürünler ile listeye ilk defa girecek yeni moleküller için /co-marketing veya jenerik
+ürünler için), adı, farmasötik formu ve yitiliği, iskonto önerisi açık bir şekilde belirtilir.
+
+Dilekçe; talep sahibi firmanın başlıklı kağıdına yazılır. Dilekçede ayrıca firmanın irtibat adresi,
+telefon ve faks numaraları, e-posta adresi bilgileri bulunur (var ise Ankara irtibat bürosunun
+telefon ve faks numaraları da belirtilmelidir).
+
+Dilekçe ekinde; sunulan dosyada bulunan her türlü bilgi ve belgelerin doğruluğunun ve
+kesinleşmiş olduğunun firma taahhüdü ve sorumluluğu altında olduğunu belirten firma adına
+firma yetkilisi tarafından imzalanmış taahhütname bulunur.
+
+
+
+
+                                                                                     Sayfa 11 / 21
+Ek:4
+OECD ülkeleri ile referans ve kaynak ülkelerindeki statüsüne dair bilgiler*
+
+    a) OECD ülkelerinde:
+
+Ülke adı                   Ruhsat durumu (var/yok)   Sağlık sigorta kuruluşları
+                                                     tarafından geri ödenme
+                                                     durumu (var/yok/ulaşılamadı)
+ABD
+Almanya
+Avustralya
+Avusturya
+Belçika
+Çek Cumhuriyeti
+Danimarka
+Finlandiya
+Fransa
+Hollanda
+İngiltere
+İrlanda
+İspanya
+İsveç
+İsviçre
+İtalya
+İzlanda
+Japonya
+Kanada
+Kore
+Lüksemburg
+Macaristan
+Meksika
+Norveç
+Polonya
+Portekiz
+Slovak Cumhuriyeti
+Yeni Zelanda
+Yunanistan
+
+
+
+
+                                                                        Sayfa 12 / 21
+Ek:4 -
+Devamı-
+b) Referans ve kaynak ülkeler:
+
+SB tarafından fiyat                 Ruhsat durumu (var/yok)          Geri ödeme bilgileri, varsa
+kararnamesinde belirlenen                                            reçeteleme ile ilgili sınırlamalar
+referans ülkeler ile imal ve/veya
+ithal edildiği ülke
+
+
+
+
+* Tablolarda verilen bilgilerin hangi tarihde ulaşılabilen bilgiler olduğunu tabloların sonunda
+yazınız.
+
+Ek:5
+
+Etkililik, güvenlilik ve varsa farmakoekonomik amaçlı klinik çalışmaların
+kanıt olarak önceliklendirilmesi:
+
+Klinik Literatürler
+
+Kanıtların Bilimsel Güvenilirliğine Göre Önceliklendirilmesi
+
+TABLO 1
+
+     Kanıtların
+     Bilimsel Güvenilirlik          Araştırma Çeşidi
+     Dereceleri
+                                    Randomize kontrollü klinik çalışmaları içeren sistematik derleme
+                   I
+                                    ve meta-analizlerden elde edilen kanıtlar
+                                    En az bir randomize kontrollü klinik çalışma(lar)dan elde edilen
+                  II
+                                    kanıtlar
+                  III               Gözlemsel çalışmalar; kesitsel, vaka-kontrol çalışmaları
+                  IV                Vaka bildirilerinden elde edilen kanıtlar, uzman görüşleri
+
+
+
+
+                                                                                             Sayfa 13 / 21
+  Randomize kontrollü klinik araştırmaları içeren sistematik derleme ve meta-analizlerinden elde
+  edilen kanıtlar I. derece, en az bir randomize klinik denemeye dayanan kanıtlar II. derecede yer
+  alır. Diğer düzeyler randomize olmayan araştırmalardır.
+
+  Ek: 6
+
+  Etkililik Tablosu
+
+
+  Kaynak                     Amaç       Araştırma türü Kanıt düzeyi        Yöntem     Sonuç
+  Yayının/raporun
+  başlığı, kaynak ve
+  tarihi
+
+  [1]                        [2]        [3]                 [4]            [5]        [6]
+
+
+
+
+  Yayımlanmış veya Raporlanmış Klinik Araştırma Verilerine İlişkin Özet Tablo:
+  Karşılaştırmalı Etkililik Analizleri
+
+
+
+
+[1] Kaynak: Yazar, başlık, dergi adı, yıl, cilt, sayfa.
+[2] Amaç: Çalışmanın amacı
+[3]Araştırma türü: Randomize kontrollü, körlenmiş (maskelenmiş) çalışma, kohort, vaka kontrol,
+    vd.
+[4] Kanıt düzeyi: Ek:5 Tablo 1’de belirtilen sıralamaya göre yapılır.
+[5] Hasta sayısı: Araştırmaya dahil edilen hasta sayısı, Hasta özellikleri: yaş, cinsiyet, hastalık
+    düzeyi, diğer hastalıkları, temel dahil etme ve çıkarma ölçütleri, Tedavi süresi, Karşılaştırma
+    grup (ları), İzleme süresi.
+[6] Sonuç: Birincil ve ikincil sonlanım ölçütleri
+
+
+
+
+                                                                                     Sayfa 14 / 21
+      Ek: 7
+
+      Güvenlilik Tablosu
+      Yayımlanmış veya Raporlanmış Klinik Araştırma Verilerine İlişkin Özet Tablo:
+      Karşılaştırmalı Güvenlilik Analizleri
+
+
+
+Kaynak            Araştırma    Kanıt düzeyi    Advers Etkiler    Tedavi grubu    Karşılaştırma grubu   İzleme süresi
+                  türü
+Yayının/raporun
+başlığı, kaynak
+ve tarihi
+
+[1]               [2]          [3]             [4]               [5]             [6]                   [7]
+
+
+
+
+           [1] Kaynak: Yazar, başlık, dergi adı, cilt, yıl, sayfa.
+           [2] Araştırma türü: Randomize kontrollü, körlenmiş (maskelenmiş) çalışma, kohort, vaka
+           kontrol, vd.
+           [3] Kanıt düzeyi: Ek:5 Tablo 1’de belirtilen sıralamaya göre yapılır.
+           [4] İlaca ilişkin advers etkilerin ciddi olanlar ve olmayanları ayrı ayrı listelenir (ciddi advers
+           etki tanımı farmakovijilans kılavuzunda* belirtildiği şekilde anlaşılmalıdır) .
+           [5] ve [6] Tedavi ve karşılaştırma grubunda advers etki ortaya çıkan kişi sayısı ve yüzdesi,
+           belirtilmişse p değeri ve güven aralığı.
+           [7] İzleme süresi: hastaları izleme süresi.
+
+
+
+
+           *Beşeri Tıbbi Ürün Ruhsatı Sahipleri İçin Farmakovijilans Kılavuzu; SB İEGM TÜFAM,
+           30.06.2005
+
+
+
+
+                                                                                              Sayfa 15 / 21
+Ek:8
+
+Jenerik ürünler için
+
+
+
+
+  Beşeri    Farmasötik   Ambalaj   Perakende        Kamu      Kamu     Birim
+  Tıbbi      Formu,      miktarı   Satış Fiyatı   İskontosu   Fiyatı   Fiyatı
+ Ürünün       yitiliği                               (%)
+   Adı
+Yeni ürün
+Ürün A
+Ürün B
+Ürün C
+
+
+
+
+                                                                                Sayfa 16 / 21
+Ek:9
+
+Yeni tedavi dengesi
+Bölüm 9. 1. Beşeri tıbbi ürün bilgisi:
+
+Beşeri Tıbbi Ürünün adı
+Etkin madde (lerin) adı
+Farmasötik formu, yitilik ve birim fiyat
+Terapötik grubu
+İlgili alternatifler (ilaç dışı dahil)
+Başvuru sahibinin beşeri tıbbi ürünün
+reçeteleme, kullanım ve ödeme koşulları
+önerisi
+
+Bölüm 9. 2. Endikasyon ve dozaj bilgisi
+
+Prospektüs veya       KÜB’de     yer     alan Bu endikasyon (lar) için tavsiye edilen
+endikasyon (lar)                              tedavi dozu ve süresi
+
+
+
+Bölüm 9. 3. İlaç maliyeti/hasta/ay* bilgisi
+
+Endikasyon (lar)                       Kamu için toplam ilaç
+                                        maliyeti/hasta/ay*
+
+
+* Bir aydan daha kısa süreli tedaviler belirtilmeli ve maliyet buna göre hesaplanmalıdır.
+
+Bölüm 9. 4. Beşeri tıbbi ürünün prospektüs veya KÜB endikasyonunun(larının) Türkiye’de
+tahmini prevalansı/hasta sayısı
+
+
+
+                                                  Kullanıldığı
+                                                   tanının
+                                                   tahmini          Tahmini hasta
+Tahmini hasta sayısı :         Popülasyon         prevalansı           sayısı
+Kullanıldığı tanı 1
+Kullanıldığı tanı 2
+
+
+
+
+                                                                                     Sayfa 17 / 21
+Ek:9-
+Devamı-
+
+Bölüm 9.5. Beşeri Tıbbi Ürünün:
+
+Bölüm 9.5.1. Tahmini Bütçe Etkisi
+
+Tahmini Bütçe Etkisi :                                  1.yıl      2.yıl           3.yıl
+İlacı kullanması muhtemel hasta sayısı oranı (%)
+İlacı kullanması muhtemel hasta sayısı
+Hasta başına yıllık kutu adedi
+İlacın yıllık toplam kutu adedi
+İlacın kamu maliyeti
+Bütçe etkisi
+
+
+Bölüm 9.5.2 Pazar Dengesi:
+
+
+                                                   Mevcut
+Ünite Kamu Maliyeti:                               Durum        1.yıl      2.yıl      3.yıl
+Ürün A
+Ürün B
+Ürün C
+Yeni ürün
+
+                                                   Mevcut
+Pazar Dağılımı -Ünite -Yeni Ürün Hariç:            Durum        1.yıl      2.yıl     3.yıl
+Toplam Pazar:
+Ürün A
+Ürün B
+Ürün C
+
+                                                   Mevcut
+Yeni Ürün Hariç Pazar Dengesi-TL:                  Durum        1.yıl      2.yıl     3.yıl
+Toplam Pazar:
+Ürün A
+Ürün B
+Ürün C
+
+
+
+
+                                                                               Sayfa 18 / 21
+                                          Mevcut
+Pazar Dağılımı- Ünite -Yeni Ürün Dahil:   Durum    1.yıl   2.yıl    3.yıl
+Toplam Pazar:
+Ürün A
+Ürün B
+Ürün C
+Yeni ürün
+
+
+                                          Mevcut
+Yeni Ürün Dahil Pazar Dengesi- TL:        Durum    1.yıl   2.yıl    3.yıl
+Toplam Pazar:
+Ürün A
+Ürün B
+Ürün C
+Yeni Ürün
+
+
+
+
+                                                               Sayfa 19 / 21
+Ek:10
+Ruhsat alınmaksızın kontrol belgesi ile satışına izin verilen ürünler:
+Bölüm 10. 1. Ürün bilgisi:
+
+Ürünün adı
+İçeriği
+Birim fiyat
+İlgili alternatifler (varsa)
+Başvuru sahibinin ürünün reçeteleme,
+kullanım ve ödeme koşulları önerisi
+
+Bölüm 10. 2. Kullanım alanı ve günlük kullanım miktarı
+
+Kullanıldığı Tanı                              Tavsiye edilen kullanım miktarı ve
+                                               süresi
+
+
+
+Bölüm 10. 3. Maliyet/hasta/ay bilgisi
+
+Kullanıldığı Tanı                                  Kamu için toplam maliyet/hasta/ay
+
+
+
+Bölüm 10. 4. Kullanıldığı hastalıkların Türkiye’de tahmini prevalansı/hasta sayısı
+
+                                                       Kullanıldığı
+                                                         tanının             Tahmini
+Tahmini hasta sayısı :       Popülasyon             tahmini prevalansı      hasta sayısı
+Kullanıldığı tanı 1
+Kullanıldığı tanı 2
+
+
+Bölüm 10.5. Pazar payı tahminleri
+
+                                         Türkiye’de kullanacak hasta sayısı
+Kullanıldığı Tanı               1. yıl                2. yıl              3. yıl
+
+
+
+
+                               Türkiye’de ürünün dahil olduğu grup içindeki
+                                           pazar payı dağılımı
+Kullanıldığı Tanı              1. yıl            2. yıl              3. yıl
+
+
+
+
+                                                                                    Sayfa 20 / 21
+Bölüm 10.6. Doğrudan maliyet
+
+                                        Kamuya toplam maliyet
+Kullanıldığı Tanı              1. yıl         2. yıl            3. yıl
+
+
+
+
+                                                                         Sayfa 21 / 21
+                         ÖDEME KOMİSYONU
+KOMİSYON BAŞKANI
+Uzm.Dr.İsmet KÖKSAL             Genel Sağlık Sigortası Genel
+                                Müdürü
+ASİL ÜYELER
+Dr. Saim KERMAN                 Sağlık Bakanlığı, Kurum Başkanı
+Ecz. Güven ARTIRAN              Sağlık Bakanlığı, Kurum Başkan
+                                Yardımcısı
+Murat UĞURLU                    Maliye Bakanlığı, Genel Müdür
+                                Yardımcısı
+Önder İNCE                      Maliye Bakanlığı, Daire Başkanı
+Uzm. Ecz. Salih Tolga DOĞRU     Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+Gül TOPAL                       Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+Dr. Halil AKÇE                  Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+
+Ahmet Oğuz SARICA               Kalkınma Bakanlığı, Daire Başkanı
+
+Yusuf ALTINTAŞ                  Hazine Müsteşarlığı, Daire Başkanı
+
+
+YEDEK ÜYELER
+
+Dr.Mümine Nurdan DOĞUKAN        Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+
+Dr. Emine NEZİROĞLU             Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+
+Dr. Gökçen SONBUDAK             Sosyal Güvenlik Kurumu, Daire
+                                Başkanı
+
+Dr. Akif AKBULAT                Sağlık Bakanlığı, Daire Başkanı
+
+İbrahim KÜÇÜK                   Maliye Bakanlığı, Maliye Uzmanı
+
+Hülya ÖZKAN                     Maliye Bakanlığı, Maliye Uzmanı
+
+Hakan ERTEN                     Kalkınma Bakanlığı, Planlama
+                                Uzman Yardımcısı
+
+Semiha Özlem ÇABUK              Hazine Müsteşarlığı
+            TIBBİ VE EKONOMİK DEĞERLENDİRME KOMİSYONU
+
+
+Komisyon Başkanı
+
+Uzman Ecz. Salih Tolga DOĞRU    Sosyal Güvenlik Kurumu, Daire Başkanı
+
+ASİL ÜYELER
+
+Ecz. Sibel MEŞE                 Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Şube Müdürü V.
+Dr.Rasim KÖSELERLİ              Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Şube Müdürü G.
+Ecz. Saadet KÜÇÜKÇONGAR         Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Şube Müdürü G.
+Dr. Tuncay ALKAN                Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Şube Müdürü V.
+Ecz.Ayfer KALABALIK             Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Şube Müdürü G.
+Doç.Dr.Müge TECDER              Başkent Üniversitesi Tıp Fakültesi,
+                                Farmakoloji Anabilim Dalı
+Doç.Dr. Zafer ÇALIŞKAN          Hacettepe Üniversitesi, İktisadi İdari
+                                Bilimler Fakültesi
+Uzman Dr. İsmail Mert VURAL     Sağlık Bakanlığı, Şube Müdürü
+Uzman Ecz. Engin DOĞAN          Sağlık Bakanlığı, Eczacı
+Yusuf ALTINTAŞ                  Hazine Müsteşarlığı, Daire Başkanı
+İbrahim KÜÇÜK                   Maliye Bakanlığı, Maliye Uzmanı
+Hakan ERTEN                     Kalkınma Bakanlığı, Planlama Uzman
+                                Yardımcısı
+
+
+
+GÖZLEMCİ ÜYELER
+
+Prof. Dr. Hakan ERGÜN           Araştırmacı İlaç Firmaları Derneği
+Op.Dr. Sami TÜRKOĞLU            Türkiye İlaç Sanayi Derneği
+Ecz. Halil Tunç KÖKSAL          İlaç Endüstrisi İşverenler Sendikası
+Uzm.Ecz. Mahmut BİLGİÇ          Gelişimci İlaç Firmaları Derneği
+
+
+YEDEK ÜYELER
+
+Ecz. Emine YONCALIK             Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Eczacı
+Dr. Vildan ÇİNİER               Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Tabip
+Dr. Öznur ÖZDEMİR               Sosyal Güvenlik Kurumu, GSS Genel
+                                Müdürlüğü, Tabip
+Uzm. Ecz. Nehir ÜNSAL     Sosyal Güvenlik Kurumu, GSS Genel
+                          Müdürlüğü, Uzm. Eczacı
+Ecz. Arzu AY              Sosyal Güvenlik Kurumu, GSS Genel
+                          Müdürlüğü, Eczacı
+Doç.Dr.Osman ERSOY        Atatürk Eğitim ve Araştırma Hastanesi
+
+Doç.Dr. Mustafa İLHAN     Gazi Üniversitesi Tıp Fakültesi, Halk
+                          Sağlığı Anabilim Dalı
+Uzm.Dr.Elif Hilal VURAL   Sağlık Bakanlığı, Tabip
+Ecz. Nurcan UMAN          Sağlık Bakanlığı,Eczacı
+Hülya ÖZKAN               Maliye Bakanlığı, Maliye Uzman
+Semiha Özlem ÇABUK        Hazine Müsteşarlığı, Şube Müdürü
+
+Osman Nuri ERDEM          Kalkınma Bakanlığı, Planlama Uzman
+                          Yardımcısı
+Prof.Dr.Bülent GÜMÜŞEL    Araştırmacı İlaç Firmaları Derneği
+
+Bülent DİLEK              Türkiye İlaç Sanayi Derneği
+
+Turgut TOKGÖZ             İlaç Endüstrisi İşverenler
+                          Sendikası,Genel Sekreter
+Alaattin ALTUN            Gelişimci İlaç Firmaları Derneği
+

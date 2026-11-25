@@ -1,0 +1,59 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/95892
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Talimat/Talimatname/İç emirler
+SAYI: 591735
+ADI: 1/2/2017 TARİHLİ VE 591735 SAYILI E-BORÇ SORGULAMA AKTİVASYONU GENEL TALİMAT
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: cf2ecffe7a6e57e1e1a89871c69ccbfa0b7994fe5f46bfaa6771cee778dd7999
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+hi T.G;
+( Ş C ” | > SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+edi o. IN Sigorta Primleri Genel Müdürlüğü
+Sayı :71582837-206.05-E,591735 01/02/2017
+Konu :E-borç sorgulama aktivasyonu
+SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+
+Bilindiği üzere, e-borcu yoktur programlarının işletime açıldığı 2004 yılında Emekli Sandığı,
+Sosyal Sigortalar Kurumu ve Bağ-Kur Genel Müdürlüğü üç ayrı Kurum olarak faaliyet
+gösterdiğinden borcu yoktur yazılarının internet üzerinden verilmesi sırasında yalnızca SSK
+kapsamında borçları sorgulanmış, Bağ-Kur ve Emekli Sandığına tabi borçların bulunup
+bulunmadığı hususunda ayrıca ilgili kurumlardan borcu yoktur/vardır şeklinde yazı alınması
+gerektiği hususunda yazılara dipnot eklenmiştir.
+
+Ancak, 2008 yılında üç Kurumun Sosyal Güvenlik Kurumu adı altında birleştirilmesi ve
+e-borcu yoktur programlarında kamu işyerlerinde 4-1/c kapsamında çalışan sigortalılardan
+kaynaklanan borçların elektronik ortamda sorgulanamaması nedeniyle e-borcu yoktur aktivasyon
+programı mahiyet kodu | ve 3 olan işyerlerine kapatılmıştır,
+
+Daha önce mahiyet kodu 1 ve 3 olarak tescil edilerek aktivasyon işlemi yapılmış kamu
+kurum ve kuruluşları halen e-borcu yoktur. programlarından borcu vardır/yoktur belgesi
+alabilmelerine rağmen aktivasyonu çeşitli nedenlerle iptal edilmiş veya yeni aktivasyon
+başvurusunda bulunan kamu kurum ve kuruluşlarının e-borcu yoktur aktivasyon işlemleri 4-1/ç
+kapsamındaki — sigortalılardan kaynaklanan ( borçların sorgulanmıyor — olması nedeniyle
+yapılamamaktadır.
+
+Dolayısıyla, mahiyet kodu | ve 3 olarak tescil edilmiş olmakla birlikte işyerlerinde 5510
+sayılı Kanunun 4-1/c kapsamında personel çalıştırmayan ve “4 50 sinden fazlası kamuya ait veya
+belediyeye ait işletme (Şirket) işyerlerinde e-borcu yoktur aktivasyonu kapatılmış bulunmakla
+birlikte;
+
+Bundan böyle, mahiyet kodu | veya 3 olarak tescil edilmiş ve işyeri tescil kütüklerinde
+faaliyette bulunulan sektör alanı "Belediyeye Ait İşletme (Şirket)" olarak tescil edilmiş işyerlerinde
+4-1/e kapsamında sigortalı çalıştırılmıyor olması durumunda, söz konusu işverenlerin e-borcu
+yoktur aktivasyon başvurusunda bulunmaları halinde 5510 sayılı Kanunun 4-1/c kapsamında
+sigortalı çalıştırmamaları kaydıyla e-borcu yoktur belgelerini internet üzerinden alabilmelerini
+teminen e-borcu yoktur aktivasyonuyla ilgili gerekli düzenlemeler yapılarak işletime açılmıştır.
+
+Bu bakımdan, Kurumumuz işyeri tescil kütüklerinde "Belediyeye Ait İşletme (Şirket)" olarak
+tescil edilmiş olan işyeri işverenlerince, e-borcu yoktur başvuru formu ekinde işyerlerinden 4-I/c
+kapsamında sigortalı çalıştırmadığına dair ekte örneği yer alan taahhütname de verilmesi halinde
+e-borcu yoktur aktivasyon işlemlerinin yapılması gerekmektedir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+EK: Taahhütname
+Adres Mithatpaşa Cad. No 7 Sıhhiye ANKARA Sypiili Bilgi ZEKİ KÖKSAL Şube Afi
+Telefon :0312 45671 93 Asgari İşçilik Düire Başkanlığı
+Faks 0312 433 4397 Web ww.sek sos r
+E-Posta saidbğösgk gov.tr

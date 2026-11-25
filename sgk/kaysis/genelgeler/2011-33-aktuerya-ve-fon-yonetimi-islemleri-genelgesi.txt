@@ -1,0 +1,233 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/55309
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2011-33
+ADI: AKTÜERYA VE FON YÖNETİMİ İŞLEMLERİ GENELGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7a89d2f687429fb6cbac4728821504bb857578d932e44104ff35750f534b3be7
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                            T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          Aktüerya ve Fon Yönetimi Daire Başkanlığı
+
+Sayı : B.13.2.SGK.0.15.00.05/178
+Konu : Aktüerya ve Fon Yönetimi İşlemleri
+                                                                                 24 MART 2011
+
+                                               GENELGE
+                                                2011/33
+
+Bilindiği gibi Kurumumuz uygulamalarına yönelik olarak ihtiyaca binaen Başkanlığımız
+tarafından değişik tarihlerde genelgeler yayımlanmıştır. Kurumumuz Başkanlık Makamının
+19/01/2011 tarihli ve 40 sayılı Olur’u gereği bu güne kadar yayımlanan genelgelerin gözden
+geçirilmesi, güncellenmesi, konu bazında birleştirilmesi, tekrarların önüne geçilmesi,
+sadeleştirilmesi, yürürlüğü kalmamış olanların tasfiye edilmesi ve bu şekilde etkinlik ve
+verimliliğin artırılması amacıyla yapılan çalışma neticesinde aktüerya ve fon yönetimi
+işlemlerine ilişkin işbu genelge düzenlenmiştir.
+
+1- İSTATİSTİKÎ BİLGİLERİN TEK BİR ELDEN DERLENMESİ VE KULANIMA
+SUNULMASI
+5502 sayılı Kanunun 18 inci maddesinin (b) bendi ile “finansman, fon yönetimi ve aktüerya ile
+ilgili her türlü istatistiki bilgiyi derlemek, bu bilgileri değerlendirerek sonuçlarını ilgili birimlere
+bildirmek” görevi Aktüerya ve Fon Yönetimi Daire Başkanlığına verilmiştir.
+
+Verilerin anlamlı ve kullanılabilir bilgiye dönüştürülmesi sürecinde farklı verilerin ortaya
+çıkmaması, veri kirliliğine neden olunmaması, verilerin tek elde toplanarak derlenmesi,
+yayımlanması ve kullanıma sunulması gerekmektedir. Dolayısıyla Kurumun istatistiki verilerinin
+tüm kullanıcılara tek elden sunulması, Kurumumuzun güvenilir ve güncel veri üretimine katkı
+sağlayacaktır.
+
+Bu sebeple, Sosyal Güvenlik Kurumu Aylık İstatistik Bülteni ve İstatistik Yıllığına esas olan,
+görev alanına giren ilgili hizmet birimleri tarafından toplanan ve derlenen istatistiki veriler,
+tereddüte sebep olmayacak şekilde tutarlı ve doğru raporlamalar, her ayın 25’inde kurumsal
+raporlama ve istatistik sisteminde oluşturularak Aktüerya ve Fon Yönetimi Daire Başkanlığına
+bildirilecektir.
+
+2- BANKALAR İLE İMZALANAN GELİR, AYLIK VE SAĞLIK ÖDEMELERİ İLE
+PRİM TAHSİLATINA YÖNELİK PROTOKOLLER
+Kurumumuzun, tahsilat, ödeme ve nakit varlıklarının değerlendirilmesinde; günümüz ekonomik
+koşullarına uygun, hizmetlerin çağdaş, etkin, verimli olarak sunulabilmesi ve uygulama birliğinin
+sağlanması amacıyla, Kurumumuz ile bankalar arasında protokoller imzalanmış olup, protokol
+imzalayan bankaların listesi ekte yer almaktadır. (Ek-1) Bu kapsamda, gelir/aylık ve sağlık
+ödemeleri ile prim tahsilâtları sadece Kurum ile protokol imzalayan bankalar tarafından
+yapılacaktır.
+
+
+
+
+Adres: Ziya Bey Cad. No: 6 Balgat/ANKARA Ayrıntılı Bilgi İçin İrtibat : İ.SEVİNÇ Akt.Fon. Yön. Dai. Bşk.
+Tel:0 (312) 2078046-47 Faks: 0(312) 2078140     e-posta: isevinc@sgk.gov.tr
+Elektronik Ağ: .www.sgk.gov.tr                                                                      1/5
+                                            T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          Aktüerya ve Fon Yönetimi Daire Başkanlığı
+
+
+
+Bankalar ile yapılan protokoller gereğince, Kurumumuzun banka hesaplarına ve üçüncü kişilere
+yapacağı yurtiçi ödeme, Türk Lirası/Yabancı Para havale (muhabir banka masrafı ve SWIFT
+ücreti hariç) ve EFT işlemleri için hesap işletim ücreti, OTP cihaz bedeli, komisyon ve masraf adı
+altında herhangi bir ücret ödenmeyecektir.
+
+Diğer taraftan, kamu ve özel bankalar aracılığıyla toplanan Kurum gelirleri, 22/08/2008 tarihli ve
+26975 sayılı Resmi Gazete’de yayımlanan “Kamu Haznedarlığı Genel Tebliği” gereğince, kamu
+bankalarının şubelerinde açılan Kurum hesaplarında değerlendirilmektedir.
+
+Sosyal güvenlik il/merkez müdürlüklerince yapılan ödemeler sonundaki hesap bakiyeleri ile
+Kurumun temerküz hesaplarına gönderilemeyen tutarlar, kamu bankaları ile yapılan protokol
+gereğince saat 16:00 itibarıyla kamu bankaları tarafından repo ve vadeli mevduat için
+Kuruma bildirilen faiz oranından aşağı olmamak üzere kamu bankalarında
+değerlendirilecektir.
+
+Kamu bankaları tarafından bildirilen güncel faiz oranları http://sgknet.sgk.intra adresinde
+“Uygulamalar” bölümünde “Aktüerya ve Fon Yönetimi” başlığı altında bulunan “Bankaların
+Kurumumuza Vermiş Olduğu Faiz Oranları” bölümünden öğrenilebilecektir. Protokol
+hükümlerince nakit değerlendirme işlemi yapılmadan önce kamu banka şubelerinin s osyal
+güvenlik il/merkez müdürlüklerine verdiği faiz oranı ile Kurumumuza bildirilen faiz
+oranlarının mutlaka karşılaştırılması gerekmektedir.
+
+Bununla birlikte, Kamu Haznedarlığı Tebliğinin 7 nci maddesinin “Vadeli mevduat için
+alınan faiz oranı benzer vadedeki DİBS (Devlet İç Borçlanma Senedi) için piyasada oluşan
+faiz oranından daha düşük olamaz” hükmü gereğince, protokol yapılan kamu bankalarından
+vadeli mevduat faiz oranı alınırken değerlendirilmek istenen gün sayısına benzer DİBS
+bulunması halinde benzer vadedeki DİBS’nin piyasada oluşan faiz oranından düşük olmayan
+bir faiz oranı ile vadeli mevduat yapılması gerekmektedir (Vadeli mevduat için yatırım
+saatinde benzer vadeli piyasada oluşan bir DİBS faiz oranı var ise, bu faiz oranı bankalardan
+istenerek Kurumumuzun vadeli mevduatı için verilecek faiz oranı ile karşılaştırılacaktır) .
+
+Kurumumuz ile kamu ve özel bankalar arasında imzalanan protokollere ihtiyaç olması
+halinde Aktüerya ve Fon Yönetimi Daire Başkanlığından temin edilebilecektir.
+
+3- PTT İLE İMZALANAN PRİM TAHSİLATI VE ÖDEMELERE İLİŞKİN PROTOKOL
+Kurumumuz ile PTT Genel Müdürlüğü arasında, yürütülen iş ve işlemlere ilişkin uygulama
+birliğini sağlamak bakımından “Prim Tahsilatı ve Ödemelere İlişkin Protokol” 05/01/2010
+tarihinde imzalanarak yürürlüğe girmiş ve önceki protokoller yürürlükten kaldırılmıştır. PTT ile
+imzalanan mezkur Protokolle, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında yapılan prim tahsilatı ve tüm statülerde yapılan gelir/aylık ve geçici iş
+göremezlik ödeneği, emzirme yardımı parası, cenaze ödeneği, cenaze nakil gideri, yol gideri ve
+gündelik ödemelerine ilave olarak, tüm statüler için prim tahsilatı ile genel sağlık
+sigortası uygulamaları kapsamında sigortalı ve hak sahiplerinin tedavilerinde ihtiyaç
+Adres: Ziya Bey Cad. No: 6 Balgat/ANKARA Ayrıntılı Bilgi İçin İrtibat : İ.SEVİNÇ Akt.Fon. Yön. Dai. Bşk.
+Tel:0 (312) 2078046-47 Faks: 0(312) 2078140     e-posta: isevinc@sgk.gov.tr
+Elektronik Ağ: .www.sgk.gov.tr                                                                      2/5
+                                            T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          Aktüerya ve Fon Yönetimi Daire Başkanlığı
+
+duyulan ve kendilerince temin edilerek fatura karşılığında sağlık sosyal güvenlik merkezlerinden
+bedelleri alınan şahıs fatura ödemeleri de PTT şubelerinden yapılmaktadır.
+
+Ayrıca, gelir/aylık ödemeleri, 2022 sayılı Kanun kapsamındaki yaşlı ve özürlü aylıkları, geçici iş
+göremezlik ödenekleri, genel sağlık sigortası yol ve gündelik giderleri ile şahıs fatura ödemeleri;
+emekli, sigortalı ve hak sahiplerinin taleplerine bağlı olarak, herhangi bir kısıtlama getirilmeden
+ve ücret ödemeden konutlarında ödenebilecek, ancak bu ödemeler için Kurumumuzca PTT’ye bir
+ücret ödenmeyecektir.
+
+PTT ile yürütülmekte olan işlemler, protokol hükümleri gereğince yürütülecek, yeni uygulamaya
+başlanılacak işlemler için ise ilgili birimlerin talimatına göre hareket edilecektir.
+
+4- YÜRÜRLÜKTEN KALDIRILAN GENELGELER
+Ek 2’deki listede belirtilen genelgeler ile devredilen Kurumlar tarafından yayımlanan aktüerya ve
+fon yönetimine ilişkin tüm genelgeler ve genel yazılar, bu Genelgenin yürürlüğe girdiği tarih
+itibarıyla yürürlükten kaldırılmıştır. Söz konusu genelgeler ile genel yazılar yürürlük
+dönemlerindeki iş ve işlemlerde kullanılabilecektir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+                                                                           M. Emin ZARARSIZ
+                                                                             Kurum Başkanı
+EKLER:
+1- Gelir/Aylık/Sağlık Ödeme ve Prim Tahsilatına Yönelik
+   Protokol İmzalanan Bankaların Listesi (1 sayfa)
+2- Yürürlükten Kaldırılan Genelgelerin Listesi (1 sayfa)
+
+
+
+DAĞITIM:
+Gereği:                                                 Bilgi:
+Tüm Merkez ve Taşra Birimlerine                         Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+…/…/2011 Şube Müdürü : İ.AYGÜN
+…/…/2011 Daire Başkanı : İ.SEVİNÇ
+…/…/2011 Başkan Yrd. : İ.ÇELİKOĞLU
+
+
+
+
+Adres: Ziya Bey Cad. No: 6 Balgat/ANKARA Ayrıntılı Bilgi İçin İrtibat : İ.SEVİNÇ Akt.Fon. Yön. Dai. Bşk.
+Tel:0 (312) 2078046-47 Faks: 0(312) 2078140     e-posta: isevinc@sgk.gov.tr
+Elektronik Ağ: .www.sgk.gov.tr                                                                      3/5
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                             Aktüerya ve Fon Yönetimi Daire Başkanlığı
+
+                                                                                                           EK-1
+
+GELİR AYLIK VE SAĞLIK ÖDEMELERİ İLE PRİM TAHSİLATINA YÖNELİK
+PROTOKOL YAPILAN BANKALAR LİSTESİ
+
+       PRİM TAHSİLATI            GELİR/AYLIK ÖDEMESİ                SAĞLIK ÖDEMESİ
+ PROTOKOLÜ İMZALANAN PROTOKOLÜ İMZALANAN PROTOKOLÜ İMZALANAN
+     BANKALAR VE PTT                BANKALAR VE PTT                     BANKALAR
+Akbank                         Akbank                         Akbank
+Albaraka Türk Katılım Bankası Albaraka Türk Katılım Bankası Albaraka Türk Katılım Bankası
+Alternatifbank                 Anadolubank                    Asya Katılım Bankası
+Anadolubank                    Asya Katılım Bankası           Denizbank
+Asya Katılım Bankası           Denizbank                      Euro Tekfenbank
+Citibank                       Euro Tekfenbank                Finansbank
+Denizbank                      Finansbank                     Fortisbank
+Euro Tekfenbank                Fortisbank                     ING Bank
+Finansbank                     HSBC Bank                      HSBC Bank
+Fortisbank                     ING Bank                       Kuveyt Türk Katılım Bankası
+HSBC Bank                      Kuveyt Türk Katılım Bankası    Şekerbank
+ING Bank                       Şekerbank                      Tekstilbank
+Kuveyt Türk Katılım Bankası    Tekstilbank                    Türk Ekonomi Bankası
+Millenniumbank                 Turkish Bank                   Türkiye Garanti Bankası
+Şekerbank                      Türk Ekonomi Bankası           Türkiye Halk Bankası
+Tekstilbank                    Türkiye Finans Katılım Bankası Türkiye İş Bankası
+Turkish Bank                   Türkiye Garanti Bankası        Yapı ve Kredi Bankası
+Turklandbank                   Türkiye Halk Bankası           T.C. Ziraat Bankası
+Türk Ekonomi Bankası           Türkiye İş Bankası
+Türkiye Finans Katılım Bankası Türkiye Vakıflar Bankası
+Türkiye Garanti Bankası        Yapı ve Kredi Bankası
+Türkiye Halk Bankası           T.C. Ziraat Bankası
+Türkiye İş Bankası             PTT Bank
+Türkiye Vakıflar Bankası
+Yapı ve Kredi Bankası
+T.C. Ziraat Bankası
+PTT Bank
+
+
+
+
+Adres: Ziya Bey Cad. No: 6 Balgat/ANKARA Ayrıntılı Bilgi İçin İrtibat : İ.SEVİNÇ Akt.Fon. Yön. Dai. Bşk.
+Tel:0 (312) 2078046-47 Faks: 0(312) 2078140     e-posta: isevinc@sgk.gov.tr
+Elektronik Ağ: .www.sgk.gov.tr                                                                      4/5
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                             Aktüerya ve Fon Yönetimi Daire Başkanlığı
+
+
+                                                                                                 EK-2
+
+YÜRÜRÜLÜKTEN KALDIRILAN GENELGE LİSTESİ
+
+  SIRA        TARİH        SAYI                                        KONU
+   NO
+    1           2007       95        İstatistiki bilgilerin tek bir elden derlenmesi ve kullanıma sunulması
+    2           2009       55        Bankalar ile yapılan protokoller
+    3           2010       49        Kurumumuz ile Türkiye Vakıflar Bankası T.A.O. arasında imzalanan
+                                     personel maaş ödemelerine ilişkin protokol
+
+
+
+
+Adres: Ziya Bey Cad. No: 6 Balgat/ANKARA Ayrıntılı Bilgi İçin İrtibat : İ.SEVİNÇ Akt.Fon. Yön. Dai. Bşk.
+Tel:0 (312) 2078046-47 Faks: 0(312) 2078140     e-posta: isevinc@sgk.gov.tr
+Elektronik Ağ: .www.sgk.gov.tr                                                                      5/5
+

@@ -1,0 +1,108 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/183652
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 34990746
+ADI: VEFAT EDEN GERÇEK KİŞİ İŞYERİ İŞVERENLERİNİN E-BİLDİRGE ŞİFRELERİNİN PASİFE ALINMASI HAKKINDA 11/11/2021 TARİHLİ VE 34990746 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e583bbc52428b91ff52e06a0e85f76f37111c8555134ca8ed92327db45efad50
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                      T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Sigorta Primleri Genel Müdürlüğü
+                                          İşverenler Daire Başkanlığı
+
+
+Sayı : E-99779835-202.99-34990746                                                                                               11.11.2021
+Konu : Vefat Eden Gerçek Kişi İşyeri
+       İşverenlerinin e-Bildirge Şifrelerinin
+       Pasife Alınması
+
+
+
+                                                          GENEL YAZI
+
+         Bilindiği üzere, ölen e-Bildirge kullanıcılarının şifreleri ölüm tarihi itibarıyla otomatik olarak
+pasife alınmaktadır.
+         Diğer taraftan, 5510 sayılı Kanunun 11 inci maddesinin 5 inci fıkrasında;
+         “İşyerinin faaliyette bulunduğu adresten başka bir ildeki adrese nakledilmesi, sigortalı
+çalıştırılan bir işin veya işyerinin başka bir işverene devredilmesi veya intikal etmesi halinde, işyerinin
+nakledildiği, yeni işverenin işi veya işyerini devraldığı tarihi takip eden on gün içinde, işyerinin miras
+yoluyla intikali halinde ise mirasçıları, ölüm tarihinden itibaren en geç üç ay içinde, işyeri bildirgesini
+Kuruma vermekle yükümlüdür.”
+         hükmü yer almakta olup, söz konusu hüküm uyarınca ölen gerçek kişi işverenlerin işyerlerinin
+intikale ilişkin işlemlerin yapılmaması nedeniyle e-Bildirge şifrelerinin pasife alınmasına yönelik
+çalışmalar da tamamlanarak işletime alınmış bulunmaktadır.
+
+         1-Gerçek Kişi İşveren ile e-Bildirge Kullanıcısının Farklı Kişi Olması Halinde
+
+        Ölen gerçek kişi işyeri işverenlerinin ölüm tarihini takip eden 100 üncü gün itibarıyla işyeri tescil
+sistemindeki işveren bilgisi ölen işveren bilgileri ile aynı ise işyerinin e-Bildirge şifresi (e-Bildirge
+kullanıcısı farklı ve sağ olsa dahi) pasife alınacaktır.
+        İşvereni vefat eden işyeri adına e-Bildirge şifresi ile işlem yapılmak üzere sisteme girilmek
+istenildiğinde (Muhtasar ve Prim Hizmet Beyannamesi dahil) kullanıcılara aşağıdaki uyarı mesajı
+verilecektir.
+        "Gerçek kişi işyeri işvereni vefat ettiğinden işyerinin kullanıcı kodu ve şifreleri iptal edilmiştir.
+İntikal işlemlerinin yapılabilmesi amacıyla işyerinin bağlı bulunduğu sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine müracaat ediniz."
+        Sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi kullanıcıları işverenin ölümü nedeniyle
+e-Bildirge kullanıcısı pasife çekilen kayıtlarda değişiklik yapamayacak ancak kaydın işverenin ölümü
+nedeni ile pasife çekildiğini “e-Bildirge Başvuru Programları” vasıtasıyla görüntüleyebileceklerdir.
+        Kolay işverenlik kapsamında ki gerçek kişi işyerleri içinde (Ek-9 kapsamındaki ev hizmetleri
+işyerleri) işverenin vefatı nedeniyle 100 günlük süre sonunda e-Bildirge şifresi pasife çekilmişse, bu
+işyerleri için de şifrenin pasife çekildiği tarihten sonra otomatik tahakkuk oluşturulmayacaktır.
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                           Bilgi için: Fatma MEMİŞ
+Telefon No: 0(312) 458 7131/7128 Faks No: 0(312) 4321237                                                                                Memur
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 7131/7128
+9                                                               1/2
+        Ancak, işveren ve e-Bildirge kullanıcısı farklı ve e-Bildirge kullanıcısı vefat etmişse otomatik
+tahakkuk oluşturulmaya devam edilecektir.
+        Örnek: 2.4515.01.01.1250458.006.02.97-000 sicil numaralı gerçek kişi işyeri işvereni
+12345678911 TC kimlik numaralı Me*** Yü*** 31/3/2021 tarihinde vefat etmiştir.
+        9/7/2021 tarihinde sistem tarafından yapılan kontrol neticesinde işyeri için intikal işleminin henüz
+yapılmadığı ve işyeri işvereni olarak sistemde 12345678911 TC kimlik numaralı Me*** Yü***’nin
+kayıtlı olduğu görülmüştür.
+        Bu nedeniyle 2.4515.01.01.1250458.006.02.97-000 sicil numaralı işyerinin muhasebecisine ait
+34567891233-2 kullanıcı kodlu e-Bildirge şifresi 9/7/2021 tarihi itibarıyla pasif hale getirilmiştir.
+        34567891233 kodlu e-Bildirge kullanıcının diğer işyerlerine ilişkin şifreleri için herhangi bir
+işlem yapılmayacak olup, kullanıcı diğer işyeri şifrelerini kullanmaya devam edecektir.
+
+         2-Gerçek Kişi İşveren ile e-Bildirge Kullanıcısının Aynı Kişi Olması Halinde
+
+         Gerçek kişi işyerinin işvereni ile e-Bildirge kullanıcısının aynı kişi olması halinde ise 100 günlük
+süre beklenilmeksizin e-Bildirge kullanıcısının ölümü nedeniyle e-Bildirge şifresi kullanıcının ölüm
+tarihi itibarıyla pasife alınacaktır.
+         Örnek: 2.4515.01.01.1250458.006.02.97-000 sicil numaralı gerçek kişi işyeri 1/1/2021 tarihi
+itibarıyla kanun kapsamına alınmış ve işveren e-Bildirge kullanıcısı olarak kendisini bildirmiş, ilgiliye
+12345678911-2 kullanıcı kodu tanımlanmıştır.
+         Söz konusu işyeri işvereni 12345678911 TC kimlik numaralı Me*** Yü*** 31/3/2021 tarihinde
+vefat etmiştir.
+         Bu durumda, gerçek kişi işveren ile e-Bildirge kullanıcısının aynı kişi olması nedeniyle 100
+günlük süre beklenilmeksizin işyerinin 12345678911-2 kullanıcı kodu e-Bildirge şifresi 31/3/2021 tarihi
+itibarıyla pasif hale getirilecektir.
+         Bilgi edinilmesini rica ederim.
+
+
+                                                                                                            Savaş ALIÇ
+                                                                                                            Genel Müdür
+
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                           Bilgi için: Fatma MEMİŞ
+Telefon No: 0(312) 458 7131/7128 Faks No: 0(312) 4321237                                                                                Memur
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 7131/7128
+9                                                               2/2
+

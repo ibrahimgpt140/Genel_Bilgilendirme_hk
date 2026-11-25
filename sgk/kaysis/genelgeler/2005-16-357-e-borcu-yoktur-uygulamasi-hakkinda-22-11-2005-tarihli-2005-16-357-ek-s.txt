@@ -1,0 +1,729 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/128283
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2005/16-357
+ADI: E-BORCU YOKTUR UYGULAMASI HAKKINDA 22.11.2005 TARİHLİ 2005/16-357 EK SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: bc55d6e571bc2e31bd1e94dc77d06c9454e29b030a71f11161639ef11503ccb6
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                          T.C.
+                      SOSYAL SİGORTALAR KURUMU BAŞKANLIĞI
+             Sigorta İşleri Genel Müdürlüğü Sigorta Primleri Daire Başkanlığı
+
+SAYI : B.13.2.SSK.5.01.08.00/VIII-031/ 901774                                     ANKARA
+KONU : e-Borcu Yoktur Uygulaması                                                 22/11/2005
+
+
+
+                                       GENELGE
+                                       16-357 Ek
+
+       I-GENEL AÇIKLAMALAR:
+
+       Bilindiği gibi, 4734 sayılı Kamu İhale Kanununun “İhaleye Katılımda Yeterlik
+Kuralları” başlığını taşıyan 10’uncu maddesinde, Türkiye’nin veya kendi ülkesinin
+mevzuat hükümleri uyarınca kesinleşmiş sosyal güvenlik prim borcu olan isteklilerin
+ihale dışında bırakılacağı öngörülmüştür.
+
+        Söz konusu kanun hükmü uyarınca, Kurumumuzdan “borcu yoktur” yazısının talep
+edildiği durumlarda, yüklenicilerin kesinleşmiş sosyal güvenlik prim borçlarının olup
+olmadığının tespiti amacıyla Türkiye genelinde (tüm Sigorta İl/ Sigorta Müdürlükleri bazında)
+sorgulama yapılması zorunludur.
+
+     Esasen, Ünitelerimizce bu sorgulama işlemi halen Kurumumuz bilgi işlem sisteminde
+mevcut Intranet menüsü vasıtasıyla yapılmaktadır.
+
+        Ancak, yapılan çalışmalara rağmen işyeri tescil kayıtlarındaki vergi kimlik ve T.C.
+kimlik numaralarının güncel olmaması veya söz konusu bilgilerin işyeri tescil kayıtlarına hiç
+işlenmemiş olması gibi nedenlerle bu konudaki sorgulama işleminden kısa sürede ve
+istenilen düzeyde sonuç alınamamaktadır.
+
+       Öte yandan, işverenlerin borcu yoktur yazısına ilişkin taleplerinin yoğunluğu ve bu
+taleplerinin belli bir süre içerisinde cevaplandırılması gerekliliği karşısında, günlük
+mesailerinin büyük bir bölümünü bu işe ayıran sigorta primleri servisi personelinin, esasen
+asli görevleri olan prim alacaklarının takip ve tahsili işlemlerini de istenilen düzeyde
+yapmalarına engel teşkil etmektedir.
+
+        Bilindiği gibi, 4958 sayılı Sosyal Sigortalar Kurumu Kanununun “Çeşitli Hükümler”
+başlıklı ve Sosyal Sigorta İşlemleri Yönetmeliği’nin “İşlemlerin Elektronik Ortamda Yapılması”
+başlıklı 21’inci maddelerinde, Kurumca belirlenecek iletişim araçları esas olmak üzere,
+Kurumun prim tahsilatı, tescil, tahsis ve sağlık hizmetleri uygulamaları dahil bütün
+işlemlerinin internet ve her türlü elektronik ve bilgi iletişim, araç ve ortamı ve benzeri
+araçlar üzerinden yapılabileceği, internet, elektronik ve benzeri ortamda bilgi ve belge
+alınıp verilebileceği, elektronik veya bilgi işlem ortamında yapılanlar dahil her türlü
+işlemlerin ve arşivlenen bilgilerin tespit ve tevsikinde Kurum kayıtlarının esas
+alınacağı, bu bilgi ve belgelerin adli ve idari merciler nezdinde geçerli sayılacağı ve
+arşivleme konularına ilişkin usul ve esasların yönetmelikle belirleneceği öngörülmüştür.
+
+      Buna göre, gerek işverenlerimizin borcu yoktur yazısına ilişkin taleplerinin daha hızlı
+ve doğru bir şekilde karşılanması, gerek Sigorta İl/Sigorta Müdürlüklerinin bu konudaki iş
+yoğunluğunun azaltılarak asli görevleri olan işleri yapabilmelerine imkan sağlanması, gerekse
+e-Devlet uygulamasının yaygınlaştırılması amacıyla “Sanal Sigorta ve e-Bildirge
+Uygulaması” kapsamında Kurumumuz tarafından “e-Borcu Yoktur Projesi” geliştirilmiştir.
+       “e-Borcu Yoktur Projesi”, Kurumumuzda tescilli işyeri bulunan ve e-Bildirge
+kullanıcı kodu ve şifresi almış olan işverenlerimize, vergi kimlik numaraları anahtar
+olarak kullanılmak suretiyle Sigorta İl/Sigorta Müdürlüklerine gidilmesine, Ünitelerimiz
+arasında yazışma yapılmasına veya faks çekilmesine gerek kalmadan Kurumumuzun
+www.ssk.gov.tr adresinden “borcu yoktur yazılarını” istenilen gün ve saatte internet
+üzerinden alabilmelerine imkan sağlayan bir uygulamadır.
+
+       e-Borcu Yoktur uygulaması kapsamında, Kurumumuz bilgi işlem programları
+tarafından elektronik ortamda üretilecek olan bu belge ile işverenlerimiz, Kamu İhale
+Kanunu ve uygulama yönetmelikleri uyarınca ihalelere katılabilecekler, ihaleli bir işi
+üstlenmişler ise hak edişlerini alabilecekler veya ihale konusu olmayan işlerde ilgili
+kamu kurum ve kuruluşları ile yaptıkları sözleşme veya protokoller gereği verdikleri
+hizmetler karşılığı olan ödemelerini ya da aracı (taşeron) olarak faaliyette bulundukları
+işlerde asıl işverenden olan alacaklarını alabileceklerdir.
+
+         II- e-BORCU YOKTUR UYGULAMASI:
+
+         2.1. Başvuru :
+      “e-Borcu Yoktur” uygulamasına ilişkin “e-Borcu Yoktur Taahhüt Belgesi” (Ek-1)
+“e-Borcu Yoktur Başvuru Formları” (Ek-2,3) ve “e-Borcu Yoktur Başvuru Formu
+Doldurma Kılavuzu”(Ek-4) Kurumumuz web sayfasında yayımlanmıştır.
+
+       Buna göre; “e-Borcu Yoktur” uygulamasından yararlanmak isteyen işverenlerimiz,
+başvuru formlarını (Ek-2,3), “e-Borcu Yoktur Başvuru Formu Doldurma Kılavuzu”nda
+(Ek-4) yer alan açıklamaları dikkate alarak eksiksiz ve gerçeğe uygun olarak dolduracaklardır.
+
+        e-Borcu Yoktur Başvuru Formları, işverenin gerçek veya tüzel kişi olmasına göre ayrı
+ayrı hazırlanmış olup, bu bağlamda gerçek kişi olan işverenler Ek-2’de yer alan başvuru
+formunu, tüzel kişi olan işverenler ise Ek-3’de yer alan başvuru formunu doldurduktan sonra,
+istenilen belgeleri (Vergi Kimlik Kartı, Ticaret Sicil Gazetesi ve İşveren veya İşveren Vekiline
+ait İmza Sirkülerinin aslı veya fotokopileri ) bu formlara ekleyeceklerdir.
+
+        İşverenlerce, yukarıda belirtilen başvuru formları ve istenilen belgelerin “e-Borcu
+Yoktur Taahhüt Belgesi” ekinde Kurumumuzda tescilli işyerlerinin bulunduğu Sigorta
+İl/Sigorta Müdürlüklerinden herhangi birine verilmek suretiyle başvuruda bulunulacaktır.
+
+      2.1.1. İşverenin        Gerçek     Kişi   Olması     Durumunda        Başvuru     Formunun
+Doldurulması:
+
+       Gerçek kişi olan işverenler, Ek-2’de bulunan e-Borcu Yoktur Başvuru Formunun;
+
+        “1-İŞYERİNE AİT BİLGİLER” bölümüne, başvuruda bulunacağı Ünitemizde kendi
+adına kayıtlı ve e-Bildirge kullanıcı kodu ve şifresi alınmış işyeri/işyerlerinden herhangi birine
+ait işyeri sicil numarası, vergi kimlik numarası, unvan, işyeri adresi, telefon, faks v.d. bilgileri,
+
+      “2-İŞVERENE AİT BİLGİLER” bölümüne, kendisine ait T.C. kimlik numarası, adı ve
+soyadı, uyruğu, v.d. bilgileri,
+
+         “3-ADINIZA SSK’DA KAYITLI DİĞER İŞYERLERİ” bölümüne, başvuru formunun
+“1-İşyerine Ait Bilgiler” bölümünde beyan edilen işyeri dışında Türkiye genelinde (aynı
+ve/veya farklı Sigorta İl/Sigorta Müdürlüklerinde) gerçek kişi, adi ortaklık ve iş ortaklığı
+şeklinde sahip olunan Kurumda tescilli tüm işyerlerinin unvanı, işyeri sicil numarası ve türüne
+ilişkin bilgileri,
+
+                                                                                                   2
+          “4-ORTAĞI OLDUĞUNUZ ŞİRKETLER” bölümüne, gerçek kişi olarak şirket ortağı
+olunan Türkiye genelindeki tüm işyerlerine ait unvan, işyeri sicil numarası, şirket türü vd.
+bilgileri,
+
+        “5-ARACI (TAŞERON) OLDUĞUNUZ İŞYERLERİ” bölümüne, 506 sayılı Kanunun
+87’inci maddesine göre Türkiye genelinde aracı (taşeron) olunan tüm işyerlerine ait unvan,
+işyeri sicil numarası, aracı kodu vd. bilgileri,
+
+       “6-ÜST DÜZEY YÖNETİCİ OLDUĞUNUZ İŞYERLERİ” bölümüne ise, üst düzey
+yönetici olarak görev yapılan Türkiye genelindeki tüm işyerlerine ait unvan, işyeri sicil
+numarası vd. bilgileri,
+
+       Eksiksiz ve doğru olarak yazacaklardır.
+
+       2.1.2. İşverenin Tüzel Kişi Olması Durumunda Başvuru Formunun Doldurulması:
+
+       Tüzel kişi olan işverenler, Ek-3’de bulunan e-Borcu Yoktur Başvuru Formunun;
+
+       “1-İŞYERİNE AİT BİLGİLER” bölümüne, başvuruda bulunacağı Ünitemizde aynı
+unvan ile işlem gören ve e-Bildirge kullanıcı kodu ve şifresi alınmış işyeri/işyerlerinden
+herhangi birine ait işyeri sicil numarası, vergi kimlik numarası, unvan, işyeri adresi, telefon,
+faks v.d. bilgileri,
+
+       “2-AYNI TÜZEL KİŞİLİK UNVANI İLE SSK’DA TESCİLLİ İŞYERLERİNİZ”
+bölümüne, başvuru formunun “1-İşyerine Ait Bilgiler” bölümünde beyan edilen işyeri dışında
+Türkiye genelinde (aynı ve/veya farklı Sigorta İl/Sigorta Müdürlüklerinde) aynı tüzel kişilik
+unvanı ile işlem gören tüm işyerlerine ait unvan ve işyeri sicil numarası bilgileri,
+
+      “3-TÜZEL KİŞİLİK OLARAK ORTAK OLDUĞUNUZ FARKLI UNVANLARDAKİ
+İŞYERLERİ” bölümüne, tüzel kişi olarak ortak olunan farklı unvana sahip Türkiye genelindeki
+tüm işyerlerine ait unvan, işyeri sicil numarası, şirket türü v.d. bilgileri,
+
+      “4-TÜZEL KİŞİLİK OLARAK ARACISI (TAŞERONU) OLDUĞUNUZ İŞYERLERİ”
+bölümüne ise, 506 sayılı Kanunun 87 inci maddesine göre Türkiye genelinde aracı (taşeron)
+olunan tüm işyerlerine ait unvan, işyeri sicil numarası,aracı kodu vd. bilgileri,
+
+       Eksiksiz ve doğru olarak yazacaklardır.
+
+       Gerek gerçek, gerekse tüzel kişiliğe sahip işverenler, e-Borcu Yoktur Başvuru
+Formlarında, Kurumumuzdan ilişiksizlik belgesi aldıkları işyerlerini (kısmı ilişiksizlik
+belgesi verilen özel bina inşaat işyerleri hariç) beyan etmeyecekler, buna karşın daha
+önce devredilen veya ortaklık, aracılık ve üst düzey yöneticilik durumu sona eren
+işyerleri ile halen gayri faal (daha önce sigortalı çalıştırılmış olmakla birlikte başvuruda
+bulunulan tarihte sigortalı çalıştırılmayıp, Kurumumuz tarafından da 506 sayılı Kanun
+kapsamından çıkarılmamış veya kanun kapsamından çıkarılmış olmakla birlikte henüz
+iz’e ayrılmamış) olan Türkiye genelindeki tüm işyerlerini beyan edeceklerdir.
+
+     2.2. Başvuru Formunda Beyan Edilen Bilgilerin Eksik veya Yanlış Olmasından ya
+da Daha Sonra Meydana Gelecek Değişikliklerin Kurumumuza Bildirilmemesinden
+Doğacak Sorumluluk:
+
+        e-Borcu Yoktur uygulamasından yararlanmak için başvuruda bulunan gerçek veya
+tüzel kişi olan işverenlerin, Türkiye genelinde (tüm Sigorta İl/Sigorta Müdürlüklerinde) kendi
+adlarına veya aynı tüzel kişilik unvanı ile tescil edilmiş işyerleri ile ortağı, aracısı ve üst düzey
+yöneticisi oldukları işyerlerini beyan etmeleri ve yine, başvuru sırasında beyan ettikleri bu
+bilgilerde daha sonra herhangi bir değişiklik olması (örneğin; bir işyerine ortak ya da üst
+                                                                                                   3
+düzey yönetici olunması gibi) durumunda bu değişiklikleri derhal e-Borcu Yoktur
+başvurusunda bulundukları Kurumumuzun ilgili Ünitesine bildirmeleri gerekmektedir.
+
+       Nitekim, bu konuda gerçek veya tüzel kişi işverenlerce e-Borcu Yoktur Taahhüt
+Belgesi ile Kurumumuza gerekli taahhütte bulunulmaktadır.
+
+       Dolayısıyla, e-Borcu Yoktur Başvuru Formunda beyan edilen bilgilerin eksik
+veya hatalı olduğunun ya da beyan edilen bilgilerde daha sonra değişiklik olmasına
+rağmen Kurumumuza bildirilmediğinin herhangi bir şekilde anlaşılması halinde,
+Kurumumuzun ve diğer kurum, kuruluş ve kişilerin uğrayacakları zararlardan
+işverenler sorumlu olacaktır.
+
+        2.3. Başvuru Üzerine Yapılacak İşlemler:
+
+       2.3.1. Sigorta Primleri (İşverenler) Servisi Tarafından Yapılacak İşlemler:
+
+       1- Gerçek veya tüzel kişi işverenlerin e-Borcu Yoktur uygulamasından yararlanma
+taleplerine ilişkin “e-Borcu Yoktur Taahhüt Belgesi” ve eki belgeler, Ünite evrak servisinden
+tarih ve sayı aldıktan sonra ilgili sigorta primleri servisine intikal ettirilecektir.
+
+      2-Sigorta primleri servisleri, öncelikle kendilerine intikal eden e-Borcu Yoktur Taahhüt
+Belgesi ve eki başvuru formları ile bu formların ekinde verilmesi gereken belgelerin eksiksiz
+olup olmadığını kontrol edeceklerdir.
+
+       Belgelerin eksiksiz olduğunun anlaşılması sonrasında yapılacak olan kontrolde ise;
+
+       -e-Borcu Yoktur       Başvuru     Formunun      tüm    bölümlerinin    eksiksiz   doldurulup
+doldurulmadığına,
+
+        -e-Borcu Yoktur Taahhüt Belgesindeki imza ile imza sirkülerinde yer alan imzanın
+işveren, işveren vekili veya tüzel kişiliği temsil ve ilzama yetkili olan kişiye ait olup olmadığına,
+
+         -e-Borcu Yoktur Taahhüt Belgesi ve e-Borcu Yoktur Başvuru Formunda beyan edilen
+bilgiler ile Ticaret Sicil Gazetesindeki bilgilerin birbirini doğrulayıp doğrulamadığına,
+
+       -Vergi kimlik kartında yer alan numara ile e-Borcu Yoktur Başvuru Formlarında kayıtlı
+vergi kimlik numarasının aynı olup olmadığına, (e-Borcu Yoktur Başvurusunda bulunan
+işverenlerin sahip, ortak, aracı, üst düzey yönetici oldukları işyerleri, vergi kimlik
+numarası altında gruplandırılacağından, beyan edilen vergi kimlik numarasının doğru
+olması ve bu numaranın da doğru olarak bilgisayara girişinin yapılması büyük önem
+arz etmektedir.)
+
+        Bakılacak ve herhangi bir eksiklik ve uyumsuzluk tespit edilmesi halinde işveren,
+işveren vekili veya üst düzey yöneticiden bunların tamamlanması veya düzeltilmesi
+istenilecektir.
+
+        Diğer taraftan, sigorta primleri servisleri ile işyeri tescil servislerinde görevli personele
+e-Borcu Yoktur başvurusunda bulunan işverenlerce beyan edilen T.C. kimlik numaralarının
+www.nvi.gov.tr, işyeri vergi kimlik numaralarının ise www.gelirler.gov.tr adreslerinden
+doğruluğunun araştırılması amacıyla internet üzerinden bu sitelere giriş yetkisi verilmiş olup,
+gerekli kontroller bu adreslerden mutlaka yapılacaktır.
+
+        3- Söz konusu kontrollerin tamamlanmasından sonra, e-Borcu Yoktur Başvurusunda
+bulunan işverenlerin başvuru formunda beyan ettiği (aynı unvan veya adına kayıtlı diğer
+işyerleri, aracı, ortak ve üst düzey yönetici olarak işlem gördüğü) işyerleri dışında işyerlerinin
+bulunup bulunmadığının tespiti amacıyla, “SSK İNTRANET/ UYGULAMALAR” menüsünden
+                                                                                                   4
+“İlişiksizlik” veya “Türkiye Genelinde İşveren Tescil Sorgulama” seçenekleri kullanılarak,
+Türkiye genelinde mutlaka sorgulama yapılacaktır.
+
+        İntranet menüsünden Türkiye genelinde yapılacak sorgulama işleminde, başvuruda
+bulunan her bir işveren için UNVAN, SOYAD, T.C. KİMLİK NUMARASI VE VERGİ KİMLİK
+NUMARASI seçeneklerinin her biri kullanılacaktır. Başka bir ifade ile sorgulama işlemi,
+yalnızca unvandan veya yalnızca vergi kimlik numarasından yada yalnızca unvan ve vergi
+kimlik numarasından değil, çapraz kontrolü sağlamak amacıyla tüm seçenekler kullanılmak
+suretiyle yapılacaktır.
+
+        Bu şekilde yapılacak sorgulama ile, tescil giriş işlemi sırasında hatalı unvan girişi
+yapılmış işyerleri, vergi kimlik numarasından; unvanı hatalı ve vergi kimlik numarası da
+girilmemiş olan işyerleri T.C.kimlik numarasından; vergi kimlik numarası hatalı olarak girilmiş
+işyerlerinin ise, unvandan tespiti mümkün olacaktır.
+
+       İntranet menüsünden her bir sorgulama kriterine göre yapılacak araştırmanın
+sonuçlarına ilişkin bilgisayar çıktıları daha sonra adli ve idari makamlarca istenildiği takdirde
+ibraz edilmek üzere işyeri dosyasında saklanacaktır.
+
+       e-Borcu Yoktur başvurusunda bulunulan Ünitemiz tarafından yukarıda
+açıklandığı şekilde yapılacak olan sorgulama sonucunda, işveren tarafından e-Borcu
+Yoktur Başvuru Formunda beyan edilen işyerlerinin dışında aynı veya farklı
+Ünitelerimizde tescilli işyeri/işyerlerinin olduğunun tespit edilmesi durumunda,
+başvuru formunda beyan edilen vergi kimlik numarası, unvan ve işveren gerçek kişi ise
+kimlik detay bilgileri de belirtilmek suretiyle ilgili diğer Ünitelerimizle yazışma
+yapılarak, bu işyeri/işyerlerinin e-Borcu Yoktur başvurusunda bulunan gerçek veya
+tüzel kişi işverene ait olup olmadığı ve bu işyerlerinden ilişiksizlik belgesi verilip
+verilmediği araştırılacaktır.
+
+         Yapılacak araştırmada, işveren tarafından e-Borcu Yoktur Başvuru Formunda beyan
+edilmeyip, Ünite tarafından yapılan sorgulamada tespit edilen işyeri/işyerlerinin başvuruda
+bulunan aynı gerçek veya tüzel kişiye ait olduğunun ve bu işyerlerinden ilişiksizlik belgesinin
+verilmediğinin anlaşılması halinde, bu işyeri/işyerleri gerçek veya tüzel kişi işverenler için
+Ek-5 ve Ek-6’da ayrı ayrı hazırlanmış olan “e-Borcu Yoktur Başvuru Formunda Beyan
+Edilmeyip, Ünite Tarafından Yapılan Sorgulamada Tespit Edilen İşyeri/İşyerleri Listesi”
+ne kaydedilecek ve söz konusu listenin fotokopisi bir üst yazı ekinde başvuruda bulunan
+işverene veya işveren vekiline de bilgilendirme amaçlı olarak gönderilmek suretiyle, bu
+işyeri/işyerlerinin de aktivasyon işlemine dahil edildiği konusunda açıklama yapılacaktır.
+
+        Ünite tarafından yapılacak olan sorgulama ve diğer Ünitelerle yapılacak yazışmalar
+sonucunda, e-Borcu Yoktur başvurusunda bulunan işverenlerin beyan ettikleri işyeri/işyerleri
+dışında başka işyerlerinin olmadığının anlaşılması halinde ise, sorgulamayı yapan sigorta
+primleri servisi memuru tarafından “e-Borcu Yoktur Başvuru Formunda Beyan Edilmeyip,
+Ünite Tarafından Yapılan Sorgulamada Tespit Edilen İşyeri/İşyerleri Listesi” üzerine “Intranet
+menüsünden Türkiye genelinde yapılan sorgulamada başvuru formunda beyan edilen
+işyeri/işyerleri dışında herhangi bir işyeri tespit edilememiştir” şeklinde not yazılarak,
+imzalanıp kaşelenecektir.
+
+        Yukarıda belirtildiği şekilde sigorta primleri servisi tarafından gerekli kontrollerin ve
+sorgulamanın tamamlanmasını müteakip, “e-Borcu Yoktur Taahhüt Belgesi”, “e-Borcu Yoktur
+Başvuru Formu” ve “e-Borcu Yoktur Başvuru Formunda Beyan Edilmeyip, Ünite Tarafından
+Yapılan Sorgulamada Tespit Edilen İşyeri/İşyerleri Listesi”, iki nüsha olarak düzenlenecek
+olan Ek-7’deki “Aktivasyon Onay Formu” ekinde dahili zimmet defterine kaydedildikten
+sonra İşyeri Tescil Servisine intikal ettirilecektir. Aktivasyon Onay Formunun diğer nüshası
+işyeri dosyasında saklanacaktır.
+
+                                                                                               5
+       2.3.2. İşyeri Tescil Servisi Tarafından Yapılacak İşlemler:
+
+         İşyeri Tescil Servisi, kendilerine Aktivasyon Onay Formu ekinde intikal eden e-Borcu
+Yoktur Başvuru Formunda beyan edilen bilgiler ile Sigorta Primleri Servisi tarafından yapılan
+sorgulama sonucuna ilişkin e-Borcu Yoktur Başvuru Formunda Beyan Edilmeyip, Ünite
+Tarafından Yapılan Sorgulamada Tespit Edilen İşyeri/İşyerleri Listesinde yer alan bilgilerin
+girişini, “İşveren Sistemi Ana Menü” den “1-Tescil İşlemleri Ana Menü”, “6- e-BORCU
+YOKTUR BELGESİ BAŞVURU İŞLEMLERİ MENÜSÜ” işaretlenmesi sonucu ekrana gelen;
+
+       “1. e-BORCU YOKTUR BELGESİ BAŞVURU FORMU GİRİŞ (GERÇEK KİŞİ)”
+       “2. e-BORCU YOKTUR BELGESİ BAŞVURU FORMU GİRİŞ (TÜZEL KİŞİ)”
+
+       Seçeneklerini kullanarak yapacaklardır.
+
+      -Girişi yapılmış olan e-Borcu Yoktur başvurusunun herhangi bir nedenle tamamen
+silinmesi (iptal edilmesi) gerektiği durumlarda “3. e-BORCU YOKTUR BELGESİ BAŞVURU
+FORMU İPTAL” seçeneği,
+
+       -Girişi yapılmış olan herhangi bir e-Borcu Yoktur başvurusunun işyeri sicil numarası
+yazılmak suretiyle görüntülenmesinin veya kağıt olarak listesinin alınmasının ya da
+aktivasyon işlemi yapılmış olup olmadığına bakılmaksızın giriş işlemleri sırasında yapılmış
+olan hatalı bir kaydın (giriş işlemi yapılmış işyerlerinden biri veya birkaçının)
+silinmesinin gerektiği durumlarda “4. e-BORCU YOKTUR BELGESİ BAŞVURU FORMU
+GÖRÜNTÜLEME/ LİSTELEME/SİLME” seçeneği,
+
+       Kullanılacaktır.
+
+       - e-Borcu Yoktur Başvuru Formunda beyan edilen bilgiler ile e-Borcu Yoktur Başvuru
+Formunda Beyan Edilmeyip, Ünite Tarafından Yapılan Sorgulamada Tespit Edilen
+İşyeri/İşyerleri Listesinde yer alan bilgilerin yukarıda belirtilen seçenekler kullanılarak girişinin
+yapılması sonrasında “5. e-BORCU YOKTUR BELGESİ AKTİVASYON İŞLEMİ”
+seçeneğinden gerçek veya tüzel kişi işverenlerin e-Borcu Yoktur başvuru aktivasyon işlemi
+yapılacak ve buna ilişkin döküm bilgisayardan alınacaktır.
+
+       Aktivasyon işleminin yapılmış olması, başvuruda bulunan işverenlerin,
+e-Bildirge kullanıcı kodu ve şifresini kullanarak internet üzerinden e-Borcu Yoktur
+yazılarını alabilecekleri anlamına gelmektedir.
+
+       Öte yandan “e-Borcu Yoktur” uygulamasından faydalanmak için tescilli işyerlerinin
+bulunduğu Sigorta İl/Sigorta Müdürlüklerinden herhangi birine başvuruda bulunan ve
+başvurulan işyeri sicil numarası üzerinden e-Borcu Yoktur aktivasyon işlemi yapılan
+işverenlerimizin, başvuru formlarında gerçek kişi işverenler için “3)ADINIZA SSK’DA KAYITLI
+DİĞER İŞYERLERİ”, tüzel kişi işverenler için “2) AYNI TÜZEL KİŞİLİK ÜNVANI İLE SSK’DA
+TESCİLLİ İŞYERLERİNİZ” bölümünde beyan ettikleri işyerlerinin aktivasyon işlemleri de
+otomatik olarak yapılacağından, bu işyerleri için ayrıca e-Borcu Yoktur başvurusu
+yapmalarına gerek bulunmamaktadır.
+
+        Bu nedenle, gerçek veya tüzel kişi olan işverenler, “e-Borcu Yoktur” uygulamasından
+faydalanmak için başvuruda bulundukları işyeriyle birlikte, beyan ettikleri diğer işyerleri (aynı
+gerçek kişi adıyla veya aynı tüzel kişilik unvanıyla Kurumumuzda kayıtlı işyerleri ve aracısı
+olunan işyerleri) ile aktivasyon işleminden sonra aynı vergi kimlik numarası ile tescil edilen
+yeni işyerlerinden de (e-Borcu Yoktur başvurusunda bulunmalarına gerek olmadan) almış
+oldukları e-bildirge kullanıcı kodu ve şifrelerini kullanarak “e-Borcu Yoktur Belgesi Hazırlama”
+menüsü altında bulunan seçeneklerden e-Borcu Yoktur belgelerini almaları mümkün
+olacaktır.
+
+                                                                                                   6
+        İşyeri Tescil Servisi tarafından aktivasyon işlemi yapılmış olan işyerine ilişkin alınan
+bilgisayar dökümü, daha önce kendilerine gönderilmiş olan e-Borcu Yoktur Taahhüt Belgesi
+ve eki belgeler ile birlikte bir üst yazıyla Sigorta Primleri Servisine geri gönderilecek ve bu
+servis tarafından da başvuruda bulunan gerçek veya tüzel kişi işverene örneği Ek-8’de
+bulunan yazı ile e-Borcu Yoktur başvuru aktivasyonunun yapıldığı bildirilecektir.
+
+       Diğer taraftan, gerçek veya tüzel kişi işverenlerin e-Borcu Yoktur başvurusunun
+aktivasyonunun yapılmasından sonra Kurumumuzun herhangi bir Ünitesinde yeni bir
+işyeri tescil ettirmeleri veya bir işyerine aracı (taşeron) olunması durumunda, bu
+işyerleri, vergi kimlik numaraları vasıtasıyla daha önce aktivasyon işlemi yapılmış olan
+işyeri grubuna otomatik olarak dahil edileceğinden, bundan böyle işyeri tescil ve aracı
+giriş işlemleri sırasında işverenlerce beyan edilen vergi kimlik numaralarının doğru
+olup olmadığının titizlikle kontrol edildikten sonra girişinin yapılması gerekmektedir.
+
+       III- e-BORCU YOKTUR BELGESİ HAZIRLAMA MENÜSÜNÜN KULLANIMI:
+
+       e-Borcu Yoktur aktivasyon işlemi yapılan gerçek veya tüzel kişi işverenler daha önce
+kendilerine verilmiş olan e-Bildirge kullanıcı kodu ve şifrelerini kullanarak e-bildirge ana
+menüsünün altında “e-Borcu Yoktur Belgesi Hazırlama” menüsüne ulaşacaklardır.
+
+       “e-Borcu Yoktur Belgesi Hazırlama” menüsü altında;
+       1- İHALE KONUSU İŞLERLE İLGİLİ e-BORCU YOKTUR BELGESİ
+          a- İhalelere Katılmak İçin e-Borcu Yoktur Belgesi
+          b- İhaleli İşlerde İstihkak Ödemesi İçin e-Borcu Yoktur Belgesi
+       2- İHALE KONUSU OLMAYAN İŞLERLE İLGİLİ e-BORCU YOKTUR BELGESİ
+          a- Türkiye Genelindeki Sorgulama Sonucu e- Borcu Yoktur Belgesi
+          b- Tek İşyerinden e- Borcu Yoktur Belgesi
+      hazırlama seçenekleri bulunmaktadır.
+      Gerçek veya tüzel kişi işverenlerin söz konusu seçenekleri kullanarak hangi türde
+   borcu yoktur yazısı alacakları ve bu yazılarla hangi işlemlerini yaptırabilecekleri hususu
+   aşağıda açıklanmıştır.
+
+       3.1. İhale Konusu İşlerle İlgili Borcu Yoktur Belgesi Hazırlama:
+
+       a- İhalelere Katılmak İçin e-Borcu Yoktur Belgesi Seçeneği:
+
+       Söz konusu seçenek, gerçek veya tüzel kişi işverenlerinin 4734 sayılı Kamu İhale
+Kanununun 10’uncu maddesi hükmü uyarınca Türkiye genelinde Kurumumuza kesinleşmiş
+sosyal güvenlik prim borcunun bulunup bulunmadığına ilişkin borcu yoktur yazısı almalarına
+imkan sağlamaktadır.
+
+        Bu seçenek işaretlendiğinde, ekrandaki takvim kullanılarak ihale tarihi girilmesi
+istenilmektedir. İhale tarihinin yazılması halinde, ihale tarihi itibariyle daha önce e-Borcu
+Yoktur Başvurusu sırasında aktivasyonu yapılmış tüm işyerlerinin borç sorgulaması
+yapılmaktadır. İhale tarihinin yazılmaması halinde ise, sözkonusu işyerlerinin işlem
+tarihinden bir önceki gün esas alınarak borçları sorgulanmaktadır.
+
+         Sorgulamada, gerçek veya tüzel kişi işverenlerinin e-Borcu yoktur başvurusu sırasında
+beyan ettikleri ve Ünitece yapılan sorgulama sırasında tespit edilen tüm işyerlerinin ihale
+tarihi itibariyle sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi, damga
+vergisi, eğitime katkı payı ve özel işlem vergisi borçlarının olup olmadığı sorgulanmaktadır.
+
+
+                                                                                              7
+       Yapılan sorgulama sonucunda;
+
+       -Gerçek veya tüzel kişi işverenler, belirttikleri ihale tarihi ya da işlem tarihinden bir
+önceki gün itibariyle yukarıda belirtilen türde muaccel hale gelmiş borçlarının
+bulunmaması halinde, “4734 sayılı Kamu İhale Kanununun 10’uncu maddesi hükmü
+uyarınca Türkiye genelinde Kurumumuz bilgi işlem kayıtlarında …………. tarihi itibariyle
+yapılan sorgulama sonucunda, Kurumumuza kesinleşmiş sosyal güvenlik prim borcunuzun
+bulunmadığı” şeklinde işyerinin vergi kimlik numarası, işyeri unvanı/adı, işyerinin adresi, borç
+sorgulamasına esas alınan tarih, belgenin internet ortamında alındığı tarih ve saat ile
+Kurumca üretilen barkod ve referans numarasını içeren “İhalelere Katılmak İçin e-Borcu
+Yoktur Belgesi” ni kendi bilgisayarlarından alabileceklerdir.
+
+        - Gerçek veya tüzel kişi işverenlerinin, belirttikleri ihale tarihi ya da işlem tarihinden bir
+önceki gün itibariyle yukarıda belirtilen türde muaccel hale gelmiş borçlarının bulunması
+halinde ise, daha önce aktivasyonu yapılmış işyerlerinden borcu olan ve olmayan işyerlerinin
+sicil numarası, borcun nedeni, borç türleri ve borç asıllarını gösteren vergi kimlik numarası,
+işyeri unvanı/adı, işyeri adresi, borç sorgulamasına esas alınan tarih, belgenin internet
+ortamında alındığı tarih ve saat ile Kurumca üretilen barkod ve referans numarasını içeren
+yazılı dökümü kendi bilgisayarlarından alabilecekler, ancak ihale tarihi veya işlem
+tarihinden bir önceki gün itibariyle borçlarının bulunması nedeniyle, bu belge ile
+ihalelere katılmaları mümkün olamayacaktır.
+
+       b- İhaleli İşlerde İstihkak Ödemesi İçin e-Borcu Yoktur Belgesi Seçeneği:
+
+       Bilindiği gibi, 506 sayılı Kanunun 83’üncü maddesinde belirtilen bazı kurum ve
+kuruluşlar tarafından ihale suretiyle yaptırılan işlerle ilgili olarak istihkak ödenmesi sırasında,
+işverenlerden (yüklenicilerden) ihale konusu işyerinden dolayı Kurumumuza borçlarının
+bulunup bulunmadığına ilişkin yazı istenilmektedir.
+
+       Bu durumda, istihkak ödemesi için borcu yoktur yazısı başvurusunda bulunulan
+Ünitemizce ihaleli işten kaynaklanan sigorta primi, sosyal güvenlik destek primi ve işsizlik
+sigortası primi ile bunlara bağlı gecikme zammı borcunun bulunmaması halinde, işverenin
+Türkiye genelinde diğer işyerleri sorgulanmaksızın yalnızca ihale konusu işyerinden dolayı
+hak ediş ödemesine esas olmak üzere borcu yoktur yazısı verilmektedir.
+
+        “İhaleli İşlerde İstihkak Ödemesi İçin e-Borcu Yoktur Belgesi Seçeneği”, yapılan işin
+ihaleli iş olması nedeniyle işyeri tescili “ihale kodu (1)” verilerek yapılmış olan işyeri
+işverenlerine istihkak ödemeleri için gerekli olan borcu yoktur yazılarını alabilmelerine
+imkan sağlamaktadır.
+
+        Ancak, bu seçenek işaretlenmek suretiyle ihaleli işlerde istihkak ödemesinde
+kullanılmak üzere e-Borcu Yoktur Yazısının alınabilmesi için, o işyerinin daha önce e-Borcu
+Yoktur başvurusu sırasında aktivasyonu yapılmış, işyeri tescil işlemleri sırasında ihale
+kodu (1) olarak verilmiş ve yine o işyerine ait e-Bildirge kullanıcı kodu ve şifresi ile e-
+Bildirge Giriş menüsüne girilmiş olması gerekmektedir.
+
+         Bu seçenek işaretlendiğinde, işlem tarihinden bir önceki gün esas alınarak sadece
+ihaleli işin yapıldığı işyeri ile ilgili olarak tahakkuk eden sigorta primi, sosyal güvenlik destek
+primi ve işsizlik sigortası primi borçlarının olup olmadığı sorgulanmaktadır.
+
+       Yapılan sorgulama sonucunda;
+
+         -Gerçek veya tüzel kişi işverenler, işlem tarihinden bir önceki gün itibariyle yukarıda
+belirtilen   türde   muaccel       hale    gelmiş     borçlarının    bulunmaması        halinde,
+“……………………….. sicil nolu işyeri ile ilgili olarak Kurumumuza verilmiş olan prim
+belgelerinden dolayı muaccel hale gelmiş borcunuzun bulunmadığı” şeklinde işyerinin; vergi
+                                                                                                    8
+kimlik numarası, işyeri unvanı/adı, işyerinin adresi, borç sorgulamasına esas alınan tarih,
+belgenin internet ortamında alındığı tarih ve saat ile Kurumca üretilen barkod ve referans
+numarasını içeren “İhaleli İşlerde İstihkak Ödemesi İçin e-Borcu Yoktur Belgesi” ni kendi
+bilgisayarlarından alabileceklerdir.
+
+         - Gerçek veya tüzel kişi işverenlerin, işlem tarihinden bir önceki gün itibariyle yukarıda
+belirtilen türde muaccel hale gelmiş borçlarının bulunması halinde ise, borcu olan
+işyerinin; işyeri sicil numarası belirtilmek suretiyle borç türleri ve borç asıllarını, işyerinin vergi
+kimlik numarasını, işyeri unvanını/adını, işyeri adresini, borç sorgulamasına esas alınan tarihi
+ve belgenin internet ortamında alındığı tarih ve saat ile Kurumca üretilen barkod ve referans
+numarasını içeren yazılı dökümü kendi bilgisayarlarından alabilecekler, ancak işlem
+tarihinden bir önceki gün itibariyle borçlarının bulunması ve borç asıllarına bağlı
+gecikme zammının da hesaplanmasının gerekmesi nedeniyle bu belge ile ihaleli işlerde
+istihkak ödemelerini almaları ve bu belgeyi kullanmak suretiyle borçlarını istihkak
+ödemelerinden kesinti yaptırmaları mümkün olmayacaktır.
+
+       Dolayısıyla, ihaleli işlerden dolayı borcu bulunan işverenlerin, Kurumumuza olan
+borçlarının ihale makamı nezdindeki istihkaklarından mahsup edilebilmesi için, ihale konusu
+işin yapıldığı işyerinin işlem gördüğü ilgili Sigorta İl/ Sigorta Müdürlüğüne müracaat ederek,
+sigorta primi, sosyal güvenlik destek primi ve işsizlik sigortası primi borçlarını gecikme zamlı
+olarak hesap ettirmeleri gerekmektedir.
+
+       3.2. İhale Konusu Olmayan İşlerle İlgili Borcu Yoktur Belgesi Hazırlama:
+
+       a-Türkiye Genelindeki Sorgulama Sonucu e-Borcu Yoktur Belgesi Seçeneği:
+
+        Söz konusu seçenek, ihaleye katılma durumu olmadığı halde, gerçek veya tüzel kişi
+işverenlerinin e-Borcu yoktur başvurusu sırasında beyan ettikleri ve Ünitece yapılan
+sorgulama sırasında tespit edilen tüm işyerlerinden dolayı Kurumumuza sigorta primi, sosyal
+güvenlik destek primi, işsizlik sigortası primi, damga vergisi, eğitime katkı payı, özel işlem
+vergisi, idari para cezası, tasarrufu teşvik borçlarının olup olmadığına ilişkin borcu yoktur
+yazısı almalarına imkan sağlamaktadır.
+
+       Gerçek veya tüzel kişi olan işverenlerin söz konusu seçeneği işaretlemeleri suretiyle
+alacakları e-Borcu Yoktur Belgesi ile ihalelere katılmaları mümkün bulunmamaktadır. Zira, bu
+seçeneğin işaretlenmesi üzerine yapılan bilgi işlem sorgulamasında kesinleşmiş sosyal
+güvenlik prim borcu kavramına girmeyen idari para cezası, tasarrufu teşvik gibi borçlar da
+dikkate alınmaktadır.
+
+      Dolayısıyla, gerçek veya tüzel kişi olan işverenlerin bu seçeneği işaretlemeleri
+halinde, kamu kurum ve kuruluşları ile ihale mevzuatına tabi olmaksızın yapmış
+oldukları protokol ve sözleşmelere istinaden verdikleri hizmetin karşılığı olan
+ödemelerini alabileceklerdir.
+
+       Örneğin; özel hastaneler, gözlükçüler, görüntüleme merkezleri, eczaneler vd kişi ve
+kuruluşların, ilgili kamu kurum ve kuruluşları ile yaptıkları protokol karşılığı verdikleri
+hizmetlerin bedelini almaları sırasında kendilerinden istenen borcu yoktur yazılarını bu
+seçenekten alabileceklerdir.
+
+       b- Tek İşyerinden e-Borcu Yoktur Belgesi Seçeneği:
+
+       Söz konusu seçenek, ihaleye katılma durumu veya ihaleli işlerde istihkak
+ödemesi durumu olmadığı halde, gerçek veya tüzel kişi işverenlerinin e-Borcu yoktur
+başvurusu sırasında beyan ettikleri veya Ünitece yapılan sorgulama sırasında tespit edilen
+işyerlerinden sadece birinden veya aracısı olduğu bir işyerinden dolayı Kurumumuza
+sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi, damga vergisi, eğitime katkı
+                                                                                                     9
+payı, özel işlem vergisi, idari para cezası, tasarrufu teşvik borçlarının olup olmadığına ilişkin
+borcu yoktur yazısı almalarına imkan sağlamaktadır.
+
+       Bu seçenek işaretlenmek suretiyle alınacak borcu yoktur yazısı ile gerçek veya
+tüzel kişi olan işverenlerin ihalelere katılmaları veya yaptıkları ihaleli işlerde
+istihkaklarını almaları mümkün değildir.
+
+         Bilindiği gibi, 506 sayılı Sosyal Sigortalar Kanununun 87’nci maddesinde, bir işte veya
+bir işin bölüm veya eklentilerinde işverenden iş alan ve kendi adına sigortalı çalıştıran üçüncü
+kişi aracı olarak tanımlanmakta ve sigortalılar üçüncü bir kişinin aracılığı ile işe girmiş ve
+bununla sözleşme yapmış olsalar bile, bu Kanunun işverene yüklediği ödevlerden dolayı
+aracı olan üçüncü kişi ile birlikte asıl işverenin de sorumlu olduğu öngörülmüştür.
+
+        Söz konusu düzenleme uyarınca, aracılar adına ayrı bir işyeri dosyası açılmamakta
+olup, aracılar, 506 sayılı Kanunla ilgili yükümlülüklerini asıl işveren adına tescil edilmiş olan
+işyeri dosyası üzerinden yerine getirmektedirler.
+
+         Buna göre, asıl işveren tarafından, işyerinde aracı olarak faaliyet gösteren ve kendi
+adına sigortalı çalıştıran gerçek veya tüzel kişilerden Kurumumuza borçlarının olmadığının
+belgelenmesinin istenilmesi halinde, aracı (taşeron) durumunda olan gerçek veya tüzel
+kişiler, aracısı oldukları işyerinden dolayı almış oldukları e-Bildirge kullanıcı kodu ve şifrelerini
+kullanarak kendilerine ait sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi,
+damga vergisi, eğitime katkı payı, özel işlem vergisi, idari para cezası ve tasarrufu teşvik
+borçlarının olup olmadığına ilişkin borcu yoktur yazılarını bu seçenek vasıtasıyla
+alabileceklerdir.
+
+       IV-e-BORCU YOKTUR BELGELERİNİN DOĞRULUĞUNUN İHALE MAKAMLARI
+İLE DİĞER KURUM VE KİŞİLER TARAFINDAN KONTROL EDİLEBİLMESİ:
+
+       İhale makamları ile diğer kurum ve kuruluşlarca, gerçek veya tüzel kişilerin ibraz ettiği
+e-Borcu Yoktur Belgesinin doğruluğundan tereddüt edilmesi halinde, Kurumumuzun
+www.ssk.gov.tr adresindeki “İnteraktif Uygulamalar” menüsünden “işveren” başlığı
+altında yer alan “e-Borcu Yoktur Belgesi Kontrol Uygulaması” seçeneği işaretlendikten
+sonra e-Borcu Yoktur belgesinin sağ üst köşesinde yer alan Kurumca üretilmiş olan
+barkod/referans numarası girilerek kontrol edilmesi ve söz konusu e-Borcu Yoktur Belgesinin
+görüntülenmesi mümkün bulunmaktadır.
+
+     V- e-BORCU YOKTUR BAŞVURU AKTİVASYONU YAPILMIŞ OLMAKLA BİRLİKTE
+KURUMUMUZA BORCU BULUNAN İŞVERENLER VE ÜNİTELERİMİZCE YAPILACAK
+İŞLEMLER:
+
+       1- Bilindiği gibi, 4734 sayılı Kamu İhale Kanununa istinaden çıkarılmış olan uygulama
+yönetmeliklerinde,      Türkiye’deki    kesinleşmiş   sosyal    güvenlik    prim    borcunun
+değerlendirilmesinde, isteklinin;
+
+        -Prim borcuna karşı dava açılmışsa bu dava kesin hükme (karar düzeltme aşaması
+dahil) bağlanana kadar kesinleşmiş prim borcu olmadığı,
+
+       -Vadesi geçtiği halde ödenmemiş, ancak ilgili kurum tarafından belli bir vadeye
+bağlanarak tecil edilmiş prim borçlarının, vadesindeki ödemeler aksatılmadığı sürece,
+kesinleşmiş prim borcu olmadığı,
+
+         -Prim borcunun 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre
+tahsili için ilgili kurum tarafından yapılan her türlü işleme karşı dava açılması halinde, açılan
+dava kesin hükme bağlanana kadar (karar düzeltme aşaması dahil) kesinleşmiş prim borcu
+olmadığı,
+                                                                                                  10
+       Kabul edilmektedir.
+
+         Buna göre, e-Borcu Yoktur uygulamasından yararlanmak amacıyla başvuruda bulunan
+ve başvuru aktivasyon işlemleri yapılmış olan gerçek veya tüzel kişi işverenlerinin, gerek
+kendi adlarına veya aynı tüzel kişilik unvanı ile tescil edilmiş, gerekse aracı, üst düzey
+yönetici ve ortak oldukları işyerlerinin ihale tarihi itibariyle veya işlem tarihinden bir önceki gün
+itibariyle Kurumumuza borçları olmakla birlikte;
+
+      -Söz konusu borçlara karşı dava açılmış ve bu dava henüz kesin hükme
+bağlanmamışsa,
+
+       -Vadesi geçtiği halde ödenmemiş ve ihale tarihinden önce ilgili kanunlara istinaden
+(6183, 4958 vd.) belli bir vadeye bağlanıp tecil ve taksitlendirme işlemi yapılmış olan
+borçların, vadesindeki ödeme yükümlülükleri aksatılmamışsa,
+
+       -Yine, prim borcunun 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna
+göre tahsili için Kurumumuz tarafından yapılan her türlü işleme karşı ihale tarihinden önce
+dava açılmış ve açılan bu dava kesin hükme bağlanmamışsa,
+
+        Bu durumda olan gerçek veya tüzel kişi işverenlerinin, internet üzerinden e-Borcu
+Yoktur uygulaması kapsamında ihalelere katılmalarına imkan verecek içerikte yazı almaları
+şimdilik mümkün olmadığından, bu işverenlerimizin önceden olduğu gibi, ilgili Sigorta
+İl/Sigorta Müdürlüklerimize bizzat müracaat ederek, yukarıda belirtilen durumda olup
+olmadıklarını açıklayan yazı almaları gerekmektedir.
+
+       2- e-Borcu Yoktur Başvuru aktivasyon işlemi yapılmış olan gerçek veya tüzel kişi
+işverenlerinin kendi adlarına ya da aynı tüzel kişilik unvanıyla tescilli olan işyerleri ile aracısı
+oldukları işyerlerinden borçlarının olmamasına ve ortağı oldukları tüzel kişi işyerlerinin
+borçlarından da kendi hisselerine düşen bölümü ödemiş olmaları durumunda, bu işverenlerin
+daha önce olduğu gibi borcu yoktur yazılarını, Sigorta İl/Sigorta Müdürlüklerine bizzat
+müracaat ederek, gerçekten ortaklıktan kaynaklanan ve kendi sorumluluk paylarına düşen
+borcu ödeyip ödemediklerinin araştırılması sonucunda almaları gerekmektedir.
+
+        Sigorta İl/Sigorta Müdürlüklerimizce, gerçek veya tüzel kişi olan işverenlerin ortaklıktan
+kaynaklanan borçlardan kendi paylarına düşen bölümü ödeyip ödemedikleri hususunda ilgili
+mevzuatına göre gerekli araştırma yapılacak ve bu araştırma sonucunda ödemiş olduklarının
+anlaşılması halinde, ortaklık borcundan olan sorumluluk yerine getirilmiş olacağından, diğer
+işyerlerinden de borçlarının olmaması kaydıyla, borcu yoktur yazısı kağıt ortamında
+verilecektir.
+
+       3- 506 sayılı Kanunun 80’inci maddesinin onikinci fıkrası uyarınca sigorta primlerini
+haklı sebepleri olmaksızın, birinci fıkrada belirtilen süre içerisinde tahakkuk ve tediye etmeyen
+kamu kurum ve kuruluşlarının tahakkuk ve tediye ile görevli kamu görevlileri, mesul muhasip,
+sayman ile tüzel kişiliği haiz diğer işverenlerin üst düzey yönetici veya yetkilileri kuruma karşı,
+işverenleri ile birlikte müştereken ve müteselsilen sorumludur.
+
+         Buna göre, e-Borcu Yoktur Başvuru aktivasyon işlemi yapılmış olan gerçek kişi
+işverenlerinin kendi adlarına tescilli işyerleri ile aracısı ve ortağı oldukları işyerlerinden
+kaynaklanan borçlarının olmaması ve üst düzey yönetici oldukları işyerlerinde görev yaptıkları
+süre içerisinde de borçlarının bulunmamasına rağmen, ortaklık veya üst düzey yöneticilik
+ilişkisi sona erdikten sonra söz konusu işyerinin Kurumumuza borcunun bulunması
+durumunda, bu işverenlere daha önce olduğu gibi borcu yoktur yazıları, Sigorta İl/Sigorta
+Müdürlüklerimize bizzat müracaat edilmesi üzerine, gerçekten ortak veya üst düzey yönetici
+oldukları süre içinde tahakkuk eden borçlarının ödenip ödenmediğinin ilgili mevzuatına göre
+araştırılması sonucunda verilecektir.
+
+                                                                                                  11
+       Diğer taraftan, e-Borcu Yoktur Başvurusu sırasında veya daha sonraki bir tarihte
+ortak veya üst düzey yönetici olarak aktivasyonu yapılmış olan işyerlerinden
+kaynaklanan borçların bulunmadığının yukarıda belirtildiği şekilde yapılan araştırma
+sonucunda anlaşılması ve ortaklık veya üst düzey yöneticilik ilişkisinin sona erdiğinin
+de belgelenmesi halinde, e-Borcu Yoktur başvuru aktivasyonunu yapan Sigorta
+İl/Sigorta Müdürlüğünce bu işyerleri aktivasyonu yapılmış işyerleri grubundan
+çıkarılacaktır.
+
+         4- 16-351 Ek sayılı Genelgede işveren ve aracıların, ihale tarihi itibariyle Türkiye
+genelinde Kurumumuza toplam sigorta primine esas aylık kazanç alt sınırına kadar
+borçlarının olması ve söz konusu borçlarının ödenmesi kaydıyla, kendilerine ihale tarihi
+itibariyle “borcu yoktur” yazısı verileceği talimatlandırılmıştır.
+
+        e-Borcu Yoktur uygulamasından yararlanan işverenlerin, aktivasyonu yapılmış olan
+tüm işyerlerinden kaynaklanan borçlarının prime esas kazanç alt sınırının altında olması
+durumunda, söz konusu borçlarını Kurumumuza ödedikten sonra borcu yoktur yazısını
+almaları gerektiğinden, bu durumda olan işverenlerin önceden olduğu gibi ilgili Sigorta
+İl/Sigorta Müdürlüğüne bizzat müracaat etmeleri ve gecikme zamlı olarak hesaplanacak
+toplam borçlarının sigorta primine esas kazanç alt sınırını aşıp aşmadığına göre borcu yoktur
+yazısı almaları gerekmektedir.
+
+         5- Bazı işverenlerimiz prim borçlarını işyerlerinin tescilli olduğu Sigorta İl/Sigorta
+Müdürlüğü dışındaki Ünitelerimiz kanalıyla da ödeyebilmektedirler. Bu durumda olan
+işverenlerimizin e-Borcu Yoktur uygulaması sırasında herhangi bir sorunla karşılaşmamaları
+için bundan böyle ihbarlı kasa tahsil fişleri ile yapılan tahsilatlar ilgili Üniteye derhal
+bildirilecektir.
+
+         6- Yine, prim borçlarını KDV iadesi alacağından mahsup suretiyle ödeyen
+işverenlerimizin e-Borcu Yoktur uygulamaları sırasında herhangi bir sorunla karşılaşmamaları
+için KDV iadesinden mahsup suretiyle yapılacak tahsilatlar gecikilmeden işyeri hesabı cari
+kartlarına işlenecektir.
+
+        7- e-Borcu Yoktur başvuru aktivasyonu yapılmış olan gerçek veya tüzel kişi
+işverenlerinin, gerçekte borçlarının olmamasına rağmen yaptıkları ödemelerin emanet veya
+tasfiye edilecek hesaplara işlenmiş olmasına bağlı olarak e-Borcu Yoktur seçeneklerinden
+aldıkları yazılarda borç görünmesi halinde, borcu olduğu görünen işyerinin bağlı bulunduğu
+Sigorta İl/Sigorta Müdürlüğüne gerekli düzeltme işlemlerinin yapılması için müracaat etmeleri
+gerekmektedir.
+
+       8- 4734 sayılı Kamu İhale Kanununa istinaden Türkiye genelinde kesinleşmiş sosyal
+güvenlik prim borçlarının olup olmadığına ilişkin borcu yoktur yazılarının, daha önceden
+olduğu gibi Sigorta İl/Sigorta Müdürlüklerimize bizzat başvurulması suretiyle alınmak
+istenmesi halinde, bundan böyle Intranet menüsünden yapılacak sorgulama işlemi sadece
+“UNVAN” kriterine göre değil, çapraz kontrolü sağlamak amacıyla bu genelgenin (2.3.1) nolu
+bölümünün 3’üncü maddesinde belirtildiği şekilde tüm kriterler kullanılmak suretiyle
+yapılacaktır.
+
+     V- e-BORCU YOKTUR UYGULAMASININ TANITIMI                           VE    KULLANIMININ
+YAYGINLAŞTIRILMASINA YÖNELİK YAPILACAK ÇALIŞMALAR:
+
+       “e-Borcu Yoktur” uygulamasının tanıtımı ve kullanımının yaygınlaştırılması amacıyla
+Sigorta İl/Sigorta Müdürlüklerimizce;
+
+       1- Genel Müdürlüğümüz tarafından gönderilecek olan afişlerin Ünite girişine ve
+görülebilecek diğer uygun yerlere asılması ve el broşürlerinin işverenlere dağıtımının
+yapılması,
+                                                                                            12
+       2- Konu ile ilgili olarak bir örneği Ek-9’da yer alan basın duyurusunun yerel yazılı ve
+görsel basın organlarında yayımlanması, ayrıca uygulamanın kamuoyuna anlatılmasını
+içeren Ünite Amirlerinin katılacağı TV programlarının düzenlenmesine yönelik girişimlerde
+bulunulması,
+
+        3- İşverenlerin ve serbest muhasebeciler ile serbest muhasebeci mali müşavirlerin
+bilgilendirilmesi amacıyla ilgili oda ve kuruluşlarla müştereken organize edilecek toplantıların
+düzenlenmesi,
+
+       4- Borcu yoktur yazılarını daha önce olduğu gibi Sigorta İl/Sigorta Müdürlüğünden
+almak isteyen gerçek veya tüzel kişi işverenlere e-Borcu Yoktur uygulamasının yararları
+anlatılmak suretiyle başvuruda bulunmalarının sağlanması,
+
+        5- Tanıtımın ve uygulamanın yaygınlaştırılmasında faydalı olacağı düşünülen diğer
+etkinliklerin yerine getirilmesi,
+
+       Hususlarında gerekli çalışma yapılacaktır.
+
+       Bilgi edinilmesini, gereğinin buna göre yapılmasını rica ederiz.
+
+
+
+
+EKLER:
+1- Taahhüt Belgesi
+2- Başvuru Formu (Gerçek Kişi İşverenler İçin)
+3- Başvuru Formu (Tüzel Kişi İşverenler İçin)
+4- Başvuru Formu Doldurma Kılavuzu
+5- Sorgulamada Tespit Edilen İşyerleri Listesi (Gerçek kişi)
+6- Sorgulamada Tespit Edilen İşyerleri Listesi (Tüzel kişi)
+7- Aktivasyon Onay Formu”
+8- İşverene Aktivasyon Yazısı
+9- Basın Açıklaması
+
+DAĞITIM :
+Gereği                  :             Bilgi            :
+Sigorta İl/Sigorta Müdürlükleri       -Çalışma ve Sosyal Güvenlik Bakanlığı
+                                      -Kurum Merkez Üniteleri
+
+
+
+
+                                                                                             13
+

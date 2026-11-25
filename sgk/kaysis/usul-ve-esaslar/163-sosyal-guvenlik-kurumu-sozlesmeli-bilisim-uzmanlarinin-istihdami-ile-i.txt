@@ -1,0 +1,2119 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73827
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 163
+ADI: SOSYAL GÜVENLİK KURUMU SÖZLEŞMELİ BİLİŞİM UZMANLARININ İSTİHDAMI İLE İLGİLİ USUL VE ESASLAR
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e29bcc5e41b80b1d74b2ad8c5b1cc7fd52db338b5a3ea5451b822d415fff0b95
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                       SOSYAL GÜVENLİK KURUMU
+              SÖZLEŞMELİ BİLİŞİM UZMANLARININ İSTİHDAMI İLE
+                          İLGİLİ USUL VE ESASLAR
+
+Yönetim Kurulu Kararının;
+Tarih ve No’su                   : 10/06/2011-2011/163
+Dayandığı Kanun                  : 16/05/2006 tarihli ve 5502 sayılı Kanunun 28 inci
+                                   maddesinin üçüncü fıkrası
+
+
+                                    BİRİNCİ BÖLÜM
+                            Amaç, Kapsam, Dayanak ve Tanımlar
+
+        Amaç
+        MADDE 1- (1) Bu Usul ve Esaslar, Sosyal Güvenlik Kurumunda bilişim hizmetlerini
+yürütmek üzere sözleşmeli olarak istihdam edilecek uzman personelin hizmete alınmaları,
+nitelikleri, görevleri, sorumlulukları, ücretleri ve diğer sosyal haklarına ilişkin hususları
+belirlemek amacıyla düzenlenmiştir.
+
+        Kapsam ve dayanak
+        MADDE 2- (1) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Bu Usul ve
+Esaslar, 16/05/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumuna İlişkin Bazı Düzenlemeler
+Hakkında Kanunun 28 inci maddesinin üçüncü fıkrasına dayanılarak Sosyal Güvenlik
+Kurumunda istihdam edilecek bilişim hizmetlerini yürütecek uzman personeli kapsar.
+
+        Tanımlar
+        MADDE 3- (1) Bu Usul ve Esaslarda geçen;
+        a) Başkan : Sosyal Güvenlik Kurumu Başkanını,
+        b) Bilişim uzmanı : 5502 sayılı Kanunun 28 inci maddesinin üçüncü fıkrasına göre
+Kurumda bilişim hizmetlerini yürütmek üzere istihdam edilecek sözleşmeli uzman personeli,
+        c) Kurum : Sosyal Güvenlik Kurumunu,
+        ç) Mesleki tecrübe: Kamu kurumlarında veya özel sektörde bilgi işlem alanında prim
+ödemek suretiyle çalışılan belgeye dayalı süreleri,
+        d) (Ek:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K) YDS: 04/01/2013 tarihli ve 28518
+sayılı Resmi Gazete’de yayımlanarak yürürlüğe konulan Yabancı Dil Bilgisi Seviye Belirleme
+Usul ve Esasları Hakkında Yönetmelik hükümleri çerçevesinde gerçekleştirilen Yabancı Dil
+Bilgisi Seviye Tespit Sınavını,
+        ifade eder.
+
+
+                                        İKİNCİ BÖLÜM
+                           Nitelikleri, Sınavları ve Yerleştirilmeleri
+
+       Aranacak nitelikler
+       MADDE 4- (1) Bilişim uzmanlarının aşağıdaki şartları taşımaları gerekir:
+       a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde yazılı genel şartları
+taşımak.
+       b) Mühendislik fakülteleri veya fen edebiyat fakültelerinin 4 yıllık istatistik, matematik,
+fizik bölümlerinden mezun olmaları ve yükseköğretimi sırasında bilgisayar alanında aldığı
+derslerde öğrendiği programlama dillerine ilişkin belge veya üniversitelerin ya da Millî Eğitim
+Bakanlığının onaylı bilgisayar kurslarını bitirdiğine ilişkin sertifika sahibi olmak.
+
+
+
+                                                                                             1
+       c) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K – 11/12/2014 tarihli ve
+2014/538 sayılı Y.K.K) Yurt içi veya yurt dışında İngilizce dilinde öğretim yapan
+üniversitelerden lisans düzeyinde mezun olmak veya ana dili İngilizce olan ülkelerde yüksek
+lisans veya doktora yapmış olmak veya YDS İngilizceden en az (E) düzeyinde puan almış
+olmak ya da YDS dışındaki İngilizce dil sınavlarında YDS (E) düzeyine eşdeğer Ölçme Seçme
+ve Yerleştirme Merkezi Yönetim Kurulu tarafından belirlenen puanları almış olmak.
+       ç) (Mülga:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K)
+       d) Yapılacak sınavda en az 70 (yetmiş) puan almak.
+       e) İlanda belirtilecek özel şartları taşımak.
+
+        Sınavlar
+        MADDE 5- (1) Sınav, yazılı ve/veya sözlü olarak yapılır.
+         (2) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Sınav ve başvuruların
+incelenmesi, sınavın gerçekleştirilmesi, sonuçlarının tespiti ile yerleştirilen adayların ilan edilen
+niteliklere uygunluğu gibi sınava ilişkin tüm işlemler, Başkan veya görevlendireceği Başkan
+Yardımcısının başkanlığında, Hizmet Sunumu Genel Müdürü, Personel Daire Başkanı ve
+Başkan tarafından görevlendirilecek iki üye olmak üzere toplam 5 kişiden oluşan Sınav
+Komisyonu tarafından gerçekleştirilir.
+        (3) Sınavda, mesleki bilgilere ilişkin sorulara ilave olarak takım çalışması ve
+çözümleme yeteneğine ilişkin sorular da sorulabilir.
+        (4) Başarı puanı; başvuru özel şartlarında belirtilen nitelikler ile ilgili ibraz edilen
+belgelerin Sınav Komisyonunca değerlendirilerek belirlenecek kriterlere göre hesaplanacak
+puan toplamı ile sınav notlarının ortalaması esas alınarak belirlenir.
+        (5) Başarı sırası; en yüksek başarı puanından başlamak üzere düzenlenir.
+        (6) Adayların başarı puanlarının aynı olması halinde, sırasıyla iş tecrübelerine ve
+yabancı dil puanına bakılarak başarı sırası tespit edilir.
+
+        İstenilecek belgeler
+        MADDE 6- (1) Kurumda bilişim uzmanı olarak istihdam edilmek üzere müracaat
+edecek kişilerden aşağıda belirtilen belgeler istenir:
+        a) İş talep formu.
+        b) Diploma aslı veya noter, okul yada Kurum tarafından onaylı örneği (diplomanın
+düzenlenmemiş olması halinde, öğrenim durumunu belirtmek üzere usulüne göre verilmiş ve
+daha sonra diploma veya örnekleriyle değiştirilecek belgenin noterden veya okuldan yada
+Kurum tarafından onaylı örneği).
+        c) 2 adet vesikalık fotoğraf.
+        ç) Muvazzaf askerlik hizmetinin yapıldığı yahut ertelendiği veya yedek sınıfa
+geçirildiğine dair yazılı beyan.
+        d) Tebligata esas adres beyanı.
+        e) Özür durumuna göre tüm vücut fonksiyon kaybı oranının % 40 ve üzerinde özürlü
+olmadığını gösterir yazılı beyan.
+        f) Mal bildirimi.
+        g) Kurum tarafından hizmetin özelliğine göre gerekli görülmesi halinde istenebilecek
+diğer belgeler.
+
+       Yerleştirilmeleri
+       MADDE 7- (1) Bilişim uzmanlarının yerleştirme işlemleri, başarı sırası ve ilan edilen
+pozisyon sayısı dikkate alınarak yapılır.
+       (2) Yerleştirilmeye hak kazananlar, tebliğ tarihinden itibaren 15 gün içerisinde Kuruma
+müracaat ederek sözleşme imzalamak ve sözleşme tarihinden itibaren en geç 7 gün içerisinde
+göreve başlamak zorundadırlar. Belirtilen süreler içerisinde sözleşme imzalamayan ve göreve
+başlamayanların yerleştirme işlemi iptal edilir.
+
+
+                                                                                                2
+       (3) Adreste bulunmadıkları gerekçesiyle tebligat yapılamayanlar hakkında 7201 sayılı
+Tebligat Kanununun 21 inci maddesi hükmü uygulanır.
+       (4) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Personel Daire Başkanlığınca
+düzenlenen Ek-1 Hizmet Sözleşmesi, Başkan ve bilişim uzmanı tarafından imzalanır.
+
+
+                                    ÜÇÜNCÜ BÖLÜM
+                                   Ödev ve Sorumluluklar
+
+       Sadakat
+       MADDE 8- (1) Bilişim uzmanları, Türkiye Cumhuriyeti Anayasasına ve kanunlarına
+sadakatla bağlı kalmak ve Milletin hizmetinde Türkiye Cumhuriyeti kanunlarını sadakatla
+uygulamak zorundadırlar.
+
+        Tarafsızlık
+        MADDE 9- (1) Bilişim uzmanları, siyasi partiye üye olamazlar, herhangi bir siyasi
+parti, kişi veya zümrenin yararını veya zararını hedef tutan bir davranışta bulunamazlar;
+görevlerini yerine getirirlerken dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep
+gibi ayırım yapamazlar; hiçbir şekilde siyasi ve ideolojik amaçlı beyanda ve eylemde
+bulunamazlar ve bu eylemlere katılamazlar.
+        (2) Bilişim uzmanları, her durumda Devletin menfaatlerini korumak
+mecburiyetindedirler. Türkiye Cumhuriyeti Anayasasına ve kanunlarına aykırı olan,
+memleketin bağımsızlığını ve bütünlüğünü bozan Türkiye Cumhuriyetinin güvenliğini
+tehlikeye düşüren herhangi bir faaliyette bulunamazlar. Aynı nitelikte faaliyet gösteren
+herhangi bir harekete, gruplaşmaya, teşekküle veya derneğe katılamazlar, bunlara yardım
+edemezler.
+
+       Davranış ve işbirliği
+       MADDE 10- (1) Bilişim uzmanları resmi sıfatlarının gerektirdiği itibar ve güvene layık
+olduklarını, hizmet içindeki ve dışındaki davranışlarıyla göstermek zorundadırlar. Kurumun
+diğer personeli ile işbirliği içinde çalışmaları esastır.
+
+      Görev ve sorumluluk
+      MADDE 11- (1) Bilişim uzmanları belirlenen görevleri zamanında ve eksiksiz olarak
+yapmak veya yapılmasını sağlamak ve işlerin takip, kontrol ve sonuçlandırılmasından görevli
+ve sorumlu; yürürlükteki mevzuat ile sözleşmelerinde belirtilen esaslara uymakla
+yükümlüdürler.
+
+        Kişisel sorumluluk ve zarar
+        MADDE 12- (1) Bilişim uzmanları, görevlerini dikkat ve itina ile yerine getirmek,
+kendilerine teslim edilen Devlet malını korumak ve her an hizmete hazır halde bulundurmak
+için gerekli tedbirleri almak zorundadırlar. Bilişim uzmanlarının kasıt, kusur, ihmal veya
+tedbirsizliği sonucu idarenin zarara uğratılması halinde zarar, ilgili tarafından rayiç bedel
+üzerinden ödenir. Zararların ödettirilmesinde bu konudaki genel hükümler uygulanır.
+
+       Mal bildirimi
+       MADDE 13- (1) Bilişim uzmanları kendileriyle, eşlerine ve velayetleri altındaki
+çocuklarına ait taşınır ve taşınmaz malları, alacak ve borçları hakkında, özel kanunda yazılı
+hükümler uyarınca mal bildirimi verirler.
+
+
+
+
+                                                                                           3
+         Resmi belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve
+iadesi
+        MADDE 14- (1) Bilişim uzmanları, görevleri ile ilgili resmi belge, araç ve gereçleri,
+yetki verilen mahaller dışına çıkaramazlar, amaçları dışında ve hususi işlerinde kullanamazlar.
+        (2) Bilişim uzmanları, görevleri icabı kendilerine teslim edilen resmi belge, araç ve
+gereçleri görevleri sona erdiği zaman iade etmek zorundadırlar. Bu zorunluluk bilişim
+uzmanlarının mirasçılarını da kapsar.
+
+       İkamet ve adres bildirme
+       MADDE 15- (1) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Bilişim
+uzmanları, sürekli ve geçici adreslerini göreve başlama tarihinden itibaren, adres
+değişikliklerini ise değişikliğin vuku bulduğu tarihten itibaren en geç bir ay içerisinde Personel
+Daire Başkanlığına bildirmek zorundadır.
+
+        Eğitim
+        MADDE 16- (1) (Değişik:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K) Bilişim
+uzmanına, yaptığı işle ilgili olarak hizmet alımı yöntemiyle eğitim imkanı sağlanabilir. Bu
+şekilde eğitim imkanı sağlanan bilişim uzmanının 28 inci maddenin birinci fıkrasının (a), (ç) ve
+(f) bentlerinde sayılan haller nedeniyle (sözleşmeli personel olarak istihdam edilme şartlarından
+herhangi birinin sonradan kaybedilmesi, sözleşmeli personel pozisyonunun iptali nedeniyle
+personelin hizmetine ihtiyaç kalmaması, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanunu gereğince sürekli tam iş göremezlik geliri, malullük veya yaşlılık aylığı
+bağlanması ya da toptan ödeme yapılması ile ölüm nedeniyle sözleşmenin feshedilmesi hariç)
+sözleşmesinin feshedilmesi durumunda, sözleşme dönemi içerisinde yapılan eğitim masrafları
+kendisinden genel hükümlere göre tahsil edilir.
+        (2) Bilişim uzmanına eğitim imkanı sağlanmadan önce bu yöndeki talebi aranır ve
+birinci fıkranın uygulanmasını teminen yazılı taahhütname alınır.
+
+
+                                    DÖRDÜNCÜ BÖLÜM
+                                     Haklar ve Yasaklar
+
+       Sosyal güvenlikleri
+       MADDE 17- (1) Bilişim uzmanları, sosyal güvenlikleri bakımından 5510 sayılı Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamındadırlar.
+
+        Çalışma saatleri ve izin
+        MADDE 18- (1) Bilişim uzmanlarının haftalık çalışma süresi 45 saattir. İşlerin
+bitirilmesinin zorunlu olduğu hallerde bilişim uzmanları çalışma saatleri dışında da çalıştırılır.
+        (2) Bilişim uzmanlarının izinleri hakkında, 06/06/1978 tarihli ve 7/15754 sayılı
+Bakanlar Kurulu Kararı ile yürürlüğe konulan Sözleşmeli Personel Çalıştırılmasına İlişkin
+Esasların ilgili hükümleri uygulanır.
+
+        Hediye alma, menfaat sağlama yasağı
+        MADDE 19- (1) Bilişim uzmanlarının doğrudan doğruya veya aracı eliyle hediye
+istemeleri ve görevleri sırasında olmasa dahi menfaat sağlama amacı ile hediye kabul etmeleri
+veya iş sahiplerinden borç para istemeleri ve almaları yasaktır.
+
+       Basına bilgi veya demeç verme yasağı
+       MADDE 20- (1) Bilişim uzmanları, görevleri ve sorumluluk alanları ile ilgili olarak
+basına, haber ajanslarına veya radyo ve televizyon kurumlarına Başkanın izni olmadan bilgi
+veya demeç veremezler.
+                                                                                            4
+       Toplu eylem ve hareketlerde bulunma yasağı
+       MADDE 21- (1) Bilişim uzmanlarının hizmetlerini aksatacak şekilde kasıtlı olarak
+sözleşmelerini feshetmeleri veya görevlerine gelmemeleri veya görevlerine gelip de Devlet
+hizmetlerinin ve işlerinin yavaşlatılması veya aksatılması sonucunu doğuracak eylem ve
+hareketlerde bulunmaları yasaktır.
+
+       Grev yasağı
+       MADDE 22- (1) Bilişim uzmanlarının greve karar vermeleri, grev tertiplemeleri, ilan
+etmeleri, bu yolda propaganda yapmaları, herhangi bir greve veya grev teşebbüsüne
+katılmaları, desteklemeleri veya teşvik etmeleri yasaktır.
+
+        Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı
+        MADDE 23- (1) Bilişim uzmanları kazanç getirici başka bir iş yapamazlar.
+        (2) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K) Türk Ticaret Kanununa
+göre tacir veya esnaf sayılmalarını gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi
+müesseselerinde görev alamaz, ticari mümessil veya ticari vekil veya anonim şirketler dahil
+olmak üzere Kurum faaliyet konuları ile doğrudan ya da dolaylı olarak ilgisi olabilecek mal ve
+hizmetlerin istihsal ve ticareti ile uğraşan şirketlere ortak olamazlar. Bunların eşleri ile reşit
+olmayan çocukları da, Kurum faaliyet konuları ile doğrudan ya da dolaylı olarak ilgisi
+olabilecek mal ve hizmetlerin istihsal ve ticareti ile uğraşan şirketlere ortak olamazlar.
+         (3) Bilişim uzmanlarının üyesi oldukları yapı, kalkınma ve tüketim kooperatifleri ile
+kanunla kurulmuş yardım sandıklarının yönetim ve denetim kurulları üyelikleri görevleri ve
+özel kanunlarda belirtilen görevler bu yasaklamanın dışındadır.
+
+       Bilgileri açıklama ve kullanma yasağı
+       MADDE 24- (1) Bilişim uzmanlarının, görev ve sorumluluk alanlarına giren konular ve
+kamu hizmetleri ile ilgili bilgileri görevlerinden ayrılmış olsalar dahi açıklamaları ve yapılan
+çalışmaları değişik şekillerde veya benzer nitelikli uygulamalarda kullanmaları yasaktır.
+
+
+                                      BEŞİNCİ BÖLÜM
+                                        Özlük İşleri
+
+       Kişisel dosya ve kimlik belgesi
+       MADDE 25- (1) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Bilişim
+uzmanları hakkında Personel Daire Başkanlığı tarafından kişisel dosya tutulur.
+        (2) Bilişim uzmanlarına Kurumda görev yaptığını gösterir fotoğraflı ve onaylı bir
+kimlik belgesi verilir. Kurumdan ayrılanlar bu belgeleri iade etmek zorundadır.
+        (3) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Bilişim uzmanlarından
+kimlik belgelerini kaybedenler, bu hususu Personel Daire Başkanlığına derhal bildirmek
+zorundadır.
+
+        Görev birimleri
+        MADDE 26- (1) Bilişim uzmanları, Başkan tarafından bilişim hizmetleri ile ilgili
+birimlerde görevlendirilir ve Hizmet Sunumu Genel Müdürü ile ilgili Daire Başkanına bağlı
+olarak çalışırlar.
+        (2) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Bilişim uzmanları; Genel ve
+özel nitelikler ile mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevlere ilişkin
+Pozisyon Bazında İş/Görev Tanımlarında belirtilen işler dışında başka bir işte çalıştırılamaz.
+        (3) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Bilişim uzmanlarının görev yetki
+ve sorumlulukları ile pozisyonlarının gerektirdiği görevlere ilşkin hususlar, Kurumca
+hazırlanacak Pozisyon Bazında İş/Görev Tanımlarında belirtilir.
+
+
+                                                                                            5
+       Sözleşme süresi
+       MADDE 27- (1) Bilişim uzmanlarının sözleşme süreleri mali yıl ile sınırlıdır.
+
+        Hizmet sözleşmesinin sona ermesi
+        MADDE 28- (1) Bilişim uzmanlarının sözleşmeleri aşağıdaki hallerde sona erer:
+        a) (Değişik:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K) Sözleşmeler; bu Usul ve
+Esaslar ile sözleşme hükümlerine aykırı davranışların tespit edilmesi, sözleşmeli personel
+olarak istihdam edilme şartlarından herhangi birinin taşınmadığının sonradan anlaşılması veya
+sonradan bu şartlardan birinin kaybedilmesi, bu Usul ve Esaslara göre hizmet sözleşmesinin
+feshi cezası verilmesi, sözleşmeli personel pozisyonunun iptali nedeniyle personelin hizmetine
+ihtiyaç kalmaması, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereğince
+sürekli tam iş göremezlik geliri, malullük veya yaşlılık aylığı bağlanması ya da toptan ödeme
+yapılması ve ölüm hallerinde sona erer.
+        b) Bilişim uzmanı olarak çalıştırılmakta iken 65 yaşını dolduranların sözleşmeleri, 65
+yaşını doldurdukları tarihte hiçbir işleme gerek kalmaksızın sona erer.
+        c) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Kurum, bir ay önce ihbar
+etmek ve gerekçe göstermek suretiyle sözleşmeyi tek taraflı olarak her zaman feshedebilir.
+        ç) Bilişim uzmanı tarafından yıl içerisinde veya bu maddenin (d) bendinde belirtilen
+esaslara uymadan sözleşmenin tek taraflı olarak feshedilmesi ile göreve gelmeme nedeniyle
+hizmet sözleşmesinin feshi cezası verilmesi hallerinde, bilişim uzmanı sözleşme brüt ücretinin
+üç katı tutarında tazminat öder.
+        d) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Bilişim uzmanı, sözleşme
+süresinin bitim tarihinden bir ay önce ihbar etmek şartıyla sebep göstermeksizin sözleşmeyi
+yenilemeyebilir. Bu şekilde sözleşmesi sona erenlerden Kurumca tazminat talep edilmez.
+        e) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Yıl içerisindeki çalışmaları;
+somut bilgi ve belge ile nesnel ölçme değerlendirme kriterlerine dayandırılarak belirlenen
+performans puanı 59 ve daha aşağı olan bilişim uzmanlarının sözleşmeleri yenilenmez.
+        f) İş talep formunda gerçek dışı beyanda bulunarak Kurumu yanıltanların sözleşmeleri
+Kurumca fesh edilir ve haklarında 5237 sayılı Türk Ceza Kanununun ilgili hükümleri
+uygulanır.
+        g) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Bilişim uzmanının bir proje
+kapsamında işe alınması durumunda, istihdam edildiği projenin sözleşmede öngörülen süreden
+önce tamamlanması halinde, Kurum sözleşmeyi tek taraflı fesh edebilir.
+
+        Yeniden hizmete alınma
+        MADDE 29- (1) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Doğum, evlat
+edinme ve askerlik sebebiyle Kuruma yazılı başvurmaları durumunda hizmet sözleşmesi
+feshedilen bilişim uzmanlarının pozisyonları saklı tutulur ve istekleri halinde yeniden hizmete
+alınırlar.
+       Ancak, yeniden hizmete alınacak bilişim uzmanının; sözleşmesinin feshi sebebiyle iş sonu
+tazminatı almamış bulunması,
+        a) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Doğum ya da üç yaşını
+doldurmamış bir çocuğun eşle birlikte veya münferit olarak evlat edinilmesi veyahut sözleşmeli
+personel olmayan eşin münferit olarak evlat edinmesi nedenleriyle hizmet sözleşmesini
+feshedenlerin, yeniden göreve dönmek istemesi halinde, doğum izninin veya evlat edinme
+nedeniyle kullanılan iznin bitiminden itibaren en geç iki yıl,
+        b) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Muvazzaf askerlik hizmeti
+sebebiyle sözleşmesi feshedilenlerin yeniden göreve dönmek istemesi halinde, terhis tarihinden
+itibaren en geç otuz gün
+        içinde Kuruma yazılı talepte bulunması gerekir.
+        (2) Yazılı talebi takip eden en geç otuz gün içerisinde ilgililer göreve başlatılır.
+        (3) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Bu madde çerçevesinde
+yapılacak sözleşme eski sözleşmenin devamı niteliğinde olup, bilişim uzmanının sözleşme
+                                                                                        6
+ ücretinin tespitinde en son performans puanı esas alınır.
+
+                                       ALTINCI BÖLÜM
+                                         Mali Haklar
+
+          (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Ücret ve Performans
+          Değerlendirmesi
+          MADDE 30- (1) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K-27/09/2012
+ tarihli ve 2012/354 sayılı Y.K.K) Bilişim uzmanlarının aylık ücretleri aşağıdaki tavan
+ ücretleri geçmemek üzere grup bazında Yönetim Kurulu tarafından tespit edilir.
+
+                                                      657 SAYILI D.M.K.’NUN
+                                                      4/B MADDESİNE GÖRE
+                                                      İSTİHDAM EDİLENLER
+        GRUBU            UNVANI           ADEDİ
+                                                         İÇİN BELİRLENEN
+                                                        SÖZLEŞME ÜCRETİ
+                                                            TAVANININ
+           A         Bilişim uzmanı          5                  5 katı
+
+           B         Bilişim uzmanı          5                  4 katı
+
+           C         Bilişim uzmanı          70                 3 katı
+
+          (2) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) A grubundan ücret
+ ödeneceklerde en az 5 yıl, B grubundan ücret ödeneceklerde en az 2 yıl, C grubundan ücret
+ ödeneceklerde ise en az 1 yıl mesleki tecrübe aranır.
+          (3) Ücretler, çalışılan günleri takip eden ayın onbeşinde ödenir.
+          (4) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K - Değişik:17/05/2017 tarihli
+ve 2017/189 sayılı Y.K.K - Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) Bilişim
+uzmanlarının mevcut sözleşmelerinin yenilenmesi ve sözleşme ücretlerinin tespitine esas olmak
+üzere;
+        a) Daire Başkanı (birinci amir) ile Daire Başkanlığının bağlı bulunduğu Genel Müdür
+Yardımcısı (ikinci amir) tarafından,
+        b) Bu maddenin beşinci fıkrasının (c) bendinin iki, üç ve beşinci alt bendinde belirtilen
+durumlarda üçüncü amir olarak Hizmet Sunumu Genel Müdürü tarafından,
+        c) (Değişik:07/03/2019 tarihli ve 2019/55 sayılı Y.K.K) Hizmet Sunumu Genel
+Müdürlüğü dışında görevli bulunan bilişim uzmanlarının görev yaptığı birimdeki hiyerarşik
+kademe esasına göre bağlı bulunduğu en yakın birinci ve ikinci amirleri tarafından, bilişim
+uzmanının yıl içerisindeki çalışmaları mesleki, davranışsal ve bireysel yeterlilikleri yönüyle
+değerlendirilerek; Ek-2, Ek-3, Ek-4, Ek-5, Ek-6, Ek-7, Ek-8, Ek-9 ve Ek-10’da yer alan
+performans ölçme ve değerlendirme formları Kasım ayının en geç 15’ine kadar doldurulur ve
+Başkanlık Makamının onayı alındıktan sonra en geç 20 Kasım gününe kadar Personel Daire
+Başkanlığına teslim edilir.
+         (5) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K- Değişik:17/05/2017 tarihli
+ ve 2017/189 sayılı Y.K.K- Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) Bilişim
+ uzmanlarının performans ölçme ve değerlendirmeleri; mesleki yeterlilikleri yönünden 70 puan,
+ davranışsal ve bireysel yetkinlikleri yönünden 30 puan olmak üzere toplam 100 puan
+ üzerinden ve amirlerin verdiği genel toplam puanların aritmetik ortalaması esas alınarak
+ belirlenir. Not ortalamaları hesaplanırken her türlü kesirler tam sayıya tamamlanır. Performans
+ puanı 70 ve üzerinde olan sözleşmeli bilişim uzmanı iyi derecede yeterli sayılarak bu maddenin
+ yedinci fıkrasına göre yapılacak ücret artışından yararlandırılır ve sözleşmeleri yenilenir.
+ Performans puanı 60 ila (60 ve 69 dahil) 69 arasında olanlar ise performansı vasat derecede
+                                                                                            7
+ yeterli sayılarak ücret artışından yararlandırılmaz, ancak sözleşmeleri yenilenir.
+          a) (Değişik:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K - Değişik:09/05/2018 tarihli
+  ve 2018/159 sayılı Y.K.K)
+        Performans puanları;
+        1) 95-100 (A)
+        2) 90-94 (B)
+        3) 85-89 (C)
+        4) 80-84 (D)
+        5) 75-79 (E)
+        6) 70-74 (F)
+olarak belirlenmiştir.
+         b) (Değişik:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Değişik:09/05/2018 tarihli ve
+2018/159 sayılı Y.K.K) Performans puanı 60 ila 69 arasında (60 ve 69 dahil) vasat derecede
+yeterli sayılanların sözleşme ücretlerinin tespitinde;
+         1) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K- Değişik:17/05/2017 tarihli ve
+2017/189 sayılı Y.K.K- Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) (A) ve (B)
+grubundan ücret alan bilişim uzmanları için Ek-11 ücret cetvelindeki gruplara göre belirlenen bir
+alt grubun aynı mesleki tecrübe yılı, yabancı dil düzeyi ve performans ölçme ve değerlendirmenin
+yapıldığı yılda tespit edilen en düşük ücret tutarları esas alınır.
+        2) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K- Değişik:17/05/2017 tarihli ve
+2017/189 sayılı Y.K.K- Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) (C) grubundan
+ücret alan bilişim uzmanları için Ek-11 ücret cetvelindeki (C) grubu için belirlenen aynı mesleki
+tecrübe yılı, yabancı dil düzeyi ve performans ölçme ve değerlendirmenin yapıldığı yılda tespit
+edilen en düşük ücret tutarları esas alınır.
+        c) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Performans ölçme ve değerlendirme formlarının doldurulması;
+        1) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Bilişim uzmanının yıllık performans ölçme ve değerlendirme puanı, en az altı ay
+birlikte çalışmış olduğu amirleri tarafından verilir.
+        2) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Birinci ve ikinci amir görev/yetkilerinin tek kişi tarafından yürütülmesi veya birinci
+veya ikinci amirlerden birinin değerlendirme yapacak süre kadar görevde kalmaması durumunda,
+performans ölçme ve değerlendirme puanı mevcut amir ile Genel Müdür tarafından verilir.
+        3) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Birinci ve ikinci amirlerin her ikisinin de değerlendirme yapacak süre kadar
+görevde kalmaması durumunda performans ölçme ve değerlendirme puanı Genel Müdür
+tarafından verilir.
+        4) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Birinci, ikinci ve üçüncü amirlerin her üçünün de değerlendirme yapacak süre
+görevde kalmaması veya bilişim uzmanının yıl içinde çeşitli nedenlerle (doğum, hastalık, mazeret
+izni vb.) performans ölçme ve değerlendirme formunu doldurmak için gerekli altı aylık çalışma
+süresinin bulunmaması durumunda, bilişim uzmanının geriye doğru üç yıllık performans
+puanlarının aritmetik ortalaması, iki yıllık çalışma süresi varsa son iki yıllık performans
+puanlarının aritmetik ortalaması, bir yıllık çalışması varsa bir yıllık performans notu cari yıl
+performans ölçme ve değerlendirme notu olarak esas alınır.
+        5) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+sayılı Y.K.K) Birinci ve ikinci amirlerince yapılan değerlendirmelerin bilişim uzmanının
+performans puanı genel toplamının yeterli veya yetersiz olmasına tesir etmesi veya iki amirin
+ortalama performans puanı arasında 10 veya daha fazla fark olması halinde, üçüncü amir
+                                                                                             8
+tarafından da performans puanı verilir ve üç amirin performans puanları genel toplamının
+aritmetik ortalaması esas alınır. Üçüncü amir bulunmadığı takdirde bir ve ikinci amirinin
+performans puanları genel toplamının aritmetik ortalaması esas alınır.
+        6) (Mülga:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K- Ek:09/05/2018 tarihli ve 2018/159
+ sayılı Y.K.K) Performans ölçme ve değerlendirme formuna göre belirlenen puanlar, Hizmet
+ Sunumu Genel Müdürlüğü Yönetim Hizmetleri Daire Başkanlığına ulaştıktan sonra, en geç on
+ gün içinde bilişim uzmanlarına bildirilir.
+        ç) (Ek: 09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) Davranışsal ve bireysel yeterlilik
+dereceleri ile verilebilecek puanlar:
+        1) İnsan ilişkileri performansının dereceleri;
+        Yetersiz: İletişime açık değil, mesai arkadaşları ve üstleri ile olan ikili ilişkilerinde tutarsız
+davranışlar sergiliyor. (1 Puan)
+        Orta derecede yeterli: İletişim düzeyi gelişime açık, üstleri ile olan ikili ilişkilerinde
+saygılı, ancak mesai arkadaşları ile olan ilişkilerinde tutarsız davranışlar sergiliyor. (2 Puan)
+        İyi derecede yeterli: İletişime açık, üstleri ve mesai arkadaşları ile olan ikili ilişkilerinde
+saygılı ve yardımsever yapıdadır. (3 Puan)
+        2) Organizasyon becerisi performansının dereceleri;
+        Yetersiz: Organizasyon becerisi zayıf, bu konuda herhangi bir çabası bulunmuyor. (1
+Puan)
+        Orta derecede yeterli: Verilen bir görevi hayata geçirme istek ve arzusunda olmakla
+birlikte organizasyon ve plan oluşturmada eksiklikleri bulunuyor. (2 Puan)
+        İyi derecede yeterli: Verilen bir görevi tüm yönleriyle planlayıp organize edebiliyor, fikir
+ve projelere açık bir yapıdadır. (3 Puan)
+        3) Öğrenmeye yatkın olma performansının dereceleri;
+        Yetersiz: Kendini geliştirme isteği yoktur, öğrenmeye yatkın değildir. (1 Puan)
+        Orta derecede yeterli: Yeni teknolojileri öğrenme konusunda çaba göstermekte, ancak
+öğrendiklerini uygulamaya geçirmede sorunlar yaşamaktadır. (2 Puan)
+        İyi derecede yeterli: Yeni teknolojileri yakından takip etmekte, öğrenime ve gelişime açık,
+öğrendiklerini uygulamaya aktarabilecek niteliktedir. (3 Puan)
+        4) Girişimcilik ve yeniliklere yatkın olma performansının dereceleri;
+        Yetersiz: Girişimcilik yeteneği zayıftır, yeniliklere yatkın değildir. (1 Puan)
+        Orta derecede yeterli: Girişimcilik konusunda kendisini geliştirme gayreti içindedir, yeni
+proje ve uygulamalarda uyumu açıktır. (2 Puan)
+        İyi derecede yeterli: Yeni fikirleri ve yöntemleri denemekten çekinmez, yeni uygulamaları
+takip eder ve uygular. Girişimci ve yeniliklere yatkındır. (3 Puan)
+        5) Takım çalışması performansının dereceleri;
+        Yetersiz: Genellikle bireysel çalışmayı tercih eder, yaptığı çalışmanın diğer personelin
+çalışmalarını nasıl etkileyeceğini düşünmez. Ekip arkadaşları arasında uyum sorunu yaşar. (1
+Puan)
+        Orta derecede yeterli: Takım çalışması içinde yer almak için isteklidir, ekip arkadaşlarıyla
+olan uyum konusunda sorun yaşamaz. Ancak takım çalışmasına liderlik edemez. (2 Puan)
+        İyi derecede yeterli: Takım çalışmasında liderlik vasfına sahiptir. Arkadaşlarıyla birlikte
+ekip ruhuna uygun olarak çalışır. Ekip arkadaşlarını yönlendirir ve koordinasyonu sağlar. (3
+Puan)
+        6) Hizmet odaklı performansının dereceleri;
+        Yetersiz: Kurum hizmetlerinin sunulmasında gerekli çabayı göstermez. Hizmet odaklı
+çalışma konusunda ilgisiz ve yetersizdir. (1 Puan)
+        Orta derecede yeterli: Kurum hizmetlerinin sunulmasında azami çabayı gösterir.
+Çalışmalarında hizmetin gerektirdiği hedefe ulaşmaya gayret eder. (2 Puan)
+        İyi derecede yeterli: Kurum hizmetlerinin sunulmasında gerekli çabayı gösterir. Hizmet
+odaklı çalışma konusunda etkili ve çözüm odaklıdır. (3 Puan)
+        7) Karar alma performansının dereceleri;
+
+                                                                                                  9
+        Yetersiz: Bir iş veya karşılaştığı sorunla ilgili karar veremediği gibi, görüş de beyan
+etmez, ortak karar verme sürecine katkıda bulunmaz. (1 Puan)
+        Orta derecede yeterli: Bir iş veya karşılaştığı sorun hakkında fikir ve görüşlerini beyan
+eder, ancak karar vermeden önce yeteri kadar araştırma yapmaz, kararlarında tutarsızdır. (2 Puan)
+        İyi derecede yeterli: Bir iş veya karşılaştığı sorun hakkındaki fikir ve görüşlerini
+gerekçeleriyle birlikte ortaya koyar, karar vermeden önce her türlü araştırmayı yapar, karar alma
+noktasında azami özen gösterir. (3 Puan)
+        8) Programlı çalışma performansının dereceleri;
+        Yetersiz: Çalışmaya başlamadan önce iş planı yapmaz, gelişi güzel ve dağınık çalışır, işin
+planlanan sürede bitirilmesine dikkat etmez. (1 Puan)
+        Orta derecede yeterli: İş planı yapar, ancak yaptığı plana her zaman riayet etmez, işin
+planlanan sürede bitirilmesine gayret eder. (2 Puan)
+        İyi derecede yeterli: Planlı ve düzenli çalışır. Planlanan sürede işini tamamlar, işin
+bitirilmesi için gerekirse sisteme uzaktan bağlantı yaparak çalışır. (3 Puan)
+        9) İşe bağlılığı performansının dereceleri;
+        Yetersiz: İşe aidiyet duygusu gelişmemiştir, gelişmesi için desteğe ihtiyacı vardır. (1
+Puan)
+        Orta derecede yeterli: İşine bağlıdır. Kendini kanıtlama arzusu içindedir. Ancak zaman
+zaman görevlerinin hatırlatılması gerekiyor. (2 Puan)
+        İyi derecede yeterli: İşe aidiyet duygusu yüksektir. İşini baştan sonuna kadar takip eder,
+görevini doğru ve zamanından önce bitirir, başkalarının tamamlayamadığı işleri yapma
+konusunda gönüllüdür. (3 Puan)
+        10) Sorumluluk alma performansının dereceleri;
+        Yetersiz: Sorumluluk almaktan kaçınır, görev ve sorumluluklarının sıklıkla hatırlatılması
+gerekir. (1 Puan)
+        Orta derecede yeterli: Sorumluluk almaktan kaçınmaz. Ancak sorumlu olduğu görevlerin
+zamanında ve eksiksiz olarak yerine getirilmesinde gerekli özeni göstermez. (2 Puan)
+        İyi derecede yeterli: Sorumluluk sahibidir. Sorumlu olduğu görevleri zamanında ve
+eksiksiz olarak yerine getirir. Görevini tamamladıktan sonra yeni sorumluluklar üstlenmekten
+çekinmez. (3 Puan)
+        11) Mesleki, Davranışsal ve Bireysel Yeterlilik Notları Genel Toplamı;
+        İyi derecede yeterli (70-100 Puan): İşin normal gereklerini her zaman yerine getirdiği gibi,
+bazı konularda beklenen ortalamanın üzerinde başarı gösterir, performans bakımından örnek
+gösterilecek düzeyde başarılıdır.
+        Orta derecede yeterli (60-69 Puan): İşin gereklerini yerine getirme ve beklenen
+performansı gösterme açısından yetersizlikleri vardır. Genel olarak, vasat bir performans gösterir.
+        (6) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K- Değişik:17/05/2017 tarihli
+ ve 2017/189 sayılı Y.K.K- Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K) Sözleşme
+ ücretleri, performans puanı ile mesleki tecrübe yılı ve yabancı dil düzeyi esas alınarak Ek-11
+ Ücret Cetvelinde gösterilmiştir. Ek-11 Ücret Cetveli, birinci fıkrada belirtilen tavan ücretlerini
+ geçmemek üzere Yönetim Kurulu Kararı ile değiştirilebilir. Kurumda ilk defa sözleşmeli
+ bilişim uzmanı olarak göreve başlayacak personel ile göreve başladığı yılda çalışma süresi
+ yönüyle hakkında performans ölçme ve değerlendirme formu doldurma imkânı bulunmayan,
+ ancak sözleşmesi yenilenen bilişim uzmanının cari yıl performans puanı olarak, Ek-11 Ücret
+ Cetvelinde gruplara göre belirlenen en düşük performans puanları esas alınır.
+       (7) (Değişik:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K / 17/12/2015 tarihli ve
+2015/461 sayılı Y.K.K - Değişik:17/05/2017 tarihli ve 2017/189 sayılı Y.K.K-
+Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K – Değişik: 30/01/2020 tarihli ve 2020/55
+sayılı Y.K.K) Performans kriterlerine göre Ek-11 Ücret Cetvelinde belirtilen tutarlar, 657 sayılı
+Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası hükmü uyarınca çalıştırılan
+sözleşmeli personelin ücretlerinde ilgili mevzuatı uyarınca ocak ve temmuz aylarında yapılan
+genel artış oranı kadar artırılır.
+
+                                                                                             10
+       (8) (A) ve (B) grubundan ücret alan bilişim uzmanlarının performans puanları 85
+puanın (hariç) altında olması halinde sözleşme ücreti aynı mesleki tecrübe yılı ve yabancı dil
+düzeyi dikkate alınarak bir alt gruptan ödenir. Bunlara yapılacak ödemede;
+       a) Performans puanı 80-84 olanlar bir alt grubun performans puanı 95-100,
+       b) Performans puanı 75-79 olanlar bir alt grubun performans puanı 90-94,
+       c) Performans puanı 70-74 olanlar bir alt grubun performans puanı 85-89,
+       olanlar için tespit edilen tutarlar esas alınır.
+       (9) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K / 17/12/2015 tarihli ve
+2015/461 sayılı Y.K.K) Yıllık performans puanlarının değerlendirilmesi sonucunda
+performans puanı en yüksek olan bilişim uzmanları, Hizmet Sunumu Genel Müdürlüğünün
+teklifi ve Başkanın onayı ile bir üst ücret grubuna, (C) ücret grubunda olup, görev alanı ile ilgili
+en az beş yıl iş tecrübesi bulunan ve birbirini izleyen son iki yılda 95 ve daha yukarı
+performans puanı olanlar ise aynı usul ile iki üst ücret grubuna geçirilebilir.
+       (10) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K) Yabancı dil sınav sonuç
+belgeleri, belge üzerinde geçerlilik süresi belirtilmemiş ise beş yıl süreyle geçerlidir. Bu
+sürenin bitiminde yeniden belge getirmeyenlerin yabancı dil düzeyi bir alt düzeye inmiş sayılır.
+İkinci beş yıllık süre içerisinde de belge ibraz etmeyenler bir alt düzeye inmiş sayılır ve bu
+süreç beşer yıllık periyotlar halinde takip edilir.
+        (11) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K) 01 Ocak-14 Temmuz
+tarihleri arasındaki tecrübe süresi ve dil düzeyi değişiklikleri sözleşme yenilenmek suretiyle 15
+Temmuz tarihinden geçerli olmak üzere, 15 Temmuz-31 Aralık tarihleri arasındaki tecrübe
+süresi ve dil düzeyi değişiklikleri ise müteakip sözleşme döneminde dikkate alınır.
+       (12) (Değişik:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K) Bilişim uzmanlarına
+sözleşmelerinde belirtilen ücret dışında herhangi bir ad altında ödeme yapılmaz ve
+sözleşmelerine bu yolda hüküm konulmaz.
+       (13) (Ek:11/12/2014 tarihli ve 2014/538 sayılı Y.K.K) Bu Usul ve Esaslar
+kapsamında Kurumda fiilen, askerlik ve doğum dışında kesintisiz en az 2 hizmet yılını
+tamamlayanlardan;
+       a) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereğince sürekli tam
+iş göremezlik geliri, malullük veya yaşlılık aylığı bağlanması veya toptan ödeme yapılması,
+       b) Sözleşmeli personel pozisyonunun iptali nedeniyle personelin hizmetine ihtiyaç
+kalmaması,
+       c) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) 28 inci maddenin birinci
+fıkrasının (c), (d), (e) ve (g) bentlerinde sayılan haller nedeniyle sözleşmenin fesh edilmesi,
+       ç) İlgilinin işe alınma açısında gerekli olan niteliklerden herhangi birini sonradan
+kaybetmesi,
+       d) İlgilinin ölümü,
+       hallerinden birinin vuku bulmasından dolayı hizmet sözleşmesi sona erenlere, görev
+yapmakta olduğu pozisyon unvanı itibariyle, Devlet Memurları Kanununa göre girebilecekleri
+hizmet sınıfındaki aynı veya benzeri kadro unvanı esas alınarak hizmet yılı ve öğrenim durumu
+aynı olan emsali personele 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu
+hükümlerine göre bir hizmet yılı için ödenecek azami emeklilik ikramiyesi tutarını geçmemek
+üzere kurumunda, çalışılan her tam hizmet yılı için ayrılış tarihindeki hizmet sözleşmesinde
+yazılı aylık brüt ücret tutarında iş sonu tazminatı ödenir. Bir yıldan artan süreler için de, tam yıl
+için hesaplanan miktardan o süreye isabet eden tutar kadar ödeme yapılır.
+       Bu tazminatın ödenmesinde; daha önce iş sonu tazminatı, ikramiye ve kıdem tazminatı
+ile benzeri ödemelerde değerlendirilmiş süreler dikkate alınmaz. Ölüm halinde, yukarıdaki
+fıkra uyarınca hesaplanacak tutar, ölenin kanuni mirasçılarına ödenir.
+
+       Yolluk giderleri ve gündelikler
+       MADDE 31- (1) Bilişim uzmanlarının görev mahalli dışına geçici olarak
+görevlendirilmeleri halinde gündelik ve yol giderleri, 6245 sayılı Harcırah Kanunu
+hükümlerinde saptanan süreyi ve 1 inci derece Devlet memurlarına ödenen harcırah miktarını
+                                                                                    11
+aşmamak üzere sözleşmelerinde belirtilir.
+
+                                            YEDİNCİ BÖLÜM
+                                            Disiplin Hükümleri
+
+        Disiplin cezaları
+        MADDE 32- (1) Kamu hizmetlerinin gereği gibi yürütülmesini sağlamak amacı ile
+ilgili mevzuatın emrettiği ödevleri yerine getirmeyen, uyulmasını zorunlu kıldığı hususları
+yapmayan, yasakladığı işleri yapan bilişim uzmanlarına durumun niteliğine ve ağırlık
+derecesine göre 34, 35 ve 36 ncı maddelerde belirtilen disiplin cezalarından birisi verilir.
+
+      Disiplin cezalarının uygulanması
+      MADDE 33- (1) Disiplin cezaları; uyarma, brüt sözleşme ücretlerinden kesinti
+yapılması ve hizmet sözleşmesinin feshi şeklinde uygulanır.
+       (2) Disiplin cezaları verildiği tarihten itibaren hüküm ifade eder ve derhal uygulanır.
+      (3) Brüt sözleşme ücretlerinden kesinti yapılması cezası takip eden ayın on beşinde
+uygulanır.
+
+        Uyarma
+        MADDE 34- (1) Bilişim uzmanlarının uyarılmalarını gerektiren fiil ve haller şunlardır:
+        a) Verilen emir ve görevlerin tam ve zamanında yapılmasında, görev mahallinde
+belirlenen usul ve esasların yerine getirilmesinde, görevle ilgili resmi belge, araç ve gereçlerin
+korunması, kullanılması ve bakımında kusurlu davranmak, özel işlerinde kullanmak veya
+kaybetmek.
+        b) Özürsüz veya izinsiz olarak göreve geç gelmek, erken ayrılmak, görev mahallini
+terk etmek.
+        c) Kamu görevlisi vakarına yakışmayan tutum ve davranışta bulunmak.
+        ç) Görevine karşı kayıtsızlık göstermek veya ilgisiz kalmak.
+        d) Görevin işbirliği içinde yapılması ilkesine aykırı davranışlarda bulunmak.
+        e) Görev sırasında iş arkadaşlarına hal ve hareketi ile saygısız davranmak, kötü
+muamelede bulunmak, söz veya hareketle sataşmak.
+        f) Görev mahallinde genel ahlak ve edep dışı davranışlarda bulunmak ve bu tür yazı
+yazmak, işaret, resim ve benzeri şekiller çizmek ve yapmak.
+        g) Verilen emirlere haklı bir gerekçe olmaksızın itiraz etmek.
+
+       Brüt sözleşme ücretlerinden kesinti yapılması
+       MADDE 35- (1) Brüt sözleşme ücretlerinden 1/8 ila 1/4 oranları arasında kesinti
+yapılmasıdır. Brüt sözleşme ücretlerinden kesinti yapılmasını gerektiren fiil ve haller şunlardır:
+       a) Kasıtlı olarak; verilen emir ve görevleri tam ve zamanında yapmamak, görev
+mahallinde belirlenen usul ve esasları yerine getirmemek, görevle ilgili resmi belge, araç ve
+gereçleri korumamak, bakımını yapmamak, hor kullanmak, özel menfaat sağlamak için
+kullanmak.
+       b) Özürsüz olarak bir gün göreve gelmemek.
+       c) Görevle ilgili konularda yükümlü olduğu kişilere yalan ve yanlış beyanda bulunmak.
+       ç) Görev sırasında amirine söz veya hareketle saygısızlık etmek.
+       d) Basına, haber ajanslarına veya radyo ve televizyon kurumlarına bilgi veya demeç
+vermek.
+       e) Belirlenen durum ve sürelerde mal bildiriminde bulunmamak.
+       Hizmet sözleşmesinin feshi
+       MADDE 36- (1) Hizmet sözleşmesinin feshini gerektiren fiil ve haller şunlardır:
+       a) Göreve sarhoş gelmek, görev yerinde alkollü içki içmek.
+        b) (Değişik:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Sözleşme dönemi içinde
+özürsüz ve kesintisiz üç iş günü veya toplam on iş günü süreyle göreve gelmemek.
+                                                                                            12
+         c) Görevi ile ilgili olarak her ne şekilde olursa olsun çıkar sağlamak.
+         ç) Amirine veya iş arkadaşlarına karşı küçük düşürücü veya aşağılayıcı fiil ve
+ hareketler yapmak, hakarette bulunmak, tehdit etmek veya fiili tecavüzde bulunmak.
+         d) Gerçeğe aykırı rapor ve belge düzenlemek.
+          e) Bu Usul ve Esaslarda belirtilen ticaret ve diğer kazanç getirici faaliyetlerde bulunma
+ yasağına uymamak.
+          f) Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve
+ mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak.
+         g) Gizli ve açıklanması yasaklanan bilgileri açıklamak.
+         ğ) Verilen görev ve emirleri kasten yapmamak.
+         h) Herhangi bir siyasi parti yararına veya zararına fiilen faaliyette bulunmak.
+         ı) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K) İdeolojik veya siyasi
+ amaçlarla kurumların huzur, sükun ve çalışma düzenini bozmak, boykot, işgal, kamu
+ hizmetlerinin yürütülmesini engelleme, işi yavaşlatma ve grev gibi eylemlere katılmak veya bu
+ amaçlarla toplu olarak göreve gelmemek, bunları tahrik ve teşvik etmek veya yardımda
+ bulunmak.
+          i) Siyasi partiye üye olmak.
+          j) Kamu personeli sıfatı ile bağdaşmayacak nitelik ve derecede yüz kızartıcı ve utanç
+ verici hareketlerde bulunmak.
+           k) 5816 sayılı Atatürk Aleyhine İşlenen Suçlar Hakkındaki Kanuna aykırı fiilleri
+ işlemek.
+           l) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Görev yaptığı süre içinde (b)
+ bendinde belirtilen durumlar hariç, 657 sayılı Devlet Memurları Kanununun 125 inci
+ maddesinde belirtilen uyarma veya kınama cezasını gerektiren fiil veya halleri üç defa, aylıktan
+ kesme ve kademe ilerlememesinin durdurulması cezalarını gerektiren fiil ve halleri iki defa,
+ Devlet memurluğundan çıkarma cezasını gerektiren fiil veya halleri bir defa işlediğinin
+ öğrenilmesi ve ceza verilmesine ilişkin iş ve işlemlerin kesinleşmesi.
+
+         Disiplin cezası verilmesini gerektiren fiil ve hallerin tekrarı ve benzer eylemler
+         MADDE 37- (1) Disiplin cezası verilmesini gerektiren fiil ve hallerin tekrarlanması
+ halinde bir derece ağır ceza verilir.
+         (2) Yukarıda sayılan ve disiplin cezası verilmesini gerektiren fiil ve hallere, nitelik ve
+ ağırlıkları itibarıyla benzer eylemlerde bulunanlara da aynı neviden disiplin cezaları verilir.
+
+         Disiplin amirleri
+         MADDE 38- (1) Bilişim uzmanlarının birinci disiplin amiri Daire Başkanı, ikinci
+ disiplin amiri Hizmet Sunumu Genel Müdürü, üçüncü disiplin amiri Hizmet Sunumu Genel
+ Müdürlüğünün bağlı olduğu Başkan Yardımcısı, üst disiplin amiri ise Başkandır.
+         (2) Uyarma ve brüt sözleşme ücretlerinden 1/8 ila 1/4 oranları arasında kesinti
+ yapılması cezaları disiplin amirleri, hizmet sözleşmesinin feshi cezası ise sadece Başkan
+ tarafından verilir.
+
+         Diğer hususlar
+         MADDE 39- (1) Yukarıda sayılan fiil ve hallerin işlenildiğinin öğrenilmesi halinde
+ disiplin amirleri tarafından 10 gün içerisinde soruşturma açılır veya doğrudan savunma istenir.
+         (2) Savunma isteminde işlenen fiil ve haller açıkça belirtilir ve savunma için 7 günden
+ az olmamak üzere süre verilir. Belirtilen süre içerisinde savunma yapmayanlar, savunma
+ hakkından vazgeçmiş sayılır.
+         (3) Disiplin cezaları yazılı olarak ve gerekçesi ile bildirilir.
+         (4) (Ek:17/12/2015 tarihli ve 2015/461 sayılı Y.K.K) Disiplin cezalarının
+soruşturulması ve uygulamasına ilişkin bu Usul ve Esaslarda hüküm bulunmayan hallerde,
+Sosyal Güvenlik Kurumu Disiplin Kovuşturmaları İle Disiplin Cezalarının Uygulanmasına ve
+Tebligat İşlemlerine Dair Usul ve Esaslarda belirtilen hükümler uygulanır.
+
+                                                                                             13
+         Zamanaşımı
+         Madde 40 – (1) Disiplin cezasını gerektiren fiil ve hallerin işlenildiğinin öğrenildiği
+ tarihten itibaren 6 ay geçtikten sonra, disiplin kovuşturması yapılamaz ve disiplin cezası
+ verilemez.
+         (2) Disiplin cezasını gerektiren fiil ve hallerin işlenildiği tarihten itibaren nihayet iki yıl
+ içerisinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar.
+
+          İtiraz
+          MADDE 41- (1) Disiplin cezalarına karşı yapılacak itirazlarda süre kararın ilgiliye
+ tebliğ tarihinden itibaren 7 gündür.
+          (2) (Değişik:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K) Disiplin cezalarına karşı
+ itiraz disiplin kuruluna yapılır. Süresi içerisinde itiraz yapılmaması halinde ceza kesinleşir.
+
+
+                                        SEKİZİNCİ BÖLÜM
+                                          Son Hükümler
+
+         GEÇİCİ MADDE 1- Yönetim Kurulunun 24/01/2007 tarihli ve 2007/24 sayılı kararı
+ ile yürürlüğe konulan Sosyal Güvenlik Kurumu Sözleşmeli Bilişim Uzmanlarının İstihdamı İle
+ İlgili Usul ve Esasların Geçici 1 inci maddesi uyarınca göreve başlatılan bilişim uzmanları için
+ yabancı dil şartı aranmaz.
+
+        GEÇİCİ MADDE 2- (Ek:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K;
+ (Değişik:27/09/2012 tarihli ve 2012/354 sayılı Y.K.K) (1) Hizmet Sunumu Genel
+ Müdürlüğünün yazılım, donanım, sistem, veri tabanı ve altyapı hizmetlerinin yürütülmesinden
+ sorumlu daire başkanlıklarında mühendis, çözümleyici, programcı, istatistikçi, sözleşmeli
+ çözümleyici ve sözleşmeli programcı kadro ve pozisyonlarında 5 yıl ve daha fazla fiilen görev
+ yapan personelden sözleşmeli bilişim uzmanı pozisyonlarına atanma şartını taşıyanlar için
+ 31/12/2012 tarihine kadar için yabancı dil şartı aranmaz.”
+
+        GEÇİCİ MADDE 3- (Ek:10/05/2012 tarihli ve 2012/163 sayılı Y.K.K;
+ (Değişik:27/09/2012 tarihli ve 2012/354 sayılı Y.K.K) Yönetim Kurulunun 24/01/2007,
+ 02/03/2007, 04/07/2007, 10/06/2011 tarihli ve 2007/24, 2007/104, 2007/237, 2011/163 sayılı
+ kararları ile yürürlüğe konulan Sosyal Güvenlik Kurumu Sözleşmeli Bilişim Uzmanlarının
+ İstihdamı İle İlgili Usul ve Esaslarda düzenlenen “Yurt içi veya yurt dışında İngilizce dilinde
+ öğretim yapan üniversitelerden lisans düzeyinde mezun olmak veya ana dili İngilizce olan
+ ülkelerde yüksek lisans veya doktora yapmış olmak. …” hükmü uyarınca göreve başlatılan ve
+ halen ücretleri İngilizce dil düzeyi (C) olanlar için tespit edilen ücret üzerinden ödenenlerin
+ ücretlerinin aynı şekilde ödenmesine devam edilir. Kurumda göreve başladıkları tarihten
+ itibaren beş yıl içerisinde 4 üncü maddede belirtilen dil sınavlarına ait belge ibraz etmemeleri
+ halinde yabancı dil düzeyleri (D) düzeyine, ikinci beş yıllık süre içerisinde belge ibraz
+ etmemeleri halinde ise yabancı dil düzeyleri (E) düzeyine inmiş sayılır.
+
+       Yürürlükten kaldırılan mevzuat
+       MADDE 42- (1) Yönetim Kurulunun 24/01/2007, 02/03/2007, 04/07/2007 tarihli ve
+ 2007/24, 2007/104, 2007/237 sayılı kararları ile yürürlüğe konulan Sosyal Güvenlik Kurumu
+ Sözleşmeli Bilişim Uzmanlarının İstihdamı İle İlgili Usul ve Esaslar yürürlükten kaldırılmıştır.
+
+         Yürürlük
+         MADDE 43- (Değişik:09/05/2018 tarihli ve 2018/159 sayılı Y.K.K ) (1) Bu Usul ve
+Esasların, 30 uncu maddesinin yedinci fıkrası 01/01/2019, diğer hükümleri ise Yönetim Kurulu
+tarafından kabul edildiği 09/05/2018 tarihte yürürlüğe girer.
+
+
+                                                                                                 14
+       Yürütme
+       MADDE 44- (1) Bu Usul ve Esasları Sosyal Güvenlik Kurumu Başkanı yürütür.
+
+
+Ek:
+1- Hizmet Sözleşmesi.
+2- Yazılım Uzmanı Performans Ölçme ve Değerlendirme Formu.
+3- Sistem Yönetici Performans Ölçme ve Değerlendirme Formu.
+4- Network Uzmanı Performans Ölçme ve Değerlendirme Formu.
+5- İş Analisti Performans Ölçme ve Değerlendirme Formu.
+6- Veri Tabanı Yöneticisi Performans Ölçme ve Değerlendirme Formu.
+7- İş Zekâsı Uzmanı Performans Ölçme ve Değerlendirme Formu.
+8- Veri Ambarı Sistem Yöneticisi Performans Ölçme ve Değerlendirme Formu.
+9- Veri Ambarı Veri Tabanı Yöneticisi Performans Ölçme ve Değerlendirme Formu.
+10-Bilgi Güvenliği Uzmanı Performans Ölçme ve Değerlendirme Formu.
+11-Performans Kriterlerine Göre Ücret Cetveli. (Değişik 30/01/2020 tarihli ve 2020/55 s.YKK)
+
+
+
+
+                                                                                               15
+                                                HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                        EK - 2
+                                             SÖZLEŞMELİ BİLİŞİM PERSONELİ (YAZILIM UZMANI)
+                                             PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+SİCİL NO
+ADI SOYADI                                                                                                                      DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                                       …./…/20.. - …../…./20..
+BİRİMİ
+
+
+                                                                                                                            AĞIR.
+                                                                                                        ÇIKTI                             (*)(**) MESLEKİ YETERLİLİK
+          GÖREVLER                        GÖREVE İLİŞKİN İŞ VE İŞLEMLER                          (Kâğıt veya Elektronik)
+                                                                                                                            ORT.
+                                                                                                                            PUAN
+                                                                                                                                          1.Amir   II. Amir   III. Amir
+
+A-YAZILIM PROJESİ ÖNCESİ                                                                          Gereksinim listesi
+                                        Yazılımın gereksinimlerini toplamak ve analiz                                          1-70
+HAZIRLIK YAPMAK                                                                                   Analiz dokümanı
+                                        dokümanlarını hazırlamak
+                                                                                                  Toplantı tutanağı
+
+B-YAZILIM MODELLEME VE                                                                           Veri Modeli
+                                        İlgili gereksinimleri karşılayacak veri modeli
+                                                                                                 Tasarım planı                1-70
+TASARIM YAPMAK                          tasarımını yapmak ve           zaman çizelgesi
+                                        hazırlamak.                                              Varsa UML, USE
+                                                                                                  Case,ER diyagramı
+                                        Kullanıcı ara yüzünü oluşturmak, yazılım
+C-YAZILIM GELİŞTİRMEK                   katmanlarını belirleyerek aralarındaki etkileşimi         Yazılım kod                 1-70
+                                        gerçekleştirmek, belirlenen model ve tasarım             dokümanı
+                                        planını gerçekleştirecek kodu yazmak.
+D-YAZILIMIN UYGULAMA
+ORTAMINA UYGUNLUĞUNU                    Test senaryolarını detaylandırarak dokümante             Test senaryosu
+VE ÇALIŞIRLIĞINI TEST                   etmek, yazdığı ve/veya güncellediği kodları UNIT          Test sonuç dokümanı         1-70
+ETMEK                                   testlerinden geçirmek.                                   Toplantı tutanağı
+
+E-YAZILIM İYİLEŞTİRME,                  Yazılımla ilgili hataları düzeltmek, talep edilen
+                                                                                                  Tasarım, yazılım
+BAKIM VE GÜNCELLEME                     değişiklikleri   gerçekleştirmek,    bakım     ve
+                                                                                                  Toplantı tutanağı           1-70
+ÇALIŞMALARI YAPMAK                      güncelleme çalışmalarını yapmak, uygulamaya
+                                        almak.                                                    Deploy talepleri
+
+                                         Veri çekmek, tablolardaki veriyi güncellemek.          Elektronik veri
+F-OPERASYONEL                            Çağrı işlemlerini gerçekleştirmek.                     Olay kayıtları               1-70
+İŞLEMLER                                 Yazışma ve evrak işlemlerini yapmak.                   Resmi yazı
+                                         Teknik şartname ve idari sözleşme hazırlamak.          Şartname,sözleşme
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme dönemi
+içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                        1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                        sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                        2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                        edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+(*) DAVRANIŞSAL
+YETERLİLİK                              3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+Yetersiz (1 Puan)                       bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Derecede Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)           4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                        takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3 P.)
+
+                                        5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                        paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                        6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                        beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+(*) BİREYSEL YETERLİLİK                   becerisi) (Ağ. Ort. Puanı: 1-3)
+ Yetersiz (1 Puan)
+Orta Der. Yeterli (2 Puan)                8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak bitirebilme
+İyi Derecede Yeterli (3 Puan)             becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik    derecesi) (Ağ. Ort. Puanı: 1-3)
+için     toplamda       verilebilecek
+                                         10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum      not         “30”puanı
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+geçemez.
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+                          Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+           ADI- SOYADI
+ AMİRLER
+
+
+
+
+           UNVANI
+           TARİH
+
+
+           İMZA
+                                                         HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                       EK – 3
+                                                 SÖZLEŞMELİ BİLİŞİM PERSONELİ (SİSTEM YÖNETİCİSİ)
+                                                 PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+SİCİL NO
+ADI SOYADI                                                                                                                       DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                                      …./…./20… - …./…./20…
+BİRİMİ
+
+
+
+                                                                                                                          AĞIR.
+                                              GÖREVE İLİŞKİN İŞ VE                                  ÇIKTI                               (*)(**) MESLEKİ YETERLİLİK
+          GÖREVLER                                                                                                        ORT.
+                                                  İŞLEMLER                                   (Kâğıt veya Elektronik)
+                                                                                                                          PUAN
+                                                                                                                                         1.Amir   II. Amir     III. Amir
+                                                                                           Sistem çıktıları
+                                                                                           Talep yönetim sistemi
+                                       Talep ve gereksinimlere uygun olarak                Gerekçe raporu
+A- SİSTEM TASARIMI                     sistemleri minimum kesinti ile çalışacak            Resmi Yazı                       1-70
+YAPMAK                                 şekilde tasarlamak ve kapasite planlama             Toplantı Tutanağı
+                                       çalışması yapmak.                                   Bilgi notu
+                                                                                           Rapor
+                                                                                           e-posta
+                                                                                           Sistem Çıktıları
+B- SİSTEMLERİN                         Görev alanındaki sistem ve programların             Talep yönetimi sistemi
+KURULUM ve YÖNETİM                     kurulum, güncelleme, sürüm yükseltme                Resmi Yazı
+                                       işlerini planlamak ve yapmak. Bu sistem ve          Toplantı Tutanağı                1-70
+ÇALIŞMALARINI
+                                       programların yönetim/işletimini yapmak              Bilgi notu
+YAPMAK
+                                                                                           Rapor
+                                                                                           e-posta
+                                                                                           Sistem çıktıları
+C- SİSTEM                              Görev alanındaki sistemleri devamlı olarak          Talep yönetim sistemi
+VERİMLİLİĞİNİ                          izlemek, sistemlerin en iyi performans ile          İzleme ürünü raporları
+                                       çalışmasını sağlayacak tedbirleri almak, olası      Resmi Yazı                       1-70
+ARTIRMA ÇALIŞMALARI
+                                       sistem arızalarını en hızlı şekilde çözecek         Toplantı Tutanağı
+YAPMAK                                 adımları atmak. Görev alanındaki sistemlerin        Bilgi notu
+                                       düzenli olarak yedeklerinin alınmasını              Rapor
+                                       sağlamak.
+                                                                                           e-posta
+                                                                                           Resmi Yazı
+D- SİSTEMLERLE İLGİLİ                  Görev     alanındaki  sistemlerle   ilgili
+                                                                                           Toplantı Tutanağı
+DOKÜMANTASYON VE                       dokümantasyon ile talep edilen raporlama
+                                                                                           Bilgi notu                       1-70
+RAPORLAMA                              çalışmalarını yapmak.
+                                                                                           Rapor
+ÇALIŞMALARI YAPMAK                                                                         e-posta
+                                                                                           Sistem çıktıları
+                                       Görev alanındaki sistemlerle ilgili uygun           Resmi Yazı
+E- SİSTEMLERDE GÜVENLİK
+                                       güvenlik       güncellemelerini    yapmak,
+İLE İLGİLİ ÇALIŞMALAR                                                                      Toplantı Tutanağı                1-70
+                                       sistemlerin gerekli güvenlik ayarlarını ve
+YAPMAK                                                                                     Bilgi notu
+                                       yetkilendirme tasarımını güvenlik birimi ile
+                                       koordineli olarak yapmak.                           Rapor
+                                                                                           e-posta
+                                                                                           Resmi yazı
+                                       Görev alanı ile ilgili komisyonlarda görev
+F-OPERASYONEL                                                                              e-posta
+                                       almak.
+İŞLEMLER                                                                                   Toplantı tutanağı                1-70
+                                       Teknik şartname ve idari sözleşme
+                                       hazırlamak.                                         Şartname, sözleşme
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme
+dönemi içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz
+önünde bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                          1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                          ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+DAVRANIŞSAL YETERLİLİK
+Yetersiz (1 Puan)                         2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+Orta Derecede Yeterli (2 Puan)            edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                          3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+                                          başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                         olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+                                         becerisi) (1-3 P.)
+                                         5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                         bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                         beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda          karar   alabilme,    insiyatif
+                                          kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                        8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                         9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik   derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.          10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                        Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+                                                    HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                 EK-4
+                                              SÖZLEŞMELİ BİLİŞİM PERSONELİ (NETWORK UZMANI)
+                                              PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+
+SİCİL NO
+                                                                                                                                  DEĞERLENDİRME DÖNEMİ
+ADI SOYADI
+UNVANI
+                                                                                                                                      …./…./20… - …./…./20…
+BİRİMİ
+
+
+
+                                                                                                                      AĞIR.
+                                                                                                  ÇIKTI                               (*)(**) MESLEKİ YETERLİLİK
+            GÖREVLER                       GÖREVE İLİŞKİN İŞ VE İŞLEMLER                                              ORT.
+                                                                                          (Kâğıt veya Elektronik)
+                                                                                                                      PUAN
+                                                                                                                                       1.Amir    II. Amir   III. Amir
+
+                                         1- Mevcut ağ yükünü periyodik olarak kayıt                                       1-70
+                                                                                           Yük kayıtları
+A- AĞ YAPISIYLA İLGİLİ                    altına almak.
+ANALİZLER YAPMAK VE
+İHTİYAÇLARI BELİRLEMEK.                  2-Tutulan kayıtlara istinaden zayi olan
+                                                                                           Kaynak
+                                          kaynakları    ihtiyaç   olan   yerlerde                                         1-70
+                                                                                          değerlendirme talepleri
+                                          değerlendirmek.
+                                                                                           Gerekçe raporları
+                                         3-Tutulan kayıtlara istinaden bir ileriye        Göreve ilişkin her türlü        1-70
+                                          yönelik ihtiyaçları belirlemek.                 yazılı veya elektronik
+                                                                                          kayıtlar
+                                                                                           Tasarım planı
+                                         1-Ağ yapısında yapılacak değişiklikler,           Analiz raporu                 1-70
+                                         güncellemeler veya yeni kurulumları               Göreve ilişkin her
+B- TALEP EDİLN AĞLARIN                   tasarlamak ve uygulama planı oluşturmak.           türlü    yazılı    veya
+TASARIM VE KURULUM
+                                                                                            elektronik kayıtlar
+İŞLEMLERİNİ YÜRÜTMEK
+                                                                                           Göreve ilişkin her
+                                         2- İlgili ağ bileşenlerinin kurulumunu ve
+                                                                                            türlü    yazılı    veya       1-70
+                                         konfigürasyonunu gerçekleştirmek.
+                                                                                            elektronik kayıtlar
+                                                                                           Tehdit değerlendirme
+                                         1- Kurum ağının siber saldırılara karşı                                          1-70
+C- AĞ GÜVENLİĞİNİ                                                                           raporları
+                                         korunması için gerekli önlemleri almak.
+SAĞLAMAK
+                                                                                           Göreve ilişkin her
+                                         2- Kurumun dışarı ile veri alışverişinde
+                                                                                            türlü     yazılı    ve        1-70
+                                         öngörülmüş güvenli bağlantıları sağlamak.
+                                                                                            elektronik kayıtlar
+
+                                         1- İlgili araçlarla kurum ağını sürekli olarak
+                                                                                           Arıza müdahale
+                                         gözlemlemek         ve   kesintisiz    hizmet                                    1-70
+                                                                                            tutanakları
+                                         verilmesini sağlamak.
+                                                                                           Bilgi notu
+                                         2-Kurum ağında iletişimin yavaşlaması veya
+E-AĞ BAKIMI, MÜDAHALE VE                 tamamen      aksamasını        durumlarını        Müdahale planı
+VERİMLİLİĞİ SAĞLAMAK                     kapsayacak senaryolar geliştirmek ve              Göreve ilişkin her            1-70
+                                         senaryolara istinaden müdahale planı               türlü yazılı ve
+                                         hazırlamak .                                       elektronik kayıtlar
+
+                                         3-Kurum ağında iletişimin yavaşlaması veya
+                                         tamamen aksaması durumunda müdahale                                              1-70
+                                                                                           Gerekçe raporları
+                                         planlarını uygulayarak en kısa sürede
+                                                                                           Elektronik kayıtlar
+                                         yeniden iletişimi sağlamak..
+
+                                                                                           Resmi yazı
+                                         Görev alanı ile ilgili komisyonlarda görev
+F-OPERASYONEL                                                                              e-posta                       1-70
+                                         almak.
+İŞLEMLER                                                                                   Toplantı tutanağı
+                                         Teknik şartname ve idari sözleşme
+                                         hazırlamak.                                       Şartname, sözleşme
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme dönemi
+içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+                                         1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                         sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                         edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                         3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+DAVRANIŞSAL YETERLİLİK                   bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)           4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+İyi Derecede Yeterli (3 Puan)            takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3
+                                         P.)
+                                         5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                         paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                         beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                        8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                         9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik   derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.          10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                          Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+           ADI- SOYADI
+ AMİRLER
+
+
+
+
+           UNVANI
+
+           TARİH
+
+
+           İMZA
+                                                   HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                            EK-5
+                                                 SÖZLEŞMELİ BİLİŞİM PERSONELİ (İŞ ANALİSTİ)
+                                               PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+SİCİL NO
+ADI SOYADI                                                                                                                    DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                                      …./…/20… - …./…/20…
+BİRİMİ
+
+
+
+                                                                                                                      AĞIR.
+                                                 GÖREVE İLİŞKİN İŞ VE                               ÇIKTI
+           GÖREVLER                                                                                                   ORT.              (*)(**) MESLEKİ YETERLİLİK
+                                                     İŞLEMLER                               (Kâğıt veya Elektronik)
+                                                                                                                      PUAN
+                                                                                                                                        1.Amir   II. Amir    III. Amir
+
+                                          1- Veri tipi, doğrulama ve kısıt analizini
+                                                                                            Kısıtlı veri listesi          1-70
+                                           yapmak.
+
+                                          2-Uygulamalar arası etkileşim-ilişki              Harici ilişki-etkileşim       1-70
+                                           analizini oluşturmak/belirlemek.                 listesi
+A – ANALİZ İŞLEMLERİ
+
+                                                                                            Yazılım fonksiyon
+                                          3-Fonksiyonel gereksinim analizini yapmak.                                      1-70
+                                                                                            listesi
+
+                                                                                            BT-P-13 Güvenlik              1-70
+                                          4-Güvenlik gereksinim analizini yapmak.
+                                                                                            gereksinimleri formu
+
+                                          1-Kullanım senaryoları diyagramlarını             Kullanım senaryoları
+                                                                                                                          1-70
+                                           oluşturmak.                                      diyagramı
+
+                                                                                            Varlık ilişki
+                                          2-Veri tabanı tasarımını oluşturmak.                                            1-70
+                                                                                            diyagramı
+
+                                                                                                                          1-70
+B – TASARIM İŞLEMLERİ                     3-Veri akış diyagramını oluşturmak.               Veri akış diyagramı
+
+
+                                                                                            Sınıf / nesne
+                                          4-Sınıf /nesne diyagramlarını oluşturmak.                                       1-70
+                                                                                            diyagramı
+
+
+                                          5-İş/Süreç akış diyagramını oluşturmak.           Akış diyagramı                1-70
+
+
+                                                                                            A ve B
+                                          1-Geliştirilen ürünün üzerine gelen yeni                                        1-70
+                                                                                            Bölümlerinden gelen
+                                           değişiklikleri tasarıma yansıtmak.
+C - GELİŞTİRME İŞLEMLERİ                                                                    değişikliğin çıktısı
+
+                                          2-Geliştirilen yazılımın tasarıma uygun                                         1-70
+                                                                                            Kontrol listesi
+                                           şekilde geliştirilmesini kontrol etmek.
+
+
+D – TEST İŞLEMLERİ                                                                          Test senaryosu                1-70
+                                          Test senaryolarını oluşturmak.
+                                                                                            dokümanı
+
+
+                                          1-Görev alanı ile ilgili komisyonlarda görev      Resmi yazı
+                                          almak.                                            e-posta
+E-OPERASYONEL
+                                          2-Teknik şartname ve idari sözleşme               Toplantı tutanağı
+İŞLEMLER                                  hazırlamak.
+                                                                                                                          1-70
+                                                                                            Şartname, sözleşme
+
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme
+dönemi içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz
+önünde bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+                                         1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                         ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                         edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+                                         3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+                                         başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+DAVRANIŞSAL YETERLİLİK
+Yetersiz (1 Puan)                        4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+Orta Derecede Yeterli (2 Puan)           olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)            becerisi) (1-3 P.)
+                                         5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                         bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                         beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda             karar   alabilme,   insiyatif
+                                          kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+                                          8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+ Yetersiz (1 Puan)
+                                          bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Der. Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)
+                                         9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik   derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek              10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum not “30”puanı geçemez.           geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                        Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+
+          İMZA
+                                         HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                            EK-6
+                                     SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ TABANI UZMANI)
+                                   PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+SİCİL NO
+ADI SOYADI                                                                                                        DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                      …./…./20… - …./…./20…
+BİRİMİ
+
+
+
+                                                                                       ÇIKTI                AĞIR.
+                                        GÖREVE İLİŞKİN İŞ VE                                                               (*/**)MESLEKİ YETERLİLİK
+        GÖREVLER                                                                     (Kâğıt veya            ORT.
+                                            İŞLEMLER                                                        PUAN
+                                                                                     Elektronik)
+                                                                                                                           1.Amir   II. Amir   III. Amir
+
+A- VERİ TABANI                        Yazılım çözümlerine ilişkin veri          Toplantı tutanağı             1-70
+TASARIMINI YAPMAK                     tabanı tasarımları yapmak ve              ER diyagramları
+                                      gerçekleştirmek                           Tasarım planı
+
+
+B- VERİ TABANI YÖNETİM                                                          Toplantı tutanağı
+                                     İhtiyaçları  karşılayacak    VTYS
+SİSTEMLERİNİN                                                                   Sistem çıktıları              1-70
+                                     kurulumları gerçekleştirmek.
+KURULUMUNU YAPMAK                                                               Talep Yönetimi
+
+
+C- VERİ TABANI ERİŞİM,               Veri tabanı erişim, yedekleme ve
+YEDEKLEME VE                         güvenlik politikalarını belirleyerek                                      1-70
+GÜVENLİK                             dokümante etmek. dokümante edilen          Standart dokümanlar
+POLİTİKALARINI                       kuralları   uygulamak,       mevcut        Toplantı tutanağı
+BELİRLEMEK VE                        uygulamaların     ilgili   kurallara
+UYGULAMAK                            uygunluğunu denetlemek.
+
+                                                                                Sistem çıktıları
+                                     Mevcut veri tabanlarının bakımı ve
+                                                                                Bilgi notları                 1-70
+                                     optimizasyonunu gerçekleştirmek.
+D-VERİ TABANI BAKIM,                                                            Rapor
+                                     Kullanıcı hatası sonucu zarar gören
+KURTARMA VE KAPASİTE
+                                     verileri kurtarmak veya geri               İhtiyaç analiz raporu
+PLANLAMASINI YAPMAK
+                                     getirmek. İleriye yönelik kapasite         Gerekçe raporu
+                                     ihtiyaçlarını planlamak.
+
+                                     Görev      alanındaki      sistemlerde     Sistem çıktıları
+E-GÖREV ALANINDAKİ                   meydana         gelebilecek      arıza     Bilgi notları
+SİSTEMLERLE İLGİLİ                   durumlarında problem nedeni ve             Rapor                         1-70
+DOKÜMANTASYON VE                     çözümleriyle ilgili, performans            İhtiyaç analiz raporu
+RAPORLAMA                            raporları, kurulum dokümanları,            Gerekçe raporu
+ÇALIŞMALARI YAPMAK                   talep edilen bilgi notları ve raporları
+                                     hazırlamak.
+                                                                                Resmi yazı
+                                     Görev alanı ile ilgili komisyonlarda
+F-OPERASYONEL                                                                   e-posta                       1-70
+                                     görev almak.
+İŞLEMLER                                                                        Toplantı tutanağı
+                                     Teknik şartname ve idari sözleşme
+                                     hazırlamak.                                Şartname, sözleşme
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır,
+değerlendirme dönemi içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından
+risk seviye derecesi göz önünde bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından
+verilen notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                     1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu
+                                     ilişkiler ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                     2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını
+DAVRANIŞSAL                          takip edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+YETERLİLİK
+Yetersiz (1 Puan)                    3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı
+Orta Derecede Yeterli (2 Puan)       çalışmalarda başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                     4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                     olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler
+                                     sunabilme becerisi) (1-3 P)
+                                5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde
+                                çalışma, bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu
+                                ve beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+                                7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif
+                                kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)              8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)      bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma
+(*) Davranışsal ve bireysel     bağlılık derecesi) (Ağ. Ort. Puanı: 1-3)
+yeterlilik için toplamda
+verilebilecek maksimum not      10.Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+“30”puanı geçemez.               geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte
+                                 sunabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+            Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI-SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+                                      HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                EK-7
+                                SÖZLEŞMELİ BİLİŞİM PERSONELİ (İŞ ZEKÂSI UZMANI)
+                                 PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+SİCİL NO
+ADI SOYADI                                                                                                     DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                   …./…./20... - …./…./20...
+BİRİMİ
+
+
+
+                                                                                                           AĞIR.
+                                   GÖREVE İLİŞKİN İŞ VE                                ÇIKTI                         (*)(**) MESLEKİ YETERLİLİK
+         GÖREVLER                                                                                          ORT.
+                                       İŞLEMLER                                (Kâğıt veya Elektronik)
+                                                                                                           PUAN
+                                                                                                                      1.Amir   II. Amir   III. Amir
+                            1.Veri taleplerini organize etmek, mevcut
+                             veri ambarı göz önünde bulundurularak                                          1-70
+                             gerekli tabloları belirlemek ve veri ambarına   Tablo listeleri
+A-VERİ AMBARI VERİ           alınması için koordinasyon sağlamak.
+MODELLERİ OLUŞTURMAK
+                            2.Veri talepleri doğrultusunda modeller
+                             oluşturmak     ve       oluşan      modeller    Kavramsal           tasarım    1-70
+                             doğrultusunda veri tabloları oluşturmak         dokümanları
+
+                            1.Rapor taleplerini değerlendirmek ve ilgili
+                            birimler ile görüşerek, mevzuat çerçevesinde     Analiz dokümanları             1-70
+B-RAPORLAMA ÇALIŞMALARI     veri analiz çalışması yapmak.                    toplantı tutanakları
+İÇİN HAZIRLIK YAPMAK
+                            2.Belirlenen iş yükü doğrultusunda rapor
+                            geliştirme faaliyetlerini planlamak, organize                                   1-70
+                                                                             İş planları ve raporlar
+                            etmek ve gerçekleştirilmesini sağlamak
+
+                            1.Veri talepleri doğrultusunda rapor
+                            tasarımına uygun özet tablolar / referans                                       1-70
+                                                                             Veri modelleri, tablolar
+                            tabloları hazırlamak.
+
+                            2.Talep edilen rapor çalışması için rapor
+                            kataloğunda gerekli işlemlerin yapılarak,                                       1-70
+                                                                             Üretilen raporlar
+                            rapor alt yapısını oluşturmak.
+C-RAPOR HAZIRLAMAK,
+MEVCUT RAPORLARIN
+BAKIMI VE
+                            3.Talep edilen rapor için interaktif ara yüz                                    1-70
+GÜNCELLENMESİNİ                                                              Üretilen raporlar
+                            hazırlamak ve kullanıma sunmak.
+SAĞLAMAK
+                            4.Mevcut      raporların     güncellenmesini
+                            sağlamak.                                        Güncellenen raporlar           1-70
+
+                            5..Özet raporlar hazırlamak ve kullanıma
+                            sunmak.                                          Üretilen raporlar              1-70
+
+                            1.Rapor       geliştirme      çalışmaların
+                            tamamlanması sonucunda raporun test              Üretilen raporların web        1-70
+                            ortamına açılmasını sağlamak.                    adresleri
+
+D-GELİŞTİRİLEN RAPORLARIN   2.Test ortamında ilgili birimlerce kontrol
+TESTE AÇILMASI VE           edilen rapor ile ilgili, gerekli durumlarda                                     1-70
+                                                                             Üretilen raporların web
+                            güncelleme ve sorun giderme çalışmaları
+UYGUNLUĞUNUN TESPİTİ İLE                                                     adresleri
+                            yapmak.
+KULLANIMA SUNULMASINI
+SAĞLAMAK                    3.Test edilerek kabul edilen raporların
+                            performanslarını iyileştirmek ve kullanıma       Üretilen raporların web        1-70
+                            sunulmasını sağlamak.                            adresleri
+
+E- RAPORLAMA VE             Rapor talepleri ve yönetimi ile rapor
+OPERASYONEL KONULARDA       sunucularına entegrasyon için gerekli                                           1-70
+                                                                             Yazılım
+YAZILIM VE TEKNİK DESTEK    yazılımları kullanmak, kullanıma sunmak ve
+SAĞLAMAK                    destek sağlamak.
+                                          1.Raporların altyapı ve ara yüzleri ile ilgili      Standardizasyon
+                                          standardizasyon çalışmaları yapmak.                 Dokümanları                    1-70
+F-VERİ SUNUMU İLE İLGİLİ
+ANALİZ, STANDARDİZASYON                   2.Veri sunumu ile ilgili entegrasyon
+                                                                                              Toplantı tutanakları
+VE İYİLEŞTİRME                            çalışmaları yapmak.                                                                1-70
+ÇALIŞMALARI YAPMAK                        3.Rapor kaynak verisinin eksiklik ve hata
+                                                                                              Toplantı tutanakları ve
+                                          tespitlerini   yapmak,      veri  iyileştirme                                      1-70
+                                                                                              örnek veri dokümanı
+                                          çalışmalarını koordine etmek.
+                                          1.Raporlar ile ilgili kullanım dokümanlarını
+                                                                                              Kullanıcı dokümanları
+G. TEKNİK DOKÜMAN VE                      oluşturmak.                                                                        1-70
+SUNUM HAZIRLAMAK                          2.Süreçler ile ilgili gerekli standardizasyon       Standardizasyon
+                                          ve teknik dokümantasyonu oluşturmak.                dokümanları                    1-70
+
+                                           1.SQL kullanarak kurum içi ve kurum
+                                           dışından talep edilen bilgilerin ilgili kişilere   Resmi yazı                     1-70
+                                           ulaştırılmasını sağlamak.
+J. İSTATİSTİKİ VERİ ÜRETMEK
+                                           2.Personel istatistikleri, kuruma ait aylık ve
+                                                                                                                             1-70
+                                           yıllık istatistik bültenlerini hazırlamak.         Resmi yazı
+
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme
+dönemi içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz
+önünde bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                          1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                          ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                          edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                          3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                    başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)            4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                          olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)
+                                          becerisi) (1-3 P.)
+                                          5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                          bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                          beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                           7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme,                   insiyatif
+                                           kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                         8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                 bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                          9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik    derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.          10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                        Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+
+          İMZA
+                                     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                    EK-8
+                        SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ AMBARI SİSTEM YÖNETİCİSİ)
+                                ERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+SİCİL NO
+                                                                                                                         DEĞERLENDİRME
+ADI SOYADI
+                                                                                                                            DÖNEMİ
+UNVANI
+                                                                                                                       …./…./20… - …./…./20…
+BİRİMİ
+
+
+
+                                                                                                               AĞIR.
+                                                                                          ÇIKTI                        (*)(**) MESLEKİ YETERLİLİK
+         GÖREVLER           GÖREVE İLİŞKİN İŞ VE İŞLEMLER                          (Kâğıt veya Elektronik)
+                                                                                                               ORT.
+                                                                                                               PUAN
+                                                                                                                       1.Amir   II. Amir   III. Amir
+
+                                                                                Mevcut      çalışan,   yeni     1-70
+                            1-Veri ambarına verinin akışını tasarlamak.         tasarlanan,     güncellenen
+                                                                                prosedüreler.
+                                                                                Mevcut      çalışan,   yeni
+                            2-Veri ambarında verinin akış aşamalarını
+                                                                                tasarlanan,     güncellenen     1-70
+                             tasarlamak.
+A- VERİ AMBARI                                                                  prosedüreler.
+MİMARİSİNİ TANIMLAMAK       3-Veri ambarı için meta data standartları
+                                                                                Tablo yapıları.                 1-70
+                             belirlemek.
+                                                                                Kullanılan ürünler ve loğ
+                            4-Sistemin güvenlik ihtiyaçlarını tasarlamak.
+                                                                                kayıtları.                      1-70
+                                                                                Mevcut      çalışan,   yeni
+                            5-Diğer sistemlere verinin taşınması için           tasarlanan,     güncellenen     1-70
+                             tasarım yapmak.                                    prosedüreler ve tasarım
+                                                                                dokümanları
+                            1- Veri akışı için ek yazılım yazmak.
+                                                                                Yazılım kodları
+B- VERİ AKIŞ İŞLEMLERİNİ                                                                                        1-70
+GERÇEKLEŞTİRMEK
+                            2-Rapor geliştiricilerin veri modelini gerektiği                                    1-70
+                                                                                Üretilen raporlar
+                            gibi kullanmasını sağlamak.
+
+
+                            1-Veri akışının veri kaybı olmadan akmasını         Veri kalitesi       prosedür
+                            sağlama üzere tasarım yapmak.                       sonuçları
+                                                                                                                1-70
+C- VERİ KALİTESİNİ                                                              Veri    kalitesi     kontrol
+                            2-Veri kontrol tasarımını gerçekleştirmek.
+GERÇEKLEŞTİRMEK                                                                 prosedürü
+                                                                                                                1-70
+                            3-Veri kontrol programını test etmek ve
+                                                                                Veri kalitesi kontrolü
+                            geliştirmek.
+                                                                                                                1-70
+D- SİSTEMİN BAKIMINI        1-Kaynakların yeterliliğini takip etmek ve
+                                                                                Kaynakların kontrolü
+YAPMAK                      tasarruflu kullanmak.
+                                                                                                                1-70
+                            1-Prosedürel işlerin iyileştirilmesi için çalışma
+                                                                                Güncellenen prosedürler         1-70
+                            yapmak.
+E- SİSTEM İYİLEŞTİRME
+ÇALIŞMALARI YAPMAK          2-Veri ambarı ile alakalı şartnameleri
+                                                                                Şartname dokümanı               1-70
+                            hazırlamak.
+
+                            1-Sorumluluğu altındaki araçların
+                                                                                Yetki kayıtları
+                            kullanıcılarını yetkilendirmek.
+                                                                                                                1-70
+F- BİLGİ GÜVENLİĞİ          2-Verinin akış aşamasında rapor geliştiricilerin
+                                                                                Log kayıtları
+TEDBİRLERİNİ ALMAK          yaptıkları işleri kaydetmek.
+                                                                                                                1-70
+                            3-Rapor geliştiricilerin gerektiğinde kaynağa       Talep yönetim sistemi
+                            ulaşabilmesi için kullanıcı yetkilerini istemek.    kayıtları                       1-70
+                                                                                Talep yönetim sistemi
+                            4-Yetki işlemlerini kaydetmek.
+                                                                                kayıtları                       1-70
+                                                                                 Resmi yazı
+G-OPERASYONEL               Görev alanı ile ilgili komisyonlarda görev           e-posta                       1-70
+İŞLEMLER                    almak. Teknik şartname ve idari sözleşme             Toplantı tutanağı
+                            hazırlamak.                                          Şartname, sözleşme
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme dönemi
+içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                          1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                          sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                          edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                          3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                    başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)            4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                          takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3
+İyi Derecede Yeterli (3 Puan)
+                                          P.)
+                                          5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                          paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                          beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                        8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                          9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik    derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.          10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                          Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+                                     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                             EK-9
+                         SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ AMBARI VERİ TABANI YÖNETİCİSİ)
+                                PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+SİCİL NO
+ADI SOYADI                                                                                                         DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                        …./…./20… - …./…./20…
+BİRİMİ
+
+
+
+                                                                                                               AĞIR.
+                                GÖREVE İLİŞKİN İŞ VE                                     ÇIKTI                            (*)(**) MESLEKİ YETERLİLİK
+         GÖREVLER                                                                                              ORT.
+                                    İŞLEMLER                                      (Kâğıt veya Elektronik)
+                                                                                                               PUAN
+                                                                                                                           1.Amir   II. Amir    III. Amir
+
+                         1-Veri tabanı yazılımları ile ilgili kurulum          Oracle       veri     tabanı      1-70
+                          çalışmalarını yürütmek.                              yazılımları (elektronik)
+
+A-KURULUM FAALİYETLERİ                                                         Oracle       veri     tabanı
+                                                                               yazılımlarının performansı,       1-70
+                         2-Konfigürasyon ve ayarlama işlemlerini
+                                                                               ağ, depolama ve kullanıcı
+                          yürütmek.
+                                                                               ayarları (elektronik)
+
+
+                         1-Veri tabanı tasarım             ve     planlama     Fiziksel ve mantıksal veri        1-70
+                         çalışmalarını yapmak.                                 tabanı tasarımı (elektronik)
+
+                                                                               Aktif-aktif veya aktif-pasif
+B- VERİ TABANI YÖNETİM                                                         sunucu, disk ve ağ                1-70
+                         2-Hizmet    sürekliliğiyle     ilgili   çalışmalar
+FAALİYETLERİ                                                                   bileşenleri       tasarımı.
+                         yapmak.
+                                                                               (elektronik)
+
+                         3-Veri tabanı ile ilgili olası sorunların             Veri tabanı optimum süresi
+                         çözümünü sağlamak.                                    ve performansı.                   1-70
+
+                                                                               Yedekleme          uygulama
+                         1-Veri tabanı      yedekleme        çalışmalarını     esasına göre      yedeklerin      1-70
+                         yapmak.                                               alınması.
+C-YEDEKLEME
+FAALİYETLERİ                                                                   Yedekleme politikalarının
+                                                                               belirlenmesi,  politikanın        1-70
+                         2-Veri tabanı yedekleme yönetimi
+                                                                               yedekleme       uygulama
+                         çalışmalarını yapmak..
+                                                                               esasına uyumu.
+
+                                                                               Güncel    veri     ambarı
+                         1-Veri tabanı güvenliğiyle ilgili çalışmaları         güvenliği ve yönetimi             1-70
+                         yapmak.                                               uygulama esasları.
+D-GÜVENLİK İLE İLGİLİ
+                                                                               İlgili güvenlik birimi ile
+FAALİYETLER
+                                                                               işbirliği içerisinde güncel       1-70
+                         2-Veri tabanı güvenliğini artırıcı çalışmalar
+                                                                               güvenlik           önlemleri
+                         yapmak.
+                                                                               kayıtları.(Elektronik)
+
+                                                                               Güncel    veri     ambarı
+E-. KURALLAR VE          1-Veri tabanı kullanıcı ve uygulamalarından           güvenliği ve yönetimi             1-70
+YÖNTEMLERİN              gelen taleplerin karşılanmasını sağlamak.             uygulama esasları.
+BELİRLENMESI VE
+UYGULANMASI
+                         2-Veri tabanı bütünlüğü ve performans                 Alınan yedekler, arşiv            1-70
+                         çalışmalarını yapmak.                                 loğlar ve redo loğlar.
+
+                         1-Felaket kurtarma ile ilgili çalışmalar              Backup/restore işlemlerine        1-70
+                         yapmak.                                               ilişkin kayıtlar.(elektronik)
+F- FELAKET KURTARMAYA
+YÖNELİK FAALİYETLER      2-Veri tabanı arşiv          yedekleriyle    ilgili                                     1-70
+                         çalışmalar yapmak.                                    Arşiv loğları.
+                                         Görev alanındaki sistemlerde meydana
+                                         gelebilecek arıza durumlarında problem            Sistem çıktıları
+                                         nedeni ve çözümleriyle ilgili, performans
+                                                                                           Bilgi notları
+G-BİLGİLENDİRME VE                       raporları, kurulum dokümanları, talep edilen                                       1-70
+                                                                                           Rapor
+RAPORLAMA                                bilgi notları ve raporları hazırlamak ve
+                                         gerekli ihtiyaçları gerekçeleri ile birlikte      İhtiyaç analiz raporu
+                                         amirine bildirmek.                                Gerekçe raporu
+
+
+                                         Veri tabanı sistemleriyle ilgili teknik destek   Veri tabanına bağlanan            1-70
+H-DİĞER BİRİMLERLE
+                                         sağlamak.                                        uygulama ve personelin
+İLİŞKİLER
+                                                                                          teknik sorunlarının çözümü
+                                                                                           Resmi yazı
+I-OPERASYONEL                            Görev alanı ile ilgili komisyonlarda görev
+                                                                                           e-posta,toplantı tutanağı       1-70
+İŞLEMLER                                 almak. Teknik şartname ve idari sözleşme
+                                         hazırlamak.                                       Şartname, sözleşme
+
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme
+dönemi içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz
+önünde bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                           1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                           ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)             4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                           olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)
+                                           becerisi) (1-3 P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                           bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                            7.Karar Alma (Kendisini ilgilendiren konularda             karar   alabilme,   insiyatif
+                                            kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+                                            8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+ Yetersiz (1 Puan)
+                                            bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Der. Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek               10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum not “30”puanı geçemez.            geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+
+                        Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+                                        HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                       EK-10
+                              SÖZLEŞMELİ BİLİŞİM PERSONELİ (BİLGİ GÜVENLİĞİ UZMANI)
+                                    PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+SİCİL NO
+ADI SOYADI                                                                                                    DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                     …./…/20.. - …../…./20..
+BİRİMİ
+
+
+                                                                                                             AĞIR.
+                                                                                          ÇIKTI                         (*)(**) MESLEKİ YETERLİLİK
+       GÖREVLER           GÖREVE İLİŞKİN İŞ VE İŞLEMLER                            (Kâğıt veya Elektronik)
+                                                                                                             ORT.
+                                                                                                             PUAN
+                                                                                                                        1.Amir   II. Amir    III. Amir
+                         1-Görev alanı içerisindeki sistemlerin ve                Çalışmakta olan ilgili
+                         programların   kurulumlarını, güncellemelerini,           sistem ve yazılım
+                         sürüm yükseltmelerini planlamak ve organize               bileşenleri.
+                         etmek. Bu sistem ve programların yönetimini              Ağ altyapı, kullanıcı      1-70
+                         yapmak.                                                   ayarları (elektronik)
+A- KURULUM, SÜRÜM
+YÜKSELTME, GÜNCELLEME                                                             Talep yönetim sistemi
+                         2- Görev alanındaki sistemlerle ilgili olarak gelen
+VE YÖNETİM ÇALIŞMALARI                                                            e-posta                    1-70
+                         talepleri birim amiri ile koordineli olarak
+                                                                                  Resmi yazı
+YAPMAK                   planlamak ve organize etmek.
+                                                                                  Toplantı tutanağı
+                                                                                  Bilgi notu
+                         3-Görev alanındaki sistemlerle ilgili kapasite           Rapor                      1-70
+                         planlaması yapmak, gerekli ihtiyaçları gerekçeleri       e-posta
+                         ile birlikte amirine bildirmek.                          İhtiyaç analizi
+                                                                                  Gerekçe raporu
+                         1-Görev alanındaki sistemlerin teknik imkanlar           Sistem Çıktıları
+                         dahilinde kesintisiz çalışabilmesi amacı ile yüksek      Talep yönetim sistemi      1-70
+                         erişilebilirliğini planlanmak ve organize etmek          e-posta
+                                                                                  Sistem Çıktıları
+                         2-Görev alanındaki sistemlerin düzenli olarak
+                                                                                  Talep yönetim sistemi      1-70
+B- SİSTEMLERİN           yedeklerinin alınabilmesi için yedekleme birimi
+                                                                                  e-posta
+                         ile koordineli olarak çalışmak.
+MİNİMUM KESİNTİYLE                                                                Resmi yazı
+ÇALIŞMASI İÇİN GEREKLİ                                                            Sistem Çıktıları
+                         3- Görev alanındaki sistemlerin erişilebilirliklerini
+ÇALIŞMA YAPMAK                                                                    İzleme ürünü çıktıları     1-70
+                         ve performanslarını izlemek
+                                                                                  e-posta
+                                                                                  Sistem Çıktıları
+                         4-Görev alanındaki sistemlerde meydana gelen
+                                                                                  İzleme ürünü çıktıları     1-70
+                         arızalara müdahale etmek, sorunun çözümü için
+                                                                                  e-posta
+                         gerekli planlamaları yapmak ve birim amirini
+                         bilgilendirmek.                                          Toplantı tutanağı
+                                                                                  Bilgi notu
+                                                                                  DÖF
+                         1-Bilgi sistemleri güvenliği konusunda ISO 27001
+                                                                                  e-posta                    1-70
+                         kapsamında Kurum içerisinde yürütülen süreçlere
+                                                                                  Toplantı tutanağı
+                         dahil olmak.
+                                                                                  Rapor
+                         2- Kurum bünyesindeki SOME ekibinde etkin rol            e-posta
+                         almak, SOME içerisinde kendisine atanmış                 Toplantı tutanağı          1-70
+                         görevleri eksiksiz yerine getirmek.                      Rapor
+C- KURUM GÜVENLİK        3-Kurum siber güvenlik altyapısına yönelik
+ALTYAPISI İLE İLGİLİ                                                              Sistem çıktıları
+                         düzenli olarak zafiyet/sızma/servis dışı bırakma                                     1-70
+TEKNİK VE DENETMEN                                                                e-posta
+                         testlerini yürütmek, gerektiğinde dış paydaşlarla
+                                                                                  Toplantı tutanağı
+DÜZEYİNDE ÇALIŞMA        koordinasyonu sağlamak, testlerle ilgili sonuç
+                         raporlarını hazırlayarak yönetime sunmak.                Rapor
+YAPMAK
+                         4-Kurum siber güvenlik altyapısı içerisinde              Sistem çıktıları
+                         meydana gelebilecek zafiyetleri ortaya çıkarmak,         e-posta                    1-70
+                         bunlarla ilgili önlemleri almak/aldırmak, USOM           Rapor
+                         ile koordinasyonu sağlamak.                              USOM formları
+                         5-Kurum bünyesinde oluşabilecek bir siber                Senaryo dokümanı
+                         güvenlik     ihlalinde    yapılması gerekenleri          e-posta                    1-70
+                         senaryolaştırmak, düzenli tatbikatlar ile bu             Toplantı tutanağı
+                         senaryoları icra/koordine etmek.                         Rapor
+                                         6- Siber güvenlik altyapısına yetkisiz erişimlerin
+                                                                                                   Sistem çıktıları
+                                         takibini yapmak, bu tip ihlallerin olması                                               1-70
+                                                                                                   Rapor
+                                         durumunda adli analiz süreçlerini yürütmek.
+                                         7-Kurum        siber      güvenlik       politikasının
+                                                                                                   e-posta
+                                         oluşturulmasına/geliştirilmesine katkı sağlamak,                                        1-70
+                                                                                                   Toplantı tutanağı
+                                         siber güvenlik eğitimleri ve farkındalık
+                                         faaliyetlerinde etkin rol almak.                          Eğitim dokümanı
+                                         8-Siber     ortamda      istihbarat    faaliyetlerinde    Bilgi notu
+                                         bulunarak Kurum siber güvenlik sistemlerini                                             1-70
+                                                                                                   Rapor
+                                         tehdit edebilecek riskleri önceden tespit etmek,
+                                                                                                   e-posta
+                                         gerekli mercileri bu konularda uyarmak, gerekli
+                                         tedbirleri almak.                                         Sunum
+                                         1-Görev      alanındaki      sistemlerde     meydana
+                                                                                                   Bilgi notu
+                                         gelebilecek arıza durumlarında problem nedeni ve                                        1-70
+                                                                                                   Rapor
+D- SİSTEMLER VE                          çözümleri ile ilgili amirin talep ettiği raporları
+                                         hazırlamak.                                               e-posta
+FAALİYETLER İLE İLGİLİ
+                                         2-Görev alanındaki sistemlerle ilgili olarak, amirin      Bilgi notu
+DOKÜMANTASYON VE                         talep ettiği bilgi notlarını ve kurulum                   Rapor                        1-70
+RAPORLAMA                                dokümanlarını hazırlamak.                                 e-posta
+ÇALIŞMALARI YAPMAK                       3-Siber güvenlik ile ilgili yürütülen tüm                 Bilgi notu
+                                         faaliyetlerle ilgili raporlar hazırlamak, hazırlanan      Rapor                        1-70
+                                         raporların amir ve yöneticilerine ayrıntılı şekilde       e-posta
+                                         sunumunu yapmak.                                          Sunum
+                                         1 -Görev alanındaki sistemlerle ilgili güvenlik           Sistem çıktıları
+                                          bültenlerini   takip    etmek,      yamalarının          Toplantı tutanağı            1-70
+E- SİSTEMLERDE GÜVENLİK                   yüklenmesini planlamak ve organize etmek.                e-posta
+İLE İLGİLİ ÇALIŞMALAR
+                                                                                                   Sistem çıktıları
+YAPMAK                                   2 -Görev alanındaki sistemlerin gerekli güvenlik
+                                                                                                   Toplantı tutanağı            1-70
+                                          ayarlarını ve yetkilendirme tasarımını yapmak.
+                                                                                                   e-posta
+                                                                                                   Resmi yazı
+F-OPERASYONEL                            Görev alanı ile ilgili komisyonlarda görev almak.         e-posta                      1-70
+İŞLEMLER                                 Teknik şartname ve idari sözleşme hazırlamak.             Toplantı tutanağı
+                                                                                                   Şartname, sözleşme
+Mesleki Yeterlilik Puanları Ortalaması :
+(*)Değerlendirme dönemi içinde bilişim uzmanına verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır, değerlendirme dönemi
+içerisinde her bir işin karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak toplam mesleki yeterlilik puanı belirlenir.
+(**) Mesleki yeterlilik puanı: Değerlendirme dönemi içinde personele verilen görev sayısına göre amir tarafından verilen
+notların toplanarak, verilen görev sayısına bölünmesi sonucu oluşacak puandır.
+
+
+                                         1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                         sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                         2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                         edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+(*) DAVRANIŞSAL
+YETERLİLİK                               3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+Yetersiz (1 Puan)                        bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Derecede Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)            4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                         takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3 P.)
+
+                                         5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                         paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                         beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, inisiyatif kullanabilme
+(*) BİREYSEL YETERLİLİK                   becerisi) (Ağ. Ort. Puanı: 1-3)
+ Yetersiz (1 Puan)
+Orta Der. Yeterli (2 Puan)                8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak bitirebilme
+İyi Derecede Yeterli (3 Puan)             becerisi) (Ağ. Ort. Puanı: 1-3)
+                                          9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik    derecesi) (Ağ. Ort. Puanı: 1-3)
+için     toplamda       verilebilecek
+                                         10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum      not         “30”puanı
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+geçemez.
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Puanları Toplamı:
+                        Mesleki, Davranışsal ve Bireysel Yeterlilik Puanları Genel Toplamı:
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+          TARİH
+
+
+          İMZA
+                                                                                                                                                                                                                                                          EK-11
+
+
+                                                            SOSYAL GÜVENLİK KURUMU SÖZLEŞMELİ BİLİŞİM UZMANLARI PERFORMANS KRİTERLERİNE GÖRE ÜCRET CETVELİ
+                                                                                          (01.07.2021 - 31.12.2021 tarihleri arası geçerli)
+
+Mesleki Tecrübe Yılı                                                2 Yıldan Az Mesleki Tecrübeli                                            2-5 Yıl Mesleki Tecrübeli                                          5 Yıl ve Üzeri Mesleki Tecrübeli
+
+
+
+
+                                                                                                                    E, Geç.Md.1,
+                                                                                                                    Geç.Md.2,
+                                                                                                                    (D) düzeyi dil
+                                                                                                                    belgesi süresi
+                                                                                                                    dolan
+                                                                                                                                                                                           E, Geç.Md.1,
+                                                                                                                                                                                           Geç.Md.2,
+                                                                                                                                                                                           (D) düzeyi dil
+                                                                                                                                                                                           belgesi süresi
+                                                                                                                                                                                           dolan
+İngilizce Dil Puanı Grubu                                       D                C                  B       A                            D               C               B         A                            D              C                   B       A
+
+
+
+
+                                           E, Geç.Md.1,
+                                           Geç.Md.2,
+                                           (D) düzeyi dil
+                                           belgesi süresi
+                                           dolan
+             Aylık Brüt Ücret
+                              Performans
+             Tavanı
+                              Puanı
+             (01.07.2021)
+
+                                95-100         -                -              -               -            -            -               -             -               -           -        42.109,65       42.548,29    42.986,93        43.425,57    43.864,20
+ A Grubu                                       -                -              -               -            -            -               -             -               -           -
+Sözleşmeli                                     -                -              -               -            -            -               -             -               -           -
+               43.864,20         90-94                                                                                                                                                      40.004,16       40.420,88    40.837,59        41.254,29    41.671,01
+ Bilişim                                       -                -              -               -            -            -               -             -               -           -
+ Uzmanı                          85-89         -                -              -               -            -            -               -             -               -           -        37.898,68       38.293,46    38.688,25        39.083,02    39.477,80
+                                               -                -              -               -            -            -               -             -               -           -
+                                95-100         -                -              -               -            -        31.161,14       31.485,73     31.810,33       32.134,92   32.459,51    33.687,72       34.038,63    34.389,54        34.740,45    35.091,36
+ B Grubu                                       -                -              -               -            -
+Sözleşmeli                                     -                -              -               -            -
+               35.091,36         90-94                                                                               29.603,08       29.911,45     30.219,81       30.528,18   30.836,54    32.003,33       32.336,70    32.670,06        33.003,43    33.336,81
+ Bilişim                                       -                -              -               -            -
+ Uzmanı                          85-89         -                -              -               -            -        28.045,03       28.337,16     28.629,30       28.921,43   29.213,57    30.318,95       30.634,77    30.950,60        31.266,42    31.582,23
+                                               -                -              -               -            -
+                                95-100     21.475,92        21.699,63      21.923,34       22.147,05    22.370,75    23.370,86       23.614,31     23.857,75       24.101,20   24.344,64    25.265,79       25.528,97    25.792,16        26.055,34    26.318,52
+                                 90-94     20.402,13        20.614,66      20.827,18       21.039,70    21.252,21    22.202,31       22.433,59     22.664,86       22.896,14   23.127,42    24.002,50       24.252,53    24.502,55        24.752,58    25.002,60
+ C Grubu
+Sözleşmeli                       85-89     19.328,33        19.529,67      19.731,01       19.932,34    20.133,69    21.033,77       21.252,88     21.471,97       21.691,08   21.910,18    22.739,21       22.976,07    23.212,94        23.449,81    23.686,67
+ Bilişim
+               26.318,52
+                                 80-84     18.254,55        18.444,69      18.634,84       18.824,99    19.015,15    19.865,23       20.072,16     20.279,10       20.486,03   20.692,94    21.475,92       21.699,63    21.923,34        22.147,05    22.370,75
+ Uzmanı
+                                 75-79     17.180,75        17.359,71      17.538,68       17.717,64    17.896,61    18.696,69       18.891,45     19.086,21       19.280,96   19.475,72    20.212,64       20.423,19    20.633,74        20.844,29    21.054,82
+                                 70-74     16.106,95        16.274,73      16.442,52       16.610,29    16.778,08    17.528,15       17.710,74     17.893,32       18.075,90   18.258,49    18.949,35       19.146,74    19.344,12        19.541,51    19.738,90
+Bu Cetvel, 06.01.2021 tarihli ve 11638 sayılı Hazine ve Maliye Bakanlığının 1 sıra nolu Genelgesinde belirtilen %7,33 artış oranı uygulanmak suretiyle oluşturulan Cetveldeki ücretlerin 07.07.2021 tarihli ve 421208 sayılı Hazine ve Maliye
+Bakanlığının 7 sıra nolu Genelgesinde belirtilen %8,45 artış oranı uygulanmak suretiyle güncellenmiştir.
+A Grubu : (5 kişi)
+B Grubu : (5 kişi)
+C Grubu : (Diğer)
+

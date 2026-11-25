@@ -1,0 +1,128 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/139768
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 694243
+ADI: YURDA GİRİŞ ÇIKIŞLARIN TESPİTİNİN EMNİYET GENEL MÜDÜRLÜĞÜNCE PAYLAŞIMA AÇILMASI HAKKINDA 02/02/2018 TARİHLİ VE 694243 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 9bea05cbbc346e59a67ce0b90ae491386ded676eae331e964abebf65629a4d20
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı :40552758-010.07.01-E, 694243 02/02/2018
+Konu : Yurda giriş çıkış tarihlerinin tespiti
+GENEL YAZI
+
+Sosyal Güvenlik Kurumu Başkanlığı ile İçişleri Bakanlığı Emniyet Genel Müdürlüğü
+(EGM) Arasında Veri Paylaşımına İlişkin o Protokol 19/06/2017 tarihinde imzalanarak yürürlüğe
+girmiştir.
+
+Söz konusu Protokolün 8 inci maddesinde Türk vatandaşlarının yurda giriş çıkışlarının,
+EGM tarafından Web servisi aracılığı ile Kurumla paylaşılması öngörülmüştür.
+
+Bu itibarla, Türk vatandaşlarının yurda giriş çıkışlarının görüntülenmesine yönelik Emniyet
+Genel Müdürlüğü Pasaport Giriş/Çıkış Bilgileri Projesi (EGMP) hazırlanarak işletime açılmıştır.
+Sözü edilen programa, “https:/intra3.sgk.intra/EGMGirisCikis" adresinden Kurumca
+yetkilendirilmiş personel tarafından giriş yapılabilecektir,
+
+Programda "kimlik ve pasaport bilgileri ile sorgulama" modülleri tamamlanıncaya kadar
+sorgulama işlemi sadece T.C, kimlik numarası ile yapılabilecektir. Kimlik ve pasaport bilgileri ile
+sorgulama alanları kullanıma açıldığında ayrıca duyurulacaktır.
+
+Hazırlanan programa yurt dışı borçlanması yapan, yurt dışı borçlanmasına istinaden aylık
+bağlayan ve genel sağlık sigortası tescili ile sigortalı tescil işlemi yapan personel giriş yapabilecek
+olup programa giriş yetkisi, birimlerde görevli supervisorler tarafından verilecektir.
+
+Programa giriş yapacak personele yetki verecek supervisorlerin (Yetkili Kullanıcı) sisteme
+tanıtımı gerçekleştirilmiş olup kullanıcı adları ve şifreleri e-posta adreslerine gönderilmiştir.
+
+Programın kullanımına ilişkin hazırlanan "Kullanım Klavuzu" ekte gönderilmiştir.
+
+Bilgi edinilmesini ve gereğini arz ve rica ederim.
+
+İsmail YILMAZ
+
+Genel Müdür
+
+Ek: Kullanım Klavuzu (3 sayfa )
+DAĞITIM:
+Gereği:
+Merkez ve Taşra Teşkilatına
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza Tie imzalanmıştır ©
+Adres: Mithatpaşa Cad. No: 7 06437 Sıhhiye / ANKARA İrtibat: H.Hüseyin Aras
+Telefon: (90 312) 432 12 47 Faks: (0312) 432 12 45 Daire Başkanı
+e-posla: yurdisimevzuat(Ösgk.gov.ir o elektronik ağ: www.sgk.gov.tr
+
+Emniyet Genel Müdürlüğü Pasaport (EGMP) Projesi
+Kullanım Kılavuzu
+1
+
+Emniyet Genel Müdürlüğü Pasaport Giriş/Çıkış Bilgileri Projesi (EGMP)
+Şu linkten program giriş sayfası AÇIN eee
+Linkten programa erişim sağlanınca kullanıcı adı ve kullanıcı şifresi ile programa login olunur (Aşağıdaki
+ekran).
+£ SGK Kullamcz pull meli — Birim: mull
+Kıkas :
+Kullanıcı Alı legmp ||
+Kıllamıcı Şifne İs..erese) |
+ii Bisteme Giriş Map
+Login olunduğunda aşağıdaki sorgulama ekranı gelecektir. Bu ekrandan
+1. T.C. Kimlik numarası ile (kırmızı yıldız ile işaretlenmiş) veya
+2. Pasaport ve kimlik bilgileri ile (mavi yıldız ile işaretlenmiş)
+sorgulama yapılabilir.
+Sorgulama yapıldığında eğer kayıt var ise sayfanın aşağısındaki listede görünecektir. Eğer kayıt yok ise
+“kayıt yok” bilgisi sayfaya düşecektir.
+Kullanıcı: AD SOYAD - Birim: 601.
+kiş
+İM m N
+gm gm
+Pasaport Harf Seri No*| e... Pasapart Seri No* İ
+Pasaport Türü” m . | Birey Sira No
+İRAN
+Ad” | Soyad” |
+Baba Adi“ mn | © Doğum Tar
+Cinsiyet Doğum Yeri
+» Açıklama
+T.C. Kimlik No | Giriş/Çikiş Tarihi.) Giriş/Çıkış Türü
+“Kullanıcı işlemleri” butonundan Kullanıcı İşlemleri sayfasına gidilir (aşağıdaki sayfa). Kullanıcı işlemleri
+sayfasında Sorgulama Ekleme, Güncelleme, Şifre sıfırlama, Temizleme işlemleri yapılır. Kullanıcı
+silinemez. Kullanıcı eklemek için önce kişi sorgulanır eğer kayıt yok ise tüm alanlar girilir ve ekleme
+butonuna basılır. Kullanıcı tanımlanırken “Yetkili Kullanıcı” tarafından “Kullanıcı Adı” alanına “PC
+kullanıcı adı”,” Kullanıcı Birimi” alanına “yetki veren personelin kayıtlı olduğu birimin kodu” , “ad” ve
+“Soyad” bölümlerine programa giriş yetkisi verilen personelin ad ve soyadı girilerek kullanıcı ekleme
+işlemi gerçekleştirilir. Güncelleme de benzer şekilde çalışır.
+2
+
+(SGK Kullanıcı: AD SOYAD - Birim; 601
+Cikis
+Kalanı Ad 7
+Kullanıcı Birimi |
+Ad İ
+Şifre sıfırlama işlemi “Yetkili Kullanıcı” tarafından gerçekleştirilebilir. “Şifre Sıfırla” butonu şifre
+güncelleme işlemleri için kullanılır. Şifre sıfırlandığında kullanıcının şifresi 12345678 olur ve bu kullanıcı
+programa ilk giriş yaptığında yeni şifre girişi sağlanması suretiyle şifresi değişmiş olur (aşağıdaki ekran).
+İŞCİ Kullamcı: 12 123 — Birim: 201
+Çıkış
+Kullanıcı Adı 123
+Kullanıcı Şifre | i
+Şire Süneelle
+Yetkili kullanıcı adı ve programa giriş şifresi yetkili kullanıcıların e-posta adreslerine gönderilmiştir.
+Sadece yetkili kullanıcılar Kullanıcı İşlemleri sayfasını kullanabilmektedir.
+Emniyet Genel Müdürlüğündeki web servis şuan pasaport bilgileri ile ilgili hizmeti veremediğinden,
+SGK-EGMP projesi şuan için pasaport bilgileri ile çalışamamaktadır. Programda sadece T.C. Kimlik
+Numarası ile sorgulama yapılabilmektedir.
+Kullanıcı: AD SOYAD - Birim: 601
+Gikış
+T.C. Kimlik Ne” mm. SORGU kullanıcı islemleri
+Pasaport Hari Seri No”123. , ğ i Pasaport Seri No* m, |
+Pasaport Türü” m... Birey Sira No
+ad z . | İsoyad 8...
+İpana BEŞİ m a e m
+Baba Adı” 3... | Doğum Tar, ga
+Cinsiyet Doğum Yeri
+Açıklama
+Pasaport Seri No büş olamaz ,
+T.C. Kimlik Ne | Giris/Çılaş Tarihi Giriş/Çıkış Türü '
+3

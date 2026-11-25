@@ -1,0 +1,360 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/104166
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2017/11
+ADI: 2016/21 SAYILI GENELGEDE DEĞİŞİKLİK YAPAN 2017/11 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 236b2ab4d02512e7ac085eae098c19ad913fcff1c99572e100a001b864229e31
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : B.13.2.SGK.0.02.05.00/X-198                                                     09.03.2017
+Konu : 2016/21 Sayılı Genelgede Değişiklik
+
+
+
+
+                                                GENELGE
+                                                 2017/11
+
+
+
+        6331 sayılı İş Sağlığı ve Güvenliği Kanunu uyarınca iş kazaları ve meslek hastalıklarının
+bildirimi ile süresinde yapılmayan bildirimler sebebiyle Kurumumuzca uygulanan idari para
+cezalarının uygulanmasında ve iş kazalarının soruşturulmasında yaşanan tereddütlerle ilgili
+olarak 29/09/2016 tarihli 2016/21 sayılı Genelgede yapılan değişiklikler aşağıda açıklanmıştır.
+
+        1- Genelgenin “1.3.5. 6331 Sayılı Kanuna Göre İş Kazası ve Meslek Hastalığının
+Bildirim Şekli” başlıklı bölümünün üçüncü paragrafı, “Sağlık hizmet sunucularının iş kazası
+ve/veya meslek hastalığının bildirimi, 23/04/2015 tarihi itibariyle provizyon seçimine
+bağlanmıştır. Buna göre, 23/04/2015 (dahil) tarihinden sonra; ilgili olay için sağlık hizmet
+sunucularınca iş kazası veya meslek hastalığı provizyon tipinin seçilmiş olması, iş kazası veya
+meslek hastalığı bildirimi yerine geçtiğinden; ilgili uygulamalar kullanılarak 6331 sayılı
+Kanunda belirlenen sürede iş kazası ve/veya meslek hastalığı provizyonunun alınmış olduğunun
+tespit edilmesi halinde ilgili sağlık hizmet sunucusuna idari para cezası uygulanmayacaktır.”
+şeklinde değiştirilmiş ve bu paragraftan sonra gelmek üzere aşağıdaki paragraflar eklenmiştir.
+        “Ayrıca, 23/04/2015 tarihinden geçerli olmak üzere, istirahat raporu verilen hallerde
+istirahat raporunun iş kazası vaka türünde olması da iş kazası bildirimi yerine geçecektir. Sağlık
+hizmet sunucularının iş kazası provizyonu almadığı, ancak alınmış olan diğer provizyon
+tiplerinin tanı bölümlerinde iş kazası ifadesinin bulunduğu hallerde de bildirim yapılmış
+sayılacaktır.
+        İş kazası provizyonunun alınmadığı ve tanı/açıklama kısmında da iş kazası ifadesine yer
+verilmediği hallerde; MEDULA Hastane uygulaması üzerinden yapılan incelemede, iş kazası
+tanımına uyacak şekilde olayın hikâye edildiği durumlar da sağlık hizmet sunucusunun iş
+kazasını bildirimi yerine geçecektir.
+        Açıklanan şekilde bildirimde bulunulmaması durumunda, Genelge ekinde (Ek-7) yer alan
+sağlık hizmet sunucuları için düzenlenen form ile kâğıt ortamında bildirim yapılacaktır.”
+        2- Genelgenin “1.3.6. 6331 Sayılı Kanuna Göre İdari Para Cezasının Uygulanması”
+başlıklı bölümüne birinci paragraftan sonra gelmek üzere aşağıdaki paragraflar eklenmiştir.
+        “MEDULA Hastane uygulamasında, provizyon bilgileri ancak alınan provizyona ait
+tedavi giderleri faturalandırıldıktan sonra görüntülenebilmektedir. Bu nedenle iş kazası dışında
+alınan provizyonlarda, tanı bölümünde iş kazası ifadesinin olup olmadığı; olayın açıklama
+kısmında yer alan bilgilere, vakaya ilişkin provizyona ait tedavi giderleri faturalandırıldıktan
+sonra ulaşılabilecektir.
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                          Elektronik Ağ   : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                          e-posta         : ehgm_kvsdb@sgk.gov.tr
+                                                                                                    1/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+        İş kazası provizyonunun alınmadığı hallerde MEDULA Hastane uygulaması üzerinden
+yapılan incelemede, tanı/açıklama kısmında iş kazası ifadesine yer verilmiş olması halinde idari
+para cezası uygulanmayacaktır.
+        Diğer taraftan, yine iş kazası provizyonunun alınmadığı, tanı/açıklama kısmında olayın
+oluş şekline göre vakanın iş kazası olmadığının anlaşıldığı hallerde idari para cezası
+uygulanmayacaktır.
+        Sağlık hizmet sunucularınca 23/04/2015 (dahil) tarihinden itibaren açıklanan hususlar
+doğrultusunda işlem yapıldığının tespit edilmesi durumunda, iş kazası bildiriminde
+bulunulmadığı gerekçesi ile uygulanan idari para cezalarından tahsil edilmemiş olanlar iptal
+edilecektir.
+        Sigortalının başka bir bölgedeki sağlık hizmet sunucusuna başvurması halinde, iş kazası
+ve bildirimin usulüne uygun olarak yapılıp yapılmadığının tespiti, sigortalının bağlı bulunduğu
+sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezince gerçekleştirilecektir.
+        Başka bölgedeki sağlık hizmet sunucusuna yapılan başvuru neticesinde ilgili sağlık
+hizmet sunucusu tarafından bildirimin yapılmadığı veya süresinde yapılmadığının tespit edilmesi
+halinde, idari para cezası uygulanmak üzere konu, ilgili sosyal güvenlik il müdürlüğü/sosyal
+güvenlik merkezine iletilecektir.
+        Aynı sigortalı için işverence de bildirim yapılmadığının tespit edilmesi halinde, yine
+sigortalının bağlı bulunduğu sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi, tespit ve
+idari para cezası işlemlerini gerçekleştirecektir.
+        Sağlık hizmet sunucuları/işverenler tarafından Kuruma iş kazası bildiriminde
+bulunulmadığının tespit edilmesi halinde sağlık hizmet sunucusuna/işverene idari para cezası
+uygulanmadan önce, olayın iş kazası olup olmadığı yönünde Kısa Vadeli Sigorta Servisi veya İş
+Kazası Tespit Komisyonunca Genelge hükümlerine göre inceleme yapılması, olayın iş kazası
+olmadığı yönünde karar verilmesi durumunda, idari para cezası uygulanmaması gerekmektedir.”
+        3- Genelgenin “1.3.9.İdari Para Cezalarına Yapılan İtirazlar” başlıklı bölümüne
+birinci paragraftan sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
+        “Sağlık hizmet sunucusunun idari para cezasına itiraz etmesi halinde konu, tespiti yapan
+sigortalının bağlı bulunduğu sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi İdari Para
+Cezaları İtiraz Komisyonu tarafından; MEDULA Hastane uygulaması, “Takip İzleme” menüsü
+üzerinde yer alan açıklama bilgileri, varsa istirahat raporları veya sağlık hizmet sunucusunca
+düzenlenmiş belgeler esas alınarak değerlendirilecektir.”
+        4- Genelgenin “2.1.1.1. Kısa Vadeli Sigorta Servisince Tespit Yapılması” başlıklı
+bölümü aşağıdaki şekilde değiştirilmiştir.
+        İşveren tarafından sigortalının mensubu olduğu işyerlerince düzenlenen İş Kazası ve
+Meslek Hastalığı Bildirim Formunun, yine işverence düzenlenecek iş kazası tespit tutanağının,
+olayın intikal ettiği kolluk kuvvetlerince olay ile ilgili düzenlenecek tutanağın ve tanık
+ifadelerinin, kamu kurum ve kuruluşlarında meydana gelen iş kazası dolayısıyla düzenlenen
+resmi belge, bilgi ve konuyla ilgili düzenlenen tutanak veya raporların incelenmesi sonucu
+ünitelerin kısa vadeli sigorta servislerince, vakaların başkaca bir araştırma ve soruşturma yapılıp
+yapılmadığına bakılmaksızın iş kazası olduğuna karar verilebilecektir.
+        İş kazasının Kısa Vadeli Sigorta Servisi tarafından tespit edilmesi halinde Genelge ekinde
+yer alan (Ek-3) “Ünitece/Komisyonca Tespit Edilen İş Kazası Karar Tutanağı” düzenlenecek ve
+tutanak kısa vadeli sigorta servisi memuru, servis şefi, varsa sosyal güvenlik merkez müdür
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                         Elektronik Ağ   : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                         e-posta         : ehgm_kvsdb@sgk.gov.tr
+                                                                                               2/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+yardımcısı yoksa sosyal güvenlik merkez müdürü tarafından imzalanacaktır. İş kazası tespit
+işlemi il müdürlüğü bünyesinde yapılması halinde kısa vadeli sigortalar servis memuru, servis
+şefi ve il müdür yardımcısı tarafından imzalanabilecektir.
+        Tutanakta ayrıca Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Tespit İşlemleri
+Yönetmeliği hükümlerine dayanarak söz konusu Yönetmelik eki “B cetveline” göre meslek grup
+numarası yer alacaktır. Meslek kodunun bu şekilde belirlenemediği durumlarda Sosyal Güvenlik
+Denetmenleri marifetiyle tespit edilmesi yoluna gidilecektir.
+        Anılan servisin olayın iş kazası olduğu yönünde karar alma yetkisi olduğu gibi, olayın iş
+kazası olmadığı yönünde karar alma yetkisi de bulunmaktadır. Servis tarafından olay hakkında
+alınan “iş kazası değildir" kararına sigortalının itiraz etmesi halinde söz konusu vaka bir kez de
+"İş Kazası Tespit Komisyonunca" incelenecek ve karara bağlanabilecektir.
+        İş kazası ve meslek hastalığı sigortasından sağlanacak yardımlarda gecikme yaşanmaması
+için ölümle sonuçlanan vakalarda, Kuruma yapılan bildirimlerden kaza geçirenin sigortalılığı
+konusunda tereddüt bulunmaması, kolluk kuvvetlerinin olayla ilgili düzenlemiş oldukları olay
+yeri tespit tutanağı, ifade tutanakları ve diğer belgelere, Cumhuriyet Savcılığı tespit ve ifade
+tutanaklarına ya da sağlık hizmet sunucusundan elde edilen bilgi ve belgelere yahut işverenin
+kaza ile ilgili bildirimlerine göre, Kısa Vadeli Sigorta Servisi veya İş Kazası Tespit Komisyonu
+tarafından iş kazası tespiti yapılabilecektir.
+        Bu şekilde tespiti yapılan vakalar, hak sahiplerine gelir bağlanması amacıyla sigortalı
+emeklilik işlemleri servislerine intikal ettirilecek, ancak aynı zamanda bir sureti de işveren,
+sigortalı ve üçüncü kişilerin sorumluluğunun tespit edilmesi amacıyla soruşturulmak üzere
+Rehberlik ve Teftiş Başkanlığının ilgili Grup Başkanlığına intikal ettirilecektir.
+        Dosyanın sigortalı emeklilik servisine gönderilmesi için teftiş raporunun sonuçlanması
+beklenmeyecektir. Ölümlü vakaların kısa vadeli sigorta servislerince veya İş Kazası Tespit
+Komisyonunca iş kazası olup olmadığına karar verilememesi durumunda ise konu incelenmek
+üzere Rehberlik ve Teftiş Başkanlığının ilgili Grup Başkanlığına gönderilecektir.
+        5- Genelgenin “2.1.1.2.İş Kazası Tespit Komisyonunca Tespit Yapılması” başlıklı
+bölümüne ilk paragraftan sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
+        “Tutanakta ayrıca Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Tespit İşlemleri
+Yönetmeliği hükümlerine dayanarak söz konusu Yönetmelik eki “B cetveline” göre meslek grup
+numarası yer alacaktır. Meslek kodunun bu şekilde belirlenemediği durumlarda Sosyal Güvenlik
+Denetmenleri marifetiyle tespit edilmesi yoluna gidilecektir.”
+        6- Genelge eki “Ek-3: Ünitece/Komisyonca Tespit Edilen İş Kazası Karar Tutanağı” ekte
+yer aldığı şekilde güncellenmiştir.
+        7- Genelgenin “2.1.3. Ölümle veya Uzuv Kaybıyla Sonuçlanan İş Kazaları” başlıklı
+bölümünün birinci paragrafının ilk cümlesi “Kısa Vadeli Sigorta Servisi veya İş Kazası Tespit
+Komisyonunca tespiti yapılanlar dahil olmak üzere, ölümle sonuçlanan vakalarda dosya, iş
+kazası tespiti talebi veya sorumluluk halleri ve oranlarının tespiti bakımından Rehberlik ve Teftiş
+Başkanlığının ilgili grup başkanlığına iletilebilecektir. ” şeklinde, ikinci cümlenin başında yer
+alan “Rehberlik ve Teftiş Başkanlığınca yapılan soruşturma sonucuna göre vakanın iş kazası
+olarak tespit edilmesi” ibaresi, “Olayın iş kazası olduğuna karar verilmesi” şeklinde
+değiştirilmiştir.
+        8- Genelgenin “2.1.4. Sigortalılık Bildirimleri Yapılmamış Olanların İş Kazası
+Geçirmesi” başlıklı bölümünün ilk cümlesine “kaza geçirmesi halinde” ifadesinden önce gelmek
+üzere “ölümlü vakalar dahil” ifadesi eklenmiştir.
+
+
+
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                         Elektronik Ağ   : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                         e-posta         : ehgm_kvsdb@sgk.gov.tr
+                                                                                               3/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+        9- Bu Genelgenin yayımı tarihinden itibaren 2015/27 sayılı Genelge yürürlükten
+kaldırılmıştır.
+        Bilgi edinilmesini ve gereğince işlem yapılmasını rica ederim.
+
+
+
+
+                                                                       Dr. Mehmet Selim BAĞLI
+                                                                            Kurum Başkanı
+
+
+
+
+EK: “Ek-3: Ünitece/Komisyonca Tespit Edilen İş Kazası Karar Tutanağı”
+
+
+
+
+…/…/2017 Şb.Md.         : E. BAŞBOZKURT
+..../…/2017 Dai.Bşk.    : O. YÜCE
+…/…/2017 Gn. Md.Yrd. V. : S. ALIÇ
+…/…/2017 Gn.Md.         : İ. YILMAZ
+…/…/2017 Kur. Bşk. Yrd. : C. CEYLAN
+
+
+
+
+DAĞITIM:
+Gereği:                                         Bilgi:
+Merkez ve Taşra Teşkilatına                     Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                            Elektronik Ağ     : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                            e-posta           : ehgm_kvsdb@sgk.gov.tr
+                                                                                                   4/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+EK: “Ek-3: Ünitece/Komisyonca Tespit Edilen İş Kazası Karar Tutanağı”
+
+                                             TC
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              …………………Sosyal Güvenlik İl Müdürlüğü
+
+                                   ÜNİTE/KOMİSYON KARARI
+
+Karar No                           :……………………
+Karar Tarihi                       :……………………
+İş Kazası Tarihi /Saati            :…………………..
+
+Karar nüshası                     :1 (Bir) - 2 (İki) - 3 (Üç) nüsha çıkarılmıştır.
+Karar sayfa sayısı                :1(Bir) - 2 (İki) - 3 (Üç) sayfadır.
+Karar ekleri/sayfa sayısı/içeriği :
+
+ A-İŞVEREN
+Adı Soyadı veya Ticaret Ünvanı              :…………………………..
+İşyeri Sicil No                             :…………………………..
+İşyerinde Yapılan İşin Konusu               :…………………………..
+İş yerinin sanayi kolu                      :…………………………..
+
+B-KAZALI SİGORTALI
+Adı Soyadı                                                           :…………………………….
+Doğum Yeri Tarihi                                                    :…………………………….
+TC Kimlik No                                                         :……………………………..
+Sigorta Sicil No                                                     :…………………………….
+
+Sigortalının mesleği ve/veya iş kazası sırasında yaptığı iş          :……………………………..
+
+Kazaya neden olan alet/makine vb.                                    :……………………………..
+
+Kazanın oluş şekli                                                   :……………………………..
+
+Kazada yaralanan organ/uzuv(sağ/sol olarak belirtilmesi)            :……………………………..
+
+Doğuştan veya sonradan olan bir hastalığının olup olmadığı           :…………………………….
+
+Geçici iş göremezlik ödemesi durumu; yapıldı ise tarihleri           :……………………………..
+
+Başka bir iş kazası geçirip/geçirmediği                              :……………………………..
+
+Meslek Grup Numarası                                                 : …………………………….
+
+C-KARAR (DAYANAĞI BELGELER)
+
+1-İş Kazası Bildirimi                                : Mevcut ( )            Mevcut değil ( )
+
+2-İşveren iş kazası bildirimi süresi içinde yapmış : Mevcut ( )              Mevcut değil ( )
+
+3-Kazalı ifade tutanağı                               : Mevcut ( )            Mevcut değil ( )
+
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                                Elektronik Ağ    : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                                e-posta          : ehgm_kvsdb@sgk.gov.tr
+                                                                                                      5/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+4-Jandarma/ polis ifade tutanağı                      : Mevcut ( )           Mevcut değil ( )
+
+5-Şahit tutanakları                                   : Mevcut ( )           Mevcut değil ( )
+
+D –HASTANE/SAĞLIK RAPORLARI
+
+a-Kaza sonrası ilk müracaat edilen sağlık
+kuruluşunda düzenlenmiş Adli Rapor                   : Mevcut ( )           Mevcut değil ( )
+
+b-Kaza sonrası ilk müracaat edilen sağlık
+kuruluşunda düzenlenmiş epikriz ve
+sağlık kurulu raporu                                 : Mevcut ( )           Mevcut değil ( )
+
+c-Kaza sonrası alınan çalışır/çalışamaz
+raporu                                               : Mevcut ( )            Mevcut değil ( )
+
+d-Tedavisi tamamlandıktan sonra
+son durumunu gösterir ayrıntılı
+sağlık kurulu raporu                                 : Mevcut ( )           Mevcut değil ( )
+(Uzuv kaybı varsa direkt grafileri
+ve tanıyı destekler diğer tıbbi tetkikleri içerir)
+e-Kaza geçirdiği işyerinde ilk işe giriş
+ve periyodik muayene raporları                        : Mevcut ( )           Mevcut değil ( )
+
+E-SONUÇ ve KANAAT
+
+        Kazazedenin …………tarih / sayı ile kurumumuza verdiği belgeler komisyonumuzca
+değerlendirilmiş olup,
+………………….tarihinde meydana gelen olayın 506/5510 sayılı Kanunun 11/13.maddesi hükümleri
+dahilinde meydana
+gelmesi /gelmemesi nedeniyle iş kazası sayılmasına/iş kazası sayılmamasına karar verilmiştir.
+
+
+        …………….……                            ………………………                              ……………………
+          İMZA/Tarih                          İMZA/Tarih                             İMZA/Tarih
+
+
+
+
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                                Elektronik Ağ   : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                                e-posta         : ehgm_kvsdb@sgk.gov.tr
+                                                                                                     6/7
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+
+
+AÇIKLAMALAR
+
+İş kazasının kısa vadeli sigorta servisi tarafından tespit edilmesi halinde (Ek- 3) formu
+düzenlenecek ve iş kazası ve meslek hastalığı dosyaları sağlık kurullarına gönderilmeden önce
+aşağıdaki hususlara dikkat edilmesi gerekmektedir.
+    1) İş kazası vakalarında, sigortalının geçirdiği kazanın iş kazası olup olmadığının tespitine
+        Sosyal Sigorta İşlemleri Yönetmeliğinin 37 nci maddesinin birinci fıkrasında yer alan
+        hükme göre ünitece karar verilebilir. Ünitece verilen karara istinaden Kurum Sağlık
+        Kuruluna gönderilecek dosyalarda bu talimat ekinde yer alan “Ünitece Tespit Edilen İş
+        Kazası Karar Tutanağı” formu doldurulacak, servis memuru, servis şefi ve merkez müdür
+        yardımcısı, merkez müdür yardımcısı bulunmaması halinde merkez müdürü, iş kazasının
+        il müdürlüğü tarafından tespit edilmesi durumunda ise il müdür yardımcısı tarafından
+        imza altına alınacaktır.
+2) Bu Genelgenin yayım tarihinden sonra ekte yer alan “ Ünitece Tespit Edilen İş Kazası Karar
+Tutanağı” formu doldurularak sağlık kurullarına gönderilecek, ünite kararlarında farklı bir form
+kullanılmayacaktır.
+3) Kurum Sağlık Kurullarına gönderilecek iş kazası raporlarında sigortalının rapor bitiminde
+“Çalışır” veya “Çalışamaz” tarihinin mutlaka sağlık hizmet sunucusu tarafından rapora işlenmesi
+sağlanacak, söz konusu ibarelerin yer almadığı sağlık kurulu raporları Kurum Sağlık Kurullarına
+gönderilmeyecektir.
+4) Sigortalılara ait istirahat raporlarının mutlaka sona erme tarihi beklenecek, istirahat sona
+erdikten sonra Kurum Sağlık Kurullarına meslekte kazanma gücü kayıp oranı tespiti için
+gönderilecektir.
+5) Sigortalıların geçirmiş oldukları iş kazasına dair oluşturulan dosyalar sigortalının çalıştığı
+işyerinin bağlı bulunduğu sosyal güvenlik merkezi tarafından ilgili Kurum Sağlık Kuruluna
+gönderilecek ancak, sigortalı işten çıkmış ise ikametgahının bulunduğu bölgede yer alan sosyal
+güvenlik merkezine başvurabilecek, başvurduğu merkez tarafından başvuru dilekçesi işyeri
+dosyasının bağlı bulunduğu merkeze gönderilecek, işlemler bu merkez tarafından yürütülecektir.
+
+
+
+
+Adres   : Mithatpaşa Cad. No:7 Sıhhiye/Ankara
+Telefon : (0 312) 458 72 82                        Elektronik Ağ   : http://www.sgk.gov.tr
+Faks    : (0 312) 435 72 36                        e-posta         : ehgm_kvsdb@sgk.gov.tr
+                                                                                             7/7
+

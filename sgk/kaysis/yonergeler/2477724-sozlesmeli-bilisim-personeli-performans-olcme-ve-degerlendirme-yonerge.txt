@@ -1,0 +1,2187 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105340
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 2477724
+ADI: SÖZLEŞMELİ BİLİŞİM PERSONELİ PERFORMANS ÖLÇME VE DEĞERLENDİRME YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 0eda23772dc9d68d327c9259567b85a98c82637727fbb42de335dd1a85bf7db1
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+              T.C.
+    SOSYAL GÜVENLİK KURUMU
+HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ
+
+
+
+
+SÖZLEŞMELİ BİLİŞİM PERSONELİ
+   PERFORMANS ÖLÇME VE
+      DEĞERLENDİRME
+        YÖNERGESİ
+
+
+
+
+     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ
+        Yönetim Hizmetleri Daire Başkanlığı
+                      2017
+
+     Hazırlayan: İnsan Kaynakları Şube Müdürlüğü
+
+
+
+
+                         I
+                                                                   İÇİNDEKİLER
+
+
+Sunuş .......................................................................................................................................................... 1
+
+BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar ..................................................................... 3
+
+İKİNCİ BÖLÜM Performans ölçme ve değerlendirmede uygulanacak not usulü ve formların doldurulması .... 4
+
+ÜÇÜNCÜ BÖLÜM Performans ölçme ve değerlendirme formunda yer alacak davranışsal ve bireysel kriterler 7
+
+DÖRDÜNCÜ BÖLÜM Son hükümler....................................................................................................... 9
+
+Teknik terimler (EK-1) .............……………………………………………………................................ 10
+
+Yazılım; Performans ölçme ve değerlendirme formu (EK-2).................................................................... 21
+
+Sistem Yöneticisi; Performans ölçme ve değerlendirme formu (EK-3).................................................... 23
+
+Network; Performans ölçme ve değerlendirme formu (EK-4 )................................................................. 25
+
+İş Analisti; Performans ölçme ve değerlendirme formu (EK-5) ............................................................. 27
+
+Veri Tabanı; Performans ölçme ve değerlendirme formu (EK-6 ) ......................................................... 29
+
+İş Zekası; Performans ölçme ve değerlendirme formu                                     (EK-7) ............................................................ 31
+
+Veri Ambarı Sistem Yöneticisi; Performans ölçme ve değerlendirme formu (EK-8) ............................. 33
+
+Veri Ambarı Veri Tabanı Yöneticisi; Performans ölçme ve değerlendirme formu (EK-9) .................... 35
+
+
+
+
+                                                                                1
+                                                 SUNUŞ
+
+
+Kurumumuzun gerçek ve tüzel kişilere yönelik hizmet sunumunu kesintisiz yerine getirmek, diğer ilgili
+birimlerle iş süreçlerini belirleyerek verileri toplamak, analiz etmek ve eldeki bilgiyi paydaşlarla
+paylaşmak, taşra teşkilatı birimlerinin kurulması ile ilgili işlemleri yürütmek, merkez ve taşra teşkilatının
+her türlü bilişim hizmetlerini yürütmek, sosyal güvenlik veri tabanını oluşturmak, kurum için gerekli
+yazılım ve donanım altyapısını planlamak, geliştirmek, kurmak, işletmek, güvenliğini sağlamak ve görev
+konusu ile ilgili gelişmeleri takip etmekle yükümlü olan Hizmet Sunumu Genel Müdürlüğü, Kurumu daha
+iyi koşullara taşıyabilmesinin şartlarından biri de çalışanlarının yetkinlik düzeylerinin arttırılmasına
+bağlıdır.
+
+Performans ve motivasyonu yüksek olan çalışanlardan oluşan bir ekip, hizmet verilen kitlenin
+memnuniyetini arttıracak ve dolayısıyla kuruma itibar ve güven kazandıracaktır. Bu kapsamda sözleşmeli
+bilişim personelinin öncelikle iş ve görev tanımları ile mevcut çalışma yetkinlikleri tespit edilmiştir. Bu
+düzenleme ile mesleki, davranışsal ve bireysel yeterliliğe dayalı performanslarının ölçülmesi ve
+değerlendirme sonuçlarına göre çalışanların başarılı olabilecekleri birimlerde değerlendirilmeleri,
+performans ölçme ve değerlendirme sonuçlarına göre, performansı düşük olan çalışanların, takip eden yıl
+içerisinde hangi eğitimleri alması gerektiği, rotasyona tabi tutulup tutulmayacağı ve çalışanların kendilerini
+geliştirebilecekleri aşamalar hedeflenmiştir.
+
+Bu Yönergenin hazırlanmasında, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası
+hükmü uyarınca Kamu Kurum ve Kuruluşlarında Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar,
+Sosyal Güvenlik Kurumu Sözleşmeli Bilişim Uzmanlarının İstihdamı ile İlgili Usul ve Esaslar ile
+Kurumumuzca hazırlanmış olan Pozisyon Bazında İş/Görev Tanımlarıyla ilgili mevzuatlardan
+yararlanılmıştır.
+
+Hizmet Sunumu Genel Müdürlüğünde sözleşmeli pozisyonlarda görev yapan bilişim personelinin,
+belirlenen dönemlerde mesleki, davranışsal ve bireysel yeterliliğe dayalı performansının bir bütün olarak
+tüm yönleriyle ele alınması, sözleşme ücretlerinin tespiti, takip eden yılda sözleşmesinin
+yenilenip/yenilenmemesi, çalışanı tanıma, eksikliklerinin giderilmesi, performans ve gelişme
+potansiyelinin ölçülmesi, motive edilerek performanslarının arttırılması ve kişisel yeteneklerinin
+geliştirilmesinin sağlanması, eğitim ihtiyacının belirlenmesi, azami verimin temin edileceği birimlerde
+değerlendirilmesi, iş hedeflerine ulaşma hakkında bilgi edinilmesi ve performans bazlı çalışmanın hayata
+geçirilmesi açısından Kuruma büyük yarar sağlayacağı düşünülmektedir.
+
+
+
+
+                                                      2
+                                          BİRİNCİ BÖLÜM
+                                  Amaç, Kapsam, Dayanak ve Tanımlar
+
+
+
+     Amaç ve kapsam
+     MADDE 1 - (1) Bireysel performansın değerlendirilmesine yönelik olarak hazırlanan bu Yönerge ’de
+belirlenen kriterler, Hizmet Sunumu Genel Müdürlüğünde sözleşmeli statüde çalışan bilişim personelinin,
+mesleki, davranışsal ve bireysel yeterliliğine ilişkin performanslarını değerlendirmek amacıyla
+hazırlanmıştır.
+     Bu değerlendirme sonucunda;
+     a) Çalışanların performans ve gelişme potansiyelinin ölçülmesi,
+     b) Çalışanların motive edilerek performanslarının arttırılması ve kişisel yeteneklerinin geliştirilmesinin
+sağlanması,
+     c) Çalışanların azami verim temin edileceği birimlerde değerlendirilmesi,
+     ç) Yürürlükteki mevzuat çerçevesinde, mevcut sözleşmelerinin yenilenip/yenilenmemesi ve sözleşme
+ücretlerinin tespitinde kullanılır.
+     (2) Bu Yönerge; Hizmet Sunumu Genel Müdürlüğünde sözleşmeli statüde çalışan bilişim personelini
+kapsar.
+     (3) Performans ölçme ve değerlendirme dönemi; yılda en az bir defa Ekim ayının son haftasında veya
+cari yılın Ocak ayında Genel Müdürlük Makamından Olur alınması şartıyla, her bir dönem birbirinden
+bağımsız olmak üzere Mayıs ve Ekim aylarının son haftasında yapılır.
+
+     Dayanak
+     MADDE 2 - (1) Bu Yönerge, Yönetim Kurulunun 17/11/2016 tarihli ve 2016/24 sayılı kararı ile kabul
+edilen ve 15/12/2016 tarihinde yürürlüğe giren Sosyal Güvenlik Kurumu Merkez Teşkilatı Çalışma
+Yönetmeliğinin 55 inci maddesinin birinci fıkrasının (f) bendi ile 78 inci maddesinin 6 ncı fıkrasına
+dayanılarak hazırlanmıştır.
+
+     Tanımlar:
+     MADDE 3 – (1) Bu Yönergede geçen;
+     a) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+     b) Birim amiri: Daire Başkanını,
+     c) Çıktı: Sözleşmeli bilişim personelinin unvan/pozisyonunun gerektirdiği görevler kapsamında
+bulunan iş ve işlemleri, bireysel ve/veya ekip çalışmasıyla, zamanında, eksiksiz ve kullanıcı isteklerini
+karşılayacak şekilde gerçekleştirmek amacıyla, elektronik cihazlar aracılığıyla okunan ve/veya kaydedilen;
+bilgi/belge/doküman ve/veya iş planı, resmi yazı, teknik rapor, sistem çıktıları, sözleşme, şartname, toplantı
+tutanağı, bilgi notu, e-posta, kanaat raporu vb. kaynak materyallerini,
+     ç) Daire başkanı: Genel müdürlük bünyesinde kurulan daire başkanlıklarının üst yöneticilerini,
+     d) Daire başkanlığı: Genel Müdürlük bünyesinde kurulan ve belirli görevleri bünyesinde toplayıp
+yürüten birimleri,
+     e) Değerlendiriciler: Şube/grup sorumlusu, Şube Müdürü, Daire Başkanı, Genel Müdür Yardımcısı ve
+Genel Müdürü, Hizmet Sunumu Genel Müdürlüğü dışında görevli bulunan personelin ise, hiyerarşik olarak
+bağlı bulunduğu amirleri,
+     f) Genel müdür: Hizmet Sunumu Genel Müdürünü,
+     g) Genel müdürlük: Hizmet Sunumu Genel Müdürlüğünü,
+     ğ) Görevler: Sözleşmeli bilişim personelinin; mesleki, temel ve teknik yetkinliklerinin gerektirdiği
+görev, yetki ve sorumluluklara ilişkin Kurumca hazırlanan Pozisyon Bazında İş/Görev Tanımlarında
+belirtilen hususları,
+
+
+
+                                                      3
+     h) Grup: Bilgi teknolojileri hizmet yönetiminin ilgili prosedürü çerçevesinde, bir proje kapsamında
+yürütülen tüm iş ve işlemleri yerine getirmekten sorumlu olan çalışma ekibini,
+     ı) Kurum : Sosyal Güvenlik Kurumunu,
+     i) Mesleki yeterlilik: Sözleşmeli bilişim personelinin unvan/pozisyonunun gerektirdiği görevler
+kapsamında bulunan, mesleki bilgi birikimi ve deneyimine ilişkin iş ve işlemleri, zamanında, eksiksiz,
+mevzuata uygun ve talepleri karşılayacak şekilde gerçekleştirilip gerçekleştirilmediğinin tüm yönleriyle
+değerlendirilmesi ve gözden geçirilmesini,
+     j) Performans ölçme ve değerlendirme: Sözleşmeli bilişim personelinin görevlerine ilişkin iş ve
+işlemleri, zamanında ve talepleri karşılayacak şekilde eksiksiz olarak gerçekleştirmek için, ortaya koyduğu
+beceri, yetenek ve çalışmalarının mesleki, davranışsal ve bireysel yeterlilikleri yönleriyle değerlendirilmesi
+ve gözden geçirilmesini,
+     k) Performans ölçme ve değerlendirme formu: Sözleşmeli bilişim personelinin, belirlenen dönemlerde
+mesleki, davranışsal ve bireysel yeterliliklerini bir bütün olarak tüm yönleriyle değerlendirilmesi amacıyla
+kullanılacak olan kriterleri ihtiva eden formu,
+     l) Performans puanı : Sözleşmeli pozisyonunda görev yapan personelin, mesleki, davranışsal ve
+bireysel yeterlilikleri çerçevesinde yaptığı iş ve işlemler ile değerlendirme dönemindeki çalışmalarının tüm
+yönleriyle gözden geçirilmesi ve değerlendirilmesi sonucunu,
+     m) Puan verme yöntemi: Belirlenmiş bir puan toplamının, bir grupta ve/veya bireysel olarak çalışan
+personele, performans değerlendirme ölçütü olarak belirlenen kriterler çerçevesinde amirleri tarafından
+verilmesi usulünü,
+     n) Sözleşmeli bilişim personeli: Hizmet Sunumu Genel Müdürlüğünde görev yapan ve sözleşmeli
+statüde istihdam edilen Bilişim Uzmanı, Çözümleyici ve Programcıyı,
+     o) Şube/grup sorumlusu: Sevk ve idare yetkisi bulunan ve şube/çalışma gurubunda görev yapan
+personelin koordinasyonunu sağlamak amacıyla Genel Müdür tarafından görevlendirilen personeli,
+    ifade eder.
+
+
+
+                                         İKİNCİ BÖLÜM
+                               Performans Ölçme ve Değerlendirmede
+                           Uygulanacak Not Usulü ve Formları Doldurulması
+
+
+     MADDE 4- (1) Performans ölçme ve değerlendirme formlarının dağıtılması işlemleri aşağıdaki
+gibi yapılır;
+     a) Performans ölçme ve değerlendirme formları; değerlendirme yılda bir defa yapılacak ise Ekim
+ayının, yılda iki defa yapılması uygun görülmüş ise Mayıs ve Ekim aylarının ilk haftası olmak üzere Genel
+Müdürlük Yönetim Hizmetleri Daire Başkanlığı tarafından, sözleşmeli bilişim personeli çalıştıran tüm
+birimlere gönderilir.
+     b) Bu Yönergenin beşinci maddesinin birinci fıkrasının (a) bendinde belirtilen değerlendiriciler,
+performans ölçme ve değerlendirme formlarını, yine bu Yönergede yer alan açıklamalara uygun olarak
+doldurur. Birinci ve/veya ikinci derece değerlendiricilerin vermiş oldukları puanların aritmetik ortalamaları
+çalışanların performans notlarını oluşturur.
+     c) Doldurulan formlar, söz konusu ayın/ayların 30’una kadar (tatil olması halinde tatilden sonraki ilk
+mesai gününde) Genel Müdürlük Yönetim Hizmetleri Daire Başkanlığına gönderilir.
+
+     MADDE 5- (1) Performans ölçme ve değerlendirme yöntemi aşağıda belirtildiği şekilde yapılır;
+     a) Sözleşmeli pozisyonunda görev yapan Çözümleyici ve Programcıların değerlendirme dönemindeki
+mesleki, davranışsal ve bireysel yeterlilikleri çerçevesinde; (bireysel ve/veya ekip çalışmasıyla) yaptığı iş
+ve işlemlerin, zamanında, eksiksiz ve talepleri karşılayacak şekilde gerçekleştirmek için ortaya koyduğu
+bilgi, beceri, yetenek ve çalışmalarının tüm yönüyle gözden geçirilmesi ve 100 tam puan üzerinden
+
+
+                                                      4
+değerlendirilmesi işlemleri; (1.Amir) Şube-grup sorumlusu/Şube Müdürü ve (2.Amir) Daire Başkanı
+tarafından, doğrudan Daire Başkanına bağlı olarak çalışanlar ile Bilişim Uzmanlarının (1.Amir) Daire
+Başkanı ve daire başkanlığının bağlı bulunduğu (2.Amir) Genel Müdür Yardımcısı tarafından, bu
+Yönergenin 8 inci Maddesinin birinci fıkrasının (ç) ve (d) bentlerinde belirtilen durumlarda ise; (3.Amir)
+Genel Müdür tarafından; Ek-2, Ek-3, Ek-4, Ek-5, Ek-6, Ek-7, Ek-8 ve Ek-9’da yer alan performans ve
+ölçme değerlendirme formları kullanılarak tespit edilir.
+     b) Hizmet Sunumu Genel Müdürlüğü dışında görevli bulunan sözleşmeli bilişim personelinin,
+değerlendirme dönemindeki mesleki, davranışsal ve bireysel yeterlilikleri çerçevesinde; (bireysel ve/veya
+ekip çalışmasıyla) yaptığı iş ve işlemlerin, zamanında, eksiksiz ve talepleri karşılayacak şekilde
+gerçekleştirmek için ortaya koyduğu bilgi, beceri, yetenek ve çalışmalarının tüm yönüyle gözden
+geçirilmesi ve 100 tam puan üzerinden değerlendirilmesi, görev yaptığı birimdeki hiyerarşik kademe
+esasına göre bağlı bulunduğu en yakın 1. ve 2. amirleri tarafından, bu Yönergenin 8 inci Maddesinin birinci
+fıkrasının (d) bendinde belirtilen durumlarda ise; mevcut amir ile (3.Amir) ilgili birim amiri tarafından;
+Ek-2, Ek-3, Ek-4, Ek-5, Ek-6, Ek-7, Ek-8 ve Ek-9’da yer alan performans ölçme ve değerlendirme formları
+kullanılarak tespit edilir.
+     c) Performans ölçme ve değerlendirme formlarında belirtilen görevler ile göreve ilişkin hususlar, başta
+mevzuatsal değişiklikler olmak üzere zaman kavramının ortaya çıkaracağı teknolojik gelişmeler ve etkiler
+de göz önünde tutularak güncellenir.
+     ç) Mesleki yeterlilik yönüyle yapılan performans ölçme ve değerlendirme işlemlerinde, görevlerin
+gerçekleşmesine ilişkin somut veri ve çıktılardan yararlanılır.
+     d) Sözleşmeli personel; kendisine verilen bir görevin yazılı olarak (resmi yazı, e-posta, tutanak, talep
+formu, DYS. talep yönetim sistemi, yazılı belge yerine geçen diğer evrak vb.) bildirilmesini isteme hakkına
+sahiptir. Aksi takdirde resmi bir görevin verilmediği varsayılacaktır. Bir görevin verilmesi, bu görevin
+yapılması için gerekli yetki ve sorumluluğun verildiği anlamını taşır.
+
+     MADDE 6 – (1) Performans ölçme ve değerlendirme formlarının doldurulmasında uygulanacak
+not usulü ve notların derecelendirilmesi aşağıda belirtildiği gibidir;
+      a) Değerlendiriciler, performans ölçme ve değerlendirme formunu kullanarak sözleşmeli bilişim
+personelinin mesleki, davranışsal ve bireysel tüm özelliklerini 100 tam puanı esas alarak belirlerken,
+mesleki yeterlilikleri için 70 tam puan üzerinden, davranışsal ve bireysel yetkinlikleri için 30 tam puan
+üzerinden değerlendirir.
+     b) Performans ölçme ve değerlendirme notu ve ortalaması hesaplanırken, her türlü kesirler tam sayıya
+tamamlanır. Bu suretle ortaya çıkan puanlara göre değerlendirmeye tabi tutularak, mesleki, davranışsal ve
+bireysel yeterlilik genel toplam puanı 59 ve daha aşağı olanlar “Yetersiz” olarak kabul edilirken, 60–79
+arası puanı olanlar “Orta derecede yeterli”, 80 ve daha yukarı puanı olanlar ise “İyi derecede yeterli”
+şeklinde değerlendirilir.
+     c) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen
+mesleki yeterlilik kapsamındaki görevlere ilişkin bölümü/bölümlerinin “1. ve 2. amir sütununa” görev
+verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki
+yeterlilik yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için
+verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak; gerçekleşen her bir işin (bir ve/veya
+birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi
+göz önünde bulundurularak, azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır
+ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+     (2)Performans ölçme ve değerlendirme formları doldurulurken kullanılacak olan derecelendirmeye
+ilişkin açıklamalar aşağıdaki gibidir.
+     a) Yetersiz (0-59 Puan): İşin gereklerini yerine getirme ve beklenen performansı gösterme açısından
+ciddi yetersizlikleri vardır. Normal görevlerinin bir bölümünü asgari düzeyde yerine getirir. Diğer
+görevlerini genellikle beklenildiği gibi yerine getirmez.
+     b) Orta derecede yeterli (60-79 Puan): İşin normal gereklerini genellikle yerine getirir. Ara sıra bazı
+görevleri yerine getirmede zayıflıklar olabilir. Genel olarak, beklenen düzeyde, vasat bir performans
+gösterir.
+
+
+                                                      5
+     c) İyi derecede yeterli (80-100 Puan): İşin normal gereklerini her zaman karşılamanın üzerinde
+genellikle, birçok konuda beklenenin üzerinde çok iyi performans gösterir. Performans bakımından örnek
+gösterilecek düzeyde başarılıdır.
+     (3) Performans ölçme ve değerlendirme formları doldurulurken, ölçekte her başarı derecesi için verilen
+toplam puan sınırları aşılmayacaktır. (Örneğin performansı “Orta” olarak değerlendirilen personele verilen
+performans notu toplamı 60-79 puan arasında olması gerekmektedir.)
+
+     MADDE 7 – (1) Performans ölçme ve değerlendirme sonuçlarının kullanım alanları şunlardır;
+     a) İnsan kaynakları planlaması için personel envanteri hazırlamak.
+     b) Çalışanların eğitim ihtiyaçlarını belirlemek.
+     c) Çalışanların yürürlükteki mevzuat çerçevesinde, mevcut sözleşmelerinin yenilenip/yenilenmemesi,
+personelin yeterli ve yetersiz olma durumlarını değerlendirebilmek için temel kriterleri teşkil etmek.
+     ç) Sözleşmeli bilişim uzmanlarının yeni sözleşme ücretlerinin tespitine esas teşkil etmek.
+     d) Çalışan-yönetim ilişkilerini geliştirmek.
+     e) Çalışanların kendilerini geliştirmelerine imkan sağlamak.
+     f) Çalışanların motive olmalarını sağlamak.
+     g) İşte başarısızlığı tespit edilen çalışanlar hakkında ilgili mevzuat hükümleri çerçevesinde gerekli
+işlem yapılmasına yardımcı olmak.
+
+     MADDE 8- (1) Performans ölçme ve değerlendirme formlarının doldurulması için gerekli asgari
+süre ve geçerli sayılacağı haller aşağıdaki gibidir;
+     a) Haklarında performans ölçme ve değerlendirme notu verilecek çalışanların, değerlendirilmelerini
+yapacak amirlerin yanında en az altı ay çalışmış olmaları şarttır.
+     b) Bir görevde 6 ay veya daha fazla bir süre bulunup başka birime atananların performans ölçme ve
+değerlendirme formları, bunların atanmalarından önceki değerlendirici konumundaki amirleri tarafından,
+ayrıldıkları tarihi takip eden 15 gün içinde doldurulur ve Genel Müdürlük Yönetim Hizmetleri Daire
+Başkanlığına teslim edilir.
+     c) Performans ölçme ve değerlendirme formu doldurulma zamanı gelmeden ve yeni amire
+değerlendirme formu doldurmak için yeterli süre kalmadan görevlerinden ayrılan amirler, en az altı ay
+beraber çalıştıkları sözleşmeli bilişim personelinin, kendilerine ait bölümü görevlerinden ayrıldıkları tarihi
+takip eden 15 gün içinde (ikinci derece amirin görevinden ayrılması durumunda öncelikle birinci amir,
+sonra ikinci amir tarafından) doldurulur ve Genel Müdürlük Yönetim Hizmetleri Daire Başkanlığına teslim
+edilir.
+     ç) Birinci ve ikinci amir görev/yetkilerinin tek kişi tarafından yürütülmesi veya doğrudan Genel
+Müdürlük Makamına bağlı bulunan birimlerde görev yapan personelin bulunması durumunda,
+birinci/ikinci ve üçüncü amir tarafından yapılan değerlendirme dikkate alınır ve buna göre işlem yapılır.
+     d) Sözleşmeli bilişim personeli hakkında performans ölçme ve değerlendirme yapacak amirlerden
+birinin bulunmaması veya değerlendirme yapacak süre görevde kalmaması halinde mevcut amir ile
+üçüncü amirin değerlendirmesi dikkate alınır ve buna göre işlem yapılır.
+     e) Amirlerin hiçbirinin bulunmaması veya değerlendirme yapacak süre görevde kalmamaları halinde,
+performans ölçme ve değerlendirme formu sonradan göreve atananlar veya vekilleri tarafından üç aylık fiili
+çalışma süresi esasına göre doldurulur.
+     f) Bu maddenin (ç), (d) ve (e) bentlerinde belirtilen hususlar sonunda veya sözleşmeli bilişim
+personelinin çeşitli nedenlerle görevi başında kalmaması veya hastalığının (doğum izni dahil) performans
+ölçme ve değerlendirme formunu doldurmak için gerekli sürenin geçmesine imkan vermeyecek kadar uzun
+sürmesi, dolayısıyla çalışan hakkında performans ölçme ve değerlendirme formu doldurma imkanının
+bulunmaması halinde, geriye doğru en çok üç yılın performans notlarının aritmetik ortalamasına göre işlem
+yapılır. Üç yıldan az çalışmış ise sırasıyla önce son iki yılın, iki yıl olmaması durumunda ise son bir yılın
+aritmetik ortalaması esas alınır ve bu puana göre işlem yapılır. Bir yıldan az çalışması nedeniyle hakkında
+performans ölçme ve değerlendirme formu doldurma imkanı bulunmayan personel için, ilk defa göreve
+başlayan personel gibi işlem yapılır.
+
+
+
+                                                      6
+      MADDE 9- (1) Değerlendirmelerin genel niteliği ve performans puanının yetersiz olmasına tesir
+etmesi durumunda geçerli sayılmayacağı haller şunlardır;
+     a) Kötü niyet veya özel amaçla performans ölçme ve değerlendirme formlarını gerçeğe aykırı olarak,
+çalışan lehine ve/veya aleyhine doldurdukları anlaşılan, mahiyetindekilere hakkaniyet ve eşitlik içinde
+davranmayan, yetkisini kanun, tüzük ve yönetmeliklerde belirtilen esaslar çerçevesinde kullanmayan
+değerlendiricilerin cezai sorumlulukları ilgili mevzuat hükümleri kapsamında saklıdır.
+     b)Değerlendiriciler, performans ölçme değerlendirme formlarını itinalı, doğru ve tarafsız bir şekilde
+doldururken; Devlete sadakat ve bağlılığı, kamu personeli sıfatının gerektirdiği şeref ve itibar ile
+hizmetlerin süratli ve ekonomik bir şekilde yürütülmesini, güvenilir ve yetenekli personelin
+yükselmelerini, diğerlerinin ise sözleşmelerinin yenilenmemesi gerektiğini dikkate alır.
+     c) Birinci ve ikinci amirler tarafından yapılan değerlendirmeler ile bu Yönergenin 8 inci maddesinin
+birinci fıkrasının (ç) ve (d) bentlerinde belirtilen; birinci ve ikinci amir görev/yetkilerinin tek kişi tarafından
+yürütülmesi, doğrudan Genel Müdürlük Makamına bağlı bulunan birimlerde görev yapan personelin
+bulunması, amirlerden birinin bulunmaması veya değerlendirme yapacak süre görevde kalmaması
+nedeniyle üçüncü amir tarafından yapılan değerlendirme sonucunda, performans puanı genel toplamının
+birinin yeterli diğerinin ise yetersiz olmasına tesir etmesi veya performans puanı aralarında on veya daha
+fazla puan farkı olması durumunda, yalnızca üçüncü amirin değerlendirmesi esas alınır. Bu bentte belirtilen
+hükümler Hizmet Sunumu Genel Müdürlüğü dışında görevli bulunan sözleşmeli bilişim personeli hakkında
+da uygulanır.
+     ç) Performans ölçme ve değerlendirmesinin yılda iki defa yapılması durumunda, birinci ve ikinci
+değerlendirme dönemine ait performans puanı genel toplamının ikiye bölünmesi sonucu ortaya çıkacak
+olan not, cari yılın performans puanı olarak esas alınır ve buna göre işlem yapılır.
+     d) Performans ölçme değerlendirmesinin yılda bir defa yapılması durumunda, değerlendirme
+dönemine ait performans puanı cari yılın performans puanı olarak esas alınır ve buna göre işlem yapılır.
+
+    MADDE 10- (1) Performans ölçme ve değerlendirme formları aşağıda belirtildiği şekilde
+ doldurulur;
+     a) Performans ölçme ve değerlendirme formunda yer alan kriterlere göre, sözleşmeli bilişim
+personelinin mesleki, davranışsal ve bireysel yeterlilikleri açısından değerlendirilir.
+     b) Görevlere ilişkin iş ve işlemler mesleki yeterlilik yönüyle değerlendirilirken; değerlendirme dönemi
+içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla), karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin
+kurum açısından risk seviye derecesi göz önünde bulundurularak azami verilebilecek notlar, gerçekleşen
+görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı
+belirlenir.
+     c) Performans ölçme ve değerlendirme formunda yer alan davranışsal ve bireysel yeterliliklere ilişkin
+kriterlerin her biri 1-3 puan arasında puanlandırılır. Çalışanın değerlendirilen kriteri en az bulundurma
+durumunda alacağı minimum puan bir iken; başarılı bir çalışanın alacağı maksimum puan en çok üç
+olacaktır. Çalışanların durumuna göre, bir, iki veya üç puan verilir.
+     ç) Sözleşmeli bilişim personelinin dönemsel performans puanı; mesleki, davranışsal ve bireysel
+yeterliliklere ilişkin notları ortalamalarının toplamından oluşur.
+
+     MADDE 11 - Performans ölçme ve değerlendirme sonuçlarının çalışanlarla paylaşılması;
+     (1) Sözleşmeli bilişim personelinin performans ölçme ve değerlendirme sonuçları, Genel Müdürlük
+Yönetim Hizmetleri Daire Başkanlığına ulaştıktan sonra en geç iki hafta içerisinde yazılı olarak kendilerine
+bildirilir.
+     (2) Performans notu yetersiz (0-59 arasındaki herhangi bir puan) olarak değerlendirilen sözleşmeli
+personelin bu durumu yazılı olarak kendisine tebliğ edilir. Sözleşmeli personel kendisine tebliğ yapıldıktan
+sonra beş iş günü içerisinde Genel Müdüre itiraz edebilirler. Yazılı olarak yapılan itirazlara, ilgili
+
+
+                                                        7
+performans değerlendiriciler ile görüşüldükten sonra Genel Müdür tarafından yazılı olarak beş iş günü
+içerisinde cevap verilir. İtiraz sonucunda yapılan değerlendirmeler neticesinde sözleşmeli Çözümleyici ve
+Programcı personelin performans puanı ortalaması yetersiz (0-59 arasında bir puan) olarak karara
+bağlanmış ise başka bir birimde görevlendirilebilir.
+     (3) İki yıl üst üste yetersiz performans puanı alan Çözümleyici ve Programcı personelin sözleşmesi;
+28/6/1978 tarihli ve 16330 sayılı Resmi Gazete de yayımlanan Sözleşmeli Personel Çalıştırılmasına İlişkin
+Esasların Ek-6 ncı maddesinin (ç) fıkrası ile anılan Esaslar kapsamında akdedilen hizmet sözleşmesinin 1
+inci maddesi gereğince yenilenmez.
+     (4) Performans ölçme ve değerlendirme işleminin yılda iki defa yapılması durumunda performans
+puanları aritmetik ortalaması yetersiz (0-59 Puan) olan, yılda bir defa yapılması durumunda ise cari yıl
+performans puanı yetersiz (0-59 Puan) olan sözleşmeli bilişim uzmanı personelin sözleşmesi, Sosyal
+Güvenlik Kurumu Sözleşmeli Bilişim Uzmanlarının İstihdamı ile İlgili Usul ve Esasların 28 inci
+maddesinin birinci fıkrasının (e) bendinde belirtilen hüküm gereğince yenilenmez.
+
+     MADDE 12- (1) Performans ölçme ve değerlendirme notlarının muhafazası aşağıda belirtildiği
+şekilde yapılır;
+     a) Performans ölçme ve değerlendirme formları İnsan Kaynakları Daire Başkanlığı ve/veya Genel
+Müdürlük Yönetim Hizmetleri Daire Başkanlığı’na bağlı ilgili birimin sorumluları tarafından muhafaza
+edilir ve arşivlenir. Performans ölçme ve değerlendirme sonuçları ise her çalışanın görev yaptığı birim
+tarafından muhafaza edilebilir. Buradaki amaç çalışanın mevcut dönem performans sonuçları ile bir sonraki
+dönem performans sonuçlarının karşılaştırılarak değerlendirilmesinin daha sağlıklı ve hızlı bir şekilde
+yapılmasını sağlamaktır.
+     b)Sözleşmeli personelin performans ölçme ve değerlendirme formları özlük/iz dosyalarıyla birlikte
+muhafaza edilir.
+
+     MADDE 13- (1) Performans ölçme ve değerlendirme dosyasına ilişkin işlemler aşağıdaki gibidir;
+     a)Performans ölçme ve değerlendirme dosyası, çalışanların mesleki, davranışsal ve bireysel
+yetkinliklerine ilişkin performans formlarının yer aldığı dosyaları tanımlamak için kullanılmaktadır.
+     b)Çalışanların performans ölçme ve değerlendirme dosyası, özlük/iz dosyalarıyla birlikte muhafaza
+edilir.
+     c)Performans ölçme ve değerlendirme dosyası, çalışanların sözleşmesinin yenilenmesinde, sözleşme
+ücretlerinin tespitinde veya sözleşmesinin feshinde kullanılabilir.
+
+     MADDE 14- (1) Performans ölçme ve değerlendirme formlarının muhafazası ile görevli birimin
+sorumlulukları aşağıda belirtilmiştir;
+     a) Performans ölçme ve değerlendirme formlarını muhafaza etmekle görevli çalışanların; gizliliğe
+riayetleri, edindikleri bilgileri açıklamamaları şarttır. Bu esaslara uymadıkları tespit edilenler 657 sayılı
+Devlet Memurları Kanunu’na göre cezalandırılmakla beraber bir daha aynı görevlerde çalıştırılamazlar.
+     b) Çalışanların performansları ile ilgili her türlü yazışma, evrak ve belgelerin sevkinde ve performans
+ölçme ve değerlendirme raporlarının muhafazasında gizlilik esastır.
+
+
+                                        ÜÇÜNCÜ BÖLÜM
+                                Performans Ölçme ve Değerlendirme
+                         Formunda Yer Alacak Davranışsal ve Bireysel Kriterler
+
+
+    MADDE 15- (1) Davranışsal yeterlilikler aşağıda belirtilmiştir.
+    a) İnsan ilişkileri :(Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve sağlıklı iletişim
+kurma)
+    b) Organizasyon becerisi: (Verilen görevi organize edebilme ve sonuçlarını takip edebilme becerisi)
+
+
+
+                                                        8
+    c) Öğrenmeye yatkın olma: (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı bir
+performans gösterebilme becerisi)
+    ç) Girişimcilik ve yeniliklere yatkın olma: (Yaptığı işlerle ilgili olarak güncel olayları takip edebilme,
+yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi)
+    d) Takım çalışması: (Takım üyeleriyle işbirliği ve dayanışma içinde çalışma, bilgiyi paylaşma becerisi)
+    e) Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve beklentileri
+doğrultusunda yerine getirebilme becerisi)
+
+   MADDE 16- (1) Bireysel yeterlilikler aşağıda belirtilmiştir.
+   a) Karar alma: (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme becerisi)
+   b) Programlı çalışma: (Çalışmalarını önem ve aciliyetine göre sıraya koyarak bitirebilme becerisi)
+   c) İşe bağlılığı: (Yaptığı işi benimseyerek yapabilme becerisi, işe ve Kuruma bağlılık derecesi)
+   ç) Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler geliştirebilme ve
+Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme becerisi)
+
+      MADDE 17- Davranışsal yeterlilik dereceleri ve verilebilecek puanlar
+      (1) İnsan ilişkileri performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Zaman zaman saygı kuralları konusunda hatalı davranabiliyor, kendi durumuna göre
+ilişkileri yön değiştirebiliyor. (1 Puan)
+      b) Orta derecede yeterli: Astları, üstleri ve çalışma arkadaşlarıyla birlikte dışarıdan gelen insanlarla
+iletişim derecesi yeterli düzeydedir. (2 Puan)
+      c) İyi derecede yeterli: Astlarına ve üstlerine karşı saygılı, insanlar arasındaki iletişimi geliştirme
+temayülü olan bir yapıda. Üstleri ve astlarıyla birlikte çalışanlar tarafından sevilen bir insan. (3 Puan)
+      (2) Organizasyon becerisi performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Verilen bir görevi organize edebiliyor ama karşılaştığı zorluklar karşısında motivasyonu
+bozuluyor ve çabuk pes ediyor. (1 Puan)
+      b) Orta derecede yeterli: Kendisine verilen bir görevi organize edebiliyor ve bazı durumlarda yaptığı
+işin sonuçlarını takip edebiliyor. (2 Puan)
+      c) İyi derecede yeterli: Kendisine verilen bir görevi organize edebiliyor ve bu görevin sonuçlarını ve
+sonuçlarından etkilenen paydaşlarını çok iyi biliyor. (3 Puan)
+      (3) Öğrenmeye yatkın olma performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Kurumda uygulanan eğitimlere sadece katılmak için katılmakta, kendisine öğrenme adına
+yeni bir şeyler katmamakta ve sadece günü kurtaracak çözümleri uygulamakta. (1 Puan)
+      b) Orta derecede yeterli: Kurumda uygulanan eğitimlere katılmakta ve yeni teknolojileri öğrenme
+konusunda çaba göstermekte. Uygulanan eğitim haricinde kendisini geliştirici bir faaliyet
+gerçekleştirmemekte. (2 Puan)
+      c) İyi derecede yeterli: Kurumda uygulanan eğitim programlarından maksimum verimin almasının
+yanında, kendisinin geliştirecek yeni teknolojilere ilişkin eğitim ihtiyacını ve diğer öğrenme olanaklarını
+takip etmektedir. Kendi uzmanlık alanı ile ilgili kurum içi eğitim vermeye ve öğretmeye hevesli. (3 Puan)
+      (4) Girişimcilik ve yeniliklere yatkın olma performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Kendisine verilen görevi yerine getirmekte ancak göreviyle ilgili olarak yeni gelişmelere
+karşı ilgisiz kalmaktadır. (1 Puan)
+      b) Orta derecede yeterli: Görevini yaparken işlerini kolaylaştıracak yeni uygulamaları takip etmekte ve
+kullanmaktadır. (2 Puan)
+      c) İyi derecede yeterli: Görevini yaparken işlerini kolaylaştıracak yeni uygulamaları takip etmekte ve
+kullanmaktadır. Gerek kendi görevi gerekse de diğer arkadaşlarının görevi olsun yapılan herhangi bir
+çalışmayla ilgili kolaylaştırıcı yeni uygulamaları takip etmekte ve uygulamakta. (3 Puan)
+      (5) Takım çalışması performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Takım çalışmasına meraklı değil, nadiren başkalarına yardımcı oluyor, elinden geldiği
+kadar takım çalışmasından uzak kalmaya çalışıyor. (1 Puan)
+      b) Orta derecede yeterli: Grup çalışanları ile iyi bir takım çalışması sergiliyor. Gönüllü olarak grup
+çalışmasına katılıyor. Takım içinde rahat davranabiliyor. (2 Puan)
+
+
+                                                      9
+     c) İyi derecede yeterli: Grup olarak hedeflere ulaşmaya özen gösteriyor. Grup arkadaşlarının
+hedefleriyle ilgileniyor. Verimliliği bir bütün olarak ve kuruma bağlılık olarak görüyor. Grup hedeflerine
+zarar veren özel hedeflerini kontrol altına almayı biliyor. ( 3 Puan)
+     (6) Hizmet odaklı performansının ihtiyacı karşılama düzeyi dereceleri;
+     a) Yetersiz: Kurumun hitap ettiği paydaş çalışanları ile kurum personelinin ya da birim çalışanlarının
+arzu ve beklentilerini karşılamak için gayret sarf etmekte ama bu gayreti kendisini vasatın altında kalmasını
+engellememektedir. Daha çok gayret etmesi gerekmektedir.(1 Puan)
+     b) Orta derecede yeterli: Kurumun hitap ettiği paydaş çalışanları ile kurum personelinin ya da birim
+çalışanlarının arzu ve beklentilerini karşılamada yeterli düzeyde ancak daha iyi bir konumda olabilir. (2
+puan)
+     c) İyi derecede yeterli: Kurumun hitap ettiği paydaş çalışanları ile kurum personelinin ya da birim
+çalışanlarının arzu ve beklentilerini karşılamada son derece etkili ve memnuniyet oluşturacak şekilde
+çözüm odaklıdır. (3 Puan)
+
+     MADDE 18- Bireysel yeterlilik dereceleri ve verilebilecek puanlar
+     (1) Karar alma performansının ihtiyacı karşılama düzeyi dereceleri;
+     a) Yetersiz: Genelde rutin kararları verebiliyor. Bazen bir konuda karar verirken o konu ile ilgili
+hususları derinlemesine araştırmadan hareket edebiliyor. Rutin olmayan konularda karar alabilmek için yön
+gösterilmeye ihtiyaç duyuyor. (1 Puan)
+     b) Orta derecede yeterli: Bir konuda karar vermeden önce gerekli tüm bilgileri öğrenmeye çalışıyor.
+Genel olarak doğru kararlar veriyor. Kararlarında sorumluluk alıyor ve hatalarından öğreniyor. Net ve
+mantıklı düşünerek doğru kararlar verebiliyor. (2 Puan)
+     c) İyi derecede yeterli: Mantıklı ve ince düşünceli bir insan, gerekli kararları tereddüt etmeden veriyor,
+verdiği kararlar genelde doğrudur, başkaları çoğunlukla onun görüşlerini ve kararlarını talep ediyor.(3
+Puan)
+     (2) Programlı çalışma performansının ihtiyacı karşılama düzeyi dereceleri;
+      a) Yetersiz: Bazen bir işe başlaması için uyarmak gerekiyor. Başkalarının da işlerini geç bitirmesine
+sebep oluyor. İşini yeterince planlayamıyor. Verilen işi nadiren zamanında tamamlıyor. (1 Puan)
+     b) Orta derecede yeterli: Programlanmış ihtiyaçlara uygun olarak kendi iş yükünü planlayabiliyor. İş
+yükünü diğerlerini nasıl etkilediğinin farkında ve işin önceliklerini ihtiyaca göre ayarlıyor. Görevlerini
+zamanında programa göre tamamlıyor. (2 Puan)
+     c) İyi derecede yeterli: Görevleri önceden tahmin edip, iş yükünü programa göre ayarlıyor. İş için
+gerekenleri önceden temin etmesi, diğer kişilerin işlerini de kolaylaştırıyor. Beklenmedik işlerin çözümü
+için zaman ayarlayabilmektedir. Kritik zaman planlamada bir uzman. (3 Puan)
+     (3) İşe bağlılığı performansının ihtiyacı karşılama düzeyi dereceleri;
+     a) Yetersiz: Ara sıra işine veya toplantılara geç geliyor. Kendisine ihtiyaç olduğunda bazen yerinde
+bulunamıyor. Kendisine verilen görevler nadiren tam olarak bitirilmiş oluyor. İşinin sık sık başkaları
+tarafından bitirilmesi gerekiyor. (1 Puan)
+     b) Orta derecede yeterli: Tutarlı bir çalışma temposuna sahip. Programı hatırlatmak gerektirmiyor.
+Zamanında işlerini yapıyor. Kendisine ihtiyaç olduğunda yerinde bulunuyor. İş bitirici. Yaptığı işin nadiren
+tekrar elden geçirilmesi gerekiyor. (2 Puan)
+     c) İyi derecede yeterli: Görevini tam takip ediyor. Görevleri zamanında ve tamamlanmış olarak teslim
+ediyor. Her durumda güvenilir. İşini, tekrar yapılmasını gerektirmeyecek şekilde tamamlıyor. (3 Puan)
+     (4) Sorumluluk alma performansının ihtiyacı karşılama düzeyi dereceleri;
+     a) Yetersiz: Kendi işine ilişkin karar vermekten korkuyor. Verilen görevlere az ilgi gösteriyor. Yeni
+görevlerde sıkılgan gözüküyor. Yeni durumlar karşısında çekingen kalıyor.(1 Puan)
+     b) Orta derecede yeterli: Aldığı görevleri istekle tamamlıyor. Başkasından bağımsız olarak işinin
+önceliklerini doğru şekilde tayin ediyor.(2 Puan)
+     c) İyi derecede yeterli: Etkin kararları gecikmeden verme yeteneğine sahip. İnsiyatif gerektiren işler
+için güvenilir bir kişi. Her zaman bir adım ilerde ve sorunları önceden görebiliyor. Profesyonel sahadaki
+üretkenliği ile büyük saygı görüyor. (3 Puan)
+
+
+
+                                                      10
+                                         DÖRDÜNCÜ BÖLÜM
+                                         Geçici ve Son Hükümler
+
+
+    GEÇİCİ MADDE 1- Bu Yönerge ile belirlenen hükümlerin uygulamasına; Sosyal Güvenlik Kurumu
+Sözleşmeli Bilişim Uzmanlarının İstihdamı ile İlgili Usul ve Esasların Ücret ve Performans
+Değerlendirmesi başlıklı 30 uncu maddesindeki performansa ilişkin hususlar ile söz konusu Usul ve
+Esasların Ek-2, Ek-3, Ek-4, Ek-5, Ek-6, Ek-7, Ek-8 ve Ek-9'da yer alan performans değerlendirme
+formlarının yürürlükten kaldırılmasına ilişkin Yönetim Kurulu Karar tarihinden itibaren başlanır.
+
+
+     Yürürlük
+     MADDE 19- (1) Kurum Başkanlık Makamının 03/05/2017 tarihli ve 2477724 sayılı Oluru ile kabul
+edilen bu Yönerge, Kurum internet ve/veya intranet sitesinde yayınlandığı tarihte yürürlüğe girer.
+
+    Yürütme
+    MADDE 20 - (1) Bu Yönetmelik hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+
+
+
+                                                                                                       EK-1
+
+Teknik terimler
+Açık kaynak kodlu işletim sistemi: Kaynak kodu isteyen herkese açık olan ve genellikle ücretsiz dağıtımı
+yapılan bilgisayar işletim sistemini,
+Admin: Sistemin geliştirilmesi ve sorunların çözümünden sorumlu tam yetkiye sahip kimseyi,
+Ağ adı çözümleme servisi: Ağ üzerindeki cihazı tanımlayan rakamsal kimlik bilgisini, insanların daha
+kolay hatırlayabileceği isimlere çeviren hizmeti,
+Ağ bağlantısı: Birbirine kablolu veya kablosuz olarak ve bir iletişim protokolü ile bağlanmış sunucu,
+yazıcı, kişisel bilgisayar, modem gibi birçok haberleşme donanımının ve çevre birimlerinin dosya
+paylaşımı, haberleşme, ortak uygulama programları ve veri bankalarını kullanma amacı ile oluşturdukları
+bağlantı sistemini,
+Ağ bağdaştırıcısı: Ağ donanımları üzerinde yer alan dâhili veya harici bağlantı donanımlarını,
+Ağ bilgi edinme ve yapılandırma komutları: Uygulama katmanında, donanımlar hakkında bilgi edinme
+ve ayar yapma imkânı sunan programları,
+Ağ donanımı: Ağ bağlantısına sahip tüm elektronik, elektromekanik ve mekanik aksamı,
+Ağ geçidi: Farklı ağ iletişim kurallarını kullanan iki ağ arasında, veri çerçevelerinin iletimini sağlayan ağ
+donanım veya yazılımını,
+Ağ güvenliği: Ağ ile ilgili tüm yazılım ve donanımların sadece yetkili kişilerce ve izin verilen ölçüde
+kullanılmasının sağlanmasını,
+Ağ güvenlik donanımı: Ağ güvenliğini sağlamak amacıyla özel olarak üretilmiş donanımları,
+Ağ hizmet saldırısı: Ağ üzerinde çalışan donanım veya yazılımları kısmen veya tamamen devre dışı
+bırakmak veya yanlış şekilde çalışmasını sağlamak amacıyla yapılan yazılımsal müdahale çabalarını,
+Ağ izleme yazılımı: Ağ üzerinde yazılımsal olarak gerçekleşen işlemleri takip etmek amacıyla geliştirilmiş
+olan yazılımları,
+
+
+
+                                                     11
+Ağ mimarisi: Ağ donanımlarının fiziksel yerleşim, bağlantı yöntemleri ve iletişim türlerine göre
+yapılandırılması ile ilgili belirlenmiş genel yöntemleri,
+Ağ omurgası: Uç ağ donanımlarının birbirlerine bağlanmasını sağlayan aktif ağ donanımları, ağ kabloları
+ve bağlayıcı birimlerden meydana gelen fiziksel yapıyı,
+Ağ performansı: Ağ donanım ve yazılımları kendilerinden beklenilen işlemleri karşılayabilmesini ve ağ
+yapısının beklenilen hız ihtiyaçlarına cevap verebilmesini,
+Ağ tanılama yazılımı: Bir donanım veya yazılımın kendisinden beklenen ağ işlevlerini yerine getirip
+getiremediğini kontrol eden yazılımları,
+Ağ tasarımı: Bir ağın fiziksel ve yazılımsal olarak nasıl kurulacağına dair planların hazırlanmasını,
+Ağ topolojisi: Fiziksel ve yazılımsal olarak ağ donanımlarının birbirine nasıl bağlandığını ve nasıl iletişim
+kurduklarını tanımlayan genel planları,
+Ağ yönetim servisi: Ağ donanım ve yazılımlarının ayarlarının yapılması ve merkezi olarak yönetilmesi
+amacıyla çalıştırılan sunucu hizmetlerini,
+Aktif ağ donanımı: Ağ omurgasını oluşturmak ve uç ağ donanımları için fiziksel bağlantı noktaları
+oluşturmak için kullanılan özel donanımları,
+Alt ağ: Yönetimi kolaylaştırmak için bir ağ adresinin bölümlendirilmesi ile oluşturulan birden fazla
+bağımsız ağın her birini,
+Arındırılmış bölge: Çoğunlukla büyük ölçekli ağlarda, dış ağlar ile iletişimde olan ağ donanımlarının
+(özellikle sunucuların) yapılandırıldığı ve iç ağ yapısı ile belirli kurallar ile ayrıştırılmış yazılımsal alt
+ağları,
+Bağlantı kabini: Ağ bağlantı panoları, aktif ağ donanımları ve sunucu bilgisayar sistemlerin
+konumlandırıldığı özel dolapları,
+Bağlantı panosu: Ağ kablolarının, diğer donanımlar ile bağlantı işlemlerini kolaylaştıracak şekilde ve
+merkezi bir noktada sabit olarak bağlandığı özel donanımları,
+Bakım planı: Bakım faaliyetlerinin gerçekleştirilmesi ile ilgili tanımlanmış kural, yöntem ve zamanları
+belirleyen planlamayı,
+Bakım: İlgili makine, donanım, alet ya da sistemlerin aşınmış, periyodik olarak değişmesi gereken veya
+ömrü biten parçalarının değiştirilmesini, temizlik türü işlemlerin gerçekleştirilmesini ve ayarlarının teknik
+talimatlara ve kullanım kılavuzlarına göre yapılmasını kapsayan çalışmaları,
+Bant genişliği: Ağ iletişim kanalının veri iletim hızı veya kapasitesini,
+Batch: Bilgisayar için toplu işi, yığını,
+Bellek kullanım politikası: Yazılımın üzerinde çalıştığı bilgisayar sisteminin sanal ve gerçek belleği etkin
+kullanma politikasını,
+BT: Bilgi teknolojilerini
+Birim testi: Yazılım içinde belirli işlevleri yerine getirmek üzere hazırlanan fonksiyonlar, metotlar, kod
+modülleri gibi yazılım birimlerinin sadece kendi işlevleri ile ilgili olarak parça parça test edilmesini,
+Birleşik modelleme dili (UML) modelleme diyagramı: Bir yazılım sistem modelini işlevsellik
+gereksinimi, statik yapı ve dinamik davranış gibi farklı açılardan ele alan diyagramlar topluluğunu,
+Birleşik modelleme dili (Unıfıed Modelıng Language-UML): Yazılım geliştirme süreçlerinde yazılım
+sistemlerinin nasıl modellenebileceğini belirleyen ve açıklayan yöntemlerin bir araya toplanmış hali olan
+standart diyagram çizme ve ilişkisel modelleme dilini,
+Canlı ortam: Yazılımın tüm testleri tamamlandıktan sonra fiili olarak gerçek kullanıcılar tarafından
+kullanılmak üzere kurulacağı kurumdaki sunucu, ağ, işletim sistemi, yardımcı sistem programları ve uç
+bilgisayarların tümünü kapsayan sistemi,
+
+
+
+
+                                                     12
+Çalışma grubu: Bir yerel ağda birbirine bağlanan bilgisayarların her biri üzerinde kendi kullanıcı hesabına
+sahip olduğu bir kullanıcı grubunu,
+Çevre birimi: Giriş - çıkış birimleri veya iletişim birimleri gibi bilgisayar sistemi ile birlikte kullanılan
+donanımı,
+Çevresel koşul düzenleyici: Bir konumun sıcaklık, soğukluk ve nem gibi özelliklerini düzenlemeye
+yarayan özel donanımları,
+Çoklu ortam: Metin, görüntü, grafik, çizim, ses, video ve animasyonların gösterilmesi, saklanması,
+iletilmesi ve sayısal olarak işlenmesini,
+Çoklu ortam aktarım sistemi: Çoklu ortam verilerinin aktarılması için özel
+olarak üretilmiş donanım ve yazılımları,
+Değişiklik işlemleri: Yazılım ve ilgili veri tabanı üzerinde; yeni işlevsellik ekleme ya da aksayan
+işlevselliğin düzeltilmesi amaçları ile yapılan yeniden düzenleme ve yazılım geliştirme çalışmalarını,
+Değişiklik yönetimi: Değişiklik işlemlerinin gerçekleştirilmesi ve son kullanıcıya yansıtılması için;
+değişiklik talebinden başlayarak, talebin onaylanması, yapılabilirliğin belirlenmesi, işin planlanması,
+gerçekleştirilmesi, ilgili dokümantasyonun güncellenmesi, yazılımın test edilmesi ve canlı ortama
+yansıtılması adımlarının tümünü içeren sürecin belirlenmiş sorumlu ve yetkililer tarafından birlikte
+yönetimini,
+Detay seviyesi: Yazılım sistemlerinde alt birimleri eksiksiz ve doğru olarak belirleyen tanımlamaların,
+önermelerin ve fikirlerin soyutlama hiyerarşisini,
+Devre şeması: Elektrik veya elektronik donanımların birbirleri ile olan bağlantılarını gösteren çizimi,
+Dinamik IP Adresi: Bir ağ donanımına, başka bir yazılım hizmeti tarafından belirli bir süre veya koşullar
+ile atanmış IP adresini,
+Dinamik yönlendirme: Yönlendirme işlemlerinin ağ kullanım yoğunluğu veya herhangi başka bir
+aksaklığa karşın alternatif iletim yolları hesaplanarak yapılmasının sağlanmasını,
+Dizin hizmeti: Bir ağdaki fiziksel ve mantıksal nesnelerle ilgili bilgileri tutan, organize eden, merkezi
+yönetimini yapan ve kullanıcıların bunlara erişimlerini yöneten yazılım hizmetini,
+Domain controller (etki alanı yöneticisi): Etki alanı grubunu yöneten sunucuyu,
+Domain (etki alanı):Bir çalışma grubu için fazla büyük hale gelmiş bir ağda merkezi yönetim olanağı
+sağlayan çalışma grubunu,
+Dosya paylaşım servisi: Bir bilgisayar veya özel veri depolama sisteminde yer alan dizin ve dosyalara
+diğer yazılım ve donanımların erişimini sağlayan yazılım hizmetini,
+Dokümante etmek: Kalite standartlarına ulaşmak amacıyla toplanan verilerin kayıtlarının tutulmasını,
+Donanım: Ağ, bilgisayar veya çevre birimlerinin elektronik, elektromekanik ve mekanik aksamını,
+Düzeltme dokümanı: Yazılımın test süreçlerinde tespit edilen hataların listesini,
+Elektromekanik: Elektrikli unsurlar ile çalışması sağlanan ve kumanda edilen mekanik sistemleri,
+Erişim alanı ölçümü: Kablosuz ağlarda erişim noktalarının ve alıcıların anten güçleri ile yapısal koşulların
+etkisi ile bunların ulaşabileceği alanların tespit edilmesi amacıyla özel cihazlarla yapılan ölçüm işlemlerini,
+Erişim denetim listesi: Bir ağ kaynağındaki nesnelere ulaşabilecek kişilerin erişim yetkilerinin
+tanımlandığı yapılandırma verilerini,
+Event: Sistem üzerinde oluşan olayları,
+Felaket senaryosu/planı: Bir bilişim sisteminde, olası sistem çökmesi, verilerin karışması veya
+kaybolması, güvenlik tehdidi vb. en kötü durumlarda yapılması gereken olaylar/planlar bütününü,
+Fiber optik kablo iletişim verimliliği: Fiber optik bir hattın iki ucu arasındaki ışık iletim performansını,
+Fiber optik kablo optik kırılma açı sınırı: Fiber optik kablonun verimliliği için ışık iletimini
+aksatmayacak kablo bükülebilme limitlerini,
+
+
+                                                      13
+Fonksiyonellik/işlevsellik: Ürünün kendisinden beklenen tüm işlevleri en verimli şekilde yerine
+getirebilmesini,
+Geliştirme ortamı: Bir yazılım projesinde programlama dili, veri tabanı, modelleme ve tasarım araçları ve
+benzeri tüm yazılım geliştirme faaliyetleri için kullanılan araçları,
+Geniş alan ağı: Bilginin uzak mesafelere gönderilebilmesi için iletişim kuralı dönüşümü yapılarak
+oluşturulan fiziksel veya mantıksal büyük ağları,
+Gerçek ağ: Kablolu ve kablosuz ağ donanımlarının birbirlerine bağlanması ile oluşan ağları,
+Görsel öğe: Yazılımın kullanıcı tarafından kullanımı sırasında ekranda karşısına çıkan sabit yazı, resim,
+video, görsel gibi bileşenleri,
+Güncelleme işlemleri: Daha önce geliştirilmiş yazılımın yeni isterlere, teknik koşullara, iş analizine veya
+benzeri değişikliklere uygun yeniden düzenleme işlemlerini,
+Güvenlik açığı: Ağ yazılım ve donanımlarının, ağ saldırıları ile kısmen veya tamamen işlevlerini
+kaybetmesine neden olabilecek yazılımsal veya donanımsal hata ve eksiklikleri,
+Güvenlik bileşeni: Yazılımda güvenlik duvarı, anti virüs yazılımı, casus yazılımları önleme yazılımı,
+uygulama ve tarayıcı savunması, izinsiz girişi önleme, kimlik avını önleme, kök araç seti koruması vb.
+farklı güvenlik sorunlarına karşı alınması gereken yazılımsal önlemleri,
+Güvenlik duvarı: Birçok filtreleme özelliği ile bir ağa gelen ve ağdan giden veri paketlerini, belirli
+kurallar dâhilinde denetleyen yazılım veya donanım hizmetlerini,
+Güvenlik ihlali: Ağ donanım ve yazılımlarını kısmen veya tamamen devre dışı bırakma ihtimali olan ve
+daha önceden tanımlanmış olan davranış veya sistem kullanımlarını,
+Güvenlik katmanı: Yazılımda güvenlik bileşenlerinin oluşturulduğu katmanı,
+Güvenlik politikası: Bir ağdaki tüm donanım ve yazılımların kullanımı ile ilgili geçerli olacak kurallar
+bütününü,
+Güvenlik test senaryosu: Yazılımda istenen tüm güvenlik önlemlerinin doğru çalışıp çalışmadığını
+anlamak amacı ile olası tüm açıkların denenmesini sağlayacak adımları açıklayan dokümanı,
+Güvenlik testi: Yazılımın, gerek iç gerekse dış kaynaklı yetkisiz erişimlere, kötü amaçlı kullanımlara karşı
+korunması ya da güvenliğinin incelenmesi için yapılan testleri,
+Güvenlik yaklaşımı: Yazılım güvenlik yapısının kavramsal ve kurumsal olarak yapılandırılmasına yönelik
+önerileri,
+Güvenlik yazılımı: Bilgisayar veya diğer ağ donanımlarının güvenliğini sağlamak amacıyla geliştirilmiş
+koruma ve anlık denetleme yazılımlarını,
+Harici bileşen: Uygulama yazılımı içinde ilgili proje ekibi içindeki yazılımcılar tarafından geliştirilmeyip
+dışarıdan temin edilen kod veya nesneleri,
+Hız performans testi: Yazılımın tüm kullanıcı isterlerini gerçeklerken işlem süresi, işlevsellik ve güvenlik
+açısından hedeflenen süre biriminde gerçekleşebilmesinin test edilmesini,
+Information: Bilgilendirici mesajı,
+IP adresi dağıtım servisi: IP adreslerinin merkezi olarak uç aygıtlara dağıtılmasını ve yönetilmesini
+sağlayan yazılım hizmetini,
+IP adresi: IP protokolünü kullanan ağ donanım ve yazılımlarının diğer donanım ve yazılımlarla veri
+alışverişi yapması amacıyla kullanılan iletişim adresini,
+IP adres sürümü: IP adresinin yapısal özellikleri, kullanım alanları ve yöntemlerini belirleyen
+sınıflandırmalarını,
+İletişim protokolü: Ağ donanımları arasındaki iletişimi sağlamak amacıyla verileri düzenlemeye yarayan,
+standart olarak kabul edilmiş kurallar dizisini,
+
+
+
+
+                                                    14
+İş akışı: Bir iş ya da iş grubu ile ilgili olmak kaydı ile, başlangıç noktasından bitiş noktasına kadar;
+doküman, bilgi ya da görevlerin belirlenen kurallar dahilinde birbirleri ile ilişkisini ve kontrol noktalarını
+içeren bileşenlerin tümünü,
+İş analizi: İşlerin doğru, etkin ve sağlıklı bir biçimde değerlendirilmesi amacıyla, kurum veya kuruluşta
+yer alan her işin parçalara ayrılarak nitelikleri, nicelikleri, gerekleri, sorumlulukları ve çalışma koşullarının
+bilimsel yöntemlerle incelenmesi ve bu amaçla bilgi toplamasını,
+İş kuralı: İş süreçlerinde bir işin doğru olarak tamamlanabilmesi için uyulması gereken tanımlamaları ve
+kısıtlamaları,
+İş sahipleri ve süreç sorumluları: Proje sürecinde ya da sonucunda doğrudan veya dolaylı olarak
+etkilenen ve proje sürecine etki edebilen kişi, grup, kurum ve kuruluşları,
+İşletim sistemi: Bilgisayar veya diğer ağ donanımlarının, doğrudan denetimi ve yönetiminden, temel
+sistem işlemlerinden, dosya yönetiminden ve uygulama programlarını çalıştırmaktan sorumlu olan sistem
+yazılımını,
+İş süreci: Bir işletmenin, iç ya da dış müşterileri için değer yaratacak ve onlar tarafından yararlı kabul
+edilecek belirli bir sonuç elde etmek amacı ile birbirine bağlı bir dizi görev ya da faaliyetlerini,
+İşlevsellik test senaryosu: Bir uygulama yazılımının geliştirilme amacına yönelik tüm işlevleri tam ve
+doğru olarak yerine getirip getirmediğini belirlemek üzere yapılacak olan işlem kontrollerini adımlar
+halinde açıklayan dokümanı,
+İşlevsellik testi: Bir uygulamanın işlevsellik gereksinmeleri üzerine odaklandırılan yazılım isterlerine tam
+ve doğru olarak yanıt verip veremediğini anlamak için yapılan kontrolleri,
+İyileştirme işlemleri: Yazılımın geliştirilme amacına yönelik bir ya da birden fazla işlevi daha etkin, daha
+verimli, daha kapsamlı ve / veya daha kolay anlaşılır biçimde yapması için yazılım üzerinde yapılan ek
+geliştirme ve yeniden düzenleme çalışmalarını,
+Kablolu ağ: Ağ kabloları kullanılarak oluşturulmuş ağları,
+Kablosuz ağ güvenliği: Kablosuz iletişim tekniklerine has olarak alınması gereken güvenlik önlemlerini,
+Kablosuz ağ: Ağ kablosu olmadan, kablosuz iletişim teknikleri ile oluşturulmuş ağları,
+Kablosuz erişim noktası: Kablosuz uç ağ donanımlarının birbirlerine ve diğer ağlara bağlanmasını
+sağlayan aktif ağ donanımlarını,
+Kablosuz yetkilendirme ve şifreleme yöntemleri: Kablosuz iletişimde uç aygıtların bağlantı
+sağlamasında kullanılan standartlaştırılmış erişim kuralları ve bunlarda kullanılan şifreleme yapılarını,
+Kalibrasyon: Belirlenmiş koşullar altında, doğruluğu bilinen bir ölçüm standardını veya sistemini
+kullanarak diğer ölçüm ve test aletinin doğruluğunun ölçülmesi, sapmaların belirlenmesi ve doküman
+haline getirilmesi için kullanılan ölçümler dizisini,
+Katman: Farklı işlevsellikler için yazılımın ardışık ve hiyerarşik biçimde kurgulanmış ve birbirleri
+arasında tanımlanmış arayüzler ile iletişim sağlanabilen bileşen gruplarını,
+Kimlik denetimi: Bir ağ üzerinde yer alan her türlü kaynağın kullanımı için, kaynak kullanımını talep
+eden yazılım veya donanımın denetlenmesini sağlayan yazılım hizmetlerini,
+Kişisel koruyucu donanım: Yürütülen işten kaynaklanan, sağlık ve güvenliği etkileyen bir veya birden
+fazla riske karşı koruyan, çalışan tarafından giyilen, takılan veya tutulan tüm alet, araç, gereç ve cihazları,
+Kod: Yazılımda herhangi bir programlama dili kullanılarak oluşturulmuş insanlar tarafından okunabilir
+bilgisayar talimatlarını,
+Kod birimleri: Fonksiyon ve metotlara ilişkin kod parçalarını,
+Kod blokları: Yazılımın farklı işlev, metot veya fonksiyonlar için oluşturulmuş bölümlerini,
+Kod parçası: Belirli bir işlevselliği gerçekleştirmesi amacı ile oluşturulmuş birkaç bilgisayar talimatını,
+
+
+
+
+                                                       15
+Konsol bağlantısı: Ağ donanımlarında gerçekleştirilecek işlemler için bir çıkış ekranı ve veri giriş
+donanımları ile bağlantı sağlanması işlemini,
+Kullanıcı arayüzü: İnsanların bir bilgisayar programı ile etkileşimini sağlayan unsur ve yöntemlerin
+bileşkesini,
+Kullanıcı isteri: Kullanıcı tarafından bir problemi çözme ya da bir hedefi gerçekleştirmek için ihtiyaç
+duyulan durum ya da işlevler dizisini,
+Kullanıcı kabul testi: Yazılım uygulamasının canlı sisteme geçirilmeden önce uygulamayı kullanacak
+kişilerin yaptığı ve başlangıç isterlerinin eksiksiz olarak karşılandığının onayının verildiği testi,
+Kurulum betikleri: Kurulum aşamasında, kurulum yapacak yetkilinin çalışmalarını standardize ederek
+kurulumun kolay, hızlı ve hatasız bir biçimde yapılmasına yönelik olarak tasarlanan kolay anlaşılabilir
+program parçacıklarını,
+Kütüphane bileşeni: Bir yazılım geliştirme ortamında yazılım geliştiricilerin etkinliklerini ve
+verimliliklerini arttırmak amacı ile yaygın ve sıkça yaptıkları benzer geliştirme çalışmalarını gruplayarak
+oluşturulan hazır kullanıma ve / veya otomatik kod oluşturmaya yönelik yazılım bileşenlerini,
+Ofis ergonomisi: Ofis ekipmanları ve genel ofis çalışma ortamının çalışanların fiziksel ve zihinsel olarak
+rahat çalışmasına ve verimliliklerinin arttırılmasına yönelik olarak düzenlenmesini,
+Onarım: İlgili makine, donanım, alet ya da sitemlerde meydana gelen arızaların tespit edilmesini ve
+giderilmesini ifade eden işlemler bütününü,
+Osiloskop: Girişlerine uygulanan elektrik sinyallerinin, dalga şekillerinin, karakteristiklerini, genliklerini,
+frekanslarını ve faz ilişkilerini ekranında ışıklı çizgiler şekilde gözle görülebilir hale getiren ölçü aletini,
+Özel ağ: Farklı ağlar arasında kurulan güvenli veri iletişim kanallarını,
+Port güvenliği: Ağ donanımlarının veri iletişiminde kullandığı iletişim kanallarının güvenlik
+yapılandırmasını,
+Risk: Tehlikeden kaynaklanabilecek kayıp, yaralanma ya da başka zararlı sonuç meydana gelme ihtimalini,
+Risk değerlendirmesi: İş yerinde var olan ya da dışarıdan gelebilecek tehlikelerin belirlenmesi, bu
+tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden kaynaklanan risklerin analiz edilerek
+derecelendirilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gereken çalışmaları,
+Saldırı tespit ve önleme sistemi: Ağ donanım ve yazılımlarına yönelik gerçekleşebilecek saldırıları
+tanımlamaya ve önlemeye yönelik olarak geliştirilmiş özel donanım ve yazılım hizmetlerini,
+Sanal ağ: Bir yerel ağ üzerindeki kaynakların yazılımsal olarak gruplandırılması işlemini,
+Sanal işletim sistemi taşıyıcı platform: Sadece sanal işletim sistemlerinin kurulum ve çalışmasını
+sağlamak amacıyla hazırlanmış özel sunucu yazılımlarını,
+Sanallaştırma: Donanım ile işletim sistemi arasına kurulan bir platform ile birlikte fiziksel olarak bir
+bilgisayar üzerinde birden fazla bilgisayar kullanabilme teknolojisini,
+Servis seviyesi anlaşması: Bir servis sağlayıcı ile yapılan, geniş alan veya internet erişiminin, bant
+genişliğinin ve diğer özelliklerinin tanımlandığı sözleşmeyi,
+Sahiplenme ve kullanım hakkı: Proje kapsamında kullanılacak herhangi bir yazılım parçası ve/veya
+nesnenin hukuki olarak mülkiyet ve bunu isteğince kullanma, bulundurma, çoğaltma, yayma veya
+koruyabilme haklarının tümünü,
+Saklı yordam: Bir tabloya bağlı olmaksızın veri tabanı içinde tanımlanan belirli bir işi yapmaya yönelik
+kodlarını,
+Sinyal testi: Ağ kablolarının veri iletiminde sorun yaşayıp yaşamadığını anlamak üzere hattın bir ucundan
+diğer ucuna özel bir cihaz ile sinyal gönderilmesi ve alınması şekilde sınama yapılması işlemini,
+
+
+
+
+                                                      16
+Sistem analizi: Bir bilişim sisteminin hangi verileri, hangi kullanıcılar için ve nasıl işlemesi gerektiğini
+irdeleme; sistemin girdilerini, çalışma mantığını, çıktılarını ve bileşenlerini betimleme amacıyla yapılan
+araştırma çalışmalarını,
+Statik yönlendirme: Yönlendirme işlemlerinin ağ ile ilgili anlık durumlardan bağımsız olarak tanımlanmış
+sabit kurallar ile yapılmasını,
+Sunucu işletim sistemi: Ağ üzerinde yazılımsal olarak hizmet vermek ve ağı yönetmek için özel olarak
+tasarlanmış işletim sistemi yazılımlarını,
+Sunucu servisi: Bir sunucu işletim sistemi üzerinde, özel amaçları yerine getirmek üzere sürekli olarak
+çalışır durumda tutulan yazılım hizmetlerini,
+Sürece dayalı kullanım kılavuzu: Yazılımı kullanacak kişilere, yazılımın işlevsel özelliklerini, ilgili işin
+süreçleri bazında basamak basamak anlatan dokümanı,
+Tasarım süreci: Bir tasarımda problemin tanımı, bilgi toplama, yaratıcılık ve buluş, çözüm bulma ve
+uygulama süreçlerinin tamamını,
+Tehlike: İş yerinde var olan ya da dışarıdan gelebilecek, çalışanı veya iş yerini etkileyebilecek, zarar veya
+hasar verme potansiyelini,
+Teknik sınırlama: Bir donanım veya yazılımın teknik açıdan kullanım limitlerini,
+Teknik yazılım tasarım dokümanı: Yazılımın teknik özelliklerini anlatan tasarım kitapçığını,
+Telif hakkı: Bir fikir veya sanat eserini yaratan kişi, kurum ve kuruluşun bu eserden doğan hukuki
+haklarının tamamını,
+Termal konfor: Çalışma ortamında çalışanların büyük çoğunluğunun ısı, nem, hava akım hızı ve termal
+radyasyon gibi iklim şartları açısından, bedensel ve zihinsel faaliyetlerini sürdürürken belli bir rahatlık
+içinde bulunmasını,
+Termal radyasyon: İletimi için maddesel bir ortama gerek olmayan ısı türünü,
+Test senaryosu: Belirlenen bir amaca göre farklı kişiler tarafından farklı zamanlarda gerçekleştirilen,
+çeşitli girdiler ve çıktıların gözlenerek işlevsellik, güvenlik, bütünlük ve diğer özellikler açısından yazılım
+fonksiyonlarının denenmesini,
+Tetikleyici betik: İlişkisel veri tabanı yönetim sistemlerinde bir tabloda belirli olaylar meydana geldiği
+zaman yani ekleme, güncelleme, silme işlemlerinden biri gerçekleşmeden önce veya sonra çalışan ve belirli
+işlemleri kodlandığı şekilde yerine getiren yordamı,
+Topraklama: Gerilim altında olmayan bütün tesisat kısımlarının, uygun iletkenlerle toprak kitlesi içerisine
+yerleştirilmiş bir iletken cisme (elektrot) bağlanmasını,
+Uç ağ donanımı: Ağ kabloları ve aktif ağ donanımlarından oluşan omurgasına bağlanan bilgisayar,
+sunucu, yazıcı ve tüm diğer ağ donanımlarını,
+Uç aygıt ağ ayarları: Uç ağ donanımlarının IP adresi, ağ geçidi, ad çözümleme sunucusu adresi, vekil
+sunucu adresi gibi ağ iletişimi için ihtiyaç duyabileceği tüm ayarları,
+UTP (Unshielded Twisted Pair): Kaplamasız dolanmış çift; bilgisayar ağlarında en yaygın kullanılan
+2'şer bükümlü toplam 8 ya da 12 kablodan oluşan ağ kablosunu,
+Uzaktan erişim: Bir ağ donanımına ağ üzerinden yazılımsal olarak erişilmesini,
+Uzaktan yönetim: Bir ağ donanımını ağ üzerinden yazılımsal veya donanımsal olarak yönetme işlemini,
+Varsayılan rota: Yönlendirme işleminde, herhangi bir kurala bağlanmayan tüm iletişim paketlerinin
+teslim edileceği yönlendirme yapılandırmasını,
+Vekil sunucu: Bir ağ ile başka bir ağ arasında çalışarak gelen ve giden bilgileri denetleyen ve filtreleyen
+ara sunucuları,
+Veri aktarımı: Farklı veri tabanlarındaki veri alanlarının eşleştirilerek birindeki tablodan aynı ya da farklı
+yapılarda diğerindeki tablo ya da tablolara nakledilmesini,
+
+
+                                                      17
+Veri düzenleme işlemi: Veri tabanındaki verilerin bütünlük, doğruluk ve/veya geçerlilik açısından
+amaçlanan kullanım için elverişli biçimde ele alınarak düzeltilmesi, yenilenmesi ve uygun saklama
+ortamında yapılanmasını,
+Veri katmanı: Yazılımın ihtiyaç duyduğu ve/veya yazılım kullanılarak oluşturulan verilerin tutulduğu veri
+tabanı ya da benzeri ortamları,
+Veri kontrolü: Veri tabanlarında, verilerin bulunduğu daimi depolanma alanlarına, geçici olarak
+bulundukları swap (değiş tokuş veya takas) alanına, hafızaya vb. tüm noktalara erişim durumlarının gözden
+geçirilmesini,
+Veri kurtarma: Donanımsal veya yazılımsal bir sorun veya kullanıcı hatası nedeniyle depolama
+birimlerinde bulunan ve ulaşılamayan verilerin özel yazılımlar veya donanımlar aracılığı ile
+kullanılabilecek hale getirilmesini,
+Veri sözlüğü: Veri tabanı tasarımının ilk adımı olarak, tasarlanan sistemde kullanılacak/ihtiyaç duyulacak
+tüm verilerin adları, kodları ve özelliklerini açıklamaları ile içeren ayrıntılı listeyi,
+Veri yedekleme: Donanım yapılandırma değerlerinin veya diğer veri yedeklerinin, herhangi bir sorun
+durumunda tekrar yüklenebilmesi için başka bir konuma kopyalanması işlemlerini,
+Veri tabanı: Bir uygulama yazılımının ihtiyaç duyduğu ve/veya yazılım kullanılarak oluşturulan verilerin
+tümünün işlenmesi, saklanması ve raporlanmak amacı ile erişilmesi için tasarlanan birbirleri ile ilişkili
+tablo, indeks, kural ve betikler topluluğunu,
+Veri tabanı aracı: Tasarlanan veri tabanı yapısının uygulanarak yazılımın ihtiyaç duyduğu / oluşturulan
+verilerin tutulması üzerine hazırlanan yapının bulundurulduğu yazılım ortamı ve bu ortama erişerek gerekli
+tasarımın yapılması, yapının değiştirilmesi, verilere erişilerek raporlanmasına olanak sağlayan yazılım
+servisleri bileşenlerinin tümünü,
+Veri tabanı bağlantısı: Yazılım platformunun veri tabanına erişim yöntem ve araçlarını,
+Veri tabanı geri dönüşü: Daha önceden yedeği alınmış verilerin veri tabanına geri yüklenmesini,
+Veri tabanı görünümü: Veri tabanında oluşturulan bir ya da birden fazla tablodan sorgulama dili
+kullanarak çekilen verilerden oluşturulan sanal tabloyu,
+Veri tabanı indeksi: Veri tabanında veri kayıtlarına sıralı ve daha hızlı biçimlerde erişilmesine olanak
+sağlayan ve fiziksel yerleşimini gösteren anahtarları içeren alanı,
+Veri tabanı modelleme diyagramı: Veri tabanının veri tipleri, tablolar, veri ve tablolar arası ilişkiler,
+tablo işlemleri, saklı yordamlar ve kısıtlamalardan oluşan yapısını tanımlayan şematik gösterimi,
+Veri tabanı ortamı: Verilerin bir araya getirildiği, işlendiği, saklandığı, yenilendiği veya düzeltildiği
+yazılımı,
+Veri tabanı önleyici bakımı: Veri tabanında yanlışları önlemek, sistemin performansını ve güvenilirliğini
+belirli bir seviyede tutmak için yapılan düzenli bakımı,
+Veri tabanı loğları: Veri tabanına yapılan tüm giriş/çıkış erişim işlemleri kayıtlarının tutulduğu dosyaları,
+Veri tabanı performans loğları: Veri tabanının çalıştığı sunucunun disk, hafıza ve işlemci bazında
+kullanım performans istatistik sonuçlarının takip edildiği düz yazı dosyasını,
+Veri tabanı portu: Veri tabanının bulunduğu sunucunun giriş/çıkış donanımsal arayüzünü,
+Veri tabanı saklı yordamı: İlişkisel veri tabanı yönetim uygulamalarında saklanabilen, değiştirge
+alabilen, kendisine verilen parametreler ve kodlanışı doğrultusunda belli işleri gerçekleştiren ve eğer varsa
+çıktı parametrelerini döndüren işlevleri,
+Veri tabanı şeması: Veri tabanında kayıt yığınlarının ya da bilgi parçacıklarının tanımlandığı görsel
+diyagramı,
+Veri tabanı tablosu: İlişkisel veri tabanı sistemlerinde aynı özelliklere sahip veri kümelerinin saklandığı
+yapıları,
+
+
+                                                     18
+Veri tabanı tasarım dokümanı: Tasarlanan veri tabanı ile ilgili olarak hazırlanan tüm şemaları,
+modelleme diyagramlarını, ayrıntılı tablo yapılarını, saklı yordam listelerini açıklamaları ile içeren teknik
+dokümanı,
+Veri tabanı tetikleyici betik: Veri tabanının kendi programlama dilinde yazılmış ve veri tabanındaki
+tabloları kayıt ekleme, değiştirme, iptal işlemlerinden önce ya da sonra veri tabanı ortamı tarafından
+otomatik olarak başlatılan kod parçalarını,
+Veri tabanı unsuru: Veri tabanında aynı niteliklerden oluşan tablolar, görünümler, indeksler, saklı
+prosedürler, tetikleyiciler vb. varlıklar/nesnelerden herhangi birini,
+Veri tabanı yetki seviyesi: Veri tabanında kullanıcılara erişim, ekleme, değiştirme ve silme gibi işlemler
+için verilen izinleri,
+Yardımcı yazılım isterleri: Yazılımın çalışması için gereken veri tabanı, işletim sistemi vb. diğer
+gereksinimleri,
+Yazılım: Bilgisayar sistemini oluşturan harici ve dâhili donanım birimlerinin yönetimini ve kullanıcıların
+işlerini yapmak için gerekli olan programları,
+Yazılımsal ağ güvenliği: Ağ üzerinde çalışan veya ağ trafiğini etkileyebilecek yazılımların, güvenlik açığı
+oluşturmayacak şekilde yapılandırılması ve ek güvenlik yazılımlarının kurulması işlemlerini,
+Yazılım derlenmesi: Üst seviye programlama dillerinden birinde oluşturulmuş yazılım kaynak kodlarının
+donanımın anlayabileceği makine kodlarına dönüştürülmesini,
+Yazılım geliştirme ortamı: Yazılım geliştiricilerin hızlı ve rahat bir şekilde yazılım geliştirebilmesini
+amaçlayan, geliştirme sürecini organize edebilen birçok araç ile birlikte geliştirme sürecinin verimli
+kullanılmasına katkıda bulunan araçların tamamını içerisinde barındıran platformu,
+Yazılım hatası: Yazılımda beklenmeyen, doğru olmayan bir sonuç yaratan veya bir sistemin planlanmamış
+sonuçları doğuran programlama hata, kusur ve yanlışlıkları, karışıklık veya yetmezliklerini,
+Yazılım işlevsellik özellikleri: Yazılımın çeşidine, beklenen kullanıcıya ve yazılımın kullanılacağı sistem
+çeşidine göre kullanıcı isterleri paralelinde girdi ve çıktı beklentilerine ait özelliklerini,
+Yazılım katmanları etkileşim şeması: Yazılımı oluşturan katmanların girdi ve çıktılarının
+organizasyonunu ve beraber yürüttüğü işlevlerin diyagramını,
+Yazılım katmanları: Yazılımın, mimari işlevsellik bazında (kullanıcı arayüzü, iş kuralları, sistem
+servisleri, hata yönetimi, güvenlik, veri işleme gibi) benzer özelliklerde hazırlanmış parçalarının
+gruplanması sonucunda ortaya çıkan her gruba verilen adı,
+Yazılım kullanım alt yapısı ve prensipleri dokümanı: Yazılımın kullanımı için gerekli donanımsal
+ve/veya yazılımsal ihtiyaçların tanımlandığı ve uygulamanın kullanımına ait temel prensiplerin nitelendiği
+dokümanı,
+Yazılım kütüphanesi: Bir yazılım geliştirme ortamında farklı işlevler için tanımlanmış program dağarcığı
+içindeki yazılım parçalarının tümünü,
+Yazılım menüsü: Kullanıcının yazılıma ait temel işlevlerini başlatabileceği komut veya seçenek listesini,
+Yazılım mimarisi: Bir yazılım sistemini oluşturan yazılım bileşenleri ve görünür dış özellikler ile bunlar
+arasındaki ilişkileri,
+Yazılım modülü: Yazılımda kendi başına herhangi bir işlevi yerine getiren program parçacığı gruplarını,
+Yazılım proje planı: Kullanıcının yazılım geliştirme sürecinin tüm aşamalarını ve belirlenen isterler için
+yazılım geliştiricisinin taahhütlerini inceleyebilmesini sağlayan belgeyi,
+Yazılım süreci: Yazılımın tüm geliştirme fazları (öntasarım, ayrıntılı tasarım, gerçekleştirme, tümleştirme,
+test etme, iç/dış gözden geçirmeler, teftişler, düzeltme eylemi süreci, problem/değişim raporları, yazılım
+ürün değerlendirme vb.) boyunca yazılım geliştirilip kontrol edilmesi için kullanılacak teknikler,
+metodolojiler ve araçları,
+
+
+                                                     19
+Yazılım tasarımı: İş analizinde ortaya çıkan sorunları yazılım özellikleri kararlaştırıldıktan sonra yazılım
+geliştiriciler tarafından geliştirilen teknik dokümanı,
+Yerleşim planı: Ağ donanımlarının topoloji ve mimariye uygun biçimde, çalışacakları konumun, o
+konumun fiziksel özellikleri ve diğer unsurların yerleşimlerine göre belirlendiği planları,
+Yönlendirme: Bir ağa gelen ve bir ağdan giden paketlerin sabit veya dinamik kurallar ile hangi ağ
+arayüzleri arasında hareket edeceğini belirleme işlemlerini,
+Yönetilebilir ağ anahtarı: Ağ donanımlarının birbirlerine bağlanmasına olanak veren ve veri iletişimini
+yazılımsal olarak kurallara bağlanabilen aktif ağ donanım bağlantı noktalarını,
+Yönlendirici arayüz: Aktif ağ donanımlarının yönlendirme yapılandırılması gerçekleştirilen bağlantı
+noktalarını,
+Yönlendirme protokolü: Yönlendirme işleminde veri paketlerinin gideceği noktaların dinamik olarak
+tespit edilmesini sağlayan kurallar bütününü,
+ifade eder.
+
+
+
+
+                                                    20
+                                               HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                             EK - 2
+                                         SÖZLEŞMELİ BİLİŞİM PERSONELİ (YAZILIM UZMANI)
+                                         PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+
+SİCİL NO
+ADI SOYADI                                                                                                                   DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                                    …./…/20.. - …../…./20..
+BİRİMİ
+
+                                                                                                                                         MESLEKİ YETERLİLİK
+                                                                                                                         AĞIR.           (*) Toplamda verilebilecek
+                                                                                                     ÇIKTI                               maksimum not “70” puanı
+         GÖREVLER                     GÖREVE İLİŞKİN İŞ VE İŞLEMLER                           (Kâğıt veya Elektronik)
+                                                                                                                         ORT.
+                                                                                                                         PUAN                     geçemez
+                                                                                                                                       1.Amir    II. Amir     III. Amir
+
+A-YAZILIM PROJESİ ÖNCESİ                                                                       Gereksinim listesi
+                                     Yazılımın gereksinimlerini toplamak ve analiz                                        70 ÷ X
+HAZIRLIK YAPMAK                                                                                Analiz dokümanı
+                                     dokümanlarını hazırlamak
+                                                                                               Toplantı tutanağı
+
+                                                                                              Veri Modeli
+B-YAZILIM MODELLEME VE               İlgili gereksinimleri karşılayacak veri modeli
+TASARIM YAPMAK                       tasarımını yapmak ve           zaman çizelgesi
+                                                                                              Tasarım planı              70 ÷ X
+                                     hazırlamak.                                              Varsa UML, USE
+                                                                                               Case,ER diyagramı
+                                     Kullanıcı ara yüzünü oluşturmak, yazılım
+C-YAZILIM GELİŞTİRMEK                katmanlarını belirleyerek aralarındaki etkileşimi         Yazılım kod               70 ÷ X
+                                     gerçekleştirmek, belirlenen model ve tasarım             dokümanı
+                                     planını gerçekleştirecek kodu yazmak.
+D-YAZILIMIN UYGULAMA
+ORTAMINA UYGUNLUĞUNU                 Test senaryolarını detaylandırarak dokümante             Test senaryosu
+VE ÇALIŞIRLIĞINI TEST                etmek, yazdığı ve/veya güncellediği kodları UNIT          Test sonuç dokümanı       70 ÷ X
+ETMEK                                testlerinden geçirmek.                                   Toplantı tutanağı
+
+
+E-YAZILIM İYİLEŞTİRME,               Yazılımla ilgili hataları düzeltmek, talep edilen
+                                                                                               Tasarım, yazılım
+                                     değişiklikleri   gerçekleştirmek,    bakım     ve
+BAKIM VE GÜNCELLEME
+                                     güncelleme çalışmalarını yapmak, uygulamaya
+                                                                                               Toplantı tutanağı         70 ÷ X
+ÇALIŞMALARI YAPMAK                                                                             Deploy talepleri
+                                     almak.
+
+                                      Veri çekmek, tablolardaki veriyi güncellemek.          Elektronik veri
+F-OPERASYONEL                         Çağrı işlemlerini gerçekleştirmek.                     Olay kayıtları             70 ÷ X
+İŞLEMLER                              Yazışma ve evrak işlemlerini yapmak.                   Resmi yazı
+                                      Teknik şartname ve idari sözleşme hazırlamak.          Şartname,sözleşme
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                     1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                     sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                     2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                     edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+(*) DAVRANIŞSAL
+YETERLİLİK                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+Yetersiz (1 Puan)                    bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Derecede Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)        4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                     takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3 P.)
+
+                                     5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                     paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                     6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                     beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+(*) BİREYSEL YETERLİLİK               7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+ Yetersiz (1 Puan)                    becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+
+
+                                                                                  21
+Orta Der. Yeterli (2 Puan)                8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak bitirebilme
+İyi Derecede Yeterli (3 Puan)             becerisi) (Ağ. Ort. Puanı: 1-3)
+(*) Davranışsal ve bireysel yeterlilik    9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+için     toplamda       verilebilecek     derecesi) (Ağ. Ort. Puanı: 1-3)
+maksimum      not         “30”puanı      10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+geçemez.                                  geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+Davranışsal ve Bireysel Yeterlilik Notları Ortalaması
+
+                                                                                                 GENEL TOPLAM PUANI
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+          TARİH
+
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde bulundurularak,
+azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                     22
+                                            HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                  EK – 3
+                                   SÖZLEŞMELİ BİLİŞİM PERSONELİ (SİSTEM YÖNETİCİSİ)
+                                   PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+SİCİL NO
+ADI SOYADI                                                                                                   DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                   …./…./20… - …./…./20…
+BİRİMİ
+
+
+                                                                                                                        MESLEKİ YETERLİLİK
+                                                                                                         AĞIR.          (*) Toplamda verilebilecek
+                                GÖREVE İLİŞKİN İŞ VE                                 ÇIKTI                              maksimum not “70” puanı
+         GÖREVLER                                                                                        ORT.
+                                    İŞLEMLER                                  (Kâğıt veya Elektronik)
+                                                                                                         PUAN                    geçemez
+                                                                                                                      1.Amir    II. Amir     III. Amir
+                                                                            Çalışmakta olan ilgili
+                          1-Görev     alanındaki    sistemlerin  ve
+                          programların kurulumları, güncellemeleri
+                                                                             sistem      ve    yazılım    70 ÷ X
+                                                                             bileşenleri.
+                          ,sürüm yükseltmelerini planlamak ve
+                          organize etmek. Bu sistem ve programların         Ağ, depolama, kullanıcı
+                                                                             ayarları (elektronik)
+                          yönetiminin yapılmasını sağlamak.
+A- SİSTEMLERİN KURULUM,
+SÜRÜM YÜKSELTME,                                                            Talep yönetim sistemi
+GÜNCELLEME VE YÖNETİM     2-Görev alanındaki sistemlerle ilgili olarak      e-posta
+ÇALIŞMALARINI YAPMAK.      gelen talepleri birim amiri ile koordineli       Resmi yazı                   70 ÷ X
+                           olarak planlamak ve organize etmek.              Toplantı tutanağı
+
+                                                                            Bilgi notu
+                          3-Görev alanındaki sistemlerle ilgili kapasite    Rapor
+                           planlaması yapmak, gerekli ihtiyaçları           e-posta                      70 ÷ X
+                           gerekçeleri ile birlikte amirine bildirmek.      İhtiyaç analizi
+                                                                            Gerekçe raporu
+                          1-Görev alanındaki sistemlerin teknik
+                                                                            Sistem Çıktıları
+                          imkanlar dahilinde kesintisiz çalışabilmesi                                     70 ÷ X
+                                                                            Talep Yönetim Sistemi
+                          amacı ile yüksek erişilebilirliğini planlanmak
+                          ve organize etmek.                                e-posta
+                          2-Görev alanındaki sistemlerin düzenli
+                                                                            Sistem çıktıları
+                          olarak yedeklerinin alınabilmesi için
+                                                                            Talep yönetim sistemi
+B- SİSTEMLERİN            yedekleme birimi ile koordineli olarak                                          70 ÷ X
+                          çalışmak.                                         e-posta
+MİNİMUM KESİNTİYLE                                                          Resmi yazı
+ÇALIŞMASI İÇİN
+GEREKLİ ÇALIŞMA           3-Görev            alanındaki   sistemlerin       Sistem çıktıları
+YAPMAK.                   erişilebilirliklerinin ve performanslarının       İzleme ürünü çıktıları       70 ÷ X
+                          izlemek                                           e-posta
+                                                                            Sistem çıktıları
+                          4-Görev alanındaki sistemlerde meydana
+                          gelen arızalara müdahale etmek, sorunun
+                                                                            İzleme ürünü çıktıları       70 ÷ X
+                                                                            Toplantı tutanağı
+                          çözümü için gerekli planlamaları yapmak ve
+                          birim amirini bilgilendirmek.                     Bilgi notu
+                                                                            e-posta
+                          1-Görev alanındaki sistemlerde meydana
+                          gelebilecek arıza durumlarında problem            Bilgi notu
+                          nedeni ve çözümleri ile ilgili amirin talep       Rapor                        70 ÷ X
+C- SİSTEMLERLE İLGİLİ     ettiği raporları hazırlamak.                      e-posta
+DOKÜMANTASYON VE
+RAPORLAMA
+ÇALIŞMALARI YAPMAK        2-Görev alanındaki sistemlerle ilgili olarak,     Bilgi Notu
+                          amirin talep ettiği bilgi notlarını ve kurulum    Rapor                        70 ÷ X
+                          dokümanlarını hazırlamak.                         e-posta
+
+                          1-Görev alanındaki sistemlerle ilgili             Sistem çıktıları
+D- SİSTEMLERDE GÜVENLİK
+                          güvenlik     yamalarının     yüklenmesini         Toplantı tutanağı            70 ÷ X
+                          planlamak ve organize etmek.                      e-posta
+İLE İLGİLİ ÇALIŞMALAR
+                          2-Görev alanındaki sistemlerin gerekli
+YAPMAK                                                                      Sistem çıktıları
+                          güvenlik ayarlarını ve yetkilendirme                                            70 ÷ X
+                                                                            Toplantı tutanağı
+                          tasarımını güvenlik birimi ile koordineli
+                          olarak yapmak.                                    e-posta
+                                                                            Resmi yazı
+                          Görev alanı ile ilgili komisyonlarda görev
+E-OPERASYONEL                                                               e-posta
+                          almak.
+İŞLEMLER                  Teknik şartname ve idari sözleşme                 Toplantı tutanağı            70 ÷ X
+                          hazırlamak.                                       Şartname, sözleşme
+
+
+
+
+                                                                      23
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                           1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                           ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+                                           4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+Orta Derecede Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)              olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+                                           becerisi) (1-3 P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                           bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                           7.Karar Alma (Kendisini ilgilendiren konularda                karar   alabilme,    insiyatif
+                                           kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                         8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                 bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.           10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                           geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak, azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                      24
+                                                 HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                     EK-4
+                                           SÖZLEŞMELİ BİLİŞİM PERSONELİ (NETWORK UZMANI)
+                                            PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+
+SİCİL NO
+                                                                                                                                     DEĞERLENDİRME DÖNEMİ
+ADI SOYADI
+UNVANI
+                                                                                                                                      …./…./20… - …./…./20…
+BİRİMİ
+
+                                                                                                                                         MESLEKİ YETERLİLİK
+                                                                                                                      AĞIR.              (*) Toplamda verilebilecek
+                                                                                                 ÇIKTI                                   maksimum not “70” puanı
+           GÖREVLER                     GÖREVE İLİŞKİN İŞ VE İŞLEMLER                                                 ORT.
+                                                                                         (Kâğıt veya Elektronik)                                  geçemez
+                                                                                                                      PUAN
+                                                                                                                                       1.Amir    II. Amir    III. Amir
+
+
+                                      1- Mevcut ağ yükünü periyodik olarak kayıt                                         70 ÷ X
+                                                                                         Yük kayıtları
+A- AĞ YAPISIYLA İLGİLİ                 altına almak.
+ANALİZLER YAPMAK VE
+İHTİYAÇLARI BELİRLEMEK.               2-Tutulan kayıtlara istinaden zayi olan
+                                                                                         Kaynak değerlendirme
+                                       kaynakları    ihtiyaç   olan   yerlerde                                           70 ÷ X
+                                                                                         talepleri
+                                       değerlendirmek.
+                                                                                         -Gerekçe raporları -
+                                      3-Tutulan kayıtlara istinaden bir ileriye          Göreve ilişkin her türlü        70 ÷ X
+                                       yönelik ihtiyaçları belirlemek.                   yazılı veya elektronik
+                                                                                         kayıtlar
+                                                                                         -Tasarım planı
+                                      1-Ağ yapısında yapılacak değişiklikler,            -Analiz raporu                  70 ÷ X
+                                      güncellemeler veya yeni kurulumları                -Göreve ilişkin her türlü
+B- TALEP EDİLN AĞLARIN
+                                      tasarlamak ve uygulama planı oluşturmak.           yazılı veya elektronik
+TASARIM VE KURULUM
+                                                                                         kayıtlar
+İŞLEMLERİNİ YÜRÜTMEK
+                                                                                         -Göreve ilişkin her türlü
+                                      2- İlgili ağ bileşenlerinin kurulumunu ve
+                                                                                         yazılı veya elektronik          70 ÷ X
+                                      konfigürasyonunu gerçekleştirmek.
+                                                                                         kayıtlar
+                                      1- Kurum ağının siber saldırılara karşı            -Tehdit değerlendirme
+C- AĞ GÜVENLİĞİNİ                     korunması için gerekli önlemleri almak.            raporları                       70 ÷ X
+SAĞLAMAK
+                                                                                         -Göreve ilişkin her türlü
+                                      2- Kurumun dışarı ile veri alışverişinde                                           70 ÷ X
+                                                                                         yazılı ve elektronik
+                                      öngörülmüş güvenli bağlantıları sağlamak.
+                                                                                         kayıtlar
+
+                                      1- İlgili araçlarla kurum ağını sürekli olarak     -Arıza müdahale
+                                      gözlemlemek         ve    kesintisiz   hizmet      tutanakları                     70 ÷ X
+                                      verilmesini sağlamak..                             -Bilgi notu
+                                      2-Kurum ağında iletişimin yavaşlaması veya
+E-AĞ BAKIMI, MÜDAHALE VE                                                                 -Müdahale planı
+                                      tamamen           aksamasını       durumlarını
+VERİMLİLİĞİ SAĞLAMAK                                                                     -Göreve ilişkin her türlü
+                                      kapsayacak senaryolar geliştirmek ve                                               70 ÷ X
+                                                                                         yazılı ve elektronik
+                                      senaryolara istinaden müdahale planı
+                                                                                         kayıtlar
+                                      hazırlamak .
+                                      3-Kurum ağında iletişimin yavaşlaması veya
+                                      tamamen aksaması durumunda müdahale                Gerekçe raporları               70 ÷ X
+                                      planlarını uygulayarak en kısa sürede              Elektronik kayıtlar
+                                      yeniden iletişimi sağlamak..
+                                                                                          Resmi yazı
+                                      Görev alanı ile ilgili komisyonlarda görev
+F-OPERASYONEL                         almak.
+                                                                                          e-posta                       70 ÷X
+İŞLEMLER                              Teknik şartname ve idari sözleşme                   Toplantı tutanağı
+                                      hazırlamak.                                         Şartname, sözleşme
+
+
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+
+                                      1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                      sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                      2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+DAVRANIŞSAL YETERLİLİK                edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)        3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+İyi Derecede Yeterli (3 Puan)         bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+                                      4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                      takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3
+                                      P.)                                       25
+                                         5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                         paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                         6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                         beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                          7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                        8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                         9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik   derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.          10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                          geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                          becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                    GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak; gerçekleşen
+her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde bulundurularak, azami
+verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                  26
+                                     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                     EK-5
+                                  SÖZLEŞMELİ BİLİŞİM PERSONELİ (İŞ ANALİSTİ)
+                                PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+SİCİL NO
+ADI SOYADI                                                                                                   DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                               …./…/20… - …./…/20…
+BİRİMİ
+
+
+                                                                                                                   MESLEKİ YETERLİLİK
+                                                                                                     AĞIR.         (*) Toplamda verilebilecek
+                                  GÖREVE İLİŞKİN İŞ VE                             ÇIKTI
+         GÖREVLER                                                                                    ORT.          maksimum not “70” puanı
+                                      İŞLEMLER                             (Kâğıt veya Elektronik)
+                                                                                                     PUAN                   geçemez
+                                                                                                                 1.Amir    II. Amir    III. Amir
+
+
+                           Veri tipi, doğrulama ve kısıt analizini                                    70 ÷ X
+                                                                           Kısıtlı veri listesi
+                           yapmak.
+
+
+                           Uygulamalar arası etkileşim-ilişki analizini    Harici ilişki-etkileşim
+                                                                                                      70 ÷ X
+A – ANALİZ İŞLEMLERİ       oluşturmak/belirlemek.                          listesi
+
+
+                                                                           Yazılım fonksiyon
+                           Fonksiyonel gereksinim analizini yapmak.                                   70 ÷ X
+                                                                           listesi
+
+
+                                                                           BT-P-13 Güvenlik
+                           Güvenlik gereksinim analizini yapmak.                                      70 ÷ X
+                                                                           gereksinimleri formu
+
+
+                           Kullanım senaryoları diyagramlarını             Kullanım senaryoları
+                                                                                                      70 ÷ X
+                           oluşturmak.                                     diyagramı
+
+
+                           Veri tabanı tasarımını oluşturmak.              Varlık ilişki
+                                                                                                      70 ÷ X
+                                                                           diyagramı
+
+
+B – TASARIM İŞLEMLERİ                                                                                 70 ÷ X
+                           Veri akış diyagramını oluşturmak.               Veri akış diyagramı
+
+
+
+                                                                           Sınıf / nesne
+                           Sınıf /nesne diyagramlarını oluşturmak.                                    70 ÷ X
+                                                                           diyagramı
+
+
+                           İş/Süreç akış diyagramını oluşturmak.           Akış diyagramı             70 ÷ X
+
+
+                                                                           A ve B
+                           Geliştirilen ürünün üzerine gelen yeni
+                                                                           Bölümlerinden gelen        70 ÷ X
+                           değişiklikleri tasarıma yansıtmak.
+C - GELİŞTİRME İŞLEMLERİ                                                   değişikliğin çıktısı
+
+                           Geliştirilen yazılımın tasarıma uygun şekilde
+                                                                           Kontrol listesi            70 ÷ X
+                           geliştirilmesini kontrol etmek.
+
+
+D – TEST İŞLEMLERİ
+                                                                                                      70 ÷ X
+                                                                           Test senaryosu
+                           Test senaryolarını oluşturmak
+                                                                           dokümanı
+
+
+                                                                            Resmi yazı
+                           Görev alanı ile ilgili komisyonlarda görev
+E-OPERASYONEL                                                               e-posta
+                           almak.
+İŞLEMLER                                                                    Toplantı tutanağı
+                           Teknik şartname ve idari sözleşme                                          70 ÷ X
+                           hazırlamak.                                      Şartname, sözleşme
+
+
+
+
+                                                                     27
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+
+                                           1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                           ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)                          4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+Orta Derecede Yeterli (2 Puan)             olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)              becerisi) (1-3 P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                           bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                           7.Karar Alma (Kendisini ilgilendiren konularda               karar   alabilme,   insiyatif
+                                           kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+                                           8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+ Yetersiz (1 Puan)
+                                           bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Der. Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek               10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum not “30”puanı geçemez.            geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                   GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+
+          İMZA
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak, azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                     28
+                                                HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                                  EK-6
+                                            SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ TABANI)
+                                          PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+SİCİL NO
+ADI SOYADI                                                                                                                       DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                                      …./…./20… - …./…./20…
+BİRİMİ
+
+
+                                                                                                                                             MESLEKİ YETERLİLİK
+                                                                                                     ÇIKTI                                   (*) Toplamda verilebilecek
+                                                                                                                           AĞIR.
+                                                  GÖREVE İLİŞKİN İŞ VE                                                                       maksimum not “70” puanı
+            GÖREVLER                                                                               (Kâğıt veya             ORT.
+                                                      İŞLEMLER                                                             PUAN
+                                                                                                                                                      geçemez.
+                                                                                                   Elektronik)
+                                                                                                                                           1.Amir   II. Amir    III. Amir
+
+A- VERİ TABANI TASARIMINI                                                                      Toplantı tutanağı
+                                           Yazılım çözümlerine ilişkin veri tabanı                                           70 ÷ X
+YAPMAK                                                                                         ER diyagramları
+                                           tasarımları yapmak ve gerçekleştirmek
+                                                                                               Tasarım planı
+
+
+B- VERİ TABANI YÖNETİM                                                                         Toplantı tutanağı
+                                           İhtiyaçları karşılayacak VTYS kurulumları
+SİSTEMLERİNİN KURULUMUNU                                                                       Sistem çıktıları             70 ÷ X
+                                           gerçekleştirmek.
+YAPMAK                                                                                         Talep Yönetimi
+
+
+                                           Veri tabanı erişim, yedekleme ve güvenlik
+C- VERİ TABANI ERİŞİM,                                                                                                       70 ÷ X
+                                           politikalarını belirleyerek dokümante etmek.
+YEDEKLEME VE GÜVENLİK                                                                         Standart dokümanlar
+                                           dokümante edilen kuralları uygulamak,
+POLİTİKALARINI BELİRLEMEK
+                                           mevcut uygulamaların ilgili kurallara              Toplantı tutanağı
+VE UYGULAMAK
+                                           uygunluğunu denetlemek.
+
+
+                                                                                              Sistem çıktıları
+                                           Mevcut veri tabanlarının bakımı ve                 Bilgi notları                 70 ÷ X
+D-VERİ TABANI BAKIM,                       optimizasyonunu gerçekleştirmek. Kullanıcı         Rapor
+KURTARMA VE KAPASİTE                       hatası sonucu zarar gören verileri kurtarmak       İhtiyaç analiz raporu
+PLANLAMASINI YAPMAK                        veya geri getirmek. İleriye yönelik kapasite       Gerekçe raporu
+                                           ihtiyaçlarını planlamak.
+
+                                                                                              Sistem çıktıları
+E-GÖREV ALANINDAKİ                         Görev alanındaki sistemlerde meydana               Bilgi notları
+SİSTEMLERLE İLGİLİ                         gelebilecek arıza durumlarında problem             Rapor                         70 ÷ X
+DOKÜMANTASYON VE                           nedeni ve çözümleriyle ilgili, performans          İhtiyaç analiz raporu
+RAPORLAMA ÇALIŞMALARI                      raporları, kurulum dokümanları, talep edilen       Gerekçe raporu
+YAPMAK                                     bilgi notları ve raporları hazırlamak.
+
+                                                                                              Resmi yazı
+                                           Görev alanı ile ilgili komisyonlarda görev
+F-OPERASYONEL İŞLEMLER                     almak.
+                                                                                              e-posta                       70 ÷ X
+                                           Teknik şartname ve idari sözleşme                  Toplantı tutanağı
+                                           hazırlamak.                                        Şartname, sözleşme
+
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                        1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                        sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+DAVRANIŞSAL YETERLİLİK
+Yetersiz (1 Puan)                          3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda başarılı
+Orta Derecede Yeterli (2 Puan)             bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                           4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+                                           takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3 P)
+
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                           paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+
+
+                                                                                    29
+                                            6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                            beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+                                            7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+                                            becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+                                            8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak bitirebilme
+ Yetersiz (1 Puan)
+                                            becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Der. Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)
+                                            9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik      derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek maksimum       10.Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+not “30”puanı geçemez.                      geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                            becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                          GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde bulundurularak,
+azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                     30
+                                     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                    EK-7
+                                SÖZLEŞMELİ BİLİŞİM PERSONELİ (İŞ ZEKÂSI UZMANI)
+                                PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+SİCİL NO
+ADI SOYADI                                                                                                     DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                    …./…./20... - …./…./20...
+BİRİMİ
+
+
+
+                                                                                                           AĞIR.         MESLEKİ YETERLİLİK
+                                   GÖREVE İLİŞKİN İŞ VE                                ÇIKTI                              (*) Toplamda verilebilecek
+         GÖREVLER                                                                                          ORT.
+                                       İŞLEMLER                                (Kâğıt veya Elektronik)
+                                                                                                           PUAN       maksimum not “70” puanı geçemez
+                                                                                                                       1.Amir    II. Amir    III. Amir
+                            1.Veri taleplerini organize etmek, mevcut
+                             veri ambarı göz önünde bulundurularak                                         70 ÷ X
+A-VERİ AMBARI VERİ                                                           Tablo listeleri
+                             gerekli tabloları belirlemek ve veri ambarına
+MODELLERİ OLUŞTURMAK         alınması için koordinasyon sağlamak.
+                            2.Veri talepleri doğrultusunda modeller
+                                                                             Kavramsal           tasarım
+                             oluşturmak       ve      oluşan     modeller                                  70 ÷ X
+                                                                             dokümanları
+                             doğrultusunda veri tabloları oluşturmak
+                            1.Rapor taleplerini değerlendirmek ve ilgili
+                                                                             Analiz dokümanları
+B-RAPORLAMA ÇALIŞMALARI     birimler ile görüşerek, mevzuat çerçevesinde                                   70 ÷ X
+                                                                             toplantı tutanakları
+                            veri analiz çalışması yapmak.
+İÇİN HAZIRLIK YAPMAK
+                            2.Belirlenen iş yükü doğrultusunda rapor
+                            geliştirme faaliyetlerini planlamak, organize    İş planları ve raporlar       70 ÷ X
+                            etmek ve gerçekleştirilmesini sağlamak
+                            1.Veri talepleri doğrultusunda rapor
+                            tasarımına uygun özet tablolar / referans        Veri modelleri, tablolar      70 ÷ X
+                            tabloları hazırlamak.
+                            2.Talep edilen rapor çalışması için rapor
+                            kataloğunda gerekli işlemlerin yapılarak,        Üretilen raporlar             70 ÷ X
+C-RAPOR HAZIRLAMAK,         rapor alt yapısını oluşturmak.
+MEVCUT RAPORLARIN
+BAKIMI VE                   3.Talep edilen rapor için interaktif ara yüz                                   70 ÷ X
+GÜNCELLENMESİNİ                                                              Üretilen raporlar
+                            hazırlamak ve kullanıma sunmak.
+SAĞLAMAK
+                            4.Mevcut      raporların     güncellenmesini
+                                                                             Güncellenen raporlar
+                            sağlamak.                                                                      70 ÷ X
+                            5..Özet raporlar hazırlamak ve kullanıma
+                                                                             Üretilen raporlar
+                            sunmak.                                                                        70 ÷ X
+                            1.Rapor        geliştirme        çalışmaların
+                                                                             Üretilen raporların web
+                            tamamlanması sonucunda raporun test
+                                                                             adresleri                     70 ÷ X
+D-GELİŞTİRİLEN RAPORLARIN   ortamına açılmasını sağlamak.
+TESTE AÇILMASI VE           2.Test ortamında ilgili birimlerce kontrol
+UYGUNLUĞUNUN TESPİTİ İLE    edilen rapor ile ilgili, gerekli durumlarda      Üretilen raporların web       70 ÷ X
+KULLANIMA SUNULMASINI       güncelleme ve sorun giderme çalışmaları          adresleri
+                            yapmak.
+SAĞLAMAK
+                            3.Test edilerek kabul edilen raporların
+                            performanslarını iyileştirmek ve kullanıma       Üretilen raporların web       70 ÷ X
+                            sunulmasını sağlamak.                            adresleri
+
+E- RAPORLAMA VE             1.Rapor talepleri ve yönetimi ile rapor
+OPERASYONEL KONULARDA       sunucularına entegrasyon için gerekli                                          70 ÷ X
+                                                                             Yazılım
+YAZILIM VE TEKNİK DESTEK    yazılımları kullanmak, kullanıma sunmak ve
+SAĞLAMAK                    destek sağlamak.
+                            1.Raporların altyapı ve ara yüzleri ile ilgili   Standardizasyon
+                            standardizasyon çalışmaları yapmak.              Dokümanları                   70 ÷ X
+F-VERİ SUNUMU İLE İLGİLİ
+ANALİZ, STANDARDİZASYON     2.Veri sunumu ile ilgili entegrasyon
+                                                                             Toplantı tutanakları
+VE İYİLEŞTİRME              çalışmaları yapmak.                                                            70 ÷ X
+ÇALIŞMALARI YAPMAK          3.Rapor kaynak verisinin eksiklik ve hata
+                                                                             Toplantı tutanakları ve
+                            tespitlerini   yapmak,    veri  iyileştirme                                    70 ÷ X
+                                                                             örnek veri dokümanı
+                            çalışmalarını koordine etmek.
+
+
+
+                                                                     31
+                                           1.Raporlar ile ilgili kullanım dokümanlarını
+                                                                                               Kullanıcı dokümanları
+G. TEKNİK DOKÜMAN VE                       oluşturmak.                                                                       70 ÷ X
+SUNUM HAZIRLAMAK                           2.Süreçler ile ilgili gerekli standardizasyon       Standardizasyon
+                                           ve teknik dokümantasyonu oluşturmak.                dokümanları                   70 ÷ X
+
+                                            1.SQL kullanarak kurum içi ve kurum
+                                                                                                                             70 ÷ X
+                                            dışından talep edilen bilgilerin ilgili kişilere   Resmi yazı
+                                            ulaştırılmasını sağlamak
+J. İSTATİSTİKİ VERİ ÜRETMEK
+                                            1.Personel istatistikleri, kuruma ait aylık ve
+                                                                                                                             70 ÷X
+                                            yıllık istatistik bültenlerini hazırlamak          Resmi yazı
+
+
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                           1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                           ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)             4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                           olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)
+                                           becerisi) (1-3 P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                           bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                           7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif
+                                           kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                         8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                 bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.           10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                           geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                     GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak, azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                       32
+                                        HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                       EK-8
+                           SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ AMBARI SİSTEM YÖNETİCİSİ)
+                                  PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+SİCİL NO
+                                                                                                                            DEĞERLENDİRME
+ADI SOYADI
+                                                                                                                               DÖNEMİ
+UNVANI
+                                                                                                                          …./…./20… - …./…./20…
+BİRİMİ
+
+
+                                                                                                                            MESLEKİ YETERLİLİK
+                                                                                                                 AĞIR.      (*) Toplamda verilebilecek
+                                                                                            ÇIKTI                           maksimum not “70” puanı
+         GÖREVLER             GÖREVE İLİŞKİN İŞ VE İŞLEMLER                          (Kâğıt veya Elektronik)
+                                                                                                                 ORT.
+                                                                                                                 PUAN                geçemez
+                                                                                                                          1.Amir    II. Amir    III. Amir
+
+                                                                                  Mevcut      çalışan,    yeni
+                                                                                                                 70 ÷ X
+                              1-Veri ambarına verinin akışını tasarlamak.         tasarlanan,      güncellenen
+                                                                                  prosedüreler.
+
+                                                                                  Mevcut      çalışan,   yeni
+                              2-Veri ambarında verinin akış aşamalarını
+                                                                                  tasarlanan,     güncellenen
+                               tasarlamak.
+A- VERİ AMBARI                                                                    prosedüreler.                  70 ÷ X
+MİMARİSİNİ TANIMLAMAK         3-Veri ambarı için meta data standartları
+                                                                                  Tablo yapıları.
+                               belirlemek.
+                                                                                                                 70 ÷ X
+                                                                                  Kullanılan ürünler ve loğ
+                              4-Sistemin güvenlik ihtiyaçlarını tasarlamak.
+                                                                                  kayıtları.                     70 ÷ X
+                                                                                  Mevcut      çalışan,   yeni
+                              5-Diğer sistemlere verinin taşınması için           tasarlanan,     güncellenen
+                               tasarım yapmak.                                    prosedüreler ve tasarım        70 ÷ X
+                                                                                  dokümanları
+                              1- Veri akışı için ek yazılım yazmak.
+                                                                                  Yazılım kodları
+B- VERİ AKIŞ İŞLEMLERİNİ                                                                                         70 ÷ X
+GERÇEKLEŞTİRMEK
+                              2-Rapor geliştiricilerin veri modelini gerektiği                                   70 ÷ X
+                                                                                  Üretilen raporlar
+                              gibi kullanmasını sağlamak.
+
+
+                              1-Veri akışının veri kaybı olmadan akmasını         Veri kalitesi       prosedür
+                              sağlama üzere tasarım yapmak.                       sonuçları
+                                                                                                                 70 ÷ X
+C- VERİ KALİTESİNİ
+                                                                                  Veri    kalitesi     kontrol
+GERÇEKLEŞTİRMEK               2-Veri kontrol tasarımını gerçekleştirmek.
+                                                                                  prosedürü
+                                                                                                                 70 ÷ X
+                              3-Veri kontrol programını test etmek ve
+                                                                                  Veri kalitesi kontrolü
+                              geliştirmek.                                                                       70 ÷ X
+D- SİSTEMİN BAKIMINI          1-Kaynakların yeterliliğini takip etmek ve
+                                                                                  Kaynakların kontrolü
+YAPMAK                        tasarruflu kullanmak.                                                              70 ÷ X
+                              1-Prosedürel işlerin iyileştirilmesi için çalışma
+                              yapmak.                                             Güncellenen prosedürler
+                                                                                                                 70 ÷ X
+E- SİSTEM İYİLEŞTİRME
+ÇALIŞMALARI YAPMAK
+                              2-Veri ambarı ile alakalı şartnameleri                                             70 ÷ X
+                                                                                  Şartname dokümanı
+                              hazırlamak.
+
+
+                              1-Sorumluluğu altındaki araçların
+                                                                                  Yetki kayıtları
+                              kullanıcılarını yetkilendirmek.
+                                                                                                                 70 ÷ X
+
+                              2-Verinin akış aşamasında rapor geliştiricilerin
+F- BİLGİ GÜVENLİĞİ                                                                Log kayıtları
+                              yaptıkları işleri kaydetmek.
+TEDBİRLERİNİ ALMAK                                                                                               70 ÷ X
+                              3-Rapor geliştiricilerin gerektiğinde kaynağa       Talep yönetim        sistemi
+                              ulaşabilmesi için kullanıcı yetkilerini istemek.    kayıtları                      70 ÷ X
+
+                                                                                  Talep yönetim        sistemi
+                              4-Yetki işlemlerini kaydetmek.
+                                                                                  kayıtları
+                                                                                                                 70 ÷ X
+
+
+                                                                            33
+                                                                                             Resmi yazı
+G-OPERASYONEL                            Görev alanı ile ilgili komisyonlarda görev          e-posta                        70 ÷ X
+İŞLEMLER                                 almak.                                              Toplantı tutanağı
+                                         Teknik şartname ve idari sözleşme hazırlamak.       Şartname, sözleşme
+
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                       1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler ve
+                                       sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+                                           4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel olayları
+Orta Derecede Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)              takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme becerisi) (1-3
+                                           P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma, bilgiyi
+                                           paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                            7.Karar Alma (Kendisini ilgilendiren konularda karar alabilme, insiyatif kullanabilme
+                                            becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+ Yetersiz (1 Puan)                          8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+Orta Der. Yeterli (2 Puan)                  bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek
+maksimum not “30”puanı geçemez.           10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+                                           geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                                 GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde bulundurularak,
+azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                     34
+                                     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ                                                                               EK-9
+                         SÖZLEŞMELİ BİLİŞİM PERSONELİ (VERİ AMBARI VERİ TABANI YÖNETİCİSİ)
+                                PERFORMANS ÖLÇME VE DEĞERLENDİRME FORMU
+
+
+
+
+SİCİL NO
+ADI SOYADI                                                                                                         DEĞERLENDİRME DÖNEMİ
+UNVANI
+                                                                                                                         …./…./20… - …./…./20…
+BİRİMİ
+
+
+                                                                                                                              MESLEKİ YETERLİLİK
+                                                                                                               AĞIR.          (*) Toplamda verilebilecek
+                                GÖREVE İLİŞKİN İŞ VE                                     ÇIKTI                                maksimum not “70” puanı
+         GÖREVLER                                                                                              ORT.
+                                    İŞLEMLER                                      (Kâğıt veya Elektronik)
+                                                                                                               PUAN                    geçemez
+                                                                                                                            1.Amir    II. Amir    III. Amir
+
+
+                         1-Veri tabanı yazılımları ile ilgili kurulum          Oracle       veri     tabanı     70 ÷ X
+                          çalışmalarını yürütmek.                              yazılımları (elektronik)
+
+A-KURULUM FAALİYETLERİ
+                                                                               Oracle       veri     tabanı
+                         2-Konfigürasyon ve ayarlama işlemlerini               yazılımlarının performansı,      70 ÷ X
+                          yürütmek.                                            ağ, depolama ve kullanıcı
+                                                                               ayarları (elektronik)
+                         1-Veri tabanı tasarım             ve     planlama     Fiziksel ve mantıksal veri
+                         çalışmalarını yapmak.                                 tabanı tasarımı (elektronik)     70 ÷ X
+                                                                               Aktif-aktif veya aktif-pasif
+B- VERİ TABANI YÖNETİM   2-Hizmet    sürekliliğiyle     ilgili   çalışmalar    sunucu, disk ve ağ               70 ÷ X
+FAALİYETLERİ             yapmak.                                               bileşenleri         tasarımı.
+                                                                               (elektronik)
+                         3-Veri tabanı ile ilgili olası sorunların
+                                                                               Veri tabanı optimum süresi
+                         çözümünü sağlamak.                                                                     70 ÷ X
+                                                                               ve performansı.
+                                                                               Yedekleme          uygulama
+                         1-Veri tabanı      yedekleme        çalışmalarını
+                         yapmak.
+                                                                               esasına göre      yedeklerin     70 ÷ X
+                                                                               alınması.
+C-YEDEKLEME
+FAALİYETLERİ                                                                   Yedekleme politikalarının
+                         2-Veri tabanı yedekleme yönetimi                      belirlenmesi,  politikanın       70 ÷ X
+                         çalışmalarını yapmak..                                yedekleme       uygulama
+                                                                               esasına uyumu.
+                                                                               Güncel       veri    ambarı
+                         1-Veri tabanı güvenliğiyle ilgili çalışmaları
+                         yapmak.
+                                                                               güvenliği ve yönetimi            70 ÷ X
+                                                                               uygulama esasları.
+D-GÜVENLİK İLE İLGİLİ
+FAALİYETLER                                                                    İlgili güvenlik birimi ile
+                         2-Veri tabanı güvenliğini artırıcı çalışmalar         işbirliği içerisinde güncel      70 ÷ X
+                         yapmak.                                               güvenlik           önlemleri
+                                                                               kayıtları.(Elektronik)
+                                                                               Güncel       veri    ambarı
+E-. KURALLAR VE          1-Veri tabanı kullanıcı ve uygulamalarından
+                                                                               güvenliği ve yönetimi            70 ÷ X
+YÖNTEMLERİN              gelen taleplerin karşılanmasını sağlamak.
+                                                                               uygulama esasları.
+BELİRLENMESI VE
+UYGULANMASI              2-Veri tabanı bütünlüğü ve performans                 Alınan yedekler, arşiv
+                         çalışmalarını yapmak.                                 loğlar ve redo loğlar.           70 ÷ X
+
+                         1-Felaket kurtarma ile ilgili çalışmalar              Backup/restore işlemlerine
+                         yapmak.                                               ilişkin kayıtlar.(elektronik)    70 ÷ X
+F- FELAKET KURTARMAYA
+YÖNELİK FAALİYETLER      2-Veri tabanı arşiv          yedekleriyle    ilgili                                    70 ÷ X
+                                                                               Arşiv loğları.
+                         çalışmalar yapmak.
+
+                         Görev alanındaki sistemlerde meydana
+                         gelebilecek arıza durumlarında problem                 Sistem çıktıları
+                         nedeni ve çözümleriyle ilgili, performans
+                                                                                Bilgi notları
+G-BİLGİLENDİRME VE       raporları, kurulum dokümanları, talep edilen                                           70 ÷ X
+                                                                                Rapor
+RAPORLAMA                bilgi notları ve raporları hazırlamak ve
+                         gerekli ihtiyaçları gerekçeleri ile birlikte           İhtiyaç analiz raporu
+                         amirine bildirmek.                                     Gerekçe raporu
+
+
+
+
+                                                                          35
+                                         1-Veri tabanı sistemleriyle ilgili teknik        Veri tabanına bağlanan            70 ÷ X
+H-DİĞER BİRİMLERLE
+                                         destek sağlamak.                                 uygulama ve personelin
+İLİŞKİLER
+                                                                                          teknik sorunlarının çözümü
+                                                                                           Resmi yazı
+I-OPERASYONEL                            Görev alanı ile ilgili komisyonlarda görev
+                                         almak. Teknik şartname ve idari sözleşme
+                                                                                           e-posta,toplantı tutanağı       70 ÷ X
+İŞLEMLER                                                                                   Şartname, sözleşme
+                                         hazırlamak.
+
+Mesleki Yeterlilik Notları Ortalaması :
+( X : Değerlendirme dönemi içinde, personel tarafından fiilen yapılan görev sayısına göre belirlenecek ağırlıklı ortalama
+puanını ifade eder.)
+                                           1-İnsani İlişkileri (Üstleri, astları, çalışma arkadaşları ve çevresiyle uyumlu ilişkiler
+                                           ve sağlıklı iletişim kurma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           2.Organizasyon Becerisi (Verilen görevi organize edebilme ve sonuçlarını takip
+                                           edebilme becerisi.) (Ağ. Ort. Puanı: 1-3)
+
+                                           3.Öğrenmeye Yatkın Olma (Hizmet içi eğitimlerde ve görev aldığı çalışmalarda
+DAVRANIŞSAL YETERLİLİK                     başarılı bir performans gösterebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Yetersiz (1 Puan)
+Orta Derecede Yeterli (2 Puan)             4.Girişimcilik ve Yeniliklere Yatkın Olma (Yaptığı işlerle ilgili olarak güncel
+                                           olayları takip edebilme, yönetime işlerin işleyişiyle ilgili yeni öneriler sunabilme
+İyi Derecede Yeterli (3 Puan)
+                                           becerisi) (1-3 P.)
+                                           5.Takım Çalışması (Takım arkadaşlarıyla işbirliği ve dayanışma içinde çalışma,
+                                           bilgiyi paylaşma becerisi) (Ağ. Ort. Puanı: 1-3)
+                                           6. Hizmet odaklılık: (Görevini diğer birimlerdeki çalışanlar ile toplumun arzu ve
+                                           beklentileri doğrultusunda yerine getirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+
+                                            7.Karar Alma (Kendisini ilgilendiren konularda              karar   alabilme,   insiyatif
+                                            kullanabilme becerisi) (Ağ. Ort. Puanı: 1-3)
+BİREYSEL YETERLİLİK
+                                            8.Programlı Çalışma (Çalışmalarını önem ve aciliyetine göre sıraya koyarak
+ Yetersiz (1 Puan)
+                                            bitirebilme becerisi) (Ağ. Ort. Puanı: 1-3)
+Orta Der. Yeterli (2 Puan)
+İyi Derecede Yeterli (3 Puan)
+                                           9.İşe Bağlılığı (Yaptığı işi benimseyerek yapabilme becerisi, işe ve kuruma bağlılık
+(*) Davranışsal ve bireysel yeterlilik     derecesi) (Ağ. Ort. Puanı: 1-3)
+için toplamda verilebilecek               10. Sorumluluk alma: (Göreviyle ilgili; fikri beyan etme, ileriye yönelik öneriler
+maksimum not “30”puanı geçemez.            geliştirebilme ve Kurum’un yatırım ihtiyaçlarını gerekçeleri ile birlikte sunabilme
+                                           becerisi) (Ağ. Ort. Puanı: 1-3)
+
+
+Davranışsal ve Bireysel Yeterlilik Amirlerin Notları Ortalaması
+
+                                                                                               GENEL TOPLAM PUANI
+
+          ADI- SOYADI
+AMİRLER
+
+
+
+
+          UNVANI
+
+          TARİH
+
+          İMZA
+
+(*) Personelin iş/görev tanımlarında yer alan ve değerlendirme dönemi içerisinde kendisine verilmeyen mesleki yeterlilik kapsamındaki görevlere ilişkin
+bölümü/bölümlerinin “1. ve 2. amir sütununa” görev verilmedi ifadesi yazılarak (not verilmez) boş bırakılır. Verilen görevlere ilişkin iş ve işlemler mesleki yeterlilik
+yönüyle değerlendirilirken; değerlendirme dönemi içerisinde yapılan görevlerin tamamı için verilebilecek maksimum yetmiş toplam puan kriteri esas alınarak;
+gerçekleşen her bir işin (bir ve/veya birden fazla) karmaşıklığı ve niteliği, aktivitelerin benzerliği ile işin kurum açısından risk seviye derecesi göz önünde
+bulundurularak, azami verilebilecek notlar gerçekleşen görev sayısına orantılı olarak dağıtılır ve sözleşmeli bilişim personelinin toplam mesleki yeterlilik puanı belirlenir.
+
+
+
+
+                                                                                     36
+

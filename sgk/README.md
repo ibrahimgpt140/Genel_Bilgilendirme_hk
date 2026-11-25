@@ -6,7 +6,7 @@ SGK kanunları `kanunlar/tum/` altında madde madde bulunur: 5510, 506, 1479, 29
 
 **Çift kontrol (25.11.2026):** her metin (1) mevzuat.gov.tr listesindeki resmî başlıkla başlıyor mu, (2) mevzuat.gov.tr'nin ayrıca yayımladığı PDF veya Word sürümüyle kelime düzeyinde örtüşüyor mu diye denetlendi. 60 metnin 60'ı geçti; en düşük örtüşme %97,2. Tablodaki son sütun karşılaştırılan biçimi ve örtüşme oranını gösterir.
 
-**SGK genelgeleri bu klasörde yok:** SGK genelgelerini kendi sitesinde değil KAYSİS Kurumsal Mevzuat Sisteminde (kms.kaysis.gov.tr) yayımlıyor; bu site depoyu güncelleyen bulut ortamından erişilemiyor.
+**SGK genelgeleri, genel yazıları ve diğer kurum düzenlemeleri:** `kaysis/` klasöründe — SGK'nın KAYSİS'teki (kms.kaysis.gov.tr) 1.001 mevzuatının tamamı (401 genelge, 347 genel yazı, 77 tebliğ, 56 yönetmelik, 37 usul ve esas, 18 yönerge, 30 uluslararası antlaşma ve diğerleri), 25.11.2026 itibarıyla. Ayrıntı ve çift kontrol sonuçları: `kaysis/README.md`. KAYSİS yurt dışından erişime kapalı olduğundan bu klasör günlük bulut görevinde güncellenmez; kullanıcının bilgisayarındaki tarayıcıyla yenilenir.
 
 ## Tebliğler
 

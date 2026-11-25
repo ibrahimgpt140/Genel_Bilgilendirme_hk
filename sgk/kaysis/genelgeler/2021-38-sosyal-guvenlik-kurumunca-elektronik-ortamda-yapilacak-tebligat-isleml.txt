@@ -1,0 +1,410 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/183961
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2021/38
+ADI: SOSYAL GÜVENLİK KURUMUNCA ELEKTRONİK ORTAMDA YAPILACAK TEBLİGAT İŞLEMLERİNE İLİŞKİN 10/11/2021 TARİHLİ VE 2021/38 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a4614b1923b9cc33d4c238ffaddc658deca0b8b63be85977d9330a5760e7925f
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+| T.C,
+| SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Sayı : E-51592363- 010. 06.0(1-3430921$
+Konu : Sosyal Güvenlik Kurumunca Elektronik (oni/2021
+Ortamda Yapılacak Tebligat İşlemleri
+GENELGE
+1921/36
+
+1-Genel Açıklamalar
+
+Bilindiği üzere 24.9.2021 tarihli ve 31608 sayılı Resmi Gazete'de yayımlanan “Sosyal Güvenlik
+Kurumunca Elektronik Ortamda Yapılacak Tebligata İlişkin” Yönetmelik (Bundan sonra bu ibare.
+genelgede yönetmelik olarak anılacaktır.) 1.10.2021 tarihinde yürürlüğe girmiştir.
+
+Söz konusu yönetmeliğin “Kullanılacak elektronik tebligat sisteminin belirlenmesi” başlıklı 12
+nci maddesinde; “Kurum, elektronik orlamda yapılacak tebligatla ilgili her türlü teknik altyapıyı kurup
+işletebilir veya elektronik tebligat yapmaya yetkili Kurumlarla yapılacak protokol hükümleri
+çerçevesinde elektronik tebligat yaptırtabilir, elektronik ortamda yapılacak tebligatla ilgili başka
+kurumlarca kurulmuş olan teknik altyapıyı ilgili mevzuatı doğrultusunda kullanabilir.”
+
+Hükmü yer almaktadır.
+
+Bu hükme göre, Sosyal Güvenlik Kurumunca elektronik ortamda yapılacak tebligat işlemleri
+Kurum tarafından kurulan teknik altyapı üzerinden yapılacak olup elektronik ortamda yapılacak tebligat
+işlemlerinin yapılmasında uyulacak usul ve esaslar aşağıda açıklanmıştır.
+
+2-Elektronik Tebligat Adresi Alacak ve Kullanacak Olan Muhataplar
+
+2-1- Elektronik Tebligat Adresi Almak Zorunda Olan Muhataplar
+
+Yönetmeliğin yürürlüğe girdiği 1.10.2021 tarihi ve sonrasında 5510 sayılı Sosyal Sigortalar ve
+Genel Sağlık Sigortası Kanunu'nun 4 üncü maddesinin birinci fıkrasının (a) ve (c) bentlerine göre
+sigortalı sayılan kişileri çalıştıran gerçek veya tüzel kişiler ile tüzel kişiliği olmayan kurum ve kuruluşlar
+elektronik tebligat adresi almak ve elektronik sistemi kullanmak zorundadırlar.
+
+Bu bakımdan;
+
+-1.10.2021 tarihinden önce 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (c)
+bentlerine göre sigortalı sayılan kişileri çalıştırmaya başlayıp yönetmeliğin yürürlüğe girdiği 1.10.2021
+tarihi ve sonrasında sigortalı çalıştırmaya devam eden,
+
+-1.10.2021 tarihinden sonra ilk defa 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+ve (c) bentlerine göre sigortalı sayılan kişileri çalıştırmaya başlayan,
+
+gerçek veya lüzel kişi işverenler ile tüzel kişiliği olmayan işverenler elektronik tebligat adresi
+almak ve elektronik sistemi kullanmak zorundadırlar,
+<>» <> Bu belge e ale amizalanmuştur
+Mithatpaşa Cad No:7 Sıhhiye Çankaya/Ankarı Bilgi için; İbrahim ÖZÇELİK
+Telefon No: 01312) 4587779 Faks No: 0 (312)432123 Daire Başkanı
+e-Posta; isverenlerPrimDB-a sek yon ir İnternet Adresi: Ma apk poy.lu N
+Kep Adresi: sek e hs0İkepar Velelon No: 0312) 458 7110 A
+
+b
+
+Örnek 1: 26.8.2018 tarihinde sigortalı çalıştırmaya başlayan ve 1.10.2021 tarihi itibarıyla
+sigortalı çalıştırmaya devam eden (A) işvereni elektronik tebligat adresi almak ve elektronik sistemi
+kullanmak zorundadır.
+
+Örnek 2: 4.10.2021 tarihinde sigortalı çalıştırmaya başlayan (B) işvereni elektronik tebligat
+adresi almak ve elektronik sistemi kullanmak zorundadır.
+
+2-2- İsteğe Bağlı Olarak Elektronik Tebligat Adresi Alabilecek Muhataplar
+
+Genelgenin “2-1- Elektronik Tebligat Adresi Almak Zorunda Olan Muhataplar” başlıklı
+maddesinde belirtilenler dışında kalan gerçek ve tüzel kişiler ile tüzel kişiliği olmayanlar istemeleri
+halinde elektronik tebligat adresi alabilirler,
+
+3- Başvuru Süresi
+
+3-1- Elektronik Tebligat Adresi Almak Zorunda Olan Muhataplar Bakımından Başvuru
+Süresi
+
+3-1-1- 1.10.2021 Tarihinden Önce Sigortalı Sayılan Kişileri Çalıştırmaya Başlayıp 1.10.2021
+Tarihinden Sonra Sigortalı Çalıştırmaya Devam Eden İşverenler Bakımından Başvuru Süresi
+
+1.10.2021 tarihinden önce 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (c)
+bentlerine göre sigortalı sayılan kişileri çalıştırmaya başlayıp yönetmeliğin yürürlüğe girdiği tarih olan
+1.10.2021 tarihinden sonra sigortalı çalıştırmaya devam eden işverenler, www.turkiye.gov.tr adresinden
+(e-Devlet üzerinden) 1.10.2021 tarihini takip eden 3 ay içinde başvuru yapmakla yükümlüdür.
+
+Bu bakımdan, söz konusu işverenler en geç 3.1.2022 (1.1.2022 tarihi hafta sonuna denk
+geldiğinden) tarihine kadar elektronik tebligat adresi almak zorundadırlar.
+
+İşyerinin, 5510 sayılı Kanunun || inci maddesinde belirtilen süreler içerisinde bildirilmemesi ve
+tescil işlemi yapılmaması halinde Sosyal Sigorta İşlemleri Yönetmeliği'nin 32 nci maddesinde belirtildiği
+şekilde resen tescil işlemi yapılması halinde, yukarıda belirtilen 3 aylık sürenin başlangıcı, işyerinin ünite
+tarafından resen tescil edildiğinin, işverene tebliğ edildiği tarihtir. Bu işverenler, işyerinin resen tescil
+işleminin kendilerine tebliğ edildiği tarihten itibaren, 3 ay içinde www.turkiye.gov.tr adresi üzerinden
+elektronik tebligat adresi almak zorundadır.
+
+3-1-2- 1.10.2021 Tarihinden Sonra İlk Defa Sigortalı Sayılan Kişileri Çalıştırmaya Başlayan
+İşverenler Bakımından Başvuru Süresi
+
+1.10.2021 tarihinden sonra ilk defa 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+ve (c) bentlerine göre sigortalı sayılan kişileri çalıştırmaya başlayan işverenler, sigortalı çalıştırmaya
+başlanılan ayı takip eden aydan itibaren 3 ay içinde www.turkiye.gov.tr adresinden (e-Devlet) başvuru
+yapmakla yükümlüdür.
+
+Örnek 3: 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki
+sigortalı 15.11.2021 tarihi itibariyle çalışmaya başlamıştır. Söz konusu işveren, sigortalı çalıştırılmaya
+başlanılan ayı takip eden aybaşından (1.12.2021) itibaren en geç 3 ay içinde (28.2.2022 tarihine kadar)
+elektronik tebligat adresi almak zorundadır.
+
+* Bu belge, güvenli " imza ile imzalanmıştır
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara i il Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587779 Iaks No: 0(312)432123 Daire Başkanı
+LAN soy.ir İnternet Adresi: ww .sek poy.lr Telin No: 0312) 4867110 “
+e) esi; SE b 2) Ni k ©
+218 e
+Biliş
+
+3-2- İsteğe Bağlı Olarak Elektronik Tebligat Adresi Alabilecek Muhataplar
+
+Yönetmeliğin yürürlüğe girdiği 1.10.2021 tarihinde Genelgenin "2-1- Elektronik Tebligat
+Adresi Almak Zorunda Olan Muhataplar" başlıklı maddesinde belirtilenler dışında kalan gerçek ve
+tüzel kişiler ile tüzel kişiliği olmayanlar istedikleri tarihte www.turkiye.gov.tr adresinden (e-Devlet
+üzerinden) elektronik tebligat adresi alabileceklerdir.
+
+4- Başvuru Şekli
+
+Elektronik tebligat (e-Tebligat) adresi alacak ve kullanacak olan muhatapların www.turkiye. gov.tr
+adresinden (e-Devlet üzerinden) başvuru yapmaları gerekmektedir. Başvurular üç grup için farklı şekilde
+yapılabilecektir.
+
+- Kurumumuzda işverenlik kaydı bulunmayan kullanıcılar/sigortalılar kişisel tebligatlarını
+görüntülemek üzere müracaatlarını "Gerçek Kişi İsteğe Bağlı" seçeneğinden yapabilecektir.
+
+- Gerçek kişi işverenler bakımından işverenin kendisi veya işveren vekili tarafından, “Gerçek
+Kişi İşveren” seçeneğini kullanılarak başvuru yapılabilecektir.
+
+- Tüzel kişi işverenler bakımından ise başvuru için "Tüzel Kişi" seçeneği kullanılacak olup.
+başvuru yapacak kişinin MERSİS veya SGK işyeri tescil kaydında yönetici/müdür/kanuni temsilci olarak
+yer alması gerekmektedir.
+
+Elektronik tebligat adresi almak zorunda olan muhataplar şahsi işlemlerinden doğan (borçlanma,
+tescil vb.) tebligatları almak için, “Gerçek Kişi İsteğe Bağlı” seçeneğini kullanarak ayrıca başvuru
+yapacaklardır.
+
+Tüzel kişi işverenler bakımından yöneticilere/müdürlere/kanuni temsilcilere ve bunların dışında
+kalan gerçek kişi işverenlere, “Gerçek Kişi İsteğe Bağlı” müracaatları bulunmadığı sürece, şahsi
+işlemlerinden doğan elektronik tebligat gönderilmeyecektir.
+
+Ayrıca, gerçek kişi işverenler bakımından başvuruyu yapan işveren veya işveren vekilinden biri,
+tüzel kişi işverenler bakımından her bir yönetici/müdür/kanuni temsilci, tebligatların görüntülenebilmesi
+için üçüncü kişilere yetki tanımlayabilecektir. Yetki tanımlanan bu kişiler alt hesap olarak
+adlandırılacaktır.
+
+e-Tebligat işlemleri gerçekleştirilirken, tüzel kişi işyeri için yapılan başvurularda vergi kimlik
+numarası, gerçek kişi işyeri için yapılan başvurularda ise T.C. Kimlik Numarası esas alınacaktır. Tüzel
+kişilik için yapılan başvuru sonrası, aynı vergi kimlik numarası altında veya gerçek kişi işyeri için
+yapılan başvuru sonrası aynı T.C. Kimlik Numarası altında yeni bir işyeri dosyasının tescil edilmesi
+halinde, yeni tescil edilen işyeri için elektronik tebligat adresi alınmasına ihtiyaç duyulmamakta olup,
+yeni tescil edilen işyerine ilişkin tebligatlar daha önce başvurusu yapılan elektronik tebligat adresi
+üzerinden takip edilebilecektir.
+
+Örnek 4: (A) işvereni, 1234567890 vergi numarası altında işlem gören (B) işyeri için 12.12.2021
+tarihinde, www.turkiye gov.tr adresini kullanarak elektronik tebligat adresi oluşturmuştur. (A) işvereni.
+« Bu belge güvenli " intzu ile imzalanmıştır
+Mithatpaşa Cad. No:7 Sihhiye Çankaya/ Ankar Bilgi için: m
+Teletin No M12)4567779 Faks No o (124 a alan i aşka
+
+38 ni
+a
+
+|
+aym vergi kimlik numarasında işlem görecek olan (C) işyerini 6.1.2022 tarihinde faaliyete geçirmişlir.
+(A) işvereninin. elektronik tebligat adresi alınan tarihten sonra tescil edilen (C) işveri, aynı vergi kimlik
+numarası alunda bulunduğundan. bu işyeri için ayrıca elektronik tebligat adresi oluşturulmayacakur
+Vlektronik tebligata ilişkin iş ve işlemler, 12.12.2021 tarihinde oluşturulan elektronik tebligat adresi
+üzerinden takip edilebilecektir.
+
+Tüzel kişi işverenlerde yönetici/şirket yetkilisi/müdür/kanuni temsilci niteliğinde herhangi bir
+Kişinin kalmaması (değişmesi, yenisinin atanması. yetkinin alınması vefat vb.) durumunda yeni
+yönetici/şirket  yetkilisi/müdür/kanuni temsilcinin yönetici/müdür/kanuni temsilci olarak atandıkları
+tarihten itibaren 3 ay içinde www.furkiye.gov.tr adresinden (e -Devlet üzerinden) başvuru yapması
+gerekmektedir.
+
+Tüzel kişilik adına, birden fazla yönetici bulunması durumunda, tek bir yöneticinin- e-Tebligal
+başvurusu yapması yeterli olacaktır. Bir yöneticinin yaptığı başvuru sonrasında, diğer yöneticiler de
+herhangi bir başvuru gerekmeksizin, tüzel kişilik adına gelen e-Tebligatları görüntüleyebilecek. yapılmış
+olan bu başvuruyu daha önce tebligat gönderilmemiş olması şartıyla, silebilecek ve yeni kullanıcıları alı
+hesap olarak ekleyebilecektir.
+
+Herhangi bir yönetici tarafından yapılan başvurunun silinmesi durumunda, tüzel kişilik adına
+yapılan e-Tebligat başvurusu da silineceğinden, diğer yöneticiler ve yöneticiler tarafından alt hesaba
+eklenen kullanıcılar da pasife alınacaktır. Bu durumda, tüzel kişilik adına yeniden başvuru yapılması
+gerekmektedir.
+
+Birden fazla yöneticinin bulunduğu durumlarda, bir yöneticinin yöneticilikten ayrılması ya da
+vefatı nedeniyle elektronik tebligat adresinin pasife alınması halinde. ilgili yöneticinin. elektronik
+tebligat görüntüleme yetkisi verdiği alt hesaba eklenen kullanıcıların tebligatları görmeleri
+engellenecektir. Engellenen kişilere, diğer yönetici tarafından elektronik tebligatları görüntüleme yetkisi
+verilmediği sürece, Kurum tarafından gönderilen tebligatları görüntüleyemeyeceklerdir. Ancak bir
+yöneticinin yöneticilikten ayrılması ya da vefat etmesi halinde, diğer yönetici/yöneticiler elektvonik
+tebligatları görüntülemeye devam edecektir.
+
+Örnek 5: (A) Limited Şirketinin, şirket için yetkilendirilmiş (B) ve (C) olmak üzere iki yöneticisi
+bulunmaktadır. (B) yöneticisi, A Limited Şirketi adına e-Tebligat başvurusunda bulunmuştur. Tüzel
+kişilerde, birden fazla yöneticinin bulunduğu hallerde, tek bir yöneticinin e-Tebligat başvurusu yeterli
+olduğundan, (C) yöneticisi için e-Tebligat başvurusu aranmayacak olup, bu kişi şirket adına gönderilecek
+tebligatları görüntüleyebilecektir. Tebligat adresi alındıktan sonra (B) kişisi, (D) ve (1) kişilerini (C)
+kişisi ise (E) ve (G) kişilerini kullanıcı olarak ekleyerek, bu kişilere tebligatları görüntüleme yetkisini
+vermişlerdir. (B) yöneticisinin vefat etmesi halinde, bu kişi tarafından eklenen ve yönetici olmayan (D)
+ve (F) kişilerinin elektronik tebligat görüntüleme yetkisi pasif hale getirilecek olup, bu kişiler (O)
+yöneticisi tarafından, yeniden alt hesaba eklenmedikleri sürece, şirkete yapılan tebligatları
+görüntüleyemeyeceklerdir. Ancak (B) yöneticisinin vefatı, diğer bir yönetici olan (C)'nin, tebligatları
+görüntülemesine engel oluşturmayacaktır.
+
+M..
+
+<> <> Bu belge, güvenli elektronik imza ile imzalanmıştır
+
+Mithatpaşa Cad. No:7 Sihhiye Çankaya/Ankara ii Bilgi için: İbrahim ZÇEL İN
+
+Telefon No: 0(312) 4587779 Faks No: 0 (312)432123 Daire Başkanı
+
+e-Posta: isverenlerPrimDiesgk.gov.r İnternet Adresi: www.spk.gov.lr
+
+Kep Adresi: sek/e.hs0 1 .kep.ir Telefon No: 0812) ASX IT N0 Oüğ
+
+418 İA
+
+Dev r
+bin
+
+Örnek 6: Yukarıdaki örnekte yer alan, (B) yöneticisinin, yapılan tebligat başvurusunu silmesi
+halinde, tüzel kişilik adına yapılan e-Tebligat başvurusu da silinecek olup, her bir yönetici ve alt hesaba
+eklenen kullanıcılar için de e-Tebligat görüntüleme yetkisi sona ermiş olacaktır.
+
+A LİMİTED ŞİRKETİ
+— sar —— D EE.
+ALTHESAP F G ii
+
+Adi ortaklıklar için ortaklardan herhangi birinin, apartman yönetimi için yöneticinin, kamu kurum
+ve kuruluşları için yönetici bilgileri ile giriş yapılabilecektir. Bu kişiler ve "Gerçek Kişi İsteğe Bağlı"
+seçeneğini kullanarak elektronik tebligat başvurusunda bulunanlar, tebligatların görüntülenebilmesi için
+üçüncü kişilere yetki tanımlayabileceği alt hesap oluşturabilecektir.
+
+Buna göre, elektronik tebligat adresi almak amacıyla www.turkiye.gov.tr adresinden (e -Devlet
+üzerinden) yapılacak başvuruların sisteme giriş işlemleri Ek-1'de yer alan kullanım kılavuzunda
+açıklandığı şekilde yapılacaktır.
+
+5- Elektronik Tebligatın Gönderilmesi ve Muhatabına İletilmesine İlişkin Usul ve Esaslar
+
+Kurum Merkez Teşkilatı/Sosyal Güvenlik İl Müdürlüğü/Sosyal Güvenlik Merkezi tarafından
+tebliğ edilmesi gereken evrak elektronik ortamda imzalanacak ve muhatabın elektronik tebligat adresine
+iletilecektir.
+
+Buna göre, elektronik tebligat adresine evrakın gönderilmesi işlemleri Ek-2'de yer alan kullanım
+kılavuzunda açıklandığı şekilde yapılacaktır.
+
+Kurum Merkez Teşkilatı/Sosyal Güvenlik İl Müdürlüğü/Sosyal Güvenlik Merkezi tarafından
+elektronik ortamda imzalanan evrak muhatabın elektronik ortamdaki adresine ulaştığı tarihi izleyen
+beşinci günde tebliğ edilmiş sayılacaktır. e-Tebligat gönderildiğinde muhatabın e-Devlet sisteminde
+kayıtlı olan cep telefonu numarasına SMS ve/veya e-posta adresine bilgi mesajı gönderilecektir. Bu
+nedenle, evrakın muhatap tarafından okunup okunmaması evrakın tebliğ edilmesinde önem arz
+etmeyeceğinden. evrak muhatap tarafından okunmamış olsa dahi muhatabın elektronik ortamdaki
+adresine ulaştığı tarihi izleyen beşinci günde tebliğ edilmiş sayılacaktır.
+
+Değişik nedenlerden dolayı, muhatabın e-Devlet sisteminde kayıtlı olan cep telefon numarasına
+ve/veya e-posta adresine bilgilendirme mesajı gönderilememesi veya geç gönderilmesi, elektronik
+tebligatın geçerliliğini etkilemeyecektir.
+
+Ayrıca, elektronik ortamda imzalanan evrak, muhatabın elektronik ortamdaki adresine ulaştığı
+tarihi izleyen beşinci günden önce okunsa dahi, evrak muhatabın elektronik ortamdaki adresine ulaştığı
+tarihi izleyen beşinci günde tebliğ edilmiş sayılacaktır.
+
+Örnek 7: Muhatabın elektronik orlamdaki adresine 18.12.2021 tarihinde ulaşan tebligatın,
+muhatap tarafından 21.12.2021 tarihinde okunduğu varsayıldığında, söz konusu evrak muhatabın,
+
+< Bu belge guvenli " ana ile imzalanmşlur
+Mithatpaşa Cad. No:7 Sihhiye Çankaya Ankara Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0/3112) 4587779 Lüks No: 0(312)432123 Daire Başkanı
+e-Posta: isverenlerPrimDB e sek gov 0 İnteret Adresi: WM sek gov.li
+Kep Adresi: sek w hs0l kep.ir Telefon No: 0(312) 458 7110 ELİ
+58 ai
+e ği
+iyii
+
+elektronik ortamdaki adresine ulaştığı tarihi (18.12.2021) izleyen beşinci günde (23.12.2021) tebliğ
+edilmiş sayılacaktır.
+
+Ancak, elektronik ortamda imzalanan ve idari para cezasına ilişkin olan evrakın tebliğ tarihi,
+beşinci gün olsa da, muhatap tebligatın elektronik ortamdaki adresine ulaştığı tarihi izleyen beşinci
+günden önce de, idari para cezasını indirimli olarak ödeyebilecektir.
+
+Örnek 8: Evrakın 18.12.2021 tarihinde muhatabın elektronik ortamdaki adresine ulaştığı
+varsayıldığında muhataba evrak 23.12.2021 tarihinde tebliğ edilmiş sayılacak ve muhatap idari para
+cezasını 21.12.2021 tarihinde indirimli olarak ödeyebilecektir.
+
+Öte yandan, muhatabın, idari para cezasını indirimli olarak ödemesi ve aynı zamanda itiraz etmesi
+halinde, itiraz süresi, idari para cezasının ödendiği tarihi takip eden günden değil, tebligatın elektronik
+ortamdaki adrese ulaştığı tarihi izleyen beşinci günü takip eden günden başlayacaktır.
+
+Örnek 9: 7 numaralı örnekteki işverenin, idari para cezası borcunu 21.12.2021 tarihinde ödemesi
+ve idari para cezasına itiraz etmesi halinde, 15 günlük yasal itiraz süresi, ödeme tarihi olan 21.12.2021
+tarihini takip eden günden değil, beş günlük sürenin dolduğu 23.12.2021 tarihini takip eden günden
+itibaren başlayacaktır.
+
+6- Muhatabın Sorumluluğu
+
+Kendisine elektronik ortamda tebligat yapılacak muhatap;
+
+a) Başvurusunu süresinde, tam ve doğru olarak yapmakla,
+
+b) Beyan edilen bilgilerde meydana gelecek değişiklikleri bildirmekle,
+
+c) “Sosyal Güvenlik Kurumunca Elektronik Ortamda Yapılacak oTebligata İlişkin
+Yönetmelik”te belirtilen tüm şartlara riayet etmekle,
+
+ç) Elektronik tebligatı alacak kişilerde değişiklik olması halinde bu değişikliği bildirmekle.
+
+yükümlüdür.
+
+Bu nedenle, elektronik tebligat adresi almak amacıyla yapılan başvuruda istenen bilgilerin yanlış
+girilmesi veya güncellenmemesi nedeniyle tebligata ilişkin bilgilendirme mesajının muhataba
+iletilememesinden muhatap sorumlu olacaktır.
+
+7- Elektronik tebligat adresinin kullanıma kapatılması
+
+a) Tüzel kişilerde ticaret sicil kaydının silindiği (nev'i değişikliği, birleşme halleri dahil) tarih
+itibarıyla elektronik tebligat adresi kapatılacaktır.
+
+b) Gerçek kişilerde ilgilinin ölümü veya gaipliğine karar verildiğinin Kurum tarafından tespit
+edildiği durumlarda ölüm/karar tarihi itibarıyla ilgilinin elektronik tebligat adresi resen kapatılacaktır.
+
+e) Kısıtlılık, ceza infaz kurumuna girme veya askerlik hizmeti gibi hukuki ve fiili sebeplerle
+elektronik tebligat hizmetinden yararlanma imkânı ortadan kalkmış muhatabın elektronik tebligat adresi
+kapatılacaktır.
+
+d) Ölen/gaipliğine karar verilen kişinin elektronik tebligat adresi, mirasçıları tarafından sosyal
+
+M..
+<> <> Bu belge, güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara na İİ Bilek için: İbrahim ÖZÇE İK
+Teleftn No: 04312) 4587779 ii la la Daire Başkanı
+Kep a kp er A 38 Telefon No: 0(312) 458 7110 e
+Se
+
+|
+güvenlik il müdürlüğüne veya sosyal güvenlik merkezine/merkez teşkilatına başvuru yapılması halinde
+de kullanıma kapatılacaktır.
+
+Bu durumlar haricinde zorunlu veya isteğe bağlı olarak elektronik tebligat sistemine dahil
+olanların sistemden çıkmaları mümkün olmayacaktır.
+
+8- Diğer Hükümler
+
+8-1- 31.5.2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa,
+21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanununa ve diğer
+mevzuata göre Kurumca hazırlanan ve tebligat gönderilmesi gereken tüm evraklar elektronik ortamda
+gönderilecektir.
+
+8-2- Elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde, kendilerine elektronik
+tebligat yapılması gereken muhataplara, 7201 sayılı Tebligat Kanunu ile 6183 sayılı Kanunda yer alan
+hükümlere göre tebligat yapılacaktır.
+
+8-3- Bu genelgede yer alan, elektronik tebligat adresinin kapatılmasına ilişkin ibareler, hesabın
+tamamen silinmesi anlamına gelmediğini, elektronik tebligat adresinin pasife alınmasını ve yapılacak
+tebligatların ilgili kanunlara göre kâğıt ortamında yapılmasını, ifade etmektedir.
+
+8-4- 12.5.2010 tarihli ve 27579 sayılı Sosyal Sigorta İşlemleri Yönetmeliği'nin 39 uncu
+maddesinin yedinci fikrası uyarınca işverenlerce “Çalışılmadığına Dair Bildirim Giriş Sistemi” nde
+görüntülenebilen istirahat raporları, çalışılmadığına dair bildirimin Kuruma gönderilmesi için yapılan
+tebligat yerine geçtiğinden bu Genelgenin kapsamı dışındadır. Herhangi bir sebeple anılan sistem
+üzerinden görüntülenemeyen istirahat raporlarının işverene bildirimi için ise bu Genelge hükümleri
+uygulanacaktır.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Cevdet CEYLAN
+Kurum Başkan V.
+EKLER:
+Ek-1 — : Kullanım Kılavuzu-|
+Ek-2  : Kullanım Kılavuzu-2
+
+DAĞITIM :
+
+Gereği : Bilgi :
+
+Merkez ve Taşra Teşkilatına Çalışma ve Sosyal Güvenlik Bakanlığına
+< «> Bu belge, guvenli M ıle imzalanmıştır
+Mithatpaşa Cad No:7 Sıhhiye Çankaya/Ankara Bilgi için: İbrahim ÖZÇELİK
+Telelon No: 0(312) 4587779 Faks No: 0 (312)432123 Daire Başkanı
+e-Posta: isverenlerPrimDlra spk. gor tr İnternet Adresi: www sek yovulr j Ni
+Kep Adresi: sek hsükepii Telefon No: 01312) 458 7110 EEE
+
+İL iğ
+
+<> < Bu belge güvenli elektronik za ile imzalanmıştır
+Mithatpaşa Cad. No:7 Sıhhiye Ç ankaya/ Ankara Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587779 aks No: (1 (312) 132123 Daire Başkanı
+e-Posta: isverenlerPrimDB sek gov Ar İnternet Adresi: Wa. yek on. Li
+Kep Ağresi: seke hs0 1 kep.tr Telefon No: 01312) 458 7110 MAZ
+ep esi: Sek İNİ ep.l vle OE
+8/8 Sresi AY
+kle
+KEİ
+ESEN

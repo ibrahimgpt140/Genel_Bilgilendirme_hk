@@ -1,0 +1,314 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/179476
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 25442898
+ADI: 2021/19 SAYILI RÜCU ALACAKLARININ TAKİP VE TAHSİLİ GENELGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5c4aa8fe38ce78d1854911fd520e95ce671d8092831e662afda417ce732fb778
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                      T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                      Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-96597630-010.06.01-25442898                                                                                        31.05.2021
+Konu : Rücu Alacaklarının Takip ve Tahsili
+
+
+
+                                                            GENELGE
+                                                             2021/19
+
+        Kısa ve uzun vadeli sigorta kollarında ortaya çıkan rücu alacaklarının takip ve tahsili bakımından
+uygulamada yaşanan aksaklıkların giderilmesi ve Kurumsal işlem süreçlerinde yeknesaklığın sağlanması
+amacıyla ilgili Genelgelerde aşağıda belirtilen değişiklikler yapılmış ve söz konusu değişiklikler uyarınca
+hukuk servisleri tarafından yapılacak işlemler açıklanmıştır.
+        A. “Merkezi Tahsilat Sistemi” konulu 30 Aralık 2011 tarih ve 2011/71 sayılı Genelgenin; “Ç-
+KAMU ZARARLARINA İLİŞKİN ALACAKLAR İLE YERSİZ ÖDEMELERE İLİŞKİN
+ALACAKLARIN TAHSİLATI” başlıklı bölümünün başlığı ile 1, 2, 3 ve 4 numaralı paragrafları
+aşağıdaki şekilde değiştirilmiş ve bu paragrafların devamına diğer paragraflar teselsül ettirilmiştir.
+        “Ç- KAMU ZARARLARINA İLİŞKİN ALACAKLAR, YERSİZ ÖDEMELER İLE RÜCU
+ALACAKLARININ TAKİP VE TAHSİLATI
+        1) Emekli aylıklarına ilişkin fazla veya yersiz ödemeler, kamuya verilen zararlar nedeniyle doğan
+Kurum alacakları ile rücu alacaklarının takibi mali hizmetler sosyal güvenlik merkezi eliyle
+yürütülecektir.
+        2) Kontrol, denetim, inceleme veya yargılama sonucunda tespit edilen emekli aylıklarına ilişkin
+fazla veya yersiz ödemeler, kamuya verilen zararlar nedeniyle doğan Kurum alacakları ile rücu alacakları
+için, harcama birimlerince MOSİP sistemine borç girişleri yapılacaktır. Ancak ilgili programlarına borç
+bilgisi girilmek suretiyle MOSİP sisteminde otomatik olarak oluşturulan borçlar için ayrıca MOSİP
+sistemine borç bilgisi girilmeyecektir.
+        3) Harcama birimlerince MOSİP sistemine manuel olarak girilen borçlar için, borç girişine esas
+tüm belgeler MOSİP programında yer alan belge ekle kısmına eklenecektir.
+        4) Borç bildirim belgesinde, borcun sebebi kısmına, borcu tebliğ alan kişi tarafından borç
+hakkında yeterli bilgi almasını sağlayacak şekilde açıklama yazılacaktır.
+        5) Kurum alacağının takibine yönelik belgeler ilgili harcama birimince muhasebe kayıtlarının
+oluşması ve borcun tebliğinin yapılması amacıyla mali hizmetler sosyal güvenlik merkezine
+gönderilecektir.
+        6) Mali hizmetler sosyal güvenlik merkezince alacak takip dosyası MOSİP sistemi üzerinden
+oluşturularak tebliğ işlemi yapılacaktır.
+        7) Tebliğ işlemleri 7201 sayılı Kanun hükümlerine göre yapılacağından mali hizmetler sosyal
+güvenlik merkezince tebliğ tarihleri muhakkak MOSİP sistemine girilecektir.
+        8) Kurum alacağı, tebliğ tarihinden itibaren 1 aylık süre sonunda tahsilat yapılmaması durumunda
+genel hükümlere göre tahsilinin sağlanması amacıyla MOSİP sisteminden elektronik ortamda HUYAP
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+sistemine gönderilecektir.
+        9) Tebliğ edilen borçlara ilişkin itirazlar, harcama birimince değerlendirilerek sonucu mali
+hizmetler sosyal güvenlik merkezine yazılı olarak bildirilecektir.
+        10) Taksitlendirme taleplerine ilişkin işlemler mali hizmetler sosyal güvenlik merkezlerince
+yürütülecektir.
+        11) Taksitlendirme işlemlerinde aynı yıl içerisinde taksit ihlali yapılması durumunda Kurum
+alacağı muacceliyet kespedecek ve mali hizmetler sosyal güvenlik merkezince beklenilmeksizin hukuk
+birimine intikal ettirilecektir.
+        12) Mali hizmetler sosyal güvenlik merkezleri, taksitlendirilen Kurum alacaklarında taksit ihlali
+yapılıp yapılmadığını sürekli olarak kontrol edecektir.”
+        B. “Rücu davalarına konu olan alacakların dava açılmadan tahsili” konulu 18.4.2012 tarih
+ve 2012/15 sayılı Genelge yürürlükten kaldırılmıştır.
+        C. “HUYAP” konulu 24.6.2015 tarih ve 2015/18 sayılı Genelgenin; “2.2. Rücuen Tazminat
+Dosyalarına İlişkin İşlemler” başlığı altındaki açıklamalar aşağıda belirtilen şekilde değiştirilmiştir:
+        “Sigortalılara veya hak sahiplerine bağlanan gelir ve aylıklar ile yapılan her türlü masrafların
+rücuan tazminine ilişkin Kurumun denetim ve kontrol ile yetkili görevlilerince ya da Bakanlık iş
+müfettişlerince soruşturulan olaylar hakkında tanzim olunan raporlarda veya kesinleşmiş mahkeme
+kararlarında belirlenen kusur oranları dikkate alınarak, ilgili birimlerce MOSİP’e kişi borcu girişi
+yapılmak suretiyle idari takibe başlanarak işveren/üçüncü kişilerden borç bildirim belgesi ile istenilmesi,
+bir ay içinde idari aşamada tahsilatın yapılamaması durumunda Kurum alacağının yasal yollardan tahsili
+için hukuk servisine gönderilmesi, hukuk servisince mali hizmetler sosyal güvenlik merkezi tarafından
+gönderilen alacak miktarı dikkate alınarak müşterek ve müteselsil sorumluluk esasları doğrultusunda
+açılacak dava sonucunda elde edilecek mahkeme kararının ilamlı icra takibine konu edilmesi sırasında
+ilamlı takip prosedürü çerçevesinde yeniden MOSİP alacak tahakkuku yapılarak HUYAP Dava Mütalaa
+ve İcra Programında gerekli takip işlemlerinin ifası,”
+        D. “Kısa Vadeli Sigorta Kolları Uygulamaları” konulu 29.9.2016 tarih ve 2016/21 sayılı
+Genelgenin;
+        1) “7.2.İş Kazası, Meslek Hastalığı ve Hastalık Vakalarında Rücu İşlemleri” başlığı altına
+aşağıdaki paragraf eklenmiştir:
+        “İş kazası, meslek hastalığı ve hastalık vakaları nedeniyle Kurumun denetim ve kontrol ile yetkili
+görevlilerince ya da Bakanlık iş müfettişlerince soruşturulan olaylar hakkında tanzim olunan raporlarda
+veya kesinleşmiş mahkeme kararlarında belirlenen kusur oranlarına göre kısa vadeli sigorta servisi
+tarafından borç tahakkuku yapılarak borca ilişkin gerekli bilgi ve belgeler eklenmek suretiyle mali
+hizmetler sosyal güvenlik merkezine intikal ettirilecektir.”
+        2) “7.2.2.Üçüncü Kişilerin Sorumluluğu” başlığı altındaki “Örnek-5”te yer alan "Bu durumda
+ünite, öncelikle mahkeme kararına dayanarak üçüncü kişiye, Kurum tarafından sigortalıya Kanunun 18
+inci maddesi gereğince ödenen geçici iş göremezlik ödeneği için rücu işlemi yapılacak, üçüncü kişinin
+ödememesi halinde MOSİP sistemi üzerinden “kişi borç kaydı" oluşturularak, dosya takip servisine
+intikal ettirilecektir." cümlesi, “Bu durumda kısa vadeli sigorta servisi tarafından borç tahakkuku
+yapılarak borca ilişkin gerekli bilgi ve belgeler eklenmek suretiyle mali hizmetler sosyal güvenlik
+merkezine intikal ettirilecektir.” şeklinde değiştirilmiştir.
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+         3) “7.3.1.Hastalık Sigortası Kapsamında Ödenen Geçici İş Göremezlik Ödenekleri” başlığının
+dördüncü paragrafının ikinci cümlesinde yer alan “MOSİP sistemi üzerinden borç kaydı oluşturulacak ve
+üst yazı ekinde muhasebe takip birimine gönderilecektir.” ifadesi, “kısa vadeli sigorta servisi tarafından
+borç tahakkuku yapılarak borca ilişkin gerekli bilgi ve belgeler eklenerek mali hizmetler sosyal güvenlik
+merkezine intikal ettirilecektir.” şeklinde değiştirilmiştir.
+         4) “7.6. Hukuk Servislerine İntikal Eden Alacaklarda Rücu İşlemleri” başlığının birinci
+paragrafında yer alan “tespit edilen kusur oranlarına göre rücu işlemi yapılacaktır.” ifadesi, “tespit edilen
+kusur oranlarına göre borç tahakkuku yapılarak borca ilişkin gerekli bilgi ve belgeler eklenmek suretiyle
+mali hizmetler sosyal güvenlik merkezine intikal ettirilecektir.” şeklinde değiştirilmiş ve ikinci paragrafı
+yürürlükten kaldırılmıştır.
+         E. “Emeklilik İşlemleri” konulu 6.11.2018 tarih ve 2018/38 sayılı Genelgenin Dördüncü
+Kısım Onuncu Bölümünde yer alan;
+         1) “1. Kurumun Rücu Hakkı” başlığının dördüncü paragrafın birinci cümlesindeki “rücuan
+tazminat davası açılacaktır” ve üçüncü cümlesindeki “rücu davası açılacaktır” ifadeleri “rücu edilecektir”
+şeklinde değiştirilmiş, aynı başlıkta yer alan "Örnek 2"nin altına aşağıdaki paragraflar eklenmiştir:
+         “Kanunun, işveren ve üçüncü kişilerin sorumluluğunu düzenleyen hükümlerine göre Kurumun
+denetim ve kontrol ile yetkili görevlilerince ya da Bakanlık iş müfettişlerince soruşturulan olaylar
+hakkında tanzim olunan raporlardan veya kesinleşmiş mahkeme kararlarından, ilgililerin kastının,
+ihmalinin, kusurunun ve kusur oranlarının belirlenmesi durumunda, tespit edilen kusur oranlarına göre
+rücu işlemi başlatılacaktır.
+         - İşverenin sorumlu olacağı miktar belirlenirken; Kanun gereğince yapılan veya ileride yapılması
+gereken ödemeler ile ilk peşin sermaye değerinin kusur oranına tekabül eden kısmı,
+         - Üçüncü kişinin sorumlu olacağı miktar belirlenirken; Kanun gereğince yapılan veya ileride
+yapılması gereken ödemeler ile ilk peşin sermaye değerinin yarısının kusur oranına tekabül eden kısmı,
+         dikkate alınacaktır.
+         Buna göre, işverene/üçüncü kişilere rücu işlemi yapılırken, kusur oranlarına göre emeklilik servisi
+tarafından borç tahakkuku yapılarak borca ilişkin gerekli bilgi ve belgeler eklenmek suretiyle mali
+hizmetler sosyal güvenlik merkezine intikal ettirilecektir.
+         Ancak, mali hizmetler sosyal güvenlik merkezince tahsil edilemeyen tutarlar hukuk birimine
+intikal ettirildikten sonra peşin sermaye değerinin durum değişikliği nedeniyle değişmesi halinde aşağıda
+belirtilen şekilde hesaplanan tutarlar doğrudan hukuk birimine intikal ettirilecektir.”
+         2) “3. Rücu Davalarına Esas Peşin Sermaye Değerlerinin Hesaplanması” başlığı “3. Rücu
+İşlemine Esas Peşin Sermaye Değerlerinin Hesaplanması”, aynı başlığın ikinci paragrafındaki “rücu
+davalarına” ifadesi “rücu işlemine” şeklinde değiştirilmiştir.
+         3) “3.1.” numaralı maddesinin ikinci paragrafı ve örnekler aşağıdaki şekilde değiştirilmiştir.
+         “Sürekli iş göremezlik derecesinin (SİD) artması veya azalması sonucunda gelir miktarı
+değişeceğinden;
+         - Sürekli iş göremezlik derecesinin azalması durumunda yeni oran üzerinden ilk gelir başlangıç
+tarihi itibariyle yeniden bir peşin sermaye değeri hesabı yapılacak ve bu tutara gelir başlangıç tarihinden
+sürekli iş göremezlik derecesinin düştüğü tarihe kadar ödenen gelirin, yüksek iş göremezlik oranı ile
+düşen iş göremezlik oranı arasındaki fark iş göremezlik oranına karşılık gelen miktar ilave edilerek,
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+         - Sürekli iş göremezlik derecesinin artması durumunda ise yeni oran üzerinden ilk gelir başlangıç
+tarihi itibariyle yeniden bir peşin sermaye değeri hesabı yapılacak ve bu tutardan gelir başlangıç
+tarihinden sürekli iş göremezlik derecesinin arttığı tarihe kadar ödenen gelirin, yüksek iş göremezlik
+oranı ile düşen iş göremezlik oranı arasındaki fark iş göremezlik oranına karşılık gelen miktar düşülerek,
+         hukuk birimlerine bildirilecektir.
+         Örnek 1: Sigortalı 1/7/2019 tarihinden itibaren %35 sürekli iş göremezlik derecesi üzerinden gelir
+almakta iken kontrol muayenesi sonucunda 1/9/2020 tarihinden itibaren sürekli iş göremezlik derecesi
+%20’ye düşmüştür. Bu halde 1/7/2019 tarihi itibariyle %20 sürekli iş göremezlik derecesi üzerinden
+yeniden bir peşin sermaye değeri hesabı yapılacak ve bu tutara 1/7/2019-1/9/2020 tarihleri arası ödenen
+gelirin, %15 (35-20) oranına karşılık gelen miktar ilave edilerek hukuk birimlerine bildirilecektir.
+         Örnek 2: Sigortalı 1/8/2017 tarihinden itibaren %15 sürekli iş göremezlik derecesi üzerinden gelir
+almakta iken kontrol muayenesi sonucunda 1/10/2018 tarihinden itibaren sürekli iş göremezlik derecesi
+% 25’e çıkmıştır. Bu halde 1/8/2017 tarihi itibariyle %25 sürekli iş göremezlik derecesi üzerinden
+yeniden bir peşin sermaye değeri hesabı yapılacak ve bu tutardan 1/8/2017-1/10/2018 tarihleri arası
+ödenen gelirin, %10 (25-15) oranına karşılık gelen miktar düşülerek hukuk birimlerine bildirilecektir.”
+         4) “3.4.” numaralı maddesi ve örneği aşağıdaki şekilde değiştirilmiştir.
+         “Sigortalı veya hak sahiplerinin malullük, yaşlılık ve ölüm sigortaları ile iş kazalarıyla meslek
+hastalıkları sigortasından aylık ve gelir almaya hak kazanmaları halinde gerek 506 sayılı Kanunun mülga
+92, gerekse Kanunun 54 üncü maddelerinde yer alan aylık ve gelirlerin birleşmesi kuralları
+uygulandığında;
+         -Gelir ve aylık aynı anda bağlanmış ve gelir yarım ödenmekte ise yarım üzerinden ödenen gelire
+göre peşin sermaye değeri hesaplanacaktır.
+         -Gelir daha sonraki bir tarihte yarıya inmiş ise; peşin sermaye değeri, gelir başlangıç tarihi
+itibariyle %50 üzerinden başlangıçtaki gelir onay tarihi esas alınarak hesaplanacak, bu peşin sermaye
+değerine, gelir başlangıç tarihinden gelirin yarıya düştüğü tarihe kadar ödenen gelirin %50 fark oranına
+karşılık miktarı ilave edilecek, ancak bu şekilde hesaplanacak miktar ilk hesaplanan peşin sermaye değeri
+miktarını aşamayacaktır.
+         Örnek: Sigortalı 1/5/2018 tarihinden itibaren sürekli iş göremezlik geliri almakta iken bu defa
+1/9/2020 tarihinde yaşlılık sigortasından aylığa hak kazanmış ve yaşlılık aylığı daha yüksek olduğundan
+bu aylık tamdan ödenmiş, sürekli iş göremezlik geliri ise 1/9/2020 tarihi itibariyle yarımdan ödenmeye
+başlanmıştır. Bu durumda 1/5/2018 tarihi itibariyle peşin sermaye değeri yarım üzerinden ödenen gelir
+esas alınarak hesaplanacak, bu peşin sermaye değerine, 1/5/2018 tarihinden 1/9/2020 tarihe kadar ödenen
+gelirin %50 fark oranına karşılık miktarı ilave edilecektir.”
+         5) “3.5.” numaralı maddesinin birinci cümlesindeki “açılacak rücu davaları” ifadesi “yapılacak
+rücu işlemleri” şeklinde değiştirilmiştir.
+         6) “3.6.” numaralı maddesinin birinci paragrafının birinci cümlesindeki “rücu davası açılamayan”
+ifadesi “rücu işlemi yapılamayan”, ikinci paragrafındaki “rücu davası açılmak üzere durum hukuk
+servislerine intikal ettirilecektir” ifadesi “rücu işlemi yapılmak üzere durum işverenlerin kusurları
+oranında mali hizmetler sosyal güvenlik merkezine intikal ettirilecektir” ve örnekte yer alan “rücu davası
+açılamamıştır” ifadesi “rücu işlemi yapılamamıştır” şeklinde değiştirilmiştir.
+         7) “3.7.” numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+         “Sürekli iş göremezlik geliri almakta iken vefat eden ve ölüm nedeni geçirdiği iş kazası veya
+meslek hastalığına bağlı olmayan sigortalıların hak sahiplerine bağlanan gelirler için rücu işlemi
+yapılmayacaktır. Diğer bir ifadeyle, ölüm nedeni iş kazası veya meslek hastalığına bağlı değil ise rücu
+işlemi yapılmayacak, bağlı ise rücu işlemi yapılacaktır.”
+         8) “3.10.” numaralı maddesinin birinci paragrafının birinci cümlesindeki “rücu davası açılmak”
+ifadesi “rücu işlemi yapılmak”, ikinci cümlesindeki “rücu davası açılmak” ifadesi “rücu işlemi yapılmak”
+şeklinde değiştirilmiştir.
+         9) “3.11.” numaralı maddesinin birinci paragrafının birinci cümlesindeki “hukuk servislerine”
+ifadesi “mali hizmetler sosyal güvenlik merkezine”, "Örnek 1"de yer alan “dosyada denetim raporu varsa
+bununla birlikte hukuk servislerine rücu dava açılabilmesi için bildirilecektir.” ifadesi “mali hizmetler
+sosyal güvenlik merkezine bildirilecektir.”, "Örnek 2"nin üçüncü cümlesinde yer alan “dosyada denetim
+raporu varsa bununla birlikte hukuk servislerine rücu davası açılabilmesi için bildirilecektir.” ifadesi
+“mali hizmetler sosyal güvenlik merkezine bildirilecektir.” şeklinde değiştirilmiştir.
+         10) “4. Uzun Vadeli Sigorta Kolları Bakımından Üçüncü Kişilerin Sorumluluğuna İlişkin
+Uygulama” başlığının altıncı paragrafının ikinci cümlesinde yer alan “olay hukuk servisine intikal
+ettirilecektir.” ifadesi “sigortalıya veya ölümü halinde hak sahiplerine bağlanacak aylığın ilk peşin
+sermaye değerinin yarısının emeklilik servisince borç tahakkuku yapılarak borca ilişkin gerekli bilgi ve
+belgeler eklenmek suretiyle mali hizmetler sosyal güvenlik merkezine intikal ettirilecektir.”, on birinci
+paragrafında yer alan “rücu davası açılabilecektir” ifadesi “rücu işlemi yapılabilecektir” şeklinde
+değiştirilmiştir.
+         F. 4/1-(c) Kapsamındaki Sigortalıların Tescil ve Hizmet, Emeklilik ve Ödeme İşlemleri
+konulu 29.6.2020 tarih ve 2020/22 sayılı Genelgenin;
+         İkinci Kısım Dokuzuncu Bölümün “Kurumun Rücu Hakkı” başlıklı 2 Nolu alt bölümünün
+dördüncü ve beşinci paragraflarında yer alan “açılacak rücu davalarında” ifadesi, “yapılacak rücu
+işlemlerinde”, yine beşinci paragrafında yer alan “rücu davaları açılacaktır.” ifadesi “rücu işlemi
+yapılacaktır.”, on birinci paragrafında yer alan “Hukuk Servislerine intikal ettirilecektir.” ifadesi “mali
+hizmetler sosyal güvenlik merkezlerine bildirilecektir”, on dördüncü paragrafında yer alan “Rücu davası
+açılması” ifadesi “Rücu işlemi yapılması” şeklinde değiştirilmiştir.
+         G. Genelgelerde Yapılan Değişiklikler Uyarınca Hukuk Servisleri Tarafından Yapılacak
+İşlemler
+         1) Sigortalılara veya hak sahiplerine bağlanan gelir ve aylıklar ile yapılan her türlü masrafların
+rücuan tazminine ilişkin Kurumun denetim ve kontrol ile yetkili görevlilerince ya da Bakanlık iş
+müfettişlerince soruşturulan olaylar hakkında tanzim olunan raporlarda veya kesinleşmiş mahkeme
+kararlarında belirlenen kusur oranları dikkate alınarak ilgili birimlerce MOSİP’e kişi borcu girişi
+yapılmak suretiyle idari takibe başlanması ve işveren/üçüncü kişilerden borç bildirim belgesi ile
+istenilmesi, ancak tahsilatın yapılamaması halinde belirlenen kusur oranları kapsamında Kurum
+alacağının yasal yollardan tahsili için hukuk servisine intikal ettirildiğinde;
+         Açılan rücu davalarında karara esas alınan kusur bilirkişi raporlarında tespit edilen kusur
+oranlarının Kurumun denetim ve kontrol ile yetkili görevlilerince ya da Bakanlık iş müfettişlerince
+soruşturulan olaylar hakkında tanzim olunan raporlarda veya kesinleşmiş mahkeme kararlarında
+belirlenen kusur oranları ile,
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+        a) Aynı olması durumunda, karara karşı istinaf/temyiz yoluna başvurulmaması,
+        b) Fazla olması durumunda, kusur bilirkişi raporundaki kusur oranları üzerinden davada bedel
+artırımı/ıslah talebinde bulunulması,
+        c) Az olması durumunda, istinaf/temyiz yoluna başvurulması gerekmektedir.
+        2) Hukuk servisine intikal ettirilmiş, henüz icra/dava konusu edilmemiş hazırlık aşamasındaki
+dosyalarda Kurumun denetim ve kontrol ile yetkili görevlilerince ya da Bakanlık iş müfettişlerince
+soruşturulan olaylar hakkında tanzim olunan raporlarda veya kesinleşmiş mahkeme kararlarında
+belirlenen kusur oranları dikkate alınarak, müşterek ve müteselsil sorumluluk esasları doğrultusunda
+dava/icra yoluna başvurulması,
+        3) Hukuk servisine intikal eden ve icra/dava yoluna başvurulmuş henüz ödeme yapılmamış veya
+kısmi ödeme yapılmış/karara çıkmamış dosyalarda bu Genelge hükümleri gereğince işlem yapılması,
+        4) Hukuk servisine intikal eden ve icra/dava yoluna başvurulmuş istinaf/temyiz aşamasında olan
+dosyalarda mevcut uygulamaya devam edilmesi gerekmektedir.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+                                                                                                                   İsmail YILMAZ
+                                                                                                                   Kurum Başkan V.
+
+
+
+
+         DAĞITIM:
+         Gereği:                                                  Bilgi:
+         Merkez ve Taşra Teşkilatına                              Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 57bc-601b-3b8d-b782-cc66        Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhıye Çankaya/Ankara                                                                 Bilgi için: Rüstem ÖZDEMİR
+Telefon No: 0 312 458 72 82 Faks No: 0 312 435 72 36                                                                         Daire Başkanı
+e-Posta: ehgm_kvsdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+10
+

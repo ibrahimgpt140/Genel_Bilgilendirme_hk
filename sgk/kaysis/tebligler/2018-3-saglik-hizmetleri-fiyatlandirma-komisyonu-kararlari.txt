@@ -1,0 +1,409 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/148765
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: 2018/3
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARLARI
+RESMÎ GAZETE: 28.12.2018 - 30639 (Mükerrer)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 3b2e63e1ddeab4b274485e2a55816506b5cc32375818bc9dceda78541a1dbb62
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+21 Kasım 2018 — Sayı : 30602 (Mükerrer) RESMİ GAZETE Sayfa : 173
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARLARI
+Karar No : 20185
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri
+Fiyatlandırma Komisyonu 12/06/2018 tarihinde toplanarak aşağıdaki kararları almıştır.
+MADDE 1- SUT EK-2/C Listesinde yer alan “Çocuk İzlem Merkezi Değerlendirmesi” işleminin işlem
+kodunun aşağıdaki şekilde değiştirilmesine oybirliği ile,
+SIRA en, | O darmım | Oradan “© TİŞLEM * İŞLEM
+No | KODU ŞLEMABI o | oo AÇIKLAMA GRUBU PUANI
+ÇOCUK İZLEM
+MERKEZİ
+|. İsiemereeki | | 000.
+Sağlık Bakanlığınca tescil
+. edilmiş Sağlık Bakanlığı
+bünyesinde yer alan Çocuk
+İzlem Merkezlerinde kişi
+, başına yılda bir defa
+Çocuk İzlem Merkezi | | faturalandırılır. Bu
+P924000 Değerlendirmesi merkezlerde yapılan tanı, 84317
+tedaviye yönelik muayene,
+tetkik, tahlil,
+değerlendirme, aşı, ilaç ve
+diğer tüm sağlık hizmetleri
+a, dahildir. o ai A,
+MADDE 7- SUT EK-2/C Listesinde yer alan aşağıdaki işlem &odlarında işlem adı ve açıklama değişikliği
+yapılmasına oybirliği ile,
+SIRA NO KODU İŞLEM ADI AÇIKLAMA
+, m, N Sağlık Bakanlığı Hematopoietik Kök Hücre
+413 pyg4y7g | Hemalopoletikhücrenakli, © (Nakli Endikasyon Listesinde ver alan verici tipi
+allojerik (Kardeş veya akrabadan) N
+tanımlamasına göre Kurumca karşılanır.
+7 Mı Wi Sağlık Bakanlığı Hematopoietik Kök Hücre
+2414 pyaayıı | Hematopoletik hücre nakl, Nakli Endikasyon Listesinde yer alan verici tipi
+allojenik (Akraba dışından) N
+a, NN | tanımlamasına göre Kurumca karşılanır.
+MADDE 3- Sağlık Uygulama Tebliği eki “EK-3/A BİRDEN FAZLA BRANŞTA KULLANILAN TIBBİ
+MALZEMELER” Listesinde yer alan OR1145 SUT kodlu “OTOTRANSFÜZYON SETİ (Tüm aparatlar dahil)” adlı
+tıbbi malzemenin ödeme kural ve/veya kriterlerinde yer alan “aort diseksiyon vakalarında” ibaresinin “aort cerrahisi,
+kardiyak reoperasyonlar, çalışan kalpte yapılan kardiyak cerrahi işlemler veya kardiyak yaralanma vakalarında” şeklinde
+değiştirilmesine oybirliği ile,
+MADDE, 4- Sağlık Uygulama Tebliği eki “EK-3/A BİRDEN FAZLA BRANŞTA KULLANILAN TIBBİ
+MALZEMELER” Listesinde yer alan aşağıda SUT kodu ve alan tanımı belirtilen tıbbi malzemenin fiyatının aşağıdaki
+gibi yeniden belirlenmesine oybirliği ile,
+
+Sayfa : 174 RESMİ GAZETE 21 Kasım 2018 — Sayı : 30602 (Mükerrer)
+SUT M “ ;
+KODU TIBBİ MALZEME ALAN TANIMI AÇIKLAMA FİYATI
+| (1) Aynı yatış döneminde en fazla bir adet
+N faturalandırılabilir.
+İNSİZYONEL KATETER SETİ (POMPA )| (2) A grubu ameliyatlarda ve/veya büyük
+OR2640 e eği n i 150,00
+DAHİL) kemik ve büyük eklemlerin cerrahi
+tedavilerinde kullanılması halinde bedeli
+Kurumca karşılanır.
+m m
+
+MADDE 5- Sağlık Uygulama Tebliği eki “EK-3/A BİRDEN FAZLA BRANŞTA KULLANILAN TIBBİ
+MALZEMELER” Listesinde yer alan OR4145 SUT kodlu “SİYANOAKRİLAT İÇEREN ÜRÜNLER” adlı ubbi
+malzemenin alan tanımına “(CİLT KESİLERİ İÇİN)” ibaresinin eklenmesine oybirliği ile,
+
+MADDE 6- Sağlık Uygulama Tebliği eki “EK-3/1 KALP DAMAR CERRAHİSİ BRANŞINA AİT TIBBİ
+MALZEMELER” Listesinde yer alan K.V1322 SUT kodlu “EMBOLİZAN, SIVI, ADHEZİV, AKRİLAT, NBCA /
+MODİFİYE” adlı tibbi malzemenin listeden çıkarılarak, yeni alan tanımı ve fiyatının aşağıdaki gibi “EK-3/A BİRDEN
+FAZLA BRANŞTA KULLANILAN TIBBİ MALZEMELER” Listesine eklenmesine oybirliği ile,
+
+SUT 'TEBBİ MALZEME ALAN TANIMI Fiyar
+KODU Gn
+| SİYANOAKRİLAT İÇEREN ÜRÜNLER (CERRAHİ ALANLAR İÇİN) 420,00
+
+MADDE 7- Sağlık Uygulama Tebliği eki “EK-3/H KARDİYOLOJİ BRANŞINA AİT TIBBİ MALZEMELER”
+Listesinde yer alan KR1201 SUT kodlu “TRANSKATETER MİTRAL KAPAK MANDAL VE TAŞIMA SİSTEMİ”
+adlı tibbi malzemenin ödeme kural ve/veya kriterlerinde yer alan “3. basamak Sağlık Bakanlığı Hastanelerinde” ibaresinin
+“3. basamak hastanelerde” şeklinde değiştirilmesine oybirliği ile,
+
+MADDE 8- Sağlık Uygulama Tebliği eki “Ek-3/ KALP DAMAR CERRAHİSİ BRANŞINA AİT TIBBİ
+MALZEMELER” Listesine aşağıda alan tanımı belirtilen tıbbi malzemenin eklenmesine ve fiyatının aşağıdaki gibi
+belirlenmesine oybirliği ile,
+
+SUT TIBBİ MALZEME ALAN TANIMI va
+KODU a»
+KORONER SİNÜS ELEKTRODU YERLEŞİMİ İÇİN KATETER 400,00
+mm mn
+
+MADDE 9- Sağlık Uygulama Tebliği eki “EK-3/H KARDİYOLOJİ BRANŞINA AİT TIBBİ MALZEMELER”
+ve “EK-3// KALP DAMAR CERRAHİSİ BRANŞINA AİT TIBBİ MALZEMELER” Listelerinde yer alan
+“PARAVALVÜLER LEAK (SIZINTI) KAPAMA MALZEMELERİ” başlıklarına “(KARDİYAK KULLANIM İÇİN)”
+ibaresinin eklenmesine oy birliği ile,
+
+MADDE (10- Sağlık OUygulama Tebliği eki “EKS/M RADYOLOJİ BRANŞI VE
+ENDOVASKÜLER/NONVASKÜLER GİRİŞİMSEL İŞLEMLERE AİT TIBBİ MALZEMELER” Listesinde yer alan
+GR2028 SUT kodlu “SET, İNTRODUSER, PERİFERİK, PEDİYATRİK, 4F VE ÜZERİ” adlı tıbbi malzemenin
+çıkarılmasına, GR2027 SUT kodlu “SET, İNTRODUSER, PERİFERİK, PEDİYATRİK, 4F ALTI” adlı tıbbi malzemenin
+alan tanımının “SET, İNTRODUSER, PERİFERİK, PEDİYATRİK, 4F VE ALTI” şeklinde değiştirilmesine oybirliği ile,
+
+MADDE 11- “Droxidopa” etkin maddeli “DOPS OD 100 MG 100 TABLET” isimli ilacın 110,00 Avro fiyat
+ile SUT eki Yurt Dışı İlaç Fiyat Listesi (EK-4/C)'ne alınmasına, gerekli SUT düzenlemelerinin Genel Sağlık Sigortası
+Genel Müdürlüğünce yapılmasınz,
+
+MADDE 12- “Sodium Phenylbutyrate” etkin maddeli “AMBUTYRATE 250 MG/ML 100 ML, POWDER FOR
+ORAL SOLUTİON” isimli ilacın 105,00 Avre fiyat ile katılım payından muaf olarak EK.-4/C Listesine alınmasına, gerekli
+SUT düzenlemelerinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 13- “Peptide Porcine Brain Extract” etkin maddeli “CEREBROLYSİNE 5 ML 5 AMP” isimli ilacın
+SUT eki EK-4/C Listesine 16,00 Avro fiyatla alınmasına, EK-4/C Listesinde yer alan “CEREBROLYSİN 1 ML 10 AMP”
+isimli ilacın kutu fiyatının, ucuz eşdeğer ilaç uygulaması kapsamında değerlendirilerek “CEREBROLYSİNE 5 ML 5
+
+21 Kasım 2018 — Sayı : 30602 (Mükerrer) RESMİ GAZETE Sayfa : 175
+AMP” fiyatı dikkate alınarak belirlenecek tutar olarak uygulanmasına, gerekli SUT düzenlemelerinin Genel Sağlık
+Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE M- “Bacillus Calmetie-Guerin (BCG), Danish strain 1331” etkin maddeli “BCG CULTURE SSI 30
+MG4 VIALS» adlı ilacın SUT eki EK-WC Listesine 220,00 Avro fiyatla alınmasına, “Mesane kanseri” tanısında katılım
+payından muaf olarak karşılanmasına, gerekli SUT düzenlemelerinin Genel Sağlık Sigortası Genel Müdürlüğünce
+yapılmasına,
+
+MADDE 1$- “Trientine Hidroklorid” etkin maddeli “TRIENTINE 300 MG 100 TB” adlı ilaç fiyatının SUT eki
+EK-4/C Listesinde 3.520,00 Avro olarak yayınlanmasına, gerekli SUT düzenlemelerinin Genel Sağlık Sigortası Genel
+Müdürlüğünce yapılmasına,
+
+MADDE 16- “Febuksostat” etken maddeli “ADENURİC $0 MG 28 TB” ve “ADENURİC 120 MG 28 TB” isimli
+ilaçların; SUT eki Bedeli Ödenecek İlaçlar Listesi (EK-4/A)' ne 9041 Kamu Kurum İskontosu ile ilavesine, gerekli SUT
+düzenlemelerinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 17- “İbrutinib” etken maddeli “İMBRUVİCA SERT KAPSÜL 140 MG 90 KAPSÜL” ve
+“İMBRUVİCA SERT KAPSÜL 140 MG 120 Kapsül” isimli itaçların; SUT eki Bedeli Ödenecek İlaçlar Listesi (EK-
+AA) ne “41 Kamu Kurum İskontosu ile ilavesine, gerekli SUT düzenlemelerinin Genel Sağlık Sigortası Genel
+Müdürlüğünce yapılmasına,
+
+MADDE 18- “Venetoklaks” etken maddeli “VENCLYXTO 10 MG 14 FİLM KAPLI TABLET”,
+“VENCLYXTO 50 MG 7 FİLM KAPLI TABLET”, “VENCLYXTO 100 MG 7 FİLM KAPLI TABLET”,
+“VENCLYXTO 100 MG 14 FİLM KAPLI TABLET”, “VENCLYXTO 100 MG 112 FİLM KAPLI TABLET” isimli
+ilaçların; SUT eki Bedeli Ödenecek İlaçlar Listesi (EK-4/A)' ne ilavesine, gerekli SUT düzenlemelerinin Genel Sağlık
+Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 19- “İksazomib” etken maddeli “NİNLARO 2,3 mg Kapsül (3 Kapsül)”, “NİNLARO 3 mg Kapsül (3
+Kapsül)”, “NİNLARO 4 mg Kapsül (3 Kapsül)” isimli ilaçların; SUT eki EK-4/A Listesine ilavesine, gerekli SUT
+düzenlernesinir Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 20- “Pomalidomid” etken maddeli “IMNOVİD IMGSERT2İ KAPSÜL”, “IMNOVİD 2 MG SERT
+21 KAPSÜL”, “IMNOVİD 3 MG SERT 21 KAPSÜL”, “IMNOVİD 4 MG SERT 21 KAPSÜL” isimli ilaçların; SUT eki
+EK-4/A Listesine ilavesine, gerekli SUT düzenlemesinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+. MADDE 21- “Karfilzomib” etken maddeli “KYPROLİS 60 MG IV ENJEKSİYONLUK ÇÖZELTİ İÇİN TOZ
+İÇEREN FLAKON” isimli ilacın; SUT eki Bedeli Ödenecek İlaçlar Listesi (EK-4/A) ne 9641 Kamu Kurum İskontosu
+ile ilavesine, gerekli SUT düzenlemelerinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 21- “Sidofovir” siken maddeli “SİDOVİS 375 mg/5 ml L.V. konsantre infüzyonluk çözelti içeren
+flakon” isimli ilacın; SUT eki Bedeli Ödenecek İlaçlar Listesi (EK-4/A)' ne 9612 Kamu Kurum İskontosu ile ilavesine,
+gerekli SUT düzenlemelerinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+, MADDE 25- “Karmustin” etken maddeli “BİCNU 100 MG ENJ, ÇÖZ. İÇİN TOZ İÇEREN FLAKON VE
+ÇÖZÜCÜ” isimli ilacın Kamu fiyatının güncellenmesine ve MEDULA sistemine sabit kamu fiyatı olarak
+tanımlanmasına,
+
+MADDE 24- Eczanelerden üretilen ilaçlar için tarife (majistral tarife) fiyatlarında, Maliye Bakanlığınca
+onaylanarak 457 sayılı Vergi Usul Kanunu Genel Tebliği ile yayımlanan 2017 yılı yeniden değerleme oranı olan “614,47
+oranında artış yapılmasına,
+
+Alınan kararlardan; i
+
+1-24 numaralı kararın Resmi Gazete'de yayımlanmasını müteakip 3 (üç) işgünü sonra,
+
+2- Diğer kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de
+belirtilen tarihte,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.
+
+Sayfa : 176 RESMİ GAZETE 21 Kasım 2018 — Sayı : 30602 (Mükerrer)
+Sosyal Güvenlik Kurumu Başkanlığından:
+Karar No: 2018/6
+MADDE 1- SUT eki EK-2/B Listesinde yer alan “Peplik ülsere bağlı duodenum perforasyonunda primer onarum,
+laparoskopik” işleminin işlem puanının aşağıdaki şekilde değiştirilmesine,
+İŞLEM ADI AÇIKLAMA İŞLEM PUANI
+MADDE 2- SUT eki EK-2/B Listesine aşağıda yer alan işlem kodunun eklenmesine,
+NN A KE
+MADDE 3- SUT eki EK-XC Listesinde yer alan “Anevrizma ameliyatlar, tek” işleminin açıklama kısmında
+aşağıdaki şekilde düzenleme yapılmasına,
+se) onu | | öşeemanı | açmama | orme fe öşemmervane |
+em a il İsen
+MADDE 4- SUT eki EK-2/G Listesine sıralı olarak aşağıdaki işlem kodlarının eklenmesine,
+615991 Transsakral girişimle kamera eşliğinde lomber epidural adezyolizis
+P703365 İntraoperatif nöromnitörizasyon
+
+21 Kasım 2018 — Sayı : 30602 (Mükerrer) RESMİ GAZETE Sayfa : 177
+MADDE 5- SUT Eki Ek B Listesinde aşağıda yer alan işlem kodlarında işlem adı ve puan değişikliği
+yapılmasına,
+İŞLEM
+e Ti
+SUT'un o 244.01 Oonumaralı (Oomaddesine (bakınız.
+p ümlizi Aynı gün yalnızca bir defa ve sadece yatarak tedavilerde
+704210 | Acil hemodiyalizi fatumalandırılır. P704230, P704233, 704230, 704233 ile ayı | | 297
+gün faturalandırılmaz.
+SUT'un o 244.01 (o numamlı Oomaddesine (o bakınız.
+P704210, P704233, 704210, 704233 ile aynı gün
+ali faturalandırılmaz. A-V fistül iğnesi, A-V kan seti, diyalizör,
+704230 Hemodiyaliz serum, antikongülan olarak kullanılan düşük molekül ağırlıklar) 759
+dahil her türlü heparin,konsantre hemodiyaliz solüsyonu ve her
+türlü serum dahildir.
+SUT'un o 244D-1-1 omumaralı Oomaddesine (bakınız.
+P704210, P704230, 704210, 704230 ile aynı gün
+e faturalandırılmaz. A-V fistül iğnesi, A-V kan seti, diyalizör,
+704233 | Ev hemodiyaliz serum, antikoagülan olarak kullanılan düşük molekül ağırlıklılar 256,76
+dahil her türlü heparin, konsantre hemodiyaliz solüsyonu ve her
+türlü serum dahildir.
+MADDE 6- SUT Eki Ek 2/B Listesinden aşağıda yer alan işlem kodunun çıkarılmasına,
+| onu | ösemcanı oc ARAM İBN
+KODU İŞLEM ADI AÇIKLAMA PUANI
+SUT'un 244.D-1 numaralı maddesine bakınız. P704210,
+P704230, P704233, 704210, 704230, 704233 ile aynı gün
+704234 Hemodiyaliz, 701 seans ve | faturalandırılmaz. A-V fistül iğnesi, A-V kan seti, diyalizör, 20763
+üzeri serum, antikoagülan olarak kullanılan düşük molekül ,
+ağırlıklılar dahil her türlü heparin, konsantre hemodiyaliz
+solüsyonu ve her türlü serum dahildir.
+MADDE 7- SUT Eki Ek-2/C Listesinde aşağıda yer alan işlem kodlarında işlem adı ve puan değişikliği
+yapılmasına,
+PAKET i İŞLEM İŞLEM
+Konu | IŞLEMADI AÇIKLAMA GRUBU gi PUANI
+SUT'un 2.4.4.D-1 numaralı maddesine bakınız. Aynı
+gün yalnızca bir defa ve sadece yatarak tedavilerde
+faturalandırılır. P704230, P704233, 704230, 704233
+ile aynı gün faturalandırılmaz. A-V fistül iğnesi, A-V
+kan seti, diyalizör, serum, antikoagülan olarak
+p “e, | Kullanılan düşük molekül ağırlıklılar dahil her türlü
+P704210 | Acil hemodiyalizi | oyarin, konsantre hemodiyaliz solüsyonu (bazik ve 38785
+asidik), Sağlık Rakanlığınca yayımlanan Diyaliz
+Merkezleri o Hakkındaki (o Yönetmelik (o gereğince
+yapılması zorunlu olan tetkikler ile kullanılan her türlü
+serum ve seans sırasında gelişen komplikasyonların
+tedavisinde kullanılan ilaçlar dahildir.
+SUT'un 24.4.D-1 numaralı maddesine bakınız.
+P704210, P704233, 704210, 704233 ile aynı gün
+a faturalandırılmaz. A-V fistül iğnesi, A-V kan seti,
+P704230 | Hemodiyaliz. | giyalizör, serum, antikoagülan olarak kullanılan düşük 38785
+molekül ağırlıklılar dahil her türlü heparin, konsantre
+hemodiyaliz solüsyonu ve her türlü serum dahildir.
+SUT'un 244.D-1-1 numaralı maddesine bakınız.
+P704210, P704230, 704210, 704230 ile aynı gün
+liz; | | faturalandırılmaz. A-V fistül iğnesi, A-V kan seti, 387,85
+P704235 | Pvhemodiyalizi | | giyalizör, serum, antikoagülan olarak kullanılan düşük
+molekül ağırlıklılar dahil her türlü heparin, konsantre
+hemodiyaliz solüsyonu ve her türlü serum dahildir.
+
+Sayfa : 178 RESMİ GAZETE 21 Kasım 2018 — Sayı : 30602 (Mükerrer)
+
+MADDE 8- SUT Eki Ek 2C Listesinden aşağıda yer alan işlem kodunun çıkarılmasına oybirliği ile,
+
+PAKET İŞLEM
+
+yesin Gi © (ORAN
+SUT'un 2440-1 numaralı maddesine bakınız.
+P704210, P704230, P704233 ile ayni gün
+ai faluralandınılmaz. A-V fistül iğnesi, A-V kan seti,
+
+pzojasa | Eiemmdiyeliz. | diyalizor, serum, amükcagüln olarak kullamlan TISAK
+düşük molekül ağırlıklılar dahil her türlü heparin,
+könsantre hemodiyaliz solüsyonu ve her türlü serum
+dahildir. m
+
+MADDE 9- Sağlık Uygulama Tebliği eki “Yurt Dışı aç Fiyat Listesi (Pk-4/C)nde yer alan “SUCRAID ORAL
+SOLUSYON 8500TUML. 118 MI isimli ilacın isminin ve ömbalaj miktarını, “SUCRAID ORAL SOLUSYON 8500
+TU/ML 2X118 ML" şeklinde değiştirilmesine,
+
+MADDE 10- Sağlık Uygulama Tebliğinin “Spinsl Musküler Atrofi Tip-1 (SMA Tip-1) hastalığında nusinersen
+sodium kullarım ilkeleri” başlıklı 4.249 maddesinin;
+
+a) Üçüncü fikrasının (e) bendinin âşağıda belirtildiği şekilde değiştirilmesine,
+
+*“o) Bu maddenin 3 uncu fıkrasının (a) ve (b) bentlerinde belirtilen Kriterlere uyan hastalarda invaziv/non invaziv
+mekanik solunum desteği ihtiyacı olup olmadığına bakılmaksızın tedaviye başlanır. İlk 4 doz ilaç kullanımı başlangıç tedavisi
+olarak kabul edilir ve ilk 4 doz ilaç kullanımı sürecinde SMA” dan kaynaklı invaziv mekanik solunum desteği ihtiyacı ve
+süreleri değerlendirmelerde dikkate alınmaz. $ inci ve takip eden dozlar idame ledavilerdir *
+
+b) Üçüncü fikrasının (ç) bendine aşağıda yer alan düzenlemelerin eklenriesine,
+
+“Komisyon tarafından verilecek onaylarda; CHOP INTEND puanlaması ile göğüs hastalıkları veya çocuk yoğun
+bakım uzman hekimi tarafindan 24 saat süreli izlemde raporlanmış günlük invuziv mekanik solünüm desteği ihtiyacı süresi
+ana kriterlerdir, Non invaziv mekanik solunum desteği ihtiyacı değerlendirmelerde dikkate ulmunaz. $ inci doz için verilecek
+“İlaç Kullanım Onayı” nda, başlangıç puanına göre CHOP INTEND puanında en az 4 puan artış ve invaziv mekanik solünüm
+desteği ihtiyacında kesintisiz en az Â sant/gün azalma olması gerekmekte olup bü dürün sağlık kurulu raporunda
+belirtilmelidir. 6, 7, 8 ve 9 uncu dozlar için verilecek “İlaç Kullanım Onayı” nda, CHOP INTEND puanında bir önceki doza
+göre artış ve invaziv mekanik solunum desteği ihtiyacında azalma olması gerekmekte olup bu durum sağlık kurulu raporunda
+belirtilmelidir, 10 uncu doz için verilecek “İlaç Kullanımı Onayı” nda, başlangıç puanına göre CHOP INTEND puanında en
+az 16 puan artış ve invaziv mekanik solunum desteği ihtiyacının kalıcı olarak ortadan kalkmış olması vey CHOP INTEND
+Puanının en az 40 puan ve 15 gün boyuncu invaziv mekanik solunum desteği ihtiyacının en fazla 8 ssav/gün olması
+gerekmektz olup bu durum sağlık kurulu raporunda belirtilmelidir. CHOP İNTEND puanlaması ve günlük invaziv mekanik
+solunum desteği ihüyacı süresi tanımlanan kriterlere uygun olmayan hastalarda tedaviye son verilir.
+
+Tedavi siirecinde, SMA” dan kaynaklı olmayan, enfeksiyon vb. durumlardan dolayı invaziv mekanik solunum.
+desteği ihtiyacı gelişen ve/veya invaziv mekanik solunum desteği ihtiyacı süresi artan ancak sebep ortadan kalktıktan sonra
+invaziv mekanik solunum desteği ihtiyacı ortadan kalkın ve/veya invaziv mekunik solunum desteği ihtiyacı süresi azalarak
+bir önceki değerlere dönen haslalarda tedavi kesilmez ”
+
+MADDE 11- “Obinituzamab” etken meddeli Kronik Lenfositik Lösemi hastalarında endike olan “GAZYVA 1000
+mg TV konsantre infüzyon çözeltisi içeren Makon” isimli ilacın Sağlık Uygulama Tebliği eki “Bedeli Ödenecek İlaçlar Listesi
+(ER-VA)” ne ilavesine, yerekli SUT düzenlemesinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına,
+
+MADDE 12- “Karmustin” etken niaddeli “BICNU 100 mg Enj. Çöz. için Toz İçeren Flakon ve Çözücü” isimli ilacın
+yeni kamu fiyatının MEDULA sislemine nmlanmasına,
+
+MADDE 13- Hepatit C tedavilerinde kullanılan ilaçlara ilişkin olarak;
+
+1 “MAVIRET 100 mg/40 mg Film Kaplı Tablet” isimli ilacın geri ödeme Kapsanına alınmasına,
+
+2.“SOVALDİ 400 Mg 28 Film Kaplı Tablet” isimli ilacın geri ödeme kapsamından çıkarılmasına,
+
+3. Hepatit C tedavilerinde kullanılan ilaçların tamamına yönelik gerekli SUT düzenlemelerinin Genel Sağlık Sigortası
+Genci Müdürlüğünce yapılmasına,
+
+MADDE 14- Sağlık Bâkanlığı Ulusal Zehir Danışına Merkezi'nce acil durumlarda zelirlenme vakalarında
+Kullanılmak üzere Antidot Stok Merkezince Hastanelere gönderilecek olan “Physosligmine Selicylate Injection (Img/ml, 2.
+ml 10 ampul/kutu)” isimli unüdotur kutu fiyatı 2.570,40 TL, birim fiyatı 257.04 TL olacak şekilde ve “BAL in Oil
+(100mg/ml, 3 ml 10 ampul/kutu)” isimli antidotun kutu fiyatı 9.874,28 TL, birim fiyatı 987,42 TL olacak şekilde MEDULA
+sisteminde tanımlanarak geri ödeme kapsamına alınmasına,
+
+MADDE 15- Sağlık Uyguluma "Tebliği eki “Ek-3/O Hematoloji-Onkoloji Branşına Ait Trbbi Malzemeler” listesinde
+yer alan HO1014 SUT kodlu tıbbi malzeme alan tarımına “(2 kolon dahildir)” ibaresinin eklenmesine oybirliği ile,
+
+MADDE 16- Sağlık Uygulama Tebliği eki “Ek-3/M Radyoloji Branşı ve LndovaskülerNonvasküler Girişimsel
+İşlemlere Ait Tıbbi Malzemeler” listesinde yer alan “ABLASYON, TÜMÖR” buşlığımn alındaki ödeme kuml ve/veya
+kriterlerinin uşağıdaki şekilde yeniden düzenlenmesine oybirliği ile,
+
+A vi Cu
+1- Onkoloji, Genel Cerrahı, Girişimsel Radyoloji, Gastroenteroloji , Üroloji, Kulak Burun Boğaz Hastalıkları ve
+
+Perinatoloji uzmanlarından birinin uygulayıcı hekim olması koşulu ile sadece 3. basamak hastanelerde ve yalnızca
+
+solid organ tümörlerinde kullanılması halinde;
+
+â) Onkoloji, Genel Cerahi, Girişimsel Radyoloji, Gastroenteroloji , Uroloji ve Kulak Burun Boğaz Hastalıkları
+üzmnrilarındarı birinin uygulayıcı olması durumunda bu branşlardan iki tane uzman hekimin yer aldığı üçlü
+hekim raporu ile;
+
+b) Perinatoloji uzmanının uygulayıcı olması durumunda 2 perinatolog, 1 yenidoğan uzmanının yer aldığı üçlü
+hekim raporu ile,
+bedeli Kurumca karşılanır
+
+2- Ayr senmsla sadece bir &del kullamlassı halinde bedeli Kurumca karşılanır.
+
+21 Kasım 2018 — Sayı : 30602 (Mükerrer) RESMİ GAZETE Sayfa : 179
+
+MADDE 17- Sağlık Uygulama Tebliği eki “Ek-3/A Birden Fazla Branşta Kullanılan Tıbbi Malzemeler” listesine
+yeni bir SUT kodu eklenerek; tıbbi malzeme alan tanımı, fiyatı ve endikasyon kriterlerinin aşağıdaki gibi belirlenmesine
+oybirliği ile,
+
+SUT KODU | SUT Alan Tanımı NN
+KN a
+Dermatomla ulaşılamayan yüz, boyun, el, ayak, perine ve eklem bölgelerini içeren derin
+ikinci derece yanıklarda, sadece yanık merkezlerinde ve vaka başına en fazla bir adet
+
+kullanılması durumunda Kurumca bedelinin karşılanır.
+
+MADDE 18- Sağlık Uygulama Tebliği eki “Ek-3/C-4 Tıbbi Sarf Malzemeler” listesine yeni bir SUT kodu eklenerek;
+
+tıbbi malzeme alan tanımı, fiyatı ve endikasyon kriterlerinin aşağıdaki gibi belirlenmesine oybirliği ile,
+SUT KODU | SUT Alan Tammı
+İnhalasyon için (Hipertonik salin X67 NaCL, 960.1 Sodyum Hiyalüronat) Hipertonik 31511
+Steril Çözelti, 1 ampul ”
+Kistik fibrozis hastalarında üçüncü basamak sağlık hizmet sunucularında 6 yaş üstü
+çocuk hastalar için en az bir çocuk göğüs hastalıkları, 18 yaş üstü hastalarda en az bir
+göğüs hastalıkları uzmanının bulunduğu sağlık kurullarınca düzenlenen sağlık kurulu
+raporuna dayanılarak nebülizasyon ile kullanılan günde en fazla 2 adet flakon/ampul
+olarak tüm hekimler tarafından 2 aylık süreler ile reçete edilmesi halinde Kurumca bedeli
+karşılanır,
+
+MADDE 19- Sağlık Uygulama Tebliğinin 3.1.2. Ayakta tedavilerde kullanılan tıbbi malzemeler maddesinin 17.
+Fıkrasının (b) bendine “Gaziler Fizik Tedavi ve Rehabilitasyon Eğitim ve Araştırma Hastanesi tarafından temin edilen hazır
+ortez/protezler ile diğer iyileştirici araç ve gereçlerin, temin edilme bedeli üzerine 10 brüt asgari ücret tutarını geçmemek
+üzere 9012 oranında işletme gideri eklenerek Kuruma fatura edilir.” Hükmünün eklenmesi,
+
+MADDE 20-Alınan kararlardan;
+
+1- 1 numaralı kararın 18/05/2018 tarihinde,
+
+2-4 numaralı kararın 05/07/2018 tarihinde,
+
+3-5, 6, 7 ve 8 numaralı kararların 01/10/2018 tarihinde,
+
+4- 9 numaralı kararın 18/7/2014 tarihinde,
+
+5- 10 numaralı kararın (a) bendinin 9/9/2017 tarihinde, 10 numaralı kararın (b) bendi ile 12 numaralı kararın
+
+18/9/2018 tarihinde,
+
+6-2,3, 11, 13, 15, 16, 17 ve 18 numaralı kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde
+Değişiklik Yapılmasına Dair Tebliğ'de belirtilen tarihte,
+
+7- 14 numaralı kararın 3/9/2018 tarihinde,
+
+8- 19 numaralı kararın yayımı tarihinde,
+
+yürürlüğe girmesine oybirliği ile,
+
+18/9/2018 tarihinde gerçekleşen toplantıda alınan kararların EK -1'deki şekilde Resmi Gazete'de yayımlanmasına,
+
+Karar verilmiştir.

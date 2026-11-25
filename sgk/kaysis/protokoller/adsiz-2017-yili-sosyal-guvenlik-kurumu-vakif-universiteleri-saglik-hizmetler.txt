@@ -1,0 +1,156 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105512
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Sözleşme / Protokoller
+SAYI: 
+ADI: 2017 YILI SOSYAL GÜVENLİK KURUMU/ VAKIF ÜNİVERSİTELERİ SAĞLIK HİZMETLERİ PROTOKOLÜ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 193546a39725ce9709afbe7f1c632f620eb3611a0c9d7355c93b9c92e1e960e1
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+              SOSYAL GÜVENLİK KURUMU/ VAKIF ÜNİVERSİTELERİ
+                      SAĞLIK HİZMETLERİ PROTOKOLÜ
+
+
+1. TARAFLAR, AMAÇ, DAYANAK, KAPSAM VE TANIMLAR
+
+     1.1. Taraflar
+      Sosyal Güvenlik Kurumu ile …………. Üniversitesi’dir.
+
+       1.2. Amaç
+        Sağlık hizmetleri finansmanı Kurumca karşılanan kişilere, …………. Üniversitesi sağlık
+hizmeti sunucusu tarafından temin edilecek sağlık hizmetlerinin sağlanmasının usul ve esasları ile
+karşılıklı hak ve yükümlülüklerin belirlenmesidir.
+
+     1.3. Dayanak
+       Bu protokol 5510 sayılı Kanunun 73 üncü maddesi ve 26.03.2016 tarihli 29665 sayılı
+Resmi Gazete’de yayımlanan “Sosyal Güvenlik Kurumu Sağlık Hizmeti Satın Alım
+Sözleşmelerinin/Protokollerinin Hazırlanması Ve Akdedilmesine İlişkin Yönetmelik” e
+dayanılarak hazırlanmıştır.
+
+     1.4. Kapsam
+       Bu protokol Sosyal Güvenlik Kurumunu, ………… Üniversitesi sağlık hizmeti
+sunucusunu, genel sağlık sigortalıları ile bakmakla yükümlü oldukları kişiler ile ikili sosyal
+güvenlik sözleşmeleri çerçevesinde sağlık hizmeti Kurumca sağlanan kişileri kapsar.
+
+      1.5. Tanımlar
+          1.5.1. Kurum: Sosyal Güvenlik Kurumunu,
+          1.5.2. Kanun: 31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununu,
+          1.5.3. Sağlık Hizmeti Sunucusu (SHS): Üniversitenin bünyesinde hizmet veren sağlık
+kurum ve kuruluşlarını,
+          1.5.4. Mevzuat: Kanun, tüzük, yönetmelik, tebliğ, genelge, yönerge, genel yazı, usul ve
+esasları,
+          1.5.5. Sağlık Uygulama Tebliği (SUT): Kurum tarafından yayımlanan ve hizmetin
+verildiği tarihte yürürlükte olan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+          1.5.6. MEDULA: Sağlık hizmetlerine ilişkin verilerin Kurumca toplanması ve bu
+verilere dayanılarak sağlık hizmeti sunucusu tarafından faturalama işleminin gerçekleştirilmesi
+amacıyla Kurum tarafından uygulanan ve işletilen elektronik bilgi sistemini,
+          1.5.7. Hasta: Sosyal Güvenlik Kurumu tarafından sağlık hizmetleri finansmanı
+karşılanan ve bu protokolün (2) numaralı maddesinde sayılan kişileri,
+          1.5.8. Kurum İlgili Birimi: SHS’nin protokolünün yürütüldüğü, Kurumca
+yetkilendirilen ilgili Sağlık Sosyal Güvenlik Merkezini,
+          ifade eder.
+
+2. PROTOKOLE GÖRE HİZMET ALACAK KİŞİLER
+      SUT’un (1.2) numaralı maddesinde belirtilen kişilerdir.
+
+
+
+                                                1
+3. UYGULANACAK USUL VE ESASLAR
+      SHS, Kurum tarafından çıkarılan mevzuat ile kuruluş ve faaliyetiyle ilgili mevzuata
+uymakla yükümlüdür.
+
+4. ÖDEME ŞARTLARI VE SÜRESİ
+      4.1. SHS hastalara verdikleri hizmetlere ilişkin faturaları; SUT ve Kurumun ilgili
+mevzuatına uygun olarak düzenleyerek teslim etmeyi kabul ve taahhüt eder.
+      4.2. MEDULA sistemi üzerinden faturalandırma işlemi SUT ve Kurumun ilgili mevzuatına
+uygun olarak yapılır.
+      4.3. SHS’ye SUT ve Kurumun ilgili mevzuatına uygun olarak ödeme yapılır.
+      4.4. Kurum mevzuatına aykırı olarak yapılan işlemlerin bedelleri ödenmez, ödenmiş ise
+yapılan bu ödemeler yersiz ödeme kabul edilir ve mevzuat hükümleri çerçevesinde tahsil edilir.
+      4.5. SHS’ye yapılan yersiz ödemeler, ödeme tarihinden itibaren Kanunun 89 ncu
+maddesine göre hesaplanacak faizi ile birlikte, SHS’nin Kurumda tahakkuk etmiş alacağından
+mahsup edilir.
+
+5. DENETİM
+       Kurum, SHS tarafınca verilen hizmetlere ilişkin bilgi ve belgeleri, verilen hizmetin
+protokol kapsamına uygunluğunu ve hizmetin niceliğini kontrol eder. Kurum bu yetkisini uygun
+gördüğü zamanda ve yerde görevlendireceği personel aracılığıyla veya ihtiyaç duyulması halinde
+Kurum dışı kişi veya kuruluşlara yaptırmak suretiyle kullanabilir.
+
+6. PROTOKOLÜN FESHİ
+      Taraflar en az 10 (0n) gün önceden yazılı bildirimde bulunmak şartıyla protokolü her
+   zaman feshedebilir.
+
+7. PROTOKOLE İLİŞKİN USUL VE ESASLAR
+      7.1. Bu protokol hükümleri protokol kapsamındaki SHS için geçerlidir.
+      7.2. SHS tarafından verilen hizmetlere ilişkin faturalar ve ekleri, hizmetin verildiği ilin
+bağlı bulunduğu Kurum ilgili birimine teslim edilecektir.
+      7.3. Kurum tarafından SHS’ ye yapılacak tebligatlar faturayı düzenleyen SHS’ nin Kuruma
+yazılı olarak bildirdiği adresine, SHS tarafından Kuruma yapılacak tebligatlar ise hizmetin
+verildiği ilin bağlı bulunduğu Kurum ilgili biriminin adresine yapılacaktır.
+      7.4. SHS, Kurumdan doğmuş ve doğacak alacaklarını hiçbir suretle devir ve temlik
+edemez.
+      7.5. Protokolden doğacak her türlü vergi, resim, harç ve masraflar sağlık hizmeti
+sunucusuna ait olacaktır.
+      7.6.Protokolde hüküm bulunmayan hallerde, yürürlükte olan SUT ve ilgili mevzuat
+   hükümleri uygulanır.
+      7.7. Kurum ile protokolü bulunan SHS tavan dahilinde belirlediği ilave ücretleri, Kurumca
+ilave ücret tavan oranının duyurulmasını ve/veya Kurumca ödenecek sağlık hizmeti bedellerinin
+yayımlanmasını takiben 30 (otuz) gün içinde; alınacak ilave ücretlere ilişkin değişiklikleri ise 10
+(on) iş günü öncesinde ve protokol kapsamında yer alan her bir branş için ayrı ayrı olmak üzere
+yazılı ve CD ortamında Kuruma bildirmekle yükümlü olup, yükümlülüğünü yerine getirmediği
+takdirde 10.000 TL. cezai şart uygulanır.
+      7.8. Protokolün (7.7) numaralı maddesine aykırı işlem yapıldığının tespit edilmesi
+halinde, bildirim yükümlülüğü tüm branşlar için bir bütün olarak kabul edilerek tek bir cezai
+şart uygulanır.
+
+                                                2
+       7.9. SHS, Kurumun tek taraflı olarak değişiklik yapma hakkına sahip olduğunu ve yapılan
+değişikliklere aynen uymayı kabul ve taahhüt eder. Kurum protokol şartlarında ek protokol ile
+sağlık hizmeti bedellerinde ise ek protokol gerektirmeden değişiklik yapabilir. SHS protokolün
+yürütümü sırasında yapılan değişikliklerin gereğini belirlenen süreler içerisinde yerine
+getirmekle ve talep edilmişse durumu Kuruma bildirmekle yükümlüdür. Aksi halde SHS gerekli
+bildirimleri yapana kadar MEDULA’da pasif hale getirilir.
+       7.10. SHS, 5237 sayılı Kanunda belirtilen ve Kurum zararına neden olan nitelikli
+dolandırıcılık suçuna ilişkin Kanunun 103 üncü maddesinde yer alan hükümlerin gereğine
+uymakla yükümlüdür.
+       7.11. SHS, hastalara ait tıbbi bilgilerin gizliliği ile ilgili yasal yükümlülüklere uyacaktır.
+
+8. YETKİLİ MAHKEME
+        Bu protokolün uygulanmasından doğan uyuşmazlıklarda Ankara ili mahkemeleri ve icra
+daireleri yetkilidir.
+
+9. YÜRÜRLÜK
+      9.1. Bu protokol 01/01/2017 tarihi ile 31/12/2017 tarihi arasında verilen sağlık hizmetleri
+için geçerli olmak üzere imzalandığı tarihte yürürlüğe girecek olup, taraflarca imzalanan bir
+önceki protokol yürürlükten kaldırılmış sayılır.
+      9.2. Kurumca yeni bir protokol duyurulmasına rağmen SHS tarafından yeni protokol
+imzalanmaz ise protokolün ( 6 ) numaralı maddesine göre bir önceki protokolü feshedilir.
+      9.3. Her takvim yılının 15 Aralık günü mesai saati bitimine kadar taraflardan biri feshi ihbar
+etmediği takdirde protokol aynı şartlarla bir yıl daha uzamış sayılır.
+
+10. YÜRÜTME
+      10.1. Bu protokol Sosyal Güvenlik Kurumu Başkanlığınca yürütülür.
+      10.2. Üç sayfa ve iki nüsha olarak düzenlenen bu protokol, taraflar arasında karşılıklı
+mutabakat ile imzalanmış olup bir nüshası ………….. Üniversitesinde, bir nüshası da Kurumda
+saklanacaktır.
+
+
+
+
+………………………………….                                                Sosyal Güvenlik Kurumu
+Üniversitesi Rektörlüğü                                Genel Sağlık Sigortası Genel Müdürlüğü
+
+
+
+
+Örnekleme yöntemini kabul ediyorum/etmiyorum.
+                                                                Üniversitesi Rektörlüğü
+
+
+
+
+                                                 3
+

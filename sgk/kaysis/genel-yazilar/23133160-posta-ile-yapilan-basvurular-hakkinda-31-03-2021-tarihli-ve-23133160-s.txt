@@ -1,0 +1,64 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/175590
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 23133160
+ADI: POSTA İLE YAPILAN BAŞVURULAR HAKKINDA 31.03.2021 TARİHLİ VE 23133160 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 814f6780ca79381638e717ff1b3f147393641cb38685969c23d07cd9d2e98e12
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C.
+                                 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sayı : E-15591373-010.06.01-23133160                                                                             31.03.2021
+Konu : Posta ile Yapılan Başvurular
+
+                                                         GENEL YAZI
+
+         3201 sayılı Kanun kapsamında yurt içinden ya da yurt dışından taahhütlü ve iadeli taahhütlü
+olarak gönderilen başvurularda hangi tarihin başvuru tarihi olarak esas alınacağı 10.01.2021 tarihli ve
+2021/2 sayılı “Yurt Dışı Borçlanma İşlemleri” konulu Genelgenin “3. Yazılı İstekte Bulunmak” başlığı
+altında açıklanmıştır.
+         Söz konusu Genelgenin ilgili bölümünde, yurt dışından RA ila RZ kodu ile gönderilen postaların
+taahhütlü gönderi, EA ila EZ kodu ile gönderilen postaların ise acele posta gönderisi olması sebebiyle bu
+kodlarla gönderilen postaların postaya veriliş tarihlerinin Kuruma başvuru veya bildirim tarihi olarak
+kabul edileceği yer almaktadır.
+         Diğer yandan Kurumca talimatlandırılmamış olmasına rağmen gönderinin postaya veriliş
+tarihinin, zarf üzerinde bulunan kod aracılığıyla “PTT Gönderi Takip” sisteminden sorgulanarak
+belirlendiği anlaşılmıştır.
+         Bu nedenle, yurt dışından RA ila RZ ve EA ila EZ kodları ile gönderilen postaların postaya
+veriliş tarihinin, zarf üzerinde yer alan tarihin mi yoksa “PTT Gönderi Takip” sisteminden tespit edilen
+tarihin mi esas alınacağı hususunda tereddütler yaşandığı anlaşılmıştır.
+         Konu ile ilgili olarak Posta ve Telgraf Teşkilatı Anonim Şirketi ile yapılan yazışma neticesinde,
+yurt dışından gönderilen yukarıdaki kodları taşıyan gönderilerde, zarfın üzerinde bulunan tarihin, postaya
+veriliş tarihi olarak alınması gerektiği anlaşılmıştır.
+         Buna göre, yurt dışı gönderilerinde “PTT Gönderi Takip” sisteminden sorgulama yapılmadan zarf
+üzerindeki tarihin esas alınarak işlem tesis edilmesi gerekmektedir.
+         Diğer taraftan, yurt dışından yukarıdaki kodlarla gönderilen bazı başvurularda zarf üzerindeki
+postaya veriliş tarihi ile zarfın Kuruma intikal ettiği tarih arasında bir seneyi aşan süre bulunduğu
+gözlemlenmiştir.
+         Konu ile ilgili sözleşmeli ülke sigorta kurumları aracılığı ile ilgili ülke posta kurumlarından alınan
+çeşitli yazılarda, gönderinin zarf üzerinde bulunan tarihte teslim alındığı ancak sebebi tam olarak tespit
+edilemeyen nedenlerden dolayı söz konusu gecikmelerin yaşandığı bilgisi alınmıştır.
+         Bu nedenle, zarf üzerindeki postaya veriliş tarihi ile zarfın Kuruma intikal ettiği tarihi arasında
+uzun süre geçmiş taleplerde de, gecikme sebebi araştırılmadan zarf üzerindeki tarih esas alınarak talepler
+sonuçlandırılacaktır.
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+                                                                                                        İsmail ERTÜZÜN
+                                                                                                         Genel Müdür V.
+DAĞITIM:
+Merkez ve Taşra Teşkilatı
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                                Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9
+

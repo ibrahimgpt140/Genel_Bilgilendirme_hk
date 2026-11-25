@@ -1,0 +1,75 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/143423
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 7147668
+ADI: 4/7/2018 TARİHLİ 7147668 SAYILI E-BİLDİRGEDE SON ÜÇ GÜN KONTROLÜ HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: fec983e43f2d5093d9868cece47059eb032b1fb2cb0e465ae839083d6eb9f671
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+$S G K Sigorta Primleri Genel Müdürlüğü
+Sayı :41481264-207.02-E.7147668 04/07/2018
+Konu O: e-Bildirgede son üç gün kontrolü
+GENEL YAZI
+
+Bilindiği üzere, sigorta primi teşvik, destek ve indirimlerden yersiz yararlanma durumu hata
+listeleri vasıtasıyla kontrol edilmekte olup, hata listelerinde yer alan kayıtlar düzeltilmediği sürece
+e-Bildirge üzerinden cari ayda kanun numaralı belge düzenlenmesi engellenmiş (son üç gün hariç)
+ve bu uygulama 2018/Mayıs (dahil) ayına ilişkin aylık prim ve hizmet belgesinin düzenlenmesine
+kadar devam etmiştir.
+
+Ancak, ünitelerimizin iş yoğunluğu nedeniyle hatalı kayıtların yeterli oranda düzeltilemediği
+ve işverenlerimizin kanun numaralı belgeleri genel itibariyle son üç gün Kurumumuza
+gönderdikleri, dolayısıyla hatalı teşvik kaydı olmasına ve bu durumun işverenlerce bilinmesine
+rağmen kanun numaralı belge düzenlenmeye devam edildiği hususları dikkate alınarak, 2014
+yılından itibaren uygulanmakta olan bahse konu uygulamanın 2018/Haziran ayına ait aylık prim ve
+hizmet belgelerinden başlanmak üzere kaldırılması Genel Müdürlüğümüzce uygun görülmüştür.
+
+Diğer taraftan, 7143 sayılı Kanun ile 2018 yılı Mart ve önceki aylara ilişkin sigorta primi,
+işsizlik sigortası primi ile bunlara bağlı gecikme cezası ve gecikme zammı alacakları yapılandırma
+kapsamına alınmış olup, konuya ilişkin 2018-19 sayılı Genelgenin “75-8-Yersiz Yararlanılan Prim
+Teşviki, Destek ve İndirimlere İlişkin Kayıtların Düzeltilmesinden Sonra Yapılandırma İşlemlerine
+Başlanılması” başlıklı bölümünde hatalı kayıtların ünitelerimizce re'sen düzeltilmesinden sonra
+yapılandırma işlemlerinin yerine getirileceği hususu açıklanmıştır.
+
+Bu bağlamda, Kurumumuz sistemlerinden alınan hatalı teşvik listeleri ilişikte gönderilmiş
+olup, söz konusu hatalı kayıtların ünitelerimizce düzeltilmesi, işyerine ait hata listesinin bir
+örneğinin işyeri dosyasına konulması ve iptali yapılan hatalı kanun numaralı belgenin hata
+listelerinden silinmesi amacıyla gerek 3270 HOST ekranları üzerinden 10-6-10 nolu seçenekler
+işaretlenmek suretiyle, gerekse “İşveren intra (isv CICS menülerinin intra versiyonu)”
+programlarında yer alan “hatalı teşvik bildirimi sorgulama/güncelleme” ekranları vasıtasıyla hata
+listelerinin güncelleme işleminin yapılması gerekmektedir.
+
+Bilgi edinilmesini, 7143 sayılı Kanun ile getirilen yapılandırma hükümlerinden yararlanmak
+isteyen işverenler için son başvuru tarihinin 31/7/2018 (dahil) tarihi olduğu ve hata listelerinde yer
+alan işverenlerin, hatalı kayıtların düzeltilmesinden doğacak borçlarının anılan Kanun kapsamında
+yapılandırılması talebinde bulunabilecekleri, ayrıca hatalı teşvik kaydı bulunan işverenlerin
+2018/Haziran bildirgesinden itibaren kanun numaralı bildirge düzenleyemeyeceği hususları dikkate
+alınarak, bu işlemlerin en geç 15/7/2018 tarihi mesai bitimine kadar gerçekleştirilmesi hususunda
+gereğini rica ederim.
+
+Ek:1- Hatalı teşvik listesi Özge SONGÜL
+Genel Müdür V.
+
+Dağıtım :
+
+Gereği için — : Bilgi :
+
+Tüm taşra teşkilatına İşverenler Daire Başkanlığına
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+Adres :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+
+Tel :0312 458 7159 Faks 10312431 2874
+
+E-posta ( : istihdamtesvikleridb(Osgk.gov.tr Elektronik Ağ :www.sgk.gov.tr
+
+HSGM (Sigorta Yazılım Daire Başkanlığına)
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel :0312 458 7159 Faks 10312431 2874
+E-posta ( : istihdamtesvikleridb(Osgk.gov.tr Elektronik Ağ :www.sgk.gov.tr

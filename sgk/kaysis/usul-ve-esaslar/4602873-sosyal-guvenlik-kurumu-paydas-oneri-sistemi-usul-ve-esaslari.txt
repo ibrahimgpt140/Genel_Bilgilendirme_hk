@@ -1,0 +1,258 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74313
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 4602873
+ADI: SOSYAL GÜVENLİK KURUMU PAYDAŞ ÖNERİ SİSTEMİ USUL VE ESASLARI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 84752e72c92553eb2655330171e35f0d26b8d7adc5e5a4e08d9fdfa04820bdff
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                           T.C.
+        SOSYAL GÜVENLİK KURUMU PAYDAŞ ÖNERİ SİSTEMİ
+                     USUL VE ESASLARI
+                                    BİRİNCİ BÖLÜM
+                                 Amaç, Kapsam ve Tanımlar
+
+        Amaç
+        MADDE 1- (1) Bu Usul ve Esasların amacı, paydaşların Kurumumuzla ilgili
+uygulamaya ilişkin görüşlerinden yola çıkarak, Kurumumuzun gelişimine katkı sağlayacak
+önerilerinin alınması ve etkin bir şekilde değerlendirilmesine yönelik esasların belirlenmesi
+ile bu kapsamda gerçekleştirilecek iş ve işlemleri yürütmekle sorumlu kişi, grup ve kurulların
+görev, yetki ve sorumluluklarını düzenlemektir.
+
+       Kapsam
+       MADDE 2- (1) Sosyal Güvenlik Kurumunun merkez ve taşra teşkilatında yürütülen
+tüm faaliyet alanları ile ilgili konularda paydaşlardan gelen önerilerle ilgili işlemleri kapsar.
+
+      Dayanak
+      MADDE 3- (1) Bu Usul ve Esaslar, 5502 sayılı Sosyal Güvenlik Kurumu
+Kanunu’nun 20 nci maddesinin birinci fıkrasının (c) bendi ile 08.03.2012 tarihli ve 77 sayılı
+Yönetim Kurulu Kararı ile onaylanan Sosyal Güvenlik Kurumu Strateji Geliştirme Başkanlığı
+Çalışma Yönetmeliğinin 10 uncu maddesine dayanılarak hazırlanmıştır.
+
+       Tanımlar
+       MADDE 4- (1) Bu Usul ve Esaslarda geçen;
+
+        a)       Paydaş Öneri Sistemi: Paydaşların Kurumumuzu doğrudan veya dolaylı
+ilgilendiren konularda, mevcut durumun iyileşmesine yönelik önerilerini ortaya koymalarını
+sağlayan, gelen önerileri değerlendiren, uygun olanlarını uygulamaya alan ve geribildirim
+veren sistemdir.
+        b)       Paydaşlar: 5502 sayılı Sosyal Güvenlik Kurumu Kanunu’nun 5 inci
+maddesinin birinci fıkrasının (ç), (d), (e), (f), (g) ve (h) bentlerinde sayılan sivil toplum
+kuruluşlarını ifade eder.
+        c)       Birim Öneri Değerlendirme Grubu (BÖDG):                 Öneri İzleme Grubu
+tarafından birimlerine yönlendirilen önerilerin uygulanabilir olup olmadığına karar veren,
+değerlendirme ve uygulama sonuçlarını Öneri İzleme Grubuna gönderen ve birimi adına
+bunlarla alakalı iş ve işlemleri yürüten, merkez ve taşra teşkilatında oluşturulan çalışma
+grubudur.
+        d)       Öneri: Bir işle ilgili olarak öne sürülen, kuruluşların/Kurumun temel amaç,
+hedef ve stratejileriyle uyumlu, sunulan hizmet ile ilgili, süreci iyileştirmeye ve verimliliği
+artırmaya yönelik yaratıcı düşüncelerin sistemli ifadesidir.
+        ç)       Öneri İzleme Grubu (ÖİG): Paydaşlardan gelen önerilerin; öneri kriterlerine
+uygun olup olmadığını kontrol eden, uygun önerilerden Kurumun genelini ilgilendiren
+önerileri ilgili birimlerin de görüşlerini alarak, Öneri Değerlendirme Kuruluna sunan, uygun
+bulunmayan öneriler için öneri sahiplerine geri bildirimde bulunan ve yapılan çalışmaların
+takibini ve sekretaryasını yürüten gruptur.
+       e)     Öneri Değerlendirme Kurulu (ÖDK): Öneri İzleme Grubu tarafından
+“mevzuat değişikliğiyle uygulanabilir veya proje olarak değerlendirilebilir” bulunan önerileri
+değerlendiren kuruldur.
+
+                                    İKİNCİ BÖLÜM
+                       Önerilerin Gönderilmesi ve Değerlendirilmesi
+
+        Önerilerin Gönderilmesi
+        MADDE 5- (1) Paydaşlar, üyelerinden gelen önerileri 6 ncı maddenin ikinci
+fıkrasındaki kriterlere göre değerlendirerek ve eleyerek Kurum internet sitesinde yer alan“
+Öneri Sistemi Giriş Paneli”ne Kurum tarafından yetkilendirilmiş personelin kullanıcı adı ve
+parolası ile giriş yaptıktan sonra bu sistem üzerinden gönderebilirler.
+
+       (2) Öneriler, Paydaş Öneri Sistemi panelindeki “yeni öneri” bölümünde yer alan,
+“öneri konusu”, “öneri içeriği” ve “sunulan çözüm” alanları doldurularak gönderilir. Ayrıca
+öneriye doküman ilave edilebilir.
+
+       (3) Öneri Sistemi üzerinden gelen her öneri, otomatik olarak öneri numarası alır ve
+elektronik ortamda kaydedilir. Sistem, öneri numarası alan her öneriyi, gerekli işlemlerin
+yürütülmesi için otomatik olarak bir Öneri İzleme Grubu üyesine atar.
+
+        Ön Değerlendirme
+        MADDE 6- (1) Sisteme gelen öneriler ilk olarak ön değerlendirme işlemine tabi
+tutulur. Ön değerlendirme işlemi Öneri İzleme Grubu üyelerince yapılır.
+
+        (2) Sosyal Güvenlik Kurumu Paydaş Öneri Sisteminde Kuruma katkı sağlayacak ve
+yenilik oluşturacak öneriler değerlendirilmeye alınır. Öneri Sistemine gelen öneriler içerisinde
+aşağıdaki nitelikleri taşıyan öneriler, değerlendirme dışında tutulur:
+            Dilek ve ihbarlar,
+            Kişisel talepler,
+            Çözüm önerisi içermeyenler,
+            Genel ahlaka aykırı ya da konusu suç teşkil eden ifadeler içeren öneriler,
+            Belirsiz ve soyut öneriler,
+            Daha önce verilmiş ve sonuçlandırılmış önerinin tekrarı olan öneriler,
+            Kurumumuzca yürütülen projeler ile aynı konuya ve/veya içeriğe sahip öneriler.
+            Kurumumuzun iş ve işlemlerini ilgilendirmeyen öneriler.
+            Kurum hizmetlerine yönelik fayda sağlamayacak öneriler.
+
+       (3) Sivil toplum kuruluşlarının yetkili personeli, üyelerinden gelen önerileri ikinci
+fıkradaki kriterlere göre detaylı bir şekilde inceleyerek, bu kriterlere göre ön değerlendirme
+işlemlerini yapar ve Kuruma katkı sağlayacak ve yenilik oluşturacak önerileri Öneri İzleme
+Grubu üyelerine sistem üzerinden gönderirler. Kuruma katkı sağlayacak ve yenilik
+oluşturacak öneriler, prim gelirlerini artıran, maliyetleri azaltan, verimliliği artıran, kurumun
+tanıtımına katkı ve zaman tasarrufu sağlayan, kaliteyi artıran, iletişimi geliştiren önerilerdir.
+
+       (4) Gönderilen öneriler, Öneri İzleme Grubu üyelerince ikinci fıkradaki kriterlere göre
+tekrar değerlendirilir. Öneri İzleme Grubunun, paydaşlardan gelen önerileri, öneri niteliği
+taşımadığı gerekçesi ile reddetme hakkı saklıdır.
+       (5) Öneri İzleme Grubu üyesi öneriyi inceler ve önerinin ikinci fıkradaki nitelikleri
+taşıması durumunda, öneriyi sahibine sistem üzerinden gerekçesi ile birlikte iade eder. Öneri
+sahibine iade edilen öneriler sisteme kaydedilir ancak diğer öneri sahiplerince
+görüntülenemez.
+
+       (6) Önerinin gerekli nitelikleri taşıması durumunda, öneri ilgili olduğu birim ya da
+birimlerin Birim Öneri Değerlendirme Gruplarına sistem üzerinden yönlendirilir.
+
+         Öneriler Hakkında Birim Görüşü Alınması
+         MADDE 7- (1) Ön değerlendirme işleminden sonra, öneri niteliği taşıdığı tespit
+edilen öneriler, ilgili olduğu merkez biriminin Birim Öneri Değerlendirme Grubuna
+yönlendirilir. Gerekli durumlarda öneri birden fazla birime de gönderilebilir. Birim öneri
+değerlendirme grubu, yönlendirilen öneriler hakkında birim içi koordinasyonu sağlayarak,
+öneri hakkındaki birim görüşünü belirler ve en geç 15 gün içinde sistem üzerinden cevabını
+bildirir. Birimin öneri hakkında bildirdiği görüş aşağıdaki yargılardan yalnızca birini içerir ve
+gerekçesi belirtilir. Öneri hakkındaki yargılar:
+                      i. “uygulanabilir”
+                      ii. “mevzuat değişikliğiyle uygulanabilir”,
+                     iii. “uygulanamaz”,
+                     iv. “proje olarak değerlendirilebilir”
+                      v. “konuyla ilgili devam eden bir çalışma var.”
+                     vi. “diğer”
+
+       (2) Yönlendirilen önerinin konusu yönlendirildiği birimin görev alanına girmiyor ise,
+öneri gerekçesi ile birlikte koordinasyon gerektiren öneriler hariç olmak üzere ilgili
+birim/birimlere Öneri İzleme Grubuna bilgi vermek kaydıyla yönlendirilir.
+
+       Önerilerin Değerlendirilmesi
+       MADDE 8- (1) Birim/Birimlerce en az bir birim tarafından “uygulanabilir, mevzuat
+değişikliğiyle uygulanabilir veya proje olarak değerlendirilebilir” bulunan öneriler Öneri
+Değerlendirme Kurulunca değerlendirilir.
+
+         (2) Öneri Değerlendirme Kurulu en az 1 en çok 3 ayda bir toplanır. Öneri İzleme
+Grubu, Kurul üyelerini toplantıdan 3 işgünü önce hangi önerilerin görüşüleceği konusunda
+bilgilendirir. Öneri Değerlendirme Kurulu üyeleri, önerileri ve öneriler hakkında birimlerin
+belirttiği görüşleri inceler. Her bir öneriyi, uygulanabilir veya uygulanamaz şeklinde karar
+verir. Uygulanamaz kararı verilen öneriler gerekçeleriyle beraber ilgili paydaşlara yazıyla
+bildirilir.
+
+       (3) Öneri Değerlendirme Kurulu tarafından en çok uygulanabilir öneri veren ilk 3
+paydaş Kurum Başkanlık Makamınca takdir edilen ödüllerle ödüllendirilebilir.
+
+
+                                   ÜÇÜNCÜ BÖLÜM
+                       Önerilerin Uygulanması ve Sistemin İzlenmesi
+
+       Önerilerin Uygulamaya Geçirilmesi
+       MADDE 9- (1) Birimler tarafından, “uygulanabilir, mevzuat değişikliğiyle
+uygulanabilir veya proje olarak değerlendirilebilir” olarak görüş bildirilen, Öneri
+Değerlendirme Kurulunca da uygulanabilir bulunan öneriler Kurum Başkanının onayını
+müteakip uygulanması üzere Öneri İzleme Grubunca ilgili birimlere gönderilir. Birimler,
+önerilerin takibinden ve uygulamaya geçirilmesinden sorumludur.
+
+       (2) Öneri konusunun birden fazla birimi ilgilendirmesi durumunda, önerilerin
+takibinden ve uygulanmasından birimler müteselsilen sorumludur. Uygun bulunan önerilerin
+uygulamaya geçirilmesi ile ilgili işlemler, öngörülen tarihe kadar tamamlanmalıdır.
+
+        (3) Birimler, uygulanmasına karar verilen önerilerle ilgili gerçekleştirme sonuçlarına
+dair istatistiki bilgileri; Nisan, Temmuz, Ekim ve takip eden yılın Ocak ayı sonuna kadar
+Öneri İzleme Grubuna yazılı olarak bildirir. Uygulama sonuçları, öneri değerlendirme
+kriterleri esas alınarak, ölçülebilir, sayısal değerlerle ifade edilmelidir.
+
+        Paydaş Öneri Sisteminin İzlenmesi
+        MADDE 10- (1) Strateji Geliştirme Başkanlığı tarafından Paydaş Öneri Sisteminin
+çıktıları değerlendirilerek, sistemin performansı izlenir.
+
+
+                                 DÖRDÜNCÜ BÖLÜM
+              Paydaş Öneri Sistemi Bünyesinde Kurulan Kurullar ve Gruplar
+
+        Birim Öneri Değerlendirme Grubunun Oluşumu
+        MADDE 11- (1) Birim Öneri Değerlendirme Grubu, birimleri ya da il müdürlüğünü
+ilgilendiren önerileri değerlendirmek üzere; yetkili grup üyesinin başkanlığında gerekli
+durumlarda toplanır. Birim Öneri Değerlendirme Grubuna gelen öneriler 7 nci madde
+çerçevesinde değerlendirilir.
+
+       (2) Grup üyeleri;
+
+       Ana Hizmet Birimlerinde;
+
+        Genel Müdürlüklerde;
+        Bir daire başkanı ve genel müdürlük bünyesindeki her daire başkanlığını temsilen en
+az birer personelden,
+        Rehberlik ve Teftiş Başkanlığında;
+        Bir Refakat Müfettişi ve Rehberlik ve Teftiş Başkanının yazıyla görevlendireceği üç
+personelden,
+
+       Danışma Birimlerinde;
+
+       Hukuk Müşavirliğinde;
+       Bir Hukuk Müşaviri ve Birinci Hukuk Müşavirinin yazıyla görevlendireceği üç
+avukattan,
+       Basın ve Halkla İlişkiler Müşavirliğinde;
+       Basın ve Halkla İlişkiler Müşaviri tarafından belirlenecek üç personelden,
+       İç Denetim Birimi Başkanlığında;
+       Üç iç denetçiden,
+       Strateji Geliştirme Başkanlığında, Stratejik Yönetim Daire Başkanı ve Başkanlık
+bünyesindeki her daire başkanlığını temsilen en az birer personelden,
+       Yardımcı Hizmet Birimlerinde;
+
+       Daire Başkanı ve görevlendireceği üç personelden,
+       Oluşur.
+
+      (3) Gelen önerilerle ilgili taşra birimlerinin görüşüne ihtiyaç duyulması halinde
+konusuna göre ilgili merkez birimi gerekli koordinasyonu sağlayarak öneriyi sonuçlandırır.
+
+       Öneri İzleme Grubunun Oluşumu
+       MADDE 12- (1) Öneri İzleme Grubu, Stratejik Yönetim Daire Başkanı ve en az dört
+personelden oluşur. Grupta en az üç üye tam zamanlı olarak görev yapar.
+
+       (2) Öneri İzleme Grubu gerekli durumlarda toplanır. Toplantıya Daire Başkanı
+başkanlık eder. Daire Başkanının katılamadığı toplantılara görevlendireceği Koordinatör
+başkanlık eder.
+
+        (3) Grup, ön değerlendirme kapsamında; gelen önerilerin kriterlere uygun olup
+olmadığını, kabul edilmeyen ya da birimlere yönlendirilmesine gerek kalmadan
+sonuçlandırılan önerilerle ilgili olarak öneri sahiplerine geri bildirimini ve uygun olarak kabul
+edilen önerilerin hangi birimi ilgilendirdiğinin tespitini yapar. Yaptığı bu çalışmaların
+sonucunda, kabul edilen önerileri ve bu öneriler hakkındaki birim görüşlerini ihtiva eden
+listeyi hazırlayarak Öneri Değerlendirme Kuruluna sistem üzerinden gönderir. Öneri
+Değerlendirme Kurulunca kabul edilen önerileri Başkanlık Makamına onaya sunar ve
+onaydan çıkanları uygulanmak üzere ilgili birimlere gönderir.
+
+
+        Öneri Değerlendirme Kurulunun Oluşumu
+        MADDE 13- (1) Birim Öneri Değerlendirme Kurullarınca “uygulanabilir, mevzuat
+değişikliğiyle uygulanabilir veya proje olarak değerlendirilebilir” şeklinde görüş bildirilen
+önerilerin değerlendirildiği Kuruldur. Kurula, Kurum Başkan Yardımcısı Başkanlık eder.
+
+       (2) Kurul üyeleri, aşağıdakilerden oluşur:
+
+   Strateji Geliştirme Başkanlığının bağlı olduğu Kurum Başkan Yardımcısı
+   Sigorta Primleri Genel Müdürü
+   Emeklilik Hizmetleri Genel Müdürü
+   Genel Sağlık Sigortası Genel Müdürü
+   Hizmet Sunumu Genel Müdürü
+   Strateji Geliştirme Başkanı
+   Birinci Hukuk Müşaviri
+
+       (3) Öneri Değerlendirme Kurulu üyelerinden birisinin yıllık izin, hastalık,
+görevlendirme, emeklilik, tayin vb. olduğu durumlarda vekaletini bıraktığı kişi Öneri
+Değerlendirme Kuruluna onun yerine katılır.
+
+       (4) İhtiyaç olması halinde genel müdürlüklerde ve başkanlıklarda görevli birim
+amirleri de toplantıya davet edilebilir.
+      (5) Yönetim Kurulunda temsil edilen paydaş temsilcisi de Öneri Değerlendirme
+Kurulunda bulunabilir.
+
+      Yürürlük
+      MADDE 14- (1) Bu Usul ve Esaslar yayım tarihinde yürürlüğe girer.
+
+       Yürütme
+       MADDE 15- (1) Bu Usul ve Esas hükümlerini Sosyal Güvenlik Kurumu Başkanı
+yürütür.
+

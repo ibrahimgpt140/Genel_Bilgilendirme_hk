@@ -1,0 +1,222 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/153014
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 10523544
+ADI: HİZMET BORÇLANMA PROGRAMI VE ENTEGRE TESCİL PROGRAMINDA YAPILAN DÜZENLEMELER HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 240e806d4551456e309b9d13898be36d62c5978312f19c351a76369110e39161
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sayı : 66325124-201.99-R.10523544 19/07/2019
+Konu : Hizmet borçlanma programı ve
+
+Entegre tescil programında yapılan
+
+düzenlemeler
+
+GENEL YAZI
+
+Bilindiği üzere, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunun 28
+inci maddesinin sekizinci fıkrasında, emeklilik veya yaşlılık aylığı bağlanması talebinde
+bulunan kadın sigortalılardan başka birinin sürekli bakımına muhtaç derecede ağır engelli
+çocuğu bulunanların, bu Kanunun yürürlüğe girdiği tarihten sonra geçen prim ödeme gün
+sayılarının dörtte birinin prim ödeme gün sayıları toplamına ekleneceği ve eklenen bu
+sürelerin emeklilik yaş hadlerinden indirileceği öngörülmüş, başka birinin sürekli bakımına
+muhtaç derecede ağır engelli çocuğu bulunan kadın sigortalılar hakkında yapılacak işlemlerin
+usul ve esasları ise 22/2/2013 tarih ve 2013/11 sayılı Genelgenin Sekizinci Kısım/Üçüncü
+Bölüm/Ağır Engelli Çocuğu Olan Kadın Sigortalılar başlıklı bölümde talimatlandırılmıştır.
+
+Kadın sigortalıların başka birinin sürekli bakımına muhtaç derecede ağır engelli
+çocuğundan dolayı 1/10/2008 sonrası prim ödeme gün sayısına ilave edilen sürenin otomatik
+olarak hesaplanmasına ve Tescil ve Hizmet Dökümünde görüntülenmesine yönelik program
+çalışması tamamlanmış ve 8/7/2019 tarihinden itibaren işletime alınmıştır.
+
+Söz konusu uygulamaya Entegre Tescil programı içerisinde yer alan “28/8 Md.
+İşlemleri" menüsünden girilecek olup uygulamaya yönelik kullanım kılavuzu ekte
+gönderilmiştir.
+
+Kadın sigortalının başkasının bakımına muhtaç derece ağır engelli çocuğuna ait
+bilgilerin (Maluliyet tespit tarihi/Evrak tarihi, Maluliyet başlama tarihi/Sona erme tarihi,
+Maluliyet başlama nedeni/Sona erme nedeni vb.) kullanıcı tarafından sisteme girilmesi ve şef
+onayının ardından kadın sigortalının 1/10/2008 tarihinden sonraki prim ödeme gün sayısına
+ilave edilen 1/4 oranındaki süreler, Tescil ve Hizmet Dökümünde ait olduğu yılın en altında
+“5510 SK 28. md. 8. Fıkra” adıyla pembe renk ile gösterilmekle birlikte "4/a Tescil Bilgileri"
+alanında da toplam gün sayısı olarak gösterilmektedir.
+
+Ait olduğu yıla ilişkin prim ödeme gün sayısına ilave edilen sürelerin küsuratlı
+çıkması halinde bu sürenin küsuratlı kısmı takip eden yıldaki ilave süreye dahil edilecek ve
+emeklilik aşamasında bu küsuratlar bir defaya mahsus olmak üzere tama iblağ edilecektir.
+
+Yine, başkasının bakımına muhtaç derece ağır engelli çocuğunun ağır engellilik
+halinin başlama tarihinden sonra olma şartıyla kadın sigortalının 2008 yılı Ekim ayı başından
+sonra geçen ve Kanun ile 3201 sayılı Kanun kapsamında borçlandırılan süreler için de 1/4
+oranında ilave süre hesaplanacağından, bu sürelerde yukarıdaki açıklamada da belirtildiği
+üzere Tescil ve Hizmet Dökümünde ait olduğu yılın en altında “5510 SK 28. md. 8. Fıkra”
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mithatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Bilgi için:Erdoğan ÜVEDİ
+Telefon No: 0 312458 73 63 Faks No: 0312 458 7422 Daire Başkanı
+E-Posta: ehgm bhacthdb(0sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+
+14
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+adıyla pembe renk ile gösterilecektir.
+
+Kullanıcılar tarafından uygulamaya giriş yapılabilmesi için MEYES üzerinden
+"ENTEGRETESCİL 4AINTRA MEMURONAY" ve "ENTEGRETESCİL O 4ATINTRA
+SEFONAY" yetkilerinin alınmış olması gerekmektedir.
+
+Diğer taraftan, Kanunun 41 inci maddesinin birinci fıkrasının (a) bendi uyarınca
+Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendine tabi kadın sigortalıların çeşitli iş
+kanunları (854, 4857, 5953 ve diğer iş kanunları) gereğince kullandıkları doğum öncesi ve
+sonrasına ilişkin almış oldukları rapor süreleri ile analık izin süresinin bitim tarihinden
+itibaren altı ay ile sınırlı kalmak üzere kullanmış oldukları ücretsiz doğum iznine ilişkin
+işyerinden alacakları belgeler ile Kuruma başvurmaları halinde borçlandırılmaktadır.
+
+Analık izin süresi ile ücretsiz doğum izninde geçen sürelerin borçlandırılmasına
+yönelik program da 11/7/2019 tarihinden itibaren işletime alınmış olup, bu sürelere ilişkin
+borçlanma işlemleri “4a HİZMET BORÇLANMALARI” programının “ANALIK İZİN
+SÜRESİ VE ÜCRETSİZ İZİNDE GEÇEN SÜRELERİN BORÇLANMASI” menülerinden
+yapılacaktır.
+
+"Kısa Vade-1GOR ONLİNE" programından alınan kadın sigortalıların analık izin
+süresinin doğum öncesi başlangıç ve doğum sonrası bitiş tarihleri ile ücretsiz izni süresinin
+başlangıç tarihi -analık izin süresinin bitim tarihi- borçlanma ekranına otomatik getirilmiş
+olup bu sürelerin elle girilmesi yahut değiştirilmesine de imkan sağlanmıştır.
+
+Borçlanma yapılacak süre içerisinde varsa primi bildirilmiş süreler, Tescil ve Hizmet
+Dökümü programından alınarak borçlanma ekranına otomatik ( getirilmiş olup doğum
+borçlanmasında sayılmayan sürelerle ilgili aşağıda belirtilen kurallar, bu borçlanma
+menüsündeki borçlanma kapsamında sayılmayan süreler için de geçerli olacaktır.
+
+Doğum öncesi ve sonrası raporlarına ait bilgiler 16/7/2012 tarihinden itibaren
+elektronik ortamda "Kısa Vade-1GOR ONLİNE" programında tutulmaya başlandığından, bu
+tarihten sonraki sürelere ait borçlanma taleplerinde söz konusu sürelerin doğruluğu
+hususunda herhangi bir tereddüt bulunmuyor ise bu raporların kağıt ortamında ibrazı
+istenmeyecek, Kurum kayıtları esas alınarak borçlanma işlemi sonuçlandırılacaktır. Ancak,
+sigortalıların ücretsiz izinde geçen sürenin borçlandırılması taleplerinde ise bu sürelere ilişkin
+işyerinden alacakları belgeleri ibraz etmeleri istenecektir.
+
+4857 sayılı İş Kanunun 74 üncü maddesiyle kadın sigortalıların analık izin süresi tekil
+doğumlarda 16 hafta, çoğul doğumlarda ise 18 hafta, başka bir ifadeyle tekil doğumlarda 112
+gün, çoğul doğumlarda ise 126 gün olarak belirlenmiştir. 5510 sayılı Kanunun Tanımlar
+başlıklı 3 üncü maddesinde ay 30, yıl ise 360 gün kabul edildiğinden borçlandırılacak süreler
+analık izin süresi için tekil doğumlarda 112, çoğul doğumlarda 126 günden, ücretsiz izin
+sürelerinde ise borçlanma süresi 180 günden fazla olmayacaktır. Artık gün oluşmaması
+bakımından borçlanma bitiş tarihlerinde eksiltme yapılacak, borçlanma tarih aralığı içerisinde
+primi bildirilmiş süreler var ise bu süreler borçlanma hesabından düşülecektir.
+
+Ayrıca, 4857 sayılı İş Kanunun 74 üncü maddesinin,
+
+Üçüncü fıkrasında, doğumda veya doğum sonrasında annenin ölümü halinde, doğum
+sonrası kullanılamayan sürelerin babaya kullandırılacağı, yine üç yaşını doldurmamış çocuğu
+evlat edinen eşlerden birine veya evlat edinene çocuğun aileye fiilen teslim edildiği tarihten
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mithatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Bilgi için:Erdoğan ÜVEDİ
+Telefon No: 0 312458 73 63 Faks No: 0312 458 7422 Daire Başkanı
+E-Posta: ehgm bhacthdb(0sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+
+2/4
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+itibaren sekiz hafta analık hali izni kullandırılacağı,
+
+Dokuzuncu fıkrasında ise tekil doğumlarda 16 hafta, çoğul gebeliklerde ise 18
+haftalık analık süresinin tamamlanmasından sonra altı aya kadar verilen iznin üç yaşını
+doldurmamış çocuğu evlat edinme hâlinde eşlerden birine veya evlat edinene verileceği,
+
+hüküm altına alınmıştır.
+
+Bu nedenle, doğumda veya doğum sonrasında annenin ölümü nedeniyle kalan analık
+süresinin babaya kullandırılması ve üç yaşını doldurmamış çocuğun evlat edinilmesi
+nedeniyle eşlerden birine yada evlat edinene kullandırılan sekiz haftalık analık süresi
+nedeniyle borçlanma talebinde bulunulması halinde söz konusu talepler Genel
+Müdürlüğümüze intikal ettirilecektir.
+
+Öte yandan, doğum borçlanması yapılacak iki yıllık süre içerisinde primi bildirilmiş
+sürelerin borçlanma hesabından otomatik olarak düşülmesine yönelik programın 11/6/2019
+tarihi itibariyle işletime alındığı, bu düzenlemenin 1/5/2004 tarihi ve sonrasındaki süreler için
+geçerli olduğu, borçlanılan sürelerin bu tarihten öncesine ait olması durumunda borçlanma
+kapsamında sayılmayan sürelerin programa girişinin manuel yapılacağı 12/6/2019 tarihinde
+gönderilen e-posta ile duyurulmuş olup, uygulamanın doğru bir şekilde yapılması ve hataların
+önüne geçilmesi bakımından aşağıda maddeler halinde sıralanan hususlara dikkat edilecektir.
+
+1- Sahte (S), Kontrollü (K) veya Şüpheli (Ş) kodlu hizmetlerden (S) ve (K) kodlu
+hizmetler hizmet birleştirmede dikkate alınmadığından, (S) ve (K) kodlu hizmetler,
+borçlanma kapsamında sayılmayan süre olarak değerlendirilmemiş, (Ş) kodlu hizmetler ise
+aksine bir tespit bulunmadığı sürece hizmet birleştirmesinde dikkate alındığından çakışma
+gibi işleme tabi tutularak borçlanma kapsamında sayılmayan süre olarak değerlendirilmiştir.
+
+Ayrıca, (S), (K) ya da (Ş) kodu konulan hizmetler hakkında denetim sonucuna göre
+işlem yapıldığından, “Şüpheli” kodu konulan işyerinin sahte işyeri olduğuna karar verilmesi
+ve bu işyerinden bildirilen hizmetlerin iptal edilmesi halinde borçlanma işlemi yapılmayan bu
+süreler için talepte bulunulması halinde talep tarihinde geçerli prime esas kazanç üzerinden
+borçlanma işlemi yapılacak, "Sahte" veya “Kontrollü” kodunun kaldırılmasına karar verilen
+işyerinde geçen çalışmaların geçerliliğinin sağlanması halinde ise bu dönemler için önceden
+yapılan doğum borçlanma süreleri iptal edilecek ve iptal edilen süreler ilgililere faizsiz olarak
+iade edilecektir.
+
+2- Eksik gün nedeni;
+
+2.1-01, 02,03, 04, 05, 08, 09,10, 11,15, 16, 18,19, 20,21 veya 22 olan ve ay içinde
+30 günden eksik hizmet bildirilenlerin gün sayısı, işyerinin Kamu/Özel, Ters İşyeri, işe giriş
+ve işten çıkış tarihleri gibi hususlar göz önüne alınarak zorunlu hizmetler başa, borçlanma
+süresi ise sona,
+
+2.2- 06, 07, 12, 13, 17, 23 veya 24 olan ve ay içinde 30 günden eksik hizmet
+bildirilenlerin gün sayısı, işyerinin Kamu/Özel, Ters İşyeri, işe giriş ve işten çıkış tarihleri
+gibi hususlar göz önüne alınarak zorunlu hizmetler sona, borçlanma süresi ise başa yazılmış
+olup sayılmayan sürelerin elle girileceği durumlarda da bu kurallar geçerli olacaktır.
+
+3- Borçlanma hesabında değerlendirilmeyecek her dönem için ilgili dönemin sağında
+“Seç” kutucuğu yer almakta olup ilgili dönemde; aynı veya farklı işyerinde birden fazla giriş
+çıkışın olması, tescil kütüğündeki ad soyad ile ilgili dönemdeki ad soyadın farklı olması veya
+np Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mithatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Bilgi için:Erdoğan ÜVEDİ
+Telefon No: 0 312458 73 63 Faks No: 0312 458 7422 Daire Başkanı
+E-Posta: ehgm bhacthdbösgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+
+3/4
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+
+birden fazla Asıl, Ek ve İptal bildirgelerin bulunması hallerinde “Seç” kutucuğu pasif
+gelmekte ve bu sürelerin otomatik alınmasına izin verilmemektedir. Bu durumda, yukarıda
+açıklandığı üzere işyerinin Kamu/Özel ya da Ters İşyeri olup olmadığı ve varsa eksik gün
+nedeni de göz önünde bulundurularak gerekli inceleme yapıldıktan sonra bu döneme ait
+sayılmayan süreler manuel girilecektir.
+
+Analık ve ücretsiz izin süreleri borçlanması işlemleri ile ağır engelli çocuğu bulunan
+kadın sigortalıların işlemleri, uygulamaya alınan programların ilgili menüleri üzerinden
+sonuçlandırılacak olup, elle sonuçlandırılan eski kayıtların ise hızlı bir şekilde uygulamaya
+alınan programların ilgili menülerinden girişlerinin yapılması gerekmektedir.
+
+Bilgi ve gereğini rica ederim.
+
+İsmail YILMAZ
+
+Genel Müdür
+EK: Kılavuz (2 adet)
+DAĞITIM:
+Gereği:
+Merkez/Taşra Teşkilatı
+pr Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+Mıthatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Bilgi için:Erdoğan ÜVEDİ
+Telefon No: 0 312458 73 63 Faks No: 0312 458 7422 Daire Başkanı
+E-Posta: ehgm bhacthdb(ösgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+
+4/4

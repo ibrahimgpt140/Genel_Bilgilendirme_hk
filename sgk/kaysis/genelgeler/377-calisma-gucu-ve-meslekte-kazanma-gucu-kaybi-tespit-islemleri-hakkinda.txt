@@ -1,0 +1,1098 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/24183
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 377
+ADI: ÇALIŞMA GÜCÜ VE MESLEKTE KAZANMA GÜCÜ KAYBI TESPİT İŞLEMLERİ HAKKINDA GENELGE (2011/49)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 9b4551cbea13273f6fd46f933b85eb645ae68c80fca07222fbf7ad981fed023b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C
+                                SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Genel Sağlık Sigortası Genel Müdürlüğü
+
+Sayı : B.13.2.SGK.0.11.07.00/ 377                                                                                           10/06/2011
+Konu : Çalışma gücü ve meslekte kazanma gücü
+        kaybı tespit işlemleri
+
+                                                              GENELGE
+                                                               2011/ 49
+
+İÇİNDEKİLER
+
+1- 5510 SAYILI KANUNUN 25 İNCİ MADDESİNE GÖRE MALULİYET TESPİT
+İŞLEMLERİ .......................................................................................................................................2
+   1.1. Yetkilendirilmiş Sağlık Hizmet Sunucuları ve Sevk İşlemleri .................................................2
+   1.2. Dosyada Bulunması Gereken Belgeler .....................................................................................2
+   1.3. Dosyaların Gönderildiği Üst Yazıda Bulunması Gerekenler ....................................................3
+   1.4. Sigortalılar ile Bunların Bakmakla Yükümlü Olduğu/ Hak Sahibi Çocukları ..........................3
+   1.5. Hizmet Borçlanmalarında Maluliyete Esas İlk İşe Giriş Tarihinin Tespiti ...............................3
+
+2- 5510 SAYILI KANUNUN 28 İNCİ MADDESİNE GÖRE ÇALIŞMA GÜCÜ KAYBI
+TESPİT İŞLEMLERİ ........................................................................................................................4
+
+3- 5510 SAYILI KANUNUN 19 UNCU MADDESİNE GÖRE MESLEKTE KAZANMA
+GÜCÜ KAYBI TESPİT İŞLEMLERİ .............................................................................................5
+   3.1. İş Kazası ....................................................................................................................................5
+   3.2. Meslek Hastalığı ........................................................................................................................6
+   3.3. Sürekli İş Göremezlik Derecesine Yapılan İtirazlarla İlgili Mahkeme Kararları
+   Hakkında Yapılacak İşlemler ...........................................................................................................8
+
+4- DİGER HUSUSLAR ......................................................................................................................8
+
+5- YÜRÜRLÜKTEN KALDIRILAN GENELGE VE GENEL YAZILAR ............................... 10
+
+EKLER DİZİNİ ................................................................................................................................ 11
+
+     Ek-1: Kurum Sağlık Kurulları ve Bağlı Bulunan İller .................................................................12
+
+     Ek-2: Maluliyet Dosyasına Ait Kontrol Listesi ............................................................................13
+
+     Ek-3: İş Kazası Dosyasına Ait Kontrol Listesi ............................................................................14
+
+   Ek-4: Meslek Hastalığına İlişkin Rapor Düzenleyen Sağlık Hizmet Sunucularınca Sağlık
+Kurulu Raporlarında Özellikle Belirtilmesi Gereken Tıbbi Bilgiler ..................................................15
+
+     Ek-5: Meslek Hastalıkları Dosyasına Ait Kontrol Listesi ............................................................16
+
+   Ek-6: Sağlık Kurulu Raporu Düzenleyen Sağlık Hizmet Sunucularınca Dikkat Edilmesi
+Gereken Usul ve Esaslar ....................................................................................................................17
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                                        Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                                                           i
+Tel    : (0312) 207 81 38                                                        Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                                                 Elektronik Ağ: .www.sgk.gov.tr
+   Ek-7: Rapor Düzenleyen Sağlık Hizmet Sunucularınca Hastalık Ve Arazlarla İlgili
+Olarak Sağlık Kurulu Raporlarında Özellikle Belirtilmesi Gereken Tıbbi Bilgiler ...........................19
+
+    Ek-8: Yürürlülükten Kaldırılan Genelgeler ve Genel Yazı Listesi .............................................21
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                     Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                          ii
+Tel    : (0312) 207 81 38                                     Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                              Elektronik Ağ: .www.sgk.gov.tr
+                                            T.C
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Genel Sağlık Sigortası Genel Müdürlüğü
+
+Sayı : B.13.2.SGK.0.11.07.00/ 377                                                        10/06/2011
+Konu : Çalışma gücü ve meslekte kazanma gücü
+        kaybı tespit işlemleri
+
+                                            GENELGE
+                                             2011/ 49
+
+        Başkanlık Makamının 29/12/2010 tarihli ve 747 sayılı OLUR’ları ile Kurumumuz
+tarafından çıkarılan ve halen uygulanan genelgelerin, yürürlükte bulunan güncel mevzuata
+göre yeniden gözden geçirilmesi, güncelleştirilmesi ve konu bazında tekleştirilmesi talimatları
+çerçevesinde Maluliyet ve Sağlık Kurulları Daire Başkanlığının görev alanına giren iş ve
+işlemlerin merkez ve taşra teşkilatında yürütülmesine ilişkin usul ve esaslar ile süreçler
+yeniden belirlenmiştir.
+        5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Kurum sağlık
+kurullarına, Kurumca yetkilendirilen sağlık hizmeti sunucularının sağlık kurullarınca
+düzenlenecek raporlardaki teşhis ve bu teşhise dayanak teşkil eden belgeler incelenmek
+suretiyle, sigortalı sayılanlar ve bunların bakmakla yükümlü oldukları/hak sahibi çocuklarının
+çalışma gücü ve meslekte kazanma gücü kayıp oranlarını belirleme görevi verilmiştir.
+        5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri
+kapsamındaki sigortalılarımız ve hak sahiplerinin mağduriyetlerine sebebiyet vermeden,
+dosya değerlendirme süreçlerini kısaltabilmek, maluliyet taleplerini bölgelerinde ivedilikle
+sonuçlandırabilmek, yetersiz ya da eksik bilgi ile düzenlenmiş raporların hazırlandığı
+hastaneler ile iletişim sağlayabilmek amacı ile Yönetim Kurulumuzun 22/01/2009 tarihli ve
+2009/03 sayılı kararı ile dokuz ilde Bölge Sağlık Kurullarının oluşturulması kararı alınmıştır.
+        Yine, Yönetim Kurulumuzun 25/03/2011 tarihli ve 2011/73 sayılı kararı ile ‘‘5510
+sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalılarımız ile hak sahibi/bakmakla yükümlü oldukları çocuklarının çalışma gücü kaybı
+(maluliyet) değerlendirmelerinin yerine getirilebilmesi için İstanbul, İzmir, Antalya, Adana,
+Kocaeli, Bursa, Konya, Kayseri, Samsun illerimiz ile birlikte Ankara, Eskişehir, Trabzon ve
+Gaziantep illerinde de Kurum sağlık kurulları oluşturulmasına’’ karar verilmiştir (Ek- 1).
+        Ayrıca, Yönetim Kurulumuzun 25/03/2011 tarihli ve 2011/74 sayılı kararı ile Genel
+Sağlık Sigortası Genel Müdürlüğü (GSSGM) Maluliyet ve Sağlık Kurulları Daire Başkanlığı
+bünyesinde yer alan Kurum sağlık kurullarınca yerine getirilen 4/1(c) sigortalıları, bunların
+bakmakla yükümlü oldukları/hak sahibi çocuklarının maluliyet tespitleri, aynı kapsamdaki
+sigortalıların vazife malullüğü ve harp malullüğü tespitleri ile 5510 sayılı Kanunun ilgili
+maddeleri doğrultusunda 4/1(a), 4/1(b) kapsamındaki sigortalıların meslekte kazanma gücü
+kaybı (iş kazası, meslek hastalığı) ve yaşlılık sigortasına ilişkin tespitlerin Ankara Sosyal
+Güvenlik İl Müdürlüğüne devredilmesine karar verilerek, adı geçen Daire Başkanlığının
+görev ve sorumlulukları yeniden belirlenmiştir.
+        Buna göre;
+        - Sosyal güvenlik il müdürlüklerince/sosyal güvenlik merkezlerince, 5510 sayılı
+Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalılarımız ile bunların bakmakla yükümlü oldukları/hak sahibi çocuklarının çalışma
+gücü kaybına ilişkin (maluliyet) dosyaları Ek- 1 listede yer alan bağlı bulundukları Kurum
+sağlık kurullarına gönderilecektir.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA               Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                      1
+Tel    : (0312) 207 81 38                               Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                        Elektronik Ağ: .www.sgk.gov.tr
+         - Sosyal güvenlik il müdürlüklerince/sosyal güvenlik merkezlerince, 5510 sayılı
+Kanunun 4/1(c) sigortalıları ile bunların bakmakla yükümlü oldukları/hak sahibi çocuklarının
+maluliyet tespitleri ve aynı kapsamdaki sigortalıların vazife malullüğü ve harp malullüğü
+dosyaları,
+        Aynı Kanunun ilgili maddeleri doğrultusunda 4/1(a) ve 4/1(b) kapsamındaki
+sigortalıların meslekte kazanma gücü kaybı (iş kazası, meslek hastalığı) ve yaşlılık
+sigortasına ilişkin dosyalar ile,
+        Sosyal Sigortalar Genel Müdürlüğü ve Primsiz Ödemeler Genel Müdürlüğü
+bünyesinde yer alan daire başkanlıklarınca, GSSGM Maluliyet ve Sağlık Kurulları Daire
+Başkanlığına gönderilen tüm dosyalar,
+         bundan böyle Ankara Sosyal Güvenlik İl Müdürlüğü Kocatepe Sağlık Sosyal
+Güvenlik Merkezine gönderilecektir.
+        Kurumumuzca yapılacak işlemlerin en kısa sürede sonuçlandırılabilmesi için, 5510
+sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentleri kapsamındaki
+sigortalılar ile bunların bakmakla yükümlü oldukları/hak sahibi çocuklarının çalışma gücü
+kaybı oranları ile sigortalıların sürekli iş göremezlik oranlarının tespitine ve kontrol
+muayenelerine ilişkin düzenlenecek sağlık kurulu raporları ve dayanağı tıbbi belgeleri de
+içeren tüm dosyanın geciktirilmeksizin ilgili Kurum sağlık kuruluna intikalinin sağlanması
+gerekmektedir. Buna göre, uygulamalarda karşılaşılan sorunlar ve tereddüt edilen hususlara
+ilişkin açıklamalar aşağıda belirtilmiştir.
+
+     1- 5510 SAYILI KANUNUN 25 İNCİ MADDESİNE GÖRE MALULİYET
+TESPİT İŞLEMLERİ
+
+        1.1. Yetkilendirilmiş Sağlık Hizmet Sunucuları ve Sevk İşlemleri
+        Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalıların malul oldukları iddiası ile müracaatları üzerine, sosyal sigortalar yönünden
+istenilen şartlara haiz olanlar, öncelikle illerinde bulunan Sağlık Bakanlığı Eğitim ve
+Araştırma Hastanelerine, bulunmaması halinde Devlet Üniversitesi Hastanelerine, Üniversite
+Hastanesi de bulunmuyor ise Türk Silahlı Kuvvetlerine bağlı Asker Hastanelerine, bunun da
+bulunmaması halinde il/ilçelerinde bulunan tam teşekküllü Sağlık Bakanlığı Devlet
+Hastanelerine sevk edilecektir. Ancak, sigortalılarımız herhangi bir Devlet Hastanesi veya
+Devlet Üniversite Hastanesinde;
+        a) Yoğun bakımda ise,
+        b) Yatmakta olduğu hastaneden başka bir hastaneye nakli hayati risk taşıyor ise,
+        Sosyal güvenlik il müdürlüklerince/sosyal güvenlik merkezlerince yoğun bakımda
+veya yatmakta olduğu hastanelere sevk edilecek ve Kurum sağlık kurullarınca raporları
+değerlendirmeye alınacaktır.
+
+        1.2. Dosyada Bulunması Gereken Belgeler
+        Karar sürecinin kısaltılması, gereksiz yazışmaların önlenmesi ve sigortalıların
+mağduriyetlerine meydan verilmemesi amacıyla, Kurum sağlık kurullarına gönderilen
+dosyalarda bulunması gereken belgeler aşağıda belirtilmiştir.
+        a) Maluliyet talebini içeren dilekçe,
+        b) Maluliyet değerlendirmesinde esas alınacak ilk işe giriş tarihini gösterir belge,
+        c) İlk işe giriş sağlık raporu (bulunmadığı durumlarda ise bu raporun olmadığına dair
+sigortalı beyanı bulunacak veya dosyanın gönderilişine ait üst yazıya not düşülecektir),
+        d) Erkek sigortalıların sevk ve terhis tarihlerini gösteren askerlik terhis belgesi,
+askerlikten muaf tutulmuş ise bununla ilgili ayrıntılı muayene bulgularını içeren askerlik sakat
+raporu,
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA              Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                   2
+Tel    : (0312) 207 81 38                              Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                       Elektronik Ağ: .www.sgk.gov.tr
+        e) Sigortalının maluliyetine sebep olduğu ileri sürülen hastalığı ile ilgili daha önce
+başvurulan sağlık kuruluşlarından temin edilen/edilecek rapor, tıbbi belge ve epikrizler,
+        f) Sigortalı hakkında daha önce verilmiş bir maluliyet kararı mevcut ise buna dair
+karar ile dayanağı rapor ve belgeler,
+        g) Sevk sonucu usulüne uygun olarak düzenlenmiş sağlık kurulu raporu ve dayanağı
+tıbbi belgeler.
+        Yukarıda sayılan belgeleri içeren dosya, Ek- 2’de yer alan “Maluliyet Dosyasına Ait
+Kontrol Listesi”ne göre, yetkili personel tarafından kontrol edildikten sonra imzalanacak, dizi
+pusulası ile birlikte ilgili Kurum sağlık kuruluna gönderilecektir.
+
+       1.3. Dosyaların Gönderildiği Üst Yazıda Bulunması Gerekenler
+       a) Talep edilen tespite esas kanun maddesi (Örneğin 5510 S.K/M25 veya 5510
+S.K./M28/F5 vb.),
+       b) Maluliyet değerlendirmesine esas ilk işe giriş tarihi,
+       c) Dosyada bulunan sağlık kurulu raporlarının tarih ve sayıları,
+       d) Kadın sigortalıların soyadı değişikliklerinin nedeni,
+       e) Sigortalının birden fazla sicil numarası olması halinde geçerli sicil numarası tespit
+edilerek, farklı sicil numaralarına göre düzenlenmiş rapor ve belgelerin bulunması durumunda
+bu belgelerin sigortalıya ait olduğu,
+       belirtilecektir.
+
+        1.4. Sigortalılar ile Bunların Bakmakla Yükümlü Olduğu/ Hak Sahibi Çocukları
+        Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalılar ile bunların hak sahipleri/bakmakla yükümlü oldukları çocuklarının malul
+oldukları iddiası ile müracaatları sonucunda düzenlenen dosyalar bağlı bulundukları sosyal
+güvenlik il müdürlükleri/sosyal güvenlik merkezleri tarafından Ek- 1’de yer alan ilgili Kurum
+sağlık kuruluna gönderilecektir.
+        Aynı fıkranın (c) bendi kapsamındaki;
+        a) Kamu personeli ile hak sahibi çocuklarının dosyaları Sosyal Sigortalar Genel
+Müdürlüğünce (Kamu Görevlileri Emeklilik İşlemleri Daire Başkanlığı),
+        b) Emekli aylığı almakta olan kamu personelinin bakmakla yükümlü oldukları
+çocuklarının maluliyet tespitine ilişkin dosyaları sosyal güvenlik il müdürlüklerince/sosyal
+güvenlik merkezlerince,
+        c) Çalışmakta olan kamu personelinin bakmakla yükümlü oldukları çocuklarının
+malul olup olmadıklarının tespit edilmesine ilişkin talepleri, görev yaptıkları kurumları
+vasıtası ile intikal ettirilen sosyal güvenlik il müdürlüklerince/sosyal güvenlik merkezlerince,
+        d) Erler, köy korucuları ve amatör sporcuların malul olup olmadıklarının tespit
+edilmesine ilişkin talepleri Primsiz Ödemeler Genel Müdürlüğünce,
+        talep ve talebe esas belgelerle birlikte yazı ekinde, Kurum sağlık kurulunda
+değerlendirilmek üzere Ankara Sosyal Güvenlik İl Müdürlüğüne (Kocatepe Sağlık Sosyal
+Güvenlik Merkezi) gönderilecektir.
+        Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalıların
+bakmakla yükümlü oldukları/hak sahibi çocukları ile ilgili uygulamanın yukarıda belirtildiği
+şekilde yapılacağı hususu, sosyal güvenlik il müdürlükleri/sosyal güvenlik merkezleri
+tarafından illerinde bulunan tüm kamu kurum ve kuruluşlarına duyurulacaktır.
+
+       1.5. Hizmet Borçlanmalarında Maluliyete Esas İlk İşe Giriş Tarihinin Tespiti
+       1.5.1. Kanunun 41 inci maddesine göre yapılan hizmet borçlanmalarında, Kurum
+sağlık kurullarınca sigortalının Kanunun 25 inci maddesine göre malullük durumu
+incelenirken, söz konusu borçlanmalar dikkate alınarak tespit edilen sigortalılık başlangıç
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA              Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                   3
+Tel    : (0312) 207 81 38                              Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                       Elektronik Ağ: .www.sgk.gov.tr
+tarihi yerine, sigortalı adına ilk defa malullük, yaşlılık ve ölüm sigortaları primi bildirilen
+tarih esas alınacak ve Kurum sağlık kurullarına sigortalılık başlangıç tarihi olarak bu tarih
+bildirilecektir.
+         1.5.2. Yurtdışı sigortalılarının Kanunun 25 inci maddesine göre çalışma gücü kaybı
+tespitinde esas alınacak ilk işe giriş tarihleri 08/06/2011 tarihli ve 2011/48 sayılı Genelgede
+belirtilen esaslara göre tespit edilecektir.
+         1.6. Kanunun geçici l inci maddesi gereğince hak sahibi çocukların maluliyet
+değerlendirmeleri sigortalının ölüm tarihinde yürürlükte olan mevzuata göre yapılacağından,
+söz konusu talepler sağlık kurullarına gönderilirken sigortalının ölüm tarihini gösterir resmi
+belge eklenecektir.
+         1.7. Böbrek hastalığı nedeniyle haklarında maluliyet kararı verilenler, böbrek nakli
+olmaları halinde, nakil tarihinden 1 (bir) yıl sonra kontrol muayenesine tabi tutulacaktır. Daha
+önce “böbrek nakli oluncaya kadar kontrol muayenesi gerekmediği” kararı verilenler
+hakkında da bu hüküm uygulanacaktır.
+         1.8. Kurum sağlık kurullarınca çalışma gücünün en az % 60’ını kaybettiği kararı
+verilen sigortalılar ile bunların 18 yaşından büyük bakmakla yükümlü oldukları/hak sahibi
+çocukları hakkında düzenlenmiş kurul kararına esas olan sağlık kurulu raporları, sürücü
+belgesi yönünden değerlendirilmek üzere, sosyal güvenlik il müdürlüklerince/sosyal güvenlik
+merkezlerince, aylık dönemler halinde düzenli olarak il/ilçe emniyet müdürlüklerine
+bildirilecektir.
+
+        2- 5510 SAYILI KANUNUN 28 İNCİ MADDESİNE GÖRE ÇALIŞMA GÜCÜ
+KAYBI TESPİT İŞLEMLERİ
+        2.1. Kanunun 25 inci maddesi gereğince yapılan değerlendirme sonucunda, Kurum
+sağlık kurullarınca haklarında “çalışma gücünün en az % 60’ını kaybettiği anlaşılmış ise de;
+sigortalı olarak ilk defa çalışmaya başladığı iş yerine maluliyetini gerektirecek düzeydeki bu
+hastalığı veya arızası ile girdiği tespit edildiğinden söz konusu maddenin ikinci fıkrasına göre
+malullük aylığından yararlanamayacağı” kararı verilen 4/1(b) kapsamındaki sigortalılar
+hakkında bu Kanuna göre yaşlılık sigortasından işlem yapılması halinde, aynı Kanunun 28
+inci maddesinin dördüncü fıkrasına göre oran tespiti istenilmeyecektir.
+        2.2. Daha önce haklarında mülga kanun hükümlerine göre “sigortalı olarak ilk defa
+çalışmaya başladığı işyerine maluliyetini gerektirecek derecede hastalık veya arızası ile
+girdiği tespit edilen” 4/1(b) kapsamındaki sigortalıların yeniden Kanunun 28 inci maddesinin
+dördüncü fıkrasına göre talepte bulunmaları halinde, öncelikle Kanunun 25 inci maddesine
+göre maluliyet değerlendirmesi yapılacaktır. Buna göre, “çalışma gücünün en az % 60’ını
+kaybettiği anlaşılan, ancak sigortalı olarak ilk defa çalışmaya başladığı işyerine maluliyetini
+gerektirecek derecede hastalık veya arızası ile girmesi nedeniyle malullük aylığından
+yararlanamayacağı” kararı verilen sigortalılar hakkında yaşlılık sigortası kapsamındaki
+işlemlerde, Kanunun 28 inci maddesinin dördüncü fıkrasına göre oran tespiti
+istenilmeyecektir.
+        2.3. Kanunun 28 inci maddesinin beşinci fıkrasına göre talepte bulunan 4/1(b)
+kapsamındaki sigortalıların, aynı fıkrada belirtilen sigortalılık şartlarına haiz olmaları şartıyla
+dosyaları yaşlılık aylığı bağlanmasına esas çalışma gücü kaybı oranı tespiti için Ankara
+Sosyal Güvenlik İl Müdürlüğüne (Kocatepe Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+        2.4. Kanunun geçici 10 uncu maddesinin birinci fıkrasına göre; 4/1(a) kapsamında
+olup bu Kanunun yürürlük tarihinden önce sigortalı olanlar hakkında “ilk defa çalışmaya
+başladığı tarihte 506 sayılı Sosyal Sigortalar Kanununun mülga 53 üncü maddesine göre
+malul sayılmayı gerektirecek derecede hastalık veya özrü bulunduğuna ve bu nedenle
+malullük aylığından yararlanamayacağına” karar verilmesi halinde, Kanunun 28 inci
+maddesinin dördüncü fıkrası uygulanmaz.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA               Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                    4
+Tel    : (0312) 207 81 38                               Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                        Elektronik Ağ: .www.sgk.gov.tr
+        2.5. Kanunun geçici 10 uncu maddesinin ikinci fıkrasına göre; 4/1(a) kapsamında
+olup 5510 sayılı Kanunun yürürlük tarihinden önce sigortalı olanlardan, bu Kanunun
+yürürlük tarihinden önce veya sonra sakatlığı nedeniyle vergi indiriminden yararlanmaya hak
+kazanmış durumda olan sigortalılar hakkında Kanunun 28 inci maddesinin beşinci fıkrası
+uygulanmaz.
+        2.6. Kanunun 28 inci maddesine 17/04/2008 tarihli ve 5754 sayılı Kanunun 16 ncı
+maddesi ile eklenen sekizinci fıkraya göre, kadın sigortalıların, başka birinin sürekli bakımına
+muhtaç derecede malul çocuklarına ilişkin sağlık kurulu raporları, değerlendirilmek üzere
+Ankara Sosyal Güvenlik İl Müdürlüğüne (Kocatepe Sağlık Sosyal Güvenlik Merkezi)
+gönderilecektir. Kanunun yürürlük tarihi dikkate alınarak, çocuğun hangi tarih itibariyle başka
+birinin sürekli bakımına muhtaç derecede malul olduğunun tespit edilmesi isteniyor ise, bu
+tarihin üst yazıda (öncelikle kadın sigortalının işe giriş tarihi ile çocuğun doğum tarihi)
+belirtilmesi gerekmektedir.
+
+    3- 5510 SAYILI KANUNUN 19 UNCU MADDESİNE GÖRE MESLEKTE
+KAZANMA GÜCÜ KAYBI TESPİT İŞLEMLERİ
+
+        3.1. İş Kazası
+        3.1.1. Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalıların iş kazası sonucu oluşan hastalık ve özürler nedeniyle, Kanunun 19 uncu
+maddesine göre %0 ile %100 arasında meslekte kazanma gücü kaybı oranı (sürekli iş
+göremezlik derecesi) ile iş kazası nedeniyle sürekli iş göremezlik geliri almakta iken vefat
+eden sigortalıların ölümünün iş kazasına bağlı olup olmadığının tespiti, Ankara Sosyal
+Güvenlik İl Müdürlüğü (Kocatepe Sağlık Sosyal Güvenlik Merkezi) tarafından yapılacaktır.
+
+         3.1.2. İş Kazası Dosyasında Bulunması Gereken Belgeler
+         a) İlk işe giriş sağlık raporu, bulunmadığı durumlarda bu raporun olmadığına dair
+yazılı beyan,
+         b) Erkek sigortalıların sevk ve terhis tarihlerini gösteren askerlik terhis belgesi,
+askerlikten muaf tutulmuş ise bununla ilgili ayrıntılı muayene bulgularını içeren askerlik sakat
+raporu,
+         c) Olayın iş kazası olup olmadığını net olarak belirtir Sosyal Sigorta İşlemleri
+Yönetmeliğinin 37 nci maddesinde belirtildiği şekilde hazırlanan tahkikat raporu ve tutanaklar
+(bu raporlarda “5510 veya 506 sayılı Kanuna göre … iş kazasıdır” şeklinde ibare mutlaka
+bulunacaktır.),
+         d) Sigortalının iş kazasından sonra başvurduğu hastanelerde görmüş olduğu tedavi,
+ameliyat bilgilerini içerir epikrizleri (çıkış özeti) ve varsa ameliyat notları,
+         e) Sigortalının tedavisi tamamlandıktan sonra son durumunu ve çalışıp çalışamayacağı
+tarihi gösterir sağlık kurulu raporu.
+         Yukarıda sayılan belgeleri içeren dosya muhteviyatı, Ek- 3’de yer alan “İş Kazası
+Dosyasına Ait Kontrol Listesi”ne göre yetkili personel tarafından kontrol edildikten sonra
+imzalanacak, dizi pusulası ile birlikte Ankara Sosyal Güvenlik İl Müdürlüğüne (Kocatepe
+Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+         3.1.3. Sigortalıların geçirdiği iş kazası sonucu, çalışır/çalışamaz tarihini gösterir sağlık
+kurulu raporunun temin edilememesi halinde, hastaneye sevk edilerek, ilgili klinik
+uzmanlarınca kaza sonrası oluşan arazların tahmini iyileşme süresi dikkate alınarak, kaza
+tarihi itibariyle tahmini çalışır/çalışamaz tarihini belirtir rapor temin edilecektir. Temin
+edilememesi halinde gerekçesini gösterir belge dosyaya konulacak ve bu iş kazasından dolayı
+hangi sürelerde geçici iş göremezlik ödeneği verildiği üst yazıda (başlangıç ve bitiş tarihleri)
+belirtilecektir.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                 Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                      5
+Tel    : (0312) 207 81 38                                 Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                          Elektronik Ağ: .www.sgk.gov.tr
+       3.1.4. Sürekli iş göremezlik geliri almakta iken vefat eden sigortalının ölümünün iş
+kazasına bağlı olup olmadığının tespiti için, iş kazası tahsis dosyası ve gerekli belgeler (ölüm
+tutanağı, ölüm tarihine yakın tedavi gördüğü ya da takip edildiği hastane arşivindeki hasta
+dosyaları ve diğer tıbbi belgeler) temin edilerek Ankara Sosyal Güvenlik İl Müdürlüğüne
+(Kocatepe Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+
+        3.2. Meslek Hastalığı
+        3.2.1. Kanunun 14 ve 19 uncu maddeleri uyarınca, sigortalılarda meslek hastalığı,
+buna bağlı meslekte kazanma gücü kaybı oranı (sürekli iş göremezlik derecesi) ve sürekli iş
+göremezlik geliri almakta iken vefat eden sigortalının ölümünün meslek hastalığı sonucu olup
+olmadığına dair tespit işlemleri, Ankara Sosyal Güvenlik İl Müdürlüğü (Kocatepe Sağlık
+Sosyal Güvenlik Merkezi) Kurum sağlık kurulu tarafından yerine getirilmektedir.
+        3.2.2. 01/10/2008 tarihinden önce meslek hastalığı nedeniyle tespit talebinde bulunan
+ve haklarında henüz karar verilmeyen 4/1(a) sigortalılarının meslek hastalığı ve oran tespit
+işlemleri mülga mevzuat çerçevesinde Sağlık Bakanlığı Meslek Hastalıkları Hastanelerince,
+        01/10/2008 tarihinden sonra meslek hastalığı şüphesiyle sosyal güvenlik il
+müdürlüklerine/sosyal güvenlik merkezlerine müracaat eden 4/1(a) ve 4/1(b) sigortalıları
+hakkındaki tespit işlemleri “Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit
+İşlemleri Yönetmeliği”ne göre Ankara Sosyal Güvenlik İl Müdürlüğü (Kocatepe Sağlık Sosyal
+Güvenlik Merkezi) ) Kurum sağlık kurulunca yapılacaktır.
+        3.2.3. Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamındaki
+sigortalıların meslek hastalığı sonucu meslekte kazanma gücü kaybı oranlarının tespitinde
+esas alınacak sağlık kurulu raporlarını düzenlemeye, Sağlık Bakanlığı Meslek Hastalıkları
+Hastaneleri ile Eğitim ve Araştırma Hastaneleri ve Devlet Üniversite Hastaneleri yetkilidir.
+        3.2.4. İlk defa meslek hastalığı şüphesi ile sosyal güvenlik il müdürlüklerine/sosyal
+güvenlik merkezlerine müracaat eden sigortalılar 3.2.3.’de belirtilen sağlık hizmet
+sunucularına sevk edilecektir.
+        3.2.5. Meslek hastalığı tespiti yapılan ancak kontrol muayenesi ya da artma sebebi ile
+Kuruma müracaat eden sigortalılar, öncelikle daha önce meslek hastalığı tespitinin yapıldığı
+ve arşivinde hasta dosyasının bulunduğu ilgili Sağlık Bakanlığı Meslek Hastalıkları
+Hastanelerine, mümkün olmadığı durumlarda 3.2.3.’de belirtilen sağlık hizmet sunucularına
+sevk edilecektir.
+        3.2.6. Sağlık kurulu raporları, aynı branştan en az üç uzman hekim veya ilgili
+uzmanların bulunması kaydıyla farklı branştan beş uzman hekim tarafından düzenlenecektir.
+        3.2.7. Meslek hastalığına ilişkin sağlık kurulu raporu düzenleyen sağlık hizmet
+sunucularınca, raporlarda özellikle belirtilmesi gereken tıbbi bilgiler Ek- 4’de gösterilmiş
+olup, bu tabloda belirtilen hususlara dikkat edilecektir. Bu konuda, sosyal güvenlik il
+müdürlüklerince/sosyal güvenlik merkezlerince 3.2.3.’de belirtilen sağlık hizmet sunucuları
+bilgilendirilecektir.
+         3.2.8. 01/10/2008 tarihinden önce meslek hastalığı işlemlerini yürüten Sağlık
+Bakanlığı Meslek Hastalıkları Hastaneleri tarafından arşivlerin muhafazasına devam edilecek
+olup, Kurum sağlık kurullarınca gerek görülmesi halinde bu dosyaların sosyal güvenlik il
+müdürlüklerine/sosyal güvenlik merkezlerine intikali sağlanacaktır.
+        3.2.9. 01/10/2008 tarihinden sonraki talepler sonucu düzenlenen sağlık kurulu
+raporları ve dayanağı tıbbi belgeleri içeren meslek dosyaları ise, karar işlemleri
+tamamlandıktan sonra ilgili sosyal güvenlik il müdürlükleri/sosyal güvenlik merkezleri
+tarafından oluşturulacak “Meslek Hastalığı Arşivi”nde süre sınırlaması olmaksızın imha
+edilmeden muhafaza edilecektir.
+        3.2.10. Sürekli iş göremezlik geliri almakta iken vefat eden sigortalının ölümünün
+meslek hastalığına bağlı olup olmadığının tespiti için meslek tahsis dosyası ve gerekli belgeler
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA              Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                   6
+Tel    : (0312) 207 81 38                              Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                       Elektronik Ağ: .www.sgk.gov.tr
+(ölüm tutanağı, ölüm tarihine yakın tedavi gördüğü ya da takip edildiği hastanelerdeki hasta
+dosyaları, grafi ve diğer tıbbi belgeler vb.) temin edilerek Ankara Sosyal Güvenlik İl
+Müdürlüğüne (Kocatepe Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+        3.2.11. Pnömokonyoz vakalarında, 10 yıllık yükümlülük süresini aşanlar ya da 3 yıllık
+maruziyet süresini doldurmamış olan sigortalılar hakkında, Kurum sağlık kurulunca mesleki
+bulgu saptanması halinde, yükümlülük ya da maruziyet süresi yönünden; pnömokonyoz
+dışındaki vakalarda yükümlülük süresi aşılmış ise bu dosyalar sadece yükümlülük süresi
+açısından Sosyal Sigorta Yüksek Sağlık Kurulu tarafından karara bağlandıktan sonra meslek
+hastalığı tespiti Ankara Sosyal Güvenlik İl Müdürlüğünce (Kocatepe Sağlık Sosyal Güvenlik
+Merkezi) yapılacaktır.
+
+        3.2.12. Meslek hastalığı sonucu, meslekte kazanma gücü kaybı oranı tespit
+edilmek üzere gönderilen dosyalarda bulunması gereken belgeler
+        a) Sigortalının çalıştığı işyeri ya da işyerlerinden temin edilecek “çalışma süre ve
+koşullarını belirleyen mesai listesi ya da listeleri”,
+        b) Kurumca gerekli görüldüğü takdirde çalışma süresi ve koşullarını belirleyen
+“tahkikat raporu”,
+        c) İşyerinde yapılmış olan periyodik muayene raporları ya da onaylı örnekleri,
+        mutlaka bulunacaktır.
+        Ayrıca, sık karşılaşılan meslek hastalıklarına göre gerekli olan diğer belgeler aşağıda
+belirtilmiştir.
+
+       3.2.12.1. Pnömokonyoz Dosyası İçerisinde:
+       a) Sigortalının pnömokonyoz yönünden mevcut durumunu gösteren sağlık kurulu
+raporu ile bu konuda daha önce düzenlenmiş sağlık kurulu raporları da dahil tüm raporların
+dayanağı PA akciğer grafileri, varsa HRCT ve diğer tıbbı belgeler,
+       b) Toz düzeyinin metreküpte kaç mikrogram olduğunu da içeren “ortam analiz raporu/
+raporları’’.
+
+        3.2.12.2. Pnömokonyoz Dışında Mesleki Solunum Sistemi Hastalıkları (Mesleki
+Astım, Bissinozis, Asbestoz ve Benzeri Hastalıklar) Dosyası İçerisinde:
+        a) Sigortalıda mevcut olup, mesleki niteliği olan veya olduğu düşünülen hastalık ve
+arızaları açıklayan ayrıntılı sağlık kurulu raporu ya da raporları ile tespit edilen durumların
+dayanağı olan tıbbi belgeler,
+        b) Gerekli hallerde çalışılan ortamlardaki toz, kimyasal madde ve benzeri zararlı
+etkenlerin düzeyini içeren detaylı ortam analiz raporları.
+
+       3.2.12.3. İşitme Kaybı Dosyası İçerisinde:
+       a) İşitme kaybı olduğunu gösteren ayrıntılı sağlık kurulu raporu ve dayanağı odyogram
+ve diğer tıbbi belgeler,
+       b) İşyerinde çalışılan ortamlarda maruz kalınan gürültünün düzeyini desibel olarak
+gösteren işyeri ortam analiz raporu/raporları,
+       c) Sigortalının işe girmeden önce çekilmiş odyogram ile benzeri tetkiklerinin, ayrıca
+işitme yönünden tedavi görmüş ise takip edildiği hastanelerden detaylı epikriz, hasta dosyası,
+varsa sağlık kurulu raporu ve diğer belgeler,
+       d) Periyodik muayene raporları dayanağı odyogramlar.
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA             Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                  7
+Tel    : (0312) 207 81 38                             Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                      Elektronik Ağ: .www.sgk.gov.tr
+        3.2.12.4. Meslek Hastalıkları Listesinde Yer Alan Diğer Hastalıklarla İlgili Dosya
+İçerisinde:
+        a) İşyerindeki/işyerlerindeki etken ya da etkenler nedeniyle ortaya çıkan veya çıktığı
+düşünülen hastalığın mevcut klinik durumunu gösteren, varsa sekel bulguları açıklayan
+detaylı sağlık kurulu raporu ya da raporları ile dayanağı tıbbi belgeler,
+        b) Meslek hastalığına neden olabilecek bir işkolunda bulunan ve daha önce meslek
+hastalığı tespiti yapılmayan işyeri veya işyerlerinde çalışan sigortalılar için, meslek
+hastalığına neden olan etken ya da etkenlerle, ergonomi veya diğer faktörlerin işyeri ya da
+işyerlerinde mevcut olduğunu belirten ve hangi düzeyde olduğunu gösteren ortam analiz
+raporu ya da raporları.
+        Yukarıda sayılan belgeleri içeren dosya muhteviyatı, Ek- 5’de yer alan “Meslek
+Hastalığı Dosyasına Ait Kontrol Listesi”ne göre yetkili personel tarafından kontrol edildikten
+sonra imzalanacak, dizi pusulası ile birlikte Ankara Sosyal Güvenlik İl Müdürlüğüne
+(Kocatepe Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+
+        3.3. Sürekli İş Göremezlik Derecesine Yapılan İtirazlarla İlgili Mahkeme
+Kararları Hakkında Yapılacak İşlemler
+        3.3.1 Kurum sağlık kurullarınca tespit edilen sürekli iş göremezlik derecesine gerek
+sigortalı gerekse işverenler tarafından açılan dava sonucu verilen kararlarda, sigortalıların
+sürekli iş göremezlik derecelerinde artma, azalma, düzeltme veya birleştirme yönünde
+değişiklikler olabilmektedir. Kurumumuzun taraf olduğu davalar sonucu kesinleşen mahkeme
+kararıyla tespit edilen sürekli iş göremezlik dereceleri dikkate alınarak sigortalı dosyasının
+bulunduğu birimce gelirleri yeniden hesaplanacaktır. Kesinleşmiş mahkeme kararlarında
+kontrol muayenesi ve bakıma muhtaçlık yönünde bir hüküm bulunmaması halinde, bu
+durumun tespiti için sigortalının dosyası Ankara Sosyal Güvenlik İl Müdürlüğüne (Kocatepe
+Sağlık Sosyal Güvenlik Merkezi) gönderilecektir.
+        3.3.2. Birden fazla iş kazası veya meslek hastalığının söz konusu olduğu durumlarda,
+iş kazası veya meslek hastalığından herhangi birinin kesinleşmiş mahkeme kararı ile
+değişmesi durumunda, mahkeme kararı uygulanmadan önce birleştirme kararı alınmak üzere
+sigortalı dosyası Ankara Sosyal Güvenlik İl Müdürlüğüne (Kocatepe Sağlık Sosyal Güvenlik
+Merkezi) gönderilecektir.
+
+        4- DİGER HUSUSLAR
+        4.1. Çalışma gücü ve meslekte kazanma gücü kaybı tespiti için Kurum Sağlık
+Kurullarınca verilen ara kararlarda;
+        - Yeniden muayene istenilmesi halinde, sevk edilen sağlık hizmet sunucularında
+muayene istenilen kliniğin/kliniklerin mevcut olmasına,
+        - Birden fazla klinikten muayene istenilmesi halinde, muayene istenilen tüm
+kliniklerce düzenlenen raporların tamamlanmasına,
+        -Mevzuat yönünden istenilen eksik bilgi ve belgelerin tamamlanmasına,
+        dikkat edilerek dosyanın tamamı ilgili kurullara intikal ettirilecektir.
+        4.2. Kanunun 94 üncü maddesi gereğince yapılacak kontrol muayenesine ilişkin
+değerlendirmeler, ilk tespitte esas alınan mevzuat (506, 1479, 5510 S.K.) hükümlerine göre
+yapılacaktır.
+        4.3. Kurum sağlık kurullarınca “kontrol muayenesi gerektiğine” kararı verilenlerin
+kontrol muayenesine istinaden düzenlenen sağlık kurulu raporları ile birlikte ilgili dosya
+gönderilecektir.
+        4.4. Kurum sağlık kurulu kararlarına, kontrol muayenesine esas sağlık kurulu
+raporlarından önceki raporlar yazılmayacaktır.
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA             Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                  8
+Tel    : (0312) 207 81 38                             Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                      Elektronik Ağ: .www.sgk.gov.tr
+         4.5. Kurum sağlık kurullarınca verilen kararlara esas hastalıklarda artma, yeni hastalık
+eklenmesi, eksik muayene vb. nedenlerle talepte bulunanların, son durumlarını belirtir yeni
+tarihli sağlık kurulu raporu ile birlikte tüm dosya değerlendirilmek üzere ilgili Kurum Sağlık
+Kuruluna gönderilecektir.
+
+         4.6. Kurum Sağlık Kurulu Kararlarına İtiraz
+         4.6.1. Kurum sağlık kurullarınca verilen çalışma gücü ve meslekte kazanma gücü
+kaybı tespit kararlarına itiraz olması halinde, Sosyal Sigorta Yüksek Sağlık Kurulunun itiraz
+mercii olduğu konusunda ilgililere bilgi verilerek, talep edilmesi halinde buna ilişkin dilekçe
+ile birlikte dosya Sosyal Sigorta Yüksek Sağlık Kuruluna iletilmek üzere Genel Sağlık
+Sigortası Genel Müdürlüğüne (Maluliyet ve Sağlık Kurulları Daire Başkanlığına)
+gönderilecektir.
+         4.6.2. Sosyal Sigorta Yüksek Sağlık Kuruluna gönderilen dosya içerisinde, sigortalı
+hakkında Kurumca verilmiş tüm kararlar ve kararlara esas sağlık kurulu raporları ile dayanağı
+tıbbi belgeler mutlaka bulunacaktır.
+         4.6.3. Kurum sağlık kurullarından çıkan kararlara sigortalılar veya hak sahipleri
+tarafından yapılan itirazlarda, dosya karara bağlanmış şekli ile aynen muhafaza edilerek
+ilgilinin dilekçesi ile birlikte Yüksek Sağlık Kuruluna iletilmek üzere Maluliyet ve Sağlık
+Kurulları Daire Başkanlığına gönderilecektir. Karara esas olmayan yeni bir sağlık kurulu
+raporu temin edilerek itiraz edilmesi halinde, mevzuatımız gereği tekrar sağlık kurulları
+tarafından değerlendirilmektedir. Yukarıda bahsedildiği üzere Yüksek Sağlık Kurulunda
+değerlendirilmesi talep edilen dosyalara hiçbir şekilde ek yeni bir sağlık kurulu raporu
+konulmayacaktır.
+         4.7. Kurum sağlık kurullarınca verilen kararlarla ilgili olarak tarafların açtıkları dava
+sürecinde gerek Kurumun ilgili birimleri, gerekse iş mahkemelerinden istenen savunmaya
+esas görüş yazıları, kararı veren Kurum sağlık kurullarının yer aldığı sosyal güvenlik il
+müdürlükleri ve kurullar tarafından hazırlanacaktır.
+         4.8. Vatandaş mağduriyetine sebebiyet verilmemesi için, diğer kamu kurum ve
+kuruluşlarında mevcut olan çalışma gücü kaybı (Maluliyet), iş kazası ve meslek hastalıkları
+dosyalarında bulunması gereken belgeler, sosyal güvenlik il müdürlüklerince/sosyal güvenlik
+merkezlerince temin edilecektir (Ek- 2, Ek- 3, Ek- 5).
+         4.9. Sigortalıların, çalışma gücü ve meslekte kazanma gücü kaybı tespitinde esas
+alınacak sağlık kurulu raporlarının düzenlenmesinde;
+         - Meslek hastalığına ilişkin rapor düzenleyen sağlık hizmet sunucularınca sağlık
+kurulu raporlarında özellikle belirtilmesi gereken tıbbi bilgileri (Ek- 4)
+         - Sağlık kurulu raporu düzenleyen sağlık hizmet sunucularınca dikkat edilmesi
+gereken usul ve esasları ( Ek- 6),
+         - Rapor düzenleyen sağlık hizmet sunucularınca hastalık ve arazlarla ilgili olarak
+sağlık kurulu raporlarında özellikle belirtilmesi gereken tıbbi bilgileri (Ek- 7),
+         gösterir Genelge eki listeler, sosyal güvenlik il müdürlüklerince/sosyal güvenlik
+merkezlerince, sağlık kurulu raporlarının usulüne uygun ve gerekli tıbbi bilgileri içerecek
+şekilde düzenlenmesini teminen, Sağlık Bakanlığı İl Sağlık Müdürlükleri ile Üniversite
+Hastanelerine bildirilecektir.
+         Ayrıca, sosyal güvenlik il müdürlükleri/sosyal güvenlik merkezleri tarafından
+raporların nasıl tanzim edileceği, hangi hastalıklar için hangi belge, tetkik ve bulguların
+bulunacağı, hangi eksikliklerin sık yapıldığı, Kurumumuzun hangi birimine gönderileceği,
+Kurumumuzca talep edilen maluliyet raporunun “Özürlülere Verilecek Sağlık Kurulu
+Raporları Hakkında Yönetmelik” hükümlerine göre tanzim edilen özürlülük raporundan farklı
+olduğu, raporlarda özür oranının belirtilmemesi gerektiği ve benzeri hususlar sağlık hizmet
+sunucuları yetkililerine iletilecektir.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA               Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                    9
+Tel    : (0312) 207 81 38                               Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                        Elektronik Ağ: .www.sgk.gov.tr
+        5- YÜRÜRLÜKTEN KALDIRILAN GENELGE VE GENEL YAZILAR
+        Genelge eki (Ek- 8)’de yer alan tabloda belirtilen genelgeler ve genel yazılar ile
+devredilen Kurumlar tarafından yayımlanan maluliyet işlemlerine ilişkin tüm genelgeler,
+genel yazılar, bu Genelgenin yürürlüğe girdiği tarih itibariyle yürürlükten kaldırılmıştır. Söz
+konusu genelgeler ile genel yazılar yürürlük dönemlerindeki iş ve işlemlerde
+kullanılabilecektir.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                          M. Emin ZARARSIZ
+                                                                            Kurum Başkanı
+
+
+DAĞITIM :
+Gereği :                                            Bilgi :
+Merkez ve Taşra Teşkilatına                         Çalışma ve Sosyal Güvenlik Bakanlığına
+                                                    Sağlık Bakanlığına
+                                                    Yüksek Öğretim Kurumuna
+
+
+
+
+… / … / 2011 Şube Müdürü              : A. AKTOSUN
+… / … / 2011 Şube Müdürü              : E. GÜLBEYAZ
+… / … / 2011 Şube Müdürü              : Dr. E. KUŞDOĞAN
+… / … / 2011 Daire Başkanı            : Dr. H. BALTACI
+… / … / 2011 Genel Müdür              : Uzm. Dr. H. ÇAĞIL
+… / … / 2011 Kurum Bşk. Yrd.          : F. ACAR
+
+Koordinasyon
+… / … / 2011 Daire Başkanı            : C. CEYLAN
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA              Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                   10
+Tel    : (0312) 207 81 38                              Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                       Elektronik Ağ: .www.sgk.gov.tr
+EKLER DİZİNİ
+
+Ek: 1- Kurum Sağlık Kurulları ve Bağlı Bulunan İller (Bir sayfa).
+Ek: 2- Maluliyet dosyasına ait kontrol listesi (Bir sayfa).
+Ek: 3- İş kazası dosyasına ait kontrol listesi (Bir sayfa).
+Ek: 4- Meslek hastalığına ilişkin rapor düzenleyen sağlık hizmet sunucularınca sağlık kurulu
+raporlarında özellikle belirtilmesi gereken tıbbi bilgiler (Bir sayfa).
+Ek: 5- Meslek hastalığı dosyasına ait kontrol listesi (Bir sayfa).
+Ek: 6- Sağlık kurulu raporu düzenleyen sağlık hizmet sunucularınca dikkat edilmesi gereken
+usul ve esaslar (İki sayfa).
+Ek: 7- Rapor düzenleyen sağlık hizmet sunucularınca hastalık ve arazlarla ilgili olarak sağlık
+kurulu raporlarında özellikle belirtilmesi gereken tıbbi bilgiler (İki sayfa).
+Ek: 8 - Yürürlükten kaldırılan genelge ve genel yazılar tablosu (Bir sayfa).
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA             Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                  11
+Tel    : (0312) 207 81 38                             Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                      Elektronik Ağ: .www.sgk.gov.tr
+                                                                                           EK- 1
+
+
+       KURUM SAĞLIK KURULLARI                      BAĞLI BULUNAN İLLER
+
+                      ADANA                 Adana, Hatay, İçel (Mersin), Osmaniye
+
+                                            Ankara, Ağrı, Ardahan, Bartın, Batman
+                                            Bingöl, Bitlis, Çankırı, Diyarbakır, Elazığ,
+                                            Hakkari, Iğdır, Karabük, Kars,
+                     ANKARA
+                                            Kastamonu, Kırıkkale, Kırşehir, Mardin,
+                                            Muş, Siirt, Şırnak, Tunceli, Van, Yozgat,
+                                            Zonguldak
+
+                     ANTALYA                Antalya, Burdur, Isparta
+
+                       BURSA                Bursa, Balıkesir, Çanakkale, Yalova
+
+                                            Eskişehir, Afyonkarahisar, Bilecik,
+                    ESKİŞEHİR
+                                            Kütahya
+
+                                            Gaziantep, Adıyaman, K.Maraş, Kilis,
+                   GAZİANTEP
+                                            Şanlıurfa
+
+                    İSTANBUL                İstanbul, Edirne, Kırklareli, Tekirdağ
+
+                                            İzmir, Aydın, Denizli, Manisa, Muğla,
+                       İZMİR
+                                            Uşak
+
+                     KAYSERİ                Kayseri, Malatya, Nevşehir, Sivas
+
+                     KOCAELİ                Kocaeli, Bolu, Düzce, Sakarya
+
+                      KONYA                 Konya, Aksaray, Karaman, Niğde
+
+                                            Samsun, Amasya, Çorum, Ordu, Sinop,
+                     SAMSUN
+                                            Tokat,
+
+                                            Trabzon, Artvin, Bayburt, Erzincan,
+                     TRABZON
+                                            Erzurum, Giresun, Gümüşhane, Rize
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA      Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                              12
+Tel    : (0312) 207 81 38                      Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr               Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                   EK- 2
+
+                   MALULİYET DOSYASINA AİT KONTROL LİSTESİ
+                                                                                              Var/Yok
+ Belgeler
+                                                                                               (+ / -)
+
+  Maluliyet talep dilekçesi
+
+
+  İlk işe giriş bildirgesi
+
+
+  Erkek sigortalılar için askerlik terhis belgesi
+
+  Eğer sigortalı askerlikten muaf tutulmuş ise buna ait askeri hastanece
+  düzenlenmiş ayrıntılı muayene bulgularını içeren sağlık raporu (askerlik sakat
+  raporu)
+
+  İlk işe giriş sağlık raporu veya beyanı
+
+  Sevk sonucu sağlık tesisince usulüne uygun düzenlenmiş sağlık kurulu raporu
+  aslı ve dayanağı tıbbi belgeler
+
+  Sigortalının mevcut rahatsızlığı ile ilgili daha önce almış olduğu raporlar, tıbbi
+  belge ve epikrizlerin (çıkış özeti) birer örneği
+
+  Kurumumuzca sigortalıyla ilgili daha önce verilmiş bir maluliyet kararı
+  mevcutsa, bunun bir örneği ile dayanağı olan rapor ve diğer belgeler
+
+
+  Yukarıda belirtilen belgelerin, sigortalının maluliyet dosyasında tam ve eksiksiz bulunduğu
+  tarafımca kontrol edilmiştir.
+
+
+
+
+                                                                         Servis Şefi
+                                                                        Adı ve Soyadı
+                                                                            imza
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA              Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                      13
+Tel    : (0312) 207 81 38                              Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                       Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                    EK- 3
+
+                      İŞ KAZASI DOSYASINA AİT KONTROL LİSTESİ
+                                                                                                    Var/Yok
+    Belgeler
+                                                                                                     (+ / -)
+    İlk işe giriş sağlık raporu veya beyanı
+
+    Olayın iş kazası olup olmadığını net olarak belirtir tahkikat raporu ve ekleri
+
+    Erkek sigortalılar için askerlik terhis belgesi
+    Eğer sigortalı askerlikten muaf tutulmuş ise buna ait askeri hastanece
+    düzenlenmiş ayrıntılı muayene bulgularını içeren sağlık raporu (askerlik sakat
+    raporu)
+    İş kazasından sonra başvurduğu hastanelerde görmüş olduğu tedavi, ameliyat
+    bilgilerini içerir epikrizleri (çıkış özeti) ve varsa ameliyat notları
+    Sigortalının tedavileri tamamlandıktan sonra son durumunu gösterir ve
+    “çalışır” tarihini bildiren sağlık kurulu raporu aslı
+
+
+    Yukarıda belirtilen belgelerin sigortalının iş kazası dosyasında tam ve eksiksiz bulunduğu
+    tarafımca kontrol edilmiştir.
+
+
+
+
+                                                                          Servis Şefi
+                                                                         Adı ve Soyadı
+                                                                             imza
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA               Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                        14
+Tel    : (0312) 207 81 38                               Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                        Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                        EK- 4
+
+   MESLEK HASTALIĞINA İLİŞKİN RAPOR DÜZENLEYEN SAĞLIK HİZMET
+     SUNUCULARINCA SAĞLIK KURULU RAPORLARINDA ÖZELLİKLE
+              BELİRTİLMESİ GEREKEN TIBBİ BİLGİLER
+
+Meslek hastalığı tespitine esas teşkil edecek sağlık kurulu raporları; aynı branştan en az üç uzman
+hekim veya ilgili uzmanların bulunması kaydıyla farklı branşlardan beş uzman hekim tarafından
+düzenlenmiş olacaktır. Sağlık kurulu raporlarının karar hanesinde çalışma gücü kayıp oranı
+belirtilmeksizin "Sosyal Güvenlik Kurumunca belirlenecektir" ibaresinin yazılmasına dikkat
+edilecektir. Düzenlenecek bu raporlarda aşağıdaki hususlar belirtilir.
+
+KLİNİK GÖZLEM: Meslek hastalığına neden olan etken ya da etkenlerle meydana gelen yada
+olduğu düşünülen hastalık ve arızaların düzeyi açıklanır. Mesleki nitelik taşımayan hastalık veya
+arızalar sağlık kurulu raporunda gösterilmez.
+TETKİKLER: Tıbbi teşhis için gereken ve yapılan tetkikler belirtilir. P.A. akciğer grafisi gereken
+vakalarda, bu grafilerin uygun teknikle çekilmesi şarttır. Çok yumuşak yada sert çekilen grafiler
+değerlendirmeye alınmaz.
+TIBBİ TEŞHİS: Sigortalıda saptanan ve mesleki şüphesi olan hastalık veya arızayı gösteren teşhis
+belirtilir.
+
+PNÖMOKONYOZ VAKALARINDA;
+         a) ILO normlarına uygun teknikle P.A. akciğer grafisi (35x35 ebadında) çekilir.
+         b) Pnömokonyoza ek olarak tüberküloz yada başka hastalıkların mevcut olduğu veya çok
+yoğun küçük opasiteleri olan yada büyük opasite bulunmakla birlikte pnömokonyozun düzeyinin P.A.
+akciğer grafisi ile saptanamadığı hallerde HRCT çekilebilir.
+         c) ILO normlarına göre pnömokonyozun hangi düzeyde olduğunu gösteren, opasitelerin
+çizgisel yada yuvarlak olup olmadığını belirten teşhisi içeren klinik durum açıklanır.
+
+PNÖMOKONYOZ DIŞINDAKİ MESLEKİ SOLUNUM SİSTEMİ HASTALIKLARINDA
+(MESLEKİ ASTHMA, BİSSİNOZİS, ASBESTOZ V.B.);
+         a) Uygun teknikle çekilmiş P.A. akciğer grafisi,
+         b) SFT ile gereken hallerde bronş provakasyon ile spesifik bronş provakosyon testleri,
+         c) Mesleki astım vakaları için; tatil döneminde 15 gün, iş ortamında 20 gün süreyle günde dört
+kez PEF değerlerinin belirlenmesi, v.b. tetkikler yapılarak mesleki nitelik taşıyan hastalık ve arızalar
+gösterilir.
+
+MESLEKİ İŞİTME KAYBI VAKALARINDA;
+        a) Sigortalıda odyogram ve gerekli diğer tetkikler yaptırılarak her iki kulakta işitme kaybı olup
+olmadığı tespit edilir. Her iki kulakta işitme kaybı mevcut ise çalıştığı ortamda maruz kaldığı gürültü
+sonucu olup olmadığı hususunda gözlenen bulgular belirtilir.
+        b) Sigortalıda İSO standartlarına göre her iki kulaktaki muhtemel işitme kaybını ifade eden
+görüşler KARAR bölümü dışında olmak kaydıyla gösterilebilir.
+MESLEK HASTALIKLARI LİSTESİNDE GÖSTERİLEN DİĞER HASTALIKLARDA;
+        a) İşyeri veya işyerlerindeki etken yada etkenler nedeniyle ortaya çıkan veya çıktığı düşünülen
+hastalık yada arızanın mevcut klinik durumunu gösteren, sekel bulgular var ise açıklayan ayrıntılı
+Sağlık Kurulu Raporu düzenlenir.
+        b) Meslekte Kazanma Gücü Kaybı Oranı KARAR bölümü dışında olmak kaydıyla
+gösterilebilir.
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                   Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                          15
+Tel    : (0312) 207 81 38                                   Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                            Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                     EK- 5
+
+            MESLEK HASTALIKLARI DOSYASINA AİT KONTROL LİSTESİ
+                                                                                                Var/Yok
+    Belge
+                                                                                                 (+ / -)
+
+    İlk işe giriş sağlık raporu veya beyanı
+
+
+
+    Sigortalının çalışma süre ve koşullarını belirleyen mesai listesi/listeleri
+
+
+    Geçmişi bulunan dosya ise, Sağlık Bakanlığı Meslek Hastalıkları
+    Hastanesine ait hasta arşiv dosyası
+
+    Sevk sonucu sağlık tesisince usulüne uygun düzenlenmiş sağlık kurulu
+    raporu aslı ve dayanağı tıbbi belgeler
+
+    İşyerinde yapılmış olan periyodik muayene raporları ya da onaylı
+    örnekleri
+
+
+    Müfettiş Raporu (gerektiği hallerde)
+
+
+
+Yukarıda belirtilen belgelerin sigortalının meslek hastalığı dosyasında tam ve eksiksiz
+bulunduğu tarafımca kontrol edilmiştir.
+
+
+
+
+                                                                          Servis Şefi
+                                                                         Adı ve Soyadı
+                                                                             imza
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                        16
+Tel    : (0312) 207 81 38                                Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                         Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                        EK- 6
+
+SAĞLIK KURULU RAPORU DÜZENLEYEN SAĞLIK HİZMET SUNUCULARINCA
+           DİKKAT EDİLMESİ GEREKEN USUL VE ESASLAR
+1- Maluliyet Tespitine Esas Sağlık Kurulu Raporlarında;
+       a) Hastane adının,
+         b) Sigortalı veya hak sahibinin adı, soyadı, T.C. Kimlik Numarası, baba adı ve doğum tarihi
+bilgilerinin,
+        c) Raporun tarih ve sayısının,
+        ç) Hastaneye giriş ve çıkış tarihlerinin,
+        d) Sigortalı/ hak sahibinin mühürlü fotoğrafının,
+        e) Sağlık kurulu raporunun düzenlenme nedeninin (maluliyet, iş kazası, meslek hastalığı …),
+         f) Kimlik tespiti yapılarak sigortalı/hak sahibinin talebine esas teşkil eden hastalık ya da
+arızalarının, ilgili branşlarca muayenesi sonucu, muayene bulgularının her bölümün karşısına ayrıntılı
+olarak yazılmasına,
+        g) İlgili branşlarca yapılan tetkik sonuçlarının sağlık kurulu raporuna yazılıp, tetkik
+raporlarının aslı ya da onaylı fotokopilerinin eklenmesine,
+         ğ) Eklenen test ve tetkik belgelerinde sigortalı/hak sahibinin adı, soyadı ve tetkik tarihinin
+belirtilmesine,
+        h) Devam eden tedavisi varsa tedavi protokolünün belirtilmesine,
+        ı) Tıbbi terimlerin kısaltılmaksızın yazılmasına,
+        i) Daha önce aynı hastanede tedavi görülmüş ise, buna ilişkin işlem tarihinin de yer aldığı
+epikrizler, ameliyat notları, patoloji raporları, tetkikleri ve benzeri belgelerin aslı veya resmî onaylı
+fotokopilerinin eklenmesine,
+        j) Hekim muayeneleri, tetkikler vb. işlemler tamamlandıktan sonra bilgisayar ortamında
+yazılmış ve sağlık kurulunca onayları tamamlanmış, asıl nüshasının sevk veren sosyal güvenlik il
+müdürlüğüne gönderilmesine, hasta yakınlarına bir nüsha verilecek ise “aslı gibidir” onayı yapılarak
+verilmesine,
+        k) Karar hanesinde çalışma gücü kayıp oranı belirtilmeksizin, "Sosyal Güvenlik Kurumunca
+belirlenecektir" ibaresinin yazılmasına, dikkat edilecektir.
+2- İş Kazası Nedeni İle Düzenlenecek Raporlarda 1 inci Maddede Belirtilen Hususlara Ek
+Olarak;
+      a) Sigortalının fonksiyon kayıplarının veya sekelin iş kazasına bağlı olması halinde bu
+durumun düzenlenecek sağlık kurulu raporlarında net bir şekilde belirtilmiş ve bunlara ilişkin ayrıntılı
+muayene bulgularının yazılmış olması,
+       b) Eğer sigortalıda iş kazasına bağlı olmayan fonksiyon kayıpları veya sekel var ise bu tespite
+ait muayene bulguları ve tanı yazıldıktan sonra "İş kazasına bağlı değildir" ibaresinin yazılması,
+         c) İş kazası nedeni ile yapılan tedavi tamamlanıp, bulguları sekel hâli aldıktan sonra
+sigortalının iş başı tarihi veya çalışamayacak duruma girdiği tarihin gün, ay ve yıl olarak belirtilmesi,
+       ç) Sağlık kurulu raporlarının karar hanesinde iş kazasına ilişkin meslekte kazanma gücü
+azalma oranının belirtilmemiş olması, gerekmektedir.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                   Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                           17
+Tel    : (0312) 207 81 38                                   Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                            Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                         EK- 6
+
+SAĞLIK KURULU RAPORU DÜZENLEYEN SAĞLIK HİZMET SUNUCULARINCA
+           DİKKAT EDİLMESİ GEREKEN USUL VE ESASLAR
+3- Meslek Hastalığı Nedeniyle Düzenlenecek Raporlarda 1 inci Maddede Belirtilen Hususlara
+Ek Olarak;
+         a) Meslek hastalığı tespiti için başvuru yapmasına neden olan hastalık ya da sekel ile ilgili
+(göğüs hastalıkları ve/veya alerji, KBB, iç hastalıkları, nöroloji, psikiyatri, dermatoloji, ortopedi vb.)
+branşlar tarafından çalışma ortamındaki faktör ya da faktörlere bağlı olarak ortaya çıktığı düşünülen
+hastalık ya da sekellerin mevcut klinik durumunu açıklayan, bulguları gösteren detaylı bir tespit ile bu
+tespitlere dayanak teşkil eden:
+        1- Göğüs hastalıkları ve/veya alerji muayenelerinde; pnömokonyoz vakalarında uygun
+teknikle çekilen P.A. akciğer grafisi, ayırıcı tanıda gerek olması halinde HRCT, tüberküloz mevcut ise
+ARB; mesleki astım hastalığı iddiası olduğunda bronş provokasyon ve benzeri testleri, tatil döneminde
+15 gün, iş ortamında 20 gün süreyle günde dört kez belirlenen PEF değerleri,
+         2- KBB muayenelerinde; her iki kulağın işitme düzeyini gösteren odyogramlar, işe girmeden
+önce çekilmiş olan odyogramı mevcut ise her ikisinin kıyaslanarak yapılan değerlendirmesi,
+         3- İç hastalıkları muayenelerinde; anemi, trombositopeni, granülositopeni ve benzeri
+vakalarda periferik yayma ile gerekli diğer tetkikler; kurşun ve kurşun tozları ile etkilenme olduğu
+takdirde, idrarda ve kanda kurşun, koproporfirin, deltaaminolevülinik asit ve benzeri düzeylerini
+gösteren tetkikler,
+         4- Nöroloji muayenelerinde EMG ve gerekli diğer tetkikler,
+         5- Ortopedi, psikiyatri, dermatoloji ve benzeri branşlarla ilgili muayenelerde ise; mesleki
+hastalık iddialarına dayanak teşkil eden tetkikler, ayrıntılı olarak ayrıca belirtilir.
+         b) Sağlık kurulu raporlarında sadece tıbbi teşhis bulunur. Hastalığın mesleki olup olmadığına
+dair tespit ve meslekte kazanma gücü azalma oranı belirtilmez.
+4- Hekim Tavsiyesine Uyulmama
+        Sigortalı, iş kazası, meslek hastalığı dolayısıyla tanı ve tedavi süresince hekimin bildirdiği
+tedbir ve tavsiyelere uymaması nedeniyle, tedavi süresinin uzamasına, meslekte kazanma gücü kayıp
+oranının artmasına sebep olmuş ise bu durum sağlık kurulu raporunda belirtilir.
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                    Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                            18
+Tel    : (0312) 207 81 38                                    Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                             Elektronik Ağ: .www.sgk.gov.tr
+                                                               EK- 7
+     RAPOR DÜZENLEYEN SAĞLIK HİZMET SUNUCULARINCA HASTALIK VE
+    ARAZLARLA İLGİLİ OLARAK SAĞLIK KURULU RAPORLARINDA ÖZELLİKLE
+                 BELİRTİLMESİ GEREKEN TIBBİ BİLGİLER
+1- Göz hastalıklarında: Arızaların etiyopatolojisi, bilateral camsız ve en iyi düzeltmeyle görme
+keskinliklerinin, göz içi basınç değerlerinin, biyomikroskopik muayene bulgularının, ayrıntılı göz dibi
+muayene bulgularının, gerekiyorsa görme alanı muayenesi, flöresen anjiografi, optik koherans
+tomografi, oküler ultrasonografi ve elektrofizyolojik tetkiklerinin (VEP, ERG, simulasyon şüphesi var
+ise Sweep VEP vb.), tespit edilen patolojinin görme azlığını açıklayıp açıklamadığı konusundaki
+görüşü, tıbbi veya cerrahi tedaviden fayda görüp, görmeyeceği raporda yer alacaktır.
+2- Sistemik hastalıklarda (Diabetes Mellitus, Hipertansiyon, Sistemik Lupus Eritamatozis vb.):
+Hedef organ hasarları göz önüne alınarak, ilgili tüm branşların muayenesi ile dayanağı tetkikler
+mevcut olacaktır.
+3- Kardiyolojik hastalıklarda: Ayrıntılı muayene bulgularına ek olarak, tanıyı destekleyen tetkikler
+(EF içeren ayrıntılı EKO-Cor Pulmonale tanısında sağ kalp boşluklarının ölçümlerini ve Pulmoner
+arter basıncının yer aldığı EKO, Treadmill testi ve/veya miyocard perfüzyon sintigrafisi vb.) sağlık
+kurulu raporuna eklenecek ve NYHA’ya göre kardiyak efor kapasitesi bildirilmiş olacaktır.
+4- Akciğer hastalıklarında: Hastalığın yol açtığı fonksiyonel kaybın derecesini değerlendirmek üzere
+solunum fonksiyon testi ve kanın arterden alınmasına dikkat edilerek 1 hafta ara ile hasta dinlenmiş
+durumda, ancak oksijen tedavisi altında değilken iki kez tekrarlanan arteriyel kan gazları analizi ve
+ayrıca uygun teknikle çekilmiş radyolojik inceleme rapora eklenecektir.
+5- Kulak Burun Boğaz hastalıklarında: Etiopatolojisi, komplikasyonları (menier sendromu),
+odiometrik olarak işitme kaybı derecelerinin, düşük ve yüksek frekans işitme düzeylerinin tümünün
+belirtilmesine ve odyogramın ekte olmasına, hastanın doğuştan sağır dilsiz olup olmadığı bilgisinin
+yer almasına, lareks kanser hastalarında eğer total larenjektomi yapılmadı ise konuşma ve solunum
+fonksiyonlarının, kalan larenks dokusundaki larengeal yapıların fonksiyon görüp görmediği
+belirtilecektir. Tedavi sonrası nüks ya da rekürrensin olup olmadığı, kulak patolojilerinde tedavi ile
+düzelmeyen vertigonun olup olmadığı belirtilecektir.
+6- Epileptik hastalarda: Hastalığın başlangıç tarihi, etiyolojisi, tedavi ile kontrol altında olup
+olmadığı, kontrol altında olmadığı düşünülen hastalarda, tedavi dozunda uygun antiepileptik kan
+konsantrasyonu sağlandıktan sonra hastanın nöroloji kliniğinde yatırılarak gözlenmesi, nöbet geçirip
+geçirmediği, nöbet geçiriyor ise doktor veya hemşire tarafından gözlemlenen nöbet tipi ve sıklığı,
+statusa girip girmediği bilgisi ve kan ilaç düzeyleri mevcut olacaktır.
+7- Kronik böbrek yetmezliğinde: Böbrek fonksiyon testleri ve kreatinin klirensi değeri
+(parametrelerinin ayrı ayrı bildirildiği), KBY teşhisi konulan hastalarda ilk tanı tarihini, diyaliz
+uygulanıyor ise ilk diyaliz tarihini bildiren belgeler ve halen uygulanan diyaliz programı rapora
+eklenecektir.
+8- Karaciğer hastalıklarında: Hastalığın yol açtığı fonksiyonel kaybın derecesini değerlendirmek
+üzere, karaciğer fonksiyon testleri ve tanıyı destekleyen tetkikler (varsa biyopsi sonucu, USG vb.)
+mevcut olacaktır.
+9- Transplantasyon yapılan hastalarda: Ayrıntılı muayene bulguları, fonksiyon testleri ve gerekli
+tüm tetkikler yapılmış olacak, transplante organın fonksiyonlarını yerine getirip getirmediği, fonksiyon
+kaybı mevcut ise yüzde olarak kayıp oranı ve halen destekleyici bir tedavi alıyor ise ayrıntılı olarak
+bildirilmiş olacaktır.
+10- Malign hastalıklarda: Patoloji raporu ve metastaz mevcut ise destekleyen tetkikler
+(ultrasonografi, sintigrafi vb.) rapora eklenecektir.
+11- İdrar ve gaita inkontinansı mevcut olan hastalarda: Yorumuyla birlikte ürodinamik testler,
+anal sfinkter tonus muayene bulguları, yapılabiliyor ise anal EMG/Manometre ve yorumu mevcut
+olacaktır.
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                  Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                       19
+Tel    : (0312) 207 81 38                                  Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                           Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                        EK- 7
+     RAPOR DÜZENLEYEN SAĞLIK HİZMET SUNUCULARINCA HASTALIK VE
+    ARAZLARLA İLGİLİ OLARAK SAĞLIK KURULU RAPORLARINDA ÖZELLİKLE
+             BELİRTİLMESİ GEREKEN TIBBİ BİLGİLER (DEVAMI)
+12- Kraniektomilerde: Santimetrekare cinsinden alanı ve plastikle kapatılıp kapatılamayacağı
+bilgileri bulunacak, en az iki yönlü kraniografi eklenecektir.
+13- Ankilozan Spondilitde: İlgili ölçümler (her yöne omurga hareket açıklıklarının nötral (0)
+metoduna göre, el-yer, occiput-duvar, çene-sternum, schoberler ve göğüs ekspansiyonu ölçümlerinin
+vb.) mevcut olmasına ve etkilenen omurga ve eklemlerin iki yönlü grafileri rapora eklenecektir.
+14- Amputasyonlarda: Amputasyonun etiyolojisi bildirilecek ve amputasyon güdüğünü net olarak
+gösteren, uygun dozda çekilmiş direk grafiler rapora eklenecek, femur ve alt bacak
+amputasyonlarında; güdüğü ve kemiğin proksimal sınırını içine alacak şekilde diğer ekstremite ile
+karşılaştırmalı grafi mevcut olacaktır.
+15- Kırıklarda: İlgili bölgenin ve varsa cerrahi uygulamayı gösteren direk grafiler rapora eklenecek
+ve kırıklara komşu eklemlerin hareket açıklıklarının her yöne, aktif ve pasif olarak nötral (0) metoduna
+göre ölçümleri-goniometrik ölçüm cetveli ekte olması koşulu ile mevcut olacaktır.
+Ekstremitelerdeki travmalar sonucunda atrofi ve kısalık oluşmuş ise santimetre cinsinden ölçümleri
+bildirilecektir
+16- Osteomiyelitte: Osteomiyelitin aktif-akıntılı olup olmadığı bilgisi mevcut olacak ve aktif-akıntılı
+ise kültür-antibiogramı yapılarak rapora eklenecektir.
+17- Sinir lezyonlarında: Lezyon düzeyini de belirten yorumuyla birlikte EMG ile teyit edilerek
+sonucu rapora yazılacaktır.
+18- Yanıklarda: Yanık derecesi, yanığa bağlı keloid ve hipertrofik skatris alanlarının vücut yüzeyinin
+yüzde (%) kaçını kapladığı, eklem hareketlerini kısıtlayan kontraktür gelişip gelişmediği ve gelişmiş
+ise eklem hareket açıklıklarının nötral (0) metoduna göre ölçümü bildirilecektir.
+19- Dermatolojik hastalıklarda: Dermal lezyonların vücut yüzeyinin yüzde kaçını kapladığı
+bildirilecektir.
+20- Sinir ve Ruh hastalıklarında: Hastalık veya arızanın doğuştan veya sonradan olduğu,
+başkalarının yardımına ihtiyacı olup olmadığı, nörolojik ve psikiyatrik arızaların güncel tedavi
+algoritmalarının uygulanmasına rağmen tedaviye cevap verip vermediği, hastalığın tedaviye dirençli
+olup kronik bir mahiyet kazanıp kazanmadığı belirtilecektir.
+21- Mental retardasyonda: IQ derecesi rakamsal olarak bildirilecektir.
+22- Serebrovasküler hadiselerde veya omurga hasarlarında sınıflandırmalar: Bruunstrom,
+Aschword, fonksiyonel ambulasyon sınıflandırması, Frankel, FIM, kas güçleri ölçümlerinin vb.
+raporda yer alacaktır.
+23- Kronik alkolizmde: Sigortalıların en az altı aylık tedavisi sonunda iyi olmayan komplikasyonlu
+alkoliklerde (siroz, nöropatiler, psikozlar vb.) komplikasyon (klinik ve laboratuar) bulguların ayrıntılı
+olarak raporda belirtilecektir.
+24- Sağlık kurulu raporlarının karar hanesinde: Çalışma gücü kayıp oranı belirtilmeksizin "Sosyal
+Güvenlik Kurumunca belirlenecektir" ibaresinin yazılmasına, dikkat edilecektir.
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                   Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                           20
+Tel    : (0312) 207 81 38                                   Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                            Elektronik Ağ: .www.sgk.gov.tr
+                                                                                                     EK- 8
+                    YÜRÜRLÜLÜKTEN KALDIRILAN GENELGELER
+
+      SIRA
+                 TARİH            SAYI                                  KONU
+       NO
+        1
+                  02.01.2009        2008-113   Meslek Hastalığı Tespit İşlemleri
+         2
+                  06.03.2009         2009-39   Bölge Sağlık Kurulları ve Maluliyet İşlemleri
+                                               Maluliyet, İş Kazaları Meslek Hastalıkları İle İlgili
+         3        13.11.2009        2009-134
+                                               Sağlık Kurulu Raporları
+         4
+                  13.11.2009        2009-135   Bölge Sağlık Kurulları ve Maluliyet İşlemleri
+         5
+                  13.11.2009        2009-136   Dosya Düzeni
+
+
+
+
+                    YÜRÜRLÜKTEN KALDIRILAN GENEL YAZILAR
+
+      SIRA
+                    TARİH             SAYI                            KONUSU
+       NO
+        1
+                  19.10.2005            ----   Maluliyet ve İş kazası Dosyaları (SSK Devredilen)
+                                               Maluliyet ve İş kazaları ile ilgili Sağlık Kurulu
+         2        19.10.2005        XV-7 EK
+                                               Raporları (SSK Devredilen)
+                  13.12.2005
+         3                           160448    Maluliyet Raporları (Bağ-Kur Devredilen)
+         4
+                   15.4.2010         6073198   Dosya Düzeni
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                        21
+Tel    : (0312) 207 81 38                                Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                         Elektronik Ağ: .www.sgk.gov.tr
+

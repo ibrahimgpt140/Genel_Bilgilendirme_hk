@@ -1,0 +1,636 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/204699
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2024/16
+ADI: 2020/5 SAYILI GENELGEDE DEĞİŞİKLİK YAPILMASI HAKKINDA 26/12/2024 TARİHLİ VE 2024/16 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ffbb8fa7f4a62ddce4af9963a0976e2f0c291e1bc309e0cf1ae0ef41088d8817
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                       T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-16235552-010.06.02-108876487                                                                                       26.12.2024
+Konu : 2020/5 sayılı Genelgede Değişiklik
+       Yapılması
+
+
+
+                                                             GENELGE
+                                                              2024/16
+
+
+         18 Mayıs 2024 tarih ve 32550 sayılı Resmi Gazete’de Kamu İhale Genel Tebliğinde Değişiklik
+Yapılmasına Dair Tebliğ yayımlanmıştır. Söz konusu Tebliğ'in 8’inci maddesi ile Kamu İhale Genel
+Tebliği'nin 4734 sayılı Kanun'un 10'uncu maddesinin dördüncü fıkrasının (c) bendi uygulamasında
+kesinleşmiş sosyal güvenlik prim borcunun belirlenmesinde esas alınacak hususları düzenleyen
+maddelerinden biri olan 17.3.2'nci maddesi;
+         “17.3.2. Öte yandan isteklinin Türkiye genelindeki;
+         1) İlgili kanunlara göre tecil ve taksitlendirilerek ya da özel kanunlara göre yeniden
+yapılandırılarak ödeme planına bağlanan ve anılan kanunlar gereğince tecil ve taksitlendirmeye ya da
+yapılandırmaya ilişkin taksit ve/veya cari aya ilişkin ödeme yükümlülükleri yerine getirilmiş olması
+kaydıyla, tecil ve taksitlendirmeye ya da yeniden yapılandırmaya konu prim, sosyal güvenlik destek primi,
+işsizlik sigortası primi, kesenek, kurum karşılığı ile bunların fer’ileri,
+         2) (a) bendi kapsamına giren sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi ile
+bunların fer’ileri toplamı 5.000 TL'yi aşmayan borçlar,
+         3) (b) bendi kapsamına giren ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+bendi kapsamında sigortalı sayılanlara ilişkin sigorta primi, sosyal güvenlik destek primi, işsizlik
+sigortası primi ile bunların fer’ileri toplamı 5.000 TL'yi aşmayan borçlar,
+         4) (b) bendi kapsamına giren ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c)
+bendi kapsamında sigortalı sayılanlara ilişkin prim, kesenek, kurum karşılığı ile bunların fer’ileri toplamı
+5.000 TL'yi aşmayan borçlar,
+         5) (c) bendi kapsamına giren ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+bendi kapsamında sigortalı sayılanlara ilişkin sigorta primi, sosyal güvenlik destek primi, işsizlik
+sigortası primi ile bunların fer’ileri toplamı 5.000 TL'yi aşmayan borçlar,
+         6) (c) bendi kapsamına giren ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında sayılan sigortalılığından doğan prim borçları, sosyal güvenlik destek primi borçları ve
+5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası
+prim borçları ile bunların fer’ileri toplamı 5.000 TL'yi aşmayan borçlar,
+         7) (ç) bendi kapsamına giren ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında sayılan sigortalılığından doğan prim borçları, sosyal güvenlik destek primi borçları ile
+5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası
+prim borçları ile bunların fer’ileri toplamı 5.000 TL'yi aşmayan borçlar,
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+         8) Tasarrufa teşvik kesintisi ve katkı tutarları, konut edindirme yardımı, idari para cezaları
+borçları,
+         9) İlgili kanunlar uyarınca takip ve tahsil görevi verilmiş olan özel işlem vergisi, eğitime katkı payı
+ve damga vergisi ile bunlara bağlı gecikme zamları,
+         kesinleşmiş sosyal güvenlik prim borcu olarak değerlendirilmeyecektir.
+         İsteklinin;
+         a) İlgili mevzuatına göre tahakkuk eden prim borçlarının süresi içinde ödenmemesi halinde
+kesinleşmiş prim borcu olduğu,
+         b) Prim borcuna karşı dava açılması halinde, bu dava sürecinde veya sonucunda takip ve tahsili
+durduracak geçici veya nihai bir karar bulunmadığı durumlarda kesinleşmiş prim borcu olduğu,
+         c) Prim borcunun 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri
+çerçevesinde cebren tahsili yolunda tesis edilen işlemlere karşı dava açılması halinde, bu dava sürecinde
+veya sonucunda takip ve tahsili durduracak geçici veya nihai bir karar bulunmadığı durumlarda
+kesinleşmiş sosyal güvenlik prim borcu olduğu,
+         d) Vadesi geçtiği halde ödenmemiş ancak ilgili kurum tarafından belli bir vadeye bağlanarak tecil
+edilmiş prim borçlarının, vadesindeki ödemeler aksatılmadığı sürece, kesinleşmiş prim borcu olmadığı,
+         kabul edilecektir.” şeklinde değiştirilmiştir. Yapılan değişikliğin Tebliğin 52’nci maddesiyle
+1/10/2024 tarihinde yürürlüğe gireceği düzenlenmiştir.
+         Kamu İhale Genel Tebliği'nin 17.3.2'nci maddesinde yapılan düzenleme ile bu düzenleme dışında
+diğer hususlar açısından 2/3/2020 tarihli ve 2020/5 sayılı Genelge’de değişikliğe gidilmiş olup aşağıda
+açıklanmıştır.
+         2/3/2020 tarihli ve 2020/5 sayılı Genelge’nin;
+         1-“II. 4734 SAYILI KAMU İHALE KANUNUNA GÖRE VERİLECEK BORCU YOKTUR
+BELGELERİ” başlıklı kısmında yer alan “1- Kapsama Giren Borç Türleri ve Tutarı” başlıklı bölümü
+aşağıdaki şekilde değiştirilmiştir.
+         “1-Kapsama Giren Borç Türleri ve Tutarı
+         İhale tarihi itibarıyla Türkiye genelindeki borç asıl ve fer'ileri toplamı dikkate alınmak kaydıyla
+isteklinin;
+         a) 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+çalıştıran tüzel kişiliği haiz işveren olması halinde;
+         1) Gerek kendilerine ait işyerlerinin gerek devir aldıkları işyerlerinin gerekse kendi işyerleriyle
+birleşen veya kendi işyerlerine katılan işyerlerinin muaccel hale gelmiş sigorta primi, sosyal güvenlik
+destek primi, işsizlik sigortası primi borçları ile bunlara ilişkin gecikme cezası, gecikme zamları ile diğer
+fer’ileri,
+         2) 1/5/2004 tarihinden sonra biten ihale konusu işler ve özel bina inşaatı işyerlerinden dolayı gerek
+Sosyal Güvenlik Kurumunca yapılan araştırma, gerekse Serbest Muhasebeci Mali Müşavirler ile Yeminli
+Mali Müşavirlerce İşyeri Kayıtlarının İncelenmesi Hakkında Yönetmelik gereğince yapılan inceleme
+sonucunda, fark işçilik matrahı üzerinden bulunan ve isteklilerce ödenmesi kabul edilen prim, gecikme
+cezası ve gecikme zammı tutarları,
+         3) İşin yürütümü için gerekli olan asgari işçilik miktarının tespiti hususunda Sosyal Güvenlik
+Kurumu denetim elemanlarınca düzenlenen raporlarda önerilen asgari işçilik miktarı üzerinden
+hesaplanan prim, gecikme cezası ve gecikme zammı tutarlarının idari aşamada kesinleşmiş olan kısımları,
+         4) Sosyal Güvenlik Kurumunun denetim ve kontrol ile görevlendirilmiş memurlarınca, fiilen
+yapılan denetimler sonucunda veya işyeri kayıtlarından yapılan tespitlerden ya da kamu idarelerinin
+denetim elemanlarınca kendi mevzuatı gereğince yapacakları soruşturma, denetim ve incelemeler
+neticesinde veya kamu kurum ve kuruluşları ile bankalar tarafından düzenlenen belge veya alınan
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+bilgilerden çalıştığı tespit edildiği halde bu çalışmaları veya prime esas kazancı Sosyal Güvenlik
+Kurumuna bildirilmeyen veya eksik bildirilen sigortalılardan dolayı tahakkuk ettirilen sigorta primi,
+sosyal güvenlik destek primi, işsizlik sigortası primi borçları ile bunlara ilişkin gecikme cezası, gecikme
+zamları ve diğer fer'ilerinin idari aşamada kesinleşmiş olan kısımları,
+         5) Kesinleşmiş mahkeme kararları uyarınca geriye doğru verilen prim belgelerine istinaden oluşan
+ve muaccel hale gelmiş sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi borçları ile
+bunlara ilişkin gecikme cezası, gecikme zamları ve diğer fer’ileri,
+         6) Ay içinde bazı iş günlerinde çalıştırılmadığına veya eksik ücret ödendiğine dair belgeleri Sosyal
+Güvenlik Kurumuna verilmeyen veya verilen belgeleri anılan Kurumca geçerli sayılmaması nedeniyle
+tahakkuk ettirilen sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi borçları ile bunlara
+ilişkin gecikme cezası, gecikme zamları ve diğer fer’ilerinin idari aşamada kesinleşmiş olan kısımları,
+         7) Bir işverenin işyerinde yürüttüğü mal veya hizmet üretimine ilişkin bir işte veya bir işin bölüm
+veya eklentilerinde iş alan ve bu iş için görevlendirdiği sigortalıları çalıştıran alt işverenin, bu işyerlerinde
+çalıştırdıkları sigortalılardan dolayı tahakkuk eden ve ödenmeyen sigorta primi, sosyal güvenlik destek
+primi, işsizlik sigortası primi ile bunlara ilişkin gecikme cezası, gecikme zammı ve diğer fer’ileri,
+         8) Ortağı olduğu şirketin sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi ile
+bunlara ait gecikme cezası, gecikme zamları ve diğer fer'ilerine ilişkin borçlarından ötürü, (şirketin nevi
+dikkate alınarak) sorumlu olduğu tutarları,
+         toplamının ihale tarihi itibarıyla 5.000,00 TL'yi aşan borçları kesinleşmiş sosyal güvenlik prim
+borcu olarak kabul edilecektir. Ayrıca, kesinleşmiş sosyal güvenlik prim borcu hesabında; işveren
+borçları, işverenin alt işvereni olması durumundaki borçları veya işverenin başka bir işverenin işyerinde
+alt işveren olması durumundaki borçları birlikte değerlendirilecek olup toplamda 5.000,00 TL ve bu
+tutarın altında borç olması durumunda işverene Ek-1'de yer alan borcu yoktur belgesi verilecektir.
+         Örnek 1: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (A) Ltd. Şti.’nin, 19/12/2024 tarihinde
+Ulucanlar Sosyal Güvenlik Merkezine müracaat ederek, ihale tarihi olarak belirttiği 18/12/2024 tarihi
+itibarıyla 4734 sayılı Kamu İhale Kanunu'nun 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi
+talep ettiğini ve adı geçen Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda bu işverenin,
+Bursa Sosyal Güvenlik İl Müdürlüğünde adına tescilli işyerinden dolayı 2024/7'nci ayından 2.500,00 TL
+sigorta prim aslı ile 562,66 TL gecikme cezası ve gecikme zammı olmak üzere toplam 3.062,66 TL
+muaccel hale gelmiş sosyal güvenlik prim borcu olduğunun tespit edildiğini varsayalım.
+         Bu durumda işverenin, Kurumumuza toplam 3.062,66 TL muaccel hale gelmiş sosyal güvenlik
+prim borcu olması ve bu tutarın 5.000,00 TL’yi aşmaması nedeniyle, Ulucanlar Sosyal Güvenlik Merkezi
+tarafından söz konusu işverene 18/12/2024 tarihi itibarıyla borcunun bulunmadığına dair örneği Ek-1’de
+yer alan belge verilecektir.
+         Aynı işverenin Türkiye genelinde ihale tarihi itibarıyla muaccel hale gelmiş borç asıl ve fer'ilerinin
+toplamının 5.000,00 TL’yi aşmış olması varsayımında ise işverene 4734 sayılı Kanun'un 10'uncu maddesi
+hükmü uyarınca Türkiye genelinde ihale tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu miktarını
+belirtir Ek-2'de yer alan belge verilecektir.
+         Örnek 2: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (B) AŞ’nin, Denizli Sosyal Güvenlik İl
+Müdürlüğüne 24/12/2024 tarihinde müracaat ederek ihale tarihi olarak belirttiği 20/12/2024 tarihi
+itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı
+geçen Ünitemizce Türkiye genelinde yapılan sorgulama sonucunda, işverenin Denizli Sosyal Güvenlik İl
+Müdürlüğünde tescilli işyerinden dolayı muaccel hale gelmiş anapara ve fer'ileri toplamı 3.500,00 TL
+sigorta prim borcu, Nevşehir Sosyal Güvenlik İl Müdürlüğünde tescilli iş yerindeki alt işvereninin ise
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+muaccel hale gelmiş toplam 4.500,00 TL borcu olduğunun tespit edildiğini varsayalım.
+         Bu durumda, söz konusu isteklinin ihale tarihi itibarıyla Türkiye genelinde Kurumumuza olan
+borçlarının gerek işveren borçları gerekse işverenin alt işveren borçları açısından birlikte
+değerlendirilmesi gerekmektedir. Buna göre, isteklinin alt işvereni dışındaki borç toplamının 3.500,00 TL,
+alt işvereninin ise toplam borcunun 4.500,00 TL olması göz önüne alındığında, işveren ve alt işvereni
+birlikte değerlendirilmesi sonucunda borcun 8.000,00 TL olması ve bu tutarın da 5.000,00 TL’yi aşması
+nedeniyle, kendisine borcu yoktur belgesi verilmeyecektir. İstekliye Türkiye genelinde 20/12/2024 tarihi
+itibarıyla kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+         Örnek 3: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (C) Ltd. Şti.’nin, Balıkesir Sosyal
+Güvenlik İl Müdürlüğüne 20/12/2024 tarihinde müracaat ederek ihale tarihi olarak belirttiği 19/12/2024
+tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini
+ve adı geçen Ünitemizce Türkiye genelinde yapılan sorgulama sonucunda da, işverenin anılan Müdürlükte
+tescilli işyerinden dolayı muaccel hale gelmiş anapara ve fer'ileri toplamı 2.750,00 TL, Adana Sosyal
+Güvenlik İl Müdürlüğünde tescilli işyerinden dolayı muaccel hale gelmiş anapara ve fer'ileri toplamı
+2.000,00 TL olmak üzere, toplam muaccel hale gelmiş borç tutarının 4.750,00 TL olduğunun tespit
+edildiğini varsayalım.
+         Bu durumda, söz konusu isteklinin ihale tarihi itibarıyla Türkiye genelinde Kurumumuza olan
+borçlarının değerlendirilmesi sonucunda; işverenin borçları toplamının 4.750,00 TL olması ve bu tutarın
+da 5.000,00 TL’yi aşmaması nedeniyle, bu istekliye ihale tarihi itibarıyla Türkiye genelinde kesinleşmiş
+sosyal güvenlik prim borcu olmadığına dair örneği Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+         Örnek 4: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (D) Ltd. Şti.’nin, 20/12/2024 tarihinde
+Ankara Sosyal Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi olarak belirttiği 16/12/2024 tarihi
+itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı
+geçen Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, işverenin anılan Müdürlükte adına
+tescilli işyerinden dolayı muaccel hale gelmiş borcunun olmadığı ancak alt işveren olduğu işyerinden
+dolayı Kayseri Sosyal Güvenlik İl Müdürlüğüne muaccel hale gelmiş toplam 8.750,00 TL borcu
+olduğunun tespit edildiğini varsayalım.
+         Bu durumda, söz konusu işverenin kendisine ait işyerinden dolayı borcu olmamasına karşın, alt
+işveren olduğu işyerlerinden dolayı Türkiye genelinde ihale tarihi itibarıyla muaccel hale gelmiş borç
+tutarının 8.750,00 TL olması ve bu tutarın da 5.000,00 TL’yi aşması nedeniyle, bu istekliye 4734 sayılı
+Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi verilmeyecektir. Bu durumda, söz
+konusu istekliye Türkiye genelinde 16/12/2024 tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu
+miktarını belirtir Ek-2’de yer alan belge verilecektir.
+         Örnek 5: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (E) AŞ’nin, Kırşehir Sosyal Güvenlik İl
+Müdürlüğüne 25/12/2024 tarihinde müracaat ederek, ihale tarihi olarak belirttiği 23/12/2024 tarihi
+itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı
+geçen Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, bu işverenin anılan Müdürlükte
+adına tescilli işyerinden dolayı muaccel hale gelmiş ana para ve fer'ileri toplamı 900,00 TL sigorta prim
+borcu ve Kırıkkale Sosyal Güvenlik İl Müdürlüğüne tescilli olan işyerinde ortaklıktan dolayı sorumluluğu
+kapsamındaki muaccel hale gelmiş borcun 6.000,00 TL olduğunu varsayalım.
+         Bu durumda, söz konusu işverenin Türkiye genelinde ihale tarihi itibarıyla muaccel hale gelmiş
+borç toplamının 6.900,00 TL olması ve bu tutarın da 5.000,00 TL’yi aşmış olması nedeniyle, istekli (E)
+AŞ’ye 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi verilmeyecektir. Bu
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+durumda, söz konusu istekliye Türkiye genelinde 23/12/2024 tarihi itibarıyla kesinleşmiş sosyal güvenlik
+prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+        b) 5510 sayılı Kanun’un 4’üncü maddesinin birinci fıkrasının (a) bendi ile 5510 sayılı Kanun’un
+4’üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı çalıştıran tüzel kişiliği haiz işveren
+olması halinde;
+        5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+sayılanları çalıştırmalarından dolayı yukarıdaki (a) başlıklı bölümde sayılan borçlarından 5.000,00 TL’yi
+aşan tutarları ve 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı
+sayılanları çalıştırmalarından dolayı yasal ödeme süresi geçmiş prim, kesenek ve kurum karşılıkları ile
+bunların gecikme cezası, gecikme zammı ve diğer fer'ilerinin 5.000,00 TL’yi aşan tutarları kesinleşmiş
+sosyal güvenlik prim borcu olarak kabul edilecektir.
+        Hesaplamada işverenin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi ile
+5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi kapsamında çalıştırdığı
+sigortalılardan kaynaklanan borçlar ayrı ayrı değerlendirilecek olup, 5.000,00 TL ve bu tutarın altında
+borç olması halinde işverene Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 6: Kamu kurumu iken özelleştirilen ve Samsun’da faaliyette bulunan (X) AŞ’nin hem 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi hem de 5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı çalıştırdığı ve ihale tarihi olarak belirttiği
+27/12/2024 tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi
+talep ettiğini ve Samsun Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan sorgulama
+sonucunda, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılardan dolayı muaccel hale gelmiş toplam 4.700,00 TL, 5510 sayılı Kanun'un 4'üncü maddesinin
+birinci fıkrasının (c) bendi kapsamında çalıştırılan sigortalılardan dolayı da muaccel hale gelmiş toplam
+5.750,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin borçlarının 5510 sayılı Kanun'un 4'üncü maddesinin birinci
+fıkrasının (a) bendi ve 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki
+sigortalılar bakımından ayrı ayrı değerlendirilmesi neticesinde;
+        - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılardan
+doğan borçları toplamının 4.700,00 TL olması ve bu borcun 5.000,00 TL’yi aşmaması sebebiyle borcu
+yoktur belgesi verilebilecek ise de,
+        - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki
+sigortalılarından kaynaklanan borçlarının toplamının 5.750,00 TL olması ve bu borcun da 5.000,00 TL’yi
+aşmış olması nedeniyle bu istekliye borcu yoktur belgesi verilmeyecektir. Sonuç olarak, söz konusu
+istekliye Türkiye genelinde ihale tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir
+Ek-2’de yer alan belge verilecektir.
+        Örnek 7: Trabzon ilinde bulunan (Y) Belediyesinin %60 hissesine sahip olduğu (J) AŞ işvereninin
+hem 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi hem de 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı çalıştırdığını ve Kurumumuzdan
+30/12/2024 tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi
+talep ettiğini, Trabzon Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan borç sorgulaması
+sonucunda da, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki
+sigortalılardan dolayı işverenin muaccel hale gelmiş toplam 3.000,00 TL, Balıkesir Sosyal Güvenlik İl
+Müdürlüğünde tescilli işyerindeki alt işvereninin ise muaccel hale gelmiş toplam 4.000,00 TL ve 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi kapsamında çalıştırılan sigortalılardan
+dolayı da muaccel hale gelmiş toplam 2.250,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda; söz konusu isteklinin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c)
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+bendi kapsamındaki sigortalılardan kaynaklanan borçları ile 5510 sayılı Kanun'un 4'üncü maddesinin
+birinci fıkrasının (a) bendi kapsamındaki sigortalılardan kaynaklanan borçlarının ayrı ayrı
+değerlendirilmesi neticesinde, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (c) bendi
+kapsamındaki sigortalılardan kaynaklanan prim borcunun ihale tarihi itibarıyla 5.000,00 TL’yi
+aşmamasına karşın, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki
+sigortalılardan kaynaklanan 3.000,00 TL ve alt işverenin ise 4.000,00 TL olmak üzere toplamda 7.000,00
+TL tutarında borç ihale tarihi itibarıyla 5.000,00 TL’yi aştığından, istekliye Türkiye genelinde kesinleşmiş
+sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+        c) 5510 sayılı Kanun’un 4’üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+çalıştıran gerçek kişiliği haiz işveren ve 5510 sayılı Kanun’un 4’üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında sigortalı olması halinde;
+        5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılarından veya şirketin nev’ine göre sorumluluğu da dikkate alınarak üst düzey yöneticisi veya
+ortağı olduğu şirketin Kuruma yukarıda (a) başlıklı bölümde sayılan borçlarından 5.000,00 TL’yi aşan
+tutarları ile 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki
+sigortalılığından doğan prim borçları (Bu bölüm kapsamındaki ilgililer için sosyal güvenlik destek primi
+(SGDP) sorgulanmayacaktır. 6663 sayılı Kanun ile 5510 sayılı Kanun'un 4'üncü maddesinin birinci
+fıkrasının (b) bendi kapsamındaki sigortalılığı yönünden 29/2/2016 tarihinden itibaren kaldırılmıştır.
+7143 sayılı Kanun'un 10'uncu maddesi 5'inci fıkrası ile var olan borçlar terkin edilmiştir.) ve 5510 sayılı
+Kanun'un 60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları
+ile bunların gecikme cezası, gecikme zammı ve fer'ilerinin 5.000,00 TL’yi aşan tutarları kesinleşmiş
+sosyal güvenlik prim borcu olarak kabul edilecektir.
+        Hesaplamada; işverenin, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalıları çalıştırması yönünden borçları veya şirketin nev’ine göre sorumluluğu da dikkate
+alınarak üst düzey yöneticilik ve ortaklıktan kaynaklı borçları ile 5510 sayılı Kanun'un 4'üncü maddesinin
+birinci fıkrasının (b) bendi kapsamındaki sigortalılığından doğan borçları ve 5510 sayılı Kanun'un 60'ıncı
+maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları ayrı ayrı
+değerlendirilecektir. Söz konusu değerlendirmede, 5510 sayılı Kanun'un 4'üncü maddesinin birinci
+fıkrasının (b) bendi kapsamındaki sigortalılığından doğan borçları ve 5510 sayılı Kanun'un 60'ıncı
+maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları birlikte ele
+alınacaktır. Buna göre; işverenin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalıları çalıştırması yönünden borçları veya şirketin nev’ine göre sorumluluğu da dikkate
+alınarak üst düzey yöneticilik ve ortaklıktan kaynaklı borçlarının 5.000,00 TL ve altında olmasının yanı
+sıra 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığından
+doğan borçları ve 5510 sayılı Kanun'un 60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki
+genel sağlık sigortası prim borçlarının (birlikte) 5.000,00 TL ve altında olması durumunda, işverene
+Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 8: Adana’da faaliyette bulunan gerçek kişi (F)’nin hem 5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı işverenlik sıfatının
+bulunduğunu hem de 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında
+sigortalı olduğunu ve bu isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 25/12/2024 tarihi itibarıyla
+4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini, Adana Sosyal
+Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan sorgulama sonucunda da, 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırmış olduğu sigortalılar nedeniyle toplam
+2.500,00 TL, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığından ise toplam 4.500,00 TL borcu olduğunun tespit edildiğini varsayalım.
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+        Bu durumda, söz konusu isteklinin borç tutarlarının işverenliği ve kendi sigortalılığı yönünden ayrı
+ayrı değerlendirilmesi sonucunda;
+        - İşverenliğinden doğan borçlarının 2.500,00 TL olması ve bu tutarın 5.000,00 TL’yi aşmaması,
+        - Kendi sigortalılığından doğan borçlarının 4.500,00 TL olması ve bu tutarın da 5.000,00 TL’yi
+aşmaması nedeniyle, bu istekliye ihale tarihi itibarıyla Türkiye genelinde kesinleşmiş sosyal güvenlik
+prim borcunun olmadığını gösterir Ek-1’de yer alan belge verilecektir.
+        Örnek 9: Gaziantep’te faaliyette bulunan gerçek kişi (H)’nin hem 5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı işverenlik sıfatının
+bulunduğunu hem de kendisinin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında sigortalı olduğunu ve bu isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 26/12/2024
+itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve
+Gaziantep Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan sorgulama sonucunda da 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan
+kaynaklanan muaccel hale gelmiş toplam 3.600,00 TL, 5510 sayılı Kanun'un 4'üncü maddesinin birinci
+fıkrasının (b) bendi kapsamındaki kendi sigortalılığından muaccel hale gelmiş toplam 1.000,00 TL ve
+5510 sayılı Kanun'un 60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamında genel sağlık
+sigortalılığından muaccel hale gelmiş toplam 3.910,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda; söz konusu isteklinin borçlarının ayrı ayrı değerlendirilmesi neticesinde, 5510 sayılı
+Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırması sebebiyle
+oluşan borcunun 5.000,00 TL’yi aşmaması ve yine 5510 sayılı Kanun'un 4'üncü maddesinin birinci
+fıkrasının (b) bendi kapsamındaki kendi sigortalılığından borcunun 1.000,00 TL, 5510 sayılı Kanun'un
+60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki borcunun 3.910,00 TL, (birlikte
+değerlendirilmesi neticesi) borç toplamının ise 4.910,00 TL olması ve bu tutarın da 5.000,00 TL’yi
+aşmaması nedeniyle istekliye Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcunun olmadığını
+gösterir Ek-1’de yer alan belge verilecektir.
+        ç) 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığı
+olan gerçek kişi olması durumunda;
+        5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı
+sayılmasından veya sosyal güvenlik destek primi ödeme yükümlülüğünden doğan borçları ve 5510 sayılı
+Kanun'un 60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası borçlarının
+gecikme cezası, gecikme zammı ve diğer fer'ilerinden 5.000,00 TL’yi aşan tutarları ile gerek üst düzey
+yöneticisi olduğu gerekse ortağı olduğu işveren şirketin Kuruma olan prim, (5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (b) bendi kapsamındaki ilgililer için SGDP sorgulanmayacaktır. 6663 sayılı
+Kanun ile 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığı
+yönünden 29/2/2016 tarihinden itibaren kaldırılmıştır. 7143 sayılı Kanun'un 10'uncu maddesi beşinci
+fıkrası ile var olan borçlar terkin edilmiştir.) işsizlik sigortası primi ile bunlara ait gecikme cezası,
+gecikme zamları ve diğer fer'ilerine ilişkin borçlarından şirketin nev’ini dikkate alınarak sorumlu olduğu
+tutarların 5.000,00 TL’yi aşan tutarları kesinleşmiş sosyal güvenlik prim borcu olarak kabul edilecektir.
+        Hesaplamada; isteklilerin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi
+kapsamındaki sigortalılığından doğan borçları ve 5510 sayılı Kanun'un 60'ıncı maddesinin birinci
+fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları ile üst düzey yöneticisi ve/veya
+ortağı olduğu işveren şirketin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalıların çalıştırılması yönünden şirketin nevisi dikkate alınarak sorumlu olduğu borçları
+ayrı ayrı değerlendirilecektir. Söz konusu değerlendirmede, 5510 sayılı Kanun'un 4'üncü maddesinin
+birinci fıkrasının (b) bendi kapsamındaki sigortalılığından doğan borçları ve 5510 sayılı Kanun'un 60'ıncı
+maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları birlikte ele
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                              Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                       Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+alınacaktır. Buna göre; isteklinin üst düzey yöneticisi veya ortağı olduğu işveren şirketin 5510 sayılı
+Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalıların çalıştırılması yönünden
+şirketin nevisi dikkate alınarak sorumlu olduğu borçlarının 5.000,00 TL ve altında olmasının yanı sıra
+5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığından doğan
+borçları ve 5510 sayılı Kanun'un 60'ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık
+sigortası prim borçlarının (birlikte) 5.000,00 TL ve altında olması durumunda, istekliye Ek-1’de yer alan
+borcu yoktur belgesi verilecektir.
+         Bu durumdaki isteklilerin, Kurumumuza ihale tarihi itibarıyla Türkiye genelinde kesinleşmiş
+sosyal güvenlik prim borçlarının olup olmadığının tespitinde hem 5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığından doğan sigorta primi ve fer’ilerinden
+oluşan borçları hem de üst düzey yöneticisi ve/veya ortağı olduğu işveren şirketin nevisi dikkate alınarak
+sorumlu olduğu sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi ile bunlara ait gecikme
+cezası, gecikme zammı ve diğer fer’ilerine ilişkin borçlarının olup olmadığı sorgulanacaktır.
+         Örnek 10: (K) gerçek kişisinin hem (Z) AŞ’de yönetim kurulu üyesi ve ortaklık sıfatının
+bulunduğunu ve bu şirketin 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştırdığını hem de bu şirkette yönetim kurulu üyesi ve ortak olması nedeniyle
+5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı olduğunu ve (K)
+gerçek kişisi olarak Kurumumuzdan ihale tarihi olarak belirttiği 24/12/2024 tarihi itibarıyla 4734 sayılı
+Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini, Sinop Sosyal Güvenlik İl
+Müdürlüğünce Türkiye genelinde yapılan sorgulama sonucunda da, (Z) AŞ firmasının borçlarından
+kaynaklanan (K) gerçek kişisinin üst düzey yönetici olarak 2.850,00 TL’den sorumlu olduğu, ayrıca 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi sigortalılığından ise
+7.297,00 TL borcu olduğunu varsayalım.
+         Bu durumda, (K) gerçek kişisinin borçlarının şirket ortaklığı ve üst düzey yöneticiliği ile kendi
+sigortalılığı yönünden ayrı ayrı değerlendirilmesi neticesinde;
+         - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılardan kaynaklanan borçlardan dolayı üst düzey yönetici olarak sorumlu olduğu tutarın 2.850,00
+TL olması ve bu borcun 5.000,00 TL’yi aşmamasına rağmen,
+         - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığından doğan borçlarının 7.297,00 TL olması ve bu borcun da 5.000,00 TL’yi aşması nedeniyle
+bu istekliye borcu yoktur belgesi verilmeyecektir. Bu durumda, söz konusu istekliye Türkiye genelinde
+ihale tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge
+verilecektir.
+         Örnek 11: (S) gerçek kişisinin hem (N) Ltd. Şti.’de sadece ortaklık sıfatının bulunduğunu
+(ortaklarca şirket müdürü olarak (M) kişisine yetki verilmiştir) hem de bu şirketin 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırdığını, (S)’nin, bu şirkette ortak
+olması nedeniyle 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında
+sigortalı olduğunu ve Aksaray Sosyal Güvenlik İl Müdürlüğünden ihale tarihi olarak belirttiği 31/12/2024
+tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini,
+Türkiye genelinde yapılan sorgulama sonucunda da (N) Ltd. Şti.’nin borçlarından ortak olarak 31/12/2024
+tarihi itibarıyla sorumluluk kapsamındaki tutarın 2.250,00 TL olduğunu, ayrıca 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında kendi sigortalılığından da 4.850,00 TL borcu
+olduğunu varsayalım.
+         Bu durumda, (S) gerçek kişisinin borçlarının, şirketin işverenliği ve şirket ortaklığından dolayı
+5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi sigortalılığı
+yönünden ayrı ayrı değerlendirilmesi sonucunda;
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+         - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılardan doğan borçlardan dolayı sorumlu olduğu tutarın 2.250,00 TL olması ve bu borcun 5.000,00
+TL'yi aşmaması,
+         - 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığından kaynaklanan borçlarının 4.850,00 TL olması ve bu borcun da 5.000,00 TL'yi aşmaması
+sebebiyle, istekliye 4734 sayılı Kanun'un 10'uncu maddesine göre Türkiye genelinde kesinleşmiş sosyal
+güvenlik prim borcunun olmadığını gösterir Ek-1’de yer alan belge verilecektir.
+         2-“II. 4734 SAYILI KAMU İHALE KANUNUNA GÖRE VERİLECEK BORCU YOKTUR
+BELGELERİ” başlıklı kısmında yer alan “2 - Kapsama Girmeyen Borç Türleri” başlıklı bölümünde yer
+alan örnekler aşağıdaki şekilde değiştirilmiştir.
+         “Örnek 1: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeniyle işveren olan (K) AŞ’nin, 20/12/2024 tarihinde
+Muğla Sosyal Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi olarak belirttiği 20/12/2024 tarihi
+itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı
+geçen Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, bu işverenin anılan Müdürlükte
+adına tescilli işyerinden dolayı muaccel hale gelmiş 2022 yılı Aralık ayı ve önceki aylara ilişkin toplam
+255.500,00 TL borcunun olduğunu, bu borcunu 7440 sayılı Kanun'a göre yapılandırdığını, 7440 sayılı
+Kanun'dan doğan taksit ödeme yükümlülüklerini düzenli olarak (herhangi bir aksatma/ihlal yapmadan)
+yerine getirdiğini ve başkaca da borcunun bulunmadığının tespit edildiğini varsayalım.
+         Bu durumda isteklinin, 255.500,00 TL borcu olmasına karşın borcunu, 7440 sayılı Kanun uyarınca
+yapılandırdığı ve yapılandırmaya ilişkin ödeme yükümlüklerini düzenli olarak yerine getirmiş olması
+nedeniyle söz konusu borcun kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate
+alınmayacağından, kendisine 20/12/2024 ihale tarihi itibarıyla Türkiye genelinde kesinleşmiş sosyal
+güvenlik prim borcu olmadığına dair Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+         Örnek 2: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştıran işveren (A) Ltd. Şti.’nin, 23/12/2024 tarihinde Artvin Sosyal
+Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi olarak belirttiği 20/12/2024 tarihi itibarıyla 4734
+sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı geçen
+Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, bu işverenin anılan Müdürlükte adına
+tescilli işyerinden muaccel hale gelmiş 2022/4,5,7 ve 8'inci aylardan kaynaklanan toplam 70.500,00 TL
+borcunu 7440 sayılı Kanun'a göre yapılandırdığını ve 7440 sayılı Kanun'dan doğan yükümlülüklerini
+düzenli olarak yerine getirdiğini, ayrıca Kayseri Sosyal Güvenlik İl Müdürlüğünde kendisine ait
+işyerinden muaccel hale gelmiş 2024/8'inci ayından kaynaklanan toplamda 28.550,00 TL borcu
+olduğunun tespit edildiğini varsayalım.
+         Bu durumda isteklinin, borçları toplamının 99.050,00 TL olmasına karşın, borcunun 70.500,00
+TL’sini 7440 sayılı Kanun uyarınca yapılandırması ve yapılandırmaya ilişkin ödeme yükümlüklerini
+düzenli olarak yerine getirmiş olması nedeniyle yeniden yapılandırmaya konu olan 70.500,00 TL
+tutarındaki borcu kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate alınmayacaktır.
+Diğer taraftan, ihale tarihi itibarıyla Türkiye genelindeki 28.550,00 TL borcunun olması ve bu borcun da
+5.000,00 TL’yi aşması nedeniyle 4734 sayılı Kanun'un 10'uncu maddesine göre Türkiye genelinde ihale
+tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge
+verilecektir.
+         Örnek 3: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında işveren olan (M) Ltd. Şti.’nin İstanbul Sosyal Güvenlik İl Müdürlüğüne müracaat
+ederek ihale tarihi olarak belirttiği 23/12/2024 tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi
+hükmü uyarınca borcu yoktur belgesi talep ettiğini ve adı geçen ünitemizce Türkiye genelinde yapılan
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+sorgulama sonucunda da işverenin anılan Müdürlükte tescilli işyerinden dolayı 2022/8,9,10 ve 11'inci
+aylardan kaynaklanan 7440 sayılı Kanun uyarınca yapılandırılan ve ödeme yükümlükleri düzenli olarak
+yerine getirilmiş olan yapılandırmaya konu toplam 135.750,00 TL borcu olduğu, ayrıca Adana Sosyal
+Güvenlik İl Müdürlüğündeki işyerinden dolayı 2024/7'nci ayından kaynaklanan muaccel hale gelmiş
+toplam 3.000,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin ihale tarihi itibarıyla Türkiye genelinde Kurumumuza olan
+borçlarının değerlendirilmesi sonucunda; borç tutarının 138.750,00 TL olmasına karşın, borcunun
+135.750,00 TL’sini 7440 sayılı Kanun uyarınca yapılandırdığı, yapılandırmaya ilişkin ödeme
+yükümlüklerinin düzenli olarak yerine getirilmiş olması nedeniyle yeniden yapılandırmaya konu olan
+135.750,00 TL tutarındaki borç, kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate
+alınmayacaktır. Diğer taraftan, ihale tarihi itibarıyla Türkiye genelindeki 3.000,00 TL tutarındaki borcun
+ise 5.000,00 TL’yi aşmaması nedeniyle, istekliye ihale tarihi itibarıyla Türkiye genelinde kesinleşmiş
+sosyal güvenlik prim borcu olmadığına dair Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 4: Edirne’de faaliyette bulunan gerçek kişiliği haiz (F)’in, hem 5510 sayılı Kanun'un 4'üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştıran işveren hem de kendi
+sigortalılığından 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı
+olduğunu ve bu isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 25/12/2024 tarihi itibarıyla 4734
+sayılı Kanun'un 10'uncu maddesi hükmü uyarınca borcu yoktur belgesi talep ettiğini, Edirne Sosyal
+Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan sorgulama sonucunda da 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı muaccel hale
+gelmiş toplam 52.500,00 TL borcunun olduğu ve bu borcun ödenmesi hususunda 6183 sayılı Amme
+Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre ödeme emri tebliğ edildiği, ancak (F)
+tarafından bu ödeme emrine karşı iptal davası açıldığı ve ihale tarihinden önce Edirne 1. İş Mahkemesince
+icra takibinin durdurulması kararının verildiği, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının
+(b) bendi kapsamında kendi sigortalılığından ise muaccel hale gelmiş toplam 4.500,00 TL tutarında borcu
+olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin borç tutarlarının ayrı ayrı değerlendirilmesi sonucunda; 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırmasından
+oluşan borç toplamının 52.500,00 TL olmasına ve bu tutarın 5.000,00 TL’yi aşmasına rağmen, 6183 sayılı
+Kanun hükümleri çerçevesinde cebren tahsili yolunda tesis edilen işlemlere karşı dava sürecinde veya
+sonucunda takip ve tahsili durduracak geçici veya nihai bir karar bulunduğundan söz konusu borçlar
+kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate alınmayacak, 5510 sayılı Kanun'un
+4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığından doğan borçları toplamının
+4.500,00 TL olması ve bu borcun da 5.000,00 TL’yi aşmaması sebebiyle, istekliye, 4734 sayılı Kanun'un
+10'uncu maddesi uyarınca 25/12/2024 tarihi itibarıyla Türkiye genelinde sosyal güvenlik prim borcu
+olmadığına dair Ek-1’de yer alan belge verilecektir.
+        Örnek 5: (Ş) gerçek kişisinin, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştıran herhangi bir şirketin üst düzey yöneticisi veya ortağı olmadığını, sadece
+5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı olduğunu ve
+Aydın Sosyal Güvenlik İl Müdürlüğünden 23/12/2024 tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu
+maddesi hükmü uyarınca Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcunun bulunmadığına
+ilişkin belge talep ettiğini, anılan Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, 5510
+sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığından doğan sadece
+2021/6,7,8 ve 9'uncu aylardan kaynaklanan muaccel hale gelmiş toplam 80.850,00 TL tutarında borcu
+olduğunu ve söz konusu borcun 7440 sayılı Kanun'a göre yapılandırıldığını ve 7440 sayılı Kanun'dan
+doğan yükümlülüklerini düzenli olarak yerine getirdiğini varsayalım.
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+         Bu durumda isteklinin, 5510 sayılı Kanun'un 4'üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında sigortalılığından doğan borç toplamının 80.850,00 TL olmasına karşın, borcunu, 7440 sayılı
+Kanun uyarınca yapılandırmış olması ve 7440 sayılı Kanun'dan doğan yükümlülüklerini düzenli olarak
+yerine getirmesi nedeniyle söz konusu borçlar, kesinleşmiş sosyal güvenlik prim borcunun
+hesaplamasında dikkate alınmayacağından, bu istekliye, 4734 sayılı Kanun'un 10'uncu maddesi uyarınca
+23/12/2024 tarihi itibarıyla Türkiye genelinde sosyal güvenlik prim borcu olmadığına dair Ek-1’de yer
+alan belge verilecektir.”
+         3-“II. 4734 SAYILI KAMU İHALE KANUNUNA GÖRE VERİLECEK BORCU YOKTUR
+BELGELERİ” başlıklı kısmında yer alan “3-Borçların Dönemi” başlıklı bölümünün birinci paragrafından
+sonra gelmek üzere aşağıdaki paragraf eklenmiş ve aynı bölümde yer alan Örnek 3 aşağıdaki şekilde
+değiştirilmiştir.
+         “Diğer taraftan, ihale tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu olmadığına ilişkin
+ihaleyi yapan 4734 sayılı Kanun kapsamındaki kurum ve kuruluşlara taahhüt veren veya ihale tarihi
+itibarıyla kesinleşmiş sosyal güvenlik prim borcu olmadığına ilişkin borcu yoktur belgesi sunan
+isteklilerden sözleşme aşamasında ilgili idareler tarafından borcu yoktur belgesi talep edilebilmektedir.
+Bu kapsamda; ihale tarihi itibarıyla kesinleşmiş sosyal güvenlik prim borcu olmayan ihale üzerinde kalan
+isteklilerin, ihale tarihi ile sözleşme imza tarihi arasında geçen sürede istekli adına ihale tarihinden önceki
+bir tarihe ilişkin olmak üzere tahakkuk eden bu Genelgenin “1- Kapsama Giren Borç Türleri ve Tutarı”
+başlıklı bölümü açısından kesinleşmiş sosyal güvenlik prim borcu olarak değerlendirilen borçlarını
+sözleşme imzalama tarihine kadar ödemeleri halinde, ihale üzerinde kalan isteklilere ihale tarihi itibarıyla
+borcu yoktur belgesi verilebilecektir.”
+         “Örnek 3: (C) Anonim Şirketinin 25.000,00 TL tutarındaki sigorta prim borcunu 7440 sayılı
+Kanun'a istinaden taksitlendirmek üzere 25/5/2023 tarihinde işyerinin bağlı bulunduğu Sosyal Güvenlik
+Merkezine müracaat ettiğini, 1.270,00 TL’lik taksitlerle 36 taksit ile ödemeyi tercih ettiğini, Eylül ve
+Ekim/2024 dönemlerine ait taksitleri ödemediğini, 26/12/2024 tarihinde Kuruma başvurarak 23/12/2024
+tarihi itibarıyla 4734 sayılı Kanun'un 10'uncu maddesi hükmü uyarınca kesinleşmiş sosyal güvenlik prim
+borcunun bulunmadığına ilişkin belgenin verilmesini talep ettiğini varsayalım. (C) Anonim Şirketinin
+7440 sayılı Kanun'a istinaden yapılandırması bozulmamış olması ve 23/12/2024 tarihi itibarıyla ödeme
+vadesi geçmiş taksitlerinin belirlenen geç ödeme zammı ile birlikte hesaplanacak tutarının 5.000,00 TL’yi
+aşmaması nedeniyle, anılan işverene örneği Ek-1’de yer alan kesinleşmiş sosyal güvenlik prim borcu
+yoktur belgesi verilecektir.”
+         Bilgilerini ve gereğini rica ederim.
+
+
+                                                                                                                   Dr. Raci KAYA
+                                                                                                                   Kurum Başkanı
+
+
+
+
+Dağıtım:
+Gereği:                                                                                                Bilgi:
+Taşra Teşkilatına                                                                                      Merkez Teşkilatına
+
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                       Bilgi için: Medet BULUT
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                        Daire Başkanı
+e-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: (0312) 458 70 20
+10
+

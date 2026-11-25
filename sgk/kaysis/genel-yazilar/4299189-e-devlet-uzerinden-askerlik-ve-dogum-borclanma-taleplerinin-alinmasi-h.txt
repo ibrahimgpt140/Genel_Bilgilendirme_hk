@@ -1,0 +1,118 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/150699
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4299189
+ADI: E-DEVLET ÜZERİNDEN ASKERLİK VE DOĞUM BORÇLANMA TALEPLERİNİN ALINMASI HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 678d348c0ff628c95fddc4da6b108fffc7e3254f01cf1fb49c8a7b7ce183e41f
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ASAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı o :66325124-201.99-E.4299189 18/03/2019
+Konu : E-devlet üzerinden askerlik ve doğum
+borçlanma taleplerinin alınması
+GENEL YAZI
+
+Bilindiği üzere, 25/9/2018 tarihi itibariyle E-devlet üzerinden askerlik ve doğum borçlanma
+taleplerinin alınmasına ilişkin uygulamadaki eksiklikler giderilerek program 22/1/2019 tarihi
+itibariyle yeniden uygulamaya konulmuştur.
+
+E-devlet üzerinden alınan askerlik ve doğum borçlanması başvuruları; (4/a) sigortalıları için
+4a Hizmet Borçlanması/Borçlanma İşlemleri/E-devlet üzerinden yapılan başvurular menüsünde,
+(4/b) sigortalıları için ise Güvence/Borçlanmalar/E-devlet Başvuru Ön Talep Görüntüle menüsünde
+görüntülenmekte olup, bu başvurular sigortalıların talep tarihindeki son statüsüne göre son
+çalışmanın geçtiği ilgili ünitelere düşmektedir.
+
+Ayrıca, başvuruların sigortalı bazında çıktısı alınabilmesine ve gerekçesi belirtilmek
+suretiyle bu başvuruların silinmesine imkan sağlanmış olmakla birlikte söz konusu başvurulara
+sistem tarafından otomatik olarak tarih ve sayı üretilmesi çalışmalarına da başlanacaktır.
+
+Söz konusu çalışmaya sonuçlanıncaya kadar sigortalıların e-devlet üzerinden yapmış
+oldukları borçlanma taleplerinin bir dökümü alınarak evrak kaydından geçirilecek ve borçlanma
+işlemleri cari usullere göre sonuçlandırılacaktır. Bu şekilde kayda alınan başvurular mutlak suretle
+sigortalı dosyasında muhafaza edilecektir.
+
+Borç tutarı, sigortalıların veya hak sahiplerinin e-devlet üzerinden talepte bulundukları
+tarihte geçerli olan Kanunun 82 nci maddesine göre belirlenmiş prime esas kazancın alt ve üst
+sınırları arasında olmak üzere tercihte bulunan günlük kazancı 9 32'si oranında hesaplanacaktır.
+Borçlanma müracaatı 25/9/2018 ile 22/1/2019 tarihleri arasında olanların kazanç beyanı
+bulunmadığından bu kişilerin talepleri, müracaat tarihinde geçerli olan asgari günlük kazanç
+üzerinden borç tebliği yapılacaktır. Tebligat adresi olarak başvuru sahibinin memis adresi
+kullanılacaktır. Mernis kayıtlarında adres bilgisi yer almayan kişilerin ise borçlanma talepleri,
+Kurum evrak kaydından geçirildikten sonra dosyasında muhafaza edilecektir. İlgilerce bu taleplere
+ilişkin yapılacak ikinci müracaatlarda borçlanmaya esas günlük kazanç değişmemiş ise e-devlet
+üzerinden alınan ilk talep üzerinden borç tahakkuku oluşturulacaktır. Aksi durumda, müracaat
+tarihinde borçlanmaya esas günlük kazanç değişmiş ise e-devlet üzerinden alınan ilk talep geçersiz
+sayılacaktır.
+
+Örnek 1- Sigortalı (A), 25/1/2019 tarihinde E-devlet üzerinden 31/7/2007-31/1/2008
+tarihleri arasındaki askerlik süresini asgari günlük kazanç üzerinden borçlanma talebinde
+bulunmuştur. Yapılan incelemede, sigortalının mernis kayıtlarında adres bilgisi bulunmadığından
+herhangi bir işlem yapılmayarak borçlanma talebi dosyasına kaldırılmıştır. Daha sonra sigortalı
+tarafından 11/3/2019 tarihli dilekçeyle, 25/1/2019 tarihli askerlik borçlanması talebinin
+sonuçlandırılmasını talep etmiştir. Bu durumda, sigortalının ilk talebi olan 25/1/2019 ile ikinci kez
+talepte bulunduğu 11/3/2019 tarihi arasında borçlanma esas günlük kazançta bir değişiklik
+bulunmadığından 25/1/2019 tarihli talebi üzerinden borçlanma işlemi sonuçlandırılacaktır.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.
+Mıthatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Ayrıntılı bilgi için irtibat: Erdoğan ÜVEDİ (Daire Başkanı)
+Telefon: 0312 458 7363. Fax: 0312 458 7422 Telefon: 0312 458 73 63
+Birim Eposta: ehgm bhacthdb(sgk.gov.tr E-posta:cuvedi(0sgk.gov.tr
+
+Örnek 2- Sigortalı (B), 25/9/2018 tarihinde E-devlet üzerinden 06/11/2013 doğumlu çocuğu
+için doğum borçlanması talebinde bulunmuştur. Yapılan incelemede, sigortalının memis
+kayıtlarında adres bilgisi bulunmadığından herhangi bir işlem yapılmayarak borçlanma talebi
+dosyasına kaldırılmıştır. Daha sonra sigortalı tarafından 5/2/2019 tarihli dilekçeyle, 25/9/2018
+tarihli doğum borçlanması talebinin sonuçlandırılmasını talep etmiştir. Bu durumda, sigortalının ilk
+talebi olan 25/9/2018 ile ikinci kez talepte bulunduğu 5/2/2019 tarihi arasında borçlanma esas
+günlük kazancın değişmesi nedeniyle, 25/9/2018 tarihli talebin geçersiz sayıldığı sigortalıya
+bildirilecektir.
+
+Diğer taraftan, borçlanma işlemi sonuçlandırılan kayıtlardan, borçlanma talebinde
+bulunulan tarih aralığı ile borçlanma programına girilen tarih aralığı birebir tutanların talepleri
+başvuru sayfasından otomatik olarak kaldırılacak olup, talepte bulunulan tarih aralığı ile borçlanma
+programına girilen tarih aralığı birebir tutmayan kayıtları ise gerekçe belirtilmek suretiyle silinerek
+başvuru ekranından kaldırılacaktır.
+
+Ancak, belirtilen tarih aralığında borçlanılacak süresi bulunmayanlar ile borçlanma için
+gerekli şartları taşımayanlardan borçlanma talebi kabul edilmeyecek olanların talepleri, yazışma
+yapılmak suretiyle reddedilecek ve bu talepler başvuru ekranında gerekçesi bildirilmek suretiyle
+silinecektir. Örneğin, "sigortalının borçlanma talebi, 1/2/2019 tarih ve 1234567 sayılı yazı ile
+reddedilmiştir." ya da "tescil tarihinden önceki süre için talepte bulunulduğundan, doğum
+borçlanması talebi reddedilmiştir." şeklinde gerekçe girilerek silme işlemi yapılacaktır. Silinen
+başvurular, ilgili borçlanma menüsünün Borçlanma Başvuru Görüntüleme alt menüsünde
+görüntülenecektir. Silme işlemi yapılırken örneklerde olduğu gibi silme gerekçesinin açıklayıcı,
+anlaşılır ve net olmasına özen gösterilecektir.
+
+Örnek 3- Sigortalı (C), 25/1/2019 tarihinde E-devlet üzerinden asgari günlük kazanç
+üzerinden 540 gün askerlik borçlanması talebinde bulunmuştur. Bu defa, 1/2/2019 tarihinde
+Kuruma şahsen müracaat ederek aynı sürelere ilişkin yeniden borçlanma talebinde bulunmuş ve
+işlemlerinin 1/2/2019 tarihli talebine istinaden sonuçlandırıldığı anlaşılmıştır. Bu durumda, e-devlet
+üzerinden yapılan 25/1/2019 tarihli müracaatı silinecek ve silme gerekçe olarak da “1/2/2019 tarihli
+talebine istinaden 5/2/2019 tarih ve 1258645 sayı ile borç tebliği gönderilmiştir.” şeklinde açıklama
+girilecektir.
+
+Örnek 4- Sigortalı (D), 26/1/2019 tarihinde E-devlet üzerinden 30/6/2016-30/6/2018
+tarihleri arasındaki iki yıllık süre için doğum borçlanması talebinde bulunmuştur. Yapılan
+incelemede, sigortalının söz konusu tarih aralığı için borçlanma yapabileceği bir çocuğunun
+bulunmadığı anlaşılmıştır. Bu durumda, sigortalının talebi yazışma yapılarak reddedilecek olup,
+e-devlet üzerinden yapılan 26/1/2019 tarihli müracaatı silinecek ve silme gerekçe olarak da
+“sigortalının talepte bulunduğu 30/6/2016-30/6/2018 tarih aralığında borçlanılacak çocuğu
+bulunamadığından 8/2/2019 tarih ve 2597451 sayı ile borçlanma talebi reddedilmiştir.” şeklinde
+açıklama girilecektir.
+
+Öte yandan, müracaat tarihindeki statüden farklı bir statüde borçlanma talebinde
+bulunanların talebi reddedilmeyecek, mevzuat farklılığının bulunmaması nedeniyle borçlanmanın
+doğru statüden yapılmasının sağlanmasını teminen gerekli yazışmalar yapılacaktır.
+
+Bilgi ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.
+Mıthatpaşa Caddesı No:7 Sıhhıye Çankaya/Ankara Ayrıntılı bilgi için irtibat: Erdoğan ÜVEDİ (Daire Başkanı)
+Telefon: 0312 458 7363. Fax: 0312 458 7422 Telefon: 0312 458 73 63
+Birim Eposta: ehgm bhacthdb(sgk.gov.tr E-posta:cuvedi(0sgk.gov.tr

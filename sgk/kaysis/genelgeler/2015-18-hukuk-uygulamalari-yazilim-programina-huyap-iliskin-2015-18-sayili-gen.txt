@@ -1,0 +1,391 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75246
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2015/18
+ADI: HUKUK UYGULAMALARI YAZILIM PROGRAMINA ( HUYAP) İLİŞKİN 2015/18 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 3470ae6dc2b0115cb049c2ac0be23ff5527c3ba878ce367578dd75ad033ae25f
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+TC,
+| SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+: Hukuk Müşavirliği
+Sayı :72044944 - Zİİ
+© 4? şi «
+Konu: HUYAP & 3 bara 2045
+GENELGE
+201548
+Kurumumuz Hukuk Müşavirliği ile Hizmet Sunumu Genel Müdümlüğü tarafından
+müştereken gerçekleştirilen HUYAP Dava Mülalaa ve İcra Programı tasanmı ve yazılımı
+tamamlanmış. programın uygulamasına yönelik Hukuk Müşavirliğimiz ile İl Müdürlüklerimiz i
+Hukuk Servislerinde görevli kadrolu avukat ve personele eğilim verilmiş, programın tesi ve pilot |
+uygulamaları tamaınlanarak, 18/08/2014 tarihinde Hukuk Müşavirliğimizde,15/(11/2014 tarihinde l
+81 Sosyal Güvenlik İl Müdürlüğü ve İstanbul İl Müdürlüğüne bağlı 8 Sosyal Güvenlik Merkezi
+Hukuk Servislerinde uygulamaya açılmıştır. Bunu göre söz konusu sistemin sağlıklı ve amacına ;
+uygun kullanılması için aşağıdaki husuylara üüzlikle riayet edilmesi gerekmektedir. i
+1. ORTAK HUSUSLAR |
+1.1. Programa Giriş: ,
+HUYAP Dava Mütalaa ve İcra Programına Mozilla Firefox internet tarayıcısı kullanılmak
+suretiyle  “huyap.sgk.gov.ir” adresinden, eski HUYAP Dava Mütalan Programma ise |
+“davatakip.sek.gov.1” adresi üzerinden giriş yapılması, eski HUYAP Dava Mütalan Programına
+herhangi bir veri girişi yapılmaması, program kapatılıncaya kadar sorgulama ekranı olarak i
+kullanılması.
+HUYAP Dava Mütalaa ve İcra Programın Gelen-Giden evrak yönünden DYS ile
+entegrasyonu sağlandığından merkez ve taşta birimlerince hukuk servisleri ile yapılan yazışmaların i
+DYS ortamında yapılması, |
+Tüm Sosyal Güvenlik İl Müdürlüklerinde DYS üzerinde hukuk servisleri için evrak havuzu
+oluşturulduğundan, hukuk servisi personellerinin evrak kayıt kullanıcısı ve yetkili personel olarak i
+tanımlanması.
+1.2, Evrak Kayıt Ve Zimmet İşlemleri :
+iler evrakın bir dosyaya bağlanması gerektiğinden hareketle, evrak kayıt işlemlerine ;
+başlamadan önce hukuk servislerine gelen tüm evrakların, Başbakanlık Devlet Arşivleri Genel
+Müdürlüğü tarafından belirlenen standart dosya kod planına uygun olarak Hukuk Müşavirliğince :
+hazırlanan kod listesine göre mutlaka avukatlar tarafından kodlanması, kodlamayı yapan avukatın :
+kaşesi basılarak, tarih konularak imzalanması, ;
+Sisteme kaydedilen evrakların evveliyatı olan ya da yeni oluşturulacak bir dosyaya
+bağlanması, ;
+Program kullanıcıları kendilerine tanımlanan rolfroller çerçevesinde yetkilendirilmiş olup, :
+programa kaydedilen her evrakın ilgili avukata/ servis personeline sistem üzerinden havale ,
+edilmesi, havale edilen evrak üzerinde işlem başlatabilmek için her kullanıcının öncelikle zinimetz i
+e
+Atatürk Bulvar Zafer Meydanı Ne 5 Kızlay(ANKARA Aysıntık bilgi için irtibat Av. Türkan SALAN, | Hukuk Müşavir V.
+Tek (0317543111 18 Faks: (00315) 433 1486 ;
+e-posta, taalarıGsyk.göv tr Etekteonik Ağ verw sgk gov * :
+
+alma işlemi yapması. zimmete alınan evrak ile ilgili yazışma yapılması gerekiyorsa O DYS
+üzerinden yapılması, evrakın yazışma yapılmadan dosyasına kaldırılması gerekiyorsa açıklama |
+kısmına gerekçesi yazılarak “işlem biti onaya sun” seçeneği kullanılarak yapılan işlemin
+evrakı havale eden vetkili/koordinatör avukatın onayına sunulması, |
+Kadrolu ve sözleşmeli avukatların takip ettikleri dosyalara ilişkin harici olarak verilen ve
+tebliğ edilen evrakları ilgili dosyalarına doküman olarak eklemeleri, :
+1.3. Elektronik Dosyalama İşlemleri : :
+HUYAP Dava Mütalan ve İcra Programı dosya tür ayrımı yapmadan sırasıyla dosya ,
+numarası üretmekte olup, İl Müdürlükleri Hukuk servislerinin derdesi dava (yargılaması devam
+eden) dosyalarını Hukuk Müşavirliğimizce belirlenecek ve İl Müdürlüklerine bildirilecek süre
+içerisinde programa kaydetmeleri, ;
+HUYAP İcra Programına 01/01/2013 tarihinden bu yana kayıtlı icra takip dosyalarının ise ?
+HUYAP Dava Mütalaa ve İcra Programındaki yeni numaralarına göre icra takip dosya ,
+kapaklarının düzeltilmesi,
+İcra ve dava dosyalarında yer alacak bütün fiziksel evrakın (era takibine ve davaya mesnet :
+belgeler, faturalar, yazışmalar, kararlar, makbuzlar, haciz tutanakları vs.) dijital ortamda HUYAP i
+Dava Mütalaa ve İcra Programına eklenmesi ve fiziksel dosya tutulmaması, i
+1,4. Dosya Zimmet İşlemleri : :
+Kurumumuz kadrolu ve sözleşmeli avukatlarına dava ve icra dosyası Zimmet işlemlerinin |
+HUYAP Dava Mütalaa ve İcra Programı üzerinden yapılması, ayrıca kağıt ortamda zimmet işlemi
+yapılmaması, Kurumumuz avukatlarının program üzerinden, kendilerine dosya zimmeti yapılıp ;
+yapılmadığını günlük olarak kontrol etmeleri, !
+Zamanaşımı sürelerinin geçmesine sebebiyet vererek Kurum zararına neden olan kadrolu ve .
+sözleşmeli avukatların sorumluluğuna gidileceğinden, zamanaşımı süresinin dolmasına çok az süre
+kalan dosyalarda, yetkili/koordinatör avukatlar tarafından zimmnetin yapılması sırasında ilgili
+avukatlara şifahen de bilgi verilerek zimmetin alınmasının sağlanması, :
+
+1.5. Avukat Denetim İşlemleri : :
+
+Dava ve icra dosyaları bakımından kadrolu avukatların yaplıkları iş ve işlemlerin yetkili |
+avukatlar. sözleşmeli avukatların yaplıkları iş ve işlemlerin ise yetkili ve/veya koordinatör
+avukatlar tarafından HUYAP üzerinden denetlenmesi ve performanslarının buna göre :
+değerlendirilmesi. dava ve icra dosya raporları program üzerinden alınacağından kadrolu ve ;
+sözleşmeli avukatların dosya safahat ve muameleden kaldırma işlemlerini doğru ve zamanında
+yapmaları, i
+
+1.6. Sorumlu Avukat Değişikliğinde Toplu Dosya Aktarımı : |
+
+Kadrolu veya sözleşmeli avukatların görevinin ber hangi bir şekilde sona ermesi halinde, bu
+avukatların zimmetindeki dava ve icra dosyalarının programdaki "avukat dosya aktarma” ekranı i
+kullanılmak suretiyle herhangi bir hak kaybına sebep olmaksızın derhal diğer avukatların i
+zimmetine aklarılması, aktarım sağlanana kadar acele işlerin yetkili avukat tarafından ;
+görevlendirilecek diğer avukatlar tarafından ifası, görevi sona eren avukatın aynı gün Hukuk i
+Müşavirliğine bilgi verilerek program giriş yetkilerinin kapatılmasının sağlanması, ,
+
+1.7. Faaliyet Cetveli İşlemleri :
+
+İcra ve dava dosyalarının 2015 yılı içerisinde programa girişlerinin tamamlanmasını ;
+müteakip, İl Müdürlükleri Hukuk servislerince üçer aylık ve yıllık faaliyet cetvellerinin Hukuk :
+Müşavirliğine gönderilmemesi, ancak sistemden doğru veri alınabilmesi sisteme doğru veri girişine ,
+doğrudan bağlı olduğundan sisleme doğru veri girişinin sağlanmasına ve parasal değerlerin
+programa girilmesine titizlikle riayei edilmesi,
+
+Aksi takdirde istatistiki raporların, doğru veri girişi yapmayan İl Müdürlükleri Hukuk
+servislerinden tekrar talep edilmek zorunda kalınacağı,
+LL
+Atatirk Bulan Zafer Meydan: Na . 5 Kumay/ANKARA Ayrıntılı bilgi için iribat Av. Tümsan SALAN İ Hukuk Hşayiri V. :
+Tek (8312) 43111 18 Faks (0312) 433 1480 i
+eposta tsslandisyk göv Elekttonik Ağ ww .sgk gov i
+
+| 1.8. Dosya Sonuçlandırma İşlemleri : i
+
+HUYAP Dava Mütalaa ve İcra Programı üzerinden dava ve icra dosyalarının işlemden i
+
+kaldırılması süreçlerinin kadrolu/koordinatör avukat tarafından iamamlanması, kadrolu avukat 7
+
+, olmayan İl Müdürlüklerinde İl Müdürü ya da görevlendirilecek İl Müdür yardımcısının, yetkili ve ;
+
+koordinatör avukat rolüyle görevlerini ifa etmesi, İl Müdürü ve görevlendirilecek İl Müdür
+
+yardımcısı için HUYAP Programı şifrelerinin temini, :
+
+HUYAP Dava Mütalaa ve İcra Programınm doğru ve etkin kullanılması için eğitim alan |
+
+personelin görev devamlılığının sağlanması, görevi sona eren kadrolu/sözleşmeli avukat, İl i
+
+Müdürü, İl Müdür vardımcısı ve hukuk servisi personelinin programa giriş yetkilerinin derhal :
+kapatılmasının temini için ayru gün Hukuk Müşavirliğine yazılı ve şifahi bilgi verilmesi.
+
+1.9. Dava ve İcra Masraflarının Muhasebeleştirilmesi işlemleri: ;
+
+İcra masraflarının HUYAP Dava Mütalan ve İcra Programı kullanılmak osureüyle
+
+muhasebeleştirilerek dosya borcuna eklenmesi, ayrıca MOSİP üzerinde tahakkuk yapılmaması. i
+
+dava dosyalarında ise masrafların program üzerinde gösterilmesi, masraf makbuzlarının taranarak 1
+
+program dokümanlarına eklenmesi, İ
+
+1.10. Kullanıcıların Görevinden Ayrıdması: :
+
+Kullanıcının görevinden ayrılması halinde tüm rollerde kullanıcı tarafından zimmetine alınan
+
+dosyalar ve iş istesindeki bülün evrakların o aktarımının yapılması, dosya ve işlerin !
+
+sonuçlandırılması, :
+
+2. DAVA İŞ VE İŞLEMLERİ
+
+2.1. Davalara İlişkin Bilgilerin Programa Girilmesi: |
+Rücuen tazminat davaları dışında kalan davalardan parasal değeri olan davalara ilişkin i
+tahakkuk kayıtlarının oluşturulması, itirazın iptali davasında tahakkuk oluşturulmadan icra |
+takibindeki tahakkuka istinaden itirazın iptali davasına devam edilmesi, itirazın iptali talebinin i
+kismen kabul /kabulle sonuçlanması halinde, artırma ve eksiltme işlemleri yapılarak yeni parasal i
+değerlere göre düzelime yapılması, tüm davalara ilişkin parasal değerlerin ilk kayıt sırasında ve
+yargılama süresince programa girilmesi, programa girilmediği sonradan tespit edilen parasal
+değerlere ilişkin bilgilerin ise dosyanın işlemden kaldırılması aşamasında tamamlanması, !
+
+2.2. RücueyFazıminat Dosyalara İlişkin İşlemler:
+
+Sigortalılara veya hak sahiplerine bağlanan gelir ve aylıklar ile yapılan her türlü masrafların
+yücuan tazminine ilişkin Kurum alacaklarının MOSİP sistemine kaydedilmeksizin davaya konu
+edilmesi. dava sonucunda elde edilecek mahkeme karanınm ilamlı icra takibine konu edilmesi ;
+sırasında ilamlı takip prosedürü çerçevesinde MOSİP alacak tahakkuku yapılarak HUYAP Dava ;
+Mütalaa ve İcra Programında gerekli takip işlemlerinin ifası, bu alacakların idari aşamada takip ve i
+tahsili işlemleri bakımından takip birimlerine gönderilmeksizin ve MOSİP tahakkukları |
+yapılmaksızın davu açılmak üzere doğrudan hukuk servislerine iletilmesi, dosya borcu borçlu l
+tarafından dava açılmaksızın kısmen veya tamamen ödenmek istenirse MOSİP üzerinden ödenmek !
+istenen tutar kadar tahakkuk işlemi yapılmak suretiyle haricen tahsilatın sağlanması, borçlu |
+tarafından ihtirazi kayıtla kısmen ödeme yapılması halinde dava sonucunda belirlenecek kusur İ
+oranına göre varsu bakiyenin tahsili için hukuki yollara başvurulması ya da fazla ödeme i
+yapıldığının anlaşılması halinde fazladan yapılan ödenlenin faizsiz olarak borçluya iade edilmesi,
+
+3. KURUMUMUZ TARAFINDAN BAŞLATILAN İCRA VE İFLAS TAKİBİ i
+İŞLEMLERİ
+
+3.1. İlamsız Takiplerde MOSİP Üzerinde Tahakkuk ve Takip İşlemleri:
+
+2004 sayılı İcra ve İflas Kanununa göre açılacak ilamsız icra takibine konu tedavi masrafi. |
+yersiz ödeme vb. Kurumumuz alacaklarının ilgili hatcama birimi servisince MOSİP üzerinden
+tahakkuk işlemleri yapıldıktan sonra idari yollardan tahsilinin sağlanması bakımından takip birimi
+servislerine intikali, takip birimi tarafından borçluların tespiti ile borcun tebliği suretiyle tahsilinin
+gerçekleştirilememesi halinde hukuki yollardan tahsilini teminen dosyaların Hukuk Servislerine
+Atatürk Bulvan Zafer Meydan Nü © Kızla ANKARA, Aytntlı bigi için irtibat Av, Türkan SALAN, 1.Hukuk Müşaviri W. i
+Tet (0312) 4311118 Faks (0312) 433 1dü0 :
+
+; g-pantar isalandısyh goy Etekirenik Ağ www sgk. göv i
+
+intikal etürilmesi, bu sırada MOSİP üzerinde oluşturulan talebin HUYAP Dava Mütalaa ve İcra
+: Programına aktarılması, henüz ayrı takip birimi kurulamayan il müdürlüklerinde harcama birimi |
+servisleri takip birimi servislerinin iş ve işlemlerini de tamamladıktan sonra hukuki yollardan |
+tahsilini teminen dasyaların hukuk servislerine intikal ettirilmesi, aksine uygulamaların buna göre |
+: düzeltilmesi, halen MOSİP tahakkuku yapılmaksızın hukuk servislerine intikal ettirilen dosyaların
+: ilgili harcama ve takip birimi servislerine iadesi ile MOSİP tahakkuklarının yapılmasını müteakip !
+: hukuk servislerine gönderilmesi,
+MOSİP üzerinde alacak tahakkuku yapılırken ilgili harcama birimi veya takip birimi :
+servislerince idari tebligat masraflarının borçlulara yansıtılması uygulaması kaldırılmış olup, idari i
+aşamada yapılan tebligai ve yazışma giderlerinin borçlulara yansıtılmaması, |
+3.2. İlamlı Takiplerde MOSİP Üzerinde Tahakkuk ve Takip İşlemleri: |
+2004 sayılı İcra ve İflas Kanununa göre açılacak ilamlı icra takibine konu Kurumumuz
+alacakların Hukuk Servislerince MOSİP üzerinden tahakkuk işlemleri yapılıp HUYAP Dava ?
+Mütalaa ve İcra Programına kaydedildikten sonra icra takip kartı oluşturulmak suretiyle HUYAP ,
+Dava Mütalaa ve İcra Programı kullanılarak icra takibinin açılması, i
+İlamsız icra takibine konu edilebilecek yersiz ödeme, tedavi masrafi vb. alacakların ilamsız ;
+takip açılmayıp dava açılmak suretiyle takibi yoluna gidilmişse bu alacağın daha önceden harcama !
+birimi servisince MOSİP üzerinde tahakkukları yapılmış olduğundan dava sonucunda mahkeme :
+kararı ile hüküm altına alınan alacağın tahsili için ilamlı takip açılması sırasında daha önce yapılan i
+MOSİP tahakkuklarının hukuk servislerince terkininin sağlanması ve yeniden ilamlı takibe uygun :
+şekilde MOSİP tahakkuk işlemlerinin yapılması, bu şekilde dava yoluna gidilmesini müteakip
+davanın tamamen Kurum aleyhine sonuçlanması halinde dosyadaki alacağın MOSİP tahakkukunun i
+terkininin sağlanması, dava devam ederken davalı tarafça ödeme yapılmak istenirse ilgili harcama İ
+birimi tarafından yapılacak tahakkuktaki anapara ve faiz ödemeleri ilgili talepten ödenirken vekalet
+ücreti ve yargılama giderleri için hukuk servisince ayrı bir MOSİP tahakkuku oluşturularak haricen :
+bu talep üzerinden tahsilatın sağlanması, |
+3,3. Alacakların Haricen Tahsili İşlemleri:
+İlamlı ya da ilamsız icra takibine konu edilebilecek Kurumumuz alacaklarının Hukuk |
+Servislerince henüz. takip açılmaksızın tahsili mümkün olduğundan, bu şekilde haricen tahsil
+edilecek alacakların da MOSİP üzerinden tahakkuk işlemlerinin yapılarak muhasebeleştirilmesinin :
+ardından HUYAP Dava Mütalaa ve İcra Programında taraf ve tahakkuk bilgileri içeren icra dosyası
+oluşturulduktan sonra ödemelerin on-line banka tahsilat sistemi üzerinden yapılmasının
+sağlanması, haricen beyan usulüyle ya da takip yoluyla MOSİP tahakkuk işlemleri yapılmaksızın :
+tahsilat yapılmaması, |
+3.4.Ceza Koşulu Alacaklarının MOSİP Tahakkuk İşlemleri: ;
+Sağlık hizmeti sunucuların sözleşme gereği ödemek zorunda oldukları ceza koşulu i
+alacaklarımızın MOSİP üzerinde “Anapara” olarak ve borçlu bakımından temerrüt tarihi olan ceza |
+koşulu alacağının ilgiliye tebliğ tarihinden itibaren 3095 sayılı Kanun uyarınca taraflarca ilgili
+sözleşmede kararlaştırılan, sözleşmede kararlaştırılmamış ise avans faizi uygulanarak tahakkuk
+işlemi yapılması, bugüne kadar yapıldığı gibi ceza koşulu alacaklarının “Para Cezası” olarak :
+tahakkuk ettirilmesi uygulamasından vazgeçilmesi,
+3.5. Taksitlendirme İşlemleri:
+İcra dosyalarında taksitlendirme işlemlerinin Hukuk Müşavirliği Çalışma Usul ve Esasları ;
+çerçevesinde program kullanılmak suretiyle yapılması, taksitlendirmeye ilişkin alman komisyon
+kararının ve varsa teminata ilişkin evrakın taranarak takip kartının dokümanlar kısmına eklenmesi, ;
+3.6. İcra Dairelerinden Çekilen Paraların Dağıtımı İşlemleri:
+Adalet Bakanlığı Personel Genel Müdürlüğünün 25/03/2013 tarih ve 82084579/1864/13044
+sayılı yazısı ile, “Sosyal Güvenik Kurumu tarafından yapılacak olan icra iakiplerinde IBAN ;
+numarası talep edilmemesi,
+re !
+Atalık Bulvarı Zafer Meydanı Np & Kıztay/ANKARA Aynntı bilgi için irtibat Av Türkan SALAN, (Hukuk Müşaviri V. !
+Tet gaty ai 18 Faks (0312) 433 1460 i
+e-posta isalanGisgk govü Elektronik Ağ: ve sgk gös 3 :
+
+i İcra daireleri tarafından Sosyal Güvenlik Kurumu adına yapılacak reddiyatların her dosya |
+için ayrı ayrı veya toplu olarak “SGK On-line Tahsilat Sistemi” üzerinden ödenmesi için bankaya i
+yazılı ödeme talimatı verilmesi, N i
+
+İcra daireleri tarafından internet bankacılığı üzerinden yapılacak işlemlerde ise internet
+
+: bankacılığı sayfasındaki ödeme panelinden “SGK. Ödemeleri” menüsü seçilip her bir dosya için
+ayrı ayrı veya toplu olarak ödemenin gerçekleştirilmesi,
+: Ödemenin her bir dosya için aynı ayrı yapılması halinde açıklama kısmına dosya
+numaralarının yazılması, toplu ödemlerde ise açıklama kısmına “listeye bağlı ödeme” şeklinde bir
+ibare yazılması, i
+
+Her iki ödeme türünde de referans numarası olarak, UYAP icra müdürü, icra müdür
+yardımcısı ve zabıt kâtibi ekranlarının sol üst köşesinde yer alan yedi rakamlı UYAP (0D kodunun |
+yazılması" hususları icra müdürlüklerine talimatlandırıldığından, internet bankacılığı kanalı ile
+yapılan ödemelerin MOSİP porogramında muhasebeleştirildikten sonra HUYAP Dava Mütalaa
+ve İcra Programı üzerinden "İcradan Tahsilat” ekranı kullanılmak suretiyle hukuk servisi |
+personelince gerçekleştirilmesi, hukuk servislerince icra tahsilat bordrosu düzenlenmemesi,
+
+3.7. İnfaz, Aciz Vesikası ve Terkin İşlemleri: ?
+
+İcra dosyalarında, yılı Merkezi Yönetim Bütçe Kanununda belirlenen (2015 Yıl Merkezi
+Yönetin Bütçe Kanunun eki Çeşitli Kanun Ve Kanun Hükmünde Karamamelere Göre Bütçe i
+Kamununda Gösterilmesi Gereken Parasal Ve Diğer Sınırlara Ait Cetvel 'İ- CETVELİ' ne göre ;
+15.00-Tİ) miktarın alunda ya da hiç alacak kalmaması halinde dosyanın infazen işlemden İ
+kaldırılması, aksi takdirde dosyanın takip ve tahsil işlemlerine devam edilmesi, fazla tahsilat :
+olması durumunda Muhasebe Servislerince ilgilinin talebi halinde parayı yalıran borçlu adına
+emanet hesaba alınmak suretiyle fazla yatınlan miktarın ilgiliye ödenmesi,
+
+İcra dosyalarını aciz vesikasına bağlanması veya terkini işlemlerinin resmi yazışmaları
+yapıldıktan ve Makam onayı alındıktan sonra HUYAP Dava Mütalaa ve İcra Programı üzerinden İ
+muhasebeleştirme işlemlerinin yapılması, i
+
+3.8. Ceza Evi Harcı İşlemleri: İ
+
+30/06/1934 tarihli ve 2348 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak
+Almacak Harçlar ve Mahkumlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanuna göre alınan
+harçlar (ceza evi harcı) ilgili icra dairesi müdürlüğü tarafından kesin yapılmak suretiyle İ
+Kurumumuzdan tahsil ediliyorsa, HUYAP Dava Mütalaa ve İcra Programı üzerinden ceza evi i
+harcı kesintisi yapılan dosyadan "İcradan Tahsilat" bölümünden gerekli işlemlerin yapılması :
+suretiyle muhasebeleştirilmesi ve dosyadan kesilen harcın karşılık olarak MOSİP üzerinde
+tahakkukunun sağlanması,
+
+3.9. Derdest İcra Dosyalarının HUYAP Dava Mütalan ve (İcra Programına :
+Kaydedilmesi:
+
+Programa kayıt tarihine kadar hiç tahsilat yapılmamış olan dosyaların yeni dosya girişi gibi :
+programa kayıt işlemlerinin yapılarak o tarihe kadar yapılan toplam icra masrafının tek seferde :
+HUYAP Dava Mütalaa ve İcra Programı üzerinden "Tahakkuk Ekleme" modülü kullanılmak
+suretiyle mutlaka dosya borcuna eklenmesi,
+
+Kısmi tahsilat bulunan dosyalarda ise bakiye alacak üzerinden MOSİP tahakkuk işlemleri
+gerçekleştirilerek, icra vekalet ücretine mahsup yapılmamış ise program üzerinden otomatik olarak
+vekalet ücreti tahakkuku oluşturulması, icra vekalet ücretine mahsup yapılmış ise “Tahakkuk i
+Ekleme" modülü kullanılmak suretiyle manuel olarak vekalet ücreti tahakkuku yapılması,
+
+Avukatlık Asgari Ücret Tarifesinde değişiklik olması halinde derdest bütün dosyaların ilave i
+vekalet ücretleri program tarafından otomatik olarak tahakkuk ettirilmek suretiyle dosya borcuna :
+ekleneceğinden, vekalet ücretlerinde her yıl tarife üzerinden manucl bir tahakkuk ekleme
+yapılmaması, m,
+
+6111 sayılı Kanundan yararlanmak suretiyle borcun yapılandırılması yoluna gidilen icra
+m İ
+Atatürk Bulvan Zafer Meydanı No 6 Kızılay/ANKARA Ayrıntılı bilgi için irtibat Av. Türkan SALAN. i.Hukuk Müşaviri V. ,
+
+Tek (0312) 43111 4ğ Faks (0312) 433 1460 |
+e-posta. isalandpeyk.göv.tr Elektronik Ağ vee egk gövit
+
+: dosyalarının HUYAP Dava Mütülaa ve İcra Programına girilmemesi, bunlardan Kanunun ilgili
+hükümlerine riayet edilmemesi üzerine yapılandınılması bozulan dosyaların programa girişlerinin |
+: yapılması, :
+39.1. Eski dosyaların sisteme girişinde "Taraflar", “Tahakkuk Bilgisi" ve "UYAP Bilgisi”
+ekranlarının takibin açıldığı tarih itibariyle veri girişlerinin yapılması, eski dosyalarda MOSİP i
+üzerinden önceden yapılmış bir tahakkuk olması oOve mevcut tahakkukun sisteme aktarın
+; kurallarına uygun olduğunun anlaşılması halinde bu tahakkukun HUYAP Dava Mütalaa ve İcra
+: Programına aktarımının sağlanması, |
+: 39.2. Mevcut tahakkukun HUYAP Dava Mütalan ve İcra Programına aktarım kurallarına
+uygun olmadığının anlaşılması halinde (kişi tipinin yanlış olması, alacak miktarlarının eksik :
+girilmiş olması vb.) mevcut tahakkukun terkini ile yeniden MOSİP üzerinden tahakkuk yapılması, :
+
+3.9.3. Eski dosyalarda kısmi tahsilat olan dosyaların bakiye borç üzerinden tahakkuk ?
+yapılmak suretiyle sisteme aktarımın sağlanması, eski dosyalarda takip süreçleri bakımından
+takibin açıldığı tarihten mevcut durumuna kadar ilerletilmek suretiyle dosyaların geçirdiği
+safahatın borçlu bazında programdan izlenmesinin sağlanacağı şekilde süreç girişlerinin yapılması,
+bu kapsamda borçlulara yapılan ödemelicta etvri tebliğ tarihlerinin sisteme girilmesi, :
+
+3.9.4. Taksitlendirme yapıldıysa programa kalan taksitlerin girişlerinin yapılması, şikayet :
+veya itiraz süreçleri söz konusu ise buna ilişkin girişlerin yapılması, dosyalarda yapılan haciz ve :
+satış işlemlerinin programa girilmesi ve dosyanın son durumunun son süreç olarak girilmesi, :
+
+3.9.5. Eski dosyalarda "UYAP xml" dosyası ve icra formlarının oluşturulmaması, eski dosya
+kaydı yapılırken takip kartı detay bilgilerinde dosyanın "E.D." eski dosya onay kutusu işaretlenerek |
+takip çıkışı toplamı olarak ifade edilen takibe esas asıl alacak ile anapara ve takip tarihine kadar İ
+işlemiş faiz miktarları toplamının açılan alanlara mutlaka yazılması,
+
+3.9.6. Eski dosyalarda yer alan bütün evrakın “pdf dosyası" olarak taranmak suretiyle
+HUYAP Dava Mütalaa ve İcra Programı takip kartına doküman olarak eklenmesi,
+
+3.9.7. 6183 sayılı Kanunun Kurumumuz yönünden uygulanmaya başlamasından önce hukuk ,
+servislerince 2004 sayılı İcra ve İflas Kanununa göre açılmış ve halen derdest bulunan prim vb,
+alacakların takip edildiği eski dosyalarda, dosyaların açıldığı tarihteki takip talebinde yer alan
+talepler (işleyecek faiz tipi, mahsup şekli vb.) doğrultusunda programa girişlerinin yapılması, prim l
+asıllarının MOSİP üzerinde "Anapara" olarak tahakkuk ettirilmesi ve tahsilatı müteakip ilgili |
+işverenler servisine bilgi verilmesi, :
+
+3.10. İş Süreçlerinin Yürütülmesi: :
+
+ilamlı icra takiplerinde MOSİP üzerinde alacak tahakkuk işlemleri, HUYAP Dava Mütalaa |
+ve İcra Programında icra dosyası kayıt ve iera takip kartı oluşturma işlemleri, HUYAP Dava i
+Mütalaa ve İcra Programında takip kartına taraf ekleme, taraf detay bilgilerinin girişi ve icra
+masraflannın tahakkuk ekleme işlemlerinin hukuk servisi personellerince yapılması: HUYAP ?
+Dava Mütalaa ve İcra Programında “Tahakkuk Bilgisi”, "Uyap Bilgisi” veri girişleri ile UYAP :
+xml oluşturma, icra takip form çıktılarının alınması ve takip süreçlerinin giriş işlemlerinin dosya
+sorumlu avukatlarınca yapılması, sözleşmeli avukatların yaptıkları icra masraflarının program
+üzerinden o muhasebeleştirme işlemlerinin sözleşmeli avukatlarca yapılması ve masraf
+makbuzlarının taranarak takip kartı dokümanlarına eklenmesi,
+
+4. KURUMUMUZ ALEYHİNE BAŞLATILAN İCRA TAKİBİ İŞLEMLERİ
+41. Kurum Aleyhine Açılan Takip İşlemleri: :
+Kurumumuz aleyhine açılan takiplerin HUYAP Dava Mütalaa ve İcra Programına kayıt i
+işlemlerine devam edilmesi ve bu takiplerde de elektronik dosya oluşturularak fiziksel dosya |
+iutulmaması; aleyhe takiplerde ödeme işlemlerinin programdaki hesaplama modülü kullanılarak :
+bulunacak rakamı üzerinden yapılması, aleyhe açılan ilamlı takiplerde fazla ve yersiz talep
+bulunması halinde programdan hesaplanan miktarın ödenmesi suretiyle fazla talebe ilişkin olarak
+icra emri hakkında şikayet yoluna başvurulması,
+Atatürk Bulvarı Zater Meydanı HG & Kızılay ANKARA Ayrıntılı bilgi için irieat Av Türkes BALAN 1 Aukuk Müşaviri V
+Tek 40312) 44 17 18 Faks (0310) 433 1469 :
+© pOBİS tsalanığısgk güv Eletdranik Ağ: ve sgk göv b ,
+
+4.2. İstatistiki Bilgi Teminine Uygun Kayıt Oluşturulması: |
+Kurumumuz aleyhine başlatılan icra takiplerinde de, dava dosyalarında olduğu gibi programa i
+i taraf bilgileri ve icra takibine ilişkin parasal değerlerin eksiksiz girilmesi gerekmektedir. :
+5. YÜRÜRLÜKTEN KALDIRILAN MEVZUAT )
+HUYAP İcra Programı uygulamasına ilişkin olarak tamim olunan 2013/2 sayılı Genelge |
+yürürlükten kaldırılmıştır. :
+Bilgi edinilmesini, gereğinin buna göre ifasını, tereddüt edilen hususlarda Hukuk
+Müşavirliğinden talimat alınmasını rica ederim. —— ——
+Dağıtım : :
+Merkez ve Taşra Teşkilatı ,
+KERE |
+mmm eli bilet icin iri türkan SALAN. i Hukuk Müşaviri V, İ
+Atatürk Bulan Zaler Meydanı Ne. $ Kıylay/ANKARA Ayrıntı bilgi için irihat. Av Türkan SALA ukuk Müşavt
+Tek (0312)43111 18 Faks (0317433 1469 N
+#-posta taalangösak gov e Elekironik Ağ www sgk gov z

@@ -1,0 +1,268 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/177013
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 24428096
+ADI: 17256 VE 27256 KANUN NUMARALI DESTEK UYGULAMALARI HAKKINDA 27/04/2021 TARİHLİ VE 24428096 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 48217dfdc6ddb88c1ea6e9972c55b20324793f422836027e2a2b6793c3f8a4d9
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                       T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        Sigorta Primleri Genel Müdürlüğü
+
+
+
+
+Sayı : E-41481264-207.02-24428096                                                                                          27.04.2021
+Konu : 17256 ve 27256 Kanun Numaralı Destek
+       Uygulamaları
+
+
+                                                       GENEL YAZI
+
+
+      Bilindiği üzere, 17/11/2020 tarihli ve 31307 sayılı Resmi Gazete'de yayımlanan 7256 sayılı
+Kanunun 12 nci maddesi ile 4447 sayılı İşsizlik Sigortası Kanununa geçici 27 nci madde, 13 üncü
+maddesi ile de geçici 28 inci madde eklenmiş olup, anılan maddelere ilişkin uygulanan sigorta primi
+desteğine ilişkin usul ve esaslar 2020/49 sayılı ve 2020/50 sayılı Genelgeler ile açıklanmıştır.
+      Anılan destek kapsamında hazırlanan programlar işletime açılmış olmakla birlikte, işveren intra
+programlarında yer alan uygulamaların kullanılması hususunda aşağıda belirtilen açıklamaların yapılması
+gerekliliği hasıl olmuştur.
+
+   1- 4447 SAYILI KANUNUN GEÇİCİ 27 NCİ VE GEÇİCİ 28 İNCİ MADDELERİNDE YER
+ALAN DESTEK UYGULAMALARI
+
+       4447 sayılı Kanunun geçici 27 nci maddesinde yer alan destekten yararlanacak işverenler için
+17256 kanun numarası;
+       4447 sayılı Kanunun geçici 28 inci maddesinde yer alan destekten yararlanacak işverenler için
+27256 kanun numarası;
+       seçilerek düzenlenecek belgelerde, destek karşılığı indirim tutarı sigortalının prim ödeme gün
+sayısı ile çarpımı sonucu bulunmakla birlikte, belgede indirim olarak sağlanmadığından, indirim tutarı
+tahakkuk fişinde gösterilmemekte, tahakkuk fişinde "İndirim emanette gösterilmiştir" açıklama mesajı
+görüntülenmekte, gün karşılığı hesaplanan indirim tutarı ise sigortalı bazında işyeri emanet hesaplarında
+gösterilmektedir.
+       17256 ve 27256 kanun numaralı belge karşılığında sigortalı bazında hesaplanan indirim tutarları,
+bu kanun numaraları ile düzenlenen belgenin onaylanmasının ardından merkezden periyodik aralıklarla
+çalıştırılan sistem ile “İşveren İntra / Emanet / Aktarılmamış Emanet” menüsünde gösterilmekte ve ilgili
+dönemin cari ay borçlarına mahsup yoluyla işlem görmektedir.
+       Bununla birlikte, her ne kadar söz konusu emanet oluşturma ve mahsup işlemleri periyodik
+aralıklarla merkezden yapılmakta ise de Ünitenize müracaat eden işverenlerimizin mağduriyetine sebep
+olunmaması bakımından, belge verilen dönemin ya da geriye yönelik işleme alınan belgenin destek
+tutarlarının işyeri emanet hesaplarında yer alması için Ünitenizce İşveren İntra / Teşvikler ve Tanımlar
+menüsünde yer alan;
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                    Bilgi için: H. Yeşim ÖNBAŞ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                        Şube Müdürü V.
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 71 29
+38                                                                1/5
+       17256 kanun numaralı destek için “4447-Geçici 27. Madde Yeniden Hesaplama İşlemleri”;
+       27256 kanun numaralı destek için ise “4447-Geçici 28. Madde Yeniden Hesaplama İşlemleri”
+       menüsü vasıtasıyla işyeri için “Yeniden Hesapla” butonunun çalıştırılması gerekmektedir.
+       Yeniden hesapla butonunun çalıştırılması ile birlikte belge verilen sigortalı için hesaplanan destek
+tutarlarının emanet hesaplarda yer alması sağlanacaktır.
+       Bu işlem sonucunda emanet hesaplarda yer alan “17256 geçici 27. madde” veya “27256 geçici 28.
+madde” açıklamalı indirim tutarları, cari aylara ait belge verme süresi bitiminde sistem tarafından sadece
+cari dönem borçlarına mahsup edilecek olmakla birlikte Ünitenizce de mahsup edilmesi mümkün
+bulunmaktadır.
+
+   2- GERİYE YÖNELİK BELGE DEĞİŞİKLİĞİ İLE 17256 VEYA 27256 KANUN
+NUMARALI BELGENİN İŞLEME ALINMASI İŞLEMLERİ:
+
+      “Tahakkuk Nedeni D” bölümü ile Üniteniz şube onay ekranlarında yer alan veya Ünitenizce işlemi
+başlatılan geriye yönelik teşvik değişikliği kapsamındaki belgenin Ünitenizce onay işleminin
+tamamlanmasının ardından, 17256 için “4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri”, 27256
+için “4447/Geçici 28. Madde Yeniden Hesaplama İşlemleri” menüsünde yer alan “Yeniden Hesapla”
+butonuna basılması ve teşvik değişikliği yolu ile sonradan işleme alınan 17256 veya 27256 kanun
+numaralı belgenin indirim tutarının işyeri emanet hesaplarında oluşturulmasının sağlanması
+gerekmektedir. Bu konu ile ilgili işlem sıralaması;
+      1- xxxxx kanun numaralı belge iptal, yerine 17256 veya 27256 ek/asıl belgenin geriye yönelik
+işleme alınma aşamalarının tamamlanması,
+      2- İşveren intra – “Hatalı Teşvik Bildirimi Sorgulama Güncelleme” butonu ile güncelleme
+yapılması, (17256 veya 27256 nolu belgenin hatalı olması halinde hata listesinde yer alması sağlanacak)
+      3- Geriye yönelik işleme alınan 17256 veya 27256 kanun numaralı belgenin hatalı teşvik listesinde
+yer almadığının anlaşılması,
+      4- İşveren İntra – “4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri (17256 kanun numarası
+için)” “4447/Geçici 28. Madde Yeniden Hesaplama İşlemleri (27256 kanun numarası için)” menüsünde
+yer alan “Yeniden Hesapla” butonuna basılması,
+      5- Geriye yönelik olarak işleme alınan 17256 veya 27256 nolu belgede kayıtlı sigortalı için farklı
+teşvik veya destekten yararlanılmaması gerektiğinden, işlem yapılan işyerinin asgari ücret desteğinden
+yararlanan işyeri olması halinde, asgari ücret desteğinin hesaplandığı dönemler için İşveren İntra – “6661
+Asgari Destek Yeniden Hesaplama” menüsünde yer alan ekrandan, geriye yönelik işleme alınan
+dönemlere ait “Yeniden Hesapla” butonuna basılması, (yapılan işlem sonucunda eksi kayıt oluşması
+halinde "Yersiz Destek İçin Ek Tahakkuk Oluştur" butonunun çalıştırılması)
+      6- İşveren intra – “Emanet” menüsünde yer alan “Aktarılmamış Emanet” bölümünde oluşan
+“Geçici 27. madde-17256” veya “Geçici 28. madde-27256” açıklamalı emanet tutarının, ilgili dönem
+borcuna aktarılması,
+      Şeklinde olacaktır.
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                    Bilgi için: H. Yeşim ÖNBAŞ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                        Şube Müdürü V.
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 71 29
+38                                                                2/5
+    3- HATALI TEŞVİK LİSTESİNDE YER ALAN 17256 VEYA 27256 KANUN NUMARALI
+BELGENİN İPTALİ:
+
+       a) 17256 kanun numaralı belgenin hatalı teşvik listesinde yer alması:
+       17256 kanun numarasından yararlanılan dönemin hatalı teşvik listesinde yer alması halinde hata
+listesinde yer alan sigortalı için iptal ve yerine kanun numarasız belgenin işleme alınması gerekmektedir.
+Bu konu ile ilgili işlem sıralaması;
+       1- 17256 kanun numaralı belge iptal, yerine xxxxx ek veya asıl belgenin işleme alınarak hatalı
+döneminin iptal aşamalarının tamamlanması,
+       2- İşveren İntra – “4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri” menüsünde yer alan
+“Yeniden Hesapla” butonuna basılması,
+       - İlgili dönemin indirim tutarları işyeri borcuna mahsup edilmiş ise iptal 17256 kanun numaralı
+belgede iptali yapılan sigortalı için eksi kayıt oluşturulması sağlanacaktır.
+       - İlgili dönemin indirim tutarının işyeri borcuna mahsup edilip edilmediği, İşveren İntra-Emanet-
+Silinmiş Emanet menüsünden görüntülenebilmektedir.
+       - İlgili dönemin indirim tutarları işyeri borcuna mahsup edilmemiş ve halen aktarılmamış emanette
+duruyor ise iptal 17256 kanun numaralı belgede iptali yapılan sigortalı için henüz kullanılmamış emanet
+tutarının silinmesi ve “İndirim Tutarı İptal Edilmiştir Kullanılmamıştır” açıklama mesajı ile silinmiş
+emanete çekilmesi, sistem tarafından sağlanacaktır.
+       3- İşveren İntra – “4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri” menüsünde yer alan
+ekrandan iptal 17256 kanun numaralı belgenin işleme alındığı dönem için eksi kayıt oluşmuş olması
+halinde “Yersiz Destek İçin Ek Tahakkuk Oluştur” butonunun çalıştırılması, (işyeri borcuna aktarılan
+17256 kanun numaralı indirim tutarının borç olarak tahakkuk ettirilmesi sağlanacaktır)
+       4- İşveren intra – “Emanet” menüsünde yer alan “Aktarılmamış Emanet” bölümünün kontrol
+edilerek, iptal 17256 kanun numaralı belgenin işleme alındığı dönemde kullanılmamış indirim olup
+olmadığının kontrol edilmesi, olduğunun anlaşılması halinde ise eksi kayıt sebebiyle ek tahakkuk
+oluşturulan döneme aktarılması, varsa kalan borç tutarının işverenden tahsil edilmesi,
+       5- İşveren İntra – “Hatalı Teşvik Bildirimi Sorgulama Güncelleme” menüsü ile güncelleme
+butonunun çalıştırılması ve hata listesinin güncellenmesi,
+       6- İşlem yapılan işyerinin asgari ücret desteğinden yararlanan işyeri olması halinde asgari ücret
+destek uygulaması yapılan dönemler için, 17256 kanun numaralı belgede kayıtlı sigortalı için asgari ücret
+desteği hesaplanmamış olacağından, belgenin iptal edilerek yerine xxxxx kanun numaralı belgenin işleme
+alınması durumunda, sigortalının gün sayısının asgari ücret desteği için hesaplamaya dahil olması
+gerekiyor ise İşveren İntra – “6661 Asgari Destek Yeniden Hesaplama” menüsünde yer alan ekrandan,
+iptal 17256 kanun numaralı belgenin işleme alındığı dönem için “Yeniden Hesapla” butonunun
+çalıştırılması,
+       Şeklinde olacaktır.
+
+       b) 27256 kanun numaralı belgenin hatalı teşvik listesinde yer alması:
+       27256 kanun numarasından yararlanılan dönemin hatalı teşvik listesinde yer alması halinde hata
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                    Bilgi için: H. Yeşim ÖNBAŞ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                        Şube Müdürü V.
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 71 29
+38                                                                3/5
+listesinde yer alan sigortalı için iptal ve yerine kanun numarasız belgenin işleme alınması gerekmektedir.
+Bu konu ile ilgili işlem sıralaması;
+       1- 27256 kanun numaralı belge iptal, yerine xxxxx ek veya asıl belgenin işleme alınarak hatalı
+döneminin iptal aşamalarının tamamlanması,
+       2- İşveren İntra – “4447/Geçici 28. Madde Yeniden Hesaplama İşlemleri” menüsünde yer alan
+“Yeniden Hesapla” butonuna basılması,
+       - İlgili dönemin indirim tutarları işyeri borcuna mahsup edilmiş ise iptal 27256 kanun numaralı
+belgede iptali yapılan sigortalı için eksi kayıt oluşturulması sağlanacaktır.
+       - İlgili dönemin indirim tutarının işyeri borcuna mahsup edilip edilmediği, İşveren İntra-Emanet-
+Silinmiş Emanet menüsünden görüntülenebilmektedir.
+       - İlgili dönemin indirim tutarları işyeri borcuna mahsup edilmemiş ve halen aktarılmamış emanette
+duruyor ise iptal 27256 kanun numaralı belgede iptali yapılan sigortalı için henüz kullanılmamış emanet
+tutarının silinmesi ve “İndirim Tutarı İptal Edilmiştir Kullanılmamıştır” açıklama mesajı ile silinmiş
+emanete çekilmesi, sistem tarafından sağlanacaktır.
+       3- İşveren İntra – “4447/Geçici 28. Madde Yeniden Hesaplama İşlemleri” menüsünde yer alan
+ekrandan iptal 27256 kanun numaralı belgenin işleme alındığı dönem için eksi kayıt oluşmuş olması
+halinde “Yersiz Destek İçin Ek Tahakkuk Oluştur” butonunun çalıştırılması, (işyeri borcuna aktarılan
+27256 kanun numaralı indirim tutarının borç olarak tahakkuk ettirilmesi sağlanacaktır)
+       4- İşveren intra – “Emanet” menüsünde yer alan “Aktarılmamış Emanet” bölümünün kontrol
+edilerek, iptal 27256 kanun numaralı belgenin işleme alındığı dönemde kullanılmamış indirim olup
+olmadığının kontrol edilmesi, olduğunun anlaşılması halinde ise eksi kayıt sebebiyle ek tahakkuk
+oluşturulan döneme aktarılması, varsa kalan borç tutarının işverenden tahsil edilmesi,
+       5- İşveren İntra – “Hatalı Teşvik Bildirimi Sorgulama Güncelleme” menüsü ile güncelleme
+butonunun çalıştırılması ve hata listesinin güncellenmesi,
+       6- İşlem yapılan işyerinin asgari ücret desteğinden yararlanan işyeri olması halinde asgari ücret
+destek uygulaması yapılan dönemler için, 27256 kanun numaralı belgede kayıtlı sigortalı için asgari ücret
+desteği hesaplanmamış olacağından, belgenin iptal edilerek yerine xxxxx kanun numaralı belgenin işleme
+alınması durumunda, sigortalının gün sayısının asgari ücret desteği için hesaplamaya dahil olması
+gerekiyor ise İşveren İntra – “6661 Asgari Destek Yeniden Hesaplama” menüsünde yer alan ekrandan,
+iptal 27256 kanun numaralı belgenin işleme alındığı dönem için “Yeniden Hesapla” butonunun
+çalıştırılması,
+       Şeklinde olacaktır.
+
+       c) 17256 veya 27256 kanun numaralı belgenin “Yersiz Destek İçin Ek Tahakkuk
+Oluşturulmalı” açıklama mesajı ile hatalı teşvik listesinde yer alması:
+       Bazı ünitelerimizce 17256 veya 27256 kanun numaralı iptal belgenin işleme alındığı, ancak
+“4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri” veya “4447/Geçici 28. Madde Yeniden
+Hesaplama İşlemleri” menüsünden "Yersiz Destek İçin Ek Tahakkuk Oluştur" butonuna basılmadığı ve
+dolayısıyla hatalı teşvik listesinde “Yersiz Destek İçin Ek Tahakkuk Oluşturulmalı” mesajlı hata
+listesinin sistemden güncellenmediği anlaşılmıştır.
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                    Bilgi için: H. Yeşim ÖNBAŞ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                        Şube Müdürü V.
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 71 29
+38                                                                4/5
+      17256 veya 27256 kanun numaralı belgenin hatalı teşvik listesinde “Yersiz Destek İçin Ek
+Tahakkuk Oluşturulmalı” açıklama mesajı ile yer aldığının görülmesi halinde;
+      17256 kanun numarası için “4447/Geçici 27. Madde Yeniden Hesaplama İşlemleri” menüsünde yer
+alan “Yersiz Destek İçin Ek Tahakkuk Oluştur” butonunun çalıştırılması,
+      27256 kanun numarası için “4447/Geçici 28. Madde Yeniden Hesaplama İşlemleri” menüsünde yer
+alan “Yersiz Destek İçin Ek Tahakkuk Oluştur” butonunun çalıştırılması,
+      Gerekmektedir.
+
+       4- MAHSUP İŞLEMLERİ
+
+       17256 veya 27256 kanun numaralı belge için sağlanan ve emanet hesaplarda yer alan/alacak olan
+destek tutarları her ne kadar merkezden periyodik aralıklarla çalıştırılacak sistem ile 17256 veya 27256
+kanun numaralı belge verilen döneme ait cari ay prim borçlarına otomatik olarak mahsup edilmekte ise
+de söz konusu mahsup işleminin Ünitenizce de yapılması mümkün bulunmaktadır.
+       Bu durumda, Kurumumuzca merkezden çalıştırılması beklenmeksizin Ünitenizce 17256 veya
+27256 kanun numaralı belgenin işleme alındığı döneme ait tahakkuk eden dönem borcunun 17256 kanun
+numarası için “Geçici 27. madde”, 27256 kanun numarası için “Geçici 28. madde” açıklamalı emanet
+tutarlarının Ünitenizce işyeri borcuna aktarılması mümkündür.
+       Ancak, bu işlemlerin yapılması sırasında gerek cari aya ait işveren tarafından düzenlenen belgenin,
+gerekse Ünitenizce geriye yönelik belge değişikliği yoluyla işleme alınan 17256 veya 27256 kanun
+numaralı belgenin onaylanmasının ardından, yukarıda açıklanan “Yeniden Hesapla”, “Hatalı Teşvik
+Güncelleme” menülerin kullanılmasını müteakip işyeri borcuna mahsup işleminin yapılmasına özen
+gösterilmesi gerekmektedir.
+       Diğer taraftan, bazı ünitelerimizce 17256 veya 27256 kanun numaralı belgelerin işleme
+alınmasından sonra belge karşılığı indirim tutarlarının işyeri borcuna mahsup edilmiş olup olmadığına
+bakılmaksızın, yersiz destek için ek tahakkuk oluşturulduğu ve oluşan ek tahakkukun 3270 ekranından
+silindiği, işlemlerin yeni baştan işleme alındığı anlaşılmış olup, yersiz destek hesaplaması yapılan
+dönemlere ait ek tahakkukun 3270 ekranlarından silinmemesi, silinmiş olduğunun anlaşılması halinde ise
+ilgili döneme ait işlem tamamlandıktan sonra mutlaka silinen borç tutarı kadar ek tahakkukun yeniden
+3270 ekranından oluşturulması gerekmektedir.
+       Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                                                            Savaş ALIÇ
+                                                                                                            Genel Müdür
+
+DAĞITIM:
+Bilgi ve gereği:
+Tüm Taşra Teşkilatına
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                    Bilgi için: H. Yeşim ÖNBAŞ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                        Şube Müdürü V.
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 71 29
+38                                                                5/5
+

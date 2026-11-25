@@ -1,0 +1,97 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/151338
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 6557729
+ADI: OTOMATİK TESCİL EDİLEN İNŞAAT İŞYERLERİNDE ARAŞTIRMA İŞLEMİ HAKKINDA 30/04/2019 TARİHLİ VE 6557729 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ec39d6405751906a801959ef4ef516c8f51040472a886926d06a1fa0b095e91f
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Sayı o: 66454725-206.06-E.6557729 30/04/2019
+Konu : Otomatik Tescil Edilen İnşaat
+İşyerlerinde Araştırma İşlemi
+GENEL YAZI
+
+Bilindigi üzere 10/3/2018 tarihli ve 30356 sayılı Resmi Gazete'de yayımlanan 7099
+sayılı Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına
+Dair Kanunun 18 inci ve 19 uncu maddesi ile 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 11 inci ve 100 üncü maddelerinde yapılan değişiklikler doğrultusunda,
+16/3/2018 tarihli ve 2018/11 sayılı "Otomatik İşyeri Tescili" konulu Genelge ile 5510 sayılı
+Kanunun 4 üncü maddesinin birinci fikrasının (a) bendi kapsamında sigortalı çalıştırılmasa
+dahi yapı ruhsatına istinaden Kurumca otomatik işyeri tescili yapılacağı açıklanmıştır.
+
+Yine 1/6/2018 tarihli ve 2018/18 sayılı "Otomatik Tescil Edilen İnşaat İşyerlerinde
+Araştırma İşlemi" konulu Genelgenin "2) YAPI RUHSATINA İSTİNADEN OTOMATİK
+TESCİL EDİLEN ÖZEL NİTELİKTEKİ İNŞAAT İŞYERLERİNDE ARAŞTIRMA"
+başlıklı bölümünde yapı ruhsatına istinaden otomatik işyeri tescil edilenlerin, özel nitelikteki
+inşaat işlerinden dolayı Kurumumuza ilişiksizlik belgesi müracaatları olmadan ve bu belgeyi
+temin etmeden yapı kullanma izin belgesi alabilmeleri ile ilgili yapılacak işlemler
+açıklanmıştır.
+
+Kurumumuz ve Nüfus Vatandaşlık İşleri Genel Müdürlüğü tarafından yürütülen
+çalışmalar devam etmekle birlikte bundan böyle 2018/18 sayılı Genelgenin "2.1 İlişiksizlik
+Belgesi Düzenleme Süreci" başlıklı alt bölümünde açıklanan işlemlerden tek yapı ruhsatına
+istinaden Kurumda tescil edilmiş özel nitelikteki inşaat işyerlerine dair araştırma işlemi
+aşağıda açıklanan şekilde yapılacaktır.
+
+Yapı kullanma izin belgesi için işverence, ruhsat vermeye yetkili merciye müracaat
+edilecek olup (İlişiksizlik belgesi için Kurumumuza müracaat edilmeyecektir), ilgili idareye
+yapılan müracaat bilgisi Kurumumuza da aynı anda iletilecektir.
+
+I- İşveren-intra'da yer alan "LİSTELER-İSTATİSTİKLER" menüsü "İHALE /ÖZEL
+BİNA LİSTELERİ" alt menüsünde yer alan "MAKS İŞLEMLERİNDEN YAPILAN
+İLİŞİKSİZLİK BAŞVURUSU OLAN İŞYERLERİ LİSTELEME" sekmesi seçilerek,
+ilişiksizlik belgesi başvurusu bulunan işyerleri listelenecektir.
+
+2- Listelemede çıkan işyeri için araştırma bilgileri "İHALE/ÖZEL BİNA" menüsü
+"YAPI RUHSATI" sekmesi seçilerek elde edilecektir. Sekmede tek yapı ruhsatına istinaden
+yapılacak araştırmada kullanılan bilgiler yer almakla birlikte aynı zamanda işyeri ile ilgili
+ruhsatın pdf formatı da yer alacağından ruhsat bilgilerine kapsamlı olarak erişmekte mümkün
+olacaktır.
+
+3- Elde edilen bu bilgilerle 3270 (CICS) programında araştırma işlemi yapılacaktır.
+Araştırma işleminde işin bitim tarihi bilgisi "MAKS İŞLEMLERİNDEN YAPILAN
+İLİŞİKSİZLİK BAŞVURUSU OLAN İŞYERLERİ LİSTELEME" sekmesindeki "Başvuru
+Tarihi" bölümünden alınacaktır.
+
+4- Araştırma işleminden sonra tekrar "İHALE/ÖZEL BİNA" menüsü "İHALE/ÖZEL
+BİNA DOSYA İŞLEMLERİ" sekmesi seçilip açılan menüde araştırma işlemi yapılan işyeri
+sicil numarası girildikten sonra "ilişiksizlik belgesi" oluştur seçeneğinden ilişiksizlik belgesi
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+düzenlenecektir.
+
+5- Belge düzenlendikten sonra DYS'de sırasıyla "Giden Evrak işlemleri", "Giden
+Evrak Oluşturma ve Akış Başlatma", "Diskten Evrak Seç" (seçim kaldırılacak), "Uygulama
+Seç", "İşveren Sistemi", "İlişiksizlik Belgesi" adımları takip edilerek "İşveren Bilgisi Getir"
+butonu seçilerek işveren-intrada oluşturulan ilişiksizlik belgesindeki bilgiler ilgili alanlara
+girilecek, "Kelime İşlemciyi Aç" butonundan imzalama işlemi yapılacaktır.
+
+6- DYS'de bu şeklide ilişiksizlik belgesi oluşturulduktan sonra normal yazışmalarda
+olduğu gibi diğer alanlar doldurulacak, varsa dağıtım yapılacak birime idarenin kep adresi
+yoksa normal adresi bilgisi yazılacaktır.
+
+7- DYS'de oluşturulan belge onaylandıktan sonra son kullanıcının belgeyi gönder
+işleminini gerçekleştirmesi ile "İlişiksizlik Belgesi" MAKS sisteminde ilgili idareye otomatik
+olarak iletilmiş olacaktır.
+
+Yukarıda açıklandığı üzere, yapı ruhsatına istinaden otomatik tescil edilen özel
+nitelikteki inşaat işyerlerinde araştırma işleminde listeleme menüleri günlük kontrol edilerek,
+ilişiksizlik başvurusu olan işyerleri ile ilgili araştırma işlemleri artık herhangi bir yazışma
+işlemine gerek duyulmaksızın yine "YAPI RUHSATI" sekmesinde yer alan bilgiler
+doğrultusunda yapılacaktır.
+
+Bilgilerini ve gereğini rica ederim.
+
+Dağıtım:
+
+Gereği:
+
+Merkez Teşkilatına
+Taşra Teşkilatına

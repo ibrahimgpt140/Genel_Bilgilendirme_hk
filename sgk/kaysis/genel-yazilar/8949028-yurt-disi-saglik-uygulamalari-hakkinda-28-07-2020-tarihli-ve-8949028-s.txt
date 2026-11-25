@@ -1,0 +1,475 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/164831
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 8949028
+ADI: YURT DIŞI SAĞLIK UYGULAMALARI HAKKINDA 28/07/2020 TARİHLİ VE 8949028 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: bc2ab502ee2cdd369fc6f63e1568e2464426e7ccf6280a2b47f161875420f20e
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : 40552758-010.06.01-E.8949028                                                  28/07/2020
+Konu : Yurt Dışı Sağlık Uygulamaları Hk.
+
+
+
+
+                                                   GENEL YAZI
+
+
+
+         Bilindiği     üzere,     halen     yürürlükte  bulunan     31     sosyal     güvenlik
+sözleşmesi/anlaşmasından 19 tanesi sağlık uygulamalarını da kapsamaktadır. Ülkemiz
+açısından sağlık uygulamalarında Almanya, Belçika, Karadağ, Macaristan, İtalya ve Tunus
+sözleşmeleri 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bendine,
+diğer sözleşmeler ise sadece 4/1-(a) bendine tabi olanları kapsamaktadır. Sağlık uygulaması
+olan ülkeler ve kapsamda olan sigortalılık statüleri (EK-1) numaralı tabloda gösterilmiştir.
+         Sözleşmelere/anlaşmalara göre ülkeler itibariyle 5510 sayılı Kanunun 60 ıncı
+maddesinin birinci fıkrasının hangi bentlerine tabi olanlara yurt dışında bulundukları ya da
+ikamet ettiklerinde belge düzenleneceği (EK-2) numaralı, sözleşmeli ülkelerde bulunacaklar
+ile daimi ikamet edeceklere hangi sağlık yardım formülerinin ne kadar süre için
+düzenleneceği ise (EK-3, 3A, 3B, 3C, 3D) numaralı tablolarda belirtilmiştir.
+         Diğer yandan, 2019 yılı Merkez Eylem Planı kapsamında; Ankara, İstanbul, İzmir,
+Hatay ve Samsun illerinde "yurt dışına giden Kurum sigortalıları için sağlık yardım hakkı
+belgelerinin düzenlenmesi süreci" incelenmiştir. Söz konusu inceleme ve Genel
+Müdürlüğümüze ulaşan görüş talep yazılarından, Ülkemizin imzalamış olduğu sağlık
+uygulamalarını da kapsayan sosyal güvenlik sözleşmelerinin/anlaşmalarının sağlık
+uygulamalarına ilişkin tespit edilen tereddütlü hususlarla ilgili iş ve işlemler aşağıda
+belirtildiği şekilde gerçekleştirilecektir.
+
+        A- Kurum Sigortalıları Sağlık Aktivasyon Sistemi (KUSAS) İşlemleri
+        Söz konusu eylem planı çerçevesinde belirlenen beş ilde yapılan incelemelerde;
+        - Muhtelif dosyalarda yurt dışına giden öğrencilerin öğrenim belgelerinin, personelce
+bu belgelerin tanındığı gerekçesi ile Türkçe tercümesinin istenilmediği,
+        - Sözleşme kapsamında olmayan 5510 sayılı Kanunun 60 ıncı maddesinin (g) bendine
+tabi sigortalıların bakmakla yükümlü aile bireylerine yurt dışındaki öğrenimleri nedeniyle
+sağlık yardımı belgesi düzenlendiği,
+        - Erasmus haricinde öğrenim amaçlı yurt dışına giden öğrencilerin öğrenim görülen
+okulun denklik belgesinin YÖK'ten temin edilerek dosyalara eklenmediği,
+        - Kişiler adına düzenlenen belgelerin ülkeler bazında klasörler halinde muhafaza
+edilse bile şahıs bazında dosya açılmadığı,
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                   Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                               1/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        - Daimi ikametler için düzenlenen sağlık yardım belgelerinde oturma müsaadesi ya da
+ikamet belgesi temin edilmeden belge düzenlendiği
+        tespit edilmiştir.
+        Buna göre, KUSAS işlemlerinde dikkat edilmesi gereken hususlar aşağıda
+açıklanmıştır:
+        1- Sağlık yardım formüleri talebinde bulunan kişilerce Kuruma doğrudan verilen
+“Sosyal Güvenlik Sözleşmesi imzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan
+Taahhüt Belgesi”nin eksiksiz doldurulup doldurulmadığı kontrol edilecek, söz konusu
+belgede tespit edilecek eksikler talep sahibine tamamlattırıldıktan sonra formüler
+düzenlenecektir.
+        2- Kurum sigortalılarının bakmakla yükümlü aile bireyleri, gelir/aylık sahipleri ve
+bunların bakmakla yükümlü aile bireylerine Almanya hariç sözleşmeli ülkelerde daimi
+ikamet etmeleri nedeniyle ilgili sağlık yardım formüleri düzenlenebilmesi için ilgililerden;
+        - Sözleşmeli ülkede daimi ikamet ettiklerine dair ikamet belgesi ve/veya oturum izin
+belgesini ibraz etmesi,
+        -Yurt dışındaki adresini MERNİS’e işletmeleri gerektiğinden Kimlik Paylaşım
+Sisteminden (KPS) adresin yurt dışına taşınıp taşımadığının tespiti,
+         - Türkiye'den gelir/aylık alan kişilere formüler düzenlenebilmesi için ödenmekte olan
+gelir/aylığın sözleşmeli ülkeye transfer edilmiş olması şartı arandığından, bu kişilerin
+gelir/aylığını sözleşmeli ülkeye transfer edip etmediklerinin MOSİP üzerinden kontrolü
+        gerekmektedir.
+        Yapılacak kontroller sonucunda istenilen bilgi ve belgelerin tamam olduğunun tespiti
+durumunda talep edilen formüler düzenlenecektir.
+        Bu ülkelerde daimi ikamet edecek gelir/aylık sahibinin bakmakla yükümlü aile
+bireylerine sağlık yardım formüleri düzenlenirken gelir/aylık sahibinin aylık transferinin
+gerçekleştirilip gerçekleştirilmediğinin kontrolü yapılmayacaktır.
+        3- Almanya’da daimi ikamet eden kişilere sağlık yardımı formüleri düzenlenebilmesi
+için 24/12/2018 tarihli E.17585756 sayılı Genel Yazıda belirtildiği şekilde kesintisiz 183 gün
+Almanya’da bulunup bulunmadığının tespiti Emniyet Genel Müdürlüğü Yurda Giriş Çıkış
+Programından ya da kişilerin ibraz edeceği yurda giriş çıkış tarihlerini gösterir pasaportlardan
+veya emniyet müdürlüklerinden alınacak belgeye göre yapılacak, 183 gün kesintisiz
+ikametin gerçekleştiğinin tespiti durumunda 184 üncü günden başlamak üzere ilgili sağlık
+yardım formüleri düzenlenecektir.
+        5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (a) bendi kapsamındaki
+genel sağlık sigortalısının Almanya’da daimi ikamet eden bakmakla yükümlü aile bireylerine
+A/T 9 formüleri düzenlenirken, bu kişilerin Almanya’dan sağlık yardım hakkı olmadığına
+dair hastalık kasalarından temin edecekleri resmi yazı veya T/A 5 formüleri ibraz etmeleri
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                     Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                 2/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+istenecektir. Söz konusu T/A 5 formüleri gelir/aylık sahiplerinin aile bireylerinden
+istenmeyecektir.
+         4- Daimi ikamet formülerinin sözleşmeli ülke sigorta kurumları/hastalık kasalarınca
+sözleşmelerin uygulanmasına ilişkin idari anlaşmalarda belirtilen formüler ile talep edilmesi
+halinde ilgili kişinin ikamet belgesi ve/veya oturum izin belgesinin bulunup bulunmadığı ve
+bu bölümün 2 nci maddesinde belirtilen aylık transferinin gerçekleştirilip gerçekleştirilmediği
+kontrol edilecek, aranan şartların gerçekleşmiş olduğunun tespiti halinde talep edilen
+formüler düzenlenecektir. Ancak, Almanya hastalık kasalarınca formüler taleplerinde,
+ilgililerin Almanya’dan sağlık yardım hakkı olmadığına dair hastalık kasalarından temin
+edecekleri resmi yazı veya T/A 5 formüleri ibraz etmeleri istenilmeden, bu bölümün 3 üncü
+maddesinde belirtilen daimi ikamet şartını yerine getirmiş iseler formüler düzenlenecektir.
+Düzenlenen formüler talep eden sigorta kurumu/hastalık kasasına gönderilecektir.
+         5- Sigortalının bakmakla yükümlü aile bireyleri ile aylık/gelir sahibi ve bunların
+bakmakla yükümlü aile bireyleri öğrenim amaçlı olarak sağlık uygulaması bulunan
+sözleşmeli ülkeye gittiklerinde bunlar adına sağlık yardım belgesinin düzenlenebilmesi için;
+         a) Lise eğitimi için gidecek olanlardan, eğitim görülen okulun Türkiye’de lise
+seviyesinde olduğunu gösteren Millî Eğitim Bakanlığı veya Ülkemizin dış temsilciliklerinden
+alınacak belge,
+         b) Ön lisans, lisans veya yüksek lisans eğitimi için gidecek olanlardan;
+         - Yurt dışında üniversiteden kabul edildiğine dair belge,
+         - Öğrenim görülen üniversite/fakültenin ön lisans, lisans veya yüksek lisans
+seviyesinde olduğunu gösteren YÖK veya Ülkemizin dış temsilciliklerinden alınacak belge,
+         - Türkçe tercümesi ile birlikte okulun sömestr tarihlerini gösterir belge,
+         c) Erasmus kapsamında gidecek olanlardan;
+         -Türkiye'de okuduğu üniversiteden Erasmus kapsamında gittiğine dair yazı,
+         -Türkçe tercümesi ile birlikte okulun sömestr tarihlerini gösterir belge
+         istenecektir. Söz konusu belgeleri eksiksiz ibraz edenlere ilgili sağlık yardım hakkı
+formüleri düzenlenecektir.
+           6- Sağlık uygulaması bulunan sözleşmeli ülkelere geçici veya sürekli görevle
+gönderilecek kişilerin sağlık yardım hakkı SPAS’tan kontrol edilecek, sağlık yardım hakkının
+mevcut olması halinde (EK-3B) numaralı tablolarda belirtildiği şekilde formüler
+düzenlenecektir. 30 günden az prim ödeme gün sayısı bulunması nedeniyle SPAS'ta sağlık
+yardım hakkı açık olmayan kişilere belge düzenlenmeyecektir. Bu kişilerin 30 gün prim
+ödeme şartını talep tarihinden sonra yerine getirmeleri halinde sigortalı veya işverenin talebi
+üzerine SPAS'ta sağlık yardımının açıldığı gün itibariyle belge düzenlenecektir.
+
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                    Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                3/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        Ayrıca, geçici veya sürekli görev süresinin uzaması nedeniyle sağlık yardım hakkı
+formüleri talep edilmesi halinde yeni düzenlenecek formüler, uzayan görev süresinin
+başlangıç tarihi itibariyle düzenlenecektir.
+        7- 5510 sayılı Kanunun 4/1-(b) kapsamındaki sigortalılar ile bakmakla yükümlü
+oldukları kişiler adına formüler düzenlenebilmesi için, talep tarihinden önceki ay dahil olmak
+üzere prim ve prime ilişkin her türlü borcun ödenmiş olması gerekmektedir. 4/1-(b) güvence
+programında sigortalı bilgiler ekranından yapılacak sorgulama sonucunda borcun
+olmadığının tespiti halinde talep edilen formüler düzenlenecek, borcun olduğunun tespiti
+durumunda ise formüler düzenlenmeyecektir. Ancak, borcu tespit edilen sigortalının, borcunu
+ödemesi ve borcun ödendiğinin Kurum kayıtlarından tespit edilmesi halinde ilgili sağlık
+yardım formüleri düzenlenecektir.
+        Bu kapsamdaki sigortalıların sözleşmeli ülkelerde;
+        - Geçici görevli olarak bulunmaları nedeniyle sağlık yardım formüleri talep etmeleri
+durumunda kendileri için her defasında en fazla ikişer aylık,
+        -Turistik amaçlı olarak bulunmaları nedeniyle sağlık yardım formüleri talep etmeleri
+durumunda kendilerine ve/veya bakmakla yükümlü aile bireylerine her defasında en fazla
+ikişer aylık
+        formüler düzenlenecektir.
+        Aylık/gelir sahipleri ve bunların bakmakla yükümlü aile bireylerine sözleşmeli
+ülkelerde turistik amaçlı olarak bulunmaları nedeniyle sağlık yardım formüleri talep etmeleri
+durumunda Almanya hariç diğer ülkeler için en fazla üçer aylık, Almanya için ise en fazla
+183 gün (6 ay) için ilgili formüler düzenlenecektir.
+        8- 13/7/2018 tarihinde yayımlanan E.7895136 sayılı Genel Yazının 3 üncü
+maddesinde, “aktif sigortalılar için sağlık yardım hakkı belgesinin, sigortalının priminin
+ödendiği sosyal güvenlik il müdürlüğü (SGİM)/sosyal güvenlik merkezince (SGM)
+düzenleneceği, ancak sigortalının ikamet yeri ile primlerinin ödendiği ilin farklı olması
+halinde söz konusu belgenin primlerin ödendiği ünite ile irtibata geçilerek ikamet edilen
+ildeki birimlerce de düzenleneceği” belirtilmiştir. Sigortalının bakmakla yükümlü aile
+bireyinin ikamet yeri ile sigortalının primlerinin ödendiği ilin farklı olması halinde de aynı
+şekilde işlem yapılacaktır.
+        9- Tedavilerine devam edilmek üzere sözleşmeli ülkelere gidecekler için ilgili
+formüler, (A/T 12, TR/A 3-A v.b) Emeklilik Hizmetleri Genel Müdürlüğü (EHGM) Yurtdışı
+Sözleşmeler ve Emeklilik Daire Başkanlığından alınacak talimata istinaden düzenlenecektir.
+Talimat olmadan söz konusu formülerler kesinlikle düzenlenmeyecektir.
+        10- 5510 sayılı Kanunun 4/1-(a) bendi kapsamındaki aylık/gelir sahiplerinin ve
+bunların bakmakla yükümlü aile bireylerinin Hollanda ve Fransa’ya turistik amaçlı gitmeleri
+nedeniyle sağlık yardımı formüleri talep etmeleri durumunda, bu kapsamdaki kişilerin turistik
+amaçlı seyahatlerinde sağlık yardımlarının karşılanması söz konusu sözleşme hükümlerine
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                   Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                               4/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+göre mümkün olmadığından, ilgililer adına formüler düzenlenmeyecektir. Ancak bu kişilerin
+daimi ikamet etmeleri nedeniyle formüler talebinde bulunmaları halinde ilgili formüler bu
+bölümün 2 ve 4 üncü maddelerinde yapılan açıklamalar esas alınarak düzenlenecektir.
+        11- Almanya harici sözleşmeli ülkelerin hesaplaşma işlemleri bu ülkelerin Kurum
+Sigortalıları Sağlık Sistemine (KUSAS) entegrasyonu tamamlanıncaya kadar EHGM
+tarafından yapılmaya devam edileceğinden, söz konusu ülkelerde bulunanlar ve ikamet
+edenler için düzenlenen sağlık yardım formülerinin bir nüshasının EHGM'ye gönderilmesine
+devam edilecektir.
+        12- Kurum mevzuatına göre sağlık yardımlarına müstahak olan sigortalı ya da aile
+bireylerinin turistik amaçla Almanya, Avusturya, Belçika, Hollanda, Çekya, Karadağ ve
+Sırbistan’da bulundukları sırada görmüş oldukları ve kendilerince karşılanan sağlık
+yardımlarına ilişkin masrafların iadesi yönünde Kuruma talepte bulunmaları halinde, söz
+konusu masraf tutarları tedavi görülen ülkelerin yetkili kurumunca belirlenecek ücretler
+üzerinden ilgililere ödenecektir.
+        İlgililere ödeme yapılıp yapılmayacağının belirlenebilmesi için;
+        - Sözleşmeli ülkede sağlık yardımı alındığı sürelerde Kurumdan sağlık yardım hakkı
+olup olmadığının SPAS üzerinden kontrol edilmesi,
+        - Sağlık yardım hakkının olduğunun tespit edilmesi durumunda görülen tedavinin
+SUT hükümlerine göre acil hal kapsamında olup olmadığının ilgili SGİM/SGM tarafından
+bağlı olduğu sağlık sosyal güvenlik merkezine tespit ettirilmesi,
+        - Acil hal kapsamında sağlık yardımı yapıldığının tespit edilmesi durumunda ilgili
+formülerle tedavi görülen ülke sigorta kurumundan tedavi karşılığı ödenecek tutarın
+sorulması
+        gerekmektedir.
+        Sağlık yardımına ilişkin raporlar ve masraf faturaları da eklenecek ilgili formüler 3
+nüsha olarak düzenlenip onaylandıktan sonra iki nüshası sözleşmeli ülkede tedavi olunan
+bölgedeki sigorta kurumu/hastalık kasasına, bunun tespit edilememesi halinde ise sözleşmeli
+ülkenin irtibat kurumuna gönderilecektir.
+        Ödenecek meblağın ilgili ülke kurumunca bildirilmesine müteakip söz konusu meblağ
+Genel Sağlık Sigortası Uygulamaları Yönetmeliğinin 30 uncu maddesi hükümleri
+doğrultusunda, ödemenin yapılacağı tarihteki T.C. Merkez Bankası döviz satış kuru esas
+alınarak Türk Lirası üzerinden ilgililere ödenecektir.
+        Görülen tedavinin SUT hükümlerine göre acil hal kapsamında olmadığının tespiti
+durumunda masraf iadesi talepleri reddedilerek bu durum ilgililere yazı ile bildirilecektir.
+
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                   Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                               5/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+          B- Yurt Dışı Provizyon Aktivasyon Sağlık Sistemi (YUPASS) İşlemleri
+          Sağlık uygulaması bulunan sözleşmeli ülke sigortalıları ve/veya aylık sahipleri ile
+bunların bakmakla yükümlü aile bireyleri ile ilgili olarak tespit edilen tereddütlü hususlarla
+ilgili iş ve işlemler aşağıda belirtildiği şekilde gerçekleştirilecektir.
+          1- Sözleşmeli ülke adına sağlık yardım hakkına sahip kişiler için YUPASS’a aynı
+anda hem turistik amaçlı bulunmalara ait formüler (T/A 11 ve A/TR 3 vb.) hem de tedavi
+amaçlı gönderilmeye ait formüler (T/A 12 ve A/TR 3-A vb.) kayıt edilebilmektedir. Bu
+durumda öncelikli olarak tedavi amaçlı formülerden sağlık yardımı alınabilmesini teminen
+YUPASS “Diğer İşlemler” menüsü altında bulunan “YUPASS Bilgileri Gönder” ekranından
+YUPASS numarası ile mutlaka YUPASS güncellemesi yapılarak tedavi amaçlı sağlık
+yardımı formüleri üzerinden sağlık yardımı alınması sağlanacaktır.
+           2- YUPASS’ta kayıtlı Almanya, Avusturya, Belçika, Fransa ve Hollanda adına daimi
+ikamet formüleri ile sağlık yardımlarından faydalanan kişilerin, ikametlerini bir başka ile
+taşımaları durumunda YUPASS'taki sağlık yardım hakları sonlandırılmayacak ve bu
+ülkelerden de sağlık yardımları sonlandırma formüleri istenilmeyecektir. Yeni ikamet edilen
+ildeki hak sahibi kişilerin sağlık yardımlarına ilişkin tüm talepleri, sağlık yardım hakkı
+formülerini YUPASS’a kayıt eden SGİM/SGM ile irtibata geçilerek yeni ikamet edilen ildeki
+birimce sonuçlandırılacaktır.
+          3- Ülkemizin taraf olduğu sosyal güvenlik sözleşmeleri hükümleri gereğince sağlık
+yardımlarına müstahak olanlar ile bunların bakmakla yükümlü olduğu kişilerden Ülkemizde
+ikamet edenlerden sağlık yardım masrafları götürü usulde gerçekleştirilenlerin bakmakla
+yükümlü olduğu kişilerin (aile bireyi) belirlenmesinde bazı sözleşmelerde Kurum mevzuatı
+esas alınmaktadır. Bakmakla yükümlü aile bireylerinin hangi ülke mevzuatına göre
+belirlendiği (EK-4) numaralı tabloda belirtilmiştir.
+          Sözleşmeli ülkeler adına sağlık yardımı alacaklardan Kurum mevzuatına göre
+bakmakla yükümlü olacakların belirlenmesinde 7/9/2017 tarihli ve 2017/26 sayılı Genelge
+hükümleri esas alınacaktır.
+          4- Ülkemizde daimi ikamet eden YUPASS’ta kayıtlı sözleşmeli ülke sigortalılarının
+bakmakla yükümlü aile bireyleri ile gelir/aylık sahipleri ve bunların bakmakla yükümlü aile
+bireyleri için sözleşmeli ülke sigorta kurumları/hastalık kasalarınca sağlık yardım hakkı
+sonlandırma formülerinin (T/A 9/1, 21/1 veya TUR/N 108 vb.) Kuruma intikalinde ivedilikle
+ilgili kişilerin sağlık yardım hakları YUPASS Kullanma Kılavuzunda belirtildiği şekilde
+sonlandırılacaktır. YUPASS dışındaki ülkelerden sonlandırma formüleri intikal ettiğinde ise
+“Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi” ile sağlık yardımlarından
+faydalanan kişiler ile derhal iletişime geçilerek söz konusu belgenin iptali sağlanacaktır. İptal
+işlemi gerçekleştirildikten sonra sağlık yardımı sonlandırma formülerinin ilgili bölümü
+doldurulup onaylandıktan sonra bir nüshası sözleşmeli ülkelere iade edilecektir.
+
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                     Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                 6/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+           5- Sosyal güvenlik sözleşmelerinde öngörülen sağlık yardım hakkı formüleri
+olmadan veya Kuruma ibraz edilmeden Ülkemizde kendi imkanları ile tedavi olarak
+sözleşmeli ülke sigorta Kurumlarına müracaat ederek masraf iadesi talebinde bulunan kişiler
+için ilgili ülke kurumlarınca tedavi olunan ildeki SGİM/SGM'lere gönderilen masraf iade
+bildirim formüleri (T/A 26, A/TR 9, BE/TR 126, N/TUR 126, CZ/TR 126, MNE/TR 126 ve
+SRB/TR 126 ) ile eki faturalar ve/veya belgeler, talebi alan ünite tarafından bağlı bulunulan
+sağlık sosyal güvenlik merkezine gönderilecektir. Söz konusu masraf iade bildirim formüleri
+sözleşmeli ülkelerin sigorta kurumları/hastalık kasalarınca formüler ekindeki masraf faturası
+bedellerinin ilgililere iadesine karar verilmiş olarak gönderildiğinden, sağlık sosyal güvenlik
+merkezlerince görülen tedavinin acil olup olmadığı araştırılmadan ve tedavinin anlaşmalı
+sağlık hizmeti sunucusu tarafından sağlanıp sağlanmadığının kontrolü yapılmadan belgelerde
+kayıtlı sağlık yardımlarının Sağlık Uygulama Tebliğinde (SUT) belirtilen fiyat karşılıkları
+ilgili üniteye bildirilecektir. Bildirilen tutarlar ilgili yurt dışı işlemleri servisince Kuruma
+gönderilen masraf iade bildirim formülerinin ilgili alanına yazılacak ve imzalanıp
+onaylandıktan sonra ilgili ülke sigorta kurumuna/hastalık kasasına iade edilecektir.
+
+        C- Diğer İşlemler
+        KUSAS ve YUPASS'ta gerçekleştirilen diğer iş ve işlemler aşağıdaki açıklamalar
+doğrultusunda yürütülecektir.
+        1- Kişiler adına düzenlenen sağlık yardım formüleri;
+        - YUPASS ve KUSAS’ta işlem gören ülkeler için bu programların tescil aşamasında
+ürettiği sicil/dosya numarasıyla,
+        - YUPASS dışındaki ülkeler için sigortalılar adına üretilecek manuel numara ile,
+        - KUSAS dışındaki ülkeler için T.C. Kimlik numarası, sigorta veya tahsis numarasıyla
+ ülke bazında dosya açılarak klase edilecektir.
+        2- Kurumumuzdan dul/yetim aylığı alanlardan aynı zamanda sağlık uygulamalarını
+içeren sözleşmeli ülkeden de kendi çalışmalarından dolayı gelir/aylık alanların sağlık
+yardımları; Ülkemizde daimi ikamet edenler için Kurumumuz tarafından, akit ülkede daimi
+ikamet edenler için ise akit ülke tarafından sağlanacaktır. ( 25/12/2020 tarih, 16805202 sayı
+ile yayımlanan Genel Yazı ile önceki madde kaldırılarak yerine bu madde eklenmiştir.
+        3- 16/8/2012 tarihli ve 14672495 sayılı “İkametleri yurtdışı olanlar ile yurtdışından
+sağlık yardımı alanlar” konulu Toplu Talimatta yurt dışında ikamet eden veya yabancı
+ülkeden sağlık yardımlarından yararlanma hakkı olan kişilerin genel sağlık sigortası
+kapsamına dahil edilmeyeceği, bu kapsamda olan kişilerin 5510 sayılı Kanunun 60 ıncı
+maddesi kapsamında genel sağlık sigortası tescillerinin yapılmasının veya genel sağlık
+sigortasının bakmakla yükümlü olunan kişi olarak sağlık yardımlarından faydalanmalarının
+engellenmesi amacıyla “Kapsam Dışı Sigortalı İşlemleri Yurt Dışı Uygulaması” programının
+işletime açıldığı belirtilmiş ve bu amaçla SGİM/SGM'lerce yapılması gereken hususlar
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                     Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                 7/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+talimatlandırılmıştır.
+        Buna göre;
+        - Sağlık uygulamalarını kapsayan sosyal güvenlik sözleşmesi imzalanan ülkelerde
+ikamet eden ya da bu ülkelerden sağlık yardım hakkını elde etmiş kişiler yurt dışı işlemleri
+servislerince,
+        - Sağlık uygulaması olmayan sözleşmeli ülkeler ile sözleşmesiz ülkelerde ikamet eden
+ya da bu ülkelerden sağlık yardım hakkını elde etmiş kişiler ise GSS servisi veya sağlık
+aktivasyon servislerince
+        "Kapsam Dışı Sigortalı İşlemleri Yurt Dışı Uygulaması" programına kayıt edilerek,
+genel sağlık sigortalısı veya genel sağlık sigortalısının bakmakla yükümlü aile bireyi olmaları
+önlenecektir.
+        4- Gerek sosyal güvenlik sözleşmelerine gerekse borçlanılan yurt dışı sürelerine
+istinaden Kurumca gelir/aylık bağlananların haksız yere sağlık yardımlarından
+yararlanmalarını engellemek amacıyla SPAS’a kapalı kayıt atılmakta ve ilgililerin
+müracaatları sonrasında sağlık yardımları, 27/3/2012 tarihli ve 5937370 sayılı ve 24/12/2018
+tarihli E.17585756 sayılı genel yazılar esas alınarak 7/9/2017 tarihli ve 2017/26 sayılı
+Genelgenin 6.1.1. maddesinde açıklanan birimler tarafından açılmakta idi. Sosyal güvenlik
+sözleşmelerine veya borçlanılan yurt dışı sürelerine istinaden gelir/aylık bağlananların
+SPAS’a aylık bağlanması aşamasında kayıt düşülebilmesini teminen Emektar 4A ilk ve ikinci
+karar ekranlarında düzenleme yapılmıştır.
+        Buna göre, Emektar 4A ilk veya ikinci karar ekranlarında aylık bağlama aşamasında
+aylığı bağlayan kullanıcı öncelikle aylık bağlamaya esas hizmetlerin geçtiği ülkenin, sağlık
+uygulamaları olan sosyal güvenlik sözleşmesi imzalanan ülke olup olmadığının kontrolünü
+yapacaktır. Bu ülkelerden olmadığının tespit edilmesi durumunda, ilgilinin MERNİS
+kayıtlarında ikamet adresinin Türkiye olması halinde ilgili ekranlardaki "SPAS açılsın mı?"
+butonundan, "Evet" seçilerek sağlık yardımlarından yararlanması sağlanacaktır. İlgilinin
+MERNİS kayıtlarındaki adresinin yurt dışı olduğunun tespiti halinde ise aynı butondan bu
+defa "Hayır" seçilerek sağlık yardımı alması engellenecektir.
+          Aylık bağlamaya esas ülkenin sağlık uygulaması olan sözleşmeli ülke olduğunun
+tespit edilmesi durumunda ise "SPAS açılsın mı?" butonundan "Hayır" seçilerek ilgililerin
+sağlık yardımı alması engellenecektir.
+          Bu şekilde sağlık yardımı kapalı olarak SPAS'a kayıt atılanların, Kanunun 60 ıncı
+maddesinin birinci fıkrasının (g) bendi kapsamında GSS tescili yapılmasının önlenmesi için
+“Kapsam Dışı Sigortalı İşlemleri Yurt Dışı Uygulaması” programına gerekli girişler; aylık
+bağlamaya esas ülkenin, Ülkemizin sosyal güvenlik sözleşmesi imzalamadığı veya sağlık
+uygulamaları olmayan sözleşmeli ülke olması durumunda GSS veya sağlık aktivasyon
+servislerince, sağlık uygulaması olan sözleşmeli ülke olması halinde ise yurt dışı işlemleri
+servisince yapılacaktır.
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                    Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                8/9
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+       SPAS’ta sağlık yardımları kapalı olarak gelen kişilerin müracaat ederek sağlık
+aktivasyonlarının açılmasını talep etmeleri halinde, 27/3/2012 tarihli ve 5937370 sayılı,
+24/12/2018 tarihli ve E.17585756 sayılı genel yazılar esas alınarak, aylık bağlamaya esas
+ülkenin, Ülkemizin sosyal güvenlik sözleşmesi imzalamadığı veya sağlık uygulamaları
+olmayan sözleşmeli ülke olması durumunda doğrudan, sağlık uygulaması olan sözleşmeli
+ülke olması halinde ise yurt dışı işlemleri servislerince verilecek onaya istinaden, GSS veya
+sağlık aktivasyon servislerince öncelikle bu kişilerin "Kapsam Dışı Sigortalı İşlemleri Yurt
+Dışı Uygulaması” programından çıkarılmasından sonra GSS, sağlık aktivasyon veya yurt dışı
+işlemleri servislerince talep sahibine doldurtularak onaylanan "Yurtdışı Birimlerince
+Bağlanan Aylık Sahiplerinin Sağlık Aktivasyon Talep Formu"na istinaden SPAS programı
+üzerinden sağlık aktivasyonların açılmasına yönelik işlemler gerçekleştirilecektir.
+       Ancak söz konusu işlemlerin SPAS programı üzerinden gerçekleştirilemediği
+durumlarda ise GSS, sağlık aktivasyon veya yurt dışı işlemleri servislerince talep sahibine
+doldurtularak onaylanan aktivasyon işlemleri EMEKTAR 4A programı içerisinde yer alan
+SPAS menüsünden gerçekleştirilecektir.
+         5- 7/9/2017 tarihli ve 2017/26 sayılı Genelgenin “3.1.3. Öğrenci Belgesi” başlıklı
+bölümünde yurt dışında öğrenim gören öğrencilerin öğrenci belgelerinin yeminli tercüme
+bürolarınca yapılmış tercümelerinin de Kuruma verilmesi talimatlandırıldığı halde
+SGİM/SGM’lerce öğrencilerin ibraz ettiği öğrenci belgelerinin, tercümeleri ilgililerden
+istenmeden, tercüme için EHGM’ye gönderildiği tespit edilmiştir.
+        Söz konusu Genelge hükmüne göre öğrenci belgelerinin tercümelerinin de ilgililerce
+Kuruma ibraz edilmesi gerektiğinden bundan sonra öğrenci belgeleri tercüme için EHGM’ye
+gönderilmeyecektir.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+                                                                            İsmail ERTÜZÜN
+                                                                              Genel Müdür V.
+
+Ek: Tablolar (8 adet)
+Dağıtım:
+Gereği:                                                          Bilgi:
+Taşra Teşkilatı                                                  Merkez Teşkilatı
+
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                         Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                              Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                                                                          9/9
+

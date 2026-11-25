@@ -1,0 +1,458 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/202766
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2024/8
+ADI: TECİL İŞLEMLERİNE İLİŞKİN DEĞİŞİKLİKLERE İLİŞKİN 30/05/2024 TARİHLİ VE 2024/8 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 69b65edd6680e9914f5c382dbb2ddcdfc88483c78d445664c4bf9deffc6c44e6
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                       T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-70660756-206.16.01-96087504                                                                                        30.05.2024
+Konu : Tecil İşlemlerine İlişkin Değişiklikler
+
+
+
+                                                              GENELGE
+                                                               2024/8
+
+        Yönetim Kurulunun 30.05.2024 tarihli ve 2024/164 sayılı kararıyla Sosyal Güvenlik Kurumu
+Alacaklarının 6183 Sayılı Kanunun 48 inci Maddesine Göre Tecil ve Taksitlendirilmesinin Usul ve
+Esaslarında bazı değişiklikler yapılmış olup söz konusu değişikliklere ilişkin iş ve işlemler, aşağıda
+açıklanan şekilde yürütülecektir.
+        1. Çok zor durum incelemesi ve tecil süresi
+        1.1. Borç türü bazında 500.000 TL’nin üzerinde borcu olanlar için çok zor durum tespiti
+        Tecil talebinde bulunan borçluların çok zor durumda olup olmadıkları, aşağıda belirtilen likidite
+oranlarına göre tespit edilecektir.
+        a) Bilanço esasına göre defter tutan borçlular için likidite oranı; “Dönen Varlıklar – Stoklar / Kısa
+Vadeli Yabancı Kaynaklar” formülüne göre hesaplanacaktır.
+        b) İşletme hesabı esasına göre defter tutan borçlular için likidite oranı; “Kasa + Banka + Kısa
+Vadeli Alacaklar / Kısa Vadeli Borçlar” formülüne göre hesaplanacaktır.
+        Çok zor durum tespiti, 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali
+Müşavirlik Kanununa göre ruhsat almış ve faaliyet belgesine sahip serbest muhasebeci mali müşavirler
+veya yeminli mali müşavirler tarafından ilgisine göre (a) veya (b) bendindeki likidite oranı formülüne
+göre tespit edilerek çok zor durum raporu (Ek-1/a) ile belgelendirilecektir.
+        Diğer taraftan, halka açık şirketler için çok zor durum tespiti, Sermaye Piyasası Kuruluna
+verdikleri en son bilanço esas alınarak (a) bendindeki likidite oranı formülüne göre Kurum tarafından
+yapılacaktır.
+        1.2. Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti
+        Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti, mali durum
+bildirim formu (Ek-1/b) ile beyan edecekleri bilgiler esas alınarak likidite oranı (Kasa + Banka + Kısa
+Vadeli Alacaklar / Kısa Vadeli Borçlar) formülüne göre Kurum tarafından yapılacaktır.
+        1.3. Likidite oranı ve tecil süresi
+        Likidite oranının; "1,00" ve altında olması halinde bu durum, borçlu açısından çok zor durum
+olarak kabul edilecek, "1,01" ve üzerinde olması halinde ise borçluların tecil talepleri reddedilecektir.
+        Likidite oranının "0,51" ila "1,00" aralığında olması halinde azami 18 aya kadar, "0,50" ve altında
+olması durumunda ise azami 36 aya kadar eşit taksitler halinde ödenmesini sağlayacak şekilde borçlar
+ödeme planına bağlanabilecektir. Bu süreler, azami tecil süreleri olup tecile yetkili makamlar tarafından
+daha az süreli tecil yapılabilecektir.
+        Likidite oranında, virgülden sonraki ilk iki rakam dikkate alınacak ve herhangi bir yuvarlama
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                        Bilgi için: Cevat ÇELİK
+Telefon No: 0 312 458 80 20 Faks No: 0 312 432 12 67                                                                   Sosyal Güv. Uzmanı
+e-Posta: icradairebaskanligi@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 80 20
+10                                                                1/3
+işlemi yapılmayacaktır.
+         1.4. Kamu kurum ve kuruluşları için çok zor durum tespiti
+         Kamu kurum ve kuruluşlarının beyanlarına göre çok zor durum tespiti, likidite oranı
+hesaplamasına bağlı kalınmaksızın değerlendirilecektir. Buna göre, belediyeler (şirketleri hariç) ile diğer
+kamu kurum ve kuruluşlarının tecil taleplerinde likidite oranı hesaplaması yapılmayacaktır.
+         1.5. Tüzel kişi üst düzey yöneticilerinin ve limited şirket ortaklarının sorumlu oldukları
+borçları için çok zor durum tespiti
+         Tüzel kişi üst düzey yöneticilerinin ve limited şirket ortaklarının sorumlu oldukları borçları için
+tecil talep etmeleri halinde çok zor durum tespiti; bu kişilerin tüzel kişi ile hukuki bağlarının devam edip
+etmemesine (üst düzey yöneticilerin görevden ayrılmaları ve limited şirket ortaklarının hisselerini
+devretmeleri) ve sorumlu oldukları borç miktarına bakılmaksızın mali durum bildirim formundaki
+kendilerine ait mali bilgiler esas alınarak Kurum tarafından likidite oranı (Kasa + Banka + Kısa Vadeli
+Alacaklar / Kısa Vadeli Borçlar) formülüne göre yapılacaktır.
+        1.6. 4/b sigortalılarının borçları için çok zor durum tespiti
+        4/b sigortalılarının, bu sigortalılıklarından kaynaklanan borçları için tecil talep etmeleri halinde
+çok zor durum tespiti, bu kişilerin Kurum ünitesine olan borç miktarına bakılmaksızın mali durum
+bildirim formundaki mali bilgiler esas alınarak Kurum tarafından likidite oranı (Kasa + Banka + Kısa
+Vadeli Alacaklar / Kısa Vadeli Borçlar) formülüne göre yapılacaktır.
+        1.7. Genelgenin "1.1" ve "1.2" maddelerinde belirtilen 500.000 TL tutarı, her yıl yeniden
+değerleme oranı kadar artırılır ve Sigorta Primleri Genel Müdürlüğü tarafından duyurulur.
+         2. İlk taksitin ödenmesi ve tecil işleminin başlaması
+         Tecil talep edilen borç tutarının ödeme planı bazında en az %10’u ilk taksit (peşinat) tutarı olarak
+belirlenecek, kalan borç diğer taksitlere eşit olarak bölünecektir. Tecil işlemi, belirlenen ilk taksit
+tutarının tamamının ödendiği tarihte başlayacaktır.
+        Tecil işleminde borcun eşit taksitlerle ödenmesi esastır. Ancak borçluların kademeli ödeme
+planında ısrar etmesi ve ünitenin borçlunun taksitlerini eşit olarak ödeyemeyecek durumda olduğuna
+kanaat getirmesi hâlinde ilk taksit olarak tecil talep edilen borç tutarının ödeme planı bazında en az
+%10’u olmak şartıyla sonraki beş taksit, eşit taksitlere bölünmüş ödeme planındaki taksit tutarının
+%50’sinden az olmamak kaydıyla kademeli olarak tecil edilebilecektir.
+        3. Cari ay primlerinin ödenmemesi
+         Borçluların carî aylara ilişkin ödeme yükümlülüklerini bir takvim yılı içinde üç defa yerine
+getirmemeleri halinde tecil işlemi bozulacaktır. Ancak bir takvim yılında en fazla iki aya ait ödenmeyen
+ya da eksik ödenen cari ay borçlarının tecil süresi aşılmamak kaydıyla en geç izleyen takvim yılının
+sonuna kadar ödenmesi halinde borçlunun tecil işlemi bozulmayacaktır.
+         Ünitedeki (icra takip işlemleri bu ünitede yürütülen diğer sosyal güvenlik merkezleri dâhil)
+sadece tecile dâhil edilen işyerlerinden kaynaklanan primler cari ay yönünden değerlendirilecektir.
+        4. Mücbir sebep kapsamında ertelenen borçların tecili
+        Mücbir Sebep Kapsamında Ertelenen Sosyal Güvenlik Kurumu Alacaklarının 6183 sayılı
+Kanunun 48 inci Maddesine Göre Tecil ve Taksitlendirilmesinin Usul ve Esaslarının 6 ncı maddesinin
+birinci fıkrasında geçen “veya ertelemenin bitim tarihinden itibaren 3 ay içinde” ibaresi kaldırılmıştır.
+        Buna göre, 6183 sayılı Kanunun 48 inci maddesinin altıncı fıkrasından yararlanmak isteyen
+borçluların, erteleme süresi bitmeden dosyalarının işlem gördüğü üniteye başvurmaları gerekmektedir.
+        5. Yürürlükten kaldırılan hususlar
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                        Bilgi için: Cevat ÇELİK
+Telefon No: 0 312 458 80 20 Faks No: 0 312 432 12 67                                                                   Sosyal Güv. Uzmanı
+e-Posta: icradairebaskanligi@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 80 20
+10                                                                2/3
+        2011/53 ve 2013/14 sayılı Genelgelerin bu Genelgeye aykırı olan hükümleri ile 29.12.2023 tarihli
+ve 87205264 sayılı Genel Yazının 2 nci maddesi yürürlükten kaldırılmıştır.
+        6. Yürürlük
+        Bu Genelge ile getirilen yeni düzenlemeler, Genelgenin yürürlük tarihinden sonra yapılacak tecil
+taleplerine uygulanacaktır. Bu Genelgenin yürürlük tarihinden önce alınıp da karara bağlanmamış tecil
+talepleri ile bu tarih itibarıyla devam eden (sonuçlandırılmış) tecil işlemlerine bu Genelge ile getirilen
+değişiklikler uygulanmayacaktır.
+        Bilgilerini ve gereğini rica ederim.
+
+
+
+
+                                                                                                        İsmail ERTÜZÜN
+                                                                                                         Kurum Başkan V.
+
+
+
+
+DAĞITIM :
+Gereği :                                                                          Bilgi :
+Sosyal Güvenlik İl Müdürlükleri                                                   Sosyal Güvenlik Kurumu Merkez Teşkilatı
+
+
+
+
+EKLER:
+ 1- Tecil talep formu (2 sayfa)
+ 2- Çok zor durum raporu (2 sayfa)
+ 3- Mali durum bildirim formu (2 sayfa)
+
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                        Bilgi için: Cevat ÇELİK
+Telefon No: 0 312 458 80 20 Faks No: 0 312 432 12 67                                                                   Sosyal Güv. Uzmanı
+e-Posta: icradairebaskanligi@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 80 20
+10                                                                3/3
+                                                                                                    Ek-1
+                        6183 SAYILI KANUNUN 48. MADDESİ KAPSAMINDA
+                                     TECİL TALEP FORMU
+
+                                          T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          ……………………. Sosyal Güvenlik İl Müdürlüğüne
+                          ……………………………. Sosyal Güvenlik Merkezine
+
+
+        Müdürlüğünüze/ Merkezinize …../…../….. tarihi itibarıyla toplam ………………………………... TL
+borcum bulunmaktadır.
+        Mali durumumun söz konusu borcu defaten ödemeye uygun olmaması nedeniyle bu borcumun 6183
+sayılı Kanunun 48’inci maddesi kapsamında taksitler halinde ödenmek üzere …… ay süre ile ödeme planına
+bağlanmasını talep ediyorum.
+        .../.../.... tarihinde ilk taksit (peşinat) olarak …………..………... TL’yi bankaya ödemiş
+bulunmaktayım.
+        Tecil şartlarının ihlal edilmesi halinde gösterdiğim teminatın nakde çevrilerek tecile konu bakiye
+borcumun tahsilini kabul ediyorum.
+        Tecil talebimin değerlendirilerek gerekli işlemlerin yapılmasını arz ederim.
+
+
+                                                                                               …./…./….
+                                                                       Adı Soyadı:
+                                                                          Ünvanı:
+                                                                       İmza, Kaşe:
+
+
+
+EKLER:
+1- Makbuz
+2- Mali durum bildirim formu / Çok zor durum raporu
+3- Bilanço
+4- Teminatın değer tespit raporu
+
+
+                                      BORÇLUYA AİT BİLGİLER
+ TCK No/Vergi Kimlik No
+ Adı Soyadı / Ünvanı
+ İşyeri/ Sigorta Numarası
+ Vergi Dairesi
+ Ticaret Sicil No
+ İşyeri Adresi
+ İşyeri Telefon No, Faks No
+ E-posta Adresi
+ İkametgâh Adresi
+ GSM Telefon No
+
+
+
+
+                                                                                                      1/2
+         ÇOK ZOR DURUM
+         1.1. Borç türü bazında 500.000 TL’nin üzerinde borcu olanlar için çok zor durum tespiti
+         Tecil talebinde bulunan borçluların çok zor durumda olup olmadıkları, aşağıda belirtilen likidite oranlarına göre
+tespit edilecektir.
+         a) Bilanço esasına göre defter tutan borçlular için likidite oranı; “Dönen Varlıklar – Stoklar / Kısa Vadeli
+Yabancı Kaynaklar” formülüne göre hesaplanacaktır.
+          b) İşletme hesabı esasına göre defter tutan borçlular için likidite oranı; “Kasa + Banka + Kısa Vadeli Alacaklar
+/ Kısa Vadeli Borçlar” formülüne göre hesaplanacaktır.
+         Çok zor durum tespiti, 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa
+göre ruhsat almış ve faaliyet belgesine sahip serbest muhasebeci mali müşavirler veya yeminli mali müşavirler
+tarafından ilgisine göre (a) veya (b) bendindeki likidite oranı formülüne göre tespit edilerek çok zor durum raporu (Ek-
+1/a) ile belgelendirilecektir.
+         Diğer taraftan, halka açık şirketler için çok zor durum tespiti, Sermaye Piyasası Kuruluna verdikleri en son
+bilanço esas alınarak (a) bendindeki likidite oranı formülüne göre Kurum tarafından yapılacaktır.
+         1.2. Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti
+         Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti, mali durum bildirim formu
+ile beyan edecekleri bilgiler esas alınarak likidite oranı (Kasa + Banka + Kısa Vadeli Alacaklar / Kısa Vadeli Borçlar)
+formülüne göre Kurum tarafından yapılacaktır.
+         1.3. Likidite oranı ve tecil süresi
+         Likidite oranının; "1,00" ve altında olması halinde bu durum, borçlu açısından çok zor durum olarak kabul
+edilecek, "1,01" ve üzerinde olması halinde ise borçluların tecil talepleri reddedilecektir.
+         Likidite oranının "0,51" ila "1,00" aralığında olması halinde azami 18 aya kadar, "0,50" ve altında olması
+durumunda ise azami 36 aya kadar eşit taksitler halinde ödenmesini sağlayacak şekilde borçlar ödeme planına
+bağlanabilecektir. Bu süreler, azami tecil süreleri olup tecile yetkili makamlar tarafından daha az süreli tecil
+yapılabilecektir.
+         Likidite oranında, virgülden sonraki ilk iki rakamı dikkate alınacak ve herhangi bir yuvarlama işlemi
+yapılmayacaktır.
+
+         Tecil işlemlerinde teminat olarak gösterilen taşınır ve taşınmazların değer tespitlerinin yapılması
+         A) Tecil işlemlerinde teminat olarak taşınmaz gösterilmiş ise değer tespitlerinde;
+         1) Sermaye piyasası mevzuatı çerçevesinde yetkilendirilmiş değerleme uzmanları veya değerleme şirketleri
+tarafından düzenlenen raporlar,
+         2) Ticaret, Sanayi ve Deniz Ticaret Odaları ile Türk Mühendis ve Mimar Odaları veya bunların bağlı olduğu
+birlik yönetimlerince bilirkişilik, eksperlik ve hakemlik yapma yetkisi verilenler tarafından düzenlenen raporlar,
+         3) Bankalar ve sigorta şirketleri tarafından yaptırılan değer tespit raporları,
+         4) Mahkemeler veya icra daireleri tarafından yaptırılan değer tespit raporları,
+         5) Kurum teknik personeli tarafından düzenlenen raporlar
+         esas alınır.
+         B) Yukarıdaki 1'inci, 2'nci ve 3'üncü sırada sayılan raporları düzenleyen kişilerin yetki veya ruhsat belgelerinin,
+4'üncü sırada sayılan raporları düzenleyen kişilerin ise görevlendirme yazılarının rapora eklenmesi zorunludur.
+         C) Gösterilen teminat taşınır ise öncelikle sosyal güvenlik il müdürlüğünde/sosyal güvenlik merkezinde görev
+yapan icra memuru tarafından değer tespiti yapılır. Taşınırın niteliğine göre ilgili servis veya ünite amiri tarafından
+gerek görülmesi halinde bilirkişilere değer biçtirilir ya da ilgili meslek ve esnaf odalarından görüş alınır veya emsal
+malların piyasa araştırması yaptırılır.
+         D) Kurum alacaklarına karşılık öncelikle, üzerinde başka idareler ile gerçek veya tüzel kişilerin haciz, ipotek,
+rehin gibi kısıtlayıcı takyidatı bulunmayan ve satış kabiliyeti olan mallar teminat olarak alınır.
+
+
+
+
+                                                                                                                        2/2
+                                                                                                             Ek-1/a
+Tarih:
+Sayı:
+                        6183 SAYILI KANUNUN 48. MADDESİ KAPSAMINDA
+                                   ÇOK ZOR DURUM RAPORU
+               (Serbest Muhasebeci Mali Müşavir veya Yeminli Mali Müşavir Tarafından Düzenlenecektir )
+
+                                          T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                         …………………………. Sosyal Güvenlik İl Müdürlüğüne
+                         ………………………………. Sosyal Güvenlik Merkezine
+
+        6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48’inci maddesi kapsamında
+borçlarının tecili için başvuruda bulunan aşağıda adı geçen borçlunun …../…../….. tarihli bilançosuna göre
+tarafımdan tespit edilen likidite oranının (..……) olduğunu kabul eder, rapor muhteviyatının borçlunun işyeri
+defter ve belgelerine uygun olmadığının anlaşılması halinde, hakkımda Türk Ceza Kanunu ve 3568 sayılı
+Kanunun ilgili hükümlerine göre işlem yapılmasını kabul ve taahhüt ederim.
+
+                                                                                        Adı Soyadı:
+                                                                                          Ünvanı:
+                                                                                        İmza, Kaşe:
+EKLER:
+1- Ruhsat Belgesi
+2- Faaliyet Belgesi
+3- Hesaplamalara Esas Bilanço
+                                         BORÇLUYA AİT BİLGİLER
+ TCK No/Vergi Kimlik No
+ Adı Soyadı / Ünvanı
+ İşyeri/ Sigorta Numarası
+ Vergi Dairesi
+ Ticaret Sicil No
+ İşyeri Adresi
+ İşyeri Telefon No, Faks No
+ E-posta Adresi
+ İkametgâh Adresi
+ GSM Telefon No
+
+                     RAPORU DÜZENLEYEN MESLEK MENSUBUNA AİT BİLGİLER
+ TCK No/Vergi Kimlik No
+ Adı Soyadı / Ünvanı
+ İşyeri Sicil Numarası
+ Vergi Dairesi
+ Kayıtlı Olduğu Oda
+ İşyeri Adresi
+ Telefon/Faks/GSM No
+ E-posta Adresi
+
+Bilanço esasına göre defter tutan borçlular için mali durumu gösterir değerler:
+                                                                      Kısa Vadeli Yabancı                Likidite
+      Dönen Varlıklar                       Stoklar
+                                                                           Kaynaklar                      Oranı
+
+
+İşletme hesabı esasına göre defter tutan borçlular için mali durumu gösterir değerler:
+      Kasa               Banka                Kısa Vadeli Alacaklar          Kısa Vadeli Borçlar
+                                                                                                           Likidite
+                                            (Ticari Alacaklar + Diğer Alacaklar)                            Oranı
+
+
+
+                                                                                                                    1/2
+         ÇOK ZOR DURUM
+         1.1. Borç türü bazında 500.000 TL’nin üzerinde borcu olanlar için çok zor durum tespiti
+         Tecil talebinde bulunan borçluların çok zor durumda olup olmadıkları, aşağıda belirtilen likidite oranlarına göre
+tespit edilecektir.
+         a) Bilanço esasına göre defter tutan borçlular için likidite oranı; “Dönen Varlıklar – Stoklar / Kısa Vadeli
+Yabancı Kaynaklar” formülüne göre hesaplanacaktır.
+          b) İşletme hesabı esasına göre defter tutan borçlular için likidite oranı; “Kasa + Banka + Kısa Vadeli Alacaklar
+/ Kısa Vadeli Borçlar” formülüne göre hesaplanacaktır.
+         Çok zor durum tespiti, 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa
+göre ruhsat almış ve faaliyet belgesine sahip serbest muhasebeci mali müşavirler veya yeminli mali müşavirler
+tarafından ilgisine göre (a) veya (b) bendindeki likidite oranı formülüne göre tespit edilerek çok zor durum raporu (Ek-
+1/a) ile belgelendirilecektir.
+         Diğer taraftan, halka açık şirketler için çok zor durum tespiti, Sermaye Piyasası Kuruluna verdikleri en son
+bilanço esas alınarak (a) bendindeki likidite oranı formülüne göre Kurum tarafından yapılacaktır.
+         1.2. Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti
+         Borç türü bazında 500.000 TL'yi aşmayan borcu olanlar için çok zor durum tespiti, mali durum bildirim formu
+ile beyan edecekleri bilgiler esas alınarak likidite oranı (Kasa + Banka + Kısa Vadeli Alacaklar / Kısa Vadeli Borçlar)
+formülüne göre Kurum tarafından yapılacaktır.
+         1.3. Likidite oranı ve tecil süresi
+         Likidite oranının; "1,00" ve altında olması halinde bu durum, borçlu açısından çok zor durum olarak kabul
+edilecek, "1,01" ve üzerinde olması halinde ise borçluların tecil talepleri reddedilecektir.
+         Likidite oranının "0,51" ila "1,00" aralığında olması halinde azami 18 aya kadar, "0,50" ve altında olması
+durumunda ise azami 36 aya kadar eşit taksitler halinde ödenmesini sağlayacak şekilde borçlar ödeme planına
+bağlanabilecektir. Bu süreler, azami tecil süreleri olup tecile yetkili makamlar tarafından daha az süreli tecil
+yapılabilecektir.
+         Likidite oranında, virgülden sonraki ilk iki rakamı dikkate alınacak ve herhangi bir yuvarlama işlemi
+yapılmayacaktır.
+
+
+
+
+                                                                                                                      1/2
+                                                                                                                 Ek-1/b
+                                      MALİ DURUM BİLDİRİM FORMU
+
+                                            T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           …………………………. Sosyal Güvenlik İl Müdürlüğüne
+                           ………………………………. Sosyal Güvenlik Merkezine
+
+        Müdürlüğünüzde/ Merkezinizde işlem gören ……..…………… nolu işyerimden /sigortalılığımdan
+kaynaklanan ve ...../..…/…… tarihi itibarıyla gecikme cezası ve zammı dahil toplam …….…………… TL
+tutarındaki borcumun 6183 sayılı Kanunun 48’inci maddesi kapsamında tecili için .…./…../.…. tarihi
+itibarıyla mali durumumun tespitine ilişkin bilgiler aşağıda belirtilmiştir.
+        Beyan ettiğim bilgilerin doğru olduğunu kabul ve taahhüt ederim.
+
+                                                                                                              …./…./….
+                                                                                             Adı Soyadı:
+                                                                                               Ünvanı:
+                                                                                             İmza, Kaşe:
+
+                                            BORÇLUYA AİT BİLGİLER
+ TCK No/Vergi Kimlik No
+ Adı Soyadı / Ünvanı
+ İşyeri Sicil Numarası*
+ İşyeri Sicil Numarası*
+ Vergi Dairesi
+ Ticaret Sicil No
+ İşyeri Adresi
+ Telefon/Faks/GSM No
+ E-posta Adresi
+ İkametgâh Adresi
+
+
+
+                     …./…./…. Tarihi İtibarıyla Mali Durumu Gösterir Değerler (Toplam)**
+         Kasa                      Banka                   Kısa Vadeli Alacaklar                Kısa Vadeli Borçlar
+                                                      (Ticari Alacaklar + Diğer Alacaklar)
+
+
+
+1- Bu formun arka sayfasındaki açıklamalar eksiksiz olarak doldurulacaktır.
+2- Mali durum tespitine esas olmak üzere, formda belirtilen bilgilerin işyeri kayıt ve belgeleri ile uyumlu olup olmadığı
+konusunda Kurum denetim elemanları inceleme yapmaya yetkili olup beyan edilen bilgilerin doğru olmadığının
+anlaşılması halinde, borçlular bu tecil işleminden yararlanma hakkını kaybedeceklerdir.
+
+Not:
+(*) Bu bölüm, birden fazla işyeri olanlar tarafından doldurulacaktır.
+(**) Bu bölümde yer alan değerler toplam olarak belirtilecektir. Ayrıca, ayrıntılı bilgilere arka sayfadaki bölümlerde yer
+verilecektir.
+
+
+
+
+                                                                                                                      1/2
+      KISA VADELİ ALACAKLAR (TİCARİ ALACAKLAR + DİĞER ALACAKLAR) HAKKINDA BİLGİ
+     Borçlunun Adı           Alacağın Türü                      Ödeme Vadesi                    Toplam Tutarı (TL)
+
+
+
+
+                                   KISA VADELİ BORÇLAR HAKKINDA BİLGİ
+  Alacaklının Adı             Borcun Türü                       Ödeme Vadesi                    Toplam Tutarı (TL)
+
+
+
+
+                                                  BANKA BİLGİLERİ
+ Sıra                  Banka Şubesi                             Hesap Numarası                   Bakiye Tutarı (TL)
+ 1
+ 2
+ 3
+ 4
+ 5
+
+Açıklamalar
+KASA:
+Borçlunun Vergi Usul Kanunu gereği tutmak zorunda olduğu ticari defterlerine göre mevcut kasa yekunu veya deftere
+tabi değil ise …./…./……… tarihi itibarıyla beyan edeceği kasa yekununu ifade etmektedir. Deftere tabi olan
+borçlularda bu hesap, borçlunun elinde bulunan ulusal ve yabancı paraların TL karşılığının izlenmesi için kullanılır.
+Tahsil olunan para tutarları borç, ödemeler ve bankaya yatırılan para tutarları alacak kaydedilir. Hesap daima borç
+bakiyesi verir veya sıfır olur. Hiçbir şekilde alacak bakiyesi vermez.
+
+BANKA BİLGİLERİ:
+Banka bilgileri kısmı borçlunun yurt içi ve yurt dışı banka ve benzeri finans kurumlarına yatırılan ve çekilen paralarının
+izlenmesini kapsar. Bankalara para olarak veya hesaben yatırılan değerler borç, çekilen tutarlar ile üçüncü kişilerce
+tahsil edilen çek ve ödeme emirleri alacak kaydedildiğinden, bu kısma, borçlunun bankalarda mevcut mevduat
+hesaplarının şube, banka hesap numarası ve bakiyesi yazılacaktır.
+
+KISA VADELİ ALACAKLAR:
+Kısa vadeli alacaklar, en çok bir yıl veya borçlunun normal faaliyet dönemi sonunda tahsil edilmesi gereken ticari
+alacaklar ve diğer alacaklar toplamından oluşur.
+
+KISA VADELİ BORÇLAR:
+Kısa vadeli borçlar çok bir yıl veya borçlunun normal faaliyet dönemi sonunda ödenecek yabancı kaynakları kapsar.
+Mali borçlar, ticari borçlar, diğer borçlar, alınan avans, ödenecek vergi ve diğer yükümlülükler, borç ve gider karşılıkları,
+gelecek aylara ait gelirler ve gider tahakkukları ile diğer kısa vadeli borçlar gibi alt başlıklardan oluşur.
+
+
+
+
+                                                                                                                         2/2
+

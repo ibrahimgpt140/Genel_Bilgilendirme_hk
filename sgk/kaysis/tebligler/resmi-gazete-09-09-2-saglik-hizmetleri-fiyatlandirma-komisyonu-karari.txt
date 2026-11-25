@@ -1,0 +1,169 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/132199
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 09.09.2017 - 30175
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 09.09.2017 - 30175
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 176643863463fca914748ce5a07b4c4c71e855bee8b0f3eee966cf0d58d28cfc
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+Sosyal Güvenlik Kurumu Başkanlığından:
+
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+
+Karar No : 2017/7
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 03/08/2017 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE 1- Sağlık Uygulama Tebliğinin 4.2.49 numaralı “Spinal Musküler Atrofi Tip-1 (SMA Tip-1) hastalığında
+nusinersen sodium kullanım ilkeleri;” başlıklı maddesinin;
+
+a) Birinci fıkrasının,
+
+“(1) SMA Tip-I tedavisinde kullanılan ilaçlar çocuk nörolojisi uzman hekiminin yer aldığı, ilk 4 uygulama için 3 ay
+süreli sonraki uygulamalar için 4 ay süreli sağlık kurulu raporuna istinaden “Sağlık Bakanlığı-Türkiye İlaç ve Tıbbi Cihaz
+Kurumu İlaçların Kişisel Tedavide Kullanılmalarını Değerlendirme Komisyonu” tarafından verilecek “İlaç Kullanım Onayı”
+ile çocuk nörolojisi uzman hekimi tarafından her bir uygulama için ayrı ayrı reçete edilir. “İlaç Kullanım Onayı” nın; ilk 4
+uygulama için tek seferde ve sonraki her bir uygulama için ise ayrı ayrı verilmesi halinde Kurumca bedeli karşılanır.”
+
+b) Üçüncü fıkrasının (e) ve (ç) bentlerinin,
+
+“c) Bu maddenin 3'üncü fikrasının (a) ve (b) bendinde belirtilen kriterlere uyan hastalara (invaziv/non invaziv
+mekanik solunum desteği ihtiyacı olup olmadığına bakılmaksızın) tedavi başlanır. Tedavi sürecinde SMA'dan kaynaklı
+invaziv mekanik solunum desteği ihtiyacı geliştiği saptanan veya invaziv mekanik solunum desteği ihtiyacı devam eden
+hastalarda tedaviye son verilir. Enfeksiyon vb. durumlardan dolayı invaziv mekanik solunum desteği alan ve sebep ortadan
+kalktıktan sonra solunum desteği ihtiyacı kalkan hastalarda tedavi kesilmez.
+
+ç) Sağlık Bakanlığınca hastaların klinik değerlendirmelerini yapmak üzere değerlendirme ekipleri oluşturulur,
+değerlendirme kriterleri ve hasta takiplerinin yapılacağı merkezler belirlenir. Hastaların klinik değerlendirmeleri belirlenen
+kriterler çerçevesinde ve periyotta bu merkezlerdeki sorumlu hekimler ve değerlendirme ekiplerince yapılır. Hastaların
+klinik değerlendirmelerinde Hammersmith Infant Neurological Examination (HINE) veya Hammersmith Functional Motor
+Scale Expanded (HFMSE) veyaThe Children's Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP
+INTEND) adı verilen nörolojik ve motor skalalar kullanılır. Değerlendirme sonrası raporlar, “Sağlık Bakanlığı-Türkiye İlaç
+ve Tıbbi Cihaz Kurumu İlaçların Kişisel Tedavide Kullanılmalarını Değerlendirme Komisyonu”na sunulur. Tedaviyi
+sonlandırma veya tedaviye devam etmeye dair nihai karar bu komisyon tarafından verilir.”
+
+şeklinde değiştirilmesine oybirliği ile,
+
+MADDE 2- Sağlık Bakanlığı izni ile yurt dışından temin edilerek tedavide kullanılan ilacın ülkemizde ruhsat alarak
+satış izni alması ve EK-4/A Listesine giriş talebi olması nedeniyle ara ödeme kapsamına girmesi durumunda, Sağlık
+Bakanlığınca ilaca verilen perakende satış fiyatı üzerinden SUT'un 4.4.1 maddesinde tanımlı indirim oranları (firmalar
+tarafından verilen özel iskontolar dahil) uygulandıktan sonra kademeli eczane iskontosu uygulanarak bulunacak tutarın, ilacın
+Yurt Dışı İlaç Fiyat Listesi'nde (EK-4/C) kayıtlı fiyatın standart kamu kurum iskontosu olarak oranı SUT'un 4.4.1
+maddesinde tanımlı baz iskonto uygulandıktan sonra bulunacak tutardan fazla olduğunun tespit edilmesi halinde; Kurum bilgi
+sistemine bahse konu ilaca ait barkod bilgisi ile birlikte fiyat kaydının EK-4/C'de döviz cinsinden kayıtlı fiyatının EK-4/A
+Listesine giriş talep tarihindeki T.C Merkez Bankası efektif satış kuru üzerinden TL cinsine çevrilerek ve SUT un 4.4.1
+maddesinde tanımlı baz iskontonun uygulanmasını müteakip bulunacak tutar üzerinden ve TL cinsinden yapılmasına ancak
+ödemeyi yapacak olan Sağlık Sosyal Güvenlik Merkezince ödenecek tutarın SUT'un 4.3 numaralı maddesinin 8 inci
+fıkrasında belirtildiği şekilde hesaplanarak belirlenmesine,
+
+Bu karar doğrultusunda yapılan işlemlerin bilgi amacıyla Sağlık Hizmetleri Fiyatlandırma Komisyonuna
+sunulmasına oybirliği ile,
+
+MADDE 3- SUT Eki Ek 2/B Listesinde aşağıda yer alan işlem kodunda açıklama ve işlem puanı değişikliği
+yapılmasına oybirliği ile,
+
+HİZMET BAŞI İŞLEM PUAN LİSTESİ
+i İŞLEM
+İŞLEM ADI AÇIKLAM.
+N Ekstrakorporal şok dalgası, tek seans.
+10820  |ESWT
+61082 (En fazla 5 seans ödenir.) 42,16
+TEBLİĞ
+Sağlık Hizmet
+Hepsi Film
+1
+
+MADDE 4- SUT Eki Ek 2B Listesine aşağıdaki işlem kodunun eklenmesine oybirliği ile,
+HİZMET BAŞI İŞLEM PUAN LİSTESİ
+i AÇIKLAMA İŞLEM
+İŞLEM ADI çi PUANI
+700992 Perkütan sol appendiks 1200
+kapatılması
+MADDE 5- SUT Eki Ek 2C Listesinde aşağıda yer alan işlem kodunda açıklama ve işlem puanı değişikliği
+yapılmasına oybirliği ile,
+EK-YC
+TANIYA DAYALI İŞLEM PUAN LİSTESİ
+PAKET N İŞLEM İŞLEM
+KODU İŞLEM ADI AÇIKLAMA GRUBU | PUANI
+Ekstrakorporal şok dalgası, tek
+P610820 | ESWT seans, 42,16
+(En fazla 5 seans ödenir.)
+MADDE 6- SUT Eki Ek 2C Listesine aşağıdaki işlem kodunun eklenmesine oybirliği ile,
+TANIYA DAYALI İŞLEM PUAN LİSTESİ
+PAKET İŞLEM İŞLEM
+KODU İŞLEM ADI AÇIKLAMA GRUBU PUANI
+pzoo992 | Perkütan sol appendiks | 4 iks kapama sistemi hariç A3 3.500,00
+kapatılması
+MADDE 7- SUT eki Ek-2/A-2 Listesine aşağıda yer alan işlem kodlarının eklenmesine oybirliği ile
+AYAKTAN BAŞVURULARDA İLAVE OLARAK FATURALANDIRILABİLECEK İŞLEMLER LİSTESİ
+KODU | İŞLEMADI AÇIKLAMA
+703991 | Videonistaşmorafı (VXG) çe
+704020 | Çocuk işitme eğimi, herbirseams. “| *<Â<Â««0 0
+803281 | MR.12*kariyak | —
+sasi İz kani ij
+804415 MR, Difüzyon Tensör Görüntüleme,
+Traktografi
+804416 | MR3:boyulu Görüntüleme >>><Ç<Ç<Ş<Ç<ccc00o00000O00O|
+MADDE 8- Sağlık Uygulama Tebliği eki “Ek-3H KARDİYOLOJİ BRANŞINA AİT TIBBİ MALZEMELER
+LİSTESİ"nde yer alan aşağıda SUT kodu ve alan tanımı belirtilen malzemenin mevcut fiyatının aşağıdaki gibi
+güncellenmesine oybirliği ile,
+TEBLİĞ
+Sağlık Hizmet
+Hepsi Film
+2
+
+SUT Kodu | SUT Alan Tanımı SUT Fiyatı
+KRIIS1 | STENT, KORONER, BALONA MONTE EDİLMİŞ İLAÇ SALINIMLI 650,00
+
+MADDE 9- Sağlık Uygulama Tebliği eki “Ek-3L. ÜROLOJİ BRANŞINA AİT TIBBİ MALZEMELER
+LİSTESİ”ne yeni eklenen aşağıda SUT kodu ve alan tanımı belirtilen malzemenin fiyatının aşağıdaki gibi belirlenmesine
+oybirliği ile,
+
+SUT Kodu SUT Alan Tanımı SUT Fiyatı
+UR2007 İNTRAKAVİTER HİPERTERMİ RF PROBU İLE BİRLİKTE İNTRAKAVİTER 2484.00
+KEMOTERAPİ SETİ
+
+MADDE 10- Sağlık Uygulama Tebliği eki “Ek-3C-2 EKSTERNAL ALT VE ÜST EKSTREMİTEGÖVDE
+PROTEZ ORTEZLER LİSTESİ”nde yer alan aşağıda SUT kodu ve alan tanımı belirtilen malzemenin mevcut fiyatının
+aşağıdaki gibi güncellenmesine oybirliği ile,
+
+SUT Kodu SUT Alan Tanımı SUT Fiyatı
+OP1178 | DİZ DEZARTİKÜLASYON PROTEZİ SİLİKON LİNER DEĞİŞİMİ 734,40
+
+MADDE 11- Sağlık Uygulama Tebliğine aşağıdaki metnin eklenmesine oybirliği ile,
+
+“5510 sayılı Kanunun 73 üncü maddesinin onuncu fıkrası kapsamında yer alan kişilerin: SUT'ta yer alan fiyatlarla
+temin edilemeyen ortez/protez ve diğer iyileştirici araç ve gereçler ile SUT'ta yer almayan her türlü ortez/protez ve diğer
+iyileştirici araç ve gereçlere, Sağlık Bakanlığı Sağlık Bilimleri Üniversitesi Gaziler Fizik Tedavi ve Rehabilitasyon Eğitim ve
+Araştırma Hastanesi ile yapılacak protokol/sözleşme kapsamında, bu hastanede oluşan ve/veya oluşturulacak
+komisyon/kurulca ihtiyacı olduğunun tespit edilmesi ve ihtiyacın hastancce karşılanarak Kuruma faturalandırılması halinde
+fatura tutarı üzerinden ödenir.”
+
+MADDE 12- Sağlık Uygulama Tebliği eki “Ek-3C-3 DİĞER PROTEZ ORTEZLER LİSTESİ”nde yer alan aşağıda
+SUT kodu ve alan tanımı belirtilen malzemelerin mevcut fiyatının aşağıdaki gibi güncellenmesine oybirliği ile,
+
+SUT Kodu SUT Alan Tanımı SUT Fiyatı
+DO1025 ELDİVEN (PARMAK UCU AÇIK/KAPALI) 375,00
+DO1026 O | OMUZDAN DESTEKLİ KOLLUK BİLEĞE KADAR 345,00
+DO1027 DİZ ALTI ÇORAP 210,00
+DO1028  |DİZ ÜSTÜ ÇORAP (SİLİKON DESTEKLİ) 287,00
+DO1029 ( (KÜLOTLU ÇORAP 636,00
+DO1030 O |BELDEN DESTEKLİ TEK BACAK ÇORAP 720,00
+DO1031 ELDİVEN (PARMAK UCU AÇIK/KAPALI) 128,00
+DO1032 (OMUZDAN DESTEKLİ KOLLUK BİLEĞE KADAR 117,00
+DO1033 (DİZ ALTI ÇORAP 92,00
+DO1034  |DİZ ÜSTÜ ÇORAP(SİLİKON DESTEKLİ) 98,00
+DO1035  |KÜLOTLUÇORAP 216,00
+DO1036 BELDEN DESTEKLİ TEK BACAK ÇORAP 190,00
+
+Bu kararların yayımlanacak olan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair
+Tebliğ'de belirtilen tarihte yürürlüğe girmesine oybirliği ile,
+Karar verilmiştir.
+TEBLİĞ
+Sağlık Hizmet
+Hepsi Film
+3

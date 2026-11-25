@@ -1,0 +1,108 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/55305
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2013-09
+ADI: BANKALAR İLE İMZALANAN TAHSİLAT VE ÖDEME PROTOKOLLERİNİN REVİZYONU GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a8bdf6b9fc0dec11dee16387a28bb7635914e18ab89f02e4e1e41d9225c0a8ed
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> T.C.
+(SG K i SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ie Aktüerya ve Fon Yönetimi Daire Başkanlığı
+O
+Sayı : 77950838/030.03/ 146 1 4 Şubal 2013
+Konu: Bankalar ile imzalanan tahsilât ve
+ödeme protokollerinin revizyonu
+, GENELGE
+2013/.İ
+
+Aktüerya ve Fon Yönetimi Daire Başkanlığının işlemlerine ilişkin yayımlanan
+24/03/2011 tarihli ve 2011/33 sayılı Genelgenin “Bankalar ile İmzalanan Gelir, Aylık ve Sağlık
+Ödemeleri İle Prim Tahsilatına Yönelik Protokoller” başlıklı 2 nci maddesi aşağıdaki şekilde
+değiştirilmiştir.:
+
+“Kurumumuzun gelir/aylık ve sağlık ödemeleri ile prim tahsilâtı işlemleri, 2009 yılında
+bankalar ile imzalanan protokoller hükümleri doğrultusunda yürütülmüştür.
+
+Kurumumuz birimleri, bankalar ve sigortalılarımızdan gelen talepler doğrultusunda,
+bankalar ile imzalanan protokoller, gözden geçirilerek uygulamada yaşanan aksaklıkların
+giderilmesi, günümüz şartlarına uygun hale getirilmesi ve yayımlanan Kamu Haznedarlığı Genel
+Tebliğinde tahsilât ve ödemeler için belirtilen aktarma günleri de dikkate alınarak yeniden
+düzenlenmiştir.
+
+Bu nedenle, Kurumumuz ile bankalar arasında tahsilat ve ödemelere ilişkin yeni
+protokoller imzalanarak 01/02/2013 tarihinde yürürlüğe girmiş olup, eski protokoller yürürlükten
+kaldırılmıştır.
+
+Bankalar ile imzalanan "Tahsilât ve Nakit Varlıkların Değerlendirilmesi Protokolü",
+"Gelir/aylık Ödemeleri Protokolü" ve "Sağlık Hizmeti Sunucuları Ödemeleri Protokolü"nün
+örnekleri Kurumumuz intranet sayfasında, “Uygulamalar” bölümünde “Aktüerya ve Fon
+Yönetimi Daire Başkanlığı” sekmesinde yer almaktadır.
+
+Bu kapsamda, gelir/aylık ve sağlık ödemeleri ile prim tahsilâtları Kurumumuz ile
+protokol imzalayan bankalarla yapılacaktır. Protokol imzalayan bankaların listesi ekte yer
+almaktadır (Ek-1).
+
+Bankalar ile yeni imzalanan protokollere göre;
+
+2009 tarihli gelir/aylık protokollerine göre, emekli ve hak sahiplerince gişe ve ATM'den
+yapılan işlemler hareket olarak değerlendirilmekte, diğer bankacılık işlemleri hareket olarak
+sayılmamaktadır. İmzalanan gelir/aylık protokolü ile, internet hesabından yapılan işlemler de
+hareket olarak değerlendirilecektir (otomatik ödeme ve düzenli ödeme hariç).
+
+Kurumumuzdan tüm statülerde geli/aylık .lan ve Sosyal Güvenlik İl
+Müdürlükleri/Sosyal Güvenlik Merkezleri ile e-devlet sitesinden yapılan emekli ve hak
+sahiplerinin banka ve şube değişikliği işlemlerinin, bankaların şubelerinde de yapılabilmesi için
+bankalara web servis açılacaktır.
+
+Kamu Haznedarlığı Genel Tebliği kapsamında, özel bankalar ile yapılan protokollerde,
+yapılan tahsilâtın Kurum cari hesabına aktarma günü, tahsilâtı takip eden 2 nci (iki) işgünü
+olarak belirlenmiştir. Kamu bankalarında eskiden olduğu gibi, tahsilâtı takip eden 3 üncü (üç)
+işgünüdür.
+
+Sağlık hizmeti sunucularına yapılacak ödemeler, ödeme tarihinden | (bir) işgünü önce,
+bankalarda açılan sağlık ödemeleri hesabına aktarılacaktır.
+
+Adres : Ziyabey Cad. No: 6 Balgat / ANKARA Ayrıntılı bilgi için irtibat : İsmail SEVİNÇ Daire Başkanı
+Tel: (312) 207 80 46 Faks: 207 81 40 E-posta : afydb(dsgk.gov.tr - Elektronik Ağ : www.sgk.gov.tr
+
+— T.C.
+(Ş GK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+DA Aktüerya ve Fon Yönetimi Daire Başkanlığı
+Ayrıca, Türkiye Halk Bankası şubelerinden ödenen, 5434 sayılı kanuna göre bağlanan ilk
+aylık ile emekli ikramiyelerinin sayısal olarak yarısının, T.C. Ziraat Bankası şubelerinden
+ödenmesine ilişkin olarak ilgili Banka ile protokol imzalanmıştır.”
+Bilgi edinilmesini ve gereğini rica ederim.
+C.) 4“.
+Fatih ACAR
+Kurum Başkanı
+EKLER: ği
+1- Gelir/Aylık, Sağlık Ödeme ve Prim Tahsilâtına
+Yönelik Protokol İmzalanan Bankaların Listesi (Ek-1)
+DAĞITIM:
+Gereği: Bilgi:
+Tüm Merkez ve Taşra Birimlerine Çalışma ve Sosyal Güvenlik Bakanlığına
+Adres : Ziyabey Cad. No: 6 Balgat / ANKARA Ayrıntılı bilgi için irtibat : İsmail SEVİNÇ Daire Başkanı
+Tel: (312) 207 80 46 Faks: 207 81 40 E-posta : afydb(dsgk.gov.ir - Elektronik Ağ : www.sgk.gov.tr
+
+“ T.C.
+(S G K i SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+a em ne Aktüerya ve Fon Yönetimi Daire Başkanlığı
+EK-1
+GELİR/AYLIK VE SAĞLIK ÖDEMELERİ İLE PRİM TAHSİLÂTINA YÖNELİK
+PROTOKOL İMZALANAN BANKALARIN LİSTESİ
+PRİM TAHSİLATI GELİR/AYLIK ÖDEMESİ SAĞLIK ÖDEMESİ
+BANKALAR İMZALANAN BANKALAR | İMZALANAN BANKALAR
+l
+| Türkiye Finans Katılım Bankası | Türkiye Vakıflar Bankası, |, ,,,Câ|0|0 |
+| Türkiye Garanti Bankası oo |YapıveKrediBankasc («coco
+| Türkiye Halk Bankası | o (T.C.ZiratBankasc << (cocoon
+Türkiye İ Bankası || (PT**<*<«<«<«<«ccc İİ
+İ Türkiye Vakıflar Bankası | |,,|*<*<*<*<*<«<«<cc İİ
+Yapı ve Kredi Bankası || |*<*<*<*<«<«<«<«<«<c0 İİ
+T.C. Ziraat Bankası || |(**((((((,ceo0o00 İİ
+O
+Adres : Ziyabey Cad. No: 6 Balgat / ANKARA Ayrıntılı bilgi için irtibat : İsmail SEVİNÇ Daire Başkanı
+Tel: (312) 207 80 46 Faks: 207 81 40 E-posta : afydb(Osgk.gov.ir - Elektronik Ağ : www.sgk.gov.tr

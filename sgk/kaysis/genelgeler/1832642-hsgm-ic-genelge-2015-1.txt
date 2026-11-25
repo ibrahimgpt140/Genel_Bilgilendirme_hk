@@ -1,0 +1,1432 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/61238
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 1832642
+ADI: HSGM İÇ GENELGE 2015/1
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 219f29814f5bb62567db38e48b37318c1b2907fc69fd061e437cea9b652a7c3b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Hizmet Sunumu Genel Müdürlüğü
+
+
+Sayı : 90974675/01006/1832642                                                            03/04/2015
+Konu : HSGM Alt Birimleri ve Görevleri
+
+
+                                                      İÇ GENELGE
+                                                         2015/1
+
+        Yönetim Kurulumuzun 27/11/2014 tarihli ve 2014/496 sayılı kararı ile kabul edilen ve
+04/12/2014 tarihinde yürürlüğe giren Sosyal Güvenlik Kurumu Merkez Teşkilatı Çalışma
+Yönetmeliğinin 86 ncı maddesi ile Hizmet Sunumu Genel Müdürlüğü Çalışma Yönetmeliğinin
+yürürlükten kaldırılması, söz konusu Yönetmeliğin Geçici 1 inci Maddesinde, "Birimler, ilgili alt
+mevzuatını üç ay içerisinde 76 ncı ve 79 uncu maddede belirtilen şekle uygun hale getirirler."
+ifadesinin yer alması nedeniyle, Hizmet Sunumu Genel Müdürlüğü bünyesinde bulunan daire
+başkanlıkları alt birimlerinin oluşturulması, görevlerinin belirlenmesi, uygulamaya yönelik iş ve
+işlemlerin yürütülmesine ilişkin hususların anılan Yönetmeliğe uygun hale getirilmesi
+kapsamında;
+
+MADDE 1- (1) Hizmet Sunumu Genel Müdürlüğü bünyesindeki daire başkanlıklarının alt
+birimleri şunlardır:
+a) Bilgi Sistemleri ve Siber Güvenlik Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Ağ Yönetimi ve Siber Güvenlik Şube Müdürlüğü
+2) Sistem Yönetimi Şube Müdürlüğü
+3) Veri Tabanları Yönetimi Şube Müdürlüğü
+4) Donanım Teknik Destek Şube Müdürlüğü
+
+b) Bilgilendirme ve Koordinasyon Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Bilgilendirme Şube Müdürlüğü
+2) Koordinasyon Şube Müdürlüğü
+3) Destek Hizmetleri Şube Müdürlüğü
+
+c) Risk Yönetimi ve Proje Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Bilişim Proje Şube Müdürlüğü
+2) Risk Yönetimi Şube Müdürlüğü
+3) İzleme, Değerlendirme ve Koordinasyon Şube Müdürlüğü
+
+ç) Emeklilik Yazılım Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Emeklilik Yazılımları Şube Müdürlüğü
+a) 4/a Emeklilik Yazılım Grubu
+b) 4/b Emeklilik Yazılım Grubu
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA         Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                      Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                              Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                               1/28
+c) 4/c Emeklilik Yazılım Grubu
+ç) Primsiz Aylıklar Yazılım Grubu
+2) Kısa Vadeli Sigorta Yazılımları Şube Müdürlüğü
+a) Geçici İş Göremezlik Yazılım Grubu
+b) SPAS Yazılım Grubu
+c) Yüksek Sağlık Kurulu Yazılım Grubu
+3) Emeklilik Veri Entegrasyon Şube Müdürlüğü
+ a) Veri Entegrasyon Grubu
+ b) İdari ve Yönetim Hizmetleri Grubu
+
+d) İş Geliştirme Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Süreç Yönetimi Şube Müdürlüğü
+2) Entegrasyon Şube Müdürlüğü
+3) Kalite Güvence Şube Müdürlüğü
+
+e) Kurumsal Yazılımlar Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Elektronik Belge Yönetimi Şube Müdürlüğü
+a) Arşiv Yönetim Sistemi Yazılım Grubu,
+b) Doküman Yönetim Sistemi Yazılım Grubu.
+2) Kurumsal Uygulamalar Şube Müdürlüğü
+a) Coğrafi Bilgi Sistemi Yazılım Grubu
+b) İnsan Kaynakları Yazılım Grubu
+c) Kurumsal Yazılımlar Grubu
+3) Merkezi Yetki ve Destek Hizmetleri Şube Müdürlüğü
+a) Merkezi Yetki ve Kimlik Doğrulama Grubu
+b) Eğitim Hizmetleri Grubu
+c) İdari ve Yönetim Hizmetleri Grubu
+
+f) Muhasebe Yazılımları Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Prim Toplama Yazılımları Şube Müdürlüğü
+a) GSS Prim İşlemleri Yazılım Grubu
+b) Prim İşlemleri Yazılım Grubu
+2) Ödeme İşlemleri Yazılım Şube Müdürlüğü
+a) Kesinti İşlemleri Yazılım Grubu
+b) Personel ve Emekli Ödemeleri Yazılım Grubu
+c) Banka Ödemeleri Yazılım Grubu
+3) Tahsilat İşlemleri Yazılım Şube Müdürlüğü
+a) Bütçe İşlemleri Yazılım Grubu
+b) Tahsilat İşlemleri Yazılım Grubu
+c) İdari ve Yönetim Hizmetleri Grubu
+
+g) Sağlık Yazılımları Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1)Medula Eczane Yazılımları Şube Müdürlüğü
+a) Medula Eczane Uygulamaları Yazılım Grubu
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         2/28
+b) Operasyonel İşlemler Yazılım Grubu
+c) İdari ve Yönetim Hizmetleri Grubu
+ç) BİMER ve Alo 170 İşlemleri Grubu
+2) Medula Optik ve Şahıs Ödeme Yazılımları Şube Müdürlüğü
+a) Medula Optik Uygulamaları Yazılım Grubu
+b) Medula Şahıs Ödemeleri Yazılım Grubu
+c) Medula Entegrasyon ve Yaygınlaştırma Yazılım Grubu
+3) Medula Hastane Yazılımları Şube Müdürlüğü
+a) Medula Hastane Uygulamaları Yazılım Grubu
+b) Servis Odaklı Mimari Yazılım Grubu
+
+ğ) Sigorta Yazılımları Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Tescil Yazılımları Şube Müdürlüğü
+a) 4/a Tescil Yazılım Grubu
+b) 4/b Tescil Yazılım Grubu
+c) 4/c Tescil Yazılım Grubu
+ç) GSS Tescil ve Prim İşlemleri Yazılım Grubu
+d) İşyeri Tescil Yazılım Grubu
+2) Prim ve Hizmet Yazılımları Şube Müdürlüğü
+a) İşveren Prim Hizmet ve Tahakkuk İşlemleri Yazılım Grubu
+b) 4/b Prim ve Hizmet İşlemleri Yazılım Grubu
+c) SGDP Tescil ve Tahakkuk İşlemleri Yazılım Grubu
+ç) HİTAP Kesenek Borçlanma İşlemleri Yazılım Grubu
+d) E-Bildirge Uygulamaları Yazılım Grubu
+3) Sigorta Veri Entegrasyon Şube Müdürlüğü
+a) Web Servis Uygulamaları Yazılım Grubu
+b) KADİM Uygulamaları Yazılım Grubu
+c) BİMER ve Alo 170 İşlemleri Grubu
+
+h) Veri Yönetimi Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) Veri Ambarları Şube Müdürlüğü
+2) Sigorta Veri Yönetimi Şube Müdürlüğü
+3) Sağlık Veri Yönetimi Şube Müdürlüğü
+4) Portal Şube Müdürlüğü
+
+ı) Yönetim Hizmetleri Daire Başkanlığı aşağıdaki alt birimlerden oluşur.
+1) İdari ve Mali İşler Şube Müdürlüğü
+2) Taşra Organizasyon Şube Müdürlüğü
+3) İnsan Kaynakları Şube Müdürlüğü
+4) Envanter ve Ayniyat Şube Müdürlüğü
+
+MADDE 2- (1) Ağ Yönetimi ve Siber Güvenlik Şube Müdürlüğünün görevleri şunlardır:
+a) Merkez ve taşra veri iletişimi bağlantıları ile cihazlarının kurulumunu koordine etmek,
+yönetimini ve sürekliliğini sağlamak, konfigürasyon yedeklerini almak ve bakımlarını yaptırmak.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         3/28
+b) Hizmet sağlayıcıları ile merkez ve taşra birimlerinde uygulama bazlı faaliyetlerde
+görevlendirilen personel arasında iletişim kurarak sorunların çözümünde teknik destek sağlamak.
+c) Merkez ve taşra birimlerinde bulunan switch, omurga anahtarının yapılandırılması ve
+kurulumunu yönetmek ve ileriye dönük planlamalar yapmak.
+ç) Merkez ve taşra IP telefon altyapısını kurmak ve telefonların kesintisiz iletişimini sağlamak.
+d) Kurum internet iletişim altyapısını kurmak, ilgili cihazları yönetmek ve sürekliliğini
+sağlamak.
+e) Kurumun ağ güvenlik politikalarını belirlemek, güvenli bir ağ yapısını oluşturmak ve ağ
+güvenliği cihazları ile yazılımlarını yönetmek.
+f) Kurum ile diğer paydaş kurumlar arasında olan ağ bağlantılarını kurmak, kontrol etmek ve
+sürekliliğini sağlamak.
+g) Kurum merkez hizmet binalarında bulunan kablosuz ağın yönetimi, güvenliği ve sürekliliğini
+sağlamak.
+ğ) Şube müdürlüğünün görev alanına giren donanım ve yazılım yük dağıtıcılarını yönetmek,
+işletmek ve bakımını yapmak.
+h) Bilişim sistemi üzerinde uygulanacak güvenlik kontrollerinin planlanmasına, hazırlanmasına
+ve uygulanmasına ilişkin çalışmaları yönetmek, uygulanmasını sağlamak, denetim ve takibini
+yapmak.
+ı) Bilgi güvenliği yönetim sistemi çerçevesinde, yürütülen iş ve işlemlere ilişkin bilgi güvenliği
+tedbirlerini diğer daire başkanlıkları ile koordineli olarak yürütmek.
+i) Bilişim sistemlerini kurum bilgi güvenliği gereksinimlerine uygun sıklıkla izlemek, tespit
+edilen bilgi güvenliği olaylarını raporlamak ve giderilmesine ilişkin işlemleri yürütmek.
+j) Her türlü siber saldırılara karşı, ilgili kurum ve/veya kuruluşlar ile iş birliği içinde çalışmak.
+k) Fiziksel altyapı ve sistemin güvenlik politikalarını uygulamak.
+l) Bilişim sistemi üzerinde uygulanacak siber güvenlik kontrollerinin planlanması, hazırlanması
+ve uygulanmasına ilişkin çalışmaları yönetmek, denetim ve takibini yapmak.
+m) Siber saldırılara karşı kurum bünyesinde bulunan verilerin mahremiyetini koruyacak önlem
+ve tedbirlerin alınmasını sağlamak.
+n) Genel Müdürlük envanterinde bulunan ve log kaydı üreten her türlü donanım ve yazılımların
+log kayıtlarını izlemek, analiz etmek, güvenlik ihlallerini tutanak altına almak ve yönetime
+raporlamak.
+o) Yazılımlar tarafından oluşturulması gereken log kayıtlarının yapısını tespit etmek, tespit
+edilemeyen log kayıtlarının tutulabilmesi, işlenebilir ve analiz edilebilir bir yapıda olması için
+yazılım daire başkanlıkları ile koordineli olarak gerekli tedbirleri almak.
+ö) Mobil sosyal güvenlik merkezi araçlarında yer alan donanımların iletişim alt yapısına teknik
+destek sağlamak.
+p) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 3- (1) Sistem Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Şube müdürlüğünün görevleri çerçevesinde, Kurum etki alanı kapsamındaki kullanıcı
+hesaplarının yönetim politikalarını belirlemek ve yönetilmesini sağlamak.
+b) Genel Müdürlüğün sorumluluğundaki sunucu ile kişisel bilgisayarlarında kullanılan tüm
+işletim sistemlerinin yönetimi, işletimi ile kurum etki alanı uygulamalarına entegrasyonu
+sağlamak.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         4/28
+c) Uygulama ve sistem sunucularının kurulumunu gerçekleştirmek, bakım ve güncellemelerini
+yapmak, bu sunucuları sistemsel ve yazılımsal olarak izlemek.
+ç) Uygulama ve sistem sunucularının yönetimini sağlamak, uygulamaların internete ve intranete
+açarak etki alanı içinden ve dışından ilgili kullanıcıların kullanımına sunmak ve bu hizmetlerin
+güvenli bir şekilde kesintisiz olarak sürdürülmesini sağlamak, yaşanan kesintiler kayıt altına
+almak.
+d) Şube müdürlüğü sorumluluğunda bulunan ürün ve cihazların takibini ve bakımını yapmak,
+sorumluluğundaki ürünlerden kaynaklı problemleri kayıt altına almak ve raporlamak.
+e) Genel Müdürlük uygulama sunucularında çalışan/çalışacak olan yazılımlarının güncelleme ve
+kurulum yönetimi çerçevesinde geliştirilen ve sunulan tüm yazılımların program yük testi,
+güvenlik ve fonksiyonellik testi gibi süreçlerden geçip geçmediğini kontrol ederek, testten
+geçenlerin yayımlanmasını sağlamak.
+f) Kurum JAVA ve .NET uygulamalarının yazılımsal ve yazılımın kurulu bulunduğu sistemsel
+performans ve erişebilirliğini, iş süreçleri izleme yazılımları ve uygulama sunucuları izleme
+yazılımları ile izlemek, gerekli uyarı sistemini kurmak ve işletmek.
+g) Yazılım daire başkanlıklarında yazılım üreten personel ile iletişim kurarak yazılım
+optimizasyon faaliyetlerine ve yaşanan olası arıza durumlarının çözümüne ilişkin teknik destek
+sağlamak.
+ğ) Şube müdürlüğünün görev alanına giren donanım ve yazılım yük dağıtıcılarını yönetmek,
+işletmek, bakımını yapmak, güncelleme yönetimi ve kapasite planlamasını yapmak.
+h) Kurum uygulama SSL sertifikalarını yönetmek ve güncellemelerini yapmak, kurum uygulama
+güvenlik duvarını yönetmek ve işletimini yapmak.
+ı) Şube müdürlüğü sorumluluğunda bulunan tüm donanım ve yazılım kaynaklarına yönelik
+kapasite planlamalarını yapmak.
+i) Şube müdürlüğü sorumluluğunda bulunan kurumsal bilişim altyapısını geliştirerek,
+sürekliliğini sağlamak ve servis odaklı mimari anlayışı ile diğer iş birimlerine sunmak.
+j) Sunucu parkında bulunan açık sistem ve uygulama sunucuları ile üzerinde çalışan yazılımların
+sürekli yedeklerini almak, felaket senaryolarını oluşturarak gerekli durumlarda yedeklerden geri
+dönmek.
+k) Sistem odalarında ve şube müdürlüğü sorumluluğunda bulunan, açık sistem veri depolama
+sistemleri ile veri depolama cihazlarının yönetimini sağlamak.
+l) Sanallaştırma platformu ile bunlara bağlı fiziksel sunucu ve SAN network altyapısının
+yönetimi, bakımı ve kontrolünü yapmak ve güvenliğini sağlamak.
+m) Sanal makine taleplerini değerlendirip uygun kaynakları hazırlamak
+n) Şube müdürlüğünün görev alanına giren bilgi sistemleri ve donanım kaynaklarının etkin ve
+verimli kullanımını sağlamak.
+o) Şube müdürlüğünün sorumluluğunda bulunan hizmetlerin takibini diğer şubelerle koordineli
+olarak geliştirmek ve yönetimini sağlamak.
+ö) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yeterliliğini takip etmek ve
+eğitim ihtiyaçlarını belirlemek.
+p) Merkez ve taşra birimlerinde, bilgi işlem sorumlusu olarak görev yapan personelin
+eğitimlerini, belirlenen eğitim planı çerçevesinde ilgili birimlerle koordineli olarak yapmak ve
+çalışmalarını takip etmek.
+r) Merkez ve taşra birimlerinin kullandığı uygulamalara yönelik faaliyetlerde görevlendirilen
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         5/28
+süpervizör personel ile iletişim kurmak ve sorunların çözümünde teknik destek sağlamak.
+s) Internet ve intranete açılan sistem altyapısını ve hizmetlerini güvenli bir şekilde kesintisiz
+olarak sürdürülmesini sağlamak, Kurum güvenlik duvarının yönetimi, işletimi, güvenliği ve
+sürekliliğini sağlamak.
+ş) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 4- (1) Veri Tabanları Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Genel Müdürlüğün envanterinde bulunan veri tabanı yönetimi yazılımlarını yönetmek.
+b) Veri tabanı yönetimi yazılımlarını kurmak, konfigüre etmek, işletmek, izlemek ve bakımlarını
+yapmak.
+c) Veri tabanlarının performans ve kapasite kullanımı ihtiyaç analizlerini yapmak.
+ç) Veri tabanı sistemlerinde çalışan sorgu cümleciklerini takip etmek, sistem için sorun yaratan
+veya yaratabilecek olan sorgu cümleciklerini inceleyerek ilgili personele gerekli önerilerde
+bulunmak.
+d) Yazılım daire başkanlılarında yazılım üreten personelin veri tabanlarına ilişkin sorunlarının
+çözümünde teknik destek sağlamak.
+e) Kurumsal sunucu ağı ve bilgi teknolojileri altyapısına ilişkin ihtiyaçları gelişen teknoloji
+koşullarına göre takip etmek.
+f) Kurumsal sunucular ve veri tabanına ilişkin sorunları yetkisi dâhilinde çözmek, yetkisi
+dışındaki diğer sorunları ilgili birimlere bildirmek.
+g) Kalite süreçlerinin daha etkin bir şekilde işletilebilmesi için veri tabanlarında gerekli test
+ortamlarını oluşturmak.
+ğ) Kurumsal sunucuların işletim sistemi ile sistemin çalışmasına ihtiyaç duyulan diğer
+yazılımların kurulumunu yapmak ve yönetimini sağlamak.
+h) Kurumun veri tabanı teknolojileri altyapısına ilişkin ihtiyaçlarını gelişen teknoloji koşullarına
+göre takip etmek, gerekli araştırmalar yapmak ve kapasite planını hazırlamak.
+ı) Kurumsal sunucu üzerinde çalışan yazılımlar ile veri tabanlarının sürekli yedeklerini almak,
+felaket senaryolarını oluşturarak gerekli durumlarda yedeklerden geri dönmek.
+i) Kurum sistem odalarında bulunan kurumsal sunuculara ait veri depolama sistemleri, veri
+depolama ağı ve cihazlarının yönetimini yürütmek.
+j) Üretim ortamı ile test ortamında bulunan veri tabanlarının performanslı bir şekilde
+çalışmalarını sağlamak.
+k) Veri tabanı yönetim sistemlerinin uygulama ve şahıs bazında yetkilendirilmelerini sağlamak
+ve veri tabanı güvenlik ayarlarını yapmak.
+l) Yetkilendirmelere ilişkin kuralları belirlemek ve Genel Müdürün onayına sunmak.
+m) Vardiya usulü ile görev yapan personel aracılığıyla, Kurumsal sunucu sistemini yedi gün
+yirmi dört saat izlemek, gerekli yedeklerin alınması işlemlerinin yapılmasını sağlamak.
+n) Şube müdürlüğü personelinin yıllık eğitim ihtiyaçlarını belirlemek, vardiya usulü ile çalışan
+personelin aylık nöbet çizelgelerini hazırlamak.
+o) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 5- (1) Donanım Teknik Destek Şube Müdürlüğünün görevleri şunlardır:
+a) Merkez ve taşra birimlerinde kullanılan sunucu, kişisel bilgisayar, yazıcı ve benzeri
+donanımların teknik servis hizmetlerine ilişkin bakım ve onarım anlaşmalarını ilgili birimlerle
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         6/28
+koordineli olarak yürütmek.
+b) Merkez teşkilatındaki kişisel bilgisayar ve ek donanımlarında meydana gelen sistem
+yazılımlarına yönelik aksaklıkları gidermek için teknik servis hizmeti vermek.
+c) Merkez birimlerindeki teknik servis arıza kaydının takibini yapmak ve sonuçlarını
+raporlamak.
+ç) Sistem alt destek unsurları olan kesintisiz güç kaynağı, klimalar, jeneratör ve enerji altyapısı
+ile benzeri unsurların aktif olarak yedi gün yirmi dört saat kesintisiz çalışmasını sağlamak ve
+ileriye dönük yatırım planına uygun olarak gerekli tedbirleri almak.
+d) Mobil sosyal güvenlik merkezi araçlarında yer alan donanımların işletim sistemine entegre
+edilmesinde teknik destek sağlamak.
+e) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 6- (1) Bilgilendirme Şube Müdürlüğünün görevleri şunlardır:
+a) Alo 170 İletişim Merkezi ile ilgili kurum ve kuruluşların koordinasyonunu sağlamak.
+b) Bilgi Edinme Hakkı Kanunu ve BİMER kapsamında Genel Müdürlüğe yapılan her türlü istek,
+şikâyet, ihbar, görüş ve önerilere ait başvurular ile Kurum tarafından yürütülen hizmetlerin
+vatandaşa iletilmesine ilişkin SMS bilgilendirme işlemlerini yürütmek.
+c) Merkez ve taşra teşkilatı personeli için video konferans sistemi üzerinden verilecek eğitimlere
+ilişkin iş ve işlemleri ilgili birimler ve Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı ile
+koordineli olarak yürütmek.
+ç) Sosyal güvenlik konularında mesleki gelişimi sağlamak amacıyla meslek odaları ile kamu
+kurum ve kuruluşlarına yönelik oluşturulacak e-öğrenme çalışmalarına destek sağlamak.
+d) Kurum personeline yönelik diğer birimler tarafından geliştirilen e-öğrenme projelerini
+koordine etmek.
+e) Şube müdürlüğü sorumluluğundaki yedekleme ve arşivleme işlemlerini Bilgi Sistemleri ve
+Siber Güvenlik Daire Başkanlığı ile koordineli olarak yürütmek.
+f) Kurum tarafından üretilen ve/veya sunulan hizmetlerin bilişim altyapılarının tanıtılması
+konusunda ilgili daire başkanlıklarıyla koordinasyon sağlamak.
+g) İnsansız sosyal güvenlik merkezi tarafından verilecek hizmetlere ilişkin, kiosk ve Alo 170
+görüntülü/sesli görüşme işlemlerini ilgili birimlerle koordineli olarak yürütmek.
+ğ) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yetkinliğini takip etmek ve
+yıllık eğitim ihtiyaçlarını belirlemek.
+h) Bilişim hizmetlerine ilişkin, birimlerden gelen talepleri diğer daire başkanlıklarına iletilmesini
+sağlamak.
+ı) Daire başkanı tarafından verilen benzeri görevleri yapmak.
+
+MADDE 7- (1) Koordinasyon Şube Müdürlüğünün görevleri şunlardır:
+a) Kurumsal tanıtım alt yapısının kurulması için gerekli donanım ve yazılımları temin etmek
+amacıyla ilgili birimlerle işbirliğinde bulunmak.
+b) Bilgi güvenliği yönetim sistemi çerçevesinde, daire başkanlığınca yürütülen iş ve işlemlere
+ilişkin bilgi güvenliği tedbirlerini almak.
+c) Kurumsal organizasyonları ilgili birimler, kurumlar ve şahıslar ile işbirliği içinde yürütmek.
+ç) Kurumsal kimlik oluşturulmasına ilişkin standart çalışmalarına katılmak ve belirlenen
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         7/28
+standartların uygulanma birliğini sağlamak.
+d) Üretilen bilgi teknolojileri hizmetlerinin ulusal ve uluslararası alanlarda markalaşmasını,
+tanıtımını ve kullanımını sağlayacak çalışmaları ilgili birimlerle koordineli şekilde yürütmek.
+e) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 8- (1) Destek Hizmetleri Şube Müdürlüğünün görevleri şunlardır:
+a) Daire başkanlığının görev alanına giren idari işlere ilişkin yazıları mevzuat hükümleri
+çerçevesinde hazırlamak, evrakların kayıt, takip ve gönderilmesi işlemleri ile düzenli şekilde
+muhafazasını sağlamak.
+b) Daire başkanlığı personelinin yıllık, hastalık ve mazeret izinleri ile personel ödeme işlemlerini
+Yönetim Hizmetleri Daire Başkanlığı ile koordineli olarak yürütmek.
+c) Daire başkanlığının görevleri kapsamında olup, stratejik plan, eylem planı, hizmet envanteri,
+soru önergesi ve faaliyet raporları çerçevesinde istenilen bilgiler ile Sayıştay, Teftiş, İç Denetim
+ve koordinatör il müdürlüklerinin koordinasyon toplantıları sonucunda hazırlanan raporlara
+ilişkin iş ve işlemlerin yürütülmesini sağlamak.
+ç) Daire başkanlığı personelinin eğitim ihtiyaçlarını belirlemek ve Yönetim Hizmetleri Daire
+Başkanlığına bildirmek.
+d) Daire başkanlığının görevleri ile ilgili çağrı ve yardım masasına gelen ihbar, talep ve şikâyet
+başvurularını takip etmek, değerlendirmek ve çözüme kavuşturmak için gerekli işlemleri
+yürütmek.
+e) Daire başkanlığının görev alanına giren konularla ilgili istatistikleri, yayınları, uygulamaları
+ve mevzuatı izleyerek değerlendirmek, her takvim yılı sonunda Genel Müdürlük makamına arz
+edilmek üzere rapor hazırlamak ve gerçekleşen görevlerle ilgili istatistikler hazırlamak.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 9- (1) Bilişim Proje Şube Müdürlüğünün görevleri şunlardır:
+a) Kurumsal ihtiyaçlar doğrultusundaki bilgi teknolojilerine uygun program ve projeleri ilgili
+kurum ve birimlerle işbirliği içerisinde geliştirmek ve yürütülmesini sağlamak.
+b) Uygulamaya alınacak bilişim projelerine ilişkin planları ilgili birimlerle birlikte eşgüdümlü
+olarak hazırlamak.
+c) Genel Müdürlük bünyesindeki daire başkanlıklarının ertesi yıla ait bilişim yatırım proje
+tekliflerini talep sahibi daire başkanlığı ile koordineli olarak hazırlamak ve takibini yapmak.
+ç) Genel Müdürlük bünyesindeki daire başkanlıklarınca belirlenen ihtiyaçlar doğrultusunda yıllık
+yatırım programını ilgili birimlerle birlikte hazırlamak.
+d) Bilişim teknolojisi planlarını oluşturmak ve yatırımların planlara uygunluğunu sağlamak.
+e) Kurumsal projelerin hazırlanması ve yürütülmesini sağlamak amacıyla birimler arası
+koordinasyonu gerçekleştirmek ve gerekli raporları hazırlamak.
+f) Genel Müdürlükçe talep edilen bilişim yatırım projelerinin tasarımını yapmak ve uygulamaya
+alınması için rasyonel hale getirmek.
+g) Bilgi teknolojilerine ilişkin projelerin stratejik plana uygun olarak hazırlanmasını sağlamak.
+ğ) Projeler arası ödenek aktarma işlemlerini yürütmek ve projelere ait dönem sonu izleme
+değerlendirme raporu hakkında üçer aylık dönemler halinde Strateji Geliştirme Başkanlığına
+bilgi vermek.
+h) Kalkınma Bakanlığınca onaylanan toplu ve toplulaştırılmış projelerin detay programlarını
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         8/28
+ilgili birimlere göndermek.
+ı) Bilişim projelerinin teminine yönelik kurum içi ve kurum dışı kaynak temini çalışmalarını
+yürütmek.
+i) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 10- (1) Risk Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Genel Müdürlüğün bilişim hizmetleri sunumuna ilişkin risk modelini oluşturmak, risk modeli
+oluşturmaya yönelik gerekli proje yatırımlarını gerçekleştirmek, risk modelinin güncelliğinin
+sağlanmasına yönelik çalışmaları yürütmek.
+b) Genel Müdürlüğün görev alanına giren konularda, diğer kamu kurum ve kuruluşlarla
+yapılacak protokol işlemlerini yürütmek.
+c) Yapılan süreli ve/veya süresiz protokollerin iş takvimini takip etmek ve ilgili birimlere
+bildirmek.
+ç) Genel Müdürlükçe belirlenen politikaların hazırlanmasında daire başkanlıkları ile koordineli
+çalışmak.
+d) Kurumun bilişim sistemlerine ilişkin kullanılacak her türlü veriyi toplamak, analiz etmek,
+istatistiki bilgileri üretmek, sonuçları değerlendirmek ve raporlamak.
+e) Kurumun yazılım, donanım ve bilişim hizmetlerine yönelik risk kriterleri ve senaryolarını
+belirlemek, veriler üzerindeki riskleri değerlendirerek raporlamak ve ilgili birimlerle paylaşmak.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 11- (1) İzleme, Değerlendirme ve Koordinsayon Şube Müdürlüğünün görevleri
+şunlardır:
+a) Genel Müdürlüğün görevleri kapsamında olup, stratejik plan, eylem planı, hizmet envanteri,
+soru önergesi ve faaliyet raporları çerçevesinde istenilen bilgiler ile denetim raporlarına ilişkin
+yazıları incelemek, konuyla ilgili daire başkanlığı/başkanlıklarının görüşünü almak ve
+cevaplamak.
+b) Genel Müdürlüğün görevleri kapsamındaki faaliyet raporları ile yıllık eylem planlarının
+koordinasyonunu sağlamak ve sonucunu ilgili birimlere bildirmek.
+c) Daire başkanlığının görev alanına giren idari işlere ilişkin yazıları mevzuat hükümleri
+çerçevesinde hazırlamak, evrakların kayıt, takip ve gönderilmesi işlemleri ile düzenli şekilde
+muhafazasını sağlamak.
+ç) Daire başkanlığı personelinin yıllık, hastalık ve mazeret izinleri ile personel özlük işlemlerini
+Yönetim Hizmetleri Daire Başkanlığı ile koordineli olarak yürütmek.
+d) Daire başkanlığı personelinin eğitim ihtiyaçlarını belirlemek ve Yönetim Hizmetleri Daire
+Başkanlığına bildirmek.
+e) Daire başkanlığının görevleri ile ilgili çağrı ve yardım masasına gelen ihbar, talep ve şikâyet
+başvurularını takip etmek, değerlendirmek ve çözüme kavuşturmak için gerekli işlemleri
+yürütmek.
+f) Genel Müdürlükte görev yapan bilişim uzmanı ve teknik personele ait performans kriterlerini
+belirlemek, takip etmek, görev iş tanımları ile kadro analizlerini Yönetim Hizmetleri Daire
+Başkanlığı ile koordineli olarak yürütmek.
+G) Daire başkanlığının görev alanına giren konularla ilgili istatistikleri, yayınları, uygulamaları
+ve mevzuatı izleyerek değerlendirmek, her takvim yılı sonunda Genel Müdürlük makamına arz
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         9/28
+edilmek üzere rapor hazırlamak ve gerçekleşen görevlerle ilgili istatistikler hazırlamak.
+ğ) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 12- (1) Emeklilik Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Sigortalı, iştirakçi, emekli ve hak sahiplerinin emekliliğe ilişkin işlemlerinin yapılması ile
+ilgili yazılım taleplerinin değerlendirilmesi, planlanması, hazırlanması, bakımı ve hazırlanan
+yazılımların kesintisiz olarak sürdürülmesini sağlamak.
+b) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+c) Emekli ve hak sahiplerinin emeklilik işlemleri sonrası sağlık hizmeti alabilmelerine ilişkin
+sağlık aktivasyon sistemine veri aktarımını sağlamak.
+ç) Gerektiğinde emeklilik işlemleri ile ilgili operasyonel işlemleri yürütmek.
+d) Şube müdürlüğünce hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+e) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+f) Şube müdürlüğünün sorumluluğundaki iş ve işlemler ile ilgili birimleri koordineli olarak
+yürütmek.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 13- (1) Kısa Vadeli Sigorta Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Sağlık kuruluşlarının geçici iş göremezlik ödemelerine esas sağlık raporlarının elektronik
+ortamda kayıt altına alınması işlemlerinin gerçekleştirilmesini sağlamak için gerekli yazılım
+taleplerini değerlendirmek, gerçekleştirilmesi için planlama yapmak ve yazılım kodunu
+geliştirmek.
+b) İşverenlerin sigortalılara ait “çalışmadı” bildirimlerinin elektronik ortamda kayıt altına
+alınmasını sağlayacak ve işverenlerin kendi çalışanlarının rapor durumlarını takip edebilecekleri
+yazılım ihtiyacı taleplerini değerlendirmek, gerekli analiz, tasarım çalışmalarını yapmak ve
+yazılım kodunu geliştirmek.
+c) Geçici iş göremezlik kapsamındaki raporlara ait ödeme hesap, kontrol ve takip işlemlerinin
+gerçekleştirilmesini sağlamak üzere ihtiyaç duyulan yazılım ihtiyaçlarına ilişkin talepleri
+değerlendirmek, gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak ve
+yazılım kodunu geliştirmek.
+ç) İş kazası bildirimlerinin elektronik ortamda kayıt altına alınması ve gerekli takiplerin
+yapılmasını sağlamak için gerekli yazılım taleplerini değerlendirmek, iş sürecinin analiz ve
+tasarımını yapmak ve ilgili yazılım kodunu geliştirmek.
+d) Kişilerin sağlık provizyon ve aktivasyon işlemlerini takip etmek için gerekli yazılım
+taleplerini değerlendirmek, iş sürecinin analiz ve tasarımını yapmak ve ilgili yazılım kodunu
+geliştirmek.
+e) İş kazası veya meslek hastalığı sonucu oluşan maluliyete ait sağlık kurulu işlemlerine ilişkin
+yazılım taleplerini değerlendirmek, iş sürecinin analiz ve tasarımını yapmak ve ilgili yazılım
+kodunu geliştirmek.
+f) Kısa vadeli sigorta kollarına ilişkin yazılım taleplerini değerlendirmek, iş sürecinin analiz ve
+tasarımını yapmak ve ilgili yazılım kodunu geliştirmek.
+g) Hazırlanan projelerin işleyiş süreçlerini takip etmek, risk kütüklerini oluşturmak ve gerekli
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         10/28
+tedbirlerin alınmasını sağlamak.
+ğ) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+h) Şube müdürlüğü görev alanına giren projeler kapsamındaki operasyonel işlemleri yürütmek.
+ı) Şube müdürlüğünün sorumluluğundaki iş ve işlemleri ilgili birimler ile koordineli olarak
+yürütmek.
+i) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 14- (1) Emeklilik Veri Entegrasyon Şube Müdürlüğünün görevleri şunlardır:
+a) Emeklilik yazılımları kapsamındaki verilerin web servisler aracılığıyla paylaşılması ile ilgili
+yazılım çalışmalarını yürütmek.
+b) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak ve projeler hazırlamak.
+c) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+ç) BİMER kapsamında vatandaşlardan gelen taleplerin cevaplandırılmasına yönelik işlemleri
+yürütmek.
+d) Alo 170 ve e-devlet projelerine gerekli verileri sağlamak.
+e) Şube müdürlüğünün sorumluluğundaki iş ve işlemler ile ilgili birimleri koordineli olarak
+yürütmek.
+f) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 15- (1) Süreç Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Kurum tarafından sunulan hizmetlerden, süreç tanımına uygun olanları belirlemek, belirlenen
+iş süreçlerini ilgili birimlerle birlikte eşgüdümlü olarak hazırlamak ve geliştirmek.
+b) Hazırlanan iş süreçlerinin modellenerek yazılıma hazır hale getirilmesi için gerekli analiz ve
+tasarım işlemlerini ilgili birimlerle birlikte gerçekleştirmek.
+c) Süreç iyileştirme ve değiştirmeye yönelik talepleri değerlendirmek ve gerekli görülen
+durumlarda iş süreçlerini revize etmek.
+ç) Hazırlanan iş süreçlerini raporlamak, uygun araçlarla kullanıcı ve uygulayıcılara duyurmak.
+d) Belirlenen iş süreçlerini modellemek, yazılıma hazır hale getirilmesi için gerekli analiz ve
+tasarım işlemlerini ilgili birimlerle birlikte gerçekleştirmek.
+e) Süreç iyileştirme ve değiştirmeye yönelik taleplere ilişkin analiz ve tasarım işlemlerin
+yapmak.
+f) Sosyal güvenlik entegrasyon projesine ilişkin iş süreçlerinin analiz ve tasarımını yapmak.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 16- (1) Entegrasyon Şube Müdürlüğünün görevleri şunlardır:
+a) Daire başkanlığının görev alanında olan projelerin planlarını ve kaynaklarını hazırlamak, takip
+etmek ve yönetmek.
+b) Daire başkanlığının görev alanında olan projelerin paydaşlarını ve beklentilerini tespit etmek,
+kapsamını belirlemek ve süreç standartlarına uygun yürütülmesini sağlamak.
+c) Daire başkanlığı bünyesindeki proje ekiplerinin koordinasyonu ile iletişimini sağlamak.
+ç) Daire başkanlığının görev alanında olan projelerin ilerleme ve performans raporlarını ilgili
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         11/28
+birimler ile koordineli olarak hazırlamak ve takip etmek.
+d) Daire başkanlığının görev alanında olan projeler tamamlandığında devreye alma işlemlerini
+yönetmek ve yaygınlaştırılmasını sağlamak.
+e) Daire başkanlığının görev alanında olan projelerin risklerini zamanında belirlenmesini
+sağlamak, risk kütüğünü oluşturmak ve gerçekleşmesini önleyici faaliyetleri koordine etmek.
+f) Daire başkanlığı bünyesinde yürütülen projelerin Kurum standartlarına uygun bir şekilde
+belirlenmesini sağlamak.
+g) Sosyal güvenlik entegrasyon projesinin yürütülmesi ve diğer birimlerle koordinasyonunu
+sağlamak
+ğ) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 17- (1) Kalite Güvence Şube Müdürlüğünün görevleri şunlardır:
+a)Genel Müdürlük faaliyetlerinin ulusal ve uluslararası standartlara uygunluğu konusunda
+çalışmalar yapmak.
+b) İhtiyaç duyulan kalite ekiplerini oluşturmak, ekiplerin rol ve sorumluluklarını tanımlamak.
+c) Genel Müdürlüğün kalite konusundaki ulusal ve uluslararası standartlarına ilişkin yönetim
+sistemlerinin kurulmasını, iyileştirilmesini ve sürekliliğini sağlamak.
+ç ) Genel Müdürlük ile belgelendirme kuruluşları arasında koordinasyonu sağlamak.
+d) Genel Müdürlük tarafından yürütülen görevleri çerçevesinde, ulusal ve uluslararası kalite
+standartları kapsamındaki dokümantasyonların oluşturulması, kalite sistem kayıtlarının
+hazırlanması, kalite denetçilerinin belirlenmesi, periyodik kalite sistem denetimlerinin yapılması
+ve raporlanması işlemlerinin yürütülmesini sağlamak.
+e) Gözden geçirme toplantılarının düzenlenmesini sağlamak, toplantıda alınan karar ve
+iyileştirme önerilerini içeren raporu hazırlamak ve gereğinin yapılması için ilgili birimlere
+iletmek ve uygulama sonuçlarını takip etmek.
+f) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 18- (1) Elektronik Belge Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Merkez ve taşra teşkilatı arşivlerinin, elektronik arşivcilik ilkeleri doğrultusunda
+yönetilmesine ilişkin kural ve süreçleri oluşturmak, bunların uygulanmasına yönelik iş ve
+işlemleri izlemek ve uyulmasını sağlamak.
+b) Döküman yönetim sisteminin kullanılmadığı süreçte Kurum arşivlerinde birikmiş belge ve
+dokümanların sayısallaştırılmasına yönelik teknik gereksinimleri belirlemek, sistem analiz,
+tasarım ve uygulama süreçlerine ilişkin iş ve işlemleri yürütmek ve uygulanmasını takip etmek.
+c) Başbakanlık tarafından belirlenen standart dosya planı çerçevesinde elektronik arşiv saklama
+ve tasfiye planları oluşturmak.
+ç) Kurumun elektronik arşivinin yedeklenmesi konusunda çalışmalar yapmak.
+d) Kurumun elektronik arşivinin e-Devlet uygulamalarına hizmet edecek hale getirilmesine
+yönelik çalışmalar yapmak.
+e) Kurumsal ihtiyaçlar ve teknolojik gelişmeler doğrultusunda, dokuman yönetim sisteminde
+gerçekleştirilecek değişiklikleri değerlendirerek gerçekleştirilmesi için planlama yapmak ve bu
+plan çerçevesinde yazılım geliştirmek.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         12/28
+MADDE 19- (1) Kurumsal Uygulamalar Şube Müdürlüğünün görevleri şunlardır:
+a) Sosyal güvenlik mevzuatında yer alan emeklilik, sigorta, sağlık, muhasebe ve veri yönetimi
+işlemleri dışında kalan uygulamalara ilişkin yazılım taleplerinin değerlendirilmesi, planlanması,
+hazırlanması ve bakımı ile hazırlanan yazılımların kesintisiz olarak sürdürülmesini sağlamak.
+b) Coğrafi bilgi sistemi kapsamında kurumun mekânsal tabanlı uygulamalarını geliştirmek.
+c) Diğer daire başkanlıklarınca üretilen verilerin coğrafi bilgi sistemine entegre edilmesine
+ilişkin kural ve süreçleri oluşturmak, bunların uygulanmasına yönelik iş ve işlemleri izlemek ve
+uyulmasını sağlamak.
+ç) Coğrafi bilgi sistemine yönelik sistem analiz, tasarım ve uygulama süreçlerine ilişkin iş ve
+işlemleri yürütmek ve uygulanmasını takip etmek.
+d) Sorumluluğunda bulunan iş ve işlemleri diğer birimlerle koordinasyon ve işbirliği içerisinde
+yürütmek.
+e) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 20- (1) Merkezi Yetki Şube Müdürlüğünün görevleri şunlardır:
+a) Daire başkanlığının görev alanına giren yetki ve idari işlere ilişkin yazıları mevzuat
+hükümleri çerçevesinde hazırlamak, evrakların kayıt, takip ve gönderilmesi işlemleri ile düzenli
+şekilde muhafazasını sağlamak,
+b) Yetkilendirme süreçlerinin belirlenmesi, ihtiyaçlara göre yenilenmesi ve uygulanması,
+c) Kullanıcı adlarının tekleştirilmesi,
+ç) Kurumsal uygulamalarda ünite yapılarının standartlaştırılması,
+d) Uygulama kullanıcılarının oluşturulması, silinmesi,
+e) Kurumsal uygulamaların yetkilendirme işlemlerinin yapılması
+f) Yetkilendirme konusunda oluşan sorunların çözülmesi,
+g) Yetki kayıtlarının loglanarak, geriye dönük rapor ve istatistiklerin oluşturulması,
+ğ) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+h) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 21- (1) Prim Toplama Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Genel sağlık sigortası prim toplama işlemlerine ilişkin yazılım taleplerinin değerlendirilmesi,
+planlanması, hazırlanması ve bakımı ile hazırlanan yazılımların kesintisiz olarak sürdürülmesini
+sağlamak.
+b) Gerektiğinde genel sağlık sigortası prim işlemleriyle ilgili operasyonel işlemleri yürütmek.
+c) Şube müdürlüğünce hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak, oluşabilecek
+risklere karşı gerekli tedbirlerin alınmasını sağlamak.
+ç) Yeni projeler geliştirmek analiz, tasarım ve planlama çalışmalarını yapmak, yazılım kodunu
+geliştirmek.
+d) Şube müdürlüğünün sorumluluğundaki yazılım, donanım ve danışmanlık ihtiyaçlarının temini
+için gerekli gerekçe raporunu ve şartnamesini hazırlamak.
+e) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+f) Şube müdürlüğünün sorumluluğundaki iş ve işlemleri ilgili birimlerle koordineli olarak
+yürütmek.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         13/28
+g) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 22- (1) Ödeme İşlemleri Yazılım Şube Müdürlüğünün görevleri şunlardır:
+a) Kurum tarafından yapılan ödeme işlemlerinin kontrol ve takibini sağlamak amacıyla, ihtiyaç
+duyulan yazılım taleplerini değerlendirmek, gerçekleştirilmesi için analiz, tasarım ve planlama
+çalışmalarını yapmak ve hazırlanan yazılımların bakımı ile kesintisiz sürdürülmesini sağlamak..
+b) Kurum tarafından yapılan ödemeler üzerinden, Kurum alacakları, icra ve nafaka kesintisi
+yapılmasına ilişkin yazılım taleplerinin değerlendirimek, gerçekleştirilmesi için analiz, tasarım
+ve planlanma çalışmalarını yapmak ve hazırlanan yazılımların bakımı ile kesintisiz
+sürdürülmesini sağlamak.
+c) Emekli ve hak sahiplerine yapılacak maaş ve diğer ödemelerin muhasebe kayıtlarının
+oluşturulması ve kesintilerin gerçekleştirilmesi amacıyla, ihtiyaç duyulan yazılım taleplerini
+değerlendirmek, gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak ve
+hazırlanan yazılımların bakımı ile kesintisiz sürdürülmesini sağlamak.
+ç) Kurum personeline yapılacak maaş ödemelerine ait muhasebe kayıtlarının oluşturulması ve
+kesintilerin gerçekleştirilmesi amacıyla, ihtiyaç duyulan yazılım taleplerini değerlendirmek,
+gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak ve hazırlanan
+yazılımların bakımı ile kesintisiz sürdürülmesini sağlamak.
+d) Kurumun gerçekleştirdiği bütün ödeme talimatlarının bankalara gönderilmesi ve akıbetlerinin
+yapılması amacıyla, ihtiyaç duyulan yazılım taleplerini değerlendirmek, gerçekleştirilmesi için
+analiz, tasarım ve planlama çalışmalarını yapmak ve hazırlanan yazılımların bakımı ile kesintisiz
+sürdürülmesini sağlamak.
+e) Hazırlanan projelerin işleyiş süreçlerini takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+f) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+g) Şube müdürlüğü görev alanına giren projeler kapsamındaki operasyonel işlemleri yürütmek.
+ğ) Şube müdürlüğünün sorumluluğundaki iş ve işlemleri ilgili birimler ile koordineli olarak
+yürütmek.
+h) Şube müdürlüğünün sorumluluğundaki yazılım, donanım ve danışmanlık ihtiyaçlarının temini
+için gerekli iş ve işlemleri yürütmek.
+ı) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 23- (1) Tahsilat İşlemleri Yazılım Şube Müdürlüğünün görevleri şunlardır:
+a) Bütçe işlemlerinin yapılması ile ilgili yazılım taleplerinin değerlendirilmesi, planlanması,
+hazırlanması, bakımı ve hazırlanan yazılımların kesintisiz olarak sürdürülmesini sağlamak.
+b) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+c) Yeni projeler geliştirmek, ihtiyaç duyulan yazılım taleplerini değerlendirmek,
+gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak.
+ç) Tahsilat işlemlerinin yapılması ile ilgili yazılım taleplerini değerlendirmek, planlanmak,
+gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak ve hazırlanan
+yazılımların bakımı ile kesintisiz sürdürülmesini sağlamak.
+d) Taşınır işlemlerinin yapılması ile ilgili yazılım taleplerini değerlendirmek, planlanmak,
+gerçekleştirilmesi için analiz, tasarım ve planlama çalışmalarını yapmak ve hazırlanan
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         14/28
+yazılımların bakımı ile kesintisiz sürdürülmesini sağlamak.
+e) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+f) Şube müdürlüğünün sorumluluğundaki yazılım, donanım ve danışmanlık ihtiyaçlarının temini
+için gerekli gerekçe raporu ile şartnamesini hazırlamak.
+g) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+ğ) Şube müdürlüğünün sorumluluğundaki iş ve işlemleri ilgili birimlerle koordineli olarak
+yürütmek.
+h) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+ı) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 24- (1) Medula Eczane Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Eczane uygulamaları yazılımlarının hazırlanması, test edilmesi, bakımı ve kesintisiz olarak
+sürdürülmesini sağlamak.
+b) Optik provizyon sistemi yazılımlarının hazırlanması, test edilmesi, bakımı ve kesintisiz olarak
+sürdürülmesini sağlamak.
+c) Uygulamaları alanında standartların sağlanması için ilgili birimlerle gerekli çalışmaları
+yürütmek.
+ç) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak ve projeler hazırlamak.
+d) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+f) Şube müdürlüğünce karşılanamayan ve hizmet satın almayı gerektiren uygulamalara ait
+yazılımların Kurum dışından temini için teknik şartname hazırlanmasını sağlamak.
+g) Gerektiğinde görev konusuyla ilgili raporları almak ve operasyonel işlemleri yürütmek.
+ğ) Kurumsal portal üzerinde yer alacak ve şube müdürlüğünü ilgilendirecek olan e-devlet
+uygulamalarını hazırlamak ve her zaman çalışır halde olmasını sağlamak.
+h) Kurumsal sağlık uygulamalarına yönelik, Kurum çalışanlarına ve sağlık hizmet sunucularına
+eğitim ve destek hizmetleri vermek.
+ı) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 25- (1) Medula Optik ve Şahıs Ödeme Yazılımları Şube Müdürlüğünün görevleri
+şunlardır:
+a) Eczane, hastane, optik, tıbbi malzeme ve şahıs ödemeleri dışında kalan diğer sağlık uygulama
+yazılımlarını gerçekleştirilmesini sağlamak.
+b) Uygulamaları alanında standartların sağlanması için ilgili birimlerle gerekli çalışmaları
+yürütmek.
+c) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak, projeler hazırlamak.
+ç) Gerektiğinde konusuyla ilgili raporları almak ve operasyonel işlemleri yürütmek.
+d) Kurumsal portal üzerinde yer alacak ve şube müdürlüğünü ilgilendirecek olan e-devlet
+uygulamalarını hazırlamak ve her zaman çalışır halde olmasını sağlamak.
+e) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+f) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         15/28
+MADDE 26- (1) Medula Hastane Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Sağlık kuruluşlarının hak sahiplerine yaptığı muayene, tetkik ve tedavilere ilişkin ödeme
+işlemlerine ait uygulama yazılımlarının hazırlanması, test edilmesi, bakımı ve kesintisiz olarak
+sürdürülmesini sağlamak.
+b) Tıbbi malzeme ve şahıs ödemeleri uygulamaları yazılımlarının hazırlanması, test edilmesi,
+bakımı ve kesintisiz olarak sürdürülmesini sağlamak.
+c) Uygulamaları alanında standartların sağlanması için ilgili birimlerle gerekli çalışmaları
+yürütmek.
+ç) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak, projeler hazırlamak.
+d) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+e) Şube müdürlüğünce karşılanamayan ve hizmet satın almayı gerektiren uygulamalara ait
+yazılımların Kurum dışından temini için teknik şartname hazırlamak.
+f) Gerektiğinde konusuyla ilgili raporları almak ve operasyonel işlemleri yürütmek.
+g) Kurumsal portal üzerinde yer alacak şube müdürlüğünü ilgilendiren e-devlet uygulamalarını
+hazırlamak ve her zaman çalışır halde olmasını sağlamak.
+g) Kurumsal sağlık uygulamalarına yönelik, kurum çalışanlarına ve sağlık hizmet sunucularına
+eğitim ve destek hizmetleri vermek.
+h) Daire Başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 27-(1) Tescil Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+ a) Sigortalı, işyeri ve genel sağlık sigortası tescil işlemlerinin yapılması ile ilgili uygulama
+yazılımlarının hazırlanması, bakımı ve kesintisiz olarak sürdürülmesini sağlamak.
+b) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak ve projeler hazırlamak.
+c) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+ç) Gerektiğinde tescil işlemleri ile ilgili operasyonel işlemleri yürütmek.
+d) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+e) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+f) Şube müdürlüğünün sorumluluğundaki işleri ilgili birimlerle koordineli olarak yürütmek.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 28- (1) Prim ve Hizmet Yazılımları Şube Müdürlüğünün görevleri şunlardır:
+a) Prim toplama, tahakkuk, borçlanma, tevkifat, sosyal güvenlik destek primi ve benzeri
+konularla ilgili yazılımların hazırlanması, bakımı ve kesintisiz olarak sürdürülmesini sağlamak.
+b) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak ve projeler hazırlamak.
+c) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+ç) Gerektiğinde prim ve hizmet işlemleri ile ilgili operasyonel işlemleri yürütmek.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         16/28
+d) Daire Başkanlığının görevleri kapsamında olup, stratejik plan, eylem planı, hizmet envanteri,
+soru önergesi, teftiş raporları ve faaliyet raporları çerçevesinde istenilen bilgiler ile denetim ve il
+müdürlükleri koordinasyon raporlarına ilişkin yazıları incelemek, konuyla ilgili şube
+müdürlükleri arasında koordinasyonu sağlamak ve cevaplamak.
+e) Daire Başkanlığının görevleri kapsamındaki faaliyet raporları ile yıllık eylem planlarının
+koordinasyonunu sağlamak ve sonucunu Risk Yönetimi ve Proje Daire Başkanlığına bildirmek.
+f) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+g) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+ğ) Şube müdürlüğünün sorumluluğundaki işleri ilgili birimlerle koordineli olarak yürütmek.
+h) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 29- (1) Sigorta Veri Entegrasyon Şube Müdürlüğünün görevleri şunlardır:
+a) Sigorta Primleri Genel Müdürlüğünün görevleri kapsamındaki verilerin web servisler
+aracılığıyla paylaşılması ile ilgili yazılım çalışmalarını yürütmek.
+b) Birimlerden gelen konusuyla ilgili yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
+planlama yapmak ve projeler hazırlamak.
+c) Hazırlanan projeleri takip etmek ve oluşabilecek risklere karşı gerekli tedbirlerin alınmasını
+sağlamak.
+ç) Gerektiğinde sigorta verilerinin paylaşımını sağlayan yazılımların işlemleri ile ilgili
+operasyonel işlemleri yürütmek.
+d) Alo 170 ve E-devlet projelerine gerekli verileri sağlamak.
+e) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+f) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+g) Daire başkanlığının görev alanına giren yetki ve idari işlere ilişkin yazıları mevzuat hükümleri
+çerçevesinde hazırlamak, evrakların kayıt, takip ve gönderilmesi işlemleri ile düzenli şekilde
+muhafazasını sağlamak,
+ğ) Şube müdürlüğünün sorumluluğundaki işleri ilgili birimlerle koordineli olarak yürütmek.
+h) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 30- (1) Veri Ambarları Şube Müdürlüğünün görevleri şunlardır:
+a) Kurum veri ambarı sistemine ait altyapıyı sürekli çalışır halde tutmak, geliştirmek ve
+bakımlarını yapmak.
+b) Veri madenciliğine ilişkin teknolojik alt yapıyı ilgili birimlerle işbirliği içerisinde kurmak,
+geliştirmek ve bakımını yapmak.
+c) Kurumsal veriler üzerinde ilgili mevzuat birimine veri madenciliği konusunda uygun altyapıyı
+oluşturmak ve bilişim desteğini sağlamak.
+ç) Operasyonel sistemlerdeki verilerin, Bilgi Sistemleri ve Siber Güvenlik Daire Başkanlığı ile
+koordineli olarak veri ambarı sistemine aktarılmasını sağlamak.
+d) Veri ambarı sistemi, veri tabanı, raporlama, ilgili sunucuların yönetimi ve takibi ile bakım
+işlemlerini ilgili birimler ile birlikte yürütmek.
+e) Günlük alınan verilerin veri ambarı sistemine aktarılması ve güncellenmesi işlemlerini
+yürütmek.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         17/28
+f) Karar destek yazılımlarını hayata geçirmek, işletmek ve yönetimsel raporları almak.
+g) Veri ambarları ile hazırlanan raporların bakım çalışmalarını yapmak.
+ğ) Veri ambarı sisteminin güvenliğini sağlamaya yönelik çalışmaları ilgili birimlerle işbirliği
+içinde yürütmek.
+h) Veri ambarı sisteminin yedekleme işlemlerini, Bilgi Sistemleri ve Siber Güvenlik Daire
+Başkanlığı ile koordineli olarak takip etmek.
+ı) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yeterliliğini takip etmek ve
+eğitim ihtiyaçlarını belirlemek.
+i) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+j) Şube müdürlüğünün görev alanı ile ilgili konularda araştırma ve geliştirme çalışmaları
+yapmak.
+k) Şube müdürlüğünün sorumluluğundaki yazılım, donanım ve danışmanlık ihtiyaçlarının temini
+için gerekli tüm iş ve işlemleri yürütmek.
+l) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+m) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 31-(1) Sigorta Veri Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+a) Sosyal sigorta alanına giren veriler için karar destek gereksinimlerine uygun olarak veri
+modelleri hazırlamak ve hazırlanan modellere ilişkin veri tabanlarından veri çekerek veri
+ambarını oluşturmak.
+b) Sosyal sigorta alanına giren veriler için Kurum Stratejik Planı ve hizmet politikalarıyla ilgili
+üst yönetimce rasyonel kararların alınmasına katkı sağlayacak verileri veri tabanından çekmek,
+analiz etmek ve üst yönetime iletmek.
+c) Sosyal sigorta alanına giren veriler için ilgili birimlerinden karar destek ihtiyaçlarını toplamak,
+talepleri konsolide etmek ve sunulmasını sağlamak.
+ç) Sosyal sigorta alanına giren taleplere ilişkin rapor ve istatistikî bilgileri elde etmek, talep eden
+birimlere sunmak.
+d) Sosyal sigorta alanına giren veriler için Kurum içi ve dışı bilgi taleplerine ilişkin veri
+ambarından bilgiler elde etmek ve veri paylaşım mevzuat hükümleri çerçevesinde sunmak.
+e) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+f) Şube müdürlüğünün sorumluluğundaki yazılım, donanım ve danışmanlık ihtiyaçlarının temini
+için gerekli tüm iş ve işlemleri yürütmek.
+g) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+ğ) Şube müdürlüğünün sorumluluğundaki iş ve işlemleri ilgili birimleri ile koordineli olarak
+yürütmek.
+h) Coğrafi bilgi sistemi kapsamında, gerekli verilerin karar destek sistemine entegre edilmesini
+sağlamak.
+ ı) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yetkinliğini takip etmek ve
+yıllık eğitim ihtiyaçlarını belirlemek.
+i) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 32- (1) Sağlık Veri Yönetimi Şube Müdürlüğünün görevleri şunlardır:
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         18/28
+ a) Genel sağlık sigortası alanına giren veriler için karar destek gereksinimlerine uygun olarak
+veri modelleri hazırlamak ve hazırlanan modellere ilişkin veri tabanlarından veri çekerek veri
+ambarını oluşturmak.
+b) Genel sağlık sigortası alanına giren veriler için Kurum Stratejik Planı ve hizmet politikalarıyla
+ilgili üst yönetimce rasyonel kararların alınmasına katkı sağlayacak verileri veri tabanından
+çekmek, analiz etmek ve üst yönetime iletmek.
+c) Genel sağlık sigortası alanına giren veriler için ilgili birimlerinden karar destek ihtiyaçlarını
+toplamak, talepleri konsolide etmek ve sunulmasını sağlamak.
+ç) Genel sağlık sigortası alanına giren taleplere ilişkin rapor ve istatistikî bilgileri elde etmek,
+talep eden birimlere sunmak.
+d) Genel sağlık sigortası alanına giren veriler için Kurum içi ve dışı bilgi taleplerine ilişkin veri
+ambarından bilgiler elde etmek ve veri paylaşım mevzuat hükümleri çerçevesinde sunmak.
+e) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+tedbirlerin alınmasını sağlamak.
+f) Şube müdürlüğünde yürütülen iş ve işlemlere ilişkin bilgi güvenliği tedbirlerini almak.
+g) Coğrafi bilgi sistemi kapsamında, gerekli verilerin karar destek sistemine entegre edilmesini
+sağlamak.
+ğ) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yetkinliğini takip etmek ve
+yıllık eğitim ihtiyaçlarını belirlemek
+h) Genelgenin 39 uncu maddesinde belirtilen görevleri yapmak.
+ı) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+
+MADDE 33- (1) Portal Şube Müdürlüğünün görevleri şunlardır:
+a) Kurum internet ve intranet portalının tasarım ve içerik planlaması ile işletimini sağlamak.
+b) Kurumsal hizmetlerin elektronik ortamda sunumunu kurgulamak, yönetmek ve güvenliğini
+sağlamak.
+c) Kurum hizmetleri ve sosyal güvenlik konusunda kamuoyunu bilgilendirmek ve bu kapsamda
+Kurum üst düzey yöneticilerinin faaliyetlerine ait içeriği etkin ve verimli Kurum portalları
+üzerinden sunumunu ilgili birimler ile koordineli sağlamak.
+ç) Merkez ve taşra birimlerinin kendi içeriklerini portal üzerinden işletimi için portal altyapısını
+oluşturmak ve teknik destek sağlamak.
+d) Kurum internet ve intranet portalının ara yüzünü ve kullanışlılığını geliştirmeye yönelik
+deneysel araştırmalar yapmak.
+e) Gelişen bilişim teknolojilerini takip ederek, kamuoyu ve Kurum personelinin, Kurum internet
+ve intranet portallarından sunulan hizmet ve bilgiye erişimini kolaylaştıracak entegrasyonu
+sağlamak.
+f) Kurum hizmetlerine yönelik ilgili birimlerce hazırlanan dijital materyalleri kurum
+portallarında yayınlamak.
+g) e-Devlet kapısı üzerinden sunulacak kurumsal hizmetleri ilgili birimlerle belirlemek ve bu
+hizmetlere ilişkin işlemleri yürütmek.
+ğ) Kurum tarafından sunulan e-devlet hizmeti bilgi sisteminin diğer kamu kurum ve kuruluşları
+ile entegrasyonunu ilgili daire başkanlıklarıyla iş birliği içerisinde sağlamak.
+h) Şube müdürlüğünde hazırlanan projeleri takip etmek, risk kütüklerini oluşturmak ve gerekli
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         19/28
+tedbirlerin alınmasını sağlamak.
+ı) Şube müdürlüğünde görevli personelin işin yürütülmesine yönelik yetkinliğini takip etmek ve
+yıllık eğitim ihtiyaçlarını belirlemek.
+i) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 34- (1) İdari ve Mali İşler Şube Müdürlüğünün görevleri şunlardır:
+a) Genel Müdürlüğün bütçe planlamasını yapmak ve belirlenen ihtiyaçlar doğrultusunda yıllık
+cari bütçeyi hazırlamak.
+b) Genel Müdürlüküğün idari ve mali işlemlerine ilişkin işleri yürütmek.
+c) Genel Müdürlük cari ödeneklerinin takibini yapmak.
+ç) Ödeme emirleri ile gerçekleştirme işlemlerinin mevzuata ve analitik bütçe sınıflandırılmasına
+uygunluğunu sağlamak.
+d) Her türlü donanım, hizmet ve eğitim ihtiyaçlarının temini için satın alma işlemlerini
+yürütmek.
+e) Mutemet avansları ile ilgili muhasebe işlemlerini yürütmek ve takip etmek.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 35 - (1) Taşra Organizasyon Şube Müdürlüğünün görevleri şunlardır:
+a) Taşra teşkilatı birimlerinin kurulması ve kapatılması ile ilgili iş ve işlemleri yürütmek.
+b) Kurulması ve kapatılması önerilen, sosyal güvenlik merkezlerine ait Yönetim Kurulu
+Kararlarını hazırlamak, onaya sunmak ve tüm teşkilata duyurmak.
+c) Sosyal güvenlik merkezi açılmasına ilişkin kamu kurumları, sivil toplum kuruluşları, yerel
+yönetimler ve sosyal güvenlik il müdürlüklerinden gelen talepleri incelemek, değerlendirmek ve
+daire başkanlığı görüşünü oluşturmak.
+ç) Sosyal güvenlik merkezlerinin faaliyete başlama tarihlerini ilgili birimlere bildirmek ve idari
+birim kimlik kodlarının verilmesi için gerekli koordinasyonu sağlamak.
+d) Sosyal güvenlik il müdürlükleri ve sosyal güvenlik merkezlerinin tüm iletişim bilgilerini
+izlemek, güncellemek ve Kurum portalında yayımlanmasını sağlamak.
+e) Genel Müdürlüğün gelen ve giden evraklarını teslim almak, kayıtlarını tutmak, ilgili birimlere
+dağıtılması ile bunlara ait dosyalama ve arşiv işlemlerini yürütmek.
+f) Koordinatör il müdürlükleri tarafından düzenlenen raporlara ilişkin iş ve işlemleri yürütmek.
+g) Mobil ve insansız sosyal güvenlik merkezine ait iş ve işlemleri diğer birimlerle koordineli
+olarak yürütmek.
+ğ) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 36- (1) İnsan Kaynakları Şube Müdürlüğünün görevleri şunlardır:
+a) Genel Müdürlük personelinin her türlü görev yolluğu ile diğer ödemelerine ait iş ve
+işlemlerini yürütmek.
+b) Genel Müdürlük personelinin yurtiçi ve yurtdışı görevlendirilmesine ilişkin ödeme emri
+belgelerini hazırlamak ve bu belgelerle birlikte aylık ve diğer ödeme belgelerini Muhasebe Daire
+Başkanlığına göndermek.
+c) Genel Müdürlük personelinin refakat, uzun süreli mazeret, aylıksız izin, birim içi ve şehir dışı
+görevlendirme onaylarını hazırlamak, istifa, sözleşme feshi, emeklilik, atama, nakil, yer
+değiştirme ve aylıksız izin işlemlerini İnsan Kaynakları Daire Başkanlığı ile koordineli olarak
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         20/28
+yürütmek.
+ç) Genel Müdürlüğün insan kaynağı ihtiyaçlarını planlamak ve İnsan Kaynakları Daire
+Başkanlığına bildirmek.
+d) Genel Müdürlüğün görev alanına giren ikincil mevzuata ilişkin iş ve işlemleri yürütmek,
+genelge yazılarını hazırlamak ve ilgili birimlere bildirmek.
+e) Personelin özlük ve mali haklarına ilişkin her türlü değişiklikleri takip etmek ve uygun
+araçlarla tüm personele duyurmak.
+f) Genel Müdürlük personelinin birim özlük dosyalarını oluşturmak, muhafaza etmek ve
+bilgilerini güncel tutmak.
+g) Genel Müdürlük personelinin yıllık eğitim ihtiyaçlarını diğer daire başkanlıkları ile birlikte
+belirleyerek Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı ile koordineli olarak yürütmek.
+ğ) Eğitim planı çerçevesindeki iç ve dış eğitim programlarına ilişkin iş ve işlemleri yürütmek.
+h) Genel Müdürlükte staj yapacak stajyer öğrencilere ilişkin iş ve işlemleri yürütmek.
+ı) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 37- (1) Envanter ve Ayniyat Şube Müdürlüğünün görevleri şunlardır:
+a) Kurumsal donanım ve yazılım lisansları ile her türlü bilgisayar, yazıcı, tarayıcı, faks cihazı ve
+IP telefonlarına ait envanter kayıtlarını ilgili birimlerle koordineli olarak tutmak ve takip etmek.
+b) Merkez ve taşra teşkilatının ihtiyaçları doğrultusunda alımı yapılan her türlü bilgisayar,
+donanım, yazıcı, tarayıcı, faks cihazı, IP telefonlarının muhafazası ile dağıtımına ilişkin
+işlemleri taşınır mal mevzuatı hükümleri çerçevesinde yürütmek.
+c) Genel Müdürlüğün araç-gereç, kırtasiye ve sarf malzemelerine ait tahmini ihtiyaçları
+belirlemek.
+ç) Genel Müdürlük ve bünyesindeki daire başkanlıklarının taşınır kayıtlarını tutmak ve bu
+malzemelerin sevk ve idaresini sağlamak.
+d) Genel Müdürlük bünyesindeki daire başkanlıklarının ihtiyacı çerçevesinde satın alınan
+demirbaş ve sarf malzemelerine ait belgeleri düzenlemek, malzemelerin ambara giriş ve çıkış
+işlemlerini yürütmek ve demirbaşların her mali yılsonunda sayımını yapmak.
+e) Merkez ve taşra teşkilatı birimlerinin talepleri çerçevesinde, her türlü bilgisayar, yazıcı,
+tarayıcı, faks cihazı ve IP telefon ihtiyaçlarının analizini yapmak.
+f) Genel Müdürlüğün ihtiyaçları çerçevesinde, satın alınan her türlü demirbaş ve sarf
+malzemelerine ait belgeleri düzenlemek, muhasebe sisteminde kayıt işlemlerini gerçekleştirmek
+ve muhafazasını sağlamak.
+g) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 38- (1) Yazılım grubunun görevleri şunlardır:
+a) Kurumsal kararlar doğrultusunda, bilgi teknolojisi taleplerine ilişkin yazılım ihtiyaçlarını
+değerlendirerek gerçekleştirilmesi için planlama yapmak.
+b) Yazılım projesine ilişkin analiz, tasarım, kodlama ve test işlemlerini; ana hizmet, danışma ve
+yardımcı hizmet birimleri tarafından belirlenen iş süreçleri/iş kuralları çerçevesinde yapmak.
+c)Yazılım projesinin güncellemelerini yapmak ve uygulamaların kesintisiz olarak hizmet
+vermesini sağlamak.
+ç) Yazılım projesinin e-devlet uygulamalarını hazırlamak ve her zaman çalışır halde olmasını
+sağlamak.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         21/28
+d) Etkileşimi olan diğer yazılım proje grubu ile koordineli olarak çalışmak.
+e) Yazılım projesinin dokümantasyonlarını hazırlamak.
+f) Yazılım projeyle ile ilgili toplantılara katılmak.
+g) Monitörleme araçlarını kullanarak projeyi izlemek ve takip etmek.
+ğ) Yazılım projesiyle ilgili raporları almak ve operasyonel işlemleri yürütmek.
+h) Yazılım projesiyle ilgili batch işlemlerini yapmak.
+ı) Yazılım projesinin uygulama ve işletimine ilişkin işlemlerini, Kurumun belirlediği yazılım
+geliştirme standartları ve yazılım teknik tasarım dökümanlarına uygun olarak yürütmek.
+i) Hazırlanan yazılım projesini takip etmek ve oluşabilecek risklere karşı gerekli tedbirleri almak.
+j) Yazılım projesinin, sistem, veri tabanı, veri ambarları ve test işlemlerini yürütmek.
+k) Yazılım projesine ilişkin teknolojik yenilikleri takip etmek ve uygulamak.
+l) Yazılım projesinin performans ile bakımını yapmak.
+m)Yazılım projesine ilişkin dönemsel gözden geçirme faaliyetlerine katkı sağlamak ve
+gereklerini uygulamak.
+n) Yazılım projesine ilişkin toplanan verinin tutarlılığını, diğer verilerle uyumluluğunu ve
+tanımlanan iç kontrollere uygunluğunu sağlamak.
+o) Yazılım projesi kapsamında toplanan verileri ilgili mevzuat biriminden katılımın olduğu bir
+komisyon marifetiyle denetlemek ve dönemsel olarak raporlamak.
+ö)Yazılım projesiyle ilgili çağrı ve yardım masasına gelen talep ve şikâyet başvurularını takip
+etmek, değerlendirmek ve çözüme kavuşturmak için gerekli işlemleri yürütmek.
+p) Sorumlu olduğu projeyle ilgili yazışma ve evrak işlemlerini yapmak.
+r) Verilen benzer nitelikteki diğer görevleri yapmak.
+(2)Yazılım grubuna görev verilmesi, bu görevin yapılması için gerekli yetki ve sorumluluğun
+verildiği anlamını taşır. Ekipte görevlendirilen personel, verilen görevi yapmak için gerekli
+yetkiye sahip olup, görevleri arasında sayılan iş ve işlemlerin etkin ve verimli olarak
+yapılmasından sorumludur.
+(3) Yazılım grubunda görevlendirilen personel; sistem, veri tabanı, ağ, veri güvenliği, veri
+ambarı, veri madenciliği ve benzeri nitelikteki projeler ile entegrasyonu sağlamak ve ilgili proje
+ekipleri arasında eşgüdümlü olarak çalışmaktan proje koordinatörüne karşı sorumludur.
+
+MADDE 39- (1) İdari ve yönetim hizmetleri işlemleri :
+a) Daire başkanlığının görev alanına giren idari işlere ilişkin yazıları mevzuat hükümleri
+çerçevesinde hazırlamak, evrakların kayıt, takip ve gönderilmesi işlemleri ile düzenli şekilde
+muhafazasını sağlamak.
+b) Daire başkanlığı personelinin yıllık, hastalık ve mazeret izinleri ile personel ödeme işlemlerini
+Yönetim Hizmetleri Daire Başkanlığı ile koordineli olarak yürütmek.
+c) Daire başkanlığının görevleri kapsamında olup, stratejik plan, eylem planı, hizmet envanteri,
+soru önergesi ve faaliyet raporları çerçevesinde istenilen bilgiler ile Sayıştay, Teftiş, İç Denetim
+ve koordinatör il müdürlüklerinin koordinasyon toplantıları sonucunda hazırlanan raporlara
+ilişkin iş ve işlemleri yapmak ve talep eden birime bildirmek.
+ç) Daire başkanlığı personelinin eğitim ihtiyaçlarını belirlemek ve Yönetim Hizmetleri Daire
+Başkanlığına bildirmek.
+d) Daire başkanlığının görevleri ile ilgili çağrı ve yardım masasına gelen ihbar, talep ve şikâyet
+başvurularını takip etmek, değerlendirmek ve çözüme kavuşturmak için gerekli işlemleri
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         22/28
+yürütmek.
+e) Daire başkanlığının görev alanına giren konularla ilgili istatistikleri, yayınları, uygulamaları
+ve mevzuatı izleyerek değerlendirmek, her takvim yılı sonunda Genel Müdürlük makamına arz
+edilmek üzere rapor hazırlamak ve gerçekleşen görevlerle ilgili istatistikler hazırlamak.
+f) Daire başkanı tarafından verilen benzer nitelikteki diğer görevleri yapmak.
+
+MADDE 40- (1) Koordinatörün belirlenmesi, görev, yetki ve sorumlulukları: Koordinatör;
+sorumlu olduğu projenin bütünsel uyumu, diğer projelerle olan entegrasyonu ve ekipte görev
+alan personelin koordinasyonunu sağlamak amacıyla daire başkanının onayı ile belirlenir.
+(2)Koordinatörün belirlenmesinde; sırasıyla bilişim uzmanı, sosyal güvenlik uzmanı, mühendis,
+çözümleyici, programcı, istatistikçi ve şef kadrolarında çalışanlar öncelikle görevlendirilir.
+(3) Koordinatörlük görevini yürütecek personelin çalışma süresi daire başkanı tarafından
+belirlenir.
+(4) Yazılım koordinatörünün görevleri şunlardır:
+a) Ekipte görev alan personele görev taksim etmek, ekip üyeleri ile haftalık değerlendirme
+toplantıları yapmak ve hazırlanan raporu daire başkanına sunmak.
+b) Projeye ilişkin analiz ve tasarım ile her türlü dokümanın hazırlanmasını sağlamak.
+c) Yazılım projesinin fonksiyonellik testi, yük testi ve güvenlik testinin gerçekleştirmesini
+sağlamak.
+ç) Kurum bilgi teknolojileri stratejisine uygun olarak, projeye ilişkin teknolojik yeniliklerin takip
+etmek ve uygulamasını sağlamak.
+d) Yazılım projesinin analiz, tasarım, kodlama ve test aşamalarında gereksinim değişikliğinin
+minimum oranda giderilmesini sağlamak.
+e) Projenin kapsam, zaman, iletişim ve risk organizasyonuna ait planlarını oluşturmak, planların
+proje sonuna kadar güncel tutulmasının sağlanmak.
+f) Yazılım ekip üyeleri ile kullanıcılar arasında koordinasyon ve iletişimi sağlamak.
+g) Proje kapanışını tüm paydaşları içerecek şekilde gerçekleştirmek ve kapanış
+dokümantasyonunu önceden belirlenmiş kalite ölçütlerine göre yapmak.
+ğ) Yazılım ekip üyelerinin karşılaştıkları teknik sorunlar ile projenin gidişatını etkileyebilecek
+diğer sorunları çözüme kavuşturmak ve çözülemeyenleri bir üst yetkiliye bildirmek.
+h) Verilen benzeri nitelikteki diğer görevleri yapmak.
+(5) Koordinatöre görev verilmesi, bu görevin yapılması için gerekli yetki ve sorumluluğun
+verildiği anlamını taşır. Koordinatör, verilen görevi yapmak için gerekli yetkiye sahip olup,
+sorumluluğu da yetki ile sınırlıdır.
+(6)Koordinatör; verilen görevleri tam ve zamanında eksiksiz olarak yapmaktan Şube
+Müdürü/Daire Başkanına karşı sorumludur.
+
+MADDE 41-(1) Yazılım proje sorumlusu; projenin genel kapsamına ilişkin temsil
+sorumluluğu ile birlikte görevlendirildiği alanla ilgili tüm hizmet ve görevleri yerine getirmek
+amacıyla daire başkanının onayı ile belirlenir.
+(2)Proje sorumlusu olarak görev yapacak personelin, çalışma süresi daire başkanı tarafından
+belirlenir.
+(3)Proje sorumlusunun görevleri şunlardır:
+a) Projeye ilişkin yürütme, yönetim, hata bildirimleri, izleme, yazışma ve operasyon işlemlerini
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         23/28
+yapmak.
+b) Projeye ilişkin performans ve süreklilik sunumunu takip etmek ve proje koordinatörüne
+önerilerde bulunmak.
+c) Gerekli tüm dokümanları oluşturmak.
+ç) Gereksinimlere uygun, tasarım özelliklerini ve kullanıcı beklentilerini karşılayan yazılımı
+geliştirmek ve test etmek.
+d)Kurum bilgi teknolojileri stratejisine bağlı kalmak ve önceden belirlenmiş kodlama
+standartlarına uymak.
+e) Yazılım geliştirme döngüsünün analiz, tasarım, uygulama, test ve devreye alma aşamalarında
+proje zaman ve görev planına uymak, yazılım proje koordinatörü ve diğer ekip üyeleri ile tam
+uyumlu çalışmak.
+f) Geliştirilen yazılıma ilişkin dokümantasyon ve kod satırı açıklamalarını, kalite standartlarına
+uygun olarak gerçekleştirmek.
+g) Yazılımları modülerlik, güvenlik, denetlenebilirlik, performans ve gereksinimlerine uygun
+olarak geliştirmek.
+ğ) Diğer projeler ile ilgili entegrasyon için gerekli yazılımları geliştirmek.
+h) Projenin yük testi ve güvenlik testini gerçekleştirmek.
+ı) Yazılım geliştirme döngüsünün tüm aşamalarında, yazılımın hitap ettiği ilgili birim personeli
+ile iyi ilişkiler kurumak.
+i) Verilen benzeri nitelikteki diğer görevleri yapmak.
+(4)Yazılım proje sorumlusuna görev verilmesi, bu görevin yapılması için gerekli yetki ve
+sorumluluğun verildiği anlamını taşır. Proje sorumlusu, verilen görevi yapmak için gerekli
+yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+(5)Yazılım proje sorumlusu; verilen görevleri tam ve zamanında eksiksiz olarak yapmaktan
+koordinatöre karşı sorumludur.
+
+MADDE 42-(1) Bilişim taleplerini değerlendirme komisyonu; Genel Müdürlük bünyesinde
+sunulan uygulama yazılımlarına ilişkin bilgi teknolojileri hizmetlerinin hayata geçirilmesi,
+mevcut hizmetlerin güncellenmesi ve iyileştirilmesi amacıyla, Genel Müdürlük bünyesinde ve
+Kurum Başkanının onayı ile kurulabilir.
+(2) Komisyon; Genel Müdür tarafından önerilen Genel Müdür Yardımcısı/Daire Başkanı
+başkanlığında, ilgili yazılım daire başkanı, ana hizmet, danışma ve yardımcı hizmet
+birimlerinden konusunda uzman birer yetkili olmak üzere en az beş üyeden oluşur.
+(3) Komisyon; Talep edilen uygulama yazılımlarına ilişkin bilişim hizmetlerinin ilgili ana
+hizmet, danışma ve yardımcı hizmet birimleri tarafından değerlendirilmesi sonucu oluşan
+görüşler doğrultusunda zaman planlamasını yapar ve Genel Müdürün onayına sunar.
+(4) Komisyon başkan ve üyeleri verilen görevleri tam ve zamanında eksiksiz olarak yapmaktan
+Genel Müdüre karşı sorumludur.
+
+MADDE 43- (1) Proje yürütme komisyonu: Bilişim Talepleri Değerlendirme Komisyonu veya
+Genel Müdür tarafından uygulama kararı alınan hizmetlerin, başlatılması ve uygulamaya
+alınması sürecine kadar olan görevlerin yerine getirilmesi amacıyla daire başkanlıklarında
+kurulabilir.
+(2) Komisyon başkanı, üyeleri ve sayısı; daire başkanının önerisi ve Genel Müdürün onayı ile
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         24/28
+belirlenir.
+(3) Komisyon; iş yoğunluğu ve personel sayısı dikkate alınarak birden fazla kurulabilir.
+(4) Komisyonda başkan olarak görevlendirilen personel aynı zamanda proje koordinatörüdür.
+(5) Proje sorumlusu bu komisyonun doğal üyesidir.
+(6) Komisyon başkan ve üyelerinin uyması gereken kurallar;
+a) Komisyon başkanı ve üyeler her komisyon toplantısına mutlak katılacaktır.
+ b) Komisyon üyeleri üst üste iki defa toplantıya katılmaması halinde mazeretlerini komisyon
+başkanına yazılı olarak bildirir. Yeni üye görevlendirmesi ise ikinci fıkrada belirtilen usul
+çerçevesinde daire başkanı tarafından yapılır.
+ c) Komisyon çalışmalarında, yeter sayısı ve karar sayısı üye tam sayısının salt çoğunluğu olarak
+kabul edilir.
+(7) Komisyonun görev ve sorumlulukları;
+ a) Projenin üst seviyede denetlenmesi, risk ve problemler ile bilgi güvenliğinin değerlendirmesi
+ve çözüm için gerekli kararların alınması işlemlerini gerçekleştirmek.
+ b) Projenin standartlara uygunluğu, diğer projelere olan uyumu, yazılım ve veri tabanı birliğinin
+oluşturulması ve genel gidişatını değerlendirmek.
+c) Proje koordinatörü tarafından bildirilen raporlar ile risk ve problemleri değerlendirmek.
+ç) Tanımlanan risk ve problemlere karşı gerekli önlemleri almak.
+d) Proje süresince değişimi yönetmek.
+e) Proje süresince ortaya çıkabilecek sorunlara karşı düzeltici eylemlerde bulunmak.
+(8) Komisyonun projeye ilişkin görevinin sona ermesi; Proje uygulamaya alındıktan sonra iş
+bitirme işleminin gerçekleşmesi, daire başkanının önerisi ve Genel Müdürün onayı ile kesinleşir.
+Komisyon uygulamaya hazır olan projeyi, proje grubuna devreder ve projeye ilişkin görevi sona
+erer.
+(9) Komisyon başkan ve üyeleri görevlerini tam ve zamanında eksiksiz olarak yerine
+getirmekten komisyonun kurulması önerisinde bulunan Daire Başkanına karşı sorumludur.
+
+MADDE 44-(1) Proje gözden geçirme komisyonu; Projelerin kurum standartlarında
+gerçekleştirilmesi, etkin ve verimli iş süreçlerinin oluşturulması, yeni teknolojilere uyumun
+sağlanması amacıyla daire başkanlıklarında kurulabilir.
+(2) Komisyon başkanı, üyeleri ve sayısı, Daire Başkanının teklifi Genel Müdürün onayı ile
+belirlenir.
+(3) Komisyon, ilgili proje koordinatörü veya proje sorumlularından bir personel, diğer projelerde
+görev almış iki proje koordinatörü veya proje sorumlusu ile sistem ve veri tabanı sorumluları
+olmak üzere beş kişiden oluşur.
+(4) Komisyon başkanlığını daire başkanı tarafından belirlenen proje koordinatörü yürütür.
+(5) Komisyon çalışmalarını rapor halinde ilgili daire başkanına iletir.
+(6) Komisyon iş yoğunluğu ve personel sayısı dikkate alınarak, Daire Başkanının teklifi ve
+Genel Müdürün onayı ile birden fazla kurulabilir.
+(7) Komisyon başkan ve üyeleri verilen görevleri tam ve zamanında eksiksiz olarak yerine
+getirmekten Daire Başkanına karşı sorumludur.
+
+MADDE 45- (1) Veri tabanları gözden geçirme ve analiz komisyonu; geliştirilen projeler
+aracılığıyla toplanan verilerin doğruluğu, tutarlılığı, içsel tanımlara uygunluğu ve diğer verilerle
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         25/28
+karşılıklı işlerliğini denetlemek amacıyla daire başkanlıklarında kurulabilir.
+(2) Komisyon başkanı, üyeleri ve sayısı, Daire Başkanının teklifi Genel Müdürün onayı ile
+belirlenir.
+(3) Komisyon, ilgili proje koordinatörünün görevlendirdiği proje grubu personeli ile ilgili
+mevzuat birimlerinde görev yapan uzman kişilerden oluşur.
+(4) Komisyon başkanlığını, daire başkanı tarafından belirlenen proje koordinatörü yürütür.
+(5) Komisyon çalışmalarını rapor halinde ilgili daire başkanlığına iletir.
+(6) Komisyon; iş yoğunluğu ve personel sayısı dikkate alınarak, Daire Başkanının teklifi Genel
+Müdürün onayı ve ilgili mevzuat biriminin koordinasyonu ile birden fazla kurulabilir.
+(7) Komisyon başkan ve üyeleri verilen görevleri tam ve zamanında eksiksiz olarak yerine
+getirmekten Daire Başkanına karşı sorumludur.
+
+MADDE 46- (1) Yazılım projeleri fonksiyonellik test komisyonu; merkez ve taşra teşkilatı
+tarafından talep edilen yeni yazılımların hayata geçirilmesi, mevcut yazılımlarda yapılması
+gereken değişikliklerin istenilen nitelikte gerçekleştirilmesi, hazırlanan yazılımın etkin ve
+verimli bir şekilde yürütülmesi amacıyla Daire Başkanının teklifi, yazılımı talep eden ilgili ana
+hizmet, danışma ve/veya yardımcı hizmet birim amirinin uygun görüşü ve Genel Müdürün onayı
+ile kurulabilir.
+(2) Komisyon; Genel Müdür/ilgili yazılım daire başkanın görevlendireceği koordinatörün
+başkanlığında, yazılımı talep eden ilgili ana hizmet, danışma ve yardımcı hizmet birimleri ile
+Ankara Sosyal Güvenlik İl Müdürlüğünden olmak üzere en az üç üyeden oluşur.
+(3) Komisyon; Fonksiyonellik test işlemleri sonucunda hazırlayacağı uygunluk raporunu,
+yazılımı talep eden birim ile ilgili yazılım daire başkanlığına sunmaktan, verilen görevleri tam ve
+zamanında eksiksiz olarak yapmaktan Genel Müdüre karşı sorumludur.
+
+MADDE 47 - (1) Teknik şartname hazırlama komisyonu; bilgi ve iletişim teknolojileri
+kapsamında dış kaynaklardan karşılanması gereken donanım, yazılım, eğitim, demirbaş mal ve
+her türlü altyapı yatırımları ile hizmet alımlarının temini için Genel Müdürlük veya daire
+başkanlıkları bünyesinde kurulabilir.
+(2) Komisyon üyeleri ve sayısı; satın almayı talep eden daire başkanının teklifi, bağlı olduğu
+Genel Müdür Yardımcısının uygun görüşü ve Genel Müdürün oluru ile belirlenir.
+(3) Teknik şartname komisyonu; Bilgi ve iletişim teknolojileri kapsamında dış kaynaklardan
+karşılanması gereken donanım, yazılım, eğitim, demirbaş mal ve her türlü bilişim altyapı
+yatırımları veya hizmet alımı konularında teknik bilgiye sahip ve proje koordinatörü olarak
+görevlendirilecek unvanlar arasında sayılan bir veya birden fazla daire başkanlığı personelinden
+ve yeterli sayıda üyeden oluşur.
+(4) Teknik şartname hazırlanma süresi; Teknik şartname komisyon üyelerinin belirlendiği Genel
+Müdürlüklük olurunda süre belirtilmiş ise belirtilen sürede, süre belirtilmemiş ise olur tarihinden
+itibaren en geç 30 iş günü içinde hazırlanmak zorundadır.
+(5) Komisyonun görevi; Komisyon teknik şartnameyi ilgili kamu ihale mevzuatı ve uygulama
+yönetmeliklerinde düzenlenen esaslara göre, gereksinim analizi doğrultusunda eksiksiz olarak
+hazırlar ve satın almayı talep eden Daire Başkanı'na süresi içinde teslim eder.
+(6) Komisyon başkan ve üyeleri verilen görevleri tam ve zamanında eksiksiz olarak yapmaktan
+Genel Müdür ve/veya satın almayı talep eden Daire Başkanı'na karşı sorumludur.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         26/28
+MADDE 48– (1) Günün yirmi dört saatinde devamlılık gösteren hizmetlere ilişkin vardiyalı
+çalışma; 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 99 ve 101 inci maddeleri
+çerçevesinde, Genel Müdürlüğün görev alanına giren sistem, network, veri tabanı, yazılım, veri
+ambarı ve diğer uygulamaları yürütmek, kurumsal sunucu sistemini izlemek, gerekli yedekler ile
+döküm işlemlerini yedi gün yirmi dört saat görevli personel aracılığıyla kesintisiz sürdürmek
+amacıyla Genel Müdürlük bünyesinde uygulanabilir.
+(2) Vardiya usulü ile çalışacak personelin görevlendirilmesi, yetkinlikleri, sayısı ve isimleri ilgili
+Daire Başkanının önerisi ve Genel Müdürün onayı ile belirlenir.
+(3) Vardiya usulü ile çalışma gün ve saatlerini gösteren çizelge, aylık olarak hazırlanır ve daire
+başkanı tarafından onaylanan çizelge, ilgili personele imza karşılığı tebliğ edilir.
+(4) Hafta içi, hafta sonu ve resmi tatil günleri de dâhil olmak üzere vardiyalı çalışma saatleri;
+a) Birinci vardiya 08.30 ila 20.30 saatleri arasında,
+b) İkinci vardiya 20.30 ila 08.30 saatleri arasında hizmet verilecek şekilde düzenlenir.
+(5) Gece vardiyasında çalıştırılan personele kesintisiz kırk sekiz saat, gündüz vardiyasında
+çalıştırılan personele ise kesintisiz yirmi dört saat dinlenme süresi göz önünde bulundurularak
+vardiya görevi verilir. Ancak personelin isteği, Daire Başkanının önerisi ve Genel Müdürün
+onayı, iş sağlığı ve güvenliği göz önünde bulundurularak aynı personel için devamlı gece veya
+devamlı gündüz vardiya görevi verilebilir.
+(6) Vardiya sayısı ile çalışma saatleri, daire başkanlığının iş yoğunluğu, işlem hacmi ve kurum
+norm kadro usul ve esaslarına göre belirlenen personel sayısı da dikkate alınarak, Daire
+Başkanının önerisi ve Genel Müdürün onayı ile değiştirilebilir.
+(7) Vardiya usulü ile çalışan personel aynı gün birden fazla vardiyada görev alamaz.
+(8) Hafta sonu ve resmi tatil günleri ile gece vardiya grubunda en az iki personel görevlendirilir.
+Ancak, personel yetersizliği ve vardiya grubunun hizmet verdiği alanlarda güvenlik görevlisinin
+bulunması durumunda tek personel görevlendirilebilir.
+(9) Vardiyalı olarak çalışan personel izinsiz görev yerini terk edemez. Ancak, görevi sırasında
+bir kaza veya saldırıya uğraması ve görevde kalması halinde hayati tehlike oluşturacak şekilde
+hastalanması, bakmakla yükümlü olduğu ana, baba, eş ve çocukları ile kardeşlerinden birinin
+ağır bir kaza geçirmesi veya vefat etmesi gibi zaruri mazeretin oluşması halinde, görevini yetkili
+amirin bilgisi dâhilinde kendisinden sonra vardiyaya gelecek personele devredebilir.
+(10) Vardiya usulü ile çalışacak personel, vardiya değişim saatinde görev yerinde hazır bulunur.
+Vardiya değişimi; görevi devralacak personele hizmetin gerektirdiği bütün bilgilerin
+verilmesinden ve görev teslim işlemlerinin tamamlanmasından sonra yapılır.
+(11) Vardiya usulü ile görev yapacak personele, 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar
+Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 3 üncü
+maddesi çerçevesinde hafta içi, hafta sonu ve resmi tatil günlerinde bir öğün yemek verilir.
+a) Vardiya usulü ile çalışan personelin yemek ihtiyaçları, kumanya veya yemekhaneden yemek
+ayrılması şeklinde karşılanır.
+b)Kumanya olarak verilmesi halinde, yiyecek yardımının gerektirdiği giderler, yemek
+maliyetlerinin yarısını aşmamak üzere, Devlet Memurları Yiyecek Yardımı Yönetmeliği
+kapsamına dâhil memur kadrosu adedine göre Kurum bütçelerine konulacak ödeneklerden
+karşılanır.
+c) Yemek bedelinin bütçeden karşılanamayan kısmı yemek yiyen personelden alınır.
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         27/28
+  MADDE 49– (1) Satın alma işlemleri: Genel Müdürlük bünyesindeki daire başkanlıkları;
+görevleri kapsamında bulunan ve satın alınması gereken yazılım, donanım, hizmet ve eğitim
+ihtiyaçlarının temini için, ihtiyaç ve gereksinim analizi, teknik şartname, varsa sözleşme ve
+genel/idari şartnamede bulunması istenilen hususlar ile imzalı harcama talimatı ve ödeme emri
+belgelerini Yönetim Hizmetleri Daire Başkanlığına göndermesi, satın alma süreci sonunda talep
+edilen malı taşınır kayıt kontrol yetkilisi nezaretinde teslim alması, muayene kabul ve kontrol
+teşkilatı işlemleri ile sözleşme ve genel/idari şartnamede belirtilen yükümlülükleri yerine
+getirmesi zorunludur.
+(2) Genel Müdürlüğün görevleri kapsamında bulunan hizmetlerin kesintisiz yürütülmesi için her
+türlü satın alma, bakım-onarım ve benzeri mali işlemler Kurum Başkanlık Makamının 30 Ocak
+2015 tarihli ve 2015/7 sayılı Genelgenin 4 üncü maddesinin (a) bendinin 5.2 alt bendinde
+belirtilen hususlar çerçevesinde, harcama yetkililiği Genel Müdürlüğün uhdesinde kalmak
+kaydıyla Destek Hizmetleri Daire Başkanlığından talep edilebilir.
+
+MADDE 50- Genel Prensipler
+(1) Gerçekleştirme görevlileri tarafından ortaya konulan tüm ihtiyaçlara yönelik olarak, öncelikle
+gerekçe raporu hazırlanacak olup, hazırlanan gerekçe raporu konunun uzmanları ve Daire
+Başkanı tarafından imzalanarak Genel Müdürlük makamına uygun görüşle arz edilecektir.
+(2) Genel Müdürlüğün görevleri kapsamında bulunan ve 7/24 saat esasına göre hizmet veren
+uygulamalarda kesintinin oluşması durumunda, kesintiye neden olan olay hakkında rapor
+düzenlenecek, sorunun çözümüne ilişkin yapılan işlemler hakkında ise tutanak hazırlanarak
+Genel Müdürlük makamına arz edilecektir.
+(3) Genel Müdürlük tarafından yürütülen tüm idari ve mali hizmetlere ilişkin görevlerin yerine
+getirilmesinde; mevzuat hükümlerine, çalışma usul ve esaslarına, tüm iş gereklerine, bilgi
+güvenliği kuralları ve verimlilik ölçülerine riayet edilmesinde, faaliyet, program, proje, sözleşme
+ve protokolleri çerçevesinde düzenlenecek hakedişler ile ödemelere ait fatura ve diğer belgelerin
+zamanında, eksiksiz ve usulüne uygun olarak hazırlanmasında ve bu kapsamda yürütülecek iş ve
+işlemlerin herhangi bir aksaklığa sebebiyet verilmesinde kusur ve ihmali bulunan birim
+yöneticileri ile ilgili personel görev ve yetkileri çerçevesinde sorumludur.
+        Yukarıda bahsedilen görevlerin, Hizmet Sunumu Genel Müdürlüğünde görev yapan her
+unvan ve pozisyondaki personel tarafından zamanında ve eksiksiz olarak yerine getirilmesi
+hususunda,
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+                                                                              Lütfi AYDİN
+                                                                              Genel Müdür
+
+
+
+
+Adres: Milli Müdafaa Cd. No:24 Bakanlıklar / ANKARA   Ayrıntılı Bilgi İçin İrtibat: M.KARAKOYUN Şb.Md.
+Tel. : (312) 414 40 50                                Faks : (312) 414 40 90
+E-posta: mkarakoyun@sgk.gov.tr                        Elektronik ağ: www.sgk.gov.tr
+
+
+                                                                                                         28/28
+

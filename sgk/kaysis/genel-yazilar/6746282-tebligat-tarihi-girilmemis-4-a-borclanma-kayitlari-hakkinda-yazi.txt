@@ -1,0 +1,64 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/95290
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 6746282
+ADI: TEBLİGAT TARİHİ GİRİLMEMİŞ (4/A) BORÇLANMA KAYITLARI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 73679c74fd62f6789cd5cf563581a0a8c13c7b4aa3677281eee551b345ffe6cb
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Hizmet Akdiyle Çalışanlar Daire Başkanlığı
+
+Sayı : 57405428-<...>-E.6746282 14.12.2016
+Konu : Tebligat tarihi girilmemiş (4/a)
+
+borçlanma kayıtları
+
+GENEL YAZI
+
+5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendine tabi sigortalıların 41 inci
+madde kapsamında yaptıkları borçlanmaların, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+hükümlerine göre çalışan MOSİP programı aracılığıyla 9/1/2012 tarihinden itibaren on-line tahsiline imkan
+tanıyan program, tüm ünitelerde kullanılmaya başlanılmış ve 6/1/2012 tarihli, 2012/4 sayılı e-sigortalı
+talimatı ile ünitelerce yapılacak işlemler duyurulmuştur.
+
+Söz konusu programın işletime açılması ile 9/1/2012 tarihinden itibaren “(4/a) Hizmet Borçlanma”
+programına giriş yapılan tüm borçlanma tahsilatları bankalara gönderilmekte olup, borçlanmanın tebliğ
+tarihinden itibaren bir ay içinde ödenip ödenmediğini tespiti ünitelerin “TEBLİGAT TARİHİ İŞLEMLERİ,
+TEBLİGAT TARİHİ GİRİŞİ” alanına borçlanma tebliğ tarihi girişi yapmaları ile mümkün olmaktadır.
+Tebligat tarihi girilmemiş kayıtlar Kurum hesaplarında borçlanma kaynaklı alacak olarak gözükmekte ve
+ödenen tutarlar borçlanma hesaplarında bekletilmektedir.
+
+2015 yılı Sayıştay Denetim Raporunda borçlanma tutarları ile ilgili yapılan incelemede, borçlanma
+tahakkuk kayıtlarının iptal edilmemesi nedeniyle Kurum mali tablolarında yer alan hizmet borçlanmalarına
+ilişkin tahakkuk ve tahsilatların gerçek tutarları yansıtmadığı bulgusu yer almıştır. Başkanlığımızca “(4/a)
+Hizmet Borçlanma” program giriş ekranına aşağıdaki uyarı mesajı eklenmiştir:
+
+“2012, 2013, 2014, 2015 ve 2016 yılları için borçlanma girişi yapıldığı halde tebligat tarihi
+girilmemiş Kurum alacağı olarak gözüken kayıtlar tespit edilmiştir. Sayıştay denetimlerinde özellikle Kurum
+alacağı özellikle takip edilmekte olup hizmet borçlanma programının ana menü "Tebligat tarihi girilmemiş
+borçlanmalar” bölümünden tebligat tarihi giriş yapılmamış kayıtların ivedilikle girişlerinin yapılması
+gerekmektedir.”
+
+“(4/a) Hizmet Borçlanma” programında her bir borçlanma türü için “TEBLİGAT TARİHİ
+GİRİLMEMİŞ TAHSİLATLAR” ve “TEBLİGAT TARİHİ GİRİLMEMİŞ BORÇLANMALAR” menüleri
+ile yıl içinde ünitelerin yaptıkları kayıtlara ilişkin listeler alınarak güncelleme yapmaları mümkün
+bulunmaktadır.
+
+Halihazırda borçlanma ile ilgili tahakkuk ve tahsilat kayıtlarında çok sayıda tebligat tarihi girilmemiş
+kayıt bulunmaktadır.
+
+Buna göre, borçlanma yapmak için müracaat eden sigortalıların 7201 sayılı Kanuna göre yapılan
+borçlanma tebligatlarının tebligat tarihlerinin bekletilmeden ilgili programa girişinin sağlanması,
+
+2012, 2013, 2014, 2015 ve 2016 yıllarında borçlanma yapılmış ancak tebligat tarihi girilmemiş
+kayıtların listelerinin ilgili programdan alınarak tebligat tarihi girişlerinin 31/12/2016 tarihine kadar
+yapılması, yapılan işlem sonucundan İl Müdürü imzası ile yazılı olarak bilgi verilmesi gerekmektedir.
+
+Bilgi edinilmesi, talimatlandırılan hususların titizlikle takip edilmesini rica ederim.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır

@@ -1,0 +1,67 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/207513
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 26.06.2025 - 32938
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 26.06.2025 - 32938
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 270d120fb8a4c5293136adfff57c093ae7ee834905bf869947fb9e3e5a98942a
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+26 Haziran 2025 PERŞEMBE Resmi Gazete Sayı : 32938
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+Karar No: 2025/4
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma Komisyonu
+13/05/2025 tarihinde toplanarak aşağıdaki kararları almıştır.
+MADDE 1- “Alemtuzumab” etkin maddeli “Lemtrada 12 mg/1,2 ml İnfüzyonluk Çözelti Hazırlamak İçin Konsantre” isimli
+ilacın Sağlık Uygulama Tebliği (SUT) eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)”nde Kamu Kurum İskonto oranının düzenlenerek
+sözleşme yapılmasına oy birliği ile,
+MADDE 2- “Sidofovir dihidrat” etkin maddeli “Sidovis 375 mg/5 mi IV Konsantre İnfüzyonluk Çözelti” isimli ilacın
+SUT eki EK-4/A Listesinde Kamu Kurum İskontosu oranlarının düzenlenmesine oy birliği ile,
+MADDE 3- SUT'un “2.2.2.B-3- Tanıya dayalı işlem sonrası kontroller ve testler” başlıklı maddesinin birinci fıkrasının
+aşağıdaki şekilde düzenlenmesine oy birliği ile,
+“(1) Hastanın taburcu (taburcu işleminin A, B, C, D, E grubunda belirtilen sürelerden önce gerçekleşmesi halinde belirtilen
+sürelerin bitimi taburcu tarihi olarak kabul edilir) olduktan sonraki, aynı sağlık hizmeti sunucusundaki aynı uzmanlık dalında ayaktan
+tedavilerinde; 10 gün içerisinde SUT eki “Ayaktan Başvurularda İlave Olarak Faturalandırılacak İşlemler Listesi (EK-2/A-2)” nde yer
+alan işlemler hariç olmak üzere yapılan muayeneler ve bu muayene sonucunda gerekli görülen rutin biyokimyasal, bakteriyolojik,
+hematolojik, kardiyolojik (EKG, EKO, efor) ve radyolojik tetkikleri tanıya dayalı ödeme işlem puanına dahil olup ayrıca
+faturalandırılamaz.”
+MADDE 4- SUT'un “244.H- Yoğun bakım tedavisi” başlıklı maddesinin beşinci fikrasının aşağıdaki şekilde
+düzenlenmesine oy çokluğu ile,
+(5) “Trombositsüspansiyonu” (705440,705441,705442,705443 kodlu işlemler) ve “aferez trombosit” bedelleri ile aferez.
+trombosit işlemine ilişkin SUT'ta belirtilen faturalandırılabilecek tıbbi malzeme bedelleri de ayrıca faturalandırılabilecektir. SUT'un
+2.2.2.B-1 numaralı maddesinin birinci fikrasının (e) bendinde belirtilen kan bileşenleri puanlarının; 705371, 705430 kodlu kan bileşenleri
+için 9636'sı, 705372 ve 705373 kodlu kan bileşenleri için 624'ü sağlık hizmeti sunucusunca ayrıca faturalandırılır.”
+MADDE 5- SUT eki “Yurt Dışı İlaç Fiyat Listesi (EK-4/C)'nde kayıtlı bulunan 1111111101284 barkodlu
+FLECAINIDEACETATE 100MG 60 TABLETS (MYLAN,MILPHARM,ACCORD,ALMUS) isimli ilacın fiyatının 10.02.2025
+tarihinden geçerli olmak üzere 11,45 Avro olarak güncellenmesine oy birliği ile,
+MADDE 6 — SUT eki EK-4/C Listesinde kayıtlı bulunan 1111111102048 barkodlu JAMP TRETINOIN 10 MG 100
+CAPSULES isimli ilacın fiyatının 18.03.2025 tarihinden geçerli olmak üzere 188,00 Avro olarak güncellenmesine oy birliği ile,
+MADDE 7- SUT eki EK-4/C Listesinde kayıtlı bulunan 1111111101768 barkodlu MELPHALAN TILLOMED 50 MG 1
+INJ isimli ilacın fiyatının 18.03.2025 tarihinden geçerli olmak üzere 43,00 Avro olarak güncellenmesine oy birliği ile,
+MADDE 8- SUT eki EK-4/C Listesinde kayıtlı bulunan 1111111100992 barkodlu PHEBURANE 483MG/G 174 G
+GRANUL isimli ilacın fiyatının 30.04.2025 tarihinden geçerli olmak üzere 322,00 Avro olarak güncellenmesine oy birliği ile,
+MADDE 9- SUT eki EK-4/C Listesinde kayıtlı bulunan 1111111101969 barkodlu L-ASPARAGİNASE FOR INJECTION
+100001U (Lyophilised) isimli ilacın fiyatının 29.04.2025 tarihinden geçerli olmak üzere 96,00 Avro olarak güncellenmesine
+oy birliği ile,
+MADDE 10- “Eribulin Mesylate” etkin maddeli 1111111103080 barkodlu ERIBULIN EVER PHARMA 0,44 MG/ML
+isimli ilacın 21.01.2025 tarihinden geçerli olmak üzere 154,00 Avro fiyatla EK-4/C Listesine ilave edilmesine oy birliği ile,
+
+MADDE 11- “Lomustine” etkin maddeli 1111111103113 barkodlu CECENU 40 MG 20 KAPSEL isimli ilacın 24.04.2025
+tarihinden geçerli olmak üzere 249,00 Avro fiyatla EK-4/C Listesine ilave edilmesine oy birliği ile,
+
+MADDE 12- Alınan Kararlardan;
+
+1 1ilâ2 numaralı Kararların Karar tarihinde,
+
+2- 3ilâ4 numaralı Kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de
+belirtilen tarihte,
+
+3- Silâll numaralı Kararların Karar'da belirtilen tarihlerden geçerli olmak üzere yayımı tarihinde,
+
+yürürlüğe girmesine,
+
+Katar verilmiştir.

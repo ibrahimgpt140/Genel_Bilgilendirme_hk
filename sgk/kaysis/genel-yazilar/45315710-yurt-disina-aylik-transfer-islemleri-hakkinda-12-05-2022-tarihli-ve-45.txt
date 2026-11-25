@@ -1,0 +1,222 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/187941
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 45315710
+ADI: YURT DIŞINA AYLIK TRANSFER İŞLEMLERİ HAKKINDA 12.05.2022 TARİHLİ VE 45315710 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 188278f43be9b9ae317710a64efef6ca0ec9d01cfcaee60ab09f331a5bde41bf
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                     T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                     Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-40552758-203.05.15-45315710                                                                                     12.05.2022
+Konu : Yurt Dışına Aylık Transfer İşlemleri
+
+
+
+                                                          GENEL YAZI
+
+
+        Sosyal Sigorta İşlemleri Yönetmeliğinin (SSİY) 70 inci maddesinde, uluslararası sosyal güvenlik
+sözleşmesi hükümleri saklı kalmak kaydıyla, yurt dışında sürekli ikamet edenlerin gelir ve aylıklarının
+yazılı istekleri halinde, masrafları kendilerince karşılanmak üzere yurt dışı hesaplarına transfer edileceği
+öngörülmüştür.
+        Mevcut uygulamada sözleşmeli 9 ülkeye (Çekya, Hollanda, İtalya, Karadağ, Kırgızistan, Kore
+Cumhuriyeti, K.K.T.C., Moldova ve Sırbistan) yapılan aylık transferlerinde oluşan transfer masrafları
+Kurum tarafından karşılanmaktayken; yürürlükte bulunan sosyal güvenlik sözleşmeleri ve idari
+anlaşmalarının yeniden incelenmesi neticesinde; sadece Hollanda, K.K.T.C. ve Kırgızistan sosyal
+güvenlik sözleşmelerine göre bağlanan aylıkların bu ülkelere transferinde masrafların Kurum tarafından
+karşılanmasının gerektiği tespit edilmiştir.
+        Buna göre, Hollanda, K.K.T.C. ve Kırgızistan sosyal güvenlik sözleşmelerine göre bağlanan
+aylıklar bu ülkelere transfer edilirken oluşan transfer masrafları ilgili sosyal güvenlik sözleşmesi
+hükümleri gereğince Kurumca karşılanacaktır.
+        Aylık sahibinin Hollanda, K.K.T.C. ve Kırgızistan dışındaki bir ülkede ikamet etmesi halinde ise
+sosyal güvenlik sözleşmesine göre bağlanmış bir aylık olsa dahi, diğer sözleşmeli ülkelerde olduğu gibi,
+transfer masrafları SSİY hükümleri uyarınca aylık sahiplerince karşılanacaktır.
+        Diğer taraftan, Almanya ile müşterek sigortalılarımız hakkında sözleşmeye göre yapılacak iş ve
+işlemler 05.08.2010 tarihli ve 2010/91 sayılı Genelge ile talimatlandırılmış ve Kurumumuzdan gelir/aylık
+almakta olanlardan gelir/aylıklarını Almanya'dan almak için talepte bulunanların transfer taleplerine
+ilişkin olarak yapılacak işlemlere anılan Genelgenin "J.Aylıkların Transferi" bölümünde yer verilmiştir.
+        Kurumumuzdan aldıkları gelir/aylıklarının yurt dışına transfer edilmesini talep edenlerin
+mağduriyet yaşamamaları için, transfere ilişkin iş ve işlemlerin geciktirilmeksizin sonuçlandırılması
+gerekmektedir.
+        Bu sebeple, gelir/aylıklarının yurt dışına transfer edilmesini talep eden T.C. vatandaşlarının ya da
+T.C. vatandaşı olmayanların Emektar ve MOSİP programları üzerinden gerçekleştirilecek iş ve işlem
+aşamalarının açıklanmasına ihtiyaç duyulmuştur.
+
+        1) Aylıkların Yurt Dışına Transferi
+        Kurumumuzdan gelir/aylık alanlar ile bunların hak sahipleri transfer masrafları kendilerince
+karşılanmak kaydıyla, gelir/aylıklarını yurt dışındaki bir bankadan tahsil etmek istediklerinde,
+gelir/aylıkların bildirilen Swift/Bic kodu ve IBAN numarası ile tercih edilen bankaya havale edilmesi
+mümkün bulunmaktadır.
+        Transfer işlemlerinin başlatılabilmesi için, talep sahiplerinin oluşacak masraf tutarlarının
+kendilerince karşılanacağı yönünde talepte bulunmaları gerekmektedir.
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 78 20 Faks No: 0 312 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0 312 432 12 47
+9                                                                  1/4
+            Gelir/aylıkların yurt dışına transfer edilmesinin talep edilmesi durumunda öncelikle;
+            a) Emektar 4A aylık bağlama programında;
+            • Aylık bağlanırken;
+             Yaşlılık/Malullük/Ölüm Aylık Hak Ediş ekranında, "Transfer Yapılacak Ülke", "Transfer Kodu",
+              (Ek-1)
+            • Aylık bağlandıktan sonraki transfer taleplerinde ise;
+             "Kayıt Güncelleme İşlemleri", "Banka Adres Güncelleme menüsü", "Transfer/Tazminat (Aylık,
+               Ayl+Syz)", "Transfer Ülkesi (Transferin yapılacağı ülke kodu)
+            bölümleri doldurulacaktır. (Ek-2)
+            b) Emektar 4B aylık bağlama programında;
+            • Aylık bağlanırken;
+               - "Aylık Bağlama", "Banka Bilgileri", banka adı "Yurtdışı Transfer", şube adı "Bilinmiyor"
+                  (Ek-3)
+            seçilerek ilk karar aylığı bağlama işlemlerine devam edilmesi gerekmektedir.
+            • Gelir/aylıkların yurt dışına transfer edilmesi aylık bağlandıktan sonra talep edilmesi durumunda
+              ise;
+              - “Belge İşlemleri”, “Hesap İşlemleri”, banka adı "Yurtdışı Transfer", şube adı "Bilinmiyor"
+                  (Ek-4)
+            seçilerek banka değişikliği işlemleri tamamlanacaktır.
+             Emektar 4A ve/veya Emektar 4B programlarında banka değişikliği işlemi tamamlandıktan sonra,
+    MOSİP ekranlarından;
+            - Plan bütçe ve analiz modülü,
+              - Ödeme işlemleri,
+                 - Emekli ödemeleri,
+                   - Mahsup transfer girişi
+            bölümüne giriş yapılarak yeşil renkli (+) butonu ile yeni kayıt girişi yapılacaktır.
+            Açılan ekranlarda, Mahsup/Transfer bölümünde “Transfer” seçildikten sonra, tahsis numarası ile
+    sigortalının transfer istediği "ülke, Swift/Bic kodu, banka adı, IBAN numarası" yazılacak olup, Masraf
+    bölümünde “Alıcı”, Döviz Cinsi bölümünde ise transfer istenen ülkenin para birimi seçilecek ve
+    "Kaydet" butonuna basılarak işlem tamamlanacaktır. MOSİP sisteminde ülke para biriminin kayıtlı
+    olmaması durumunda, "döviz cinsi" butonuna ""Euro" yazılacaktır.
+            c) Oracle 4C aylık bağlama programında
+            Aylık bağlanırken;
+            Kamu Görevlileri Emeklilik Daire Başkanlığı tarafından adresi yurt dışı olanların banka muhabiri
+     öncelikle "0-411-Eytam" hesabına alınarak aylık tahakkuk işlemleri tamamlanacaktır.
+            Aylıkların yurt dışına transfer edilmesi talebi var ise;
+            Kamu Görevlileri Ödemeler Daire Başkanlığı tarafından Oracle programında banka muhabiri
+"412-Transfer" olarak değiştirildikten sonra, MOSİP ekranlarından;
+            - Plan bütçe ve analiz modülü,
+              - Ödeme işlemleri,
+                 - Emekli ödemeleri,
+                   - Mahsup transfer girişi
+
+
+                                                    Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+    _______________________________________________________________________________________________________________________________
+    Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Erdoğan ÜVEDİ
+    Telefon No: 0 312 458 78 20 Faks No: 0 312 432 12 45                                                                    Daire Başkanı
+    e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+    Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0 312 432 12 47
+    9                                                                  2/4
+        bölümüne giriş yapılarak yeşil renkli (+) butonu ile yeni kayıt girişi yapılacaktır.
+        Açılan ekranda, Mahsup/Transfer bölümünde “Transfer” seçildikten sonra, tahsis numarası ile
+sigortalının transfer istediği "ülke, Swift/Bic kodu, banka adı, IBAN numarası" yazılacak olup, Masraf
+bölümünde “Alıcı”, Döviz Cinsi bölümünde ise transfer istenen ülkenin para birimi seçilecek ve
+"Kaydet" butonuna basılarak işlem tamamlanacaktır. MOSİP sisteminde ülke para biriminin kayıtlı
+olmaması durumunda, "döviz cinsi" butonuna "ABD Doları" yazılacaktır.
+        Sözleşmeli ülkelerden Kore Cumhuriyeti'ne gelir/aylıkların transfer edilmesi işlemi yapılırken
+IBAN numarası bölümü boş bırakılarak, “Hesap Numarası” bölümüne sigortalının banka hesap numarası
+kaydedilecektir.
+
+        2) Aylıkların Almanya Sigorta Kurumuna Transferi
+        Türkiye Almanya Sosyal Güvenlik Sözleşmesinin Nihai Protokolünün 5 inci maddesinin (e)
+fıkrasının 2 nci cümlesinde, Kurumumuzca Alman vatandaşlarına bağlanan gelir ve aylıkların,
+Almanya’da veya üçüncü bir ülkede ikamet edilmesi şartıyla bu ülkeye transfer edilerek ödeneceği
+öngörülmüştür.
+          Buna göre, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri
+kapsamında Türkiye’deki sigortalılık sürelerine istinaden bağlanan sözleşme aylıkları, ilgilinin talebine
+bağlı olmadan düzenlenecek olan bilgi giriş formundaki “Banka” ve “Transfer” alanlarına (S), “Transfer
+Yapılacak Ülke” alanına (DE) kodları ile “Transfer Adresi” alanına gelir/aylık sahibinin adresinin
+yazılması ve bu verilerin ilgili ekranlara aktarılması ile gerçekleştirilecektir.
+         4/1-(c) bendi kapsamında aylık bağlananların Oracle programında banka değişikliği işlemi
+tamamlandıktan sonra, MOSİP ekranlarından;
+        - Plan bütçe ve analiz modülü,
+          - Ödeme işlemleri,
+            - Emekli ödemeleri,
+              - Mahsup transfer girişi
+        bölümüne giriş yapılarak yeşil renkli (+) butonuna giriş yapıldıktan sonra gelen ekranda "emekli
+sicil numarası" yazıldıktan sonra “Almanya Mahsup” seçilip "Kaydet" tuşuna basılmak suretiyle
+aylıkların Alman Sigorta Kurumuna gönderilmesi sağlanacak olup bunun dışında başka bir bilgi girişinin
+yapılmasına gerek bulunmamaktadır.
+        Anılan Sözleşmeye göre, Türk vatandaşlarına bağlanan gelir/aylıkların Almanya sigorta
+kurumuna transfer edilerek ödenmesine imkan bulunmamaktadır. Bu konudaki talepler, SSİY hükümleri
+uyarınca transfer masrafları talep sahipleri tarafından karşılanmak suretiyle sonuçlandırılacaktır.
+
+        3) Türkiye Almanya Sosyal Güvenlik Sözleşmesi Kapsamındaki Müstakil Aylıklar
+        Sözleşme kapsamında olup olmadığına bakılmaksızın Kanunun 4/1-(a), 4/1-(b) ve 4/1-(c)
+kapsamında bağlanan müstakil aylıklardan (sadece Türkiye hizmetlerine ya da borçlanılan yurt dışı
+sürelerine istinaden) transferin gerçekleşeceği tarihte Almanya'da ikamet eden ve Alman vatandaşı
+olanların aylıkları da Alman sigorta kurumuna gönderilecektir.
+        4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında bağlanan müstakil aylıkların Alman sigorta kurumuna
+transfer işlemleri bu Genel Yazının 2 nci maddesinde yapılan açıklamalar doğrultusunda
+gerçekleştirilecektir.
+
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 78 20 Faks No: 0 312 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0 312 432 12 47
+9                                                                  3/4
+        4) Aylık Transfer İşlemlerinin Kontrolü
+        Yapılan aylık transfer ödemeleri, MOSİP ekranında
+        - Plan bütçe ve analiz modülü,
+          - Ödeme işlemleri,
+            - Emekli ödemeleri,
+              - Transfer ödeme listesi
+        bölümünden kontrol edilebilmektedir.
+        Bilgi edinilmesini, Kurumumuzdan aldığı gelir/aylıklarının yurt dışına transfer edilmesini talep
+eden sigortalılarımızın işlemlerinin, gerek Ülke gerekse Kurum imajı açısından gecikmeye mahal
+verilmeden yukarıdaki açıklamalar doğrultusunda sonuçlandırılması hususunda gereken hassasiyetin
+gösterilmesini rica ederim.
+
+
+
+
+                                                                                                       İsmail ERTÜZÜN
+                                                                                                         Genel Müdür
+
+
+
+
+Ek:
+1- Emektar 4A programında transfer işlemi kılavuzu (Aylık Bağlanırken)
+2- Emektar 4A programında transfer işlemi kılavuzu (Aylık almakta olanlar)
+3- Emektar 4B programında transfer işlemi kılavuzu (Aylık Bağlanırken)
+4- Emektar 4B programında transfer işlemi kılavuzu (Aylık almakta olanlar)
+
+
+
+
+Dağıtım:
+Gereği:
+Merkez ve Taşra Teşkilatı
+
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 78 20 Faks No: 0 312 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                               Telefon No: 0 312 432 12 47
+9                                                                  4/4
+

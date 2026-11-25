@@ -1,0 +1,73 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/96344
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 603884
+ADI: 5510 SAYILI KANUNUN 53 ÜNCÜ MADDE UYGULAMASINA GÖRE 4/A KAPSAMINDA SİGORTALILIĞI SONA ERENLERİN, PROGRAM ARACILIĞI İLE OTOMATİK 4/B KAPSAMINDA SİGORTALILIĞIN BAŞLATILMASI HAKKINDA 02/02/2017 TARİHLİ VE 603884 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: aa99855883b70282c934de98378d9f325ccae51961b280b489b9f8826c4337b6
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Bağımsız Çalışanlar Daire Başkanlığı
+Sayı : 51681548-101.02-E.603884 02/02/2017
+Konu : 53 üncü madde 06 kodu ile yeniden
+sigortalılığın başlatılması
+GENEL YAZI
+
+Bilindiği üzere, 5510 sayılı Kanuna 6111 sayılı Kanunla eklenen geçici 33 üncü madde ile
+Kanunun 53 üncü maddesinin birinci fıkrasında yapılan değişiklikle 1/3/2011 tarihinden itibaren
+sigortalıların 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentlerinde yer alan sigortalılık
+statülerine aynı anda tabi olacak şekilde çalışmaları halinde, 4/a kapsamındaki sigortalılıkları
+geçerli sayılarak 4/b kapsamındaki sigortalılığın 4/a kapsamına tabi çalışmanın başladığı tarihten
+bir gün önce program aracılığıyla sonlandırılması, 4/a kapsamında sigortalılığı sona erenlerin ise,
+4/b kapsamında sigortalılıkları il müdürlüklerince gerekli kontroller yapıldıktan sonra manuel işlem
+yapılmak üzere, "Güvence" programında bulunan on-line tescil ekranında "53 üncü Maddeye Göre
+Sigortalılığın Başlatılması" bölümünde il müdürlüğü bazında görüntülendiği program, 9/5/2011
+tarihi itibariyle kullanımına açılmış olup, uygulamaya ilişkin kullanım kılavuzu 24/5/2011 tarihinde
+il müdürlüklerimize gönderilmiştir.
+
+Ancak, 53 üncü madde gereğince 4 üncü maddenin birinci fıkrasının (a) ve (b) bentlerinde
+yer alan sigortalılık statülerine tabi olacak şekilde çalışmaları bulunan sigortalıların (b) bendi
+kapsamındaki sigortalılığı (a) bendine tabi çalışmanın başladığı tarihten bir gün önce program
+aracılığıyla sonlandırılan kayıtlarda, 4/a kapsamında sigortalılığı sona erenlerin 4/b kapsamında
+yeniden sigortalılıkların manuel başlatılmasına ilişkin işlemler yapılmak üzere "53 üncü Maddeye
+Göre Sigortalılığın Başlatılması" ekranında bulunan kayıtlara il müdürlüklerimizce zamanında
+işlemlerin yapılmaması nedeniyle, yeniden sigortalılığın oluştuğu tarihten itibaren oluşan prim
+borçlarının süresi içerisinde ödenmemesi sonucunda prim borçlarına gecikme cezası, gecikme
+zammı uygulanması, 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (j) bendi
+kapsamında prim borcu bulunmayan sigortalıların (5) puanlık prim indiriminden yararlanamaması
+gibi nedenlerle sigortalı mağduriyetine neden olunmaması amacıyla "4/A da Terk Verilip 4/B de
+Yeniden Başlama Talebi" menüsünde yer alan kayıtların program aracılığıyla (06) kodu ile yeniden
+sigortalılığın otomatik başlatılmasına ilişkin il müdürlüklerimizin kullanımında bulunan mevcut
+programda güncellemeler yapılarak, düzenlenen program 1/2/2017 tarihi itibariyle il
+müdürlüklerimizin kullanımına açılmıştır.
+
+Kanunun 53 üncü maddesine göre 4/a kapsamındaki çalışmalara istinaden 4/b kapsamında
+(01) (53 üncü madde) terk kodu ile sigortalılık durdurulduktan sonra yeniden 4/b kapsamında (06)
+kodu ile yeniden sigortalılıkların program aracılığı ile başlatılmasına ilişkin il müdürlüklerimizin
+kullanımına açılan bu programda;
+
+-Bildirim yükümlülüğü bulunan kurum ve kuruluşlardan Kurumumuz kayıtlarına elektronik
+ortamda kayıt aktarımı yapan vergi dairesi kayıtlarına göre "Vedop" programından program
+aracılığı ile otomatik sorgulama yapılarak vergi mükellefiyeti devam eden kayıtlara ilişkin 4/b
+kapsamında (06) kodu ile yeniden sigortalılıklar kontrollü olarak başlatılmakta,
+
+-Bildirim yükümlülüğü bulunan kurum ve kuruluşlardan Kurumumuz kayıtlarına manuel
+(kağıt ortamında) bildirim yapan kuruluşların kayıtlarına göre program aracılığı ile sorgulamalar
+yapılamadığından, manuel bildirimi yapılan (şirket ortakları, vergiden muaf esnaf sanatkarlar, tarım
+sigortalıları v.s.) kayıtlarında program aracılığıyla ticari faaliyetin devam edip etmediğine ilişkin
+
+herhangi bir sorgulama yapılmadan 4/b kapsamında (06) kodu ile yeniden sigortalılık
+başlatılmaktadır.
+
+Bu nedenle, 4/a kapsamında sigortalılığı sona erenlerden 53 üncü madde gereği program
+aracılığı ile (06) kodu ile 4/b kapsamında yeniden sigortalılığı başlatılanların ileride ortaya
+çıkabilecek muhtemel sigortalı mağduriyetlerinin giderilmesi ve telafisi imkansız sonuçlar
+doğurmaması açısından il müdürlüklerimizce res'en veya sigortalıların müracaatına istinaden
+sigortalılığa esas ticari faaliyetin devam etmediği tespit edilen kayıtların iptal edilmesi
+gerekmektedir.
+
+Bilgilerini ve gereğini rica ederim.

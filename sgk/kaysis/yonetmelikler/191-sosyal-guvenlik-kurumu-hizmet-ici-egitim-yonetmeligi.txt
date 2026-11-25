@@ -1,0 +1,782 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/154418
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Yönetmelikleri
+SAYI: 191
+ADI: SOSYAL GÜVENLİK KURUMU HİZMET İÇİ EĞİTİM YÖNETMELİĞİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 03b51ac78eeb096ae6c389983e1202412e58842869a7ef413792e3ede35fe9f8
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+Zİ 120013 ari ve 13 bay
+Yönetim Kurulu Karan ekkdir, *
+Sosyal Güvenlik Kurumundan:
+SOSYAL GÜVENLİK KURUMU
+HİZMET İÇİ EĞİTİM YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 - (1) Bu Yönetmeliğin amacı, Sosyal Güvenlik Kurumu Başkanlığı Merkez
+ve Taşra Teşkilatında görevli personelin günün koşullarına uygun olarak yetişmelerini ve
+görevin gerektirdiği bilgi, beceri ve davranışlara sahip tutum kazanmalarını sağlamak, etkinlik
+ve tutumluluk bilinci ile yetiştirilerek verimliliklerini artırmak ve daha ileriki görevlere
+hazırlanmaları için uygulanacak hizmet içi eğitimin hedeflerini, ilkelerini, planlama esaslarını
+ve değerlendirme usulleri ile diğer hususları belirlemektir.
+Kapsam İ
+MADDE 2 - (1) Bu Yönetmelik, Sosyal Güvenlik Kurumunda 657 sayılı Devlet
+Memurları Kanununa tabi olarak görev yapan personeli kapsar.
+Dayanak
+MADDE 3 - (1) Bu Yönetmelik, 657 sayılı Devlet Memurları Kanununun değişik 214
+üncü maddesi ile 15/7/2018 tarihli ve 30479 sayılı Resmi Gazete?de yayımlanan 4 numaralı
+Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar İle Diğer Kurum ve Kuruluşların
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Sosyal Güvenlik Kurumu Eğitim
+Araştırma ve Geliştirme Merkezi Başkanlığı'nın görevlerini belirten 424 üncü maddesine İ
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 - (1) Bu Yönetmelikte geçen;
+a) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+b) Başkanlık: Sosyal Güvenlik Kurumu Başkanlığını,
+©) Başarı belgesi: Eğitim faaliyetlerine, katılıp faaliyetin gerektirdiği çalışmaları başarı
+ile sonuçlandıran kursiyerlere verilen belgeyi,
+ç) Eğitim görevlisi: Organizasyonu gerektiren hizmet içi eğitim faaliyetlerinin bu
+Yönetmelikteki hükümlere göre yürütülmesi için görevlendirilen kimseyi,
+d) Eğitici: Hizmet içi eğitim faaliyetlerinde eğitim vermek üzere görevlendirilenleri,
+e) Eğitim Kurulu: Sosyal Güvenlik Kurumu Başkanlığı Eğitim Kurulunu,
+f) Eğitim programı: Yıllık hizmet içi eğitim planma göre süresi içerisinde branş veya İ
+alanda nasıl eğitim yapılacağını düzenleyen programı,
+g) Eğitimden sorumlu birim: Görev alanıyla ilgili konularda Kurumun hizmet içi eğitim
+planı ve plan dışı eğitim kapsamında hazırlanan program dahlinde personelin eğitimlerini
+sağlamak amacıyla Merkez Başkanlığından eğitim talebinde bulunan birimi,
+8) Eğitim yetkilisi: Hizmet içi eğitim faaliyetlerinin bu Yönetmelikteki hükümlere göre
+yürütülmesi için görevlendirilen kimseyi,
+h) Hizmet İçi Eğitim Faaliyetleri: Personelin meslek içinde yetiştirilmesi ve geliştirilmesi
+amacıyla düzenlenen kurs, seminer, konferans, panel, sempozyum, forum, çalıştay, toplantı,
+staj, çalışma ziyareti, inceleme gezisi, tartışma, araştırma, inceleme ve uygulama faaliyetlerini.
+ı) Katılım belgesi: Sınav yapılmayan eğitimlere katılanlara verilen belgeyi, /- ve i gh
+İN
+İZEMİEİE
+$ PİN ii : NN w ;
+
+i) Kurs: Belirli bir konuda bilgi, beceri, değer ve davranış kazandırmak amacıyla
+düzenlenen ve eğitime katılanların başarılarının sınavla değerlendirildiği hizmet içi eğitim
+faaliyetini,
+
+j) Kursiyer: Bu Yönetmelik hükümleri çerçevesinde düzenlenen eğitim faaliyetlerine
+katılan personeli,
+
+k) Kurum: Sosyal Güvenlik Kurumunu,
+
+I) Merkez Başkanlığı: Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığını,
+
+m)Merkez ve taşra teşkilatı: Sosyal Güvenlik Kurumu merkez ve taşra teşkilatını,
+
+n) Personel: Kurum merkez ve taşra teşkilatı kadrolarında 657 sayılı Devlet Memurları
+Kanununa tabi olarak çalışanları,
+
+o) Program yöneticisi: Hizmet içi eğitim faaliyetlerinin Yönetmelikteki hükümlere göre
+planlanması ve yürütülmesinden sorumlu olan kimseyi,
+
+ö) Seminer: Belirli bir konuda bilgi vermek, inceleme ve değerlendirme çalışmaları
+yapmak, bilgi ve tecrübe paylaşımında bulunmak amacıyla düzenlenen hizmet içi eğitim
+faaliyetini,
+
+p) Seminer belgesi: Seminerlere katılanlara verilen belgeyi, |
+
+1) Sertifika: Sertifikalı eğitimler sonunda yapılan teorik ve/veya pratik sınavlarda başarılı
+olanlara verilen belgeyi,
+
+s) Uzaktan eğitim: Kurum personelinin bulundukları yerlerde eşzamanlı ya da eşzamanlı
+olmadan teknolojinin sağlamış olduğu farklı yöntemlerle almış oldukları eğitim türünü,
+
+ş) Yıllık hizmet içi eğitim planı: Kurumun yıllık eğitim ihtiyaçlarını karşılamak üzere
+Devlet Memurları Eğitimi Genel Planına uygun olarak bir yıl için hazırlanan planı
+
+0) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+
+ifade eder.
+İKİNCİ BÖLÜM
+Eğitim Esasları
+
+Hizmet içi eğitimin hedefleri
+
+MADDE 5 - (1) Hizmet içi eğitimin hedefi, Devlet Memurları Eğitimi Genel Planında ve
+kalkınma planlarında eğitim için öngörülen amaçlar doğrultusunda;
+
+a) Personelin bilgisini ve verimliliğini arturarak hizmet içinde yetişmesini sağlamak,
+daha üst seviyedeki görevlere hazırlamak, hizmete ilgisini en yüksek düzeye çıkarmak,
+
+b) Personeli, ödevleri, görevleri, yetki ve sorumlulukları konusunda yetiştirmek,
+
+c) Yönetimde ve uygulamada verimlilik, etkinlik ve tutumluluğun arttırılmasını
+sağlamak,
+
+ç) Personelin değerlendirilmesinde hizmet içi eğitim ihtiyacını belirlemek,
+
+d) Kurum personelinin bilimsel ve teknolojik alandaki yeni gelişmeler hakkında
+bilgilendirilmesini sağlamak,
+
+e) Hizmetlerin tam ve zamanında kullanıcılara ulaşımını sağlayacak eğitimi vermek,
+
+. f) Personel planlamasının uygulanmasında hizmet içi eğitimden en etkin biçimde
+yararlanmak,
+
+g) Personele, Kurumun amaç ve ilkelerini bir bütünlük içinde kavrama ve yorumlamada
+ortak görüş sağlamak ve uygulamada birlik kazandırmak,
+
+ö) Yetiştirilmek amacıyla yurt dışına gönderilecek personeli, kurumun ve personelin
+gelişmesini sağlayacak yeni bilgilerin hızla arttığı alanlara yönlendirmek,
+
+h) Hizmette kaliteyi ve verimliliği arttırmak amacıyla; yönetime katılımcı, araştırmacı,
+tartışmacı, sorgulayıcı, yenilikçi, problem çözücü ve bilgi sistemlerinden yafarlanabileri a
+personel yetiştirmek, Zu
+
+Jr? vi Ni ve İ
+
+i) Personel arasındaki iletişimi ve koordinasyonu güçlendirmek, personelin güven
+duygusunu geliştirmek, moralini yükseltmek ve hizmet alanındaki değişmelere intibakını
+sağlamaktır.
+Hizmet içi eğitimin ilkeleri
+MADDE 6 - (1) Hizmet içi eğitimde belirtilen hedeflere ulaşabilmek için uygulanacak
+ilkeler;
+a) Hizmet içi eğitimden yararlanmada öncelikler esas alınarak eğiticilerin ve eğitime tabi
+tutulacak personelin hizmet içi eğitim etkinliklerine katılmaktan sorumlu olması,
+b) Gerektiğinde ilgili tüm kuruluşlarla eğitimde iş birliği yapılması, bilgi, belge, araç,
+gereç ve eğitici değişiminin sağlanması,
+c) Eğitimin, milli kalkınma hedeflerine uygun plan ve programlara dayalı olarak,
+Kurumun amaçları, görevleri, yetkileri, sorumlulukları ve ihtiyaçları doğrultusunda planlanarak
+düzenlenmesi,
+ç) Eğitimin etkinlik, tutumluluk ve verimlilik ilkelerine uygun olarak yürütülmesi ve
+sürekli olması,
+d) Eğitim yapılacak ortamların, eğitimin gereklerine göre düzenlenmesi ve donatılması,
+e) Her amirin birimindeki personelinin eğitiminden ve yetiştirilmesinden sorumlu
+olmasının sağlanması, l
+f) Eğitimden beklenen sonuçlara ulaşılıp ulaşılamadığının belirlenmesi için eğitim
+çalışmaları sırasında ve bitiminde değerlendirme yapılması,
+g) Hizmet içi eğitim planı ve programı ile eğitim faaliyetlerinin Kurumun asli görevlerini
+aksatmayacak biçimde düzenlemesidir.
+ÜÇÜNCÜ BÖLÜM
+Eğitim Teşkilatı ve Görevleri
+Eğitim teşkilatı
+MADDE 7 — (1) Kurumun eğitim faaliyetleri;
+a) Eğitim Kurulu, İ
+b) Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı,
+c) Merkez ve Taşra Teşkilatı Birimleri
+tarafından yürütülür.
+Eğitim Kurulu
+MADDE 8 — (1) Kurumun hizmet içi eğitim faaliyetlerine ilişkin genel politikasını tespit
+ve izlemek amacıyla kurulan Eğitim Kurulu;
+(2) Kurum Başkanı veya görevlendireceği Kurum Başkan Yardımcısının başkanlığında
+Sigorta Primleri Genel Müdürü, Emeklilik Hizmetleri Genel Müdürü, Genel Sağlık Sigortası
+Genel Müdürü, Hizmet Sunumu Genel Müdürü ve Eğitim, Araştırma ve Geliştirme Merkezi
+Başkanından oluşur. Kurul üyelerinin mazeretleri halinde vekilleri veya yardımcıları
+toplantılara katılır.
+(3) Eğitim Kurulu hizmet içi eğitim konularını görüşmek üzere her yıl Aralık ayında
+toplanır. Eğitim Kurulu, gerekli görülen hallerde Başkanının çağrısı üzerine olağanüstü
+toplanabilir.
+(4) Kararlar toplantıya katılan üyelerin salt çoğunluğu ile alınır. Karar alınma sırasında
+kullanılan oyların eşit olması halinde Başkanın oyu kararı belirler.
+(5) Kurumun hizmet içi eğitim ile ilgili politika ve stratejilerinin belirlenmesinde, resmi
+ve özel kurum ve kuruluşlardan kurula temsilci çağrılabilir. Pl O
+il
+
+(6) Eğitim Kurulunun kararları Başkanın onayı ile kesinleşir ve yıllık hizmet içi eğitim
+plan ve uygulamalarında esas alınır.
+
+Eğitim Kurulunun görevleri
+
+MADDE 9 - (1) Eğitim Kurulu, hizmet içi eğitim konularına ilişkin olarak;
+
+a) Hizmet içi eğitim faaliyetlerinin yürütülmesi için izlenecek genel politika, hedef ve
+stratejileri belirlemek,
+
+b) Bir önceki yılda uygulanan hizmet içi eğitim faaliyetlerinin sonuçlarını
+değerlendirerek aksayan hususları göz önünde bulundurmak,
+
+c) Hazırlanan yıllık eğitim plan ve programlarını değerlendirip son şeklini vermek
+
+ile görevlidir.
+
+Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığının görevleri
+
+MADDE 10 - (1) Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığının eğitim İ
+konusunda;
+
+a) Kurumun hizmet içi eğitim faaliyetlerine ilişkin hizmetleri yürütmek,
+
+b) Yıllık hizmet içi eğitim planını hazırlamak,
+
+c) Eğitim Kurulunun görüşü ve Başkanın onayı alındıktan sonra kesinleşen yıllık hizmet
+içi eğitim planına göre; uygulanacak hizmet içi eğitimin konuları, eğitilecek Kurum personeli,
+eğiticileri, eğitim yerleri, eğitim tarihleri ve süreleri ile gerekli görülecek diğer konuları içeren
+eğitim programlarını hazırlamak,
+
+ç) Birimlerin plan dışı eğitim taleplerini değerlendirerek Başkanlık makamına sunmak,
+
+d) Eğitim Kurulunun sekretarya hizmetlerini yürütmek,
+
+e) Kurumun eğitim politikası ve amaçlarına uygun olarak, birimlerin önerilerini dikkate
+alarak, yıllık eğitim plan taslağını Eğitim Kuruluna sunmak,
+
+) Birimlerin eğitim taleplerini eğitim programı dahilinde planlamasını yaparak,
+organizasyon gerektiren işlemleri yapmak ve izlemek,
+
+g) Eğitim Kurulu Kararı ve Başkanın onayı alındıktan sonra kesinleşen yıllık hizmet içi i
+eğitim plan ve programlarını eğitimden sorumlu birimlere bildirmek,
+
+5) Görevde yükselme sınavlarında başarılı olan personeli özel eğilim programı
+hazırlayarak eğitmek,
+
+h) Kurum personelinin eğitim programlarında uzaktan eğitim yöntemlerinden
+faydalanmasını sağlamak,
+
+) Hizmet içi eğitim programlarının başarısı ve verimi ile katılanların verecekleri
+raporları değerlendirmek,
+
+i) Üniversite ve araştırma enstitüleri ile iş birliği yaparak veya hizmet satın alınması
+suretiyle eğitim programları yapmak veya yaptırmak,
+
+j) Eğitimle ilgili plan, program, etüt, proje ve araştırmaların zamanında
+gerçekleştirilmesi için gerekli tedbirleri alarak, karşılaşılan güçlükleri yetkililerle koordinasyon
+sağlayarak gidermek,
+
+k) Hizmet içi eğitim sonuçlarını Eğitim Kuruluna sunmak,
+
+I) Kurumun hizmet içi eğitim faaliyetleri ile ilgili olarak araştırmalar yapmak, yerli ve
+yabancı yayınları izlemek,
+
+m)Gerektiğinde eğitim metotları, tipleri, teknikleri, genel ve özel nitelikleri, eğitim
+ihtiyaçları ve alanlarıyla ilgili araştırmalar yaparak rapor hazırlamak,
+
+n) Çeşitli kuruluşların düzenlediği kursları Kurum personelinin katılması yönünden
+izlemek ve gerekli önerilerde bulunmak, e em
+
+ile görevlidir. Pa Ki go il
+
+İSEM
+e ağ
+e ye” V :
+
+DÖRDÜNCÜ BÖLÜM
+Eğitici, Program Yöneticisi, Eğitim Yetkilisi ve Eğitim Görevlisi
+Eğiticilerin belirlenmesi
+MADDE 11 - (1) Her düzeydeki hizmet içi eğitim programlarının uygulanmasında
+öncelikle Kurum bünyesindeki personel görevlendirilir. İlgili program konusunda Kurum
+bünyesinden görevlendirilecek personel bulunmaması veya konunun uzman kişiler tarafından
+işlenmesinde fayda görülmesi halinde Kurum dışından eğitici sağlanabilir.
+(2) Görevlendirilen eğiticilerin mazeretleri nedeni ile katılamayacakları da dikkate
+alınarak yedek eğiticiler de görevlendirilebilir.
+(3) Eğiticiler eğitim süresince asli görevlerini yapmakla mükellef tutulmazlar.
+Eğiticilerin nitelikleri
+MADDE 12 - (1) Hizmet içi eğitim faaliyetlerinde görevlendirilecek eğiticilerden;
+a) Kurum bünyesinden görevlendirilenlerin eğitim programlarında yer alan konularda
+gerekli bilgi, beceri ve öğretme yeteneğine sahip olması,
+b) Diğer kamu kurum ve kuruluşlarından görevlendirilenlerin eğitim programlarında yer
+alan konularda gerekli bilgi, beceri ve öğretme yeteneğine sahip en az yüksek öğrenim mezunu
+olması, |
+c) Üzerinde resmi görev bulunmayanların eğitim programlarında yer alan konularda İ
+tecrübeye dayalı bilgi, beceri ve öğretme yeteneğine sahip en az dört yıllık yüksek öğrenim
+mezunu öğretici olması,
+gereklidir.
+Eğiticilerin görev ve sorumlulukları
+MADDE 13 - (1) Hizmet içi eğitimde görev verilenler;
+a) Üstlendikleri eğitim konuları ile ilgili bir plan yapmakla,
+b) Yaptıkları planla ilgili doküman bulunmaması halinde, eğitim notlarını hazırlayıp
+programın başlamasından en az beş gün önce program yöneticisine teslim etmekle, eğitim
+sonunda da talep edilmesi halinde elektronik ortamda Merkez Başkanlığına göndermekle,
+c) Eğitim konularını işlerken modern eğitim tekniklerini uygulamakla,
+ç) Eğitim süresi içerisinde eğitimden sorumlu birim tarafından talep edilmesi halinde İ
+sözlü veya yazılı sınav yapmak ve değerlendirmekle, kursiyerlerin sınavlarda aldıkları puanları İ
+sınav cevap kağıdına/formuna yazıp imzalayarak program yöneticisine teslim etmekle, |
+d) Eğitim süresince program yöneticisi, eğitim yetkilisi ve diğer eğiticiler ile işbirliği |
+yapmakla, eğitim faaliyetinin etkinliğini değerlendirmekle, |
+e) Zorunlu sebeplerle görevlerine devam edememeleri halinde durumu derhal program
+yöneticisine bildirmekle,
+f) Programda belirlenen konuları öğretmek ve konuların kursiyerler tarafından dikkatle
+izlenmesini sağlayacak tedbirleri almakla,
+yükümlüdürler. İ
+(2) Eğiticiler, hizmet içi eğitim süresince yıllık izin kullanamazlar.
+Program yöneticisinin belirlenmesi
+Madde 14 - (1) Eğitimden sorumlu birimce, görevlendirileceği eğitim faaliyetinin
+niteliği, kursiyerlerin statüleri dikkate alınarak yönetim, koordinasyon, iletişim ve temsil
+yeteneğine sahip, eğitim konularında deneyimli bir personel, program yöneticisi olarak
+görevlendirilir. MEM
+PA Kime
+
+Program yöneticisinin görevleri
+
+MADDE 15 - (1) Program yöneticisi;
+
+a) Eğitim programının gerçekleştirilmesi için gereken hazırlığı yapmakla,
+
+b) Eğiticiler tarafından kendisine teslim edilen ders notları ile diğer basılı materyallerin
+çoğalttırma iş ve işlemlerini yaparak eğitime katılanlara dağıtılmasını sağlamakla,
+
+c) Gerekli araç ve gereçleri eğitimde hazır bulundurmakla,
+
+ç) Eğiticilerin acil durumlarda eğitime katılmamaları halinde yedek eğitici bulmakla,
+eğiticiler ve eğitim yetkilileri ile iş birliği yaparak eğitim faaliyetine katılanların derslere devam
+durumlarını, varsa disipline aykırı davranışlarını tespit etmekle,
+
+d) Eğitim faaliyetinin eğitim programına uygun bir şekilde yürütülmesi için eğitim
+yetkilisi ve eğiticilerle birlikte koordinasyonu sağlamakla,
+
+e) Eğitim faaliyeti ile ilgili belge, form, rapor ve diğer evrakı düzenlemekle,
+
+f) Hizmet içi eğitim sonunda eğitime katılan personelin devam durumları eğitimi olumlu i
+ve olumsuz yönde etkileyen faktörler ve alınması gereken tedbirlere ilişkin teklifleri kapsayan
+bir rapor hazırlamakla,
+
+g) Ders ücretlerinin ödenmesine esas olmak üzere ders saatlerinin toplamlarını gösteren |
+cetvelin hazırlanmasını sağlayarak kontrol edip onaylamakla, İ
+
+8) Personel uygulama sisteminde; eğitim konu girişi, eğitim girişi, eğitici girişi ve eğitime |
+personel ekleme/görüntüleme bölümlerinin eğitimin tamamlanmasını müteakip (video
+konferans yöntemiyle düzenlenen eğitimler dahil) on beş gün içerisinde veri kayıt girişlerinin
+yapılmasını sağlamakla,
+
+h) Hizmet içi eğitim konusunda verilen diğer görevleri yapmakla,
+
+yükümlüdür.
+
+Eğitim yetkilisinin belirlenmesi
+
+MADDE 16 - (1) Eğitimden sorumlu birimce, görevlendirileceği eğitim faaliyetinin
+niteliği, kursiyerlerin statüleri dikkate alınarak yönetim, koordinasyon, iletişim ve temsil
+yeteneğine sahip, eğitim konularında deneyimli personel eğitim yetkilisi olarak görevlendirilir.
+
+Eğitim yetkilisinin görevleri
+
+MADDE 17 - (1) Eğitim yetkilisi;
+
+a) Eğitimin gerçekleşmesi için gereken tedbirleri almakla,
+
+b) Program yöneticisi ve eğiticiler ile işbirliğinde bulunarak koordinasyonu sağlamakla,
+
+e) Kursiyerlerin günlük devam durumlarının takibi, disipline aykırı davranışlarını tespit
+ederek program yöneticisine bildirmekle,
+
+ç) Hizmet içi eğitim konusunda verilecek benzer nitelikteki diğer görevleri yapmakla,
+
+yükümlüdür.
+
+Eğitim görevlisi belirleme
+
+MADDE 18 - (1) Merkez Başkanlığınca organizasyon işlemleri yapılan eğitim
+faaliyetinin niteliği, kursiyerlerin statüleri dikkate alınarak yönetim, koordinasyon, iletişim,
+denetleme ve temsil yeteneğine sahip kişiler arasından yeterli sayıda personel Merkez
+Başkanlığınca eğitim görevlisi olarak görevlendirilir.
+
+Eğitim görevlisinin görevleri
+
+MADDE 19 - (1) Eğitim görevlisi;
+
+a) Eğitim programının gerçekleştirilmesi için gereken tedbirleri almakla,
+
+b) Program yöneticisi, eğitim yetkilisi ve eğiticiler ile işbirliğinde bulunarak,
+koordinasyonu sağlamakla, © Bp gi iy
+
+Pe gi
+Nr ,
+
+c) Merkez teşkilatı eğitim programlarında birimlerin sorumluluklarında kendi toplantı
+salonları, merkez ve taşra teşkilatı ile diğer kurum ve kuruluşların konferans salonlarında
+gerçekleştirilecek eğitim programları hariç, organizasyonu gerektiren diğer eğitimler için
+eğitim yeri, eğitim salonu ile organizatör firma hizmetlerini yerinde denetlemek amacıyla
+eğitim başlamadan bir gün öncesinde eğitim yerinde bulunmakla,
+
+ç) Merkez Başkanlığınca hazırlanmış olan anketlerin kursiyerlere uygulanmasını
+sağlamak ve eğitim yeri, eğitim salonu, organizatör firma hizmetlerinin değerlendirilmesine
+ilişkin raporları hazırlayıp teslim etmekle,
+
+d) Hizmet alımları sözleşmesi ve teknik şartnamede yer alan yükümlülüklerin, yüklenici
+(organizatör firma) tarafından yerine getirilip getirilmediğinin kontrolünü sağlamakla,
+
+e) Hizmet içi eğitim konusunda verilen benzer nitelikteki diğer görevleri yapmakla,
+
+yükümlüdür.
+
+Eğitimden sorumlu birimin görevleri
+
+MADDE 20 - (1) Eğitimden sorumlu birim;
+
+a) Düzenlenecek eğitim programlarından azami düzeyde yararlanılabilmesi için, görev
+yeri, unvanı ve yetkinlik hususlarını dikkate alarak, kursiyerlerin belirlenmesini sağlamakla,
+
+b) Eğitime katılacak personelin belirlenmesinde eğitimin konusuyla ilgili birimde görev
+yapan ve daha önce bu eğitimi almamış olan personele öncelik verilmesini sağlamakla,
+
+e) Eğitimde görevlendirilecek kursiyer personel belirlenirken mazeret durumlarının
+görevlendirmeye engel olup olmadığını değerlendirmekle,
+
+ç) Program yöneticisini, eğitim yetkilisini ve eğiticileri belirleyip görevlendirmekle,
+
+d) Eğitim programının içeriğini hazırlamak ve Merkez Başkanlığına iletmekle,
+
+yükümlüdür.
+
+BEŞİNCİ BÖLÜM
+Hizmet İçi Eğitimin Planlanması ve Uygulanması
+
+Yıllık plan
+
+MADDE 21- (1) Yıllık hizmet içi eğitim planı; Kurumun hizmet içi eğitim uygulamaları
+yıllık eğitim planına dayanılarak gerçekleştirilen eğitim programları doğrultusunda yürütülür. İ
+Merkez. Başkanlığı, ilgili birimler ile iş birliği yaparak, eğitim ihtiyaç analizi kapsamında |
+yapılan grup toplantıları, elektronik ve fiziki ortamlarda düzenlenen personel anket sonuçları,
+ilgili birimlerin görüş ve teklifleri, ilgili kurulların önerileri, müfettiş ve yönetici raporları,
+araştırma sonuçları ile daha önce gerçekleştirilen eğitim faaliyetlerine ilişkin yıllık sonuç
+raporları ve diğer hususlar dikkate alınmak suretiyle hazırlanır. Bu plan Aralık ayında Eğitim
+Kurulunda görüşüldükten sonra Başkanın onayı ile kesinleşir. Kesinleşen bu plan
+doğrultusunda yapılacak eğitim programları ilgili birimlere duyurulur. Eğitim programlarında
+hizmet içi eğitimin konusu, süresi, yeri, eğiticiler ve gerekli diğer hususlar belirtilir.
+
+(2) Yıllık hizmet içi eğitim planında ve faaliyetlerinde zorunluluk nedeniyle yapılması
+düşünülen değişiklikler Eğitim Kurulu Kararı'nda belirtildiği şekilde yapılır.
+
+Eğitim programları
+
+MADDE 22 - (1) Hizmet içi eğitim programları;
+
+a) Adaylık Eğitimi (Temel Eğitim, Hazırlayıcı Eğitim ve Staj),
+
+b) Verimliliği Arttırma Eğitimi (Değişikliklere İntibak Eğitimi ve Bilgi Tazeleme
+Eğitimi) N.
+
+c) Görevde Yükselme Sınavlarında Başarılı Olan Personelin Eğitimi, |» Ni Vİ Ni EN
+
+ç) Diğer Eğitimler, Gm ON
+
+AN Er v
+Mantik sap 7? i
+e o N e - ;
+a a
+
+olmak üzere; kurs, seminer, konferans, uygulamalı eğitim, uzaktan eğitim, panel, sempozyum,
+forum, tartışma, staj, araştırma, yurt içi ve yurt dışı inceleme gibi metotlardan bir veya birkaçı
+birlikte uygulanmak suretiyle düzenlenir.
+(2) Eğitim programında programın adı, süresi, yeri, katılacak personelin unvanları ve
+sayısı, program yöneticisi, eğiticiler ile eğitimin amacı, gerekçesi, içeriği, yöntemi, eğitim
+araçları, ölçme ve değerlendirme yöntemleri ile gerekli diğer hususlar yer alır.
+(3) Yıllık hizmet içi eğitim planı çerçevesinde düzenlenecek olan eğitim programlarında,
+organizasyonu (eğitim yeri) gerektiren eğitimler, eğitimin planlandığı tarihten 30 gün öncesinde
+Merkez Başkanlığından talep edilir. Talep edilen eğitim programları eğitimden sorumlu birim
+ile Merkez Başkanlığınca uygulanır. Bunun dışındaki birim içi eğitim faaliyetleri ilgili birim
+tarafından hazırlanır, uygulanır ve Merkez Başkanlığına bildirilir,
+(4) Birimler, zorunlu olarak ihtiyaç olması halinde plan dışı düzenlenecek olan ve
+organizasyonu (eğitim yeri) gerektiren eğitimleri, eğitimin planlandığı tarihten 30 gün
+öncesinde, Merkez Başkanlığından talep eder. Eğitim programı, eğitimden sorumlu birim
+tarafından hazırlanır. Talep edilen eğitim programı Merkez Başkanlığınca Başkanlık Makamına
+sunulur. Başkanlık Makamınca onaylanan plan dışı eğitim programı, eğitimden sorumlu birim
+ile Merkez Başkanlığınca uygulanır. Bunun dışındaki birim içi eğitim faaliyetleri ilgili birim
+tarafından hazırlanır, uygulanır ve Merkez Başkanlığına bildirilir. i
+Eğitim programı değişikliği İ
+MADDE 23 — (1) Eğitim başlamadan önce hazırlanan eğitim programında yer alan
+konuların hangi eğitici tarafından verileceği açıkça belirtilir, Eğitimin türü ne olursa olsun, |
+eğitim programı dışına çıkılamaz. Ancak, gerekli görüldüğü takdirde program yöneticisi ve
+eğiticilerin birlikte vereceği teklif ile eğitim programlarında eğitimden sorumlu birimin
+onayıyla değişiklik yapılabilir.
+Hizmet içi eğitim
+MADDE 24 - (1) Hizmet içi eğitim;
+a) Adaylık süresi içinde; temel eğitim, hazırlayıcı eğitim ve staj şeklinde “Aday
+Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik” ve Kurumca çıkarılacak diğer
+mevzuat,
+b) Asli memurluk süresi içinde; Verimliliği Arttırma Eğitimi (Değişikliklere İntibak
+Eğitimi ve Bilgi Tazeleme Eğitimi), Görevde Yükselme Sınavlarında Başarılı Olan Personelin
+Eğitimi ve diğer eğitimler “Sosyal Güvenlik Kurumu Hizmet İçi Eğitim Yönetmeliği”
+hükümleri çerçevesinde yapılır.
+Eğitim konuları ve süresi
+MADDE 25 — (1) İlgili mevzuattaki hükümler saklı kalmak üzere;
+a) Bu Yönetmeliğe göre yapılacak hizmet içi eğitimde yer alacak konular, personelin
+hizmet ve çalışma alanına göre ihtiyaç duyulan nitelikte olanlardan seçilir. i
+b) Programların süreleri, varılmak istenen amaca uygun olarak; programın yeri, program
+yöneticisi ve eğiticiler, eğitime katılanlar ile programı oluşturacak unsurların her biri dikkate i
+alınarak tespit edilir,
+Eğitim yeri ve yönetimi
+MADDE 26 — (1) Hizmet içi eğitimin Kurum merkezinde uygulanması esastır. Eğitimin
+amacına ulaşabilmesi için Kurum merkez ve taşra teşkilatındaki konferans ve eğitim salonları,
+sosyal tesis, salon, misafirhane gibi fiziki kapasite ve eğitim teknolojisi yöntemleri ile diğer
+araç ve gereçlerden yararlanılır.
+(2) Gerektiğinde diğer kurum ve kuruluşların tesislerinden veya özel sektör tesislörinden |
+de yararlanılabilir. EN
+BS » p p” a a
+a -&
+Li N bi , pi
+
+(3) Programların uygulanması, sonuçlandırılması ve değerlendirilmesine ilişkin görevler
+programın türüne göre görevlendirilecek program yöneticisi, eğitim yetkilisi ve eğiticiler
+tarafından yürütülür.
+
+(4) Eğitime katılan engelli personele ilişkin tedbirler öncelikle alınır.
+
+(5) Hizmet içi eğitim; eğitim giderlerinde tasarrufu sağlamak, zaman ve iş kaybını
+önlemek amacıyla eğitimlerin durumuna göre merkez veya taşra teşkilatında, her türlü eğitim
+modellerinden faydalanılarak düzenlenir.
+
+(6) Eğitimler eğitimden sorumlu birimin uygun görmesi halinde, uzaktan eğitim
+yöntemiyle de yapılabilir.
+
+Yurt dışında eğitim
+
+MADDE 27 — (1) Personelin yurt dışında yetiştirilmesi, 657 sayılı Devlet Memurları
+Kanununun ilgili hükümleri ile “Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet
+Memurları Hakkında Yönetmelik” ve Kurumca çıkarılacak diğer mevzuat hükümleri
+çerçevesinde yapılır.
+
+ALTINCI BÖLÜM
+Eğitime Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin
+
+Eğitime katılma
+
+MADDE 28 - (1) Eğitime katılacakların sayısı ve hedef grup programlarda belirlenir.
+Birim amirleri, tespit edilen kontenjana uygun olarak eğitime katılacak personeli, eğitimin
+konusuyla ilgili birimde görev yapan ve öncelikle daha önce eğitim almamış olanlar arasından
+belirler ve eğitimden sorumlu birime bildirir. Kesinleşen programlarda hizmet içi eğitime
+katılması kararlaştırılmış olan personel, belirlenen eğitim faaliyetine katılmak zorunda olup,
+bağlı oldukları birimler bunu sağlamakla yükümlüdür.
+
+(2) Eğitime katılanların eğitim programlarında belirtilen şartları taşımaları gereklidir.
+Hangi sebeple olursa olsun, toplam eğitim süresinin 1/8 ine katılmamış olan personelin
+programla ilişiği kesilir. Bunların daha sonra yapılacak aynı düzeydeki eğitim programlarına
+katılmaları sağlanır.
+
+(3) Hangi sebeple olursa olsun, eğitime ara vermiş olan personelin, programla ilişiği
+kesilir. Merkezde birim amirleri ve taşrada Sosyal Güvenlik İl Müdürleri tarafından özürleri
+uygun görülenler, o programa katılmazlar. Katılmayanların daba sonra düzenlenecek aynı
+düzeydeki eğitim programlarına katılmaları sağlanır.
+
+(4) Hukuken kabul edilebilir mazeretleri olanlar dışında, eğitim faaliyetine katılmayanlar
+hakkında 657 sayılı Devlet Memurları Kanununun disiplin hükümleri uygulanır. |
+
+(5) Kurumu ilgilendiren ve Kurumda düzenlenmeyen, ancak diğer kurum ve kuruluşlar
+tarafından düzenlenen eğitimlere, görev yaptığı biriminin teklifi ve Kurum Başkanının onayı |
+ile belirlenen uygun vasıftaki personelin katılması sağlanır. Bu tür eğitimlere gönderilmede
+daha önce yararlanmamış personele öncelik verilir.
+
+(6) Eğitime katılan personel eğitim süresince idari yönden eğitimden sorumlu birim
+amirine ve program yöneticisine bağlıdır. Diğer kurumlarda eğitime katılanlar, eğitime
+katıldıkları kurumun özel hükümlerine tabidirler. Diğer kurumlarda hizmet içi ve sertifikalı
+eğitim faaliyetleri ile ilgili seminer, kurs, konferans ve benzeri eğitime katılanlar, incelenen
+konuları ve bilgilerini artıran hususları içeren raporu eğitimin tamamlanmasını müteakip bir ay
+içinde görev yaptığı birimine vermekle yükümlüdür.
+
+(7) Haklarında adli ve idari kovuşturma yapılanlar, kovuşturma sonuçlanıncaya kadar
+eğitime katılamazlar.
+
+(8) Eğitim programlarına eğitim almak için katılan personel; öncelikle programa devam
+konusu olmak üzere, belirlenen diğer kurallara uyma hususunda gerekli özeni göstermekle *..
+yükümlüdür. İkem 5
+
+bulk elpuğ
+e LA
+
+(9) Eğitimlere katılacak eğitici ve kursiyer personele programların duyurulması,
+kursiyerlerin devam durumlarının takibi, eğitimlerin gerçekleştirilmesi ile ilgili diğer iş ve
+işlemler, eğitimlerden sorumlu birimler tarafından yapılır.
+
+Kursiyerlerin sorumlulukları
+
+MADDE 29 — (1) Kursiyerlerin sorumlulukları şunlardır:
+
+a) Eğitimin başlayacağı gün ve saatte, eğitim yerinde hazır bulunmak.
+
+b) Eğitim saatlerine uymak ve dersleri düzenli olarak izlemek.
+
+c) Eğitimi engelleyecek tutum ve davranışlarda bulunmamak.
+
+ç) Eğitim ile ilgili yapılması gereken etkinlikleri aksamaya meydan vermeden zamanında
+yapmak.
+
+d) Eğitim yerinde belirlenen diğer kurallara uymak.
+
+Eğitime katılanların, eğitim kayıt girişlerinin yapılması ve bildirilmesi
+
+MADDE 30 — (1) Eğitime katılanların veri girişleri: Kurum merkez ve taşra teşkilatı plan
+içi ve plan dışı düzenlenen eğitim faaliyetlerinin (video konferans yöntemiyle düzenlenen
+eğitimler dahil) tamamlanmasını müteakip personel uygulama sistemindeki; eğitim konu girişi,
+eğitim girişi, eğitici girişi ve personel ekleme/görüntüleme bölümündeki veri kayıt girişleri,
+eğitimin tamamlanmasını izleyen on beş gün içerisinde eğitimden sorumlu birimce yapılır.
+
+(2) Eğitime katılanların bildirilmesi: Kurum merkez ve taşra teşkilatı plan içi veya plan
+dışı düzenlenen eğitim faaliyetlerinin tamamlanmasını müteakip eğitim programının adı, i
+başlama ve bitiş tarihi, uygulandığı yer, süresi, eğitime katılan personel sayıları ve eğitici
+isimleri (diğer kurum ve kuruluşlarda eğitici olarak görevlendirilen personel hariç) on beş gün i
+içerisinde eğitimden sorumlu birimce Merkez Başkanlığına bildirilir.
+
+Sınav komisyonu
+
+MADDE 31 - (1) Personele görevleri ile ilgili temel bilgi, davranış ve beceri
+kazandırmayı amaçlayan eğitim programlarının sonunda yapılacak sınavlarda, eğitimden
+sorumlu birim amirinin veya görevlendireceği kişinin başkanlığında, program yöneticisi ile
+eğiticilerden olmak üzere en az dört kişiden oluşan bir sınav komisyonu kurulur. Yeterli eğitici
+bulunamaması halinde şef veya şube müdürü seviyesindeki personel de sınav komisyonunda
+görevlendirilebilir.
+
+Sınavlar
+
+MADDE 32 — (1) Eğitimden sorumlu birim tarafından eğitimin özelliğine göre, eğitim
+süresi içinde veya sonunda, yazılı, sözlü, test veya uygulamalı olarak ayrı ayrı veya birlikte
+olmak üzere sınav yapılabilir.
+
+(2) Sınavların yapılması ve değerlendirilmesinde aşağıdaki hususlara uyulur:
+
+a) Sınav ve değerlendirmeye ilişkin iş ve işlemler sınav komisyonunca yapılır.
+
+b) Sınavların geçerliği ve güvenirliği için gerekli tedbirler, program yöneticisi ve
+eğiticiler tarafından birlikte alınır,
+
+e) Sınavlarda köşesi kapalı sınav kâğıdı kullanmak zorunludur.
+
+ç) Sınavın şekli, eğitim programlarında belirtilir. Eğitim içindeki sınavları eğiticiler
+yapar. İstedikleri takdirde program yöneticisi tarafından kendilerine yeteri kadar gözlemci
+verilir,
+
+d) Yazılı sınavların süresi, sorular ve cevap anahtarları sınavdan Önce sınav
+komisyonunca belirlenir. Sınavla ilgili gerekli materyallerin gizliliğinin sağlanması, basılı
+materyallerin fotokopiyle çoğaltılması ve eğitim yerine ulaştırılması iş ve işlemleri sınav
+komisyonunca yürütülür.
+
+e) Sınav komisyonu tarafından sınavın başladığı saat, sınava girenlerin sayrsi, Teslim
+alınan kâğıt sayısı ve sınavın bitiş saatini belgeleyen tutanak düzenlenir. ALIN
+
+i a EN Li
+r
+
+Sınav sonuçlarının ilanı
+
+MADDE 33 - (1) Yapılan sınavlar sınav komisyonu tarafından değerlendirildikten sonra
+her sınav için ayrı bir sonuç listesi düzenlenerek en geç 15 gün içerisinde eğitimden sorumlu
+birimce ilgililere duyurulur. Sınav komisyonunca hazırlanan sonuç listesi, bir tutanakla
+program yöneticisine teslim edilir.
+
+Sınav sonuçlarına itiraz ve belgelerin saklanması
+
+MADDE 34 - (1) İtirazlar, sınav sonuçlarının ilgililere duyurulmasından başlayarak, 10
+gün içinde bir dilekçe ile Sınav Komisyonu Başkanına yapılır. Bu itirazlar, Komisyonca
+incelenir ve sonuç en geç 10 gün içinde ilgiliye yazı ile bildirilir. Bu incelemeden sonra verilen
+puan kesindir.
+
+(2) Eğitimden sorumlu birim tarafından;
+
+a) Sınav kâğıtları, soruların cevap anahtarları ve cevap kağıtları bir yıl,
+
+b) Tutanaklar ve değerlendirme formları sınav tarihinden itibaren iki yıl süresince
+saklanır.
+
+c) Kanuni süresi içinde yargı yoluna başvuranların evrakları ise bu maddede belirtilen
+sürelerden az olmamak üzere dava sonuçlanıncaya kadar saklanır. Bu şekilde yargı yoluna
+başvuranlar durumunu yazılı olarak bağlı oldukları birimler aracılığıyla eğitimden sorumlu
+birime de bildirirler.
+
+ç) Belgeler yukarıda belirtilen süreler sonunda “Devlet Arşiv Hizmetleri Hakkında
+Yönetmelik” hükümlerine göre imha edilir.
+
+Değerlendirme
+
+MADDE 35 - (1) Sınavlarda değerlendirme 100 tam puan üzerinden yapılır. Eğitim
+programlarında özel bir sınav ve değerlendirme şeklinin öngörülmediği hallerde başarı notu her
+sınav için 60 puandır.
+
+(2) Sınavlarda; il
+
+0 —- 59 Başansız |
+
+60 - 69 Orta
+
+70 - 89 İyi
+
+90 — 100 Pekiyi
+olarak değerlendirilir. Buçuklu puanlar tam puana tamamlanır.
+
+(3) Yazılı, sözlü ve uygulamalı sınav şekillerinin birlikte uygulanılması halinde, sınav
+öncesinde sınav komisyonu tarafından belirlenerek ilan edilmiş ölçütlere göre değerlendirme
+yapılır.
+
+(4) Sınav sonunda gerekli başarı puanını alamamış olan personel, aynı düzeydeki eğitim
+programına bir kere daha çağrılabilir.
+
+(5) Enaz beş gün süreli eğitime katılan personele, eğitim faaliyetlerinin sonunda eğitimin
+türüne göre “Başarı Belgesi”, sınavsız yapılan eğitimlere katılanlara ise “Katılım Belgesi”
+eğitimden sorumlu birimce verilebilir.
+
+(6) Eğitim programının genel değerlendirmesine yardımcı olmak üzere eğitim sırasında
+veya sonunda, eğitim faaliyetine katılanlar ile görevli olanların görüş ve düşüncelerini tespit
+etmek üzere anketler düzenlenebilir.
+
+Disiplin
+
+MADDE 36 - (1) Hizmet içi eğitim faaliyetine katılması kararlaştırılmış olan personel bu
+Yönetmeliğin 37. Maddesinde belirtilen izinler dışında eğitim faaliyetini düzenli bir şekilde
+izlemek zorundadır.
+
+(2) Bu konuda özürsüz olarak ihmali görülen veya eğitim faaliyetinin düzenli bir şekilde
+yürütülmesini engelleyici davranışlarda bulunanlar hakkında disiplin cezalarına” ilişkin .
+hükümler uygulanır. ALAN,
+
+(3) Sınavlarda kopya çeken veya sınav disiplinini bozanlar, düzenlenecek bir tutanaktan
+sonra sınav yerinden çıkarılır ve o eğitim programında başarısız sayılır. Tutanak ilgilinin görev
+yaptığı birime gönderilir.
+
+(4) Eğitim sonunda sınavlardan herhangi birine mazeretsiz olarak katılmayanlar, sınavda
+başarısız sayılır. Ayrıca ilgililerin görev yaptığı birimlerince, haklarında 657 sayılı Devlet
+Memurları Kanununun disiplinle ilgili hükümleri uygulanır.
+
+İzinler
+
+MADDE 37 - (1) Hizmet içi eğitime katılanlar, eğitim süresince 657 sayılı Devlet
+Memurları Kanununun 104 üncü ve 105 inci maddeleri dışında izin kullanamazlar. Diğer kamu
+kurum ve kuruluşlarında eğitime katılanlar katıldıkları kurum veya kuruluşun izinle ilgili
+mevzuat hükümlerine tabidirler.
+
+YEDİNCİ BÖLÜM
+Eğitim Giderleri ve Ders Ücretleri
+
+Eğitim giderleri
+
+MADDE 38 - (1) Eğitim faaliyetlerinin gerektirdiği harcamalar Kurum bütçesinden
+karşılanır.
+
+(2) Hizmet içi eğitim faaliyetlerine eğitici, kursiyer ve görevli olarak katılanlara eğitime
+katıldıkları süreler dikkate alınarak 6245 sayılı Harcırah Kanunu ve Bütçe Kanununun ilgili
+hükümlerine göre ödeme yapılır.
+
+(3) Eğitimin görev mahallinde yapılması halinde, harcırah ödenmez.
+
+Ders ücretleri
+
+MADDE 39 — (1) Eğiticilere verilecek ücretler, 657 sayılı Devlet Memurları Kanunu ile
+Bütçe Kanununun ilgili hükümleri gereğince ödenir.
+
+SEKİZİNCİ BÖLÜM
+Çeşitli Hükümler
+
+Hizmet alımı
+
+MADDE 40 — (1) Eğitim faaliyetleri 4734 sayılı Kamu İhale Kanunu hükümleri
+doğrultusunda hizmet alımı yolu ile de gerçekleştirilebilir.
+
+Saklı hükümler
+
+MADDE 41 — (1) Bu Yönetmelikte hüküm bulunmayan hallerde “657 sayılı Devlet
+Memurları Kanunu”, “Devlet Memurları Eğitimi Genel Planı”, “Yetiştirilmek Amacıyla Yurt
+Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik” ile “Aday Memurların
+Yetiştirilmelerine İlişkin Genel Yönetmelik” hükümleri uygulanır.
+
+Yürürlükten kaldırılan mevzuat
+
+MADDE 42 - (1) 07/05/2009 tarihli ve 2009/185 sayılı Sosyal Güvenlik Kurumu
+Başkanlığı Yönetim Kurulu Kararı ile yürürlüğe konulan “Sosyal Güvenlik Kurumu Hizmet İçi
+Eğitim Yönetmeliği” yürürlükten kaldırılmıştır.
+
+Yürürlük
+
+MADDE 43 - (1) Bu Yönetmelik, Sosyal Güvenlik Kurumu Yönetim Kurulunca kabul
+edildiği tarihte yürürlüğe girer. ER
+
+KASIN
+
+Yürütme e e V
+
+MADDE 44 - (1) Bu Yönetmelik hükümlerini Sosyal Güvenlik Kurumu Başkâni yürütür. DiNi A
+
+n e g
+id

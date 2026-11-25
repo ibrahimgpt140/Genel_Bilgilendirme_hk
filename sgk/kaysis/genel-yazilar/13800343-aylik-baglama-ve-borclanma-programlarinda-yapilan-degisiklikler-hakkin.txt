@@ -1,0 +1,181 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/168298
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 13800343
+ADI: AYLIK BAĞLAMA VE BORÇLANMA PROGRAMLARINDA YAPILAN DEĞİŞİKLİKLER HAKKINDA 13/11/2020 TARİHLİ VE 13800343 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7f33a6e1bd2a7c706b31289ca94635a6a503b1d1e819ee0e7af742e230ab3201
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : 40552758-203.05.15-E.13800343                                                     13.11.2020
+Konu : Aylık Bağlama ve Borçlanma
+       Programlarında Yapılan Değişiklikler
+
+
+
+
+                                                    GENEL YAZI
+
+
+       Bilindiği üzere, Başkanlığımız iş ve işlemleri bilgisayar programları aracılığı ile
+yürütülmekte, söz konusu programlar ise mevzuatta meydana gelen değişiklikler ve
+uygulamada karşılaşılan sorunlar sebebiyle revize edilmekte veya yerlerine yeni programlar
+uygulamaya alınmaktadır.
+       Bu kapsamda Genel Müdürlüğümüz görev alanına giren yurt dışı borçlanma ve tahsis
+işlemlerinin yürütüldüğü; 4/-1(a) Yurtdışı Borçlanma, Güvence 4B, Emektar 4A, ve Emektar
+4B programlarında yapılan değişikliklikler aşağıda açıklanmıştır.
+
+        Emektar 4A Programı
+
+    1) Emektar 4A yaşlılık / maluliyet işlemleri ikinci karar “Prim ödeme gün sayıları ve
+       kazançların değişmesi” menüsünden "ödenmesi" ekranında giden gitmeyen hesabının
+       yapılmasında, “Bu Hareket İçin Bu Değerlerden Aylık Hesabı Yapılsın mı? butonu
+       eklenerek, sistemde önceki verileri esas alınarak belirli dönemler için aylık hesabı
+       yapılması sağlanmıştır.
+    2) Emektar4a programında sigortalıların sağlık durumlarının güncellenmesi için SPAS
+       işlemleri menüsüne ek olarak; Yaşlılık / maluliyet / ölüm ilk ve ikinci karar ekranlarında
+       “Sağlık Provizyon Açılsın mı?” butonu eklenerek sağlık aktivasyon işlemlerinin aylık
+       bağlama /düzeltme esnasında yapılması sağlanmıştır.
+    3) Yaşlılık / maluliyet / ölüm ekranlarında yurt dışı sözleşmesine istinaden aylık bağlanma
+       aşamasında sözleşmeli ülke isimleri belirtilmek suretiyle sözleşmesiz ülke seçilme hatası
+       önlenmiştir.
+    4) Yaşlılık / maluliyet ikinci karar ekranlarında mahkeme işlemleri menüsünde yazılımsal
+       değişiklikler yapılarak mahkeme karalarına istinaden aylık bağlanırken alınan hataların
+       (Kanun maddesine göre aylık bağlanamaz uyarısı gibi) gelmesi önlenerek aylık
+       bağlanması işlemlerin devamı sağlanmıştır.
+    5) Yaşlılık / maluliyet ikinci karar ekranlarında otomatik yasa maddesi kontrolü
+       eklenmiştir.
+    6) Yaşlılık / maluliyet ikinci karar ekranlarında Sözleşmeden / Borçlanmaya dönüştürülen
+       dosyalarda tahsis talep tarihinin değiştirilmesi engellenmiş ve hata mesajı ile
+       kullanıcıların bilgilendirilmesi sağlanmıştır.
+    7) Emektar 4A programında “kayıt güncelleme işlemleri” sekmesinin altında “ülke kodu
+       değiştirme” menüsü açılarak aylık işlemlerinden bağımsız olarak ülke kodu değiştirme
+       imkanı sağlanmıştır.
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                 Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                      Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr             Telefon No: 0 312 432 12 47
+9                                                       1/3
+                                                T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+
+    8) Aylık görüntüleme ekranına "devir aylığı" bölümü eklenmiş olup bu bölüme “D” kodu
+       verilenlerin toplu olarak devredilen dosya olduğunun anlaşılması sağlanmıştır.
+    9) Tahsis no değişimlerinin takip edilebilmesi için; aylık görüntüleme ekranına “Tahsis no
+       değişimleri” bölümü eklenmiştir.
+   10) Kalamoza ekranlarının sicil numarasıyla sorgulama yapılması sağlanmıştır.
+   11) Yurt dışı sigorta kurumlarına bildirilecek aylık miktarlarının kalamoza ekranından PDF
+       olarak alınması sağlanmıştır. Kalamoza ekranlarının SSK sicili üzerinden yapılmasına
+       olanak sağlanmıştır.
+   12) Transfer işlemleri gerçekleştirirken banka güncelleme menüsünde yurt dışına transfer
+       edilen ödemelerinin detaylarının sistemde görüntülenmesi sağlanmıştır.
+
+        4-1/A Yurtdışı Borçlanma Programı
+
+    1) "Sözleşmeli Ülke İşlemleri" menüsü işletime açılarak, sözleşmeli ülkelerin hizmetlerinin
+       sisteme yüklenerek Tescil ve Hizmet Dökümü ekranlarında görünmesi sağlanmıştır.
+    2) Yurt dışı borçlanma işlemleri menüsüne Şef onayı eklenmiştir.
+
+        Güvence Programı
+
+    1) Yurtdışı borçlanması müracaatına istinaden tescil kaydı açılacak olan dosyalar için 9997
+       NACE kodu ile ilk tescilin açılması ve mevcut kayıtların güncellenebilmesi için
+       programda düzenleme yapılmıştır.
+    2) Tescil güncelleme ekranına, “Yurtdışı Borçlananlar” seçeneği eklenmiştir.
+    3) Sigortalı bilgileri genel görüntüleme ekranı unvan bölümünde yer alan, yurt dışı
+       borçlanması için kullanılan "T.C. Kimlik Numarası Olmayan" ibaresi, "Yurtdışı
+       Borçlanma" olarak düzeltilmiştir.
+    4) Diğer Kurum/Sandıkta yapılan yurt dışı borçlanmalarını hizmet işlemleri menüsünden
+       sisteme yüklerken alınan hataların giderilmesi ve Emektar 4B programında aylık
+       bağlama esnasında sistemden 2019/16 sayılı Genelgeye göre aylık bağlanacağından
+       ilgili menüye "Talep Tarihi- Borç Ödeme Tarihi- Borçlanma Tipi/ Ülke Adı" bölümleri
+       eklenmiştir.
+    5) 1/8/2019 (dahil) tarihinden sonraki yurt dışı borçlanmaları 4/1-(b) statüsünde
+       değerlendirileceğinden farklı statüden sözleşme aylığı alan sigortalıların borçlanma
+       işlemlerinin aylıklarının durdurulmadan gerçekleştirilmesi için düzenleme yapılmıştır.
+    6) 5510 sayılı Kanunun 4/1-(a) bendi kapsamında yurt dışı borçlanması yapan sigortalıların
+       statülerinin sonradan değişmesi durumunda ödemiş oldukları borçlanma bedellerinin
+       5510 sayılı Kanunun 4/1-(b) statüsüne aktarılırken yaşanan sorunlarla ilgili olarak
+       Güvence sistemine “Kurum Hata Kodu 50” (4/1-(a) statüsünde yapılan yurt dışı
+       borçlanması iptal edilenler için kurum hata kaydı) olarak yeni bir kod tanımlatılmıştır.
+
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                    Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr           Telefon No: 0 312 432 12 47
+9                                                       2/3
+                                                T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        Emektar 4B Programı
+
+    1) 1/8/2019 (dahil) tarihinden sonra yapılan yurt dışı borçlanma sürelerinin ilgili aylara
+       mal edilmesi yeniden düzenlendiğinden, borçlanma talep tarihi esas alınarak programda
+       gerekli düzenleme yapılmıştır.
+    2) Diğer Sandık Yurtdışı Borçlanması yüklenen dosyalarla ilgili olarak 1/8/2019 öncesi
+       sonrası seçeneği aktifleştirilerek Güvence Programından borçlanma talep tarihinin
+       kontrolü sağlanarak Kanun Öncesi/Kanun Sonrası aylık bağlama aşamasında kontrol
+       sağlanmıştır.
+    3) 5510 sayılı Kanunun 4/1-(b) kapsamında veya diğer statüler kapsamında sözleşme
+       aylığı bağlanan dosyaların yurt dışı borçlanma ile tam aylığa çevrilmesinde aylık
+       bağlama şartlarının oluşup oluşmadığının tespiti için "Sigortalamadan Hizmet Getir"
+       bölümüne "sözleşme aylığının bağlandığı statü ve bu statüdeki sözleşme aylığı talep
+       tarihinin" girilmesi zorunlu hale getirilmiştir.
+    4) Borçlanma talep tarihleri 1/8/2019 öncesi/sonrası olanların kazanç mal etme kuralı
+       farklı olduğu için "Yurt dışı Kanun Maddesi" seçeneği eklenmiş ve kontrol konularak
+       yanlış seçim yapılması engellenmiştir.
+    5) Ölüm dosyaları için aynı kontrollere ek olarak "Aktif/Pasif" seçeneği eklenerek doğru
+       seçim yapılmadan bir sonraki bölüme geçilmesine izin verilmemiştir.
+    6) Sözleşme aylığı bağlanan dosyalarda karar ekranına ülke adı ve sabit sayının görünmesi
+       sağlanmıştır.
+
+       Programlarda yapılan düzenlemelere ilişkin kullanım kılavuzları yazımız ekinde
+gönderilmiştir.
+       Söz konusu programlarla ilgili uygulamada karşılaşılan sorunların çözümü için ilgili
+ekran görüntüleri ile birlikte Emektar 4A ve Yurtdışı Borçlanma Programı için; Ümmühan
+ŞABANOĞLU (usabanoglu@sgk.gov.tr) ve Zeliha BAYRAM (zbayram@sgk.gov.tr),
+Emektar 4B, Güvence Programı için ise İnayet MİLLİDERE (ialp@sgk.gov.tr) ile iletişime
+geçilmesi gerekmektedir.
+       Bilginizi ve gereğini rica ederim.
+
+
+                                                                  İsmail ERTÜZÜN
+                                                                   Genel Müdür V.
+
+
+Ek:
+ 1- 4/1- (a) değişikliklere ilişkin Kullanım Kılavuzu (9 sayfa)
+ 2- 4/1- (b) değişikliklere ilişkin Kullanım Kılavuzu (6 sayfa)
+
+
+Dağıtım:
+Gereği:
+Taşra Teşkilatı
+
+
+
+      Bu belge, güvenli elektronik imza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                   Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr          Telefon No: 0 312 432 12 47
+9                                                       3/3
+

@@ -1,0 +1,116 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/183783
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 35853206
+ADI: DIŞ TEMSİLCİLİKLERİMİZDEN BELGE TALEBİ HAKKINDA 26.11.2021 TARİHLİ VE 35853206 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: d2cd3673f62585e8c5de57aebbf6b0a7ea5a1e72fb8bf6d45720393e49a946c9
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C.
+                                 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-40552758-010.06.01-35853206                                                                             26.11.2021
+Konu : Dış Temsilciliklerimizden Belge Talebi
+
+
+
+                                                         GENEL YAZI
+
+
+         10.01.2021 tarihli ve 2021/2 sayılı Genelgenin Birinci Bölüm "2.6. Yurtdışı Sürelerinin
+Belgelendirilmesine İlişkin Ortak ve Diğer Hususlar" başlıklı maddenin (1) numaralı alt bendinde;
+         "Sosyal güvenlik sözleşmesi akdedilmemiş ülkelerdeki Türk temsilciliklerinden hizmet belgesi
+talebinde bulunmak isteyenler; öncelikle ellerinde bulunan pasaport, iş akdi, işverence düzenlenmiş
+bonservis, çalışılan ülke kurumlarınca düzenlenmiş sigorta veya çalışma belgesi ve diğer belgelerle
+birlikte yazılı olarak ikamet ettikleri ildeki sosyal güvenlik il müdürlüğü (SGİM) /sosyal güvenlik
+merkezlerine (SGM) müracaat edeceklerdir.
+         SGİM/SGM'ler, talep sahiplerinin dilekçe ekinde ibraz ettikleri pasaport ve diğer belgelerin her
+sayfasının asıllarını görerek fotokopilerini, “aslı görülmüştür” kaşesi basmak ve imzalamak suretiyle
+onaylayacaktır. Onaylanan bu belgeler çalışılmış olan ülkedeki Türk konsoloslukları, çalışma ve sosyal
+güvenlik müşavirlikleri veya ataşeliklere gönderilmek üzere başvuru sahiplerine verilecektir. Ayrıca,
+pasaport ve varsa diğer onaylanmış belgelerin birer örneği ilgililerin dosyalarında muhafaza
+edilecektir."
+         şeklinde düzenleme yer almaktadır.
+         Bu düzenleme ile ilgili olarak 22.11.2021 tarihinden itibaren Çalışma ve Sosyal Güvenlik
+Bakanlığı ile Kurumumuz arasında borçlanmaya esas belge talebinin elektronik ortamda
+gerçekleştirilmesi için Yurtdışı Borçlanmaya Esas Belge Başvurusu (YBEBB) uygulaması başlatılmıştır.
+         Bu kapsamda yurt dışı borçlanmaya esas belge düzenletmek isteyenler tarafından, ilgili
+ülkelerdeki çalışma ve ikamet sürelerini kanıtlamaya yarayacak belge ve pasaport sayfaları ya da yurda
+giriş çıkışlarını gösterir ibraz edilen belgeler yazılı dilekçe ekinde evrak kaydından geçirildikten sonra
+taranıp sisteme yüklenecektir.
+         Söz konusu uygulamaya "https://ssom.sgk.intra/SSOM/Home/Index" adresinden "Yurtdışı
+Borçlanmaya Esas Belge Başvurusu" başlığından ulaşılabilecektir. Kullanıcılar uygulamaya giriş için
+ilgili supervizörlerinden "YBEBB_OPERATOR" yetkisi alacaktır. Ayrıca, gizli kimliklerle ilgili işlem
+yapılmasını teminen il müdürlerinin belirleyeceği sayıdaki kişilere "YBEBB_GIZLIKIMLIK" yetkisi de
+alınacaktır.
+        Bu uygulamaya ilişkin "Yurtdışı Borçlanmaya Esas Belge Başvurusu Kullanım Kılavuzu" ekte
+(Ek-1) yer almakta olup, belge taleplerine ilişkin iş ve işlemlerin söz konusu kılavuzda yer alan
+açıklamalar doğrultusunda gerçekleştirilmesi gerekmektedir.
+         YBEBB uygulamasına, öncelikle Bakanlığımızın yurt dışı temsilciliklerinin bulunduğu ekli
+listede (Ek-2) belirtilen ülkelerle başlanılacak olup diğer ülkeler sisteme peyderpey dahil edilecektir.
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                           Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                                Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9                                                                 1/2
+        Sisteme dahil edilen yeni ülkeler otomatik olarak sistemde görünecek olup bu ülkelerin sisteme
+dahil edildiği ayrıca duyurulmayacağından yurt dışından borçlanmaya esas belge talebinde bulunanlar
+adına manuel belge düzenlenmeden önce sistem kontrol edilerek gereksiz yere belge onaylama işlemi
+yapılarak vatandaşlarımızın yurt dışı temsilciliklerimizle yazışma yapmalarının önlenmesi hususunda
+gerekli özen gösterilecektir.
+        Sistemde kayıtlı olmayan ülkelerdeki dış temsilciliklerimizden 3201 sayılı Kanuna göre
+borçlanmaya esas belge taleplerinde, bu ülkelerin sisteme dahil edilmelerine kadar 2021/2 sayılı
+Genelgenin Birinci Bölüm "2.6. Yurtdışı Sürelerinin Belgelendirilmesine İlişkin Ortak ve Diğer
+Hususlar" başlıklı maddenin (1) numaralı alt bendindeki hükümleri uygulanmaya devam edilecektir.
+        Kurumumuzca YBEBB uygulaması sadece borçlanmaya esas belgelerin sisteme yüklenmesi
+aşamasında kullanılacak olup uygulamanın diğer bölümleri Çalışma ve Sosyal Güvenlik Bakanlığı
+tarafından yürütülecektir.
+       Belgelerin siteme yüklenmesinin borçlanma başvurusu olarak kabul edilmeyeceği ve borçlanmaya
+esas belge oluştuktan sonra yurt dışı borçlanması için e-Devlet üzerinden ya da "Yurt Dışı Süreleri
+Borçlanma Talep Dilekçesi" ile müracaat edilmesi gerektiği yönünde ilgililer başvuru anında
+bilgilendirilecektir.
+        Bilgilerinizi ve gereğini rica ederim.
+
+
+
+
+                                                                                             İsmail ERTÜZÜN
+                                                                                               Genel Müdür
+
+
+
+
+Ek:
+1- Yurtdışı Borçlanmaya Esas Belge Başvurusu Kullanım Kılavuzu (5 sayfa)
+2- Bakanlığının Temsilciliğinin Bulunduğu Ülkeler Listesi (1 sayfa)
+
+
+
+
+Dağıtım:
+Gereği:                                                 Bilgi :
+Taşra Teşkilatı                                         Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                              Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                                   Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9                                                                 2/2
+

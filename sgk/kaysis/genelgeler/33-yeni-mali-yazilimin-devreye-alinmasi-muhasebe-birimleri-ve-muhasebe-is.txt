@@ -1,0 +1,321 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/136254
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 33
+ADI: YENİ MALİ YAZILIMIN DEVREYE ALINMASI, MUHASEBE BİRİMLERİ VE MUHASEBE İŞLEMLERİ KONULU 12/01/2010 TARİHLİ 2010/5 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 71eadbc32bf2b233e1a7fb76d46bf7f35bea17225db2c3ca8dbf5dde990619dd
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+Sayı : B.13.2.SGK.0.65.01.00/ 33                                                         12.01.2010
+Konu: Yeni Mali Yazılımın Devreye Alınması,
+       Muhasebe Birimleri ve Muhasebe İşlemleri
+
+
+                                            GENELGE
+                                             2010 / 5
+
+
+        Bilindiği üzere, 5502 sayılı Kanunun 20 nci maddesine göre mali hizmetleri yürütme
+görevi Strateji Geliştirme Başkanlığına verilmiştir. Söz konusu hizmetlerin mevcut
+uygulama yazılımları ile yürütülmesinde mevzuat ve teknik yönlerden büyük sıkıntılar
+yaşanması nedeniyle 5018 sayılı Kanuna uygun harcama sürecinde harcama birimlerinden
+başlayarak ödeme aşamasına kadar tüm süreçleri içinde barındıran ve her aşamada mali
+durumun takip edilebilmesini sağlayan yeni bir uygulama yazılımı “Mali Yönetim
+Otomasyon Sistemi Projesi (MOSİP)”geliştirilmiş ve sağlık ödemeleri açısından eczane ve
+hastanelere ait 15 Kasım 2009 dönemi ödemeleri bu sistem üzerinden gerçekleştirilmiştir.
+        Öte yandan, 16 Aralık 2009 tarihi itibariyle merkez harcama birimleri ve Ankara
+Sosyal Güvenlik İl Müdürlüğü harcama ve ödeme işlemleri pilot olarak yeni mali sistem
+yazılımı üzerinden gerçekleştirilmiş, dolayısıyla söz konusu birimler açısından yeni yazılım
+devreye alınmıştır.
+        1 Ocak 2010 tarihi itibarıyla ise MOSİP Yazılımı’nın tüm taşra harcama ve
+muhasebe birimlerinde devreye alınmasına karar verilmiştir. Bu tarih itibariyle mevcut ve
+yeni taşra muhasebe birimlerince yapılacak işlemler aşağıda açıklanmıştır.
+        A- MUHASEBE BİRİMLERİ:
+        Bilindiği üzere, 15 Kasım 2009 dönemi sağlık ödemelerini gerçekleştiren muhasebe
+birimleri, MOSİP Yazılımında 1 Kasım 2009 tarihi itibarıyla ayrı bir muhasebe birimi olarak
+tanımlanmış ve muhasebe işlemleri bu yeni muhasebe birimleri üzerinden yürütülmüştür. Bu
+defa 1 Ocak 2010 tarihi itibarıyla her ilde mevcut muhasebe birimlerinin yanında MOSİP
+yazılımında yeni birer muhasebe birimi tanımı yapılmıştır.
+        Mevcut ve yeni muhasebe birimlerinin örgütlenmesine göre yapacağı işlemler
+aşağıda sıralanmıştır.
+        1- Sağlık ve sigorta işlemleri ayrı muhasebe birimlerince yürütülen iller 1 Ocak
+2010 tarihinden itibaren aşağıdaki şekilde işlem yapacaklardır:
+        a) MOSİP Yazılımı devreye alınmadan önce sadece sağlık ödemeleri yapan Sağlık
+Sosyal Güvenlik Merkezleri muhasebe birimlerinin 1 Kasım 2009 tarihi itibarıyla
+faaliyetleri durdurulmuştur. Bu tarihten itibaren söz konusu illerde İl Muhasebe Birimi
+olarak tanımlanan ve MOSİP Yazılımını kullanan muhasebe birimleri sağlık ödemelerini
+MOSİP üzerinden gerçekleştirmiştir. Söz konusu muhasebe birimleri 1 Ocak 2010 tarihi
+itibarıyla diğer gider işlemleri açısından da İl Muhasebe Birimi olarak faaliyetlerini
+yürüteceklerdir.
+        Örneğin, Eskişehir ilinde 1 Kasım 2009 tarihine kadar biri il müdürlüğünde diğeri ise
+Sağlık Sosyal Güvenlik Merkezinde olmak üzere iki muhasebe birimi bulunmaktaydı. Bu
+tarihten itibaren MOSİP Yazılımında İl Muhasebe Birimi adında bir muhasebe birimi
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+tanımlanmış ve sağlık ödemelerine ilişkin işlemler bu muhasebe birimi üzerinden
+gerçekleştirilmiştir. 3270 Muhasebe Yazılımında tanımlı olan sağlık sosyal güvenlik
+Merkezi muhasebe birimi 31 Aralık 2009 tarihi itibarıyla yönetim dönemi hesabını çıkararak
+Sayıştay Başkanlığı’na gönderecek ve 2010 yılında da MOSİP Yazılımındaki İl Muhasebe
+Birimine devir işlemi yapacaktır. 1 Ocak 2010 tarihinden itibaren de tüm gider ve gidere
+ilişkin ödeme ve gönderme işlemleri bahse konu İl Muhasebe Birimi üzerinden
+gerçekleştirilecektir.
+        b) 3270 Muhasebe Yazılımı üzerinde tanımlı olup, 31 Aralık 2009 tarihine kadar il
+müdürlüğü muhasebe işlemlerini gerçekleştiren muhasebe birimleri ise bu tarihten itibaren
+yalnızca gelir tahsilât işlemlerini yürüten İl Gelir Muhasebe Birimi olarak faaliyetlerine
+devam edeceklerdir. Örneğin Eskişehir Sosyal Güvenlik İl Müdürlüğü muhasebe işlemlerini
+gerçekleştiren muhasebe birimi 1 Ocak 2010 tarihinden itibaren 3270 Muhasebe Yazılımı
+üzerinden İl Gelir Muhasebe Birimi olarak yalnızca gelir tahsilât işlemlerine devam
+edecektir.
+        c) Bu illerdeki mevcut muhasebe yetkililerinden biri MOSİP Yazılımı üzerinde
+tanımlı İl Muhasebe Biriminde muhasebe yetkilisi, diğeri ise 3270 Muhasebe Yazılımı
+üzerinde işlem yapan İl Gelir Muhasebe Biriminde muhasebe yetkilisi olarak görevine
+devam edecektir.
+        2- Sağlık ve sigorta işlemleri tek bir muhasebe birimince yürütülen illerde
+yapılacak işlemler:
+        a) Bu illerdeki sağlık ödemeleri 1 Kasım 2009 tarihinden itibaren MOSİP Yazılımı
+üzerinde tanımlanmış İl Muhasebe Birimi üzerinden yürütülmüştür. MOSİP Yazılımı
+üzerinde tanımlı bu muhasebe birimi, tüm gider işlemleri ve gidere ilişkin ödeme ve
+göndermeler yönünden 1 Ocak 2010 tarihinden itibaren de İl Muhasebe Birimi olarak
+faaliyetlerine devam edecektir. Örneğin Tokat ilinde 1 Kasım 2009 tarihine kadar il
+müdürlüğü muhasebe işlemleri gerçekleştiren bir muhasebe birimi bulunmaktaydı. Bu
+tarihten itibaren MOSİP Yazılımında İl Muhasebe Birimi adında bir muhasebe birimi
+tanımlanmış ve sağlık ödemelerine ilişkin işlemler bu muhasebe birimi üzerinden
+gerçekleştirilmiştir. İl Müdürlüğünün sağlık ödemeleri dışında kalan gider ve gelir işlemleri
+ise 31 Aralık 2009 tarihine kadar 3270 Muhasebe Sisteminde tanımlı olan muhasebe
+birimince gerçekleştirilmiştir. Söz konusu muhasebe birimi 31 Aralık 2009 tarihi itibarıyla
+yönetim dönemi hesabını çıkararak Sayıştay Başkanlığı’na gönderecektir.
+        MOSİP Yazılımı üzerinde tanımlı İl Muhasebe Birimince 1 Ocak 2010 tarihinden
+itibaren tüm gider işlemleri ile gidere ilişkin ödeme ve gönderme işlemleri
+gerçekleştirilecektir.
+        b) 3270 Muhasebe Yazılımı üzerinde tanımlı olup, 31 Aralık 2009 tarihine kadar il
+müdürlüğü muhasebe işlemlerini gerçekleştiren muhasebe birimleri ise bu tarihten itibaren
+yalnızca gelir tahsilat işlemlerini yürüten İl Gelir Muhasebe Birimi olarak faaliyetlerine
+devam edeceklerdir. Örneğin Tokat ilinde Tokat Sosyal Güvenlik İl Müdürlüğü muhasebe
+işlemlerini gerçekleştiren muhasebe birimi 1 Ocak 2010 tarihinden itibaren 3270 Muhasebe
+Yazılımı üzerinden İl Gelir Muhasebe Birimi olarak yalnızca gelir tahsilât işlemlerine
+devam edecektir.
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+        c) Bu illerdeki muhasebe yetkilisi aynı anda MOSİP Yazılımı üzerinde tanımlı İl
+Muhasebe Birimi ve 3270 Muhasebe Yazılımı üzerinde işlem yapan İl Gelir Muhasebe
+Biriminin muhasebe yetkilisi olarak görevlerine devam edeceklerdir.
+        3- Bünyesinde sağlık ödeme işlemleri yapılmayan muhasebe birimlerince
+yapılacak işlemler:
+        a) 1 Ocak 2010 tarihinden itibaren tüm gider ve gidere ilişkin ödeme ve gönderme
+işlemleri MOSİP Yazılımı üzerinde tanımlı İl Muhasebe Birimi üzerinden
+gerçekleştirilecektir.
+        b) 3270 Muhasebe Yazılımı üzerinde tanımlı olup, 31 Aralık 2009 tarihine kadar il
+müdürlüğü muhasebe işlemlerini gerçekleştiren muhasebe birimleri ise bu tarihten itibaren
+yalnızca gelir tahsilât işlemlerini yürüten İl Gelir Muhasebe Birimi olarak faaliyetlerine
+devam edeceklerdir. Örneğin Hakkâri ilinde Hakkâri Sosyal Güvenlik İl Müdürlüğü
+muhasebe işlemlerini gerçekleştiren muhasebe birimi 1 Ocak 2010 tarihinden itibaren 3270
+Muhasebe Yazılımı üzerinden İl Gelir Muhasebe Birimi olarak yalnızca gelir tahsilât
+işlemlerine devam edecektir.
+        c) Bu illerdeki muhasebe yetkilisi aynı anda MOSİP Yazılımı üzerinde tanımlı İl
+Muhasebe Birimi ve 3270 Muhasebe Yazılımı üzerinde işlem yapan İl Gelir Muhasebe
+Biriminin muhasebe yetkilisi olarak görevine devam edecektir.
+        4- Ankara ilindeki muhasebe birimleri 1 0cak 2010 tarihinden itibaren
+aşağıdaki şekilde işlem yapacaklardır:
+        a) Sağlık ödemeleri 1 Kasım 2009, diğer gider işlemleri ise 16 Aralık 2009
+tarihinden itibaren MOSİP Yazılımında tanımlı İl Muhasebe Birimi üzerinden
+yürütülmüştür. 1 Ocak 2010 tarihinden itibaren de tüm gider ve gidere ilişkin ödeme ve
+gönderme işlemleri MOSİP Yazılımı üzerinde tanımlı İl Muhasebe Birimi üzerinden
+gerçekleştirilmeye devam edilecektir. Daha önce Rüzgârlı Sosyal Güvenlik Merkezi
+muhasebe işlemlerini yürüten muhasebe yetkilisi aynı zamanda yeni yazılım üzerinde
+kurulan İl Muhasebe Biriminin de muhasebe yetkilisi olarak görevine devam edecektir.
+        b) Ulucanlar, Sıhhıye, Rüzgârlı, Bahçelievler, Kocatepe ve Kızılay Sosyal Güvenlik
+Merkezlerindeki tüm gider ve gidere ilişkin ödeme ve gönderme işlemleri MOSİP Yazılımı
+üzerinde tanımlı İl Muhasebe Birimi üzerinden yürütülecektir. Bu merkezlere bağlı 3270
+Muhasebe Yazılımı üzerinden işlem yapan muhasebe birimleri, gelir işlemleri açısından
+işlemlerine devam edecek, hiçbir gider işlemi yapmayacaklardır. Söz konusu muhasebe
+birimlerinde görev yapan muhasebe yetkilileri görevlerine devam edeceklerdir.
+        5- İstanbul ilinde 1 Ocak 2010 tarihi itibariyle muhasebe birimleri aşağıdaki
+şekilde işlem yapacaktır:
+        a) İstanbul ilinde gider işlemleri yönünden MOSİP Yazılımı üzerinde üç adet
+muhasebe birimi tanımlanmıştır. Bunlar;
+        - İstanbul İl Muhasebe Birimi (Beşiktaş)
+        - İstanbul 1 Nolu Muhasebe Birimi (Fındıklı)
+        - İstanbul 2 Nolu Muhasebe Birimi (Doğancılar)
+        Tüm gider ve gidere ilişkin ödeme ve gönderme işlemleri yukarıda tanımlanan
+muhasebe birimleri üzerinden gerçekleştirilecektir.
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+        b) 3270 Muhasebe Yazılımı üzerinden muhasebe işlemlerini yürüten muhasebe
+birimleri, bünyesinde bulunduğu sosyal güvenlik merkezi adıyla Gelir Muhasebe Birimi
+(Örneğin, Fatih Gelir Muhasebe Birimi) olarak işlem yapmaya devam edeceklerdir. Söz
+konusu muhasebe birimlerinde görev yapan muhasebe yetkilileri görevlerine devam
+edeceklerdir.
+        6- Gebze, İskenderun ve Tarsus Sosyal Güvenlik Merkezlerinde 1 Ocak 2010
+tarihi itibariyle muhasebe birimleri aşağıdaki şekilde işlem yapacaktır:
+        a) 1 Ocak 2010 tarihinden itibaren tüm gider ve gidere ilişkin ödeme ve gönderme
+işlemleri MOSİP Yazılımı üzerinde merkez müdürlüğü adıyla tanımlı Muhasebe Birimi
+(Örneğin Gebze Muhasebe Birimi) üzerinden gerçekleştirilecektir.
+        b) 3270 Muhasebe Yazılımı üzerinde tanımlı olup, 31 Aralık 2009 tarihine kadar
+merkez müdürlüğü muhasebe işlemlerini gerçekleştiren muhasebe birimleri ise bu tarihten
+itibaren yalnızca gelir tahsilât işlemlerini yürüten Gelir Muhasebe Birimi (Örneğin Gebze
+Gelir Muhasebe Birimi) olarak faaliyetlerine devam edeceklerdir.
+        c) Bu merkezlerdeki muhasebe yetkilisi aynı anda MOSİP Yazılımı üzerinde tanımlı
+Muhasebe Birimi ve 3270 Muhasebe Yazılımı üzerinde işlem yapan Gelir Muhasebe
+Biriminin muhasebe yetkilisi olarak görevine devam edecektir.
+        B- MUHASEBE İŞLEMLERİ
+        1-Vezne işlemleri
+        a) MOSİP Yazılımı kullanan muhasebe birimlerinde vezne işlemi yapılmayacak
+olup, söz konusu yazılım üzerinden verilen avansların iadesi ile MOSİP Yazılımı kayıtlı
+kişilerden alacaklar tahsilâtları 3270 Muhasebe Yazılımı üzerinden işlem yapan Gelir
+Muhasebe Birimi vezneleri üzerinden yapılacaktır.
+        b) Gelir Muhasebe Birimlerinde vezne işlemleri;
+        3270 sistemini kullanan gelir muhasebe birimleri geçmiş dönem prim ve prime bağlı
+tüm tahsilâtları vezneleri aracılığıyla yapacaklardır.
+        MOSİP Yazılımı üzerinde işlem yapan muhasebe birimleri adına avans iadesi,
+kişilerden alacaklar, nakit teminatlar, şartname bedeli ve benzeri tahsilât işlemleri de Gelir
+Muhasebe Birimlerinin vezneleri aracılığıyla yapılacaktır.
+        Gelir Muhasebe Birimleri vezneden yaptıkları tüm tahsilatları her gün saat 15:30
+itibariyle bankaya yatıracaklardır.
+        MOSİP Yazılımı üzerinden işlem yapan muhasebe birimleri adına yapılan tahsilâtlar
+gün sonunda ilgili MOSİP Yazılımındaki İl Muhasebe Birimine tek kalemde dekont
+edilecek, tahsilatın çeşidine göre ayrıntılı liste düzenlenip dekonta eklenecek ve ilgili
+muhasebe birimine iletilecektir.
+        Bu işlemler günlük olarak yapılacak olup, gecikmeye meydan verilmeyecektir.
+        2-Banka işlemleri;
+        a) MOSİP Yazılımını kullanan muhasebe birimleri hiçbir banka işlemi
+yapmayacaklardır.
+        b) 3270 Muhasebe Yazılımını kullanan gelir muhasebe birimlerinde banka işlemleri;
+        Gelir Muhasebe Birimleri vezneden gün içinde yaptıkları tüm tahsilâtı, 2009/55
+sayılı Genelge esaslarına göre merkeze aktaracaklardır.
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+        Söz konusu banka hesaplarından, merkezce dekont edilen Mal Müdürlüğü ve
+Defterdarlık icra ödemeleri dışında hiçbir ödeme işlemi yapılmayacak bu amaçla hiçbir
+ödeme talimatı verilmeyecektir.
+        3- Avans ödeme işlemleri
+        a) Mal ve hizmet alımları sebebiyle ihtiyaç duyulan mutemet avansları için MOSİP
+Yazılımındaki ilgili harcama modülünden giriş yapılacak, harcama birimince düzenlenen
+Ödeme Emri Belgesine istinaden merkeze gönderilecek ve merkezdeki Gelir Alacak
+Muhasebe Birimi tarafından ilgili mutemedin banka hesabına aktarılacaktır.
+        b) Mahkeme, harç ve giderleri için ihtiyaç duyulan avanslar için, MOSİP
+Yazılımndaki Diğer Harcamalar Menüsünden işlemler yapılacak ve avans tutarı merkezdeki
+Gelir Alacak Muhasebe Birimi tarafından ilgili avukat veya icra takip memurunun banka
+hesabına aktarılacaktır.
+        c) Diğer tüm avans ihtiyaçları MOSİP Yazılımındaki ilgili harcama menüsünden
+talep edilecek ve merkezdeki Gelir Alacak Muhasebe Birimi tarafından ilgililerin banka
+hesaplarına aktarılacaktır.
+        4- Abonelik ödemeleri
+        Faturaya dayalı olarak otomatik ödeme talimatıyla gerçekleştirilen abonelik
+ödemeleri için aşağıdaki işlemler yapılacaktır.
+        - Bir yıl boyunca söz konusu abonelikler için tahmin edilen gider toplamı “Diğer
+Harcamalar” menüsünden istek belgesi olarak girilecek ve bu istek belgesi harcama
+talimatına bağlanacaktır. Harcama talimatında banka hesap bilgileri bölümüne ilgili Sosyal
+Güvenlik Merkezi veya Sosyal Güvenlik İl Müdürlüğünün 11 haneli birim kodu (örneğin,
+Ankara Sosyal Güvenlik İl Müdürlüğü harcama birim kodu olan 06100 kodu sona gelmek
+üzere 00000006100 şeklinde) ile giriş yapılacaktır. Öncelikle ilgili harcama biriminin kişi
+tanımı, “Tanımlar” menüsünde “Kişi Arama” alt menüsünden yapılacak, otamatik ödeme
+talimatıyla ödemelerin yapıldığı banka hesapları ise bu harcama biriminin banka hesabı
+olarak sistemde tanımlanacaktır.
+        -Gelen fatura tutarları, “Ödeme İşlemleri” alt menüsünden ilgili harcama talimatı
+çağrılarak ve kesin ödeme seçeneğinden girilerek ödeme emri belgesine bağlanacaktır.
+        -Tüm bu işlemler yapılarak faturanın son ödeme tarihinden 3 gün önce “Merkeze
+Gönder” işlemi yapılacaktır.
+        -Tüm abonelik faturaları harcama birimine intikal ettiği tarihte beklenilmeksizin
+ödeme emri belgesine bağlanarak ilgili muhasebe birimine gönderilecektir.
+        - Önceden yükleme yapmak suretiyle (doğalgaz ve su gibi) yapılacak abonelik
+ödemelerinde ise yine “Diğer Harcamalar” menüsünden avans işlemi yapılacak, avans
+ödemesi mutemet adına bankada açılan kredi hesabına yapılacaktır. Bunun için; mutemet
+adına ilgili fatura sahibi kurumun tahsilâtını yapan banka nezdinde kredi hesabı
+açtırılacaktır. Avans MOSİP Yazılımı üzerinden bu hesaba aktarılacak olup, mutemet
+bankaya vereceği talimatla (Merkezi Yönetim Muhasebe Yönetmeliği ekinde yer alan Kredi
+Ödeme Talimatı ile) ilgili kurum hesabına tutarı aktaracaktır.
+        5-Personel ödemeleri
+        Harcama birimleri, personel ödemeleri için MOSİP Yazılımı üzerinden “Personel
+Ödemeleri” menüsünden işlem yapacaklardır. Bu menüden ödeme türlerine göre otomatik
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                             T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Strateji Geliştirme Başkanlığı
+
+
+gelen veriler ödeme emri belgesine bağlanarak ilgili muhasebe birimine iletilecektir. İlgili
+muhasebe birimleri ise maaş ödeme tarihinden en az 3 gün önce “Merkez Gönder” işlemi
+yapacaklardır.
+         6-Emanet hesaplardan göndermeler
+        a) Gider ödeme işlemleri sırasında tevkifat yapılarak ilgili hesaplara alınan vergi
+tutarları, muhtasar beyanname verildikten sonra son ödeme tarihinden en az iki gün önce
+merkezdeki Gelir Alacak Muhasebe Birimine gönderilecektir. Buna ilişkin işlemler MOSİP
+Yazılımına ilişkin kılavuzda belirtilen şekilde yapılacaktır.
+        b) Alınan nakit teminatlardan iade edilmesi gereken tutarlar, MOSİP Yazılımına
+ilişkin kılavuzda belirtilen şekilde en az bir gün önce merkezdeki Gelir Alacak Muhasebe
+Birimine gönderilecektir.
+        c) Gider ödeme işlemleri sırasında icra emanetine alınan tutarlar, MOSİP Yazılımına
+ilişkin kılavuzda belirtilen şekilde en az iki gün önce merkezdeki Gelir Alacak Muhasebe
+Birimine gönderilecektir.
+        7- 1 Ocak 2010 öncesine ait giderler ve avanslara ilişkin yapılacak işlemler
+        a) 3270 Muhasebe Yazılımı üzerinden açılmış avanslar, 31 Aralık 2009 tarihi
+itibarıyla takakkuka alınıp, kapatılacaktır.
+        b) 1 Ocak 2010 öncesine ait olup, bu tarihten sonra gelen faturalara ilişkin gider ve
+ödeme işlemleri, 2010 Yılı Bütçesinden ve MOSİP Yazılımı üzerinden tahakkuka alınarak
+yapılacaktır.
+        Harcama ve muhasebe birimlerince yeni mali yazılıma erişim, internet üzerinden
+http://mosip2.sgk.intra adresi ile sağlanacaktır. Daha önce tüm birimlerden tedarik edilerek
+T.C. Kimlik Numarası bazında harcama birimi kullanıcıları, gerçekleştirme görevlileri ve
+harcama yetkilileri sisteme tanıtılmış olup, bu kullanıcılar; kullanıcı kodu olarak T.C.
+Kimlik Numaralarını ve ilk şifre olarak “0” rakamını yazmak suretiyle sisteme giriş
+yapabileceklerdir. Uygulama esnasında yaşanan sorunların çözümü için Bütçe ve Muhasebe
+Daire Başkanlığı bünyesinde faaliyet gösteren yazılım grubundan yardım sağlanabilecektir.
+        Bilgi edinilmesini ve gereğini önemle rica ederim.
+
+
+
+
+                                                                     M. Emin ZARARSIZ
+                                                                       Kurum Başkanı
+
+
+
+DAĞITIM:
+Gereği:
+Tüm Taşra Teşkilatına
+
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat:B.ÖZCAN Şb.Md.V.
+Tel: (0312) 414 47 64 Faks: (0312) 425 82 06    e-posta:bozcan3@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+

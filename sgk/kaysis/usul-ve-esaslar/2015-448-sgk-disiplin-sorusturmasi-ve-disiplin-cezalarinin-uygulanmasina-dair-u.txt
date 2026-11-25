@@ -1,0 +1,486 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73491
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 2015/448
+ADI: SGK DİSİPLİN SORUŞTURMASI VE DİSİPLİN CEZALARININ UYGULANMASINA DAİR USUL VE ESASLAR
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 6bb193a5e951fe284c277a2d81437f2812b68a910ecc5b122d34f83bde2fef76
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+SOSYAL GÜVENLİK KURUMU
+DİSİPLİN SORUŞTURMASI VE DİSİPLİN CEZALARININ
+UYGULANMASINA DAİR USUL VE ESASLAR
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak
+
+Amaç, kapsam, dayanak
+
+MADDE 1 - (1) Bu Usul ve Esasların amacı, Sosyal Güvenlik Kurumunun memur
+statüsündeki personeli hakkında, ilgili mevzuatı uyarınca (müfettişler tarafından yürütülecek
+inceleme/soruşturmalar hariç olmak üzere) yapılacak/yaptırılacak inceleme/soruşturmalar ile
+disiplin cezası verme ve uygulama usullerinin belirlenmesidir.
+
+(2) (Değişik: 18/02/2016-2016/62 sayılı) Bu Usul ve Esaslar, 5502 sayılı Sosyal
+Güvenlik Kurumu Kanunu, 657 sayılı Devlet Memurları Kanunu, Sosyal Güvenlik Kurumu
+Disiplin Amirleri Yönetmeliği hükümleri ile Sosyal Güvenlik Kurumu Merkez Teşkilatı |
+Çalışma Yönetmeliğinin 79 uncu maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar |
+
+MADDE 2 - (1) Bu usul ve esaslarda geçen;
+
+a) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+
+b) Birim: Kurumun ana hizmet, danışma ve yardımcı hizmet birimleri ile sosyal
+güvenlik il müdürlüklerini,
+
+c) Birim amiri: Birimin üst yöneticisini,
+
+d) Disiplin amiri: Sosyal Güvenlik Kurumu Disiplin Amirleri Yönetmeliği eki |
+Disiplin amirleri Cetvelinde yer alan amirleri,
+
+e) Kanun: 657 sayılı Devlet Memurları Kanununu,
+
+f) Kurum: Sosyal Güvenlik Kurumunu, |
+
+&) (Değişik: 18/02/2016-2016/62 sayılı) Merkez Disiplin Kurulu: Başkan tarafından |
+belirlenecek Kurum başkan yardımcısı başkanlığında, refakat müfettişi, hukuk müşaviri, İnsan
+Kaynakları Daire Başkanlığı disiplin işlemlerinden sorumlu şube müdürü ile Başkan
+tarafından belirlenecek, Kurum ana görevi ile doğrudan ilgili birimlerinden bir genel müdür
+yardımcısından ve hakkında disiplin soruşturması yürütülen devlet memurunun üyesi olduğu
+sendikanın temsilcisinden oluşan kurulu,
+
+&) Yönetmelik: Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğini,
+
+h) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+
+i) Yüksek Disiplin Kurulu: Kurum Başkanının başkanlığında, Bakan tarafından
+belirlenecek Ana Hizmet Birimlerinden bir genel müdür, Rehberlik ve Teftiş Başkanı, |.
+Hukuk Müşaviri, İnsan Kaynakları Daire Başkanı ile hakkında disiplin soruşturması yürütülen
+devlet memurun üyesi olduğu sendikanın temsilcisinden oluşan kurulu,
+
+ifade eder.
+
+|
+1
+
+İKİNCİ BÖLÜM
+İhbar, Disiplin İş ve İşlemlerine İlişkin Usul ve Esaslar
+
+İhbar, şikâyet ve başvurular
+
+MADDE 3 - (1) Birime intikal eden ihbar, şikayet ve başvurular; Bakanlar Kurulu
+Kararı ile yürürlüğe giren ve 12/01/1983 tarihli ve 17926 sayılı Resmi Gazetede yayımlanan
+Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik hükümleri ile 24/01/2004
+tarihli ve 25356 sayılı Resmi Gazetede yayımlanan 2004/12 sayılı Başbakanlık Genelgesi
+çerçevesinde değerlendirilir. Buna göre;
+
+a) Şikayetler, sözlü veya yazılı olarak en yakın amirden başlanarak silsile yolu ile ve
+şikayet edilen amirler atlanarak yapılır. Yazılı şikâyetler, maksadı ve konuyu en iyi ifade
+edecek şekilde ve mevzuat hükümlerine uygun olarak yazılan bir EK-1'de yer alan dilekçe ile
+yapılır.
+
+b) Sözlü ihbar ve şikâyetlerin işleme konulabilmesi için, şikayetçinin açık kimliği ve
+adresi, ihbar ve şikayet olunan görevlinin kimliği, şikayet konusu ve maddi olaylar ile
+tarihinin bir tutanakla tespit edilmesi ve tutanağın ilgililer tarafından imzalanması
+gerekmektedir.
+
+c) Şikayet hakkında karar verme yetkisi şikayet edilenin ilk disiplin amirine aittir,
+Şikayeti kabul eden ancak karar verme yetkisi bulunmayan amirler bunları silsile yolu ile ve
+kendi görüşlerini de ilave etmek suretiyle birinci fikrada belirtilen amirlere 3 gün içinde
+intikal ettirirler. Şikayet edene de durum hakkında bilgi verirler.
+
+6) Şikayetlerin incelenmesi ve bir karara bağlanarak şikayet sahiplerine tebliğ edilmesi
+ile ilgili bütün işlemlerin en geç şikayet dilekçesinin karar merciine intikal ettiği tarihi izleyen
+30 gün içinde tamamlanması zorunludur.
+
+d) Şikayet haklarını, belirlenen usul ve esaslar çerçevesinde kullanan personele
+şikayetlerinden dolayı bir ceza verilemez.
+
+e) Personel, görevleri sırasında haberdar oldukları konusu suç teşkil eden durumları
+yetkili makamlara bildirmekle yükümlüdürler.
+
+(2) İhbar, şikayet ve başvurulara ilişkin işlemler ile verilen kararlar hakkında şikayette
+bulunan kişiye, kurum ve kuruluşlara bilgi, gizlilik ilkesi gözetilmek suretiyle verilir.
+
+Disiplin soruşturması, yetkili amir ve muhakkik görevlendirmesi
+
+MADDE 4 - (1) Personelin disiplin suçu oluşturan eylem ve işlemlerinin; işlendiğine
+tanık olunması, idare içinde yürütülen çeşitli teftiş ve denetim faaliyetleri sırasında ortaya
+çıkarılması, şikayet, ihbar veya basın gibi yollarla öğrenilmesi durumunda;
+
+a) Suçun işlenip işlenmediği, işlenme yeri, zamanı, işlenme şekli gibi önem taşıyan
+diğer hususların tespit edilebilmesi için usulüne uygun bir soruşturma yapılması zorunludur
+ve görevlendirmenin yazılı olarak yapılması ve soruşturma emrinin iddiaları tam olarak
+kapsaması gerekmektedir.
+
+b) Disiplin amirleri ve atamaya yetkili amirler, personel hakkında disiplin
+soruşturması başlatmaya ve yetkisi dâhilinde olan cezaları vermeye yetkilidirler. Sözü edilen
+amirler bizzat yapabileceği gibi emirleri altında bulunan ve hakkında inceleme/soruşturma
+
+| yapılanın hiyerarşi yönünden dengi veya üstü konumda bulunan personele soruşturmacı/
+muhakkik olarak inceleme/ soruşturma yaptırabilirler,
+2
+|
+
+|
+
+(2) Disiplin soruşturmasını yürüten kişilerce soruşturma sırasında görev emrinde
+bulunmayan bir konunun tespiti halinde yetkili amirden ek soruşturma emri alınması
+zorunludur.
+
+(3) Disiplin soruşturması yapılmasında; personelin disiplin suçunu işlediği tarihteki |
+görev unvanı ve çalıştığı yer esas alınacaktır.
+
+Soruşturmacının/muhakkikin reddi veya çekilmesi
+
+MADDE 5 - (1) Soruşturmacının, görevlendirildiği bir soruşturmadan çekilmesi veya
+reddi mümkün bulunmamaktadır. Ancak, soruşturmacının görevlendirildiği kişilerle kan bağı
+olması, sıhri yönden yakınlığının ya da diğer bazı nedenlerin bulunması halinde gerekçesiyle
+birlikte durum soruşturma emrini veren Makama bildirilir ve alınacak emir doğrultusunda
+hareket edilir.
+
+(2) Şikayetçi veya hakkında soruşturma yapılan kişi; soruşturmacıyla alakalı bir
+olumsuzluk oluşması halinde gerekçesi açıklanarak durum yazılı olarak görev emrini veren
+amire bildirilir, Amirin vereceği talimat doğrultusunda gereği yapılır.
+
+İnceleme/soruşturmada süre
+
+MADDE 6 - (1) Disiplin ceza verme zamanaşımı sürelerine dikkat edilerek ihbar ve
+şikayetin birim evrak kayıtlarına intikalinden itibaren en geç | ay içinde incelenmeye
+başlanması gerekmektedir.
+
+(2) Birim amiri tarafından inceleme/soruşturma yapmak üzere görevlendirilen
+soruşturmacı (muhakkik), bu incelemeyi görevlendirildikleri tarihten itibaren ivedilikle
+sonuçlandırarak düzenleyeceği raporu, kendisini görevlendiren makama sunmak zorundadır.
+
+(3) İnceleme/soruşturmalar ihbar ve şikayet tarihinden itibaren en geç 6 ay içinde
+bitirilmelidir. |
+
+İnceleme/soruşturma usulü
+
+MADDE 7 - (1) İnceleme/Soruşturma ile görevlendirilenler, konuya ilişkin her türlü |
+inceleme ve araştırmayı yapmak, delilleri toplamak, taraflardan ek bilgi istemek ve
+incelemek, konuya ilişkin bilgi ve görgüsü bulunanların ifadesini almak yetkisine haizdirler.
+Muhakkik, hakkında soruşturma yaptığı personelin savunmasını hiçbir suretle alamaz.
+
+(2) İnceleme/soruşturmada; suç teşkil ettiği ileri sürülen fiile ve faile ilişkin her türlü
+araştırmayı yaparak sorumluluklar açıkça belirlenmeli ve olaylarla, kanıtlarını, suçun işleniş
+koşulları, oluş biçimi ve sonuçları tarafsız olarak incelenip, değerlendirilmelidir.
+
+(3) Soruşturma neticesine göre, incelenen olay, herhangi bir disiplin cezasını
+gerektirmiyorsa, soruşturmaya muhatap memur hakkında herhangi bir işlem yapılmayarak,
+konuya ilişkin belgeler dosyasında saklanır.
+
+İnceleme/soruşturma raporu
+
+MADDE 8 - (1) Soruşturma tamamlandığında konu hakkında bir rapor düzenlenir ve
+düzenlenecek raporda; aşağıdaki bölümlere yer verilir.
+
+a) Giriş bölümü: Bu bölümde incelemenin konusu, soruşturmaya nasıl ve kimin emri
+ile başlandığı, soruşturmanın başlama ve bitiş tarihi ile rapor tarihi belirtilir.
+
+b) Değerlendirme bölümü: Bu bölümde incelemeye konu olayın gelişimi, alınan
+ifadeler ve edinilen diğer bilgiler, yapılan işlemler, toplanan bilgi ve belgeler belirtilir ve
+bunların ayrıntılı değerlendirmesi yapılır.
+
+3
+
+c) Raporun sonuç ve kanaat bölümü: Bu bölümde elde edilen delillere göre disiplin
+suçu teşkil eden fiilin veya davranışın sabit olup olmadığı, sabit olmuşsa eyleme ilişkin
+disiplin cezası belirtilir.
+
+(2) Bu Usul ve Esaslar eki Form 3'ün (Disiplin Soruşturması Rapor Kapağı) ve
+belgelere ilişkin dizi pusulasının düzenlenmesi, tüm belgelere ek numarası verilmesi ve tüm
+belgelerin rapora eklenmesi gerekmektedir.
+
+İnceleme/soruşturma raporunun değerlendirilmesi, savunma usulü ve karar
+
+MADDE 9 - (1) Raporda kanaate bağlı olarak yapılan öneri disiplin amirini ya da
+disiplin kurullarını mutlak anlamda bağlayıcı nitelik taşımaz.
+
+(2) Disiplin amiri (o inceleme/Soruşturma raporunu eksik görür oOveya
+inceleme/soruşturmanın yeniden değerlendirilmesini isterse, bu eksiklikleri belirtmek
+suretiyle aynı veya başka kişiyi görevlendirebilir. Bu görevin, görevlendirilen personel
+tarafından ivedilikle yerine getirilmesi gerekmektedir.
+
+(3) Savunma alınmadan disiplin cezası verilemez. Bu nedenle; soruşturma neticesine
+göre uyarma, kınama ve aylıktan kesme cezalarından birinin önerilmesi halinde disiplin amiri
+tarafından yazı ile 7 günden az olmamak üzere süre verilerek savunma istenir. Savunma
+istemi yazısında; kişiye atfedilen kusur, kusur karşılığında verilmesi gereken disiplin cezası
+ile savunma yapılması için verilen süre açıkça belirtilir. Personel, verilen sürede savunma
+yapmazsa savunma hakkından vazgeçmiş sayılır.
+
+(4) Disiplin amirleri savunma süresini müteakip kararını 15 gün içinde gerekçesi ile
+birlikte yazılı olarak vermek zorundadır. Verilen karar, bu Usul ve Esaslar eki form 2 de yer
+alan tebliğ-tebellüğ belgesi düzenlenerek personele tebliğ edilir.
+
+(5) 2 nüsha halinde hazırlanan işlem dosyasının biri personelin birim dosyasında
+muhafaza edilir, diğeri İnsan Kaynakları Daire Başkanlığına gönderilir.
+
+(6) Kademe ilerlemesinin durdurulması cezasına ilişkin önerilerde; üçüncü fıkrada
+belirtilen süre ve usule uymak suretiyle personelin savunması birim amirince alınır.
+
+(7) Kademe ilerlemesinin durdurulması ya da devlet memurluğundan çıkarma cezasına
+dair önerilerin bulunması halinde soruşturma dosyası birim amirince İnsan Kaynakları Daire
+Başkanlığına intikal ettirilir.
+
+Disiplin cezası vermeye yetkili amir ve kurullar
+
+MADDE 10 - (1) Kurum personeli hakkında disiplin işlemi yapmaya yetkili disiplin
+amirleri Sosyal Güvenlik Kurumu Disiplin Amirleri Yönetmeliği eki Sosyal Güvenlik
+Kurumu Disiplin Amirleri Cetvellerinde belirtilmiştir. Buna göre, uyarma, kınama ve aylıktan
+kesme cezaları söz konusu cetvelde belirtilen disiplin amirleri tarafından verilir.
+
+(2) Kademe ilerlemesinin durdurulması cezası Kurum Merkezinde oluşturulan Merkez
+Disiplin Kurulu kararı alındıktan sonra atamaya yetkili amirce, devlet memurluğundan
+çıkarma cezası ise Kurum Yüksek Disiplin Kurulu kararı ile verilir.
+
+Disiplin amirlerinin görev ve sorumlulukları
+
+MADDE 11 - (1) Disiplin Amirleri;
+
+a) 657 sayılı Devlet Memurları Kanununun 126 ncı maddesi uyarınca uyarma,
+kınama ve aylıktan kesme cezalarını vermekle,
+
+b) Disiplin amiri itirazın kabulü halinde kararı gözden geçirerek verilen cezayı
+hafifletmekle veya tamamen kaldırmakla,
+
+4
+
+c) Disiplin işlerinde kendilerine tanınan yetkileri, kamu hizmetlerinin gereği gibi
+yürütülmesini sağlamak amacıyla, memurlara kanun, tüzük ve yönetmeliklerle tanınan hakları
+göz önünde tutan hakkaniyet ve eşitliği esas alan bir tutum ve davranış içinde kullanmakla, |
+
+ç) Disiplin cezalarının, disiplin cezası verme yetkisinin zamanaşımına uğramasını
+önleyecek şekilde verilmesini sağlamakla,
+
+d) Yetkilerinde bulunmayan ceza önerilerine ilişkin soruşturma dosyalarını en kısa
+sürede İnsan Kaynakları Daire Başkanlığına iletilmesini sağlamakla,
+
+Yükümlüdürler.
+
+Disiplin kurullarının görev ve sorumlulukları
+
+MADDE 12 - (1) Yüksek Disiplin Kurulu; Devlet memurluğundan çıkarma disiplin
+cezası tekliflerini ve kademe ilerlemesinin durdurulması cezasına karşı yapılan itirazları
+karara bağlar.
+
+(2) Merkez Disiplin Kurulu; Kademe ilerlemesinin durdurulması cezası tekliflerini ve
+disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan kesme cezalarına karşı yapılan
+itirazları karara bağlar.
+
+Disiplin ceza tayininde tekerrür
+
+MADDE 13 - (1) Disiplin ceza tayininde tekerrür uygulaması iki farklı koşulda
+değerlendirilir. Buna göre;
+
+a) Disiplin cezası verilmesine sebep olmuş bir fiil veya halin cezaların özlük
+dosyasından silinmesine ilişkin süre içinde tekerrüründe bir derece ağır ceza uygulanır.
+
+b) Aynı derecede cezayı gerektiren fakat ayrı fiil veya haller nedeniyle verilen disiplin
+cezalarının üçüncü uygulamasında bir derece ağır ceza verilir.
+
+Disiplin cezası tayininde hafifletici nedenler
+
+MADDE 14 - (1) Geçmiş hizmetleri sırasındaki çalışmaları olumlu olan ve ödül veya
+başarı belgesi alan memurlar için verilecek cezalarda, disiplin cezası verecek yetkililerin
+takdiri ile bir derece hafif olanı uygulanabilir.
+
+Disiplin cezalarının özlük dosyasından silinmesi
+
+MADDE 15 - (1) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet
+memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur
+uyarma ve kınama cezalarının uygulanmasından $ sene, diğer cezaların uygulanmasından 10
+sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından
+silinmesini isteyebilir.
+
+(2) Memurun, yukarıda ki fıkrada yazılan süreler içerisindeki davranışları, bu isteğini
+haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük
+dosyasına işlenir.
+
+(3) Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında
+disiplin kurulunun mütalaası alınır.
+
+(4) Disiplin cezasının silinme talepleri; cezanın silinme sürelerinin tamamlandığının
+tespit edilmesi halinde; bu süre içindeki davranışların, isteği haklı kılacak nitelikte olup
+olmadığı hususlarına ilişkin birim amirinin görüşü ile birlikte İnsan Kaynakları Daire
+Başkanlığına gönderilecektir.
+
+5
+
+|
+|
+
+Zamanaşımı
+
+MADDE 16 - (1) Uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin
+durdurulması cezalarında bir ay içinde, disiplin soruşturmasına başlanılması zorunludur.
+
+(2) Devlet memurluğundan çıkarma cezasında altı ay içinde disiplin kovuşturmasına
+başlanılması zorunludur.
+
+(3) Bu süreler geçirilirse disiplin cezası verme yetkisi zamanaşımına uğrar.
+
+(4) Disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren iki yıl içinde
+disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar.
+
+(5) Bu sürelere riayet etmeyenlerin sorumluluğu saklıdır.
+
+Ceza kovuşturması ile disiplin kovuşturmasının bir arada yürütülmesi
+
+MADDE 17 - (1) Aynı olaydan dolayı memur hakkında ceza mahkemesinde |
+kovuşturmaya başlanmış olması, disiplin kovuşturmasını geciktiremez. |
+
+(2) Memurun ceza kanununa göre mahküm olması veya olmaması halleri, ayrıca
+disiplin cezasının uygulanmasına engel olamaz.
+
+(3) Ceza davası açılmış bir eylemin aynı zamanda disiplin suçu oluşturması halinde
+dava sonucu beklenilmeden disiplin soruşturması yapılmalıdır.
+
+Disiplin cezalarının uygulanması
+
+MADDE 18 - (1) Disiplin cezaları verildiği tarihten itibaren hüküm ifade eder ve
+derhal uygulanır.
+
+(2) Aylıktan kesme cezası, cezanın veriliş tarihini takip eden aybaşında uygulanır.
+
+(3) Verilen disiplin cezaları üst disiplin amirine bildirilir.
+
+(4) Verilen disiplin cezaları disiplin cezası işlemleri ekranına işlenerek tüm soruşturma
+dosyası ekleri ile birlikte İnsan Kaynakları Daire Başkanlığına en kısa sürede gönderilir.
+
+(5) Verilen disiplin cezaları İnsan Kaynakları Daire Başkanlığınca Devlet Personel
+Başkanlığına bildirilir.
+
+(6) Ceza verilmesine ilişkin işlemlerin 657 sayılı Devlet Memurları Kanunu ile
+Yönetmelik hükümlerinde belirtilen usullere aykırı olduğunun tespiti halinde eksikliklerin
+giderilmesi ve düzeltilmesi için İnsan Kaynakları Daire Başkanlığınca dosya cezayı veren
+disiplin amirine intikal ettirilerek sonucuna göre işlem yapılır.
+
+İtiraz
+
+MADDE 19 - (1) Disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan
+kesme cezalarına karşı merkez disiplin kuruluna, kademe ilerlemesinin durdurulması cezasına
+karşı yüksek disiplin kuruluna itiraz edilebilir.
+
+(2) İtirazda süre kararın ilgiliye tebliğinden itibaren yedi gündür. Süresi içinde itiraz
+edilmeyen disiplin cezaları kesinleşir.
+
+(3) İtiraz mercileri, itiraz dilekçesi ile karar ve eklerinin kendilerine intikalinden
+itibaren otuz gün içinde kararlarını vermek zorundadır.
+
+(4) İtirazın kabulü halinde disiplin amirleri kararı gözden geçirerek verilen cezayı
+hafifletebilir veya tamamen kaldırabilir.
+
+(5) Disiplin cezalarına karşı idari yargı yoluna başvurulabilir.
+
+ÜÇÜNCÜ BÖLÜMLER
+Son Hükümler
+
+Genel değerlendirme
+
+MADDE 20 - (1) İnsan Kaynakları Daire Başkanı, Merkez Disiplin Kurulu ile
+Yüksek Disiplin Kurulu işlemlerine ilişkin istatistikler ile genel değerlendirmeleri ve
+uygulamayı geliştirici önerilerini içeren yıllık disiplin raporunu, her takvim yılının sonunda
+Yönetim Kuruluna sunar.
+
+Yürürlükten kaldırma
+
+MADDE 21 - (1) Başkanlığın 15/01/2009 tarihli ve 6 sayılı onayı ile yürürlüğe giren |
+Sosyal Güvenlik Kurumu Başkanlığı Disiplin Kovuşturmaları ile Disiplin Cezalarının |
+Uygulanmasına ve Tebligat İşlemlerine Dair Usul ve Esaslar yürürlükten kaldırılmıştır.
+
+Yürürlük
+
+MADDE 22 - (1) Bu usul ve esaslar, Yönetim Kurulu'nun 09/12/2015 tarihli ve
+2015/448 sayılı Yönetim Kurulu Kararı ile kabul edilmiş olup yayımlandığı tarihte yürürlüğe
+girer.
+
+Yürütme
+
+MADDE 23 - (1) Bu Usul ve Esaslara ilişkin hükümleri Sosyal Güvenlik Kurumu
+Başkanı yürütür.
+
+Ekler:
+
+I- Form — 1: Yazılı Müracaat/Şikâyet Dilekçe Örneği
+
+2- Form — 2: Disiplin Soruşturması Rapor Kapağı
+
+3- Form — 3: Tebliğ-Tebellüğ Belgesi
+
+|
+
+FORM -1
+YAZILI MÜRACAAT/ŞİKÂYET DİLEKÇE ÖRNEĞİ
+
+TARİH
+GÖREVİ :
+ÜNVANI:
+ADI SOYADI:
+MEMURİYETE BAŞLAMA TARİHİ:
+SİCİL NO:
+DİLEKÇENİN VERİLECEĞİ
+AMİR'İN MAKAM ÜNVANI
+ŞİKAYETİN KONUSU
+
+İMZA
+
+8
+
+FORM-2
+ENE.
+SOSYAL GÜVENLİK KURUMU
+DİSİPLİN SORUŞTURMASI RAPORU KAPAĞI
+Muhakkikin Adı-Soyadı ve
+Unvanı
+Muhakkiki Görevlendiren ve
+Soruşturma oEmrini Veren
+Makam
+Görevlendirme Emri Tarih ve
+Sayısı |
+|
+Soruşturmanın Konusu:
+Haklarında Soruşturma Yapılanların;
+Adı-Soyadı ve Unvanları
+657 Sayılı Kanunun 125 inci Maddesinde
+Sayılan;
+Fiil ve Hallerin İşlenildiğinin Öğrenildiği
+Tarih
+Fiil ve Hallerin İşlenildiği Son Tarih |, |
+Muhakkikin Soruşturmaya Başladığı Tarih |,| (O |
+Muhakkikin Soruşturmayı Bitirdiği Tarih |
+Soruşturulanlar Hakkında Yapılan Teklifler:
+DİSİPLİN YÖNÜNDEN :
+ies hakkında: 657 sayılı K. 125/... fıkrası... bendiuyarınca................
+cezası,
+eee... hakkında: 657 sayılı K. 1257... fıkrası ...bendiuyarınca............
+cezası,
+İDARİ YÖNDEN :
+İLEMAMEDICİM NEDENE hakkında
+Bu işten dolayı başka rapor
+düzenlenmişse; tarih ve sayısı, haklarında
+soruşturma yapılanların adları
+MUHAKKİK
+İmzası :
+Adı ve Soyadı :
+Unvanı ş
+Tarih :
+g
+
+FORM -3
+TEBLİĞ — TEBELLÜĞ BELGESİ
+Tebligat yapılan personelin adı ve soyadı :
+Tebliğ tarihindeki unvanı ve görev yeri :
+Tebliğ edilen yazı, onay veya kararın tarih ve sayısı © :
+Tebligatın konusu z
+Tebligatın yapıldığı tarih ş
+Yukarıda adı, soyadı, unvanı ve görev yeri yazılı bulunan personele söz
+konusu yazı/onay/karar tebliğ edilmiştir.
+TEBLİĞ EDEN TEBELLÜĞ EDEN
+İmzası z İmzası ?
+Adı ve Soyadı. : Adı ve Soyadı
+Unvanı z Unvanı ş
+10

@@ -1,0 +1,238 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75279
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4035150
+ADI: YOL VE YEMEK PARALARI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a196565d348f57d05008c9e7458c6bb1e5353e1b274cf5e8beca1e8a6cd9a481
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> TE
+$ (KK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+med Sigorta Primleri Genel Müdürlüğü
+Sayı : 87838906-20699-E.4035150 22/07/2016
+Konu: Yol ve Yemek Paraları
+GENEL YAZI
+
+Bilindiği üzere, işverenlerce sigortalılara ödenen“ yol paraları” ile “yemek paraları” nın
+sigorta primi kesintisine tabi tutulmaması gerektiği hususunda ünitelerimize müracaatlar
+yapılmakta, yol paralarının yolluk kavramı içine girmemesi yada başka bir ifade ile görev yolluğu
+olarak ödenmemiş olması ve yemek paralarının da günlük asgari ücretin 906 sının sigorta
+priminden muaf olması nedeniyle bu tutarı geçen kısmının prime tabi tutulması gerektiği şeklinde
+verilen cevaplar üzerine Kurumumuz aleyhine İş Mahkemeleri nezdinde davalar açılmaktadır.
+
+Mahkemelerce yardım mahiyetindeki ödemelerin nakit olarak yapılmış olmasının ödemenin
+mahiyetini değiştirmediği gerekçesiyle davalar Kurumumuz aleyhine neticelenmekte, ayrıca
+Yargıtay” ca da söz konusu kararlar onaylanmaktadır.
+
+Yol ve yemek paralarının iadesine ilişkin taleplerin ve açılan davaların incelenmesinden,
+işverenlerce talep edilen yol ve yemek bedellerine ait işlerin, genellikle güvenlik, temizlik,
+yemek yapılması gibi ihale konusu hizmet alımı işlerinden kaynaklandığı anlaşılmaktadır.
+
+İşverenlerce bu gibi ihale konusu işlerdeki yol ve yemek bedellerinden kesilen sigorta
+primlerinin işveren hissesinin iadesine ilişkin ünitelerimize yapılmış olan başvurular üzerine,
+
+İadesi istenilen primlerin;
+
+1-506 sayılı Kanunun yürürlükte olduğu dönemle ilgili olması halinde;
+
+506 sayılı Sosyal Sigortalar Kanununun mülga 77 inci maddesinde,
+
+“Sigortalılarla işverenlerin bir ay içinde ödeyecekleri primlerin hesabında;
+
+a)Sigortalıların o ay için hak ettikleri ücretlerin,
+
+b)Prim, ikramiye ve bu nitelikteki her çeşit istihkaktan sigortalılara o ay içinde ödenenlerin,
+
+oİdare veya kaza mercilerince verilen karar gereğince (a) ve (b) fıkralarında yazılı kazançlar
+niteliğinde olmak üzere sigortalılara o ay içinde yapılan ödemelerin,
+
+brüt toplamı esas alınır.
+
+Şu kadar ki, ölüm, doğum, evlenme yardımları, yolluk, kıdem, ihbar ve kasa tazminatları,
+ayni yardımlar ile Çalışma ve Sosyal Güvenlik Bakanlığınca miktarları yıllar itibariyle belirlenecek
+yemek, çocuk ve aile zamları sigorta primlerinin hesabına esas tutulacak kazançların aylık tutarının
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+ANKARA
+Mithatpaşa Cad. No:7 Sıhhiye/ Ankara Ayrıntılı bilgi için irtibat Daire Başkanı: İbrahim ÖZÇELİK
+Tel: (0312) 45871 10 Faks: (0312)432 1237
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDB(&sgk.gov.tr
+
+176)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+tespitinde nazara alınmaz. Bunların dışında her ne ad altında ödeme yapılırsa yapılsın tüm
+ödemeler prime tabi tutulur.”
+
+hükmünü amirdir.
+
+Sigorta primlerinin hesabına esas tutulacak ücretlerin aylık tutarının tespitinde nazara
+alınmayacak yardım ve ödemeler Kanunda tek tek belirtilmiş olup, bu belirtme örnek verici değil
+sınırlayıcı niteliktedir. Başka bir ifade ile ikinci fikra; nelerin matraha dahil bulunduğunu
+belirleyen birinci fıkranın istisnası niteliğindedir. İstisnai hükümlerin ise dar yorumlanması ve
+uygulanması hukukun genel ilkelerindendir.
+
+Nitekim, 77 nci maddenin ikinci fıkrasında, yolluklar, çocuk ve aile zamları, ölüm, doğum ve
+evlenme yardımları ile aynı yardımlar prime esas kazancın hesabında dikkate alınmayacak
+ödemeler olarak tek tek sayılmış “gibi” ya da “benzeri” ifadelere yer verilmeyerek istisnalar
+kapsamının genişletilmesi yasa koyucu tarafından açıkça önlenmiştir.
+
+Öte yandan, 77 nci Maddenin birinci fikrasının “b” bendinde prim, ikramiye ve bu nitelikteki
+her çeşit istihkak denilmek suretiyle, ikinci fikradaki istisnalar dışında kalan ve ücret
+niteliğinde olmayan para biçiminde yapılan ödemelerden sigorta primi kesilmesi gerektiği
+belirtilmiştir.
+
+Diğer taraftan, 29/1/2004 tarih ve 25361 sayılı Resmi Gazetede yayımlanan “Sigorta
+Primlerinin Hesabında Esas Tutulacak Kazançların Aylık Tutarının Tespitinde Nazara
+Alınmayacak Olan Yemek Parası ile Çocuk ve Aile zamlarının Günlük ve Aylık Tutarlarının
+Tespitine İlişkin Tebliğ”de yıllar itibariyle belirlenecek olan yemek paraları ile çocuk ve aile
+zamlarının ne şekilde hesaplanacağına ilişkin usul ve esaslar düzenlenmiştir.
+
+Bu düzenlemeye göre, Tebliğin 4 üncü maddesinin “Yemek Paraları” başlıklı (a) fıkrasında;
+sigortalılara yemek parası adı altında yapılan ödemelerin işyerinde veya müştemilatında yemek
+verilmemesi şartıyla fiilen çalışılan gün sayısı dikkate alınarak 16 yaşından büyükler için her yıl
+belirlenen günlük asgari ücretin W 6' sının yemek verilecek olan gün sayısı ile çarpılması
+sonucunda bulunacak miktarının aylık sigorta primine esas kazançların hesaplanmasında dikkate
+alınmaması, dolayısıyla bu tutardan sigorta primi kesilmemesinin uygun görüldüğü açıklanmıştır.
+
+Ayrıca, sigortalılara ödenen yol paralarının görev yolluğu niteliğinde bir ödeme mi, yoksa
+şehir içi ulaşım için yapılan bir ödeme mi olduğu anlaşılamamış olduğundan, görev yolluğu olması
+halinde prime tabi tutulmaması buna karşın şehir içi ulaşım masrafları için yapılan bir ödeme ise
+yukarıda belirtildiği üzere istisnalar içinde yer almadığından prim kesintisine tabi tutulması
+gerekmektedir.
+
+Bu bakımdan görev yolluğu için ödenmemiş olması halinde yolluk adı altında yapılan
+ödemelerden ve nakden ödenen yemek bedelinin sigorta priminden muaf tutulan kısmı
+ayrıldıktan sonra kalan kısmından 506 sayılı Kanunun 77 inci maddesinin ikinci fıkrası uyarınca
+sigorta primi kesintisi yapılması gerektiğinden sigortalılara bahse konu dönemlerde ödenen yol
+ve yemek ücretlerinden yersiz olarak tahsil edildiği belirtilen sigorta primlerinin o iade edilmesi
+mümkün bulunmamaktadır.
+
+2-5510 sayılı Kanunun yürürlükte olduğu dönemle ilgili olması halinde;
+
+“5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun Prime esas kazançlar
+başlığını taşıyan 80 inci maddesinin birinci fıkrasında,
+
+“4 üncü maddenin birinci fikrasının (a) bendi kapsamındaki sigortalıların prime esas
+kazançları aşağıdaki şekilde belirlenir.
+
+a) Prime esas kazançların hesabında;
+
+1) Hak edilen ücretlerin,
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+ANKARA
+Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Daire Başkanı: İbrahim ÖZÇELİK
+Tek: (0312) 45871 10 Faks: (0312)432 1237
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDB/(â)sgk.gov.tr
+ALO
+T/Oİ
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+2) Prim, ikramiye ve bu nitelikteki her çeşit istihkaktan o ay içinde yapılan ödemelerin ve
+işverenler tarafından sigortalılar için özel sağlık sigortalarına ve bireysel emeklilik sistemine
+ödenen tutarların,
+
+3) İdare veya yargı mercilerince verilen karar gereğince yukarıdaki (1) ve (2) numaralı alt
+bentlerde belirtilen kazançlar niteliğinde olmak üzere sigortalılara o ay içinde yapılan ödemelerin,
+brüt toplamı esas alınır.
+
+b) Ayni yardımlar ve ölüm, doğum ve evlenme yardımları, görev yollukları, seyyar görev
+tazminatı, kıdem tazminatı, iş sonu tazminatı veya kıdem tazminatı mahiyetindeki toplu ödeme,
+keşif ücreti, ihbar ve kasa tazminatları ile Kurumca tutarları yıllar itibarıyla belirlenecek yemek,
+çocuk ve aile zamları, işverenler tarafından sigortalılar için özel sağlık sigortalarına ve bireysel
+emeklilik sistemine ödenen ve aylık toplamı asgari ücretin Yo 30'unu geçmeyen özel sağlık
+sigortası primi ve bireysel emeklilik katkı payları tutarları, prime esas kazanca tabi tutulmaz.
+
+c) (b) bendinde belirtilen istisnalar dışında her ne adla yapılırsa yapılsın tüm ödemeler ile
+ayni yardım yerine geçmek üzere yapılan nakdi ödemeler prime esas kazanca tabi tutulur. Diğer
+kanunlardaki prime tabi tutulmaması gerektiğine dair muafiyet ve istisnalar bu Kanunun
+uygulanmasında dikkate alınmaz.”
+
+hükümleri yer almıştır.
+
+5510 sayılı Kanunun 80 inci maddesinde hangi yardım ve ödemelerin sigorta primi
+kesintisine tabi tutulmayacağı tek tek belirtilmiş olup, bu belirtme örnek verici değil sınırlayıcı
+niteliktedir. Başka bir ifade ile primden istisna olan ödemeler tek tek sayılarak prime esas tutulacak
+olan ödemelerin istisnası belirtilmiştir. İstisnai hükümlerin ise dar yorumlanması ve uygulanması
+hukukun genel ilkelerindendir. Nitekim her iki maddede de istisna olan ödemeler sayılarak “gibi”
+ya da “benzeri” ifadelere yer verilmeyerek istisnalar kapsamının genişletilmesi yasa koyucu
+tarafından açıkça önlenmiştir.
+
+Diğer taraftan İşveren Uygulama Tebliğinin 7.7.1 Yemek Paraları bölümünde; “Sigortalılara
+yemek parası adı altında yapılan ödemelerin, işyerinde veya müştemilatında işveren tarafından
+yemek verilmemesi şartıyla, fiilen çalışılan gün sayısı dikkate alınarak 16 yaşından büyükler için
+belirlenen günlük asgari ücretin “o 6 sının, yemek verilecek gün sayısı ile çarpılması sonucunda
+bulunacak miktarı, prime esas kazançların tespitinde dikkate alınmayacak, dolayısıyla bu tutardan
+prim kesilmeyecektir.” denilmektedir.
+
+Buna göre, söz konusu işyerlerinde çalışan sigortalılara;
+
+nakit olarak yapılan “yemek yardımının” yukarıda belirtilen Tebliğ maddesinde açıklandığı
+şekilde primden istisna olan kısmı düşüldükten sonra kalan tutarının,
+
+nakit olarak ödenen “yol bedelinin” ise, 5510 sayılı kanununun 80 inci maddesindeki, “görev
+yollukları” kavramı ile karıştırılmaksızın primden istisna olan ödemeler içinde yer almaması
+nedeniyle, tamamının
+
+sigorta primi kesintisine tutulması ,
+
+Yemek parası adı altında yapılan nakit ödemelerden, günlük asgari ücretin “o 6 sının yemek
+verilen gün sayısı ile çarpımı suretiyle bulunacak tutarının üzerindeki kısmı ile yol bedeli altında
+yapılan nakit ödemenin tamamından sigorta primi kesilmesi
+
+Gerekmektedir.”
+
+Şeklinde açıklama yapılması,
+
+Ayrıca, mahkemelerde yapılacak olan savunmalarımızda da yukarıdaki metinlere,
+
+“ İşverenin sigorta primlerinin iadesini istemiş olduğu ......işini .....ya karşı taahhüt ve ikmal
+etmiş olduğu, dolayısıyla çalıştırmış olduğu sigortalıları için almış oldukları yol ve yemek paraları
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+ANKARA
+Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Daire Başkanı: İbrahim ÖZÇELİK
+Tel: (0312) 45871 10 Faks: (0312)432 1237
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDB/â)sgk.gov.tr
+
+ALO
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+ile bu ödemelere ait işveren sigorta primi tutarlarının da ihale makamından ayrıca tahsil edildiği,
+söz konusu ödemelerin sigorta primine tabi tutulmayacak ve iade edilecek olması halinde, bu
+ödemenin işveren sigorta primi hissesi de dahil olmak üzere gider olarak yüklenicilerin
+hakedişlerinde yer aldığı ve ihale makamından tahsil edilmiş olduğu dikkate alınarak, iadesinin
+ihale makamına yapılması gerektiği, bu nedenle ihale makamı .....da davaya müdahil olması
+gerektiği değerlendirilmektedir.”
+
+Şeklinde ilave yapılmasının uygun olacağı,
+
+Değerlendirilmektedir.
+
+Bilgi edinilmesini, gereğinin buna göre yapılmasını rica ederim.
+DAĞITIM:
+BİLGİ VE GEREĞİ İÇİN:
+SOSYAL GÜVENLİK İL MÜDÜRLÜKLERİNE/MERKEZLERİNE
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+ANKARA
+Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Daire Başkanı: İbrahim ÖZÇELİK
+Tel: (0312) 45871 10 Faks: (0312)432 1237
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDB(&sgk.gov.tr
+
+ALO,
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN

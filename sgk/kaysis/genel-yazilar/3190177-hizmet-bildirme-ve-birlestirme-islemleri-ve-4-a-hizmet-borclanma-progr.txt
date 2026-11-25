@@ -1,0 +1,273 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/95829
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3190177
+ADI: HİZMET BİLDİRME VE BİRLEŞTİRME İŞLEMLERİ VE (4/A) HİZMET BORÇLANMA PROGRAMLARI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 65beb3fa59c2de0052fb1729200583cc8906f8ac437981fbceb5ed46a757e9bc
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+
+Sayı : 57405428-20199-4/A.MVZ.-E.3190177 06/06/2016
+Konu : Hizmet bildirme ve birleştime işlemleri
+
+ve (4/a) hizmet borçlanma programları.
+
+GENEL YAZI
+İlgi : a) 6/2/2013 tarihli ve B.13.2.SGK.0.10.03.01-MEV-EC-2269093 sayılı Genel Yazı.
+b) 6/9/2013 tarihli ve 44359524-MEV-EC-14554191 sayılı Genel Yazı.
+
+Sigortalılara ilişkin işlemlerde gecikmelere meydan verilmemesi, hizmet bildirme ve
+birleştirme işlemlerinin daha kısa sürede sonuçlandırılması ve üniteler arasında uygulama birliği
+oluşturulması bakımından yapılacak işlemler ilgide kayıtlı genel yazılar ile talimatlandırılmıştır.
+
+Hizmet bildirme ve birleştirme işlemlerinin daha kısa sürede yapılabilmesi için (4/a) ve
+(4/b) sigortalıların hizmet bildirme ve birleştirme işlemlerinin yapıldığı “Hizmet Bildirme”
+programında (4/c) sigortalılarının hizmetlerinin bildirilmesi sağlanmıştır.
+
+Hizmet bildirmeye ilişkin işlemlerin daha kısa sürede sonuçlandırılabilmesi için söz
+konusu programa belge gönderme kısmı eklenmiştir.
+
+Doğum borçlanması işlemlerinde sigorta başlangıç tarihinden önceki doğumlar için hizmet
+borçlanması yapıldığı tespit edildiğinden “(4/a) Hizmet Borçlanması Programı”na (4/a), (4/b), (4/c)
+ve 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklar ile 3201 sayılı Kanuna göre
+yapılan borçlanmalar dikkate alınarak sigortalılık başlangıcı tespitine yönelik kontroller getirilerek
+borçlanma tutarının yersiz olarak iade edilmemesi için engelleme yapılmıştır.
+
+5510 sayılı Kanunun 41 inci maddesinin (d) ve (i) bendi kapsamında hizmet borçlanma
+süresi bulunanlar için borçlanma menüleri işletime açılmıştır.
+
+Yeni uygulamaya açılan programlar hakkında yapılacak işlemler aşağıda açıklanmıştır.
+
+1- Hizmet bildirme ve birleştirme işlemleri
+
+Sigortalılık ve emeklilik o işlemlerinin etkin, verimli, hızlı ve doğru şekilde
+sonuçlandırılması açısından tescil ve hizmet kayıtlarının elektronik ortamda oluşturulması
+gerekmekte olup bu kapsamda (4/c) sigortalıların 2008 yılı Ekim ayı öncesine yönelik tescil ve
+hizmet kayıtlarının “Hizmet Bildirme” programı ile bildirilmesi sağlanmıştır. (4/c) kapsamındaki
+tescil kaydının girilmediği durumlarda ünitelerce “Hizmet Bildirme” programı aracılığıyla Sigorta
+Primleri Genel Müdürlüğü Kamu Görevlileri Daire Başkanlığından (4/c) hizmetleri istenecektir.
+
+Bu şekilde hizmet istenmesi halinde (4/c) hizmet bilgileri elektronik ortama aktarılmakta
+olup, 2008 yılı Ekim ayından önceki hizmetler hem “SGK Tescil ve Hizmet Dökümü Programı”na
+yansıtılacak hem de (4/c) sigortalılık başlangıç kaydı oluşturulacaktır.
+
+506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sigortalıların kağıt ortamında
+yapılan hizmet bildirimi kaldırılmış olup, (Ek-1) listede adresleri bulunan sandıklardan hizmet
+istenen sigortalılar hakkında (Ek-2) yazı ile GESAK programı aracılığı ile hizmet bildiriminin
+elektronik ortamda yapılması istenecektir.
+
+Bu şekilde yapılan hizmet bildirimlerinde tescil ve hizmet kaydı “SGK Tescil ve Hizmet
+Dökümü Programı”nda görüntülenecek olup bildirilen hizmette tereddüt bulunmuyor ise ayrıca
+hizmet istenmeyecek, bu hizmetler esas alınarak hizmet birleştirme, çakışma süresinin tespiti,
+borçlanma ve aylık bağlama ve diğer işlemler sonuçlandırılacaktır.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+2- (4/a) Hizmet Borçlanma İşlemleri
+
+a) Sigortalılık başlangıç tarihi
+
+5510 sayılı Kanunun 41 inci maddesinin (b), (d), (e), (h) ve (j) bentleri kapsamında yapılan
+borçlanmaların sigortalılık başlangıç tarihinden önce olması halinde bu süreleri borçlananların
+sigortalılık başlangıç tarihi, borçlandırılan gün sayısı kadar geriye götürülerek tespit edilmekte; (a),
+(c). (0, (e). (0) ve (i) bentleri ile geçici 31 inci maddeye göre borçlanma yapılabilmesi için ise (özel
+şartlar hariç) sigortalının tescili ve bu tescile bağlı prim ödeme şartı aranmaktadır.
+
+11/9/2014 tarihinden geçerli olmak üzere 3201 sayılı Kanunun 5 inci maddesinde; sosyal
+güvenlik sözleşmesi yapılmış ve sözleşmede akit ülkede ilk defa çalışmaya başladıkları tarihin
+Ülkemizde de ilk işe giriş tarihi olarak kabul edileceği yönünde hüküm bulunan veya bulunmayan
+ülkeler ile ev kadınlığı süreleri ve sözleşmesiz ülkelerde yapılan borçlanmalara yönelik
+düzenlemeler yapılmıştır.
+
+Buna göre, “(4/a) Hizmet Borçlanması Programı”na 41 inci maddenin (a) bendine tabi
+yapılan doğum borçlanmaları için sigortalının müracaatı girildikten sonra (4/a), (4/b), (4/c) ve 506
+sayılı Kanunun geçici 20 nci maddesi ile 3201 sayılı Kanuna göre yapılan borçlanmalar dikkate
+alınarak sigortalılık başlangıcı tespiti yapılmakta olup sigortalının bu statülerinin ilgili programlara
+girişi yapılmamış olması halinde borçlanma işlemi sonuçlandırılamamaktadır.
+
+Sigortalının doğum yaptığı tarihten önce;
+
+(4/a) kapsamındaki tescil kaydının girilmediğinin tespiti halinde “(4/a) Tescil Uygulama
+Programı”ndan tescil kaydı bilgisi (ilk işe giriş bildirgesi, 2925 istek ve tescil belgesi vb.)
+girilecektir.
+
+Örnek - 20/4/2016 tarihinde 14/7/1988 tarihli çocuğu için doğum borçlanması talebinde
+bulunan kadın sigortalının “(4/a) Tescil Uygulama Programı”nda ilk işe giriş tarihinin 27/11/1992
+olduğu 10/10/1982 tarihli ilk işe girişinin programa aktarılmadığı anlaşılmıştır. Doğum
+borçlanmasının sonuçlandırılabilmesi için “(4/a) Tescil Uygulama Programı”nın “5- İlk Tescil Geri
+Çekme” menüsünden 10/10/1982 tarihli ilk işe girişinin yapılması gerekmektedir.
+
+(4/b) kapsamında tescil kaydı bulunanalar hakkında ise “GÜVENCE Programı”ndan (4/b)
+tescil kaydı oluşturulacaktır.
+
+(4/c) kapsamındaki tescil kaydının girilmediği durumlarda 1'inci madde de belirtildiği
+şekilde tescil ve hizmet kaydı oluşturulacaktır.
+
+Örnek - 1/2/1986-14/1/1992 tarihleri arasında 5434 sayılı Kanun kapsamında, 18/11/2015
+tarihinden itibaren (4/a) kapsamında çalışması bulunan sigortalı, 16/5/2016 tarihinde 6/11/1991 ve
+11/7/1995 doğum tarihli çocukları için borçlanma müracaatı yapmıştır. Yapılan incelemede
+sigortalının 5434 sayılı Kanuna tabi tescil ve hizmet kaydının ilgili programlara aktarılmadığı
+anlaşılmış olup öncelikle “Hizmet Bildirme” programından kamuda geçen hizmeti istenecek,
+hizmetlerinin SGK Tescil ve Hizmet Dökümünde görüntülenmesi sağlandıktan sonra borçlanma
+işlemi sonuçlandırılacaktır.
+
+506 sayılı Kanunun geçici 20 nci maddesine tabi sigortalılık başlangıç tarihi bulunanlar
+hakkında ise 1'inci maddede belirtilen hususlar doğrultusunda hizmet bildiriminin elektronik
+ortamda yapılması istenecektir.
+
+Örnek — 27/6/1977-30/11/1978, 1/3/2002-31/5/2003 tarihleri arasında Türkiye Halk
+Bankası Emekli Sandığı Vakfında, 21/11/2007 tarihinden itibaren (4/a) kapsamında çalışması olan
+sigortalı 4/3/1982 doğum tarihli çocuğu için borçlanma talebinde bulunmuştur. Sigortalının doğum
+borçlanma talebinin yerine getirilebilmesi için (Ek-2) yazı ile Türkiye Halk Bankası Emekli
+Sandığı Vakfından tescil ve hizmet kayıtlarının girişinin yapılması istenecek, hizmetlerin SGK
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+Tescil ve Hizmet Dökümü programında görüntülenmesi sağlandıktan sonra borçlanma
+sonuçlandırılacaktır.
+
+3201 sayılı Kanunun 5 inci maddesi kapsamında 11/9/2014 tarihinden itibaren yapılan
+hizmet borçlanmalarında ev kadınlığı süresi hariç sosyal güvenlik sözleşmesi yapılmış ve akit
+ülkede ilk defa çalışmaya başladıkları tarihin Ülkemizde de ilk işe giriş tarihi olarak kabul
+edileceği yönünde düzenleme bulunan ülkelerdeki (Almanya, Arnavutluk, Avusturya, Azerbaycan,
+Belçika, Bosna Hersek, Çek Cumhuriyeti, Fransa, Gürcistan, Hırvatistan, Hollanda, İsviçre,
+Kanada, Kebek, KKTC, Lüksemburg, Makedonya, Slovakya, Kore ve İtalya) hizmetlerini
+borçlananların sigortalılık süresi başlangıç tarihi Türk sigortasına giriş tarihi olarak alındığından,
+sigortalı tescil tarihin belirlenmesinde 3201 sayılı Kanuna tabi borçlanma yapılıp yapılmadığı
+kontrol edilecektir. Borçlanma yapıp ödeme yapmayanların tescil tarihi kontrolü yapılmayacak,
+3201 sayılı Kanuna göre borçlanma yapıp prim ödeyenlerden tescil tarihi “1/1/2500” olanların işe
+giriş tarihi “(4/a) Tescil Uygulama Programı”ndan akit ülke giriş tarihi ilk işe giriş tarihi olarak
+güncellenecektir.
+
+Sigortalıların sözleşmesiz ülkede geçen, akit ülkede ilk defa çalışmaya başladıkları tarihin
+Ülkemizde de ilk işe giriş tarihi olarak kabul edileceği yönünde düzenleme bulunmayan süreler
+veya ev kadınlığı süreleri hakkında ise ülkemizdeki sigortalılık başlangıç tarihinden borçlanılan
+süre kadar geriye gidilerek başlangıç tarihi belirlendiğinden sigortalıların 41 inci maddeye göre
+borçlanma yapacakları sürelerin belirlenmesi için ilgili statülerdeki işe giriş tarihlerinin
+programlara aktarımının yapılması gerekmektedir.
+
+Sigortalılık süresi başlangıcı tespiti doğum borçlanması için yapılmış olup diğer
+borçlanmalar için başlangıç tarihi testler tamamlandıkça işletime açılacaktır.
+
+b) Doktora ve tıpta uzmanlık sürelerinin borçlandırılması
+
+5510 sayılı Kanunun 41 inci maddesinin (d) bendi ile sigortalı olmaksızın doktora
+öğrenimi veya tıpta uzmanlık için yurt içinde veya yurt dışında geçirdikleri normal doktora veya
+uzmanlık öğrenim süreleri borçlanma kapsamına alınmış olup borçlanma müracaat tarihinde (4/a)
+kapsamında olanlar ya da son defa (4/a) sigortalılığı olup doktora ve tıpta uzmanlıkta geçen
+sürelerini borçlanma talebinde bulunanlar için “Doktora veya Tıpta Uzmanlık Öğrenimi Süresi
+Borçlanması” menüsü kullanılacaktır. Bu menünün açıldığı tarihten önce manuel yapılan
+borçlanmaların girişi de bu menüden yapılacaktır.
+
+c) 4857 sayılı Kanuna göre kısmi süreli iş sözleşmesi ile çalışan sigortalıların, kısmi
+süreli çalıştıkları aylara ait eksik sürelerin borçlandırılması
+
+5510 sayılı Kanunun 41 inci maddesine 6111 sayılı Kanunla 25/2/2011 tarihinden itibaren
+ilave edilen (i) bendi ile 4857 sayılı Kanuna göre kısmi süreli iş sözleşmesi ile çalışan
+sigortalıların, kısmi süreli çalıştıkları aylara ait eksik süreleri borçlanmalarına imkan sağlanmıştır.
+Borçlanmaya ilişkin yapılacak işlemler 22/2/2013 tarihli ve 2013-11 sayılı Genelge ile
+talimatlandırılmıştır.
+
+4857 sayılı Kanuna göre kısmi süreli iş sözleşmesi ile çalışanların borçlanma talepleri
+“4857 sayılı Kanuna göre Kısmi Çalışılan Süre Borçlanması” menüsü aracılığı ile yapılacaktır.
+
+Kısmı sürelerin borçlandırılmasında aynı anda birden fazla program kontrol edilerek gün
+sayısı ve prim tahakkuku program tarafından hesaplanmakta olup ünitece program tarafından
+hesaplanan gün sayısı yerine manuel giriş yapılması da mümkündür. Ünitece yapılacak manuel
+hesaplamalarda yapılması gereken kontroller aşağıda açıklanmıştır.
+
+Kısmi süreli iş sözleşmesi ile yapılan borçlanmalarda borçlanma talebinde bulunan
+sigortalıların müracaat ettiği aydan önceki 1,4, 5, 6,13, 14,20, 24,28,29,30,31,32,33, 34,35,
+36, 37 numaralı aylık prim ve hizmet belgesinde hizmet bildirimi esas almacak, 6 (Kısmi
+isdihdam), 17 (Ev hizmetlerinde 30 günden az çalışma), 13 (Diğer), 12 (Birden fazla) eksik gün
+nedenlerine bakılarak borçlandırılacak süreler aylık prim ve hizmet belgesinden belirlenecektir.
+
+10/2/2016 tarihinden itibaren 4857 sayılı Kanunun 74 üncü maddesinde yapılan düzenleme
+ile doğum sonrası analık halinin sona ermesi ve kadın sigortalının işe başlaması halinde ya da 3
+
+yaşını doldurmamış çocuğu evlat edinen kadın veya erkek sigortalılara istekleri halinde haftalık
+çalışma süresinin yarısı kadar birinci doğumda 60 gün, ikinci doğumda 120 gün, sonraki
+doğumlarda ise 180 gün ücretsiz izin verilmesi sağlanmış olup bu durumda olan sigortalılardan
+4447 sayılı Kanunun ek 5 inci maddesine göre yarım çalışma ödeneğinden yararlanamayanlar için
+23 (Yarım çalışma ödeneği), 24 (Yarım çalışma ödeneği ve diğer) eksik gün nedenleri de
+borçlandırılabilecektir.
+
+Aylık prim ve hizmet belgesinin |, 4, 5, 6, 13, 14, 20, 24, 28, 29, 30,31,32,33,34, 35, 36,
+37 numaralı belge türlerindeki toplam çalışması ay içinde 30 günü geçenler için kısmi borçlanma
+gün sayısı hesaplanmayacaktır.
+
+Özel sektör işyerleri için ayın 1 ile 30 u arasında, kamu sektörü için ayın 15 ile 14 ü
+arasında geçen süre için hesaplama yapılacak olup ay içinde hem özel sektör hemde kamu
+sektöründe çalışmasının bulunanlar için o aya ait borçlanma süresi hesaplanmayacaktır. Ters işyeri
+kodu ile yapılan bildirimlerde de bu hususa dikkat edilecektir.
+
+Sigortalının ay içinde işe girmesi halinde ay kaç gün ise borçlanma gün sayısı zorunlu
+çalışılan günden çıkarılarak hesaplanacaktır. Ay içinde işten ayrılış tarihi mevcut ise borçlanma
+gün sayısı ayrılış tarihine göre hesaplanacaktır. Aynı ay içinde işe giriş ve ayrılış tarihi olanların
+borçlanma gün sayısı işe giriş ve ayrılış tarihleri esas alınarak hesaplanacaktır.
+
+Kısmi borçlanma süresinin hesaplanmasında 25/2/2011-31/12/2011 tarihleri arasında
+borçlanma tahakkuku “ 32, 1/1/2012 tarihinden itibaren 88 inci maddenin 4 üncü fıkrası
+kapsamında genel sağlık sigortası primi ödenmiş aylar ait borçlanma tahakkuku 9 20, genel sağlık
+sigortası primi ödenmeyen aylar Yo 32 oranı üzerinden hesaplanacaktır.
+
+Sigortalıların 5510 sayılı Kanunun 51 inci maddesinin üçüncü fıkrası kapsamında isteğe
+bağlı sigortalılığının bulunması halinde bu süreler borçlandırılmayacaktır.
+
+5510 sayılı Kanunun 53 üncü maddesine göre (4/a) kapsamında kısmi süreli çalışması olan
+sigortalının aynı anda (4/b) kapsamında sigortalılığının bulunması halinde kısmi süreler öncelikle
+(4/6) kapsamında sigortalılık süresi olarak değerlendirilecrek bunlar hakkında borçlanma
+yapılmayacaktır. Ancak, 5510 sayılı Kanunun geçici 63 üncü maddesi kapsamında 30/4/2015 tarihi
+itibariyle 12 ay ve üzerinde prim borcu bulunanlardan sigortalılıkları prim ödediği en son ay
+itibariyle sona erdirilenlerden eksik gün nedeni 6, 17, 13 ve 12 olanların kalan süreleri (4/a)
+kapsamında borçlandırılacak 7 (Puantaj kaydı) olanlar borçlandırılmayacaktır.
+
+d) Borçlanma silme/iade işlemleri
+
+Sosyal Sigorta İşlemleri Yönetmeliğinin 66 ncı maddesi gereğince 5510 sayılı Kanunun 41
+inci maddesine göre yapılan borçlanmalarda aylık bağlanmamış olması şartıyla Kuruma yazıyla
+müracaat edilmesi halinde borçlanmadan vazgeçilebilmekte, ödenen borçlanma tutarının tamamı
+faiz uygulanmaksızın iade edilmektedir.
+
+22/2/2013 tarihli ve 2013-11 sayılı Genelge ile ölüm aylığı bağlanması için Kanunun 32
+nci maddesinde öngörülen şartlar oluşmasına rağmen aylık miktarının artırılması amacıyla
+borçlanma müracaatında bulunan hak sahiplerinin de borçlanma talepleri kabul edilmektedir.
+
+Buna göre, sigortalılara yersiz borçlanma yapılmaması açısından borçlanma programında
+aktif ve pasif sigortalılar için borçlanma silme ve silme nedeni eklenmiştir. Silme nedenleri;
+borçlanmanın iade talebi, borçlanmanın hatalı yapılması, çakışan hizmetlerin tespit edilmesi,
+mahkeme kararı ve diğer nedenler olarak belirlenmiş olup diğer nedenlerin seçilmesi halinde
+açıklama kısmına silme nedeni yazılacaktır.
+
+Diğer taraftan, aylık bağlandıktan sonra borçlanma iadesi ünitelerce yapıldığı tespit
+edildiğinden pasif kayıt silme işlemi ünitelerce yapılmayacak, silmeye ilişkin bilgi ve belgeler
+Sigorta Primleri Genel Müdürlüğü Hizmet Akdiyle Çalışanlar Daire Başkanlığına gönderilecek
+pasif kayıt silme işlemi ilgili Başkanlıkça değerlendirilecektir.
+
+e) MEYES yetkisi ile giriş
+
+5510 sayılı Kanunun 41 inci madddesi ile 3201 sayılı Kanuna göre (4/a) kapsamında
+yapılan hizmet borçlanması ve yurtdışı borçlanmalarına MEYES yetkisi ile işlem yapılmakta olup
+
+ünitelerce MEYES üzerinden aşağıdaki yetki düzeyleri talep edilecektir.
+YETKİ KULLANICI |
+Hizmet Borclanma 4a Madde 41 41 inci madde borçlanmaları (o yapacak
+kullanıcılar
+Hizmet Borclanma 4a YurtDısı 3201 yurtdışı borçlanması yapacak kullanıcılar
+Hizmet Borclanma 4a OnayYetkili borçlanma Onayı, silme Onayı (o verecek
+kullanıcılar müdür yetkisi
+Hizmet Borclanma 4a GnMdYet. Madde 41 41 inci madde borçlanmaları genel müdürlü
+kullanıcıları en yetkili kullanıcıdır
+Hizmet Borclanma 4a GnMdYet. YurtDısı 41 inci borçlanmaları genel omüdürlü
+| kullanıcıları en yetkili kullanıcıdır
+Bilgi edinilmesini ve gereğini rica ederim.
+Ekler:
+I- Banka sandıkları ve adresleri
+2- Yazı örneği
+DAĞITIM i
+Gereği : Bilgi :
+Merkez ve Taşra Teşkilatına Çalışma ve Sosyal Güvenlik Bakanlığına

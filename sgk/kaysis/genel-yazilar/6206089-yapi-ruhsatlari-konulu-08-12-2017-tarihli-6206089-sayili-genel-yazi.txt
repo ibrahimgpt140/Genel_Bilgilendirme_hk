@@ -1,0 +1,75 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/137922
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 6206089
+ADI: YAPI RUHSATLARI KONULU 08/12/2017 TARİHLİ 6206089 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 4f8bf338c155579aae949443317b21e5158127211693d16fbc1dec37841d7947
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı :35158785-202.99-E.6206089 08/12/2017
+Konu : Yapı ruhsatları
+GENEL YAZI
+Bilindiği üzere, 5510 sayılı Kanunun Il inci maddesinin altıncı fıkrasında, valilikler,
+belediyeler ve ruhsat vermeye yetkili diğer kamu ve özel hukuk tüzel kişilerinin, yapı ruhsatı ve
+diğer tüm ruhsat veya ruhsat niteliği taşıyan işlemlerine ilişkin bilgi ve belgeleri ile varsa bunların
+verilmesine esas olan istihdama ilişkin bilgileri verildiği tarihten itibaren bir ay içinde Kuruma
+bildirmekle yükümlü oldukları,
+
+Aynı Kanunun 102 nci maddesinin birinci fıkrasının (h) bendinde; (oOKanunun Il inci
+maddesinin altıncı fıkrasında belirtilen yükümlülüğü yasal süresi içinde yerine getirmeyen kurum
+ve kuruluşlara yerine getirilmeyen her bir bildirim yükümlülüğü için aylık asgari ücret tutarında
+idari para cezası uygulanacağı,
+
+Hükme bağlanmıştır.
+
+Buna göre, ruhsat vermeye yetkili makamlarca düzenlenen yapı ruhsatında yer alan “ruhsatın
+onay tarihi” esas alınarak, yapı ruhsatlarının bu tarihten itibaren bir aylık süre içerisinde ilgili
+idarelerce Kurumumuza bildirilmemesi halinde ilgili kurum hakkında idari para cezası
+uygulanmaktadır.
+
+Ancak, yapı ruhsatlarının verilme tarihi ile ilgili olarak ihtilaf ve tereddüt yaşandığı,
+Kurumumuzca yapı ruhsatında yer alan onay tarihi esas alınarak bir aylık sürenin hesaplanması
+sonucunda uygulanan idari para cezalarına belediyelerce itiraz edildiği, devamında durumun ilgili
+idarelerce yargıya intikal ettirilerek dava konusu edildiği anlaşılmaktadır.
+
+Yapı sahipleri veya kanuni vekillerince yapı ruhsatı almak için ruhsat vermeye yetkili
+birimlere müracaatlarda, tapu (istisnai hallerde tapu senedi yerine geçecek belge) mimari proje,
+statik proje, elektrik ve tesisat projeleri, resim ve hesapları röperli veya yoksa ebatlı kroki
+eklenmekte;
+
+Ruhsat vermeye yetkili makamlarca ruhsat ve ekleri incelenerek eksik ve yanlış
+bulunmuyorsa müracaat tarihinden itibaren en geç otuz gün içinde,
+
+Eksik veya yanlış olduğu takdirde, müracaat tarihinden itibaren on beş gün içinde
+müracaatçıya ilgili bütün eksik ve yanlışları yazı ile bildirilmekte, eksik ve yanlışlar giderildikten
+sonra yapılacak müracaattan itibaren en geç on beş gün içinde,
+
+Yapı ruhsatı verilmektedir.
+
+Yapı ruhsatının verilme aşamasında yapı ruhsatı ile ilgili süreç, 5490 sayılı ve 25/04/2006
+tarihli “Nüfus Hizmetleri Kanunu”nun “Sekizinci Kısım” 50 nci maddesinin birinci fıkrası ile
+“Adres ve Numaralamaya İlişkin Yönetmelik”in İkinci Bölüm 9 uncu maddesine göre
+gerçekleştirilmekte olup, Ulusal Adres Veri Tabanı'nda, Yapı Ruhsatı verilecek yapının adresinin
+işlenmiş olması zorunluluğu bulunmaktadır. Yapı Ruhsatı formu, ilgili makamlarca onaylandıktan
+sonra ulusal adres veri tabanına kaydedilmiş olan “Ruhsat Takip No” kullanılarak ilgili Yapı
+Ruhsatı çağrılıp onay butonuna basılarak onaylandığı teyid edildikten sonra sistemin oluşturduğu
+onay kodu Yapı Ruhsatı formunda “118. Onay kodu” Bölümüne elle yazılarak Yapı Ruhsatı verme
+işlemi sonlandırılmaktadır. Bu işlemin gerçekleşmesinden sonra mekansal adres kayıt (MAKS)
+sistemi üzerinden de onaylanması ile tekemmül etmesinden sonra ilgilisine bir tutanak ile teslim
+edilmekte veya posta ile gönderilmesinden sonra yapı ruhsatının bir sureti Kurumumuza
+gönderilmektedir.
+
+Bu itibarla, yapı ruhsatının onaylanma aşamasında sistem tarafından yapılması gereken en
+son işlemin "mekansal adres kayıt sistemine onay işlemi" olduğu ve bu işlemden sonra ilgilisine
+teslim edildiği dikkate alınarak, yapı ruhsatının ruhsat sahibine veya vekiline teslim edildiği
+tarihin veya posta ile gönderilmiş ise tebliğ tarihinin, bu tarihleri ispatlayıcı belgelerin de
+beraberinde ibraz edilmesi kaydıyla, Kanunun 11 inci maddesinin altıncı fıkrasında belirtilen
+"verildiği tarih" olarak esas alınması, bu tarihten itibaren bir ay içinde ruhsatları Kurumumuza
+göndermeyen idareler aleyhine idari para cezası uygulanması gerekmektedir.
+
+Bilgi edinilmesini ve gereğini rica ederim.

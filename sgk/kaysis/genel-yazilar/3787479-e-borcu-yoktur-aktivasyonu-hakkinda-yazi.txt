@@ -1,0 +1,79 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75097
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3787479
+ADI: E-BORCU YOKTUR AKTİVASYONU HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5deaf81980b9b8a43f8c62b52183df78404c2d2c56bb740d83841055383bf596
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> eni T.C.
+Ş CI K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+TASAR Sigorta Primleri Genel Müdürlüğü
+Sayı :64399925-70299-E.3787479 11/07/2016
+Konu : e-Borcu yoktur aktivasyonu
+GENEL YAZI
+
+Bilindiği üzere, özel sektör kapsamındaki gerçek kişi ve tüzel kişi işyerleri açısından yeniden
+yazılan e-borcu yoktur başvuru ve güncelleme programları tamamlanmış olup işletime açılmıştır.
+
+İşverenlerin elektronik ortamda borcu yoktur yazısı alabilmeleri için merkez işyeri
+dosyasından e-borcu yoktur başvurusu yapmak suretiyle üçlü çapraz sorgulama neticesinde tüm
+Türkiye çapında işverenin ünvan/TC/Vergi numarasına kayıtlı işyeri numaraları tespit edilerek
+aktivasyon sistemine kayıt edilmektedir.
+
+Öte yandan, e-borcu yoktur aktivasyonu yapılan işverenlerin daha sonra işyeri tescil
+bilgilerinde değişiklik olması halinde (hisse devirleri, yetkili, vekil ve TC/Vergi numarası
+güncelleme vb. gibi) tescil kütüklerinde güncelleme yapılmak istendiğinde, işlemi yapılacak işyeri
+dosya numarasının aktivasyon sisteminde olması nedeniyle güncelleme işlemi yapılmasına izin
+verilmemektedir. Ancak Aktivasyon işlemi yapılan merkez dosyasında aktivasyon kaldırma işlemi
+yapıldıktan sonra tescil kütüklerinde güncelleme işlemine izin verilmektedir.
+
+Yeniden yazılan e-borcu yoktur başvuru programlarında aktivasyonu yapılan işverenlerden
+daha sonra işyeri tescil bilgilerinde değişiklik olanların başvurularını aktivasyon yapıldığı merkez
+dosyasına yapmaları, merkez dosyadan aktivasyon işleminin iptali ve başvuru iptali
+gerçekleştirildikten sonra tescil kütüklerinde istenilen güncellemeler yapılıp yeniden aktivasyon
+başvurusu girilmesi neticesinde yapılan tescil güncellemeleri işlemleri otomatik olarak aktivasyona
+kayıtlı diğer dosyalarındaki tescil bilgileri ile güncellenmiş olacaktır. Ayrıca işverenin sahiplik
+olduğu işyeri dosyaları için güncelleme yapılmasına ihtiyaç bulunmamaktadır.
+
+İşverenin başvuru formunda beyan edilen işyerleri ile işveren servislerince yapılan üçlü
+çapraz sorgulama neticesinde işverenin beyan edilen işyerleri haricinde işyeri tespit edilmesi veya
+aktivasyona alınmaması gereken işyerlerinin olduğunun tespit edilmesi (durumunda E-Borcu
+yoktur başvuru ekranları içerisinde bulunan ekleme silme butonları ile gerekli işlemin yapılması
+gerekmektedir.
+
+Ayrıca E-Borcu yoktur başvuru ekranları içerisinde bulunan görüntüleme ekranından gerek
+işyeri numarası ile gerekse aktivasyon kodu ile sorgulama yapıldığında aktivasyonu yapılan
+işyerinin işyeri dosya numarası ile bağlı bulunduğu Sosyal Güvenlik Merkezi
+görüntülenebilmektedir.
+
+Bu itibarla, yeniden yazılan e-borcu yoktur başvuru işlemlerinde işverenin aktivasyon
+yapılan işyeri dosyası üzerinden gerekli işlemlerinin yapılacağı dikkate alındığında, işverenlerin
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyaz CEYLAN Şef
+Tel: (0312)4587131 Faks: (0312)4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posta : isverenlerPrimDB(&sgk.gov.tr
+
+ALO,
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+mağduriyet yaşamaması açısından bu konudaki başvuruların aktivasyon yapıldığı üniteye
+yönlendirilmesi bakımından işverenlerin bilgilendirilmesi gerekmektedir.
+Bilgi edinilmesini ve gereğini rica ederim.
+e
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyaz CEYLAN Şef
+Tel: (0312)4587131 Faks: (0312)4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posta : isverenlerPrimDB(©sgk.gov.tr
+ALO.
+170
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN

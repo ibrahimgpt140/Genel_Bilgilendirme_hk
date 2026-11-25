@@ -1,0 +1,505 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74705
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 
+ADI: SOSYAL GÜVENLİK KURUMU YAYIN YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 6d6be1bf657dc9a2fa44d2eddb8447ce20b8ceaffc6854abe9f3cf7791114cbb
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+SOSYAL GÜVENLİK KURUMU YAYIN YÖNERGESİ
+
+Amaç ve kapsam
+
+Madde 1- (1) Bu Yönerge, Sosyal Güvenlik Kurumunun yayın hizmetlerinin
+yürütülmesini sağlamak amacıyla yayın kurulunun kurulması, çalışma ilkeleri, görevleri,
+yetkileri ile diğer hususlara ilişkin usul ve esasları düzenler.
+
+Dayanak
+
+Madde 2- (1) Bu Yönerge; 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu
+Kanununun 25/B maddesine, 27/11/2014 tarihli ve 496 sayılı Sosyal Güvenlik Kurumu
+Çalışma Yönetmeliğinin 71. Maddesine, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat
+Eserleri Kanununa, 23/1/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan Kamu
+Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmeliğe
+dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+Madde 3- (1) Bu Yönergede geçen;
+
+a) Kurum: Sosyal Güvenlik Kurumunu,
+
+b) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+
+c) Kurul: Kurum Yayın Kurulunu,
+
+ç) Kurul Başkanı: Yayın Kurulu Başkanını,
+
+d) Sekretarya Birimi: Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığını,
+
+e) Birim: Kurumun merkez ve taşra teşkilatını oluşturan birimlerini,
+
+f) Komisyon: Sekretarya Birimince ilgili birimlerde çalışan personelden oluşturulan alt
+çalışma gurubunu,
+
+g) Eser: Türü, hacmi ve kapsamı ne olursa olsun kitap veya dergi halinde ya da internet
+üzerinden yayımlanmaya elverişli, gizlilik derecesi taşımayan fikir ve sanat ürününü,
+
+ö) İşlenme Eser: Diğer bir eserden faydalanarak meydana getirilip de bu eserden
+bağımsız olmayan ve işleyen kişi ya da kişilerin özelliklerini taşıyan fikir ve sanat ürünlerini,
+
+h) Telif Eser: Doğrudan meydana getirilen veya herhangi bir şekilde dil ile ifade edilen
+eserler ve fikir ürünlerini,
+
+D) Yayın: Yerli ve yabancı her türlü yazılı ve basılı eserler ile basılı olmayan CD, DVD
+vb. manyetik depolama üniteleri ve Kurum internet sitesinde hizmete sunulan elektronik
+eserlerini,
+
+i) Süreli Yayın: Belli aralıklarla yayımlanan gazete, dergi gibi basılmış eserler ile haber
+ajansları yayınlarını,
+
+İ) Süresiz Yayın: Belli aralıklarla yayımlanmayan kitap, armağan gibi basılmış
+eserlerini,
+
+k) Tercüme: Yazıldığı dilden başka bir dile aynen tercüme edilen eserini,
+
+D) Üye: Yayın Kurulu Üyesini ifade eder.
+
+Yayın faaliyetleri
+
+Madde 4- (1) Kurumun yayın faaliyetleri şunlardır;
+
+a) Kurumun faaliyet alanı ile ilgili araştırma, bilimsel incelemeler ve raporlar,
+
+b) Ekonomik, sosyal ve kültürel konularda yazılmış yayın, broşür, makale, tebliğ ve
+konferans metinleri,
+
+c) Sosyal güvenlik alanı ile ilgili yasal ve idari düzenlemeler, istatistikler ve
+benzerlerinin bir araya getirildiği derlemeler,
+
+ç) Kurum personeli tarafından hazırlanan, kabul edilmiş Kurum içi yeterlik tezleri ile
+Kurumun görev alanına giren konularda Yayın Kurulunca uygun görülen yüksek lisans ya da
+doktora tezleri,
+
+d) Ekonomik, sosyal ve kültürel konularda yayımlanmış Türkçe ve yabancı dillerdeki
+yayınların tercümeleri,
+
+e) İlgili diğer yayınlar.
+
+Yayın Kurulu
+
+Madde 5- (1) Kurul; Eğitim, Araştırma ve Geliştirme Merkezi Başkanı başkanlığında,
+Kurum Başkanı tarafından belirlenecek başkan dahil 5 asil 3 yedek üyeden oluşur. Asil
+üyelerin herhangi bir nedenle Kurula katılmamaları halinde yedek üyeler tespit sırasına göre
+Kurula katılırlar.
+
+Yayın Kurulunun çalışma esasları
+
+Madde 6- (1) Kurul, sekretarya birimi tarafından acil haller saklı kalmak kaydıyla
+toplantıdan üç iş günü önce üyelere haber verilmek suretiyle toplantıya çağırılır.
+
+(2) Kurul, Kurul Başkanının daveti üzerine üyelerin salt çoğunluğu ile toplanır. Kararlar
+toplantıya katılan üyelerin salt çoğunluğu ile alınır. Oyların eşit olması halinde Kurul
+Başkanının olduğu taraf çoğunlukta sayılır.
+
+(3) Kurul toplantılarına katılması gereken asil üyenin izin, rapor, görevlendirme vb.
+
+nedenlerle toplantıya katılamaması halinde yerine yedek üye toplantıya katılır.
+, — (4) Mazeret bildirmeksizin art arda üç toplantıya katılmayan üyenin üyeliği sona erer.
+Üyeliği sona eren üyenin yerine seçilen üye, görevi sona eren üyenin görev süresini tamamlar.
+Bunun dışında bir üyenin herhangi bir sebeple görev süresini tamamlayamaması veya
+Kurulun görev süresi devam ederken yeni üye seçilmesinin zorunlu olması halinde seçilen
+üye, hâlihazırda göreve devam eden üyelerin görev süresine tabidir.
+
+(5) Kurul üyelerine ait eserlerin Kurulda görüşülmesi sırasında eser sahibi toplantıda
+bulunamaz.
+
+Sekretaryanın görevleri
+
+Madde 7- (1) Yayın Kurulunun sekretarya işlemleri Eğitim, Araştırma ve Geliştirme
+Merkezi Başkanlığı tarafından yürütülür.
+
+(2) Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı, Yayın Kurulu adına tüm
+birimlerden bilgi, belge, görüş isteme ve çalışma yapılması yetkisine sahiptir.
+
+(3) Eğitim, Araştırma ve Geliştirme Merkezi Başkanı veya görevlendireceği bir
+personel başkanlığında çalışma komisyonları kurulabilir. Bu komisyonlarla ilgili yetkili
+birimlerden personel ve üye talep edebilir.
+
+Yayın Kurulunun görevleri
+
+Madde 8- (1) Kurulun görevleri;
+
+a) Bastırılması istenilen yayınlar ile telif ve tercüme eserlerin basım ve dağıtım şartları
+hususlarında kararlar almak,
+
+b) Abonelik gerektiren her türlü yayın, internet sayfası, kütüphane, dokümantasyon
+merkezi ile veri tabanına abone olunmasına karar vermek,
+
+e) Bir eserin elektronik ortama aktarılmasına, Kurumun internet veya intranet
+sayfalarında yayımlanmasına karar vermek,
+
+ç) Satın alınması istenilen eserleri incelemek ve uygun görülenlerin satın alınmasına
+karar vermek,
+
+d) Uluslararası kurum ve kuruluşların sosyal güvenlik alanındaki yayınlarından gerekli
+görülenlerin tercümesine karar vermek, tercümesine karar verilen eserlerin telif hakları saklı
+kalmak üzere kullanım şeklini belirlemek,
+
+e) Kurum Kütüphanesi için satın alınacak eserleri belirleyip alımlarını karara bağlamak,
+
+f) Yönerge kapsamına giren eserlerin yazdırılması veya yaptırılmasını sağlamak
+amacıyla alım yapmak, gerek görülmesi halinde yarışma düzenlemek, ısmarlama vermek,
+
+&) Yayın Kurulu ya da Birimlerce belirlenecek konu veya konularda eser
+hazırlattırılmasına yönelik karar almak,
+
+ö) Görsel, işitsel ve diğer materyallerin telif haklarının satın alınmasına yönelik karar
+almak,
+
+h) Yayınlanacak her türlü eser hakkında başvuru yapan birim tarafından hazırlanan
+eserin; teknik özelliklerini, baskı şartnamesi esaslarını, maliyetini, baskı miktarı ve dağıtım
+planını içeren önerileri karara bağlamak.
+
+Yayın ilkeleri
+
+Madde 9- (1) Yayınlarda uyulması gereken ilkeler şunlardır;
+
+a) Kurumun kuruluş, amaç ve görevleri doğrultusunda doğru bilgi verici, eğitici,
+öğretici ve tanıtıcı nitelikte olmak,
+
+b) Kişi, kurum ve kuruluşları yıpratıcı veya menfaat sağlayıcı unsurlar ihtiva etmemek,
+
+c) Milli birlik ve beraberliğimizi bozucu görüşlere, insanı, aileyi veya toplumun bir
+kesimini küçük düşürücü bilgi, belge ve yorumlara yer vermemek,
+
+ç) Türkiye Cumhuriyeti Anayasasına ve kanunlarına göre suç teşkil eden unsurları
+bulundurmamak,
+
+d) Toplumun bilgi düzeyinin yükseltilmesine, sosyal, kültürel ve ekonomik
+kalkınmasına yardımcı olmak,
+
+e) Siyasi amaçlı ve propagandaya yönelik olmamak,
+
+f) Dilbilgisi kurallarına uygun şekilde hazırlanmış olmak.
+
+Yayın inceleme kriterleri
+
+Madde 10- (1) Kurul, yayınları Yönergenin 7 nci, 8 inci ve 9 uncu maddelerinde
+belirtilen hususlara göre inceler ve değerlendirir.
+
+(2) Kurul, gerektiğinde yayınlanması düşünülen eserler hakkında, konularında
+uzmanlaşmış kişilerden görüş ve öneri isteyebilir.
+
+Yayın şartları
+
+Madde 11- (1) Kurum tarafından yayınlanacak eserler ve tercüme eser yayını teklifleri
+hakkında aşağıda belirtilen hükümlere göre işlem yapılır.
+
+a) Yazar, eserin kullanıma ait haklarını devrettiğine dair temliknameyi sekretarya
+birimine vermekle yükümlüdür.
+
+b) Yazar, telif ya da işlenme eserin daha önce herhangi bir şekilde yayımlanıp
+yayımlanmadığı hususunu belirten bir beyan ve taahhüt belgesini sekretarya birimine
+vermekle yükümlüdür.
+
+c) Yayınlanacak eser ve işlenme eserlerin sahipleri, eser veya işlenme eser üzerinde
+başka kurum veya kuruluşlar ile üçüncü şahısların haklarının bulunmadığını ve bu husustaki
+tüm sorumluluğu üstlendiklerini beyan ve taahhüt ederek sekretarya birimine verirler.
+
+ç) İşlenme eserlerde, gerek görüldüğünde asıl eser sahibinin yazılı izni olduğuna dair
+geçerli bir belge istenir.
+
+d) Kurum tarafından yayınlanan süreli yayınlarda yayınlanacak makale ve tercümelerde
+gerektiğinde yazarın veya yazarların izni alınarak kısaltma yapılabilir.
+
+e) Tercüme eser teklifinde bulunanların 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat
+Eserleri Kanununa göre gerekli izni almış olmaları ve bunu belgelemeleri zorunludur.
+
+f) Kurum tarafından yayınlanan süreli yayınlarda yayımlanacak makale ve
+tercümelerde temliknamenin noter tarafından düzenlenme şartı aranmaz, yazılı bildirim
+yeterlidir.
+
+g) Ortak eserlerle ilgili sözleşmeyi ve gerekli ise izin belgesini eser sahiplerinden birisi,
+diğerlerinin vekâletini almak suretiyle sekretarya birimine verebilir.
+
+ö) Eser içinde ya da ekinde yer alan resim, grafik, çizelge, şekil, harita ve benzeri
+dokümanlar ile bunların basımının güncel teknolojiye göre hazırlanmış olması gerekir.
+
+h) Yayımlanacak eser, kâğıdın tek yüzüne, Times New Roman yazı karakterinde 12
+punto, 1,5 satır aralığında yazılmalıdır. Yazarınca veya yazarlarınca imzalanmış olması
+gereklidir. Eser 3 (üç) adet basılı nüsha ve 3 (üç) adet cd halinde sekretarya birimine
+gönderilir.
+
+0) İlgili birim basılmış olan eserleri sekretarya birimine 10 (on) nüsha olarak teslim
+etmekle yükümlüdür.
+
+i) Kurul tarafından yayımlanması uygun görülen eser ve işlenme eserler iki yıl
+içerisinde basılmadığı takdirde yazarına iade edilir.
+
+Süreli yayın
+
+Madde 12- (1) Birimler tarafından çıkartılması düşünülen süreli yayınların amacı,
+kapsamı, içereceği konular ve yayın süresi, ilgili birimler tarafından Kurula sunulur. Süreli
+yayın, Kurulun görüşü ve Kurum Başkanının onayını müteakiben ilgili birim tarafından
+çıkartılabilir.
+
+(2) Kurum tarafından düzenli bir şekilde çıkarılan bülten ve dergilerin yayın kurulu
+başkan ve üyeleri ile Sorumlu Yazı İşleri Müdürü Kurum çalışanları arasından, Ulusal ve
+Uluslararası Yazı Danışma Kurulu üyelerinin Kurum çalışanları ile akademisyenler arasından
+tespit edilmesi ve değiştirilmesi, ilgili birimin teklifi ve Kurum Başkanının onayı ile yapılır.
+
+(3) Birimlerce çıkarılan süreli yayınlarda yayımlanan makale ve eserlere ilişkin telif ve
+işlenme ücretleri 15 inci madde hükümlerine göre hesaplanır ve ödenir.
+
+İstisnalar
+
+Madde 13- (1) Tanıtım ve bilgilendirme amaçlı el ilanı, broşür, katalog, afiş ve davetiye
+gibi yayınlar Kurul incelemesine tabi tutulmadan birimlerce bastırılabilir.
+
+(2) Kurum teşkilâtının genelge ve mütalaalarının yer aldığı yayınlar, mevzuat yayınları,
+resmi açıklamalar, kamuoyu açıklamaları ve demeçler, Kurum Başkanlığınca yapılan panel,
+konferans, brifing, sempozyum ve benzeri faaliyetlerin sonuç değerlendirme yayınları, bütçe
+taslak ve programları, istatistiki veriler ile eğitim notlarının yayımlanması, hizmet öncesi,
+hizmet içi, meslek öncesi ve meslek içi eğitim hizmetlerinde ihtiyaç duyulan kitap ve benzeri
+yayınlar için Yayın Kurulu Kararı gerekmez.
+
+(3) Kurum tarafından düzenli bir şekilde çıkarılmasına Yayın Kurulunca karar verilen
+bülten, dergi ve raporların yayımlanması için ayrıca Yayın Kurulu Kararı gerekmez.
+
+(4) Birimlerce basılması düşünülen her türlü materyali incelemek ve Yönergede
+belirtilen istisnalar kapsamına girip girmeyeceğini, gerektiğinde ilgili birimlerden görüş
+alarak, belirleme görevi Yayın Kurulu sekretaryasına verilmiştir. Bu kapsama giren tüm
+yayınlar 3 (üç) adet basılı nüsha ve 3 (üç) adet cd halinde sekretaryaya iletilecektir.
+
+(5) Kurumumuzca düzenli bir şekilde yayımlanan SGK Vizyon Dergisi ve Sosyal
+Güvenlik Dergisi (SGD) ile çocuklar için hazırlanan SGK Eğitim Serisi hikaye kitabı ve çizgi
+film için Yarın Kurulu kararı alınması gerekmez.
+
+Telif ücretlerinin belirlenmesi
+
+Madde 14- (1) Bu Yönerge hükümlerine göre, Kurul kararı ile onaylanan ve Kurum
+adına yayımlanan eserlere telif ve işlenme ücreti, 23/1/2007 tarihli ve 26412 sayılı Resmi
+Gazetede yayımlanan “Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri
+Hakkında Yönetmelik” hükümlerine göre hesaplanır ve ödenir. Kurum personelinin asli
+görevi gereği yaptığı çalışmalar sonucunda meydana getirdiği eserleri için telif ve işlenme
+ücreti ödenmez. Ancak, bunların görevi haricinde meydana getirdikleri eserlerden
+yayımlanmaya değer bulunanların yayın hakları satın alınabilir. Eser sahipleri telif hakkı
+dışında hiçbir hak talep edemez. Telif ücretleri, yayını talep eden veya hazırlayan harcama
+biriminin kendi bütçesinden ödenir.
+
+Basım, dağıtım ve satın alma işlemleri
+
+Madde 15- (1) Bu Yönergeye göre, yayımlanmasına karar verilen eserlerin basımına
+veya satın alınmasına ilişkin işlemler 4/1/2002 tarih ve 4734 sayılı Kamu İhale Kanunu
+hükümleri çerçevesinde yapılır.
+
+(2) İncelenmek üzere Kurula gönderilmeyen veya Kurul tarafından incelenerek uygun
+görülmeyen hiçbir yayın Kurum adına bastırılamaz, satın alınamaz ve yayına abone
+olunamaz.
+
+(3) Yayının dağıtımı ile ilgili giderler, bütçe olanakları ölçüsünde talep eden birim veya
+sekretarya birimi tarafından karşılanır.
+
+Genel yayın numarası
+
+Madde 16- (1) Kurum tarafından yayımlanacak süreli yayınlar dışındaki eserlere birden
+başlamak üzere genel yayın numarası verilir.
+
+Yürürlük
+
+Madde 17- (1) Bu Yönerge, yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+Madde 18- (1) Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+
+EKLER:
+
+EK |: Yayın Başvuru Formu
+EK 2: Temlikname
+
+EK 3: Beyan ve Taahhüt Belgesi
+EK 4: Basılı Yayın Bilgi Formu
+
+EK:1
+şe e
+SGK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+a EĞİTİM, ARAŞTIRMA VE GELİŞTİRME MERKEZİ BAŞKANLIĞI
+YAYIN BAŞVURU FORMU
+o ve ağıl | i ene |
+2 Talep Eden
+Birim/Şahıs
+EM
+eş İL
+fem
+Anahtar
+Kelimeler
+|
+Talep Edilen
+Baskı Adedi
+KL
+
+EK:1
+GE” TG.
+SGK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+o EĞİTİM, ARAŞTIRMA VE GELİŞTİRME MERKEZİ BAŞKANLIĞI
+Eserin Daha Evet Yayınlandı. | | Hayır Yayınlanmadı. | |
+Önce Tarih ş
+Yayınlanıp Yayınevi :
+Yayınlanmadığı | Baskı Adeti :
+Telif Hakkının
+12 | Bulunup Evet | | Hayır | |
+Bulunmadığı
+KİŞİSEL BİLGİLER
+Kİ
+ela İD
+A
+alam
+Eserin, Yayın Kuruluna sevki uygundur.
+İmza
+Adı-Soyadı
+Yayın Kurulu Başkanı a.
+Sekretarya Birimi Başkanı
+
+EK:1
+y TG
+(“SGK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+EĞİTİM, ARAŞTIRMA VE GELİŞTİRME MERKEZİ BAŞKANLIĞI
+Yayın Başvuru Formuna İlişkin Açıklamalar:
+
+1. Bualana talep türü yazılacaktır. Basım, satın alma ve abonelik harici talepler için diğer kısmına
+talebin türü yazılacaktır.
+
+2. Bualana, yayını talep eden birim/Şahın adı yazılacaktır.
+
+3. Bualana, yayını teklif edilen eserin adı yazılacaktır.
+
+4. Bulana, yayını teklif edilen eserin türü aşağıda belirtilen madde başlıklarından yalnızca birini
+kapsayacak şekilde yazılacaktır.
+- Uzmanlık tezi,
+- o Araştırma ve bilimsel inceleme,
+- Ekonomik, sosyal ve kültürel yayın,
+- Ekonomik, sosyal ve kültürel broşür,
+- o Ekonomik, sosyal ve kültürel makale,
+- o Ekonomik, sosyal ve kültürel tebliğ,
+- Ekonomik, sosyal ve kültürel konferans metinleri,
+- Dergi,
+- Bülten,
+- Faaliyet Raporu,
+- Sosyal güvenlik alanı ile ilgili yasal ve idari düzenlemeler, istatistikler ve benzerinin bir
+
+araya getirdiği derleme,
+- Ekonomik, sosyal ve kültürel konularda yayımlanmış Türkçe ve yabancı dillerdeki yayınların
+çevirileri,
+
+- Diğer( Bu madde belirtildiği durumlarda ne tür yayın olduğu ayrıca belirtilecektir.)
+
+5. Bualana, yayını teklif edilen eserin konusu kısaca yazılacaktır.
+
+6. Bualana, yayını teklif edilen eserin anahtar kelimeleri en fazla 10 kelime olacak şekilde
+yazılacaktır.
+
+7. Bualana, yayını teklif edilen eserin özeti 150 kelimeyi geçmeyecek şekilde yazılacaktır.
+
+8. Bualanda, yayını teklif edilen eserin hangi amaçla kullanılacağı, teklif edilme gerekçesi ve
+hedef kitlesi kısaca belirtilecektir.
+
+9. Bualana, yayını teklif edilen eserin talep edilen baskı adeti yazılacaktır.
+
+10. Bu alana yayının ebatı yazılacaktır.
+
+11. Bu alana, yayını teklif edilen eserin daha önce yayınlanıp yayınlanmadığı, yayınlandıysa yayın
+tarihi, yayınevi ve baskı adeti yazılacaktır.
+
+12. Bu alana, yayını teklif edilen eserin telif hakkının bulunup bulunmadığı yazılacaktır.
+
+13. Bu alana, yazar(ların) adı-soyad(ları) yazılacaktır.
+
+14. Bu alana, yazar(ların) görevli olduğu birim yazılacaktır.
+
+15. Bu alana, yazar(ların) unvanı yazılacaktır.
+
+16. Bu alana, yazar(ların) iş adresleri yazılacaktır.
+
+17. Bu alana, yazar(ların) iş telefon numaraları yazılacaktır.
+
+18. Bu alana, yazar(ların) e-posta adresleri yazılacaktır.
+
+19. Bu alana, yazar(ların) Yayın Kuruluna başvuru tarihleri yazılacaktır.
+
+EK:2
+TEMLİKNAME
+
+Eser sahibi/ sahipleri arasında yer aldığım ..................................... adlı eser
+üzerindeki, 5846 sayılı Fikir ve Sanat Eserleri Kanunundan kaynaklanan, ilk baskı sonraki
+baskılar, çoğaltma yurt içinde ve/veya yurt dışında yayma, temsil, televizyon, internet ve
+benzeri yöntemlerle umuma iletim ile (çeviri, uyarlama, değişiklik vb. işleme haklarımı;
+Sosyal Güvenli Kurumuna süresiz ve sınırsız olarak devrettiğimi beyan ederim.
+
+Bu temlikname oçerçevesinde........................................................ .adlı
+eserin, Türkiye içinde veya dışında, Türkçe veya diğer tüm Dünya dillerinde, her türlü ortam
+ve her türlü materyal ile kullanma ve başka kişi veya kurumlara kullandırma ile basım ve her
+türlü kullanım hakkı ile bu hakların devri konusunda Sosyal Güvenlik Kurumunun yetkili
+olacağını; telif konusunda doğabilecek maddi ve manevi tüm hukuki sorumluluğun tarafıma
+ait olduğunu beyan ederim.
+
+sl 2015
+Adı-Soyadı
+İmza
+T.C. Kimlik No:
+Adres:
+
+EK:3
+
+BEYAN VE TAAHHÜT BELGESİ
+szumammzyannnssunaraşahazırlanmış ve yayımlanacak
+O İla na AN aura lar Bean adlı eserini
+
+I- Sosyal Güvenlik Kurumu Yayın Yönergesinin 10 uncu maddesinin (b) bendinde yer
+alan düzenleme doğrultusunda; daha önce herhangi bir şekilde yayımlanmadığı
+hususunu,
+
+2- Sosyal Güvenlik Kurumu Yayın Yönergesinin 10 uncu maddesinin (c) bendinde yer
+alan düzenleme doğrultusunda; üzerinde başka kurum veya kuruluşlar ile kişilerin
+haklarının bulunmadığını ve bu husustaki tüm sorumluluğun tarafıma/ tarafımıza ait
+olduğunu beyan ve taahhüt ederim. .../... /201..
+
+Birim Amiri / Eser Sahibi
+
+EK:4
+N T.C. N
+tr il  — SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI ği
+Bİ o EĞİTİM, ARAŞTIRMA VE GELİŞTİRME MERKEZİ BAŞKANLIĞI
+BASILI YAYIN BİLGİ FORMU
+Bu form, Kurumumuz tarafından hazırlanan basılı yayınlarla ilgili genel bilgileri tespit
+etmek amacıyla hazırlanmıştır.
+Basımı yapılan yayımlardan 10 adedinin, arşivlenmesi ve kurum kütüphanesinde yer
+alması için aşağıda belirtilen adrese gönderilmesi önemle rica olunur.
+YAYINLA İLGİLİ BİLGİLER
+Yayının Adı :
+Yayını Çıkartan Birim :
+Yayın Tarihi :
+Yayının Niteliği k
+İçeriği -
+Sayfa Sayısı :
+Baskı Sayısı ş
+Baskı Adeti ;
+ISBN No K
+Açıklamalar
+FORMU DOLDURANA AİT İLETİŞİM BİLGİLERİ
+Adı Soyadı 5
+Birimi ş
+Telefon :
+e-mail :
+YAYIN KURULU SEKRETARYASI
+Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı
+e-posta : mipek4(sgk.gov.tr
+Telefon 24733051
+ESERİN TESLİM ADRESİ:
+SGK Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı
+Yukarı Öveçler Mahallesi 1289.sokak No: 3 Balgat/Ankara
+Telefon Santral :45733030/01-02-03/10
+Fax 14734970

@@ -1,0 +1,2689 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/143480
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2011/48
+ADI: YURTDIŞI BORÇLANMA VE TAHSİS İŞLEMLERİ HAKKINDA 08/06/2011 TARİHLİ VE 2011/48 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: bcd4f2740edabbcf707638114fdfd67d8ddd26427d4066dab3ada5f4145f4603
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+Sayı : B.13.2.SGK.0.0.10.07.01/01-031/ 368
+Konu : Yurtdışı borçlanma ve tahsis işlemleri                                                                            08/06/2011
+
+
+
+                                                           G E N E LG E
+                                                            2011 /48
+
+İÇİNDEKİLER
+
+Birinci Bölüm ......................................................................................................................................1
+GİRİŞ 1
+1. Genel açıklamalar ..........................................................................................................................1
+1.1. 2147 sayılı Kanun ........................................................................................................................1
+1.2. 3201 sayılı Kanun ........................................................................................................................3
+2. Kavramlar .......................................................................................................................................4
+İkinci Bölüm........................................................................................................................................5
+YURTDIŞI BORÇLANMA İŞLEMLERİ .......................................................................................5
+1. Borçlanmanın şartları ....................................................................................................................5
+1.1. Türk vatandaşı olmak .................................................................................................................6
+1.2. Belirli nitelikte yurtdışı süreleri bulunmak ..............................................................................7
+1.2.1. Sigortalılık süreleri ...................................................................................................................7
+1.2.2. İşsizlik süreleri ..........................................................................................................................7
+1.2.3. Ev kadını olarak geçen süreler ................................................................................................8
+1.2.4. Borçlanma kapsamında olmayan süreler ..............................................................................8
+1.2.5. Yurtdışı sürelerinin yurtiçi hizmet süreleri ile çakışması ....................................................8
+1.3. Hizmetleri belgelendirmek .........................................................................................................9
+1.3.1. Sosyal güvenlik sözleşmesi akdedilen ülkelerde geçen sürelere ait belgeler .......................9
+1.3.2. Sosyal güvenlik sözleşmesi akdedilmemiş ülkelerde geçen sürelere ait belgeler ................9
+1.3.3. Ev kadını olarak geçen sürelere ait belgeler ........................................................................10
+1.3.4. Sözleşmesiz ülkelerde Türk işverenlerce çalıştırılan Türk işçilerine ait belgeler ............10
+1.3.5. Diğer ve ortak hususlar..........................................................................................................10
+1.4. Yazılı istekte bulunmak ............................................................................................................10
+2. Borçlanma için başvurulacak kurum ve birim..........................................................................10
+3. Borç miktarının hesaplanması ....................................................................................................11
+4. Borç miktarının tebliği.................................................................................................................11
+5. Borç miktarının ödenmesi ...........................................................................................................12
+6. İsviçre prim transferine ait sürelerin borçlandırılması ............................................................13
+7. Borçlanmadan vazgeçme ve borçlanma miktarının iadesi .......................................................14
+8. Borçlanma sürelerinin değerlendirilmesi ...................................................................................15
+8.1. Sigortalılık süresi ve toplam prim ödeme gün sayısının tespitinde ......................................15
+8.2. Yıllık kazançların tespitinde ....................................................................................................16
+8.3. Basamak intibakında ................................................................................................................18
+Üçüncü Bölüm ..................................................................................................................................20
+TAHSİS İŞLEMLERİ......................................................................................................................20
+1. Aylık bağlama şartları ........................................................... Hata! Yer işareti tanımlanmamış.
+1.1.Yurda kesin dönüş yapmak ................................................. Hata! Yer işareti tanımlanmamış.
+1.2.Borcun tamamını ödemek ................................................... Hata! Yer işareti tanımlanmamış.
+1.3.Sosyal güvenlik kanunlarına göre aylığa hak kazanmak . Hata! Yer işareti tanımlanmamış.
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                                       Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                                                         i
+Tel    : (0312) 207 81 38                                                       Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                                                Elektronik Ağ: .www.sgk.gov.tr
+1.4. Kuruma yazılı başvuruda bulunmak ................................ Hata! Yer işareti tanımlanmamış.
+2. 4/1(a) statüsünde aylıkların hesaplanması ........................... Hata! Yer işareti tanımlanmamış.
+2.1. 2008 Ekim (hariç) ayından önceki prim ödeme gün sayısına ait kısmi aylığın hesabıHata! Yer işare
+2.1.1. 2000 yılı öncesi kısmi aylığın (A1) hesabı ....................... Hata! Yer işareti tanımlanmamış.
+2.1.1.1. Ortalama yıllık kazancın hesabı ve göstergenin tespitiHata! Yer işareti tanımlanmamış.
+2.1.1.2. Aylık bağlama oranının tespiti ..................................... Hata! Yer işareti tanımlanmamış.
+2.1.1.3. Tam aylığın hesabı ........................................................ Hata! Yer işareti tanımlanmamış.
+2.1.1.4. Kısmi aylığın hesabı ...................................................... Hata! Yer işareti tanımlanmamış.
+2.1.2. 2000 (dahil) yılı - Ekim (hariç) /2008 ayı arası prim ödeme gün sayısına ait kısmi
+aylığın (A2) hesabı ...................................................................... Hata! Yer işareti tanımlanmamış.
+2.1.2.1. Ortalama yıllık kazancın hesabı .................................. Hata! Yer işareti tanımlanmamış.
+2.1.2.2. Aylık bağlama oranının hesabı .................................... Hata! Yer işareti tanımlanmamış.
+2.1.2.3. Tam aylığın hesabı ........................................................ Hata! Yer işareti tanımlanmamış.
+2.1.2.4. Kısmi aylığın hesabı ...................................................... Hata! Yer işareti tanımlanmamış.
+2.2. 2008 Ekim (dahil) ayından sonraki prim ödeme gün sayısına ait aylığın hesabıHata! Yer işareti tan
+2.2.1. Ortalama aylık kazancın hesabı...................................... Hata! Yer işareti tanımlanmamış.
+2.2.2. Aylık bağlama oranının hesabı ....................................... Hata! Yer işareti tanımlanmamış.
+2.2.3. Tam aylığın hesabı ........................................................... Hata! Yer işareti tanımlanmamış.
+2.2.4. Kısmi aylığın hesabı ......................................................... Hata! Yer işareti tanımlanmamış.
+2.3. Aylıkların birleştirilmesi..................................................... Hata! Yer işareti tanımlanmamış.
+3. 4/1(b) statüsünde aylıkların hesaplanması ........................... Hata! Yer işareti tanımlanmamış.
+3.1. 1/10/2008 tarihinden önceki kısmi aylığın hesabı ............. Hata! Yer işareti tanımlanmamış.
+3.2. 1/10/2008 tarihinden sonraki kısmi aylığın hesabı ........... Hata! Yer işareti tanımlanmamış.
+3.3. Kısmi aylıkların birleştirilmesi .......................................... Hata! Yer işareti tanımlanmamış.
+3.4. 2926 sayılı Kanun kapsamındaki sigortalıların aylıklarının hesabıHata! Yer işareti tanımlanmamış
+4. 4/1(c) statüsünde aylıkların hesaplanması ........................... Hata! Yer işareti tanımlanmamış.
+5. Yoklama İşlemleri .................................................................. Hata! Yer işareti tanımlanmamış.
+6. Aylıkların kesilmesi ve yeniden bağlanması ........................ Hata! Yer işareti tanımlanmamış.
+6.1. 3201 sayılı Kanuna göre ...................................................... Hata! Yer işareti tanımlanmamış.
+6.2. İlgili sosyal güvenlik kanununa göre ................................. Hata! Yer işareti tanımlanmamış.
+7. Sosyal güvenlik destek primi uygulaması ............................ Hata! Yer işareti tanımlanmamış.
+8. Kısmi aylıkların tam aylığa dönüştürülmesi ....................... Hata! Yer işareti tanımlanmamış.
+Dördüncü Bölüm ..............................................................................................................................20
+ORTAK VE DİĞER İŞLEMLER ..................................................................................................20
+1. Aylıkların başlangıcı ....................................................................................................................20
+2. Hak sahiplerin borçlanma ve aylık bağlama işlemleri .............................................................21
+3. Farklı sigortalılık statüsünde borçlandırılan yurtdışı süreleri ................................................23
+4. Borçlandırılan yurtdışı sürelerinin farklı statülerde birleştirilerek aylık bağlanması..........24
+5. Kazanılmış haklar ........................................................................................................................24
+6. Zorunlu göç nedeniyle Türk vatandaşlığına geçenlerin borçlanma ve tahsis işlemleri .........26
+7. Yürürlükten kaldırılan genelgeler, genel yazılar ve e-Yurtdisi talimatları ............................27
+Ek: 1…...............................................................................................................................................29
+Ek: 2…...............................................................................................................................................31
+Ek: 3…...............................................................................................................................................33
+Ek: 4…...............................................................................................................................................35
+Ek: 5…...............................................................................................................................................37
+Ek: 6…...............................................................................................................................................39
+Ek: 7…...............................................................................................................................................40
+Ek: 8…...............................................................................................................................................41
+Ek: 9…...............................................................................................................................................42
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                                 Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                                               ii
+Tel    : (0312) 207 81 38                                                 Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                                          Elektronik Ağ: .www.sgk.gov.tr
+Ek: 10/a..............................................................................................................................................43
+Ek: 10/a..............................................................................................................................................44
+Ek: 10/b .............................................................................................................................................45
+Ek: 10/c ..............................................................................................................................................46
+Ek: 11.................................................................................................................................................47
+Ek: 12.................................................................................................................................................47
+Ek: 13.................................................................................................................................................47
+Ek: 14.................................................................................................................................................47
+
+
+
+
+Adres : Ziya Bey Cad. No: 6 Balgat/ANKARA                                         Ayrıntılı Bilgi: Dr. H. BALTACI Dai. Bşk.
+                                                                                                                                             iii
+Tel    : (0312) 207 81 38                                                         Faks: (0312) 207 81 89
+e-posta: gssmaluliyet@sgk.gov.tr                                                  Elektronik Ağ: .www.sgk.gov.tr
+                                         T.C.
+                     SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          Sosyal Sigortalar Genel Müdürlüğü
+
+
+Sayı : B.13.2.SGK.0.0.10.07.01/01-031/ 368
+Konu : Yurtdışı borçlanma ve tahsis işlemleri                                     08/06/2011
+
+
+
+                                        G E N E LG E
+                                         2011 /48
+
+
+
+Başkanlık Makamının 29/12/2010 tarihli ve 747 sayılı OLUR’ları ile Kurumumuz tarafından
+çıkarılan ve halen uygulanan genelgelerin, yürürlükte bulunan güncel mevzuata göre yeniden
+gözden geçirilmesi, güncellenmesi ve konu bazında tekleştirilmesi talimatları çerçevesinde
+Sosyal Sigortalar Genel Müdürlüğü görev alanına giren 3201 sayılı Yurtdışında Çalışan Türk
+Vatandaşlarının Yurtdışında Geçen Sürelerinin Sosyal Güvenlikleri Bakımından
+Değerlendirilmesi Hakkında Kanun hükümlerine göre yurtdışında geçen sürelerin
+borçlandırılması ve bu sürelere göre aylık bağlanmasında, merkez ve taşra teşkilatında
+yürütülecek iş ve işlemlerin usul ve esasları ile süreçleri yeniden belirlenmiştir.
+
+                                       Birinci Bölüm
+                                           GİRİŞ
+
+1. Genel açıklamalar
+
+Yurtdışında çalışan Türk vatandaşlarının yurtdışında geçen hizmetlerinin borçlandırılarak
+ülkemiz sosyal güvenlik mevzuatına malullük, yaşlılık ve ölüm hallerinde Türkiye’de geçmiş
+hizmet gibi değerlendirilmesini sağlamak amacıyla bugüne kadar iki borçlanma kanunu
+yürürlüğe girmiştir.
+
+Bunlardan ilki 7/6/1978 tarihinde yürürlüğe giren 30/5/1978 tarihli ve 2147 sayılı Kanun,
+ikincisi ise 22/5/1985 tarihinde yürürlüğe giren 8/5/1985 tarihli ve 3201 sayılı Kanundur.
+
+1.1. 2147 sayılı Kanun
+
+Yurtdışında çalışan vatandaşlarımızın çalıştıkları ülkelerin sosyal güvenlik mevzuatı ile
+Türkiye’deki sosyal güvenlik mevzuatı arasındaki emekli aylığına hak kazanma koşullarının
+farklılığından doğan yakınmaları azaltmak, Anayasamızda vurgulanan “Sosyal Devlet”
+anlayışının somut örneklerinden biri olan herkese sosyal güvenlik hakkını sağlamak ve bunu
+kitlelere yaygınlaştırmak, ülkemizin döviz sıkıntısını gidermek amacı ile 2147 sayılı
+“Yurtdışında Çalışan Türk Vatandaşlarının Yurtdışında Çalışma Sürelerinin Sosyal
+Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanun”la yurtdışında çalışan Türk
+vatandaşlarına, yabancı ülkelerde geçen sürelerini sosyal güvenlikleri bakımından borçlanarak
+değerlendirme hakkı tanınmıştır.
+
+Her ne kadar 2147 sayılı Kanun yürürlükte bulunmasa da, bu Kanun kapsamında
+borçlandırılan süreler bugün itibariyle bağlanacak aylıklarda değerlendirildiğinden, 2147
+
+                                                                                           1 /47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA    Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                           Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                     Elektronik ağ : www.sgk.gov.tr
+sayılı Kanunun öngördüğü borçlanma usul ve esaslarının aşağıda açıklanmasına gerek
+duyulmuştur.
+1) Borçlanma hakkından, sosyal güvenlik sözleşmesinin yapılmış olup olmadığına
+bakılmaksızın tüm yabancı ülkelerde işçi veya işveren olarak çalışanlardan, yazılı isteklerine
+bağlı olarak, Kanunun yürürlükte bulunduğu 7/6/1978-22/5/1985 tarihleri arasında başvuruda
+bulunanlar yararlandırılmıştır.
+
+2) 7/6/1978 tarihinde yurtdışında çalışmakta olanlarla bu tarihten önce yurda dönüş
+yapanların, yurtdışındaki hizmetlerin değerlendirilmesini istemeleri halinde, yurtdışında
+geçen ve belgelendirilen hizmet sürelerinin borçlandırılması imkanı tanınmıştır. Ayrıca,
+Türkiye’deki prim ödenmeden geçmiş hizmetlerini 1912 sayılı Kanun hükümlerine göre
+borçlanabilmişlerdir. Yalnız, bu borçlanma talebinin 7/6/1978-26/9/1980 tarihleri arasında
+yapılmış olma şartı bulunmaktaydı.
+
+3) Kuruma yapılan başvurularda ödenecek prim borcunun prime esas kazancın taban ve tavan
+sınırları göz önünde bulundurularak yurda kesin dönüş tarihindeki yabancı ülkede kazanılan
+son aylığın o tarihteki Türk parası karşılığından mı veya başvuru tarihindeki tavan sınırı
+üzerinden mi ödeneceğine, başvuru sahibince karar verilip Kuruma bildirilmiştir. Bu şekilde
+tespit edilen prime esas kazancın borçlanılan ay sayısı ile çarpımının malullük, yaşlılık ve
+ölüm sigortalarına ait prim oranı uygulanarak toplam borçlanma miktarı hesaplanmıştır.
+4/1(b) kapsamında yapılan hizmet borçlanmalarında başvuru tarihindeki en yüksek basamak
+üzerinden malullük, yaşlılık ve ölüm sigortaları primi oranında prim tahsil edilmiştir. Prim
+borcu, borcun Kurumca bildirildiği tarihten itibaren toptan veya en çok 3 yılda yıllık eşit
+taksitlerle ödenmiştir.
+
+4) 7/6/1978 tarihinden sonra yurtdışında çalışıp yurda kesin dönüş yapmış olanlardan, yabancı
+ülkelerdeki geçmiş çalışmalarını değerlendirmek isteyenlerin borçlanma işlemleri, dönüş
+tarihinden itibaren altı ay içinde, yurtdışına gitmeden önce veya yurda dönüşlerinden sonra bir
+göreve girmişlerse bu görevlerinde bağlı oldukları sosyal güvenlik kurumunca veya hiç bir
+sosyal güvenlik kurumuna bağlı değillerse Devredilen Sosyal Sigortalar Kurumunca
+sonuçlandırılmıştır. 9/8/1979 tarihinden itibaren, 7/6/1978 tarihinde yurtdışında
+bulunanlardan Türkiye’de sosyal güvenlik kurumlarına tabi çalışması bulunanlar istedikleri
+takdirde Devredilen Sosyal Sigortalar Kurumuna borçlanmışlardır. Yurtdışında geçen çalışma
+sürelerinin borçlanılabilmesi için bu sürelere ait belgelerin de ilgili Kuruma verilmesi zorunlu
+idi. Prim borcu, borcun bildirildiği tarihten itibaren bir ay içinde döviz olarak yine başvurulan
+sosyal güvenlik kurumuna ödenmiştir. Prim borcu hesaplanırken başvurulan sosyal güvenlik
+kurumu mevzuatındaki esaslar veya başvuru tarihindeki en yüksek (tavan) aylık kazanç esas
+alınmıştır.
+
+5) 156 sayılı “Türk Parasının Kıymetinin Korunması Hakkında Kanun”a göre, yurtdışından
+yurda dönen vatandaşlar, ellerinde bulunan dövizin tamamını en geç bir ay içinde T.C.
+Merkez Bankasına veya milli bir bankaya yatırarak Türk parasına çevirmek zorunda idiler.
+2147 sayılı Kanuna göre 7/6/1978 tarihinden sonra yurda dönenlerin yurtdışındaki
+hizmetlerini değerlendirmek istemeleri halinde, kesin dönüş tarihinden itibaren altı ay içinde
+ilgili sosyal güvenlik kurumuna başvurmaları ve prim borçlarını döviz olarak borcun tebliği
+tarihinden itibaren en geç bir ay içinde yatırmaları zorunlu idi. Bu nedenle, yurtdışından
+7/6/1978 tarihinden sonra yurda kesin dönüş yapanlardan 2147 sayılı Kanundan yararlanmak
+isteyenler, döviz olarak ödeyecekleri primleri karşılayacak miktardaki dövizin T.C. Merkez
+Bankasına veya milli bir bankaya yatırıldığını gösteren belgenin de borçların ödenmesi
+
+                                                                                            2 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+sırasında, ilgili sosyal güvenlik kurumuna borç miktarındaki Türk parası ile birlikte verilmesi
+gerekmekte idi. Bu takdirde, prim borçlarının döviz olarak ödendiği kabul edilmiştir.
+
+1.2. 3201 sayılı Kanun
+
+2147 sayılı Kanunun yedi yıllık uygulamasında yaşanan sorunlar da dikkate alınarak,
+vatandaşlarımızın yurtdışında geçen sürelerinin sosyal güvenlikleri bakımından
+değerlendirilmesi için konu yeni bir yaklaşımla ele alınmış ve 2147 sayılı Kanun yürürlükten
+kaldırılarak, yerine 3201 sayılı Kanun yürürlüğe konulmuştur.
+
+22/5/985 tarihli ve 3201 sayılı “Yurtdışında Çalışan Türk Vatandaşlarının Yurtdışında Geçen
+Sürelerinin Sosyal Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanun” ihtiva ettiği
+hükümler ve getirdiği haklar bakımından yurtdışındaki vatandaşlarımıza yeni imkanlar
+tanımıştır.
+
+Kanunun 4 üncü maddesine göre yurtdışı sigortalılık sürelerine ait borçlanma miktarı,
+borçlanılacak sürenin her bir günü için bir ABD Doları üzerinden hesaplanmaktaydı. Ancak,
+borçlanılacak olan her bir gün için tahakkuk ettirilecek ABD Doları miktarı Bakanlar
+Kurulunun değişik tarihlerde yürürlüğü giren kararları ile yeniden belirlenmiştir. Buna göre,
+borcun ödendiği tarih esas alınmak kaydı ile 15/2/1997 - 15/5/1998 tarihleri arasında yapılan
+ödemelerde bir gün için tahakkuk eden miktar 2,5 ABD Doları, 16/5/1998 - 9/5/2005 tarihleri
+arasında yapılan ödemelerde 2 ABD Doları, 10/5/2005 - 5/12/2005 tarihleri arasında yapılan
+ödemelerde 5 ABD Doları ve 6/12/2005 tarihinden itibaren yapılan / yapılacak ödemelerde
+3,5 ABD Doları olarak belirlenmiştir. Ancak, tahakkuk ettirilen borçların tamamını veya bir
+kısmını 5 ABD Doları üzerinden ödemiş olanların 6/12/2005 tarihinden itibaren altı ay içinde
+yazılı istekte bulunmaları halinde, borçlanma tutarları ve bağlanmış ise aylıkları 3,5 ABD
+Doları üzerinden yeniden hesaplanmıştır.
+
+Kanunun 3 üncü maddesinin birinci fıkrasında yer alan “yurda kesin dönüş yapanlar” ve
+“kesin dönüş” sözcüklerinin Anayasa’ya aykırı bulunarak Anayasa Mahkemesince iptal
+edilmesi üzerine, 6/8/2003 tarihli ve 25191 sayılı Resmi Gazetede yayımlanarak yürürlüğe
+giren 29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununun 56 ncı maddesi
+ile söz konusu madde yeniden düzenlenmiştir. Buna göre, borçlanma için yurda dönüş
+tarihinden sonra aranan iki yıllık başvuru süresi yürürlükten kaldırılmış ve yurtdışında
+bulunanlara da çalışıp çalışmadıklarına bakılmaksızın borçlanma hakkı verilmiştir.
+
+Bu düzenlemeyle yurtdışında çalışmakta olanlar ile daha sonra yurtdışında çalışacak olanlara
+yurtdışında iken ya da yurda döndükten sonra durumlarına uygun sosyal güvenlik kuruluşuna
+başvurarak yurtdışında geçen hizmetlerini borçlanabilme imkanı sağlanmıştır.
+
+3201 sayılı Kanunda da esaslı değişiklikler getiren 17/4/2008 tarihli ve 5754 sayılı “Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanun ve Kanun Hükmünde
+Kararnamelerde Değişiklik Yapılmasına Dair Kanun”, 8/5/2008 tarihli ve 26870 sayılı
+Resmi Gazetede yayımlanmıştır.
+
+5754 sayılı Kanunun;
+
+
+
+
+                                                                                           3 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+1) 79 uncu maddesiyle 8/5/2008 tarihli ve 3201 sayılı Kanunun 1 inci, 2 nci, 3 üncü, 4 üncü,
+5 inci ve 6 ncı maddeleri değiştirilmiş ve bu Kanuna geçici 5 inci, 6 ncı ve 7 nci maddeler
+eklenmiştir.
+
+2) 64 üncü maddesiyle değiştirilen 5510 sayılı “Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanunu”nun 106 ncı maddesinin 24 numaralı bendine göre, 3201 sayılı Kanunun 7 nci, 11
+inci, geçici 1 ila geçici 4 üncü maddeleri ve 3201 sayılı Kanunda geçen “döviz” ibareleri
+yürürlükten kaldırılmıştır.
+
+3) 68 inci maddesiyle değiştirilen 5510 sayılı Kanunun geçici 7 nci maddesinin dördüncü
+fıkrası ile yurtdışı hizmet borçlanmasına ait prime esas kazançların aylık bağlanmasında nasıl
+değerlendirileceği hususuna açıklık getirilmiştir.
+
+5754 sayılı Kanunla 3201 sayılı Kanunda yapılan düzenlemeler, Kanunun yayımlandığı
+8/5/2008 tarihinden geçerli olmak üzere yürürlüğe girmiştir. Ayrıca, 5510 sayılı Kanunun
+sigortalılık statüsüne ilişkin 4 üncü maddesinin birinci fıkrası, prime esas kazancın alt ve üst
+sınırına ilişkin 82 nci maddesi ile borçlanılan sürelere ait kazançların aylık bağlanmasında
+değerlendirilmesine ilişkin geçici 7 nci maddesinin dördüncü fıkrası da 3201 sayılı Kanunun
+uygulaması ile sınırlı olmak üzere aynı tarih itibariyle yürürlüğe girmiş bulunmaktadır.
+
+19/6/2010 tarihli ve 27616 sayılı Resmi Gazetede yayımlanan 16/6/2010 tarihli ve 5997 sayılı
+“Bazı Kanunlarda ve 190 sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına
+Dair Kanun” ile 3201 sayılı Kanunun 6 ncı maddesinin (B) fıkrasının ilk paragrafı
+değiştirilerek, yurtdışında geçen sigortalılık sürelerini borçlanmak suretiyle aylık
+bağlananlardan Türkiye’de sigortalı çalışmaya başlayanların aylıklarının kesileceğine ilişkin
+önceki düzenleme, bunlar hakkında 5510 sayılı Kanunun sosyal güvenlik destek primine
+ilişkin hükümlerinin uygulanacağı yönünde değiştirilerek, bunlara aylıkları kesilmeksizin
+sigortalı olarak çalışma imkanı verilmiştir.
+
+2. Kavramlar
+
+3201 sayılı Kanun ve bu Kanunun uygulama usul ve esaslarını düzenleyen 6/11/2008 tarihli
+ve 27046 sayılı Resmi Gazetede yayımlanan “Yurtdışında Geçen Sürelerin Borçlandırılması
+ve Değerlendirilmesine İlişkin Yönetmelik”te bazı kavramlar tanımlanmıştır.
+
+Bunlardan;
+
+1) Sosyal güvenlik kuruluşları; Sosyal Güvenlik Kurumu ile 17/7/1964 tarihli ve 506 sayılı
+Sosyal Sigortalar Kanununun geçici 20 nci maddesine tabi sandıkları,
+
+2) Sosyal güvenlik kanunları; 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel
+Sağlık Sigortası Kanununu, 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi ile
+24/5/1983 tarihli ve 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi Olarak Geçen Hizmetlerin
+Birleştirilmesi Hakkında Kanun ile bu kanunlara ait ek ve değişiklikleri,
+
+3) Sürelerin değerlendirilmesi; Türk vatandaşlığına haiz olanların Kanunun 1 inci
+maddesinde belirtilen sürelerinin istekleri halinde değerlendirilmesini,
+
+
+
+                                                                                            4 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+4) Döviz; Türkiye Cumhuriyet Merkez Bankası tarafından konvertibl sayılan yabancı ülke
+para birimlerini,
+
+5) Sosyal güvenlik sözleşmesi; ülkemizin taraf olduğu sosyal güvenlik alanındaki ikili veya
+çok taraflı anlaşmaları,
+
+6) Kısmi aylık; sosyal güvenlik sözleşmesine istinaden birleşik hizmetler üzerinden
+taraflardan biri tarafından kendi sigortalılık süresi ve mevzuatına göre bağlanan aylıkları,
+
+7) Kesin dönüş; aylık tahsis talebinde bulunanların yurtdışındaki çalışmalarının sona
+ermesini, ikamete dayalı bir sosyal sigorta ya da sosyal yardım ödeneği almamaları
+durumunu,
+
+8) Sigortalılık süresi; borçlanma kapsamındaki sürenin bulunduğu ülke mevzuatına göre
+ikamet süreleri hariç, çalışılmış ya da çalışılmış süre olarak kabul edilen süreleri,
+
+9) Borcun tamamının ödenmesi; aylık talep tarihinden önce en az aylığa hak kazanmaya
+yetecek süre karşılığı ödenen miktarı,
+
+10) İşsizlik süresi; ilgili ülke mevzuatına göre çalışma süreleri ile bu çalışma sürelerine eş
+değer süreler haricinde o ülkede geçen süreyi,
+
+11) Sosyal yardım; bulunulan ülke mevzuatı kapsamında, geçimlerini sağlayacak hiçbir
+gelirleri olmayan veya mevcut gelirleriyle geçimlerini sağlamakta güçlük çeken kişilerin
+asgari geçim düzeyi ile sınırlı olmak üzere geçimlerinin sağlanması amacıyla kamu kurum ve
+kuruluşları tarafından muhtaçlık durumuna ve süresine göre ödenen, ikamet şartına bağlı
+nakdi yardımları,
+
+ifade etmektedir.
+
+Ayrıca, bu Genelgede geçen “Kanun” ibaresi, 3201 sayılı Yurtdışında Bulunan Türk
+Vatandaşlarının Yurtdışında Geçen Sürelerinin Sosyal Güvenlikleri Bakımından
+Değerlendirilmesi Hakkında Kanun ve bu Kanunun ek ve değişiklikleri, “Yönetmelik” ibaresi
+6/11/2008 tarihli ve 27046 sayılı Resmi Gazetede yayımlanan Yurtdışında Geçen Sürelerin
+Borçlandırılması ve Değerlendirilmesine İlişkin Yönetmelik, “Kurum” ibaresi Sosyal
+Güvenlik Kurumu ve “SSGM” ibaresi Sosyal Sigortalar Genel Müdürlüğü anlamında
+kullanılmıştır.
+
+                                     İkinci Bölüm
+                           YURTDIŞI BORÇLANMA İŞLEMLERİ
+
+1. Borçlanmanın şartları
+
+Yurtdışı borçlanmasından yararlanabilmek için aşağıda açıklandığı şekilde;
+
+a) Türk vatandaşı olmak,
+
+b) Belirli nitelikte yurtdışı süreleri bulunmak,
+
+
+                                                                                          5 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA    Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                           Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                     Elektronik ağ : www.sgk.gov.tr
+c) Hizmetleri belgelendirmek,
+
+d) Yazılı istekte bulunmak,
+
+şartları aranacaktır.
+
+1.1. Türk vatandaşı olmak
+
+Yurtdışı hizmet borçlanmalarında Türk vatandaşı olma şartının iki halde yerine getirilmesi
+zorunludur. Bunlardan biri, borçlanılması istenilen sürelerde ilgilinin Türk vatandaşı olması,
+diğeri ise yazılı başvuru tarihi itibariyle Türk vatandaşı olmasıdır.
+
+Buna göre;
+
+1) Türk vatandaşlığında geçmeyen yurtdışı veya ev kadınlığı süreleri borçlandırılmayacağı
+gibi, borçlanma başvuru tarihinde Türk vatandaşı olmadığı tespit edilen sigortalı ve hak
+sahiplerinin borçlanma talepleri de reddedilecektir.
+
+2) Türk vatandaşlığı ile birlikte yabancı ülke vatandaşlığı devam edenler de söz konusu
+Kanun ile getirilen düzenlemeden yararlanabileceklerdir.
+
+3) Talep sahibinin borçlanmak istediği sürelerde, Türk vatandaşlığının devam edip etmediği
+ve borçlanmak için yazılı başvuru tarihinde sigortalının Türk vatandaşı olup olmadığı,
+ilgililerden herhangi bir belge talep edilmeden İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri
+Genel Müdürlüğünün Kimlik Paylaşım Sistemi kullanılarak bilgisayardan alınacak olan
+“Vukuatlı Nüfus Kayıt Örneği” çıktısı ile tespit edilecektir.
+
+4) Talep sahibinin kimlik bilgilerinde farklılık bulunduğu hallerde, kimlik ve vatandaşlık
+durumundaki değişiklikle ilgili belgelerin Kuruma ibrazı müracaat sahibinden istenilebileceği
+gibi, tereddüt halinde konunun açıklığa kavuşturulması için ilgili kurum ve kuruluşlar ile de
+yazışma yapılabilecektir.
+
+5) 12/6/2009 tarihli ve 27256 sayılı Resmi Gazetede yayımlanan 5901 sayılı “Türk Vatandaşlığı
+Kanunu”nun 28 inci maddesi ile doğumla Türk vatandaşı olup da sonradan vatandaşlıktan çıkma
+izni almak suretiyle yabancı bir ülke vatandaşlığını kazanmış olanlara, sosyal güvenliğe ilişkin
+kazanılmış hakların kullanımında, ilgili kanunlardaki hükümlere tabi olmak şartıyla Türk
+vatandaşlarına tanınan haklar aynen tanınmıştır. Söz konusu maddeye göre, Türk
+vatandaşlığından çıkmadan önce kazanılmış sosyal güvenlik hakları, ilgili kanunlardaki
+hükümlere tabi olmak şartıyla aynen Türk vatandaşlarına tanınan haklar gibi kullanılabilecektir.
+Bu durumda, Kanunda borçlanmadan yararlanabilmenin başvuru sahibinin borçlanma talep
+tarihinde Türk vatandaşı olma şartına bağlanması, ayrıca Türk vatandaşlığından çıkmadan
+önce borçlanma talebinde bulunulmayan yurtdışı süreleri kazanılmış hak niteliği
+taşımadığından, kamu oyunda “pembe ya da mavi kart sahibi” olarak bilinen doğumla Türk
+vatandaşlığını kazanmış olup da sonradan vatandaşlıktan çıkma izni almak suretiyle yabancı bir
+ülke vatandaşlığını kazananlar, başvuru tarihinde Türk vatandaşı olmadıklarından borçlanma
+kapsamındaki      sürelerde    Türk     vatandaşı    olsalar   bile, borçlanma hakkından
+yararlanamayacaklardır. Ancak, bunların Türk vatandaşlığından çıkmadan önce borçlandıkları ya
+da borçlanma talebinde bulundukları yurtdışı süreleri kazanılmış hak niteliğinde olduğundan,
+
+
+                                                                                            6 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+borçlanmaları geçerli sayılacak, aylığa hak kazanmada ve aylık hesabında Kanuna göre
+Türkiye’de geçmiş bir hizmet olarak değerlendirilecektir.
+
+6) 5754 sayılı Kanunla 3201 sayılı Kanuna eklenen geçici 6 ncı madde ile Bulgaristan’dan
+1/1/1989-8/5/2008 tarihleri arasında zorunlu göçe tabi tutularak ülkemize gelen
+soydaşlarımıza, bu ülkede geçen çalışma sürelerinde Türk vatandaşı olma şartı aranmaksızın
+borçlanma hakkı tanındığından, bu kimselerin borçlanma talep tarihinde Türk vatandaşı
+olmaları yeterli sayılarak bu Genelgenin ilgili alt başlığı altında belirtilen usul ve esaslar
+dahilinde söz konusu süreler borçlandırılacaktır.
+
+1.2. Belirli nitelikte yurtdışı süreleri bulunmak
+
+Kanunun 1 inci maddesinde yurtdışında geçen sigortalılık süreleri, bu süreler arasında veya
+sonunda her birinde bir yıla kadar olan işsizlik süreleri ile ev kadını olarak geçen sürelerin
+değerlendirileceği öngörülmüş olup, bu maddede geçen “sigortalılık süresi” ve “işsizlik
+süresi” Yönetmeliğin 4 üncü maddesinde tanımlanmıştır.
+
+1.2.1. Sigortalılık süreleri
+
+Yönetmeliğe göre sigortalılık süresi deyiminden, borçlanma kapsamındaki sürenin bulunduğu
+ülke mevzuatına göre ikamet süreleri hariç, çalışılmış ya da çalışılmış süre olarak kabul edilen
+süreler anlaşılacaktır.
+
+Çalışılmış olarak kabul edilen süreler, ilgili ülke mevzuatına göre fiilen çalışılmadığı halde
+çalışmaya eşdeğer süre olarak kabul edilip, hizmet cetvellerinde eşdeğer süre olarak
+gösterilen, aylığa hak kazanmada ve aylık hesabında değerlendirilen sürelerdir.
+
+İlgili ülke mevzuatına göre çalışılmış veya eşdeğer süre olarak kabul edilen ikamet sürelerinin
+çalışılmış süre olarak değerlendirilmesine imkan bulunmadığından, borçlandırılması mümkün
+değildir.
+
+Bu durumda, borçlanmaya esas hizmet cetvellerinde bildirilen çalışma süreleri (mecburi prim
+ödeme süreleri, kendi nam ve hesabına çalışmalardan dolayı zorunlu ve isteğe bağlı prim
+süreleri, sigortadan muaf cüzi çalışma gibi) ve bu çalışma sürelerine eşdeğer sürelerin (isteğe
+bağlı prim ödeme süreleri, çocuk yetiştirme süreleri, işsizlik ödeneği süreleri, hastalık ödeneği
+süreleri, bakım süreleri, borçlanma yoluyla ödenen primlere ait süreler gibi) tamamı, başvuru
+sahibinin kısmi borçlanma hakkı saklı kalmak kaydıyla borçlanma kapsamında
+değerlendirilebilecektir.
+
+1.2.2. İşsizlik süreleri
+
+İşsizlik süresi ibaresi, ilgili ülke mevzuatına göre çalışma süreleri ile bu çalışma sürelerine eş
+değer süreler haricinde o ülkede çalışılmadan geçen süreyi ifade eder.
+
+Ancak, Kanuna göre işsizlik sürelerinin tamamının borçlanma kapsamında
+değerlendirilmesine imkan bulunmadığından, sigortalılık süreleri arasında veya sonunda her
+birinde olmak kaydıyla bir yıla kadar olan yurtdışında geçen işsizlik süreleri
+borçlandırılacaktır. İkamet süreleri ve boşta geçen süreler de bu kapsamda
+değerlendirilecektir.
+
+                                                                                             7 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA       Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                              Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                        Elektronik ağ : www.sgk.gov.tr
+1.2.3. Ev kadını olarak geçen süreler
+
+Yurtdışında ev kadını olarak geçen süreler, medeni durumlarına bakılmaksızın kadınların
+sigortalılık süreleri haricinde yurtdışında bulundukları süreleri ifade eder. Bu süreler işsizlik
+süresi veya boşta geçen süreler kapsamında değerlendirilmeyecek, borçlanma talebinde
+bulunanların yurtdışında ev kadını olarak geçen sürelerinin diledikleri kadarı
+borçlandırılacaktır.
+
+Ev kadınlığı süreleri, bu Genelgenin İkinci Bölümünde (1.3.3.) başlığı altında belirtilen
+şekilde belgelenecek ve borçlanma başvurusunun yapılacağı birimin tespitinde 2 nci alt
+bölümünde ve borçlanılan sürelerin 5510 sayılı Kanuna göre hangi sigortalılık haline göre
+değerlendirilmesi gerektiği hususunda (8.1.) alt başlığı altında yapılan açıklamalara özellikle
+dikkat edilecektir.
+
+1.2.4. Borçlanma kapsamında olmayan süreler
+
+Yönetmeliğin 6 ncı maddesine göre aşağıda sayılan süreler, borçlanma kapsamında
+değerlendirilmeyecektir:
+
+1) 18 yaşın doldurulmasından önce yurtdışında geçen sigortalılık, işsizlik ve ev kadınlığı
+süreleri.
+
+2) Türk vatandaşlığının kazanılmasından önce veya Türk vatandaşlığının kaybedilmesinden
+sonra yurtdışında geçen sigortalılık, işsizlik ve ev kadınlığı süreleri.
+
+3) İkili sosyal güvenlik sözleşmelerine göre kendilerine kısmi aylık bağlanmış olanların
+yurtdışında geçen sigortalılık süreleri arasında ve bu sürelerin bitim tarihinden sonraki işsizlik
+süreleri ve ev kadını olarak geçen süreler.
+
+4) Türkiye’de malullük, yaşlılık ve ölüm sigortaları kapsamında geçen ve aşağıda sayılan
+yurtdışı sürelerinden:
+
+a) Libya’da iş üstlenen Türk işverenlerince çalıştırılan Türk işçilerinin, bu ülkede 1/9/1985
+tarihinden sonra geçen çalışma süreleri,
+
+b) Almanya’da istisna akdi kapsamında iş üstlenen Türk işverenlerince çalıştırılan Türk
+işçilerinin bu ülkedeki çalışma süreleri,
+
+c) 5510 sayılı Kanunun 10 uncu maddesi ile ülkemiz ile imzalanan ikili sosyal güvenlik
+sözleşmeleri ve Avrupa Sosyal Güvenlik Sözleşmesi hükümlerine göre yurtdışında geçici
+görevli olarak bulunmaları nedeniyle 5510 sayılı Kanun kapsamında sigortalı sayılanların
+geçici görevli bulundukları yurtdışı çalışma süreleri.
+
+1.2.5. Yurtdışı sürelerinin yurtiçi hizmet süreleri ile çakışması
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 24/4/2019 tarihinden itibaren mülga)
+
+
+                                                                                             8 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA       Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                              Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                        Elektronik ağ : www.sgk.gov.tr
+1.3. Hizmetleri belgelendirmek
+
+Kanunun 1 inci maddesinde belirtilen borçlanma isteğinde bulunulan yurtdışı sürelerinin
+belgelendirilmesi mecburiyeti, Yönetmeliğin 8 inci maddesinde düzenlenmiştir.
+
+Buna göre, borçlanma başvurusunda bulunanlar, yurtdışında geçen ve borçlanmaya esas
+olacak sürelerine ait Yönetmeliğin 9 uncu maddesinde belirtilen ve durumlarına uygun olan
+belgelerin asıllarını Kuruma ibraz etmekle, belgelendirme mecburiyetlerini yerine getirmiş
+olurlar.
+
+Yönetmeliğin 9 uncu maddesinde ise borçlanma için Kuruma ibraz edilmek suretiyle
+belgelendirme mecburiyetine ilişkin yükümlülüğün yerine getirilmesini sağlayan belgeler,
+sosyal güvenlik sözleşmesi akdedilmiş ülkelerde, sosyal güvenlik sözleşmesi akdedilmemiş
+ülkelerde ve ülke ayrımı yapılmadan ev kadını olarak geçen sürelere ilişkin olmak üzere üç
+grupta toplanmıştır. Ayrıca, 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g)
+bendi kapsamında sözleşmesiz ülkelerde istihdam edilen işçilerimizin sigortalılığına ilişkin
+kayıtlarının Kurumumuzca tutulması nedeniyle bunlar için belgelendirme mükellefiyeti
+aranmamaktadır.
+
+Buna göre, borçlanma için Kuruma ibraz edilmesi gereken belgeler aşağıda açıklanmıştır.
+
+1.3.1. Sosyal güvenlik sözleşmesi akdedilen ülkelerde geçen sürelere ait belgeler
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+1.3.2. Sosyal güvenlik sözleşmesi akdedilmemiş ülkelerde geçen sürelere ait belgeler
+
+Sosyal güvenlik sözleşmesi akdedilmemiş ülkelerde geçen sigortalılık veya işsizlik sürelerinin
+borçlanılabilmesi için talep sahiplerinin aşağıdaki maddelerde açıklanan belgelerden
+durumlarına uygun olan bir belgeyi Kuruma ibraz etmeleri gerekmektedir.
+
+1) Bulunulan ülkelerdeki Türk konsoloslukları, çalışma ve sosyal güvenlik müşavirlikleri
+veya ataşelikler gibi temsilciliklerden alınacak ve yurtdışı borçlanma için kullanılacağı
+belirtilen hizmet belgeleri.
+
+2) Yurtdışında çalıştıkları işyerlerinden alacakları hizmet sürelerini gösterir bonservisleri ile
+birlikte pasaportlarında bulunan çalışma izinlerinin tercümeleri.
+
+3) Gemi adamları, çalıştıkları geminin bayrağını taşıdıkları ülkelerde bulunan Türk
+konsoloslukları, çalışma ve sosyal güvenlik müşavirlikleri veya ataşelikler gibi
+temsilciliklerden alacakları ve yurtdışı borçlanma için kullanılacağı belirtilen hizmet
+belgelerini veya işyerlerinden alacakları sigortalılık sürelerini gösterir bonservisleri ile
+gemilerde çalıştıklarını gösterir belgelerde kayıtlı bulunan çalışma izinlerinin tercümeleri ya
+da pasaportlarında çalışma süreleri ile örtüşen giriş-çıkış tarihlerini gösterir sayfaların
+örnekleri.
+
+Yukarıda açıklandığı üzere sosyal güvenlik sözleşmesi akdedilmemiş ülkelerdeki sigortalılık
+sürelerini borçlanacak olanlar, yurtdışında çalıştıkları işyerlerinden alacakları hizmet
+
+
+                                                                                            9 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+sürelerini gösterir bonservisleri ile birlikte pasaportlarında bulunan çalışma izinlerinin
+tercümelerini ibraz etmek suretiyle belgeleme yükümlülüklerini yerine getirmiş olmaktadırlar.
+
+Ancak, bir kısım ülkelerde “oturma vizesi” aynı zamanda “çalışma müsaadesi”ni de
+içermekte, bir kısım ülkelerde ise oturma vizesi çalışma müsaadesini içermemektedir.
+
+Bu itibarla, oturma vizesinin aynı zamanda çalışma müsaadesini de içerdiği ülkelerde geçen
+sürelerini borçlanmak isteyenlerden, çalışma izinleri yerine oturma vizelerini bonservisleriyle
+birlikte ibraz edenler, borçlanma için belgeleme yükümlülüğünü yerine getirmiş olacaklardır.
+
+
+1.3.3. Ev kadını olarak geçen sürelere ait belgeler
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+1.3.4. Sözleşmesiz ülkelerde Türk işverenlerce çalıştırılan Türk işçilerine ait belgeler
+
+5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendine göre, ülkemiz ile sosyal
+güvenlik sözleşmesi imzalanmamış ülkelerde iş üstlenen işverenlerce yurt dışındaki
+işyerlerinde çalıştırılmak üzere götürülen Türk işçileri, anılan Kanunun 4 üncü maddesinin
+birinci fıkrasının (a) bendi kapsamında sigortalı sayılmakta ve bunlar hakkında kısa vadeli
+sigorta kolları ile genel sağlık sigortası hükümleri, bunların uzun vadeli sigorta kollarına tabi
+olmak istemeleri halinde ise haklarında isteğe bağlı sigorta hükümleri uygulanmaktadır.
+
+İsteğe bağlı sigortaya prim ödemeyenler ise yurtdışında iken ya da yurda döndükten sonra
+yurtdışında geçen söz konusu sürelerinden diledikleri kadarını Kanuna göre
+borçlanabileceklerdir.
+
+5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendi kapsamında çalışılan
+yurtdışı sürelerinin 3201 sayılı Kanuna göre borçlandırılmasında, belge türü “21” olan Aylık
+Prim ve Hizmet Belgeleriyle daha önce Kuruma bildirilen hizmetlere ait bilgisayar
+kayıtlarının çıktısı esas alınacak, bunlardan ayrıca bir belge talep edilmeyecektir
+
+5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendi kapsamında çalışıldığı
+belirtilen süreler için belge türü “21” olan Aylık Prim ve Hizmet Belgesi Kuruma
+verilmemişse, yukarıda belirtilen belgelerden durumlarına uygun olan belgenin Kuruma ibraz
+edilmesi, belgelendirme mecburiyetinin yerine getirilmesinde yeterli sayılacaktır.
+
+1.3.5. Diğer ve ortak hususlar
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+1.4. Yazılı istekte bulunmak
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+2. Borçlanma için başvurulacak kurum ve birim
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+
+
+
+                                                                                           10 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+3. Borç miktarının hesaplanması
+(2 inci madde hariç, 15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden
+itibaren mülga)
+
+2) Seçilen prime esas kazanç miktarının borçlanma tutarının tebliğ edildiği tarihe kadar
+Kuruma yapılacak olan yazılı başvuru ile değiştirilmesi halinde, borç tahakkuku ve tebliği
+yeni seçilen miktar üzerinden sonuçlandırılacaktır.
+
+4. Borç miktarının tebliği
+5754 sayılı Kanunla değişik 3201 sayılı Kanunun 4 üncü maddesinde, tahakkuk ettirilen borç
+tutarının tebliğ tarihinden itibaren üç ay içerisinde ödeneceği, Yönetmeliğin 10 uncu
+maddesinin dördüncü fıkrasında ise tahakkuk ettirilen borç tutarının ilgiliye iadeli - taahhütlü
+olarak gönderileceği ve posta alındısının ilgiliye teslim edildiği tarihin borcun tebliğ tarihi
+olarak kabul edileceği belirtilmiştir.
+
+Buna göre, borcun tebliği ile ilgili usul ve esaslar aşağıda açıklanmıştır.
+
+1) Yurtdışı borçlanma sürelerine ait borçlanma miktarı ve bu miktarın Kuruma ödenmesine
+ilişkin usul ve esaslar ile aylık bağlama şartları iadeli-taahhütlü bir yazı ile tebliğ edilecektir.
+
+2) Borçlanma talep sahibinin yurtiçinde ikameti halinde PTT’nin yurtiçi servislerinde
+kullanılan “Alma/Ödeme Haberi Kartı”, yurtdışında ikameti halinde ise PTT’nin “CN 07”
+kodlu “Alma/Teslim/Ödeme/Kayıt Haberi Kartı” kullanılacaktır.
+
+3) Kartların PTT tarafından Kuruma iade edilmesinden sonra tespit edilecek tebliğ tarihinin
+bilgisayar kayıtlarına aktarılması ve kartın ait olduğu dosyaya ulaştırılmasını kolaylaştırmak
+amacıyla yurtiçine yapılacak tebligatlarda “Göndericinin Adı Soyadı ve Adresi”, yurtdışına
+yapılacak olan tebligatlarda kullanılacak kartın ise “Aşağıdaki adrese iade ediniz” bölümüne;
+
+         Sosyal Güvenlik Kurumu İl Müdürlüğü
+                                KIRIKKALE
+         T. C. Kimlik No :………………………..………..
+         Dosya No        :…………………………………
+
+şeklinde hazırlanan kaşe basıldıktan sonra sigortalının T.C. Kimlik Numarası ile dosya
+numarası (tahsis ya da sicil numarası) mutlaka kaşenin ilgili bölümüne yazılacaktır.
+4) İadeli - taahhütlü kartların Kuruma iade edilmemesi ya da bu kartların sigortalı
+dosyalarında bulunamaması hallerinde aşağıda yapılan açıklamalar çerçevesinde işlem
+yapılacaktır:
+
+a) Borcun ilgiliye tebliğine ilişkin yazının Kurumdan gönderildiği tarihten itibaren üç ay
+içerisinde borç ödenmişse, yazının tarihi borcun tebliğ tarihi olarak kabul edilecektir.
+Örneğin; 5/4/2010 tarihinde Kurum tarafından ilgiliye borç tebliği yazısı gönderildiği halde
+teslim edildiğine dair iadeli-taahhütlü kartı bulunamıyor ve ilgili 12/6/2010 tarihinde
+tahakkuk ettirilen borç miktarını ödemişse, borcun tebliğ tarihi 5/4/2010 olarak kabul
+edilecektir
+
+b) Borcun ilgiliye tebliğine ilişkin yazının Kurumdan gönderildiği tarihten itibaren üç aydan
+fazla süre geçmiş ve borçlanma sahibi ödeme yapmış ise öncelikle PTT ile yapılacak yazışma
+
+                                                                                             11 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA        Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                               Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                         Elektronik ağ : www.sgk.gov.tr
+sonucunda mektubun ilgiliye tebliğ tarihi sorulacak, PTT’nin bildirdiği tarihten sonraki üç
+aylık süre içerisinde yapılacak ödeme zamanında yapılmış sayılacaktır. Örneğin; 5/4/2010
+tarihinde Kurum tarafından ilgiliye borç tebliğ yazısı gönderilmiş, ilgili 10/7/2010 tarihinde
+tahakkuk ettirilen borç miktarını ödemiş ve PTT ile yapılan yazışmalarda mektubun ilgiliye
+tebliğ tarihinin 15/4/2010 olduğu belirlenmişse ödeme zamanında yapılmış sayılacaktır. Zira,
+ilgili PTT tarafından borç yazısının kendisine tebliğinden sonraki üç aylık süre içerisinde
+ödeme yapmıştır.
+
+c) PTT’nin tebliğ tarihini bildirememesi halinde, üç aylık sürenin başlangıcı, borcun tebliğine
+ilişkin mektubun tarihine 15 gün ilave edilmek suretiyle tespit edilecek ve bu tarihten itibaren
+üç aylık süre içerisinde yapılacak ödemeler geçerli sayılacak, bu şekilde tespit edilecek üç
+aylık sürenin dolduğu tarihten sonraki ödemeler ise geçersiz sayılacaktır. Örneğin; 5/4/2010
+tarihinde Kurum tarafından ilgiliye borç tebliğ yazısı gönderilmiş, ilgili 10/7/2010 tarihinde
+tahakkuk ettirilen borç miktarını ödemiş ve PTT ile yapılan yazışmalarda PTT tarafından
+mektubun ilgiliye tebliğ tarihi bildirilememişse, borcun tebliğine ilişkin mektubun tarihine 15
+gün ilave edileceğinden 10/7/2010 tarihinde yapılan ödeme süresinde ödenmiş sayılacaktır.
+
+5) Tebliğ mektubunun ilgililere teslim edilememesi nedeniyle Kuruma iade edilmesi halinde,
+adresin ilgilinin dosyası ve adrese dayalı kimlik paylaşım sisteminden doğru olup olmadığı ile
+ilgili yapılacak olan kontrol neticesinde;
+
+a) Tebliğ mektubuna yazılan adresin yanlış olduğu tespit edildiği takdirde, tahakkuk ettirilen
+borç iadeli taahhütlü olarak yeniden doğru adrese tebliğ edilecektir.
+
+b) Tebliğ mektubuna yazılan adresin doğru olduğu tespit edildiği takdirde, borcun ilgiliye
+tebliğine ilişkin yazının Kurumdan gönderildiği tarihten itibaren üç ay içerisinde ilgilinin
+müracaatı üzerine aynı borç yeniden tebliğ edilecek, yeniden müracaat üç aylık süreden sonra
+yapılmış ise önceki borçlanma işlemi geçersiz sayılacak yeni borç tahakkuku yeni talep
+tarihinde geçerli olan prime esas kazancın alt ve üst sınırları arasında seçilecek olan kazanç
+üzerinden gerçekleştirilecektir.
+
+6) 2147 sayılı Kanunun 4 üncü maddesine göre borçlanmak için Kuruma başvuranlardan,
+Kurumca hazırlanan borcun tebliğine ilişkin mektubun ilgiliye tebliğ tarihinin tespit
+edilememesi halinde, borcun ödeme süresinin başlangıcı, borcun tebliğine ilişkin mektubun
+tarihine 15 gün ilave edilmek suretiyle tespit edilecek ve bu tarihten itibaren 3 yıl içerisinde
+yapıldığı belirlenen ödemeler geçerli sayılacaktır. Örneğin; ilgiliye borcun tebliğine ilişkin
+mektup 10/1/1980 tarihinde Kurumca gönderilmiş ve mektubun ilgiliye tebliğ tarihi tespit
+edilememişse, borcun ödeme süresinin başlangıcı 25/1/1980 olarak kabul edilecektir. İlgili bu
+tarihten itibaren 3 yıl içerisinde, yani 25/1/1983 tarihine kadar ödeme yapmış ise borçlanma
+işlemi geçerli sayılacaktır.
+
+5. Borç miktarının ödenmesi
+
+Kanunun 4 üncü maddesinin birinci fıkrasında tahakkuk ettirilen borç tutarının tebliğ edildiği
+tarihten itibaren üç ay içerisinde ödeneceği, bu süre içerisinde ödeme yapmayanlar için
+yeniden başvuru şartı arandığı hüküm altına alınmıştır.
+
+Buna göre, borç miktarının ödenmesine ilişkin hususlar aşağıda açıklanmıştır:
+
+
+                                                                                           12 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+1) Tahakkuk ettirilen prim borcunun tamamının tebliğ tarihinden itibaren Türkiye’de
+ödenmesi halinde Türk Lirası cinsinden üç ay içinde ödenecektir. Örneğin; ilgiliye 12.000
+Türk Lirası borç tahakkuk ettirilmiş ve 10/1/2011 tarihinde bu borç tebliğ edilmiştir. Borcun
+tamamının 10/4/2011 tarihine kadar ödenmesi halinde süresinde ödenmiş sayılacaktır.
+
+2) Borçlarını yurt dışından ödeyecek olanlar, Türk Lirası olarak bildirilen tutarın karşılığını
+Türkiye Cumhuriyet Merkez Bankası tarafından konvertibl sayılan döviz cinsinden
+ödeyeceklerdir. Ödemeler, borcun ödeneceği tarihteki Türkiye Cumhuriyet Merkez Bankası
+döviz alış kuru üzerinden yapılacaktır.
+
+3) Üç aylık süre içinde ödeme yapmayanların borçlanma başvuruları geçersiz sayılacaktır.
+Bunların belgelendirilen yurtdışı hizmet sürelerinin yeniden borçlandırılarak
+değerlendirilmesi, bu konudaki yeni başvurularına bağlı olacaktır.
+
+4) Söz konusu üç aylık süre içerisinde borcun bir kısmının ödenmesi halinde, ödenen miktar
+ile orantılı süre geçerli sayılacak, kalan sürenin geçerli sayılması yeni bir borçlanma talebine
+bağlı olacaktır. Örneğin; 3600 günlük yurtdışı süresini 8/3/2010 tarihli dilekçesi ile prime esas
+kazancın alt sınırı üzerinden borçlanma talebinde bulunan ve tahakkuk eden (24,30 x 3600 x
+% 32) = 27.993,60 Türk Lirası tutarındaki borcun 25.000 Türk Lirasını süresinde ödeyen
+sigortalının ödediği miktarla orantılı bölümü 3600 x (25.000 / 27.993,60) = 3215 gün
+borçlanma için geçerli sayılacak, ödemesi yapılmayan 385 günün geçerli sayılması, yapılacak
+olan yeni başvuruya göre tahakkuk edecek borç miktarının Kuruma ödenmesine bağlı
+olacaktır.
+
+5) Üç aylık ödeme süresi dışında ödenen ve iade işlemi yapılmamış miktarlarla ilgili olarak
+borçlanma başvuru sahipleri bilgilendirilerek, emanet hesaba alınan miktarın yeni borçlanma
+taleplerine göre tahakkuk ettirilecek borçlarına karşılık mahsup edilebileceği bildirilecektir.
+Bu durumda olanlardan yeniden borçlanma talebinde bulunanların borçlanma işlemleri cari
+usullere göre sonuçlandırılacak ve Kurum hesabında bekleyen tutarlar tahakkuk ettirilecek
+borçlara mahsup edilecek, mahsup işleminin gerçekleştirildiği tarih borç ödeme tarihi olarak
+bilgisayar kayıtlarına işlenecek, varsa bakiye borcun üç aylık süre içinde ödenmesi talep
+edilecektir.
+
+6) Tebliğ tarihinden önce borçlanmaya karşılık yapılan ödeme miktarları, borçlanma talep
+tarihinden sonra ödenmiş olmak kaydıyla geçerli sayılacak ve borçlanma işlemi iptal
+edilmeyecektir.
+
+7) Tebliğ edilen borçlarını ödeyenlerden, borçlarını ödediklerine dair belgelerin asıllarının
+Kuruma gönderilmesi talep edilmeyecektir. Borçların ilgili Kurum hesabına ödendiğini
+gösterir belgelerin (tahsil fişi, makbuz, dekont vb.) asılları yerine, fotokopilerinin Kuruma
+gönderilmesi halinde ayrıca belge asıllarının ibrazı istenmeyecektir. Bu durumlarda,
+belgelerin doğruluğu ilgili bankalardan Kuruma gönderilen ekstrelerle kontrol edilerek
+sağlanacaktır.
+
+6. İsviçre prim transferine ait sürelerin borçlandırılması
+
+Türkiye’nin imzaladığı sosyal güvenlik sözleşmeleri arasında sadece Türkiye - İsviçre Sosyal
+Güvenlik Sözleşmesinde kesilen primlerin transferine ilişkin düzenlemelere yer verilmiştir.
+
+                                                                                           13 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+Buna göre, 1/1/1972 tarihli Türkiye - İsviçre Sosyal Güvenlik Sözleşmesini tadil eden ve
+1/6/1981 tarihinde yürürlüğe giren Ek Sözleşmenin (10/a) maddesinde Türk vatandaşlarının
+İsviçre'deki çalışmaları esnasında işçi ve işveren hissesi dahil olmak üzere yaşlılık ve ölüm
+sigortası primi olarak kesilen tutarın tamamının Kuruma transferine imkan veren
+düzenlemeye yer verilmiştir.
+
+Söz konusu sözleşmeye göre, İsviçre’de geçen çalışmalara karşılık kesilen yaşlılık ve ölüm
+sigortalarına ait primlerin transferi talebinde bulunulabilmesi için, İsviçre’den malullük,
+yaşlılık ve ölüm halinde bir yardım hakkından yararlanılmamış olması ve Türkiye'de veya
+üçüncü bir ülkede yerleşmek amacıyla İsviçre'nin kesin olarak terk edilmiş olması
+gerekmektedir.
+
+Diğer taraftan, Kanunun 10 uncu ve Yönetmeliğin 17 inci maddesine göre yabancı ülkelerde
+sosyal güvenlik kurumlarına yatırılmış ve Türkiye’ye transfer edilen prim tutarının, Kanuna
+göre borçlanılan yurtdışı süresine ait borçlanma miktarından fazla olması halinde, fazla miktar
+ilgililere iade edilmektedir.
+
+Buna göre, İsviçre’de kesilen ve Türkiye’ye transfer edilen primlere ait sürelerin
+borçlandırılmasına ilişkin usul ve esaslar aşağıda açıklanmıştır:
+
+1) Türkiye - İsviçre Sosyal Güvenlik Sözleşmesine göre İsviçre sosyal güvenlik kurumuna
+yatırılmış bulunan primlerin, ilgili banka hesabına aktarıldığının ilgili banka tarafından
+Kuruma bildirilmesini müteakip;
+
+a) Transfer edilen primlere ilişkin sürelerin tamamının, borçlanılarak tahakkuk ettirilen
+borcun tamamının ödenmiş olması halinde, transfer edilen primlerin tamamı,
+
+b) Transfer olunan primlere ilişkin sürelerin bir kısmının borçlanılarak tahakkuk ettirilen
+borcun tamamının ödenmiş olması halinde, transfer olunan primlerin borçlanılan gün sayısına
+isabet eden orandaki miktarı,
+
+transfer tarihindeki cari kur üzerinden Türk Lirası karşılığı olarak Kurumca sigortalıya, hak
+sahiplerine veya mirasçılarına iade edilecektir.
+
+2) Prim transferi neticesinde ülkemize İsviçre Frangı olarak aktarılan primlerin, Kurumumuz
+hesabına Türk Lirası olarak geçtiği tarihteki kur üzerinden tahakkuk ettirilen yurtdışı
+sigortalılık sürelerine ait borçlarına mahsup edilecektir. Mahsup sonunda transfer edilen
+miktarın borçlanma miktarını karşılamaması halinde, ilgiliye transfer edilen miktara ait
+hizmetin kazandıracağı haklar ile bu hizmetin ayrıca Kanuna göre borçlanılmasının
+kazandıracağı haklar bildirilecektir. İlgilinin tercihini transfer edilen hizmetin
+değerlendirilmesi yönünde kullanması halinde, borçlanma işlemi durdurulacak; tercihin
+borçlanma işleminin sonuçlandırılması yönünde kullanılması halinde ise tahakkuk ettirilen
+borç miktarı ile transfer miktarı arasındaki farkın Kanuna göre ödenmesi talep edilecektir.
+
+7. Borçlanmadan vazgeçme ve borçlanma miktarının iadesi
+
+Kanunun 4 üncü maddesinin ikinci fıkrasında ve Yönetmeliğin 11 inci maddesinde
+borçlanmadan vazgeçilmesi ve borçlanma miktarının iadesi ile ilgili olarak yapılan
+düzenlemelere ilişkin usul ve esaslar aşağıda açıklanmıştır.
+
+                                                                                          14 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+1) Borçlanma başvurusunda bulunup borcu tebliğ edilmeden ya da tebliğ edildikten sonra üç
+aylık süre içinde borçlanma başvurusundan vazgeçtiklerini yazılı olarak bildirenlerin
+borçlanma başvuruları geçersiz sayılacaktır.
+
+2) Tahakkuk ettirilen borcun tamamını veya bir kısmını ödeyenlerden henüz kendilerine
+bağlanan aylıkları almaya başlamadan borçlanmalarının iptal edilmesi için yazılı başvuruda
+bulunanların ödedikleri borçlanma tutarının tamamı, faiz uygulanmaksızın Türk Lirası olarak
+iade edilecektir. Bu durumda kısmi iade yapılmayacak, diğer bir ifadeyle, borçlanmanın bir
+kısmı iptal edilerek, bir kısmı geçerli sayılmayacaktır. Ancak, farklı tarihlerde birden fazla
+borçlanma yapılmış ise talep sahibinin yapmış olduğu borçlanmalardan bir ya da birkaçından
+vazgeçme hakkı saklıdır.
+
+3) Borçlandıkları hizmetleri ile malullük ve yaşlılık aylığı bağlanmasına hak kazanamayan
+sigortalılara yazılı başvuruları halinde, ödenen borçlanma miktarının tamamı faiz
+uygulanmaksızın Türk Lirası olarak iade edilecektir.
+
+4) Borçlandıkları hizmetler dikkate alınarak aylık almakta olanlar, borçlanma başvurusu ve
+buna bağlı olarak yapılan borçlanmadan vazgeçemeyeceklerinden, bunların ödedikleri
+borçlanma tutarı iade edilmeyecektir.
+
+8. Borçlanma sürelerinin değerlendirilmesi
+
+Borçlandırılan yurtdışı sürelerin; sigortalılık süresinde, sigortalılık başlangıcında, prim ödeme
+gün sayısında, aylığın hesabına esas yıllık kazançların tespitinde ve basamak intibakında
+değerlendirilmesine ilişkin usul ve esaslar aşağıda açıklanmıştır.
+
+8.1. Sigortalılık süresi ve toplam prim ödeme gün sayısının tespitinde
+
+Kanunun 5 inci maddesinin ikinci fıkrasında, sigortalılığın başlangıç tarihinden önceki süreler
+borçlanılmış ise sigortalılığın başlangıç tarihi borçlanılan gün sayısı kadar geriye götürülerek
+bulunan tarihin; üçüncü fıkrasında ise sosyal güvenlik kuruluşlarına tabi hizmeti bulunmayan
+istek sahiplerinin sigortalılıklarının başlangıç tarihinin borçlarını tamamen ödedikleri tarihten
+borçlanılan gün sayısı kadar geriye götürülerek tespit edilen tarihin sigortalılık süresinin
+başlangıç tarihi olarak alınacağı öngörülmüştür.
+
+Buna göre, borçlanılan süreler ve bu sürelere ait gün sayıları aşağıda açıklanan usul ve esaslar
+çerçevesinde değerlendirilecektir.
+
+1) Borçlandırılan yurtdışı süreleri ve bu sürelere ait prim ödeme gün sayıları Türkiye’de
+geçmiş bir hizmet olarak değerlendirilecek ve buna bağlı olarak ülkemizde sosyal güvenlik
+kanunlarına tabi hizmetleri olanların borçlandıkları gün sayısı, Türkiye’deki prim ödeme
+gün sayıları veya hizmetlerine eklenecektir.
+
+2) Sigortalılığın başlangıç tarihinden önceki süreler borçlanılmış ise sigortalılığın başlangıç
+tarihi borçlanılan gün sayısı kadar geriye götürülecektir. Türkiye’de sosyal güvenlik
+kuruluşlarına tabi hizmeti bulunmayan istek sahiplerinin sigortalılıklarının başlangıç tarihi de,
+borçlarını tamamen ödedikleri tarihten borçlanılan gün sayısı kadar geriye götürülmek
+suretiyle tespit edilecektir.
+
+
+                                                                                           15 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+Örnek 1- Türkiye’de 506 sayılı Kanun kapsamında 10/2/1995-30/6/1995 tarihleri arasında
+sigortalı olan ve yurtdışında 1/1/1979-1/1/1994 tarihleri arasında geçen 15 yıllık süreyi
+Kanuna göre borçlanan ve bu süreleri 5510 sayılı Kanunun 4 üncü maddesin birinci fıkrasının
+(a) bendi kapsamında değerlendirilen bir kadın sigortalının 506 sayılı Kanunun geçici 81 inci
+maddesinin birinci fıkrasının (A) bendine göre (15 yıllık sigortalılık süresi, 3600 gün prim
+ödeme ve 50 yaş) yaşlılık aylığına hak kazanma şartlarını yerine getirip getirmediğinin
+tespitinde, sigortalılık süresinin başlangıç tarihi, 10/2/1995 tarihi 15 yıl geriye götürülerek
+10/2/1980 olarak belirlenecektir.
+
+Örnek 2- Türkiye’de sigortalılığı bulunmayan 18/6/1963 doğum tarihli bir erkek sigortalı,
+yurtdışında geçen 1/1/1985-1/1/2010 tarihleri arasındaki 25 yıllık (9000 gün) sigortalılık
+süresini borçlanarak adına tahakkuk eden borç tutarını 3/6/2011 tarihinde ödemiş ve bu
+süreler 5510 sayılı Kanunun 4 üncü maddesin birinci fıkrasının (b) bendi kapsamında
+değerlendirilmiştir. Bu sigortalının sigortalılık süresinin başlangıç tarihi, borçlandığı süre
+borcun ödendiği tarihten geriye götürülerek 3/6/1986 olarak tespit edilecektir. 3/6/1986 ile
+1/6/2002 tarihleri arasında 15 yıl, 11 ay, 28 gün sigortalılık süresi bulunan, diğer bir deyimle
+emekliliğine 9 yıl, 2 günü kalan bu sigortalı, 1479 sayılı Kanunun geçici 10 uncu maddesinin
+ikinci fıkrasının (f) bendine göre 49 yaşını dolduracağı 18/6/2012 tarihinde emekliliğe hak
+kazanacaktır.
+
+3) Birden fazla yurtdışı hizmet borçlanması yapılması durumunda, borçlanılan toplam gün
+sayısı esas alınarak, yukarıdaki 3 üncü maddede belirtilen tarihlerden geriye götürülmek
+suretiyle sigortalılık süresinin başlangıcı belirlenecektir.
+
+4) (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+5) (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+6) Yurtdışı borçlanmasından sonra malullük aylığı bağlanması talebinde bulunan sigortalıların
+Kurum sağlık kurullarınca 5510 sayılı Kanunun 25 inci maddesine göre ilk defa çalışmaya
+başladığı tarihte malullük durumu incelenirken;
+
+a) Türkiye'de çalışması bulunmayanların sigortalılık süresinin başlangıç tarihi borcun en son
+ödendiği tarihten borçlanılan toplam gün sayısı kadar geriye götürülerek belirlenen,
+
+b) Türkiye'de çalışması bulunanlardan Türkiye'deki sigortalılığın başlangıç tarihinden önceki
+süreler borçlanılmış ise sigortalılığın başlangıç tarihi borçlanılan gün sayısı kadar geriye
+götürülerek bulunan,
+
+tarih, ülkemizde ilk işe giriş tarihi olarak kabul edilecek ve maluliyete esas tıbbi belgelerin
+sağlık kurullarına gönderilmesi sırasında ilk işe giriş tarihi olarak bildirilecektir.
+
+7) (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+
+8) (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden itibaren mülga)
+8.2. Yıllık kazançların tespitinde
+
+5510 sayılı Kanunun 4 maddesinin birinci fıkrasının (a) bendi kapsamında olup, hem
+8/5/2008 tarihinden önceki, hem de bu tarihten sonraki süreleri borçlananlar ile (b) bendi
+
+                                                                                           16 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+kapsamında olup 8/5/2008 tarihinden sonraki süreleri borçlananlar hakkında Kanunun 41 inci
+maddenin beşinci fıkrasına göre işlem yapılacaktır.
+
+İkinci paragraf (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden
+itibaren mülga)
+Yurtdışı sürelerin borçlanılmasında prime esas kazancın borçlanılan sigortalılık süresine ait
+yıllara mal edilmesine esas oran; 5510 sayılı Kanunun 41 inci maddesinin beşinci fıkrasına
+göre borçlanmaya esas bir gün için tercih edilen günlük prime esas kazanç tutarının, borcun
+ödendiği tarihteki günlük prime esas kazanç alt sınırına bölünmesi ile tespit edilecektir. Diğer
+bir anlatımla, söz konusu oran (Borçlanma Miktarının Tespiti İçin Seçilen Günlük Prime Esas
+Kazanç / Borcun Ödendiği Tarihteki Günlük Prime Esas Kazancın Alt Sınırı) formülü
+kullanılarak belirlenecektir. Bu şekilde bulunan rakamın virgülden sonraki dört hanesi, ilgili
+yılların prime esas kazançlarının tespitinde esas alınacaktır. Virgülden sonraki beşinci rakam
+5 ve 5’in üstünde ise dördüncü rakam bir üste yuvarlanacak, 5’in altında ise dördüncü rakam
+aynen alınacaktır.
+
+Farklı tarihlerde birden fazla yurtdışı borçlanması yapılmışsa, yurtdışı sürelerinin
+borçlanılmasında prime esas kazancın borçlanılan sigortalılık süresine ait yıllara mal
+edilmesine esas oran, her bir borçlanma için ayrı ayrı tespit edilecektir. Ayrıca, yapılan bir
+yurtdışı borçlanması için farklı tarihlerde ödeme yapılmışsa en son ödeme tarihi esas alınarak
+tek bir oran belirlenecektir.
+
+Yukarıdaki şekilde belirlenen oran dikkate alınarak, borçlanılan yıllara ait prime esas
+kazançlar “Borçlanılan Süreye Ait Prime Esas Günlük Kazancın Alt Sınırı x Oran x
+Borçlanılan Gün Sayısı” formülü ile hesaplanacaktır. Borçlanılan yıl tam yıldan az ise o yıla
+ait asgari prime esas kazanç, yıl içerisindeki toplam günün karşılığı olan asgari prime esas
+kazancın oranla çarpılması sonucu tespit edilecektir.
+
+Yukarıdaki şekilde bulunan miktar ilgili sürenin prime esas kazancı kabul edilecek, ancak
+hesaplanan prime esas kazanç hiçbir suretle o sürenin prime esas kazanç alt sınırının altında
+kalmayacak ve üst sınırı da geçmeyecektir. Bu nedenle, borçlanma miktarının günlük prime
+esas kazancın alt sınırı üzerinden belirleneceği durumlarda, prime esas aylık hesabına giren
+takvim yıllarına ait prime esas kazançların hesabında kullanılacak olan ve hesaplama şekli
+yukarıdaki formülde gösterilen “Oran”ın “1” in altında kalması halinde, bu oran “1” olarak
+uygulanacaktır.
+
+Örnek 1- Sigortalı 16/6/2008 tarihli dilekçesi ile Almanya’da 1/1/1990 – 31/12/1990 tarihleri
+arasında geçen sigortalılık süresini günlük prime esas kazancın alt sınırı üzerinden borçlanmış
+ve borçlanma bedeli 20,28 X % 32 X 3600 = 23.364,00 Türk Lirasını 18/7/2008 tarihinde
+ödemiştir. 1990 yılına ait prime esas kazancın tespitine esas oran, borcun ödendiği tarihteki
+bir günlük prime esas kazancın alt sınırı 21,29 Türk Lirası olduğu dikkate alınarak (20,28 /
+21,29) = 0,9526 olur. Ancak, aylıkların hesabında esas alınacak prime esas kazançlar
+yürürlükteki prime esas kazancın altında olamayacağından bu oran “1” olarak alınacaktır.
+1990 yılının ilk yarısındaki prime esas kazancın günlük alt sınırı 5.950,00 Türk Lirası, ikinci
+yarısında 7.467,00 Türk Lirası olduğuna göre bu yılın prime esas kazancı (5.950x1x180) +
+(7.467x1x180) = 2.415.060 Türk Lirası olarak tespit edilecektir.
+
+Örnek 2- 13/7/2009 tarihli dilekçesi ile Almanya’da 15/4/1992 – 31/12/2005 tarihleri
+arasında geçen sigortalılık süresini 30,00 Türk Lirası prime esas kazanç üzerinden borçlanan
+
+                                                                                           17 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+ve 20/7/2009 tarihinde tebliğ edilen borçlanma tutarını 10/8/2009 tarihinde ödeyen
+sigortalının borçlandığı süredeki takvim yıllarına ait prime esas kazançlarının hesabında;
+seçilen bir günlük prime esas kazancın borcun ödendiği tarihteki prime esas günlük kazancın
+alt sınırına bölünmesi (30,00 / 23,10) ile bulunan oran 1,2987 kullanılacaktır. 1992 yılına ait
+prime esas kazancın hesabında yıl içinde prime esas günlük kazancın alt sınırında meydana
+gelen değişiklikler ile borçlanılan süreye ait gün sayısı dikkate alınarak (19.805 x 1,2987 x
+75) + (24.652 x 1,2987 x 180) = 7.691.855,85 Türk Lirası olarak hesaplanacaktır. Takip eden
+yılların prime esas kazançları da aynı yöntemle belirlenecektir.
+
+8.3. Basamak intibakında
+
+1/10/2008 tarihinde yürürlüğe giren 5510 sayılı Kanunla bu Kanunun 4 üncü maddesinin
+birinci fıkrasının (b) bendi kapsamındaki sigortalılar için primlerin alınması ve aylıkların
+bağlanmasında geçerli olan basamak sisteminden vazgeçilerek, 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılarda olduğu gibi, borçlanma
+bedellerinin prime esas kazanç sistemi içinde belirleneceği esası getirilmiştir.
+
+Ayrıca, 5754 sayılı Kanunla değişik 5510 sayılı Kanunun geçici 7 nci maddesinin dördüncü
+fıkrası ile; aylıkların hesabında, 1/10/2008 tarihinden sonra Kanuna göre yapılacak yurtdışı
+borçlanma taleplerinde bu tarihten önceki sürelere ait kazançların yürürlükten kaldırılan ilgili
+Kanun hükümlerine göre değerlendirileceği hükmü getirilmek suretiyle 5510 sayılı Kanunun
+4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılar için 1/10/2008
+tarihinden önceki borçlandırılan sürelerin basamak intibakında değerlendirilmesine devam
+edileceği öngörülmüştür.
+
+Bu kez, 13/2/2011 tarihli ve 6111 sayılı Kanunun 48 inci maddesi ile 5510 sayılı Kanunun
+geçici 7 nci maddesinin dördüncü fıkrasına eklenen cümle ile 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında değerlendirilen 1/10/2008 tarihinden
+önceki yurtdışı borçlanma sürelerine göre tespit edilen basamakların, 2008 yılı Eylül ayında
+yürürlükte bulunan gelir tablosunda, 5510 sayılı Kanunun 41 inci maddesinin beşinci fıkrası
+hükmüne göre belirlenen prime esas aylık kazanca yakın gelire karşılık gelen basamağı
+geçemez kuralı getirilmiştir. Söz konusu düzenleme, 25/2/2011 tarihinden geçerli olmak üzere
+yürürlüğe girmiştir.
+
+Dördüncü paragraf (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 1/8/2019 tarihinden
+itibaren mülga)
+
+Yukarıda açıklanan yeni yasal düzenleme de dahil olmak üzere 3201 ve 5510 sayılı kanunlar
+ile 5510 sayılı Kanunla mülga 1479, 2829 ve 2926 sayılı kanunların basamak intibakı ve/veya
+aylıkların hesabına ilişkin hükümleri birlikte değerlendirildiğinde, 5510 sayılı Kanunun 4
+üncü maddesinin birinci fıkrasının (b) bendi kapsamında kabul edilen yurtdışı çalışma, işsizlik
+ve/veya ev kadını olarak geçen sürelere ait borçlanma tutarını 25/2/2011 tarihinden sonra
+ödeyenlerin basamak intibakı aşağıda açıklanan usul ve esaslar dahilinde yapılacaktır.
+
+1) Türkiye’de sigortalılığı bulunmadığı için 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamında kabul edilen 1/10/2008 tarihinden önceki yurtdışı çalışma,
+işsizlik ve/veya ev kadını olarak geçen borçlanma süreleri, 1479 sayılı Kanunun 52 nci
+maddesinin birinci fıkrasına göre, borçlanılan sürenin başlangıç tarihini takip eden aybaşından
+itibaren Ek: 9’da yer alan ve son olarak 30/9/2008 tarihinde yürürlükte bulunan 2008 Yılı
+
+                                                                                           18 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+İkinci Altı Aylık Dönem Gelir Tablosu’nun birinci basamağından başlamak üzere 13 üncü
+(hariç) basamağa kadar her yıla bir basamak, 13 üncü (dahil) basamaktan sonra da her iki yıla
+bir basamak verilmek suretiyle intibak yapılacaktır.
+
+2) 6111 sayılı Kanunun 48 inci maddesiyle 5510 sayılı Kanunun geçici 7 nci maddesinin
+dördüncü fıkrasına eklenen hüküm ve 5510 sayılı Kanunun 41 inci maddesinin beşinci
+fıkrasına göre, 2008 Yılı İkinci Altı Aylık Dönemi Gelir Tablosu’ndan belirlenecek olan
+basamağın tespitine esas aylık gelir miktarı; 30/9/2008 Tarihindeki Günlük Prime Esas
+Kazancın Alt Sınırı X (Borçlanma Miktarının Tespiti İçin Seçilen Günlük Prime Esas Kazanç
+/ Borcun Ödendiği Tarihteki Günlük Prime Esas Kazancın Alt Sınırı) x 30 formülü
+uygulanarak tespit edilecektir.
+
+3) Mülga 1479 sayılı Kanunun 1/10/2008 tarihinden önceki uygulamasında mülga 506 sayılı
+Kanunun öngördüğü anlamda prime esas kazanç alt sınır uygulaması bulunmadığından,
+yukarıdaki 2 nci maddede belirtilen (Borçlanma Miktarının Tespiti İçin Seçilen Günlük Prime
+Esas Kazanç / Borcun Ödendiği Tarihteki Günlük Prime Esas Kazancın Alt Sınırı) işlem
+sonunda bulunacak oranın “1”in altında tespiti halinde bu oran “1”e yükseltilmeden aynen
+alınacaktır.
+
+4) Sigortalılık süresine göre belirlenen basamaklar, borçlanma miktarının hesabına esas aylık
+gelir miktarına göre belirlenen basamağı geçemeyecektir.
+
+5) Mülga 1479 sayılı Kanuna tabi hizmeti bulunan ve bu hizmetlerden sonraki 30/9/2008
+tarihine kadar olan yurtdışı hizmet sürelerini Kanuna göre borçlanan sigortalıların, ayrıldıkları
+son basamak üzerinden borçlandıkları süreler kadar Kanunun 5754 sayılı Kanunla yürürlükten
+kaldırılan 11 inci maddesine göre yukarıda yapılan açıklamalar çerçevesinde basamak intibakı
+yapılacaktır.
+
+6) Aylık bağlanmasına yeterli borçlanma hizmeti bulunmayıp daha sonraki bir tarihte
+yurtdışındaki sürelerini borçlanan sigortalıların tüm yurtdışı borçlanmalarına ait süreler
+birleştirilerek ilk borçlanmaya ait yurtdışı süresinin başlangıç tarihi ilk işe giriş tarihi olarak
+kabul edilecek, 1 inci gelir basamağı üzerinden ilk borçlanma süresi kadar, daha sonra yaptığı
+borçlanmalar ilk borçlanmaya ait intibakın son basamağı üzerinden daha sonraki borçlanma
+süreleri kadar, yukarıda açıklanan usul ve esaslar dahilinde basamak intibakında
+değerlendirilecektir.
+
+7) Türkiye’de 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamındaki sigortalılıktan önce geçen yurtdışı sürelerinin, bu kapsamdaki sigortalılık
+devam ederken ya da sona erdikten sonra borçlandırılması halinde, borçlandırılan yurtdışı
+süreleri için basamak intibakı yapılmayacak, bu süreler sadece aylık bağlama şartlarının
+belirlenmesinde hizmet yılı ve prim ödeme gün sayısı olarak değerlendirilecektir.
+
+8) 1/10/2008 tarihinden önce 2926 sayılı Kanun kapsamında sigortalı olup, yurtdışı sürelerini
+bu tarihten sonra borçlanmak suretiyle aylık bağlanacak olanların bu tarihten önceki basamak
+intibakına ilişkin işlemleri, 1479 sayılı Kanun kapsamındaki sigortalılarda olduğu gibi
+yukarıda yapılan açıklamalar doğrultusunda sonuçlandırılacaktır.
+
+Örnek 1- İlk defa 14/12/2010 tarihli dilekçesi ile ABD’deki 5/1/1995-12/12/2010 tarihleri
+arasında geçen sigortalılık süresini 25,35 Türk Lirası prime esas kazancın alt sınırı üzerinden
+
+                                                                                            19 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA       Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                              Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                        Elektronik ağ : www.sgk.gov.tr
+borçlanmış ve 20/1/2011 tarihinde tebliğ edilen borçlanma tutarını 10/3/2011 tarihinde
+ödemiştir.
+
+Sigortalının borçlandığı sürenin başlangıcını takip eden aybaşı olan 1/2/1995 tarihinden
+başlamak üzere 13 üncü basamağa kadar her yıla bir basamak, bu basamaktan sonra da her
+iki yıla bir basamak verilmek suretiyle 1/2/2008 tarihindeki basamak 13 olarak bulunacaktır.
+Daha sonra, yükselebileceği en yüksek basamağın tespitine esas oran 25,35 / 26,55 = 0,9548
+olarak belirlenecektir. Buna göre, 30/9/2008 tarihinde geçerli olan prime esas günlük kazanç
+alt sınırının (21,29 Türk Lirası) 30 katının bu oranla çarpımı sonucunda bulunan (21,29 x 30 x
+0,9548) = 609,83 rakamı, 2008 Yılı İkinci Altı Aylık Dönem Gelir Tablosunda en yakın aylık
+gelirin karşılığı basamak (7) sigortalının yükselebileceği en yüksek basamak olacaktır. Bu
+durumda, 1/1/2000 - 30/9/2008 tarihleri arasında sigortalının basamağı (7) olarak alınacaktır.
+
+Örnek 2- İlk defa 15/2/2010 tarihli dilekçesi ile ABD’deki 27/1/1990- 22/1/2010 tarihleri
+arasında geçen sigortalılık süresini 35,00 Türk Lirası prime esas kazancın alt sınırı üzerinden
+borçlanmış ve 20/2/2011 tarihinde tebliğ edilen borçlanma tutarını 10/3/2011 tarihinde
+ödemiştir.
+
+Sigortalının borçlandığı sürenin başlangıcını takip eden aybaşı olan 1/2/1990 tarihinden
+başlamak üzere 13 üncü basamağa kadar her yıla bir basamak, bu basamaktan sonra da her
+iki yıla bir basamak verilmek suretiyle 1/2/2007 - 30/9/2008 tarihleri arasındaki basamak 16
+olarak bulunacaktır. Daha sonra, yükselebileceği en yüksek basamağın tespitine esas oran
+30,00 / 26,55 = 1,1299 olarak belirlenecektir. Buna göre, 30/9/2008 tarihinde geçerli olan
+prime esas günlük kazanç alt sınırının (21,29 Türk Lirası) bu oranla çarpımının 30 katı olan
+(21,29 x 1,1299 x 30) = 721,67 rakamı, 2008 Yılı İkinci Altı Aylık Dönem Gelir Tablosu’nda
+en yakın aylık gelirin karşılığı basamak (11) sigortalının yükselebileceği en yüksek basamak
+olacaktır. Bu durumda, sigortalının 1/1/2000 - 30/9/2008 tarihleri arasındaki basamağı (11)
+olarak alınacaktır.
+
+
+                                       Üçüncü Bölüm
+                                  TAHSİS İŞLEMLERİ
+   (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 6/11/2018 tarihinden itibaren mülga)
+
+
+
+                                   Dördüncü Bölüm
+                              ORTAK VE DİĞER İŞLEMLER
+
+1. Aylıkların başlangıcı
+
+Kanuna göre yurtdışında geçen süreleri borçlananlara bağlanacak malullük ve yaşlılık
+aylıklarının başlangıcı, ilgili sigortalılık statüsünün öngördüğü esaslara göre belirlenecektir.
+
+Bu bağlamda, yurtiçi sigortalılıklarına bağlı olarak yaşlılık aylığına hak kazananların işten
+ayrılma tarihi, tahsis talep tarihinden sonraki bir tarih olsa bile, her iki tarihin aynı takvim ayı
+içinde olması koşulu ile yaşlılık aylığının, bu tarihleri izleyen ay başından geçerli olmak üzere
+başlatılmasına ilişkin uygulama, yurtdışı borçlanması ile 5510 sayılı Kanunun 4 üncü
+
+
+                                                                                             20 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA        Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                               Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                         Elektronik ağ : www.sgk.gov.tr
+maddesinin birinci fıkrasının (a) bendi kapsamında öngörülen şartlarla yaşlılık aylığına hak
+kazananlar için de geçerli olacaktır.
+
+Buna göre, yurtdışında çalıştıkları işten ayrıldıkları, ikamete dayalı bir sosyal sigorta yada
+sosyal yardım ödeneklerinin sona erdiği ay içinde yaşlılık aylığı talebinde bulunan
+sigortalıların tahsis taleplerinin de, işten ayrıldıkları, ikamete dayalı bir sosyal sigorta yada
+sosyal yardım ödeneklerinin sona erdiği tarihten önce yapılmış olsa bile, başvuruları
+reddedilmeyerek, tahsis talep tarihini takip eden aybaşından itibaren yaşlılık aylıkları
+bağlanacaktır.
+
+2. Hak sahiplerin borçlanma ve aylık bağlama işlemleri
+
+Ölen sigortalının hak sahipleri tarafından yapılan borçlanma başvurularında hak sahibinin
+borçlanma talep tarihinde Türk vatandaşı olması yeterli olup, ayrıca borçlanılmak istenilen
+sigortalıya ait yurtdışı sürelerinde Türk vatandaşı olma şartı aranmayacaktır. Ancak söz
+konusu sürelerde ölen sigortalının Türk vatandaşı olması, borçlanma için zorunludur.
+
+Türkiye’de hizmeti bulunmayan sigortalıların hak sahipleri, ölenin yurtdışındaki hizmetleri
+aylık bağlanmasına yeterli ise öncelikle bu hizmetlerini Kanunun öngördüğü şartlarla
+borçlanacaklardır. Hak sahipleri aylığa yetecek gün sayısı kadar borçlanabilecekleri gibi
+ölenin yurtdışında geçen hizmetlerinin tamamını da borçlanabileceklerdir.
+
+Türkiye’de hizmeti bulunmayan sigortalıların hak sahipleri, ölenin yurtdışında geçen
+hizmetlerinin tamamını borçlandıkları halde, bu hizmetler aylık bağlanması için yeterli
+olmadığı takdirde, ölenin varsa 5510 sayılı Kanunun 41 nci madde kapsamında yer alan
+sürelerinin tamamını ya da aylık almaya hak kazanmaya yetecek kadarını
+borçlanabileceklerdir.
+
+Sosyal güvenlik sözleşmesi imzalanmamış ülkeler ile Türkiye’de hizmeti bulunan ve ölenin
+varsa 5510 sayılı Kanunun 41 nci maddesi kapsamında yer alan süreleri ile birlikte aylık
+bağlanmasına hak kazanan hak sahipleri, bu süreleri borçlanabilecekler, bunlardan ölenin
+yurtdışında geçen hizmetlerini borçlanmaları istenilmeyecektir. Almanya’dan prim iadesi
+alanların hak sahipleri hakkında da benzer uygulama yapılacaktır.
+
+Borçlandıkları hizmetleri ile ölüm aylığı bağlanamayan hak sahiplerine yazılı başvuruları
+halinde, ödenen borçlanma miktarının tamamı faiz uygulanmaksızın Türk Lirası olarak iade
+edilecektir.
+
+Hak sahiplerine borçlandıkları yurtdışı sürelerine istinaden aylık bağlanabilmesi için;
+tahakkuk ettirilen borcun tamamının ödenmiş olması, 5510 sayılı Kanunla mülga kanunların
+yürürlükteki hükümlerine veya sosyal güvenlik kanunlarına göre aylığa hak kazanılmış olması
+ve Kuruma yazılı başvuruda bulunulması şartları aranacaktır.
+
+Kanunda, hak sahiplerine aylık bağlanabilmesi için yurda “kesin dönüş” zorunluluğunun
+gerektiğine dair herhangi bir hüküm bulunmamaktadır. Bu nedenle, hak sahiplerine
+borçlandıkları sürelere istinaden aylık bağlanmasında; kesin dönüş, yani yurtdışındaki
+sigortalı işinden ayrılma, ikamete dayalı sigorta ya da sosyal yardımın sona erme şartı
+aranmayacak, ancak, Türkiye’de haklarında uygulanacak olan sosyal sigorta mevzuatının
+öngördüğü şartlar aranacaktır. Bu durumda, hak sahiplerinin sadece Sosyal Sigorta İşlemleri
+
+                                                                                           21 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+Yönetmeliğinde öngörülen “Tahsis Talep ve Beyan Taahhüt Belgesi” ile Kuruma
+başvurmaları yeterli olacak, bunlardan ayrıca “3201 sayılı Kanuna Göre Aylık Talebinde
+Bulunanlara Mahsus Beyan ve Taahhüt Belgesi” istenmeyecektir.
+
+5754 sayılı Kanunun 20 nci maddesi ile değişik 5510 sayılı Kanunun 32 nci maddesinin
+birinci fıkrasının (a) bendine göre, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı sayılan ve 2008 yılı Ekim ayı başından sonra ölenlerin hak sahiplerince
+Kanuna göre borçlanarak 900 gün malullük, yaşlılık ve ölüm sigortaları primi ödeme şartının
+yerine getirilmesi ile aylık bağlanmasına imkân bulunmamaktadır. Ancak, bunlar, anılan
+Kanunun 32 nci maddesinin birinci fıkrasının (a) bendinde belirtilen en az 1800 gün prim
+ödeme şartını yurtdışı hizmet borçlanması ile tamamlayarak, ölüm aylığına hak
+kazanabileceklerdir. Aynı şekilde hak sahiplerine bağlanan kısmi aylıkların tama
+çıkartılmasında da 1800 gün prim ödeme şartı aranacaktır. Ancak, 506 sayılı Kanunda
+öngörülen 5561 sayılı Kanun gereğince 2008 yılı Ekim ayı başından önce ölen sigortalının
+hak sahiplerine aylık bağlanmasında ve kısmi aylıkların tama çıkartılmasında 5 yıllık
+sigortalılık süresi içinde 900 gün prim ödeme gün şartının yerine getirilmesi yeterli olacaktır.
+
+Borçlandıkları yurtdışı süreler dikkate alınarak kısmi aylıkları tam aylığa yükseltilen hak
+sahipleri, ölenin askerlik hizmetini borçlanmaları halinde akit ülkeden ölüm aylığına hak
+kazanıyor iseler bunların talepleri halinde askerlik hizmetleri borçlandırılacaktır. Bu şekilde
+borçlandırılan askerlik süresi sadece sosyal güvenlik sözleşmeleri kapsamında ilgili akit
+ülkeye hizmet olarak bildirilecek, almakta oldukları aylıkların yükseltilmesinde
+değerlendirilmeyecektir.
+
+Ölen sigortalının yurtdışında geçen sürelerini Kanuna göre borçlanan hak sahiplerinin
+aylıkları, borcun tamamını ödedikten sonra yapacakları yazılı tahsis taleplerini takip eden
+aybaşından itibaren başlatılacaktır.
+
+5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki ölen
+sigortalıların hak sahiplerine Almanya dahil olmak üzere tüm sosyal güvenlik sözleşmelerine
+göre bağlanan kısmi aylıkların tam aylığa yükseltilmesine ait işlemlerin, SSGM Yurtdışı
+Borçlanma ve Tahsis İşlemleri Daire Başkanlığınca yürütülmesine devam edilecektir.
+
+Yurtdışı hizmetlerini borçlanarak aylık bağlanan hak sahiplerinin, sosyal güvenlik
+kanunlarına göre aylık alma şartlarının devam edip etmediğinin tespitinde “Sosyal Sigorta
+İşlemleri Yönetmeliği”nde yer alan yoklama işlemleri ile ilgili hükümler uygulanacaktır.
+
+Hak sahiplerine mülga 506 ve 1479 sayılı kanunlara göre bağlanan ölüm aylıklarının durum
+değişikliği nedeniyle artırılması, azaltılması, kesilmesi ve yeniden bağlanmasında, 5510 sayılı
+Kanunla yürürlükten kaldırılan ilgili kanun hükümleri, 5510 sayılı Kanuna göre bağlanan
+ölüm aylıklarının durum değişikliği nedeniyle artırılması, azaltılması, kesilmesi ve yeniden
+bağlanmasında ise 5510 sayılı Kanunun ilgili hükümleri uygulanacaktır.
+
+Aksine hüküm bulunmayan hallerde, ölen sigortalıların yurt dışında geçen sürelerinin hak
+sahiplerince borçlandırılması ve bu sürelere göre hak sahiplerine aylık bağlanmasına ilişkin
+diğer usul ve esaslar, Genelgenin ilgili bölümlerinde yer alan açıklamalar dahilinde
+sonuçlandırılacaktır.
+
+
+
+
+                                                                                           22 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA      Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                             Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                       Elektronik ağ : www.sgk.gov.tr
+3. Farklı sigortalılık statüsünde borçlandırılan yurtdışı süreleri
+Kanunun 8/5/2008 tarihinden önceki ve sonraki hükümlerine göre borçlandırılan sürelerin
+farklı uygulamaya tabi tutulmasının eşitlik prensibine aykırı düşeceği, iptal edilen borçlanma
+süresine bağlı olarak aylığın da iptal edilmesi ve yersiz yapılan ödemelerin geri alınmasının
+şikayet ve sızlanmalara yol açacağı, ayrıca 5754 sayılı Kanunla 3201 sayılı Kanunda yapılan
+değişiklik ile ev kadınlığında geçen süreler dahil olmak üzere 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (a), (b) ve (c) bentleri kapsamındaki sigortalıların yurtdışı
+sürelerinin borçlandırılmasındaki farklılıkların önemli ölçüde giderildiği hususları dikkate
+alındığında, söz konusu uygulamanın aşağıda açıklanan şekilde değiştirilmesi uygun
+görülmüştür.
+1) Yurtdışı borçlanma işlemlerinin genel kuralın aksine sehven farklı sigortalılık haline göre
+sonuçlandırıldığının tespiti halinde, borçlanma işlemi iptal edilmeyecek, borçlanılan sürelerin
+olması gereken sigortalılık statüsüne aktarılması sağlanacaktır.
+
+2) Eski borçlanma işlemi, borçlanmanın yapıldığı bilgisayar programından silinerek, aynı
+talep tarihi itibariyle diğer statüye mal edilmek üzere borçlanma işlemi yeniden tesis
+edilecektir.
+
+3) Statü değişikliği nedeniyle borçlanma miktarının eksik tahsil edildiğinin tespiti halinde,
+ödenen borçlanma miktarı olması gereken sigortalılık statüsüne göre yeniden borç tahakkuku
+yapılarak belirlenecek ve eski borçlanma miktarı yeni borçlanma miktarına mahsup edilecek,
+kalan borç miktarının üç ay içinde ödenmesi hususunda sigortalıya gerekli tebligat
+yapılacaktır. Fazladan tahsil edilen borçlanmalarda ise yersiz tahsil edilen miktar, ilgilinin
+talebi aranmaksızın başvuru sahibine iade edilecektir.
+
+4) Borçlanma işleminin farklı sigortalılık statüsünde sonuçlandırıldığının aylık bağlandıktan
+sonra tespiti halinde de borçlanma işlemi geçerli sayılacak ve yukarıdaki açıklamalara göre
+statü değişikliği gerçekleştirilecektir. Ancak, yeni bir tahsis talebi alınmadan 5510 sayılı
+Kanunun 53 üncü maddesi ve geçici 2 nci maddesinin altıncı fıkrası dikkate alınarak, tespit
+edilen sigortalılık statüsünün öngördüğü mevzuata ve ilk tahsis talep tarihine göre aylık alma
+şartlarının devam edip etmediği hususu yeniden değerlendirilerek aşağıdaki açıklamalara göre
+işlem yapılacaktır.
+
+a) Aylık bağlanan sigortalılık statüsüne göre aylık alma şartlarının devam ettiğinin tespiti
+halinde, bağlanan aylıkların aynen ödenmesine devam edilecektir.
+
+b) Aylık aldığı sigortalılık statüsünün öngördüğü mevzuata göre aylık alma şartlarının ortadan
+kalktığı ve diğer sigortalılık statüsüne göre aylığa hak kazanıldığının tespiti halinde, aylık
+bağlama şartlarının oluştuğu sigortalılık statüsüne göre yeni aylık bağlanacak, ilk bağlanan
+aylık ise iptal edilecektir.
+
+c) Değişen sigortalılık statüsüne göre aylık bağlama şartlarının oluşmadığının tespiti halinde
+ise yine ilk bağlanan aylık iptal edilecek, sonradan aylık bağlama şartlarının oluşması
+durumunda yeni aylık talebi alınmaksızın şartların oluştuğu tarihi takip eden aybaşından
+itibaren yeni aylık bağlanacaktır.
+
+5) Yukarıdaki 4 üncü maddeye göre iptal edilen aylıklarla ilgili olarak yersiz yapıldığı tespit
+edilen ödemeler, 5510 sayılı Kanunun 96 ncı maddesine göre geri alınacaktır.
+
+                                                                                          23 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+6) Kanunun 8/5/2008 tarihinden önceki hükümlerine göre Bağ-Kur’a borçlanılan ev kadını
+olarak geçen sürelerde çalışılmış veya çalışılmış gibi kabul edilen sürelerin (çocuk yetiştirme
+süreleri, çalışma süreleri, çalışılmış olarak kabul edilen süreler, ilgili ülke mevzuatına göre
+fiilen çalışılmadığı halde hizmet cetvellerinde eşdeğer süre olarak gösterilen aylığa hak
+kazanmada ve aylık hesabında değerlendirilen süreler) bulunduğunun tespit edilmesi
+durumunda da, yukarıda yapılan açıklamalar doğrultusunda işlem yapılacaktır.
+
+7) Bu bölümde yapılan açıklamalar 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki
+sandıklarca borçlandırılması gereken yurtdışı sürelerinin sehven Kurumca borçlandırılması
+hallerinde de göz önünde bulundurulacaktır.
+
+4. Borçlandırılan yurtdışı sürelerinin farklı statülerde birleştirilerek aylık bağlanması
+
+3201 sayılı Kanuna göre 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında borçlandırılan yurtdışı sürelerinin 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında geçen hizmetlerle birleştirilerek 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi statüsünden aylık bağlanması halinde, borçlandırılan
+yurtdışı süreleri bu kapsamdaki sigortalılık statüsünün öngördüğü mevzuata göre
+değerlendirileceğinden, 1/10/2008 tarihinden önceki borçlanma süreleri için basamak intibakı
+yapılmayacaktır.
+
+5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+borçlandırılan yurtdışı sürelerinin 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının
+(b) bendi kapsamında geçen hizmetlerle birleştirilerek 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi statüsünden aylık bağlanması halinde, borçlandırılan
+yurtdışı süreleri bu kapsamdaki sigortalılık statüsünün öngördüğü mevzuata göre
+değerlendirileceğinden, 1/10/2008 tarihinden önceki borçlanma süreleri için basamak intibakı
+yapılacaktır.
+
+5. Kazanılmış haklar
+
+Kanunun geçici 7 nci maddesinin birinci fıkrasına göre, 8/5/2008 tarihinden önce yurtdışı
+borçlanma talebinde bulunanlardan, borç tahakkuku yapılmış olanların, borç tahakkuku ile
+ilgili işlemleri devam edenlerin, tahakkuk ettirilen borçlarını ödeyenlerin ve borçlandıkları
+yurtdışı hizmetleri dikkate alınarak aylık bağlanmış olanların kazanılmış hakları saklıdır.
+
+Yönetmeliğin geçici 6 ncı maddesi ile Kanunun bu hükmü aynen korunduktan sonra ek
+olarak, bunların borçlanma işlemlerinin Kanunun yürürlüğe girdiği tarihten önceki
+hükümlerine göre sonuçlandırılacağı ve 8/5/2008 tarihinden önce Bakanlar Kurulu Kararı ile
+en son değiştirilen döviz miktarının tahakkuk ettirilmiş borçlarının tamamını ödememiş
+olanların bakiye borç sürelerine uygulanacağı hükümlerine yer verilmiştir.
+
+Düzenlemeye göre, 8/5/2008 tarihinden önce yurtdışı borçlanma başvurusunda bulunanlardan,
+borç tahakkuku ile ilgili işlemleri devam edenler, borç tahakkuku yapılmış olanlar ve
+tahakkuk ettirilen borçlarının tamamını ödemeyenler Kanunun değiştirilmeden önceki 4 üncü
+maddesine istinaden borçlarını günlüğü 3,5 ABD Doları üzerinden ödemelerini
+yapabileceklerdir. Bu borçlanmaların ödenmesinde süre şartı bulunmadığından, Kanunun
+yürürlüğe girdiği tarihten sonra yapılan ödemeler geçerli sayılacaktır.
+
+
+                                                                                          24 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+Kurumun tebliğ yazısında belirtilen borç, ilgili tarafından ABD Doları olarak ödenecektir.
+Ancak, borcun başka bir dövizle ödenmek istenmesi halinde, ABD Dolarına göre çapraz kur
+uygulanmak suretiyle banka tarafından tahsili sağlanacak ve ilgili üniteye bu borcun karşılığı
+Türk Lirası olarak dekont edilecektir. Ayrıca banka tarafından düzenlenen dekontta,
+sigortalının adı-soyadı, ikamet adresi, sigorta sicil numarası, T.C. Kimlik Numarası, dövizin
+miktarı, dövizin cinsi, dövizin tahsil tarihindeki kuru, çapraz kur uygulanmışsa dövizin ABD
+Dolarına göre miktarı ve dövizin tahsil tarihi mutlak surette belirtilecektir. Bu bilgilerin
+dekontta belirtilmesi ve ilgili banka hesabına dekont edilmesi kaydıyla borç başka bir banka
+aracılığı ile de ödenebilecektir.
+
+8/5/2008 tarihinden önceki uygulama kapsamında 3,5 ABD Doları üzerinden borçlanma
+talebinde bulunanların aylıklarının hesabına giren takvim yıllına ait yıllık prime esas
+kazançların tespitinde, (3,5 x Borcun Ödendiği Tarihteki Merkez Bankası Döviz Alış Fiyatı x
+5) formülü uygulanmak suretiyle Türk Lirası cinsinden bulunan günlük prime esas kazanç
+esas alınacaktır. Bu miktarın ilgili aya mal edilmesinde İkinci Bölümün (8.2.) alt başlığında
+yer alan açıklamalar göz önünde bulundurulacaktır. Formüldeki “5” rakamı, Kanunun
+yürürlüğe girdiği 8/5/2008 tarihinden itibaren uygulanmakta olan malullük, yaşlılık ve ölüm
+sigortaları prim oranı % 20’nın yüzde yüzünü (100/20) ifade etmektedir.
+
+Aynı şekilde, 1/10/2008 tarihinden önce 3,5 ABD Doları üzerinden borçlandırılan yurtdışı
+sürelerine ait borç tutarının 25/2/2011 tarihinden sonra ödenmesi halinde de, söz konusu
+formüle göre Türk Lirası cinsinden bulunan günlük prime esas kazanç esas alınarak, 5510
+sayılı Kanunun 6111 sayılı Kanunla değişik geçici 7 nci maddesinin dördüncü fıkrasında
+belirtilen basamak intibakı, İkinci Bölümün (8.3.) alt başlığında yer alan açıklamalara göre
+sonuçlandırılacaktır.
+
+8/5/2008 tarihinden önce Kanuna göre yurtdışı borçlanma başvurusunda bulunup tebliğ edilen
+borçlarının bu tarihten önce veya sonra ödenip ödenmediğine bakılmaksızın 8/5/2008
+tarihinden sonra yapılan tahsis başvurularında, aylıkların bağlanması, bağlanan aylıkların
+yoklanması, kesilmesi ve yeniden bağlanmasında bu Genelgenin ilgili bölümlerinde yapılan
+açıklamalardaki esaslar uygulanacaktır.
+
+Yönetmeliğin 2 nci maddesinde, ikili veya çok taraflı sosyal güvenlik sözleşmesi yapılmış
+olup olmadığına bakılmaksızın yabancı bir ülkede geçen sigortalılık veya ev kadını
+sürelerinde ve borçlanma talep tarihinde Türk vatandaşı olanları kapsadığı hükmü yer
+almaktadır. Yeni düzenleme ile borçlanılan sürelere istinaden aylık talebinde bulunmada ve
+aylık alma süresinde Türk vatandaşı olma şartı kaldırılmıştır. Bu nedenle yurtdışı sürelerini
+borçlananların gerek aylık talebinde bulundukları tarihte, gerekse aylık aldıkları sürede, Türk
+vatandaşlığını kaybetmeleri durumunda aylıkları kesilmeyecektir.
+
+Bununla birlikte, Türk vatandaşlığını kaybettiklerinden dolayı eski Yönetmelik hükümlerine
+göre aylıkları bağlanmayan veya aylığı bağlandıktan sonra Türk vatandaşlığını kaybetmesi
+nedeniyle aylıkları durdurulan veya kesilenlerin 8/5/2008 tarihinden sonra yaptıkları veya
+yapacakları tahsis başvuruları üzerine aylıkları, taleplerini takip eden aybaşından itibaren
+bağlanacaktır.
+Türk vatandaşı olmadıkları için ölüm aylığı talepleri reddedilen hak sahipleri hakkında da,
+aylığa hak kazanmaları halinde, yukarıdaki paragrafta belirtilen esaslara göre işlem
+yapılacaktır.
+
+                                                                                          25 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+6. Zorunlu göç nedeniyle Türk vatandaşlığına geçenlerin borçlanma ve tahsis işlemleri
+
+5754 sayılı Kanunun 79 uncu maddesi ile 3201 sayılı Kanuna eklenen geçici 6 ncı maddede,
+sosyal güvenlik sözleşmesi imzalanmamış ülkelerden 1/1/1989 tarihinden 8/5/2008 tarihine
+kadar zorunlu göçe tabi tutulduktan sonra Türk vatandaşlığına geçenlerin geldikleri ülkedeki
+hizmetlerinin borçlanma yoluyla değerlendirilmesi imkanı getirilmiştir.
+
+Söz konusu borçlanma hakkından yararlanabilmek için aranan şartlar şunlardır.
+1) 1/1/1989 tarihinden 8/5/2008 tarihine kadar geldikleri ülke tarafından zorunlu göçe tabi
+    tutulmuş olmak.
+2) Zorunlu göçten sonra Türk vatandaşı olmak.
+3) Türkiye’de ikamet etmek.
+4) 2022 sayılı Kanun dahil Türkiye’de sosyal güvenlik kuruluşlarından gelir ve aylık
+    almamak.
+5) Geldikleri ülkedeki çalışma sürelerini belgelendirmek.
+6) Ek: 2’de yer alan “Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi” ile yazılı istekte
+    bulunmak.
+7) Tebliğ edilen borç miktarını üç ay içinde ödemek.
+
+5754 sayılı Kanunla yapılan düzenleme ile Bulgaristan’dan 1/1/1989 - 8/5/2008 tarihleri
+arasında zorunlu göçe tabi tutularak ülkemize gelenlere, borçlanmanın genel kuralının aksine
+Bulgaristan’da o ülke vatandaşı iken geçirdikleri çalışma süreleri için borçlanma hakkı
+tanınmıştır. Ülkemize gelen soydaşlarımızın iskanı ile ilgili kanunlarda (2510 veya 5543
+sayılı Kanunlar) sadece Bulgaristan’dan gelenler için “zorunlu göç” ifadesi kullanıldığından,
+yalnızca zorunlu göç nedeniyle bu ülkeden gelen vatandaşlarımız söz konusu düzenleme ile
+öngörülen borçlanma hakkından yararlandırılacaktır. Bu ülkeden kendi istekleri ile gelerek
+Türk vatandaşlığına geçenlerin borçlanma talepleri reddedilecektir.
+
+T.C. Kimlik Numarası ile Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün Kimlik Paylaşım
+Sisteminden Kurumca yapılacak sorgulama sonucunda vukuatlı nüfus kayıt örneğinde “…..
+tarihli ve …. sayılı Bakanlar Kurulu Kararı ve 2510 (veya 5543) sayılı İskan Kanununa
+istinaden Türk vatandaşlığına alınmıştır” ibaresi bulunanlar için ayrıca zorunlu göçe tabi
+tutulduklarını belgelendirme koşulu aranmayacaktır. Ancak, nüfus kayıtlarında bu şekilde
+ibare bulunmuyorsa ilgililerden bu ibarenin nüfus kayıtlarına işlenmesi için başvuruda
+bulunmaları istenecektir. Ayrıca, zorunlu göçe tabi tutulduklarına ilişkin kamu kurum ve
+kuruluşlarından temin edilecek bir belgenin Kuruma ibrazı halinde de borçlanma işlemi
+sonuçlandırılacaktır.
+
+Bulgaristan’dan temin edilen ve Türkiye’de yeminli tercüme bürolarınca çevirisi yapılmış
+hizmet belgesi ile Türkiye’deki nüfus kayıtlarında ad ve soyadı yönünden farklılık bulunması
+halinde, ilgiliden isim değişikliğini gösteren nüfus müdürlüğünden onaylı bir belgenin de
+Kuruma verilmesi talep edilecektir.
+
+Kanunun geçici 6 ncı maddesinde borçlanma kapsamında yalnızca çalışma süreleri
+gösterildiğinden, bu çalışma süreleri arasında veya sonunda boşta geçen (çalışılmayan)
+sürelerle ev kadınlığında geçen süreler, borçlanma kapsamı dışında tutulacaktır.
+Başvuru sahiplerinin Türkiye’de ikamet adresleri Kimlik Paylaşım Sisteminden kontrol
+edilecek, kaydı bulunmayanlardan, muhtarlıklardan alınacak İkametgah Belgesi talep
+edilecektir. Aynı zamanda Türk vatandaşlığı ile birlikte Bulgaristan vatandaşlığı devam
+edenler de söz konusu yasa ile getirilen düzenlemeden yararlanacaklardır.
+
+                                                                                         26 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA    Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                           Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                     Elektronik ağ : www.sgk.gov.tr
+Diğer ülkelerden kendi istekleri ile ülkemize gelen soydaşlarımız (örneğin Ahıska veya Afgan
+Türkleri gibi) İskan Kanununa göre iskana tabi tutulmuş olsa bile, zorunlu göç nedeniyle
+ülkemize gelmedikleri için bunların borçlanma talepleri reddedilecektir.
+Borçlanma talebinde bulunanların 2022 sayılı Kanun dahil sosyal güvenlik kurumlarından
+gelir ve aylık alıp almadıkları ile ilgili olarak başvuru dilekçesi ile yapılan beyanın gerçeğe
+uygunluğu, sosyal güvenlik kuruluşlarının ilgili bilgisayar kayıtları ve web sayfalarından
+Kurumca araştırılarak belirlenecek, ayrıca bu durumun belgelendirilmesi talep edilmeyecektir.
+Geçici 6 ncı madde hükümleri uygulanmak suretiyle borçlandırılan hizmetler, yalnızca
+yaşlılık (emekli) aylığı bağlanmasında değerlendirileceğinden, malullük ve ölüm aylığı
+bağlanmasında, bu şekilde borçlanılan hizmetler dikkate alınmayacaktır. Bu nedenle,
+Bulgaristan’da geçen hizmet sürelerinin hak sahiplerince borçlanmasına ilişkin talepler
+reddedilecektir. Ancak, borçlanma hakkından yararlanarak yaşlılık aylığı bağlanan
+sigortalının ölümü halinde, hak sahiplerine ölüm aylığı bağlanacaktır.
+
+Borçlanmadan vazgeçenler ile yapılan borçlanma sonrasında aylık bağlanması için gerekli
+şartları yerine getirmeyenlere ve bunların varislerine yazılı talepleri üzerine yaptıkları
+ödemeler, faizsiz olarak Türk Lirası cinsinden iade edilecektir.
+
+Bu bölümde aksine hüküm bulunmayan hallerde, Bulgaristan’dan zorunlu göç nedeniyle bu
+ülkede geçen hizmetlerin borçlandırılması ile bu şekilde borçlandırılan hizmetlerin
+değerlendirilmesine ilişkin diğer usul ve esaslar, bu Genelgenin ilgili bölümlerinde yer alan
+açıklamalar dahilinde sonuçlandırılacaktır.
+
+7. Yürürlükten kaldırılan genelgeler, genel yazılar ve e-Yurtdisi talimatları
+
+3201 sayılı Kanun ve bu Kanuna ilişkin Yönetmeliğin uygulanması ile ilgili olarak daha önce
+yayımlanan ve Ek: 10’da belirtilen genelgeler, genel yazılar ve e-Yurtdisi talimatları, bu
+Genelgenin yayımı tarihinden geçerli olmak üzere yürürlükten kaldırılmıştır. Söz konusu
+genelgeler, genel yazılar ve e-Yurtdisi talimatlar yürürlük dönemlerindeki iş ve işlemlerde
+kullanılabilecektir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+                                                                      M. Emin ZARARSIZ
+                                                                        Kurum Başkanı
+
+
+DAĞITIM :
+Gereği :                                       Bilgi :
+Merkez ve Taşra Teşkilatına                    Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                                                                          27 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA     Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                            Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                      Elektronik ağ : www.sgk.gov.tr
+EKLER DİZİNİ:
+Ek: 1- Yurtdışı Hizmet Borçlanma Talep Dilekçesi (İki sayfa)
+Ek: 2- Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi (İki sayfa)
+Ek: 3- Tahsis Talep ve Beyan Taahhüt Belgesi (İki sayfa)
+Ek: 4- 3201 sayılı Kanuna Göre Aylık Talebinde Bulunanlara Mahsus Beyan ve Taahhüt
+       Belgesi (İki sayfa)
+Ek: 5- 3201 sayılı Kanuna Göre Aylık Alanlara Mahsus Yoklama Belgesi (İki sayfa)
+Ek: 6- Oturma Vizesi Aynı Zamanda Çalışma Müsaadesini Kapsayan / Kapsamayan Ülkeler
+       Listesi
+Ek: 7- Borçlanma Miktarının Tespitinde Geçerli Olan Günlük Kazancın Alt ve Üst Sınırları
+Ek: 8- 2003 Yılı İkinci Altı Aylık Dönem Gelir Tablosu
+Ek: 9- 2008 Yılı İkinci Altı Aylık Dönem Gelir Tablosu
+Ek: 10- Yürürlükten Kaldırılan Düzenlemeler (Dört sayfa)
+Ek: 11- Örnek 1 (Üç sayfa)
+Ek: 12- Örnek 2 (Üç sayfa)
+Ek: 13- Örnek 3 (Üç sayfa)
+Ek: 14- Örnek 4 (Üç sayfa)
+
+
+
+
+                                                                                        28 / 47
+Adres : Mithatpaşa Cad. No : 7 06437 Sıhhiye – ANKARA   Ayrıntılı bilgi : A. YILMAZ, Dai. Bşk.
+Telefon : (+ 90 312) 432 12 47                          Faks            : (+ 90 312) 432 12 45
+E-posta : yurtdisimevzuat@sgk.gov.tr                    Elektronik ağ : www.sgk.gov.tr
+                                                                                                                                      Ek: 1
+                          YURTDIŞI HİZMET BORÇLANMA TALEP DİLEKÇESİ
+                                                                         DİKKAT: Bu            Evrak Kaydı (Tarih / Sayı)
+                                           T.C.                          Belgeyi arka
+                             SOSYAL GÜVENLİK KURUMU                      sayfadaki
+                            Sosyal Sigortalar Genel Müdürlüğü            açıklamaları
+                                                                         okumadan
+                                                                         doldurmayınız.
+
+                                          YURTDIŞINDA ÇALIŞANIN/EV HANIMININ
+ 1. Adı ve Soyadı
+ 2. T.C. Kimlik Numarası
+                                                                               T.C. Vatandaşıyım
+ 3. Vatandaşlık Durumu
+                                                                               Çifte vatandaşım
+                                                                               Halen yurtdışındayım
+ 4. İkamet durumu
+                                                                               Türkiye’ye kesin dönüş yaptım
+ 5. Yurtdışı hizmetin/sürenin geçtiği ülke
+                                                                                Çalışılan süre
+ 6. Borçlanmak istediğiniz yurtdışındaki hizmetin/sürenin
+                                                                                Boşta geçen süre
+    niteliği
+                                                                                Ev kadınlığı süresi
+                                                                                Aylık alıyorum
+ 7. Türkiye’den veya yurtdışından sosyal güvenlik sözleşmesine
+                                                                                Aylık talebinde bulundum
+    göre
+                                                                                Aylık almıyorum / talepte bulunmadım
+                                                                               Yurtdışı adresi
+ 8. Borç miktarının tebliğ edileceği adres
+                                                                                Türkiye adresi
+                                                                                Asgari
+ 9. Borçlanma miktarının hesabında seçtiğiniz bir günlük
+                                                                                Azami
+     prime esas kazanç
+                                                                                Diğer (……… TL)
+                                                                                Kendim ödemek istiyorum
+ 10. İsviçre’deki primlerin Türkiye’ye transferi talebinde                      Transfer edilen primlerimden mahsup edilmesini
+    bulunanların borç miktarını ödeme şekli                                     istiyorum
+                                                                               Yurtdışı hizmetlerimin / sürelerimin tamamı
+ 11. Borçlanmak istediğiniz süre                                               …./…./…. - …./…./…. tarihleri arasındaki süre
+                                                                               ………. gün
+                                                                               Yurtdışı hizmetlerimin tamamını
+ 12. Türkiye’den sözleşmeye göre kısmi aylık alıyor iseniz                     Kısmi aylığımın tam aylığa çıkmasına yetecek asgari
+                                                                               süre
+                                                    13. Türkiye’de geçen hizmetlerin
+                                                                                          Süre (giriş ve çıkış       Askerlik/yurtiçi hizmet
+                 Kurumu/Sigortalılık Statüsü                  Sicil numarası              tarihleri)                 borçlanmanız var mı?
+      SSK/Hizmet Akdi
+      Bağ-Kur/Bağımsız
+      T.C. Emekli Sandığı/Kamu Görevlisi
+      Geçici 20. madde sandığı
+      Türkiye’de çalışmam yoktur
+ 14. T.C. Emekli Sandığına tabi hizmeti varsa
+    son defa hizmetin geçtiği Kurum
+                                                    SOSYAL GÜVENLİK KURUMU
+                                                     ……….. ……………….…...........
+                                               ………………………….……………………
+       Yukarıda belirttiğim yurtdışında geçen süreleri yine yukarıda belirttiğim prime esas kazanç üzerinden 3201 sayılı Kanuna göre
+ borçlanmak istiyorum.
+       Beyanlarımın doğruluğunu, gerçeğe aykırılığının tespiti halinde Kurumun bu yüzden uğrayacağı zararları istenildiğinde yasal faizi ile
+ birlikte derhal ödeyeceğimi, ayrıca Türk Ceza Kanununun 204 üncü maddesinin birinci fıkrasına göre hakkımda kovuşturma yapılacağını
+ beyan, kabul ve taahhüt ediyorum.
+       Gereğini arz ederim.
+                                    TALEP SAHİBİNİN (SİGORTALI VEYA HAK SAHİBİ)
+ Adresi (Türkiye):                               Adresi (Yurtdışı):       Adı Soyadı :
+
+                                                                                                 İmzası          :
+
+                                                                                                 Tarih           :
+ Telefon Numarası
+ E-Posta Adresi
+EK: Yurtdışı sürelerine ait belge / belgeler
+                                                                                                                            29 / 47
+                                             AÇIKLAMALAR
+
+1- Bu belge, 3201 sayılı Kanuna göre yurtdışı hizmet borçlanma talepleri amacıyla kullanılacaktır.
+
+2- Yurtdışı hizmet borçlanma başvurusu, Türkiye’de çalışmanın bulunması halinde son defa hizmetin geçtiği
+   sosyal güvenlik kuruluşuna (Sosyal Güvenlik Kurumu veya 506 sayılı Kanunun geçici 20 inci maddesine
+   tabi banka veya diğer sandıklar), Türkiye’de çalışma yoksa Sosyal Güvenlik Kurumuna yapılacaktır.
+
+3- Yurtdışı hizmetlerini/sürelerini Sosyal Güvenlik Kurumuna borçlanmak isteyenlerden;
+
+    a) Türkiye’de çalışması bulunmayanlar ile son defa işçi veya kendi nam ve hesabına bağımsız statüde geçen
+    çalışmaları bulunanlar ve ev kadınlığında geçen süreleri borçlanmak isteyenler, Türkiye’deki ikametlerine
+    en yakın yurtdışı borçlanma işlemlerini yürütmekle yetkili “Sosyal Güvenlik Kurumu İl Müdürlüğü
+    veya o ildeki ilgili Kurum ünitesine”,
+
+    b) Sosyal güvenlik sözleşmesine göre hizmet akdi veya kendi nam ve hesabına bağımsız statüde aylık
+    alanlar ile aylık talebinde bulunmuş olanlar ve İsviçre’de çalışması bulunanlar, “Sosyal Güvenlik Kurumu
+    Sosyal Sigortalar Genel Müdürlüğü-Yurtdışı Borçlanma ve Tahsis İşlemleri Daire Başkanlığı –
+    Sıhhiye/ANKARA” adresine,
+
+    c) Türkiye’de son defa devlet memuru statüsünde çalışması bulunanlar ile sosyal güvenlik sözleşmelerine
+    göre devlet memuru statüsü ile aylık alanlar ile aylık talebinde bulunmuş olanlar, “Sosyal Güvenlik
+    Kurumu Sosyal Sigortalar Genel Müdürlüğü-Sigortalı Tescil ve Hizmet Daire Başkanlığı–
+    Sıhhiye/ANKARA” adresine,
+
+    başvuruda bulunacaklardır. Bu nedenle belgenin 13 üncü bölümün altında yer alan “SOSYAL
+    GÜVENLİK KURUMU” ibaresinin altındaki noktalı bölüme başvuru yapılacak birimin adı ve adresi
+    yazılacaktır.
+
+4- Borçlanılacak hizmetlere/sürelere ait belgelerin Yurtdışı Hizmet Borçlanma Talep Dilekçesi ekinde
+   eksiksiz ve usulüne göre düzenlenmiş şekilde verilmesi, işlemlerin bir an önce sonuçlandırılmasında yararlı
+   olacaktır.
+
+5- Belgenin 9 numaralı bölümüne borçlanma miktarına esas günlük kazancın tespitinde dikkate alınmasını
+   istediğiniz miktar yazılmalıdır. 3201 sayılı Kanunun 4 üncü maddesine göre borçlanma miktarı, borçlanma
+   talep sahibinin seçeceği günlük prime esas kazancın % 32’sinin borçlanılacak prim ödeme gün sayısı ile
+   çarpımı kadardır. 8/5/2008 tarihinden önce Devlet memuru statüsünde çalışmaya başlayanların yurtdışı
+   borçlanma miktarı 657 sayılı Kanuna göre intibak ettirilecek derece, kademe ve ek göstergeler üzerinden
+   hesaplanacağından belgenin 9 numaralı bölümde kazançla ilgili bir tercih yapmalarına gerek
+   bulunmamaktadır.
+
+6- İsviçre’deki primlerinin Türkiye’ye transfer edilmesi talebinde bulunan veya            transfer işlemi
+   gerçekleşenlerden borçlanma talebinde bulunanların 10 numaralı bölümde yer alan seçeneklerden birinin
+   önündeki kutuyu ( X ) ile işaretleyerek tercihlerini kullanmaları gerekmektedir. Prim transferi talepleri
+   Sosyal Güvenlik Kurumu Sosyal Sigortalar Genel Müdürlüğü-Yurtdışı Borçlanma ve Tahsis
+   İşlemleri Daire Başkanlığınca CH/TR formüleri ile İsviçre Sigorta Kurumuna iletilmektedir. Talepte
+   bulunanlar, anılan formülerin doldurulup düzenlenmesi için bizzat Türkiye’deki ikametlerine en yakın
+   Sosyal Güvenlik Kurumu İl Müdürlüğü veya o ildeki ilgili Kurum ünitesine müracaat edeceklerdir.
+
+7- Yurtdışında geçen hizmetlerin/sürelerin tamamını veya dilediğiniz kadarını borçlanabilirsiniz. Kısmi aylık
+   almanız durumunda bu aylığı tam aylığa dönüştürecek asgari süreyi veya tamamını borçlanma hakkınız da
+   bulunmaktadır. Buna göre borçlanmak istediğiniz süreyi 11 numaralı bölümde belirtilen seçeneklerden
+   birinin önündeki kutuyu ( X ) ile işaretleyerek tercihinizi kullanmanız gerekmektedir.
+
+8- Türkiye’de çalışması bulunanlar, 13 numaralı bölümün ilgili kurum veya statüsünün önündeki kutu (X ) ile
+   işaretlendikten sonra sigorta sicil numaraları ve çalışma süreleri ilgili alanlarda belirteceklerdir. Türkiye’de
+   çalışma yoksa “Türkiye’de çalışmam yoktur” ibaresinin önündeki kutunun (X) ile işaretlenmesi
+   unutulmayacaktır.
+
+9- Türkiye’de veya yurtdışındaki adresin/adreslerin belgenin sol alt bölümlerine mutlaka yazılması
+   gerekmektedir. Ayrıca, bu adreslerden hangisinin tebligat adresi olarak kullanılacağı da 8 numaralı
+   bölümdeki seçeneklerden biri ( X ) ile işaretlenmek suretiyle belirtilmelidir.
+
+10- Belgeye, “Yurtdışında Geçen Sürelerin Borçlandırılması ve Değerlendirilmesine İlişkin
+    Yönetmelik”in 9 uncu maddesinde belirtilen belgelerden, borçlanılacak hizmetin niteliğine (çalışma, boşta
+    geçen süre, ev kadınlığı süresi) göre durumunuza uygun olan yurtdışı belgesi eklenecektir.
+
+                                                                                                          30 / 47
+                                                                                                                   Ek: 2
+
+            BULGARİSTAN HİZMETLERİNİ BORÇLANMA TALEP DİLEKÇESİ
+
+                                                                               Evrak Kaydı (Tarih / Sayı)
+                              T.C.                 DİKKAT: Bu
+               SOSYAL GÜVENLİK KURUMU              Belgeyi arka sayfadaki
+              Sosyal Sigortalar Genel Müdürlüğü    açıklamaları okumadan
+                                                   doldurmayınız.
+
+
+
+                                    BULGARİSTAN’DA ÇALIŞANIN
+
+1. Adı ve Soyadı
+
+2. T.C. Kimlik Numarası
+                                                        Asgari
+3. Borçlanma miktarının hesabında seçtiğiniz bir
+                                                        Azami
+   günlük prime esas kazanç
+                                                        Diğer (…....... TL)
+                                                        Bulgaristan’da geçen çalışma sürelerinin tamamı
+                                                        Bulgaristan’da …./…./…. - …./…./…. tarihleri
+4. Borçlanmak istediğiniz süre
+                                                        arasında geçen çalışma süreleri
+                                                        ……….. gün
+                                      5. Türkiye’de geçen hizmetlerin
+                                                                                             Askerlik/yurtiçi
+                                                                        Süre (giriş ve
+             Kurum/Sigortalılık Statüsü            Sicil numarası
+                                                                        çıkış tarihleri)
+                                                                                             hizmet borçlanmanız
+                                                                                             var mı?
+    SSK/Hizmet Akdi
+    Bağ-Kur/Bağımsız
+    T.C. Emekli Sandığı/Kamu Görevlisi
+    Geçici 20. madde sandığı
+    Türkiye’de çalışmam yoktur
+6. T.C. Emekli Sandığına tabi hizmeti varsa son
+defa hizmetin geçtiği Kurum
+
+                                   SOSYAL GÜVENLİK KURUMU
+                                   ………….….. ………………...........
+                                   ……………….. ………………...........
+
+         2022 sayılı Kanun dahil olmak üzere Türkiye’deki sosyal güvenlik kurumlarından gelir ve aylık
+almıyorum.
+         Yukarıda belirttiğim Bulgaristan’da geçen çalışma sürelerimi yine yukarıda belirttiğim prime esas
+kazanç üzerinden 3201 sayılı Kanuna göre borçlanmak istiyorum.
+         Beyanlarımın doğruluğunu, gerçeğe aykırılığının tespiti halinde Kurumun bu yüzden uğrayacağı
+zararları istenildiğinde yasal faizi ile birlikte derhal ödeyeceğimi, ayrıca Türk Ceza Kanununun 204 üncü
+maddesine göre hakkımda kovuşturma yapılacağını beyan, kabul ve taahhüt ediyorum.
+         Gereğini arz ederim.
+                                               TALEP SAHİBİNİN
+Adresi:                           Telefon Numarası                 Adı Soyadı :
+
+                                                                İmzası        :
+                                 E-Posta Adresi
+                                                                Tarih          :
+
+ EK: Bulgaristan Hizmet Belgesi
+
+                                                                                                       31 / 47
+                                  AÇIKLAMALAR
+
+
+
+1- Bu belge, 3201 sayılı Kanuna göre Bulgaristan’da geçen çalışma sürelerinin borçlandırılması
+   talebi amacıyla kullanılacaktır.
+
+2- Borçlanma başvurusu, Türkiye’de çalışmanın bulunması halinde son defa hizmetin geçtiği
+   sosyal güvenlik kuruluşuna (Sosyal Güvenlik Kurumu veya 506 sayılı Kanunun geçici 20 inci
+   maddesine tabi banka veya diğer sandıklar), Türkiye’de çalışma yoksa Sosyal Güvenlik
+   Kurumuna yapılacaktır.
+
+3- Bulgaristan’da   geçen    çalışma   sürelerini   Sosyal   Güvenlik   Kurumuna    borçlanmak
+   isteyenlerden;
+
+    a) Türkiye’de çalışması bulunmayanlar ile son defa işçi veya kendi nam ve hesabına bağımsız
+    statüde geçen çalışmaları bulunanlar, Türkiye’deki ikametlerine en yakın yurtdışı borçlanma
+    işlemlerini yürütmekle yetkili “Sosyal Güvenlik Kurumu İl Müdürlüğü veya o ildeki ilgili
+    Kurum ünitesine”,
+
+    b) Türkiye’de son defa Devlet memuru statüsünde çalışması bulunanlar, “Sosyal Güvenlik
+    Kurumu Sosyal Sigortalar Genel Müdürlüğü - Sigortalı Tescil ve Hizmet Daire
+    Başkanlığı -Sıhhiye/ANKARA” adresine,
+
+    başvuruda bulunacaklardır. Bu nedenle belgenin 5 inci bölümün altında yer alan “SOSYAL
+    GÜVENLİK KURUMU” ibaresinin altındaki noktalı bölüme başvuru yapılacak birimin adı
+    ve adresi yazılacaktır.
+
+4- Borçlanılacak hizmetlere ait belgelerin, Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi
+   ekinde eksiksiz ve usulüne göre düzenlenmiş şekilde verilmesi işlemlerin bir an önce
+   sonuçlandırılmasında yararlı olacaktır.
+
+5- Belgenin 3 numaralı bölümüne, borçlanma miktarına esas günlük kazancın tespitinde dikkate
+   alınmasını istediğiniz miktar yazılmalıdır. 3201 sayılı Kanunun 4 üncü maddesine göre
+   borçlanma miktarı, borçlanma talep sahibinin seçeceği günlük prime esas kazancın % 32’sinin
+   borçlanılacak prim ödeme gün sayısı ile çarpımı kadardır. 08/05/2008 tarihinden önce Devlet
+   memuru statüsünde çalışmaya başlayanların yurtdışı borçlanma miktarı 657 sayılı Kanuna
+   göre intibak ettirilecek derece, kademe ve ek göstergeler üzerinden hesaplanacağından
+   belgenin 3 numaralı bölümde kazançla ilgili bir tercih yapmalarına gerek bulunmamaktadır.
+
+6- Bulgaristan’da geçen çalışma sürelerinin tamamını veya dilediğiniz kadarını
+   borçlanabilirsiniz. Buna göre borçlanmak istediğiniz süreyi 4 numaralı bölümde belirtilen
+   seçeneklerden birinin önündeki kutuyu (X) ile işaretleyerek tercihinizi kullanmanız
+   gerekmektedir.
+
+7- Türkiye’de çalışması bulunanlar, 5 numaralı bölümün ilgili kurum veya statüsünün önündeki
+   kutuyu (X) ile işaretledikten sonra sigorta sicil ve çalışma sürelerini ilgili alanlarda
+   belirteceklerdir. Türkiye’de çalışma yoksa “Türkiye’de çalışmam yoktur” ibaresinin önündeki
+   kutunun (X) ile işaretlenmesi unutulmayacaktır.
+
+8- Dilekçe ekinde verilecek hizmet belgeleri ile birlikte Türkiye’de yeminli tercüme bürolarınca
+   yapılmış çevirileri de eklenmelidir. Türkiye’ye geldikten sonra ad ve soyadınızda bir
+   değişiklik meydana gelmişse, bu değişikliği gösteren nüfus müdürlüğünden alacağınız onaylı
+   bir belgenin de talep dilekçesine eklenmesi gerekmektedir.
+
+
+
+
+                                                                                        32 / 47
+                                                                                                                                                         Ek: 3
+                                             T.C.                                                           DİKKAT:            Kurum Evrak Kaydı (tarih/sayı)
+                                                                                                     Bu Belgeyi arka sayfadaki
+                                    SOSYAL GÜVENLİK KURUMU                                            açıklamaları okumadan
+                          TAHSİS TALEP VE BEYAN TAAHHÜT BELGESİ                                           doldurmayınız
+                                                                                                     SİGORTALI                              HAK SAHİBİ
+1- T.C.KİMLİK NUMARASI
+2- ADI VE SOYADI
+3- SİGORTA SİCİL NUMARASI / BAĞ-NUMARASI / TAHSİS NUMARASI
+4- TAHSİS TALEP ÇEŞİDİ
+5- ÖLÜM TARİHİ
+6- ÖDEMELERİN YAPILACAĞI BANKA VEYA PTT ŞUBESİ
+7- SİGORTALIYA YAKINLIĞI
+8- ÖLÜM / TAHSİS TALEP TARİHİNDE BAKMAKLA YÜKÜMLÜ OLDUĞU
+KİŞİLER VAR MI?
+9- BAKMAKLA YÜKÜMLÜ OLDUĞU KİŞİLER İÇİN SAĞLIK YARDIM TALEBİ
+VAR MI?
+10- ÖLÜM VEYA MALUL KALMASINDA ÜÇÜNCÜ KİŞİLERİN KASTI VAR MI?
+11- HER TÜRLÜ KAZANÇ VE İRATTAN ELDE EDİLEN GELİRİ ASGARİ
+ÜCRETİN NET TUTARINDAN AZ MI? (ANA VE BABALAR İÇİN)
+                       HİZMET / GELİR VE AYLIK DURUMU
+12-
+                        SİGORTA SİCİL NUMARASI
+                        HİZMET SÜRELERİ VE GEÇTİĞİ İLLER
+                        İSTEĞE BAĞLI
+          SSK
+         4/1-(a)        TOPLULUK
+                        BORÇLANMA
+                        AYLIK ALIYORSA ÇEŞİDİ                                            KENDİNDEN    EŞİNDEN                  KENDİNDEN    EŞİNDEN
+                                                                                         ANA-BABADAN  ÇOCUKTAN                 ANA-BABADAN  ÇOCUKTAN
+13-
+                        BAĞ-KUR NUMARASI
+                        HİZMET SÜRELERİ VE GEÇTİĞİ İLLER
+                        İSTEĞE BAĞLI
+       BAĞ-KUR
+        4/1-(b)         TOPLULUK
+                        BORÇLANMA
+                        TİCARİ/TARIM FAALİYETİNE DEVAM EDECEK Mİ?
+                        AYLIK ALIYORSA ÇEŞİDİ                                            KENDİNDEN    EŞİNDEN                  KENDİNDEN    EŞİNDEN
+                                                                                         ANA-BABADAN  ÇOCUKTAN                 ANA-BABADAN  ÇOCUKTAN
+14-                     EMEKLİ SİCİL NO
+                        HİZMET SÜRESİ
+     T.C. EMEKLİ
+       SANDIĞI          AYLIK ALIYORSA ÇEŞİDİ                                            KENDİNDEN    EŞİNDEN                  KENDİNDEN    EŞİNDEN
+        4/1-(c)                                                                          ANA-BABADAN  ÇOCUKTAN                 ANA-BABADAN  ÇOCUKTAN
+                        TAHSİS NUMARASI
+15-
+                        SANDIK / VAKIF ADI
+        DİĞER           HİZMET SÜRESİ
+     SANDIKLAR
+                        SİCİL NUMARASI
+     (506/G.M. 20)
+                        AYLIK ALIYORSA ÇEŞİDİ                                            KENDİNDEN    EŞİNDEN                  KENDİNDEN    EŞİNDEN
+                                                                                         ANA-BABADAN  ÇOCUKTAN                 ANA-BABADAN  ÇOCUKTAN
+                        TAHSİS NUMARASI
+16-
+                        ÜLKE ADI
+      YABANCI           HİZMET SÜRESİ
+     ÜLKELERDE                                                                           KENDİ  EŞİNDEN  ANA-BABADAN         KENDİ  EŞİNDEN  ANA-BABADAN
+                        AYLIK ALIYORSA ÇEŞİDİ
+       GEÇEN
+     HİZMETLER          AYLIK KURUM ARACILIĞI İLE Mİ ÖDENİYOR? E/H
+                        TAHSİS NUMARASI
+              Yukarıdaki beyanların doğruluğunu, beyanlarımda herhangi bir değişiklik olması halinde durumu derhal yazılı olarak Kuruma bildireceğimi, gerçeğe aykırı
+     beyanda bulunmam veya gelir aylık bağlandıktan sonra durumumda bunların kesilmesini gerektiren değişikleri derhal Kuruma bildirmediğim taktirde tarafıma yersiz
+     olarak yapılacak her türlü ödemeyi istenildiğinde yasal faizi ile birlikte geri ödeyeceğimi, ayrıca hakkımda Türk Ceza Kanununun 204 üncü maddesi gereğince
+     kovuşturma yapılacağını beyan ve taahhüt ederim.
+              Gereğini arz ederim. ……../……../………..
+CEP TELEFONU :                                                                        SİGORTALI VEYA HAK SAHİBİNİN
+E-POSTA ADRESİ:                                                        ADRESİ                                   ADI-SOYADI VE İMZASI
+EKLER:
+1-
+2-
+
+3-
+
+
+                                                                                                                                              33 / 47
+                                    AÇIKLAMALAR
+
+
+
+1- Bu belge, sigortalı ile ölen sigortalıların hak sahibi ana-baba ve 18 yaşından büyük çocuklara
+   5510 sayılı Kanuna göre bağlanacak olan gelir ve aylıklarla, yapılacak olan toptan ödeme,
+   evlenme yardımı ve cenaze masrafı karşılığının Kurumdan talep edilmesi amacıyla kullanılır.
+   Ayrıca, bunların kesilen ya da durdurulan gelir ve aylıklarının yeniden bağlanması ile gerektiği
+   hallerde Kurumca istenebilir.
+
+2- Sigortalı tarafından yapılan tahsis taleplerinde; bu belgenin hak sahibine ait bilgiler ile 5 ve 7
+   numaralı alan hariç olmak üzere, “Sigortalı” başlıklı bölümündeki tüm alanlar
+   cevaplandırılmalıdır. Sigortalılar sürekli iş göremezlik geliri, malullük aylığı, yaşlılık aylığı ve
+   yaşlılık toptan ödemesinden hangisini tercih ettiğini bu bölümdeki “4” numaralı “Tahsis Talep
+   Çeşidi” alanına yazmalıdır. Hak sahiplerinin yapacakları tahsis taleplerinde ise, sigortalıya
+   ilişkin bölümde 1, 2, 3, 5, 8, 10, 12, 13, 14, 15 ve 16 numaralı alanlar ile “Hak sahibi” başlıklı
+   bölümdeki alanların tümü cevaplandırılmalıdır. “11” numaralı alan sadece ölüm gelir/aylığı
+   bağlanması için talepte bulunan ana veya babalar tarafından cevaplandırılacaktır. Hak sahipleri
+   ölüm geliri, ölüm aylığı, ölüm toptan ödemesi, evlenme ve cenaze ödeneği karşılığından hangisini
+   tercih ettiğini bu bölümdeki “4” numaralı “Tahsis Talep Çeşidi” alanına yazmalıdır.
+
+3- Bu belgenin düzenlendiği tarihten önce gerek sigortalıların gerekse hak sahiplerinin 01/10/2008
+   tarihinden sonra 5510 sayılı Kanuna, 01/10/2008 tarihinden önce mülga sosyal güvenlik
+   kanunlarına tabi geçen çalışmaları, bu çalışmalara dayalı olarak veya eş, ana-baba veya
+   çocuklardan hak kazanılan gelir ve aylıkların türü ve tahsis numaraları 12, 13, 14, 15 ve 16
+   numaralı alanlara yazılmalıdır.
+
+4- Bu belgeye, gelir ve aylık bağlanması talebinde bulunan sigortalı ve hak sahibinin 15 yaşından
+   küçük çocuklar hariç olmak üzere birer adet fotoğrafı eklenmesi zorunludur. Ayrıca;
+
+    - 18 yaşını doldurmayanlar hariç, lise ve dengi öğrenim görmesi halinde 20 yaşını, yüksek
+    öğrenim görmesi halinde 25 yaşını doldurmayan erkek çocukların ilgili öğretim kurumundan
+    alacakları öğrenci belgesi,
+
+    -   Malul çocuklar için sağlık kurulu raporu,
+
+    Kuruma verilmelidir. Toptan ödemeler ile evlenme ve cenaze ödeneği için fotoğraf ve sigortalı
+    işten ayrılış bildirgesi eklenmez.
+
+5- 3201 sayılı Kanuna göre borçlanarak tahsis talebinde bulunanların “3201 Sayılı Kanuna Göre
+   Aylık Talebinde Bulunanlara Mahsus Beyan ve Taahhüt Belgesi”ni de Kuruma vermesi
+   gerekmektedir.
+
+6- Eşinden boşandığı halde, boşandığı eşiyle fiilen birlikte yaşadığı belirlenen eş ve çocukların
+   bağlanmış olan gelir ve aylıkları kesilir. Bu kişilere ödenmiş olan tutarlar, 5510 sayılı
+   Kanunun 96 ncı madde hükümlerine göre geri alınır.
+
+7- Kurum, bu belgedeki bildirimlerin doğruluğunu her zaman araştırabilir. Gerçeğe aykırı bildirimde
+   bulunanlara veya durum değişikliklerini derhal Kuruma bildirmeyenlere yapılan yersiz ödemeler
+   yasal faizi ile birlikte geri alınır, ayrıca bunlar hakkında Türk Ceza Kanununun 204 üncü maddesi
+   gereğince kovuşturma yapılmak üzere ilgili Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+
+
+
+
+                                                                                               34 / 47
+                                                                                                    Ek: 4
+
+    3201 SAYILI KANUNA GÖRE AYLIK TALEBİNDE BULUNANLARA MAHSUS
+                      BEYAN VE TAAHHÜT BELGESİ
+
+
+                                       T. C.                             DİKKAT: Bu belgeyi, arka
+                           SOSYAL GÜVENLİK KURUMU                        sayfada ki açıklamaları
+                                                                         okumadan doldurmayınız.
+                          Sosyal Sigortalar Genel Müdürlüğü
+
+
+
+
+1. Ad ve Soyadınız
+
+2. T.C. Kimlik Numaranız
+3. Varsa Türkiye’deki Sigorta/Emekli/Bağ-
+   Kur Sicil numaralarınız
+4. Türkiye’den aylık/gelir alıyorsanız tahsis
+   numaranız
+5. Yurtdışında bulunduğunuz ülke ve
+   sicil/tahsis/kasa numaranız
+5. Halen Türkiye’de ikamet ediyorsanız
+   yurda giriş tarihiniz
+6. Halen yurtdışında ikamet ediyorsanız
+   bulunduğunuz ülke
+
+       Halen yurtdışında yabancı bir ülke mevzuatına tabi çalışmadığımı, ikamete dayalı bir sosyal
+sigorta ya da sosyal yardım ödeneği almadığımı, tarafıma aylık bağlandıktan sonra yurtdışında
+yabancı bir ülke mevzuatına tabi çalışmaya, ikamete dayalı bir sosyal sigorta yada sosyal yardım
+ödeneği almaya başladığım takdirde bunu bildireceğimi ve ayrıca aylığımın kesileceğini,
+        Arka sayfadaki 4 üncü maddede belirtilen aylığın kesilmesine ilişkin hükümler saklı kalmak
+kaydıyla, Türkiye’de sigortalı olarak çalışmaya başladığım takdirde, hakkımda 5510 sayılı
+Kanunun sosyal güvenlik destek primine ilişkin hükümlerinin uygulanacağını,
+        Altı aydan daha uzun süre yurtdışında bulunduğumda, durumu, söz konusu altı aylık sürenin
+dolduğu tarihten sonraki üç ay içinde “3201 Sayılı Kanuna Göre Aylık Alanlara Mahsus Yoklama
+Belgesi” ile Kuruma bildireceğimi,
+        Kurumca, Emniyet Genel Müdürlüğünden alınacak kayıtlar sonucunda, altı aydan daha
+uzun süre yurtdışında bulunduğum halde, durumumu yukarıda belirtilen şekilde, yine yukarıda
+belirtilen süre içinde Kuruma bildirmediğimin tespiti halinde, aylığımın tarafıma herhangi bir
+bildirim yapılmaksızın gerekli belgeleri Kuruma ibraz edeceğim tarihe kadar ödenmeyeceğini,
+        Yurtdışında ikamet ederken Kurumdan aylık aldığım takdirde, bu aylığın yurtdışında
+alacağım sosyal yardımları, yükümlü olduğum vergileri ve bazı sigorta haklarımı geriye dönük
+olumsuz etkileyeceğini, tarafıma borç çıkartılabileceğini ve yurtdışında mali ve cezai yasal
+işlemlere maruz kalabileceğimi, bundan dolayı Kuruma herhangi bir sorumluluk
+yüklemeyeceğimi,
+        Beyanlarımın doğruluğunu, gerçeğe aykırılığının ya da bildirmeyi taahhüt ettiğim durumları
+usulüne göre süresinde bildirmediğimin tespiti halinde aylıklarımın kesileceğini, tarafıma yersiz
+yapılan ödemeleri Kurumun talebi üzerine 5510 sayılı Kanunun 96 ncı maddesine göre geri
+ödeyeceğimi, ayrıca hakkımda Türk Ceza Kanununun 204 üncü maddesine göre hakkımda
+kovuşturma yapılacağını,
+       Kabul, beyan ve taahhüt ederim.
+Adı Soyadı :                                                  İmzası :
+
+Tarih      :
+
+
+                                                                                         35 / 47
+                                    AÇIKLAMALAR
+
+1- Bu belge, 3201 sayılı Kanuna göre borçlanılan yurtdışı sürelerine istinaden malullük, yaşlılık ve
+   emekli aylığı bağlanması için aşağıdaki 2 nci madde de belirtilen şartların yerine getirilip
+   getirilmediğinin tespiti ile aylık bağlandıktan sonra bu şartlarda meydana gelen durum
+   değişikliklerinin Kuruma bildirilmesinin taahhüt edilmesi amacıyla kullanılır.
+   Bu belge, aylık talebi sırasında “Tahsis Talep ve Beyan Taahhüt Belgesi” ile birlikte Kuruma
+   ibraz edilir.
+2- 3201 sayılı Kanuna göre yurtdışında geçen süreleri borçlananlara aylık bağlanabilmesi için,
+   yurtdışındaki çalışmanın sona ermesi, ikamete dayalı bir sosyal sigorta ya da sosyal yardım
+   ödeneği alınmaması şarttır.
+   Yukarıdaki paragrafta geçen;
+   - “Sosyal sigorta ödeneği” deyimi, çalışma yaşamı süresince karşılaşılan hastalık, iş kazası,
+   meslek hastalığı veya işsizlik gibi riskler nedeniyle iş göremezlik veya işsizlik gibi adlar altında
+   yapılan ödenekleri,
+   - “Sosyal yardım ödeneği” deyimi ise bulunulan ülke mevzuatı kapsamında, geçimlerini
+   sağlayacak hiçbir gelirleri olmayan veya mevcut gelirleriyle geçimlerini sağlamakta güçlük
+   çeken kişilerin asgari geçim düzeyi ile sınırlı olmak üzere geçimlerinin sağlanması amacıyla
+   kamu kurum ve kuruluşları tarafından muhtaçlık durumuna ve süresine göre ödenen, ikamet
+   şartına bağlı nakdi yardımları,
+   ifade eder.
+3- Tahsis başvurusunda bulunanların 2 inci maddede belirtilen aylık bağlama şartlarının mevcut
+   olup olmadığının, yurtdışında bulunulan ülkenin yetkili kurumlarından alınacak belge ile
+   kanıtlanması zorunludur. Yurtdışında iken yapılacak olan tahsis başvurularında Kuruma
+   verilecek olan bu belgelerin tahsis talep tarihinden önceki bir ay içinde düzenlenmiş olması
+   gerekir.
+4- 3201 sayılı Kanundan yararlanmak suretiyle aylık bağlananlardan tekrar yurtdışında yabancı bir
+   ülke mevzuatına tabi çalışanların, ikamete dayalı bir sosyal sigorta yada sosyal yardım ödeneği
+   alanların aylıkları, tekrar çalışmaya başladıkları veya ikamete dayalı bir ödenek almaya
+   başladıkları tarihten itibaren kesilir. Bağlanan aylıkların kesilmesine ilişkin 506 sayılı Kanunun
+   58 inci maddesi, 63 üncü maddesinin (A) bendi ve 5335 sayılı Kanunun 30 uncu madde
+   hükümleri saklı kalmak kaydıyla Türkiye’de sigortalı olarak çalışmaya başlayanlar hakkında
+   5510 sayılı Kanunun geçici 14 üncü maddesindeki sosyal güvenlik destek primine ilişkin
+   hükümleri uygulanmak suretiyle aylıkların ödenmesine devam edilir.
+5- Borçlandıkları süreler dikkate alınarak malullük, yaşlılık ve emekli aylığı bağlananların aylık
+   alma şartlarının devam edip etmediği hususu, Emniyet Genel Müdürlüğünden her yıl alınacak
+   olan yurtdışına çıkış ve yurda giriş kayıtları dikkate alınarak Kurumca araştırılır.
+6- 3201 sayılı Kanuna göre malullük, yaşlılık ve emekli aylığı bağlanıp altı aydan daha uzun süre
+   yurtdışında bulunmuş olanlar, yurtdışında çalışıp çalışmadıklarını ve ikamete dayalı bir sosyal
+   sigorta ya da sosyal yardım ödeneği alıp almadıklarını gösterir belgeleri, “3201 Sayılı Kanuna
+   Göre Aylık Alanlara Mahsus Yoklama Belgesi” ile birlikte altı aylık sürenin dolduğu tarihten
+   sonra üç ay içinde Kurumun söz konusu aylığı bağlayan ilgili ünitesine vermek zorundadırlar.
+7- 5 inci maddede belirtilen yükümlülüğü yerine getirmediği tespit edilenlerin aylıkları, bildirim
+   yapılmaksızın yurtdışında çalışıp çalışmadıklarını ve ikamete dayalı bir sosyal sigorta ya da
+   sosyal yardım ödeneği alıp almadıklarını gösterir belgelerin Kuruma verilmesine kadar ödenmez.
+
+
+
+                                                                                            36 / 47
+                                                                                                          Ek: 5
+
+ 3201 SAYILI KANUNA GÖRE AYLIK ALANLARA MAHSUS YOKLAMA BELGESİ
+                                                   DİKKAT: Bu belgeyi,       Evrak Kayıt (Tarih / Sayı)
+                             T.C.                  arka sayfadaki
+              SOSYAL GÜVENLİK KURUMU               açıklamaları okumadan
+             Sosyal Sigortalar Genel Müdürlüğü     doldurmayınız.
+
+
+
+
+1. Ad ve Soyadınız
+
+2. T.C. Kimlik Numaranız
+3. Türkiye’deki Malullük/Yaşlılık/Emekli
+   aylığınıza ait tahsis numaranız
+4. Aylık bağlandıktan sonra yurtdışına
+                                              Ülke: ……………                  Çıkış Tarihi: …./…./….
+   çıkış yaptığınız ülke ve çıkış tarihi
+5. Yurtdışına çıktığınız tarihten sonra
+   bulunduğunuz ülkede sosyal sigorta
+   kapsamında çalıştınız mı?
+6. Yurtdışına çıktığınız tarihten sonra
+   bulunduğunuz ülkede ikamete dayalı
+   sosyal sigorta ödeneği aldınız mı?
+7. Yurtdışına çıktığınız tarihten sonra
+   bulunduğunuz ülkede ikamete dayalı
+   sosyal yardım ödeneği aldınız mı?
+
+
+                              SOSYAL GÜVENLİK KURUMU
+                           ………………….. ……………….…...........
+                          ………………………….……………………
+     Tarafıma aylık bağlandıktan sonra yurtdışına çıkış yaptığımı ve altı aydan beri bulunduğum
+ülkedeki durumumu yukarıda beyan etmiş bulunmaktayım.
+     Beyanlarımın doğruluğunu, gerçeğe aykırılığının tespiti halinde ve değişiklikleri bir ay
+içinde bildirmediğim takdirde, Kurumun uğrayacağı zararları istenildiğinde 5510 sayılı Kanunun
+96 ncı maddesine göre geri ödeyeceğimi, ayrıca Türk Ceza Kanununun 204 üncü maddesine göre
+hakkımda kovuşturma yapılacağını kabul ve taahhüt ediyorum.
+      Gereğini arz ederim.
+
+
+                        BEYANDA BULUNAN AYLIK SAHİBİNİN
+Adresi (Türkiye):           Adresi (Yurtdışı):   Adı Soyadı :
+
+                                                               İmzası         :
+
+                                                               Tarih          :
+
+Telefon Numarası
+
+E-Posta Adresi
+
+
+
+
+                                                                                                37 / 47
+                                     AÇIKLAMALAR
+
+
+1- Bu belge, 3201 sayılı Kanuna göre borçlandıkları yurtdışı süreleri dikkate alınarak
+   malullük, yaşlılık ve emekli aylığı bağlananlardan altı aydan daha uzun süre yurtdışında
+   bulunan ya da bulunmuş olanların, yurtdışında çalışıp çalışmadıklarını ve ikamete dayalı bir
+   sosyal sigorta yada sosyal yardım ödeneği alıp almadıklarının tespiti amacıyla kullanılır.
+
+2- Bu belgenin, söz konusu altı aylık sürenin dolduğu tarihten sonraki üç aylık süre içinde
+   Kurumun tarafınıza aylık bağlayan ünitesine verilmesi zorunludur. Altı aydan daha uzun
+   süre yurtdışında bulundukları halde, bu belgeyi belirtilen süre içinde Kuruma vermediği
+   Emniyet Genel Müdürlüğünden alınacak kayıtlardan tespit edilenlerin aylıkları, bildirim
+   yapılmaksızın söz konusu belgelerin intikaline kadar ödenmez.
+
+3- Aylıkları ödenmeyenlerin Kuruma ibraz edecekleri belgelerden ya da Kurumca yapılacak
+   olan araştırma sonucunda, yurtdışında;
+
+   — Çalışmadıkları, ikamete dayalı bir sosyal sigorta ya da sosyal yardım ödeneği
+   almadıkları tespit edilenlerin aylıkları, durdurulduğu tarihten geçerli olmak üzere ödenir.
+
+   — Çalıştıkları, ikamete dayalı bir sosyal sigorta ya da sosyal yardım ödeneği aldıkları tespit
+   edilenlerin aylıkları, çalışmaya ya da ödenek almaya başladıkları tarihte kesilir. Yersiz
+   yapıldığı tespit edilen ödemeler, 5510 sayılı Kanunun 96 ncı maddesi hükümlerine göre geri
+   alınır.
+
+4- Bu belgedeki tüm soruların eksiksiz olarak cevaplandırılması zorunludur. (4) numaralı
+   alanda belirteceğiniz “Ülke” ve “Çıkış tarihi” pasaport bilgileri ile uyumlu olmalıdır.
+
+5- Bu belge ile birlikte;
+
+   — Belgenin (5) ve (6) numaralı alanlarında belirtilen çalışma ve ikamete dayalı sosyal
+   sigorta ödeneği ile ilgili beyanları kanıtlayıcı ve bulunulan ülke makamlarından temin
+   edilen hizmet belgesinin,
+
+   — Belgenin (7) numaralı alanında belirtilen ikamete dayalı sosyal yardım ödeneği aldığına
+   dair beyanı kanıtlayıcı ve bulunulan ülke makamlarından temin edilen belgenin,
+
+       de verilmesi zorunludur.
+
+6- Aylık bağlandıktan sonra yurtdışında bulunduğu ülkede çalışmayan, ikamete dayalı sosyal
+   sigorta ya da sosyal yardım ödeneği almayanların, belgenin ilgili alanlarına durumlarını
+   beyan etmeleri yeterli olup, bunun için ayrıca belge verme şartı aranmaz.
+
+7- Bu belge, yurtdışında çalıştığı işinden ayrılan veya aldığı ikamete dayalı bir sosyal sigorta
+   ya da sosyal yardım ödeneği kesilenler için tahsis talep dilekçesi yerine geçmez. Bunların
+   aylıklarının yeniden bağlanması için gerekli belgelerle birlikte usulüne göre yeniden tahsis
+   başvurusunda bulunmaları zorunludur.
+
+
+
+
+                                                                                         38 / 47
+                                                                                               Ek: 6
+
+           OTURMA VİZESİ AYNI ZAMANDA ÇALIŞMA MÜSAADESİNİ
+                  KAPSAYAN / KAPSAMAYAN ÜLKELER
+
+
+
+           AÇIKLAMA                                         ÜLKE ADI
+
+
+                                        Almanya, Amerika Birleşik Devletleri, Bahreyn,
+                                        Belarus (1), Birleşik Arap Emirlikleri (2), Brezilya
+                                        (3), Çek Cumhuriyeti (4), Finlandiya, Fransa (5),
+Oturma İzni Çalışma Müsaadesini de
+                                        Güney Afrika, Gürcistan, Hindistan, İsrail, İtalya,
+          İçeren Ülkeler
+                                        Japonya, Kanada, Kuveyt, Litvanya (6),
+                                        Lüksemburg (7), Nepal, Nijer, Nijerya, Portekiz,
+                                        Slovakya, Sri Lanka, Umman, Yeni Zelanda
+
+
+
+                                        Beyaz Rusya, Ermenistan, Estonya, Filistin(8),
+ Oturma İzni Çalışma Müsaadesini
+                                        Irak, İran, Katar, Kazakistan, Kırgızistan, Lübnan,
+       İçermeyen Ülkeler
+                                        Letonya, Mısır, Moldova, Özbekistan, Rusya,
+                                        Suriye, Suudi Arabistan, Tacikistan, Türkmenistan,
+                                        Ukrayna, Ürdün, Yemen
+
+
+ (1) Oturma izni vize süresince verilmekte ve 5 yıllık ve daha fazla süreyle vizeye sahip
+ kişilerden çalışma izni istenmemektedir.
+
+ (2) Ev hanımı, işsiz ve öğrenci olanlar için oturma izni çalışma iznini içermemektedir.
+
+ (3) Oturma izinleri süreli ve süresiz olmak üzere ikiye ayrılmaktadır. Süreli oturma
+ izinleri çalışma iznini içermemekte, süresiz oturma izinleri çalışma iznini içermektedir.
+
+ (4) Süresiz oturma iznine sahip olanlar çalışma izninden muaftır. Kısa süreli oturma
+ vizesine çalışma vizesi dahil değil.
+
+ (5) Oturma izni çalışma müsaadesini de içermektedir. Ancak geçici işçi, sezonluk işçi,
+ ücretli ve ücretli sanatçılar ayrıca çalışma izni almak zorundadır.
+
+ (6) Geçici ve sürekli olmak üzere iki türlüdür. Litvanya’da çalışmak isteyen yabancılar
+ çalışma izni almak zorundadır. Sürekli oturma vizesi 5 yıllıktır ve çalışma iznini de
+ kapsar.
+
+ (7) İşçi oturma vizesi sahipleri, mevsimlik işçiler ve AB’ye yeni üye olan ülke
+ vatandaşları çalışma izni almak zorundadır.
+
+ (8) Batı Şeria ve Gazze’de ikamet ve/veya çalışma izni uygulaması bulunmamaktadır.
+ Kudüs’te ikamet izni çalışma iznini kapsamamaktadır.
+
+
+
+
+                                                                                     39 / 47
+                                                                  Ek: 7
+
+     BORÇLANMA MİKTARININ TESPİTİNDE GEÇERLİ OLAN GÜNLÜK
+               KAZANCIN ALT VE ÜST SINIRLARI
+
+
+
+
+                            BİR GÜNLÜK PRİME ESAS KAZANCIN
+BORÇLANMA TALEP TARİHİ
+                               Alt Sınırı        Üst Sınırı
+
+   08/05/2008-30/06/2008         20,28             131,82
+
+
+   01/07/2008-31/12/2008         21,29             138,39
+
+
+   01/01/2009-30/06/2009         22,20             144,30
+
+
+   01/07/2009-31/12/2009         23,10             150,15
+
+
+   01/01/2010-30/06/2010         24,30             157,95
+
+
+   01/07/2010-31/12/2010         25,35             164,78
+
+
+   01/01/2011-30/06/2011         26,55             172,58
+
+
+   01/07/2011-31/12/2011         27,90             181,35
+
+
+
+
+                                                        40 / 47
+                                                                                                  Ek: 8
+                                 1479 SAYILI KANUNA GÖRE
+                   2003 YILI İKİNCİ ALTI AYLIK DÖNEM GELİR TABLOSU
+
+
+
+                                  Aylık                                            Aylık
+Basamaklar      Aylık Gelir     Gelir Orta      Basamaklar       Aylık Gelir     Gelir Orta
+                                 Noktası *                                        Noktası*
+
+      1           246,38                             13            498,57
+                                  254,29                                           527,54
+      2            262,2                             14            556,51
+                                                                                     45
+                                  270,105                                          585,515
+      3           278,01                             15            614,52            45
+                                  285,915                                          643,505
+      4           293,82                             16            672,49
+                                                                                     45
+                                  301,725                                          701,48
+      5           309,63                             17            730,47
+                                                                                     45
+                                  318,59                                           759,455
+
+      6           327,55                             18            788,44            45
+                                  336,51                                           817,43
+      7           345,47                             19            846,42            45
+                                  354,43                                           875,405
+      8           363,39                             20            904,39            45
+                                  372,35                                           933,38
+      9           381,31                             21            962,37
+                                                                                     45
+                                  390,27                                           991,355
+     10           399,23                             22           1.020,34
+                                                                                      45
+                                  408,19                                          1.049,325
+     11           417,15                             23           1.078,31
+                                                                                      45
+                                  426,105                                          1.107,3
+     12           435,06                             24           1.136,29
+                                  466,815
+     13           498,57
+
+
+* Basamak tespitinde yardımcı olması amacıyla bir önceki basamağın aylık geliri ile bir sonraki
+basamağın aylık geliri toplamının 2’ye bölünmesi suretiyle bulunmuştur.
+
+
+
+
+                                                                                        41 / 47
+                                                                                                  Ek: 9
+                                 1479 SAYILI KANUNA GÖRE
+                   2008 YILI İKİNCİ ALTI AYLIK DÖNEM GELİR TABLOSU
+
+
+
+
+                                  Aylık                                             Aylık
+Basamaklar      Aylık Gelir     Gelir Orta      Basamaklar       Aylık Gelir      Gelir Orta
+                                 Noktası *                                         Noktası*
+
+      1           425,13                             13            860,29
+                                  438,785                                          910,315
+      2           452,44                             14            960,34
+                                                                                     45
+                                  466,075                                         1010,315
+      3           479,71                             15            1060,37           45
+                                  493,355                                          1110,39
+      4             507                              16            1160,41
+                                                                                     45
+                                  520,64                                           1210,43
+      5           534,28                             17            1260,45
+                                                                                     45
+                                  549,735                                          1310,46
+
+      6           565,19                             18            1360,47           45
+                                  580,655                                          1410,49
+      7           596,12                             19            1460,51           45
+                                  611,58                                          1510,525
+      8           627,04                             20            1560,54           45
+                                  642,495                                          1610,56
+      9           657,95                             21            1660,58
+                                                                                     45
+                                  673,405                                          1710,59
+     10           688,86                             22            1760,6
+                                                                                     45
+                                  704,33                                          1810,625
+     11            719,8                             23            1860,65
+                                                                                     45
+                                  735,255                                          1910,67
+     12           750,71                             24            1960,69
+                                   805,5
+     13           860,29
+
+
+* Basamak tespitinde yardımcı olması amacıyla bir önceki basamağın aylık geliri ile bir sonraki
+basamağın aylık geliri toplamının 2’ye bölünmesi suretiyle bulunmuştur.
+
+
+
+                                                                                        42 / 47
+                                                                                           Ek: 10/a
+
+                    YÜRÜRLÜKTEN KALDIRILAN GENELGELER
+
+
+                                GENELGENİN                                  YÜRÜRLÜKTEN
+SIRA
+                                                                             KALDIRILAN
+ NO
+                                                                             DÜZENLEME
+        TARİHİ        SAYISI             KONUSU/STATÜSÜ
+                                 Sosyal Güvenlik Sözleşmeleri Kısa ve
+ 1     27.03.1986     8          Uzun Vadeli Sigorta Kolları                    II. Bölümü
+                                 Uygulamaları / (4/a)
+                                 Yurtdışı Hizmet Borçlanma
+ 2     27.05.1986    8-1 Ek      İşlemlerinin Bölge ve Sigorta                    Tamamı
+                                 Müdürlüklerine Devri / (4/a)
+
+ 3     11.11.1988    8-6 Ek      3395 Sayılı Kanunun Tatbiki / (4/a)              Tamamı
+
+                                 Katsayı ve Sosyal Yardım Zammı            “Yurtdışı Sigortalıları
+                                 Artışları ile İş Kesim ve Perakende         Tahsis İşlemleri”
+ 4     14.01.1993    12-49 Ek
+                                 Ödeme Tarihlerinde Yapılan                   başlıklı 4 üncü
+                                 Değişiklikler                                   bölümü
+
+ 5     13.10.1993    08-010 Ek   Yönetmelik Değişikliği / (4/a)                   Tamamı
+
+
+ 6     19.02.1997    8-012 Ek    Yurtdışı Hizmet Borçlanması / (4/a)              Tamamı
+
+
+ 7     18.05.1998    8-13 Ek     Yurtdışı Hizmet Borçlanması / (4/a)              Tamamı
+
+
+ 8     19.08.2003    8-17 Ek     Yurtdışı Hizmet Borçlanmaları / (4/a)            Tamamı
+
+                                 3201 sayılı Kanuna Göre Basamak
+ 9     13.05.2004    2004/7                                                       Tamamı
+                                 İntibak İşlemleri / (4/b)
+
+ 10    31.05.2004    8-19        Yurtdışı Hizmet Borçlanmaları                    Tamamı
+
+                                 Yurtdışı borçlanmalarına ilişkin tahsis
+ 11    03.11.2004    8-20 Ek                                                      Tamamı
+                                 dosyalarının devri / (4/a)
+
+ 12    17.01.2005    8-21 Ek     Yurtdışı Hizmet Borçlanmaları / (4/a)            Tamamı
+
+
+ 13    10.05.2005    8-24 Ek     Yurtdışı Hizmet Borçlanması / (4/a)              Tamamı
+
+
+ 14    02.06.2005    8-25 Ek     Yurtdışı Hizmet Borçlanması / (4/a)              Tamamı
+
+
+
+
+                                                                                      43 / 47
+                                                                                         Ek: 10/a
+
+                  YÜRÜRLÜKTEN KALDIRILAN GENELGELER
+
+
+                             GENELGENİN                                  YÜRÜRLÜKTEN
+SIRA
+                                                                          KALDIRILAN
+ NO
+       TARİHİ      SAYISI              KONUSU/STATÜSÜ                     DÜZENLEME
+
+ 15    06.12.2005 8-28 Ek     Yurtdışı Hizmet Borçlanması / (4/a)            Tamamı
+
+                              Yurtdışı Borçlanmalarda Prime Esas
+ 16    12.12.2005 8-29 Ek                                                    Tamamı
+                              Kazancın Tespiti / (4/a)
+
+                              Yurtdışı Borçlanmalarına İlişkin Tahsis
+ 17    08.03.2006 8-31 Ek                                                    Tamamı
+                              Dosyalarının Devri / (4/a)
+
+ 18    29.03.2006 8-32 Ek     Yurtdışı Hizmet Borçlanması / (4/a)            Tamamı
+
+
+ 19    01.11.2006 8-35 Ek     Yurtdışı Hizmet Borçlanması / (4/a)            Tamamı
+
+                              Kesin Dönüşün Belgelenmesi ve
+ 20    12.07.2007 2007/59                                                    Tamamı
+                              Yoklama İşlemleri / (4/a)
+                              3201 sayılı Kanunun Uygulanmasından
+ 21    14.05.2008 2008/37                                                    Tamamı
+                              Kaynaklanan Davalar
+
+ 22    22.05.2008 2008/44     Yurtdışı Borçlanma İşlemleri/(4/a + 4/b)       Tamamı
+
+
+ 23    04.08.2008 2008/72     Yurtdışı Borçlanma İşlemleri/(4/a + 4/b)       Tamamı
+
+                           Yurtdışında Geçen Sürelerin
+ 24    02.01.2009 2008/115 Borçlandırılması ve Değerlendirilmesi /           Tamamı
+                           (4/a + 4/b)
+                           Yurtdışı Borçlanma ve Tahsis
+ 25    24.11.2009 2009/140 İşlemlerinde Tereddüt Edilen Hususlar /           Tamamı
+                           (4/a + 4/b)
+                              3201 sayılı Kanuna göre aylık alanların
+ 26    02.07.2010 2010/80                                                    Tamamı
+                              yeniden çalışması / (4/a + 4/b)
+                                                                         “Kısmi Aylıkların
+                              Türkiye-Almanya Sosyal Güvenlik
+                                                                            Tam Aylığa
+ 27    05.08.2010 2010/91     Sözleşme Aylıkların Ait İşlemlerin
+                                                                         Dönüştürülmesi”
+                              Taşra Ünitelerine Devri /(4/a + 4/b)
+                                                                         başlıklı G bölümü
+                           3201 sayılı Kanuna Göre Aylık
+ 28    13.09.2010 2010/103 alanların yurtdışında çalışması, ödenek           Tamamı
+                           veya yardım alması / (4/a + 4/b)
+                                                                              Sözleşme
+                              Yurtdışı sigortalılarının malullük
+                                                                          uygulamalarına
+ 29    19.01.2011 2011/9      aylıklarında ilk işe giriş tarihlerinin
+                                                                         ilişkin hükümleri
+                              tespiti / (4/a + 4/b)
+                                                                            hariç tamamı
+
+
+                                                                                    44 / 47
+                                                                                    Ek: 10/b
+
+                    YÜRÜRLÜKTEN KALDIRILAN GENEL YAZILAR
+
+
+                               GENEL YAZININ                            YÜRÜRLÜKTEN
+SIRA
+                                                                         KALDIRILAN
+ NO
+        TARİHİ       SAYISI               KONUSU/STATÜSÜ                 DÜZENLEME
+
+ 1     30.10.1986    900035     3201 sayılı Kanun / (4/a)                  Tamamı
+ 2     18.3.1987     207913     Kesin Dönüş Hak. / (4/a)                   Tamamı
+ 3     11.7.1988     502737     3201 sayılı Kanun Uygulaması / (4/a)       Tamamı
+ 4     07.09.1988    617279     3201 sayılı Kanun / (4/a)                  Tamamı
+                                11.11.1988 tarih 8-6 Ek Genelgenin
+ 5     20.12.1988    874746                                                Tamamı
+                                Tatbiki / (4/a)
+ 6     26.11.1990    865811     3395 sayılı Yasanın Tatbiki / (4/a)        Tamamı
+ 7     24.04.1995    321063     Bilgi Formu / (4/a)                        Tamamı
+ 8     28.06.1999    469876     KKTC Hizmet Belgeleri / (4/a)              Tamamı
+ 9     08.12.1999    911582     Tahsis İşlemleri / (4/a)                   Tamamı
+                                Yurtdışı Hizmet Borçlanmasında
+10     24.12.1999    0960947                                               Tamamı
+                                Hizmetlerin Tespit İşlemi / (4/a)
+                                Yalova Sigorta Müdürlüğü Bünyesinde
+11     12.04.2000    259384     Yurtdışı İşçi Hizmetleri Servisinin        Tamamı
+                                Kurulması / (4/a)
+12     16.06.2000    446126     İstatistik / (4/a)                         Tamamı
+                                3201 sayılı Kanuna Göre Tahsis
+13     01.12.2004    125525                                                Tamamı
+                                İşlemleri / (4/b)
+                                3201 Sayılı Kanuna Göre Basamak
+14     31.05.2005    80171                                                 Tamamı
+                                İntibakı / (4/b)
+                                Yurtdışı Hizmet Borçlanmalarında
+15     02.06.2005    437569                                                Tamamı
+                                Hizmetlerin Tespit İşlemi / (4/a)
+                                Yurtdışı Hizmet Borçlanması
+16     26.09.2005    753864                                                Tamamı
+                                Performansı / (4/a)
+                                Yurtdışı Hizmet Borçlanması
+17     08.05.2006    360917                                                Tamamı
+                                Uygulamaları / (4/a)
+                                Hollanda’da Çalışan Vatandaşlarımızın
+18     19.07.2006    589538     Yurtdışı Hizmet Borçlanmasına Esas         Tamamı
+                                Olacak Hizmet Cetveli / (4/a)
+                                3201 sayılı Kanuna Göre Basamak
+19     17.08.2007    131592                                                Tamamı
+                                İntibakı / (4/b)
+
+
+
+
+                                                                                45 / 47
+                                                                                         Ek: 10/c
+
+           YÜRÜRLÜKTEN KALDIRILAN e-YURTDİSİ TALİMATLARI
+
+
+                              e-YURTDİSİNİN                              YÜRÜRLÜKTEN
+SIRA
+                                                                          KALDIRILAN
+ NO
+        TARİHİ      SAYISI             KONUSU/STATÜSÜ                     DÜZENLEME
+
+                                Yurtdışı Borçlanma İşlemleri /
+ 1     08.05.2008   2008/5                                                  Tamamı
+                                (4/a + 4/b)
+
+
+                                Yurtdışı Borçlanma İşlemleri /
+ 2     09.05.2008   2008/6                                                  Tamamı
+                                (4/a + 4/b)
+
+
+ 3     07.11.2008   2008/15     Yönetmelik / (4/a + 4/b)                    Tamamı
+
+
+                                Yeniden düzenlenen dilekçe ve
+ 4     22.12.2009   2009/6                                                  Tamamı
+                                belgeler / (4/a + 4/b)
+
+                                Süresi Dışında Ödenen Yurtdışı
+ 5     09.08.2010   2010/9                                                  Tamamı
+                                Borçlanma Miktarları / (4/a + 4/b)
+
+                                Oturma vizesi çalışma iznini de içeren
+ 6     25.10.2010   2010/11                                                 Tamamı
+                                ülkeler / (4/a + 4/b)
+
+                                Oturma vizesi çalışma iznini de içeren
+ 7     17.12.2010   2010/13                                                 Tamamı
+                                ülkeler / (4/a + 4/b)
+
+
+
+
+                                                                                     46 / 47
+                                                                                          Ek: 11
+
+ÖRNEK 1:
+
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 6/11/2018 tarihinden itibaren mülga)
+
+
+
+
+                                                                                          Ek: 12
+
+ÖRNEK 2:
+
+(15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 6/11/2018 tarihinden itibaren mülga)
+
+
+
+
+                                                                                          Ek: 13
+
+ ÖRNEK 3:
+
+  (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 6/11/2018 tarihinden itibaren mülga)
+
+
+
+
+                                                                                          Ek: 14
+
+ ÖRNEK 4:
+
+ (15/8/2019 tarihli ve 2019/16 sayılı Genelge ile 6/11/2018 tarihinden itibaren mülga)
+
+
+
+
+                                                                                   47 / 47
+

@@ -1,0 +1,2405 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74006
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Talimat/Talimatname/İç emirler
+SAYI: 
+ADI: SOSYAL GÜVENLİK KURUMU EVRAK İŞLEMLERİ HAKKINDA TALİMAT
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: fb4d353cbd2d45122c5cf8daeee5b8d7b3ef2442cb23a61871fc6c311065a4bf
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                             SOSYAL GÜVENLİK KURUMU
+                                 EVRAK İŞLEMLERİ
+                                HAKKINDA TALİMAT
+
+                                    BİRİNCİ KISIM
+                            Amaç, Kapsam, Dayanak, Tanımlar
+
+        Amaç
+        MADDE 1- (1) Bu Talimatın amacı Sosyal Güvenlik Kurumu Başkanlığı Merkez ve
+Taşra Birimleri evrak işlemlerinin düzenli, sistemli, verimli bir şekilde yürütülmesi, ve
+izlenebilmesine dair usul ve esasları düzenlemektir.
+        Kapsam
+        MADDE 2- (1) Bu Talimat Sosyal Güvenlik Kurumu merkez ve taşra birimlerinin,
+gelen ve giden evrakın, iç yazışmaların ve kapanan evrakın tabi tutulacağı işlemler ile, işi
+bitmeyen evrakın takibi ve tekit işlemlerinin usul ve esaslarını kapsar.
+        Dayanak
+        MADDE 3- (1) Bu Talimat 16.05.2006 tarihli ve 5502 sayılı Kanunun 40 ıncı
+maddesine dayanılarak hazırlanmıştır.
+        Tanımlar
+        MADDE 4- (1) Bu talimatta geçen,
+        Kurum: Sosyal Güvenlik Kurumu Başkanlığını,
+        Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+        Merkez teşkilatı: Kurumun, ana hizmet birimleri ile danışma ve yardımcı hizmet
+birimlerini,
+        Taşra teşkilatı: Sosyal Güvenlik İl Müdürlükleri ile il müdürlüklerine bağlı olarak
+kurulan sosyal güvenlik merkezlerini,
+        Servis: Merkez ve taşra teşkilatının çeşitli hizmetlerine göre ayrılmış kısımlarını,
+        Genel evrak ve evrak servisi: Kurumun merkez ve taşra teşkilatı bünyesinde genel
+evrak ve evrak servislerini,
+        Zimmet: Her türlü evrakın teslim alınmasını,
+        Sistem: Evrak Kayıt ve Takip Sistemini,
+        Gizli: Sadece birimin amiri veya bu amirin yetkilendirdiği görevlilerden başkasına
+gösterilmeyecek yazı ve belgelere verilen önem işaretini,
+        Günlü: Muayyen bir süre içerisinde veya muayyen bir tarihe kadar cevaplanılması
+istenilen yazılar için kullanılan terimi,
+        Havale (Kodlama): Evrakın hangi birim veya servise gönderileceğini,
+        ifade eder.
+
+                                   İKİNCİ BÖLÜM
+                   Gelen Evrakın Alınması ve Tabi Tutulacağı İşlemler
+
+        Gelen evrakın alınması
+        MADDE 5- (1) Genel Müdürlükler, Rehberlik ve Teftiş Başkanlığı, Strateji Geliştirme
+Başkanlığı, Hukuk Müşavirliği, İç Denetim Birimi, Aktüerya ve Fon Yönetimi Daire
+Başkanlığı, İnsan Kaynakları Daire Başkanlığı, Destek Hizmetleri Daire Başkanlığı, İnşaat ve
+Emlak Daire Başkanlığı, Basın ve Halkla İlişkiler Müşavirliğine gelen evraklar bu birimlerin
+kendi bünyelerinde oluşturulacakları evrak servisi tarafından; Kurum Başkanlığına hitaben
+gelen evrak ise, Destek Hizmetleri Daire Başkanlığı genel evrak servisi tarafından teslim
+alınır.
+        (2) Taahhütlü-taahhütsüz posta, APS, kargo, koli, faks, e-posta, mektup, kurye, elden
+ve diğer yollarla gelen evrak ve ekleri evrak işlemini yapan personel tarafından imza karşılığı
+teslim alınır. Kuruma gelen her türlü evrak, evrak birimleri tarafından bu talimat hükümlerine
+göre teslim alınmadıkça ve kaydedilmedikçe işlem yapılamaz.
+
+                                                                                             1
+         (3) Alınan evrakın Kurumla ilgili olup olmadığı, yırtık ve noksan bulunup
+bulunmadığı, gizli yazıların açık olup olmadığı incelenir. Bulunan yanlışlık ve eksiklikler
+ilgililerce tespit edilerek, gelen evrakın üzerine kayıt edilir.
+       (4) Alınan evrak gelen evrak servisinin bağlı olduğu birimle ilgili değilse, ait olduğu
+birime gönderilir. Ayrıca, gerek görülmesi halinde gönderen birime bilgi verilir. Kurum
+dışından yanlış gelen yazılar da ilgili kurumlara gönderilir.
+           (5) Alınan evraklarda yanlışlık veya eksiklik yok ise;
+      a) Birime elden getirilen evrak sisteme kayıt edilir. Kayıt yapıldıktan sonra, kayıt
+numarasını, kayıt tarihini, havale edildiği yeri (kod numarasını) gösteren fiş ilgiliye verilir.
+       b) İlam, icra ve vergi tebligatları, günlü ve acele yazılar, protesto ve ihtarname gibi
+evrak alınırken hangi gün ve saatte alındığı ayrıca kayıt edilir.
+       c) Kurum dışından zimmet listesi, defterleri veya alındı senetleri karşılığında gelen
+evrakın miktarı, nevi, alındığı tarih, ek adedi kayıt edilir.
+           Evrakın açılması
+           MADDE 6- (1)Birime gelen her türlü evrak alındıktan sonra aşağıdaki işlemler
+yapılır.
+         a) Zarflar veya kolilerin içinde hiçbir şey kalmadığı görülecek şekilde açılır.
+         b) Üzerinde birden fazla numara yazılmış zarf ve kolilerden çıkan evrakın, bu
+numaralara göre yanlış veya noksan olup olmadığı incelenir. Noksanlık, yanlışlık veya eksiklik
+olduğu takdirde durum zarf veya koli üzerinde belirtilir. İçi boşaltılan diğer zarf ve koliler
+imha edilir.
+        c) Evrakın eklerinin tam olup olmadığı incelenir. Eksiklik var ise evrak üzerine
+açıklama yazılır.
+        d) Zarfların veya kolilerin üzerinde şahıs veya kurum adresi yazılı olduğu halde,
+evrakta adres yoksa evrakın üzerine adres yazılarak havale işlemi yapılır.
+        e) Zarf veya kolilerin içerisinde menkul değer (para, altın, gümüş, senet, çek vb.) veya
+pul çıkan evrak, para-pul kayıt defterine yazının geldiği yer, tarih ve numarası ile zarftan veya
+koliden çıkan menkul değer veya pulun çeşidi ve miktarı belirtilerek kayıt edilir. Yazının
+üzerine de içinden çıkan menkul değer veya pul miktarının kaydı yapıldıktan sonra havale
+edilir. Postadan çıkan pullar kullanılır. Kullanılan pullar tutanakla tespit edilip muhasebe
+birimine bildirilir. Postadan çıkan menkul değerler ise tutanak ekinde yazı ile muhasebe
+birimine ilgili adına emanete alınmak üzere gönderilir.
+        f) İlam, icra ve vergi tebligatları, günlü ve acele yazılar, protesto ve ihtarname gibi
+evrak ve belgeler zarfları ile birlikte derhal ilgili birime gönderilir.
+        Evrakın havalesi
+        MADDE 7- (1) Evrak üzerindeki bilgiler, gelen evrak servisinde görevli personel
+tarafından duruma göre aşağıdaki bilgiler dahilinde sisteme kaydedilir.
+        a) Evrakın geldiği yer,
+        b) T.C. kimlik numarası,
+        c) Sosyal güvenlik sicil numarası,
+        d) Tahsis numarası,
+        e) Adı,
+        f) Soyadı,
+        g) Evrak numarası,
+        h) Evrak tarihi,
+        i) Ek sayısı,
+        j) Gizli,
+        k) Geliş şekli,
+        l) Geliş numarası,
+        m) Gönderim şekli,
+        n) Gideceği birim,
+                                                                                              2
+          o) Konu,
+          p) Açıklama,
+         (2) Sistem, giriş kayıt numarasını (varide numarası) otomatik olarak verir. Sistemden
+alınan numara evrak üzerine okunaklı biçimde yazılır. Bu numara kurumun merkez ve taşra
+teşkilatı için tektir. Her takvim yılı başında 1 (bir)’den başlar.
+        (3) Teknik arıza ve olağanüstü sebeplerle sistemin kullanılamaması halinde, bu
+durumlar ortadan kalkıncaya kadar gelen evrak, merkezde ilgili birim amiri veya daire
+başkanı, taşrada sosyal güvenlik il müdürü veya merkez müdüründen alınacak onaya
+istinaden, tanzim edilecek gelen evrak kayıt fişine veya sistem dışında bilgisayar ortamına
+kaydedilir. Teknik arıza giderildikten veya olağanüstü durum sona erdikten sonra en kısa
+zamanda, evraka sistem dışında verilen tarih ve numara sistemdeki evrak tarihi ve evrak
+numarası alanına girilerek evrak kaydı tamamlanır.
+          Dağıtımlı evrak
+          MADDE 8- (1)Servisten gönderilecek evrak birden fazla birimi ilgilendiriyor ise,
+ilgili birim sayısı kadar çoğaltılarak, Zimmet Listesi ile ilgili birimlere dağıtımı yapılır.
+          Yanlış havaleler ve iade işlemleri
+          MADDE 9- (1) Yanlış yere havale edilen evrak, evrakı alan birim tarafından sistem
+üzerinde işlem yapılarak ilgili birime gönderilir. Evrakın gitmesi gereken birime karar
+verilememesi halinde, gönderen birime iade edilir. Bu işlemler acele ve günlü evrak için aynı
+gün veya en geç ertesi iş günü, diğer evrak için ise, en geç iki iş günü içinde işlem
+tamamlanır.
+          Gelen evrakın dağıtımı
+          MADDE 10- (1) Gelen evrakın kayıt işlemleri yapıldıktan sonra, her birim için iki
+nüsha zimmet listesi düzenlenip zimmetten çıkarma işlemi yapıldıktan sonra, ilgili birimlere
+gönderilir. İlgili birim personeli zimmet listesine adını ve soyadını, teslim alış tarihini yazıp
+imzalayarak evrakı teslim alır. Zimmet listesinin bir nüshası ilgili birimde bırakılır.
+          Dağıtım süresi
+          MADDE 11- (1) Posta ile gelen veya elden alınan evrak, paket ile kolilerin kontrol ve
+kayıt işlemi tamamlandıktan sonra en kısa zamanda yerlerine ulaştırılır. Günlü ve acele
+yazılar, mahkemelerden, icra dairelerinden gelen her türlü tebligat, (icra tebligatı, ilamlar)
+4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanuna
+istinaden soruşturma izni istemleri ile soruşturma izni verilip verilmeyeceğine dair kararlar,
+protokoller, müddetli teklif mektupları ve her türlü ihale evrakı ayrılarak bekletilmeden
+derhal, bunların dışındaki her türlü evrak ise, en geç ertesi işgünü mesai saati içinde, 10 uncu
+maddede belirtilen usulde ilgili birimlere verilir.
+          Özel ve gizli evrakın açılması, takibi ve saklanması
+          MADDE 12- (1) ”Gizli” ve “Özel” ibareli zarflar, birim amirleri veya bu hususta
+yetkilendirilmiş personel tarafından açılır.
+         (2) Birimlerce kabul edilen evraktan bunları teslim alan personel sorumlu tutulur.
+Personelin acil durumlarda sisteme kaydetmeden yetkili makama ilettiği evrakın en kısa
+zamanda sisteme kaydı yapılır. Sürati sağlamak ve yanlışlıkları önlemek için ilgili birim
+amirleri, personelin öğrenmesini sakıncalı gördüğü evrakı, evrak servisinden evrakın kaydını
+sisteme yaptırmak sureti ile zimmet listesini yazdırır. Bu tür evrakın herhangi bir birime mal
+edilememesi halinde, bizzat birim amirlerine teslim edilerek zimmetlenir.
+        (3) Gizli evrak, ilgili birim amirlerinin sorumluluğu altında muhafaza edilir. Gizli
+evrakı, muhafaza eden personelin görevden ayrılması halinde görevi devralana zimmet
+karşılığı teslim edilir. Gizlilik kurallarını ihlal edenler hakkında idari ve cezai işlem yapılır.
+          Faks ile alınan evrak kaydı
+          MADDE 13- (1) Faks ile alınan evrak diğer evraklar gibi evrak servisinden giriş tarihi
+aldıktan sonra, sisteme kayıt edilerek ilgili birim veya servise gönderilir. Alınan faks
+mesajları ile ilgili kayıt işlemi mevcut kayıt sistemine göre yapılır. Evrakın aslı gelince faksla
+birleştirilir.
+          Koliler ile plan-proje gibi evrakın kaydı
+
+                                                                                                3
+        MADDE 14- (1) Alınan koli ve paketler evrak servislerinde tutulan koli zimmet
+defterine kayıt edilir. İlgili birim veya servislere imza karşılığında teslim edilir. Özel kuruluş
+ve şahıslardan çeşitli nedenlerle bir evraka ekli olmaksızın gelen plan, proje ve dosya gibi
+evrakın nereye ait olduğu tespit edilir. Sisteme kayıt edilerek gönderilir.
+        Teftiş soruşturma ve raporlarının kayıt işlemi
+        MADDE 15- (1) Doğrudan Rehberlik ve Teftiş Başkanlığı veya Kurum Başkanlığına
+yazılı olmasına rağmen, zarfın üzerinde (Teftiş) kaydını ihtiva eden zarflar, açılmadan sisteme
+kayıt edildikten sonra, Rehberlik ve Teftiş Başkanlığına gönderilir.
+        Kitap, mecmua, gazete ve diğer basılı yayınların kaydı
+        MADDE 16- (1) Bu tür basılı yayınlar, evrak servisince sisteme kayıt edilerek
+dağıtılır.
+        Evrak numarası verilmeyecek belgeler
+        MADDE 17- (1) Davetiyeler, tebrikler, yıllık izin ile mutemet dilekçeleri, personel
+hasta sevk kâğıtları, evrak suretleri ekleri ve fotokopilerine evrak numarası verilmez.
+        Posta gecikmeleri
+        MADDE 18- (1) Herhangi bir evrakın tarihi ile postadan alındığı tarih arasında tahmin
+edilen normal müddetin üstünde bir gecikme görüldüğü takdirde, bu tür evrakın zarfları
+yazılarına eklenerek işleme konulur.
+
+                                   ÜÇÜNCÜ KISIM
+                  Dışarıya Gönderilen Evrakın Tabi Tutulacağı İşlemler
+
+         MADDE 19- (1) Giden evrak posta vasıtası ile olduğu gibi kargo, elektronik posta
+kurye veya dağıtıcı ile de sevk olunur. Giden evrak bu talimat hükümlerine göre kayıt
+işlemleri yapılmadan sevk olunmaz.
+         Sevk için evrakın alınışında dikkat edilecek hususlar
+         MADDE 20- (1) Evrakın sevk edilebilmesi için evrak servislerine teslim edilmesi ve
+bu servisler tarafından sevkinin yapılması gerekir. Evrak ile suretleri ilgililer tarafından
+kontrol edildikten sonra zimmet listesi imzalanarak alınır.
+         Gidecek evrakın hazırlanması ve kaydedilmesi
+         MADDE 21- (1) Bütün birimlerce hazırlanacak evrakta;
+         a) Sayı,
+         b) Tarih,
+         c) Gönderilen makam adı,
+         açıkça yazılmalıdır.
+        (2) Yetkili makamlarca sevke hazır duruma getirilen çeşitli evrak ve ekleri yazıyı
+hazırlayan ilgili kişi ya da birim içinde görevlendirilen yetkili tarafından sistem üzerinden
+kayıt edilir. Sistemin evrak için verdiği kayıt numarası evrak üzerine yazılır. Eğer gelen evrak
+nedeni ile bu evrak hazırlandı ise tek numara ile izlenebilmesi için, gelen evrakın numarası bu
+evraka verilir. Her evrakın aslına ve suretlerin aynı numara verilir.
+         Dışarıya sevk edilecek evrakın evrak servislerine verilmesi
+         MADDE 22- (1) Birimler harice gönderilecek evrakı 21 inci madde gereği
+hazırlayarak sisteme kaydeder ve sistemin vermiş olduğu varide numarasını evrakın üzerine
+yazar. Posta yoluyla gönderilecek evrak bu şekilde sisteme yüklendikten sonra posta zimmet
+listesinin çıktısı alınır. Bu zimmet çıktılarının PTT’ce parasal miktarı tespit edilir ve
+onaylanır. Bir sureti denetimde kanıtlayıcı belge olarak saklanır.
+         Evrakın zarflanması
+         MADDE 23- (1) Bir birime gidecek zarfın içinde alabileceği kadar evrak ve ekleri
+konulabilir. Bu takdirde zarfın içine konan evrakın numaraları zarfın üzerine yazılır.
+         Evrak ve basılı yayınların sevk şekilleri
+         MADDE 24- (1) Evrak ve basılı yayınların gönderim şekli evrakı hazırlayan birimce
+sistemden belirlenip kayıt işlemi ve sevki yapılır.
+         Kurye ile sevk işlemi
+
+                                                                                                4
+        MADDE 25- (1) Gerek görülmesi halinde, birimce kurye marifetiyle sevki gereken
+evrakın, sistemden zimmet listesi alınır. Kurye vasıtası ile imza karşılığı teslim edilir.
+        Özel kargo servisi ile sevk işlemi
+        MADDE 26- (1) Birim yetkilisin bilgisi dâhilinde özel kargo şirketleri ile koli
+gönderilir. Bu tür gönderiler özel kargolarda adrese teslimi sağlayan firmalarla yapılır. Kargo
+ücreti gönderen tarafından ödenir.
+        Gizli evrak sevki
+        MADDE 27- (1) Gizli evrak ilgili birimlerce hazırlanıp sisteme kayıt edildikten sonra
+zarflanır. Zarfın üzerine gizlilik derecesi yazılır. İkinci bir zarfa konulmak kaydıyla adres
+bilgileri yazılır. Sevk edilmek üzere zimmet listesi ile birlikte evrak servisine teslim edilir.
+        Günlü ve acele evrak sevki
+        MADDE 28- (1) Günlü ve acele evrakın sevk muamelesi öncelikle en seri şekilde
+yapılır. Evrak günlü olmadığı halde konusu itibarı ile acele ise, birim yetkilisinin talimatı ile
+acele işlemi yapılır.
+        Kitap, mecmua ve diğer basılı yayınların sevk işlemi
+        MADDE 29- (1) Kitap, mecmua, gazete, bülten, afiş ve buna benzer basılı yayınların
+sevki adi posta yoluyla yapılır.
+        Posta avans ve kredi işlemi
+        MADDE 30- (1) 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu çerçevesinde
+pul, koli ve kargo sarf ücretinin avans ve kredi işlemi, evrak servisleri tarafından yapılır. Post
+makinesine yüklenen posta gideri, posta pulu, koli ve noter ücretlerini karşılamak üzere evrak
+servisinde görevli harcama yetkilisi mutemedine Kurum bütçesinde belirtilen miktara kadar
+avans veya kredi verilir. Harcama yetkilisi mutemetleri aldıkları avans ve krediyi sarf ettikçe,
+tanzim edecekleri mahsup belgelerini hazırlayarak muhasebe birimine teslim edip, avans veya
+kredi hesaplarını kapatırlar.
+
+                                            DÖRDÜNCÜ KISIM
+                                   İç Yazışmanın Tabi Tutulacağı İşlemler
+
+        İç yazışmalar
+        MADDE 31- (1) Merkez teşkilatında, birimler arası ve taşra teşkilatında servisler arası
+yazışmaya denir.
+        İç yazışmalara ait kayıt işlemi, havalesi ve sevki
+        MADDE 32- (1) İç yazışmalarda, dışarıya sevk edilen evraklarda uygulanan esaslara
+göre işlem yapılır.
+
+
+
+
+        İç yazışmanın gönderilmesi
+        MADDE 33- (1) Merkezde evrak, ana hizmet birimleri, danışma birimleri ve yardımcı
+hizmet birimleri evrak servislerine verilir. İlgili evrak servisleri marifetiyle evrak alt birimlere
+intikal ettirilir. Taşra teşkilatında servisler arası doğrudan yazışma yapılır.
+
+                                        BEŞİNCİ KISIM
+                                        Ortak Hükümler
+
+       Yükümlülük
+       MADDE 34- (1) Her personel gelen yazıların kayıtlı olup olmadığını incelemek ve
+kaydı olmayanların kaydını yaptırmakla sorumludur. Evrakla ilgisi olmayan hiç kimseye yazı
+ve belge verilmez, gösterilmez.
+       Evrak kayıtlarının kapanması
+
+
+                                                                                                  5
+        MADDE 35- (1) Her birim kendilerine havale edilen evrak için “Bilgisayar kayıtları”
+üzerinde kapatma işlemi yapacaklarından, gelen evrakın kime verildiği, dosya numarası ve ne
+gibi işlem gördüğü açıkça belirtilir. Hiçbir kayıt açık bırakılmaz, kaydı kapanmamış evrak
+hakkında bu talimatın 36 ncı madde hükümleri uygulanır.
+        İşi bitmeyen evrakın takibi
+        MADDE 36- (1) Herhangi bir birime gelen evrakın en geç 15 gün içinde işleminin
+yapılması gerekir. İşleminin uzamasından veya gecikmesinden, ilgililer sorumludur.
+        (2) Her yıl sonunda merkez ve taşra birimlerindeki, bütün servisler o yıl içinde gelen
+dahili ve harici evraklardan yıl sonu itibariyle, kaydı kapanmamış olanlar için sistemden devir
+listesini alır. Liste en geç Ocak ayının 4 üncü mesai günü birim amirine verilir, gerekli
+değerlendirme yapılır.
+        Tekit işlemleri
+        MADDE 37- (1) Bir işlemin gereken zaman içinde bitirilmemesi veya sorulan bir şeye
+zamanında cevap verilmemesi halinde “tekit” işlemi yapılır.
+        Şifre kullanımı
+        MADDE 38- (1) Sistemi kullanmak için birimler ihtiyacına göre tespit ettiği
+personeline, Hizmet Sunumu Genel Müdürlüğü Teknoloji ve İş Geliştirme Daire
+Başkanlığından şifre talep eder. Sistemi kullanmak üzere alınan şifreler, şifre verilen personel
+haricindekilerce kullanılamaz ve kullandırılamaz.
+        Yazışma kodları
+        MADDE 39- (1) Kurumumuz merkez ve taşra teşkilatı yazışmalarda Talimata ekli
+yazışma kodlarını kullanacaklardır. Yeni birimlerin kurulması halinde yazışma kodu Hizmet
+Sunumu Genel Müdürlüğü tarafından verilecektir.
+
+                                      ALTINCI KISIM
+                                       Son Hükümler
+
+        Yürürlükten kaldırılan hükümler
+        MADDE 40- (1) 11.11.2002 tarih ve 124477 sayılı Bağ-Kur Genel Müdürlük
+Makamının onayı ile yürürlüğe giren “Evrak İşlemleri Talimatıyla” ilgili 2001/7 sayılı
+Genelge,
+       (2) 20.05.2004 tarih ve XX/873 sayılı Sosyal Sigortalar Kurumu Yönetim Kurulunun
+onayı ile yürürlüğe giren “Sosyal Sigortalar Kurumu Başkanlığı Sağlık İşleri Genel
+Müdürlüğü Evrak – Muhaberat İşleri Hakkında Talimatı,”
+      (3) 13.11.2003 tarih ve XIV/2319 sayılı Sosyal Sigortalar Kurumu Yönetim Kurulunun
+onayı ile yürürlüğe giren “Sosyal Sigortalar Kurumu Başkanlığı Evrak – Muhaberat İşleri
+Hakkında Talimatı,”
+        yürürlükten kalkmıştır.
+        Yürürlük
+        MADDE 41- (1) Bu talimat Kurum Başkanının onaylandığı tarihinde yürürlüğe girer.
+        Yürütme
+        MADDE 42- (1) Bu talimat hükümlerini Kurum Başkanı yürütür.
+
+
+
+
+                                                                                              6
+                                 YAZIŞMA KOD LİSTESİ
+B
+    13.   0.   000.   0.   00.   00.   00   ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   00.   00.   00   SOSYAL GÜVENLİK KURUMU
+.
+B
+    13.   2.   SGK.   0.   01.   00.   00     Özel Kalem
+.
+B
+    13.   2.   SGK.   0.   10.   00.   00   SOSYAL SİGORTALAR GENEL MÜDÜRLÜĞÜ
+.
+                                 01.   00     Sigortalı Emeklilik İşlemleri Daire Başkanlığı
+                                 02.   00     Kamu Görevlileri Emeklilik İşlemleri Daire Başkanlığı
+                                 03.   00     Sigortalı Tescil ve Hizmet Daire Başkanlığı
+                                 04.   00     Prim Tahsilat Daire Başkanlığı
+                                 05.   00     Kısa Vadeli Sigortalar Daire Başkanlığı
+                                 06.   00     İhtilaflı Prim İşleri ve İcra Daire Başkanlığı
+                                 07.   00     Yurtdışı Borçlanma ve Tahsis İşlemleri Daire Başkanlığı
+                                 08.   00     İzleme, Değerlendirme Bilgilendirme ve Kontrol Daire Başkanlığı
+B
+    13.   2.   SGK    0.   11.   00.   00   GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ
+.
+                                 01.   00     Politika Belirleme Daire Başkanlığı
+                                 02.   00     Proje Geliştirme Daire Başkanlığı
+                                              Sağlık Hizmet Sunucularının ve Ödemelerin Yönetimi Daire
+                                 03.   00
+                                              Başkanlığı
+                                 04.   00     Sağlık Uygulama Ve Mevzuat Daire Başkanlığı
+                                 05.   00     Fiyatlandırma Daire Başkanlığı
+                                 06.   00     İzleme ve Değerlendirme Daire Başkanlığı
+                                 07.   00     Maluliyet ve Sağlık Kurulları Daire Başkanlığı
+B
+    13.   2.   SGK.   0.   12.   00.   00   PRİMSİZ ÖDEMELER GENEL MÜDÜRLÜĞÜ
+.
+                                 01.   00     Sosyal Yardımlar Daire Başkanlığı
+                                 02.   00     Kurumsal Gelişim ve Ortak Veri Tabanı Daire Başkanlığı
+                                 03.   00     İdari İşlemler ve Mali Yönetim Daire Başkanlığı
+                                 04.   00     Ödemeler Daire Başkanlığı
+                                 05.   00     Sağlık Yardımları ve Yaşam Düzeyi Tespiti Daire Başkanlığı
+B
+    13.   2.   SGK.   0.   13.   00.   00   HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ
+.
+                                 01.   00     Yazılım Geliştirme ve Sistem Daire Başkanlığı
+                                 02.   00     Kurumsal Hizmetler Daire Başkanlığı
+                                 03.   00     Teknoloji ve İş Geliştirme Daire Başkanlığı
+                                 04.   00     Donanım ve Altyapı Hizmetleri Daire Başkanlığı
+                                 05.   00     Organizasyon Hizmetleri Daire Başkanlığı
+                                 06.   00     Mali Yönetim ve İdari İşler Daire Başkanlığı
+B
+    13.   2.   SGK.   0.   14.   00.   00   REHBERLİK VE TEFTİŞ BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   15.   00.   00   AKTÜERYA VE FON YÖNETİMİ DAİRE BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   61.   00.   00   HUKUK MÜŞAVİRLİĞİ
+.
+B
+    13.   2.   SGK.   0.   63.   00.   00   BASIN VE HALKLA İLİŞKİLER MÜŞAVİRLİĞİ
+.
+
+                                                                                                        7
+B
+    13.   2.   SGK.   0.   64.   00.   00   İÇ DENETİM BİRİMİ BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   65.   00.   00   STRATEJİ GELİŞTİRME BAŞKANLIĞI
+.
+                                 01.   00     Bütçe ve Muhasebe Daire Başkanlığı
+                                 02.   00     Avrupa Birliği ve Yurtdışı İlişkiler Daire Başkanlığı
+                                 03.   00     Stratejik Yönetim ve Planlama Daire Başkanlığı
+                                 04.   00     İç Kontrol Daire Başkanlığı
+B
+    13.   2.   SGK.   0.   71.   00.   00   İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   73.   00.   00   DESTEK HİZMETLERİ DAİRE BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   0.   80.   00.   00   İNŞAAT VE EMLAK DAİRE BAŞKANLIĞI
+.
+B
+    13.   2.   SGK.   4.   01.   00.   00   ADANA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   01.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   01.   10.   01          Seyhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   01.   10.   02          Çukurova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   01.   10.   03          Yüreğir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   01.   10.   04          Ceyhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   01.   10.   05          Kozan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   01.   20.   00      SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   01.   20.   01          Adana Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   02.   00.   00   ADIYAMAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   02.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   02.   10.   01          Adıyaman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   02.   10.   02          Kahta Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   02.   10.   03          Besni Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   02.   10.   04          Gölbaşı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   00.   00   AFYONKARAHİSAR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   03.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   03.   10.   01          Kocatepe Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   02          Bolvadin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   03          Dinar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   04          Sandıklı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   05          Emirdağ Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   06          Sincanlı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   07          Şuhut Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+
+                                                                                                      8
+B
+    13.   2.   SGK.   4.   03.   10.   08        Çay Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   03.   10.   09        İhsaniye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   00.   00    AĞRI SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   04.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   04.   10.   01        Ağrı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   10.   02        Patnos Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   10.   03        Doğubeyazıt Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   10.   04        Diyadin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   10.   05        Eleşkirt Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   04.   10.   06        Tutak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   05.   00.   00    AMASYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   05.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   05.   10.   01        Amasya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   05.   10.   02        Merzifon Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   05.   10.   03        Suluova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   05.   10.   04        Taşova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   00.   00.   ANKARA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   06.   10.   00      SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   06.   10.   01        Dış Kapı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   02        Ulucanlar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   03        Ulus Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   04        Siteler Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   05        Yenişehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   06        Sıhhiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   07        Ostim Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   08        Beypazarı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   09        Çubuk Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   10        Etimesgut Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   11        Kazan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   12        Pursaklar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   13        Kızılcahamam Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   14        Polatlı Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              9
+B
+    13.   2.   SGK.   4.   06.   10.   15       Sincan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   16       Şereflikoçhisar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   17       Mamak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   18       Gölbaşı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   19       Elmadağ Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   20       Haymana Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   10.   21       Nallıhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   06.   20.   01       Kocatepe Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   20.   02       Bahçelievler Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   20.   03       Kavaklıdere Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   06.   30.   00     HUKUK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   06.   30.   01       Kızılay Hukuk Sosyal Güvenlik Merkezi
+.
+B
+    13.   2.   SGK.   4.   07.   00.   00   ANTALYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   07.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   07.   10.   01       Antalya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   02       Alanya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   03       Kaş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   04       Kumluca Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   05       Manavgat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   06       Serik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   07       Korkuteli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   08       Gazipaşa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   09       Finike Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   10       Elmalı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   10.   11       Kemer Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   07.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   07.   20.   01       Antalya Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   08.   00.   00   ARTVİN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   08.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   08.   10.   01       Artvin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   08.   10.   02       Hopa Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             10
+B
+    13.   2.   SGK.   4.   09.   00.   00   AYDIN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   09.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   09.   10.   01       Yedi Eylül Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   02       Nazilli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   03       Söke Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   04       Kuşadası Eylül Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   05       Çine Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   06       Germencik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   07       Didim Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   08       İncirliova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   09       Bozdoğan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   09.   10.   10       Kuyucak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   00.   00   BALIKESİR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   10.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   10.   10.   01       Altıeylül Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   02       Ayvalık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   03       Bandırma Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   04       Edremit Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   05       Gönen Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   06       Bigadiç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   07       Burhaniye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   08       Dursunbey Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   09       Susurluk Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   10       Sındırgı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   11       İvrindi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   10.   10.   12       Erdek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   11.   00.   00   BİLECİK SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   11.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   11.   10.   01       Bilecik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   11.   10.   02       Bozüyük Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   12.   00.   00   BİNGÖL SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   12.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+
+                                                                                              11
+B
+    13.   2.   SGK.   4.   12.   10.   01       Bingöl Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   12.   10.   02       Genç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   12.   10.   03       Solhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   12.   10.   04       Karlıova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   00    00   BİTLİS SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   13.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   13.   10.   01       Bitlis Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   02       Tatvan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   03       Güroymak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   04       Adilcevaz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   05       Hizan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   06       Ahlat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   13.   10.   07       Mutki Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   14.   00.   00   BOLU SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   14.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   14.   10.   01       Bolu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   14.   10.   02       Gerede Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   15.   00.   00   BURDUR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   15.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   15.   10.   01       Burdur Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   15.   10.   02       Bucak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   00    00   BURSA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   16.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   16.   10.   01       Nilüfer Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   02       Orhaneli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   03       Orhangazi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   04       Osmangazi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   05       Yenişehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   06       Yıldırım Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   07       Gemlik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   08       İnegöl Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   09       İznik Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             12
+B
+    13.   2.   SGK.   4.   16.   10.   10       Karacabey Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   11       M.Kemalpaşa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   12       Mudanya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   13       Gürsu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   10.   14       Kestel Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   16.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   16.   20.   01       Bursa Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   00.   00   ÇANAKKALE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   17.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   17.   10.   01       Çanakkale Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   02       Biga Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   03       Çan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   04       Gelibolu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   05       Yenice Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   06       Ezine Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   07       Bayramiç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   17.   10.   08       Ayvacık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   18.   00.   00   ÇANKIRI SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   18.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   18.   10.   01       Çankırı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   18.   10.   02       Çerkeş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   19.   00.   00   ÇORUM SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   19.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   19.   10.   01       Çorum Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   19.   10.   02       Sungurlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   19.   10.   03       Osmancık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   19.   10.   04       İskilip Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   19.   10.   05       Alaca Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   20.   00.   00   DENİZLİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   20.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   20.   10.   01       Pamukkale Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   20.   10.   02       Acıpayam Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             13
+B
+    13.   2.   SGK.   4.   20.   10.   03       Çivril Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   20.   10.   04       Sarayköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   20.   10.   05       Tavas Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   00.   00   DİYARBAKIR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   21.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   21.   10.   01       Sur Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   02       Ergani Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   03       Silvan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   04       Bismil Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   05       Çınar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   06       Çermik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   07       Dicle Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   08       Kulp Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   09       Hani Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   10.   10       Lice Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   21.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   21.   20.   01       Diyarbakır Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   22.   00.   00   EDİRNE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   22.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   22.   10.   01       Edirne Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   22.   10.   02       Keşan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   22.   10.   03       Uzunköprü Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   22.   10.   04       İpsala Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   23.   00.   00   ELAZIĞ OSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   23.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   23.   10.   01       Elazığ Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   23.   10.   02       Kovancılar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   23.   10.   03       Karakoçan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   24.   00.   00   ERZİNCAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   24.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   24.   10.   01       Erzincan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   24.   10.   02       Tercan Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              14
+B
+    13.   2.   SGK.   4.   25.   00.   00   ERZURUM SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   25.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   25.   10.   01       Nenehatun Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   02       Hınıs Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   03       Oltu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   04       Horasan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   05       Pasinler Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   06       Karayazı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   10.   07       Tekman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   25.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   25.   20.   01       Erzurum Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   26.   00.   00   ESKİŞEHİR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   26.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   26.   10.   01       Yunus Emre Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   26.   10.   02       Sivrihisar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   26.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   26.   20.   01       Eskişehir Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   00.   00   GAZİANTEP SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   27.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   27.   10.   01       Şahinbey Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   10.   02       Şehitkâmil Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   10.   03       Nizip Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   10.   04       İslahiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   10.   05       Nurdağı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   10.   06       Araban Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   27.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   27.   20.   01       Gaziantep Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   28.   00.   00   GİRESUN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   28.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   28.   10.   01       Giresun Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   28.   10.   02       Bulancak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   28.   10.   03       Espiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              15
+B
+    13.   2.   SGK.   4.   29.   00.   00   GÜMÜŞHANE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   29.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   29.   10.   01       Gümüşhane Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   29.   10.   02       Kelkit Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   30.   00.   00   HAKKARİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   30.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   30.   10.   01       Hakkari Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   30.   10.   02       Yüksekova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   30.   10.   03       Şemdinli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   00.   00   HATAY SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   31.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   31.   10.   01       Antakya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   02       İskenderun Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   03       Dörtyol Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   04       Samandağı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   05       Kırıkhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   06       Reyhanlı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   07       Altınözü Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   08       Hassa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   31.   10.   09       Erzin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   32.   00.   00   ISPARTA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   32.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   32.   10.   01       Isparta Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   32.   10.   02       Yalvaç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   32.   10.   03       Eğridir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   00.   00   İÇEL SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   33.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   33.   10.   01       Akdeniz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   10.   02       Anamur Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   10.   03       Silifke Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   10.   04       Tarsus Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   10.   05       Erdemli Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             16
+B
+    13.   2.   SGK.   4.   33.   10.   06       Mut Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   33.   10.   07       Gülnar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   00.   00   İSTANBUL SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   34.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   34.   10.   01       Bağcılar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   02       Bakırköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   03       Bayrampaşa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   04       Beşiktaş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   05       Beyoğlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   06       Büyükçekmece Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   07       Fatih Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   08       Gaziosmanpaşa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   09       Kadıköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   10       Kağıthane Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   11       Kartal Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   12       Küçükçekmece Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   13       Pendik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   14       Silivri Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   15       Sarıgazi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   16       Şişli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   17       Zeytinburnu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   18       Ümraniye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   19       Üsküdar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   20       Bahçelievler Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   21       Esenler Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   22       Eyüp Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   23       Avcılar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   24       Güngören Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   25       Sarıyer Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   26       Beykoz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   27       Tuzla Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   10.   28       Çatalca Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             17
+B
+    13.   2.   SGK.   4.   34.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   34.   20.   01       Fındıklı Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   20.   02       Cibali Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   20.   03       Kurtköy Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   20.   04       Doğancılar Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   34.   30.   00     HUKUK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   34.   30.   01       Boğaziçi Hukuk Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   00.   00   İZMİR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   35.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   35.   10.   01       Bornova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   02       Buca Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   03       Çiğli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   04       Karşıyaka Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   05       Konak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   06       Yenigün Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   07       Aliağa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   08       Bergama Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   09       Çeşme Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   10       Ödemiş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   11       Tire Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   12       Torbalı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   13       Menemen Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   14       Kemalpaşa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   10.   15       Urla Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   35.   20.   01       Kordon Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   20.   02       Kemeraltı Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   20.   03       Alsancak Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   35.   30.   00     HUKUK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   35.   30.   01       Bayraklı Hukuk Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   36.   00.   00   KARS SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   36.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+
+                                                                                             18
+B
+    13.   2.   SGK.   4.   36.   10.   01       Kars Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   36.   10.   02       Sarıkamış Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   36.   10.   03       Kağızman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   37.   00.   00   KASTAMONUSOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   37.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   37.   10.   01       Kastamonu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   37.   10.   02       Taşköprü Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   37.   10.   03       Tosya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   00.   00   KAYSERİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   38.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   38.   10.   01       Kocasinan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   02       Melikgazi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   03       Bünyan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   04       Develi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   05       Talas Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   06       Yahyalı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   10.   07       Pınarbaşı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   38.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   38.   20.   01       Kayseri Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   39.   00.   00   KIRKLARELİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   39.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   39.   10.   01       Kırklareli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   39.   10.   02       Lüleburgaz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   39.   10.   03       Babaeski Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   39.   10.   04       Vize Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   40.   00.   00   KIRŞEHİR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   40.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   40.   10.   01       Kırşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   40.   10.   02       Kaman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   00.   00   KOCAELİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   41.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   41.   10.   01       İzmit Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              19
+B
+    13.   2.   SGK.   4.   41.   10.   02       Kartepe Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   10.   03       Gebze Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   10.   04       Gölcük Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   10.   05       Kandıra Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   10.   06       Çayırova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   10.   07       Karamürsel Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   41.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   01.   20.   01       Kocaeli Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   00.   00   KONYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   42.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   42.   10.   01       Meram Karatay Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   02       Selçuklu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   03       Akşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   04       Beyşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   05       Cihanbeyli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   06       Ereğli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   07       Ilgın Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   08       Karapınar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   09       Seydişehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   10       Çumra Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   11       Kulu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   12       Kadınhanı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   10.   13       Bozkır Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   42.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   42.   20.   01       Konya Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   43.   00.   00   KÜTAHYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   43.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   43.   10.   01       Kütahya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   43.   10.   02       Tavşanlı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   43.   10.   03       Simav Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   43.   10.   04       Gediz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   44.   00.   00   MALATYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+
+                                                                                              20
+B
+    13.   2.   SGK.   4.   44.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   44.   10.   01       Beydağı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   44.   10.   02       Darende Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   44.   10.   03       Hekimhan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   44.   10.   04       Doğanşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   44.   10.   05       Yeşilyurt Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   00.   00   MANİSA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   45.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   45.   10.   01       Şehzadeler Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   02       Akhisar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   03       Alaşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   04       Salihli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   05       Soma Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   06       Turgutlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   07       Saruhanlı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   08       Demirci Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   09       Kırkağaç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   10       Kula Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   11       Sarıgöl Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   45.   10.   12       Gördes Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   00.   00   KAHRAMANMARAŞ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   46.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   46.   10.   01       Dulkadiroğlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   02       Afşin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   03       Elbistan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   04       Pazarcık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   05       Türkoğlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   06       Göksun Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   46.   10.   07       Andırın Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   00.   00   MARDİN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   47.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   47.   10.   01       Mardin Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              21
+B
+    13.   2.   SGK.   4.   47.   10.   02       Kızıltepe Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   10.   03       Nusaybin Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   10.   04       Midyat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   10.   05       Derik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   10.   06       Savur Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   47.   10.   07       Mazıdağı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   00.   00   MUĞLA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   48.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   48.   10.   01       Milas Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   02       Bodrum Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   03       Fethiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   04       Marmaris Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   05       Yatağan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   06       Ortaca Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   07       Dalaman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   48.   10.   08       Köyceğiz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   49.   00.   00   MUŞ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   49.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   49.   10.   01       Muş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   49.   10.   02       Bulanık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   49.   10.   03       Malazgirt Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   49.   10.   04       Varto Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   49.   10.   05       Hasköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   50.   00.   00   NEVŞEHİR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   50.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   50.   10.   01       Nevşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   50.   10.   02       Avanos Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   50.   10.   03       Ürgüp Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   51.   00.   00   NİĞDE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   51.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   51.   10.   01       Niğde Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   51.   10.   02       Bor Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             22
+B
+    13.   2.   SGK.   4.   52.   00.   00   ORDU SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   52.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   52.   10.   01       Ordu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   02       Ünye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   03       Fatsa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   04       Gölköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   05       Perşembe Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   06       Korgan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   07       Akkuş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   52.   10.   08       Kumru Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   53.   00.   00   RİZE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   53.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   53.   10.   01       Rize Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   53.   10.   02       Çayeli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   53.   10.   03       Ardeşen Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   53.   10.   04       Pazar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   00.   00   SAKARYA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   54.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   54.   10.   01       Hızırtepe Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   10.   02       Akyazı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   10.   03       Geyve Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   10.   04       Karasu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   10.   05       Hendek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   54.   10.   06       Sapanca Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   00.   00   SAMSUN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   55.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   55.   10.   01       İlkadım Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   10.   02       Bafra Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   10.   03       Çarşamba Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   10.   04       Havza Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   10.   05       Vezirköprü Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   10.   06       Terme Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             23
+B
+    13.   2.   SGK.   4.   55.   10.   07       Alaçam Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   55.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   55.   20.   01       Samsun Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   56.   00.   00   SİİRT SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   56.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   56.   10.   01       Siirt Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   56.   10.   02       Kurtalan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   56.   10.   03       Pervari Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   57.   00.   00   SİNOP SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   57.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   57.   10.   01       Sinop Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   57.   10.   02       Boyabat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   58.   00.   00   SİVAS SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   58.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   58.   10.   01       Sivas Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   58.   10.   02       Yıldızeli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   58.   10.   03       Şarkışla Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   59.   00.   00   TEKİRDAĞ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   59.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   59.   10.   01       Çerkezköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   59.   10.   02       Çorlu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   59.   10.   03       Malkara Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   59.   10.   04       Saray Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   59.   10.   05       Hayrabolu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   00.   00   TOKAT SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   60.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   60.   10.   01       Tokat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   10.   02       Erbaa Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   10.   03       Turhal Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   10.   04       Zile Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   10.   05       Niksar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   60.   10.   06       Reşadiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                             24
+B
+    13.   2.   SGK.   4.   61.   00.   00   TRABZON SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   61.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   61.   10.   01       Karadeniz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   61.   10.   02       Beşikdüzü Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   61.   10.   03       Of Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   61.   10.   04       Akçaabat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   61.   10.   05       Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   61.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   61.   20.   01       Trabzon Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   62.   00.   00   TUNCELİ SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   62.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   62.   10.   01       Tunceli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   00.   00   ŞANLIURFA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   63.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   63.   10.   01       Onbir Nisan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   02       Birecik Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   03       Siverek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   04       Viranşehir Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   05       Suruç Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   06       Akçakale Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   07       Ceylanpınar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   08       Harran Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   09       Bozova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   10       Halfeti Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   63.   10.   11       Hilvan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   64.   00.   00   UŞAK SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   64.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   64.   10.   01       Uşak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   64.   10.   02       Banaz Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   64.   10.   03       Eşme Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   00.   00   VAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   65.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+
+                                                                                              25
+B
+    13.   2.   SGK.   4.   65.   10.   01       Van Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   02       Erciş Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   03       Özalp Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   04       Çaldıran Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   05       Başkale Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   06       Muradiye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   65.   10.   07       Gürpınar Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   00.   00   YOZGAT SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   66.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   66.   10.   01       Yozgat Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   02       Sorgun Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   03       Akdağmadeni Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   04       Sarıkaya Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   05       Yerköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   06       Boğazlıyan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   66.   10.   07       Çekerek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   00.   00   ZONGULDAK SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   67.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   67.   10.   01       Karaelmas Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   10.   02       K.Ereğli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   10.   03       Çaycuma Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   10.   04       Devrek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   10.   05       Alaplı Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   67.   20.   00     SAĞLIK SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   67.   20.   01       Zonguldak Sağlık Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   68    00.   00   AKSARAY SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   68.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   68.   10.   01       Aksaray Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   68.   10.   02       Ortaköy Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   69    00.   00   BAYBURT SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   69.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   69.   10.   01       Bayburt Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+                                                                                              26
+B
+    13.   2.   SGK.   4.   70    00.   00   KARAMAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   70.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   70.   10.   01       Karaman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   70.   10.   02       Ermenek Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   71    00.   00   KIRIKKALE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   71.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   71.   10.   01       Kırıkkale Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   72    00.   00   BATMAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   72.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   72.   10.   01       Batman Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   72.   10.   02       Kozluk Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   72.   10.   03       Beşiri Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   72.   10.   04       Sason Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   73    00.   00   ŞIRNAK SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   73.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   73.   10.   01       Şırnak Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   73.   10.   02       Cizre Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   73.   10.   03       Silopi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   73.   10.   04       İdil Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   73.   10.   05       Uludere Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   74    00.   00   BARTIN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   74.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   74.   10.   01       Bartın Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   75    00.   00   ARDAHAN SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   75.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   75.   10.   01       Ardahan Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   75.   10.   02       Göle Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   76    00.   00   IĞDIR SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   76.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   76.   10.   01       Iğdır Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   77    00.   00   YALOVA SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   77.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+
+                                                                                             27
+B
+    13.   2.   SGK.   4.   77.   10.   01       Yalova Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   78    00.   00   KARABÜK SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   78.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   78.   10.   01       Karabük Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   78.   10.   02       Safranbolu Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   79.   00.   00   KİLİS SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   79.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   79.   10.   01       Kilis Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   80    00.   00   OSMANİYE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   80.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   80.   10.   01       Osmaniye Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   80.   10.   02       Kadirli Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   80.   10.   03       Düziçi Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   81    00.   00   DÜZCE SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜ
+.
+B
+    13.   2.   SGK.   4.   81.   10.   00     SOSYAL GÜVENLİK MERKEZLERİ
+.
+B
+    13.   2.   SGK.   4.   81.   10.   01       Düzce Sosyal Güvenlik Merkez Müdürlüğü
+.
+B
+    13.   2.   SGK.   4.   81.   10.   02       Akçakoca Sosyal Güvenlik Merkez Müdürlüğü
+.
+
+
+
+
+                                                                                              28
+

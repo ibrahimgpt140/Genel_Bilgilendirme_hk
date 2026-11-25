@@ -1,0 +1,672 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74258
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2013/8
+ADI: SGDP YAPILANDIRMA KONULU GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 754c0f84d66c91a07b708b802133f8c5384fca31fab835735c6360e9f0f409d6
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                         SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : 82200845/177                                                                           11.02.2013
+Konu : SGDP Yapılandırma
+
+
+                                                  GENELGE
+                                                   2013- 8
+
+
+         A – GENEL AÇIKLAMALAR
+
+        Bilindiği üzere, 10/01/2013 tarihli ve 6385 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, 19/01/2013 tarihli ve
+28533 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş olup, 5510 sayılı Kanuna “Sosyal
+güvenlik destek prim borçlarının yapılandırılması” başlığını taşıyan Geçici 46 ncı madde ile “5335
+sayılı Kanunun 30 uncu maddesi kapsamında çalışmaya başlayanlara yapılan yersiz ödemelerin
+yapılandırılması” başlığını taşıyan Geçici 47 nci madde eklenmiştir.
+
+         Geçici 46 ncı maddede; Bu Kanunun yürürlüğe girdiği tarihten önce iştirakçi veya sigortalı
+olup, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı sayılmasını
+gerektirir nitelikte çalışması nedeniyle ilgili mevzuatına göre sosyal güvenlik destek primi
+ödemesi gerekenlerin, bu maddenin yürürlüğe girdiği tarihi takip eden ayın sonu itibarıyla
+tahakkuk ettiği halde ödenmemiş olan sosyal güvenlik destek primi borçları ve ferilerinin,
+ilgililerin bu maddenin yürürlüğe girdiği tarihi takip eden aybaşından itibaren dört ay içinde
+başvuruda bulunmaları halinde,
+         Geçici 47 nci maddede ise sosyal güvenlik kanunlarına göre emeklilik veya yaşlılık aylığı
+almakta iken 5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve
+kuruluşlara ait işyerlerinde çalışmaları nedeniyle aylıkları kesilmesi gerekenlere, bu maddenin
+yürürlüğe girdiği tarihi takip eden ödeme dönemine kadar yersiz olarak ödendiği tespit edilen
+aylıklara ilişkin asli ve feri borçların, ilgililerin bu maddenin yürürlüğe girdiği tarihi takip eden
+aybaşından itibaren dört ay içinde başvuruda bulunmaları halinde,
+         13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde
+Kararnamelerde Değişiklik Yapılması Hakkında Kanunun ilgili maddelerine göre
+yapılandırılacağı,
+         6385 sayılı Kanunun 2 nci maddesi ile 5335 sayılı Kanunun 30 uncu maddesine eklenen
+fıkra ile de ikinci fıkraya göre emeklilik veya yaşlılık aylığı kesilenlerin sigortalılıklarının sona
+erdiği tarihin, tahsis talep tarihi kabul edilerek ilgili sosyal güvenlik kanunlarına göre aylıklarının
+yeniden bağlanacağı, ayrıca bunlardan yazılı istek şartı aranmayacağı,
+         hüküm altına alınmıştır.
+
+       Geçici 46 ncı maddeyle, sosyal güvenlik destek prim borcu olanlara 6111 sayılı Kanun
+hükümleri çerçevesinde bir kez daha yapılandırma imkanı verilmiştir.
+       Yaşlılık, emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya başlayanların, 1/10/2008 tarihinden
+önceki ve sonraki sürelere ilişkin sosyal güvenlik destek prim borçları ile 5335 sayılı Kanunun 30
+uncu maddesi kapsamında çalışmaya başlayanlara yapılan yersiz ödemelerin söz konusu geçici
+madde hükümleri çerçevesinde yapılandırılmasına ilişkin usul ve esaslar aşağıda açıklanmıştır.
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                             Ayrıntılı bilgi için irtibat: Tevfik ÖZCAN Daire Bşk.
+Tel: (0312) 434 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                              1/8
+        B – SOSYAL GÜVENLİK DESTEK PRİM BORÇLARININ YAPILANDIRILMASI
+
+        1 – Yapılandırma Kapsamına Giren Kurum Alacakları ve Dönemi
+
+        5510 sayılı Kanunun Geçici 46 ncı maddesinde; “Bu Kanunun yürürlüğe girdiği tarihten
+önce iştirakçi veya sigortalı olup, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında sigortalı sayılmasını gerektirir nitelikte çalışması nedeniyle ilgili mevzuatına göre
+sosyal güvenlik destek primi ödemesi gerekenlerin, bu maddenin yürürlüğe girdiği tarihi takip
+eden ayın sonu itibarıyla tahakkuk ettiği halde ödenmemiş olan sosyal güvenlik destek primi
+borçları ve ferileri…” ifadesine yer verildiğinden, sadece sosyal güvenlik destek prim borçları
+yapılandırma kapsamında bulunmaktadır.
+        Buna göre, 01/10/2008 tarihinden önce iştirakçi veya sigortalı olanlardan yaşlılık,
+emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamında çalışmaya başlayanların, 28/02/2013 tarihi itibariyle tahakkuk
+ettiği halde ödenmemiş olan sosyal güvenlik destek primi borçları ve ferileri yapılandırma
+kapsamında yer almaktadır.
+
+        2 – Başvuru Süresi, Şekli ve Yeri
+
+       5510 sayılı Kanunun Geçici 46 ncı maddesi hükmünden yararlanmak isteyen borçluların,
+en geç 31/05/2013 tarihine kadar (bu tarih dahil) müracaat etmeleri gerekmektedir.
+       Sosyal güvenlik destek primi borçları için yapılacak başvuruların yeri, borçluların yaşlılık
+veya malullük aylığı bağlandığı sigortalılık statüsüne ve borcun 1/10/2008 tarihinden önce veya
+sonra olmasına göre farklılık arz etmektedir.
+
+        Buna göre;
+        2.1- Yaşlılık, emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4
+üncü maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya başlayanların, 1/10/2008
+tarihinden önceki sürelere ilişkin sosyal güvenlik destek prim borçları için örneği Ek-1’de yer alan
+talep formunu doldurmak suretiyle elden ya da posta kanalıyla, herhangi bir sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine,
+
+        2.2- 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında
+yaşlılık aylığı bağlandıktan sonra aynı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında çalışmaya başlayan veya çalışması devam edenlerin 1/10/2008 tarihinden sonraki
+sürelere ilişkin sosyal güvenlik destek primi borçları için, yine örneği Ek-1’de yer alan talep
+formu doldurulmak suretiyle elden ya da posta kanalıyla borç dosyalarının oluşturulduğu sosyal
+güvenlik il müdürlüğü/sosyal güvenlik merkezi takip birimine,
+
+        2.3- 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+yaşlılık veya malullük aylığı bağlandıktan sonra aynı Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamında çalışmaya başlayan veya çalışması devam edenlerin 1/10/2008
+tarihinden sonraki sürelere ilişkin sosyal güvenlik destek primi borçları için, yine örneği Ek-1’de
+yer alan talep formu doldurulmak suretiyle elden ya da posta kanalıyla borç dosyalarının
+oluşturulduğu sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi takip birimine,
+
+        2.4- 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında
+emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamında çalışmaya başlayanların 1/10/2008 tarihinden sonraki sürelere
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               2/8
+ilişkin sosyal güvenlik destek primi borçları için, örneği Ek-2’de yer alan talep formu doldurulmak
+suretiyle elden ya da posta kanalıyla “Mithatpaşa Cad. No:7 Sıhhiye/Ankara” adresinde bulunan
+Emeklilik Hizmetleri Genel Müdürlüğü, Kamu Görevlileri Emeklilik Daire Başkanlığına,
+         başvuruda bulunmaları gerekmektedir.
+
+        Diğer taraftan, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bendi
+kapsamında olanlar yönünden bu Kanun hükümlerinden yararlanmak üzere yapılandırma talebinde
+bulunanlar için birleştirilmiş talep formu oluşturulduğundan, yapılan başvurular 01/10/2008 öncesi
+ve sonrasına ait sosyal güvenlik destek primi borçlarının yapılandırılması için geçerli sayılacaktır.
+        Ayrıca, yaşlılık veya malullük aylığı alanların borç dosyalarının bulunduğu sosyal
+güvenlik il müdürlüğü/sosyal güvenlik merkezi takip birimince yapılandırma işlemleri yapıldıktan
+sonra, başvuru formları ve ödeme planlarının bir örneği tahsis dosyalarında muhafaza edilmek
+üzere ilgili ünitelere gönderilecektir.
+
+        3 – Yapılandırma Borcunun Hesaplanması, Ödeme Süresi ve Şekli
+
+       Yaşlılık, emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya başlayanların, 1/10/2008 tarihinden
+önceki ve sonraki sürelere ilişkin sosyal güvenlik destek prim borçlarının, 6111 sayılı Kanun
+hükümlerine göre yapılandırılması hüküm altına alındığından, yapılandırma borcunun
+hesaplanması ve ödeme süresi anılan Kanunun ilgili hükümlerine göre belirlenecektir.
+
+        6385 sayılı Kanuna istinaden kapsama giren alacak asıllarına, ödeme vadesinin sona erdiği
+tarihten 6385 sayılı Kanunun yayımı tarihine kadar (bu tarih hariç) geçen süre için gecikme cezası
+ve gecikme zammı yerine, her bir ay için belirlenmiş TEFE/ÜFE aylık değişim oranları basit
+usulde uygulanmak suretiyle tahsil edilecek tutar hesaplanacaktır.
+
+       Dolayısıyla kapsama giren alacaklar için gecikme cezası ve gecikme zammı yerine;
+       - 1999/Ekim ayından 2004/Aralık ayına kadar toptan eşya fiyatları endeksi (TEFE) aylık
+değişim oranları,
+       - 2005/Ocak ayından 2013/Ocak ayına kadar (bu ay dahil), üretici fiyatları endeksi (ÜFE)
+aylık değişim oranları basit usulde uygulanmak suretiyle tahsil edilecek tutar hesaplanacaktır.
+
+        Diğer taraftan, 6111 sayılı Kanunun 20 nci maddesinin sekizinci fıkrasında yer alan, “…
+Bu Kanun hükümlerine göre ödenecek alacaklara bu Kanunun yayımlandığı ay için uygulanması
+gereken ÜFE aylık değişim oranı olarak, bu Kanunun yayımlandığı tarihten bir önceki ay için
+belirlenen ÜFE aylık değişim oranı esas alınır.” hükmüne istinaden, yeniden yapılandırmaya esas
+borcun hesaplanması sırasında, ödeme vadesinin sona erdiği tarihten, 2013/Ocak ayına kadar
+geçen her bir ay için ilgili aya ilişkin belirlenmiş TEFE/ÜFE aylık değişim oranları aylık olarak,
+Kanunun yürürlüğe girdiği 2013/Ocak ayı için ise 2012/Aralık ayına ilişkin ÜFE aylık değişim
+oranı (günlük olarak hesaplanacaktır) dikkate alınacaktır.
+
+       Gecikme cezası ve gecikme zammı yerine dikkate alınacak tutarın hesaplanması sırasında,
+TEFE/ÜFE aylık değişim oranlarının eksi (-) değer aldığı aylar için; eksi değer almış olan oran da
+dikkate alınacak, ancak ilgili ay için peşin veya taksitler halinde ödenecek tutar, her halükarda
+alacağın asıl tutarından aşağı olamayacaktır. Dolayısıyla, gecikme cezası ve gecikme zammının
+yerine dikkate alınacak tutarın hesaplanmasının ardından bulunan bu tutar ile alacak aslı
+toplanarak yeniden yapılandırılacak olan alacak tutarı hesaplanmış olacaktır.
+
+
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               3/8
+        6111 sayılı Kanunun 18 nci maddesinin birinci fıkrasında, “Bu Kanunun ilgili
+bölümlerindeki başvuru ve ödeme süresine ilişkin hükümler saklı kalmak kaydıyla bu Kanun
+hükümlerinden yararlanmak isteyen borçluların;
+        a) …
+        b)… Sosyal Güvenlik Kurumuna bağlı tahsil dairelerine ödenecek tutarların ise ilk taksiti
+bu Kanunun yayımlandığı tarihi izleyen dördüncü aydan başlamak üzere ikişer aylık dönemler
+halinde azami on sekiz eşit taksitte ödemeleri şarttır.”
+        Üçüncü fıkrasında ise, “Bu Kanun hükümlerine göre hesaplanan tutarın;
+        a) İlk taksit ödeme süresi içerisinde tamamen ödenmesi halinde, bu tutara bu Kanunun
+yayımlandığı tarihten ödeme tarihine kadar geçen süre için herhangi bir faiz uygulanmaz.
+        b) Taksitle ödenmek istenmesi halinde, ilgili maddelerde yer alan hükümler saklı
+kalmak şartıyla, borçluların başvuru sırasında altı, dokuz, on iki veya on sekiz eşit taksitte ödeme
+seçeneklerinden birini tercih etmeleri şarttır. Tercih edilen taksit süresinden daha uzun bir sürede
+ödeme yapılamaz.
+        c) Taksitle yapılacak ödemelerinde ilgili maddelere göre belirlenen tutar;
+        1) Altı eşit taksit için (1,05),
+        2) Dokuz eşit taksit için (1,07),
+        3) On iki eşit taksit için (1,10),
+        4) On sekiz eşit taksit için (1,15),
+        katsayısı ile çarpılır ve bulunan tutar taksit sayısına bölünmek suretiyle ikişer aylık
+dönemler halinde ödenecek taksit tutarı hesaplanır. Bu Kanun hükümlerinden yararlanmak üzere
+başvuruda bulunan borçlulara tercih ettikleri taksit süresine uygun ödeme planı verilir. Ancak,
+tercih edilen süreden daha kısa sürede ödeme yapılması halinde ödenecek tutar ilgili katsayıya
+göre düzeltilir.”
+        hükmü yer almaktadır.
+        Buna göre, yapılandırılan borçların peşin veya taksitler halinde ödenmesi mümkün
+bulunduğundan, başvuru formlarına, borcun ne şekilde (peşin veya taksitle) ödeneceği, taksitle
+ödeme yolunun tercih edilmesi halinde her bir borç türü için talep edilen taksit sayısı mutlaka
+yazılacaktır.
+
+        3.1 Peşin ödenecek tutarın hesaplanması, borcun ödeme süresi ve şekli
+
+       Yaşlılık, emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya başlayanların, 1/10/2008 tarihinden
+önceki ve sonraki sürelere ilişkin sosyal güvenlik destek prim borçları için peşin ödeme yolunu
+tercih etmeleri halinde, yeniden yapılandırılan borçların tamamının 31/05/2013 tarihine kadar
+sadece anlaşmalı bankalara ödenmesi gerekmektedir.
+        Bu itibarla; 6111 sayılı Kanun uyarınca yapılandırılan alacağın tamamının en geç
+31/05/2013 tarihine kadar ödenmesi halinde, anılan Kanunun yayımlandığı 19/01/2013 tarihinden
+ödemenin yapıldığı tarihe kadar geçen süre için herhangi bir faiz alınmayacaktır.
+       Yapılan başvuru sırasında anılan Kanuna göre hesaplanan borcun taksitler halinde
+ödeneceği beyan edilmesine rağmen borcun tamamının 31/05/2013 tarihine kadar ödenmesi
+halinde de peşin ödeme talebinde bulunulmuş gibi kabul edilecek ve 19/01/2013 tarihinden
+ödemenin yapıldığı tarihe kadar geçen süre için herhangi bir faiz alınmayacaktır.
+
+        3.2 Taksitler halinde ödenecek tutarın hesaplanması, taksitlerin ödeme süresi ve şekli
+
+        6111 sayılı Kanun kapsamına giren borçların, ikişer aylık süreler itibariyle olmak üzere
+altı, dokuz, on iki veya on sekiz eşit taksitte ödenmesi mümkün bulunmaktadır.
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               4/8
+       Borçlarını taksitler halinde ödemek isteyen borçluların, başvuru formunda taksit sayısı
+olarak altı, dokuz, on iki veya on sekiz taksitten birini seçmeleri gerekmektedir.
+
+       Başvuru formunda borcun ne şekilde ödeneceğinin beyan edilmemesi halinde, borcun
+azami taksit süresi içinde ödeneceğinin kabul edildiği varsayılarak işlem yapılacaktır.
+
+        Yine, borçlarını taksitler halinde ödeme yolunu tercih eden borçluların, başvuru formunda
+seçebilecekleri altı, dokuz, on iki veya on sekiz taksitten biri yerine tercihi mümkün bulunmayan
+bir taksit sayısını seçmeleri halinde, taksit sayısına en yakın üst dilimdeki taksit sayısını, 18
+taksitten daha fazla süreli bir taksit süresini tercih etmiş olmaları halinde ise 18 taksit süresini
+tercih ettikleri kabul edilerek işlem yapılacaktır.
+
+        Taksitler halinde ödenecek olan tutarın tespiti sırasında, öncelikle kapsama giren
+alacaklara ilişkin alacak aslı ile gecikme cezası ve gecikme zammı yerine dikkate alınacak
+TEFE/ÜFE aylık değişim oranı ile basit usulde hesaplanacak, ardından bulunan bu tutar,
+borçlularca talep edilen taksit sayısına göre;
+        1) Altı eşit taksit için (1,05),
+        2) Dokuz eşit taksit için (1,07),
+        3) On iki eşit taksit için (1,10),
+        4) On sekiz eşit taksit için (1,15),
+        katsayısı ile çarpılacaktır. Daha sonra, yeniden yapılandırmaya esas toplam alacak tutarı ile
+ilgili katsayısının çarpılması sonucunda bulunan tutar taksit sayısına bölünecek ve ikişer aylık
+dönemler itibariyle ödenecek taksit tutarı belirlenecektir.
+        Öte yandan, kapsama giren borçları için, peşin ödeme yolunu tercih etmiş olan borçluların,
+yeniden yapılandırılmış borcun tamamını ilk taksit süresi içinde ödeyememeleri halinde, birinci
+taksit süresinin sona erdiği 31/05/2013 tarihine kadar (bu tarih dahil) talepte bulunmaları kaydıyla,
+peşin ödeme başvuruları talep edecekleri taksit sayısına göre altı, dokuz, on iki veya on sekiz eşit
+taksite çevrilecektir.
+
+        Yaşlılık, emeklilik veya malullük aylığı bağlandıktan sonra 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya başlayanların,
+        - 1/10/2008 tarihinden önceki sürelere ilişkin sosyal güvenlik destek prim borçları için
+taksitle ödeme yolunu tercih etmeleri halinde, yeniden yapılandırılan borçların ilk taksitinin
+31/05/2013 tarihine kadar anlaşmalı bankalara ödenmesi gerekmektedir.
+        -1/10/2008 tarihinden sonraki sürelere ilişkin sosyal güvenlik destek prim borçları için
+taksitle ödeme yolunu tercih etmeleri halinde, yeniden yapılandırılan borç tutarları 4/1(a)
+kapsamındakiler için banka ya da aylıktan kesme, 4/1(c) kapsamındakiler için sadece aylıktan
+kesme yoluyla tahsil edilecektir.
+
+     4- 6183 Sayılı Kanunun 48 inci Maddesi Gereği Tecil ve Taksitlendirilmiş olan Sosyal
+Güvenlik Destek Primi Borçların Yeniden Yapılandırma Kapsamına Alınması
+
+        6385 sayılı Kanunun yürürlük tarihinden önce, 1/10/2008 öncesine ait süresinde
+ödenmeyen sosyal güvenlik destek prim borçlarını 6183 sayılı Kanunun 48 inci maddesine
+istinaden tecil ve taksitlendirme talebinde bulunmuş olanların, 6385 sayılı Kanunun yapılandırma
+müracaat süresi içerisinde kalan tecil taksitleri için yapılandırma uygulamasından yararlanmak
+üzere müracaat edenlere tecil taksitlendirme bozma işlemi yapılarak (MOSİP sistemindeki sosyal
+güvenlik destek prim borçları için, söz konusu taksit bozma işlemi takip birimlerince yapılacaktır),
+ödenen taksitler mevzuat hükümlerine göre hesaplanan sosyal güvenlik destek prim borçlarına
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               5/8
+mahsup edildikten sonra kalan borç asıllarına bu Genelge’nin 3 üncü maddesi hükmüne göre
+yapılandırma borcu hesaplanacaktır.
+
+        5- Ödeme Planlarının İlgililere Tebliği
+
+        6385 sayılı Kanuna göre 1/10/2008 öncesine ait süresinde ödenmeyen sosyal güvenlik
+destek prim borçlarının yapılandırılması için talepte bulunanların ödeme planları, müracaat
+ettikleri sosyal güvenlik il/sosyal güvenlik merkez müdürlüklerince,
+        4/1 (a) kapsamında yaşlılık veya malullük aylığı alanların 1/10/2008 sonrasına ait ödeme
+planları, borç dosyalarının bulunduğu ünitelerin takip birimlerince,
+        4/1 (c) kapsamında emekli veya malullük aylığı alanların 01/10/2008 sonrasına ait ödeme
+planları, Emeklilik Hizmetleri Genel Müdürlüğü Kamu Görevlileri Emeklilik Daire
+Başkanlığınca,
+        elden veya posta kanalıyla ilgililere tebliğ edilecektir.
+
+
+    C - 5335 SAYILI KANUNUN 30 UNCU MADDESİ KAPSAMINDA ÇALIŞMAYA
+BAŞLAYANLARA YAPILAN YERSİZ ÖDEMELERİN YAPILANDIRILMASI
+
+        1 – Yapılandırma Kapsamına Giren Kurum Alacakları ve Dönemi
+
+         6385 sayılı Kanunun 2 nci maddesi ile 5335 sayılı Kanunun 30 uncu maddesine eklenen
+fıkra ile ikinci fıkraya göre emeklilik veya yaşlılık aylığı kesilenlerin sigortalılıklarının sona erdiği
+tarihin, tahsis talep tarihi kabul edilerek ilgili sosyal güvenlik kanunlarına göre aylıklarının
+yeniden bağlanacağı, ayrıca bunlardan yazılı istek şartı aranmayacağı hüküm altına alındığından,
+emeklilik veya yaşlılık aylığı almakta iken 5335 sayılı Kanunun 30 uncu maddesi gereğince
+aylıkları kesilerek yersiz ödenen aylıkları borç kaydedilen sigortalıların aylıkları, anılan Kanun
+kapsamındaki sigortalılıklarının sona erdiği tarihi takip eden aybaşından itibaren yeniden
+başlatılacağından, 2013/Şubat ödeme döneminden önce tahakkuk ettirilen borçlardan tamamı
+ödenmemiş borçlar yeniden hesaplanacaktır.
+         5335 sayılı Kanunun 30 uncu maddesi gereğince aylıkları kesilenlerden 2013 Şubat ödeme
+döneminden önce yersiz ödenen aylıklara ilişkin borçlarının, bir kısmı tahsil edilenler ile henüz
+tahsiline başlanmamış olanların borçları yeniden hesaplanacaktır.
+         Anılan Kanun kapsamında aylıkları kesilmesi gerekenlerden,
+         - Sigortalılıkları devam edenlerin, çalışmaya başladıkları tarih ile 2013/Şubat ödeme
+dönemi arasında,
+         - Sigortalılıkları sona erenlerin ise 2013/Şubat ödeme döneminden önce, çalışmaya
+başladıkları tarih ile işten ayrıldıkları tarih arasında,
+          yersiz ödenen aylıkları yapılandırma kapsamında yer alacaktır.
+
+        2 – Başvuru Süresi, Şekli ve Yeri
+
+        Geçici 47 inci madde hükmünden yararlanmak isteyen borçluların, en geç 31/05//2013
+tarihine kadar örneği Ek: 3’te yer alan başvuru formu doldurulmak suretiyle elden ya da posta
+kanalıyla, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının;
+        - (a) bendi kapsamında ödenen yaşlılık aylıklarından kaynaklanan alacaklar için borçlunun
+ikametgahının bulunduğu,
+        - (b) bendi kapsamında ödenen yaşlılık aylıklarından kaynaklanan alacaklar için borçlunun
+sigortalı dosyalarının bulunduğu,
+          sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine,
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               6/8
+      - (c) bendi kapsamında ödenen emekli aylıklarından kaynaklanan alacaklardan dolayı da
+“Mithatpaşa Cad. No:7 Sıhhiye/Ankara” adresinde bulunan Emeklilik Hizmetleri Genel
+Müdürlüğü, Kamu Görevlileri Emeklilik Daire Başkanlığına,
+        başvuruda bulunmaları gerekmektedir.
+
+        3 – Yapılandırma Borcunun Hesaplanması ve Ödeme Süresi
+
+       Geçici 47 inci madde kapsamına giren borçluların 2013/Şubat ödeme dönemine kadar
+yersiz ödenen aylıklara ilişkin alacakların yapılandırılması amacıyla, 31/05/2013 tarihine kadar
+başvuruda bulunmaları halinde söz konusu alacaklar, 6111 sayılı Kanun uyarınca yapılandırılarak
+peşin veya taksitler halinde ödenebilecektir.
+
+        3.1- Peşin ödenecek tutarın hesaplanması, borcun ödeme süresi ve şekli
+
+        5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve
+kuruluşlara ait işyerlerinde çalışmaları nedeniyle aylıkları kesilmesi gerekenlere, ödenen yersiz
+aylıkların yapılandırılmasında peşin ödeme yolunun tercih edilmesi halinde, bu Genelgenin (B)
+bölümünün 3.1 maddesinde belirtildiği şekilde işlem yapılacaktır.
+
+       3.2- Taksitler halinde ödenecek tutarın hesaplanması, taksitlerin ödenme süresi ve şekli
+
+        5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve
+kuruluşlara ait işyerlerinde çalışmaları nedeniyle aylıkları kesilmesi gerekenlere, ödenen yersiz
+aylıkların yapılandırılmasında taksitle ödeme yolunun tercih edilmesi halinde, bu Genelgenin (B)
+bölümünün 3.2 maddesinde belirtildiği şekilde işlem yapılacaktır.
+
+        4 - Ödeme Planlarının İlgililere Tebliği
+
+        Geçici 47 inci madde kapsamına giren borç süreleri, 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının;
+        - (a) bendi kapsamında ödenen yaşlılık aylıklarından kaynaklanan alacaklar için ikamet
+ettikleri ildeki sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi takip birimlerince,
+        - (b) bendi kapsamında ödenen yaşlılık aylıklarından kaynaklanan alacaklar için borç
+dosyasının bulunduğu birimce
+         elden veya posta yoluyla ilgililere tebliğ edilecektir.
+        - (c) bendi kapsamında emekli aylıklarından kaynaklanan borçlar için başvurular Kamu
+Görevlileri Emeklilik Daire Başkanlığınca incelenerek işlemi yapılmak üzere borcu çıkartan
+sosyal güvenlik il müdürlüklerine, aylık almayanların başvuruları ise Bütçe Daire Başkanlığına ya
+da sosyal güvenlik il müdürlüklerinin takip birimlerine gönderilecek ve tebliğ işlemleri ilgili
+birimlerce yürütülecektir.
+        4/1(a) kapsamında ödenen yaşlılık aylıklarından kaynaklanan alacakların geçici 47 inci
+Madde gereğince yapılandırabilmesi için sigortalıların tahsis dosyalarının bulunduğu ünitelerin
+tahsis birimlerince borçları yeniden hesaplanarak MOSİP sisteminde oluşturulacaktır.
+        Yersiz ödenen aylıklara ilişkin yapılandırma işlemleri, sigortalıların ikamet ettikleri sosyal
+güvenlik il/merkez müdürlüğü tarafından yürütüleceğinden, yapılandırma talebinde bulundukları
+tarihte borçları MOSİP sisteminde oluşturulmamış olan sigortalıların ikamet ettikleri ildeki sosyal
+güvenlik il /merkez müdürlüğü takip birimleri tarafından tahsis dosyalarının bulunduğu ünite ile
+irtibata geçilerek borçlarının en kısa zamanda MOSİP sistemine kaydedilmesi sağlanacaktır.
+
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               7/8
+        D – DİĞER HUSUSLAR
+
+        Ödeme yükümlülüklerinin yerine getirilmemesi veya eksik yerine getirilmesi,
+yapılandırma hakkının kaybedilmesi, taksit tutarının %10’u aşılmamak şartıyla 5 liraya kadar
+eksik ödenmesi, yapılandırma hakkının kaybedilmesi halinde bakiye alacakların tahsili, kapsama
+giren alacaklardan dolayı yapılan itiraz ve açılan davalardan feragat edilmesi ve bu Genelge’de yer
+almayan hususlarla ilgili olarak 2011/29 sayılı Kurum Genelgesi çerçevesinde işlem yapılacaktır.
+        Bilgi edinilmesini ve uygulamanın yukarıda belirtilen esaslar doğrultusunda yerine
+getirilmesini rica ederim.
+
+
+
+                                                                                                 Fatih ACAR
+                                                                                                Kurum Başkanı
+
+
+
+
+DAĞITIM
+Gereği:                                                     Bilgi:
+Merkez ve taşra teşkilatına                                 Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+Tuna Cad. No:7 Kızılay/ANKARA                                 Ayrıntılı bilgi için irtibat: Tevfik Özcan Daire Bşk.
+Tel: (0312) 458 30 58 Faks: (0312) 434 30 59
+Elektronik Ağ: www.sgk.gov.tr e-posta: sigortalilarprim@sgk.gov.tr                                               8/8
+                                                                                                   Ek-1
+
+
+
+         4-1(a) ve (b) KAPSAMINDA AYLIK ALANLARIN 6385 SAYILI KANUNA GÖRE
+            SGDP BORÇLARININ YAPILANDIRILMASINA DAİR BAŞVURU FORMU
+
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          ……….. SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+                            …….….. SOSYAL GÜVENLİK MERKEZİNE
+
+1- Sigortalı Bilgileri
+
+ Adı Soyadı
+ TC Kimlik Numarası
+ Vergi Numarası/
+ Tahsis Numarası
+
+ Adres
+                                                              İlçe……..                İl……..
+ Telefon No
+ Cep Telefonu No
+ Faks No
+ E-posta Adresi
+
+2- Borcun Ödenme Şekli
+
+Bu bölümü doldurmadan önce lütfen “Açıklamalar” bölümünü okuyunuz.
+
+
+
+
+Borçlarımı bu formdaki tercihlerime uygun olarak ödemeyi talep ediyorum.
+
+        01/10/2008 öncesi döneme ilişkin sosyal güvenlik destek primi borçlarımı yapılandırmak
+    istiyorum (sadece banka kanalıyla ödenecektir).
+
+
+
+       01/10/2008 sonrası döneme ilişkin sosyal güvenlik destek primi borçlarımı yapılandırarak
+    aşağıdaki şekilde ödemek istiyorum.
+
+                         Aylıktan Kesilecek         Banka Kanalıyla
+
+
+
+                                                                                    … / … / 2013
+
+                                                                                        İMZA
+                                                                                                           Ek-1
+
+
+
+
+Açıklamalar
+
+1) Başvuru formu, en geç 31/05/2013 tarihine kadar sosyal güvenlik il müdürlüğüne/sosyal güvenlik
+merkezine elden verilecek veya posta kanalıyla gönderilecektir.
+
+2) Başvuruların posta yolu ile yapılması halinde; taahhütlü, iadeli taahhütlü ya da APS yolunun tercih
+edildiği durumlarda, başvuru formunun postaya verildiği tarih Kuruma verildiği tarih olarak kabul
+edilecektir. Buna karşın, adi posta yolunun tercih edilmiş olması halinde, başvuru formunun Kurum
+evrak kayıtlarına giriş tarihi Kuruma verildiği tarih olarak kabul edilecektir.
+
+3) Yapılandırılması talep edilen 1/10/2008 öncesi ve sonrası sosyal güvenlik destek primi borçları
+için tek başvuru yapılacaktır.
+
+4) Yapılandırılan borçlar için peşin veya taksitle ödeme seçeneklerinden biri tercih edilecektir.
+
+5) Peşin ödeme seçeneğinin tercih edilmesi halinde, kapsama giren borçların tamamının en geç
+31/05/2013 tarihine kadar ödenmesi şarttır. Taksitle ödeme seçeneğinin tercih edilmesi halinde,
+yeniden yapılandırmaya esas toplam borç tutarına altı eşit taksit için % 5, dokuz eşit taksit için % 7,
+on iki eşit taksit için %10, on sekiz eşit taksit için %15 taksitlendirme farkı ilave edilecek olup, ilk
+taksit ödeme süresi 31/05/2013 tarihinde sona erecektir.
+
+6) Taksitle ödeme yolunun tercih edilmesi halinde, taksitler ikişer aylık dönemler itibariyle
+aylık/banka tercihine göre ödenecektir.
+
+7) Başvuru formunda borcun ne şekilde ödeneceğinin belirtilmemiş olması halinde, borcun
+seçilebilecek azami taksit süresi içinde ödenmek istenildiği kabul edilecektir.
+
+8) Kapsama giren borçlar için peşin ödeme yolu tercih edilmiş olmasına rağmen, 31/05/2013 tarihine
+kadar başvuruda bulunulması halinde, peşin ödeme başvuruları talep edilecek taksit sayısına göre
+yeniden düzenlenecektir.
+
+9) Taksitlendirilmiş borçların, bir takvim yılında 2 defadan fazla taksit tutarının yasal süresi içinde
+ödenmemesi veya eksik ödenmesi halinde veya iki defaya kadar ödenmeyen veya eksik ödenen taksit
+tutarları ise en geç son taksiti izleyen ayın sonuna kadar geciktiği her ay ve kesri için 6183 sayılı
+Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanacak geç ödeme
+zammı ile birlikte ödenmemesi halinde taksitlendirme hakkı kaybedileceğinden ödenen tutarlar ilgili
+mevzuat uyarınca borçlara mahsup edilecektir.
+                                                                                                   Ek-2
+
+
+         4-1(c) KAPSAMINDA AYLIK ALANLARIN 01/10/2008 TARİHİ SONRASI
+      SGDP BORÇLARININ 6385 SAYILI KANUNA GÖRE YAPILANDIRILMASINA DAİR
+                              BAŞVURU FORMU
+
+                         SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                        EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜ
+                     KAMU GÖREVLİLERİ EMEKLİLİK DAİRE BAŞKANLIĞINA
+
+1- Sigortalı Bilgileri
+
+ Adı Soyadı
+ TC Kimlik Numarası
+ Emekli Sicil Numarası
+
+
+ Adres
+
+                                                              İlçe……..                    İl……..
+ Telefon No
+ Cep Telefonu No
+ Faks No
+ E-posta Adresi
+
+2- Borcun Ödenme Şekli
+
+Bu bölümü doldurmadan önce lütfen “Açıklamalar” bölümünü okuyunuz.
+
+
+
+
+ Borçlarımı formdaki taksit tercihlerime göre aylıklarımdan kesilmesini talep ediyorum.
+ Peşin ödeme yolunun tercihi halinde sadece banka kanalıyla ödenecektir.
+
+
+
+
+                                                                                      … / … / 2013
+
+                                                                                            İMZA
+                                                                                                    Ek-2
+
+
+Açıklamalar
+
+1) Başvuru formu, en geç 31/05/2013 tarihine kadar Emeklilik Hizmetleri Genel Müdürlüğü, Kamu
+Görevlileri Emeklilik Daire Başkanlığına Mithatpaşa Cad. No:7 Sıhhiye/ANKARA adresine elden
+verilecek veya posta kanalıyla gönderilecektir.
+
+2) Başvuruların posta yolu ile yapılması halinde; taahhütlü, iadeli taahhütlü ya da APS yolunun tercih
+edildiği durumlarda, başvuru formunun postaya verildiği tarih Kuruma verildiği tarih olarak kabul
+edilecektir. Buna karşın, adi posta yolunun tercih edilmiş olması halinde, başvuru formunun Kurum
+evrak kayıtlarına giriş tarihi Kuruma verildiği tarih olarak kabul edilecektir.
+
+3) Yapılandırılan borçlar için peşin veya taksitle ödeme seçeneklerinden biri tercih edilecektir.
+
+4) Peşin ödeme seçeneğinin tercih edilmesi halinde, kapsama giren borçların tamamının en geç
+31/05/2013 tarihine kadar ödenmesi şarttır. Taksitle ödeme seçeneğinin tercih edilmesi halinde,
+yeniden yapılandırmaya esas toplam borç tutarına altı eşit taksit için % 5, dokuz eşit taksit için % 7,
+on iki eşit taksit için %10, on sekiz eşit taksit için %15 taksitlendirme farkı ilave edilecek olup, ilk
+taksit ödeme süresi 31/05/2013 tarihinde sona erecektir.
+
+5) Taksitle ödeme yolunun tercih edilmesi halinde, taksitler ikişer aylık dönemler itibariyle aylık/üç
+aylıklardan kesilecektir. Aylıkların taksit tutarını karşılamaması durumunda ise aylık taksit tutarları
+anlaşmalı bankalar vasıtasıyla süresi içinde ödenecektir.
+
+6) Başvuru formunda borcun ne şekilde ödeneceğinin belirtilmemiş olması halinde, borcun
+seçilebilecek azami taksit süresi içinde ödenmek istenildiği kabul edilecektir.
+
+7) Kapsama giren borçlar için peşin ödeme yolu tercih edilmiş olmasına rağmen, 31/05/2013 tarihine
+kadar başvuruda bulunulması halinde, peşin ödeme başvuruları talep edilecek taksit sayısına göre
+yeniden düzenlenecektir.
+
+8) Taksitlendirilmiş borçların, bir takvim yılında 2 defadan fazla taksit tutarının yasal süresi içinde
+ödenmemesi veya eksik ödenmesi halinde veya iki defaya kadar ödenmeyen veya eksik ödenen taksit
+tutarları ise en geç son taksiti izleyen ayın sonuna kadar geciktiği her ay ve kesri için 6183 sayılı
+Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanacak geç ödeme
+zammı ile birlikte ödenmemesi halinde taksitlendirme hakkı kaybedileceğinden ödenen tutarlar ilgili
+mevzuat uyarınca borçlara mahsup edilecektir.
+                                                                                               Ek-3
+       5335 SAYILI KANUNA GÖRE AYLIKLARI KESİLMESİ GEREKENLERE
+            YERSİZ ÖDENEN AYLIKLARIN 6385 SAYILI KANUNA GÖRE
+               YAPILANDIRILMASINA İLİŞKİN BAŞVURU FORMU
+
+
+                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+             KAMU GÖREVLİLERİ EMEKLİLİK DAİRE BAŞKANLIĞINA
+               ..…………… SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+                  ..…………… SOSYAL GÜVENLİK MERKEZİNE
+
+1- Sigortalı Bilgileri
+
+ Adı Soyadı
+ TC Kimlik Numarası
+ Tahsis/Bağ-Kur/Emekli Sicil
+ Numarası
+
+
+ Adres
+
+                                               İlçe……..               İl……..
+ Telefon No
+ Cep Telefonu No
+ Faks No
+ E-posta Adresi
+
+6385 sayılı Kanunun 14 üncü maddesi gereğince 2013/Şubat ödeme dönemine kadar yersiz aldığım
+aylıkları aşağıda belirttiğim şekilde ödemek istiyorum.
+
+2- Borcun Ödenme Şekli
+
+
+
+
+                    Aylıktan kesilecek                    Banka kanalıyla
+
+
+
+
+                                                                               … / … / 2013
+
+                                                                                  İMZA
+                                                                                                              Ek-3
+
+
+
+
+    Açıklamalar
+
+1- Başvuru formu, en geç 31/05/2013 tarihine kadar 4/1(a) kapsamındaki emekli veya hak sahiplerince
+   ikametgahının bulunduğu Sosyal Güvenlik İl Müdürlüğüne/Sosyal Güvenlik Merkezine, 4/1(b)
+   kapsamındaki emekli veya hak sahiplerince tahsis dosyalarının bulunduğu Sosyal Güvenlik İl
+   Müdürlüğüne/Sosyal Güvenlik Merkezine ve 4/1(c) kapsamındaki emekli ve hak sahiplerince
+   Emeklilik Hizmetleri Genel Müdürlüğü, Kamu Görevlileri Emeklilik Daire Başkanlığı Mithatpaşa
+   Cad. No:7 Sıhhiye/ANKARA adresine elden verilecek veya posta kanalıyla gönderilecektir.
+2- Başvuruların posta yolu ile yapılması halinde; taahhütlü, iadeli taahhütlü ya da APS yolunun tercih
+   edildiği durumlarda, başvuru formunun postaya verildiği tarih Kuruma verildiği tarih olarak kabul
+   edilecektir. Buna karşın, adi posta yolunun tercih edilmiş olması halinde, başvuru formunun Kurum
+   evrak kayıtlarına giriş tarihi Kuruma verildiği tarih olarak kabul edilecektir.
+3- Yapılandırılan borçlar için peşin veya taksitle ödeme seçeneklerinden biri tercih edilecektir.
+4- Peşin ödeme seçeneğinin tercih edilmesi halinde, kapsama giren borçların tamamının en geç
+   31/05/2013 tarihine kadar ödenmesi şarttır. Taksitle ödeme seçeneğinin tercih edilmesi halinde,
+   yeniden yapılandırmaya esas toplam borç tutarına, altı eşit taksit için % 5, dokuz eşit taksit için % 7,
+   on iki eşit taksit için %10, on sekiz eşit taksit için %15 taksitlendirme farkı ilave edilecek olup, ilk
+   taksit ödeme süresi 31/05/2013 tarihinde sona erecektir.
+5- Taksitle ödeme yolunun tercih edilmesi halinde, taksitler ikişer aylık dönemler itibariyle aylık/üç
+   aylıklardan kesilecektir. Aylıkların taksit tutarını karşılamaması durumunda ise aylık taksit tutarları
+   anlaşmalı bankalar vasıtasıyla süresi içinde ödenecektir.
+6- Başvuru formunda borcun ne şekilde ödeneceğinin belirtilmemiş olması halinde, borcun seçilebilecek
+   azami taksit süresi içinde ödenmek istenildiği kabul edilecektir.
+7- Kapsama giren borçlar için peşin ödeme yolu tercih edilmiş olmasına rağmen, 31/05/2013 tarihine
+   kadar başvuruda bulunulması halinde, peşin ödeme başvuruları, talep edilecek taksit sayısına göre
+   yeniden düzenlenecektir.
+8- Taksitlendirilmiş borçların, bir takvim yılında 2 defadan fazla taksit tutarının yasal süresi içinde
+   ödenmemesi veya eksik ödenmesi halinde veya iki defaya kadar ödenmeyen veya eksik ödenen taksit
+   tutarları ise en geç son taksiti izleyen ayın sonuna kadar geciktiği her ay ve kesri için 6183 sayılı
+   Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanacak geç ödeme
+   zammı ile birlikte ödenmemesi halinde taksitlendirme hakkı kaybedileceğinden ödenen tutarlar ilgili
+   mevzuat uyarınca borçlara mahsup edilecektir.
+

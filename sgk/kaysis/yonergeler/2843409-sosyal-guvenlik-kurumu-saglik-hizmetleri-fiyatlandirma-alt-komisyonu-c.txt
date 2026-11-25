@@ -1,0 +1,157 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105643
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 2843409
+ADI: SOSYAL GÜVENLİK KURUMU SAĞLIK HİZMETLERİ FİYATLANDIRMA ALT KOMİSYONU ÇALIŞMA YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e4e6b6b253c36767d306f1597ef640fdaee346b09710d914d765e24ad1a4bd4f
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+        SOSYAL GÜVENLİK KURUMU SAĞLIK HİZMETLERİ FİYATLANDIRMA ALT KOMİSYONU
+                                 ÇALIŞMA YÖNERGESİ
+
+
+                                                  BİRİNCİ BÖLÜM
+                                          Amaç, Kapsam, Dayanak ve Tanımlar
+
+
+          Amaç ve kapsam
+          MADDE 1- (1) Bu Yönergenin amacı; 31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanunu gereğince Kurumca finansmanı sağlanan sağlık hizmetleri ile gündelik, yol, yatak ve yemek giderlerinin Kurumca
+ödenecek bedellerini belirlemeye yetkili Sağlık Hizmetleri Fiyatlandırma Komisyonunca gerekli görülen veya Sekretarya
+tarafından teklif edilen hallerde kurulan Alt Komisyonun görev, yetki ve çalışmalarına ilişkin usul ve esasları düzenlemektir.
+
+        Dayanak
+        MADDE 2- (1) Bu Yönerge, 31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 72 nci maddesi ile 23/08/2008 tarih 26976 sayılı Sosyal Güvenlik Kurumu Sağlık Hizmetleri Fiyatlandırma
+Komisyonu Çalışma Usul ve Esasları Hakkında Yönetmeliğin 8 inci maddesine dayanılarak hazırlanmıştır.
+
+           Tanımlar
+           MADDE 3- (1) Bu Yönergede geçen;
+           a) Daire Başkanlığı: Genel Sağlık Sigortası Genel Müdürlüğü bünyesindeki Daire Başkanlıklarını,
+           b) Gizlilik ve Etik Kurallar Belgesi: Komisyona katılacak üyeler ile kurumun ve/veya kuruluşun ilgili personeli
+tarafından imzalanması gereken, Kurum tarafından hazırlanan gizlilik ile etik kuralların belirtildiği Ek-1’de yer alan belgeyi,
+           c) Kanun: 31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+           ç) Komisyon: Sağlık Hizmetleri Fiyatlandırma Komisyonunca gerekli görülen veya Sekretarya tarafından teklif
+edilen hâllerde sağlık hizmetlerinin türlerine göre kurulan alt komisyonu,
+           d) Kurum: Sosyal Güvenlik Kurumunu,
+           e) Sağlık hizmeti: Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere Kanunun 63 üncü maddesi gereği
+finansmanı sağlanacak tıbbî ürün ve hizmetler ile 73 üncü madde kapsamında belirtilen istisnai sağlık hizmetlerini,
+           f) Sağlık Hizmetleri Fiyatlandırma Komisyonu (SHFK); Kurumca finansmanı sağlanan sağlık hizmetleri ile
+ödenecek gündelik, yol, yatak ve yemek giderlerinin Kurumca ödenecek bedellerinin belirlenmesi amacıyla Çalışma ve
+Sosyal Güvenlik Bakanlığını, Maliye Bakanlığını, Sağlık Bakanlığını ve Kalkınma Bakanlığını, Hazine Müsteşarlığını,
+üniversite sağlık hizmeti sunucuları ile özel sağlık hizmeti sunucularını temsilen Bakanlıkça belirlenecek birer üye ile
+Kurumu temsilen iki üye olmak üzere toplam dokuz üyeden oluşan komisyonu,
+           g) Sağlık Uygulama Tebliği: Kurumca finansmanı sağlanan sağlık hizmetlerine ait ücretler ile tedavi yardımlarının
+verilmesine ilişkin usul ve esasların belirlendiği Kurumca yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+           ğ) Sağlık Hizmeti Sunucusu: Sağlık hizmetini sunan ve/veya üreten; gerçek kişiler ile kamu ve özel hukuk tüzel
+kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
+           ifade eder.
+
+                                                 İKİNCİ BÖLÜM
+                                Komisyonun Oluşumu, Katılacak Temsilciler ve Görevleri
+
+
+
+           Komisyonun oluşumu
+           MADDE 4- (1) Komisyon; Sağlık Hizmetleri Fiyatlandırma Komisyonunun iş ve işlemlerini yürüten Daire Başkanı
+Başkanlığında; gündemi bulunan Daire Başkanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı, Sağlık
+Bakanlığı, Kalkınma Bakanlığı ve Hazine Müsteşarlığı’ndan en az şube müdürü/kariyer uzmanı düzeyinde birer üye ile
+üniversite sağlık hizmeti sunucularını temsilen Yükseköğretim Kurulu (YÖK) tarafından bildirilen bir üye ve özel sağlık
+hizmeti sunucularını temsilen Türkiye Odalar ve Borsalar Birliği (TOBB) tarafından bildirilen bir üye olmak üzere dokuz asil
+üyeden oluşur.
+           (2) Komisyona, Başkanın katılamayacağı durumlarda Komisyon Başkanının görevlendirdiği şube müdürü
+başkanlık eder.
+           (3) Her bir kurum Komisyondaki asil üyesi kadar en az kariyer uzmanı/şube müdürü düzeyinde yedek üye de
+belirler. Komisyonun asil üyelerinin toplantıya katılamadıkları durumlarda yerlerine yedek üyeler aynı yetkilerle toplantılara
+katılır.
+          (4) Komisyon; birden fazla gündem ile toplanması durumunda tek bir komisyon olarak değerlendirilir. Gündemi
+olan daire başkanı sadece kendi gündemine ilişkin çalışmalara iştirak eder.
+
+          Komisyonun çalışma esasları
+          MADDE 5- (1) Komisyon, Sağlık Hizmetleri Fiyatlandırma Komisyonunca gerekli görülen hallerde toplanır.
+          (2) Komisyonun toplantı gündemi, günü ve saati toplantı tarihinden en az 3 gün önce üyelere bildirilir.
+          (3) Komisyon, üye tam sayısının salt çoğunluğu ile toplanır.
+          (4) Komisyon, olağan veya olağanüstü Sağlık Hizmetleri Fiyatlandırma Komisyonu toplantılarından en az 3 iş
+günü öncesinde çalışmalarını tamamlayarak raporlarını hazırlar. Hazırlanan rapora muhalif olan üyeler, gerekçelerini rapora
+eklenmek üzere düzenler.
+          (5) Komisyon toplantıları sonucunda her bir Daire Başkanlığının SHFK gündemi için ayrı rapor hazırlanır.
+Hazırlanan raporlar Sağlık Hizmetleri Fiyatlandırma Komisyonunca değerlendirilmek üzere sekretarya işlemlerini yürüten
+daire başkanlığına iletilir.
+
+          Komisyonun görevleri
+          MADDE 6- (1) Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından hazırlanması istenen gündem maddelerine
+ait çalışmaları yapmak.
+          (2) Kurumca finansmanı sağlanan/sağlanacak olan sağlık hizmetlerinden, ilgili Daire Başkanlıklarınca Sağlık
+Hizmetleri Fiyatlandırma Komisyonuna sunulmak üzere teklif edilen gündem konuları ve bunlara dair maliyet analiz
+çalışmalarını değerlendirmek.
+          (3) Sağlık hizmeti türüne göre ilgili daire başkanlığından gündem ile ilgili ek çalışma yapmasını istemek.
+          (4) Gerektiğinde ilgili bakanlıklar, kurum ve kuruluşlardan görüş alınmasını sağlamak.
+          (5) Komisyon toplantısı sonucunda hazırlanan raporu Sağlık Hizmetleri Fiyatlandırma Komisyonuna iletmek.
+
+          Komisyonun çalışmalarına ilişkin giderler ve sekretarya işlemleri
+          MADDE 7-(1) Komisyonların çalışmaları ile ilgili her türlü gider Kurum bütçesinden karşılanır.
+          (2) Komisyonun sekretarya ve koordinasyon işlemleri, Sağlık Hizmetleri Fiyatlandırma Komisyonunun iş ve
+işlemlerini yürüten Daire Başkanlığı tarafından yürütülür.
+
+          Komisyon çalışmalarının gizliliği
+          MADDE 8- (1) Komisyona katılacak üyeler ile kurumun ve/veya kuruluşun ilgili personeli tarafından gizlilik ve
+etik kurallar belgesi imzalanır.
+          (2) Komisyon çalışmaları sürerken ve sonuçlandıktan sonra yapılmış çalışmaların ve alınan kararların gizliliği
+esastır. Uymayanlar hakkında idari ve adli yönden ilgili mevzuat hükümleri uygulanır.
+
+
+
+                                                 ÜÇÜNCÜCÜ BÖLÜM
+                                                   Son Hükümler
+
+         Yürürlük
+         MADDE 9- (1) Bu Yönerge yayımı tarihinde yürürlüğe girer.
+
+         Yürütme
+         MADDE 10- (1) Bu Yönergenin hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+                                                                                        Ek-1
+                      GİZLİLİK VE ETİK KURALLAR BELGESİ
+
+        “Sosyal Güvenlik Kurumu Sağlık Hizmetleri Fiyatlandırma Alt Komisyonu Çalışma
+Yönergesi” kapsamında Kurumca finansmanı sağlanan/sağlanacak olan sağlık hizmetlerinden,
+Sağlık Hizmetleri Fiyatlandırma Komisyonuna sunulmak üzere teklif edilen gündem konularını
+ve bunlara dair maliyet analiz çalışmalarının yürütümünde aşağıda yer alan gizlilik ve etik
+kurallarına uymayı kabul ve beyan ederim.
+
+      1. Çalışmalarda etik kültürü benimsemek ve bu ilkelere uygun davranışlarda bulunmak.
+      2. Görevlerin yerine getirilmesinde takdir yetkilerini; kamu ve hasta yararını birlikte
+gözeterek, adalet, dürüstlük ve tarafsızlık ilkelerine uyarak, fırsat eşitliğini engelleyici
+davranışlarda bulunmayacak şekilde kullanmak.
+      3. Çalışmaları Yönergede belirtilen süreçlere uygun şekilde yürütmek.
+      4. İlaç/malzeme/sağlık sektöründe faaliyet gösteren herhangi bir şirkette görev yapmıyor
+olmak, ilaç/malzeme/sağlık sektörü yararına maddi ya da manevi herhangi bir karşılık alarak
+veya almaksızın (klinik araştırmalar, kongre katılımları ve şerefiye/telif ödemeleri gibi
+durumlar dışında) çalışmamak ve/veya danışmanlık yapmamak (*).
+      5. Görevlerin, tarafsız ve objektif şekilde icra edilmesini etkileyen ya da etkiliyormuş
+gibi gözüken, kişilerin kendilerine, yakınlarına, arkadaşlarına ya da ilişkide bulunduğu kişi ya
+da kuruluşlara her türlü menfaatin ve onlarla ilgili mali ya da diğer yükümlülüklerin
+sağlanmasından ve benzeri şahsi çıkarlara sahip olunması halinden kaçınmak.
+      6. Çalışmalar esnasında elde edilen bilgileri ve yetkilerini, kişisel fayda veya her türlü
+yakınları adına menfaat elde etmek için kullanmamak.
+      7. Komisyon çalışmaları sürerken veya sonuçlandığında, alınan kararlar yayımlanıncaya
+veya duyuruluncaya kadar, görev nedeniyle ulaşılan tüm bilgi ve belgelerin gizliliğini
+sağlamak.
+       Yukarıda belirtilen etik kuralları okuduğumu, anladığımı, en üst düzeyde etik ve
+mesleki davranış içinde olacağımı, yukarıda tanımlanan gizlilik ve etik kurallarına uymadığım
+durumda bu çalışmalardaki görevime SGK tarafından son verilmesini kabul ettiğimi bildiririm.
+       (*) 657 Sayılı Kanuna tabi çalışanlar için.
+
+
+                                                                                 …../…../ …..
+                                                                                   İMZA
+
+
+
+(Bu bölüm kişinin el yazısı ile doldurulur.)
+
+Adı ve Soyadı:
+Kurumu ve Unvanı:
+İletişim Bilgileri:
+İmzalandığı Yer:
+

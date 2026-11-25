@@ -1,0 +1,749 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/72659
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 2012/352
+ADI: SOSYAL GÜVENLİK KURUMU BÜTÇE YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ea29717383639546ef51751d91b079cdf22109ae21fcac3d0d31860354ca784c
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                SOSYAL GÜVENLİK KURUMU BÜTÇE YÖNERGESİ
+
+                                   BİRİNCİ BÖLÜM
+                           Amaç, Kapsam, Dayanak ve Tanımlar
+
+        Amaç
+        MADDE 1- (1) Bu Yönergenin amacı; Sosyal Güvenlik Kurumu Başkanlığının
+bütçesinin hazırlanması, uygulanması, performans programı faaliyetlerine ilişkin ilke, iş,
+işlem ve süreçlerin belirlenmesi, mali kaynakların yönetilmesi ve kontrolüne ilişkin esas, usul,
+ilke ve standartların belirlenmesidir.
+
+        Kapsam
+        MADDE 2- (1) Bu Yönerge, Sosyal Güvenlik Kurumunun merkez ve taşra teşkilatının
+bütçe hazırlık ve uygulama ile yatırım ve performans programının koordinasyon işlemlerini
+kapsar.
+
+      Dayanak
+      MADDE 3- (1) Bu Yönerge, 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik
+Kurumu Kanununun 41 inci, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve
+Kontrol Kanununun 49 uncu, 60 ıncı ve 77 nci maddelerine dayanılarak hazırlanmıştır.
+
+       Tanımlar
+       MADDE 4- (1) Bu Yönergede geçen;
+
+        a)Aktarma işlemi: Belli bir tertibe tahsis edilmiş olan ödeneğin, mevzuatına
+dayanılarak bir tertipten düşülüp mevcut veya yeni açılacak bir tertibe eklenmesi işlemini,
+        b)Ayrıntılı Finansman Programı (AFP): Kurumun tertip düzeyinde, aylar itibarıyla
+yapabileceği harcamalarını, gelir gerçekleşme tahminlerini ve net finansman kullanımına
+ilişkin öngörülerini gösteren programını,
+        c)Bakan: Çalışma ve Sosyal Güvenlik Bakanını,
+        ç)Başkan: Sosyal Güvenlik Kurum Başkanını,
+        d)Başkanlık: Strateji Geliştirme Başkanlığını,
+        e)Bloke ödenek: Bütçe ödeneklerinin AFP veya revize işlemleriyle aylara
+dağıtılmayan kısmını,
+        f)Bütçe: Sosyal Güvenlik Kurumunun belirli bir dönemdeki gelir ve gider tahminlerini
+gösteren, bunların uygulanmasına ve yürütülmesine izin veren ve usulüne uygun olarak
+yürürlüğe konulan belgeyi,
+        g)Devreden dış proje kredileri karşılığı ödenek kaydı işlemi: 28/3/2002 tarihli ve 4749
+sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 14 üncü
+maddesi gereğince, önceki yıl içinde hak edişlerden doğan ihtilaflar sonucu tahakkuk
+işlemlerinin tamamlanamaması nedeniyle, dış proje kredilerinin harcanamayan miktarlarının
+yılı bütçesinin ilgili tertiplerine devren ödenek kaydı işlemi dışında, diğer mevzuat gereğince
+yapılan devren ödenek kaydı işlemini,
+        ğ)Ekleme işlemi: İlgili kanunları gereğince, gerektiğinde (B) veya (F) işaretli
+cetvellerle ilişkilendirmek suretiyle bütçede mevcut veya yeni açılacak bir tertibe ödenek
+ilave edilmesi işlemini,
+        h)Gelir fazlası karşılığı ödenek kaydı işlemi: Kurumun (B) işaretli cetvelinde
+öngörülmeyen veya belirtilen tahmini tutarların üzerinde gerçekleşen gelirler karşılığı olarak
+mevcut veya yeni açılacak tertiplere yapılacak ödenek kaydı işlemini,
+        ı)Harcama birimi: Sosyal Güvenlik Kurumu bütçesiyle ödenek tahsis edilen harcama
+yetkisi bulunan birimi,
+        i)Harcama yetkilisi: Sosyal Güvenlik Kurumu bütçesiyle ödenek tahsis edilen harcama
+biriminin en üst yöneticisini,
+        j)Kullanılabilir ödenek: Serbest ödeneklerin ödenek gönderme belgesine bağlanmamış,
+ön ödeme yapılmamış ve harcanmamış olan kısmını,
+        k)Kurum: Sosyal Güvenlik Kurumu Başkanlığını
+        l)Likit karşılığı ödenek kaydı işlemi: Kurumun (F) işaretli cetvelinde belirtilen net
+finansman tutarlarını aşan finansman gerçekleşme karşılığı olarak mevcut veya yeni açılacak
+tertiplere yapılacak ödenek kaydı işlemini,
+        m)Malî yıl: Takvim yılını,
+        n)Ödenek devri işlemi: Harcanmayan kısmının ertesi yıla devredeceği ilgili kanunlarla
+hüküm altına alınmış olan her türlü ödeneğin yılı bütçesiyle ilişkisinin kurulması ve
+kullanımına imkân sağlanması amacıyla mevcut veya yeni açılacak tertiplere eklenmesi
+işlemini,
+        o)Ödenek iptal işlemi: Muhtelif kanunlarla verilmiş olan yetkilere istinaden bütçe
+ödeneklerinin iptal edilmesi işlemini,
+        ö)Revize işlemi: AFP’nin gider, gelir ve net finansman bölümlerinde yıl içinde
+yapılacak her türlü değişiklik işlemini,
+        p)Serbest bırakma işlemi: AFP yürürlüğe girmeden önceki dönemde aylık harcamalara
+ilişkin genelgeyle düzenlenen harcama izinlerinin yetersiz kaldığı durumlarda ödenek
+kullanımına izin veren işlemi,
+        r)Şartlı bağış ve yardımların devri işlemi: 5018 sayılı Kanunun 40 ıncı maddesi
+gereğince, önceki yılda şartlı bağış ve yardım olarak ödenek kaydedilen veya devren ödenek
+kaydedilen tutarlardan harcanmamış kısımların yılı bütçesinin ilgili tertiplerine devren ödenek
+kaydı işlemini,
+        s)Üst Yönetici: Kurum Başkanını,
+        ş)Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+        ifade eder.
+
+                                    İKİNCİ BÖLÜM
+                            Bütçe, Gider Bütçesi, Gelir Bütçesi
+
+        Bütçe
+        MADDE 5 - (1) Kurum bütçesi, mali yıl içindeki gelir ve gider tahminlerini gösteren,
+gelirlerin toplanmasına ve harcamaların yapılmasına yetki ve izin veren bir Yönetim Kurulu
+kararıdır.
+         (2) Mali yıl bütçesi, stratejik plan ve Kurum performans programı dikkate alınarak
+izleyen iki yılın gelir ve gider tahminleri ile birlikte görüşülür ve değerlendirilir.
+         (3) Bütçe, Kurumun plan ve programlarının gerekleri ile fayda ve maliyet unsurları
+göz önünde tutularak verimlilik, tutumluluk ilkeleri ile uluslararası standartlara uygun olarak
+hazırlanır ve uygulanır.
+        (4) Bütçe; gider, gelir ve finansmanın ekonomik sınıflandırması bölümlerinden oluşur.
+Gider ve gelir bütçeleri; Genel Sağlık Sigortası, Sosyal Sigortalar ve Genel Yönetim Bütçesi
+ayrımına göre hazırlanır ve uygulanır.
+        (5) Gider bütçesi; kurumsal, fonksiyonel, finansman tipi ve ekonomik sınıflandırma
+olmak üzere dört bölüme ayrılır. Finansman tipi sınıflandırma tek düzeyden, diğer
+sınıflandırmalar ise dört düzeyden oluşur.
+        (6) Gelir bütçesi ve finansmanın ekonomik sınıflandırması cetvelleri dört düzeyden
+oluşur. Kurum ihtiyaç duyması halinde, bu düzeyler dışında ilave düzeyler açabilir.
+      Giderler
+      MADDE 6 - (1) Kurumun giderleri şunlardır:
+      a) Sosyal sigorta kapsamında sigortalı ve hak sahiplerine ödenecek olan gelir, aylık ve
+ödenekler.
+      b) Genel sağlık sigortası kapsamında yapılacak giderler.
+      c) Genel yönetim giderleri.
+      ç) Faiz giderleri.
+      d) Eğitim, araştırma, danışmanlık hizmet giderleri.
+      e) Diğer giderler.
+
+        Gider bütçesi sınıflandırması
+        MADDE 7 - (1) Gider bütçesi; kurumsal, fonksiyonel, finansman tipi ve ekonomik
+sınıflandırma olmak üzere dört bölüme ayrılır. Finansman tipi sınıflandırma tek düzeyden,
+diğer sınıflandırmalar ise dört düzeyden oluşur.
+         a) Kurumsal sınıflandırma, sorumluluğun belirlenmesine imkân veren bir
+sınıflandırmadır.
+         b) Fonksiyonel sınıflandırma, Kurumun faaliyet türlerini gösterir.
+         c) Finansman tipi sınıflandırma, harcamanın hangi kaynaktan karşılandığını gösterir.
+         ç) Ekonomik sınıflandırma, Kurumun faaliyetlerinin ekonomik ve mali anlamda
+çeşitlerini gösteren bir sınıflandırmadır.
+         (2) Kurum, Maliye Bakanlığınca Merkezi Yönetim Bütçesi için belirlenen kodlardan
+sadece ihtiyaç duyduğu kodları kullanır.
+
+        Gelirler
+        MADDE 8 - (1) Kurumun gelirleri şunlardır:
+        a) Sosyal sigorta, genel sağlık sigortası, iş kazaları ve meslek hastalıkları prim
+gelirleri, idarî para cezaları, gecikme cezaları ve gecikme zamları.
+        b) Sosyal sigorta ile genel sağlık sigortasına yapılan Devlet katkısı (Hazine yardımı).
+        c) Taşınır ve taşınmaz kira ve satış gelirleri.
+        ç) Kurumca hazırlanan her türlü standart form, manyetik, elektronik veya akıllı kart
+satışından elde edilecek gelirler ile her türlü data hattı, internet kullanımı ve benzeri kira
+gelirleri.
+        d) Merkezî yönetim bütçesinden yapılacak diğer transferler.
+        e) Gerçek veya tüzel kişiler tarafından doğrudan veya vasiyet yoluyla yapılan bağışlar.
+        f) Primlerin ve diğer gelirlerin değerlendirilmesinden elde edilen faiz ve gelirler.
+        g) Ek karşılıklar, katılım payları ve diğer gelirler.
+
+       Gelir ekonomik kodları
+       MADDE 9 – (1) Gelir bütçesi Kurumun gelirlerinin çeşitlerini gösterir. Dört düzeyden
+oluşur. Birinci ve dördüncü düzey iki haneli, ikinci ve üçüncü düzey tek haneli iki haneli
+rakamla kodlanır. Üçüncü ve dördüncü düzeyler Maliye Bakanlığının görüşü alınarak
+Başkanlık tarafından belirlenir.
+
+        Red ve iadeler
+        MADDE 10 - (1) Bütçe gelirlerinden fazla veya yersiz tahsilat nedeniyle ya da yargı
+kararları ile iade edilmesi gereken tutarlar için gider bütçesinde tertip açılmaz. Bu tutarlar
+gelir bütçesinde "red ve iadeler" bölümünde gösterilir. Ancak, asıl alacak dışında ödenmesine
+hükmedilen faiz, kanuni gecikme faizi, yargılama giderleri, avukatlık ücretleri ve ilam icra
+yoluyla tahsile konmuş ise 03.4 ekonomik kodunda yer alan ödeneklerden karşılanır.
+         (2) Gelir bütçesi toplamından red ve iadeler tutarı düşüldükten sonra kalan tutar esas
+alınarak gider bütçesi hazırlanır.
+
+        Gelir tahmini
+        MADDE 11 - (1) Bütçe yılı ve izleyen iki yılın gelir tahmininde, Orta Vadeli
+Program, Orta Vadeli Mali Plan ve Merkezi Yönetim Bütçe Hazırlama Rehberi ile Yatırım
+Hazırlama Rehberinde yer alan katsayılar esas alınır. Ayrıca kanunlarla prim oranlarında
+değişiklik yapılması, yapılan yatırımların faaliyete başlaması, herhangi bir nedenle gelirlerde
+artış öngörülmesi gibi hususlar da gelir tahminlerinde dikkate alınabilir.
+
+         Gelirin ait olduğu yıl
+         MADDE 12 - (1) Bir mali yıl içinde tahakkuk eden gelirler ve tahsilat o yıl bütçesinin
+gelirlerini oluşturur. Ancak tahakkuk ettiği halde yılı içinde tahsil olunmayan miktarlar tahsil
+edildiği yıl bütçesine gelir yazılır.
+
+       Gelirlerin dayanakları
+       MADDE 13 - (1) Sosyal güvenlik gelirleri ve benzeri mali yükümlülükler kanunla
+konulur, değiştirilir ve kaldırılır.
+
+       Gelirlerin toplanması sorumluluğu
+        MADDE 14 - (1) Gelirlerin tarh, tahakkuk, tahsil iş ve işlemlerinden sorumlu olan
+görevliler bu işlemlerin zamanında ve eksiksiz olarak yapılmasından sorumludur.
+
+        Bağış, yardım ve özel ödenekler
+        MADDE 15 - (1) Herhangi bir gerçek veya tüzel kişi tarafından kamu hizmetinin
+karşılığı olarak veya kamu hizmetleri ile ilişkilendirilerek bağış ve yardım toplanamaz,
+benzeri adlar altında tahsilat yapılamaz.
+         (2) Yapılan her türlü bağış ve yardımlar gelir kaydedilir. Nakdi olmayan bağış ve
+yardımlar ilgili mevzuatına göre değerlendirmeye tabi tutulur ve kayıt altına alınır.
+         (3) Yapılan şartlı bağış ve yardımlardan, bedeli 5502 sayılı Kanunun 7 nci
+Maddesinin (d) fıkrasında belirtilen ve her yıl 213 sayılı Vergi Usul Kanunu uyarınca
+belirlenen yeniden değerleme oranı kadar arttırılmak suretiyle hesaplanan parasal sınırdan
+fazla olanlar Yönetim Kurulunun, söz konusu parasal sınıra kadar olan tutarlar ise Kurum
+Başkanının onayı ile gelir bütçesinde bağış ve yardımlar bölümüne gelir yazılır. Gider
+bütçesinde bu hizmetin ödeneği varsa bu ödeneğe eklenir; ödeneği yoksa bütçede öngörülen
+tertibe ödenek yazılarak tahsis amacına uygun olarak harcanır. Bu ödenekten amaç dışında
+başka bir tertibe aktarma yapılamaz.
+         (4) Bu ödeneklerden malî yıl sonuna kadar harcanmamış olan tutarlar, bağış ve
+yardımın amacı gerçekleşinceye kadar ertesi yıl bütçesine devir olunarak ödenek kaydedilir.
+Ancak, bu ödeneklerden tahsis amacı gerçekleştmiş olanlardan kalan tutarlara ilişkin
+ödenekleri iptal etme yetkisi bu maddenin üçüncü fıkrasına göre belirlenir.
+         (5) Bağış ve yardımlar, kullanılmadığı veya amaç dışı kullanıldığı için geri istenildiği
+takdirde, bütçeye gider kaydıyla ilgilisine geri verilir. Şartlı bağış ve yardımın zamanında
+kullanılmaması nedeniyle doğacak zararlar ile amaç dışı kullanım nedeniyle yapılan
+harcamalar, sorumluluğu tespit edilenlere ödettirilir.
+        (6) İlgili mevzuatı gereğince özel gelir kaydedilmek üzere tahsil edilen tutarları,
+Kurum bütçesinde söz konusu mevzuatta belirtilen amaçlar için tertiplenen ödenekten
+kullandırmak üzere Kurum bütçesine gelir kaydetmeye ve bütçelenen ödenekten gelir
+gerçekleşmesine göre ilgili tertiplere aktarma yapmaya, yılı içinde harcanmayan ödenekleri
+(devredenler de dâhil) ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye üst yönetici
+yetkilidir.
+
+
+        Belli bir amaca tahsisli gelirler
+        MADDE 16 - (1) 5502 sayılı Kanunun 37 nci maddesi ile 31/5/2006 tarihli ve 5510
+sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 79 uncu maddesinde yer alan
+hükümler uyarınca elde edilen tutarlar gelir bütçesinin ilgili bölümünde gösterilir ve bu
+gelirler amacı dışında harcanamaz.
+        (2) Birinci fıkra kapsamında toplanacak gelirler, gelir bütçesinin ilgili bölümüne
+kaydedilir. Diğer taraftan gider bütçesinin ilgili tertibine tahsis amacı doğrultusunda
+kullanılmak üzere ödenekleştirilir.
+
+
+         Bütçe denkliğinin sağlanması
+          MADDE 17 - (1) Bütçe denkliğinin sağlanmasında bütçe gelirleri esas alınır.
+Gelirlerin giderleri karşılamaması halinde aradaki fark, ilk olarak gider bütçesinde öngörülen
+tertiplerden indirim yapılması ya da yeni gelir kaynakları bulunması suretiyle giderilmeye
+çalışılır. Buna rağmen denklik sağlanamamış ise, söz konusu fark hazineden talep edilir.
+
+
+                                    ÜÇÜNCÜ BÖLÜM:
+                               Bütçe Çağrısı ve Bütçe Tasarısı
+
+        Bütçe çağrısı
+        MADDE 18 - (1) Üst yönetici, her yıl Ağustos ayının sonuna kadar stratejik plân ve
+performans programına uygun olarak gider bütçelerini hazırlamak üzere harcama birimlerine
+çağrı yapar.
+
+        Harcama birimlerinin gider teklifleri
+        MADDE 19 - (1) Harcama birimleri, bütçe fişini (Örnek-2a) kullanarak gerekçeli
+bütçe yılı gider teklifleri ve izleyen iki yılın gider tahminleri ile ödenek cetveli (Örnek-8) ve
+ayrıntılı finansman programını (Örnek-10) Başkanlığın koordinasyonunda hazırlayarak
+hizmet gerekçesi (Örnek-1) ile birlikte Eylül ayının ikinci haftasının sonuna kadar Başkanlığa
+teslim eder.
+         (2) Bütçe çağrısında belirtilmek suretiyle yukarıda belirtilen cetvellerin dışındaki
+bütçe hazırlığına ilişkin diğer cetvellerin de harcama birimleri tarafından doldurulması
+istenebilir.
+        (3) Gider teklif ve tahminlerinde, stratejik plan, performans programı ve yatırım
+programlarındaki hedef ve ilkeler göz önünde bulundurulur.
+        (4) Bütçe teklifleri, ekonomik sınıflandırmanın dördüncü düzeyini de kapsayacak
+şekilde hazırlanır.
+
+        Kurum finansman hedefleri ve gelir teklifleri
+        MADDE 20 - (1) Kurum, merkezî yönetim bütçesinden kendisine ayrılan yıllık sosyal
+sigortalar ile genel sağlık sigortasına ilişkin ayrı ayrı transfer tutarlarını, üç yıllık transfer
+projeksiyonunu ve uzun dönemli emeklilik ve genel sağlık sigortası finansman hedeflerini
+gerçekleştirmekle görevlidir. Finansman hedefleri, her yıl en geç Ekim ayında bir sonraki yıl
+uygulanmak üzere Yönetim Kurulunun önerisi üzerine Bakanın başkanlığında, Maliye
+Bakanlığı, Sağlık Bakanlığı, Kalkınma Bakanlığı ve Hazine müsteşarları ile Başkanın
+katılımıyla oluşan Komisyon tarafından belirlenir. Bütçe tasarısı Kurum finansman hedefi
+doğrultusunda hazırlanır.
+        (2) Kurum bütçesi çalışmaları kapsamında, prim gelirleri, emekli ödemeleri ve sağlık
+ödemelerine ilişkin gelir-gider tahminleri Aktüerya ve Fon Yönetimi Daire Başkanlığı
+tarafından ilgili merkez birimleri ile birlikte hazırlanır ve Başkanlığa sunulur. Gelir tahmini
+belirlenirken yapılan faturalı ödemeler, devlet katkı primi, ilgili kanunlara göre Hazine
+Müsteşarlığınca karşılanacak diğer primler, primsiz ödemeler için yapılan giderler ve benzeri
+durumlarda Kurumun finansman ihtiyacının karşılanması için Çalışma ve Sosyal Güvenlik
+Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığı ile diğer kurum ve kuruluşlar nezdinde
+gerekli girişimlerde bulunmak ve aktüeryal esaslara göre, Kurumun kısa, orta ve uzun vadeli
+gelir-gider projeksiyonlarını yapmak Aktüerya ve Fon Yönetimi Daire Başkanlığı tarafından
+gerçekleştirilir.
+
+
+
+        Bütçe tasarısı
+        MADDE 21 - (1) Başkanlık, diğer birimlerden gelen gider-gelir tekliflerini birleştirip
+gider bütçesi ile gelir bütçesini ve izleyen iki yılın gider ve gelir tahminlerini hazırlayarak,
+bütçe ilke ve hedefleri doğrultusunda Kurumun bütçe tasarısını oluşturur. Harcama
+birimlerinden gelen ayrıntılı finansman programları da dikkate alınmak suretiyle Kurumun
+ayrıntılı finansman programı hazırlanarak bütçe tasarısına eklenir. Üst yönetici tarafından
+gerekli inceleme ve düzeltme yapıldıktan sonra bütçe tasarısı, Aralık ayı sonuna kadar
+Yönetim Kuruluna sunulur ve mali yıl başlangıcından önce yürürlüğe girmesi sağlanır.
+         (2) Bütçe tasarısı aşağıda sayılan cetvellerden oluşur.
+         a) Hizmet Gerekçesi ve Hedefleri (Örnek-1)
+         b) Bütçe Fişi (Örnek-2a ve 2b)
+         c) Fonksiyonel Sınıflandırmaya Göre Ödenek Teklifleri İcmali Cetveli (Örnek-3)
+         ç) Ekonomik Sınıflandırmaya Göre Ödenek Teklifleri İcmali Cetveli (Birinci Düzey)
+(Örnek-4)
+         d) Ekonomik Sınıflandırmaya Göre Ödenek Teklifleri İcmali Cetveli (İkinci Düzey)
+(Örnek-5)
+         e) Fonksiyonel ve Ekonomik Sınıflandırma Düzeyinde Bütçe Teklifi Cetveli (Örnek-
+6)
+        f) Fonksiyonel ve Ekonomik Sınıflandırma Düzeyinde İzleyen İki Yıl Bütçe Teklifi
+Cetveli (Örnek-7a ve 7b)
+         g) Ödenek Cetveli (Teklif) (Örnek-8)
+         ğ) Bütçe Gelirleri Cetveli (Örnek-9)
+         h) Ayrıntılı Finansman Programı (Örnek-10)
+         ı) Başkanlık tarafından gerekli görülecek diğer cetveller
+        (3) Bütçe tasarısı metninde;
+          a) Gider tahminleri toplamı,
+          b) Gelir tahminleri toplamı,
+          c) Bütçe yılına ait ve o yılın gelir ve giderlerini ilgilendiren hükümler,
+        yer alır.
+        Bütçe tasarısının Maliye Bakanlığına gönderilmesi
+        MADDE 22- (1) Kurumun finansman hedefleri doğrultusunda hazırlanan bütçe
+tasarısı ve izleyen iki yıla ait gelir ve gider tahminleri, Ekim ayının ikinci haftası sonuna
+kadar, 5018 sayılı Kanunun 18 inci maddesi uyarınca merkezi yönetim bütçe tasarısına
+eklenmek üzere Maliye Bakanlığına gönderilir.
+
+
+                              DÖRDÜNCÜ BÖLÜM :
+Bütçe Tasarısının Görüşülmesi, Kesinleşmesi, Yürürlüğe Girmesi ve Bütçeyi Oluşturan
+                                      Cetveller
+
+        Bütçe tasarısının Yönetim Kurulunda görüşülmesi
+        MADDE 23- (1) Yönetim Kurulu;
+        a)Kurum bütçe tasarısının metin bölümünü madde madde,
+        b)Yılı gider bütçesini, kurumsal kodlaması yapılan her birimin fonksiyonel
+sınıflandırmalarının birinci düzeyi,
+        c)Yılı gelir bütçesini, ekonomik sınıflandırmanın dördüncü düzeyi,
+        ç)Yılı finansman, ekonomik sınıflandırmanın ikinci düzeyi,
+        itibarıyla toplamları üzerinden oylar ve kabul eder.
+        (2) Ayrıntılı finansman programı üç aylık dönemler itibariyle toplamları üzerinden
+ikinci düzeyde Yönetim Kurulunca onaylanır.
+        (3) Harcama yetkilileri kendi bütçeleri görüşülürken, Yönetim Kurulunun talep etmesi
+halinde toplantıda hazır bulunarak gerekli açıklamayı yapar.
+        (4) Bütçenin Yönetim Kurulunda görüşülmesi aşamasında, program dışı ödenek
+konulması ve programlı işlere ait ödeneğin başka işlere aktarılması, projelerin
+gerçekleşmesini engelleyecek ödenek indirimleri ve ödeneği temin edilmemiş projelerin
+bütçeye dâhil edilmesi teklif edilemez.
+        (5) Mali yılın bitiminden önce Yönetim Kurulunca kabul edilen bütçe, mali
+yılbaşından itibaren yürürlüğe girer.
+
+      Bütçeyi oluşturan cetveller
+      MADDE 24- (1) Bütçede yer alan cetveller;
+       a) Ödenek Cetveli (A) (Örnek-11)
+       b) Gelirlerin Ekonomik Sınıflandırması (B) Cetveli (Örnek-12)
+       c) Finansmanın Ekonomik Sınıflandırması Cetveli (Örnek-13)
+       ç) Gelirlerin Yasal Dayanağını Gösterir ( C) Cetveli (Örnek-14)
+       d) Çok Yıllı Gider Bütçesi Cetveli (Örnek-15)
+       e) Fonksiyonel ve Ekonomik Sınıflandırma Düzeyinde Yılı ve İzleyen İki Yıl Bütçe
+Tahmini Cetveli (Örnek-6, 7a ve 7b)
+       f) Çok Yıllı Finansmanın Ekonomik Sınıflandırması Cetveli (Örnek-16)
+      g) Gelecek Yıllara Yaygın Yüklenmeleri Kapsayan Taahhütler (G) Cetveli (Örnek-17)
+      ğ) 237 sayılı Taşıt Kanununa Göre Satın Alınacak Taşıtları Gösterir (T-1) Cetveli
+(Örnek-18)
+      h) Mevcut Taşıtları Gösterir (T-2) Cetveli (Örnek-19)
+      ı) Ayrıntılı Harcama Programı (Örnek-20)
+      i) Finansman Programı (Örnek-21)
+      den oluşur.
+                                BEŞİNCİ BÖLÜM :
+                  Ödenek Kullanımı ve Bütçede Yapılacak Değişiklikler
+
+        Ödenek kullanımı
+         MADDE 25 - (1) Hizmetlerin önceliği ve mevcut nakit durumu gibi gerekçelerle
+ayrıntılı finansman programı gözetilerek, Başkanlığın görüşleri çerçevesinde üst yönetici
+tarafından ödenek kullanımına ilişkin ilkeler belirlenebilir.
+
+        Serbest bırakma işlemi
+        MADDE 26 - (1) Ayrıntılı finansman programı yürürlüğe girmeden önceki dönemde
+ve aylık harcamalarla ilgili genelgelerle düzenlenen harcama izinlerinin yetersiz kaldığı
+durumlarda, ödenek kullanımına izin veren serbest bırakma işlemine ilişkin talepler, harcama
+birimleri tarafından Başkanlığa gönderilir. Serbest bırakma talebinde yer alan gerekçeler göz
+önünde bulundurularak talep incelenir. Uygun görülen veya görülmeyen talepler, Başkanlıkça
+bir yazı ile harcama birimine bildirilir.
+
+        Ayrıntılı Finansman Programının hazırlanması
+        MADDE 27 - (1) Ayrıntılı Finansman Programı, Kurum bütçesine tefrik edilmiş olan
+ödeneklerin tertipler itibariyle aylara dağılımını gösteren harcamaları, gelir gerçekleşme
+tahminlerini ve net finansmanların kullanımına ilişkin çalışmaları gösteren programdır.
+        (2) Ayrıntılı Finansman Programına ilişkin ön çalışmalara, harcama birimleri
+tarafından, mali yılın ikinci yarısından itibaren başlanır. Bu kapsamda harcama birimleri;
+önceki yılların periyodik giderlerine ilişkin harcama seyirlerine ilave olarak, uygulama yılı
+içinde gerçekleştirilecek öncelikli hizmetlere ilişkin ihtiyaçları da dikkate almak suretiyle
+ayrıntılı harcama programına ilişkin bir alt yapı oluştururlar.
+        (3) Ayrıntılı Finansman Programı hazırlanmasına ilişkin çalışmalar, Başkanlıkça
+hazırlanacak bir duyuru ile başlar. Söz konusu duyuruda Başkanlık, ayrıntılı finansman
+programı hazırlığına ilişkin ilke ve esasları harcama birimlerine iletir. Bu çerçevede ve
+Başkanlıkça belirlenecek sürede, harcama birimleri tarafından hazırlanan ayrıntılı finansman
+programı teklifleri sisteme (MOSİP) girilir ve Başkanlığa bir yazı ekinde iletilir. Harcama
+birimlerince Başkanlığa gönderilen ayrıntılı finansman programı teklifleri, Kurumun stratejik
+planı, performans programı, eylem planı ve hizmet öncelikleri dikkate alınarak incelenir.
+Yapılan inceleme neticesinde gerekli görülen değişiklikler Başkanlık tarafından yapılarak
+teklife son şekli verilir. Hazırlanan ayrıntılı finansman programı icmal teklifi üst yönetici
+tarafından imzalanır ve vize edilmek üzere Yönetim Kuruluna gönderilir. Yönetim Kurulunca
+vize edilen ayrıntılı finansman programı icmaline uygun olarak Başkanlık, harcama
+birimlerinin tekliflerini de dikkate alarak, detay ayrıntılı finansman programını yapar ve
+sistem (MOSİP) üzerinde onaylayarak ödeneklerin kullanılır hale gelmesini sağlar.
+
+        Ayrıntılı Finansman Programnın uygulanması ve revize işlemleri
+        MADDE 28 - (1) Ayrıntılı finansman programına bağlanan ödenekler harcama
+birimlerinin üçer aylık dönemler itibarıyla kullanabilecekleri tutarlardır. Dönemleri içinde
+kullanılmayan tutarlar takip eden üçer aylık dönemlerde kullanılabilecektir. Ancak takip eden
+dönemlere ilişkin ödenekler, Başkanlıkça değişiklik yapılmadığı sürece 5018 sayılı Kanunun
+70 inci maddesinin amir hükmü de dikkate alınarak süresinden önce kullanılmayacaktır.
+        (2) Ödeneklerin merkez dışı birimlere gönderilmesinde birimlerin ihtiyaçları dikkate
+alınacak, merkeze bağlı birimlerde ortaya çıkacak ödenek ihtiyacı AFP de değişiklik
+gerektirmeden ödenek gönderme belgesine bağlanan ancak kullanılmayan ödeneklerin tenkis
+edilmesi suretiyle karşılanacaktır.
+        (3) Elektrik, doğalgaz, su, telefon, bilgiye abonelik ve internet erişimi gibi mal ve
+hizmet alım giderlerinin, serbest ödenek yetersizliği nedeniyle zamanında ödenmemesi
+suretiyle ek mali yük oluşturularak kamu zararına neden olunmaması bakımından, tertipler
+itibarıyla serbest ödenekler öncelikle bu giderlere ilişkin faturaların ödenmesinde
+kullanılacak, gerek aynı tertipte yer alan diğer gider türlerine ilişkin ihtiyaçların gerek bütçe
+içi ödenek aktarma suretiyle bütçenin diğer tertiplerindeki diğer gider türlerine ilişkin
+ihtiyaçların karşılanmasında hiçbir şekilde kullanılmayacak, buna neden olabilecek bir
+taahhüde ve harcamaya girişilmeyecek, merkez dışı birimlere ödenek gönderilmesinde bu
+hususa öncelik verilecektir.
+        (4) İhale işlemlerinde bütçelerin ilgili tertiplerinde yer alan başlangıç ödenekleri
+dikkate alınarak taahhüde girişilebilecektir. Hazırlanacak şartname ve sözleşmelere AFP'deki
+ödenek dağılımına göre ödeme yapılacağına ilişkin hüküm konulacaktır.
+        (5) İhtiyaç duyulması halinde AFP'de yapılacak revize işlemlerine ilişkin talepler
+Başkanlığa iletilecektir. Söz konusu revize işlemleri Başkanlıkça gerçekleştirilecektir.
+        (6) Bloke tutulan ödenekler, harcama birimlerinin talepleri üzerine bütçe
+uygulamalarındaki gelişmeler de dikkate alınarak Başkanlıkça değerlendirilerek
+kullandırılabilecektir. Bloke tutulan ödeneklerin kullanılır hale getirilmesi revize işlemiyle
+gerçekleştirilir. Harcama birimleri revize işlemi taleplerinde bulunurken, öncelikle icmal
+finansman programında değişiklik oluşturmayacak şekilde talepte bulunurlar. Bu kapsamda,
+ekonomik sınıflandırmanın ikinci düzeyi itibariyle, aynı olan tertiplerdeki ödenekler arasında
+revize işlemi talep edilir. Programlandığı dönemde kullanılmayan ödeneklerin farklı harcama
+birimlerinin ihtiyacını karşılamak amacıyla ötelenmesi karşılığı olarak yapılacak revize
+işlemleri, ilgili harcama birimleri arasında gerekli koordinasyon yapılmak suretiyle Başkanlık
+tarafından gerçekleştirilir. Başkanlıkça uygun görülmeyen revize talepleri, gerekçesi
+belirtilmek suretiyle harcama birimlerine iade edilir.
+
+         Aktarma
+         MADDE 29 - (1) Aktarma; bütçenin herhangi bir tertibinde bulunan ve o hesap
+döneminde kullanılmayacağı anlaşılan ödeneklerden alınarak, ödenek ihtiyacı olan diğer gider
+tertiplerine veya yeni açılan tertibe yapılan eklemedir.
+         Ancak;
+         a) Personel giderleri tertiplerinden,
+         b) Aktarma yapılmış tertiplerden,
+        aktarma yapılamaz.
+         (2) Harcama birimleri, 5018 sayılı Kanunun 21 inci maddesi ile yılı bütçe Kanunu ve
+diğer mevzuatta yer alan aktarmaya ilişkin yetki ve sınırlamaları dikkate alarak ve her bir
+tertibin yılsonu harcama tahminini göz önünde bulundurarak aktarma talebinde
+bulunacaklardır.
+        (3) Her türlü ilave ödenek ihtiyacı, öncelikle tasarrufu mümkün olan tertiplerden
+aktarma yapılmak suretiyle karşılanacaktır.
+        (4) Aktarma yetkisinin hesaplanmasında aktarma işlemi ile ödenek eklenecek tertibin
+başlangıç ödeneğinin yüzde yirmisi esas alınacaktır. Bu itibarla, yıl içinde yapılan aktarma ve
+ekleme işlemleri sonucu meydana gelen ödenek değişiklikleri, söz konusu oranın hesabında
+dikkate alınmayacaktır.
+        (5) Aktarma işleminin yapılabilmesi için aktarılacak ödeneğin, işlemin yapıldığı tarih
+itibarıyla kullanılabilir (serbest, ödenek gönderme belgesine bağlanmamış, ön ödeme
+yapılmamış ve harcanmamış) durumda olması gerekmektedir.
+        (6) Bütçenin, "03- Mal ve Hizmet Alım Giderleri" ve "05- Cari Transferler" ekonomik
+kodlarında yer alan cari nitelikli ödenekler ile "06- Sermaye Giderleri" ve "07- Sermaye
+Transferleri" ekonomik kodlarında yer alan sermaye nitelikli ödenekler arasında aktarma
+yapılmaması esastır. Ancak zorunlu hallerde, harcama birimlerinin bu nitelikteki aktarma
+işlemlerinin tamamı ilgili mevzuat çerçevesinde Başkanlık tarafından değerlendirilecek ve
+uygun bulunanlar Yönetim Kurulunun onayına sunulacaktır.
+        (7) Yılı Yatırım Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair
+Karara uygun olarak Yılı Yatırım Programına ek yatırım cetvellerinde yer alan projelerde
+değişiklik yapılması halinde, bu değişikliğin gerektirdiği tertipler arası ödenek aktarması
+işlemlerinin tamamı, 5018 sayılı Kanunun 21 inci maddesinin üçüncü fıkrasında yer alan
+sınırlamalara tabi olmaksızın Yönetim Kurulunca yapılacaktır.
+
+
+        Ekleme işlemleri
+        MADDE 30 – (1) Mevzuatı gereğince yapılması gereken ödenek eklemesi Başkanlık
+tarafından gerçekleştirilir. Gelirli ödenek kaydı işlemleri; ilgili harcama biriminin konuya
+ilişkin talebini, gelirin tahsiline ilişkin muhasebe işlem fişi ile birlikte Başkanlığa
+iletmesinden sonra, Başkanlık tarafından gerçekleştirilir
+
+          Ek ödenek
+         MADDE 31 - (1) Ek ödenek; bütçede tertibi bulunduğu halde ihtiyaca yetmeyeceği
+anlaşılan veya bütçenin düzenlenmesi ve görüşülmesi sırasında düşünülmeyen ve bütçede
+tertibi açılmayan, ancak yapılmasında zorunluluk bulunan bir hizmet için tertip açılarak,
+bütçenin diğer tertiplerindeki ödeneklere dokunulmadan alınan ödenektir.
+         (2) Ek ödenek ancak bütçe yılı içerisinde verilebilir. Ek ödenek verilmesi Yönetim
+Kurulu Kararı ile yapılır.
+         (3) Ek ödenek verilmesi için yeni bir gelir veya finansman kaynağının bulunması
+zorunludur.
+
+        Ödeneklerin iptali ve devri
+         MADDE 32 - (1) Yıl sonunda kullanılmayan ödenekler bütün düzeyleri belirtilerek
+iptal edilir. Ancak, şartlı, tahsisi mahiyette ve mevzuatı gereği ertesi yıla devri gereken
+ödenekler devir gerekçesi belirtilerek devredilir. Devredilen ödenek yeni yıl bütçesinde
+açılacak tertiplere ödenek kaydedilir.
+        (2) Ödenek devir işlemlerinde, kesin hesabın netleşmesini müteakip devredilecek
+ödeneğin tespit edilmesinden sonra, devredilecek ödenek tutarı bir yazı ile Muhasebe Daire
+Başkanlığına bildirilir ve devren gelir kaydının yapılması istenir. Muhasebe yetkilisince
+devren gelir kaydının yapıldığına dair yazının Başkanlığa iletilmesini müteakip devren
+ödenek kaydı yapılır.
+        (3) Akreditif ve yüklenme artığı karşılığı ödenek kaydı işlemleri 5018 sayılı Kanunun
+35 inci maddesi, 5502 sayılı Kanunun Ek 1 inci maddesi, 5510 sayılı Kanunun 97 nci maddesi
+hükümlerine göre gerçekleştirilir.
+
+       Bütçe işlemlerinin gerçekleştirilmesi ve kayıtların tutulması
+       MADDE 33 – (1) Bütçe işlemleri, harcama birimleriyle koordinasyon sağlanarak
+Başkanlıkça yürürlüğe konulan düzenlemelere göre gerçekleştirilir, kayıtları tutulur ve izlenir.
+       (2) Söz konusu kayıtlar, sistem (MOSİP) üzerinde gerçekleştirilir. Gerek
+görüldüğünde Bütçe kayıt ve işlemleri, Başkanın veya yetki vereceği personelin onayıyla
+gerçekleştirilir.
+
+       Bütçe işlemlerinin iptali
+       MADDE 34 – (1) Gerçekleştirilen bütçe işleminin iptaline, işlemi yapan harcama
+birimi yetkilidir. İptal işlemi, iptal işlemine konu olan ödeneğin kullanılabilir durumda
+(serbest, ödenek gönderme belgesine bağlanmamış, ön ödeme yapılmamış ve harcanmamış)
+olması kaydıyla Başkanlıktan talep edilir. Başkanlık, işlemin niteliğine göre iptal işlemini
+kendisi gerçekleştirir
+
+       Ödenek gönderme işlemleri
+       MADDE 35 – (1) Birimlerin ödenek taleplerini ilgili harcama birimine bir yazı ile
+bildirmesi üzerine, uygun görülen talepler için harcama birimleri tarafından ödenek gönderme
+belgesi ve icmali düzenlenir.
+       (2) Harcama birimi, ödenek gönderme belgesi icmalini Başkanlığa gönderir. Ödenek
+gönderme belgeleri icmali, ilgili mevzuatına, bütçe tertibine, ayrıntılı finansman programına
+ve bütçe ödeneklerinin dağıtım ve kullanımına ilişkin usul ve esaslara göre incelenir. Uygun
+görülen ödenek gönderme belgeleri icmali, en geç üç işgünü içinde Başkanlıkça
+sonuçlandırılır ve sistem (MOSİP) üzerinde onaylanır. Uygun görülmeyen ödenek gönderme
+belgeleri icmali ise aynı süre içerisinde gerekçeli bir yazıyla ilgili harcama birimine
+gönderilir.
+
+        Tenkis işlemleri
+        MADDE 36- (1) Düzenlenmiş ve sistem (MOSİP) üzerinde onaylanmış olan ödenek
+gönderme belgesinin mali yılın içinde iptali gerektiğinde, ödeneğin gönderildiği birimin talebi
+üzerine, harcama birimi tarafından tenkis belgesi düzenlenir. Tenkis belgesi düzenlenirken
+ödeneğin kullanılabilir durumda (ön ödeme yapılmamış ve harcanmamış) olmasına dikkat
+edilir.
+        (2) Söz konusu tenkis belgelerine ilişkin icmal Başkanlığa gönderilir. Uygun görülen
+tenkis talepleri Başkanlıkça sonuçlandırılarak sistem (MOSİP) üzerinde onaylanır. Uygun
+görülmeyen tenkis belgeleri icmali ise aynı süre içerisinde gerekçeli bir yazıyla ilgili harcama
+birimine gönderilir.
+        (3) Mali yılın sonunda, muhasebe birimlerince düzenlenen yılsonu tenkis belgeleri
+Başkanlığa gönderilir. Yılsonu tenkis belgeleri, ödenek, ödenek gönderme belgeleri icmali ve
+bütçe giderleriyle karşılaştırılarak incelenir. Doğruluğu anlaşılan yılsonu tenkis belgeleri,
+sistem (MOSİP) üzerinde onaylanarak sonuçlandırılır. Yılsonu tenkis belgelerinde yer alan
+bilgilerin hatalı olduğunun tespit edilmesi halinde, söz konusu hataya neden olan hususların
+düzeltilmesi ve buna göre yeniden düzenlenecek yılsonu tenkis belgesinin Başkanlığa
+gönderilmesi, ilgili muhasebe biriminden bir yazı ile istenir.
+
+
+        Bütçe uygulama sonuçlarının raporlanması
+        MADDE 37 – (1) Yılı bütçe uygulama sonuçlarına ilişkin her türlü rapor, cetvel ve
+belge, yılı içerisinde gerçekleştirilen bütçe işlemleri ve bütçe uygulama sonuçları dikkate
+alınarak Başkanlık tarafından hazırlanır. Söz konusu bilgiler konsolide edilir, değerlendirilir
+ve üçer aylık dönemler halinde tablolaştırılarak sorunları önleyici ve etkililiği artırıcı
+tedbirlere de yer verilmek suretiyle bütçe uygulama sonuçları bir rapor haline getirilir.
+                                      ALTINCI BÖLÜM
+                                 Yatırımların Koordinasyonu,
+                                  İzlenmesi ve Raporlanması
+
+       Görev
+       MADDE 38 – (1) Yatırım programının hazırlanması, uygulanması ve yıllık yatırım
+değerlendirme raporunun hazırlanması görevi Başkanlık tarafından gerçekleştirilir.
+
+         Yatırım programının hazırlanması
+         MADDE 39 – (1) Yılı yatırım genelgesi ve yatırım programı hazırlama rehberi
+çerçevesinde yatırım programının hazırlanmasında kullanılacak belge ve cetveller ile gerekli
+dokümanlar Başkanlık tarafından harcama birimlerine bir yazı ile bildirilir.
+         (2) Harcama birimlerince Başkanlığa gönderilen yatırım programı teklifleri, Orta
+Vadeli Plan, Orta Vadeli Mali Plan, Kurum Stratejik Planı, Maliye Bakanlığı Bütçe Çağrısı ve
+Genelgesi, Yatırım Programı Hazırlama Rehberine göre incelenir.
+         (3) Harcama yetkilileri ile Başkanlık temsilcilerinin de katılmasıyla yapılan
+görüşmeler sonucunda, üst yönetici tarafından uygun görülen Kurum yatırım programı teklifi,
+yatırım programı hazırlama rehberinde belirtilen süre içerisinde Kalkınma Bakanlığına
+gönderilir.
+         (4) Gönderilen yatırım programı teklifi, harcama birimi temsilcilerinin de katılımıyla
+Kalkınma Bakanlığında görüşülür. Yapılan değerlendirmeler sonucunda alınan kararlar ile
+Yüksek Planlama Kurulunca belirlenmiş olan makroekonomik göstergeler ve bütçe
+büyüklükleri de göz önünde bulundurularak yatırım programı tasarısı oluşturulur. Vize
+edilmek üzere Başkanlıkça Kalkınma Bakanlığına gönderilir. Toplulaştırılmış Projelerde
+Uyulacak Usul ve Esaslar, Kurum internet sayfasından yayımlanır. Toplu projelerin detay
+programları, yılı yatırım programının Resmi Gazetede yayımlanmasından sonra, harcama
+birimleri ile koordinasyon sağlanarak Başkanlık tarafından yapılır. Toplu projelerin detay
+dağılımları Bakan onayına sunulur. Bakan onayıyla kesinleşen detay programlar, yılı yatırım
+programının Resmi Gazetede yayımlanmasını müteakip 30 gün içinde Kalkınma Bakanlığına
+bildirilir. Ayrıca ilgili harcama birimleri de bu konuda bilgilendirilir. Toplulaştırılmış projenin
+alt projeleri, yatırım programının Resmi Gazetede yayımlanmasından sonra ilgili harcama
+birimi tarafından Başkanlığa gönderilir. Yılı yatırım programının Resmi Gazetede
+yayımlanmasını müteakiben 30 gün içinde Başkanlık, toplulaştırılmış projenin alt projelerini
+Bakan onayına sunar, Onaylanan projelerin detay programları Kurum internet sayfasından
+yayımlanır ve bilgi için Kalkınma Bakanlığına gönderilir. Onaylanan projeler, uygulamaya
+konulmak üzere harcama birimlerine bildirilir.
+
+
+        Yatırım programlarının revizesi
+        MADDE 40 – (1) Yatırım programında yer alan projelerin yer, süre, mahiyet, proje
+maliyeti ve ödeneğinde yıl içinde yapılacak değişiklik talepleri, ilgili harcama birimince
+Başkanlığa iletilir. Proje revize talepleri, yılı yatırım programının uygulanması,
+koordinasyonu ve izlenmesine dair karar hükümleri çerçevesinde incelenir.
+        (2) Başkanlık yetkisinde olan ve uygun görülen revize talepleri, Başkanlık tarafından
+gerçekleştirilir. Yapılan revize işlemi hakkında Kalkınma Bakanlığı ve ilgili harcama birimi
+bilgilendirilir.
+        (3) Kalkınma Bakanlığının yetkisinde olan ve Başkanlık tarafından uygun görülen
+revize talepleri, Kalkınma Bakanlığına üst yöneticinin imzasıyla iletilir. İşlem sonucu ilgili
+birime bildirilir.
+       Yatırım programlarının izlenmesi ve raporlanması
+       MADDE 41 – (1) Kalkınma Bakanlığınca belirlenen dönemler itibariyle hazırlanacak
+yatırım uygulama raporuna ilişkin cetveller, harcama birimlerine Başkanlıkça bir yazı ekinde
+gönderilir. Harcama birimlerince hazırlanan yatırım uygulama raporları, Başkanlık tarafından
+konsolide edilerek Kalkınma Bakanlığına süresi içerisinde gönderilir.
+        (2) Başkanlıkça yıl sonunda Yıllık Yatırım Değerlendirme Raporu hazırlanır ve
+izleyen yılın Mart ayı sonuna kadar Sayıştay Başkanlığına, Çalışma ve Sosyal Güvenlik
+Bakanlığına ve Kalkınma Bakanlığına gönderilir.
+
+
+                                 YEDİNCİ BÖLÜM
+                  Performans Programı Hazırlıklarının Koordinasyonu
+
+        Performans programı hazırlığı
+        MADDE 42 – (1) Performans programı, Kamu İdarelerince Hazırlanacak Performans
+Programları Hakkında Yönetmelik, Performans Programı Hazırlama Rehberi ve Maliye
+Bakanlığınca performans esaslı bütçelemeye ilişkin yapılacak diğer düzenlemelere uygun
+olarak hazırlanır.
+         (2) Performans programı, Kurumun program dönemine ilişkin performans hedef ve
+göstergelerini, performans hedeflerine ulaşmak için yürütülecek faaliyetler ile bunların
+kaynak ihtiyacını, idareye ilişkin mali ve mali olmayan diğer bilgileri içerecek şekilde
+Başkanlığın koordinasyonunda harcama yetkililerinin katılımıyla üst yönetici tarafından
+Kurum düzeyinde hazırlanır.
+        (3) Performans programının hazırlanması ve değiştirilmesi çalışmalarında harcama
+birimleri arasındaki koordinasyon, Başkanlıkça yerine getirilir. Bu çalışmalarda kullanılacak
+bilgi, belge ve cetveller ile gerekli dokümanlar harcama birimlerine gönderilir. İlgili harcama
+birimlerince hazırlanan Performans Programları, belirtilen sürede Başkanlığa iletilir. Harcama
+Birimi Performans Programı, Kalkınma Planı, Yıllık Program, Orta Vadeli Program, Orta
+Vadeli Mali Plan ile Kurum Stratejik Planına göre incelenir. İhtiyaç duyulması halinde
+harcama birimi temsilcileriyle birlikte gözden geçirilen Birim Performans Programına son
+şekli verilir. Harcama birimlerine ilişkin performans programlarından hareketle Kurum
+Performans Programı hazırlanır.
+        (4) Harcama Birimleri performans programlarını, Kamu İdarelerince Hazırlanacak
+Performans Programları Hakkında Yönetmelik, Performans Programı Hazırlama Rehberi ve
+performans bütçelemeye ilişkin diğer düzenlemelere uygun olacak şekilde hazırlarlar.
+Performans programları, ilgili dönemde Kurumun performans hedef ve göstergelerini,
+performans hedeflerine ulaşmak için yürütülecek faaliyetler ile bunların kaynak ihtiyacını,
+Kurumun mali ve mali olmayan diğer bilgilerini içerir.
+        (5) Performans programı hazırlık süreci ve Yılı Programının Uygulanması,
+Koordinasyonu ve İzlenmesine Dair Bakanlar Kurulu Kararı Eki Yılı Programın yayımlanma
+tarihleri arasındaki takvim farklılığı nedeniyle bu belgeler arasındaki bağlantı hazırlık
+sürecinde kurulamasa bile performans programlarının nihai hali verilmeden önce Yılı
+Program ile bağlantısı kurulur ve söz konusu programda belirlenen amaç ve hedeflerin
+performans programında yer alması sağlanır.
+         (6) Performans programı hazırlık süreci bütçe hazırlık süreci ile birlikte başlar.
+       Kurum performans programının kamuoyuna duyurulması
+       MADDE 43 – (1) Üst yönetici, bütçe teklifi ile birlikte performans programını Aralık
+ayının sonuna kadar Yönetim Kuruluna sunar. Yönetim Kurulunda kesinleşen bütçe
+büyüklüklerine göre revize edilen performans programı, üst yönetici tarafından Ocak ayı
+içinde kamuoyuna açıklanır. Kurum performans programı Kurumun internet sayfasında da
+yayımlanır. Kamuoyuna açıklanan Kurum performans programı, Mart ayının on beşine kadar
+Maliye ve Kalkınma Bakanlıklarına gönderilir.
+
+
+        Performans programının izlenmesi ve değerlendirmesi
+        MADDE 44 – (1) Kalkınma Planı, Yıllık Program, Orta Vadeli Program, Orta Vadeli
+Mali Plan ile Kurum Stratejik Planına göre hazırlanan performans programının izleme ve
+değerlendirmesi Başkanlık tarafından gerçekleştirilir.
+        (2) Performans programının izleme ve değerlendirilmesinde Performans Göstergesi
+Gerçekleşmeleri İzleme (PGGİ) Formu (Örnek-37), Performans Göstergesi İnceleme ve
+Değerlendirme (PGİD) Formu (Örnek-38), Performans Hedefi İzleme ve Değerlendirme
+(PHİD) Formu (Örnek-39), Perfromans Göstergesi Sonuçları (PGS) Formu (Örnek-40)
+kullanılır. Söz konusu formların hazırlanmasında veri girişi ve değerlendirme işlemleri,
+MOSİP üzerinden gerçekleştirilir.
+        (3) Performans göstergesinin izlenmesi ve değerlendirilmesi, üçer aylık dönemler
+itibariyle yapılır. Üçer aylık dönemi takip eden ay sonuna kadar PGGİ Formuna (Örnek-37)
+performans göstergesi bazında, ilgili üç aylık dönemin toplam gerçekleşmeleri üzerinden veri
+girişi yapılır. Verilerin aylık olarak girilmesi halinde ise aynı yöntem izlenir ve sadece ilgili
+aydaki gerçekleşmelere yer verilir.
+        (4) Her üç aylık dönemin sonunda, performans göstergesinin hedeflenen gösterge
+düzeyi gözden geçirilip “Yılsonu Gerçekleşme Tahmini” (PPGİ Formu) yapılır. Tahminde yıl
+içindeki gelişmeler, ilave olarak sağlanan kaynaklar, hizmet ve faaliyetlerdeki performans
+dikkate alınır. Gelişmelere bağlı olarak gerçekleşme tahmininde değişiklik yapılması ihtiyacı
+ortaya çıkarsa izleyen üç aylık döneme ilişkin veri girişlerinin yapıldığı dönemde yılsonu
+gerçekleşme tahmini revize edilebilir.
+
+
+                                    SEKİZİNCİ BÖLÜM
+                                      Diğer Hükümler
+
+       Kullanılacak defter, kayıt ve belgeler
+       Madde 45 – (1) Bütçe, performans programı, kullanılacak defter, kayıt ve belgeler
+aşağıda sayılmıştır.
+       a)     Cetvel, form, tablo ve raporlar
+       1)     Performans Hedefi Tablosu (Örnek-22)
+       2)     Faaliyetlerden Sorumlu Harcama Birimlerine İlişkin Tablo (Örnek-23)
+       3)     İdare Performans Tablosu (Örnek-24)
+       4)     Faaliyet Maliyetleri Tablosu (Örnek-25)
+       5)     Toplam Kaynak İhtiyacı Tablosu (Örnek-26)
+       6)     Yılı Ayrıntılı Finansman Programı (İcmal) (Örnek-27)
+       7)     Yılı Ayrıntılı Finansman Programı (Gider-İcmal) (Örnek-28)
+       8)     Yılı Ayrıntılı Finansman Programı (Gider-Tertip Düzeyinde) (Örnek-29)
+       9)     Yılı Ayrıntılı Finansman Programı (Gelir-İcmal) (Örnek-30)
+       10)    Yılı Ayrıntılı Harcama Programı (İcmal) (Örnek-31)
+       11)    Yılı Ayrıntılı Harcama Programı (Tertip Düzeyinde) (Örnek-32)
+       12)     Ödenek Gönderme Belgesi ve Ödenek Gönderme İcmali (Örnek-33a, 33b)
+       13)     Tenkis Belgesi ve Tenkis Belgesi İcmali (Örnek-34a, 34b)
+       14)     Bütçe Giderleri ve Ödenekler Tablosu (Örnek-35)
+       15)     Performans Programı İnceleme (PPİ) Formu (Örnek-36)
+       16)     Performans Göstergesi Gerçekleşmeleri İzleme (PGGİ) Formu (Örnek-37)
+       17)     Performans Göstergesi İnceleme ve Değerlendirme (PGİD) Formu (Örnek-38)
+       18)     Performans Hedefi İzleme ve Değerlendirme (PHİD) Formu (Örnek-39)
+       19)     Perfromans Göstergesi Sonuçları (PGS) Formu (Örnek-40)
+
+       b) Dosyalar
+       1)     Performans Programı Hazırlık Dosyası
+       2)     Bütçe Hazırlama Dosyası
+       3)     Bütçe Teklifleri Dosyası
+       4)     Bütçe Tasarısı Dosyası
+       5)     Ayrıntılı finansman Programı Dosyası
+       6)     Serbest Bırakma Dosyası
+       7)     Aktarma Dosyası
+       8)     Revize İşlemleri Dosyası
+        9)    Ödenek Gönderme Belgesi İcmal Dosyası
+       10)    Tenkis Belgesi İcmal Dosyası
+       11)    Yatırım Programı İşlem Dosyası
+       12)    Yatırım Programı Revize İşlemleri Dosyası
+       13)    Yatırım İzleme Dosyası
+
+        (2) İş bu Yönergede düzenlenmesi ve kullanılması öngörülen defter, kayıt ve belgeler,
+aynı bilgileri de içerecek şekilde elektronik ortamda da düzenlenebilir. Bu şekilde
+düzenlenecek defter, kayıt ve belgeler, gerektiğinde çıktıları alınarak sayfa numarası verilmek
+ve yetkililerince imzalanmak suretiyle konularına göre açılacak dosyalarda muhafaza edilir.
+
+      Tereddütlerin giderilmesi
+      MADDE 46 – (1) Bu Yönergenin uygulanmasında ortaya çıkabilecek tereddütleri
+gidermeye Başkanlık yetkilidir.
+
+
+
+
+                                  DOKUZUNCU BÖLÜM
+                                  Sorumluluk ve Yetkiler
+                        Yöneticilerin Sorumlulukları ve Yetki Devri
+
+        Sorumluluk ve yetki
+        MADDE 47 – (1) Kurumun her kademedeki yöneticileri görevlerini; mevzuata,
+stratejik plân ve programlara, performans ölçütlerine, hizmet kalite standartlarına uygun
+olarak ve Kurumdan hizmet alan kişilerin memnuniyetini esas alacak şekilde yürütmekten üst
+kademelere karşı sorumludur.
+
+       (2) Kurumda her kademedeki yöneticiler, mevzuata uygun şekilde, sınırlarını açıkça
+belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri,
+uygun araçlarla ilgililere duyurulur.
+        Çeşitli malî hükümler
+        MADDE 48 – (1) Genel yönetim giderleri, Kurumun yıllık toplam gelirinin % 5'ini
+aşamaz.
+        (2) Kurumun elde ettiği her türlü gelirin; riskin dağıtılması ilkesi ve basiretli yönetim
+kurallarına göre Kurum lehine en yüksek getiriyi sağlayacak şekilde yönetilmesi esastır.
+        (3) Diğer giderlerin primler ve primlerin değerlendirilmesinden elde edilecek gelirler
+ile karşılanması esastır. Sosyal güvenlik kanunları dışında Kurum giderlerini artıracak yasal
+düzenlemelerin Kuruma getireceği malî yükün merkezî yönetim bütçesinden karşılanması
+zorunludur.
+        (4) Sosyal sigorta fonu, genel sağlık sigortası fonu ile hiçbir şekilde birleştirilemez.
+
+
+       Yürürlük
+       MADDE 49 – (1) Bu Yönerge Yönetim Kurulunca onaylandığı tarihinden itibaren
+yürürlüğe girer.
+
+       Yürütme
+       MADDE 50 – (1) Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+

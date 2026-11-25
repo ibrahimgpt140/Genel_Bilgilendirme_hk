@@ -1,0 +1,151 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/187155
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 40930348
+ADI: SAĞLIK UYGULAMASI BULUNAN TÜM SÖZLEŞMELİ ÜLKELERİN YUPASS A ENTEGRASYONU HAKKINDA 25.02.2022 TARİHLİ VE 40930348 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f951d59e3527c7701a9332f4d46cebaf494f4a53661ea9d2e0a2e43a20c976a5
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C.
+                                 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-40552758-010.06.01-40930348                                                                             25.02.2022
+Konu : Sağlık Uygulaması Bulunan Tüm
+       Sözleşmeli Ülkelerin YUPASS’a
+       Entegrasyonu
+
+
+                                                         GENEL YAZI
+
+
+        Yurtdışı Provizyon, Aktivasyon ve Sağlık Sistemi (YUPASS) sağlık uygulaması bulunan tüm
+sözleşmeli ülkeleri kapsayacak şekilde yeniden tasarlanarak güncellenmiş olup tescil ve hak sahiplik
+ekranları 1 Mart 2022 tarihi itibariyle kullanıma açılacaktır. Diğer alanlarla ilgili çalışmalar devam
+etmekte olup tamamlandığında ayrıca duyurulacaktır.
+        Yeni YUPASS uygulamasına https://gss.sgk.intra/YupassV2 linkinden erişim sağlanacaktır.
+Mevcut YUPASS için yetkisi bulunan tüm kullanıcılar mevcut kullanıcı adları ve şifreleri ile programa
+giriş yaparak işlem yapabilecektir.
+        Mevcut YUPASS programında tescil ve hak sahiplik kaydı bulunan Almanya, Avusturya,
+Belçika, Fransa, Hollanda ve Çekya adına sağlık yardımlarından yararlananların bu kayıtları yeni
+programa aktarılmış olup bu kişiler için yeni bir tescil ve hak sahiplik kaydı açılmayacaktır. Tescil ve hak
+sahiplik işlemleri mevcut sicil numarası üzerinden yapılmaya devam edilecektir.
+        Ayrıca mevcut YUPASS programına yeni program üzerinden erişim sağlanabilecektir. Almanya,
+Avusturya, Belçika, Fransa, Hollanda ve Çekya, "Gelen Ay Girişi ve İtiraz", "İş Göremezlik", "Protez",
+"Yatılı Tedavi ve Hesaplaşma" işlemleri, yeni programa entegre edilinceye kadar mevcut program
+üzerinden, diğer sözleşmeli ülkeler de ise manuel olarak yapılmaya devam edilecektir.
+        1 Mart 2022 tarihi itibariyle sağlık uygulaması bulunan tüm sözleşmeli ülkelerin sigorta kurumları
+adına sağlık yardım hakkı elde etmiş kişiler, sağlık hizmet sunucularına başvurularında YUPASS
+numarasıyla birlikte ibraz edecekleri resimli kimlik belgesi veya pasaportlarıyla SPAS üzerinden
+provizyon alarak sağlık hizmetlerinden yararlanacaktır.
+        Konuya ilişkin olarak yapılması gereken iş ve işlemler aşağıda açıklanmıştır:
+        1. Sağlık uygulaması bulunan tüm sözleşmeli ülkelerin sigorta kurumları adına Kurum aracılığıyla
+sağlık yardımlarından halihazırda yararlanan ve yararlanmaya devam edecek kişilerin tescil ve hak
+sahiplilik işlemleri YUPASS'ta yapılacaktır. Tescil aşamasında sistem tarafından üretilen YUPASS
+numarası sigortalı ile aile bireylerine bildirilecek ve bundan sonra sağlık yardımlarından YUPASS
+numaraları ile birlikte resimli kimlik belgesi veya pasaport ibraz ederek yararlanacakları yönünde bilgi
+verilecektir.
+        2. K.K.T.C., Lüksemburg, Arnavutluk, Bosna Hersek, Karadağ, Macaristan, Sırbistan,
+Hırvatistan, Romanya ve Kuzey Makedonya adına Kurum aracılığıyla sağlık yardımlarından yararlanma
+hakkına sahip kişilere “Sosyal Güvenlik Sözleşmesine Göre Acil Haller Kapsamında Sağlık Yardım
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                           Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                                Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9                                                                 1/3
+Belgesi” ve “Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi” düzenlenmeyeceği gibi hali
+hazırda düzenlenmiş olan mevcut belgelere göre sağlık yardımı verilmeyeceği ve YUPASS numarası
+almaları yönünde ilgililer sağlık hizmet sunucularınca sosyal güvenlik il müdürlüğü/sosyal güvenlik
+merkezlerine (SGİM/SGM) yönlendirilecektir.
+          3. K.K.T.C., Lüksemburg, Arnavutluk, Bosna Hersek, Karadağ, Macaristan, Sırbistan,
+Hırvatistan, Romanya ve Kuzey Makedonya adına Kurum aracılığıyla sağlık yardımlarından yararlanma
+hakkına sahip kişiler, farklı bir üniteye yönlendirilmeksizin tescil ve hak sahiplilik işlemleri müracaat
+edilen SGİM/SGM’lerce yapılacak, hesaplaşma ve diğer işlemler ise mevcut durumda olduğu gibi
+"Yurtdışı İşlemleri Servisi" bulunan SGİM/SGM’lerce yapılmaya devam edecektir.
+          4. Mevcut YUPASS kullanma kılavuzu güncellenmiş olup YUPASS “Kullanıcı Bilgi” alanının
+altında yayımlanmıştır. YUPASS'ta işlemler kılavuzda belirtildiği şekilde yapılacaktır.
+         5. Sigortalılar tarafından ibraz edilen formülerin, ait olduğu ülke hak sahiplik ekranlarına
+kaydedilmesinde gereken özen gösterilecektir.
+         6. Tescil işlemini yapan SGİM/SGM'ler sicil numarası ile birlikte ilgili sağlık yardım formülerini
+dosyasına konulmak üzere en kısa sürede illerindeki "Yurtdışı İşlemleri Servisi" bulunan SGİM/SGM’ye
+gönderecektir.
+         7. Bu Genel Yazının yayım tarihinden önce K.K.T.C., Lüksemburg, Arnavutluk, Bosna Hersek,
+Karadağ, Macaristan, Sırbistan, Hırvatistan, Romanya ve Kuzey Makedonya adına sağlık yardımlarından
+yararlanan kişilerin sağlık hizmet sunucularınca oluşturulmuş ve sağlık sosyal güvenlik merkezlerince
+incelemesi tamamlanmış olan faturaların tamamı, manuel olarak "Yurtdışı İşlemleri Servisi" tarafından
+ilgili formülere aktarılarak 15.07.2022 tarihine kadar Genel Müdürlüğümüze gönderilecektir.
+         Diğer taraftan;
+         - Lüksemburg TR/L 3 formüleri, Romanya R/TR 3 formüleri Ülkemizde turistik amaçlı bulunan,
+geçici görevli veya tedavi amaçlı gönderilenler için,
+         - Avusturya A/TR 3, Hırvatistan HR/TR 3 formüleri ile Kuzey Makedonya РМ/ТР 4- RM/TR 4
+formüleri ise ülkemizde turistik amaçlı bulunan veya geçici görevli gönderilenler için
+         düzenlenen formülerlerdir.
+         Ülkemizde turistik amaçlı bulunanlara ilgili formüler ile sağlık hizmet sunucularında sadece acil
+hal durumunda acil servislerden sağlık hizmeti verildiğinden, bu ülkelerden Ülkemize geçici görevli veya
+tedavi amaçlı gönderilenler için aşağıda belirtilen formüler rumuzu üretilmiştir. 5 ülke adına sağlık
+yardımlarından yararlanacak olanlar için aşağıda belirtilen formüler rumuzları kullanılmak suretiyle
+"Geçici Bulunma Hak Sahiplik" ekranına kayıt işlemi yapılacaktır.
+         Lüksemburg: TR/L 3 formüleri turistik amaçlı bulunanlar için düzenlenmiş ise TR/L 3 rumuzu,
+geçici görevli gönderilenler için düzenlenmiş ise TR/L 3-G rumuzu, tedavi amaçlı gönderilenler için
+düzenlenmiş ise TR/L 3- A rumuzu.
+         Romanya: R/TR 3 formüleri turistik amaçlı bulunanlar için düzenlenmiş ise R/TR 3 rumuzu,
+geçici görevli gönderilenler için düzenlenmiş ise R/TR 3-G rumuzu, tedavi amaçlı gönderilenler için
+düzenlenmiş ise R/TR 3-A rumuzu.
+         Avusturya: A/TR 3 formüleri turistik amaçlı bulunanlar için düzenlenmiş ise A/TR 3 rumuzu,
+geçici görevli gönderilenler için düzenlenmiş ise A/TR 3-B rumuzu.
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                           Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                                Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9                                                                 2/3
+        Hırvatistan: HR/TR 3 formüleri turistik amaçlı bulunanlar için düzenlenmiş ise HR/TR 3 rumuzu,
+geçici görevli gönderilenler için düzenlenmiş ise HR/TR 3-G rumuzu.
+        Kuzey Makedonya: РМ/ТР 4- RM/TR 4 formüleri turistik amaçlı bulunanlar için düzenlenmiş ise
+РМ/ТР 4- RM/TR 4 rumuzu, geçici görevli gönderilenler için düzenlenmiş ise РМ/ТР 4- RM/TR 4-G
+rumuzu.
+       08/10/2019 tarihinde yayımlanan "Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi"
+konulu 15120980 sayılı Genel Yazı yürürlükten kaldırılmıştır.
+       Bilgilerinizi ve gereğini rica ederim.
+
+
+
+
+                                                                                                      İsmail ERTÜZÜN
+                                                                                                        Genel Müdür
+
+
+
+
+Dağıtım :
+Gereği:
+Merkez ve Taşra Teşkilatına
+
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr
+9                                                                 3/3
+

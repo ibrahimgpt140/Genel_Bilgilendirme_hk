@@ -1,0 +1,2449 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/160912
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2020/13
+ADI: TÜRKİYE-SIRBİSTAN SOSYAL GÜVENLİK ANLAŞMASI HAKKINDA 11/05/2020 TARİHLİ VE 2020/13 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 967433ea2ef7e2a4886acac06ba14405cea389fa2246d104e11be46e1cbd91df
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : 15591373-030.01-E.5936691                                                                         11/05/2020
+Konu : Sırbistan Sosyal Güvenlik Anlaşması
+
+
+
+
+                                                   GENELGE
+                                                    2020/13
+
+
+
+
+       Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti arasındaki sosyal güvenlik anlaşması
+26/10/2009 tarihinde imzalanmış ve 1/12/2013 tarihinde yürürlüğe girmiştir.
+       Anlaşmanın uygulanmasına ilişkin İdari Anlaşma, söz konusu İdari Anlaşmanın 24
+üncü maddesi gereğince Anlaşma ile aynı tarihte yürürlüğe girmiştir.
+
+
+
+                                               BİRİNCİ KISIM
+                                            GENEL AÇIKLAMALAR
+
+
+        Sosyal Güvenlik Anlaşma; Genel Hükümler, Uygulanacak Mevzuatla İlgili Hükümler,
+Özel Hükümler, Çeşitli Hükümler ile Geçici ve Son Hükümler olmak üzere 5 (beş) bölümden
+oluşmaktadır.
+        Birinci bölümde, Anlaşmanın mevzuatsal ve kişisel kapsamı belirlenmiş olup, akit
+taraf vatandaşlarının eşit muameleye tabi tutulması, sosyal güvenlik alanındaki hakların diğer
+akit tarafta da kullanılabileceğine ilişkin hükümler,
+        İkinci bölümde, çalışanlar, geçici görevliler, uluslararası taşımacılık işletmelerinin
+personeli ve gemi adamları ile diplomatik temsilcilik görevlilerinin hangi akit tarafın sosyal
+güvenlik mevzuatına tabi tutulacağına ve geçici görev süresinin azami sınırlarına ilişkin
+hükümler,
+        Üçüncü bölümde, genel sağlık sigortası, hastalık ve analık sigortası, ölüm yardımı,
+malullük, yaşlılık ve ölüm sigortaları, iş kazası ve meslek hastalığı ile işsizlik ve çocuk
+yardımlarına ilişkin hükümler,
+        Dördüncü bölümde, Anlaşmanın uygulanmasına ilişkin çeşitli hükümler,
+        Beşinci bölümde ise Anlaşmanın yürürlüğe girmesi ve yürürlükte kalma süresi ile
+Anlaşma öncesi ve sonrası haklara ilişkin hükümler yer almaktadır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 1/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        1.Kavramlar
+
+        Bu Genelgede geçen:
+         1. Kurum: Sosyal Güvenlik Kurumunu,
+         2. Kanun: 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+         3. Anlaşma: Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Sosyal
+             Güvenlik Hakkında Anlaşmayı,
+         4. İdari Anlaşma: Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasındaki
+             Sosyal Güvenlik Anlaşmasının Uygulanmasına Yönelik İdari Anlaşmayı,
+         5. Ülke: Türkiye bakımından Türkiye Cumhuriyeti'ni, Sırbistan bakımından ise
+             Sırbistan Cumhuriyeti'ni
+         6. Mevzuat: Anlaşmanın 2 nci maddesinin birinci fıkrasında belirtilen sosyal
+             güvenlik alanıyla ile ilgili kanun, tüzük ve yönetmelikler,
+         7. Yetkili Kurum: Bu Anlaşmanın 2 nci maddesinde belirtilen mevzuatların
+             uygulanmasından ve yardımları sağlamaktan sorumlu olan sigorta kurumu,
+         8. Yetkili Makam: Anlaşma kapsamında yer alan mevzuatın uygulanması ile
+             görevli olan Bakanlıkları,
+         9. Sigortalı: Anlaşmanın 2 nci maddesi kapsamında, haklarında bir veya her iki akit
+             taraf mevzuatının geçerli olduğu veya geçerli olmuş bulunduğu kişileri,
+         10. Yararlanıcı: Her iki akit taraf mevzuatına göre hak sahibi olarak tanımlanan veya
+             öyle kabul edilen kimseleri,
+         11. Hak Sahibi: Sigortalı dolayısıyla hak sahibi olan kişileri,
+         12. Sigortalılık Süresi: Her iki akit taraf mevzuatına göre prim ödeme süreleri ile
+             prim ödenmiş sayılan süreleri,
+         13. Aile Bireyi: Yetkili kurumca uygulanan mevzuata göre aile bireyi olarak
+             tanımlanan veya kabul edilen kimseleri,
+         14. Yardım: Anlaşmada aksine bir hüküm bulunmadıkça, kamu fonlarından
+             sağlanan bütün ek ödemeler ile her türlü zamları, yeniden değerlendirme ve ek
+             ödenekleri de içine alan bütün yardımlar ve aylıkları,
+         15. İkamet: Sürekli olarak ikamet edilmekte olan yeri,
+         16. Bulunma: Geçici olarak oturulan yeri,
+             ifade eder.
+
+        2. Anlaşmanın Uygulama Alanı
+
+        Anlaşma; Kanunun 4/1-(a) bendi kapsamında olanlar için malullük, yaşlılık, ölüm
+sigortası ile iş kazası ve meslek hastalığı sigortası, hastalık ve analık sigortası, genel sağlık
+sigortası, işsizlik sigortasını,
+        Kanunun 4/1-(b) bendi kapsamında olanlar için malullük, yaşlılık, ölüm sigortasını,
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 2/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        Kanunun 4/1-(c) bendi kapsamında olanlar için malullük, yaşlılık ve ölüm sigortasını,
+        (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) 506 sayılı Sosyal Sigortalar
+Kanununun geçici 20 nci maddesinde belirtilen emekli sandıkları hakkında ise Kanunun 4
+üncü maddesinin birinci fıkrasının (a) bendi kapsamında olanlar için uygulanan Sözleşme
+hükümlerini
+        kapsamaktadır.
+       (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) 506 sayılı Kanununun Geçici
+20 inci maddesi kapsamında çalışanlar ve aylık sahipleri hakkında Sırbistan İrtibat Kurumları
+ile yapılacak işlemlere Kurum aracılık yapacaktır. Ancak talep formülerlerinin düzenlenerek
+Kuruma intikal ettirilmesi ile ilgili işlemler ilgili sandık tarafından gerçekleştirilecektir.
+
+        3. Yetkili Kurumlar
+
+        Malullük, yaşlılık, ölüm, iş kazaları ve meslek hastalıkları ile genel sağlık sigortası
+bakımından yetkili kurum Sosyal Güvenlik Kurumu'dur. İşsizlik sigortası bakımından ise
+yetkili kurum Türkiye İş Kurumu Genel Müdürlüğü'dür.
+
+                                 İKİNCİ KISIM
+                    ANLAŞMANIN UYGULANMASI ve FORMÜLERLER
+
+        Anlaşmanın uygulanmasında kullanılmak üzere, İdari Anlaşmanın 15 inci maddesinin
+birinci fıkrasına istinaden Türkçe ve Sırpça olmak üzere 25 adet formüler ihdas edilmiştir.
+Kurumca düzenlenecek formülerlerin rumuzunda "TR/SRB", Sırbistan yetkili kurumlarınca
+düzenlenecek olan formülerlerin rumuzunda ise "SRB/TR" ibaresi yer alacaktır.
+        Anılan formülerler, Kurum intranet sayfasında “Kurumsal/ Dokümanlar/ Yurtdışı/
+Formülerler” bölümünde yayınlanmıştır. Formüler, bu Genelgede yer alan açıklamalar
+doğrultusunda, bilgilerin doğruluğu kontrol edildikten sonra bilgisayar ortamında
+doldurulacak ve onaylanacaktır.
+
+                               BİRİNCİ BÖLÜM
+                    UYGULANACAK MEVZUATIN BELİRLENMESİ
+
+        İkili anlaşmaların temel ilkelerinden birisi çalışılan ülke mevzuatına tabi olunmasıdır.
+Anlaşmanın 6/2, 7, 8, 9 ve 10 uncu maddelerinde bu kurala istisna olarak geçici görevle
+diğer akit tarafa gönderilenlerin, uluslararası taşımacılık işletmeleri personelinin, gemi
+mürettebatı ve gemide çalışanların, diplomatik misyonlarda veya konsolosluklarda çalışan
+diplomatlar ile diplomatların özel hizmetlerinde çalışmak üzere bu misyonların bağlı olduğu
+akit tarafça görevlendirilenlerin hangi akit tarafın mevzuatına tabi kalacaklarına ilişkin
+hususlar düzenlenmiştir. Anlaşmanın 11 inci maddesi ise bu maddelerdeki hükümlere istisna
+getirilebileceğini düzenlemektedir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 3/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+
+     1. Bir İşin İcrası İçin Diğer Akit Tarafa Gönderilen Sigortalının Tabi Olacağı
+Mevzuat
+
+       Bir işin icrası için Türkiye'den Sırbistan'a veya Sırbistan'dan Türkiye'ye gönderilen
+sigortalılar hakkında uygulanacak mevzuata ilişkin açıklamalar aşağıda yer almaktadır.
+
+        1.1. Bir İşin İcrası İçin Türkiye'den Sırbistan'a Gönderilen Çalışanlar
+
+        1.1.1 24 Aylık Süre İçin
+
+ İlgili hükümler       Anlaşmanın 6/2, 7, 8, 9/1,3 ve 10/1 inci maddeleri, İdari Anlaşmanın 3 ve
+                       4 üncü maddeleri
+ TR/SRB 101            Uygulanacak Mevzuat Belgesi
+
+         Genelgenin "2. Diplomatik Misyonlar ve Konsolosluk Görevlileri" başlığı haricinde
+diğer ülkede görev yapacak memur ve benzeri personel Anlaşmanın 6 ncı maddesinin 2 nci
+fıkrası gereği gönderen ülkenin mevzuatına tabi olacaktır.
+         Anlaşmanın 7 nci maddesi gereği, Kanunun 4/1-(a) bendi kapsamında sigortalı olarak
+çalışanlardan işvereni tarafından bir işin icrası için Sırbistan’a 24 ayı aşmamak üzere
+gönderilenler aynı işverenin ücretli çalışanı sıfatını koruduğu takdirde Türk mevzuatına tabi
+kalmaya devam edecektir. Yine Kanunun 4/1-(b) kapsamında kendi nam ve hesabına
+çalışanlar da faaliyetlerini geçici olarak gerçekleştirmek üzere Sırbistan'a gittikleri taktirde,
+24 ayı aşmamak üzere Türk mevzuatına tabi kalmaya devam edecektir.
+         Geçici görevlendirme talebi yapılırken çalışan veya işveren tarafından doldurulacak
+olan Yurt Dışı Geçici Görev Talep Dilekçesi (Ek-1) ile ekinde yer alan görev yazısının,
+Sırbistan’daki işveren ile yapılmış olan iş sözleşmesinin, Sırbistan’da çalışacağı iş yeri ve
+adres bilgilerinin Kuruma ibraz edilmesi gerekmektedir.
+         Başvuruya istinaden TR/SRB 101 formüleri, sigortalının işyerinin kayıtlı olduğu
+Sosyal Güvenlik İl Müdürlüğü veya Sosyal Güvenlik Merkezi (SGİM/SGM) tarafından üç
+nüsha halinde düzenlenerek iki nüshası Sırbistan yetkili kurumuna verilmek üzere sigortalı
+veya işverene verilecek, bir nüshası ise dosyasında saklanacaktır.
+         Geçici görevlendirme süresi azami 24 ayı aşmamak kaydıyla, sigortalının geçici
+görevlendirildiği süre kadar formülerin (3.1) numaralı bölümüne başlangıç ve bitiş tarihleri
+belirtilerek kaydedilecektir.
+
+        1.1.2. 24 Aylık Sürenin Dolmasından Sonra
+
+İlgili hükümler         Anlaşmanın 7 nci maddesi, İdari Anlaşmanın 4 üncü maddesi
+TR/SRB 102              Görev Süresinin Uzatılması
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 4/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        Kanunun 4/1-(a) ve 4/1-(b) bendleri kapsamındaki sigortalıların Sırbistan'daki görev
+süreleri formülerde kayıtlı süreyi ya da toplamda 24 ayı aşması durumunda, Anlaşmanın 7
+nci maddesine göre yetkili kurumların karşılıklı mutabakatı ile 60 ayı geçmemek kaydıyla
+Türk mevzuatına tabi kalmaya devam edecektirler.
+        Ayrıca Anlaşmanın 11 inci maddesi gereğince yukarıda belirtilen duruma istisna teşkil
+eden hallerde de, Sırbistan tarafıyla mutabık kalınması durumunda, mevzuata tabi kalma
+süresi uzatılabilecektir.
+         SGİM/SGM’lerin yurtdışı servislerine geçici görev süresinin uzatılmasına dair
+talep geldiğinde SGİM/SGM, TR/SRB 102 formülerinin (A) bölümü dolduracaktır. (3.1)
+numaralı bölümdeki süre toplamda 60 ayı geçmeyecek şekilde görev süresi kadar olacaktır.
+İki nüsha olarak düzenlenecek TR/SRB 102 formüleri geciktirilmeden Emeklilik Hizmetleri
+Genel Müdürlüğü (EHGM) Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığına (YSEDB)
+iletilecektir.
+        Sırbistan yetkili kurumu ile geçici görev süresinin uzatılmasına ilişkin
+yazışmalar EHGM tarafından gerçekleştirilecektir.
+         Sırbistan yetkili kurumundan alınan onay YSEDB tarafından geciktirilmeden ilgili
+SGİM/SGM’ye gönderilecektir. Onayı alan SGİM/SGM tarafından formülerin bir nüshası
+sigortalıya veya işverene verilecek/gönderilecek, bir nüshası ise dosyasında muhafaza
+edilecektir.
+        Görev süresinin uzaması halinde çalışan veya işveren tarafından doldurulacak olan
+Yurt Dışı Geçici Görev Talep Dilekçesi ile ekinde yer alan görev yazısının, Sırbistan’daki
+işveren ile yapılmış olan iş sözleşmesinin, Sırbistan’da çalışacağı işyeri ve işyeri adres
+bilgilerinin Kuruma ibraz edilmesi gerekmektedir.
+         Sırbistan yetkili kurumunun onayının (bir nüsha) YSDEB’ye intikal etmesinin
+ardından bu nüsha işlemi yapan SGİM/SGM’ye iletilecektir.
+
+         1.2. Bir İşin İcrası İçin Sırbistan'dan Türkiye'ye Gönderilen Çalışan
+
+         1.2.1. 24 Aylık Süre İçin
+
+ İlgili hükümler        Anlaşmanın 6/2, 7, 8, 9/1,3 ve 10/1 inci maddeleri, İdari Anlaşmanın 3
+                        ve 4 üncü maddeleri
+  SRB/TR 101            Uygulanacak Mevzuat Belgesi
+
+        Genelgenin "2. Diplomatik Misyonlar ve Konsolosluk Görevlileri" başlığı haricinde
+diğer ülkede görev yapacak memur ve benzeri personel Anlaşmanın 6 ncı maddesinin 2 nci
+fıkrası gereği gönderen ülkenin mevzuatına tabi olacaktır.
+        Sırbistan mevzuatına tabi işveren tarafından ülkemize geçici görevle gönderilen
+sigortalı, ülkemizde çalışmaya başladığı tarihten itibaren azami 24 aya kadar Sırbistan
+mevzuatına tabi kalacaktır.
+       Bu şekilde ülkemize gönderilen çalışanın Sırbistan mevzuatına tabi kalmaya
+devam edebilmesi için Sırbistan yetkili kurumu tarafından azami 24 ayı aşmayacak şekilde
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 5/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+düzenlenmiş olan SRB/TR 101 formülerinin Kuruma ibraz edilmesi gerekir.
+       Kuruma intikal eden SRB/TR 101 formüleri üzerinde herhangi bir onay işlemi
+yapılmayacaktır. Formülerin ilgili SGİM/SGM'ye intikal etmesi durumunda, formülerin bir
+örneği yurtdışı işlemleri servisi tarafından görevli olarak geldiği işyeri dosyasının bulunduğu
+servise iletilerek çalışanın ayrıca Kurum tarafından yersiz tescilinin yapılması önlenecektir.
+
+        1.2.2. 24 Aylık Sürenin Dolmasından Sonra
+
+ İlgili hükümler        Anlaşmanın 7 nci maddesi, İdari Anlaşmanın 4 üncü maddesi
+ SRB/TR 102             Görev Süresinin Uzatılması
+
+        Sırbistan mevzuatına tabi çalışmakta iken geçici görevle Türkiye’ye gönderilen
+Sırbistan sigortalısının bu görev süresinin formülerde kayıtlı süreyi ya da toplamda 24 ayı
+aşması halinde Anlaşmanın 7 nci maddesine göre Kurumun onayının alınması kaydıyla,
+Sırbistan mevzuatına tabi kalmaya devam edecektir.
+       Bu durumda sigortalı hakkında görev süresi bitmeden önce, Sırbistan yetkili
+kurumunca (A) bölümü doldurulan SRB/TR 102 formüleri Kurumun onayının alınması için
+EHGM'ye gönderilecektir. EHGM tarafından formülerlerin (B) bölümünde yer alan görev
+uzatma süresi kaydedilip onaylandıktan sonra 1 nüshası Sırbistan yetkili kurumuna iade
+edilecektir.
+        Formülerin bir örneği EHGM tarafından görevlinin işyeri dosyasının bulunduğu
+SGİM/SGM'ye gönderilecektir. SGİM/SGM tarafından onaylı SRB/TR 102 formülerinin bir
+örneği görevli olarak geldiği işyeri dosyasının bulunduğu servise iletilerek, çalışanın ayrıca
+Kurum tarafından yersiz tescilinin yapılması önlenecektir.
+        Sırbistan yetkili kurumundan alınan geçici görev süresinin uzatılmasına dair
+taleplerin SGİM/SGM'ye gelmesi durumunda söz konusu talepler geciktirilmeden EHGM'ye
+intikal ettirilecektir.
+
+        2. Diplomatik Misyonlar ve Konsolosluk Görevlileri
+
+       Anlaşmanın 10 uncu maddesinde akit taraflardan birinin diplomatik misyonlarında
+veya konsolosluklarında çalışan diplomatlar, diğer kişiler, mahallinden istihdam edilen
+personel ve bu kişiler dışında kalanlar hakkında uygulanacak mevzuat aşağıda yer almaktadır.
+
+      2.1.   Akit   Taraflardan     Birinin    Diplomatik                              Misyonlarında            veya
+Konsolosluklarında Çalışan Diplomatlar ve Diğer Kişiler
+
+İlgili hükümler       Anlaşmanın 10/1 inci maddesi, İdari Anlaşmanın 3 ve 4 üncü maddeleri
+ TR/SRB 101           Uygulanacak Mevzuat Belgesi
+
+       Anlaşmanın 10 uncu maddesinin birinci fıkrasına göre diplomatik misyonlarında veya
+konsolosluklarında çalışan diplomatlar ve diğer kişiler gönderen tarafın mevzuatına tabi
+olacaklardır. Bu itibarla, Sırbistan tarafından Türkiye'de görevlendirilen bu kişiler Sırbistan
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 6/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+mevzuatına tabi olacaklardır. Aynı şekilde Sırbistan'da bulunan ve ülkemiz tarafından
+görevlendirilen söz konusu diplomatik ve konsolosluk temsilcileri ülkemiz mevzuatına tabi
+olacaklardır.
+        İdari Anlaşmanın 3 üncü maddesi gereği Sırbistan'da ülkemiz mevzuatına tabi olmak
+suretiyle görev yapacak bu kişilere TR/SRB 101 formüleri üç nüsha olarak düzenlenecek, iki
+nüshası Sırbistan yetkili kurumuna verilmek üzere sigortalıya veya Kuruma verilecek, bir
+nüshası ise dosyasında saklanacaktır.
+        Formülerin (3.) bölümünde görevlendirme süresi bu kişiler için görev yapacakları
+tarih belli ise o tarih, değil ise başlangıç tarihi yazılarak bitiş tarihi kısmı boş bırakılacaktır.
+
+     2.2. Sırbistan'da Bulunan Ülkemiz Diplomatik Misyon ve Konsolosluklarınca
+Mahallinden İstihdam Edilen Kişiler
+
+ İlgili hükümler        Anlaşmanın 10/2 maddesi, İdari Anlaşmanın 5 inci maddesi
+ TR/SRB 101A            Tercih Hakkı
+
+        Diplomatik temsilciliklerimizde çalışmak üzere Sırbistan’dan istihdam edilenler,
+genel kural olarak Sırbistan mevzuatına tabi olacaklardır. Ancak Sırbistan’dan istihdam
+edilen kişiler Türk vatandaşı iseler, işe alındıkları tarihi takip eden 3 ay içerisinde Kurum
+mevzuatına tabi olmayı tercih edebilecektirler.
+        Tercih hakkı Kuruma TR/SRB 101A formüleri ile yazılı olarak yapılacaktır. Bu
+kişilerin veya Dışişleri Bakanlığının talebi üzerine üç nüsha TR/SRB 101A formüleri
+düzenlenerek iki nüshası ilgiliye veya Dışişleri Bakanlığına iletilecektir. Ayrıca tercih
+hakkını kullanan çalışanın Türk mevzuatına göre sigortalı tescil işlemleri yapılmak üzere
+ilgili servise bilgi verilecektir.
+
+     2.3. Türkiye'de Bulunan Sırbistan Diplomatik Misyon ve Konsolosluklarınca
+Mahallinden İstihdam Edilen Kişiler
+
+ İlgili hükümler        Anlaşmanın 10/2 maddesi, İdari Anlaşmanın 5 inci maddesi
+ SRB/TR 101A            Tercih Hakkı
+
+        Sırbistan'ın Türkiye'deki diplomatik temsilciliklerinde çalışmak üzere ülkemizden
+istihdam edilenler, genel kural olarak ülkemiz mevzuatına tabi olacaklardır. Ancak
+Türkiye'den istihdam edilen kişiler Sırbistan vatandaşı iseler, işe alındıkları tarihi takip eden
+3 ay içerisinde Sırbistan mevzuatına tabi olmayı tercih edebilecektirler.
+        Tercih hakkını kullanan sigortalılar adlarına iki nüsha olarak düzenlenen SRB/TR
+101A formülerini ülkemizde bağlı bulundukları SGİM/SGM'ye ibraz edeceklerdir.
+
+         2.4. Anlaşmanın 10 uncu Maddesinin 3 üncü Fıkrası Kapsamındakiler
+
+      Genelgenin bu bölümünün 2.1., 2.2., 2.3., maddelerinde bahsedilen kişiler dışında
+kalan görevliler Anlaşmanın 10 uncu maddesinin üçüncü fıkrası gereği diplomatik
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 7/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+temsilciliğin bulunduğu ülkenin mevzuatına tabi olacaklardır.
+
+         3. Uluslararası Taşımacılık İşletmeleri Personeli
+
+      İşyeri merkezi akit taraflardan birinde bulunan nakliyat firması personelinin tabi
+olacağı mevzuata ilişkin açıklamalar aşağıda yer almaktadır.
+
+      3.1. Merkezi Türkiye’de Bulunan Uluslararası Taşımacılık İşletmelerinde
+Çalışanlar
+
+ İlgili hükümler       Anlaşmanın 8 inci maddesi, İdari Anlaşmanın 3 üncü maddesi
+ TR/SRB 101            Uygulanacak Mevzuat Belgesi
+
+        Bir işyerinin, başkası hesabına veya kendi adına karayolu, demiryolu, havayolu ya da
+denizyolu ile uluslararası yolcu veya mal taşımacılığı yapan ve işyeri merkezi diğer akit
+tarafın bulunan, dolaşan veya sefer yapan personelinden olan bir kimse, işyeri merkezinin
+olduğu ülkenin mevzuatına tabi olacaktır.
+       Anlaşmanın 8 inci maddesine göre, işyeri merkezi ülkemizde bulunan bir işyerinin
+sigortalısı olarak karayolu, havayolu, demiryolu veya denizyolu ile yolcu veya mal
+taşımacılığı yapan personelin Sırbistan’a gitmesi durumunda, ülkemiz sosyal güvenlik
+mevzuatına tabi kalabilmesi için işvereninin Yurt Dışı Geçici Görev Talep Dilekçesi ile
+başvurusu üzerine, sigortalı için TR/SRB 101 formüleri düzenlenerek iki nüshası sigortalıya
+veya işverene verilecektir. Söz konusu belge, sigortalının çalıştığı işyerinin bağlı bulunduğu
+SGİM/SGM tarafından düzenlenecektir.
+         Bu kişiler için Sırbistan'da bulunacakları süre belli ise bitiş tarihi kısmına ilgili tarih,
+değil ise formülerin ilgili kısmına başlangıç tarihi yazılarak bitiş tarihi kısmı boş
+bırakılacaktır.
+
+      3.2. Merkezi Sırbistan'da Bulunan Uluslararası Taşımacılık İşletmelerinde
+Çalışanlar
+
+ İlgili hükümler       Anlaşmanın 8 inci maddesi, İdari Anlaşmanın 3 üncü maddesi
+ SRB/TR 101            Uygulanacak Mevzuat Belgesi
+
+       İşyeri merkezi Sırbistan’da bulunan bir işyerinin sigortalısı olarak karayolu, havayolu,
+demiryolu veya denizyolu ile yolcu veya mal taşımacılığı yapan personelin ülkemize
+gelmesi durumunda, kişi hakkında Sırbistan sosyal güvenlik mevzuatının uygulanmasına
+devam edilmektedir.
+       Ancak, bu durumda Sırbistan’da sosyal güvenliğinin sağlandığını gösterir ve Sırbistan
+yetkili kurumunca düzenlenmiş SRB/TR 101 formülerinin ibraz edilmesi gerekmektedir.
+       Kuruma intikal eden SRB/TR 101 formüleri üzerinde herhangi bir onay işlemi
+yapılmayacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 8/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        4. Gemi Mürettebatı ve Gemide Çalışanlar
+
+        4.1. Ülkemiz Bayrağını Taşıyan Gemide Çalışanlar (Gemi Adamları)
+
+ İlgili hükümler Anlaşmanın 9/1,3 üncü maddesi, İdari Anlaşmanın 3 üncü maddesi
+ TR/SRB 101      Uygulanacak Mevzuat Belgesi
+
+       Bayrağımızı taşıyan bir gemide çalışanlar ülkemiz mevzuatına tabi olurlar. Bu
+çalışanın gemiyle Sırbistan limanına ya da karasularına gitmesi durumunda, işvereninin Yurt
+Dışı Geçici Görev Dilekçesi ile başvurusu üzerine, sigortalı için TR/SRB 101 formüleri
+düzenlenerek birer nüshası sigortalıya veya işverene verilecektir.
+
+        4.2. Sırbistan Bayrağını Taşıyan Gemide Çalışanlar (Gemi Adamları)
+
+ İlgili hükümler Anlaşmanın 9/1,3 üncü maddesi, İdari Anlaşmanın 3 üncü maddesi
+ SRB/TR 101      Uygulanacak Mevzuat Belgesi
+
+        Sırbistan bayrağını taşıyan bir gemide çalışanlar Sırbistan mevzuatına tabi olurlar.
+Bu çalışanın gemiyle ülkemiz limanında ya da karasularında bulunması durumunda,
+Sırbistan’da sosyal güvenliğinin sağlandığını gösteren SRB/TR 101 formülerini Kuruma
+ibraz etmesi gerekmektedir.
+
+       4.3. Diğer Akit Tarafın Bayrağını Taşıyan Geminin Yükeleme, Boşaltma, Tamir
+İşlerinde Çalışanlar
+
+       Anlaşmanın 9 uncu maddesinin ikinci fıkrası gereği akit taraflardan birinin limanında
+veya karasularında istihdam edilen ve gemi mürettebatından olmayan kişilerden, diğer akit
+tarafın bayrağını taşıyan bir geminin yükleme, boşaltma veya tamir işlerinde çalışanlar
+hakkında limanın veya karasularının bulunduğu akit tarafın mevzuatı uygulanacaktır.
+
+     4.4. Akit Taraflardan Birinin Bayrağını Taşıyan Bir Gemide Faaliyet İcra Eden
+Müessese ve Kişiler
+
+         Akit taraflardan birinin bayrağını taşıyan bir gemide herhangi bir işin icrası için
+bulunan kişiler ve müesseseler Anlaşmanın 9 uncu maddesinin üçüncü fıkrası gereği işveren
+sayılacaktır. Söz konusu kişi ve müesseseler tarafından ücret ödenerek söz konusu gemide
+çalıştırılan kişiler limanın bulunduğu tarafın ülkesinde ikamet ediyorsa bu tarafın
+mevzuatına tabi olacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 9/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+                                 İKİNCİ BÖLÜM
+                  HASTALIK VE ANALIK SİGORTASI UYGULAMALARI
+
+       Anlaşma kapsamında hastalık veya analık halinde sağlanan sağlık yardımlarına ilişkin
+açıklamalar aşağıda yer almaktadır.
+
+        1. Sigortalılık Sürelerinin Birleştirilmesi
+
+        Anlaşmanın 12 nci maddesi uyarınca bir akit taraf mevzuatına göre, hastalık ve
+analık yardımlarına hak kazanmak için belirli sigortalılık sürelerinin tamamlanmış olması
+gerekiyorsa, diğer akit tarafta geçen sigortalılık sürelerinin aynı zamana rastlamamak
+şartıyla birleştirileceği hükme bağlamıştır.
+
+        1.1. Kurum Sigortalılarının Sırbistan'daki Sigortalılık Süreleri
+
+ İlgili hükümler        Anlaşmanın 12 nci maddesi, İdari Anlaşmanın 6 ncı
+                        maddesi
+ TR/SRB 104             Sigortalılık Sürelerinin Birleştirilmesi
+
+        Türkiye’de 5510 sayılı Kanunun 4/1-(a) bendi kapsamında sigortalı ya da hak
+sahiplerinin hastalık ve analık yardımlarına hak kazanabilmesi için sigortalının ülkemizde
+geçen sigortalılık sürelerinin yetersiz olması durumunda, Sırbistan’da bu kapsamda geçen
+sigortalılık süreleri dikkate alınacaktır.
+        Sigortalının veya ölümü halinde hak sahiplerinin SGİM/SGM’ye yapacakları talebe
+istinaden TR/SRB 104 formüleri doldurularak üç nüsha düzenlenecek ve iki nüshası Sırbistan
+yetkili kurumuna gönderilecektir. Sırbistan yetkili kurumu, formülerin B bölümünü
+dolduracak ve bir nüshasını ilgili SGİM/SGM'ye iade edecektir.
+        Sigortalının, formülerin kendisine verilmesini talep etmesi durumunda bağlı
+bulunduğu SGİM/SGM tarafından formüler doldurulup onaylanarak iki nüsha halinde
+sigortalıya verilecek, bir nüshası ise dosyasında muhafaza edilecektir.
+        Aynı şekilde sigortalının elden getireceği formüler ilgili SGİM/SGM tarafından
+işleme alınacaktır.
+
+        1.2. Sırbistan Sigortalılarının Türkiye’deki Sigortalılık Süreleri
+
+ İlgili hükümler        Anlaşmanın 12 nci maddesi, İdari Anlaşmanın 6 ncı
+                        maddesi
+ SRB/TR 104             Sigortalılık Sürelerinin Birleştirilmesi
+
+        Sırbistan mevzuatına göre sigortalı ya da hak sahiplerinin hastalık ve analık
+yardımlarına hak kazanabilmesi için sigortalının Sırbistan'da geçen sigortalılık sürelerinin
+yetersiz olması durumunda, Türkiye'de bu kapsamda geçen sigortalılık süreleri dikkate
+alınacaktır.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                10/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         Sigortalılık sürelerinin birleştirilmesi için kullanılan SRB/TR 104 formüleri Sırbistan
+sigorta kurumlarınca iki nüsha olarak doldurulup onaylandıktan sonra Kuruma gönderilen bu
+formülerin B bölümü SGİM/SGM’lerin yurtdışı servislerince ülkemizde geçen sigortalılık
+süreleri işlenerek bir nüshası Sırbistan sigorta kurumuna iade edilecektir. Diğer nüsha ise
+dosyasında muhafaza edilecektir.
+
+     2. Diğer Akit Tarafta Bulunanlara (Geçici                                  İkamet       Edenlere) Sağlık
+Yardımlarının Sağlanması
+
+        Türkiye’de sigortalı olarak çalışmakta iken Sırbistan’daki geçici ikameti sırasında
+sağlık yardımlarından faydalanacak olan sigortalı ve aile bireylerinin, bu yardımlardan
+faydalanabilmeleri için Kurumca hazırlanmış durumlarına uygun olan formüleri Sırbistan
+yetkili kurumuna ibraz etmeleri gerekmektedir.
+
+       2.1. Bir İşin İcrası İçin İşvereni Tarafından Türkiye'den Sırbistan'a 6 Aydan Az
+Geçici Görevli Olarak Gönderilen Sigortalı
+
+ İlgili hükümler       Anlaşmanın 13/1,2,3 ve 15/3,4 maddeleri, İdari Anlaşmanın 7 ve 9/3
+                       üncü maddeleri
+ TR/SRB 111            Sırbistan'da Bulunma Esnasında Sağlık Yardımı Belgesi
+
+        Kanunun 4/1-(a) bendi kapsamında Kurum sigortalısının 6 aydan az geçici görevli
+olarak Sırbistan’da bulunduğu sırada, sigortalının durumu derhal (acil) tedaviyi gerektirdiği
+hallerde Sırbistan mevzuatının öngördüğü sağlık hizmetlerinden Kurum adına yararlanma
+hakkı vardır.
+       Sigortalıların, sağlık yardımlarından yararlanabilmeleri için Kurum tarafından
+düzenlenmiş ve geçici ikameti boyunca Kurum adına acil hallerde sağlık yardımlarından
+yararlanabileceğini gösterir TR/SRB 111 formülerine sahip olması gerekmektedir.
+        Sigortalı, Anlaşmanın 13 üncü maddesi uyarınca gönderilmesi durumunda ve
+TR/SRB 111 formülerini ibraz etmesi halinde ertelenmesi mümkün olmayan (acil haller)
+sağlık yardımlarından yararlanabilmektedir.
+        TR/SRB 111 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti ve yardımların süresi Kurum mevzuatına göre, yardımlardan yararlanma şekli ile
+yardımların kapsamı ise Sırbistan mevzuatına göre tayin edilecektir.
+        Sigortalılar adına TR/SRB 111 formüleri düzenlenirken aşağıdaki hususlara dikkat
+edilmesi gerekmektedir.
+
+      Sigortalıdan, Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları
+      Talep ve Beyan Taahhüt Belgesi (Ek-2) alınacaktır.
+      İşveren tarafından geçici görevle görevlendirilen sigortalıdan görev süresi ile
+      görevlendirme nedenini belirten yazı temin edilecektir.
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı SPAS (Sağlık Provizyon
+      Aktivasyon Sistemi) üzerinden kontrol edilecektir.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                11/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+      Formülerin (4) nolu kısmı sigortalının işverenince ibraz edilen geçici görev süresini
+      gösterir belgedeki süreye göre doldurulacaktır.
+
+      2.2. Bir İşin İcrası İçin İşvereni Tarafından Türkiye'den Sırbistan'a 6 Aydan
+Fazla Geçici Görevli Gönderilen Sigortalı ile Beraberindeki Aile Bireyleri
+
+ İlgili hükümler        Anlaşmanın 7 ve 10 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+ TR/SRB 111A            Türkiye'den Sırbistan'a Çalışmak İçin Gönderilen Kişilerin Sağlık
+                        Hizmet Belgesi
+
+        Kanunun 4/1-(a) bendi kapsamında Kurum sigortalısının 6 aydan fazla geçici görevli
+olarak Sırbistan’da bulunduğu sırada kendisi ve yanında ikamet eden aile bireyleri, Kurum
+adına      Sırbistan     mevzuatının     öngördüğü   sağlık     hizmetlerinin   tamamından
+yararlanabilmektedir.
+        Sigortalıların, sağlık yardımlarından yararlanabilmeleri için Kurum tarafından
+düzenlenmiş ve Sırbistan'da bulunduğu sürece kendisinin ve aile bireylerinin Kurum adına
+sağlık yardımlarından yararlanabileceğini gösterir TR/SRB 111A formülerine sahip olmaları
+gerekmektedir.
+        TR/SRB 111A formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak
+kişilerin tespiti ve yardımların süresi Kurum mevzuatına göre, yardımlardan yararlanma şekli
+ile yardımların kapsamı ise Sırbistan mevzuatına göre tayin edilmektedir.
+        Sigortalılar ve aile bireyleri adına TR/SRB 111A formülerinin düzenlenmesinde
+aşağıdaki hususlara dikkat edilecektir.
+
+      Sigortalıdan, Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları
+      Talep ve Beyan Taahhüt Belgesi alınacaktır.
+      İşveren tarafından geçici görevle görevlendirilen sigortalıdan görev süresi ile
+      görevlendirme nedenini belirten yazı temin edilecektir.
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+      bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir.
+      Formülerin (4) nolu kısmı sigortalının işverenince ibraz edilen geçici görev süresini
+      gösterir belgedeki süreye göre; özel iş yerlerinde çalışanlar için en fazla birer yıl olmak
+      üzere görev süresi kadar, kamu iş yerlerinde çalışanlar için ise görev süresi kadar olacak
+      şekilde doldurulacaktır.
+
+      2.3. Sırbistan’daki Diplomatik Misyon ve Konsolosluklarda İstihdam Edilen
+Ücretli Çalışanlardan Türk Mevzuatını Tercih Edenlerin ve Beraberindeki Aile
+Bireylerinin Sağlık Yardımları
+
+İlgili hükümler Anlaşmanın 7 ve 10 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+TR/SRB          Türkiye'den Sırbistan'a Çalışmak İçin Gönderilen Kişilerin Sağlık Hizmet
+111A            Belgesi
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                12/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+       Anlaşmanın 10 uncu maddesi gereği, Sırbistan’da bulunan Türk Diplomatik Misyon
+ve Konsolosluklarında görev yapan ve mahallinden istihdam edilen Türk vatandaşlarından,
+Türk mevzuatına tabi kalmayı tercih edenler ile beraberindeki bakmakla yükümlü olduğu aile
+bireyleri, söz konusu çalışanın Sırbistan’da istihdam edildiği süre boyunca sağlık
+yardımlarından Kurum adına ve hesabına yararlanacaktır.
+         Söz konusu yardımların sağlanmasına esas olan TR/SRB 111A formüleri
+Genelgenin 2. bölümünde yer alan 2.2. numaralı başlığında belirtilen şekilde düzenlenecektir.
+
+      2.4. Bir İşin İcrası İçin İşvereni Tarafından Sırbistan'dan Türkiye'ye Geçici
+Görevli Olarak Gönderilen Sigortalı ile Beraberindeki Aile Bireyleri
+
+İlgili hükümler         Anlaşmanın 7 ve 10 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+SRB/TR 111A             Sırbistan'dan Türkiye'ye Çalışmak İçin Gönderilen Kişilerin Sağlık
+                        Hizmet Belgesi
+
+       Sırbistan sigortalılarının geçici görevli olarak Türkiye'de bulunduğu sırada kendisi ve
+beraberindeki aile bireyleri, Sırbistan sigorta kurumları adına ülkemiz mevzuatının
+öngördüğü sağlık hizmetlerinin tamamından yararlanabilmektedir.
+       Sırbistan sigortalılarının, ülkemizde Kurum mevzuatının öngördüğü sağlık
+hizmetlerini alabilmeleri için Sırbistan yetkili kurumunca düzenlenmiş SRB/TR111A
+formüleri ile ilk müracaatlarını en yakın SGİM/SGM’lere yapmaları gerekmektedir.
+       İlgililerin, bu konuda Sırbistan sigorta kurumları tarafından düzenlenmiş ve geçici
+görev süresi boyunca kendisi ve aile bireylerinin Sırbistan sigorta kurumu hesabına, sağlık
+yardımlarından yararlanabileceğini gösterir ve (4) nolu kısmına sağlık yardım hakkı süresi
+kaydedilmiş olan SRB/TR 111A formülerine sahip olmaları gerekmektedir.
+       İlgililerin, SRB/TR 111A formülerini temin etmeden ülkemize gelmiş olmaları
+halinde, Kurumca düzenlenecek TR/SRB 111B formüleri (Türkiye'de Bulunanların Sağlık
+Yardım Belgesi Talebi) ile SRB/TR 111A formüleri Sırbistan sigorta kurumundan talep
+edilecektir.
+       Sadece SRB/TR 111A formülerinde kayıtlı olan sigortalı ve aile bireylerinin sağlık
+yardımından yararlanma hakları vardır.
+       SRB/TR 111A formülerinde, Sırbistan yetkili kurumunun adı ve adresinin yazılmış
+olduğu kontrol edilecektir. Formülerler elektronik ortamda düzenlenmiş ise ıslak mühür
+aranmayacaktır.
+       Sırbistan sigortalıları, Yurtdışı Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS)
+kapsamına alınıncaya kadar SRB/TR 111A formülerinde kayıtlı kişilere ilgili SGİM/SGM'ce
+sağlık yardımlarına müstahak olduklarına dair Sosyal Güvenlik Sözleşmesine Göre Sağlık
+Yardım Belgesi (Ek-3) verilecektir.
+       Sadece SRB/TR 111A formüleri üzerinde adı geçen sigortalı ve aile bireyleri için
+sağlık yardım belgesi düzenlenecek olup, formüler üzerinde herhangi bir düzeltme ya da
+ekleme yapılmayacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                13/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        SRB/TR 111A formülerinin (4) nolu kısmında belirtilen tarih aralığındaki süreye göre
+sağlık yardım belgesi düzenlenecektir.
+        SRB/TR 111A formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak
+kişilerin tespiti Sırbistan mevzuatına göre, yardımlardan yararlanma şekli ile yardımların
+kapsamı ise Kurum mevzuatına göre tayin edilecektir.
+
+       2.4.1. Türkiye’de Bulunan Sırbistan Elçilik ve Konsolosluklarında İstihdam
+Edilen Ücretli Çalışanlardan Sırbistan Mevzuatını Tercih Edenlerin ve Beraberindeki
+Aile Bireylerinin Sağlık Yardımları
+
+İlgili hükümler         Anlaşmanın 7 ve 10 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+SRB/TR 111A             Sırbistan'dan Türkiye'ye Çalışmak İçin Gönderilen Kişilerin Sağlık
+                        Hizmet Belgesi
+
+       Anlaşmanın 10 uncu maddesi gereği, Türkiye'de bulunan Sırbistan diplomatik misyon
+veya konsolosluklarında ülkemizden istihdam edilen Sırbistan vatandaşlarından, Sırbistan
+mevzuatına tabi kalmayı tercih eden ücretli çalışan ve beraberindeki bakmakla yükümlü
+olduğu aile bireyleri, söz konusu çalışanın Türkiye'de istihdam edildiği süre boyunca sağlık
+yardımlarından Sırbistan adına ve hesabına yararlanacaktır.
+       Söz konusu yardımların sağlanmasına esas olan SRB/TR 111A formüleri Genelgenin
+2. bölümünde yer alan 2.4. numaralı başlığında belirtilen şekilde işlem yapılacaktır.
+
+      2.5. Diğer Akit Taraf Ülkesinde Turistik Amaçlı Bulunan Sigortalılar,
+Aylık/Gelir Sahipleri ile Bu Kişilerin Bakmakla Yükümlü Oldukları Aile Bireyleri
+
+        Diğer akit tarafta turistik amaçlı bulunan sigortalı ve beraberindeki aile bireylerinin
+sağlık yardımlarından nasıl yararlanacaklarına ilişkin açıklamalar aşağıda yer almaktadır.
+
+      2.5.1. Sırbistan’da Turistik Amaçlı Bulunan Sigortalılar, Aylık/Gelir Sahipleri ile
+Bu Kişilerin Bakmakla Yükümlü Oldukları Aile Bireyleri
+
+İlgili hükümler         Anlaşmanın 13/1,2,3 ve 15/3,4 maddeleri, İdari Anlaşmanın 7 ve 9/3
+                        üncü maddeleri
+TR/SRB 111              Sırbistan'da Bulunma Esnasında Sağlık Yardımı Belgesi
+
+         Kanunun 4/1-(a) bendi kapsamında Kurum sigortalısı, bu kapsamda aylık/gelir
+sahipleri ve bunların bakmakla yükümlü bulunduğu aile bireylerinin, Sırbistan’da geçici
+ikametleri sırasında Kurum adına Sırbistan mevzuatının öngördüğü sağlık hizmetlerinden
+durumları derhal (acil) tedaviyi gerektirdiği zaman yararlanma hakları vardır.
+         Bu yardımlardan yararlanmak için ilgililerin, adlarına düzenlenmiş TR/SRB 111
+formülerine sahip olmaları gerekir. Sağlık yardımının acil durumda yapılması durumunun
+tespiti yardımı yapan ülke olan Sırbistan mevzuatına göre yapılacaktır.
+         TR/SRB 111 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                14/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+tespiti Kurum mevzuatına göre yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Sırbistan mevzuatına göre belirlenmektedir.
+        Sigortalının ve aile bireylerinin TR/SRB 111 formülerine kaydı yapılırken aşağıdaki
+hususlar dikkate alınacaktır:
+
+      Sigortalı, aylık/gelir sahibi ve bunların bakmakla yükümlü bulunduğu aile bireylerinden
+      formüler talebine ait Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık
+      Yardımları Talep ve Beyan Taahhüt Belgesi alınacaktır.
+      Sigortalı ve aylık/gelir sahibi sağlık yardımlarına müstahak olup olmadığı ve aile
+      bireyinin sigortalının bakmakla yükümlüsü olup olmadığı SPAS üzerinden kontrol
+      edilecektir.
+      TR/SRB 111 formüleri, sigortalı için düzenlenirken sigortalının ücretli izinde olduğuna
+      dair işverence düzenlenmiş yazı veya belge istenerek, bu belgedeki süre kadar
+      düzenlenecektir.
+      TR/SRB 111 formüleri yalnızca sigortalının bakmakla yükümlü olduğu aile bireyi,
+      aylık/gelir sahibi ve bunların bakmakla yükümlü aile bireyleri için düzenlenecek ise
+      talep süresine bağlı kalmak kaydıyla her defasında en fazla üçer aylık süre için
+      düzenlenecektir.
+      Formülerin Sırbistan yetkili kurumu tarafından SRB/TR 111B formüleri ile talep
+      edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Sırbistan yetkili
+      kurumuna gönderilecektir.
+
+      2.5.2. Türkiye'de Turistik Amaçlı Bulunan Sigortalılar, Aylık/Gelir Sahipleri ile
+Bu Kişilerin Bakmakla Yükümlü Oldukları Aile Bireyleri
+
+İlgili hükümler        Anlaşmanın 13/1,2,3 ve 15/3,4 maddeleri, İdari Anlaşmanın 7 ve 9/3 üncü
+                       maddeleri
+SRB/TR 111             Türkiye'de Bulunma Esnasında Sağlık Yardımı Belgesi
+
+        Sırbistan sigortalıları, aylık/gelir sahipleri ile bakmakla yükümlü bulunduğu aile
+bireylerinin, ülkemizdeki geçici ikametleri sırasında Sırbistan yetkili kurumu adına ülkemiz
+mevzuatının öngördüğü sağlık hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği
+zaman yararlanma hakları vardır.
+        Sırbistan sigortalılarının, Kurum mevzuatının öngördüğü sağlık hizmetlerini
+alabilmeleri için Sırbistan yetkili kurumunca düzenlenmiş ve (4) nolu kısmına sağlık yardım
+hakkı süresi kaydedilmiş olan SRB/TR 111 formüleri ile ilk müracaatlarını en yakın
+SGİM/SGM’lere yapmaları gerekmektedir.
+        İlgililerin, SRB/TR 111 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek TR/SRB 111B (Türkiye'de Bulunanların Sağlık Yardım Belgesi
+Talebi) ile SRB/TR 111 formüleri Sırbistan yetkili kurumundan talep edilecektir.
+        Sadece SRB/TR 111 formülerinde kayıtlı olan sigortalı ve aile bireylerinin sağlık
+yardımlarından yararlanma hakları vardır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                15/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        SRB/TR 111 formülerinde, düzenleyen Sırbistan yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Formülerler elektronik ortamda düzenlenmiş ise ıslak
+mühür aranmayacaktır.
+        Sırbistan sigortalıları, YUPASS kapsamına alınıncaya kadar SRB/TR 111
+formülerinde kayıtlı kişilere ilgili SGİM/SGM'ce sağlık yardımlarına müstahak olduklarına
+dair Sosyal Güvenlik Sözleşmesine Göre Acil Haller Kapsamında Sağlık Yardım Belgesi
+(Ek-4) verilecektir.
+        Sadece SRB/TR 111 formüleri üzerinde adı geçen sigortalı ve aile bireyleri için sağlık
+yardım belgesi düzenlenecek olup, formüler üzerinde herhangi bir düzeltme ya da ekleme
+yapılmayacaktır.
+        SRB/TR 111 formülerinin (4) nolu kısmında belirtilen tarih aralığındaki süreye göre
+sağlık yardım belgesi düzenlenecektir.
+        SRB/TR 111 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Sırbistan mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Kurum mevzuatına göre tayin edilmektedir.
+
+      2.5.3. Sırbistan’a Öğrenim Amaçlı Giden, Kurum Sigortalısı ya da Aylık/Gelir
+Sahibinin Bakmakla Yükümlü Aile Bireyleri
+
+        Öğrenim amaçlı olarak Sırbistan'a giden Kanunun 4/1-(a) bendi kapsamında Kurum
+sigortalısının bakmakla yükümlü aile bireyleri ya da aylık/gelir sahibi ile aylık/gelir
+sahiplerinin bakmakla yükümlü aile bireylerinin Sırbistan'da geçici ikamet ettikleri sırada
+Kurum adına Sırbistan mevzuatının öngördüğü sağlık hizmetlerinden durumları derhal (acil)
+tedaviyi gerektirdiği hallerde yararlanma hakları vardır.
+        Aktif kurum sigortalısına öğrenim amaçlı olarak TR/SRB 111 formüleri
+verilmeyecektir.
+        Öğrenim amaçlı olarak Sırbistan’a giden aile bireyinin TR/SRB 111
+formülerine kaydı yapılırken aşağıdaki hususlar dikkate alınacaktır:
+
+      Sigortalı, aylık/gelir sahibi ya da aile bireyinin formüler talebine ait "Sosyal Güvenlik
+      Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt
+      Belgesi" alınacaktır.
+      Eğitim gördüğü okulun Türkiye’de lise seviyesinde olduğunu gösteren, Millî Eğitim
+      Bakanlığı, Eğitim Ataşeliği veya ülkemizin dış temsilciliklerinden alınacak belgenin
+      ibrazı istenecektir.
+      Sırbistan'da bir üniversiteden kabul alarak bu ülkeye ön lisans, lisans veya yüksek
+      lisans eğitimi için gidecek olanlardan ise;
+      Yurt dışında kabul edildiği üniversiteden kabul edildiğine dair belge,
+      Ön lisans, lisans veya yüksek lisans seviyesinde olduğunu gösteren YÖK, Eğitim
+      Ataşeliği veya Ülkemizin Dış temsilciliklerinden alınacak belge,
+      Türkçe tercümesi ile birlikte okulun sömestir tarihlerini gösterir belge,
+      istenecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                16/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         Erasmus kapsamında gidecek olanların; Türkiye'de okuduğu üniversiteden Erasmus
+kapsamında gittiğine dair yazı ve okulun sömestir tarihlerini gösterir belge Türkçe tercümesi
+ile birlikte istenecektir.
+     Aile bireylerine TR/SRB 111 formüleri düzenlenebilmesi için, aile bireyinin
+sigortalının bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol
+edilecektir. Öğrenim amaçlı Sırbistan’a giden aile bireyleri için TR/SRB 111 formüleri her
+bir sömestir (dönem) için ayrı ayrı düzenlenecektir.
+
+       (Ek, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) 2.6. Çalıştığı Ülkede Tedavi
+Görmekte İken İkametini Vatandaşı Olduğu Ülkeye Naklettiren Sigortalı ve Aile
+Bireyleri
+       Sağlık durumu nedeniyle gerekli tedaviyi görmek üzere, yetkili kurum tarafından
+diğer akit taraf ülkesine gitmesine izin verilen veya verilecek olan bir kişi yetkili kurum nam
+ve hesabına olmak üzere geçici ikamet ettiği veya devamlı ikamet ettiği ülkedeki kurumun
+mevzuatına göre bu kurumun sigortalısı gibi sağlık yardımlarını talep etme hakkına sahiptir.
+       2.6.1. Türkiye'de Tedavisi Devam Etmekte İken Sırbistan'a Dönen Kurum
+Sigortalılarının Sağlık Yardımları
+
+ İlgili hükümler         Anlaşmanın 13/4 üncü maddesi, İdari Anlaşmanın 8/3 üncü maddesi
+ TR/SRB 112              Sırbistan'a İkamet Nakledilmesi Halinde Sağlık Yardım Belgesi
+
+        Kurumca tedavisine devam edilmek üzere anlaşmalı ülkelere gönderilen kişilerin
+sağlık yardım belgeleri, Kanunun 66 ncı maddesinin (c) fıkrası kapsamında yurt içinde
+tedavisi yapılamadığı için yurt dışındaki tedavilerinin Kurum adına anlaşmalı ülkeden
+sağlanması için düzenlenmektedir.
+        TR/SRB 112 formüleri kişilerin ve Sırbistan yetkili kurumunun talebi üzerine
+düzenlenecek bir formüler değildir. Bu formüler, EHGM (YSEDB) tarafından talimat verilen
+SGİM/SGM'ce düzenlenecektir.
+        Kurum sigortalılarının TR/SRB 112 formülerine kaydı yapılırken aşağıdaki
+hususlar dikkate alınacaktır:
+        • Sigortalının, sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin
+sigortalının bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol
+edilecektir.
+        • TR/SRB 112 formüleri, EHGM (YSEDB) talimat yazısında belirtilen süre kadar
+düzenlenecektir.
+        2.6.2. Sırbistan'da Tedavisi Devam Etmekte iken Türkiye'ye Dönen Sırbistan
+Sigortalılarının Sağlık Yardımları
+
+ İlgili hükümler         Anlaşmanın 13/4 üncü maddesi, İdari Anlaşmanın 8/3 üncü maddesi
+ SRB/TR 112              Sırbistan'a İkamet Nakledilmesi Halinde Sağlık Yardım Belgesi
+
+       Sırbistan’da tedavisi devam etmekte iken Türkiye’ye dönen Sırbistan sigortalıları ve
+bunların bakmakla yükümlü olduğu aile bireyleri sağlık yardımlarından Sırbistan adına
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                17/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+ülkemizde yararlanmaya devam ederler.
+        Tedavisine devam edilmek üzere ülkemize gelen Sırbistan sigortalılarının, Kurum
+mevzuatının öngördüğü sağlık hizmetlerinden yararlanabilmeleri için Sırbistan yetkili
+kurumunca düzenlenmiş ve (4) numaralı kutusuna sağlık yardım hakkı süresi kaydedilmiş
+olan SRB/TR 112 formüleri ile ilk müracaatlarını en yakın SGİM/SGM’lere yapmaları
+gerekmektedir.
+        SRB/TR 112 formülerinde, düzenleyen Sırbistan yetkili kurumunun adı ve
+adresinin yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler
+üzerinde ıslak mühür aranmayacaktır.
+        Sırbistan sigortalıları, Yurtdışı Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS)
+kapsamına alınıncaya kadar SRB/TR 112 formülerinde kayıtlı kişilere ilgili SGİM/SGM'ce
+sağlık yardımlarına müstahak olduklarına dair Ek-3'deki “Sosyal Güvenlik Sözleşmesine
+Göre Sağlık Yardım Belgesi” verilecektir.
+        Sadece SRB/TR 112 formüleri üzerinde adı geçen sigortalı ve aile bireyleri için sağlık
+yardım belgesi düzenlenecek olup formüler üzerinde herhangi bir düzeltme ya da ekleme
+yapılmayacaktır.
+        SRB/TR 112 formülerinin 4 numaralı kutusunda belirtilen tarih aralığındaki süreye
+göre sağlık yardım belgesi düzenlenecektir.
+        SRB/TR 112 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Sırbistan mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Kurum mevzuatına göre tayin edilmektedir.
+
+        3. Diğer Akit Tarafta Daimi İkamet Esnasında Sağlık Yardımları
+
+        Akit taraf sigortalısının, diğer akit tarafta ikamet eden aile bireyleri veya akit taraftan
+aylık/gelir almakta iken diğer akit tarafta ikamet eden aylık/gelir sahibi ve beraberindeki aile
+bireylerinin ikamet ettikleri ülkede kendi adlarına sağlık yardım hakları olmaması kaydıyla,
+sigortalının bağlı bulunduğu yetkili kurum adına sağlık yardımlarından yararlanma imkanları
+bulunmaktadır.
+
+         3.1. Türkiye’de Çalışan Sigortalının Sırbistan’da İkamet Eden Aile Bireyleri
+
+İlgili hükümler         Anlaşmanın 14/1 inci maddesi, İdari Anlaşmanın 8/1 inci maddesi
+TR/SRB 109              Sırbistan'da İkamet Edenlerin Sağlık Hizmet Belgesi
+
+        Kanunun 4/1-(a) statüsüne tabi olarak çalışan sigortalının Sırbistan’da daimi ikamet
+eden bakmakla yükümlü olduğu aile bireyleri, Sırbistan mevzuatına göre sağlık yardımlarına
+hak kazanmamış olmaları koşuluyla, Kurum adına Sırbistan’da sağlık yardımlarından
+yararlanabilmektedir.
+        Bu kişiler, TR/SRB 109 formüleri ile Kurum adına Sırbistan mevzuatının öngördüğü
+sağlık hizmetlerini alabileceklerdir.
+        Söz konusu kişiler, ülkemize geçici olarak geldiklerinde sağlık yardımlarından
+Kurum mevzuatındaki hükümlere göre yararlanırlar.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                18/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi ve yardımlardan
+faydalanacak olan aile bireylerinin kimler olduğu Kurum mevzuatına göre, yardımların
+kapsamı ve ifa şekli ise Sırbistan yetkili kurumunun mevzuatına göre belirlenmektedir.
+         Sırbistan yetkili kurumunca bu kişiler adına yapılan sağlık yardımı giderleri,
+Kurumca karşılanacaktır.
+         İlgililerin, TR/SRB 109 formülerini temin etmeden Sırbistan'a gitmiş olmaları
+halinde, Sırbistan yetkili kurumu, çalışanın bağlı bulunduğu SGİM/SGM’den söz konusu
+kişiler için SRB/TR 109A formüleri (Sırbistan'da İkamet Edenlerin Sağlık Hizmet Belgesi
+Talebi) ile TR/SRB 109 formülerini talep eder. Ayrıca sigortalının ya da aile bireyinin talebi
+üzerine ilgili SGİM/SGM tarafından TR/SRB 109 formüleri düzenlenebilecektir.
+        Sigortalının Sırbistan'da ikamet eden bakmakla yükümlü olduğu aile bireylerinin
+TR/SRB 109 formülerine kaydı yapılırken aşağıdaki hususlar dikkate alınacaktır:
+      Söz konusu kişiler için sigortalının bağlı bulunduğu SGİM/SGM’ce formüler talebine
+      ait Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve
+      Beyan Taahhüt Belgesi ve Sırbistan'da daimi ikamet ettiğine dair ikamet belgesi
+      ve/veya oturum izin belgesi alınacaktır.
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+      bakmakla yükümlüsü olup olmadığı SPAS programından kontrol edilecektir.
+      SPAS'ta kaydı olmayan ancak sağlık yardım belgesi talep eden aile bireylerinin
+      müstahak olup olmadığı manuel kontrol edilecektir. SPAS kaydının açılması için bu
+      kişilerden gerekli belgeleri getirmesi ve hak sahibi iseler SPAS kayıtlarını açtırmaları
+      talep edilecektir.
+      TR/SRB 109 formüleri sigortalının bakmakla yükümlü olduğu aile bireyi için her
+      defasında en fazla birer yıllık süre için düzenlenecektir.
+      Formülerin Sırbistan yetkili kurumu tarafından "SRB/TR 109A formüleri ile talep
+      edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Sırbistan yetkili
+      kurumuna gönderilecektir.
+         SGİM/SGM’lerin yurt dışı işlemleri servisleri, TR/SRB 109 formüleri düzenlenmesi
+talebini aldıktan sonra (A) bölümünü doldurup onayladığı iki nüsha TR/SRB 109 formülerini
+Sırbistan yetkili kurumuna gönderecektir.
+         Sırbistan yetkili kurumu, TR/SRB 109 formülerinin (B) bölümünü doldurup
+onaylandıktan sonra bir nüshasını ilgili SGİM/SGM’ye iade edecektir.
+         TR/SRB 109 formüleri ilgili SGİM/SGM'nin yurt dışı işlemleri servisince hesaplaşma
+işlemlerine esas olmak üzere dosyasında muhafaza edilecek ve ilgililerin (sigortalı ve aile
+bireyleri) sağlık yardım hakkının devam edip etmediği takip edilecektir.
+         Sırbistan’da sürekli ikamet eden ve Kurum mevzuatına göre sağlık yardım hakkına
+sahip kişilerin sağlık yardımları ile ilgili Kurum mevzuatına göre durdurulması ya da sona
+ermesine ilişkin bir durum meydana gelmesi durumunda derhal TR/SRB 108 formüleri
+düzenlenerek Sırbistan yetkili kurumuna gönderilecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                19/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        3.1.2. Sırbistan’da Çalışan Sigortalının Türkiye'de İkamet Eden Aile Bireyleri
+
+İlgili               Anlaşmanın 14/1 inci maddesi, İdari Anlaşmanın 8/1 inci maddesi
+hükümler
+SRB/TR 109           Türkiye'de İkamet Edenlerin Sağlık Yardım Belgesi
+
+        Sırbistan sigortalısının ülkemizde ikamet eden bakmakla yükümlü aile bireyleri,
+ülkemiz mevzuatına göre sağlık yardımlarına hak kazanmamış olmaları koşulu ile Sırbistan
+yetkili kurumu adına Türkiye’de Kurum mevzuatı kapsamında tüm sağlık yardımlarından
+yararlanabileceklerdir.
+        Bu kişilerin, (4) nolu kısmına sağlık yardım hakkı süresi kaydedilmiş olan SRB/TR
+109 formülerini en yakın SGİM/SGM'ye ibraz etmeleri gerekmektedir.
+        İlgililerin, SRB/TR 109 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek TR/SRB 109A formüleri (Türkiye'de İkamet Edenlerin Sağlık
+Hizmet Belgesi Talebi) ile SRB/TR 109 formüleri Sırbistan yetkili kurumundan talep
+edilecektir.
+        SRB/TR 109 formülerinde, Sırbistan yetkili kurumunun adı ve adresinin yazılmış
+olduğu kontrol edilecektir. Formülerler elektronik ortamda düzenlenmiş ise ıslak mühür
+aranmayacaktır.
+         SGİM/SGM’lerce, formülerde bildirilen sigortalının bakmakla yükümlü olduğu aile
+bireylerinin mevcut olup olmadığı Kimlik Paylaşım Sisteminden kontrol edilecek, ayrıca aile
+bireylerinin kendi sigortalarından veya bir başkasının sigortasından Kurumdan sağlık yardımı
+talep etme haklarının bulunup bulunmadığı araştırılacaktır.
+        Sırbistan yetkili kurumu tarafından (A) bölümü doldurularak gönderilen SRB/TR 109
+formülerinin (B) bölümü doldurularak onaylandıktan sonra bir nüshası Sırbistan yetkili
+kurumuna iade edilecektir.
+        Sırbistan sigortalıları, YUPASS kapsamına alınıncaya kadar SRB/TR 109
+formülerinde kayıtlı kişilere ilgili SGİM/SGM'ce sağlık yardımlarına müstahak olduklarına
+dair Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi verilecektir.
+        Sadece SRB/TR 109 formüleri üzerinde adı geçen sigortalı ve aile bireyleri için sağlık
+yardım belgesi düzenlenecek olup, formüler üzerinde herhangi bir düzeltme ya da ekleme
+yapılmayacaktır.
+        SRB/TR 109 formülerinin (4) nolu kısmında belirtilen tarih aralığındaki süreye göre
+sağlık yardım belgesi düzenlenecektir.
+        SRB/TR 109 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Sırbistan mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Kurum mevzuatına göre tayin edilmektedir.
+
+      3.2. Akit Taraflardan Birinden Aylık veya Gelir Almakta İken Diğer Akit
+Tarafta İkamet Edenler ve Aile Bireylerinin Sağlık Yardımları
+
+       Anlaşmanın 15 inci maddesi gereği, akit taraflardan yalnızca birinin mevzuatına göre
+aylık veya gelir almakta iken diğer akit tarafta daimi ikamet edenlerin ve bunların aile
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                20/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+bireylerinin sağlık yardımları, aylık veya geliri ödeyen kurum tarafından karşılanacaktır.
+
+      3.2.1. Türkiye’den Aylık/Gelir Almakta Olup Sırbistan'da İkamet Edenler ve
+Beraberindeki Aile Bireyleri
+
+İlgili hükümler         Anlaşmanın 15/1,2 inci maddesi, İdari Anlaşmanın 9/1 inci maddesi
+TR/SRB 109              Sırbistan'da İkamet Edenlerin Sağlık Hizmet Belgesi
+
+        Sırbistan’da daimi ikamet eden Kanunun 4/1-(a) statüsü kapsamında aylık/gelir
+alanlar ile bunların bakmakla yükümlü oldukları aile bireyleri Sırbistan mevzuatına göre
+sağlık yardımlarına hak kazanmamış olmaları koşuluyla, Kurum adına Sırbistan’da sağlık
+yardımlarından yararlanabilmektedir.
+        Bu kişiler, TR/SRB 109 formüleri ile Kurum adına Sırbistan mevzuatının öngördüğü
+sağlık hizmetlerini alabileceklerdir.
+        Söz konusu kişiler, ülkemize geçici olarak geldiklerinde sağlık yardımlarından
+Kurum mevzuatındaki hükümlere göre yararlanacaktır.
+        Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi ve yardımlardan
+faydalanacak olan aile bireylerinin kimler olduğu Kurum mevzuatına göre, yardımların
+kapsamı ve ifa şekli ise Sırbistan yetkili kurumunun mevzuatına göre belirlenecektir.
+        Sırbistan yetkili kurumunca bu kişiler adına yapılan sağlık yardımı giderleri,
+Kurumca karşılanacaktır.
+        İlgililerin, TR/SRB 109 formülerini temin etmeden Sırbistan'a gitmiş olmaları
+halinde, Sırbistan yetkili kurumu, aylık/gelir sahibinin belirtmiş olduğu SGİM/SGM’den söz
+konusu kişiler için SRB/TR 109A formüleri (Sırbistan'da İkamet Edenlerin Sağlık Hizmet
+Belgesi Talebi) ile TR/SRB 109 formülerini talep eder. Ayrıca aylık/gelir sahibi ya da aile
+bireyinin talebi üzerine ilgili SGİM/SGM tarafından TR/SRB 109 formüleri
+düzenlenebilecektir.
+        Sırbistan’da daimi ikamet eden aylık/gelir sahibi ile bunların yanlarında ikamet eden
+bakmakla yükümlü oldukları aile bireylerinin TR/SRB 109 formülerine kaydı yapılırken
+aşağıdaki hususlar dikkate alınacaktır:
+
+      Söz konusu kişiler için formüler talebine istinaden Sosyal Güvenlik Sözleşmeleri
+      İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt Belgesi ve
+      Sırbistan'da daimi ikamet ettiğine dair ikamet belgesi ve/veya oturum izin belgesi
+      alınacaktır.
+      Türkiye'den aylık/gelir alan kişilere formüler düzenlenebilmesi için bu kişilerin
+      aylık/gelirini Sırbistan'a transfer etmeleri gerekmektedir.
+      Aylık/gelir sahibi ve bakmakla yükümlü aile bireylerinin sağlık yardımlarına müstahak
+      olup olmadığı SPAS programından kontrol edilecektir. SPAS'ta kaydı olmayan ancak
+      sağlık yardım belgesi talep eden aylık/gelir sahibi ve bakmakla yükümlü aile
+      bireylerinin müstahak olup olmadığı manuel kontrol edilecektir. SPAS kaydının
+      açılması için bu kişilerden gerekli belgeleri getirmesi ve hak sahibi iseler SPAS
+      kayıtlarını açtırmaları talep edilecektir.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                21/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+      Sırbistan formüleri, aylık/gelir sahibi ve aile bireyleri için her defasında en fazla birer
+      yıllık süre için düzenlenecektir.
+      Formülerin Sırbistan yetkili kurumu tarafından SRB/TR 109A formüleri (Sırbistan'da
+      İkamet Edenlerin Sağlık Hizmet Belgesi Talebi) ile talep edilmesi durumunda, ilgiliye
+      verilmesi gereken nüsha, talebi yapan Sırbistan yetkili kurumuna gönderilecektir.
+      Aylık/gelir sahibinin adresini Sırbistan'a taşıması gerektiğinden, Kimlik Paylaşım
+      Sisteminden ilgilinin adresinin yurt dışı olup olmadığı kontrol edilecektir.
+
+        SGİM/SGM’lerin yurt dışı işlemleri servisleri, TR/SRB 109 formüleri düzenlenmesi
+talebini aldıktan sonra (A) bölümünü doldurup onayladığı iki nüsha TR/SRB 109 formülerini
+Sırbistan yetkili kurumuna gönderecektir.
+        Sırbistan yetkili kurumu, TR/SRB 109 formülerinin (B) bölümünü doldurup
+onaylandıktan sonra bir nüshasını ilgili SGİM/SGM’ye iade edecektir.
+        TR/SRB 109 formüleri ilgili SGİM/SGM'nin yurt dışı işlemleri servisince hesaplaşma
+işlemlerine esas olmak üzere dosyasında muhafaza edilecek ve ilgililerin sağlık yardım
+hakkının devam edip etmediği takip edilecektir.
+        Sırbistan’da sürekli ikamet eden ve Kurum mevzuatına göre sağlık yardım hakkına
+sahip kişilerin Kurum mevzuatına göre sağlık yardımlarının durdurulması ya da sona
+ermesine ilişkin bir durum meydana gelmesi durumunda derhal TR/SRB 108 formüleri
+düzenlenerek Sırbistan yetkili kurumuna gönderilecektir.
+
+      3.2.2. Sırbistan'dan Aylık/Gelir Almakta Olup Türkiye’de İkamet Edenler ve
+Beraberindeki Aile Bireyleri
+
+İlgili              Anlaşmanın 15/1,2 inci maddesi, İdari Anlaşmanın 9/1 inci maddesi
+hükümler
+ SRB/TR 109          Türkiye'de İkamet Edenlerin Sağlık Hizmet Belgesi
+
+       Sırbistan'dan emekli olan ve Türkiye'de ikamet eden aylık/gelir sahipleri ile bunların
+yanlarında ikamet eden bakmakla yükümlü aile bireyleri, Kurum mevzuatına göre sağlık
+yardımlarına hak kazanmamış olmaları koşulu ile Sırbistan yetkili kurumu adına Türkiye’de
+tüm sağlık yardımlarından yararlanabileceklerdir.
+       Bu kişilerin, (4) nolu kısmına sağlık yardım hakkı süresi kaydedilmiş olan SRB/TR
+109 formülerini en yakın SGİM/SGM'ye ibraz etmeleri gerekmektedir.
+       SRB/TR 109 formülerinde, Sırbistan yetkili kurumunun adı ve adresinin yazılmış
+olduğu kontrol edilecektir. Formülerler elektronik ortamda düzenlenmiş ise ıslak mühür
+aranmayacaktır.
+       SGİM/SGM’lerce, formülerde bildirilen aylık/gelir sahibi ve bunların bakmakla
+yükümlü olduğu aile bireylerinin mevcut olup olmadığı Kimlik Paylaşım Sisteminden
+kontrol edilerek, aylık/gelir sahibinin Kurumdan aylık/gelir alıp almadığı ile aile bireylerinin
+kendi sigortalarından veya bir başkasının sigortasından sağlık yardımı talep etme haklarının
+bulunup bulunmadığı araştırılacaktır.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                22/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        Sırbistan yetkili kurumu tarafından (A) bölümü doldurularak gönderilen SRB/TR 109
+formülerinin (B) bölümü doldurularak onaylandıktan sonra bir nüshası Sırbistan yetkili
+kurumuna iade edilecektir.
+        Sırbistan sigortalıları, YUPASS kapsamına alınıncaya kadar SRB/TR 109
+formülerinde kayıtlı kişilere ilgili SGİM/SGM'ce sağlık yardımlarına müstahak olduklarına
+dair Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi verilecektir.
+        Sadece SRB/TR 109 formüleri üzerinde adı geçen sigortalı ve aile bireyleri için sağlık
+yardım belgesi düzenlenecek olup, formüler üzerinde herhangi bir düzeltme ya da ekleme
+yapılmayacaktır.
+        SRB/TR 109 formülerinin (4) nolu kısmında belirtilen tarih aralığındaki süreye göre
+sağlık yardım belgesi düzenlenecektir.
+        SRB/TR 109 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Sırbistan mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Kurum mevzuatına göre tayin edilecektir.
+
+        3.3. Her İki Akit Taraftan Aylık veya Gelir Alanların Sağlık Yardımları
+
+        Anlaşmanın 15 inci maddesinin birinci fıkrası gereği, her iki akit taraf mevzuatına
+göre aylık veya gelir almakta olanlar ve bunların aile bireylerinin sağlık giderleri daimi
+ikamet ettikleri ülkenin yetkili kurumunca karşılanacaktır.
+        Bunların diğer akit tarafta geçici olarak bulunduğu sırada sağlık yardımlarından
+yararlanabilmeleri için daimi ikamet ettiği akit taraf yetkili kurumundan alınmış SRB/TR 111
+veya TR/SRB 111 formülerini ibraz etmeleri gerekmektedir.
+       İkametin belirlenmesinde 2017/26 sayılı Genelgenin 6.1.1. maddesi, 27/3/2012 tarihli
+ve 5937370 sayılı EHGM Genel Yazısı ve 24/12/2018 tarihli ve 17585756 sayılı EHGM
+Genel Yazısı hükümlerine göre işlem yapılacaktır.
+
+       3.4. İş Kazasına Uğrayan ya da Meslek Hastalığına Tutulan Sigortalının Diğer
+Akit Tarafta Geçici ya da Sürekli İkameti Sırasında İş Kazası ve Meslek Hastalığı
+Sigortasından Yapılacak Sağlık Yardımları
+
+        Bir iş kazası veya meslek hastalığı dolayısıyla akit taraflardan birinin mevzuatına
+göre, sağlık yardımlarını talep etme hakkına sahip olan ve diğer akit taraf ülkesinde geçici
+veya daimi ikamet etmekte olan bir kişi, yetkili kurum nam ve hesabına, geçici veya daimi
+ikamet etmekte olduğu akit tarafta, bu kurum mevzuatına göre sağlık yardımı talep etme
+hakkına sahiptir.
+
+       3.4.1. Sırbistan’da Geçici ya da Sürekli Görev Sırasında İş Kazası ve Meslek
+Hastalığı Sigortasından Yapılacak Sağlık Yardımları
+
+İlgili Hükümler Anlaşmanın 24 üncü maddesi, İdari Anlaşmanın 20 nci maddesi
+SRB/TR 113      Geçici İşgöremezlik Durumu ve Yatılı Tedavi Bildirimi
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                23/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        İş kazası veya meslek hastalığı nedeniyle Kurum mevzuatına göre sağlık yardım
+hakkına sahip olan ve Sırbistan’da geçici veya sürekli görevi sırasında iş kazasına uğrayan ya
+da meslek hastalığına tutulan bir kişi, Kurum adına sağlık yardımlarından yararlanma
+hakkına sahiptir.
+       Sırbistan sigorta kurumunca bu kişiler adına yapılan sağlık yardımı giderleri Kurumca
+karşılanacaktır.
+
+      3.4.2. Türkiye'de Geçici ya da Sürekli Görevli Olduğu Sırada İş Kazası ve
+Meslek Hastalığı Sigortasından Yapılacak Sağlık Yardımları
+
+ İlgili Hükümler       Anlaşmanın 24 üncü maddesi, İdari Anlaşmanın 20 nci maddesi
+ TR/SRB 113            Geçici İşgöremezlik Durumu ve Yatılı Tedavi Bildirimi
+
+
+         İş kazası veya meslek hastalığı nedeniyle Sırbistan mevzuatına göre sağlık yardım
+ talep etme hakkına sahip olan ve Türkiye'de geçici ya da sürekli görevi sırasında iş kazasına
+ uğrayan ya da meslek hastalığına tutulan bir kişi, Sırbistan yetkili kurumu adına sağlık
+ yardımlarından yararlanma hakkına sahiptir.
+         Sırbistan yetkili kurumu adına ülkemizde sağlık yardımlarından yararlanmak isteyen
+sigortalı veya gelir sahibi SGİM/SGM'lere bu talebini bildirecektir.
+         Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi Sırbistan mevzuatına
+göre, yardımların kapsamı ve ifa şekli ise Kurum mevzuatına göre belirlenir.
+
+         3.5. Sağlık Yardım Hakkının Durdurulması ya da İptal Edilmesi
+
+       Akit taraflardan birinde daimi ikamet etmekte iken sağlanan sağlık yardım hakkı sona
+eren kişiler için sağlık yardım hakkının durdurulduğuna ya da iptal edildiğine ilişkin bildirim
+yapılacaktır.
+
+      3.5.1. Sırbistan’da Daimi İkamet Etmekte İken Sağlık Yardımlarından Kurum
+Adına Yararlananların Sağlık Yardım Hakkının Durdurulması ya da Sona Erdirilmesi
+
+İlgili hükümler         Anlaşmanın 14/1, 15/1,2 nci maddeleri, İdari Anlaşmanın 8/2 ve 9/2 nci
+                        maddeleri
+TR/SRB 108              Sırbistan'da İkamet Edenlerin Sağlık Hizmetlerinden Yararlanma
+                        Hakkının Durması veya Sona Ermesi Hakkında Bildirim
+
+        Çalışanın Sırbistan’daki aile bireylerinin, sigortalının bakmakla yükümlüsü sıfatlarını
+kaybetmeleri ve aylık/gelir sahibinin Türkiye'de sağlık yardım hakkının sona ermesi halinde
+Sırbistan’da TR/SRB 108 belgesine istinaden sağlanan sağlık yardım hakkının iptal edilmesi
+gerekmektedir.
+        Bununla birlikte, bakmakla yükümlü olunan aile bireyinin bu özelliğini kaybetmesi,
+Sırbistan'da sağlık yardımı hakkı elde etmesi ya da bu kişinin ölmesi gibi durumlarda da
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                24/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sırbistan’da sağlanan sağlık yardım hakkının sadece söz konusu aile bireyi için iptal edilmesi
+gerekmektedir.
+        Sırbistan'da daimi ikamet eden ve ülkemiz adına sağlık yardımlarından faydalanan bu
+kişilerin sağlık yardım haklarının sonlandırılması için TR/SRB 108 formülerinin (A) bölümü,
+SGİM/SGM’lerce üç nüsha olarak doldurularak onaylanacak ve iki nüshası Sırbistan yetkili
+kurumunagönderilecektir.
+        TR/SRB 108 formülerini alan Sırbistan yetkili kurumu, (B) bölümünü doldurarak
+onayladığı formülerin bir nüshasını ilgili SGİM/SGM’ye iade edecektir.
+        Sırbistan yetkili kurumu tarafından onaylanarak iade edilen TR/SRB 108 formüleri
+SGİM/SGM’lerce hesaplaşma işlemlerinde kullanılmak üzere dosyasında muhafaza
+edilecektir.
+         Sağlık yardım hakkının sonlandırılması TR/SRB 108 formüleri ile yapılmaktadır.
+Sağlık yardım hakkı, söz konusu belgenin düzenlendiği tarihten 30 gün sonra veya sigortalı,
+aylık/gelir sahibinin ölüm tarihi itibariyle sona erer.
+
+      3.5.2. Türkiye'de İkamet Etmekte İken Sağlık Yardımlarından Sırbistan Adına
+Yararlananların Sağlık Yardım Hakkının Durdurulması ya da Sona Erdirilmesi
+
+İlgili hükümler         Anlaşmanın 14/1, 15/1,2 nci maddeleri, İdari Anlaşmanın 8/2 ve 9/2 nci
+                        maddeleri
+SRB/TR 108              Türkiye'de İkamet Edenlerin Sağlık Hizmetlerinden Yararlanma
+                        Hakkının Durması veya Sona Ermesi Hakkında Bildirim
+
+         Çalışanın Türkiye'deki aile bireylerinin, sigortalının bakmakla yükümlüsü sıfatlarını
+kaybetmeleri ve aylık/gelir sahibinin Sırbistan'da sağlık yardım hakkının sona ermesi halinde
+Türkiye'de SRB/TR 108 belgesine istinaden sağlanan sağlık yardım hakkının iptal edilmesi
+gerekmektedir.
+         Bu durumun Kurum tarafından tespit edilmesi halinde ilgili SGİM/SGM'ce ilgili
+kişiler ile irtibata geçilerek Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi iptal
+edilerek sağlık yardım hakkı sonlandırılacaktır. Söz konusu sigortalı için Sırbistan tarafından
+TR/SRB 111B formüleri ile SRB/TR 108 formülerinin gönderilmesi istenilecektir.
+         Ayrıca, bakmakla yükümlü olunan aile bireylerinin bu özelliklerini kaybetmeleri,
+Türkiye'de sağlık yardımı hakkı elde etmeleri ya da bu kişilerin ölmesi gibi durumlarda
+Türkiye'de Sırbistan adına sağlanan sağlık yardım hakkının iptal edilmesi gerektiğinden, bu
+durumun tespit edilmesi halinde ilgili SGİM/SGM'ce ilgili kişi ile irtibata geçilerek Sosyal
+Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi iptal edilerek sadece söz konusu aile
+bireyinin sağlık yardım hakkı sonlandırılacaktır. Ayrıca aile bireyinin Sırbistan adına
+sağlanan sağlık yardım hakkının sona erdiği tarih belirtilerek ilgili SRB/TR 108 formülerinin
+örneğinin eklendiği yazı Sırbistan tarafına gönderilecektir.
+         Bakmakla yükümlü olunan aile bireylerinin tamamının durum değişikliği nedeniyle
+Sırbistan adına sağlık yardım haklarının sonlandırılması gerektiğinin tespit edilmesi
+durumunda ise ilgili SGİM/SGM'ce ilgili kişiler ile irtibata geçilerek Sosyal Güvenlik
+Sözleşmesine Göre Sağlık Yardım Belgesi iptal edilerek aile bireylerinin tamamının sağlık
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                25/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+yardım hakları sonlandırılacaktır. Ayrıca, Sırbistan tarafından TR/SRB 111B ile SRB/TR 108
+formülerinin gönderilmesi istenilecektir.
+       SRB/TR 108 formülerinin (A) bölümü, Sırbistan yetkili kurumunca üç nüsha olarak
+doldurularak onaylanacak ve iki nüshası aylık/gelir sahibi ya da aile bireylerinin ikamet ettiği
+yerdeki SGİM/SGM’lere gönderilecektir.
+       SRB/TR 108 formülerini alan SGİM/SGM, (B) bölümünü doldurarak onayladığı
+formülerin bir nüshasını ilgili Sırbistan yetkili kurumuna iade edecektir.
+       Sağlık yardım hakkının sonlandırılması SRB/TR 108 formüleri ile yapılmaktadır.
+Sağlık yardım hakkı, söz konusu belgenin düzenlendiği tarihten 30 gün sonra veya sigortalı,
+aylık/gelir sahibinin ölüm tarihi itibariyle sona erer.
+       SGİM/SGM tarafından onaylanarak Sırbistan yetkili kurumuna iade edilen SRB/TR
+108 formüleri hesaplaşma işlemlerinde kullanılmak üzere dosyasında muhafaza edilecektir.
+
+        3.6. İş Göremezlik veya Hastane Tedavisi ile İlgili Bildirim
+
+        Bir akit taraf mevzuatına göre sigortalı olan kişinin diğer akit taraftaki geçici
+bulunduğu sırada hastalık, analık, iş kazası veya meslek hastalığı sigortaları kapsamında
+geçici iş göremezliğe uğraması halinde yapılacak işlemler aşağıda yer almaktadır.
+
+       3.6.1. Kurum Sigortalısının İş Göremezlik veya Hastane Tedavisi ile İlgili
+Bildirim
+
+İlgili hükümler         Anlaşmanın 13/1,3 ve 24 maddeleri, İdari Anlaşmanın 7/4 maddesi
+SRB/TR 113              Geçici İşgöremezlik Durumu ve Yatılı Tedavi Bildirimi
+
+        Kurum mevzuatına tabi sigortalının, Sırbistan’da geçici ikamet sırasında hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamında geçici iş göremezliğe uğraması
+halinde, Sırbistan yetkili kurumunca, Kuruma bildirim SRB/TR 113 formüleri ile
+yapılacaktır.
+        Ayrıca, Kurum mevzuatına tabi sigortalı, aylık/gelir sahibi ve bunların beraberindeki
+aile bireylerinin de Sırbistan’da geçici ikamet ettikleri sırada yatılı tedavileri de Sırbistan
+yetkili kurumunca, Kuruma SRB/TR 113 formüleri ile bildirilecektir.
+        Sırbistan yetkili kurumlarınca gönderilen SRB/TR 113 formülerine istinaden hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamındaki para yardımları sadece
+Kurum mevzuatına göre tayin edilir ve doğrudan doğruya sigortalıya ödenir. Bu ödemelerde
+Sırbistan yetkili kurumunun aracılığı söz konusu değildir.
+
+       3.6.2. Sırbistan Sigortalısının İş Göremezlik veya Hastane Tedavisi ile İlgili
+Bildirimi
+
+İlgili hükümler Anlaşmanın 13/1,3 ve 24 maddeleri, İdari Anlaşmanın 7/4 maddesi
+TR/SRB 113      Geçici İşgöremezlik Durumu ve Yatılı Tedavi Bildirimi
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                26/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        Sırbistan sigortasına tabi sigortalının, Türkiye'de geçici ikamet sırasında hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamında geçici iş göremezliğe uğraması
+halinde, bununla ilgili Kurumca Sırbistan kurumlarına bildirim TR/SRB 113 formüleri ile
+yapılacaktır.
+        Ayrıca, Sırbistan mevzuatına tabi sigortalı, aylık/gelir sahibi ve bunların
+beraberindeki aile bireylerinin de ülkemizde geçici ikamet ettikleri sırada SRB/TR 111 ve
+SRB/TR 111A formülerlerine istinaden hastanede yapılan tedavileri de Kurumca, Sırbistan
+yetkili kurumuna TR/SRB 113 formüleri ile bildirilecektir.
+        Hesaplaşma esnasında yatılı tedavi formüleri gönderilmediği gerekçesiyle Sırbistan
+yetkili kurumunca itiraz edilmesi durumunda, söz konusu formülerin bir örneği Sırbistan
+yetkili kurumuna gönderilecektir.
+        Kurumca gönderilen TR/SRB 113 formülerine istinaden hastalık, analık, iş kazası
+veya meslek hastalığı sigortaları kapsamındaki para yardımları ise sadece Sırbistan
+mevzuatına göre tayin edilir ve ödenir. Bu ödemelerde Kurumun aracılığı söz konusu
+değildir.
+
+        4. Protezler, Büyük Cihazlar ve Önemli Sağlık Yardımları
+
+       Anlaşmanın 16 ncı maddesi gereği; protezlerin, büyük cihazların ve İdari Anlaşmanın
+10 uncu maddesinde yer alan 500 Avro'nun üzerindeki önemli sağlık yardımlarının acil haller
+dışında verilmesi sağlık yardım bedelini ödeyecek olan yetkili kurumun iznine bağlıdır.
+
+        4.1. Sırbistan’da Tedavi Gören Kurum Sigortalıları ve Aile Bireyleri
+
+ İlgili hükümler        Anlaşmanın 16 ncı maddesi, İdari Anlaşmanın 10 uncu maddesi
+ SRB/TR 114             Protezler, Büyük Cihazlar ve Büyük Masraf Gerektiren Sağlık
+                        Yardımları İzni
+
+        Sırbistan'da geçici ikamet ettiği sırada yada geçici görevi sırasında sağlık
+yardımlarından Kurum adına yararlanma hakkı bulunan; sigortalı, aylık/gelir sahibi ve
+bunların aile bireylerine protezlerin, büyük cihazların ve diğer büyük masraf gerektiren
+sağlık yardımlarının acil haller dışında yapılabilmesi için Sırbistan yetkili kurumunca
+SRB/TR 114 formüleri ile Kurumdan onay alınması gerekmektedir.
+        Sırbistan yetkili kurumundan (A) Bölümü doldurulup onaylanmış olarak gelen
+SRB/TR 114 formülerindeki söz konusu yardımın Kurum mevzuatına göre yapılıp
+yapılamayacağı, SGİM/SGM’lerin bağlı bulunduğu sağlık sosyal güvenlik merkezince
+incelenecek, verilecek karara göre formülerin (7) nolu kısmındaki ilgili kutucuk işaretlenecek
+ve formülerin (B) bölümü ilgili SGİM/SGM tarafından doldurulup onaylanarak Sırbistan
+yetkili kurumuna iade edilecektir.
+        Söz konusu formüler, (4.2) nolu kısmında yer alan "Acil Sağlık Yardımları" kutucuğu
+işaretlenerek gönderilmiş ise herhangi bir işlem yapılmayarak hesaplaşma işlemleri için
+dosyasında muhafaza edilecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                27/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        4.2. Türkiye'de Tedavi Gören Sırbistan Sigortalıları ve Aile Bireyleri
+
+İlgili hükümler         Anlaşmanın 16 ncı maddesi, İdari Anlaşmanın 10 uncu maddesi
+TR/SRB 114              Protezler, Büyük Cihazlar ve Büyük Masraf Gerektiren Sağlık
+                        Yardımları İzni
+
+        Türkiye'de geçici ikamet ettiği sırada yada geçici görevi sırasında sağlık
+yardımlarından Sırbistan yetkili kurumu adına yararlanma hakkı bulunan; sigortalı,
+aylık/gelir sahibi ve bunların aile bireylerine protezlerin, büyük cihazların ve diğer büyük
+masraf gerektiren sağlık yardımlarının acil haller dışında yapılabilmesi için Kurumca
+TR/SRB 114 formüleri ile Sırbistan yetkili kurumundan onay alınması gerekmektedir.
+        Kurumca TR/SRB 114 formülerinin (A) Bölümü doldurulup onaylanarak Sırbistan
+yetkili kurumuna gönderilecek, Sırbistan yetkili kurumundan (B) bölümü doldurulmuş olarak
+gelen TR/SRB 114 formülerindeki söz konusu yardımın Sırbistan mevzuatına göre
+yapılabileceği belirtilmiş ise SGİM/SGM tarafından söz konusu yardımın verilmesi
+sağlanacaktır.
+        Söz konusu yardım acil durum nedeniyle verilmiş ise formülerin (4.2) nolu kısmında
+yer alan "Acil Sağlık Yardımları" kutucuğu işaretlenecek ve (A) bölümü doldurulmuş olarak
+Sırbistan yetkili kurumuna bilgi amaçlı olarak gönderilecektir.
+        Hesaplaşma esnasında TR/SRB 114 formüleri gönderilmediği gerekçesiyle Sırbistan
+yetkili kurumunca itiraz edilmesi durumunda söz konusu formülerin bir örneği Sırbistan
+yetkili kurumuna gönderilecektir.
+
+       5. Sağlık Yardımı Formülerini Almadan Diğer Akit Tarafta Bulunduğu Sırada
+Sağlık Yardımı Gören Kişilerin Masraflarının İadesine İlişkin Talepleri
+
+       İdari Anlaşmanın 11 inci maddesine göre bir akit taraf mevzuatına göre sağlık
+yardımlarından yararlanma hakkı olan ve diğer akit tarafta ilgili sağlık yardım formülerini
+almadan sağlık yardımı alan kişinin, ödediği sağlık yardımı masraflarının iadesini
+mevzuatına tabi olduğu akit taraf kurumundan talep etmesi halinde, bu akit tarafça ilgiliye
+ödeme yapılabilmesi için diğer akit taraf yetkili kurumundan yardımların ücret tarifesi talep
+edilecektir.
+
+        5.1. Kurum Sigortalısının Sırbistan'da Yaptığı Sağlık Yardım Masraflarına
+İlişkin Geri Ödeme Talepleri
+
+ İlgili hükümler           İdari Anlaşmanın 11 inci maddesi
+ TR/SRB 126                Sağlık Yardımları İadesini Tespit Belgesi
+
+        Kurum mevzuatına göre sağlık yardımlarına müstahak olan sigortalı ya da aile
+bireyinin sağlık yardımı formüleri almadan Sırbistan'da görmüş olduğu sağlık yardımlarına
+ilişkin masraflarını kendisi karşılaması ve sonrasında yapmış olduğu masrafların iadesi
+yönünde Kuruma talepte bulunması halinde söz konusu masraflar Sırbistan yetkili
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                28/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+kurumunca belirlenecek olan ücretler üzerinden sigortalıya ödenecektir.
+        Sigortalıya yapılacak olan ödemenin tutarının belirlenebilmesi için Sırbistan yetkili
+kurumundan TR/SRB 126 formüleri ile yapılan tedaviye ilişkin masraf tutarının bildirilmesi
+istenilecektir.
+        TR/SRB 126 formüleri düzenlenirken aşağıdaki hususlara dikkat edilecektir.
+      Sigortalının Sırbistan'daki sağlık yardımı aldığı sürelerde Kurumdan sağlık yardım
+      hakkı olup olmadığı SPAS üzerinden kontrol edilecektir.
+      Sağlık yardım hakkının olduğunun tespit edilmesi durumunda kişinin acil hal
+      kapsamında sağlık yardımı alıp almadığının araştırması SGİM/SGM’nin bağlı olduğu
+      sağlık sosyal güvenlik merkezince yapılacaktır.
+        Acil hal kapsamında sağlık yardımı yapıldığının tespit edilmesi durumunda TR/SRB
+126 formüleri düzenlenecektir. Yardımların acil hal kapsamı dışında yapıldığının tespiti
+halinde ise sigortalının talebi reddedilecektir.
+        Sigortalı ya da aile bireyinin iade talebi üzerine (A) bölümü doldurularak onaylanan
+ve üç nüsha olarak düzenlenen TR/SRB 126 formülerinin ekine sağlık yardımına ilişkin
+raporlar ve masraf faturaları da eklenerek, iki nüshası sigortalının tedavi olduğu bölgedeki
+Sırbistan yetkili kurumuna gönderilecektir.
+        Sırbistan yetkili kurumundan (B) bölümü doldurulmuş olarak gelen formülerde yer
+alan tutarlar üzerinden sigortalıya ödemenin yapılacağı tarihteki T.C. Merkez Bankası döviz
+satış kuru esas alınarak Türk Lirası üzerinden ödeme yapılacaktır.
+
+        5.2. Sırbistan Sigortalısının Türkiye'de Yaptığı Sağlık Yardım Masraflarına
+İlişkin Geri Ödeme Talepleri
+
+ İlgili hükümler       İdari Anlaşmanın 11 inci maddesi
+ SRB/TR 126            Sağlık Yardımları İadesini Tespit Belgesi
+
+         Sırbistan’dan sağlık yardımlarından yararlanma hakkı olan ve sağlık yardımı
+formüleri olmadan ülkemizdeki geçici ikameti sırasındaki sağlık yardımı masraflarını kendisi
+karşılayan Sırbistan sigortalısı ya da aile bireyinin ödediği sağlık yardımı masraflarının
+tazminini Sırbistan yetkili kurumundan talep etmesi halinde, Sırbistan yetkili kurumu
+SRB/TR 126 formüleri ile yapılan tedaviye ilişkin masraf tutarının bildirilmesini Kurumdan
+isteyecektir.
+         Sırbistan yetkili kurumunca (A) bölümü doldurulmuş ve iki nüsha olarak gönderilen
+SRB/TR 126 formüleri ekindeki belgeler ile faturalar bağlı bulunan sağlık sosyal güvenlik
+merkezine gönderilerek acil durum nedeniyle verilen bir tedavi olup olmadığı ve tedavinin
+anlaşmalı sağlık hizmet sunucusu tarafından sağlanıp sağlanmadığının kontrolü yapılmadan,
+belgelerde belirtilen sağlık yardımları tutarları Sağlık Uygulama Tebliği (SUT) fiyat
+tariflerine göre belirlenecek, sonrasında belirlenen tutarlar yurtdışı işlemleri servisince
+formülerin ilgili alanına yazılarak imzalanıp onaylandıktan sonra bir nüshası Sırbistan sigorta
+kurumuna iade edilecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                29/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+                            ÜÇÜNCÜ BÖLÜM
+          SAĞLIK YARDIM GİDERLERİNİN HESAPLAŞMASI İŞLEMLERİ
+
+        Anlaşma kapsamında verilen sağlık yardımlarının masraflarının ödenmesine ilişkin
+hususların özel bir protokol ile düzenleneceği Anlaşmanın 18 inci ve İdari Anlaşmanın 13
+üncü maddesinde belirtilmiş olup, masraf ödemeleri fiili tutarlar üzerinden
+gerçekleştirilecektir.
+        Fiili tutarlar üzerinden hesaplaşma; bir akit taraf mevzuatına göre sigortalı olan
+kişilerin, diğer akit tarafta geçici ikametleri sırasında hastalık, analık, iş kazası ve meslek
+hastalığı sigortasından sağlanan yardımlar ve tıbbi kontrollere ait masraflarının, yardımları
+yapan sigorta kurumunca, diğer akit taraf kurumundan gerçek bedeller üzerinden talep ve
+tahsil edilmesidir.
+        Kurum ile Sırbistan yetkili kurumu arasındaki fiili hesaplaşmalar 6'şar aylık dönemler
+halinde yapılmaktadır.
+
+         Söz konusu dönemler ;
+      I. Dönem : 1 Ocak – 30 Haziran
+      II. Dönem : 1 Temmuz- 31 Aralık
+
+         (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) Türkiye ile Sırbistan İrtibat
+Kurumları arasında imzalanarak 1 Ocak 2021 tarihinde yürürlüğe giren “Sağlık Masraflarının
+Ödenmesine İlişkin Protokol”de; masrafların sağlık güvencesi kapsamında sağlık yardımını
+sağlayan Akit Devletin ulusal para birimi üzerinden belirleneceği, ancak Akit Devlet Merkez
+Bankasının sağlık yardımının yapıldığı yılın 1 Temmuz tarihli efektif alış kuru üzerinden
+Avro (€) olarak hesaplanarak ödeneceği kararlaştırılmıştır.
+        (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) Sağlık yardımı
+masraflarına ilişkin TR/SRB -SRB/TR 125 formüleri, iki nüsha halinde hazırlanacak liste
+ekinde, 01 Ocak – 30 Haziran ve 01 Temmuz – 31 Aralık tarihleri arasında 6’şar aylık
+dönemler halinde Akit ülke yetkili kurumuna sağlık yardımı yapılan yılın Merkez Bankasının
+1 Temmuz tarihindeki efektif alış kurunu gösterir belge ile birlikte gönderilecektir.
+        (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) Akit Ülke yetkili kurumu,
+itiraz etmediği masrafların ödenmesine ilişkin talebi aldığı tarihten itibaren 6 ay içinde Avro
+olarak ödeyecektir. Ayrıca Akit ülke yetkili kurumu talebi aldığı tarihten itibaren 6 ay içinde
+itirazda bulunabilecektir. Yapılan itiraza 6 ay içerisinde cevap verilecek olup bu süre
+içerisinde Akit Ülke yetkili kurumuna cevap verilmez ise itiraz kabul edilmiş sayılacaktır.
+        (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) Diğer taraftan sağlık yardım
+masraflarının ödenmesine ilişkin talepler yardımların sağlandığı tarihten itibaren 5 yıl içinde
+yapılacaktır.
+        (Değişik, 17/09/2021 tarihli ve 2021/32 sayılı Genelge) Bu sebeple Sırbistan
+sigortalıları adına oluşturulan TR/SRB 125 formülerlerinin dönem sonunu takip eden 15 gün
+içerisinde toplu olarak EHGM'ye gönderilmesine özen gösterilecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                30/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        1.Hesaplaşma İşlemleri
+
+       Diğer akit taraf ülkesinde yapılan sağlık yardım masraflarına ilişkin hesaplaşma
+işlemlerinde izlenecek usul ve esaslar aşağıda yer almaktadır.
+
+        1.1. Kurum Sigortalılarının Sağlık Yardımlarına İlişkin Hesaplaşma İşlemleri
+
+ İlgili hükümler        Anlaşmanın 18 inci maddesi, İdari Anlaşmanın 13 üncü maddesi
+ TR/SRB 125             Sağlık Yardımları Fiili Masraf Belgesi
+
+        Anlaşmanın hastalık, analık, iş kazası ve meslek hastalığı sigortalarına ilişkin
+hükümlerinin uygulanmasıyla ilgili olarak, Kurum adına Sırbistan yetkili kurumunca
+sağlanan sağlık yardımlarına ilişkin masraflar fiili tutarlar üzerinden Sırbistan yetkili
+kurumunca SRB/TR 125 formüleri ile Kurumdan talep edilmektedir.
+        Hesaplaşma işlemleri EHGM tarafından takip edilecektir. Bu itibarla, iki ülke
+arasındaki hesaplaşma formüleri işlemleri EHGM tarafından sağlanacak olup, hesaplaşma
+konusunda SGİM/SGM tarafından Sırbistan yetkili kurumları ile herhangi bir bilgi ve belge
+alış verişi yapılmayacaktır.
+        Kurum sigortalılarının, Sırbistan işlemleri Kurum Sigortalıları Sağlık Sistemine
+(KUSAS) entegre edilinceye kadar fiili hesaplaşma işlemleri EHGM tarafından yapılacaktır.
+KUSAS'a entegrasyon sağlandıktan sonra bu işlemler ilgili SGİM/SGM'ce yapılacaktır.
+
+        1.2. Sırbistan Sigortalılarının Sağlık Yardımlarına İlişkin Masraf Belgesi
+
+ İlgili hükümler        Anlaşmanın 18 inci maddesi, İdari Anlaşmanın 13 üncü maddesi
+  SRB/TR125             Sağlık Yardımları Fiili Masraf Belgesi
+
+
+        Anlaşmanın hastalık, analık, iş kazası ve meslek hastalıkları sigortalarına ilişkin
+hükümlerinin uygulanmasıyla ilgili olarak, Sırbistan yetkili kurumu adına Kurumca sağlanan
+sağlık yardımlarına ilişkin masraflar fiili tutarlar üzerinden Sırbistan yetkili kurumundan
+talep edilecektir.
+        Sırbistan'ın YUPASS'a entegrasyonu tamamlanıncaya kadar Sırbistan sigortalılarının
+ülkemizde görmüş oldukları sağlık yardım masrafları tedavi gördüğü yıldaki döneme göre
+TR/SRB 125 formülerine aktarılarak, söz konusu formüler yurt dışı işlemleri servisi bulunan
+SGİM/SGM'ce oluşturulacaktır.
+        Sırbistan sigortalıları adına oluşturulan TR/SRB 125 formüleri dönem sonunu takip
+eden 15 gün içerisinde toplu olarak EHGM'ye gönderilecektir.
+
+        2. Tıbbi Kontrole İlişkin Masraflar
+
+      Bir akit taraf mevzuatına göre sigortalı olan kişinin, diğer akit tarafta geçici ya da
+daimi ikameti sırasında maluliyet durumunun tespit edilebilmesi için gerekli olan tıbbi
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                31/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+kontroller, kişinin sigortalı olduğu akit tarafın talebi üzerine ilgilinin geçici ya da daimi
+ikamet yeri kurumu tarafından yapılır. Bu kontrollere ilişkin masrafların hesaplaşmasında
+yapılacak işlemler aşağıda yer almaktadır.
+
+        2.1. Kurum Sigortalılarının Tıbbi Kontrolüne İlişkin Masraf Bildirimi
+
+       Sırbistan’da geçici ya da daimi ikamet eden Kurum sigortalılarının maluliyet veya iş
+göremezlik durumlarının tespit edilebilmesi için öngörülen tıbbi kontroller, Kurumun talebi
+üzerine Sırbistan yetkili kurumu tarafından yapılacaktır.
+       Yapılan tıbbi kontroller neticesinde ortaya çıkan masrafların Kuruma bildirimi
+SRB/TR 125 formüleri ile yapılacaktır.
+       Şayet tıbbi kontroller her iki akit tarafın mevzuatlarının uygulanması için yapılıyorsa,
+masraflar Sırbistan yetkili kurumunca karşılanır.
+
+     2.2. Türkiye'den Yapılan Malullük Aylığı Talebi Sonucu Rapor Sevk
+Masraflarının Bildirimi
+
+       Ülkemizde sürekli ikamet eden ve malullük aylığı talebinde bulunan Sırbistan
+sigortalıları, aylık taleplerine esas olan raporların düzenlenebilmesi için masrafları Kurumca
+karşılanmak üzere sağlık hizmeti sunucularına sevk edilecektir.
+       İlgili SGİM/SGM tarafından sevk sonucunda ortaya çıkan masrafların Sırbistan yetkili
+kurumuna bildirilmesi için Sırbistan'a yapılan aylık talebi ve masraf faturalarının bir örneği
+üst yazı ekinde YSEDB'ye gönderilecektir.
+       Söz konusu raporun her iki akit tarafça incelenmesi durumunda ise sevk sonucu
+oluşan masraf için Sırbistan yetkili kurumuna herhangi bir bildirimde bulunulmayacaktır.
+
+
+                                   DÖRDÜNCÜ BÖLÜM
+                            CENAZE YARDIMLARI (ÖDENEKLERİ)
+
+        1. Ölüm Yardım Talebi ve Sigortalılık Sürelerinin Birleştirilmesi
+
+    Anlaşmanın 23 üncü maddesi gereğince, akit taraflardan birinin ya da ikisinin
+mevzuatına göre ölüm yardımlarından yararlanılabilmesi ile ilgili işlemler aşağıda yer
+almaktadır.
+
+      1.1. Kurum Mevzuatına Tabi Sigortalılarının Ölüm Yardım Talebi ve
+Sigortalılık Sürelerinin Birleştirilmesi
+
+        1.1.1. Ölüm Yardımı Talebi
+
+      Kurum sigortalısı ya da aylık/gelir sahiplerinin, Sırbistan'da vefat etmesi durumunda,
+ölen kişinin hak sahipleri Kurum mevzuatında öngörülen ölüm (cenaze) yardımına hak
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                32/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+kazanırlar.
+       Bu durumdaki hak sahipleri, doğrudan Kuruma başvurabilecekleri gibi Sırbistan
+sigorta kurumu aracılığı ile de başvurabilmektedir.
+       Sırbistan sigorta kurumuna hak sahipleri tarafından bu yönde bir talep gelmesi
+durumunda, Sırbistan sigorta kurumunca yazı ile birlikte giderlere ilişkin kanıtlayıcı belgeler
+Kuruma gönderilecektir.
+        SGİM/SGM’lere intikal eden yazı ve ekindeki belgeler incelenerek uygun görülmesi
+halinde talep sahibi ile iletişime geçilecek, ölüm yardımı tutarı Kurum mevzuatına göre
+doğrudan ödenecektir.
+
+         1.1.2.Sigortalılık Sürelerinin Birleştirilmesi
+
+İlgili hükümler         Anlaşmanın 23 üncü maddesi, İdari Anlaşmanın 19 uncu maddesi
+TR/SRB 201              Bildirim
+SRB/TR 205              Sigortalılık Süreleri
+
+       Anlaşmanın 23 üncü maddesinin birinci fıkrası uyarınca, Türk ya da Sırbistan
+mevzuatına göre ölüm yardımlarından yararlanmak için belirli sigortalılık sürelerinin
+tamamlanmış olması gerekiyor ise yardımları ödemekle yetkili kurum, diğer akit tarafta
+geçen süreleri aynı zamana rastlamamak koşulu ile birleştirebilir.
+     Ölen kişinin Türkiye’deki sigortalılık sürelerinin yetmemesi durumunda,
+SGİM/SGM’lerce ilgilinin Sırbistan'daki sigortalılık sürelerini gösteren SRB/TR 205
+formüleri TR/SRB 201 formüleri ile Sırbistan sigorta kurumundan istenilecektir. TR/SRB
+201 formüleri iki nüsha olarak düzenlenecek ve (3) nolu kısmı doldurulacaktır.
+     Sırbistan sigorta kurumundan gelecek cevaba istinaden talep sahibi hakkında işlem
+yapılacaktır.
+
+       1.2. Sırbistan Mevzuatına Tabi Sigortalılarının Ölüm Yardım Talebi ve
+Sigortalılık Sürelerinin Birleştirilmesi
+
+        1.2.1.Ölüm Yardımı
+
+       Sırbistan mevzuatına tabi sigortalı ya da aylık/gelir sahiplerinin, Türkiye’de ölmesi
+durumunda, ölen kişinin hak sahipleri Sırbistan mevzuatında öngörülen ölüm yardımına hak
+kazanırlar.
+       Bu durumdaki hak sahipleri, doğrudan Sırbistan sigorta kurumuna başvurabilecekleri
+gibi Kurum aracılığı ile de ölüm yardımını ödemeden sorumlu Sırbistan sigorta kurumuna
+başvurabilmektedir.
+        Kuruma hak sahipleri tarafından bu yönde bir talep gelmesi durumunda Kurumca yazı
+ile birlikte giderlere ilişkin kanıtlayıcı belgeler Sırbistan yetkili kurumuna gönderilecektir.
+         Kurum ile Sırbistan irtibat kurumları arasındaki belge alışverişi işlemleri yetki devri
+ile ilgili mevzuat düzenlemesi yapılıncaya kadar EHGM tarafından yürütülecektir.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                33/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+       Bu belgelere istinaden, ölüm yardımları Sırbistan sigorta kurumu tarafından talep
+sahiplerine doğrudan ödenmekte olup, Kurumca bu ödemelere aracılık edilmeyecektir.
+      Hem Sırbistan hem de Kurum mevzuatına göre ölüm yardımından yararlanma imkanı
+bulunan kişilerde ise ölüm yardımı ölen kişinin daimi ikamet ettiği akit tarafın sigorta
+kurumu tarafından karşılanacaktır.
+
+        1.2.2.Sigortalılık Sürelerinin Birleştirilmesi
+
+İlgili hükümler         Anlaşmanın 23 üncü maddesi, İdari Anlaşmanın 19 uncu maddesi
+SRB/TR 201              Bildirim
+TR/SRB 205              Sigortalılık Süreleri
+
+        Türk ya da Sırbistan mevzuatına göre ölüm yardımlarından yararlanmak için belirli
+sigortalılık sürelerinin tamamlanmış olması gerekiyor ise yardımları ödemekle yetkili kurum,
+diğer akit tarafta geçen süreleri aynı zamana rastlamamak koşulu ile birleştirebilir.
+        Bu durumda ölen kişinin Sırbistan'daki sigortalılık sürelerinin yetmemesi durumunda,
+Sırbistan sigorta kurumunca Türkiye’deki sigortalılık sürelerinin talep edilmesi halinde iki
+nüsha düzenlenen Türkiye'deki sigortalılık sürelerini gösterir TR/SRB 205 formülerinin bir
+nüshası Sırbistan yetkili kurumuna gönderilecektir.
+
+                                            BEŞİNCİ BÖLÜM
+                                        İŞSİZLİK YARDIMLARI
+
+       Anlaşmanın 27 nci maddesi gereğince; akit taraflardan birinin yardımlardan
+yararlanma hakkı sigortalılık sürelerinin tamamlanması koşuluna bağlı ise bu tarafın yetkili
+kurumu, diğer tarafın mevzuatına tabi olarak geçen sigortalılık sürelerini aynı zamana
+rastlamamak şartıyla birleştirebilir.
+       İdari Anlaşmanın 2 nci maddesinde ise işsizlik sigortasını kapsayan mevzuatla ilgili
+olarak Türkiye İş Kurumu Genel Müdürlüğü yetkili kurum olarak belirlenmiştir.
+       Bu durumda, sigortalılardan işsizlik sigortası kapsamında bir başvuru yapıldığında,
+başvuru yapılan SGİM/SGM başvuruyu Türkiye İş Kurumu Genel Müdürlüğüne
+gönderecektir.
+
+                                           ALTINCI BÖLÜM
+                                       AYLIK VE GELİR İŞLEMLERİ
+
+       Aylık/gelir işlerine ilişkin olarak Kurum ile Sırbistan yetkili kurumları arasındaki
+belge alışverişi işlemleri EHGM tarafından yürütülecektir. Ancak yetki devri ile ilgili
+mevzuat düzenlemesi yapıldıktan sonra söz konusu işlemler ilgili SGİM/SGM tarafından
+yapılacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                34/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        1. Malullük, Yaşlılık ve Ölüm Aylığı Taleplerine İlişkin İşlemler
+
+        Anlaşmaya göre her iki akit tarafta birden çalışması bulunan bir sigortalının akit
+taraflardan birindeki prim ödeme gün sayısı, aylığa hak kazanmaya yetiyorsa bu akit taraf
+sadece kendi mevzuatına göre geçen sigortalılık sürelerini dikkate alır. Söz konusu sürelerin
+bu akit taraf mevzuatına göre aylığa hak kazanmaya yetmemesi durumunda ise Anlaşmanın
+19 uncu maddesine göre diğer akit taraftaki sigortalılık süreleri, aynı zamana rastlamamak
+kaydıyla birleştirilecektir.
+        Anlaşmanın 32 nci maddesi gereği, akit taraflardan birine yapılması gereken bir
+başvurunun diğer akit taraftaki yetkili kuruma yapılmış olması durumunda da başvuru ilgili
+akit tarafın yetkili kurumuna yapılmış sayılır.
+        Aylıklara ilişkin Kurum ile Sırbistan irtibat kurumu arasında yürütülmesi gereken
+işlemlerin tamamı sigortalının son çalışmasının geçtiği SGİM/SGM tarafından yürütülecektir.
+         Ancak Kurumdan aylık alan sigortalıların Anlaşma kapsamında Sırbistan'dan aylık
+talebinde bulunmaları durumunda, sigortalının aylık talebine ilişkin işlemler kişinin aylık
+dosyasının bulunduğu SGİM/SGM tarafından yürütülecektir.
+        Türkiye ve Sırbistan Sosyal Güvenlik Anlaşması kapsamında malullük, yaşlılık veya
+ölüm aylıklarına hak kazanılması için; ülkemizdeki 5510 sayılı Kanunun 4/1-(a), 4/1-(b) ve
+4/1-(c) bendi ve 506 sayılı Kanunun Geçici 20 nci maddesi kapsamındaki çalışmalar
+Sırbistan’daki sigortalılık süreleri aynı zamana rastlamamak koşulu ile birleştirilebilmektedir.
+        Anlaşma, sigortalıların anlaşmanın yürürlük tarihinden önceki hizmetlerini de
+kapsamakta olup herhangi bir yardıma hak kazanılmasında bu süreler de dikkate alınacaktır.
+        Her iki akit taraftaki sürelerin birleştirilmesi sonucu sigortalının aylığa hak
+kazanamaması durumunda, taraflar sosyal güvenlik anlaşması imzalamış bulundukları
+üçüncü bir ülkedeki sigortalılık sürelerini de aynı zamana rastlamamak koşulu ile
+birleştirebilirler.
+
+       1.1. Türkiye'den Yapılan Malullük, Yaşlılık ve Ölüm Aylığı Başvurularına
+İlişkin İşlemler
+
+İlgili hükümler         Anlaşmanın 19,20,21 ve 22 nci maddeleri, İdari Anlaşmanın 15 ve 16 ncı
+                        maddeleri
+TR/SRB 201              Bildirim
+TR/SRB 201A             Geçici Bildirim
+SRB/TR 205A             Bildirim
+TR/SRB 202              Aylık Talebi
+TR/SRB 203              Dul ve Yetim Aylığı Talebi
+TR/SRB 204              Çalışma Beyan Belgesi
+TR/SRB 205              Sigortalılık Süreleri
+TR/SRB 206              Karar Bildirme
+TR/SRB 207              Tıbbi Rapor
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                35/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        TR/SRB 201 formüleri iki ülke yetkili kurumları arasındaki iletişimi sağlayan
+formüler olup üst yazı niteliğinde kullanılacaktır. TR/SRB 201 formüleri sayesinde iki kurum
+arasındaki yazışmalar tercüme işlemi yapılmasına gerek kalmadan gerçekleşebilecektir.
+        Sigortalı, aylık/gelir sahibi hakkındaki bilgi ve belgeler gönderilirken TR/SRB 201
+formülerindeki ilgili kutucuklar işaretlenecek ve TR/SRB 202, TR/SRB 203, TR/SRB 204,
+TR/SRB 205, TR/SRB 206, TR/SRB 207 formülerlerinin Sırbistan sigorta kurumlarına
+gönderilmesinde üst yazı yerine kullanılacaktır.
+        Türkiye'deki çalışmalarından dolayı müstakil aylık hakkı bulunmayıp, Anlaşma
+hükümlerine göre aylık talebinde bulunanlar için Sırbistan'da geçen sigortalılık sürelerini
+gösterir SRB/TR 205A formülerinin mevcut olması gerekmektedir.
+        SRB/TR 205A formülerinin mevcut olmaması halinde TR/SRB 201A formüleri ile
+birlikte TR/SRB 202 veya TR/SRB 203 formülerleri düzenlenerek Sırbistan'da geçen
+sigortalılık sürelerini gösterir SRB/TR 205A formüleri talep edilecektir.
+        Sırbistan tarafından TR/SRB 201A formülerinin arka yüzünde yer alan SRB/TR
+205A formüleri doldurularak gönderilmesine müteakip aylık durumu incelenecek ve TR/SRB
+205 formüleri ile ilgilinin ülkemizdeki sigortalılık süreleri ve TR/SRB 206 formüleri ile de
+aylık kararı Sırbistan tarafına TR/SRB 201 formüleri ile bildirilecektir.
+        Sigortalının talebinin Kanunun 4/1-(a) ve 4/1-(b) bentleri kapsamında
+değerlendirilmesi gerekiyorsa aylık taleplerine ilişkin formülerlerin düzenlenmesi ve
+Sırbistan yetkili kurumuna gönderilmesi işlemleri, sigortalının son çalışmasının geçtiği ya da
+Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM tarafından
+yürütülecektir. Bu kapsamdaki sigortalıların Sırbistan kurumlarından hizmet isteme ve
+hizmet gönderme işlemleri de sigortalının son çalışmasının geçtiği ya da Kurumdan aylık
+alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM tarafından yapılacaktır.
+        Sigortalıların aylık taleplerine ilişkin işlemler aşağıdaki şekilde yürütülecektir:
+
+      1.1.1. Sigortalının Son Çalışmasının Geçtiği ya da Kurumdan Aylık Alıyor
+Olması Halinde Dosyasının Bulunduğu SGİM/SGM'ye Başvurması
+
+       Anlaşmaya göre aylık bağlanması için SGİM/SGM’lere başvuran aylık talep
+sahipleri, öncelikle yurt dışı işlemleri servislerine yönlendirilecektir.
+       Bu servislerce yaşlılık, erken yaşlılık ve malullük aylığı talebi için TR/SRB 202, dul
+ve yetim aylığı talebi için TR/SRB 203 formüleri bilgisayar ortamında düzenlenecektir.
+Ayrıca sigortalıdan Sosyal Güvenlik Sözleşmelerine Göre Akit Ülkelerden Gelir/Aylık Talep
+Dilekçesi ile birlikte varsa Sırbistan’da geçen sigortalılık sürelerine ait belge örnekleri
+alınacaktır. Bu belge örneklerinin ibraz edilememesi durumunda TR/SRB 204 formüleri
+bilgisayar ortamında düzenlenecektir.
+       Sigortalının ülkemizdeki hizmetlerinin toplanması, birleştirilmesi ve tespitine yönelik
+işlemler, yürürlükteki usul ve esaslar dahilinde yürütülecek olup, talep sahibinin ülkemizde
+geçen çalışmalarına ait TR/SRB 205 ve TR/SRB 205A formüleri sigortalının son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM tarafından düzenlenecek ve onaylanacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                36/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        Malullük aylığı talebi söz konusu ise, sigortalı başvurduğu SGİM/SGM tarafından
+sağlık hizmeti sunucusuna sevk edilerek TR/SRB 207 formülerinin düzenlenmesi
+sağlanacaktır. Sevk işleminde TR/SRB 207 formülerinin ilgili kısımları SGİM/SGM
+tarafından doldurulacaktır.
+        Yaşlılık aylığı talebi halinde TR/SRB 202, TR/SRB 205 ve gerekmesi durumunda
+TR/SRB 204 formülerleri, malullük aylığı talebi durumunda ise TR/SRB 207 formüleri ikişer
+nüsha olarak düzenlenecek olup formülerlerin bir nüshası dosyasında muhafaza edilecek,
+diğer nüshası TR/SRB 201 ekinde Sırbistan yetkili kurumuna gönderilecektir. Bu gönderme
+işlemi yapılırken ilgilinin Sırbistan'daki çalışmalarını gösterir SRB/TR 205 ve aylık bağlama
+kararına ilişkin SRB/TR 206 formüleri talep edilecektir.
+        Türkiye tarafından ekleri ile birlikte gönderilen formülerleri alan Sırbistan yetkili
+kurumu, sigortalının talebini kendi mevzuatı kapsamında değerlendirecektir. Sırbistan yetkili
+kurumundan gönderilen SRB/TR 205 ve SRB/TR 206 formülerleri ilgili SGİM/SGM'ye veya
+Kamu Görevlileri Emeklilik Daire Başkanlığına (KGEDB) ulaştığında gerekli işlem ve
+kontroller yapılarak ilgili formülerler dosyasında muhafaza edilecektir.
+        Sigortalının ülkemizdeki aylık talebine ilişkin işlemlerde yürürlükteki usul ve esaslar
+dahilinde, sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde
+aylık dosyasının bulunduğu SGİM/SGM tarafından yürütülecek ve aylık kararı sigortalıya ve
+Sırbistan yetkili kurumuna bildirilecektir.
+        Sırbistan yetkili kurumundan hizmet isteme işlemleri sigortalının son çalışmasının
+geçtiği SGİM/SGM tarafından TR/SRB 201 veya TR/SRB 201A formüleri ile yapılacaktır.
+
+      1.1.2. Sigortalının Son Çalışmasının Geçtiği ya da Kurumdan Aylık Alıyor
+Olması Halinde Dosyasının Bulunduğu SGİM/SGM'den Farklı Bir SGİM/SGM'ye
+Başvurması Halinde
+
+        Anlaşmaya göre aylık bağlanması için SGİM/SGM’lere başvuran aylık talep
+sahipleri, öncelikle yurt dışı işlemleri servisine yönlendirilecektir.
+        Bu servislerce yapılacak kontrol neticesinde sigortalının başvurusunun son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'den farklı bir SGİM/SGM'de olduğunun tespit edilmesi halinde, aylık talebini
+alan SGİM/SGM’lerce TR/SRB 202, TR/SRB 203, TR/SRB 205 ve gerekmesi durumunda
+TR/SRB 204 formülerleri ikişer nüsha olarak düzenlenecek olup bütün bölümleri sigortalı ile
+birlikte bilgisayar ortamında doldurulacaktır.
+        Malullük aylığı talebi söz konusu ise talep sigortalının başvurduğu SGİM/SGM
+tarafından sigortalının son çalışmasının geçtiği ya da kurumdan aylık alıyor olması halinde
+aylık dosyasının bulunduğu SGİM/SGM'ye yönlendirilecektir. Bu SGİM/SGM tarafından
+sigortalının başvurduğu ildeki sağlık hizmet sunucusuna sevk işlemi yapılacak ve sonrasında
+TR/SRB 207 formülerinin düzenlenmesi işlemleri de bu SGİM/SGM tarafından
+sağlanacaktır. Sevk işleminde TR/SRB 207 formülerinin ilgili kısımları SGİM/SGM
+tarafından diğer kısımları ise ilgili doktor tarafından doldurulacaktır.
+        Yaşlılık veya malullük aylığı talebi durumunda TR/SRB 202, malullük aylığı talebi
+durumunda TR/SRB 207, ölüm aylığı talebi durumunda ise TR/SRB 203 formüleri Sosyal
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                37/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+Güvenlik Sözleşmelerine Göre Akit Ülkelerden Gelir/Aylık Talep Dilekçesi ile birlikte varsa
+Sırbistan’da geçen sigortalılık sürelerine ait diğer belge örnekleri alınarak sigortalının son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'ye gönderilecektir.
+        Sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde
+aylık dosyasının bulunduğu SGİM/SGM tarafından yapılacak diğer işlemler Genelgenin bu
+bölümünde yer alan 1.1.1. numaralı başlığı altındaki açıklamalara göre sonuçlandırılacaktır.
+
+      1.1.3. Türkiye'de Çalışması Bulunmayan Sigortalının Sırbistan'dan Aylık
+Talebine İlişkin İşlemler
+
+      Ülkemizde çalışması bulunmayan sigortalıların Sırbistan'dan aylık talebinde
+bulunmak için Kuruma yaptığı başvurulara ilişkin tüm işlemler ilgilinin başvurduğu
+SGİM/SGM tarafından gerçekleştirilecektir.
+
+       1.1.4. Kanunun 4/1-(c) bendi Kapsamındaki Sigortalıların Aylık Talebine İlişkin
+İşlemler
+
+        Son çalışması Kanunun 4/1-(c) bendi kapsamında olan veya 2829 sayılı Kanuna ya da
+Kanunun 53 üncü maddesine göre Kanunun 4/1-(c) bendi kapsamında aylık bağlanması
+gereken sigortalıların aylık taleplerine ilişkin formüler, ikamet edilen veya başvuru yapılan
+yerdeki SGİM/SGM tarafından düzenlenerek iki nüsha halinde Sırbistan yetkili kurumuna
+gönderilmek üzere EHGM KGEDB'ye iletilecektir. Bu kapsamdaki sigortalıların Sırbistan
+kurumlarından hizmet isteme ve hizmet gönderme işlemleri aylık alanlar için KGEDB
+tarafından, aylık almayanlar için ise EHGM Kamu Görevlileri Tescil ve Hizmet Daire
+Başkanlığı (KGTHDB) tarafından yürütülecektir.
+
+       1.2. Sırbistan'dan Yapılan Yaşlılık, Malullük ve Ölüm Aylığı Taleplerine İlişkin
+İşlemler
+
+ İlgili hükümler       Anlaşmanın 19,20,21 ve 22 nci maddeleri, İdari Anlaşmanın 15 ve 16 ncı
+                       maddesi
+ SRB/TR 201            Bildirim
+ SRB/TR 201A           Geçici Bildirim
+ TR/SRB 205A           Bildirim
+ SRB/TR 202            Aylık Talep Formüleri
+ SRB/TR 203            Dul ve Yetim Aylığı Talebi
+ SRB/TR 204            Çalışma Beyan Belgesi
+ SRB/TR 205            Sigortalılık Süreleri Hakkında Belge
+ SRB/TR 206            Karar Bildirme
+ SRB/TR 207            Tıbbi Rapor
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                38/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         Sırbistan’da ikamet eden sigortalılar, her türlü aylık ve hizmet birleştirme taleplerini
+Sırbistan yetkili kurumuna yapacaklardır. Sırbistan yetkili kurumu malullük, yaşlılık ve ölüm
+aylığı ile hizmet birleştirilmesine ilişkin her türlü taleplerini SRB/TR 201 ile birlikte SRB/TR
+202, SRB/TR 203, SRB/TR 204 ve TR/SRB 205 formülerleri ile sigortalının son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'ye gönderecektir.
+         Sırbistan yetkili kurumlarınca sigortalının Türkiye'deki son sigortalılık süresinin
+hangi il dahilinde geçtiği tespit edilmemiş ise buna ilişkin talepler, YSEDB'ye intikal
+ettirilecek, adı geçen Daire Başkanlığınca ise ilgili SGİM/SGM'ne gönderilecektir.
+         Sırbistan'dan gelen aylık taleplerinin sigortalının son çalışmasının geçtiği ya da
+Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM'den farklı bir
+SGİM/SGM'ye gönderilmesi durumunda, talep geciktirilmeksizin sigortalının son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'ye iletilecektir.
+         Talebi alan SGİM/SGM, Kurum mevzuatı ve Anlaşma hükümleri kapsamında
+hizmetleri birleştirecek ve kararı sigortalıya doğrudan, Sırbistan yetkili kurumuna TR/SRB
+206 formüleri ile bildirecektir.
+        Malullük aylığı taleplerinde Sırbistan yetkili kurumu tarafından SRB/TR 207
+formüleri de gönderilecektir. Sırbistan'dan gelen malullük aylığı talepleri de Kurum mevzuatı
+çerçevesinde değerlendirilerek, aylık talebi sonuçlandırılacaktır.
+         Sigortalının aylık talebinin, Kanunun 4/1-(c) bendi kapsamında değerlendirilmesi
+gerekiyorsa yukarıda sayılan işlemler KGEDB tarafından yürütülecektir.
+
+         2. Aylıkların Hesaplanması
+
+        2.1. Anlaşma Kapsamında Müstakil Aylık Bağlanması
+
+       Başvuru sahibinin aylığa hak kazanmasında sadece Türkiye’deki sigortalılık
+sürelerinin yeterli olması durumunda, Kanunun ilgili hükümlerine göre aylık bağlama
+işlemleri gerçekleştirilecek, Sırbistan’da geçen süreler aylığın hesabında dikkate
+alınmayacaktır.
+       Örnek 1: Sırbistan'da 1/1/2007-31/12/2009 tarihleri arasında 1000 gün, Türkiye'de ise
+Kanunun 4/1-(a) bendi kapsamında 1/1/2010-3/5/2023 tarihleri arasında 4800 gün çalışması
+olan ve 23/5/2023 tarihinde yaşlılık aylığı talebinde bulunan 2/2/1960 doğumlu erkek
+sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı bağlanabilmesi
+için; Türkiye'deki ilk işe giriş tarihine göre 63 yaş ve 4800 gün prim ödeme şartlarının
+oluşması gerekmektedir.
+       Buna göre, yaşlılık aylığı talep tarihinde Türkiye'de 4800 günü ve 63 yaşı bulunan
+sigortalının Sırbistan’da geçen sigortalılık süreleri dikkate alınmaksızın, ülkemizde geçen
+çalışmalarına göre müstakil yaşlılık aylığı bağlanacaktır.
+       Örnek 2: Sırbistan'da 1/1/2007-31/12/2008 tarihleri arasında 450 gün, Türkiye'de ise
+Kanunun 4/1-(b) bendi kapsamında 1/1/2009-31/12/2023 tarihleri arasında 5400 gün
+çalışması olan ve 23/1/2024 tarihinde yaşlılık aylığı talebinde bulunan 3/1/1961 doğumlu
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                39/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+erkek sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı
+bağlanabilmesi için; Türkiye'deki ilk işe giriş tarihine göre 63 yaş ve 5400 gün prim ödeme
+şartlarının oluşması gerekmektedir.
+        Buna göre, yaşlılık aylığı talep tarihinde Türkiye'de 5400 günü ve 63 yaşı bulunan
+sigortalının Sırbistan’da geçen sigortalılık süreleri dikkate alınmaksızın, ülkemizde geçen
+çalışmalarına göre müstakil yaşlılık aylığı bağlanacaktır.
+
+        2.2. Anlaşma Kapsamında Kısmi Aylık Bağlanması
+
+        Anlaşmanın 19 uncu maddesinin birinci fıkrası gereğince, Türkiye'deki sigortalılık
+sürelerinin aylığa hak kazanmaya yetmemesi durumunda aynı zamana rastlamamak kaydıyla
+Sırbistan'daki sürelerle birleştirilerek aylığa hak kazanma durumu değerlendirilecektir. Aylık
+bağlama işlemi yapılırken sadece Türkiye’de geçen çalışmalara ait Prime Esas Kazanç (PEK)
+dikkate alınacaktır.
+        Kısmi aylık, (Toplam prim ödeme gün sayısı üzerinden hesaplanan teorik aylık
+miktarı x (Türk mevzuatına göre geçen prim ödeme gün sayısı / Toplam prim ödeme gün
+sayısı)) formülüne göre hesaplanacaktır.
+        Örnek: Sırbistan'da 1/1/2007-31/12/2017 tarihleri arasında 3960 gün, Türkiye'de ise
+Kanunun 4/1-(a) bendi kapsamında 1/1/2018-13/6/2026 tarihleri arasında 3040 gün çalışması
+olan ve 20/6/2026 tarihinde yaşlılık aylığı talebinde bulunan 14/4/1966 doğumlu erkek
+sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı bağlanabilmesi
+için; Türkiye'deki ilk işe giriş tarihine göre (1/1/2018) 5510 sayılı Kanunun 28 inci
+maddesinin ikinci ve üçüncü fıkralarında yer alan şartları yerine getirememiş olması
+nedeniyle müstakil yaşlılık aylığı bağlanmasına imkan bulunmamaktadır.
+        Ancak, Sırbistan'da çalışmaya başlanılan 1/1/2007 tarihi, ilk işe giriş tarihi olarak
+kabul edilerek kısmi yaşlılık aylığı bağlanabilmesi için 7000 gün ve 60 yaş şartlarının
+oluşması gerekmektedir. Yaşlılık aylığı talep tarihi itibariyle aylık bağlama şartları
+oluştuğundan ilgiliye Sırbistan süreleri de dikkate alınarak kısmi yaşlılık aylığı bağlanacaktır.
+        Aylık bağlanırken sadece Türkiye’de geçen çalışmalara ait prime esas kazançlar
+dikkate alınmak suretiyle Türkiye ve Sırbistan'da geçen toplam 7000 gün üzerinden teorik
+aylık hesaplanacak ve bulunan tutarın, Türkiye'de geçen 3040 gün çalışmaya istinaden
+0,4342 (3040/7000 = 0,4342) oranı kısmi aylık olarak ödenecektir.
+
+        3. Ortak Hükümler
+
+        3.1 Bir Yıldan Az Sigortalılık Süreleri
+
+        Anlaşmanın 20 nci maddesi gereği bir akit tarafın mevzuatına göre geçen sigortalılık
+sürelerinin 1 yıldan az olması durumunda, bu süreler ilgili akit tarafça aylık hesabında
+dikkate alınmaz. Ancak, bu durum akit taraf mevzuatına göre bir yardım hakkının sadece söz
+konusu sigortalılık sürelerine istinaden kazanılmış olması halinde geçerli değildir.
+        Örnek: Türkiye'de 4/1-(a) kapsamında 1/6/1992-11/12/2020 tarihleri arasında fasılalı
+olarak 5380 gün, Sırbistan'da ise 1/1/2007-1/10/2007 tarihleri arasında 270 gün çalışması
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                40/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+olan ve 16/12/2020 tarihinde yaşlılık aylığı talebinde bulunan 2/5/1963 doğumlu erkek
+sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı bağlanabilmesi
+için; 25 yıllık sigortalılık süresi, 5600 prim ödeme gün sayısı ve 53 yaş şartlarının yerine
+getirilmiş olması gerekmektedir.
+        Türkiye'deki çalışmalar ile 25 yıl sigortalılık süresi ve 53 yaş şartı yerine getirilmiş
+olmakla birlikte, ilgilinin 5600 prim ödeme gün sayısı olmadığından müstakil yaşlılık aylığı
+bağlanmasına imkan bulunmamaktadır.
+        Ancak, Anlaşmanın 20 nci maddesi gereği Sırbistan'da 1 yıldan az geçen 270 günlük
+süre Türkiye’de geçmiş kabul edileceğinden, aylık bağlanması talebinde bulunulan tarih
+itibariyle 5650 günü (5380+270) olan ve aylık bağlanması için aranan 5600 gün prim ödeme
+şartını yerine getiren sigortalıya tahsis talebini takip eden aybaşından itibaren Anlaşma
+kapsamında müstakil yaşlılık aylığı bağlanacaktır.
+
+         3.2. Kanunun Ek 19 uncu Maddesinin Anlaşma Aylıkları için Uygulanmaması
+
+        5510 sayılı Kanunun ek 19 uncu maddesinde, bu Kanun veya bu Kanunla yürürlükten
+kaldırılan ilgili kanun hükümlerine göre malullük ve yaşlılık sigortasından ödenen aylıklar ve
+aylıklar ile birlikte her ay itibarıyla yapılan ödemeler toplamının dosya bazında, 8/2/2006
+tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödeme dâhil 1.500 Türk
+lirasından az olamayacağı, aynı maddenin üçüncü fıkrasında ise uluslararası sosyal güvenlik
+sözleşmeleri gereğince bağlanan kısmi aylıklar için bu madde hükümlerinin
+uygulanmayacağı öngörülmüştür.
+
+       Bu kapsamda, Genelgenin 6 ncı bölümündeki kısmi aylık hesaplamasına ilişkin "2.2.
+Anlaşma Kapsamında Kısmi Aylık Bağlanması" başlığı altındaki formülde yer alan teorik
+aylık hesaplanırken de Kanunun ek 19 uncu maddesinde yer alan 1.500 Türk Lirasına
+yükseltme işlemi yapılmadan sabit sayı bulunarak aylık bağlama işlemi sonuçlandırılacaktır.
+
+                       ÜÇÜNCÜ KISIM
+   ANLAŞMANIN UYGULANMASINA İLİŞKİN ORTAK VE DİĞER HUSUSLAR
+
+        1. Başvuruların Alınması
+
+        Anlaşmanın 32 nci maddesi gereği, akit taraflardan birinin yetkili kurumuna
+gönderilmesi gereken dilekçenin, diğer akit taraf yetkili kurumuna verilmiş olması
+durumunda dilekçe, ilgili akit taraf kurumuna verilmiş sayılır. Bu şekilde Sırbistan yetkili
+kurumuna gönderilmesi gereken ancak Kuruma intikal eden dilekçeler geciktirilmeksizin
+Sırbistan yetkili kurumuna gönderilecektir.
+         Aynı şekilde, Anlaşma kapsamında Kuruma verilmesi gerektiği halde Sırbistan
+yetkili kurumuna verilmiş olan dilekçeler, Sırbistan yetkili kurumu tarafından Kuruma
+gönderilecektir. Sırbistan yetkili kurumuna yapılmış olan başvuru tarihi, Kuruma yapılmış
+başvuru tarihi olarak esas alınacaktır.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                41/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+        2. Sağlık Yardımları Hakkındaki Formülerlere İlişkin İşlemler
+
+       Sırbistan yetkili kurumu tarafından usulüne uygun olarak düzenlenerek Kuruma faks,
+e-posta ya da diğer elektronik ortamlarda gönderilen sağlık yardımları hakkındaki
+formülerler işleme alınarak gereği yapılacaktır.
+
+        3. Aylık Taleplerine İlişkin İşlemler
+
+       Talep tarihinden önce Sırbistan’da çalışması bulunan Kanunun 4/1-(a), 4/1-(b) ve
+4/1-(c) bendi kapsamındaki sigortalıların veya ölümü halinde hak sahiplerinin Türkiye'deki
+prim ödeme gün sayısının müstakil aylık bağlanmasına yeterli olması durumunda bağlanacak
+aylık Anlaşma kapsamında değerlendirilecektir.
+       Kanunun 4/1-(c) bendi kapsamındaki sigortalıların Anlaşma kapsamındaki aylık
+bağlama işlemleri KGEDB tarafından yürütülecektir.
+       Anlaşma kapsamında aylık talep başvurularına ve aylık bağlama işlemlerine ilişkin bu
+Genelgede yer almayan hususlarda Sosyal Sigorta İşlemleri Yönetmeliği hükümleri ile
+6/11/2018 tarihli ve 2018/38 sayılı Genelge hükümleri uygulanacaktır.
+
+        4. İrtibat Kurumları İle Yapılacak Yazışmalar
+
+        Sağlık yardım formülerlerinin gönderilmesi, talep edilmesi ve ilk görevlendirmeler ile
+aylık veya gelirlere ilişkin tüm yazışmalar, ilgili SGİM/SGM tarafından Sırbistan'daki yerel
+sigorta kurumları ile yapılacaktır.
+        Sırbistan'daki ilgili yerel sigorta kurumlarının adresleri, Kurum intranet sayfasında
+“Kurumsal/ Dokümanlar/ Yurtdışı/ Yabancı Ülke Sigorta Kurumlarının Adresleri”
+bölümünde yayınlanmıştır.
+        (17/09/2021 tarihli ve 2021/32 sayılı Genelge ile 17/09/2021 tarihinden itibaren
+mülga)
+        Aylık veya gelirlere ilişkin olarak Kurum ile Sırbistan irtibat kurumları arasındaki
+belge alışverişi işlemleri yetki devri ile ilgili mevzuat düzenlemesi yapılıncaya kadar EHGM
+tarafından yürütülecektir.
+         Anlaşmanın 31 inci maddesi uyarınca yazışmalarda akit taraflardan birinin resmi dili
+kullanılacaktır.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                                        İsmail YILMAZ
+                                                                                        Kurum Başkanı V.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                42/43
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+
+EKLER DİZİNİ:
+Ek-1: Yurt Dışı Geçici Görev Talep Dilekçesi
+Ek-2: Sosyal Güvenlik Sözleşmesi İmzalanmış Ülkelerde Sağlık Yardımları Talep ve
+      Beyan Taahhüt Belgesi
+Ek-3: Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi
+Ek-4: Sosyal Güvenlik Sözleşmesine Göre Acil Haller Kapsamında Sağlık Yardım Belgesi
+Ek-5: Sosyal Güvenlik Sözleşmelerine Göre Akit Ülkelerden Gelir/Aylık Talep Dilekçesi
+
+
+
+
+DAĞITIM:
+Gereği:                                                     Bilgi:
+Merkez ve Taşra Teşkilatı                                   Aile, Çalışma ve Sosyal Hizmetler Bakanlığı
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                  Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 458 77 99 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                43/43
+

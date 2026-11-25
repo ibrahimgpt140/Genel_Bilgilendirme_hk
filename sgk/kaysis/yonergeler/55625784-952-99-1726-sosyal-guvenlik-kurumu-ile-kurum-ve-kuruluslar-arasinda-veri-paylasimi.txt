@@ -1,0 +1,94 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/170434
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 55625784-952.99-17262841
+ADI: SOSYAL GÜVENLİK KURUMU İLE KURUM VE KURULUŞLAR ARASINDA VERİ PAYLAŞIMI VE İŞ BİRLİĞİNE ESAS DÜZENLENECEK PROTOKOLLERİN HAZIRLANMASINA VE TAKİBİNE İLİŞKİN ESAS VE USULLER HAKKINDA YÖNERGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ebdb2b28abc016edb35f18bdd767589e3fe4f8a4780b65c52bbd391d55161ad3
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+  SOSYAL GÜVENLİK KURUMU İLE KURUM VE KURULUŞLAR ARASINDA
+VERİ PAYLAŞIMI VE İŞ BİRLİĞİNE ESAS DÜZENLENECEK PROTOKOLLERİN
+ HAZIRLANMASINA VE TAKİBİNE İLİŞKİN ESAS VE USULLER HAKKINDA
+                             YÖNERGE
+
+         Amaç ve Kapsam
+         MADDE 1 – (1) Bu Yönergenin amacı, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanunu ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun gereğince,
+Kurum tarafından kişilerin sosyal güvenliklerinin sağlanması, Kurum alacaklarının takip ve
+tahsili ile 5510 sayılı Kanunla Kuruma verilen görevlerin yerine getirilmesi ile sınırlı olmak
+kaydıyla kanunla kurulmuş kurum ve kuruluşlar arasında veri paylaşımı ve iş birliği
+protokollerinin hazırlanması ve Strateji Geliştirme Başkanlığınca takibine ilişkin esas ve
+usulleri tespit etmektir.
+
+      Dayanak
+      MADDE 2 – (1) Bu Yönerge, 5510 sayılı Kanunun 100 üncü ve 5502 sayılı Sosyal
+Güvenlik Kurumuna İlişkin Bazı Düzenlemeler Hakkında Kanunun 35 inci maddesi ile 4 sayılı
+Cumhurbaşkanlığı Kararnamesinin 796 ncı maddesine dayanılarak hazırlanmıştır.
+
+        Tanımlar
+        MADDE 3 – (1) Bu Yönergede geçen,
+        a) Başkan: Sosyal Güvenlik Kurum Başkanını,
+        b) Başkanlık: Strateji Geliştirme Başkanlığını,
+        c) Hizmet birimleri: 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile
+Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 413 üncü
+maddesinde sayılan hizmet birimlerini,
+        ç) Kurum: Sosyal Güvenlik Kurumu Başkanlığını,
+        d) Kurum ve kuruluş: Kanunla kurulmuş kurum ve kuruluşları,
+        e) Protokol: 5510 sayılı Kanunun 100 üncü maddesi ve 5502 sayılı Kanunun 35 inci
+maddesi kapsamında kurum ve kuruluşlarla düzenlenen veri paylaşımı ve işbirliği kapsamında
+düzenlenen protokolleri,
+        f) Sistem: Hizmet Sunumu Genel Müdürlüğü tarafından yönetilen MEYES sistemi
+içerisinde yer alan Bilişim Yönetim Sistemini,
+        g) Genel Müdürlük: Hizmet Sunumu Genel Müdürlüğünü,
+        ifade eder.
+
+        Genel esaslar
+        MADDE 4 – (1) Protokollerin hazırlanmasında genel esaslar şunlardır.
+        a) Kurum ve kuruluşlarla yapılacak protokollerde veri paylaşımına esas mevzuat
+düzenlemeleri dikkate alınmalıdır.
+        b) Kurum ve kuruluşlarla yapılacak protokoller, zorunlu olmadıkça hizmet birimleri
+tarafından birden fazla düzenlenmemelidir.
+        c) Kurum ve kuruluşlar ile Kurum arasında önceden düzenlenmiş bir protokol varsa,
+mükerrer protokol düzenlenmeden mevcut protokole ek veya tadilat yapılmalıdır.
+        ç) Protokolün süresinin bitmesi, iptal edilmesi veya uygulamadan kaldırılması halinde,
+protokolü yapan hizmet birimince gereği yapılarak diğer hizmet birimleri bilgilendirilmelidir.
+       Hizmet Birimlerinin yükümlülüğü
+       MADDE 5 – (1) Kamu kurum ve kuruluşları ile yapılacak protokollerde;
+        a) Hizmet birimleri Yönerge kapsamında bulunan ve halen yürürlükte olan protokollerin
+bir nüshasını Genel Müdürlüğe bir örneğini de Başkanlığa gönderecektir.
+        b) Hizmet birimleri tarafından kurum ve kuruluşlarla yapılacak protokol çalışmalarına
+başlanmadan önce, kurum ve kuruluşlarla aynı konuda mükerrer protokol yapılmaması ve
+protokol ile ilgili iş ve işlemlerin daha sağlıklı yürütülmesi için, önceden yapılmış protokolün
+mevcut olup olmadığı hizmet birimlerince Başkanlıktan sorulacaktır.
+        c) Kurumca aynı kurum ve kuruluşla yapılmış mevcut protokol varken, yeni protokol
+yapılmasının zorunlu olması halinde, söz konusu protokole bağlı ek protokol yapılacak veya
+protokol tadil edilerek yeni bir protokol yapılacaktır.
+        ç) Hizmet birimlerince hazırlanan protokol taslağı, diğer hizmet birimlerinin görüşüne
+sunularak uygun hale getirildikten sonra, ilgili mercilerin onayını müteakip Başkanlığa
+gönderilecektir.
+        d) Süresi dolan veya yürürlükten kaldırılan protokoller gerekçeleri de belirtilerek
+Başkanlığa bildirilecektir.
+         e) Genel Müdürlük tarafından sistemin kullanılabilir durumda olması sağlanacaktır.
+         f) Genel Müdürlük ile Başkanlık sistemi koordineli bir şekilde yürütecektir.
+
+      Strateji Geliştirme Başkanlığının yükümlülüğü
+      MADDE 6 – (1) Kurum adına yapılacak protokollerde Başkanlıkça;
+      a) Başkanlık, hizmet birimlerinden gelen yürürlükteki protokollerin sistemde güncel
+olarak yayımlanmasını sağlayacaktır.
+      b) Başkanlık, kurum ve kuruluşlarla yapılması planlanan protokol çalışmaları ile ilgili
+daha önce Kurumca yapılmış protokol olup olmadığı hususunda hizmet birimlerinden gelen
+yazı doğrultusunda inceleme yaparak, mevcut protokol varsa, bir örneğini hizmet birimine
+gönderecektir.
+      c) Süresi dolan veya yürürlükten kaldırılan protokollerin hizmet birimlerinin talebi
+doğrultusunda Başkanlık tarafından sistemden kaldırılması sağlanacaktır.
+
+      Diğer hükümler
+      MADDE 7 – (1) Yönergede tereddüt edilen hususlarla ilgili hizmet birimlerinin talebi
+Başkanlıkça açıklığa kavuşturulacaktır.
+
+       Yürürlük
+       MADDE 8 – (1) Bu Yönerge Kurum Başkanının onayladığı tarihte yürürlüğe girer.
+       Yürütme
+       MADDE 9 – (1) Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+

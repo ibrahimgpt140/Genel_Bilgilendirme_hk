@@ -1,0 +1,106 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/177176
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 25177622
+ADI: HATALI TEŞVİK DÖNEMİNİN GEÇİCİ OLARAK HATALI TEŞVİK LİSTESİNDEN ÇIKARILMASI İŞLEMLERİNE İLİŞKİN 24/05/2021 TARİHLİ VE 25177622 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7c989ebc68640fa614b840a3834bc303419fa9e2c0b97c8c60496fc3d39291db
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                       T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-41481264-207.02-25177622                                                                                           24.05.2021
+Konu : Hatalı Teşvik Döneminin Geçici Olarak
+       Hatalı Teşvik Listesinden Çıkarılması
+       İşlemleri
+
+
+
+                                                           GENEL YAZI
+
+
+        Bilindiği üzere, sigorta primi teşvik, destek ve indirimlerden yersiz yararlanan işverenlerin yersiz
+yararlandıkları teşvik, destek ve indirimleri hatalı teşvik listesi ile takip edilmekte olup, cari dönem belge
+verme aşamasında, belge verilecek kanun numarasından hatalı teşvik listesinde kayıt olması halinde, cari
+dönemde teşvikli belge düzenlenememektedir.
+        Ancak, bazı durumlarda hatalı teşvik listesinde olan döneme ait iptal belge işleme alınması
+sırasında sistem hataları oluşabilmektedir. Özellikte toplu iş sözleşmesi kapsamında geriye yönelik ek
+nitelikte belge düzenlenen dönemlere ait iptal belge bazı kanun numaraları için işleme alınamamaktadır.
+Yine bazı durumlarda iptal belge işleme alınması sırasında “prim indirimi eksi değer alıyor” gibi sistem
+hataları alınmaktadır. Söz konusu durumlara yönelik program çalışmaları yapılmakla birlikte, hatalı
+teşvik listesi olan dönemlere ait iptal belge işleme alınamadığında, aynı kanun numarasından cari
+dönemde teşvikli belge verilemediğinden, işveren mağduriyetine sebep olunmaktadır.
+        Bu durumda, söz konusu sistem hatalarına yönelik program çalışmaları tamamlanana kadar,
+işveren mağduriyetine sebep olunmamasını teminen, iptal belgesi işleme alınamayan dönemler için
+İşveren İntra programında yer alan “Hatalı teşvik bildirimi sorgulama güncelleme” menüsüne “LİSTEYİ
+GEÇİCİ SİL” butonu eklenerek ünitelerimizin kullanımına açılmıştır.
+        “Listeyi Geçici Sil” butonu, İşveren İntra uygulamasından güncellenebilen teşvik kanun
+numaraları için işlem görecektir. 3270 ekranlarından 10-6-10 menüsü ile güncelleme yapılması gereken
+hatalı teşvik kanun numaraları için iptal belge işleme alınmasında problem yaşanmaması sebebiyle, 3270
+ekranlarından güncelleme yapılması gereken kanun numaraları bu buton ile listeden çıkarılmayacaktır.
+İşveren İntra uygulamasından güncellenebilen kanun numaraları “Hatalı teşvik bildirimi sorgulama
+güncelleme” menüsünde belirtilmektedir.
+        “Listeyi Geçici Sil” butonu ile hatalı teşvik listesinden geçici olarak çıkarma işlemi yapılacak
+olup, iptal belgesi herhangi bir sistem hatası ile işleme alınamayan işyerleri için kullanılmasına özen
+gösterilecektir. İşverence cari döneme ait belgenin verilmesinden sonra ise mutlaka tekrar “Hatalı teşvik
+bildirimi sorgulama güncelleme” menüsünden güncelleme işlemi yapılması gerekmektedir. İşverenin cari
+döneme ait belgesini vermesinden sonra tekrar güncelleme butonunun çalıştırılmaması halinde, aynı
+kayıtlar yeniden hataya düşmeyeceğinden, bu hususa azami dikkat edilmesi gerekmektedir.
+        Diğer taraftan, bilindiği üzere 1/5/2021 tarihi itibariyle işverenlerce kullanılan e-bildirge V2
+sistemi üzerinden teşvik değişikliği yapılması engellenmiş olup, hatalı teşvik listesi olan dönemlerin
+kanun numarasız belgeye çevrilmesi de e-bildirge V2 sisteminden işverenlerin kullanımına
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Emine DEĞERMENCİ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                         Büro Personeli
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 75 22
+9                                                                 1/2
+engellenmiştir.
+       Konuya ilişkin Genel Müdürlüğümüze intikal eden taleplerden, hatalı teşvik dönemini kanun
+numarasız belgeye çevirmek isteyen işverenlerin Ünitelerimize müracaat ettikleri ve bazı Ünitelerimizce
+kağıt ortamında aylık prim ve hizmet belgesi/muhtasar ve prim hizmet beyannamesi talep edildiği
+anlaşılmıştır.
+       Bilindiği üzere, "Tahakkuk Nedeni D" bölümü işverenlerce internet ortamındaki teşvik değişiklik
+işlemlerine kapatılmış olmakla birlikte, Ünitelerimiz uygulamasında bulunan İşveren İntra-Tahakkuk
+Giriş ekranları Ünitelerimizin kullanımına açık bırakılmıştır.
+       "Tahakkuk Nedeni D" menüsü ile yapılan değişikliklerde gün ve kazanç değişikliği yapılamadığı
+ve işverence internet üzerinden belge düzenlense dahi onay işlemleri için Ünitelerimiz şube onay
+ekranlarına düştüğü, belgenin onay işlemi yapılmadan tahakkuk ve hizmet onayı oluşmadığı dikkate
+alındığında, hatalı teşvik listesinde kaydı bulunan döneme ait iptal belge, yerine ek ya da asıl nitelikte
+kanun numarasız belge işleme alınması işleminin de Ünitenizce yapılması, hatalı teşvik listesinde kaydı
+bulunan işyerinin kanun numarasız belgeye çevrilmesi sırasında ise işverenden kağıt ortamında belge
+talep edilmemesi, hatalı teşvik listesinde yer alan dönem için iptal, kanun numarasız ek ya da asıl
+belgenin İşveren intra-Tahakkuk-Tahakkuk Giriş-Tahakkuk Nedeni D menüsü üzerinden Ünitenizce
+işleme alınması gerekmektedir.
+       Bilgi edinilmesini, yukarıda açıklanan hususların Ünitenizdeki tüm işveren servisi personeline
+duyurulması hususunda gereğini rica ederim.
+
+
+                                                                                                         Savaş ALIÇ
+                                                                                                         Genel Müdür
+
+Dağıtım:
+Bilgi ve gereği:
+Sosyal Güvenlik İl Müdürlüklerine
+
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                               Bilgi için: Emine DEĞERMENCİ
+Telefon No: 0 312 458 75 22 Faks No: 0 312 431 28 74                                                                         Büro Personeli
+e-Posta: istihdamtesvikleridb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: 0 312 458 75 22
+9                                                                 2/2
+

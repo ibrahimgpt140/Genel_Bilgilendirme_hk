@@ -1,0 +1,430 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/106323
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2009-139
+ADI: MALULLÜK, YAŞLILIK VE ÖLÜM SİGORTALARI PRİM ORANIN İŞVEREN HİSSESİNDEN BEŞ PUANLIK İNDİRİM HAKKINDA 19.11.2009 TARİHLİ 2009-139 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: d83a6e164577e375fa68298dda3e78b58cee9e9e9140bcacaeef4666e6133a32
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( 7 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+S GK Sosyal Sigortalar Genel Müdürlüğü
+Sayı : B.13.2.SGK.0.10.04.0031- 962.
+Konu : Malullük, yaşlılık ve ölüm sigortaları prim oranının
+işveren hissesinden beş puanlık indirimi
+GENELGE
+2009 — (49)
+
+1- Genel açıklamalar
+
+Bilindiği üzere, malullük, yaşlılık ve ölüm sigortaları primlerinin işveren hissesinin
+beş puanlık kısmının Hazinece karşılanmasına ilişkin usul ve esasların açıklandığı 13/11/2008
+tarihli ve 2008/93 sayılı Genelgenin “Muvazaalı İşlemlerin Önlenmesi” başlıklı 10 uncu
+maddesinde, çalıştırdıkları sigortalıları Kuruma bildirmeyen işyerleri ile sigorta prim
+indiriminden yararlandıktan sonra geriye yönelik olarak aylık prim ve hizmet belgesi
+düzenleyen işyerleri hakkında yapılacak işlemler ve prim, idari para cezası ve bunlara ilişkin
+gecikme cezası ve gecikme zammı borçları çeşitli kanunlar gereğince yeniden yapılandırılmış
+veya 6183 sayılı Kanunun 48 inci maddesine istinaden tecil ve taksitlendirilmiş olan
+işverenlerin beş puanlık prim indiriminden yararlanmalarının ardından yapılandırma veya
+tecil ve taksitlendirme anlaşmalarının bozulması halinde yapılacak işlemlerin ayrıca
+çıkarılacak olan genelge ile duyurulacağı açıklanmıştır.
+
+Diğer taraftan, Sosyal Sigortalar Genel Müdürlüğümüze ulaşan yazılardan,
+
+- Gerek kendi çalıştırdığı sigortalılardan dolayı, gerekse alt işverenlerinin çalıştırdığı
+sigortalılardan dolayı yasal ödeme süresi geçmiş borcu bulunmayan asıl işverenlerin, 5510
+sayılı Kanun numarasını seçmek suretiyle düzenledikleri aylık prim ve hizmet belgelerinden
+kaynaklanan prim borçlarını süresi içinde ödemelerine rağmen, alt işverenlerinin ilgili aydaki
+prim borçlarını süresi içinde tam olarak ödememeleri durumunda, asıl işverenin yararlanmış
+olduğu indirim tutarının iptal edilip edilmeyeceği,
+
+- İhale konusu işyeri işverenlerinin beş puanlık prim indiriminden yararlanmaları
+halinde, hak ediş ödemelerine esas borcu yoktur yazılarının ne şekilde düzenleneceği veya
+ihale konusu işyerlerinden dolayı beş puanlık prim indiriminden yararlanmamış olan
+işverenlerce, sonradan 5510 sayılı Kanun numarası seçilmek suretiyle düzeltme amaçlı olarak
+düzenlenen prim belgelerinin işleme alınıp alınamayacağı,
+
+- Sermayesinin 96 50*sinden fazlası Kamuya ait olan ticari şirketlerin, anılan maddede
+öngörülen indirimden yararlanıp yararlanamayacakları,
+
+- 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi Hakkında Kanun
+kapsamına giren sigortalılara ödenen ücret dışındaki ödemeler ile anılan sigortalıların Ar-Ge
+ve yenilik faaliyetleri dışındaki çalışmaları nedeniyle hak ettikleri ücretlerinden dolayı 5746
+sayılı Kanunda öngörülen teşvikten yararlanılması mümkün olmadığı için, bahse konu
+ödemeler için 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (1) bendinde
+öngörülen sigorta prim indirimden yararlanılmasının mümkün olup olmadığı,
+
+- Aynı işyerinde çalışan sigortalıların, bir kısmından dolayı 4447 sayılı Kanunun
+geçici 7 nci veya 9 uncu maddesinde ya da 4857 sayılı Kanunun 30 uncu maddesinin onuncu
+
+fıkrasında öngörülen teşvikten, bir kısmından dolayı ise 5510 sayılı Kanunun 81 inci
+maddesinin birinci fıkrasının (1) bendinde öngörülen indirimden yararlanıldıktan sonra, 4447
+sayılı Kanunun geçici 7 nci veya 9 uncu maddesinde ya da 4857 sayılı Kanunun 30 uncu
+maddesinin onuncu fıkrasında öngörülen teşvikten yersiz yararlanılmış olduğunun tespit
+edilmiş olması halinde, anılan kanunlarda öngörülen prim teşvikleri iptal edildikten sonra
+5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (1) bendinde öngörülen indirimin de
+iptal dilip edilmeyeceği,
+
+hususlarında tereddüde düşüldüğü anlaşılmıştır.
+
+Bu bağlamda, gerek 2008/93 sayılı Genelgenin 10 uncu maddesinde belirtilen ve
+ayrıca çıkartılacak olan genelge ile açıklanacağı belirtilen hususlarla ilgili olarak, gerekse
+sözkonusu indirimden yararlanılması sırasında tereddüde düşüldüğü anlaşılan diğer konularla
+ilgili olarak yapılacak işlemler aşağıda açıklanmıştır.
+
+2- Çalıştırdığı sigortalıları Kuruma bildirmeyen işyerleri hakkında yapılacak
+işlemler
+
+Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya
+diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları
+soruşturma, denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar,
+kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelere veya
+mahkeme ilamına istinaden, çalıştırdıkları sigortalıları Kuruma bildirmediği veya prim ödeme
+gün sayısını ya da prime esas kazanç tutarını eksik bildirdiği tespit edilen işyerlerinden dolayı,
+beş puanlık prim indiriminden, bir yıl süreyle yararlanılması mümkün bulunmamaktadır.
+
+Buna göre, çalıştırılan sigortalıların Kuruma bildirilmediği ya da prim ödeme gün
+sayısının veya prime esas kazanç tutarının eksik bildirildiği hususunun,
+
+- Yapılan kontrol ve denetimler sonucunda tespit edilmesi halinde, tutanak tarihini,
+
+- Bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve
+kuruluşlardan alınan bilgi ve belgelerden anlaşılması halinde, sözkonusu yazıların Kuruma
+intikal tarihini,
+
+- Mahkeme ilamı ile karar verilmesi halinde, mahkemenin kesinleşmiş karar tarihini,
+
+izleyen ay başından itibaren bir yıl süreyle sözkonusu (indirimden
+yararlanılamayacaktır.
+
+Örnek — Kurumun denetim ve kontrolle görevli memurlarınca 19/11/2009 tarihinde
+yapılan denetim sonucunda, (D) Limited Şirketinin, çalıştırdığı sigortalıların prim ödeme gün
+sayısını eksik bildirdiğinin tespit edildiği varsayıldığında, sözkonusu işyerinden dolayı
+2009/ Aralık ila 2010/Kasım aylarında beş puanlık prim indiriminden yararlanılması mümkün
+olamayacağından, 2009/Aralık ila 2010/Kasım aylarına ilişkin düzenlenecek olan aylık prim
+ve hizmet belgeleri için 5510 sayılı Kanun numarasının seçilmesi mümkün olamayacaktır.
+
+Aynı işverenin aynı veya farklı ünite sınırları içinde birden fazla işyeri dosyasının
+mevcut olması halinde, hizmetleri veya kazançları Kuruma bildirilmemiş veya eksik
+bildirilmiş sigortalılar hangi işyerinde çalışmış ise, beş puanlık prim indiriminden yalnızca bu
+işyeri bir yıl süreyle yararlandırılmayacaktır.
+
+Beş puanlık prim indiriminden bir yıl süreyle yararlanmayacak olan işverenlerin,
+sözkonusu indirimden yararlanmak amacıyla, çalıştırdıkları sigortalıları, kendisine ait başka
+bir işyerinden bildirdiklerinin tespit edilmesi halinde, bu nitelikteki işyerleri, bildirimin
+yapıldığı aylara ilişkin olmak üzere, bir yıl süreyle indirimden yararlanamayacak işyerine ait
+sigortalılar yönünden beş puanlık prim indiriminden yararlandırılmayacaklardır.
+
+Dolayısıyla bu nitelikteki işverenlerden/alt işverenlerden, 5510 sayılı Kanun numarası
+seçilmek suretiyle düzenlenmiş aylık prim ve hizmet belgeleri için iptal nitelikte: Kanun türü
+seçilmeksizin asıl veya ek nitelikte; aylık prim ve hizmet belgelerinin düzenlenerek Kuruma
+verilmesi istenilecek, verilmemesi halinde, sözkonusu belgeler Kurumca re'sen düzenlenerek
+daha önce Hazinece yersiz olarak karşılanmış olan primler, ödeme vadesinin bittiği tarihten
+tahsil tarihine kadar hesaplanacak gecikme cezası ve gecikme zammı ile birlikte tahsil
+edilecektir.
+
+Öte yandan, çalıştırdığı sigortalıların hizmetlerini veya kazançlarını Kuruma
+bildirmediği veya eksik bildirdiği tespit edilen işyerleri hakkında sigorta prim indiriminin bir
+yıl süreyle uygulanmaması amacıyla, Sigorta Primleri Servisi tarafından durum.
+tutanağın/bilgi veya belgenin/mahkeme ilamının servise ulaştığı tarihten itibaren derhal
+supervizöre intikal ettirilecek ve supervizör tarafından işveren sistemi ana menüden 9-1-3-14
+nolu seçenekler işaretlenmek suretiyle erişilen “BEŞ PUANLIK PRİM İNDİRİMİNDEN BİR
+YIL SÜREYLE YARARLANAMAYACAK İŞYERLERİ” seçeneği vasıtasıyla ilgili
+işyerinin sicil numarası ve indirimden yararlanılmayacak olan dönem aralığı girilmek
+suretiyle, bu dönem aralığı içinde düzenlenecek olan aylık prim ve hizmet belgelerinin 5510
+sayılı Kanun numarası seçilmek suretiyle gönderilmesi engellenmiş olacaktır.
+
+Çalıştırdığı sigortalıları, Kuruma bildirmediği veya prim ödeme gün sayısını eksik
+bildirdiği tespit edilen işyerlerinin, tespite ilişkin tutanağın/bilgi veya belgenin/mahkeme
+ilamının ilgili Üniteye geç intikal etmesi nedeniyle beş puanlık prim indiriminden yersiz
+yararlanmış olduklarının anlaşılması halinde, bu aylara ilişkin daha önce Hazinece
+karşılanmış olan tutarlar gecikme cezası ve gecikme zammı ile birlikte ilgililerden tahsil
+edilecektir.
+
+Bu durumda, daha önce 5510 sayılı Kanun numarası seçilmek suretiyle düzenlenmiş
+olan aylık prim ve hizmet belgeleri için iptal nitelikte ve iptal edilen prim belgelerinin yerine
+Kanun numarası seçilmeksizin asıl nitelikte aylık prim ve hizmet belgesinin verilmesi
+işverenlerden istenilecek, verilmemesi halinde sözkonusu prim belgeleri Kurumca re'sen
+düzenlenecektir. Böylece, Hazinece yersiz karşılanmış olan prim tutarları Hazineye iade
+edilmiş olacağından, fark primler gecikme cezası ve gecikme zammı ile birlikte işverenlerden
+tahsil edilecektir.
+
+Diğer taraftan, 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (1) bendi
+1/10/2008 tarihinden itibaren yürürlüğe girdiğinden, çalıştırdığı sigortalıları Kuruma
+bildirmediği ya da prim ödeme gün sayısını veya prime esas kazanç tutarını eksik bildirdiği
+tespit edilen işyerlerine ilişkin düzenlenen tutanak tarihinin/kamu idarelerince düzenlenen
+yazıların Kuruma intikal tarihinin/ mahkemenin karar tarihinin 30/9/2008 veya önceki bir
+tarih olması ya da 1/10/2008 tarihinden sonra olmakla birlikte, sigortalıların hizmetlerinin
+veya kazançlarının bildirilmediği veya eksik bildirildiği tespit edilen ayların tamamının
+2008/9 veya önceki dönemlere ilişkin olması halinde, sözkonusu indirimden bir yıl süreyle
+yararlanılamaması gibi bir durum sözkonusu olamayacaktır.
+
+Dolayısıyla, bahse konu indirimden, çalıştırdıkları sigortalıların 2008/10 veya sonraki
+dönemlere ilişkin hizmetlerini veya kazançlarını bildirmeyen ya da eksik bildiren işyeri
+işverenleri bir yıl süreyle yararlandırılmayacaklardır.
+
+Bununla birlikte, yasal ödeme süresi geçmiş sigorta primi, işsizlik sigortası primi, idari
+para cezası ile bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmayan
+işverenlerce, 5510 sayılı Kanunda öngörülen beş puanlık prim indiriminden yararlanıldıktan
+sonra, geriye yönelik olarak gerek kendiliğinden, gerekse mahkeme ilamına ya da denetim ve
+kontrolle görevli elemanlarca yapılan denetimler sonucunda düzenlenen raporlara veya kamu
+kurum ve kuruluşlarınca düzenlenen yazılara istinaden aylık prim ve hizmet belgesi verildiği
+
+veya Kurumca re'sen düzenlendiği durumlarda, daha önce Hazinece karşılanmış olan tutarlar
+iptal edilmeksizin, yalnızca tespit tarihinden sonra . verilen prim belgelerinden dolayı
+tahakkuk eden prim, idari para cezası ile bu borçlara ilişkin gecikme cezası ve gecikme
+zammı borçlarının tahsili cihetine gidilecektir.
+
+Ancak bu durumda, işverenlerce kendiliğinden bildirme hali hariç olmak üzere,
+Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya diğer
+kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma,
+denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar, kamu idareleri
+ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden veya mahkeme
+ilamına istinaden çalıştırdıkları sigortalıları Kuruma bildirmedikleri veya eksik bildirdikleri
+tespit edilen işverenler, 2 nolu bölümde de açıklandığı üzere bir yıl süreyle sözkonusu
+indirimden yararlanamayacaklardır.
+
+3- Borçları, çeşitli kanunlar gereğince yeniden yapılandırılmış veya 6183 sayılı
+Kanunun 48 inci maddesine istinaden tecil ve taksitlendirilmiş olan işyerlerinin,
+yapılandırma veya tecil ve taksitlendirme işlemlerinin bozulmuş olması
+
+Kapsama giren borçları, çeşitli kanunlar gereğince yeniden yapılandırılmış veya 6183
+sayılı Kanunun 48 inci maddesine istinaden tecil ve taksitlendirilmiş olan işyeri
+işverenlerinin, cari aylara ilişkin sigorta primlerinden dolayı beş puanlık prim indiriminden
+yararlanmalarının ardından, yapılandirma veya tecil ve taksitlendirme işlemlerinin, ödeme
+yükümlülüklerinin yerine getirilmemiş olması nedeniyle bozulduğu durumlarda, bozma
+koşulunun oluştuğu ayı takip eden aydan başlanılarak, sözkonusu borçlar ödenmediği sürece
+beş puanlık prim indiriminden yararlanılması mümkün olmadığı gibi, bozma koşulunun
+oluştuğu tarihten sonra 3510 sayılı Kanun numarası seçilmek suretiyle düzenlenmiş olan aylık
+prim ve hizmet belgeleri için iptal nitelikte ve iptal edilen prim belgelerinin yerine Kanun
+numarası seçilmeksizin asıl nitelikte aylık prim ve hizmet belgesinin verilmesi işverenlerden
+istenilecek, verilmemesi halinde sözkonusu prim belgeleri Kurumca re'sen düzenlenecektir.
+Anılan işverenin yapılandırma kapsamında ödemiş olduğu taksitler 16/180 Ek sayılı
+Genelgeye göre mahsup edilmesinin ardından hesaplanan borç tutarını ödediği takdirde
+borcun ödendiği tarihten sonra düzenlenecek olan aylık prim ve hizmet belgesinden
+başlanılarak beş puanlık prim indiriminden yararlanması mümkün olabilecektir.
+
+Örnek 1— Kapsama giren borçları 5510 sayılı Kanunun geçici 24 üncü maddesine
+istinaden yeniden yapılandırılmış olan (A) Anonim Şirketinin, yapılandırma kapsamındaki
+borcu dışında başka bir borcunun bulunmaması nedeniyle 2008/10 uncu aydan itibaren beş
+puanlık prim indiriminden yararlandığı, ancak 2009/Temmuz ayındaki son taksitini en geç
+31/8/2009 tarihine kadar ödemesi gerektiği halde ödememiş olması nedeniyle yapılandırma
+işleminin bozulmasının gerektiği varsayıldığında, bozma koşulunun oluştuğu tarihten sonra
+(2009/F.ylül ve sonraki aylara ilişkin olarak) 5510 sayılı Kanun numarası seçilmek suretiyle
+düzenlenmiş olan aylık prim ve hizmet belgeleri için iptal nitelikte ve iptal edilen prim
+belgelerinin yerine Kanun numarası seçilmeksizin asıl nitelikte aylık prim ve hizmet
+belgesinin verilmesi işverenlerden istenilecek, verilmemesi halinde sözkonusu prim belgeleri
+Kurumca re'sen düzenlenecektir. Anılan işverenin yapılandırma kapsamında ödemiş olduğu
+taksitler 16/180 Ek sayılı Genelgeye göre mahsup edilmesinin ardından hesaplanan borç
+tutarını ödediği takdirde borcun ödendiği tarihten sonra düzenlenecek olan aylık prim ve
+hizmet belgesinden başlanılarak beş puanlık prim indiriminden yararlanması mümkün
+olabilecektir.
+
+Örnek 2- Kapsama giren borçları 5510 sayılı Kanunun geçici 25 inci maddesine
+istinaden yeniden yapılandırılmış olan (B) Limited Şirketinin, yapılandırma kapsamındaki
+borcu dışında başka bir borcunun bulunmaması nedeniyle 2008/10 uncu aydan itibaren beş
+puanlık prim indiriminden yararlandığı, ancak anılan işverenin 2009/Ocak. Şubat, Nisan ve
+Haziran aylarına ilişkin taksitlerini ödememiş olması nedeniyle yapılandırma işleminin
+bozulması gerektiği varsayıldığında, bozma koşulunun oluştuğu tarihten sonra (2009/Temmuz
+ve sonraki aylara ilişkin olarak) 5510 sayılı Kanun numarası seçilmek suretiyle düzenlenmiş
+olan aylık prim ve hizmet belgeleri için iptal nitelikte ve iptal edilen prim belgelerinin yerine
+Kanun numarası seçilmeksizin asıl nitelikte aylık prim ve hizmet belgesinin verilmesi
+işverenlerden istenilecek, verilmemesi halinde sözkonusu prim belgeleri Kurumca re'sen
+düzenlenecektir. Anılan işverenin yapılandırma kapsamında ödemiş olduğu taksitler 16/180
+Ek sayılı Genelgeye göre mahsup edilmesinin ardından hesaplanan borç tutarını ödediği
+takdirde borcun ödendiği tarihten sonra düzenlenecek olan aylık prim ve hizmet belgesinden
+başlanılarak beş puanlık prim indiriminden yararlanması mümkün olabilecektir.
+
+Dolayısıyla, yapılandırma veya tecil ve taksitlendirme işlemleri devam ettiği süre
+içinde 5510 sayılı Kanun numarası seçilmek suretiyle Kuruma verilmiş olan cari aylara ilişkin
+aylık prim ve hizmet belgelerinden dolayı 5510 sayılı Kanunun $1 inci maddesinin birinci
+fıkrasının (0) bendi uyarınca Hazinece karşılanmış olan prim tutarlarının iptali cihetine
+gidilmeyecektir.
+
+4- Alt işverenlerin cari aylara ilişkin primlerini süresi içinde ve tam olarak
+ödememeleri halinde, asıl işverenlerin beş puanlık prim indiriminden yararlanmalarına
+ilişkin usul ve esaslar
+
+Bilindiği üzere, asıl işverenlerin beş puanlık indiriminden yararlanmak amacıyla aylık
+prim ve hizmet belgelerini 5510 sayılı Kanun numarasını seçerek Kuruma gönderebilmeleri
+için, gerek kendisinden, gerekse kendisinden iş alan alt işverenlerden kaynaklanan yasal
+ödeme süresi geçmiş sigorta primi, işsizlik sigortası primi, idari para cezası ile bunlara ilişkin
+gecikme cezası ve gecikme zammı borcunun bulunmaması gerekmektedir.
+
+Bu bağlamda, gerek kendisinin, gerekse kendisinden iş alan alt işverenlerden
+kaynaklanan yasal ödeme süresi geçmiş sigorta primi, işsizlik sigortası primi, idari para cezası
+ile bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmayan asıl işverenlerce, cari
+aylara ilişkin aylık prim ve hizmet belgelerinin 5510 sayılı Kanun numarası seçilmek suretiyle
+yasal süresi içinde Kuruma gönderilmesine ve muhteviyatı prim tutarlarının da yasal süresi
+içinde ödenmesine rağmen, alt işverenin aynı aya ilişkin prim borcunu süresi içinde ve tam
+olarak ödememesi halinde, asıl işveren her ne kadar alt işverenin Kuruma olan borçlarından
+sorumlu ise de, alt işverenin cari ay borçlarını yasal ödeme süresinin sonuna kadar
+ödeyebileceği gerekçesi ile muaccel hale gelmeden işverence ödenmemesinden dolayı, asıl
+işveren ilgili ay için beş puanlık prim indiriminden yararlanabilecek (alt işveren primlerini
+yasal süresi içerinde ödemediği için doğal olarak beş puanlık prim indiriminden
+yararlanamayacak). buna karşın takip eden aylarda alt işverenlere ait muaccel borçlar
+ödenmediği sürece, gerek asıl işveren, gerekse alt işverenin beş puanlık prim indiriminden
+yararlanması mümkün olamayacaktır.
+
+Örnek- Asıl işveren olan (C) Anonim Şirketi ile 1 ve 2 nolu alt işverenlerinin yasal
+ödeme süresi geçmiş sigorta primi, işsizlik sigortası primi, idari para cezası ile bunlara ilişkin
+gecikme cezası ve gecikme zammı borçlarının bulunmaması nedeniyle 2009/Ekim ayına
+ilişkin aylık prim ve hizmet belgelerini, 5510 sayılı Kanun numarasını seçmek suretiyle
+Kuruma gönderdikleri, asıl işveren ve | nolu alt işverenin kendilerince ödenmesi gereken
+prim tutarlarını süresi içinde ve tam olarak ödemelerine rağmen, 2 nolu alt işverenin kendisine
+ait prim tutarlarını yasal süresi içinde ödemediği varsayıldığında,
+
+- 2009/Ekim ayına ilişkin düzenlenen aylık prim ve hizmet belgesinden dolayı.
+yalnızca asıl işveren ile | nolu alt işveren beş puanlık prim indiriminden yararlanabilecektir.
+
+- 2 nolu alt işverene ait yasal ödeme süresi geçmiş sigorta primi ve işsizlik sigortası
+prim borçları gecikme cezası ve gecikme zammı ile birlikte ödenmediği sürece, 2009/Kasım
+ayına ilişkin düzenlenecek olan aylık prim ve hizmet belgesinden başlanılarak asıl işveren ve
+2 nolu alt işveren beş puanlık prim indiriminden yararlanamayacaktır.
+
+- | nolu alt işveren ise; gerek asıl işverenin, gerekse 2 nolu alt işverenin Kuruma olan
+borçlarından dolayı sorumlu tutulamayacağından, 2 nolu alt işverene ait borçlar ödenmese
+dahi, takip eden aylarda sigorta primi, işsizlik sigortası primi, idari para cezası ile bunlara
+ilişkin gecikme cezası ve gecikme zammı borçlarının bulunmaması ve aylık prim ve hizmet
+belgelerini yasal süresi içinde Kuruma vermesi kaydıyla beş puanlık prim indiriminden
+yararlanabilecektir.
+
+5- Beş puanlık prim indiriminden yararlanan ihale konusu işyerleri ile ilgili
+yapılacak işlemler
+
+İhale konusu iş üstlenen işverenlerin, 5510 sayılı Kanunun 81 inci maddesinin birinci
+fıkrasının (1) bendinde öngörülen beş puanlık prim indiriminden yararlanmış olmaları halinde,
+idarelerce yapılacak olan hak ediş ödemeleri sırasında, Hazinece karşılanmış olan prim
+tutarları, ilgililerin hak edişinden kesilmektedir.
+
+Bu nedenle, ihale konusu iş üstlenen işverenlerce, hak ediş ödemesine esas yasal
+ödeme süresi geçmiş borçlarının olup olmadığının bildirilmesinin talep edildiği durumlarda
+sözkonusu işverenlerin beş puanlık prim indiriminden yararlanmış olmaları halinde,
+düzenlenecek olan yazıların altına,
+
+“Bu işyerinde çalışan sigortalılardan dolayı 5510 sayılı Kanunun 81 inci maddesinin
+birinci fikrasının (1) bendinde öngörülen beş puanlık prim indiriminden yararlanılmış olup, ...
+TL tutarındaki sigorta primi Hazinece karşılanmıştır.”
+
+şeklinde açıklama yapılacaktır.
+
+Diğer taraftan, ihale konusu iş üstlenen bazı işverenlerin, aylık prim ve hizmet
+belgelerini Kanun numarası seçmeksizin düzenleyerek prim tutarlarını ödedikten ve hak ediş
+ile teminatlarını aldıktan sonra, geriye yönelik olarak Kanun numarası seçilmeksizin
+düzenlenmiş olan aylık prim ve hizmet belgeleri için iptal nitelikte ve iptal edilen prim
+belgelerinin yerine de 5510 sayılı Kanun numarası seçilmek suretiyle asıl nitelikte prim
+belgesi düzenleyerek Kuruma verdikleri ve geriye yönelik olarak anılan Kanunda öngörülen
+indirimden yararlanmak istedikleri anlaşılmıştır.
+
+Bu bakımdan, ihale konusu iş üstlenen ve aylık prim ve hizmet belgelerini yasal süresi
+içinde kanun numarası seçmeksizin Kuruma vermiş olan işverenlerce. sonradan geriye
+yönelik ve düzeltme amaçlı olarak 5510 sayılı Kanun numarası seçilmek suretiyle aylık prim
+ve hizmet belgesi düzenlendiği durumlarda, sözkonusu belgelerin işleme alınıp alınmayacağı
+hususunda durum ilgili idareye bildirilecek ve ihale konusu iş üstlenen işverenin beş puanlık
+prim indiriminden yararlandırılıp yararlandırılamayacağı hususunda, ilgili idareden alınacak
+cevaba göre işlem yapılacaktır.
+
+6- Sermayesinin “o 50*sinden fazlası kamuya ait olan işyeri işverenlerinin, beş
+puanlık prim indiriminden yararlanıp yararlanamayacakları
+
+Bilindiği üzere, 5510 sayılı Kanunun, 81 inci maddesinin birinci fıkrasının (1)
+bendinde, “Bu Kanunun 4 üncü maddesinin birinci fikrasının (a) bendi kapsamındaki
+sigortalıları çalıştıran özel sektör işverenlerinin, bu maddesinin birinci fikrasının (a) bendine
+
+göre malullük, yaşlılık ve ölüm sigortaları primlerinden, işveren hissesinin beş puanlık
+kısmına isabet eden tutar Hazinece karşılanır... “ hükmü yer almaktadır.
+
+Dolayısıyla, anılan maddede öngörülen sigorta prim indirimden yalnızca özel sektör
+işverenlerinin yararlanmaları amaçlanmış olup sermayesinin 9 50'sinden fazlası kamuya ait
+olan işyeri işverenlerinin özel sektör işverenleri kapsamında değerlendirilmeleri mümkün
+bulunmadığından beş puanlık prim indiriminden yararlandırılmaları da mümkün
+bulunmamaktadır.
+
+7- 5746 sayılı Kanun kapsamına giren sigortalılara yapılan ücret dışındaki
+ödemeler ile Ar-Ge ve yenilik faaliyetleri dışındaki çalışmaları nedeniyle hak ettikleri
+ücretlerinden dolayı beş puanlık prim indiriminden yararlanılması
+
+Bilindiği üzere, 5746 sayılı Kanun kapsamına giren sigortalılara yapılan ücret
+dışındaki ödemeler ile kapsama giren sigortalıların Ar-Ge ve yenilik faaliyetleri dışındaki
+çalışmaları nedeniyle hak ettikleri ücretleri, anılan Kanunda öngörülen destek kapsamına
+girmemektedir.
+
+Bu bağlamda, 5746 sayılı Kanun kapsamına giren sigortalıların Ar-Ge ve yenilik
+faaliyetleri kapsamındaki çalışmaları dolayısıyla hak ettikleri ücretlerinin 5746 sayılı Kanun
+numarası; bu sigortalılara yapılan ücret dışındaki ödemeler ile Ar-Ge ve yenilik faaliyetleri
+dışındaki çalışmaları nedeniyle hak ettikleri ücretlerinin ise 5510 sayılı Kanun numarası
+seçilmek suretiyle düzenlenecek olan aylık prim ve hizmet belgesi ile Kuruma bildirilmesi
+halinde, aynı sigortalı için birden fazla Kanunda yer alan teşvik hükümlerinden yararlanılmış
+olmakla birlikte, aynı sigortalı için birden fazla teşvik Kanunundan mükerrer yararlanmak
+gibi bir durum sözkonusu değildir.
+
+Dolayısıyla, 5746 sayılı Kanun kapsamına giren ve yasal ödeme süresi geçmiş sigorta
+primi, işsizlik sigortası primi, idari para cezası ile bunlara ilişkin gecikme cezası ve gecikme
+zammı borcu bulunmayan işverenlerce, 5746 sayılı Kanun kapsamına giren sigortalıların;
+
+- Ar-Ge ve yenilik faaliyetleri kapsamındaki çalışmaları dolayısıyla hak ettikleri
+ücretlerinin 5746 sayılı Kanun numarası,
+
+- Ar-Ge ve yenilik faaliyetleri dışındaki çalışmaları nedeniyle hak ettikleri ücretleri ile
+bu sigortalılara yapılan ücret dışındaki ödemelerin 5510 sayılı Kanun numarası,
+
+seçilmek suretiyle düzenlenecek olan aylık prim ve hizmet belgeleri ile Kuruma
+bildirilmesi mümkün bulunmaktadır.
+
+8- Aynı işyerinde çalışan sigortalıların bir kısmından dolayı farklı kanunlarda
+öngörülen teşvikten, bir kısmından dolayı 5510 sayılı Kanunun 81 inci maddesinin (6)
+bendinde öngörülen indirimden yararlanıldıktan sonra, diğer teşvik kanunlarından
+yersiz yararlanılmış olduğunun tespit edilmesi
+
+Bilindiği üzere, aynı işyerinde çalışan sigortalıların bazıları için farklı kanunlarda
+öngörülen teşviklerden, bazıları için 5510 sayılı Kanunun 81 inci maddesinin (1) bendinde
+öngörülen beş puanlık prim indiriminden yararlanılması mümkün bulunmaktadır.
+
+Ancak uygulamada, bazı işverenlerce, aynı işyerinde çalışan sigortalıların bir
+kısmından dolayı 4447 sayılı Kanunun geçici 7 nci veya 9 uncu maddesinde ya da 4857 sayılı
+Kanunun 30 uncu maddesinin onuncu fıkrasında öngörülen teşvikten, bir kısmından dolayı
+5510 sayılı Kanunun 8! inci maddesinin birinci fıkrasının (1) bendinde öngörülen sigorta prim
+indiriminden yararlanıldıktan sonra, 4447 sayılı Kanunun geçici 7 nci veya 9 uncu
+maddesinde ya da 4857 sayılı Kanunun 30 uncu maddesinin onuncu fıkrasında öngörülen
+teşvikten bazı sigortalılar için yersiz yararlanılmış olduğu gözlemlenmektedir.
+
+Bu gibi durumlarda, yalnızca yersiz yararlanılmış olan teşviklerin geri alınması
+gerektiğinden, anılan kanunlarda öngörülen şartlara sahip sigortalılardan dolayı yararlanılmış
+teşviklerin veya yasal ödeme süresi geçmiş borcun bulunmaması nedeniyle 5510 sayılı
+Kanunun 81 inci maddesinin birinci fıkrasının (1) bendinde öngörülen indirimin geri alınması
+gibi bir durum bahse konu bulunmamaktadır.
+
+Örnek- Yasal ödeme süresi geçmiş sigorla primi, işsizlik sigortası primi. idari para
+cezası ile bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmayan (A) Limited
+Şirketine ait fabrikada çalışmakta olan 80 sigortalıya ilişkin aylık prim ve hizmet belgelerinin:
+
+3 sigortalı için 14447 sayılı Kanun numarası.
+
+4 sigortalı için 14857 sayılı Kanun numarası,
+
+73 sigortalı için 5510 sayılı Kanun numarası,
+
+seçilmek suretiyle Kuruma bildirildiği ve muhteviyatı prim tutarlarının süresi içinde
+ödendiği, ancak sonradan, 2 sigortalıdan dolayı 4857 sayılı Kanunun 30 uncu maddesinin
+onuncu fıkrasında, | sigortalıdan dolayı 4447 sayılı Kanunun geçici 7 nci maddesinde
+öngörülen teşvikten yersiz yararlanılmış olduğunun tespit edildiği varsayıldığında, yalnızca
+sözkonusu 3 sigortalıdan dolayı. yersiz yararlanılmış olan teşvikler geri alınacaktır.
+
+Dolayısıyla, anılan işverenden, 4857 sayılı Kanunun 30 uncu maddesinin onuncu
+fıkrasında öngörülen teşvikten yersiz yararlanılmış olduğu tespit edilen 2 sigortalı için. 44857
+sayılı Kanun numarası seçilmek suretiyle; 4447 sayılı Kanunun geçici 7 nci maddesinde
+öngörülen teşvikten yersiz yararlanılmış olduğu tespit edilen 1 sigortalı için, 44447 sayılı
+Kanun numarası seçilmek suretiyle düzenlenecek iptal nitelikteki aylık prim ve hizmet
+belgesinin, sözkonusu 3 sigortalı için Kanun numarası seçilmeksizin düzenlenecek olan asıl
+nitelikteki aylık prim ve hizmet belgesinin verilmesi bir ay süreli tebligat ile işverenden
+istenilecek, işverence verilmemesi halinde sözkonusu prim belgeleri Kurumca re'sen
+düzenlenerek muhteviyatı prim tularları gecikme cezası ve gecikme zammı ile birlikte
+ilgililerden tahsil edilecek ve bu borçlar ödemediği sürece prim borcu bulunmaması şartına
+bağlı olan prim teşviklerinden yararlanılması mümkün olamayacaktır.
+
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+DAĞITIM/ ;
+GEREĞİ: BILGİ:
+- Merkez ve taşra teşkilatına, - Çalışma ve Sosyal Güvenlik Bakanlığına,

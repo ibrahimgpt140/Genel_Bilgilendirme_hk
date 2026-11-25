@@ -1,0 +1,140 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/57256
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 
+ADI: YURTDIŞI İLAÇ TIBBİ VE EKONOMİK DEĞERLENDİRME KOMİSYONUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 4d12d85b6b632f8c30ab95f0ed8bef70032caf78bb7125a122d731ff9752342a
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+YURTDIŞI İLAÇ TIBBİ VE EKONOMİK DEĞERLENDİRME KOMİSYONUNUN
+ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
+
+
+Amaç ve Dayanak
+MADDE 1- (1) Bu Yönergenin amacı, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve
+Genel Sağlık Sigortası Kanununun 63 üncü ve 72 nci maddelerine dayanılarak Sağlık
+Hizmetleri Fiyatlandırma Komisyonunun yetkilendirmesiyle oluşturulan Yurtdışı İlaç Tıbbi
+ve Ekonomik Değerlendirme Komisyonunun çalışma usul ve esaslarını belirlemektir.
+
+Tanımlar
+MADDE 2- (1) Bu Yönergede geçen;
+       a) Bilimsel Komisyonlar: Görüş ve önerilerine başvurulmak üzere, akademisyen
+ve/veya ilgili dal uzmanlarından Genel Sağlık Sigortası Genel Müdürlüğünün onayı ile
+oluşturulan komisyonları,
+       b) Birim Fiyat: Bir yurtdışı ilacın tedarikçi temin fiyatının ambalaj miktarına
+bölünmesiyle oluşan fiyatı,
+       c) Gizlilik ve Etik Kurallar Belgesi: Komisyonlara katılacak asil ve yedek üyeler ile
+sekreterya görevini yürüten personel tarafından imzalanacak belgeyi,
+       ç) Hizmet Bedeli: Tedarikçiye, hizmetinin sağlanması karşılığında verilecek bedeli,
+         d) İlaç: Bir hastalığı tedavi etmek ve/veya önlemek, bir teşhis yapmak veya bir
+fizyolojik fonksiyonu düzeltmek, düzenlemek veya değiştirmek amacıyla insana uygulanan
+doğal ve/veya sentetik kaynaklı etkin madde veya maddeler kombinasyonunu, enteral
+beslenme ürünleri ve/veya tıbbi mamaları,
+         e) Komisyon: Yurtdışı İlaç Tıbbi ve Ekonomik Değerlendirme Komisyonunu
+(YİTEDK), yurtdışı ilaçlarla ilgili olarak yapılan başvuruları inceleyip SHFK’ye tavsiye
+kararı ile görüş veren Komisyonu,
+         f) Komisyon Başkanı: Yurtdışı İlaç Tıbbi ve Ekonomik Değerlendirme Komisyonu
+Başkanını,
+         g) Kurum: Sosyal Güvenlik Kurumunu,
+         ğ) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+         h) Liste: SUT ekinde ve/veya Kurum resmi internet sitesinde yayımlanan yurtdışı ilaç
+ile ilgili listeleri,
+         ı) Sağlık Hizmetleri Fiyatlandırma Komisyonu (SHFK): 5510 sayılı Kanunun 72 nci
+maddesi gereğince oluşturulan Komisyonu,
+         i) Sekreterya: Bu Yönergede yer alan komisyonun görev alanına giren konularla ilgili
+sekreterya hizmetini yürüten Yurtdışı İlaç ve Tedavi Hizmetleri Daire Başkanlığının ilgili
+birimlerini,
+         j) SUT: Kurum Sağlık Uygulama Tebliğini,
+          k) Tedarikçi: Kurum ile anlaşmalı, ilaçların yurtdışından getirilmesinden ve hastalara
+ulaştırılmasında yetkili olan taraf ve/veya tarafları,
+         l) Yurtdışı Ödeme Fiyatı: Bir yurtdışı ilacın tedarikçi temin fiyatına hizmet bedeli ve
+Katma Değer Vergisi eklenmesiyle bulunan fiyatı,
+       ifade eder.
+Komisyona Katılacak Temsilciler
+MADDE 3- (1) Yurtdışı İlaç Tıbbi ve Ekonomik Değerlendirme Komisyonu, Genel Sağlık
+Sigortası Genel Müdürü başkanlığında, Yurtdışı İlaç ve Tedavi Hizmetleri Daire Başkanı ile
+Sağlık Bakanlığının, Maliye Bakanlığının, Kalkınma Bakanlığının ve Hazine Müsteşarlığının
+görevlendireceği daire başkanı düzeyinde birer temsilcinin katılımıyla 6 (altı) asil üyeden
+oluşur. Toplantılarda asil üyeler, asil üye ile aynı kurumdan olmak üzere teknik personel
+getirebilirler.
+             (2) Asil üye sayısı kadar ilgili bakanlıklar ve kurum tarafından yedek üyeler de
+belirlenir. Herhangi bir nedenle görevinden ayrılan Komisyon üyelerinin yerine
+görevlendirilenler sekreteryaya bildirilir. Komisyon asil üyelerinin toplantılara katılım
+sağlayamadığı durumlarda yedek üyeler toplantılara katılır. Üyeler ve teknik personel
+dışındaki kişiler toplantılara ancak davet edilmeleri halinde katılabilirler.
+           (3) Komisyon başkanının katılamayacağı toplantılara Genel Sağlık Sigortası
+Genel Müdür Yardımcısı başkanlık eder.
+
+
+Yurtdışı İlaç Tıbbi ve Ekonomik Değerlendirme Komisyonu ve Başkanının Görevleri
+MADDE 4- (1) Komisyonun görevleri şunlardır;
+         a) Listeye alınma talebi ile başvuruda bulunulan ilaçları tıbbi etkinlik ile maliyet
+etkililik açısından değerlendirerek, gerektiğinde bilimsel komisyonun da görüşlerini dikkate
+alıp, görüş oluşturarak SHFK’ye sunmak,
+        b) Başvuru dosyası ile sunulan ve/veya Kurum üyeleri ile diğer üyelerce temin edilen
+literatür ve/veya verileri değerlendirmek,
+        c) Listede bulunan ilaçların gerektiğinde geri ödeme listesinden çıkarılması veya
+pasiflenmesi ile ilgili görüş oluşturarak SHFK’ye sunmak,
+        ç) Listede ilk kez yer alacak ve/veya mevcut ilaçların reçetelenmesine ve ödenmesine
+ilişkin kuralların belirlenmesi konusunda görüş oluşturarak SHFK’ye sunmak,
+       d) Listeye ilave edilmesine karar verilen veya listede mevcut olan ilaçların katkı
+payından muafiyeti konusunu değerlendirerek SHFK’ye sunmak,
+       e) Listede bulunan ilaçların fiyat artışının değerlendirilmesini yapmak.
+             (2) Komisyon Başkanının görevleri şunlardır;
+       a) Komisyon toplantılarının gündemini belirlemek, çalışmaları koordine etmek,
+sekreterya hizmetlerinin yapılmasını sağlamak, komisyonu olağan ve olağanüstü toplantıya
+çağırmak,
+       b) İlaç hakkında yeterli tıbbi ve mali bilgi edinmek amacıyla gerektiğinde ilaç
+firmalarını çağırmak, bilimsel komisyon kurmak ve üyelerini belirleyerek toplantıya
+çağırmak,
+       c) Alınan kararların SHFK üyelerine iletilmesini sağlamak.
+
+
+Komisyonun Çalışma Usul ve Esasları
+MADDE 5- (1) Toplantılara tüm üyelerin katılımı esastır. İlgili kurumlar bu hususu
+sağlamakla yükümlüdürler.
+            (2) Komisyon, Komisyon Başkanının davetiyle yılda en az 2 (iki) defa olmak
+üzere olağan, halk sağlığı ve kamu maliyesi yönünden önem taşıyan ve/veya aciliyet arz eden
+durumlarda ise olağanüstü toplanır.
+                (3) Komisyonun iş ve işleyişi ile ilgili yazışmaları sekreterya tarafından
+yürütülür.
+              (4) Komisyon üye tam sayısının salt çoğunluğuyla toplanır ve üye tam sayısının
+salt çoğunluğu ile görüşe ilişkin karar alır. Toplantılarda çekimser oy kullanılamaz. Oyların
+eşitliği halinde Komisyon Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+Verilen görüşe ilişkin karara muhalif üye/üyeler, görüşe ilişkin kararla ilgili açıklamasını
+yazılı olarak görüşe ilişkin karar tutanağı veya ekinde belirtebilir.
+            (5) Komisyon, Komisyon Başkanının daveti üzerine belirlenen günde toplanır.
+Toplantı gündemi, komisyon sekreteryası tarafından en az 5 (beş) iş günü öncesinden
+komisyon üyelerine iletilir. Komisyonun olağanüstü toplantıya çağırılması durumunda;
+gündem, toplantı gün ve saati, toplantı tarihinden önce ivedilikle üyelere bildirilir.
+           (6) Komisyon öncelikli olarak tedarikçi tarafından sunulan başvuru dosyası ile
+Kurum veya diğer üyeler tarafından temin edilen literatür ve/veya verileri değerlendirir.
+             (7) Komisyon, gerektiğinde yurtiçi veya yurtdışında sağlık ve eczacılık ile beşeri
+ve tıbbi ürünler sektörlerinde faaliyet gösteren firmaların temsilcilerini, görüşlerine
+başvurmak üzere toplantıya davet edebilir veya yazılı görüş isteyebilir. Komisyon çalışmalar
+sırasında gerekli gördüğü bilgi ve belgeleri ilgili taraflardan temin veya talep edebilir.
+                (8) Komisyon gerektiğinde ilaçla ilgili bilimsel komisyon görüşlerine
+başvurabilir.
+             (9) Komisyon toplantısı gündemindeki konular, yapılan değerlendirmeler ve
+oluşturulan görüşler, gerekçeleri ile birlikte ayrıntılı olarak tutanak altına alınır ve imzalanır.
+            (10) Komisyon ilaç hakkında tıbbi ve ekonomik yönden SHFK’ye sunulmak
+üzere görüş oluşturur.
+
+
+Komisyon Çalışmalarının Gizliliği
+MADDE 6- (1) Komisyona katılacak asil üyeler, yedek üyeler ve Sekreterya Kurum
+tarafından hazırlanan gizlilik ve etik kurallar belgesini imzalayarak görevlerine başlarlar.
+
+
+Yürürlük
+MADDE 7- (1) Bu Yönerge, Kurumun resmi internet sayfasında yayımlandığı tarih itibariyle
+yürürlüğe girer.
+
+
+Yürütme
+MADDE 8- (1) Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+
+
+Ek: 1- Gizlilik ve etik kurallar belgesi.
+

@@ -1,0 +1,241 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/139752
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 648963
+ADI: 01/02/2018 TARİHLİ, 648963 SAYILI VE 4A EMEKTAR KONULU GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 3a53d41d8a354a104ed23f76937837865531a1758de955ab4d5245b2f4f35de3
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> mm | ii ize T.C.
+£ SGK SOSYAL GÜVENLİK. KURUMU BAŞKANLIĞI
+Sİ e Emeklilik Hizmetleri Genel Müdürlüğü
+” Sayı : 98547999-010-E.648963 01/02/2018
+Konu : EMEKTAR 4A
+GENEL YAZI
+
+4/1-(a) kapsamındaki sigortalı ve hak sahiplerinin gelir/aylık bağlama işlemlerinin yapıldığı
+COBOL yazılım dili ile çalışmakta olan. programlar 1/2/2018 tarihinden itibaren kullanıcı girişine
+kapatılarak JAVA yazılım diline çevrilen uygulama “EMEKTAR 4A” adıyla Mart/2018 çalışma
+dönemine işlem yapılmak. üzere 5/2/2018 tarihinde kullanıcı girişine açılacaktır.
+
+Söz konusu uygulama “MEYES Tekil Giriş (Single Sign On) Intranet Uygulamaları”
+(SSOM) sistemine “EMEKTAR 4A” adıyla kaydedilmişiir... JJ
+
+Sosyal Güvenlik Kurumu Taşra Teşkilatı Kuruluş ve Çalışma Usul ve Esasları Hakkında
+Yönetmeliğin 23 üncü maddesinde sigortalı tescil ve hizmet servislerinin, 28 inci maddesinde ise
+emeklilik servislerinin görevleri tanımlanmıştır.
+
+Buna göre, sosyal güvenlik ilmerkez omüdürlüklerindeki servis yapılanmasının
+Yönetmelikte sayılan usul ve esaslar doğrultusunda fiili olarak yapılan işler esas alınarak ivedilikle
+yeniden düzenlenmesi, ilgili maddelerde belirtilen görevler için anılan servisler dışında farklı
+adlarla oluşturulmuş olan servislerin (tahsise hazırlık, vergi giriş vb.) kapatılması, “EMEKTAR
+4A” programının açılmasıyla birlikte, sigortalı tescil ve hizmet servislerinin personel yönüyle
+takviye edilmesi gerekmektedir.
+
+“EMEKTAR 4A” programının açılması ile sosyal güvenlik il/merkez müdürlükleri
+tarafından yapılması gereken iş ve işlemler aşağıda açıklanmıştır.
+
+1.Sigortalı Tescil ve Hizmet Servislerince Yapılması Gereken İşlemler
+
+1.1 Kuruma intikal eden gelir/aylık bağlanması talebine ilişkin tahsis talep ve beyan taahhüt
+belgesi sigortalı tescil ve hizmet servislerine iletilecektir.
+
+1.2.Söz konusu tahsis talep ve beyan taahhüt belgesi ilgili servis tarafından incelenerek
+sigortalıya ilişkin tescil ve hizmet kütüklerinde yer alan bilgilerin yer aldığı fiziki ortamda bir
+dosya oluşturulacaktır. ,
+
+1.3. Hizmet bildirme ve birleştirme, aylık bağlanacak statünün tespiti, iptal ipka, tescil ve
+hizmet dökümü ekranındaki belge kodları, sicil ve iş yeri numarası, ad/soyad hatalarının
+düzeltilmesi ve bunların dışındaki tescil ve hizmet kayıtlarında yapılabilecek tüm düzeltmeler
+yapılacaktır.
+
+1.4.Sigortalıya ilişkin tescil ve hizmet kütüklerinde yer alan emekliliğe esas gün sayısı ve
+hizmet bilgileri yürürlükte bulunan mevzuat çerçevesinde güncellendikten sonra sigortalının
+geli/aylığa hak kazanıp kazanmadığı tespit edilecek gelir/aylığa hak kazanan sigortalıların
+Gan imza e mizalanmı
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 SıhhiyefANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 432 10 62
+e-posta: ehgm, hacedbi Gsgk.gov.ir Web: www.sgk.gov.tr
+sm ALS
+LOGO 170)
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+LD —————————————-——
+
+dosyaları fiziki ortamda emeklilik servislerine iletilecek, gelir/aylığa hak kazanamayan sigortalılara
+ise talebin reddedilmesine ilişkin yazılı bilgilendirme yapılacaktır.
+7.Emeklilik Servislerince Yapılması Gereken İşlemler
+
+2.1.İlk Karar Gelir/Aylık Bağlama İşlemleri
+
+2.1.4.Emeklilik servislerine fiziki ortamda gönderilen sigortalı dosyalarına ilişkin gelir/aylık
+bağlama işlemleri programda yer alan kullanım kılavuzunda belirtilen yer alan usul ve esaslar
+doğrultusunda yapılacaktır.
+
+2.1.2. “EMEKTAR. 4A” programı, sigortalının aylık bağlamaya ilişkin tescil ve hizmet
+bilgilerini “SGK Tescil ve Hizmet Dökümü” uygulamasından, gelir bağlamaya ilişkin hizmet ve
+kazanç bilgilerini ise “Aylık Prim ve Hizmet Belgesi” uygulamasından alınan verilere göre
+oluşturmaktadır. -
+
+Bu nedenle, malullük, yaşlılık ve ölüm aylıkları ile sürekli iş göremezlik geliri ve ölüm
+geliri hesabına esas sigortalıya ilişkin belirtilen uygulamalardan alınan bilgilerin programa doğru
+şekilde aktarılıp aktarılmadığına ilişkin kontroller yapılacak, hatalı olduğu tespit edilen tescil ve
+"hizmet bilgilerinin sigortalı tescil ve hizmet servislerince düzeltilmesi sağlanacaktır.
+
+Söz konusu bilgilerin belirtilen uygulamalardan sigortalı tescil ve hizmet servislerince
+düzeltilememesi durumunda programda yer alan “si/ekle/güncelle” ya da “silekle” butonları
+kullanılarak gerekli düzeltmeler yapılacaktır.
+
+2.1.3. Aynı dönem içerisinde sisteme girilen kayıtlar son onay aşamasına kadar
+onaylanmadığı sürece ay sonunda otomatik silinecektir. Silinen bu kayıtlara geliraylık bağlanması
+gerektiğinde sisteme yeniden giriş yapılacaktır. Yine aynı dönem içerisinde sisteme girilen aynı
+sicile ait karşılıklı dosyaların onay işlemlerinde de dosyalardan herhangi biri onaylandığında diğer
+dosyanın da onaylanması sağlanacaktır i
+
+2.1.4. Gelir/aylık bağlama işlemlerine ilişkin tebliğ işlemleri tüm onaylar tamamlandıktan
+sonra yapılacağından sistem onayının tamamlanmasının ardından sigortalı veya hak sahibine
+yapılan işlemler hakkında bilgilendirme yazısı gönderilecektir.
+
+21.55. “EMEKTAR 4A” programı ilk karar modülünden bağlanan ölüm geliyaylığı
+dosyaları gelir/aylık bağlayan ünitede muhafaza edilecek ve Genel Müdürlüğe gönderilmeyecektr.
+
+2.2. İkinci Karar Gelir/Ayhık Bağlama İşlemleri
+
+2.2.1. Gelir/aylık bağlama işlemi tamamlandıktan ve işlem yapılan dönem bittikten sonra
+dosyaya ilişkin ikinci karar işlemleri ilgili modülün programda içinde yer alan kullanım
+kılavuzunda belirtilen usul ve esaslara göre sonuçlandırılacaktır.
+
+2.2.2. Bağlanan yaşlılık ve malullük aylıkları ile sürekli iş göremezlik geliri miktarlarını
+etkileyen gün veya kazanç bilgilerinin düzeltilmesi, gelir/aylığın kesilmesi veya durdurulması vb.
+işlemlerinin yapılması gerektiğinde; işlem yapılan kaydın COBOL yazılımından aktarılması
+halinde aktarılan kayıtların verilerine ilişkin eksik bilgileri tamamlanarak, eksik bilgi yok ise
+mevcut bilgileriyle EMEKTAR 4A programına giriş işlemi yapılacak, ilk defa EMEKTAR 4A
+programına girilenler için ise sistemde kayıtlı bilgilerle gerekli ikinci karar işlemleri yapılacaktır.
+
+2.2.3. “EMEKTAR 44” programından ölüm gelir/aylığı ilk karar modülünden bağlanan
+gelir/aylıkların durum değişikliği hareket bilgileri otomatik olarak sisteme aktarılacağından, SÖZ
+konusu dosyaların ikinci karar işlemleri dosyanın bulunduğu ünite tarafından yapılacaktır.
+
+Ancak, “EMEKTAR 4A” programına COBOL yazılımından aktarılan kayıtların ilk defa bu
+programdan işlem görmesi halinde öncelikle geçmişe yönelik hak sahibi bazında hareket bilgileri
+KS a Kara e li gr ge
+Mitharpaşa Cd. No:7 Sıhhiye/ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 1063 Faks: 0312 43210 62
+e-posta: ehgm hacedb(Ösgk.gov.ir Web: www.sgk.gov.ir
+e SB
+
+LOGO . TIĞI
+
+KAYIT DIŞI ÇALIŞMAYIN
+
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+11 mm
+
+güncellenecek olup, dosyalar işlem yapılmaya hazır hale getirilerek ikinci karar işlemleri
+yapılacaktır.
+
+2.3. Karşılıklı Dosya İşlemleri
+
+231. “EMEKTAR 4A” programı ilk karar modüllerinden aynı sicil altında bağlanan
+yaşlılık/malullük aylığı ve sürekli iş göremezlik geliri karşılıklı dosyaları ile ölüm aylığı ve ölüm
+geliri karşılıklı dosyalarına ilişkin gelir” aylık bağlama işlemleri otomatik yapılabildiğinden,
+“BMEKTAR 4A” programı ilk karar modüllerinden aynı sicil altında bağlanan ölüm aylığı ve
+ölüm geliri karşılıklı dosyaları gelir/aylık bağlayan ünitede muhafaza edilecektir.
+
+i Ancak, aynı sicil altında olan ölüm geliri/aylığı dosyalarından ilki COBOL yazılımından
+bağlanmış ve ikinci dosyası “EMEKTAR 4A” programından bağlanacak ise COBOL yazılımından
+aktarılan dosya güncellenmeden işlem yapılamayacağından, aktarılan dosyanın hareket bilgileri
+Genel Müdürlüğümüzce güncellendikten sonra ikinci dosyanın “BMEKTAR 4A” programından
+girişi yapılarak işlemler sonuçlandırılabilecektir. Ayrıca, aktarılan dosyanın “dosya yeri” alanı
+“EMEKTAR. 4A” programında “ünite bilgi güncelle” modülünden güncellenerek, SÖZ konusu
+dosya güncelleme talebinde bulunan üniteye gönderilecek ve bu dosyaların sonraki tüm işlemleri
+ilgili ünitece sonuçlandırılacaktır.
+
+2.3.2. “EMEKTAR 4A” programında farklı sicil altında karşılıklı dosyası bulunan emekli
+ve hak sahiplerinin geliraylık karşılaştırma işlemleri yapılamadığından, bu kapsama giren
+dosyaların gelir/aylık karşılaştırma işlemleri kullanıcı tarafından manuel yapılarak programdaki
+ilgili modüllerden giriş sağlanacaktır.
+
+“EMEKTAR. 4A” programından girilen ve ikinci dosyası farklı sicil altında olması
+nedeniyle karşılıklı duruma gelen dosyalarda her iki dosyanın işlemleri aynı çalışma döneminde
+olmak kaydıyla dosyaların bulunduğu üniteler tarafından yapılacaktır. SÖZ konusu dosyaların ilki
+GOBOL yazılımından bağlanmış ve ikinci dosyası “EMEKTAR. 4A” programından bağlanacak ise
+COBOL yazılımından aktarılan dosya güncellenmeden işlem yapılamayacağından, aynı çalışma
+
+döneminde olmak kaydıyla aktarılan dosyanın güncelleme işlemleri dosyanın bulunduğu üniteler
+tarafından yapılarak işlemler sonuçlandırılacaktır.
+
+2.3.3. İkiden fazla dosyadan gelir/aylığa hak kazanan emekli ve hak sahiplerinin. karşılıklı
+dosya işlemleri Genel Müdürlükçe yapılacağından gelir/aylığa hak kazanılan 4/1-(a) statüsündeki
+dosyalar Genel Müdürlüğe gönderilecektir.
+
+3. Yetkilendirme İşlemleri
+
+Söz konusu programa, gelir/aylık bağlama işlemi yapmaya MEYES yetkisi bulunan yetkili
+kullanıcılar tarafından “MEYES Tekil Giriş (Single Sign On) Intranet Uygulamaları” (SSOM)
+içerisinde yer alan “EMEKTAR 4A” programından giriş yapılacaktır.
+
+Yetkilendirmeler merkez ve taşra yetkilendirmeleri olmak üzere iki grupta yapılacaktır.
+
+Gelir/aylık bağlama işlemlerinde, memur, şef ve müdür olmak üzere üç adet yetki
+bulunmakta olup, onay işlemleri sadece şef ve müdür tarafından yapılacaktır.
+
+Yetkilendirme işlemleri, emeklilik servisinde geliaylık bağlayan kullanıcılara MEYES
+yetkileri esas alınarak görüntüleme, istatistik, banka değişikliği, memur, şef ve müdür yetkileri
+birim amirlerinin onayı ile verilecektir.
+
+Programa kadro durumuna bakılmaksızın füli olarak görevlendirildiği unvana göre
+yetkilendirme yapılacağından, kullanıcıların fiili olarak görevlendirildiği kadro unvanları (SSOM)
+uygulamasından “Personel Uygulaması”, “Görev Yeri İşlemleri” menüsünden değiştirilebilecektir.
+
+Ayrıca, EMEKTAR 4â programından müdür yetkisi verilen kullanıcılara sosyal güvenlik
+ilmerkez müdürlüğünde sınırlı sayıda olmak üzere mevzuat yetkilisi tarafından yapılacak onay ile
+Bu belge, 5070 sayılı Elekironik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıihhiye/ ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faksı 0312 432 10 62
+e-posta: ebgm hacedbğsek. gov. Web: www.sgk.gov.ir
+LOGO vss T20)
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+D.G İ
+
+mahkeme kararı ve gizli kimlik yetkileri verilecektir.
+
+Sistemin kontrol edilmesi amacıyla kullanıcıların yaptıkları tüm iş ve işlemlerin sistemde
+log kayıtları tutulacaktır.
+
+4. “EMEKTAR 4A” programında rutin işlemlerin dışında günlük, haftalık veya aylık olarak
+yapılması gereken işler “Bekleyen İşlerim” bölümünden takip edilecek olup, listelenen işlerin
+emekli ve hak sahiplerinin mağduriyetine meydan vermemek üzere zamanında sonuçlandırılması
+için gerekli hassasiyet gösterilecektir.
+
+5. Yurt dışı işlemleri
+
+Yurt dışma ilişkin sosyal güvenlik sözleşmeleri ve yurtdışı borçlanma kapsamında
+bağlanacak gelir/aylıklarda yukarıdaki talimatlar do ğrultusunda yürütülecektir.
+Bilgi edinilmesini ve gereğini rica ederim.
+İsmail YILMAZ
+Genel Müdür
+
+DAĞITIM: ,
+
+Gereği:
+
+Merkez ve Taşra Teşkilatına ”
+a İKONİK İmza e imzalanmı
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye. ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+
+Tel: 0312432 1063 Faks: 0312 432 10 62
+e-posta: ehgm, hacedo(Dsgk.gov.İr Web: www.sgk.gov.tr
+ea e İD
+LOGO saz TO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+——  — —— ——— —— meme EEE

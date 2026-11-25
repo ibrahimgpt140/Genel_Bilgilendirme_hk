@@ -1,0 +1,108 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/150625
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4171008
+ADI: YASAL SÜRESİ DIŞINDA DÜZENLENMİŞ APHB'LERİN E-BİLDİRGE V.2 ÜZERİNDEN İNTERNET ORTAMINDAN GÖNDERİLMESİ HAKKINDA 14/03/2019 TARİHLİ VE 4171008 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f442fe0ce61a6db9dfa7fdba2e35ac59b1be4c6554a708172b79a8d882ba16ba
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+
+Sayı o: 99779835-202.99-6.4171008 14/03/2019
+Konu : Yasal süresi dışında düzenlenmiş
+
+APHB/lerin e-Bildirge v.2 üzerinden
+
+internet ortamından gönderilmesi
+
+GENEL YAZI
+Bilindiği üzere, 5510 sayılı Kanunun “Prim belgeleri ve işyeri kayıtları” başlıklı 86
+
+ncı maddesinde;
+
+“Bu Kanunun 4 üncü ve 5 inci maddesine tabi sigortalılar ile sosyal güvenlik destek
+primine tabi sigortalılar için işverenlerce Kuruma verilmesi gereken aylık prim ve hizmet
+belgelerinin şekli, içeriği, ekleri, ilgili olduğu dönemi, verilme süresi ve diğer hususlar
+Kurum tarafından çıkarılan yönetmelikle belirlenir.”
+
+Hükmü yer almaktadır.
+
+Yine Sosyal Sigorta İşlemleri Yönetmeliğinin aylık prim ve hizmet belgesinin
+düzenlenmesi, verilmesi ve saklanmasına ilişkin 102 nci maddesinde,
+
+“Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+sayılanlar için cari aya ilişkin düzenlenecek asıl, ek veya iptal nitelikteki örneği Ek-9'da
+bulunan aylık prim ve hizmet belgesini;
+
+a) Özel nitelikteki işyeri işverenleri, en geç belgenin ilişkin olduğu ayı izleyen ayın
+23'ünde,
+
+b) Resmi nitelikteki işyeri işverenleri ise, en geç belgenin ilişkin olduğu ayı takip eden
+ayın 23'ünde,
+
+c) Bazı özel nitelikteki işyeri işverenleri ayın 15'i ile müteakip ayın 14'ü arasında; bazı
+resmi nitelikteki işyeri işverenleri ise ayın 1'i ile 30'u arasında ücret alan sigortalılar
+çalıştırdığından, bu nitelikteki işyeri işverenlerince;
+
+1) Ayın Wi ile 30'u arasındaki çalışmaları karşılığı ücret alan sigortalılar için en geç
+belgenin ilişkin olduğu ayı izleyen ayın 23'ünde,
+
+2) Ayın 15'i ile müteakip ayın 14'ü arasındaki çalışmaları karşılığı ücret alan
+sigortalılar için en geç belgenin ilişkin olduğu ayı takip eden ayın 23'ünde, saat 23.59'a kadar
+e-Sigorta kanalıyla Kuruma göndermek zorundadırlar.”
+
+Denilmektedir.
+
+Yine, aylık prim ve hizmet belgelerinin yasal süresi içinde verilmemesi halinde, süresi
+dışında düzenlenen belgelerin internet ortamında gönderilmesi mümkün bulunmadığından,
+süresi dışında verilecek aylık prim ve hizmet belgelerinin kağıt ortamında düzenlenerek
+işyerinin bağlı bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine elden
+verilmesi veya posta kanalıyla gönderilmesi gerekmekte idi.
+
+Ancak, işverenlerimizin yasal verilme süresi geçmiş aylık prim ve hizmet belgelerini
+intemet ortamından göndermelerine olanak sağlayacak e-Bildirge v.2 programları
+tamamlanarak Kurumumuz internet sayfasında bulunan “e-SGK-İşveren-e-Bildirge v.2”
+menusu üzerinden işletime alınmış bulunmaktadır.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+
+Bu kapsamda, işverenlerimiz yasal süresi dışında düzenlemiş oldukları aylık prim ve
+hizmet belgelerini kağıt ortamında düzenlemeksizin e-Bildirge v.2 uygulaması üzerinden
+Kurumumuza gönderebileceklerdir.
+
+Söz konusu uygulama 2008/10. Ay aylık prim ve hizmet belgesi ve sonrası dönemlere
+ilişkin olarak kullanılabilecek olup, işverenlerimizce (B)-Yasal Süresi Dışında Verilmiş
+APHB” kodu ile bu kapsamdaki belgelerini gönderebileceklerdir.
+
+İşverenlerimizce sisteme (kaydedilen belgeler gerekli (Oincelemenin yapılarak
+onaylanabilmesi amacıyla işyerinin bağlı bulunduğu sosyal güvenlik il müdürlüğünün/Sosyal
+güvenlik merkezinin onay ekranlarına düşecek ve ilgili ünite tarafından onaylanmasının
+ardından tahakkuk ve hizmet kayıtları oluşacaktır. (B)-Yasal Süresi Dışında Verilmiş APHB”
+kodu ile işverenlerce sisteme kaydedilen belgeler için toplu onay yapılamayacaktır.
+
+Ancak, işverenlerce sisteme yüklenip ünite tarafından denetime gönderilen belgelerin
+tahakkuk kısmı denetime sevkle birlikte oluşacak ve işverenlerce oluşturulan tahakkuk
+ödenebilecek olmakla birlikte bu tür belgelerin hizmet kayıtları denetim neticesine göre
+oluşturulacaktır.
+
+İşverenler sisteme kaydetmiş oldukları belgelerin ne aşamada olduğuna ilişkin bilgiye
+e-Bildirge v.2 ekranlarında bulunan “Şube Onayı Gerektiren Belge Durumları” menüsü
+üzerinden ulaşabileceklerdir.
+
+Ünite tarafından yapılan inceleme neticesinde, işverence sisteme kaydedilen belgenin
+tamamının işleme alınmayacağı yada kısmi olarak işleme alınmaması gereken bir kısmının
+olduğu durumlarda belge ünite personelince reddedilecek, reddedilen belgeler işveren
+ekranlarına düşecek ve işverenlerce sistemden silinebileceği gibi düzeltme yapılmak suretiyle
+(denetim neticesinde işlem yapılan belgeler hariç) tekrar onaylanabilecektir.
+
+Bilgi edinilmesini rica ederim.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.

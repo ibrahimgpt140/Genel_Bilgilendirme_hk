@@ -1,0 +1,105 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/155777
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 15121183
+ADI: 5510/91-1 İNCİ FIKRAYA GÖRE YAPILACAK ERTELEME İŞLEMLERİ İLE TAHAKKUK VE TAHSİLAT SÜRELERİNE İLİŞKİN E- POSTA GÖNDERİLMESİNE YÖNELİK PROGRAM ÇALIŞMALARI HAKKINDA 08/10/2019 TARİHLİ VE 15121183 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 2530fb4a3ab98a7becdbfd0830d3b1aaa5c1b7af892f76ed45e76e4db9fc0427
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Sigorta Primleri Genel Müdürlüğü
+
+
+
+Sayı     : 99779835- 202.99-E.15121183                                                                   08/10/2019
+Konu     : 5510/91-1 inci fıkraya göre yapılacak
+           erteleme işlemleri ile tahakkuk ve
+           tahsilat sürelerine ilişkin e- posta
+           gönderilmesine yönelik program
+           çalışmaları
+
+                                                 GENEL YAZI
+
+       1-İşverenlere Tahakkuk ve Tahsilat Sürelerine İlişkin Elektronik Posta
+Gönderilmesi
+       KKÇ ve İZ olmuş işyerlerinin haricinde, İşverenlerin belge verme süreleri ile tahakkuk
+eden prim borçlarının yasal sürelerini geçirmemeleri amacıyla Kurumumuzda kayıtlı e-Posta
+adreslerine İl Müdürlüklerimizce elektronik posta yoluyla uyarı mesajı gönderilmesine ilişkin
+program çalışmaları tamamlanarak İşveren intra sisteminde “Genel Parametreler başlığının
+altına “İŞVEREN E-POSTA BİLDİRİMİ” menüsü eklenmek suretiyle işletime açılmış
+bulunmaktadır.
+       Söz konusu program vasıtasıyla, tahakkuk ve tahsilata ilişkin e-posta talepleri özel ve
+resmi işyerleri yönüyle ayrı ayrı sisteme kaydedilecek (Muhtasar sistemine geçen iller için
+hatırlatma tipi muhtasar seçilerek de talep girişi yapılacaktır.) ve elektronik postalar talimat
+tarihinden bir önceki gün ilgili sosyal güvenlik merkezinde bulunan ve işyeri tescil
+sisteminde e-Posta adresi dolu olan işverenlere sistem tarafından otomatik olarak
+gönderilecektir. e-Posta adresi boş olan işverenlerden talep edenler olması halinde ise
+konuyla ilgili işyeri tescil ekranlarında gerekli güncelleme işlemlerinin yapılması
+gerekmektedir.
+       Talep girişlerini müteakip,
+       Aylık Prim ve Hizmet Belgeleri ilgili olarak;
+        “……..../……….. ayına ilişkin Aylık Prim ve Hizmet Belgesinin verilme süresi
+…/…/……. tarihinde sona ermektedir. Bu ayda/dönemde sigortalı bildiriminiz yoksa
+yada bildiriminizi yaptıysanız bu uyarıyı dikkate almayınız.” şeklinde bir e-Posta,
+       Muhtasar ve Prim Hizmet Beyannameleri ile ilgili olarak;
+       “……….../……….. ayına ilişkin Muhtasar ve Prim Hizmet Beyannamesinin
+verilme süresi …/…/……. tarihinde sona ermektedir. Bu ayda/dönemde bildiriminizi
+yaptıysanız bu uyarıyı dikkate almayınız.” şeklinde bir e-Posta,
+       Tahakkuk eden prim borçları ile ilgili olarak;
+       “İşyerinizde çalıştırmış olduğunuz sigortalılara ilişkin tahakkuk eden
+………/……….. ayı prim borcunuzun ödeme süresi …/…/……… tarihinde sona
+ermektedir. Bu ayda/dönemde sigortalı bildiriminiz yoksa yada ödemenizi yaptıysanız
+bu uyarıyı dikkate almayınız.” şeklinde bir e-Posta,
+       işverenlerin işyeri tescil sisteminde kayıtlı e-Posta adreslerine gönderilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 06430 Sıhhiye/Ankara                                                   Bilgi için: Niyazi CEYLAN.
+elefon No: 0(312) 458 7131/7128 Faks No: 0(312) 4321237                                                              Şef
+E-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                        Telefon No: 0(312) 458 7131
+0
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                Sigorta Primleri Genel Müdürlüğü
+
+      Diğer taraftan, elektronik posta ile yapılan bilgilendirme işlemlerinin işverenlerin
+sistemde kayıtlı telefon numaralarına kısa mesaj (SMS) ile gönderilmesine olanak sağlayacak
+altyapı çalışmaları da devam etmekte olup, tamamlanmasını müteakip işletime alınacaktır.
+
+      2-5510 sayılı Kanunun 91 inci Maddesinin Birinci Fıkrası Kapsamında Yapılacak
+Erteleme İşlemleri
+      Bilindiği üzere, 5510 sayılı Kanunun 91 inci maddesinin birinci fıkrası kapsamındaki
+ertelemelerin sisteme girilmesine ilişkin işlemler taleplerin Başkanlığımıza iletilmesini
+müteakip Başkanlığımızca yapılmakta idi.
+      Ancak, daha önce 3270 CICS ekranlarında çalışmakta olan erteleme giriş programları
+tamamlanarak “İşveren INTRA” programları üzerinden tüm ünitelerimizin kullanımına
+açılmış bulunmaktadır.
+      Buna göre, borç erteleme işlemlerinin, işveren intra programında mevcut
+"İşveren/Terkin ve Ertelemeler" menüleri seçilmek suretiyle erişilen "Borç Erteleme
+İşlemleri" ekranı vasıtasıyla, yapılması gerekmektedir.
+      Bilgi edinilmesini rica ederim.
+                                                                    Savaş ALIÇ
+                                                                   Genel Müdür V.
+
+
+
+
+Ek: Örnek ekran görüntüsü
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No:7 06430 Sıhhiye/Ankara                                                   Bilgi için: Niyazi CEYLAN.
+elefon No: 0(312) 458 7131/7128 Faks No: 0(312) 4321237                                                              Şef
+E-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                        Telefon No: 0(312) 458 7131
+0
+İşverenlere tahakkuk ve tahsilat sürelerine ilişkin elektronik posta gönderilmesine yönelik program
+çalışmaları ile 5510 sayılı Kanunun 91 inci maddesinin birinci fıkrası kapsamında yapılacak erteleme
+işlemleri ekran görüntüleri.
+

@@ -1,0 +1,64 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/150447
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 360117
+ADI: UYAP-SGK ELEKTRONİK HACİZ İŞLEMLERİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e1387ee92ce828e6033bb1141967d66a6a29a8c5d55c0704e2e2106639385b57
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                 T.C.
+                                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                                    Strateji Geliştirme Başkanlığı
+
+Sayı : B.13.2.SGK.0.65.01.04/20599/360117                                                         21/05/2012
+Konu : UYAP-SGK Elektronik Haciz İşlemleri
+
+                                                     GENEL YAZI
+
+         Bilindiği üzere, sosyal güvenlik kurumları 2006 yılı Mayıs ayından itibaren tek çatı altında
+birleştirilmiş; böylece birden çok kurum tarafından ifa edilen sosyal güvenlik hizmetlerinin tek elden
+yürütülebilmesi imkanı sağlanmış ve aynı konuda standart birliğine ulaşılmıştır.
+         Bu kapsamda, muhasebe hizmetlerinin de tek sistem üzerinden yürütülmesi için 2008 yılı kasım
+ayında başlatılan MOSİP (Mali Yönetim Sistemi Projesi) Sistemi, 2009 yılı Kasım ayında sağlık giderleri,
+2010 yıl başından itibaren de emekli aylıkları hariç diğer giderler, 2010 yılı Temmuz ayında da personel
+aylıklarından yapılan kesinti işlemlerinin de yeni sistem üzerinden yapılmasına başlanmıştır. Yürütülen
+çalışmalar sonucu, emekli aylıkları ile ilgili yazılım çalışmalarına başlanılmış olup, 2011 yılı Mart ayında
+5510 sayılı Kanun’un 4/1-b (Bağkur) kapsamındaki emekli ve hak sahiplerinin, 2012 yılı Şubat ayında da
+4/1-a (SSK) kapsamındaki emekli ve hak sahiplerinin aylıkları ve bu aylıklardan yapılan kesintilerin
+(Sosyal Güvenlik Destek Primi, nafaka, icra, yersiz ödemeler, kömür kesintileri, muayene katılım payı, ilaç
+katılım payı). MOSİP Sistemi üzerinden yapılmasına başlanılmıştır.
+         Emekli ve hak sahiplerinin aylıkları ve kesinti programlarının entegrasyonu ile eş zamanlı olarak
+icra ve nafaka işlemlerinin Adalet Bakanlığı tarafından uygulanmakta olan UYAP (Ulusal Yargı Ağı
+Projesi) Sistemi ile entegre yapılması çalışmalarına da başlanılmıştır.
+         Kurumumuz ile Adalet Bakanlığı arasında yapılan protokol gereği, MOSİP Sistemi ile UYAP
+Sistemi arasında web servis bağlantısı kurulmuş, Kurumumuzdan gelir/aylık alan emekli ve hak
+sahiplerinin kimlik ve maaş bilgilerinin UYAP Sistemi tarafından görülebilmesi sağlanmış olup, icra giriş
+işlemlerinin de icra dairelerinden girilebilmesi için çalışmalar yapılmıştır. Yürütülen çalışmalar sonucu
+Şubat ayında Karabük ilinde pilot uygulama yapılarak olumlu sonuçlar alınmış ve uygulamanın ülke
+düzeyinde yürütülmesinin uygun olacağı değerlendirilerek, icra ve nafaka giriş işlemleri 24.04.2012
+tarihinden itibaren UYAP Sistemi üzerinden yapılmaya başlanmıştır.
+       Bu kapsamda, emekli ve hak sahipleri adına devredilen SSK, devredilen Em-San, devredilen
+Bağ-Kur emekli aylıkları, personel aylıkları, eczane ve hastanelerle ilgili olarak Kurumumuza İcra daireleri
+tarafından yazı gönderilmeyecektir. Belirtilen tarihten önce postaya verilmiş yazıların MOSİP Sistemine
+giriş işlemleri yapılacaktır. Uygulamanın yeni olması nedeniyle icra dairelerinden gelen icra yazıları
+öncelikle MOSİP Sisteminden kontrol edilecek, kayıt olması durumunda giriş işlemi yapılmayacak, kaydın
+olmaması durumunda giriş işlemleri yapılacaktır.
+         Bilgilerini ve gereğini arz/rica ederim.
+
+
+
+                                                                                  Ahmet AÇIKGÖZ
+                                                                              Strateji Geliştirme Başkanı
+
+DAĞITIM
+Emeklilik Hizmetleri Genel Müdürlüğü
+Genel Sağlık Sigortası Genel Müdürlüğü
+Hizmet Sunumu Genel Müdürlüğü
+Sosyal Güvenlik İl Müdürlüklerine
+
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Ziyabey Cad. No:6 06520 Balgat/ANKARA                                        Ayrıntılı bilgi için irtibat: O. DİŞLİKAYA Şb. Md.
+Tel: (312) 207 82 93 Faks: (312) 207 81 46                    e-posta:odıslıkaya@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+

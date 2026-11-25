@@ -1,0 +1,540 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/153072
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 9109821
+ADI: 4/A KAPSAMINDA GELİR AYLIK ALANLARIN BİRİKMİŞ ÖDEMELERİNİN GÜNLÜK ÖDEMESİ HAKKINDA 24.06.2019 TARİHLİ VE 9109821 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: c81f62d3a103ffeb55a3e93ba8cbdd2103db97e193ce9cc14521e5ff0bd97431
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sayı o: 98547999-010.99-E.9109821 24/06/2019
+Konu : 4/A Kapsamında Gelir/Aylık
+
+Alanların Birikmiş Ödemelerinin
+
+Günlük Ödemesi
+
+GENEL YAZI
+
+Bilindiği üzere, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4
+üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılar ile bunların hak
+sahiplerinin gelir/aylıkları Emektar 4A programından bağlanmakta, bağlanan gelir/aylıklar ve
+geçmişe dönük hesaplanan perakende birikmiş ödemeler işlem yapılan tarihi takip eden ayda
+tahsis numarasının son rakamına göre belirlenen ödeme gününde Mosip programı üzerinden
+ilgili bankalara gönderilmektedir.
+
+Diğer taraftan, 4/1-(a) kapsamındaki sigortalı ve hak sahiplerinin sürekli iş göremezlik
+geliri, malullük, yaşlılık, ölüm aylığı ve ölüm geliri ilk karar ve ikinci karar işlemleri
+nedeniyle hak etmiş oldukları perakende birikmiş tutarları ödeme dönemi beklenmeden
+alabilmelerine yönelik çalışmalar tamamlanmış olup, günlük ödeme uygulamasına
+2019/Ağustos çalışma dönemi itibariyle başlanacaktır.
+
+Günlük ödeme uygulamasına geçilmesi nedeniyle iş ve işlemlerin sağlıklı
+yürütülebilmesi, sigortalı ve hak sahiplerinin mağduriyet yaşamaması için tahsis servislerince
+ve takip birimlerince gerekli önlemlerin alınması büyük önem arz etmektedir.
+
+Günlük ödeme kapsamında yapılacak işlemlere ilişkin süreç aşağıda açıklanmıştır.
+
+1- Emektar 4A programında ilk ve ikinci karar işlemlerinde şef ve müdür onayı
+tamamlanan kayıtlar günlük olarak saat 16.30'da Emektar 4A sisteminden Mosip sistemine
+aktarılacağından hatalı işlem yapıldığı tespit edilen aylıkların mutlaka gün içinde saat 16.30'a
+kadar düzeltilmesi gerekmektedir.
+
+2- İlk ve ikinci karar işlemi yapılarak günlük ödeme işlemi tamamlanan kayıtlar için
+aynı çalışma döneminde tekrar düzeltme işlemi yapılamayacaktır. Aynı dönemde düzeltme
+işlemi yapılabilmesine yönelik yazılım tamamlanana kadar şimdilik bir sonraki çalışma
+döneminde ikinci karar işlemi yapılmak suretiyle yeni işleme ilişkin düzeltmeler
+sonuçlandırılacaktır.
+
+3- Günlük ödeme işlemleri sırasında yersiz ödeme çıkan kayıtların borç/alacak
+mahsup işlemleri Mosip sistemi tarafından yapılacaktır. Aynı sicil altında karşılıklı dosyası
+bulunan kayıtların borç/alacak mahsup işlemlerinin Mosip sisteminde sağlıklı yapılabilmesi
+için her iki dosyanın işlemlerinin mutlaka aynı gün içerisinde sisteme girilerek onaylarının
+tamamlanması, farklı sicil altında olan veya farklı statüde olan kayıtlardan, öncelikle yersiz
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+1
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+ödeme çıkacak kaydın sisteme girilerek onaylarının tamamlanması gerekmektedir. Aksi
+durumda borç/alacak mahsubu yapılmadan alacak gönderilmesi, çıkan yersiz ödemenin
+tahsilinde sıkıntılar yaşanmasına sebep olacağından bu hususa dikkat edilmesi gerekmektedir.
+
+4- Emektar 4A programında sisteme girilen her kayıt için borç çıkma ihtimaline karşı
+borcun açıklaması ve borcun tespit edilme şekli mutlaka girilecektir. "Borcun Tespit Edilme
+Şekli" alanında seçim yapılırken Kapsam 4A programından alınan listelere istinaden ikinci
+karar işlemi yapılması sırasında yersiz ödeme çıkmış ise "Kurum Kontrol Uygulamaları",
+rutin işlemler sırasında ikinci karar işlemlerinden dolayı yersiz ödeme çıkmış ise "Harcama
+Birimi İşlemleri", diğer işlemler için ise uygun seçenek seçilerek işlemler
+sonuçlandırılacaktır (Ek:1).
+
+5- Emektar 4A programından Mosip sistemine günün sonunda aktarılan kayıtlara
+ilişkin yersiz ödemelerin borç onay işlemleri Mosip sistemi tarafından otomatik
+yapılacağından ve bunlara ilişkin takip birimlerine gönderilecek tüm belgeler Mosip
+sisteminde otomatik oluşturulacağından, Emektar 4A programından takip birimlerine
+gönderilecek borçlarla ilgili herhangi bir belge düzenlenmeyecek olup, alacak takip
+dosyasında yer alan belgelere ait bilgiler kaynak programdan eklenip Mosip sistemi
+üzerinden gönderilecektir.
+
+6- Günlük ödeme işlemlerine başlandığı tarihten itibaren 4/1-(a) kapsamında
+gelir/aylık alanlara çıkarılan yersiz ödemelerin takibi, dosyası ünitede bulunanlar için
+dosyanın bulunduğu ildeki takip birimi tarafından, dosyası Genel Müdürlükte olanların ise
+dosyanın devredileceği takip birimi tarafından yapılacaktır. Günlük ödeme işlemlerinden
+doğan yersiz ödemeler hiçbir şekilde sigortalının veya hak sahibinin ikamet ettiği takip
+birimine gönderilmeyecektir.
+
+4/1<(a) kapsamında gelir/aylık alanların günlük ödeme işlemlerinden önce sigortalı
+veya hak sahibinin ikametine veya bankasının bulunduğu takip birimine gönderilen yersiz
+ödemelerin takibi halihazırda yersiz ödemenin gönderildiği takip birimi aracılığıyla
+yapılmaya devam edilecektir.
+
+7- Emektar 4A programında herhangi bir nedenle gelir/aylık kesme işlemi yapılacak
+sigortalı ve hak sahiplerinin bankaya yersiz olarak gönderildiği tespit edilen gelir/aylıklarının
+bankadan iadesi beklenmeden bankadan iade gelmemiş gibi işlemleri sonuçlandırılacaktır.
+
+Diğer taraftan, bankadan iade gelen kayıtlar harcama birimlerine otomatik olarak
+görev atandığından bu kayıtların harcama birimlerince incelenerek günlük olarak takip
+edilmesi, kişiye ait borç varsa mahsup işlemlerinin, borç yok ise iadeye ilişkin ödeme
+işlemlerinin yapılması gerekmektedir.
+
+Yersiz ödemelerin bankadan iade gelmeden sigortalı ve hak sahiplerinin diğer
+alacaklarından tahsil edilmesi durumunda bankadan gelen iade tutarları Mosip sisteminden
+diğer hak sahiplerine ödenecek, yersiz kesilen faiz tutarı var ise bu tutarın terkini yine Mosip
+sisteminden yapılacaktır.
+
+Gelir/aylığın yersiz olarak tahsil edilmesi nedeniyle iade gelmemesi halinde yersiz
+ödeme tutarı genel hükümlere göre tahsil edilmek üzere takip birimlerince ilgili hukuk
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+2
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+birimine gönderilecektir.
+
+Ayrıca, takip birimlerinde tahsil edilemeyip genel hükümlere göre tahsiline gidilecek
+kayıtların hukuk birimlerine gönderilme aşamasında Mosip sistemi tarafından kişiye ait
+emanette bir tutarın olup olmadığının sorgusu yapıldıktan sonra gönderilecektir.
+
+Öte yandan, günlük ödeme işlemleri sırasında Mosip sistemine otomatik oluşturulan
+yersiz ödemeler gerekli görülmediği sürece terkin edilmeyecektir.
+
+Günlük ödeme işlemleri sırasında herhangi bir mağduriyete neden olmamak üzere
+gerek takip gerekse harcama birimlerinin görev alanlarına giren konularda Mosip sisteminde
+yapılması gereken takip ve kontrollerin zamanında ve aksatılmadan yapılması hususuna
+hassasiyet gösterilecektir.
+
+8- Günlük ödemelerde, sigortalı ve hak sahiplerine genel bilgilendirme Emektar 4A
+sisteminden alınacak olan bilgi mektubu ile yapılacaktır. Ayrıca Mosip sisteminden günlük
+ödeme tutarı bankaya gönderildiğinde ilgililere Mosip sistemi tarafından Kurumsal "Sms
+Portal"ında kayıtlı GSM numarasına SMS yoluyla bilgilendirme yapılacağından sigortalı ve
+hak sahiplerinin taleplerinde bildirdikleri GSM numaraları; “MEYES Tekil Giriş (Single
+Sign On) Intranet Uygulamaları” (SSOM) sisteminde yer alan "SmsPortal", "Gsm No Giriş"
+menüsünden güncelenecektir.
+
+9- Gelir/aylık bağlanacak sigortalı veya hak sahiplerinin perakende ödeme tutarlarının
+birden fazla dönemi kapsaması halinde günlük ödeme olarak gönderilen tutarların sigortalı ve
+hak sahibi tarafından hak kazanılan tutar olması esasına riayet edilerek ödemeler en fazla iki
+kısımda ödenecektir.
+
+Birinci kısım ödemede, işlem yapılan tarihe kadar hak kazanılan gelir/aylıklar, ikinci
+kısım ödemede ise işlem yapılan tarihi takip eden ödeme dönemi ile çalışma dönemine kadar
+olan gelir/aylıklar günlük ödeme olarak sigortalı veya hak sahibi adına ilgili bankaya
+gönderilecektir.
+
+Gelir/aylık başlama tarihinin işlem yapılan tarihten sonra olması halinde
+gelir/aylıkların perakende ödeme tutarları ise hak kazanıldığı tarihten itibaren gönderilecektir.
+
+10- Günlük ödeme kapsamında yapılacak ödemeler Mosip sistemine aktarılmadan
+önce ödeme gönderilecek sigortalı ve hak sahiplerin ölü/sağ kontrolü sistem tarafından
+otomatik yapılacaktır.
+
+11- Günlük ödeme kapsamında ilk karar işlemlerinden dolayı sigortalı ve hak
+sahiplerine gönderilecek perakende ödeme tutarları yalnızca merkezi ödeme yapan bankalara
+(Ek:2), ikinci karar işlemlerinde ise sigortalı ve hak sahiplerine maaş ödemesi yapılan
+bankanın merkezi ödeme kapsamında olması durumunda maaş aldıkları bankaya, maaş
+ödemesi yapan bankanın merkezi ödeme kapsamında olmaması durumunda da Ziraat
+Bankasına gönderilecektir.
+
+12- Evlenmeleri nedeniyle evlenme ödeneği talebinde bulunan hak sahibi kız
+çocuklarının evlenme ödenekleri, hak sahibinin gelir/aylık aldığı banka merkezi ödeme yapan
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+Bİ
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+banka ise kendi gelir/aylık aldığı bankadan, değilse Ziraat Bankası aracılığıyla merkezi
+ödeme kapsamında günlük olarak ödenecektir.
+
+13- 4/1-(a) kapsamındaki sigortalı veya hak sahiplerine ödenecek ölüm ve yaşlılık
+toptan ödeme tutarları "http://net.sgk.intra" adresinde kayıtlı "Toptan Ödeme Programı"
+Emektar 4A programına entegre oluncaya kadar ay içerisinde işlemi tamamlanan tüm toptan
+ödeme kayıtları sistemde bekletilerek çalışma dönemi kapandıktan sonraki ilk ödeme
+gününde Ziraat Bankası aracılığıyla merkezi ödeme kapsamında ödenecektir.
+
+14- 4/1-(a) kapsamındaki sigortalı ve hak sahiplerinden gelir/aylık bağlama işlemleri
+tamamlanmadan veya gelir/aylık bağlandıktan sonra vefat eden ve vefat etmeden önceki
+sürelere ilişkin birikmiş alacakları bulunanların sağlığında hak edip de alamadıkları tutarların
+varislerine ödenmesi işlemleri dosyanın bulunduğu sosyal güvenlik il müdürlüğü/sosyal
+merkezi tarafından Mosip sisteminden yapılacaktır.
+
+Günlük ödeme uygulamasından önceki dönemlerde vefat edenlerin sağlığında hak
+edip de alamadıkları ve Mosip sistemine aktarılmayan gelir/aylık veya birikmiş fark
+ödemelerinin varislere ödenmesi işlemleri verese ödemesine ilişkin belgelerin varislerden
+temin edilerek gönderilmesi halinde merkezde yapılacaktır.
+
+15- Yapılacak ödemelere ilişkin örnekler aşağıdadır.
+
+Örnek 1: Sigortalı 3/4/2019 tarihinde yaşlılık aylığı talebinde bulunmuş olup, tarafına
+1/5/2019 tarihi itibariyle yaşlılık aylığı bağlanacaktır. Emektar 4A çalışma dönemi
+Ağustos/20109, tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 10/7/2019 tarihinde bağlanan aylığın tüm onay işlemleri
+12/7/2019 tarihinde tamamlanmıştır. Sigortalının işlemleri tahsis numarasının son rakamına
+göre belirlenen ödeme gününden önce yapıldığından günlük ödeme olarak gönderilen
+birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- 12/7/2019 tarihinde, 1/5/2019-16/7/2019 süresi için hesaplanan birinci kısım ödeme
+günlük ödeme olarak Mosip sistemine aktarılacak, birinci kısım ödeme 12/7/2019 tarihinden
+sonra,
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme tahsis numarasına
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde ödenmek üzere Mosip sistemine aktarılacak, ikinci kısım ödeme 17/7/2019
+tarihinde,
+
+ödenmek üzere bankaya gönderilecektir.
+
+- Sigortalının 2019 Ağustos dönem aylığı ise 17/8/2019 tarihinde ödenecektir.
+
+Örnek 2: Sigortalı 8/3/2019 tarihinde yaşlılık aylığı talebinde bulunmuş olup, tarafına
+1/4/2019 tarihi itibariyle yaşlılık aylığı bağlanacaktır. Emektar 4A çalışma dönemi
+Ağustos/20109, tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 20/7/2019 tarihinde bağlanan aylığın tüm onay işlemleri
+21/7/2019 tarihinde tamamlanmıştır. Sigortalının işlemleri tahsis numarasının son rakamına
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+4
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+göre belirlenen ödeme gününden sonra yapıldığından 1/4/2019-16/8/2019 süresine ait
+birikmiş ödeme tutarı günlük ödeme olarak tek seferde ödenecektir.
+
+- 21/7/2019 tarihinde, 1/4/2019-16/8/2019 süresi için hesaplanan ödeme tutarı günlük
+ödeme olarak Mosip sistemine aktarılacak, söz konusu ödeme 21/7/2019 tarihinden sonra
+ödenmek üzere bankaya gönderilecektir.
+
+- Sigortalının 2019 Ağustos dönem aylığı ise 17/8/2019 tarihinde ödenecektir.
+
+Örnek 3: Sigortalı 8/7/2019 tarihinde yaşlılık aylığı talebinde bulunmuş olup, tarafına
+1/8/2019 tarihi itibariyle yaşlılık aylığı bağlanacaktır. Emektar 4A çalışma dönemi
+Ağustos/20109, tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 15/7/2019 tarihinde bağlanan aylığın tüm onay işlemleri
+16/7/2019 tarihinde tamamlanmıştır. İşlem yapılan tarihte sigortalı aylığa hak
+kazanamadığından ödeme tutarı 1/8/2019 tarihine kadar bekletilerek hak kazanıldığı tarihten,
+
+- 1/8/2019 tarihinde 1/8/2019-16/8/2019 süresi için hesaplanan ödeme tutarı günlük
+ödeme olarak Mosip sistemine aktarılacak, söz konusu ödeme 1/8/2019 tarihinden,
+
+sonra ödenmek üzere bankaya gönderilecektir.
+
+- Sigortalının 2019 Ağustos dönem aylığı ise 17/8/2019 tarihinde ödenecektir.
+
+Örnek 4: Sigortalıya 1/4/2014 tarihinde yaşlılık aylığı bağlanmış ancak
+hizmetlerindeki değişiklik nedeniyle 1/4/2014 tarihi itibariyle ödenen aylıklarında artış
+meydana geldiğinden yaşlılık aylığı başlangıç tarihi itibariyle yeniden hesaplanacaktır.
+Emektar 4A çalışma dönemi Ağustos/2019, tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 5/7/2019 tarihinde ikinci karar işlemi yapılan aylığın tüm onay
+işlemleri 7/7/2019 tarihinde tamamlanmıştır. Sigortalının işlemleri tahsis numarasının son
+rakamına göre belirlenen ödeme gününden önce yapıldığından günlük ödeme olarak
+gönderilen birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- WT2019 tarihinde, 1/4/2014-16/7/2019 süresi için hesaplanan birinci kısım ödeme
+günlük ödeme olarak Mosip sistemine aktarılacak, birinci kısım ödeme 7/7/2019 tarihinden
+sonra,
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme tahsis numarasına
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde ödenmek üzere Mosip sistemine aktarılacak, ikinci kısım ödeme 17/7/2019
+tarihinde,
+
+ödenmek üzere bankaya gönderilecektir.
+
+- Sigortalının 2019 Ağustos dönem aylığı ise yeni hesaplanan aylık tutarı esas alınarak
+ödenecektir.
+
+Örnek 5: Sigortalıya 15/8/2015 tarihinde yaşlılık aylığı bağlanmış ancak
+hizmetlerindeki değişiklik nedeniyle 15/8/2015 tarihi itibariyle ödenen aylıklarında azalma
+meydana geldiğinden yaşlılık aylığı başlangıç tarihi itibariyle yeniden hesaplanacaktır.
+Emektar 4A çalışma dönemi Ağustos/2019, tahsis numarasının son rakamı (9)'dur.
+Sigortalıya 15/8/2015-16/8/2019 süresi geçmişe dönük yersiz ödeme hesaplanacaktır.
+
+Emektar 4A sisteminde 25/7/2019 tarihinde bağlanan aylığın tüm onay işlemleri
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+b
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+25/7/2019 tarihinde tamamlanmıştır.
+
+- 25/7/2019 tarihinde, 15/8/2015-16/8/2019 süresi yersiz ödeme tutarı 25/7/2019
+tarihininde Mosip sistemine aktarılacaktır.
+
+- Sigortalının 2019 Ağustos dönem aylığı ise yeni hesaplanan aylık tutarı esas alınarak
+ödenecektir.
+
+Örnek 6: Sigortalı 1/8/2018 tarihinden itibaren sürekli iş göremezlik geliri almakta
+iken 3/6/2019 tarihinde yaşlılık aylığı talebinde bulunmuş olup, sigortalıya 1/7/2019 tarihi
+itibariyle yaşlılık aylığı tamdan bağlanacaktır. Emektar 4A çalışma dönemi Ağustos/2019,
+tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 14/7/2019 tarihinde bağlanan yaşlılık aylığının tüm onay
+işlemleri 14/7/2019 tarihinde tamamlanmıştır. Sigortalının işlemleri tahsis numarasının son
+rakamına göre belirlenen ödeme gününden önce yapıldığından günlük ödeme olarak
+gönderilen birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- 14/7/2019 tarihinde bağlanan yaşlılık aylığının 1/7/2019-16/7/2019 süresi için
+hesaplanan birinci kısım ödeme tutarı günlük ödeme olarak, sürekli iş göremezlik gelirinin
+Emektar 4A programı tarafından hesaplanan 1/7/2019-16/8/2019 süresi yarıya indirilme
+borcu yersiz ödeme olarak ve borç nedeni belirtilerek (Borç nedeni: Karşılıklı dosya olması
+nedeniyle gelir/aylıktaki tam/yarım durumunun değişmesi) 14/7/2019 tarihinde Mosip
+sistemine aktarılacaktır.
+
+- Mesip sisteminde borç onayı otomatik yapıldıktan sonra günlük ödeme olarak
+gönderilen tutara otomatik mahsup edilerek kalan tutar var ise bu tutar 14/7/2019 tarihinden
+sonra,
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme tahsis numarasına
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde Mosip sistemine aktarılacak olup, sigortalının Mosip sisteminde gelirin yarıya
+indirilmesinden dolayı birinci kısım ödemeden borcu kalmış ise öncelikle borcun mahsubu
+yapılacak, borç yok ise ikinci kısım ödemenin tamamı 17/7/2019 tarihinde,
+
+ödenmek üzere bankaya gönderilecektir.
+
+- 2019 Ağustos döneminde (17/8/2019 tarihinde) sigortalının yaşlılık aylığı tamdan,
+sürekli iş göremezlik geliri ise yarımdan ödenecektir.
+
+Örnek 7: Sigortalının 8/6/2019 tarihinde vefatı nedeniyle hak sahipleri 10/7/2019
+tarihinde ölüm aylığı talebinde bulunmuş olup, hak sahiplerine 1/7/2019 tarihi itibariyle ölüm
+aylığı bağlanacaktır. Emektar 4A çalışma dönemi Ağustos/2019, tahsis numarasının son
+rakamı (9)'dur.
+
+Emektar 4A sisteminde 18/7/2019 tarihinde bağlanan aylığın tüm onay işlemleri
+19/7/2019 tarihinde tamamlanmıştır. Hak sahibinin işlemleri tahsis numarasının son rakamına
+göre belirlenen ödeme gününden sonra yapıldığından günlük ödeme olarak gönderilen
+birikmiş ödeme tutarı tek seferde ödenecektir.
+
+- 19/7/2019 tarihinde, hak sahiplerinin 1/7/2019-16/8/2019 süresi için hesaplanan
+ödeme tutarı 19/7/2019 tarihinde günlük ödeme olarak Mosip sistemine aktarılacak, söz
+konusu ödeme 19/7/2019 tarihinden sonra ödenmek üzere bankaya gönderilecektir.
+
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+6
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+
+- Hak sahiplerinin 2019 Ağustos dönem aylığı 17/8/2019 tarihinde ödenecektir.
+
+Örnek 8: Sigortalının 8/5/2010 tarihinde vefatı nedeniyle 1 eş ve 3 öz çocuğa aylık
+ödenmekte iken çocuklardan birisinin aylıkları 15/12/2018 tarihinde 25 yaşını doldurması
+nedeniyle durdurulmuş olup, hak sahiplerinin hisseleri 17/12/2018 tarihinden itibaren yeni
+hisselerine yükseltilecektir. Emektar 4A çalışma dönemi Ağustos/2019, tahsis numarasının
+son rakamı (9)'dur.
+
+Emektar 4A sisteminde 4/7/2019 tarihinde ikinci karar işlemi yapılan aylığın tüm onay
+işlemleri 5/7/2019 tarihinde tamamlanmıştır. Hak sahiplerinin işlemleri tahsis numarasının
+son rakamına göre belirlenen ödeme gününden önce yapıldığından günlük ödeme olarak
+gönderilen birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- 5/7/2019 tarihinde, 17/12/2018-16/7/2019 süresinde her hak sahibi için hesaplanan
+birinci kısım ödeme günlük ödeme olarak Mosip sistemine aktarılacak, birinci kısım ödeme
+5/7/2019 tarihinden sonra,
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme tahsis numarasına
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde ödenmek üzere Mosip sistemine aktarılacak, ikinci kısım ödeme 17/7/2019
+tarihinde,
+
+ödenmek üzere bankaya gönderilecektir.
+
+- Hak sahiplerinin 2019Ağustos dönem aylıkları ise yeni hisseleri üzerinden
+ödenecektir.
+
+Örnek 9: Sigortalının 18/3/2011 tarihinde vefatı nedeniyle hak sahiplerine aylık
+bağlanmış olup, 1 eş - 2 öz çocuğa aylık ödenmekte iken çocuklardan birisinin 10/1/2019
+tarihinde işe girmesi nedeniyle aylıkları kesilerek diğer hak sahiplerinin hisseleri 17/1/2019
+tarihinden itibaren yeni hisselerine yükseltilecektir. Emektar 4A çalışma dönemi
+Ağustos/2019, tahsis numarasının son rakamı (9)'dur. Aylığı kesilmesi gereken hak sahibinin
+aylıkları sistem tarafından 2019/Şubat ödeme dönemi itibariyle durdurulmuştur.
+
+Emektar 4A sisteminde 7/7/2019 tarihinde ikinci karar yapılan aylığın tüm onay
+işlemleri 8/7/2019 tarihinde tamamlanmıştır. Hak sahiplerinin işlemleri tahsis numarasının
+son rakamına göre belirlenen ödeme gününden önce yapıldığından günlük ödeme olarak
+gönderilen birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- 8/7/2019 tarihinde, 17/1/2019-16/7/2019 süresince her hak sahibi için hesaplanan
+birinci kısım ödeme günlük ödeme olarak Mosip sistemine aktarılacak, Mosip sistemi birinci
+kısım ödemeyi 8/7/2019 tarihinden sonra ödenmek üzere bankaya gönderecektir. Emektar 4A
+programında aylığı kesilen hak sahibinin bankaya yersiz olarak gönderildiği tespit edilen
+2019/Ocak aylığının bankadan iadesi beklenmeden işlemleri sonuçlandırıldığından yersiz
+olarak bankaya gönderilen aylık için borç kaydı Mosip sistemine aktarılacaktır.
+
+Yersiz olarak bankaya gönderilen gelir/aylık tutarlarının bankadan iade edilip
+edilmediği kullanıcı tarafından takip edilecek, gelen iade tutarı Mosip sisteminde otomatik
+oluşturulan borcun devam etmesi halinde borca mahsup edilerek kalan tutar gelir
+kaydedilecektir. Gelir/aylığın yersiz olarak tahsil edilmesi nedeniyle iade gelmemesi halinde
+yersiz ödeme tutarı genel usullere göre tahsil edilecektir.
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme tahsis numarasına
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+7
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde ödenmek üzere Mosip sistemine aktarılacak, ikinci kısım ödeme 17/7/2019
+tarihinde ödenmek üzere bankaya gönderilecektir.
+
+- Hak sahiplerinin 2019 Ağustos dönem aylığı ise yeni hisseleri üzerinden ödenecektir.
+
+Örnek 10: Sigortalının 25/8/2009 tarihinde vefatı nedeniyle hak sahiplerine ölüm
+aylığı ve geliri bağlanmış olup, 1 eş- 1 öz ve Il üvey çocuğa gelir/aylık ödenmekte iken
+gelir/aylık almaya hak kazanan ve 14/2/2019 tarihinde talepte bulunan babaya 15/2/2019
+itibariyle gelir/aylık bağlanacak, diğer hak sahiplerinin hisseleri 17/2/2019 tarihinden itibaren
+yeni hisselerine düzeltilecektir. Emektar 4A çalışma dönemi Ağustos/2019, her iki
+dosyanında tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 12/7/2019 tarihinde her iki dosyadan yapılan ikinci karar
+işlemlerinin tüm onayları 12/7/2019 tarihinde tamamlanmıştır. Hak sahiplerinin işlemleri
+tahsis numarasının son rakamına göre belirlenen ödeme gününden önce yapıldığından günlük
+ödeme olarak gönderilen birikmiş ödeme tutarı iki kısıma ayrılarak ödenecektir.
+
+- 12/7/2019 tarihinde, hak sahibi babanın 15/2/2019-16/7/2019 süresinde hesaplanan
+birinci kısım ödemesi günlük ödeme olarak Mosip sistemine aktarılacak, gelir/aylık ödenen
+diğer hak sahiplerinin hak sahibi babaya gelir/aylık bağlanmasından kaynaklanan
+15/2/2019-16/7/2019 süresi gelir/aylık tutarına ilişkin borcu yersiz ödeme olarak ve borç
+nedeni belirtilerek 12/7/2019 tarihinde Mosip sistemine aktarılacak, Mosip sisteminde borç
+onayı otomatik yapıldıktan sonra hak sahibinin muvaffakatı var ise babanın günlük ödeme
+olarak gönderilen gelir/aylık tutarına otomatik mahsup edilerek kalan tutar var ise hak sahibi
+baba adına 12/7/2019 tarihinden sonra,
+
+- 17/7/2019-16/8/2019 süresi için hesaplanan ikinci kısım ödeme ise tahsis numarasına
+göre belirlenen ödeme gününe kadar sistem tarafından bekletilecek ve ödeme günü
+geldiğinde ödenmek üzere Mosip sistemine aktarılacak, gelir/aylık ödenen diğer hak
+sahiplerinin hak sahibi babaya gelir/aylık bağlanmasından kaynaklanan borcu kalmış ise
+öncelikle birinci kısım ödemeden kalan borcun mahsubu yapılacak borç yok ise ikinci kısım
+ödemenin tamamı hak sahibi baba adına 17/7/2019 tarihinde,
+
+ödenmek üzere bankaya gönderilecektir.
+
+- 2019 Ağustos dönem aylığı hak sahibi baba ile daha önce gelir/aylık ödenen hak
+sahiplerinin gelir/aylıkları yeni hisseleri üzerinden 17/8/2019 tarihinde ödenecektir.
+
+Örnek 11: Babasından dolayı ölüm aylığı almakta olan hak sahibi kız çocuğu
+8/5/2019 tarihinde evlenmiş ve evlenme ödeneği talebinde bulunmuştur. Emektar 4A çalışma
+dönemi Ağustos/2019, tahsis numarasının son rakamı (9)'dur.
+
+Emektar 4A sisteminde 5/7/2019 tarihinde evlenme ödeneğinin sisteme giriş işlemleri
+yapılmış tüm onay işlemleri 6/7/2019 tarihinde tamamlanmıştır.
+
+6/7/2019 tarihinde, 17/05/2019-16/05/2021 süresi için hesaplanan ödeme tutarı günlük
+ödeme olarak Mosip sistemine aktarılacak, söz konusu ödeme 6/7/2019 tarihinden sonra
+ödenmek üzere bankaya gönderilecektir.
+
+Örnek 12: Sigortalı 12/7/2019 tarihinde yaşlılık toptan ödemesi talebinde
+p Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+8
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+bulunmuştur. Emektar 4A çalışma dönemi Ağustos/2019'dur.
+
+Toptan ödeme programında 18/7/2019 tarihinde giriş işlemleri tamamlanmıştır.
+
+Söz konusu toptan ödeme tutarı, Ağustos/2019 çalışma döneminin kapanacağı
+31/7/2019 tarihine kadar ödenemeyecek olup, 4/A ödeme sistemi yeni çalışma dönemine
+(Eylül/2019) açıldıktan sonra ilk defa günlük ödeme yapılan günde Mosip sistemine
+aktarılacak, söz konusu ödeme merkezi ödeme kapsamında sigortalıya ödenmek üzere
+bankaya gönderilecektir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+
+Ekler:
+
+1- Yersiz Ödeme Nedenleri
+
+2 - Merkezi Ödeme Yapan Bankaların Listesi
+
+3- Gelir/Aylık Ödemesi Yapan Tüm Bankaların Listesi
+
+4- Mosipten Otomatik İade İstenilebilen Bankaların Listesi
+DAĞITIM:
+Gereği:
+Merkez ve Taşra Teşkilatına
+”n Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Nevin ÖZGÜL
+Telefon No: 0 312458 72 85 Faks No: 0312 432 1062 Daire Başkanı
+E-Posta: ehem bhacedb(dsgk.gov.ir İnternet Adresi: www.sgk.gov.ir Telefon No: 0312458 10 63
+
+9

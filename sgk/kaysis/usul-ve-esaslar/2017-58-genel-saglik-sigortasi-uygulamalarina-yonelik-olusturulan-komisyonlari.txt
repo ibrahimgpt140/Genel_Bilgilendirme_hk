@@ -1,0 +1,331 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/104377
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 2017/58
+ADI: GENEL SAĞLIK SİGORTASI UYGULAMALARINA YÖNELİK OLUŞTURULAN KOMİSYONLARIN ÇALIŞMA USUL VE ESASLARI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e3d8d9943938d08ecf84c365f8a590519b99b95b76066ae3020e6b824e7e27e8
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+ GENEL SAĞLIK SİGORTASI UYGULAMALARINA YÖNELİK OLUŞTURULAN
+           KOMİSYONLARIN ÇALIŞMA USUL VE ESASLARI
+
+
+
+                                  BİRİNCİ BÖLÜM
+                          Amaç, Kapsam, Dayanak ve Tanımlar
+
+
+         Amaç
+         MADDE 1 – (1) Bu düzenlemenin amacı; Sosyal Güvenlik Kurumunca finansmanı
+sağlanan sağlık hizmetleri ile finansmanının sağlanılması talebinde bulunulan sağlık
+hizmetlerinin teşhis ve tedavi yöntemleri ile bu tıbbî ürün ve hizmetlerin türlerini,
+miktarlarını, kullanım sürelerini, ödeme usul ve esasları ile fatura ve eki belgelerini klinik,
+teknik ve mali açıdan değerlendirme çalışmalarına ilişkin usul ve esasların belirlenmesidir.
+
+         Kapsam
+         MADDE 2 – (1) Bu Usul ve Esaslar, Genel Sağlık Sigortası Genel Müdürlüğünün
+oluşturacağı Sağlık Hizmetleri Ön Onay Alt İnceleme Birim ve Üst İnceleme
+Komisyonlarının, Sağlık Hizmetleri Bilimsel ve Akademik Danışmanlık Komisyonlarının ve
+Sağlık Kurumu İhtisas İnceleme Komisyonlarının çalışma usul ve esaslarını kapsar.
+         Dayanak
+         MADDE 3 – (1) Bu usul ve esaslar, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 63 ve 72 nci maddeleri ile 5502 sayılı Sosyal Güvenlik Kurumu
+Kanununun EK-1 inci maddesine göre hazırlanmıştır.
+         Tanımlar
+         MADDE 4 – (1) Bu usul ve esaslarda geçen;
+         a)    Başkan: Sosyal Güvenlik Kurumu Başkanını,
+         b)    Birim: 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 72
+nci maddesine göre Kurumca finansmanı sağlanan sağlık hizmetlerine ön onay verilmesi
+amacıyla oluşturulan komisyonların Sağlık Hizmetleri Ön Onay Alt İnceleme Birimini,
+         c)    Gizlilik ve Etik Kurallar Belgesi: Komisyonlara katılacak üyeler ile sekretarya
+görevini yürüten personel tarafından imzalanacak belgeyi,
+         ç) Komisyon: Sağlık Hizmetleri Bilimsel ve Akademik Danışmanlık Komisyonu,
+Sağlık Kurumu İhtisas İnceleme Komisyonu ile Sağlık Hizmetleri Ön Onay Üst İnceleme
+Komisyonunu,
+         d)    Kurum: Sosyal Güvenlik Kurumunu,
+         e)    Öğretim üyesi: Yükseköğretim kurumlarında görevli profesör, doçent ve
+yardımcı doçentleri,
+         f)    Ön onay: Kurumca belirlenecek sağlık hizmetleri için tanımlanacak kriterler
+dahilinde sağlık hizmetinin kullanılması/uygulanması öncesinde yetkilendirilmiş
+değerlendiriciler tarafından Kurumca finansmanının sağlanıp sağlanmayacağına karar
+verilmesi,
+         g)    Sağlık hizmeti: Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere
+Kanunun 63 üncü maddesi gereği finansmanı sağlanan/sağlanılması talebinde bulunulan tıbbî
+ürün ve hizmetleri,
+         ğ) Sağlık kurum/kuruluşu: Kurumla sözleşmeli/protokollü üniversite ve vakıf
+üniversitesi hastaneleri ile Sağlık Uygulama Tebliğinde belirtilen ikinci basamak özel sağlık
+kurumlarını,
+         h)    Sağlık sosyal güvenlik merkez müdürlüğü: Kurumla sözleşmeli/protokollü
+sağlık kurum/kuruluşlarının fatura ve eki belgelerini teslim ettiği ve Kurum tarafından web
+sayfasında duyurulan birimini,
+         ı) Sekretarya: Komisyonların görev alanına giren konularda Genel Sağlık Sigortası
+Genel Müdürlüğünün ilgili daire başkanlıklarınca yürütülen yazışma işleri birimlerini,
+         i)    Uzman tabip: Tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat
+hükümlerine göre uzman olan hekimi,
+         j)    Uzman diş tabibi: Dişte uzmanlık mevzuatında belirtilen dallarda bu mevzuat
+hükümlerine göre uzman olan diş hekimini,
+         k)    Ücret: (6.500) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu
+bulunacak tutarı geçmemek üzere yapılacak ödemeyi,
+         ifade eder.
+
+                                          İKİNCİ BÖLÜM
+           Sağlık Hizmetleri Bilimsel Ve Akademik Danışmanlık Komisyonlarının Çalışma
+                                       Usul Ve Esasları
+
+          Komisyonlarda görev alacak kişiler
+          MADDE 5- (1) (Değişik fıkra:1md.Yürürlük:25/7/2016)(2) Bilimsel ve Akademik
+Danışmanlık Komisyonu; üniversite rektörlüğü/üniversite hastanesi başhekimliği kadrolarında
+bulunan öğretim üyeleri, uzman tabip ve/veya diş tabipleri, kamu hastaneleri birliği genel
+sekreterlikleri/hastane başhekimlikleri Sağlık Bakanlığı eğitim ve araştırma hastanesi
+kadrolarında bulunan öğretim üyeleri, uzman tabip ve/veya diş tabipleri, üniversitelerden
+ihtiyaç duyulan bilim dallarında ilgili rektörlük/dekanlık kadrolarında bulunan öğretim
+üyeleri, özel sağlık kurum/kuruluşu kadrolarında bulunan uzman tabip ve/veya diş tabipleri ile
+sivil toplum kuruluşlarını temsilen uzman tabip ve/veya uzman diş tabiplerinden oluşur.
+          (2) Komisyonlar; Sağlık Uygulama Tebliği eki EK-2/A listesinde yer alan
+uzmanlık dalı/yan dallarına göre oluşturulur. Hangi uzmanlık dalı/yan dalı için komisyon
+kurulacağı Genel Sağlık Sigortası Genel Müdürlüğünün ilgili Daire Başkanlıkları tarafından
+belirlenir ve ihtiyaç duyulması halinde aynı uzmanlık dalı/yan dalı için birden fazla komisyon
+kurulabilir.
+          (3) (Değişik fıkra:3md.Yürürlük:25/7/2016)(2) Bilimsel ve Akademik Danışmanlık
+Komisyonu; konusuna göre katılımı talep edilen üniversite rektörlükleri/üniversite hastanesi
+başhekimlikleri, kamu hastaneleri birliği genel sekreterlikleri/ hastane başhekimlikleri, özel
+sağlık kurum/kuruluşu kadrolarında bulunan öğretim üyeleri, uzman tabip ve/veya diş
+tabipleri ile sivil toplum kuruluşlarında görev yapan uzman tabip ve/veya diş tabipleri ilgili
+daire başkanlığının talebi ve Genel Sağlık Sigortası Genel Müdürünün onayı ile oluşur.
+          (4) Komisyonlar; en az (Değişik:4md.Yürürlük:09/2/2017)(2) 3 (üç) üye ile toplanır.
+(2)
+  (Mülga ibare:5md.Yürürlük:20/4/2016) 5. Maddenin 2. fıkrasının birinci cümlesinde yer alan“ayrı ayrı”ibaresi
+yürürlükten kaldırılmıştır.
+         (5) Komisyonlara, toplantıyı talep eden Daire Başkanı ve/veya görevlendireceği kişi
+başkanlık eder.
+         (6) Komisyonun sekretarya hizmetleri ilgili Daire Başkanlığınca yürütülür.
+          (7) Komisyona katılacak üyeler ile sekretarya hizmetlerini yürütecek birim
+çalışanları Gizlilik ve Etik Kurallar Belgesini imzalayarak görevlerine başlarlar.
+          (8) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından komisyon
+çalışmaları sürerken veya sonuçlandığında alınan kararlar doğrultusunda açıklama yapılamaz.
+
+          Komisyonların çalışma esasları
+          MADDE 6 – (1) Komisyonlar; Kurumca finansmanı sağlanan/sağlanması talebinde
+bulunulan sağlık hizmetlerinin teşhis ve tedavi yöntemleri ile bu tıbbî ürün ve hizmetlerin
+türlerini, miktarlarını, kullanım sürelerini, ödeme usul ve esaslarını belirleme çalışmalarında
+ve Kurum tarafından ön onaya alınması uygun görülen sağlık hizmetlerine ilişkin ön onay
+inceleme kriterlerinin belirlenmesi çalışmalarında Kurumun ihtiyaç duyduğu alanlara ilişkin
+tıbbi inceleme, tıbbi değerlendirme ve tıbbi uygunluk yönünden klinik ve teknik veriler ile
+ekonomik ve mali değerlendirmeleri inceleyerek bilimsel ve akademik görüş oluştururlar.
+          (2) (Değişik fıkra:5md.Yürürlük:20/4/2016)(2) Komisyon toplantısı ilgili Daire
+Başkanlığının daveti üzerine gerçekleşir ve ihtiyaç duyulması halinde 1 (bir) aylık çalışma
+takvimi belirlenir. Belirlenen çalışma takvimi ilgili kurumlara bildirilir.
+          (3) Komisyon gündeminde görüşülecek konular Komisyon Başkanı tarafından
+toplantı gününden en az 3 (üç) gün önce üyelere bildirilir.
+          (4) Komisyon çalışmaları, toplantı gündeminde görüşülecek konular
+sonuçlandırılıncaya kadar devam eder. Her toplantıda gündemdeki konular, yapılan
+değerlendirmeler ve oluşturulan görüş ve tavsiyeler ile gerekçeleri ayrıntılı olarak düzenlenen
+tutanakta belirtilir. Toplantılar sonuçlandığında düzenlenen tutanak komisyon üyeleri
+tarafından imzalanır.
+          (5) Komisyon çalışmalarına davet edilen tüm üyelerin katılımı esastır. İlgili
+kurumlar üyelerin katılımını sağlamakla yükümlüdürler. Oluşturulan görüşe katılmayan üye,
+katılmama nedenini düzenlenen tutanakta yazılı olarak belirtir.
+          (6) Komisyon kararları görüş ve tavsiye niteliğindedir.
+
+
+                                      ÜÇÜNCÜ BÖLÜM
+           Sağlık Kurumu İhtisas İnceleme Komisyonlarının Çalışma Usul Ve Esasları
+
+         Komisyonlarda görev alacak kişiler
+         MADDE 7- (1) (Değişik:2 md.Yürürlük:16/3/2016)(1) Komisyon; Genel Sağlık
+Sigortası Genel Müdürünün Kurum içinden görevlendireceği uzman tabip ve/veya tabip
+ve/veya diş tabibi başkanlığında Kurumu temsilen 1 (bir) uzman tabip ve/veya tabip ve/veya
+diş tabibi, kamu hastaneleri birliği genel sekreterliklerinin/hastane başhekimliklerinden Sağlık
+Bakanlığı eğitim ve araştırma hastanesi kadrolarında bulunan akademik unvana sahip 2 (iki)
+tabip ve/veya diş tabibi ile üniversite rektörlüğünün/üniversite hastanesi başhekimliği
+kadrolarında bulunan 2 (iki) öğretim üyesi tabip ve/veya diş tabibi olmak üzere toplam 5 (beş)
+asil üyeden oluşur. Ancak diş tabipleri yalnızca ağız ve diş sağlığı hizmetlerine ilişkin fatura
+ve eki belgelerinin incelenmesine yönelik itirazlarda komisyon üyesi ve/veya başkanı olarak
+görevlendirilebilir.
+
+           (2) Komisyon Başkanının geçici görev, izin, hastalık gibi nedenlerle
+katılamayacağı toplantılara başkanlık etmek üzere Genel Sağlık Sigortası Genel Müdürü
+tarafından bir başka uzman tabip ve/veya tabip ve/veya diş tabibi görevlendirilir. Komisyon
+Başkanının katılamayacağı toplantılara görevlendirilen üye komisyonlara aynı yetkilerle
+başkanlık eder.
+           (3) Genel Sağlık Sigortası Genel Müdürlüğünce, Komisyondaki asil üye sayısının
+iki katı kadar da yedek üye belirlenir. Komisyon üyelerinin herhangi bir nedenle görevinden
+ayrılması durumunda komisyon üyelikleri için yeni görevlendirilen üyeler ilgili Kurumlara
+bildirilir. Komisyon üyelerinin geçici görev, izin, hastalık gibi nedenlerle görevleri başında
+bulunamadıkları durumlarda aynı yetkilerle yedek üyeler toplantılara katılır. Üyeler dışındaki
+kişiler toplantılara katılamazlar.
+           (4) Komisyonun sekretarya hizmetleri Genel Sağlık Sigortası Genel
+Müdürlüğünün ilgili Daire Başkanlığınca yürütülür.
+           (5) Komisyon asil ve yedek üyelerinin isimlerinin yer aldığı liste Genel Sağlık
+Sigortası Genel Müdürü tarafından onaylanır, üyelerin değiştirilmesi durumunda aynı şekilde
+güncellenir.
+           (6) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından
+komisyon çalışmaları sürerken veya sonuçlandığında alınan kararlar doğrultusunda açıklama
+yapılamaz.
+           (7) Komisyona katılacak asil ve yedek üyeler Gizlilik ve Etik Kurallar Belgesini
+imzalayarak görevlerine başlarlar.
+
+           Komisyonların çalışma esasları
+           MADDE 8- (1) Komisyon; her bir uzmanlık dalı/yan dalı için olmak üzere toplanır.
+Her ayın ilk toplantısı Komisyon Başkanının daveti üzerine gerçekleşir ve 1 (bir) aylık
+çalışma takvimi belirlenir. Belirlenen çalışma takvimi ilgili kurumlara bildirilir.
+           (2) Komisyon çalışmalarında tıbbi inceleme, tıbbi değerlendirme ve tıbbi uygunluk
+yönünden incelenecek fatura ve eki belgelere ilişkin gündem Komisyon Başkanı tarafından
+toplantı gününden en az 3 (üç) gün önce üyelere bildirilir.
+           (3) Komisyon çalışmaları, toplantı gündeminde görüşülecek konular
+sonuçlandırılıncaya kadar devam eder. Komisyon değerlendirmelerini; sunulmuş sağlık
+hizmetinin klinik faydalarını kanıta dayalı tıp ilkeleri çerçevesinde tıbbi uygunluk yönünden
+değerlendirerek hazırlar. Komisyon, Kurum mevzuatına uygunluk değerlendirmelerinde
+bulunmaz. Her toplantıda gündemdeki konular, yapılan değerlendirmeler ve alınan kararlar ile
+gerekçeleri ayrıntılı olarak düzenlenen tutanakta hasta takip numarası bazlı olmak üzere
+belirtilir. Toplantılar sonuçlandığında alınan kararlara ait tutanak komisyon üyeleri tarafından
+imzalanır.
+           (4) Komisyon çalışmaları tamamlandıktan sonra alınan kararlar, gerekçeleri ile
+birlikte en geç 7 (yedi) iş günü içinde ilgili sosyal güvenlik il müdürlüğüne gönderilir.
+          (5) Alınan kararlar sosyal güvenlik il müdürlüğü ilgili personeli tarafından Kurum
+bilgi işlem sisteminde 5 (beş) iş günü içerisinde gerekli değişiklikler yapılmak suretiyle
+kaydedilir.
+          (6) Komisyon çalışmalarına tüm üyelerin katılımı esastır. İlgili kurumlar üyelerin
+katılımını sağlamakla yükümlüdürler. Komisyon en az üye tam sayısının salt çoğunluğuyla
+toplanır ve en az üye tam sayısının salt çoğunluğu ile karar alır. Toplantılarda çekimser oy
+kullanılamaz. Oyların eşitliği halinde Komisyon Başkanının kullandığı oy yönünde çoğunluk
+sağlanmış sayılır. Alınan nihai karar, gerekçeleri ile birlikte tutanak altına alınır. Verilen
+karara katılmayan üye, katılmama nedenini yazılı olarak kararda belirtir.
+          (7) Komisyon, itiraza konu olan fatura ve eki belgelerle ile ilgili her türlü ilave
+bilgi ve belgelerin yazılı ve/veya elektronik olarak sunulmasını sağlık kurum/kuruluşundan
+talep edebilir. Verilen her türlü bilgi ve belgelerin doğruluğundan sağlık kurum/kuruluşu
+sorumludur. Gerçeğe aykırı bilgi ve belgelere dayanılarak alınan kararlar nedeniyle Kurumun
+uğrayacağı zarar, bilgi ve belgeyi Kuruma sunanlardan tahsil ve/veya tazmin edilir.
+          (8) Komisyon, çalışmaları esnasında tespit ettiği hususlara ilişkin Sağlık
+Uygulama Tebliği ve ekleri ile Kurum Fatura İnceleme Usul ve Esaslarına yönelik olarak
+Genel Sağlık Sigortası Genel Müdürlüğünün ilgili birimlerince değerlendirilmek üzere
+dönemsel raporlar hazırlayarak bildirimlerde bulunabilir.
+          (9) Sağlık Kurumu İhtisas İnceleme Komisyonu tarafından verilen kararlar nihai
+olup bu konu ile ilgili olarak daha sonra sağlık kurum/kuruluşları tarafından Kuruma herhangi
+bir itirazda bulunulamaz.
+
+                                         DÖRDÜNCÜ BÖLÜM
+                      Sağlık Hizmetleri Ön Onay Alt İnceleme Birim ve Üst İnceleme
+                            Komisyonlarının Çalışma Usul Ve Esasları
+
+          Sağlık Hizmetleri Ön Onay Alt İnceleme Birimlerinde görev alacak kişiler
+          MADDE 9 - (1) (Değişik:3 md.Yürürlük:16/3/2016)(1) Birim Kurumca
+görevlendirilen; Kamu Hastaneleri Birliği Genel Sekreterlikleri/hastane başhekimlikleri veya
+üniversite rektörlüğü/üniversite hastanesi başhekimliği veya özel sağlık kurum/kuruluşu veya
+ilgili uzmanlık derneğinden konuda yetkin 1 (bir) uzman tabip veya diş tabibi veya eczacıdan
+oluşur.
+          (2) Birim üyelerinin isimlerinin yer aldığı liste Genel Sağlık Sigortası Genel
+Müdürü tarafından onaylanır ve ilgili kurum/kuruluşlara bildirilir. Üyelerin değiştirilmesi
+durumunda aynı şekilde güncellenir.
+          (3) Birimin sekretarya hizmetleri ve koordinasyonu ilgili Daire Başkanlığınca
+yürütülür.
+          (4) Birime katılacak üyeler Gizlilik ve Etik Kurallar Belgesini imzalayarak
+görevlerine başlarlar.
+          (5) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından birim
+çalışmaları sürerken veya sonuçlandığında alınan kararlar doğrultusunda açıklama yapılamaz.
+
+
+
+
+(2)
+  (Mülga ibare:6md.Yürürlük:09/2/2017) 9. maddenin1. fıkrasında yer alan“Gülhane Askeri Tıp Akademisi Komutanlığı
+veya”ibaresi yürürlükten kaldırılmıştır.
+          Sağlık Hizmetleri Ön Onay Alt İnceleme Birimlerinin çalışma esasları
+          MADDE 10- (1) Birimler; ön onay başvurularını, Bilimsel Komisyonlarca belirlenen
+kriterler doğrultusunda değerlendirir.
+          (2) Birim; yapılan başvuruları kullanıcı ekranlarına ulaştığı tarihten itibaren 2 (iki)
+iş günü içerisinde “onay” veya “red” yönünde değerlendirerek sonuçlandırır.
+          (3) Yapılan başvurunun “red” yönünde değerlendirilmesi durumunda gerekçesi
+sisteme kaydedilir.
+          (4) Yapılan başvurunun “red” yönünde değerlendirilmesi durumunda sağlık
+hizmeti sunucusu tarafından gerekçesi sisteme girilmek suretiyle itiraz edilebilir.
+
+          Sağlık Hizmetleri Ön Onay Üst İnceleme Komisyonlarında görev alacak kişiler
+          MADDE 11- (1) (Değişik:4 md.Yürürlük:16/3/2016)(1) Kurumca görevlendirilen;
+Kamu Hastaneleri Birliği Genel Sekreterlikleri/hastane başhekimlikleri veya üniversite
+rektörlüğü/üniversite hastanesi başhekimliği veya özel sağlık kurum/kuruluşu veya ilgili
+uzmanlık derneğinden konuda yetkin 3 (üç) uzman tabip veya diş tabibi veya eczacıdan
+oluşur.
+          (2) Sağlık Hizmetleri Ön Onay Alt İnceleme Biriminde görev alan uzman tabip
+veya diş tabibi veya eczacı Sağlık Hizmetleri Ön Onay Üst İnceleme Komisyonunda görev
+alamaz.
+          (3) Komisyon; Sağlık Uygulama Tebliği eki EK-2/A listesinde yer alan uzmanlık
+dalı/yan dallarına göre ayrı ayrı oluşturulabilir. Hangi uzmanlık dalı/yan dalı için komisyon
+kurulacağı Genel Sağlık Sigortası Genel Müdürlüğünün ilgili Daire Başkanlığı tarafından
+belirlenir ve ihtiyaç duyulması halinde aynı uzmanlık dalı/yan dalı için birden fazla komisyon
+kurulabilir.
+          (4) Komisyon üyelerinin isimlerinin yer aldığı liste Genel Sağlık Sigortası Genel
+Müdürü tarafından onaylanır ve ilgili kurum/kuruluşlara bildirilir. Üyelerin değiştirilmesi
+durumunda aynı şekilde güncellenir.
+          (5) Komisyonun sekretarya hizmetleri ve koordinasyonu ilgili Daire Başkanlığınca
+yürütülür.
+          (6) Komisyona katılacak üyeler Gizlilik ve Etik Kurallar Belgesini imzalayarak
+görevlerine başlarlar.
+          (7) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından birim
+çalışmaları sürerken veya sonuçlandığında alınan kararlar doğrultusunda açıklama yapılamaz.
+
+
+
+
+(2)
+  (Mülga ibare:6md.Yürürlük:09/2/2017) 11. maddenin1. fıkrasında yer alan“Gülhane Askeri Tıp Akademisi Komutanlığı
+veya”ibaresi yürürlükten kaldırılmıştır.
+          Sağlık Hizmetleri Ön Onay Üst İnceleme Komisyonlarının çalışma esasları
+          MADDE 12- (1) Sağlık Hizmetleri Ön Onay Alt İnceleme Birimince “red” yönünde
+değerlendirilen ve itiraz edilen başvuruları, Bilimsel Komisyonlarca belirlenen kriterler
+doğrultusunda yeniden değerlendirir.
+          (2) Komisyon; yapılan itirazları kullanıcı ekranlarına ulaştığı tarihten itibaren 2
+(iki) iş günü içerisinde “onay” veya “red” yönünde değerlendirerek sonuçlandırır.
+          (3) Yapılan başvurunun “red” yönünde değerlendirilmesi durumunda gerekçesi
+sisteme kaydedilir.
+          (4) Komisyon tarafından verilen kararlar nihai olup bu konu ile ilgili olarak daha
+sonra Kuruma herhangi bir itirazda bulunulamaz.
+
+
+                                        BEŞİNCİ BÖLÜM
+                                      Çeşitli ve Son Hükümler
+         Yasaklar ve gizlilik
+          MADDE 13- (1) Birim ve Komisyon üyeleri, görevleri gereği edindikleri gizlilik
+taşıyan bilgi ve belgeleri ve görevleri sırasında öğrendikleri kurum ve kuruluşların ticarî,
+bilimsel ve teknik sırlarını görevlerinden ayrılmış olsalar dahi ifşa edemezler, kendilerinin
+veya üçüncü şahısların lehine veya aleyhine kullanamaz ve kullandıramazlar.
+         (2) Her bir birim ve komisyon üyesi göreve başlarken içeriği Kurum tarafından
+belirlenen ve ekte yer alan Gizlilik ve Etik Kurallar Belgesini imzalar.
+
+        Giderler
+        MADDE 14- (1) Birimlerin ve Komisyonların çalışmaları ile ilgili her türlü gider
+Kurumca karşılanır.
+        (2) Görevlendirilen kişilerin ulaşım ve konaklama giderleri ilgili mevzuat
+doğrultusunda Kurumca karşılanır.
+
+         Ücret
+         MADDE 15 – (1) Bu usul ve esaslarda geçen birim/komisyonlara yapılacak
+ödemeler Kurumca yayımlanacak “Genel Sağlık Sigortası Uygulamalarına Yönelik
+Komisyonlara İştirak Edenlere Yapılacak Ödemelere İlişkin Usul Ve Esaslar” çerçevesinde
+yapılır.
+         Yürürlük
+         MADDE 16- (1) Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.
+
+        Yürütme
+        MADDE 17 – (1) Bu Usul ve Esaslara ait hükümleri Sosyal Güvenlik Kurumu
+Başkanı yürütür.
+
+
+
+
+.
+    (1)
+       Sosyal Güvenlik Kurumu web sayfasında 16/3/2016 tarihinde yayımlanan “Genel Sağlık
+    Sigortası Uygulamalarına Yönelik Oluşturulan Komisyonların Çalışma Usul Ve
+    Esaslarında Değişiklik Yapılmasına İlişkin Usul Ve Esaslar”
+    (2)
+       Sosyal Güvenlik Kurumu web sayfasında 09/2/2017 tarihinde yayımlanan “Genel Sağlık
+    Sigortası Uygulamalarına Yönelik Oluşturulan Komisyonların Çalışma Usul Ve
+    Esaslarında Değişiklik Yapılmasına İlişkin Usul Ve Esaslar”
+
+
+
+
+.
+

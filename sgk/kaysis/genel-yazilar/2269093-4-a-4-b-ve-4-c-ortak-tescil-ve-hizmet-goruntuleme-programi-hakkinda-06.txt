@@ -1,0 +1,432 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/96027
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 2269093
+ADI: (4/A), (4/B) VE (4/C) ORTAK TESCİL VE HİZMET GÖRÜNTÜLEME PROGRAMI HAKKINDA 06/02/2013 TARİHLİ VE 2269093 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 63d6d43d39ca81c44b59cc2a229ffe4235d23e5514122ec55235ef9cb4be49fb
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                           T.C.
+                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                            Sigorta Primleri Genel Müdürlüğü
+
+Sayı : B.13.2.SGK.0.10.03.01-MEV-EC-2269093                               06.02.2013
+Konu : (4/a), (4/b) ve (4/c) ortak tescil ve
+       hizmet görüntüleme programı
+
+
+                    ……………….. SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+                     …………………….. SOSYAL GÜVENLİK MERKEZİNE
+                                                   ...........................
+
+
+        5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentlerine tabi
+sigortalıların tescil ve hizmet kayıtları farklı programlar aracılığıyla takip edilmekte olup,
+sigortalıların üç statüde çalışmasının bulunup bulunmadığının tespiti ile bu şekilde çalışması
+bulunan sigortalıların hizmetlerinin bildirilmesi, birleştirilmesi ve aylık bağlama işlemlerinin
+daha kısa sürede sonuçlandırılması büyük önem arz etmektedir.
+        2012 yılı Merkez Eylem Planında 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a), (b) ve (c) bentlerine tabi sigortalıların tescil ve hizmet kayıtlarının tek bir
+program aracılığıyla görüntülenmesi çalışmaları çerçevesinde “SGK Tescil ve Hizmet
+Dökümü Programı” hazırlanarak işletime açılmış bulunmaktadır.
+        Söz konusu program ile sigortalıların T.C. Kimlik No, (4/a) sigorta sicil, (4/b) Bağ-
+Kur ve (4/c) emekli sicil numaralarından herhangi biri ile giriş yapılması suretiyle birden
+fazla statüde çalışması olanların tescil ve hizmet bilgilerinin aynı ekranda görüntülenmesi ile
+sigortalılık kaydının bulunup bulunmadığı ve hizmet sürelerinin kurum ve kuruluşlarından
+talep edilmesi halinde karekodlu çıktı alınarak resmi belge olarak kullanılmasına imkan
+sağlanmıştır.
+        Sigortalıların T.C. Kimlik No ya da 13 haneli sigorta sicil, 10 haneli Bağ-Kur, 9 haneli
+emekli sicil numaralarının birisi ile sorgulama yapıldıktan sonra Kimlik Paylaşım Sisteminde
+yer alan nüfus bilgileri ile (4/a), (4/b) ve (4/c) tescil kütüklerinde yer alan nüfus bilgileri aynı
+anda görüntülenmektedir. Ayrıca, hizmetlerin ortak kullanıma uygun görüntülenmesi; Sigorta
+Kolu, Sigorta Statüsü, Sicil No, Ad Soyad, İşyeri/Kurum No, Ünite, Dönem, Belge
+Kodu/Basamak/Derece-Kademe, Belge Türü, Gün, Prime Esas Kazanç/Basamak Değeri/Ek
+Gösterge, İşe Giriş Tarihi, Eksik Gün Nedeni, İşten Çıkış Tarihi, İşten Çıkış Nedeni bilgileri
+ile yapılmaktadır. Sigortalıların uzun ve kısa vade hizmetleri birlikte sorgulanabildiği gibi,
+hizmet birleştirme ve emeklilik işlemleri yönünden uzun vade hizmetleri ya da (4/a), (4/b) ve
+(4/c) hizmetleri ayrı ayrı sorgulanabilmektedir.
+        (4/a), (4/b) ve (4/c) sigortalıları yönünden görüntülenen hizmet çeşitleri ve programın
+kullanıma yönelik yapılacak işlemler aşağıda belirtilmiştir.
+
+       I- (4/a) SİGORTALILARI YÖNÜNDEN GÖRÜNTÜLENEN HİZMETLER
+
+        5510 sayılı Kanunun geçici 1 inci maddesi gereğince 2008 yılı Ekim ayı başından
+önce 506 ve 2925 sayılı kanunlara tabi geçen süreler 4 üncü maddenin birinci fıkrasının (a)
+bendine tabi sigortalılık olarak değerlendirilmektedir. Uzun vadeli sigorta kollarından
+sigortalılık süresinin başlangıcının düzenlendiği 5510 sayılı Kanunun 38 inci maddesi
+gereğince mülga 5417 ve mülga 6900 sayılı kanunlara tabi geçen hizmetler de dikkate
+alınmaktadır.
+
+
+
+
+                                                                                                 1/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+       1- (4/a) sigortalıları yönünden zorunlu sigortalılık sürelerinde bildirilen hizmetler
+
+       - 1/4/1950-31/5/1957 tarihleri arasında mülga 5417 sayılı Kanuna tabi geçen hizmetler
+aylık sigorta primleri bordrosu ile bildirilmiş olup, bu Kanun gereğince sigortalılardan
+malullük yaşlılık ve ölüm sigortası primi alınmıştır.
+
+     Sigortalıların Çalıştığı İşler              Malullük           İş Kazası          Hastalık
+                                               Yaşlılık Ölüm     Meslek Hastalığı      Analık
+     Normal                                           X                 -                 -
+     Münavebeli                                       X                 -                 -
+     Ağır ve yıpratıcı (normal)                       X                 -                 -
+     Ağır ve yıpratıcı (münavebeli)                   X                 -                 -
+
+       - 1/6/1957-28/2/1965 tarihleri arasında mülga 6900 sayılı Kanuna tabi geçen hizmetler
+aylık sigorta primleri bordrosu ile bildirilmiş olup, bu Kanun gereğince sigortalılardan
+malullük yaşlılık ve ölüm sigortası primi alınmıştır.
+
+       Sigortalıların Çalıştığı İşler      Malullük           İş Kazası           Hastalık
+                                         Yaşlılık Ölüm     Meslek Hastalığı       Analık
+       Normal                                   X                 -                  -
+       Ağır ve yıpratıcı                        X                 -                  -
+
+        - 1/3/1965-30/9/2008 tarihleri arasında 506 sayılı Kanuna tabi geçen hizmetler
+1/3/1965-31/12/1982 tarihleri arasında üç aylık sigorta primleri bordrosu, 1/1/1983-30/4/2004
+tarihleri arasında dört aylık sigorta primleri bordrosu, 1/5/2004-30/9/2008 tarihleri arasında
+aylık prim ve hizmet belgesi ile bildirilmiş olup, bu Kanun gereğince sigortalılardan malullük,
+yaşlılık ve ölüm, iş kazası ve meslek hastalığı, hastalık ve analık sigortası primi, 6/5/1986
+tarihinden itibaren de sosyal güvenlik destek primi alınmıştır.
+
+       1/5/2004 tarihinden önce üç/dört aylık sigorta primleri bordrosu bildirilen hizmetler
+                                            Bordro                                  HA
+       Sigortalıların çalıştığı işler                      MYÖ        İKMH
+                                              Türü
+       Normal işler                             1            X           X           X
+       2098 sayılı Kanuna tabi işler            2            X           X           X
+       Tarım işleri                             3            X           X           X
+       Yer altı sürekli işler                   4            X           X           X
+       Yer altı gruplu işler                    5            X           X           X
+       Yer üstü gruplu işler                    6            X           X           X
+       Topluluk sigortası                       7            X           -            -
+
+       1/5/2004-30/9/2008 tarihleri arasında aylık prim ve hizmet belgesi ile bildirilen
+hizmetler
+                                                          Belge
+Sigortalıların çalıştığı işler                                  MYÖ İKMH HA
+                                                          Türü
+Tüm sigorta kollarına tabi çalışanlar                     01      X        X        X
+Sosyal güvenlik destek primine tabi çalışanlar            02       -       X        -
+2098 sayılı Kanuna tabi çalışanlar                        03      X        X        X
+Yer altı sürekli çalışanlar                               04      X        X        X
+
+
+
+                                                                                               2/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+                                                             Belge
+Sigortalıların çalıştığı işler                                     MYÖ İKMH            HA
+                                                             Türü
+Yer altı gruplu çalışanlar                                   05     X    X              X
+Yer üstü gruplu çalışanlar                                   06     X    X              X
+Çırak-stajyer öğrenci olarak çalışanlar                      07     -    X              X
+Topluluk sigortasına tabi çalışanlar                         09     X    -              -
+İkili sosyal güvenlik sözleşmesi olmayan ülke vatandaşları 10       -    X              X
+Yükseköğrenim kurumlarında kısmi istihdam edilen 11
+                                                                    -    X                 -
+öğrenciler
+Geçici 20 nci madde sandıklarında çalışanlar                 12     -    -                 -
+Tüm sigorta kollarına tabi olup işsizlik sigortası primi 13
+                                                                    X    X              X
+kesilmeyenler
+Libya’da çalışanlar                                          14     X    X             X*
+Anlaşmalı ülke yabancı uyruklu                               15     X    X             X
+% 22 oranında malullük, yaşlılık ve ölüm sigortalarına tabi 16
+                                                                    X    X              X
+olup işsizlik sigortası primi kesilmeyenler
+Görev malullüğü aylığı alıp % 22 oranında malullük, 17
+                                                                    X    -                 -
+yaşlılık ve ölüm sigortalarına tabi olanlar
+Görev malullüğü aylığı alıp malullük, yaşlılık ve ölüm 18
+                                                                    X    -                 -
+sigortalarına tabi çalışanlar
+İş kazası meslek hastalığı, hastalık ve analık sigortalarına 19
+                                                                    -    X              X
+tabi çalışanlar
+İstisna akdine istinaden Almanya’ya götürülen Türk işçiler 20       X    X              X
+        * Hastalık primi alınmamaktadır
+
+       - 1/10/2008 tarihinden itibaren 5510 sayılı Kanuna tabi geçen hizmetler aylık prim ve
+hizmet belgesi ile bildirilmektedir.
+
+                                                                  Belge Uzun Kısa
+ Sigortalıların çalıştığı işler                                                   GSS
+                                                                  Türü Vade Vade
+
+ Hizmet akdi ile tüm sigorta kollarına tabi çalışanlar (yabancı
+                                                                   01   X       X     X
+ uyruklu sigortalılar dahil)
+
+ Sosyal güvenlik destek primine tabi çalışanlar                    02    -      X      -
+
+ Yer altında sürekli çalışanlar
+                                                                   04   X       X     X
+ (maden işyerlerinde 1/10/2008 öncesi çalışması olanlar için)
+
+ Yer altında gruplu çalışanlar
+                                                                   05   X       X     X
+ (maden işyerlerinde 1/10/2008 öncesi çalışması olanlar için)
+ Yer üstü gruplu çalışanlar
+                                                                   06   X       X     X
+ (maden işyerlerinde 1/10/2008 öncesi çalışması olanlar için)
+ 3308 sayılı Kanunda belirtilen aday çırak, çırak ve mesleki
+                                                                   07    -      X      -
+ işletmelerde eğitim gören öğrenciler
+
+
+
+
+                                                                                               3/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+
+                                                                   Belge Uzun Kısa
+Sigortalıların çalıştığı işler                                                     GSS
+                                                                   Türü Vade Vade
+
+Geçici 20 nci maddeye tabi olanlar                                  12   -     -    -
+
+Tüm sigorta kollarına tabi olup işsizlik sigortası primi
+                                                                    13   X    X    X
+kesilmeyenler
+
+Libya’da çalışanlar                                                 14   X    X     -
+
+Ceza infaz kurumları ile tutukevleri bün. oluşturulan tesis
+                                                                    19   -    X     -
+atölye vb. ünitelerde çalıştırılan hükümlü ve tutuklular
+
+İstisna akdine istinaden Almanya’ya götürülen Türk işçiler          20   X    X    X
+
+Türk işverenler tarafından sosyal güvenlik sözleşmesi
+                                                                    21   -    X    X
+imzalanmamış ülkelere götürülerek çalıştırılan Türk işçileri
+Meslek liselerinde okumakta iken veya yüksek öğrenimleri
+sırasında zorunlu staja tabi tutulan öğrenciler ile 2547 sayılı
+                                                                    22   -    X     -
+Kanun uyarınca üniversitelerde kısmi zamanlı çalıştırılan
+öğrenciler
+Harp malulleri ile 3713 ve 2330 sayılı kanunlara göre vazife
+malullüğü aylığı alanlardan kısa vadeli sigorta kollarına tabi      23   -    X     -
+olanlar
+Harp malulleri ile 3713 ve 2330 sayılı kanunlara göre vazife
+malullüğü aylığı alanlardan kısa ve uzun vadeli sigorta             24   X    X     -
+kollarına tabi olanlar
+Türkiye İş Kurumu tarafından düzenlenen eğitimlere katılan
+                                                                    25   -    X     -
+kursiyerler
+4046 sayılı Kanunun 21 inci maddesi kapsamında iş kaybı
+                                                                    28   X     -   X
+tazminatı alanlar
+Tüm sigorta kollarına tabi çalışıp 60 gün fiili hizmet süresi
+                                                                    29   X    X    X
+zammına tabi çalışanlar
+İşsizlik sigortası hariç 60 gün fiili hizmet süresi zammına tabi
+                                                                    30   X    X    X
+çalışanlar
+Harp malulleri ile 3713 ve 2330 sayılı kanunlara göre vazife
+malüllüğü aylığı alanlardan kısa ve uzun vadeli sigorta
+                                                                    31   X    X    X
+kollarına tabi olup 60 gün fiili hizmet süresi zammına tabi
+çalışanlar
+Tüm sigorta kollarına tabi çalışıp 90 gün fiili hizmet süresi
+                                                                    32   X    X    X
+zammına tabi çalışanlar
+İşsizlik sigortası hariç 90 gün fiili hizmet süresi zammına tabi
+                                                                    33   X    X    X
+çalışanlar
+
+
+
+
+                                                                                        4/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+
+                                                                  Belge Uzun Kısa
+ Sigortalıların çalıştığı işler                                                   GSS
+                                                                  Türü Vade Vade
+ Harp malulleri ile 3713 ve 2330 sayılı kanunlara göre vazife
+ malullüğü aylığı alanlardan kısa ve uzun vadeli sigorta
+                                                                   34    X      X       -
+ kollarına tabi olup 90 gün fiili hizmet süresi zammına tabi
+ çalışanlar
+ Tüm sigorta kollarına tabi çalışıp 180 gün fiili hizmet süresi
+                                                                   35    X      X      X
+ zammına tabi çalışanlar
+
+ İşsizlik sigortası hariç 180 gün fiili hizmet süresi zammına
+                                                                   36    X      X      X
+ tabi çalışanlar
+ Harp malulleri ile 3713 ve 2330 sayılı kanunlara göre vazife
+ malullüğü aylığı alanlardan kısa ve uzun vadeli sigorta
+                                                                   37    X      X       -
+ kollarına tabi olup 180 gün fiili hizmet süresi zammına tabi
+ çalışanlar
+ Birleşik krallıkta ikamet edenler ve İsviçre vatandaşı
+ olanlardan uzun vadeli sigorta kolunun uygulanmasını talep        39    X      X       -
+ etmeyenler
+
+ Kamu idarelerinde iş akdi askıda olanlar                          41     -      -     X
+
+ 3308 sayılı Kanunda belirtilen aday çırak, çırak ve
+ işletmelerde mesleki eğitim gören öğrencilerden bakmakla          42     -     X      X
+ yükümlü olunmayanlar
+ Meslek liselerinde okumakta iken veya yüksek öğrenimleri
+ sırasında staja tabi tutulan öğrenciler ile 2547 sayılı Kanun
+                                                                   43     -     X      X
+ uyarınca üniversitelerde kısmi zamanlı çalıştırılan
+ öğrencilerden bakmakla yükümlü olunmayanlar
+
+ Türkiye İş Kurumu tarafından düzenlenen eğitimlere katılan
+                                                                   44     -     X      X
+ kursiyerlerden bakmakla yükümlü olunmayanlar
+
+ İtibari hizmet süresine tabi olarak çalışanlar                    90     -      -     X
+
+ 60 gün fiili hizmet süresi zammına tabi olanlardan itibari
+                                                                   91     -      -     X
+ hizmet süresine tabi olarak çalışanlar
+ 90 gün fiili hizmet süresi zammına tabi olanlardan itibari
+                                                                   92     -      -     X
+ hizmet süresine tabi olarak çalışanlar
+
+       2- Primini kendileri ödeyen (4/a) sigortalıları yönünden hizmetler
+       506 sayılı Kanunun mülga 85 inci maddesine göre 1/3/1965-30/9/2008 tarihleri
+arasında isteğe bağlı sigortaya prim ödeyenler, 1/3/1965-30/9/2008 tarihleri arasında mülga
+86 ncı maddeye göre topluluk sigortasına zorunlu olarak malullük, yaşlılık ve ölüm sigortası
+primi ödeyen avukatlar/noterler, 1/1/1984 tarihinden itibaren 2925 sayılı Kanuna göre
+süreksiz tarım işlerinde çalışanlar, 5510 sayılı Kanunun 50 nci maddesine göre ay içinde 30
+günden az zorunlu olarak çalışıp kalan sürelerinde isteğe bağlı sigortalı olanların 25/2/2011
+
+
+
+                                                                                            5/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+tarihinden sonraki, 5 inci maddenin birinci fıkrasının (g) bendine tabi isteğe bağlı
+sigortalıların 1/10/2008 tarihinden sonraki, ek 5 inci madde kapsamında tarım ve orman
+işlerinde süreksiz çalışanların 1/3/2011 tarihinden, ek 6 ncı madde kapsamında şehir içi toplu
+taşıma araçları ile sanatçı olarak işveren yanında 10 günden az çalışanların 1/3/2011
+tarihinden sonraki primi ödemiş ve ödenmemiş süreleri görüntülenecektir.
+
+       3- (4/a) sigortalıları yönünden gösterilecek diğer hizmetler
+       506 sayılı Kanunun mülga 60 ıncı maddesinin (F) fıkrasına göre askerlik ve grev
+lokavt borçlanmaları, 5510 sayılı Kanunun 41 inci maddesine göre yapılan ve (4/a) statüsü
+olarak değerlendirilen borçlanma süreleri borçlanma türünü belirtmek suretiyle, 3201 sayılı
+Kanuna göre yapılan borçlanmalar ise borçlanılan ülke belirtilmek suretiyle
+görüntülenecektir.
+
+       II- (4/b) SİGORTALILARI YÖNÜNDEN GÖRÜNTÜLENEN HİZMETLER
+
+        5510 sayılı Kanunun geçici 1 inci maddesi gereğince 2008 yılı Ekim ayı başından
+önce mülga 1479 ve mülga 2926 sayılı kanunlara tabi geçen süreler 4 üncü maddenin birinci
+fıkrasının (b) bendine tabi sigortalılık olarak değerlendirilmektedir.
+
+        1- (4/b) sigortalıları yönünden zorunlu sigortalılık sürelerinde bildirilen hizmetler
+        SGK Tescil ve Hizmet Dökümü Programı ile 1/10/1972-30/9/2008 tarihleri arasında
+1479 sayılı Kanunun 24 üncü maddesine göre sigortalı sayılanlar ile isteğe bağlı sigortalıların
+1/1/1984-30/9/2008 tarihleri arasında 2926 sayılı Kanunun 4 üncü maddesine göre sigortalı
+sayılanların basamak değerine göre ödedikleri tutarlar karşılığındaki hizmet süreleri ile
+1/10/2008 tarihinden itibaren 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında primi ödenmiş süreleri, prim borcu bulunanların ise toplam prim borcu
+görüntülenecektir. Gelir vergisinden muaf kadın isteğe bağlı sigortalıların 1/10/2008
+tarihinden sonraki süreleri yine aynı şekilde görüntülenecektir.
+
+       2- (4/b) sigortalıları yönünden gösterilecek diğer hizmetler
+       1479 sayılı Kanunun mülga ek 9 uncu maddesine göre askerlik borçlanmaları, vergi
+borçlanmaları, 5510 sayılı Kanunun 41 inci maddesine göre yapılan ve (4/b) statüsü olarak
+değerlendirilen borçlanma süreleri borçlanma türünü belirtmek suretiyle, 3201 sayılı Kanuna
+göre yapılan borçlanmalar SGK Tescil ve Hizmet Dökümü Programı ile görüntülenecektir.
+
+       III- (4/c) SİGORTALILARI YÖNÜNDEN GÖRÜNTÜLENEN HİZMETLER
+
+        5510 sayılı Kanunun geçici 1 inci maddesi gereğince 2008 yılı Ekim ayı başından
+önce 5434 sayılı Kanuna tabi geçen süreler 4 üncü maddenin birinci fıkrasının (c) bendine
+tabi sigortalılık olarak değerlendirilmektedir.
+        2008 yılı Ekim ayı başından önce (4/c) sigortalılarının hizmet kayıtları elektronik
+ortamda tutulmamakta olup SGK Tescil ve Hizmet Dökümü Programı ile 2008 yılı Ekim ayı
+başından sonra bildirilen hizmetler görüntülenecektir. (4/c) sigortalılarının 2008 yılı Ekim ayı
+başından önceki hizmetlerinin kamu kurumlarından Hizmet Takip Projesi kapsamında
+alınması işleminin tamamlanmasından sonra 2008 yılı Ekim ayı başından önceki hizmetler,
+borçlanmalar, isteğe bağlı sigortalılık süreleri ile diğer hizmetler SGK Tescil ve Hizmet
+Dökümü Programı ile görüntülenebilecektir.
+
+
+
+
+                                                                                             6/7
+                                          T.C.
+                      SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sigorta Primleri Genel Müdürlüğü
+
+    IV- SGK TESCİL                VE    HİZMET        GÖRÜNTÜLEME            PROGRAMININ
+KULLANILMASI
+
+         1- SGK Tescil ve Hizmet Dökümü Programına T.C. Kimlik Numarası ya da (4/a),
+(4/b) ve (4/c) numaralarından biriyle giriş yapılmakta olup birden fazla statüde çalışması olan
+sigortalıların tescil kütüklerinin birinde T.C. Kimlik Numarasının bulunmaması halinde
+sadece sicil numarası ile sorgulanan hizmeti görüntülendiğinden (4/a) ve (4/b) sigortalılarının
+T.C. Kimlik Numarası bilgisi sosyal güvenlik il müdürlükleri/sosyal güvenlik merkezlerince
+(4/a) Tescil ve (4/b) GÜVENCE programları aracılığıyla, (4/c) sigortalılarının ise Sigorta
+Primleri Genel Müdürlüğü Sigortalı Tescil ve Hizmet Daire Başkanlığınca güncellenecektir.
+         2- Sigortalılar ile kurum ve kuruluşlarca talep edilen sigortalılık bilgileri SGK Tescil
+ve Hizmet Dökümü Programının “Resmi Döküm” kısmından alınan karekodlu çıktı
+bildirilecektir. Bu belge sigortalının sorgulama tarihi itibariyle hizmet bilgilerine ilişkin son
+durumunu gösterecek olup, resmi belge olarak da kullanılabilecektir.
+         3- SGK Tescil ve Hizmet Dökümü Programı ile (4/a), (4/b) ve (4/c) hizmet
+çakışmaları, aynı sicil numarasında başkasının adı ile bulunan hizmetler görüntülenmekte
+olup hizmet birleştirme ve aylık bağlama işlemlerinden önce sigortalılara ait hatalı hizmet
+kayıtlarının düzeltilmesi gerekmektedir. Aylık bağlama işleminden önce üniteye borçlanma,
+hizmet kaydının düzeltilmesi, isteğe bağlı sigorta, ek 5 ve ek 6 müracaatları ile ne zaman
+emekli olurum v.b. dilekçelerle başvuran sigortalıların (4/a), (4/b) ve (4/c) yönünden hatalı
+hizmet bilgileri düzeltilecektir.
+         4- Aylık bağlama işlemlerinde (4/a), (4/b) ve (4/c) hizmetlerinin bildirilmesinde (4/a)
+(4/b) Hizmet Bildirme İşlemleri Programından alınan hizmet bildirimi dikkate alınarak işlem
+yapılacaktır.
+         5- SGK Tescil ve Hizmet Dökümü Programı açıldıktan sonra (4/a) hizmetlerinin
+görüntülendiği; dört aylık/aylık bordro görüntüleme, hizmet dökümü, tüm belgeler için hizmet
+dökümü, CICS programında yer alan 2.2.4, 2.2.5 ve 2.2.6 menüleri ile (4/a), (4/b) ve (4/c)
+sigortalılarının sigortalılık tescil kaydı tespitine yönelik programlar kapatılacaktır.
+         6- SGK Tescil ve Hizmet Dökümü Programı MEYES yetkisi bulunan tüm Kurum
+personeli tarafından ayrıca yetki talep edilmeksizin kullanılabilecektir.
+         7- 506 sayılı Kanunun geçici 20 nci maddesine tabi iken Sosyal Sigortalar Kurumuna
+devredilen 7 banka sandığına ait hizmetler, (4/a), (4/b) ve (4/c) yönünden emekli olan
+sigortalılara bağlanan aylığının türü ve aylık başlangıç tarihlerinin görüntülenmesine yönelik
+çalışmalar sonuçlanınca bu kayıtlar da SGK Tescil ve Hizmet Dökümü Programı ile
+görüntülenebilecektir.
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                      Cüneyt OLGAÇ
+                                                                      Kurum Başkanı a.
+                                                                      Genel Müdür V.
+…/2/2013 Şb.Md.V. : E.CEYHUN
+…/2/2013 Şb.Md.V. : R.YAMAÇ
+…/2/2013 Şb.Md.    : Ü.GÖKDERE
+…/2/2013 Dai.Bşk.V.: S.ALIÇ
+
+DAĞITIM      :
+Gereği :                                     Bilgi :
+Merkez ve Taşra Teşkilatına                  Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+                                                                                              7/7
+

@@ -1,0 +1,511 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/212561
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 
+ADI: SOSYAL GÜVENLİK KURUMU ŞAHSİ TEDAVİ İÇİN YURT DIŞINDAN TEMİN EDİLEN İLAÇLARIN ALTERNATİF GERİ ÖDEME BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5010d8da20f655cc5ff5d5b8cf447f9ab386106da14dc22e02a6a3bd16f41bd0
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                             SOSYAL GÜVENLİK KURUMU
+       ŞAHSİ TEDAVİ İÇİN YURT DIŞINDAN TEMİN EDİLEN İLAÇLARIN
+  ALTERNATİF GERİ ÖDEME BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
+
+
+                                     BİRİNCİ BÖLÜM
+                           Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1- (1) Bu Usul ve Esasların amacı, Sağlık Bakanlığı tarafından ruhsatlandırılmamış
+ve/veya ruhsatlandırıldığı hâlde çeşitli sebeplerle ülkemiz piyasasında bulunmayan ve Sağlık
+Bakanlığınca yurt dışından teminine izin verilerek Sosyal Güvenlik Kurumunca finansmanı
+sağlanan ilaçlar ile finansmanının sağlanması talebinde bulunulan ilaçlara ilişkin olarak Sosyal
+Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme Yönetmeliği kapsamında
+yapılacak başvurularda izlenecek usul ve esaslarının belirlenmesidir.
+(2) Bu Usul ve Esaslar, şahsi tedavi için yurt dışından temin edilecek ilaçların Sosyal Güvenlik
+Kurumunca finansmanın sağlanmasına yönelik Sosyal Güvenlik Kurumu Genel Sağlık
+Sigortası Alternatif Geri Ödeme Yönetmeliği kapsamında yapılacak başvurular ile bu ilaçlara
+ilişkin mevzuat kapsamında başvuru yapacak firmaların ilgili komisyonlara sunulmak üzere
+teslim edecekleri dosyada yer alacak bilgi ve belgeleri kapsar.
+Dayanak
+MADDE 2- (1) Bu Usul ve Esaslar, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 63 üncü, 64 üncü, 72 nci ve 73 üncü maddeleri ile 4 sayılı Bakanlıklara Bağlı, İlgili,
+İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında
+Cumhurbaşkanlığı Kararnamesinin 796 ncı maddesi, Sosyal Güvenlik Kurumu Genel Sağlık
+Sigortası Alternatif Geri Ödeme Yönetmeliği, Yurt Dışından İlaç Temini Yönetmeliği ve
+Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3- (1) Bu usul ve esaslarda geçen;
+a) Birim fiyat: Bir ilacın kamu fiyatının ambalaj miktarına bölünmesiyle oluşan fiyatını,
+b) Farmasötik şekil: İlacın kullanım amacına uygun olarak üretilmiş takdim şeklini,
+c) Firma: Üretici/ruhsat sahibi firma ve/veya üretici/ruhsat sahibi tarafından münhasır olarak
+yetkilendirilmiş temsilcisi,
+ç) Genel sağlık sigortalısı: 5510 sayılı Kanunun 60 ıncı maddesinde sayılan kişileri,
+d) Komisyon: Alternatif Geri Ödeme Komisyonunu
+e) Kurum: Sosyal Güvenlik Kurumunu,
+f) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
+
+
+                                                                                                   1
+g) Sekretarya: İlgili komisyonların görev alanına giren konulara ilişkin sekretarya hizmetini
+yürüten Kurum Genel Sağlık Sigortası Genel Müdürlüğünün ilgili Daire Başkanlığını,
+ğ) Sağlık Uygulama Tebliği (SUT): Kurumca finansmanı sağlanan sağlık hizmetlerinin
+bedelleri ile tedavi yardımlarının verilmesine ilişkin usul ve esasların belirlendiği Kurumca
+yayınlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+h) Sözleşme: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme
+Yönetmeliği kapsamında yurt dışı ilaçların temin, tedarik ve bedelinin Kurumca karşılanmasına
+yönelik firma ile imzalanan sözleşmeyi,
+ı) Taahhütname: Firma nam ve hesabına, Kuruma karşı, sözleşmeli olarak, yönetmelik
+kapsamında istenilen hususların yapılmasının veya tesliminin üstlenildiğini gösteren firmayı
+temsil ve imza yetkili kişi tarafından imzalanmış Sosyal Güvenlik Kurumu Şahsi Tedavi İçin
+Yurt Dışından Temin Edilen İlaçların Alternatif Geri Ödeme Başvurularına İlişkin Usul ve
+Esaslar’ın ekinde yer alan belgeyi,
+i) Yeni tedavi dengesi: SUT Eki İlaç Listeleri’nde yer alan ve aynı endikasyonda kullanılan
+ilaçlar ile başvuruda bulunulan ilacın tedavideki yerinin kıyaslanmasını,
+j) Yitilik: Birim farmasötik şekil içindeki etkin madde miktarını,
+k) Yönetmelik: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme
+Yönetmeliğini,
+l) Yurt Dışı İlaç: Ülkemizde ruhsatlandırılmamış ve/veya ruhsatlandırıldığı hâlde çeşitli
+sebeplerle piyasada bulunmayan ve Sağlık Bakanlığınca hastalıkların teşhis ve tedavisinde
+kullanılmak üzere şahsi tedavi için yurt dışından teminine izin verilen beşeri tıbbi ürünleri,
+m) Yurt Dışı İlaç Temin Kaynağı: Yurt dışı ilaç tedarikçilerinin beşeri tıbbi ürünü temin ettikleri
+yurt dışında yerleşik kurum veya kuruluşu,
+n) Yurt Dışı İlaç Temsilcisi: Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından
+onaylanan ve Yurt Dışından İlaç Temini Yönetmeliği’nde yer aldığı şekli ile Yurt Dışı İlaç
+Temin Kaynağının yükümlülüklerini onun adına yerine getirmek üzere yazılı bir şekilde
+yetkilendirilmiş Türkiye’de yerleşik gerçek veya tüzel kişiyi,
+o) Yurt Dışı İlaç Tedarikçisi: 984 sayılı Ecza Ticarethaneleriyle Sanat ve Ziraat İşlerinde
+Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanun
+gereğince yetkilendirilen ve aynı kanun kapsamında Sağlık Bakanlığınca şahsi tedavi için yurt
+dışından ilaç temininde izin verilen Kurum ve Kuruluşları’nı
+ifade eder.
+
+
+
+
+                                                                                                      2
+                                      İKİNCİ BÖLÜM
+                                       Genel Hususlar
+Yapılacak başvurulara ilişkin genel hususlar
+MADDE 4 - (1) Yurt dışı ilaçların Kurumca finansmanının sağlanmasına ve/veya ödeme usul
+ve esaslarında değişiklik yapılmasına yönelik başvurularda SUT’un 4.3 üncü maddesinde yer
+alan hükümlere uygun genel sağlık sigortalısının talebinin bulunması zorunludur. Genel sağlık
+sigortalısının talepleri doğrudan Kuruma yapılabileceği gibi ilgili mevzuat uyarınca yurt dışı
+ilaç tedarikçileri üzerinden de Kuruma iletilebilir.
+(2) Geri ödeme değerlendirmesine alınan yurt dışı ilaçlara, halihazırda SUT Eki EK-4/C’de
+yayımlanan yurt dışı ilaçlara ve Kurum ile sözleşmeli olarak temin ve tedarik edilen yurt dışı
+ilaçlara ilişkin olarak Yönetmelik kapsamında değerlendirilmek üzere firma tarafından 6 ncı
+madde ile belirlenen bilgi ve belgeler ile başvuru yapılabilir.
+(3) İlgili Komisyonların değerlendirmeleri neticelendiğinde SUT Eki EK/4-C listesine dahil
+edilen ilaçlar Resmi Gazete’de yayınlanır.
+Başvuru usulü
+MADDE 5 – (1) Başvuruların nasıl yapılacağı aşağıda belirtilmiştir:
+a) Başvurular; firmalar veya kamu kurum ve kuruluşları tarafından yapılır.
+b) Başvurulara ilişkin belgeler, gizli bilgi içermesi halinde gizli evrak mevzuatı kapsamında,
+gizlilik içermemesi halinde normal usullerle Kurum evrak servisine iletilir. Yurt dışı ilaçlara
+ilişkin fiyat/geri ödeme modeli değişiklik talepleri veya mevcut tekliflerin geri
+çekilme/revizyonuna ilişkin başvurular ile yurt dışı ilacın SUT Eki Ek-4/C listesine alınması
+sonrasında yapılacak fiyat/geri ödeme modeli değişiklik talepleri de aynı usulle yapılacaktır.
+c) Başvuru dosyasında yer alan bilgi/belgelerde eksiklik veya yanlışlık tespit edilmesi
+durumunda eksiklikler sekretarya tarafından başvuru esnasında bildirilen elektronik posta
+adresi ile veya posta yoluyla yazılı olarak başvuru sahibine bildirilir. İlgili Komisyonun
+değerlendirme aşamasında yapacağı ilave bilgi/belge talepleri de aynı usulle başvuru sahibine
+iletilir.
+ç) Komisyonda değerlendirilecek başvurularda eksikliği tespit edilen dosyalar gündeme
+alınmaz. Ek bilgi ve belge tamamlanana kadar inceleme süreci durur.
+d) Verilen her türlü bilgi ve belgelerin doğruluğundan, bilgilerin kesinleşmiş olmasından,
+Kuruma bilgi ve belgeyi sunan firma sorumludur. Hatalı verilen bilgi ve belgelere dayanılarak
+alınan kararlar nedeniyle Kurumun uğrayacağı zarar, bilgi ve belgeyi Kuruma sunan firmadan
+ilgili mevzuat hükümleri doğrultusunda tahsil ve/veya tazmin edilir. Bu husus firma yetkilisinin
+imzaladığı taahhütnamede belirtilir ve bu taahhütname başvuru dosyasına ait dilekçe ekinde yer
+alır.
+e) Kuruma sunulacak belgeler yabancı dilde ise yeminli mütercim/tercüman tarafından tercüme
+edilmiş Türkçe tercümeleri ile birlikte sunulur.
+
+
+
+
+                                                                                                   3
+Başvurularda Kuruma bildirilecek bilgi ve belgeler
+MADDE 6 – (1) Yönetmelik kapsamında değerlendirilmek üzere SUT Eki Ek-4/C listesine
+giriş veya listede yer alan ilaçların fiyat revizyonu/sözleşme yenilenmesine yönelik Kuruma
+sunulacak fiyat teklifleri için aşağıdaki belge ve bilgilerin teslim edilmesi gerekmektedir.
+a) Dilekçe (Talep net ve kesin ifadeler ile özetlenir, yurt dışı ilacın statüsü (SUT Eki Ek-4/C
+listesine ilk defa girecek yeni ilaçlar/sözleşmesi biten ilaçlar/halihazırda SUT Eki Ek-4/C
+listesinde yer alan ilaçlar), adı, farmasötik şekli ve yitiliği, alternatif geri ödeme modeli, fiyat
+gizliliği talebi vb. açık bir şekilde belirtilir. Dilekçe için talep sahibi firmanın antetli kağıdı
+kullanılır ve dilekçede firmanın irtibat adresi, telefon ve faks numaraları, e-posta adresi bilgileri
+bulunur)
+b) Yetki durumunu gösterir onaylanmış belgeler;
+       1) Yurt Dışı İlaç Temin Kaynağı ve Yurt Dışı İlaç Temsilcisi de dahil olmak üzere
+Firmanın, üretici/ruhsat sahibi firma tarafından yetkili olduğu alanda münhasır olarak
+yetkilendirildiğini gösterir apostil şerhli ve/veya konsolosluk onaylı belge ile yabancı dilde
+olması halinde yeminli Türkçe tercüme,
+        2) Firmanın ruhsat sahibi/üretici olması durumunda; ruhsat sahibi olduğuna dair apostil
+şerhli ve/veya konsolosluk onaylı belge ile yabancı dilde olması halinde yeminli Türkçe
+tercüme,
+c) Ek-1’de yer alan taahhütname,
+ç) Yurt dışı ilaç teklif formu (Ek-2),
+d) Diğer ülkelerdeki fiyatları ve statüsüne dair bilgilerini gösterir tablo (Ek-3),
+e) Klinik araştırma verilerine ilişkin özet tablo (Ek-4),
+f) Yeni tedavi dengesi tabloları (Ek-5),
+g) İlacın endike olduğu hastalığın epidemiyolojisi ve aynı endikasyon için SUT Ekinde yer alan
+listelere dahil edilmiş diğer ilaç/ürün ve/veya ilaç/ürün dışı tedavilerle karşılaştırmalı olarak en
+belirgin üstünlük ve yararları hakkında tercihen 1 (bir) sayfayı geçmeyen özet,
+ğ) İlacın kullanılacağı endikasyonda öngörülen tedavi süresi dahil tavsiye edilen ve yaygın
+olarak kullanılan diğer tedavi rejimlerini içeren ve varsa alternatif tedavi seçenekleri için; aynı
+endikasyon için mevcut olan başlıca tedavi seçeneklerinin (ilaç, cerrahi girişim, radyoterapi,
+fizik tedavisi vb.) neler olduğu ve bunlardan anlamlı farklarının belirtildiği özet,
+h) Diğer ilaç/ilaçlar/tıbbi cihaz ile kombine kullanılmak üzere endike ise, bu kombinasyonların
+ayrıntılarını ilgili yitiliklerle birlikte belirten tablo,
+ı) Başvurular hakkında varsa uluslararası tanı-tedavi kılavuzlarındaki yerini gösterir belge.
+(2) Kurum yukarıda yer alan bilgi ve belgelerin dışında ilave bilgi ve belge talep edebilir.
+
+
+
+
+                                                                                                        4
+                                 ÜÇÜNCÜ BÖLÜM
+                               Çeşitli ve Son Hükümler
+
+
+Yürürlük
+MADDE 7- (1) Bu Usul ve Esaslar Yönetim Kurulunun 11.03.2026 tarihli ve 2026/164 sayılı
+kararı ile uygun görülmüş olup, yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 8 - (1) Bu Usul ve Esasları Kurum Başkanı yürütür.
+
+
+
+
+                                                                                          5
+EK-1 TAAHHÜTNAME
+         Kurumunuza yapmış olduğumuz başvuruya ait, teslim edilen dosyada yer alan her türlü bilgi ve
+belgelerin doğruluğundan, bilgilerin kesinleşmiş olmasından firmamızın sorumlu olduğunu, hatalı
+verilen bilgi ve belgelere dayanılarak alınan kararlar nedeniyle oluşacak Kurum zararı ile ilgili tüm mali
+ve hukuki sorumluluğun firmamıza ait olduğunu, zararın firmamızdan genel hükümler doğrultusunda
+tahsil veya tazmin edileceğini,
+         İlacımızın SUT Ekinde yer alan listelere dahil edilmesine yönelik başvurumuzun kabul edilerek
+listeye girmesi halinde, girdiği tarihten itibaren ilacın şahsi olarak ya da Sağlık Bakanlığınca
+yetkilendirilmiş taraflarca temin edilmesi ve Kurum tarafından ödenmesi durumunda; ilacın temin fiyatı
+ile ilacın Kamu fiyatı arasında oluşacak farkın mali yükümlülüğünün firmamıza ait olduğunu, oluşan
+zararın firmamızdan genel hükümler doğrultusunda tahsil veya tazmin edileceğini,
+      SUT Eki listeye dahil olan/olacak ilaç/ilaçlarımızın kesintisiz temini konusunda sıkıntı
+yaşanmaması yönünde gerekli her türlü önlemin alınacağını ve ilaç kullanımına bağlı olarak
+oluşabilecek her türlü zarar ve/veya tazminattan sorumlu olduğumuzu,
+        5510 sayılı Kanun, 4721 sayılı Türk Medeni Kanunu, 6102 sayılı Türk Ticaret Kanunu, 6098
+sayılı Türk Borçlar Kanunu ve 5237 sayılı Türk Ceza Kanunu ve konuya ilişkin tüm mevzuat
+hükümlerine eksiksiz bir biçimde riayet edeceğimi/edeceğimizi,
+       5502 sayılı Sosyal Güvenlik Kurumuna İlişkin Bazı Düzenlemeler Hakkında Kanunun 35 inci
+maddesinin altıncı fıkrası ve 6698 sayılı Kişisel Verilerin Korunması Kanunu yönünden kişisel verilerin
+korunması, işlenmesine ilişkin kurallara uyacağımızı,
+        Taahhüt edilen hususlara aykırı davranılması durumunda her türlü hukuki ve cezai
+sorumluluğun firmamıza ait olduğunu, Kurumun ve/veya genel sağlık sigortalılarının zarara uğraması
+halinde; her türlü menfi ve müspet zarar ile maddi ve manevi zararın firmamız tarafından tazmin
+edileceğini, maddi ve manevi tazminat ödeme yükümlülüğünün kabul ve taahhüt edildiğini,
+        Her türlü ihtilafın çözümünde Ankara Mahkemelerinin ve icra dairelerinin yetkili olduğunu,
+        Firmanın nam ve hesabına yetkili imza sahipleri olarak kabul ettiğimi/ettiğimizi beyan ve
+taahhüt ederim/ederiz.
+
+
+                                                                 …. /…. /….
+                                                             Firma Yetkilisinin
+                                                                Adı-Soyadı
+                                                               (İmza ve Kaşe)
+
+
+
+
+                                                                                                             6
+EK-2 YURT DIŞI İLAÇ TEKLİF FORMU
+   1. Firma İletişim Bilgileri
+      (a) Başvuru Sahibine ait bilgiler
+
+*Yurt Dışı İlaç Temin Kaynağı veya Yurt Dışı İlaç Temsilcisinden farklı olması durumunda
+doldurunuz.
+
+ Başvuru Sahibine ait bilgiler
+ Firma Adı:
+ Adresi:
+ Üretici Firma:
+ Firmanın Üretici ile
+ Bağlantısı
+
+
+
+ Başvuru Sahibi Adına Sözleşme İmzalamaya Yetkili Kişi/ Kişiler *
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:    Email:
+                        Tel:
+* Sözleşmelerin imzalanmasında         firma   adına   görev   alacak   firmanın   kanuni
+temsilcisi/temsilcileri
+
+ İletişime Geçilecek Temsilci Kişi/Kişiler*
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:    Email:
+                        Tel:
+
+* Firma tarafından yetkilendirilmiş bir kişi olmalıdır. Gizlilik ve etik kurallar belgesi
+imzalayacaktır. Kurum ile firma adına görüşmelere katılacak ve en fazla 3 kişi olacaktır.
+
+   b) Yurt Dışı İlaç Temin Kaynağına ait bilgiler
+
+ Yurt Dışı İlaç Temin Kaynağına ait bilgiler
+ Firma Adı:
+ Adresi:
+
+
+                                                                                            7
+ Üretici Firma:
+ Firmanın Üretici ile
+ Bağlantısı
+
+
+
+ Yurt Dışı İlaç Temin Kaynağı Adına Sözleşme İmzalamaya Yetkili Kişi/ Kişiler *
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:     Email:
+                         Tel:
+* Sözleşmelerin imzalanmasında              firma   adına   görev   alacak   firmanın   kanuni
+temsilcisi/temsilcileri
+
+ İletişime Geçilecek Temsilci Kişi/Kişiler*
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:     Email:
+                         Tel:
+
+* Firma tarafından yetkilendirilmiş bir kişi olmalıdır. Gizlilik ve etik kurallar belgesi
+imzalayacaktır. Kurum ile firma adına görüşmelere katılacak ve en fazla 3 kişi olacaktır.
+
+c) Yurt Dışı İlaç Temsilcisine ait bilgiler
+ Yurt Dışı İlaç Temsilcisine ait bilgiler
+ Firma Adı:
+ Adresi:
+ Firmanın Üretici ile
+ Bağlantısı
+
+
+
+ Yurt Dışı İlaç Temin Kaynağı Adına Sözleşme İmzalamaya Yetkili Kişi/ Kişiler *
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:     Email:
+                         Tel:
+
+
+
+                                                                                                 8
+* Sözleşmelerin imzalanmasında               firma   adına   görev   alacak   firmanın    kanuni
+temsilcisi/temsilcileri
+
+ İletişime Geçilecek Temsilci Kişi/Kişiler*
+ Ad-Soyad:
+ Unvanı/Görevi
+ İletişim bilgileri:      Email:
+                          Tel:
+
+* Firma tarafından yetkilendirilmiş bir kişi olmalıdır. Gizlilik ve etik kurallar belgesi
+imzalayacaktır. Kurum ile firma adına görüşmelere katılacak ve en fazla 3 kişi olacaktır.
+
+2. a. İlaca İlişkin Bilgiler
+
+ İlacın adı
+ İlacın etkin maddesi ve miktarı
+ İlaç, Yurtdışı ilaç fiyat listesinde (Ek-
+ 4/C) yer almakta mıdır? Ödeme
+ bilgilerini ve varsa alternatif geri
+ ödeme modeli/sözleşmesine ilişkin
+ bilgileri yürürlük tarihi ile birlikte
+ belirtiniz.
+
+2.b. Teklife İlişkin Bilgiler
+
+
+ Teklif edilen alternatif geri ödeme
+ modeli
+
+
+ Açıklama:
+ İlacın kullanılacağı hasta gruplarını ve bu grupları belirleme kriterleri ile bu kriterlerin
+ nasıl ölçüleceğini ilişkin bilgi veriniz.
+
+
+ Açıklama:
+
+ İlacın tüm basamaklarda* uygulanıp uygulanmayacağına ilişkin
+                                                              EVET                  HAYIR
+ bilgi veriniz.
+ Açıklama:
+ İlacın uygulanacağı tedavi basamakları
+
+
+                                                                                                   9
+ Açıklama:
+ *1.,2. ve 3. Basamak Sağlık Hizmeti Sunucuları anlaşılmalıdır.
+
+
+3. Modelin Yürütülmesi
+3.a. İlaç için model geliştirme nedenlerini detaylı olarak açıklayınız.
+3.b. Modelin işleyişine ilişkin diyagram (iş akışı) oluşturunuz. (reçeteleme, dağıtım, ödeme
+şekli, taraflar, takip vs.)
+3.c. Modelin her aşamasını detaylı olarak anlatınız. (her aşamada yer alan paydaşları
+içerecek şekilde)
+3.d. Hastaların mevcut durumda nasıl tedavi edildiklerini yazınız. Teklif edilen model
+mevcut durumdan farklı ise (ek tedavi, ilaçlar vs.) değişiklikleri anlatınız.
+3.e. Modeli finansal süreci açısından tanımlayınız.
+3.f. Modelde yer alan bedava ürün koşullarının nasıl işletileceğine ilişkin detaylı bilgi
+veriniz.
+3.g. İlave maliyetlere ilişkin bilgi veriniz.
+
+                                      Maliyet Hesaplaması     Kaynak
+  Muayene
+  İlaç
+  Tıbbi Malzeme
+  Tanı Testleri
+  İzleme Testleri
+  İlave Ücret
+  Diğer Maliyetler
+  Tedaviyle       ilişkili   toplam
+  maliyet
+
+3.h. İlaca ilişkin insidans ve prevelans verilerini (kaynaklarını belirterek) yazınız.
+  Endikasyon                          Prevelans               İnsidans
+
+
+
+
+                                                                                               10
+3.i. Hasta popülasyonunun % kaçının modelde yer alan kriterleri karşılayacağı
+beklenmektedir.
+3.j. Modele göre gelecek 3 yıl içinde tedavi edilmesi öngörülen hasta sayılarını (kaynak*
+belirterek) yazınız.
+ Endikasyon                             Tahmini Hasta Sayısı
+                                        Yıl 1             Yıl 2             Yıl 3
+
+
+
+
+ Kaynak:
+  * Öncelikle Türkiye kaynakları bunlara ulaşılamıyorsa yurtdışı kaynakları kastedilmektedir.
+3.k. Modele Yönelik Bütçe Etkisi Tablosu
+ Endikasyon                             Tahmini Bütçe Etkisi
+                                        Yıl 1             Yıl 2             Yıl 3
+
+
+
+
+4. Verilerin İzlenmesi
+4.a. Hangi verilerin izleneceği ve nasıl toplanacağına ilişkin bilgi veriniz. Toplanan
+verilerin hangi sürelerle paylaşılacağını yazınız.
+
+  İzlenecek veriler
+  Mevcut    veri      toplama
+  yöntemi
+
+
+  Veri          toplamadaki
+  değişiklikleri anlatınız.
+
+
+
+                                                                                                11
+4.b Tarafların veri toplamadaki sorumluluklarını belirtiniz.
+
+  Firma
+  SGK
+  Diğer ilgili taraflar
+
+
+4.c. Sözleşmeye ilişkin veri ve bilgiler kimlerle paylaşılacağını belirtiniz (sonuç verileri,
+gerçekleşen hacim, tutar, hasta vs. sayısı).
+
+
+
+
+Başvuru kapsamında sunulan işbu İlaç Teklif Formu daha önce sunulan İlaç Teklif Formunu
+geçersiz kılar.
+                                                            Firma Yetkilisinin
+                                                                Adı-Soyadı
+                                                              (İmza ve Kaşe)
+                                                                 Tarih
+
+
+
+
+                                                                                                12
+    EK-3 DİĞER ÜLKELERDEKİ FİYATLARI VE STATÜSÜNE DAİR BİLGİLER
+
+     ÜLKE ADI   FİYATI      RUHSAT         GERİ ÖDEME     GERİ ÖDEME
+                (DÖVİZ      DURUMU         DURUMU         FİYATI
+                CİNSİ İLE
+                BİRLİKTE)
+
+
+
+
+    EK-4 KLİNİK ARAŞTIRMA VERİLERİNE İLİŞKİN ÖZET TABLO
+
+KAYNAK YAYININ /   AMAÇ      ARAŞTIRMA      KANIT         YÖNTEM   SONUÇ
+RAPORUN BAŞLIĞI,             TÜRÜ           DÜZEYİ
+KAYNAK VE TARİHİ
+
+
+
+
+                                                                           13
+EK-5 YENİ TEDAVİ DENGESİ TABLOLARI
+5.1. İLAÇ BİLGİSİ
+ İlacın adı
+ Etkin madde/maddelerinin adı
+ Farmasötik şekil, yitilik ve birim fiyat
+ Terapötik Grup
+ Farmakolojik Grup
+ İlgili alternatifler (ilaç dışı dahil)
+
+
+5.2. ENDİKASYON VE DOZAJ BİLGİSİ
+
+ Kısa ürün bilgisinde yer alan endikasyon /        Bu endikasyon/endikasyonlar için tavsiye
+ endikasyonlar                                     edilen tedavi dozu ve süresi
+ FDA
+ EMA
+ DİĞER
+
+
+5.3. İLAÇ MALİYETİ / HASTA / AY*BİLGİSİ
+
+ Endikasyon / endikasyonlar                        Kamu için toplam ilaç maliyeti / hasta / ay*
+
+
+
+
+* Bir aydan kısa süreli tedaviler belirtilmeli ve maliyet buna göre hesaplanmalıdır.
+
+
+5.4. İlacın endikasyon / endikasyonlarının Türkiye’de tahmini prevalansı ve tahmini hasta sayısı
+
+ Kullanıldığı tanı          Popülasyon             Kullanıldığı tanının    Tahmini hasta sayısı
+                                                   tahmini prevelansı
+
+
+
+
+5.5. Tahmini bütçe etkisi
+                                                   1. Yıl           2. Yıl             3. Yıl
+ İlacı kullanması muhtemel hasta sayısı
+ oranı (%)
+ İlacı kullanması muhtemel hasta sayısı
+ Hasta başına yıllık kutu adedi
+ İlacın yıllık toplam kutu adedi
+ İlacın kamu maliyeti
+
+
+* Teklifte yer alan döviz cinsi belirtilmelidir.
+
+
+
+                                                                                                   14
+

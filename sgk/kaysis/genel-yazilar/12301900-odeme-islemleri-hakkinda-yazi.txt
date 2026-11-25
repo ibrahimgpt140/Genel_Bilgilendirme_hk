@@ -1,0 +1,101 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73870
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 12301900
+ADI: ÖDEME İŞLEMLERİ HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 3788c578f197269ae6ead644529fa4da62d54cb56e2ebce125ee2550c71b0c96
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                          T.C.
+                                              SOSY AL GUVENLiK            KURUMU BASKANLIGI
+                                                             Strateji Gelistirme Baskanligi
+
+
+
+Sayi     : 17636183/12301900                                                                             25/07/2013
+           ..          .
+Konu : Odeme Islernleri
+
+
+                                                            GENEL YAZI
+
+
+
+        Bilindigi .uzere, Kurumumuz tarafmdan yapilan tum mali islernler, Mali Yonetim Otomasyon
+Sistemi (MOSIP) iizerinde kayit altma ahnmakta ve isleme tabi tutulmaktadir. Gider, iade ve
+gondermelere iliskin odeme islemleri merkezdeki Odeme Muhasebe Birimi tarafmdan yerine
+getirilmektedir.     Kurulan   ve uygulanan      sistemin mahiyeti    icabi, Kurum biitcesine gider
+kaydedilecek tutarlar, harcama birimleri tarafmdan Mosip Sistemi iizerinde tahakkuk ettirilmekte,
+yetkili personel (harcama yetkilisi, gerceklestirme gorevlisi) tarafindan gerekli onaylamalar yine
+sistem iizerinde yapildiktan sonra mahallindeki muhasebe birimine aktanlmaktadir. Muhasebe
+yetkilileri 5018 sayih Kanun geregi yapmalan gereken kontrolleri yaptiktan sonra soz konusu
+giderleri Kurum muhasebe kayitlanna alrnaktadir. Kisilere odenecek tutarlar, bu muhasebe
+kayitlanrun detaymda sisteme kaydedilmektedir. Muhasebe yetkilileri, yukanda anlatilan sekilde
+muhasebe kayitlanna alman odeme bilgileri iizerinden, MOS~_P Sistemini kullanarak, merkezdeki
+Odeme Muhasebe Birimine oderne talebi gondermektedir. Odeme Muhasebe Birimi, tasradaki
+muhasebe birimlerinden sistem iizerinden iletilen oderne taleplcri icin, yine MOSIP Sistemi
+iizerinden bir odeme talimati diizenlernekte, bu odeme talimatma iliskin odeme listelerini
+elektronik ortamda ilgili bankalara iletmekte, bu talimatlann sonuc bilgilerini ayru yonternle
+bankalardan      alarak rnuhasebelestirmektedir.     Bu sistemin ozelligine gore muhasebe islemleri
+tamarnlanmarms her hangi bir islem icin odeme talirnati verilmesi miimkiin degildir.
+        Tiirlerine gore, her bir mali islemin hangi sure icinde tahakkuk ettirilip, muhasebe
+birimlerine intikal ettirilecegi, muhasebe birimlerinin, tahakkuk ettirilen bu islemleri hangi siireler
+icinde muhasebe kayitlanna alacagi, odeme taleplerini hangi siireler icinde merkeze iletecegi ile
+ilgili hususlar 20.04.2010 tarih ve 2010/52 sayili Gcnelge ile diizenlenmistir.
+       Nakit yonetim islemlerini kolaylasturnak  ve etkinlestirmek amaciyla odeme islemleri ile
+ilgili olarak, MOSIP Sistemi iizerinde yeni bir uygulama gelistirilrnistir, Bu ycni uygulamada,
+odemenin tiirime gore ij>lemlerin hangi tarihlerde geryeklej>tirilecegi, bunun iyin ilgili odeme
+hesaplanna hangi tarihlerde nakit aktanml yapllacagl 2010/52 sayIlI Genelge hukumlerine gore
+kurallara baglanmlj>tlr. Buna gore;
+        Gider tahakkuk ij>lemleri, harcama birimleri tarafmdan 2010/52 sayIll Genelge hukiimlerine
+gore geryeklej>tirilecek ve sonuylandmlacaktlr.        Muhasebe birimleri, bu tahakkuk ij>lemleri
+uzerindeki      gerekli   incelemeleri   2010/52    sayI11 Genelgede     belirtilen  sureler  iyinde
+sonuylandlracaklar ve muhasebe kaYltlanm tesis edeceklerdir. Bu ~ekilde sonuylandmlan giderlere
+ilij>kin odemelerle, emanet hesaplara alman tutarlann iadesi ve diger kurumlara gonderilecek
+paralarla ilgili odeme taleplerini yine Mosip Sistemi uzerinden merkezdeki Odeme Muhasebe
+Birimine ileteceklerdir.
+        Muhasebe birimleri tarafmdan odeme talepleri, her gun saat 15:40 itibariyle merkeze
+iletilmij> olacaktJr. Her gun saat 15:40 ila 00:00 arasmda merkezc odeme talebi iletilmesi, sisteme
+konulan kontroller ile engellenecek ve ertesi gun yeniden otomatik olarak aYllacaktlr.
+
+
+Adres: Ziyabey Cad. No:6 06520 BalgaUANKARA                                          Aynntlll bilgi iQin irtibat: Mahmut KARASU Dai. B~k.
+Tel: (312) 2078547 Faks: (312) 2078146
+ e·posta: mkarasu@sgk.gov.tr Elektronik Ag:www.sgk.gov.tr
+        Odeme      Muhasebe       Birimi tarafmdan,      merkeze   iletilen odeme talepleri      icin odeme         talimatlan
+ve    odeme listelerinin diizenlenmesi islemleri, ayru gunun mesai saati bitimine kadar
+sonuclandinlacaktrr. Bu talimat ve oderne listeleri ertesi gun ilgili bankalara iletilecek ve nakit
+aktanmlan gerceklestirilecektir,
+        Saat 15:40'dan sonra merkeze ode me talebi iletilmesi sistem tarafmdan engelleneceginden,
+odemelerin zamanmda gerceklestirilebilmesi     icin, harcama birimleri tarafindan tum gider tahakkuk
+islernlerinin 2010/52 sayrh Genelgede belirtilen siireler icinde tamarnlanmasi ve muhasebe
+birimine intikal ettirilmesi, muhasebe birimlerinin de yine ayru Genelgede belirtilen sureler icinde
+incelemelerini tamamlayip, son odeme giiniinden bir onceki giin saat 15:40'a kadar oderne
+taleplerini merkeze iletmesi gerekmektedir. Bu saate kadar merkeze iletilemeyen oderne talepleri
+ancak ertesi gun merkeze iletilebilecek ve takip eden gun odenebilecektir.
+        Yukanda bahsi gecen uygulama 01.08.2013 tarihinde yiiriirluge girecektir. Uygulamamn bu
+hususlar goz onune almarak yiiriitiilmesini, odemelerde her hangi bir aksamaya meydan
+verilmemesi acismdan, 2010/52 sayih Genelgede gosterilen uygulama esaslanna titizlikle riayet
+edilmesini onernle rica ederim.
+
+
+
+
+                                                                                       Yadigar Gokalp ILHAN
+                                                                                          Kurum Baskarn
+
+
+
+
+DAGITIM:
+Geregi:
+Merkez ve Tasra Teskilatina
+
+
+
+
+Adres:Ziyabey Cad.No:6 06520 BalgatiANKARA                                    Aynntrh bilgi i~inirtibat: MahmutKARASU Dai. Bsk.
+Tel: (312) 2078547 Faks: (312) 2078146
+ e-posta:mkarasu@sgk.gov.trElektronikAg:www.sgk.gov.tr
+

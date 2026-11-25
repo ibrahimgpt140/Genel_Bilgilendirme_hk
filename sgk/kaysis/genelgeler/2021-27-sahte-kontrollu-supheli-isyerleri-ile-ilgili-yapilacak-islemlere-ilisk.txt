@@ -1,0 +1,730 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/180486
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2021/27
+ADI: SAHTE, KONTROLLÜ ŞÜPHELİ İŞYERLERİ İLE İLGİLİ YAPILACAK İŞLEMLERE İLİŞKİN 12/08/2021 TARİHLİ VE 2021/27 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 938f873af5de50e05e19b029832671fd805df073ee60d86928a742a62e2743bd
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                      T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-51592363-010.06.99-29348022                                                                                      12.08.2021
+Konu : Sahte, Kontrollü Şüpheli İşyerleri İle
+       İlgili Yapılacak İşlemler
+
+
+                                                            GENELGE
+                                                             2021/27
+
+        1- GENEL AÇIKLAMALAR
+        Kurumca yapılan incelemeler sonucunda, gerçekte 5510 sayılı Kanunun 4 üncü maddesinin
+birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırılmadığı halde, bazı kişilerce sahte işyeri tescili
+yaptırılmak suretiyle sahte sigortalı bildiriminde bulunulduğu ve Kurumun denetim ve kontrolle görevli
+memurlarınca yapılan tespitlere istinaden bu bildirimlerin iptal edilmesine rağmen, aynı kişilerin bu defa
+aynı veya farklı sosyal güvenlik merkezlerinde farklı bir işyeri dosyası tescil ettirmek suretiyle sahte
+sigortalı bildiriminde bulunmaya devam ettikleri, ayrıca sahte sigortalı bildirilen kişilerin sağlık
+yardımlarından da yararlandıkları, geçici iş göremezlik ödeneği, sürekli iş göremezlik geliri veya aylık
+aldıkları anlaşılmıştır.
+        Öte yandan sahte işyeri tescil ettiren kişilerin, sağlık provizyonu alamadıklarını tespit ettikleri
+kişilerin sağlık hizmetlerinden yararlanmalarını sağlamak, yaşlılık aylığına hak kazanma koşulları
+arasında sayılan eksik prim ödeme gün sayılarını tamamlamak vb. diğer sosyal sigorta haklarından yersiz
+bir şekilde istifade etmeleri amacıyla talep ettikleri para karşılığında sahte sigortalı bildiriminde
+bulundukları tespit edilmiştir.
+        Gerçek dışı hizmet bildirimlerinden kaynaklanan Kurumumuz zararının önlenmesi, sahte
+hizmetlerle yaşlılık aylığına hak kazananlardan sonradan bu hizmetleri iptal edilerek bakiye hizmet
+süresiyle aylığa hak kazanamadığı anlaşılanların aylıklarının kesilerek yersiz ödenen aylıklar nedeniyle
+büyük bir borç yükü altına girmelerinin engellenmesi, bu vakaların artmaması için sahte işyeri
+tespitlerinin hızlandırılması ve gereksiz emek ve zaman kaybının önüne geçilmesi amacıyla, gerek sahte
+sigortalı bildiriminde bulunduğu anlaşılan kişilerin aynı fiili yeniden işlemelerinin önüne geçilmesi,
+gerekse sahte işyerlerinin tespit edilebilmesi için işyeri tescil ve e-bildirge programlarında değişiklikler
+yapılarak, konuyla ilgili sosyal güvenlik il müdürlüklerimizce/sosyal güvenlik merkezlerimizce yapılacak
+işlemler muhtelif tarihlerde çıkarılan genel yazılar ve e-posta talimatlar ile açıklanmıştır.
+        İşyeri tescil ve e-bildirge programlarında yapılan bahse konu değişiklikler ile işyerleri tescil
+durumları itibariyle;
+        -Sahte (S),
+        -Kontrollü (K),
+        -Şüpheli (Ş)
+        olmak üzere üç farklı sınıfta tanımlanmaktadır.
+        Ayrıca,
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             1/14
+        -“Sahte İşyeri” ve “Kontrollü İşyeri”nden bildirimi yapılan sigortalılar hakkında yersiz olarak
+hizmet bildirme ve birleştirme yapılmaması ve kendileri ile hak sahiplerine Kurumca kısa ve uzun vadeli
+sigorta kolları yönünden yardım yapılmaması,
+        -“Sahte İşyeri”nden bildirimi yapılan sigortalılar hakkında ise tespit tarihinden önce bu nitelikteki
+bildirimlerin geçersiz sayılması nedeniyle durumlarının güncellenmesi, akabinde, haksız ve yersiz
+yapılmış olan işlemlerin geri alınması,
+        açısından SGK Tescil ve Hizmet Dökümü Programında; “Sahte İşyeri”, “Kontrollü İşyeri” ve
+“Şüpheli İşyeri”nden bildirilen hizmetlerin turuncu renk ve “S”, “K”, “Ş” harfleri ile gösterimi
+sağlanmıştır.
+        Bu genelgenin amacı, sahte işyeri ve sahte sigortalılık konularını içeren ve muhtelif zamanlarda
+çıkarılan genel yazı ve e-postaların gözden geçirilerek, güncel çalışma ve bilgiler ışığında yeniden ele
+alınarak birleştirilmesini sağlamak ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştırılmamasına rağmen Kurumumuza bildirimde bulunulması halinde
+Kurumumuzca yapılacak iş ve işlemleri açıklamaktır.
+        Bu bağlamda, sahte sigortalı bildirimlerinin Kuruma verdiği zararın önüne geçilmesi ve sahte
+sigortalı olarak bildirilen vatandaşların sonradan telafisi mümkün olmayan sonuçlarla karşılaşmalarının
+önlenmesi amacıyla sahte, kontrollü ve şüpheli işyerleri ile bu işyerlerinden hizmet bildirimi yapılmış
+kişiler hakkında Sosyal Güvenlik İl Müdürlüklerimizce/Sosyal Güvenlik Merkezlerimizce yapılacak
+işlemler aşağıda açıklanmıştır.
+        2- SAHTE, KONTROLLÜ VE ŞÜPHELİ İŞYERİ TANIMLAMALARI İLE
+TANIMLAMA YAPILAN İŞYERLERİ HAKKINDA YAPILACAK İŞLEMLER
+        Kurumun denetim ve kontrolle görevli memurlarınca yapılan denetimler sonucunda “Sahte
+İşyeri” tescili yapıldığı tespit edilen işyerleri sisteme “Sahte İşyeri” olarak,
+        Sahte işyerlerinin belirgin özellikleri de dikkate alınarak tespit edilen kriterler kapsamında
+Kurumda tescilli bulunan işyerleri arasında sahte olma potansiyeli yüksek olan işyerleri “Kontrollü
+İşyeri” olarak,
+        “Sahte İşyeri” olarak tanımlanmış olan işyerlerinin, işverenlerinin, gerçek kişi olması halinde TC
+Kimlik Numarası (TCKN), tüzel kişi olması halinde Vergi Kimlik Numarası (VKN) ile tüzel kişiliği
+oluşturan ortakların TCKN/VKN anahtar olarak kullanılmak suretiyle bu kişiler adına aynı veya farklı
+sosyal güvenlik merkezlerinde tescil edilmiş/edilecek diğer işyerleri ile bu gerçek veya tüzel kişilerin
+ortak/üst düzey yönetici olduğu/olacağı diğer işyerleri, sistem tarafından “Şüpheli İşyeri” olarak,
+        Tanımlanacaktır.
+        İşyeri hakkında;
+        -“Sahte İşyeri” tanımlamaları İşyeri Tescil ve e-Sigorta Servisi tarafından,
+        -“Kontrollü İşyeri” tanımlamaları İşyeri Tescil ve e-Sigorta Servisi tarafından,
+        -“Şüpheli İşyeri” tanımlaması ise “Sahte İşyeri” tanımlamalarına bakılarak sistem tarafından
+otomatik olarak,
+        yapılacaktır.
+        İşyeri Tescil ve e-Sigorta Servisince “Sahte İşyeri” ve “Kontrollü İşyeri” olarak yapılacak
+tanımlamalar, İşveren Tescil Uygulaması programlarında mevcut, “Tescil Değişiklik İşlemleri” menüsü
+işaretlenmek suretiyle erişilen “Tescil Değişiklik” ekranları vasıtasıyla yapılacaktır.
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             2/14
+        2.1- Sahte İşyeri Tanımlamaları İle Bu İşyerleri Hakkında Yapılacak İşlemler
+        2.1.1- Sahte İşyeri Tanımlamaları
+        Sahte işyeri; tabela işyeri olarak da adlandırılan gerçekte hiçbir ticari ve mesleki faaliyeti
+olmadığı ve somut bir varlığı bulunmadığı halde, işyeri dosyasından sahte sigortalılık bildirimi yapmak
+amacıyla, çoğu kez gerçekte var olmayan adresler beyan edilerek (boş arazi, boş dükkan vb.) sadece
+sahte sigortalı bildirmek amacıyla işyeri dosyası tescil edilen yerlerdir.
+        Ayrıca sahte işyeri; yeni işyeri dosyası tescil edilmeksizin Kurumda tescilli bulunan ve gerçekte
+var olan faal veya gayri faal bir işyerini devralmak ya da bu işyeri işvereni olan şirketin hisselerini satın
+almak veya gayri faal olan işyerlerinin e-bildirge şifrelerini usulsüzce kullanmak suretiyle bu işyeri
+dosyaları üzerinden gerçekte hiçbir ticari ve mesleki faaliyette bulunmadan sahte sigortalılık bildirimi
+yapmak amacıyla da kendini gösterebilmektedir.
+        Söz konusu nitelikteki işyerleri hakkında Kurumun denetim ve kontrolle görevli memurlarınca
+yapılan tespitlere istinaden düzenlenen raporlarda;
+        -İşyerinin Kanun kapsamına alındığı tarihten itibaren bildirimi yapılan tüm sigortalıların sahte
+olduğunun tespit edilmesi halinde “Sahte İşyeri/1-Kanun Kapsamına Alındığı Tarihten İtibaren
+Sahte İşyeri”,
+        -Belirli bir tarihten sonra sigortalı bildirilen kimselerin çalışmalarının gerçek ve eylemli
+olmadığının, bir başka ifade ile belirli bir tarihten sonra işyerinin gerçekte var olmadığının tespit edilmesi
+halinde ise “Sahte İşyeri/2-Belirli Bir Tarihten Sonra Sahte İşyeri”,
+        seçeneği seçilmek suretiyle, denetim raporunun “tarih ve sayısı”, ile raporu düzenleyen
+Denetmen(D)/Müfettiş(M) bilgisi, işverene hizmet veren sözleşmeli meslek mensubunun TCKN/VKN
+bilgileri ile varsa kusur durumunu belirten “Kusuru Var" bilgisi “Tescil Değişiklik” ekranları vasıtasıyla
+sisteme girilerek işyerinin tescil durumu kontrollüden/şüpheliden/normalden sahteye çevrilmek üzere
+gerekli tanımlama yapılacaktır.
+        Bununla birlikte sahte işyeri incelemesi sonucunda;
+        -Kontrollü, şüpheli listesinde olup da yapılan denetim sonucunda sahte olmadığı anlaşılan
+işyerlerine “Sahte Değil” (SD),
+        -Gerçek bir işyeri olduğu anlaşılmasına rağmen sahte sigortalı bildiriminde bulunduğu tespit
+edilen işyerlerine “Sahte Sigortalı Bildirmiş”(SB)
+        Tanımlamaları yapılacaktır.
+        Diğer taraftan, gerçek ve eylemli çalışanların da bulunduğu gerçek işyerlerinden bildirim yapılan
+aynı aylarda sahte sigortalı/sigortalıların da bildirildiğinin tespit edilmesi durumunda ise işyeri sahte
+olarak değerlendirilmeyerek sigortalı sahte sayılmak üzere sahte sigortalıların hizmetleri iptal edilecektir.
+        “Sahte İşyeri” olarak tanımlanacak olan tüzel kişilerin ortak veya üst düzey yöneticilerinin bir
+kısmının tescil işlemleri sırasında sisteme girilmemiş olması veya tanımlama işleminin yapılacağı tarih
+itibariyle ortak veya üst düzey yönetici bilgilerinin güncel bulunmaması halinde, İşyeri Tescil ve
+e-Sigorta Servisi tarafından “Sahte İşyeri” olarak yapılacak tanımlamadan önce işyeri tescil bilgilerinde
+gerekli ekleme, düzeltme ve güncelleme işlemleri “Tescil Değişiklik” ekranları vasıtasıyla yapılacaktır.
+        2.1.2- Sahte İşyeri veya Sahte Sigortalılık Tespit Edilen Denetim Raporlarıyla İlgili
+Yapılacak İşlemler
+        Kurumun denetim ve kontrolle görevli memurlarınca yapılan tespitlerde sahte veya gerçek
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             3/14
+işyerinden bildirimi yapılan sahte sigortalıların saptanması durumunda, yapılan tespitlere ilişkin
+değerlendirilmesi gereken hususlar Sosyal Güvenlik Denetmenleri Çalışma Talimatında açıklanmıştır.
+         -İşyerinin sahte olduğunun tespit edilmesi halinde, düzenlenecek raporun bir suretinin işyerinin
+Muhtasar Beyannamesinin/Muhtasar ve Prim Hizmet Beyannamesinin (MPHB) verildiği yetkili vergi
+dairesine gönderilmesi,
+         -Sahte hizmet kazandırmak suretiyle sağlık hizmetleri ve diğer haklardan, ödeneklerden
+yararlanılması ile gelir veya aylık bağlatılması nedenleriyle Kurumun yanlış işlem ve ödeme yapmasına
+sebebiyet veren ve bu suretle adına borç tahakkuk ettirilen ve/veya borç tahakkuk ettirilmesine neden
+olan kişiler hakkında Kurum zararı da belirtilerek 5237 sayılı Türk Ceza Kanununun 204 üncü, 206 ncı
+ve 207 nci maddeleri kapsamında Cumhuriyet Savcılığına suç duyurusunda bulunulması,
+         -Kuruma sahte işyeri ve/veya sahte sigortalı bildiriminde kastı veya kusuru bulunduğu tespit
+edilen meslek mensubu hakkında Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali
+Müşavirler Odaları Birliğine bilgi verilmesi,
+         - Kurumun denetim ve kontrolle görevli memurlarınca yapılan tespitlerde sahte veya gerçek
+işyerinden sahte sigortalılar adına yapılan bildirimlere ilişkin prim ve idari para cezası ödenmiş
+olduğunun tespiti halinde, ödenen primlerin ve idari para cezalarının 6098 sayılı Türk Borçlar
+Kanununun 81 inci maddesi ve Sosyal Sigorta İşlemleri Yönetmeliğinin ek 7 nci maddesine istinaden
+Kuruma irat kaydedilmesi, sahte sigortalılar adına yapılan bildirimlerden kaynaklanan primlerin ve idari
+para cezalarının ödenmemiş olması halinde ise tahsili cihetine gidilmemesi,
+         - Yapılan denetim sonucunda sahte işyeri veya sahte sigortalılık tespitine ilişkin düzenlenen
+raporun bir suretinin, geçici iş göremezlik ve emzirme ödeneklerinin tahsil edilmesi amacıyla Kısa
+Vadeli Sigortalar Servisine, sahte sigortalı olduğu tespit edilenlerin kullanmış oldukları iyileştirme
+vasıtası, ortez ve protez giderlerinin tahsili için, düzenlenen denetim raporlarının bir nüshasının Sağlık
+Ödeme Servislerine ve Sağlık Sosyal Güvenlik Merkezlerine gönderilmesi, genel sağlık sigortası
+tescillerinin yapılması/düzeltilmesi için işyerinin bağlı olduğu genel sağlık sigortası servisine, 5510 sayılı
+Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığı olduğu anlaşılanlarla
+ilgili tescillerinin yapılması/düzeltilmesi için 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının
+(b) bendi kapsamında dosyasının işlem gördüğü sigortalı tescil ve hizmet servisleri, bir suretinin de
+gelir/aylık ile ilgili değerlendirme yapılmak üzere Emeklilik Servislerine intikal ettirilmesi,
+         -Asgari işçilik hesaplaması yapılmış ve ilişiksizlik belgesi düzenlenmiş işyerlerinde, ilişiksizlik
+belgesinin verildiği tarihten sonra o işyerinde sahte sigortalılık nedeniyle hizmet iptali olması durumunda
+asgari işçilik hesabının yeniden yapılması,
+         - “Sahte işyeri” tanımlaması yapılan işyeri dosyaları üzerinden Kuruma verilen aylık prim ve
+hizmet belgesi/muhtasar ve prim hizmet beyannamesi “I”, dört aylık sigorta primleri bordroları ise “T”
+kodu girilerek, hizmetin iptal edilmesi, bu işyerlerinden sigortalı adına hizmet bildirimi ve hizmet
+birleştirme işlemi yapılmaması,
+         - “Sahte işyeri” tanımlaması yapılan işyeri dosyaları üzerinden Kuruma verilen sigortalı işe
+giriş/işten ayrılış bildirgesinin iptal edilmesi,
+         gerekmektedir.
+         2.1.3- Damga Vergisi Tahakkukları Hakkında Yapılacak İşlemler
+         Kurumumuzun denetim ve kontrolle görevli memurlarınca yapılan inceleme ve denetimler
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             4/14
+sonucunda sahte olduğu tespit edilen işyerlerinden yapılan sahte sigortalı bildirimlerinden dolayı
+Kurumumuza verilmiş olan her bir asıl ve ek nitelikteki aylık prim ve hizmet belgesinden tahakkuk etmiş
+damga vergisi borçlarının iptal edilmesine imkan bulunmamakta, dolayısıyla, söz konusu damga vergisi
+borçlarının 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca takip ve
+tahsil edilmesi gerekmektedir.
+        Bu bağlamda, sahte işyeri tescil ettirdiği tespit edilen kişilerce, sahte işyerlerinden bildirilen aylık
+prim ve hizmet belgesinden dolayı tahakkuk etmiş ve ödenmemiş damga vergisi ve buna ilişkin gecikme
+zammı borçları, aylık prim ve hizmet belgesinin iptal edilmesi üzerine sistem tarafından iptal
+edilmemektedir.
+        Diğer taraftan, sahte işyeri tescil ettirdiği tespit edilen kişilerce, sahte işyerlerinden bildirilen aylık
+prim ve hizmet belgesinden dolayı tahakkuk etmiş ve ödenmemiş damga vergisi borçları 2020/20 sayılı
+Genelgede belirtilen usul ve esaslar çerçevesinde terkin edilebilecektir.
+        Ayrıca, Muhtasar ve Prim Hizmet Beyannamesinden dolayı tahakkuk etmiş damga vergisinin
+takip ve tahsilinden Gelir İdaresi Başkanlığı sorumlu olduğundan, sahte işyerlerinden bildirilen Muhtasar
+ve Prim Hizmet Beyannamesinden dolayı tahakkuk etmiş olan damga vergisi borçları için herhangi bir
+işlem yapılmayacaktır.
+        2.1.4- Diğer Hususlar
+        2.1.4.1. “Sahte İşyeri” olarak tanımlanan işyerlerinin e-Sigorta kullanıcı kodu ve şifresi sistem
+tarafından otomatik olarak askıya alınacağından, “Sahte İşyeri” olarak tanımlanmış olan işyerleri
+tarafından gerek e-Sigorta üzerinden gönderilen bildirimlerin yapılmasına gerekse e-beyanname
+üzerinden alınan muhtasar ve prim hizmet beyannamesi ile sigortalıların prime esas kazanç ve hizmet
+bilgilerinin beyanına sistem tarafından izin verilmeyecektir. Bu bakımdan, ünitece “Sahte İşyeri”
+tanımlamasının yapılması halinde, ayrıca bu işyerlerinin e-Sigorta kullanıcı kodu ve şifresinin askıya
+alınmasına gerek bulunmamaktadır.
+        2.1.4.2. Sahte tescilli işyerinin alt işvereni var ise bu alt işveren de sistem tarafından “Sahte
+İşyeri” olarak tanımlanacak olup, alt işverenin, gerçek kişi olması halinde TCKN, tüzel kişi olması
+halinde VKN ile tüzel kişiliği oluşturan ortakların TCKN/VKN anahtar olarak kullanılmak suretiyle bu
+kişiler adına aynı veya farklı sosyal güvenlik merkezlerinde tescil edilmiş/edilecek diğer işyerleri ile bu
+gerçek veya tüzel kişilerin ortak/üst düzey yönetici olduğu/olacağı diğer işyerlerine de otomatik olarak
+“Şüpheli İşyeri” tanımlaması yapılacaktır.
+        Asıl işverenin sahte tanımlaması kaldırılmadığı sürece alt işverenin de sahte tanımlaması
+kaldırılmayacaktır. “Sahte İşyeri” olarak tanımlanmış işyerlerine yeni alt işveren kaydı yapılamayacağı
+gibi tescil değişikliği (nakil, katılım, birleşme, devir ve intikal) işlemleri de yapılamayacaktır.
+        Ayrıca, sahte sigortalılar adına yasal süresi dışında yapılan bildirimlerden kaynaklanan idari para
+cezaları da iptal edilecektir. Bu kapsamda iptal işlemi yapılacak idari para cezası için işveren intra
+programlarında “İDARİ PARA CEZASI” seçeneği altında yer alan “İPC GÜNCELLEME/SİLME”
+ekranında bulunan “Komisyon Karar Tarihi” alanına “Denetim Rapor Tarihi”, “Esas No-Sayı” alanlarına
+“Denetim Raporunun Sayısı” girilecek, “İptal Sebebi Açıklama” alanına ise “Denetim Raporu Gereği”
+ifadesi yazılacaktır.
+        2.1.4.3. “Sahte İşyeri” tanımlamasının kaldırılması durumunda, bu işyerlerinden bildirimi yapılan
+sigortalılar hakkında yapılacak işlemlere esas olmak üzere Kısa Vadeli Sigortalar Servisi ile Emeklilik
+Servislerine ayrıca bilgi verilecektir.
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             5/14
+        2.2- Kontrollü İşyeri Tanımlamaları İle Bu İşyerleri Hakkında Yapılacak İşlemler
+        “Kontrollü İşyeri” tanımlaması,
+        -Merkez teşkilatındaki ilgili birim tarafından gönderilen listedeki işyerleri için İşyeri Tescil ve
+e-Sigorta Servisi tarafından,
+        -Sosyal Güvenlik İl Müdürlükleri/Sosyal Güvenlik Merkez Müdürlükleri tarafından sahte işyeri
+olma potansiyeli yüksek olduğu değerlendirilen işyerleri için Prim Tahakkuk ve Tahsilat Servisi
+tarafından tanımlama yazısı (Ek-1) düzenlendikten sonra İşyeri Tescil ve e-Sigorta Servisi tarafından,
+        manuel şekilde yapılacaktır.
+        Kontrollü kodu konulan işyeri Ek-2’de yer alan denetim gerekçesi düzenlenmek suretiyle Sosyal
+Güvenlik Denetmenleri Servisine intikal ettirilecektir.
+        2.2.1- Kontrollü İşyerlerinin Sistem Tarafından Tespit Edilmesi, Tanımlama Yapılması ve
+Denetime Sevki
+        Sistem tarafından sahte olma potansiyeli yüksek olduğu tespit edilen işyerlerine ilişkin listenin
+Sosyal Güvenlik İl Müdürlükleri/Sosyal Güvenlik Merkez Müdürlüklerine gönderilmesinden sonra
+listede yer alan işyerlerine İşyeri Tescil Servisi İşyeri Tescil ve e-Sigorta Servisi tarafından “Kontrollü
+İşyeri” tanımlaması yapılacaktır.
+        Gönderilen listelerde yer alan işyerleri işyerinin sahte olup olmadığının tespiti amacıyla Ek-2’de
+yer alan denetim gerekçesi düzenlenmek suretiyle derhal denetime sevk edilecektir.
+        Kurumca belirlenen kriterlere göre sistem tarafından yapılan tespit üzerine alınan listeler
+vasıtasıyla “Kontrollü İşyeri” tanımlaması yapılan işyerlerinin işyeri yetkililerince, ilgili sosyal güvenlik
+merkezine müracaat edilerek e-Sigorta kullanıcı kodu ve şifrelerinin aktif hale getirilmesinin talep
+edilmesi halinde, Prim Tahakkuk ve Tahsilat Servisi tarafından daha önce gönderilmiş ancak çeşitli
+nedenlerle tebliğ edilememiş yazıların (işyeri sicil ve işkolu kodu numarasını belirten yazının, idari para
+cezası yazıları, ödeme emirleri v.b.) işyeri yetkililerine elden tebliğ edilmesi ve işyerinin faaliyette
+bulunduğu adresin yerleşim belgesi veya vergi dairesi yoklama tutanağı ile kanıtlanması istenilecektir.
+        Bu şekilde yapılacak müracaatlar üzerine, işyerinde öncelikle fiili denetim yapılması, yapılan
+denetim sonucunda işyerinin “Sahte İşyeri” olmadığının anlaşılması halinde “Kontrollü İşyeri”
+tanımlaması kaldırılacaktır.
+        2.2.2- Kontrollü İşyerlerinin İlgili Servis Tarafından Tespit Edilmesi, Tanımlanması ve
+Denetime Sevki
+        Sosyal Güvenlik İl Müdürlükleri/Sosyal Güvenlik Merkez Müdürlükleri tarafından sahte işyeri
+olma potansiyeli yüksek olduğu değerlendirilen işyerleri için de kontrollü işyeri tanımlaması yapılması
+mümkün olacaktır.
+        Ayrıca, diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları
+soruşturma, denetim ve incelemeler ya da kamu idarelerinden alınan belgelerden işyerinin sahte olduğuna
+dair herhangi bir hususun bulunması halinde bu işyerlerine de kontrollü kodu konulacaktır.
+        Bu şekilde “Kontrollü İşyeri” tanımlaması yapılan işyerlerinin işyeri yetkililerince, ilgili sosyal
+güvenlik merkezine müracaat edilerek e-Sigorta kullanıcı kodu ve şifrelerinin aktif hale getirilmesinin
+talep edilmesi halinde, Prim Tahakkuk ve Tahsilat Servisi tarafından daha önce gönderilmiş ancak çeşitli
+nedenlerle tebliğ edilememiş yazıların (işyeri sicil ve işkolu kodu numarasını belirten yazının, idari para
+cezası yazıları, ödeme emirleri v.b.) işyeri yetkililerine elden tebliğ edilmesi ve işyerinin faaliyette
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             6/14
+bulunduğu adresin yerleşim belgesi veya vergi dairesi yoklama tutanağı ile kanıtlanması istenilecektir.
+        Yapılacak müracaatlar üzerine, Sosyal Güvenlik İl Müdürlükleri/Sosyal Güvenlik Merkez
+Müdürlükleri tarafından belirlenen kriterlere göre konulmuş olan kontrollü işyeri kodu, işveren tarafından
+bu kriterlerin yerine getirildiğinin kanıtlanması ve ilgili servis tarafından “Kontrollü İşyeri” tanımlaması
+yapılmış olmakla birlikte işyerinin “Sahte İşyeri” olmadığının değerlendirilmesi halinde, ilgili dosya
+memuru tarafından “Kontrollü İşyeri” tanımlamasının kaldırılmasına ilişkin Ek-3’de yer alan “Onay
+Yazısı” hazırlanacaktır.
+        Onay yazısı; ilgili dosya memuru, şef, merkez müdürlüğü bulunmayan illerde Prim Tahakkuk ve
+Tahsilat Servisinin bağlı olduğu İl Müdür Yardımcısı, merkez müdürlüklerinde Prim Tahakkuk ve
+Tahsilat Servisinin bağlı olduğu Merkez Müdür Yardımcısı (Merkez Müdür Yardımcısı olmayan
+merkezlerde Merkez Müdürü) tarafından imzalanarak tarih ve sayı verilerek tanzim edilecektir. Onay
+yazısının imzalanarak tarih ve sayı verilmesinin ardından tescil kütüklerindeki “Kontrollü İşyeri”
+tanımlamasının kaldırılması ve varsa adres değişikliklerinin sisteme kaydedilmesi amacıyla İşyeri Tescil
+ve e-Sigorta Servisine bildirilecektir.
+        Buna karşın, “Kontrollü İşyeri” olarak tanımlanmış olan işyeri işverenlerince, “Kontrollü İşyeri”
+tanımlamasının yapıldığı tarihten itibaren bir aylık süre içinde Kurumumuza müracaat edilmemesi veya
+edilmiş olmakla birlikte ilgili servis tarafından işyerinin “Sahte İşyeri” olup olmadığı hususunda
+tereddüde düşülmesi halinde, durum ilgili Prim Tahakkuk ve Tahsilat Servisi tarafından Ek-2’de yer alan
+denetim gerekçesi düzenlenmek suretiyle Sosyal Güvenlik Denetmenleri Servisine intikal ettirilecektir.
+        2.2.3- Kontrollü İşyerlerinden Verilen Muhtasar ve Prim Hizmet Beyannamesinin İşleme
+Alınması
+        “Kontrollü İşyeri” olarak tanımlanmış olan işyerlerinden e-beyanname üzerinden muhtasar ve
+prim hizmet beyannamesi ile sigortalıların prime esas kazanç ve hizmet bilgilerinin beyanına izin
+verilmeyecektir.
+        Buna göre, sistem tarafından sigortalıların prime esas kazanç ve hizmet bilgilerinin beyanına izin
+verilmeyen işyerleri hakkında yapılan araştırma ve inceleme sonucunda işyerinin sahte olmadığının tespit
+edilmesi halinde kontrollü işyeri tanımlamasının kaldırıldığına ilişkin yazı (Ek-4) düzenlenecektir.
+        Kontrollü tanımı kaldırılan işyerleri için ilgili ünite tarafından “İşveren İntra- İşveren Terkin ve
+Ertelemeler – Dönem Bazlı Erteleme İşlemleri” menüsünden gerekli tanımlama işlemleri yapılacaktır.
+Bu durumda, kontrollü işyeri tanımlaması konulması nedeniyle verilemeyen beyannamelerin son verilme
+tarihi ile bu beyannamelerden kaynaklı tahakkuk eden primlerin son ödeme tarihi kontrollü işyeri
+tanımlamasının kaldırıldığına ilişkin yazının (Ek-4) işverene tebliğ edildiği ayı takip eden ayın 26’sı
+olarak sisteme girilecektir.
+        Bu şekilde sisteme beyannamenin son verilme tarihi ile ödemenin son tarihi tanımlanan işyerleri
+için belirlenen tarihlere kadar beyannamelerin verilmesi ve primlerin ödenmesi halinde söz konusu
+yükümlülüklerin yasal süresinde yerine getirilmiş olduğu kabul edilecektir.
+        2.2.4- Kontrollü İşyeri Tanımlaması Nedeniyle Denetime Sevk Edilen İşyerleri Hakkında
+Yapılacak Yerel Denetim ve Araştırma/İnceleme İşlemleri
+        “Kontrollü İşyeri” olarak sisteme tanımlanmış olan işyerlerinin “Sahte İşyeri” olup olmadığı
+hususunda yapılacak yerel denetim ve gerektiğinde çevre araştırma işlemleri, denetim gerekçesinin
+denetim ve kontrolle görevli memura intikal ettiği tarihten itibaren en geç 15 günlük süre içinde
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             7/14
+sonuçlandırılarak düzenlenecek durum tespit raporu Prim Tahakkuk ve Tahsilat Servisine intikal
+ettirilecektir.
+         Bu kapsamda, “Kontrollü İşyerinin” bilinen adreslerinde bulunup bulunmadığının ve başka bir
+adreste faaliyetine devam edip etmediğinin tespit edilmesi amacıyla bilinen adreslerinde Kurumca
+belirlenen kriterler doğrultusunda yerel denetim ve gerektiğinde çevre araştırması yapılır.
+         Yapılan araştırma ve inceleme sonucunda;
+         a) İşyerinin sahte olmadığına ve bildirim yapılan kişilerin fiilen çalıştığına kanaat
+getirilmesi halinde;
+         1.Kontrollü tanımlamasının kaldırılmasına karar verilecektir.
+         2.Kontrollü kodunun kaldırıldığı tarihi takip eden altıncı ayın sonuna kadar bu işyerine tekraren
+kontrollü işyeri tanımlaması ve otomatik şüpheli işyeri olarak tanımlaması da yapılmayacaktır.
+         3.Bu işyerlerinin; sahte olmadığı halde şüpheli ya da kontrollü listesine girmelerinden dolayı,
+yapılacak sonraki analizlerin ve tespitlerin tutarlığının sağlanabilmesi, işyerlerinin davranış kalıplarının
+izlenerek analiz edilebilmesi, tespit edilen işyerlerinin sınıflandırılabilmesi amacıyla, “Sahte Değil (SD)”
+şeklinde tanımlanması sağlanacaktır.
+         b) İşyerinin sahte olmadığına ancak aynı aylarda bildirimi yapılan kişilerin bir kısmının
+fiilen çalışmadıklarına kanaat getirilmesi halinde;
+         1.Kontrollü tanımlamasının kaldırılması hususunda ara rapor düzenlenecektir.
+         2.Bildirim yapılan kişilerden bir kısmının fiilen çalışmadıklarına ilişkin oluşan kanaatin tespit
+edilebilmesi ve rapora bağlanabilmesi amacıyla yapılacak incelemeler öncelikli olarak
+sonuçlandırılacaktır.
+         3.Kontrollü kodunun kaldırıldığı tarihi takip eden altıncı ayın sonuna kadar bu işyerine tekraren
+kontrollü işyeri tanımlaması ve otomatik şüpheli işyeri olarak tanımlaması da yapılmayacaktır.
+         4.Bu işyerlerinin; sahte olmadığı halde sahte sigortalı bildiriminde bulunan işyerleri davranış
+kalıplarının izlenerek analiz edilebilmesi, bunların sınıflandırılabilmesi amacıyla, ”Sahte Sigortalı
+Bildirmiş (SB)” şeklinde tanımlanması sağlanacaktır.
+         c) İşyerinin sahte olduğuna kanaat getirilmesi halinde;
+         1.Kontrollü tanımlamasının kaldırılmaması hususunda ara karar verilecektir.
+         2.İşyerinin Kanun kapsamına alındığı tarihten itibaren mi yoksa belirli bir tarihten itibaren mi
+sahte olduğu hususunda tespitin yapılabilmesi ve rapora bağlanabilmesi amacıyla yapılacak incelemeler
+öncelikli olarak sonuçlandırılacaktır.
+         3.Düzenlenen raporlarda işyerinin gerçekte var olmadığının tespit edilmesi halinde (İşyerinin
+Kanun kapsamına alındığı tarihten itibaren mi yoksa belirli bir tarihten sonra mı) bu tespite ilişkin işyeri
+tescil programında gerekli tanımlamanın yapılması istenecektir.
+         2.2.5- Diğer Hususlar
+         2.2.5.1. “Kontrollü İşyeri” olarak sisteme tanımlanmış olan işyerlerinin e-beyanname üzerinden
+muhtasar ve prim hizmet beyannamesi ile sigortalıların prime esas kazanç ve hizmet bilgilerinin beyanına
+izin verilmediği için, bu işyerlerinin “Sahte İşyeri” olup olmadığının tespitine yönelik incelemelerin
+öncelikli olarak sonuçlandırılması ve “Sahte İşyeri” olmadığı tespit edilenlerin “Kontrollü İşyeri”
+tanımlamasının kaldırılması gerekmektedir.
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             8/14
+         2.2.5.2. “Kontrollü İşyeri” tanımlaması nedeniyle denetime gönderilmiş işyerleri Kurumun
+denetim ve kontrolle görevli memurları tarafından incelenerek, “Kontrollü İşyeri” tanımlaması yapılacak
+tespit sonucuna göre ya “Sahte İşyeri” olarak değiştirilecek ya da kaldırılacak olup; bu işyerleri hakkında
+denetim sonucuna göre işlem yapılacaktır
+         2.2.5.3. “Kontrollü İşyeri” tanımlamasının kaldırılması durumunda, bu işyerlerinden bildirimi
+yapılan sigortalılar hakkında yapılacak işlemlere esas olmak üzere Kısa Vadeli Sigortalar Servisi ile
+Emeklilik Servislerine ayrıca bilgi verilecektir.
+         2.2.5.4. Sistem tarafından sahte olma potansiyeli yüksek olduğu tespit edilen işyerlerinin yer
+aldığı listelerdeki işyerlerinin denetimlerine her ay düzenli olarak devam edilmesi büyük önem taşımakta
+olduğundan “Kontrollü İşyeri” olarak tanımlanan işyerlerinin denetime sevk işleminin yapılıp
+yapılmadığı hususu bizzat ilgili İl Müdürünce/Merkez Müdürünce takip edilecektir.
+         2.3- Şüpheli İşyeri Tanımlamaları İle Bu İşyerleri Hakkında Yapılacak İşlemler
+         “Sahte İşyeri” olarak tanımlanmış olan işyerlerinin, işverenlerinin, gerçek kişi olması halinde
+TCKN, tüzel kişi olması halinde VKN ile tüzel kişiliği oluşturan ortakların TCKN/VKN anahtar olarak
+kullanılmak suretiyle bu kişiler adına aynı veya farklı sosyal güvenlik merkezlerinde tescil
+edilmiş/edilecek diğer işyerleri ile bu gerçek veya tüzel kişilerin ortak/üst düzey yönetici olduğu/olacağı
+diğer işyerleri, sistem tarafından “Şüpheli İşyeri” olarak tanımlanacaktır. Dolayısıyla, otomatik şüpheli
+işyeri tanımlaması yalnızca sahte işyeri tanımlamasından dolayı yapılacak olup; kontrollü işyeri
+tanımlamasından dolayı otomatik şüpheli işyeri tanımlaması yapılmayacaktır.
+         Sistem tarafından yapılacak otomatik tanımlamanın eksiksiz olması için “Sahte İşyeri” olarak
+tanımlanmış olan işyerlerinin tescil bilgilerinin tam ve güncel olması gerekmektedir.
+         “Sahte İşyeri” olarak tanımlanmış olan gerçek kişi veya tüzel kişiler adına veya işverenin tüzel
+kişilik olması halinde ortak veya üst düzey yöneticileri adına yeni bir işyeri dosyası tescil edileceği ya da
+bu kişilerin tescil giriş veya tescil değişiklik ekranları vasıtasıyla sisteme ortak veya üst düzey yönetici
+olarak girileceği durumlarda, yeni tescil edilen veya tescil düzeltme işlemleri yapılan bu işyerleri için
+sistem tarafından otomatik olarak “Şüpheli İşyeri” tanımlaması yapılmakta olup “Bu işyerine şüpheli
+tanımlaması yapılmıştır. İşyerinin denetime sevk edilmesi gerekmektedir”. şeklinde uyarı mesajı
+verilmektedir.
+         Tescil giriş veya düzeltme işlemleri esnasında, uyarı mesajı verilen işyerlerine ilişkin denetim
+gerekçesi, tescil giriş veya düzeltme işlemlerinin yapılmasının ardından tescil ekranlarında yer alan
+“Denetim Gerekçesi Yazdır” seçeneği işaretlendiği takdirde sistem tarafından yazdırılacaktır.
+         Tescil giriş veya değişiklik işlemlerinin yapılmasının ardından uyarı mesajı verilen işyerlerinin
+“Sahte İşyeri” olup olmadığının tespiti için Kurumun denetim ve kontrolle görevli memurlarınca
+işyerinde fiilen denetim yapılması gerektiğinden, İşyeri Tescil ve e-Sigorta Servisince bu işyerleri, uyarı
+mesajının alındığı gün içinde Sosyal Güvenlik Denetmenleri Servisine bildirilecektir.
+         Denetim sonuçlanıncaya ya da işyerlerinin “Sahte işyeri” olduğuna ilişkin tanımlama yapılıncaya
+kadar “Şüpheli işyeri” tanımlaması yapılan işyerlerinden hizmet bildirilen sigortalıların hizmet bildirimi
+ve hizmet birleştirmesi yapılmaya devam edilecektir.
+         Diğer taraftan, “Sahte İşyeri” olarak tanımlanan işyerlerinin, işverenlerinin, gerçek kişi olması
+halinde TCKN, tüzel kişi olması halinde VKN ile tüzel kişiliği oluşturan ortakların TCKN/VKN anahtar
+olarak kullanılmak suretiyle bu kişiler adına aynı veya farklı sosyal güvenlik merkezlerinde, tanımlanma
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             9/14
+tarihinden önce tescil edilmiş diğer işyerleri ile bu kişilerin ortak/üst düzey yönetici olduğu diğer işyerleri
+için de sistem tarafından otomatik olarak “Şüpheli İşyeri” tanımlaması yapılacaktır.
+         Bu şekilde tanımlanan işyerlerinin listesi Prim Tahakkuk ve Tahsilat Servisince, İşveren İntra
+programlarından LİSTELER/İSTATİSTİKLER, SAHTE/KONTROLLÜ/ ŞÜPHELİ İŞYERLERİ,
+ŞÜPHELİ/SAHTE/KONTROLLÜ seçilmek suretiyle erişilen ekran vasıtasıyla alınacaktır. Söz konusu
+ekranda;
+         Liste Tipi: İl Bazında
+         SGM Kodu: (İşveren işlemlerinin yapıldığı ilgili merkez müdürlüğü)
+         Tescil Tipi : (Şüpheli, Sahte, Kontrollü, Hepsi)
+         bölümleri yer almaktadır. “Tescil Tipi” bölümüne “Şüpheli” girilmek suretiyle tescil kütüklerine
+“Şüpheli İşyeri” tanımlaması yapılmış olan işyerlerinin listesi her ayın 1’i ile 6’sı arasında alınarak
+Ek-2’de yer alan denetim gerekçesi düzenlenmek suretiyle Sosyal Güvenlik Denetmenleri Servisine
+intikal ettirilecektir.
+         Bu kapsamda, “Şüpheli İşyerinin” sahte işyeri olup olmadığının tespit edilmesi amacıyla
+yapılacak yerel denetim ve araştırma/inceleme işlemleri bu genelgenin 2.2.4. numaralı bölümünde yer
+alan “Kontrollü İşyeri” hakkındaki açıklamalara göre yapılacaktır. Ayrıca, yapılan yerel denetim ve çevre
+araştırması sonrası düzenlenecek durum tespit raporunda işyerinin sahte olabileceğine kanaat getirilmesi
+halinde “Şüpheli İşyeri” tanımlamasının “Kontrollü İşyeri” olarak değiştirilmesi hususunda ara karar
+verilecektir.
+         Yapılan denetim ve araştırma/inceleme işlemlerinin nihai sonucuna göre tanzim edilecek rapor
+gereği ise “Kontrollü İşyeri” tanımlaması ya “Sahte İşyeri” olarak değiştirilecek ya da kaldırılacaktır.
+         Denetim raporu ile “Şüpheli İşyeri” tanımlaması kaldırılan işyerine şüpheli tanımlamasının
+kaldırıldığı tarihi takip eden;
+         - Altıncı ayın sonuna kadar tekrar sistem tarafından şüpheli ya da manuel kontrollü tanımlaması
+yapılmayacaktır.
+         - Yedinci ayın ilk gününden itibaren bu işyerine tekrar sistem şüpheli ya da manuel kontrollü
+tanımlaması yapılacaktır.
+         “Şüpheli İşyeri” tanımlamasının kaldırılmasına karar verilmesi halinde, işyerinin şüpheli kodunun
+kaldırılabilmesi için sisteme “Sahte İşyeri” olarak tanımlanmış işyerleri için yapılan tanımlamaların
+kaldırılmasının beklenilmesine gerek bulunmamaktadır
+         Söz konusu listenin her ay alınması ve bahse konu denetimlere düzenli olarak devam edilmesi
+büyük önem taşımakta olup, bu listelerin düzenli olarak alınarak denetime sevk işleminin yapılıp
+yapılmadığı hususu bizzat ilgili İl Müdürünce/Merkez Müdürünce takip edilecektir.
+         2.4 İcra Takip, Haciz ve Satış Servislerinin Tespitleri Üzerine Yapılacak İşlemler
+         6183 sayılı Kanuna istinaden hakkında icra takibi yürütülen işverenlerin Kurumumuz kayıtlarında
+mevcut olan işyeri adreslerine icra memurları tarafından haciz işlemi yapılmak üzere gidildiğinde
+işyerinin kapalı veya taşınmış olduğunun tespit edilmesi durumunda bu konunun şüpheli olduğuna kanaat
+getirilmesi, gerçekte mevcut olmayan işyeri (verilen mahalle-sokak adının resmi kayıtlarda yer almaması,
+bildirilen kapı numarasının bulunmaması veya adresin metruk bina olması ve buna benzer tespitler) ya da
+işverenin tanınmıyor olması gibi durumların tespit edilmesi halinde İcra Servisi tarafından tanımlama
+yazısı (Ek-1) düzenlendikten sonra İşyeri Tescil ve e-Sigorta Servisi tarafından kontrollü kodu
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             10/14
+konulacaktır.
+        Ayrıca, yine hakkında 6183 sayılı Kanuna istinaden icra takibi yürütülen işverenler ile ilgili
+olarak söz konusu işyerlerinden bildirge verilmeye devam edilmesine rağmen işyeri adresine gönderilen
+ödeme emri ve benzeri tebligatların işyerinin kapalı olması veya işverenin tanınmıyor olması ve buna
+benzer gerekçeler ile iade edilmesi halinde İcra Servisi tarafından tanımlama yazısı (Ek-1)
+düzenlendikten sonra İşyeri Tescil ve e-Sigorta Servisi tarafından kontrollü kodu konulacaktır.
+        Bu şekilde kontrollü kodu konulan işyerleri için "2.2.2- Kontrollü İşyerlerinin İlgili Servis
+Tarafından Tespit Edilmesi, Tanımlanması ve Denetime Sevki" başlığı altında belirtilen hususlara
+göre işlem yapılacaktır.
+        2.5- Tanımlamaların Kaldırılması
+        2.5.1- Sahte İşyeri Tanımlamasının Kaldırılması
+        “Sahte İşyeri” tanımlaması, kurumun denetim ve kontrolle görevli memurları tarafından yapılan
+tespitler üzerine düzenlenen rapor veya mahkeme kararı gereğince yapılmakta olup, tanımlamanın
+kaldırılmasına ilişkin Kurumun denetim ve kontrolle görevli memurları tarafından düzenlenmiş ikinci bir
+rapor veya bu hususta alınmış nihai yargı kararı (en son yargılama aşamasında verilen ve yargılamayı
+sonlandıran karar) bulunmadığı sürece tanımlama ünite tarafından kaldırılamayacaktır.             Ancak,
+uyuşmazlık konusunda ihtiyati tedbir kararı gibi kesinleşmesi aranmayan kararların verilmesi
+durumunda, bu kararların gereği de yapılacaktır.
+        Ancak, ünitece tanımlamanın sehven yapıldığının anlaşılması durumunda, tanımlamanın
+kaldırılabilmesi için ünitece tanımlamanın hatalı yapıldığını ve kaldırılması gerektiğini belirten “Onay
+Yazısı” tanzim edilmesi gerekmektedir.
+        Tanımlama hangi sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi tarafından işlenmişse
+yalnızca o sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi tarafından “İşveren Tescil Uygulaması”
+programlarında mevcut, “Tescil Değişiklik İşlemleri” menüsü işaretlenmek suretiyle erişilen “Tescil
+Değişiklik” ekranları vasıtasıyla kaldırılabilecektir.
+        Buna göre, bahse konu ekrandan “Sahte İşyeri Tanımlamasının Kaldırılması” seçeneği seçilerek;
+        1-"Denetim Raporu” seçilmek suretiyle “raporun tarih ve sayısı” ile raporu düzenleyen
+Denetmen(D)/Müfettiş(M) bilgisi,
+        2-"Nihai Yargı Kararı” seçilmek suretiyle “kararın tarih ve sayısı”,
+        3-"Hatalı Tanımlama” seçilmek suretiyle “onay yazısının tarih ve sayısı”, bilgilerinin girişi
+yapılarak tanımlama kaldırılabilecektir.
+        2.5.2- Kontrollü İşyeri Tanımlamasının Kaldırılması
+        “Kontrollü İşyeri” tanımlamasının kaldırılmasına ilişkin Kurumun denetim ve kontrolle görevli
+memurları tarafından düzenlenmiş rapor bulunmadığı veya ilgili servis tarafından işyerinin “Sahte İşyeri”
+olmadığına ilişkin değerlendirme olmadığı sürece tanımlama kaldırılmayacaktır. Ancak, ünitece
+tanımlamanın sehven yapıldığının anlaşılması durumunda, tanımlamanın kaldırılabilmesi için ünitece
+tanımlamanın hatalı yapıldığını ve kaldırılması gerektiğini belirten “Onay Yazısı” tanzim edilmesi
+gerekmektedir.
+        Tanımlama hangi sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi tarafından işlenmişse
+yalnızca o sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi tarafından “İşveren Tescil Uygulaması”
+programlarında mevcut, “Tescil Değişiklik İşlemleri” menüsü işaretlenmek suretiyle erişilen “Tescil
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             11/14
+Değişiklik” ekranları vasıtasıyla kaldırılabilecektir.
+        Buna göre, bahse konu ekrandan “Kontrollü İşyeri Tanımlamasının Kaldırılması” seçeneği
+seçilerek;
+        1-"Denetim Raporu” seçilmek suretiyle “raporun tarih ve sayısı” ile raporu düzenleyen
+Denetmen(D)/Müfettiş(M) bilgisi,
+        2- “İlgili Servis Tarafından Değerlendirme” seçilmek suretiyle “onay yazısının tarih ve sayısı”
+bilgilerinin girişi yapılarak tanımlama kaldırılabilecektir.
+        2.5.3- Şüpheli İşyeri Tanımlamasının Kaldırılması
+        "Şüpheli İşyeri" tanımlamasının kaldırılmasına ilişkin Kurumun denetim ve kontrolle görevli
+memurları tarafından düzenlenmiş rapor bulunması durumunda işyerinin şüpheli tanımlaması
+kaldırılacaktır.
+        Tanımlama işyerinin tescilli bulunduğu sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezi
+tarafından “İşveren Tescil Uygulaması” programlarında mevcut, “Tescil Değişiklik İşlemleri” menüsü
+işaretlenmek suretiyle erişilen “Tescil Değişiklik” ekranları vasıtasıyla kaldırılabilecektir.
+        Buna göre, bahse konu ekrandan “Şüpheli İşyeri Tanımlamasının Kaldırılması” seçeneği seçilerek;
+        1-"Denetim Raporu” seçilmek suretiyle “raporun tarih ve sayısı” ile raporu düzenleyen
+Denetmen(D)/Müfettiş(M) bilgilerinin,
+        girişi yapılarak tanımlama kaldırılabilecektir.
+        Diğer taraftan, iz işlemi gerçekleştirilmiş işyerlerine şüpheli işyeri tanımlaması yapılamayacaktır.
+Ancak, şüpheli işyeri tanımlaması bulunan işyerlerinin denetimi sonuçlanana kadar iz işlemi
+yapılmayacaktır.
+        3- SAHTE, KONTROLLÜ VE ŞÜPHELİ İŞYERLERİNDEN BİLDİRİM YAPILAN
+SİGORTALILARIN AYLIK BAĞLAMA İŞLEMLERİ
+        Emeklilik servislerince, “Sahte İşyeri”, “Kontrollü İşyeri” ve “Şüpheli İşyeri” tanımlaması
+yapılan işyerlerinden sigortalı adına bildirilen hizmetlerin gelir/aylık bağlama ve/veya ikinci karar
+işlemlerinin değerlendirilmesinde aşağıda açıklanan usul ve esaslar doğrultusunda işlem yapılacaktır.
+        3.1. “Sahte İşyeri” tanımlaması yapılan işyerlerinden sigortalı adına bildirilen hizmetlerin
+Kurumun denetim ve kontrolle görevli memurlarınca düzenlenen denetim raporlarına istinaden iptal
+edilmesi ve söz konusu hizmetler için hizmet bildirimi ve hizmet birleştirmesi yapılmaması nedenleriyle,
+sigortalıların gerek aylığa hak kazanma koşullarının tespitinde, gerekse gelir/aylık bağlama işlemlerinde
+anılan hizmetler dikkate alınmayacaktır.
+        Gelir/aylık bağlama işlemleri tamamlandıktan sonra sigortalı adına bildirilen hizmetlerin “Sahte
+İşyeri” tanımlaması yapılan işyerlerinden olduğuna ilişkin işyeri tescil bilgilerinde değişiklik olması
+halinde de sigortalıların gerek tahsis talep/ölüm tarihlerinde gelir/aylık alma haklarının devam edip
+etmediği, gerekse gelir/aylıklarında artma, azalma veya fazla ve yersiz ödemeyi gerektiren bir durum
+olup olmadığının tespiti yapılarak gelir/aylıklarda gerekli düzeltme işlemi yapılacaktır.
+        3.2. “Kontrollü İşyeri” tanımlaması yapılan işyerlerinden sigortalı adına bildirilen hizmetler
+henüz iptal edilmemiş olmakla birlikte denetim sonuçlanıncaya kadar hizmet bildirme ve birleştirme
+işlemi gerçekleştirilmeyeceğinden, aylığa hak kazanma koşullarının tespitinde ve gelir/aylık bağlama
+işlemlerinde dikkate alınmayacaktır.
+        Ancak, sigortalıların “Kontrollü İşyeri” tanımlaması yapılan işyerlerinden sigortalı adına
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             12/14
+bildirilen hizmetleri hariç tutulduğunda aylığa hak kazanması durumunda denetim sonuçları
+beklenmeksizin, aylık bağlanacak statü belirlenerek gelir/aylık bağlama işlemleri sonuçlandırılacak,
+ayrıca denetim sonucunda “Kontrollü İşyeri” tanımlamasının kaldırılmasına karar verilmesi, dolayısıyla
+da söz konusu hizmetlerin geçerli sayılması halinde bu hizmetler aylık bağlanacak statü tespitinde ve
+gelir/aylık bağlama ve/veya ikinci karar işlemlerinde dikkate alınacaktır.
+         Öte yandan gelir/aylık bağlama işlemleri tamamlandıktan sonra sigortalı adına bildirilen
+hizmetlerin “Kontrollü İşyeri” tanımlaması yapılan işyerlerinden olduğuna ilişkin işyeri tescil bilgilerinde
+değişiklik olması halinde; “Kontrollü İşyeri” tanımlaması yapılan işyerlerinden sigortalı adına bildirilen
+hizmetler henüz iptal edilmediğinden; söz konusu durumlarda denetim sonuçlanmadan ikinci karar işlemi
+yapılmayacak ve denetim sonucunda “Kontrollü İşyeri” tanımlamasının “Sahte İşyeri” olarak
+değiştirilmesi durumunda sigortalıların gerek tahsis talep/ölüm tarihlerinde gelir/aylık alma haklarının
+devam edip etmediği, gerekse gelir/aylıklarında artma, azalma veya fazla ve yersiz ödemeyi gerektiren
+bir durum olup olmadığının tespiti yapılarak gelir/aylıklarda gerekli düzeltme işlemi yapılacaktır.
+         3.3. “Şüpheli İşyeri” tanımlaması yapılan işyerlerinden sigortalı adına bildirilen hizmetler
+Kurumun denetim ve kontrolle görevli memurlarınca düzenlenen denetim raporlarına istinaden iptal
+edilmemiş olup, denetim sonuçlanıncaya ya da işyerlerinin “Sahte İşyeri” olduğuna ilişkin tanımlama
+yapılıncaya kadar “Şüpheli İşyeri” tanımlaması yapılan işyerlerinden hizmet bildirilen sigortalıların
+hizmet bildirimi ve hizmet birleştirme işlemi devam edecek olması nedeniyle, sigortalıların aylığa hak
+kazanma koşullarının tespitinde ve gelir/aylık bağlama işlemlerinde söz konusu hizmetler dikkate
+alınacak, gelir/aylık bağlama işlemleri denetim sonuçları beklenmeksizin sonuçlandırılacaktır.
+         Diğer taraftan, aylığa hak kazanma koşullarının tespitinde ve gelir/aylık bağlama işlemlerinde,
+şüpheli işyerlerinden bildirilen hizmetler dikkate alınacak olmakla birlikte, şüpheli ve kontrollü
+işyerlerinde geçen hizmetlerle ilgili olarak denetim işlemlerinin en kısa sürede sonuçlandırılarak ikinci
+karar işlemlerinin geciktirilmeksizin yapılması gerekmektedir.
+         4- ÇEŞİTLİ HÜKÜMLER
+         4.1. Bu genelgenin yayımı tarihinden önceki kurallara istinaden listeleme programlarından
+alınmış ancak henüz denetime sevk işlemi yapılmamış işyerlerine ilişkin “Şüpheli İşyeri” listeleri dikkate
+alınmayacaktır.
+         4.2. Bu genelgenin yayımı tarihinden önce kontrollü ve şüpheli işyeri gerekçesiyle denetime sevk
+işlemi yapılmış;
+         -ve denetime başlanılmış ancak henüz sonuçlandırılmamış olan görevler bu genelge hükümlerine
+göre sonuçlandırılacaktır.
+         -ancak henüz denetime başlanılmamış olan ve bu genelge hükümlerine göre incelenmesine gerek
+bulunmadığı değerlendirilen işyerleri denetimden sarfınazar edilecektir.
+         4.3.“Kontrollü İşyeri” tanımlaması yapılan işyerlerinden hizmet bildirilen sigortalıların bu
+hizmetleri hizmet bildirme ve birleştirme işlemlerinde dikkate alınmayacaktır. Yapılacak denetim
+sonucunda “Kontrollü İşyeri” tanımlamasının kaldırılmasına karar verilmesi halinde bu hizmetler hizmet
+bildirme ve birleştirme işlemlerine dahil edilerek yeniden hizmet yazısı hazırlanacaktır. Denetim raporu
+sonucunda işyerinin “Sahte işyeri” olduğunun tespit edilmesi halinde “Sahte işyeri” hakkında yapılan
+işlemler “Kontrollü İşyeri” hakkında da yapılacaktır.
+         5- YÜRÜRLÜKTEN KALDIRILAN GENEL YAZILAR VE TALİMATLAR
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             13/14
+       Genelge ekinde yer alan Ek-5 tabloda belirtilen genel yazılar ve e-posta talimatlar bu genelgenin
+yayımlandığı tarih itibariyle yürürlükten kaldırılmıştır.
+       Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+                                                                                                      İsmail YILMAZ
+                                                                                                      Kurum Başkan V.
+
+
+
+
+         DAĞITIM :
+
+         Gereği :                                                             Bilgi :
+         Merkez ve Taşra Teşkilatına                                          Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+         EKLER:
+         Ek-1 Kontrollü işyeri tanımlamasının yapılması
+         Ek-2 İşyerinin “Sahte İşyeri” olup olmadığının incelenmesi
+         Ek-3 Onay Yazısı
+         Ek-4 Kontrollü işyeri tanımlamasının kaldırılması
+         Ek-5 Yürürlükten kaldırılan genel yazılar ve e-posta talimatlar
+
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                 Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 4587110 Faks No: 0 (312) 4321237                                                                          Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                           Telefon No: 0(312) 4587110
+10                                                             14/14
+

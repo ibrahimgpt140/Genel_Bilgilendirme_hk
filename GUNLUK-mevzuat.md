@@ -2,6 +2,10 @@
 
 `araclar/mevzuat/mevzuat_tara.py` her çalıştığında değişen ve yeni eklenen kayıtları buraya yazar (en yeni üstte).
 
+## 25.11.2026 (KAYSİS — SGK)
+
+**Yeni (1.001):** SGK'nın KAYSİS'teki tüm mevzuatı → `sgk/kaysis/` (401 genelge, 347 genel yazı, 77 tebliğ, 56 yönetmelik, 37 usul ve esas, 30 uluslararası antlaşma, 18 yönerge, 14 talimat, 12 protokol, 4 kanun, 3 BKK, 2 kurul kararı). Kullanıcının bilgisayarındaki tarayıcıyla resmî PDF olarak alındı; 285 taranmış PDF Türkçe OCR ile metne çevrildi; 987 kayıt iki kontrolden geçti, 13 kayıt elle teyit listesinde, 1 kaydın KAYSİS'te dosyası yok (`sgk/kaysis/README.md`).
+
 ## 25.11.2026 (guncelle)
 
 **Yeni (60): SGK tebliğ ve yönetmelikleri, çift kontrollü (bkz. `sgk/README.md`)**

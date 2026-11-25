@@ -1,0 +1,149 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/57307
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2009-92
+ADI: AYLIK PRİM VE HİZMET BELGESİ İLE İLK VE TEKAR SİGORTALI İŞE GİRİŞ BİLGİRGESİNİN E-SİGORTA KANALIYLA GÖNDERİLMESİ HAKKINDA GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ae99ba24cb7885fbde58c22dc40396a547d42df9d723f57f49d5470d9f63245d
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                            T.C.
+                        SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                            Sosyal Sigortalar Genel Müdürlüğü
+                              Prim Tahsilat Daire Başkanlığı
+Sayı : B.13.2.SGK.5.01.08.00/31-620                                                      10/7/2009
+Konu : Aylık prim ve hizmet belgesi ile ilk ve tekrar sigortalı
+       işe giriş bildirgesinin e-Sigorta kanalıyla gönderilmesi
+
+
+
+
+                                           GENELGE
+                                            2009 -92
+
+
+        1- Genel Açıklamalar
+        Bilindiği gibi, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun “Bilgi ve
+belge isteme hakkı, bilgi ve belgelerin Kuruma verilme usulü” başlıklı 100 üncü maddesinin
+üçüncü fıkrasında, “Kurum, bu Kanun gereği verilecek her türlü belge veya bilginin internet,
+elektronik ve benzeri ortamda gönderilmesi hususunda, gerçek ve tüzel kişileri zorunlu tutmaya,
+Kuruma verilmesi gereken her türlü belge, bildirge ve taahhütnameyi diğer kamu idarelerine ait
+formlarla birleştirmeye, söz konusu belgeleri kamu idarelerinin internet ve elektronik bilgi işlem
+ortamından almaya, bu idarelere yapılacak bildirimleri Kuruma verilmiş saymaya, bu Kanunun
+uygulaması ile ilgili işveren, sigortalı ve diğer kurum, kuruluş ve kişilerin talepleri üzerine veya
+re’sen düzenleyeceği her türlü bilgi ve belgeyi bilgi işlem ortamında oluşturmaya, bu şekilde
+ hazırlanacak olan bilgi ve belgelerin sadece internet ve benzeri iletişim ortamından ilgili
+kişilere verilmesini kararlaştırmaya yetkilidir. Elektronik ortamda hazırlanacak bilgi ve belgeler
+adli ve idari makamlar nezdinde resmi belge olarak geçerlidir.” hükmü yer almaktadır.
+        Yine bilindiği üzere, Yönetim Kurulumuzca çeşitli tarihlerde alınan kararlar ile,
+        - 2004/Mayıs ila 2005/Nisan ayları arasında 8 ve üzerinde,
+        - 2005/Mayıs ila 2005/Temmuz ayları arasında 5 ve üzerinde,
+        - 2005/Ağustos ila 2006/Ekim ayları arasında 3 ve üzerinde
+        - 2006/Kasım ve takip eden aylarda ise 2 ve üzerinde,
+        sigortalı çalıştıran işverenler, cari aylara ilişkin aylık prim ve hizmet belgelerini, Kuruma
+e-Sigorta kanalıyla ile göndermekle zorunlu tutulmuşlardır.
+        Aylık prim ve hizmet belgelerinin e-Sigorta kanalıyla gönderilmesine ilişkin uygulamayla
+birlikte, gereksiz emek ve zaman kaybının önüne geçildiği gibi, bahse konu programlardaki
+kontroller vasıtasıyla hatalı giriş yapılmasının da büyük ölçüde engellendiği dikkate alınarak,
+sözkonusu uygulamanın genişletilerek tüm işverenleri kapsayacak şekilde uygulanmasına
+karar verilmiş olup, uygulamanın usul ve esasları aşağıda açıklanmıştır.
+
+         2- Aylık Prim ve Hizmet Belgelerinin e-Sigorta Kanalıyla Gönderilmesi
+         2009/Ekim ayına ilişkin düzenlenecek olan aylık prim ve hizmet belgesinden başlanılarak,
+tüm resmi ve özel sektör işverenleri, çalıştırılan sigortalı sayısı üzerinde durulmaksızın, cari aylara
+ilişkin aylık prim ve hizmet belgelerini e-Sigorta kanalıyla göndermekle zorunlu tutulmuşlardır.
+         Dolayısıyla, 2009/Ekim ayına ilişkin olarak düzenlenecek olan aylık prim ve hizmet
+belgesinden başlanılarak, tüm resmi veya özel sektör işverenleri, cari aylara ilişkin asıl, ek ve iptal
+nitelikteki aylık prim ve hizmet belgelerini Kuruma, e-Sigorta kanalıyla gönderecek olup,
+sözkonusu belgeler Kuruma yasal süresi içinde kâğıt ortamında verilse dahi (iptal nitelikteki aylık
+prim ve hizmet belgeleri hariç), ilgililer aleyhine, 5510 sayılı Kanunun 102 nci maddesinin birinci
+fıkrasının (c) bendi uyarınca idari para cezası uygulanacaktır.
+
+_____________________________________________________________________________
+Necatibey Cd. No:37 06438 Sıhhiye/Ankara                         Elektronik Ağ: www.sgk.gov.tr
+Tel: (0312) 229 52 27 Faks: (0312) 229 54 42                     e-posta: sigortaprimler@sgk.gov.tr
+         3- Sigortalı İlk/Tekrar İşe Giriş Bildirgelerinin e-Sigorta Kanalıyla Gönderilmesi
+          28/9/2008 tarihli ve 27011 sayılı Resmi Gazetede yayımlanan 5510 Sayılı Kanun
+ Gereğince Sigortalı Sayılanlar, Sayılmayanlar, Sigortalılığın Başlangıcı, Kuruma Bildirilmesi ve
+ Sona Ermesi Hakkında Tebliğ’in “Hizmet Akdine Tabi Çalışanların Sigortalı İşe Giriş
+ Bildirgesinin e-Sigorta Yoluyla Bildirilmesi ” başlıklı bölümünde,
+         5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendine tabi sigortalıları
+çalıştıran işverenlerden, aylık prim ve hizmet belgesini e-Sigorta kanalıyla göndermekle yükümlü
+tutulanların,
+         - Sigortalı tekrar işe giriş bildirgesini; 1/11/2008 tarihinden itibaren,
+         - Sigortalı ilk işe giriş bildirgesini ise; 1/12/2008 tarihinden itibaren,
+         e-Sigorta yoluyla göndermekle yükümlü tutuldukları, aylık prim ve hizmet belgesini
+e-Sigorta yoluyla göndermekle yükümlü tutulmayan işverenlerin ise, ilk ve tekrar sigortalı işe giriş
+bildirgelerini Kuruma kağıt ortamında verebilecekleri gibi istemeleri halinde e-Sigorta kanalıyla
+da gönderebilecekleri açıklanmıştır.
+         Bu bağlamda, 2009/Ekim ayına ilişkin düzenlenecek olan aylık prim ve hizmet belgesinden
+başlanılarak, tüm resmi ve özel sektör işverenleri, cari aylara ilişkin aylık prim ve hizmet
+belgelerini, çalıştırılan sigortalı sayısı üzerinde durulmaksızın e-Sigorta kanalıyla göndermekle
+zorunlu tutulduğundan, özel nitelikteki işyerlerinde 1/10/2009 ve sonraki tarihlerde, resmi
+nitelikteki işyerlerinde ise 15/10/2009 ve sonraki tarihlerde işe alınan sigortalılara ilişkin ilk
+ve tekrar sigortalı işe giriş bildirgelerinin, çalıştırılan sigortalı sayısı üzerinde durulmaksızın
+yine e-Sigorta kanalıyla Kuruma gönderilmesi gerekmektedir.
+         Bu bağlamda, bahse konu bildirgeler Kuruma yasal süresi içinde kağıt ortamında verilse
+dahi, ilgililere, 5510 sayılı Kanunun 102 nci maddesinin birinci fıkrasının (a) bendinin (1)
+numaralı alt bendi uyarınca idari para cezası uygulanacaktır.
+         4- e-Sigorta Hizmetleri İnternet Kullanıcı Kodu ve Kullanıcı Şifresi Başvuru
+Formunun İşyeri Bildirgesi Ekinde Alınması
+         2009/Ekim ayına ilişkin düzenlenecek olan aylık prim ve hizmet belgesi ile birlikte tüm
+işverenlerin çalıştırdıkları sigortalıları Kuruma e-Sigorta kanalıyla bildirmeleri zorunluluk
+kapsamına alındığından, 5510 sayılı Kanun kapsamına alınan her işyeri için e-Sigorta kullanıcı
+kodu ve şifresinin alınması amacıyla işyerinin bağlı bulunduğu Sosyal Güvenlik İl
+Müdürlüğüne/Sosyal Güvenlik Merkezine başvuruda bulunulması gerekmektedir.
+         Bu bakımdan, 5510 sayılı Kanun kapsamına alınacak olan işyerlerinin, işyeri tescil
+işlemlerinin yapılmasının ardından, aylık prim ve hizmet belgelerini 2009/Ekim ayından itibaren
+e-Sigorta kanalıyla Kuruma göndermek amacıyla e-Sigorta kullanıcı kodu ve şifresi almak için
+başvuruda bulunması gerektiği dikkate alınarak, bundan böyle, işyeri bildirgesi ekinde diğer
+belgelerle birlikte, e-Sigorta Hizmetleri İnternet Kullanıcı Kodu ve Kullanıcı Şifresi Başvuru
+Formu ile eki imza sirküleri, vekaletname ve e-Sigorta Sözleşmesinin verilmesi halinde, işyeri
+tescil işlemlerinin yapılmasının ardından, ilgili Sosyal Güvenlik İl Müdürlüğünce/Sosyal Güvenlik
+Merkezince e-Sigorta kullanıcı kodu ve şifresinin verilmesine ilişkin işlemler de yapılacaktır.
+         Dolayısıyla, işyeri bildirgesinin işleme alınarak tescil işlemlerinin yapılmasının ardından,
+işyeri bildirgesi ekinde alınan e-Sigorta Hizmetleri İnternet Kullanıcı Kodu ve Kullanıcı Şifresi
+Başvuru Formunun üzerine, İşyeri Tescil Servisince, Kurumca verilen işyeri sicil numarası
+yazıldıktan sonra, sözkonusu başvuru formu e-Bildirge Servisine intikal ettirilecek ve ilgili
+Servisçe gerekli işlemler yapılacaktır.
+         İşyeri tescil işlemlerinin yapılması ve e-Sigorta kullanıcı kodu ve şifresinin verilmesi
+amacıyla yapılan başvurular üzerine, herhangi bir karışıklığa mahal bırakılmaması ve gereksiz
+__________________________________________________________________________                           2
+Necatibey Cd. No:37 06437 /Ankara                               Elektronik Ağ: www.sgk.gov.tr
+Tel: (0312) 229 52 27  Faks: (0312) 229 62 85                   e-posta: sigortaprimler@sgk.gov.tr
+emek ve zaman kaybına neden olunmamasını teminen, İşyeri Tescil Servisi ile e-Bildirge
+Servislerinin aynı veya birbirine yakın odalarda çalışmaları ve sözkonusu servisler arasında gerekli
+koordinasyonun sağlanması amacıyla Ünite Amirlerince gerekli önlemler alınacaktır.
+        5-Diğer Hususlar
+        Aylık prim ve hizmet belgelerinin e-Sigorta kanalıyla gönderilmesine ilişkin uygulamada
+yapılan değişiklikten dolayı, bir sigortalı çalıştıran işverenlerimizin, gerek aylık prim ve hizmet
+belgelerini, gerekse ilk ve tekrar sigortalı işe giriş bildirgelerini Kuruma yasal süresi içinde, ancak
+kağıt ortamında vermeleri nedeniyle idari para cezası ile karşı karşıya kalmamalarını teminen,
+sözkonusu değişikliğin, Sosyal Güvenlik İl Müdürlüklerimizce/Sosyal Güvenlik Merkezlerimizce;
+        1- Yazılı ve görsel basın kuruluşları vasıtasıyla kamuoyuna duyurulması,
+        2- İşveren ve muhasebecilerin bağlı olduklara odalara bildirilerek, üye kurum ve
+kuruluşlara bildirilmesinin istenilmesi,
+        3- İşveren sistemi ana menüden 9-2-2-8 nolu seçenekler işaretlenmek suretiyle erişilen
+ÇAL.SİG.SAYISINA GÖRE R/Ö İŞYERLERİ ekranı vasıtasıyla bir sigortalı çalıştıran
+işyerlerinin listesinin alınarak, sözkonusu işverenlerin e-Sigorta kullanıcı kodu ve şifresi alıp
+almadıklarının araştırılması, e-Sigorta kullanıcı kodu ve şifresi almamış işverenlerin konuyla ilgili
+olarak bilgilendirilerek e-Sigorta kullanıcı kodu ve şifresi almak üzere başvuru yapmaları
+hususunda telefonla veya diğer yollarla bilgilendirilmeleri,
+        gerekmektedir.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+DAĞITIM/
+GEREĞİ :                                              BİLGİ :
+- Merkez Teşkilatına,                                 - Çalışma ve Sosyal Güvenlik Bakanlığına,
+- Sosyal Güvenlik İl/Merkez Müdürlüklerine
+
+
+
+
+__________________________________________________________________________                            3
+Necatibey Cd. No:37 06437 /Ankara                                Elektronik Ağ: www.sgk.gov.tr
+Tel: (0312) 229 52 27  Faks: (0312) 229 62 85                    e-posta: sigortaprimler@sgk.gov.tr
+

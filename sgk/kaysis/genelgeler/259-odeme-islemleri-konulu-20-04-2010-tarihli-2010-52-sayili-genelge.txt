@@ -1,0 +1,420 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/136255
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 259
+ADI: ÖDEME İŞLEMLERİ KONULU 20/04/2010 TARİHLİ 2010/52 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 83f4f7dec137f0573cb9e59e0f2ae7fb2d752d6fe8ec0479e54e9db1d0c74b30
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+
+
+Sayı : B.13.2.SGK.0.65.01.00/ 259                                                              20.04.2010
+Konu: Ödeme İşlemleri
+
+
+                                                GENELGE
+                                                 2010 / 52
+
+
+        Bilindiği üzere, Kurumumuz bütçesinden yapılacak giderlerin kayıt ve takip işlemleri
+01.01.2010 tarihinden itibaren yürürlüğe konulan Mali Yönetim Otomasyon Sistemi Projesi
+(MOSİP) yazılımı üzerinden yürütülmektedir. Sistem üzerinden yapılacak tüm ödeme ve
+gönderme işlemlerinin düzenli yürütülebilmesi amacıyla aşağıdaki açıklamaların yapılmasına
+ihtiyaç duyulmuştur.
+
+        1. Sistemin Genel İşleyişi
+        Kurumumuz bütçesinden yapılacak tüm giderler MOSİP yazılımında kayıt altına
+alınacaktır. Bu sistemde gider işlemleri sonucunda ilgililere yapılacak ödemeler, muhasebe
+kayıtları tamamlandıktan sonra, ödeme taleplerinin sistem üzerinden elektronik ortamda
+merkezdeki Ödeme Muhasebe Birimine iletilmesi, iletilen bu kayıtlara göre bu muhasebe birimi
+tarafından ilgililerin banka hesaplarına havale yapılması suretiyle gerçekleştirilmektedir.
+
+        2. Gider Çeşitlerine Göre Harcama Birimlerince Yapılacak İşlemler
+        2.1- Sağlık Giderleri (Hastanelere, Eczanelere, Optisyenlere Yapılan Ödemeler)
+        Bilindiği üzere sağlık hizmet sunucularının Kurumumuza teslim ettiği fatura bilgileri
+elektronik ortamda MEDULA ve Provizyon sistemlerinden MOSİP yazılımına aktarılmaktadır.
+Aynı şekilde, bu faturalar üzerinde yapılan incelemeler sonucunda yapılacak kesintiler aynı
+sistemlere işlenmekte ve her bir fatura için ödenecek tutarlar yine elektronik ortamda MOSİP
+yazılımına aktarılmaktadır. 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun
+97 nci maddesine göre bu faturalara karşılık, fatura teslim tarihinden itibaren 60 (altmış) gün
+içinde ödeme yapılması zorunludur.
+        Bu sebeple MEDULA ve Provizyon sistemlerinde incelemesi tamamlanmış ve
+mutabakata varılmış faturalar MOSİP yazılımında ödeme emrine bağlanacak ve kanıtlayıcı
+belgeleriyle birlikte en geç son ödeme tarihinden 6 (altı) iş günü önce ilgili muhasebe birimine
+teslim edilecektir.
+        İncelemesi henüz tamamlanmamış veya mutabakata varılmamış faturalar için en geç son
+ödeme tarihinden 5 (beş) iş günü önce MOSİP yazılımından avans evrakı düzenlenecek ve aynı
+gün muhasebe birimine teslim edilecektir.
+        İlgililere yapılacak ödemelerin en geç 60 ıncı gün gerçekleştirilmesi Kanun gereği
+zorunlu olduğundan harcama birimleri yukarıda belirtilen sürelere kesinlikle uyacaklardır.
+        Kan ürünü ve hastanelere ilaç ve malzeme bedeli olarak verilecek avanslara ilişkin ödeme
+evrakı her ayın son gününden 4 (dört) iş günü önce muhasebe birimine iletilecektir.
+
+                                                                                                       1/8
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+         2.2- Kısa Vadeli Sigorta Kollarından Yapılan Ödemeler
+         İlgililere yapılacak geçici işgöremezlik ödemeleri ile emzirme yardımları ilgili servisler
+tarafından kendi yazılımlarına kaydedilmekte ve günlük mutabakat listeleri oluşturulduktan
+sonra ilgili yazılımlar üzerinden MOSİP yazılımına gönderilmektedir. Aynı servisler mutabakat
+listelerinde yer alan tutarları gün sonunda MOSİP yazılımında ödeme emri belgesine bağlayarak,
+kanıtlayıcı belge asıllarıyla birlikte aynı gün muhasebe birimine teslim edeceklerdir.
+         2.3- Cenaze Yardımı
+         İlgililere yapılacak cenaze yardımı ödemeleri ilgili servisler tarafından kendi
+yazılımlarına kaydedilmekte ve günlük mutabakat listeleri oluşturulduktan sonra ilgili yazılımlar
+üzerinden MOSİP yazılımına gönderilmektedir. Aynı servisler mutabakat listelerinde yer alan
+tutarları gün sonunda MOSİP yazılımında ödeme emri belgesine bağlayarak, kanıtlayıcı belge
+asıllarıyla birlikte aynı gün muhasebe birimine teslim edeceklerdir.
+         2.4- On-Line Şahıs Ödemeleri
+         İlgililere ödenecek tıbbi cihaz bedelleriyle yol ve zaruri masraflara ilişkin ödemeler On-
+Line Şahıs Ödemeleri programına kaydedildikten sonra aynı program üzerinden “Muhasebeye
+Gönder” işlemi yapılacaktır. Bu işlem sonucunda söz konusu programdaki veriler elektronik
+ortamda MOSİP yazılımına aktarılmış olacaktır.
+         Söz konusu veriler, ilgili servisler tarafından aynı günün sonunda MOSİP yazılımında
+ödeme emrine bağlanacak ve kanıtlayıcı belge asıllarıyla birlikte aynı gün ilgili muhasebe
+birimine teslim edilecektir.
+         2.5- Manuel Şahıs Ödemeleri
+         İlgililere manuel ortamda ödenecek ilaç ve tedavi giderleriyle 4/b kapsamındaki hak
+sahiplerine yapılacak cenaze yardımları MOSİP yazılımında ödeme emrine bağlanacak ve gün
+sonunda kanıtlayıcı belge asıllarıyla birlikte ilgili muhasebe birimine teslim edilecektir.
+         2.6- Mal ve Hizmet Alımlarına İlişkin Ödemeler
+         Mal ve hizmet alımlarına ilişkin herhangi bir gider taahhüdüne girişmeden önce her bir
+ihtiyaç MOSİP yazılımında ihtiyaç listesine kaydedilecek ve buna dayanılarak yine aynı
+sistemde harcama talimatı düzenlenecektir.
+         Gider taahhüt işlemleri MOSİP yazılımında tamamlandıktan sonra ilgililere yapılacak
+ödemeler aynı harcama talimatına dayanılarak ödeme emrine bağlanacak ve kanıtlayıcı belge
+asıllarıyla birlikte ilgili muhasebe birimine ivedilikle teslim edilecektir.
+         Söz konusu alım kapsamında avans ödemesi yapılacaksa, harcama yetkilisi bir mutemet
+tayin ederek avans ödeme talimatı düzenleyecek ve muhasebe birimine gönderecektir. Bu
+avansların mahsubu sırasında mutlak surette avans ödemesi yapılan harcama talimatı ilgi
+tutularak ödeme emri belgesi düzenlenip avans kapatılacaktır.
+         Ödemeler ilgililerin banka hesaplarına havale edileceğinden, kişiler sisteme
+tanımlanırken gerçek kişiler için T.C. Kimlik Numarası, tüzel kişiler için vergi numarası
+kullanılacaktır. İlgililerin banka hesapları sisteme tanımlanırken bankadaki hesap adının ve hesap
+numarasının titizlikle kontrol edilmesi gerekmektedir.
+         2.7- Personel Ödemeleri
+         2.7.1- Maaş ve Ücret Ödemeleri
+         Personele, kadro ve pozisyonuna dayanılarak her ay yapılacak maaş ve ücret ödemeleri
+
+
+                                                                                                           2/8
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+
+Personel Tahakkuk Yazılımında hesaplanacaktır. Bu hesaplama sonucu oluşan bordro bilgileri
+elektronik ortamda MOSİP yazılımına aktarılmaktadır.
+        Harcama birimleri söz konusu aylık ve ücret giderlerini MOSİP yazılımında ödeme
+emrine bağlayacak ve her ayın en geç 11 inde ilgili muhasebe birimine kanıtlayıcı belge
+asıllarıyla birlikte teslim edeceklerdir. Ayın 11 inin Cuma gününe rastlaması durumunda maaş ve
+ücret tahakkuk işlemleri ilgili ayın 9 unda tamamlanarak, ödeme evrakı aynı gün mesai saati
+bitimine kadar ilgili muhasebe birimine teslim edilecektir.
+        2.7.2- Fazla Mesai Ödemeleri
+        Personele yapılacak fazla mesai ödemeleri Personel Tahakkuk Yazılımında
+hesaplanacaktır. Bu hesaplama sonucu oluşan bordro bilgileri elektronik ortamda MOSİP
+yazılımına aktarılmaktadır.
+        Harcama birimleri söz konusu fazla mesai ödemelerini MOSİP yazılımında ödeme
+emrine bağlayacak ve her ayın en geç 9 unda maaş ve ücret ödemelerine ilişkin tahakkuk
+evrakıyla birlikte ilgili muhasebe birimine teslim edeceklerdir.
+        2.7.3- Performans Ödemeleri
+        Personele yapılacak performans ödemeleri Personel Tahakkuk Yazılımında
+hesaplanacaktır. Bu hesaplama sonucu oluşan bordro bilgileri elektronik ortamda MOSİP
+yazılımına aktarılmaktadır.
+        Harcama birimleri söz konusu performans ödemelerini MOSİP yazılımında ödeme
+emrine bağlayacak ve her ayın en geç 9 unda maaş ve ücret ödemelerine ilişkin tahakkuk
+evrakıyla birlikte ilgili muhasebe birimine teslim edeceklerdir.
+        2.7.4- Yolluk Giderleri
+        Personele yurt içinde geçici görevlendirme karşılığı yapılacak yolluk ödemeleri, öncelikle
+görev onaylarının MOSİP yazılımına kaydedilmesi, bu görev onayının harcama talimatına
+bağlanmasına dayanılarak yapılacaktır. Bu sebeple görev onayı ve harcama talimatı görev
+başlangıç tarihinden en geç 2 (iki) iş günü önce sisteme kaydedilecektir. Söz konusu personele
+avans verilecekse, avans ödeme talimatı görev başlangıç tarihinden en geç 2 (iki) iş günü önce
+MOSİP yazılımında düzenlenecek ve aynı süre içerisinde ilgili muhasebe birimine
+gönderilecektir.
+        2.8- Yurtdışı Tedavi Giderleri
+        Yurtdışında tedavi edilmesine Kurumca karar verilen kişilere ait belgelerin ilgili harcama
+birimine intikal ettiği tarihten itibaren en geç 5 (beş) iş günü içerisinde MOSİP yazılımında ilgili
+kişiler adına ihtiyaç listesi düzenlenecek ve bekletilmeksizin döviz talebinde bulunulacaktır.
+Döviz alımı gerçekleştiği anda ilgili ihtiyaç listesinde döviz kuru otomatik olarak yer alacaktır.
+Bu kur üzerinden MOSİP yazılımında harcama talimatı düzenlenecektir. İlgili konsolos,
+mutemet olarak belirlenerek, avans ödeme talimatı düzenlenip bekletilmeksizin muhasebe
+birimine iletilecektir.
+        Bu avanslara ilişkin gider evrakı ilgili harcama birimine geldiğinde avansa ilişkin
+harcama talimatı üzerinden ödeme emri belgesi düzenlenerek, kanıtlayıcı belge asıllarıyla
+birlikte muhasebe birimine teslim edilecektir.
+        2.9- Yurtdışı Tedavi Yollukları
+        Yurtdışında tedavi edilmesine Kurumca karar verilen kişilere ait belgelerin ilgili harcama
+                                                                                                           3/8
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+birimine intikal ettiği tarihten itibaren en geç 5 (beş) iş günü içerisinde MOSİP yazılımında ilgili
+kişiler adına ihtiyaç listesi düzenlenecek ve bekletilmeksizin döviz talebinde bulunulacaktır.
+        Döviz alımı gerçekleştiği anda ilgili ihtiyaç listesinde döviz kuru otomatik olarak yer
+alacaktır. Bu kur üzerinden MOSİP yazılımında harcama talimatı düzenlenecektir. Avans
+ödemesi şahsın kendisine yapılacaksa bu kişi, konsolosluk aracılığıyla yapılacaksa ilgili
+konsolos, mutemet olarak belirlenerek, avans ödeme talimatı düzenlenip bekletilmeksizin
+muhasebe birimine iletilecektir.
+        Bu avanslara ilişkin gider evrakı ilgili harcama birimine geldiğinde avansa ilişkin
+harcama talimatı üzerinden ödeme emri belgesi düzenlenerek, kanıtlayıcı belge asıllarıyla
+birlikte muhasebe birimine teslim edilecektir.
+        2.10- Mahkeme ve İcra Dairelerine Yapılacak Ödemeler
+        Kurumumuz adına açılacak davalara ilişkin mahkemelere yapılacak harç ödemeleri, tayin
+edilecek mutemetler adına açılacak avanslar ile gerçekleştirilecektir. Bunun için sistemde ilgili
+mutemet adına avans ödeme talimatı düzenlenecektir. Bu işlemlerin belirli süreler içinde
+gerçekleşme zorunluluğu dikkate alınarak, avans talepleri en geç 2 (iki) iş günü önceden ilgili
+muhasebe birimine iletilecektir.
+        Kurumumuz aleyhine alınan icra kararlarına karşılık yapılacak ödemeler için MOSİP
+yazılımında bir icra dosyası açılacak ve ödeme emri belgesi bu dosya üzerinden düzenlenecek,
+ödeme süreleri göz önünde bulundurularak en geç 2 (iki) iş günü önceden ilgili muhasebe
+birimine teslim edilecektir.
+        Sözleşmeli avukatlara yapılacak avans ödemeleri avukat adına açılacak banka hesaplarına
+aktarılacaktır.
+        2.11- Abonelik Yoluyla Sağlanan Hizmet Ödemeleri
+        Telefon, elektrik, su vb. hizmetler tesis edilen abonelikler üzerinden sağlanmaktadır. Her
+bir harcama birimi kendi bünyesinde tesis edilmiş abonelik bilgilerini ilgili muhasebe birimine
+bildirecek ve MOSİP yazılımında kayıt altına alınmasını sağlayacaktır.
+        Sisteme tanımlanmış abonelikler için harcama birimlerine gelen faturalar son ödeme
+tarihinden en az 5 (beş) iş günü önce ilgili menüden ödeme emri belgesine bağlanarak,
+kanıtlayıcı belge asıllarıyla birlikte ilgili muhasebe birimine teslim edilecektir.
+        2.12- Gelirlerden Red ve İadeler
+        Herhangi bir sebeple nakden ya da mahsuben tahsil edilerek Kuruma gelir kaydedilen
+tutarlardan iade edilmesi gerekenler için MOSİP yazılımında ödeme emri belgesi düzenlenecek,
+makul süreler içerisinde muhasebe birimine iletilecektir.
+        2.13- Denetim Elemanlarına Yapılacak Yolluk Ödemeleri
+        Kurumun denetim elemanlarına avans suretiyle yapılacak ödemeler ilgili denetim elemanı
+tarafından MOSİP yazılımında avans talebi olarak kaydedilecek ve bağlı olduğu harcama birimi
+tarafından onaylanmasını müteakiben ilgili muhasebe birimi tarafından gerçekleştirilecektir.
+        İlgili denetim elemanı avans aldığı görevi gerçekleştirdikten sonra en geç 1 (bir) ay
+içerisinde sarf evrakını bağlı olduğu harcama birimine teslim edecek; ilgili harcama birimi söz
+konusu avansı kapatmak için ödeme emri belgesi düzenleyip kanıtlayıcı belge asıllarıyla birlikte
+muhasebe birimine teslim edecektir.
+        2.14- Dikkat Edilecek Hususlar
+        MOSİP yazılımında hak sahiplerine yapılacak ödemeler bu kişilerin banka hesaplarına
+                                                                                                           4/8
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+havale suretiyle gerçekleştirilmektedir. Bankalara verilen ödeme talimatlarında lehtar olarak
+bildirilen isimle banka hesabının sahibi görünen isim tutarlılık yönünden kontrol edilmektedir.
+         Öte yandan ödemeler, ancak muhasebe kayıtlarının tamamlanmasından sonra
+gerçekleştirildiğinden, ihtiyaçların planlanması, ödeme evrakının zamanında tanzim edilmesi ve
+muhasebe yetkililerinin gerekli incelemeyi yapabilmesi için makul süreler içinde muhasebe
+birimlerine teslim edilmesi gerekmektedir.
+         Tüm mali işlemler Sosyal Güvenlik Kurumları Harcama Belgeleri Yönetmeliğinde
+belirtilen kanıtlayıcı belge düzenine göre yürütülecektir. Bu açıdan kanıtlayıcı belge asılları
+ödeme evrakının Sayıştay nüshasına takılacaktır. Diğer nüshalara fotokopi yoluyla çoğaltarak bir
+belge bağlanmayacak, söz konusu Yönetmelikte belirtilenler dışında hiçbir yazı, tutanak, rapor
+vb. belge eklenmeyecektir.
+         Bu Genelge’de son ödeme tarihi olarak belirtilen günlerin resmi tatile rastlaması halinde
+tatilden önceki son iş günü esas alınacaktır.
+         Bu Genelge’de son ödeme tarihi olarak belirtilen günlerde işlemlerin yapılmaması
+halinde, o işlem izleyen ayda yapılacak, bundan dolayı meydana gelecek zararlardan yetkililer
+sorumlu olacaktır.
+
+         3- Muhasebe Birimlerince Yapılacak İşlemler
+         3.1- Genel Hususlar
+         Muhasebe yetkilileri ödeme evrakının tam olarak düzenlenip düzenlenmediğini,
+kanıtlayıcı belge asıllarının tamam olup olmadığını, yetkililerin imzalarını ve maddi hata
+bulunup bulunmadığını 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve Sosyal Güvenlik
+Kurumları Harcama Belgeleri Yönetmeliği yönünden inceleyecek, bu hususlar dışında her hangi
+bir sebeple ödeme evrakını geri çevirmeyecektir.
+         3.2- Ödeme Türüne Göre İnceleme Süreleri
+         3.2.1- Sağlık Ödemeleri
+         Muhasebe birimleri sağlık ödemelerine ilişkin asıl ödemelere ait ödeme evrakını en geç 2
+(iki) iş günü içinde inceleyerek gerekli işlemleri yapacaktır. Bu ödemeler her ayın en geç 12 si
+mesai saati bitimine kadar merkeze iletilecektir.
+         Kan ürünü ile hastanelere verilecek ilaç ve malzeme avans ödemeleri her ayın son
+gününden 2 (iki) iş günü önce merkeze gönderilecektir.
+         Sağlık ödemelerinden asıl ödeme gününe yetiştirilemeyen ödemeler her hafta salı günü
+ödenecektir. Nakit planlaması yönünden önemli olan bu husus dikkate alınarak sağlık
+ödemelerinin belirli tarihte merkeze bildirilmesi hususunda özenli davranılacaktır.
+         3.2.2- Kısa Vadeli Sigorta Kollarından Yapılan Ödemeler
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden 2
+(iki) iş günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.3- On-Line Şahıs Ödemeleri
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden 2
+(iki) iş günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.4- Manuel Şahıs Ödemeleri
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden 2
+(iki) iş günü içerisinde inceleyerek merkeze gönderecektir.
+                                                                                                           5/8
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+
+         3.2.5- Mal ve Hizmet Alımlarına İlişkin Ödemeler
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden 4
+(dört) iş günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.6- Personel Ödemeleri
+         Muhasebe birimleri personele yapılacak maaş, ücret, fazla mesai, performans ve benzeri
+ödemelere ilişkin ödeme evrakını, teslim tarihinden itibaren 2 (iki) iş günü içerisinde inceleyerek
+her ayın en geç 13 ü mesai bitimine kadar merkeze gönderecektir. Ayın 13 ünün Pazar gününe
+rastlaması durumunda bu işlemler Cuma günü bitirilecek ve aynı günün öğlen mesai saati
+bitimine kadar ödeme bilgileri merkeze gönderilecektir.
+         3.2.7- Yurtdışı Tedavi Giderleri
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden iş
+günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.8- Mahkeme ve İcra Dairelerine Yapılacak Ödemeler
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden iş
+günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.9- Abonelik Yoluyla Sağlanan Hizmet Ödemeleri
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihinden itibaren 2
+(iki) iş günü içerisinde inceleyerek son ödeme tarihinden en geç 2 (iki) iş günü önce
+merkeze gönderecektir.
+         3.2.10- Gelirlerden Red ve İadeler
+         Muhasebe birimleri bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip eden 2
+(iki) iş günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.11- Denetim Elemanlarına Yapılacak Yolluk Ödemeleri
+         Merkez muhasebe birimi bu tür ödemelere ilişkin ödeme evrakını, teslim tarihini takip
+eden iş günü içerisinde inceleyerek merkeze gönderecektir.
+         3.2.12- İcra Kesintileri
+         Muhasebe birimleri, yaptıkları ödemelerden kesinti yaparak emanet hesaplara
+kaydettikleri icra paralarını (vergi ve prim icraları dahil) en geç ödeme tarihini takip eden 5 (beş)
+iş günü içerisinde merkeze gönderecektir.
+         3.2.13- Vergi Kesintileri
+         Muhasebe birimleri, yaptıkları ödemelerden kesinti yaparak emanet hesaplara
+kaydettikleri vergi kesintilerini takip eden ayın 20 sine kadar muhtasar beyanname ile bağlı
+oldukları vergi dairelerine bildirecekler, beyannameyi verdikten sonra ödenmesi için en geç aynı
+ayın 24 üne kadar merkeze gönderecektir.
+         3.2.14- Emanet Paraların İadesi
+         Muhasebe birimleri, emanet hesaplarında kayıtlı paraları talep edildiği tarihte ödenmek
+üzere bekletmeksizin merkeze gönderecektir.
+         3.2.15- Diğer Ödemeler
+         Yukarıda sayılan ödemeler dışında kalan diğer ödemeler ise makul süreler içerisinde
+merkeze gönderilecektir.
+
+        4. Merkez Ödeme Muhasebe Biriminde Yapılacak İşlemler
+        4.1- Genel Hususlar                                                                                6/8
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+         İlgililere yapılacak tüm ödemeler taşra muhasebe birimlerince hesaplara kaydedilen
+tutarlardan       “merkeze gönder”      işlemi yapılanlar Merkez Ödeme Saymanlığı üzerinden
+gerçekleşecektir. Bu sebeple ödeme yapılacak tutarların gönderme tiplerine göre yukarıda
+belirtilen süreler içinde merkeze bildirilmesi büyük önem arz etmektedir. Belirtilen süreler içinde
+merkeze bildirilen ödemeler, aşağıda belirtilen süreler içinde bankaya talimat verilerek ilgililerin
+hesaplarına aktarılacaktır.
+         4.2- Ödeme Türüne Göre Bankaya Ödeme Süreleri
+         4.2.1- Sağlık Ödemeleri
+         Sağlık ödemeleri, hizmet sunucularının faturaları teslim ettikleri tarihten itibaren 60
+(altmış) gün içinde ödenmek zorundadır. Bankalarla yapılan protokol gereğince bu tür ödemeler,
+bankalara verilen talimatı takip eden 2 (iki) iş günü içinde ilgililerin hesaplarına
+aktarılacağından, her ayın 13 ünde bankaya gönderilecektir.
+         Bu tarihe kadar ödemesi gerçekleştirilemeyen sağlık ödemeleri yapılan nakit
+planlamasına göre her hafta salı günü gerçekleştirilecektir. Bu sebeple taşra birimlerimizin
+merkeze gönderme işlemlerinde özenli davranması gerekmektedir.
+         4.2.2- Kısa Vadeli Sigorta Kollarından Yapılan Ödemeler
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde PTT’ye gönderilecektir.
+         4.2.3- On-Line Şahıs Ödemeleri
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.
+         4.2.4- Manuel Şahıs Ödemeleri
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.
+         4.2.5- Mal ve Hizmet Alımlarına İlişkin Ödemeler
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.
+         4.2.6- Personel Ödemeleri
+         Ödeme muhasebe birimince yapılacak maaş ve ücret ödemeleri, bankalarla yapılan
+protokollere göre paranın bankada bekleme süresi dikkate alınarak (2010 yılı için maaş ve ücret
+toplamlarının bir gün önce bankaya aktarılması gerektiğinden her ayın 14 ü), bankaya
+gönderilecektir. Bu tarihin resmî tatile rastlaması halinde bir önceki iş günü gönderme işlemi
+yapılacaktır.
+         Personele yapılacak diğer ödemeler de maaş ve ücretlerin bankaya gönderildiği tarihlerde
+gönderilecektir.
+         4.2.7- Yurtdışı Tedavi Giderleri
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği tarihte
+bekletilmeksizin bankaya gönderilecektir.
+         4.2.8- Mahkeme ve İcra Dairelerine Yapılacak Ödemeler
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği tarihte
+bekletilmeksizin bankaya gönderilecektir.
+         4.2.9- Abonelik Yoluyla Sağlanan Hizmet Ödemeleri
+         Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.                                                                 7/8
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+                                              T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+        4.2.10- Gelirlerden Red ve İadeler
+        Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.
+        4.2.11- Denetim Elemanlarına Yapılacak Yolluk Ödemeleri
+        Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği tarihte
+bekletilmeksizin bankaya gönderilecektir.
+        4.2.12- İcra Kesintileri
+        Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği tarihte
+bekletilmeksizin bankaya gönderilecektir.
+        4.2.13- Vergi Kesintileri
+        Ödeme muhasebe birimince sağlık ödemeleri, merkeze gönderildiği tarihte
+bekletilmeksizin bankaya gönderilecektir.
+        4.2.14- Emanet Paraların İadesi
+        Ödeme muhasebe birimince bu tür ödemeler, merkeze gönderildiği günü takip eden gün
+içinde bankaya gönderilecektir.
+        4.2.15- Diğer Ödemeler
+        Yukarıda sayılan ödemeler dışında kalan diğer ödemeler ise nakit planlaması dahilinde
+uygun olan tarihlerde bankaya gönderilecektir.
+        Bilgilerinizi ve gereğinin buna göre ifasını rica ederim.
+
+
+
+
+                                                                         M. Emin ZARARSIZ
+                                                                            Kurum Başkanı
+
+
+DAĞITIM:
+Merkez ve Taşra Teşkilatına
+
+
+
+
+Milli Müdafaa Cad. No:24 B Blok 14. Kat Bakanlıklar/ANK. Ayrıntılı bilgi için irtibat: M.KARASU Dai.Bşk.
+Tel: (0312) 414 51 71 Faks: (0312) 425 82 06    e-posta:mkarasu@sgk.gov.tr. Elekt.Ağ:www.sgk.gov.tr.
+

@@ -1,0 +1,314 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/104521
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 735833
+ADI: SOSYAL GÜVENLİK KURUMU TIBBİ MALZEME BAŞVURULARI İLE İLGİLİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 4ccce03c5ba23b3687a088fd9bd30c55d3d7f1f282191354ccfa92642e963410
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                     SOSYAL GÜVENLİK KURUMU
+    TIBBİ MALZEME BAŞVURULARI İLE İLGİLİ ÇALIŞMA USUL VE ESASLARI
+                        HAKKINDA YÖNERGE
+
+      Amaç ve Dayanak
+        MADDE 1-
+        (1) Bu Yönergenin amacı, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 63 üncü ve 72 nci maddelerine dayanılarak oluşturulacak Tıbbi Malzeme Başvuruları
+ile Bilimsel Komisyonların ve “Tıbbi Malzeme Değerlendirme Komisyonu”nun çalışma usul ve
+esaslarını belirlemektir.
+
+        Tanımlar
+        MADDE 2-
+        (1) Bu Yönergede geçen;
+        a) Başvuru Kategorileri:
+        A Grubu: Bedeli Karşılanacak Tıbbi Malzeme Listelerinde tıbbi malzemenin dahil
+edileceği malzeme alan tanımı bulunmayan, dolayısıyla yeni bir malzeme alan tanımı ile listelere
+dahil edilmesi talep edilen tıbbi malzemeler için yapılacak olan başvurular,
+        B Grubu: Bedeli Karşılanacak Tıbbi Malzeme Listelerinde tıbbi malzemenin dahil edileceği
+benzer malzeme alan tanımı bulunmasına karşın, ürünün farklı boyut/ölçü/nitelikte olanlarının
+tanımlanarak, farklı bir tıbbi malzeme alan tanımı ile listelere dahil edilmesi için yapılacak olan
+başvurular,
+        C Grubu: Bedeli Karşılanacak Tıbbi Malzeme Listelerinde Kurumca geri ödemesinin
+yapılacağı yayımlanmış ve MEDULA-Hastane uygulamasına tanımlanmış bulunan tıbbi malzeme
+alan tanımı içine dahil edilecek tıbbi malzemeler için yapılacak olan başvurular,
+        D Grubu: Bedeli Karşılanacak Tıbbi Malzeme Listelerinde Kurumca geri ödemesinin
+yapılacağı yayımlanmış ve MEDULA-Hastane uygulamasına tanımlanmış bulunan tıbbi
+malzemelerin (niteliklerinin ve MEDULA-Hastane uygulamasındaki mevcut SUT kodu- barkod
+eşleştirmelerin değişmemesi kaydıyla) küresel ürün numarası (Barkod) güncellemesi ve/veya aynı
+küresel ürün numarasının firma adı değişikliğine (firma tanımlayıcı numarasının değişmeksizin
+isminin değişmesi veya MEDULA-Hastane uygulamasında kayıtlı küresel ürün numarasının farklı
+firma tanımlayıcı numarasına sahip başka bir firma tarafından kaydedilmesi talepleri) ilişkin
+başvurular.
+        b) Bilimsel Komisyonlar: Görüş ve önerilerine başvurulmak üzere, akademisyen ve/veya
+ilgili dal uzmanlarından (Değişik ibare:1md.Yürürlük:09/2/2017)(1) Genel Müdür onayı ile
+oluşturulan komisyonları,
+        c) Dönem: Tıbbi Malzeme Değerlendirme Komisyonunun bir yıllık çalışma takvimi
+içerisinde yılda üç defa gerçekleştirilen çalışma sürelerini,
+        ç) Genel Müdür: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Genel Müdürünü,
+
+
+
+
+                                                                                                 1
+          d) Gizlilik ve etik kurallar belgesi: Tıbbi Malzeme Değerlendirme Komisyonuna katılacak
+asıl, yedek ve gözlemci üye ile sekreterya görevini yürüten personel tarafından imzalanacak
+belgeyi,
+          e) Gözlemci üye: Tıbbi Malzeme Değerlendirme Komisyonuna sektörü temsilen katılan,
+görüşlere yön verme yetkisi ve oy kullanma hakkına sahip olmayan üyeyi,
+          f) Kılavuz: Tıbbi malzeme başvurularında izlenecek yola ilişkin Yönerge eki Tıbbi
+Malzeme Başvuru Kılavuzunu,
+          g) Kurum: Sosyal Güvenlik Kurumunu,
+          ğ) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanı,
+          h) Kurum Başkanlığı: Sosyal Güvenlik Kurumu Başkanlığını,
+          ı) Liste: SUT ekinde ve/veya Kurum resmi internet sitesinde yayımlanan tıbbi malzeme ile
+ilgili listeleri,
+          i) Sağlık hizmeti: Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere 5510 sayılı
+Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 63 üncü maddesi gereği finansmanı
+sağlanacak tıbbî ürün ve hizmetleri,
+          j) Sağlık Hizmetleri Fiyatlandırma Komisyonu (SHFK): 5510 sayılı Kanunun 72 nci
+maddesi gereğince oluşturulan komisyonu,
+          k) Sekreterya: Bu Yönergede yer alan komisyonların görev alanına giren konularla
+ilgili sekreterya hizmetini yürüten Tıbbi Malzeme Daire Başkanlığının ilgili birimlerini,
+          l) SUT: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+          m) Tıbbi Malzeme: Ortez, protez, tıbbi araç ve gereç, kişi kullanımına mahsus tıbbi cihaz,
+tıbbi sarf, basit sıhhi sarf ve iyileştirici nitelikteki tıbbi sarf malzemelerini,
+          n) Tıbbi Malzeme Değerlendirme Komisyonu (TMDK): Tıbbi malzemelerle ilgili olarak
+yapılan A ve B grubu başvuruları inceleyip, değerlendirip görüş veren komisyonu,
+          ifade eder.
+
+       Başvuru, Değerlendirme ve İstenilecek Belgeler
+       MADDE 3-
+       (1) Tıbbi Malzeme başvuruları, değerlendirmeleri ve istenecek belgeler şunlardır:
+       a) Geri ödemeye yönelik SUT’un tıbbi malzeme ile ilgili hükümleri (allogreftlere ait
+hükümler de dahil olmak üzere) hakkında yapılacak her türlü başvurular Kılavuza göre yapılır.
+       b) Tüm başvurulara ilişkin iş ve işlemler sekreterya tarafından yürütülür.
+       c) Kılavuzda tanımlanan A, B ve C grubu başvurular yılda 3 (üç) defa, D grubu başvurular
+yılda 12 (on iki) defa yapılır.
+       ç) Başvurular, sekreterya tarafından şekil olarak ön inceleme yapıldıktan sonra uygunluk
+parafı yapılmış dosya, firma tarafından evrak servisine elden teslim edilir.
+(Değişik cümle:2md.Yürürlük:09/2/2017)(1) Kuruma teslim edildikten sonra eksikliği tespit
+edilen bilgi ve belgeler ilgili tarafa bildirilir. Eksik bilgi ve belgelerin tamamlanmaması halinde
+başvuru süreci durdurulur. Eksik bilgi ve belgelerin tamamlanması halinde süreç devam eder.
+Uygunluk parafı yapılmamış dosyaların ise herhangi bir şekilde evrak kaydı alması durumunda
+başvuru geçerli sayılmaz, dosya yazılı olarak ilgili tarafa iade edilir.
+
+
+                                                                                                   2
+         d) Bilimsel Komisyonlarca incelenen A ve B grubu başvurulardan olumsuz görüş
+oluşturulanlar Genel Müdür tarafından değerlendirilir ve verilen karar ilgliye tebliğ edilir. Bilimsel
+Komisyonlarca olumlu görüş oluşturulan A ve B grubu başvurular TMDK tarafından incelenir.
+TMDK tarafından olumsuz olarak görüş oluşturulan A ve B grubu başvurular Genel Müdür
+tarafından değerlendirilir ve verilen karar ilgiliye tebliğ edilir. TMDK tarafından olumlu olarak
+görüş oluşturulan başvurular ise Genel Müdür tarafından değerlendirilir ve verilen karar
+değerlendirilmek üzere SHFK’ya iletilir. SHFK tarafından olumsuz olarak değerlendirilenler
+ilgiliye sekretarya tarafından tebliğ edilir, olumlu olarak değerlendirilenler ise SUT’ta yayımlanır.
+         e) Gerektiğinde Bilimsel Komisyonlarca incelenen C grubu başvurulardan olumsuz görüş
+oluşturulanlar, Genel Müdür tarafından değerlendirilir ve verilen karar ilgiliye tebliğ edilir.
+Bilimsel Komisyonlarca olumlu görüş oluşturulan C grubu başvurular ise Genel Müdür tarafından
+değerlendirilir ve verilen karar Kurum resmi internet sitesinde duyurulur.
+         f) Sekretarya tarafından incelenen D grubu başvurular Genel Müdür tarafından
+değerlendirilir ve verilen karar Kurum resmi internet sitesinde duyurulur.
+         g) Verilen her türlü bilgi ve belgelerin doğruluğundan adına başvuru yapılanlar
+sorumludur. Yanlış verilen bilgi ve belgelere dayanılarak alınan kararlar nedeniyle Kurumun
+uğrayacağı zarar, bilgi ve belgeyi Kuruma sunan firmalardan Kılavuz eki taahhütname
+doğrultusunda tahsil veya tazmin edilir.
+
+        Tıbbi Malzeme Başvuruları ile İlgili Sekreterya Tarafından Yürütülecek İşlemler
+        MADDE 4-
+        (1) Tıbbi malzeme başvuruları ile ilgili sekreterya tarafından yürütülecek işlemler şunlardır:
+        a) Kılavuzda tanımlanan başvuru kategorilerine göre yapılan başvuruların şeklen
+kontrolünü sağlamak,
+        b) (Değişik bent:3md.Yürürlük:09/2/2017)(1) Kılavuza uygun olmayan ve/veya
+eksiklikleri tespit edilen başvuruları bu yönerge ve eki kılavuz hükümleri doğrultusunda ilgili
+tarafa iade etmek veya eksiklikleri tamamlanmak üzere bildirmek,
+        c) A ve B grubu başvuruların bilimsel komisyonlarda görüşülmesini sağlamak,
+        ç) Yönerge ve eki kılavuza uygun, bilimsel komisyonlarca olumlu görüş oluşturulan A ve B
+grubu başvuruların TMDK’ya iletilmesini sağlamak,
+        d) SUT eki listelerde yer alan tıbbi malzeme alan tanımlarına eşleştirilmiş tıbbi
+malzemelerin eşleştirildikleri alan tanımlarından çıkarılma konusundaki Sağlık Bakanlığının veya
+ilgili gerçek ve tüzel kişilerin, kurum/kuruluşların başvuruları ile Kurum tespitleri doğrultusunda
+yapılacak düzenlemeleri ve C grubu başvurularını gerektiğinde bilimsel komisyonun görüşlerini de
+alarak incelemek ve oluşan görüşleri ilgiliye tebliğ etmek ve/veya çalışma takvimi doğrultusunda
+Kurum resmi internet sitesinde duyurmak ve sistemde tanımlamak,
+        e) D grubu başvurularının değerlendirme sonucunu çalışma takvimi doğrultusunda Kurum
+resmi internet sitesinde duyurmak ve sistemde tanımlamak,
+        f) Firmaların SUT eki listelerde yer alan tıbbi malzeme alan tanımlarına eşleştirmiş
+oldukları tıbbi malzemelerinin eşleştirildikleri alan tanımlarından çıkarılma konusundaki
+
+
+
+                                                                                                    3
+başvurularını Genel Müdür onayı ile çalışma takvimi doğrultusunda Kurum resmi internet
+sitesinde duyurmak ve sistemde tanımlamak,
+        g) Sağlık Bakanlığı tarafından yayımlanan Tıbbi Cihaz Yönetmeliği’ne istinaden piyasada
+serbest dolaşımı iptal edilen tıbbi malzemelerin listeden çıkarılması ile ilgili işlemleri yürütmek ve
+Genel Müdür onayı ile çalışma takvimi doğrultusunda Kurum resmi internet sitesinde duyurmak ve
+sistemde tanımlamak,
+        ğ) TMDK’ca olumlu görüş oluşturulan A ve B grubu başvuruların SHFK’ya iletilmesini
+sağlamak.
+
+        Bilimsel Komisyonlar
+        MADDE 5-
+       (1) Bilimsel Komisyonlar; “Genel Sağlık Sigortası Uygulamalarına Yönelik Oluşturulan
+Komisyonların Çalışma Usul ve Esasları” ve “Genel Sağlık Sigortası Uygulamalarına Yönelik
+Komisyonlara İştirak Edenlere Yapılacak Ödemelere İlişkin Usul ve Esaslar” çerçevesinde
+oluşturulur. SUT ve eki listelerde yer alan tıbbi malzeme alan tanımlarına eşleştirilmiş tıbbi
+malzemelerin eşleştirildikleri alan tanımlarıyla ilgili olarak Sağlık Bakanlığının, ilgili gerçek ve
+tüzel kişiler, kurum ve kuruluşların başvuruları ile Kurum tespitleri doğrultusunda yapılacak
+düzenlemeler ile A, B ve C grubu başvurularını değerlendirmek için Kurumca bilimsel
+komisyonlar oluşturulur. Bilimsel komisyon görüşlerini; sağlık hizmetlerinin klinik faydalarını,
+gerekliliğini ve yeterli klinik verilerini değerlendirerek hazırlar.
+        (2) Bilimsel komisyon üyeleri çalışma sonucu oluşan görüşleri tutanakla imza altına alır.
+        (3) Bilimsel komisyon toplantılarına, TMDK’da temsil edilen kurumların temsilcileri
+katılabilir.
+        (4) Bilimsel komisyon görüşlerine dayanılarak alınan kararlara yapılan itirazlar, başka
+üyelerden oluşan bilimsel komisyonlarca bu Yönergenin 9 uncu maddesinin birinci fıkrası
+hükümleri doğrultusunda değerlendirilir.
+
+        Tıbbi Malzeme Değerlendirme Komisyonunun Oluşumu
+        MADDE 6-
+        (1) Tıbbi Malzeme Değerlendirme Komisyonuna, Kurum Tıbbi Malzeme Daire Başkanı
+başkanlığında;
+        a) Kurumu temsilen, TMDK Başkanı dahil olmak üzere Kurum Başkanı onayı ile
+görevlendirilecek dört üye,
+        b) Sağlık Bakanlığını temsilen ilgili kurum tarafından belirlenmiş temsile yetkili iki üye,
+        c) Kalkınma Bakanlığı, Hazine Müşteşarlığı, Aile ve Sosyal Politikalar Bakanlığı ve
+Maliye Bakanlığını temsilen ilgili kurumlar tarafından belirlenmiş temsile yetkili birer üye,
+        ç) Üniversitelerin ekonomik değerlendirme yapabilecek ilgili bilim dallarından Kurumca
+tespit edilen akademik ünvana sahip bir üye,
+        olmak üzere 11 (onbir) üyeden oluşur. TMDK Başkanı hariç olmak üzere üye sayısı kadar
+da yedek üye belirlenir. Aile ve Sosyal Politikalar Bakanlığı temsilcisi; sadece eksternal ortez,
+protez ve diğer iyileştirici nitelikteki araç ve gereçlerle ilgili başvuruların görüşüldüğü toplantılara
+
+                                                                                                      4
+davet edilir. Toplantılara gözlemci üye olarak tıbbi cihaz sektörünü temsilen Türkiye Odalar ve
+Borsalar Birliği (TOBB) tarafından belirlenen bir üye katılabilir.
+        (2) TMDK Başkanının görevi başında bulunamadığı durumlarda toplantılara başkanlık
+etmek üzere, Genel Müdür tarafından Kurumu temsilen katılan üyeler arasından bir üye
+görevlendirilir ve toplantılara aynı yetki ile başkanlık eder.
+        (3) TMDK üyelerinin herhangi bir nedenle görevinden ayrılması durumunda komisyon
+üyelikleri için yeni görevlendirilen üyeler, Kuruma bildirilir. TMDK üyelerinin görevleri başında
+bulunamadıkları durumlarda aynı yetkilerle yedek üyeler toplantılara katılır. Kurumu temsilen
+katılan üyelerden birinin komisyona başkanlık etmek üzere görevlendirilmesi halinde yerine yedek
+üye toplantılara katılır. Üyeler dışındaki kişiler toplantılara ancak ilgisi nedeni ile TMDK Başkanı
+tarafından davet edilmeleri halinde katılabilirler.
+        (4) TMDK, gerektiğinde görüşlerine başvurmak üzere gerçek/tüzel kişileri ve Sivil Toplum
+Kuruluşlarını toplantıya davet edebilir veya yazılı görüş isteyebilir.
+        (5) TMDK sekreterya hizmetleri, Genel Sağlık Sigortası Genel Müdürlüğü Tıbbi Malzeme
+Daire Başkanlığı bünyesindeki ilgili birim tarafından yürütülür.
+        (6) TMDK’ya katılacak asil, yedek ve gözlemci üyeler gizlilik ve etik kurallar belgesini
+imzalayarak görevlerine başlarlar. Ayrıca, bu maddenin dördüncü fıkrası gereği davet edilen kişiler
+de gizlilik ve etik kurallar belgesini imzalarlar.
+
+       Tıbbi Malzeme Değerlendirme Komisyonu Başkanının Görevleri
+       MADDE 7-
+       (1) Tıbbi Malzeme Değerlendirme Komisyonu Başkanının görevleri şunlardır:
+       a) TMDK tarafından oluşturulan çalışma takvimini Genel Müdür onayı ile yayımlamak,
+       b) TMDK çalışmalarını koordine etmek ve gerektiğinde TMDK’yı olağanüstü toplantıya
+çağırmak,
+       c) Bilimsel komisyonlara katılacak olan akademik üyeleri Kurum Başkanı onayı ile tespit
+etmek ve bilimsel komisyon çalışmalarını düzenlemek,
+       ç) TMDK tarafından oluşturulan görüşlerin gereği yapılmak üzere ilgili birimlere iletmek.
+
+       Tıbbi Malzeme Değerlendirme Komisyonunun Çalışma Esasları ve Görevleri
+       MADDE 8-
+       (1) Tıbbi Malzeme Değerlendirme Komisyonunun çalışma esasları ve görevleri şunlardır:
+       a) Bilimsel komisyonlarca görüşülmeyen dosyalar TMDK gündemine alınmaz.
+       b) TMDK, TMDK Başkanının daveti üzerine toplanır. Yapılan ilk toplantıda çalışma
+takvimi belirlenir. Kurumca yayımlanan çalışma takvimi doğrultusunda, kılavuza uygun olarak
+yapılmış başvuru dosyaları TMDK gündemine alınır ve sonuçlandırılır. Çalışmaları, toplantı
+gündeminde görüşülecek konular sonuçlandırılıncaya kadar devam eder. Her toplantıda
+gündemdeki konular, yapılan değerlendirmeler ve oluşan görüşler ile gerekçeleri ayrıntılı olarak
+tutanak altına alınır ve imzalanır.
+       c) TMDK üyelerinin; kamu kaynaklarının verimli kullanılmasına yönelik yazılı
+başvuruları, temininde güçlük çekildiği, halk sağlığını yakından ilgilendirdiği ve acil tedbir
+
+                                                                                                  5
+alınması gerektiği yönündeki yazılı başvuruları, TMDK Başkanı önerisi ile gündem dışı olarak
+Komisyonda öncelikli olarak görüşülerek değerlendirilebilir.
+         ç) Bilim, Sanayi ve Teknoloji Bakanlığınca yayımlanan “Yerli Malı Tebliği (SGM
+2014/35)”nde tanımlanan “Yerli Malı Belgesi’’nin olması koşuluyla yerli üretilen tıbbi malzemeler
+kendi dönemi içerisinde öncelikli olarak değerlendirilir.
+         d) Toplantıya tüm temsilcilerin katılımı esastır. İlgili kurumlar bu hususu sağlamakla
+yükümlüdürler. TMDK en az üye tam sayısının salt çoğunluğuyla toplanır ve en az üye tam
+sayısının salt çoğunluğu ile görüş oluşturur. Toplantılarda çekimser oy kullanılamaz. Oyların
+eşitliği halinde TMDK Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Oluşan
+görüşe katılmayan üye, katılmama nedenini yazılı olarak tutanakta belirtir.
+         e) TMDK; başvuru yapılan konular ile ilgili her türlü ilave bilgi ve belgelerin yazılı ve/veya
+sözlü olarak sunulmasını talep edebilir.
+         f) Başvuru dosyası tüm içeriğiyle TMDK tarafından değerlendirilir. Sunulan belgelerin
+doğru ya da uygulanabilir olmadığı, yeterli güncel klinik çalışmalarının olmadığı, klinik kullanıma
+sunulmasının uygun olmadığı, tıbbi malzemenin maliyet etkinliğinin olmadığı yönünde
+değerlendirilmesi ve/veya başvuru klavuzuna uygun olmadığı tespit edilmesi halinde oluşan
+TMDK görüşüne istinaden başvuru Genel Müdür onayı ile reddedilir.
+         g) Üretim yeri; Kılavuz eki EK-7’deki “Referans Ülkelerde Tıbbi Malzemenin Geri Ödeme
+Statüsü” Listesinde yer alan ülkelerden biri ise; üretildiği ülkede veya referans ülkelerden herhangi
+2 (İki) ülkede, Listede yer almayan bir ülke ise Listedeki en az 3 (Üç) ülkede geri ödeme
+sisteminde olduğunun belgelenememesi halinde dosya değerlendirmeye alınamaz ve TMDK
+Başkanının imzası ile reddedilir. Belgeler; apostil veya ilgili ülkedeki Türkiye’nin dış
+temsilciliklerince onaylanması halinde geçerlidir. Bu bent “Yerli Malı Belgesi” ibraz eden tıbbi
+malzemeler için uygulanmaz.
+         ğ) A ve B grubu başvurular TMDK tarafından ilgili klinik ve teknik veriler ile beraber
+pazar payları ile bütçe üzerindeki etkileri ekonomik ve mali yön ile bilimsel komisyon ve
+gerçek/tüzel kişilerden gelen değerlendirmeleri alternatif tedavi yöntemlerine göre maliyet
+etkililiği de dikkate alınarak değerlendirilir ve görüş oluşturulur.
+
+         Komisyon Kararlarına İtiraz ve Tekrar Başvuru
+         MADDE 9-
+         (1) Yönerge kapsamındaki başvurular sonucu verilen kararlara, kararın yayımlanmasını
+takiben veya başvurunun reddedilmesi halinde söz konusu kararın Kurumca yayımlandığı/tebliğ
+edildiği tarihten itibaren 90 (Doksan) gün içinde gerekçeleri ve ek bilgi ve belgeler olmak
+koşuluyla itiraz edilebilir. Doksanıncı gün resmi tatil ise takip eden ilk iş günü yapılan başvurular
+zamanında yapılmış kabul edilir. Kargo veya iadeli taahhütlü posta ile gönderilen belgeler kargoya
+veya postaya verildiği tarih, normal posta ile gönderilen belgeler ise Kurum kayıtlarına intikal
+ettiği tarih esas alınarak işlem görür. İtirazlar bir kereye mahsus olmak üzere çalışma takvimine
+uygun olarak bu Yönerge hükümlerine göre değerlendirilir.
+         (2) A ve B grubu başvuru sonuçları için yapılan itiraz üzerine tekrar red kararı verilmesi
+halinde, aynı konu ile ilgili olarak, ikinci red kararının ilgiliye tebliğ tarihinden itibaren 9 (dokuz)
+
+                                                                                                      6
+ay içinde tekrar başvuru yapılamaz, başvuru yapılması halinde değerlendirmeye alınmaz. Ancak
+red kararı verilen sağlık hizmetine ait bu Yönerge eki Klavuzda yer alan “2.2.1 Tıbbi Malzemenin
+Kullanıldığı Endikasyonlar Hakkında Bilgi ve Klinik Kanıtlar” maddesinde tanımlanan bilgi ve
+belgelerle desteklenen yeni kanıt düzeyi yüksek bilimsel veri olması durumlarında bu süre bir
+defaya mahsus dikkate alınmaz.
+
+        Komisyon Çalışmalarının Gizliliği
+        MADDE 10-
+        (1) Komisyonlara katılacak asil ve yedek üyeler, Kurumca hazırlanan gizlilik ve etik
+kurallar belgesini imzalayarak görevlerine başlarlar.
+        (2) Çalışmaların tamamında ya da bir bölümünde görev alanlar tarafından komisyon
+çalışmaları sürerken veya sonuçlandığında oluşan görüşler; kararlar yayımlanıncaya veya
+duyuruluncaya kadar açıklanmaz.
+        (3) Komisyonlarca oluşturulan görüşler Kurum nezdinde tavsiye niteliğindedir.
+
+        Yürürlük
+        MADDE 11-
+        (1) Bu Yönerge, Sosyal Güvenlik Kurumu resmi internet sitesinde yayımlandığı tarih
+itibariyle yürürlüğe girer. Ancak bu Yönergenin; C ve D grubu başvurularına ilişkin hükümleri
+Kurumca duyurulacak tarihlerde yürürlüğe girer.
+
+         Yürütme
+         MADDE 12- Bu Yönerge hükümlerini Kurum Başkanı yürütür.
+
+
+
+
+EKLER:
+I- Tıbbi Malzeme Başvuru Kılavuzu
+II- Gizlilik ve Etik Kurallar Belgesi
+
+
+
+
+   (1)
+     Sosyal Güvenlik Kurumu web sayfasında 09/02/2017 tarihinde yayımlanan “Sosyal Güvenlik
+   Kurumu Tibbi Malzeme Başvuruları İle İlgili Çalışma Usul Ve Esasları Hakkında Yönerge’de
+   Değişiklik Yapılmasina Dair Yönerge”
+
+
+
+
+                                                                                               7
+

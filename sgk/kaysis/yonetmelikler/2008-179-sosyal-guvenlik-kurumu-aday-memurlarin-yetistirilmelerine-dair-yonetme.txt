@@ -1,0 +1,486 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/60251
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Yönetmelikleri
+SAYI: 2008/179
+ADI: SOSYAL GÜVENLİK KURUMU ADAY MEMURLARIN YETİŞTİRİLMELERİNE DAİR YÖNETMELİK
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 101a7d41613a777218904226f0d90fe10bca12a46d9ffacf85fd0dce53c1b8ea
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+SOSYAL GÜVENLİK KURUMU
+ADAY MEMURLARIN YETİŞTİRİLMELERİNE DAİR YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+Amaç
+
+MADDE 1 - (1) Bu Yönetmelik, Sosyal Güvenlik Kurumuna atanan aday memurların
+yetiştirilmeleri ve asli memurluğa geçirilmeleri için uygulanacak eğitim programlarını, eğitim
+sürelerini, eğitimlerde uygulanacak sınavları, sınav değerlendirme esaslarını ve ilgili diğer
+hususları belirlemek amacı ile düzenlenmiştir.
+
+Kapsam
+
+MADDE 2 — (1) Bu Yönetmelik, Sosyal Güvenlik Kurumu merkez ve taşra teşkilatına
+aday olarak atanan personeli kapsar.
+
+Dayanak
+
+MADDE 3 — (1) Bu Yönetmelik, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu
+Kararı ile yürürlüğe konulan Aday Memurların Yetiştirilmelerine Dair Genel Yönetmeliğin 33
+üncü maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+MADDE 4 - (1) Bu Yönetmelikte geçen;
+
+a) Kurum: Sosyal Güvenlik Kurumunu,
+
+b) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+
+c) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+
+ç) Personel: Kurum merkez ve taşra teşkilatı kadrolarında çalışanları,
+
+d) Merkez ve taşra teşkilatı: Sosyal Güvenlik Kurumu merkez ve taşra teşkilatını,
+
+e) Aday memur: Bu Yönetmelikle belirlenen temel, hazırlayıcı eğitim ve staja tabi tutulmak
+üzere Kurum merkez ve taşra teşkilatındaki görevlere ilk defa Devlet memuru olarak atananları,
+
+f) (Değişik: 22/07/2011-2011/197 s.Y.K.K) Asli memur: Adaylık süresi içinde temel,
+hazırlayıcı eğitim ve staj devrelerinin her birinde başarılı olarak adaylığı kaldırılan kişileri,
+
+g) Adaylık süresi: Devlet Memurluğuna ilk defa atananların, atandıkları tarihten başlamak
+üzere bir yıldan az, iki yıldan çok olmayan süreyi,
+
+&) Eğitim: Birbirini izleyen sıra içinde sürdürülen temel eğitim ile hazırlayıcı eğitim ve
+stajın tamamını,
+
+h)Temel eğitim: Aday memurların asli memur olabilmeleri için tabi tutuldukları, Devlet
+memurlarının ortak nitelikleri ile ilgili hususları kapsayan eğitimi,
+
+I) Hazırlayıcı eğitim: Aday memurlara Kurumu ve birimini tanıtmak, bulundukları sınıf,
+kadro ve görevi ile ilgili bilgi vermek amacıyla yapılan eğitimi,
+
+i) Staj: Aday memurların birimlerindeki görevleri ile ilgili olarak yapılan uygulamalı
+eğitimi,
+
+İ) Sınav: Temel ve hazırlayıcı eğitim dönemleri sonunda yapılacak değerlendirmeler için
+bilgi seviyesini ölçme işlemini,
+
+k) Değerlendirme: Temel ve hazırlayıcı eğitim dönemleri sonunda yapılacak sınavlar ile
+staj dönemi sonundaki bilgi seviyesini ölçme işlemini,
+
+) Temel Eğitim Kurulu: 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla
+yürürlüğe konulan Aday Memurların Yetiştirilmelerine Dair Genel Yönetmelikte belirtilen, Devlet
+Personel Başkanlığında oluşturulan üst kurulu,
+
+1
+
+m) Yönetme Kurulu: Kurumda, aday memurların eğitimlerinin yönetimi, yürütülmesi ve
+denetimi için oluşturulan Merkezi Eğitim Yönetme Kurulunu,
+
+n) Komisyon: Eğitim ve Sınav Yürütme Komisyonunu,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+Eğitim İlke ve Esasları
+
+İlkeler
+
+MADDE 5 - (1) Aday memurların eğitiminde, aşağıda belirtilen ilkeler göz önünde
+tutulur;
+
+a) Genel ilkeler;
+
+1) Eğitimin amacı; Türkiye Cumhuriyeti Anayasasına, Atatürk İlke ve İnkılaplarına,
+Anayasada ifadesi bulunan Atatürk Milliyetçiliğine sadakatle bağlı kalacak, Türkiye Cumhuriyeti
+Kanunlarını milletin hizmetinde olarak tarafsızlık ve eşitlik ilkelerine bağlı kalarak uygulayacak,
+yurt ve vatandaş sevgisi ile dolu, güler yüzlü, yol'gösterici, vatandaşlara daima yardımcı, disiplinli
+ve bilgili memur yetiştirmektir.
+
+2) Aday memurların; Kurum hizmetlerinin gerektirdiği bilgi ve becerileri kazanarak,
+hizmetlerin zaman ve kaynak israfına yol açmadan, en verimli bir şekilde yerine getirilmesini
+sağlayacak şekilde yetiştirilmeleri esastır.
+
+3) Eğitimleri başarı ile tamamlayamayan aday memurlar, asli memurluğa atanamazlar,
+
+4) Temel eğitim, hazırlayıcı eğitim ve staj birbirini izleyen sıra içinde sürdürülür. Bu
+eğitimler, hiçbir nedenle adaylık süresini aşamaz.
+
+5) Eğitimler, aday memurların öğrenim durumuna göre düzenlenir ve yürütülür.
+
+6) Eğitimler, Yönetme Kurulunun sorumluluğunda yürütülür,
+
+7) Eğitim sürelerine sınavlar dahildir.
+
+b) Temel eğitimin ilkeleri;
+
+1) Temel eğitimin hedefi; aday memurlara, Devlet memurlarının ortak nitelikleri ile ilgili
+
+bilinmesi gereken asgari bilgileri vermektir.
+
+2) Bu eğitim, her sınıf ve kadroya atanan aday memura, ortak bir program içinde öğrenim
+
+durumları dikkate alınarak uygulanır.
+
+3) Bu eğitimin süresi on günden az, iki aydan çok olamaz.
+
+4) Bu eğitim ile ilgili programlar Devlet Personel Başkanlığından temin edilir.
+
+©) Hazırlayıcı eğitimin ilkeleri;
+
+1) Hazırlayıcı eğitimin hedefi; aday memurlara, Kurumda atandıkları kadro ve görevlerin
+yürütülmesi için gerekli bilgi ve becerileri kazandırarak, görevlerine uyumlarını sağlamaktır.
+
+2) Bu eğitimin süresi bir aydan az, üç aydan çok olamaz.
+
+3) Bu eğitim ile ilgili programlar, Yönetme Kurulunca belirlenir.
+
+ç) Staj ile ilgili ilkeler;
+
+1) Stajın hedefi; aday memurlara, hazırlayıcı eğitim döneminde verilen teorik bilgileri,
+atandıkları kadro ve görevlerle ilgili bilgi ve becerileri uygulamak suretiyle deneyim
+kazandırmaktır.
+
+2) Aday memurlara, atandıkları birimlerde staj yaptırılması esastır. Gerektiğinde, Kurumun
+diğer birimlerinde ya da aday memurun görevleriyle ilgili olmak üzere diğer bir kurum veya
+kuruluşta da yaptırılabilir.
+
+3) Stajın süresi iki aydan az olmamak kaydıyla adaylık süresi içinde tamamlanır,
+
+2
+
+Eğitim konuları
+
+MADDE 6 -(1) Aday memurların eğitim konuları aşağıda gösterilmiştir.
+a) Temel eğitim konuları :
+
+1) Atatürk ilkeleri,
+
+2) T.C. Anayasası; genel esaslar, temel hak ve ödevler, Cumhuriyetin temel organları,
+yürütme,
+
+3) Genel olarak Devlet teşkilatı,
+
+4) (Değişik: 22/07/2011-201 1/197 s.Y.K.K) 657 sayılı Devlet Memurları Kanunu; ödevler
+ve sorumluluklar, genel haklar, yasaklar, disiplin işleri, sosyal ve mali haklar, amir memur
+ilişkileri, müracaat ve şikayetler, kılık kıyafet, yer değiştirme, beşeri ilişkiler,
+
+5) Yazışma ve dosyalama usulleri,
+
+6) Devlet malını koruma ve tasarruf tedbirleri,
+
+7) Halkla ilişkiler,
+
+8) Gizlilik ve gizliliğin önemi,
+
+9) İnkılap tarihi,
+10) Milli güvenlik bilgileri,
+11) Haberleşme,
+12) Türkçe dil bilgisi kuralları,
+13) İnsan hakları.
+b) Hazırlayıcı eğitim konuları; Aday memurların kadro ve görevleri dikkate alınarak
+Yönetme Kurulunca aşağıdaki konular çerçevesinde hazırlanır.
+1) Kurumun; tanıtılması, görevleri, teşkilatı, ilgili mevzuatı, diğer kurumlarla ilişkileri,
+2) Aday memurun görevi ile ilgili hususlar,
+3) Diğer konular. ”
+©) Staj dönemi konuları; Bu eğitimde aday memur atandığı birimin özelliği dikkate alınarak
+aşağıda belirtilen konularda yetiştirilir.
+1) Sorumluluğuna verilen araç ve gereçleri kullanma ve bakımını yapma,
+2) Görevi ile ilgili mevzuatı bilme ve kurallarına uyma,
+3) İş ilişkileri,
+4) Çevre ilişkileri,
+5) Görevi ile ilgili gözlem, araştırma ve incelemeler,
+6) Güvenlik ve koruma tedbirleri,
+7) Uygulamada tarafsız| ık,
+8) Zamanın ve kaynakların verimli şekilde kullanılması,
+9) Diğer konular.
+Eğitim programları
+MADDE 7 - (1) Temel eğitim programları; Devlet Personel Başkanlığından temin edilir.
+Temel eğitim programlarında yer alan Atatürk ilkeleri, 657 sayılı Devlet Memurları Kanunu,
+İnkılap tarihi ve milli güvenlik bilgileri konularının sürelerinde kısaltma yapılamaz.
+(2) Hazırlayıcı eğitim programları ile staj programları Yönetme Kurulu tarafından
+hazırlanır ve ilgililere dağıtımı yapılır.
+(3) Eğitim programları; ilköğretim, ortaöğretim ile yükseköğrenim mezunları düzeyinde
+olmak üzere, ayrı ayrı düzenlenir. :
+Eğitimin yapılması
+MADDE 8 -(1) Eğitimler, Komisyon tarafindan yürütülür.
+(2) Temel, hazırlayıcı eğitim ile stajın başlangıç ve bitiş tarihleri, yerleri, eğitime
+katılanların sayısı, eğitimlerin başlaması ile birlikte Devlet Personel Başkanlığına bildirilir.
+3
+
+ÜÇÜNCÜ BÖLÜM
+Sınavlara İlişkin Esaslar
+
+Sınav sorularının temini ve hazırlanması
+
+MADDE 9 — (1) Temel eğitime ilişkin sınav soruları Devlet Personel Başkanlığından temin
+edilir.
+
+(2) Hazırlayıcı eğitime ilişkin sınav soruları ve cevapları ise; aday memurların kadro ve
+görevleri göz önünde tutularak, eğitim programındaki konuların ağırlıklarına göre her konu için
+ayrı ayrı olmak üzere Yönetme Kurulunca hazırlanıp Komisyona teslim edilir.
+
+Sınavlar
+
+MADDE 10 — (1) Sınavlar; test, uzun cevaplı veya uygulamalı şekilde yapılır. Bunlardan
+biri veya birkaçı da kullanılabilir,
+
+(2) Sınavlarda köşesi kapalı kağıt kullanılması zorunludur.
+
+(3) Sınavlar; duyurulan yer, gün ve saatte yapılır.
+
+(4) Sınav soruları; salon başkanı tarafından yoklama yapılıp, sınava katılmayanların
+tutanakla tespit edilmesinden ve sınav kurallarının adaylara açıklanmasından sonra dağıtılır.
+
+(5) Sınav sonunda sınavın başlayışını, akışını ve bitimini, kullanılan kağıtların ve sınava
+giren adayların sayısını ve her adayın kullandığı kağıt adedini gösteren bir tutanak düzenlenir. Bu
+tutanaklar salon başkanı ve en az iki gözetmen tarafından imzalanır.
+
+(6) Eğitim dönemlerinin süreleri dikkate alınarak, eğitim görevlileri tarafından adayların
+durumunu ölçmek için temel, hazırlayıcı eğitim ve staj süreleri içinde ara sınavlar yapılabilir.
+
+Değerlendirme
+
+MADDE 11 - (1) Eğitimler aşağıdaki şekilde değerlendirilir;
+
+a) Temel ve hazırlayıcı eğitimlerde sınav kâğıtları Komisyon tarafından değerlendirilir.
+Değerlendirme 100 tam puan üzerinden yapılır. 60 ve daha yukarı puan alanlar başarılı sayılır.
+Başarısız olan aday memurların kâğıtları, Komisyonca en geç bir gün sonra bir daha okunarak
+yeniden değerlendirilir. Sınavlarda alınan buçuklu puanlar bir üst tam puana tamamlanır. Uzun
+cevaplı, yazılı ve uygulamalı sınavların kesin, puanı, sınavları yapmakla görevli Komisyon
+üyelerinin verdikleri puanların aritmetik ortalamâsı alınarak bulunur.
+
+b) Staja katılan aday memurlar, staj dönemi sonunda sicil amirlerince EK-I'de yer alan staj
+değerlendirme belgesi ile toplam 100 puan üzerinden değerlendirilir. Bu dönemdeki aday
+memurlar, yazılı veya uygulamalı sınava tabi tutularak da bu maddenin (a) bendindeki esaslara
+göre değerlendirilebilir.
+
+Sınav sonuçlarının bildirilmesi
+
+MADDE 12 — (1) Sınav sonuçları, sınavların yapıldığı günü izleyen iki gün içinde ilan
+edilir. Ayrıca, sonuçlar başarısız olan adaylara, yazılı olarak bildirilir.
+
+Yazılı sınavlara itiraz
+
+MADDE 13—(1) Aday memurlar, yazılı sınav sonuçlarına itiraz edebilirler. İtirazlar, sınav
+sonuçlarının adaylara duyurulmasından başlayarak iki gün içinde dilekçeyle Komisyon
+Başkanlığına yapılır. Komisyon, dilekçeleri on gün içinde cevaplamak zorundadır. Yapılan bu
+inceleme sonucu kesindir.
+
+(2) Sınavlara itiraz edenlerin itirazları sonuçlanıncaya kadar, aday memurlar bir
+sonraki eğitime devam ettirilirler,
+4
+
+Sınavlara katılmama durumu
+MADDE 14- (1) Sağlık nedenleri dışında sınavlara katılmayanlar, başarısız sayılır. Sağlık
+nedeniyle sınava katılamayanların sınavları, adaylık süresi içinde uygun bir zamanda yapılır.
+(2) Soruların açılması ve yazdırılmasından veya dağıtılmasından sonra sınav salonuna
+gelenler de sınava katılmamış sayılırlar ve başarısız olarak değerlendirilirler,
+Sınavları geçersiz sayılacaklar
+MADDE 15 -(1) Adaylardan;
+a) Kopyagirişiminde bulunanlar, kopya çekenler veya kopya verenler,
+b) Sınav düzenine aykırı davranışlarda bulunanlar,
+c) Kendi yerine başkasını sınava sokanlar,
+başarısız sayılırlar ve bunlar hakkında bir tutanak düzenlenerek, sınavları geçersiz sayılır ve
+haklarında gereken kanuni işlem yapılır.
+Sınavların iptalini gerektiren durumlar
+MADDE 16 -(1) Sınavlar;
+a) Sınav sorularının çalınmış olduğunun tespiti,
+b) Soru zarflarının sınav zamanından önee açıldığının tespiti,
+€) Soruların yetkili olmayan kişilerce sınavlardan önce görülmüş olması,
+hallerinde Yönetme Kurulunca iptal edilir.
+(2) Yukarıda sayılan hususlara sebep olanlar hakkında kanuni işlem yapılır.
+Sınav belgelerinin saklanması
+MADDE 17 -(1) Sınav belgeleri aşağıda belirtilen işlemlere tabi tutulur.
+a) Sınav soruları ve cevap anahtarları ile cevap kağıtları bir yıl,
+b) Tutanaklar ile değerlendirme fişleri iki yıl,
+c) Kanuni süresi içinde yargı yoluna başvuranların dosyası ise dava sonuçlanıncaya kadar,
+İnsan Kaynakları Daire Başkanlığında saklanır.
+(2) Yargı yoluna başvuran aday memurlar durumlarını İnsan Kaynakları Daire
+Başkanlığına bildirirler.
+DÖRDÜNCÜ BÖLÜM
+Eğitim ve Sınavlarla İlgili Kurul ve Komisyonlar
+Yönetme Kurulu
+MADDE 18 — (1) (Değişik: 13/01/2012-2012/20 s.Y.K.K) Kurum Başkanı veya
+görevlendireceği Başkan Yardımcısının başkanlığında Sigorta Primleri Genel Müdürü, Emeklilik
+Hizmetleri Genel Müdürü, Genel Sağlık Sigortası Genel Müdürü, Hizmet Sunumu Genel Müdürü
+ve İnsan Kaynakları Daire Başkanından oluşur. Kurul üyelerinin mazeretleri halinde vekilleri
+toplantılara katılır.
+(2) Kurul her yıl Kasım ayında toplanır. Gerektiğinde Kurul Başkanının çağrısı üzerine
+olağanüstü toplanabilir.
+(3) Kurulun sekreterya hizmetleri İnsan Kaynakları Daire Başkanlığınca yürütülür.
+Yönetme Kurulunun görevleri
+MADDE 19 - (1) Yönetme Kurulunun görevleri şunlardır:
+a) Eğitimlerin program dahilinde yürütülmesini sağlamak.
+b) Temel eğitim programlarını ve sorularını, Devlet Personel Başkanlığından temin etmek.
+c) Eğitim programlarının uygulanması ile ilgili araç ve gereçlerin teminini sağlamak.
+5
+
+ç) Eğitim görevlilerinin temin edilmesini sağlamak.
+d) Eğitimlerin ve sınavların belirtilen süre içinde yapılması için gerekli önlemleri almak.
+e) Eğitim yapılacak yerleri planlamak ve belirlemek.
+#) Diğer kurum ve kuruluşlarla her türlü işbirliğini sağlamak.
+&) Eğitimleri denetlemek veya denetlenmesini sağlamak.
+8) Hazırlayıcı eğitim ve staj programlarını düzenlemek ve sorularını hazırlamak, eğitim
+yerlerine dağıtılmasını sağlamak. *
+h) Eğitim ve Sınav Yürütme Komisyonunu kurmak,
+Komisyon
+MADDE 20 — (1) Aday memur eğitiminin yapılacağı yerlerde Yönetme Kurulunca
+oluşturulan Komisyonun başkan ve üyeleri; eğitilecek aday memur sayısı, adayların eğitim
+düzeyleri ve atandıkları görevler dikkate alınarak en az Şube Müdürü veya bulunmaması
+durumunda Şef düzeyinde üç kişiden az olmamak üzere seçilir.
+Komisyonun görevleri
+MADDE21 -(1) Komisyonun görevleri şunlardır:
+a) Eğitimleri, Yönetme Kurulunca saptanan programlar ve esaslar dahilinde yürütmek.
+b) Eğitim ve sınavları, belirlenen süreler içinde tamamlamak,
+c) Adaylara sınav salonu sağlamak.
+6) Yeteri kadar sınav uygulayıcısı, gözetmen ve salon başkanını belirlemek.
+d) Sınavlar için gerekli güvenlik önlemlerini almak.
+e) Sınavları yapmak ve değerlendirmek.
+f) Sınav sonuçlarını aday memurlara tebliğ etmek.
+&) Sınav sonuçlarına yapılacak itirazları inceleyerek sonuca bağlamak.
+BEŞİNCİ BÖLÜM
+Çeşitli Hükümler
+
+Eğitim görevlileri
+
+MADDE 22 - (1) Temel eğitim, hazırlayıcı eğitim ve staj çalışmalarında görev alacakların
+yüksek öğrenim görmüş olmaları yanında;
+
+a) Kurum bünyesinden veya diğer kurum ve kuruluşlardan görevlendirilecek eğitim
+görevlilerinin eğitim programlarında yer alan konularda gerekli bilgi, beceri ve öğretme
+yeteneğine sahip olmaları,
+
+b) Üzerinde resmi görev bulunmayanların, eğitim programlarında yer alan konularda
+tecrübeye dayalı bilgi, beceri ve öğretme yeteneğine sahip öğretici olması,
+gereklidir.
+
+Eğitim giderleri i
+MADDE 23 - (1) Aday memur eğitim faaliyetlerinin gerektirdiği harcamalar, Kurum
+bütçesinden karşılanır.
+(2) Eğitim görevlileri ile eğitime katılan personele, 6245 sayılı Harcırah Kanunu ve Bütçe
+Kanununun ilgili hükümlerine göre ödeme yapılır.
+Ders ücretleri
+6
+
+MADDE 24 - (1) Eğitim görevlilerine verilecek ücretler, 657 sayılı Devlet Memurları
+Kanunu ile Bütçe Kanunları hükümleri gereğince ödenir.
+Askerlik durumu
+MADDE 25-(1) Aday memurların askerlik hizmeti ile ilgili hususlar, 1111 sayılı Askerlik
+Kanununun 35 inci maddesinin (E) ve (F) fikraları göz önünde bulundurularak Kurumca belirlenir.
+(2) Aday memurların adaylık süresi içinde silah altına alınmaları nedeniyle
+tamamlanamayan eğitimleri, terhislerinden sonra tamamlattırılır.
+Başarısız adayların bildirilmesi
+MADDE 26 — (1) Görevlerine son verilen aday memurlar; Devlet Personel Başkanlığınca
+tespit edilen formlar doldurularak, en geç bir ay içinde adı geçen Başkanlığa bildirilir.
+(2) Formda, göreve son vermeyi gerektiren nedenler açıkça belirtilir.
+Memuriyete alınmama
+MADDE 27 -(1) Temel eğitim, hazırlayıcı eğitim ve staj devrelerinin her birinde başarısız
+olan, bu sebeple görevlerine son verilen aday memurlar; 3 yıl süreyle Devlet Memurluğuna
+alınmazlar. Ancak sağlık nedeniyle ilişkileri kesilenler için bu koşul aranmaz.
+(2) Üç yıllık sürenin saptanmasında, Devlet Personel Başkanlığında tutulan kayıtlar esas
+alınır.
+İşbirliği ve ortak eğitim
+MADDE 28 —(1) Temel eğitim, hazırlayıcı eğitim ve staj programlarının uygulanmasında,
+diğer kurum ve kuruluşlarla işbirliği yapılabilir; ortak eğitim olanaklarından yararlanılabilir.
+Yönetmelikte hüküm bulunmayan haller
+MADDE 29 - (1) Bu Yönetmelikte hüküm bulunmayan hallerde, 657 Sayılı Devlet
+Memurları Kanunu ile Aday Memurların Yetiştirilmelerine Dair Genel Yönetmelik hükümleri
+uygulanır.
+Yürürlükten kaldırılan hükümler
+MADDE 30 - (1) Bu Yönetmelik ile 25/12/1985 tarihli ve SGK-0253-13610 sayılı Çalışma
+ve Sosyal Güvenlik Bakanlığı onayı ile yürürlüğe konulan Bağ-Kur Genel Müdürlüğü Aday
+Memurların Yetiştirilmelerine İlişkin Yönetmelik ve 8/1/1987 tarihli ve 56 sayılı Yönetim Kurulu
+kararı ile yürürlüğe konulan T.C.Emekli Sandığı Genel Müdürlüğü Aday Memurların
+Yetiştirilmesi Yönetmeliği yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 31 - (1) Bu Yönetmelik, Sosyal Güvenlik Kurumu Yönetim Kurulunca kabul
+edildiği tarihte yürürlüğe girer.
+Yürütme
+MADDE 32 - (1) Bu Yönetmelik hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür,
+EK-I
+SOSYAL GÜVENLİK KURUMU
+ADAY MEMURLAR
+7
+
+STAJ DEĞERLENDİRME BELGESİ
+I- ADAY MEMURUN KİMLİĞİ FOTOĞRAF
+a) Adı Soyadı ni
+b) Unvanı i
+e) Sicil No 3
+ç) Görev Yeri i
+d) Doğum Yılı ve Yeri :
+?- ADAYLIK SÜRESİ İÇİNDE KATILDIĞI EĞİTİMLERDE ALDIĞI PUAN
+a) Temel Eğitim ş ,
+b) Hazırlayıcı Eğitim ;
+3- MERKEZİ YERLEŞTİRME SINAVINDA ALDIĞI PUAN
+a) Yazıyla ;
+b) Rakamla :
+EĞİTİM VE SINAV YÜRÜTME
+KOMİSYONU BAŞKANI
+Adı ve Soyadı:
+Unvanı z
+İmzası :
+EK-1/a
+8
+
+PUAN
+, , , AĞIRLIĞI
+NİTELİKLERİ : VEDAĞILIMI (O LAMİR ILAMİR
+1- GENEL NİTELİKLER i
+a) Kılık kıyafetine özeni 2 öğ e
+b) Terbiyesi, nezaketi ve tevazu sahibi olması 2 .. ii
+€) Ağırbaşlılığı ve vakarı 1 sö ös
+ç) Ciddiyeti 1 s5 S3
+d) Kişisel çıkarlarına düşkünlüğü ç 2 — >.
+e)Uygulamadaki tarafsızlığı ve hakkaniyeti 1 Sen 5
+f) Malzeme ve zamanı yerinde kullanımı 1 si özü
+2- DİSİPLİN KURALLARINA UYARLIĞI
+a) Kanun, yönetmelik ve emirlere uyması 4 sağ >
+b) Görevlerini tam ve zamanında yapması 5 pa Sin
+©) Üstlerine karşı tavır ve hareketi 3 > sö
+ç) Mesai arkadaşlarına karşı tavır ve hareketi 1 .. ..
+d) İtaati 2 sw süs
+3 - ÇALIŞKANLIĞI
+a) Görev yapmada heves ve gayreti 5 > >
+b) Araştırma ve inceleme kabiliyeti 5 > ve
+c) Fiziki yorgunluğa dayanıklılığı 2 sü öö
+6) Fikri yorgunluğa dayanıklılığı 3 .. —
+4 - İŞBİRLİĞİNE UYUMU
+a) Grup çalışmasına yatkınlığı 3 “e öö.
+b) Geçimliliği 2 m pa
+5- GÜVENİLİRLİĞİ VE SADAKATI
+a) Dürüstlüğü i 2 ös ö
+b) Dedikodu yapma alışkanlığı 1 > ve;
+e) Gizliliğe riayeti ve sır saklaması 1 Sü öö
+ç) Güveni kötüye kullanması 1 sy pon
+6 - MESLEKİ BİLGİSİ
+a) Görevi ile ilgili mevzuat bilgisi 25 sö sö
+b) Mevzuatı uygulama becerisi 15 ör öö
+c) Kurumun görev ve çalışması hakkındaki bilgisi s — se
+ç) Halkla ilişkileri 5 ii >
+* * *
+TOPLAM PUAN 100
+EK-1/b
+AMİRLERİN KİMLİKLERİ
+9
+
+L Amir II. Amir
+Adı ve Soyadı i
+Unvanı :
+Görev Yeri ;
+Dolduruluş Tarihi ;
+İmza ve Mühür ;
+. Amirin Toplam Notu n
+I1. Amirin Toplam Notu :
+Staj Notu (L. ve TI. Amirlerin
+Toplam Notlarının Aritmetik Ortalaması) :
+Tasdik Olunur
+Adı ve Soyadı:
+Unvanı :
+İmzası :
+10

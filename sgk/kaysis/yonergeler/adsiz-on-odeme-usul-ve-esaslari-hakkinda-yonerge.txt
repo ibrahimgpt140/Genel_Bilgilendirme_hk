@@ -1,0 +1,329 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73843
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 
+ADI: ÖN ÖDEME USUL VE ESASLARI HAKKINDA YÖNERGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dd4204286830a7756845c8bbf1f5f110451b8a462e915215000d7564a5510dc4
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                         SOSYAL GÜVENLİK KURUMU
+                ÖN ÖDEME USUL VE ESASLARI HAKKINDA YÖNERGE
+
+                                   BİRİNCİ BÖLÜM
+                           Amaç, Kapsam, Dayanak ve Tanımlar
+
+       Amaç
+       MADDE 1- (1) Bu Yönergenin amacı; ön ödeme şekillerini, devir ve mahsup
+işlemlerini, yapılacak ön ödemelerin gider türleri itibarıyla miktar ve oranlarının tespitini,
+zorunlu hallerde yapılacak harcamalar için ön ödemelerin tutarı ve mahsup süresini,
+mutemetlerin görevlendirilmesini ve diğer işlemlere ilişkin usul ve esasları düzenlemektir.
+
+          Kapsam
+          MADDE 2- (1) Bu Yönerge, Kurumca yapılacak ön ödemelere ilişkin usul ve esasları
+kapsar.
+
+       Dayanak
+       MADDE 3- (1) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) Bu Yönerge,
+10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 35 inci ve
+31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun
+97 nci maddesine dayanılarak hazırlanmıştır.
+
+        Tanımlar
+        MADDE 4- (1) Bu Yönergenin uygulanmasında;
+        a) Kurum: Sosyal Güvenlik Kurumunu,
+        b) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+        c) Yönerge: Sosyal Güvenlik Kurumu Ön Ödeme Usul ve Esasları Hakkında
+Yönergesini,
+        ç) Üst yönetici: Sosyal Güvenlik Kurumu Başkanını,
+        d) Harcama birimi: Kurum bütçesinde ödenek tahsis edilen ve harcama yetkisi
+bulunan birimi,
+        e) Harcama yetkilisi: Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst
+yöneticisini veya ödenek gönderme belgesiyle harcama yetkisi verilen birim yöneticilerini,
+        f) Muhasebe hizmeti: Gelir ve alacakların tahsili, giderlerin ve borçların hak
+sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması,
+aklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm mali işlemlerin kayıtlarının
+yapılması ve raporlanması işlemlerini,
+        g) Muhasebe birimi: Muhasebe hizmetlerinin yapıldığı birimi,
+        ğ) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe
+biriminin yönetiminden sorumlu, usulüne göre atanmış sertifikalı yöneticiyi,
+        h) Ön ödeme: İlgili mevzuatında öngörülen hallerde kesin ödeme öncesi avans veya
+kredi şeklinde yapılan ödemeyi,
+        ı) Sağlık Harcamaları Mutemedi: 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 97 inci maddesi kapsamında yapılacak ön ödemelerde ilgili sağlık
+ödemelerini yapan birimin harcama yetkilisinin kendisine hiyerarşik olarak en yakın yetkililer
+arasından görevlendirdiği mutemedi,
+        i) Mutemet: Harcama yetkilisi tarafından yazılı olarak görevlendirilen ve kendisine
+verilen avans veya adına açılan kredilerle sınırlı olarak yapacağı harcamalar konusunda
+harcama yetkilisine karşı sorumlu, bunların mahsubuna ilişkin belgeleri muhasebe yetkilisine
+vermek ve artan tutarı iade etmekle yükümlü olan harcama yetkilisi mutemedini ifade eder.
+                                   İKİNCİ BÖLÜM
+                 Ön Ödeme Şekilleri ve Ön Ödeme Yapılabilecek Gider Türleri
+
+        Ön ödeme şekilleri ve uygulaması
+        MADDE 5- (1) Ön ödeme, harcama yetkilisinin uygun görmesi ve karşılığı ödeneğin
+saklı tutulması kaydıyla; ilgili kanunlarında öngörülen haller ile gerçekleştirme işlemlerinin
+tamamlanması beklenilemeyecek ivedi veya zorunlu giderler için avans verilmek veya kredi
+açılmak suretiyle yapılabilir. Verilecek avansın üst sınırları yılı kurum bütçesinde gösterilir.
+        (2) Avans, işi yapacak, mal veya hizmeti sağlayacak olan kişi veya kuruluşa ödenmek
+üzere, doğrudan mutemede verilir. Bir mutemede verilecek avans, kurum bütçesinde
+gösterilen tutarları aşmamak koşuluyla bütçenin çeşitli tertiplerinden olabilir.
+        (3) İlgili kanunlarına göre, görevlilere yolluk ve diğer giderleri karşılığı ödenecek
+avanslar kendilerine veya şahsi mutemetlerine verilebilir veya banka hesabına aktarılabilir.
+        (4) Sözleşmesinde belirtilmek ve yüklenme tutarının yüzde otuzunu geçmemek üzere,
+yüklenicilere teminat karşılığında bütçe dışı avans verilebilir. İlgili kanunların bütçe dışı
+avans ödenmesine ilişkin hükümleri saklıdır.
+        (5) Kredi, mutemetler adına banka veya aynı birime hizmet veren muhasebe birimi
+nezdinde açtırılabilir. Mutemetlerin imza örneği, nezdinde kredi açılan banka veya muhasebe
+birimine gönderilir.
+        (6) Ön ödemeler hangi iş için verilmiş ise yalnızca o işte kullanılır.
+        (7) Mutemetler avans almadan harcama yapamaz ve Kurum adına harcama yapmak
+üzere muhasebe biriminin veznesi veya banka hesabından başka hiçbir yerden, hiçbir nam ile
+para alamazlar.
+
+         Ön ödeme yapılabilecek gider türleri
+         MADDE 6- (1) Avans verilmek veya kredi açılmak suretiyle yapılabilecek ön
+ödemeler aşağıda belirtilmiştir.
+         a) Avans verilmek suretiyle yapılacak ön ödemeler:
+         1) Kurumumuz bütçesinde belirlenen tutara kadar olan yapım işleri, mal ve hizmet
+alımları, yabancı konuk ve heyetlerin ağırlanmasına ilişkin giderler ile benzeri giderler.
+         2) İlgili kanunlarında hüküm bulunması halinde, görevlilere yolluk ve diğer giderleri
+karşılığı avans verilebilir. Bu avansların tutarı ve mahsup süreleri özel kanunlarındaki
+hükümlere tabidir.
+         3) Yetkili mercilerce ödeme gününden önce ödenmesine karar verilen maaş ve ücretler
+avans olarak verilebilir.
+         b) Kredi açılmak suretiyle yapılacak ön ödemeler:
+         1) Harcama biriminin göstereceği lüzum üzerine Kredi Talepnamesi (Ek:1) düzenlenir.
+Harcama yetkilisinin onayı ile mutemetler adına banka veya muhasebe birimi nezdinde kredi
+açtırılır. Kurumumuz taşra birimlerinin akreditif karşılığı kredileri merkez birimlerince açılır.
+         2) Yabancı ülkelerden yapılacak satın almalar için, biriminin göstereceği lüzum
+üzerine, ilgili mevzuatı gereğince Türkiye’de bankacılık faaliyetine izin verilen banka veya
+özel finans kuruluşları nezdinde akreditif karşılığı kredi açtırılır.
+Açılmış akreditiflere ilişkin kredi artıkları ertesi yıla devredilmekle birlikte ödenekleri iptal
+olunur. Devredilen akreditifin ve kredi artıklarının karşılığı, bu Yönerge kapsamında üst
+yönetici tarafından Kurum bütçesinin ilgili tertibine ödenek kaydolunur.
+         3) Merkez ve taşra teşkilatındaki harcama birimlerince, yılı Kurum bütçesinde
+gösterilen miktarı aşan kredi taleplerinde Strateji Geliştirme Başkanlığının izni aranır.
+        c) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunun 97 nci maddesi
+kapsamında verilecek avans:
+        1) 5510 sayılı Kanuna göre; sigortalıların ve bunların hak sahiplerinin, genel sağlık
+sigortalıları ile bakmakla yükümlü olduğu kişilerin hak ettikleri alacaklarının süresi içinde
+ödenmemesi halinde harcama yetkilisinin uygun gördüğü oranda avans verilebilir.
+        2) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) Eczane, hastane ve diğer sağlık
+hizmeti sunucularının Kurum adına sağladıkları mal ve hizmetler için düzenledikleri
+faturaların Kuruma teslim edildiği tarihten itibaren altmış gün içinde incelenerek kesin
+ödemesi yapılması esastır. Bu süre zarfında incelenmesi tamamlanmamış fatura bedelinin
+tamamı fatura teslim tarihinden itibaren altmış gün içinde sağlık hizmet sunucularına avans
+olarak ödenir.
+
+        Bütçe dışı ön ödemeler
+        MADDE 7- (1) İlgili Kanunların bütçe dışı avans ödenmesine ilişkin hükümleri saklı
+kalmak üzere aşağıda belirtilen hallerde bütçe dışı avans verilmek veya kredi açılmak
+suretiyle ön ödeme yapılabilir.
+        a) Sözleşmelerinde belirtilmek ve karşılığında aynı tutarda teminat alınmak koşuluyla
+yüklenicilere;
+        1) Mal ve hizmet alımlarında yüklenme tutarının yüzde 10’una, yapım işlerinde ise
+yüklenme tutarının yüzde 15’ine kadar bütçe dışı avans verilebilir.
+        2) Yukarıda belirtilen oranların üzerinde avans verilmesini zorunlu kılan durumlarda;
+üst yöneticinin kararı ile ve aşan kısım için T.C. Merkez Bankasının kısa vadeli avanslara
+uyguladığı oranda faiz alınmak kaydıyla, yüklenme tutarının yüzde 30’unu aşmamak üzere
+belirlenecek oranda bütçe dışı avans verilebilir.
+        3) Verilen avanslar karşılığında alınan teminatlar, yüklenicinin talebi halinde mahsup
+edilen tutarda serbest bırakılır veya iade edilir.
+        b) Özel kanunlarında hüküm bulunması durumunda bütçe dışı avans veya kredi
+şeklinde ön ödeme yapılabilir.
+        c) Özel kanunlarda öngörülen hükme göre peşin ödenmesi gereken maaş, ücret ve
+benzeri giderlerin ertesi yıl bütçesini ilgilendiren kısmı için bütçe dışı avans verilebilir.
+
+         Açılan kredilerin ilgililere ödenmesi
+         MADDE 8- (1) Nezdinde mutemet adına kredi açılan banka veya muhasebe birimi,
+mutemedin vereceği kredi ödeme talimatında gösterilen yere veya alacaklıya doğrudan ödeme
+yapar.
+         (2) Mutemet tarafından, nezdinde kredi açılan banka veya muhasebe birimine hitaben;
+         a) Kredi banka nezdinde açılmış ise hesap numarası, muhasebe birimi nezdinde
+         açılmış ise muhasebe biriminin adı,
+         b) Ödemenin yapılacağı kişinin adı (tüzel kişilerde unvanı), T.C. Kimlik Numarası
+veya vergi kimlik numarası ve varsa banka hesap numarası,
+         c) Ödenecek tutar,
+         d) Mutemedin adı, soyadı, unvanı ve düzenlenme tarihi,
+bilgilerini içeren bir Kredi Ödeme Talimatı (Ek-2) düzenlenir ve imzalanarak hak sahibine
+verilir.
+         (3) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında
+mutemetlere verilecek avans ve krediler;
+         a) Kurumca, gelir, aylık veya toptan ödeme işlemlerine başlanmış bulunan ve gelir
+veya aylık bağlanmasına veya toptan ödeme yapılmasına hak kazandığı anlaşılan sigortalı
+veya hak sahiplerine; işlemlerin gecikmesi halinde gecikmenin her ayı için asgari aylık veya
+gelirden az olmamak veya yapılacak toptan ödemenin % 75'ine kadar olan kısmı,
+        b) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) Eczanelerin, Kuruma teslim ettikleri
+fatura bedelinin tamamı,
+        c) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) Diğer sağlık sunucularının Kuruma
+teslim ettikleri fatura bedelinin tamamı,
+        için avans verilebilir.
+        (4) Harcama Birimlerince ihale mevzuatı çerçevesinde mal ve hizmet alımı
+gerçekleştirilecek, Maliye Bakanlığınca belirlenen kamu idareleri (Ek:3) ile 5510 sayılı
+Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 97 nci maddesine göre verilecek ön
+ödeme tutarı, doğrudan ilgili kamu idaresinin, eczanenin, hastane ve diğer sağlık hizmeti
+sunucularının banka hesabına aktarılabilir.
+
+
+                                 ÜÇÜNCÜ BÖLÜM
+                       Mutemet Görevlendirilmesi ve Ön Ödemelerin
+                               Başka Mutemede Devri
+
+        Mutemet görevlendirilmesi
+        MADDE 9- (1) Bütçesinde kendisine ödenek tahsis edilen her bir merkez harcama
+birimi için yalnızca bir mutemet görevlendirilir. Ödenek gönderme belgesiyle ödenek verilen
+harcama yetkilileri ise kendilerine bağlı her bir birim için birer mutemet görevlendirebilir.
+        (2) Ayrıca, zorunluluk bulunması ve harcama yetkilisi onayında belirtilmesi koşuluyla;
+        a) Taşıtların akaryakıt, yağ, bakım, onarım ve işletme giderleri,
+        b) Bir bütün oluşturmakla birlikte, alınacak mal veya yapılacak işle ilgili olarak ayrı
+yerlerde sonuçlandırılması gereken vergi, resim, harç ödeme yükümlülükleri ile yükleme,
+boşaltma, gümrük ve posta işlemleri gibi özellik arz eden işlere ilişkin giderler,
+        c) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında sağlık
+hizmetleri için yapılacak ön ödemeler, için birden fazla mutemet görevlendirilebilir.
+        (3) Sağlık hizmetleri için yapılacak ön ödemeler, Sağlık Harcamaları Mutemedi adına
+sağlık hizmet sunucularının hesabına aktarılır.
+        (4) Mutemetlerin ilk görevlendirilmelerinde ve değiştirilmeleri halinde adı, soyadı,
+görev unvanı, T.C. kimlik numarası ve imza örneği harcama yetkilisi tarafından bir yazı
+(Ek:4) ile muhasebe birimine bildirilir.
+
+        Ön ödemenin başka mutemede devri
+        MADDE 10- (1) Harcama yetkilisinin yazılı izniyle mutemet veya sağlık harcamaları
+mutemedi, üzerindeki avans veya adına açılan kredi tutarını başka bir mutemede devredebilir.
+        (2) Avans şeklindeki ön ödemelerin başka bir mutemede devrinde para ve harcama
+belgelerinin mutemede teslim edildiğine ilişkin tutanak düzenlenir. Devreden mutemetçe
+tutanak ve harcama yetkilisinin yazılı izni muhasebe yetkilisine ibraz edilerek, avans kaydının
+yeni mutemet adına yapılması sağlanır. Tutanağın birer nüshası devreden ve devralan
+mutemede verilir.
+        (3) Kredi şeklindeki ön ödemelerin başka bir mutemede devrinde ise, harcama
+yetkilisinin yazılı izni ile birlikte yeni mutemedin imza örneği de muhasebe birimine
+verilerek, kredi kaydının yeni mutemet adına yapılması sağlanır. Banka nezdinde açılan
+kredilerin devrinde yeni mutemedin imza örneği ayrıca bankaya da gönderilir.
+                                DÖRDÜNCÜ BÖLÜM
+                           Ön Ödemelerin Mahsubu ve Sorumluluk
+
+        Ön ödemelerde mahsup süresi ve sorumluluk
+        MADDE 11- (1) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) 5510 sayılı Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında sağlık hizmetleri için yapılan ön
+ödemeler en geç fatura ve eki belgelerin teslimi tarihinden itibaren üç ay içerisinde mahsup
+edilir.
+        (2) (Değişik: 22.07.2011-2011/195 sayılı Y.K.K.) 5510 sayılı Sosyal Sigortalar ve
+Genel Sağlık Sigortası Kanunu kapsamında tahakkuk edecek gelir, aylık veya toptan ödeme
+karşılığı olarak yapılan ön ödemeler en geç ödemenin kesinleşme tarihinden itibaren üç ay
+içerisinde mahsup edilir.
+        (3) Diğer mevzuat kapsamında verilen avanslar bir ay, krediler ise üç ay içinde
+mahsup edilir.
+        (4) Mutemet, işin tamamlanmasından sonra, yukarıda belirtilen mahsup sürelerinin
+bitimini beklemeden, son harcama tarihini takip eden üç iş günü içinde ön ödeme artığını iade
+etmek ve süresinde mahsubunu yaparak hesabını kapatmak zorundadır.
+        (5) Mahsup süresi, avansın verildiği veya kredinin açıldığı güne son ayda tekabül eden
+günün mesai saati bitiminde; sürenin bittiği ayda avansın verildiği veya kredinin açıldığı güne
+tekabül eden bir gün yok ise, o ayın son gününün mesai saatinde biter.
+        (6) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında
+yapılacak ön ödemeler süresinde mahsup edilemediği takdirde keyfiyet gerekçesi ile birlikte
+harcama yetkilisine bildirilir. Harcama yetkilisi tarafından durum değerlendirildikten sonra
+gerekli bulunursa 5018 sayılı Kanun hükümleri çerçevesinde mahsup süresinin uzatılması için
+üst yöneticiden bir defaya mahsus süre uzatımı talep edilebilir.
+        (7) Harcama yetkilisinin talimatıyla, bu süreler içinde getirilecek harcama belgeleri
+tutarında mahsup edilmek kaydıyla yeniden ön ödeme yapılabilir. Bu şekilde mahsup işlemi
+yapılmadıkça 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında
+verilecek avanslar hariç aynı iş için ön ödeme yapılamaz.
+        (8) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında
+verilecek avanslar hariç, avansın verildiği tarihten önceki bir tarihi taşıyan harcama belgeleri
+avansın mahsubunda kabul edilmez. Mahsup döneminde verilen harcama belgelerinin de, ön
+ödemenin yapıldığı tarih ile en geç ait olduğu bütçe yılının son günü arasındaki tarihi taşıması
+gerekir.
+        (9) Ön ödemenin bu Yönergenin 10 uncu maddesi gereğince başka mutemede
+devredilmesi halinde, devralan mutemedin de, hesabını ön ödemenin ilk mutemede yapıldığı
+tarihten itibaren, yukarıda belirtilen sürelerde muhasebe yetkilisine vermesi zorunludur.
+        (10) Görevlilere yolluk ve diğer giderleri karşılığı verilen avansların mahsup süreleri,
+özel kanunlarındaki hükümlere tabidir. Ancak denetim elemanları yollukları ve diğer giderleri
+karşılığı aldıkları avanslara ilişkin harcama belgelerini, takip eden ayın onuncu gününe kadar
+harcama birimine vermek ve varsa avans artığını iade etmekle, harcama birimi de bunu
+aramakla yükümlüdür. Hakediş tutarının avanstan fazla olması halinde, farkın, ilgili denetim
+elemanının banka hesabına aktarılması zorunludur.
+        (11) Mutemetlerce süresi içinde mahsup edilmeyen avanslar hakkında 6183 sayılı
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Kanunen geçerli bir
+mazereti olmaksızın avanslarını süresinde mahsup etmeyen mutemetler hakkında, ayrıca tabi
+oldukları personel mevzuatının disiplin hükümlerine göre de işlem yapılabilir. Kurum içi veya
+kurum dışından görevlendirilenlere yolluk ve diğer giderleri karşılığı verilen avanslardan
+süresinde mahsup edilmeyenler hakkında özel kanunlarındaki hükümler uygulanır.
+       (12) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu kapsamında
+yapılacak ön ödemelerin süresinde mahsup edilememesi halinde harcama yetkilisinin idari
+sorumluluğu devam eder.
+
+        Bütçe dışı avansların mahsubu
+        MADDE 12- (1) Yılı içinde sonuçlanacak işler ile ertesi yıla geçen veya gelecek
+yıllara yaygın yüklenmeler nedeniyle, yüklenicilere sözleşmelerine dayanılarak verilen bütçe
+dışı avansların mahsubunda şartname ve sözleşmelerinde belirtilen esaslara uyulur.
+        (2) Özel kanunlarındaki hükümlere göre verilen bütçe dışı avans veya kredi şeklinde
+ön ödemeler, özel kanunlarında ayrıca belirtilmemiş olması halinde avanslarda bir ay,
+kredilerde ise üç ay içinde belgeleri muhasebe yetkilisine verilmek ve artan tutar iade edilmek
+suretiyle mahsup edilir.
+        (3) Ertesi yıl bütçesinden karşılanmak üzere aylık, ücret ve benzeri hakedişler karşılığı
+verilen bütçe dışı avansların mahsup edilmesi gereken tarih, bu giderlerin ilgili mevzuatına
+göre ödenmesi gerektiği tarihtir.
+
+        Ön ödemelerin yıl sonunda mahsubu
+        MADDE 13- (1) Mutemetler, mali yılın sonunda avanslarda bir aylık, kredilerde üç
+aylık sürenin dolmasını beklemeksizin, mahsubunu yapmadıkları harcamalara ait belgeleri
+muhasebe yetkilisine verip, artan tutarı iade ederek hesabını kapatmakla yükümlüdürler.
+        (2) Mali yıl sonuna kadar kapatılmayan veya mahsup döneminde mahsup edileceği
+bildirilmeyen ön ödeme tutarı, yılsonunda mutemet adına ilgili hesaba borç kaydedilerek ön
+ödeme hesabı kapatılır. Mutemet adına borç kaydedilen tutarlar hakkında muhasebe
+yönergesinde belirtildiği şekilde işlem yapılır.
+
+         Ön ödemelerin mahsup dönemine aktarılması
+         MADDE 14- (1) Muhasebe birimine verilen mahsup belgelerinden incelenmesi
+yılsonuna kadar tamamlanamayan ön ödeme artıkları mahsup dönemine ödeneği ile birlikte
+devredilir. Malın teslim alındığı, hizmetin gördürüldüğü veya işin yaptırıldığı, ancak
+belgelerin mahsup döneminde verileceği, ilgili harcama birimlerince mali yılın sonuna kadar
+muhasebe birimine yazılı olarak bildirilen ön ödemeler için de aynı şekilde işlem yapılır.
+Mahsup döneminde verilen harcama belgelerinin, ön ödemenin yapıldığı tarih ile en geç ait
+olduğu bütçe yılının son günü arasındaki tarihi taşıması gerekir. Mahsup döneminde de
+kapatılamayan ön ödeme tutarı, dönem sonunda mutemet adına borç kaydedilerek ön ödeme
+hesabı kapatılır. Karşılığı ödenekler iptal edilir.
+         (2) Yılı bütçesine gider kaydedilmek üzere geçici ve sürekli görev yolluğu ile buna
+ilişkin diğer giderler karşılığı verilen avanslardan mali yılın sonuna kadar mahsubu
+yapılamamış olanlar hakkında da yukarıdaki fıkra hükmü uygulanır.
+         (3) Sağlık harcamalarına ilişkin ön ödemelerin mahsubu aşağıdaki esaslara göre
+yapılır.
+         a) 5510 sayılı Sosyal Sigortalar Genel Sağlık Sigortası Kanunu kapsamında verilen
+avans ve kredilere ilişkin artıklar ertesi yıla devredilmekle birlikte ödenekleri iptal olunur.
+         b) Devredilen avans ve kredi artıklarının karşılığı, bu Yönerge kapsamında üst
+yönetici tarafından Kurum bütçesinin ilgili tertibine ödenek kaydolunur. Bu şekilde
+devredilen avanslar devredildiği mali yılın ilk üç ayı içerisinde mahsup edilir.
+                                 BEŞİNCİ BÖLÜM
+                                  Son Hükümler
+
+      Tereddütlerin giderilmesi
+      MADDE 15- (1) Bu Yönergenin uygulanması sırasında ortaya çıkan tereddütleri
+gidermeye Strateji Geliştirme Başkanlığı yetkilidir.
+
+       Devlet hastanelerine verilen avanslar
+       MADDE 16- (1) Sağlık Bakanlığı’na bağlı hastanelere açılacak avansların miktarı, bu
+konuyla ilgili yeni bir düzenleme yapılıncaya kadar Sağlık Bakanlığı ile yapılan protokol
+çerçevesinde belirlenir.
+
+       Geçici Madde 1- (1) Bu Yönerge hükümleri yürürlüğe girmeden önce, yürürlükteki
+diğer mevzuata göre başlatılmış olan avans ve kredi işlemleri, tabi oldukları mevzuat
+hükümlerine göre mahsup süresi içerisinde sonuçlandırılır.
+       (2) Sağlık hizmet sunucularına 2006, 2007 yıllarında açılmış olup bu yönergenin
+yürürlüğe girdiği tarihe kadar mahsubu yapılamamış olan avanslarla ilgili olarak, mâli yıl
+sonu işlemleri sırasında 5018 sayılı Kanunun 35 inci maddesinde akreditifler için öngörülen
+düzenleme uygulanır.
+
+         Yürürlük
+         MADDE 17- (1) Bu yönerge, Yönetim Kurulunca kabul edildiği tarihte yürürlüğe
+girer.
+
+
+
+
+        Ekler:
+        Ek:1- Kredi talepnamesi,
+        Ek:2- Kredi ödeme talimatı,
+        Ek:3-Satın almalar için açılan kredilerde paranın doğrudan banka hesaplarına
+aktarılması uygun görülen kuruluşlar listesi,
+        Ek:4- Mutemet görevlendirme yazısı örneği,
+

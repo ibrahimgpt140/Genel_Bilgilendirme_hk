@@ -1,0 +1,105 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74851
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2016-12
+ADI: ALTIN BEDELLERİ(2016-12 SAYILI GENELGE)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 96151bab765797c5f7bebe4138c46fe902aa7d91e16b99ef30b9bb4d47e488b1
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+” T.C.
+( a SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+5 GK Sigorta Primleri Genel Müdürlüğü
+Sayı : 87838906/309/ 492 /
+Konu : Altın Eli 21et 2016
+GENELGE
+2016- /7.
+
+Bilindiği gibi 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun
+“Prime esas kazançlar” başlıklı 80 inci maddesinin birinci fıkrasında 4 üncü maddenin birinci
+fıkrasının (a) bendi kapsamındaki sigortalıların
+
+a) Prime esas kazançlarının hesabında;
+
+1) Hak edilen ücretlerin,
+
+2) Prim, ikramiye ve bu nitelikteki her çeşit istihkaktan o ay içinde yapılan
+
+« ödemelerin ve işverenler tarafından sigortalılar için özel sağlık sigortalarına ve bireysel
+emeklilik sistemine ödenen tutarların,
+
+3) İdare veya yargı mercilerince verilen karar gereğince yukarıdaki (1) ve (2)
+numaralı alt bentlerde belirtilen kazançlar niteliğinde olmak üzere sigortalılara o ay içinde
+yapılan ödemelerin,
+
+brüt toplamının esas alınacağı,
+
+b) Ayni yardımlar ve ölüm, doğum ve evlenme yardımları, görev yollukları, seyyar
+görev tazminatı, kıdem tazminatı, iş sonu tazminatı veya kıdem tazminatı mahiyetindeki toplu
+ödeme, keşif ücreti, ihbar ve kasa tazminatları ile Kurumca tutarları yıllar itibarıyla
+belirlenecek yemek, çocuk ve aile zamları, işverenler tarafından sigortalılar için özel sağlık
+sigortalarına ve bireysel emeklilik sistemine ödenen ve aylık toplamı asgari ücretin Yo 30'unu
+geçmeyen özel sağlık sigortası primi ve bireysel emeklilik katkı payları tutarlarının, prime
+esas kazanca tabi tutulmayacağı,
+
+(c) (b) bendinde belirtilen istisnalar dışında her ne adla yapılırsa yapılsın tüm
+ödemeler ile ayni yardım yerine geçmek üzere yapılan nakdi ödemelerin prime esas kazanca
+tabi tutulacağı, diğer kanunlardaki prime tabi tutulmaması gerektiğine dair muafiyet ve
+istisnaların bu Kanunun uygulanmasında dikkate alınmayacağı,
+
+- Hükümleri yer almıştır.
+
+İşverenlerce sigortalılarına sosyal amaçlı olarak bayram, yılbaşı, 25 inci, 30 uncu
+veya 50 inci hizmet yılı gibi nedenlerle verilen çeyrek, yarım, tam altın bedellerinin sigorta
+primine esas kazanç tutarına dahil edilip edilmeyeceği konusunda yapmış oldukları münferit
+başvurularına, yapılan değerlendirmeler sonucunda “altının parasal bir değeri bulunmakta ve
+tedavül edilebilmekte ise de, kural olarak hayatın olağan akışında altının ödeme aracı olarak
+kullanılmadığı, parasal karşılığı olmasına karşılık altın ile yapılan bir ödemenin nakdi ödeme
+olarak kabul edilemeyeceği dikkate alındığında, gördükleri işin karşılığı olmaksızın işverenler
+tarafından sosyal amaçlı olarak bayram, yılbaşı, 25 inci , 30 uncu veya 50 inci hizmet yılı
+gibi nedenlerle sigortalılara verilen çeyrek, yarım, tam altının ücret ya da ücret niteliğinde
+kazanç kavramı içinde yer almadığı, ayni yardım olarak nitelendirilebileceği ve bunların
+prime esas kazanç kapsamında değerlendirilemeyeceği” mütalaa edilerek sigorta primine
+tabi tutulmaması gerektiği hususunda görüş verilmiştir.
+
+Ayni yardım yiyecek, giyinme, ısınma vb. doğrudan sigortalının ihtiyacını
+gidermeye yönelik para olarak değil de mal veya hizmet olarak yapılan yardımlardır.
+Sigortalısına giyim yardımı adı altında nakit ödeme yapan işverenin bu yardımı ayni yardım
+Mithatpaşa Cad. No:7 Sıhhiye/Ankara (|| Ayrıntılı bilgi in Hak BİR ERİL EEE
+Tel (0312 ani ein ml Ba Ayrıntılı bilgi için irtibat: Daire Başkanı: İbrahim ÖZÇELİK
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDB(2sgk.gov.tr
+
+değil (onakdi yardım olacağından sigorta primine tabi tutulması gerekmektedir. Ayni
+yardımları diğer yardımlardan ayıran bir diğer özellik de işçiye sağlanan bir menfaat olmasına
+karşılık bordroya dahil olmamasıdır. Dolayısıyla ayni değil nakdi olarak yapılan bir yardımın
+bordroda gösterilmesi prime tabi tutulmasını gerektiren bir diğer gerekçe olarak
+gösterilmektedir.
+
+Altının günlük değerinin belli olması ve her an piyasasında kolayca nakde
+dönüştürülebileceği ve bu sayede satın alma alternatifi sağlayacağı göz önüne alındığında
+altın olarak yapılan ödemeler nakit yardım olarak değerlendirilmesi sonucunda hatıra
+altınlarının sosyal veya kişisel bir ihtiyacın karşılanması maksadıyla verilmemiş olması,
+hatıra altınlarının tıpkı para gibi alışverişte kullanılabilecek bir ödeme aracı olması nedeniyle,
+hatıra altın tutarlarının ücret ödeme bordrolarına yansıtılmış olan bedeller üzerinden ilgili
+ayda sigorta primine esas kazanç tutarına dahil edilmesi, sigortalılara hatıra altın verildiğinin
+tespit edilmesi ancak ödeme bordrosunda gösterilmediği durumlarda altının verildiği ayın son
+günündeki Merkez Bankası satış fiyatı üzerinden hesaplanacak miktarının sigorta primine
+esas kazanç tutarına dahil edilmesi gerekmektedir.
+
+Bu itibarla sigortalılara işverenlerince | Haziran 2016 tarihinden sonra, bayram,
+yılbaşı, 25 inci, 30 uncu veya 50 inci hizmet yılı gibi nedenlerle verilen altınların
+bedellerinin sigorta primine esas kazanç olarak kabul edilerek sigorta primine tabi tutulması
+gerekmektedir.
+
+Bilgi edinilmesini, gereğinin buna göre yapılmasını rica ederim.
+
+DAĞITIM;
+Merkez ve Taşra Teşkilatına
+
+2
+Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Daire Başkanı: İbrahim ÖZÇELİK
+Tel: (0312) 45871 10 Faks: (0312) 432 1237
+Elektronik Ağ: www.sgk.gov.tr
+e-posta: isverenlerPrimDBsgk.gov.ir

@@ -1,0 +1,108 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/207239
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 24.05.2025 - 32909
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 24.05.2025 - 32909
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 6f7de88c1bba860a9364404920cc3944e5727bc53d9c069ff7944d8d0e40b84a
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+24 Mayıs 2025 CUMARTESİ Resmi Gazete Sayı : 32909
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+
+Karar No: 2025/3
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma Komisyonu
+07/04/2025 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE 1- Sağlık Uygulama Tebliği (SUT) eki “Ayaktan Başvurularda Ödeme Listesi (EK-2/A)'ne “Alerji” uzmanlık dalının
+aşağıdaki şekilde eklenmesine oy birliği ile,
+
+EC EZ EEE EE A EE GEN
+
+MADDE 2- SUT eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” ve “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)”nde yer alan
+aşağıdaki işlemlerin açıklama kısımlarına “Üçüncü basamak sağlık hizmeti sunucularınca yapılması halinde faturalandırılır.” ibaresinin
+eklenmesine oy çokluğu ile,
+
+N R adi ., | Üçüncü basamak sağlık hizmeti sunucularınca | ren)
+614551 * | Tümör rezeksiyon protezi ile diz artroplastisi yapılması h linde faturalandırılr. 17214,12
+;, (| Tümörrezeksiyon protezi ile kalça Üçüncü basamak sağlık hizmeti sunucularınca
+614552 roplastsi yapılması halinde faturalandırlı. 17.716,20
+Tümör rezeksiyon protezi ile omuz Üçüncü basamak sağlık hizmeti sunucularınca
+614553 artroplastisi yapılması halinde faturalandırılır. 1138624
+Tümör rezeksiyon protezi ile dirsek Üçüncü basamak sağlık hizmeti sunucularınca
+614554 | artroplastisi yapılması halinde faturalandırılır. 1649686
+614555 Tümör rezeksiyon protezi ile total büyük Üçüncü basamak sağlık hizmeti sunucularınca 18.648.63
+kemik ve/veya eklem artroplastisi yapılması halinde faturalandırılır. die
+PG14551 | Tümör rezeksiyon protezi ile diz artroplastisi | Üsüncü basamak sağlık hizmeti sunucularınca | 43 |« | 6968128
+apılması halinde faturalandırılır.
+Tümör rezeksiyon protezi ile kalça Üçüncü basamak sağlık hizmeti sunucularınca ass) sase)
+POLİSİ. | roplastisi yapılması halinde faturalandırılr As Jr | Sassy
+Tümör rezeksiyon protezi ile omuz Üçüncü basamak sağlık hizmeti sunucularınca efe)
+POLASSİ | eoplatisi apılması balinde faturalandırıır. MJİ | 268786
+
+N Tümör rezeksiyon protezi ile dirsek Üçüncü basamak sağlık hizmeti sunucularınca
+
+Pol4554 artroplastisi yapılması halinde faturalandırılır. A3J* | 66424
+Tümör rezeksiyon protezi ile total büyük Üçüncü basamak sağlık hizmeti sunucularınca ass) sss!
+P614555 | kemik ve/veya eklem arrplasts apılması halinde fauralandırlr A Ji) 5560172
+
+MADDE 3- SUT'un “5.2.1- Sağlık hizmeti sunucuları faturalarının düzenlenmesi” maddesinin birinci fıkrasının aşağıdaki
+şekilde düzenlenmesine oy birliği ile,
+
+“(0) MEDULA hastane sistemini kullanan sağlık hizmeti sunucuları, sağlık hizmeti bedelleri Kurumca karşılanan kişiler için,
+her ayın ilk ve son günü arasında verdikleri sağlık hizmetlerine ilişkin tek fatura düzenler. Kurumun “e-fatura alıcısı” uygulamasına
+başlaması halinde elektronik fatura düzenlenmesine ilişkin olarak Kurumca duyurulacak usul ve esaslara uyulur. Herhangi bir nedenle
+döneminde faturalandırılamayan sağlık hizmeti, işlemin bittiği tarih itibarıyla faturalandırılması gereken dönemi takip eden en geç lay
+içerisindeki dönem sonlandırılmasına dâhil edilir. Ancak üçüncü basamak sağlık hizmeti sunucuları ile Sağlık Bakanlığına bağlı ikinci
+basamak sağlık hizmeti sunucularında döneminde faturalandırılamayan patoloji, genetik, tüberküloz tetkikleri ve diş protezleri işlemin.
+bittiği tarih itibarıyla faturalandırılması gereken dönemi takip eden en geç 4 ay içerisindeki dönem sonlandırılmasına dâhil edilir. Trafik
+kazası nedeniyle verilen sağlık hizmetleri için dönem sonlandırma süresi dikkate alınmaz.”
+
+MADDE 4- SUT eki EK-2B Listesinde yer alan 907110 kodlu “Chlamydia antijeni (CARD test)” ve 906860 kodlu “Anti
+sentromer (İFA)” işlemlerinin listeden çıkarılmasına, listede yer alan DFA yöntemi ile yapılan işlemlere ilişkin aşağıdaki şekilde
+düzenleme yapılmasına oy birliği ile,
+
+907150 | Chlamydia trachomatis antijeni 15443
+sr EE
+907760 Legionella pneumophila antijeni 120,09
+BASI Nyconlasmagcamoni anar İs)
+
+MADDE 5- SUT eki EK-2/B Listesine “İntravasküler Görüntüleme Koroner” adlı yeni işlem kodunun aşağıdaki şekilde
+tanımlanmasına oy birliği ile,
+Kardiyoloji uzman hekimlerince üçüncü basamak
+700755 | Intravasküler Görüntüleme Koroner sağlık hizmeti sunucularında yapılması halinde 642,06
+faturalandırılır,
+
+MADDE 6- SUT'un “2.2 Finansmanı sağlanan sağlık hizmetlerinin sağlanma yöntemleri ve ödeme kuralları” başlıklı
+maddesinin altıncı fıkrasının aşağıdaki şekilde yeniden düzenlenmesine oy birliği ile,
+
+“(6) İşyeri sağlık ve güvenlik hizmeti sunulan birimler, özel poliklinikler “Evde Bakım Hizmetleri Sunumu Hakkında
+Yönetmelik” kapsamında hizmet veren merkez veya birimler tarafından verilen sağlık hizmetleri için Kurumdan herhangi bir ücret talep
+edilemez. İşyeri sağlık ve güvenlik hizmeti sunulan birimlerce sadece yetkili oldukları işyerlerinde; 5510 sayılı Kanunun #üncü
+maddesinin birinci fikrasının (a) ve (b) bentlerinde sayılan sigortalılara, bu işyerlerinin kamu kurumu niteliğinde olması halinde ise, bu
+sigortalılara ek olarak, 5510 sayılı Kanunun 4'üncü maddesinin birinci fıkrasının (c) bendinde sayılan sigortalılara da SUT ve eki
+listelerde yer alan usul ve esaslar dahilinde reçete edilmiş ilaç bedelleri Kurumca karşılanır. “Evde Bakım Hizmetleri Sunumu Hakkında
+Yönetmelik” kapsamında Kurumla sözleşmeli özel sağlık hizmeti sunucuları bünyesinde hizmet veren evde bakım birimleri tarafından
+SUT ve eki listelerde yer alan usul ve esaslar dahilinde düzenlenen reçete bedelleri Kurumca karşılanır. Özel polikliniklerce düzenlenen
+reçete bedelleri Kurumca karşılanmaz.”
+
+MADDE 7- Kontrast madde içeren ilaçların SUT eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar
+Listesi (EK-4/G)”ne alınmasına, gerekli SUT düzenlemesinin Genel Sağlık Sigortası Genel Müdürlüğünce yapılmasına oy birliği ile,
+
+MADDE 8- Alınan Kararlardan;
+
+1-1 numaralı Kararın 05/04/2025 tarihinden geçerli olmak üzere yayımı tarihinde,
+
+2-7 numaralı Kararin Karar tarihinde,
+
+3- Diğer Kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de belirtilen
+tarihte,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.

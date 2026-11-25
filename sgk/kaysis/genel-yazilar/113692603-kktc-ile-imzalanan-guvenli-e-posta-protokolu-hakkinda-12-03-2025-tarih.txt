@@ -1,0 +1,279 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/206619
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 113692603
+ADI: KKTC İLE İMZALANAN GÜVENLİ E-POSTA PROTOKOLÜ HAKKINDA 12.03.2025 TARİHLİ VE 113692603 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 01b17031c943fd177a2de1764df243f7475c8114e33db3c7f9b21ac8544da69c
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C.
+                                 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-15591373-010.99-113692603                                                                                        12.03.2025
+Konu : K.K.T.C. İle İmzalanan Güvenli E-Posta
+       Protokolü
+
+
+
+                                                        GENEL YAZI
+
+       23.02.2017 tarihinde imzalanan ve 01.10.2020 tarihinde yürürlüğe giren “Türkiye Cumhuriyeti
+ile Kuzey Kıbrıs Türk Cumhuriyeti Arasında Sosyal Güvenlik Anlaşması” hükümlerine göre
+emeklilik ve sağlık uygulamalarında kullanılan formüler ve yazıların kağıt ortamında fiziki posta yoluyla
+gönderilmesinden vazgeçilerek güvenli e-posta yoluyla gönderilmesi amacıyla, iki ülke irtibat kurumları
+arasında yürütülen çalışmalar sonucunda Kurumumuz ile K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü
+arasında “Sosyal Güvenlik Kurumu ile K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü Arasında
+Formülerin Elektronik Ortamda Gönderilmesine İlişkin Protokol” (Genel Yazıda bundan sonra
+Protokol olarak anılacaktır.) 21.02.2025 tarihinde imzalanmış olup 01.05.2025 tarihinde yürürlüğe
+girecektir. Protokolün yürürlüğe girmesiyle birlikte hem emeklilik hem de sağlık sigortası
+uygulamalarında kullanılan formüler ve yazıların, K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne
+güvenli e-posta yoluyla gönderilmesi yeterli olup ayrıca fiziki posta yoluyla gönderilmeyecektir.
+       Protokolün (Ek 1) yürürlüğe girmesiyle birlikte; işlemlerin hızlandırılması, fiziki postada meydana
+gelen gecikmelerin önlenmesi, fiziki posta masraflarının ortadan kaldırılması, belge alışverişinin güvenli
+bir şekilde yapılması ve belgelerin elektronik arşivde saklanması hedeflenmektedir.
+       01.05.2025 tarihinden geçerli olmak üzere Protokol kapsamında sosyal güvenlik il
+müdürlükleri/sosyal güvenlik merkezlerimizce (SGİM/SGM) yapılacak işlemler aşağıda açıklanmıştır:
+
+        1) Formüler/Yazıların Hazırlanması:
+        Türkiye Cumhuriyeti ile Kuzey Kıbrıs Türk Cumhuriyeti Arasında Sosyal Güvenlik Anlaşmasının
+emeklilik ve sağlık uygulamalarında kullanılan formüler, Portable Document Format (PDF) dosyası
+şeklinde yeniden düzenlenerek bilgisayar ortamında doldurulacak hale getirilmiştir. Formülere
+doldurulmasını kolaylaştırmak ve yanlış doldurulmasını önlemek adına gerekli kontroller konularak;
+örneğin “Evet” seçeneği işaretlendiğinde veri girişi yapılacak alanların açılması, “Hayır” seçeneği
+işaretlendiğinde veri girişi yapılmaması gereken alanların kapanması ve aynı anda hem “Evet” hem de
+“Hayır” seçeneğinin işaretlenmemesi sağlanmıştır. Ayrıca, formülerde işaretlenmek istenen kutucuk
+tıklandığında otomatik olarak işaretlenmesi sağlanmıştır.
+        Protokol kapsamında güvenli e-posta yoluyla gönderimi yapılacak formülerin listesi,
+“Ek 2-Güvenli E-Posta Yoluyla Gönderimi Yapılacak Formüler Listesi”nde yer almakta olup, söz
+konusu formülere Kurumun intranet sayfasındaki “Kurumsal > Dokümanlar > Yurtdışı > Formülerler”
+bölümünde yer alan “Türkiye-K.K.T.C. Sosyal Güvenlik Sözleşmesinde Kullanılan Formülerler”
+kısmından ulaşılabilecektir.
+        Yukarıda belirtilen adreste yer alan formüler haricinde, K.K.T.C. Sosyal Sigortalar Dairesi
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Caddesi No : 7 Sıhhiye/Ankara                                                                      Bilgi için: Ramazan ELMA
+Telefon No: (0 312) 458 77 52 Faks No: (0 312) 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: (0 312) 458 78 20
+9
+Müdürlüğü’ne başkaca bir yöntemle veya usulle hazırlanan formüler gönderilmeyecektir. Söz konusu
+formülerin doldurulmasını kolaylaştırmak için zaman zaman güncelleme yapılmaktadır. Eski
+versiyonuyla çalışılmasını önleme adına, formülerin bilgisayara kaydedilip sürekli kaydedilen nüshaların
+kullanılmaması, ihtiyaç duyulduğunda her seferinde yukarıda belirtilen adresten temin edilmesi
+gerekmektedir.
+        Formülerin, bilgisayar ortamında doğru ve eksiksiz bir şekilde düzenlenmesi gerekmektedir.
+Mükerrer yazışmaya ve gereksiz iş yüküne meydan vermeme adına, formülerde doldurulması gereken
+alanlar kesinlikle boş bırakılmayacaktır.
+        İki ülke irtibat kurumları arasında kullanılacak her türlü formüler/yazı ve eki belgeler, usulüne
+uygun bir şekilde düzenlendikten sonra, bir bütün halinde tüm sayfalarıyla birlikte tarayıcıdan geçirilecek
+ve PDF formatında bilgisayara kaydedilecektir. PDF haricinde bir dosya uzantısı kesinlikle
+kullanılmayacaktır. Tarayıcıdan geçirilip PDF formatında bilgisayara kaydedilen formüler/yazı ve eki
+belgelerin okunaklı ve anlaşılabilir olması için tarama işlemine özen gösterilecek, tarama işlemi uygun
+kalite/çözünürlükte yapılacaktır.
+        Formüler, bilgisayar ortamında düzenlendikten sonra yazıcı çıktısı alınarak ıslak imza ile
+imzalanacak, “Ek 4-Güvenli E-Posta Yöntemiyle Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi
+ve ATS'de Görüntülenmesine İlişkin Kılavuz”da belirtilen usullere uygun bir şekilde EBYS
+programından içeriksiz evrak olarak tarih/sayı alınacaktır. Alınan tarih/sayı ilgili formülerin üzerine elle
+yazılacak ve akabinde hazırlanan formüler herhangi bir üst yazıya gerek olmaksızın ilgili K.K.T.C. irtibat
+kurumuna aşağıda belirtildiği şekilde güvenli e-posta yoluyla gönderilecektir.
+
+       2) Formüler/Yazıların Güvenli E-Posta Yoluyla Gönderilmesi:
+       PDF formatında bilgisayara kaydedilen formüler/yazı ve eki belgeler; “Ek 3-Formülerin
+Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”de yer alan K.K.T.C. Sosyal Sigortalar
+Dairesi Müdürlüğünün ydi@kktcssd.org e-posta adresine gönderilecektir.
+       İşbu Genel Yazının “1) Formüler/Yazıların Hazırlanması” alt başlığında belirtilen usullere göre
+hazırlanan, iki ülke irtibat kurumları arasında kullanılacak her türlü formüler/yazı ve eki belgeler,
+yalnızca “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”deki K.K.T.C.
+Sosyal Sigortalar Dairesi Müdürlüğüne ait ydi@kktcssd.org mail adresine güvenli e-posta yoluyla
+gönderilecek olup, ayrıca fiziki posta yoluyla gönderilmeyecektir.
+       K.K.T.C.     Sosyal       Sigortalar   Dairesi   Müdürlüğüne    SGİM/SGM’ce        gönderilecek
+e-postalar SGİM/SGM’lerin “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir
+Liste”deki kurumsal e-posta adreslerinden gönderilecek olup, Kurum tarafından verilmiş olsa bile kişisel
+e-posta adreslerinden K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne e-posta gönderimi
+yapılmayacaktır.
+       K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne gönderilmek üzere ilgili personel tarafından
+hazırlanan evrak; ilgili personelin kendi kurumsal e-postası üzerinden görev yaptığı SGİM/SGM’nin
+“Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”deki kurumsal e-posta
+adresine gönderilecek ve K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne gönderimi bu e-posta adresi
+üzerinden gerçekleştirilecektir.
+       Örnek: Kahramanmaraş SGİM’ye bağlı Dulkadiroğlu SGM bünyesindeki Yurtdışı İşlemleri
+Servisinde görev yapan (Y) isimli personel tarafından hazırlanan evraklar (Y)’nin, “y…..@sgk.gov.tr”
+e-posta adresinden “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”de
+kayıtlı olan dulkadiroglusgm@sgk.gov.tr e-posta adresine gönderilecek ve bu gönderinin K.K.T.C.
+Sosyal Sigortalar Dairesi Müdürlüğünün ydi@kktcssd.org e-posta adresine gönderimi,
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Caddesi No : 7 Sıhhiye/Ankara                                                                      Bilgi için: Ramazan ELMA
+Telefon No: (0 312) 458 77 52 Faks No: (0 312) 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: (0 312) 458 78 20
+9
+dulkadiroglusgm@sgk.gov.tr e-posta adresi üzerinden gerçekleştirilecektir.
+       Gönderilecek PDF dosyasının boyutunun büyük olması nedeniyle tek seferde gönderilememesi
+halinde PDF dosyaları bölünerek birden fazla e-posta olarak gönderilecektir.
+       Hazırlanan evrakın K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne e-posta yoluyla gönderilmesi
+esnasında e-postanın “Konu” bölümüne mutlaka “Kişinin adı soyadı ve baba adı ile birlikte biliniyorsa
+K.K.T.C. sicil numarası, bilinmiyorsa kişinin gün/ay/yıl olarak doğum tarihi” yazılacaktır.
+
+        3) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünden Gelen E-Postalara Yapılacak
+İşlemler:
+        K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünün ydi@kktcssd.org adresinden güvenli e-posta
+yoluyla gelen formüler/yazılar ile eklerinin, bir bütün halinde tüm sayfalarıyla birlikte yazıcıdan çıktısı
+alınacak, akabinde yine tüm sayfalarıyla birlikte tarayıcıdan geçirilerek “Ek 4-Güvenli E-Posta
+Yöntemiyle Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de Görüntülenmesine İlişkin
+Kılavuz”da belirtilen usullere uygun bir şekilde EBYS programından tarih/sayı alınacaktır.
+        Bu şekilde tarih/sayı alındıktan sonra gelen formüler/yazı gereği yapılmak üzere ilgili servise
+havale edilecek, yazının içeriğine göre gerekli işlemler yapılacak ve gönderilmesi gereken formüler/yazı
+hazırlandıktan sonra, K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünün ydi@kktcssd.org e-posta
+adresine işbu Genel Yazının yukarıdaki “2) Formüler/Yazıların Güvenli E-Posta Yoluyla Gönderilmesi”
+alt başlığı altındaki açıklamalara uygun bir şekilde gönderilecektir.
+        K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü tarafından yanlış bir birime e-posta gönderilmesi
+halinde bunun doğru birime yine e-posta yoluyla iletilmesi, e-postayı ilk alan birim tarafından
+yapılacaktır. Yanlış birime gönderilen e-postaların doğru birime iletilmesi üst yazıyla yapılmayacaktır.
+Yanlış birime gönderilen e-postalar, doğru birime e-posta yoluyla iletilirken e-postanın “Bilgi-CC”
+kısmına e-postayı gönderen K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünün e-posta adresi
+eklenecektir. Bu sayede, aynı dosya hakkında bundan sonra yapılacak e-posta gönderimlerinin hangi
+birimle yapılması gerektiği hususunda K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü bilgilendirilmiş
+olunacaktır.
+
+        4) Sağlık Uygulamalarına İlişkin İşlemler:
+        a) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü tarafından güvenli e-posta yoluyla gönderilen
+sağlık uygulamalarına ilişkin formülerin “Yurtdışı Provizyon, Aktivasyon ve Sağlık Sistemindeki
+(YUPASS)” işlemleri, sözleşmelerin sağlık uygulamalarını yürütmekle yetkili “Yurtdışı İşlemleri
+Servisi” bulunan birimlerce yapılacaktır.
+        b) Sağlık uygulamalarına ilişkin formülerin güvenli e-posta yoluyla gönderilmesi esas olmakla
+birlikte, formülerin sigortalı tarafından ibraz edilmesi halinde, söz konusu formüler kabul edilerek
+YUPASS'taki işlemleri cari mevzuat doğrultusunda formülerin ibraz edildiği SGİM/SGM tarafından
+yapılmaya devam edilecektir.
+        c) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü tarafından güvenli e-posta yoluyla sağlık
+uygulamalarına ilişkin formüler gönderilirken “Konu” kısmına “Sigortalı ile varsa aile bireylerinin; adı
+soyadı ve baba adı” yazılması gerekmektedir. Konu kısmına yazılması gereken herhangi bir bilginin
+yazılmaması halinde, güvenli e-posta yoluyla K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünden eksik
+olan bilginin tamamlanması istenilecektir.
+        ç) Sigortalı ile varsa aile bireylerinin eksik bilgilerinin tamamlanması K.K.T.C. Sosyal Sigortalar
+Dairesi Müdürlüğünden güvenli e-posta yoluyla talep edilmesine rağmen, anılan müdürlükten henüz
+cevap gelmeden sigortalının müracaat etmesi halinde, gerekli bilgiler sigortalıdan temin edilerek
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Caddesi No : 7 Sıhhiye/Ankara                                                                      Bilgi için: Ramazan ELMA
+Telefon No: (0 312) 458 77 52 Faks No: (0 312) 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: (0 312) 458 78 20
+9
+yukarıdaki (b) bendinde belirtildiği şekilde sağlık yardım formüleri işleme alınarak gereği yapılacaktır.
+        d) Sağlık uygulamalarına ilişkin formüler güvenli e-posta yoluyla alındıktan sonra YUPASS
+“Kullanıcı Bilgi” başlığı altında yer alan “YUPASS Kullanma Kılavuzu”nun 6'ncı sayfasında belirtildiği
+şekilde “Tescil Kayıt Sorgulama Ekranında” sigortalının T.C. kimlik numarası, adı soyadı veya sadece
+soyadı yazılarak “Sorgula” tuşuna basılarak sorgulama işlemi yapılacak, sorgulama sonucunda tescil
+işleminin evvelce yapılmış olduğunun tespit edilmesi halinde ilgili sağlık yardım formülerine istinaden
+mevcut tescil kaydı üzerinden hak sahipliği başlatılarak sağlık aktivasyonu açılacaktır.
+        e) YUPASS “Tescil Kayıt Sorgulama Ekranında” yapılan sorgulama sonucunda evvelce yapılmış
+tescil kaydına rastlanılmaması halinde “Sigortalı Tescil Kayıt” ekranında sigortalı ve formülerde kayıtlı
+aile bireylerinin tescil kaydı yapılacak ve sağlık yardım formülerine istinaden hak sahipliği başlatılarak
+sağlık aktivasyonu açılacaktır.
+        f) YUPASS numarasını öğrenmek isteyen K.K.T.C. sigortalılarının müracaatları halinde müracaat
+edilen SGİM/SGM'ce YUPASS “Tescil Kayıt Sorgulama Ekranında” sorgulama yapılarak YUPASS
+numarası ilgili kişilere bildirilecektir. Ayrıca, Türk vatandaşı olan K.K.T.C. sigortalılarına e-Devlet
+kapısı üzerinden sunulan “Yurt Dışı Provizyon Aktivasyon Sağlık Sistemi (YUPASS) Numarası
+Sorgulama” hizmeti aracılığıyla YUPASS numarası ile sağlık yardımlarının başlama-bitiş tarihlerini
+Kuruma gelmeden öğrenebilecekleri yönünde bilgi verilecektir.
+        g) K.K.T.C., “Kurum Sigortalıları Sağlık Sistemine (KUSAS)” henüz tanımlanmamıştır. Bu
+itibarla, K.K.T.C.’nin KUSAS'a entegrasyonu tamamlanıncaya kadar bu ülkede bulunacak veya daimi
+ikamet edecek K.K.T.C vatandaşı ve/veya yabancı ülke vatandaşı Kurum sigortalılarının müracaat ederek
+veya K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğü tarafından “K.K.T.C./TR 104 Sağlık Yardımlarına
+Hak Kazanma Belgesi Başvuru Formu” ile talep edilmesi halinde ilgili sağlık yardım formülerine,
+Kurumun intranet sayfasındaki “Kurumsal > Dokümanlar > Yurtdışı > Formülerler” bölümünde yer alan
+“Türkiye-K.K.T.C. Sosyal Güvenlik Sözleşmesinde Kullanılan Formülerler” kısmından ulaşılarak, ilgili
+formüler işbu Genel Yazının “1) Formüler/Yazıların Hazırlanması” alt başlığında belirtilen usullere
+uygun olarak düzenlendikten sonra, e-postanın konu kısmına sigortalı ile varsa aile bireylerinin; adı
+soyadı ve baba adı yazılarak güvenli e-posta yoluyla K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne
+gönderilecektir.
+        ğ) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne güvenli e-posta yoluyla gönderilen
+formülerin talep edilmesi halinde bir nüshası sigortalıya kağıt ortamında verilecektir.
+
+       5) Dikkat Edilmesi Gereken Hususlar:
+       a) Düzenlenen formüler/yazıda; sigortalının adı-soyadı, doğum yeri, doğum tarihi, baba adı ile
+mevcut olması halinde kızlık soyadı ve K.K.T.C. sigorta numarası belirtilecektir. Mükerrer yazışmaya ve
+gereksiz iş yüküne meydan vermeme adına, doldurulması gereken alanlar kesinlikle boş
+bırakılmayacaktır.
+       b) “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”deki e-posta
+adresleri haricinde bir e-posta, telefon, faks, WhatsApp ve benzeri kanallardan gelen soru ve taleplere
+kesinlikle cevap verilmeyecek ve listede kayıtlı olmayan bir adresten K.K.T.C. Sosyal Sigortalar Dairesi
+Müdürlüğüne e-posta gönderimi yapılmayacaktır. K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğüne ait
+e-posta adresi; sigortalılara, aile bireylerine ve üçüncü kişilere kesinlikle verilmeyecek, bu hususta
+gerekli önlemler alınacak ve ilgili personel uyarılacaktır.
+       c) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünden alınan veya bu kuruma gönderilen
+e-postalar, “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”sinde kayıtlı
+e-posta hesaplarından silinmeyecektir. Ancak her yıl sonunda işlemi tamamlananlar işlemi yapan birimce
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Caddesi No : 7 Sıhhiye/Ankara                                                                      Bilgi için: Ramazan ELMA
+Telefon No: (0 312) 458 77 52 Faks No: (0 312) 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: (0 312) 458 78 20
+9
+kurum bilgisayarlarında uygun bir şekilde arşivlenecektir.
+        ç) K.K.T.C. Sosyal Sigortalar Dairesi Müdürlüğünden alınan veya bu kuruma gönderilen
+formüler/yazı ile eklerinin kağıt ortamındaki nüshaları cari usullere göre sigortalı dosyalarında muhafaza
+edilecektir.
+        d) Güvenli e-posta yoluyla gönderilen/alınan formüler/yazı ve eklerinin “Arşiv Tarama
+Sisteminde (ATS)” eksiksiz bir şekilde görüntülenebilmesi için “Ek 4-Güvenli E-Posta Yöntemiyle
+Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de Görüntülenmesine İlişkin Kılavuz”da
+belirtilen hususlara uygun bir şekilde işlem yapılacaktır. Kılavuza uygun bir şekilde işlem yapılarak
+evrakların ATS'de de görüntülenmesi sağlanmış olacağından, evrakların ATS'ye yüklenmesi için ayrıca
+zaman ve emek harcanmasına gerek kalmayacaktır.
+        e) “Ek 3-Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste”deki birimlere ait
+e-posta adreslerinde herhangi bir değişiklik talebi Emeklilik Hizmetleri Genel Müdürlüğü Yurtdışı
+Sözleşmeler ve Emeklilik Daire Başkanlığına yazılı olarak bildirilecek ve anılan Daire Başkanlığından
+alınacak onaya istinaden değişiklik yapılacaktır.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+                                                                                          Ömer KÜÇÜKEVCİLİOĞLU
+                                                                                                 Genel Müdür
+
+
+
+
+Ekler:
+ 1- Protokol Metni (4 sayfa)
+ 2- Güvenli E-Posta Yoluyla Gönderimi Yapılacak Formüler Listesi (1 sayfa)
+ 3- Formülerin Gönderileceği Kurumsal E-Posta Adreslerini Gösterir Liste (5 sayfa)
+ 4- Güvenli E-Posta Yöntemiyle Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de
+     Görüntülenmesine İlişkin Kılavuz (10 sayfa)
+
+
+
+
+Gereği İçin:                                           Bilgi İçin:
+Merkez ve Taşra Teşkilatına                            Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Caddesi No : 7 Sıhhiye/Ankara                                                                      Bilgi için: Ramazan ELMA
+Telefon No: (0 312) 458 77 52 Faks No: (0 312) 432 12 45                                                                    Daire Başkanı
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: (0 312) 458 78 20
+9
+

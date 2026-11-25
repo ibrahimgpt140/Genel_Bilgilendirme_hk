@@ -1,0 +1,117 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/106341
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 1331237
+ADI: KANUN NUMARASI VE BELGE NUMARASI HATALI OLAN APHB'LERLE İLGİLİ YAPILACAK İŞLEMLER HAKKINDA 10.03.2015 TARİHLİ 1331237 TARİHLİ GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 911944ac327ebc545a46db3b1303bc6b9e8137dae8a98ca2023e8e90cb2b28a6
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S rt K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ASAN Sigorta Primleri Genel Müdürlüğü
+Sayı o :93180601/70299/1331237 10/03/2015
+Konu : Kanun numarası ve belge numarası hatalı olan
+APHB: lerle ilgili yapılacak işlemler
+GENEL YAZI
+
+Bilindiği üzere, işverenlerce aylık prim ve hizmet belgelerinin ilişkin olduğu kanun
+numarasının veya ilgili belge türünün hatalı seçilmiş olduğunun anlaşılması halinde, kanun
+numarası/belge türü hatalı seçilen aylık prim ve hizmet belgesi için iptal nitelikte, doğru kanun
+numarası/kanun numarasız asıl/ek nitelikte belge düzenlenerek Kurumumuza verilmesi bir ay süreli
+tebligat ile işverenlerden istenilmekte, bahse konu belgelerin bu süre içinde verilmemesi halinde
+söz konusu belgeler ilgili sosyal güvenlik merkezlerimizce re'sen düzenlenerek işleme
+alınmaktadır.
+
+Ancak, gerek geriye yönelik belgelerin işverenlerce veya Kurumca re'sen düzenlenmesi,
+gerekse bu belgelerin Kuruma verilmesinin ardından işleme alınması sırasındaki işlem adımlarının
+uzun zaman ve emek kaybının yanı sıra kağıt israfına da neden olması sebebiyle, uygulamada ve
+mevcut bilgisayar programlarında değişiklik yapılmasına gereksinim duyulmuştur.
+
+Uygulamada yapılan değişiklikler
+
+Aylık prim ve hizmet belgelerinde kanun numarası veya belge türünün hatalı seçilmiş
+olduğunun anlaşılması halinde, bundan böyle işverenlerden iptal ve asıl/ek belge verilmesi
+istenilmeyecektir.
+
+Kanun numarası veya belge türünün hatalı seçilmiş olması halinde, kanun numarası veya
+belge türü hatalı seçilen aylrim ve hizmet belgelerinin Kurumca re'sen düzeltileceği ve fark
+primlerin bir aylık süre içinde ödenmesi gerektiği ekte yer alan matbu form ile 7201 sayılı Kanuna
+göre tebliğ edilmek suretiyle işverenlere bildirilecektir. ık p
+
+Kanun numarası hatalı seçilmiş olması nedeniyle işverenlere gönderilecek yazının ekine
+hangi sigortalılar için hangi kanun numarasının hatalı seçildiğini gösteren ve İşveren İntra
+programlarında mevcut İŞVEREN — HATALI TEŞVİK BİLDİRİMİ SORGULAMA seçenekleri
+işaretlenmek suretiyle erişilen ekran vasıtasıyla alınan hata listeleri ilave edilecektir.
+
+Sözkonusu listenin alınmasından önce, hata listesinin güncel halinin alınabilmesi için
+işveren sistemi ana menüden 10-6-10 nolu seçenekler işaretlenmek suretiyle erişilen
+TEŞVİKLERDEN YERSİZ YARARLANMANIN GÜNCELLENMESİ seçeneği vasıtasıyla hata
+listesi güncellenecek ve varsa sonraki hatalı kayıtların da listeye ilave edilmesi sağlanacaktır.
+İşverenlere gönderilecek olan matbu yazı ekindeki liste sistemden alınmadan önce listede yer alan
+tarih ve saatin, güncelleme yapılan tarih ve saat ile aynı olmasına dikkat edilecektir. Aksi halde
+listenin döktürülmesi için tarih/saatin güncellenmesi beklenilecektir.
+
+Yapılan tebligat üzerine sözkonusu bir aylık süre içinde işverenler tarafından Kurumca
+yapılacak işleme itiraz edilmesi halinde, durum Prim Tahakkuk İtiraz Komisyonunca
+değerlendirilecektir. Yapılan değerlendirme sonucunda itirazın reddine karar verilmesi halinde,
+itirazın reddedildiği hususunun 7201 sayılı Kanuna göre tebliğ edilmesinin ardından gerekli
+işlemler Prim Tahakkuk Servislerince (İşveren Servislerince) re'sen yapılacaktır.
+
+Dolayısıyla kanun numarasının veya belge türünün hatalı seçilmiş olması nedeniyle
+düzeltilmesi gereken aylık prim ve hizmet belgeleri için bundan böyle işverenlerden iptal/ek/asıl
+
+nitelikte aylık prim ve hizmet belgesi istenilmeyecektir.
+
+Bu bağlamda, sözkonusu düzeltme işlemleri sırasında işverenlerce aylık prim ve hizmet
+belgesi düzenlenmediğinden düzeltme amaçlı asıl/ek nitelikte aylık prim ve hizmet belgesi girişleri
+sırasında ayrıca damga vergisi tahakkuk ettirilmeyecektir.
+
+Bilgisayar programlarında yapılan değişiklikler
+
+Kanun numarası/belge türü hatalı seçilmiş aylık prim ve hizmet belgeleri ile ilgili işlemler
+web tabanlı İşveren-İntra programlarında mevcut TAHAKKUK — GİRİŞ — BELGE KANUN NO
+DEĞİŞİKLİĞİ seçenekleri işaretlenmek suretiyle erişilen ekran vasıtasıyla yapılacaktır.
+
+Yapılan program vasıtasıyla ilk aşamada;
+
+1- Kanun no'suz belgenin; 05510/06111 veya 14857/54857 kanun no'lu belgeye,
+
+2- 06111 kanun no'lu belgenin; kanun no'suz veya 14857/54857 kanun no'lu belgeye,
+
+3- 05510 kanun no'lu belgenin; 06111/14857/54857 veya kanun no'suz belgeye,
+
+4- 14857/54857 kanun no'lu belgenin; 05510/06111/14857/54857 veya kanun no'suz
+belgeye
+
+dönüşümü yapılacaktır. İlerleyen süreçte bahse konu programda yapılacak güncellemelerin
+ardından diğer kanun numaraları ile ilgili aktarımların yapılmasına da imkan sağlanacaktır.
+
+Sözkonusu program vasıtasıyla, kanun numarası/belge türü hatalı seçilmiş döneme ilişkin
+dönem bilgisi sisteme girildikten sonra kanun numarası/belge türü hatalı seçilmiş belge
+işaretlenecektir. Ardından seçilen belgede kayıtlı sigortalılardan hangileri için kanun
+numarası/belge türü hatalı seçilmiş ise o sigortalıların üzeri işaretlenecektir. Belgede kayıtlı
+sigortalıların tümü için belge türü veya kanun numarası hatalı seçilmiş ise bu durumda, belgede
+kayıtlı sigortalıların tümü işaretlenerek doğru belge türüne/kanun numarasına aktarımı yapılacaktır.
+
+Bahse konu işlemler sırasında, sistem tarafından tahsilatlar çıkılıp iptal ve ek belge girişi
+yapıldıktan sonra, tahsilatlar yeniden aktarılmakta, ayrıca yeni belge için kanun numarası seçilmesi
+halinde seçilen kanun numarasına göre 99 tahsilatları da oluşturulmaktadır.
+
+Ayrıca BELGE KANUN NO DEĞİŞİKLİĞİ ekranı vasıtasıyla yapılan işlemler sırasında
+kimi zaman işlemlerin kalan kısmının işvcron sistemi üzerinden dovam ctmesi gerekse bile 3270
+CİCS sistemi üzerinden yapılacak düzeltme işlemleri nedeniyle damga vergisi tahakkuku
+oluşturulmayacaktır.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Ek:Matbuform
+
+DAĞITIM
+
+Gereği: Bilgi :
+
+Sosyal güvenlik il müdürlüklerine İşverenler Daire Başkanlığına
+
+Sosyal güvenlik merkezlerine İstihdam Teşvikleri Daire Başkanlığına

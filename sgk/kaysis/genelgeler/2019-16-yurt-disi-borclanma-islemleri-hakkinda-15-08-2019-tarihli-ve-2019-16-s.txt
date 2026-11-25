@@ -1,0 +1,811 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/154286
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2019/16
+ADI: YURT DIŞI BORÇLANMA İŞLEMLERİ HAKKINDA 15/08/2019 TARİHLİ VE 2019/16 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dcee06e6d6c4259569488a0b43d8aac5335ecec1ccbf90ddf3a1435571f23f26
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : 40552758-010.06.02-E.11779915                                                                    15/08/2019
+Konu : Yurt Dışı Borçlanma İşlemleri
+
+
+
+
+                                                   GENELGE
+                                                    2019/16
+
+
+         19/7/2019 tarihli ve 30836 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 7186
+sayılı Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile
+3201 sayılı Yurt Dışında Bulunan Türk Vatandaşlarının Yurt Dışında Geçen Sürelerinin
+Sosyal Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanunun 3, 4, 5 ve 9 uncu
+maddelerinde değişiklik yapılmış, geçici 5 inci maddesi yürürlükten kaldırılmış ve Kanuna
+geçici 9 uncu madde eklenmiştir.
+         3201 sayılı Kanunda gerçekleştirilen düzenlemeler 1/8/2019 (dahil) tarihi itibariyle
+yürürlüğe girecek olup anılan tarih itibariyle yapılacak iş ve işlemler aşağıdaki açıklamalar
+doğrultusunda yürütülecektir.
+
+        1. Borçlanma Tutarının Hesaplanması
+
+       Kanunun 4 üncü maddesinde yapılan düzenleme ile borçlanılacak her bir gün için
+tahakkuk ettirilecek borçlanma tutarının, başvuru tarihindeki 5510 sayılı Sosyal Sigortalar ve
+Genel Sağlık Sigortası Kanununun 82 nci maddesinde belirtilen prime esas asgari ve azamî
+günlük kazanç arasında seçilecek günlük kazancın % 45'i olacağı öngörülmüştür. Buna göre;
+       1.1. 1/8/2019 (dahil) tarihinden itibaren yapılacak başvurularda, Kanun uyarınca
+hesaplanacak bir günlük borçlanma tutarı, başvuru tarihinde geçerli olan günlük prime esas
+kazancın alt ve üst sınırları arasında kalmak kaydıyla başvuru sahibince seçilen kazancın
+yüzde % 45’i alınmak suretiyle belirlenecektir. Bulunan rakamın virgülden sonraki üçüncü
+rakamı beş (5) ve daha büyükse ikinci rakam yukarı yuvarlanacaktır. Tahakkuk ettirilecek
+toplam borçlanma tutarı günlük borçlanma tutarı ile borçlanılan gün sayısının çarpımından
+oluşacaktır.
+       Formül ile ifade edilirse;
+       Bir Günlük Borçlanma Tutarı = Seçilen Prime Esas Kazanç x % 45
+       Toplam Borçlanma Tutarı       = Bir Günlük Borçlanma Tutarı x Gün Sayısı
+       şeklinde olacaktır.
+       Örnek: 1/8/2019 tarihinde yurt dışında geçen 5400 gün sigortalılık süresini, günlük
+85,28 TL kazanç üzerinden borçlanmak isteyen sigortalının bir günlük borçlanma tutarı,
+85,28 x % 45 = 38,376 TL, toplam borç tutarı ise 38,38 x 5400 = 207.252,00 TL olacaktır.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         1.2. 1/1/2019 - 31/12/2019 tarihleri arasında sigorta primine esas;
+              Günlük kazanç alt sınırı :      85,28 TL
+              Günlük kazanç üst sınırı : 639,60 TL
+         olarak belirlenmiştir.
+         Buna göre, 1/8/2019-31/12/2019 tarihleri arasında bir günlük borçlanma tutarının alt
+sınırı 38,38 TL, üst sınırı ise 287,82 TL olarak uygulanacaktır.
+         1.3. 8/5/2008 tarihinden itibaren borçlanma tutarının tespitinde geçerli olan günlük
+kazancın alt ve üst sınırlarına ait güncel tutarlar, Kurum intranet sayfasındaki EHGM
+Mevzuat / Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı altında “3201 Sayılı Kanuna
+Göre Borçlanmaya Esas Kazanç ve Borçlanma Bedellerine İlişkin Tablo"da yer almakta olup
+bu miktarlar değiştiğinde söz konusu tablo güncellenmektedir.
+         1.4. Yurt dışı sürelerinin borçlandırılmasında, başvuru sahibince talep dilekçesinde
+belirtilen gün sayısı, Kuruma ibraz edilen ispatlayıcı belgede kayıtlı bulunan son tarihten
+geriye doğru olmak üzere belirlenecektir. Bu tespitte 1 yıl 360 gün, 1 ay 30 gün olarak
+hesaplanacaktır.
+         Örnek: 5/8/2019 tarihinde Almanya'da geçen sigortalılık sürelerinden 5400 gün
+borçlanmak istediğini belirterek borçlanma talebinde bulunan sigortalının, borçlanmaya esas
+belgesinde 1/5/1990-30/4/2000 ve 1/1/2010-6/9/2016 süreleri kayıtlıdır. Buna göre, öncelikle
+belgede kayıtlı son tarih olan 6/9/2016 tarihinden 1/1/2010 tarihine kadar 2406 gün, kalan
+2994 gün ise 30/4/2000 tarihinden geriye doğru olmak üzere borçlandırılacaktır.
+
+        2. Sigortalılık Statüsünün Tespiti
+
+        Kanunun 5 inci maddesinin dördüncü fıkrasında yapılan değişiklikle, 1/8/2019 (dahil)
+tarihinden itibaren borçlandırılan yurt dışı sürelerinin 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamında geçmiş sigortalılık süresi olarak kabul
+edileceği öngörülmüştür.
+        Buna göre, 1/8/2019 tarihinden itibaren yurt dışı sürelerini borçlanma talebinde
+bulunanların borçlanma işlemleri talep tarihindeki en son sigortalılık statüsüne bakılmaksızın
+4/1-(b) kapsamında sonuçlandırılacaktır.
+        Örnek: 9/11/1980-27/4/2017 tarihleri arasında Almanya’da geçen çalışmalarını
+1/8/2019 tarihinde borçlanma talebinde bulunan sigortalının, Türkiye’de 20/5/2019-5/6/2019
+tarihleri arasında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında hizmeti bulunmaktadır. Sigortalının 9/11/1980-27/4/2017 tarihleri arasında
+Almanya’da geçen çalışma sürelerinin borçlandırılması işlemleri talep tarihindeki sigortalılık
+statüsüne bakılmaksızın 4/1-(b) kapsamında sonuçlandırılacaktır.
+        5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendi kapsamında yurt
+dışında çalışanların borçlanma işlemleri de talep tarihindeki sigortalılık statüsüne
+bakılmaksızın 4/1-(b) kapsamında sonuçlandırılacaktır.
+        Örnek: 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendi
+kapsamında 19/12/2016-27/4/2017 tarihleri arasında Türkmenistan’da geçen çalışmalarını
+2/8/2019      tarihinde   borçlanma      talebinde    bulunan      sigortalının,   Türkiye’de
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+20/5/2017-20/2/2018 tarihleri arasında 4/1-(a) kapsamında hizmeti bulunmaktadır.
+Sigortalının 19/12/2016-27/4/2017 tarihleri arasında Türkmenistan’da 5/1-(g) kapsamında
+geçen çalışma süreleri borçlanma talep tarihindeki sigortalılık statüsüne bakılmaksızın 4/1-(b)
+kapsamında sonuçlandırılacaktır.
+
+        3. Başvurulacak Kuruluş ve Birimler
+
+         3.1. Başvurulacak Kuruluş
+         Kanunun 3 üncü maddesinde yapılan değişiklikle, Kanunun 1 inci maddesinde
+belirtilenler ile yurt dışında çalışmakta iken veya yurda kesin dönüş yaptıktan sonra ölenlerin
+Türk vatandaşı olan hak sahipleri ve sosyal güvenlik sözleşmeleri uygulanmak suretiyle
+kendilerine veya hak sahiplerine kısmi aylık bağlanmış olanların borçlanma işlemlerinin
+1/8/2019 (dahil) tarihinden itibaren Sosyal Güvenlik Kurumunca yapılacağı öngörülmüştür.
+         Buna göre, 506 sayılı Kanunun geçici 20 nci maddesi kapsamında kısmi aylık
+bağlanmış olanların da 1/8/2019 (dahil) tarihinden sonra yapılacak borçlanma talepleri
+Kurumca sonuçlandırılacaktır.
+
+         3.2. Başvurulacak Birimler
+         Kanunun 5 inci maddesinin dördüncü fıkrasında yapılan değişiklikle, yurt dışı hizmet
+borçlanmasına ait süreler, 5510 sayılı Kanunun 4/1-(b) kapsamında geçmiş sigortalılık süresi
+olarak kabul edileceğinden, İsviçre prim transferi yapılmış sürelere ilişkin yapılacak
+borçlanma işlemleri Emeklilik Hizmetleri Genel Müdürlüğü (EHGM) Yurtdışı Sözleşmeler
+ve Emeklilik Daire Başkanlığı tarafından, bunun haricindeki yurt dışı sürelerinin
+borçlanılmasına ilişkin iş ve işlemler aşağıda belirtilen birimlerce yürütülecektir.
+         Başvuru sahiplerinin borçlanma işlemleri, "Yurt Dışı Süreleri Borçlanma Talep
+Dilekçesi" (Ek-1) veya "Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi"nde (Ek-2)
+belirttikleri adresleri dikkate alınmaksızın;
+         a) Kimlik Paylaşım Sisteminden tespit edilecek adresin bulunduğu ildeki,
+         b) Kimlik Paylaşım Sisteminde adres kaydı bulunmuyor ise nüfusa kayıtlı olunan
+ildeki,
+         c) (a) ve (b) bentlerine göre adres tespit edilemediği durumlarda ise müracaat edilen
+ildeki,
+         d) Kimlik Paylaşım Sisteminde birden fazla kayıtlı adresi bulunan sigortalı veya hak
+sahiplerinin tercih ettikleri adresin bulunduğu ildeki,
+         sosyal güvenlik il müdürlükleri (SGİM) / sosyal güvenlik merkezlerince (SGM)
+yürütülecektir.
+         Kısmi aylıklarını tam aylığa dönüştürmek isteyenlerin başvuru yerleri ve
+borçlanmalarına ilişkin iş ve işlemler bu Genelgenin "5. Sosyal Güvenlik Sözleşmesine
+Göre Kısmi Aylık Alanların Borçlanma Başvurusu" bölümünde yapılan açıklamalar
+doğrultusunda sonuçlandırılacaktır.
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+       4. Borçlanılmış Sürelerin İlgili Aylara Mal Edilmesi ve Prime Esas Kazançların
+Tespiti
+
+        Kanunun 5 inci maddesine eklenen son fıkra ile Türkiye’deki sigortalılığın başlangıç
+tarihinden önceki sürelerin borçlandırılması halinde bu sürelerin, 5510 sayılı Kanunun 41 inci
+maddesinde yer alan hükümler esas alınarak Türkiye’deki sigortalılık başlangıç tarihinden,
+Türkiye’de sigortalılık yok ise borçlanma tutarının tamamen ödendiği tarihten geriye
+götürülen sürelere ait ilgili aylara mal edileceği öngörülmüştür. Buna göre, borçlanılan
+sürelerin ilgili aylara mal edilmesi aşağıdaki açıklamalar doğrultusunda gerçekleştirilecektir.
+
+        4.1. 1/8/2019 (Dahil) Tarihinden Sonraki Borçlanmalar
+        1/8/2019 (dahil) tarihinden sonra borçlanılan ve 5510 sayılı Kanunun 4/1-(b) bendi
+kapsamında değerlendirilen yurt dışı sürelerinin prim ödeme gün sayısının kazanç olarak
+değerlendirilmesinde 5510 sayılı Kanunun 41 inci maddesi ile geçici 7 nci maddesinin
+dördüncü fıkrası hükümleri esas alınacaktır.
+        4.1.1. 1/8/2019 (dahil) tarihinden sonra borçlanma talebinde bulunarak tebliğ edilen
+borçlanma tutarını ödemiş olanların borçlanılan süreleri ve bu sürelere ait prime esas
+kazançlarının ilgili aylara mal edilmesinde Kanunda yapılan değişiklikler esas alınacaktır.
+        Örnek 1: Türkiye'de 2/10/2018-15/10/2018 tarihleri arasında 5510 sayılı Kanunun
+4/1-(a) bendi kapsamındaki sigortalı, 15/11/2019 tarihli yurt dışı borçlanma talep dilekçesiyle
+Kuruma ibraz ettiği belgede kayıtlı olan 1/1/1990-31/12/2006 tarihleri arasında Almanya'da
+geçen 6120 gün sigortalılık süresinin tamamını borçlanma talebinde bulunmuştur. Tahakkuk
+eden borçlanma tutarını 3/12/2019 tarihinde ödeyen sigortalının borçlanılan süreleri ve bu
+sürelere ait prime esas kazançları Türkiye'de ilk işe giriş tarihi olan 2/10/2018 tarihinden
+geriye götürülen sürelere ait ilgili aylara mal edilecektir.
+        Örnek 2: Türkiye'de 2/10/2018-15/10/2018 tarihleri arasında 5510 sayılı Kanunun
+4/1-(a) bendi kapsamında sigortalı olan ve 15/11/2019 tarihli yurt dışı borçlanma talep
+dilekçesiyle 3600 gün borçlanmak isteyen sigortalının Kuruma ibraz ettiği borçlanmaya esas
+belgede 1/1/1990-31/12/2006 tarihleri arasında Almanya'da geçen 6120 gün sigortalılık
+süresi bulunmaktadır. Buna göre, belgede kayıtlı son tarih olan 31/12/2006 tarihinden 3600
+gün geriye doğru olmak üzere 1/1/1997-31/12/2006 tarihleri arasındaki süre borçlanma
+hesabında esas alınacaktır. Tahakkuk eden borçlanma tutarının tamamını 3/12/2019 tarihinde
+ödeyen sigortalının borçlanılan süreleri ve bu sürelere ait prime esas kazançları Türkiye'de ilk
+işe giriş tarihi olan 2/10/2018 tarihinden geriye götürülen sürelere ait ilgili aylara mal
+edilecektir.
+        Örnek 3: Türkiye’de sigortalılığı bulunmamakla birlikte, 15/11/2019 tarihli yurt dışı
+borçlanma talep dilekçesiyle 1/1/1990-31/12/2006 tarihleri arasında Suudi Arabistan'da geçen
+6120 gün sigortalılık süresinin tamamını borçlanan ve tahakkuk eden borçlanma tutarını
+3/12/2019 tarihinde ödeyen sigortalının borçlanılan süreleri ve bu sürelere ait prime esas
+kazançları borçlanma tutarının tamamının ödendiği tarih olan 3/12/2019 tarihinden geriye
+götürülen sürelere ait ilgili aylara mal edilecektir.
+        Örnek 4: 506 sayılı Kanun kapsamında ilk defa 1/8/2000 tarihinde işe başlayan
+sigortalı, 9/9/2019 tarihli borçlanma talep dilekçesiyle 5400 gün sigortalılık süresini
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+borçlanma talebinde bulunmuştur. Sigortalının Kuruma ibraz ettiği borçlanmaya esas belgede
+1/5/1990-30/4/2000 ve 1/1/2010-6/9/2016 tarihleri arasında Meksika’da geçen sigortalılık
+süreleri bulunmaktadır. Buna göre, öncelikle belgede kayıtlı son tarih olan 6/9/2016
+tarihinden 2406 gün geriye doğru olmak üzere 1/1/2010 tarihine kadarki süre, kalan 2994 gün
+ise 30/4/2000 tarihinden geriye doğru olmak üzere borçlandırılacaktır. Borçlandırılan
+1/1/2010-6/9/2016 süresindeki 2406 güne ait kazançlar belgede kayıtlı son tarih olan
+6/9/2016 tarihinden geriye, kalan 7/1/1992-30/4/2000 tarihleri arasındaki 2994 güne ait olan
+süre ve bu sürelere ait kazançlar ise Türkiye’de ilk işe giriş tarihi olan 1/8/2000 tarihinden
+geriye götürülen sürelerin ilgili aylarına mal edilecektir.
+
+        4.2. 1/8/2019 (Hariç) Tarihinden Önceki Borçlanmalar (Değişiklik, 29/11/2019
+tarihli ve 2019/21 sayılı Genelge)
+         1/8/2019 (hariç) tarihinden önce borçlanma talebinde bulunanlardan tebliğ edilen
+borçlanma tutarını yasal süresi içerisinde ödeyenlerin prime esas kazançları, 19/7/2019 tarihli
+ve 7186 sayılı Kanun ile 3201 sayılı Kanunda yapılan değişikliklerden önceki hükümler
+çerçevesinde borçlanılan ilgili aylara mal edilecektir.
+         Örnek 1: Sigortalı 6/7/2007 tarihli yurt dışı borçlanma talep dilekçesiyle
+1/1/1985-31/12/2006 tarihleri arasında Fransa'da geçen sigortalılık süresini borçlanarak
+tahakkuk eden borçlanma tutarının tamamını 3/4/2008 tarihinde ödemiştir. İlgilinin aylık
+talebinde bulunduğu tarih dikkate alınmaksızın, borçlanılan süreleri ve bu sürelere ait prime
+esas kazançları 1/1/1985-31/12/2006 tarihleri arasındaki ilgili aylara mal edilecek ve aylık
+bağlama işlemleri buna göre sonuçlandırılacaktır.
+         Örnek 2: Örnek 1’deki sigortalının tebliğ edilen borç tutarını 1/9/2019 tarihinde
+ödediği varsayıldığında borçlanılan süreler ve bu sürelere ait prime esas kazançlar
+1/1/1985-31/12/2006 tarihleri arasına mal edilerek aylık bağlama işlemi sonuçlandırılacaktır.
+         Örnek 3: 5510 sayılı Kanunun 4/1-(a) bendi kapsamında ilk defa 2/10/2018 tarihinde
+işe başlayan sigortalı, 26/7/2019 tarihli yurt dışı borçlanma talep dilekçesiyle
+1/1/1995-31/12/2011 tarihleri arasındaki 6120 günlük sigortalılık süresini borçlanma
+talebinde bulunmuştur. Sigortalının Kuruma ibraz ettiği borçlanmaya esas belgede
+1/1/1995-31/12/2015 tarihleri arasında Almanya'da geçen sigortalılık süresi bulunmaktadır.
+Tahakkuk eden borçlanma tutarının tamamını 3/10/2019 tarihinde ödeyen sigortalının
+borçlanılan süreleri ve bu sürelere ait prime esas kazançları 1/1/1995-31/12/2011 tarihleri
+arasındaki ilgili aylara mal edilecek ve aylık bağlama işlemleri buna göre sonuçlandırılacaktır.
+         Örnek 4: Türkiye’de sigortalılığı bulunmamakla birlikte, 8/9/2006 tarihli yurt dışı
+borçlanma talep dilekçesiyle 1/1/1985-31/12/1994 tarihleri arasında Malta'da geçen
+sigortalılık süresini 4/1-(a) kapsamında borçlanan ve tahakkuk eden borçlanma tutarının
+tamamını 2/4/2010 tarihinde ödeyen sigortalı, 5/3/2021 tarihinde 1800 gün sigortalılık
+süresini borçlanma talebinde bulunmuştur. Kuruma ibraz edilen borçlanmaya esas belgede
+1/1/1985-31/12/2019 tarihleri arasında Malta'da geçen sigortalılık süresi bulunmaktadır.
+İlgilinin 4/1-(a) kapsamında yaptığı ilk borçlanmanın tahakkuku değiştirilmeksizin yeni
+borçlanma tahakkuk cetveli 1/1/2015-31/12/2019 süresi için 4/1-(b) kapsamında
+gerçekleştirilecektir. Borçlanılan sürelere ilişkin prime esas kazançlar birinci borçlanma
+tahakkuku değiştirilmeksizin 4/1-(a) kapsamında olduğu sürelere, ikinci borçlanmada ise
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+ikinci borçlanma tutarının tamamının ödendiği 6/4/2021 tarihinden geriye doğru olmak üzere
+4/1-(b) kapsamında 7/4/2016-6/4/2021 tarihleri arasındaki ilgili aylara mal edilecektir.
+        Örnek 5: 5510 sayılı Kanunun 4/1-(a) bendi kapsamında ilk defa 12/10/2017
+tarihinde işe başlayan sigortalı, 16/12/2018 tarihli yurt dışı borçlanma talep dilekçesiyle 5400
+gün sigortalılık süresini borçlanma talebinde bulunmuştur. Sigortalı Kuruma ibraz ettiği
+borçlanmaya esas belgede kayıtlı 1/1/1990-31/12/2015 tarihleri arasında Macaristan'da
+geçen sigortalılık sürelerinden 1/1/1990-31/12/2004 tarihleri arasını 4/1-(a) kapsamında
+borçlanmış ve tahakkuk eden borçlanma tutarının tamamını 3/2/2019 tarihinde ödemiştir.
+Sigortalının borçlanılan süreleri ve bu sürelere ait prime esas kazançları 1/1/1990-31/12/2004
+tarihleri arasındaki ilgili aylara mal edilecektir. İlgili 15/5/2021 tarihinde 1080 gün
+sigortalılık süresini borçlanma talebinde bulunmuştur. Kuruma ibraz edilen belgede
+Macaristan'da 1/1/1990-31/12/2016 ve 1/1/2018-31/12/2020 tarihleri arasında sigortalılık
+süresi bulunmaktadır. Yeni borçlanma, ibraz edilen belgede kayıtlı son tarihten geriye doğru
+olmak üzere yapılacak ve 1/1/2018-31/12/2020 tarihleri arasındaki süreler 4/1-(b)
+kapsamında borçlandırılacaktır. Borçlanılan sürelere ait prime esas kazançlar birinci
+borçlanma tahakkuku değiştirilmeksizin 4/1-(a) kapsamında olduğu sürelere, ikinci
+borçlanma ise 1/1/2018-31/12/2020 tarihleri arasında 4/1-(b) kapsamında ilgili aylara mal
+edilecektir.
+        15/08/2019 tarih ve 2019/16 sayılı Genelgenin değiştirilen "4.2. 1/8/2019 (Hariç)
+Tarihinden Önceki Borçlanmalar" maddesi hükümlerine göre 1/8/2019 tarihinden (dahil)
+bu Genelgenin yayımı tarihine kadar borçlanma işlemleri gerçekleştirilenler ve/veya aylık
+bağlanan sigortalılar hakkında da bu bölüm hükümleri uygulanacaktır.
+
+      4.3. 506 sayılı Kanunun Geçici 20 nci Maddesi Kapsamındaki Sandıklara
+Yapılmış Borçlanmalar
+      Sandıklara borçlanılan süreler ve bu sürelere ait prime esas kazançlar, Genelgenin bu
+bölümünde yapılan açıklamalar doğrultusunda değerlendirilecektir.
+
+      5. Sosyal Güvenlik Sözleşmesine Göre Kısmi Aylık Alanların Borçlanma
+Başvurusu
+
+        1/8/2019 (dahil) tarihinden sonra borçlanılan yurt dışı süreleri 5510 sayılı Kanunun
+4/1-(b) bendi kapsamında değerlendirileceğinden, Kanunun 9 uncu maddesinde yapılan
+değişiklik doğrultusunda sosyal güvenlik sözleşmeleri uygulanmak suretiyle kısmi aylık
+bağlanmış olanların borçlanma işlemleri de bu kapsamda gerçekleştirilecektir. Bunların kısmi
+aylıklarının tam aylığa dönüştürülmesinde, kısmi aylığın başlangıç tarihi itibariyle mülga
+2829 sayılı Kanun veya 5510 sayılı Kanunun 53 üncü maddesine göre belirlenecek statü esas
+alınacak olup kısmi aylıkların tam aylığa dönüştürülmesi aşağıdaki açıklamalar
+doğrultusunda yürütülecektir:
+
+       5.1. 5510 Sayılı Kanunun 4/1-(a), (b) ve (c) Bendi Kapsamında Bağlanan Kısmi
+Aylığın Tam Aylığa Dönüştürülmesi
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        5.1.1. Yurt dışı hizmet borçlanma talepleri, sosyal güvenlik sözleşmesine istinaden
+kısmi aylık alanların dosyalarının bulunduğu birime intikal ettirilecektir.
+        5.1.2. Yurt dışı hizmet borçlanma talebini alan birim, borçlanma talebine istinaden
+mülga 2829 sayılı Kanuna veya 5510 sayılı Kanunun 53 üncü maddesinin altıncı fıkrasına
+göre aylığın bağlanacağı statüyü belirleyecektir. Ancak, yapılacak borçlanma ile aylığın
+bağlanması gereken statüye göre tam aylığa hak kazanılamaması durumunda borçlanma
+işlemi gerçekleştirilmeyerek talep sahibine tam aylığa yetecek süresi bulunmadığı belirtilerek
+borçlanma talebinin reddedildiği bilgisi verilecektir.
+        Örnek: Türkiye'de 3/6/1985-5/11/1986 tarihleri arasında 370 gün ve Almanya'da
+1/1/1988-31/12/1999 tarihleri arasında 4320 gün toplam 4690 gün sigortalılık süresi bulunan
+1/1/1957 doğumlu erkek sigortalıya 12/11/2018 tarihli tahsis talebine istinaden Türkiye
+Almanya Sosyal Güvenlik Sözleşmesine istinaden 5510 sayılı Kanunun 4/1-(a) bendi
+kapsamında 1/12/2018 tarihi itibariyle kısmi aylık bağlanmıştır. Kısmi aylığın tam aylığa
+dönüştürülmesi için 12/11/2019 tarihinde yapılan borçlanma talebi, Türkiye hizmeti ile
+borçlanacağı yurt dışı süresi birlikte değerlendirildiğinde kısmi aylığın başladığı tarih
+itibariyle 4/1-(b) kapsamında aylık bağlanması için öngörülen 15 yıl prim ödeme süresi (5400
+gün) şartı yerine gelmediğinden reddedilecektir.
+        5.1.3. 4/1-(a) ve 4/1-(b) kapsamında bağlanan kısmi aylığın yapılacak borçlanma
+sonucunda tam aylığa dönüştürülmesi aynı statüde yapılacaksa, kısmi aylığı bağlayan birim,
+yurt dışı borçlanma işlemlerini ve kısmi aylığın tam aylığa dönüştürülmesi işlemini
+gerçekleştirecektir.
+        Örnek: Türkiye'de 3/6/2002-30/6/2016 tarihleri arasında 5040 gün ve Almanya'da
+1/1/1992-31/12/1995 tarihleri arasında 1440 gün olmak üzere toplam 6480 gün sigortalılık
+süresi bulunan 1/1/1965 doğumlu erkek sigortalıya 12/2/2019 tarihli tahsis talebine istinaden
+25 yıl sigortalılık, 53 yaş ve 5600 gün şartı üzerinden Türkiye Almanya Sosyal Güvenlik
+Sözleşmesine istinaden 1/3/2019 tarihi itibariyle 5510 sayılı Kanunun 4/1-(a) bendi
+kapsamında kısmi yaşlılık aylığı bağlanmıştır. İlgili 2/10/2019 tarihinde kısmi aylığın tam
+aylığa dönüştürülmesi için yeterli süreyi borçlanma talebinde bulunmuştur. Kısmi aylık
+4/1-(b) kapsamında yapılacak borçlanma sonucunda mülga 2829 sayılı Kanuna göre 4/1-(a)
+kapsamında tam aylığa dönüştürülecektir. Buna göre, kısmi aylığın tam aylığa
+dönüştürülebilmesi için ilgilinin Almanya'da geçen 1440 gün hizmetinden tam aylığa yetecek
+560 gün (5600-5040) belgede kayıtlı son tarih olan 31/12/1995 tarihinden geriye doğru
+borçlandırılacak ve borçlanılan süre 3/6/2002 tarihinden geriye götürülen sürelere ait ilgili
+aylara mal edilecektir.
+        5.1.4. 4/1-(c) kapsamında bağlanan kısmi aylığın yapılacak borçlanma sonucunda tam
+aylığa dönüştürülmesi aynı statüde yapılacaksa, borçlanma işlemleri EHGM Yurtdışı
+Sözleşmeler ve Emeklilik Daire Başkanlığı tarafından gerçekleştirilecektir. İlgilinin
+borçlanma tutarının tamamını ödemesini müteakip, EHGM Kamu Görevlileri Emeklilik
+Daire Başkanlığınca kısmi aylığın tam aylığa dönüştürülmesi için borçlanma tutarının
+ödendiği bilgisi anılan Başkanlığa bildirilecektir.
+        5.1.5. EHGM Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı tarafından 4/1-(a)
+kapsamında bağlanan kısmi aylığın borçlanma sonucunda tam aylığa dönüştürülmesi 4/1-(b)
+statüsünde yapılacaksa, borçlanma işlemleri anılan Başkanlık tarafından gerçekleştirilecektir.
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+İlgilinin borçlanma tutarının tamamını ödemesini müteakip bağlanan kısmi aylık, tam aylığa
+dönüştürülecek tarih esas alınarak kesilecek ve tam aylık bağlanması için dosya muhteviyatı
+"3.2. Borçlanma İçin Başvurulacak Birimler" başlığı altında belirtilen durumuna uygun
+SGİM/SGM'ye intikal ettirilecektir.
+        Örnek: Türkiye'de 3/6/1983-5/11/1987 tarihleri arasında 1450 gün ve Hollanda'da
+1/1/1988-31/12/1999 tarihleri arasında 4320 gün toplam 5770 günü bulunan 1/1/1955
+doğumlu erkek sigortalıya 12/11/2018 tarihli tahsis talebine istinaden Türkiye Hollanda
+Sosyal Güvenlik Sözleşmesine istinaden 1/12/2018 tarihi itibariyle 4/1-(a) kapsamında kısmi
+aylık bağlanmıştır. 29/8/2019 tarihinde kısmi aylığın tam aylığa dönüştürülmesine yetecek
+süreyi borçlanmak isteyen ilgilinin kısmi aylığının tam aylığa dönüştürülmesi için
+borçlanacağı süre 4/1-(b) kapsamında değerlendirilecektir. Bu süre mülga 2829 sayılı Kanuna
+göre son yedi yıllık fiili hizmet hesabında esas alınan 1260 günün tamamını kapsadığından
+kısmi aylık 4/1-(b) kapsamında tam aylığa dönüştürülecektir. Buna göre borçlanılacak süre,
+4/1-(a) kapsamında kısmi aylığın başlangıç tarihindeki 4/1-(b) kapsamında tam aylık
+bağlanması için öngörülen 15 yıl prim ödeme süresini (5400 gün) tamamlayacak gün sayısı
+kadar (5400-1450=3950) olacaktır. Borçlanılan süreler, belgede kayıtlı son tarih olan
+31/12/1999 tarihinden geriye doğru olmak üzere 3950 gün geriye götürülen sigortalılık
+sürelerine ait ilgili aylara mal edilecek ve tam aylığa dönüştürme işlemi gerçekleştirilecektir.
+        5.1.6. 4/1-(a) kapsamında Türkiye Almanya Sosyal Güvenlik Sözleşmesine göre
+bağlanan kısmi aylığın yapılacak borçlanma sonucunda tam aylığa dönüştürülmesi 4/1-(b)
+kapsamında yapılacaksa, kısmi aylığı bağlayan birim borçlanma işlemlerini gerçekleştirecek,
+borçlanma tutarının ödenmesini müteakip bağladığı kısmi aylığı keserek tam aylık
+bağlanması için dosya muhteviyatını aynı ildeki 4/1-(b) kapsamında aylık bağlayan üniteye
+intikal ettirecektir.
+        5.1.7. 4/1-(c) kapsamında bağlanan kısmi aylığın yapılacak borçlanma sonucunda tam
+aylığa dönüştürülmesi 4/1-(b) kapsamında yapılacaksa borçlanma işlemleri EHGM Yurtdışı
+Sözleşmeler ve Emeklilik Daire Başkanlığı tarafından gerçekleştirilecek, borçlanma tutarının
+ödenmesini müteakip bağlanan kısmi aylığın kesilmesi ve tam aylık bağlanması için dosya
+muhteviyatının "3.2. Borçlanma İçin Başvurulacak Birimler" başlığı altında belirtilen
+SGİM/SGM'ye intikal ettirilmek üzere EHGM Kamu Görevlileri Emeklilik Daire
+Başkanlığına bilgi verilecektir.
+        5.1.8. Tam aylık bağlanması için gerekli şartların tespitinde, aylıklar aynı statüde tam
+aylığa dönüştürülecekse kısmi aylığın başlangıç tarihindeki ilgili sosyal güvenlik
+kanunlarının öngördüğü prim ödeme gün sayısı ve hizmet yılı şartı aranacaktır. Ancak, kısmi
+aylıkları aylığın bağlandığı statüden farklı olarak Kanunun 4/1-(b) kapsamında tam aylığa
+dönüştürülecekse kısmi aylığın başlangıç tarihindeki bu statüdeki tam aylık bağlama şartları
+esas alınacaktır.
+        5.1.9. Kısmi aylık talebinde bulundukları tarihte birden çok aylık bağlama şartını
+yerine getiren sigortalıların aylıklarının tam aylığa dönüştürülmesinde aylığa yetecek
+borçlanma gün sayısı, yazılı talepte bulunmaları halinde en düşük prim ödeme gün sayısı
+şartına göre belirlenecektir.
+        Örnek: Kanunun 4/1-(a) bendi kapsamında kısmi aylık bağlanan sigortalı, kısmi
+aylığının 4/1-(b) kapsamında tam aylığa dönüştürüleceği tarihte 62 yaş ve 9700 gün prim
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+ödeme şartını yerine getirmektedir. Sigortalı aynı anda hem 5400 gün hem de 9000 gün prim
+ödeme şartıyla kısmi aylığını tam aylığa dönüştürebilmektedir. Bu durumda ilgilinin yazılı
+talepte bulunması halinde 5400 gün borçlandırılarak kısmi aylığı 4/1-(b) kapsamında tam
+aylığa dönüştürülecektir.
+
+        5.2. 506 sayılı Kanunun Geçici 20 nci Maddesi Kapsamında Bağlanan Kısmi
+Aylığın Tam Aylığa Dönüştürülmesi
+        Kanunun 4 üncü maddesinde yapılan değişiklikle yurt dışı borçlanma süreleri
+1/8/2019 (dahil) tarihinden itibaren 4/1-(b) kapsamında değerlendirileceğinden, 506 sayılı
+Kanunun geçici 20 nci maddesi kapsamındaki sandıklarca yurt dışı borçlanması
+yapılmayacaktır. Buna göre sandıklarca bağlanmış olan kısmi aylıkların tam aylığa
+dönüştürülmesine ilişkin işlemler aşağıdaki açıklamalar doğrultusunda gerçekleştirilecektir:
+        5.2.1. Kısmi aylıkların tam aylığa dönüştürülmesine ilişkin borçlanma talepleri bu
+Genelgenin "3.2. Borçlanma İçin Başvurulacak Birimler" başlıklı bölümünde belirtilen
+birimlere yapılacaktır.
+        5.2.2. Yurt dışı hizmet borçlanma talebini alan birim, kısmi aylığı bağlayan sandıktan
+ilgilinin yurt dışı çalışma süreleri ile sandık aylık bağlama kararının gönderilmesini ve sandık
+hizmetlerinin GESAK (Geçici 20 nci Madde Sandıkları Tescil ve Hizmet Kayıt Programı)
+programına işlenmesini talep edecektir.
+        5.2.3. Yurt dışı hizmet borçlanmasını gerçekleştirecek birim, bu bölümün 5.2.2.
+maddesindeki bilgi ve belgeleri esas alarak borçlanma işlemini sonuçlandıracaktır. Yapılacak
+borçlanma işlemi sonucu mülga 2829 sayılı Kanuna veya 5510 sayılı Kanunun 53 üncü
+maddesinin altıncı fıkrasına göre aylığın bağlanacağı statüyü belirleyecektir. Ancak, aylığın
+bağlanması gereken statüye göre tam aylığa hak kazanılamaması durumunda borçlanma
+işlemi gerçekleştirilmeyerek talep sahibine ve ilgili sandığa tam aylığa yetecek süre
+bulunmaması nedeniyle borçlanma talebinin reddedildiği bilgisi verilecektir.
+        5.2.4. Sandıklar tarafından bağlanan kısmi aylığın yapılacak borçlanma sonucunda
+tam aylığa dönüştürülmesi de sandıklarca gerçekleştirilecekse borçlanma işlemleri bu
+bölümün 5.2.2. maddesindeki bilgi ve belgeleri esas alarak Kurumca gerçekleştirilecektir.
+Borçlanma tutarının ödenmesini müteakip bağlanan kısmi aylığın tam aylığa dönüştürülmesi
+için borçlanılan yurt dışı süreleri ve borç ödeme tarihi borçlanmayı gerçekleştiren birim
+tarafından ilgili sandığa bildirilecektir. Sandık tarafından bu Genelgenin "5.1. 5510 Sayılı
+Kanunun 4/1-(a), (b) ve (c) Bendi Kapsamında Bağlanan Kısmi Aylığın Tam Aylığa
+Dönüştürülmesi" başlıklı bölümünün 5.1.3. maddesindeki açıklamalar doğrultusunda tam
+aylığa dönüştürülme işlemi gerçekleştirilecektir.
+        5.2.5. Sandıklar tarafından bağlanan kısmi aylığın yapılacak borçlanma sonucunda
+tam aylığa dönüştürülmesi 4/1-(b) kapsamında yapılacaksa borçlanma işlemleri bu bölümün
+5.2.2. maddesindeki bilgi ve belgeler esas alınarak Kurumca gerçekleştirilecektir. Borçlanma
+tutarının ödenmesini müteakip sandık tarafından bağlanan kısmi aylığın kesilmesi ve tam
+aylık bağlanması için dosya muhteviyatının gönderilmesi ilgili sandıktan talep edilecektir.
+        Örnek: Türkiye'de 11/9/1984-22/7/1987 tarihleri arasında 1031 gün, Almanya'da
+1/1/1990-31/11/2002 tarihleri arasında 4650 gün olmak üzere toplam 5681 günü bulunan
+1/1/1956 doğumlu erkek sigortalıya, 21/11/2018 tarihli tahsis talebine istinaden Türkiye
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+Almanya Sosyal Güvenlik Sözleşmesi esas alınarak 1/12/2018 tarihi itibariyle 506 sayılı
+Kanunun geçici 20 nci maddesi kapsamında kısmi aylık bağlanmıştır. 9/8/2019 tarihinde
+kısmi aylığın tam aylığa dönüştürülmesine yetecek süreyi borçlanmak isteyen ilgilinin kısmi
+aylığının tam aylığa dönüştürülmesi için borçlanacağı süre 4/1-(b) kapsamında
+değerlendirilecektir. Bu süre mülga 2829 sayılı Kanuna göre son yedi yıllık fiili hizmet
+hesabında esas alınan 1260 günün tamamını kapsadığından kısmi aylık 4/1-(b) kapsamında
+tam aylığa dönüştürülecektir. Buna göre borçlanılacak süre, 506 sayılı Kanunun geçici 20 nci
+maddesi kapsamında kısmi aylığın başladığı tarihteki 4/1-(b) kapsamında tam aylık
+bağlanması için öngörülen 15 yıl prim ödeme süresini (5400 gün) tamamlayacak gün sayısı
+kadar (5400-1031=4369) olacaktır. Borçlanılan süreler, borçlanmaya esas hizmet cetvelinde
+kayıtlı son tarih olan 31/11/2002 tarihinden borçlanılan 4369 gün geriye götürülen sürelere
+ait ilgili aylara mal edilecektir.
+
+        6. Yurt Dışı Borçlanmasına Esas Belgeler
+
+       Yurt dışı borçlanma başvurusunda bulunanlar, yurt dışında geçen ve borçlanmaya esas
+olacak sürelerine ait belgeleri, Yurtdışında Geçen Sürelerin Borçlandırılması ve
+Değerlendirilmesine İlişkin Yönetmeliğin 8 inci maddesine göre durumlarına uygun
+borçlanma belgesinin aslını Kuruma ibraz etmek zorunda olup ibraz edilecek belgeler;
+       - Sosyal güvenlik sözleşmesi akdedilmiş ülkeler,
+       - Sosyal güvenlik sözleşmesi akdedilmemiş ülkeler,
+       - Ev kadını olarak geçen süreler,
+       için olmak üzere üç başlık altında aşağıda açıklanmıştır.
+
+       6.1. Sosyal Güvenlik Sözleşmesi Akdedilen Ülkelerde Geçen Sürelere Ait Belgeler
+       Talep sahiplerinin sosyal güvenlik sözleşmesi akdedilmiş ülkelerde geçen sigortalılık
+ve/veya işsizlik sürelerini borçlanabilmeleri için;
+       6.1.1. İlgili ülke sigorta kurumlarınca düzenlenmiş sigortalılık sürelerini gösterir
+belgenin aslıyla birlikte Türkiye’de yeminli tercüme bürolarınca ya da yurt dışında bulunan
+Türk temsilciliklerince akredite edilmiş tercümanlarca yapılmış ve ilgili temsilcilikçe
+onaylanmış tercümesinden,
+       6.1.2. İlgili ülkelerdeki Türk büyükelçilikleri, başkonsoloslukları, çalışma ve sosyal
+güvenlik müşavirlikleri veya ataşelikleri gibi temsilciliklerden alınacak hizmet belgesinden
+       durumlarına uygun olanını Kuruma ibraz etmeleri gerekmektedir.
+       Sosyal güvenlik sözleşmesi imzalanmış ülke sigorta kurumlarınca düzenlenmekte olan
+borçlanmaya esas belge örnekleri (Ek-3 - Ek-29) da yer almaktadır.
+
+        6.2. Sosyal Güvenlik Sözleşmesi Akdedilmemiş Ülkelerde Geçen Sürelere Ait
+Belgeler
+        Talep sahiplerinin sosyal güvenlik sözleşmesi akdedilmemiş ülkelerde geçen
+sigortalılık ve/veya işsizlik sürelerini borçlanabilmeleri için; ilgili ülkelerdeki Türk
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+büyükelçilikleri, başkonsoloslukları, çalışma ve sosyal güvenlik müşavirlikleri veya
+ataşelikleri gibi temsilciliklerden alınacak hizmet belgesini ibraz etmeleri gerekmektedir.
+
+       6.3. Ev Kadını Olarak Geçen Sürelere Ait Belgeler
+       Kanuna göre yurt dışında ev kadını olarak geçen sürelerin borçlandırılabilmesi için
+fotoğraf, künye bilgileri ve yurda giriş çıkış tarihlerinin kayıtlı olduğu pasaport sayfa
+fotokopileri veya emniyet müdürlüklerinden alınacak yurda giriş çıkış tarihlerini gösterir
+çizelge ile birlikte;
+       6.3.1. İkamet edilen ülke mercilerinden alınacak ikamet belgesinin, Türkiye’de
+yeminli tercüme bürolarınca ya da yurt dışında bulunan Türk temsilciliklerince akredite
+edilmiş tercümanlarca yapılmış ve ilgili temsilcilikçe onaylanmış tercümesinden,
+       6.3.2. Türk büyükelçilikleri, başkonsoloslukları, çalışma ve sosyal güvenlik
+müşavirlikleri veya ataşelikleri gibi temsilciliklerce düzenlenen ikamet belgesinden
+       durumlarına uygun olan belgenin Kuruma ibraz edilmesi gerekmektedir.
+
+        7. Yazılı İstekte Bulunmak
+
+        Yurt dışında geçen sürelerin borçlandırılabilmesi için “Yurt Dışı Süreleri Borçlanma
+Talep Dilekçesi” veya "Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi"nin usulüne
+göre doldurulup imzalandıktan sonra Kurumun ilgili birimine doğrudan verilmesi ya da posta
+yolu ile gönderilmesi gerekmektedir. Faks ya da elektronik postayla yapılan başvurulara
+istinaden borçlanma işlemi yapılmayacaktır.
+        Sosyal Sigorta İşlemleri Yönetmeliğinin 124 üncü maddesinin birinci fıkrasına göre,
+adi posta veya Kuruma doğrudan yapılan başvuru ve bildirimlerde, başvuru veya bildirimin
+Kurumun gelen evrak kayıtlarına intikal tarihi; taahhütlü, iadeli taahhütlü, acele posta servisi,
+PTT Alo Post veya PTT Kargo ile yapılan başvuru ve bildirimlerde ise başvuru veya
+bildirimin postaya veya kargoya verildiği tarih başvuru veya bildirim tarihi olarak kabul
+edilmektedir. Başvuru sahiplerinin bulundukları ülkenin posta idareleri aracılığıyla taahhütlü,
+iadeli taahhütlü ve acele posta servisi ile yaptıkları başvuru tarihi de aynı şekilde Kuruma
+yapılmış başvuru tarihi olarak kabul edilecektir.
+        Borçlanma talep dilekçeleri Kurumun ünitelerinden ya da web sayfasından temin
+edilebilecektir.
+        1/8/2019 (dahil) tarihi itibariyle yapılan borçlanma başvurularına ilişkin bilgi ve
+belgelerin eksik olup olmadığı borçlanma işlemini gerçekleştirecek birim tarafından kontrol
+edilecek, borçlanma talep dilekçesinde zorunlu olarak doldurulması gereken bölümlerdeki
+bilgilerin veya borçlanmaya esas belgenin eksik olduğu veya ibraz edilen yabancı dilde
+düzenlenmiş belgelerin tercümelerinin bulunmadığının tespiti durumunda yapılan başvuru
+reddedilecektir. Sonuç, talep sahibine örneği ekli yazı (Ek-30) ile bildirilecektir.
+        Örnek 1: 1/8/2019 tarihli borçlanma talep dilekçesi ile yurt dışında geçen sigortalılık
+süresini borçlanmak isteyen ancak borçlanmaya ilişkin belgeyi ibraz etmeyen sigortalının
+borçlanma talebi eksik belge nedeniyle reddedilecektir.
+        Örnek 2: 9/10/2019 tarihli borçlanma talep dilekçesi ile yurt dışında geçen sigortalık
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+sürelerini borçlanma talebinde bulunan ancak borçlanmak istenilen süre bölümünde birden
+fazla kutunun işaretlenmesi halinde sigortalının borçlanma talebi eksik bilgi nedeniyle
+reddedilecektir.
+        İkili veya çok taraflı sosyal güvenlik sözleşmesi imzalanmış ülke sigorta kurumlarınca
+doğrudan Kuruma gönderilen sigortalılık sürelerini gösterir belgelerin borçlanma
+işlemlerinde kullanılması durumunda tercümeleri ilgililerden talep edilmeyecektir.
+
+        8. Başvuruya İlişkin Ortak Hususlar
+
+         8.1. Vekil aracılığı ile yapılan borçlanma başvurularında, borçlanma işlemini
+yürütecek SGİM/SGM, sigortalı veya hak sahibinin bu Genelgenin "3.2. Borçlanma İçin
+Başvurulacak Birimler" başlığı altında yapılan açıklamalara göre belirlenecek müracaat
+yerleri esas alınarak tespit edilecektir.
+         8.2. Başvuru sahiplerince bu Genelgenin "3.2. Borçlanma İçin Başvurulacak
+Birimler" bölümünde belirtilenler haricindeki ünitelere yapılmış olan başvurular, Kurum
+evrak kaydına alınarak en kısa süre içerisinde borçlanma işlemini yapacak SGİM/SGM'ye
+gönderilecektir.
+         8.3. Kısmi aylıkların tam aylığa dönüştürülmesine ilişkin borçlanma talepleri hariç
+olmak üzere, 506 sayılı Kanunun geçici 20 nci maddesine tabi sandıklara yapılan borçlanma
+talepleri ilgili sandık tarafından reddedilecektir. Kısmi aylıkların tam aylığa
+dönüştürülmesine ilişkin borçlanma talebini alan sandık, ilgilinin dosyasında bulunan
+borçlanmaya esas yurt dışı hizmet belgesiyle birlikte talep dilekçesini vakit geçirmeksizin
+Kurumun ilgili birimine intikal ettirecektir. Başvuru tarihi olarak, borçlanma talebinin sandık
+evrak kayıtlarına girdiği tarih esas alınacaktır.
+         8.4. Türkiye'deki sigorta başlangıcından sonraki sürelerin borçlanılması halinde
+borçlanılan süreler borçlanılan sürelerin geçtiği ilgili aylara mal edilecektir.
+         Örnek: 1.2.1995 tarihinde Türkiye'de sigortalı çalışması başlayan sigortalı
+1.5.2010-31.12.2013 süresi Afganistan'da geçen sürelerini borçlandığında bu süreler hizmetin
+geçtiği tarih aralığı olan 1.5.2010-31.12.2013 süresine mal edilecektir.
+         8.5. Kanundaki değişikliklerin yürürlüğe gireceği 1/8/2019 (hariç) tarihine kadar
+verilmiş/verilecek olan yurt dışı sürelerinin borçlandırılmasına ilişkin talepler, 3201 sayılı
+Kanuna eklenen geçici madde doğrultusunda değişiklik öncesinde yürürlükte olan hükümlere
+göre en kısa zamanda sonuçlandırılacaktır. Başvuruların 1/8/2019 tarihinden önce yapılıp
+yapılmadığının tespitinde bu Genelgenin "7. Yazılı İstekte Bulunmak" başlıklı bölümünde
+belirtilen hususlar dikkate alınacaktır.
+         8.6. Yurt dışı borçlanması yapılırken Kuruma ibraz edilmesi gereken yurda giriş çıkış
+çizelgelerinin, söz konusu çizelgede kayıtlı yurda giriş çıkış tarihlerinin Emniyet Genel
+Müdürlüğü Pasaport Giriş/Çıkış Bilgileri Projesi'nden temin edilmesi durumunda, ibrazı
+istenmeyecektir.
+         8.7. Borçlanmalara istinaden ilk işe giriş tarihinin belirlenmesinde 2018/38 sayılı
+Genelgenin Altıncı Bölümünün "1. Sigortalılık Başlangıcının Tespiti" başlıklı
+bölümündeki açıklamalar dikkate alınacaktır.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+         8.8. 506 sayılı Kanunun geçici 20 nci maddesine tabi sandıkların iletişim bilgileri
+(Ek-31) de yer almaktadır.
+         8.9. “Yurt Dışı Süreleri Borçlanma Talep Dilekçesi”nin 9 uncu maddesi ile
+"Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi"nin 4 üncü maddesindeki "Aylık
+bağlanmasına yetecek süre" seçeneğinin işaretlenmesi durumunda, başvuru sahibine hangi
+şartlarla aylık bağlanacağının tespitine esas olan sigortalılık başlangıç tarihi, prim ödeme gün
+sayısı, yaş tashihi olup olmadığı, hangi statüye göre aylık bağlanacağı hususları başta olmak
+üzere gerekli olan tüm araştırmalar ilgili servislerce titizlikle yapılacaktır. Yapılan araştırma
+sonucuna    göre başvuru sahibine hangi şartlarla aylık bağlanacağı tespit edilecek ve aylık
+bağlanmasına yetecek yurt dışı süresi belirlenerek borç tahakkuku ilgiliye tebliğ edilecektir.
+İlgilinin, tespit tarihindeki Türkiye'de bulunan sigortalılık süreleri, hangi statüde, kaç gün
+üzerinden emekliliğe hak kazandığı ile kaç gün borçlandırıldığı hususları tespiti
+gerçekleştiren şef ve bağlı olduğu merkez müdürü/il müdür yardımcısı tarafından tutanak
+altına alınacak ve tutanağın bir nüshası ilgilinin dosyasında muhafaza edilecektir.
+         8.10. “Yurt Dışı Süreleri Borçlanma Talep Dilekçesi”nin 7 nci maddesi ile
+"Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi"nin 3 üncü maddesindeki "Borçlanma
+miktarının hesabında seçtiğiniz bir günlük prime esas kazanç" seçeneklerinin boş bırakılması
+veya birden fazla seçeneğin işaretlenmesi durumunda borçlanma başvurusu reddedilmeyecek
+ve borç tahakkukunda "Asgari" seçeneği esas alınacaktır.
+         8.11. İsviçre prim transferi gerçekleşmeden bu ülkedeki sigortalılık sürelerini
+borçlanmak isteyenlerin borçlanma işlemleri "3.2. Borçlanma İçin Başvurulacak
+Birimler" bölümünde yapılan açıklamalar doğrultusunda gerçekleştirilecektir.
+
+        9. Yürürlükten Kaldırılan Genelge Hükümleri
+
+        9.1. 8/6/2011 tarihli ve 2011/48 sayılı Genelgenin;
+        - İkinci Bölüm 1.2.5. Yurtdışı sürelerinin yurtiçi hizmet süreleriyle çakışması başlıklı
+bölümü 24/4/2019 tarihinden,
+        - İkinci Bölüm 1.3. Hizmetleri belgelendirmek başlıklı bölümün 1.3.1., 1.3.3., ve
+1.3.5. numaralı bölümleri, 1.4. Yazılı istekte bulunmak başlıklı bölümü, 2. Borçlanma için
+başvurulacak kurum ve birimler başlıklı bölümü, 2 nci maddesi hariç olmak üzere 3. Borç
+miktarının hesaplanması başlıklı bölümü, 8.1. Sigortalılık süresi ve toplam prim ödeme gün
+sayısının tespitinde başlıklı bölümünün 4,5,7 ve 8 inci maddeleri ile 8.2. Yıllık kazançların
+tespitinde başlıklı bölümün ikinci paragrafı ve 8.3. Basamak intibakında başlıklı bölümde bu
+Genelgenin aksine yer alan hükümler 1/8/2019 tarihinden,
+        - Tahsis İşlemleri başlıklı Üçüncü Bölümü 6/11/2018 tarihinden,
+        9.2. 6/11/2018 tarihli ve 2018/38 sayılı Genelgenin Altıncı Bölüm 6.1. Kısmi
+Aylıkların Tam Aylığa Dönüşmesi başlıklı maddesinin üç ve dördüncü paragrafları 1/8/2019
+tarihinden
+        geçerli olmak üzere yürürlükten kaldırılmıştır.
+        Söz konusu yürürlükten kaldırılan genelgelerin hükümleri, yürürlük dönemlerindeki iş
+ve işlemlerde kullanılabilecektir.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                           Dr. Mehmet Selim BAĞLI
+                                                                                Kurum Başkanı
+
+
+
+
+EKLER DİZİNİ :
+Ek-1: Yurt Dışı Süreleri Borçlanma Talep Dilekçesi (2 sayfa)
+Ek-2: Bulgaristan Hizmetlerini Borçlanma Talep Dilekçesi (2 sayfa)
+Ek-3: Borçlanmaya Esas Almanya Belge Örnekleri (24 sayfa)
+Ek-4: Borçlanmaya Esas Arnavutluk Belge Örnekleri (6 sayfa)
+Ek-5: Borçlanmaya Esas Avusturya Belge Örnekleri (13 sayfa)
+Ek-6: Borçlanmaya Esas Azerbaycan Belge Örnekleri (5 sayfa)
+Ek-7: Borçlanmaya Esas Belçika Belge Örnekleri (14 sayfa)
+Ek-8: Borçlanmaya Esas Bosna Hersek Belge Örnekleri (12 sayfa)
+Ek-9: Borçlanmaya Esas Çek Cumhuriyeti Belge Örneği (1 sayfa)
+Ek-10: Borçlanmaya Esas Danimarka Belge Örnekleri (8 sayfa)
+Ek-11: Borçlanmaya Esas Fransa Belge Örnekleri (6 sayfa)
+Ek-12: Borçlanmaya Esas Gürcistan Belge Örnekleri (4 sayfa)
+Ek-13: Borçlanmaya Esas Hırvatistan Belge Örnekleri (3 sayfa)
+Ek-14: Borçlanmaya Esas Hollanda Belge Örnekleri (3 sayfa)
+Ek-15: Borçlanmaya Esas İngiltere Belge Örnekleri (4 sayfa)
+Ek-16: Borçlanmaya Esas İsveç Belge Örneği (1 sayfa)
+Ek-17: Borçlanmaya Esas İsviçre Belge Örnekleri (10 sayfa)
+Ek-18: Borçlanmaya Esas İtalya Belge Örnekleri (4 sayfa)
+Ek-19: Borçlanmaya Esas Kanada Belge Örnekleri (4 sayfa)
+Ek-20: Borçlanmaya Esas Karadağ Belge Örnekleri (3 sayfa)
+Ek-21: Borçlanmaya Esas Kebek Belge Örnekleri (2 sayfa)
+Ek-22: Borçlanmaya Esas K.K.T.C. Belge Örnekleri (4 sayfa)
+Ek-23: Borçlanmaya Esas Kore Belge Örnekleri (2 sayfa)
+Ek-24: Borçlanmaya Esas Lüksemburg Belge Örnekleri (3 sayfa)
+Ek-25: Borçlanmaya Esas Makedonya Belge Örnekleri (1 sayfa)
+Ek-26: Borçlanmaya Esas Norveç Belge Örneği (2 sayfa)
+Ek-27: Borçlanmaya Esas Romanya Belge Örnekleri (4 sayfa)
+Ek-28: Borçlanmaya Esas Sırbistan Belge Örnekleri (3 sayfa)
+Ek-29: Borçlanmaya Esas Slovakya Belge Örnekleri (2 sayfa)
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+Ek-30: Bilgi/Belge Eksikliği Nedeniyle Ret Yazısı Örneği (1 sayfa)
+Ek-31: 506 sayılı Kanunun Geçici 20 nci Maddesine Tabi Sandıkların İletişim Bilgileri
+       (1 sayfa)
+
+
+
+DAĞITIM:
+Gereği:                                                    Bilgi:
+Merkez ve Taşra Teşkilatı                                  Aile, Çalışma ve Sosyal Hizmetler Bakanlığı
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                    Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 27 Faks No: 0 312 432 12 45                                                   Daire Başkanı V.
+E-Posta: ehgm_ysedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                             Telefon No: 0 312 432 12 47
+10
+

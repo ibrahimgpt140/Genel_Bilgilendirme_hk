@@ -1,0 +1,89 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73823
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 479
+ADI: GENELGE 2012/19
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a303fe678fbe226d7aac915a14ac162c7f719b844841694ee165a069a73884b9
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+İnsan Kaynakları Daire Başkanlığı
+Sayı :B.13.2.SGK.0.71.10.00 /4 79 4. 52012
+Konu : Disiplin Amirleri tarafından verilen
+cezaların ilgili birimlerce sisteme işlenmesi
+ve onaylanması
+GENELGE
+2012/13
+
+Kurumumuz merkez ve taşra birimlerinde disiplin amirleri tarafından verilen disiplin
+cezalarının bilgisayar sistemine, Devlet Personel Başkanlığı sistemine ve özlük dosyasına, kayıt
+edilmesi işlemleri Insan Kaynakları Daire Başkanlığınca yürütülmekte ve disiplin cezasına ilişkin
+belgeler personelin özlük dosyasında muhafaza edilmektedir.
+
+Personel Uygulamalarının alt sisteminde bulunan “Disiplin Cezası İşlemleri” bölümünün,
+merkez ve taşra olmak üzere tüm birimlerimize açılmasına yönelik entegrasyon çalışmaları
+tamamlanmış olup, Ankara Sosyal Güvenlik İl Müdürlüğü ile test uygulamasına geçilmiştir.
+
+03/01/2012 tarihi itibariyle “Disiplin Cezası İşlemleri “ekleme” hanesinden “kayıt giriş” ve
+“arama” hanesinden “kayıt arama” bölümleri tüm birimlerimize (Taşrada Sosyal Güvenlik İl
+Müdürlüklerine) açılmış olup, sistemin kullanıma açıldığı tarih itibariyle bu bölüm kayıtları ilgili
+birimler tarafından yapılacaktır.
+
+“Ekleme” bölümüne işlenecek disiplin cezaları, otomatik olarak “SİCİL SİSTEMİNİ”
+etkileyecektir.
+
+Disiplin cezalarının dışında kalan ve amirler tarafından doğrudan idari bir tedbir olarak
+yapılan yazılı ikaz işlemleri de aynı bölümde kayıt edilecektir.
+
+Kayıtlar üzerinde silme ve güncelleme yapma yetkisi birimlere verilmemiştir. Disiplin
+cezalarının personelin özlük ve mali hakları üzerinde etkisi olduğundan ve silme ile güncelleme
+yetkisi birimlere verilmediği dikkate alınarak, bu kayıtların, yetkili personel tarafından titizlikle
+yerine getirilmesi gerekmektedir. Yanlış kayıt girildiği takdirde, İnsan Kaynakları Daire
+Başkanlığı ivedilikle bilgilendirilerek, gerekli silme işlemi sağlandıktan sonra yetkili personel
+tarafından kayıt yeniden doğru olarak girilecektir. o
+
+Sisteme giriş ve görüntüleme yetkisi için merkez ve taşra birimlerinin (taşrada Sosyal
+Güvenlik İl Müdürlüklerinin) İnsan Kaynakları Servisinden şef ve memur olmak üzere 2 kişi
+yetkilendirilecek ve bu kişiler için MEYET üzerinden yetki alınma işlemleri ünitelerince
+yapılacaktır.
+
+Yetkili personel tarafından sisteme kayıtları yapılan disiplin cezaları, Daire
+Başkanlıklarında İnsan Kaynakları Servisinin bağlı bulunduğu Şube Müdürü, Sosyal Güvenlik İl
+Müdürlüklerinde İnsan Kaynakları Servisinin bağlı bulunduğu Sosyal Güvenlik İl Müdür
+Yardımcısı tarafından sistem üzerinde onaylama işlemi yapıldıktan sonra Disiplin ve Sicil
+kayıtlarına işlenmiş olacaktır. Bu nedenle, cezaların tebliğ edildiği tarihten itibaren kayıtların
+derhal yapılarak aynı gün itibari ile onaylama işleminin yapılması gerekmektedir.
+
+Daire Başkanlıklarında İnsan Kaynakları Servisinin bağlı bulunduğu Şube Müdürü, Sosyal
+Güvenlik İl Müdürlüklerinde İnsan Kaynakları Servisinin bağlı bulunduğu Sosyal Güvenlik İl
+Müdür Yardımcısının görevde bulunmadığı zamanlarda (izinli, istirahatli, görevli vb. durumlarda)
+ilgililerin yerine bakan yetkililer tarafından onaylama işleminin yapılması gerekmektedir.
+
+Ayrıca; tüm belgeler eksiksiz olarak İnsan Kaynakları Daire Başkanlığına gönderilmeye
+devam edilecektir.
+
+Adres: Ziyabey Cad. No:6 Pk: 06520 Balgat JANKARA Ayrıntılı bilgi için irtibat: Ali AKSAKAL İnsan Kay.Dal.Bşk. Tel: 207 80 91
+Faks: 207 81 44 (Elektronik Ağ: www.sgk.gov.tr
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+İnsan Kaynakları Daire Başkanlığı
+Yine, merkez birimlerde Daire Başkanları ile Sosyal Güvenlik İl Müdürlüklerinde İl
+Müdürlerinin sistemi görüntüleyebilmeleri için MEYET üzerinden yetki almaları gerekmektedir.
+Keza; kadro ünitesi ile fiili ünitesi farklı olan personelin disiplin işlemleri fiili ünitelerinde
+neticelendirildikten sonra, disiplin sistemi kayıtlarının yapılması için belgeler kadro ünitesine
+gönderilecek, cezaların sisteme giriş ve onay işlemi bu üniteler tarafından gerçekleştirilecektir.
+Disiplin cezası kayıtlarının girişlerinde faydalanmak amacıyla hazırlanan uygulama
+kılavuzu Disiplin Cezası işlemleri programında yer almaktadır.
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını arz/rica ederim.
+> ge «
+Fatih ACAR
+Kurum Başkanı
+DAĞITIM:
+Gereği: Bilgi:
+Tüm Merkez ve Taşra Teşkilatına Çalışma ve Sosyal Güvenlik Bakanlığına
+Adres: Ziyabey Gad. No:6 Pk: 06530 Balgat /ANKARA Ayrıntılı bilgi için irtibat: Ali AKSAKAL İnsan Kay.Dai.Bsk. Tel: 207 80 91
+Faks: 207 81 44 Elektronik Ağ: www.sgk.gov.tr

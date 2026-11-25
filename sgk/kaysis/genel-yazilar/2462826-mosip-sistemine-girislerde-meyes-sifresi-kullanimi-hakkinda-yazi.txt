@@ -1,0 +1,58 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73891
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 2462826
+ADI: MOSİP SİSTEMİNE GİRİŞLERDE MEYES ŞİFRESİ KULLANIMI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7db76443597f63e9d674784200ffe10045cb9452cf3384f31a9a565a9fff397c
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                   r.c
+                                    SOSYAL GDVENLiK KURUMU BASKANLIGI
+                                           Strateji Gelistirme Baskanhgi
+
+
+
+ SaYI :17636183-01006-E.2462826                                                            27/04/2016
+ Konu : Mosip Sistemine Girislerde
+        MEYES Sifresi Kullamrm
+
+
+
+                                                                GENEL YAZI
+
+
+
+     Hizmet Sunumu Genel Mudurlugu Kurumsal Yazihmlar Daire Baskanligmca yiiriitiilen
+MEYES Entegrasyonu Gecis Plam kapsammda Mosip     sistemine MEYES sifresi ile giris
+yapilmasi planlanmaktadir.
+      MOSip uygulamasma giriste oncelikle kullarucilann MEYES kimlikleri ile Mosip
+kimliklerini eslestirmeleri gerekmektedir. Bu eslesme sirasmda sorun yasayan kullamcilann
+olabilmesi ihtimaline karsihk gecis asamasmda hem MEYES sifresi hem de Mosip sifresi ile
+sisteme girilebilmesine imkan tarunacaktir, Mosip sistemine MEYES sifresi ile girislerde MEYES
+kutucugu, MOSip sifresi ile girislerde ise Mosip kutucugu isaretlenecektir.
+      Mosip sistemine giris 01/06/2016 tarihinden itibaren sadece MEYES sifresi ile yapilacak
+olup merkez ve tasra teskilatmdaki tiim Mosip kullamcilannm aciklanan hususlar dogrultusunda
+islem yapmasi gerekmektedir.
+         Bilgilerinizi ve geregini arzlrica ederim.
+
+
+
+                                                                                       Muhiddin SARiN
+                                                                                  Strateji Gelistirme Baskaru
+
+
+
+
+DAGITIM:
+Geregi:
+Merkez ve Tasra Teskilatma
+
+
+
+
+Bu beIge, 5070 sayrh Elektronik irnza Kanununun 5 inci rnaddesi geregince guvenli elektronik irnza ile imzalanmisnr
+Ziyabey Cad. No:6 06520 BalgatiANKARA                                                          Bilgi icin.Fikri OSTONTAS
+Telefon No:(O312) 207 85 47 Faks No: (0 312) 207 81 46                                                          Sube Muduru
+e-Posta: fustuntas2@sgk.gov.tr internet Adresi:www.sgk.gov.tr                                 Telefon No:(0312) 207 85 67
+

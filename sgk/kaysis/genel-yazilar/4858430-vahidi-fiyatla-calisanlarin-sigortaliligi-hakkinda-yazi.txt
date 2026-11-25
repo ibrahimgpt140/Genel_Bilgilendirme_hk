@@ -1,0 +1,153 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75737
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4858430
+ADI: VAHİDİ FİYATLA ÇALIŞANLARIN SİGORTALILIĞI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f46a25f48bf865a6f412a36e5888133d64f086dd594f45840d9e30da97ec28e8
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+gi T.C.
+SG K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+mek ELA era Sigorta Primleri Genel Müdürlüğü
+Sayı : 84228040/24684114/2016-01-E.4858430 06/09/2016
+Konu : Vahidi Fiyat
+GENEL YAZI
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin
+birinci fıkrasının (a) bendinde hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılanlar
+sigortalı sayılmıştır. Kanunun “Tanımlar” başlıklı 3 üncü maddesinde hizmet akdi, 6098 sayılı
+Kanunda sayılan hizmet akdi ve iş mevzuatında tanımlanan iş sözleşmesi olarak tanımlanmıştır.
+
+6098 sayılı Türk Borçlar Kanunun 393 üncü maddesi ile hizmet sözleşmesi, işçinin işverene
+bağımlı olarak belirli veya belirli olmayan süreyle iş görmeyi ve işverenin de ona zamana veya
+yapılan işe göre ücret ödemeyi üstlendiği sözleşme olarak değerlendirilmekte, kişinin, durumun
+gereklerine göre ancak ücret karşılığında yapılabilecek bir işi belli bir zaman için görmesi ve bu
+işin de işveren tarafından kabul edilmesi halinde hizmet sözleşmesi kurulmuş sayılmaktadır. 6098
+sayılı Kanunun 470 inci maddesi ile eser sözleşmesi (istisna akdi) yüklenicinin bir eser meydana
+getirmeyi, iş sahibinin de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşme olarak
+tanımlanmıştır. Bu nedenle, sigortalılık yönünden işveren ile çalıştırdığı kişi arasındaki iş
+ilişkisinin istisna akdine dayanması halinde 5510 sayılı Kanun kapsamında sigortalılıktan söz
+edilememektedir.
+
+4857 sayılı İş Kanununun 8 inci maddesinde ise iş sözleşmesi, bir tarafin (işçi) bağımlı
+olarak iş görmeyi, diğer tarafın da (işveren) ücret ödemeyi üstlenmesinden oluşan sözleşme olarak
+tanımlanmış olup hizmet akdinin unsurlarında iş, ücret, bağımlılık ve zaman unsurları
+bulunmaktadır.
+
+İş (hizmet) sözleşmesi belirli bir süre için yapılabileceği gibi süresiz de yapılabilmektedir.
+Hizmetin sözleşme süresi içinde günün belli saatlerinde, haftanın veya ayın belirlenen günlerinde
+yerine getirilmesi de mümkün bulunmaktadır. Belirlenen şekildeki çalışmalar hizmet akdinin
+niteliğini değiştirmemektedir. 4857 sayılı Kanunda hizmet sözleşmelerinin yazılı yapılması
+gerektiği hükme bağlanmış, belirli süresi bir yıl veya daha uzun süreli hizmet akitlerinin yazılı
+yapılması zorunlu kılınmıştır. İş sözleşmesinin süresiz yapılması şart ve zorunluluk arz etmediği
+gibi hizmet akitlerinin yazılı yapılmamış olması da hizmet akdinin varlığını değiştirmemektedir.
+
+4857 ve 6098 sayılı Kanunlar göz önüne alındığında iş veya hizmet akdinin iş, ücret ve
+bağımlılık olmak üzere üç ana unsurdan oluştuğu görülmektedir.
+
+Bu unsurlar;
+
+İş görme, hizmet sözleşmesinin zorunlu unsurudur. İş, karşı taraf için ekonomik değeri olan
+her türlü fikri ve bedeni çalışmadır. İş sözleşmesine göre işçi işverene iş görmekle yükümlüdür. Bu
+çalışma bedenen olabileceği gibi fikren de olabilmektedir.
+
+Ücret, işçinin yaptığı işin karşılığı olup işveren veya üçüncü kişilerce işçiye sağlanan para
+veya parasal değeri bulunan menfaatlerden oluşan gelirdir. Ücret sözleşmelerde zorunlu unsurdur.
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+ALO
+
+17/0)
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+Taraflar sözleşmede ücreti ve zaman esasına göre tespit edebileceği gibi parça başına da
+belirleyebilmektedirler.
+
+Bağımlılık, iş sözleşmesinin en ayırıcı unsurudur. İşin yapılması sırasında işverenin
+talimatlarına sıkı sıkıya bağlı olunması ve işverence denetlenmesi anlamına gelmektedir.
+Bağımlılık unsuru iş sözleşmesini eser ve vekalet akdi gibi sözleşmelerden ayırmaktadır. Eser
+sözleşmede işi yapan bir bedel karşılığı olarak iş sahibine bir eser yapıp teslim ederken bağımsız
+hareket eder, işverenden emir almaz bu da eser akdini hizmet akdinden ayıran en önemli
+belirleyiciliktir.
+
+İstisna sözleşmelerinde iş sahibi ile yüklenici arasında yapılan bir anlaşma ile önceden
+kararlaştırılan belli bir bedel karşılığı iş sahibinin denetimi olmadan bağımsız bir çalışma ile bir
+nesnenin yapımı, onarımı, bakımı yada üstlenilen işin yerine getirilmesi esastır.
+
+Diğer bir anlatımla bir iş ilişkisinin hizmet akdine dayanıyor olabilmesi için belirli bir işin,
+işverene bağımlı olarak çalışma karşılığında bir ücret karşılığında yapılması gerekmektedir. Bu
+bakımdan hizmet akdinde sürdürülen ve devam eden hizmet, istisna akdinde ise işten hasıl olacak
+sonuç önemlidir. İstisna akdine göre çalışanların 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendine göre sigortalı sayılmaları mümkün değildir.
+
+506 sayılı Kanunun mülga 3 üncü maddesinin (VA) bendi gereğince, 1/1/1984 tarihi
+itibariyle yapılan düzenleme ile kamu sektörüne ait tarım ve orman işlerinde ücretle, özel sektöre
+ait tarım ve orman işlerinde ücretle ve sürekli olarak, tarım sanatlarına ait işlerde, tarım
+işyerlerinde yapılan ve tarım işlerinden sayılmayan işlerde, tarım işyeri sayılmayan işyerlerinin
+park, bahçe, fidanlık ve benzeri işlerinde çalışanlar hariç olmak üzere tarım işlerinde çalışanlar
+30/9/2008 tarihine kadar, 2008 yılı Ekim ayı başında yürürlüğe giren 5510 sayılı Kanunun 6 ncı
+maddesinin (1) bendi gereğince de kamu idarelerinde ve 6111 sayılı Kanunla yapılan düzenleme ile
+5510 Kanunun ek 5 inci maddesi kapsamında sayılanlar hariç olmak üzere tarım işlerinde veya
+orman işlerinde hizmet akdiyle süreksiz işlerde çalışanlar sigortalı sayılmamışlardır.
+
+6831 sayılı Orman Kanununun 40 ıncı maddesi gereğince, devlet ormanlarında
+ağaçlandırma, bakım, imar, yol yapımı, kesme, toplama, taşıma, imal gibi orman işleri, işyerinin ve
+işyerinde çalışacakların hangi mülki hudut ve orman teşkilatı hudutları içerisinde kaldığına
+bakılmaksızın, öncelikle işyerinde veya civarındaki orman köylerini kalkındırma kooperatiflerine
+ve işyerindeki köylülere veya işyeri civarındaki orman işlerinde çalışan köylülere birim fiyat
+(vahidi fiyat) usulüne göre yaptırılmaktadır. Söz konusu hüküm gereğince Orman ve Su İşleri
+Bakanlığına bağlı Orman Genel Müdürlüğü ve bölge müdürlükleri ile Çevre ve Şehircilik
+Bakanlığına bağlı il müdürlükleri aracılığıyla 6831 sayılı Kanunda belirtilen işler öncelikli olarak
+orman köylüleri tarafından kurulan kalkındırma kooperatiflerine, köy tüzel kişiliklerine ve
+köylülere verilmektedir.
+
+24/9/1989 tarihli ve 19231 sayılı Resmi Gazetede yayımlanan Orman Emvalinin İstihsaline
+Ait Yönetmeliğin 9 uncu maddesi gereğince, yapılacak kesme, taşıma, imal, toplama ve istif gibi
+istihsal işlerinin, Devlet Orman İşletmesi ve Döner Sermayesi Yönetmeliğinin ilgili hükümlerine
+göre sırası ile birim fiyat, taahhüt ve gündelikle aşağıdaki esaslara göre yapılacağı,
+
+İstihsal işlerine ait birim fiyatların Orman Genel Müdürlüğünce tespit edilecek esaslara göre
+hesaplandıktan sonra, yaptırılacak işin çeşidine göre birim fiyat kararları ve şartnameleri
+düzenleneceği, bunların 6831 sayılı Kanunun 40 ıncı maddesinde belirtilen Kooperatiflere
+tebligatla, köylülere ilan edilmek üzere köy muhtarlığına bildirileceği,
+
+Yukarıda belirtilen ilan ve tebligata rağmen 6831 sayılı Orman Kanununun 40 ncı
+maddesinin 2 nci fıkrasında sayılan hallerde, işin birim fiyatla yaptırılamayacağı tespit olunduğu
+takdirde, Döner Sermaye Yönetmeliğinin ilgili hükümlerine göre yetki sınırları içerisinde alınacak
+izinle istihsal işlerinin taahhüt ile yaptırılacağı öngörülmüştür.
+
+Orman İdarelerinden orman içi kesim, istif, sürütme ve taşıma, üretim, gençleştirme,
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+
+ALO
+
+17/0
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+iyileştirme işleri ile bu işlerin yan işlerini alan, yapılan sözleşme gereği vahidi fiyat (birim fiyat)
+esasına göre sonuçlandıran yüklendiği işte belli mesai saatlerine bağlı olmayan ve bu yönüyle de
+çalışma biçim ve koşulları bakımından bağımsız çalışanların iş aldıkları daire ile aralarındaki bağ
+istisna (eser) akdi sayıldığından bu kişilerin gerek 506 gerekse 5510 sayılı Kanunda hizmet akdine
+tabi sigortalı sayılmamaları gerekmektedir.
+
+Yine, orman idarelerinin bu tür işleri vahidi fiyat üzerinden çalışacak gerçek kişilere
+vermeyip orman köylülerinin kurmuş oldukları orman köylülerini kalkınma kooperatiflerine
+vermeleri durumunda, söz konusu kooperatiflerin kendi üyeleri olan orman köylüleri dışında işçi
+çalıştırmaları Orman Kanununun 34 üncü maddesine göre mümkün olmadığından kooperatif ve
+üyeleri arasındaki çalışma usul ve esasları da vahidi fiyat esasına dayalı yani istisna akdi
+niteliğinde olduğu müddetçe kooperatif üyelerinin de hizmet akdine tabi sigortalı sayılmamaları
+gerekmektedir.
+
+Ancak, orman kalkınma kooperatifi tarafından alınan işin kooperatif üyeleri dışındaki
+kişilere yaptırılması ya da köy tüzel kişiliğine verilen işin köylüler dışındaki kişilere ihale usulüyle
+yaptırılması halinde bu işlerin hizmet akdi olarak değerlendirilmesi gerekmektedir.
+
+Buna göre, tarım veya orman işlerinde çalıştırılan kişilerin 5510 sayılı Kanun kapsamındaki
+sigortalılık durumlarının belirlenmesinde yukarıdaki açıklamaların dikkate alınarak işlem
+yapılması gerekmektedir.
+
+Bilgi edinilmesini ve gereğini rica ederim.

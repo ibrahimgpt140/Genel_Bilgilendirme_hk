@@ -1,0 +1,560 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/131754
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2010/117
+ADI: 2010/117 SAYILI İSTEĞE BAĞLI SİGORTA İŞLEMLERİ KONULU GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 2f2ebfc7fca3fe79852f452bba8049f3cc0c0f9895792080259df1b4a3bd5881
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+Sayı : B.13.2.SGK.0.10.03.00-
+Konu : İsteğe Bağlı Sigorta İşlemleri.                                                            20/10/2010
+
+
+
+                                               GENELGE
+                                                2010/117
+
+
+
+        1- Genel Açıklamalar
+
+         Sosyal Sigorta İşlemleri Yönetmeliği 12/5/2010 tarihli ve 27579 sayılı Resmi
+Gazetede yayımlanmış bulunmaktadır. Söz konusu Yönetmeliğin isteğe bağlı sigortalılığın
+sona ermesi ve yeniden başlamasına ilişkin 95 inci maddesinde yapılan düzenleme ile
+sigortalılara 12 aylık sorgulama süresini beklemeksizin prim ödemelerine göre hizmet süresi
+tespiti imkanı sağlanmıştır.
+         Diğer taraftan, İsteğe Bağlı Sigorta İşlemleri Hakkında Tebliğ 1/7/2010 tarihli ve
+27628 sayılı Resmi Gazetede yayımlanmıştır.
+         Sosyal Sigorta İşlemleri Yönetmeliği ve İsteğe Bağlı Sigorta İşlemleri Hakkında
+Tebliğ ile getirilen değişiklikler doğrultusunda isteğe bağlı sigortalılarla ilgili yapılacak
+işlemler aşağıda açıklanmıştır.
+
+        2- İsteğe Bağlı Sigortalılığın Sona Ermesi
+
+        2.1- Yazılı taleple sona erme
+        5/1/2009 tarihli ve 2009/5 sayılı Genelgenin “3.2.1- Yazılı talepte bulunmak” başlıklı
+bölümünde isteğe bağlı sigortalılığını sona erdirme talebinde bulunanların sigortalılıklarının
+talepte bulunulan ayın primi ödenmemişse talep tarihinden önceki primi ödenmiş ayın sonunu
+takip eden günden itibaren, talepte bulunulan ayın primi ödenmişse dilekçenin Kurum
+kayıtlarına intikal ettiği tarihi takip eden günden itibaren sona erdirileceği belirtilmiştir.
+Ancak durdurma dilekçesinin verildiği günü takip eden gün itibariyle bir günlük hizmet
+oluşmaması amacıyla isteğe bağlı sigortalılığını yazılı taleple sona erdirenler hakkında (4/b)
+bilgisayar programlarında (01-işi bırakma) ve (05-isteğe bağlı sigortalılık) kodları
+kullanılarak aşağıdaki şekilde işlem yapılacaktır.
+        a) Yazılı talep tarihi itibariyle prim borcu bulunmayan isteğe bağlı sigortalıların
+sigortalılıkları talep tarihi itibariyle sona erdirilecektir.
+
+        Örnek- 12/8/2010 tarihinde isteğe bağlı sigortalılığını sona erdirmek için talepte
+bulunan ve talep tarihinin içinde bulunduğu 2010 yılı Ağustos ayı primi dahil hiç prim borcu
+bulunmayan sigortalı (A)’nın isteğe bağlı sigortalılığı 12/8/2010 tarihi itibariyle sona
+erdirilecektir.
+
+       b) Talepte bulunulan ayın primi ödenmemişse, talep tarihinden önceki primi ödenmiş
+ayın sonu itibariyle isteğe bağlı sigortalılık sona erdirilecektir.
+
+        Örnek- İsteğe bağlı sigortalılığını sona erdirmek için 22/11/2010 tarihinde talepte
+bulunan sigortalı (B), en son 2010 yılı Ekim ayı primini ödemiştir. Bu sigortalının isteğe bağlı
+sigortalılığı (01) kodu ile 31/10/2010 tarihi itibariyle sona erdirilecektir.
+
+                                                                                                             1/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+        2.1.1- Prim ödemesi olmayan sigortalılar
+        İsteğe bağlı sigortalılığın başladığı tarihten itibaren prim ödemesi bulunmayanların
+yazılı olarak sigortalılıklarını sona erdirme talebinde bulunmaları halinde, isteğe bağlı
+sigortalılıkları başlangıç tarihi itibariyle sona erdirilecektir. Sigortalılığın başlangıç tarihi
+itibariyle sona erdirilmesinde (01) kodu kullanılacaktır. İsteğe bağlı sigortalılığı bu şekilde
+sona erenler yeniden isteğe bağlı sigortalı olmak istemeleri halinde talep dilekçesi ile
+müracaat edeceklerdir.
+
+        Örnek- 7/6/2010 tarihinde isteğe bağlı sigortalılığı başlayan, 19/11/2010 tarihinde
+isteğe bağlı sigortalılığını durdurmak için yazılı talepte bulunan ve sigortalılık süresi içinde
+prim ödemesi olmayan sigortalı (C)’nin isteğe bağlı sigortalılığı 7/6/2010 tarihi itibariyle (01)
+kodu ile sona erdirilecektir.
+
+        2.1.2- Prim borcu bulunan sigortalılar
+        Yazılı talep tarihi itibariyle sigortalılık süresi içerisinde bir veya birden çok aya ait
+prim borcu bulunanların sigortalılıkları yazılı talep tarihinden önce en son primi ödenmiş ayın
+sonu itibariyle sona erdirilecek, ödenmediği tespit edilen primler 12 aylık sorgulama süresi
+dikkate alınarak gecikme zammı ve gecikme cezası ile birlikte tahsil edilecektir. 12 aylık
+sorgulama süresi sonunda primi ödenmiş sürelere ilişkin sigortalılık süresi tespiti işlemleri
+program oluşturuluncaya kadar manuel yapılacaktır.
+
+        Örnek 1- 16/12/2009 tarihinde isteğe bağlı sigortalılığı başlayan ve 19/7/2010
+tarihinde isteğe bağlı sigortalılığını durdurmak için talepte bulunan sigortalı (D), en son 2010
+yılı Haziran ayı primini ödemiş, 12 aylık sorgulama süresi içinde bulunan 2010 Ocak ve
+Nisan aylarına ait primlerini ödememiştir. Bu sigortalının isteğe bağlı sigortalılığı 30/6/2010
+tarihi itibariyle sona erdirilecek, 2010 Ocak ve Nisan aylarına ait primlerinin 12 aylık
+sorgulama süresi içinde ve 15/8/2010 tarihinde gecikme zammı ve gecikme cezası ile birlikte
+tahsil edildiği varsayıldığında, sigortalılık süreleri,
+        16/12/2009-30/06/2010 (01)
+        olacaktır.
+
+        Örnek 2- Örnek 1’deki sigortalının 2010 Ocak ve Nisan aylarına ait primlerini 12
+aylık sorgulama süresi içinde ödenmemesi halinde, bu defa isteğe bağlı sigortalılığı 30/6/2010
+tarihinde sona erdirilecek, sigortalılık süresi;
+             16/12/2009 - 31/12/2009 (01)
+        (05) 01/02/2010 - 31/03/2010 (01)
+        (05) 01/05/2010 - 30/06/2010 (01)
+        olacaktır.
+
+        Örnek 3- İsteğe bağlı sigortalı iken 17/10/2011 tarihinde isteğe bağlı sigortalılığını
+durdurmak için talepte bulunan sigortalı (E), en son 2011 yılı Ağustos ayı primini ödemiş,
+2008 yılı Ekim, 2009 yılı Mayıs ve 2011 yılı Nisan aylarına ait primlerini ödememiştir. Bu
+sigortalının isteğe bağlı sigortalılığı 31/8/2011 tarihi itibariyle sona erdirilecek, 2008 yılı
+Ekim, 2009 yılı Mayıs aylarına ait primlerin 12 aylık ödeme süresi geçtiğinden bu sürelere ait
+primler tahsil edilmeyecek 12 aylık sorgulama süresi içerisindeki 2011 yılı Nisan ayı priminin
+30/3/2012 tarihine kadar gecikme zammı ve gecikme cezası ile birlikte tahsil edilmesi halinde
+sigortalılık süreleri;
+              .…/…/…... - 30/09/2008 (01)
+        (05) 01/11/2008 - 30/04/2009 (01)
+        (05) 01/06/2009 - 31/08/2011 (01)
+                                                                                                             2/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+        olarak dikkate alınacaktır.
+
+       2.1.3- 12 aylık sorgulama süresi beklenmeksizin hizmet sürelerinin tespiti
+       Yazılı talep tarihi itibariyle sigortalılık süresi içerisinde bir veya birden çok aya ait
+prim borcu bulunan ve talep tarihinde veya daha sonraki bir tarihte örneği ekli “12 Aylık
+Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi ile 12 aylık
+sorgulama süresi içindeki prim borcunu ödemek istemediğini beyan eden sigortalıdan prim
+borcu tahsil edilmeyecek, isteğe bağlı sigortalılık süreleri primi ödenen sürelere göre tespit
+edilecektir. 12 aylık sorgulama süresi beklemeksizin hizmet tespiti isteyen sigortalılardan “12
+Aylık Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi alınmadan
+işlem yapılmayacaktır.
+
+       Örnek 1- 14/3/2009 tarihinde isteğe bağlı sigortalılığı başlayan ve 16/6/2011 tarihinde
+isteğe bağlı sigortalılığını durdurmak için talepte bulunan sigortalı (F), en son 2011 yılı
+Haziran ayı primini ödemiş 2009 yılı Mayıs ayı ile 2010 yılı Eylül, Kasım ve Aralık aylarını
+ödememiştir. Sigortalı talep tarihi itibariyle “12 Aylık Sorgulama Süresine Göre İsteğe Bağlı
+Sigortalılık Süresi Tespiti” dilekçesi ile prim borçlarını ödemek istemediğini yazılı olarak
+beyan etmiştir. Bu durumda, 2009 yılı Mayıs ayı için 12 aylık ödeme süresi geçtiği, 2010 yılı
+Eylül, Kasım ve Aralık ayları 12 aylık sorgulama süresi içinde olmakla birlikte
+ödemeyeceğini beyan ettiği için sigortalılık süreleri;
+             14/03/2009 - 30/04/2009 (01)
+       (05) 01/06/2009 - 31/08/2010 (01)
+       (05) 01/10/2010 - 31/10/2010 (01)
+       (05) 01/01/2011 - 16/06/2011 (01)
+       olacaktır.
+
+        Örnek 2- İsteğe bağlı sigortalı iken 25/5/2010 tarihinde isteğe bağlı sigortalılığını
+durdurmak için talepte bulunan sigortalı (G), en son 2009 yılı Aralık ayı primini ödemiş, 2009
+yılı Temmuz, Eylül ve Ekim aylarına ait primlerini ödememiş, 15/6/2010 tarihinde de 12
+aylık sorgulama süresi içinde olan prim borçlarını ödemeyeceğini “12 Aylık Sorgulama
+Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi yazılı olarak beyan etmiştir.
+Bu durumda, 12 aylık sorgulama süresi içinde olan 2009 yılı Temmuz, Eylül ve Ekim aylarına
+ait primler tahsil edilmeyecek, isteğe bağlı sigortalılık 31/12/2009 tarihi itibariyle sona
+erdirilecek, sigortalılık süreleri ise;
+             .…/…./.…. - 30/06/2009 (01)
+        (05) 01/08/2009 - 31/08/2009 (01)
+        (05) 01/11/2009 - 31/12/2009 (01)
+        olacaktır.
+
+        2.2- Aylık talebinde bulunmak
+        İsteğe bağlı sigortalılardan aylık talebinde bulunanların sigortalılıkları, aylığa hak
+kazanmış olmak ve talepte bulunduğu ay dahil prim ve prime ilişkin her türlü borcunun
+ödenmiş olması şartıyla aylık talep tarihi itibariyle sona erdirilecektir. Aylık talep tarihi
+itibariyle prim borcu bulunan veya bulunmayan sigortalılar hakkında aşağıdaki şekilde işlem
+yapılacaktır.
+
+        2.2.1- Aylık talep tarihi itibariyle prim borcu bulunmayan sigortalılar
+        Aylık talep tarihi itibariyle prim borcu bulunmayan isteğe bağlı sigortalıların
+sigortalılıkları, aylık talep tarihi itibariyle sona erdirilecektir. Sigortalılığın bu şekilde sona
+
+                                                                                                             3/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+ermesi halinde bağlanacak aylığın türüne göre (07) yaşlılık aylığı talebi, (12) malullük aylığı
+talebi, (15) ölüm aylığı talebi kodlarından biri ile çıkış verilecektir.
+
+       Örnek- 16/8/2012 tarihinde yaşlılık aylığı talebinde bulunan ve talep tarihinin içinde
+bulunduğu Ağustos ayı primi dahil prim borcu bulunmayan sigortalı (H)’nin aylığa hak
+kazandığının tespiti halinde isteğe bağlı sigortalılığı 16/8/2012 tarihi itibariyle (07) kodu ile
+sona erdirilecektir.
+
+        2.2.2- Aylık talep tarihi itibariyle prim borcu bulunan sigortalılar
+        Aylık talep tarihi itibariyle isteğe bağlı sigortaya ilişkin prim borcu bulunan
+sigortalıların, primi ödenmiş süreler ile aylığa hak kazanmaları durumunda, aylık talep
+tarihinde ya da daha sonraki bir tarihte prim ödenen sürelere göre isteğe bağlı sigortalılık
+sürelerinin tespitini istemeleri durumunda “2.1.3” başlıklı bölümde belirtildiği şekilde işlem
+yapılacaktır.
+
+         2.2.2.1- Aylık talep tarihi itibariyle prim borcu bulunup 4 üncü maddenin birinci
+fıkrasının (b) bendine göre aylık bağlanacak olan sigortalılar
+         Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine göre aylık bağlanacak
+sigortalıların aylık talep tarihi itibariyle prim ve prime ilişkin borcu bulunmaması gerekmekte
+olup, prim borcunu ödemeyen sigortalının aylık talebi reddedilecek, isteğe bağlı sigortalılığı
+yeni bir talep alınmaksızın devam ettirilecektir. Sigortalıya prim ödenmiş sürelerle aylığa hak
+kazandığı ancak aylık talebinin prim borcundan dolayı reddedildiği, borcunu ödemek
+istemediğine ilişkin yazılı beyanda bulunması halinde sigortalılık süresinin prim ödemelerine
+göre belirleneceği hususunda bilgi verilecektir. Primi ödenmiş sürelerle aylığa hak kazanan
+sigortalılardan prim borcu bulunanların, tahsis talep tarihinde ya da daha sonraki bir tarihte 12
+aylık sorgulama süresini beklemeksizin isteğe bağlı sigortalılık süresinin tespitine ilişkin “12
+Aylık Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi ile
+müracaat etmeleri halinde sigortalılık süreleri “2.1.3” başlıklı bölümde belirtildiği şekilde
+tespit edilerek, aylık talebi geçerli sayılacaktır.
+         Sigortalıların isteğe bağlı hizmet sürelerinin tespitine ilişkin “12 Aylık Sorgulama
+Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi ile müracaatta
+bulunmamaları halinde isteğe bağlı sigortalılıkları yeni aylık talebine kadar devam
+ettirilecektir.
+
+        Örnek 1- 1/11/1985 tarihinde sigortalılığı başlayan ve 19/10/2010 tarihinde tahsis
+talebinde bulunan sigortalı (I), 2010 yılı Ağustos ayı primini ödemiş, 12 aylık sorgulama
+süresi içindeki 2010 Nisan ve Haziran aylarına ait primlerini ödememiştir. Sigortalı tahsis
+talep tarihi itibariyle söz konusu prim borçlarını ödemeyeceğini “12 Aylık Sorgulama
+Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi ile yazılı olarak beyan
+etmiştir. Bu durumda isteğe bağlı sigortalılık 31/8/2010 tarihi itibariyle sona erdirilecek, 12
+aylık süre beklenmeden ödenen sürelere göre isteğe bağlı sigortalılık süreleri;
+            01/11/1985 - 31/03/2010 (01)
+       (05) 01/05/2010 - 30/05/2010 (01)
+       (05) 01/07/2010 - 31/08/2010 (01)
+        olacaktır. Bu sigortalının aylığı tahsis talep tarihini takip eden aybaşından (1/11/2010)
+itibaren başlatılacaktır.
+
+        Örnek 2- Primi ödenmiş hizmetleri ile aylığa hak kazanan sigortalı (İ) 28/12/2010
+tarihinde aylık talebinde bulunmuştur. Sigortalı (İ)’nin 2010 yılı Şubat ve Mart aylarına ait
+primlerini ödemediği anlaşıldığından aylık talebi reddedilerek isteğe bağlı sigortalılığı devam
+                                                                                                             4/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+ettirilmiştir. Sigortalının 15/3/2011 tarihinde prim borcunu ödemek istemediğine ilişkin “12
+Aylık Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi Tespiti” dilekçesi verdiği
+varsayıldığında sigortalılık süreleri;
+               …./.…/.…. - 31/01/2010 (01)
+        (05) 01/04/2010 - 28/12/2010 (07)
+        olacaktır. Bu sigortalının aylığı tahsis talep tarihini takip eden aybaşından (1/1/2011)
+itibaren başlatılacaktır.
+
+         Örnek 3- Örnek 1 ve 2’deki sigortalıların isteğe bağlı sigortalılık süresi tespiti için
+beyanda bulunmamaları halinde aylık talepleri reddedilerek isteğe bağlı sigortalılıkları devam
+ettirilecektir.
+
+        2.2.2.2- Aylık talep tarihi itibariyle prim borcu bulunup 4 üncü maddenin birinci
+fıkrasının (a) bendine göre aylık bağlanacak olan sigortalılar
+        5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine göre isteğe bağlı
+sigortalı olup 2829 sayılı Kanunun mülga 8 inci maddesi gereğince 5510 sayılı Kanunun 4
+üncü maddesinin birinci fıkrasının (a) bendi kapsamında aylık bağlanacak isteğe bağlı
+sigortalıların aylık talep tarihinde (b) bendi kapsamında prim ve prime ilişkin borcunun
+bulunması halinde tahsis talebi, borçlarını ödediği tarih itibariyle geçerli sayılmaktadır.
+        İsteğe bağlı sigortalıların primi ödenmiş sürelerle aylığa hak kazandığının tespit
+edilmesi halinde sigortalıların aylık talep tarihi ya da daha sonraki bir tarihte borcunu ödemek
+istemediğine ilişkin “12 Aylık Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi
+Tespiti” dilekçesi ile talepte bulunması halinde sigortalılık süresi prim ödemelerine göre
+belirlenecektir.
+
+        Örnek- 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında çalışmaları bulunan ve en son isteğe bağlı sigortaya devam eden sigortalı (J)
+19/11/2010 tarihinde aylık talebinde bulunmuştur. Sigortalı 12 aylık sorgulama süresi içinde
+bulunan 2009 yılı Ocak, Eylül, Ekim ve Kasım aylarına ait primlerini ödememiş olup
+21/12/2010 tarihinde “12 Aylık Sorgulama Süresine Göre İsteğe Bağlı Sigortalılık Süresi
+Tespiti” dilekçesi ile yazılı beyanda bulunduğu varsayıldığında sigortalılık süresi;
+             .…/…./.…. - 31/12/2008 (01)
+        (05) 01/02/2009 - 31/08/2009 (01)
+        (05) 01/12/2009 - 19/11/2010 (07)
+        olacaktır. Aylığı tahsis talep tarihini takip eden 1/12/2010 tarihinden itibaren
+başlatılacaktır.
+
+        11/9/2009 tarihli ve 2009/114 sayılı Genelgenin “III.A-3) 4 (a) kapsamında aylık
+bağlanmasına hak kazanıp 4 (b) kapsamında hizmeti bulunanlardan faaliyeti sona erenler”
+başlıklı bölümünün (d) bendi isteğe bağlı sigortalılar yönünden yukarıda belirtildiği şekilde
+uygulanacaktır.
+
+       2.2.2.3- İsteğe bağlı sigortalılık hizmet süresi tespiti talebinden vazgeçme
+       Aylık talep tarihinde prim ödemeyeceğini “12 Aylık Sorgulama Süresine Göre İsteğe
+Bağlı Sigortalılık Süresi Tespiti” dilekçesi ile beyan eden isteğe bağlı sigortalılardan yapılan
+hizmet tespiti sonucunda aylığa hak kazanamadığı belirlenenlerden yazılı olarak talepte
+bulunanların beyanları geçersiz sayılarak isteğe bağlı sigortalılıkları yeni aylık talebine kadar
+devam ettirilecektir.
+
+
+                                                                                                             5/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+        Örnek- İsteğe bağlı sigortalılığı devam ederken 29/5/2010 tarihinde aylık talebinde
+bulunan sigortalı (K)’nın 2010 yılı Nisan ve Mayıs ayı primlerini ödemediği anlaşılmış
+sigortalının 3/8/2010 tarihinde isteğe bağlı sigortalılık sürelerinin tespitine ilişkin yazılı
+beyanına istinaden sigortalılık süreleri belirlenmiş, ancak yapılan incelemede aylık bağlamaya
+ilişkin gün sayısının 30 gün eksik olduğu tespit edilmiştir. Bu durumda sigortalının aylık
+talebi ve beyanı geçersiz sayılarak isteğe bağlı sigortalılığı devam ettirilecektir.
+        Sigortalının 8/8/2010 tarihinde 12 aylık sorgulama süresi içinde bulunan Nisan ayı
+primini 28/8/2010 tarihinde ödemesi, aynı gün yada daha sonraki bir tarihte aylık talebinde ve
+isteğe bağlı sigortalılık sürelerinin tespitine ilişkin yazılı beyanda bulunması halinde
+sigortalılık süresi;
+        .…/…./.…. - 30/4/2010 (01)
+        olacaktır.
+
+        3- İsteğe Bağlı Sigortalılığın Zorunlu Sigortalılıkla Çakışması
+
+        3.1- İsteğe bağlı sigortalılığın başladığı tarihteki çakışmalar
+        Ay içerisinde 30 günden az çalışan veya 80 inci madde uyarınca prim ödeme gün
+sayısı, ay içindeki toplam çalışma saatinin 4857 sayılı Kanuna göre belirlenen günlük normal
+çalışma saatine bölünmesi suretiyle hesaplanan gün sayısı 30 günden az olması nedeniyle
+kalan günlerini isteğe bağlı sigorta primi ödeyerek tamamlamak isteyen sigortalılar hariç
+olmak üzere isteğe bağlı sigortaya devam etmek için yazılı başvuruda bulunanlardan
+yapılacak sorgulama sonucunda 5510 sayılı Kanuna göre zorunlu sigortalı olduğu tespit
+edilenlerin isteğe bağlı sigortalılık talepleri reddedilecektir. Ancak, isteğe bağlı sigortalılığın
+başladığı tarihte 5510 sayılı Kanunun 4 üncü maddesi kapsamında zorunlu çalışması olduğu
+sonradan tespit edilenlerin isteğe bağlı sigortalılıkları zorunlu sigortalılığın sona erdiği tarihi
+takip eden günden itibaren başlatılacaktır.
+
+        Örnek 1- 28/8/2010 tarihinde isteğe bağlı sigortalı olmak için Kuruma başvuran
+sigortalı (L)’nin, yapılan incelemede isteğe bağlı sigortalılığın başlayacağı 29/8/2010
+tarihinde zorunlu sigortalı olduğu anlaşıldığından isteğe bağlı sigortalılık talebi
+reddedilecektir.
+
+         Örnek 2- İsteğe bağlı sigortalılığın başlangıç tarihinde zorunlu sigortalılığının devam
+ettiği tespit edilemeyen sigortalı (M)’nin 15/1/2010 tarihi itibariyle isteğe bağlı sigortalılığı
+başlatılmıştır. Daha sonra yapılan incelemede 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendine tabi sigortalılığının 4/3/2010 tarihine kadar devam ettiği tespit
+edildiğinden sigortalının isteğe bağlı sigortalılığı zorunlu sigortalılığının sona erdiği tarihi
+takip eden gün olan 5/3/2010 tarihi itibariyle başlatılacaktır.
+
+        3.2- İsteğe bağlı sigortalılığın devam ettiği tarihteki çakışmalar
+        İsteğe bağlı sigortalılığı devam ederken 4 üncü maddeye göre sigortalı olmayı
+gerektirecek çalışması bulunduğu tespit edilenlerin zorunlu sigortalılıkla çakışan isteğe bağlı
+sigortalılık süreleri iptal edilerek zorunlu sigortalılığın başladığı tarihten bir gün önce sona
+erdirilecektir. Bu sigortalılardan zorunlu sigortalılığın sona erdiği tarihten itibaren 12 ay
+içerisinde prim ödemesi olanların isteğe bağlı sigortalılıkları, zorunlu sigortalılığın sona erdiği
+tarihten bir gün sonra başlatılacaktır. 12 ay içerisinde prim ödememesi nedeniyle isteğe bağlı
+sigortalılıkları başlatılmayanların yeniden isteğe bağlı sigortalı olmak için yazılı talepte
+bulunmaları gerekecektir.
+
+
+                                                                                                             6/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+        Örnek 1- İsteğe bağlı sigortalılığı 23/1/2009 tarihinde başlayan sigortalı (N)
+13/3/2009-24/8/2009 tarihleri arasında 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendine tabi çalışmış aynı zamanda isteğe bağlı sigortaya ilişkin primlerini de
+ödemeye devam etmiştir. Sigortalı (N)’nin zorunlu sigortalılığı ile çakışan 13/3/2009-
+24/8/2009 tarihleri arasındaki isteğe bağlı sigorta hizmetleri iptal edilecek, isteğe bağlı
+sigortalılık süresi,
+
+             23/01/2009 - 12/03/2009 (01)
+        (05) 25/08/2009 - …./…./…..
+        olacaktır.
+
+        Örnek 2- Örnek 1’deki sigortalı isteğe bağlı sigorta primlerini zorunlu sigortalılığın
+sona erdiği tarihten sonra 15/3/2010 tarihinde ödemiş olduğu varsayıldığında isteğe bağlı
+sigortalılık başlangıç tarihi zorunlu sigortalılığın sona erdiği tarihi takip eden 25/08/2009
+tarihi olacaktır.
+
+        Örnek 3- Örnek 1’deki sigortalının zorunlu sigortalılığının sona erdiği 24/8/2009
+tarihinden itibaren 12 aylık sürede prim ödemediği varsayıldığında isteğe bağlı sigortalılığı
+12/3/2009 tarihinde sona erdirilecek, zorunlu sigortalılık sona erdikten sonra yeniden
+başlatılmayacaktır.
+
+        4- Diğer Hususlar
+
+        4.1- Gelir vergisinden muaf olan kadınlar
+        5510 sayılı Kanunun geçici 16 ncı maddesinden yararlanmak isteyen kadın isteğe
+bağlı sigortalılar 193 sayılı Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (6)
+numaralı bendinde belirtilen vergiden muaf işleri hizmet akdiyle herhangi bir işverene tabi
+olmaksızın sürekli ve kazanç getirici nitelikte 1/10/2008 tarihinden önce yaptıklarını
+1/10/2008 tarihinden sonra da yapmaya devam ettiklerini vergi dairelerinden alacakları
+yazılar ya da sosyal güvenlik kontrol memurları tarafından düzenlenen rapor ile tespit
+ettirerek, isteğe bağlı sigorta primlerini 2008 yılında prime esas günlük kazanç alt sınırının on
+beş katından başlamak (2009 yılı için % 16, 2010 yılı için % 17) ve her yıl birer puan
+artırılmak suretiyle daha düşük tutarda ödemektedirler.
+        Geçici 16 ncı madde uygulamasından, 506, 1479, 2925, 2926 ve 5434 sayılı Kanunlara
+göre sigortalı/iştirakçi olarak tescilleri yapılmış olup zorunlu sigortalıkları ya da isteğe bağlı
+sigortalılıkları sona eren, 1/10/2008 tarihinden önce 506 ve 1479 sayılı Kanunlara tabi olarak
+isteğe bağlı sigortaya prim ödeyen kadın sigortalılar yanında 1/10/2008 tarihinden önce tescili
+olmayan 1/10/2008 tarihinden sonra ilk defa isteğe bağlı sigortalı olmak için talepte bulunan
+kadın sigortalılar da yararlanacaklardır.
+        1/7/2010 tarihli ve 27628 sayılı Resmi Gazetede yayımlanan İsteğe Bağlı Sigorta
+İşlemleri Hakkında Tebliğin yayımı tarihinden önce isteğe bağlı sigortalılıkları
+başlatılanlardan 1/10/2008 tarihi öncesi tescili olmadığı için geçici 16 ncı madde uygulaması
+talepleri reddedilerek isteğe bağlı sigorta primleri 30 gün karşılığı tahsil edilen sigortalıların
+ilk müracaat tarihi itibariyle haklarında geçici 16 ncı madde uygulaması yönünde talepte
+bulunmaları halinde tescil tarihi itibariyle geçici 16 ncı madde hükümleri uygulanacaktır.
+Ancak, Kanunun yürürlük tarihinin 1/10/2008 olması nedeniyle isteğe bağlı sigorta tescilleri
+bu tarih öncesine götürülmeyecektir.
+        Geçici 16 ncı madde uygulaması işlemleri (4/b) “Sigortalama İşlemleri, Sigortalı
+Tescil İşlemleri, Tescil İlk Giriş” programında “Sigorta Türü” menüsünden “Vergiden Muaf
+İsteğe Bağlı Sigortalı” alanı seçilerek yapılacaktır.
+                                                                                                             7/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+       Yapılan işlem sonucunda çıkacak fazla prim ödemesi sigortalının talebi halinde iade
+veya sigortalılık süresi içerisinde doğacak borçlara mahsup edilecektir.
+
+        Örnek 1- 2/8/2010 tarihinde isteğe bağlı sigorta giriş bildirgesi ve 193 sayılı Kanunun
+9 uncu maddesinin birinci fıkrasının (6) numaralı bendine tabi iş yaptığına ilişkin vergi
+dairesinden aldığı yazı ile Kuruma başvuran sigortalı (Ö)’nün vergi dairesinden alınan yazıda
+vergiden muaf işi 1/10/2008 tarihinden önce yaptığı anlaşılamadığından kontrol memuruna
+inceleme yaptırılmıştır. Yapılan incelemede sigortalının vergiden muaf işi 1/10/2008
+tarihinden önce yaptığı ve halen yapmaya devam ettiği tespit edildiğinden isteğe bağlı
+sigortalılığı 3/8/2010 tarihinde başlatılacak, primleri prime esas kazancın alt sınırının on yedi
+katı üzerinden tahsil edilecektir.
+
+        Örnek 2- 3/7/2009 tarihinde 193 sayılı Kanunun 9 uncu maddesinin birinci fıkrasının
+(6) numaralı bendine tabi iş yaptığını belgeleyerek isteğe bağlı sigortalılık talebinde bulunan
+sigortalı (P)’nin 1/10/2008 tarihinden önce herhangi bir tescilinin bulunmadığı gerekçesiyle
+hakkında geçici 16 ncı madde hükümleri uygulanmamıştır. Bu sigortalı hakkında “Vergiden
+Muaf İsteğe Bağlı Sigortalı” alanı seçilerek tescil tarihi itibariyle geçici 16 ncı madde
+hükümleri uygulanacaktır.
+
+        4.2- 506 sayılı Kanun kapsamında olan isteğe bağlı sigortalılardan ilgili Kanunun
+mülga 85 inci maddesine göre prim borcu bulunanlar
+        506 sayılı Kanunun mülga 85 inci maddesine göre isteğe bağlı sigortalı olanların
+1/10/2008 öncesi sigortalılık süreleri 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalılık süresi sayıldığından sigortalıların ödenmemiş
+sürelerini 5/1/2009 tarihli ve 2009/5 sayılı Genelge gereğince 1/10/2008 tarihinden sonra da
+ödeme imkanı bulunduğundan, borcun 1/10/2008 tarihinden sonra ödenmesi halinde bu
+süreler 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık süresi olarak
+değerlendirilecektir.
+        Bu durumda, tahsis talep tarihi itibariyle isteğe bağlı sigorta primi ödenmiş sürelerle
+aylığa hak kazanılmış ise eksik prim yatan günler nedeniyle yeni bir tahsis talebi alınmayacak
+ancak, prim borcu tahsil edildikten sonra aylık tahsis talebini takip eden aybaşından itibaren
+başlatılacaktır. Diğer taraftan, isteğe bağlı sigorta primi ödenmemiş sürelerle birlikte aylığa
+hak kazanılması halinde ise aylık, prim borcunun ödendiği tarihi takip eden aybaşından
+itibaren başlatılacaktır.
+        1/10/2008 tarihinden önce gösterge ve katsayı artışları, derece/kademe yükseltilmesi
+ve prime esas kazancın alt sınırında meydana gelen artışlar gibi nedenlerden dolayı eksik
+tahsil edilmiş olan herhangi bir aya ait primin eksik kısmının 1/10/2008 tarihinden sonra
+gecikme zammıyla tahsil edilmesi durumunda da aynı şekilde işlem yapılacaktır.
+
+       Örnek 1- 1/7/1998 tarihinden itibaren 506 sayılı Kanunun mülga 85 inci maddesine
+göre sigortalı olan, halen isteğe bağlı sigortaya devam eden ve 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında aylık bağlanacak olan sigortalı (R)’nin
+2008 yılı Ocak ve Şubat ayları primini ödemediği ve bu sürelerle aylığa hak kazandığı tespit
+edilmiştir. Sigortalı bu süreleri 18/4/2010 tarihinde ödemiş olup isteğe bağlı sigorta hizmeti
+18/4/2010 tarihi itibariyle geçerli sayılacak aylığı 1/5/2010 tarihinden itibaren başlatılacaktır.
+
+        Örnek 2- Örnek 1’deki sigortalıya son defa 5510 sayılı Kanunun 4 üncü maddesinin
+birinci fıkrasının (b) bendi kapsamında aylık bağlanması halinde de aynı şekilde işlem
+yapılacaktır.
+
+                                                                                                             8/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sosyal Sigortalar Genel Müdürlüğü
+
+
+        4.3- Kurum kodu kapsamında yapılacak değerlendirme işlemleri
+        1/10/2008 tarihinden önce 1479 ve 2926 sayılı kanunlara göre isteğe bağlı sigortalılığı
+bulunanların süresinde ödemiş oldukları ancak, hizmet birleştirme sonucunda basamak
+intibakı nedeniyle yeni basamak farkından doğan prim ve gecikme zammı tutarının Kurumca
+belirlenen sürede ödenmesi halinde “Kurum Kodu” kapsamında değerlendirme işlemi
+uygulaması isteğe bağlı sigortalıların 1/10/2008 öncesi hizmetleri ile sınırlı olmak kaydıyla
+devam ettirilecektir.
+
+         4.4- 5510 sayılı Kanunun 5 inci maddesinin (g) bendine tabi sigortalılar
+         5510 sayılı Kanunun 5 inci maddesinin (g) bendi kapsamında Ülkemiz ile sosyal
+güvenlik sözleşmesi olmayan ülkelerde iş üstlenen işverenlerce yurt dışındaki işyerlerinde
+çalıştırılmak üzere götürülen Türk işçileri bu kapsamdaki sigortalılıkları devam ettiği sürece
+isteğe bağlı sigortalı olabileceklerinden, bu sigortalıların takibinin doğru bir şekilde
+yapılabilmesini teminen sigortalı dosyaları önceden olduğu gibi sosyal güvenlik sözleşmesi
+imzalanmamış ülkelerde iş üstlenen işverenin işyeri sicil dosyasının işlem gördüğü sosyal
+güvenlik il müdürlüğü/sosyal güvenlik merkezinde bulunacaktır.
+
+       5510 sayılı Kanunun 5 inci maddesinin (g) bendi kapsamında sigortalı çalıştıran
+işverenlerin çalıştırdıkları sigortalıların isteğe bağlı sigorta primlerine ilişkin kayıtlarını CD
+ortamında Kuruma göndermeleri durumunda 27/11/2008 tarihli ve 819741 sayılı talimat
+gereğince CD kayıtlarının geciktirilmeksizin ilgili programa aktarılması sağlanacaktır.
+
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+                                                                                 İlyas ÇELİKOĞLU
+                                                                                  Kurum Başkanı V.
+
+
+Ek : Beyan Belgesi (1 sayfa)
+
+
+
+…../10/010 Şb.Md.      : E.CEYHUN
+…../10/2010 Şb.Md.     : H.ÇEKİNMEZ
+…../10/2010 Dai.Bşk.V.: B.HALICI
+.…./10/2010 Gen. Müd. : İ.ULAŞ
+.…./10/2010 Kur.Bşk.Yrd.: F.ACAR
+Koordinasyon:
+.…./10/2010 Sig.Em. İşl. Dai. Bşk.V.: C.CEYLAN
+.…./10/2010 Prim Tah. Dai. Bşk.V. : N.AFŞİN
+
+
+
+DAĞITIM :
+Gereği    :                                          Bilgi :
+Merkez ve Taşra Teşkilatına                          Çalışma ve Sosyal Güvenlik Bakanlığına
+
+                                                                                                             9/9
+Adres: Mithatpaşa Cad. No: 7 Sıhhiye / ANKARA Ayrıntılı bilgi için irtibat: Başar HALICI Dai.Bşk.V.
+Telefon: 0 312 458 76 01-02 Faks: 0 312 433 10 47 e-posta: sigortalimevzuat@sgk.gov.tr Elektronik Ağ: www.sgk.gov.tr
+                        SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE /
+                           SOSYAL GÜVENLİK MERKEZİNE
+                                                  ………………
+
+
+
+
+        5510 sayılı Kanunun 50 nci maddesi kapsamında …………..………….. sosyal güvenlik
+numarası, …………….. Bağ-Kur numarasıyla isteğe bağlı sigortalı iken …./…./….. tarihinde
+sigortalılığımı sona erdirdim/aylık talebinde bulundum.
+        İsteğe bağlı sigortalılık sürelerimin 12 aylık sorgulama süresi beklenmeksizin, ödemiş
+olduğum primlere göre tespit edilerek tarafıma bilgi verilmesini arz ederim.
+
+
+
+
+                                                                            Adı soyadı
+                                                                              İmza
+
+
+
+
+Adres :
+…………………………………
+…………………………………
+…………………………………
+Telefon (Cep/Ev/İş) :
+e-mail              :
+

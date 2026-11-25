@@ -1,0 +1,66 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/140763
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 2307223
+ADI: KISA VADELİ SİGORTA UYGULAMALARI HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 8ad611373313d0240d24125706981a0c375ecec062af46df4cb5b79aa4c9f742
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ASAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı : 96597630-204-E.2307223 05/04/2018
+Konu : Kısa Vadeli Sigorta Uygulamaları
+GENEL YAZI
+
+Kısa vadeli sigorta uygulamaları konusunda aşağıda yer alan program düzenlemeleri
+yapılarak uygulamaya açılmıştır.
+
+1-İş kazası ve meslek hastalığı bildirimleri
+
+2016/21 sayılı Genelgenin “2.1.1.İş Kazasının Tespiti” başlıklı bölümünde belirtildiği
+üzere, sosyal güvenlik il//merkez müdürlüklerinde kısa vadeli sigorta servisi veya iş kazası tespit
+komisyonu tarafından ya da denetim vasıtası ile iş kazası tespiti yapılabilmektedir.
+
+Resen tespit edilen ve işveren tarafından iş kazası bildirimi yapılmamış olan vakaların da
+istatistiklere yansıması amacıyla “iş kazası bildirim girişi” menüsüne, bildirim tipi olarak “resen
+tespit” seçeneği eklenmiştir.
+
+İşveren bildirimi olmaksızın iş kazası tespiti yapılan vakalar, söz konusu menü üzerinde
+"resen tespit" seçimi yapılarak kaydedilecek ve bu sayede istatistiklere yansıması sağlanacaktır.
+
+Benzer şekilde, işten ayrıldıktan sonra meslek hastalığı tespiti için başvuran ve meslek
+hastalığı tespiti yapılanlar için daha önceki işverenleri tarafından kağıt veya elektronik ortamda
+bildirim yapılamaması halinde, Kurum sağlık kurulu kararı esas alınarak "meslek hastalığı
+bildirim girişi" menüsünde yer alan "resen tespit" seçimi yapılarak kaydedilecek ve meslek
+hastalığı vakasının istatistiklere yansıması sağlanacaktır.
+
+2-İş kazası bildirimlerin silinerek güncellenmesi
+
+Meydana gelen iş kazası ve meslek hastalığı vakalarında işveren tarafından yapılan
+bildirimlerin silinmesi işlemi Kısa Vadeli Sigortalar Daire Başkanlığınca yapılmakta idi. Söz
+konusu yetki sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezlerine devredilmiştir. Buna göre,
+işverenlerin hatalı iş kazası bildirimi yapıldığına dair yazılı talebi olması halinde, gerekli
+incelemeler yapıldıktan sonra, hatalı yapılan iş kazası bildirimlerinin silme işlemleri sosyal
+güvenlik iW/merkez müdürlüğü personeli tarafından yapılacaktır.
+
+3-E-Ödenek risk uygulaması
+
+E-Ödenek uygulamasında doğabilecek riskli alanlarının incelenmesi ve yersiz ödemelerin
+tespiti amacıyla yapılan program çalışmaları tamamlanmış ve uygulamada “incelenecek kayıtlar”
+adında bir menü açılmıştır. Oluşturulan listeler bir kez de kısa vadeli sigorta servisi personelince
+incelendikten sonra yapılan işlem doğrultusunda menüde yer alan “detay” butonu ile işlem türü
+seçilecek ve gerekli açıklama girilerek kayıt sağlanacaktır.
+
+Listelerin oluşturulması sırasında hangi kuralların işletildiği ve yapılacak işlemlere yönelik
+e-Ödenek uygulamasın ana sayfasında kullanım kılavuzu yer almaktadır.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cad.No 7 Sıhhiye/Çankaya Ayrıntılı bilgi için irtibat: Rüstem ÖZDEMİR Daire Başkanı V.
+Telefon: 0312 458 7282 Fax:0312 435 7236 Eposta: ehgm kvsdb(&sgk.gov.tr elektronik ağ: www.sgk.gov.tr

@@ -1,0 +1,104 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/142615
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2018/18
+ADI: 01/06/2018 TARİHLİ 2018/18 SAYILI OTOMATİK TESCİL EDİLEN İNŞAAT İŞYERLERİNDE ARAŞTIRMA İŞLEMİ HAKKINDA GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: b76807f1f96f49b005186627a01d419baa786b23899794486086e59b6ab3b099
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> T.C.
+S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı : 66454725-206.05-E.5284537 01/06/2018
+Konu : Otomatik Tescil Edilen İnşaat İşyerlerinde Araştırma İşlemi
+GENELGE
+2018/18
+
+1) GENEL AÇIKLAMALAR
+
+Bilindigi üzere, 10/3/2018 tarihli ve 30356 sayılı Resmi Gazete'de yayımlanan 7099 sayılı
+Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair
+Kanunun 18 inci ve 19 uncu maddesi ile 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun;
+
+ll inci maddesinin üçüncü fıkrasının ikinci cümlesi "Şirket kuruluşunun ticaret sicil
+müdürlüklerine bildirilmesi halinde yapılan bu bildirim Kuruma yapılmış sayılır ve ilgililerce
+ayrıca işyeri bildirgesi düzenlenmez." şeklinde değiştirilmiş; aynı maddenin altıncı fıkrasına "Bu
+bildirimlerden hangisinin işyerinin bildirilmesi yerine geçeceği Kurumca belirlenir, belirlenenlerle
+ilgili aynca işyeri bildirgesi düzenlenmez." hükmü eklenmiş,
+
+100 üncü maddesinin üçüncü fıkrası "Kurum, bu Kanun gereği verilecek her türlü belge
+veya bilginin internet, elektronik ve benzeri ortamda gönderilmesi hususunda, gerçek veya tüzel
+kişiler ile yazılı sözleşme ile yetki verilmiş gerçek veya tüzel kişilere izin vermeye, bu kişileri aracı
+kılmaya veya zorunlu tutmaya, Kuruma verilmesi gereken her türlü belge, bildirge ve
+taahhütnamenin gerçek ve tüzel kişiler ile tüzel kişiliği olmayan kurum ve kuruluşlara verilmesini
+mecbur kılmaya, söz konusu belgeleri diğer kamu idarelerine ait formlarla birleştirmeye ve bu
+belgeleri kamu idarelerinin elektronik bilgi işlem ortamından almaya, bu kişilere yapılacak
+bildirimleri Kuruma verilmiş saymaya, bu Kanunun uygulaması ile ilgili işveren, sigortalı ve diğer
+kurum, kuruluş ve kişilerin talepleri üzerine veya re'sen düzenleyeceği her türlü bilgi ve belgeyi
+bilgi işlem ortamında oluşturmaya, bu şekilde hazırlanacak olan bilgi ve belgelerin sadece internet
+ve benzeri iletişim ortamından ilgili kişilere verilmesini kararlaştırmaya yetkilidir.",
+
+şeklinde değiştirilmiştir.
+
+Bu düzenlemeler doğrultusunda, 5510 sayılı Kanunun 4 üncü maddesinin birinci fikrasının
+(a) bendi kapsamında sigortalı çalıştırılmasa dahi ticaret sicil müdürlüklerince tescil edilen şirket
+kuruluşları ile Kuruma verilen yetki doğrultusunda yalnızca yapı ruhsatına istinaden Kurumca
+otomatik işyeri tescili yapılacağı 16/3/2018 tarihli ve 2018/11 sayılı "Otomatik İşyeri Tescili"
+konulu Genelge ile açıklanmıştır.
+
+Yine, 24/1/2018 tarihli ve 2018/3 sayılı Genelgede Yatırım Ortamını İyileştirme
+Koordinasyon Kurulu (YOİKK) kararlarından "İskân izni alınması için gerekli olan SGK-vergi
+borcu yoktur denetimlerinin oluşturulacak bir ara yüz ile elektronik ortamda denetiminin
+sağlanması" eylemi kapsamında "İlişiksizlik OBelgesinin" elektronik ortamda üretildiği
+açıklanmıştır. Eylem kapsamında ilişiksizlik belgesi elektronik ortamda üretilmekle birlikte, yapı
+ruhsatına istinaden otomatik işyeri tescil edilenlerin, özel nitelikteki inşaat işlerinden dolayı
+Kurumumuza ilişiksizlik belgesi müracaatları olmadan ve bu belgeyi temin etmeden yapı kullanma
+izin belgesi alabilmeleri ile ilgili yapılacak işlemler aşağıda açıklanmıştır.
+
+2) YAPI RUHSATINA İSTİNADEN OTOMATİK TESCİL EDİLEN ÖZEL
+NİTELİKTEKİ İNŞAAT İŞYERLERİNDE ARAŞTIRMA İŞLEMİ
+
+Araştırma işlemi 2011/13 sayılı Genelgede açıklandığı şekilde yapılacak olmakla birlikte,
+yapı ruhsatına istinaden otomatik tescil edilmiş özel nitelikteki inşaat işyerlerinde süreç aşağıdadır.
+
+2.1 İlişiksizlik Belgesi Düzenlenme Süreci
+
+2.1.1 Yapı kullanma izin belgesi için işverence, ruhsat vermeye yetkili merciye müracaat
+edilecektir. (İlişiksizlik belgesi için Kurumumuza müracaat edilmeyecektir.)
+
+2.1.2 Müracaat edilen merci, Kuruma yapı (inşaat) ile ilgili araştırma işleminde gerekli olan
+bilgileri elektronik ortamda online olarak iletecektir.
+
+2.1.3 İlgili merciden gelen bilgiler doğrultusunda araştırma işlemi tamamlanacaktır.
+
+2.1.4 Araştırma işlemi tamamlanan özel nitelikteki inşaat işyerine ait ilişiksizlik belgesi
+elektronik ortamda oluşturulup, ilgili merciye online olarak gönderilecektir.
+
+3) DİĞER HUSUSLAR
+
+3.1 Bu Genelge ile 16/3/2018 tarihli ve 2018/11 sayılı Genelgenin, “3- VALİLİKLER,
+BELEDİYELER VE RUHSAT VERMEYE YETKİLİ DİĞER KAMU VE ÖZEL HUKUK
+TÜZEL KİŞİLERİNCE VERİLEN YAPI RUHSATLARINA İSTİNADEN OTOMATİK İŞYERİ
+TESCİLİ” bölümünün “3-2- Yapı Ruhsatına İstinaden İşyeri Tescili” alt bölümünün birinci
+fıkrasının 4 üncü paragrafının sonuna “Yapı ruhsatına ilişkin işyeri tescili otomatik olarak
+oluşturulduğundan, inşaat ruhsatıyla birlikte Uniteye bizzat gelerek başvuran ruhsat sahibi adına
+ayrıca işyeri tescili yapılmayacaktır.” ibaresi eklenmiştir.
+
+3.2 Bu Genelge hükümleri, 16/3/2018 tarihli ve 2018/11 sayılı Genelge gereğince yapı
+ruhsatına istinaden tescili otomatik yapılan işyerleri için uygulanacak olup, manuel tescil edilmiş
+özel nitelikteki inşaat işyerlerini kapsamamaktadır.
+
+3.3 Otomatik tescil edilmiş özel nitelikteki inşaat işyerleri için yapılacak asgari işçilik
+araştırma işleminde, bu Genelge ile getirilen hükümler hariç, yapılması gereken diğer işlemler
+2011/13 sayılı Genelgede açıklanan şekilde yürütülecektir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+Dağıtım:
+Gereği: Bilgi:
+Merkez ve Taşra Teşkilatına Çalışma ve Sosyal Güvenlik Bakanlığına
+İçişleri Bakanlığına Ekonomi Bakanlığına
+Türkiye Belediyeler Birliğine

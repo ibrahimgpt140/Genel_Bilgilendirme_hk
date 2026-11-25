@@ -1,0 +1,65 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/177105
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 24730873
+ADI: TÜZEL ÖZEL İŞYERLERİNDE TESCİL BİLGİLERİNİN MERSİS SİSTEMİNDEN ALINMASI HAKKINDA 05.05.2021 TARİHLİ VE 24730873 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5f6a2b08a5e47ff1f74960cdb47bd27b029d9966c6121c03b8a394ebdfabe891
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                     T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-99779835-202.99-24730873                                                                                               05.05.2021
+Konu : Tüzel Özel İşyerlerinde Tescil
+       Bilgilerinin MERSİS Sisteminden
+       Alınması
+
+
+
+                                                          GENEL YAZI
+
+
+        Tüzel kişiliklere ait özel işyeri (tüzel özel işyerleri) açılışlarında gerek ortak bilgileri gerekse
+yönetici bilgileri kullanıcılar tarafından sisteme kaydedilmekte, işverenler tarafından Kurumumuza
+değişiklik ve güncelleme talebi gelmediği sürece tescil kütüklerinde ilk girilen bilgiler saklı tutulmaya
+devam edildiğinden tescil bilgilerinin güncelliği sağlanamamaktadır.
+        Tescil bilgilerinin gerek ilk tescil aşamasında doğru alınabilmesi gerekse de daha sonra bu
+bilgilerin güncelliğinin sağlanabilmesi amacıyla tüzel özel işyerlerinin ortak, yönetici ve adres
+bilgilerinin Merkezi Sicil Kayıt Sisteminden (MERSİS) alınması ve daha sonraki değişikliklerin otomatik
+olarak güncelliğinin sağlanabilmesi için gerekli çalışmalara başlanılmıştır.
+        Bu kapsamda değerlendirilecek tüzel özel şirket türleri kollektif şirket, adi komandit şirket, paylı
+komandit şirket, limited şirket, anonim şirket ve kooperatifler olarak belirlenmiş olup çalışma 3 FAZ
+olarak yürütülecektir.
+        FAZ-1: İlk tescillerde MERSİS sorgusu ile ortak, yönetici ve merkez adres bilgilerinin alınması.
+        Bu kapsamda MERSİS' ten alınan kayıtlar için manuel giriş internet ekranları için kapatılacak
+ancak şube ekranlarında manuel giriş ve düzeltme ekranları bir süre açık kalacaktır.
+        FAZ-2: Sistemde kayıtlı işyeri tescil bilgilerinin MERSİS kayıtlarına göre otomatik olarak
+güncellenmesi sağlanacaktır. (Güncelleme belirlenen pilot illerde yapılacaktır.)
+        FAZ-3: Sistemde kayıtlı işyeri tescil bilgilerinin MERSİS kayıtlarına göre otomatik olarak
+güncellenmesi tüm Türkiye’de kayıtlı işyerleri için yapılacaktır.
+        Söz konusu projenin FAZ-1’ine ilişkin çalışmalar tamamlanarak gerekli program işletime açılmış
+olup bundan böyle e-Devlet üzerinden yapılan işyeri tescil girişlerinde belirlenen şirket türleri için ortak
+ve yönetici girişi yapılamayacak, söz konusu bilgiler işverenlerce sisteme girilen MERSİS numarasına
+göre ekrana otomatik getirilecektir.
+        İşverenlerimizin ekrana gelen ortak yada yönetici bilgilerinin hatalı olduğunu yada güncel
+olmadığını beyan etmeleri halinde, Ticaret Bakanlığı'nın ilgili birimleri vasıtasıyla MERSİS'te gerekli
+düzeltme ve güncelleme işlemlerini yaptırmaları yönünde bilgilendirilmeleri uygun olacaktır.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+                                                                                                            Savaş ALIÇ
+                                                                                                            Genel Müdür
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                           Bilgi için: Zehra YAŞAR
+Telefon No: 0(312) 458 7131/7128 Faks No: 0(312) 4321237                                                                          Büro Personeli
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 7131/7128
+9
+

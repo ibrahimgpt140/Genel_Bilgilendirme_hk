@@ -1,0 +1,98 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/150724
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4882446
+ADI: SOSYAL GÜVENLİK MÜŞAVİRLİKLERİ VE ATAŞELİKLERİ TARAFINDAN DÜZENLENEN İKAMET/HİZMET BELGELERİ HAKKINDA 28/03/2019 TARİHLİ VE 4882446 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7ffb1b0b4d351582d64a89378ae4388c7544d2e49d60c83dcb3dd1b53e1f34f9
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sayı o: 40552758-010.06.01-E.4882446 28/03/2019
+Konu : Sosyal güvenlik müşavirlik ve
+
+ataşelikleri tarafından düzenlenen
+
+ikamet/hizmet belgeleri
+
+GENEL YAZI
+
+Aile, Çalışma ve Sosyal Hizmetler Bakanlığına bağlı olarak dış temsilciliklerimizde
+görev yapan ekli listede (Ek-1) yer alan sosyal güvenlik müşavirlikleri ve ataşelikleri
+tarafından hazırlanan ikamet ve/veya hizmet belgeleri 04/03/2019 tarihinden itibaren
+elektronik ortamda imzalayan kişi bilgileri ve ıslak imzasız olarak düzenlenmeye
+başlanılmıştır.
+
+Sosyal güvenlik müşavirlikleri ve ataşelikleri tarafından elektronik ortamda
+düzenlenen ikamet ve/veya hizmet belgelerinin Kurumumuz personelince görüntülenmesine
+yönelik hazırlanan "Yurtdışı Borçlanma Belgesi Sistemi (YBBS)" programı 27/03/2019
+tarihinde işletime açılmış olup programın kullanımına ilişkin hazırlanan "Kullanım Kılavuzu"
+(Ek-2) ekte yer almaktadır.
+
+Anılan programa, "https://intra3.sgk.intra/YurtdisiBorclanmaBelgesiSistemi"
+adresinden Kurumca yetkilendirilmiş personel tarafından giriş yapılabilecektir.
+
+Hazırlanan programa yurt dışı borçlanması yapan ve yurt dışı borçlanmasına istinaden
+aylık bağlayan personel giriş yapabilecek olup programa kullanıcı giriş yetkisi, birimlerde
+görevli supervisorler tarafından verilecektir.
+
+Programa giriş yapacak personele yetki verecek supervisorlerin (Yetkili Kullanıcı)
+sisteme tanıtımı gerçekleştirilmiş olup yetki verilen süpervizörlerin (Yetkili Kullanıcı)
+e-posta adreslerine bilgi gönderilmiştir.
+
+Söz konusu sosyal güvenlik müşavirlikleri ve ataşelikleri tarafından düzenlenen
+belgeler, e-Devlet üzerinden ilgililer tarafından temin edilebileceği gibi, bu belgelere
+elektronik ortamda anılan programdan da ulaşılabilecektir.
+
+Buna göre, yurt dışı borçlanması için müracaat eden vatandaşlarımızca Kurumumuza
+ibraz edilen ve kişi bilgisi ile ıslak imza bulunmayan elektronik belgeler borçlanmaya esas
+belge olarak kabul edilecek ve belgelerin doğruluğu YBBS programından T.C. kimlik
+numarası ile sorgulama yapılmak suretiyle tespit edilecektir.
+
+Diğer yandan, borçlanmaya esas belge ibraz edilmeden, anılan sosyal güvenlik
+müşavirlikleri ve ataşelikleri tarafından belge düzenlendiğini beyan ederek borçlanma
+talebinde bulunanlarla ilgili olarak öncelikle söz konusu programdan belgenin mevcut olup
+olmadığının kontrolü yapılarak belgenin olması halinde borçlanma işlemi gerçekleştirecek,
+belgenin olmaması halinde ise talep reddedilerek ilgiliye bilgi verilecektir.
+
+Gerek belgenin doğruluğu amacıyla gerekse borçlanmaya esas belge olarak sistemden
+alınan belgelerin sistemden alındığı tarih ve belgeyi çeken kişi adı belgeye kaydedilerek
+ilgililerin dosyasında muhafaza edilecektir.
+
+Bu belge 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 03124321247 -0312432 1227 FaksNo: 03124321245 Daire Başkanı V.
+E-Posta: ehem ysedb(ösgk.gov.tr İnternet Adresi: www.sgk.gov.ir Telefon No: 0312432 1247
+
+Ayrıca, 27/04/2018 tarihli ve E.3488576 sayılı Genel Yazının "I1-Belge teyit
+işlemleri" başlıklı maddesine istinaden teyit işlemine son verilmiş olması nedeniyle dış
+temsilciliklerden alınan hizmet ve/veya ikamet belgelerindeki kayıtlı sürelerin başlangıç ve
+bitiş tarihleri ile yurda giriş çıkış tarihlerinin örtüşmemesi durumunda borçlanma talebinin
+reddedileceği talimatlandırılmış olmakla birlikte söz konusu program aracılığıyla temin
+edilen veya teyit edilen belgelerinin doğruluğu konusunda herhangi bir tereddüt
+olmayacağından anılan belgelerde kayıtlı sürelerin başlangıç ve bitiş tarihleri ile yurda giriş
+çıkış tarihlerinin uyumlu olup olmadığının kontrolüne gerek bulunmamakla birlikte söz
+konusu belgelere göre yapılacak borçlanma işlemlerininde Türkiye'de bulunulan süreler hariç
+olmak üzere sadece yurt dışında bulunulan süreler esas alınacaktır.
+
+Bilgi edinilmesini ve gereğini arz/rica ederim.
+
+İsmail YILMAZ
+
+Genel Müdür
+
+EKLER DİZİNİ :
+Ek-I: Liste (1 sayfa )
+Ek-2: Kullanım Kılavuzu (4 sayfa )
+DAĞITIM:
+Gereği:
+Merkez ve Taşra Teşkilatına
+Bu belge 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır.
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 03124321247 -0312432 1227 FaksNo: 03124321245 Daire Başkanı V.
+E-Posta: ehem ysedb(ösgk.gov.tr İnternet Adresi: www.sgk.gov.ir Telefon No: 0312432 1247

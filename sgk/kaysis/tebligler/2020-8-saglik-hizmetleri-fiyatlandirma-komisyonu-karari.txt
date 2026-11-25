@@ -1,0 +1,250 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/169916
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: 2020/8
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 30.12.2020 - 31350 ( 2)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 29048df0ccb1abf03cc48c954442892e1a56cacd84fbaeea171f40a6f665e749
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+30 Aralık 2020 ÇARŞAMBA Resmi Gazete Sayı : 31350 (2. Mükerrer)
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+
+Karar No: 2020/8
+
+3510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 31/08/2020 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE 1-
+
+a) Sağlık Uygulama Tebliği (SUT)'nin “3.3.34-Biyoçözünür Kompresyon/Antibiyotikli/Antibiyotiksiz  İnteral
+Fiksasyon Vidaları” maddesine aşağıdaki endikasyon kriterlerinin eklenmesine oy birliği ile,
+
+“3.3.34-Biyoçözünür Kompresyon/Antibiyotikli/Antibiyotiksiz İnternal Fiksasyon Vidaları:
+
+(3) Eklem içi kırıklarda ve artroskopik cerrahide kullanılması halinde bedeli Kurumca karşılanır.
+
+(4)TV5680 SUT kodlu tibbi malzemenin TV1080 ve TV1090 SUT kodları ile birlikte fatura edilmesi halinde bedeli
+Kurumca karşılanmaz.”
+
+b) SUT eki “EK-3/F-4 Ortopedi ve Travmatoloji Branşı Travma ve Rekonstrüksiyon Alan Grubuna Ait Tıbbi Malzemeler
+Listesinde o yer Oo alan Oo “PLAKLAR o VE OoOVİDALAR İNTERNAL OoFİKSASYON (| VİDALAR
+KOMPRESYON/ANTİBİYOTİKLİ/ANTİBİYOTİKSİZ TÜM BOYLAR KANÜLLÜ BİYOÇÖZÜNÜR TÜM BOYLAR” ve
+“PLAKLAR VE VİDALAR İNTERNAL FİKSASYON VİDALAR KOMPRESYON/ANTİBİYOTİKLİ/ANTİBİYOTİKSİZ TÜM
+BOYLAR KANÜLSÜZ BİYOÇÖZÜNÜR TÜM BOYLAR” alan tanımlarına endikasyon kriteri eklenmesine oy birliği ile,
+
+PLAKLAR
+İNTERNAL KOMPRESYON/ANTİBİYOTİKLİ/ | TÜM çi BİYOÇÖZ | TÜM
+ANTİBİYOTKSİZ,
+| | (1) Tüm diz ve kalça artroplastileri ile revizyon işlemlerinde kullanılması halinde bedeli Kurumca karşılanmaz. | |
+PLAKLAR ğ N
+İNTERNAL KOMPRESYON/ANTİBİYOTİKLİ/ | TÜM ir BİYOÇÖ | TÜM
+| | (1) Tüm diz ve kalça artroplastileri ile revizyon işlemlerinde kullanılması halinde bedeli Kurumca karşılanmaz. |
+
+MADDE 2- SUT eki “EK-3/P-4 Ortopedi ve Travmatoloji Branşı Travma ve Rekonstrüksiyon Alan Grubuna Ait Tıbbi
+Malzemeler Listesi” nde yer alan “PLAKLAR VE VİDALAR KANÜLLÜ VİDALAMA VİDALAR HERBERT DİZAYN
+KOMPRESYON VİDASI 1.5-4.S5mm VİDALAR BAŞSIZ KOMPRESYON VİDASI TİTANYUM/CoCr TÜM BOYLAR” alan
+tanımının altıma endikasyon kriteri eklenmesine oy birliği ile,
+
+KODU
+(OPERASYON (CERRAHİ TÜRÜN (BOYUTSAL (ŞEKİLSEL
+| Poleni yakşn OM zenci zen zeri Dema m (0
+PLAKLAR VE İKANÜLLÜ DİZAYN 15.45mm AŞSIZ TÜM
+LU K N - 4 Smm ” v IN
+72850 VİDALAR İVİDALAMA VPALAR İKompresyYON İVİDALAR  İÇOMERESYON TTİTANYUMİCCE BOYLAR 400,00
+İVİDASI
+MN EN
+
+MADDE 3- SUT eki “EK-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesine yeni bir SUT kodu
+eklenerek; tibbi malzeme alan tanımı ve fiyatı ile birlikte aşağıdaki gibi belirlenmesine oy birliği ile,
+
+SUTKODU (TIBBİ MALZEME ALAN TANIMI FİYAT (TD)
+KV3158 o İKATETER, TROMBOLİZ, PERİFERİK, İNFÜZYON! 474,00)
+
+MADDE 4- SUT eki “EK-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” listesinde yer alan “KV3159” SUT
+kodlu “ARTERVEN (o TROMBOLİZ O KATETERLERİ” alan — tanımının “VEN O FARMAKOMEKANİK
+TROMBOLİZ/TROMBEKTOMİ KATETERLERİ” şeklinde yeniden düzenlenmesi ve alan tanımına endikasyonların eklenmesine
+oy birliği ile,
+
+UT KODU — (TIBBİ MALZEME ALAN TANIMI FİYAT (TU)
+KV3159 VEN FARMAKOMEKANİK TROMBOLİZ/TROMBEKTOMİ KATETERLERİ 4.000,00)
+(1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut derin
+venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) kalp ve damar
+cerrahisi uzmanı ile birlikte 1 (bir) radyoloji veya 1 (bir) kardiyoloji uzmanının yer aldığı sağlık kurulu raporu ile
+belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+
+30 Aralık 2020 — Sayı : 31350 (2. Mükerrer) RESMİ GAZETE Sayfa : 199
+MADDE 5- SUT eki “EK-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesinde yer alan “KV3160” SUT
+kodlu “VEN/PULMONER ARTER FARMAKOMEKANİK TROMBOLİZ KATETERLERİ” alan tanımının “PULMONER
+ARTER FARMAKOMEKANİK TROMBOLİZ/TROMBEKTOMİ KATETERLERİ” şeklinde düzenlenmesi ve endikasyonlarının
+yeniden belirlenmesine oy birliği ile,
+PULMONER ARTER FARMAKOMEKANİK TROMBOLİZ/TROMBEKTOMİ
+1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, bilgisayarlı tomografi ya da manyetik rezonans
+görüntüleme yöntemleri ile tanısı doğrulanmış akut massif pulmoner emboli varlığında ve ekokardiyografi ya da
+bilgisayarlı tomografi ile sağ-sol venirikül çap oranının 0,9”dan büyük olduğunun saptandığı durumlarda; 2 (iki)
+kalp ve damar cerrahisi uzmanı ile birlikte | (bir) radyoloji veya 1 (bir) kardiyoloji uzmanının yer aldığı sağlık
+kurulu raporu ile belgelenmesi halinde her bir taraf (sağ ve sol) ana pulmoner arter için birer (1) adedinin bedeli
+Kurumca karşılanır.
+MADDE 6- SUT eki “EK-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesinde yer alan KV2022,
+KV2023, KV2024 ve KV2025 SUT kodlarının endikasyonlarının aşağıdaki şekilde yeniden belirlenmesine oy birliği ile,
+KATETER, TROMBEKTOMİ, PERİFPRİK, DOĞRUDAN İLERLETİLEN, MOTORU İLE
+(1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) kalp ve
+damar cerrahisi uzmanı ile birlikte 1 (bir) radyoloji veya | (bir) kardiyoloji uzmanının yer aldığı sağlık kurulu
+raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+KATETER, TROMBEKTOMİ, PERİFERİK, TEL ÜZERİNDEN İLERLETİLEN, MOTORU
+
+(I) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) kalp ve
+
+damar cerrahisi uzmanı ile birlikte 1 (bir) radyoloji veya | (bir) kardiyoloji uzmanının yer aldığı sağlık kurulu
+
+raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+
+KATETER, TROMBOASPİRASYON, PERİFERİK, DOĞRUDAN İLERLETİLEN, 436800
+
+MOTORU İLE BİRLİKTE eni
+
+(1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) kalp ve
+
+damar cerrahisi uzmanı ile birlikte 1 (bir) radyoloji veya | (bir) kardiyoloji uzmanının yer aldığı sağlık kurulu
+
+aporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+KATETER, TROMBOASPİRASYON, PERİFERİK, TEL ÜZERİNDEN İLERLETİLEN,
+
+MOTORU İLE BİRLİKTE ii
+
+(1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) kalp ve
+
+damar cerrahisi uzmanı ile birlikte 1 (bir) radyoloji veya | (bir) kardiyoloji uzmanının yer aldığı sağlık kurulu
+
+aporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+
+MADDE 7- SUT eki “EK-3/M Radyoloji Branşı ve EndovaskülerNonvasküler Girişimsel İşlemlere Ait Tıbbi
+Malzemeler” Listesinde yer alan GR1042, GR1043, GR1044 ve GR1045 SUT kodlarının endikasyonlarının yeniden belirlenmesine
+oy birliği ile,
+
+KATETER TROMBEKTOMİ, PERİFERİK, DOĞRUDAN İLERLETİLEN, MOTORU İLE 436800!
+1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) radyoloji
+uzmanı ile birlikte 1 (bir) kalp ve damar cerrahisi uzmanı veya | (bir) kardiyoloji uzmanının yer aldığı sağlık
+kurulu raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+İLE BİRLİKTE N
+1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerin tutan ve rekanalizasyon gelişmemiş akut
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) radyoloji
+uzmanı ile birlikte | (bir) kalp ve damar cerrahisi uzmanı veya | (bir) kardiyoloji uzmanının yer aldığı sağlık
+kurulu raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+
+Sayfa : 200 RESMİ GAZETE 30 Aralık 2020 — Sayı : 31350 (2. Mükerrer)
+KATETER, TROMBOASPİRASYON, PERİFERİK, DOĞRUDAN İLERLETİLEN,
+MOTORU İLE BİRLİKTE 4368.00
+1) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) radyoloji
+uzmanı ile birlikte | (bir) kalp ve damar cerrahisi uzmanı veya | (bir) kardiyoloji uzmanının yer aldığı sağlık
+kurulu raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+KATETER, TROMBOASPİRASYON, PERİFERİK, TEL ÜZERİNDEN İLERLETİLEN, 436800
+MOTORU İLE BİRLİKTE beni
+W) 1 (bir) yıldan fazla yaşam beklentisi olan hastalarda, tanısal görüntüleme yöntemleri ile objektif olarak
+tanımlanmış vena cava inferior veya ilio-femoral ven segmentlerini tutan ve rekanalizasyon gelişmemiş akut
+derin venöz tromboz varlığında (semptomların başlangıcı itibariyle ilk 14 günde olmak kaydıyla), 2 (iki) radyoloji
+uzmanı ile birlikte 1 (bir) kalp ve damar cerrahisi uzmanı veya | (bir) kardiyoloji uzmanının yer aldığı sağlık
+kurulu raporu ile belgelenmesi halinde her ekstremite için birer (1) adedinin bedeli Kurumca karşılanır.
+
+MADDE 8- SUT eki “EK-3/K Kadın Hastalıkları ve Doğum Branşına Ait Tıbbi Malzemeler” Listesinde yer alar
+“KD1002” SUT kodlu “MERSİLEN TAPE 65 MM İPLİK 30 CM TAPE 5 MM 4 YUVARLAK BLUNT POINT ÇİFT İĞNELİ
+SERKLAJ SÜTÜRÜ” alan tanımının “POLYESTER TAPE; YUVARLAK GÖVDELİ KÜNT UÇLU ÇİFT İĞNELİ, 5 MM
+GENİŞLİĞİNDE VE EN AZ 30 CM UZUNLUĞUNDA SERKLAJ SÜTÜRÜ” şeklinde yeniden düzenlenmesine oy birliği ile,
+SUTKODU ( (TIBBİ MALZEME ALAN TANIMI FİYAT (TL)
+
+KD1002 POLYESTER TAPE; W YUVARLAK GÖVDELİ KÜNT UÇLU ÇİFT İĞNELİ, SMM 69,00
+GENİŞLİĞİNDE VE EN AZ 30 CM UZUNLUĞUNDA SERKLAJ SÜTÜRÜ N
+
+MADDE 9- Sağlık Uygulama Tebliğinin (SUT) “2.4.4.H- Yoğun bakım tedavisi” başlığının dördüncü fıkrasında yer alan
+“...immün plazma tedarik ve uygulama,” ibaresinden sonra gelmek üzere “viral inaklivasyon işlemi,” ibaresinin eklenmesine oy
+birliği ile,
+
+MADDE 10- SUT eki “Hizmet Başı Puan Listesi (EK-2/B)” ne aşağıda yer alan işlem satırmın eklenmesine oy birliği ile,
+
+Üçüncü basamak sağlık hizmeti sunucularınca perinatoloji, beyin ve sinir
+cerrahi, çocuk cerrahi, anestezi ve reanimasyon ve yenidoğan branş
+619981 Fetal cerrahi ile spina bifida | uzmanlarından oluşan sağlık kurulu raporuna istinaden açık keseli spina 5.500,00
+onarımı bifida endikasyonlarında yapılması halinde faturalandırılır. Bu işlemin | © *
+yapılacağı sağlık hizmeti sunucularında yenidoğan yoğun bakım ünitesinin
+bulunması zorunludur. 619980, P619980 ile birlikte faturalandırılmaz.
+
+MADDE 11- SUT eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” ne aşağıda yer alan işlem satırının eklenmesine oy
+
+birliği ile,
+Tüm cerrahi işlemler, malzemeler ve ilaçlar dahildir.
+Üçüncü basamak sağlık hizmeti sunucularınca
+perinatoloji, beyin ve sinir cerrahi, çocuk cerrahi,
+anestezi ve reanimasyon ve yenidoğan branş
+Fetal cerrahi ile spina bifida | uzmanlarından oluşan sağlık kurulu raporuna istinaden &
+P619981 | onarımı açık keseli spina bifida endikasyonlarında yapılması | Â' 70.263,00
+halinde faturalandırılır. Bu işlemin yapılacağı sağlık
+hizmeti sunucularında yenidoğan yoğun bakım
+ünitesinin bulunması zorunludur. 619980, P619980 ile
+birlikte faturalandırılmaz.
+MADDE 12- SUT eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” nde “Yatarak Tedavilerde Psikiyatri Hizmetleri”
+başlığının aşağıdaki şekilde değiştirilmesine oy birliği ile,
+Psikiyatri paket fiyatlarına muayene, konsültasyon,
+yatak ve refakat ücretleri, gerekli durumlarda
+psikolojik testler, EEG, EKG, BT, MR, EKT gerekli
+ilaçların haftalık kan düzeyleri, aile görüşmeleri,
+hastanın kişisel bakımı, grafiler, laboratuvar testleri,
+EDAMLERDE enjeksiyon vb. tıbbi işlem ve girişimlerle kullanılan
+PSİKİYATRİ tüm ilaçlar (şahsi tedavi için yurt dışından getirilen
+HİZMETLERİ ilaçlar hariç) dahildir. Tedavi amaçlı yapılan
+işlemlere ait komplikasyonların harcamaları paket
+işlem puanlarına dahildir. Ancak hastaların başka bir
+organ veya sistemini ilgilendiren hastalık ve
+operasyon o çıkması halinde SUT hükümleri
+doğrultusunda faturalandırılır.
+
+30 Aralık 2020 — Sayı : 31350 (2. Mükerrer) RESMİ GAZETE Sayfa : 201
+
+MADDE 13- “Brimonidin tartarat” cikin maddeli “E647A” eşdeğer grubunda yer alan ilaçların Sosyal Güvenlik Kurumu
+Sağlık Uygulama Tebliği'nin “4.4.1 - Uygulanacak indirim oranları” maddesi gereği uygulanan indirim oranları ve SUT eki “Bedeli
+Ödenecek İlaçlar Listesi (EK-A/A)”nde yer alan Kamu Kurum İskontoları ile hesaplanan Kamu fiyatları dikkate alınmaksızın;
+
+a) Taban Kamu Fiyatı'nın 55,00 TL (elli beş Türk Lirası) olacak şekilde yeniden belirlenmesine,
+
+b) Halihazırda Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği'nin “4.4.2 - Eşdeğer ilaç uygulaması” maddesinin birinci
+fıkrasının (ç) bendi gereği eşdeğer ilaçlara ödenecek bedellerin belirlenmesinde taban birim fiyata 9010 ilave edilerek o gruptaki
+ilaçlar için ödenebilecek azami birim fiyatın bulunması uygulaması doğrultusunda ödenecek Tavan Kamu Fiyatı'nın 60,50 TL (altmış
+virgül elli Türk Lirası) olarak belirlenmesine,
+
+oy birliği ile,
+
+MADDE 14- Alınan kararlardan;
+
+1 9 numaralı kararın 01.04.2020 tarihinde,
+
+2- 13 numaralı kararın yayım tarihini takip eden 30 (otuz) gün sonra,
+
+3- Diğer kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de
+belirtilen tarihte,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.

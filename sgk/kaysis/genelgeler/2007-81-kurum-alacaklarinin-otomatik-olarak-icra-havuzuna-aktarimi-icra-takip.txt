@@ -1,0 +1,350 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/24197
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2007/81
+ADI: KURUM ALACAKLARININ OTOMATİK OLARAK İCRA HAVUZUNA AKTARIMI, İCRA TAKİP HACİZ VE SATIŞ SERVİSLERİNİN YENİDEN YAPILANDIRILMASI HAKKINDA GENELGE(2007-81)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a3f5fdc6de471e07dd44d37f72a4d7233a7044691903daf2ddd4188f19326f32
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                           T.C.
+                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                           Sosyal Sigortalar Genel Müdürlüğü
+
+Sayı : B.13.2.SSK.5.01.08.00/VIII-031-765118                                            25/10/2007
+Konu : Kurum alacaklarının otomatik olarak icra
+       havuzuna aktarımı, İcra Takip Haciz ve
+       Satış Servislerinin yeniden yapılandırılması
+
+
+                                            GENELGE
+                                             2007 – 81
+
+
+  1- KURUM ALACAKLARININ OTOMATİK OLARAK İCRA HAVUZUNA AKTARIMI
+         1.1- Genel Açıklamalar
+         Bilindiği üzere, Kurumumuz mevzuatına ilişkin işlemler bilgisayar destekli olarak
+yürütülmekte olup, 2002 yılı içinde tamamlanan e-Sigorta projesi ile birlikte AS 400
+programlarından vazgeçilerek, iş yoğunlukları da göz önüne alınmak suretiyle Ünitelerimizde farklı
+tarihler itibariyle PC tabanlı merkezi sisteme geçilmiştir.
+         Söz konusu proje kapsamında AS 400 programlarındaki veri tabanları PC tabanlı merkezi
+sisteme aktarılmış, ancak işyeri hesabı cari kartlarındaki hatalı kayıtlar nedeniyle İcra Takip Haciz
+ve Satış Servislerince yürütülen işlemlerin bilgisayar programları vasıtasıyla takibine, PC tabanlı
+merkezi sisteme geçilen ve dönüşüm sonrası olarak adlandırılan dönemden itibaren başlanılmıştır.
+         Yine bilindiği üzere, PC tabanlı merkezi sisteme geçilen tarihten önceki, dönüşüm öncesi
+döneme ait gerek Kurumumuz alacakları, gerekse diğer kanunlarla takip ve tahsil görevi
+Kurumumuza verilmiş olan alacaklar, Sigorta Primleri Servislerince (İşveren Servislerince) işyeri
+hesabı cari kartları kontrol edilmek suretiyle borç türü bazında borçlu dönem ve tutarların
+belirlenmesini müteakip, ödeme emri, takip yaprağı ve üst yazı da manuel olarak doldurularak,
+         Dönüşüm sonrası döneme ait sigorta primi, işsizlik sigortası primi, idari para cezası,
+eğitime katkı payı, özel işlem vergisi ve damga vergisi borçları ise, işveren ana menüden 10-2-1
+nolu seçenekler işaretlenmek suretiyle erişilen “BORCUN İCRAYA İNTİKAL İŞLEMİ”
+menüsü kullanılmak suretiyle borçlu dönemler ekrana getirildikten sonra kullanıcı tarafından
+seçilen dönemler icra havuzuna aktarılarak,
+         İcra Takip Haciz ve Satış Servislerine intikal ettirilmektedir.
+         Ancak, söz konusu alacakların İcra Takip Haciz ve Satış Servislerine intikaline ilişkin
+işlemlerin, zaman zaman alacağın muacceliyet tarihinden (ödenmesi gereken süreden) uzun süre
+geçtikten sonra yapıldığı, bu süre içerisinde borçlu işyerlerinden bazılarının gayri faal hale geldiği
+veya biriken borçların yüksek miktarlara ulaşması nedeniyle bu borçların tahsilinde güçlüklerin
+yaşandığı anlaşıldığından, bu alacakların takip ve tahsilinin hızlandırılması amacıyla, dönüşüm
+sonrası döneme ait sigorta primi, işsizlik sigortası primi ve damga vergisine ilişkin muaccel
+borçların Genel Müdürlüğümüzce otomatik olarak SSK Sigorta İl/Sigorta Müdürlüklerimizin
+(Devredilen) icra havuzuna atılması uygulamasına başlanılacaktır.
+         “Otomatik İcra” uygulamasına, 2005/Ocak ve sonraki aylara ilişkin olarak
+düzenlenen aylık prim ve hizmet belgelerinden dolayı tahakkuk etmiş sigorta primi, işsizlik
+sigortası primi ve damga vergisi borçlarının aktarılması suretiyle başlanılacak olup, ilk
+aktarma işlemi 26.11.2007 tarihinde yapılacaktır.
+         Takip eden aylarda ise, sigorta prim borçları ile işsizlik sigortası prim borçları düzenli
+olarak her ayın 25 inci gününü takip eden ilk iş günü içinde, damga vergisi borçları ise
+Ünitelerimizin iş yoğunlukları göz önüne alınmak suretiyle altı ayda bir bilgisayar
+programları vasıtasıyla icra havuzuna aktarılacaktır.
+
+      Söz konusu uygulamanın usul ve esasları aşağıda açıklanmıştır.
+      1.2- Sigorta Primleri Servislerince Yapılacak İşlemler
+_______________________________________________________________________________
+         Gerek dönüşüm öncesi döneme ilişkin, gerekse dönüşüm sonrası döneme ilişkin olmakla
+birlikte 2004/Aralık ve önceki dönemlere ilişkin sigorta primi, işsizlik sigortası primi, damga
+vergisi, eğitime katkı payı ve özel işlem vergisi borçlarından henüz İcra Takip Haciz ve Satış
+Servislerine intikal etmemiş borçlar “Otomatik İcra” projesi kapsamında olmadığından, bu
+borçlar, Sigorta Primleri Servislerince en geç 23.11.2007 tarihi mesai saati sonuna kadar İcra
+Takip Haciz ve Satış Servislerine intikal ettirilecektir.
+         Hal böyle olmakla birlikte, 2004/Aralık ve önceki dönemlere ilişkin borçlarının yanı sıra
+2005/Ocak ve sonraki dönemlere ilişkin borçları da bulanan işverenlerin/aracıların borçlarının aynı
+ödeme emri ile tebliğ edilmesi uygun olacağından, 2004/Aralık ve öncesi dönüşüm sonrası döneme
+ilişkin borçları bulunan işverenlerin/aracıların 2005/Ocak ve sonrası dönemlerde de borçlarının
+bulunması halinde, dönüşüm sonrası tüm borçlar yukarıda belirtilen süre içinde Sigorta
+Primleri Servislerince icra havuzuna aktarılacaktır.
+         Buna karşın, Kurumumuza olan borçları yalnızca 2005/Ocak ve sonrası dönemleri kapsayan
+işyerlerine ilişkin borçlar, Genel Müdürlüğümüzce “Otomatik İcra” programı vasıtasıyla SSK
+Sigorta İl/Sigorta Müdürlüklerimizin (Devredilen) icra havuzuna aktarılacaktır.
+         Örnek:1- 2003/1,2,4 ve 2005/7,8 inci aylara ilişkin olarak düzenlenen prim belgelerinden
+dolayı tahakkuk eden sigorta primi, işsizlik sigortası primi ve damga vergisi borçları bulunan bir
+işyerinin tüm borçları, Sigorta Primleri Servisince 23.11.2007 tarihine kadar İcra Takip Haciz ve
+Satış Servisine intikal ettirilecektir.
+         Örnek:2- 2005/10,11 ve 2007/4,6 ıncı aylara ilişkin düzenlenen prim belgelerinden dolayı
+tahakkuk eden sigorta primi, işsizlik sigortası primi ve damga vergisi borçları bulunan bir işyerinin
+borçları 26.11.2007 tarihinde Genel Müdürlüğümüzce “Otomatik İcra” programı vasıtasıyla icra
+havuzuna aktarılacaktır.
+         Örnek :3- 2007/10 uncu aya ilişkin prim belgesinden dolayı tahakkuk etmiş sigorta prim
+borçları ile işsizlik sigortası prim borçlarını ödemeyen işyerlerinin borçları 26.12.2007 tarihinde,
+2007/11 inci aya ilişkin prim belgesinden dolayı tahakkuk etmiş sigorta prim borçları ile işsizlik
+sigortası prim borçlarını ödemeyen işyerlerinin borçları ise, 28.01.2008 tarihinde Genel
+Müdürlüğümüzce otomatik icra programları vasıtasıyla icra havuzuna aktarılacaktır.
+         Diğer taraftan, tebliğ edilen idari para cezalarına ilgililerce itiraz edilmiş olması halinde,
+itirazın reddine ilişkin Ünite Komisyon Kararının ilgililere tebliğine kadar icra takibine geçilmesi
+mümkün bulunmadığından idari para cezası borçları “Otomatik İcra” projesi kapsamına
+alınmamıştır.
+         Bu nedenle, bu genelgenin yayımlandığı tarihten önce idari aşamada kesinleşmiş olan
+idari para cezaları en geç 23.11.2007 tarihine kadar, bu genelgenin yayımlandığı tarihten sonra
+idari aşamada kesinleşecek olan idari para cezaları ise en geç kesinleştiği tarihten itibaren 15 gün
+içinde Sigorta Primleri Servislerince İcra Takip Haciz ve Satış Servislerine intikal ettirilecektir.
+         Dolayısıyla, idari para cezaları ile 2004/Aralık ve önceki dönemlere ilişkin sigorta
+primi, işsizlik sigortası primi, damga vergisi, eğitime katkı payı ve özel işlem vergisi borçları
+Genel Müdürlüğümüzce otomatik icra programları vasıtasıyla değil, daha önce olduğu gibi
+Sigorta Primleri Servislerince İcra Takip Haciz ve Satış Servisine aktarılacaktır.
+         Öte yandan, bu Genelgenin yayımlanmasından önce icra havuzuna aktarılmış borçların İcra
+Takip Haciz ve Satış Servisince havuzdan alınmasına ve icra havuzuna aktarıldıktan sonra çeşitli
+nedenlerle uyumsuz hale gelmiş kayıtların Sigorta Primleri Servislerince havuzdan geri alınmasına
+ilişkin işlemler, en geç bu genelgenin yayımlandığı ayın sonuna kadar tamamlanacaktır.
+         “Otomatik İcra” programı vasıtasıyla Kurumumuza borcu bulunan işverenlere ilişkin borç
+kayıtları Genel Müdürlüğümüzce her ayın 25’inden sonraki ilk iş gününde icra havuzuna
+aktarılacağından, sigorta primi ve işsizlik sigortası prim borçlarının, ilgili vergi dairesince
+Katma Değer Vergisi iade alacağından mahsup suretiyle ödenmesi halinde, bu tahsilatlar, en
+geç ödenmesi gereken ayı takip eden ayın 25’ine kadar ilgili işyeri hesabı cari kartlarına
+aktarılacaktır.
+         Öte yandan, ihale konusu işyerlerinin Kurumumuza olan borçlarının 06.12.2005 tarihli,
+16-358 Ek sayılı Genelgede ve 14.08.2006 tarihli, 655530 sayılı Genel Yazıda belirtildiği şekilde
+                                                                                                     2
+öncelikle ihale makamlarındaki alacaklarından (hakedişlerinden / teminatlarından)
+kestirilmek/paraya çevrilmek suretiyle tahsil edilmesi gerektiğinden, söz konusu uygulama
+kapsamında ihale konusu işyerlerinin borçları icra havuzuna aktarılmayacaktır. Bu nedenle, bahse
+konu Genelge ve Genel Yazıda belirtildiği gibi, ihale konusu işyerlerinin muaccel borçlarının ihale
+makamlarındaki hakedişlerinden/teminatlarından kestirilmek/paraya çevrilmek suretiyle tahsiline
+azami dikkat gösterilecektir.
+         Diğer taraftan, ihale konusu işyerlerinin ihale makamı nezdindeki hak
+edişlerinin/teminatlarının Kurumumuza olan borçlarını karşılamaması halinde bakiye borçlar, bu
+durumun anlaşıldığı tarihten itibaren en geç 10 gün içinde, Sigorta Primleri Servislerince İcra
+Takip Haciz ve Satış Servisine aktarılacaktır.
+         İhale konusu işyerlerinin borçlarının takip ve tahsili ile ilgili yukarıda belirtilen işlemlerin
+süresi içinde ve usulüne uygun olarak yapılıp yapılmadığı Ünite amiri, yardımcıları ve servis şefleri
+tarafından düzenli olarak kontrol edilecektir.
+         506 sayılı Kanunun 80 inci maddesinin onuncu fıkrasına istinaden sigorta primi ve işsizlik
+sigortası primi borçları ertelenen işverenlerin, erteleme kapsamına giren borçları, erteleme
+süresinin sonuna kadar icra havuzuna aktarılmayacağından, söz konusu taleplere istinaden
+erteleme başlangıç ve bitiş tarihleri geciktirilmeksizin sisteme kaydedilecektir.
+         Tahakkuk etmiş primlerini on-lıne tahsilat programları yerine, Ünitelerin kullanım
+hesaplarına yatırmak suretiyle ödeyen resmi sektör işyeri işverenleri aleyhine yersiz takibe
+geçilmemesi amacıyla, bu işverenlerin emanet hesaplardaki paraları, en geç 15.11.2007
+tarihine kadar ilgili işyeri dosyasının H/C kartına aktarılacaktır.
+         Öte yandan, söz konusu uygulama kapsamında yersiz takip açılmaması amacıyla,
+resmi sektör işverenlerince takip eden aylarda kullanım hesaplarına yatırılacak paraların
+ilgili işyeri dosyasına aktarımına ilişkin işlemler de, en geç her ayın 25’ine kadar bitirilmiş
+olacaktır.
+         Bu itibarla, emanet hesaplardaki paraların tasfiyesi ve kırmızı bakiyelerin aktarımına ilişkin
+25.02.2005 tarihli, 136271 sayılı Genel Yazı ile 2.8.2007 tarihli toplu talimatta belirtilen işlemler
+de en geç 23.11.2007 tarihine kadar bitirilmiş olacaktır.
+         Genel Müdürlüğümüzce otomatik olarak icra havuzuna aktarılan kayıtlar içerisinde, tahsil
+edildiği halde çeşitli nedenlerle (farklı döneme veya emanet hesaba işlenmiş olması gibi) işyeri
+H/C kartına aktarılmamış olduğu anlaşılan kayıtlar, Sigorta Primleri Servisi tarafından icra
+havuzundan silinecektir.
+         506 sayılı Kanunun 80 inci maddesine istinaden erteleme talebi kabul edildiği halde
+erteleme başlangıç ve bitiş tarihleri bilgisayara girilmemiş işyerlerine ait sigorta primi ve
+işsizlik sigortası primi borçları, gerek resmi sektör işverenlerince ilgili Ünitenin kullanım
+hesabına yatırıldığı halde gerekli aktarma işlemi yapılmamış tahsilatlar, gerekse katma değer
+vergisi iade alacağından mahsup suretiyle ödendiği halde işyeri H/C kartına aktarılmamış
+olan kayıtlar, otomatik icra programları vasıtasıyla diğer tüm borçlarla birlikte icra
+havuzuna aktarılacağından, yapılan icra masrafları ile mahkeme masrafları, gereken
+işlemleri zamanında yapmayarak ihmal veya kusuru nedeniyle yersiz takip açılmasına
+sebebiyet veren personelden tahsil edilecektir.
+         “Otomatik İcra” programı vasıtasıyla dönüşüm sonrası olup 1.1.2005 tarihinden sonra
+ki dönemlere ilişkin borçlar Genel Müdürlüğümüzce icra havuzuna aktarıldıktan sonra, bu
+borçlara ilişkin ödeme emirleri bundan böyle Sigorta Primleri Servislerince değil, İcra Takip
+Haciz ve Satış Servisince bilgisayardan döktürülecektir.
+
+        Bu nedenle, “Otomatik İcra” programları vasıtasıyla İcra Takip Haciz ve Satış Servisine
+intikal eden ödeme emirlerinin üzerinde yer alan “Düzenleyenin Adı Soyadı” bölümüne ilgili dosya
+memurunun adı ve soyadı yazılacak olup, “İmza” bölümü ise yine ilgili dosya memurunca, “Yetkili
+İmza” bölümü de Servis Şefi/Yetkilisince imzalanacaktır.
+        Diğer taraftan, “Otomatik İcra” programı vasıtasıyla icra havuzuna aktarılan
+borçlara ilişkin ödeme emirleri İcra Takip Haciz ve Satış Servisince bilgisayardan
+                                                                                                       3
+alınacağından üst yazı kullanılmayacaktır. Dönüşüm sonrası dönemlere ilişkin borçlar
+bilgisayar programlarınca takip ve tahsil edildiğinden, bu dönemlere ilişkin alacakların İcra
+Takip Haciz ve Satış Servisine intikali sırasında bundan böyle takip yaprağı da
+kullanılmayacaktır.
+        Yine, dönüşüm sonrası dönemlere ilişkin gerek “Otomatik İcra” programı vasıtasıyla,
+gerekse Sigorta Primleri Servislerince icra havuzuna aktarılan ödeme emirleri, İcra Kütük
+Defterine bilgisayar programları vasıtasıyla kaydedildiğinden, dönüşüm sonrası döneme
+ilişkin ödeme emirlerinin kağıt ortamında ayrıca İcra Kütük Defterine kaydedilmesine gerek
+bulunmamaktadır.
+        Kurumumuz alacaklarının otomatik olarak icra havuzuna aktarılmasına ilişkin işlemler,
+SSK Sigorta İl/Sigorta Müdürlüklerimizin (Devredilen) daha önce yapmış olduğu icra işlemlerinin
+yapılmasına engel teşkil etmeyeceğinden, acil hallerde ve istenildiği zaman Sigorta Primleri
+Servislerince muaccel borçların icra havuzuna aktarılması suretiyle icra takibine geçilmesi
+mümkün bulunmaktadır.
+        Genel Müdürlüğümüzce icra havuzuna aktarıldıktan sonra çeşitli nedenlerle iptal edilen
+kayıtların Sigorta Primleri Servisi tarafından gerekli aktarma veya düzeltme işleminin yapılmasının
+ardından ilgili servis şefi tarafından kontrol edilerek, varsa kalan borçları Sigorta Primleri
+Servisinin ilgili memuru tarafından icra havuzuna aktarılacaktır.
+        Dönüşüm sonrası döneme ilişkin olmakla birlikte, Sigorta Primleri Servislerince icra
+havuzuna aktarılan kayıtlara ilişkin ödeme emirleri (idari para cezaları ile 2004/Aralık ve
+önceki döneme ilişkin borçlar), daha önce olduğu gibi üst yazı düzenlenmek suretiyle İcra
+Takip Haciz ve Satış Servisine intikal ettirileceğinden, bu borçlara ilişkin ödeme emirleri
+Sigorta Primleri Servislerince bilgisayardan döktürülecek olup, bu borçlar için takip yaprağı
+düzenlenmeyecektir.
+        Dönüşüm öncesi döneme ilişkin Kurum alacaklarının İcra Takip Haciz ve Satış Servisine
+intikal işlemleri henüz bilgisayar programları marifetiyle yapılamadığından, söz konusu borçlara
+ilişkin ödeme emirleri, takip yaprağı da düzenlenmek suretiyle Sigorta Primleri Servislerince
+tanzim edilerek üst yazı ekinde İcra Takip Haciz ve Satış Servisine intikal ettirilecektir.
+        Bu bağlamda, Sigorta Primleri Servislerince muaccel borçların İcra Takip Haciz ve
+Satış Servislerine intikal ettirilmesi ile ilgili olarak 23.11.2007 tarihine kadar bitirilmesi
+talimatlandırılan yukarıda belirtilen işlemlerin anılan tarihe kadar bitirilmiş olduğu hususu,
+en geç 25.11.2007 tarihi mesai saati sonuna kadar resmi bir yazı ile Genel Müdürlüğümüze
+bildirilecektir.
+        Diğer taraftan, bu genelgenin yayımlandığı tarihten sonra geriye yönelik olarak gerek
+işverenlerce, gerekse SSK Sigorta İl /Sigorta Müdürlüklerince (Devredilen) re’sen düzenlenen prim
+belgelerinden dolayı tahakkuk eden sigorta primi, işsizlik sigortası primi ve damga vergisi
+borçlarının tebligatta öngörülen süre içinde ödenmemesi halinde, tahakkuk eden borçlar, idari
+aşamada kesinleştiği tarihten itibaren en geç 15 gün içinde Sigorta Primleri Servislerince İcra
+Takip Haciz ve Satış Servislerine intikal ettirilecektir.
+        4958 veya 5458 sayılı Kanunlar gereği Kurumumuza olan ve kapsama giren borçları
+yeniden yapılandırıldığı halde, yeniden yapılandırılan borçlarla ilgili taksit ve/veya cari aya ilişkin
+ödeme yükümlülüklerini ihlal eden işveren/aracıların anılan Kanunlar kapsamına giren borçlarının
+İcra Takip Haciz ve Satış Servislerine intikal ettirilmesi için, yeniden yapılandırma işlemlerinin
+bozulması gerekmektedir.
+        Bu nedenle, 4958 veya 5458 sayılı Kanunlar gereği kapsama giren borçları yeniden
+yapılandırılan ancak ödeme yükümlülüklerini yerine getirmediği anlaşılan işveren/aracıların
+yapılandırma işlemleri derhal bozularak, yeniden yapılandırma kapsamına giren borçları diğer
+borçlarla birlikte en geç 23.11.2007 tarihine kadar, yeniden yapılandırılan borçlarla ilgili bozulma
+koşulları bu genelgenin yayımlandığı tarihten sonra gerçekleşen işveren/aracıların yeniden
+yapılandırma işlemleri ise, bozulma koşulunun oluştuğu tarihten itibaren en geç bir ay içinde
+bozularak, söz konusu borçlar Sigorta Primleri Servislerince İcra Takip Haciz ve Satış Servislerine
+
+                                                                                                     4
+intikal ettirilecektir. Bu amaçla borçlarını yeniden yapılandıran işveren/aracıların yeniden
+yapılandırma anlaşmalarının bozulup bozulmadığı hususu her ay düzenli olarak kontrol edilecektir.
+5216 ve 5393 sayılı Kanunlar uyarınca, büyükşehir belediyeleri, belediyeler ve bağlı kuruluşlar ile
+sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin 31.12.2004 tarihi itibariyle
+Kurumumuza olan ve Uzlaşma Komisyonunca karara bağlanan borçları yeniden
+yapılandırıldığından, bu nitelikteki işyerlerinin Uzlaşma kapsamına giren borçlarının icraya intikal
+ettirilmesine gerek bulunmamaktadır.
+         1.3- İcra Takip Haciz ve Satış Servislerince Yapılacak İşlemler
+         İcra Takip Haciz ve Satış Servislerine intikal eden borçlu işveren/aracılara ilişkin kayıtlar,
+yukarıda açıklandığı şekilde icra havuzundan alınmak suretiyle icra takip numarası verildikten
+sonra takip kartına işlenecek, ardından gerekli takip işlemlerine başlanılacak olup,
+         a) Sigorta Primleri Servislerince gerek manuel olarak düzenlenen, gerekse bilgisayar
+programları vasıtasıyla icra havuzuna aktarılan ödeme emirleri, servise intikal ettiği tarihten
+itibaren,
+         b)“Otomatik İcra” programları vasıtasıyla icra havuzuna aktarılan borçlara ilişkin
+ödeme emirleri ise, her ay icra havuzuna aktarıldığı tarihten itibaren,
+         en geç 10 gün içinde İcra Takip Haciz ve Satış Servislerince tebliğe çıkartılacaktır.
+(Ödeme emrine 10 gün içinde Evrak Servisince tarih ve sayı verilmiş olacaktır.)
+         1.4. Ödeme Emirlerinin Düzenlenmesinde Yapılan Değişiklikler
+         Otomatik icra olarak adlandırılan programla birlikte, ödeme emrinin oluşturulmasında da
+bazı değişiklikler yapılmış olup, söz konusu değişiklikler aşağıda açıklanmıştır.
+         Özel sektör işverenlerinin Kurumumuza olan sigorta primi, işsizlik sigortası primi, damga
+vergisi, eğitime katkı payı ve özel işlem vergisi borçlarına ilişkin olarak düzenlenen ödeme
+emrinde kayıtlı gecikme cezası ve gecikme zammı, daha önce matbu formun bilgisayardan alındığı
+tarih itibariyle hesaplanmakta iken, yapılan düzenlemeler sonucunda içinde bulunulan ayın son
+günü itibariyle hesaplanmış olarak alınacaktır.
+         Resmi sektör işverenleri ile ters işyeri kodlu özel sektör işverenlerinin Kurumumuza olan
+borçlarına ilişkin olarak düzenlenen ödeme emrinde kayıtlı gecikme cezası ve gecikme zammı ise,
+içinde bulunulan ayın 14’ü itibariyle, ödeme emrinin içinde bulunulan ayın 14’ünden sonra
+alınması halinde ise, müteakip ayın 14’ü itibariyle hesaplanarak döktürülecektir.
+         İdari para cezası borçlarına ilişkin olarak düzenlenen ödeme emirlerinde kayıtlı gecikme
+cezası ve gecikme zammı ise; tebliğ tarihini takip eden 15 inci günden başlanarak aylık olarak
+hesaplanmak suretiyle içinde bulunulan ayda ödeme vadesinin bittiği gün itibariyle, içinde
+bulunulan ayda ödeme vadesinin sona erdiği tarih geçmiş bir tarihe isabet ediyor ise, müteakip
+ayda ödeme süresinin sona erdiği tarih itibariyle hesaplanmış olarak alınacaktır.
+         Örneğin, A Limited Şirketinin 2007 yılı Ocak ayına ilişkin 1.000 YTL tutarlı sigorta prim
+borcunun 26.11.2007 tarihinde icra havuzuna intikal ettirilmesinin ardından bilgisayardan alınacak
+olan ödeme emrinde kayıtlı gecikme cezası ve gecikme zammı, 26.11.2007 tarihi itibariyle değil
+30.11.2007 tarihi itibariyle hesaplanmış olacaktır.
+         Diğer taraftan, gecikme cezası ve gecikme zammının hesaplanması sırasında ödeme
+vadesinin dolduğu tarihin resmi tatile rastlaması halinde, gecikme cezası ve gecikme zammı,
+ödeme vadesinin dolduğu tarihten bir önceki iş günü itibariyle hesaplanacaktır.
+         Ödeme emrinde kayıtlı gecikme cezası ve gecikme zammının hesaplandığı tarihten önce
+veya sonra ödeme yapılması halinde gecikme cezası ve gecikme zammı ödemenin yapıldığı tarihe
+göre bilgisayar programlarınca ayrıca hesaplanacaktır.
+         Öte yandan, daha önce olduğu gibi icra havuzunda yer alan borçların İcra Takip Haciz ve
+Satış Servislerince icra havuzundan alındığı tarihe kadar tahakkuk eden gecikme cezası ve gecikme
+zammı, işveren gecikme cezası ve gecikme zammı olarak; icra havuzundan alındığı tarihten tahsil
+tarihine kadar tahakkuk edecek gecikme cezası ve gecikme zammı ise, icra gecikme cezası ve
+gecikme zammı olarak işlem görecektir.
+         İşverenlerin yanı sıra aracıların da Kurumumuza borcunun bulunması halinde, aracıların
+borçlarından dolayı asıl işverenin de sorumlu olması nedeniyle, hem asıl işveren, hem de aracı için
+                                                                                                     5
+aynı ödeme emri düzenlenmekte olup, asıl işveren ve aracılara ilişkin olarak düzenlenen ödeme
+emrinde, hem asıl işverenin hem de aracının unvan ile adres bilgileri yer alacak ve aracıların
+borçlarına ilişkin olarak düzenlenen ödeme emirleri, asıl işverene ve aracıya ayrı ayrı tebliğ
+edilecektir.
+         1.5- Haciz ve Satış İşlemleri:
+         Ödeme emrinin tebliğ edildiği tarihten itibaren borçlu tarafından 7 gün içinde mal
+beyanında ya da 6183 sayılı Kanunun 48 inci maddesine istinaden tecil ve taksitlendirilme
+talebinde bulunulmaması halinde, 7 günlük sürenin bittiği tarihten itibaren en geç 10 gün
+içinde, tebliğ mazbatasının 7 günlük süre içerisinde Kuruma intikal etmemesi halinde ise,
+mazbatanın intikal tarihinden itibaren yine en geç 10 gün içinde borçlular hakkında hapsen
+tazyik kararı alınmasını teminen İcra Tetkik Mercii Hakimliğine yazılı talepte bulunulacaktır.
+         Borçlularca mal beyanında bulunulmasının veya mal beyanında bulunulmaması
+nedeniyle İcra Tetkik Mercii Hakimliğine hapsen tazyik kararı alınmasını teminen yazılı
+talepte bulunulmasının ardından en geç 15 gün içinde, borçluya ait gayrimenkul mallar ve
+araçlar ile 6183 sayılı Kanunun 79 uncu maddesine istinaden borçlunun bankalar dahil üçüncü
+kişiler nezdindeki hak ve alacaklarının haciz bildirisi gönderilmek suretiyle haczedilmesine
+ilişkin işlemler yapılacaktır.
+         Yukarıda açıklanan haciz işlemlerinin yapılmasının ardından,mal beyanında bulunulan veya
+İcra Tetkik Mercii Hakimliğine suç duyurusunda bulunulan tarihten itibaren en geç bir ay
+içinde fiili haciz işlemleri yapılacaktır.
+         Fiili haciz işlemlerinin yapılmasına rağmen, üç gün içinde borcun ödenmemesi veya tecil ve
+taksitlendirme talebinde ya da yasal süresi içinde borçlu/üçüncü kişilerce haciz işlemlerine karşı
+istihkak iddiasında bulunulmaması halinde, daha önce yed-i emin olarak yerinde işverene/işveren
+vekiline/işçisine/üçüncü kişilere bırakılan mahcuz menkul mallar, fiili haciz işlemlerinin yapıldığı
+tarihten itibaren en geç 10 gün içinde muhafaza altına (haczedilen menkul malların yerinden
+kaldırılarak yedi emin deposuna veya varsa Kurum deposuna teslim edilmesi) alınacaktır.
+         Öte yandan, mal kaçırma, muvazaalı işlemler, satış işlemlerinin derhal yapılması gibi
+nedenlerin bulunması halinde fiili haciz işlemlerinin yapılmasını müteakip 10 günlük süre
+beklenilmeksizin haczedilen mahcuz menkul mallar derhal muhafaza altına alınacaktır.
+         İcra takibine konu borcun ödenmemesi halinde, menkul malların muhafaza altına
+alındığı tarihten itibaren bir ay içinde satış işlemi sonuçlandırılacak, gayrimenkul malların
+ise haciz tatbikine ilişkin resmi yazının Kurum kayıtlarına intikal ettiği tarihten itibaren 10
+gün içinde satış işlemlerine başlanılacaktır.Diğer taraftan ünitelerimizce, gerek menkul
+gerekse gayrimenkul malların satış ilanına kadar, borçlu tarafından yapılan tecil ve
+taksitlendirme talepleri değerlendirilmeye tabi tutulacaktır.
+         Diğer taraftan, gerek menkul gerekse gayrimenkul malların haciz ve satış işlemleri sırasında
+toplam borç tutarı yüksek olan işyerleri ile mevsimlik olan işyerlerine öncelik verilecektir.
+         İcra Takip Haciz ve Satış Servislerinin görevlerini yukarıda belirtildiği şekilde ve süresi
+içinde yapılabilmesi için ünite amirince gerekli tedbirler alınacak, işlemlerin süresi içinde yapılıp
+yapılmadığı ise, servis şefi ve müdür yardımcısı tarafından düzenli olarak kontrol edilecektir.
+İşlemlerin süresinde yapılmamış olması halinde ilgili personel ile birlikte servis şefi, müdür
+yardımcısı ve ünite amiri sorumlu tutulacaktır.
+         1.6- İşyeri Tescil Servislerince Dikkat Edilecek Hususlar
+         Bilgisayar programları vasıtasıyla alınan ödeme emirlerinde gerek işverenlere, gerek
+aracılara, gerekse ortak ve üst düzey yöneticilere ilişkin unvan, adres ve kimlik bilgileri işyeri tescil
+kütüklerindeki kayıtlardan alınmaktadır. Tescil giriş ve düzeltme işlemleri sırasında adres veya
+unvan bilgilerinin eksik ya da yanlış girilmesi halinde, söz konusu kayıtlar bilgisayar
+programlarınca doğrudan ödeme emrine yazdırılacağından, tescil kütüklerindeki eksik veya hatalı
+kayıtlar nedeniyle İcra Takip Haciz ve Satış Servislerince yapılan takipler de sonuçsuz kalacaktır.
+         Bu itibarla, tescil giriş ve düzeltme işlemleri sırasında, bilgisayar programlarınca veri girişi
+istenilen işveren, aracı, üst düzey yönetici veya ortaklara ilişkin bilgilerin zamanında, eksiksiz ve
+
+                                                                                                       6
+doğru girilmesine azami özen gösterilecek, adres değişiklikleri devir, intikal gibi işlemler Kuruma
+bildirildiği tarih itibariyle sisteme kaydedilecektir.
+        2-İCRA         TAKİP        HACİZ       VE     SATIŞ     SERVİSLERİNİN           YENİDEN
+YAPILANDIRILMASI(Mülga: 21/6/2011-2011/53 sayılı Genelge Ek: 11/b.)
+        Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+
+
+
+DAĞITIM :
+Gereği :
+-Sosyal Sigortalar Genel Müdürlüğüne
+-SSK Sigorta İl ve Sigorta Müdürlüklerine(Devredilen)
+-Sosyal Güvenlik Kurumu Başkanlığı Merkez
+Ünitelerine
+
+
+
+
+                                                                                                 7
+

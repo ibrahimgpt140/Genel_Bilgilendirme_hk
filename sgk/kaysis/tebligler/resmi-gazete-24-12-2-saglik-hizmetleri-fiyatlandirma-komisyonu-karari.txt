@@ -1,0 +1,121 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/95251
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 24.12.2016 - 29928
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 24.12.2016 - 29928
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7a0b67b7e7da09f305a576dd49821e2630a082bf1db8aab6c46b954f1e9f9f44
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU
+KARARI
+Toplantı Tarihi : 06 / 12 /2016
+Toplantı Sayısı : 2016 /9
+Karar Tarihi :06/12/2016
+Karar No 12016 /9
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri
+Fiyatlandırma Komisyonu (SHFK) ilgili yönetmelik gereği 06/12/2016 tarihinde sekizinci olağanüstü
+toplantısını yaparak aşağıdaki kararları almıştır.
+
+MADDE 1- a) SUT Eki Ek 2/B Listesi'nde yer alan işlem puanlarının karar eki EK-I?de yer aldığı
+şekliyle yeniden düzenlenmesine,
+
+b) SUT Eki Ek 2/C Listesi'nde yer alan işlem puanlarının karar eki EK-2'de yer aldığı şekliyle
+yeniden düzenlenmesine,
+
+e) Karar eki EK-3'da yer alan işlem kodlarının SUT Eki EK-2/C-! İlave Oran Uygulanacak İşlemler
+Listesine eklenmesine,
+
+ç) Karar eki EK-4”da yer alan işlem kodlarının SUT Eki EK-2/C-I İlave Oran Uygulanacak İşlemler
+Listesinden çıkarılmasına,
+
+Belirlenen kararların yayımlanacak olan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde
+belirtilen tarihte yürürlüğe girmesine oy birliği ile ,
+
+MADDE 2- 27.10.2016 tarihli, 2016/7 sayılı ve 06.12.2016 tarihli, 2016/9 sayılı Sağlık Hizmetleri
+Fiyatlandırma Komisyonu toplantılarında Myalept 11,3 mg | vial isimli ilaca ilişkin Altematif Geri Ödeme
+Komisyonunun 25.10.2016 tarihli kararı uygun bulunmuş ve söz konusu ilacın “konjenital jeneralize
+lipodistrofi” tanısında reçeteleme ve raporlama koşullarının;
+
+“(1) Leptin düşüklüğü (erkeklerde < 8 ng/ml; kadınlarda < 12 ng/ml) bulunan ve metabolik
+bozuklukların düzeltilmesine yönelik tedavilerin ( metformin, glitazon, insülin, hipolipidemik tedavi ve
+diyet) en az 6 ay kullanılmasına rağmen yanıt alınamamış hastalarda, 6 ay süreli çocuk endokrinoloji ve/veya
+erişkin endokrinoloji ve metabolizma uzmanlarından oluşan sağlık kurulu raporu ile bu hekimlerce
+reçetelenerek tedaviye başlanır. Metabolik bozuklukların düzeltilmesine yönelik tedavilerden yanıt
+alınamama kriterleri;
+
+a) HbAlc> 98 veya
+
+b) Trigliserid > 300 mg / dl veya
+
+c) ALT ve AST düzeyleri üst sınırın 2 katından fazla veya
+ç) Günlük insülin dozu 1,5 ünite / kg üzerinde olması
+
+(2) 6 aylık metreleptin tedavisi sonrasında yukarıdaki kriterlerden en az ikisinde düzelme
+sağlanmaması durumunda tedavi kesilir. İdame tedavisine geçilen hastalarda 6 ay süreli çocuk endokrinoloji
+ve/veya erişkin endokrinoloji ve metabolizma uzmanlarından oluşan sağlık kurulu raporu ile bu hekimlerce
+reçetelenerek tedavi sürdürülür." hususlarını içermesine ve söz konusu ilacın alınan kararlar doğrultusunda
+reçeteleme ve raporlama koşullarının Sağlık Uygulama Tebliğinde yayımlanması, model gereği sözleşme
+imzalanması söz konusu ise sözleşme hükümlerinin yürütümü ile ilgili işlemlerin gerçekleştirilmesi ve
+Alternatif Geri Ödeme Komisyonu kararlarının yürürlük tarihlerinin söz konusu Komisyon kararlarına göre
+
+belirlenmesi ile ilgili işlemlerin GSS Genel Müdürlüğü ve ilgili Daire Başkanlıklarınca yürütülmesine oy
+birliğiyle olumlu görüşle,
+Karar verilmiştir.
+EK-
+HİZMET BAŞI İŞLEM PUAN LİSTESİ
+N İŞLEM
+KODU İŞLEM ADI AÇIKLAMA PLANI
+619911 | Müdahaleli vajinal doğum (İlk doğum) 00 30143
+619912 | Müdahaleli vajinal doğum (Çoğul gebelik) |, | 301,43
+619913 | Müdahaleli vajina lk doğum (Çoğul gebelik) || ŞA 30
+619.920 | Normal vajinal doğum |, İİ aşs
+619921 | Normal vajinal doğum (İlk doğum)
+619.922 | Epidural anestezi ile vajinal doğum 24115
+619923 Epidural anestezi ile vajinal doğum (Çoğul 30143
+gebelik)
+619,26 | Normal vajinal doğum (Çoğul gebelik) İİ 301,43
+619927 | Normal vajinal ilk doğum (Çoğul gebelik) o | 313,50
+EK-2
+TANIYA DAYALI İŞLEM PUAN LİSTESİ
+PAKET i İŞLEM İŞLEM
+KODU İŞLEM ADI AÇIKLAMA GRUBU | PUANI
+P619910 | Müdahaleli vajinal doğum epizyotomi dahil D | 876,90
+P619911. | Müdahaleli vajinal doğum dık doğum) | Svikal prosteglaninler hariç, | e (ei 1.096,12
+Ps1oo1> | Müdahaleli vajinal doğum (Çoğul Servikal prostaglandinler hariç, > fe) 1.096,12
+gebelik) epizyotomi dahil
+P619913 Müdahaleli vajinal ilk doğum (Çoğul Servikal prostaglandinler hariç, 1138.80
+gebelik) epizyotomi dahil
+P619920 | Normal vajinal doğum Srvikl postane hariç, > |» 87690
+P619921 | Normal vajinal doğum (İlk doğum) irvika proslağlandiler bariş, b le) 1.096,12
+PG19922 | Epidural anestezi ile vajinal doğum Servikal pia 931,70
+Epidural anestezi ile vajinal doğum Servikal prostaglandinler hariç,
+
+P619923 | oğul gebelik) epizyotomi dahil 109612
+P6L9926 | Normal vajinal doğum (Çoğul gebelik) Servikal pet anime hariç, > fe) 1.096,12
+| eoiso27 | ali ta | Servikal prostaglandinler hariç, b |» Jesse)
+P619927. | Normal vajinal ilk doğum (Çoğul gebelik) | SEVİN ME 1.138,80
+
+EK-3
+İLAVE ORAN UYGULANACAK İŞLEMLER LİSTESİ ( EK-27/C-1)
+PAKET N
+oran)
+P700944 | Transkateter protez aortik kapak implantasyonu (Replasmanı)
+P700945 | Transkateter protez pulmoner kapak implantasyonu (Replasmanı)
+EK-4
+İLAVE ORAN UYGULANACAK İŞLEMLER LİSTESİ ( EK-/C-1)
+PAKET ©
+P619910 | Müdahaleli vajinal doğum
+P619911 | Müdahaleli vajinal doğum (İlk doğum
+P619912 | Müdahaleli vajinal doğum (Çoğul gebelik
+P619913 | Müdahaleli vajinal ilk doğum (Çoğul gebelik)
+P619920
+P619921 | Normal vajinal doğum (İlk doğum!
+P619922 | Epidural anestezi ile vajinal doğum
+P619926 | Normal vajinal doğum (Çoğul gebelik
+P619927 | Normal vajinal ilk doğum (Çoğul gebelik
+P700941 | Transkateter protez kapak implantasyonu (Replasmanı)

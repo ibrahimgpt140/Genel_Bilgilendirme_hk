@@ -1,0 +1,130 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/208024
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 126201255
+ADI: İŞYERİ TESCİL PROGRAMLARINDA 4857 SAYILI KANUN KAPSAMINDA İŞVEREN VEKİLİ TANIMLANMASI HAKKINDA 25.09.2025 TARHLİ VE 126201255 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 29a08fe461cc012301098bf72b6b1a5763e953baf7103c6465470d6d7cffb752
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                                                                        7
+                                                                                                                      97
+                                                           T.C.
+                                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                            Sigorta Primleri Genel Müdürlüğü
+
+
+
+
+                                                                                                                   27
+     Sayı     : E-64399925-202.01.99-126201255                                                                               25.09.2025
+
+
+
+
+                                                                                                                 74
+     Konu     : İşyeri Tescil Programlarında 4857 sayılı
+                Kanun Kapsamında İşveren Vekili
+                Tanımlanması
+
+
+
+
+                                                                                                         45
+                                                              GENEL YAZI
+
+
+
+
+                                                                                                7-
+             İş Sağlığı ve Güvenliği Genel Müdürlüğü, 6331 sayılı Kanun kapsamında iş sağlığı ve güvenliği
+     hizmetlerini yürütecek işveren veya işveren vekillerinin İSG-KATİP'e kaydolması ve bu kişilerin SGK
+
+
+
+
+                                                                                        97
+     veri tabanında da işveren ya da işveren vekili olarak görünmesi gerektiğini belirtmektedir. 5510 sayılı
+     Kanun'a göre işverenin her bir işyeri dosyası için aynı işveren vekili tanımlanabilmektedir. Ancak 4857
+     sayılı Kanun'a göre işin, işyerinin veya işletmenin yönetiminde görev alan kişiler işveren vekili
+
+
+
+
+                                                                                 27
+     sayıldığından, işverenin yönetiminde görevli kişilerin işyeri sicil numarası bazında 4857 sayılı Kanun'a
+     göre işveren vekili olarak yetkilendirilebilmesi için Kurumumuz işyeri tescil sisteminde değişiklik
+     yapılması talep edilmektedir.                                       74
+             Söz konusu talebe istinaden işyeri tescil programlarında yapılan güncellemeler neticesinde;
+             1)Hem e-Devlet hem İşyeri Tescil 4A (Şube) üzerinden yapılan yeni işyeri tescillerinde 4857
+                                                                  45
+     sayılı Kanun'a göre işveren vekili atanabilmesi için alan eklenmiştir. Bu alanı doldurmak zorunlu değildir.
+             2)İşveren, her işyeri dosyası için 4857 sayılı Kanun kapsamında farklı bir işveren vekili atayabilir.
+             3)Her işyeri dosyası için 4857 sayılı Kanun kapsamında yalnızca bir işveren vekili atanabilecektir.
+                                                        7-
+
+
+             4)Tescil edilmiş mevcut işyeri dosyalarında 4857 sayılı Kanun kapsamında işveren vekili atama,
+     değiştirme ve silme işlemlerine imkân sağlayan menüler İşyeri Tescil 4A (Şube) programına eklenmiştir.
+             5)Gelen talepler doğrultusunda tescil edilmiş mevcut işyeri dosyalarına 4857 sayılı Kanun
+                                                 97
+
+
+
+
+     kapsamında işveren vekili atama işlemleri "Tescil Giriş İşlemleri" → "Yetkili Giriş" → "4857 Giriş"
+     menüsünden yapılacaktır.
+                                          27
+
+
+
+
+             6)Bir işyeri dosyası için ünite personelimizce de sisteme 4857 sayılı Kanun kapsamında yalnızca
+     bir işveren vekili tanımlanabilecek olup bu kapsamdaki mevcut işveren vekili silinmeden yenisi
+     tanımlanamayacaktır.
+                                  74
+
+
+
+
+             7)5510 sayılı Kanun kapsamındaki işveren vekili uygulamasında herhangi bir değişiklik
+     yapılmamıştır.
+                           45
+
+
+
+
+             Yukarıda belirtilen düzenlemeler çerçevesinde işlemlerin yapılması önem arz etmektedir.
+             Bilgilerini ve gereğini rica ederim.
+                 7-
+
+
+
+
+                                                                                                            Mürsel BAKİ
+                                                                                                   Sigorta Primleri Genel Müdürü
+            97
+
+
+
+
+     Dağıtım:
+     Tüm Taşra Teşkilatına
+     27
+ 74
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: 3D3AE098-EEC1-4A62-9621-5BE9931782E0                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+45
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                   Bilgi için:Tevfik Can
+     Telefon: 0 312 458 71 31                                                                                      SALTOĞLU
+     Faks: 0 312 432 12 37                                                                            Sosyal Güvenlik Uzmanı
+     E-Posta: isverenlerPrimDB@sgk.gov.tr
+

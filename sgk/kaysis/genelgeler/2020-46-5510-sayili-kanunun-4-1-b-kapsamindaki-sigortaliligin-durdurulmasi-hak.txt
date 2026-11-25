@@ -1,0 +1,801 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/168311
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2020/46
+ADI: 5510 SAYILI KANUNUN 4/1-B KAPSAMINDAKİ SİGORTALILIĞIN DURDURULMASI HAKKINDA 18/11/2020 TARİHLİ 2020/46 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e73be74a6b4973c673ff839eda597be23929b7abb3efd5b07ce1224f83768e25
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-40071718-206.99-14082030                                                                                          18.11.2020
+Konu : 5510 Sayılı Kanunun 4/1-b
+       Kapsamındaki Sigortalılığın
+       Durdurulması
+
+                                                            GENELGE
+                                                             2020/46
+
+  1 – Genel Açıklamalar
+
+       Bilindiği üzere, 11.11.2020 tarihli ve 7256 sayılı Kanun 17.11.2020 tarihli ve 31307 sayılı Resmi
+Gazete’de yayımlanarak yürürlüğe girmiş ve anılan Kanunun 34 üncü maddesi ile 5510 sayılı Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanununa Geçici 83 üncü madde eklenmiştir.
+        Geçici 83 üncü maddede; "Kendi adına ve hesabına bağımsız çalışanlarla tarımda kendi adına ve
+hesabına bağımsız çalışanlardan, Kuruma kayıt ve tescilleri yapıldığı hâlde, 31/10/2020 tarihi itibarıyla
+prim borcu bulunanların, bu tarihten önceki sürelere ilişkin prim borçlarını, bu maddenin yürürlüğe
+girdiği tarihi takip eden ikinci ayın sonuna kadar ödememeleri veya ilgili Kanunları uyarınca
+yapılandırmamaları halinde, prim ödemesi bulunan sigortalıların daha önce ödedikleri primlerin tam
+olarak karşıladığı ayın sonu itibarıyla, prim ödemesi bulunmayan sigortalıların ise tescil tarihi itibarıyla
+sigortalılığı durdurulur. Durdurulan süreler sigortalılık süresi olarak değerlendirilmez ve bu sürelere
+ilişkin Kurum alacakları takip edilmeyerek bunlara Kurum alacakları arasında yer verilmez.
+Sigortalılıkları durdurulanlardan bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında çalışmaya devam edenlerin sigortalılıkları 1/11/2020 tarihi itibarıyla yeniden başlatılır.
+        Ancak, daha sonra sigortalı ya da hak sahipleri tarafından talep edilmesi hâlinde durdurulan
+sigortalılık sürelerinin tamamı, talep tarihinde 80 inci maddenin ikinci fıkrasına göre belirlenecek prime
+esas kazanç tutarı üzerinden borç tutarı hesaplanarak ihya edilir. Hesaplanan borç tutarının tamamını,
+borcun tebliğ tarihinden itibaren üç ay içinde ödedikleri takdirde, bu süreler sigortalılık süresi olarak
+değerlendirilir. Tebliğ edilen borç tutarının bu süre içinde tamamen ödenmemesi hâlinde bu süreler
+sigortalılık süresi olarak değerlendirilmez ve bu madde kapsamında ödenmiş olan tutarlar ilgilinin prim
+ve prime ilişkin borcunun bulunmaması kaydıyla faizsiz olarak iade edilir. İhya edilerek kazanılan hizmet
+süreleri borcun ödendiği tarihten itibaren geçerli sayılır.
+        Birinci fıkraya göre sigortalılıkları durdurulanlar ile bunların bakmakla yükümlü olduğu kişiler
+hakkında 1/1/2012 tarihinden bu maddenin yürürlük tarihine kadar durdurulan süreler için genel sağlık
+sigortası hükümleri uygulanmaz.
+        Sigortalılıkları önceki kanunlara göre durdurulanlar için de bu maddenin ikinci fıkrası hükmü
+uygulanır.
+        Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurum tarafından belirlenir."
+       hükümleri yer almaktadır.
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+       Söz konusu Geçici 83 üncü maddeyle kendi adına ve hesabına bağımsız çalışanlarla tarımda kendi
+adına ve hesabına bağımsız çalışanlardan, Kuruma kayıt ve tescilleri yapıldığı halde 31.10.2020 tarihi ve
+öncesine ilişkin prim borcu bulunanların sigortalılıklarının durdurulması ve daha sonra sigortalı ya da
+hak sahipleri tarafından talep edilmesi halinde durdurulan sigortalılık sürelerinin tamamının ihya
+edilebilmesi amaçlanmıştır.
+
+         2- Kapsamdaki Sigortalılar
+
+         31.10.2020 tarihi itibarıyla prim borcu bulunması kaydıyla;
+         - Mülga 1479 ve mülga 2926 sayılı Kanunlara göre sigortalı olarak tescilleri yapılanlar,
+         - Tevkifata istinaden geriye dönük mülga 2926 sayılı Kanun kapsamında tescili yapılanlar,
+         - 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı
+sayılanlar (Köy ve mahalle muhtarları ile isteğe bağlı sigortalılar hariç),
+         - Değişik yapılandırma kanunlarına göre prim borçlarını yapılandırdıkları halde (yapılandırma
+borcunun tamamını ödeyenler hariç) yapılandırması bozulanlar veya yapılandırmasının iptali için yazılı
+talepte bulunanlar,
+         - Kurumumuza olan borçları 5510 sayılı Kanunun 91 inci maddesine göre ertelenmiş
+sigortalılardan yazılı talepte bulunanlar,
+         - Prim borçlarını 6183 sayılı Kanunun 48 inci maddesi kapsamında tecil ve taksitlendirenlerden,
+tecil ve taksitlendirmesi bozulanlar veya tecil ve taksitlendirmesinin iptali için talepte bulunanlar,
+         Geçici 83 üncü madde kapsamında sayılacaktır.
+
+        3- Sigortalılığın Durdurulması
+
+        Bu genelgenin 2 nci bölümünde sayılanlardan, 31.10.2020 tarihi itibarıyla prim borcu
+bulunanların, bu sürelere ilişkin prim borçlarını, 31.01.2021 tarihine kadar ödememeleri veya ilgili
+kanunları uyarınca yapılandırmamaları yahut 6183 sayılı Kanunun 48 inci maddesi kapsamında tecil ve
+taksitlendirmemeleri halinde, 31.01.2021 tarihine kadar ödenen primler de dikkate alınmak suretiyle,
+prim ödemesi bulunan sigortalıların daha önce ödedikleri primlerin tam olarak karşıladığı ayın sonu
+itibarıyla, hiç prim ödemesi bulunmayan sigortalıların ise tescil tarihi itibarıyla sigortalılıkları
+durdurulacaktır.
+        İki aylık ödeme süresinin sonunda, 31.10.2020 tarihi itibarıyla prim borcu bulunanlardan hiç prim
+ödemesi olmayanların sigortalılığı oluşturulacak program aracılığıyla tescil tarihi itibarıyla (83) terk
+koduyla,
+        Prim ödemesi olanlardan ise tecil taksitlendirmesi ve yapılandırması bitmiş olan sigortalıların
+sigortalılığı, oluşturulacak program aracılığıyla sosyal güvenlik il müdürlüklerince/ sosyal güvenlik
+merkezlerince prim ödemelerinin karşıladığı ayın sonu itibarıyla (83) terk koduyla,
+        durdurulacaktır.
+        Örnek 1: Vergi mükellefiyet kaydına istinaden 01.06.2018 tarihinde sigortalılığı başlayan ve
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+kesintisiz devam eden 31.01.2021 tarihine kadar hiç prim ödemesi bulunmayan sigortalı (A)’nın,
+01.02.2021 tarihinde 31.10.2020 tarihi itibarıyla yapılan borç ayı sorgulamasında 29 ay prim borcunun
+bulunduğu tespit edilmiştir. İki aylık ödeme süresinin sonunda (A)’nın sigortalılığı oluşturulacak
+program aracılığıyla tescil tarihi olan 01.06.2018 tarihi itibarıyla (83) terk koduyla durdurulacaktır. Aynı
+sigortalının, ticari faaliyetinin ve sigortalılığının devam etmesi nedeniyle program tarafından 01.11.2020
+tarihi itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+         Örnek 2: Vergi mükellefiyet kaydına istinaden 12.05.2016 tarihinde tescili yapılan ve sigortalılık
+kaydı kesintisiz devam eden sigortalı (B)’nin değişik tarihlerde prim ödemesi olmakla birlikte tecil ve
+taksitlendirmesinin olmadığı, 7143 sayılı Kanundan da yararlandığı, 31.10.2020 tarihi itibarıyla 13 ay
+prim borcunun olduğu belirlenmiştir. İki aylık ödeme süresinin sonunda (B)’nin sigortalılığı sosyal
+güvenlik il müdürlüklerince/sosyal güvenlik merkezlerince 31.10.2019 tarihi itibarıyla (83) terk koduyla
+durdurulacaktır. Aynı sigortalının durdurma işleminin yapıldığı tarihte ticari faaliyetinin devam etmesi
+nedeniyle program          tarafından 01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılığı
+başlatılacaktır.
+         İki aylık ödeme süresinin sonunda prim borcu bulunanlardan prim ödemesi olanların tecil ve
+taksitlendirmesi ile yapılandırması ihlale girip iptal işlemleri yapılmamış veya yapılandırmadan
+ödedikleri kadar yararlanmış olan sigortalıların ise program aracılığıyla 31.10.2020 tarihi itibarıyla (84)
+sanal terk koduyla sigortalılıkları durdurulacak ve prim borçları silinecektir.
+         Hiç prim ödemesi bulunmaması nedeniyle sigortalılıkları tescil tarihi itibarıyla (83) terk koduyla
+durdurulan sigortalılar ile prim ödemesi olması nedeniyle 31.10.2020 tarihi itibarıyla (84) sanal terk
+koduyla sigortalıkları durdurulanlardan, durdurma işleminin yapıldığı tarihte 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi (4/b) kapsamında sigortalılıkları aktif olanların, program
+aracılığıyla 01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılıkları başlatılacaktır. Sigortalılığı
+(84) sanal terk kodu ile durdurulan sigortalıların (06) kodu da sanal olacak olup, sosyal güvenlik il
+müdürlüğünce/sosyal güvenlik merkezince sanal terklerin gerçek terklere dönüştürülmesi gerekmektedir.
+         Örnek 3: Vergi mükellefiyet kaydına istinaden 12.05.2015 tarihinde tescili yapılan ve sigortalılık
+kaydı kesintisiz devam eden sigortalı (B)’nin değişik tarihlerde prim ödemesi bulunduğu ve 31.10.2020
+tarihi itibarıyla 18 ay prim borcunun olduğu belirlenmiştir. İki aylık ödeme süresinin sonunda (B)’nin
+sigortalılığı program aracılığıyla 31.10.2020 tarihi itibarıyla (84) sanal terk koduyla durdurulacaktır.
+Aynı sigortalının durdurma işleminin yapıldığı tarihte ticari faaliyetinin devam etmesi nedeniyle
+01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+         Sigortalılıkları (84) sanal terk koduyla durdurulanların daha sonra sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine değişik gerekçelerle müracaat etmeleri halinde aşağıda yer alan
+açıklama ve örnekler doğrultusunda (84) sanal terk kodu (83) gerçek terk koduna dönüştürülecektir.
+
+        3.1. İki Aylık Ödeme Süresi Beklenilmeksizin Talebe İstinaden Sigortalılığın Durdurulması
+
+       Geçici 83 üncü maddede öngörülen iki aylık süreyi beklemeden Kanunun yayım tarihinden
+31.01.2021 tarihine kadar sigortalılığını durdurmak isteyen sigortalılar ve hak sahiplerinin, Ek-1’de yer
+alan başvuru formu ile dosyalarının bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+merkezine müracaat etmeleri halinde, prim ödemesi bulunan sigortalıların daha önce ödedikleri primlerin
+tam olarak karşıladığı ayın sonu itibarıyla, hiç prim ödemesi bulunmayan sigortalıların ise tescil tarihi
+itibarıyla (83) terk koduyla sigortalılıkları durdurulacaktır. Ayrıca sigortalılarca e-devlet sistemi
+üzerinden de durdurma talepleri yapılabilecektir.
+         Talebine istinaden sigortalılıkları durdurulanların (4/b) kapsamında çalışmaya devam ettiğinin
+tespit edilmesi halinde 01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+         Sigortalılığın durdurulmasından önce ileride yaşanması muhtemel mağduriyetlerin ve hak
+kayıplarının önlenmesi bakımından sigortalıların tescil ve hizmet sürelerinin belirlenmesine yönelik
+bilgileri güncellenecek, çakışan hizmet sürelerine ilişkin prim transferiyle ilgili işlemleri ve varsa diğer
+işlemleri (tescil, hizmet, beyan, ödeme yükleme, vb.) sosyal güvenlik il müdürlüklerince/sosyal güvenlik
+merkezlerince tamamlanacaktır.
+         Örnek 1: Vergi mükellefiyetine istinaden 01.06.2018 tarihinde sigortalılığı başlayan ve kesintisiz
+devam eden, hiç prim ödemesi bulunmayan sigortalı (A)’nın 31.10.2020 tarihi itibarıyla 29 ay prim borcu
+bulunmaktadır. Geçici 83 üncü maddede öngörülen iki aylık süreyi beklemeden sigortalılığını durdurmak
+amacıyla Ek-1’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine 05.12.2020 tarihinde müracaat eden (A)’nın sigortalılığı tescil
+tarihi itibarıyla (83) terk koduyla durdurulacaktır. Aynı sigortalının, ticari faaliyetinin devam etmesi
+nedeniyle 01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+         Örnek 2: Vergi mükellefiyetine istinaden 01.06.2019 tarihinde sigortalılığı başlayan (B)’nin
+15.10.2019 tarihinde 4.075,00 TL ve 13.01.2020 tarihinde 3.605,00 TL ödemeleri bulunmaktadır.
+31.10.2020 tarihi itibarıyla 9 ay prim borcu bulunan ve iki aylık süreyi beklemeden sigortalılığını
+durdurmak amacıyla e-devlet sistemi üzerinden 09.12.2020 tarihinde müracaat eden (B)’nin sigortalılığı,
+prim ödemelerinin karşıladığı tam ayın sonu olan 31.01.2020 tarihi itibarıyla (83) terk koduyla
+durdurulacaktır.
+         Aynı sigortalının, ticari faaliyetinin devam ettiğinin tespit edilmesi halinde 01.11.2020 tarihi
+itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+         Örnek 3: Şirket ortaklığı kaydına istinaden 10.06.2018 tarihinde sigortalılığı başlayan ve
+05.12.2019 tarihinde sona eren sigortalı (C)’nin 15.10.2018 tarihinde 750,00 TL, 13.01.2019 tarihinde
+500,00 TL, 30.11.2019 tarihinde 1.000,00 TL ödemeleri bulunmaktadır.
+         31.10.2020 tarihi itibarıyla 15 ay prim borcu bulunan ve 15.02.2020 tarihinde vefat eden
+sigortalının hak sahiplerince e-devlet sistemi üzerinden sigortalı adına başvuru yapamayacaklarından iki
+aylık süreyi beklemeden sigortalılığını durdurmak istemeleri halinde Ek-1’de yer alan başvuru formuyla
+sigortalının dosyasının bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine 16.11.2020
+tarihinde müracaat etmeleri durumunda, prim ödemelerinin karşıladığı tam ayın sonu olan 30.09.2018
+tarihi itibarıyla (83) terk koduyla sigortalılık durdurulacaktır.
+         Örnek 4: Tarımsal faaliyetine istinaden 2926 sayılı Kanun kapsamındaki sigortalılığı 01.01.2000
+tarihinde başlayan 30.04.2000 tarihinde (19) terki bulunan sigortalı (D)’nin 01.05.2008 tarihinden
+sonraki ödemeleri 30.06.2019 tarihine kadar düzenli devam etmekle birlikte bu tarihten sonra herhangi
+bir prim ödemesi bulunmamaktadır.
+         31.10.2020 tarihi itibarıyla 16 ay prim borcu bulunan ve iki aylık süreyi beklemeden sigortalılığını
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+durdurmak amacıyla Ek-1’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine 12.11.2020 tarihinde müracaat eden (D)’nin sigortalılığı,
+ödemiş olduğu primler yürürlükteki mevzuat hükümlerine göre mahsup edildikten sonra ödemelerin
+karşıladığı tam ayın sonu olan 30.06.2019 tarihi itibarıyla (83) terk koduyla durdurulacaktır. Aynı
+sigortalının, ziraat odası kaydının bulunması halinde 01.11.2020 tarihi itibarıyla (06) koduyla yeniden
+sigortalılığı başlatılacaktır.
+        Örnek 5: Tarımsal faaliyetine istinaden 2926 sayılı Kanun kapsamındaki sigortalılığı 01.10.2001
+tarihinde başlayan ve hiç prim ödemesi olmayan sigortalı (E)’nin sigortalılığı tescil tarihi itibarıyla (19)
+terk koduyla durdurularak 01.05.2008 tarihi itibarıyla (06) koduyla başlatılmıştır. Bu tarihten sonra da
+prim ödemesi olmaması nedeniyle sigortalılığı 01.05.2008 tarihi itibarıyla (63) terk koduyla durdurularak
+01.05.2015 tarihi itibarıyla (06) koduyla yeniden başlatılmıştır. Yine prim ödemesi olmaması nedeniyle
+sigortalılığı 01.05.2015 tarihi itibarıyla (76) terk koduyla durdurulmuş, 01.06.2018 tarihi itibarıyla (06)
+koduyla başlatılmıştır. Devamında da prim ödemesi olmayan sigortalının 01.06.2018 tarihi itibarıyla (83)
+terk koduyla sigortalılığı durdurulacak ve ziraat odası kaydının bulunması halinde 01.11.2020 tarihi
+itibarıyla (06) koduyla başlatılacaktır.
+        Diğer taraftan durdurma talebinde bulunan sigortalı ve hak sahiplerinin 31.01.2021 tarihine kadar
+başvuruda bulunmaları halinde bir defaya mahsus durdurma talebinden vazgeçerek Kurumumuza olan
+borçlarını yapılandırmaları ya da peşin olarak ödemeleri mümkündür.
+        Talep tarihine kadar yapılan ödemeler 01.11.2020 tarihinden önceki prim borçlarına mahsup
+edilecektir. Talep tarihinden sonra yapılan ödemeler ise sigortalılığın aktif olması halinde 01.11.2020
+tarihi ve sonrasına mahsup edileceğinden, sonraki bir tarihte (83) terkinin silinmesi halinde ilk talep
+tarihinin girilerek (83) terkinin yüklenmesi gerekmektedir.
+        Örnek 6: 18.11.2020 tarihinde bir ödemesi olan aktif sigortalının 19.11.2020 tarihinde durdurma
+talebinde bulunması halinde 18.11.2020 tarihinde yaptığı ödeme de 01.11.2020 öncesine mahsup edilerek
+(83) terki yüklenecek ve 01.11.2020 tarihine (06) yeniden sigortalılık kodu verilecektir. Bu sigortalının
+Kasım ayı primi teşvikli tahakkuk edecek ve kalan fazla ödemesi bulunması halinde bu ödeme Kasım ayı
+prim borcuna mahsup edilecektir.
+
+      3.2. 7143 ve 7256 sayılı Kanunlar Kapsamında Prim Borçlarını Yapılandıranların
+Sigortalılıklarının Durdurulması
+
+       Bu genelgenin 2 nci bölümünde sayılanlardan 7143 veya 7256 sayılı Kanunlar kapsamında
+yapılandırması devam edenler, Ek-1’de yer alan başvuru formu ile dosyalarının bulunduğu sosyal
+güvenlik il müdürlüğüne/sosyal güvenlik merkezine başvurarak yapılandırmalarının iptal edilmesini talep
+etmeleri halinde, yapılandırmaları iptal edilerek sigortalılıkları prim ödemelerine göre durdurulacaktır.
+Yapılandırma borcunun tamamını ödeyerek yapılandırmadan faydalananların talepleri ise dikkate
+alınmayacaktır.
+       Bu durumda olan sigortalıların taleplerine istinaden yapılandırmaları iptal edilecek ve varsa
+yapılandırma kapsamında ödedikleri tutarlar program tarafından (1) prim ödeme türüne alınacaktır. Bu
+sigortalıların yapılandırma iptal işlem sonucu sigortalılıkları prim ödemelerine göre durdurulacaktır.
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+        Diğer taraftan yapılandırmaları devam ederken yapılandırmalarını iptal ettirip sigortalılıkları
+durdurulanlar tekrar talepte bulunsalar dahi yapılandırma talepleri değerlendirmeye alınmayacaktır.
+        Örnek 1: 16.07.2005 tarihi itibarıyla vergi mükellefiyetine istinaden 1479 sayılı Kanun
+kapsamında tescili yapılan sigortalı (B), 19.06.2018 tarihinde sosyal güvenlik il müdürlüğüne/sosyal
+güvenlik merkezine müracaat ederek prim borçlarını 7143 sayılı Kanun kapsamında 18 eşit taksitle
+yapılandırma talebinde bulunmuştur. Yapılandırma kapsamında taksitlerini düzenli ödeyen sigortalı (B)
+Ek-1’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik il müdürlüğüne/sosyal
+güvenlik merkezine 18.11.2020 tarihinde müracaat ederek yapılandırmasının iptal edilmesini ve
+sigortalılığının durdurulmasını talep etmiştir.
+        Sigortalı (B)’nin yapılandırmasının iptal edilmesinden sonra yapılandırma taksiti olarak ödediği
+tutarlar program tarafından (1) prim ödeme türüne alınacak ve sigortalılığı prim ödemelerinin karşıladığı
+ay sonu itibarıyla 5510 sayılı Kanunun Geçici 76 ncı ve Geçici 83 üncü maddelerine göre durdurulacaktır.
+        Sigortalının ticari faaliyetinin devam etmesi nedeniyle yeniden sigortalılığı 01.11.2020 tarihi
+itibarıyla (06) koduyla başlatılacaktır.
+        Örnek 2: 15.10.2015 tarihi itibarıyla vergi mükellefiyetine istinaden 5510 sayılı Kanun
+kapsamında sigortalılık tescili yapılan sigortalı (A), 11.11.2020 tarihinde mevcut prim borçlarının 7256
+sayılı Kanun hükümlerine göre 18 eşit taksit ile yapılandırılması talebi ile başvuruda bulunmuştur.
+15.12.2020 tarihinde ilk taksitini ödeyen sigortalının 25.12.2020 tarihinde Ek-1’de yer alan başvuru
+formuyla dosyasının bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine müracaat
+etmiştir.
+        Sigortalı (A)’nın yapılandırmasının iptal edilmesinden sonra yapılandırma taksiti olarak ödediği
+tutarlar program tarafından (1) prim ödeme türüne alınacak ve sigortalılığı prim ödemelerinin karşıladığı
+ay sonu itibarıyla 5510 sayılı Kanunun Geçici 83 üncü maddesine göre durdurulacaktır.
+        Aynı sigortalının 7256 sayılı Kanun kapsamında yapılandırma talebinin peşin (talebi taksitli olup,
+yapılandırma borcunu durdurma talep tarihinden önce peşin olarak ödeyenlerde dahil) olması ve ilgili
+tutarı da süresinde ödeyerek 7256 sayılı yapılandırma Kanunundan yararlanması durumunda 31.08.2020
+öncesine ait hizmet için durdurma talebi alınmayacaktır. Ancak 01.09.2020 ve sonrası dönemler için
+durdurma talebinde bulunması halinde ise 31.08.2020 tarihine (83) terk kodu yüklenecek, yeniden
+sigortalılığı 01.11.2020 tarihi itibarıyla (06) koduyla başlatılacaktır.
+        7256 sayılı Kanundan peşin ödeyerek yararlanan sigortalının kapsama girmeyen 2020 yılı Eylül ve
+Ekim aylarına ait primlerinin 31.01.2021 tarihine kadar ödenmemesi halinde, 01.02.2021 tarihinde
+program tarafından 31.08.2020 tarihine (83) terk kodu yüklenecektir.
+        Sigortalının ticari faaliyetinin devam etmesi nedeniyle yeniden sigortalılığı 01.11.2020 tarihi
+itibarıyla (06) koduyla başlatılacaktır.
+
+       3.3. Prim Borçlarını 6183 Sayılı Kanunun 48 inci Maddesi Kapsamında Tecil ve
+Taksitlendirenlerin Sigortalılıklarının Durdurulması
+
+       Bu genelgenin 2 nci bölümünde sayılanlardan, Kurumumuza olan prim borçlarını bu Kanunun
+yürürlük tarihinden önce 6183 sayılı Kanunun 48 inci maddesi kapsamında tecil ve taksitlendirenler ile
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+tecil ve taksitlendirme talebi bozulmamış olanların, Ek-1’de yer alan başvuru formu ile dosyalarının
+bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine müracaat ederek tecil ve
+taksitlendirmelerinin bozulmasını talep etmeleri halinde sigortalılıkları prim ödemelerine göre
+durdurulacaktır.
+
+
+
+
+    3.3.1 Sigortalılığın Durdurulması İçin Müracaat Edilen Tarihte 6183 Sayılı Kanunun 48 inci
+Maddesi Kapsamında Tecil ve Taksitlendirme Talebi İhlale Girmemiş Olanlar
+
+        Sigortalılığın durdurulması için müracaat edilen tarihte 6183 sayılı Kanunun 48 inci maddesi
+kapsamında tecil ve taksitlendirme talebi bozulmamış olan sigortalıların 6183 sayılı Kanunun 48 inci
+maddesi kapsamında tecil ve taksitlendirme talebi silinerek, ödenen peşinat ile taksit tutarları (1) prim
+ödeme türüne alınacaktır.
+        Örnek 1: 15.07.2005 tarihi itibarıyla vergi mükellefiyetine istinaden 1479 sayılı Kanun
+kapsamında tescili yapılan sigortalı (A), prim borçlarını 18.08.2019 tarihinde 6183 sayılı Kanunun 48
+inci maddesi kapsamında 18 ay taksit seçeneğiyle tecil ve taksitlendirmiş, 2020/11 inci aya kadar olan
+taksitleri ile cari ay primlerini süresinde ödemiştir. 48 inci madde tecil ve taksitlendirmesi devam eden
+sigortalı (A), Ek-1’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine 25.12.2020 tarihinde müracaat ederek taksitlendirmesinin iptal
+edilmesini ve sigortalılığının durdurulmasını talep etmiştir.
+        Öncelikle ihlale girmemiş ve devam eden 48 inci madde tecil ve taksitlendirme talebi silinecek
+(22) ve (2) kodundaki ödemeler (1) prim ödeme türüne alınacaktır. Bu işlemden sonra (A)’nın
+sigortalılığı, prim ödemelerinin karşıladığı ayın sonu itibarıyla (83) terk koduyla durdurulacaktır.
+        Sigortalının ticari faaliyetinin devam etmesi halinde yeniden sigortalılığı 01.11.2020 tarihi
+itibarıyla (06) koduyla başlatılacaktır.
+
+    3.3.2 Sigortalılığın Durdurulması İçin Müracaat Edilen Tarihte 6183 Sayılı Kanunun 48 inci
+Maddesi Kapsamında Tecil ve Taksitlendirme Talebi İhlale Girmiş Olanlar
+
+        6183 Sayılı Kanunun 48 inci maddesi kapsamında tecil ve taksitlendirme talebi ihlale girenlerin
+(gerek taksit yönünden gerekse cari prim yönünden) öncelikle 6183 sayılı Kanunun 48 inci maddesi
+kapsamında tecil ve taksitlendirme talebi iptal edilecek ve prim ödemelerinin karşıladığı ayın sonu
+itibarıyla (83) terk koduyla sigortalılıkları durdurulacaktır. Sigortalıların ticari faaliyetlerinin devam
+etmesi halinde yeniden sigortalılıkları 01.11.2020 tarihi itibarıyla (06) koduyla başlatılacaktır.
+        Örnek 1: 06.07.2006 tarihi itibarıyla vergi mükellefiyetine istinaden 1479 sayılı Kanun
+kapsamında tescili yapılan sigortalı (B), prim borçlarını 17.02.2019 tarihinde 6183 sayılı Kanunun 48
+inci maddesi kapsamında 18 ay taksit seçeneğiyle taksitlendirmiş ve 2019/3, 4, 5, 6, 7 ve 8 inci ayda
+ödenmesi gereken taksitler ile cari ay primlerini zamanında ödemiş, ancak 2019/9, 10 ve 11 inci ayda
+ödemesi gereken taksitlerini 31.12.2019 tarihine kadar ödemediği için tecil ve taksitlendirmesi
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+01.01.2020 tarihinde ihlale girmiştir. Sigortalı (B) Ek-1’de yer alan başvuru formuyla dosyasının
+bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine 13.12.2020 tarihinde müracaat
+ederek sigortalılığının durdurulmasını talep etmiştir.
+        Sigortalılığın durdurulması için müracaat edilen tarihten önce 48 inci madde tecil ve
+taksitlendirme talebinin ihlale girmiş olması nedeniyle öncelikle 48 inci madde tecil ve taksitlendirme
+talebi iptal edilecek, program tarafından irat kaydı yapıldıktan sonra (B)’nin sigortalılığı prim
+ödemelerinin karşıladığı tam ayın sonu itibarıyla (83) terk koduyla durdurulacaktır.
+        6183 sayılı Kanunun 48 inci maddesi kapsamında tecil ve taksitlendirme talebi geçerli olan,
+31.01.2021 tarihine kadar sigortalılığının durdurulması talebinde bulunmayan, 6183 sayılı Kanunun 48
+inci maddesi kapsamında tecil ve taksitlendirme talebi 01.02.2021 tarihinden sonra ihlale giren
+sigortalıların, tecil ve taksitlendirmeleri ihlale girdiği tarihte iptal edilecek ve prim ödemelerinin
+karşıladığı ayın sonu itibarıyla sigortalılıkları (83) terk koduyla durdurulacaktır. Sigortalının ticari
+faaliyetinin devam etmesi halinde yeniden sigortalılığı 01.11.2020 tarihi itibarıyla (06) koduyla
+başlatılacaktır.
+
+        4- (84) Sanal Terk Kodunun (83) Gerçek Terk Koduna Dönüştürülmesi
+
+       Program tarafından (84) sanal terk koduyla sigortalılığı durdurulanların, bu genelgenin 3.1, 3.2 ve
+3.3 üncü bölümlerinde yer alan açıklama ve örnekler doğrultusunda gerçek terk tarihi belirlenecek ve
+(84) sanal terk kodu kaldırılarak (83) gerçek terk kodu işlenecektir.
+
+        5 - Durdurulan Sigortalılığın Yeniden Başlatılması
+
+       Geçici 83 üncü maddenin birinci fıkrasının son cümlesinde; “Sigortalılıkları durdurulanlardan bu
+Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında çalışmaya devam edenlerin
+sigortalılıkları 1/11/2020 tarihi itibarıyla yeniden başlatılır.” hükmü yer almaktadır.
+        Sigortalılıkları Geçici 83 üncü madde gereğince durdurulanlardan (4/b) kapsamında çalışmaya
+devam edenlerin sigortalılıkları, 01.11.2020 itibarıyla (06) koduyla yeniden başlatılacaktır.
+
+       6- (4/b) Kapsamındaki Sigortalılık                          Süreleri Durdurulanların                  Diğer Statülerdeki
+Sigortalılıklarının Geçerliliği
+
+       (4/a) kapsamında hizmet sürelerinin geçersiz, (4/b) kapsamındaki hizmet sürelerinin geçerli olması
+halinde öncelikle çakışan hizmet süresi içinde (4/a) kapsamında ödenen tutarlar 2014/28 sayılı Genelge
+doğrultusunda (4/b) kapsamındaki prim borçlarına aktarılacak, ardından 31.10.2020 tarihi itibarıyla (4/b)
+kapsamındaki prim borçlarına göre Geçici 83 üncü maddeye istinaden durdurma işlemi yapılacaktır.
+       Çakışan hizmet süresi için de (4/a) kapsamındaki sigortalılığın geçersiz, (4/b) kapsamındaki
+sigortalılığın geçerli olduğu ve (4/a) kapsamında bildirilen hizmet sürelerine ilişkin primlerin ödenmemiş
+olması durumunda da yine (4/b) kapsamındaki sigortalılık statüsünün geçerli olması ve sonradan ihya
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+edilmesi mümkün olduğu nazara alınarak (4/a) kapsamındaki geçersiz olan sigortalılık statüsü iptal
+edilecek, primlerin ödenmemiş olması nedeniyle herhangi bir aktarım yapılmayacak ve sonradan talep
+edilmesi halinde (4/b) kapsamındaki sigortalılık statüsü ihya edilecektir.
+
+        7- Durdurulan Sigortalılık Sürelerinin İhya Edilmesi
+
+       31.10.2020 tarihi itibarıyla prim borcu bulunması nedeniyle sigortalılıkları durdurulanların daha
+sonra kendileri ya da hak sahipleri tarafından Ek-2’de yer alan başvuru formuyla dosyalarının bulunduğu
+sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine müracaat ederek ihya talebinde bulunmaları
+halinde, durdurulan sigortalılık sürelerinin tamamı için talep tarihinde 5510 sayılı Kanunun 80 inci
+maddesinin ikinci fıkrasına göre belirlenecek prime esas kazanç tutarı üzerinden ihya borcu
+hesaplanacaktır. İhya edilecek süreler belirlenirken Geçici 83 üncü madde kapsamında durdurulan
+sürelerle birlikte önceki kanunlara göre durdurulan sürelerin tamamı dikkate alınacaktır. Ancak 5510
+sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendinin (1), (2) ve (3) numaralı alt bentleri ile
+(4) numaralı alt bendi kapsamında durdurulan sigortalılık sürelerin bulunması halinde sigortalı ya da hak
+sahiplerinin talep ettiği kapsamdaki sigortalılık sürelerinin tamamı ihya edilecektir.
+       Hesaplanan ihya borç tutarının tamamı borcun tebliğ tarihinden itibaren üç ay içinde ödendiği
+takdirde bu süreler sigortalılık süresi olarak değerlendirilecektir.
+       5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendinin (4) numaralı alt bendi
+kapsamında olanlar hariç olmak üzere diğer alt bentlerine göre sigortalı sayılanlar için;
+       İhya tutarı = Durdurulan Gün Sayısı x Beyan Edilen Günlük Prime Esas Kazanç Tutarı x %34,5
+formülüyle,
+       5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendinin (4) numaralı alt bendi
+kapsamındaki sigortalılar ile köy muhtarları için ise;
+       İhya tutarı = Durdurulan Gün Sayısı x Beyan Edilen Günlük Prime Esas Kazanç Tutarı x %34,5
+x 28/30 formülüyle,
+       hesaplanacaktır.
+       5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendinin (4) numaralı alt bendi
+kapsamındaki sigortalıların 2021 yılındaki ihya tutarı 28 gün üzerinden hesaplanacak olup, “28” ibaresi
+prime esas günlük kazancin otuz katını geçmemek üzere takip eden her yıl için bir puan artırılacaktır.
+       Tebliğ edilen borç tutarının üç ay içerisinde tamamen ödenmemesi halinde bu süreler sigortalılık
+süresi olarak değerlendirilmeyecek ve bu madde kapsamında ödenmiş olan tutarlar ilgilinin prim ve
+prime ilişkin borcunun bulunmaması kaydıyla faizsiz olarak iade edilecektir.
+       Eksik ya da süresi dışında yapılan ödeme nedeniyle ihya talebi geçersiz hale gelen sigortalı ya da
+hak sahipleri yeniden ihya talebinde bulunabileceklerdir.
+       Diğer taraftan sigortalılıkları önceki kanunlara göre durdurulanların ihya borcu da bu genelge
+hükümlerine göre hesaplanacaktır.
+       Örnek 1: Vergi mükellefiyet kaydına istinaden 01.07.2018 tarihinde sigortalılığı başlayan ve
+31.01.2021 tarihine kadar hiç prim ödemesi bulunmayan sigortalı (A)’nın, 31.10.2020 tarihi itibarıyla
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+yapılan borç ayı sorgulamasında 28 ay prim borcunun bulunduğu tespit edilmiş ve sigortalılığı tescil
+tarihi olan 01.07.2018 tarihi itibarıyla (83) terk koduyla durdurulmuştur.
+        Daha sonra sigortalı (A) Ek-2’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik
+il müdürlüğüne/sosyal güvenlik merkezine 17.02.2021 tarihinde müracaat ederek durdurulan sürelerinin
+ihya edilmesini talep etmiştir.
+        Sigortalının ihya talebinde bulunduğu 17.02.2021 tarihinde günlük prime esas kazanç tutarı olarak
+150,00 TL beyan edilmiştir.
+        31.10.2020 tarihi itibarıyla durdurulan sigortalılık süresinin 840 gün olduğu anlaşılmıştır.
+        İhya tutarı = Durdurulan Gün Sayısı x Beyan Edilen Günlük Prime Esas Kazanç x %34,5
+        İhya tutarı = 840 x 150,00 x %34,5
+        İhya Tutarı= 43.470,00 TL
+        Hesaplanan 43.470,00 TL tutarındaki ihya borcu 17.02.2021 tarihinde sigortalıya tebliğ edilmiş ve
+sigortalı kendisine tebliğ edilen ihya tutarının tamamını 14.04.2021 tarihinde ödemiş olduğundan,
+durdurulan süreler hizmet olarak değerlendirilecektir.
+        Örnek 2: 01.03.2013 tarihinde başlayan ve kesintisiz devam eden vergi mükellefiyet kaydı
+nedeniyle 5510 sayılı Kanunun 4/1-b maddesi kapsamındaki sigortalılığı 01.03.2013 tarihinde başlatılan
+(B)’nin 30.04.2015 tarihi itibarıyla yapılan borç ayı sorgulamasında 12 aydan fazla prim borcunun
+bulunduğu tespit edilmiş ve hiç prim ödemesi bulunmayan sigortalının tescil tarihi olan 01.03.2013
+itibarıyla (63) terk koduyla sigortalılığı durdurulmuştur. Vergi kaydının devam etmesi nedeniyle
+sigortalılığı yeniden 01.05.2015 tarihi itibarıyla başlatılmıştır. 01.05.2015 tarihinden sonraki sigortalılık
+sürelerinde değişik tarihlerde prim ödemesi bulunan sigortalının 31.10.2020 tarihi itibarıyla yapılan borç
+sorgulamasında prim borcunun bulunduğu tespit edilmiştir. (B)'nin sigortalılığı prim ödemelerinin
+karşıladığı tam ayın sonu olan 31.03.2019 tarihi itibarıyla (83) terk koduyla ikinci kez durdurulmuştur.
+Vergi kaydının devam etmesi nedeniyle yeniden sigortalılığı 01.11.2020 tarihi itibarıyla (06) koduyla
+başlatılmıştır.
+        Daha sonra sigortalı (B) Ek-2’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik
+il müdürlüğüne/sosyal güvenlik merkezine 22.10.2021 tarihinde müracaat ederek durdurulan sürelerinin
+ihya edilmesini talep etmiştir.
+        Sigortalının ihya talebinde bulunduğu 22.10.2021 tarihinde günlük prime esas kazanç tutarı olarak
+115,00 TL beyan edilmiştir.
+        Sigortalı (B)’nin (63) terk koduyla 780 gün, (83) terk koduyla 570 gün olmak üzere toplam 1350
+gün durdurulan sigortalılık süresinin olduğu anlaşılmıştır.
+        İhya tutarı = Durdurulan Gün Sayısı x Beyan Edilen Günlük Prime Esas Kazanç x %34,5
+        İhya tutarı = 1350 x 115,00 x %34,5
+        İhya tutarı = 53.561,25 TL
+        Hesaplanan 53.561,25 TL ihya borç tutarı 21.11.2021 tarihinde sigortalıya tebliğ edilmiş ve
+sigortalı kendisine tebliğ edilen ihya tutarının tamamını 11.01.2022 tarihinde ödemiş olduğundan
+durdurulan süreler hizmet olarak değerlendirilecektir.
+        Örnek 3: Ziraat odası kaydına istinaden Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+bendinin (4) numaralı alt bendi kapsamında 01.08.2018 tarihinde sigortalılığı başlayan ve 31.01.2021
+tarihine kadar hiç prim ödemesi bulunmayan sigortalı (C)’nin, 31.10.2020 tarihi itibarıyla yapılan borç
+ayı sorgulamasında 27 ay prim borcunun bulunduğu tespit edilmiş ve sigortalılığı 01.08.2018 tescil tarihi
+itibarıyla (83) terk koduyla durdurulmuştur.
+        Daha sonra sigortalı (C) Ek-2’de yer alan başvuru formuyla dosyasının bulunduğu sosyal güvenlik
+il müdürlüğüne/sosyal güvenlik merkezine 24.09.2021 tarihinde müracaat ederek durdurulan sürelerinin
+ihya edilmesini talep etmiştir.
+        Sigortalının ihya talebinde bulunduğu 24.09.2021 tarihinde günlük prime esas kazanç tutarı olarak
+125,00 TL beyan edilmiştir.
+        31.10.2020 tarihi itibarıyla durdurulan sigortalılık süresinin 810 gün olduğu anlaşılmıştır.
+        İhya tutarı = Durdurulan Gün Sayısı x Beyan Edilen Günlük Prime Esas Kazanç Tutarı x %34,5
+x 28/30
+        İhya tutarı = 810 x 125,00 x %34,5 x 28/30
+        İhya tutarı = 32.602,50 TL
+        Hesaplanan 32.602,50 TL tutarındaki ihya borcu 24.09.2021 tarihinde tebliğ edilmiş ve sigortalı
+kendisine tebliğ edilen ihya tutarının tamamını 21.11.2021 tarihinde ödemiş olduğundan durdurulan
+süreler hizmet olarak değerlendirilecektir.
+
+     8-Tebliğ Edilen İhya Borcu Ödendikten Sonra Sigortalı Bilgilerinde Yapılan Değişiklikler
+Nedeniyle İhya Talebi Geçersiz Olanlar
+
+        31.10.2020 tarihi itibarıyla prim borcu bulunması nedeniyle sigortalılıkları durdurulanların daha
+sonra kendileri ya da hak sahipleri tarafından, Ek-2’de yer alan başvuru formuyla dosyalarının bulunduğu
+sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine müracaat ederek ihya talebinde bulunulması
+halinde, durdurulan sigortalılık sürelerinin tamamı için talep tarihinde 5510 sayılı Kanunun 80 inci
+maddesinin ikinci fıkrasına göre belirlenecek prime esas kazanç tutarı üzerinden borç tutarı
+hesaplanacaktır. Hesaplanan borç tutarının tamamı, borcun tebliğ tarihinden itibaren üç ay içinde
+ödendiği takdirde, bu süreler sigortalılık süresi olarak değerlendirilecektir.
+         Ancak tebliğ edilen ihya borcu ödendikten sonra sigortalılık bilgilerinde sonradan bir değişiklik
+yapılması halinde ihya edilmesi gereken sigortalılık süresi ve buna bağlı olarak ihya borç tutarı farklılık
+gösterecektir.
+        Bu durumdaki sigortalıların öncelikle sigortalılık süreleri yeniden belirlenerek ilk ihya talebi iptal
+edilmeden ek ihya talebi alınacak ve ek ihya talep tarihindeki beyan tutarı üzerinden hesaplanan ihya fark
+tutarının tebliğ tarihinden itibaren bir ay içerisinde ödenmesi halinde ihya talebi geçerli sayılacaktır.
+        Diğer taraftan tebliğ edilen ihya borcunu ödedikten sonra sigortalılık bilgilerinde yapılan
+değişiklik sonucunda durdurulan sigortalılık sürelerinde azalma olması halinde, ihya talebi iptal edilerek
+değişen ihya süreleri ve ilk beyanı dikkate alınmak suretiyle yeniden ihya borcu hesaplanacaktır. Yeniden
+yapılan hesaplama neticesinde tespit edilen ihya borç tutarı daha önce tebliğ edilen borç tutarından daha
+az olacağından, fazla olan kısım ödenen ihya tutarından bölünerek prim koduna alınacaktır. Sigortalının
+başkaca bir prim borcu bulunmaması halinde artan tutar sigortalıya faizsiz olarak iade edilecektir.
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+
+        9- İhya Talebinden Vazgeçilmesi
+
+       Kanunun geçici 83 üncü maddesi uygulamasına göre sigortalılığı durdurulanların, durdurulan
+sigortalılık sürelerine ilişkin ihya talebinde bulunup Kanunda belirtilen süre içerisinde ihya tutarının
+tamamını ödeyerek ihyası geçerli olan sigortalıların, daha sonradan sigortalı ve haksahiplerinin bu
+taleplerinden vazgeçmek istemeleri halinde taleplerinin mümkün olmadığı kendilerine bildirilecektir.
+
+        10- Hizmetlerin Bildirilmesi
+
+       Bu genelgenin 2 nci bölümünde sayılanlardan 31.10.2020 tarihi itibarıyla prim borcu bulunanların
+bu sürelere ilişkin prim borçlarını 31.01.2021 tarihine kadar ödememeleri veya ilgili kanunları uyarınca
+yapılandırmamaları ya da 6183 sayılı Kanunun 48 inci maddesi kapsamında tecil ve taksitlendirmemeleri
+halinde 01.11.2020 - 31.01.2021 tarihleri arasında ödenen primler de dikkate alınmak suretiyle prim
+ödemesi bulunan sigortalıların daha önce ödedikleri primlerin tam olarak karşıladığı ayın sonu itibarıyla
+hiç prim ödemesi bulunmayan sigortalıların ise tescil tarihi itibarıyla sigortalılıkları durdurulacaktır.
+       Primi ödenmeyen süreler sigortalılık süresi olarak değerlendirilmediğinden durdurulan sigortalılık
+süreleri hizmet birleştirilmesi işlemlerinde dikkate alınmayacaktır.
+       Geçici 83 üncü madde kapsamında sigortalılık süreleri tescil tarihi itibarıyla durdurulanların
+hizmet sürelerinin istenmesi halinde sigortalılık başlangıç tarihi itibarıyla sigortalılığın durdurulduğu ve
+bu nedenle de birleştirilecek hizmet sürelerinin bulunmadığı bildirilecektir.
+       Geçici 83 üncü madde kapsamında sigortalılık süreleri durdurulanların durdurulan süreler
+haricindeki primi ödenmiş hizmet süreleri bildirilecek hizmetler kapsamında değerlendirilecek ve mülga
+1479 ile 2926 sayılı Kanunlar ile 5510 sayılı Kanuna göre aylık bağlama ve toptan ödeme işlemlerinde de
+dikkate alınacaktır.
+
+        11- Diğer Hususlar
+
+        11.1- Ödeme Planlarının İlgililere Tebliği
+
+       Durdurulan sigortalılık sürelerinin ihya edilmesine ilişkin başvurulara istinaden hazırlanan ödeme
+planı sigortalı ya da hak sahibine imza karşılığı elden tebliğ edilecek ya da başvuru formunda beyan
+edilen adres dikkate alınmak suretiyle 7201 sayılı Tebligat Kanununa göre tebliğ edilecektir.
+       Ödeme planları oluşturulduktan sonra ödenecek tutarlar banka ekranlarına yansıtılacağından
+ödeme planları tebliğ edilememiş borçluların her ne kadar ödeme planları taraflarına ulaşmamış olsa da
+banka kanalıyla ödeme yapmaları mümkün olacaktır.
+
+      11.2- Sigortalılıkları Durdurulanlar İle Bunların Bakmakla Yükümlü Olduğu Kişilerin
+Genel Sağlık Sigortalılığı
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+
+        Geçici 83 üncü madde kapsamında sigortalılıkları durdurulanlar ile bunların bakmakla yükümlü
+olduğu kişilerin 01.01.2012 tarihinden 31.10.2020 tarihine kadar durdurulan süreler için 5510 sayılı
+Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamında genel sağlık sigortalısı (60/g) olarak
+tescilleri yapılmayacaktır. Ancak daha önce talepte bulunarak Kanunun 60/g bendi kapsamında genel
+sağlık sigortası tescili açtıran (4/b) sigortalılarının bakmakla yükümlü olduğu kişiler için bu hüküm
+uygulanmaz.
+        İki aylık ödeme süresi beklenilmeksizin sigortalılığın durdurulması için talepte bulunulması
+halinde Geçici 83 üncü madde kapsamında sigortalılıkları (83) terk kodu ile durdurulan ve yeniden
+sigortalılıkları 01.11.2020 tarihinde başlatılan sigortalıların, kendilerinin ve bakmakla yükümlü olduğu
+kişilerin sağlık hizmetlerinden yararlanabilmesi için 5510 sayılı Kanunun 67 nci maddesi gereğince
+sağlık hizmeti sunucusuna başvurduğu tarihten önceki son bir yıl içinde toplam 30 gün genel sağlık
+sigortası prim ödeme gün sayısının olması ve 60 günden fazla prim ve prime ilişkin borcunun
+bulunmaması gerekmektedir. Ancak bu kapsamdaki kişilerden son bir yıl içerisinde 30 gün genel sağlık
+sigortası prim ödeme gün sayısı olmayanlar 2020/Kasım ayına ait prim borcunu ödemeleri şartıyla
+01.12.2020 tarihinden itibaren sağlık hizmetlerinden faydalanabileceklerdir.
+
+        11.3- İhya Edilerek Kazanılan Hizmet Sürelerinin Geçerlilik Tarihi
+
+       Geçici 83 üncü madde kapsamında ihya edilerek kazanılan hizmet süreleri borcun ödendiği
+tarihten itibaren geçerli sayılır.
+
+        11.4- Sigortalılardan Alınacak Belgeler
+
+       Geçici 83 üncü maddede öngörülen iki aylık süreyi beklemeden sigortalılığını durdurmak
+isteyenlerin Ek-1’de yer alan başvuru formu ile dosyalarının bulunduğu sosyal güvenlik il
+müdürlüğüne/sosyal güvenlik merkezine müracaat etmeleri, bu sürelerin yeniden değerlendirilmesi için
+ihya talebinde bulunanların ise Ek-2’de yer alan başvuru formu ile dosyalarının bulunduğu sosyal
+güvenlik il müdürlüğü/sosyal güvenlik merkezine müracaat etmeleri gerekmektedir. Ayrıca, gerek
+görülmesi halinde sigortalı ya da hak sahiplerinden güncel sigortalılık belgesi istenecektir.
+
+      11.5- Kurumumuza Olan Borçları Kanunun 91 inci Maddesine Göre Ertelenmiş
+Sigortalıların Hizmetlerinin Durdurulması
+
+        Kurumumuza olan borçları Kanunun 91 inci maddesine göre ertelenmiş sigortalılardan Geçici 83
+üncü maddede öngörülen iki aylık süreyi beklemeden sigortalılığını durdurmak isteyenlerin Ek-1’de yer
+alan başvuru formu ile dosyalarının bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik
+merkezine müracaat etmeleri halinde prim ödemesi bulunan sigortalıların daha önce ödedikleri primlerin
+tam olarak karşıladığı ayın sonu itibarıyla hiç prim ödemesi bulunmayan sigortalıların ise tescil tarihi
+itibarıyla (83) terk koduyla sigortalılıkları durdurulacaktır.
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+        Talebine istinaden sigortalılıkları durdurulanların (4/b) kapsamında çalışmaya devam ettiğinin
+tespit edilmesi halinde 01.11.2020 tarihi itibarıyla (06) koduyla yeniden sigortalılığı başlatılacaktır.
+        Durdurma talebinde bulunmayan sigortalıların ise (84) sanal terk uygulaması erteleme bitiş
+tarihini takip eden ayda başlatılacaktır. Bu durumda olan sigortalıların durdurma işlemleri erteleme bitiş
+tarihinden sonra sosyal güvenlik il müdürlüğünce/sosyal güvenlik merkezince yapılacaktır.
+
+       11.6- Kanunun Yayım Tarihinden Önce Emekli olan ve Hizmetleri Bildirilen Sigortalılara
+Ait İşlemler
+
+       Kanunun yayım tarihi olan 17.11.2020 tarihinden önce malullük ve yaşlılık aylığı bağlanan
+sigortalılar için tahsis talep, ölen sigortalılar için ölüm tarihinden önceki sürelere ilişkin (4/b)
+kapsamındaki hizmetlere ait prim borcu olduğu anlaşılan sigortalılardan;
+       -(4/b) kapsamında aylık bağlananlar ile,
+       -(4/b) kapsamında bildirilen hizmetler de değerlendirilerek (4/a) ve (4/c) kapsamında aylık
+bağlananların, sonradan tespit edilen prim borcuna esas olan hizmet süreleri Kanunun Geçici 83 üncü
+maddesi kapsamında durdurulmayacak olup söz konusu borçlar Sosyal Sigorta İşlemleri Yönetmeliğinin
+Ek 9 uncu maddesi kapsamında tahsil edilecektir.
+
+      11.7- Kanunun Yayım Tarihinden İcra Ödeme Emri Düzenlenen ve İcra İşlemleri Başlatılan
+Sigortalılara Ait İşlemler
+
+       Kanunun yayım tarihi olan 17.11.2020 tarihinden önce Kurumumuza olan borçlarından dolayı icra
+ödeme emri düzenlenen ve icra işlemleri devam eden sigortalıların, (83) terklerinin yüklenmeden önce
+icra ödeme emirlerinin silinmesi ve düzenlenen icra ödeme emirlerinin iptal edilmesi gerekmektedir.
+       Bilgi edinilmesini ve uygulamanın yukarıda belirtilen esaslar doğrultusunda yerine getirilmesini
+rica ederim.
+
+
+
+                                                                                                     İsmail YILMAZ
+                                                                                                     Kurum Başkanı V.
+
+
+EKLER :
+1- Sigortalılık durdurma talep formu
+2- İhya talep formu
+
+
+
+DAĞITIM
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+                                                       T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         Sigorta Primleri Genel Müdürlüğü
+
+Gereği:                                                  Bilgi:
+Merkez ve taşra teşkilatına                              Aile, Çalışma ve Sosyal Hizmetler Bakanlığına
+
+
+
+
+                                                 Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: 0768-dcf3-341d-ade3-1e1f       Belge Doğrulama Adresi: https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB
+?????????????????????????????????????????????????????????????????????????????????????????
+
+Mithatpaşa Cad. No:7 (C Blok )Sıhhiye Çankaya/Ankara                                                            Bilgi için: Yakup   SÜNGÜ
+Telefon No: 0 312 458 71 61 Faks No: 0 312 434 11 48                                                                       Daire Başkanı
+e-Posta: spgm_primlerdb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+KEP Adresi: sgk@hs01.kep.tr
+10
+

@@ -1,0 +1,385 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/149137
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 01.02.2019 - 30673
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARLARI
+RESMÎ GAZETE: 01.02.2019 - 30673
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 0a9161b9fa846e409185deca35fc2afba9f3d317e9bceeab9900bacb71ab03cd
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+1 Şubat 2019 CUMA Resmi Gazete Sayı : 30673
+TEBLİĞLER
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+Karar No : 2019/1
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 11/01/2019 tarihinde toplanarak aşağıdaki kararları almıştır.
+MADDE 1- Sağlık Uygulama Tebliği eki Ek 2/C Listesinde yer alan koklear implant işlem puanlarının Koklear
+implant ve seti hariç olarak düzenlenmesine oybirliği ile,
+SIRA NO | KODU İŞLEM ADI İŞLEM PUANI
+1991 P618200 | Koklear implant yerleştirilmesi 4.599,10
+1998 P618207 | Bilateral koklear implant yerleştirilmesi 7.665,18
+MADDE 2- Sağlık Uygulama Tebliği eki,
+a) EK-2/Ç Listesine aşağıda yer alan işlem kodlarının “7. İ Tanıya dayalı ortodontik tedavi işlemleri” başlığı
+altına eklenmesine oybirliği ile,
+SIRA NO KODU İŞLEM ADI İŞLEM PUANI
+ıı, P407321 | Erken Ortodontik Tedavi Başlangıç Aşaması 3372
+| | P407322 | Erken Ortodontik Tedavi Bitiş Aşaması 3372
+0 | P407330 | Sınıf Ortodontik Tedavinin Başlangıç Aşaması 477,79
+|, | P407331 | Sınıf Ortodontik Tedavinin Tedavi Aşaması 479
+|, | P407332 | Sınıf Ortodontik Tedavinin Pekiştirme Aşaması 477,19
+| | P407333 | Sınıf 1I Ortodontik Tedavinin Başlangıç Aşaması 702.64
+| | P407334 | Sınıfll Ortodontik Tedavinin Tedavi Aşaması 702,64
+|, | P407335 | Sınıfll Ortodontik Tedavinin Pekiştirme Aşaması 702,64
+P407336 | SınıfIlI Ortodontik Tedavinin Başlangıç Aşaması 843,17
+0 | P407337 | Sınıf II Ortodontik Tedavinin Tedavi Aşaması 843,17
+|, | P407338 | Sınıf Tl Ortodontik Tedavinin Pekiştirme Aşaması 843,17
+|, | PA07339 Ortognatik Cerrahide Ortodontik Tedavinin Başlangıç 083,70
+Aşaması
+|, | P407340 | Ortognatik Cerrahide Ortodontik Tedavinin Tedavi Aşaması 983,70
+| | p4y7341 | Ortognatik Cerrahide Ortodontik Tedavinin Pekiştirme 083,10
+Aşaması
+PA07342 Yanık Dudak “Damak veya Yarık Damak Doğum Sonrası 295110
+Şekillendirme Tedavisi
+Yarık Dudak -Damak veya Yarık Damak Karışık Dişlenme
+mı P40T343. | Dönemi Ortodontik Tedavi 295110
+Yarık Dudak -Damak veya Yarık Damak Daimi Dişlenme
+| | PADIBAA İ Dönemi Ortodontik Tedavi 324621
+
+b) EK-2/Ç Listesinin “7. 1 Tanıya dayalı ortodontik tedavi işlemleri” başlığı altında yer alan aşağıdaki işlem
+kodlarının çıkarılmasına oybirliği ile,
+| SIRANO | Kopu | İŞLEM ADI İŞLEM PUANI
+Sınıf 1 Ortodontik Tedavi 2.107,93
+Sınıf Ortodontik Tedavi
+|, | P407353 | Ortognatik Cerrahide Ortodontik Tedavi
+MADDE 3- Sağlık Uygulama Tebliği'nde “2.2.2.B - Tanıya dayalı işlem üzerinden ödeme yöntemi” başlığı altındaki
+SUT Eki EK-2/C-1 Listesinde yer alan işlemler için belirlenen oranlarda ilave edilerek fhturalandırılması hükmünün yer aldığı
+yedinci fıkranın SUT metninin “2.2 - Finansmanı sağlanan sağlık hizmetlerinin sağlanma yöntemleri ve ödeme kuralları” başlığı
+altına eklenerek yeniden düzenlenmesine oybirliği ile,
+MADDE 4- Sağlık Uygulama Tebliği eki EK-2/A Listesinde Al koduyla yer alan sağlık hizmeti sunucularına ödenen
+tutarların aşağıda yer alan şekilde belirlenmesine oybirliği ile,
+UZMANLIK DALLARI Al
+en Tile Hekimliği İİ
+ocuk Cerrahisi 9
+ocuk Sağlığı ve Hastalıkları
+İ 1600 | Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları
+Deri ve Zührevi Hastalıkları
+Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji
+| 900 Genel Gemi, İs Gİ
+171 Göğüs Hastalıkları
+Göz Hastalıkları
+1000 iç Hastalıkları
+Kadın Hastalıkları ve Doğum | a |
+Kalp ve Damar Cerrahisi
+| Moe — | Kardiyoloji «© |
+Kulak Burun Boğaz Hastalıkları
+|. 3000 İNaleerip > İİ
+Ortopedi ve Travmatoloji | $ |
+Plastik, Rekonstrüktif ve Estetik Cerrahi
+Radyasyon Onkolojisi
+3300 | Radyolojit*
+1400 | Ruh Sağlığı ve Hastalıkları |
+4000 | SporHekimliği
+600 Tibbi Ekoloji ve Hidroklimatoloji. OO İİ
+2700. Jüri, ||| İs
+va
+Algoloji (Anesteziyoloji ve Reanimasyon
+Algoloji (Nöroloji
+3199
+
+MEC EE
+| 0s&6 | çocuk Kariyolejisi “| İİ
+| 1599 | Çocuk Romatoejisi | İs
+| 0910 | Cema Onkoloji ||| İş |
+| 0053 bi Onkeleji ||| Şİ
+| are temeli Şe Gİ
+EC NN
+2198 Çimmüneleji ve Aleri Hastalıkları (Göğüs Hastalıkları) İİ
+TE A RE
+| 3010 Tsimekolejik Onkoloji Cerahisi ||| Şa
+ET EE
+| 2619 Tl Gerahisi (Omopedi ve Travmaroejip İİ
+
+MADDE 5- Sağlık Uygulama Tebliği eki “Ek-3/A Birden Fazla Branşta Kullanılan Tıbbi Malzemeler” Listesinde yer
+alan “OR4146” SİYANOAKRİLAT İÇEREN ÜRÜNLER (CERRAHİ ALANLAR) alan tanımına “ENDOVASKÜLER
+KULLANIM” ibaresinin eklenmesine oybirliği ile,
+
+ALANLAR/ENDOVASKÜLER KULLANIM İÇİN)
+
+MADDE 6- Sağlık Uygulama Tebliği eki “Ek-3/A Birden Fazla Branşta Kullanılan Tıbbi Malzemeler” Listesine
+“YARA BAKIM ÜRÜNLERİ” başlığı altında yer alan SUT kodlarının tibbi malzeme alan tanımı, fiyatı ve endikasyon
+kriterlerinin aşağıdaki gibi yeniden belirlenmesine oybirliği ile,
+van örün
+Çk yum 3 ilm e
+Çene vaa Bakın RÜNLER İİ
+— köeosinoen vana örrüreni o —— eş
+
+(1) Değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, hafif transüdasyonlu ve enfekte olmayan yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+(2) Gümüşlü ürünler, değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, eksudalı ve enfekte yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4531 Köpük/Sünger yara örtüsü (küçük)0-99 15 krş/cm2
+OR4532 Köpük/Sünger yara örtüsü (orta ) 100-224 12 krş/em2
+OR4533 Köpük/Sünger yara örtüsü (büyük)225* 10 kışlcm2
+0R4534 Gümüşlü Köpük/Sünger yara örtüsü (küçük) 0-99 30 krş/em2
+0R4535 Gümüşlü Köpük/Sünger yara örtüsü (orta ) 100-224 24 kış/em2
+0R4536 Gümüşlü Köpük/Sünger yara örtüsü (büyük) 2254 20 krş/em2
+| o İHİDROKOLLOİD İÇERİKLİ YARA ÖRTÜLERİ KRŞICM?
+(1) Değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel. eksudasız ve enfekte olmayan yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır,
+
+OR4537 Hidrocolloid içerikli yara örtüsü (küçük) 0-99
+OR4S38 Hidrocollojd içerikli yara örtüsü (orta) 100-224
+OR4539 Hidrocolloid içerikli yara örtüsü (büyük) 225 5 krş/lem2
+İ o TALJİNATFİBER/AÇUAFİBER YARA ÖRTÜLERİ KRŞICM?
+(1) Değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, hafif transüdasyonlu ve enfekte olmayan yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+(2) Gümüşlü ürünler, değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, eksudalı ve enfekte yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4541 AljinavFiber/Aguafiber yara örtüsü (küçük) 0-99 15 kış/em2
+0R4542 Aljinat/Fiber/ Aguafiber yara örtüsü (orta) 100-224 12 kış/em2
+0R4543 Aljinat/Fiber/Aguafiber yara örtüsü (büyük) 225* 10 kış/em2
+0R4544 Gümüşlü Aljinat/Fiber/Aguafiber yara örtüsü (küçük) 0-99 25 kış/em2
+OR4545 Gümüşlü Aljinav/Fiber/Aguafiber yara örtüsü (orta) 100-224 20 krş/em2
+0R4546 Gümüşlü Aljinat/Fiber/Aguafiber yara örtüsü (büyük) 225-- 15 krş/em2
+
+KOMPOZİT YARA ÖRTÜLERİ (Dokuya temas eden, emici ve KRŞ/CME
+geçirimsiz dış olmak üzere en az 3 tabaka içeren örtüler)
+
+(1) Değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, hafif transüdasyonlu ve enfekte olmayan yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+(2) Gümüşlü ürünler, değişim aralığı en az üç günde bir kez olmak. kaydı ile yüzeyel, eksudalı ve enfekte yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4547 Kompozit yara örtüsü 0-99 cm2 43 kış/em2
+0R4548 Kompozit yara örtüsü 100-224 cm2 35 krş/em2
+0R4549 Kompozit yara örtüsü 225-499 cm2 26 krş/em2
+OR4551 Kompozit yara örtüsü 500*- cm2 17 kış/em2
+0R4552 Gümüşlü kompozit yara örtüsü 0-99 cm? 50 krş/em2
+0R4553 Gümüşlü kompozit yara örtüsü 100-224 cm? 40 krş/cm2
+OR4554 Gümüşlü kompozit yara örtüsü 225-499 cm2 30 kş/em2
+OR4555 Gümüşlü kompozit yara örtüsü 500* em? 20 krşiem2
+| o0— İHİDROFİBER FİBRİN SABİTLEYİCİ YARA ÖRTÜLERİ KRŞ/CM?
+(1) Değişim aralığı en az üç günde bir kez olmak kaydı ile yüzeyel, hafif transüdasyonlu ve enfekte olmayan yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+(2) Gümüşlü ürünler, değişim aralığı en az üç günde bir adet olmak kaydı ile yüzeyel, eksudalı ve enfekte yaraların üzerine
+kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4556 Hidrofiber yara örtüsü 0-99 cm2 30 krş/em2
+
+OR4557 'Hidrofiber yara örtüsü 100-224 cm2 20 kış/em2
+OR4558 Hidrofiber yara örtüsü 225-499 cm? 15 kış/em2.
+OR4559 Hidrofiber yara örtüsü 500 cm2 13 kış/em2
+OR4561 Gümüşlü hidrofiber yara örtüsü 0-99 cm? 60 krş/em2
+0R4562 Gümüşlü hidrofiber yara örtüsü 100-224 cm? 40 krş/em2
+0R4563 Gümüşlü hidrofiber yara örtüsü 225-499 cm? 30 krşiem2
+0R4564 Gümüşlü hidrofiber yara örtüsü 500* cm? 27 kş/em2
+
+İ o İKONTROLLÜ GÜMÜŞSALIMI YAPABİLEN YARA ÖRTÜLERİ KRŞICM*
+(1) Değişim aralığı en az yedi günde bir kez olmak kaydı ile yılda en fazla üç kez olmak üzere; yüzeyel veya derin, eksudalı
+ve enfekte yaraların üzerine kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4565 Nanokristal gümüş içerikli, Kontrollü gümüş salımı yapan yara örtüsü 0- 55 krşlem2
+
+224 cm?
+Nanokristal gümüş içerikli, Kontrollü gümüş salımı yapan yara örtüsü 2
+
+OR4566 225499 cm? 40 kaşe
+
+'Nanokristal gümüş içerikli, Kontrollü gümüş salımı yapan yara örtüsü 35k 2
+
+OR4567 500: m2 rş/cmi
+
+Gümüş içerikli, Kontrollü gümüş salımı yapan (10 gün veya daha fazla em?
+
+OR4568 salımı yapabilen) yara örtüsü 20 krşiemi
+
+İ o İPARAFİNTÜL KAPAMALAR KRŞICM
+
+İ 0R4569 Parafin tül kapamalar (klorheksidin/gümüş-sülfadiazin/iyot/ gümüş içeren 2 keşlem2
+
+Parafin tül kapamalar dahil)
+
+İ o İBARİYERYARA ÖRTÜLERİ KRŞICM:
+(1) Değişim aralığı en az üç günde bir adet olmak kaydı ile yüzeyel, eksudasız ve enfekte olmayan yaraların üzerine |
+kullanılması halinde bedeli Kurumca karşılanır.
+
+Bariyer yara örtüsü tek tabakalı 0.9 kış/em2
+0R4572 Bariyer yara örtüsü, iki tabakalı 1 krş/em2
+| İKOMERESYON ÜRÜNLERİ
+
+(1) Yalnızca venöz ülserlerde, değişim aralığı en az dört günde bir adet kullanılması halinde bedeli Kurumca karşılanır.
+OR4573 Kompresyon bandajı ince, 1 katl,en az 2 mi
+OR4574 Kompresyon bandajı ince, 4katlı, en az 2 mt 30TL
+0R4575 Kompresyon bandajı, çorap,işlenmiş yün (çifti) 10 TL
+
+EKSTRASELÜLER MATRİKS ELEMANI İÇEREN YARA BAKIM
+ÜRÜNLERİ
+KOLLAJEN İÇERİKLİ YARA ÖRTÜLERİ KRŞ/CM-TL
+
+(1) Üç günde bir adet olmak kaydı ile ve en fazla bir yılda beş defa olmak üzere; yüzeyel ve enfekte olmayan yaraların üzerine
+
+; kullanılması halinde bedeli Kurumca karşılanır.
+
+OR4576 Kollajen içerikli yara örtüsü (küçük) 0-99
+0R4577 Kollajen içerikli yara örtüsü (orta) 100-224 5 kış/lem2
+OR4578 Kollajen içerikli yara örtüsü (büyük) 225
+
+MADDE 7- Sağlık Uygulama Tebliği eki “Ek-/H Kardiyoloji Branşına Ait Tıbbi Malzemeler” ve “Ek-3/1 Kalp Damar
+Cerrahisi Branşına Ait Tibbi Malzemeler” Listesinde yer alan “MİTRAL HALKA (ANULUS) DARALTMA SİSTEMLERİ”
+adlı tubbi malzeme altındaki ödeme kural ve/veya kriterlerinde yer alan “3. basamak Sağlık Bakanlığı Hastanelerinde “ ifadesinin
+“ 3. basamak sağlık hizmeti sunucularında” şeklinde değiştirilmesine oybirliği ile,
+
+MADDE 8- Sağlık Uygulama Tebliği eki “Ek-3/H Kardiyoloji Branşına Ait Tıbbi Malzemeler” ve “Ek-3/1 Kalp Damar
+Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesinde yer alan “Transkateter Aortik Kapak Balon Expandable (Balon Sheat,
+Taşıyıcı Sistem Birlikte) Set” ve “Transkateter Aortik Kapak Self Expandable Set (Balon Sheat, Delivery Sistem Dahil)” adlı
+tıbbi malzemelerin ödeme kural ve/veya kriterlerinin aşağıdaki şekilde yeniden düzenlenmesine oybirliği ile,
+
+(1) Konvansiyonel cerrahi yöntemlerle Kalp ve Damar Cerrahisi uzmanları tarafından inoperable veya orta-
+| yüksek riskli olarak değerlendirilen semptomatik ciddi kalsifik aort kapak darlığı hastalarında ve ciddi aort
+yetmezliği saptanan yaşam beklentisi bir yıldan fazla olan hastalarda 2 (iki) Kardiyoloji, 2 (iki) Kalp
+| Damar Cerrahisi, 1 (bir) Anestezi Reanimasyon uzmanının onayının bulunduğu konsey kararı ile bir yılda |
+2000 kardiyak girişimsel işlem (en az 300 tedavi amaçlı girişim) ve 250 açık kalp cerrahisi yapılan 3.
+basamak hastanelerde kullanılması halinde ve “Kalp Ekibi” konsey değerlendirmelerinde aşağıdaki
+şartlardan en az birinin varlığı durumunda Kurumca bedeli karşılanır.
+(a) STS/EvroScore Tl skoru >-9010 veya Logistic Euro Score 1 >20 olduğu saptanan, 65 yaş ve üzeri
+hastalar,
+(b) STS/EuroScore TI skoru >-904 veya Logistic Euro Score | >-10 olduğu saptanan, 75 yaş ve üzeri
+hastalar,
+(e) Geçirilmiş koroner arter cerrahisi ve fonksiyonel koroner arter bypass greftleri olan hastalar,
+(d) Yüksek frajilite indeks skorları nedeniyle cerrahi yapılamayan 75 yaş ve üzeri hastalar,
+(e) Toraksa radyoterapi hikayesi olan hastalar,
+(0) Göğüs hastalıkları konsültasyonu ile dökümante edilmiş yüksek operartif risk oluşturan ciddi göğüs
+deformitesi veya ciddi skolyoz varlığı olan hastalar,
+(g) Porselen aortanın bilgisayarlı tomografi ile varlığının gösterildiği hastalar,
+(h) Uzun dönem sol ventrikül destek sistemi implantasyonu sonrasında ciddi aort yetmezliği gelişmiş
+hastalar,
+(2) Yukarıda belirtilen şartların sağlanmadığı ve hastanın cerrahi tedaviyi reddettiği durumlarda kullanılan
+kapak ücretinin hasta tarafından karşılanması uygundur.
+im
+MADDE 9- Sağlık Uygulama Tebliği eki “Ek-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesine yeni
+bir SUT kodu eklenerek; tıbbi malzeme alan tanımı, fiyatı ve endikasyon kriterleri ile birlikte aşağıdaki gibi belirlenmesine
+oybirliği ile,
+KV4020 PERKÜTAN EKZOVENÖZ REKONSTRÜKSİYON SİSTEMİ (KATETER DAHİL) | |FİYAT(TL)
+Ana femoral ven veya yüzeyel femoral ven veya popliteal ven veya safenofemoral 335800
+bileşkede 4 saniye ve üzeri yetmezlik saptandığı durumlarda Kurumca bedeli karşılanır. ei
+MADDE 10- Sağlık Uygulama Tebliği eki “Ek-3/1 Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler” Listesinde
+yer alan “Dikişsiz İmplante Edilebilir Biyolojik Aort Kalp Kapağı ” alan tanımlı tıbbi malzemenin ödeme kural ve/veya
+kriterlerinin aşağıdaki şekilde yeniden düzenlenmesine oybirliği ile,
+KV1005 . | DİKİŞSİZ İMPLANTE EDİLEBİLİR BİYOLOJİK AORT KALP KAPAĞI 38.000 |
+(1) Semptomatik ciddi kalsifik aort kapak darlığı hastalarında ve ciddi valvuler aort yetmezliği saptanan hastalarda |
+2 (iki) Kalp Damar Cerrahisi, 2 (iki) Kardiyoloji, 1 (bir) Anestezi Reanimasyon uzmanının onayının bulunduğu I
+konsey kararı ile 3. basamak hastanelerde kullanılması halinde ve “Kalp Ekibi” konsey değerlendirmelerinde İ
+aşağıdaki şartlardan en az birinin varlığında Kurumca bedeli karşılanır.
+(a) 60 yaş ve üzerinde,
+(b) Dar aort kökünün olduğu ve hasla/kapak uyumsuzluğu olma riski olan hastalar, (aort kökünün 23 mm veya
+daha küçük olması veya Efektif Orifis Alanı İndeksinin 0,9 cm2/m2'nin altında olması)
+(e) Kapak endokarditi olan hastalar, İ
+(d) Eş zamanlı çoklu kapak cerrahisi, |
+(e) Koroner bypass cerrahisi ile eş zamanlı aort kapak cerrahisi, |
+(8) Geçirilmiş kalp cerrahisi,
+(g) Miyektomi gereketiren hipertofik obstrüktif kardiyomiyopati,
+(h) Minimal invazivrobotik kapak cerrahisi,
+
+MADDE 11- Sağlık Uygulama Tebliği eki “EK-3/1 Kulak Burun Boğaz Branşına Ait Tıbbi Malzemeler ” Listesinde
+yer alan “KB1020” SUT kodlu tıbbi malzemenin fiyatının yeniden belirlenmesi, “KB1019 SUT kodlu tıbbi malzemenin alan
+tanımı ve fiyatı ile birlikte listeden çıkarılması ve paket işlem puanı haricinde ödenecek yeni bir SUT kodu eklenerek; tıbbi
+malzeme alan tanımı ve fiyatının aşağıdaki gibi belirlenmesine oybirliği ile,
+
+yerleştirilen iç parça)
+
+MADDE 12- Sağlık Uygulama Tebliği eki "Yurt Dışı İlaç Fiyat Listesi (EK-4/C)"nde yer alan "Cabozantinib" etkin
+maddesini içeren “COMETRIO 4 ADET 140 MG (7X80 MG KAPSUL ve 21X20 MG KAPSULP” isimli ilacın ödeme kriterinin
+Genel Sağlık Sigortası Genel Müdürlüğünce belirlenerek gerekli düzenlemenin Sağlık Uygulama Tebliğinde yapılmasına,
+
+MADDE 13- “Dupilumab” etkin maddeli “DUPIXENT 300 MG/2 ML 2 PREFİLLED SYRINGE” isimli ilacın, “Atopik
+Dermatid” tanısında bedeli karşılanmak üzere 1.407,69 Avro fiyat ile SUT eki EK-4/C Listesine alınmasına, katılım payından
+muaf olmasına, ödeme kriterinin Genel Sağlık Sigortası Genel Müdürlüğünce belirlenerek gerekli düzenlemenin Sağlık Uygulama
+Tebliğinde yapılmasına,
+
+MADDE 14- “Idursulfase beta” etkin maddeli “HUNTERASE 6 MG/3 ML 1 VIAL” isimli ilacın SUT eki EK-4/C
+Listesinde yer alan fiyatının 2.015,00 USD olarak güncellenmesine,
+
+MADDE 15- “Miltefosine" etken maddeli “IMPAVIDO 50 MG 1X56 KAPSUL” isimli ilacın, “Leishmaniasis/Amip
+Ensefaliti” tanısında bedeli karşılanmak üzere SUT eki EK-4/C Listesine 2.204,50 Avro fiyatla alınmasına, katılım payından muaf
+olmasına ve ödeme kriterinin Genel Sağlık Sigortası Genel Müdürlüğünce belirlenerek gerekli düzenlemenin Sağlık Uygulama
+Tebliğinde yapılmasına,
+
+MADDE 16- “Medium chain triglycerides (Kaprilik asit)” etkin maddeli “MCT OlL 1000 ML ŞİŞE” isimli ilacın, SUT
+eki EK-4/C Listesindeki kayıtlı fiyatının 23,00 Avro olarak güncellenmesine ve ödeme kriterinin Genel Sağlık Sigortası Genel
+Müdürlüğünce belirlenerek gerekli düzenlemenin Sağlık Uygulama Tebliğinde yapılmasına,
+
+MADDE 17- “D-penisilamin” etkin maddeli “METALCAPTASE 300 MG 100 TABLET” adlı ilacın, SUT eki EK-4/C
+Listesinde kayıtlı fiyatının 36,45 Avro olarak güncellenmesine,
+
+MADDE 18- “Natriumflouride” etkin maddeli “NATRIUMFLOURIDE 25 MG 120 TABLET” isimli ilacın, SUT eki
+EK-KC Listesine 7,60 Avro ile alınmasına, ödeme kriterinin Genel Sağlık Sigortası Genel Müdürlüğünce belirlenerek gerekli
+düzenlemenin Sağlık Uygulama Tebliğinde yapılmasına,
+
+MADDE 19- “LNNA (Large Neutral Amino Acids)” etkin maddeli “NEUTRAFENİL MICRO R 4X110 GR MICRO
+TB.” isimli ilacın, “Fenilketonuri” tanısında bedeli karşılanmak üzere SUT eki EK-4/C Listesine 300,00 Avro fiyat ile alınmasına,
+katılım payından muaf olmasına, ödeme kriterinin Genel Sağlık Sigortası Genel Müdürlüğünce belirlenerek gerekli düzenlemenin
+Sağlık Uygulama Tebliğinde yapılmasına,
+
+MADDE 20- Sağlık Uygulama Tebliği eki EK-4/C Listesinde kayıtlı bulunan “LIPISTART DIETARY SUPPLEMENT
+400 G” isimli ilacın fiyatının, 26.09.2013 tarihinden geçerli olmak üzere 22,73 İngiliz Sterlini olarak değiştirilmesine,
+
+MADDE 21- Ulusal Zehir Danışma Merkezinde bulundurulması gereken antidot listesinde bulunan ve organofosfatlı
+tarım ilaçları zehirlenmelerinde kullanılması nedeniyle mümkün olan en kısa sürede uygulanması gerektiğinden Sağlık Bakanlığı,
+Halk Sağlığı Genel Müdürlüğünce tedarik edilerek Antidot Stok Merkezi hastanelerine gönderilmekte olan “Pralidoksim
+metilsülfat” etkin maddeli “CONTRATION “42 20mg/ml 200 mg 10 ml 10 Flakon” isimli antidotun Kurumca ödenecek kutu
+fiyatının, 18.04.2018 tarihinden 15.08.2018 tarihine kadar 227,448 TL, 15.08.2018 tarihinden itibaren 393,76 TL olacak şekilde
+ve günlük dozu GSSGM tarafindan belirlenmek suretiyle MEDULA sisteminde düzenlenmesine,
+
+Alınan kararlardan;
+
+1-9 numaralı kararın 15.01.2019 tarihinde,
+
+2-1,2,3,4,5,6,7,8,10,11, 12, 13, 14, 15, 16, 17, 18 ve 19 numaralı kararların Sosyal Güvenlik Kurumu Sağlık
+Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de belirtilen tarihte,
+
+3- Diğer kararların karar tarihinde,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.
+
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+Karar No : 2019/2
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 29/01/2019 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE |1- Ulusal Zehir Danışma Merkezi'nde bulundurulması gereken antidot listesinde bulunan, zehirlenmelerde
+kullanılması nedeniyle mümkün olan en kısa sürede uygulanması gereken ve Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğünce
+tedarik edilerek Antidot Stok Merkezi hastanelerine gönderilmekte olan;
+
+- “Digoksin İmmün Fab” etkin maddeli “Digifab 40 mg/flakon | vial /kutu” isimli antidotun 27.07.2018 tarihinden geçerli
+olmak üzere kutu/Iflakon fiyatının 7.506 TL, günlük dozunun 20 vial olacak şekilde MEDULA sisteminde düzenleme yapılmasına,
+
+- “Botulismus Polivalan (A-B-C-D-E-F-G)” etkin maddeli “B.A.T 50 ml/şişe” isimli antidotun 20.12.2017 tarihinde kutu/l
+#lakon fiyatının 21.459,6 TL, günlük dozunun | şişe olacak şekilde MEDULA sisteminde düzenleme yapılmasına,
+
+MADDE 2- Hâlihazırda Spinal Musküler Atrofi Tip-1 (SMA Tip-1) endikasyonunda ödeme kapsamında olan “Nusinersen
+Sodium” etkin maddeli “SPINRAZA 12 MG/5 ML | VIAL” isimli ilacın Spinal Musküler Atrofi Tip-2 (SMA Tip-2) ve Spinal
+Musküler Atrofi Tip-3 (SMA Tip-3) endikasyonlarında da ödeme kapsamına alınmasına ve ödeme kriterinin Genel Sağlık Sigortası
+Genel Müdürlüğünce belirlenerek gerekli düzenlemenin Sağlık Uygulama Tebliğinde yapılmasına,
+
+Alınan kararlardan;
+
+1 numaralı kararın karar tarihinde,
+
+2 numaralı kararın Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de belirtilen
+tarihte,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.

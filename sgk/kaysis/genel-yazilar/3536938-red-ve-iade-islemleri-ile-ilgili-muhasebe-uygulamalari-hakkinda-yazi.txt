@@ -1,0 +1,103 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73882
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3536938
+ADI: RED VE İADE İŞLEMLERİ İLE İLGİLİ MUHASEBE UYGULAMALARI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 238d418d5bd86db269498c338ded3c4ee4f3098e69c3a5cc0ed6be23ed46670d
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+: T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Strateji Geliştirme Başkanlığı
+3K3b323
+Sayı :17636183/<..>/<..> >O3 ST.IIA
+Konu ; Red ve İade İşlemleri ile İlgili Muhasebe Uygulamaları
+GENEL YAZI
+
+Bilindiği üzere, Kurumumuz sosyal sigortacılık ilkelerine dayalı olarak sosyal güvenlik
+hizmetlerini yürütmektedir. Bu hizmetler, 5502 sayılı Sosyal Güvenlik Kurumu Kanunu
+kapsamında tanımlanan gelirlerin tahsili ile gerçekleştirilmekte olup Kurumumuzun temel gelir
+kaynağı prim gelirlerinden oluşmaktadır. Bu kapsamda, tahsilat işlemlerinin tamamı Mosip ile
+kurulmuş olan “online banka tahsilatı” sistemi aracılığıyla yapılmakta ve sözkonusu gelir tahsil
+sürecinin işleyişi aşamalarında emanet kayıtları oluşmaktadır. Emanetlerde bekleyen tutarlar ancak
+ikincil mahsup işlemleri ile kapatılmakta, süresi dolduğunda ise mali mevzuat çerçevesinde gelir
+kaydedilmektedir. Mali hizmetler birimlerinde gelir kaydedilmesi sonucu kaynak sistemlerde takip
+edilen ilgili borç kayıtları gerçek ve tüzel kişilerin Kurumumuza başvuruları ile tespit edilmektedir.
+
+Diğer yandan, bütçeye gider kaydedilerek fazla veya yersiz yapılan gelir/aylık ödemeleri,
+sigortalılara/sağlık hizmet sunucularına yapılan ödemeler ve personel ödemeleri gibi gider
+kalemlerinden kaynaklanan iadeler, tahsil edildiğinde gelir kaydedilmekte olup, daha sonra söz
+konusu ödemelerin yerindeliğine karar verildiğinde “Gelirlerden Red ve İade” işlemi yapılarak
+ilgililerine ödeme yapılmaktadır.
+
+Tüm bu red ve iade işlemlerinin, gerek taşra gerekse merkez birimlerimizde farklı şekilde
+uygulandığı, süreçlerde gerekli kontrollerin yeterince yapılmadığı, hatta bu yüzden işlemleri
+yapanlar açısından mali ve idari yönden hukuki sonuçların yaşandığı görülmüş olup, bu
+sakıncaların ortadan kaldırılması ve uygulama birliğinin sağlanması amacıyla bazı düzenlemelerin
+yapılmasına ihtiyaç duyulmuştur.
+
+Bu çerçevede; ilgili borç tutarını yatırdığı halde borç tahakkuk kaydı kapatılmamış olan
+gerçek veya tüzel kişilerin talep dilekçesine istinaden yapılan incelemede; bu kişiye ait emanetin,
+bir şekilde gelir kaydedildiği durumlarda; “Gelirden Red ve İade” ekranında Muhasebe Birim
+Kullanıcısı rolü ile yapılan red ve iade işlemi, başka bir kullanıcı tarafından Muhasebe Yetkilisi
+rolü ile imzaladıktan sonra gerçekleştirilecek ve oluşan emanet borca mahsup edilecektir.
+
+Diğer yandan, kaynak sistemlerde başlatılan ve Mosip'te oluşturulan red ve iadeler de dahil
+olmak üzere, daha önce gelir kaydedilmiş bir tahsilatın veya yersiz kesintinin iadesi, gerçek veya
+tüzel kişilerce Sosyal Güvenlik İl Müdürlüğünden/Merkez Müdürlüğünden o (Harcama
+Birimlerinden) dilekçe ile talep edilecektir. Dilekçe, dosyanın bulunduğu servis tarafından
+incelenecek olup red ve iadeye karar verilmesi durumunda, harcama birim kullanıcısı tarafından
+dilekçe ve diğer belgeler de eklenerek ilgili menüden red ve iade işlemi yapılacak ve elektronik
+imza ile imzalanacaktır. İmzalanan fiş, gerçekleştirme görevlisi ve harcama yetkilisinin onayından
+ve elektronik imzasından sonra ödenmek üzere ilgili Mali Hizmetler Sosyal Güvenlik Merkez
+Müdürlüğüne gönderilecektir. Mali Hizmetler Sosyal Güvenlik Merkez Müdürlüğünde, gönderilen
+red ve iade işlemi onaylanmadan önce emanet kayıtları kontrol edilerek ödemenin mükerrer
+olmamasına dikkat edilecek ve ödeme işlemi gerçekleştirilecektir.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 06520 Balga/ANKARA Ayrıntılı bilgi için irtibat: Bülent ÖZCAN Şb. Md.
+Tel: (312) 207 8568 Faks: (312) 207 81 46
+e-posta: bozcan3(©sgk.gov.tr Elektronik Ağ:ıwww.sgk.gov.tr
+i EFOM
+e A
+
+“ ” 29/06/2015 tarihinden itibaren muhasebe birimlerinde ödeme emri belgeleri ve emanet
+aktarma işlemleri hariç olmak üzere muhasebe işlem fişleri de farklı kişilerce ve en az iki kişinin
+imzasına haiz olarak oluşturulmaya başlanmıştır. Sistem bunun kontrolünü otomatik olarak
+yapmaktadır. Bunun dışındaki yetkilendirme ve devir işlemi sonucu atılan imzalardan ve
+gerçekleşen ödeme işlemlerinden yetkilendirme ve devir işlemini yapanlar sorumlu bulunmaktadır.
+
+Ayrıca, taşrada görev yapan muhasebe birimlerimizin Merkez Gelir Saymanlığı adına
+manuel red ve iade fişi oluşturmamaları, eğer bir mahsup işlemi varsa eki belgeler ile birlikte
+kendi gelir muhasebe ekranında oluşturmaları gerekmektedir.
+
+Emanet aktarma ve emanet değişikliği işlemleri için ise, sisteme konulacak çift imza
+kontrolüne ilişkin çalışmalar kısa bir süre sonra tamamlanacak olup, bu aşamaya kadar, ilgili
+muhasebe yetkililerince çift imza kontrolü yapılarak ödeme ve mahsup işlemlerinin
+gerçekleştirilmesi gerekmektedir.
+
+Söz konusu uygulamalar çerçevesinde en az iki farklı kişinin imzası kuralı ve konunun
+hassasiyeti gözönünde bulundurularak gerekli tedbirlerin alınması gerekmektedir. Mali konularda
+gerekli tedbirlerin alınmamasından kaynaklanacak muhtemel zararlarda; ilgili muhasebe birimleri
+yanında ilgili servislerin ve harcama yetkililerinin de idari ve mali sorumluluklarının bulunduğu
+hususu dikkate alınarak, işlemlerin yukarıda belirlenen süreç dahilinde yapılması, harcama ve
+özellikle muhasebe birimlerinin mükerrer bir iade veya ödemeye firsat vermeden işlemleri
+tamamlamaları gerekmektedir.
+
+Bilgilerinizi ve gereğini önemle rica ederim.
+
+Cevdet CEYLAN
+Kurum Başkan V.
+DAĞITIM:
+Gereği;
+Taşra Teşkilatı
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 06520 Balga/ANKARA Ayrıntılı bilgi için irtibat: Bülent ÖZCAN Şb. Md.
+Tel: (312) 207 8568 Faks; (312) 207 81 46
+e-posta: bozcan3(Dsgk.gov.tr Elektronik Ağıwww.sgk.gov.tr
+
+ErFOM
+
+e a 9

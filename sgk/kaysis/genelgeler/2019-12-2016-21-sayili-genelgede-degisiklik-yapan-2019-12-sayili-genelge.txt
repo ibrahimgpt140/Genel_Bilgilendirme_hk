@@ -1,0 +1,63 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/151423
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2019/12
+ADI: 2016/21 SAYILI GENELGEDE DEĞİŞİKLİK YAPAN 2019/12 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 74312f2cec8a5de0a633283e611c5d4eaa8134e3285ea90e2a23288d057f0b58
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ASAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı : 96597630-010.06.02-E.7654939 21/05/2019
+Konu :2016/21 Sayılı Genelgede Değişiklik
+GENELGE
+2019/12
+
+5510 sayılı Kanunun 18 inci maddesine göre düzenlenen mahsuplaşma protokolleri,
+2016/21 sayılı Genelge gereğince MOSİP uygulaması üzerinden tanımlanma yapılması amacıyla
+Kısa Vadeli Sigortalar Daire Başkanlığına gönderilmektedir. Ancak, Merkezde bulunan yetkilerin
+taşraya devredilmesi çalışmaları kapsamında, bu Genelgenin yayımı tarihi itibariyle tanımlama
+işlemleri sosyal güvenlik il müdürlüğü veya sosyal güvenlik merkezi tarafından yapılacaktır.
+
+Bunun yanısıra bürokrasinin azaltılması ve yeknesaklığın sağlanması amacıyla geçici iş
+göremezlik ödeneğine esas iş göremezlik raporlarında yer alan "başhekim onayı" uygulaması, yine
+bu Genelgenin yayımı tarihi itibariyle kaldırılmıştır.
+
+Buna göre, 2016/21 sayılı Genelgenin;
+
+1-"6.2.Sigortalılara Ödenen Geçici İş Göremezlik Ödeneklerinin İşveren Prim Borçlarına
+Mahsup Edilmesi" başlıklı bölümünün ilk paragrafı aşağıdaki şekilde değiştirilmiştir.
+
+"Mahsuplaşma talebinde bulunan işveren ile sosyal güvenlik il müdürü veya yetki verdiği
+sosyal güvenlik il müdür yardımcısı/sosyal güvenlik merkez müdürü tarafindan bu Genelge ekinde
+yer alan matbu Mahsuplaşma Protokolü (Ek-9) karşılıklı olarak imza altına alındıktan sonra,
+protokol imzalayan işveren ile mahsuplaşma işleminin başlatılması amacıyla sosyal güvenlik il
+müdürlüğü/sosyal güvenlik merkezi tarafindan MOSİP uygulamasından mahsuplaşma tanımlama
+işlemi yapılacaktır. Kısa Vadeli Sigortalar Daire Başkanlığına tanımlama işlemi için protokol
+örneği gönderilmeyecektir. Mahsuplaşma programının işleyişi ile ilgili bilgiler e- Ödenek Kullanım
+Kılavuzunda yer almaktadır."
+
+2-"6.7.3.Çalışılmadığına Dair Bildirim Girişi İle İlgili Diğer Konular" başlıklı bölümünün
+on birinci paragrafında yer alan, "Diğer taraftan elektronik ortamda düzenlenen raporların
+ivedilikle ödenebilmesi için sağlık hizmet sunucusu başhekimlerince en kısa zamanda onaylanması
+gerekmektedir." cümlesi ile on dört ve on altıncı paragrafları metinden çıkarılmıştır.
+
+3-"6.8.1.Kağıt Ortamında İş Göremezlik Belgesi ve Çalışabilir Belgesinin Düzenlenmesi İle
+İlgili Usul ve Esaslar" başlıklı bölümünün üçüncü paragrafı metinden çıkarılmış ve dördüncü
+paragrafında yer alan "Onay" ifadesinden önce gelen “Başhekimlik Onayı bölümü ile İş
+Göremezlik Belgesi'nin," ifadeleri metinden çıkarılmıştır.
+
+Bilgi edinilmesini ve gereğince işlem yapılmasını rica ederim.
+
+Dr. Mehmet Selim BAĞLI
+Kurum Başkanı
+DAĞITIM:
+Gereği: Bilgi:
+Merkez ve Taşra Teşkilatına Aile, Çalışma ve Sosyal Hizmetler Bakanlığına
+Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır. .|(
+Mithatpaşa Cad.No 7 Sıhhiye/Çankaya
+Telefon: 0312 458 8180 Fax:0312435 7236 Birim Eposta: ehgm kvsdb(ösgk.gov.tr
+Ayrıntılı bilgi için irtibat: Halis Yaşar Yıldırımoğlu Sosyal Güv. Uzmanı Eposta: hyildirimoglu(&sgk.gov.tr

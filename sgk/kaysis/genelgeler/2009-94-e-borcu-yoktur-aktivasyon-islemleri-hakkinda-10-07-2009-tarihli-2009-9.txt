@@ -1,0 +1,220 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/128289
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2009/94
+ADI: E-BORCU YOKTUR AKTİVASYON İŞLEMLERİ HAKKINDA 10.07.2009 TARİHLİ 2009/94 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 59bcbc2dee011c9f8ad080b11b58bc82c309549f06be1891df0c13323ec2453b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                 T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Sosyal Sigortalar Genel Müdürlüğü
+                                   Prim Tahsilat Daire Başkanlığı
+Sayı : B.13.2.SGK.5.01.08.00/73-031-622                                                    10/7/2009
+Konu : e-Borcu Yoktur aktivasyon işlemleri
+
+
+
+
+                                              GENELGE
+                                               2009 –94
+
+
+
+
+         1-Genel Açıklamalar
+         Bilindiği gibi, “e-Borcu Yoktur Başvurusunda” bulunarak aktivasyon işlemlerini yaptırmış
+olan işverenler adına, aktivasyon işleminin yapıldığı tarihten sonra tescil edilen işyerleri, bilgisayar
+programlarınca, vergi kimlik numarasına bakılmak suretiyle otomatik olarak aktivasyon işlemine
+dahil edilmektedir.
+         Hal böyle olmakla birlikte, 1/11/2006 tarihinden itibaren, gerçek kişi işverenler yönünden
+vergi kimlik numarası olarak 11 haneli T.C. kimlik numarası kullanılmaya başlanıldığından,
+aktivasyon işlemleri sırasında 10 haneli vergi kimlik numarası esas alınmış olan gerçek kişi
+işverenler adına 1/11/2006 tarihinden sonra 11 haneli T.C. kimlik numarası esas alınmak suretiyle
+tescil edilen işyerleri aktivasyon işlemine dahil edilememiş, haliyle konuyla ilgili düzenlemeler
+tamamlanıncaya kadar gerçek kişiler yönünden e-Borcu Yoktur aktivasyon programları işletime
+kapatılmıştır.
+         e-Borcu Yoktur aktivasyon programları web tabanlı olarak yeniden hazırlanarak, tüzel kişi
+işverenler yönünden 25/12/2008 tarihi itibariyle işletime açılmış, vergi kimlik numaralarında
+yapılan bu değişiklik dolayısıyla, gerçek kişi işverenler ve adi ortaklıklar yönünden ise bu Genelge
+ile birlikte işletime açılacak olup, konuyla ilgili Sosyal Güvenlik İl Müdürlüklerimizce/ Sosyal
+Güvenlik Merkezlerimizce yapılacak işlemler aşağıda açıklanmıştır.
+
+        2- Gerçek Kişi İşverenler Yönünden Aktivasyon İşlemlerinin Güncellenmesi
+        Yukarıda da belirtildiği üzere, gerçek kişi işverenler yönünden 1/11/2006 tarihinden itibaren
+vergi kimlik numarası olarak T.C. kimlik numarası kullanılmaya başlanıldığından, e-Borcu Yoktur
+aktivasyon işlemleri eski programlar vasıtasıyla yapılmış olan gerçek kişi işverenlerin, sistemde
+kayıtlı eski vergi kimlik numaralarının yerine T.C. kimlik numaralarının kaydedilebilmesi için,
+sözkonusu aktivasyon işlemlerinin, ilgili Sosyal Güvenlik İl Müdürlüğünce /Sosyal Güvenlik
+Merkezince yeni e-Borcu Yoktur aktivasyon programları vasıtasıyla güncellenmesi gerekmektedir.
+        Gerçek kişi işverenlerin vergi kimlik numaralarının e-Borcu Yoktur aktivasyon programları
+vasıtasıyla güncellenebilmesi için, İşyeri Tescil Servislerince aşağıda belirtilen işlemler
+yapılacaktır.
+       2.1- Aktivasyon işlemleri eski programlar vasıtasıyla yapılmış olan gerçek kişi işverenlerin,
+e-Borcu Yoktur aktivasyon programlarında mevcut “Listeleme” seçeneği vasıtasıyla listesi
+alınacaktır.
+        Bahse konu listelerin alınması sırasında, “Aktivasyon başvurusunun kurum tarafından
+        işlendiği yıl” seçeneğine 2005, “Aktivasyon İşlemi Yapılmış Gerçek Kişi İşyerleri (Sıra
+        numarasının son hanesini giriniz)” seçeneğine 0,
+       yazıp “listele” tuşuna basılarak, ilgili Sosyal Güvenlik İl Müdürlüğünce / Sosyal Güvenlik
+Merkezince aktivasyon işlemi 2005 yılı içinde yapılmış, işyeri sıra numarası 0 ile biten gerçek kişi
+işverenlerin aktivasyon başvurusunda bulundukları işyerlerinin listesi alınacaktır.
+        Sözkonusu listeleme işlemi, 2005 yılı için, sıra numarası 1 ila 9 (dahil) arasında biten
+işyerleri için ayrı ayrı tekrarlandıktan sonra, 2006, 2007 ve 2008 yılları için de sıra numarası 0 ila
+9 (dahil) arasında biten işyerleri için ayrı ayrı liste alınacaktır.
+        Dolayısıyla, 2005, 2006, 2007 ve 2008 yılları için (işyeri sıra numarası 0 ila 9 biten işyerleri
+için) 48 ayrı liste alındıktan sonra, bahse konu listede kayıtlı işyerlerinin (gerçek kişi olmadıkları
+halde e-Borcu Yoktur aktivasyon işlemleri gerçek kişi olarak yapılmış işyerleri hariç) vergi kimlik
+numaralarının güncelleme işlemi yapılacaktır.
+        2.2- Sözkonusu listelerde kayıtlı işyerlerinin vergi kimlik numaraları, yeni e-Borcu Yoktur
+Başvuru programlarında mevcut “Gerçek Kişi Vergi K. No’larını T.C. Kimlik No Esas Alarak
+Güncelleme” seçeneği vasıtasıyla güncellenecektir.
+        Gerçek kişi işverenlerin vergi kimlik numaralarının güncellenmesi sırasında, varsa işyeri
+tescil kütüklerinin yönetici tablolarında kayıtlı T.C. kimlik numarası sistem tarafından otomatik
+olarak ekrana getirilecek ve ekranda yer alan T.C. kimlik numarası için, “KPS SORGU” tuşuna
+basılmak suretiyle KPS’den yapılan sorgu sonucunda ekrana gelen kayıt için, “Kaydet” tuşuna
+basıldığında vergi kimlik numarasının güncelleme işlemi tamamlanmış olacaktır.
+        Hal böyle olmakla birlikte, sözkonusu güncelleme işlemleri sonucunda, işyeri tescil
+kütükleri ve yönetici tabloları da otomatik olarak güncelleneceğinden, “KPS SORGU” tuşuna
+basılmak suretiyle ekrana getirilen kişinin, “Listeleme” seçeneği vasıtasıyla alınan listede kayıtlı
+kişiden farklı bir kişi olması halinde, herhangi bir güncelleme işlemi yapılmayacaktır. Bu durumda,
+“Kaydet” tuşu yerine “Vazgeç” tuşuna basılarak herhangi bir güncelleme yapılmaksızın işlem
+sonlandırılacaktır.
+        Dolayısıyla, yeni e-Borcu Yoktur Başvuru programı vasıtasıyla gerçek kişi işverenlerin
+vergi kimlik numaralarının T.C. kimlik numarası olarak güncellenmesi sırasında, KPS’den yapılan
+sorgulama sonucunda ekrana getirilen kişi ile Aktivasyon İşlemi Yapılmış Gerçek Kişi İşyerlerine
+İlişkin Listede kayıtlı kişinin aynı kişi olup olmadığı kontrol edilecek ve ekrana getirilen kişi ile
+Listede kayıtlı kişinin farklı kişi olması halinde, herhangi bir güncelleme işlemi yapılmayıp, ilgili
+işverene ait T.C. kimlik numarasının tespiti cihetine gidilecektir.
+        Yine, güncelleme işlemleri sırasında, yönetici tablosunda T.C. kimlik numarasının
+bulunmaması nedeniyle ekrana, ilgili işverene ait T.C. kimlik numarasının getirilemediği
+durumlarda da, T.C. kimlik numarasının tespit edilmesi gerekmektedir.
+        2.3- Gerçek kişi işverenlerin vergi kimlik numaralarının T.C. kimlik numarası esas alınmak
+suretiyle güncellenmesinin ardından,
+        -       Aktivasyon işlemine, sahiplik/ortaklık/üst düzey yöneticilik/alt işverenlik olarak
+dahil edilmiş olan işyerlerinin, SAHİPLİK GÜNCELLE – ADİ ORTAKLIK GÜNCELLE –
+YÖNETİCİLİK GÜNCELLE – ORTAKLIK GÜNCELLE – ALT İŞVERENLİK GÜNCELLE,
+        -       Vergi kimlik numarasının T.C. kimlik numarası olarak değiştirilmesi nedeniyle
+aktivasyon işlemine dahil edilememiş sahiplik / ortaklık / üst düzey yöneticilik / alt işverenlik
+işyerlerinin, aktivasyon işlemine dahil edilebilmesi için, SAHİPLİKLERİ EKLE – ADİ
+ORTAKLIKLARI EKLE – YÖNETİCİLİKLERİ EKLE – ORTAKLIKLARI EKLE – ALT
+İŞVERENLİKLERİ EKLE – VEKİLLİKLERİ EKLE,
+        tuşlarının her birine sırayla basılarak, aktivasyon güncelleme işlemi tamamlanmış olacaktır.
+        Dolayısıyla, “GÜNCELLE” seçeneklerine basılmak suretiyle, eski programdaki aktivasyon
+işlemine dahil edilmiş işyerlerinin yeni aktivasyon işlemine aktarılması; “EKLE” seçeneklerine
+basılmak suretiyle, aktivasyon işlemi güncellenen gerçek kişi işverenin daha önceki aktivasyon
+işlemine dahil edilememiş işyerlerinin yeni aktivasyon işlemine dahil edilmesi sağlanmış olacaktır.
+       3- Adi Ortaklıklar Yönünden Aktivasyon İşlemlerinin Güncellenmesi
+       Bilindiği üzere, eski e-Borcu Yoktur Başvuru programlarında, adi ortaklıkların aktivasyon
+başvuruları, gerçek kişi işverenler gibi, e-BORCU YOKTUR BELGESİ BAŞVURU FORMU
+GİRİŞ (GERÇEK KİŞİ) seçeneği vasıtasıyla sisteme girilmiştir.
+        Web tabanlı hazırlanan yeni e-Borcu Yoktur Başvuru programlarında ise, adi ortaklıklar
+için ayrı bir giriş programı hazırlandığından, adi ortaklıklar için eski programlar vasıtasıyla girilmiş
+başvuruların Sosyal Güvenlik İl Müdürlüklerince / Sosyal Güvenlik Merkezlerince iptal edilerek,
+yeni programlarda mevcut “Adi Ortaklıklar Başvuru Giriş” seçeneği vasıtasıyla yeniden girilmesi
+gerekmektedir.
+        Adi ortaklık başvuru giriş işlemleri sırasında, kullanıcı tarafından, daha önceki aktivasyon
+işlemine sahiplik / ortaklık / üst düzey yöneticilik / alt işverenlik olarak dahil edilmiş işyerlerinin
+girişi yapılacağı gibi, aktivasyon işlemine dahil edilememiş işyerlerinin bulunup bulunmadığı
+İntranet programlarında mevcut “İlişiksizlik” veya “Türkiye Genelinde İşveren Tescil Sorgulama”
+seçenekleri vasıtasıyla çapraz sorgulama yapılmak suretiyle araştırıldıktan sonra, sisteme
+kaydedilmemiş işyerlerinin bulunması halinde bu işyerlerinin de girişi yapılacaktır.
+        Bu bakımdan, gerçek kişi işverenlere ilişkin “Listeleme” seçeneği vasıtasıyla alınan
+listelerde, birden fazla gerçek veya tüzel kişiden meydana gelen adi ortaklıklara rastlanılması
+halinde, bu nitelikteki adi ortaklıklarla ilgili aşağıda belirtilen işlemler yapılacaktır.
+         -       İşyeri Tescil Servislerince, aktivasyon işlemine sahiplik / ortaklık / üst düzey
+yöneticilik/ alt işverenlik olarak dahil edilmiş diğer işyerlerinin, “Listeleme” menüsünde yer alan
+Sicil
+No'dan Listeleme (GERÇEK/TÜZEL) seçeneği vasıtasıyla aktivasyon listesi alınacak,
+         -       Daha önce aktivasyon işlemi yapılmış adi ortaklık ile adi ortaklığı oluşturan gerçek
+ve tüzel kişilerin aktivasyon işlemine sahiplik / ortaklık / üst düzey yöneticilik / alt işverenlik olarak
+dahil edilmiş işyerleri dışında, sahiplik / ortaklık / üst düzey yöneticilik / alt işverenlik olarak dahil
+edilememiş işyerlerinin bulunup bulunmadığının araştırılarak, aktivasyon işlemine dahil edilmemiş
+işyerlerinin bulunması halinde, bu işyerlerinin sicil numarasının bildirilmesi amacıyla, daha önceki
+aktivasyon işlemine dahil edilmiş işyerleri de belirtilmek suretiyle, durum bir mucip ile Sigorta
+Primleri Servisinden sorulacak,
+         -       Sigorta Primleri Servisince “İlişiksizlik” veya “Türkiye Genelinde İşveren Tescil
+Sorgulama” seçenekleri vasıtasıyla, adi ortaklık ve adi ortaklığı oluşturan her bir gerçek ve tüzel
+kişiler adına tescil edilmiş işyerleri ile ortağı, üst düzey yöneticisi, işveren vekili veya alt işvereni
+olduğu işyerlerinin bulunup bulunmadığı araştırıldıktan sonra, daha önceki aktivasyon işlemine
+dahil edilmemiş işyerlerinin tespiti halinde, sözkonusu işyerlerinin aktivasyon işlemine dahil
+edilmesi amacıyla (sahiplik/ortaklık/üst düzey yöneticilik/alt işverenlik olduğu da belirtilmek
+suretiyle) durum İşyeri Tescil Servisine bildirilecek,
+         -       İşyeri Tescil Servisince, eski program vasıtasıyla yapılmış olan aktivasyon işlemi
+“Aktivasyon İşlemleri” seçeneği vasıtasıyla iptal edilecek,
+         -       Eski program vasıtasıyla yapılmış başvuru, “Başvuru İptal” seçeneği vasıtasıyla
+iptal edilecek,
+        Adi Ortaklık Başvuru Giriş seçeneği vasıtasıyla, daha önceki aktivasyon işlemine dahil
+edilmiş diğer işyerleri ile varsa Sigorta Primleri Servisince aktivasyon işlemine dahil edilmediği
+tespit edilen diğer işyerleri sisteme girilmek suretiyle, adi ortaklıklara ilişkin güncelleme işlemleri
+tamamlanmış olacaktır.
+         4- Tüzel Kişi Oldukları Halde Gerçek Kişi İşverenler Gibi Sisteme Girilmiş Olanlara
+İlişkin Aktivasyon İşlemlerinin Güncellenmesi
+        Genel Müdürlüğümüzce yapılan kontrollerde, bazı Sosyal Güvenlik İl Müdürlüklerimizce
+/Sosyal Güvenlik Merkezlerimizce tüzel kişi işverenlere ilişkin aktivasyon işlemlerinin, gerçek kişi
+aktivasyon ekranları kullanılmak suretiyle, gerçek kişi işverenler gibi yapıldığı tespit edilmiştir.
+         Yukarıda da açıklandığı üzere, gerçek kişi işverenlerin vergi kimlik numaralarının T.C.
+kimlik numarası esas alınmak suretiyle güncellenmesi sırasında işyeri tescil kütükleri ve yönetici
+tabloları otomatik olarak güncelleneceğinden, sonradan telafisi mümkün olmayan sonuçlarla
+karşılaşılmamasını teminen, tüzel kişi olduğu halde aktivasyon işlemleri gerçek kişi aktivasyon
+ekranları kullanılmak suretiyle yapılmış olan işyerleri için kesinlikle güncelleme işlemi
+yapılmayacaktır.
+        Bu nitelikteki işverenler için, eski programlarda mevcut “e-BORCU YOKTUR BELGESİ
+BAŞVURU FORMU GİRİŞ (GERÇEK KİŞİ)” ekranı vasıtasıyla yapılmış olan aktivasyon
+işlemleri iptal edilerek, yeni programlarda mevcut “Tüzel Kişi Başvuru Giriş” ekranı vasıtasıyla
+aktivasyon ve başvuru işlemlerinin yeniden yapılması gerekmektedir.
+        Bu bakımdan, gerçek kişi işverenlere ilişkin “Listeleme” seçeneği vasıtasıyla alınan
+listelerde, tüzel kişi işverenlerin bulunması halinde, 3 nolu bölümde adi ortaklıklar yönünden
+yapılması öngörülen işlemler, bu defa tüzel kişi işverenler yönünden yapılacaktır.
+        5- Gerçek kişi, Tüzel Kişi ve Adi Ortaklıklara İlişkin Başvuru Giriş İşlemleri e-Borcu
+        Yoktur Başvurusunda bulundukları halde, e-Borcu Yoktur Başvuru programının
+işletime kapatılması nedeniyle başvuruları işleme alınamamış olan işverenlere ilişkin başvurular,
+        -       Gerçek kişi işverenler için, “Gerçek Kişi Başvuru Giriş”
+        -       Tüzel kişi işverenler için, “Tüzel Kişi Başvuru Giriş”- Adi
+        ortaklıklar için, “Adi Ortaklık Başvuru Giriş “ seçenekleri vasıtasıyla
+        sisteme girilecektir.
+
+         6- e-Borcu Yoktur Programları Vasıtasıyla Yapılan Sorgulamalar
+         e-Borcu Yoktur programları vasıtasıyla, ihalelere katılmak üzere, kesinleşmiş sosyal
+güvenlik prim borcunun bulunmadığına ve 5510 sayılı Kanunun 90 ıncı maddesinin altıncı
+fıkrasına istinaden devlet yardımı teşvik ve desteklerden yararlanmak üzere Kurumumuza yasal
+ödeme süresi geçmiş prim ve idari para cezası borcunun bulunmadığına ilişkin yazıların alınması
+mümkün bulunmaktadır.
+          Hal böyle olmakla birlikte, bahse konu program vasıtasıyla , yasal ödeme süresi geçmiş
+borçları 6183 sayılı Kanunun 48 inci maddesi uyarınca tecil ve taksitlendirilmiş ya da çeşitli
+Kanunlar gereğince yeniden yapılandırılmış olan işverenlere, ihalelere katılmak üzere kesinleşmiş
+sosyal güvenlik prim borcu olmadığına ve devlet yardımı, teşvik ve desteklerden yararlanmak üzere
+yasal ödeme süresi geçmiş borçların 6183 sayılı Kanunun 48 inci maddesine istinaden tecil ve
+taksitlendirildiğine ya da yapılandırıldığına ilişkin yazı verilmesi mümkün bulunmadığı gibi, yasal
+ödeme süresi geçmiş borçlarının toplamı Kamu İhale Genel Tebliğinin birinci bölümünün "IX-
+İsteklilerden 10 uncu Maddenin Son Fıkrasına Göre İstenecek Belgeler" başlığının (c) maddesinde
+belirtilen sınırların altında olan işverenlere de kesinleşmiş sosyal güvenlik prim borcu olmadığına
+ilişkin yazıların verilmesi mümkün bulunmamaktadır.
+         Bu bağlamda, e-Borcu Yoktur aktivasyon işlemi tamamlanmış olan işverenlerce, yukarıda
+belirtilen durumlar dolayısıyla borcu yoktur belgesinin internet üzerinden alınamaması halinde,
+bahse konu yazılar, ilgililerin başvurusu üzerine, Sosyal Güvenlik İl Müdürlüğünce / Sosyal
+Güvenlik Merkezince manuel olarak düzenlenmek suretiyle verilecektir.
+         Öte yandan, gerek ihalelere katılmak üzere kesinleşmiş sosyal güvenlik prim borcunun
+olmadığına ilişkin yazıların, gerekse devlet yardımı, teşvik ve desteklerden yararlanmak üzere yasal
+ödeme süresi geçmiş prim ve idari para cezası borcunun bulunup bulunmadığına ilişkin yazıların
+düzenlenmesi sırasında, gerçek kişi işverenlerin kendi sigortalılıklarından kaynaklanan (5510 sayılı
+Kanunun 4 üncü maddesinin birinci fıkrasının b bendi kapsamındaki) prim borçlarının da
+sorgulanması gerektiğinden, yeni e-Borcu Yoktur Başvuru programları ile birlikte, e-Borcu Yoktur
+programları vasıtasıyla Türkiye genelinde yapılan sorgulamalar sırasında, bahse konu borçların da
+sorgulanması sağlanmıştır.
+
+        7- Ortak hususular
+        Aktivasyon işlemleri eski programlar vasıtasıyla yapılmış gerçek kişi işverenler ile adi
+ortaklıklar, aktivasyon işlemleri güncellenmeden, e-Borcu Yoktur programlarına giriş
+yapamayacaklardır.
+        Dolayısıyla, bahse konu işverenlerin borcu yoktur belgelerini internet üzerinden
+alabilmeleri için, güncelleme işlemlerinin ivedilikle bitirilmesi gerektiğinden, sözkonusu işlemlerin
+31/8/2009 tarihine kadar bitirilmesi amacıyla Ünite amirlerince gerekli önlemler alınacaktır.
+        Diğer taraftan, yeni e-Borcu Yoktur programları ile birlikte e-Borcu Yoktur Başvuru
+formlarında da bazı değişiklikler yapılmış olup, başvuru işlemleri sırasında bundan böyle ekte yer
+alan formlar kullanılacaktır.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+Ek- Başvuru formları
+

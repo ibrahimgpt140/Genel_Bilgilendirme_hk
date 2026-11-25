@@ -1,0 +1,142 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/137446
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 5301948
+ADI: KAPSAM 4A HAKKINDA 20/10/2017 TARİHLİ VE 5301948 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5e46a1de7e35a46aba14f51a6eedcd662e88f224e815a5a4943e94a44f454528
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> mm T.C.
+Ş G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AJAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı : 98547999-010-E.5301948 20/10/2017
+Konu : KAPSAM 44
+GENEL YAZI
+
+4/1-(a) kapsamında sigortalı ve hak sahiplerine bağlanan gelir/aylıklarının yersiz olarak
+ödenmesini engellemek amacıyla 4/1-(a), 4/1-(b), 4/1-(c) kapsamında yapılan tescil bilgilerinin
+sistemden alınarak durdurulması/kesilmesi/listelenmesine ilişkin KAPSAMA4A projesi 05/06/2017
+tarihinde sadece tescil işlemleri yönüyle işletime açılmıştır.
+
+İşletime açılan proje işlem gören kayıtların görüntülenmesi amacıyla “MEYES Tekil Giriş
+(Single Sign On) Intranet Uygulamaları” (SSOM) sistemine “KAPSAM 4A” adıyla kaydedilmiştir.
+
+KAPSAM 4A projesi ile;
+
+4/1-(a) kapsamında malullük, yaşlılık aylığı alan emekliler ile gelir/aylık alan hak sahibi eş,
+çocuk, ana ve babaların 4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında çalışmaya başlamaları halinde halen
+yürürlükte olan mevzuat çerçevesinde durdurma, kesme ve kontrol amaçlı listelenme işlemleri
+yapılmaktadır.
+
+Sosyal güvenlik il/merkez müdürlükleri ile Başkanlığımızca “KAPSAM 4A” projesinden
+gelir/aylığı durdurulan veya gelir/aylığı durdurulmadan listelenen emekli ve hak sahiplerinin
+işlemleri emekli ve hak sahibinin dosyasının bulunduğu birim tarafından tescil işleminin yersiz
+yapılıp yapılmadığına ilişkin kontrol yapıldıktan sonra sonuçlandırılacaktır.
+
+Buna göre,
+
+1-4/1-(a) kapsamında malullük aylığı alanlardan; 4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında
+çalışmaya başlamaları nedeniyle mevcut mevzuat çerçevesinde gelir/aylıkları kesilenler;
+“KAPSAM 44”, “Kapsam İşlemleri”, “Kapsam Aylık Türü- 4/a malullük aylığı alanlar”, Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”, “Dönem”
+seçilerek “Listele” butonuna basılarak seçilen döneme ait tüm kayıtlar il bazında listelenecektir.
+
+Yapılan listeleme sonucuna göre, dosyanın bulunduğu sosyal güvenlik il//merkez müdürlüğü
+tarafından yersiz veya hatalı tescil işlemi yapılanların aylıkları tekrar ödenmeye başlanacak, tescil
+işleminde hata olmayan kayıtların bankaya yersiz olarak gönderildiği tespit edilen aylıkların iadesi
+banka/PTT şubelerinden istenilecek, banka/PTT şubelerinden gelecek cevaba göre yersiz tahsil
+edildiği tespit edilen aylıklar için borç işlemi yapılacaktır.
+
+2- 4/1-(a) kapsamında yaşlılık aylığı alanlardan; 4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında
+çalışmaya başlamaları nedeniyle mevcut mevzuat çerçevesinde gelir/aylıkları kesilenler;
+“KAPSAM 44”, “Kapsam İşlemleri”, “Kapsam Aylık Türü- (a yaşlılık aylığı alanlar”, Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”, “Dönem”
+seçilerek “Listele” butonuna basılarak seçilen döneme ait tüm kayıtlar il bazında listelenecektir.
+
+Bunlardan, 4/1-(a) ve 4/1-(c) kapsamında çalışmaya başlamaları nedeniyle gelir/aylıkları
+kesilenlerin dosyaları incelenerek 4/1-(a) kapsamında kamu işyerinden tescil edilenlerle 4/1-(c)
+kapsamında tescil edilenlerin 5335 sayılı Kanuna göre istisna kapsamında olup olmadıkları
+araştırılarak istisna kapsamında olanların aylıkları kesildiği tarihten itibaren tekrar ödenmeye
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 10 63 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(sgk.gov.tr Web: www.sgk.gov.tr
+
+ALO
+i 170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+başlanacak, istisna kapsamında olmayanların ise bankaya yersiz olarak gönderildiği tespit edilen
+aylıkların iadesi banka/PTT şubelerinden istenecek, banka/PTT şubelerinden gelecek cevaba göre
+yersiz tahsil edildiği tespit edilen aylıklar için borç işlemi yapılacaktır.
+
+4/1-(b) kapsamında çalışmaya başlayanlar için ise yapılan tescil işlemlerinin daha çok
+geçmişe yönelik olması nedeniyle aylıklarda herhangi bir kesilme işlemi yapılmayacağından,
+kayıtlara tescil işleminin yersiz yapılıp yapılmadığı, emekli aylığı bağlanmadan önceki 4/1-(b)
+kapsamındaki hizmet bildirimlerin yapılan tescile uygun olup olmadığı, hizmet çakışmaları, gün ve
+kazanç değişiklikleri, yapılan tescilin aylıkta statü değişikliğine neden olup olmayacağı vb.
+durumlar dikkate alınarak sigortalının durumu tekrar değerlendirilerek değerlendirme sonucuna
+göre gerekli işlemler yapılacaktır.
+
+Ayrıca, ölüm ikinci karar işlemlerinin Genel Müdürlükte yapılması nedeniyle 4/1-(a)
+kapsamındaki hak sahiplerinin 4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında çalışmaya başlamaları
+nedeniyle mevcut mevzuat çerçevesinde işlem görenler de KAPSAM 4A”, “Kapsam İşlemleri”
+menüsünde yer alan;
+
+1-““Kapsam Aylık Türü - 4/a ölüm aylık/geliri alan hak sahipleri (eş)”, “Tescil Türü-Tümü
+veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kural oluşmayan işlemler”,
+
+2-“Kapsam Aylık Türü - 4/a ölüm aylık/geliri alan hak sahipleri (erkek çocuk)”, “Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”,
+
+3-“Kapsam Aylık Türü - 4/a ölüm aylık/geliri alan hak sahipleri (kız çocuk)”, “Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”,
+
+4-“Kapsam Aylık Türü - 4/a ölüm aylık/geliri alan hak sahipleri (anne)”, “Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”,
+
+5-“Kapsam Aylık Türü - 4/a ölüm aylık/geliri alan hak sahipleri (baba)”, “Tescil
+Türü-Tümü veya 4/a, 4/b, 4/c Tescil Bilgisi”, “İşlem Türü-Kesilme/Durdurma İşlemleri”,
+
+menüsünden “Dönem” seçilerek “Listele” butonuna basılarak seçilen döneme ait tüm
+kayıtlar listelenecektir.
+
+Listelenen kayıtlardan;
+
+4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında çalışmaya başlayan hak sahibi durumundaki eşlerin
+hisse düzeltme işlemleri yapılarak yersiz ödendiği tespit edilen dönemler için borç işlemi
+yapılacaktır.
+
+4/1-(a), 4/1-(b) ve 4/1-(c) kapsamında çalışmaya başlamaları nedeniyle gelir/aylıkları
+durdurulan hak sahibi çocuklar ile ana ve babanın gelir/aylıkları kesilerek diğer hak sahiplerinin
+hisse düzeltme işlemleri yapılacak, bankaya yersiz olarak gönderildiği tespit edilen gelir/aylık
+iadeleri banka/PTT şubelerinden istenilecek, banka/PTT şubelerinden gelecek cevaba göre yersiz
+tahsil edildiği tespit edilen aylıklar için borç işlemi yapılacaktır. Yersiz veya hatalı tescil işlemi
+yapılanların gelir/aylıkları tekrar ödenmeye başlanacaktır.
+
+Diğer taraftan, söz konusu uygulamaya “MEYES Tekil Giriş (Single Sign On) Intranet
+Uygulamaları” (SSOM) sisteminden “KAPSAM 4A” modülüne yetki alınarak ulaşılabilecektir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+DAĞITIM:
+Gereği :
+Merkez ve Taşra Teşkilatına
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. No:7 Sıhhiye ANKARA Ayrıntılı Bilgi: Erdoğan ÜVEDİ (Dai.Bşk)
+Tel: 0312 432 10 63 Faks: 0312 432 10 62
+e-posta: ehgm hacedb(sgk.gov.tr Web: www.sgk.gov.tr
+ALO
+i 170)
+
+LOGO
+
+KAYIT DIŞI ÇALIŞMAYIN
+
+GELECEĞİNİZİ RİSKE ATMAYIN

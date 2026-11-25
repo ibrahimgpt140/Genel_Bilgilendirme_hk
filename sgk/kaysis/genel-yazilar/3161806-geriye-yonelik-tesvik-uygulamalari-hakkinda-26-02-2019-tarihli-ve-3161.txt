@@ -1,0 +1,329 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/163119
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3161806
+ADI: GERİYE YÖNELİK TEŞVİK UYGULAMALARI HAKKINDA 26/02/2019 TARİHLİ VE 3161806 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f17df59fd9eaa76e911601b15f3e50e22d8a669d81a5e3e1948dd28b9feefffa
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                      T.C.
+                                   SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        Sigorta Primleri Genel Müdürlüğü
+
+
+
+
+Sayı : 41481264-207.02-E.3161806                                                        26/02/2019
+Konu : Geriye yönelik teşvik uygulamaları
+
+
+                                              GENEL YAZI
+
+       Bilindiği üzere, 687 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması
+Hakkında Kanun Hükmünde Kararnamenin 3 üncü maddesi, 7103 sayılı Kanunun 42 nci ve 43
+üncü maddeleri ile 4447 sayılı İşsizlik Sigortası Kanununa geçici 17 nci, 19 uncu ve 20 nci
+maddeler eklenerek işverenlere destek sağlanmıştır.
+       4447 sayılı Kanunun geçici 17 nci maddesinde; “Bu maddeyle düzenlenen destek
+unsurundan yararlanmakta olan işverenler; aynı sigortalı için aynı dönemde diğer sigorta primi
+teşvik, destek ve indirimlerden yararlanamaz.”
+       Geçici 19 uncu maddesinde; “Bu maddeyle düzenlenen destek unsurundan yararlanmakta
+olan işverenler; aynı sigortalı için aynı dönemde diğer sigorta primi teşvik, destek ve indirimlerden
+yararlanamaz.”
+       Geçici 20 nci maddesinde ise; “Bu madde kapsamındaki destekten yararlanılan ayda aynı
+sigortalı için diğer sigorta primi teşvik, destek ve indirimlerden yararlanılamaz.”
+       Hükümleri yer almakta olup, 4447 sayılı Kanunun geçici 17, 19 ve 20 nci maddelerinde
+öngörülen teşviklerden yararlandırılan sigortalılar için teşviklerden yararlanılan aylarda asgari ücret
+desteğinden yararlanılması mümkün bulunmamaktadır.
+       Diğer taraftan, 5510 sayılı Kanunun Ek 17 nci maddesi ile sigorta primi teşvik, destek ve
+indirimlerden yararlanma şartlarına haiz olmasına karşın, daha evvel herhangi bir kanun numarası
+seçilmeksizin teşviklerden yararlanılmayan ayların/dönemlerin ya da kanun numarası seçilerek
+teşvikten yararlanılmış olmakla birlikte yararlanılan teşvik türünün tercih edilecek başka bir teşvik
+türü ile geriye yönelik olarak değiştirilmesine imkan tanınmıştır.
+       Ancak, Genel Müdürlüğümüze iletilen sorunlar ile Hizmet Sunumu Genel Müdürlüğüne
+gönderilen arıza kayıtlarından, 5510 sayılı Kanunun Ek 17 nci maddesi kapsamında işverenlerce
+geriye yönelik olarak 687/1687, 17103, 27103 ve 37103 kanun numaralı teşviklerin değişikliği
+amacıyla belge düzenlenmesi neticesinde asgari ücret desteklerinin iptali, kısmi erteleme
+dönemlerine yapılan teşvik değişikliği, 687/1687 kanun numaraları için yapılan belge değişikliği ve
+yapılandırma kapsamındaki dönemlere işlem yapılması sırasında sorunlarla karşılaşıldığı ve
+hataların büyük bir kısmının kullanıcı hatasından kaynaklandığı tespit edilmiş olup, bu durumlarda
+yapılacak işlemler aşağıda açıklanmıştır.
+
+    I-ASGARİ ÜCRET DESTEĞİNİN İPTALİ SIRASINDA YAPILMASI GEREKEN
+İŞLEMLER
+
+      1-Bilindiği üzere, yeni tescilli işyerlerinde asgari ücret desteğinin hesaplanabilmesi için
+işyerinin ilgili dönemde herhangi bir borcunun ya da gecikme zamlı tahsilatının bulunmaması
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+gerekmektedir. Yapılan incelemede birçok dosya için belge kanun değişikliği işlemlerinde iptal
+girişi yapılıp yeni kanun türünden ek/asıl belge girişi yapılmasının ardından, tahsilatın sisteme
+işlenip teşvikler oluşturulup dönem borçsuz hale gelmeden destek için yeniden hesaplama yapıldığı
+görülmüştür. Dolayısıyla tahsilatlar işlenip dönem borçsuz hale gelmediği için yeniden hesapla
+menüsü ile işlem yapıldığında görünen borç nedeniyle sistem tüm desteği iptal etmektedir.
+       Bu nedenle, yeniden hesaplama yapılmadan önce iptal girişi yapılıp yeni kanun türünden
+ek/asıl yapılmasının ardından tahsilatların sisteme işlenip teşvikler oluşup dönem borçsuz hale
+geldikten sonra yeniden hesaplama yapılması gerekmektedir.
+       2-Yine bazı işverenlerimiz için iptal girişi yapılıp yeni kanun türünden bildirilen ek/asıl
+belgeler sisteme girilmeden destek için yeniden hesaplama yapıldığı görülmüştür. Bu nedenle
+yukarıda da açıklandığı üzere yeniden hesaplama yapılmadan önce iptal girişi yapılıp yeni kanun
+türünden ek/asıl yapılmasının ardından tahsilatların sisteme işlenmesi ve teşviklerin oluşmasının
+ardından dönem borçsuz hale geldikten sonra yeniden hesaplama yapılması gerekmektedir.
+       3- Teşvik değişikliklerinin yapılmasında ve işlemler sonrasında asgari ücret desteğinin
+hesaplanmasında işlem adımları ile sıralama önem arz etmektedir.
+       Buna göre, öncelikle tüm belge kanun değişiklik işlemlerinin yapılmasının ardından
+tahsilatların sisteme işlenip teşvikler oluşup dönem borçsuz hale geldikten sonra hatalı teşvik
+güncelleme işlemlerinin yapılması ve tüm bu işlemler tamamlandıktan sonra destek için en yeni
+aydan başlanılarak yeniden hesaplama yapılması gerekmektedir.
+       Diğer taraftan, belge kanun değişikliği yapıldıktan sonra yeni kanun türünden hatalı teşvik
+listesine düşülmesi halinde yapılan işlemlerin geri alınması gerekeceğinden hatalı teşvik
+güncellemesi yapılıp işverenin yeni kanun türünden yararlanacağı kontrol edilmeden destek
+hesaplamasının yapılmaması gerekmektedir.
+       Daha önce hatalı işlem yapılıp yersiz destek oluşan işyerlerinin teşvik değişiklik işlemlerinin
+eski haline getirilerek tekrar destek hesaplama işleminin yapılması, yersiz destek hesaplaması
+yapıldı ise 3270 CİCS ekranlarından tahakkukların silinmemesi, yeniden destek hesabı yapıldıktan
+sonra oluşacak 6661 destek emaneti tutarının ilgili dönemde oluşan borca mahsup edilmesi
+gerekmektedir.
+       Ancak, yeniden hesaplama yapılmasının ardından oluşacak yeni destek tutarları işverenin
+cari ay borcunun bulunması halinde bu tahakkuklara otomatik mahsup edileceğinden, yeniden
+destek hesaplama işlemlerinin mümkün olduğunca işveren cari aya ilişkin aylık prim ve hizmet
+bildirgesini vermeden ya da cari dönem borcu ödendikten sonra yapılması doğru olacaktır. Aksi
+halde, işverenlerin cari ayına mahsup edilen tutar kadar beyan usulü işverenlerden ödeme alınıp,
+tahsilatlar müfredata işlendikten sonra destek tutarlarının cari dönemden çıkılarak kendi dönemine
+atılması ve beyan usulü alınan tutarın cari aya mahsup edilmesi gerekmektedir.
+       4-Bazı işverenlerimiz için, 687/1687, 17103, 27103 ve 37103 teşvikleri için geriye yönelik
+teşvik değişikliği amacıyla belge düzenlenmesi neticesinde asgari ücret desteklerinin iptali
+sırasında işyeri için sisteme yasaklama girildiği ve bu işlem sonrasında yeniden hesaplama
+işleminin yapıldığı görülmüştür. Yasaklama girilerek yeniden hesaplama yapılması halinde
+işverenin ilgili dönemdeki tüm destekleri iptal edilecektir.
+       Bu nedenle, bu gibi işverenler için asgari ücret desteğinin yeniden hesaplanması sırasında
+sisteme yasaklama girilmeksizin işlemlerin gerçekleşmesi gerekmektedir.
+       Diğer taraftan, işyeri yasaklı kapsamında olmadığı halde belge kanun değişikliğinden dolayı
+destek tutarının geri alınabilmesi için yasaklama girilerek işlem yapılan işyerlerinde, yasağın
+kaldırılıp yukarıda belirtildiği gibi cari dönem borcu yoksa veya ödenmişse desteğin yeniden
+hesaplanarak oluşacak destek tutarının 6661 emanetinden ilgili dönemde yersiz hesaplanan destek
+tahakkuklarına mahsup işleminin yapılması gerekmektedir.
+       Desteğin yersiz hesaplanması sonrasında hatalı olduğu düşünülerek 3270 CİCS ekranlarından
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+günsüz kazançsız oluşan tahakkuku silinen işyerlerinde yasak kaldırılıp yeniden hesaplama
+yapıldığından mükerrer destek oluşacağından silinen günsüz kazançsız tahakkukun tekrar sisteme
+girilip hesaplanan desteğin 6111 destek emanetinden bu tahakkuka mahsubunun yapılması
+gerekmektedir.
+
+       II- KISMİ ERTELEME DÖNEMLERİNDE YAPILMASI GEREKEN İŞLEMLER
+
+      Bilindiği üzere, 5510 sayılı Kanunun geçici 72 nci maddesi ile 2016/Aralık, 2017/Ocak ve
+Şubat aylarına ait sigorta prim tutarları, sırasıyla 2017 yılı Ekim, Kasım ve Aralık aylarına
+ertelenmiş ve (98) koduyla ek tahakkuk oluşturulmuştur. 5510 sayılı Kanunun Ek 17 nci maddesi
+kapsamında bu aylara yapılan geriye yönelik belge kanun numarası değişikliği işlemlerinde asgari
+ücret destek tutarı yeniden hesaplandığından, yapılan işlemler sonucunda erteleme yapılan
+dönemlerde borç oluşmakta ve teşvik indirimleri oluşmamaktadır. Bu bağlamda kısmi erteleme
+dönemleri için geriye yönelik belge kanun numarası değişikliği yapılması sırasında yapılması
+gereken işlemler aşağıda açıklanmış olup, ertelenen dönem için 2016/12, 2017/1, 2017/2.aylar,
+ertelenmiş dönem için 2017/9, 10,11.aylar dikkate alınarak aşağıdaki şekilde işlem yapılacaktır.
+
+       A) ERTELEME DÖNEMİNE DENK GELEN BİLDİRGE İÇİN İPTAL İŞLEMİ
+YAPILMASI SONRASINDA YENİ BİLDİRGE İLE OLUŞTURULAN TEŞVİK İNDİRİMİNİN
+DAHA FAZLA OLMASI:
+      Erteleme yapılan dönemin tamamı için ve ek tahakkuk oluşturulan ertelenmiş dönemde
+      yalnızca ertelenen tutar için MOSİP ten 88 işleminin yapılması,
+      6770 Kısmi Erteleme İşlemleri menüsü ile erteleme işleminin geri alınması,
+      Erteleme yapılan döneme ait iptal bildirge ve karşılığında oluşturulan yeni ek/asıl belgenin
+      işleme alınması,
+      6770 Kısmi Erteleme İşlemleri menüsü ile ertelemenin yeniden hesaplanması,
+      Erteleme yapılan döneme ait emanete alınan tahsilat tutarlarının ertelenen dönem prim
+      borcuna mahsup edilmesi,
+      Erteleme yapılan dönemdeki teşviklerin (99’ların) oluşup oluşmadığının kontrol edilmesi,
+      Teşvik indirimleri (99’lar) oluştu ise erteleme yapılan döneme ait işsizlik sigortası primi ve
+      diğer borçlar için emanette kalan tutarın mahsup edilmesi,
+      Erteleme yapılan dönemdeki diğer borçlara emanetteki tutarın yetmemesi halinde, yalnızca
+      ertelenen dönemlere ilişkin olarak, işlem yapılan ay ve öncesindeki dönem emanetlerinden
+      aktarılacak tutarın bulunması halinde dönemde eksik kalan diğer borçlara mahsup edilmesi,
+gerekmektedir.
+       Örneğin: A Ltd.Şti.nin 2016/12.aya ilişkin prim borçlarının ertelendiği, bu dönem için
+geriye yönelik teşvik değişiklik talebinde bulunulduğu ve yukarıda açıklanan işlemler sonucu
+2016/12.ayın teşviklerinin (99’ların) oluştuğu, ancak bu aya ilişkin işsizlik sigortası primi borcunun
+kaldığı ya da eksik kaldığı varsayıldığında, işverenin 2016/Kasım ayı ve öncesine ilişkin emanette
+bulunan tutarın bu ayın işsizlik borcunu kapatacak şekilde mahsubunun yapılması gerekmektedir.
+       Buna karşın, yukarıda açıklandığı şekilde yapılan işlemler sonucunda, emanetteki tutarın
+sigorta prim borcunu karşılamaması nedeniyle ertelenen dönem için teşvik indiriminin oluşmaması
+(erteleme hesaplandıktan sonra prim borcuna mahsup edilecek ve prim borcunu kapatacak kadar
+tahsilat olmaması) halinde ise yeniden hesaplanan erteleme tutarı düştüğünden ve bu durumda
+teşvik indirimi (99’lar) oluşamayacağından, dolayısıyla bu nitelikteki ertelenen dönemler için
+teşvik değişiklik işlemleri yapılamayacağından, bu aya ait yapılan işlemlerin geri alınması ve
+ertelemenin geri alınıp yeniden hesaplandıktan sonra tahsilat tutarlarının işlenmesi gerekmektedir.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+      B) DÖNEMDE İPTALİ YAPILAN BİLDİRGE KARŞILIĞI OLUŞTURULAN YENİ
+BELGENİN KANUN NUMARASI SEÇİLMEKSİZİN OLUŞTURULAN BELGE OLMASI
+(ÖRNEĞİN HATA LİSTESİNDE YER ALAN TEŞVİK KANUN NUMARASININ KANUNSUZ
+BİLDİRGEYE ÇEVRİLMESİ):
+     Erteleme yapılan dönemin tamamı için ve ek tahakkuk oluşturulan ertelenmiş dönemde
+     yalnızca ertelenen tutar için MOSİP ten 88 işlemi yapılması,
+     6770 Kısmi Erteleme İşlemleri menüsü ile erteleme işleminin geri alınması,
+     Erteleme yapılan döneme ait iptal bildirge ve karşılığında oluşturulan yeni ek/asıl belgenin
+     işleme alınması,
+     6770 Kısmi Erteleme İşlemleri menüsü ile ertelemenin yeniden hesaplanması,
+     Tahsilatların prime işlenmesi, dönem tahsilatının prim borcunu kapatmaması halinde işlem
+     yapılan ay ve öncesindeki dönem emanetlerinde olan tutarın aktarılması,
+     Dönemdeki teşviklerin (99’ların) oluşup oluşmadığının kontrol edilmesi,
+     Önceki dönemlerde de prim borcunu kapatacak kadar tahsilat olmaması halinde, dönemdeki
+     teşvikler oluşmayacağından ertelemenin geri alınması, ek/asıl tahakkukun iptal edilmesi,
+     ertelemenin yeniden hesaplanması, tahsilatların işlenmesi, dönemdeki teşviklerin
+     oluşturulması, ek/asıl belgenin işleme alınması, kalan tahsilatın işlenmesi ve kalan borcun
+     ödenmek üzere işverene tebliğ edilmesi,
+gerekmektedir.
+
+       III- YAPILANDIRMA DÖNEMLERİNDE YAPILMASI GEREKEN İŞLEMLER
+
+      A) YAPILANDIRMANIN BOZULMUŞ OLMASI:
+     İşlem yapılacak dönemdeki yapılandırma haricindeki tahsilatların MOSİP ten 88 işleminin
+     yapılması,
+     Yapılandırma geri alma işleminin yapılması,
+     Yapılandırma bozma geri alma işlemi yapılabilmesi için yapılandırmaya giren ve bozma
+     sonrası işlem yapıldı ise yapılandırma sonrasında yapılan tüm işlemlerin geri alınması ve
+     yapılandırma geri alma işleminin yapılması,
+     Yapılandırma tahsilatı için MOSİP ten 88 işleminin yapılması,
+     Yapılandırma plan ve borç oluşturma işleminin silinmesi,
+     Dönemdeki diğer tahsilatların çıkılması,
+     Bildirge teşvikli bildirgeye dönüştürülüyor ise iptal/ek/asıl bildirgenin girilmesi,
+     Yapılandırma haricindeki çıkılan tahsilatlar için MOSİP ten 08 işleminin yapılması,
+     Dönemdeki teşviklerin oluşup oluşmadığının kontrol edilmesi,
+     Yapılandırma borç ve plan oluşturma işleminin yapılması,
+     Emanete alınan yapılandırma tahsilatının mahsup edilmesi
+gerekmektedir.
+
+       B) YAPILANDIRMANIN BOZULMAMIŞ OLMASI:
+      Yapılandırma tahsilatı için MOSİP ten 88 işleminin yapılması,
+      Yapılandırma plan ve borç oluşturma işleminin silinmesi,
+      Dönemdeki diğer tahsilatların çıkılması,
+      Bildirge teşvikli bildirgeye dönüştürülüyor ise iptal/ek/asıl bildirgenin girilmesi,
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+     Yapılandırma haricindeki çıkılan tahsilatlar için MOSİP ten 08 işleminin yapılması,
+     Dönemdeki teşviklerin oluşup oluşmadığının kontrol edilmesi,
+     Yapılandırma borç ve plan oluşturma işleminin yapılması,
+     Emanete alınan yapılandırma tahsilatının mahsup edilmesi
+gerekmektedir.
+
+   IV-YAPILANDIRMA DÖNEMLERİNDE TEŞVİKLİ BİLDİRGENİN İPTAL EDİLEREK
+KANUN NUMARASIZ BİLDİRGE İÇİN EK/ASIL BİLDİRGE GİRİŞİ
+
+      A) YAPILANDIRMASI BOZULANLAR İÇİN:
+     İşlem yapılacak dönemdeki yapılandırma haricindeki tahsilatlar için MOSİP ten 88 işleminin
+     yapılması,
+     Yapılandırma geri alma işleminin yapılması,
+     Yapılandırma bozma geri alma işlemi yapılabilmesi için yapılandırmaya giren ve bozma
+     sonrası işlem yapıldı ise yapılandırma sonrasında yapılan tüm işlemlerin geri alınması ve
+     yapılandırma geri alma işleminin yapılması,
+     Yapılandırma tahsilatı için MOSİP ten 88 işleminin yapılması,
+     Yapılandırma plan ve borç oluşturma işleminin silinmesi,
+     Dönemdeki diğer tahsilatların çıkılması,
+     İptal işleminin yapılması,
+     Yapılandırma haricindeki çıkılan tahsilatlar için MOSİP ten 08 işleminin yapılması,
+     Dönemdeki teşviklerin oluşup oluşmadığının kontrol edilmesi,
+     Kanun numarasız ek/asıl bildirgenin işleme alınması,
+     Oluşacak indirim tutarı kadar borcun gecikme zammı ve gecikme cezası ile birlikte işverene
+     tebliğ edilerek işverence ödenmesi ve ödenen tutarın mahsup işleminin yapılması, (borcun
+     ödenmeden yapılandırmanın tekrar oluşturulması halinde tahakkuk eden borç da
+     yapılandırmaya ilave edilerek ödeme planı ve taksit tutarları değişecek ve bu durumda
+     yapılandırma ilk taksitten itibaren bozma koşuluna girecektir.)
+     Yapılandırma borç ve plan oluşturma işleminin yapılması,
+     Emanete alınan yapılandırma tahsilatının mahsup edilmesi
+gerekmektedir.
+
+       B) YAPILANDIRMASI BOZULMAYANLAR İÇİN:
+      İşlem yapılacak dönemdeki yapılandırma haricindeki tahsilatlar için MOSİP ten 88 işleminin
+      yapılması,
+      Yapılandırma tahsilatı için MOSİP ten 88 işleminin yapılması,
+      Yapılandırma plan ve borç oluşturma işleminin silinmesi,
+      İptal bildirgenin işleme alınması,
+      Yapılandırma haricindeki çıkılan tahsilatlar için MOSİP ten 08 işleminin yapılması,
+      Dönemdeki teşviklerin oluşup oluşmadığının kontrol edilmesi,
+      Kanun numarasız ek/asıl bildirgenin işleme alınması,
+      Oluşacak indirim tutarı kadar borcun gecikme zammı ve gecikme cezası ile birlikte işverene
+      tebliğ edilerek işverence ödenmesi ve ödenen tutarın mahsup işleminin yapılması, (borcun
+      ödenmeden yapılandırmanın tekrar oluşturulması halinde tahakkuk eden borç da
+      yapılandırmaya ilave edilerek ödeme planı ve taksit tutarları değişecek ve bu durumda
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+     yapılandırma ilk taksitten itibaren bozma koşuluna girecektir.)
+     Yapılandırma borç ve plan oluşturma işleminin yapılması,
+     Emanete alınan yapılandırma tahsilatının mahsup edilmesi
+gerekmektedir.
+
+       V- 687/1687 KANUN NUMARASI İÇİN YAPILMASI GEREKEN İŞLEMLER
+
+       687/1687 kanun numarası ile düzenlenen aylık prim ve hizmet belgesinde kayıtlı
+sigortalıların tamamı için değil de bir kısmı için iptal /ek ya da asıl bildirge işleme alınması
+durumunda indirim tutarında 1 kuruşluk fark yaşanmakta ve dönemin indirim tutarı negatife
+düşmektedir. Bu durumda, 687/1687 kanun numaralı bildirgenin bütün sigortalıları için iptalinin
+yapılması, belge değişikliği yapılacak sigortalı için yeni belge işlemlerine geçilmesi, bildirgede
+kalan sigortalılar için ise ek nitelikte 687/1687 kanun numaralı bildirgenin tekrar işleme alınması
+çözüm yöntemi olacaktır.
+Örneğin, 687/1687 kanun numarası ile 2017/6.ayda (5) sigortalı için bildirimde bulunulduğu,
+bunlardan (2)’si için işverenin hatalı teşvik listelerinde yer aldığı varsayıldığında, 687/1687 kanun
+numaralı belgenin (5) kişi olacak şekilde iptalinin yapılması, hatalı teşvik listesinde yer alan (2)
+sigortalı için yeni oluşturulacak ek ya da asıl bildirgenin işleme alınması, kalan (3) sigortalı için ise
+ek 687/1687 kanun numaralı bildirgenin işleme alınması gerekmektedir.
+Bununla birlikte, aynı durumun e-bildirge V2 programları vasıtasıyla işverence düzenlenip şube
+onay ekranlarına gönderilmesi halinde yine indirim tutarında 1 kuruşluk fark yaşanarak dönemin
+indirim tutarı negatife düşeceğinden, işverence düzenlenerek şube onay ekranlarına gönderilen bu
+nitelikteki iptal/ek/asıl belgelerin onaylanmadan reddedilerek ünitenizce yukarıda açıklandığı
+şekilde yeniden işleme alınması gerekmektedir.
+
+       VI-DİĞER HUSUSLAR
+
+       5510 sayılı Kanunun Ek 17 nci maddesi kapsamında geriye yönelik değişiklik yapılması
+sırasında belge kanun değişikliği istenen dönemlerden en eski dönemin işlemi tamamlandıktan
+sonra bir sonraki döneme geçilmesi halinde işyeri borçlu gözükeceğinden, sonraki dönemlerde
+teşvik indirimleri oluşmamaktadır. Bu bağlamda;
+      İşyeri için belge kanun değişikliği yapılması gereken en yeni dönemden sırasıyla en eski
+      döneme doğru (erteleme dönemlerine ilişkin işlemlerin en son yapılması) belge kanun
+      değişikliği işlemlerinin kontrol ve onayının yapılması,
+      Her bir dönemin işlemi tamamlandıktan ve gerekli kontrollerin yapılmasından sonra diğer
+      döneme geçmeden önce hatalı teşvik listesi için güncelleme yapılması ve ardından bir önceki
+      döneme ait işlemlere başlanılması,
+gerekmektedir.
+       Bilgi edinilmesini ve gereğini rica ederim.
+
+                                                                                    Savaş ALIÇ
+                                                                                   Genel Müdür V.
+
+Dağıtım :
+Gereği :
+Tüm Taşra Teşkilatına
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres       :Mithatpaşa Cad. No: 7 Sıhhiye ANKARA           Ayrıntılı bilgi : Satılmış ÇELİK, Dai. Bşk.
+Tel         :0312 458 7522                                 Ayrıntılı bilgi : İbrahim ÖZÇELİK, Dai. Bşk.
+Tel         :0312 458 7110                                 Faks              : 0312 431 28 74
+E-posta    : istihdamtesvikleridb@sgk.gov.tr - isverenlerPrimdb@sgk.gov.tr
+Elektronik Ağ :www.sgk.gov.tr
+

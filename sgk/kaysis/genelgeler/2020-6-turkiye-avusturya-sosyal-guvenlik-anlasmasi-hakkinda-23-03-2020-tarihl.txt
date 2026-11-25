@@ -1,0 +1,2486 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/160215
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2020/6
+ADI: TÜRKİYE-AVUSTURYA SOSYAL GÜVENLİK ANLAŞMASI HAKKINDA 23/03/2020 TARİHLİ VE 2020/6 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dfada1be8dd62f4a8cba8e5dc6129a01b440776c220277f473cf609a5e56a3ec
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                               T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Emeklilik Hizmetleri Genel Müdürlüğü
+
+Sayı : 15591373-010.06.01-E.4915915                                                                      23/03/2020
+Konu : Türkiye-Avusturya Sosyal Güvenlik
+       Anlaşması
+
+
+
+
+                                                    GENELGE
+                                                     2020/6
+
+
+       Türkiye Cumhuriyeti ile Avusturya Cumhuriyeti arasındaki ilk sosyal güvenlik
+anlaşması 12/10/1966 tarihinde imzalanmış ve 1/10/1969 tarihinde yürürlüğe girmiştir. Söz
+konusu Anlaşmanın Avusturya tarafınca tek taraflı olarak 1/10/1996 tarihinde feshedilmesi
+sonrasında yapılan görüşmeler neticesinde Türkiye Cumhuriyeti ile Avusturya Cumhuriyeti
+Arasında Sosyal Güvenlik Hakkında Anlaşma (Genelgede bundan sonra Anlaşma olarak
+anılacaktır) 28/10/1999 tarihinde imzalanarak 1/12/2000 tarihinde yürürlüğe girmiştir.
+Anlaşma 1/10/1996 tarihi itibariyle hüküm ifade etmektedir.
+
+                                            BİRİNCİ KISIM
+                                         GENEL AÇIKLAMALAR
+
+        Anlaşma; Genel Hükümler, Uygulanacak Mevzuat, Özel Hükümler, Çeşitli Hükümler
+ile Geçici ve Son Hükümler olmak üzere 5 bölümden oluşmaktadır:
+        Birinci bölümde; Anlaşmanın mevzuatsal ve kişisel kapsamı belirlenmiş olup, akit
+taraf vatandaşlarının eşit muameleye tabi tutulması, sosyal güvenlik alanındaki hakların diğer
+akit tarafta da kullanılabileceğine ilişkin hükümler,
+        İkinci bölümde, çalışanlar, geçici görevliler, hava nakliyat firmalarının personeli ve
+gemi adamları ile diplomatik temsilcilik görevlilerinin hangi akit tarafın sosyal güvenlik
+mevzuatına tabi tutulacağına ve geçici görev süresinin azami sınırlarına ilişkin hükümler,
+        Üçüncü bölümde, hastalık ve analık sigortası, ölüm yardımı, malullük, yaşlılık ve
+ölüm sigortaları, iş kazası ve meslek hastalığı sigortalarına ilişkin hükümler,
+        Dördüncü bölümde, Anlaşmanın uygulanmasına ilişkin çeşitli hükümler,
+        Beşinci bölümde ise Anlaşmanın yürürlüğe girmesi ve yürürlükte kalma süresi ile
+Anlaşma öncesi ve sonrası haklara ilişkin hükümler
+        yer almaktadır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  1/45
+        1. Kavramlar
+
+        Bu Genelgede geçen:
+          1. Kurum: Sosyal Güvenlik Kurumunu,
+          2. Kanun: 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+          3. Anlaşma: Türkiye Cumhuriyeti ile Avusturya Cumhuriyeti Arasında Sosyal
+              Güvenlik Hakkında Anlaşmayı,
+          4. İdari Anlaşma: Türkiye Cumhuriyeti ile Avusturya Cumhuriyeti Arasında
+              Mevcut Sosyal Güvenlik Anlaşmasının Uygulanması Hakkında İdari Anlaşmayı,
+          5. Mevzuat: Anlaşmanın 2 nci maddesinde belirtilen sosyal güvenlik kolları ile
+              ilgili olarak bir akit taraf ülkesinde veya bu ülkenin bir kısmında yürürlükte olan
+              kanun, tüzük ve yönetmelikler ile hukuki değeri olan genel idari düzenlemeleri,
+              genel emir ve talimatları,
+          6. Yetkili Kurum: İlgili kişinin yardım isteğinde bulunduğu sırada bağlı olduğu
+              sosyal sigorta mercii’ni veya en son sigortalı olduğu akit taraf ülkesinde
+              bulunması halinde, bağlı olacağı sosyal sigorta mercii’ni,
+          7. Yetkili Makam: Anlaşma kapsamında yer alan mevzuatın uygulanması ile
+              görevli olan Bakanlıkları,
+          8. Sigortalı: Anlaşmanın 3 üncü maddesinin (a) bendi kapsamında, haklarında bir
+              veya her iki akit taraf mevzuatının geçerli olduğu veya geçerli olmuş bulunduğu
+              kişileri,
+          9. Hak Sahibi: Sigortalı dolayısıyla hak sahibi olan kişileri,
+         10. Sigortalılık Süresi: Prim ödeme süreleri ile her iki akit taraf mevzuatına göre
+              muadil kabul edilen süreleri,
+         11. Aile Bireyi: Nam ve hesabına yardımların yapılacağı sosyal sigorta mercii’nin
+              merkezinin bulunduğu akit taraf mevzuatına göre yardım görecek olan bir aile
+              ferdini,
+         11. Aylık, Gelir ve Para Yardımı: Bir para yardımını, devletçe yapılan kısımları da
+             içeren aylık gelirleri, her türlü zam ve yardımları, intibak farklarını, ek ödemeleri
+             ve keza prim iadesi olarak yapılan toptan ödemeler ile diğer ödemeleri,
+         12. Daimi İkamet: Daimi olarak ikamet edilmekte olan yeri,
+         13. Geçici İkamet: Geçici olarak oturulan yeri,
+              ifade eder.
+
+         2. Anlaşmanın Uygulama Alanı
+
+       Anlaşma, malullük, yaşlılık, ölüm, iş kazası ve meslek hastalıkları, hastalık ve analık
+yardımları uygulamasında 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılar (5510
+sayılı Kanun'un Geçici 20 nci maddesine tabi sandıklar dahil) ile bu kapsamda gelir/aylık
+alanlar ve bunların aile bireylerini kapsamaktadır.
+       506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi kapsamındaki
+sandıklar, Sözleşme kapsamında olup bu kapsamdaki kişiler Kanunun 4 üncü maddesinin
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  2/45
+birinci fıkrasının (a) bendi gibi değerlendirilecektir. Sözleşme hükümleri bu kapsamda
+çalışanlar ve/veya sandıktan emekli aylığı alanlar hakkında da uygulanacaktır. Bu kapsamda
+çalışanlar ve aylık sahipleri hakkında Avusturya irtibat kurumları ile yapılacak yazışmalara
+Kurum aracılık edecektir. Ancak talep formülerlerinin düzenlenerek Kuruma intikal
+ettirilmesi ile ilgili işlemler, sandıklar tarafından gerçekleştirilecektir.
+        Bununla birlikte Anlaşma, malullük, yaşlılık ve ölüm sigortaları ile iş kazası sigortası
+uygulamaları bakımından Kanunun 4/1-(b) bendine tabi bağımsız çalışanları, malullük,
+yaşlılık ve ölüm sigortaları bakımından ise Kanunun 4/1-(c) bendine tabi devlet memurlarını
+kapsamaktadır.
+
+        3. Yetkili Kurumlar
+
+      Türkiye bakımından yetkili kurum Sosyal Güvenlik Kurumu'dur. Avusturya
+bakımından yetkili kurum Avusturya Sosyal Sigorta Mercileri Genel Birliği'dir.
+
+
+                                  İKİNCİ KISIM
+                     ANLAŞMANIN UYGULANMASI ve FORMÜLERLER
+
+       Anlaşmanın uygulanmasında kullanılmak üzere, İdari Anlaşmanın 2 nci maddesinin
+üçüncü fıkrasına istinaden Türkçe ve Almanca olmak üzere 20 adet formüler ihdas edilmiştir.
+Kurumca düzenlenecek formülerlerin rumuzunda "TR/A", Avusturya yetkili kurumlarınca
+düzenlenecek olan formülerlerin rumuzunda ise "A/TR" ibaresi yer alacaktır.
+       Anılan formülerler, Kurum intranet sayfasında “Kurumsal/ Dokümanlar/ Yurtdışı/
+Formülerler” bölümünde yayınlanmıştır. Formüler, bu Genelgede yer alan açıklamalar
+doğrultusunda, bilgilerin doğruluğu kontrol edildikten sonra bilgisayar ortamında
+doldurularak onaylanacaktır.
+
+                                BİRİNCİ BÖLÜM
+                     UYGULANACAK MEVZUATIN BELİRLENMESİ
+
+       İkili anlaşmaların temel ilkelerinden birisi de çalışılan ülke mevzuatına tabi
+olunmasıdır. Anlaşmanın 7 ve 8 inci maddelerinde bu kurala istisna olarak geçici görevle
+diğer akit tarafa gönderilenlerin, hava nakliyat firması personelinin, gemi mürettabatının,
+diplomatik misyonlarda veya konsolosluklarda çalışan diplomatlar ile diplomatların özel
+hizmetlerinde çalışmak üzere bu misyonların bağlı olduğu akit tarafça görevlendirilenlerin
+hangi akit tarafın mevzuatına tabi kalacaklarına ilişkin hususlar düzenlenmiştir. Anlaşmanın
+9 uncu maddesi ise bu maddelerdeki hükümlere istisna getirilebileceğini düzenlemektedir.
+
+     1. Bir İşin İcrası İçin Diğer Akit Tarafa Gönderilen Sigortalının Tabi Olacağı
+Mevzuat
+
+      Bir işin icrası için Türkiye'den Avusturya'ya veya Avusturya'dan Türkiye'ye
+gönderilen sigortalılar hakkında uygulanacak mevzuata ilişkin açıklamalar aşağıda yer
+almaktadır.
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  3/45
+        1.1. Bir işin İcrası İçin Türkiye'den Avusturya'ya Gönderilen Çalışan
+        1.1.1. İlk İki Yıllık Süre İçin
+
+ İlgili hükümler         Anlaşmanın 7/1 ve 9 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+   TR/A 1                Mevzuat Tayinine İlişkin Belge
+
+         Anlaşmanın 7 nci maddesi gereğince, Kanunun 4/1-(a) bendi kapsamında sigortalı
+olarak çalışanlardan, işvereni tarafından bir işin icrası için Avusturya'ya gönderilenler, 24 ayı
+aşmamak üzere Türk mevzuatına tabi kalmaya devam edecektir.
+       Geçici görevlendirme talebi yapılırken çalışan veya işveren tarafından doldurulacak
+olan Ek-1'de yer alan "Yurt Dışı Geçici Görev Talep Dilekçesi" ve ekinde görev yazısı,
+Avusturya’daki işveren ile yapılmış olan iş sözleşmesi, Avusturya’da çalışacağı iş yeri ve
+adres bilgilerinin Kuruma ibraz edilmesi gerekmektedir.
+       Başvuruya istinaden TR/A 1 formüleri, sigortalının işyerinin kayıtlı olduğu sosyal
+güvenlik il müdürlüğü (SGİM) veya sosyal güvenlik merkezi (SGM) tarafından üç nüsha
+halinde düzenlenerek iki nüshası Avusturya yetkili kurumuna verilmek üzere sigortalı veya
+işverene verilecek ve bir nüshası da dosyasında saklanacaktır.
+       Geçici görevlendirme süresi azami 24 ayı aşmamak kaydıyla formülerin 3.1 numaralı
+çerçevesine başlangıç ve bitiş tarihleri belirtilerek kaydedilecektir.
+       Anlaşmanın 6 ncı maddesinin ikinci fıkrasında yer alan kamu görevlileri için TR/A 1
+formüleri kullanılmamakta olup, kamu görevlilerinin Avusturya'ya geçici görevli olarak
+gönderilmeleri durumunda bir örneği Ek:1-A'da yer alan belge 3 nüsha olarak düzenlenerek
+Avusturya yetkili kurumuna verilmek üzere sigortalı veya işverene verilecek ve bir nüshası
+da dosyasında saklanacaktır.
+
+         1.1.2. İki Yıllık Sürenin Dolmasından Sonra
+
+  İlgili hükümler        Anlaşmanın 9/1 maddesi, İdari Anlaşmanın 3 üncü maddesi
+    TR/A 1               Mevzuat Tayinine İlişkin Belge
+
+         Sigortalının Avusturya’daki çalışma süresinin 24 ayı aşması ve işverenin talep
+etmesi halinde, geçici görev süresi yetkili kurumların karşılıklı mutabakatı ile istisnai olarak
+uzatılabilir.
+         İşverenler tarafından, SGİM/SGM’lerin yurtdışı servislerine gönderilen geçici görev
+süresinin uzatılmasına dair talepler Emeklilik Hizmetleri Genel Müdürlüğü'ne (EHGM)
+gönderilecektir. Avusturya yetkili kurumu ile geçici görev süresinin uzatılmasına ilişkin
+yazışmalar EHGM tarafından gerçekleştirilecektir.
+         EHGM tarafından Avusturya yetkili kurumunun onayı alınacaktır. Alınan onay
+geciktirilmeden ilgili SGİM/SGM’ye iki nüsha olarak gönderilecektir. Onay yazısını alan
+SGİM/SGM onay yazısının bir nüshasını işverene verecek/gönderecek, bir nüshası ise
+dosyasında muhafaza edilecektir.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  4/45
+        1.2. Bir İşin İcrası İçin Avusturya'dan Türkiye'ye Gönderilen Çalışan
+        1.2.1. İlk İki Yıllık Süre İçin
+
+ İlgili hükümler          Anlaşmanın 7/1 ve 9 uncu maddeleri, İdari Anlaşmanın 3 üncü maddesi
+    A / TR 1              Mevzuat Tayinine İlişkin Belge
+
+        Anlaşmanın 7 nci maddesi gereği, Avusturya’dan geçici görevle Türkiye’ye 24 ayı
+aşmamak kaydıyla geçici olarak gönderilenler Avusturya mevzuatına tabi kalmaya devam
+ederler.
+        Bu şekilde ülkemize gönderilen çalışanın Avusturya mevzuatına tabi kalmaya devam
+edebilmesi için Avusturya yetkili kurumu tarafından azami 24 ayı aşmayacak şekilde
+düzenlenmiş olan A / TR 1 formülerinin Kuruma ibraz edilmesi gerekir.
+        Sigortalı ya da işverenler tarafından Kuruma ibraz edilen formüler üzerinde herhangi
+bir onay işlemi yapılmayacaktır. Formülerin ilgili SGİM/SGM'ye intikal etmesi durumunda,
+formülerin bir örneği Yurtdışı İşlemleri Servisi tarafından görevli olarak geldiği işyeri
+dosyasının bulunduğu servise iletilerek, çalışanın ayrıca Kurum tarafından yersiz tescilinin
+yapılması önlenecektir.
+
+         1.2.2. İki Yıllık Sürenin Dolmasından Sonra
+
+  İlgili hükümler        Anlaşmanın 9/1 maddesi, İdari Anlaşmanın 3 üncü maddesi
+    A / TR 1             Mevzuat Tayinine İlişkin Belge
+
+         Avusturya mevzuatına tabi çalışmakta iken geçici görevle Türkiye’ye gönderilen
+Avusturya sigortalısının bu görev süresinin formülerde kayıtlı süreyi ya da toplamda 24 ayı
+aşması halinde Anlaşmanın 9 uncu maddesinin birinci fıkrasına göre Kurumun muvafakatı
+alınması kaydıyla, Avusturya mevzuatına tabi kalmaya devam edecektir.
+         Bu durumda anılan sigortalı hakkında görev süresi bitmeden önce, Avusturya yetkili
+kurumunca Kurumun onayının alınması için gönderilecek muvafakat talebine ilişkin yazı
+EHGM'ye gönderilecektir.
+         EHGM tarafından görev süresinin uzatılmasına ilişkin onayın bir örneği görevlinin
+işyeri dosyasının bulunduğu SGİM/SGM'ye gönderilecektir. Onayın bir nüshası Yurtdışı
+İşlemleri Servisi tarafından gereği yapılmak üzere görevli olarak geldiği işyeri dosyasının
+bulunduğu servise iletilecektir.
+         Avusturya yetkili kurumundan alınan geçici görev süresinin uzatılmasına dair
+taleplerin SGİM/SGM'ye gelmesi durumunda bu talepler geciktirilmeden EHGM'ye intikal
+ettirilecektir.
+
+         2. Diplomatik Temsilciliklerde Çalışanlar
+
+        Anlaşmanın 8 inci maddesinde diğer akit tarafta görev yapan diplomatik ve konsüler
+personel hakkında Diplomatik İlişkiler Hakkında Viyana Sözleşmesi ve Konsolosluk
+İlişkileri Hakkında Viyana Sözleşmesi'nin uygulanacağı hüküm altına alınmıştır.
+        Bu kapsamda, bir akit tarafın diğer akit taraftaki diplomatik temsilciliklerinde çalışan
+diplomatlar ile bu temsilciliklerde çalışan idari ve teknik personel ile diplomatların özel
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  5/45
+hizmetlisi olarak çalışmak üzere görevlendirilen kişiler hakkında uygulanacak mevzuat
+aşağıda yer almaktadır.
+
+         2.1. Avusturya’daki Elçilik ve Konsolosluklarda İstihdam Edilen Çalışanlar
+
+İlgili hükümler          Anlaşmanın 8 inci maddesi
+  TR/A 1                 Mevzuat Tayinine İlişkin Belge
+
+          Avusturya’da, ülkemizin diplomatik temsilciliklerinde çalışmak üzere ülkemiz
+tarafından görevlendirilen kişiler Kurum mevzuatına tabi olacaklardır.
+          Dışişleri Bakanlığının talebi üzerine, bu kişilerin ülkemizde sosyal güvenliğinin
+sağlandığını gösterir 3 nüsha TR/A 1 formüleri düzenlenerek 2 nüshası Dışişleri Bakanlığına
+iletilecektir.
+          Anlaşmanın 8 inci maddesi kapsamı dışında ülkemizin Avusturya’daki diplomatik
+misyon veya konsolosluklarında çalışanlar için Avusturya mevzuatı uygulanacaktır.
+
+       2.2. Türkiye'deki Avusturya Elçiliğinde ve Konsolosluklarında İstihdam Edilen
+Çalışanlar
+
+İlgili hükümler          Anlaşmanın 8 inci maddesi
+   A/TR 1                Mevzuat Tayinine İlişkin Belge
+
+       Ülkemizde, diplomatik temsilciliklerinde çalışmak üzere Avusturya tarafından
+görevlendirilen kişiler Avusturya mevzuatına tabi olacaklardır.
+       Ancak, bu durumdaki kişilerin Avusturya’da sosyal güvenliğinin sağlandığını A/TR
+1 formüleri ile Kuruma kanıtlaması gerekmektedir.
+       Anlaşmanın 8 inci maddesi kapsamı dışında Avusturya’nın ülkemizdeki diplomatik
+temsilciliklerinde çalışanlar için Kurum mevzuatı uygulanacaktır.
+
+         3. Nakliyat Teşebbüslerinde Çalışanlar
+
+       İşyeri merkezi akit taraflardan birinde bulunan nakliyat firması personelinin tabi
+olacağı mevzuata ilişkin açıklamalar aşağıda yer almaktadır.
+
+          3.1. Merkezi Türkiye’de Bulunan Hava Taşımacılık İşletmelerinde Çalışanlar
+
+ İlgili hükümler        Anlaşmanın 7 nci maddesinin 2 nci fıkrası, İdari Anlaşmanın 3 üncü
+                        maddesi
+     TR/A 1             Mevzuat Tayinine İlişkin Belge
+
+        İşyeri merkezi ülkemizde bulunan bir işyerinin sigortalısı olarak havayolu ile yolcu
+veya mal taşımacılığı yapan personelin Avusturya’ya gitmesi durumunda, ülkemiz sosyal
+güvenlik mevzuatına tabi olarak kalabilmesi için işvereninin "Yurt Dışı Geçici Görev Talep
+Dilekçesi" ile başvurusu üzerine, sigortalı için TR/A 1 formüleri düzenlenerek 2 nüshası
+sigortalıya veya işverene verilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  6/45
+       TR/A 1 formülerinin doldurulmasına ilişkin usül ve esaslar bu Genelgenin İkinci
+Kısım, Birinci Bölümündeki "1.1.1. İlk İki Yıllık Süre İçin" başlığı altında açıklanmış olup,
+havayolu ile yolcu veya mal taşımacılığı yapan personel için ilgili formüler talep edilen süre
+kadar düzenlenecektir.
+
+         3.2. Merkezi Avusturya'da Bulunan Hava Taşımacılık İşletmelerinde Çalışanlar
+
+ İlgili hükümler       Anlaşmanın 7 nci maddesinin 2 nci fıkrası, İdari Anlaşmanın 3 üncü
+                       maddesi
+       A/TR 1          Mevzuat Tayinine İlişkin Belge
+
+        İşyeri merkezi Avusturya’da bulunan bir işyerinin sigortalısı olarak havayolu ile
+yolcu veya mal taşımacılığı yapan personelin ülkemize gelmesi durumunda, kişi hakkında
+Avusturya sosyal güvenlik mevzuatının uygulanmasına devam edilecektir.
+        Ancak bu durumda kişinin Avusturya’da sosyal güvenliğinin sağlandığını A/TR 1
+formüleri ile Kuruma kanıtlaması gerekir. A/TR 1 formüleri, Avusturya yetkili kurumunun
+yetkili bürosu tarafından düzenlenecektir.
+        Kuruma intikal eden A/TR 1 formüleri üzerinde herhangi bir onay işlemi
+yapılmayacaktır.
+        A/TR 1 formülerinin SGİM/SGM'ye intikal etmesi üzerine, ilgili servis sigortalının
+Avusturya sigortalısı olarak çalıştığını tescil ve prim işlemlerini yürüten servise bildirerek
+sigortalı tescilinin yapılması önlenecektir.
+        Diğer bir husus ise Avusturya’da işyeri merkezi bulunmakla birlikte, bu işyerinin
+ülkemizdeki şube veya daimi temsilciliğinde çalışan havayolu ile uluslararası yolcu veya
+mal taşımacılığı yapan personelinin Kurum mevzuatına tabi olması gerekmektedir.
+
+         4. Gemide Çalışanlar
+
+        Anlaşmanın 7 nci maddesinin üçüncü fıkrasına göre bir geminin mürettebatı ile bu
+gemide sadece geçici olarak çalışmayan diğer şahıslar hakkında, bu geminin bayrağını
+taşıdığı akit taraf mevzuatı uygulanacaktır.
+
+
+                                  İKİNCİ BÖLÜM
+                   HASTALIK VE ANALIK SİGORTASI UYGULAMALARI
+
+       Anlaşma kapsamında hastalık veya analık halinde sağlanan sağlık yardımlarına ilişkin
+açıklamalar aşağıda yer almaktadır.
+
+         1. Sigortalılık Sürelerinin Birleştirilmesi (Hastalık ve Analık Yardımları)
+
+        Anlaşmanın 10 uncu maddesinde bir akit taraf mevzuatına göre, hastalık ve analık
+yardımlarına hak kazanmak için belirli sigortalılık sürelerinin tamamlanmış olması
+gerekiyorsa, diğer akit tarafta geçen sigortalılık sürelerinin aynı zamana rastlamamak
+şartıyla birleştirileceği hükme bağlamıştır.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  7/45
+         1.1. Kurum Sigortalılarının Avusturya'daki Sigortalılık Süreleri
+
+ İlgili hükümler         Anlaşmanın 10 uncu maddesi, İdari Anlaşmanın 4 üncü
+                         maddesi
+    TR/A 2               Sigortalılık Sürelerinin Birleştirilmesine İlişkin Belge
+
+        Kanunun 4/1-(a) bendi kapsamında, sigortalı ya da hak sahiplerinin hastalık ve analık
+yardımlarına hak kazanabilmesi için sigortalının ülkemizde geçen sigortalılık sürelerinin
+yetersiz olması durumunda, Avusturya’da bu kapsamdaki sigortalılık süreleri dikkate
+alınacaktır.
+        Sigortalının veya ölümü halinde hak sahiplerinin SGİM/SGM’ye yapacakları talebe
+istinaden TR/A 2 formüleri, (A) bölümü doldurularak üç nüsha düzenlenecek ve iki nüshası
+Avusturya yetkili kurumuna gönderilecektir. Avusturya yetkili kurumu, formülerin (B)
+bölümünde yer alan sigortalılık sürelerine ilişkin kısmı dolduracak ve bir nüshasını ilgili
+SGİM/SGM'ye iade edecektir.
+        İlgilinin, formülerin kendisine verilmesini talep etmesi durumunda sigortalının bağlı
+bulunduğu SGİM/SGM tarafından formülerin (A) bölümü doldurulup onaylanarak iki nüsha
+halinde ilgiliye teslim edilecek bir nüshası da dosyasında muhafaza edilecektir.
+        Avusturya yetkili kurumunca (B) bölümüne sigortalılık süreleri kaydedilip onaylanan
+formüler ilgili SGİM/SGM'ye iade edilecektir. Aynı şekilde sigortalının elden getireceği
+formüler ilgili SGİM/SGM tarafından işleme alınacaktır.
+
+         1.2. Avusturya’da Çalışan Sigortalıların Türkiye’deki Sigortalılık Süreleri
+
+ İlgili hükümler         Anlaşmanın 10 uncu maddesi, İdari Anlaşmanın 4 üncü
+                         maddesi
+    A / TR 2             Sigortalılık Sürelerinin Birleştirilmesine İlişkin Belge
+
+        Avusturya mevzuatına göre sigortalı olan bir kişinin hastalık ve analık yardımlarına
+hak kazanabilmesi için sigortalının Avusturya’da geçen sigortalılık sürelerinin yetersiz
+olması halinde, Avusturya yetkili kurumu ilgilinin Türkiye'de Kanunun 4/1-(a) bendi
+kapsamında geçen sigortalılık sürelerini dikkate alır. Bunun için Avusturya yetkili
+kurumunca A/TR 2 formüleri düzenlenerek ilgilinin Türkiye’de geçen sigortalılık sürelerinin
+bildirilmesi Kurumdan istenir.
+        (A) Bölümü Avusturya yetkili kurumunca doldurularak onaylanmış olan A/TR 2
+formülerinin Kuruma intikali durumunda, ilgili SGİM/SGM tarafından formülerin (B)
+bölümü doldurulup onaylanarak bir nüshası Avusturya yetkili kurumuna iade edilecektir.
+        A/TR 2 formülerinin, sigortalı ya da hak sahibi tarafından getirilmesi halinde
+başvurunun yapıldığı SGİM/SGM tarafından formülerin (B) bölümü doldurulup onaylanarak
+bir nüshası Avusturya yetkili kurumuna iletilmek üzere ilgiliye verilecektir.
+
+         2. Diğer Akit Tarafta Geçici İkamet Esnasında Sağlık Yardımlarının Sağlanması
+
+      Türkiye’de sigortalı olarak çalışmakta iken Avusturya’daki geçici ikameti sırasında
+Anlaşmaya göre sağlık yardımlarından faydalanacak olan sigortalı ve aile bireylerinin, bu
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  8/45
+yardımlardan faydalanabilmeleri için Kurumca hazırlanmış durumlarına uygun olan
+formüleri Avusturya yetkili kurumuna ibraz etmeleri gerekmektedir.
+        Formüler doğrudan başvuruya istinaden hazırlanmış ise Avusturya'ya gittiğinde söz
+konusu formüleri Avusturya yetkili hastalık kasasına ibraz etmesi gerektiği bilgisi başvuru
+sahibine verilecektir.
+        Formülerin Avusturya yetkili kurumu tarafından "A/TR 17 Form Talep Belgesi"
+aracılığı ile talep edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan
+Avusturya yetkili kurumuna gönderilecektir.
+        Avusturya’da sigortalı olarak çalışmakta iken Türkiye’deki geçici ikameti sırasında
+Anlaşmaya göre sağlık yardımlarından faydalanacak olan sigortalı ve aile bireylerinin, sağlık
+yardımlarından faydalanabilmeleri için Avusturya yetkili kurumunca düzenlenmiş
+durumlarına uygun olan formüleri Kuruma ibraz etmeleri gerekmektedir. Söz konusu
+formüler gerekmesi halinde Avusturya yetkili kurumundan "TR/A 17 Form Talep Belgesi"
+aracılığı ile istenecektir.
+
+       2.1. Bir İşin İcrası İçin Diğer Akit Taraf Ülkesine Gönderilen Sigortalı ve Aile
+Bireyleri
+
+       Anlaşma kapsamında geçici görevle diğer akit tarafa gönderilen sigortalı ve
+beraberindeki aile bireylerinin sağlık yardımlarına ilişkin açıklamalar aşağıda yer almaktadır.
+
+      2.1.1. Bir İşin İcrası İçin İşvereni Tarafından Türkiye'den Avusturya'ya Geçici
+Görevli Olarak Gönderilen Sigortalı ile Beraberindeki Aile Bireyleri
+
+       Kurum sigortalısının geçici görevli olarak Avusturya’da bulunduğu sırada Avusturya
+mevzuatının öngördüğü sağlık hizmetlerinden Kurum adına yararlanma hakkı ile ilgili
+yapılacak işlemler aşağıda açıklanmıştır.
+
+     2.1.1.1. Bir İşin İcrası İçin İşvereni Tarafından Türkiye'den Avusturya'ya 6
+Aydan Az Geçici Görevli Olarak Gönderilen Sigortalılar
+
+  İlgili hükümler       Anlaşmanın 11/1-b ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+      TR/A 3            Avusturya'da Geçici İkamet Esnasında Sağlık Yardım Belgesi
+
+        Kurum sigortalısının 6 aydan az geçici görevli olarak Avusturya’da bulunduğu sırada,
+sigortalının durumu derhal (acil) tedaviyi gerektirdiği hallerde Avusturya mevzuatının
+öngördüğü sağlık hizmetlerinden Kurum adına yararlanma hakkı vardır.
+       Sigortalıların, Anlaşma kapsamında sağlık yardımlarından yararlanabilmeleri için
+Kurum tarafından düzenlenmiş ve geçici görevi boyunca Kurum adına acil hallerde sağlık
+yardımlarından yararlanabileceğini gösterir TR/A 3 formülerine sahip olması gerekmektedir.
+         TR/A 3 formülerine kaydedilecek ve sağlık yardımına müstehak sigortalıya verilecek
+yardımların süresi Kurum mevzuatına göre, yardımlardan yararlanma şekli ile yardımların
+kapsamı ise Avusturya mevzuatına göre tayin edilir.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                  9/45
+       Sigortalılar adına TR/A 3 formüleri düzenlenirken aşağıdaki hususlara dikkat edilmesi
+gerekmektedir:
+     Sigortalıdan formüler talebine ait bir örneği Ek-2'de yer alan "Sosyal Güvenlik
+     Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt
+     Belgesi" alınacaktır. (İşveren tarafından geçici görevle görevlendirilen sigortalının
+     görev süresi ile görevlendirme nedenini belirten yazı temin edilecektir.)
+     Sigortalının sağlık yardımlarına müstahak olup olmadığı SPAS programı üzerinden
+     kontrol edilecektir.
+     Formülerin (4.1) nolu kısmı sigortalının işverenince ibraz edilen geçici görev süresini
+     gösterir belgedeki süreye göre doldurulacaktır.
+
+     2.1.1.2. Bir İşin İcrası İçin İşvereni Tarafından Türkiye'den Avusturya'ya 6
+Aydan Fazla Geçici Görevli Gönderilen Sigortalı ile Beraberindeki Aile Bireyleri
+
+ İlgili hükümler         Anlaşmanın 11/1-a ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+    TR/A 3B              Avusturya’da 6 Aydan Fazla Geçici Görevli Olanların Sağlık Yardımı
+                         Hakkı Belgesi
+
+         Kurum sigortalısının 6 aydan fazla geçici görevli olarak Avusturya’da bulunduğu
+sırada kendisi ve yanında ikamet eden aile bireyleri, Kurum adına Avusturya mevzuatının
+öngördüğü sağlık hizmetlerinin tamamından yararlanabilmektedir.
+         Sigortalıların, Anlaşma kapsamında sağlık yardımlarından yararlanabilmeleri için
+Kurum tarafından düzenlenmiş ve Avusturya'da bulunduğu sürece kendisinin ve aile
+bireylerinin Kurum adına sağlık yardımlarından yararlanabileceğini gösterir TR/A 3B
+formülerine sahip olmaları gerekmektedir.
+         TR/A 3B formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti ve yardımların süresi Kurum mevzuatına göre, yardımlardan yararlanma şekli ile
+yardımların kapsamı ise Avusturya mevzuatına göre tayin edilir.
+         Sigortalılar ve aile bireyleri adına TR/A 3B formülerinin düzenlenmesinde aşağıdaki
+hususlara dikkat edilmesi gerekmektedir.
+
+      Sigortalıdan formüler talebine ait "Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde
+      Sağlık Yardımları Talep ve Beyan Taahhüt Belgesi" alınacaktır. (İşveren tarafından
+      geçici görevle görevlendirilen sigortalının görev süresi ile görevlendirme nedenini
+      belirten yazı temin edilecektir.)
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+      bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir.
+      Formülerin (4.1) nolu kısmı sigortalının işverenince ibraz edilen geçici görev süresini
+      gösterir belgedeki süreye göre; özel iş yerlerinde çalışanlar için en fazla birer yıl olmak
+      üzere görev süresi kadar, kamu iş yerlerinde çalışanlar için ise görev süresi kadar olacak
+      şekilde doldurulacaktır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 10/45
+      2.1.2. Bir İşin İcrası İçin İşvereni Tarafından Avusturya'dan Türkiye'ye Geçici
+Görevli Olarak Gönderilen Sigortalı ile Beraberindeki Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 11/1-b ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+  A/TR 3                 Türkiye'de Geçici İkamet Esnasında Sağlık Yardım Hakkı Belgesi
+
+        Avusturya sigortalılarının geçici görevli olarak Türkiye'de bulunduğu sırada kendisi
+ve beraberindeki aile bireyleri, Avusturya sigorta kurumları adına ülkemiz mevzuatının
+öngördüğü sağlık hizmetlerinin tamamından yararlanabilmektedir.
+        Avusturya sigortalılarının, ülkemizde Kurum mevzuatının öngördüğü sağlık
+hizmetlerini alabilmeleri için Avusturya yetkili kurumunca düzenlenmiş A/TR 3 formüleri ile
+ilk müracaatlarını en yakın SGİM/SGM’lere yapmaları gerekmektedir.
+        İlgililerin, bu konuda Avusturya sigorta kurumları tarafından düzenlenmiş ve geçici
+görev süresi boyunca kendisi ve aile bireylerinin Avusturya yetkili kurumu adına sağlık
+yardımlarından yararlanabileceğini gösterir ve (4.1) nolu kutusuna sağlık yardım hakkı süresi
+kaydedilmiş olan A/TR 3 formüleri ile birlikte geçici görev süresi boyunca Avusturya
+mevzuatına tabi olduğunu gösteren A/TR 1 formülerine de sahip olmaları gerekmektedir.
+        İlgililerin, A/TR 3 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek "TR/A 17 Form Talep Belgesi" ile A/TR 3 formüleri ve ibraz
+edilmemiş ise A/TR 1 formüleri de Avusturya yetkili kurumundan talep edilecektir.
+        Sadece A/TR 3 formülerinde kayıtlı olan sigortalı ve aile bireylerinin sağlık
+yardımından yararlanma hakları vardır.
+        A/TR 3 formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 3 formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 3 formülerinde belirtilen sigortalı ve aile bireyleri YUPASS programına
+kaydedilecektir. Formüler üzerinde herhangi bir düzeltme ya da ekleme yapılmayacaktır.
+        A/TR 3 formülerinin (4.1) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve aile bireyleri için YUPASS hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden yeni A/TR 3 formülerindeki süre kadar hak sahipliği ekranından aktivasyonlarının
+açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 3 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Avusturya mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı
+ise Kurum mevzuatına göre belirlenmektedir.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 11/45
+       2.2. Diğer Akit Taraf Ülkesinde Turistik Amaçlı Bulunan Sigortalılar ile
+Beraberindeki Aile Bireyleri
+
+        Diğer akit tarafta turistik amaçlı bulunan sigortalı ve beraberindeki aile bireylerinin
+sağlık yardımlarından nasıl yararlanacaklarına ilişkin açıklamalar aşağıda yer almaktadır.
+
+        2.2.1. Avusturya’da Turistik Amaçlı Bulunan Sigortalılar ile Beraberindeki
+Aile Bireyleri
+
+ İlgili hükümler         Anlaşmanın 11/1-b ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+    TR/A 3               Avusturya’da Geçici İkamet Esnasında Sağlık Yardım Hakkı Belgesi
+
+         Kurum sigortalısı ile bakmakla yükümlü bulunduğu aile bireylerinin, Avusturya’da
+geçici ikametleri sırasında Kurum adına Avusturya mevzuatının öngördüğü sağlık
+hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği zaman yararlanma hakları vardır.
+         Bu yardımlardan yararlanmak için ilgililerin, adlarına düzenlenmiş TR/A 3
+formülerine sahip olmaları gerekir. Sağlık yardımının acil durumda yapılması durumunun
+tespiti yardımı yapan ülke yani Avusturya mevzuatına göre yapılacaktır.
+         TR/A 3 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak sigortalı ve
+bakmakla yükümlü aile bireylerinin tespiti Kurum mevzuatına göre, yardımlardan
+yararlanma şekli ile yardımların kapsamı ise Avusturya mevzuatına göre belirlenir.
+          Sigortalının ve aile bireylerinin TR/A 3 formülerine kaydı yapılırken aşağıdaki
+hususlar dikkate alınacaktır:
+      Sigortalı ve/veya aile bireylerinden formüler talebine ait "Sosyal Güvenlik Sözleşmeleri
+      İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt Belgesi" alınacaktır.
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+      bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir.
+      TR/A 3 formüleri, sigortalının ücretli izinde olduğuna dair işverence düzenlenmiş yazı
+      veya belge istenerek, bu belgedeki süre kadar düzenlenecektir. (yalnızca sigortalıya
+      düzenlenecek formüler için istenecektir.)
+      TR/A 3 formüleri yalnızca sigortalının bakmakla yükümlü olduğu aile bireyi için
+      düzenlenecek ise talep süresine bağlı kalmak kaydıyla her defasında en fazla üçer aylık
+      süre için düzenlenecektir.
+      Formülerin Avusturya yetkili kurumu tarafından "A/TR 17 Form Talep Belgesi" ile
+      talep edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Avusturya
+      yetkili kurumuna gönderilecektir.
+
+      2.2.2. Türkiye'de Turistik                   Amaçlı       Bulunan        Avusturya         Sigortalıları      ile
+Beraberindeki Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 14/2 maddesi, İdari Anlaşmanın 8/1 maddesi.
+    A/TR 3               Türkiye'de Geçici İkamet Esnasında Sağlık Yardım Hakkı Belgesi
+
+      Avusturya sigortalıları ile bakmakla yükümlü bulunduğu aile bireylerinin,
+ülkemizdeki geçici ikametleri sırasında Avusturya yetkili kurumu adına ülkemiz mevzuatının
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 12/45
+öngördüğü sağlık hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği zaman
+yararlanma hakları vardır.
+        Avusturya sigortalılarının, Kurum mevzuatının öngördüğü sağlık hizmetlerini
+alabilmeleri için Avusturya yetkili kurumunca düzenlenmiş ve (4.1) nolu kutusuna sağlık
+yardım hakkı süresi kaydedilmiş olan A/TR 3 formüleri ile ilk müracaatlarını en yakın
+SGİM/SGM’lere yapmaları gerekmektedir.
+        İlgililerin, A/TR 3 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek "TR/A 17 Form Talep Belgesi" ile A/TR 3 formüleri Avusturya
+yetkili kurumundan talep edilecektir.
+        Sadece A/TR 3 formülerinde kayıtlı olan sigortalı ve aile bireylerinin sağlık
+yardımlarından yararlanma hakları vardır.
+        A/TR 3 formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 3 formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 3 formülerinde belirtilen sigortalı ve aile bireyleri YUPASS programına
+kaydedilecektir. Formüler üzerinde herhangi bir düzeltme ya da ekleme yapılmayacaktır.
+        A/TR 3 formülerinin (4.1) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve aile bireyleri için YUPASS hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden ibraz edecekleri yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonlarının açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 3 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Avusturya mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı
+ise Kurum mevzuatına göre belirlenmektedir.
+
+      2.3. Diğer Akit Taraf Ülkesinde Geçici İkamet Eden Aylık veya Gelir Alanlar ile
+Beraberindeki Aile Bireyleri
+
+        Bir akit taraf ülkesinden aylık veya gelir almakta iken diğer akit taraf ülkesinde geçici
+ikamet eden aylık/gelir sahipleri ve bunların bakmakla yükümlü bulunduğu aile bireylerinin
+sağlık yardımlarına ilişkin açıklamalar aşağıda yer almaktadır.
+
+      2.3.1. Avusturya’da Geçici İkamet Eden ve Türkiye'den Aylık/Gelir Alanlar ile
+Beraberindeki Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 11/1-b maddesi, İdari Anlaşmanın 5 inci maddesi
+    TR/A 3               Avusturya’da Geçici İkamet Esnasında Sağlık Yardım Hakkı Belgesi
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 13/45
+        Kurumdan aylık/gelir alanlar ile bunların bakmakla yükümlü bulunduğu aile
+bireylerinin, Avusturya’da geçici ikametleri sırasında Kurum adına Avusturya mevzuatının
+öngördüğü sağlık hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği zaman
+yararlanma hakları vardır.
+        İlgililerin, sağlık yardımlarından yararlanmak için adlarına düzenlenmiş TR/A 3
+formülerine sahip olmaları gerekir. Sağlık yardımının acil olup olmadığı yardımı yapacak
+ülke olan Avusturya mevzuatına göre belirlenir.
+        TR/A 3 formülerine kaydedilecek ve sağlık yardımına müstahak olacak kişilerin
+tespiti Kurum mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı ise
+Avusturya mevzuatına göre belirlenir.
+        Hem Türkiye'den hem de Avusturya’dan aylık veya gelir sahibi olan ve Türkiye'de
+daimi ikamet ettiği tespit edilen aylık/gelir sahibi ve aile bireyleri, Avusturya’da geçici
+ikamet ettikleri sırada yapılacak sağlık yardımı masrafları Kurumca karşılanacaktır.
+        Kurumdan aylık/gelir sahibi olanlar ve bakmakla yükümlü oldukları aile bireylerinin
+TR/A 3 formülerine kaydı yapılırken aşağıdaki hususlar dikkate alınacaktır:
+      Aylık/gelir sahibi ve/veya aile bireylerinin formüler talebine ait "Sosyal Güvenlik
+      Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt
+      Belgesi" alınacaktır,
+      Aylık/gelir sahibi ve/veya aile bireylerinin sağlık yardımlarına müstahak olup olmadığı
+      ve aile bireyinin sigortalının bakmakla yükümlüsü olup olmadığı SPAS programı
+      üzerinden kontrol edilecektir.
+      TR/A 3 formüleri, talep süresine bağlı kalmak kaydıyla her defasında en fazla üçer (3)
+      aylık süre için düzenlenecektir.
+      Formülerin Avusturya yetkili kurumu tarafından "A/TR 17 Form Talep Belgesi" ile
+      talep edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Avusturya
+      yetkili kurumuna gönderilecektir.
+
+      2.3.1.1. Avusturya’ya Öğrenim Amaçlı Giden, Kurum Sigortalısı ya da
+Aylık/Gelir Sahibinin Bakmakla Yükümlü Aile Bireyleri
+
+           Öğrenim amaçlı olarak Avusturya’ya giden Kurum sigortalısının bakmakla
+yükümlü aile bireyleri ya da aylık/gelir sahibi ve bunların bakmakla yükümlü aile
+bireylerinin Avusturya’da geçici ikamet ettikleri sırada Kurum adına Avusturya mevzuatının
+öngördüğü sağlık hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği hallerde
+yararlanma hakları vardır.
+         Aktif kurum sigortalısına öğrenim amaçlı olarak TR/A 3 formüleri verilmeyecektir.
+         Öğrenim amaçlı olarak Avusturya’ya giden aile bireyinin TR/A 3 formülerine kaydı
+yapılırken aşağıdaki hususlar dikkate alınacaktır:
+     Sigortalı, aylık/gelir sahibi ya da aile bireyinin formüler talebine ait "Sosyal Güvenlik
+     Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan Taahhüt
+     Belgesi" alınacaktır.
+     Lise eğitimi için gidecek olanlardan, eğitim görülen okulun Türkiye’de lise seviyesinde
+     olduğunu gösteren, Millî Eğitim Bakanlığı veya ülkemizin dış temsilciliklerinden
+     alınacak belge,
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 14/45
+      Ön lisans, lisans veya yüksek lisans eğitimi için gidecek olanlardan;
+      - Yurt dışında üniversiteden kabul edildiğine dair belge,
+      - Öğrenim görülen üniversite/fakültenin ön lisans, lisans veya yüksek lisans seviyesinde
+      olduğunu gösteren YÖK veya ülkemizin dış temsilciliklerinden alınacak belge,
+      - Türkçe tercümesi ile birlikte okulun sömestir tarihlerini gösterir belge,
+      Erasmus kapsamında gidecek olanlardan;
+      - Türkiye'de okuduğu üniversiteden Erasmus kapsamında gittiğine dair yazı,
+      - Türkçe tercümesi ile birlikte okulun sömestir tarihlerini gösterir belge
+      istenecektir.
+           Aile bireylerine TR/A 3 formüleri düzenlenebilmesi için, aile bireyinin sigortalının
+bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir. Öğrenim
+amaçlı Avusturya’ya giden aile bireyleri için TR/A 3 formüleri her bir sömestir (dönem) için
+ayrı ayrı düzenlenecektir.
+
+      2.3.2. Türkiye'de Geçici İkamet Eden ve Avusturya'dan Aylık/Gelir Alanlar ile
+Beraberindeki Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 11/1-b maddesi, İdari Anlaşmanın 5 inci maddesi
+   A / TR 3              Türkiye'de Geçici İkamet Esnasında Sağlık Yardım Hakkı Belgesi
+
+        Avusturya’dan aylık/gelir alanlar ile bakmakla yükümlü bulunduğu aile bireylerinin,
+Türkiye'de geçici ikametleri sırasında Avusturya yetkili kurumu adına ülkemiz mevzuatının
+öngördüğü sağlık hizmetlerinden durumları derhal (acil) tedaviyi gerektirdiği zaman
+yararlanma hakları vardır.
+        Avusturya sigortalılarının, Kurum mevzuatının öngördüğü sağlık hizmetlerini
+alabilmeleri için Avusturya yetkili kurumunca düzenlenmiş ve (4.1) nolu kutusuna sağlık
+yardım hakkı süresi kaydedilmiş olan A/TR 3 formüleri ile ilk müracaatlarını en yakın
+SGİM/SGM’lere yapmaları gerekmektedir.
+        İlgililerin, A/TR 3 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek "TR/A 17 Form Talep Belgesi" ile A/TR 3 formüleri Avusturya
+yetkili kurumundan talep edilecektir.
+        A/TR 3 formülerinde kayıtlı olan sigortalı ve aile bireylerinin sağlık yardımlarından
+yararlanma hakları vardır.
+        A/TR 3 formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 3 formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 3 formülerinde belirtilen sigortalı ve aile bireyleri YUPASS programına
+kaydedilecektir. Formüler üzerinde herhangi bir düzeltme ya da ekleme yapılmayacaktır.
+        A/TR 3 formülerinin (4.1) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve aile bireyleri için YUPASS hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 15/45
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden ibraz edecekleri yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonlarının açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 3 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Avusturya mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı
+ise Kurum mevzuatına göre belirlenmektedir.
+
+      2.4. Çalıştığı Ülkede Tedavi Görmekte İken İkametini Vatandaşı Olduğu Ülkeye
+Naklettiren Sigortalı ve Aile Bireyleri
+
+       Sağlık durumu nedeniyle gerekli tedaviyi görmek üzere, yetkili kurum tarafından
+diğer akit taraf ülkesine gitmesine izin verilen veya verilecek olan bir kişi yetkili kurum nam
+ve hesabına olmak üzere geçici ikamet ettiği veya devamlı ikamet ettiği ülkedeki kurumun
+mevzuatına göre bu kurumun sigortalısı gibi sağlık yardımlarını talep etme hakkına sahiptir.
+
+        2.4.1. Türkiye'de Tedavisi Devam Etmekte İken Avusturya'ya Dönen Kurum
+Sigortalılarının Sağlık Yardımları
+
+ İlgili hükümler Anlaşmanın 11/1-c ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+   TR/A 3A       Avusturya'daki Tedavi İzni ile İlgili Belge
+
+         Kurumca tedavisine devam edilmek üzere sözleşmeli ülkelere gönderilen kişilerin
+sağlık yardım belgeleri, Kanunun 66 ncı maddesinin (c) fıkrası kapsamında yurt içinde
+tedavisi yapılamadığı için yurt dışındaki tedavilerinin Kurum adına sözleşmeli ülkeden
+sağlanması için düzenlenmektedir.
+         TR/A 3A formüleri kişilerin ve Avusturya yetkili kurumunun talebi üzerine
+düzenlenecek bir formüler değildir. Bu formüler, EHGM (YSEDB) talimat yazısına istinaden
+ilgili kişi adına düzenlenecektir.
+         Kurum sigortalılarının TR/A 3A formülerine kaydı yapılırken aşağıdaki hususlar
+dikkate alınacaktır:
+       Sigortalının, sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+       bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir.
+       TR/A 3A formüleri, EHGM (YSEDB) talimat yazısında belirtilen süre kadar
+       düzenlenecektir.
+
+       2.4.2. Avusturya'da Tedavisi Devam                             Etmekte iken Türkiye'ye Dönen
+Avusturya Sigortalılarının Sağlık Yardımları
+
+ İlgili hükümler           Anlaşmanın 11/1-c ve 11/3 maddeleri, İdari Anlaşmanın 5 inci maddesi
+ A/TR 3A                   Türkiye'de Tedavi İzni ile İlgili Belge
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 16/45
+         Avusturya’da tedavisi devam etmekte iken Türkiye’ye dönen Avusturya sigortalıları
+ ve bunların bakmakla yükümlü olduğu aile bireyleri sağlık yardımlarından Avusturya adına
+ ülkemizde yararlanmaya devam ederler.
+        Tedavisine devam edilmek üzere ülkemize gelen Avusturya sigortalılarının, Kurum
+mevzuatının öngördüğü sağlık hizmetlerini alabilmeleri için Avusturya yetkili kurumunca
+düzenlenmiş ve (4.1) nolu kutusuna sağlık yardım hakkı süresi kaydedilmiş olan A/TR 3A
+formüleri ile ilk müracaatlarını en yakın SGİM/SGM’lere yapmaları gerekmektedir.
+        A/TR 3A formülerinde sadece sigortalının kayıtlı olması halinde sigortalının, sigortalı
+ile birlikte aile bireyinin de kayıtlı olması halinde ise aile bireyinin sağlık yardımlarından
+yararlanma hakkı bulunmaktadır.
+        A/TR 3A formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 3A formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 3A formülerinde belirtilen sigortalı ve aile bireyleri YUPASS
+programına kaydedilecektir. Formüler üzerinde herhangi bir düzeltme ya da ekleme
+yapılmayacaktır.
+        A/TR 3A formülerinin (4.1) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve aile bireyleri için YUPASS hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden ibraz edecekleri yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonlarının açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 3A formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak kişilerin
+tespiti Avusturya mevzuatına göre, yardımlardan yararlanma şekli ile yardımların kapsamı
+ise Kurum mevzuatına göre belirlenmektedir.
+
+         3. Diğer Akit Tarafta Daimi İkamet Esnasında Sağlık Yardımları
+
+       Akit taraflardan birinden sağlık yardım hakkı bulunanlardan diğer akit tarafta daimi
+ikamet edenlerin sağlık yardımlarına ilişkin hususlar aşağıda yer almaktadır.
+
+       3.1. Sigortalının Diğer Akit Tarafta İkamet Eden Aile Bireyleri ile Aylık/Gelir
+Sahibi ve Beraberindeki Aile Bireyleri
+
+        Akit taraf sigortalısının, diğer akit tarafta ikamet eden aile bireyleri veya akit taraftan
+aylık/gelir almakta iken diğer akit tarafta ikamet eden aylık/gelir sahibi ve beraberindeki aile
+bireylerinin ikamet ettikleri ülkede kendi adlarına sağlık yardım hakları bulunmaması
+kaydıyla, sigortalının bağlı bulunduğu yetkili kurum adına sağlık yardımlarından yararlanma
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 17/45
+imkanları bulunmaktadır.
+
+          3.1.1. Türkiye’de Çalışan Sigortalının Avusturya’da İkamet Eden Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 11/1-a ve 11/3 maddesi, İdari Anlaşmanın 5 inci maddesi
+TR/A 4                   Avusturya’da Devamlı İkamet Esnasında Yardım Hakkı Belgesi
+
+        Kanunun 4/1-(a) statüsüne tabi olarak çalışan sigortalının Avusturya’da daimi ikamet
+eden bakmakla yükümlü aile bireyleri Avusturya mevzuatına göre sağlık yardımlarına hak
+kazanmamış olmaları koşuluyla, Kurum adına Avusturya’da sağlık yardımlarından
+yararlanabilmektedir.
+        Bu kişiler, TR/A 4 formüleri ile Kurum adına Avusturya mevzuatının öngördüğü
+sağlık hizmetlerini alabileceklerdir.
+        Söz konusu kişiler, ülkemize geçici olarak geldiklerinde sağlık yardımlarından
+Kurum mevzuatındaki hükümlere göre yararlanırlar.
+        Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi ve yardımlardan
+faydalanacak olan aile bireylerinin kimler olduğu Kurum mevzuatına göre, yardımların
+kapsamı ve ifa şekli ise Avusturya yetkili kurumunun mevzuatına göre belirlenir.
+        Avusturya yetkili kurumunca bu kişiler adına yapılan sağlık yardımı giderleri,
+Kurumca karşılanacaktır.
+        İlgililerin, TR/A 4 formülerini temin etmeden Avusturya'ya gitmiş olmaları halinde,
+Avusturya yetkili kurumu, çalışanın bağlı bulunduğu SGİM/SGM’den söz konusu kişiler için
+"A/TR 17 Form Talep Belgesi" ile TR/A 4 formülerini talep eder. Ayrıca sigortalının ya da
+aile bireyinin talebi üzerine ilgili SGİM/SGM tarafından TR/A 4 formüleri
+düzenlenebilecektir.
+        Sigortalının Avusturya'da ikamet eden bakmakla yükümlü aile bireylerinin TR/A 4
+formülerine kaydı yapılırken aşağıdaki hususlar dikkate alınacaktır:
+
+      Söz konusu kişiler için sigortalının bağlı bulunduğu SGİM/SGM’ce formüler talebine
+      ait "Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve
+      Beyan Taahhüt Belgesi" ve Avusturya'da daimi ikamet ettiğine dair ikamet belgesi
+      ve/veya oturum izin belgesi alınacaktır,
+      Sigortalının sağlık yardımlarına müstahak olup olmadığı ve aile bireyinin sigortalının
+      bakmakla yükümlüsü olup olmadığı SPAS programı üzerinden kontrol edilecektir.
+      SPAS'ta kaydı olmayan ancak sağlık yardım belgesi talep eden aile bireylerinin
+      müstahak olup olmadığı manuel kontrol edilecektir. SPAS kaydının açılması için bu
+      kişilerden gerekli belgeleri getirmesi ve hak sahibi iseler SPAS kayıtlarını açtırmaları
+      talep edilecektir.
+      TR/A 4 formüleri sigortalının bakmakla yükümlü olduğu aile bireyi için her defasında
+      en fazla birer yıllık süre için düzenlenecektir.
+      Formülerin Avusturya yetkili kurumu tarafından "A/TR 17 Form Talep Belgesi" ile
+      talep edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Avusturya
+      yetkili kurumuna gönderilecektir.
+
+         SGİM/SGM’lerin yurtdışı işlemleri servisleri, TR/A 4 formüleri düzenlenmesi
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 18/45
+talebini aldıktan sonra (A) bölümünü doldurup onayladığı iki nüsha TR/A 4 formülerini
+Avusturya yetkili kurumuna gönderecektir.
+         Avusturya yetkili kurumu, Kurum adına sağlık yardımına hak kazandığı tespit edilen
+aile bireylerini TR/A 4 formülerinin 7 no'lu kısmına kaydedip (B) bölümünü doldurup
+onaylandıktan sonra bir nüshasını ilgili SGİM/SGM’ye iade edecektir.
+        TR/A 4 formüleri ilgili SGİM/SGM'nin yurtdışı işlemleri servisince hesaplaşma
+işlemlerine esas olmak üzere dosyasında muhafaza edilecek ve ilgililerin (sigortalı ve aile
+bireyleri) sağlık yardım hakkının devam edip etmediği takip edilecektir.
+        Avusturya’da sürekli ikamet eden ve Kurum mevzuatına göre sağlık yardım hakkına
+sahip kişilere TR/A 4 formülerine istinaden verilecek olan sağlık yardımları, Kurum
+mevzuatına göre sağlık yardımlarının durdurulması ya da sona ermesine ilişkin bir durum
+meydana gelmesi durumunda derhal TR/A 5 formüleri düzenlenerek Avusturya yetkili
+kurumuna gönderilecektir.
+
+         3.1.2. Avusturya’da Çalışan Sigortalının Türkiye'de İkamet Eden Aile Bireyleri
+
+İlgili hükümler Anlaşmanın 11/1-a ve 11/3 maddesi, İdari Anlaşmanın 5 inci maddesi
+   A/TR 4       Türkiye'de Devamlı İkamet Esnasında Yardım Hakkı Belgesi
+
+        Avusturya sigortalısının ülkemizde ikamet eden bakmakla yükümlü aile bireyleri,
+ülkemiz mevzuatına göre sağlık yardımlarına hak kazanmamış olmaları koşulu ile Avusturya
+yetkili kurumu adına Türkiye’de Kurum mevzuatı kapsamında tüm sağlık yardımlarından
+yararlanabileceklerdir.
+        Bu kişilerin, (4.2) no'lu kutusuna sağlık yardım hakkı süresi kaydedilmiş olan A/TR 4
+formülerini en yakın SGİM/SGM'ye ibraz etmeleri gerekmektedir.
+        İlgililerin, A/TR 4 formülerini temin etmeden ülkemize gelmiş olmaları halinde,
+Kurumca düzenlenecek "TR/A 17 Form Talep Belgesi" ile A/TR 4 formüleri Avusturya
+yetkili kurumundan talep edilecektir.
+        A/TR 4 formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        SGİM/SGM’lerce, formülerde bildirilen sigortalının bakmakla yükümlü olduğu aile
+bireylerinin mevcut olup olmadığı Kimlik Paylaşım Sisteminden kontrol edilecek, ayrıca aile
+bireylerinin kendi sigortalarından veya bir başkasının sigortasından Kurumdan sağlık yardımı
+talep etme haklarının bulunup bulunmadığı araştırılacaktır.
+        Avusturya yetkili kurumu tarafından belirlenerek A/TR 4 formülerinin A bölümüne
+kaydedilen aile bireylerinden, Kurumca yapılacak araştırma sonucunda sağlık yardımlarından
+yararlanacak olanlar A/TR 4 formülerinin 7 nci kısmına kayıt edilecektir. Kayıt işleminden
+sonra formülerin B bölümü tamamen doldurularak 9 uncu kısım onaylandıktan sonra bir
+nüshası Avusturya yetkili kurumuna iade edilecektir.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 4 formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 4 formülerinde belirtilen sigortalı ve aile bireyleri YUPASS programına
+kaydedilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 19/45
+        A/TR 4 formülerinin (4.2) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve bakmakla yükümlü aile bireyleri için YUPASS hak sahipliği ekranında
+aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden ibraz edecekleri yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonlarının açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 4 formülerine kaydedilecek ve sağlık yardımına hak sahibi olacak sigortalı ve
+aile bireylerinin tespiti Avusturya mevzuatına göre, yardımlardan yararlanma şekli ile
+yardımların kapsamı ise Kurum mevzuatına göre belirlenmektedir.
+        A/TR 4 formülerinde kayıtlı aile bireyleri, Avusturya’ya geçici olarak gittiklerinde
+sağlık yardımlarından, Avusturya adına yararlanırlar. Bu kişiler için belge düzenlenmeyecek
+olup, istekleri halinde A\TR 4 belgesinin bir fotokopisi verilebilecektir.
+
+      3.2. Akit Taraflardan Birinden Aylık veya Gelir Almakta İken Diğer Akit
+Tarafta İkamet Edenler ve Aile Bireylerinin Sağlık Yardımları
+
+        Anlaşmanın 13 üncü maddesi gereği, akit taraflardan yalnızca birinin mevzuatına
+göre aylık veya gelir almakta iken diğer akit tarafta daimi ikamet edenlerin ve bunların aile
+bireylerinin sağlık yardımları, aylık veya geliri ödeyen kurum tarafından karşılanacaktır.
+
+      3.2.1. Türkiye’den Aylık/Gelir Almakta Olup Avusturya'da İkamet Edenler ve
+Beraberindeki Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 13 üncü maddesi, İdari Anlaşmanın 7 nci maddesi
+TR/A 4                   Avusturya’da Devamlı İkamet Esnasında Yardım Hakkı Belgesi
+
+        Kanunun 4/1-(a) statüsü kapsamında emekli olan ve Avusturya’da daimi ikamet eden
+aylık/gelir sahibi ile bunların yanlarında ikamet eden bakmakla yükümlü aile bireyleri
+Avusturya mevzuatına göre sağlık yardımlarına hak kazanmamış olmaları koşuluyla, Kurum
+adına Avusturya’da sağlık yardımlarından yararlanabilmektedir.
+        Bu kişiler, TR/A 4 formüleri ile Kurum adına Avusturya mevzuatının öngördüğü
+sağlık hizmetlerini alabileceklerdir.
+        Söz konusu kişiler, ülkemize geçici olarak geldiklerinde sağlık yardımlarından
+Kurum mevzuatındaki hükümlere göre yararlanırlar.
+        Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi ve yardımlardan
+faydalanacak olan aile bireylerinin tespiti Kurum mevzuatına göre, yardımların kapsamı ve
+ifa şekli ise Avusturya yetkili kurumunun mevzuatına göre belirlenir.
+        Avusturya yetkili kurumunca bu kişiler adına yapılan sağlık yardımı giderleri,
+Kurumca karşılanacaktır.
+        İlgililerin, TR/A 4 formülerini temin etmeden Avusturya'ya gitmiş olmaları halinde,
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 20/45
+Avusturya yetkili kurumu, aylık/gelir sahibinin belirtmiş olduğu SGİM/SGM’den söz konusu
+kişiler için "A/TR 17 Form Talep Belgesi" ile TR/A 4 formülerini talep eder. Ayrıca
+aylık/gelir sahibi ya da aile bireyinin talebi üzerine ilgili SGİM/SGM tarafından TR/A 4
+formüleri düzenlenebilecektir.
+          Avusturya’da daimi ikamet eden aylık/gelir sahibi ile bunların yanlarında ikamet
+eden bakmakla yükümlü aile bireylerinin TR/A 4 formülerine kaydı yapılırken aşağıdaki
+hususlar dikkate alınacaktır:
+      Söz konusu kişiler için başvurulan SGİM/SGM’ce formüler talebine ait "Sosyal
+      Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve Beyan
+      Taahhüt Belgesi" ve Avusturya'da daimi ikamet ettiğine dair ikamet belgesi ve/veya
+      oturum izin belgesi alınacaktır,
+      Türkiye'den aylık/gelir alan kişilere formüler düzenlenebilmesi için bu kişilerin
+      aylık/gelirini Avusturya'ya transfer etmeleri gerekmektedir.
+      Aylık/gelir sahibi ve bakmakla yükümlü aile bireylerinin sağlık yardımlarına müstahak
+      olup olmadığı SPAS programı üzerinden kontrol edilecektir. SPAS'ta kaydı olmayan
+      ancak sağlık yardım belgesi talep eden aylık/gelir sahibi ve bakmakla yükümlü aile
+      bireylerinin müstahak olup olmadığı manuel kontrol edilecektir. SPAS kaydının
+      açılması için bu kişilerden gerekli belgeleri getirmesi ve hak sahibi iseler SPAS
+      kayıtlarını açtırmaları talep edilecektir.
+      TR/A 4 formüleri, aylık/gelir sahibi ve aile bireyleri için her defasında en fazla birer
+      yıllık süre için düzenlenecektir.
+      Formülerin Avusturya yetkili kurumu tarafından "A/TR 17 Form Talep Belgesi" ile
+      talep edilmesi durumunda, ilgiliye verilmesi gereken nüsha, talebi yapan Avusturya
+      yetkili kurumuna gönderilecektir.
+      Aylık/gelir sahibinin adresini Avusturya'ya taşıması gerektiğinden, Kimlik Paylaşım
+      Sisteminden ilgilinin adresinin yurt dışı olup olmadığı kontrol edilecektir.
+        SGİM/SGM’lerin yurtdışı işlemleri servisleri, TR/A 4 formüleri düzenlenmesi
+talebini aldıktan sonra (A) bölümünü doldurup onayladığı iki nüsha TR/A 4 formülerini
+Avusturya yetkili kurumuna göndereceklerdir.
+         Avusturya yetkili kurumu, TR/A 4 formülerinin (A) bölümünde kayıtlı aile
+bireylerinden kendi mevzuatlarına göre sağlık yardım hakkına sahip olmayanları TR/A 4
+formülerinin 7 no'lu kısmına kaydedip (B) bölümünü doldurup onayladıktan sonra bir
+nüshasını ilgili SGİM/SGM’ye iade edecektir.
+         TR/A 4 formüleri SGİM/SGM yurtdışı servisince hesaplaşma işlemlerine esas olmak
+üzere dosyasında muhafaza edilecek ve ilgililerin (aylık/gelir sahibi) sağlık yardım hakkının
+devam edip etmediği takip edilecektir.
+         Söz konusu kişiler, ülkemize geçici olarak geldiklerinde sağlık yardımlarından
+Kurum mevzuatındaki hükümlere göre yararlanırlar.
+         Avusturya’da sürekli ikamet eden ve Kurum mevzuatına göre sağlık yardım hakkına
+sahip olan kişilere TR/A 4 formülerine istinaden verilecek olan sağlık yardımları, Kurum
+mevzuatına göre sağlık yardımlarının durdurulması ya da sona ermesine ilişkin bir durum
+meydana gelmesi durumunda sigortalı adına TR/A 5 formüleri düzenlenerek gecikmeksizin
+Avusturya yetkili kurumuna gönderilecektir.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 21/45
+       3.2.2. Türkiye’den Aylık/Gelir Almakta Olup Avusturya'da İkamet Eden
+Kişilerin Türkiye'de İkamet Eden Aile Bireyleri
+
+         Türkiye'den aylık/gelir almakta olup Avusturya'da ikamet eden kişinin, Türkiye'de
+ikamet eden ve Kurum mevzuatına göre sağlık yardım hakkı bulunmayan aile bireylerinin
+talebi halinde, her bir aile bireyi için ayrı ayrı olmak üzere Avusturya yetkili kurumunca
+A/TR 4 formüleri düzenlenecektir. Bu kişilerin ilgili SGİM/SGM'ye müracaatı halinde,
+"TR/A 17 Form Talep Belgesi" ile her bir aile bireyi için ayrı ayrı olmak üzere Avusturya
+yetkili kurumundan A/TR 4 formüleri gönderilmesi talep edilecektir. Avusturya'dan gelen
+A/TR 4 formülerine istinaden bu kişiler için YUPASS'ta aktivasyon açılacaktır.
+
+      3.2.3. Avusturya'dan Aylık/Gelir Almakta Olup Türkiye’de İkamet Edenler ve
+Beraberindeki Aile Bireyleri
+
+İlgili               Anlaşmanın 13 üncü maddesi, İdari Anlaşmanın 7 nci maddesi
+hükümler
+  A/TR 4             Türkiye'de Devamlı İkamet Esnasında Yardım Hakkı Belgesi
+
+        Avusturya'dan emekli olan ve Türkiye'de ikamet eden aylık/gelir sahipleri ile bunların
+yanlarında ikamet eden bakmakla yükümlü aile bireyleri, Kurum mevzuatına göre sağlık
+yardımlarına hak kazanmamış olmaları koşulu ile Avusturya yetkili kurumu adına Türkiye’de
+tüm sağlık yardımlarından yararlanabileceklerdir.
+        Bu kişilerin, (4.2) no'lu kutusuna sağlık yardım hakkı süresi kaydedilmiş olan A/TR 4
+formülerini en yakın SGİM/SGM'ye ibraz etmeleri gerekmektedir.
+        A/TR 4 formülerinde, düzenleyen Avusturya yetkili kurumunun adı ve adresinin
+yazılmış olduğu kontrol edilecektir. Elektronik ortamda düzenlenmiş formülerler üzerinde
+ıslak mühür aranmayacaktır.
+        SGİM/SGM’lerce, formülerde bildirilen aylık/gelir sahibi ve bunların bakmakla
+yükümlü olduğu aile bireylerinin mevcut olup olmadığı Kimlik Paylaşım Sisteminden
+kontrol edilerek, aylık/gelir sahibinin Kurumdan aylık/gelir alıp almadığı ile aile bireylerinin
+kendi sigortalarından veya bir başkasının sigortasından sağlık yardımı talep etme haklarının
+bulunup bulunmadığı araştırılacaktır.
+        Araştırma işleminden sonra sağlık yardımlarından yararlanacaklar A/TR 4
+formülerinin 7 nci kısmına kayıt edilecektir. Kayıt işleminden sonra formülerin (B) bölümü
+tamamen doldurularak 9 uncu kısım onaylandıktan sonra bir nüshası Avusturya yetkili
+kurumuna iade edilecektir.
+        Avusturya sigortalıları YUPASS kapsamında bulunduğundan, A/TR 4 formüleri ile
+gelen ve sisteme ilk defa kayıt olan kişilere ilgili SGİM/SGM’ce YUPASS'ta tescil kaydı
+açılarak YUPASS numarası verilecektir.
+        Sadece A/TR 4 formülerinde belirtilen aylık/gelir sahibi ve aile bireyleri YUPASS
+programına kaydedilerek YUPASS numarası verilecektir.
+        A/TR 4 formülerinin (4.2) nolu kutusunda belirtilen tarih aralığındaki süreye göre
+sigortalı ve aile bireyleri için YUPASS hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS'a kaydı gerçekleştirilen formüler, sigortalının dosyasına eklenmek üzere en
+kısa süre içerisinde o ildeki Yurtdışı İşlemleri Servisi bulunan SGİM/SGM'ye gönderilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 22/45
+        YUPASS numarası bulunan kişilerin daha sonraki başvurularında mevcut tescilleri
+üzerinden ibraz edecekleri yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonlarının açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        A/TR 4 formülerine kaydedilecek aylık/gelir sahibi ve bakmakla yükümlü aile
+bireylerinin tespiti Avusturya mevzuatına göre, yardımların kapsamı ve ifası ise Kurum
+mevzuatına göre belirlenmektedir.
+        Söz konusu aylık/gelir sahipleri ve aile bireyleri, Avusturya’ya geçici olarak
+gittiklerinde sağlık yardımlarından, Avusturya adına yararlanırlar. Bu kişiler için belge
+düzenlenmeyecek olup, istekleri halinde A/TR 4 belgesinin bir fotokopisi verilebilecektir.
+
+       3.2.4. Avusturya'dan Aylık/Gelir Almakta Olup Türkiye'de İkamet Eden
+Kişilerin Avusturya'da İkamet Eden Aile Bireyleri
+
+        Avusturya'dan aylık/gelir almakta olup Türkiye'de ikamet eden kişinin, Avusturya'da
+ikamet eden ve Avusturya mevzuatına göre sağlık yardım hakkı bulunmayan aile bireylerine
+Avusturya yetkili kurumunun talebi halinde, Kurumca TR/A 4 formüleri düzenlenecektir.
+Avusturya yetkili kurumundan "A/TR 17 Form Talep Belgesi" ile bu kişiler için formüler
+talebi gelmesi halinde her bir aile bireyi için ayrı ayrı olmak üzere TR/A 4 formüleri
+düzenlenerek ilgili Avusturya yetkili kurumuna gönderilecektir.
+        TR/A 4 formüleri düzenlenirken aşağıdaki hususlara dikkat edilecektir:
+     Aylık/gelir sahibinin ikamet adresinin Türkiye, aile bireyinin ikamet adresinin
+     "Yurtdışı" olduğu Kimlik Paylaşım Sisteminden kontrol edilecektir. Bu kişilerden
+     ayrıca Avusturya ikamet ve/veya oturum belgesi istenecektir.
+     Aile bireyinin aylık/gelir sahibinin bakmakla yükümlüsü olup olmadığı SPAS üzerinden
+     kontrol edilecektir.
+
+         3.3. Her İki Akit Taraftan Aylık veya Gelir Alanların Sağlık Yardımları
+
+        Anlaşmanın 13 üncü maddesinin birinci fıkrası gereği, her iki akit taraf mevzuatına
+göre aylık veya gelir almakta olanlar ve bunların aile bireylerinin sağlık giderleri daimi
+ikamet ettikleri ülkenin yetkili kurumunca karşılanacaktır.
+        Bunların diğer akit tarafta geçici olarak bulunduğu sırada sağlık yardımlarından
+yararlanabilmeleri için daimi ikamet ettiği akit taraf yetkili kurumundan alınmış A/TR 3 veya
+TR/A 3 formülerini ibraz etmeleri gerekmektedir.
+         İkametin belirlenmesinde 2017/26 sayılı Genelgenin 6.1.1. maddesi, 27/3/2012
+tarihli ve 5937370 sayılı EHGM Genel Yazısı ve 24/12/2018 tarihli EHGM Genel Yazısı
+hükümlerine göre işlem yapılacaktır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 23/45
+       3.4. İş kazasına Uğrayan ya da Meslek Hastalığına Tutulan Sigortalının Diğer
+Akit Tarafta Geçici ya da Daimi İkameti Sırasında İş Kazası ve Meslek Hastalığı
+Sigortasından Yapılacak Sağlık Yardımları
+
+        Bir iş kazası veya meslek hastalığı dolayısıyla akit taraflardan birinin mevzuatına
+göre, sağlık yardımlarını talep etme hakkına sahip olan ve diğer akit taraf ülkesinde geçici
+veya daimi ikamet etmekte olan bir kişi, yetkili kurum nam ve hesabına, geçici veya daimi
+ikamet etmekte olduğu akit tarafta, bu kurum mevzuatına göre sağlık yardımı talep etme
+hakkına sahiptir.
+        3.4.1. Avusturya’da Geçici ya da Sürekli Görevi Sırasında İş Kazası ve Meslek
+Hastalığı Sigortasından Yapılacak Sağlık Yardımları
+
+ İlgili hükümler        Anlaşmanın 23 üncü maddesi, İdari Anlaşmanın 13 üncü maddesi
+ A/TR 6                 Kaza Sigortasından Sağlık Yardımının Ödenmesi
+
+        İş kazası veya meslek hastalığı nedeniyle Kurum mevzuatına göre sağlık yardım
+hakkına sahip olan ve Avusturya’da geçici veya sürekli görevi sırasında iş kazasına uğrayan
+ya da meslek hastalığına tutulan bir kişi, Kurum adına sağlık yardımlarından yararlanma
+hakkına sahiptir.
+        Kurum adına Avusturya'da sağlık yardımlarından yararlanmak isteyen sigortalı
+Avusturya yetkili kurumuna bu talebini bildirecektir.
+        Talebe istinaden Avusturya yetkili kurumundan (A) bölümü doldurulmuş olarak
+gelen A/TR 6 formülerinin (B) bölümü ilgili SGİM/SGM tarafından doldurulacaktır.
+        Formülerde adı geçen kişinin Kurumdan sağlık yardımına müstahak olup olmadığı
+SPAS programı üzerinden kontrol edilerek formülerin (B) Bölümünün 6 nolu “Karar” kısmı
+doldurularak Avusturya yetkili kurumuna bir nüshası iade edilecektir.
+        Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi Kurum mevzuatına göre,
+yardımların kapsamı ve ifa şekli ise Avusturya mevzuatına göre belirlenir.
+        A/TR 6 formüleri yalnızca iş kazasına uğrayan ya da meslek hastalığına tutulan
+sigortalılar için kullanılan formülerdir. Sigortalıların bakmakla yükümlü olduğu aile bireyleri
+için bu formüler düzenlenmeyecektir.
+        Ayrıca iş kazası/meslek hastalığı sigortası kapsamında Kurumdan gelir alan kişiler ile
+bunların bakmakla yükümlü olduğu aile bireyleri ise Avusturya'da geçici veya sürekli
+ikameti sırasında Kurumdan aylık/gelir alan kişiler için düzenlenen formülerler (TR/A 3 veya
+TR/A 4) ile Avusturya'da Kurum adına sağlık yardımlarından yararlanma hakkına sahiptir.
+
+      3.4.2. Türkiye'de Geçici ya da Sürekli Görevli Sırasında İş Kazası ve Meslek
+Hastalığı Sigortasından Yapılacak Sağlık Yardımları
+
+ İlgili hükümler        Anlaşmanın 23 üncü maddesi, İdari Anlaşmanın 13 üncü maddesi
+   TR/A 6               Kaza Sigortasından Sağlık Yardımının Ödenmesi
+
+        İş kazası veya meslek hastalığı nedeniyle Avusturya mevzuatına göre sağlık yardım
+talep etme hakkına sahip olan ve Türkiye'de geçici veya sürekli görevi sırasında iş kazasına
+uğrayan ya da meslek hastalığına tutulan bir kişi, Avusturya yetkili kurumu adına sağlık
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 24/45
+ yardımlarından yararlanma hakkına sahiptir.
+        Avusturya yetkili kurumu adına ülkemizde sağlık yardımlarından yararlanmak isteyen
+sigortalı veya gelir sahibi SGİM/SGM'lere bu talebini bildirecektir.
+        Talebe istinaden TR/A 6 formülerinin (A) bölümü sigortalının beyanına göre
+doldurularak 3.17 nolu kısmı sigortalıya imzalatılacak ve (4) nolu kısmı ilgili SGİM/SGM'ce
+imzalanarak Avusturya yetkili kurumuna iletilecektir.
+        Avusturya yetkili kurumundan (B) bölümü doldurulmuş olarak gelen TR/A 6
+formülerinde yardımların yapılabileceğinin bildirilmiş olması durumunda, Avusturya
+sigortalıları YUPASS kapsamında bulunduğundan, sisteme ilk defa kayıt olan kişilere ilgili
+SGİM/SGM’ce YUPASS'ta tescil kaydı açılarak YUPASS numarası verilecektir.
+        Sadece TR/A 6 formülerinde belirtilen sigortalı YUPASS programına kaydedilecektir.
+Formülerin (B) bölümü üzerinde herhangi bir düzeltme ya da ekleme yapılmayacaktır.
+        TR/A 6 formülerinde belirtilen tarih aralığındaki süreye göre sigortalı için YUPASS
+hak sahipliği ekranında aktivasyon açılacaktır.
+        YUPASS numarası bulunan kişinin daha sonraki başvurularında mevcut tescilleri
+üzerinden      ibraz edeceği yeni formülerdeki süre kadar hak sahipliği ekranından
+aktivasyonunun açılması sağlanacaktır.
+        Avusturya sigortalıları, YUPASS numarası ile birlikte kimlik veya pasaportlarını
+Kurumun anlaşmalı olduğu sağlık hizmet sunucularına ibraz etmek kaydıyla sağlık
+yardımlarından faydalanabileceklerdir.
+        Yardımlara hak kazanılıp kazanılmadığı, yardımların süresi Avusturya mevzuatına
+göre, yardımların kapsamı ve ifa şekli ise Kurum mevzuatına göre belirlenir.
+
+         3.5. Sağlık Yardım Hakkının Durdurulması ya da İptal Edilmesi
+
+        Akit taraflardan birinde daimi ikamet etmekte iken sağlık yardım hakkı sona eren
+kişiler için sağlık yardım hakkının durdurulduğuna ya da iptal edildiğine ilişkin bildirim
+yapılacaktır.
+
+      3.5.1. Avusturya’da Daimi İkamet Etmekte İken Sağlık Yardımlarından Kurum
+Adına Yararlananların Sağlık Yardım Hakkının Durdurulması ya da Sona Erdirilmesi
+
+İlgili hükümler          Anlaşmanın 11/1-a, 11/3 ve 13 üncü maddeleri, İdari Anlaşmanın 5 ve 7
+                         nci maddeleri
+TR/A 5                   Avusturya'da Devamlı İkamet Esnasında Sağlık Yardım Talep Hakkının
+                         Durması ya da Sona Ermesi ile İlgili Bildirim
+
+        Çalışanın Avusturya’daki aile bireylerinin, sigortalının bakmakla yükümlüsü
+sıfatlarını kaybetmeleri ve aylık/gelir sahibinin Türkiye'de sağlık yardım hakkının sona
+ermesi halinde Avusturya’da TR/A 4 belgesine istinaden sağlanan sağlık yardım hakkının
+iptal edilmesi gerekmektedir.
+        Bununla birlikte, bakmakla yükümlü olunan aile bireyinin bu özelliğini kaybetmesi,
+Avusturya'da sağlık yardımı hakkı elde etmesi ya da bu kişinin ölmesi gibi durumlarda da
+Avusturya’da sağlanan sağlık yardım hakkının sadece söz konusu aile bireyi için iptal
+edilmesi gerekmektedir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 25/45
+       Avusturya'da daimi ikamet eden ve ülkemiz adına sağlık yardımlarından faydalanan
+bu kişilerin sağlık yardım haklarının sonlandırılması için TR/A 5 formülerinin (A) bölümü,
+SGİM/SGM’lerce 3 nüsha olarak doldurularak onaylanacak ve ilgili Avusturya yetkili
+kurumuna 2 nüshası gönderilecektir.
+       TR/A 5 formülerini alan Avusturya yetkili kurumu, (B) bölümünü doldurarak
+onayladığı formülerin bir nüshasını ilgili SGİM/SGM’ye iade edecektir.
+       Avusturya yetkili kurumu tarafından onaylanarak iade edilen TR/A 5 formüleri
+SGİM/SGM’lerce hesaplaşma işlemlerinde kullanılmak üzere dosyasında muhafaza
+edilecektir.
+
+      3.5.2. Türkiye'de Daimi İkamet Etmekte İken Sağlık Yardımlarından Avusturya
+Adına Yararlananların Sağlık Yardım Hakkının Durdurulması ya da Sona Erdirilmesi
+
+İlgili hükümler          Anlaşmanın 11/1-a, 11/3 ve 13 üncü maddeleri, İdari Anlaşmanın 5 ve 7
+                         nci maddeleri
+   A/ TR 5               Türkiye'de Devamlı İkamet Esnasında Sağlık Yardım Talep Hakkının
+                         Durması ya da Sona Ermesi İle İlgili Bildirim
+
+        Çalışanın Türkiye'deki aile bireylerinin, sigortalının bakmakla yükümlüsü sıfatlarını
+kaybetmeleri ve aylık/gelir sahibinin Avusturya'da sağlık yardım hakkının sona ermesi
+halinde Türkiye'de A/TR 4 belgesine istinaden sağlanan sağlık yardım hakkının iptal
+edilmesi gerekmektedir.
+        Bu durumun Kurum tarafından tespit edilmesi halinde ilgili SGİM/SGM'ce
+YUPASS'ta sağlık yardım hakkı sonlandırılacaktır. Söz konusu sigortalı için Avusturya
+tarafından "TR/A 17 Form Talep Belgesi" ile A/TR 5 formülerinin gönderilmesi
+istenilecektir.
+        Ayrıca, bakmakla yükümlü olunan aile bireylerinin bu özelliklerini kaybetmeleri,
+Türkiye'de sağlık yardımı hakkı elde etmeleri ya da bu kişilerin ölmesi gibi durumlarda
+Türkiye'de Avusturya adına sağlanan sağlık yardım hakkının iptal edilmesi gerektiğinden, bu
+durumun tespit edilmesi halinde ilgili SGİM/SGM'ce YUPASS'ta sadece söz konusu aile
+bireyinin sağlık yardım hakkı sonlandırılacaktır. Ayrıca aile bireyinin Avusturya adına
+sağlanan sağlık yardım hakkının sona erdiği tarih belirtilerek ilgili A/TR 4 formülerinin
+örneğinin eklendiği yazı Avusturya tarafına gönderilecektir.
+        Bakmakla yükümlü olunan aile bireylerinin tamamının durum değişikliği nedeniyle
+Avusturya adına sağlık yardım haklarının sonlandırılması gerektiğinin tespit edilmesi
+durumunda ise ilgili SGİM/SGM'ce YUPASS'ta aile bireylerinin tamamının sağlık yardım
+hakları sonlandırılacaktır. Ayrıca, Avusturya tarafından "TR/A 17 Form Talep Belgesi" ile
+A/TR 5 formülerinin gönderilmesi istenilecektir.
+        A/TR 5 formülerinin (A) bölümü, Avusturya yetkili kurumunca 3 nüsha olarak
+doldurularak onaylanacak ve aylık/gelir sahibi ya da aile bireylerinin ikamet ettiği yerdeki
+SGİM/SGM’lere 2 nüshası gönderilecektir.
+        A/TR 5 formülerini alan SGİM/SGM, (B) bölümünü doldurarak onayladığı
+formülerin bir nüshasını ilgili Avusturya yetkili kurumuna iade edecektir.
+        Yardım hakkının sonlandırılmasına ilişkin formülerin Avusturya yetkili kurumundan
+30 günden fazla bir gecikmeyle gönderilmesi halinde, yardım talep hakkının sona erdiği tarih
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 26/45
+yerine bildirimin postaya verildiği tarih esas alınacaktır. Ancak, tüm aile bireylerinin
+ikametlerini Avusturya'ya nakletmesinde ya da aylık/gelir sahibinin ölmesi halinde
+sonlandırma belgesinde bildirilen tarih itibariyle sonlandırma işlemi yapılacaktır. A/TR 5
+formülerinin yardım hakkının sonlandığı tarihten itibaren 30 gün içerisinde gelmesi halinde
+ise Avusturya tarafından formüler üzerinde bildirilen bitiş tarihi itibariyle yardım hakkı
+YUPASS'ta sonlandırılacaktır.
+        Avusturya hastalık kasalarınca gönderilen A/TR 5 formülerinin postaya veriliş
+tarihinin tespit edilememesi durumunda, formülerin Kurum kayıtlarına intikal ettiği tarihten 7
+gün geriye gidilerek bulunacak tarih esas alınacaktır.
+        SGİM/SGM tarafından onaylanarak Avusturya yetkili kurumuna iade edilen A/TR 5
+formüleri hesaplaşma işlemlerinde kullanılmak üzere dosyasında muhafaza edilecektir.
+
+         3.6. İş Göremezlik veya Hastane Tedavisi ile İlgili Bildirim
+
+        Bir akit taraf mevzuatına göre sigortalı olan kişinin diğer akit taraftaki geçici
+bulunduğu sırada hastalık, analık, iş kazası veya meslek hastalığı sigortaları kapsamında
+geçici iş göremezliğe uğraması halinde yapılacak işlemler aşağıda yer almaktadır.
+
+       3.6.1. Kurum Sigortalısının İş Göremezlik veya Hastane Tedavisi ile İlgili
+Bildirimi
+
+ İlgili hükümler         Anlaşmanın 11/1 ve 3, 23 üncü maddeleri, İdari Anlaşmanın 5 ve 13
+                         üncü maddeleri
+    A / TR 7             İş göremezlik Durumu veya Hastane Tedavisi ile İlgili Bildirim
+
+        Kurum mevzuatına tabi sigortalının, Avusturya’da geçici görevi sırasında hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamında geçici iş göremezliğe uğraması
+halinde, Avusturya yetkili kurumunca, Kuruma bildirim A/TR 7 formüleri ile yapılacaktır.
+        Ayrıca, Kurum mevzuatına tabi sigortalı, aylık/gelir sahibi ve bunların beraberindeki
+aile bireylerinin de Avusturya’da geçici ikametleri sırasında yatılı tedavileri de Avusturya
+yetkili kurumunca, Kuruma A/TR 7 formüleri ile bildirilecektir.
+        Avusturya yetkili kurumlarınca gönderilen A/TR 7 formülerine istinaden hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamındaki para yardımları sadece
+Kurum mevzuatına göre tayin edilir ve doğrudan doğruya sigortalıya ödenir. Bu ödemelerde
+Avusturya yetkili kurumunun aracılığı söz konusu değildir.
+
+       3.6.2. Avusturya Sigortalısının İş Göremezlik veya Hastane Tedavisi ile İlgili
+Bildirimi
+
+  İlgili hükümler Anlaşmanın 11/1 ve 3 , 23 üncü maddeleri, İdari Anlaşmanın 5 ve 13 üncü
+                  maddeleri
+    TR/A 7        İş göremezlik Durumu veya Hastane Tedavisi ile İlgili Bildirim
+
+        Avusturya mevzuatına tabi sigortalının, Türkiye'de geçici görevi sırasında hastalık,
+analık, iş kazası veya meslek hastalığı sigortaları kapsamında geçici iş göremezliğe uğraması
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 27/45
+halinde, bununla ilgili Avusturya yetkili kurumuna bildirim, ekine iş göremezlik raporunun
+bir örneği eklenmiş TR/A 7 formüleri ile yapılacaktır.
+        Ayrıca, Avusturya mevzuatına tabi sigortalı, aylık/gelir sahibi ve bunların
+beraberindeki aile bireylerinin de Türkiye'de geçici ikametleri sırasında hastanede yapılan
+tedavileri de Kurumca, Avusturya yetkili kurumuna TR/A 7 formüleri ile bildirilecektir.
+        Yatılı tedavi için TR/A 7 formüleri YUPASS üzerinden elektronik ortamda otomatik
+olarak oluşturulduğundan söz konusu formülerin dökümleri YUPASS “Yatılı Tedavi Çoklu
+İşlemleri”nden “Toplu Çıktı Alma” ekranından alınacaktır. Ayrıca, dökümü alınan yatılı
+tedavi formüleri imzalanıp onaylandıktan sonra bir nüshası dosyasında muhafaza edilecek,
+diğer nüshası geciktirilmeksizin Avusturya yetkili kurumuna gönderilecektir.
+        Hesaplaşma esnasında yatılı tedavi formüleri gönderilmediği gerekçesiyle Avusturya
+yetkili kurumunca itiraz edilmesi durumunda söz konusu formülerin bir örneği Avusturya
+yetkili kurumuna gönderilecektir.
+        Kurumca gönderilen TR/A 7 formülerine istinaden hastalık, analık, iş kazası veya
+meslek hastalığı sigortaları kapsamındaki para yardımları ise sadece Avusturya mevzuatına
+göre tayin edilir ve ödenir. Bu ödemelerde Kurumun aracılığı söz konusu değildir.
+
+         4. Protezler, Büyük Cihazlar ve Önemli Sağlık Yardımları
+
+      Anlaşmanın 11 inci maddesinin ikinci fıkrası gereği, hesaplaşma işlemleri fiili
+yöntemle gerçekleştirilen kişilere protezlerin, büyük cihazların ve İdari Anlaşmanın 5 inci
+maddesinin dördüncü fıkrasında yer alan 500 Avro'nun üzerindeki önemli sağlık
+yardımlarının acil haller dışında verilmesi sağlık yardım bedelini ödeyecek olan yetkili
+kurumun iznine bağlıdır.
+      Hesaplaşma işlemleri götürü yöntemle gerçekleştirilen kişiler için ise yetkili
+kurumdan herhangi bir izin istenmeden ikamet edilen ülkenin mevzuatına göre sağlık
+yardımları verilecektir.
+
+         4.1. Avusturya’da Tedavi Gören Kurum Sigortalıları ve Aile Bireyleri
+
+ İlgili hükümler         Anlaşmanın 11/2 ve 11/3, 23/1 maddeleri, İdari Anlaşmanın 5 ve 13
+                         üncü maddeleri
+    A/TR 8               Protez, Büyük Çapta Araç Gereç ve Diğer Önemli Sağlık Yardımlarının
+                         Yapılması
+
+        Avusturya'da geçici ikamet ettiği sırada yada geçici görevi sırasında sağlık
+yardımlarından Kurum adına yararlanma hakkı bulunan; sigortalı, aylık/gelir sahibi ve
+bunların aile bireylerine protezlerin, büyük cihazların ve diğer büyük masraf gerektiren
+sağlık yardımlarının acil haller dışında yapılabilmesi için Avusturya yetkili kurumunca A/TR
+8 formüleri ile Kurumdan onay alınması gerekmektedir.
+        Avusturya yetkili kurumundan (A) Bölümü doldurulup onaylanmış olarak gelen A/TR
+8 formülerindeki söz konusu yardımın Kurum mevzuatına göre yapılıp yapılamayacağı,
+SGİM/SGM’lerin bağlı bulunduğu sağlık sosyal güvenlik merkezince incelenecek, verilecek
+karara göre formülerin (7) nolu kutusunda ilgili kutucuk işaretlenecek ve formülerin (B)
+bölümü ilgili SGİM/SGM tarafından doldurulup onaylanarak Avusturya yetkili kurumuna
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 28/45
+iade edilecektir.
+       Söz konusu formüler, (4.1) nolu kısmında yer alan "Acilen" kutucuğu işaretlenerek
+gönderilmiş ise herhangi bir işlem yapılmayarak hesaplaşma işlemleri için dosyasında
+muhafaza edilecektir.
+
+         4.2. Türkiye'de Tedavi Gören Avusturya Sigortalıları ve Aile Bireyleri
+
+İlgili hükümler          Anlaşmanın 11/2 ve 11/3, 23/1 maddeleri, İdari Anlaşmanın 5 ve 13
+                         üncü maddeleri
+   TR/A 8                Protez, Büyük Çapta Araç Gereç ve Diğer Önemli Sağlık Yardımlarının
+                         Yapılması
+
+        Türkiye'deki geçici ikamet ettiği sırada yada geçici görevi sırasında sağlık
+yardımlarından Avusturya yetkili kurumu adına yararlanma hakkı bulunan; sigortalı,
+aylık/gelir sahibi ve bunların aile bireylerine protezlerin, büyük cihazların ve diğer büyük
+masraf gerektiren sağlık yardımlarının acil haller dışında yapılabilmesi için Kurumca TR/A 8
+formüleri ile Avusturya yetkili kurumundan onay alınması gerekmektedir.
+        Kurumca TR/A 8 formülerinin (A) Bölümü doldurulup onaylanarak Avusturya yetkili
+kurumuna gönderilecek, Avusturya yetkili kurumundan (B) bölümü doldurulmuş olarak
+gelen TR/A 8 formülerindeki söz konusu yardımın Avusturya mevzuatına göre yapılabileceği
+belirtilmiş ise SGİM/SGM tarafından söz konusu yardımın verilmesi sağlanacaktır.
+        Söz konusu yardım acil durum nedeniyle verilmiş ise formülerin (4.1) nolu kısmında
+yer alan "Acilen" kutucuğu işaretlenecek ve (A) bölümü doldurulmuş olarak Avusturya
+yetkili kurumuna bilgi amaçlı olarak gönderilecektir.
+        Hesaplaşma esnasında TR/A 8 formüleri gönderilmediği gerekçesiyle Avusturya
+yetkili kurumunca itiraz edilmesi durumunda söz konusu formülerin bir örneği Avusturya
+yetkili kurumuna gönderilecektir.
+
+       5. Sağlık Yardımı Formülerini Almadan Diğer Akit Tarafta Bulunduğu Sırada
+Sağlık Yardımı Gören Kişilerin Masraflarının İadesine İlişkin Talepleri
+
+        İdari Anlaşmanın 6 ncı maddesine göre bir akit taraf mevzuatına göre sağlık
+yardımlarından yararlanma hakkı olan ve diğer akit tarafta ilgili sağlık yardım formülerini
+almadan sağlık yardımı alan kişinin, ödediği sağlık yardımı masraflarının iadesini
+mevzuatına tabi olduğu akit taraf kurumundan talep etmesi halinde, bu akit tarafça ilgiliye
+ödeme yapılabilmesi için diğer akit taraf yetkili kurumundan yardımların masraf tutarının
+bildirilmesi talep edilecektir.
+
+        5.1. Kurum Sigortalısının Avusturya'da Yaptığı Sağlık Yardım Masraflarına
+İlişkin Geri Ödeme Talepleri
+
+ İlgili hükümler            İdari Anlaşmanın 6 ncı maddesi
+    TR/A 9                  Sağlık Yardımları ile İlgili Ücret Tarifesi Bildirimi
+
+         Kurum mevzuatına göre sağlık yardımlarına müstahak olan sigortalı ya da aile
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 29/45
+bireyinin sağlık yardımı formüleri almadan Avusturya'da görmüş olduğu sağlık yardımlarına
+ilişkin masraflarını kendisi karşılaması ve sonrasında yapmış olduğu masrafların iadesi
+yönünde Kuruma talepte bulunması halinde söz konusu masraflar Avusturya yetkili
+kurumunca belirlenecek olan ücretler üzerinden sigortalıya ödenecektir.
+        Sigortalıya yapılacak olan ödemenin tutarının belirlenebilmesi için Avusturya yetkili
+kurumundan TR/A 9 formüleri ile yapılan tedaviye ilişkin masraf tutarının bildirilmesi
+istenilecektir.
+        TR/A 9 formüleri düzenlenirken dikkat edilmesi gereken hususlar aşağıda yer
+almaktadır.
+      Sigortalının Avusturya'daki sağlık yardımı aldığı sürelerde Kurumdan sağlık yardım
+      hakkı olup olmadığı SPAS üzerinden kontrol edilecektir.
+      Sağlık yardım hakkının olduğunun tespit edilmesi durumunda kişinin acil hal
+      kapsamında sağlık yardımı alıp almadığının araştırması SGİM/SGM’nin bağlı olduğu
+      sağlık sosyal güvenlik merkezince yapılacaktır.
+        Acil hal kapsamında sağlık yardımı yapıldığının tespit edilmesi durumunda TR/A 9
+formüleri düzenlenecektir. Yardımların acil hal kapsamı dışında yapıldığının tespiti halinde
+ise sigortalının talebi reddedilecektir.
+        Sigortalı ya da aile bireyinin iade talebi üzerine (A) bölümü doldurularak onaylanan
+ve 3 nüsha olarak düzenlenen TR/A 9 formülerinin ekine sağlık yardımına ilişkin raporlar ve
+masraf faturaları da eklenerek, iki nüshası sigortalının tedavi olduğu bölgedeki Avusturya
+hastalık kasasına gönderilecektir. İlgili hastalık kasasının tespit edilememesi halinde formüler
+Ek-3'te yer alan ilgili irtibat kurumunun adresine gönderilecektir.
+        Avusturya yetkili kurumundan (B) bölümü doldurulmuş olarak gelen formülerde yer
+alan tutarlar üzerinden sigortalıya ödemenin yapılacağı tarihteki T.C. Merkez Bankası döviz
+satış kuru esas alınarak Türk Lirası üzerinden ödeme yapılacaktır.
+
+        5.2 Avusturya Sigortalısının Türkiye'de Yaptığı Sağlık Yardım Masraflarına
+İlişkin Geri Ödeme Talepleri
+
+ İlgili hükümler       İdari Anlaşmanın 6 ncı maddesi
+    A/TR 9             Sağlık Yardımları ile İlgili Ücret Tarifesi Bildirimi
+
+         Avusturya’dan sağlık yardımlarından yararlanma hakkı olan ve sağlık yardımı
+formüleri olmadan ülkemizdeki geçici ikameti sırasındaki sağlık yardımı masraflarını kendisi
+karşılayan Avusturya sigortalısı ya da aile bireyinin ödediği sağlık yardımı masraflarının
+tazminini Avusturya yetkili kurumundan talep etmesi halinde, Avusturya yetkili kurumu
+A/TR 9 formüleri ile yapılan tedaviye ilişkin masraf tutarının bildirilmesini Kurumdan
+isteyecektir.
+         Avusturya yetkili kurumunca (A) bölümü doldurulmuş ve iki nüsha olarak gönderilen
+A/TR 9 formüleri ekindeki belgeler ile faturalar bağlı bulunan Sağlık Sosyal Güvenlik
+Merkezine gönderilerek acil durum nedeniyle verilen bir tedavi olup olmadığı araştırılmadan,
+belgelerde belirtilen sağlık yardımları tutarları Sağlık Uygulama Tebliği (SUT) fiyat
+tariflerine göre belirlenecek, sonrasında belirlenen tutarlar yurtdışı işlemleri servisince
+formülerin ilgili alanına yazılarak imzalanıp onaylandıktan sonra ilgili ülke sigorta
+kurumuna/hastalık kasasına iade edilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 30/45
+                             ÜÇÜNCÜ BÖLÜM
+           SAĞLIK YARDIM GİDERLERİNİN HESAPLAŞMASI İŞLEMLERİ
+
+         Anlaşma kapsamında verilen sağlık yardımlarının masraflarının ödenmesine ilişkin
+hususlar İdari Anlaşmanın 15 inci maddesinde tarif edilmiş olup, masraf ödemeleri fiili ve
+götürü tutarlar üzerinden gerçekleştirilecektir.
+         Fiili tutarlar üzerinden hesaplaşma; bir akit taraf mevzuatına göre sigortalı olan
+sigortalı ve bakmakla yükümlü oldukları aile bireylerinin, diğer akit tarafta geçici ikametleri
+sırasında hastalık, analık, iş kazası ve meslek hastalığı sigortasından sağlanan yardımlar ve
+tıbbi kontrollere ait masraflarının, yardımları yapan sigorta kurumunca diğer akit taraf
+kurumundan gerçek bedeller üzerinden talep ve tahsil edilmesidir.
+         Kurum ile Avusturya yetkili kurumu arasındaki fiili hesaplaşmalar 3'er aylık
+dönemler halinde yapılmaktadır.
+         Söz konusu dönemler ;
+      I. Dönem : 1 Ocak – 31 Mart,
+      II. Dönem : 1 Nisan – 30 Haziran,
+      III. Dönem : 1 Temmuz- 30 Eylül,
+      IV.Dönem : 1 Ekim-31 Aralık
+
+        Götürü tutarlar üzerinden hesaplaşma; bir akit taraf mevzuatına göre sigortalı olan
+kişilerin ve bunların bakmakla yükümlü aile bireylerinin, diğer akit tarafta daimi ikametleri
+sırasında sağlık yardımı yapılıp yapılmadığına bakılmaksızın ilgili sağlık yardım
+formülerindeki süreye bağlı olarak tespit edilecek olan ay sayılarına göre belirlenecek
+tutarların diğer akit taraf yetkili kurumundan talep edilmesidir.
+
+         1. Hesaplaşma İşlemleri
+
+       Diğer akit taraf ülkesinde yapılan sağlık yardım masraflarına ilişkin hesaplaşma
+işlemlerinde izlenecek usul ve esaslar aşağıda yer almaktadır.
+
+         1.1. Kurum Sigortalılarının Sağlık Yardımlarına İlişkin Hesaplaşma İşlemleri
+
+         1.1.1. Fiili Hesaplaşma
+
+ İlgili hükümler         Anlaşmanın 15/1 ve 23/3 üncü maddeleri, İdari Anlaşmanın 15 inci
+                         maddesi
+    A/TR 10              Yapılan Masrafların Gösterilmesi
+
+       Anlaşmanın hastalık, analık, iş kazası ve meslek hastalığı sigortalarına ilişkin
+hükümlerinin uygulanmasıyla ilgili olarak, Kurum adına Avusturya yetkili kurumunca
+sağlanan sağlık yardımlarına ilişkin masraflar fiili tutarlar üzerinden Avusturya yetkili
+kurumunca A/TR 10 formüleri ile Kurumdan talep edilmektedir.
+       İdari Anlaşmanın 15 inci maddesine göre, sağlık yardımlarına ilişkin tutarlar,
+yardımın sona ermesinden sonra veya üç aylık periyotlarla talep edilir ve talebin intikal ettiği
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 31/45
+tarihi takip eden iki ay içerisinde işlem sonuçlandırılır.
+         Kurum sigortalılarının, Avusturya işlemleri Kurum Sigortalıları Sağlık Sistemine
+(KUSAS) entegre edilinceye kadar fiili hesaplaşma işlemleri EHGM tarafından yapılacaktır.
+KUSAS'a entegrasyon sağlandıktan sonra bu işlemler ilgili SGİM/SGM'ce yapılacaktır.
+
+         1.1.2. Götürü Hesaplaşma
+
+       Kurum sigortalılarının Avusturya'da daimi ikametleri sırasında, bu kişilere sağlık
+yardımı yapılıp yapılmadığına bakılmaksızın TR/A 4 formülerindeki süreye bağlı olarak
+tespit edilecek olan ay sayılarına göre belirlenecek götürü tutarlar Avusturya yetkili
+kurumunca Kurumdan talep edilecektir.
+       Kurum sigortalılarının Avusturya işlemleri KUSAS'a entegre edilinceye kadar götürü
+hesaplaşma işlemleri EHGM tarafından yapılacaktır. KUSAS'a entegrasyon sağlandıktan
+sonra bu işlemler ilgili SGİM/SGM'ce yapılacaktır.
+
+         1.2. Avusturya Sigortalılarının Sağlık Yardımlarına İlişkin Masraf Belgesi
+
+         1.2.1. Fiili Hesaplaşma
+
+ İlgili hükümler         Anlaşmanın 15/1 ve 23/3 üncü maddeleri, İdari Anlaşmanın 15 inci
+                         maddesi
+    TR/A 10              Yapılan Masrafların Gösterilmesi
+
+       Anlaşmanın hastalık, analık, iş kazası ve meslek hastalıkları sigortalarına ilişkin
+hükümlerinin uygulanmasıyla ilgili olarak, Avusturya yetkili kurumu adına Kurumca
+sağlanan sağlık yardımlarına ilişkin masraflar fiili tutarlar üzerinden Avusturya yetkili
+kurumundan talep edilecektir.
+       TR/A 10 formüleri YUPASS üzerinden elektronik ortamda otomatik olarak
+oluşturulduğundan söz konusu formülerin dökümleri, ilgili dönemi takip eden ayın sonuna
+kadar YUPASS “Gerçek Bedeller” bölümü “Hesaplaşma İşlemleri”, “Toplu Liste Alma”
+ekranından EHGM'ce alınarak elektronik olarak ya da posta yoluyla manuel olarak
+Avusturya yetkili kurumuna gönderilecektir.
+
+         1.2.2. Götürü Hesaplaşma
+
+       Avusturya sigortalılarının ülkemizde daimi ikametleri sırasında, bu kişilere sağlık
+yardımı yapılıp yapılmadığına bakılmaksızın A/TR 4 formülerindeki süreye bağlı olarak
+tespit edilecek olan ay sayılarına göre belirlenecek götürü tutarlar Avusturya yetkili
+kurumundan talep edilecektir.
+       Avusturya sigortalılarının götürü hesaplaşma işlemlerine ilişkin ekranlar YUPASS'ta
+oluşturuluncaya kadar, kişilerin ve ay sayılarının tespiti manuel olarak ilgili SGİM/SGM'ce,
+hesaplaşma işlemleri ise EHGM tarafından yapılacaktır. YUPASS'ta ekranların oluşturulması
+sonrasında gelen ay girişi işlemleri ilgili SGİM/SGM tarafından, hesaplaşma işlemleri ise
+EHGM tarafından yapılacaktır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 32/45
+         2. Tıbbi Kontrole İlişkin Masraflar
+
+       Bir akit taraf mevzuatına göre sigortalı olan kişinin, diğer akit tarafta geçici ya da
+daimi ikameti sırasında maluliyet durumunun tespit edilebilmesi için gerekli olan tıbbi
+kontroller, kişinin sigortalı olduğu akit tarafın talebi üzerine ilgilinin geçici ya da daimi
+ikamet yeri kurumu tarafından yapılır. Bu kontrollere ilişkin masrafların hesaplaşmasında
+yapılacak işlemler aşağıda yer almaktadır.
+
+         2.1. Kurum Sigortalılarının Tıbbi Kontrolüne İlişkin Masraf Bildirimi
+
+       Avusturya’da geçici ya da daimi ikamet eden Kurum sigortalılarının maluliyet veya iş
+göremezlik durumlarının tespit edilebilmesi için öngörülen tıbbi kontroller, Kurumun talebi
+üzerine Avusturya yetkili kurumu tarafından yapılacaktır.
+       Yapılan tıbbi kontroller neticesinde ortaya çıkan masrafların Kuruma bildirimi A/TR
+10 formüleri ile yapılacaktır.
+       Şayet tıbbi kontroller her iki akit tarafın mevzuatlarının uygulanması için yapılıyorsa,
+masraflar Avusturya yetkili kurumunca karşılanır.
+
+         2.2. Avusturya Sigortalılarının Tıbbi Kontrolüne İlişkin Masraf Bildirimi
+
+        Ülkemizde geçici ya da daimi ikamet eden Avusturya sigortalılarının maluliyet veya
+iş göremezlik durumlarının tespit edilebilmesi için talep edilen tıbbi kontroller, Kurum
+tarafından yapılacaktır.
+        Avusturya yetkili kurumunca gönderilen yazıya istinaden tıbbi kontrol tedavileri
+YUPASS üzerinden takip edilecektir. Buna göre sisteme ilk defa kayıt olan kişilere ilgili
+SGİM/SGM’ce YUPASS'ta tescil kaydı açılarak YUPASS numarası verilecektir.
+        Tıbbi kontrol yapılacak kişiler için YUPASS "Gerçek bedeller" bölümünün altındaki
+"Tıbbi Tedavi İşlemleri" ekranından aktivasyon açılacaktır.
+        Bu kişilere, YUPASS numarası ile birlikte kimlik veya pasaportlarını da ibraz ederek
+Kurumun sevk ettiği sağlık hizmet sunucusunda Kurum adına tıbbi kontrolünü ücretsiz
+olarak yaptıracakları hususunda bilgi verilecektir.
+        Yapılan tıbbi kontroller neticesinde ortaya çıkan masrafların Avusturya yetkili
+kurumuna bildirimi TR/A 10 formüleri ile yapılacaktır.
+        Şayet tıbbi kontroller her iki akit tarafın mevzuatlarının uygulanması için yapılıyorsa,
+masraflar Kurumca karşılanır.
+
+
+                                    DÖRDÜNCÜ BÖLÜM
+                             CENAZE YARDIMLARI (ÖDENEKLERİ)
+
+       Anlaşmanın 16 ıncı maddesine göre, akit taraflardan birinin mevzuatına göre sigortalı,
+aylık/gelir sahibi olanlar ya da bunların aile bireyinin diğer akit taraf ülkesinde ölmesi
+durumunda, sigortalı olduğu akit taraf ülkesinde ölmüş gibi kabul edilerek hak sahipleri
+cenaze ödeneğine (ölüm yardımı) hak kazanır.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 33/45
+      Ölüm yardımı, yardıma müstahak olan kişinin diğer akit taraf ülkesinde ikamet
+etmekte olması halinde de yetkili kurum tarafından ödenir.
+
+
+                                 BEŞİNCİ BÖLÜM
+                     PRİM ALACAKLARININ İCRA YOLUYLA TAHSİLİ
+
+          Anlaşmanın 25 ve 30 uncu maddelerine göre bir akit taraf yetkili kurumuna prim
+borcu olup diğer akit tarafta ikamet edenlerden prim alacaklarının icra yoluyla tahsili alacaklı
+akit tarafın talebi üzerine diğer akit taraf yetkili kurumunca yapılacaktır.
+
+      1. Kurum Sigortalılarının Prim Borçlarının İcra Yoluyla Tahsili İçin Talep
+Belgesi
+
+ İlgili Hükümler         Anlaşmanın 25 ve 30 uncu maddeleri
+     TR/A 16             Prim Alacaklarının İcra Yoluyla Tahsili İçin Talep Belgesi
+
+         Anlaşmanın 25 ve 30 uncu maddelerine göre Kuruma prim borcu olup Avusturya’da
+ikamet edenlerden prim alacaklarının icra yoluyla tahsili Kurumun talebi üzerine Avusturya
+yetkili kurumunca yapılacaktır.
+         Kuruma prim borcu olup Avusturya’da ikamet eden kişilerden prim alacaklarının
+Avusturya yetkili kurumunca ilgiliden tahsil edilmesi için doldurulacak olan TR/A 16
+formülerinde I. Borç Bilgileri ve II. İcra Talebi kısımları Kurumca eksiksiz doldurulacak ve
+onaylanarak Avusturya yetkili kurumuna gönderilecektir.
+         Prim alacaklarının icra yoluyla tahsiline ilişkin işlemler Sigorta Primleri Genel
+Müdürlüğü'nce (SPGM) gerçekleştirilecektir.
+
+           2. Avusturya Sigortalılarının Prim Borçlarının İcra Yoluyla Tahsili İçin Talep
+Belgesi
+
+ İlgili Hükümler          Anlaşmanın 25 ve 30 uncu maddeleri
+    A/TR 16               Prim Alacaklarının İcra Yoluyla Tahsili İçin Talep Belgesi
+
+        Anlaşmanın 25 ve 30 uncu maddelerine göre Avusturya yetkili kurumuna prim borcu
+olup ülkemizde ikamet edenlerden prim alacaklarının icra yoluyla tahsili Avusturya yetkili
+kurumunun talebi üzerine Kurumca yapılacaktır.
+        Avusturya yetkili kurumuna prim borcu olup ülkemizde ikamet edenlerden prim
+alacaklarının Kurumca ilgiliden tahsil edilmesi talebiyle ilgili Avusturya’dan gelen A/TR 16
+formülerine istinaden ilgiliden tahsil edilmesi için mevzuatımızda öngörülen usullerle takip
+ve tahsili işlemleri ilgilinin ikamet ettiği ildeki SGİM/SGM tarafından yapılacaktır.
+        İlgiliden tahsil edilen miktar A/TR 16 formülerinin II. İcra Talebi kısmında yer alan
+Avusturya yetkili kurumuna ait hesap numarasına gönderilecek ve Avusturya yetkili
+kurumuna da bu hususta yazıyla bilgi verilecektir.
+          Prim alacaklarının icra yoluyla tahsiline ilişkin işlemler SPGM tarafından
+gerçekleştirilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 34/45
+                                         ALTINCI BÖLÜM
+                                     AYLIK VE GELİR İŞLEMLERİ
+
+       Aylık veya gelirlere ilişkin olarak Kurum ile Avusturya irtibat kurumları arasındaki
+belge alışverişi işlemleri ilgili SGİM/SGM tarafından yürütülecektir. Ancak, yetki devri ile
+ilgili mevzuat düzenlemesi yapılıncaya kadar söz konusu işlemler EHGM tarafından
+yapılacaktır.
+
+         1. Yaşlılık, Malullük ve Ölüm Aylığı Taleplerine İlişkin İşlemler
+
+        Anlaşmaya göre her iki akit tarafta birden çalışması bulunan bir sigortalının akit
+taraflardan birindeki prim ödeme gün sayısı, aylığa hak kazanmaya yetiyorsa bu akit taraf
+sadece kendi mevzuatına göre geçen sigortalılık sürelerini dikkate alır. Söz konusu sürelerin
+bu akit taraf mevzuatına göre aylığa hak kazanmaya yetmemesi durumunda ise Anlaşmanın
+17 nci maddesine göre diğer akit taraftaki sigortalılık süreleri, aynı zamana rastlamamak
+kaydıyla birleştirilecektir.
+          Anlaşmanın 28 inci maddesi gereği, akit taraflardan birine yapılması gereken bir
+başvurunun diğer akit taraftaki yetkili kuruma yapılmış olması durumunda da başvuru ilgili
+akit tarafın yetkili kurumuna yapılmış sayılır.
+          Aylıklara ilişkin Kurum ile Avusturya irtibat kurumları arasında yürütülmesi
+gereken işlemlerin tamamı sigortalının son çalışmasının geçtiği SGİM/SGM tarafından
+yürütülecektir.
+          Ancak Kurumdan aylık alan sigortalıların Anlaşma kapsamında Avusturya'dan aylık
+talebinde bulunmaları durumunda, sigortalının aylık talebine ilişkin işlemler kişinin aylık
+dosyasının bulunduğu SGİM/SGM tarafından yürütülecektir.
+          Türkiye - Avusturya Sosyal Güvenlik Anlaşması kapsamında malullük, yaşlılık
+veya ölüm aylıklarına hak kazanılması için Kanunun 4/1-(a), 4/1-(b) ve 4/1-(c) bendi ve 506
+sayılı Kanunun Geçici 20 nci maddesi kapsamındaki çalışmalar, Avusturya’daki sigortalılık
+süreleriyle aynı zamana rastlamamak koşulu ile birleştirilebilmektedir.
+          Anlaşma, sigortalıların, Anlaşmanın yürürlük tarihinden önceki hizmetlerini de
+kapsamakta olup, herhangi bir yardıma hak kazanılmasında bu süreler de dikkate alınacaktır.
+
+         1.1. Türkiye'den Yapılan Yaşlılık, Malullük ve Ölüm Aylığı Başvurularına
+İlişkin İşlemler
+
+ İlgili hükümler           Anlaşmanın 17 ve 18 inci maddeleri, İdari Anlaşmanın 8 inci maddesi,
+                           Avusturya'dan Emeklilik Başvurusunun Değerlendirilmesi için Ek
+                           Bilgiler (Ek Bilgiler Formu)
+ TR/A 12                   Dilekçe Bildirimi
+ TR/A 14                   Türkiye'deki Sigortalılık Süreleri Hakkında Belge
+ TR/A 15                   Teferruatlı Tıbbi Rapor
+
+       Sigortalı ve aylık/gelir sahibi hakkındaki bilgi ve belgeler Avusturya yetkili
+kurumuna gönderilirken bir örneği Ek-4'de yer alan "Bildirim Yazısı"ndaki ilgili kutucuklar
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 35/45
+işaretlenecek ve Ek Bilgiler Formu, TR/A 12, TR/A 14 ve TR/A 15 formülerlerinin
+Avusturya sigorta kurumlarına gönderilmesinde üst yazı yerine kullanılacaktır.
+          Avusturya yetkili kurumunun talebi halinde düzenlenen "Avusturya'dan Emeklilik
+Başvurusunun Değerlendirilmesi için Ek Bilgiler" adlı formülerin (Ek Bilgiler Formu) ilgili
+bölümleri sigortalının beyanı esas alınarak talep ettiği aylığın türüne göre doldurulacak ve
+sigortalı tarafından imzalanacaktır.
+          Sigortalının talebinin Kanunun 4/1-(a) ve 4/1-(b) bentleri kapsamında
+değerlendirilmesi gerekiyorsa aylık taleplerine ilişkin formülerlerin düzenlenmesi ve
+Avusturya yetkili kurumuna gönderilmesi işlemleri, sigortalının son çalışmasının geçtiği ya
+da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM tarafından
+yürütülecektir. Bu kapsamdaki sigortalıların Avusturya kurumlarından hizmet isteme ve
+hizmet gönderme işlemleri de sigortalının son çalışmasının geçtiği ya da Kurumdan aylık
+alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM tarafından yapılacaktır.
+
+           Sigortalıların aylık taleplerine ilişkin işlemler aşağıdaki şekilde yürütülecektir:
+
+        1.1.1. Sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması
+halinde aylık dosyasının bulunduğu SGİM/SGM'ye başvuru yapması
+
+          Anlaşmaya göre aylık bağlanması için SGİM/SGM’lere başvuran aylık talep
+sahipleri, öncelikle yurtdışı işlemleri servislerine yönlendirilecektir.
+          Bu servislerce TR/A 12 formüleri ve Avusturya yetkili kurumunun talebi halinde
+düzenlenen "Ek Bilgiler Formu" sigortalının veya hak sahibinin durumuna uygun olarak
+bilgisayar ortamında düzenlenecektir. Ayrıca sigortalıdan bir örneği Ek-5'de yer alan "Sosyal
+Güvenlik Sözleşmelerine Göre Akit Ülkelerden Gelir/Aylık Talep Dilekçesi" ile birlikte
+varsa Avusturya’da geçen sigortalılık sürelerine ait belge örnekleri alınacaktır.
+          Avusturya yetkili kurumunun talebi halinde düzenlenen Ek Bilgiler Formu,
+sigortalının beyanı esas alınarak talep ettiği aylığın türüne göre ilgili yerleri doldurulacak ve
+sigortalı tarafından imzalanacaktır.
+          Sigortalının ülkemizdeki hizmetlerinin toplanması, birleştirilmesi ve tespitine
+yönelik işlemler, yürürlükteki usul ve esaslar dahilinde yürütülecek olup, talep sahibinin
+ülkemizde geçen çalışmalarına ait TR/A 14 formüleri sigortalının son çalışmasının geçtiği ya
+da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM tarafından
+düzenlenecek ve onaylanacaktır.
+          Malullük aylığı talebi söz konusu ise, sigortalının başvurduğu SGİM/SGM
+tarafından sağlık hizmeti sunucusuna sevk edilerek TR/A 15 formülerinin düzenlenmesi
+sağlanacaktır. Sevk işleminde TR/A 15 formülerinin 1.1, 1.2 ve 1.4. numaralı kısımları
+SGİM/SGM tarafından doldurulacaktır.
+          Ek Bilgiler Formu, TR/A 12, TR/A 14 ve malullük aylığı talebi durumunda
+düzenlenecek olan TR/A 15 formüleri, ikişer nüsha olarak düzenlenecek, formülerlerin bir
+nüshası dosyasında muhafaza edilecek diğer nüshası Bildirim Yazısı ekinde Avusturya
+yetkili kurumuna gönderilecektir.
+          Türkiye tarafından ekleri ile birlikte gönderilen formülerleri alan Avusturya yetkili
+kurumu, sigortalının talebini kendi mevzuatı kapsamında değerlendirecektir. Avusturya
+yetkili kurumunca aylık kararının ilgili SGİM/SGM'ye veya Kamu Görevlileri Emeklilik
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 36/45
+Daire Başkanlığına (KGEDB) A/TR 11 formüleri ile bildirilmesi halinde ayrıca bir işlem
+yapılmaksızın ilgili formüler dosyasında muhafaza edilecektir.
+          Sigortalının ülkemizdeki aylık talebine ilişkin işlemlerde yürürlükteki usul ve
+esaslar dahilinde, sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması
+halinde aylık dosyasının bulunduğu SGİM/SGM tarafından yürütülecek ve aylık kararı
+sigortalıya ve Avusturya yetkili kurumuna bildirilecektir.
+          Avusturya yetkili kurumundan hizmet isteme işlemleri sigortalının son çalışmasının
+geçtiği SGİM/SGM tarafından Bildirim Yazısı ile yapılacaktır.
+
+        1.1.2. Sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması
+halinde aylık dosyasının bulunduğu SGİM/SGM'den farklı bir SGİM/SGM'ye başvuru
+yapması
+
+          Anlaşmaya göre aylık bağlanması için SGİM/SGM’lere başvuran aylık talep
+sahipleri, öncelikle Yurtdışı İşlemleri Servisine yönlendirilecektir.
+          Bu servislerce yapılacak kontrol neticesinde sigortalının başvurusunun son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'den farklı bir SGİM/SGM'de olduğunun tespit edilmesi halinde, aylık talebini
+alan SGİM/SGM’lerce TR/A 12 formülerinin bütün bölümleri ve Ek Bilgiler Formunun talep
+edilen aylık türüne ilişkin bölümleri sigortalı ile birlikte bilgisayar ortamında doldurulacaktır.
+          Malullük aylığı talebi söz konusu ise talep sigortalının başvurduğu SGİM/SGM
+tarafından sigortalının son çalışmasının geçtiği ya da kurumdan aylık alıyor olması halinde
+aylık dosyasının bulunduğu SGİM/SGM'ye yönlendirilecektir. Bu SGİM/SGM tarafından
+sigortalının başvurduğu ildeki sağlık hizmet sunucusuna sevk işlemi yapılacak ve sonrasında
+TR/A 15 formülerinin düzenlenmesi işlemleri de bu SGİM/SGM tarafından sağlanacaktır.
+Sevk işleminde TR/A 15 formülerinin 1.1, 1.2 ve 1.4. numaralı kısımları SGİM/SGM
+tarafından diğer kısımları ise ilgili doktor tarafından doldurulacaktır.
+          Ek Bilgiler Formu, TR/A 12 ve malullük aylığı talebi durumunda düzenlenecek olan
+TR/A 15 formüleri, bir örneği Ek-5' de yer alan "Sosyal Güvenlik Sözleşmelerine Göre Akit
+Ülkelerden Gelir/Aylık Talep Dilekçesi" ile birlikte varsa Avusturya’da geçen sigortalılık
+sürelerine ait diğer belge örnekleri alınarak sigortalının son çalışmasının geçtiği ya da
+Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM'ye
+gönderilecektir.
+          Sigortalının son çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde
+aylık dosyasının bulunduğu SGİM/SGM tarafından yapılacak diğer işlemler Genelgenin bu
+bölümünde yer alan "1.1.1) Sigortalının son çalışmasının geçtiği ya da Kurumdan aylık
+alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM'ye başvuru yapması" başlığı
+altındaki açıklamalara göre sonuçlandırılacaktır.
+
+        1.1.3. Türkiye'de Çalışması Bulunmayan Sigortalının Avusturya'dan Aylık
+Talebine İlişkin İşlemler
+
+       Ülkemizde çalışması bulunmayan sigortalıların Avusturya'dan aylık talebinde
+bulunmak için Kuruma yaptığı başvurulara ilişkin tüm işlemler ilgilinin başvurduğu
+SGİM/SGM tarafından gerçekleştirilecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 37/45
+         1.1.4. Kanunun 4/1-(c) bendi Kapsamındaki Sigortalıların Aylık Talebine
+İlişkin İşlemler
+
+        Son çalışması Kanunun 4/1-(c) bendi kapsamında olan veya 2829 sayılı Kanuna ya
+da Kanunun 53 üncü maddesine göre Kanunun 4/1-(c) bendi kapsamında aylık bağlanması
+gereken sigortalıların aylık taleplerine ilişkin formüler, ikamet edilen veya başvuru yapılan
+yerdeki SGİM/SGM tarafından düzenlenerek iki nüsha halinde Avusturya yetkili kurumuna
+gönderilmek üzere EHGM KGEDB'ye iletilecektir. Bu kapsamdaki sigortalıların Avusturya
+kurumlarından hizmet isteme ve hizmet gönderme işlemleri aylık alanlar için EHGM
+KGEDB tarafından, aylık almayanlar için ise EHGM Kamu Görevlileri Tescil ve Hizmet
+Daire Başkanlığı (KGTHDB) tarafından yürütülecektir.
+
+         1.2. Avusturya'dan Yapılan Yaşlılık, Malullük ve Ölüm Aylığı Taleplerine
+İlişkin İşlemler
+
+İlgili hükümler        Anlaşmanın 17 ve 18 inci maddeleri, İdari Anlaşmanın 8 inci maddesi,
+A/TR 11                Bildirim
+A/TR 12                Dilekçe Bildirimi
+A/TR 14                Türkiye'deki Sigortalılık Süreleri Hakkında Belge
+A/TR 15                Teferruatlı Tıbbi Rapor
+
+          Avusturya’da ikamet eden sigortalılar, her türlü aylık ve hizmet birleştirme
+taleplerini Avusturya yetkili kurumuna yapacaklardır. Avusturya yetkili kurumu, malullük,
+yaşlılık ve ölüm aylığı ile hizmet birleştirilmesine ilişkin her türlü taleplerini A/TR 11 ile
+birlikte A/TR 12 ve A/TR 14 formülerleri ile sigortalının son çalışmasının geçtiği ya da
+Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM'deki Yurtdışı
+İşlemleri Servisi tarafından yürütülecektir.
+          Avusturya yetkili kurumlarınca sigortalının Türkiye'deki son sigortalılık süresinin
+hangi il dahilinde geçtiği tespit edilmemiş ise buna ilişkin talepler, EHGM Yurtdışı
+Sözleşmeler ve Emeklilik Hizmetleri Daire Başkanlığına (YSEDB) intikal ettirilecek, adı
+geçen Daire Başkanlığınca ilgili sosyal güvenlik il müdürlüğüne/merkezine gönderilecektir.
+          Avusturya'dan gelen aylık taleplerinin sigortalının son çalışmasının geçtiği ya da
+Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu SGİM/SGM'den farklı bir
+SGİM/SGM'ye gönderilmesi durumunda, talep geciktirilmeksizin sigortalının son
+çalışmasının geçtiği ya da Kurumdan aylık alıyor olması halinde aylık dosyasının bulunduğu
+SGİM/SGM'ye iletilecektir.
+          Talebi alan SGİM/SGM, Kurum mevzuatı ve Sözleşme hükümleri kapsamında
+hizmetleri birleştirecek ve kararı sigortalıya doğrudan, Avusturya yetkili kurumuna Bildirim
+Yazısı ile bildirecektir.
+          Malullük aylığı taleplerinde Avusturya yetkili kurumu tarafından A/TR 15 formüleri
+de gönderilecektir. Avusturya'dan gelen malullük aylığı talepleri de Kurum mevzuatı
+çerçevesinde değerlendirilerek, aylık talebi sonuçlandırılacaktır.
+           Sigortalının aylık talebinin, Kanunun 4/1-(c) bendi kapsamında değerlendirilmesi
+gerekiyorsa yukarıda sayılan işlemler EHGM KGEDB tarafından yürütülecektir.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 38/45
+           2. Aylıkların Hesaplanması
+
+           2.1. Anlaşma Kapsamında Müstakil Aylık Bağlanması
+
+          Anlaşmanın 22 nci maddesinin birinci fıkrasına göre başvuru sahibinin aylığa hak
+kazanmasında sadece Türkiye’deki sigortalılık sürelerinin yeterli olması durumunda,
+Kanunun ilgili hükümlerine göre aylık bağlama işlemleri gerçekleştirilecek, Avusturya’da
+geçen süreler aylığın hesabında dikkate alınmayacaktır.
+        Örnek 1: Avusturya'da 1/1/1982-31/3/1987 tarihleri arasında 1890 gün, Türkiye'de
+Kanunun 4/1-(a) bendi kapsamında 1/6/1987-31/12/2012 tarihleri arasında fasılalı olarak
+5600 gün çalışması olan ve 6/4/2018 tarihinde yaşlılık aylığı talebinde bulunan, 10/9/1964
+doğumlu erkek sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı
+bağlanabilmesi için; Türkiye'deki ilk işe giriş tarihine göre (1/6/1987) 25 yıllık sigortalılık
+süresi, 5375 prim ödeme gün sayısı ve 50 yaş şartlarının oluşması gerekmektedir.
+        Buna göre, yaşlılık aylığı talep tarihinde Türkiye'de 25 yıllık sigortalılık süresi, 5600
+günü ve 53 yaşı bulunan sigortalının Avusturya’da geçen sigortalılık süreleri dikkate
+alınmaksızın, ülkemizde geçen çalışmalarına göre müstakil yaşlılık aylığı bağlanacaktır.
+       Örnek 2: Avusturya’da 1/1/1986-31/12/1990 tarihleri arasında 1440 gün; Türkiye’de
+1/6/1992-31/5/2017 tarihleri arasında Kanunun 4/1-(b) bendi kapsamında 9000 gün hizmeti
+bulunan 1/1/1960 doğumlu erkek sigortalı 14/3/2018 tarihinde yaşlılık aylığı talebinde
+bulunmuştur.
+        Kanunun 4/1-(b) bendi kapsamında geçen hizmetleri dikkate alındığında talep tarihi
+itibariyle 53 yaş ve 9000 gün hizmet koşulları oluşmuştur. Avusturya’da geçen sigortalılık
+süreleri dikkate alınmaksızın ilgiliye müstakil yaşlılık aylığı bağlanacaktır.
+
+         2.2. Anlaşma Kapsamında Kısmi Aylık Bağlanması
+
+        Anlaşmanın 22 nci maddesinin ikinci fıkrası gereğince, Türkiye'deki sigortalılık
+sürelerinin aylığa hak kazanmaya yetmemesi durumunda aynı zamana rastlamamak kaydıyla
+Avusturya'daki sürelerle birleştirilerek aylığa hak kazanma durumu değerlendirilecektir.
+Aylık bağlama işlemi yapılırken sadece Türkiye’de geçen çalışmalara ait Prime Esas Kazanç
+(PEK) dikkate alınacaktır.
+          Kısmi aylık, (Toplam prim ödeme gün sayısı üzerinden hesaplanan teorik aylık
+miktarı x Türk mevzuatına göre geçen prim ödeme gün sayısı / Toplam prim ödeme gün
+sayısı) formülüne göre hesaplanacaktır.
+        Örnek 1: Avusturya'da 1/1/1982-31/3/1987 tarihleri arasında 1890 gün, Türkiye'de
+Kanunun 4/1-(a) bendi kapsamında 1/6/1995-5/4/2018 tarihleri arasında fasılalı olarak 5960
+gün çalışması olan ve 6/4/2018 tarihinde yaşlılık aylığı talebinde bulunan 10/9/1962
+doğumlu erkek sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı
+bağlanabilmesi için; Türkiye'deki ilk işe giriş tarihine göre (1/6/1995) 25 yıllık sigortalılık
+süresi, 5750 prim ödeme gün sayısı ve 55 yaş şartlarının oluşması gerekmektedir.
+        6/4/2018 tarihli talebe göre, Türkiye'deki çalışmalar ile 5750 prim ödeme gün sayısı
+ve 55 yaş şartı oluşmakla birlikte, 25 yıl sigortalılık süresi şartı oluşmamaktadır. Bu nedenle,
+ilgiliye müstakil yaşlılık aylığı bağlanmasına imkan bulunmamaktadır.
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 39/45
+        Avusturya'da çalışmaya başlanan 1/1/1982 tarihine göre kısmi yaşlılık aylığı
+bağlanabilmesi için 25 yıllık sigortalılık süresi, 5075 prim ödeme gün sayısı ve 46 yaş
+şartlarının oluşması gerekmektedir. Yaşlılık aylığı talep tarihi itibariyle aylık bağlama şartları
+oluştuğundan ilgiliye Avusturya süreleri de dikkate alınarak kısmi yaşlılık aylığı
+bağlanacaktır.
+        Aylık bağlanırken sadece Türkiye’de geçen çalışmalara ait prime esas kazanç dikkate
+alınmak suretiyle Türkiye'de ve Avusturya'da geçen toplam 7850 gün üzerinden teorik aylık
+hesaplanacak ve bulunan tutarın Türkiye'de geçen 5960 gün çalışmaya istinaden 0,7592
+(5960/7850 = 0,7592) oranı karşılığında kısmi aylık ödenecektir.
+        Örnek 2: Avusturya'da 1/4/1986-31/3/1991 tarihleri arasında 1800 gün; Türkiye’de
+1/6/1992 – 31/5/2017 tarihleri arasında Kanunun 4/1-(b) bendi kapsamında 9000 gün hizmeti
+bulunan 1/1/1967 doğumlu erkek sigortalı 3/5/2018 tarihinde aylık talebinde bulunmuştur.
+        Kanunun 4/1-(b) bendi kapsamında geçen hizmetleri dikkate alındığında talep tarihi
+itibariyle 53 yaş ve 25 yıl hizmet koşulları aranacaktır. Talep tarihinde ilgili, 25 yıl hizmet
+şartını yerine getirmiş ise de 53 yaş koşulunu yerine getirmediğinden müstakil yaşlılık aylığı
+bağlanamamaktadır.
+        Bu durumda, ilgilinin Avusturya'da geçen süreleri de dikkate alınarak talep tarihi
+itibariyle kısmi yaşlılık aylığı bağlanabilmesi için 25 yıl ve 50 yaş koşulu aranacaktır. Talep
+tarihi itibariyle bu koşullar yerine geldiğinden ilgiliye Türkiye'de ve Avusturya'da geçen
+toplam 10800 gün üzerinden teorik aylık hesaplanacak ve bulunan tutarın Türkiye'de geçen
+9000 gün çalışmaya istinaden 0,8333 (9000/10800=0,8333) oranında kısmi aylık
+ödenecektir.
+
+           3- Ortak Hükümler
+
+           3.1. Bir Yıldan Az Sigortalılık Süreleri
+
+          Anlaşmanın 18 inci maddesi gereği bir akit tarafın mevzuatına göre geçen
+sigortalılık sürelerinin 1 yıldan az olması (prim ödeme gün sayısının 360 günden az olması)
+durumunda ilgili akit tarafça aylık hesabında dikkate alınmaz. Ancak, bu durum, bu akit taraf
+mevzuatına göre bir yardım hakkının sadece bu sigortalılık sürelerine istinaden kazanılmış
+olması halinde geçerli değildir.
+         Bu durumda, söz konusu bir yıldan az sigortalılık süreleri, diğer akit taraf sosyal
+sigorta mercii tarafından, bir yardım hakkının kazanılması, idamesi veya ihya edilmesi ve
+miktarı bakımından sanki bu süreler kendi mevzuatına göre geçmiş gibi dikkate alınarak
+müstakil aylık hesabında gün olarak dahil edilir.
+          Söz konusu bir yıllık süre Türkiye ile Avusturya arasında imzalanan ilk Anlaşmanın
+yürürlükte kaldığı 1/10/1969-1/4/1985 tarihleri arasında 6 ay olarak uygulanmıştır.
+          Örnek: Avusturya'da 1/1/1991-30/9/1991 tarihleri arasında 270 gün, Türkiye'de
+4/1-(a) kapsamında 1/6/1992-31/12/2012 tarihleri arasında fasılalı olarak 5380 gün çalışması
+olan ve 16/12/2018 tarihinde yaşlılık aylığı talebinde bulunan 2/5/1963 doğumlu erkek
+sigortalıya sadece Türk mevzuatına tabi geçen hizmetleriyle yaşlılık aylığı bağlanabilmesi
+için; Türkiye'deki ilk işe giriş tarihine göre (1/6/1992) 25 yıllık sigortalılık süresi, 5600 prim
+ödeme gün sayısı ve 53 yaş şartlarının oluşması gerekmektedir.
+        16/12/2018 tarihli talebe göre, Türkiye'deki çalışmalar ile 25 yıl sigortalılık süresi ve
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 40/45
+53 yaş şartı oluşmakla birlikte, ilgilinin 5600 prim ödeme gün sayısı olmadığından müstakil
+yaşlılık aylığı bağlanmasına imkan bulunmamaktadır.
+        Ancak, Anlaşmanın 18 inci maddesinin ikinci fıkrasına göre Avusturya'da çalışmaya
+başlanan 1/1/1991 tarihi ilk işe giriş tarihi olarak alındığında kısmi yaşlılık aylığı
+bağlanabilmesi için 25 yıllık sigortalılık süresi, 5525 prim ödeme gün sayısı ve 52 yaş
+şartlarının oluşması gerekmektedir.
+        Buna göre, Türkiye'de ve Avusturya'da geçen toplam 5650 gün (5380+270) ile
+aylık bağlama şartları oluştuğundan ilgiliye Anlaşma'ya istinaden müstakil yaşlılık aylığı
+bağlanacaktır.
+
+      3.2. 01.10.1996 Tarihinden Önce Bağlanan Müstakil Aylıkların Kısmi Aylığa
+Dönüştürülmesi
+
+        1/10/1996 tarihine kadar yürürlükte kalan Anlaşmanın 22 nci maddesinin ikinci
+fıkrasına göre 1/10/1996 tarihi öncesinde Kurumca bağlanan müstakil aylık, Avusturya
+tarafından aynı kişiye 1/10/1996 tarihinden önce aylık bağlanması şartıyla, Kurumca
+bağlanan aylık Avusturya tarafından aylığın bağlandığı tarih itibariyle kısmi aylığa
+dönüştürülecektir.
+         Örnek 1: Türkiye'de Kanunun 4/1-(a) bendi kapsamında 1/1/1960-31/12/1980
+tarihleri arasında fasılalı olarak 3600 gün, Avusturya'da ise 1/1/1982-31/12/1989 tarihleri
+arasında 96 ay (2880 gün) çalışması olan 1/7/1930 doğumlu erkek sigortalı, 10/2/1990
+tarihinde Kuruma yaşlılık aylığı talebinde bulunmuş ve sigortalıya 1/3/1990 tarihinden
+itibaren müstakil yaşlılık aylığı bağlanmıştır.
+        Sigortalıya 65 yaşını doldurduğu 1/7/1995 tarihi itibariyle Avusturya tarafınca da
+aylık bağlanmıştır.
+        Avusturya tarafınca sigortalıya aylık bağlanması nedeniyle Kurumca bağlanan aylık,
+Avusturya'nın aylık bağlama tarihi itibariyle, 1/10/1996 tarihine kadar yürürlükte kalan
+Anlaşmanın 22 nci maddesinin ikinci fıkrasına istinaden kısmi aylığa dönüştürülmesi
+gerekmektedir.
+
+        Örnek 2: Türkiye'de Kanunun 4/1-(a) bendi kapsamında 1/1/1960-31/12/1980
+tarihleri arasında fasılalı olarak 3600 gün, Avusturya'da ise 1/1/1982-31/12/1994 tarihleri
+arasında 156 ay (4680 gün) çalışması olan 1/1/1930 doğumlu erkek sigortalı 28/1/1995
+tarihinde yaşlılık aylığı talebinde bulunmuştur.
+          Sigortalının 65 yaşını doldurduğu 1/1/1995 tarihi itibariyle Avusturya tarafınca da
+bu talebine istinaden yaşlılık aylığı bağlandığı anlaşılmıştır.
+          Avusturya yetkili kurumunca aylık bağlanması nedeni ile sigortalının Türk
+mevzuatına göre müstakil yaşlılık aylığına hak kazanmasına rağmen, aylık talebinin
+1/10/1996 tarihinden önce olması ve 1/10/1996 tarihine kadar yürürlükte kalan Anlaşmanın
+22 nci maddesinin ikinci fıkrasına istinaden kısmi aylık olarak ödenmesi gerekmektedir.
+
+     3.3. 1/10/1996 - 1/12/2000 Tarihleri Arasında Müstakil Aylığa Hak Kazanmasına
+Rağmen Kısmi Bağlanan Aylıkların Müstakil Aylığa Dönüştürülmesi
+
+         Türkiye Cumhuriyeti ile Avusturya Cumhuriyeti arasındaki ilk sosyal güvenlik
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 41/45
+anlaşmasının feshedildiği 1/10/1996 tarihinden yeni Anlaşmanın yürürlüğe girdiği 1/12/2000
+tarihine kadar Türkiye'de geçen hizmetleri dikkate alındığında müstakil aylığa hak
+kazanmasına rağmen kısmi aylık bağlananların, bu aylıklarının yeniden aylık hesaplanarak
+müstakil aylığa dönüştürülmesi gerekmektedir.
+        Örnek: Türkiye'de Kanunun 4/1-(a) bendi kapsamında 1/1/1960-31/12/1980 tarihleri
+arasında fasılalı olarak 5000 gün, Avusturya'da ise 1/11/1993-31/12/1994 tarihleri arasında
+13 ay (390 gün) çalışması olan 1/7/1951 doğumlu erkek sigortalı 28/1/1997 tarihinde yaşlılık
+aylığı talebinde bulunmuştur.
+        Talebine istinaden kendisine Türkiye-Avusturya Sosyal Güvenlik Anlaşmasına göre
+1/12/1996 tarihinde kısmi yaşlılık aylığı bağlanmıştır. 1/12/2000 tarihinde yeni Anlaşma'nın
+yürürlüğe girmesi sonucu Anlaşmanın 35 inci maddesinin üçüncü fıkrasına istinaden söz
+konusu kısmi aylığın 1/12/1996 tarihinden itibaren müstakil yaşlılık aylığına dönüştürülmesi
+gerekmektedir.
+
+         3.4. Kanun'un Ek 19 uncu Maddesinin Sözleşme Aylıkları için Uygulanmaması
+
+        18 Ocak 2019 tarihli Resmi Gazete'de yayımlanan 7161 sayılı "Vergi Kanunları ile
+Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun" ile
+5510 sayılı Kanun'a eklenen Ek Madde 19 ile aylıkların 1.000 Türk lirasından az
+olamayacağı hükme bağlanmıştır.
+        Ancak, aynı maddenin üçüncü fıkrasında yer alan "Uluslararası sosyal güvenlik
+sözleşmeleri gereğince bağlanan kısmi aylıklar için bu madde hükümleri uygulanmaz."
+hükmü gereği bağlanan kısmı (sözleşme) aylıklar için bu hüküm uygulanmamaktadır.
+        Bu kapsamda, bu Genelgenin 6 ncı bölümündeki kısmi aylık hesaplamasına ilişkin
+"2.2. Anlaşma Kapsamında Kısmi Aylık Bağlanması" başlığı altındaki formülde yer alan
+teorik aylık hesaplanırken de Kanun'un ek 19 uncu maddesinde yer alan 1.000 Türk lirasına
+yükseltme işlemi yapılmadan sabit sayı bulunarak aylık bağlama işlemi sonuçlandırılacaktır.
+        Örnek: Türkiye Avusturya Sosyal Güvenlik Anlaşmasına göre hizmet birleştirmesi
+sonucunda teorik olarak hesaplanan 837,00 TL aylık Kanunun ek 19 ncu maddesi
+kapsamında yükseltilmeden sabit sayılı olarak (3825/5000=0,7650} 837,00*0,7650=640,30
+TL) kişiye ödenecektir.
+
+                        YEDİNCİ BÖLÜM
+               EMEKLİLİK SİGORTASI KAPSAMINDA
+   MALULLÜK AYLIĞI TALEBİ SONUCU RAPOR SEVK VE TIBBİ KONTROL
+                     MASRAFLARININ İADESİ
+
+          Anlaşmanın 25 inci maddesinin altıncı fıkrasına göre bir akit taraf sigortalısının
+diğer akit tarafta ikamet ettiği sırada ilk akit taraf mevzuatına göre yapılması gereken
+emeklilik sigortasına ilişkin tıbbi kontrolleri ilk akit tarafın talebine istinaden ikamet ettiği
+akit taraf yetkili kurumu tarafından yapılacaktır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 42/45
+       1. Kurum Sigortalısının Avusturya'daki Tıbbi Kontrolüne İlişkin Masrafların
+Bildirimi
+
+  İlgili Hükümler         Anlaşmanın 25 inci maddesinin altıncı fıkrası
+    A/TR 18               Emeklilik Sigortası Kapsamında Tıbbi Muayene Masraflarının İadesi
+
+         Avusturya’da sürekli ikamet eden ve Kurumdan aylık/gelir alanlar için Kurum
+mevzuatına göre yapılması gereken kontrol muayene talepleri sigortalının aylık dosyasının
+bulunduğu SGİM/SGM tarafından Avusturya yetkili kurumuna iletilecektir.
+         Avusturya yetkili kurumu düzenlettireceği A/TR 15 formülerini, A/TR 18 formüleri
+ile birlikte talepte bulunan SGİM/SGM'ye gönderecektir.
+         Yapılan kontrol muayenesi neticesinde ortaya çıkan masrafların Avusturya yetkili
+kurumuna ödenebilmesi için ilgili SGİM/SGM tarafından A/TR 18 formülerleri, kontrol
+muayenesi talep yazısı ve Avusturya yetkili kurumunun rapor gönderme yazısı bir üst yazı
+ekinde EHGM YSEDB'ye gönderilecektir.
+
+       2. Avusturya Sigortalısının Türkiye'deki Tıbbi Kontrolüne İlişkin Masrafların
+Bildirimi
+
+  İlgili Hükümler        Anlaşmanın 25 inci maddesinin altıncı fıkrası
+     TR/A 18             Emeklilik Sigortası Kapsamında Tıbbi Muayene Masraflarının İadesi
+
+         Ülkemizde sürekli ikamet eden Avusturya sigortalıları için Avusturya yetkili
+kurumunca istenilen tıbbi kontrollere yönelik işlemler sigortalının ikamet yeri SGİM/SGM
+tarafından sigortalıdan ücret alınmaksızın gerçekleştirilecektir.
+         İlgili SGİM/SGM tarafından kontrol muayeneleri sonucunda ortaya çıkan
+masrafların Avusturya yetkili kurumuna bildirilmesi için Avusturya'nın talep yazısı, TR/A
+18 formüleri ve rapor gönderme yazısının bir örneği üst yazı ekinde EHGM YSEDB'ye
+gönderilecektir.
+
+     3. Türkiye'den Yapılan                     Malullük Aylığı             Talebi      Sonucu         Rapor Sevk
+Masraflarının Bildirimi
+
+        Ülkemizde sürekli ikamet eden ve malullük aylığı talebinde bulunan Avusturya
+sigortalıları, aylık taleplerine esas olan raporların düzenlenebilmesi için masrafları
+Kurumumuzca karşılanmak üzere sağlık hizmet sunucularına sevk edilecektir.
+        İlgili SGİM/SGM tarafından sevk sonucunda ortaya çıkan masrafların Avusturya
+yetkili kurumuna bildirilmesi için Avusturya'ya yapılan aylık talebi ve masraf faturalarının
+bir örneği üst yazı ekinde EHGM YSEDB'ye gönderilecektir.
+        Söz konusu raporun her iki Akit tarafça incelenmesi durumunda ise sevk sonucu
+oluşan masraf için Avusturya yetkili kurumuna herhangi bir bildirimde bulunulmayacaktır.
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 43/45
+                       ÜÇÜNCÜ KISIM
+   ANLAŞMANIN UYGULANMASINA İLİŞKİN ORTAK VE DİĞER HUSUSLAR
+
+        1. Başvuruların Alınması
+
+       Anlaşmanın 28 inci maddesi gereği, akit taraflardan birinin yetkili kurumuna
+gönderilmesi gereken dilekçenin, diğer akit taraf yetkili kurumuna verilmiş olması
+durumunda dilekçe, ilgili akit taraf kurumuna verilmiş sayılır. Bu şekilde Avusturya yetkili
+kurumuna gönderilmesi gereken ancak Kuruma intikal eden dilekçeler geciktirilmeksizin
+Avusturya yetkili kurumuna TR/A 12 formülerinin aylık türüne göre ilgili yerleri
+doldurularak gönderilecektir.
+       Aynı şekilde Kuruma verilmesi gerektiği halde Avusturya yetkili kurumuna verilmiş
+olan dilekçeler, Avusturya yetkili kurumu tarafından A/TR 12 formüleri ile Kuruma
+gönderilir. Ayrıca, Avusturya yetkili kurumuna yapılmış olan başvuru tarihi, Kuruma
+yapılmış başvuru tarihi olarak esas alınacaktır.
+
+         2. Sağlık Yardımları Hakkındaki Formülerlere İlişkin İşlemler
+
+       Avusturya yetkili kurumu tarafından usulüne uygun olarak düzenlenerek Kuruma
+faks, e-posta ya da diğer elektronik ortamlarda gönderilen sağlık yardımları hakkındaki
+formüler işleme alınarak gereği yapılacaktır.
+
+         3. Aylık Taleplerine İlişkin İşlemler
+
+       Talep tarihinden önce Avusturya’da çalışması bulunan Kanunun 4/1-(a), 4/1-(b) ve
+4/1-(c) bendi kapsamındaki sigortalıların veya ölümü halinde hak sahiplerinin Türkiye'deki
+prim ödeme gün sayısının müstakil aylık bağlanmasına yeterli olması durumunda bağlanacak
+aylık Anlaşma kapsamında değerlendirilecektir.
+       Kanunun 4/1-(c) bendi kapsamındaki sigortalıların Anlaşma kapsamındaki aylık
+bağlama işlemleri EHGM KGEDB tarafından yürütülecektir.
+       Aylık talep başvurularına ve aylık bağlama işlemlerine ilişkin bu Genelgede yer
+almayan hususlarda Sosyal Sigorta İşlemleri Yönetmeliği hükümleri ile 6/11/2018 tarihli ve
+2018/38 sayılı Genelge hükümleri uygulanacaktır.
+
+         4. İrtibat Kurumları ile Yapılacak Yazışmalar
+
+        Sağlık yardım formülerlerinin gönderilmesi, talep edilmesi ve ilk görevlendirmeler ile
+aylık veya gelirlere ilişkin tüm yazışmalar, ilgili SGİM/SGM tarafından Avusturya'daki yerel
+sigorta kurumları ile yapılacaktır.
+        Avusturya'daki ilgili yerel sigorta kurumlarının adresleri, Kurum intranet sayfasında
+“Kurumsal/ Dokümanlar/ Yurtdışı/ Yabancı Ülke Sigorta Kurumlarının Adresleri”
+bölümünde yayınlanmıştır.
+        Avusturya'daki ilgili yerel sigorta kurumunun bilinmemesi durumunda ise Ek-3' te yer
+alan yetkili irtibat kurumları ile yazışma yapılacaktır.
+        Aylık veya gelirlere ilişkin olarak Kurum ile Avusturya irtibat kurumları arasındaki
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 44/45
+belge alışverişi işlemleri yetki devri ile ilgili mevzuat düzenlemesi yapılıncaya kadar EHGM
+tarafından yürütülecektir.
+         Anlaşmanın 25 inci maddesinin beşinci fıkrası uyarınca yazışmalarda akit taraflardan
+birinin resmi dili kullanılacaktır.
+
+         5. Yürürlükten Kaldırılan Düzenlemeler
+
+        27/3/1986 tarihli ve 8 sayılı Sosyal Güvenlik Sözleşmeleri Kısa ve Uzun Vadeli
+Sigorta Kolları Uygulamaları konulu Genelge'de Avusturya Anlaşmasına yapılan atıflar ile
+birlikte 4/6/2003 tarihli ve 403678 sayılı Genel Yazı ile 24/5/2006 tarihli ve 407943 sayılı
+Genel Yazı yürürlükten kaldırılmıştır.
+
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+                                                                                          İsmail YILMAZ
+                                                                                         Kurum Başkanı V.
+
+
+EKLER DİZİNİ:
+
+Ek-1: Yurt Dışı Geçici Görev Talep Dilekçesi
+Ek-2: Sosyal Güvenlik Sözleşmeleri İmzalanmış Ülkelerde Sağlık Yardımları Talep ve
+      Beyan Taahhüt Belgesi
+Ek-3: Avusturya Yetkili Kurumlarına Ait Yazışma Adresleri
+Ek-4: Bildirim Yazısı
+Ek-5: Sosyal Güvenlik Sözleşmelerine Göre Akit Ülkelerden Gelir/Aylık Talep Dilekçesi
+
+
+
+
+DAĞITIM:
+Gereği:                                                          Bilgi:
+Merkez ve Taşra Teşkilatına                                      Aile, Çalışma ve Sosyal Hizmetler
+                                                                 Bakanlığına
+
+
+
+
+       Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                      Bilgi için: Erdoğan ÜVEDİ
+Telefon No: 0 312 432 12 47 Faks No: 0 312 432 12 45                                                       Daire Başkanı
+E-Posta: yurtdisimevzuat@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+10
+
+                                                                                                                 45/45
+

@@ -1,0 +1,88 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/137918
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3881202
+ADI: MALİ TATİL SÜRESİNDE ÇALIŞMADIĞINA DAİR BİLDİRİM HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dc90411851c6485b4f6cc64686185878c2bde8a8c66186fa943260538e244af3
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+MEAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı :32138027-010.07.01-E.3881202 22/07/2017
+Konu : Mali Tatil Süresinde Çalışmadığına
+Dair Bildirim
+GENEL YAZI
+
+Bilindiği üzere, 15/03/2008 tarihli ve 5604 sayılı Mali Tatil İhdas Edilmesi Hakkında
+Kanunun | inci maddesinin; birinci fıkrasına göre, her yıl temmuz ayının birinden yirmisine kadar
+(yirmisi dahil) mali tatil uygulanır. Haziran ayının son gününün tatil günü olması halinde, mali
+tatil, temmuz ayının ilk iş gününü takip eden günden başlamaktadır.
+
+Ayrıca, aynı maddenin;
+
+İkinci fıkrasında, son günü mali tatile rastlayan aynı fıkrada belirtilen süreler, tatilin son
+gününü izleyen tarihten itibaren yedinci günün,
+
+Altıncı fikrasında, mali tatilin sona erdiği günü izleyen beş gün içinde biten aynı madde
+kapsamında sayılan kanuni ve idari süreler, mali tatilin son gününü izleyen tarihten itibaren beşinci
+günün,
+
+mesai saati bitiminde sona ermiş sayılacağı hüküm altına alınmıştır.
+
+2016/21 sayılı Genelge gereği, çalışılmadığına dair bildirimin, işverenler tarafından
+sigortalıların hak ettikleri istirahat süresinin bitim tarihinin içinde bulunduğu aya ait aylık prim
+hizmet belgesinin verileceği son tarihteki gün sonuna kadar elektronik ortamda Kuruma
+gönderilmesi zorunludur.
+
+Söz 5604 sayılı Mali Tatil İhdas Edilmesi Hakkında Kanun gereğince, işverenlerin
+istirahatli sigortalılar için çalışılmadığına dair bildirim işlemlerinin yukarıda bahsedilen sürelerde
+yerine getirilmesi halinde, bildirim süresinde yapılmış sayılacaktır. Anılan sürelerde bildirim
+yapılmış olmasına rağmen e-Ödenek programında cezaya düşen istirahat raporları, ceza listesinden
+çıkarılacak olup bu kapsamdaki işverenlere idari para cezası uygulanmayacak, uygulanmış olanlar
+iptal edilecektir.
+
+Örnek-1: Kamu işverenine ait olan bir işyerinde, çalışılmadığına dair bildirim işleminin,
+istirahat raporunun bittiği tarihin içinde bulunduğu aya ait aylık prim ve hizmet belgesi verme
+süresi olan ilgili dönemi izleyen ayın 7'sine kadar yapılması gerekmektedir. Buna göre, istirahat
+rapor bitim tarihinin 15 mayıs-14 haziran (mayıs ayı) tarihleri arasına denk gelmesi durumunda,
+söz konusu istirahat raporuna ilişkin çalışılmadığına dair bildirim yapma süresi olan 7 Temmuz
+tarihinin mali tatil olan | ila 20 temmuz tarihleri arasına denk gelmiş olması nedeniyle bildirim
+süresi, 2/7 Temmuz tarihine kadar uzamaktadır. Bu süre zarfında çalışılmadığına dair bildirimin
+yapılması halinde, bildirim yasal süresi içinde yapılmış sayılacaktır.
+
+Örnek-2: Özel sektör işyerine ait olan bir işyerinde çalışılmadığına dair bildirim işleminin,
+istirahat raporunun bittiği tarihin içinde bulunduğu aya ait aylık prim ve hizmet belgesi verme
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres Mithatpaşa cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Y. YILDIRIMOĞLU S.G.U
+Telefon : (0312) 458 8111 Faks: (0312) 435 7236 e-posta:hyildirimogluğsgk.gov.ir
+
+ALO.
+LOGO 1704
+KAYIT DIŞIÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+süresi olan ilgili ayı izleyen ayın 23'üne kadar yapılması gerekmektedir. Buna göre, istirahat rapor
+bitim tarihinin 1-30 Haziran dönemine denk gelmesi durumunda söz konusu istirahat raporuna
+ilişkin çalışılmadığına dair bildirim yapma süresi olan 23 Temmuz tarihinin mali tatil bitim tarihini
+izleyen beş gün içine denk gelmesi nedeniyle bildirim süresi, 25 Temmuz tarihine kadar
+uzamaktadır. Bu süre zarfında çalışılmadığına dair bildirimin yapılması halinde, bildirim yasal
+süresi içinde yapılmış sayılacaktır.
+
+Bununla birlikte, iş kazası ve meslek hastalığı bildirimleri ertelenen süreler dışında
+tutulduğundan, iş kazası veya meslek hastalığı bildiriminin son gününün mali tatile denk gelmesi
+durumunda, 5510 sayılı Kanunun 13 ve 14 üncü maddelerinde belirtilen süreler uzamayacaktır.
+
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres : Mithatpaşa cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Y. YILDIRIMOĞLU S.GU
+Telefon: (0312) 4588111 Faks: (0312) 435 7236 e-posta:hyildirimogluDsgk.gov.tr
+ALO.
+LOGO 1705
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN

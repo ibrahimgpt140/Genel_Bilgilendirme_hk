@@ -1,0 +1,94 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73877
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 112434
+ADI: E FATURA HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7c6d3deda5fbabc3bef19f8efce6e459c76c8e225d702614294b66676c9f278e
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                           T.C.
+                                             SOSY AL GDVENLiK               KURUMU         BASKANLIGI
+                                                              Strateji Gelistirme    Baskanligi
+                                                              Muhasebe    Daire     Baskanligr
+
+
+
+
+Say: : 17636183/010061112434                                                                               08/0112015
+Konu : e-fatura
+
+
+
+                                                          GENEL YAZI
+
+
+
+         Bilindigi uzere, elektronik fatura kullanirmna iliskin usul ve esaslan belirleyen ve
+05/03/2010 tarihli ve 27512 sayili Resmi Gazetede yayimlanan Vergi Usul Kanunu Genel Tebligi
+(sira no:397) ile anonim ve limited sirketlerin elektronik fatura (e-fatura) olusturmasma, alicisma
+iletmelerine, muhafaza ve istenildiginde ibraz etmelerine izin verilmistir.
+       Bu kapsamda; Kurumumuz ve Maliye Bakanhgi Gelir Idaresi Baskanligi'nca yurutulen
+cahsmalar neticesinde Sosyal Guvenlik Kurumunun 14/01/2015 tarihinden itibaren "e- fatura
+ahcisi" uygulamasma baslamasi planlanmaktadir.
+       Kurumumuz resmi internet sitesinde 24/12/2014 tarihinde yayimlanan "E-FATURA" bashkh
+duyurumuzla        konu hakkmda kisa bir aciklama yapilmis bulunmaktadir. Kurumumuzla
+sozlesmeli/protokollu    bir cok saghk hizmet sunucusunun halihazirda faturalanru elektronik
+ortamda duzenlemeye uygun alt yapilanmn ve bu yonde taleplerinin oldugu tespit edilmistir,
+Sosyal Guvenlik Kurumu e-fatura ahcisi olarak sisteme dahil oldugunda faturalanrn elektronik
+ortamda (e-fatura) duzenleyen gercek ve tuzel kisiler icin tekrar Kurumumuz resmi internet
+sitesinde 31112/2014 tarihinde" E-FATURA" bashkh ek birduyuru yayimlanrmstrr.
+       Buna gore; Kurumumuz 14/01/2015 tarihinde sisteme "e-fatura alicisi" olarak dahil
+oldugunda;
+       a)Faturalanm elektronik ortamda duzenleyen (e-fatura) saghk hizmet sunuculan Arahk
+2014 donemine ait faturalanm 14/0112015 tarihine kadar eskiden oldugu gibi manuel olarak
+keseceklerdir. e-fatura kullanmayan saghk hizmet sunuculan islemlerine eskiden oldugu gibi
+devam edeceklerdir.
+       b)Bu arada diger odemelerde (mal, hizmet, proje, abonelik vb.) Kurumumuza elektronik
+ortamda gonderilen faturalar asagida tarif edilen ekrandan PDF formatmda indirilerek             eki
+belgelere ve odeme emri belgesine eklenebilecektir.
+       c)2015 Subat aymdan itibaren faturalanrn elektronik ortamda duzenleyen saghk hizmet
+sunuculan, evrak tesliminde e-faturanin bir basih evrak halini fatura eki diger belgelere ekleyerek
+u Mudurlugune teslim edeceklerdir.
+       d)Kurumumuza elektronik ortamda Maliye Bakanhgi uzerinden gonderilen faturalar ise,
+gorulmek istenildigi takdirde Mosip kullarncisi rollerinde bulunan "diger islernler" altmdaki
+"Mosip Bilgi Edinme Modulunde" e-fatura goruntuleme menusunden "Ki~i Vergi Nol Te Kimlik
+No ve tarih girilmek suretiyle gorlintlilenebilmekte ve pdf formatmda odeme emri belgesine
+
+Bu beIge, 5070 sayill Elektronik imza Kanununun 5 inci maddesi geregince gUvenli elektronik imza ile imzalamTIl~tlr
+Adres:Ziyabey Cad. No:6 06520 BalgatiANKARA                                                Aynntlll bilgi i<;:inirtibat:Fikri OSTONTA$ $b Md.
+Tel:(312) 207 8567 Faks: (312) 2078146
+e-posta: fustuntas2@sgk.gov.tr Elektronik Ag:www.sgk.gov.tr
+
+
+
+
+           EFQM
+..
+     ekleyebilmektedir.
+            Aynca, saghk hizmet sunuculanndan alman faturalann MEDULA sistemi uzerindeki
+     kayitlarla birlestirilerek otomatik olarak odeme emri belgesine eklenmesi icin gerekli cahsmalar da
+     devam etmektedir.
+              Bilgi edinilmesini ve geregini arz/rica ederim.
+
+
+
+
+                                                                                      Muhiddin SAHiN
+                                                                                  Strateji Gelistirrne Baskani
+
+
+
+
+     DAGITIM:
+     Geregi:
+     TUm Merkez ve Tasra Teskilatina
+
+
+
+
+     Bu beige, 5070 sayih Elektronik imza Kanununun 5 inci maddesi geregince gUvenli elektronik imza ile imzalanmrstir
+     Adres:Ziyabey Cad. No 606520 BalgatiANKARA                                  Aynntrl: bilgi icin irtibat:Fikri USTUNTA$ Sb Md.
+     Te1(312) 2078567 Faks (312) 2078146
+     e-posta: fustuntas2@sgk.gov.tr Elektronik Ag:www.sgk.gov.tr
+

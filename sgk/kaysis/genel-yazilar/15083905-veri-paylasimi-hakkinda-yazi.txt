@@ -1,0 +1,323 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/74727
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 15083905
+ADI: VERİ PAYLAŞIMI HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: dcd73f409e7429f6d4cb69087a66cbb832b4f98edce03a6fbbaad5c1c81bcd26
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.G.
+( SG K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+2. NE. ye Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı :99604924/990/ -15 093905 - 24.187015
+Konu : Veri Paylaşımı
+GENEL YAZI
+
+Bilindiği üzere. 5502 sayılı Sosyal Güvenlik Kurumu Kanununun 6645 sayılı Kanunla
+değiştirilen 35 inci maddesinde; Kurumumuzca, bu Kanun ve diğer kanunlarla verilen görevleri
+yerine getirmek amacıyla işlenen kişisel veriler ile ticari sır niteliğinde olan verilerin, veri sahibinin
+noter onaylı muvafakati olmadan gerçek veya tüzel kişilerle paylaşılamayacağı, ancak, 10/12/2003
+tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun eki (0. GD, GU) ve (İV) sayılı
+cetvellerde yer alan kamu idarelerinin kanunlarında belirtilen görevleri yapabilmeleri için ihtiyaç
+duydukları sağlık verisi dışındaki kişisel veriler ile ticari sır niteliğindeki verilerin
+paylaşılabileceği, kimliği belirli oveya belirlenebilir bir gerçek veya tüzel kişiyle
+ilişkilendirilemeyecek şekilde anonim hale getirilen verilerin araşürma, planlama ve istatistik gibi
+amaçlar için paylaşılabileceği, veri paylaşılan kamu idareleri ile gerçek ve tüzel kişilerin.
+paylaşılan verinin gizliliğinden ve güvenliğinden sorumlu olduğu, bunun aksine davrananlar
+hakkında veri paylaşımı yapılanlar da dâhil olmak üzere 5237 sayılı Türk Ceza Kanunu ile diğer
+ilgili mevzuat hükümlerinin uygulanacağı öngörülmüştür,
+
+Sosyal Güvenlik Kurumu Verilerinin Kullanımına, Paylaşılmasına ve Korunmasına İlişkin
+Usul ve Esaslar, Kurum Yönetim Kurulunun 9/7/2015 tarihli 263 sayılı Kararı ile yeniden
+belirlenmiş ve “Sosyal Güvenlik Kurumu Başkanlığı Sosyal Sigorta Verilerinin Paylaşımı ve
+Paylaşılan Verilerin Gizliliği ile Koordinasyonuna ilişkin Usul ve Esaslar” yürürlükten
+kaldırılmıştır.
+
+23/7/2015 tarihi itibariyle yürürlüğe giren ve Kurumumuz intranet sayfasında
+E-Mevzuat-Usul Esaslar bölümünde yayımlanan “Sosyal Güvenlik Kurumu Verilerinin
+Kullanımına, Paylaşılmasına ve Korunmasına İlişkin Usul ve Esaslara” göre yapılacak işlemler
+aşağıda açıklanmıştır.
+
+1. Tanımlar
+
+Bu genel yazıda geçen;
+
+-Anonimleştirme; Verilerin gerçek ve tüzel kişiler ile kurum ve kuruluşların doğrudan
+veya dolaylı bir şekilde tanınabilmesine, bireysel verilerin ve tücari sırların açığa çıkarılmasına
+imkân vermeyecek şekilde toplulaştırılmasını, değiştirilmesini veya düzenlenmesini.
+
+-Birim; 5502 sayılı Kanunda belirtilen ana, danışma ve yardımcı hizmet birimlerini, taşra
+teşkilatında ise sosyal güvenlik il müdürlüklerini.
+
+-Birim Amiri; 5502 sayılı Kanunda belirtilen ana, danışma ve yardımcı hizmet
+birimlerinin en üst amirini. taşra teşkilatında ise sosyal güvenlik il müdürlerini,
+
+-Kişisel Veri; Gerçek kişiler ile Kamu ve özel hukuk tüzel kişilerinin doğrudan veya
+dolaylı bir şekilde sahip olduğu özellikleri ile birlikte tanınabilmesine ve bu şekilde kişisel
+bilgilerin açığa çıkarılmasına imkân sağlayan veriyi ve ticari sırları,
+
+-Sosyal Sigorta Verisi; Sağlık verisi dışında kalan sosyal sigorta uygulamalarına yönelik
+her türlü veriyi,
+
+Mühatpaşa Cad. No7 Sıhhıye ÇankayalANKARA LL An Bilgi İçim E ÜVEDİ Daire Başkal V
+Tet 310) 4587122 Faks (312) 4349277 E-Posta euvadıBsgk gov tr
+LOGO
+
+Tank KESİ İS Pak IM 1
+
+-Ticari Sır Niteliğindeki Veriler; Bir ücari işletme veya şirketin kendisine veya
+muvafakati çerçevesinde gerçek veya tüzel kişilere verilme durumları hariç olmak üzere; bir ticari
+işletme veya şirketin herkes tarafından bilinmeyen ve elde edilemeyen, başta rakipleri olmak üzere
+üçüncü kişilere ve kamuya açıklanması halinde ilgili ticari işletme veya şirketin zarar görme
+ihtimali bulunan ve ticari işletme veya şirketin ekonomik. hayattaki başarı ve verimliliği için ticari
+önem atfettikleri her türlü bilgi ve belgeyi,
+
+-Veriş Kurumun 5502 sayıl ve 5510 sayılı Kanunlarda belirtilen görev ve yetkileri
+kapsamında topladığı her türlü bilgi ve/veya belgeyi,
+
+ifade eder.
+
+2. Kişisel ve Ticari Sır Niteliğindeki Verilerin Paylaşılması
+
+Kurumca işlenen kişisel veriler ile ticari sır niteliğinde olan veriler, veri sahibinin noter
+onaylı muvafakati olmadan gerçek veya tüzel kişilerle paylaşılmayacaktır,
+
+2.1. Kişisel ve ticari sır niteliğindeki verilerin gerçek ve tüzel kişilerle paylaşılması
+
+Sigortalıların, sosyal güvenlik sicil numarası, kimlik numarası, öğrenim, adres bilgileri.
+sosyal güvenlik bilgileri, işveren. işyeri. vergi dairesi, esnaf sanatkar sicil memurluğu, ziraat odası,
+tarım ilfilçe müdürlüğü, şirket bilgileri, sigortalıların ve hak sahiplerinin emeklilik bilgileri, tahsis
+numaraları ile gelir ve aylık durumları, bunlardan yapılan kesintiler, işverenlerin işyeri sicil
+numaraları, toplam sigortalı bilgileri ile tahakkuk bilgileri. çalıştırdığı sigortalılar ve bunlara ait
+prime esas kazanç. eksik gün ve işten çıkış nedenleri, unvanı, adresi, borç durumu ve benzeri
+bilgiler kişisel veri kapsamında değerlendirilecektir.
+
+Bir ticari işletme veya şirketin herkes tarafindan bilinmeyen ve elde edilemeyen, başta
+rakipleri olmak üzere üçüncü kişilere ve kamuya açıklanması halinde ilgili ticari işletme veya
+şirketin zarar görme ihtimali bulunan ve ticari eril veya Şirketin ekonomik hayattaki başarı ve
+verimliliği için ticari önem atfettikleri her türlü bilgi ve belge ise ticari sır niteliğindeki veri
+kapsamında değerlendirilecektir.
+
+Buna göre, Birimlere intikal eden ve yukarıda belirtilen kapsamda yer alan bilgi ve/veya
+belge verilmesine yönelik taleplerde; istenilen kişisel! veri ya da ticari sır niteliğinde kabul edilen
+verinin; kişi, işveren ya da ticari işletme veya şirketin kendisine ait olup olmadığı mutlaka kontrol
+edilecektir.
+
+Sosyal güvenlik il müdürlüğü/sosyal güvenlik merkezlerinde faaliyet gösteren Halkla
+İlişkiler Servisleri ve diğer ilgili servislere veri sahibi tarafından yapılan bilgi ve belge verilmesine
+ilişkin talepler, istenilen bilgi veya belgenin veri sahibine ait olması durumunda cari usullere göre
+karşılanacaktır.
+
+İstenilen verinin talep sahibine ait olmaması durumunda kişi ya da işveren adına
+vesayevvekalet ile yetkilendirilenler tarafından mahkeme kararı ve/veya usulüne uygun
+düzenlenmiş vekaletnamenin ibrazı veya veri sahibinden alınacak noter onaylı muvafakatin ibraz
+edilmesi istenecek, ibraz edilememesi durumunda kişiye ait veriler hiçbir şekilde
+paylaşılmayacaktır.
+
+Paylaşılmasına karar verilen veriler, talepte bulunan gerçek kişiler veya özel hukuk tüzel
+kişileri ile imzalanacak olan gizlilik sözleşmesi (EK-1) dâhilinde paylaşılacaktır. Veri sahibinin
+noter onaylı muvafakat belgesi, gizlilik sözleşmesi ve paylaşılan verinin bir örneği veri paylaşan
+birimce muhafaza edilecektir.
+
+Veri sahibinin noter onaylı muvafakati ibraz edilerek yapılan tek seferlik bilgi ve belge
+verilmesi taleplerinin Birim amirinin onayı ile paylaşılması esas olmakla birlikte. il müdürlüğü ile
+
+,sosyal güvenlik merkezleri arasındaki mesafeler göz önünde bulundurularak. talep edilen bilgi ve
+belgeler sosyal güvenlik merkez müdürü onayı ile de paylaşılabilecektir.
+
+2.2. Kişisel ve ticari sır niteliğindeki verilerin kamu idareleriyle paylaşılması
+
+Kişisel veri ile ticari sır niteliğindeki verilerin kamu idareleriyle paylaşımında noter onaylı
+Mithatpaşa Gad. No:7 Sihhiye Çankaya/ANKARA e Bilig İçin E UVEDİ Dore Başkanı V.
+Tet 312)4587122 Faks: (313) 4333277 E-Posta suvedidğsgk.gov ir
+
+; Bi
+LOGO ii
+ca BL EİİLİİEE BSALIN ?
+
+muvafakat şartı aranmamakla birlikte, söz konusu Verilerin kamu idareleriyle paylaşılabilmesi;
+öncelikle veri paylaşımı talebinde bulunan kamu İdaresinin, 10/12/2003 tarihli ve 5018 sayılı
+Kamu Mali Yönetimi ve Kontrol Kanununun eki (1), (10), (LI) ve (1V) sayılı cetvellerde yer alması
+ve kamu idaresinin ilgili kanununda belirtilen görkvleri yapabilmesi için söz konusu verilere
+ihtiyaç duyması şartına bağlanmıştır. | :
+
+Buna göre, kamu idarelerinin overi paylaşımına ilişkin talep (yazılarının
+değerlendirilmesinde, öncelikle bunların 5018 sayılı Kanunun eki cetvellerde yer alıp almadığı
+kontrol edilecektir. Kamu idaresinin 5018 sayılı Kanunun eki cetvellerde yer alması durumunda bu
+defa; verilerin kullanım amacının açık ve net bir şekilde belli olması, sonraki kullanımların da bu
+amaçlarla sınırlı tutulması gereğine değinilmesi ve talep edilen bilgilerin kullanım gerekçesi ile
+ihtiyaç duyulan veriye ilişkin ilgili kanunlarındaki! dayanağın Kuruma yapılacak yazılı talepte
+belirtilmesi istenecektir.
+
+5018 sayılı Kanun eki cetvellerde yer almakla birlikte ihtiyaç duyulan veriye esas olan
+kanuni dayanağının belirtilmediği haller ile kamu idaresi niteliğinde olmakla beraber anılan
+Kanunun eki cetvellerde sayılmayan kamu idarelerinin talepleri, gerekçesi açıklanmak suretiyle
+reddedilecektir.
+
+Kamu idareleri tarafından sosyal güvenlik il müdürlüklerinden talep edilen tek seferlik
+kişisel nitelikteki veriler, yukarıda açıklanan şartların taşınması şartıyla birim amirinin onayı ile
+paylaşılacaktır. Talep edilen verinin, veri tabanından üretilmesi gereken durumlarda Hizmet
+Sunumu Genel Müdürlüğünden temin edilerek paylaşılacaktır.
+
+Kamu idarelerince talep edilen sürekli ve kişisel nitelikteki veriler, ilgili kamu idaresiyle
+yapılacak olan protokol kapsamında paylaşılacağından, bu yöndeki talepler konusuna göre ilgili
+Genel Müdürlüğe gönderilecektir.
+
+2.3. Bilgi Edinme Hakkı Kanunu ve Avukatlık Kanunu Kapsamında Bilgi/Belge
+Verilmesi
+
+1136 sayılı Avukatlık Kanununun 2 nci maddesinde, kamu kurum ve kuruluşlarının
+avukatlara görevlerinin yerine getirilmesinde yardımcı olmak zorunda olduğu, kanunlarındaki özel
+hükümler saklı kalmak kaydıyla bu kurumların avukatın gerek duyduğu bilgi ve belgeleri
+incelemesine sunmakla yükümlü olduğu, bu belgelerden örnek alınmasının vekaletname ibrazına
+bağlı bulunduğu, 4982 sayılı Bilgi Edinme Hakkı Kânununun 6 ncı maddesinde ise, bilgi edinme
+başvurusunun; gerçek kişiler için, adı ve soyadı, imzası, oturma yeri veya iş adresini, tüzel kişiler
+için ise unvanı ve adresi ile yetkili kişinin imzasını ve yetki belgesini içeren dilekçe ile yapılacağı,
+başvurunun kimlik ve imzanın yasal olarak belirlenebilir olması kaydıyla elektronik ortamda veya
+diğer iletişim araçlarıyla da yapılabileceği ve dilekçede istenilen bilgi ve belgelerin açıkça
+belirtilmesi gerektiği öngörülmüş olup. gerek Avukatlık Kanunu gerekse Bilgi Edinme Hakkı
+Kanunun getirdiği düzenlemeler de göz önüne alınarak sosyal güvenlik il müdürlükleri/sosyal
+güvenlik merkezlerince işlemler bundan böyle aşağıdaki şekilde yapılacaktır.
+
+Ünitelere yapılan bilgi ve belge taleplerinde, yukarıda belirtilen hususların yerine gelip
+gelmediği kontrol edilecek, talepte bulunan kişilerin sigortalı veya hak sahibi olması halinde yetki
+belgesi aranmayacak, talepte bulunanın sigortalı ve hak sahibi olmaması halinde ise dilekçe ekinde
+mutlaka yetki belgesi (vekaletname) ibraz etmeleri istenilecektir.
+
+Usulüne uygun yapılmayan başvurular kabul edilmeyecektir.
+
+Dosya muhteviyatı gerek görüldüğünde veya takip olunduğunda mahkemelere veya
+cumhuriyet savcılıklarıma gönderilmekte olup, dosyada yer alan tüm belgelerin bu durumda
+mahkemelere gönderilmesi işlemine devam edilecektir.
+
+Talep edilen belgenin denetimler sonucu düzenlenen raporlar ve bu raporlara ilişkin
+yürütülen işlemlere ait yazışmalar olması durumunda ilgili birimden görüş almak suretiyle işlem
+yapılacaktır.
+
+Talep edilen belgenin tahsis talep dilekçeleri ve ekinde alınan belgeler, gelir/aylık
+bağlama karar örnekleri, toptan ödeme karar örnekleri, sigortalı ve hak sahipleri ile üçüncü kişi ve
+Mihalpaşa Cad No7 Sıhhıye Çankaya ANKARA Ayrıntılı Bilgi İçin E ÜVEDİ Daire Başkanı V
+Tel: 312) 4587122 (Faks (312) 43332 77 E-Posta euvedi(Dsgk.gov.tr
+
+ALO
+LOGO öm
+ki 3
+
+kuruluşlara muhatap olan kurum yazıları ile maluliyet ve sürekli iş göremezlik derece tespitlerinin
+yapılabilmesi için, Kurumumuz sevkiyle düzenlenen sağlık kurulu raporları olması halinde
+mevzuata uygun şekilde başvuru sahibi veya kanuni temsilcilerine verilebilecektir.
+
+Şikayet ve ihbar dilekçeleri ve bunlarla ilgili olarak yürütülen işlemlere ilişkin yazışmalar,
+dosyalarda mevcut çok gizli, gizli, özel ya da hizmete özel olarak derecelendirilmiş bilgi ve
+dokümanlar ile Kurum Sağlık Kurulu ve Sosyal Sigorta Yüksek Sağlık Kurulu kararları
+paylaşılmayacaktır.
+
+3. Anonimleştirilmiş Sosyal Sigorta Verilerinin Paylaşımı
+
+5502 sayılı Kanunun 35 inci maddesine göre Kurum, kişisel veriler ile ticari sır
+niteliğindeki veriler dışındaki gayri maddi haklar ile anonim hale getirdiği verileri araştırma,
+planlama ve istatistik gibi amaçlar için kamu idareleri, bilimsel araştırma yapan kamu personeli,
+bilimsel dernekler, kamu kurumu niteliğindeki meslek kuruluşları veya üniversiteler ile ücretsiz
+olarak paylaşabilecektir.
+
+Kimliği belirli veya belirlenebilir bir gerçek veya tüzel kişiyle ilişkilendirilemeyecek
+şekilde anonim hale getirilen verinin paylaşılması, Usul ve Esasların 25 inci maddesinde, talebin
+resmi yazı ile yapılması ve söz konusu çalışma tamamlandığında bir örneğinin Kuruma verilmesi
+şartına bağlanmıştır.
+
+Bu nedenle, araştırma, planlama ve istatistik gibi amaçlar için istenilen anonimleştirilmiş
+veriler, resmi yazı ile talep edilecek ve çalışmanın bir örneğinin Kuruma verilmesi istenecektir.
+
+Özellikle üniversiteler tarafından yapılan araştırmalara yönelik olarak kişisel verilerin yer
+aldığı sigortalı, emekli, işveren ya da iş kazası ve meslek hastalığı vakalarına ilişkin bir veya
+birden fazla dosyaya dair inceleme talepleri, Genel Yazının “2.2. Kişisel ve ticari sır niteliğindeki
+verilerin kamu idareleriyle paylaşılması” başlıklı kısmındaki açıklamalar da dikkate alınarak
+değerlendirilmek suretiyle reddedilecek, istenilen Veriler anonim hale getirilmek suretiyle
+paylaşılacaktır.
+
+Kurum personeli tarafından sosyal güvenlik uzmanlığı ve müfettişlik kadrosuna
+atanabilmek için yapılacak tez çalışmalarında kullanılmak üzere ihtiyaç duyulan anonimleştirilmiş
+sosyal sigorta verileri, ilgili personelin bağlı bulunduğu birim amirleri aracılığıyla resmi yazı ile
+talep edilecek ve yine birim amirinin onayıyla paylaşılabilecektir.
+
+4. Sosyal Sigorta Verisi Paylaşımı Sayılmayan Haller
+
+Birimlerin, görevlerinin ifası için görev. yetki ve sorumluluk alanları ile ilgili olarak
+sunduğu hizmetlerin devamlılığı ve geliştirilmesi amacıyla hizmet gereği talep ettikleri veriler ile
+birimlerce resmi internet sitelerinde periyodik olarak yayımlanan faaliyet raporları ve istatistiki
+veriler ve Kurumun iş ve işlemlerinin yürütümünde hizmetin gereği olarak üçüncü kişiler
+aracılığıyla sağladığı ödeme ve bilgilendirme işlemlerine ilişkin sorgular veri paylaşımı olarak
+değerlendirilmeyecektir.
+
+5. Verilerin Teslimine İlişkin Genel Hükümler
+
+Paylaşılmak üzere hazırlanan veriler, doküman yönetim sistemi (DYS) ortamında CD,
+DVD, sabit disk, taşınabilir bellek gibi elektronik veya manyetik kayıt ortamında şifrelenerek,
+talebi yapan gerçek veya tüzel kişiye yazılı olarak. taahhütlü veya iadeli taahhütlü posta ile veya
+tutanak karşılığı elden teslim edilecektir.
+
+Verilerin tutanak karşılığı elden tüzel kişiye teslimi, tüzel kişilik tarafından noter
+aracılığıyla vekâletname verilmiş kişiye de yapılabilecektir.
+
+Verilerin kamu kurum ve kuruluşlarına tesliminde, talepleri halinde şifrelenmiş dosya ile
+gov.tr uzantılı e-posta adreslerine yapılabilecek. gizli verilerin tesliminde ise resmi yazışmalarda
+uygulanacak esas ve usullere ilişkin mevzuat hükümlerine uyulacak, telefonla hiçbir veri
+iletilmeyecektir.
+
+Mithatpaşa Cad. No7 Sıhhıye Çankaya/ANKARA Ayrıntılı Bilgi İçin:E ÜVEDİ Daire Başkanı V.
+Tel. 312) 45871 22 Faks. (312) 43332 77 E-Posta euvedi(Dsgk.gov tr
+ALO
+LOGO il
+GE RNİZieKE Lr 4
+
+
+GİZLİLİK SÖZLEŞMESİ
+1) AMAÇ VE KAPSAM
+
+Bu sözleşme, veri talebinde bulunan ......................'nın, kanuni şartları taşıyan
+vekaletnameye dayanarak ihtiyaç duyduğu kişinin kişisel verisinin sorgulanabilmesi için 5502
+sayılı Sosyal Güvenlik Kurumu Kanunun 35 inci maddesinde düzenlenmiş olan kişisel
+verilerin korunması ve kullanılması konusundaki yükümlülüklerini belirlemek amacıyla
+hazırlanmıştır.
+
+2) YÜKÜMLÜLÜKLER
+
+a) Veriler sadece ilgili kişi tarafından verilen vekâletnameden doğan bir hakkın ifası
+için kullanılacaktır. Bu çerçevede sadece ilgili kişinin/kuruluşun verileri talep edilecektir.
+
+b) Veri güvenliğinin sağlanması konusunda, her türlü sorumluluk süre ile
+sınırlandırılmaksızın veriyi alana ait olacak, paylaşılan veriler hiçbir gerekçe ile üçüncü
+şahısların kullanımına sunulmayacak ve yayımlanmayacaktır.
+
+€) SGK tarafından görüntülenmesi sağlanan veya elektronik ya da benzeri usullerle
+gönderilen veriler, 5502 sayılı Sosyal Güvenlik Kurumu Kanunu 35 inci maddesi ile hüküm
+altına alınan kişisel verilerin gizliliği ilkesine bağlı kalmak şartıyla ilgili mevzuat, uluslararası
+anlaşmalar ve kamu hizmetinin gerektirdiği yükümlülüklere göre kullanılacak olup, paylaşılan
+verilerin yetkisi olmayan kişi, kurum ve kuruluşların eline geçmemesi için gerekli tüm
+tedbirler alınacaktır.
+
+3) SORUMLULUK
+
+a)......................... bu sözleşmeden doğan yükümlülüklerini oOSGK'nın
+menfaatlerini göz önünde bulundurarak yerine getirecektir. Talepte bulunan, bu sözleşme
+kapsamında üzerine düşen yükümlülüklerine kasıt, ihmal veya kusur sınırları dahilinde aykırı
+davranır ve aykırılığın giderilmesi için gerekli tedbirleri kendine verilen süre içerisinde
+almazsa veya gerekli tedbirleri almasına rağmen aykırılığın doğurduğu sonuçları ortadan
+kaldırmazsa, SGK bu aykırılıktan dolayı menfi ve müspet zararların tazminini isteme hakkına
+sahiptir.
+
+b) SGK tarafından sağlanan verilerin herhangi bir şekilde yetkisiz kişilerin eline
+geçmesi ve yetkisiz kullanımından doğacak her türlü hukuki, mali ve cezai zararın tazmini
+veriyi alana ait olacaktır.
+
+c) Kişisel verilerin korunmasına ilişkin hükümlerin ihlal edilmesi halinde Türk Ceza
+Kanununun Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar Bölümünün 135, 136 ve 137
+nci maddeleri çerçevesinde Cumhuriyet Savcılıklarına suç duyurusunda bulunulacaktır.
+
+SGK ADINA VERİYİ ALAN
+ADI SOYADI:
+UNVANI A
+İMZA ği
+I

@@ -1,0 +1,138 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/183348
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2021/36
+ADI: 2020/20 SAYILI GENELGEDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN 21/10/2021 TARİHLİ VE 2021/36 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: f78e488f639fc4109dd55767fd8d30f55abbbdd8a752c5357c6f972b45d0ba4f
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                      T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Sigorta Primleri Genel Müdürlüğü
+
+
+Sayı : E-24010506-010.06.01-33782544                                                                                        21.10.2021
+Konu : 2020/20 Sayılı Genelgede Değişiklik
+       Yapılması
+
+
+                                                             GENELGE
+                                                              2021/36
+
+         18/6/2020 tarih ve 7156781 sayılı 2020/20 İşveren İşlemleri Genelgesinin "1.1- Tescil edilecek
+işyerlerinde işyeri bildirgesinin gönderilmesinden sonra işverenler veya yetki verilen kişilerce yapılacak
+işlemler ile işyeri bildirgesi ekinde verilecek belgeler" ile “1.2-İşyeri bildirgesinin gönderilmesinden
+sonra ünite tarafından yapılacak işlemler” başlıklı kısımları aşağıdaki şekilde değiştirilmiştir.
+         "1.1- Tescil edilecek işyerlerinde işyeri bildirgesinin gönderilmesinden sonra işverenler veya
+yetki verilen kişilerce yapılacak işlemler ile işyeri bildirgesi ekinde verilecek belgeler
+         Sosyal Sigorta İşlemleri Yönetmeliğinin “İşyeri bildirgesi ile birlikte verilecek diğer belgeler”
+başlıklı 29 uncu maddesinde,
+         (1) Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (c) bentleri kapsamında sigortalı
+çalıştırılan işyerlerinin tescilinde, işyeri bildirgesi yeterli olup elektronik ortamda temin edilebilenler
+hariç olmak üzere eki belgeler ihtiyaç olması hâlinde ünitece istenir. Ancak Kanunun 4 üncü maddesinin
+birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırılan işyerlerinin tescilinde;
+         a) İşverenden iş alan alt işverenler tarafından, Kanundan doğan yükümlülükleri başlamadan önce,
+asıl işverenle yapmış olduğu sözleşmenin bir örneğinin,
+         b) Adi ortaklıklar tarafından; noter onaylı ortaklık sözleşmesinin,
+         c) İhale konusu işlerde; işin sözleşmesi veya işin üstlenildiğini gösterir idarenin yazısının,
+         ç) İnşaat işyerlerinde; varsa arsa sahibi ile müteahhit arasındaki inşaat yapım sözleşmesinin,
+         elden, posta yoluyla veya Kurumca belirlenen şekilde gönderilmesi zorunludur.”
+         Hükmü yer almaktadır.
+         Bu doğrultuda Sosyal Sigorta İşlemleri Yönetmeliğinin 29 uncu maddesine göre verilmesi zorunlu
+olan belgeler ile ihtiyaç olması hâlinde ünitece istenen diğer belgelerin işyeri bildirgesinin gönderildiği
+Kurum ünitesine posta yoluyla gönderilmesi veya elden ibraz edilebilmesi mümkün olduğu gibi söz
+konusu belgeler sistem üzerinden elektronik ortamda da eklenebilecektir.
+         e-Devlet üzerinden “İşyeri Bildirgesi (4-a'lı Sigortalı Çalıştırılanlar Yönünden)” menüsü
+vasıtasıyla gerçekleştirilen işyeri tescil işlemlerinde belgelerin elektronik ortamda taranarak sisteme
+kaydedilmesi durumunda, söz konusu belgelerin ayrıca Kuruma gönderilmesine gerek bulunmamaktadır.
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                   Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 458 71 10 Faks No: 0 (312) 432 12 3                                                                        Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 71 10
+10                                                              1/3
+        Ancak, işyeri tescil işlemi sırasında işveren tarafından sisteme eklenmeyen belgelerin ilgili sosyal
+güvenlik merkezine elden ibraz edilmesi ya da posta yoluyla gönderilmesi gerekmektedir.
+        e-Devlet üzerinden gönderilen işyeri bildirgeleri ilgili sosyal güvenlik merkezince/sosyal güvenlik
+il müdürlüğünce onaylanıncaya kadar işverenler tarafından sisteme kaydedilmiş belgeler üzerinde
+değişiklik yapılması mümkün olacaktır. Ancak, işyeri bildirgesinin ilgili sosyal güvenlik merkezince
+onaylanması sonrasında sisteme kaydedilen belgeler yalnızca görüntülenebilecek olup; işverenler
+tarafından söz konusu belgelerde herhangi bir değişiklik yapılamayacaktır.
+        PDF veya JPEG formatında sisteme kaydedilecek olan belgelerden sisteme en fazla 10 adet
+eklenebilecek olup; her bir belge en fazla 10 MB büyüklüğünde olabilecektir.
+        Ayrıca, e-Devlet üzerinden “İşyeri Bildirgesi (4-a lı Sigortalı Çalıştırılanlar Yönünden)” menüsü
+vasıtasıyla gerçekleştirilen işyeri tescil değişiklik işlemleri dolayısıyla verilmesi gereken belgeler de
+sistem üzerinden elektronik ortamda eklenebilecektir.
+        İşyeri bildirgesinin Kuruma gönderilmesinin ardından Kuruma verilecek belgeler arasında
+Kuruma gönderilmiş olan işyeri bildirgesinin çıktısı yer almayacak olup; işverenlerden işyeri
+bildirgesinin çıktısı istenilmeyecektir.
+        Kurumlarca elektronik ortamda Kurumumuza çeşitli bilgiler aktarılmakta ve bu bilgiler Kurum
+ünitelerimizce elektronik ortamda görüntülenebilmekte, yine Kurumumuza özel olarak aktarılmayan
+bilgiler de (tüzel kişilerin; hükmi şahsiyetin tescil edildiği Ticaret Sicil Gazetesi gibi) ilgili Kurum
+uygulamalarından sorgulanabilmektedir. Bu doğrultuda Kurum ünitelerimizce elektronik ortamda
+ulaşılabilecek belge ve bilgiler için belge/bilgi talep edilemeyecektir.”
+        "1.2- İşyeri bildirgesinin gönderilmesinden sonra ünite tarafından yapılacak işlemler
+        İşyeri bildirgesinin gönderilmesinden sonra ünite tarafından tescil işlemi yapılacak olup; Sosyal
+Sigorta İşlemleri Yönetmeliğinin 29 uncu maddesinde sayılan ve Kuruma verilmesi gereken belgelere
+istinaden yapılacak işyeri tescillerinde söz konusu maddede sayılan işyeri tesciline esas belge ve/veya
+belgeler ile ihtiyaç olması hâlinde ünitece istenen diğer belgelerin elektronik ortamda taranarak sisteme
+kaydedilmiş olması halinde tescil işlemi yapılacak ancak söz konusu belgelerin sisteme kaydedilmiş
+olmaması halinde, belgelerin sosyal güvenlik merkezine/sosyal güvenlik il müdürlüğüne ibrazından veya
+posta yoluyla iletilmesinden sonra tescil işlemi yapılacaktır.
+        Kuruma gönderilen işyeri bildirgelerinde belgenin gönderildiği tarih ve referans numarası yer
+aldığından bahse konu bildirgelere ilgili sosyal güvenlik merkezince ayrıca tarih ve sayı verilmeyecektir.
+        Bildirgenin gönderildiği tarih Kuruma verildiği tarih kabul edilecektir. İşyerinin tescil tarihi ise
+(kanun kapsamına alınış tarihi) sigortalı çalıştırılmaya başlanılan tarih olacaktır. Sigortalı çalıştırılmaya
+başlanılan tarih işyeri bildirgesinin verildiği tarihten önceki bir tarih ise işyeri bildirgesi süresinde
+verilmemiş kabul edilecektir.
+        Ayrıca, sosyal güvenlik il müdürlükleri/sosyal güvenlik merkezleri tarafından işverenlerce
+sisteme kaydedilen belgelerin işyeri tescil programı vasıtasıyla tescilin onaylanması aşamasında
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                   Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 458 71 10 Faks No: 0 (312) 432 12 3                                                                        Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 71 10
+10                                                              2/3
+görüntülenmesi ve indirilmesi mümkündür. Yeni tesciller için “İnternetten Gönderilen İşyeri Bildirgesi
+Görüntüleme” menüsünden, tescil değişiklikleri için ise “Nevi / Devir / İntikal / Katılım / Birleşme /
+Hisse Devri/Adi Ortak ve Aracı Giriş İşlemleri” menüsünden onaylı kayıtlar seçilerek sisteme eklenmiş
+belgeler görüntülenebilecek ve indirilebilecektir."
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                                                           Cevdet CEYLAN
+                                                                                                           Kurum Başkan V.
+
+
+
+         DAĞITIM :
+
+
+          GEREĞİ:                                                                  BİLGİ:
+         -Merkez ve Taşra Teşkilatına                                             -Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                                Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                                                   Bilgi için: İbrahim ÖZÇELİK
+Telefon No: 0(312) 458 71 10 Faks No: 0 (312) 432 12 3                                                                        Daire Başkanı
+e-Posta: isverenlerPrimDB@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                            Telefon No: 0(312) 458 71 10
+10                                                              3/3
+

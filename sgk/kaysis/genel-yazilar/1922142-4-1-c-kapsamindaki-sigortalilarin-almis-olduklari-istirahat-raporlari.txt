@@ -1,0 +1,218 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/140765
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 1922142
+ADI: 4-1/C KAPSAMINDAKİ SİGORTALILARIN ALMIŞ OLDUKLARI İSTİRAHAT RAPORLARI HAKKINDA GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: b155a5798df9784cca9500e68538f6313de5517b6a4801be17be99b710af4b8c
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Emeklilik Hizmetleri Genel Müdürlüğü
+Sayı :57017886-204.03.01-E.1922142 28/03/2018
+Konu : 4/c Kapsamındaki Sigortalıların Almış Olduğu
+İstirahat Raporları Hak.
+GENEL YAZI
+
+Bilindiği üzere; 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi
+kapsamındaki sigortalılar adına sağlık hizmet sunucuları tarafından verilen istirahat raporları,
+Sağlık Bakanlığının 18/08/2016 tarihli ve 23642684 sayılı İstirahat Raporları Konulu Genelgesi
+gereğince e-Ödenek sistemi üzerinden düzenlenmeye başlanılmış ve söz konusu istirahat
+raporlarının kamu kurum ve kuruluşları tarafından görüntülenmesine yönelik program çalışmaları
+tamamlanmıştır.
+
+Kamu kurum ve kuruluşlarında çalışmakta olan 4/1-(c) kapsamındaki sigortalıların adına
+sağlık hizmet sunucuları tarafından düzenlenen istirahat raporlarının, bu kapsamdaki sigortalıların
+çalışmakta oldukları kurumları tarafından görüntülenmesine yönelik yetki tanımlama işlemlerinin
+e-Ödenek uygulaması “4/C Yetki İşlemleri” menüsünden yapılması gerekmektedir.
+
+Bahse konu yetki tanımlaması için İlinizde bulunan Kamu Kurum ve Kuruluşları ile irtibata
+geçilmesi, ekte yer alan “Devlet Memurları İstirahat Raporu Görüntüleme ve İş Kazası/Meslek
+Hastalığı Bildirimi Uygulaması Yetki Talep Formu” nun onaylanarak bir üst yazı ekinde müracaat
+yapılmasının sağlanması, ilgili Kuruluşlarca belirlenen personele görüntüleme yetkisinin verilmesi
+gerekmektedir.
+
+Söz konusu iş ve işlemlere ilişkin kullanım kılavuzu ekte yer almaktadır.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür
+
+Ekler:
+
+1-Yetki Talep Formu
+
+2-Kullanım Kılavuzu
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cad. No:7 Sıhhıye/ANKARA Ayrıntılı bilgi için irtibat: R.ÖZDEMİR Daire Başkanı V.
+Tel: (312) 458 72 82 Faks: (312) 458 7236 e-posta: ehgm kvsdb(&sgk.gov.tr
+
+DEVLET MEMURLARI İSTİRAHAT RAPORU GÖRÜNTÜLEME VE İŞ
+KAZAS/MESLEK HASTALIĞI BİLDİRİMİ UYGULAMASI
+YETKİ TALEP FORMU
+e Kaman 7 amana 7 —
+KN HR GR
+NK
+NM
+Tasmk e
+MR
+e e
+an me
+ea
+Yetki Düzeyi II İstirahat Raporu Görüntüleme Yetkisi
+O temp mv
+AÇIKLAMALAR:
+1-Resmi işyeri kullanıcı; görüntüleme uygulaması için yetki talep edilen kişidir. Resmi işyeri
+yetkilisi ise kullanıcının amiridir.
+2- Kurum Kodu; Hitap uygulamasında tanımlı kurum kodunu ifade etmektedir.
+3- Saymanlık Kodu; Hitap uygulamasında tanımlı saymanlık kodunu ifade etmektedir.
+4- Kullanıcı ile yetkilinin kurum kodu ve saymanlık kodlarının aynı olması gerekmektedir.
+Uygulama tarafından eşleştirme sağlanamaz ise kullanıcı tanımına izin verilmemektedir.
+5- Yetki düzeyi, istirahat raporu görüntüleme ve/veya iş kazası ve meslek hastalığı bildirimi
+yetkisinden hangisinin veya hangilerinin talep edildiğini ifade etmektedir. Aynı kullanıcı için
+iki yetki birden talep edilebilir ve tanımlama yapılabilmektedir.
+İMZA
+YETKİLİ ADI-SOYADI
+
+1-) http://www.sgk.gov.tr/wps/portal/sgk/tr/ PORTAL adresinden sağ üst başlıktaki E-SGK butonu
+tıklanacak.
+2 2970.BR
+Türkiye Cumhuriyeti
+SOSYAL GÜVENLİK KURUMU
+SOSYAL GÜVENLİK KURUMU
+ANASAYFA | KURUMSAL | MEVZUAT | SİGORTALILIK | EMEKLİLİK | GENELSAĞLIKSİGORTASI
+v A
+ÇALIŞAN VE İŞVEREN EMEKLİLER SAĞLIK
+Hoşgeldiniz
+Çalışma ve Sosyal Güvenlik İletişim Merkezi ilime ammına
+Ş Yi ş hoşgeldiniz.
+
+ALO 170 Sosyal Güvenlik Kurumu olarak misyonumuz, değişen
+sosyal güvenlik ihtiyaç ve risklerine karşı toplumu
+güvence altına alarak güvenilir, kaliteli ve yenilikçi bir
+
+Soru, öneri, eleştir, ihbar, şikâyet, başvuru ve talepleriniz MRI EMME veda gk,
+P 5 sunmaktır.
+için 7 gün 24 saat hizmetinizdeyiz...
+Nesa Kak m
+İTTİ N Keki
+
+| e | TE 2-) Gelen sayfa üzerinden
+l Kamu başlığı altında yer
+Türkiye Cumhuriyeti UTAN
+SOSYAL GÜVENLİK KURUMU alan “Tümü” butonu
+TA GEVM Küni tıklanacaktır.
+E $GK - SGK UYGULAMALAR PORTALI
+SAĞLIK HİZMET
+TANDAŞ VEREN
+pa Hoşgeldiniz
+E SGK / öatmem hayptine.
+ram um uk, Mall şlaım za doğumundan ölümüne kadar,
+Vatandaş a ölümünden Bara Sa ak a arma ağ, zar va
+——— a ayal yardm alara, Kale si layla,
+d İd rr rm vr, MY Vr
+. aüdüülerbe aa gönnika amin yumak
+pi | germek miyon dağda nlar sunma.
+«a. T 4
+- p /4 d Duyurular
+ » | zum
+e, E - SGK irtemet Portalı Yayında
+rağ fi Sn erk am veri oluğu m
+adi apn çi
+EĞİ, ei
+e.
+;
+MT) i P i
+N Kr p J
+A © &
+W ; ri p
+KN
+» Hizmet Tekip Programı * Bigortslilşe Giş ve İşten ÇkşEldtge » 45 Biyorisileri çin Ayik Hesaplama
+* Huk Uygulemsr iYezim Rojpsi ai * a Siyortelilr için Aylık Hesaplama
+» Bgortalılşe Gti ve İşten ÇikışBildtgesi
+» Kamu Kurumlar ns Türkiye Geneli ue) * Emekli Aylğive kremiye Hesaplı (e)
+ül eekinmmalde * ESGKUygulameları ve E-SGK Şe * Ne Zaman Emekli Ölabili mXi4b)
+» İdare E Borç 8ogu
+» Era Yoktur Uygulması (42) » Ne Zaman Emekli Ölebilt imidc)
+* Eforcu Yoktur Bebesi Kontrol
+Uygulaması r ESiye
+* NOSP
+on”.48
+os Hastaneni Seç Doktoı
+| a 49 >
+b Aİ iy e “
+—el
+sn 2
+2) Şehriniz Seçin Hastane Se
+» Medub Hastane » HösianeniSeç W imi
+* Medul UBB Malzeme Sorgulama b SöKÇock el
+* Eekiyonik İstrehet Rapor Girişi » SGKTVMOBI Ugubma Bran Sağın İk etmrkiini
+* Heastsneni Seç Doloruna Yaş » SöKKtapik phone Uyg.
+amm va
+LL
+A A
+
+3-) Açılan sayfada yer alan menülerden “Devlet Memurları İstirahat Raporu Görüntüleme” butonu
+seçilecektir.
+VATANDAŞ İŞVEREN SAĞLIK HİZMET
+SUNUCULARI
+7 a
+ww V “ İ kamu
+G ” Tali La SGK kamu hizmetleri, tek bir çatı altında kolay erişim
+pe i ) : ve verimlilik sağlamaktadır. Bu doğrultuda SGK kamu
+* F Y ii; ? AŞ hizmet alanına giren serviere yönelik uygulamalar,
+Ca 04 > bilgiye anında erişim sunmaktadır.
+> 1 24 4 V ( İ LE # Kamunun ihtiyac olan tüm SGK hizmetlerine, artık
+( 7 2. 1 i i İm uygulamalar sayesinde hızlı bir şekilde ulaşılabilir.
+id / ) v 1 | | wi ko mii: Kamu için erişilebilir hizmet takip program, işveren
+i Z ili .—- b / Pp ve idare e-borç sorgulaması gibi E-SGK
+E SGK uygulamaları etkin olarak kullanılabilir.
+SGK Uygulamalar Portalına Hoşgeldiniz
+İİ i 7
+Hizmet Takip Hukuk Kamu İdare E Borç E-Borcu Yoktur
+Programı Uygulamaları Kurumlar nca Sorgu Belgesi Kontrol
+Yazılım Projesi Türkiye Geneli Uygulaması
+İşveren Borç
+Sorgulama
+Uygulaması (4a'
+Genel Sağlık Bilgi Edinme Sigortalı İşe Giriş Kesenek Bilgi
+Sigortası Başvuru ve İşten Çıkış Sistemi
+(60.Madde) Bildirge (4c)
+Kamu Kurum ve DYS Evrak Devlet Memurlar
+Kuruluşları Tıbbi Doğrulama İstirahat Raporu
+Miz Görme 20 Uygulaması Görüntüleme
+ES)
+
+Türkiye Cumhuriyeti
+( SOSYAL GÜVENLİK KURUMU Pp.
+E SGK - SGK UYGULAMALAR PORTALI
+VATANDAŞ İŞVEREN SAĞLIK HİZMET
+a SUNUCULARI
+Devlet Memurları İstirahat Raporu yim, p
+Görüntüleme Uygulaması N TE...
+a
+: > —-—
+Devlet Memurları İstirahat Raporu Görüntüleme
+Uygulamasına Hoşgeldiniz UYGULAMAYA GİRİŞ
+Z Duyurular
+SGK z 6)
+g * HEliEiLLAŞIKLAMA Gemi zeki
+| apeme, 10 sy Kar
+ma 7)
+pa,
+4-) Açılan sayfadan “UYGULAMAYA GİRİŞ ” butonu tıklanarak gelen ekrana yetki verilen Kamu
+Ç Yy & Yı
+personelinin “Kullanıcı Adı” ve “Parola” girilerek görüntüleme ekranına giriş sağlanmış olacaktır.
+TÜRKİYE CUMHURİYETİ
+SOSYAL GÜVENLİK KURUMU
+Devlet Memurları İş Göremezlik Raporu Görüntüleme Uygulaması
+Kullanıcı Girişi
+Kullanıcı Adı:
+2
+Parola:
+a
+Güvenlik kodunu giriniz.
+LD Kğş—>6

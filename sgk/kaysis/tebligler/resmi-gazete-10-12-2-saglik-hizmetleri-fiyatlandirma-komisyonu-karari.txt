@@ -1,0 +1,241 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/183959
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 10.12.2021 - 31685
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 10.12.2021 - 31685
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: b422a5f0c8d1c06ba0c3ec910aedf6566bac9d6eec9da002150699a9369b20e3
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+10 Aralık 2021 CUMA Resmi Gazete Sayı : 31685
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+
+Karar No: 2021/6
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 02/11/2021 tarihinde toplanarak aşağıdaki kararları almıştır.
+
+MADDE 1- “Sağlık Uygulama Tebliği (SUT)” nin “2.4.4.D-1- Hemodiyaliz tedavileri” maddesinin on birinci fıkrasının
+aşağıdaki şekilde yeniden düzenlenmesine oy birliği ile,
+
+“(11) Hemodiyaliz tedavisi süresince, “Diyaliz Merkezleri Hakkındaki Yönetmelik” te belirtilen tetkikler ve bu tetkiklerin
+tekrarı, hemodiyaliz uygulaması sırasında ortaya çıkan acil durumda yapılması gereken diğer tetkikler, gerektiğinde ve özellik
+gösteren hastalara daha sık yapılan tetkikler, seans sırasında gelişen komplikasyonların tedavisinde kullanılan ilaçlar ve gündüz yatak
+ücreti fiyata dâhil olup ayrıca faturalandırılmayacaktır. Tetkikleri yaptırılmayan hastaların diyaliz tedavilerine ait ücretleri ödenmez.”
+
+MADDE 2- SUT eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” nden aşağıda yer alan işlem satırlarının çıkarılmasına oy
+birliği ile,
+ğ n m Sadece yatan hastada faturalandırılır. Yılda en fazla iki adet
+KK a a
+MADDE 3- SUT eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” ne aşağıda yer alan işlem satırlarının eklenmesine oy
+birliği ile,
+Dee Ta ŞT a)
+Varis işlemleri bu koddan faturalandırılmaz. 700860, P700860,
+802892 Perkütan Farmakomekanik 802800, 80290 ile birlikte faturalandırılmaz. Fibrinolitik ilağ 197249
+İTromboliz/Trombektomi, ven, tek lezyon ayrıca faturalandırılır. Aynı seansta en fazla iki adet *
+İfaturalandırılır.
+802893 Tema Tembel lı Arter, tek 7010 Pa, Band BOD Pie 2.385,61
+yon lom, Pulmoner Arter, ek | eturlandıılmaz. Fibrinolitk ilaç ayrıca faturalandırılr. Aynı | 7 385*
+mi seansta en fazla iki det faturalandırıı
+MADDE 4- SUT eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” nden aşağıda yer alan işlem satırının çıkarılmasına oy
+birliği ile,
+KM ŞE 1
+MADDE 5- SUT eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” ne aşağıda yer alan işlem satırının eklenmesine oy
+birliği ile,
+MADDE 6- SUT'a aşağıdaki düzenlemenin eklenmesine oy birliği ile,
+“2.44.Ö — İntraoperatif Nöronavigasyon İşlemi
+(1) “İntraoperatif nöronavigasyon” işlem bedeli SUT eki EK-2/C listesinde yer alan P614981 kodu üzerinden ve SUT'un
+2.2.2.B numaralı maddesinin üçüncü fıkrasında belirtilen kurallar uygulanmaksızın faturalandırılacak olup; SUT eki “İntraoperatif
+Nöronavigasyon İşleminin Ayrıca Faturalandırılabileceği İşlemler Listesi (EK-2/D-5)” nde yer alan işlemler ile birlikte uygulanması
+ve işlemin beyin ve sinir cerrahisi ile kulak burun boğaz hastalıkları uzman hekimleri tarafından gerçekleştirilmesi halinde bedeli
+Kurumca karşılanır.”
+MADDE 7- SUT'ta yer alan “İntraoperatif Nöronavigasyon İşleminin Ayrıca Faturalandırılabileceği İşlemler Listesi (EK-
+2/D-5)” nin eklenmesine oy birliği ile,
+“İNTRAOPERATİF NÖRONAVİGASYON” İŞLEMİ AYRICA FATURALANDIRILABİLECEĞİ İŞLEMLER LİSTESİ
+EK-7B EK-YC N
+
+615440 P615440 Glial tümör eksizyonu, mikroşirürjikal teknikle
+| css | oo | önsülerbölge Mesyonları Calamus bazal gamaliom)
+| Gis | P6l6idi | Endoskopik odontoid cemrahisi o
+MADDE 8- SUT eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)” nde “Yara Bakım Ürünleri”
+başlığı altında aşağıda yer alan SUT kodlarının fiyatlarının yeniden düzenlenmesine oy birliği ile,
+LOR4S31 TKÖPÜK/SÜNGER YARA ÖRTÜSÜ (KÜÇÜK) 099cm? |*Ç<*<*<*<<<«0 İŞ Şire)
+| ORAS32 | KÖPÜK/SÜNGER YARA ÖRTÜSÜ (ORTA) 100-224 m? << | İİ sel
+LOR4S35 | GÜMÜŞLÜ KÖPÜK/SÜNGER YARA ÖRTÜSÜ (ORTA) 100-221 cm | | e)
+LOR4$37 | HİDROKOLLOİD İÇERİKLİ YARA ÖRTÜSÜ (KÜÇÜK) 0-99 em? İİ se)
+| OR4538  HİDROKOLLOİD İÇERİKLİ YARA ÖRTÜSÜ (ORTA) 100-224 gm | İz)
+LOR4$39 | HİDROKOLLOİD İÇERİKLİ YARA ÖRTÜSÜ (BÜYÜK) 225* em? | İse
+| OR4S41 | ALJİNAT/FİBER/AOUAFİBER YARA ÖRTÜSÜ (KÜÇÜK) 0:99 cm | İzel)
+LOR4S42 | ALJİNAT/FİBER/AOUAFİBER YARA ÖRTÜSÜ (ORTA) 100-224 em | İse)
+LORAS44 | GÜMÜŞLÜ ALJİNATIFİBER/AOUAFİBER YARA ÖRTÜSÜ (KÜÇÜK) 0-96 em? | İ 2800)
+| OR4S46 | GÜMÜŞLÜ ALJINATIFİBER/AOUAFİBER YARA ÖRTÜSÜ (BÜYÜK) 2257 emi | İline)
+| 0R4547 | KOMPOZİT YARA ÖRTÜSÜ 099.m*, «cc Şİ amel
+| OR4548 | KOMPOZİT YARA ÖRTÜSÜ 100-224 em “| Şİ sel
+| OR4S49 | KOMPOZİT YARA ÖRTÜSÜ 225-499 em <<< İse)
+| OR4551 | KOMPOZİT YARA ÖRTÜSÜ 500*em**|*|*|*<*<*<<< Şİ ise)
+LORASS8 İNİDROPİBER YARA ÖRTÜSÜ 225-499 cm? ||| İİ ire)
+LORASS9 | HİDROFİBER YARA ÖRTÜSÜ 500: em? ||| İİ ike)
+LORAS64 | GÜMÜŞLÜ HİDROFİBER YARA ÖRTÜSÜ 500cm? “<<< İİ seo)
+na ymm
+> İÖRTÜSÜ 0-224 em? i
+'NANOKRİSTAL GÜMÜŞ İÇERİKLİ, KONTROLLÜ GÜMÜŞ SALIMI YAPAN YARA Ev)
+ÖRTÜSÜ 500: em? ,
+PARAFİN TÜL KAPAMALAR (KLORHEKSİDİN/GÜMÜŞ- ME)
+SÜLFADİAZİN/İYOT/GÜMÜŞ İÇEREN PARAFİN TÜL KAPAMALAR DAHİL) ”
+LORASTI (BARİYER YARA ÖRTÜSÜ, TEK TABAKA <<< Şİ imi
+LORAS72 | BARİYER YARA ÖRTÜSÜ, İKİ TABAKALI || İİ iel
+LORAS76 | KOLLAJEN İÇERİKLİ YARA ÖRTÜSÜ (KÜÇÜK) 0-99 em? | | ge)
+| ORAST7 | KOLLAJEN İÇERİKLİ YARA ÖRTÜSÜ (ORTA) 100-224 em — | İİ se)
+LORAS78 | KOLLAJEN İÇERİKLİ YARA ÖRTÜSÜ (BÜYÜK) 225* em? İİ 3)
+MADDE 9- SUT eki “EK -3/G Göz Sağlığı ve Hastalıkları Branşına Ait Tıbbi Malzemeler” listesinde yer alan “GZ1028”
+SUT kodlu tıbbi malzemenin alan tanımı ve fiyatı ile birlikte listeden çıkarılmasına oy birliği ile,
+MADDE 10- SUT eki “Kardiyoloji Branşına Ait Tıbbi Malzemeler Listesi (EK-3/H)” nde yer alan “KR2009” SUT
+kodumun alan tanımının “KATETER, İNTRAVASKÜLER GÖRÜNTÜLEME, KORONER” şeklinde değiştirilmesine oy birliği ile,
+MADDE 11- SUT eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)” nde yer alan “OR6070” SUT
+kodlu tıbbi malzemenin alan tanımı ve fiyatı ile birlikte listeden çıkarılmasına oy birliği ile,
+MADDE 12. Acil durumlarda zehirlenme vakalarında kullanılmak üzere Sağlık Bakanlığı Ulusal Zehir Danışma
+Merkezince Antidot Stok Merkezi Hastanelerine gönderilmekte olan;
+a) “Silibinin” etkin maddeli “Legalon-SIL 350 mg/flakon 4 flakon/kutu” isimli antidotun 25.08.2021 tarihinden geçerli
+olmak üzere 4 flakon/kutu fiyatının 10.432,8 TL, günlük dozunun 70 kg hasta için 11 flakon olacak şekilde,
+b) “Hydroxocobalamin” etkin maddeli “Cyanokit 5 g/Şişe | şişe/kutu” isimli antidotun 17.08.2021 tarihinden geçerli olmak
+üzere | şişe/kutu fiyatının 21.546 TL, günlük dozunun 70 kg hasta için 2 şişe olacak şekilde,
+<) “Physostigmine” etkin maddeli “Anticholium 2 mg/fampul 5 ampul/kutu isimli antidotun 25.08.2021 tarihinden geçerli
+olmak üzere 1 ampul fiyatının 637,2 TL, günlük dozunun 70 kg hasta için 2 ampul olacak şekilde,
+6) “DMPS” etkin maddeli “Dimaval 250 mg/ampul 5 ampul/kutu” isimli antidotun 25.08.2021 tarihinden geçerli olmak
+üzere 5 ampul/kutu fiyatının 3.672 TL, günlük dozunun 70 kg hasta için 14 ampul olacak şekilde,
+d) “Digoksin İmmün Fab” etkin maddeli “Digifab 40 mg/flakon | vial /kutu” isimli antidotun 15.10.2021 tarihinden geçerli
+olmak üzere | vial /kutu fiyatının 15.660 TL, günlük dozunun 70 kg hasta için 20 vial olacak şekilde,
+MEDULA sisteminde düzenlenmesine oy birliği ile,
+
+MADDE 13- SUT eki “Yurt Dışı İlaç Fiyat Listesi (EK-4/C)” nde kayıtlı olan “ZARONTİN 250 MG/5 ML 200 ML
+SÜSPANSİYON” isimli ilacın fiyatının, 7,25 Avro olarak güncellenmesine oy birliği ile,
+
+MADDE 14- EK-4/C listesinde kayıtlı olan “NEOPHE 685 MG 550 TABLET.” isimli ilacın fiyatının, 08.02.2021
+tarihinden geçerli olmak üzere 200,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 15- EK-4/C listesinde kayıtlı olan “MELPHALAN 50 MG 1 INJECTION” isimli ilacın fiyatının, 09.04.2021
+tarihinden geçerli olmak üzere 42,00 Avro*ya düşürülmesine oy birliği ile,
+
+MADDE 16- EK-4/C listesinde kayıtlı olan “TETRABENAZINE 25 MG 30 TABS- ALHAVI SCORED TABLET.” isimli
+ilacın fiyatının, 09.04.2021 tarihinden geçerli olmak üzere 8,70 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 17- EK-4/C listesinde kayıtlı olan “DIONDEL 100 MG 50 TB.” isimli ilacın fiyatının, 02.06.2021 tarihinden
+geçerli olmak üzere 10,83 Avro”ya düşürülmesine oy birliği ile,
+
+MADDE 18- EK-C listesinde kayıtlı olan “BCG-MEDAC SET” isimli ilacın fiyatının, 18.05.2021 tarihinden geçerli
+olmak üzere 135,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 19- EK-4/C listesinde kayıtlı olan “STI ONCO-BCG 40 MG/MML 2 VIAL” isimli ilacın fiyatının, 29.06.2021
+tarihinden geçerli olmak üzere 135,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 20- EK-4/C listesinde kayıtlı olan “ONKO BCG 100 MG/ML 1 VLAL” isimli ilacın fiyatının, 22.06.2021
+tarihinden geçerli olmak üzere 135,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 21- EK-4/C listesinde kayıtlı olan “BCG CULTURE SSI 30 MG 4 VIALS” isimli ilacın fiyatının, 30.06.2021
+tarihinden geçerli olmak üzere 135,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 22- EK-4/C listesinde kayıtlı olan “OSPOLOT 50 MG 200 TB” isimli ilacın fiyatının, 07.05.2021 tarihinden
+geçerli olmak üzere 45,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 23- EK-4/C listesinde kayıtlı olan “AMMONUL 50 ML | AMPUL” isimli ilacın fiyatının, 02.08.2021 tarihinden
+geçerli olmak üzere 600,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 24- EK-4/C listesinde kayıtlı olan “DACTICIN 0,5 MG 1 VIAL” isimli ilacın fiyatının, 02.08.2021 tarihinden
+geçerli olmak üzere 60,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 25- EK-4/C listesinde kayıtlı olan “AMBUTYRATE 500 MG 100 TABLETS” isimli ilacın fiyatının, 03.08.2021
+tarihinden geçerli olmak üzere 190,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 26- EK-4/C listesinde kayıtlı olan “HAMSYL 3750 TU/$ ML VIAL” isimli ilacın fiyatının, 03.08.2021 tarihinden
+geçerli olmak üzere 698,90 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 27- EK-4/C listesinde kayıtlı olan “COENZYME © 10 100 MG 60 CAP” isimli ilacın fiyatının, 16.08.2021
+tarihinden geçerli olmak üzere 29,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 28- EK-4/C listesinde kayıtlı olan “COENZYME © 10 200 MG 30 CAP” isimli ilacın fiyatının, 16.08.2021
+tarihinden geçerli olmak üzere 60,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 29- EK-4/C listesinde kayıtlı olan “COENZYME O 10 250 MG 30 CAP” isimli ilacın fiyatının, 16.08.2021
+tarihinden geçerli olmak üzere 66,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 30- EK-4/C listesinde kayıtlı olan “MELPHALAN 50 MG 1 INECTION” isimli ilacın fiyatının, 05.08.2021
+tarihinden geçerli olmak üzere 40,45 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 31- EK-4/C listesinde kayıtlı olan “MELETIN CAPSULES 100 MG 500 CAPSULES” isimli ilacın fiyatının,
+16.08.2021 tarihinden geçerli olmak üzere 134,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 32- EK-4/C listesinde kayıtlı olan “CLOBIUM 10 (CLOBAZAM 10 MG SCORED 60 TABLET)” isimli ilacın
+fiyatının, 13.08.2021 tarihinden geçerli olmak üzere 3,49 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 33- EK-4/C listesinde kayıtlı olan “TEPADINA 100 MG 1 AMP.” isimli ilacın fiyatının, 16.08.2021 tarihinden
+geçerli olmak üzere 475,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 34- EK-4/C listesinde kayıtlı olan “PROCARBAZINA ECZANE 50 MG 50 HARD CAPSULES” isimli ilacın
+fiyatının, 17.08.2021 tarihinden geçerli olmak üzere 178,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 35- EK-4/C listesinde kayıtlı olan “LOMUSTINA ECZANE 10 MG 20 HARD CAPSULES” isimli ilacın
+fiyatının, 17.08.2021 tarihinden geçerli olmak üzere 184,00 Avro?ya düşürülmesine oy birliği ile,
+
+MADDE 36- EK-4/C listesinde kayıtlı olan “LOMUSTINA ECZANE 100 MG 20 HARD CAPSULES” isimli ilacın
+fiyatının, 17.08.2021 tarihinden geçerli olmak üzere 563,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 37- EK-4/C listesinde kayıtlı olan “LOMUSTINA ECZANE 40 MG 20 HARD CAPSULES” isimli ilacın
+fiyatının, 17.08.2021 tarihinden geçerli olmak üzere 237,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 38- EK-4/C listesinde kayıtlı olan “PACLIALL 100 MG 1 VIAL” isimli ilacın fiyatının, 18.08.2021 tarihinden
+geçerli olmak üzere 69,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 39- EK-4/C listesinde kayıtlı olan “SODTUM DICHLOROACETATE 50 G POWDER” isimli ilacın fiyatının,
+03.09.2021 tarihinden geçerli olmak üzere 125,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 40- EK-4/C listesinde kayıtlı olan “PACLINAB 100 MG POWDER FOR SUSPENSTION 1 VLAL” isimli ilacın
+fiyatının, 08.10.2021 tarihinden geçerli olmak üzere 69,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 41- EK-4/C listesinde kayıtlı olan “PASTOCYS FREEZE-DRJED INTRAVESICAL BCG 120 MG VIAL”
+isimli ilacın fiyatının, 29.07.2021 tarihinden geçerli olmak üzere 125,00 Avro*ya düşürülmesine oy birliği ile,
+
+MADDE 42- EK-4/C listesinde kayıtlı olan “BCG CULTURE SSI 30 MG 4 VIALS” isimli ilacın fiyatının, 11.10.2021
+tarihinden geçerli olmak üzere 125,00 Avro'ya düşürülmesine oy birliği ile,
+
+MADDE 43- “Eribulin mesylate” etkin maddeli “EMBREMMA (ERIBULIN) 0,5 MG/ML” isimli ilacın 03.08.2021
+tarihinden geçerli olmak üzere 179,00 Avro olacak şekilde EK-4/C listesine ilave edilmesine oy birliği ile,
+
+MADDE 44- “Treprostinil sodyum” etkin maddeli “TREPROSTINIL TILLOMED 2,5 MG/ML SOLUTLON POR
+INFUSION» isimli ilacın 15.03.2021 tarihinden geçerli olmak üzere 1.880,00 Avro olacak şekilde EK-4/C listesine ilave edilmesine
+oy birliği ile,
+
+MADDE 45- “Treprostinil sodyum” etkin maddeli “TREPROSTINIL TILLOMED $ MG/ML SOLUTION FOR
+INFUSION” isimli ilacın 15.03.2021 tarihinden geçerli olmak üzere 3.760,00 Avro olacak şekilde EK-4/C listesine ilave edilmesine
+oy birliği ile,
+
+MADDE 46- “Ponatinib” etkin maddeli “PONATIB 15 MG 60 TB.” isimli ilacın 16.06.2021 tarihinden geçerli olmak
+üzere 4.250,00 Avro olacak şekilde EK-4/C listesine ilave edilmesine oy birliği ile,
+
+MADDE 47- “Trihexyphenidyl hydrochloride” etkin maddeli “TRIHEXYPHENIDYL HCL 5 MG 100 TABLET” isimli
+ilacın 09.07.2021 tarihinden geçerli olmak üzere EK-4/C listesinden çıkarılmasına oy birliği ile,
+
+MADDE 48- “Cabozantinib” etkin maddeli “COMETRIO 4 ADET 140 MG (7X80 MG CAPSULES ve 21X20 MG
+CAPSULES)” isimli ilacın 13.08.2021 tarihinden geçerli olmak üzere EK-4/C listesinden çıkarılmasına oy birliği ile,
+
+MADDE 49- “Timolol Malcat,Dorzolamide hydrocloride” etkin maddeli “COSOPT PF (PRESERVATİIVE FREE) EYE
+DROPS 60X0,2ML” isimli ilacın 14.05.2021 tarihinden geçerli olmak üzere EK-4/C listesinden çıkarılmasına oy birliği ile,
+
+MADDE 50- Alınan Kararlardan;
+
+1- 12 numaralı Kararın (a) bendinin 25.08.2021 tarihinde, (b) bendinin 17.08.2021 tarihinde, (c) bendinin 25.08.2021
+tarihinde, (ç) bendinin 25.08.2021 tarihinde, (d) bendinin 15.10.2021 tarihinde,
+
+2- 13 numaralı kararın 02.11.2021 tarihinde,
+
+3- 14 ilâ49 numaralı kararların Kararda belirtilen tarihlerden geçerli olmak üzere yayımı tarihinde,
+
+4- Diğer kararların Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ'de
+belirtilen tarihte,
+
+yürürlüğe girmesine,
+
+Karar verilmiştir.

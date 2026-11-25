@@ -1,0 +1,248 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/203720
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 102387084
+ADI: SOSYAL GÜVENLİK KURUMUNCA ELEKTRONİK ORTAMDA OLUŞTURULAN ORTAK BİR VERİ TABANINDAN YARARLANMAK SURETİYLE YAPILACAK HARCAMALARDA VERİ GİRİŞ İŞLEMLERİNİN GERÇEKLEŞTİRME GÖREVİ OLARAK KABUL EDİLMESİNE İLİŞKİN USUL VE ESASLAR
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5f803446c491e1e82d3ab7a271e4c3c5df7347708e99c66350dd42a2563b0384
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+     SOSYAL GÜVENLİK KURUMUNCA ELEKTRONİK ORTAMDA OLUŞTURULAN
+      ORTAK BİR VERİ TABANINDAN YARARLANMAK SURETİYLE YAPILACAK
+     HARCAMALARDA VERİ GİRİŞ İŞLEMLERİNİN GERÇEKLEŞTİRME GÖREVİ
+            OLARAK KABUL EDİLMESİNE İLİŞKİN USUL VE ESASLAR
+
+                                       BİRİNCİ BÖLÜM
+                               Amaç, Kapsam, Dayanak ve Tanımlar
+          Amaç
+          MADDE 1- (1) Bu Usul ve Esasların amacı, elektronik ortamda oluşturulan ortak bir veri
+tabanından yararlanmak suretiyle gerçekleştirilecek veri giriş işlemlerinin, Sosyal Güvenlik Kurumunca
+yapılacak harcamalarda gerçekleştirme görevi olarak kabul edilmesine ilişkin usul ve esasları
+düzenlemektir.
+          Kapsam
+          MADDE 2- (1) Bu Usul ve Esaslar, Sosyal Güvenlik Kurumu merkez ve taşra birimleri
+tarafından elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılan veri
+giriş işlemleri sonucunda gerçekleştirilen harcamaları kapsar.
+          Dayanak
+          MADDE 3- (1) Bu Usul ve Esaslar, Sosyal Güvenlik Kurumları Harcama Belgeleri
+Yönetmeliğinin 5 inci maddesinin altıncı fıkrasına dayanılarak hazırlanmıştır.
+          Tanımlar
+          MADDE 4- (1) Bu Usul ve Esaslarda geçen;
+          a) Bakan: Çalışma ve Sosyal Güvenlik Bakanını,
+          b) Belge Listesi: Sosyal Güvenlik Kurumu Harcamalarında Elektronik Ortamda Ortak Bir Veri
+Tabanına Girişi Yapılmak Suretiyle Gerçekleştirme Belgesi Olarak Kabul Edilecek Belge Listesini,
+          c) Kurum: Sosyal Güvenlik Kurumunu,
+          ifade eder.
+                                            İKİNCİ BÖLÜM
+                             Gerçekleştirme Görevi ve Veri Giriş İşlemleri
+
+         Gerçekleştirme görevi
+         MADDE 5- (1) Bu Usul ve Esasların ekinde yer alan belgeler, elektronik ortamda oluşturulan
+ortak bir veri tabanından yararlanmak suretiyle gerçekleştirilecek veri giriş işlemlerinde, Kurumca
+yapılacak harcamalarda gerçekleştirme görevi olarak kabul edilir ve ödeme belgesine ayrıca bu veriler
+kanıtlayıcı belge olarak bağlanmaz. Gerçekleştirme görevi yapılırken bu belgeler gerçekleştirme belgesi
+olarak kabul edilir.
+         Veri giriş işlemleri
+         MADDE 6- (1) Veri girişlerinin gerçekleştirme görevi olarak kabul edilebilmesi için Kurumca
+tespit edilen belirli ve güvenilir elektronik ortamlarda, yetkilendirilen ve görevlendirilen kişilerce
+girilmesi, Kurumca belirlenen şartlara uygun olarak düzenlenmesi ve içeriği itibarıyla mevzuatta
+belirtilen bilgileri içermesi zorunludur.
+         Yürürlükten kaldırılan düzenlemeler
+         MADDE 7- (1) 18/5/2012 tarihinde yayımlanarak yürürlüğe giren Sosyal Güvenlik Kurumunca
+Elektronik Ortamda Oluşturulan Ortak Bir Veri Tabanından Yararlanmak Suretiyle Yapılacak
+Harcamalarda Veri Girişinin Gerçekleştirme İşlemi/Belgesi Olarak Kabul Edilmesine İlişkin Usul ve
+Esaslar yürürlükten kaldırılmıştır.
+         Yürürlük
+         MADDE 8 - (1) Bu Usul ve Esaslar Kurumca yayımlandığı tarihte yürürlüğe girer.
+         Yürütme
+         MADDE 9- (1) Bu Usul ve Esasların hükümlerini Bakan yürütür.
+
+
+        EK: Belge Listesi
+  SOSYAL GÜVENLİK KURUMU HARCAMALARINDA ELEKTRONİK ORTAMDA
+  OLUŞTURULAN ORTAK BİR VERİ TABANINA GİRİŞİ YAPILMAK SURETİYLE
+   GERÇEKLEŞTİRME BELGESİ OLARAK KABUL EDİLECEK BELGE LİSTESİ
+
+                                                               Elektronik Ortamda          Örnek veya
+Sıra
+         Yasal Dayanağı          İkincil Mevzuattaki Yeri             Alınan                 Ek No
+No                                                                                         (Mevcutsa)
+                                                               Gerçekleştirme Belgesi
+
+
+       1- 5510 sayılı Sosyal
+       Sigortalar ve Genel   1- Sosyal Güvenlik Kurumları
+  1    Sağlık Sigortası      Harcama Belgeleri Yönetmeliğinin 1- İş Göremezlik Belgesi Örnek No: 25
+       Kanununun 18 inci     45 inci maddesi
+       maddesi
+                                                              1- Fatura Üst Yazısı
+                                                              2- İcmal Listesi
+       1- 5510 sayılı Sosyal
+                                                              3- Hizmet Detay Belgesi
+       Sigortalar ve Genel
+                             1- Sağlık Uygulama Tebliği (SUT) 4- Reçete Arkası Çıktısı
+  2    Sağlık Sigortası
+                                                              5- Diş Hastalarına
+       Kanununun 73 üncü
+                                                              Yapılan İşlemleri Gösterir
+       maddesi
+                                                              Diş Şeması
+                                                              6- E-Sevk Belgesi
+                                                              1- E-Reçete
+                                                              2- E-Rapor
+       1- 5510 sayılı Sosyal                                  3- E-Sevk Belgesi
+                             1- Sağlık Uygulama Tebliği (SUT)
+       Sigortalar ve Genel                                    4- E-Fatura
+                             2- Sosyal Güvenlik Kurumları
+  3    Sağlık Sigortası                                       5- Yatan Hasta Çıkış
+                             Harcama Belgeleri Yönetmeliğinin
+       Kanununun 73 üncü                                      Özeti (Epikriz)
+                             45 inci maddesi
+       maddesi                                                6- İtiraz Değerlendirme
+                                                              Komisyon Karar
+                                                              Tutanakları
+                                                           1- Emekli, Dul ve
+                                                           Yetimlerden Yapılan
+       1- 506 sayılı Sosyal                                Kesinti Toplamları Listesi
+       Sigortalar Kanunu                                   2- Ödemeler Sistemi İcra
+                                                           Daireleri Kesinti
+       2- 5434 sayılı Türkiye 1- Sosyal Güvenlik Kurumları
+                                                           Toplamları Listesi
+       Cumhuriyeti Emekli Harcama Belgeleri Yönetmeliğinin
+                                                           3- Ödemeler Sistemi
+       Sandığı Kanunu          45 inci maddesi             Şube Kesinti Listesi
+       3- 5510 sayılı Sosyal                               4- Ödemeler Sistemi
+  4    Sigortalar ve Genel                                 Muhasebe Kesinti Listesi
+       Sağlık        Sigortası                             5- Ödemeler Sistemi İcra
+       Kanununun 28 inci                                   Daireleri Kesinti Listesi
+       maddesi                                             6- Aylık Mahcur (Transfer)
+                                                           İcra Ödeme Listesi
+                                                           7- Aylık Aşan Kişi Sayısı
+                                                           ve Ödemelerin Tahsis
+                                                           Gruplarına Göre Dağılımı
+                                                           Listesi
+Sıra                                                           Elektronik Ortamda         Örnek veya
+No       Yasal Dayanağı         İkincil Mevzuattaki Yeri              Alınan                Ek No
+                                                              Gerçekleştirme Belgesi      (Mevcutsa)
+
+                                                              8- Aylık Alanların Tahsis
+                                                              Grupları Bazında
+                                                              Dağılımı ile Onlara
+                                                              Ödenen Miktarları
+                                                              Gösterir Liste
+                                                              9- Doğu ve Güneydoğu
+                                                              Anadolu Bölgesi Aylık
+                                                              Tahsis Şahıs Toplamları
+                                                              Listesi
+                                                              10- Ödeme Döneminde
+                                                              Emekli, Dul ve
+                                                              Yetimlerden Yapılan
+                                                              Kesintiler Listesi
+                                                              11- Ödeme Emrine Esas
+                                                              İcmal Tablosu
+                                                              12- Sandık Tediye
+                                                              Tablosu
+                                                              13- Sandık Tahsilat
+                                                              Tablosu
+                                                             1- Aylık Bordrosu          Örnek No: 9
+                                                             2- Personel Bildirimi      Örnek No: 10
+                                                             3- Atama Onayı
+                                                             4- İşe Başlama Yazısı      Örnek No: 11
+                                                             5- Personel Nakil
+                                                             Bildirimi
+                                                             6-Terfi Onayı
+                                                             7-Görevden
+                                                             Uzaklaştırmalarda, Yetkili
+                                                             Makamın Onayı veya
+                                                             Yazısı
+                                                             8-Görevden
+       1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları     Uzaklaştırılmış Olanların
+  5
+       Memurları            Harcama Belgeleri Yönetmeliğinin Göreve İadelerinde,
+       Kanununun 43 üncü 9 uncu maddesi                      Yetkili Makamın Onayı ve
+       maddesi                                               Göreve Başlama Yazısı
+                                                             9- Harcama Talimatı        Örnek No: 1
+                                                             10- Vekâlet Onayı
+                                                             11- İkinci Görev Onayı
+                                                             12- Personelin Kıdem
+                                                             Aylığına Esas Hizmet
+                                                             Sürelerini Gösteren İnsan
+                                                             Kaynakları Birimince
+                                                             Onaylı Liste
+                                                             13-Durumunda Değişiklik
+                                                             Olanların Listesi
+                                                             Elektronik Ortamda      Örnek veya
+Sıra
+         Yasal Dayanağı         İkincil Mevzuattaki Yeri            Alınan             Ek No
+No                                                                                   (Mevcutsa)
+                                                            Gerçekleştirme Belgesi
+
+
+                                                            1-Yabancı Dil Sınav
+                                                            Sonuç Belgesi
+                                                            2-Yetkili Makamın Onayı
+                                                            3- Aylık Bordrosu        Örnek No: 9
+                                                            4- Çeşitli Ödemeler      Örnek No: 12
+                                                            Bordrosu
+       1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları    5- İş Riski, İş Güçlüğü,
+ 6
+       Memurları Kanununun Harcama Belgeleri Yönetmeliğinin Malî Sorumluluk
+       152 nci maddesi      10 uncu maddesi                 Tazminatı ve Eleman
+                                                            Teminindeki Güçlük
+                                                            Zammı ile Özel Hizmet
+                                                            Tazminatlarına İlişkin
+                                                            Ana Cetvel ve Dağılım
+                                                            Listeleri
+                                                         1- Aile Cüzdanının
+                                                         Dairesince Onaylı Örneği
+                                                         2- Nüfus Kayıt Örneği
+                                                         3- Aile Yardımı Bildirimi Örnek No: 13
+    1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları    4- Doğum ve Ölüm
+    Memurları Kanununun Harcama Belgeleri Yönetmeliğinin Yardımına İlişkin Dilekçe
+  7
+                                                         5- Ölü Doğan Çocuklara
+    202, 207, 208 ve 211 11 inci maddesi
+                                                         İlişkin Rapor
+    inci maddeleri
+                                                         6- Çeşitli Ödemeler       Örnek No: 12
+                                                         Bordrosu
+
+                                                         1-Çeşitli Ödemeler         Örnek No: 12
+                                                         Bordrosu
+                                                         2- Görevlendirme Onayı
+                                                         3- Saat Başına Ödenecek
+    1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları
+                                                         Fazla Çalışma Ücretini
+  8 Memurları Kanununun Harcama Belgeleri Yönetmeliğinin Gösterir Onay
+    178 inci maddesi     12 nci maddesi                  4- Fazla Çalışma Yapan
+                                                         Personel ile Çalışılan Gün
+                                                         ve Süreleri Gösterir
+                                                         Çizelge
+
+    1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları    1- Yetkili Makamın Onayı
+  9 Memurları Kanununun Harcama Belgeleri Yönetmeliğinin 2- Çeşitli Ödemeler      Örnek No: 12
+    122 nci maddesi      13 üncü maddesi                 Bordrosu
+
+    1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları    1- Aylık Bordrosu           Örnek No: 9
+    Memurları Kanununun Harcama Belgeleri Yönetmeliğinin 2- Personel Bildirimi       Örnek No: 10
+ 10
+    4 üncü maddesi       14 üncü maddesi                 3- İşe Başlama Yazısı
+                                                         4- Sözleşme
+                                                            Elektronik Ortamda         Örnek veya
+Sıra
+       Yasal Dayanağı        İkincil Mevzuattaki Yeri              Alınan                Ek No
+No                                                                                     (Mevcutsa)
+                                                           Gerçekleştirme Belgesi
+
+    1- 657 sayılı Devlet 1- Sosyal Güvenlik Kurumları      1- Personel Bildirimi       Örnek No: 10
+    Memurları Kanununun Harcama Belgeleri Yönetmeliğinin   2- İşçi Hareketleri Onayı   Örnek No: 15
+    4 üncü maddesi         15 inci maddesi                 3- İşçi Ücret Bordrosu      Örnek No: 14
+    2- 3308 sayılı Mesleki                                 4- Onay
+ 11 Eğitim Kanunu                                          5- Çeşitli Ödemeler         Örnek No: 12
+    3- 4857 sayılı İş                                      Bordrosu
+    Kanunu                                                 6- Hizmet Cetveli
+    4-Toplu İş                                             7- Harcama Talimatı         Örnek No: 1
+    Sözleşmeleri                                           8- Kıdem Tazminatının
+                                                           Hesaplanmasını Gösteren
+                                                           Belge
+

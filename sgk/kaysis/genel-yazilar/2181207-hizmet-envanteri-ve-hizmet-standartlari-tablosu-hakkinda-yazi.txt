@@ -1,0 +1,440 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/72676
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 2181207
+ADI: HİZMET ENVANTERİ VE HİZMET STANDARTLARI TABLOSU HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 1cf7b799e88c227823382b919ef339046f14ed1f7baf1f6eaba722110195da71
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                                             EK-1
+ÇALIŞMA ESASLARI
+       1. Uygulamalara “http://yetkili.kaysis.gov.tr” veya http://kamu.basbakanlik.gov.tr”
+Internet adresinden erişilecektir. (“www” kısaltması kullanılmayacaktır).
+
+       2. Birimlerinde sunulan hizmetlerin süreçleri ve mevzuat dayanakları konusunda yeterli
+bilgiye sahip, envanter kayıt işlemlerini yürütecek ve kayıtlara ilişkin sürekli güncellemeleri
+yapacak uygun sayıda (en az iki) “Veri Giriş Görevlisi” tespit edilerek görevlendirilecektir.
+
+Daha önce “Veri Giriş Görevlisi” belirleyerek iletişim bilgilerini Strateji Geliştirme
+Başkanlığına bildiren Birimlerin tekrar Veri Giriş Görevlisi belirlemelerine gerek yoktur.
+
+        3. Birimlerde istenilen sayıda Veri Giriş Görevlisi belirlenebilir. Ankara Sosyal
+Güvenlik İl Müdürlüğü ile alt birimleri için (Sosyal Güvenlik Merkezi, Sağlık Sosyal Güvenlik
+Merkezi, Mali Hizmetler Sosyal Güvenlik Merkezi) ayrı ayrı en az ikişer adet Veri Giriş
+Görevlisinin belirlenmesi zorunludur. Veri Giriş Görevlisinin birimden ayrılması halinde
+ayrılan Veri Giriş Görevlisinin yerine başka bir kişi Veri Giriş Görevlisi olarak
+yetkilendirilerek uygulamalara erişim yetkilerinin verilebilmesi için T.C. Kimlik Numaraları,
+görevli oldukları birim ile irtibat bilgilerinin (kurumsal e-posta ve telefon) en kısa süre
+içerisinde Strateji Geliştirme Başkanlığına bildirmesi gerekmektedir.
+
+Bir görevli görev yaptığı birimin hizmetleri dışında kayıt girmeyecektir.
+
+       4. Görevlendirilen Veri Giriş Görevlileri öncelikle PTT şubelerine şahsen başvurarak e-
+Devlet şifresi alacaktır. e-İmza şifresi olanlar bu şifre ile de giriş yapabilirler. e-İmza şifresi/e-
+Devlet şifresi bulunanların tekrar şifre almalarına gerek yoktur.
+
+       5. Veri Giriş Görevlileri Hizmet envanteri uygulamaları ile ilgili bilgileri Veri Onay
+Görevlilerinden alabileceklerdir.
+
+       6. Veri Giriş Görevlileri ilk kaydı yapmak ve değişiklileri en kısa süre içerisinde
+işlemekle görevlidir.
+
+       7. Hizmet Envanteri Yönetim Sistemine (HEYS) doğrudan vatandaşa yönelik sunulan
+hizmetlerle birlikte doğrudan vatandaşa yönelik olmayan, resen sunulan veya kurum
+personeline yönelik hizmetler de kaydedilecektir.
+
+        8. HEYS’e ilk aşamada birimlerde sunulan ana hizmetler aktarılacak çalışmanın
+ikinci aşamasında ise; Yardımcı ve Danışma Denetim Birimleri ile Destek hizmetlerine ilişkin
+kayıtlar girilecektir. İkinci aşama kayıt işlemleri için Başbakanlık kurumları sonraki bir aşama
+da bilgilendirecektir.
+
+       9. Veri Giriş Görevlileri tarafından HEYS’e bir hizmetin kaydedilmesinden sonra söz
+konusu hizmetin sunumunda girdi olarak kullanılan veya sonucunda çıktı olarak üretilen veriler
+Devlet Belge Veri Tabanına (DBVT) kaydedilecektir.
+
+      10. Kayıtların tam, doğru ve anlaşılır olmasından, kayıtlarda sonradan bir değişiklik
+meydana gelmesi durumunda güncellemelerin en kısa sürede yapılmasından ilgili birim amiri
+sorumludur.
+
+                                                                                                 1/6
+        11. Veri Onay Görevlileri, kurumun hizmet veya veri envanterlerine ilişkin bilgilerde
+değişiklik olması durumunda gerekli güncellemeleri ilgili Veri Giriş Görevlilerinden istemeye
+yetkilidir.
+
+       12. Veri Giriş Görevlilerinin görevleri sürekli niteliktedir. Bu nedenle Veri Giriş
+Görevlilerinin değiştirilmesi durumunda yeni görevli en kısa süre içerisinde ilgili birimce
+sorumlu koordinasyon birimine (Strateji Geliştirme Başkanlığına) bildirilecek sorumlu
+koordinasyon birimince de İdareyi Geliştirme Başkanlığına bildirilerek yetkilendirilmesi
+sağlanacaktır.
+
+        13. İdareyi Geliştirme Başkanlığı ve Veri Onay Görevlileri, girilen kayıtları standardın
+sağlanması, eksiklerin veya yanlışların düzeltilmesi için gerekçeli olarak geri göndermeye
+yetkilidir.
+
+       14. Vatandaşlardan sunulan hizmetlere ilişkin gelebilecek sorular için Veri Giriş
+Görevlilerinin isim ve irtibat bilgileri (telefon ve/veya e-posta adresleri) e-Devlet Kapısında
+yayınlanacak hizmet envanteri tablosu üzerinde yer alacaktır.
+
+       15. HEYS’e girilen          kayıtlar   “http://envanter.basbakanlik.gov.tr”      internet
+adreslerinden yayınlanacaktır.
+
+        16. 31/07/2009 tarihli ve 27305 sayılı Resmi Gazete’de yayımlanan Kamu
+Hizmetlerinin Sunumunda Uyulacak Usul ve Esaslara İlişkin Yönetmeliğin 5 inci ve 6 ncı
+maddesi gereğince; Hizmet Envanteri Tablosu ile Hizmet Standartları Tablosu
+“http://www.sgk.gov.tr” kurumsal internet adresinde verilen hizmetler panelinde
+yayınlanmaktadır.
+
+        17. HEYS uygulamalarının kullanılmasında karşılaşılacak eksiklik veya hatalar
+uygulamalarda yer alan “Bize Ulaşın” bölümünden İdareyi Geliştirme Başkanlığına
+bildirilecektir.
+
+        18. Kurumsal Internet sayfasında “Verilen Hizmetler” panelinde yayınlanan
+Biriminize/İl Müdürlüğünüze ait Kamu Hizmet Standartları Tablosu içerisinde yer alan
+vatandaşa sunulan hizmetler ile Elektronik Kamu Bilgi Yönetim Sistemi (KAYSİS) paneli
+içerisinde yer alan Hizmet Envanteri Yönetim Sistemine (HEYS) kaydedilen hizmet adlarının
+ve istenen belgelerin aynı olması gerekmektedir. Farklı ise Kamu Hizmet Standartları
+Tablosunun aynı yönde düzeltilmesi gerekmektedir.
+
+        19.    Veri      Giriş     Görevlileri      “http://yetkili.kaysis.gov.tr”  veya
+“http://kamu.basbakanlik.gov.tr” Internet adresinin HEYS panelinden üzerinden Başbakanlık
+tarafından yayınlanan HEYS (Hizmet Envanteri Yönetim Sistemi) Kullanım Kılavuzuna
+ulaşabilirler.
+
+       20. Başbakanlığın 10 Şubat 2011 tarih ve 27842 sayılı Resmi Gazete’de yayınlanan
+Devlet Teşkilatı Veri Tabanı Konulu 2011/1 sayılı Genelgesi gereği, Birimlerin teşkilat
+yapısında meydana gelecek değişikliklerin görevliler tarafından en geç üç gün içinde Devlet
+Teşkilatı Merkezi Kayıt Sistemine ( DETSİS) girilmesi gerekmektedir. Bu nedenle teşkilat
+
+
+
+                                                                                           2/6
+yapısında değişiklik olan Birimler değişiklikleri süresi içinde Strateji Geliştirme Başkanlığına
+(Koordinasyon ve Yönetim Hizmetleri Daire Başkanlığı) bildirmeleri gerekmektedir.
+
+        21. Sosyal Güvenlik Kurumunun Merkez Teşkilatı Çalışma Yönetmeliği ile (27/11/2014
+tarihli ve 496 sayılı Yönetim Kurulu Kararı) idari yapılanması değişen Birimler, öncelikle
+Devlet Teşkilatı Merkezi Kayıt Sistemindeki (DETSİS) bilgilerinin güncellenebilmesi için;
+Birimin İdari Birim Kimlik Kodu, Birimin eski adı ile yeni adı, statüsü, hukuki işlem tarihi,
+telefon ve faks numaraları, e-posta ve internet adresleri, gizlilik durumu, yönetici adı soyadı ile
+adres bilgilerinin Strateji Geliştirme Başkanlığına (Koordinasyon ve Yönetim Hizmetleri Daire
+Başkanlığı) en kısa süre içerisinde bildirilmesi gerekmektedir.
+
+Yapılandırması değişen Birimler öncelikle DETSİS’deki bilgilerinin düzeltilmesini
+sağlayacaklar. Daha sonra “Hizmet Envanteri” bilgilerini güncelleme çalışmalarına
+başlayacaklardır.
+
+
+VERİ GİRİŞ GÖREVLİLERİ TARAFINDAN HİZMETLER SİSTEME
+AKTARILIRKEN DİKKAT EDİLMESİ GEREKEN HUSUSLAR
+1. HİZMETİN ADI
+
+       Bu bölüme idarenin yürüttüğü bütün hizmetler açık ve anlaşılır şekilde yazılacaktır.
+
+- Hizmet adı, Eylem (Yüklem) bildirecek şekilde yazılmalıdır. Tercihen kullanılan yüklem
+mesi/ması şeklinde olmalıdır. Örneğin Yapılması, Düzenlenmesi, Verilmesi gibi.
+- Hizmet adı, hizmetin ne olduğunun tam olarak anlaşılamayacağı kadar kısa olmamalıdır.
+- Hizmet adı işlemi, işlemleri, hizmeti gibi ifadeler kullanılarak bitirilmemelidir.
+- Hizmet adında cümle düşüklüğü ve/veya anlatım bozukluğu olmamalı, noktalama işaretlerine
+dikkat edilmelidir.
+- Hizmetin adında kurallara uygun olmayan şekilde kısaltma veya yabancı dilde kelime
+kullanılmamalıdır.
+- Hizmet adında baş harfler büyük olarak yazılmalıdır. Örneğin “Ölüm Aylığı Bağlanması “gibi
+
+2. HİZMETİN TANIMI
+
+       Bu bölüme hizmetin mahiyetini belirten bir tanım yapılacaktır.
+
+- Hizmetin tanımında cümle düşüklüğü ve/veya anlatım bozukluğu olmamalı, noktalama
+işaretlerine dikkat edilmelidir.
+- Hizmet Adı ile Hizmet Tanımı birbiriyle uyumlu olmalı. Farklı iki hizmet gibi
+anlaşılmamalıdır.
+- Hizmet tanımında kurallara uygun olmayan şekilde kısaltma veya yabancı dilde kelime
+kullanılmamalıdır.
+- Hizmetin tanımında, hizmetle ilgili yetki/görev/sorumluluğun düzenlendiği mevzuat
+hükümleri yazılmamalıdır.
+- Hizmetin tanımı, hizmetin ne olduğunun tam olarak anlaşılamayacağı şekilde kısa
+olmamalıdır.
+
+
+
+                                                                                              3/6
+3. STANDART DOSYA PLANI KODU
+
+        Bu bölüme 2005/7 Sayılı Başbakanlık Genelgesi ile oluşturulması öngörülen
+“Standart Dosya Planı”ndaki konu kodlar yazılacaktır. Hizmet Envanterinin oluşturulmasında
+kilit nokta Başkanlık Makamının 01/02/2013 tarihli ve 368121 sayılı OLUR’ları ile 09/02/2013
+tarihinden itibaren uygulanmaya başlayan “Saklama Süreli Standart Dosya Planı”nda yer
+alan konu kodlarıdır. Saklama Süreli Standart Dosya Planı “http://sgknet.sgk.intra” internet
+adresinde duyurular bölümünde yayınlanmaktadır.
+
+
+4. HİZMETİN SONUCUNDAN KİMLER YARARLANIYOR
+
+       Bu Bölüme Kurumun sunduğu hizmetten yararlananlar yazılacaktır.
+Örnek: Vatandaş, Sivil Toplum Kuruluşu, Özel Sektör veya Kamu Kurumları
+
+- Bu bölüme hizmetten dolaylı yararlananlar yazılmayacaktır.
+- Hizmetten yararlananlar alanındaki diğer bölümüne açıklama yazılması halinde,       yazılan
+ifadede anlatım bozukluğu olmamalı, noktalama işaretlerine dikkat edilmelidir.
+
+5. YETKİ VERİLEN MEVZUAT / HİZMETİN DAYANAĞI, MEVZUATIN ADI VE
+MADDE NUMARASI
+
+       Bu bölüme hizmetin yerine getirilmesinde idareye görev, yetki ve sorumluluk veren
+kanun, kanun hükmünde kararname, tüzük, yönetmelik, bakanlar kurulu kararı, genelge, tebliğ,
+vb. düzenlemelerin adı ve ilgili madde numarası açıkça yer alacaktır.
+
+-Bu bölüme değişiklik yapan mevzuat yazılmamalı, söz konusu değişikliğin işlenmiş olduğu
+asli mevzuat yazılmalıdır.
+- Resmi Gazete’de yayımlanmayan alt mevzuat sisteme eklenirken tarihi, sayısı, türü gibi
+bilgiler açıkça yazılmalıdır.
+- Mevzuat Madde Numarası alanında sadece NUMARA yazılmalı, Madde ifadesi
+yazılmamalıdır.
+- Mevzuat Madde Numarası alanında birden fazla madde yazılacak ise fıkra/bent/alt bent
+alanları boş bırakılmalıdır.
+- Hizmetin Dayandığı Mevzuat ekranında, birden fazla Resmi Gazete’de yayımlanmayan
+mevzuat yazılacaksa, bunlar tek sefer birleştirilerek yazılmamalı, ayrı ayrı eklenmelidir.
+- Yetki mevzuatında, mevzuatın tamamı hizmetin yasal dayanağıdır anlamında, Madde
+Numarası kısmına Tümü veya Yok yazılmayacaktır. Bu alanda mutlaka hizmetin sunumu için
+Kuruma Yetki veren maddenin hangisi olduğu belirtilecektir.
+- Mevzuat Madde No bölümüne fıkra/bent/alt bent gibi hususlar yazılmamalı, bunlar kendileri
+için ayrılan alanlara yazılmalıdır.
+- Madde Numarası alanında birden fazla madde yazılacaksa bu maddeler arasında virgül ve bir
+karakter boşluk bırakılmalıdır.
+- Mevzuatta Madde Numaraları yok ise, Madde Numarası alanında sadece Yok yazılmalıdır.
+
+6. BAŞVURU MAKAMI/ BAŞVURULARIN KABULÜ /BAŞVURULARIN KURUMA
+YAPILACAĞINA İLİŞKİN MEVZUAT DAYANAĞI
+
+      Başvurulu hizmetlerde hizmet talebinde bulunan ilk müracaatı nereye ve hangi makama
+yapması gerektiği, mevzuat adı ve ilgili madde numarası ile birlikte açıkça yazılacaktır.
+
+                                                                                       4/6
+- Bu bölüme başvuruların Kurumunuza/Biriminize yapılacağına ilişkin açık ve nokta atışı bir
+mevzuat dayanağı yazılması gerekmektedir. Bu şekilde açık ve net bir mevzuat hükmü yok ise
+Teamülen seçilecektir.
+
+7. BAŞVURUDA İSTENİLEN BELGELER
+
+      Bu bölüme başvurulu hizmetler için başvuruda istenilen belgeler ve bunların dayandığı
+mevzuatın adı ve ilgili madde numarası açıkça yazılacaktır. Hizmet başvurulu olmayıp
+kurumca resen sunuluyor ise bu bölüm doldurulmayacaktır.
+
+8. YAZIŞMALAR
+
+8.1 İÇ YAZIŞMALAR
+
+       Hizmetin sunum sürecinde yapılması gereken kurum içi yazışmaların hangi birimle, ne
+amaçla yapıldığı, mevzuat dayanağı ve ilgili madde numarası açıkça yazılacaktır. Merkez
+birimleri kendi aralarında veya taşra teşkilatlıyla ya da taşranın merkez birimleri ile yaptığı
+yazışmalar iç yazışmalardır.
+
+- İç yazışmalarda dayanak olarak gösterilen mevzuat hükmü içerisinde Açık ve Net bir şekilde
+yazışma yapılmasını gerektirir Nokta atışı bir hüküm varsa dayanak olarak bu girilmeli, yoksa
+Teamülen seçilmelidir.
+
+8.2 DIŞ YAZIŞMALAR
+
+      Hizmetin sunum sürecinde yapılması gereken kurum dışı yazışmaların hangi kurumla,
+ne amaçla yapıldığı, mevzuat dayanağı ve ilgili madde numarası açıkça yazılacaktır. Diğer
+kurumlar ile koordinasyon sağlamak ya da görüş, onay, bilgi, belge istemek için yapılan
+yazışmalar dış yazışmadır.
+
+- Dış yazışmalarda dayanak olarak gösterilen mevzuat hükmü içerisinde Açık ve Net bir şekilde
+yazışma yapılmasını gerektirir Nokta atışı bir hüküm varsa dayanak olarak bu girilmeli, yoksa
+Teamülen seçilmelidir.
+
+9. HİZMETİN TAMAMLANMASINA İLİŞKİN MEVZUATTA GEÇEN SÜRE
+
+      Mevzuatta hizmetin tamamlanması için herhangi bir süre öngörülmüş ise bu süre bu
+bölüme yazılacaktır.
+
+10. HİZMETİN TAMAMLANABİLDİĞİ EN KISA SÜRE
+
+       Mevzuatta başka bir süre belirtilmiş olsa bile hizmetin biriminizde sunulmaya başladığı
+andan itibaren tamamlanana kadar geçen en kısa süre bu bölüme yazılacaktır.
+
+11. HİZMETİN TAMAMLANABİLDİĞİ EN UZUN SÜRE
+
+       Mevzuatta başka bir süre belirtilmiş olsa bile hizmetin biriminizde sunulmaya başladığı
+andan itibaren tamamlanana kadar geçen en uzun süre bu bölüme yazılacaktır.
+
+
+
+
+                                                                                          5/6
+12. GEÇEN YILA AİT İŞLEM SAYISI
+
+       Bu bölüme hizmetin bir önceki yıldan tamamlanan işlem sayısı yazılacaktır.
+
+13. HİZMETİN SONUCU İNTERNETTEN YAYINLANMAKTA MIDIR?
+
+       Bu bölüme hizmet elektronik olarak sunuluyor ise “Evet” ifadesi seçilerek ilgili internet
+sayfasının tam adresi yazılacak, sunulmuyor ise “Hayır” ifadesi seçilecektir.
+
+14. HİZMETİN SONUCUNDA BELGE DÜZENLENMEKTE MİDİR?
+
+        Hizmetin tamamlanmasında bir belge düzenleniyor ise belgenin adı ilgili alandan
+aratılarak seçilecektir. Düzenlenmekte olan belge aratıldığında listelenmiyorsa belge önerisi
+gönder butonuyla sisteme kaydedilmesi için Başbakanlığa gönderilecektir. Belge sisteme
+kaydedildikten sonra belgenin adı ilgili alandan aratılarak seçilerek kaydedilecektir. Bu şekilde
+gönderilecek önerilerde, belge adının hizmete/kuruma özgü şekilde belirlenmesi gerekmektedir.
+
+15. PARAF LİSTESİ
+
+        Bu bölüme hizmetlerde, başvuruyu alandan nihai onayı veren kişiye kadar paraf
+listesinde yer alan bütün unvanlar sıralı olarak yazılacaktır.
+
+
+
+Konu ile ilgili olarak daha ayrıntılı bilgi için http://yetkili.kaysis.gov.tr adresinde bulunan
+“Yardım” menüsünden “HEYS (HİZMET ENVANTERİ YÖNETİM SİSTEMİ) Kullanma
+Kılavuzu V.3.0” dosyası indirilerek incelenebilir.
+
+
+
+
+                                                                                            6/6
+                                                                                         EK-2
+                 …………………………………Organizasyon Yapısını Gösterir Tablo
+
+İDARİ BİRİM   MEVCUT İSMİ (*)        YENİ İSMİ      İLETİŞİM ve GENEL BİLGİLERİ
+  KİMLİK
+  KODU(*)
+              ……..GENEL              ……………..GENEL
+……….....      MÜDÜRLÜĞÜ/BAŞKANLIĞI   MÜDÜRLÜĞÜ      Yönetici Adı Soyadı          :
+
+                                                    Faal Durumu                  :
+
+                                                    Gizlilik Durumu              :
+
+                                                    Yazışma Adresi               :
+
+                                                    Kuruluş /Hukuki İşlem Tarihi :
+
+                                                    Kurum Telefonu               :
+
+                                                    Kurum Faksı                  :
+
+                                                    Kurum Web Adresi             :
+
+                                                    Kurum E-Postası                  :
+
+
+
+
+                                                                                          1/3
+…………..   ………DAİRE BAŞKANLIĞI   ……….DAİRE    Yönetici Adı Soyadı          :
+                               BAŞKANLIĞI
+                                            Faal Durumu                  :
+
+                                            Gizlilik Durumu              :
+
+                                            Yazışma Adresi               :
+
+                                            Kuruluş /Hukuki İşlem Tarihi :
+
+                                            Kurum Telefonu               :
+
+                                            Kurum Faksı                  :
+
+                                            Kurum Web Adresi             :
+
+                                            Kurum E-Postası                  :
+
+
+
+
+                                                                                 2/3
+   ………..          ………..Şube Müdürlüğü                ……………..Şube                  Yönetici Adı Soyadı          :
+                                                     Müdürlüğü
+                                                                                  Faal Durumu                  :
+
+                                                                                  Gizlilik Durumu              :
+
+                                                                                  Yazışma Adresi               :
+
+                                                                                  Kuruluş /Hukuki İşlem Tarihi :
+
+                                                                                  Kurum Telefonu               :
+
+                                                                                  Kurum Faksı                  :
+
+                                                                                  Kurum Web Adresi             :
+
+                                                                                  Kurum E-Postası                  :
+
+(*) Yeni kurulan birimler için bu bölüm doldurulmayacaktır.
+Birimlerin organizasyon yapısı dikkate alınarak idari birim kimlik kodları oluşturulmaktadır.
+
+
+
+
+                                                                                                                       3/3
+                                                                                                          Ek-3
+                          Taşra Teşkilatı İçin Yeni Kurulan/Güncellenen Birimleri Gösterir Tablo
+
+
+SGM ADI                                                                      İLETİŞİM ve GENEL BİLGİLER
+                                                                             Bağlı olduğu İl
+………………. Sosyal Güvenlik İl Müdürlüğü/Sosyal Güvenlik Merkezi/Sağlık Sosyal   Müdürlüğü (*)
+Güvenlik Merkezi/Mali Hizmetler Sosyal Güvenlik Merkezi                      Kurulduğu İlçe Adı
+
+                                                                             Yönetici adı soyadı
+(Birim adı değişen il müdürlükleri/merkez müdürlüklerinin eski adı mutlaka
+belirtilecektir.)                                                            Kuruluş Tarihi/Hukuki
+                                                                             İşlem Tarihi
+
+                                                                             Kurum Telefonu
+
+                                                                             Kurum Faksı
+
+                                                                             Kurum Web Adresi
+
+                                                                             Kurum e Postası
+
+                                                                             Yazışma Adresi
+
+                                                                             Faal Durumu
+
+                                                                             Gizlilik Durumu
+
+                                                                             İdari Birim Kimlik
+                                                                             Kodu(**)
+
+                                                                                                            1/2
+…………..Servisi                                                                    Bağlı olduğu İl
+(Birim adı değişen servislerin eski adı mutlaka belirtilecektir.)                Müdürlüğü(*)
+                                                                                 Bağlı olduğu Sosyal
+                                                                                 Güvenlik Merkezi(*)
+
+                                                                                 Kurulduğu İlçe Adı
+
+                                                                                 Yönetici adı soyadı
+
+                                                                                 Kuruluş Tarihi/Hukuki
+                                                                                 İşlem Tarihi
+                                                                                 Kurum Telefonu
+
+                                                                                 Kurum Faksı
+
+                                                                                 Kurum Web Adresi
+
+                                                                                 Kurum e Postası
+
+                                                                                 Yazışma Adresi
+
+                                                                                 Faal Durumu
+
+                                                                                 Gizlilik Durumu
+
+                                                                                 İdari Birim Kimlik
+                                                                                 Kodu(**)
+(*) Alt birimler için doldurulacaktır.
+(**) Güncellenmesi talep edilen birimler için doldurulacaktır.
+- Sosyal Güvenlik Kurumu Taşra Teşkilatı Kuruluş ve Çalışma Usul ve Esasları Hakkında Yönetmelikte yer alan organizasyon yapısı
+  dikkate alınarak Sosyal Güvenlik Merkezlerinin alt birimlerine İdari Birim Kimlik Kodu oluşturulmaktadır.
+- Bu tablodaki bilgiler eksiksiz olarak doldurulacaktır. Aksi halde İdari Birim Kimlik Kodu oluşturulması mümkün değildir.
+                                                                                                                             2/2
+

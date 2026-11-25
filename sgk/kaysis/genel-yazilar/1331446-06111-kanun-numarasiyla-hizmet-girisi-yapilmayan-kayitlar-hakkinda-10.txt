@@ -1,0 +1,54 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/106336
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 1331446
+ADI: 06111 KANUN NUMARASIYLA HİZMET GİRİŞİ YAPILMAYAN KAYITLAR HAKKINDA 10.03.2015 TARİHLİ 1331446 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 462894038afb71583044fab82a19af708e57980b1f7616c3d4a104efa5ae9163
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+( S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AJAN Sigorta Primleri Genel Müdürlüğü
+Sayı :26431140/20702/1331446 10/03/2015
+Konu : 06111 kanun numarasıyla
+hizmet girişi yapılmayan kayıtlar
+GENEL YAZI
+
+4447 sayılı Kanunun geçici 10 uncu maddesinde yer alan sigorta primi teşvikinden yersiz
+yararlanan işverenlere ilişkin hata listeleri, sigortalı hizmet kayıtlarında yer alan bilgilere bakılarak,
+başka bir ifade ile aylık prim ve hizmet belgelerinde yer alan tahakkuk bilgilerine göre değil hizmet
+bilgilerine göre oluşturulmaktadır.
+
+Ancak, Genel Müdürlüğümüze ulaşan bilgilerden 05510 kanun numarası seçilmek suretiyle
+düzenlenen aylık prim ve hizmet belgeleri için işverenlerce geriye yönelik 05510 kanun
+numarasından iptal, 06111 kanun numarasından asıl/ek nitelikte aylık prim ve hizmet belgelerinin
+düzenlenerek Kurumumuza verilmesine karşın, bazı sosyal güvenlik il müdürlüklerimizce/sosyal
+güvenlik merkezlerimizce bahse konu belgelerin işleme alınması sırasında sadece tahakkuk
+işlemleri ile ilgili iptal/asıl belge girişi yapıldığı, bahse konu belgelerdeki hizmet kayıtlarının ise
+girilmediği, dolayısıyla sonradan sisteme girilen 06111 kanun numarası ile kayıtlı sigortalıların
+4447 sayılı Kanunun geçici 10 uncu maddesinde öngörülen şartları taşıyıp taşımadıkları, haliyle
+söz konusu sigoralılardan dolayı 4447 sayılı Kanunun geçici 10 uncu maddesinde öngörülen
+teşvikten yersiz yararlanılıp yararlanılmadığı tespit edilememiştir.
+
+Bu bağlamda, daha önce 06111 kanun numarasından sadece tahakkuk işlemleri yapılan
+buna karşın hizmet kayıtları sisteme girilmemiş işyerlerine ilişkin liste ekte gönderilmiş olup, söz
+konusu listede yer alan işyerlerine ilişkin hizmet girişlerinin en geç 30/4/2015 tarihine kadar
+düzeltilmesi, ardından işveren sistemi ana menüden 10/6/10 nolu seçenekler işaretlenmek suretiyle
+erişilen ekran vasıtasıyla hata listelerinin güncellenmesi ve varsa yersiz yararlanılmış teşviklerin
+ilgililerden geri istenilmesi gerekmektedir.
+
+Bilgi edinilmesini ve gereğini rica ederim.
+
+İsmail YILMAZ
+Genel Müdür V.
+EK: Liste
+DAĞITIM
+Gereği: Bilgi:
+Sosyal güvenlik il müdürlükleri İşverenler Daire Başkanlığı
+Sosyal güvenlik merkezleri
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Cd. N:7 06430 Sıhhiye/ANKARA Ayrıntılı Bilgi: M.DÜNDAR ŞİMŞEK Sos.Güv.Uzm.
+Tel: (0312) 458 7143 Faks: (0312) 431 28 74 Elektronik Ağ: www.sgk.gov.tr
+e-posta :istihdamtesvikleridb(2sgk.gov.tr

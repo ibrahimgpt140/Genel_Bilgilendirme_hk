@@ -1,0 +1,1163 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/150666
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: E.4542479
+ADI: SOSYAL GÜVENLİK KURUMU SOSYAL GÜVENLİK UZMANLIK TEZİ VE YETERLİK SINAVI YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 252e07d042a25fad6004c7dbe21600fbcfff749104219a7425aef87accec3bd6
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+   SOSYAL GÜVENLİK KURUMU SOSYAL GÜVENLİK UZMANLIK TEZİ VE
+                  YETERLİK SINAVI YÖNERGESİ
+
+                                   BİRİNCİ BÖLÜM
+                                Amaç, Kapsam ve Dayanak
+
+       Amaç ve kapsam
+       MADDE 1 - (1) Bu Yönergenin amacı, Sosyal Güvenlik Kurumunda Sosyal Güvenlik
+Uzman Yardımcısı olarak görev yapan personelin, uzmanlık tezi ve yeterlik sınavına ilişkin
+usul ve esasları belirlemektir.
+
+      Dayanak
+      MADDE 2 - (1) Bu Yönerge 12/12/2013 tarihli ve 28849 sayılı Resmi Gazete'de
+yayımlanan Sosyal Güvenlik Uzmanlığı Yönetmeliğine dayanılarak hazırlanmıştır.
+
+      Tanımlar
+      MADDE 3 - (1) Bu Yönergede geçen;
+      a) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+      b) Başkanlık: Sosyal Güvenlik Kurumu Başkanlığını,
+      c) Birim amiri: Merkez teşkilatındaki hizmet birimlerinde görev yapan en üst amiri,
+      ç) Birim: Merkez teşkilatındaki hizmet birimlerini,
+      d) Komisyon: Tez Önerisi Değerlendirme Komisyonunu,
+      e) Kurul: Tez Değerlendirme ve Yeterlik Sınavı Kurulunu
+      f) Kurul Başkanı: Tez Değerlendirme ve Yeterlik Sınavı Kurulu Başkanını
+      g) Kurum: Sosyal Güvenlik Kurumunu,
+      ğ) Merkez Başkanı: Eğitim, Araştırma ve Geliştirme Merkezi Başkanını,
+      h) Merkez Başkan Yardımcısı: Eğitim, Araştırma ve Geliştirme Merkezi Başkan
+Yardımcısını,
+      ı) Merkez Başkanlığı: Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığını,
+      i) Tez: Uzman yardımcılarının hazırlayacakları uzmanlık tezlerini,
+      j) Uzman: Sosyal Güvenlik Uzmanını,
+      k) Uzman yardımcısı: Sosyal Güvenlik Uzman Yardımcısını,
+      l) Üye: Tez Değerlendirme ve Yeterlik Sınavı Kurulu Üyesini,
+      m) Yeterlik sınavı: Sosyal Güvenlik Uzmanlığı Yeterlik Sınavını,
+      n) Yönetmelik: 12/12/2013 tarihli ve 28849 sayılı Resmi Gazete'de yayımlanan Sosyal
+Güvenlik Uzmanlığı Yönetmeliğini
+      ifade eder.
+
+                                    İKİNCİ BÖLÜM
+                      Tez Önerisi ve Tez Danışmanının Belirlenmesi
+
+       Tez konusu seçimi ve tez danışmanının belirlenmesi
+       MADDE 4 - (1) Uzman yardımcıları tez konularını Kurumun intranet sayfasında
+yayımlanan tez konuları listesinden seçebilir veya Kurumun görev alanı ile ilgili olmak
+kaydıyla kendileri belirleyebilir.
+       (2) Uzman yardımcıları seçtikleri konu ile ilgili hazırlayacakları Tez Önerisi Bildirim
+Formunu (EK-1) ve tez danışmanının iletişim bilgilerini içeren Tez Danışmanı Bildirim
+Formunu (EK-2), birim amirlerinin uygun görüşüyle Merkez Başkanlığına resmi yazı ekinde
+gönderirler.
+
+
+                                                                                            1
+        Tez konuları listesi
+        MADDE 5 - (1) Merkez Başkanlığı, tez konuları listesine eklenmek üzere birimlerden,
+uzmanlardan veya tez sürecinde olan uzman yardımcılarından Kurumun görev alanı ile ilgili
+tez konularını bildirmelerini talep edebilir. Bu şekilde oluşturulan tez konuları listesi Kurumun
+intranet sayfasında yayımlanır.
+
+        Tez önerisinin değerlendirmesi
+        MADDE 6 - (1) Tez önerileri Merkez Başkanı veya görevlendireceği bir Başkan
+Yardımcısı başkanlığında ikisi uzman 3 kişiden oluşan Komisyon tarafından incelenir. Merkez
+Başkanı tarafından gerekli görülen hallerde birden fazla Komisyon kurulabilir, diğer
+birimlerden uzmanlar Komisyonda görevlendirilebilir.
+        (2) Komisyon tez önerileri üzerindeki incelemesini yaparken, tez konusunun Kurumun
+görev alanı ile ilgisi, tezde kullanılacak yöntemin geçerliliği ve uygulanabilirliği, çalışmanın
+Kuruma ve literatüre katkısı, tez önerisinde kullanılan dil ve üslup vb. kriterleri göz önüne alır.
+        (3) Komisyon maddi hata veya eksiklik bulunduğu tespit edilen tez önerilerinin
+düzeltilmesi için uzman yardımcısına, bir defaya mahsus, on beş iş günü süre verebilir. Bu süre
+sonunda tez önerisinin yeniden verilmemesi durumunda ilk verilen tez önerisi geçerli sayılır.
+        (4) Komisyonca incelenen tez önerileri, olumlu veya olumsuz görüşle beraber,
+Başkanlığa sunulur. Başkanlıktan alınacak onay ile tez konusu kesinleşir. Kesinleşen tez
+konusu ilgili uzman yardımcısına tebliğ edilmek üzere görev yaptığı birime gönderilir.
+        (5) Başkanlık tarafından uygun görülmeyen tez önerisi, gerekçesiyle beraber ilgili
+uzman yardımcısına tebliğ edilir. İlgili uzman yardımcısı, gerekçeli yazının kendisine tebliğ
+edildiği tarihten itibaren on beş iş günü içerisinde, bu Yönergenin 4 üncü maddesine göre yeni
+bir konuda hazırlayacağı Tez Önerisi Bildirim Formunu, birim amirlerinin uygun görüşüyle,
+Merkez Başkanlığına resmi yazı ekinde gönderir. Belirlenen tez konusu aynı usulle onaya
+sunulur.
+        (6) Tez konusunun süresi içinde bildirilmemesi veya bu maddenin beşinci fıkrasına göre
+ikinci kez verilen tez önerisinin uygun bulunmaması halinde Komisyonun teklifi ve Başkanlığın
+onayıyla yeni bir tez konusu re’sen belirlenir.
+
+        Tez konusunun değiştirilmesi
+        MADDE 7 - (1) Tez konusu uygun bulunan uzman yardımcısı, tezinde yeterli ilerlemeyi
+sağlayamaması ve konusunu değiştirmeyi istemesi durumunda tez konusunun
+kesinleşmesinden itibaren en geç üç ay içerisinde tez konusunu değiştirebilir. Bu değişiklik,
+değiştirme isteğinin gerekçesi, tez danışmanının onayı ve yeni tez konusunu belirten dilekçenin
+Merkez Başkanlığına verilmesi üzerine Komisyonun teklifi ve Başkanlığın onayı ile yapılabilir.
+
+                                    ÜÇÜNCÜ BÖLÜM
+                        Tezin Hazırlanmasına İlişkin Usul ve Esaslar
+
+        Kâğıt özellikleri
+        MADDE 8 - (1) Tez yazımında birinci hamur, en az 80 gram, A4 boyutunda beyaz kâğıt
+kullanılır.
+
+         Sayfa düzeni
+         MADDE 9 - (1) Yazı alanı üstten 2.5 cm, alttan 2.5 cm, sol yandan 4 cm ve sağ yandan
+2.5 cm boşluk bırakılması ile oluşturulur. Sayfa düzeni örneği EK-3’te verilmiştir.
+         (2) Sayfa numaraları parantez ya da çizgi kullanılmadan sayfanın sağ alt köşesine
+yazılır. İç kapak ve onay sayfası dışındaki tüm sayfalara sayfa numarası verilir. Giriş bölümüne
+
+
+                                                                                                 2
+kadar sayfalar (i, ii, iii, iv, v, ...) şeklinde küçük Romen rakamları ile Giriş bölümü ile başlayan
+sayfadan son sayfaya kadar ise (1, 2, 3, 4, 5,...) şeklinde numaralandırılır.
+
+        Yazı ve makine standardı
+        MADDE 10 - (1) Yazı metinleri, bilgisayar ile (12) punto Times New Roman yazı
+karakteri kullanılarak iki yana yaslı olarak yazılır. Tezin hiçbir bölümünde daktilo veya el ile
+düzeltme, silinti ve kazıntı yapılamaz. Çıktılar lazer ya da mürekkep püskürtmeli yazıcılardan
+alınır. Daktilo veya nokta vuruşlu yazıcı çıktıları kabul edilmez.
+
+        Paragraf başı ve satır aralığı
+        MADDE 11 - (1) Paragraflar 1.25 cm’lik bir sekme (tab) içerden başlar, 1,5 satır aralığı
+ile yazılır, paragraflar arasında 1 satır boşluk bırakılır.
+
+        Ana ve ara başlıklar
+        MADDE 12 - (1) Bölüm başlıkları yeni bir sayfada, sayfanın en üst satırında, ortalı
+biçimde ve büyük harflerle koyu olarak yazılır ve altı çizilmez. Bölüm başlıkları ile varsa bu
+başlıkların ilk paragrafları arasında iki satır boşluk bırakılır. Birinci alt başlıklar, bölüm
+başlıklarından sonra iki satır boşluk bırakılarak, paragraf başı ile aynı hizada olacak şekilde
+büyük harflerle; bu başlığın altındaki alt başlıklar ise paragraf başı ile aynı hizada olacak şekilde
+ilk harfleri büyük diğer harfleri ise küçük harflerle ve koyu olarak yazılır ve altı çizilmez. Alt
+bölüm başlıkları ile bunların ilk paragrafları arasında satır boşluğu bırakılmaz. Bölüm ve alt
+bölüm başlıklarında "ve", "veya", "ile" gibi bağlaçlar varsa bunlar küçük harflerle yazılır.
+
+        Anlatım
+        MADDE 13 - (1) Tez metni kolay anlaşılır ve yazım kurallarına uygun arı bir Türkçe
+ile yazılır. Yazıda bütün noktalama işaretlerinden sonra (nokta, virgül, iki nokta üst üste, noktalı
+virgül, soru işareti, ünlem vb.) bir harf boşluk bırakılır. Yazımda Türkçe dil bilgisi ve yazım
+kılavuzu esas alınarak tüm noktalama işaretlerine özenle uyulur.
+        (2) Anlatım üçüncü şahıs ağzından yapılır; özellikle birinci tekil şahıs kullanılmaz. Kısa,
+yalın ve öz cümleler kullanılır, çok sayıda sıfat ve zarf türü sözcük kullanımından kaçınılır.
+
+       Tezin derlenip ciltlenmesinde sıralama
+       MADDE 14 - (1) Tezin derlenip ciltlenmesinde aşağıdaki sıralamaya uyulur.
+       a) Dış kapak
+       b) İç kapak
+       c) Onay sayfası
+       ç) Teşekkür sayfası (varsa)
+       d) Bilimsel etik bildirim beyanı
+       e) Yayımlama ve kullanım hakları beyanı
+       f) Özet, yabancı dilde özet, anahtar kelimeler
+       g) Yöntem
+       ğ) İçindekiler
+       h) Tablo, şekil ve grafik listeleri (kullanıldıysa)
+       ı) Kısaltmalar
+       i) Metin kısmı (sonuç bölümü dâhil)
+       j) Kaynakça
+       k) Ekler (varsa)
+
+
+
+
+                                                                                                   3
+         Tezin bölümlendirilmesi
+         MADDE 15 - (1) Tez metninin giriş ve sonuç dışındaki bölüm ve alt bölüm başlıkları
+numaralandırılır.
+         (2) Birinci dereceden bölüm başlıklarına 1, 2, 3, ..., şeklinde, bunun altındaki bölüm
+başlıklarına 1.1., 1.2., 1.3., ..., şeklinde, bunun da altındaki bölüm başlıklarına ise 1.1.1., 1.1.2.,
+1.1.3., ..., şeklinde, bunun da altında bölüm kullanılacaksa bu başlıklara 1.1.1.1., 1.1.1.2.,
+1.1.1.3.,..., şeklinde numara verilir.
+         (3) Ön kısım ve son kısım başlıkları (içindekiler, özet, giriş, sonuç ve öneriler, kaynakça,
+ekler, vb.) ve bölüm başlıkları numaralandırılmadan büyük harflerle ve koyu olarak yazılır.
+         (4) Tezde kullanılan tablo, şekil, grafik, resim ve ekler, Tablo 1: ..., Tablo 2: ..., Şekil
+1: ..., Şekil 2: ..., Grafik 1: ..., Grafik 2: ..., Resim 1: ..., Resim 2: ..., EK-1:..., EK-2:…, şeklinde
+numaralandırılır.
+
+         Dış kapak
+         MADDE 16 - (1) Dış kapak, beyaz parlak kartondan yapılır ve kapak yazıları ya
+matbaada ya da bilgisayar ile yazdırılır. Tez başlığı 16 punto, koyu, büyük harflerle 1,5 satır
+aralığında yazılır. Kapaktaki diğer bütün yazılar koyu harflerle ve 12 punto ile yazılır. Tez
+başlığı, yazar adı, Uzmanlık Tezi ifadesi ve yer, tarih ifadesi aynen EK-4'te olduğu gibi ve
+aralarında belirgin ve ölçülü aralıklar bulunacak şekilde olur.
+         (2) Dış kapağın sırtına tezin yılı ve başlığı ile yazarının adı ve soyadı dik olarak
+konulunca yukarıdan aşağıya okunacak şekilde yazılır. Kapak sırtının yazı puntosu, tezin sayfa
+sayısı ile tez başlığının uzunluğuna göre belirlenir. Kapak sırtının altına Kurumun logosu siyah
+beyaz olarak eklenir.
+
+        İç kapak
+        MADDE 17 - (1) İç kapak, sayfa içeriği ve sayfa düzeni olarak tümüyle dış kapağın
+aynısı, ancak karton yerine tez yazımında kullanılan kâğıt üzerine yazılır. Dış kapak ile iç kapak
+sayfası arasında ve dış kapağın arkası ile tezin son sayfası arasında iki yönü de boş bir sayfa
+bırakılır.
+
+       Onay sayfası
+       MADDE 18 - (1) Kurul üyelerinin kabulünü ve imzalarını içeren kabul ve onay sayfası
+EK-5'te görüldüğü şekilde yazılır. Kurul üyelerinin varsa akademik unvanı, adı, soyadı ve
+unvanı açık ve eksiksiz olarak bilgisayarda yazılır.
+
+        Teşekkür sayfası
+        MADDE 19 - (1) Tezin hazırlanmasında doğrudan veya dolaylı katkısı olan kişi veya
+kurumlara bu kısımda teşekkür edilir. Teşekkür edilen kişilerin varsa unvanı, adı, soyadı,
+görevli olduğu kuruluş (varsa, tırnak içinde) ve çalışmaya olan katkısı kısa ve öz bir şekilde
+ifade edilir. Teşekkür metni bir sayfayı geçmez ve yazım tek aralıklı olur. Ancak, teşekkür
+yazısı zorunlu değildir.
+
+       Bilimsel etik bildirim beyanı
+       MADDE 20 - (1) Bilimsel etik bildirim beyanı EK-6’da gösterildiği şekilde
+hazırlanmalı ve tezin bilimsel çalışma etiğine uygun olarak hazırlandığına ilişkin beyan imza
+atmak suretiyle tasdik edilmelidir.
+
+       Yayımlama ve kullanım hakları beyanı
+       MADDE 21 - (1) Yayımlama ve kullanım hakları beyanı EK-7’de gösterildiği şekilde
+hazırlanıp imzalanmalıdır.
+
+                                                                                                        4
+        Özet ve yabancı dilde özet (abstract) sayfaları
+        MADDE 22 - (1), Özet sayfasında EK-8’de gösterildiği şekilde; tezin amacı, önemi,
+kapsamı, kullanılan yöntemler, ele alınan sorunlar ve ulaşılan sonuçlar kısaca belirtilir. Bu
+kısımda kaynak verilmez. Özet en az 200 kelime, en çok bir sayfa olmalı metin tek satır aralığı
+ile yazılmalıdır.
+        (2) Özet sayfasının üstüne “ÖZET”, “Sosyal Güvenlik Uzmanlığı Tezi”, “TEZİN
+BAŞLIĞI” ve tezi hazırlayanın “Adı ve SOYADI" ortalanarak yazılır.
+        (3) Yabancı dilde özet, Türkçe özetin karşılığıdır.
+
+       Anahtar kelimeler
+       MADDE 23 - (1) Özet metninin altında araştırmacıların kaynak taramalarında
+kullanabileceği en az dört en fazla altı anahtar kelimeye yer verilmelidir.
+
+        Yöntem
+        MADDE 24 - (1) Yöntem bölümü, tezin nasıl bir yol izlenerek gerçekleştirildiği
+hakkındaki kapsamlı ve ayrıntılı açıklamalar içerir. Tez içerisinde yer alan verilerin hangi
+kaynaklardan (birincil, ikincil) nasıl sağlandığı, bu verilerin nasıl analiz edildiği gibi hususlar
+etraflıca açıklanır. Özellikle veri toplama aracının geçerlilik ve güvenirlik açısından
+değerlendirilmesi gerekir.
+
+        İçindekiler sayfası
+        MADDE 25 - (1) İçindekiler kısmı EK-9’da gösterildiği biçimde; ortalı şekilde yazılan
+“İÇİNDEKİLER” başlığı altında, tezdeki bölümlendirmeye uygun bir biçimde, teşekkürden
+başlayarak tezin tüm kısımları başlıklar halinde belirtilerek yazılır. Bölüm başlıkları ortalı
+yazılır ve sayfa numarası belirtilmez. Ana başlıklar sayfanın sol başından başlar ve hizalarına
+sayfa numaraları konulur. Alt başlıklar, bir üst başlığın birinci harfinden başlar ve hizalarına
+sayfa numaraları konulur.
+
+        Tablo, şekil, resim, grafik, vb. listeleri
+        MADDE 26 - (1) Tezde tablo, şekil, resim, grafik ve benzeri açıklayıcı veya belgeleyici
+bilgiler kullanılmışsa, bunlara ait listeler “Tablolar”, "Şekiller" vb. gibi başlıklarla ve tezde yer
+aldıkları sayfaların numarasıyla birlikte belirtilir. Tablo, şekil, resim, grafik vb. başlıkları sol
+taraftan başlar ve tek satır aralığı ile yazılır.
+
+         Kısaltmalar
+         MADDE 27 - (1) Tezde kullanılan kısaltmalar, ortalı şekilde yazılan
+“KISALTMALAR” başlığı altında alfabetik sırayla dizilir ve her kısaltmanın karşısına açılımı
+belirtilir. Kısaltmalar sayfası tek satır aralığı ile yazılır.
+         (2) Tezde yapılan kısaltmalar sadece ilk geçtikleri yerde tam açılımı ile yazılır ve yanına
+parantez içinde kısaltması yazılır.
+
+        Metin kısmı
+        MADDE 28 - (1) Tezin metin kısmı, giriş, ana metin ve alt bölümler ile sonuç ve
+öneriler bölümlerinden oluşur. Giriş, metin kısmının ilk öğesidir. Giriş bölümünde, çalışmada
+çözümlenmesi amaçlanan bilimsel sorun, çalışmanın kapsamı, uygulanan yöntem ve teknikler;
+çalışmada kullanılan materyalin temin şekli, miktarı, nitelikleri, tez konusu ve mevcut
+problemin çözümü ile ilgili önceki çalışmaların ana fikirleri, metotları ve sonuçları gibi
+okuyucuyu konuya hazırlayıcı nitelikteki bilgilerden gerekli görülenler bir düzen içinde
+sentezlenmiş özetleriyle verilir. Giriş bölümünde alt başlıklar kullanılmaz. Giriş bölümünde
+zorunluluk dışında şekil ve tabloya yer verilmez.
+
+                                                                                                   5
+        (2) Giriş bölümünden sonra, ana metin bölümleri/alt bölümleri yer alır. Bölümlerde
+gerek duyulan ayrıntı düzeyine bağlı olarak tezi sonuca götürecek bilgi ve açıklamalar, uygun
+düşünce sırası içinde ortaya konulur.
+        (3) Metin kısmının son bölümü, “Sonuç ve Öneriler” başlığını taşır. Bu bölümde, girişte
+açıklanan amaç ve/veya hipotezden başlayarak tezin yöntemi, tekniği, ulaşılan çözüm yolları,
+çeşitli bölümlerde varılan sonuçlardan da yararlanılarak açıklanır. Ayrıca, yapılan çalışmada
+çözümlenemeyen sorunlar varsa, bunların gelecekte hangi tür veya konudaki araştırmalarla
+çözümlenebileceğine ilişkin bilgiler de verilebilir. Çalışmada ulaşılan genel sonuçlar mümkün
+olduğu kadar öz, fakat açık olarak belli bir sıra, düzen ve mantık çerçevesinde yazılır; ilgili
+konuda yapılan diğer çalışmalarla karşılaştırılarak tartışıldıktan sonra varılan sonuçların
+geçerliliği ve uygulanabilirliği belirtilir.
+        (4) Sonuç ve Öneriler bölümü genel kompozisyon biçiminde yazılabileceği gibi, varılan
+sonuçlar ve ortaya konulan öneriler bu kompozisyonu bozmayacak şekilde maddeler halinde
+de ifade edilebilir.
+        (5) Yazı alanı örneği EK-10'da verilmiştir.
+
+         Dipnotlar ya da bölüm sonu notları
+         MADDE 29- (1) Kanun ve benzeri mevzuat hükümleri ile fikirlerin akıcılığını bozan
+fakat konuya açıklık getirecek olan her türlü tanım, yorum, ek bilgi, karşıt görüş veya sonraki
+bölümlerde daha ayrıntılı ele alınacak konular dipnot halinde gösterilebileceği gibi, bu
+açıklamalar her bölümün sonuna bir liste halinde de verilebilir.
+         (2) Dipnot veya bölüm sonu notu, alıntının yapıldığı kavram, cümle, paragraf veya
+özetleme sonuna, bilgisayarın otomatik numaralandırması ile, "1", "2" ... biçiminde ve 10 punto
+harfle iki yana yaslı yazılır.
+         (3) Gerekli açıklamalar, bölüm sonu notu şeklinde verilmek isteniyorsa, yine metin
+içinde ilgili yerde satır üstüne çıkarılarak açıklamalara sıra numarası verilir. Açıklamalar bölüm
+sonunda bir liste halinde sıralanarak yazılır. Bölüm sonu notları için numaralama her sayfada
+değil, her bölümde yeniden başlatılır.
+         (4) Metin içinde satır üstüne çıkartılan numaralar sayfa altında ya da bölüm sonunda
+ilgili açıklama yapılırken aynı numaralar ile gösterilir.
+
+        Atıf genel kuralları
+        MADDE 30 - (1) Atıf genellikle,
+        a) Çalışma sırasında bir başka çalışmanın belirli bir cümle, paragraf ya da kavramın
+tartışma, eleştiri ya da vurgulama amacıyla ödünç alınması nedeniyle,
+        b) Bir başka çalışmanın özel bir bölümü, cümlesi, kavramı vb. yerine, çalışmanın
+bütününden etkilenilmesi ya da o çalışmanın genel yapısının eleştirilmesi, değerlendirilmesi
+gibi durumlarda,
+        c) Çalışma sırasında değerlendirilen, eleştirilen vb. çalışmaların belirli kısımlarının
+kullanıldığının gösterilmesi amacıyla,
+        yapılır.
+        (2) Atıfta bulunmanın temel amacı, çalışmayı yapanın kendi tezlerini ya da kendi
+konumunu oluştururken dayandığı, eleştirdiği ya da tartıştığı vb. kaynakları göstermektir.
+        (3) Tezlerde ana metin içinde ve dipnotlarda çeşitli kaynaklara yapılan göndermelerde
+31 inci maddede belirtilen ilkelere ve ilgili örneklerdeki yapıya uyulur.
+
+       Metin içinde atıf ve kaynak gösterme
+       MADDE 31 - (1) Metin içerisinde başka bir kaynaktan alıntı aynen aktarılırken bir satır
+boşluk bırakarak çift tırnak içinde (“…”) ve italik yazılır.
+
+
+                                                                                                6
+       (2) Metin içinde ve dipnotlarda diğer kaynaklara yapılan atıflar için Harvard, MLA (The
+Modern Language Association) veya APA (American Psychological Association)
+sistemlerinden biri kaynak gösterme yöntemi olarak kullanılır.
+
+        Kaynakça
+        MADDE 32 - (1) Kaynakça kısmında sayfanın ortasına büyük harflerle KAYNAKÇA
+yazılacak, başka bir ifade kullanılmayacaktır. Kaynakça kısmına bölüm numarası
+verilmemelidir. Kaynakçadaki eserler yazar soyadına göre alfabetik olarak sıralandığından
+eserlere ayrıca sıra numarası verilmemeli ve yazarların unvanı kullanılmamalıdır. Satırlar
+sayfanın sol tarafından başlamalı, yazımda 1 satır aralığı kullanılmalı, birbirini izleyen iki
+kaynak arasında 1.5 (bir buçuk) satır aralığı boşluk bırakılmalıdır. Gerekli görülürse metinde
+gönderme yapılan asıl kaynaklar ile gönderme yapılmamakla beraber konu ile ilgili yardımcı
+kaynaklar iki alt başlık altında toplanabilir.
+        (2) Metin içinde atıfta bulunulan ve tezi hazırlarken faydalanılan kaynaklar Harvard,
+MLA veya APA sistemlerinden biri kullanılarak kaynakça kısmında belirtilir.
+
+                                  DÖRDÜNCÜ BÖLÜM
+                        Tezin Teslim Edilmesi ve Değerlendirilmesi
+
+        Tezin teslim edilmesi
+        MADDE 33 - (1) Yazılmış olan tezlerin ciltlenmemiş ve arkalı önlü çoğaltılmış 5
+kopyası ile CD/DVD vb. formattaki elektronik kopyası Kurul üyelerine sunulmak üzere, süresi
+içinde, Merkez Başkanlığına teslim edilir.
+
+        Tezlerin değerlendirilmesi ve tez savunması
+        MADDE 34 - (1) Tezlerin değerlendirilmesi, Merkez Başkanlığınca alınacak Başkanlık
+Oluruna istinaden teşkil edilen Kurulca yapılır. Başkanlıkça belirlenen üyelere Kurula
+atandıkları resmi yazı ile tebliğ edilir. Merkez Başkanlığınca teslim alınan tezler Kurul
+üyelerine resmi yazı ekinde gönderilir.
+        (2) Kurul Başkanı tarafından tespit edilen tez savunma tarihleri, Merkez Başkanlığınca
+Kurumun intranet sayfasında duyurulur. Ayrıca, Kurul üyelerine, tez danışmanlarına ve uzman
+yardımcılarına resmi yazı ile tebliğ edilir.
+        (3) Kurul üyeleri tez hakkındaki değerlendirmelerini Tez Değerlendirme Üye Formunda
+(EK-11) belirtilen kıstaslar üzerinden yapar. Tez savunmasını başarısız olarak değerlendiren
+üye gerekçesini yazılı olarak belirtir.
+        (4) Her bir üye tarafından verilen nihai karar Tez Genel Değerlendirme Formuna (EK-
+12) işlenerek tüm üyelerce imzalanır. Tez savunması sonunda oy çokluğu esasına göre tez
+başarılı veya başarısız olarak değerlendirilir.
+        (5) Tez savunmaları sonunda başarılı veya başarısız olanları gösterir liste Kurumun
+intranet sayfasında ilan edilir, ayrıca tebligat yapılmaz.
+        (6) Kurul tarafından başarılı kabul edilen tezler, eğer varsa, gerekli düzeltmeler yapılıp
+ciltlenerek son şekliyle Kurulun imzasına sunulur. 2 kopya olacak şekilde ciltlenip imzalanan
+tezler ve CD/DVD vb. formattaki elektronik kopyası, yeterlik sınavı tarihinden itibaren bir ay
+içerisinde, Merkez Başkanlığına teslim edilir. Tezlerin basımında sayfaların tek yüzü kullanılır.
+Ancak sayfa sayısının 300’den fazla olması halinde sayfalar arkalı önlü çoğaltılabilir.
+        (7) Tezleri başarısız olarak değerlendirilenlere tezlerini sunmaları veya yeni bir tez
+hazırlamaları için altı ayı aşmamak üzere ilave süre verilir.
+        (8) Tezlerini süresi içinde sunamayacaklarını bir dilekçe ile Merkez Başkanlığına
+bildiren uzman yardımcılarına Kurul kararı ile altı ayı aşmamak üzere ilave süre verilir. Bu
+
+
+                                                                                                7
+şekilde ilave süre verilen uzman yardımcılarının, bu süre sonunda yapılacak tez savunmasında
+başarısız olmaları halinde kendilerine tekrar ilave süre verilmez.
+         (9) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri
+de kabul edilmeyenler, uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına uygun
+memur unvanlı kadrolara atanırlar. Bu durumdaki uzman yardımcılarına ait dosya ve ekleri
+gerekli işlemlerin yapılabilmesi için Personel Daire Başkanlığına gönderilir.
+
+                                      BEŞİNCİ BÖLÜM
+                                       Yeterlik Sınavı
+
+         Yeterlik sınavı
+         MADDE 35 - (1) Tezi başarılı kabul edilen uzman yardımcıları yeterlik sınavına
+girmeye hak kazanır.
+         (2) Tezin kabulünden itibaren en geç iki ay içerisinde olacak şekilde Kurul Başkanı
+tarafından tespit edilen yeterlik sınavı tarihi, Merkez Başkanlığınca Kurumun intranet
+sayfasında duyurulur, Kurul üyelerine ve uzman yardımcılarına resmi yazı ile tebliğ edilir.
+         (3) Yeterlik sınavı klasik yazılı usulde yapılır. Sınav soru kâğıdı ve cevap anahtarı,
+Kurul üyelerince Yönetmeliğin 20/B maddesinde belirtilen konulardan olmak üzere 12 adet
+soru içerecek şekilde hazırlanır ve imzalanır. Sınava girecek kişi sayısının %10 fazlası kadar
+çoğaltılan sınav soruları, Kurul üyelerince imzalanan kapalı zarf içerisinde sınav salonuna
+getirilir. Kapalı zarf içerisinde salona getirilen sorular, sınava katılacak uzman yardımcılarının
+birinin huzurunda açılır ve uzman yardımcısınca zarf üzerine “huzurumda açılmıştır” ibaresi
+yazılarak imzalanır.
+          (4) Sınav, soru kâğıtları ve örneği EK-13’te yer alan cevap kâğıtlarının dağıtılması ile
+başlar. Sınav süresi 180 dakikadır. Bu süre içerisinde uzman yardımcıları kendilerine sorulan
+12 soru içerisinden 10 tanesini seçerek cevaplar. 10 sorudan fazlasının cevaplanması halinde
+cevap kâğıdının başından itibaren cevaplandırılmış olan ilk 10 soru dikkate alınır.
+         (5) Sınava giren uzman yardımcılarına sınav başlamadan önce birer aday numarası
+verilir. Bu aday numaraları cevap kâğıtlarının ilgili bölümlerine yazılır.
+         (6) Sınava, kâğıt, kitap, defter, not vb. dokümanlar ve cep telefonu ile girmek yasaktır.
+Ancak sınavda hesap makinesi kullanılabilir. Sınav kurallarına ve sınav görevlilerinin
+uyarılarına uymayanlar hakkında tutanak tutulur.
+         (7) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit
+edilenler hakkında tutanak düzenlenir ve sınavları geçersiz sayılır.
+         (8) Sınavı biten uzman yardımcıları, kendilerine verilen soru ve cevap kâğıtları ile varsa
+boş kâğıtları, görevlilere teslim ederler. Cevap kâğıtları teslim edilmeden önce, cevap kâğıdının
+sol üst köşesinde uzman yardımcısının kimlik bilgilerinin yer aldığı kısım işaretli yerlerden
+katlanılarak yapıştırılır. Teslim tutanağına, teslim alınan cevap kâğıdı sayfa adedi ve teslim
+saati ile adayın adı, soyadı ve sicil numarası yazılır, tutanak aday tarafından imzalanır.
+         (9) Sınava katılmayan uzman yardımcıları hakkında tutanak tutulur ve sınavda başarısız
+sayılırlar.
+         (10) Sınav süresince tutulan tutanaklar sınav sonunda Kurul’a teslim edilir.
+
+       Yeterlik sınavının değerlendirilmesi
+       MADDE 36 - (1) Kurul üyeleri cevap kâğıtlarını, Kurul tarafından hazırlanan cevap
+anahtarına göre yüz tam puan üzerinden değerlendirir. Üyeler tarafından verilen puanlar, örneği
+EK-14’te yer alan Üye Yeterlik Değerlendirme Formuna işlenerek, imzalanır.
+       (2) Kurul üyelerinin verdiği puanların aritmetik ortalamaları, örneği EK-15’te yer alan
+Kurul Yeterlik Değerlendirme Formuna yazılır.
+
+
+                                                                                                 8
+         (3) Uzman yardımcılarından, Kurul değerlendirmesi sonucu sınav puanı yetmiş ve
+üzerinde olanlar başarılı, altmış dokuz ve altında kalanlar başarısız sayılırlar.
+         (4) Yeterlik sınavı sonunda başarılı veya başarısız olanları gösterir liste Kurumun
+intranet sayfasında ilan edilir, ayrıca tebligat yapılmaz.
+         (5) Yeterlik sınavında başarılı olamayanlara veya sınava girmeye hak kazandığı halde
+geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı
+verilir.
+         (6) İkinci sınavda da başarı gösteremeyen veya ikinci sınav hakkını geçerli mazereti
+olmaksızın kullanmayanlar uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına
+uygun memur unvanlı kadrolara atanırlar. Bu durumdaki uzman yardımcılarına ait dosya ve
+ekleri gerekli işlemlerin yapılabilmesi için Personel Daire Başkanlığına gönderilir.
+         (7) Yeterlik sınavında başarılı bulunan ve YDS’den uzman yardımcılığı döneminde
+alınmış en az (C) seviyesi veya dengi yabancı dil belgesini yeterlik sınavından itibaren en geç
+iki yıllık süre içerisinde ibraz eden uzman yardımcısı boş kadro durumuna göre uzman olarak
+atanır. Bu durumdaki uzman yardımcılarına ait dosya ve ekleri gerekli işlemlerin yapılabilmesi
+için Personel Daire Başkanlığına gönderilir.
+
+         Sınav sonucuna itiraz
+         MADDE 37 – (1) Yeterlik sınav sonucuna itirazlar, sonuçların ilan edildiği tarihten
+itibaren beş iş günü içerisinde, dilekçe ile Merkez Başkanlığına yapılır. Merkez Başkanlığınca
+itirazlar değerlendirilmek üzere yazı ekinde Kurul üyelerine tebliğ edilir. İtirazlar Kurula
+ulaştığı tarihten itibaren en geç on beş gün içerisinde incelenerek sonuçlandırılır ve neticesi
+Merkez Başkanlığınca ilgiliye yazılı olarak bildirilir.
+
+                                    ALTINCI BÖLÜM
+                                  Çeşitli ve Son Hükümler
+
+        Yürürlükten kaldırılan yönerge
+        MADDE 38 - (1) 07/06/2011 tarihinde yürürlüğe giren Sosyal Güvenlik Kurumu
+Sosyal Güvenlik Uzmanlık Tezi Hazırlama Usul ve Esasları Yönergesi yürürlükten
+kaldırılmıştır.
+
+       Yürürlük
+       MADDE 39 - (1) Bu Yönerge, yayımı tarihinde yürürlüğe girer.
+
+       Yürütme
+       MADDE 40 - (1) Bu Yönerge hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+
+       EKLER:
+       1. EK-1: Tez Önerisi Bildirim Formu Örneği,
+       2. EK-2: Tez Danışmanı Bildirim Formu Örneği,
+       3. EK-3: Sayfa Düzeni Örneği,
+       4. EK-4: Dış Kapak Örneği,
+       5. EK-5: Onay Sayfası Örneği,
+       6. EK-6: Bilimsel Etik Bildirimi Beyanı Örneği,
+       7. EK-7: Yayımlama ve Kullanım Hakları Beyanı Örneği,
+       8. EK-8: Özet Sayfası Örneği,
+       9. EK-9: İçindekiler Sayfası Örneği,
+       10. EK-10: Yazı Alanı Örneği,
+       11. EK-11: Tez Değerlendirme Üye Formu Örneği,
+
+                                                                                              9
+12. EK-12: Tez Genel Değerlendirme Formu Örneği,
+13. EK-13: Yeterlik Sınavı Cevap Kâğıdı Örneği,
+14. EK-14: Üye Yeterlik Değerlendirme Formu Örneği,
+15. EK-15: Kurul Yeterlik Değerlendirme Formu Örneği
+
+
+
+
+                                                       10
+EK-1: Tez Önerisi Bildirim Formu Örneği,
+
+
+                             TEZ ÖNERİSİ BİLDİRİM FORMU
+
+ ADI – SOYADI
+
+ BİRİMİ
+
+ TEZ BAŞLIĞI
+
+
+
+       1) Konu
+       Tezde cevabı aranan asıl sorunun ne olduğu belirtilir. Tez konusu da bu sorunun kendisi
+ya da bu sorunla ilgili olmalıdır. Bu başlık altında tezde “ne yapılacağı” açıklanır.
+       2) Tezin Amaç ve Önemi
+       Bu başlık altında tez konusunun neden seçildiği gerekçelendirilerek açıklanır ve yapılan
+çalışmanın Sosyal Güvenlik Kurumuna ve akademik literatüre ne katkı sağlayacağı açıkça
+belirtilir. Bu bölümde “ne yapılacağı değil neden yapılacağı” ortaya konulur.
+       3) Hipotez
+       Tezin amacına uygun ve tezin kuramsal çerçevesi kapsamında konunun açıklanması için
+gerekli bilgi kategorileri belirlenerek araştırma soruları oluşturulur ya da (araştırma alanının
+gerektirdiği durumlarda) hipotezler ortaya konulur
+       4) Gereç ve Yöntemler (Metodoloji):
+       Tezin kapsamında, araştırılacak konunun neleri kapsayacağı (konu, yer ve zaman)
+belirtilir. Bu başlık altında temel olarak “nasıl yapılacağı” ortaya konulur. Tez konusu ile ilgili
+olmakla birlikte tezde ele alınmayacak konular gerekçeli olarak, yeri, kaynak, zaman ve varsa
+maliyet sınırlamaları ve benzeri durumlar belirtilerek açıklığa kavuşturulur. Hedeflenen
+ve/veya öngörülen sonuca nasıl ulaşılacağını belirten gereç ve yöntemler açıklanır. Tez
+hazırlanırken nitel veya nicel yöntemlerden hangisinin kullanılacağı; durum analizi, örnek olay
+incelemesi, karşılaştırmalı analiz veya diğer inceleme yöntemlerinden hangisinin takip
+edileceği, tezde kullanılacak veri/veri setinin içeriği ve kaynağı, kullanılacak yöntem
+vasıtasıyla eldeki verinin nasıl işleneceği ve yönteme ilişkin diğer hususlar ortaya konulur.
+       5) Kısa Literatür Taraması
+       Bu bölümde araştırma konusunun önceden yapılmış ve literatürdeki yerini almış
+çalışmalara göre konumu tespit edilecek ve tez yazımında kullanılması planlanan kaynakların
+araştırma konusuna sağlayacakları katkı belirtilecektir. Bu bölümde yer verilen kaynaklar, tez
+
+                                                                                                11
+önerisinin kaynakça kısmında, tez yönergesinde belirtilen bilimsel kaynak gösterme
+sistemlerinden birine uygun olarak gösterilmelidir.
+       6) Kaynakça
+       Öneri hazırlanırken yararlanılan ve konu ile ilgili önemli olduğu görülen kaynaklarının
+künyeleri kaynakçaya alınmalıdır. Kaynakça tez çalışması sürecinde geliştirilir.
+       7) Zaman çizelgesi
+
+                                                             Faaliyetin İçin Ayrılan Zaman
+                        Faaliyetler
+                                                                     Aralığı (Hafta)
+ Literatür Taraması                                          Ör: 1.-6. Haftalar arası
+
+ Veri Toplama                                                Ör: 6.-9. Haftalar arası
+
+ Veri Analizi
+
+ İlk Bölümlerin Danışmana Teslimi
+
+ Tüm Verilerin Birlikte Değerlendirilmesi
+
+ Tez Yazımı
+
+ Tez Bölümlerinin Birleştirilmesi
+
+ Tezin Danışmana Teslim Edilmesi
+
+ Danışmanla Teze Son Şeklinin Verilmesi
+
+ Tezin Kuruma Teslim Edilmesi
+
+
+
+
+                                                                                           12
+EK-2: Tez Danışmanı Bildirim Formu Örneği
+
+
+                                       TEZ DANIŞMANI BİLDİRİM FORMU
+
+
+Sosyal Güvenlik Uzman Yardımcısının,
+Adı ve Soyadı:
+Sicil Numarası:
+Tez Başlığı:
+Birimi:
+İş Telefonu:
+Cep Telefonu:
+E-Posta Adresi:
+
+
+
+
+Tez Danışmanının,
+Adı ve Soyadı:
+Unvanı:
+Birimi1:
+İş Adresi2:
+Cep Telefonu:
+E-Posta Adresi:
+
+
+
+
+1
+    Kurum personeli olan tez danışmanı için doldurulacaktır.
+2
+    Kurum personeli olmayan tez danışmanı için doldurulacaktır.
+
+                                                                      13
+EK-3: Sayfa Düzeni Örneği
+
+
+                            2,5 cm
+
+
+
+
+      4 cm                           2,5 cm
+
+
+
+
+                            2,5 cm
+
+
+
+
+                                              14
+EK-4: Dış Kapak Örneği (Ön Yüz)
+                                 T.C.
+                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+
+
+
+
+                     TEZ BAŞLIĞI (En az 16 punto)
+
+
+
+
+                     Sosyal Güvenlik Uzmanlığı Tezi (12 punto)
+
+
+
+
+                                    Hazırlayan        (12 Punto)
+                                   Adı SOYADI
+
+
+
+
+                                   Tez Danışmanı
+                                    Adı SOYADI        (12 Punto)
+                                      Unvanı
+
+
+
+
+                                  Tarih (Ay ve Yıl)
+                                                      (12 Punto)
+                                   Hazırlanan İl
+
+                                                                   15
+EK-4 (Devamı): Dış Kapak Örneği (Sırt)
+
+
+                                         <YIL>
+
+
+
+
+                                          <TEZ BAŞLIĞI>
+                                          <Ad, SOYAD>
+
+
+
+
+                                                          16
+EK-5: Onay Sayfası Örneği
+
+
+         ……………………………… tarafından hazırlanan bu çalışmanın Sosyal Güvenlik
+Uzmanlığı Tezi olarak uygun olduğunu onaylarım. …..../…../…….
+                                    Tez Danışmanının,
+                                    Adı SOYADI:
+                                    İmzası:
+
+
+
+
+         Bu çalışma, Kurulumuz tarafından oy birliği / oy çokluğu ile Sosyal Güvenlik
+Uzmanlığı Tezi olarak kabul edilmiştir.
+
+
+
+
+                Adı SOYADI ve Unvanı                               İmzası
+
+Başkan     :                                                       …………
+
+Üye        :                                                       …………
+
+Üye :      :                                                       …………
+
+Üye        :                                                       …………
+
+Üye        :                                                       …………
+
+
+
+
+                                              Tarih : …../…../….
+
+
+
+
+                                                                                        17
+EK-6: Bilimsel Etik Bildirim Beyanı
+
+
+
+
+                          BİLİMSEL ETİK BİLDİRİM BEYANI
+
+
+       Sosyal Güvenlik Kurumu Sosyal Güvenlik Uzmanlık Tezi ve Yeterlik Sınavı
+Yönergesine uygun olarak hazırladığım bu tez içindeki bütün bilgilerin etik davranış ve
+akademik kurallar çerçevesinde elde edilerek sunulduğunu, ayrıca tez yazım kurallarına uygun
+olarak hazırlanan bu çalışmada bana ait olmayan her türlü ifade ve bilginin kaynağına eksiksiz
+atıf yapıldığını beyan eder, tezimde yer alan ve sahiplerinden yazılı izin alınarak kullanılması
+zorunlu olan metinleri yazılı izin alarak kullandığımı ve istenildiğinde bu yazılı izinlerin
+suretlerini Kuruma teslim etmeyi taahhüt ederim. Tezimle ilgili sunduğum beyan ve taahhütlere
+aykırı bir durumun saptanması halinde ortaya çıkacak tüm hukuki sonuçları kabul ettiğimi
+beyan ederim.
+
+
+
+                                                                              …/…/…..
+                                                                               (İmza)
+                                                                            Adı SOYADI
+
+
+
+
+                                                                                             18
+EK-7: Yayımlama ve Kullanım Hakları Beyanı Örneği
+
+
+
+
+                   YAYIMLAMA VE KULLANIM HAKLARI BEYANI
+
+
+        Sosyal Güvenlik Kurumu tarafından onaylanan uzmanlık tezimin tamamının veya
+herhangi bir kısmının Sosyal Güvenlik Kurumu tarafından basılı (kâğıt), mikroform veya
+elektronik formatta arşivlenmesine, kullanıma açılmasına ve Kurum nezdinde yapılacak her
+türlü çalışmada (analiz, rapor, kitap, süreli/süresiz yayınlar, vb.) kullanılmasına, tezle ilgili fikri
+mülkiyet haklarının ve tezin tamamının ya da bir bölümünün gelecekteki çalışmalarda (makale,
+kitap, lisans ve patent vb.) kullanım haklarının bende kalması koşuluyla izin verdiğimi
+bildiririm.
+
+
+
+
+                                                                                   …/…/…..
+                                                                                     (İmza)
+                                                                                 Adı SOYADI
+
+
+
+
+                                                                                                    19
+EK-8: Özet Sayfası Örneği, (Türkçe)
+
+
+                                          ÖZET
+                            Sosyal Güvenlik Uzmanlığı Tezi
+                                      <Tezin Başlığı>
+                                       <Ad, Soyad>
+        Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+       Bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbb
+        Cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccc
+       Dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd
+
+
+
+
+Anahtar Kelimeler: Zzzzzzzzzzzz, Yyyyyyyyyy, Vvvvvvvvvvvv,Uuuuuuuuuuuuuu
+
+
+
+                                                                                   20
+EK-8 (Devamı): Özet Sayfası Örneği (Yabancı Dil)
+
+
+                                     ABSTRACT
+                            Social Security Expertise Thesis
+                                    <Tezin Başlığı>
+                                     <Ad, Soyad>
+        Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+       Bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbb
+        Cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccc
+       Dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd
+
+
+
+
+Key Words: Zzzzzzzzzzzz, Yyyyyyyyyy, Vvvvvvvvvvvv,Uuuuuuuuuuuuuu
+
+
+
+                                                                                   21
+EK-9: İçindekiler Sayfası Örneği
+                                                          İÇİNDEKİLER
+
+
+TEŞEKKÜR................................................................................................................          i
+BİLİMSEL ETİK BİLDİRİM BEYANI..................................................................                                   ii
+YAYIMLAMA VE KULLANIM HAKLARI BEYANI.........................................                                                     iii
+ÖZET...........................................................................................................................   iv
+ABSTRACT................................................................................................................          v
+YÖNTEM....................................................................................................................        vi
+TABLO VE ŞEKİLLER LİSTESİ...........................................................................                              vii
+KISALTMALAR.......................................................................................................                viii
+GİRİŞ..........................................................................................................................   1
+
+                                                        BİRİNCİ BÖLÜM
+                                                          XXXXXXXX
+
+1. XXXX XXX XXXXXX XXXXXXXX…………………………………………                                                                                       3
+   1.1. Xxxxxxxx Xxxxxxx Xxxxxxx………………………………………………                                                                                3
+   1.2. Xxxx Xxxxx Xxxxxx ……………………………………………………….                                                                                  4
+2. XXXXX XXXXXX XXXXXXXX……………………………………………...                                                                                      7
+   2.1. Xxxxxxxx Xxxx Xxxx Xxxxxxx……………………………………………                                                                               8
+       2.1.1. Xxxx Xxxx………………………………………………………….                                                                                    8
+       2.1.2. Xxxx Xxxxxxx……………………………………………………...                                                                                 8
+   2.2. Xxxxxxxx Xxxx……………………………………………………………..                                                                                    9
+   2.3. Xxxxx Xxxxxx………………………………………………………………                                                                                      10
+       2.3.1. Xxxxxxx Xxxxxxx………………………………………………….                                                                                 10
+       2.3.2. Xxxxx Xxx………………………………………………………….                                                                                    12
+   2.4. Xxxxxx………………………………………………………………………                                                                                         14
+
+                                                   İKİNCİ BÖLÜM
+                                               XXXXXX XXXXXXX XXXX
+
+1. XXXX XXX XXXXXXXX XXXXXXXX……………………………………..                                                                                     15
+   1.1. Xxxxx Xxxxxxx…………………………………………………………….                                                                                     17
+   1.2. Xxxx Xxxx Xxxxx …………………………………………………………                                                                                    18
+   1.3. Xxxxx ……………………………………………………………………...                                                                                       20
+2. XXXXX XXXXXXXX XXXXXXXX…………………………………………                                                                                        21
+   2.1. Xxxxxxxx Xxxx Xxxx Xxxxxxx…………………………………………...                                                                             21
+       2.1.1. Xxxx Xxxx…………………………………………………………                                                                                     23
+       2.1.2. Xxxx Xxxxxx………………………………………………………                                                                                    26
+   2.2. Xxxxxxx Xxxx……………………………………………………………...                                                                                    30
+   2.3. Xxxxx Xxxxxx……………………………………………………………...                                                                                    35
+       2.3.1. Xxxxxx Xxxxxx…………………………………………………....                                                                                35
+       2.3.2. Xxxxx Xxx…………………………………………………………                                                                                     38
+   2.4. Xxxxxx……………………………………………………………………...                                                                                       44
+
+SONUÇ ve ÖNERİLER……………………………………………………………                                                                                          77
+KAYNAKÇA ……………………………………………………………………...                                                                                            81
+
+
+                                                                                                                                         22
+EK-10: Yazı Alanı Örneği
+                                  BİRİNCİ BÖLÜM
+                                                           BÖLÜM BAŞLIĞI
+
+                              XXXXXXXXX XXXXXXXXXX
+
+
+                                                          2 Satır Boşluk
+
+
+
+      Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx
+
+      1.     XXXXXXXXXX XXXXXXXX                            1. ALT BAŞLIK
+
+      1.1.   Xxxxxxxx Xxxxxxxxx                            2. Alt Başlık
+
+
+      Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+                                                          1 Satır Boşluk
+
+
+      Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+      1.1.1. Xxxxxxx Xxxxxx                                2. Alt Başlık
+
+
+      Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+                                                          1 Satır Boşluk
+
+
+      Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+                                                                            23
+EK-11: Tez Değerlendirme Üye Formu Örneği
+           SOSYAL GÜVENLİK UZMANLIĞI TEZ DEĞERLENDİRME ÜYE FORMU
+
+Tezin adı     :
+Adı ve SOYADI :
+
+                                                                                                        PUAN
+                     TEZ DEĞERLENDİRME KISTASLARI                                                                         NOT
+                                                                                                       ARALIĞI
+        1. Tezin konusuyla ilgili alana katkıda bulunma düzeyi                                              0-5
+
+        2. Konunun, amacına uygun olarak hazırlanma düzeyi                                                  0-5
+        3. Tezin hazırlanmasında izlenen inceleme yönteminin amaçlanan
+                                                                                                            0-5
+           sonuca ulaşılması bakımından yeterliği
+        4. Konuyla ilgili literatür ve diğer çalışmaların değerlendirilme
+                                                                                                            0-5
+           düzeyi
+        5. Tezin özgünlük düzeyi                                                                            0-5
+        6. Tez bölümlerinin mantıksal ve analitik bütünlüğü ile akış
+                                                                                                            0-5
+           düzeyi
+        7. Tezin, anlatım ve yazım vurgusu ile Türk dilinin yazım ve
+                                                                                                            0-5
+           noktalama kurallarına uygunluk düzeyi
+        8. Tez yazımında atıflar ve alıntılarla ilgili bilimsel yöntemlere
+                                                                                                            0-5
+           uygunluk düzeyi
+        9. Kaynak araştırması ve bunu teze yansıtma düzeyi                                                  0-5
+
+        10. Tezin Yönergede belirtilen şekil ve içeriğe uygunluk düzeyi                                     0-5
+
+                      TEZ SAVUNMA KISTASLARI
+
+        1. Konuya hakimiyet                                                                                0-10
+
+        2. Savunmada tutarlılık                                                                            0-10
+
+        3. Kavrayış, düşünme, yorum                                                                        0-10
+
+        4. İfade tarzı                                                                                     0-10
+
+        5. Diğer hususlar                                                                                  0-10
+
+        TOPLAM                                                                                              100
+  Değerlendirme notu 70-100 arası başarılı, 0-69 arası başarısız sayılır.
+
+
+
+
+SONUÇ;                    BAŞARILI
+                          BAŞARISIZ*
+
+
+          Adı ve Soyadı                                                İmzası                                     Tarih
+
+…………………………….                                                  …………………                                     …………………
+
+
+* Tez savunmasını başarısız olarak değerlendiren üye gerekçesini bu formun arka yüzünde yazılı olarak belirtir.
+
+                                                                                                                                24
+EK-12: Tez Genel Değerlendirme Formu Örneği
+         SOSYAL GÜVENLİK UZMANLIĞI TEZ GENEL DEĞERLENDİRME FORMU
+Tezin adı     :
+Adı ve SOYADI :
+                                                                                     BAŞARILI/
+                                   TEZ DEĞERLENDİRME NOTU
+                                                                                     BAŞARISIZ
+
+ BAŞKAN
+
+ ÜYE
+
+ ÜYE
+
+ ÜYE
+
+ ÜYE
+
+                                                                         SONUÇ*
+
+
+
+          Bu tez, Kurulumuz tarafından oy birliği / oy çokluğu ile başarılı / başarısız sayılmıştır.
+
+                              Adı ve Soyadı                                         İmzası
+
+
+Başkan :             ………………………………………………….                                         ………………
+
+
+Üye      :           ………………………………………………….                                         ………………
+
+
+Üye      :           ………………………………………………….                                         ………………
+
+
+Üye      :           ………………………………………………….                                         ………………
+
+
+Üye      :           ………………………………………………….                                         ………………
+
+
+                                                                                  Tarih : …./…./……
+
+
+
+
+ * Başarı veya başarısızlığın nihai tespiti oy çokluğu esasına göre yapılır.
+
+
+
+
+                                                                                                       25
+EK-13: Yeterlik Sınavı Cevap Kâğıdı Örneği (Ön Yüz)
+
+
+                                                  SOSYAL GÜVENLİK KURUMU
+                                                          BAŞKANLIĞI
+                                              Sosyal Güvenlik Uzmanlığı Yeterlik Sınavı
+                                                           Cevap Kâğıdı
+
+                                                            …./…./……..
+
+
+                                            ADAY NO:
+
+
+
+
+                                            PUAN:
+
+
+
+
+                                                                                          26
+EK-13 (Devamı): Yeterlik Sınavı Cevap Kâğıdı Örneği (Arka Yüz)
+
+
+
+
+                                                                 27
+EK-14: Üye Yeterlik Değerlendirme Formu Örneği
+                        SOSYAL GÜVENLİK UZMANLIĞI
+                         Üye Yeterlik Değerlendirme Formu
+
+
+Aday No:
+
+                                                            PUAN ARALIĞI       PUAN
+
+ 1. SORU                                                        0-10
+
+ 2. SORU                                                        0-10
+
+ 3. SORU                                                        0-10
+
+ 4. SORU                                                        0-10
+
+ 5. SORU                                                        0-10
+
+ 6. SORU                                                        0-10
+
+ 7. SORU                                                        0-10
+
+ 8. SORU                                                        0-10
+
+ 9. SORU                                                        0-10
+
+ 10. SORU                                                       0-10
+
+ 11. SORU (SEÇMELİ)                                             0-10
+
+ 12. SORU (SEÇMELİ)                                             0-10
+
+                                                 TOPLAM         100
+
+
+
+
+       Adı ve Soyadı                      İmzası                       Tarih
+
+ …………………………….                        …………………                   …………………
+
+
+
+
+                                                                                 28
+EK-15: Kurul Yeterlik Değerlendirme Formu Örneği
+                        SOSYAL GÜVENLİK UZMANLIĞI
+                        Kurul Yeterlik Değerlendirme Formu
+
+
+
+                    YETERLİK SINAV KURULU                          PUAN
+ BAŞKAN
+ ÜYE
+ ÜYE
+ ÜYE
+ ÜYE
+                                                     TOPLAM
+                           BAŞARI PUANI* (TOPLAM PUAN/5)
+ *0-69 BAŞARISIZ
+  70-100 BAŞARILI
+
+
+
+
+       Sosyal Güvenlik Uzman Yardımcısı ………………………………………………
+(Aday No: ……………….) …./…./….. tarihinde yapılan Sosyal Güvenlik Uzmanlığı Yeterlik
+Sınavında BAŞARILI/BAŞARISIZ bulunmuştur.
+
+
+
+
+                            Adı ve Soyadı                         İmzası
+
+
+ Başkan       : ………………………………………………                           ……………………….
+
+ Üye          : ………………………………………………                           ……………………….
+
+
+ Üye          : ………………………………………………                           ……………………….
+
+ Üye          : ………………………………………………                           ……………………….
+
+
+ Üye          : ………………………………………………                           ……………………….
+
+
+
+
+                                                                               29
+

@@ -1,0 +1,1805 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/57954
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2015/20
+ADI: 2015/20 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: e45d5c9da9ce45046a5d776da7bf0471c71bec719fd731eb62240e4acdbe1e01
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+              T.C.
+    SOSYAL GÜVENLİK KURUMU
+HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ
+
+
+
+
+      POZİSYON BAZINDA
+     İŞ/GÖREV TANIMLARI
+
+
+
+
+     HİZMET SUNUMU GENEL MÜDÜRLÜĞÜ
+        Yönetim Hizmetleri Daire Başkanlığı
+                     2015
+
+     Hazırlayan: Şube Müdürü Mehmet KARAKOYUN
+
+
+
+
+                      I
+AMAÇ VE KAPSAM - (1) Bu İş/Görev Tanımlarının amacı; Sosyal Güvenlik Kurumu Hizmet
+Sunumu Genel Müdürlüğünde sözleşmeli olarak çalışan bilişim personelinin İş/Görev Tanımlarını
+düzenlemektir.
+       (2) Bu İş/Görev Tanımları, Hizmet Sunumu Genel Müdürlüğünde çalışan sözleşmeli bilişim
+personelini kapsar.
+
+DAYANAK - (1) Bu İş/Görev Tanımları, Yönetim Kurulunun 27/11/2014 tarihli ve 2014/496 sayılı
+kararı ile kabul edilen ve 04/12/2014 tarihinde yürürlüğe giren Sosyal Güvenlik Kurumu Merkez
+Teşkilatı Çalışma Yönetmeliğinin 52 inci maddesinin birinci fıkrasının (ğ) bendine dayanılarak
+hazırlanmıştır.
+
+                                              ÖNSÖZ
+
+         Bilindiği üzere, kamu kuruluşları asli ve sürekli kamu hizmetlerinin yerine getirilmesini
+istihdam ettikleri personel aracılığıyla gerçekleştirmektedirler.
+         Bu çalışmada, Hizmet Sunumu Genel Müdürlüğünce yerine getirilen görev ve hizmetlerle
+ilgili olarak istihdam edilen personelden, 657 sayılı Devlet Memurları Kanununun 4/B maddesine
+göre ihdas edilen sözleşmeli personel ile 5502 sayılı Sosyal Güvenlik Kurumu Kanunu ile ihdas
+edilen sözleşmeli bilişim personeli pozisyonlarına ait İŞ/GÖREV TANIMLARI bulunmaktadır.
+         Bütünsel bakış açısıyla hazırlanan ve sunulan bu çalışma, sözleşmeli bilişim personelinin
+pozisyon bazında iş/görev tanımlarına ilişkin, Hizmet Sunumu Genel Müdürlüğündeki mevcut
+pozisyonlarına ilişkin görevleri kapsayacak şekilde oluşturulmuştur.
+         Her pozisyon için bir “İş/Görev Tanımları Formu” düzenlenerek kolay anlaşılabilirlik esası
+gözetilmiştir. Düzenlenen form, görev tanımlarının kısa tanımları, işlerin mevzuata uygun, etkin,
+etkili ve verimli şekilde yerine getirilmesinin yanı sıra, gerekli nitelikleri belirleyen kriterleri de
+içeriğinde barındırmaktadır.
+
+İş/Görev Tanım Formu;
+ Pozisyon unvanı,
+ Bağlı olduğu unvan,
+ İş/Görev kısa tanımı,
+ İş/Görev ayrıntılı tanımı ve sorumlulukları,
+ İş/Görevin gerektirdiği yetkinlikler,
+içeriğini sunmakta, görev ve sorumlulukları eşleştirirken kanun ve yönetmeliklere atıf yapmanın
+yanında, gerekli gördüğü bölümlerde ayrıntılı tanımlamalara yer vererek ilgilinin bilgiye daha kolay
+ulaşmasını amaçlamaktadır.
+
+Pozisyon Bazında İş/Görev Tanımları Kitabı;
+ Personelin kendi görevlerini, yetki ve sorumluluklarını kavrayabilmeleri için kaynak teşkil eder.
+ Birimlerde verimlilik ve etkinliğin arttırılmasına yardımcı olur.
+ Performans değerlendirmesine katkı sağlar.
+
+Pozisyon Bazında İş/Görev Tanımları Hazırlanırken İzlenen Yöntem;
+       Pozisyon Bazında İş/Görev Tanımlarının hazırlanmasında 5502 sayılı Sosyal Güvenlik
+Kurumu Kanunu, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası hükmü
+uyarınca kamu idare, kurum ve kuruluşlarında Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar,
+Sosyal Güvenlik Kurumu Sözleşmeli Bilişim Uzmanlarının İstihdamı ile İlgili Usul ve Esaslar ve
+Kurumumuz bünyesinde yapılmış olan görev tanımlarıyla ilgili çalışmalardan yararlanılmıştır.
+Değerlendirme
+       Pozisyon Bazında İş/Görev Tanımı çalışması ile belirlenen hususlar, Hizmet Sunumu Genel
+Müdürlüğünün amaç ve görevleri doğrultusunda, zaman kavramının ortaya çıkaracağı etkiler de
+göz önünde tutularak güncellenmesi gerekir.
+
+
+                                                  1
+                                İÇİNDEKİLER
+
+POZİSYON BAZINDA İŞ/GÖREV TANIMLARI VE YETKİNLİKLERE İLİŞKİN İZLENEN
+YÖNTEM………………………………………………………………….. …………………………                                     1
+Sözleşmeli Bilişim Uzmanı (Yazılım Uzmanı)………………..………………………….……. 5
+Sözleşmeli Bilişim Uzmanı (Sistem Yöneticisi)……………………………………..………… 6
+Sözleşmeli Bilişim Uzmanı (Network Uzmanı) ……………………………..………………… 8
+Sözleşmeli Bilişim Uzmanı (İş Analisti)…………... ………………………………………… 10
+Sözleşmeli Bilişim Uzmanı (Veritabanı Uzmanı)……………………..……………………… 12
+Sözleşmeli Bilişim Uzmanı (İş Zekası Uzmanı)……………………………………………… 14
+Sözleşmeli Bilişim Uzmanı (Veri Ambarı Sistem Yöneticisi) ………….……………………. 16
+Sözleşmeli Bilişim Uzmanı (Veri Ambarı Veri Tabanı Yöneticisi)…………..………………. 18
+Sözleşmeli Çözümleyici ……………………………………………………………………… 20
+Sözleşmeli Programcı…………………………………………………………………………. 21
+Tablo 1- Yetkinlik Sayılarının Dağılımı …………………………………………………….. 22
+Tablo 2- Yetkinlik Sözlüğü …………………………………………………………………. 22
+Tablo 3- Terimler ve Kısaltmalar …………………………………………………………… 28
+Tablo 4- İş/Görev Tanım Formu ……………………………………………………………. 37
+Tablo 5 - İş/Görev Devir Belgesi……………………………………………………………..                   38
+
+
+
+
+                                       2
+     POZİSYON BAZINDA İŞ/GÖREV TANIMLARI VE YETKİNLİKLERE İLİŞKİN
+                           İZLENEN YÖNTEM
+
+        Bu kitapta belirtilmiş olan pozisyon bazında iş/görev tanımları, Hizmet Sunumu Genel
+Müdürlüğünde sözleşmeli pozisyonunda çalışan tüm bilişim personelinin temel görev ve
+sorumluluklarını kapsamakta ve iç kontrol sisteminin önemli bir bileşenini oluşturmaktadır. Bu
+nedenle pozisyon unvanlarının ve iş tanımlarının zaman içinde ortaya çıkacak ihtiyaçlar
+doğrultusunda güncellenmesi ve çalışanların bilgilendirilmesinin performans bazlı yönetimin hayata
+geçirilmesi açısından Kuruma büyük yarar sağlayacağı düşünülmektedir.
+        Genel Müdürlüğün personel yapısına ve tabi olunan mevzuata uygun yetkinliklerinin
+tanımlanmasına imkan sağlayan bir yetkinlik modeli oluşturulmuştur. Yetkinlik modeli çalışması ile
+farklı hiyerarşik seviyedeki personelden ne tür ve kaç adet yetkinlik beklenmesi gerektiği ortaya
+konulmuştur. Her bir sözleşmeli pozisyon unvanı için belirlenmiş olan yetkinliklerin ve hazırlanmış
+olan yetkinlik sözlüğünün (Tablo 2) okunmasından önce bu sınıflandırmaya değinmek faydalı
+olacaktır.
+        Hazırlanan yetkinlik modeli, literatürde önerildiği ve dünyaca kabul gördüğü şekliyle üç ana
+tür yetkinlik içermektedir. Temel, teknik ve yönetsel olarak isimlendirilen bu yetkinlik türleri
+aşağıda tanımlanmıştır.
+
+1. Temel Yetkinlikler
+         Çalışanın yaptığı işi destekleyen yetkinlikler temel yetkinlik olarak adlandırılmaktadır.
+2. Teknik Yetkinlikler
+         Çalışanın fiilen yaptığı işi doğrudan ilgilendiren yetkinlikler teknik yetkinlik olarak
+adlandırılmaktadır.
+3. Yönetsel Yetkinlikler
+         Yöneticilik fonksiyonu olan tüm personelin, temel ve teknik yetkinliklerinin yanı sıra,
+yönetici olmalarından dolayı üstlendikleri rolleri yerine getirebilmek üzere yönetsel yetkinlikler de
+göstermesi beklenmektedir. Yönetsel yetkinlikler, yöneticinin yaptığı operasyonu gerçekleştirmek
+için değil, yöneticilik rolünü en iyi şekilde yerine getirebilmek için ihtiyaç duyduğu yetkinliklerdir.
+Yetkinlik Sayıları
+         Yetkinlik modelinde, literatürün önerdiği ve dünyadaki en iyi uygulamalarda kullanıldığı
+şekilde, bir görev unvanındaki personelden beklenebilecek toplam yetkinlik sayısı 8 ila 10 arasında
+belirlenmiştir. Daha fazla sayıdaki yetkinliği sağlıklı bir şekilde gözlemlemek yönetici açısından
+mümkün olmadığı gibi, çalışanın da daha fazla sayıdaki yetkinliği etkili bir şekilde taşıması
+beklenmemelidir. Bu nedenle yetkinlik türleri itibariyle temel yetkinlik sayısı 4, teknik yetkinlik
+sayısı 7, yönetsel yetkinlik sayısı 4 ile sınırlandırılmıştır.
+         Yönetsel fonksiyonu olmayan personelin daha fazla temel ve teknik yetkinlik göstermesi,
+yönetsel fonksiyonu arttıkça da çalışanın daha az temel ve teknik, daha fazla yönetsel yetkinlik
+taşıması gerekmektedir. Bir çalışandan beklenen yetkinlik sayısı dağılımı, görev yaptığı alan ile de
+ilintili olmaktadır. Bu doğrultuda, Hizmet Sunumu Genel Müdürlüğü bünyesindeki daire
+başkanlıklarının yürütmüş olduğu görev karakteristiklerinin farklı olması dikkate alınarak yetkinlik
+modeli için tasarlanan yetkinlik sayısı dağılımı Tablo 1’de sunulmuştur.
+         Bu çerçevede birim yöneticileri tarafından, kitapta tanımlı bulunan sözleşmeli pozisyon
+unvanlarına sahip kişiler için mevcut iş/görev tanımları dikkate alınarak yapılmalıdır. Kişi bazında
+düzenlenen İş/Görev Tanımı Formu (Tablo 4) ilgililere tebliğ edilirken ilgililerin yürütmekte
+olduğu, birimlerinin temel işlevini etkin biçimde yerine getirmesini etkileyebilecek riskler içeren,
+zamanında ve/veya doğru bir şekilde yerine getirilmesi halinde karar alma süreçlerini güçlendiren
+ve kaynakların etkin kullanımını sağlayan kritik öneme sahip sınırlı sayıdaki görevler olarak
+tanımlanan hassas görevlere de yer verilmelidir. Tebliğ edilen İş/Görev Tanımı Formunun bir sureti
+gerektiğinde ibraz edilmek üzere yöneticilerce muhafaza edilmelidir. Formda yetkinlikler kısmı
+düzenlenirken, Tablo 1’de belirtilen sınırlamalar dikkate alınmak kaydıyla, Tablo 2’de sunulan
+yetkinliklerden yararlanılmalıdır.
+
+
+                                                  3
+        Uzun süreli izin, emeklilik, iş değişikliği, işten ayrılma ve benzeri nedenlerle sözleşmeli
+personele verilmiş olan görevlerin bir bölümünün ya da tamamının başka personele devredilmesi
+halinde, görev devri yapacak personelin uhdesinde bulunan iş ve işlemlerinin durumunu ve gerekli
+belgeleri de içeren İş/Görev Devir Belgesi (Tablo 5) hazırlanır ve yerine görevlendirilen personele
+teslim etmesi sağlanır. Düzenlenen İş/Görev Devir Belgesi, iş/görevi devreden ve devralan
+tarafından imzalanarak birim amirinin onayını müteakip işlerlik kazanır.
+
+
+
+
+                                                4
+                                    İŞ/GÖREV TANIM FORMU
+
+KURUM                                 SOSYAL GÜVENLİK KURUMU
+POZİSYONU                             5502 S.K Bilişim Personeli
+UNVANI                                Sözleşmeli Bilişim Uzmanı (Yazılım Uzmanı)
+BAĞLI OLDUĞU UNVAN                    Şube Müdürü/Daire Başkanı
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Yazılım Uzmanı) unvanının gerektirdiği yetkiler çerçevesinde sorumlu
+olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek. Yaptığı
+iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ YAZILIM PROJESİ ÖNCESİ HAZIRLIK YAPMAK
+ Analiz dokümanlarını hazırlamak ve incelemek.
+ Projenin iş takvimini belirlemek.
+ YAZILIM VE VERİTABANI TASARMINI YAPMAK
+ Kurumca tanımlanan standarda uygun yazılım tasarımı yapmak.
+ Kurumca tanımlanan standarda uygun veri tabanı tasarım yapmak.
+ Yazılım ve veri tabanı tasarımına ilişkin dokümanları hazırlamak.
+ YAZILIM GELİŞTİRMEK
+ Kullanıcı ara yüzü standartlarını ve gerekli kontrol standartlarını oluşturmak.
+ Kurumca tanımlanan güvenlik prosedürlerine uymak.
+ Kullanıcı ara yüzü oluşturmak ve dokümante etmek.
+ Yazılım katmanlarını belirleyerek aralarındaki etkileşimi gerçekleştirmek.
+ Veri kontrollerini ve iş kurallarını, Kurumca belirlenen standart’a göre yazılım koduna
+  dönüştürmek.
+ YAZILIMIN UYGULAMA ORTAMINA UYGUNLUĞUNU VE ÇALIŞIRLIĞINI TEST ETMEK
+ Test senaryolarını detaylandırarak dokümante etmek ve dijital arşivleme yapmak.
+ Test ortamında gerekli testleri gerçekleştirmek.
+ Canlı ortam hız ve performans testlerine eşlik etmek.
+ YAZILIM İYİLEŞTİRME, BAKIM VE GÜNCELLEME ÇALIŞMALARI YAPMAK
+ Yazılım iyileştirme/geliştirme, bakım ve güncelleme çalışmalarını yapmak.
+ Test, doküman güncelleme, duyurma ve uygulamaya alma çalışmaları yapmak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ YAZILIM PROJE SORUMLUSU, SERVİS SORUMLUSU VE/VEYA KOORDİNATÖRÜ OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+             TEMEL                              TEKNİK                           YÖNETSEL
+   Bilgi Paylaşımı.              Yazılım Yönetimi ve Mevzuatı
+   Ekip/Takım Çalışması.          Bilgisi.
+   Kavramsal Düşünme.            Yazılım Analizi.
+   Veri Toplama.                 Yazılım Tasarımı.
+                                  Yazılım Tedarikçi Yönetimi.
+
+      ÇALIŞAN                            ONAYLAYAN                           TARİH
+
+
+
+
+                                                   5
+                                       İŞ/GÖREV TANIM FORMU
+
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (Sistem Yöneticisi)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Sistem Yöneticisi) unvanının gerektirdiği yetkiler çerçevesinde sorumlu
+olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek. Yaptığı
+iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ SİSTEMLERİN   KURULUM,              SÜRÜM      YÜKSELTME,        GÜNCELLEME         VE     YÖNETİM
+  ÇALIŞMALARINI YAPMAK.
+ Görev alanındaki sistemlerin ilk kurulum yükseltmelerini planlamak ve organize etmek.
+ Görev alanındaki sistemlerin işletim sistemi kurulumlarını planlamak ve organize etmek.
+ Görev alanındaki sistemlerdeki gerekli sürücülerin güncellemelerini planlamak ve organize etmek.
+ Görev alanındaki sistemlerde Kurumsal lisanslı yazılımların kurulumunu planlamak ve organize
+  etmek.
+ Görev alanındaki sistemlerin işletim sistemi sürüm yükseltmelerini takip etmek ve yüklenmesini
+  organize etmek.
+ Görev alanındaki sistemlerin işletim sistemi güncellemelerini takip etmek ve yüklenmesini organize
+  etmek.
+ Görev alanındaki sistemlerle ilgili programların sürüm yükseltme ve güncellemelerini takip etmek
+  ve yüklenmesini organize etmek.
+ Görev alanındaki sistemlerdeki test işlemlerini yapmak.
+ Görev alanındaki sistemlerin IP yapılandırmasını network yönetimi birimi ile koordineli çalışarak
+  yapmak.
+ Görev alanındaki sistemlerin isim çözümlemesiyle ilgili ayarların yapmak.
+ Görev alanındaki sistemlerin ve programların yönetiminin yapılmasını sağlamak.
+ Görev alanındaki sistemlerle ilgili olarak gelen talepleri birim amiri ile koordineli olarak planlamak
+  ve organize etmek.
+ Görev alanındaki donanımlarının teknolojik ömürleri ve garanti sürelerinin takip edilmesini
+  sağlamak.
+ Görev alanındaki sistemlerin yazılım lisansları ile lisans anlaşmalarının takip edilmesini sağlamak.
+ Görev alanındaki sistemlerin donanımsal gereksinimlerini belirlemek.
+ Görev alanındaki sunucu servislerini yapılandırmak.
+ SİSTEMLERİN MİNİMUM KESİNTİYLE ÇALIŞMASI İÇİN GEREKLİ ÇALIŞMA YAPMAK
+ Görev alanındaki sistemlerin kesintisiz çalışabilmesi amacı ile yüksek erişilebilirliğinin planlanmak
+  ve organize etmek.
+ Görev alanındaki sistemler ile ilgili alınan yedeklerle, sistemin tekrar hizmet verebilecek hale
+  gelebilmesi için gerekli planlama ve organizasyonu yapmak.
+ Görev alanındaki sistemlerin erişilebilirlik durumlarını izlemek.
+ Görev alanındaki sistemlerin performanslarını izlemek.
+ Görev alanındaki sistemlerde oluşan performans problemlerinde gerekli çalışmaları planlamak ve
+  organize etmek.
+ Görev alanındaki sistemlerde meydana gelen arızalara müdahale etmek ve sorunun çözümü için
+  gerekli planlamaları yapmak.
+ Görev alanındaki sistemlerde meydana gelen arızalarla ilgili birim amirini bilgilendirilmek.
+ SİSTEMLERİN ANALİZ, TASARIM, AR-GE ÇALIŞMALARININ PLANLANMASI VE
+  ORGANİZE EDİLMESİNİN SAĞLANMAK.
+ Görev alanındaki sistemlerle ilgili kapasite gereksinimlerini takip etmek, gerekli ihtiyaçları amirine
+  bildirmek.
+ Görev alanındaki sistemlerin topolojisini oluşturarak kurum alt yapısı ile entegrasyonunu
+  planlamak.
+ Görev alanındaki sistemlerdeki teknolojik gelişmeleri takip etmek.
+
+
+                                                     6
+ Görev alanındaki sistemlerdeki Kurum teknolojik alt yapısına uygun olabilecek araştırma ve
+  geliştirme çalışmalarında birim amiri bilgisi dâhilinde yer almak.
+ SİSTEMLERLE İLGİLİ DOKÜMANTASYON VE RAPORLAMA ÇALIŞMALARI YAPMAK.
+ Görev alanındaki sistemlerde meydana gelebilecek arıza durumlarında problem nedeni ve
+  çözümleri ile ilgili amirin talep ettiği raporları hazırlamak.
+ Görev alanındaki sistemlerle ilgili amirinin talep ettiği performans raporları hazırlamak.
+ Görev alanındaki sistemlerle ilgili olarak, amirin talep ettiği bilgi notlarını hazırlamak.
+ Görev alanındaki sistemlerin işletim sistemi kurulum dokümanlarını hazırlamak.
+ Görev alanındaki sistemlerdeki programların kurulum dokümanlarını hazırlamak.
+ Görev alanındaki sistemlerle ilgili olarak amirinin talep ettiği formları tasarlamak.
+ SİSTEMLERDE GÜVENLİK VE YEDEKLİLİKLE İLGİLİ ÇALIŞMALAR YAPMAK
+ Görev alanındaki sistemlerle ilgili güvenlik yamalarını takip ve analiz etmek.
+ Görev alanındaki sistemlerle ilgili güvenlik yamalarının yüklenmesini planlamak organize etmek.
+ Görev alanında bulunan sistemlerdeki olası veri kaybı riski olan bileşenleri yedekleme birimine
+  bildirmek.
+ Görev alanındaki sistemlerin düzenli olarak yedeklerinin alınabilmesi için yedekleme birimi ile
+  koordineli olarak çalışmak.
+ Görev alanındaki sistemlerin yetkilendirme tasarımını yapmak.
+ Görev alanındaki sistemlere bağlı kullanıcı ve kullanıcı gruplarının monitör edilmesini sağlamak.
+ Görev alanındaki sistemlerin yetkilendirmelerini yönetmek.
+ Görev alanındaki sistemlerin gerekli güvenlik ayarlarını güvenlik birimi ile koordineli çalışarak
+  yapmak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,            SERVİS    SORUMLUSU        VE/VEYA     KOORDİNATÖRÜ          OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+
+Yetkinlikler:
+               TEMEL                               TEKNİK                          YÖNETSEL
+   Dürüstlük, İş Ahlakı ve             Sistem Performans Unsurları
+    Güvenilirlik.                        Bilgisi.
+   Ekip/Takım Çalışması.               Sistem Tasarımı.
+                                        Bilgi Teknolojileri Güvenlik
+   Proaktif Olma.
+                                         Yönetimi, Bilgi Sistemi Kullanma.
+   Tedbirlilik.
+                                        Sistem Mimari Bileşenleri Bilgisi.
+                                        Bilgi Teknolojileri Servis
+                                         Yönetimi.
+                                        Sistem Mimari Bileşenleri Bilgisi.
+
+      ÇALIŞAN                            ONAYLAYAN                            TARİH
+
+
+
+
+                                                   7
+                                      İŞ/GÖREV TANIM FORMU
+
+
+KURUM                              SOSYAL GÜVENLİK KURUMU
+POZİSYONU                          5502 S.K Bilişim Personeli
+UNVANI                             Sözleşmeli Bilişim Uzmanı (Network Uzmanı)
+BAĞLI OLDUĞU UNVAN                 Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Network Uzmanı) unvanının gerektirdiği yetkiler çerçevesinde sorumlu
+olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek. Yaptığı
+iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+
+İş/Görevi:
+ İLERİ DÜZEY KARMAŞIKLIĞA SAHİP AĞLARI TASARLAMAK
+ Kullanıcı gereksinimlerini tanımlamak.
+ Ağ topolojisi ve mimarisini oluşturmak.
+ Ağ donanımlarını ve kablolama malzemelerini belirlemek.
+ Maliyet analizi yapmak.
+ Ağ tasarım planına son halini vermek.
+ FİZİKSEL AĞ KURULUMU VE İLERİ DÜZEY KABLOLAMA İŞLEMLERİNİ PLANLAMAK
+ Kurulum öncesi hazırlık yapmak.
+ Eski ağ yapısını yeni yapıya göre revize etmek.
+ Ağ donanımlarının montajlarını yapmak.
+ Ağ kablolaması planını yapmak.
+ AĞ DONANIMLARI İLE İLGİLİ YAPILANDIRMALARI SAĞLAMAK
+ Aktif ağ donanımlarını yapılandırmak.
+ Geniş alan ağı ve internet bağlantısını yapmak.
+ Yönlendirme yapmak.
+ IP adresi dağıtım planlamasını yapmak.
+ Uç ağ donanımlarını yapılandırmak.
+ Ağ kurulumunu test etmek.
+   AĞ GÜVENLİĞİNİ SAĞLAMAK
+   Güvenlik politikası oluşturmak.
+   Ağ güvenlik donanımlarını yapılandırmak.
+   Kablosuz ağ güvenliğini sağlamak.
+   Yazılımsal ağ güvenliğini sağlamak.
+   Periyodik ağ güvenlik takiplerini yürütmek.
+ AĞ BAKIMINI VE VERİMLİLİĞİNİ SAĞLAMAK
+ Periyodik olarak ağ performansını izlemek.
+ Olası problemleri ve çözümleri tanımlamak.
+ Güç ve çevresel koşul sorunlarının giderilmesini sağlamak.
+ Ağ güncelleştirme planını geliştirmek ve uygulamak.
+ Koruyucu bakım planı oluşturmak.
+ Yedekleme yapmak.
+ Periyodik bakım faaliyetlerini yürütmek.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,            SERVİS     SORUMLUSU        VE/VEYA     KOORDİNATÖRÜ         OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+
+
+
+                                                    8
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+
+        TEMEL                               TEKNİK                           YÖNETSEL
+ Bilgi Paylaşımı.         Ağ ve İletişim Altyapısı Bakım ve Onarım.
+ Ekip/Takım Çalışması.    Ağ Yönetimi, Bilgi Teknolojileri Güvenlik
+ Kavramsal Düşünme         Yönetimi.
+ Tedbirlilik.             Hizmet Sunucu Ağı Performansı Ölçme ve
+                            Değerlendirme.
+                           Risk Yönetimi.
+                           Donanım Yönetimi.
+
+      ÇALIŞAN                         ONAYLAYAN                         TARİH
+
+
+
+
+                                                9
+                                       İŞ/GÖREV TANIM FORMU
+
+
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (İş Analisti)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (İş Analisti) unvanının gerektirdiği yetkiler çerçevesinde sorumlu olduğu
+iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek. Yaptığı iş ve
+işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ KALİTEUYGULAMALARINI YÜRÜTMEK
+ Yapılan çalışmaların kalitesini denetim altında tutmak.
+ Süreçlerin iyileştirilmesi, saptanan hata ve arızaları engelleme çalışmalarını yürütmek.
+ İŞ ORGANİZASYONU YAPMAK
+ İş emirlerini almak.
+ İş planlaması yapmak.
+ Çalışılan alanın işe uygun düzenlenmesini sağlamak.
+ Üst yönetime bilgilendirme ve raporlama yapmak.
+ Dijital arşivleme yaptırmak.
+ YAZILIM GELİŞTİRME PROJESİNİN ÖN HAZIRLIĞINI YAPMAK
+ İş süreçleri bazında araştırma yapmak.
+ Önceden geliştirilmiş mevcut ya da örnek yazılımlar üzerinde çalışarak bilgi edinmek.
+ PROJEYİ TASARLAMAK
+ İş gereksinimlerini belirlemek için kullanıcı isterlerini dokümante etmek.
+ İş analizi dokümanını hazırlamak.
+ Süreç tasarımını gerçekleştirerek dokümante etmek.
+ Yazılım kabul test senaryoları hazırlayıp dokümante etmek.
+ Değişiklik yönetimi politika ve prosedürlerini hazırlayıp dokümante etmek.
+ İş analizi ve süreç tasarım dokümanları üzerinde nihai mutabakata varmak.
+ GELİŞTİRME ÇALIŞMALARINI KOORDİNE ETMEK
+ İhtiyaçları yazılım geliştiricilere aktarmak.
+ Proje geliştirme ve uygulamaya alma planının kesinleştirilmesini sağlamak.
+ Değişiklik ihtiyaçlarını koordine etmek.
+ YAZILIMIN UYGULAMA ORTAMINA UYGUNLUĞUNU VE ÇALIŞIRLIĞINI TEST ETMEK
+ Test ortamında gerekli testleri gerçekleştirmek.
+ Kullanıcılara test ve kullanım eğitimi vermek.
+ YAZILIM DOKÜMANTASYONUNU TAMAMLAMAK
+ Kullanıcı dokümantasyonu oluşturmak.
+ Teknik dokümantasyon oluşturmak.
+ YAZILIMIN UYGULAMAYA ALMA HAZIRLIKLARINI YAPMAK
+ Uygulamaya alma projesinin maliyet ve zaman dokümanını hazırlamak.
+ Uygulamaya alma projesinin nihai halini ilgili taraflarla paylaşmak.
+ YAZILIM UYGULAMAYA ALMA ÇALIŞMALARINI KOORDİNE ETMEK
+ Yazılımın test ve canlı ortamlara kurulmasında danışmanlık yapmak.
+ Veri aktarımı ve düzenleme çalışmalarında danışmanlık yapmak.
+ Kullanıcı eğitimi ve test çalışmalarında koordinasyon ve danışmanlık sağlamak.
+ YAZILIM İYİLEŞTİRME ÇALIŞMALARI YAPMAK
+ Yazılım iyileştirme ve güncelleme çalışmalarını belirleyerek başlatmak.
+ Yazılım değişiklik yönetimine uygun test, doküman güncelleme, duyurma ve uygulamaya alma
+  çalışmaları yapmak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU, SERVİS SORUMLUSU VE/VEYA KOORDİNATÖRÜ OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır.
+
+
+                                                     10
+  Ayrıca, proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için
+  gerekli yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+Yetkinlikler:
+           TEMEL                             TEKNİK                          YÖNETSEL
+ Bilgi Paylaşımı                 Süreç Analizi.
+ Ekip/Takım Çalışması            Taşra Süreç Analizi.
+ Kavramsal Düşünme               Proje Planlama ve Yönetimi.
+ Veri Toplama                    Veri Analizi ve Bilgi Oluşturma
+                                  Yazılım Analizi.
+                                  Yazılım Testi.
+
+
+      ÇALIŞAN                           ONAYLAYAN                          TARİH
+
+
+
+
+                                                 11
+                                        İŞ/GÖREV TANIM FORMU
+
+
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (Veritabanı Yöneticisi)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Veritabanı Yöneticisi) unvanının gerektirdiği yetkiler çerçevesinde
+sorumlu olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek.
+Yaptığı iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ GÖREV ALANINDAKİ SİSTEMLERİN KURULUM, SÜRÜM YÜKSELTME, GÜNCELLEME VE
+  YÖNETİM ÇALIŞMALARINI YAPMAK
+ Görev alanındaki sistemlerin kurulum ve yükseltmelerini planlamak, organize etmek ve gerekli
+  çalışmaları yapmak.
+ Görev alanındaki sistemlerdeki test ortamı kurulum, güncelleme işlemlerini yapmak ve test etmek.
+ Görev alanındaki sistemlerle ilgili olarak gelen talepleri planlamak, organize etmek ve gereğini
+  yapmak.
+ Görev alanındaki sistemlerin yazılım lisansları ile lisans anlaşmalarının takip edilmesini sağlamak.
+ Görev alanındaki sistemlerin donanımsal gereksinimlerini belirlemek ve kapasite planlaması
+  yapmak.
+ Sistem ve veri tabanı parametrelerinin sistemin verimli çalışabilmesi için gerektiğinde
+  güncellemesini yapmak.
+ Veri tabanları üzerinde yapılan yenilikleri takip etmek ve ar-ge çalışmalarını yapmak.
+ Önleyici bakım çalışmaları yapmak.
+ GÖREV ALANINDAKİ SİSTEMLERİN MİNİMUM KESİNTİ İLE VERİMLİ ÇALIŞMASI İÇİN
+  GEREKLİ ÇALIŞMALARI YAPMAK
+ Görev alanındaki sistemlerin kesintisiz çalışabilmesi amacı ile yüksek erişilebilirliğinin planlanması
+  ve organize edilmesini sağlamak.
+ Görev alanındaki sistemlerde çalışan problemli sorguların tespit edilmesi ve gerekli önlemlerin
+  alınmasını sağlamak.
+ Görev alanındaki sistemlerin erişilebilirlik durumlarını izlemek.
+ Görev alanındaki sistemlerin ve veri tabanlarının izlenerek problemlerin tespit edilmesi ve
+  çözümlenmesini sağlamak.
+ Görev alanındaki sistemlerde oluşan performans problemlerinde gerekli çalışmaları planlamak,
+  organize etmek ve yapmak.
+ Görev alanındaki sistemlerde meydana gelen arızalara müdahale etmek ve sorunun çözümü için
+  gerekli planlamaları yapmak.
+ Görevi alanındaki sistemlerde bulunan veri tabanlarının periyodik bakımlarının yapılmasını
+  sağlamak.
+ İş sürekliliğini sağlamak.
+ VERİTABANI YEDEKLEME, GÜVENLİK POLİTİKA VE PRENSİPLERİNİ TASARLAMAK
+ Veri tabanı erişim standartlarının hazırlanmasına katkı sağlamak.
+ Veri tabanı güvenlik kontrol standartlarının hazırlanmasına katkı sağlamak.
+ Veri tabanı yedekleme standartlarının hazırlanmasını sağlamak.
+ Veri tabanı geri dönüş standartlarını hazırlanmasını sağlamak.
+ Veritabanı önleyici bakım kontrolleri standartlarının hazırlanmasını sağlamak.
+ Veri tabanı standartları dokümantasyonunu hazırlanmasına katkı sağlamak.
+ Görev alanındaki sistemlerle ilgili alınan yedeklerle, sistemin tekrar hizmet verebilecek hale
+  gelebilmesi için gerekli planlama ve organizasyonu yapmak.
+ İhtiyaç duyulduğunda yedekleme (geri dönüş) yapmak ya da organize etmek.
+ DİĞER BİRİMLERLE İLİŞKİLERİ SAĞLAMAK GUVENLİK TEDBİRLERİNİ ALMAK
+ Veri tabanı objelerinin oluşturma işleminde yazılım geliştiriciler ile birlikte çalışmak.
+ Veri tabanı güvenlik politikalarını uygulamak.
+ Güvenlik gözlemleri yapmak.
+
+
+                                                     12
+ Veri tabanı erişimlerini izlemek.
+ Gelen talepleri incelemek ve objelerin oluşturulmasını sağlamak
+ Veri tabanı ve objelerin tasarımını yapmak.
+ GÖREV ALANINDAKİ SİSTEMLERLE İLGİLİ DOKÜMANTASYON VE RAPORLAMA
+  ÇALIŞMALARI YAPMAK
+ Görev alanındaki sistemlerde meydana gelebilecek arıza durumlarında problem nedeni ve
+  çözümleriyle ilgili talep edilen raporları hazırlamak.
+ Görev alanındaki sistemlerle ilgili talep edilen performans raporlarını hazırlamak.
+ Görev alanındaki sistemlerle ilgili olarak talep edilen bilgi notlarını hazırlamak.
+ Görev alanındaki sistemlerin kurulum dokümanlarını hazırlamak.
+ Görev alanındaki sistemlerle ilgili olarak talep edilen formları tasarlamak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,            SERVİS    SORUMLUSU        VE/VEYA     KOORDİNATÖRÜ          OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+   KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+    Yetkinlikler:
+        TEMEL                                 TEKNİK                              YÖNETSEL
+ Bilgi Paylaşımı.           Ağ ve İletişim Altyapısı Bakım ve Onarım.
+ Ekip/Takım.                Ağ Yönetimi, Bilgi Teknolojileri Güvenlik
+  Çalışması.                  Yönetimi.
+ Kavramsal Düşünme          Hizmet Sunucu Ağı Performansı Ölçme ve
+ Tedbirlilik.                Değerlendirme.
+                             Risk Yönetimi.
+                             Donanım Yönetimi.
+
+      ÇALIŞAN                            ONAYLAYAN                           TARİH
+
+
+
+
+                                                  13
+                                       İŞ/GÖREV TANIM FORMU
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (İş Zekası Uzmanı)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (İş Zekası Uzmanı) unvanının gerektirdiği yetkiler çerçevesinde sorumlu
+olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak yerine getirmek. Yaptığı
+iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ VERİ AMBARI VERİ MODELLERİ OLUŞTURMAK
+ Veri taleplerini incelemek.
+ Veri taleplerini organize etmek, mevcut veri ambarı göz önünde bulundurularak gerekli tabloları
+  belirlemek ve veri ambarına alınması için koordinasyon sağlamak.
+ Veri talepleri doğrultusunda modeller oluşturmak ve oluşan modeller doğrultusunda veri tabloları
+  oluşturmak.
+ RAPORLAMA ÇALIŞMALARI İÇİN HAZIRLIK YAPMAK
+ Rapor taleplerini değerlendirmek ve ilgili birimler ile görüşerek, mevzuat çerçevesinde veri analiz
+  çalışması yapmak.
+ Talep edilen rapor ile ilgili mevcut altyapı ve istenen verileri değerlendirerek, iş yükünü belirlemek.
+ Belirlenen iş yükü doğrultusunda rapor geliştirme faaliyetlerini planlamak, organize etmek ve
+  gerçekleştirmek, gerçekleştirilmesini sağlamak.
+ RAPOR HAZIRLAMAK,              MEVCUT       RAPORLARIN        BAKIMI      VE   GÜNCELLENMESİNİ
+  SAĞLAMAK
+ Veri talepleri doğrultusunda rapor tasarımına uygun özet tablolar / referans tabloları hazırlamak.
+ Talep edilen rapor çalışması için rapor kataloğunda gerekli işlemlerin yapılarak, rapor alt yapısını
+  oluşturmak.
+ Talep edilen rapor için interaktif ara yüz hazırlamak ve kullanıma sunmak.
+ Mevcut raporların güncellenmesini sağlamak.
+ Eski ve yeni raporların entegre edilmesini sağlamak.
+ Geliştirme ve Test ortamları için Rapor sunucularının güncellenmesini ve çalışır durumda olmasını
+  sağlamak.
+ Yeni raporlama teknolojileri ile ilgili AR-GE çalışması yapmak.
+ Kullanılmakta olan raporların yeni teknolojiler ile zenginleştirilmesini sağlamak.
+ Rapor performansları ile ilgili olarak iyileştirme çalışmaları yapmak.
+ Özet raporlar hazırlamak ve kullanıma sunmak.
+ GELİŞTİRİLEN RAPORLARIN TESTE AÇILMASI VE UYGUNLUĞUNUN TESPİTİ ARDINDAN
+  KULLANIMA SUNULMASINI SAĞLAMAK
+ Rapor geliştirme çalışmaların tamamlanması ardından raporun test ortamına açılmasını sağlamak.
+ Test ortamında ilgili birimlerce kontrol edilen rapor ile ilgili, gerekli durumlarda güncelleme ve
+  sorun giderme çalışmaları yapmak.
+ Test edilerek kabul edilen raporların performanslarını iyileştirmek ve kullanıma sunulmasını
+  sağlamak.
+ VERİ HAZIRLAMA VE RAPORLAMA KONULARINDA TEKNİK DESTEK SAĞLAMAK
+ Veri hazırlama ve performansı konularında teknik destek sağlamak.
+ Raporlama teknolojileri ile ilgili olarak tasarım ve uygulama konularında teknik destek sağlamak.
+ Veri sorgulama dilleri ile ilgili teknik destek sağlamak.
+ RAPORLAMA VE OPERASYONEL KONULARDA YAZILIM VE TEKNİK DESTEK SAĞLAMAK
+ Rapor talepleri ve yönetimi ile rapor sunucularına entegrasyon için gerekli yazılımları üretmek,
+  kullanıma sunmak ve destek sağlamak.
+ Veri yönetimi ve veri taleplerinin karşılanması sürecinde ihtiyaç duyulan yazılımları geliştirmek,
+  kullanıma sunmak ve destek sağlamak.
+ Veri hazırlama, raporlama, yazılım ve diğer teknik alanlarda gerekli olduğu hallerde teknik destek
+  sağlamak.
+
+
+
+
+                                                    14
+ VERİ SUNUMU İLE İLGİLİ ANALİZ, STANDARDİZASYON VE İYİLEŞTİRME ÇALIŞMALARI
+  YAPMAK
+ Raporların altyapı ve ara yüzleri ile ilgili standardizasyon çalışmaları yapmak.
+ Veri sunumu ile ilgili entegrasyon çalışmaları yapmak.
+ Rapor kaynak verisinin eksiklik ve hata tespitlerini yapmak, veri iyileştirme çalışmalarını koordine
+  etmek.
+ Veri sunumu ile ilgili yeni teknolojileri takip etmek.
+ Rapor ve yazılım testi, teknik doküman hazırlama ve güncelleme, rapor ve yazılım uygulamaya
+  alma çalışmalarını yürütmek, koordine etmek.
+ KALİTE VE SÜRDÜRÜLEBİLİRLİĞİ SAĞLAMAK
+ Yapılan çalışmaların kalitesini denetim altında tutmak.
+ İş süreçlerinin iyileştirilmesi, saptanan hata ve eksiklikler konusunda iyileştirme çalışmaları
+  yapmak ve koordine etmek.
+ İş süreçleri bazında araştırma yapmak ve ilgili birimler ile görüşmek.
+ Önceden geliştirilmiş mevcut süreçleri incelemek, iyileştirme çalışmaları yapmak.
+ TEKNİK DOKÜMAN VE SUNUM HAZIRLAMAK
+ Raporlar ile ilgili kullanım dokümanlarını oluşturmak.
+ Süreçler ile ilgili gerekli standardizasyon ve teknik dokümantasyonu oluşturmak.
+ Operasyonla ihtiyaçlar doğrultusunda gerekli teknik sunum vb. dokümantasyon hazırlamak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,            SERVİS     SORUMLUSU        VE/VEYA     KOORDİNATÖRÜ          OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+   Yetkinlikler:
+         TEMEL                                 TEKNİK                              YÖNETSEL
+ Bilgi Paylaşımı.           Aktüeryal ve İstatistiksel Sonuçları
+ Ekip/Takım Çalışması.       Raporlama.
+ Kavramsal Düşünme          Hizmet Veritabanı Bilgisi.
+ Veri Toplama.
+                             İstatistiksel Analiz.
+                             Rapor Hazırlama.
+                             Veri Analiz Tekniklerini Kullanma.
+                             Veri Analizi ve Bilgi Oluşturma.
+                             Veri Yönetimi.
+
+      ÇALIŞAN                            ONAYLAYAN                           TARİH
+
+
+
+
+                                                   15
+                                       İŞ/GÖREV TANIM FORMU
+
+
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (Veri Ambarı Sistem Yöneticisi)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Veri Ambarı Sistem Yöneticisi) unvanının gerektirdiği yetkiler
+çerçevesinde sorumlu olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak
+yerine getirmek. Yaptığı iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+İş/Görevi:
+ VERİ AMBARI MİMARİSİNİ TANIMLAMAK
+ Veri ambarına verinin akışını tasarlamak.
+ Veri ambarında verinin akış aşamalarını tasarlamak.
+ Veri ambarı için meta data standartları belirlemek.
+ Veri ambarı teknolojilerini tavsiye etmek.
+ Sistemin güvenlik ihtiyaçlarını tasarlamak.
+ Diğer sistemlere verinin taşınması için tasarım yapmak.
+ VERİ AKIŞ İŞLEMLERİNİ GERÇEKLEŞTİRMEK
+ Veri alım aşamasını yönetmek.
+ Veri akışı için ek yazılım yazmak.
+ Veri ambarına aktarılan verinin bütünleştirilmesini sağlamak.
+ Rapor geliştiricilerin veri modelini gerektiği gibi kullanmasını sağlamak.
+ Diğer sistemlere verinin taşınmasını sağlamak.
+ VERİ KALİTESİNİ GERÇEKLEŞTİRMEK
+ Veri akışının veri kaybı olmadan akmasını sağlama üzere tasarım yapmak.
+ Veri kontrol tasarımını gerçekleştirmek.
+ Veri kontrol programını takip etmek.
+ Veri kontrol programını test etmek ve geliştirmek.
+ SİSTEMİN BAKIMINI YAPMAK
+ Kaynakların yeterliliğini takip etmek ve tasarruflu kullanmak.
+ Sistem aksaklıklarına karşı hazır olmak.
+ Araçlarını kullanım sürelerini ve çalışabilirliğini takip etmek.
+ SİSTEM İYİLEŞTİRME ÇALIŞMALARI YAPMAK
+ Prosedürel işlerin iyileştirilmesi için çalışma yapmak.
+ Veri ambarı ile alakalı şartnameleri hazırlamak.
+ Satın alma sürecinde kurum kural ve yöntemlerine göre onaylama mekanizmasında kendine düşen
+  görevleri yerine getirmek.
+ BİLGİ GÜVENLİĞİ TEDBİRLERİNİ ALMAK
+ Sorumluluğu altındaki araçların kullanıcılarını yetkilendirmek.
+ Verinin akış aşamasında rapor geliştiricilerin yaptıkları işleri kaydetmek.
+ Rapor geliştiricilerin gerektiğinde kaynağa ulaşabilmesi için kullanıcı yetkilerini istemek.
+ Yetki işlemlerini kaydetmek.
+ EKİP LİDERLİĞİ
+ Etkin iş paylaşımı yapmak.
+ Ekip içinde yardımlaşmayı sağlamak.
+ İhtiyaç analizini yapmak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,             SERVİS     SORUMLUSU        VE/VEYA      KOORDİNATÖRÜ             OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+
+
+                                                    16
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+   Yetkinlikler:
+        TEMEL                               TEKNİK                           YÖNETSEL
+ Bilgi Paylaşımı.         Bilgi Teknolojileri Güvenlik Yönetimi,
+ Ekip/Takım Çalışması.     Bilgi Sistemi Kullanma.
+ Kavramsal Düşünme        Sistem Mimari Bileşenleri Bilgisi.
+ Tedbirlilik.
+                           Bilgi Teknolojileri Servis Yönetimi.
+                           Sistem Mimari Bileşenleri Bilgisi.
+                           Sistem Performans Unsurları Bilgisi
+                           Sistem Yazılımları Yönetimi.
+
+      ÇALIŞAN                         ONAYLAYAN                         TARİH
+
+
+
+
+                                               17
+                                       İŞ/GÖREV TANIM FORMU
+
+
+KURUM                               SOSYAL GÜVENLİK KURUMU
+POZİSYONU                           5502 S.K. Bilişim Personeli
+UNVANI                              Sözleşmeli Bilişim Uzmanı (Veri Ambarı Veritabanı Yöneticisi)
+BAĞLI OLDUĞU UNVAN                  Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Sözleşmeli Bilişim Uzmanı (Veri Ambarı Veritabanı Yöneticisi) unvanının gerektirdiği yetkiler
+çerçevesinde sorumlu olduğu iş ve işlemleri kanun ve diğer mevzuat düzenlemelerine uygun olarak
+yerine getirmek. Yaptığı iş ve işlemlerle ilgili olarak birim amirine düzenli bilgi vermek.
+
+İş/Görevi:
+ KURULUM FAALİYETLERİ
+ Veritabanı yazılımları ile ilgili kurulumları yapmak.
+ Kurulan yazılımların konfigürasyonlarının yapılarak çalışmasını sağlamak.
+ VERİTABANI YÖNETİM FAALİYETLERİ
+ Veritabanı tasarım ve planlama çalışmalarını yapmak.
+ Veritabanının yönetimini sağlamak.
+ Hizmet sürekliliğinin sağlanmasına ilişkin çalışmalar yapmak.
+ Olası sorunların çözümünü sağlamak.
+ YEDEKLEME FAALİYETLERİ
+ Veritabanı yedekleme politikalarını belirlemek.
+ Veritabanı yedekleme yönetimini yapmak.
+ GÜVENLİK İLE İLGİLİ FAALİYETLER
+ Veritabanı güvenliğiyle ilgili kuralların belirlenmesini sağlamak.
+ Veritabanı güvenliğini artırıcı çalışmalar yapmak.
+ KURALLAR VE YÖNTEMLERİN BELİRLENMESI VE UYGULANMASI
+ Veritabanı kullanıcı ve uygulamalarından gelen taleplerin kontrolü ile teknik standardizasyonu
+  sağlamak.
+ Veritabanının bütünlüğü ve performansını korumaya yönelik çalışmalar yapmak.
+ FELAKET KURTARMAYA YÖNELİK FAALİYETLER
+ Felaket kurtarma ile ilgili çalışmalar yapmak.
+ Veritabanı arşiv yedekleriyle ilgili çalışmalar yapmak.
+ BİLGİLENDİRME VE RAPORLAMA
+ Veritabanının yönetimi ve sistemleriyle ilgili idareyi bilgilendirmek ve gerekli raporları hazırlamak.
+ DİĞER BİRİMLERELE İLİŞKİLER
+ Veritabanı sistemleriyle ilgili teknik destek sağlamak.
+ Veritabanı sistemleriyle ilgili diğer birimlerle işbirliği içinde çalışmak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU,             SERVİS     SORUMLUSU         VE/VEYA     KOORDİNATÖRÜ          OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır. Ayrıca,
+  proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için gerekli
+  yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+  KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+
+
+
+
+                                                     18
+   Yetkinlikler:
+        TEMEL                             TEKNİK                  YÖNETSEL
+ Bilgi Paylaşımı.         Veritabanı Uygulama ve Yönetimi.
+ Ekip/Takım Çalışması.    Ağ Yönetimi, Bilgi Teknolojileri
+ Kavramsal Düşünme.        Güvenlik Yönetimi.
+ Tedbirlilik.             Veritabanı Tasarımı.
+                           Risk Yönetimi.
+                           Donanım Yönetimi.
+
+     ÇALIŞAN                         ONAYLAYAN                 TARİH
+
+
+
+
+                                              19
+                                       İŞ/GÖREV TANIM FORMU
+KURUM                              SOSYAL GÜVENLİK KURUMU
+POZİSYONU                          657 4/B S.K. Sözleşmeli Personel
+UNVANI                             Sözleşmeli Çözümleyici
+BAĞLI OLDUĞU UNVAN                 Şube Müdürü/Daire Başkanı
+
+İş/Görev Kısa Tanımı:
+Çözümleyici unvanının gerektirdiği yetkiler çerçevesinde sorumlu olduğu iş ve işlemleri kanun ve
+diğer mevzuat düzenlemelerine uygun olarak yerine getirmek, bilgi teknolojileri hizmet yönetiminin
+ilgili prosedürü çerçevesinde, yazılım projesi kapsamında yürütülen tüm iş ve işlemleri yerine
+getirmek.
+İş/Görevi:
+ Yapılması tasarlanan yazılımlara ait işleri analiz etmek, bilgi toplamak, araştırma ve inceleme
+     yapmak.
+ Analitik çalışmalar için gereksinimleri tespit etmek, geliştirdiği proje taslağını programcılarla
+     değerlendirmek.
+ Uygulanabilirliği tespit edilen projelerin bilgisayar ortamına aktarım şemalarını hazırlamak.
+ Projenin yazılım ve donanım ihtiyaçlarını tespit etmek, hazırladığı iş akış şeması için gerekli olan
+     program yazılımının yapılmasını sağlamak.
+ Programcı tarafından hazırlanan yazılımları test ettikten sonra dokümanlarla birlikte ilgili birime
+     uyarlamak ve eğitimini yapmak.
+ Yazılım geliştirme projelerinin; analiz, tasarım, kodlama, birim ve entegrasyon test faaliyetleriyle
+     ilgili olarak kendine verilen görevleri yerine getirmek.
+ Yazılımların test, gözden geçirme ve geçerleme faaliyetlerinde görev almak.
+ Görev aldığı yazılıma ilişkin olarak doğrulama ve geçerleme faaliyetleri sonucunda ortaya çıkan
+     uygunsuzlukları gidermek.
+ Görev aldığı yazılıma ilişkin yeterlilik testleri ve kabul-muayene faaliyetlerine yerinde destek
+     vermek.
+ Yazılımların kesintisiz ve en etkin şekilde kullanımına yönelik olarak kullanıcılara yerinde destek
+     vermek ve kullanıcıların ihtiyaç duyduğu eğitimleri sağlamak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU, SERVİS                SORUMLUSU       VE/VEYA      KOORDİNATÖRÜ         OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır.
+  Ayrıca, proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için
+  gerekli yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+
+Yetkinlikler:
+            TEMEL                                TEKNİK                           YÖNETSEL
+   Bilgi Paylaşımı.               Yazılım Yönetimi ve Mevzuatı
+   Ekip/Takım Çalışması.           Bilgisi.
+   Kavramsal Düşünme.             Yazılım Analizi.
+   Veri Toplama.                  Yazılım Tasarımı.
+                                   Yazılım Tedarikçi Yönetimi.
+                                   Yazılım Testi.
+
+      ÇALIŞAN                             ONAYLAYAN                            TARİH
+
+
+
+                                                    20
+                                      İŞ/GÖREV TANIM FORMU
+
+KURUM                              SOSYAL GÜVENLİK KURUMU
+POZİSYONU                          657 4/B S.K. Sözleşmeli Personel
+UNVANI                             Sözleşmeli Programcı
+BAĞLI OLDUĞU UNVAN                 Şube Müdürü/Daire Başkanı
+İş/Görev Kısa Tanımı:
+Programcı unvanının gerektirdiği yetkiler çerçevesinde sorumlu olduğu iş ve işlemleri kanun ve diğer
+mevzuat düzenlemelerine uygun olarak yerine getirmek, bilgi teknolojileri hizmet yönetiminin ilgili
+prosedürü çerçevesinde, yazılım projesi kapsamında yürütülen tüm iş ve işlemleri yerine getirmek.
+İş/Görevi:
+ Yapılması tasarlanan yazılımlara ait işleri analiz etmek, yazacağı programların akış şemalarını
+    hazırlamak, uygun programlama dilini tespit etmek, gelişmiş programlama tekniklerini ve geçerli
+    standartları kullanarak programları yazmak.
+ Yaptığı yazılımların kullanım hatalarını en aza indirecek şekilde güvenlik önlemlerini almak.
+ Sorumlu olduğu program dosyalarını yedeklemek ve güvenli ortamda saklamak.
+ Sorumlu olduğu yazılım kodu ile birlikte yazılım koduna ilişkin olarak üretilmesi gereken her
+    türlü dokümantasyonu hazırlamak.
+ Bilişim alanındaki ve yeni program dillerindeki gelişmeleri takip etmek ve kendisini geliştirmek.
+ Yazılımların test, gözden geçirme ve geçerleme faaliyetlerinde görev almak.
+ Görev aldığı yazılıma ilişkin olarak doğrulama ve geçerleme faaliyetleri sonucunda ortaya çıkan
+    uygunsuzlukları gidermek.
+ Görev aldığı yazılıma ilişkin yeterlilik testleri ve kabul-muayene faaliyetlerine yerinde destek
+    vermek.
+ Yazılımların kesintisiz ve en etkin şekilde kullanımına yönelik olarak kullanıcılara yerinde
+    destek vermek ve kullanıcıların ihtiyaç duyduğu eğitimleri sağlamak.
+ Amirleri tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+ PROJE SORUMLUSU, SERVİS SORUMLUSU VE/VEYA KOORDİNATÖRÜ OLARAK
+  GÖREVLENDİRİLMESİ
+ Bu görevin yapılması için gerekli yetki ve sorumluluğun kendisine verildiği anlamını taşır.
+  Ayrıca, proje sorumlusu, servis sorumlusu ve/veya koordinatör olarak verilen görevi yapmak için
+  gerekli yetkiye sahip olup, sorumluluğu da yetki ile sınırlıdır.
+ Görev alanıyla ilgili her türlü bilgi ve veriyi derlemek, değerlendirmek ve gerektiğinde teknik
+  ve/veya bilgilendirme raporu hazırlamak.
+ Görevli olduğu konularda toplantılara iştirak etmek, sevk ve idaresinde bulunan personelin iş
+  paylaşımını yapmak ve takip etmek.
+ KOMİSYONLARDA GÖREVLENDİRİLMESİ
+ Mesleki, temel ve teknik yetkinliklerinin gerektirdiği görevler kapsamında oluşturulacak
+  komisyonlarda görevlendirilmesi durumunda, verilen görevleri tam ve zamanında eksiksiz olarak
+  yapmaktan komisyon başkanına karşı sorumludur.
+Yetkinlikler:
+           TEMEL                                TEKNİK                           YÖNETSEL
+   Bilgi Paylaşımı.               Yazılım Yönetimi ve Mevzuatı
+   Ekip/Takım Çalışması.           Bilgisi
+   Kavramsal Düşünme.             Yazılım Analizi
+   Veri Toplama.                  Yazılım Tasarımı
+                                   Yazılım Tedarikçi Yönetimi
+                                   Yazılım Testi
+
+      ÇALIŞAN                            ONAYLAYAN                           TARİH
+
+
+
+
+                                                   21
+                              Tablo 1 - Yetkinlik Sayıları Dağılımı
+
+                                                               Temel        Teknik      Yönetsel
+Pozisyon Grubu                               Birimi
+                                                              Yetkinlik    Yetkinlik    Yetkinlik
+Sözleşmeli Bilişim Uzmanı, Sözleşmeli
+Çözümleyici ve Sözleşmeli Programcı   HSGM Daire
+                                                                   4           4-6           0
+                                      Başkanlıkları
+
+
+
+
+                                  Tablo 2 - Yetkinlikler Sözlüğü
+
+                                   TEMEL YETKİNLİKLER
+
+Başarı ve Çaba: Yaptığı işte daima başarılı olmayı hedefler ve bu doğrultuda gereken her türlü
+çabayı gösterir.
+Belirsizlik, Değişim ve Strese Karşı Tolerans: Değişen iş ihtiyaçlarına değişik yaklaşımlar
+uygulamak üzere esneklik gösterir.
+Bilgi Paylaşımı: İşe yönelik olarak edindiği bilgileri çalışma arkadaşları ya da görüşüne
+başvuranlar ile paylaşır.
+Bütünsel Bakış: Olaylara farklı açılardan yaklaşabilir, tüm yönleriyle büyük resmi kavrayabilir.
+Çalışan Odaklılık: Çalışanların beklentilerini ve ihtiyaçlarını doğru olarak belirler, uygun çalışma
+şartları sağlar.
+Detaylara Önem Verme: Kesin ve doğru bilgiye ulaşmak için gerekli detayları araştırır ve itinayla
+değerlendirir.
+Dürüstlük, İş Ahlakı ve Güvenilirlik: Verdiği sözleri yerine getirerek, iş ahlakına ve dürüst
+çalışma ilkelerine uygun davranarak karşısındakilerle güvene dayalı ilişkiler geliştirir.
+Ekip/Takım Çalışması: İşbirliği ve dayanışma içinde çalışarak ekibin hedeflerine ulaşmasında
+aktif rol alır. Çalışma arkadaşlarıyla arasındaki etkileşimi olumludur, uyumlu ve geçimli bir tavır
+sergiler.
+Gelişime ve Değişime Yatkınlık: Değişime direnç göstermez, değişimi Kurum yararına yorumlar
+ve destekler.
+Girişimcilik ve Sorumluluk Alma/İnisiyatif Kullanma: İşinin gerektirdiği konularda çekingen
+davranmaz, sorumluluk almaktan kaçınmaz, gerektiğinde işin sağlıklı yürümesi için ilgili riskleri de
+göz önünde bulundurarak inisiyatif kullanmaktan çekinmez.
+Hesap Verebilirlik: Eylem ve konuşmalarından sorumludur, taahhütlerine uygun ve tutarlı
+davranışlarda bulunur.
+İletişim ve İlişki Kurma: Kurum içerisinde etkili iletişim becerileri sergiler ve güvene dayalı
+ilişkiler geliştirir. Diğerlerinin katkısının ve düşüncelerinin önemli olduğunu hissettirerek pozitif
+ilişkiler kurar.
+İşbirliğine Açıklık: İşin gereklerinin yerine getirilmesi sırasında her türlü işbirliğine açıktır,
+başkalarının işbirliği ihtiyaçlarına maksimum seviyede cevap verir.
+Kavramsal Düşünme: Soyut kavramlar üzerinden düşünebilir, teorik bilgiyi yorumlamaya
+kullanmaya yatkındır.
+
+
+                                                 22
+Kendi Başına İş Yapma: Bir başkasının yönlendirmesine ve yardımına gerek kalmadan işiyle ilgili
+gereken çalışmaları yapar.
+Kurallara Uyma: Tüm faaliyetlerinde bildirilmiş kurallara uygun hareket eder. İnisiyatif
+kullanılması gereken durumlar haricinde kuralları yıkmaya çalışmaz.
+Kurallara ve Düzenlemelere Uyum: Görevi ile ilgili düzenleme ve kuralları öğrenip işleri bunlara
+uygun olarak yapmaya gayret eder.
+Kurumsal Fayda Odaklılık: Yapılan tüm iş ve işlemlerde Kurumun yararını gözetir.
+Mevzuata Uyma: İşiyle ilgili kanun, yönetmelik, genelge, tebliğ gibi birincil ve ikincil mevzuata
+uygun işlemler yapma konusunda hassastır.
+Öğrenme Motivasyonu: Kendisinin ve diğerlerinin performansını geliştirmek üzere yeni bilgi,
+davranış ve hüner elde etmek için sürekli araştırır ve sonuçlarını işinde kullanmak üzere öğrenir.
+Proaktif Olma: Olaylar ve durumlar gerçekleştikten sonra harekete geçmek yerine öncesinde
+yapılması gerekenleri öngörür ve yapılması gerekenleri yapar.
+Problem Çözme: Problemlerin çözümlenmesinde sorumluluk üstlenir, etkin çözümler önerir ve
+uygular.
+Profesyonellik ve Uzmanlık: İşinde en üst seviyede bilgi ve deneyime sahiptir. İşinin gereklerini
+yerine getirirken profesyonel tavır sergiler.
+Sonuç Odaklılık: İşin ifası sırasında istenen ve arzu edilen sonuçların elde edilmesine odaklanır.
+İşlerini sonuca, önem ve önceliklerine göre sıralar, arzu edilen çıktıların maksimize edilmesine
+çalışır.
+Strese Dayanıklılık: Bireysel problemler ile otorite, liderlik, güç, hedefler ve terminler gibi iş
+kaynaklı nedenlerle artan stresini işine ve ekip arkadaşlarına yansıtmaz ve başa çıkmasını bilir.
+Tedbirlilik: Hataların oluşmadan önlenebilmesi için tedbirler alır veya alınması için bildirimde
+bulunur.
+Uyumluluk: Yakın ve uzak çevresindeki çalışma arkadaşları ile uyum içerisinde çalışır.
+Veri Toplama: Daha sonra analiz edilmek üzere işiyle ilgili her türlü veriyi yapısal olarak toplar ve
+düzenler.
+Verimlilik: Çalışmalarında verimliliği ön planda tutar.
+
+
+                                    TEKNİK YETKİNLİKLER
+
+Ağ ve İletişim Altyapısı Bakım ve Onarım: Kurum ağ ve iletişim envanterindeki tüm kalemlere
+ilişkin arıza ve sorunları en az birinci seviyede tespit eder, garanti ve bakım anlaşması kapsamında
+olan arızaları detaylı problem tanımı ile birlikte ilgili tedarikçiye iletir ve takibini yapar, belirli
+seviyelerdeki problemleri kendisi çözme konusunda bilgili ve tecrübelidir.
+Ağ Yönetimi: Ağ ve iletişim altyapısı mimarisi, ağ topolojisi standartları ile ağ altyapısı kaynak ve
+kapasite planlaması konularında bilgili ve tecrübelidir.
+Aktüeryal ve İstatistiksel Sonuçları Raporlama: Aktüeryal ve istatistiksel tekniklerin
+kullanılmasıyla oluşturulan çalışmaları yorumlar. Sade ve anlaşılabilir bir dille raporlama
+konusunda bilgili ve tecrübelidir.
+Analitik Yaklaşım: Olayları, durumları ve konuları neden sonuç ilişkileri çerçevesinde, anlamlı ve
+birbiriyle ilişkili parçalar halinde düşünebilir.
+Araştırma Teknikleri: Değerlendirme ve inceleme yapmak üzere muhtelif kaynaklardan etkin bir
+şekilde bilgi toplama konusunda bilgili ve tecrübelidir.
+
+
+                                                  23
+Bilgi Sistemi Kullanma: Görev alanına giren konularla ilgili işlemleri mevcut veritabanlarını ve
+uygulama yazılımlarını kullanarak hızlı ve doğru bir şekilde yapar.
+Bilgi Teknolojileri Güvenlik Risk Analizi: Kurumca yürütülen bilgi teknolojileri ile ilintili tüm
+hizmetlerin güvenlik boyutunun analizini yapar, olası güvenlik açıklarını, risk ve tehdit unsurlarını
+belirler, değerlendirir. Güvenlik Risk Analizi konusunda uluslararası yaklaşım ve yöntemler
+konusunda bilgili ve tecrübelidir.
+Bilgi Teknolojileri Güvenlik Yönetimi: Dünyaca kabul görmüş bilgi sistemleri güvenlik
+politikaları, standartları ve uygulamaları konusunda bilgili ve tecrübelidir.
+Bilgi Teknolojileri Kalite Güvence ve Konfigürasyon Yönetimi: Yazılım kalite güvencesi ve
+konfigürasyon yönetimi konularında deneyimlidir, uluslararası yazılım standartları konusunda
+bilgili ve tecrübelidir.
+Bilgi Teknolojileri Servis Yönetimi: Uluslararası standartlarda olay/sorun veritabanının
+tasarlanmasını ve güncel tutulmasını sağlama, bilgisayar destekli araçları kullanarak değişiklik
+taleplerinin takibini yapma, değişiklik raporları oluşturma ve değerlendirme konusunda bilgili ve
+tecrübelidir.
+Bilgi Teknolojileri Stratejisi Geliştirme: Kurumun etkinliğini artıracak bilgi teknolojileri
+stratejileri geliştirme ve diğer birimleri bu doğrultuda yönlendirme konusunda bilgili ve
+tecrübelidir.
+Bütünsel Bakış: Bir olaya ya da duruma farklı açılardan yaklaşabilir, tüm yönleriyle büyük resmi
+kavrayabilir.
+Donanım Bakım ve Onarım: Kurum donanım envanterindeki tüm kalemlere ilişkin arıza ve
+sorunları en az birinci seviyede tespit etme, garanti ve bakım anlaşması kapsamında olan arızaları
+detaylı problem tanımı ile birlikte ilgili tedarikçiye iletme ve takibini yapma, belirli seviyelerdeki
+problemleri kendisi çözme konusunda bilgili ve tecrübelidir.
+Donanım Yönetimi: Sunucu donanım mimarileri ile donanım kaynak ve kapasite planlaması, ağ
+topolojisi standartları ve ağ bileşenlerinin yönetimi konusunda bilgili ve tecrübelidir.
+Düzenleyici Etki Analizi: Düzenleyici etki analizi kapsamında yapılması gereken tüm araştırma,
+inceleme ve teknik analizleri yapma ya da yapılmasını sağlama konusunda bilgili ve tecrübelidir.
+GZFT Analizi: Kurum, birim veya bir hususun güçlü, zayıf yanları ile fırsat ve tehditlerini tespit
+etme konusunda bilgili ve tecrübelidir.
+Hizmet Sunucu Ağı Performansı Ölçme ve Değerlendirme: Hizmet sunucu ağının genel
+performans hedeflerini belirleme ve ölçme/değerlendirme sistemini tasarlama konusunda bilgili ve
+tecrübelidir.
+Hizmet Veritabanı Bilgisi: Hizmet kayıtlarını veritabanına girebilmek ve sorgulayabilmek için
+veritabanının bulundurması gereken verileri ve bu veriler arasındaki ilişkileri bilir.
+İstatistiksel Analiz: Verileri istatistiksel yöntemleri kullanarak analiz etme ve istatistik bilgilerini
+kullanarak çeşitli raporlar hazırlama konusunda bilgili ve tecrübelidir.
+Kriz Yönetimi: Kriz durumlarının yönetimi, koordinasyonu, kontrolü ve dokümantasyonu
+konusunda bilgili ve tecrübelidir.
+Kurum Portalına Belge Yükleme: Kurum portalına ilgili duyuru ve belgeleri girme konusunda
+bilgili ve tecrübelidir.
+Mimari Uygulama Yazılımı Kullanımı: Mimari uygulamalara ilişkin araçlara hâkimdir,
+gelişmeleri sürekli takip eder ve araştırır, güncel ve Kuruma/birime uygun türevlerini etkin bir
+şekilde kullanma konusunda bilgili ve tecrübelidir.
+
+
+
+
+                                                  24
+Microsoft Excel Kullanım Bilgisi: Microsoft Excel yazılımı ile temel yazım, hesaplama ve
+tablolama özelliklerini kullanarak çeşitli çıktılar hazırlama konusunda bilgi ve tecrübe sahibidir.
+Microsoft Word Kullanım Bilgisi: Microsoft Word yazılımı ile temel yazım ve tablolama
+özelliklerini kullanarak çeşitli çıktılar hazırlama konusunda bilgi ve tecrübe sahibidir.
+Operasyonel Risk Yönetimi: Operasyonların gerçekleştirilmesi sırasında ortaya çıkabilecek
+risklerin tanımlanması, ilgili verilerin toplanması için alt yapı hazırlanması, bu verilerden yola
+çıkarak analizlerin gerçekleştirilmesi, analiz sonuçlarına uygun önlemlerin alınması için fikir
+geliştirilmesi, geliştirilen fikirlerin uygulamaya konulmasının planlanması ve sağlanması
+konusunda bilgili ve tecrübelidir.
+Optimizasyon: Modeller oluşturarak maliyet ve süre bazında optimum çözümü doğru biçimde
+tespit etme konusunda bilgili ve tecrübelidir.
+Portal İçerik Yönetimi: Kurum portalından verilecek hizmetlerin belirlenmesini, iyileştirilmesini,
+ekran ara yüz tasarımlarının oluşturulmasını ve uygun içeriğin hazırlanmasını sağlama konusunda
+bilgili ve tecrübelidir.
+Problem Çözme: Sorunu tespit eder, çeşitli teknikler kullanarak sorunun kaynağını bulur ve sorunu
+çözer. Sebep tespitinde sistematik yaklaşım olanağı veren araçları etkin olarak kullanır,
+gerektiğinde diğerlerinin katılımını organize ederek çözüm önerileri üretilmesini sağlar, seçilen
+çözüm önerisini uygular.
+Proje Fayda Analizi: Projeden beklenen faydaları tanımlama, sınıflandırma ve gerçekleşme
+potansiyellerini tespit etmek üzere gerekli hesaplamaları yapma konusunda bilgili ve tecrübelidir.
+Proje Kontrol ve Değerlendirme: Proje izleme sistemi kurma ve alarm/uyarı mekanizmaları
+tasarlayarak çalışmaların takibini sağlama, alarm durumlarında devreye girecek eylem planları
+yapma ve uygulanmasını sağlama konusunda bilgili ve tecrübelidir.
+Proje Performans İzleme ve Değerlendirme: Planlanmış ve gerçekleşmiş değerleri karşılaştırma,
+sapma toleranslarının dışına çıkıldığında nedenlerini yorumlama ve düzeltici eylemleri uygulamaya
+alma konusunda bilgili ve tecrübelidir.
+Proje Performans Yönetimi: Proje performansının takip edilmesi için başarı ve performans
+göstergelerini tespit etme, görüntüleme ve değerlendirme metodolojileri belirleyerek teknolojik
+altyapısını kurgulama konusunda bilgili ve tecrübelidir.
+Proje Planlama ve Yönetimi: Projelerin zamanında, bütçesi dahilinde ve aksamadan
+gerçekleşmesi için detaylı planlama yapma ve projeleri plan doğrultusunda yürütme konusunda
+bilgili ve tecrübelidir.
+Proje Raporlama: Proje maliyetlerini analiz edip maliyet merkezlerine dağıtarak, gerçekleştirilen
+faaliyetlerin maliyetini tespit etme konusunda bilgili ve tecrübelidir.
+Rapor Hazırlama: Görev alanına giren konularla ilgili çeşitli muhteviyatta raporlar hazırlama
+konusunda bilgili ve tecrübelidir.
+Risk Analizi: Riskleri tanımlama, takip etme, ilgili verileri toplama veya toplanılmasını sağlama ve
+bu verileri istatistiki yöntemlere göre değerlendirme konusunda bilgili ve tecrübelidir.
+Risk Yönetimi: Nitel ve nicel risk analizi araçlarını kullanarak proje risklerinin etkilerini tespit
+etme, ikaz sistemi oluşturma, risklerin oluşması veya oluşma olasılığının artması durumunda
+devreye girecek aksiyon planlarını hazırlayıp uygulanmasını sağlama konusunda bilgili ve
+tecrübelidir.
+Sistem Analizi: İş gereksinimlerini sistem gereksinimlerine dönüştürme konusunda bilgili ve
+tecrübelidir.
+
+
+
+
+                                                25
+Sistem İzleme ve İyileştirme: Sistem performansını izler ve sistemin sorunsuz çalışması için
+gerekli iyileştirme çalışmalarında bulunur.
+Sistem Mimari Bileşenleri Bilgisi: Bilgi teknolojilerine yönelik, güvenlik, performans, yazılım ve
+donanım bileşenleri, veri tabanı ve diğer sistem bileşenleri konularında mimari yapıyı oluşturmak
+için gerekli çalışmaları ve koordinasyonu yürütecek bütünsel bakış açısına ve bilgi birikimine
+sahiptir.
+Sistem Performans Unsurları Bilgisi: Bilgi teknolojilerine yönelik sistemlerin performans, yük
+dengelemesi, sistem ve veri tabanı güvenliği, test yöntemleri konusunda bilgili ve tecrübelidir.
+Sistem Tasarımı: Tanımlanmış sistem gereksinimlerine göre detaylı mimari sistem tasarımının
+oluşturulması konusunda bilgili ve tecrübelidir.
+Sistem Teknik Destek: Kişisel bilgisayarları etki alanı içerisine alma, kullanıcı e-posta ayarlarını
+yapma, sunuculara yeni yazıcı tanıtımını gerçekleştirme konularında bilgi ve deneyim sahibidir.
+Internet bağlantı sorunlarını zamanında tespit etme ve giderilmesini sağlama konusunda bilgili ve
+tecrübelidir.
+Sistem Testleri Yönetimi: Performans, güvenlik ve stres testleri ile uygulama yöntemleri
+konusunda bilgi ve deneyim sahibidir.
+Sistem Yazılımları Yönetimi: İşletim sistemlerini ve tezgah üstü sistem yazılımlarını (lisanslama,
+sistem performansı, dizin yönetimi, kullanıcı yönetimi gibi yönleriyle) etkin bir şekilde yönetir.
+Stratejik Proje Değerlendirme: Projelerin çıktılarının Kurumun stratejilerine uygunluğunu,
+önceden belirlenmiş kriterlere göre değerlendirme konusunda bilgi ve tecrübe sahibidir.
+Strese Dayanıklılık: Bireysel problemlerden veya işten kaynaklanan stresini işine, çalışma
+arkadaşlarına yansıtmaz ve stresle başa çıkmasını bilir.
+Süreç Analizi: Kullanıcı ihtiyaçlarını karşılayacak iş ve süreç akışları belirler ve süreçlerin
+etkinliğini artıracak gelişmeleri önerir.
+Taşra Süreç Analizi: Kurumun değişen süreçlerinin ve yenilenen bilgi işlem olanaklarının, taşrada
+sunulan hizmet paketlerinin içeriğine yansıtılması için gerekli güncellemeleri yapar, sonuçları
+hizmet listelerine yansıtır.
+Teknik Şartname Hazırlama Bilgisi: Kurumun ve/veya birimin ihtiyaçlarına, menfaatlerine en
+uygun teknik şartname hazırlama konusunda bilgili ve tecrübelidir.
+Veri Analiz Tekniklerini Kullanma: Veri analiz yöntem ve tekniklerine hâkimdir. Bunları anlamlı
+bilgiler oluşturmak üzere etkin bir biçimde kullanır.
+Veri Analizi ve Bilgi Oluşturma: Performans göstergeleri, faaliyet sonuçları, paydaş görüşleri gibi
+farklı kaynaklardan elde edilen verileri istatistiki araçlar, nitel ve nicel yöntemler kullanarak analiz
+edip anlamlı bilgilere ulaşır.
+Veri Toplama: İşini gerçekleştirmek için gereken verileri farklı kaynaklardan toplama konusunda
+bilgi ve tecrübe sahibidir.
+Veri Yönetimi: Verinin toplanması, saklanması, güncellenmesi ve gerekli durumlarda bilgi haline
+getirilerek analiz ve raporlarda kullanılması konusunda bilgi ve tecrübe sahibidir.
+Veritabanı Tasarımı: Uygulama yazılımlarının kullanacağı veritabanlarının mantıksal ve fiziksel
+tasarımları konusunda bilgi ve tecrübe sahibidir.
+Veritabanı Uygulama ve Yönetimi: ORACLE/SQL Server/DB2 gibi ilişkisel veritabanları
+konusunda bilgi ve deneyim sahibidir. SQL ile veritabanı uygulaması geliştirilmesi ile veritabanı
+güvenlik ve performans yönetimi konusunda bilgi ve tecrübe sahibidir.
+Web Uygulamaları Geliştirme: Web üzerinde Java/NET ile uygulama yazılımı geliştirme
+konusunda bilgi ve tecrübe sahibidir.
+
+
+                                                  26
+Yazılım Analizi: Sistem gereksinimlerini yazılım gereksinimlerine dönüştürme konusunda bilgi ve
+tecrübe sahibidir.
+Yazılım Tasarımı: Tanımlanmış yazılım gereksinimlerine göre detaylı mimari yazılım tasarımının
+oluşturulması konusunda bilgi ve tecrübe sahibidir.
+Yazılım Tedarikçi Yönetimi: Uygulama yazılımlarının tamamının ya da bir parçasının dış hizmet
+alımı ile karşılandığı durumlarda, yazılım tedarikçilerinin her aşamada performansını denetler,
+ürettikleri sonuçların gereksinimlerle örtüşmelerini temin edecek şekilde test ve kabul faaliyetlerini
+planlar ve yönetir.
+Yazılım Testi: Yazılım testlerinin dokümantasyonu ve uygulanması konusunda bilgi ve tecrübe
+sahibidir.
+Yeni Sistem Devreye Alma: İş ve kullanıcı ihtiyaçları doğrultusunda kullanılabilecek yeni
+sistemlerin uygunluk çalışmalarını yapar, hızlı ve sorunsuz uygulamaya alınması için gerekli ön
+hazırlıkları gerçekleştirir.
+
+
+
+
+                                                 27
+                                Tablo 3 - Terimler ve Kısaltmalar
+
+Açık kaynak kodlu işletim sistemi: Kaynak kodu isteyen herkese açık olan ve genellikle ücretsiz
+dağıtımı yapılan bilgisayar işletim sistemini,
+Admın: Sistemin geliştirilmesi ve sorunların çözümünden sorumlu tam yetkiye sahip kimseyi,
+Ağ adı çözümleme servisi: Ağ üzerindeki cihazı tanımlayan rakamsal kimlik bilgisini, insanların
+daha kolay hatırlayabileceği isimlere çeviren hizmeti,
+Ağ bağlantısı: Birbirine kablolu veya kablosuz olarak ve bir iletişim protokolü ile bağlanmış
+sunucu, yazıcı, kişisel bilgisayar, modem gibi birçok haberleşme donanımının ve çevre birimlerinin
+dosya paylaşımı, haberleşme, ortak uygulama programları ve veri bankalarını kullanma amacı ile
+oluşturdukları bağlantı sistemini,
+Ağ bağdaştırıcısı: Ağ donanımları üzerinde yer alan dâhili veya harici bağlantı donanımlarını,
+Ağ bilgi edinme ve yapılandırma komutları: Uygulama katmanında, donanımlar hakkında bilgi
+edinme ve ayar yapma imkânı sunan programları,
+Ağ donanımı: Ağ bağlantısına sahip tüm elektronik, elektromekanik ve mekanik aksamı,
+Ağ geçidi: Farklı ağ iletişim kurallarını kullanan iki ağ arasında, veri çerçevelerinin iletimini
+sağlayan ağ donanım veya yazılımını,
+Ağ güvenliği: Ağ ile ilgili tüm yazılım ve donanımların sadece yetkili kişilerce ve izin verilen
+ölçüde kullanılmasının sağlanmasını,
+Ağ güvenlik donanımı: Ağ güvenliğini sağlamak amacıyla özel olarak üretilmiş donanımları,
+Ağ hizmet saldırısı: Ağ üzerinde çalışan donanım veya yazılımları kısmen veya tamamen devre
+dışı bırakmak veya yanlış şekilde çalışmasını sağlamak amacıyla yapılan yazılımsal müdahale
+çabalarını,
+Ağ izleme yazılımı: Ağ üzerinde yazılımsal olarak gerçekleşen işlemleri takip etmek amacıyla
+geliştirilmiş olan yazılımları,
+Ağ mimarisi: Ağ donanımlarının fiziksel yerleşim, bağlantı yöntemleri ve iletişim türlerine göre
+yapılandırılması ile ilgili belirlenmiş genel yöntemleri,
+Ağ omurgası: Uç ağ donanımlarının birbirlerine bağlanmasını sağlayan aktif ağ donanımları, ağ
+kabloları ve bağlayıcı birimlerden meydana gelen fiziksel yapıyı,
+Ağ performansı: Ağ donanım ve yazılımları kendilerinden beklenilen işlemleri karşılayabilmesini
+ve ağ yapısının beklenilen hız ihtiyaçlarına cevap verebilmesini,
+Ağ tanılama yazılımı: Bir donanım veya yazılımın kendisinden beklenen ağ işlevlerini yerine
+getirip getiremediğini kontrol eden yazılımları,
+Ağ tasarımı: Bir ağın fiziksel ve yazılımsal olarak nasıl kurulacağına dair planların hazırlanmasını,
+Ağ topolojisi: Fiziksel ve yazılımsal olarak ağ donanımlarının birbirine nasıl bağlandığını ve nasıl
+iletişim kurduklarını tanımlayan genel planları,
+Ağ yönetim servisi: Ağ donanım ve yazılımlarının ayarlarının yapılması ve merkezi olarak
+yönetilmesi amacıyla çalıştırılan sunucu hizmetlerini,
+Aktif ağ donanımı: Ağ omurgasını oluşturmak ve uç ağ donanımları için fiziksel bağlantı noktaları
+oluşturmak için kullanılan özel donanımları,
+Alt ağ: Yönetimi kolaylaştırmak için bir ağ adresinin bölümlendirilmesi ile oluşturulan birden fazla
+bağımsız ağın her birini,
+Arındırılmış bölge: Çoğunlukla büyük ölçekli ağlarda, dış ağlar ile iletişimde olan ağ
+donanımlarının (özellikle sunucuların) yapılandırıldığı ve iç ağ yapısı ile belirli kurallar ile
+ayrıştırılmış yazılımsal alt ağları,
+Bağlantı kabini: Ağ bağlantı panoları, aktif ağ donanımları ve sunucu bilgisayar sistemlerin
+konumlandırıldığı özel dolapları,
+Bağlantı panosu: Ağ kablolarının, diğer donanımlar ile bağlantı işlemlerini kolaylaştıracak şekilde
+ve merkezi bir noktada sabit olarak bağlandığı özel donanımları,
+Bakım planı: Bakım faaliyetlerinin gerçekleştirilmesi ile ilgili tanımlanmış kural, yöntem ve
+zamanları belirleyen planlamayı,
+
+
+
+                                                 28
+Bakım: İlgili makine, donanım, alet ya da sistemlerin aşınmış, periyodik olarak değişmesi gereken
+veya ömrü biten parçalarının değiştirilmesini, temizlik türü işlemlerin gerçekleştirilmesini ve
+ayarlarının teknik talimatlara ve kullanım kılavuzlarına göre yapılmasını kapsayan çalışmaları,
+Bant genişliği: Ağ iletişim kanalının veri iletim hızı veya kapasitesini,
+Batch: Bilgisayar için toplu işi, yığını,
+Bellek kullanım politikası: Yazılımın üzerinde çalıştığı bilgisayar sisteminin sanal ve gerçek
+belleği etkin kullanma politikasını,
+BT: Bilgi teknolojilerini
+Birim testi: Yazılım içinde belirli işlevleri yerine getirmek üzere hazırlanan fonksiyonlar, metotlar,
+kod modülleri gibi yazılım birimlerinin sadece kendi işlevleri ile ilgili olarak parça parça test
+edilmesini,
+Birleşik modelleme dili (UML) modelleme diyagramı: Bir yazılım sistem modelini işlevsellik
+gereksinimi, statik yapı ve dinamik davranış gibi farklı açılardan ele alan diyagramlar topluluğunu,
+Birleşik modelleme dili (Unıfıed Modelıng Language-UML): Yazılım geliştirme süreçlerinde
+yazılım sistemlerinin nasıl modellenebileceğini belirleyen ve açıklayan yöntemlerin bir araya
+toplanmış hali olan standart diyagram çizme ve ilişkisel modelleme dilini,
+Canlı ortam: Yazılımın tüm testleri tamamlandıktan sonra fiili olarak gerçek kullanıcılar tarafından
+kullanılmak üzere kurulacağı kurumdaki sunucu, ağ, işletim sistemi, yardımcı sistem programları ve
+uç bilgisayarların tümünü kapsayan sistemi,
+Çalışma grubu: Bir yerel ağda birbirine bağlanan bilgisayarların her biri üzerinde kendi kullanıcı
+hesabına sahip olduğu bir kullanıcı grubunu,
+Çevre birimi: Giriş - çıkış birimleri veya iletişim birimleri gibi bilgisayar sistemi ile birlikte
+kullanılan donanımı,
+Çevresel koşul düzenleyici: Bir konumun sıcaklık, soğukluk ve nem gibi özelliklerini
+düzenlemeye yarayan özel donanımları,
+Çoklu ortam: Metin, görüntü, grafik, çizim, ses, video ve animasyonların gösterilmesi, saklanması,
+iletilmesi ve sayısal olarak işlenmesini,
+Çoklu ortam aktarım sistemi: Çoklu ortam verilerinin aktarılması için özel
+olarak üretilmiş donanım ve yazılımları,
+Değişiklik işlemleri: Yazılım ve ilgili veritabanı üzerinde; yeni işlevsellik ekleme ya da aksayan
+işlevselliğin düzeltilmesi amaçları ile yapılan yeniden düzenleme ve yazılım geliştirme
+çalışmalarını,
+Değişiklik yönetimi: Değişiklik işlemlerinin gerçekleştirilmesi ve son kullanıcıya yansıtılması için;
+değişiklik talebinden başlayarak, talebin onaylanması, yapılabilirliğin belirlenmesi, işin
+planlanması, gerçekleştirilmesi, ilgili dokümantasyonun güncellenmesi, yazılımın test edilmesi ve
+canlı ortama yansıtılması adımlarının tümünü içeren sürecin belirlenmiş sorumlu ve yetkililer
+tarafından birlikte yönetimini,
+Detay seviyesi: Yazılım sistemlerinde alt birimleri eksiksiz ve doğru olarak belirleyen
+tanımlamaların, önermelerin ve fikirlerin soyutlama hiyerarşisini,
+Devre şeması: Elektrik veya elektronik donanımların birbirleri ile olan bağlantılarını gösteren
+çizimi,
+Dinamik IP Adresi: Bir ağ donanımına, başka bir yazılım hizmeti tarafından belirli bir süre veya
+koşullar ile atanmış IP adresini,
+Dinamik yönlendirme: Yönlendirme işlemlerinin ağ kullanım yoğunluğu veya herhangi başka bir
+aksaklığa karşın alternatif iletim yolları hesaplanarak yapılmasının sağlanmasını,
+Dizin hizmeti: Bir ağdaki fiziksel ve mantıksal nesnelerle ilgili bilgileri tutan, organize eden,
+merkezi yönetimini yapan ve kullanıcıların bunlara erişimlerini yöneten yazılım hizmetini,
+
+
+                                                 29
+Domaın controller (etki alanı yöneticisi): Etki alanı grubunu yöneten sunucuyu,
+Domain (etki alanı):Bir çalışma grubu için fazla büyük hale gelmiş bir ağda merkezi yönetim
+olanağı sağlayan çalışma grubunu,
+Dosya paylaşım servisi: Bir bilgisayar veya özel veri depolama sisteminde yer alan dizin ve
+dosyalara diğer yazılım ve donanımların erişimini sağlayan yazılım hizmetini,
+Dokümante etmek: Kalite standartlarına ulaşmak amacıyla toplanan verilerin kayıtlarının
+tutulmasını,
+Donanım: Ağ, bilgisayar veya çevre birimlerinin elektronik, elektromekanik ve mekanik aksamını,
+Düzeltme dokümanı: Yazılımın test süreçlerinde tespit edilen hataların listesini,
+Elektromekanik: Elektrikli unsurlar ile çalışması sağlanan ve kumanda edilen mekanik sistemleri,
+Erişim alanı ölçümü: Kablosuz ağlarda erişim noktalarının ve alıcıların anten güçleri ile yapısal
+koşulların etkisi ile bunların ulaşabileceği alanların tespit edilmesi amacıyla özel cihazlarla yapılan
+ölçüm işlemlerini,
+Erişim denetim listesi: Bir ağ kaynağındaki nesnelere ulaşabilecek kişilerin erişim yetkilerinin
+tanımlandığı yapılandırma verilerini,
+Event: Sistem üzerinde oluşan olayları,
+Felaket senaryosu/planı: Bir bilişim sisteminde, olası sistem çökmesi, verilerin karışması veya
+kaybolması, güvenlik tehdidi vb. en kötü durumlarda yapılması gereken olaylar/planlar bütününü,
+Fiber optik kablo iletişim verimliliği: Fiber optik bir hattın iki ucu arasındaki ışık iletim
+performansını,
+Fiber optik kablo optik kırılma açı sınırı: Fiber optik kablonun verimliliği için ışık iletimini
+aksatmayacak kablo bükülebilme limitlerini,
+Fonksiyonellik/işlevsellik: Ürünün kendisinden beklenen tüm işlevleri en verimli şekilde yerine
+getirebilmesini,
+Geliştirme ortamı: Bir yazılım projesinde programlama dili, veritabanı, modelleme ve tasarım
+araçları ve benzeri tüm yazılım geliştirme faaliyetleri için kullanılan araçları,
+Geniş alan ağı: Bilginin uzak mesafelere gönderilebilmesi için iletişim kuralı dönüşümü yapılarak
+oluşturulan fiziksel veya mantıksal büyük ağları,
+Gerçek ağ: Kablolu ve kablosuz ağ donanımlarının birbirlerine bağlanması ile oluşan ağları,
+Görsel öğe: Yazılımın kullanıcı tarafından kullanımı sırasında ekranda karşısına çıkan sabit yazı,
+resim, video, görsel gibi bileşenleri,
+Güncelleme işlemleri: Daha önce geliştirilmiş yazılımın yeni isterlere, teknik koşullara, iş
+analizine veya benzeri değişikliklere uygun yeniden düzenleme işlemlerini,
+Güvenlik açığı: Ağ yazılım ve donanımlarının, ağ saldırıları ile kısmen veya tamamen işlevlerini
+kaybetmesine neden olabilecek yazılımsal veya donanımsal hata ve eksiklikleri,
+Güvenlik bileşeni: Yazılımda güvenlik duvarı, anti virüs yazılımı, casus yazılımları önleme
+yazılımı, uygulama ve tarayıcı savunması, izinsiz girişi önleme, kimlik avını önleme, kök araç seti
+koruması vb. farklı güvenlik sorunlarına karşı alınması gereken yazılımsal önlemleri,
+Güvenlik duvarı: Birçok filtreleme özelliği ile bir ağa gelen ve ağdan giden veri paketlerini, belirli
+kurallar dâhilinde denetleyen yazılım veya donanım hizmetlerini,
+Güvenlik ihlali: Ağ donanım ve yazılımlarını kısmen veya tamamen devre dışı bırakma ihtimali
+olan ve daha önceden tanımlanmış olan davranış veya sistem kullanımlarını,
+Güvenlik katmanı: Yazılımda güvenlik bileşenlerinin oluşturulduğu katmanı,
+Güvenlik politikası: Bir ağdaki tüm donanım ve yazılımların kullanımı ile ilgili geçerli olacak
+kurallar bütününü,
+
+
+
+                                                  30
+Güvenlik test senaryosu: Yazılımda istenen tüm güvenlik önlemlerinin doğru çalışıp çalışmadığını
+anlamak amacı ile olası tüm açıkların denenmesini sağlayacak adımları açıklayan dokümanı,
+Güvenlik testi: Yazılımın, gerek iç gerekse dış kaynaklı yetkisiz erişimlere, kötü amaçlı
+kullanımlara karşı korunması ya da güvenliğinin incelenmesi için yapılan testleri,
+Güvenlik yaklaşımı: Yazılım güvenlik yapısının kavramsal ve kurumsal olarak yapılandırılmasına
+yönelik önerileri,
+Güvenlik yazılımı: Bilgisayar veya diğer ağ donanımlarının güvenliğini sağlamak amacıyla
+geliştirilmiş koruma ve anlık denetleme yazılımlarını,
+Harici bileşen: Uygulama yazılımı içinde ilgili proje ekibi içindeki yazılımcılar tarafından
+geliştirilmeyip dışarıdan temin edilen kod veya nesneleri,
+Hız performans testi: Yazılımın tüm kullanıcı isterlerini gerçeklerken işlem süresi, işlevsellik ve
+güvenlik açısından hedeflenen süre biriminde gerçekleyebilmesinin test edilmesini,
+Informatıon: Bilgilendirici mesajı,
+IP adresi dağıtım servisi: IP adreslerinin merkezi olarak uç aygıtlara dağıtılmasını ve
+yönetilmesini sağlayan yazılım hizmetini,
+IP adresi: IP protokolünü kullanan ağ donanım ve yazılımlarının diğer donanım ve yazılımlarla
+veri alışverişi yapması amacıyla kullanılan iletişim adresini,
+IP adres sürümü: IP adresinin yapısal özellikleri, kullanım alanları ve yöntemlerini belirleyen
+sınıflandırmalarını,
+İletişim protokolü: Ağ donanımları arasındaki iletişimi sağlamak amacıyla verileri düzenlemeye
+yarayan, standart olarak kabul edilmiş kurallar dizisini,
+İş akışı: Bir iş ya da iş grubu ile ilgili olmak kaydı ile, başlangıç noktasından bitiş noktasına kadar;
+doküman, bilgi ya da görevlerin belirlenen kurallar dahilinde birbirleri ile ilişkisini ve kontrol
+noktalarını içeren bileşenlerin tümünü,
+İş analizi: İşlerin doğru, etkin ve sağlıklı bir biçimde değerlendirilmesi amacıyla, kurum veya
+kuruluşta yer alan her işin parçalara ayrılarak nitelikleri, nicelikleri, gerekleri, sorumlulukları ve
+çalışma koşullarının bilimsel yöntemlerle incelenmesi ve bu amaçla bilgi toplamasını,
+İş kuralı: İş süreçlerinde bir işin doğru olarak tamamlanabilmesi için uyulması gereken
+tanımlamaları ve kısıtlamaları,
+İş sahipleri ve süreç sorumluları: Proje sürecinde ya da sonucunda doğrudan veya dolaylı olarak
+etkilenen ve proje sürecine etki edebilen kişiler, gruplar, kurum ve kuruluşları,
+İşletim sistemi: Bilgisayar veya diğer ağ donanımlarının, donanımının doğrudan denetimi ve
+yönetiminden, temel sistem işlemlerinden, dosya yönetiminden ve uygulama programlarını
+çalıştırmaktan sorumlu olan sistem yazılımını,
+İş süreci: Bir işletmenin, iç ya da dış müşterileri için değer yaratacak ve onlar tarafından yararlı
+kabul edilecek belirli bir sonuç elde etmek amacı ile birbirine bağlı bir dizi görev ya da
+faaliyetlerini,
+İşlevsellik test senaryosu: Bir uygulama yazılımının geliştirilme amacına yönelik tüm işlevleri tam
+ve doğru olarak yerine getirip getirmediğini belirlemek üzere yapılacak olan işlem kontrollerini
+adımlar halinde açıklayan dokümanı,
+İşlevsellik testi: Bir uygulamanın işlevsellik gereksinmeleri üzerine odaklandırılan yazılım
+isterlerine tam ve doğru olarak yanıt verip veremediğini anlamak için yapılan kontrolleri,
+İyileştirme işlemleri: Yazılımın geliştirilme amacına yönelik bir ya da birden fazla işlevi daha
+etkin, daha verimli, daha kapsamlı ve / veya daha kolay anlaşılır biçimde yapması için yazılım
+üzerinde yapılan ek geliştirme ve yeniden düzenleme çalışmalarını,
+Kablolu ağ: Ağ kabloları kullanılarak oluşturulmuş ağları,
+
+
+
+
+                                                  31
+Kablosuz ağ güvenliği: Kablosuz iletişim tekniklerine has olarak alınması gereken güvenlik
+önlemlerini,
+Kablosuz ağ: Ağ kablosu olmadan, kablosuz iletişim teknikleri ile oluşturulmuş ağları,
+Kablosuz erişim noktası: Kablosuz uç ağ donanımlarının birbirlerine ve diğer ağlara bağlanmasını
+sağlayan aktif ağ donanımlarını,
+Kablosuz yetkilendirme ve şifreleme yöntemleri: Kablosuz iletişimde uç aygıtların bağlantı
+sağlamasında kullanılan standartlaştırılmış erişim kuralları ve bunlarda kullanılan şifreleme
+yapılarını,
+Kalibrasyon: Belirlenmiş koşullar altında, doğruluğu bilinen bir ölçüm standardını veya sistemini
+kullanarak diğer ölçüm ve test aletinin doğruluğunun ölçülmesi, sapmaların belirlenmesi ve
+doküman haline getirilmesi için kullanılan ölçümler dizisini,
+Katman: Farklı işlevsellikler için yazılımın ardışık ve hiyerarşik biçimde kurgulanmış ve birbirleri
+arasında tanımlanmış ara yüzler ile iletişim sağlanabilen bileşen gruplarını,
+Kimlik denetimi: Bir ağ üzerinde yer alan her türlü kaynağın kullanımı için, kaynak kullanımını
+talep eden yazılım veya donanımın denetlenmesini sağlayan yazılım hizmetlerini,
+Kişisel koruyucu donanım: Yürütülen işten kaynaklanan, sağlık ve güvenliği etkileyen bir veya
+birden fazla riske karşı koruyan, çalışan tarafından giyilen, takılan veya tutulan tüm alet, araç, gereç
+ve cihazları,
+Kod: Yazılımda herhangi bir programlama dili kullanılarak oluşturulmuş insanlar tarafından
+okunabilir bilgisayar talimatlarını,
+Kod birimleri: Fonksiyon ve metotlara ilişkin kod parçalarını,
+Kod blokları: Yazılımın farklı işlev, metot veya fonksiyonlar için oluşturulmuş bölümlerini,
+Kod parçası: Belirli bir işlevselliği gerçekleştirmesi amacı ile oluşturulmuş birkaç bilgisayar
+talimatını,
+Konsol bağlantısı: Ağ donanımlarında gerçekleştirilecek işlemler için bir çıkış ekranı ve veri giriş
+donanımları ile bağlantı sağlanması işlemini,
+Kullanıcı ara yüzü: İnsanların bir bilgisayar programı ile etkileşimini sağlayan unsur ve
+yöntemlerin bileşkesini,
+Kullanıcı isteri: Kullanıcı tarafından bir problemi çözme ya da bir hedefi gerçekleştirmek için
+ihtiyaç duyulan durum ya da işlevler dizisini,
+Kullanıcı kabul testi: Yazılım uygulamasının canlı sisteme geçirilmeden önce uygulamayı
+kullanacak kişilerin yaptığı ve başlangıç isterlerinin eksiksiz olarak karşılandığının onayının
+verildiği testi,
+Kurulum betikleri: Kurulum aşamasında, kurulum yapacak yetkilinin çalışmalarını standardize
+ederek kurulumun kolay, hızlı ve hatasız bir biçimde yapılmasına yönelik olarak tasarlanan kolay
+anlaşılabilir program parçacıklarını,
+Kütüphane bileşeni: Bir yazılım geliştirme ortamında yazılım geliştiricilerin etkinliklerini ve
+verimliliklerini arttırmak amacı ile yaygın ve sıkça yaptıkları benzer geliştirme çalışmalarını
+gruplayarak oluşturulan hazır kullanıma ve / veya otomatik kod oluşturmaya yönelik yazılım
+bileşenlerini,
+Ofis ergonomisi: Ofis ekipmanları ve genel ofis çalışma ortamının çalışanların fiziksel ve zihinsel
+olarak rahat çalışmasına ve verimliliklerinin arttırılmasına yönelik olarak düzenlenmesini,
+Onarım: İlgili makine, donanım, alet ya da sitemlerde meydana gelen arızaların tespit edilmesini
+ve giderilmesini ifade eden işlemler bütününü,
+Osiloskop: Girişlerine uygulanan elektrik sinyallerinin dalga şekillerinin, karakteristiklerini,
+genliklerini, frekanslarını ve faz ilişkilerini ekranında ışıklı çizgiler şekilde gözle görülebilir hale
+getiren ölçü aletini,
+
+
+                                                  32
+Özel ağ: Farklı ağlar arasında kurulan güvenli veri iletişim kanallarını,
+Port güvenliği: Ağ donanımlarının veri iletişiminde kullandığı iletişim kanallarının güvenlik
+yapılandırmasını,
+Risk: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme
+ihtimalini,
+Risk değerlendirmesi: İş yerinde var olan ya da dışarıdan gelebilecek tehlikelerin belirlenmesi, bu
+tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden kaynaklanan risklerin analiz
+edilerek derecelendirilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gereken
+çalışmaları,
+Saldırı tespit ve önleme sistemi: Ağ donanım ve yazılımlarına yönelik gerçekleştirilebilecek
+saldırıları tanımlamaya ve önlemeye yönelik olarak geliştirilmiş özel donanım ve yazılım
+hizmetlerini,
+Sanal ağ: Bir yerel ağ üzerindeki kaynakların yazılımsal olarak gruplandırılması işlemini,
+Sanal işletim sistemi taşıyıcı platform: Sadece sanal işletim sistemlerinin kurulum ve çalışmasını
+sağlamak amacıyla hazırlanmış özel sunucu yazılımlarını,
+Sanallaştırma: Donanım ile işletim sistemi arasına kurulan bir platform ile birlikte fiziksel olarak
+bir bilgisayar üzerinde birden fazla bilgisayar kullanabilme teknolojisini,
+Servis seviyesi anlaşması: Bir servis sağlayıcı ile yapılan, geniş alan veya internet erişiminin bant
+genişliğinin ve diğer özelliklerinin tanımlandığı sözleşmeyi,
+Sahiplenme ve kullanım hakkı: Proje kapsamında kullanılacak herhangi bir yazılım parçası
+ve/veya nesnenin hukuki olarak mülkiyet ve bunu isteğince kullanma, bulundurma, çoğaltma,
+yayma veya koruyabilme haklarının tümünü,
+Saklı yordam: bir tabloya bağlı olmaksızın veritabanı içinde tanımlanan belirli bir işi yapmaya
+yönelik kodları,
+Sinyal testi: Ağ kablolarının veri iletiminde sorun yaşayıp yaşamadığını anlamak üzere hattın bir
+ucundan diğer ucuna özel bir cihaz ile sinyal gönderilmesi ve alınması şekilde sınama yapılması
+işlemini,
+Sistem analizi: Bir bilişim sisteminin hangi verileri, hangi kullanıcılar için ve nasıl işlemesi
+gerektiğini irdeleme; sistemin girdilerini, çalışma mantığını, çıktılarını ve bileşenlerini betimleme
+amacıyla yapılan araştırma çalışmalarını,
+Statik yönlendirme: Yönlendirme işlemlerinin ağ ile ilgili anlık durumlardan bağımsız olarak
+tanımlanmış sabit kurallar ile yapılmasını,
+Sunucu işletim sistemi: Ağ üzerinde yazılımsal olarak hizmet vermek ve ağı yönetmek için özel
+olarak tasarlanmış işletim sistemi yazılımlarını,
+Sunucu servisi: Bir sunucu işletim sistemi üzerinde, özel amaçları yerine getirmek üzere sürekli
+olarak çalışır durumda tutulan yazılım hizmetlerini,
+Sürece dayalı kullanım kılavuzu: Yazılımı kullanacak kişilere, yazılımın işlevsel özelliklerini,
+ilgili işin süreçleri bazında basamak basamak anlatan dokümanı,
+Tasarım süreci: Bir tasarımda problemin tanımı, bilgi toplama, yaratıcılık ve buluş, çözüm bulma
+ve uygulama süreçlerinin tamamını,
+Tehlike: işyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini etkileyebilecek, zarar
+veya hasar verme potansiyelini,
+Teknik sınırlama: Bir donanım veya yazılımın teknik açıdan kullanım limitlerini,
+Teknik yazılım tasarım dokümanı: Yazılımın teknik özelliklerini anlatan tasarım kitapçığını,
+Telif hakkı: Bir fikir veya sanat eserini yaratan kişi, kurum ve kuruluşun bu eserden doğan hukuki
+haklarının tamamını,
+
+
+
+                                                 33
+Termal konfor: Çalışma ortamında çalışanların büyük çoğunluğunun ısı, nem, hava akım hızı ve
+termal radyasyon gibi iklim şartları açısından, bedensel ve zihinsel faaliyetlerini sürdürürken belli
+bir rahatlık içinde bulunmasını,
+Termal radyasyon: İletimi için maddesel bir ortama gerek olmayan ısı türünü,
+Test senaryosu: Belirlenen bir amaca göre farklı kişiler tarafından farklı zamanlarda
+gerçekleştirilen, çeşitli girdiler ve çıktıların gözlenerek işlevsellik, güvenlik, bütünlük ve diğer
+özellikler açısından yazılım fonksiyonlarının denenmesini,
+Tetikleyici betik: İlişkisel veri tabanı yönetim sistemlerinde bir tabloda belirli olaylar meydana
+geldiği zaman yani ekleme, güncelleme, silme işlemlerinden biri gerçekleşmeden önce veya sonra
+çalışan ve belirli işlemleri kodlandığı şekilde yerine getiren yordamı,
+Topraklama: Gerilim altında olmayan bütün tesisat kısımlarının, uygun iletkenlerle toprak kitlesi
+içerisine yerleştirilmiş bir iletken cisme (elektrot) bağlanmasını,
+Uç ağ donanımı: Ağ kabloları ve aktif ağ donanımlarından oluşan omurgasına bağlanan bilgisayar,
+sunucu, yazıcı ve tüm diğer ağ donanımlarını,
+Uç aygıt ağ ayarları: Uç ağ donanımlarının IP adresi, ağ geçidi, ad çözümleme sunucusu adresi,
+vekil sunucu adresi gibi, ağ iletişimi için ihtiyaç duyabileceği tüm ayarları,
+UTP (Unshielded Twisted Pair): Kaplamasız dolanmış çift; bilgisayar ağlarında en yaygın
+kullanılan 2'şer bükümlü toplam 8 ya da 12 kablodan oluşan ağ kablosunu,
+Uzaktan erişim: Bir ağ donanımına ağ üzerinden yazılımsal olarak erişilmesini,
+Uzaktan yönetim: Bir ağ donanımını ağ üzerinden yazılımsal veya donanımsal olarak yönetme
+işlemini,
+Varsayılan rota: Yönlendirme işleminde, herhangi bir kurala bağlanmayan tüm iletişim
+paketlerinin teslim edileceği yönlendirme yapılandırmasını,
+Vekil sunucu: Bir ağ ile başka bir ağ arasında çalışarak gelen ve giden bilgileri denetleyen ve
+filtreleyen ara sunucuları,
+Veri aktarımı: Farklı veri tabanlarındaki veri alanlarının eşleştirilerek birindeki tablodan aynı ya
+da farklı yapılarda diğerindeki tablo ya da tablolara nakledilmesini,
+Veri düzenleme işlemi: Veritabanındaki verilerin bütünlük, doğruluk ve/veya geçerlilik açısından
+amaçlanan kullanım için elverişli biçimde ele alınarak düzeltilmesi, yenilenmesi ve uygun saklama
+ortamında yapılanmasını,
+Veri katmanı: Yazılımın ihtiyaç duyduğu ve/veya yazılım kullanılarak oluşturulan verilerin
+tutulduğu veritabanı ya da benzeri ortamları,
+Veri kontrolü: Veritabanlarında, verilerin bulunduğu daimi depolanma alanlarına, geçici olarak
+bulundukları swap (değiş tokuş veya takas) alanına, hafızaya vb. tüm noktalara erişim durumlarının
+gözden geçirilmesini,
+Veri kurtarma: Donanımsal veya yazılımsal bir sorun veya kullanıcı hatası nedeniyle depolama
+birimlerinde bulunan ve ulaşılamayan verilerin özel yazılımlar veya donanımlar aracılığı ile
+kullanılabilecek hale getirilmesini,
+Veri sözlüğü: Veritabanı tasarımının ilk adımı olarak, tasarlanan sistemde kullanılacak/ihtiyaç
+duyulacak tüm verilerin adları, kodları ve özelliklerini açıklamaları ile içeren ayrıntılı listeyi,
+Veri yedekleme: Donanım yapılandırma değerlerinin veya diğer veri yedeklerinin, herhangi bir
+sorun durumunda tekrar yüklenebilmesi için başka bir konuma kopyalanması işlemlerini,
+Veritabanı: Bir uygulama yazılımının ihtiyaç duyduğu ve/veya yazılım kullanılarak oluşturulan
+verilerin tümünün işlenmesi, saklanması ve raporlanmak amacı ile erişilmesi için tasarlanan
+birbirleri ile ilişkili tablo, indeks, kural ve betikler topluluğunu,
+
+
+
+
+                                                 34
+Veritabanı aracı: Tasarlanan veritabanı yapısının uygulanarak yazılımın ihtiyaç duyduğu /
+oluşturulan verilerin tutulması üzerine hazırlanan yapının bulundurulduğu yazılım ortamı ve bu
+ortama erişerek gerekli tasarımın yapılması, yapının değiştirilmesi, verilere erişilerek
+raporlanmasına olanak sağlayan yazılım servisleri bileşenlerinin tümünü,
+Veritabanı bağlantısı: Yazılım platformunun veritabanına erişim yöntem ve araçlarını,
+Veritabanı geri dönüşü: Daha önceden yedeği alınmış verilerin veritabanına geri yüklenmesini,
+Veritabanı görünümü: Veritabanında oluşturulan bir ya da birden fazla tablodan sorgulama dili
+kullanarak çekilen verilerden oluşturulan sanal tabloyu,
+Veritabanı indeksi: Veritabanında veri kayıtlarına sıralı ve daha hızlı biçimlerde erişilmesine
+olanak sağlayan ve fiziksel yerleşimini gösteren anahtarları içeren alanı,
+Veritabanı modelleme diyagramı: Veritabanının veri tipleri, tablolar, veri ve tablolar arası
+ilişkiler, tablo işlemleri, saklı yordamlar ve kısıtlamalardan oluşan yapısını tanımlayan şematik
+gösterimi,
+Veritabanı ortamı: Verilerin bir araya getirildiği, işlendiği, saklandığı, yenilendiği veya
+düzeltildiği yazılımı,
+Veritabanı önleyici bakımı: Veritabanında yanlışları önlemek, sistemin performansını ve
+güvenilirliğini belirli bir seviyede tutmak için yapılan düzenli bakımı,
+Veritabanı logları: Veritabanına yapılan tüm giriş/çıkış erişim işlemleri kayıtlarının tutulduğu
+dosyaları,
+Veritabanı performans logları: Veritabanının çalıştığı sunucunun disk, hafıza ve işlemci bazında
+kullanım performans istatistik sonuçlarının takip edildiği düz yazı dosyasını,
+Veritabanı portu: Veritabanının bulunduğu sunucunun giriş/çıkış donanımsal arayüzünü,
+Veritabanı saklı yordamı: İlişkisel veritabanı yönetim uygulamalarında saklanabilen, değiştirge
+alabilen, kendisine verilen parametreler ve kodlanışı doğrultusunda belli işleri gerçekleştiren ve
+eğer varsa çıktı parametrelerini döndüren işlevleri,
+Veritabanı şeması: Veritabanında kayıt yığınlarının ya da bilgi parçacıklarının tanımlandığı görsel
+diyagramı,
+Veritabanı tablosu: İlişkisel veritabanı sistemlerinde aynı özelliklere sahip veri kümelerinin
+saklandığı yapıları,
+Veritabanı tasarım dokümanı: Tasarlanan veritabanı ile ilgili olarak hazırlanan tüm şemaları,
+modelleme diyagramlarını, ayrıntılı tablo yapılarını, saklı yordam listelerini açıklamaları ile içeren
+teknik dokümanı,
+Veritabanı tetikleyici betik: Veritabanının kendi programlama dilinde yazılmış ve veritabanındaki
+tabloları kayıt ekleme, değiştirme, iptal işlemlerinden önce ya da sonra veritabanı ortamı tarafından
+otomatik olarak başlatılan kod parçalarını,
+Veritabanı unsuru: Veritabanında aynı niteliklerden oluşan tablolar, görünümler, indeksler, saklı
+prosedürler, tetikleyiciler vb. varlıklar/nesnelerden herhangi birini,
+Veritabanı yetki seviyesi: Veritabanında kullanıcılara erişim, ekleme, değiştirme ve silme gibi
+işlemler için verilen izinleri,
+Yardımcı yazılım isterleri: Yazılımın çalışması için gereken veritabanı, işletim sistemi vb. diğer
+gereksinimleri,
+Yazılım: Bilgisayar sistemini oluşturan harici ve dâhili donanım birimlerinin yönetimini ve
+kullanıcıların işlerini yapmak için gerekli olan programları,
+Yazılımsal ağ güvenliği: Ağ üzerinde çalışan veya ağ trafiğini etkileyebilecek yazılımların,
+güvenlik açığı oluşturmayacak şekilde yapılandırılması ve ek güvenlik yazılımlarının kurulması
+işlemlerini,
+Yazılım derlenmesi: Üst seviye programlama dillerinden birinde oluşturulmuş yazılım kaynak
+kodlarının donanımın anlayabileceği makine kodlarına dönüştürülmesini,
+
+
+
+                                                 35
+Yazılım geliştirme ortamı: Yazılım geliştiricilerin hızlı ve rahat bir şekilde yazılım
+geliştirebilmesini amaçlayan, geliştirme sürecini organize edebilen birçok araç ile birlikte geliştirme
+sürecinin verimli kullanılmasına katkıda bulunan araçların tamamını içerisinde barındıran
+platformu,
+Yazılım hatası: Yazılımda beklenmeyen, doğru olmayan bir sonuç yaratan veya bir sistemin
+planlanmamış sonuçları doğuran programlama hata, kusur ve yanlışlıkları, karışıklık veya
+yetmezliklerini,
+Yazılım işlevsellik özellikleri: Yazılımın çeşidine, beklenen kullanıcıya ve yazılımın kullanılacağı
+sistem çeşidine göre kullanıcı isterleri paralelinde girdi ve çıktı beklentilerine ait özelliklerini,
+Yazılım katmanları etkileşim şeması: Yazılımı oluşturan katmanların girdi ve çıktılarının
+organizasyonunu ve beraber yürüttüğü işlevlerin diyagramını,
+Yazılım katmanları: Yazılımın, mimari işlevsellik bazında (kullanıcı ara yüzü, iş kuralları, sistem
+servisleri, hata yönetimi, güvenlik, veri işleme gibi) benzer özelliklerde hazırlanmış parçalarının
+gruplanması sonucunda ortaya çıkan her gruba verilen adı,
+Yazılım kullanım alt yapısı ve prensipleri dokümanı: Yazılımın kullanımı için gerekli
+donanımsal ve/veya yazılımsal ihtiyaçların tanımlandığı ve uygulamanın kullanımına ait temel
+prensiplerin nitelendiği dokümanı,
+Yazılım kütüphanesi: Bir yazılım geliştirme ortamında farklı işlevler için tanımlanmış program
+dağarcığı içindeki yazılım parçalarının tümünü,
+Yazılım menüsü: Kullanıcının yazılıma ait temel işlevlerini başlatabileceği komut veya seçenek
+listesini,
+Yazılım mimarisi: Bir yazılım sistemini oluşturan yazılım bileşenleri ve görünür dış özellikler ile
+bunlar arasındaki ilişkileri,
+Yazılım modülü: Yazılımda kendi başına herhangi bir işlevi yerine getiren program parçacığı
+gruplarını,
+Yazılım proje planı: Kullanıcının yazılım geliştirme sürecinin tüm aşamalarını ve belirlenen
+isterler için yazılım geliştiricisinin taahhütlerini inceleyebilmesini sağlayan belgeyi,
+Yazılım süreci: Yazılımın tüm geliştirme fazları (öntasarım, ayrıntılı tasarım, gerçekleştirme,
+tümleştirme, test etme, iç/dış gözden geçirmeler, teftişler, düzeltme eylemi süreci, problem/değişim
+raporları, yazılım ürün değerlendirme, vb.) boyunca yazılım geliştirilip kontrol edilmesi için
+kullanılacak teknikler, metodolojiler ve araçları,
+Yazılım tasarımı: İş analizinde ortaya çıkan sorunları yazılım özellikleri kararlaştırıldıktan sonra
+yazılım geliştiriciler tarafından geliştirilen teknik dokümanı
+Yerleşim planı: Ağ donanımlarının topoloji ve mimariye uygun biçimde, çalışacakları konumun, o
+konumun fiziksel özellikleri ve diğer unsurların yerleşimlerine göre belirlendiği planları,
+Yönlendirme: Bir ağa gelen ve bir ağdan giden paketlerin sabit veya dinamik kurallar ile hangi ağ
+ara yüzleri arasında hareket edeceğini belirleme işlemlerini,
+Yönetilebilir ağ anahtarı: Ağ donanımlarının birbirlerine bağlanmasına olanak veren ve veri
+iletişimini yazılımsal olarak kurallara bağlanabilen aktif ağ donanım bağlantı noktalarını,
+Yönlendirici ara yüz: Aktif ağ donanımlarının yönlendirme yapılandırılması gerçekleştirilen
+bağlantı noktalarını,
+Yönlendirme protokolü: Yönlendirme işleminde veri paketlerinin gideceği noktaların dinamik
+olarak tespit edilmesini sağlayan kurallar bütününü,
+ifade eder.
+
+
+
+
+                                                  36
+                           Tablo 4 - İş/Görev Tanımı Formu
+
+Birimi:                                        Unvanı:
+                                               Bağlı Olduğu
+                                               Unvan:
+Alt Birimi:
+                                               Adı Soyadı:
+
+İş/Görev tanımı ve sorumlulukları:
+
+
+
+
+Yetkinlik:
+Temel                        Teknik                           Yönetsel
+
+
+
+
+Hassas Görevleri:
+
+
+
+
+İş çıktısı:
+
+
+
+
+     ÇALIŞAN                         ONAYLAYAN                    TARİH
+
+
+
+
+                                          37
+                                           Tablo 5 - İş/Görev Devir Belgesi
+
+İş/Görev Adı
+
+
+İş/Görevi Devretme Nedeni                                                 İzin
+                                                                          Emeklilik
+                                                                          İş/Birim Değişikliği
+                                                                          İşten Ayrılma
+                                                                          Diğer
+
+İş/Görevi Devir ve Bitiş Tarihi
+
+İş/Görevin Niteliği                                                       İdari
+                                                                          Mali
+
+İş/Görevin Yetki Sınırı                                                   İmza Yetkisi (Kurum İmza Yetkileri
+                                                                          Yönergesi)
+                                                                          Bilişim Sistemlerine Giriş ve Raporlama
+                                                                          Yetkisi
+                                                                          Şifre Verme Yetkisi
+                                                                          Diğer
+
+Devredilen İş/Görevle İlgili Hazırlanan                        Tarihi               : …../……/……
+Belgenin/Tutanağın                                             Konusu               :
+
+                                                               Evrak Adedi          :
+
+
+İş/Görev Devrine İlişkin Diğer Hususlar
+
+
+
+
+                      İş/Görevi Devreden                                          İş/Görevi Devralan
+TC Kimlik No :                                                 TC Kimlik No :
+Adı Soyadı   :                                                 Adı Soyadı   :
+Unvanı       :                                                 Unvanı       :
+İmzası      :                                                  İmzası       :
+
+
+
+                                           ONAYLAYAN (Birim Yetkilisi)
+                                                 ……/....../......
+                                                 Adı Soyadı
+                                                  Unvanı
+
+
+
+
+                                                         38
+

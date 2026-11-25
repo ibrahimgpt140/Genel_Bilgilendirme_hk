@@ -1,0 +1,297 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/190754
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Tebliğler
+SAYI: Resmi Gazete: 27.07.2022 - 31905
+ADI: SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+RESMÎ GAZETE: 27.07.2022 - 31905
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ce56f7289668d080a07511e4fa6e227c72ebff94878ed74f4f69135ed87ef918
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+27 Temmuz 2022 ÇARŞAMBA Resmi Gazete Sayı : 31905
+TEBLİĞ
+Sosyal Güvenlik Kurumu Başkanlığından:
+SAĞLIK HİZMETLERİ FİYATLANDIRMA KOMİSYONU KARARI
+Karar No: 2022/5
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği oluşturulan Sağlık Hizmetleri Fiyatlandırma
+Komisyonu 16/6/2022 tarihinde toplanarak aşağıdaki kararları almıştır.
+MADDE 1- Sağlık Uygulama Tebliği (SUT) eki “Hizmet Başı İşlem Puan Listesi (Ek-2/B)” nde;
+a) “Ameliyathane ve Ameliyathane Dışı İşlem Tanımları” başlığı altında yer alan işlem gruplarına ilişkin birimlerin
+aşağıdaki şekilde değiştirilmesine oy birliği ile,
+İŞLEM N
+KODU İŞLEM ADI AÇIKLAMA
+| | AMELİYATHANE ve AMELİYATHANE DIŞI İŞLEM TANIMLARI Birim
+KN
+A3 grubu 2351-5200
+ar İn
+E grubu 0-300
+b) “Ameliyathane ve Ameliyathane Dışı Anestezi Uygulamaları” başlığı altında yer alan aşağıdaki işlemlerin işlem adinda
+yer alan puanların aşağıdaki şekilde yeniden belirlenmesine oy birliği ile,
+İŞLEM
+KODU İŞLEM ADI
+550200 | Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. |
+Toplam cerrahi puan 12001 ve üzeri N !
+550210 Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 5201:4209 .,.,.,«,«,«,0
+550220 Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 2351-5200
+550230 Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 1451-2350
+550240 Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 751-1450
+550250 İl Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 301-750
+550260 | Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 0-300
+MADDE 2- SUT eki “Hizmet Başı İşlem Puan Listesi (Ek-2/B)” ne aşağıda yer alan işlem satırlarının eklenmesine oy
+birliği ile,
+KODU İŞLEM ADI AÇIKLAMA | İŞLEM PUANI
+Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla İ
+550340 ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 442224
+Toplam cerrahi puan 12001 ve üzeri
+
+Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla >
+550341 | ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 2.403,72
+Toplam cerrahi puan 5201-1200
+Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla
+ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 1.442,48 |
+Toplam cerrahi puanı 2351-5200
+m Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla
+550343 ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 668,08
+Toplam cerrahi puan 1451-2350
+Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla
+550344 ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 385,38
+Toplam cerrahi puan 751-1450
+ms Yeni doğan/geriatrik (75 yaş üstü ve ASA 3-4) hastalara birden fazla İL ae
+550345 | ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 240,40
+Toplam cerrahi puan 301-750
+Yeni doğan/geriatrik (73 yaş üstü ve ASA 3-4) hastalara birden fazla
+550346 ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler. 160,26
+Toplam cerrahi puan 0-300
+MADDE 3- SUT eki “Hizmet Başı İşlem Puan Listesi (Ek-2/B)” nde yer alan aşağıdaki işlemlerin işlem puanlarının
+aşağıdaki şekilde yeniden belirlenmesine oy birliği ile,
+İŞLEM
+İŞLEM ADI İŞLEM PUANI
+Damar yolu açılması TAAT
+Enteral hiperelimentasyon takibi 3571
+Hastanın mekanik ventilatöre bağlanması 89,14İ
+İntramusküler enjeksiyon. 5,40
+İntravenöz enjeksiyon
+26,1
+2671
+2671
+26011
+5343
+5343)
+Nazogastrik sonda uygulaması 3571)
+Nebüllizatör ile ilaç uygulaması 2671
+530360 | Oksijen inhalasyon tedavisi, saatlik 3,59
+Nitrik oksit tedavisi ve takibi m
+530380 — | Parasentez, tanısal
+Parasentez, terapötik.
+Torasentez, tanısal 99,05
+Torasentez, terapötik
+Total parenteral nütrisyon (TPN) takibi, 24 saat
+Ventilatör ile takip
+Yara pansumanı NN 12,60
+Dekübit yara pansumanı 17,80
+530590, Arter kateterizasyonu Ni, 160,28
+İntraarteriyel kanülasyon ve basınç ölçümü
+133,57
+NN 18.01)
+Kateter revizyonu ve/veya değişimi 133,57!
+Non invaziv mekanik ventilatör uygulaması 3571
+Santral ven kateterizasyonu, femoral ven (Perkütan)
+20107
+Subklavyen kateter takılması
+Sağ kalp kateterizasyonu, pulmoner arter Wedge basınç ölçülmesi 267,12
+Endotrakeal entübasyon, yenidoğan
+550010 © | Anestezi öncesi muayene 3617
+Endotrakeal tüp ya da trakeotomi kanül değişimi 35,71
+Hasta kontrollü analjezi (Epidural veya intravenöz vb, 3339!
+İnvaziv yöntemle kardiyak debi ve indeks ölçümü NN 106,85)
+Muayene anestezisi, ameliyathane dışı 178,27
+Muayene anestezisi, ameliyathanede
+Noninvaziv yöntemle kardiyak debi ve indeks ölçümü 35,71
+
+550130 — | Anestezi Al grubu (Özellikli ameliyatlar ve girişimler) 213672
+Anestezi B prubu (Özel ameliyatlar ve girişimler) 373,98
+Anestezi C grubu (Büyük ameliyatlar ve girişimler) 2130
+133,54
+“Anestezi E grubu (Küçük ameliyatlar ve girişimleri m
+
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 12001 ve üzeri 2948.16
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+“Toplam cerrahi puan 2351-5200 961,65
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 751-1450 25692
+Birden fazla ameliyatın veya ameliyathane dışt uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 301-750 16026
+Birden fazla ameliyatın veya ameliyathane dışı uygulamaların yapıldığı anesteziler.
+Toplam cerrahi puan 0-300 10634
+Yeni doğan anestezi puanı Al grubu 3.204,96
+
+550290 | Yeni doğan anestezi puanı A3 grubu
+Yeni doğan anestezi puanı C grubu 318,14
+Yeni doğan anestezi puanı E grubu 133,34
+63,48
+Faset eklem içi enjeksiyon, ağrı tedavisi 133,37
+Proloterapi 2671.
+133,57
+
+550420 | Diğer periferik alt ekstremite sinir blokları
+Faset mediyan sinir bloğu, tek 39,14
+Fasiyal sinir bloği 133,57
+Femoral sinir bloğu, üçlü
+Gasser gangliyon sinir bloğu 356,27”
+Glossofaringeal /vagus /frenik /aksesoryus sinir bloğu
+Greater ve lesser oksipital sinir bloği NN
+İliyoinguinal/penitofemoral/iliyohipogastrik sinir bloğ 133,57
+2611
+İnterskalen sinir bloğu
+Laringeal sup/rek sinir bloğu
+
+550570 — | kateral femoral kutanöz/obturator sinir bloğu SM
+Maksiller/mandibüler sinir bloğ 89,14
+Paraservikal sinir bloğu, tek m
+Peroneal/tibiyal/sural sinir bloğu
+Pudental sinir bloğ 89,14
+Sakral / koksigeal sinir bloğu 89,14
+
+550640 “| Selektif sinir kökü bloğu, tek 133,57
+Servikal/brakiyal pleksus sinir bloğu.
+Siyatik sinir bloğu
+Supraorbital/intraorbital/troklear sinir bloğu
+Supraskapüler sinir bloği 39,14
+ölyak/hipopastrik pleksus sinir bloğ
+133,57
+26712
+Stellat gangliyon sinir bloğ 133,57
+
+550750 | Epidural blok (Kateter ve port veya pompa implantı a, 600,28
+550770 — | Kombine spinal epidüral analjezi veya blok (Kontinü)
+Lomber-kaudal epidural enjeksiyon veya kateterizasyon
+Servikal-torakal epidural enjeksiyon veya kateterizasyon 302,84)
+Spinal blok, kateter ve port veya pompa implantı ile 600,28 |
+Subaraknoid blok, lomber veya kaudal spinal blok ile
+302,84
+35627
+'Nörolitik sinir bloğu, epidural (Servikal-torakal 334,24
+Nörolitik sinir bloğu, epidural (Lomber-kaudal
+Nörolitik interkostal sinir bloğu, tek seviye 13357
+5343
+Nörolitik Stellat gangliyon sinir bloğu 22269
+2269
+53424
+ASA
+( 550950 İ Nörolitik periferik sinir bloğu,tek, |||) 133,57
+Faset Eklem RET, tek 485,90
+Perkütan faset sinir denervasyon RET, tek
+485,90
+48542
+Lomber Dorsal Root Gangliyon (DRG)-RFT.
+Sakral Dorsal Root Gangliyon (DRG) RFT
+382,83.
+: 2
+Lomber-kaudal nöroplasti-adezyonolizis
+8281
+3895
+Nörostimülatör pulse jeneratör yerleştirilmesi
+Periferik sinir elektrot implantasyonu. 680,06
+Perkütan elektrot revizyonu veya çıkarılması
+Perkütan nörostimülatör elektrot implantasyonu 680,06
+Pompa veya port programlanması veya doldurulması 3805
+ 231AL
+35,71
+Günlük yatan hasta ağrı takibi m 35,71
+531340 İ SEDO-analjezi  S103İ
+MADDE 4- “Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelik” doğrultusunda Sağlık Bakanlığınca
+“üçüncü basamak sağlık hizmet sunucusu” olarak basamaklandırılan özel sağlık hizmeti sunucuları için; ikinci basamak özel sağlık
+hizmeti sunucularına ilişkin halen yürürlükte bulunan Kurum mevzuatının uygulanmasına oy çokluğu ile,
+MADDE 5- SUT eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” nde yer alan aşağıdaki işlemlerin işlem puanlarının
+aşağıdaki şekilde yeniden belirlenmesine oy birliği ile,
+İŞLEM İ
+KODU İŞLEM ADI İŞLEM PUANI
+MADDE 6- SUT eki “Tibbi Sarf Malzemeler Listesi (EK-3/C-4)” nde yer alan ve aşağıdaki tabloda belirtilen tibbi sarf
+malzemelerin, alan tanımları, fiyatları ve geri ödeme kural/kriterlerinin aşağıdaki şekilde yeniden düzenlenmesine oy birliği ile,
+OSTOMİ MALZEMELERİ FİYAT (TL) |
+() Ostomi malzemelerinin temini için uzman hekim raporu düzenlenecek olup, raporda, teşhis, yapılan ameliyatın adı, malzemenin adı, kullanım
+Süresi ve ikinci fikrada belirtilen miktarları geçmemek üzere günlük kullanım adeti belirtilecektir. Hastada ikinci bir stoma söz konusu İse bu |
+durum raporda belirtilecektir
+G2) Ostomi malzemeleri bedeller, tedavi protokolü gereğince hekim tarafından sağlık Taporu ve reçetede belirtilen adetler esas alınarak en hez |
+iki) aylık miktarlarda reçete edilmesi halinde Kurumca karşılanır. —
+
+OSTOMİ PASTASI (ÜROSTOMİ, KOLOSTOMİ, İLEOSTOMİ) 30,48
+
+| KOLOSTOMİ, İLEOSTOMİ TORBASI (TEK PARÇA, FİLTRE DAHİL) *<*< | Si)
+| o | KOLOSTOMLİLEOSTOMİ TORBASI (ADAPTÖR İÇİN, FİLTRE DAHİL), << | Sü)
+| | OSTOMİ ADAPTÖRÜ (ÜROSTOMİ, KOLOSTOMİ, İLEOSTOMİ),*<*< (000 iss
+| o << (GROSTOMİTORBASI (MEK PARÇA, ,,'''o>o9oOoOoO0O| 0 uğ)
+MADDE 7- SUT eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)” nde “Yara Bakım Ürünleri”
+
+başlığı altında yer alan aşağıdaki SUT kodlarının fiyatlarının yeniden düzenlenmesine oy birliği ile,
+Nİ e EM
+MM ei Nİ |
+2 a le mM Ea
+BE ela ll ENİ YER şi
+Ti sy na öp A MM PE
+e ee sg Zİ ME
+e 00 Nİ
+Ti Fikir ehe 0 Yem ŞE,
+İZ ii
+a, lar iç e YEMEN MM şi
+e e gi
+MN iz e ME
+e e İL.
+A Ee ME e — e
+e e e İİ
+EE ki Nİ
+A e eg yer 0 SR
+
+KOMPOZİT YARA ÖRTÜLERİ (DOKUYA TEMAS EDEN, EMİCİ VE Gi MSİZ DIŞ
+
+MM mim
+e İİ
+Şi
+ER «000
+Bire nini be PE NR
+Tl Kül Sa kz EEE | EÇ yi
+e 00 ip
+EE e
+a İG
+bl bali eğ öp km peer
+Lİ m e çi Ga
+
+il iu
+HİDROFİBER YARA ÖRTÜSÜ 500 em”
+'GÜMÜŞLÜ HİDROFİBER YARA ÖRTÜSÜ 500* em? 53,00
+a, KONTROLLÜ GÜMÜŞ SALIMI YAPABİLEN YARA ÖRTÜLERİ rem
+NANOKRİSTAL GÜMÜŞ İÇERİKLİ, KONTROLLÜ GÜMÜŞ SALIMI YAPAN YARA e
+MANOKRİSTAL GÜMÜŞ İÇERİKLİ, KONTROLLÜ GÜMÜŞ SALIMI YAPAN YARA 68,00
+
+SALIMI YAPABİLEN) YARA ÖRTÜSÜ ”
+a
+PARAFİN TÜL KAPAMALAR (KLORHEKSİDİN/GÜMÜŞ-SÜLFADİAZİN/AİYOT/GÜMÜŞ 400
+
+İÇEREN PARAFİN TÜL KAPAMALAR DAHİL) ”
+
+OR457I BARİYER YARA ÖRTÜSÜ, TEK TABAKALI
+| ÇAR A 0
+NN
+Wi
+
+ORA578 KOLLAJEN İÇERİKLİ YARA ÖRTÜSÜ (BÜYÜK) 2251 cm? 500
+| een ÇE eee
+
+MADDE 8- Alınan Kararlardan;
+
+1- 4 numaralı Kararın işbu Kararın imzalandığı tarihten geçerli olmak üzere yayımı tarihinde,
+
+2- Diğer kararların yayımlanacak olan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına
+Dair Tebliğ'de belirtilen tarihte yürürlüğe girmesine,
+
+Karar verilmiştir.

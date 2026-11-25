@@ -1,0 +1,824 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/87403
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Esas ve Usuller
+SAYI: 2016/56
+ADI: SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: d9c320df4ae4d765b09b4b46493ce8b5e2874de9ee39b5afbb35ce6d4807a29e
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                     SOSYAL GÜVENLİK KURUMU
+       İLAÇ GERİ ÖDEME BAŞVURULARINA İLİŞKİN USUL VE ESASLAR
+
+                                  BİRİNCİ BÖLÜM
+                          Amaç, Kapsam, Dayanak ve Tanımlar
+
+
+      Amaç ve Kapsam
+      MADDE 1- (1) Bu usul ve esasların amacı, Sosyal Güvenlik Kurumunca finansmanı
+sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların Sosyal Güvenlik
+Kurumu İlaç Geri Ödeme Yönetmeliği ile Sosyal Güvenlik Kurumu Genel Sağlık Sigortası
+Alternatif Geri Ödeme Yönetmeliği kapsamında yapılacak başvurularda izlenecek usul ve
+esaslarının belirlenmesidir.
+      (2) Bu Usul ve Esaslar, ilaç geri ödeme listesine başvuracak firmalar ile başvuru
+dosyasında yer alacak bilgi ve belgeleri kapsar.
+
+      Dayanak
+      MADDE 2- (1) Bu Usul ve Esaslar, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 63 ve 73 üncü maddeleri, Sosyal Güvenlik Kurumu Merkez Teşkilatı
+Çalışma Yönetmeliğinin 79 uncu maddesi ile Sosyal Güvenlik Kurumu İlaç Geri Ödeme
+Yönetmeliği ve Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme
+Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+
+      Tanımlar
+      MADDE 3- (1) Bu usul ve esaslarda geçen;
+      a) Birim fiyat: Bir ilacın kamu fiyatının ambalaj miktarına bölünmesiyle oluşan fiyatı,
+      b) Dağıtım belgesi: Firma tarafından Sağlık Bakanlığı İlaç Takip Sistemi kayıtlarından
+alınan ilacın piyasada bulunduğunu gösterir belgeyi, (Kılavuza göre başvuru dosyasında
+Tahmini Bütçe Etkisi tablosunu sunmakla yükümlü olunan ilaçlar için, bu tabloda ilacı
+kullanması muhtemel hasta sayısına ait birinci yıl için belirtilen sayının en az %5 oranına
+denk gelecek kadarını gösterir İlaç Takip Sistemi kaydını)
+      c) Farmasötik form: İlacın/ürünün kullanım amacına uygun formülasyonlarla üretilmiş
+takdim şeklini,
+      ç) Firma: Beşeri tıbbi ürünler/beşeri ilaçların imalat ya da ithalat yetkisini elinde
+bulunduran gerçek ya da tüzel kişiyi,
+      d) Firma yetkilisi: Firma nam ve hesabına hareket etmeye noterden alınmış yetki
+belgesine istinaden yetkilendirilmiş, imza sirkülerine sahip kişiyi,
+      e) İlaç: Bir hastalığı tedavi etmek ve/veya önlemek, bir teşhis yapmak veya bir
+fizyolojik fonksiyonu düzeltmek, düzenlemek veya değiştirmek amacıyla insana uygulanan
+doğal ve/veya sentetik kaynaklı etken madde veya maddeler kombinasyonunu,
+      f) Jenerik ilaç: Etken maddeler açısından orijinal ilaç ile aynı kalitatif ve kantitatif
+terkibe ve aynı farmasötik forma sahip olan ve orijinal tıbbi ürün ile biyoeşdeğerliliğinin
+uygun biyoyararlanım çalışmaları ile kanıtlandığı ilacı,
+      g) Kamu fiyatı: Bir ilacın perakende satış fiyatına kamu kurum iskontosu uygulandıktan
+sonra oluşan fiyatı,
+
+                                                                                  Sayfa 1 / 18
+       ğ) KÜB-KT: İlacın ruhsat dosyasında bulunan kısa ürün bilgileri ile kullanıcı için
+hazırlanmış yazılı kullanma talimatını,
+       h) Liste: SUT ekinde ve/veya Kurum resmi internet sitesinde yayımlanan ilaç/ürün
+listelerini,
+       ı) Orijinal ilaç: Etken madde/maddeler açısından bilimsel olarak kabul edilebilir
+etkinlik, kalite ve güvenliğe sahip olduğu kanıtlanarak, dünyada pazara ilk defa sunulmak
+üzere ruhsatlandırılmış/izin verilmiş ilacı,
+       i) SUT: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+       j) TİTCK: Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumunu,
+       k) Ürün: Ruhsat alınmaksızın Sağlık Bakanlığı ve Tarım Bakanlığınca satışına izin
+verilen ürünleri,
+       l) Taahhütname: Firma ad ve hesabına, Kuruma karşı, sözleşmeli ya da sözleşmesiz
+olarak, yönetmelik ile bu usul ve esas kapsamında istenilen hususların yapılmasının veya
+tesliminin üstlenildiğini gösteren firmayı temsil ve ilzama yetkili kişi tarafından imzalanmış
+belgeyi,
+       m) Yitilik: Birim farmasötik form içindeki etken madde miktarını,
+       n) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+       o) Yönetmelik: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme
+Yönetmeliği ile Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğini,
+       ifade eder.
+
+
+                                      İKİNCİ BÖLÜM
+                                  Başvuruların Hazırlanması
+
+      Yapılacak başvurulara ilişkin genel hususlar
+        MADDE 5- (1) İlaçların/ürünlerin listelere dahil edilmesine yönelik başvurular aşağıda
+tanımlanan 3 (üç) kategoriden biri çerçevesinde yapılır.
+        a) Orijinal ilaçlar ile listelere ilk defa girecek yeni moleküller için yapılacak başvurular,
+        b) Jenerik ilaçlar için yapılacak başvurular,
+        c) Ruhsat alınmaksızın satış izni verilen ürünler için yapılacak başvurular.
+        (2) Listelerde yeralan ilaçlar/ürünler için yapılacak başvurular aşağıda tanımlanan 7
+(yedi) kategoriden biri çerçevesinde yapılır.
+        a) Firma değişikliği için yapılacak başvurular,
+        b) Barkod değişikliği için yapılacak başvurular,
+        c) İlaç/ürün ismi değişikliği için yapılacak başvurular,
+        ç) Endikasyon/prospektüs/KÜB-KT/geri ödeme kuralları değişikliği için yapılacak
+başvurular,
+        d) İskonto değişikliği için yapılacak başvurular,
+        e) Listeden çıkarılma için yapılacak başvurular,
+        f) Reddedilen başvurulara yönelik tekrar yapılan başvurular.
+        (3) Başvuru dosyaları, bu usul ve esaslarda ayrıntıları belirtilen bilgi, belge ve verileri
+içerir.
+        (4) İlaçların farklı yitilik ve/veya farmasötik form için yapılacak başvurularında her
+yitilik ya da farmasötik form için ayrı ayrı başvuru dosyası düzenlenir.
+
+                                                                                       Sayfa 2 / 18
+       (5) Başvuru dosyaları, ayraçlarla düzenlenmiş klasörler halinde teslim edilir.
+       (6) Klasörün sırt kısmında ilacın/ürünün adı ve ruhsat sahibinin adı belirtilir.
+       (7) Başvuru dosyalarında bu usul ve esaslar gereği teslim edilecek olan tüm bilgi, belge
+ve veriler Türkçe olmalıdır. Dosya kapsamında teslim edilecek literatür kaynak/kaynaklarının
+orijinal dildeki fotokopileri ile kanıt düzeyi I ve/veya II olan çalışmaların tamamı ve diğer
+literatür kaynak/kaynaklarının ise özetlerinin, yeminli mütercim/tercüman tarafından tercüme
+edilmiş Türkçe tercümeleri yer alır.
+       (8) Başvuru dosyası bir asıl ve ekinde dijital ortamda 1 (bir) adet CD/DVD ve bir adet
+taşıyıcı bellek olarak teslim edilir. Dijital ortamda yeralan bilgiler .pdf formatı ile birlikte
+.docx formatında da olmalıdır.
+       (9) Tüm bilgi ve belgelerin doğruluğundan ve bilgilerin kesinleşmiş olmasından başvuru
+sahibi firma sorumludur. Firmalar tüm başvurularda bu hususa ilişkin taahhütnameyi dosya ile
+birlikte teslim ederler (Ek-3A). Daha önce şahsi tedavi için yurt dışından temin edilen ve
+Türkiye’de ruhsatlandırılarak listeye alınma talebi bulunan başvuru sahibi firmalar Sosyal
+Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinin 12 nci maddesinin 5 inci fıkrasının (b)
+bendi kapsamında ibrazı istenen taahhütnameyi de dosya ile birlikte teslim ederler (Ek-3B).
+
+     Başvurularda teslim edilecek dosyanın içeriği
+      MADDE 6 – (1) İlaçların/ürünlerin listelere dahil edilme başvurularında teslim
+edilecek dosya içeriği; “Bölüm I- Genel”, “Bölüm II- Klinik Veriler” ve “Bölüm III-
+Farmakoekonomik Değerlendirme” olmak üzere üç bölümden oluşur. Başvuru dosyası bu
+usul ve esaslar gereği içermesi gereken belgeler yönünden “İlk Kez Yapılan Başvurular
+Formu”na göre kontrol edilir (EK-1A), başvuru dosyasında taahhütname (Ek-3A) yer alır.
+      (2) Listelerde yeralan ilaçlar/ürünler için yapılacak başvurularda teslim edilecek dosya
+içeriğinde yer alacak bilgi ve belgeler aşağıda tanımlanmış olup, “İlaç Bilgisi Değişiklikleri
+Başvuru Formu” na göre kontrol edilir (EK-1B), başvuru dosyasında taahhütname (Ek-3A)
+yer alır.
+      a) Firma değişikliği başvurularında; dilekçe, ilacın renkli ruhsat fotokopisi, barkod onay
+yazısı fotokopisi, satış izni fotokopisi, TİTCK resmi internet sitesinde yayımlanan eski ve
+yeni fiyat listesinin yayım tarihini de içerecek şekilde çıktısı yer alır.
+      b) Barkod değişikliği başvurularında; dilekçe, ilacın renkli ruhsat fotokopisi, barkod
+onay yazısı fotokopisi, TİTCK resmi internet sitesinde yayımlanan eski ve yeni fiyat listesinin
+yayım tarihini de içerecek şekilde çıktısı yer alır.
+      c) İlaç/ürün ismi değişikliği başvurularında; dilekçe, ilacın renkli ruhsat fotokopisi,
+TİTCK’dan alınan isim onayı yazısı fotokopisi, TİTCK resmi internet sitesinde yayımlanan
+eski ve yeni fiyat listesinin yayım tarihini de içerecek şekilde çıktısı yer alır.
+      ç) Endikasyon/prospektüs/KÜB-KT değişikliği başvurularında; dilekçe, TİTCK’dan
+alınan endikasyon değişikliği onay yazısı fotokopisi, eski ve yeni prospektüs (varsa KÜB-
+KT), değişiklik ile ilgili klinik çalışma, farmakoekonomik çalışma yer alır.
+      d) Geri ödeme kuralları değişikliği başvurularında; dilekçe, yeni geri ödeme önerisi ve
+öneri ile ilgili varsa klinik çalışma ve farmakoekonomik çalışma yer alır.
+      e) İskonto değişikliği başvurularında; gerekçenin de yer aldığı dilekçe ile gerekçelere
+yönelik varsa ek bilgi ve belgeler yer alır.
+
+
+
+                                                                                   Sayfa 3 / 18
+       f) İlacın ruhsat iptali/ruhsat arkası şerhi veya ithal izin onay belgesi iptaline istinaden
+yapılan listeden çıkarılma başvurularında; dilekçe ve TİTCK’dan alınan ruhsat iptali/ruhsat
+arkası şerhi veya ithal izin onay belgesi iptali belgeleri, bu durumların dışındaki listeden
+çıkma başvurularında ise dilekçe ile gerekçelere yönelik varsa ek bilgi ve belgeler yer alır.
+       (3) Başvurunun reddedilmesi halinde tekrar başvuru kapsamındaki başvurularda; birinci
+kez red durumunda, başvuru dosyası hazırlamadan sadece red kararına yönelik gerekçeler ile
+bu gerekçelere yönelik varsa ek bilgi ve belgeler, ikinci kez red durumunda; başvurunun
+niteliğine göre bu usul ve esaslarda tanımlı bilgi ve belgeler ve taahhütname (Ek-3A) yer alır.
+       (4) Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme Yönetmeliği
+kapsamında yapılacak başvurularda, başvurunun niteliğine göre bu usul ve esaslarda tanımlı
+bilgi ve belgeler ve taahhütname (Ek-3A) yer alır.
+
+    İlaçların/ürünlerin        listelere dahil edilme başvurularında teslim edilecek
+dosya içeriği
+       MADDE 7- (1) Başvuru dosyasının “Bölüm I- Genel” başlıklı ilk bölümünde yer alan
+belgeler aşağıda tanımlanmıştır.
+       a) İçindekiler,
+       b) Dilekçe (Talep net ve kesin ifadeler ile özetlenir, talebe konu ilacın/ürünün statüsü
+(orijinal ilaçlar ile listeye ilk defa girecek yeni moleküller/jenerik ilaçlar/ruhsat alınmaksızın
+Sağlık/Tarım Bakanlığından satışına izin verilen ürünler), adı, farmasötik formu ve yitiliği,
+iskonto önerisi açık bir şekilde belirtilir. Dilekçe için talep sahibi firmanın antetli kağıdı
+kullanılır ve dilekçede firmanın irtibat adresi, telefon ve faks numaraları, e-posta adresi
+bilgileri bulunur. Dilekçe ekinde; firma yetkilisinin firmayı temsil ve ilzama yetkili olduğuna
+dair belge yer alır),
+       c) Taahhütname (Ek-3),
+       ç) İlaç bilgi kartı (Ek-2),
+       d) İlacın renkli ruhsat fotokopisi,
+       e) Barkod onay yazısı fotokopisi,
+       f) Satış izni fotokopisi,
+       g) İlacın onaylı prospektüsü/KÜB-KT,
+       ğ) TİTCK resmi internet sayfasında yayımlanan fiyat listesi çıktısı,
+       h) Orijinal ilaçlarda ve listeye ilk defa girecek yeni moleküllerde varsa FDA (Food and
+Drug Administration) pazarlama izni ve NDA (New Drug Application) numarası ve/veya
+EMA (European Medicines Agency) pazarlama izni ve varsa EMA co-marketing belgesi
+fotokopisi, (Türkiye’de geliştirilen ve ruhsatlandırılan yeni moleküller için bu belgeler
+aranmaz.)
+       ı) Orijinal ilaçlar ve listeye ilk defa girecek yeni moleküller için OECD (Organisation
+for Economic Co-operation and Development) ülkelerinde ruhsat durumu ve geri ödeme
+listelerinde olup olmadığı ile Beşeri İlaçların Fiyatlandırılmasına Dair Kararname gereği
+TİTCK tarafından referans olarak belirlenen ülkeler ile imal ve/veya ithal edildiği ülkelerdeki
+geri ödeme bilgilerinin yer aldığı “İlacın OECD Ülkeleri İle Referans ve Kaynak Ülkelerdeki
+Statüsüne Dair Bilgiler Tablosu” (Ek-4),
+       i) Başvurularda; ilacın/ürünün endike olduğu hastalığın epidemiyolojisi ve aynı
+endikasyon için listelere dahil edilmiş diğer ilaç/ürün ve/veya ilaç//ürün dışı tedavilerle
+
+
+                                                                                     Sayfa 4 / 18
+karşılaştırmalı olarak en belirgin üstünlük ve yararları hakkında tercihen 1 (bir) sayfayı
+geçmeyen kısa özet,
+       j) Ruhsat alınmaksızın satış izni verilen ürünlerin başvurularında ise “İlk Kez Yapılan
+Başvurular Formu”nda (Ek-1A) bu ürünler için istenen belgeler,
+       k) İlacın/ürünün piyasada bulunduğuna dair dağıtım belgesi.
+       (2) Başvuru dosyasının “Bölüm II- Klinik veriler” başlıklı ikinci bölümünde yer alan
+belgeler aşağıda tanımlanmıştır. Bu bölümde ilacın terapötik sınıfı ve spesifik olarak genel
+farmakolojik profili aşağıda sıralanan hususlar çerçevesinde açıklanır.
+       a) ATC 4 kodu, ATC 4 kodunun bulunmaması halinde en yakın ATC kodu
+sınıflandırma sistemine göre ilacın terapötik sınıfı belirlenir. Bu sınıftaki ilacın başlıca
+farmakolojik etkisi/etkileri tespit edilir.
+       b) Öngörülen tedavi süresi dahil tavsiye edilen ve yaygın olarak kullanılan tedavi
+rejimleri belirtilir.
+       c) Diğer ilaç/ilaçlar ile kombine kullanılmak üzere endike ise, bu kombinasyonların
+ayrıntıları ilgili yitiliklerle birlikte belirtilir.
+       ç) İlacın ilgili endikasyon/endikasyonlardaki etkililiğine ilişkin klinik araştırmalarından
+elde edilen sonuçlar “Kanıtların Bilimsel Güvenilirliğine Göre Önceliklendirilmesi Tablosu”
+ve “Etkililik Tablosu” na göre özetlenir (Ek-5 ve Ek-6).
+       d) İlacın güvenliliğine ilişkin klinik araştırmalarından elde edilen sonuçlar “Kanıtların
+Bilimsel Güvenilirliğine Göre Önceliklendirilmesi Tablosu” ve “Güvenlilik Tablosu” na göre
+özetlenir (Ek-5 ve Ek-7).
+       e) Alternatif tedavi seçenekleri için;
+       1) Aynı endikasyon için mevcut olan başlıca tedavi seçeneklerinin (ilaç, cerrahi girişim,
+radyoterapi, fizik tedavisi vb.) neler olduğu ve bunlardan anlamlı farkları belirtilir.
+       2) Önerilen ilacın aynı endikasyon için kullanılan diğer tedavi seçenekleriyle
+kıyaslandığı karşılaştırmalı klinik araştırmalar kullanılır. Verilerin tablo formatında olması
+gerekmekte olup öncelikle Türkiye’de yapılan klinik çalışmalar tercih edilir.
+       f) “Etkililik Tablosu” ve “Güvenlilik Tablosu” nda özetlenen her klinik araştırmanın ve
+kanıtların bilimsel güvenilirlik dereceleri (kanıt düzeyi) I ve/veya II olan çalışmalarının
+orjinali ve yeminli mütercim/tercüman tarafından tercüme edilmiş Türkçe tercümeleri bu
+bölüme eklenir. Eklenen diğer literatür kaynaklarının sadece özet bölümünün yeminli
+mütercim/tercüman tarafından tercüme edilmiş Türkçe tercümeleri, ilgili her literatürün
+başında yer alır.
+       g) Epidemiyolojisi hakkında;
+       1) İlacın endike olduğu hastalığın/hastalıkların durumu (patofizyoloji ve klinik seyir) ve
+varsa basamaklı tedavi rejimi özetlenir.
+       2) Hastalığın/hastalıkların epidemiyolojisi hakkında ilacın kullanıldığı tanının
+Türkiye’deki tahmini prevalans ve varsa diğer ülkelerdeki prevalans verileri eklenir (Ek-9
+Tablo 9.4 ve Ek-10 Tablo 10.4).
+       ğ) Başvurular hakkında varsa uluslararası tanı-tedavi kılavuzlarındaki yerini gösterir
+belge.
+       h) Bu bölümde istenilen bilgi ve belgeler, endikasyon/prospektüs/KÜB-KT değişikliği
+ile geri ödeme kuralları değişikliği başvuruları için düzenlenecek dosyalarda da yer alır.
+       (3) Başvuru dosyasının “Bölüm III- Farmakoekonomik değerlendirme” başlıklı
+üçüncü bölümünde ilacın maliyetinin ve bunların uygulanması ile ortaya çıkan ekonomik
+                                                                                     Sayfa 5 / 18
+sonuçlarının analitik yöntemler ile ortaya konulması istenen belgeler aşağıda tanımlanmıştır.
+Bu kapsamdaki başvurular üç kategoride değerlendirilir.
+       a) Jenerik ilaçlar; orijinal ilaç listede yer alıyor ise aynı etken maddeyi aynı endikasyon
+için aynı yitilikte, aynı farmasötik formda içeren ilaçlar için farmakoekonomik çalışma
+istenmez. Ancak, listelere dahil edilmek istenen jenerik ilaç için listede yer alan orijinal ve
+varsa diğer jenerikler ile karşılaştırmalı birim fiyat hesabının yapılması gerekir. Hesaplamalar
+kamu fiyatları üzerinden “Jenerik İlaçlar İçin Karşılaştırma Tablosu” nun hazırlanması
+suretiyle yapılır (Ek-8). Bu gruba girmeyen jenerik ilaçlardaki değerlendirmeler ise bu
+fıkranın (b) bendi kapsamında yapılır.
+       b)     Orijinal      ilaçlar,    listeye     ilk     defa     girecek     yeni   moleküller,
+endikasyon/prospektüs/KÜB-KT değişikliği ile geri ödeme kuralları değişikliği ile ilgili
+olarak;
+       1) Farmakoekonomik değerlendirmede kullanılan klinik araştırma/araştırmalar SCI/SCI-
+Expanded kapsamındaki dergiler başta olmak üzere özgün makale olarak (Editöre mektup,
+özet, derleme, short comminication ve kitap kritiği hariç) yayımlanmış veya ruhsat başvurusu
+için planlanmış klinik araştırmaların verileri ile yapılır. Klinik araştırmaların, meta-analiz
+veya randomize çift kör kontrollü çalışmalar şeklinde olması tercih edilmekle birlikte
+kanıtların bilimsel güvenilirlik derecelerine göre diğer çalışmalar da kullanılabilir. Tedavi
+maliyeti bilgileri ve gerekli diğer bilgiler ile bu bilgilerin kaynakları listelenir.
+       2) Yapılan farmakoekonomik analizin amacı açıkca belirtilir. Farmakoekonomik analiz
+başka ülke verileri ile yapılmış ise hangi ülke verilerinin kullanıldığı ve Türkiye’ye özgü
+gerekli uyarlamalar yapılarak bu uyarlamaların ayrıntıları (hastane servisleri, ilaç maliyetleri,
+konsültasyon, uygulama ücretleri vb.) da belirtilir. Türkiye’ye özgü verilerin bulunmaması
+halinde gerekçeleri ve kaynakları gösterilerek tahmini veriler kullanılabilir.
+       3) Farmakoekonomik analiz direkt sağlık harcamalarını içerir şekilde yapılır. Tüm
+maliyeti göz önünde bulunduran çalışmalar ise ek çalışma olarak verilebilir.
+       4) Karşılaştırması yapılan yeni ilacın piyasaya arzı halinde yerini alacağı ilaç/ilaçlar
+seçilir ve bu seçimin nedenleri ile seçim kriterleri açıklanır.
+       5) İlaç mevcut bir farmakoterapötik gruba ait ise bu grubun diğer alternatif ilaç/ilaçlarla
+arasında en yaygın kullanılanı ve literatürde birebir karşılaştırma amaçlı kullanılan alternatif
+ilaç/ilaçlarla karşılaştırılır.
+       6) İlaç yeni bir farmakoterapötik grubun ilk üyesi ise diğer farmakoterapötik gruplardan
+aynı endikasyon/endikasyonlar için en yaygın kullanılan ve literatürde birebir karşılaştırma
+amaçlı kullanılan ilaç/ilaçlarla karşılaştırılır.
+       7) Aynı endikasyon için ilaç dışı (cerrahi girişim, radyoterapi, fizik tedavi vb.) tedavi
+seçeneklerinin bulunması halinde bu duruma göre de karşılaştırılır.
+       8) En yaygın uygulama tedavisiz takip ise bu duruma göre karşılaştırılır.
+       9) Farmakoekonomik analizde kullanılan doz ve süreler, gerek analize konu olan
+gerekse karşılaştırılan ilaç/ilaçlar için, analizin girdilerinin alınmış olduğu çalışmalar ile
+uyumlu olur.
+       10) Farmakoekonomik analiz; maliyet minimizasyonu veya maliyet etkililik
+yöntemlerinden biri ile gerçekleştirilir ve ekinde uygun duyarlılık analizini içerir. Maliyet
+yararlılık yöntemi ile gerçekleştirilen analizler, maliyet etkililik analizine ek olarak
+verilebilir.
+
+
+                                                                                      Sayfa 6 / 18
+     11)     Orijinal     ilaçlar,   listeye    ilk   defa    girecek     yeni    moleküller,
+endikasyon/prospektüs/KÜB-KT değişikliği ile geri ödeme kuralları değişikliği için “Yeni
+Tedavi Dengesi Tabloları” doldurulur. (Ek-9).
+     c) Ruhsat alınmaksızın Sağlık/Tarım Bakanlığından satışına izin verilen ürünlerin
+başvurularında ise “Jenerik İlaçlar İçin Karşılaştırma Tablosu”ve “Ruhsat Alınmaksızın
+Kontrol Belgesi İle Satışına İzin Verilen Ürünler Tablosu” doldurulur (Ek-8 ve Ek-10).
+
+      Yürürlük
+      MADDE 8 – (1) Bu Usul ve Esaslar Yönetim Kurulunun 11/02/2016 tarihli ve 2016/56
+sayılı kararı ile uygun görülmüş olup, yayımı tarihinde yürürlüğe girer.
+
+     Yürütme
+     MADDE 9 - (1) Bu Usul ve Esasları Sosyal Güvenlik Kurumu Başkanı yürütür.
+
+
+
+
+EK LİSTESİ
+EK-1    BAŞVURU FORMLARI
+EK-2    İLAÇ BİLGİ KARTI
+EK-3    TAAHHÜTNAME
+EK-4    İLACIN OECD ÜLKELERİ İLE REFERANS VE KAYNAK ÜLKELERDEKİ
+        STATÜSÜNE DAİR BİLGİLER TABLOSU
+EK-5    KANITLARIN        BİLİMSEL      GÜVENİLİRLİĞİNE    GÖRE
+        ÖNCELİKLENDİRİLMESİ TABLOSU
+EK-6    ETKİLİLİK TABLOSU
+EK-7    GÜVENLİLİK TABLOSU
+EK-8    JENERİK İLAÇLAR İÇİN KARŞILAŞTIRMA TABLOSU
+EK-9    YENİ TEDAVİ DENGESİ TABLOLARI
+EK-10   RUHSAT ALINMAKSIZIN KONTROL BELGESİ İLE SATIŞINA İZİN
+        VERİLEN ÜRÜNLER TABLOLARI
+
+
+
+
+                                                                                 Sayfa 7 / 18
+EK-1 BAŞVURU FORMLARI
+EK-1A İlk Kez Yapılan Başvurular Formu
+
+İlacın adı, farmasötik formu, yitiliği:
+Firma adı:
+
+ Orijinal ilaçlar ile listeye ilk                   Jenerik ilaçlar için              Ruhsat alınmaksızın satış
+ defa girecek yeni moleküller                                                          izni verilen ürünlerin
+              için                                                                           başvurusu
+Bölüm I                                        Bölüm I                                Bölüm I
+ Dilekçe ve ekleri                             Dilekçe ve ekleri                    1) Sağlık Bakanlığı’ndan izinli
+ Taahhütname                                   Taahhütname                          ürün
+ İlaç Bilgi Kartı (Ek-2)                       İlaç Bilgi Kartı (Ek-2)               Dilekçe ve ekleri
+ İlacın renkli ruhsat fotokopisi               İlacın renkli ruhsat fotokopisi       Taahhütname
+ Barkod onay yazısı fotokopisi                 Barkod onay yazısı fotokopisi         İlaç Bilgi Kartı (Ek-2)
+ Satış izni fotokopisi                         Satış izni fotokopisi                 İzin belgesi fotokopisi
+ Onaylı prospektüs                             Onaylı prospektüs                     Etiket örneği
+(varsa onaylı KÜB ve KT)                       (varsa onaylı KÜB-KT)                   Satış izin belgesi
+ Fiyat listesi çıktısı (TİTCK resmi            Fiyat listesi çıktısı (TİTCK resmi    Barkod bilgisi
+internet sitesi)                               internet sitesi)                       İlacın OECD Ülkeleri ile
+ FDA pazarlama izni/NDA numarası,              Kısa özet                            Referans ve Kaynak Ülkelerdeki
+EMA pazarlama izni/co-marketing belgesi         Dağıtım belgesi                      Statüsüne Dair Bilgiler Tablosu
+fotokopisi                                                                            (Ek-4)
+ İlacın OECD Ülkeleri ile Referans ve                                                 Fiyat listesi çıktısı (TİTCK resmi
+Kaynak Ülkelerdeki Statüsüne Dair                                                     internet sitesi)
+Bilgiler Tablosu (Ek-4)                                                                Kısa özet
+ Kısa özet                                                                            Dağıtım belgesi
+ Dağıtım belgesi
+                                                                                      2) Tarım Bakanlığı’ndan izinli
+                                                                                      ürün
+                                                                                       Dilekçe
+                                                                                       Taahhütname
+                                                                                       İlaç Bilgi Kartı (Ek-2)
+                                                                                       İzin belgesi fotokopisi
+                                                                                       İhracat/İthalat onay belgesi
+                                                                                       Etiket örneği
+                                                                                       Proforma fatura fotokopisi
+                                                                                       Barkod bilgisi
+                                                                                       CE belgesi
+                                                                                      İlacın OECD Ülkeleri ile
+                                                                                      Referans ve Kaynak Ülkelerdeki
+                                                                                      Statüsüne Dair Bilgiler Tablosu
+                                                                                      (Ek-4)
+                                                                                       Kısa özet
+                                                                                       Dağıtım belgesi
+Bölüm II
+ Klinik veriler
+Kanıtların Bilimsel Güvenilirliğine
+Göre Önceliklendirilmesi Tablosu(EK-5)
+Etkililik tablosu (EK-6)
+Güvenlilik tablosu (EK-7)
+ Literatür kaynakları, listesi, fotokopiler
+ve tercümeler
+Bölüm III                                      Bölüm III                              Bölüm III
+ Farmakoekonomik değerlendirme                Jenerik İlaçlar İçin Karşılaştırma     Jenerik İlaçlar İçin Karşılaştırma
+ Yeni Tedavi Dengesi Tabloları (Ek-9)         Tablosu (Ek-8)                         Tablosu (Ek-8)
+                                                                                       Ruhsat Alınmaksızın Kontrol
+                                                                                      Belgesi İle Satışına İzin Verilen
+                                                                                      Ürünler Tablosu (Ek-10)
+
+                                                                                                    Sayfa 8 / 18
+EK-1B İlaç Bilgisi Değişiklikleri Başvuru Formu
+
+İlacın adı, farmasötik formu, yitiliği:
+Firma adı:
+
+                                                                    Endikasyon/
+                                                                                               Geri ödeme
+     Firma              Barkod               İlaç ismi              prospektüs                                          İskonto
+                                                                                                kuralları
+   değişikliği         değişikliği          değişikliği              /KÜB-KT                                           değişikliği
+                                                                                               değişikliği
+                                                                     değişikliği
+
+  Dilekçe            Dilekçe            Dilekçe               Dilekçe                   Dilekçe                  Dilekçe
+  Taahhütname        Taahhütname        Taahhütname           Taahhütname               Taahhütname              Taahhütname
+  İlacın renkli      İlacın renkli     İlacın       renkli   TİTCK’dan        alınan   Yeni kural ile ilgili
+ ruhsat              ruhsat              ruhsat fotokopisi      endikasyon değişikliği     klinik veriler
+ fotokopisi          fotokopisi           Fiyat listesi        onay yazısı fotokopisi     Kanıtların Bilimsel
+  Barkod onay        Barkod onay       çıktısı ve yayım        Eski ve yeni             Güvenilirliğine Göre
+ yazısı fotokopisi   yazısı fotokopisi   tarihi     (TİTCK      prospektüs (varsa KÜB      Önceliklendirilmesi
+  Satış izni         Fiyat listesi     resmi       internet   ve KT)*                    Tablosu(EK-5)
+ fotokopisi          çıktısı ve yayım    sitesinde               Değişiklik ile ilgili    Etkililik tablosu
+  Fiyat listesi     tarihi (TİTCK       yayımlanan eski        klinik çalışma,            (EK-6)
+ çıktısı ve yayım    resmi internet      ve yeni fiyat          Kanıtların Bilimsel       Güvenlilik tablosu
+ tarihi (TİTCK       sitesinde           birlikte)              Güvenilirliğine Göre       (EK-7)
+ resmi internet      yayımlanan eski            TİTCK’dan      Önceliklendirilmesi        Farmakoekonomik
+ sitesinde           ve yeni fiyat       alınan isim onayı      Tablosu(EK-5)              çalışma
+ yayımlanan eski     birlikte)           yazısı fotokopisi      Etkililik tablosu               Yeni     Tedavi
+ ve yeni fiyat                                                  (EK-6)                     Dengesi       Tabloları
+ birlikte)                                                      Güvenlilik tablosu        (Ek-9)
+                                                                (EK-7)
+                                                                Farmakoekonomik
+                                                                çalışma
+                                                                Yeni Tedavi Dengesi
+                                                                Tabloları (Ek-9)
+* Endikasyon/prospektüs/KÜB-KT değişiklikleri metin üzerinde işaretlenmelidir.
+
+
+
+EK-1C Listeden Çıkarılma Başvurusu
+
+  Dilekçe
+  Ruhsat iptali/ruhsat arkası şerhi veya ithal
+ izin onay belgesi iptal yazısı
+  Taahhütname
+
+
+
+
+                                                                                                      Sayfa 9 / 18
+  EK-2 İLAÇ BİLGİ KARTI *
+
+
+İlacın Adı:
+Barkod:
+Firma Adı:
+Ruhsat/İzin Tarih/No:
+Satış İzin Onay Tarihi/No:
+Barkod Onay Tarihi/No:
+İmal ve/veya İthal Edildiği Yer:
+FDA/EMA Onay Tarihleri (varsa):
+
+Ek Bilgi (varsa ilave iskonto teklifi dahil)
+  İlacın adı (Farmasötik                     Fiyat Bilgileri                 İlacın etken maddesi ve
+ formu, yitiliği, ambalaj      Depocuya Perakende         Kamu      Kamu              miktarı
+          miktarı)                Satış      Satış      iskontosu   Fiyatı
+                                Fiyatı       Fiyatı       (%)
+
+
+
+
+                                                                              Olağan     Maksimum
+                                                                             Kullanım       Dozu
+                                                                               Dozu
+                                                                             (ICD-10 kodlarına göre)
+
+
+Endikasyon
+ICD-10 Kodları ile                ATC 4 yoksa en yakın ATC Sınıflaması
+
+* A4 kartona çıktı alınacaktır.
+
+
+
+
+                                                                                     Sayfa 10 / 18
+EK-3 TAAHHÜTNAME
+
+EK-3A Taahhütname
+
+Kurumunuza yapmış olduğumuz başvuruya ait, teslim edilen dosyada yer alan her türlü bilgi
+ve belgelerin doğruluğundan, bilgilerin kesinleşmiş olmasından firmamızın sorumlu
+olduğunu, hatalı verilen bilgi ve belgelere dayanılarak alınan kararlar nedeniyle oluşacak
+Kurum zararı ile ilgili tüm mali ve hukuki sorumluluğun firmamıza ait olduğunu, zararın
+firmamızdan genel hükümler doğrultusunda tahsil veya tazmin edileceğini,
+
+Firmanın nam ve hesabına yetkili imza sahipleri olarak kabul ettiğimi/ettiğimizi beyan ve
+taahhüt ederim/ederiz. …. /…. /….
+
+                                                                 Firma Yetkilisinin
+                                                                     Adı-Soyadı
+                                                                   (İmza ve Kaşe)
+
+EK-3B Taahhütname
+
+Kurumunuza geri ödeme kapsamına alınması için başvuruda bulunduğumuz ilacımız; daha
+önce şahsi tedavi için yurt dışından temin edilen ilaç ile aynı etken maddeyi aynı miktarda
+içeren ve Türkiye’de ruhsatlandırılmış bir ilaç/ilaçlar olup; ödeme listesine dahil edilmesi
+halinde ilaç/ilaçların Türkiye’de piyasaya arzı için yetkili ve sorumlu olduğumu/olduğumuzu,
+   İlacımıza ilişkin dağıtım belgesini, listeye dahil edildiği tarihten itibaren en geç 1(bir) aylık
+süre içerisinde Kuruma ibraz edeceğime/edeceğimize, dağıtım belgesinin en son getirileceği
+tarihin 1 (bir) aylık süreyi aşması halinde ilaç/ilaçların şahsi olarak ya da Sağlık Bakanlığınca
+yetkilendirilmiş taraflarca temin edilmesi ve Kurum tarafından ödenmesi durumunda;
+ilaç/ilaçların temin fiyatları ile ilacın Kamu fiyatı arasında oluşacak farkın mali
+yükümlülüğünün firmamıza ait olduğunu, oluşan zararın firmamızdan genel hükümler
+doğrultusunda tahsil veya tazmin edileceğini,
+Firmanın nam ve hesabına yetkili imza sahipleri olarak kabul ettiğimi/ettiğimizi beyan ve
+taahhüt ederim/ederiz. …. /…. /….
+
+                                                                Firma Yetkilisinin
+                                                                     Adı-Soyadı
+                                                                   (İmza ve Kaşe)
+
+
+
+
+                                                                                      Sayfa 11 / 18
+EK-4 İLACIN OECD ÜLKELERİ İLE REFERANS VE KAYNAK ÜLKELERDEKİ
+STATÜSÜNE DAİR BİLGİLER TABLOSU *
+EK-4A OECD ülkeleri
+                                               Sağlık sigorta kuruluşları tarafından geri ödeme
+     Ülke adı        Ruhsat durumu (var/yok)
+                                                         durumu (var/yok/ulaşılamadı)
+ABD
+Almanya
+Avustralya
+Avusturya
+Belçika
+Çek Cumhuriyeti
+Danimarka
+Estonya
+Finlandiya
+Fransa
+Güney Kore
+Hollanda
+İngiltere
+İrlanda
+İspanya
+İsrail
+İsveç
+İsviçre
+İtalya
+İzlanda
+Japonya
+Kanada
+Lüksemburg
+Macaristan
+Meksika
+Norveç
+Polonya
+Portekiz
+Slovak Cumhuriyeti
+Slovenya
+Şili
+Yeni Zelanda
+Yunanistan
+
+
+
+
+                                                                            Sayfa 12 / 18
+EK-4B Referans ve kaynak ülkeler
+
+ Beşeri İlaçların Fiyatlandırılmasına
+   Dair Kararname gereği TİTCK
+                                          Ruhsat durumu              Geri ödeme bilgileri, varsa
+      tarafından referans olarak
+                                            (var/yok)              reçeteleme ile ilgili sınırlamalar
+  belirlenen ülkeler ile imal ve/veya
+           ithal edildiği ülke
+
+
+
+
+* Tablolarda verilen bilgilerin hangi tarihte ulaşılabilen bilgiler olduğu tabloların sonunda
+yazılır.
+
+
+
+EK-5 KANITLARIN BİLİMSEL GÜVENİLİRLİĞİNE GÖRE
+ÖNCELİKLENDİRİLMESİ TABLOSU
+
+
+     Kanıtların Bilimsel
+       Güvenilirlik                                 Araştırma Çeşidi
+        Dereceleri
+                           Randomize kontrollü klinik çalışmaları içeren sistematik derleme ve
+ I
+                           meta-analizlerden elde edilen kanıtlar
+                           En az bir randomize kontrollü klinik çalışma(lar)dan elde edilen
+ II
+                           kanıtlar
+ III                       Gözlemsel çalışmalar; kesitsel, vaka-kontrol çalışmaları
+ IV                        Vaka bildirilerinden elde edilen kanıtlar, uzman görüşleri
+
+Randomize kontrollü klinik araştırmaları içeren sistematik derleme ve meta-analizlerinden
+elde edilen kanıtlar I.derece, en az bir randomize klinik denemeye dayanan kanıtlar II.
+derecede yer alır. Diğer düzeyler randomize olmayan araştırmalardır.
+
+
+
+
+                                                                                   Sayfa 13 / 18
+EK-6 ETKİLİLİK TABLOSU
+Yayımlanmış veya Raporlanmış Klinik Araştırma Verilerine İlişkin Özet Tablo
+Karşılaştırmalı Etkililik Analizleri
+
+
+  Kaynak Yayının/Raporun             Amaç      Araştırma Türü       Kanıt Düzeyi      Yöntem      Sonuç
+  Başlığı, Kaynak Ve Tarihi
+
+
+[1]                                  [2]       [3]                 [4]               [5]          [6]
+
+
+
+
+[1] Kaynak: Yazar, başlık, dergi adı, yıl, cilt, sayfa
+[2] Amaç: Çalışmanın amacı
+[3] Araştırma türü: Randomize kontrollü, körlenmiş (maskelenmiş) çalışma, kohort, vaka
+kontrol, vb.
+[4] Kanıt düzeyi: Ek-5 Tablo 1’de belirtilen sıralamaya göre yapılır.
+[5] Hasta sayısı: Araştırmaya dahil edilen hasta sayısı, hasta özellikleri: Yaş, cinsiyet, hastalık
+düzeyi, diğer hastalıkları, temel dahil etme ve çıkarma ölçütleri, tedavi süresi, karşılaştırma
+grup(ları), izleme süresi.
+[6] Sonuç: Birincil ve ikincil sonlanım ölçütleri
+
+
+
+
+                                                                                     Sayfa 14 / 18
+EK-7 GÜVENLİLİK TABLOSU
+Yayımlanmış veya Raporlanmış Klinik Araştırma Verilerine İlişkin Özet Tablo:
+Karşılaştırmalı Güvenlilik Analizleri
+
+
+   Kaynak
+ Yayının/Rap
+                   Araştırma        Kanıt          Advers           Tedavi                       İzleme
+ orun Başlığı,                                                                   Karşılaştır
+                     Türü           Düzeyi         Etkiler          Grubu                        Süresi
+  Kaynak ve                                                                      ma Grubu
+    Tarihi
+ [1]               [2]            [3]            [4]          [5]                [6]            [7]
+
+
+
+
+[1] Kaynak: Yazar, başlık, dergi adı, cilt, yıl, sayfa.
+[2] Araştırma türü: Randomize kontrollü, körlenmiş (maskelenmiş) çalışma, kohort, vaka
+kontrol, vd.
+[3] Kanıt düzeyi: Ek-5 Tablo 1’de belirtilen sıralamaya göre yapılır.
+[4] İlaca ilişkin advers etkilerin ciddi olanlar ve olmayanları ayrı ayrı listelenir (ciddi advers
+etki tanımı güncel Beşeri Tıbbi Ürün Ruhsatı Sahipleri İçin Farmakovijilans Kılavuzunda
+belirtildiği şekilde anlaşılmalıdır).
+[5] ve [6] Tedavi ve karşılaştırma grubunda advers etki ortaya çıkan kişi sayısı ve yüzdesi,
+belirtilmişse p değeri ve güven aralığı.
+[7] İzleme süresi: Hastaları izleme süresi.
+
+
+
+EK-8 JENERİK İLAÇLAR İÇİN KARŞILAŞTIRMA TABLOSU
+
+                  Farmasötik                                           Kamu
+                                   Ambalaj      Perakende Satış                        Kamu           Birim
+   İlacın Adı       Formu,                                           İskontosu
+                                   Miktarı          Fiyatı                             Fiyatı         Fiyatı
+                    Yitiliği                                            (%)
+ Yeni ilaç
+ İlaç A
+ İlaç B
+ İlaç C
+
+
+
+
+                                                                                        Sayfa 15 / 18
+EK-9 YENİ TEDAVİ DENGESİ TABLOLARI
+
+9.1. İlaç bilgisi
+ İlacın adı
+ Etkin madde/maddelerin adı
+ Farmasötik formu, yitilik ve birim fiyat
+ Terapötik grubu
+ İlgili alternatifler (ilaç dışı dahil)
+ İlacın reçeteleme, kullanım ve ödeme
+ kurallları önerisi
+
+9.2. Endikasyon ve dozaj bilgisi
+   Prospektüs veya kısa ürün bilgisinde
+                                                Bu endikasyon/endikasyonlar için tavsiye
+             (KÜB) yer alan
+                                                      edilen tedavi dozu ve süresi
+        endikasyon/endikasyonlar
+
+
+
+9.3. İlaç maliyeti/hasta/ay*bilgisi
+         Endikasyon/endikasyonlar                 Kamu için toplam ilaç maliyeti/hasta/ay*
+
+
+
+* Bir aydan daha kısa süreli tedaviler belirtilmeli ve maliyet buna göre hesaplanmalıdır.
+
+9.4. İlacın endikasyon/endikasyonlarının Türkiye’de tahmini prevalansı ve tahmini
+hasta sayısı
+                                                   Kullanıldığı
+                                                     tanının
+     Tahmini hasta sayısı       Popülasyon                         Tahmini hasta sayısı
+                                                    tahmini
+                                                   prevalansı
+Kullanıldığı tanı 1
+Kullanıldığı tanı 2
+
+
+9.5. İlacın;
+        9.5.1. Tahmini bütçe etkisi
+                Tahmini Bütçe Etkisi                       1.yıl         2.yıl              3.yıl
+İlacı kullanması muhtemel hasta sayısı oranı (%)
+İlacı kullanması muhtemel hasta sayısı
+Hasta başına yıllık kutu adedi
+İlacın yıllık toplam kutu adedi
+İlacın kamu maliyeti
+ Bütçe etkisi
+* Tabloda yeralan “yıl” ibaresi içinde bulunulan takvim yılını değil 12 (on iki) aylık süreleri
+ifade eder.
+
+                                                                                  Sayfa 16 / 18
+9.5.2 Pazar dengesi
+                                             Mevcut
+            Birim Kamu Maliyeti                       1.yıl   2.yıl       3.yıl
+                                             Durum
+İlaç A
+İlaç B
+İlaç C
+Yeni ilaç
+
+                                             Mevcut
+    Pazar Dağılımı -Ünite -Yeni İlaç Hariç            1.yıl   2.yıl      3.yıl
+                                             Durum
+Toplam Pazar
+İlaç A
+İlaç B
+İlaç C
+
+                                             Mevcut
+      Yeni İlaç Hariç Pazar Dengesi- ₺                1.yıl   2.yıl      3.yıl
+                                             Durum
+Toplam Pazar:
+İlaç A
+İlaç B
+İlaç C
+
+                                             Mevcut
+    Pazar Dağılımı- Ünite -Yeni İlaç Dahil            1.yıl   2.yıl      3.yıl
+                                             Durum
+Toplam Pazar:
+İlaç A
+İlaç B
+İlaç C
+Yeni ilaç
+
+                                             Mevcut
+      Yeni İlaç Dahil Pazar Dengesi- ₺                1.yıl   2.yıl      3.yıl
+                                             Durum
+Toplam Pazar:
+İlaç A
+İlaç B
+İlaç C
+Yeni ilaç
+
+
+
+
+                                                               Sayfa 17 / 18
+EK-10 RUHSAT ALINMAKSIZIN KONTROL BELGESİ İLE SATIŞINA İZİN
+VERİLEN ÜRÜNLER TABLOLARI
+
+10.1. Ürün bilgisi:
+ Ürünün adı
+ İçeriği
+ Birim fiyatı
+ İlgili alternatifler (varsa)
+ Başvuru sahibinin ürünün reçeteleme,
+ kullanım ve ödeme koşulları önerisi
+
+
+10.2. Kullanım alanı ve günlük kullanım miktarı:
+           Kullanıldığı Tanı               Tavsiye edilen kullanım miktarı ve süresi
+
+
+
+10.3. Maliyet/hasta/ay bilgisi
+           Kullanıldığı Tanı                      Kamu için toplam maliyet/hasta/ay
+
+
+
+10.4. Kullanıldığı hastalıkların Türkiye’de tahmini prevalansı/hasta sayısı
+                                                    Kullanıldığı
+   Tahmini hasta sayısı        Popülasyon             tanının            Tahmini hasta sayısı
+                                                tahmini prevalansı
+Kullanıldığı tanı 1
+Kullanıldığı tanı 2
+
+
+10.5. Pazar dağılımı tahminleri
+                                          Türkiye’de kullanacak hasta sayısı
+  Kullanıldığı Tanı              1. yıl           2. yıl                 3. yıl
+
+
+
+
+                                    Türkiye’de ürünün dahil olduğu grup içindeki
+                                                   pazar dağılımı
+  Kullanıldığı Tanı              1. yıl           2. yıl                3. yıl
+
+
+
+10.6. Doğrudan maliyet
+                                               Kamuya toplam maliyet
+  Kullanıldığı Tanı              1. yıl          2. yıl                   3. yıl
+
+
+
+
+                                                                                   Sayfa 18 / 18
+

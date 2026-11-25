@@ -1,0 +1,114 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/73884
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4604115
+ADI: EMANET İŞLEMLERİ HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: c94074e342271150b6a1f0578fea4b3e1249bcacc692dc54cc22e5abed672f8c
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                  T.c.
+                                            SOSY AL GDVENLiK KURUMU BASKANLIGI
+                                                    Strateji Gelistirme Baskanhgi
+
+
+
+Sayi : 17636183/01006/4604115                                                                  08/09/2015
+Konu : Emanet Islemleri.
+
+                                                           GENEL YAZI
+
+          Bilindigi tizere, 03/07/2015 tarih ve 3536938 sayili gene I yazirrnzla "Red ve iade
+Islemleri'tne yonelik olarak uygulamaya acilan sistemsel kontroller sonucu soz konusu islernlere
+iliskin muhasebe uygulamalannm ne sekilde yapilmasi gerektigi hususunda muhasebe birimlerimiz
+bilgilendirilmis, ayrn zamanda emanet islernleri ile ilgili olarak da ayrn yonde calismanm
+baslanldigi, sisteme konulacak cift imza kontroltine iliskin bu cahsmamn da kisa bir sure soma
+tamamlanarak uygulamaya acilacagi bildirilmistir.
+           Bu kapsamda, emanet aktarma islemlerine iliskin daha kontrollti bir yapmm tesis
+edilmesini teminen baslatilan soz konusu cahsma tamamlannus olup tahsilat, tahsilat iptal ve diger
+sekillerde emanet hesaplanna alman tutarlann kisiye odenmesi, iadesi, kisinin baska borcuna
+mahsubu, baska kisiye iadesi ve baska kisinin borcuna mahsubu islemleri icin de talep ve onay
+mekanizmasi getirilerek cift imzah islem yapilmasi uygulamaya acilrmstir.
+           Emanet aktarma islemlerindeki bu dtizenleme; gerek tasra gerekse merkezdeki muhasebe
+birimlerimizde emanet islemlerinin disipline edilmesi, farkh uygulamalann ortadan kaldinlmasi,
+odeme sureclerinde gerekli kontrollerin yapilmasi, islemleri yapanlar acismdan ise mali ve idari
+yonden hukuki sonuclara maruz kahnmamasnu saglamak amaciyla yapilrmstir.
+           Bu cercevede; kisi emanetindeki bir tutann baska kisiye veya kisilere odenmesinde iki
+farkli yetkinin ve iki farkh kisinin imzasi zorunlu hale getirilmistir. Burada muhasebe birim
+kullamcismm talebi olusturup beIge eklemesi gerekmektedir. Olusturulan talep ise muhasebe
+yetkilisi/yardimctsi tarafmdan beIge kontrolti yapilarak onaylanmaktadir.
+           Emanetteki bir tutann ayru kisinin baska bir hesabma aktanlmasmda, ayru kisinin varsa
+Kurumumuza olan borcunun kapatilmasmda ya da bu emanetin mevzuat geregi gelir hesaplanna
+alinmasi i~lemlerinde ise, eski emanet aktarma i~lemlerinin aynen uygulanmasma devam edilecek,
+aktarma talebi olu~turulmayacaktIr.
+           Buna gore, emanet kaYltlannda bekleyen tutarlann gerc;:ek veya ttizel ki~ilerin talep
+dilekc;:esine istinaden ba~ka ki~iye aktanlmasmda yapIlacak i~lemler ana hatlanyla a~aglda
+aC;:lklanml~ve ekran gortinttileri de ekte sunulmu~tur.
+           -Harcama biriminden gelen talep yazlsl veya muhasebe birimine direkt gelen ki~i dilekc;:esi
+tizerine muhasebe birim kullamclsl tarafmdan oncelikle "Emanet i~lemleri- Emanet Aktarma"
+mentistinden i~leme ba~lamlacaktlr.
+           -Yukanda da belirtildigi tizere, "sadece farkh bir ki~iye yapilacak aktarmalar ic;:ingec;:erli
+olmak tizere" ekte yer alan ekran gortinttilerine gore once emanet aktarma talebi olu~turulacaktlr.
+(Bu mentiden yapllan diger aktarmalarda, gelire alma, aym ki~inin ba~ka emanetine aktarma ve
+diger benzer aktarmalarda eskiden oldugu gibi i~lem yapIlmaya devam edilecektir)
+           -Talebi giren muhasebe birim kullamclsl daha soma "Emanet Aktarma Muhasebele~tir"
+ekranma girerek "imzala" butonuna basacak ve ekrana elektronik imza appleti ac;:dacaktlr. Burada
+
+Bu beige, 5070 sayill Elektronik imza Kanununun 5 inci maddesi geregince gUvenli elektronik imza ile imzalalllnI~tlr
+Adres liyabey Cad. No:6 06520 BalgatlANKARA                                 Aynntlll bilgi ic;;inirtibat Bulent OlCAN $b Md.
+Tel: (312) 2078568 Faks: (312) 2078146
+e-posta: bozcan3@sgk.gov.tr Elektronik Ag www.sgk.gov.tr
+isleme iliskin belge ve ekler girildikten                  soma imzalancaktir.
+        -imzalanan talep, muhasebe yetkilisi emanet aktarma ana menilsilndeki    "Emanet Aktarma
+Muhasebelestir"   alt menusunde kayit olarak gozukecektir. Ekler ve beige kontrolu ilgili sekmeden
+yapildiktan soma "Muhasebelestir" sekmesi ile muhasebe fisi olusturulmus olacaktir.
+          - Boylece muhasebe birim kullamcilanna ek ekleme ve imzalama imkaru saglanus
+olmakta, aynca ek olarak eklenecek belgelerin yaninda aktarmanm detaymi gosteren bir belge de
+eklenrnis olacaktir.
+          - Merkezdeki "Gelir Muhasebe Birimi" ve "Yetkilisi" adma illerde yapilan muhasebe
+islemlerine iliskin olarak da; emenetten farkh kisilere yapilan odemelerde iki kullarucih islem
+yapilmasi, merkez gelir muhasebe biriminde yetkilendirilmis muhasebe birim kullanicilan
+tarafindan talep olusturulmasi ve muhasebe yetkilisi yardimcisi tarafindan da onaylanarak islemin
+tamarnlanmasi gerekmektedir. Bunun icin "Merkezdeki Gelir Muhasebe Birimi"ne bagh muhasebe
+birim kullamcilanrun tarnmlanmasi gerekmekte olup, bu gorevi yapacak en az bir kisinin
+belirlenerek 'LC, Kimlik Numarasi ve ad-soyad bilgilerinin 14/09/2015 tarihine kadar Strateji
+Gelistirme Baskanligi Muhasebe Daire Baskanligma resmi yazi ile ve aynca "baltin2@sgk.gov.tr"
+ve "emacit@sgk.gov.tr" adresine e-posta olarak gonderilmesi gerekmektedir.
+         Mali Hizmetler Sosyal Guvenlik Merkezleri ile Merkez Muhasebe Birimlerinde bu
+islemler yapilmadan once emanet kayitlan kontrol edilerek odernenin mukerrer olmamasina dikkat
+edilecek ve odeme islemi yukandaki aciklamalar dogrultusunda gerceklestirilecektir.
+         Ote yandan, muhasebe islem fisleri de farkli kisilerce ve en az iki kisinin imzasma haiz
+olarak olusturulrnaya baslanmis olup, sistem tarafmdan bu kontrol otomatik olarak yapilacaktir.
+Bunun disindaki yetkilendirme ve devir islerni sonucu atilan imzalardan ve gerceklesen odeme
+islemlerinden yetkilendirme ve devir islemini yapanlar sorumlu bulunmaktadir.
+         Soz konusu uygulamalar cercevesinde en az iki farkh kisinin irnzasi kurali ve konunun
+hassasiyeti goz onunde bulundurularak gerekli tedbirlerin almmasi gerekmektedir. Mali konularda
+gerekli tedbirlerin almmamasindan kaynaklanacak muhtemel zararlarda; ilgili muhasebe birimleri
+yamnda ilgili servislerin ve harcama yetkililerinin de idari ve mali sorumluluklannm bulundugu
+hususu dikkate almarak, i~lemlerin yukanda belirlenen sUreyler dahilinde yapIlmasl, harcama ve
+ozellikle muhasebe birimlerinin mUkerrer bir odemeye flrsat vermeden i~lemleri tamamlamalan
+gerekmektedir.
+         Bilgilerinizi ve geregini onemle rica ederim.
+
+
+
+                                                                                            Muhiddin SAHiN
+                                                                                         Strateji Geli~tirme Ba~kam
+EK:
+1- Kullamcl kIlavuzu (l adet 2 sayfa)
+
+
+
+DAGITIM:
+Geregi;
+Ta~ra Te~kilatl (Mali Hizmetler SGM)
+Gelir Muhasebe Birimi
+Gelir Odeme Muhasebe Sube MUdUrli.igU
+Merkez Muhasebe ~ube Mildilrli.igil
+
+
+Bu beIge, 5070 sayill Elektronik imza Kanununun 5 inci maddesi geregince gUvenli elektronik imza ile imzalanml~tlr
+Adres: Ziyabey Cad. No:6 06520 BalgatiANKARA                                     Aynntlll bilgi i<;inirtibat: BOlentOZCAN $b Md.
+Tel: (312) 207 8568 Faks (312) 2078146
+e·posta: bozcan3@sgk.gov.tr Elektronik Ag:www.sgk.gov.tr
+

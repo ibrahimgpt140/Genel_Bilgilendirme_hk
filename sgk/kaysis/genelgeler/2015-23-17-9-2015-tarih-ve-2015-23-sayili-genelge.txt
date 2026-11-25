@@ -1,0 +1,992 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/60371
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2015/23
+ADI: 17/9/2015 TARİH VE 2015/23 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 1d5ecd7216c73c0e923447f82e9e610773ffcb2c72c4f5de32255b216cba1f8c
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                          SOSYAL GUVENLIK KURUMU BA§KANLIGI
+                              Emeklilik Hizmetleri Genel Miidiirliigii
+
+
+Sayi : 56766929 - 113 / 5-2 O
+Konu : £ahsma Giicii Kaybi ile Meslekte Kazanma Giicii
+      Kayip Orani Tespit Islemleri
+
+
+
+
+                                                GENELGE
+                                                 2015 /
+
+
+          10/09/2014 tarihli ve 6552 sayili Is Kanunu ile Bazi Kanun ve Kanun Hiikmiinde
+Kararnamelerde Degisiklik Yapilmasi ile Bazi Alacaklarm Yeniden Yapilandmlmasma Dair
+Kanun, 11/09/2014 tarihli ve 29116 (Miikerrer) sayili Resmi Gazete'de yayimlanarak
+yiiriirliige girmis olup; Kanunun 41 inci maddesiyle 5510 sayili Sosyal Sigortalar ve Genel
+Saghk Sigortasi Kanununun 28 inci maddesinde degisjklik yapilmi§tir.
+          Bilindigi iizere, 5510 sayili Kanunun 25 ve 28 inci maddeleri geregince yapilan,
+9ahsma giicii kaybina ilisjan maluliyet ve oran tespitlerinde Maluliyet Tespiti Islemleri
+Yonetmeligi esas almmaktadir. 5510 sayili Kanunun 28 inci maddesinde yapilan degi§iklik ve
+uygulamada yasanan bazi aksakhklar iizerine 18/03/2015 tarihli ve 29299 sayili Resmi
+Gazete'de "Maluliyet Tespiti Isjemleri Yonetmeliginde Degi§iklik Yapilmasma Dair
+Yonetmelik" yayimlanarak yuriirliige girmistir.
+          Diger taraftan Kurum Yonetim Kurulunun;
+          27/02/2014 tarih ve 2014/82 sayili karan ile Maluliyet ve Saghk Kurullari Daire
+Baskanhgmin, Emeklilik Hizmetleri Genel Mudiirliigii biinyesine ahnmasma,
+          24/05/2013 tarih ve 2013/179 sayili karan ile Ankara Sosyal Guvenlik II Miidurliigii,
+Kocatepe Saghk Sosyal Guvenlik Merkezi biinyesinde yer alan Kurum Saghk Kurullarmda
+yapilan meslek hastahgi dosyalanna iliskin degerlendirmelerin Istanbul ve Izmir Sosyal
+Guvenlik II Miidiirluklerinde bulunan Kurum Saghk Kurullarmda da yapilmasma,
+          20/03/2014 tarih ve 2014/122 sayili karan ile de Ankara Sosyal Guvenlik II
+Miidiirliigii, Kocatepe Saghk Sosyal Guvenlik Merkezi biinyesinde yer alan Kurum Saghk
+Kurullarmda yapilan is kazasi dosyalanna iliskin degerlendirmelerin Istanbul ve Izmir Sosyal
+Guvenlik II Miidiirliiklerinde bulunan Kurum Sagllk Kurullarmda da yapilmasma,
+          karar verilmis.tir.
+          Buna gore, yukanda belirtilen degis.iklikler ile birlikte uygulamada kars.ilas.ilan
+sorunlara, tereddiit edilen hususlara ve e-maluliyet yazihminm kullanllmasma ilisjdn usul ve
+esaslar as.agida aciklanmistir.
+
+       1.Maluliyet Tespiti Islemleri Yonetmeligi degisjkligi He ilgili uygulamalar
+       1.1. Maluliyet ve Saghk Kurullari Daire Baskanligmm Emeklilik Hizmetleri
+Genel Mudurlugu biinyesine almmasi
+       Maluliyet Tespiti Islemleri Yonetmeliginde Degis.iklik Yapilmasma Dair
+Yonetmeligin 1 inci maddesi ile Maluliyet Tespiti is,lemleri Yonetmeliginin 4 iincii
+maddesinin birinci fikrasmm (f) bendinde yer alan "Genel Saghk Sigortasi Genel
+Mudiirliigiinii" ibaresi, "Emeklilik Hizmetleri Genel Miidiirliigiinii" §eklinde degistirilmis.tir.
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                        Bilgi ifin: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                      Daire Ba?kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr         Telefon: (0312) 458 71 34
+      Konu ile ilgili mevzuatta Genel Saghk Sigortasi Genel Miidiirlugiine yapilmis atiflar,
+Emeklilik Hizmetleri Genel Miidiirliigiine yapilmi§ sayilacaktir. Diger yandan, Maluliyet ve
+Saghk Kurullan Daire Baskanhgi ile yapilacak yazismalarda bu hususa dikkat edilecektir.
+
+          1.2. Ba§ka birinin siirekli bakimma muhta^ derecede agir engelli 9ocugu bulunan
+kadm sigortahlar
+          5510 sayih Kanunun 28 inci maddesinin sekizinci fikrasmda; ba§ka birinin siirekli
+bakimma muhta9 derecede malul 9ocugu olan kadm sigortahlarin, emeklilik veya yashhk
+ayligi talebinde bulunmalan halinde, Kanunun yiiriirliige girdigi tarihten sonra ge9en prim
+odeme giin sayilarmm dortte birinin prim odeme gun sayisma eklenmesi ve eklenen siirenin
+ya§tan diis.iilmesi hakki tanmmi§tir.
+          6552 sayih Kanunun 41 inci maddesi ile "malul" ibaresinin "agir engelli" seklinde
+degistirilmesi iizerine, Maluliyet Tespiti Islemleri Yonetmeliginde Kanuna uygun diizenleme
+yapilmistir.
+          Buna gore; Maluliyet Tespiti Islemleri Yonetmeliginde Degisiklik Yapilmasma Dair
+Yonetmeligin;
+          1 inci maddesi ile Maluliyet Tespiti Islemleri Yonetmeliginin 4 iincii maddesinin
+birinci fikrasmm (9) bendinde yer alan "malul" ibaresinin "agir engelli" olarak degistirildigi,
+          2 nci maddesi ile Maluliyet Tespiti Islemleri Yonetmeliginin "Baska birinin siirekli
+bakimma muhta9hk halleri" bashkh 12 nci maddesinin birinci fikrasmda yer alan "ve kadm
+sigortahlarin malul gocuklanmn" ibaresinin yiiriirliikten kaldinldigi ve birinci fikradan sonra
+gelmek iizere " Kadm sigortahlarin ba§ka birinin siirekli bakimma muhtac, derecede agir
+engelli gocuklarmin tespitinde, yiirurlukte olan Ozurluluk Olgutu, Smiflandirmasi ve
+Ozurlulere Verilecek Saghk Kurulu Raporlan Hakkmda Yonetmelik esas almir" hiikmiine
+amir ikinci fikranin eklendigi,
+          6 nci maddesi ile de Maluliyet Tespiti Isjemleri Yonetmeliginde Degisiklik
+Yapilmasma Dair Yonetmeligin 2 nci maddesinin 11/09/2014 tarihinden ge9erli olmak iizere,
+yayimi tarihinde yiiriirliige girdigi,
+          hiikiim altma ahnmis,tir.
+          Dolayisiyla Kurum saghk kurullannca, kadm sigortahlarin baska birinin siirekli
+bakimma muhta9 derecede agir engelli 9ocuklannin bu durumlanmn tespitinde talep tarihinde
+yiiriirliikte olan "Oziirliiliik Ol9iitii, Smiflandirmasi ve Ozurlulere Verilecek Saghk Kurulu
+Raporlan Hakkmda Yonetmelik" hiikiimleri esas ahnacaktir.
+          Degisikligin yiiriirliige girdigi 11/09/2014 tarihinden sonra yapilan talebe istinaden
+Maluliyet Tespiti Islemleri Yonetmeligine gore yapilan degerlendirme sonucu, 9ocugunun
+baska birinin surekli bakimma muhta9 derecede malul sayilmadigma karar verilen kadm
+sigortahlarin talepte bulunmalan halinde, karara esas raporu i9erir dosya, ilgili Kurum saghk
+kurulunca bu defa "Ozurluluk Ol9utii, Smiflandirmasi ve Oziirliilere Verilecek Saghk Kurulu
+Raporlan Hakkmda Yonetmelik" 9er9evesinde degerlendirilerek agir engellilik durumuna
+iliskin karar verilecektir.
+           Bu sekilde yeniden talepte bulunanlardan, aynca rapor istenmeyecek, ancak sigortah
+tarafmdan temin edilmis, Kurumca yetkilendirilmi§ saghk hizmeti sunuculannca diizenlenmi§
+yeni rapor ibraz edilmesi halinde, bu rapor da degerlendirilecektir.
+          5510 sayih Kanunun 28 inci maddesinin sekizinci fikrasiyla kadm sigortahlara
+saglanan erken emeklilik hakki 01/10/2008 tarihinden sonraki 9ah§malar i9in verilmi§tir. 6552
+sayih Kanunun 41 inci maddesi ile Kanun metninde degi§iklik yapilmaksizm "malul" ifadesi
+"agir engelli" olarak degi§tirildiginden; degerlendirmeye esas saghk kurulu rapor tarihinden
+farkh bir tarihe iliskin (01/10/2008 ile 11/09/2014 tarihleri arasi) baska birinin surekli
+bakimma muhta9 derecede agir engellilik tespitinin gerekmesi halinde, Kurum saghk
+kurullannca agir engellilik kriterlerine gore degerlendirme yapilacaktir.
+
+
+
+
+Mithatpa?a Cad. No: 7 Sihhiye/ANKARA                                      Bilgi isin: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                    Daire Ba§kani
+e-Posta: ehgmmaluliyet^sgk.gov.tr. internet adresi: www.sgk.gov.tr       Telefon: (0312) 458 71 34
+                                                                                                   2
+        Ornek 1: Baska birinin siirekli bakimma muhta^ derecede agir engelli 9ocugu
+bulundugundan bahisle tespit talebinde bulunan ve ilk ise girisi 01/10/2008 tarihinden once
+olan kadm sigortahmn talep tarihi 11/5/2015, agir engellilik tespiti istenen 9ocugun dogum
+tarihiise 27/09/20 lOdur.
+        Bu durumda, sosyal giivenlik il miidurliikleri/sosyal giivenlik merkezlerince oncelikle
+degerlendirmeye esas almacak rapor/saghk kurulu raporuna gore sigortah 9ocugunun baska
+birinin siirekli bakimma muhta9 derecede agir engelli olup olmadigimn, agir engelli sayilmasi
+halinde ise bu durumunun 9ocugun dogum tarihi olan 27/09/2010 tarihinde de bulunup
+bulunmadigmin tespiti istenecek, Kurum saghk kurullannca da sigortah 9ocugunun dogum
+tarihi olan 27/09/2010 tarihinde de baska birinin siirekli bakimma muhta9 derecede agir
+engelli olup olmadigimn tespiti yapilacaktir.
+
+        Ornek 2: Baska birinin siirekli bakimma muhta9 derecede agir engelli 9ocugu
+bulundugundan bahisle tespit talebinde bulunan ilk ise giris tarihi 01/10/2008 tarihinden once
+olan kadm sigortahnm talep tarihi 01/07/2010, 9ocugun dogum tarihi ise 04/06/2002 dir.
+        Sigortahmn talep tarihinde Kurum saghk kurulunca yapilan degerlendirmede "sigortah
+9ocugunun baska birinin siirekli bakimma muhta9 derecede malul olmadigi" karan verilmis,
+bu defa kadm sigortah yapilan degisiklik sonrasinda 02/04/2015 tarihinde yeniden talepte
+bulunmustur. Bu durumda, sosyal giivenlik il miidiirliikleri/sosyal giivenlik merkezlerince
+oncelikle degerlendirmede esas almacak rapor/saghk kurulu raporuna gore sigortah
+9ocugunun baska birinin siirekli bakimma muhta9 derecede agir engelli olup olmadigimn, agir
+engelli sayilmasi halinde bu durumun 01/10/2008 tarihinde de bulunup bulunmadiginm tespiti
+istenecek,Kurum saghk kurullannca da sigortah 9ocugunun 01/10/2008 tarihinde de baska
+birinin siirekli bakimma muhta9 derecede agir engelli olup olmadigimn tespiti yapilacaktir
+
+        1.3. Sigortalilarm maluliyet tespiti
+        Maluliyet Tespiti islemleri Yonetmeliginde Degisiklik Yapilmasma Dair
+Yonetmeligin;
+        2 nci maddesi ile Maluliyet Tespiti Islemleri Yonetmeliginin "Baska birinin siirekli
+bakimma muhta9 olma halleri" bashkh 12 nci maddesinin birinci fikrasmm (9), (d) ve (e)
+bentlerindeki "kaybi" ibarelerinden sonra gelmek iizere "veya yok hiikmiinde olmasi" ibaresi,
+        5 inci maddesi ile Maluliyet Tespiti islemleri Yonetmeligi eki Hastahk Listesinin
+"Onkoloji" bashkh (E) maddesinin yirmi sekizinci fikrasmda yer alan "tiim malign
+hastahklar" ibaresinden sonra gelen "teshis" ibaresi 9ikanlmis, yerine "maluliyet talep
+tarihinden onceki bir yil i9inde tarn almak kaydiyla, talebe istinaden diizenlenmis saghk
+kurulu raporu " ibaresi,
+        eklenmistir.
+        Buna gore, Maluliyet Tespiti islemleri Yonetmeliginin soz konusu bentlerindeki
+uzuvlar kayip olmamakla birlikte tarn olarak islevlerini yitirmis iseler, maluliyet tespitlerinde
+kayip kapsammda degerlendirilecektir. Bu maddenin yiiriirliik tarihi 11/09/2014 oldugundan,
+bu tarihten sonraki taleplere iliskin maluliyet degerlendirmelerinde uzuv kaybi olmamasi
+nedeniyle baska birinin siirekli bakimma muhta9 olmadigi karan verilmi§ olan sigortalilann,
+yeniden talepte bulunmalan halinde, hastaneye sevk yapilmadan ilk degerlendirmede esas
+alman saghk kurulu raporu/raporlan soz konusu degisiklik kapsammda tekrar
+degerlendirilecektir.
+        Maluliyet Tespiti Islemleri Yonetmeliginde Degisiklik Yapilmasma Dair Yonetmelige
+istinaden; Maluliyet Tespiti Islemleri Yonetmeligi eki Hastahk Listesinin "Onkoloji" bashkh
+(E) maddesinin yirmi sekizinci fikrasi "... dismdaki tiim malign hastahklar maluliyet talep
+tarihinden onceki bir yil i9inde tarn almak kaydiyla, talebe istinaden diizenlenmi§ saghk
+kurulu raporu tarihinden itibaren 18 ay suresince malul kabul edilir ve bu sure sonunda
+hastahk durumuna gore maluliyet yoniinden tekrar degerlendirilir." seklinde yeniden
+diizenlenmistir.
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                      Bilgi J9in: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                   Daire Ba§kani
+ e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr      Telefon: (0312) 458 71 34
+                                                                                                   3
+         Bu maddenin yiiriirliik larihi, Maluliyet Tespiti Islemleri Yonetmeliginde Degisiklik
+Yapilmasma Dair Yonetmeligin yiiriirliik tarihi oldugundan, 18.03.2015 tarihinden sonra ilk
+defa maluliyet tespit talebinde bulunanlar hakkinda bu fikra hiikmiine gore degerlendirme
+yapilacaktir.
+        Kanser hastahklan, oncelikle Maluliyet Tespiti Islemleri Yonetmeligi eki Hastahk
+Listesinin "Onkoloji" bashkli (E) maddesinin 28 inci fikrasi hari9 diger fikralanna gore
+degerlendirilecektir. Bu degerlendirme sonucunda, malul sayilamayacak olanlardan talep
+tarihinden onceki bir yil i9inde tani alanlar, Maluliyet Tespiti is.lemleri Yonetmeligi eki
+Hastahk Listesinin (E) maddesinin 28 inci fikrasi hiikmiince, taleplerine istinaden
+diizenlenmi§ saghk kurulu raporu tarihi itibariyle 18 ay suresince malul kabul edilerek, bu
+siire sonunda kontrol muayenesine tabi tutulacaktlr. Kontrol muayenesi sonucu diizenlenecek
+saghk kurulu raporu Maluliyet Tespiti Islemleri Yonetmeliginin ilgili hiikumlerince
+degerlendirilecektir.
+
+          1.4. Ya§hhk sigortasma iliskin cahsma giicii kaybi tespiti
+          Maluliyet Tespiti Islemleri Yonetmeliginde Degisiklik Yapilmasma Dair
+Yonetmeligin 3 iincii maddesi ile Maluliyet Tespiti isjemleri Yonetmeliginin 13 iincii
+maddesindeki "30/03/2013 tarihli ve 28603 sayih Resmi Gazete 'de yayimlanan" ibaresi
+yiiriirliikten kaldmlmistir.
+          Buna gore, 5510 sayih Kanunun 28 inci maddesinin besinci fikrasi geregince %40 ile
+%59 arasinda 9ahsma giicii kaybi oldugu iddiasi ile talepte bulunan sigortahlar hakkinda talep
+tarihinde yiiriirliikte olan Oziirliiliik O^iitii, Simflandirmasi ve Ozurliilere Verilecek Saghk
+Kurulu Raporlan Hakkinda Yonetmelik 9er9evesinde degerlendirme yapilacaktir.
+
+        1.5. Kurum saghk kurulu kararlarma itiraz
+        Maluliyet Tespiti Islemleri Yonetmeliginde Degi§iklik Yapilmasma Dair
+Yonetmeligin 4 iincii maddesi ile Maluliyet Tespiti Islemleri Yonetmeliginin 18 inci maddesi
+"Kurum saghk kurullannca verilen kararlara yapilan itirazlar, Sosyal Sigorta Yiiksek Saghk
+Kurulunda degerlendirilir" seklinde degistirilmistir.
+        Daha once Kurum saghk kurulu kararlarma, ilgililere teblig tarihinden itibaren 6 ay
+i9erisinde yapilan itirazlar degerlendirilmekte iken, bu degisiklikle itirazda sure sarti
+kaldinlmistir. Ilgililerin itirazda bulunmalan halinde, karar ve itiraz tarihi arasinda siire sarti
+aranmaksizm dosyalan Sosyal Sigorta Yiiksek Saghk Kuruluna gonderilecektir.
+        Kurum saghk kurullannca, karar verilebilmesi i9in ek bilgi/belge veya yeniden
+muayene istenmesine dair kararlar maluliyet tespiti i9ermediginden, bu karara yapilan itirazlar
+Sosyal Sigorta Yiiksek Saghk Kuruluna gonderilmeyecektir.
+
+        2. Maluliyet tespitine iliskin diger aciklamalar
+        2.1. Almanya ile mii§terek sigortalilanmizm, sosyal guvenlik sozle§mesi
+kapsammda maluliyet degerlendirmelerinin yapilacagi Kurum saghk kurullan
+        Bilindigi uzere, Almanya ile miisterek sigortahlarimizin dosyalari Yurtdisi
+Sozlesmeler ve Emeklilik Daire Baskanhgmca, bagh bulunduklan sosyal guvenlik il
+miidiirliikleri/sosyal guvenlik merkezlerine devredilmistir. Dosyalarm devredilmesinden
+onceki uygulamada, soz konusu sigortahlarm sosyal guvenlik sozlesmesi kapsammda
+maluliyet degerlendirmeleri, dosyalari Yurtdisi Sozlesmeler ve Emeklilik Daire Baskanhgmda
+bulundugundan; Ankara Sosyal Giivenlik II Miidiirliigii Kocatepe Saghk Sosyal Guvenlik
+Merkezi biinyesinde yer alan Kurum saghk kurullannca yapilmakta idi.
+        Dosyalarm devredilmesi ile birlikte Alman Sigorta Kurumundan ahnan sigortah
+raporlan, Yurtdisi Sozlesmeler ve Emeklilik Daire Baskanhgmca Ankara'da terciime
+edildikten sonra, ilgili miidiirliiklere iade edilmektedir. Soz konusu raporlar ve terciimelerini
+i9erir dosyalar, sosyal guvenlik il miidiirliikleri/sosyal guvenlik merkezlerince, maluliyet
+degerlendirmesi i9in yeniden, Ankara' da bulunan Kurum saghk kuruluna gonderilmektedir.
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                        Bilgi i<?in: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                      Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr         Telefon: (0312) 458 71 34
+                                                                                                       4
+        Maluliyet tespit islemlerinde siirecin kisaltilmasi ve sigortah magduriyetlerinin
+onlenmesi amaciyla, Almanya ile miisterek sigortalilanmizm sosyal giivenlik sozlesjnesi
+kapsammda maluliyet degerlendirmeleri, artik dosyalarmm bulundugu sosyal giivenlik il
+miidiirliikleri/sosyal giivenlik merkezlerinin bagh oldugu Kurum saghk kurullarmda
+yapilacaktir. Buna gore, terciimesi tamamlanan rapor, terciimesi ve gerekli diger belgelerle
+birlikte, (EK-l)'de yer alan listede belirtilmis olan ilgili miidiirliiklerce, bagh bulunduklan
+Kurum saglik kuruluna gonderilecektir.
+
+        2.2. Yurt di§i valismalarmin boi vlamlmasi durumunda maluliyet tespitinde esas
+almacak ilk ise "iris tarihi
+        6552 sayili Kanun ile 3201 sayih Kanunun 5 inci maddesinin be§inci fikrasma eklenen
+"Uluslararasi sosyal guvenlik sozle§melerinde Turk sigortasma giri§inden once akit Hike
+sigortasma girdigi tarihin Turk sigortasma girdigi tarih olarak kabul edilecegine ili§kin ozel
+hiikum bulunan ulkelerdeki sigortahhk siirelerini borglananlann, akit ulkede ilk defa
+gah§maya ba§ladiklan tarih ilk i§e giri$ tarihi olarak kabul edilir." hiikmiine istinaden;
+        29/9/2014 tarih ve 2014/27 sayih Genelge ile ulkemiz ile sosyal guvenlik sozlesmesi
+bulunan iilkelerden, sozlesmede ozel hiikiim bulunan 18 ulkede ge9en sigortahhk siirelerini
+bor9lananlann, Tiirkiye'de hi9 9ahs.masi yoksa ya da sigortalmm akit iilkede 9ah§maya
+basladigi tarih Tiirkiye'deki sigortahhgm ba§langi9 tarihinden once ise; gelir ve ayhklara hak
+kazanma sartlanmn tespitinde, bu ulkelerdeki ilk ise baslama tarihinin Tiirkiye'de ilk ise giris.
+tarihi olarak kabul edilecegi,
+        Uluslararasi sosyal guvenlik sozlesmelerinde ozel hiikum bulunmayan iilkeler ile
+sosyal guvenlik sozlesmesi imzalanmami§ ulkelerde ge9en 9ah§ma siirelerini bor9lananlann
+ise ilk ise giris. tarihinin, Kanunun 5 inci maddesinin ikinci ve U9uncii fikralan hiikmii
+geregince; sigortalmm Tiirkiye'de 9ah§masi yoksa borcun odendigi en son tarihten,
+Tiirkiye'de 9ahsmasi varsa ve Tiirkiye'de 9ali§maya ba§ladigi tarihten onceki siireleri
+bor9lanmak istemesi halinde ise Tiirkiye' de ilk defa 9ah§maya baslamldigi tarihten,
+bor9lamlan giin sayisi kadar geriye gidilerek belirlenmesine devam edilecegi
+         hususlan diizenlenmi§tir.
+        Buna gore, yurt di§i 9ahsmalarmi bor9lanarak maluliyet tespiti talebinde bulunan
+sigortahlarm, degerlendirmede esas almacak ilk i§e giri§ tarihlerinin, soz konusu Genelge
+hiikiimlerine gore tespit edilerek, Kurum saglik kuruluna bildirilmesi gerekmektedir.
+
+        2.3. Malul ^ocuklar
+        8/10/2013 tarihli ve 2013/34 sayih Genelgenin "Sigortahlarm veya Genel Saglik
+Sigortalilarmm Hak Sahibi veya Bakmakla Yiikiimlii Oldugu Qocuklannm Maluliyet Tespiti"
+bashkh boliimiinun 2.3. ve 2.4. fikralarma gore mevcut uygulamada; malul oldugu iddiasi ile
+saglik sigortasmdan veya oliim ayhgmdan yararlanma talebinde bulunan sigortah veya genel
+saglik sigortahsi 9ocugunun, talep tarihinden onceki bir yil i9erisinde Kurumca
+yetkilendirilmis saglik hizmet sunucularmca diizenlenmis saglik kurulu raporunun mevcut
+olmasi halinde hastaneye sevk i§lemi yapilmadan mevcut raporu degerlendirilmek iizere
+gerekli belgelerle birlikte Kurum saglik kuruluna gonderilmekte idi.
+        Maluliyet tespiti i9in talepte bulunan 9ocugun mevcut saglik kurulu raporunun, talep
+tarihinden onceki bir yil i9erisinde diizenlenmi§ olma §arti kaldinlmi§tir.
+        Buna gore, sosyal guvenlik il miidiirliikleri/sosyal guvenlik merkezlerince, sigortah
+9ocugunun talep tarihi ile Kurumca yetkilendirilmis, saglik hizmet sunucularmca diizenlenmis
+mevcut saglik kurulu rapor tarihi arasmdaki siireye bakilmaksizm, rapor diger belgelerle
+birlikte Kurum saglik kuruluna gonderilecektir. Bu degerlendirme sonucu gerekli gormesi
+halinde, Kurulca 9ocugun yeniden muayenesi istenilebilir.
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                       Bilgi \$m: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                    Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr        Telefon: (0312) 458 71 34
+                                                                                                    5
+        2.4. Kurum saghk kurullarma intikal ettirilen dosyalar
+        Kurum saghk kurullarma maluliyet tespiti i9in dosya gonderilmesi islemlerinin
+8/10/2013 tarih ve 2013/34 sayih Genelgenin "1-Sigortahlarm Maluliyet Tespiti" bashkh
+bolumiindeki diizenlemelere gore yapilmasi gerekmektedir.
+        Diger taraftan, 5510 sayih Kanunun 25 inci maddesinin birinci fikrasmda is kazasi
+veya meslek hastahgi sonucu meslekte kazanma giicuniin en az % 60'mi kaybettigi Kurum
+saghk kurulunca tespit edilen sigortahnm malul sayilacagi hiikiim altma almmis olup; en az
+% 60 ve iizerinde meslekte kazanma giicti kaybi orani tespit edilmi§ sigortahlarm, 9ahsma
+giicii kaybi nedeniyle maluliyet tespiti talep etmeleri durumunda, sigortahlarm dosyalan
+Kurum saghk kuruluna gonderilmeden anilan Kanun hiikmiine gore islemlerinin yapilmasi
+gerekmektedir.
+
+        2.5. Kurul kararlarmin tebligi
+        Kurum saghk kurullarmca veya Sosyal Sigorta Yiiksek Saghk Kurulunca tespit edilen
+maluliyet kararlarmin, sosyal giivenlik il miidurliikleri/sosyal giivenlik merkezlerince
+sigortahya yapilacak bildirimlerinde;
+        Kurulda "9ahsma giiciiniin en az %60'im kaybetmediginden malul sayilamayacagi"
+karan verilmesi durumunda "malul sayilamayacagimza karar verilmistir" ,
+        "Maluliyete esas hastahklarm ilk ise giris tarihinde de mevcut olduguna" karar
+verilmesi halinde ise, "maluliyetini gerektirir hastahk ve arazlarm sigortah olarak ilk ise
+girdigi tarihte de mevcut olmasi sebebiyle malulliik ayhgmdan yararlanamayacagi"
+ifadelerinin bulunmasi gerekmektedir.
+
+        3. E-maluliyet yazihmma iliskin hususlar
+        Maluliyet tespit islemlerinin kayit ve takibinin yapilmasi, sonu9larm ve istatistiki
+bilgilerin, tek veri tabamnda ve tek ekranda birlestirilmesini saglayan e-maluliyet yazilimi
+01/01/2015 tarihinden itibaren uygulamaya girmistir.
+
+        3.1. E-maluliyet kapsammda yapilacak tespitler
+        Sigortahlanmiz ile bunlarm hak sahiplerinin maluliyet tespit islemlerinin kisa siirede
+sonu9landinlmasmi teminen; sosyal giivenlik il miidurliikleri/sosyal giivenlik merkezleri ile
+Emeklilik Hizmetleri Genel Miidurliigii Hizmet Akdiyle Qahsanlar Emeklilik Daire
+Baskanhgi ve Yurtdisi Sozlesmeler ve Emeklilik Daire Baskanhklarmca, 5510 sayih
+Kanunun;
+         4 iincii maddesinin birinci fikrasmm (a) ve (b) bentleri kapsammdaki sigortahlar ile
+bunlarm hak sahibi ve genel saglik sigortalllarmm bakmakla yukumlii olduklan 9ocuklannm,
+malul olduklan iddiasi iizerine 9ahsma giicii kaybimn tespitine iliskin talepleri ile varsa
+kontrol muayenelerine,
+         28 inci maddesinin besinci fikrasma gore istenilen yashhk ayhgi baglanmasma esas
+9ahsma giicii kaybi oranma,
+         28 inci maddesinin yedinci fikrasma gore sigortahnm erken yaslandigma,
+         28 inci maddesinin sekizinci fikrasma gore kadm sigortahlarm 9ocuklarmm baska
+birinin siirekli bakimma muhta9 derecede agir engelliliginin tespitine,
+        iliskin talepler, Kurum saglik kurullarma SGK intranet portah altindaki (Uygulamalar-
+Hizmet Sunumu Maluliyet) http://intra3.sgk.intra/maluliyetWEB/login.jsp linki iizerinde yer
+alan e-maluliyet sistemine kaydedilerek gonderilecektir.
+
+       3.2. E-maluliyet sistemine gore kayit ve sevk isjemleri
+       Sigortall veya hak sahibi/bakmakla yiikiimlii olunan 9ocuklarmm sevk isleminin
+sigortahnm en son 9ah§tigi ildeki birim tarafmdan yapilmasi gerekmektedir. Sigortall veya
+hak sahibi/bakmakla yiikiimlii olunan 9ocuklanmn ikamet ettikleri ilin, sigortahnm en son
+9ahsmasimn bulundugu ilden farkh olmasi ve maluliyetin tespiti istemini i9eren sevk talebinin
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                    Bilgi i9in: HUseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                 Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr     Telefon: (0312) 458 71 34
+                                                                                                 6
+ikamet edilen ilde bulunan sosyal giivenlik il miidiirliikleri/sosyal giivenlik merkezlerine
+yapilmasi durumunda talebe ilisjkin dilek9e, e-maluliyet sistemine kaydedilmeden,
+sigortalmm en son 9ahs.masinm bulundugu il miidiirliigiine gonderilecektir. ilgili sosyal
+giivenlik il mudurliigii/sosyal giivenlik merkezi tarafmdan sevk talebi e-maluliyet sistemine
+kaydedilerek, sigortah ya da hak sahibi/bakmakla yiikiimlii olunan 9ocuklann ikamet adresine
+en yakm saghk hizmeti sunucusuna sevki yapilacaktir.
+        Bilindigi iizere, 5510 sayih Kanunun 4 iincii maddesi birinci fikrasimn (a) bendi
+kapsammdaki sigortahlann b'liim tahsis dosyalan Emeklilik Hizmetleri Genel Miidiirliigii
+Hizmet Akdiyle £ahsanlar Emeklilik Daire Baskanhgi ve Yurtdisi Sozlesmeler ve Emeklilik
+Daire Baskanhklannda bulunmaktadir. Bu sigortahlann hak sahibi 9ocuklannin malul oldugu
+iddiasi ile tespit talebinde bulunmalan halinde, maluliyet tespiti i9in Kurum saghk kurullarma
+rapor ve ilgili belgeleri gonderecek unite veya birim ( daire baskanhgi/ sosyal giivenlik il
+miidiirliigii/sosyal giivenlik merkezi) tarafmdan e-maluliyet sistemine kayit yapilacaktir.
+         Hak sahibi dosyalan e-maluliyet sistemine kaydedilirken Kurul iist yazi a9iklama
+kismina "sigortalmm oliim tarihi" mutlaka yazilacaktir.
+         Hak sahibi 9ocuklarm maluliyetine ilisjdn kararlar ve kararlara esas olan saghk kurulu
+raporu ile diger belgeler, sigortalmm oliim tahsis dosyasmda muhafaza edilecektir.
+         Sigortalmm birden fazla 9ocugu hakkmda maluliyet tespit talebinde bulunmasi
+halinde, her bir 9ocuk i9in e-maluliyet sistemine ayn ayn kayit yapilarak Kurum saghk
+kurullarma gonderilecektir.
+
+         3.3. E-maluliyet kapsami disinda bulunan tespitler
+         - 5510 sayih Kanunun 4/1-(c) kapsammdaki sigortahlar ile bunlann bakmakla
+yiikiimlii olduklan/hak sahibi 9ocuklanmn maluliyetlerinin (9ahsma giicii kaybi, vazifelerini
+yapamayacak sekilde meslekte kazanma giicii kaybi dahil ), vazife maluliyetinin, vazife
+malulliik derecelerinin, maluliyetin siirekli veya ge9ici olduguna iliskin tiim isjemlerin tespiti,
+         - Is. kazasi veya meslek hastahgi sonucu meslekte kazanma giicii kaybi oranlannm
+tespiti,
+         - Kurum saghk kurullannca verilen kararlara ili§kin Sosyal Sigorta Yiiksek Saghk
+Kuruluna yapilan itirazlara iliskin talepler
+          e-maluliyet yazihmi kapsami dis.mda oldugundan, bu taleplere iliskin dosyalar
+e-maluliyet sistemine kaydedilmeden Kurullara gonderilecektir.
+
+        4. I§ kazasi ve meslek hastahgi
+        Bilindigi iizere, yalmzca Ankara Sosyal Giivenlik II Miidiirliigii Kurum Saghk
+Kurulunca degerlendirilmekte olan meslek hastahgi dosyalan 01/01/2014, is. kazalan
+dosyalan ise 01/01/2015 tarihinden itibaren Istanbul ve Izmir Sosyal Giivenlik II
+Miidurliikleri Kurum Saghk Kurullannda da degerlendirilmeye basjanmistir. 10/06/2011 tarih
+ve 2011/49 sayih Genelge ile meslekte kazanma giicii kaybi orani tespitiyle ilgili Ankara
+Sosyal Giivenlik II Miidiirliigii Kocatepe Saghk Sosyal Giivenlik Merkezi Kurum Saghk
+Kuruluna yapilan atiflar, soz konusu oran tespitini yapan diger Kurum saghk kurullarma da
+yapilmis. sayilacaktir.
+        £ahs.ma Giicii ve Meslekte Kazanma Giicii Kaybi Orani Tespit Islemleri
+Yonetmeliginde i§ kazasma bagh meslekte kazanma giicii kaybi orani tespitinde esas ahnacak
+saghk kurulu raporlanm diizenlemeye yetkilendirilmis saghk hizmeti sunuculan belirtilmi§tir.
+Bununla birlikte, ge9irilen i§ kazasi sonucu son durumu gosterir saghk kurulu raporunun tarn
+te§ekkiillii Saghk Bakanhgi Devlet Hastanelerince diizenlenmesi durumunda, bu raporlarda
+Kurum Saghk kurullannca degerlendirilecektir.
+        Bu Kurullar arasmda karar standardmin ve uygulamada birlikteligin saglanabilmesi
+     gerekli olan hususlar a§agida a9iklanmi§tir.
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                        Bilgi i?in: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                      Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr         Telefon: (0312) 458 71 34
+                                                                                                     7
+        4.1. Meslekte kazanma gucti kaybi orani (surekli i§ goremezlik derecesi) tespiti
+        Sigortalmm is kazasi ge9irmesi veya meslek hastahgma yakalanmasi sebebiyle malul
+kaldigmi iddia etmesi iizerine hazirlanan dosyalarm, Kurum saghk kurullarmda
+degerlendirilmesi sonucu meslekte kazanma giicii kaybi oram tespitine iliskin karar (EK-3)
+diizenlenecektir.
+
+         4.1.1. Sigortalmm surekli is goremez durumuna girdigi tarih
+         Unitelerin, Kurum saghk kurullanna dosya gonderim yazismda, sigortahmn ge9irdigi
+i§ kazasma bagh ne kadar siire istirahatli kaldigi, hangi siireler i9inde ge9ici i§ goremezlik
+odenegi aldigi ve i§ basi tarihi bildirilecektir. Bu siire ve tarihin bildirilmemesi veya olmamasi
+durumunda;
+         a) Surekli i§ goremezlik halinin olustugu ilk raporda belirtilen i§ basi tarihi,
+         b) Birden fazla isbasi/9ahsir karanni bildiren rapor olmasi halinde;
+            1) £ahsir tarihleri en fazla 5 gun ara ile birbirini takip ediyorsa, son raporda
+belirtilen i§ basi tarihi,
+            2) Raporlarda bildirilen 9ahsir tarihleri arasmda 5 giinden fazla siire olmasi halinde,
+ilk rapor tarihi,
+         c) Yukandaki maddelerde belirtilen raporlann olmamasi durumunda, sigortalmm ilgili
+klinikte yeniden muayenesi ile sekel (kalici) hale gelen hastahklarm, i§ kazasi tarihinden
+itibaren iyilesme siireleri dikkate almarak tespit edilecek tahmini 9ahsir/9ahsamaz tarihi,
+         d) Sigortalmm saghk durumu nedeniyle, tespit edilmis meslekte kazanma giicii kaybi
+oramnda degisiklik olmu§ ise (artma/azalma) bu degisikligin saptandigi rapor tarihi,
+         e) Sigortalmm saghk durumunda degisiklik olmamakla birlikte, daha once tespit
+edilen meslekte kazanma giicii kaybi oramnda diizeltme yapilacak ise ilk tespitteki surekli is
+goremezlik durumuna girdigi tarih,
+          esas ahnacaktir.
+
+        4.1.2. Meslekte kazanma giicii kaybi oramnda degisiklik olmasi
+        Kontrol muayenesi veya sigortah/i§verenin yeniden muayene talebi vb. nedenlerle
+diizenlenen saghk kurulu raporlarmi i9erir dosyamn degerlendirilmesi sonucu;
+        Rapor tarihinden itibaren meslekte kazanma giicii kaybi oramnda azalma/artma olmu§
+ise, bu ibareler soz konusu rapor tarihi ile birlikte kararda belirtilerek hesaplama yapilmasi,
+        Degisiklik olmamasi halinde, daha once tespit edilmi§ meslekte kazanma giicii kaybi
+oramnda degisiklik olmadigma iliskin kararin diizenlenmesi,
+        Ilk yapilan tespitte degisiklik olmasi halinde, tarih yazilmadan sadece diizeltme ibaresi
+kararda belirtilerek hesaplama yapilmasi,
+        gerekmektedir.
+
+        4.1.3. Birden fazla is kazasi/meslek hastahgi olma hali
+        Birden fazla is kazasi/meslek hastahgi olmasi durumunda, Kurum saghk kurullannca
+her vaka i9in ayn ayn meslekte kazanma giicii kaybi oranmi gosterir karar diizenlendikten
+sonra, tespit edilmi§ oranlarm birlestirme islemini gosterir ayn bir karar duzenlenecektir.
+        I§ kazasi/meslek hastahgi nedeniyle meslekte kazanma giicii kaybi orani tespit edilmek
+iizere hazirlanan dosyalar, Kurum saghk kurullanna gonderilmeden, sigortahlar hakkmda
+baska bir vaka nedeniyle daha once meslekte kazanma giicii kaybi orani tespit edilip
+edilmedigi (8/.. nolu tahsis dosyasmm bulunup bulunmadigi) arastirilacaktir.
+        Haklarinda daha once meslekte kazanma giicii kaybi orani tespit edildigi anlasilan
+sigortalmm hazirlanan dosyasi ilk tespite iliskin tahsis dosyasi ile birlikte Kurum saghk
+kurullanna gonderilecektir.
+        Tahsis dosyasmm bulundugu sosyal giivenlik il miidiirliigii/sosyal giivenlik merkezi
+ile yeni ge9irilen vakanm bagh bulundugu iinitenin farkh olmasi halinde, bu unite tarafmdan
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                        Bilgi i?in: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                      Daire Ba§kani
+ e-Posta: ehgmmaluliyet@sgk.gov.tr. Internet adresi: www.sgk.gov.tr        Telefon: (0312) 458 71 34
+                                                                                                      8
+hazirlanacak dosya, i§ kazasi tahsis dosyasmm bulundugu sosyal guvenlik il
+mudurlugu/sosyal guvenlik merkezine iletilecektir. Tahsis dosyasmm bulundugu sosyal
+guvenlik il mudurlugu/sosyal guvenlik merkezince yeni vakaya iliskin meslekte kazanma
+giicii kaybi oram tespil edilmek iizere her iki dosya ilgili Kurum saghk kuruluna
+gonderilecektir.
+        Sosyal guvenlik il miidiirlugu/sosyal guvenlik merkezlerince, yeni vaka i9in meslekte
+kazanma giicii kaybi oram tespiti istenirken, aym zamanda mevcut oranla birlestirme
+isleminin de yapilmasi talep edilecektir.
+        Birlestirme islemine iliskin karar, son meslekte kazanma giicii kaybi oram tespitini
+yapan Kurum saglik kurulunca diizenlenecektir.
+
+       4.1.4. Sigortah dlumimun is. kazasi/meslek hastahgma bagh olma hali
+       Bilindigi iizere, £alisma Giicii ve Meslekte Kazanma Giicii Kaybi Oram Tespit
+Islemleri Yonetmeliginin "Kapsam" bashkh 2 nci maddesinin (i) fikrasmda "Siirekli is
+goremezlik geliri baglanmi§ iken olenlerin, oliimiiniin is kazasi veya meslek hastahgi sonucu
+olup olmadigmin tespitine" hiikmii bulunmaktadir.
+       Buna gore, Kurum saglik kurullannca i§ kazasi/meslek hastahgi sonucu siirekli i§
+goremezlik geliri baglanmi§ iken olen sigortahnm, oliim nedeninin ge9irmis oldugu is
+kazasi/meslek hastahgma bagh olup olmadigmin tespiti yapilacaktir.
+       Diger yandan; siirekli i§ goremezlik geliri baglanamayan %10'un altmda meslekte
+kazanma giicii kaybi oram tespit edilmis sigortahlarm dosyalarmda oran tespitine esas saglik
+kurulu raporu ve diger tibbi belgeler bulundugundan, bu sigortalilarmda 6'liimii halinde
+Kurum saglik kurullarmca oliim nedeninin ge9irmi§ oldugu i§ kazasi/meslek hastahgma bagh
+olup olmadigmin tespiti yapilacaktir.
+
+         4.1.5. Kurum saglik kurullarma dosya gonderimi
+         Kurum saglik kurullarma meslekte kazanma giicii kaybi oram tespiti i9in gonderilen
+dosyalar, sigortahnm is kazasi/meslek hastahgi ge9irdiginde bagh bulundugu sosyal guvenlik
+il miidiirliikleri/sosyal guvenlik merkezlerince diizenlenecektir.
+         Is kazasi sonucu goriilen tedavi ile ilgili olarak ge9ici is goremezlik durumu sona erip
+is kazasma iliskin hastahk ve arazlar kahci hale gelmeden meslekte kazanma giicii kaybi oram
+tespiti      yapilamamaktadir.      Bu     nedenle;       sigortahlarm     is    kazasi   sonucu
+9ahsip/9ahsamayacaklanni ve sekel (kahci) muayene bulgularmi gosteren, Kurumca
+yetkilendirilmi§ saglik hizmeti sunucusunca diizenlenmis raporlarda belirtilen ge9ici is
+goremezlik (istirahat) siireleri dolduktan sonra, dosyalan meslekte kazanma giicii kaybi oram
+tespiti i9in Kurum saglik kurullarma gonderilecektir.
+         Ayrica, meslekte kazanma giicii kaybi oram tespiti talebiyle Kurum saglik kurullarma
+gonderilen dosyalardaki, tibbi belgeler, grafiler, kompakt diskler (CD), zarar gormemesi i9in
+korunakh bi9imde dosyaya yerlestirilecektir.
+         Diger yandan, meslekte kazanma giicii kaybi oram tespiti i9in dosya, 10/06/2011
+tarihli ve 2011/49 sayih Genelgenin (3.1.2) ve (3.2.12) numarah bentlerindeki hususlara
+dikkat edilerek hazirlanacak ve (EK-2) de yer alan listedeki bagh bulunulan Kurum saglik
+kuruluna gonderilecektir.
+
+       4.2. Meslek hastahgi
+       4.2.1. Meslek hastahgi tespitinde denetim talebi
+       Emeklilik Hizmetleri Genel Miidurliiguniin 3/2/2015 tarih ve 1993287 sayih Genel
+Yazisimn son paragrafmda "Ancak Kurum saglik kurullannca, meslek hastahklan ile ilgili
+dosyalarda hastahgin mesleki olup olmadigina karar verilememesi durumunda, bundan boyle
+Kurum saglik kurulu tarafmdan gerekqesi de belirtilmek suretiyle denetim talebinde
+bulunulmasi halinde, Rehberlik ve Tefti§ Ba^kanhgimn ilgili grup ba§kanhgmca
+degerlendirme yapilacaktir " hiikmii bulunmaktadir.
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                      Bilgi i9in: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                   Daire Baskam
+e-Posta: ehgmmaluliyet@sgk.gov.tr. Internet adresi: www.sgk.gov.tr       Telefon: (0312)45871 34
+                                                                                                    9
+        Buna gore, Kurum saglik kurullarmca, hastaligm mesleki olup olmadigma iliskin
+tespit yapilabilmesi i9in gerekli bilgi ve belgelerin eksikligi veya yetersizligi halinde,
+oncelikle bu bilgi ve belgeler kurul sekretaryasi / il miidiirliikleri tarafmdan temin edilecektir.
+Buna ragmen, hastaligm mesleki olup olmadigma karar verilemiyorsa, Rehberlik ve Teftis.
+Baskanhgmca yapilacak denetime esas olacak gerekceleri belirtir Kurum saglik kurulu karan
+diizenlenecektir.
+
+         4.2.2. Yukiimluluk ve maruziyet siirelerine iliskin Kurum saglik kurulu kararlari
+         Bilindigi iizere, 5510 sayih Kanunun 14 iincii maddesinin ii9iincii fikrasmda "...
+Herhangi bir meslek hastahgimn klinik ve laboratuvar bulgulanyla belirlendigi ve meslek
+hastahgma yol aqan etkenin i§yerindeki inceleme sonunda tespit edildigi hallerde, meslek
+hastahklan listesindeki yukumluluk surest a§ilmi§ olsa bile, soz konusu hastahk Sosyal
+Sigorta Yuksek Saglik Kurulunun onayi He meslek hastahgi sayilabilir" hiikmii
+bulunmaktadir.
+         Buna gore, Kurum saglik kurulunca yapilan degerlendirme sonunda, mesleki bulgu
+saptanmasi halinde meslek hastahklan listesindeki yukumluluk siiresi a§ilmis ya da maruziyet
+siiresi yetersiz olsa bile, soz konusu hastahk Sosyal Sigorta Yuksek Saglik Kurulunun karan
+ile meslek hastahgi sayilabilmektedir.
+         Kurum saglik kurullarmca, meslek hastahklarma ili§kin yukumluluk ve/veya
+maruziyet siiresi yoniinden tespit istenmesi dummunda, hastahga ait tibbi parametreler
+belirtilmeksizin, sadece yukumluluk ve maruziyet siiresi yoniinden degerlendirilmesiyle ilgili
+(EK-5) de bulunan orneklere gore diizenlenecek karar, dosya ile birlikte Sosyal Sigorta
+Yuksek Saglik Kuruluna intikal ettirilecektir.
+         Tiirkiye-Almanya Sosyal Giivenlik S6zles.mesinin 21 inci maddesinin birinci
+fikrasmda yer alan "bir meslek hastahgma miistenid yardim talebi hususunda, bir akit tarafin
+Sosyal Sigorta Mercii tarafmdan, diger akit ulkesinde yapilan ve mahiyeti itibariyle boyle bir
+hastahga neden olan i§ler de nazara almir" hiikmii geregince; Turkiye ve Almanya' da aym
+mahiyette meslek hastahgi yapici 9ahs.manm bulunmasi halinde, bu 9ahsmalar birbirinin
+devami sayilmahdir. Dolayisiyla sosyal giivenlik mevzuatirmz geregi meslek hastahgi tespiti
+yapihrken Almanya' da ge9en meslek hastahgi yapici 9ah§ma siireleri de Turkiye' de ge9mi§
+meslek hastahgi yapici 9ah§ma siireleri olarak degerlendirilecektir.
+         Buna gore, anilan sozlesme geregi Kurum saglik kurullarmca yapilacak meslek
+hastahgi tespitlerinde, sigortahlarm her iki iilkede aym tiirden meslek hastahgi yapici
+9ali§malarmm olmasi halinde, bu i§e ba§ladigi ilk tarih ile i§ten aynldigi en son tarih,
+yiikiimliiliik ve maruziyet siirelerinin tespitlerinde esas almacaktir. §ayet her iki iilkede ge9en
+9ahsmalar aym tiirden meslek hastahgi yapici 9ah§ma degil ise, anilan sozlesme maddesi
+uygulanmayacak ve talebi her iki iilke kendi mevzuatlanna gore degerlendirecektir.
+       Almanya ile miisterek sigortahlanmizin ilk defa meslek hastahgi tespitlerinde, Kurum
+saglik kurullarmca meslek hastahgma ili§kin rapor ve dayanaklan, mesai listesi, Alman
+Sigorta Kurumunun karari ve hizmet belgesi dikkate almarak, dosya mevzuatirmz
+9er9evesinde degerlendirilecektir. Bu degerlendirmede yukumluluk siiresinin a§ildigi ya da
+maruziyet siiresinin yetersizligi tespit edilirse; dosya, konuyla ilgili degerlendirme yapilmak
+iizere, Sosyal Sigorta Yuksek Saghk Kuruluna gonderilecektir.
+         Ancak soz konusu sigortahlardan, Kurumumuzca meslek hastahgma ili§kin meslekte
+kazanma giicii kaybi oram tespit edilmis. olanlar hakkmda, herhangi bir nedenle diizenlenmis
+saghk kurulu raporu ve dayanaklarmm tekrar degerlendirilmesinde, yiikiimliiliik/maruziyet
+siiresi yeniden arastinlmayacaktir.
+
+
+
+
+Mithatpa?a Cad. No: 7 Sihhiye/ANKARA                                        Bilgi icin: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                     Daire Ba§kam
+ e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr        Telefon: (0312) 458 71 34
+                                                                                                     10
+        S.Kurum saghk kurullarmca yapilacak degerlendirmelerde dikkat edilecek
+hususlar
+        5.1. Kurum saglik kurullarmca, verilecek karara dair kanaatlerinin gii9lenmesi, karar
+vermeye yardimci olmasi, gereksiz ara karar yapilmasmm onlenmesi ve bilgi edinilmesi
+amaciyla (epikriz ve ila9 raporlan vb.) Kurumumuzun Medula uygulamalan kullamlacaktir.
+        5.2. Kurum Saghk Kuruluna intikal eden dosyalar, oncelikle sekretarya tarafmdan
+incelenecek ve eksik olan bilgi/belgeler Kurum intranet sistemindeki kimlik paylasim sistemi,
+tescil programi vb. uygulamalardan saglanacaktir. Geregi halinde, dosya iade edilmeden ilgili
+iiniteden faks/e-posta vb. yollarla temin edilen bu belgelerin yazili ornekleri dosyada
+muhafaza edilecektir.
+        5.3. Saghk kuruluslarmm bilgisayar sistemine ge9mi§ olmasi nedeniyle, Kurum saghk
+kurullarma intikal eden dosyalarda bulunan kompakt diskler (CD) degerlendirilecektir.
+        5.4. Kurumumuz Merkez Teskilati Yonetmeliginin 16nci maddesinde; Kurum saghk
+kurullan ile Sosyal Sigorta Yiiksek Saghk Kurulunun 9ahsma usul ve esaslanm belirlemek,
+malul sayilma, meslek hastahgi tespiti, siirekli i§ goremezlik derece tespiti ve kontrollerine
+yonelik usul ve esas mevzuat 9ahsmalanni yapmak, bu tespitlerde esas ahnacak saghk kurulu
+raporlarmin usul ve esaslanni belirlemek, Kurum saghk kurullannin 9ahsmalarmi koordine
+etmek, egitimlerine iliskin gerekli islemleri yuriitmek, Maluliyet ve Saghk Kurullan Daire
+Baskanhgimn gorevleri arasinda sayilmistir. Kurum saghk kurullarmca mevzuata iliskin
+tereddiit olustugunda uygulamada birlikteligin saglanabilmesini teminen, Maluliyet ve Saghk
+Kurullan Daire Baskanhgmdan ahnacak talimat 9er9evesinde islem yapilacaktir.
+        5.5. Sosyal giivenlik sozlesmesi imzalanan iilke sigorta kurumlanna malulliik ayhgi
+talebinde bulunan, ancak talep formuleri ve raporlan on yildan uzun sure sonra Kurumumuza
+intikal eden sigortahlar i9in, sozlesmeli ulkelerde raporlar on yildan sonra imha edildiginden
+talep tarihinden onceki raporlar istenmeyerek mevcut raporlara gore maluliyet durumu tespit
+edilecektir.
+        5.6. Ulkemizde ve Almanya'da meslek hastahgina neden olan isyerlerinde 9ahsmalan
+bulunan sigortahlardan aym zamanda Ulkemizde i§ kazasi sonucunda gelir baglananlann
+Tiirkiye-Almanya Sosyal Giivenlik Sozlesmesine gore meslek hastahgi oranlarmm veya
+artma/azalma olup olmadigimn belirlenmesi taleplerinde Ulkemizde i§ kazasi sonucu tespit
+edilmi§ meslekte kazanma giicii kayip orani dikkate ahnmadan yalniz meslek hastahgi sonucu
+meslekte kazanma giicii kayip orani tespit edilecektir.
+
+        6. Diger hususlar
+        6.1. Malul veya agir engelli cocuklara iliskin saghk kurulu raporlan
+        8/10/2013 tarihli ve 2013/34 sayih Genelgede, 5510 sayili Kanunun 28 inci
+maddesinin 8 inci fikrasi hiikmiine gore yapilacak kadin sigortall 9ocuklannin agir engellilik
+durumlanmn ve sigortall 9ocuklarinm maluliyetlerinin tespitinde esas ahnacak
+yetkilendirilmi§ saghk hizmet sunuculannca diizenlenmi§ saghk kurulu raporunun mevcut
+olmasi halinde yeniden sevkle rapor diizenlenecegine iliskin bir hiikiim bulunmamaktadir.
+        Buna gore, sigortall 9ocuklarmm malul veya agir engellilik durumlarmm tespitinde,
+Kurumca yetkilendirilmi§ saghk hizmet sunuculannca diizenlenmis saghk kurulu raporunun
+mevcut olmasi durumunda yeniden sevkle rapor diizenlettirilmeyecek, mevcut rapor sevkle
+dlizenlenmediginden Saghk Bakanhgi Devlet Hastanelerince diizenlenmi§ ise de, sigortall
+9ocugunun magduriyetinin onlenmesi amaciyla bu rapor, Kurum saghk kurullarmca
+degerlendirilecektir.
+        Soz konusu 9ocuklarla ilgili miiracaatlarda Kurumca yetkilendirilmi§ saghk hizmet
+sunuculannca diizenlenmi§ saghk kurulu raporunun ash veya raporu diizenleyen hastane
+yetkilisince Bashekimlik miihru ve islak imza ile ash gibidir seklinde onaylanmi§ fotokopisi
+degerlendirilmek iizere Kurum saghk kuruluna gonderilecektir.
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                    Bilgi igin: Hilseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                 Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr     Telefon: (0312) 458 71 34
+                                                                                                 11
+       6.2. Kurumumuzdan ayhk ve/veya gelir alan ki§iler hakkinda yapilan ihbar ve
+sikayet degerlendirmeleri
+       Kurum saghk kurullannca verilen kararlar hakkinda ihbar, sikayet veya Rehberlik ve
+Teftis Baskanhgi tarafmdan yapilan sorusturma olmasi halinde, bu dosyalar Maluliyet ve
+Saghk Kurullan Daire Baskanhgmda bulunan Kurum saghk kurulunca degerlendirilecektir.
+       Diger yandan, soz konusu ihbar ve sikayetlerde, ilgili birim tarafmdan kontrol
+muayenesine gonderilerek yeniden saghk kurulu raporu diizenlenmesine gerek olmaksizm,
+mevcut kurul karan ve karara esas saghk kurulu raporu ve dayanagl bilgi ve belgeleri i9erir
+dosya, Maluliyet ve Sagllk Kurullan Daire Baskanligma gonderilecektir.
+
+         6.3. Yeniden degerlendirme
+         Kurum saghk kurullarmca verilen karar tarihinden sonra diizenlenmis usuliine uygun
+sagllk kurulu raporu olmamasi halinde, mevzuatimizda aym raporun tekrar
+degerlendirilecegine dair hiikiim bulunmamaktadir. Bu nedenle, ilgililerin mevcut Kurul
+karannm yeniden degerlendirilme talebine istinaden Kurum saghk kurullarmca yeniden
+degerlendirme yapilmayacaktir.
+         Bu nedenle, sosyal giivenlik il mudiirliikleri/sosyal guvenlik merkezlerince, yeniden
+degerlendirme talebinde bulunan ilgililere, haklarmdaki Kurum saghk kurulu kararma sadece
+Sosyal Sigorta Yiiksek Saghk Kumlunda incelenmek iizere itirazda bulunabilecekleri
+bildirilecektir. Itirazda bulunmalan halinde (EK-4) de yer alan ornege gore diizenlenecek
+dilek9eleri ahnarak, dosyalan ile birlikte Sosyal Sigorta Yiiksek Saghk Kuruluna
+gonderilecektir.
+
+        6.4. Dava dosyalarma ili§ kin Sosyal Sigorta Yiiksek Saghk Kurulu karari
+        Kurum saghk kurullarmca verilen kararlarla ilgili olarak taraflann, Sosyal Sigorta
+Yiiksek Saghk Kuruluna itiraz hakkini kullanmadan a9tiklan dava (maddi ve manevi
+tazminat, itiraz veya riicu... vb) siirecinde, dava dosyasi iizerinden diizenlenen Sosyal Sigorta
+Yiiksek Saghk Kurulu kararma gore degil, kesinlesmis mahkeme kararma gore Kurumumuzca
+i§lem yapilacaktir.
+        Ancak, yargi siireci devam etmekte iken, Kurumumuza yapilan itiraz iizerine Sosyal
+Sigorta Yiiksek Saghk Kurulunca Kurum dosyasma iliskin almacak karara gore sosyal
+guvenlik il mudurliikleri/sosyal guvenlik merkezlerince islem yapilacaktir.
+        Aynca, mahkemelerden bilgi ve beige istenmesi halinde, Kurum saghk kurulu
+kararlari, bu kararlara esas turn saghk kurulu raporlan ve dayanagl grafi vb. tibbi belgeler ile
+i§ kazasi/ meslek hastahklarma ilisjkin tahkikat, denetim raporu veya komisyon karari sosyal
+giivenlik il miidurliikleri/sosyal guvenlik merkezlerince eksiksiz olarak gonderilecektir.
+        Diger taraftan, Kurum saghk kurullarmca verilen karara karsi a9ilan davalarda ilgili
+mahkemelerce dosya istendiginde, dosya ash yerine onayh ve dizin pusulasma baglanmis
+dosya ornegi, ancak ozellikle dosya ashmn istenmesi durumunda dizin pusulasma baglanmis
+dosya ash gonderilecektir.
+
+        T.Yurii rliikten kaldirilan ve degis, tirilen hukiimler
+        7.1. 8/10/2013 tarihli ve 2013/34 sayih Genelgenin;
+         -1 inci maddesinin, "Hizmet Bor9lanmalarmda Maluliyete Esas Ilk t§e Giri§ Tarihinin
+Tespiti" bashkh 1.5 inci fikrasimn ikinci bendi, bu Genelgenin "Yurtdisi 9ahsmalanmn
+bor9lamlmasi durumunda maluliyet tespitinde esas almacak ilk is.e giri§ tarihi" ba§hkh 2 nci
+maddesinin 2 nci fikrasi ile degistirilmistir.
+         -2 nci maddesinin, "Bakmakla Yiikiimlii Olunan £ocuklara Iliskin Islemler" bashkh
+ii9iincii fikrasimn 1 ve 2 nci bentleri ile "Hak Sahibi Qocuklara Ili§kin i§lemler" ba§hkh
+dordiincii fikrasimn 5 ve 6 nci bentleri yiiriirliikten kaldinlrmstir.
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                       Bilgi i?in: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                     Daire Ba§kam
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr        Telefon: (0312) 458 71 34
+                                                                                                    12
+         -3 imcii maddesinin, "Kanunun 28 inci Maddesinin Besinci Flkrasma Gore Tespit
+islemleri" bashkh ikinci fikrasmm 1 inci bendindeki "esas 9ahsma giicii kaybi oram"
+ibaresinden sonra gelen "30/03/2013 tarihli ve 285603 sayih Resmi Gazete'de yayimlanan"
+ibaresi yiiriirliikten kaldinlmis, "Kanunun 28 inci Maddesinin Sekizinci Flkrasma Gore Tespit
+Islemleri" bashkh dordiincii fikrasmm Ive 2 inci ciimlesindeki "bakimma muhta9 derecede",
+ibaresinden sonra gelen "malul" ibaresi "agir engelli" olarak degistirilmistir.
+          -4 iincii maddesinin, "itiraz ve Siiresi" bashkh birinci fikrasmm 2 ve 3 iincii bentleri
+ile yiiriirliikten kaldmlrmstir.
+          -8 inci maddesinin, "Kanser Hastalarmda Kontrol Muayenesi" bashkh ii9iincii fikrasi,
+bu Genelgenin "Sigortahlarm maluliyet tespiti" bashkh 1 inci maddesinin 3 iincii fikrasi ile
+degistirilmistir.
+          7.2. 10/06/2011 tarih ve 2011/49 sayih Genelgenin 3 iincii maddesinin ikinci fikrasmm
+11 inci bendi yiiriirliikten kaldinlrmstir.
+          Bilgilerinizi ve geregini rica ederim.
+
+
+
+                                                                          Yadigar GOKALP ILHAN
+                                                                              Kurum Baskani
+
+Ek: Ek listesi (1 say fa)
+
+
+
+Dagitim:
+Geregi:                                                    Bilgi:
+Merkez ve Tasra Teskilati                                   Qahsma ve Sosyal Giivenlik Bakanhgma
+                                                           Saghk Bakanhgma
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                           Bilgi i^in: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                         Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr            Telefon: (0312) 458 71 34
+                                                                                                        13
+                                                EK LISTESI
+
+Ek 1: Maluliyet dosyasi bakmaya yetkili Kurum saghk kurullan listesi ( 1 sayfa)
+Ek 2: I§ kazasi ve Meslek Hastahgi dosyasi bakmaya yetkili Kurum saghk kurullan listesi
+      ( 1 sayfa)
+Ek 3: Meslekte kazanma giicii kaybi orani tespitine ilisjdn karar ornegi ( 1 sayfa)
+Ek 4: Kurum saghk kurulu kararma itiraz dilek9esi ornegi. ( 1 sayfa)
+Ek 5: Yukumluluk/Maruziyet sure tespitlerine iliskin karar metinleri. ( 1 sayfa)
+
+
+
+
+Mithatpasa Cad. No: 7 Sihhiye/ANKARA                                   Bilgi i$m: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr    Telefon: (0312) 458 71 34
+                                                                                                14
+                                                                                            EK-1
+ MALULIYET DOSYASI DEGERLENDIREN KURUM SAGLIK KURULLARI VE
+                  BU KURULLARA BAGLIILLER
+
+
+
+
+  AD ANA                                Adana, Hatay, I^el (Mersin), Osmaniye
+
+                                        Ankara, Qankm, Karabiik, Bartm, Kastamonu, Kinkkale,
+   ANKARA
+                                        Zonguldak
+
+   ANTALYA                               Antalya, Burdur, Isparta
+
+   BURSA                                Bursa, Bahkesir, Qanakkale, Yalova
+
+   ESKl§EHiR                            Eskisehir, Afyonkarahisar, Bilecik, Kiitahya
+
+                                        Gaziantep, K.Maras, Kilis, §anlmrfa, Mardin, Siirt, §irnak,
+   GAZlANTEP
+                                        Hakkari
+
+                                        Malatya, Tunceli, Elazig, Bingol, Batman, Diyarbakir,
+   MALATYA
+                                        Mus, Adiyaman
+
+   ISTANBUL                              Istanbul, Edirne, Kirklareli, Tekirdag
+
+   IZMIR                                 Izmir, Aydm, Denizli, Manisa, Mugla, Usak
+
+   KAYSERI                               Kayseri, Nevsehir, Sivas, Kirsehir, Yozgat
+
+   KOCAELI                               Kocaeli, Bolu, Duzce, Sakarya
+
+   KONYA                                 Konya, Aksaray, Karaman, Nigde
+
+   SAMSUN                                Samsun, Amasya, £orum, Ordu, Sinop, Tokat
+
+   ERZURUM                               Erzurum, Agn, Ardahan, Igdir, Kars, Bitlis, Van,
+
+                                         Trabzon, Artvin, Bayburt, Erzincan, Giresun, Gtimushane,
+   TRABZON
+                                         Rize
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                               Bilgi i<;in: Hiiseyin VURAL
+Telefonno:031245871 30 Faks: 0312 433 3274                                                  Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr                Telefon: (0312)45871 34
+                                                                                                             15
+                                                                                    EK-2
+
+
+        I§ KAZASI VE MESLEK IIASTALIGI DEGERLENDIREN KURUM SAGLIK
+                   KURULLARI VE BU KURIJLLARA BAGLI ILLER
+
+
+       ISTANBUL                                      ANKARA                            IZMIR
+
+          Istanbul                          Ankara, Adana, Adiyaman                     Izmir
+
+         Bahkesir                            Agn, Amasya, Ardahan                 Afyonkarahisar
+
+           Bilecik                            Artvin, Bartm, Bay hurt                 Aksaray
+
+            Bolu                              Batman, Bingol, Bitlis                   Antalya
+
+           Bursa                           (^ankin, £orum, Diyarbakir                   Aydm
+
+         Qanakkale                          Elazig, Eskisehir, Erzincan                Burdur
+
+           Diizce                         Erzurum, Gaziantep, Giresun                  Denizli
+
+           Edirne                          Giimushane, Hakkari, Hatay                   Isparta
+
+         Kirklareli                            Kahramanmaras, Kars                  I9el (Mersin)
+
+          Kocaeli                         Karabtik, Kastamonu, Kayseri                Karaman
+
+          Kiitahya                           Kinkkale, Kir§ehir, Kilis                  Manisa
+
+          Sakarya                              Konya, Igdir, Malatya                    Mugla
+
+          Tekirdag                               Mardin, Mus, Ordu                    Nevsehir
+
+           Yalova                            Osmaniye, Rize, Samsun                     Nigde
+
+                                                  Siirt, Sinop, Sivas                    Usak
+
+                                              $anlmrfa, §irnak, Tokat
+
+                                               Trabzon, Tunceli, Van
+
+                                                 Yozgat, Zonguldak
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                       Bilgi i?in: Hiiseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                     Daire Ba§kam
+ e-Posta: ehgmmaluliyet@sgk.gov.tr. Internet adresi: www.sgk.gov.tr       Telefon: (0312) 458 71 34
+                                                                                                    16
+                                                                                          EK-3
+                                                 T.C.
+                                   SOSYAL GUVENLIK KURUMU BASKANLIGI
+                                         Sosyal Giivenlik II Mudurlugu
+                                             Kurum Saghk Kurulu
+
+      MESLEKTE KAZANMA GUCU KAYBI ORANI (SUREKLI IS GOREMEZLIK DERECESI)
+                 TESPiTlNE iLISKJN KURUM SAGLIK KURULU KARARI
+
+I- Sigortalinin                                                              D- T.C.KimlikNo:
+   A- Sicil No / Tahsis No:                                                  KARAR TARIH-SAYISI
+
+   B- Adi ve Soyadi
+
+   C- Dogum Tarihi
+II- A-Is Kazasi ( 1 ) /Meslek Hastaligi
+                                   Lhgl (M)
+                                         (M)
+
+
+   B- Is, Kazasmin oldugu /Meslek Hastaligmin anla§ildigi tarih/tarihler :
+
+   C- is. Kazasmin / Meslek Hastaligmin
+      Anlas,ildigi Tarihte Sigortalinin       :
+      Yapmakta oldugu j§
+   D- Surekli Is Goremezlik Durumuna Girdigi
+      ( Qalis,ir/£ahsamaz) Tarih ve Dayanagi :
+       Plan Beige _
+   E- Surekli Is Goremezlik Derecesine Esas
+      Tes,kil Eden Saghk Kurulu Raporlan
+      Ekleri ve Diger Belgeler ile Anzalan
+
+
+
+
+   F- Karar Degi§iyor ise Sebebi ve Tarihi
+       (Duzeltme,Artma,Azalma,BirlestitTne)
+   G- KARAR/ MKGO TESPITI                        : Yukanda adi soyadi sigorta ve/veya tahsis numarasi
+belirtilen sigortah hakkindadlizenlenen rapor ve ekleri incelendiginde, Adi ge9enin ;
+
+
+
+
+  H- Baska Birinin slirekli Bakimma Muhta^
+     Olup Olmadigi Muhta9 ise ilgili Maddesi:
+  I- Kontrol Muayenesi Gerekip Gerekmedigi:
+      Gerekiyor ise Tarihi
+
+   Mithatpa?a Cad. No: 7 Sihhiye/ANKARA                                          Bilgi i?in: Huseyin VURAL
+   Telefonno:031245871 30 Faks: 0312 433 32 74                                           Daire Ba§kam
+   e-Posta: ehgmmaluliyet@sgk.gov.tr. Internet adresi: www.sgk.gov.tr           Telefon: (0312) 458 71 34
+                                                                                                          17
+                                                                                    EK-4
+
+       KURUM SAGLIK KURULU KARARINA iTIRAZ DILEK^ESi ORNEGI
+
+
+
+
+                                                                                  ./..,. 72015
+
+
+
+
+                                                DAIRE BA§KANLIGINA
+                                     SOSYAL GUVENLIK IL MUDURLUGUNE
+                                      .. SOSYAL GUVENLIK MERKEZINE
+
+
+
+
+       Kurumumuzun                  sicil numarah                         T.C. numarah
+sigortahsiyim / sigortah cocuguyum. (T.C                     )
+       Kurum saglik kurulunca hakkimda verilen karara itiraz ediyor, dosyamm bir kerede
+Sosyal Sigorta Yiiksek Saglik Kurulunda goriisjulmesini istiyorum.
+       Geregini arz ederim.
+
+
+
+
+                                                                              IMZA
+                                                                           Adi Soyadi
+
+
+
+
+Adres :
+
+
+
+Tel:
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                  Bilgi ifin: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr   Telefon: (0312) 458 71 34
+                                                                                               18
+                                                                                               EK-5
+
+   KURUM SAGLIK KURULLARINCA MESLEK HASTALIGI TESPITLERINDE
+     YUKUMLULUK SURESIMN UZATILMASI/MARUZIYET SURESIMN
+       KISAL TILMASINA ILI^KIN KARAR VERILMESI DURUMUNDA
+          DUZENLENECEK KARARDA YER ALACAK METINLER
+
+
+
+        YUKUMLULUK SURESI TESPITINE I L i K I N KARAR METNI
+
+          Dosya incelendi. Sigortah hakkmda               ............................ Hastanesi tarafmdan
+diizenlenen ........... tarih, ......... sayili saghk kurulu raporu ve diger belgelere gore;
+........ tarihinde isten aynlan sigortahda       ......................      hastahgi mevcut oldugu ve
+meslek hastahklan listesindeki yiikiimliiliik siiresi asilmis oldugundan, ilgili mevzuat uyarmca
+yukumliiluk siiresi yoniinden Sosyal Sigorta Yiiksek Saghk Kurulu tarafmdan
+degerlendirilmesine;
+
+
+
+    •    MARUZIYET SURESI TESPITINE ILI^KIN KARAR METNI
+
+       Dosya incelendi. Sigortah hakkmda                    Hastanesi tarafmdan diizenlenen
+              tarih,               sayili saghk kurulu raporu ve diger belgelere gore;
+sigortahda                  hastahgi mevcut oldugu ancak maruziyet siiresi yetersiz
+oldugundan ilgili mevzuat uyarmca maruziyet siiresi yoniinden Sosyal Sigorta Yiiksek Saghk
+Kurulu tarafmdan degerlendirilmesine;
+
+
+
+    •    YUKUMLULUK VE MARUZIYET SURELERI TESPITINE ILI^KIN KARAR
+         METNI
+
+        Dosya incelendi. Sigortah hakkmda                                Hastanesi tarafmdan
+diizenlenen            tarih,           sayili saghk kurulu raporu ve diger belgelere gore;
+              tarihinde isten aynlan sigortahda                  hastahgi mevcut oldugu ve
+meslek hastahklan listesindeki yiikiimliiluk siiresi a§ilmis ve maruziyet siiresi yetersiz
+oldugundan ilgili mevzuat uyarmca yiikiimliiliik ve maruziyet siiresi yoniinden Sosyal Sigorta
+Yiiksek Saghk Kurulu tarafmdan degerlendirilmesine;
+
+
+
+
+Mithatpa§a Cad. No: 7 Sihhiye/ANKARA                                              Bilgi i?in: Huseyin VURAL
+Telefon no: 0312 458 71 30 Faks: 0312 433 32 74                                            Daire Ba§kani
+e-Posta: ehgmmaluliyet@sgk.gov.tr. internet adresi: www.sgk.gov.tr               Telefon: (0312) 458 71 34
+                                                                                                           19
+

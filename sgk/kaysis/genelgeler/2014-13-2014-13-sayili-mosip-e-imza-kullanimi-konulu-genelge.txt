@@ -1,0 +1,196 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/72660
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2014/13
+ADI: 2014/13 SAYILI MOSİP E-İMZA KULLANIMI KONULU GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 5dd7393816bb179bf4ac1d58d15345990f3e7bdb177769e369f4485863a5050b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                             T.C.
+                                         SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                                Strateji Geliştirme Başkanlığı
+                                                   Bütçe Daire Başkanlığı
+
+
+
+Sayı : 95987881/01006/2264675                                                                      29/04/2014
+Konu : MOSİP e-İmza Kullanımı
+
+                                                   GENELGE
+                                                    2014/13
+
+       5070 sayılı Elektronik İmza Kanununa uygun olarak hazırlanmış ve Adalet Bakanlığında
+uygulanmış olan UYAP Doküman Yönetim Sistemi (DYS) yapılan protokol çerçevesinde
+Kurumumuzda uygulanmaya başlanmıştır. 5070 sayılı Kanun ile tanımlanmış olan elektronik imza;
+hem zamandan hem de kırtasiye giderlerinden tasarruf edilmesini, her türlü resmi işlemin
+elektronik ortamda arşivlenerek yürütülmesini sağlayan bir uygulamadır. Elektronik imza ile
+imzalanmış herhangi bir belge bilgisayar ortamında arşivlendiğinden depolama maliyetleri oldukça
+azalmıştır. E-imzanın uygulanmaya başlamasıyla birlikte sadece ekonomik anlamda tasarruf değil;
+iş gücünün etkin kullanılması sağlanarak zaman tasarrufu da yapılmış ve vatandaşa sunulan
+hizmetlerin kalitesi yükselmiştir.
+       Elektronik imza ve zaman damgası uygulamasının, Mali Yönetim Otomasyon Sistemi
+Projesi (MOSİP) içerisine dâhil edilmesi ve e-imzalı belgelerin elektronik ortamda saklanması
+amacıyla MOSİP e-İmza Projesi başlatılmış, Projenin tüm yazılımları tamamlanarak gerekli
+eğitimler merkez ve taşra teşkilatımızda verilmiştir. Proje ile birlikte ülkemizde elektronik imza
+desteği olan ilk mali yönetim sistemi Kurumumuzda uygulanacak olup başta kırtasiye, personel,
+depolama (arşiv) alanları olmak üzere pek çok gider üzerinden önemli miktarda tasarruf
+sağlanacaktır.
+       Bu kapsamda MOSİP e-İmzanın kullanımı ile ilgili olarak kademeli bir geçiş takvimi
+uygulanacak olup, harcama ve muhasebe birimlerimizin yapacakları temel işlemlere ilişkin
+açıklamalar aşağıda açıklanmıştır:
+
+        1. Harcama Birimlerince Yapılacak İşlemler
+        Bilindiği üzere harcama birimlerimizde iki ayrı ödeme tipi bulunmaktadır. Bunlar harcama
+talimatına bağlı ödeme emri belgeleri (yolluk ödemeleri, hizmet alımları, mal alımları vb.) ve
+icmal listesi aracılığıyla oluşturulan (şahıs, abonelik ödemeleri vb.) ödeme emri belgeleridir.
+        Bütçe işlem fişleri, muhasebe işlem fişleri, ödeme emri belgeleri, ihtiyaç listeleri ve
+harcama talimatları gibi MOSİP sistemi üzerinden imzalanacak olan dokümanlar harcama birim
+kullanıcısı, gerçekleştirme görevlisi, harcama yetkilisi, muhasebe birim kullanıcısı ve muhasebe
+yetkilisi tarafından e-imza ile imzalanacaktır. E-imza sürecinin aşamaları aşağıda açıklanmıştır:
+        - Harcama birimi kullanıcısı ihtiyaç listesini oluşturduktan sonra, o ihtiyaç listesine bağlı
+        harcama talimatını oluşturur. Harcama talimatı için gerekli bilgiler girildikten sonra
+        imzalama işlemi gerçekleştirilmektedir.
+        - İlgilinin e-imza yetkisini kullanabilmesi için, ekranın sağ üst köşesinde yer alan
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 Balgat/Ankara                  Ayrıntılı bilgi için irtibat : Gökhan YAMANKALE (Daire Bşk.)
+Telefon: (0 312) 207 85 75                              Elektronik Ağ: http://www.sgk.gov.tr
+Faks: (0 312) 207 87 83                                 e-posta: butce@sgk.gov.tr
+
+
+
+
+                                                                                         KAYIT DIŞI ÇALIŞMAYIN
+                                                                                       GELECEĞİNİZİ RİSKE ATMAYIN
+          “Yükleniyor” ibaresinin kaybolarak “MOSİP e-İmza Uygulama” ibaresinin gelmesi
+          gerekmektedir. Bu ibare gelmeden, kullanıcı imzayı atacağı uygulamayı açamaz.
+          - Harcama birimi kullanıcısı “İmzala” butonuna bastıktan sonra uygulama ekranı
+          gelmektedir.
+          - Harcama birimi kullanıcısı, harcama talimatı ve ödeme emri belgesine eklenmesi gereken
+          belgeleri “Dosya ekle” ya da “Dosya tara” butonlarını kullanarak ekler.
+          - Dosya eklenmeden önce, Sosyal Güvenlik Kurumları Harcama Belgeleri Yönetmeliğinde
+          belirtilmiş olan evrak türlerinin sıralandığı pencereden ilgili evrak türü seçilir. Harcama
+          birimi kullanıcısı bu işlemi yapmadan ilgili dosyayı harcama talimatına veya ödeme emri
+          belgesine ekleyemez.
+          - Sosyal Güvenlik Kurumları Harcama Belgeleri Yönetmeliğinin 5 inci maddesinin 7 nci
+          fıkrasında “Kurumun elektronik altyapısında üretilmeyen belgeler, elektronik ortama
+          aktarılarak 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununa uygun yetki alan
+          elektronik sertifika hizmet sağlayıcıları tarafından üretilmiş sertifika aracılığı ile
+          değiştirilmez olduğunun güvence altına alınması ve zaman damgası ile
+          doğrulanması/damgalanması suretiyle ortak veri tabanına dahil edilmesi halinde, ödeme
+          belgesine kanıtlayıcı belge olarak eklenmez. Belgelerin bu fıkraya göre ortak veri tabanına
+          alınması işlemi gerçekleştirme görevi sayılır. Taranarak sisteme aktarılan fatura ve diğer
+          belgelerin mükerrer kullanımını önlemek için üzerlerine gerçekleştirme görevlileri
+          tarafından görevlilerin adı, soyadı, işlem tarihi ile “Taranmıştır” ibaresi yazılarak imzalanır
+          ve belge üzerine çift çizgi çekilerek muhafaza edilir.” ifadesi yer almaktadır. Buna göre,
+          fatura ekleme işlemleri aşağıda belirtildiği şekilde yapılır:
+                  Evrak türü olarak fatura seçilir. Harcama birimi kullanıcısı “Kaydet” butonuna
+          bastığında fatura bilgilerinin (fatura numarası, fatura tarihi, vergi numarası) girileceği yeni
+          bir pencere açılır. Harcama birimi kullanıcısından, ilgili bilgileri girip faturayı harcama
+          talimatına eklemesi istenir. Harcama birimi kullanıcısı tarafından girilen bu bilgiler, ilgili
+          faturanın sağ alt köşesine sistem tarafından eklenir. Aynı faturanın daha önceden sisteme
+          girilmiş olması durumunda, sistem, bu faturanın sisteme eklenemeyeceğine dair bir uyarı
+          verir. Bu sayede onay mekanizmasının ilerleyen safhasındaki onay mercilerinin, fatura
+          üzerinde yazan verilerle gerçekleştirme görevlisinin girmiş olduğu bilgileri karşılaştırarak
+          kontrol yapması sağlanır. Böylece, bir faturanın birden fazla ödeme işleminde kullanılması
+          engellenir.
+          - E-imza ile imzalama işlemleri: Harcama birimi kullanıcısı, ekleme işlemleri
+          tamamlandıktan sonra Doküman Yönetim Sisteminde kullandığı akıllı kartını bilgisayara
+          takar ve imzalama işlemini gerçekleştirir. İmzalama işlemi tamamlandığında sistem “Belge
+          imzalanmıştır” şeklinde bir uyarı verir.
+          - Harcama birimi kullanıcısı, harcama talimatının imzalama işlemi bittikten sonra bu
+          harcama talimatına bağlı ödeme emri belgesini oluşturur. Bundan sonraki işlemler
+          muhasebe modülü altında bulunan Ö.E.B. Listesi ekranından devam eder.
+          - Gerçekleştirme görevlisi Ö.E.B. Listesi ekranına girip oluşturulan ödeme emri belgesini
+          çift tıklayarak imzalama işlemini gerçekleştireceği ekranı açar. Ödeme emri belgesi için
+          oluşturulan ve imzalanan harcama talimatı ekleriyle birlikte ödeme emri belgesinin ekine
+          sistem tarafından otomatik eklenir. Gerçekleştirme görevlisi bu harcama talimatını, eklerini
+          görüntüleyerek bu belge üzerindeki imzaları görüp doğrular. Bu işlem için harcama
+          talimatının üzerinde sağa tıklayarak “Detay göster” butonuna basıp detayları görebilir.
+          Ödeme emri belgesi ve eklerini kontrol ettikten sonra “İmzala” butonuna basarak hem
+          belgeyi imzalamış hem de onay mekanizmasında bir üst mercie çıkarmış olur.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 Balgat/Ankara                  Ayrıntılı bilgi için irtibat : Gökhan YAMANKALE (Daire Bşk.)
+Telefon: (0 312) 207 85 75                              Elektronik Ağ: http://www.sgk.gov.tr
+Faks: (0 312) 207 87 83                                 e-posta: butce@sgk.gov.tr
+
+
+
+
+                                                                                         KAYIT DIŞI ÇALIŞMAYIN
+                                                                                       GELECEĞİNİZİ RİSKE ATMAYIN
+          - Ödeme emri belgesi, harcama yetkilisince iptal edilir ya da e-imza ile imzalanarak
+          onaylanır. Belgenin iptal edilmesi durumunda söz konusu belge sistemden tamamen
+          silinmekte ve baştan oluşturulması gerekmektedir. Ancak kullanım kolaylığı sağlaması
+          açısından belgeler silinmekle birlikte, “İptal listesi klasörü” altında sisteme daha önce
+          taranarak eklenen belgeler görüntülenebilmektedir. Belgenin onaylanması durumunda
+          uygulama ekranına “Muhasebeye gönder” butonu gelmekte ve bu butona basılarak belge
+          muhasebe birimine gönderilmektedir.
+          - MOSİP sistemi kullanıcıları, sadece kendi birimleriyle ilgili olmak üzere Plan Bütçe
+          Analiz Modülü altında yer alan MOSİP E-Arşiv klasörünü tıklayarak e-imza ile imzalamış
+          oldukları belgeleri ayrı ayrı görüntüleyebilirler.
+
+         2. Muhasebe Birimlerince Yapılacak İşlemler
+        Muhasebe birimlerince yapılacak işlemlerde birinci kişi muhasebe birim kullanıcısıdır.
+Muhasebe birim kullanıcısı, ödeme emri belgesini iptal eder ya da onaylar. Muhasebe birim
+kullanıcısı, taranarak sisteme dahil edilen faturada yazan bilgiler (fatura numarası, fatura tarihi,
+vergi kimlik numarası) ile sisteme aktarılan fatura bilgilerini kontrol eder. Ayrıca ilgili Yönetmelik
+gereği kanıtlayıcı belgelerin tamam olup olmadığını sistemden kontrol eder.
+        Muhasebe birim kullanıcısının belgeyi onaylaması durumunda belge, muhasebe yetkilisinin
+ekranına düşer. Muhasebe yetkilisi de belgeyi iptal eder ya da onaylar. Muhasebe yetkilisince
+belgenin onaylanması halinde sistem tarafından yevmiye numarası verilir.
+        Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılacak
+harcamalarda, veri giriş işlemleri gerçekleştirme görevi sayıldığından, ödeme belgesine ayrıca bu
+verileri kanıtlayıcı belge bağlanmaz.
+
+         3. Muhafaza Edilecek Evrakların Tasnifi
+         Sisteme taranarak dâhil edilmiş olan evrak, üzerine ödeme emri belgesi numarası yazılarak
+ilgili birimde tarih sırasına göre arşivlenecek olup ayrıca muhasebe birimine gönderilmeyecektir.
+Sistemde üretilen diğer belgelerin çıktısı alınmayacaktır.
+
+       4. Uygulama Başlangıcı
+       MOSİP e-İmza Projesi 2 Haziran 2014 tarihinden itibaren uygulanmaya başlanacaktır.
+       Maliye Bakanlığı ile Kurumumuz arasında e-fatura entegrasyonu tamamlanana kadar
+Sağlık Sosyal Güvenlik Merkezlerince yürütülen işler, MOSİP e-imza kapsamı dışında bırakılmış
+olup uygulama başlangıcı için ayrıca bir duyuru yapılacaktır.
+
+       Yukarıda yer alan alt başlıklarda belirtilmeyen detay bilgileri de kapsayan ayrıntılı olarak
+hazırlanmış olan kullanım kılavuzu MOSİP programı içerisinde hâlihazırda bulunmaktadır.
+
+          Bilgi edinilmesini ve gereğini rica ederim.
+
+
+                                                                                       Yadigar GÖKALP İLHAN
+                                                                                           Kurum Başkanı
+
+DAĞITIM:
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 Balgat/Ankara                  Ayrıntılı bilgi için irtibat : Gökhan YAMANKALE (Daire Bşk.)
+Telefon: (0 312) 207 85 75                              Elektronik Ağ: http://www.sgk.gov.tr
+Faks: (0 312) 207 87 83                                 e-posta: butce@sgk.gov.tr
+
+
+
+
+                                                                                         KAYIT DIŞI ÇALIŞMAYIN
+                                                                                       GELECEĞİNİZİ RİSKE ATMAYIN
+Gereği:                                                Bilgi:
+Merkez ve Taşra Teşkilatına                            Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Ziyabey Cad. No:6 Balgat/Ankara                  Ayrıntılı bilgi için irtibat : Gökhan YAMANKALE (Daire Bşk.)
+Telefon: (0 312) 207 85 75                              Elektronik Ağ: http://www.sgk.gov.tr
+Faks: (0 312) 207 87 83                                 e-posta: butce@sgk.gov.tr
+
+
+
+
+                                                                                         KAYIT DIŞI ÇALIŞMAYIN
+                                                                                       GELECEĞİNİZİ RİSKE ATMAYIN
+

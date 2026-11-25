@@ -1,0 +1,215 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/143959
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 11899985
+ADI: E-SİGORTA SÖZLEŞMESİNİN E-DEVLETTEN ONAYLANMASI VE AKTİVASYON İŞLEMLERİ HAKKINDA 14/9/2018 TARİHLİ VE 11899985 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: a99ec3f47a03f8ec2d6d4986e86691e096d610f83ca09f384aef677334c1aeac
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Sayı : 99779835-202.99-E. 11899985
+14/09/2018
+Konu : E-Sigorta Sözleşmesinin E-Devletten Onaylanması ve Aktivasyon İşlemleri
+GENEL YAZI
+
+Bilindiği üzere işverenler tarafından Kuruma olan yükümlülüklerin yerine getirilmesi
+Kurumdan alınan e-Sigorta kullanıcı adı ve şifresi vasıtasıyla yapılmaktadır.
+
+Diğer taraftan, Sosyal Sigorta İşlemleri Yönetmeliğinin “İşyeri Bildirgesi” başlıklı 27 nci
+maddesinde,
+
+“İşyerinde, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi veya (c) bendi
+kapsamında sigortalı çalıştıran, sigortalı çalıştırılan bir işyerini devir alan ya da bu nitelikte işyeri
+kendisine intikal eden işveren, Kanunun 11 inci maddesinde belirtilen sürelerde vermekle yükümlü
+olduğu örneği Ek-6 ve Ek-6/A'da bulunan işyeri bildirgesini Kuruma elektronik ortamda
+göndermek zorundadır.”
+
+denilmek suretiyle, gerek yasal süresi içerisinde gerekse yasal süresi dışında Kuruma
+gönderilen işyeri bildirgelerine ilişkin bildirimlerin elektronik ortamda yapılması zorunlu hale
+getirilmiş olup, buna bağlı olarak yasal süresi geçmiş işyeri bildirgelerinin de işverenlerce intermet
+ortamından gönderilmesine ilişkin program düzenlemeleri tamamlanarak işletime alınmıştır.
+
+Yine yapılan düzenlemeyle, e-sigorta kullanıcı kodu ve şifresi alınması amacıyla yapılacak
+başvurular, işyeri bildirgesinin gönderilmesi sırasında işyeri tescil ekranlarında yer alan “e-Sigorta
+Kullanıcısı Bilgileri” kısmının doldurulmasıyla yapılabilecek ve e-Bildirge aktivasyon işlemleri
+işverenlerce/yöneticilerce/kullanıcılarca (“e-Sigorta (Sözleşmesi” nin e-Devlet üzerinden
+onaylanması suretiyle otomatik olarak gerçekleştirilecektir.
+
+Ancak, söz konusu işlemlerin e-Devlet vasıtasıyla yapılabilmesi için, tüzel özel işyerleri
+yönüyle sisteme kaydedilen tüm yöneticilerinin, adi ortaklık/iş ortaklığı işyerleri yönüyle sisteme
+kaydedilen tüm işverenlerin/ortakların gerçek kişi olması gerekmektedir.Aksi halde aktivasyon
+işlemleri, e-Bildirge hizmetleri internet kullanıcı kodu ve kullanıcı şifresi başvuru formu ve
+e-Sigorta sözleşmesinin imzalanarak ilgili üniteye verilmek suretiyle yapılmaya devam edilecektir.
+
+Buna göre, e-Bildirge aktivasyon işlemlerinin sistem üzerinden yapılarak e-Bildirge
+kullanıcı kodu ve şifresinin ilgiliye e-Devlet vasıtasıyla gösterilebilmesi için,
+
+1- İşyeri tescil işleminin gerçekleştirilmesini müteakip,
+
+-Gerçek kişi işyerleri için işverenin,
+
+-Tüzel kamu işyerleri için yöneticinin,
+
+-Tüzel özel işyerleri için tescil aşamasında sisteme kaydedilmiş tüm yöneticilerin,
+-Adi ortaklık/İş ortaklığı işyerleri için tüm işverenlerin/ortakların,
+
+-Apartman yönetimi işyerleri için yöneticinin,
+
+e-Devlet ekranlarında “e-Sigorta Sözleşmesi” gösterilecek ve onaylanıp kabul edilmesi
+halinde kullanıcı kodu ve şifresi yetkilendirilen kullanıcının e-Devlet ekranında gösterilecektir.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithat Paşa Cd.No:7 Sıhhıye / ANKARA Ayrıntılı bilgi için irtibat: Niyazi CEYLAN (Şef)
+Tel: (0312) 458 7131 Faks:( 312)4321237
+
+Elektronik Ağ:www.sgk.gov.tr
+
+İşverenler Daire Başkanlığı
+
+| İsveren Oihağammar İşeri
+| İşe ögesi Vedki Verikee Kalissnie Mögleri İm
+Sicil , Corn Aren ve m | pri Ser.i » “o.” ———
+EE a Şİ | KLEDEL DEOSDO ANKARA | sam | m 7 o ma
+m Şi Şia e Je
+RE 1 0
+Sözleşme Onay Mesajı
+MEHMET LZ ĞLU ünvanlı 2-0510-01-01-L777 7006-02-67
+000-001 sicil sayılı işyeri dosyanız için telep ettiğiniz e-Bildirge
+kullanıcı kodu ve şifresi aşağıda ki “e-Sigorta Sözleşmesi"ni okuyup
+onaylamanız halinde 174******** TC kimlik numaralı (7 —— — —
+ÇE için oluşturulacaktır.
+Okudum Onaylıyorum
+e-Sigorta Sözleşmesi
+2- İşverence/Yöneticilerce gerçekleştirilen onay işlemi sonrasında şifre talep edilen
+e-Bildirge kullanıcısının e-Devlet ekranlarına “e-Sigorta Sözleşmesi” gösterilerek ve ilgili
+tarafından onaylanıp kabul edilmesi halinde şifreye erişim sağlanacaktır.
+| E Bekleme Kelisenee Öldeğiemer İrrerleri
+| İyrenRigderi 1 Vetiki Verümm Klanı Bökgileri İ İşlem
+Sel . Cern Adresi ii .i Saral Sİ gn ia
+KK —— ALTINDAĞ ALANA İ gagreeeeee İY) 3 Cc
+a m Yİ an İŞ
+İk Omer İİ Sermek See
+Sözleşme Onay Mesajı
+ünvanlı 2-0510-01-01-(17  J006-02-67
+000-001 sicil sayılı işyeri dosyası için adınıza talep edilen e-Bildirge
+kullanıcı kodu ve şifresi aşağıda ki “e-Sigorta Sözleşmesi"ni okuyup
+onaylamanız halinde gösterilecektir.
+e-Sigorta Sözleşmesi
+
+3- Şifre talep edilen e-Bildirge kullanıcısının işveren yada yönetici ile aynı kişi olması
+durumunda bu kişilerden yalnızca kullanıcı kodu ve şifrenin gösterilmesi sırasında “e-Sigorta
+Sözleşmesi”ni onaylamaları istenilecek, ayrıca işveren yada yönetici olarak onay istenilmeyecektir.
+Birden fazla yöneticisi/ortağı olan işyerlerinde onay mesajı e-bildirge kullanıcısı olan
+yöneticinin/ortağın dışındaki diğer yöneticilere/ortaklara gönderilecektir.
+
+4- “e-Sigorta Sözleşmesi” onaylanması amacıyla ilgililerin e-Devlet ekranlarına düştükten
+sonra, onaylayacak yöneticilerden/ortaklardan herhangi birinin onaydan çıkarılması yada işyeri
+bildirgesi ile bildirilen e-Bildirge kullanıcısının değiştirilmek istenildiği durumlarda, itiraz işyerinin
+bağlı bulunduğu sosyal güvenlik il müdürlüğüne/sosyal güvenlik merkezine yapılacak ve gerekli
+incelemenin ardından uygun görülmesi halinde talep gerçekleştirilecektir.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithat Paşa Cd.No:7 Sıhhıye / ANKARA Ayrıntılı bilgi için irtibat: Niyazi CEYLAN (Şef)
+Tel: (0312) 458 7131 Faks:( 312)4321237
+
+Elektronik Ağ:www.sgk.gov.tr
+
+İşverenler Daire Başkanlığı
+
+Söz konusu işlemler, işyeri tescil programlarında bulunan “Tescil Değişiklik İşlemleri”
+menusu altındaki “e-Bildirge Yetkili Onay Değişiklik” ve “e-Bildirge Kullanıcı Değişiklik”
+bölümlerinden yapılabilecektir. Onay işlemlerinin tamamlanarak e-Bildirge kullanıcı kodu ve
+şifresinin verilmesinin ardından bu ekranlar vasıtasıyla onaydan yönetici çıkarılması yada kullanıcı
+değişikliği yapılması mümkün olmayacaktır.
+
+Yine, Ünite kullanıcılarımız onay aşamalarını bu menüler vasıtasıyla takip
+edebileceklerdir.
+amm GoMi10e Onay Yetki ani
+| ee imei 8-1-1 - 289
+| - — bim Sm. 5 mari mi “ve o... Bae
+— e
+IE —
+
+5- “e-Sigorta Sözleşmesi”nin onaylanmayarak reddedilmesi halinde kayıt, kullanıcıların
+onay listelerinde görüntülenmeye devam edecektir.
+
+6- Onaylayacak işveren/ortak/yönetici e-Devletin ilgili menüsünden giriş yaptığında
+onayını bekleyen kayıtlar liste halinde karşısına çıkacak, “işlem yap” butonuna bastığında
+“e-Sigorta Sözleşmesi” metnini inceleyerek, “Onay” yada “Reddet” işlemini yapabilecek,
+onayladığında ilk sayfadaki işlem yap butonu yerinde "onaylı" ibaresi görüntülenecektir.
+
+İşveren Olduğumuz İşyerleri
+İ İşveriBilgileri İİ Yetki Verilen Kullanıcı Bilgileri İşlem
+Sicil a Ünvan Adresi rc Kmdik Ad Soyad pF m
+2-0510-02-02-
+11 İSTANBUL
+İzi | | Çiler >) 9 Şem
+
+7- İşverenler, yöneticiler ve e-Bildirge Kullanıcıları onay aşamalarını “Göster” butonu
+
+vasıtasıyla e-Devlet ekranlarından takip edebileceklerdir.
+Sözleşme Onay Durum x
+İ İşveren Kullanıcı Onay Durumu
+Ad/Soyad
+CA — An ONAYLANMADI
+MUZ İç ÖYONAYLANMADI
+| E-Bildirge Kullanıcı Onay Durumu|
+Ad/Soyad | OnayDurum
+KE Salğomamai
+8- Onaylama işlemi kullanıcı tarafından onay sonrasında iptal edilemeyecektir.
+9- Onay gittikten sonra itiraz neticesinden onay mekanizmasındaki herhangi bir kişinin
+
+Ünitece onaydan çıkarılması durumunda onaydan çıkarılan kişilerin dışındakiler e-devletten onay
+işlemini yaptıklarında şifre kullanıcıya gidecektir.
+
+10- e-Devletten e-Bildirge aktivasyon işlemleri sürerken işveren ayrıca manuel olarak
+müracaat etmişse, önce hangi taraftan şifre üretildiyse o geçerli olacak ve ünite kullanıcımıza "Bu
+işyeri için e-Bildirge kullanıcısı tanımlanmıştır." mesajı verilecektir.
+
+11- e-Bildirge kullanıcısının e-Devlet üzerinden gönderilen onayı reddetmesi halinde ve
+işverenin yeni bir kullanıcı belirlemesi durumunda bunu işyerinin bağlı bulunduğu sosyal güvenlik
+il müdürlüğüne/sosyal güvenlik merkezine bildirecek ve ünitenin yeni kullanıcıyı sisteme
+tanımlamasıyla birlikte yöneticiler için onay mekanizması baştan başlayacaktır.
+
+12- Belirtilen işlemlerin yapılması sürecinde “e-Sigorta Sözleşmesi”nin gönderilme,
+görüntülenme, onay, reddedilme tarih ve saatleri, işlem yapılan İP numaraları gibi veriler
+Kurumumuz veri tabanında kayıt altına alınacaktır.
+
+13- İşyeri tescilinin tamamlanmasının ardından gerekli şartları taşıyan ve e-Bildirge
+kullanıcı kodu ve şifresi oluşturulacak işyerleri için ünite kullanıcısına ve gönderilecek tebligatla
+işverene aşağıdaki mesajla gerekli bilgilendirme yapılacaktır.
+
+“e-Bildirge kullanıcı kodu ve şifresi oluşturulabilmesi için İşveren/Y önetici/Ortak
+123#******* TC kimlik numaralı M**** K**** ile e-Bildirge kullanıcısı 124******** TC kimlik
+numaralı A***** G******'in e-Devlet kullanıcısına e-Sigorta Sözleşme Onayı gönderilmiştir.”
+
+14- İşyeri tescilinin tamamlanmasının ardından gerekli şartları taşımaması nedeniyle
+e-Bildirge kullanıcı kodu ve şifresi mevcut aktivasyon programı vasıtasıyla oluşturulacak işyerleri
+için Ünite kullanıcısına aşağıdaki mesajla gerekli bilgilendirme yapılacaktır.
+
+Gerçek kişi Yönetici/Ortak bulunamadığından yada tüm yönetici ve ortaklar gerçek kişi
+olmadığından otomatik e-Bildirge aktivasyon süreci başlatılamamıştır. 123******** TC kimlik
+numaralı A**** G#*#*** için e-Bildirge kullanıcı kodu ve şifresi oluşturulabilmesi için e-Sigorta
+Sözleşmesinin onaylanarak Kuruma intikal ettirilmesi gerekmektedir.”
+
+Ayrıca, işverene gönderilecek tebligata aşağıdaki kısım eklenmek suretiyle gerekli
+bilgilendirme yapılacaktır.
+
+«“123*#*#*##**** TC kimlik numaralı A**** G***** için e-Bildirge kullanıcı kodu ve
+şifresi oluşturulabilmesi için e-Sigorta Sözleşmesinin onaylanarak Kuruma intikal ettirilmesi
+gerekmektedir.”
+
+15- e-Bildirge şifrelerinin bloke edilmesi, unutulması veya kaybolması halinde yeni şifre
+verilmeyecek olup, e-Devlet şifresi üzerinden ulaşılan e bildirge şifresi yeniden kullanılacaktır.
+
+Bilgi edinilmesini rica ederim.
+
+Savaş ALIÇ
+Genel Müdür V.
+DAĞITIM:
+BİLGİ VE GEREĞİ İÇİN:
+Sosyal Güvenlik İl Müdürlüklerine/Merkezlerine

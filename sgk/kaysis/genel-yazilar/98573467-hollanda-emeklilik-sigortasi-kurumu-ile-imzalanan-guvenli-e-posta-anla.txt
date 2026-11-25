@@ -1,0 +1,268 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/203062
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 98573467
+ADI: HOLLANDA EMEKLİLİK SİGORTASI KURUMU İLE İMZALANAN GÜVENLİ E-POSTA ANLAŞMASI HAKKINDA 19.07.2024 TARİHLİ VE 98573467 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 14b2e28f8f380f5004c04048b86ab01b5f1a43798262c6dbd991e6591774bd86
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                    T.C.
+                                 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : E-15591373-010.99-98573467                                                                                19.07.2024
+Konu : Hollanda Emeklilik Sigortası Kurumu İle
+       İmzalanan Güvenli E-Posta Anlaşması
+
+
+                                                        GENEL YAZI
+
+
+        05.04.1966 tarihinde imzalanan ve 01.02.1968 tarihinde yürürlüğe giren “Türkiye Cumhuriyeti
+ile Hollanda Krallığı Arasında Sosyal Güvenlik Sözleşmesi” hükümlerine göre emeklilik
+uygulamalarında kullanılan formüler ve yazıların kâğıt ortamında fiziki posta yoluyla gönderilmesinden
+vazgeçilerek güvenli e-posta yoluyla gönderilmesi amacıyla, iki ülke sigorta kurumları arasında
+yürütülen çalışmalar sonucunda Kurumumuz ile Hollanda Sosyal Sigorta Kurumu (SVB) arasında
+“Sosyal Güvenlik Kurumu ile Sociale Verzekeringsbank (SVB) Arasında Formlar ve Yazıların
+Elektronik Ortamda Gönderilmesine İlişkin Anlaşma” (Ek 1) (Genel Yazıda bundan sonra Anlaşma
+olarak anılacaktır.) 07.05.2024 tarihinde Bursa'da imzalanmış olup 01.08.2024 tarihinde yürürlüğe
+girecektir. Anlaşmanın yürürlüğe girmesiyle birlikte emeklilik sigortası uygulamalarında kullanılan
+formüler ve yazıların, Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla gönderilmesi
+yeterli olup ayrıca fiziki posta yoluyla gönderilmeyecektir.
+        Hollanda emeklilik sigortası kurumları; Hollanda Çalışanlar Sigorta Kurumu (UWV) ile
+Hollanda Sosyal Sigorta Kurumu (SVB) olup formüler ve yazıların güvenli e-posta yoluyla
+gönderilmesine dair Anlaşma sadece Hollanda Sosyal Sigorta Kurumu (SVB) ile imzalanmıştır. Formüler
+ve yazılar aşağıda belirtilen usul ve esaslara uygun bir şekilde düzenlendikten sonra 01.08.2024
+tarihinden itibaren;
+        - Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla gönderilecek,
+        - Hollanda Çalışanlar Sigorta Kurumuna (UWV) ise mevcut uygulamada olduğu gibi kağıt
+ortamında fiziki posta yoluyla gönderilmeye devam edilecektir.
+        Anlaşmanın yürürlüğe girmesiyle birlikte; işlemlerin hızlandırılması, fiziki postada meydana
+gelen gecikmelerin önlenmesi, fiziki posta masraflarının ortadan kaldırılması, belge alışverişinin güvenli
+bir şekilde yapılması ve belgelerin elektronik arşivde saklanması hedeflenmektedir.
+        01.08.2024 tarihinden geçerli olmak üzere Anlaşma kapsamında sosyal güvenlik il
+müdürlükleri/sosyal güvenlik merkezlerimizce (SGİM/SGM) yapılacak işlemler aşağıda açıklanmıştır:
+
+        1) Formüler/Yazıların Hazırlanması
+        Türkiye Cumhuriyeti ile Hollanda Krallığı Arasında Sosyal Güvenlik Sözleşmesinin emeklilik
+uygulamalarında kullanılan formüler güncellenmiş ve Portable Document Format (PDF) dosyası şeklinde
+bilgisayar ortamında doldurulacak hale getirilmiştir. Formülerin doldurulmasını kolaylaştırmak ve yanlış
+doldurulmasını önlemek adına gerekli kontroller konularak; örneğin “Evet” seçeneği işaretlendiğinde veri
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı                                                    Bilgi için: Ramazan ELMA
+Mithatpaşa Caddesi No:7 Sıhhiye / Ankara                                                                            Daire Başkanı
+Telefon No: (0 312) 458 78 20 Faks No: (0 312) 432 12 45
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: 0 312 458 81 43
+
+9                                                                1/5
+girişi yapılacak alanların açılması, “Hayır” seçeneği işaretlendiğinde veri girişi yapılmaması gereken
+alanların kapanması ve aynı anda hem “Evet” hem de “Hayır” seçeneğinin işaretlenmemesi sağlanmıştır.
+Ayrıca, formülerde işaretlenmek istenen kutucuk tıklandığında otomatik olarak işaretlenmesi
+sağlanmıştır.
+        Anlaşma kapsamında güvenli e-posta yoluyla gönderimi yapılacak formülerin listesi,
+“Ek 2-Güvenli E-Postayla Gönderilmesi Gereken Formların Listesi”nde yer almakta olup, söz
+konusu formülere Kurumun intranet sayfasındaki “Kurumsal / Dokümanlar / Yurtdışı / Formülerler”
+bölümünde yer alan “Türkiye-Hollanda Sosyal Güvenlik Sözleşmesinde Kullanılan Formüler”
+kısmından ulaşılabilecektir. Anlaşmanın yürürlük tarihi olan 01.08.2024 tarihinden geçerli olmak üzere
+yukarıda belirtilen adresteki formülerin kullanılması gerekmektedir.
+        Bilindiği üzere, Türkiye-Hollanda Sosyal Güvenlik Sözleşmesinin uygulanmasında formülerin
+haricinde matbu yazılar da kullanılmaktadır. Bu matbu yazılara, Kurumumuz intranet sayfasındaki
+“Kurumsal / Dokümanlar / Yurtdışı / Yurtdışı Form ve Yazışmalar” kısmından
+ulaşılabilecektir.
+        Yukarıda belirtilen adreslerde yer alan formüler/yazılar haricinde, Hollanda emeklilik sigortası
+kurumlarına başkaca bir yöntemle veya usulle hazırlanan formüler/yazı gönderilmeyecektir. Söz konusu
+formüler/yazıların doldurulmasını kolaylaştırmak için zaman zaman güncelleme yapılmaktadır. Eski
+versiyonuyla çalışılmasını önleme adına, formüler/yazıların bilgisayara kaydedilip sürekli kaydedilen
+nüshaların kullanılmaması, ihtiyaç duyulduğunda her seferinde yukarıda belirtilen adresten temin
+edilmesi gerekmektedir.
+        Formüler/yazı, bilgisayar ortamında düzenlenirken doğru ve eksiksiz bir şekilde düzenlenmesi
+gerekmektedir. Mükerrer yazışmaya ve gereksiz iş yüküne meydan vermeme adına, formüler/yazıda
+doldurulması gereken alanlar kesinlikle boş bırakılmayacaktır.
+        Kurumumuz ile Hollanda Çalışanlar Sigorta Kurumu (UWV) ile Hollanda Sosyal Sigorta
+Kurumu (SVB) arasında kullanılacak her türlü formüler/yazı ve eki belgeler; usulüne uygun bir şekilde
+bilgisayar ortamında düzenlendikten sonra, yazıcı çıktısı alınarak ıslak imza ile imzalanacak, bir bütün
+halinde tüm sayfalarıyla birlikte tarayıcıdan geçirilecek ve PDF formatında bilgisayara kaydedilecektir.
+PDF haricinde bir dosya uzantısı kesinlikle kullanılmayacaktır. Tarayıcıdan geçirilip PDF formatında
+bilgisayara kaydedilen formüler/yazı ve eki belgelerin okunaklı ve anlaşılabilir olması için tarama
+işlemine özen gösterilecek, tarama işlemi uygun kalite/çözünürlükte yapılacaktır.
+        PDF formatında bilgisayara kaydedilen formüler/yazılara, “Ek 4-Güvenli E-Posta Yöntemiyle
+Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de Görüntülenmesine İlişkin
+Kılavuz”da belirtilen usullere uygun bir şekilde EBYS programından içeriksiz evrak olarak tarih/sayı
+alınacaktır.
+        Bilindiği üzere, hazırlanan formüler Hollanda emeklilik sigortası kurumlarına üst yazı
+mahiyetinde kullanılan matbu yazılar ekinde gönderilmekte olup, EBYS programından içeriksiz evrak
+olarak alınan tarih/sayı, üst yazı mahiyetinde kullanılan matbu yazıların üzerine elle yazılacaktır.
+Tarih/sayısı yazıldıktan sonra bu belgeler, yeniden tarayıcıdan geçirilerek bilgisayara PDF formatında
+kaydedilecektir. Akabinde;
+        - Hollanda Sosyal Sigorta Kurumuna (SVB) aşağıda belirtildiği şekilde güvenli e-posta yoluyla
+gönderilecektir.
+        - Hollanda Çalışanlar Sigorta Kurumuna (UWV) ise mevcut uygulamada olduğu gibi kağıt
+ortamında fiziki posta yoluyla gönderilmeye devam edilecektir.
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı                                                    Bilgi için: Ramazan ELMA
+Mithatpaşa Caddesi No:7 Sıhhiye / Ankara                                                                            Daire Başkanı
+Telefon No: (0 312) 458 78 20 Faks No: (0 312) 432 12 45
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: 0 312 458 81 43
+
+9                                                                2/5
+        2) Formüler/Yazıların Güvenli E-Posta Yoluyla Gönderilmesi
+        PDF formatında bilgisayara kaydedilen formüler/yazı ve eki belgeler; “Ek 3-Formların
+Gönderilmesi Gereken Kurumların E-Posta Adreslerinin Listesi”nde yer alan Hollanda Sosyal
+Sigorta Kurumunun (SVB) e-posta adresine gönderilecektir.
+        Hollanda Sosyal Sigorta Kurumu (SVB) görev alanına giren formüler/yazılar
+SVBLeiden@svb.nl e-posta adresine gönderilecek ve cevapları da aynı e-posta adresinden gelecektir.
+        İşbu Genel Yazının “1) Formüler/Yazıların Hazırlanması” alt başlığında belirtilen usullere
+göre hazırlanan, Kurumumuz ile Hollanda Sosyal Sigorta Kurumu (SVB) arasında kullanılacak her türlü
+formüler/yazı ve eki belgeler, yalnızca “Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta
+Adreslerinin Listesi”ndeki Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla
+gönderilecek olup, ayrıca fiziki posta yoluyla gönderilmeyecektir.
+        Hollanda Sosyal Sigorta Kurumuna (SVB), SGİM/SGM’ce gönderilecek e-postalar
+SGİM/SGM’lerin “Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin
+Listesi”ndeki kurumsal e-posta adreslerinden gönderilecek olup, Kurum tarafından verilmiş olsa bile
+kişisel e-posta adreslerinden Hollanda Sosyal Sigorta Kurumuna (SVB) e-posta gönderimi
+yapılmayacaktır.
+        Hollanda Sosyal Sigorta Kurumuna (SVB) gönderilmek üzere ilgili personel tarafından hazırlanan
+evraklar; ilgili personelin kendi kurumsal e-postası üzerinden görev yaptığı SGİM/SGM’nin
+“Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin Listesi”ndeki
+kurumsal e-posta adresine gönderilecek ve Hollanda Sosyal Sigorta Kurumuna (SVB) gönderimi bu
+e-posta adresi üzerinden gerçekleştirilecektir.
+        Örnek: Kahramanmaraş SGİM’ye bağlı Dulkadiroğlu SGM bünyesindeki Yurtdışı İşlemleri
+Servisinde görev yapan (Y) isimli personel tarafından hazırlanan evraklar (Y)’nin, “y…..@sgk.gov.tr”
+e-posta adresinden “Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin
+Listesi”nde kayıtlı olan dulkadiroglusgm@sgk.gov.tr e-posta adresine gönderilecek ve bu gönderinin
+ilgili    Hollanda    Sosyal      Sigorta    Kurumunun      (SVB)     e-posta  adresine    gönderimi,
+dulkadiroglusgm@sgk.gov.tr e-posta adresi üzerinden gerçekleştirilecektir.
+        Gönderilecek PDF dosyasının boyutunun büyük olması nedeniyle tek seferde gönderilememesi
+halinde PDF dosyaları bölünerek birden fazla e-posta olarak gönderilecektir.
+        Hazırlanan evrakların Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla
+gönderilmesi esnasında e-postanın “Konu-Subject” bölümüne mutlaka “Kişinin adı soyadı ile birlikte
+biliniyorsa Hollanda sicil numarası, bilinmiyorsa kişinin gün/ay/yıl olarak doğum tarihi”
+yazılacaktır.
+
+        3) Hollanda Sosyal Sigorta Kurumundan (SVB) Gelen E-Postalara Yapılacak İşlemler
+        Hollanda Sosyal Sigorta Kurumundan (SVB) güvenli e-posta yoluyla gelen formüler/yazılar ile
+eklerinin, bir bütün halinde tüm sayfalarıyla birlikte yazıcıdan çıktısı alınacak, akabinde yine tüm
+sayfalarıyla birlikte tarayıcıdan geçirilerek “Ek 4-Güvenli E-Posta Yöntemiyle Gönderilen/Alınan
+Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de Görüntülenmesine İlişkin Kılavuz”da belirtilen
+usullere uygun bir şekilde EBYS programından tarih/sayı alınacaktır.
+        Bu şekilde tarih/sayı alındıktan sonra gelen formüler/yazı gereği yapılmak üzere ilgili servise
+havale edilecek, formüler/yazının içeriğine göre gerekli işlemler yapılacak ve gönderilmesi gereken
+formüler/yazı hazırlandıktan sonra, Hollanda Sosyal Sigorta Kurumunun (SVB) e-posta adresine işbu
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı                                                    Bilgi için: Ramazan ELMA
+Mithatpaşa Caddesi No:7 Sıhhiye / Ankara                                                                            Daire Başkanı
+Telefon No: (0 312) 458 78 20 Faks No: (0 312) 432 12 45
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: 0 312 458 81 43
+
+9                                                                3/5
+Genel Yazının yukarıdaki “2) Formüler/Yazıların Güvenli E-Posta Yoluyla Gönderilmesi” alt başlığı
+altındaki açıklamalara uygun bir şekilde gönderilecektir.
+        Hollanda Sosyal Sigorta Kurumu (SVB) tarafından yanlış bir birime e-posta gönderilmesi halinde
+bunun doğru birime yine e-posta yoluyla iletilmesi, e-postayı ilk alan birim tarafından yapılacaktır.
+Yanlış birime gönderilen e-postaların doğru birime iletilmesi üst yazıyla yapılmayacaktır. Yanlış birime
+gönderilen e-postalar, doğru birime e-posta yoluyla iletilirken e-postanın “Bilgi-CC” kısmına e-postayı
+gönderen Hollanda Sosyal Sigorta Kurumunun (SVB) e-posta adresi eklenecektir. Bu sayede, aynı dosya
+hakkında bundan sonra yapılacak e-posta gönderimlerinin hangi birimle yapılması gerektiği hususunda
+Hollanda Sosyal Sigorta Kurumu (SVB) bilgilendirilmiş olacaktır.
+
+        4) Dikkat Edilmesi Gereken Hususlar
+        a) Formüler ve eki belgeler gönderilirken mutlaka üst yazı mahiyetinde kullanılan matbu yazılar
+düzenlenecek ve düzenlenen formüler ile eki belgeler bu matbu yazılar ekinde;
+        - Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla,
+        - Hollanda Çalışanlar Sigorta Kurumuna (UWV) ise kağıt ortamında fiziki posta yoluyla,
+        gönderilecektir.
+        b) Anlaşma, sağlık uygulamalarını kapsamamakta olup, sağlık uygulamalarıyla ilgili Hollanda
+hastalık kasalarıyla yapılan formüler alışverişi mevcut uygulama çerçevesinde devam edecektir.
+        c) Düzenlenen formüler/yazıda sigortalının adı-soyadı, doğum yeri, doğum tarihi, baba adı ile
+mevcut olması halinde kızlık soyadı ve Hollanda sigorta numarası mutlaka belirtilecektir. Mükerrer
+yazışmaya ve gereksiz iş yüküne meydan vermeme adına, doldurulması gereken alanlar kesinlikle boş
+bırakılmayacaktır.
+        ç) “Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin Listesi”ndeki
+e-posta adresleri haricinde bir e-posta, telefon, faks, WhatsApp ve benzeri kanallardan gelen soru ve
+taleplere kesinlikle cevap verilmeyecek ve listede kayıtlı olmayan bir adresten Hollanda Sosyal Sigorta
+Kurumuna (SVB) e-posta gönderimi yapılmayacaktır.
+        d) Hollanda Sosyal Sigorta Kurumundan (SVB) alınan veya bu kuruma gönderilen e-postalar,
+“Ek       3-Formların       Gönderilmesi         Gereken     Kurumların       E-Posta     Adreslerinin
+Listesi”nde kayıtlı e-posta kutularından silinmeyecektir. Ancak her yıl sonunda işlemi tamamlananlar
+işlemi yapan birimce kurum bilgisayarlarında uygun bir şekilde arşivlenecektir.
+        e) Hollanda Sosyal Sigorta Kurumundan (SVB) güvenli e-posta yoluyla alınan veya bu kuruma
+gönderilen formüler/yazı ile eklerinin kağıt ortamındaki nüshaları cari usullere göre sigortalı
+dosyalarında muhafaza edilecektir.
+        f) Güvenli e-posta yoluyla gönderilen/alınan formüler/yazı ve eklerinin “Arşiv Tarama
+Sisteminde (ATS)” eksiksiz bir şekilde görüntülenebilmesi için “Ek 4-Güvenli E-Posta Yöntemiyle
+Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de Görüntülenmesine İlişkin
+Kılavuz”da belirtilen hususlara uygun bir şekilde işlem yapılacaktır. Kılavuza uygun bir şekilde işlem
+yapılarak evrakların ATS'de de görüntülenmesi sağlanmış olacağından, evrakların ATS'ye yüklenmesi
+için ayrıca zaman ve emek harcanmasına gerek kalmayacaktır.
+        g) “Ek 3-Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin Listesi”ndeki
+birimlere ait e-posta adreslerinde herhangi bir değişiklik talebi Emeklilik Hizmetleri Genel Müdürlüğü
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığına yazılı olarak bildirilecek ve anılan Daire
+Başkanlığından alınacak onaya istinaden değişiklik yapılacaktır.
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı                                                    Bilgi için: Ramazan ELMA
+Mithatpaşa Caddesi No:7 Sıhhiye / Ankara                                                                            Daire Başkanı
+Telefon No: (0 312) 458 78 20 Faks No: (0 312) 432 12 45
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                           Telefon No: 0 312 458 81 43
+
+9                                                                4/5
+       ğ) “Ek 1-Güvenli E-Postayla Gönderilmesi Gereken Formların Listesi”nde kayıtlı bulunan
+formüler, Hollanda Sosyal Sigorta Kurumuna (SVB) güvenli e-posta yoluyla gönderilecek olup varsa ekli
+sağlık verileri, tıbbi raporlar ve muayene sonuçlarının aslı matbu yazı ekinde fiziki posta yoluyla
+gönderilecektir.
+
+         Bilgi edinilmesini ve gereğini rica ederim.
+
+                                                                                                     Ömer KÜÇÜKEVCİLİOĞLU
+                                                                                                          Genel Müdür V.
+
+
+Ekler:
+1: Anlaşma Metni (4 sayfa)
+2: Güvenli E-Postayla Gönderilmesi Gereken Formların Listesi (1 sayfa)
+3: Formların Gönderilmesi Gereken Kurumların E-Posta Adreslerinin Listesi (6 sayfa)
+4: Güvenli E-Posta Yöntemiyle Gönderilen/Alınan Belgelerin EBYS'ye Kayıt Edilmesi ve ATS'de
+Görüntülenmesine İlişkin Kılavuz (10 sayfa)
+
+
+
+
+Gereği İçin:                                           Bilgi İçin:
+Merkez ve Taşra Teşkilatına                            Çalışma ve Sosyal Güvenlik Bakanlığına
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+
+_______________________________________________________________________________________________________________________________
+Yurtdışı Sözleşmeler ve Emeklilik Daire Başkanlığı                                                         Bilgi için: Ramazan ELMA
+Mithatpaşa Caddesi No:7 Sıhhiye / Ankara                                                                                 Daire Başkanı
+Telefon No: (0 312) 458 78 20 Faks No: (0 312) 432 12 45
+e-Posta: ehgm_ysedb@sgk.gov.tr Kep Adresi: sgk@hs01.kep.tr                                                Telefon No: 0 312 458 81 43
+
+9                                                                5/5
+

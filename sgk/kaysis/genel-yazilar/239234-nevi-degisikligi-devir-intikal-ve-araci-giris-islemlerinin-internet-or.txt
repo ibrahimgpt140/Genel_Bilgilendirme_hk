@@ -1,0 +1,51 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/148813
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 239234
+ADI: NEVİ DEĞİŞİKLİĞİ,DEVİR,İNTİKAL VE ARACI GİRİŞ İŞLEMLERİNİN İNTERNET ORTAMINDAN GÖNDERİLMESİ HAKKINDA 04/01/2019 TARİHLİ VE 239234 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 01a4d8d8ad0d8bcefc02c6afa924d14db805faf7a4cfe210f7942baa0d5961c1
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> li T.C.
+$ G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı : 99779835-202.99-E.239234 04/01/2019
+Konu : Nevi değişikliği, devir, intikal ve aracı giriş
+işlemlerinin internet ortamından gönderilmesi
+GENEL YAZI
+
+Bilindiği üzere, Sosyal Sigorta İşlemleri Yönetmeliğinin “İşyeri Bildirgesi” başlıklı 27
+nci maddesinde,
+
+“İşyerinde, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi veya (c) bendi
+kapsamında sigortalı çalıştıran, sigortalı çalıştırılan bir işyerini devir alan ya da bu nitelikte işyeri
+kendisine intikal eden işveren, Kanunun 11 inci maddesinde belirtilen sürelerde vermekle yükümlü
+olduğu örneği Ek-6 ve Ek-6/A'da bulunan işyeri bildirgesini Kuruma elektronik ortamda
+göndermek zorundadır.”
+
+denilmek suretiyle, gerek yasal süresi içerisinde gerekse yasal süresi dışında Kuruma
+gönderilen işyeri bildirgelerine ilişkin bildirimlerin elektronik ortamda yapılması zorunlu hale
+getirilmiş olup, buna bağlı olarak yasal süresi geçmiş işyeri bildirgelerinin de işverenlerce intemet
+ortamından gönderilmesine ilişkin program düzenlemeleri tamamlanarak işletime alınmış ve
+konuya ilişkin hususlar 14/9/2018 tarihli, 11899985 sayılı Genel Yazımız ile açıklanmış idi.
+
+Bu defa, işverenlerin nevi değişikliği, devir, intikal ve aracı giriş işlemlerinin
+işyerlerinin e-bildirge kullanıcıları tarafından internet ortamından gönderilmesine ilişkin program
+düzenlemeleri tamamlanarak işletime alınmıştır.
+
+İşverenlerce sisteme girilen tescil kayıtları sosyal güvenlik il müdürlüklerince/sosyal
+güvenlik merkezlerince işyeri tescil ekranlarında bulunan “İnternetten Verilen Değişiklik İşlemleri-
+Nevi/Devir/İntikal/Aracı Giriş İşlemleri” menusu vasıtasıyla onaylanmak suretiyle işleme
+alınacaktır.
+
+Bilgilerini rica ederim.
+
+Savaş ALIÇ
+Genel Müdür V.
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyazi CEYLAN Şef
+Tel: (0312) 4587131 Faks: (0312)4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posta : isverenlerPrimDB©sgk.gov.tr

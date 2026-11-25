@@ -1,0 +1,2352 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/168599
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Yönergeler
+SAYI: 13040603
+ADI: SOSYAL GÜVENLİK KURUMU RESMİ YAZIŞMA KURALLARI YÖNERGESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 92cc8bcd5252b8f5b03ce514d4ebe2d613882d63b1b31e2673a0e15152dbd7b1
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                 SOSYAL GÜVENLİK KURUMU
+                            RESMİ YAZIŞMA KURALLARI YÖNERGESİ
+
+                                             BİRİNCİ BÖLÜM
+                                              Genel Hükümler
+
+        Amaç, kapsam
+        MADDE 1- (1) Bu Yönergenin amacı; Kurumumuz yazışmalarının güvenli elektronik imza
+kullanılarak elektronik ortamda veya el yazısıyla atılan imza ile fiziksel ortamda yapılan resmi yazışmalara
+ilişkin kuralları belirlemek, bilgi veya belge alışverişini, hızlı ve güvenli bir biçimde yürütmek ve uygulama
+birliğini sağlamaktır.
+        (2) Bu Yönerge, Sosyal Güvenlik Kurumunun merkez ve taşra teşkilatını kapsar.
+
+       Dayanak
+       MADDE 2- (1) Bu Yönerge, 10.06.2020 tarihli ve 31151 sayılı Resmî Gazete’de yayımlanan
+09.06.2020 tarihli ve 2646 sayılı Cumhurbaşkanlığı Kararı ekinde yer alan Resmi Yazışmalarda
+Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğin 36 ncı maddesine dayanılarak hazırlanmıştır.
+
+         Tanımlar ve kısaltmalar
+         MADDE 3- (1) Bu Yönergede geçen;
+         a) Aidiyet zinciri: Belgenin hazırlanmasından tasfiyesine kadar olan sürecini,
+         b) Arşiv imza: Kriptografik metodların zaman içerisinde koruyucu özelliğini yitirmesine karşı,
+periyodik olarak alınan zaman damgası ile korunan elektronik imzayı,
+         c) Belge: Herhangi bir bireysel işlemin, kurumsal fonksiyonun veya kurumsal işlemin yerine
+getirilmesi için alınmış ya da Kurum tarafından hazırlanmış; içerik, ilişki ve formatı ile ait olduğu fonksiyon
+veya işlem için delil teşkil ederek aidiyet zincirini muhafaza eden, güvenli elektronik imza ya da el yazısıyla
+imzalanmış ve kayıt altına alınmış her türlü bilgiyi,
+         ç) Birim: Belirli hizmetleri bünyesinde toplayıp yürüten veya uygulayan ve bu çerçeve içerisinde
+çalışan Kurum merkez ve taşra teşkilatını oluşturan hizmet birimlerini,
+         d) Devlet Teşkilatı Merkezi Kayıt Sistemi (DETSİS): Dijital Dönüşüm Ofisi Başkanlığı tarafından
+yürütülen ve Kurumun merkez ve taşra teşkilatındaki birimlerinin Türkiye Cumhuriyeti Devlet Teşkilatı
+Numarası ile tanımlandığı sistemi,
+         e) Elektronik Belge Yönetim Sistemi (EBYS): Kurum faaliyetlerinin yerine getirilirken hazırlanan
+ve faaliyetlerin delili olabilecek e-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve
+ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet
+zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistemi,
+         f) Elektronik onay: Güvenli elektronik imza kullanılmayan durumlarda paraf yerine geçecek kaydın
+elektronik ortamda alınmasını,
+         g) Elektronik ortam: EBYS içerisinde e-Yazışma Teknik Rehberi’ne uygun olarak güvenli
+elektronik imza ile imzalanmış belgelerin hazırlandığı, kayıt altına alındığı, saklandığı ve gönderildiği
+ortamı,
+         ğ) e-Yazışma Teknik Rehberi: Elektronik ortamda yapılacak resmî yazışmalar kapsamında
+oluşturulan belgelerin yapısı, formatı, imzalama ve şifreleme mekanizmaları gibi teknik hususları
+tanımlayan ve Dijital Dönüşüm Ofisi Başkanlığı tarafından yayımlanan güncel rehberi,
+         h) Fiziksel ortam: Kâğıt ortamında yapılan işlemleri,
+         ı) Form: Biçimli belgeyi,
+         i) Format: Elektronik dosya türlerini,
+         j) Günlük rapor: EBYS’de yapılan ekleme, değiştirme, silme, arama, görüntüleme, gönderme ve
+alma gibi işlemlerin hangi EBYS elemanı üzerinde ve kim tarafından gerçekleştirildiği ile işlemin
+gerçekleştirildiği tarih ve saat bilgisini ihtiva eden kayıtları,
+         k) Güvenli elektronik imza: Münhasıran imza sahibine bağlı olan, sadece imza sahibinin
+tasarrufunda bulunan güvenli elektronik imza oluşturma aracı ile oluşturulan, nitelikli elektronik sertifikaya
+dayanarak imza sahibinin kimliğinin ve imzalanmış elektronik veride sonradan herhangi bir değişiklik
+yapılıp yapılmadığının tespitini sağlayan elektronik imzayı,
+
+                                                      1
+        l) İmza sahibi: Güvenli elektronik imza oluşturmak amacıyla bir imza oluşturma aracını kullanan
+veya zorunlu hâllerde ya da olağanüstü durumlarda hazırlanan belgeyi el yazısıyla imzalayan gerçek kişiyi,
+        m) Kurum: Sosyal Güvenlik Kurumunu,
+        n) Kurumsal belge kayıt sistemi: Mevzuatı sebebiyle EBYS kullanamayan birim tarafından ya da
+“Çok Gizli” nitelikteki belgeler ile olağanüstü durumlarda hazırlanan belgelere sayı almak için kullanılan
+defter ve benzeri fiziksel veya EBYS harici tutulan elektronik kaydı,
+        o) Merkez Teşkilatı: Başkanlık merkez teşkilâtı hizmet birimlerini,
+        ö) Olağanüstü durum: Gerçekleşmesi hâlinde devleti veya kurumu olumsuz etkileyerek güvenlik
+zafiyeti oluşturabilecek veya uzun süreli elektrik kesintileri, donanım ve yazılım sorunları gibi teknik
+gerekçelerle EBYS’nin uzun süreli olarak çalışmamasından dolayı belgenin fiziksel ortamda hazırlanması
+gereken durumları,
+        p) Resmî yazışma: Kurumun kendi içerisinde veya gerçek ya da tüzel kişiler ile iletişim sağlamak
+amacıyla güvenli elektronik imza kullanarak elektronik ortamda ve zorunlu hâllerde veya olağanüstü
+durumlarda el yazısıyla atılan imza ile fiziksel ortamda yürütülen süreci,
+        r) Standart dosya planı: Kurumsal işlemler ve bu işlemler sonucunda oluşturulan veya alınan
+belgelerin üretim yerleri ile olan ilişkisi belirtilerek konu veya fonksiyon esasına göre dosyalanmasını
+sağlamak amacıyla geliştirilen ve Devlet Arşivleri Başkanlığı tarafından yayımlanan sınıflama şemasını,
+        s) Taşra Teşkilatı: Sosyal Güvenlik İl Müdürlükleri ile Sosyal Güvenlik Merkezlerini,
+        ş) Üstveri: Bir belgeyi tanımlayan gönderici, konu, tarih, sayı ve benzeri tüm bilgileri,
+        t) Üst yazı: Belgenin, varsa ek veya ekleri hariç kısmını,
+        u) Yetkili makam: Mevzuatta belirtilen görevleri yerine getirme hususunda yürütme ve karar verme
+yetkisine sahip görevlileri,
+        ü) Zaman damgası: Bir elektronik verinin üretildiği, değiştirildiği, gönderildiği, alındığı ve/veya
+kaydedildiği zamanın tespit edilmesi amacıyla elektronik sertifika hizmet sağlayıcısı tarafından güvenli
+elektronik imza ile doğrulanan zaman kaydını,
+        v) Zorunlu hâl: İlgili mevzuattaki özel hükümlere göre belgenin fiziksel ortamda hazırlanması
+gereken hâlleri,
+        ifade eder.
+
+                                               İKİNCİ BÖLÜM
+                                              Belgenin Özellikleri
+
+
+      Resmi yazışma ortamları
+      MADDE 4- (1) Kurumca resmî yazışmalar, elektronik ortamda e-Yazışma Teknik Rehberi’ne uygun
+olarak hazırlanan ve güvenli elektronik imza ile imzalanan belgelerle yapılacaktır. Bu belgeler, elektronik
+ortamda muhatapları ile paylaşılacak ve elektronik ortamda saklanacaktır. Ayrıca güvenli elektronik imza
+ile imzalanan belgeler, çıktısı alınarak el yazısıyla atılan imza ile imzalanmayacak ve fiziksel ortamda
+saklanmayacaktır.
+      (2) Zorunlu hâllerde veya olağanüstü durumlarda resmî yazışmalar, el yazısıyla imzalanan belgelerle
+yapılabilecek ve bu belgelerin gönderilmesi ve saklanması fiziksel ortam şartlarına göre
+gerçekleştirilecektir.
+
+       Nüsha sayısı
+       MADDE 5- (1) Elektronik ortamda güvenli elektronik imza ile imzalanan belgeler tek nüsha olarak
+hazırlanacaktır.
+       (2) Zorunlu hallerde veya olağanüstü durumlarda hazırlanacak belgeler, paraflı nüshası Kurumda
+kalacak şekilde en az iki nüsha olarak düzenlenecektir.
+
+       Belgenin şekli özellikleri
+       MADDE 6- (1) Belgeler, A4 (210x297 mm) boyutu dikkate alınarak hazırlanacaktır.
+       (2) Belge ekleri farklı form, format veya ebatlarda hazırlanabilir.
+       (3) Zorunlu hallerde veya olağanüstü durumlarda hazırlanacak belgelerin üst yazıları için kâğıdın
+bir yüzü kullanılacaktır. Ancak üst yazının ekleri için kâğıdın her iki yüzü de kullanılabilecektir.
+
+                                                    2
+        Yazı tipi ve harf büyüklüğü
+         MADDE 7- (1) Hazırlanan belgelerde "Times New Roman" veya "Arial" yazı tipi normal yazı
+stilinde kullanılacaktır. Harf büyüklüğünün Times New Roman için 12 punto, Arial için 11 punto olması
+esastır. Ancak gerekli hallerde yazı alanında harf büyüklüğü 9 puntoya, iletişim bilgileri kısmında ise 8
+puntoya kadar düşürülebilir. Belge eklerinde farklı yazı tipi ve harf büyüklüğü kullanılabilecektir.
+
+                                                ÜÇÜNCÜ BÖLÜM
+                                                Belgenin Bölümleri
+
+       Yazı alanı
+       MADDE 8- (1) Belgenin yazı alanı sayfanın üst, sol ve sağ kenarından 1,5 cm boşluk bırakılarak
+düzenlenecektir. Logo kullanıldığında sayfanın üst boşluğu 0,5 cm olarak düzenlenecektir.
+
+        Kurumsal logo
+        MADDE 9- (1) Kurumumuz logosu “Başlık" alanını ortalayacak şekilde belgenin üst sol kısmında
+yer alacaktır. Bakanlık Makamına sunulan OLUR’lar ile Bakan imzası ile gönderilen her türlü yazılarda,
+Bakanlığın başlık alanını ortalayacak şekilde Bakanlık logosu solda, Kurumumuz logosu ise sağ köşede yer
+alacaktır. Kurum dışı yapılan tüm yazışmalarda Kurumumuz logosu kullanılacak, Kurum içi yazışmalarda
+ise logo kullanılmayacaktır (Örnek 1).
+
+         Başlık
+         MADDE 10- (1) Başlık (antet), belgeyi gönderen idarenin adının belirtildiği bölümdür.
+         (2) Başlık, belgenin yazı alanının üst kısmına ortalanarak yazılacaktır. Bakanlık Makamınca
+imzalanacak yazılarda ilk satıra "T.C." kısaltması, ikinci satıra Bakanlığın adı büyük harflerle, üçüncü satıra
+Kurum Başkanlığının adı ilk harfleri büyük diğerleri küçük harflerle ortalanarak yazılacaktır (Örnek 2).
+         (3) Kurumumuzun diğer kamu kurum ve kuruluşları ile yapacağı yazışmalarda, ilk satıra T.C.
+kısaltması, ikinci satıra Kurum Başkanlığının adı büyük harflerle, üçüncü satıra birimin adı ilk harfleri
+büyük diğerleri küçük harflerle yazılacaktır (Örnek 2/A).
+         (4) Kurum merkez teşkilatı birimleri arasında yapılacak yazışmalar ile merkez teşkilatından taşra
+teşkilatına yapılacak yazışmalarda ilk satıra T.C. kısaltması, ikinci satıra Kurum Başkanlığının adı büyük
+harflerle, üçüncü satıra birimin adı ilk harfleri büyük diğerleri küçük harflerle, dördüncü satıra varsa ilgili
+alt birimin adı ilk harfleri büyük diğerleri küçük harflerle ortalanarak yazılacaktır (Örnek 2/B).
+          (5) Taşra birimlerince yapılacak yazışmalarda ilk satıra "T.C." kısaltması, ikinci satıra Kurum
+Başkanlığının adı büyük harflerle, üçüncü satıra birimin adı ilk harfleri büyük diğerleri küçük harflerle
+ortalanarak yazılacaktır (Örnek 2/C).
+         (6) İl müdürlüklerine bağlı Sosyal Güvenlik Merkez Müdürlüklerinin birbirleri ve bağlı olduğu il
+müdürlüğü ile yapacakları yazışmalarda, ilk satıra "T.C." kısaltması, ikinci satıra Kurum Başkanlığının adı
+büyük harflerle, üçüncü satıra İl Müdürlüğünün adı ilk harfleri büyük diğerleri küçük harflerle, dördüncü
+satıra Sosyal Güvenlik Merkez Müdürlüğünün adı ilk harfleri büyük diğerleri küçük harflerle ortalanarak
+yazılacaktır (Örnek 2/D).
+         (7) Birim içi yazışmalarda; yazışma başlıkları ilk satıra "T.C." kısaltması, ikinci satıra Kurum
+Başkanlığının adı büyük harflerle, üçüncü satıra birimin adı, alt birim var ise; dördüncü satıra alt birimin
+adı, beşinci satıra ilgili şube müdürlüğü veya servis adı, alt birim yok ise dördüncü satıra ilgili şube
+müdürlüğü veya servis adı ilk harfleri büyük diğerleri küçük harflerle ortalanarak yazılacaktır (Örnek 2/E-
+1, 2, 3, 4).
+         (8) Başlığın yazımında DETSİS'te yer alan başlık kayıtları esas alınacaktır.
+
+        Sayı
+        MADDE 11- (1) Belgelerde sayı bulunması zorunludur. "Sayı:" sırasıyla; belgenin hazırlanma
+süreçlerini ifade eden elektronik ortam için "E", zorunlu haller için "Z" veya olağanüstü durumlar için "O"
+ibarelerinden uygun olanı, DETSİS'te belirtilen Türkiye Cumhuriyeti Devlet Teşkilatı Numarası, standart
+dosya planı kodu ile kayıt numarasından oluşacak ve bunların arasına kısa çizgi işareti (-) konulacaktır
+(Örnek 3).
+
+                                                      3
+        (2) "Sayı:" yan başlığı, başlığın son satırından itibaren iki satır boşluk bırakılarak ve yazı alanının
+solundan başlanarak yazılacaktır (Örnek 3). Kayıt numarası, belge hazırlanırken EBYS üzerinden alınır ve
+belge üzerinde gösterilir (Örnek: E-67915368-903.07.02-4752). Zorunlu hallerde hazırlanan belgenin
+kayıt numarası, el yazısıyla imzalandıktan sonra EBYS üzerinden alınır (Örnek: Z-67915368-804.02-
+4757). Kurumumuzca kullanılan EBYS veya kurumsal belge kayıt sistemi içerisinde her bir belgenin
+hazırlanma sürecine göre kayıt numarasının eşsiz olması zorunludur.
+        (3) Olağanüstü durumlarda belge, fiziksel ortam esaslarına uygun olarak hazırlanacak ve belgeye
+yetkili birim tarafından kurumsal belge kayıt sisteminden kayıt numarası alınacaktır (Örnek: O-67915368-
+952.02.05-10). EBYS'ye erişim sağlandığında ise belge ve üstveri bilgileri EBYS'ye kaydedilecektir.
+
+        Tarih
+        MADDE 12- (1) Tarih; sayı ile aynı satırda olmak üzere yazı alanının en sağında gün, ay, yıl olarak
+rakamla ve aralarına nokta işareti "." konularak yazılacaktır. Gün ve ay iki haneli, yıl ise dört haneli olarak
+düzenlenecek (Örnek: 01.11.2020), ay adları, harfle de yazılabilecektir. Bu durumda gün, ay ve yıl arasına
+herhangi bir işaret konulmayacaktır (Örnek: 01 Kasım 2020).
+        (2) Belgenin en son yetkili tarafından güvenli elektronik imza ile imzalandığı zamanı gösteren
+zaman damgasındaki tarih bilgisi, belge tarihi olarak esas alınır ve tarih bilgisi üstveri alanında yer alır.
+Elektronik ortamdaki belgede, birinci fıkrada belirtilen alanda tarih bilgisine belge görüntüsünde yer
+verilecektir.
+        (3) Zorunlu hallerde veya olağanüstü durumlarda hazırlanan belgede tarih, belgenin imzalandığı
+zamanı belirtecek ve imzalandığı tarihte kayıt altına alınacaktır.
+        (4) Tutanak, rapor, tebliğ-tebellüğ belgesi ve benzeri belgelerde tarih, metnin bitiminde yer
+alabilecektir.
+
+       Konu
+       MADDE 13- (1) "Konu:" yan başlığı, "Sayı:" yan başlığının bir alt satırına belgenin konusu, yazı
+alanının dikey orta hizasını geçmeyecek biçimde kelimelerin baş harfleri büyük olarak ve sonuna herhangi
+bir noktalama işareti konulmaksızın yazılacaktır. Konu, bir satırı geçerse ikinci ve devamındaki satırlar
+"Konu:" yan başlığının altı boş bırakılarak yazılacaktır.
+       (2) Konu, belgenin içeriği hakkında kısa ve öz bilgi barındıracaktır (Örnek 3).
+
+         Muhatap
+         MADDE 14- (1) Muhatap, belgenin gönderildiği idareyi veya kişiyi belirtir. Bu bölüm konunun son
+satırından itibaren, iki satır boşluk bırakılarak ve sayfa ortalanarak yazılacaktır.
+         (2) Bakanlığımıza muhatap yazılacak yazılarda alt birim belirtilmemesi durumunda adı büyük
+harflerle ve sonuna yönelme hâl eklerinden uygun olanı getirilerek yazılacaktır. Alt birim belirtilmesi
+durumunda muhataba ilişkin birim adı bilgileri parantez içinde ilk harfleri büyük diğerleri küçük harflerle
+bir alt satıra yazılacaktır (Örnek 4).
+         (3) Muhatabın idare veya özel hukuk tüzel kişisi olması durumunda, adı büyük harflerle ve sonuna
+yönelme hâl eklerinden uygun olanı getirilerek yazılacaktır. Muhatap idarenin adının yazımında DETSİS'te
+yer alan kayıtlar esas alınır. İhtiyaç duyulması halinde muhataba ilişkin birim adı bilgileri parantez içinde
+ilk harfleri büyük diğerleri küçük harflerle bir alt satıra yazılacaktır (Örnek 4/A).
+         (4) Merkez birimlerinden taşra birimine yapılacak yazışmalarda il müdürlüğünün adı büyük
+harflerle sayfa ortalanarak yazılacak, ikinci satıra gönderilen il müdürlüğünün ili büyük harflerle, satır
+sonunu geçmeyecek şekilde yazılacaktır (Örnek 5).
+         (5) Taşra birimlerinin merkez birimlerine yaptıkları yazışmalarda, yazının gönderileceği merkez
+birimi büyük harflerle, varsa alt birim parantez içinde ilk harfleri büyük olmak üzere küçük harflerle
+ortalanarak yazılacaktır (Örnek 5/A).
+         (6) Merkez birimleri arasında yapılacak yazışmalarda merkez birimi büyük harflerle, varsa alt birim
+parantez içinde ilk harfleri büyük olmak üzere küçük harflerle ortalanarak yazılacaktır (Örnek 5/B).
+         (7) Kurum dışına gönderilen belgelerde, gerekiyorsa belgenin gideceği yerin adresi, muhatap
+satırının altına, satır ortalanarak ilk harfleri büyük diğerleri küçük harflerle yazılacak, adres bilgisi uzun ise
+birden fazla satıra yazılabilecektir. Muhatap gerçek kişi ise muhatap bölümüne "Sayın" ibaresinden sonra
+muhatabın adı ilk harfi büyük diğerleri küçük harflerle, soyadı ise büyük harflerle yazılacaktır (Örnek 6).
+
+                                                        4
+        (8) Bağlı, ilgili veya ilişkili idarelere gönderilecek belgeler doğrudan o idareye gönderilebilecektir.
+Ancak idarenin bağlı veya ilgili olduğu idarenin bilgi sahibi olmasının gerekli görüldüğü durumlarda belge,
+söz konusu bağlı veya ilgili olunan idare aracılığıyla gönderilecektir (Örnek 6/A, 6/B).
+        (9) Mülki idareye veya dış temsilciliğe bağlı teşkilatlarda ilk satıra bağlı olunan mülki idarenin veya
+dış temsilciliğin adı büyük harflerle, ikinci satıra ilgili birimin adı ilk harfleri büyük diğerleri küçük
+harflerle ortalanarak parantez içerisinde yazılacaktır.
+        (10) Birim içinde yapılan yazışmalarda muhatap birimin adı büyük harflerle ortalanarak yazılacaktır
+(Örnek 6/C).
+        (11) Birden fazla muhataba iletilecek dağıtımlı belgelerin muhatap bölümüne "DAĞITIM
+YERLERİNE" ibaresi yazılacaktır (Örnek 15, 16).
+
+        İlgi
+        MADDE 15- (1) İlgi, belgenin bağlantılı olduğu diğer belge veya belgelerin belirtildiği bölümdür.
+        (2) "İlgi:" yan başlığı, muhatap bölümünün son satırından itibaren iki satır boşluk bırakılarak ve
+yazı alanının solundan başlanarak yazılacaktır (Örnek 7).
+        (3) "Sayı", "Konu" ve "İlgi" yan başlıklarından sonra kullanılan iki nokta işareti aynı hizada
+yazılacaktır (Örnek 7).
+        (4) İlgide yer alan bilgiler bir satırı geçerse, devamı "İlgi:" yan başlığının ve sıralamayı gösteren
+harflerin altı boş bırakılarak alt satıra yazılacaktır (Örnek 7).
+        (5) İlginin birden fazla olması durumunda, belgeler önceki tarihli olandan başlanarak tarih sırasına
+göre sıralanacaktır. Sıralamada, Türk alfabesinde yer alan bütün küçük harfler, kendilerinden sonra kapama
+parantez işareti ")" konularak kullanılacaktır (Örnek 7).
+        (6) İlgide, ilgi tutulan belgeyi gönderen idarenin adı ile belgenin tarihi ve sayısı belirtilecek, ancak
+ilgi tutulan belgenin, muhatap idarenin daha önce gönderdiği bir belge veya muhatap idareye daha önce
+gönderilen bir belge olması durumunda idare adı belirtilmeyecektir (Örnek 7).
+        (7) İlgide, yazı aynı konuda birden fazla makamın yazısına karşılık veya daha önce yazılmış çok
+sayıda yazıyla ilgili ise bunların hepsi mutlaka belirtilecektir.
+        (8) İlgide, "... tarihli ve ... sayılı ...ibaresi kullanılacak, birimin dosya kodu tam olarak belirtilecek
+ve ilginin sonuna nokta (.) işareti konulacaktır (Örnek 7).
+        (9) İlgide belirtilen belge, muhatapta bulunmadığı durumlarda söz konusu belge, ek olarak
+muhatabına iletilebilecektir (Örnek 7).
+        (10) İlgide belirtilen belge, gerçek kişiden geliyorsa ilgi bölümü "...'ın ... tarihli
+başvurusu/dilekçesi." biçiminde yazılacaktır (Örnek 9). Ancak belgenin muhatabı, ilgi tutulan başvurunun
+veya dilekçenin sahibi ise ilgi bölümünde gerçek kişinin isim bilgisine yer verilmeyecektir.
+        (11) Gerçek kişi ve tarih bilgisi bulunmayan başvuru/dilekçe ilgi tutulmak istendiğinde, ilgi bölümü
+"İsimsiz ve tarihsiz başvuru/dilekçe." biçiminde yazılacaktır. Söz konusu başvurunun/dilekçenin işleme
+alınıp alınmayacağı ilgili mevzuat hükümlerine göre değerlendirilecektir (Örnek 9).
+
+        Metin
+        MADDE 16- (1) Metin alanı, "Muhatap" veya varsa "İlgi" ile "İmza" arasındaki kısımdır.
+        (2) "İlgi" ile metin başlangıcı arasında bir satır, "İlgi" yoksa belgenin muhatabı ile metin başlangıcı
+arasında iki satır boşluk bulunacaktır (Örnek 8).
+        (3) Metindeki kelime aralarında ve noktalama işaretlerinden sonra bir karakter boşluk bırakılacak,
+noktalama işaretleri kendinden önce gelen harfe bitişik yazılacaktır.
+        (4) Paragrafa 1,25 cm içeriden başlanıp, metin iki yana hizalanacaktır. Paragraflar arasında satır
+boşluğu bırakılmayacaktır (Örnek 8). İhtiyaç duyulması halinde paragraflar harf veya rakam ile
+sıralanabilecektir.
+        (5) Birden fazla sayfa tutan üst yazılarda sayı, tarih, konu, muhatap ve ilgi bilgilerine sadece ilk
+sayfada; imza, ek ve dağıtım bilgilerine ise sadece son sayfada (Örnek 9),
+        İletişim bilgisi ve belge doğrulama bilgilerine her sayfanın en alt kısmında (Örnek 9),
+        Zorunlu hallerde veya olağanüstü durumlarda hazırlanan ve birden fazla sayfadan oluşan belgelerde
+ise her sayfanın en alt kısmında iletişim bilgisine yer verilecektir.
+        (6) Metin içinde geçen sayılar, rakamla veya harfle yazılabilir. Gerekli görülmesi halinde sayılar
+rakamla yazıldıktan sonra parantez içinde harfle de gösterilebilecektir.
+
+                                                        5
+        (7) Dört ve dörtten çok haneli sayılar sondan sayılmak üzere üçlü gruplara ayrılarak yazılacak ve
+araya nokta (.) işareti konulacaktır (Örnek: 1.452; 25.126; 326.197). Sayılarda kesirler virgül (,) ile
+ayrılacaktır (Örnek: 10.545,72).
+        (8) Belge, Türk Dil Kurumu tarafından hazırlanan Yazım Kılavuzu ve Türkçe Sözlük’ün güncel
+yayımı esas alınarak dil bilgisi kurallarına göre anlamlı ve özlü olarak yazılacak, belge içinde zorunlu
+olmadıkça yabancı kelimeye yer verilmeyecek, verildiği durumda ise parantez içinde anlamı belirtilecektir.
+Ancak muhatabı yabancı ülke veya uluslararası kuruluş olan resmi yazışmalarda yabancı dil
+kullanılabilecektir. Bu durumda belge varsa uluslararası yazışma usullerine göre hazırlanabilecektir. Ayrıca
+yabancı dille yazılan belgenin Türkçe tercümesi oluşturulacak ve yabancı dille hazırlanan belge ile
+ilişkilendirilerek saklanacaktır.
+        (9) Metin içinde yer alan alıntılar tırnak içinde ve/veya eğik (italik) olarak yazılacaktır.
+        (10) Metin içinde harfler kullanılarak maddelendirmeye/numaralandırmaya ihtiyaç duyulduğunda,
+Türk alfabesinde yer alan bütün küçük harfler kendilerinden sonra kapama parantez işareti ")" konularak
+kullanılacaktır.
+        (11) Metin içinde kısaltma kullanılacak ise ifadenin ilk kullanıldığı yerde açık biçimi, sonra parantez
+içinde kısaltılmış biçimi yazılacaktır (Örnek: Türkiye Büyük Millet Meclisi (TBMM), Kayıtlı
+Elektronik Posta (KEP)).
+        (12) Metnin son bölümü:
+        a) Yazışma yapan makamlar arasındaki hiyerarşi yönünden alt makamlara "... rica ederim.", üst ve
+aynı düzeydeki makamlara "... arz ederim." ibaresiyle,
+        b) Üst, aynı düzey ve alt makamlara birlikte dağıtımlı olarak yapılan yazışmalar "... arz ve rica
+ederim." veya "... arz/rica ederim." ibaresiyle,
+        c) Muhatap kısmında ikinci satırda parantez içerisinde birim veya idare ismi belirtilen yazışmalar,
+birinci satırda yer alan muhatap idare dikkate alınarak arz veya rica ibarelerinden uygun olanı ile,
+        ç) Yargı mercilerine yazılan yazılarda “arz ederim.” ibaresiyle,
+        d) Belge, imza yetkisini devreden makam adına imzalandığında, yetkiyi devreden makamın
+hiyerarşik durumu dikkate alınarak arz veya rica ibarelerinden uygun olanı ile bitirilecektir.
+        e) Muhatabı gerçek kişi olan yazışmalar “Saygılarımla.”, “İyi dileklerimle.” veya “Bilgilerinize
+sunulur.” ibareleriyle bitirilebilir.
+
+        İmza
+        MADDE 17- (1) Metnin bitiminden itibaren iki ila dört satır boşluk bırakılarak, belgeyi
+imzalayacak olan makam sahibinin adına, soyadına ve bunların altında unvanına, yazı alanının en sağında
+ortalanarak yer verilecektir (Örnek 9).
+        (2) Belgeyi imzalayanın adı ilk harfi büyük diğerleri küçük, soyadı ise büyük harflerle, unvan, ad
+ve soyadın altına ilk harfleri büyük diğerleri küçük harflerle yazılacaktır. Akademik unvanlar adın ön
+tarafına ya da bir satır altına ilk harfleri büyük diğerleri küçük harflerle açık ya da kısaltılarak
+yazılabilecektir.
+        (3) Elektronik ortamda yapılacak resmi yazışmalarda, imza atmaya yetkili makam belgeyi güvenli
+elektronik imzası ile imzalayacaktır. Elektronik ortamda yapılan yazışmalarda, yetkili makamın ad ve soyad
+bilgilerinin üzerinde belgenin güvenli elektronik imza ile imzalandığına dair herhangi bir ibareye, şekle
+veya ifadeye yer verilmeyecektir.
+        (4) EBYS'ler, belgede yer alan imzanın dayanağı olan teknik standartta belirtilen arşivleme
+metodunu destekler, imzanın ilgili teknik standarda göre "arşiv imzası" tipine dönüştürülebilmesini ve uzun
+dönemli doğrulanabilmesini sağlar nitelikte olmalıdır.
+        (5) Resmi yazışma sürecinde, imza yetkisi bulunan görevlilere güvenli elektronik imza temin
+edilecektir. Münhasıran şahsına ait özlük işlemleriyle ilgili yazışmalarda imzası aranan personelin güvenli
+elektronik imzasının bulunmadığı durumlarda, personelin özlük işlemine ilişkin talebi; adı soyadı ve gerekli
+tüm bilgileri içeren, mavi renkli kalemle atılacak ıslak imzalı dilekçe veya ilgili mevzuata göre hazırlanmış
+standart form ile birimin evrak servisinden kayıt numarası verilmesi suretiyle alınacaktır.
+        (6) Zorunlu hallerde veya olağanüstü durumlarda imza, ad ve soyadın üzerinde bırakılan boşluğa el
+yazısıyla atılır. El yazısıyla atılan imza, kaybolmayacak ve kâğıda işlemesini sağlayacak mavi renkli
+kalemle atılacaktır.
+
+
+                                                      6
+        (7) Yazışmalarda; muhatap birimin ast-üst ilişkisi, belgenin içeriği ve önem derecesi dikkate
+alınarak, Kurum Başkanlığınca çıkarılan 05.03.2020 tarihli ve 4030113 sayılı yazı eki “Sosyal Güvenlik
+Kurumu İmza Yetkileri ve Yetki Devri Yönergesi” gereğince ilgili yetkili tarafından imzalanacaktır.
+        (8) Cumhurbaşkanlığı ile yapılacak yazışmalar, belgenin mahiyeti ve aciliyet durumu
+değerlendirilerek bakan veya ilgili bakan yardımcısı tarafından imzalanacaktır. Ancak 19/12/2005 tarihli
+ve 2005/9986 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mevzuat Hazırlama Usul ve Esasları
+Hakkında Yönetmeliğin ilgili hükümleri saklıdır.
+        (9) Belgeyi imza yetkisi devredilen makam imzaladığında, imzalayanın adı ve soyadı birinci satıra,
+yetki devreden makamı gösteren "Kurum Başkanı a.", "Personel Daire Başkanı a.", "Genel Müdür a.", "I.
+Hukuk Müşaviri a." veya "İl Müdürü a." biçimindeki ibare ikinci satıra, imzalayan makamın unvanı ise
+üçüncü satıra yazılacaktır (Örnek 10). Birimler arasındaki iç yazışmalarda yetki devredenin unvanı
+kullanılmayacaktır.
+        (10) Belge vekaleten imzalandığında, imzalayanın adı ve soyadı birinci satıra, vekalet olunan
+makam "Kurum Başkan V.", "Kurum Başkan Yardımcısı V.", "Genel Müdür V." "Personel Daire Başkan
+V." veya "İl Müdür V.", “İl Müdür Yardımcısı V.” biçiminde ikinci satıra yazılacaktır (Örnek 10).
+         (11) Belgenin iki yetkili tarafından imzalanması durumunda üst unvan sahibinin adı, soyadı, unvanı
+ve imzası sağda yer alacaktır. Belgenin ikiden fazla yetkili tarafından imzalanması durumunda en üst unvan
+sahibinin adı, soyadı, unvanı ve imzası en solda olmak üzere yetkililer unvan sırasına göre soldan sağa
+doğru sıralanacaktır (Örnek 11).
+        (12) Elektronik ortamda hazırlanan rapor veya benzeri bir belge, sorumluluğu bulunan yetkili veya
+yetkililer tarafından güvenli elektronik imza ile imzalanacaktır. Zorunlu hallerde veya olağanüstü
+durumlarda rapor ya da benzeri bir belgenin hazırlanması halinde, belgede sorumluluğu bulunan yetkili
+veya yetkililer tarafından son sayfa imzalanacak, son sayfadan önceki sayfalar ise imza sahibi veya imza
+sahipleri tarafından ya imzalanacak ya da paraflanacaktır. Gerekli görülmesi halinde, fiziksel ortamda
+sayfalar kurum mühürü ile mühürlenecektir. İmza, paraf veya mühür metin bölümünün okunmasını
+engellemeyecek şekilde sayfada yer alacaktır.
+        (13) Zorunlu hallerde veya olağanüstü durumlarda üst yazıya ilişkin olarak ilgili birim tarafından
+hazırlanan ve on birinci fıkrada belirtilenler haricindeki ekler, imza sahibi veya imza sahipleri tarafından
+imzalanacak ya da paraflanacaktır. Gerekli görülmesi halinde ekler ayrıca mühürlenecektir. İmza, paraf
+veya mühür metin bölümünün okunmasını engellemeyecek şekilde sayfada yer alacaktır.
+        (14) Zorunlu hallerde veya olağanüstü durumlarda hazırlanan dağıtımlı belgelerde, nüshaların her
+biri ilgili makam tarafından imzalanabileceği gibi imzalanan bir nüsha, 29 uncu maddedeki usule göre
+çoğaltılarak da muhataplara gönderilebilecektir.
+
+         Ek
+         MADDE 18- (1) Belgede ek olması halinde "Ek:" başlığı imza bölümünden sonra uygun satır
+boşluğu bırakılarak ve yazı alanının solundan başlanarak yazılacaktır. Olur belgelerinde ise "Ek:" başlığı
+oluru alınan makamın imza bölümünden sonra uygun satır boşluğu bırakılarak ve yazı alanının solundan
+başlanarak yazılacaktır.
+         (2) Belgenin sadece bir eki olması durumunda "Ek:" başlığının sağında eki belirtecek ibareye yer
+verilecektir. Belgede birden fazla ek varsa "Ek:" başlığının altında ekler numaralandırılacak ve ekleri
+belirtecek ibarelere yer verilecektir. Eklerin sayfa, adet, kişi sayısı gibi açıklayıcı ifadeleri parantez içinde
+belirtilecektir (Örnek 12). Birden fazla ek olması durumunda eklerin üzerinde ek numarası, yazı alanının
+sağ üst köşesinde belirtilecektir (Örnek: EK-1, EK-2).
+         (3) Elektronik ortamda hazırlanan belgelere ve zorunlu hallerde veya olağanüstü durumlarda
+hazırlanan belgelere veri depolama araçları ile eklenecek elektronik dosyalar uluslararası kabul görmüş,
+endüstri standardı niteliği taşıyan “Kamu Bilgi Sistemlerinde Birlikte Çalışabilirlik Esaslarının” güncel
+sürümünde belirtilen formatlarda oluşturulacaktır.
+         (4) Ek listesi yazı alanına sığmayacak kadar uzunsa ayrı bir sayfada, "EK LİSTESİ" başlığı altında
+yazılacak ve üst yazıda "Ek: Ek Listesi" şeklinde gösterilecektir (Örnek 13).
+         (5) Belge eklerinin muhataba gönderilmediği durumlarda "Ek konulmadı" veya "Ek-... konulmadı"
+ifadesi yazılacaktır (Örnek 14).
+         (6) Güvenlik gerekçesi, teknik veya benzeri nedenlerle üst yazıyla birlikte gönderilemeyen veya
+alınamayan belge ekleri üst yazıyla ilişkilendirilmek suretiyle üst yazıdan ayrı olarak gönderilebilecek veya
+
+                                                       7
+alınabilecektir. Söz konusu nedenlerle alınan belge ekleri üst yazıyla ilişkilendirilmek şartıyla üst yazıdan
+ayrı olarak muhafaza edilebilecektir.
+
+         Dağıtım
+         MADDE 19- (1) Belgenin birden fazla muhataba gönderilmesi durumunda dağıtım bölümüne yer
+verilir. "Dağıtım:" başlığı ek varsa "Ek:" bölümünden sonra, ek yoksa imza bölümünden sonra uygun satır
+boşluğu bırakılarak yazı alanının solundan başlanarak yazılacaktır (Örnek 14).
+         (2) Belgenin gereğini yerine getirme durumunda olanlar "Gereği:" kısmına, belgenin içeriği
+hakkında bilgi sahibi olması istenenler ise "Bilgi:" kısmına yazılacaktır. "Gereği:" kısmı "Dağıtım:"
+başlığının altına, "Bilgi:" kısmı ise "Gereği:" kısmı ile aynı satıra ve yazı alanının ortasına doğru
+yazılacaktır. "Bilgi:" kısmı yoksa muhatap adları doğrudan "Dağıtım:" başlığının altına yazılacaktır (Örnek
+14).
+         (3) Dağıtımlı belgeler, dağıtım bölümünde belirtilen muhataplara gönderilecektir. Dağıtım bölümü
+yazı alanına sığmayacak kadar uzunsa "Dağıtım:" başlığı altına "DAĞITIM LİSTESİ" yazılacak ve ayrı bir
+sayfada "DAĞITIM LİSTESİ" başlığı altında gösterilecektir (Örnek 15). Ancak gerekli hallerde dağıtım
+listesi "Ek" olarak da üst yazıya eklenebilecektir (Örnek 16).
+
+         Olur
+         MADDE 20- (1) Bakanlık Makam oluru ve Başkanlığımız Makam oluru alınan belgeler, ilgili
+birimin yöneticisi tarafından güvenli elektronik imza ile teklif edilecek ve oluru alınan makam tarafından
+güvenli elektronik imza ile imzalanacaktır. Zorunlu hallerde veya olağanüstü durumlarda ise imzalar el
+yazısıyla atılacaktır (Örnek 17).
+         (2) Belge, olur için makama sunulurken imza bölümünden sonra uygun boş satır bırakılarak yazı
+alanının ortasına büyük harflerle "OLUR" yazılacaktır. "OLUR" ibaresinin alt satırına imzalayanın adı ilk
+harfi büyük diğerleri küçük, soyadı büyük ve bir alt satıra unvanı ilk harfleri büyük diğerleri küçük harflerle
+ortalanarak yazılacaktır. Oluru alan makamın güvenli elektronik imza ile oluşturduğu imzaya ait tarih
+bilgisi, belge tarihi olarak esas alınacak ve 12 nci maddenin birinci fıkrasında belirtilen alanda belge
+görüntüsü üzerinde gösterilecektir (Örnek 17/A).
+         (3) Zorunlu hallerde veya olağanüstü durumlarda hazırlanan olur yazılarında "OLUR" ibaresinden
+sonra tarih ve imza için uygun boş satır bırakılarak ilk satırda imzalayanın adı ve soyadına, ikinci satırda
+ise unvan bilgilerine yer verilecektir (Örnek 18).
+         (4) Oluru teklif eden birim ile olur alan makam arasında başka makamlar varsa bunlardan makama
+en yakın yetkili, teklif eden birim yetkilisinin imza bölümü ile "OLUR" ibaresinin bulunduğu bölüm arasına
+uygun boşluk bırakılarak yazı alanının solunda yer alacak şekilde "Uygun görüşle arz ederim." veya
+“Takdirlerinize arz ederim.” ibaresi yazılarak onaya katılacaktır. Bu ibarenin alt satırına imzalayanın adı
+ilk harfi büyük diğerleri küçük, soyadı büyük ve bir alt satıra unvanı ilk harfleri büyük diğerleri küçük
+harflerle ortalanarak yazılacaktır. Zorunlu hallerde veya olağanüstü durumlarda hazırlanan olur yazılarında
+ise "Uygun görüşle arz ederim." ibaresinin altına ilgili makam tarafından tarih yazılacaktır (Örnek 18/A).
+         (5) Yönetim Kuruluna havale edilmek üzere Başkanlık Makamına sunulacak yazılar aşağıdaki
+şekilde düzenlenecek olup, onay makamına en yakın yetkili “Uygun görüşle arz ederim.” ifadesiyle onaya
+katılacaktır.
+         a) Merkez birimlerinden Yönetim Kuruluna yapılacak her türlü havaleler (Örnek 18/B)’da
+belirtildiği şekilde yapılacaktır.
+         b) Taşra birimlerinden; Yönetim Kuruluna havale edilecek yazılar, konusuna göre ilgili merkez
+birimine yazı ile bildirilecek ve merkez birimi tarafından konu Yönetim Kuruluna sunulacaktır. (Örnek
+18/C).
+
+         Paraf
+         MADDE 21- (1) Paraf bölümünde tarih, unvan, ad ve soyad bilgileri kısaltma kullanılmadan ast-
+üst ilişkisine uygun olarak belirtilecektir. Güvenli elektronik imza ile imzalanan belgeye ait paraf bilgileri,
+belgenin üstverisinde tutulacaktır (Örnek 19/A). Belge muhataba iletildiğinde, belgeye ait paraf bilgileri
+paylaşılmayacaktır.
+         (2) Elektronik ortamda hazırlanan belgelerde paraf, güvenli elektronik imza veya elektronik onay
+ile atılacaktır. Elektronik onaylar, EBYS'nin günlük raporlarında kayıt altına alınacaktır. Günlük raporlar,
+
+                                                      8
+günlük olarak zaman damgasıyla damgalanacak ve günlük raporlarının saklama süresi ilişkili olduğu
+belgelerin saklama süresinden daha kısa olmayacaktır.
+       (3) Zorunlu hallerde veya olağanüstü durumlarda el yazısıyla atılan paraf, kaybolmayacak ve kâğıda
+işlemesini sağlayacak mavi kalemle atılacaktır. Fiziksel ortamda hazırlanan belgelerde paraflar, belgenin
+sadece idarede kalacak nüshasında, yazı alanının sonunda ve sol kenarında yer alacaktır (Örnek 19/B).
+
+         Koordinasyon
+         MADDE 22- (1) Birden fazla birimin iş birliği ile hazırlanan ve yetkili makamın imzasına sunulan
+belgelerde, belgeyi hazırlayan birime ait paraf hiyerarşisinden sonra "Koordinasyon" seçimi yapılacak ve
+iş birliğine dahil olan ilgililerin unvanları, adları ve soyadları belirtilecektir (Örnek 20).
+
+        Belge doğrulama bilgileri
+        MADDE 23- (1) Elektronik ortamda güvenli elektronik imza ile imzalanan belgelerde, "iletişim
+bilgileri" alanının üst sınırını belirleyen çizginin üzerinde iki satırlık alanın ilk satırında "Bu belge, güvenli
+elektronik imza ile imzalanmıştır." ibaresi bulunacaktır. Belge doğrulama bilgilerini içeren "belge
+doğrulama kodu" ikinci satırda, "karekod" ise "İletişim bilgileri" alanının en sağ kısmında yer alacaktır
+(Örnek 21).
+        (2) Belge doğrulama işlemi, doğrulama kodu ve karekod ile Dijital Türkiye (e-Devlet) üzerinden
+sağlanır.
+
+       İletişim bilgileri
+       MADDE 24- (1) İletişim bilgileri; solda belgeyi gönderen birimin adresini, posta kodunu,
+telefonunu, faks numarasını, e-posta adresini, kayıtlı elektronik posta (KEP) adresini ve internet adresini;
+sağda bilgi alınacak kişinin adını, soyadını, unvanını ve telefon numarasını içerecek şekilde sayfa sonuna
+yazılacak ve çizgi ile ayrılacaktır (Örnek 21).
+
+       Gizlilik dereceli belgeler
+       MADDE 25-(1) "Hizmete Özel" gizlilik derecesi bulunan belgelerin hazırlanması, kaydedilmesi,
+saklanması, gönderilmesi, alınması ve diğer işlemleri elektronik ortamda gerçekleştirilecektir.
+       (2) "Özel" ve üstü gizlilik dereceli belgelerin hazırlanması, kaydedilmesi, saklanması, gönderilmesi,
+alınması ve diğer işlemler ilgili mevzuatta belirtilen hükümlere uygun olarak fiziksel ortamda
+gerçekleştirilecektir.
+       (3) Belgenin imzacısı olan yetkili makam, belgeye ait gizlilik derecesinin belirlenmesinden
+sorumludur.
+
+         Süreli ve kişiye özel yazışmalar
+         MADDE 26- (1) Güvenli elektronik imza ile imzalanan süreli belgelerde "ACELE" veya
+"GÜNLÜDÜR" ibaresine üstveride ve üst yazı üzerinde yer verilecektir. "GÜNLÜDÜR" ibaresi taşıyan
+belgelere cevap verilmesi gereken süre veya tarih, metin içinde ve ilgili üstveri alanında belirtilecektir.
+         (2) "ACELE" ibaresi taşıyan belgeye derhal ve süratle; "GÜNLÜDÜR" ibaresi taşıyan belgeye
+belirtilen süre içinde cevap verilecektir.
+         (3) Elektronik ortamda veya zorunlu hallerde ya da olağanüstü durumlarda hazırlanan süreli
+belgelerde "ACELE" veya "GÜNLÜDÜR" ibaresi yazı alanının sağ üst köşesinde kırmızı renkli olarak
+belirtilecektir (Örnek 19/A, 19/B). Birden fazla sayfalı belgelerde "ACELE" veya "GÜNLÜDÜR" ibaresi
+sadece birinci sayfada belirtilecektir (Örnek 9).
+         (4) "KİŞİYE ÖZEL" ibaresi, belgenin ilgilisine teslim edilmesini ve sonrasında yürütülecek süreci
+ifade etmektedir.
+         (5) "KİŞİYE ÖZEL" ibaresi taşıyan belgenin zarfı açılmadan zarf üzerinde yer alan bilgiler, yetkili
+birimce EBYS'ye veya kurumsal belge kayıt sistemine kaydedilecek ve ilgilisine teslim edilecektir.
+"KİŞİYE ÖZEL" ibaresi taşıyan belge üzerinde yalnızca ilgili kişi tasarruf hakkına sahiptir ve ilgilinin
+talebi ile EBYS'ye kaydedilir.
+
+
+
+
+                                                        9
+         Sayfa numarası
+         MADDE 27- (1) Birden fazla sayfa tutan belgelere sayfa numarası verilir. Sayfa numarası, iletişim
+bilgilerinin altında ve sayfanın ortasında, toplam sayfa sayısının kaçıncısı olduğunu gösterecek şekilde
+belirtilecektir (Örnek 9).
+
+        Üstveri elemanları
+        MADDE 28- (1) Güvenli elektronik imza ile imzalanan belgelerde asgari olarak e-Yazışma Teknik
+Rehberi'nde belirtilen üstveri elemanları kullanılır. e-Yazışma Teknik Rehberi'nde belirtilen üstveri
+elemanları ile birlikte ilgili mevzuatta belirtilen standartlara uygun üstveri elemanları da kullanılabilecektir.
+        (2) İhtiyaca binaen birinci fıkrada belirtilen üstveri elemanlarına ilave olarak üstveri elemanları
+kullanılabilecektir.
+        (3) Elektronik ortamda güvenli elektronik imza ile imzalanan belgenin üstveri elemanları, belgenin
+ayrılmaz bir bütünüdür. Tarih ve sayı gibi belge görüntüsü üzerinde yer alan bilgiler ile üstveride yer alan
+bilgiler arasında fark olamaz.
+
+                                           DÖRDÜNCÜ BÖLÜM
+                        Belgenin Çoğaltılması, Gönderilmesi, Alınması ve İade Edilmesi
+
+
+        Belgenin çoğaltılması
+        MADDE 29- (1) Güvenli elektronik imza ile imzalanan belgenin çoğaltılması, yetkilendirilmiş
+görevliler tarafından çıktı alınarak gerçekleştirilecektir. Çoğaltılan güvenli elektronik imzalı belgenin
+doğrulama işlemi, 23 nci maddenin ikinci fıkrasında belirtildiği şekilde yapılacaktır.
+        (2) Zorunlu hallerde veya olağanüstü durumlarda ya da 10.06.2020 tarihli ve 31151 sayılı Resmî
+Gazete’de yayımlanan Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğin
+yürürlüğe girdiği tarihten önce fiziksel ortamda hazırlanan bir belgeden örnek çıkartılması halinde,
+çoğaltılan belgenin uygun bir yerine "ASLI GİBİDİR" ibaresi konulacak ve yetkilendirilmiş görevli
+tarafından ad, soyad, unvan ve tarih belirtilmek suretiyle imzalanacaktır. Bu şekilde çoğaltılan belge, asıl
+belge gibi kabul edilecektir.
+
+        Belgenin elektronik ortamda gönderilmesi ve alınması
+        MADDE 30- (1) Güvenli elektronik imza ile imzalanan belgelerin gönderilmesi ve alınması
+işlemlerinin, elektronik ortamda ilgili mevzuatla yetki verilmiş üçüncü bir taraf aracılığıyla kayıt altına
+alınarak yapılması esastır. Ancak Kurumumuz ile diğer idareler arasında güvenli elektronik imzalı
+belgelerin gönderilmesi ve alınması işlemleri, taraflarca yapılacak anlaşmalar çerçevesinde ve kayıt altına
+alınmak kaydıyla başka bir iletim mekanizmasıyla da yapılabilir.
+        (2) Güvenli elektronik imza ile imzalanan belgeler, veri depolama araçlarıyla da iletilebilecektir. Bu
+durumda gönderme ve alma işlemine ilişkin kayıt tutulacaktır.
+        (3) Kurum, resmi yazışma kapsamında iletilen ve e-Yazışma Teknik Rehberi'ne uygun şekilde
+hazırlanmış belgeleri işleme koymakla yükümlüdür.
+        (4) Kurum, başka bir idareden resmi yazışma kapsamında iletilen ve e-Yazışma Teknik Rehberi'nde
+tanımlanan kurallara uygun şekilde hazırlanmamış bir belgeyi reddetme hakkına sahiptir. Bu durumda,
+belgeyi gönderen idareye bu durum sebepleriyle birlikte belgenin Kuruma ulaştığı tarihi takip eden ikinci
+iş gününün sonuna kadar bildirilecektir.
+        (5) Resmi yazışma kapsamında Kurum dışına gönderilen güvenli elektronik imza ile imzalanan
+belgeler, gerekli hallerde elektronik olarak şifrelenecektir. Elektronik belgelerin şifrelenmesi işlemi e-
+Yazışma Teknik Rehberi'nde tanımlandığı şekilde yapılacaktır. Kullanılacak şifreleme sertifikaları yetkili
+elektronik sertifika hizmet sağlayıcılarından temin edilecektir.
+        (6) e-Yazışma Teknik Rehberi'nde tanımlanan şifreleme mekanizmasına uygun şekilde
+Kurumumuza şifreli belge iletilebilmesi için elektronik şifreleme sertifikası temin edilecektir. Kurum için
+oluşturulan elektronik şifreleme sertifikaları DETSİS üzerinden paylaşılır. Kurum, elektronik şifreleme
+sertifikasına sahip olması şartıyla diğer idarelerden resmi yazışma kapsamında Kuruma gönderilen ve e-
+Yazışma Teknik Rehberi'ne uygun şekilde şifrelenmiş belgeleri kabul etmekle yükümlüdür. Kurum,
+
+
+                                                       10
+karşılıklı olarak üzerinde anlaşmak koşuluyla, e-Yazışma Teknik Rehberi'nde tanımlanan şifreleme
+mekanizmasından farklı şifreleme mekanizmaları kullanabilecektir.
+        (7) Kuruma, e-Yazışma Teknik Rehberi'nde tanımlandığı şekilde şifrelenerek gelen resmi yazışma
+kapsamındaki bir belgenin şifresi açılamazsa veya belgenin şifresi açılmakla birlikte belge içeriğinin e-
+Yazışma Teknik Rehberi'nde belirtilen şifreleme mekanizması için tanımlanan özellikleri taşımadığı
+belirlenirse bu belge reddedilecek ve durum şifreli belgenin Kuruma ulaştığı günü takip eden ikinci iş
+gününün sonuna kadar iletilen şifreli belgeyi tanımlayan bilgilerle birlikte, belgeyi gönderen idareye
+bildirecek ve hem bu bildirimi hem de Kuruma iletilen şifreli belge kayıt altına alınacaktır. Bildirimde
+bulunmaması halinde, gönderilen şifreli belge açılmış, içeriğine erişilmiş ve bu belgenin e-Yazışma Teknik
+Rehberi'ne uygun şekilde hazırlandığı kabul edilmiş sayılacaktır.
+
+        Belgenin fiziksel ortamda gönderilmesi ve alınması
+        MADDE 31- (1) Muhatabına elektronik olarak iletiminin mümkün olmadığı durumlarda,
+yetkilendirilmiş görevliler tarafından çıktısı alınan güvenli elektronik imzalı belge, elektronik ortamdaki
+aslına erişim amacı ile fiziksel ortamda gönderilecektir. Fiziksel ortamda alınan belgenin doğrulama işlemi,
+23’üncü maddenin ikinci fıkrasında belirtildiği şekilde gerçekleştirilecektir. Doğrulaması yapılan belge,
+işleme alınacaktır.
+        (2) Belge zarflanarak muhatabına iletildiğinde başlık bilgisi, ihtiyaç duyulması halinde gönderen
+birimin adres bilgisi, belgenin tarihi ve sayısı zarfın sol üst köşesine; muhatabın adı ve adres bilgisi zarfın
+ortasına kısaltma kullanılmadan yazılacaktır. Varsa süre ve kişiye özel bilgisi (ACELE, GÜNLÜDÜR,
+KİŞİYE ÖZEL), üstte olmak üzere, zarfın sağ üst köşesinde kırmızı renkli büyük harflerle belirtilecektir
+(Örnek 22).
+        (3) "Hizmete Özel" haricindeki gizlilik dereceli belgelerin gerekli güvenlik tedbirleri alınarak
+fiziksel ortamda gönderilmesi esastır. Ancak 23/10/2010 tarihli ve 27738 sayılı Resmî Gazete’de
+yayımlanan "Kamu Kurum ve Kuruluşları ile Gerçek ve Tüzel Kişilerin Elektronik Haberleşme Hizmeti
+İçinde Kodlu veya Kriptolu Haberleşme Yapma Usul ve Esasları Hakkında Yönetmelik’in 2 nci
+maddesinde yetkili kılınan idareler, gizlilik dereceli belgeleri gerekli güvenlik tedbirlerini almak şartıyla
+güvenli elektronik imza ile imzalayarak elektronik ortamda da gönderebilir.
+        (4) Kuruma fiziksel ortamda gelen belgenin alındığı tarih ile belgeye ait üstveriler EBYS'ye veya
+kurumsal belge kayıt sistemine kaydedilecektir.
+        (5) Fiziksel ortamda alınan belgeler için gelen belge kaydında kullanılacak etikette/kaşede en az
+Örnek 23'te belirtilen unsurlara yer verilecektir. Etiket/kaşe, üst yazının ilk sayfasının ön veya arka yüzüne
+basılacaktır.
+        (6) Birime fiziksel ortamda gelen belgelerle ilgili havale, talimat ve benzeri işlemler, üst yazının ilk
+sayfasının ön veya arka yüzüne kaşe basılarak belge üzerinde gösterilebilecektir. Bu kaşenin şekli ilgili
+birimler tarafından belirlenecektir.
+        (7) Kişiler tarafından Kuruma yazılan dilekçelerin; "... arz ederim." şeklinde bitirilmemesi veya "...
+rica ederim." ibaresiyle ya da başka ibarelerle bitirilmesi dilekçenin işleme alınmasına engel değildir.
+
+        Belgenin iade edilmesi
+        MADDE 32- (1) Kurumumuzun muhatabı olmadığı halde elektronik ortamda güvenli elektronik
+imzalı bir belge gelmesi durumunda, belgenin muhatabı olunmadığı bilgisi ve söz konusu belgeye ilişkin
+tanımlayıcı bilgiler, gönderene elektronik ortamda iletilecektir. Ancak asıl muhatabın açıkça belli olması
+durumunda, belge muhataba iletilecek ve gönderen idareye bilgi verilecektir. Bu durumda belgenin bir
+kopyası elektronik ortamda muhafaza edilecektir.
+        (2) Kurumun muhatabı olmadığı halde fiziksel ortamda gelen bir belgenin asıl muhatabı
+anlaşılamıyorsa, gönderene iade edilecektir. Ancak asıl muhatabın açıkça belli olması durumunda,
+gerektiğinde belgenin bir sureti alınarak aslı muhatabına gönderilecek ve belgeyi gönderene de bilgi
+verilecektir.
+
+
+
+
+                                                      11
+                                              BEŞİNCİ BÖLÜM
+                                            Çeşitli ve Son hükümler
+
+
+        Görüş, bilgi ve belge taleplerinde süre
+        MADDE 33- (1) Kurum içi ve Kurum dışı görüş, bilgi ve belge talep yazıları günlü yazılacaktır.
+İlgili mevzuattaki özel hükümler saklı kalmak kaydıyla süre belirtilmeyen belge talepleri, talebin Kuruma
+ulaşmasından itibaren en geç beş iş günü; süre belirtilmeyen bilgi ve görüş taleplerini ise talebin
+ulaşmasından itibaren en geç on beş iş günü içinde yerine getirilecektir. Talebin ulaştığı tarih, elektronik
+ortamda gelen talepler için ilgili yazının EBYS'ye giriş kaydının yapıldığı zamanı; fiziksel ortamda gelen
+talepler için ise ilgili yazının EBYS'ye veya kurumsal belge kayıt sistemine girdiği zamanı ifade eder.
+
+       Tekit yazısı
+       MADDE 34- (1) Belgeye süresi içinde cevap verilmemesi durumunda muhataba tekit yazısı
+yazılabilecektir (Örnek 24).
+
+     Uygun yazılmayan belgeler
+     MADDE 35- (1) Bu Yönergeye uygun olarak yazılmayan belgelere verilecek cevabî yazılarda, bu
+Yönergenin ilgili maddeleri belirtilmek suretiyle muhatap uyarılabilecektir. Söz konusu durumun devam
+etmesi hâlinde, süreli belgeler hariç müteakip belgeler gerekçesi belirtilerek iade edilebilecektir.
+
+         Hüküm bulunmayan haller
+        MADDE 36- Bu Resmi Yazışma Kurallarında belirtilmeyen hususlarla ilgili olarak, 10.06.2020
+tarihli ve 31151 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 09.06.2020 tarihli ve 2646 Karar
+sayılı “Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik” hükümlerine göre işlem
+yapılacaktır.
+
+      Çeşitli ve son hükümler
+      MADDE 37- Taşra birimlerinden merkez birimlerine yapılan yazışmalarda, Sosyal Güvenlik İl
+Müdürünün imzası bulunacak, ancak Sosyal Güvenlik İl Müdürü tarafından yetki devri yapılması halinde
+İl Müdürü adına Sosyal Güvenlik İl Müdür Yardımcısı imzası ile yazışma yapılabilecektir.
+
+        Yürürlükten kaldırılan mevzuatlar
+        MADDE 38- Kurumumuzca yayımlanan 26.01.2010 tarihli ve 2010/14 sayılı Genelge eki Sosyal
+Güvenlik Kurumu Başkanlığı Resmi Yazışmalarda Uyulması Gereken Usul ve Esaslar ile bu Usul ve
+Esaslarda düzenleme yapılmasına dair 03.02.2010 tarih, 2010/20 ve 06.12.2011 tarih, 2011/68 sayılı
+Genelgeler ile 02.02.2015 tarihli ve 639758 sayılı Kurum Başkanlığının yazısı ve ekleri yürürlükten
+kaldırılmıştır.
+
+       Yürürlük
+       MADDE 39- (1) Bu Yönerge onayı tarihinde yürürlüğe girer.
+
+       Yürütme
+       MADDE 40- (1) Bu Yönerge hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+
+
+
+
+                                                    12
+                                                                         ÖRNEK 1
+İki Logonun Kullanılması Örneği:
+                 0,5 cm
+                                                     1,5 cm
+
+
+
+                                                   T.C.
+  1,5 cm                  AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞI        1,5 cm
+                                    Sosyal Güvenlik Kurumu Başkanlığı
+
+
+
+Tek Logonun Kullanılması Örneği:
+
+                 0,5 cm
+                                                     1,5 cm
+
+
+
+                                            T.C.
+  1,5 cm                     SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+
+
+
+
+                                       BAŞLIK ÖRNEKLERİ
+                                                                         ÖRNEK 2
+
+
+                                                   T.C.
+                          AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞI
+                                    Sosyal Güvenlik Kurumu Başkanlığı
+
+
+
+
+                                                                        ÖRNEK 2/A
+
+
+                                               T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                     Personel Daire Başkanlığı
+
+
+
+
+                                                                        ÖRNEK 2/B
+
+
+                                                T.C.
+                             SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Hizmet Sunumu Genel Müdürlüğü
+                                 Kurumsal Yazılımlar Daire Başkanlığı
+
+
+
+
+                                                13
+                   T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+       Rehberlik ve Teftiş Başkanlığı
+
+
+
+
+                                               ÖRNEK 2/C
+
+
+                     T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+    İstanbul Sosyal Güvenlik İl Müdürlüğü
+
+
+
+
+                                               ÖRNEK 2/D
+
+
+                      T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+     İstanbul Sosyal Güvenlik İl Müdürlüğü
+  Beşiktaş Sosyal Güvenlik Merkez Müdürlüğü
+
+
+
+                                              ÖRNEK 2/E-1
+
+
+                  T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+        Personel Daire Başkanlığı
+    Mevzuat ve Eğitim Şube Müdürlüğü
+
+
+
+                                              ÖRNEK 2/E-2
+
+                  T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+     Hizmet Sunumu Genel Müdürlüğü
+    Yönetim Hizmetleri Daire Başkanlığı
+          …… Şube Müdürlüğü
+
+
+
+
+                    14
+                                                                                                                       ÖRNEK 2/E-3
+
+
+                                                         T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                        İstanbul Sosyal Güvenlik İl Müdürlüğü
+                                                   Personel Servisi
+
+
+
+                                                                                                                       ÖRNEK 2/E-4
+
+                                                          T.C.
+                                    SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                         İstanbul Sosyal Güvenlik İl Müdürlüğü
+                                      Beşiktaş Sosyal Güvenlik Merkez Müdürlüğü
+                                                      ……Servisi
+
+
+
+
+                                                                                                                           ÖRNEK 3
+
+
+
+                                                       T.C.
+                              AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞI
+                                        Sosyal Güvenlik Kurumu Başkanlığı
+                                  2 satır boşluk
+
+
+Sayı :E-68103562-823.02-138739                                                                                     01.12.2020
+Konu :Resmi Gazete İlan Ücreti
+                                   Türkiye Cumhuriyeti Devlet   Standart Dosya Planı Kodu   Belge Kayıt Numarası
+                                       Teşkilatı Numarası
+
+
+ Belgenin hazırlanma süreci
+ (Elektronik Ortam, Zorunlu Hal
+ veya Olağanüstü Durum)
+
+
+
+
+                                                    E-68103562-823.02-138739
+
+                                                    Z-68103562-804.02-138740
+
+                                                    O-68103562-823.02-1
+
+
+
+
+                                                                      15
+                                                                   ÖRNEK 4
+İdari birimin belirtilmemesi durumu
+
+
+
+                  AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞINA
+
+
+
+
+İdari birimin belirtilmesi durumu
+
+
+                  AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞINA
+                               (Personel Genel Müdürlüğü)
+
+
+
+
+İdari birimin belirtilmemesi durumu                               ÖRNEK 4/A
+
+
+                                MİLLİ EĞİTİM BAKANLIĞINA
+
+
+
+
+                        YÜKSEK ÖĞRETİM KURULU BAŞKANLIĞINA
+
+
+
+İdari birimin belirtilmesi durumu
+
+
+                    CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞINA
+                          (Hukuk ve Mevzuat Genel Müdürlüğü)
+
+
+
+                                                                   ÖRNEK 5
+
+
+                           SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+                                                   ANKARA
+
+                           SOSYAL GÜVENLİK İL MÜDÜRLÜĞÜNE
+                                                  İSTANBUL
+
+
+
+
+                                           16
+                                                                                  ÖRNEK 5/A
+
+
+                                  BAŞKANLIK MAKAMINA
+
+                             PERSONEL DAİRE BAŞKANLIĞINA
+
+                           REHBERLİK VE TEFTİŞ BAŞKANLIĞINA
+
+                        SİGORTA PRİMLERİ GENEL MÜDÜRLÜĞÜNE
+                              (Asgari İşçilik Daire Başkanlığı)
+
+
+
+                                                                                       ÖRNEK 5/B
+
+
+
+                         HİZMET SUNUMU GENEL MÜDÜRLÜĞÜNE
+                            (Kurumsal Yazılımlar Daire Başkanlığı)
+
+
+
+
+Muhatabın Adresine Yer Verilmesi Örneği:                                               ÖRNEK 6
+
+                           METEOROLOJİ GENEL MÜDÜRLÜĞÜNE
+                                Kütükçü Alibey Caddesi No:4
+                              06120 Kalaba, Keçiören/ANKARA
+
+
+Muhatabın Gerçek Kişi Olması Durumu Örneği:
+
+
+                                      Sayın Adı SOYADI
+                                     Personel Daire Başkanı
+
+
+                                      Sayın Adı SOYADI
+                                     Ziyabey Caddesi No:6
+                                   06520 Çankaya/ANKARA
+
+
+
+            Belgenin Doğrudan Bağlı/İlgili/İlişkili İdarelere Gönderilmesi Durumunda
+Bağlı İdare Örneği:                                                                ÖRNEK 6/A
+
+
+                            DEVLET ARŞİVLERİ BAŞKANLIĞINA
+
+
+
+
+                                              17
+İlgili İdare Örneği:
+
+
+            TÜRKİYE PETROLLERİ ANONİM ORTAKLIĞI GENEL MÜDÜRLÜĞÜNE
+
+
+
+İlişkili İdare Örneği:
+
+
+                            KAMU İHALE KURUMU BAŞKANLIĞINA
+
+
+
+          Belge Hakkında Bağlı veya İlgili Olunan İdarenin Bilgilendirilmesi Durumunda
+
+
+Bağlı İdare Örneği                                                                        ÖRNEK 6/B
+
+
+                              KÜLTÜR VE TURİZM BAKANLIĞINA
+                                  (Vakıflar Genel Müdürlüğü)
+
+
+
+İlgili İdare Örneği
+
+
+                            SANAYİ VE TEKNOLOJİ BAKANLIĞINA
+            (Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı)
+
+
+
+Birim İçi Yazışmalarda Muhatap                                                            ÖRNEK 6/C
+
+
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                               Sigorta Primleri Genel Müdürlüğü
+                              İstihdam Teşvikleri Daire Başkanlığı
+
+   Sayı :                                                                         01.12.2020
+   Konu :
+
+                              İŞVERENLER DAİRE BAŞKANLIĞINA
+
+        ……………………………………………………………………………………..
+      ……………………………………..
+
+
+                                                                             Adı SOYADI
+                                                                                Unvanı
+
+
+
+                                                  18
+                            T.C.
+          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                  Personel Daire Başkanlığı
+              Mevzuat ve Eğitim Şube Müdürlüğü
+
+Sayı :                                                   01.12.2020
+Konu :
+
+           MERKEZ ATAMA ŞUBE MÜDÜRLÜĞÜNE
+
+    ……………………………………………………………………………………..
+  ……………………………………..
+
+
+                                                      Adı SOYADI
+                                                         Unvanı
+
+
+
+
+                               T.C.
+          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+              İstanbul Sosyal Güvenlik İl Müdürlüğü
+                         Personel Servisi
+
+Sayı :                                                   01.12.2020
+Konu :
+
+                     HUKUK SERVİSİNE
+
+    ……………………………………………………………………………………..
+  ……………………………………..
+
+                                                      Adı SOYADI
+                                                         Unvanı
+
+
+
+
+                             19
+                                                                                                                         ÖRNEK 7
+                                                         İLGİ ÖRNEĞİ
+
+                                                    T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+
+Sayı : E-38745746-010.02-1675242                                                                                       01.12.2020
+Konu : Emeklilik Hakkında Görüş Talebi
+
+
+                              EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
+                                 ( Kamu Görevlileri Emeklilik Daire Başkanlığı)
+                                                                              2 satır boşluk
+
+İlgi    : a) Ticaret Bakanlığının (Personel Genel Müdürlüğü) 01.09.2019 tarihli ve E-35799330-902.02-
+             1042579 sayılı yazısı.
+          b) 12.09.2019 tarihli ve E-38745746-010.02-1014125 sayılı yazımız.
+          c) 30.09.2019 tarihli ve E-74073113-902.02-159789 sayılı yazınız.
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………….…………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………….
+
+
+
+                                                                                                                  Adı SOYADI
+                                                                                                                     Unvanı
+
+
+
+
+Ek:
+1-      İlgi (a) Yazı (2 Sayfa)
+2-      İlgi (b) Yazı (1 Sayfa)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 1234567
+
+
+
+                                                                 20
+                                                                                         ÖRNEK 8
+                                            METİN ÖRNEĞİ
+İlgi Olmaması Durumunda Metnin Başlangıç Noktası:
+
+                                            T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Personel Daire Başkanlığı
+
+
+Sayı : E-3871457046-010.02-1234567                                                     01.12.2020
+Konu : Emeklilik Hakkında Görüş Talebi
+                               2 satır boşluk
+
+                      EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
+                         ( Kamu Görevlileri Emeklilik Daire Başkanlığı)
+Paragraf Başı
+1,25 cm boşluk                                             2 satır boşluk
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………….…………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….
+
+
+
+                                                                                Adı SOYADI
+                                                                            Personel Daire Başkanı
+
+İlgi Olması Durumunda Metnin Başlangıç Noktası:
+
+                                            T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Personel Daire Başkanlığı
+
+
+Sayı : E-38745746-010.02-1675242                                                      01.12.2020
+Konu : Emeklilik Hakkında Görüş Talebi
+
+
+                      EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
+                         (Kamu Görevlileri Emeklilik Daire Başkanlığı)
+                                                           2 satır boşluk
+
+İlgi   : 12.09.2019 tarihli ve E-38745746-010.02-1675242 sayılı yazımız.
+                                                           1 satır boşluk
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….
+
+                                                                                 Adı SOYADI
+                                                                            Personel Daire Başkanı
+                                                  21
+                                                                                                                         ÖRNEK 9
+                                     BİRDEN FAZLA SAYFALI BELGE ÖRNEĞİ
+                                                    T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+                                                                                                                   GÜNLÜDÜR
+Sayı : E-38745746-010.02-1845421                                                                                    01.12.2020
+Konu : Emeklilik Hakkında Görüş Talebi
+
+
+                              EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
+                                 (Kamu Görevlileri Emeklilik Daire Başkanlığı)
+                                                                              2 satır boşluk
+
+İlgi    : a) ……………’ ın …………. tarihli dilekçesi.
+          b) İsimsiz ve tarihsiz başvuru/dilekçe.
+                                                                              1 satır boşluk
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+                                                                 22
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………………………
+
+                                                                                                               2 -4 satır boşluk
+
+
+                                                                                                            Adı SOYADI
+                                                                                                       Personel Daire Başkanı
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 1234567
+
+                                                                 2/2
+                                                                 23
+                                                                 ÖRNEK 10
+                                      İMZA ÖRNEKLERİ
+İmza Yetkisi Devrinde İmza Örneği:
+                                         Adı SOYADI
+                                            Bakan a.
+                                        Bakan Yardımcısı
+
+                                          Adı SOYADI
+                                        Kurum Başkanı a.
+                                      Personel Daire Başkanı
+
+                                          Adı SOYADI
+                                     Personel Daire Başkanı a.
+                                          Şube Müdürü
+
+Vekalet Durumunda İmza Örneği:
+
+                                         Adı SOYADI
+                                        Kurum Başkan V.
+
+                                       Adı SOYADI
+                                 Kurum Başkan Yardımcısı V.
+
+                                          Adı SOYADI
+                                 Strateji Geliştirme Başkan V.
+
+                                       Adı SOYADI
+                               Hizmet Sunumu Genel Müdür V.
+
+                                         Adı SOYADI
+                                 Sosyal Güvenlik İl Müdürü V.
+
+
+
+
+                                                24
+                                                                           ÖRNEK 11
+
+                         İKİ YETKİLİNİN BİRLİKTE İMZALADIĞI BELGE ÖRNEĞİ
+
+
+   ………………………………………………………………………………………………………
+…………………………………………………………………….…………………………………………
+………………………………………………………………………………………………………………
+…………………………………………………………………………………………...........
+   ………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+……………………… ………………………………………………………………………………
+
+
+                                                 Adı SOYADI          Adı SOYADI
+                                                 Şube Müdürü    Personel Daire Başkanı
+
+
+
+           İKİDEN FAZLA YETKİLİNİN BİRLİKTE İMZALADIĞI BELGE ÖRNEĞİ
+
+
+   ………………………………………………………………………………………………………
+…………………………………………………………………….…………………………………………
+………………………………………………………………………………………………………………
+…………………………………………………………………………………………...........
+   ………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+……………………… ………………………………………………………………………………
+
+
+    Adı SOYADI                         Adı SOYADI                       Adı SOYADI
+Personel Daire Başkanı                 Şube Müdürü                           Şef
+
+
+
+
+                                            25
+                                                                                                                   ÖRNEK 12
+                                                    EK ÖRNEKLERİ
+
+Bir Adet Ek Olması Durumu:
+
+
+                                                                                                          Adı SOYADI
+                                                                                                       1. Hukuk Müşaviri
+
+Ek: Kararname Taslağı (13 Sayfa)
+----------------------------------------------------------------------------------------------------------------
+
+
+
+Birden Fazla Ek Olması Durumu:
+
+
+                                                                                                        Adı SOYADI
+                                                                                                    Personel Daire Başkanı
+
+Ek:
+1-Yönetmelik Taslağı (12 Sayfa)
+2-Dosya (1 Adet)
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
+Ekin Liste Olarak Düzenlenmesi Durumu:
+
+
+                                                                                                                  Adı SOYADI
+                                                                                                                   İl Müdürü
+
+Ek: Ek Listesi (10 Adet)
+
+
+
+
+                                                               26
+                                                                                                                      ÖRNEK 13
+                                                    T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+
+Sayı : E-38745746-010.02-1845421                                                                                      18.12.2019
+Konu : Emeklilik Hakkında Görüş Talebi
+
+
+                              EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
+                                 (Kamu Görevlileri Emeklilik Daire Başkanlığı)
+
+
+İlgi    : a) 12.09.2019 tarihli ve E-38745746-010.02-1745621 sayılı yazımız.
+          b) 28.10.2019 tarihli ve E-67915368-687-1234567 sayılı yazınız.
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………….
+
+
+                                                                                                           Adı SOYADI
+                                                                                                       Personel Daire Başkanı
+
+
+
+Ek: Ek Listesi (3 Adet)
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+                                                                 1/2
+
+                                                                 27
+                                                          EK LİSTESİ
+
+1- İlgi (a) Yazı (3 Sayfa)
+2- İlgi (b) Yazı (2 Sayfa)
+3- Emeklilik Başvuru Formu (1 Sayfa)
+4- Hizmet Dökümü (3 Sayfa)
+5- Hizmet Belgesi (2 Sayfa)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+                                                                 2/2
+
+
+                                                                 28
+                                                                                          ÖRNEK 14
+
+                                     DAĞITIM ÖRNEKLERİ
+Ek ve Dağıtım Başlığının Birlikte Olması Durumu:
+                                                                                    Adı SOYADI
+                                                                                    Kurum Başkan V.
+
+Ek: İlgi (a) Yazı (1 Sayfa)
+
+Dağıtım:
+Adalet Bakanlığına
+Hazine ve Maliye Bakanlığına
+
+
+
+Sadece Dağıtım Başlığının Olması Durumu:
+                                                                                    Adı SOYADI
+                                                                                    Kurum Başkanı
+
+Dağıtım:
+Adalet Bakanlığına
+Milli Savunma Bakanlığına
+
+
+
+Dağıtım Gereği ve Bilgi Şeklinde Olması Durumu:
+                                                                                          Adı SOYADI
+                                                                                              Bakan
+
+Dağıtım:
+Gereği:                                       Bilgi:
+Adalet Bakanlığına                            Türkiye Büyük Millet Meclisi Başkanlığına
+İçişleri Bakanlığına
+
+Bazı Dağıtım Yerlerine Ek Konulmaması Durumu:
+                                                                                    Adı SOYADI
+                                                                                   Kurum Başkan V.
+
+Ek:
+1-İlgi Yazı (1 Sayfa)
+2-Dosya (1 Adet)
+
+Dağıtım:
+Dışişleri Bakanlığına (Ek-1 Konulmadı)
+Hazine ve Maliye Bakanlığına
+Milli Savunma Bakanlığına (Ekler Konulmadı)
+                                                 29
+                                                                                                                      ÖRNEK 15
+                                              DAĞITIM LİSTESİ ÖRNEĞİ
+
+Dağıtımın Üst Yazının Devamında Kullanılması Durumu:
+
+                                                    T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+
+Sayı : E-38745746-010.02-1675242                                                                                      01.12.2020
+Konu : Hizmet İçi Eğitim Duyurusu
+
+
+                                                  DAĞITIM YERLERİNE
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………
+
+
+                                                                                                           Adı SOYADI
+                                                                                                       Personel Daire Başkanı
+
+
+
+Ek: Eğitim Programı (3 Sayfa)
+
+Dağıtım:
+Dağıtım Listesi (5 Muhatap)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+                                                                 1/2
+
+
+
+                                                                 30
+                                                     DAĞITIM LİSTESİ
+
+
+
+Gaziantep Sosyal Güvenlik İl Müdürlüğüne
+İstanbul Sosyal Güvenlik İl Müdürlüğüne
+Ankara Sosyal Güvenlik İl Müdürlüğüne
+Bursa Sosyal Güvenlik İl Müdürlüğüne
+Muş Sosyal Güvenlik İl Müdürlüğüne
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+                                                                 2/2
+
+                                                                 31
+                                                                                                                      ÖRNEK 16
+Dağıtımın Belge Eki Olarak Kullanılması Durumu:
+
+                                                  T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                            Hukuk Müşavirliği
+
+
+Sayı : E-38745746-010.02-1675242                                                                                       01.12.2020
+Konu : Yönetmelik Taslağı Değerlendirme Toplantısı
+
+
+                                                  DAĞITIM YERLERİNE
+
+     …………………………………………………………………………………………………….………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….…………………………………………………………….…………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………
+     …………………………………………………………………………………………….………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………….
+
+
+                                                                                                           Adı SOYADI
+                                                                                                        1. Hukuk Müşaviri
+
+
+
+Ek:
+1-Yönetmelik Taslağı (3 Sayfa)
+2-Dağıtım Listesi (4 Muhatap)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+
+
+                                                                 32
+                                                                      EK-2
+
+
+                                         DAĞITIM LİSTESİ
+
+
+Gereği:                                         Bilgi:
+
+Emeklilik Hizmetleri Genel Müdürlüğüne          Hukuk Müşavirliğine
+Hizmet Sunumu Genel Müdürlüğüne
+Sigorta Primleri Genel Müdürlüğüne
+Personel Daire Başkanlığına
+
+
+
+
+                                               33
+                                                                                                                       Örnek 17
+                                                     T.C.
+                            AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞI
+                                      Sosyal Güvenlik Kurumu Başkanlığı
+                                         Personel Daire Başkanlığı
+
+Sayı : E-12345678-123.02-1234567                                                                                       01.12.2020
+Konu : Adı SOYADI
+
+
+                                                 BAKANLIK MAKAMINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………
+     ……………………………………………………………………………………………………………………………………………………………………
+………………………………………………
+
+
+
+
+                                                                                                         Adı SOYADI
+                                                                                                        Kurum Başkanı
+
+
+
+
+                                                             OLUR
+                                                          Adı SOYADI
+                                                             Bakan
+
+
+
+Ek: Atama Onayları (10 sayfa)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                      Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                           Unvan
+
+                                                                 34
+                                                                                                                   ÖRNEK 17/A
+
+                                                        T.C.
+                                     SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                            Rehberlik ve Teftiş Başkanlığı
+
+
+Sayı : E-12345678-123.02-1234567                                                                            01.12.2020
+Konu : Adı SOYADI
+
+
+                                                 BAŞKANLIK MAKAMINA
+
+   …………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+…………………………………………………
+   …………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+………………
+   …………………………………………………………………………………………………………………
+…………………………………………………………………………………………………
+
+
+
+
+                                                                                                      Adı SOYADI
+                                                                                                Rehberlik ve Teftiş Başkanı
+
+
+
+
+                                                             OLUR
+                                                          Adı SOYADI
+                                                          Kurum Başkanı
+
+
+
+Ek: Şikayet Dilekçesi (3 Sayfa)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+
+
+                                                                 35
+                                                                                        ÖRNEK 18
+
+                         FİZİKSEL ORTAMDA HAZIRLANAN OLUR ÖRNEĞİ
+
+                                                            GİZLİ
+
+                                                  T.C.
+                               SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                      Rehberlik ve Teftiş Başkanlığı
+
+
+Sayı : Z-12345678-123.02-(Sayı)                                                       (Tarih)
+Konu : Maluliyet Dosyaları
+
+
+                                            BAŞKANLIK MAKAMINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………………
+
+                                                                             İmza
+                                                                         Adı SOYADI
+                                                                    Rehberlik ve Teftiş Başkanı
+
+
+
+
+                                                        OLUR
+                                                       (Tarih)
+                                                         İmza
+                                                     Adı SOYADI
+                                                    Kurum Başkanı
+
+
+
+Ek: Komisyon Üyeleri Listesi (43 Kişi)
+
+
+
+01.12.2020 Şube Müdürü : Adı SOYADI (Paraf)
+01.12.2020 Refakat Müf. : Adı SOYADI (Paraf)
+
+
+
+
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                             Bilgi için:      Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                       Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                  Telefon No: (0312) 123 456
+                                                            GİZLİ
+
+
+                                                             36
+                                                               ÖRNEK 18/A
+             FİZİKSEL ORTAMDA HAZIRLANAN ARA KADAMELİ OLUR ÖRNEĞİ
+
+                                                            GİZLİ
+
+                                                  T.C.
+                               SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                      Rehberlik ve Teftiş Başkanlığı
+
+
+Sayı : Z-12345678-123.02-(Sayı)                                                       (Tarih)
+Konu : Maluliyet Dosyaları
+
+
+                                            BAŞKANLIK MAKAMINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………………
+
+
+
+                                                                             İmza
+                                                                         Adı SOYADI
+                                                                    Rehberlik ve Teftiş Başkanı
+
+Uygun görüşle arz ederim.
+      (Tarih)
+       İmza
+    Adı SOYADI
+Kurum Başkan Yardımcısı
+
+
+                                                        OLUR
+                                                       (Tarih)
+                                                         İmza
+                                                     Adı SOYADI
+                                                    Kurum Başkanı
+
+
+
+Ek: 3 Adet Klasör
+
+
+01.12.2020 Şube Müdürü: Adı SOYADI (Paraf)
+01.12.2020 Refakat Müf. : Adı SOYADI (Paraf)
+
+
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                             Bilgi için:      Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                       Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                  Telefon No: (0312) 123 456
+
+                                                             37
+                                                                                                                   ÖRNEK 18/B
+                                 ARA KADEMELERİ İÇEREN OLUR ÖRNEĞİ
+
+                                                     T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Destek Hizmetleri Daire Başkanlığı
+
+
+Sayı : E-12345678-123.02-1234567                                                                                      01.12.2020
+Konu : Güvenlik
+
+
+                                                BAŞKANLIK MAKAMINA
+
+
+      …………………………………………………………………………………………………………
+………………………………………………………………………………………………………………..
+………………………………………………………………………………………………………….…….
+hususunun Yönetim Kuruluna uygun görüşle havalesini takdirlerinize arz ederim.
+
+
+
+
+                                                                                                   Adı SOYADI
+                                                                                           Destek Hizmetleri Daire Başkanı
+
+Uygun görüşle arz ederim.
+    Adı SOYADI
+Kurum Başkan Yardımcısı
+
+
+
+
+                                                            OLUR
+                                                         Adı SOYADI
+                                                        Kurum Başkanı
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+                                                                 38
+                                                                                                                   ÖRNEK 18/C
+                                                       T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                      İstanbul Sosyal Güvenlik İl Müdürlüğü
+
+
+
+Sayı : E-12345678-123.02-1234567                                                                                      01.12.2020
+Konu : Güvenlik
+
+
+
+
+                                 DESTEK HİZMETLERİ DAİRE BAŞKANLIĞINA
+
+   …………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+…………………………………………. Yönetim Kuruluna havalesi hususunda;
+   Gereğini arz ederim.
+
+
+
+
+                                                                                                 (İmza)
+                                                                                              Adı SOYADI
+                                                                                       Sosyal Güvenlik İl Müdürü
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+
+
+                                                                 39
+                                                                                                                   ÖRNEK 19/A
+
+
+
+           ELEKTRONİK BELGENİN YAZDIRILMASI DURUMUNDA PARAF ÖRNEĞİ
+
+
+
+
+                                                    T.C.
+                                  SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+                                                                                                               GÜNLÜDÜR
+Sayı : E-12345678-123.02-1234567                                                                                01.12.2020
+Konu : Adı SOYADI
+
+
+                                 YÜKSEK ÖĞRETİM KURULU BAŞKANLIĞINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+……………………………………………………….………………………………………………………………………………………………………………………
+………………………………………………………
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………
+
+
+
+
+                                                                                                         Adı SOYADI
+                                                                                                       Kurum Başkanı a.
+                                                                                                    Personel Daire Başkanı
+
+
+
+
+Ek: Karar Sureti (1 Sayfa)
+
+
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+
+
+                                                                 40
+                                              T.C.
+                            SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                    Personel Daire Başkanlığı
+
+
+                                        BELGE ÜSTVERİLERİ
+
+Üstveri Detayları
+ Tarih                  01.12.2020
+ Belge No               E-12345678-123.12-1234567
+ Belge ID               FD0ED29F-BD59-424C-9257-FD1C0CDAD662
+ Konu                   Adı Soyadı
+ Dağıtım Listesi        Yüksek Öğretim Kurulu Başkanlığı
+ Ekler                  Karar Sureti (1 Sayfa)
+ İlgiler                -
+                        DETSİS Kodu: 123456789
+ Oluşturan
+                        Adı: Personel Daire Başkanlığı
+ Dosya Adı              E-12345678-123.02-1234567.eyp
+                        Kod: 010.02
+ Sdp Bilgisi
+                        Ad: Mevzuat İşleri
+
+
+
+Belge İmzacıları
+ Kişi          Görev           Amaç Yetki Devreden         Vekalet Veren    Tarih
+ Adı           Personel        Onay -                      Adı SOYADI       01.12.2020
+ SOYADI        Daire                                       Personel Daire   17:05:35
+               Başkan V.                                   Başkanı
+
+
+
+Belge Parafçıları
+ Kişi           Görev           Amaç          Yetki            Vekalet      Tarih
+                                              Devreden         Veren
+ Adı           VHKİ             Paraf         -                -            01.12.2020
+ SOYADI                                                                     16:30:21
+ Adı           Şef              Paraf         -                -            01.12.2020
+ SOYADI                                                                     16.45:38
+ Adı           Şube             Paraf         -                -            01.12.2020
+ SOYADI        Müdürü                                                       16.59:25
+
+
+
+
+                                                  41
+                                                                                          ÖRNEK 19/B
+                                    FİZİKSEL BELGEDE PARAF ÖRNEĞİ
+
+
+                                                 T.C.
+                               SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Personel Daire Başkanlığı
+
+                                                                                            ACELE
+Sayı : O-38745746-010.02-1234567                                                           01.12.2020
+Konu : Adı SOYADI
+
+
+                                            BAŞKANLIK MAKAMINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………
+…………………………….
+
+
+                                                                              İmza
+                                                                          Adı SOYADI
+                                                                     Personel Daire Başkanı
+
+
+
+
+                                                       OLUR
+                                                       (Tarih)
+                                                        İmza
+                                                    Adı SOYADI
+                                                   Kurum Başkan V.
+
+
+
+
+01.12.2020 Şef         : Adı SOYADI (Paraf)
+01.12.2020 Şube Müdürü: Adı SOYADI (Paraf)
+
+
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                         Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                              Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+                                                                                 Telefon No: (0312) 123456
+
+
+
+                                                            42
+                                                                                            ÖRNEK 20
+                                           KOORDİNASYON ÖRNEĞİ
+
+
+                                                 T.C.
+                               SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                       Personel Daire Başkanlığı
+
+
+Sayı : Z-12345678-123.02-1234567                                                             01.12.2020
+Konu : Yıllık Eylem Planı
+
+
+                                            BAŞKANLIK MAKAMINA
+
+     ……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………………
+………………………
+
+
+                                                                             İmza
+                                                                         Adı SOYADI
+                                                                    Personel Daire Başkanı
+
+
+
+
+                                                       OLUR
+                                                       (Tarih)
+                                                        İmza
+                                                    Adı SOYADI
+                                                    Kurum Başkanı
+
+
+Ek : Eylem Planı (20 Sayfa)
+
+
+
+01.12.2020 Şef        : Adı SOYADI (Paraf)
+01.12.2020 Şube Müdürü: Adı SOYADI (Paraf)
+
+Koordinasyon:
+02.12.2020 Şube Müdürü :Adı SOYADI (Paraf)
+
+
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                              Bilgi için:   Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                 Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+                                                                          Telefon No: (0312) 123456
+
+
+
+                                                            43
+                                                                                                                      ÖRNEK 21
+
+                       BELGE DOĞRULAMA VE İLETİŞİM BİLGİSİ ÖRNEKLERİ
+
+
+
+
+İletişim Bilgisi Bölümünde Bir Kişiye Yer Verilmesi:
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                        Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                             Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                   Telefon No: (0312) 123456
+
+
+
+
+İletişim Bilgisi Bölümünde Birden Fazla Kişiye Yer Verilmesi:
+
+
+                                         Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                  Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                     Bilgi için: Adı SOYADI                    Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                        Unvanı                        Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                    Telefon No: (0312) 123456                  (0312) 123458
+
+
+
+
+Karekodda Bulunması Gereken Asgari Alanlar:
+
+
+Belgeyi Üreten İdare: Sosyal Güvenlik Kurumu Başkanlığı
+Belge Sayısı: E-XXXXXXX-XXX-XXXXXX
+Belge Doğrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Belge
+Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV
+
+
+
+
+                                                                 44
+                                                                                  ÖRNEK 22
+
+                  BELGENİN GÖNDERİLMESİNE İLİŞKİN ZARF ÖRNEĞİ
+
+Süreli Belge Gönderiminde Zarf Örneği:
+
+               T.C.
+     SOSYAL GÜVENLİK KURUMU
+           BAŞKANLIĞI                                                         ACELE
+   Tarih
+   Sayı
+
+
+                                    EMNİYET GENEL MÜDÜRLÜĞÜ
+                                     Devlet Mah. İnönü Bulvarı No:2
+                                     Bakanlıklar/ Çankaya /ANKARA
+
+
+
+Kişiye Özel Belge Gönderiminde Zarf Örneği:
+
+               T.C.
+     SOSYAL GÜVENLİK KURUMU                                                KİŞİYE ÖZEL
+           BAŞKANLIĞI                                                      Adı SOYADI
+   Tarih
+   Sayı
+
+                                           EMNİYET GENEL MÜDÜRLÜĞÜ
+                                             Devlet Mah. İnönü Bulvarı No:2
+                                             Bakanlıklar/ Çankaya /ANKARA
+
+
+
+
+Kişiye Özel ve Süreli Belge Gönderiminde Zarf Örneği:
+
+               T.C.
+     SOSYAL GÜVENLİK KURUMU                                                KİŞİYE ÖZEL
+           BAŞKANLIĞI                                                      Adı SOYADI
+                                                                              ACELE
+   Tarih
+   Sayı
+
+                                         EMNİYET GENEL MÜDÜRLÜĞÜ
+                                          Devlet Mah. İnönü Bulvarı No:2
+                                          Bakanlıklar/ Çankaya /ANKARA
+Gönderiminde Zarf Örneği:
+
+ZARF
+                                              45
+              T.C.
+    SOSYAL GÜVENLİK KURUMU       GİZLİ
+          BAŞKANLIĞI
+  Tarih
+  Sayı
+
+
+
+
+                          EMNİYET GENEL MÜDÜRLÜĞÜ
+                           Devlet Mah. İnönü Bulvarı No:2
+                          Bakanlıklar/ Çankaya /ANKARA
+
+
+                                 GİZLİ
+
+
+
+
+DIŞ ZARF
+
+              T.C.
+    SOSYAL GÜVENLİK KURUMU
+          BAŞKANLIĞI
+
+
+
+
+                     EMNİYET GENEL MÜDÜRLÜĞÜ
+                      Devlet Mah. İnönü Bulvarı No:2
+                      Bakanlıklar/ Çankaya /ANKARA
+
+
+
+
+                                    46
+                                                                            ÖRNEK 23
+               FİZİKSEL ORTAMDA GELEN BELGENİN ETİKET/KAŞE ÖRNEĞİ
+
+
+Etiket Örneği:
+
+
+                                              T.C.
+                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Personel Daire Başkanlığı
+               Belgenin Kayıt Sayısı
+               Belgenin Kayıt Tarihi ve Saati
+                            HAVALE DİLEN BİRİM/BİRİMLER
+
+               ……………………………….
+               …………………….
+               …………………….
+
+
+
+Karekodda Bulunması Gereken Asgari Alanlar:
+
+         Belgeyi Kaydeden Birim: Bilgi ve Belge Yönetimi Daire Başkanlığı
+         Belgenin Kayıt Sayısı: XXXXXX
+         Belgenin Kayıt Tarihi ve Saati: XX.XX.20XX – XX:XX
+         Havale Edilen Birim/Birimler:
+         ……………………………..
+         ……………………………
+         …………………………….
+
+Kaşe Örneği:
+
+                                        T.C.
+                     SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                          Destek Hizmetleri Daire Başkanlığı
+                           Kayıt Sayısı
+               Belgenin    Kayıt Tarihi
+                           Kayıt Saati
+                                 HAVALE EDİLECEK BİRİM/BİRİMLER
+                          Gereği                   Bilgi
+
+
+
+
+                                                47
+                                                                                                                    ÖRNEK 24
+                                               TEKİT YAZISI ÖRNEĞİ
+
+                                              T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                          Personel Daire Başkanlığı
+
+                                                                                                                       ACELE
+Sayı : E-12345678-123.02-1045421                                                                                     01.12.2020
+Konu : Tekit Yazısı
+
+
+
+                              ……………………………………………….. NA
+
+
+
+İlgi      :29.11.2019 tarihli ve E-69471265-903.04-134867 sayılı yazımız.
+
+          İlgi yazımıza beş gün içinde cevap verilmesi hususunda gereğini tekiden rica ederim.
+
+
+
+
+                                                                                                         Adı SOYADI
+                                                                                                       Kurum Başkanı a.
+                                                                                                    Personel Daire Başkanı
+
+
+
+
+                                               Bu belge, güvenli elektronik imza ile imzalanmıştır.
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV                          Belge Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+Ziyabey Caddesi No:6 PK:06520 Balgat-ANKARA                                                               Bilgi için: Adı SOYADI
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68                                                                    Unvan
+e-Posta: ………….@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+Kep Adresi: sgk@hs01.kep.tr                                                                             Telefon No: (0312) 12345
+
+
+
+
+                                                                 48
+

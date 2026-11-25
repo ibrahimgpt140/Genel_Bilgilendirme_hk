@@ -1,0 +1,635 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/57277
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Sözleşme / Protokoller
+SAYI: 
+ADI: SOSYAL GÜVENLİK KURUMU İLE VAKIF ÜNİVERSİTELERİ ARASINDA KISMİ BRANŞ/SAĞLIK HİZMETİ SATIN ALIM SÖZLEŞMESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: fcc06760abe9a71f934d1dcbf6ddf51ae67799542e7c07f614c1e2133469158b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+       SOSYAL GÜVENLİK KURUMU İLE VAKIF ÜNİVERSİTELERİ
+        ARASINDA KISMİ BRANŞ/ SAĞLIK HİZMETİ SATIN ALIM
+                          SÖZLEŞMESİ
+
+       1. TARAFLAR
+
+       Sosyal Güvenlik Kurumu ile ………… Üniversitesidir.
+
+       2. AMAÇ
+
+        Bu sözleşmenin amacı; Kurum tarafından sağlık yardımları karşılanan hastaya kaliteli,
+erişilebilir ve tıp biliminin genel kabul gören kurallarına uygun sağlık hizmeti sunulması,
+………….. Üniversitesi’nin Sosyal Güvenlik Kurumu ile olan ilişkilerinin kurallara bağlanmasıdır.
+
+       3. KONU
+
+        Bu sözleşmenin konusu; Sosyal Güvenlik Kurumu tarafından sağlık yardımları karşılanan
+kişilere, ………….. Üniversitesi’nin (EK-1)’de yer alan branş/sağlık hizmetlerinde vermeyi kabul
+ve taahhüt ettiği hizmetlerle sınırlı olmak üzere, sağlık hizmetlerinin sağlanmasının usul ve esasları
+ile karşılıklı hak ve yükümlülüklerin belirlenmesidir.
+
+       4. TANIMLAR
+
+        Bu sözleşmede geçen;
+        Kanun: 31/05/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununu,
+        Kurum: Sosyal Güvenlik Kurumunu,
+        YÖK: Yükseköğretim Kurumunu
+        Mevzuat: Kanun, tüzük, yönetmelik, tebliğ, genelge, yönerge, genel yazı, usul ve esasları,
+        Sağlık Uygulama Tebliği (SUT): Kurum tarafından yayımlanan ve hizmetin verildiği
+tarihte yürürlükte olan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+        Sağlık Hizmeti Sunucusu (SHS): Üniversitenin yataklı ve yataksız sağlık kurum ve
+kuruluşunu,
+        Ruhsat: Üniversitenin ve Sağlık Hizmet Sunucusunun tabii olduğu YÖK mevzuatı
+doğrultusunda faaliyetlerini yürütebileceğini gösteren, Resmi Gazete’de yayınlanmış Üniversitesi
+Hastanesi Yönetmeliği ile iş bu sözleşme kapsamındaki branşlardan Sağlık Bakanlığı
+ruhsatlandırmasına veya tesciline tabi olanlar ile ilgili alınan belgeleri,
+        MEDULA: Sunulan sağlık hizmetlerine ilişkin bilgiler ile karşılığı ödeme işlemlerinin
+elektronik ortamda yürütülmesi için kullanılan Kurum bilgi işlem sistemini,
+        Hasta: Sağlık yardımları Kurum tarafından karşılanan ve SHS’ye sağlık hizmeti almak
+amacıyla başvuran kişileri,
+        Fatura dönemi: SHS tarafından her ayın birinci günü ile sonuncu günü arasında verilen
+hizmetleri kapsayan dönemi,
+        ifade eder.
+
+       5. SÖZLEŞMEYE GÖRE SAĞLIK HİZMETİNİ ALACAK KİŞİLER
+
+       Bu sözleşmeye göre SHS’ye doğrudan ve varsa Kurumca belirlenen sevk usulüne uygun
+olarak başvuran tüm hastalar, sağlık hizmetlerinden yararlanacak kişilerdir.
+
+                                                                                                1
+       6. HAK VE YÜKÜMLÜLÜKLERE İLİŞKİN GENEL İLKELER
+
+        6.1. Kurumun Hak ve Yükümlülükleri
+        6.1.1. Kurum, sunulan sağlık hizmetleri karşılığında, SHS’ye ilgili mevzuat ile sözleşmede
+belirlenen usul ve esaslar doğrultusunda ödeme yapmakla yükümlüdür.
+        6.1.2. Kurum, ödeme politikalarında tek taraflı olarak değişikliğe gidebilir.
+        6.1.3. Kurum, kendi bünyesinde ilgili mevzuat ve işbu sözleşme gereğince yerine
+getirilecek hizmetlerin sunumu için gerekli yazılım ve donanım dahil altyapı hizmetini sunacaktır.
+        6.1.4. Kurum, sağlık hizmetleri sunumunda hakkaniyet, verimlilik ve etkinliğin sağlanması
+amacıyla sağlık harcamalarına ait her türlü veri ve bilgiye ulaşma hakkına sahiptir.
+
+       6.2. SHS’nin Hak ve Yükümlülükleri
+       6.2.1. SHS, Kurum tarafından çıkarılan mevzuat hükümleri ile faaliyetleriyle ilgili olarak
+Sağlık Bakanlığı ve YÖK tarafından çıkarılan mevzuat hükümlerine uymakla yükümlüdür.
+       6.2.2. SHS, hizmetin kalitesi ya da hizmetlerin erişilebilirliği açısından, hiçbir hastaya karşı
+ayırımcılık yapmayacaktır.
+       6.2.3. SHS, sağlık hizmetlerinin sunumu açısından MEDULA sisteminin gerektirdiği bilgi
+işlem altyapısını, hastaları bilgilendirmeye yönelik Kurumca hazırlanacak yazılımları çalıştırmak
+üzere bünyesinde gerekli donanım altyapısını, hastaların kimlik tespitlerine ilişkin Kurumca
+oluşturulacak sisteme uygun gerekli altyapıyı yine Kurumca belirlenecek sürede, kendi bünyesinde
+oluşturmakla yükümlüdür.
+       6.2.4. SHS, hastalara ait tıbbi bilgilerin gizliliği ile ilgili geçerli yasal yükümlülüklere
+uyacaktır.
+       6.2.5. SHS, MEDULA’ya kaydettiği her türlü bilginin doğruluğunu ve mevzuata
+uygunluğunu kabul ve taahhüt eder.
+       6.2.6. SHS, hizmet verdikleri hastalara ilişkin fatura eki belgeleri en az 5 (beş) yıl süreyle
+saklamakla yükümlüdür.
+
+       7. İDARİ HÜKÜMLER
+
+         7.1. Müracaat ve Kimlik Tespiti İşlemleri
+         7.1.1. SHS, doğrudan veya sevk edilmek suretiyle başvuran hastayı SUT’ta yer alan
+müracaata ve kimlik tespiti işlemlerine ilişkin düzenlemeler ile, Kurum mevzuatı doğrultusunda
+işbu sözleşme kapsamında ve ekli listede belirtilen branş ve şartlarla sınırlı olmak üzere kabul
+etmek zorundadır. Kabul edilmeyen hastaya kabul edilmeme gerekçesi SHS yetkilisinin imzasıyla
+yazılı olarak bildirilmek zorundadır. Hastanın yazılı olarak Kuruma müracaatı halinde SHS’ce
+belirtilen gerekçe Kurum tarafından uygun bulunmalıdır.
+
+        7.2. Hastaya Yapılacak İstisnai Ödeme
+        SHS tarafından mevzuat hükümleri çerçevesinde hastaya temin ettirilen tıbbi malzeme ile
+yol ve gündeliklerle ilgili olarak düzenlenmesi gereken belgelerin mevzuata uygun olmaması ya da
+eksik tanzim edilmesi halinde bu eksiklikler hastanın kendisi tarafından tamamlatılabileceği gibi
+Kurumca da tamamlatılabilir. Kurum bu amaçla SHS’ ye yazılı olarak tebligat yapar. SHS tebliğ
+tarihini izleyen 10 (on) iş günü içinde gerekli düzenlemeleri yaparak Kuruma göndermek
+zorundadır. Belirtilen süre içerisinde eksikliklerin giderilmemesi ya da Kuruma bildirilmemesi
+halinde ilgili kişiye gerekli ödemeler Kurumca yapılarak, SHS’nin alacağından mahsup edilir.
+
+
+
+
+                                                                                                 2
+        7.3. İlave Ücret Uyarısı
+        SHS, EK-1 kısmi sözleşme branş listesi ile alınacak ilave ücret oranını ve bu hizmetler
+içinde ilave ücret alınmayacak sağlık hizmetlerini gösterir EK-3’e uygun olarak oluşturulacak bir
+levhayı, hasta tarafından görülebilecek şekilde ilave ücretin tahsil edildiği yerlere asmak
+zorundadır.
+
+        7.4. Belgelerin Saklanması, Kuruma İletilmesi
+        SHS, hastaların muayene, tetkik/tahlil ve tedavilerine ait bilgilerini bu konudaki mevzuat
+hükümlerine uygun ve istenildiğinde kontrol edilebilecek şekilde kendi otomasyon sistemlerine
+kaydetmek, kaydedilen bilgilerle dayanağı belgeleri ilgili mevzuat hükümlerince saklamak ve
+istenildiğinde Kuruma ibraz etmekle yükümlüdür.
+
+         7.5. Reklam, Kampanya ve Yönlendirme Yasağı
+         7.5.1. SHS, Sağlık Bakanlığından izin alınmak suretiyle gerçekleştirilecek kampanya ya da
+tarama kapsamında check-up, tetkik, tahlil ya da tedavileri yapılan kimselerin isimleri ve T.C.
+kimlik numaralarını liste halinde ve/veya elektronik ortamda; kampanya başlangıç ve bitiş tarihleri
+ile birlikte, kampanya ya da taramanın devam ettiği her ayı takip eden ayın 15’ine kadar Kuruma
+bildirilir ve bu hizmetlere ilişkin bedeller Kuruma fatura edilemez.
+         7.5.2. SHS ilgili mevzuata aykırı yersiz talep oluşturacak reklam ve tanıtım yapamaz. Tespit
+edilen bu durumlar ilgili kamu kurum ve kuruluşlarına bildirilerek, gelen cevabi yazı uyarınca
+sözleşme ve Kurum mevzuatı çerçevesinde gerekli işlemler yapılır.
+         7.5.3. SHS ilgili mevzuata aykırı yersiz talep oluşturacak kampanya ya da tarama yapamaz.
+
+         7.6. Denetim
+         7.6.1. Kurum, SHS’den sözleşme kapsamında her türlü doküman, fatura ve ekleri ile tetkik
+ve kayıtların asıllarını isteme, inceleme, kopyalarını alma, Kurumun denetimle görevli personeli
+ise, SHS’nin yetkilisinin, çalışanlarının ya da hastaların bilgilerine başvurma ve bu bilgileri,
+inceleme ve denetim yetkisine sahiptir. Kurum bu yetkisini, uygun gördüğü zamanda ve yerde
+görevlendireceği personeline veya ihtiyaç duyulması halinde Kurum dışı kişi veya kuruluşlara
+yaptırmak suretiyle kullanır.
+         7.6.2. SHS’nin ruhsatına ilişkin uygun olmayan bir durumun Kurumca ya da diğer kamu
+kurumlarınca tespit edilmesi halinde, tespit edilen durum ilgili il sağlık müdürlüğüne ve YÖK’e
+yazılı olarak bildirilir ve gelen cevabi yazı göz önünde bulundurularak sözleşme ve Kurum
+mevzuatı çerçevesinde gerekli işlemler yapılır.
+         7.6.3. SHS yetkilileri, denetim ekibine, denetim süresince uygun bir çalışma ortamı ile
+görevlerinin ifası sırasında gereken her türlü kolaylığı sağlamak ve yardımcı olmak zorundadır.
+SHS yetkilileri, genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişiler adına düzenledikleri
+veya tutmak zorunda oldukları her türlü kayıt, fatura ve eki belgeler ile hazırlanması istenilen tablo
+ve raporları denetim süresi içerisinde denetim ekibine göstermek, vermek ve incelenmesine
+yardımcı olmak zorundadır.
+         7.6.4. Denetim esnasında SHS’de görev yapan yetkililer ve çalışanlar denetleme ekibinin
+görevine engel olamazlar.
+         7.7. SHS’ye İlişkin Değişiklikler
+         7.7.1. Sözleşmenin imzalanmasından sonra SHS’nin ruhsatına sözleşmeye konu yeni bir
+branş/sağlık hizmeti eklenmesi/çıkarılması halinde, bu durum 10 (on) iş günü içinde Kuruma
+bildirilir.
+         7.7.2. SHS sözleşme konusu branşlara ilişkin ruhsat değişikliklerini, değişikliğin meydana
+geldiği tarihten itibaren 10 (on) iş günü içinde Kuruma bildirmekle yükümlüdür.
+
+
+                                                                                                3
+         7.8. Hizmet Alımı
+         7.8.1. SHS, SUT’ta yer alan tetkik ve tahlillerden bir veya daha fazlasını
+gerçekleştiremediği hallerde, bu hizmetleri temin edeceği SHS’nin, görüntüleme merkezinin
+ve/veya laboratuarın ruhsat örneği ile alınacak hizmetleri gösterir hizmet alım sözleşmesini
+sözleşmenin yapıldığı tarihten itibaren 10 (on) iş günü içerisinde Kuruma iletmek zorundadır.
+Hizmet alınan SHS’nin Kurumla sözleşmesi yok ise hizmet alım sözleşmesinin Kurum kayıtlarına
+intikal ettiği tarihten itibaren, 10 (on) iş günü içerisinde Kurumca hizmet alımı yapacak SHS’ye
+bildirimde bulunulur. Eğer bildirim olumlu ise bildirim tarihinden itibaren hizmet alımı başlamış
+sayılır. Ancak hizmet alınan SHS’nin hizmet alımı yapılan branşta Kurumla sözleşmesi varsa,
+Kurumca uygunluk bildirimine gerek olmaksızın, hizmet alımı sözleşmesinin Kurum kayıtlarına
+intikal ettiği tarihten itibaren bu hizmetleri alabilir. Kuruma iletilmeyen ve Kurumca uygunluğu
+bildirilmeyen SHS’lerden hizmet alınması ve/veya bu hizmetlerin Kuruma fatura edilmesi halinde,
+bu işlem bedelleri ödenmez.
+         7.8.2. SHS, Kurumla sözleşmesi feshedilmiş olan SHS’lerden fesih süreleri içerisinde
+hizmet alımı yapamaz. SHS’nin hizmet alımı yaptığı yerlerden herhangi birisinden hizmet
+alınamayacağına Kurumca karar verilmesi halinde buradan diğer SHS’lerce de söz konusu kararın
+devamı süresince hizmet alımı yapılamaz. Buna aykırı olarak hizmet alımının yapıldığının tespit
+edilmesi halinde, bu durum SHS’ye bildirilir ve bildirim tarihinden sonraki işlem bedelleri
+ödenmez.
+         7.8.3. SHS, başka bir SHS’den hizmet alımı yöntemiyle hizmet temin etmek amacıyla
+yapacağı sözleşmelerde; hizmet alımı yapılan SHS’nin alınan hizmete ilişkin olarak bu sözleşmede
+yer alan tüm hükümlere uyacağını, Kurumun denetim hakkının bulunduğunu, denetimin
+engellenmesi veya bu sözleşme hükümlerine uyulmaması hallerinde ilgili bedellerin Kurumca
+ödenmeyeceğini ve bu durumda hizmet alım sözleşmesinin SHS tarafından tek taraflı feshedilmiş
+olduğunu belirtir hükümlere yer vermek zorundadır. Hizmet alınan yer denetlemeye izin vermez ise
+bu durum bir tutanakla tespit edilerek SHS’ye bildirilir ve bildirim tarihinden itibaren alınan
+hizmetlere ilişkin bedeller Kurumca ödenmez.
+
+       7.9. SHS’nin Hizmet Vereceği Branş/Sağlık Hizmetleri
+       SHS, EK-1’de yer alıp ruhsatında bulunan branş/ sağlık hizmetlerinin tümünde sağlık
+hizmeti vermeyi kabul eder.
+
+       8. PERSONELE İLİŞKİN HÜKÜMLER
+
+        8.1. SHS, hastalara hizmet verebilmek için sözleşme kapsamındaki branş/sağlık
+hizmetlerinde kuruluş ve faaliyetiyle ilgili tabi oldukları mevzuata uygun olarak hekim ve sağlık
+personeli bulundurmak zorundadır. Aykırı bir durumun tespiti halinde bu durum ilgili il sağlık
+müdürlüğüne yazılı olarak bildirilir ve gelen cevabi yazı göz önünde bulundurularak sözleşme ve
+Kurum mevzuatı çerçevesinde gerekli işlemler yapılır.
+        8.2. SHS, Kurumla sözleşme yaptığı Ek-1 de yer alan her bir branş/sağlık hizmetlerinde
+görev yapan tüm hekimlerin %80’i üzerinden hizmet sunmak zorundadır. Bu hekimler sözleşme
+başvurusu sırasında Kuruma bildirilir. Daha sonra göreve başlayacak hekimler ise başlangıç
+tarihinden itibaren 3 (üç) iş günü içinde Kuruma bildirilmek zorundadır. Bildirildiği tarihi izleyen 5
+(beş) iş günü içinde bu hekimler MEDULA’da aktif hale getirilir.
+        8.3. SHS, Kurumla sözleşme yaptığı EK-1 de yer alan branş/sağlık hizmetlerinde görev
+yapan hekimlerin geçici (izin, rapor, eğitim vs.) veya sürekli ayrılmaları halinde bu kişileri ayrılış
+tarihleri itibariyle MEDULA’da pasif hale getirir. Bunlardan sürekli ayrılanlar 10 (on) iş günü
+içinde Kuruma bildirilir.
+
+
+                                                                                                4
+        8.4. Bu sözleşmenin (11.1.13), (11.1.14), (11.1.15), (11.1.16), (11.1.17) ve (11.1.18)
+numaralı maddelerinde yer alan fiillerin SHS’de görevli hekim tarafından kasıtlı olarak
+işlendiğinin tespit edilmesi halinde, durumun SHS’ye tebliği tarihinden itibaren 6 (altı) ay süreyle
+Kurumla sözleşmeli SHS’lerce bu hekim üzerinden hizmet bildirilemez. Buradaki takip
+yükümlülüğü Kuruma aittir.
+
+       9. TIBBİ VE TEKNİK HÜKÜMLER
+
+        9.1. Sözleşmenin herhangi bir nedenle sona ermesi halinde, SHS sözleşmenin sona erdiği
+tarihten önce yatarak tedavisine başlanan ve işlemi devam eden hastaların tedavilerini
+tamamlamakla yükümlüdür. Bu şekilde tedavileri yapılan hastalar adına düzenlenen fatura bedelleri
+Kurum tarafından ödenir. Bunun dışında yapılan işlemler Kuruma fatura edilemez.
+        9.2. SHS’ce, Ek-1 de yer alan branş/ sağlık hizmetleri nedeniyle yatarak tedavi gören
+hastalara yatarak tedavi süresince, sözleşme dışı branş/sağlık hizmetlerine ilişkin yapılması zorunlu
+tetkik ve/veya tedavileri de Kurum mevzuatı ve bu sözleşme hükümleri doğrultusunda yapılarak
+Kuruma fatura edilir.
+
+       10. ÖDEME ŞARTLARI VE ZAMANI
+
+         10.1. Kurum mevzuatı ve sözleşme hükümlerine aykırı olarak yapılan işlemlerin bedelleri
+ödenmez, ödenmiş ise yapılan bu ödemeler yersiz ödeme kabul edilir.
+         10.2. Bu sözleşme kapsamında SHS’ye yapılan yersiz ödemeler, ödeme tarihinden itibaren
+hesaplanacak avans faizi ile birlikte SHS’nin Kurumda tahakkuk etmiş alacağından mahsup edilir.
+SHS’nin Kurumda tahakkuk etmiş alacağı veya yeterli alacağı bulunmaması halinde Kurum alacağı
+genel hükümlere göre tahsil edilir. Denetim ve incelemeler sırasında gerekli hallerde Kurum dışına
+yaptırılan bilirkişi incelemelerine ilişkin giderler SHS’den tahsil edilir.
+         10.3. SHS adına tahakkuk etmiş olan her türlü Kurum alacağı (sigorta prim aslı, işsizlik
+sigortası prim aslı, cezai şart ile bunlara bağlı gecikme cezası, gecikme zammı) ile bu alacaklardan
+doğacak fer’ilere ilişkin borcu bulunması halinde, bu borç SHS’ye yazı ile bilgi verildikten sonra
+kanuni faizi ile birlikte Kurumdaki alacağından mahsup edilir ve varsa kalan tutar SHS’ye ödenir.
+         10.4. Cezai şart tutarı, SHS’nin Kurumda tahakkuk etmiş alacağından mahsup edilir. Bu
+sözleşme kapsamında Kurumca SHS’den tahsil edilmesi gereken yersiz ödemeler ile cezai şart
+tutarları, talep tarihinden önceki son bir yıllık fatura ortalamasının %25’inden az olmaması şartıyla
+ve talep edilmesi halinde taksitlendirilebilir. Taksit tutarları talep tarihinden önceki son bir yıllık
+fatura ortalamasının %25’inden aşağı olmamak üzere 12 (oniki) aya kadar taksitlendirilebilir.
+         10.5. SHS, bu sözleşmeye istinaden uygulanacak 1 (bir) yıl süreli fesih işlemleri ile
+100.000 TL’nin üzerindeki cezai şarta ilişkin süre/tutar/fiiller hususunda oluşacak anlaşmazlıklar
+için itiraz süreçlerinin tamamlanmasını müteakip tahkime başvurabilir. Bu maddenin yürürlük
+tarihi ile diğer usul ve esasları Kurumca belirlenerek duyurulur.
+
+       11. CEZAİ ŞART VE FESİH HÜKÜMLERİ
+
+       11.1. Uygulanacak Cezai Şartlar
+
+        a) Sözleşmeye İlişkin Cezai Şartlar
+        11.1.1. Bu sözleşmenin (7.3), (7.5.1), (8.1), (8.2), (8.3) numaralı maddelerinde belirtilen
+hükümlere aykırı davranıldığının tespit edilmesi halinde söz konusu maddelere ilişkin her bir fiil
+için ayrı ayrı 3.000 TL,
+
+
+
+                                                                                                 5
+       11.1.2. Bu sözleşmenin (7.1.1), (7.5.2), (7.5.3), (7.6.3), (7.7.1), (7.7.2), (7.8.1), (9.2)
+numaralı maddelerinde belirtilen hükümlere aykırı davranıldığının tespit edilmesi halinde söz
+konusu maddelere ilişkin her bir fiil için ayrı ayrı 10.000 TL,
+       11.1.3. Bu sözleşmenin (7.4), (7.6.4) numaralı maddelerinde belirtilen hükümlere aykırı
+davranıldığının tespit edilmesi halinde söz konusu maddelere ilişkin her bir fiil için ayrı ayrı 20.000
+TL,
+
+        b) SUT’a İlişkin Cezai Şartlar
+        11.1.4. Fatura eki belgelerin SUT’ta öngörülen şekilde usulüne uygun olarak
+düzenlenmediğinin veya bu belgelerin hiç iletilmediğinin tespiti halinde her bir belge için 200 TL,
+        11.1.5. SUT’a göre, Kurumca örneklemeye dâhil edilmeksizin tamamı incelenen fatura
+konusu işlemlerin Kuruma ayrı ayrı fatura edilmediğinin tespiti halinde, her bir fatura için 2.000
+TL,
+        11.1.6. SUT’ta belirtilen, hastaya sunulmuş olan hizmetleri ve ilave ücreti gösterir belgenin
+süresi içerisinde hastaya verilmemesi, acil halin sona ermesi sonrasında acil halin sona erdiğine ve
+müteakip işlemlerin sözleşme kapsamında olup olmadığı bilgisi ile ilave ücret alınabilecek sağlık
+hizmetlerine tabi olması halinde ilave ücrete tabi olduğuna dair hastaya/hasta yakınına gerekli
+bilgilendirmenin önceden yazılı yapılmaması hallerinde her bir fiil için 3.000 TL,
+        11.1.7. SHS tarafından SUT’ta belirlenmiş olan katılım payının alınmaması halinde günlük
+10.000 TL’yi geçmemek üzere her bir hasta için 500 TL,
+        11.1.8. SHS’lerce hastadan/hasta yakınından Kurum mevzuatına aykırı şekilde ilave ücretin
+alındığının tespit edilmesi halinde, ilave ücret alınan her bir hasta için, cezanın tebliğ edildiği
+tarihten önceki 1 (bir) yıllık fatura ortalaması;
+         100.000 TL (dahil) ye kadar olan sağlık hizmeti sunucuları için 1.000 TL,
+         100.000 TL - 500.000 TL (dahil) arası olan sağlık hizmeti sunucuları için 2.000 TL,
+         500.000 TL - 1.000.000 TL (dahil) arası olan sağlık hizmeti sunucuları için 4.000 TL,
+         1.000.000 TL ve üzeri olan sağlık hizmeti sunucuları için 6.000 TL tutarından az olmamak
+üzere, her bir kişi için fazla alınan ilave ücret bedelinin 5 (beş) katı, ancak Kurum mevzuatına
+aykırı olarak alınan ilave ücretin ilgili kişiye iadesi durumunda uygulanacak olan cezanın yarısı,
+        11.1.9. Yapılan işlemin ait olduğu branş dışında başka bir branşta Kuruma fatura edildiğinin
+tespiti halinde her bir takip için 3.000 TL’den az olmamak üzere işlem bedelinin 5 (beş) katı
+tutarında,
+        11.1.10. SUT’ta belirtilen kurallar uyarınca Kuruma fatura edilmemesi gereken bir işlemin
+fatura edilmesi halinde bir fatura döneminde 3.000 TL’den az olmamak üzere işlem bedellerinin 5
+(beş) katı tutarında,
+
+        c) Diğer Cezai Şartlar
+        11.1.11. Sağlık Bakanlığı veya Kurum mevzuatıyla, “tekrar kullanılmaması gereken tıbbi
+malzeme” olarak belirlenmiş olan malzemelerin, tekrar kullanımı halinde bedelleri ödenmez ve her
+bir kullanım için 10.000 TL,
+        11.1.12. Denetimle görevli olanların görevlerini yapmasını engellemek amacıyla cebir ve
+tehdide başvurulması halinde, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği
+takdirde Türk Ceza Kanununun 265 inci maddesi saklı olmak üzere 50.000 TL,
+        11.1.13. Sağlık Bakanlığınca yasaklanan ilaç ve tıbbi malzemelerin verildiği ve/veya
+kullanıldığının tespit edilmesi halinde her bir ilaç ve tıbbı malzeme için 30.000 TL,
+        11.1.14. Bozuk, zamanı geçmiş ilaç, kan ve kan bileşenleri ve/veya tıbbi malzemelerin
+verildiği ve/veya kullanıldığının tespit edilmesi halinde her bir ilaç, kan ve kan bileşeni ve/veya
+tıbbi malzeme için 30.000 TL,
+
+
+
+                                                                                                 6
+        11.1.15. Sağlık hizmeti sunulmadığı halde Kuruma fatura edildiğinin tespiti halinde 10.000
+TL’den az olmamak üzere işlem bedellerinin 5 (beş) katı,
+        11.1.16. Faturanın veya faturaya dayanak oluşturan belgelerin gerçeğe aykırı olarak
+düzenlendiğinin tespiti halinde 10.000 TL’den az olmamak üzere işlem bedellerinin 5 (beş) katı,
+        11.1.17. Kurum tarafından sağlık yardımları karşılanmayan kişilere sunulan sağlık
+hizmetinin Kurum tarafından sağlık yardımları karşılanan kişiler üzerinden fatura edilmesi halinde
+10.000 TL’den az olmamak üzere işlem bedellerinin 5 (beş) katı,
+        11.1.18. Fatura ve/veya eki belgeler üzerinde Kurum zararına sebebiyet verilecek şekilde
+tahrifat yapıldığının tespiti halinde 10.000 TL’den az olmamak üzere işlem bedellerinin 5 (beş)
+katı,
+        cezai şart uygulanır ve tespit edilen fiiller açıkça belirtilmek suretiyle SHS’ye tebliğ edilir.
+
+         11.2. Sözleşmenin Feshine İlişkin Hükümler
+         11.2.1. Taraflar 30 gün önceden yazılı bildirimde bulunmak şartıyla sözleşmeyi her zaman
+feshedebilir. Sözleşmenin SHS tarafından tek taraflı olarak feshedilmesi halinde 6 (altı) ay süreyle
+SHS ile tekrar sözleşme yapılmaz. SHS ile bu sürenin bitiminden sonra tekrar sözleşme yapılması
+durumunda daha önceki dönemlere ilişkin fesihle ilgili hükümlerin uygulanmasında bu madde
+kapsamında geçen süreler dikkate alınmaz.
+         11.2.2. SHS’nin kapanması halinde kapanma tarihinde sözleşme kendiliğinden sona erer.
+SHS’nin kapanması halinde bu durum 10 (on) iş günü içinde Kuruma bildirilecek ve kapanma
+tarihini takip eden ayın ilk 15 (onbeş) günü içerisinde SHS’de mevcut olan faturalar Kuruma
+teslim edilecektir. Mücbir sebepler hariç olmak üzere bu süre içerisinde teslim edilmeyen fatura
+bedelleri ödenmez.
+         11.2.3. SHS’nin ruhsatının/izin belgesinin iptal edilmesi halinde, iptal tarihinden itibaren
+sözleşme feshedilmiş sayılır. Yeniden ruhsat/izin belgesi alınması halinde SHS ile sözleşme
+yapılabilir.
+         11.2.4. Bu sözleşmenin (7.5.2), (7.5.3) numaralı maddelerinde belirtilen hükümlere aykırı
+davranıldığının ve Kurumca belirlenen katılım payının alınmadığının tespit edilmesi halinde,
+gerekli cezai şart uygulanarak SHS yazılı olarak uyarılır. Bahse konu maddelerde belirtilen aynı
+fiilin, uyarının tebliğ tarihinden itibaren bir yıl içerisinde tekrarlanması halinde her tekrarda SHS 2
+(iki) gün süreyle MEDULA’da pasif hale getirilir ve yeni hasta kabulü durdurulur. Bu dönemdeki
+yeni başvurulara ait işlem bedelleri Kuruma fatura edilemez.
+         11.2.5. Bu sözleşmenin (11.1.10.) ve (11.1.11.) numaralı maddelerinde belirtilen hükümlere
+aykırı davranıldığının tespit edilmesi halinde, gerekli cezai şart uygulanarak SHS yazılı olarak
+uyarılır. Bahse konu maddelerde belirtilen aynı fiile ilişkin uyarının tebliğ tarihinden itibaren bir yıl
+içerisinde tekrarlanması halinde ilgili branş/sağlık hizmeti 3 (üç) ay süreyle pasif hale getirilir ve
+yeni hasta kabulü durdurulur. Bu dönemde ilgili branş/sağlık hizmetlerinde yapılacak işlem
+bedelleri Kuruma fatura edilemez.
+         11.2.6. Bu sözleşmenin (7.6.4) numaralı maddesinde belirtilen hükme aykırı
+davranıldığının; (11.1.15.), (11.1.16.), (11.1.17.), (11.1.18.) numaralı maddelerinde sayılan fiillerin
+ise kasıtlı olarak işlendiğinin tespit edilmesi halinde, gerekli cezai şart uygulanarak SHS yazılı
+olarak uyarılır. Bahse konu maddelerde belirtilen aynı fiile ilişkin uyarının tebliğ tarihinden
+itibaren bir yıl içerisinde tekrarlanması halinde sözleşme tek taraflı olarak feshedilir. Bu durumda
+SHS ile fesih tarihinden itibaren 1 (bir) yıl süreyle yeniden sözleşme yapılmaz.
+         11.2.7. Bu sözleşmenin (11.1.13.) ve/veya (11.1.14.) numaralı maddelerinde sayılan fiillerin
+kasıtlı olarak gerçekleştirilmesi veya (11.1.12.) numaralı maddesinde belirtilen fiilin işlenmesi
+halinde, Kurum tarafından sözleşme tek taraflı olarak feshedilir. Bu durumda SHS ile fesih
+tarihinden itibaren 2 (iki) yıl süreyle yeniden sözleşme yapılmaz.
+
+
+
+                                                                                                   7
+         11.3. Cezai Şart ve Fesih İşlemlerine İlişkin Genel Esaslar
+         11.3.1. Cezai şart ve/veya fesih uygulamasını gerektiren bir fiilin tespiti halinde SHS’den
+yazılı savunma istenir. Savunma talep yazısının tebliğ tarihinden itibaren 10 (on) iş günü içinde
+SHS savunmasını verir. Kurum gerekli gördüğü hallerde bu süreyi uzatabilir. Kurum
+Müfettişlerince yapılan inceleme veya soruşturmalarda savunmalar Müfettişlerce alınır.
+         11.3.2. Süresi içerisinde savunma verilmemesi veya verilen savunmanın değerlendirilmesi
+sonucunda cezai şart ve/veya fesih uygulanmasına karar verilmesini müteakip SHS’ye gerekli
+tebliğ yapılır. SHS, feshin tebliğ tarihinden itibaren 15 (onbeş) gün içinde Genel Sağlık Sigortası
+Genel Müdürlüğü’ne, cezai şartın tebliğ tarihinden itibaren aynı süre içerisinde sözleşmenin
+yürütümünü yapan Kurumun ilgili taşra teşkilatına itiraz edebilir. İtirazlar feshin ve cezai şartın
+uygulanmasını durdurur. Bütün itirazlar, mücbir sebepler dışında 20 (yirmi) gün içinde Kurumca
+oluşturulacak komisyon marifetiyle karara bağlanır. Konu ile ilgili olarak mahkemeye başvurulmuş
+olması, cezai şartın takip ve tahsili ile feshin uygulanmasını durdurmaz.
+         11.3.3. Sözleşmenin (11.2.6) ve (11.2.7) maddelerinden dolayı feshedilmesi halinde,
+SHS’nin yazılı olarak talepte bulunması ve yapılan işlemle ilgili olarak; 250.000 TL’den az
+olmamak şartıyla, feshin tebliğ tarihinden önceki son bir yıllık döneme ait ortalama fatura tutarının,
+fesih süresinin her 1 (bir) yılı için 1,5 (bir buçuk) katını Kuruma peşin olarak ödemesi halinde,
+ödeme tarihinden itibaren SHS ile tekrar sözleşme yapılır.
+         11.3.4. SHS tarafından işlenen fiilin, cezai şart gerektiren hükümlerden birden fazlasına
+uyması halinde, en ağır olan cezai şart maddesi uygulanır. Bir fatura döneminde tespit edilen farklı
+her fiil için ayrı ayrı cezai şart uygulanır ve bu cezai şartların toplam tutarı tahsil edilir.
+         11.3.5. SHS tarafından işlenen fiilin, fesih gerektiren hükümlerden birden fazlasına uyması
+halinde, en uzun olan fesih süresi uygulanır.
+         11.3.6. Bir fatura döneminde tespit edilen aynı veya farklı her fiil için ayrı ayrı cezai şart
+uygulanır. Şu kadar ki, sözleşmenin (11.1.12.), (11.1.13.), (11.1.14.), (11.1.15.), (11.1.16.),
+(11.1.17.), (11.1.18.) numaralı maddelerinde sayılan fiillere ilişkin öngörülmüş olan cezai şart
+tutarları hariç olmak üzere, bir fatura dönemindeki işlemlerle ilgili uygulanacak cezai şart toplamı
+ilgili fatura döneminden önceki son 1(bir) yıllık fatura tutarı ortalamasının %20’sini geçemez.
+         11.3.7. Sözleşmesi feshedilen SHS’nin fesih işlemine konu fiili kasten yaptığı tespit edilen
+başhekim, mütevelli heyeti başkanı ve üyeleri farklı bir SHS’de bu pozisyonlarda yer aldığı
+takdirde, bu SHS ile fesih süresince yeni bir sözleşme yapılmaz.
+         11.3.8. Bu sözleşmenin yürürlük tarihinden önceki işlemlere ait cezai şart ve/veya feshe
+konu fiillerden, tebliğ ve itiraz aşamaları tamamlanmamış olanlar için bu sözleşmenin (11.1) ve
+(11.2) numaralı maddeleri uygulanır. Ancak Kurumdan yazılı olarak talep edilmesi halinde, işlemin
+gerçekleştirildiği tarihte yürürlükte olan sözleşme hükümleri uygulanır.
+         11.3.9. Cezai şart veya fesih uygulamasını gerektiren eylemlerin Türk Ceza Kanunu
+yönünden de suç oluşturması halinde ilgililer hakkında Cumhuriyet Savcılığına suç duyurusunda
+bulunulur.
+         11.3.10. MEDULA’ da pasif hale getirilen veya sözleşmesi fesih edilen SHS; sözleşme
+hükümleri içinde sunduğu hizmetler dışında hiçbir şekilde zarar, ziyan, maddi ve manevi tazminat
+talebinde bulunamaz.
+         11.3.11. Aleyhine ceza davası açılan SHS yetkilileri veya personeli hakkında, mahkemece
+uyuşmazlık konusu fiilin gerçekleşmediğini de içeren beraat kararı verilmesi halinde kararın
+kesinleşmesi beklenmeden; savcılıkça takipsizlik kararı verilmesi halinde ise takipsizlik kararına
+yapılan itirazın reddedilmesi veya itiraz edilmeden kesinleşmesi halinde, bu sözleşmenin (11.2.5),
+(11.2.6) ve (11.2.7) numaralı maddelerindeki süreler beklenmeksizin SHS ile yeniden sözleşme
+yapılabilir.
+
+
+
+
+                                                                                                 8
+        11.3.12. SHS’nin, Kuruma yapılacak bildirimleri ve hastaya/hasta yakınına vereceği
+belgelere ilişkin yükümlülüklerini mücbir sebeplere bağlı olarak yerine getirememeleri durumunda
+cezai şart uygulanmaz.
+
+       12. SÖZLEŞMEYE İLİŞKİN USUL VE ESASLAR
+
+        12.1. SHS, tek taraflı olarak değişiklik yapma hakkına sahip olduğunu ve yapılan
+değişikliklere aynen uymayı kabul ve taahhüt eder. Kurum sözleşme şartlarında zeyilname ile
+sağlık hizmeti bedellerinde ise zeyilname gerektirmeden değişiklik yapabilir. SHS sözleşmenin
+yürütümü sırasında yapılan değişikliklerin gereğini belirlenen süreler içerisinde yerine getirmekle
+ve talep edilmişse durumu Kuruma bildirmekle yükümlüdür. Aksi halde SHS gerekli bildirimleri
+yapana kadar MEDULA’da pasif hale getirilir.
+        12.2. Kurum tarafından SHS’ye yapılacak tebligatlar ve bildirimler sözleşmede belirtilen
+adresine, SHS tarafından Kuruma yapılacak bildirimler ise sözleşmenin yürütümünü yapan
+Kurumun ilgili taşra teşkilatı adresine yapılacaktır.
+        12.3. Yapılan tebligatlarda 7201 sayılı “Tebligat Kanunu” hükümleri uygulanır.
+        12.4. SHS, Kurumdan doğmuş ve doğacak alacaklarını hiçbir suretle devir ve temlik
+edemez.
+        12.5. Sözleşmeden doğacak her türlü vergi, resim, harç ve masraflar SHS tarafından
+karşılanır.
+
+       13. MÜCBİR SEBEPLER
+
+       SHS’den kaynaklanan bir kusurdan ileri gelmemiş olması, hizmetin yerine getirilmesine
+engel nitelikte olması, SHS’nin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması,
+mücbir sebebin meydana geldiği tarihi izleyen 15 (onbeş) gün içinde SHS’nin Kuruma yazılı
+olarak bildirimde bulunması ve bu durumun yetkili merciler tarafından belgelendirilmesi kaydıyla
+aşağıda belirtilen haller mücbir sebep olarak kabul edilir:
+     a) Doğal afetler,
+     b) Kanuni grev,
+     c) Genel salgın hastalık,
+     ç) Kısmi veya genel seferberlik ilanı,
+     d) Gerektiğinde Kurum tarafından kabul edilecek benzeri diğer haller.
+
+       14. KASIT UNSURU
+
+        14.1. İşlemin kasıtlı sayılabilmesi için:
+        a) Bilerek ve isteyerek yapılmış olması,
+        b) Haksız kazanç sağlamak veya Kurum zararına sebebiyet vermek amacıyla yapılmış
+olması gerekmektedir.
+        14.2. Bir fiilin bilerek ve isteyerek yapıldığının varsayılabilmesi için; yapılan işlem ile elde
+edilen haksız kazancın aynı işlemin tamamı içerisinde önemli bir oranı oluşturması, yapılan işlemin
+hata ile yapıldığı düşüncesini ortadan kaldıracak kadar tekrarlanmış veya sayısal olarak az olsa bile
+tutar olarak önemli büyüklükte olması gibi kriterler dikkate alınır.
+
+       15.YETKİLİ MAHKEME
+
+        Bu sözleşmenin uygulanmasından doğan uyuşmazlıklarda, İstanbul ili mahkeme ve icra
+daireleri yetkilidir.
+
+
+                                                                                                  9
+       16. YÜRÜRLÜK
+
+       16.1. Bu sözleşme, …/…/2012 tarihinden 31/12/2012 tarihine kadar geçerlidir.
+       16.2. Sözleşmede belirtilen istisnalar dışında, her takvim yılının 15 Aralık günü mesai saati
+bitimine kadar taraflardan biri feshi ihbar etmediği takdirde sözleşme aynı şartlarla bir yıl daha
+uzamış sayılır.
+
+       17. YÜRÜTME
+
+        17.1. Bu sözleşmenin yürütümü, Kurumca belirlenen ilgili taşra teşkilatı tarafından yapılır.
+Ancak sözleşmenin feshine ilişkin hükümler Sosyal Güvenlik Kurumu Genel Sağlık Sigortası
+Genel Müdürlüğü tarafından yürütülür.
+        17.2. Onüç sayfa ve iki nüsha olarak düzenlenen bu sözleşme metni, ekleriyle bir bütün
+olup, taraflar arasında karşılıklı mutabakat ile imzalanmış olup sözleşmenin, bir nüshası SHS’de ve
+bir nüshası da Kurumda saklanacaktır.
+
+       Bu sözleşme ve eklerinde belirtilen hükümleri okudum ve aynen uyacağımı kabul ve
+taahhüt ediyorum.
+
+
+
+
+           …………… Üniversitesi                              Sosyal Güvenlik Kurumu
+              Rektörü                                 Genel Sağlık Sigortası Genel Müdürü
+
+
+
+
+      İsim :                                              İsim :
+      Adres:                                              Adres:
+      İmza :                                              İmza :
+      Tarih :                                             Tarih :
+      …./…./20…                                           …./…./20…
+
+
+EKLER :
+EK 1. Kısmi Branş/Sağlık Hizmeti Listesi
+EK 2. Sözleşme Başvuru Formu
+EK 3. İlave Ücret Levha Şablonu
+
+
+
+
+                                                                                             10
+                                                            EK-1
+
+
+                   KISMİ BRANŞ/SAĞLIK HİZMETİ LİSTESİ
+
+SIRA NO   BRANŞ ADI                           KABUL
+
+   1      KVC (Erişkin, Çocuk)
+
+   2      KARDİYOLOJİ (Erişkin, Çocuk)
+
+   3      TIBBİ ONKOLOJİ (Erişkin, Çocuk)
+
+   4      DOKU VE ORGAN NAKLİ
+   5      ACİL
+
+   6      RADYASYON ONKOLOJİSİ
+
+          ÖZELLİK İŞLEMLER
+   7
+          (GAMMAKNİFE/CYBERKNİFE)
+                                              KABUL      KABUL
+                                              EDİYORUZ   ETMİYORUZ
+   8      AĞIZ ve DİŞ SAĞLIĞI HİZMETLERİ
+
+
+
+
+                                                               11
+                                                     EK-2
+
+
+
+                           SÖZLEŞME BAŞVURU FORMU
+
+VAKIF ÜNİVERSİTESİ SAĞLIK HİZMET
+SUNUCULARINA İLİŞKİN RESMİ GAZETEDE
+YAYINLANAN YÖNETMELİK
+
+
+ADI, UNVANI VE FAALİYETE GEÇTİĞİ TARİHİ
+GÖSTEREN REKTÖRLÜKÇE İMZALANMIŞ RESMİ
+BELGE
+
+
+VERGİ NUMARASI
+
+                     CADDE / SOKAK
+
+                     BİNA / DAİRE NUMARASI
+
+                     İLÇE / SEMT
+
+
+SAĞLIK KURUM         İL
+
+VEYA
+                     POSTA KODU
+KURULUŞUNUN
+İLETİŞİM BİLGİLERİ   TELEFON NUMARASI – 1    0
+
+                     TELEFON NUMARASI – 2    0
+
+                     FAX NUMARASI            0
+
+                     ELEKTRONİK POSTA
+                     ADRESİ
+
+SÖZLEŞME BAŞVURU TARİHİ
+
+                                             KABUL
+ÖRNEKLEME YÖNTEMİ
+                                             RED
+
+                     ADI
+SAĞLIK KURUM
+VEYA KURULUŞU        SOYADI
+YETKİLİSİNİN
+                     İMZASI
+
+
+
+                                                        12
+                                                                                          EK:3
+
+
+
+
+              İLAVE ÜCRET ALINMAYACAK
+                       SAĞLIK HİZMETLERİ                                             EK-4
+
+
+
+ 1. Acil Haller Nedeniyle Sunulan Sağlık Hizmetleri
+ 2. Yoğun Bakım Hizmetleri
+ 3. Kanser Tedavisi (Radyoterapi, Kemoterapi, Radyo İzotop Tedavileri)
+ 4. Yeni Doğana Verilen Sağlık Hizmetleri
+ 5. Organ Doku ve Kök Hücre Nakilleri
+ 6. Kardiyovasküler Cerrahi İşlemleri
+
+
+_____________________________________________________________
+
+     Yukarıda Sayılan Sağlık Hizmetleri Dışında Kalan
+                           Sağlık Hizmetlerinden
+                         SAĞLIK TESİSİMİZDE
+       % …. ORANINA KADAR İLAVE ÜCRET
+                           ALINMAKTADIR.
+
+
+
+
+NOT: Tabela 75x50 cm (yükseklik:75cm, genişlik:50cm) ebadında olacaktır. Tabeladaki başlık kısmı
+ile “SAĞLIK TESİSİMİZDE % ........ ORANINDA İLAVE ÜCRET ALINMAKTADIR” ibaresi 65
+punto, diğer kısımlar ise 40 puntodan az olamayacaktır.
+
+                                                                                          13
+

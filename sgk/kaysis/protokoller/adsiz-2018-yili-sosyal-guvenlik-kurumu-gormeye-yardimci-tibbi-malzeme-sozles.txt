@@ -1,0 +1,971 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/156113
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Sözleşme / Protokoller
+SAYI: 
+ADI: 2018 YILI SOSYAL GÜVENLİK KURUMU GÖRMEYE YARDIMCI TIBBİ MALZEME SÖZLEŞMESİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 1db0b40d43ddbf3eeb9e8a9f518dea603a14244903e5f5904e43037319f7070a
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                2018 YILI SOSYAL GÜVENLİK KURUMU
+       GÖRMEYE YARDIMCI TIBBİ MALZEMELERİN TEMİNİNE İLİŞKİN
+                             SÖZLEŞME
+
+
+
+1. TARAFLAR, KONU, DAYANAK, KAPSAM VE TANIMLAR
+1. Taraflar
+Bu         sözleşmenin           tarafları,      Sosyal        Güvenlik         Kurumu          ile
+…………………………………adresinde mukim, ………………… ünvanlı optisyenlik
+müessesesi sahibi …………………………………………. ve müessesenin mesul müdürü
+………………….……………….………. dır.
+1.2. Konu
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve diğer kanunlardaki özel
+hükümler gereği sağlık hizmeti bedelleri Kurum tarafından karşılanan kişiler adına SUT’ta
+tanımlı sağlık hizmeti sunucuları tarafından reçete düzenlenmesi suretiyle uygun görülen
+görmeye yardımcı tıbbi malzemelerin optisyenlik müessesesi tarafından temin edilmesine
+ilişkin usul ve esaslar ile karşılıklı hak ve yükümlülüklerin belirlenmesidir.
+1.3.Dayanak
+Bu sözleşme; 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunun ve 5502 sayılı
+Sosyal Güvenlik Kurumu Kanunun ilgili maddeleri ve Kurum mevzuatınca düzenlenmiştir.
+1.4. Kapsam
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve diğer Kanunlardaki özel
+hükümler gereği genel sağlık sigortasından yararlandırılan kişilerdir.
+1.5. Tanımlar
+E-reçete (Elektronik ortamda düzenlenmiş reçete): SUT’ un ilgili maddeleri kapsamında,
+göz sağlığı ve hastalıkları uzman hekimleri ile bu dalda ihtisas yapan asistan hekimler tarafından
+MEDULA sistemi üzerinden elektronik olarak düzenlenen, görmeye yardımcı tıbbi
+malzemeyi içeren reçeteyi,
+E-rapor (Elektronik ortamda düzenlenmiş sağlık kurulu raporu): Kurumla sözleşmeli
+sağlık hizmeti sunucularınca en az bir göz hastalıkları uzman hekiminin yer aldığı sağlık
+kurulunca düzenlenen elektronik raporu,
+Ek sözleşme :Mevcut sözleşme hükümlerinde yapılan ekleme, çıkarma ve/veya yeni
+hüküm/yeni hükümler tanımlama şeklindeki düzenlemelerin yer aldığı metni,
+Fatura dönemi: Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve Bedellerinin
+Ödenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte tanımlanmış fatura dönemini,
+Fatura teslim süresi: Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve
+Bedellerinin Ödenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte tanımlanmış fatura
+teslim süresini,
+Hasta: Sağlık hizmeti bedelleri Kurum tarafından karşılanan ve Kurum mevzuatı
+doğrultusunda adına görmeye yardımcı tıbbi malzeme reçete edilen kişileri,
+Hasta yakını: Usul-füru veya kayın hısımlığına bakılmaksızın görmeye yardımcı tıbbi
+malzemeyi hasta adına teslim alan kişiyi,
+İnceleme dönemi : Denetimin/incelemenin/soruşturmanın başladığı ve sonuçlandırıldığı
+tarih aralığında incelenen fatura dönemini/dönemlerini,
+İş günü: Ulusal, resmi ve dini bayram günleri, yılbaşı günü,1 Mayıs günü, 15 Temmuz günü,
+hafta sonu tatil günleri ve idari izin günleri dışındaki çalışma günlerini,
+Kurum: Sosyal Güvenlik Kurumunu,
+Kurum Taşra Teşkilatı: Kurumla sözleşmeli optisyenlik müessesesinin faturalarının teslim
+edildiği, inceleme işlemlerini yapan ve sözleşmenin yürütümünden sorumlu, Kurumca
+yetkilendirilen ilgili Sosyal Güvenlik İl Müdürlüğünü/Sağlık Sosyal Güvenlik Merkezlerini,
+
+
+
+                                                                                        Sayfa 1/20
+Malzeme: 5193 sayılı Optisyenlik Müessesesi Kanununun 6 ncı maddesinin birinci fıkrasında
+ve SUT eki listede bulunan görmeye yardımcı tıbbı malzemeleri,
+Manuel reçete: SUT ’un ilgili maddeleri kapsamında, göz sağlığı ve hastalıkları uzman
+hekimleri ile bu dalda ihtisas yapan asistan hekimler tarafından düzenlenen, görmeye yardımcı
+tıbbi malzemeyi içeren reçeteyi,
+MEDULA sistemi (MEDULA-Optik Provizyon Sistemi): Sağlık hizmeti kullanım verisi
+toplamak ve bu verilere dayanarak faturalama işlemini gerçekleştirmek amacıyla Kurum
+tarafından uygulanan ve işletilen elektronik bilgi sistemini,
+Mevzuat: Kanun, tüzük, yönetmelik, tebliğler, usul ve esaslar, genelge ve yönergeleri,
+Mesul müdür: Optisyenlik müessesesinde optisyenlik mesleğinin icra edilmesinden bizatihi
+sorumlu olan 5193 sayılı Optisyenlik Hakkında Kanun uyarınca optisyenlik mesleğini icra
+etmeye yetkili kılınmış gerçek kişiyi,
+Müessese: 5193 sayılı Optisyenlik Hakkında Kanun hükümlerine uygun olarak ilin en yüksek
+sağlık idaresince “Optisyenlik Müessesesi Ruhsatnamesi” verilen ve işbu sözleşmeye taraf
+optisyenlik müessesesini,
+Müessese sahibi: Optisyenin/gözlükçünün kendisi ya da yanında mesul müdür çalıştırmak
+suretiyle 5193 sayılı Optisyenlik Hakkında Kanun hükümleri uyarınca optisyenlik müessesesi
+açan gerçek veya tüzel kişiyi,
+Optisyen/gözlükçü: 5193 sayılı Optisyenlik Hakkında Kanun ile optisyenlik mesleğini icra
+etmeye yetkili kılınmış gerçek kişiyi,
+Ödeme dönemi: Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve Bedellerinin
+Ödenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte tanımlanmış ödeme dönemini,
+Personel çalışma belgesi: Optisyenlik müessesesinde mesul müdür haricinde çalışan ve
+optisyenlik mesleğini icra hak ve yetkisine haiz olanlar için müessesede çalıştıklarını
+göstermek üzere idare tarafından düzenlenen belgeyi,
+Sağlık kurulu raporu: SUT’ta belirtilen hükümler saklı kalmak kaydıyla Kurumla
+sözleşmeli resmi sağlık hizmeti sunucularınca en az bir göz hastalıkları uzman hekiminin yer
+aldığı sağlık kurulunca düzenlenen başhekimlik mührü ve ıslak imza onayı bulunan raporu,
+SHS (Sağlık Hizmeti Sunucusu): Sağlık hizmetini sunan ve/veya üreten; gerçek kişiler ile
+kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
+SUT (Sağlık Uygulama Tebliği): Kurum tarafından yayımlanan ve hizmetin verildiği tarihte
+yürürlükte bulunan Sağlık Uygulama Tebliğini ve eklerini,
+TİTUBB/ÜTS: Türkiye İlaç ve Tıbbi Cihaz Ulusal Bilgi Bankasını/ Ürün Takip Sistemini,
+ifade eder.
+2.HAK VE YÜKÜMLÜLÜKLERE İLİŞKİN GENEL İLKELER
+2.1.Kurumun hak ve yükümlülükleri
+2.1.1.Kurum sözleşmede tanımlanan hizmetler karşılığında, müesseseye ilgili mevzuat ile
+sözleşmede belirlenen usul ve esaslar doğrultusunda ödeme yapmakla yükümlüdür.
+2.1.2. Kurum, kendi bünyesinde ilgili mevzuat ve sözleşme gereğince yerine getirilecek
+hizmetlerin sunulması için gerekli altyapı hizmetini sunar.
+2.1.3. Kurum, sağlık hizmetleri sunumunda hakkaniyet, verimlilik ve etkinliğin sağlanması
+amacıyla sağlık harcamalarına ait her türlü veri ve bilgiye ulaşma hakkına sahiptir.
+2.2. Müessesenin hak ve yükümlülükleri
+2.2.1. Müessese, Kurum mevzuat hükümleri ile kuruluş ve faaliyetleriyle ilgili olarak Sağlık
+Bakanlığı tarafından çıkarılan mevzuat hükümlerine uymakla yükümlü olduğunu kabul ve
+taahhüt eder.
+2.2.2. Müessese, genel sağlık sigortalıları arasında hizmetin kalitesi ya da hizmetlerin
+erişilebilirliği açısından faaliyetleri ile ilgili hiçbir hastaya karşı ayrımcılık yapamaz.
+2.2.3. Müessese, sağlık hizmetlerinin sunumu açısından MEDULA sisteminin gerektirdiği
+bilgi işlem altyapısını kendi bünyesinde oluşturmakla yükümlüdür.
+
+
+
+
+                                                                                  Sayfa 2/20
+2.2.4. Müessese, hastalara ait tıbbi bilgilerin gizliliği ile ilgili geçerli yasal gerekliliklere ve
+ilgili yasal düzenlemelere uymakla yükümlüdür. Konu hakkında Kurum Taşra Teşkilatına
+(Ek-3 ) taahhüt vermek zorundadır.
+2.2.5. Müessese, MEDULA sistemine kaydettiği her türlü bilginin doğruluğunu ve mevzuat
+hükümlerine uymakla yükümlü olduğunu kabul ve taahhüt eder.
+2.2.6. Sözleşmenin yürütümünden sorumlu Kurum Taşra Teşkilatı tarafından müessesenin
+mesul müdürüne MEDULA sistemi kullanıcı şifresi verilir. Müesseseye verilen şifrenin
+güvenliğinden mesul müdür/müessese sahibi sorumludur. Sözleşmeli müessese, Kurum
+tarafından kaynaklanan sıkıntılar haricinde aynı sözleşme dönemi içinde herhangi bir gerekçe
+ile tekrar şifre talebinde bulunduğunda verilen her bir şifre için müesseseden 50 (elli) TL bedel
+tahsil edilir.
+3. UYGULANACAK USUL VE ESASLAR
+3.1. Kurumla sözleşmeli sağlık kurum ve kuruluşlarınca düzenlenen reçetelere istinaden
+müessese tarafından tanzim edilen faturalar, sözleşme, SUT ve mevzuat hükümleri
+doğrultusunda karşılanır.
+3.2. Reçetenin şekline ilişkin esaslar
+3.2.1. Reçete muhteviyatında yer alan malzeme bedellerinin müesseseye ödenebilmesi için;
+reçetelerin sözleşmede ve Kurum mevzuatında belirtilen usul ve esaslara göre düzenlenmesi
+ve sözleşmede belirtilen belgelerin reçete ekinde bulunması şarttır.
+3.2.2. Reçetenin ön yüzünde;
+a) Reçeteyi düzenleyen sağlık hizmeti sunucusunun adı ve/veya MEDULA tesis kodu,
+b) Hastanın adı soyadı, T.C. Kimlik Numarası,
+c) Reçetenin tanzim tarihi,
+ç) Teşhis ve/veya ICD-10 tanı kodu,
+d) MEDULA sistemi takip numarası veya protokol numarası,
+e) Hekimin adı soyadı, Sağlık Bakanlığınca verilen hekim diploma ve/veya uzmanlık tescil
+numarasını içeren bilgiler ile ıslak imzası , (İmza dışındaki bilgiler, el yazısı ile yazılabileceği
+gibi kaşe veya bilgisayar ortamında veya hastane otomasyon sistemleri tarafından basılan
+etiketin/barkodun yapıştırılması şeklinde de olabilir.)
+f) Hekim, hasta, tarih, protokol numarası veya MEDULA takip numarası ile ilgili bilgilerde
+değişiklik, iptal veya karalama var ise değişikliğe ilişkin hekim onayının (kaşe ve imza)
+bulunması,
+gerekmektedir.
+g) E-reçeteler; (e), (f) bendi hariç olmak üzere manuel düzenlenen reçetelerde istenen
+bilgilerle aynı formatta elektronik ortamda düzenlenir. E-reçeteler ve e-raporlar SGK
+Kurumsal hekim şifresi veya güvenli elektronik imza (e-imza) ile imzalanmış olacaktır.
+3.2.3. SUT hükümlerine göre kullanımı rapora bağlı görmeye yardımcı tıbbi malzeme raporu
+reçeteye eklenecektir. Elektronik ortamda düzenlenmiş sağlık raporlarının MEDULA
+sistemine kayıtlı olması yeterlidir.
+3.2.4. Özel hallerde;
+a) Yabancı ülkelerle yapılan sosyal güvenlik sözleşmesi kapsamında sağlık hizmeti bedelleri
+Kurumca karşılanan kişiler ve Yurt dışı Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS)
+numarası ile hasta takip numarası/provizyon alınan kişiler de dahil olmak üzere sağlanacak
+görmeye yardımcı tıbbi malzeme için Kurumun ilgili biriminden onay alınacaktır.
+b) Yurtdışı Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS) numarası ile hasta takip
+numarası/provizyon alınan kişiler hariç olmak üzere yurtdışı sigortalıları için, Kurumca
+düzenlenmiş Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesinin fotokopisi ve
+kare kod bilgisi veya belgesi reçeteye eklenecektir.
+c) Müstehaklıkları 60 kodu (60 c-1 yeşil kart, 60 c-3 65 yaş, 60 ıncı maddenin onikinci,
+onüçüncü ve ondördüncü fıkralarında tanımlanan kişiler) ile sorgulanan sağlık hizmetleri
+Kurum tarafından karşılanan kişiler için Kurumla götürü bedel sözleşmesi yapan SHS’ler
+
+
+                                                                                        Sayfa 3/20
+hariç SUT hükümleri geçerli olup sevk zincirine uyulması ve reçeteleri ekinde sevk
+belgelerinin de eklenmesi gerekmektedir.
+ç) Trafik kazaları, İş kazası, adli vaka ve meslek hastalıkları ile ilgili reçetelerde, SUT ve
+konu ile ilgili diğer mevzuat hükümlerinde yer alan belgelerin,
+bulunması gerekmektedir.
+3.3. Hasta müracaatında
+3.3.1. Reçetenin arka yüzünde;
+a) Elektronik ortamda düzenlenen reçete ile başvuru yapılması halinde, e-reçete numarası ve
+hastanın T.C. Kimlik Numarası ile giriş yapılır. Reçete içeriği malzemenin hasta yakını
+tarafından teslim alınması halinde, MEDULA sistemi ekranındaki ilgili alana hasta yakınının
+T.C. Kimlik Numarası, kimlikten kontrol edilmek suretiyle girilerek malzeme teslim edilir.
+b) E-reçete şeklinde düzenlenen reçetelerde hasta beyanına dayalı işlemlerde (hastanın (3.3.8)
+maddesinde düzenlenmiş olan haklardan faydalanmak istemesi halinde vb.), (Ek-2)’ de yer
+alan hasta bilgilendirme formu müessese tarafından sistem üzerinden doldurularak çıktısı
+alınır ve hastaya/hasta yakınına bilgi amaçlı verilir.
+c) MEDULA sisteminin ve/veya sağlık hizmet sunucusuna ait sistemin çalışmaması nedeniyle
+e-reçetenin düzenlenememesi halinde, manuel olarak düzenlenen reçete üzerinde “Sistemlerin
+çalışmaması nedeniyle e-reçete düzenlenememiştir” ibaresi el yazısı ya da kaşe ile belirtilmeli
+ve bu ibarenin de reçeteyi düzenleyen hekim tarafından onaylanmış olması gerekir.
+3.3.2. Yurtdışı Provizyon Aktivasyon ve Sağlık Sistemi (YUPASS) numarası ile hasta takip
+numarası/provizyon alınan kişiler hariç yurtdışı sigortalıları için Kurumca düzenlenmiş
+Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesinin fotokopisi ve kare kod bilgisi
+veya belgesi reçeteye eklenir.
+3.3.3. E-raporlar hariç olmak üzere, SUT’da sağlık kurulu raporu ile verilmesi gerektiği
+belirtilen nitelikli görmeye yardımcı tıbbi malzemeler için düzenlenen sağlık kurulu raporu
+veya fotokopisi reçete çıktısına eklenir.
+3.3.4. E-reçeteler hariç olmak üzere, reçeteler MEDULA sistemine kaydedilir, sistemden
+alınan çıktı reçeteye eklenir.
+3.3.5. Manuel düzenlenen reçetelerin arka yüzünde;
+a) Müessese ve mesul müdür kaşesi ve imzası,
+b) Malzemeyi alan hasta/hasta yakının adı ve soyadı,
+c) Malzemenin verildiğine dair bilgiler,
+ç) Müracaat ve teslim tarihi, telefon numarası,
+d) Teslim aldığına ilişkin ibare ve imzası,
+e) Malzemenin hasta yakını tarafından alınması halinde T.C. Kimlik Numarasının,
+bulunması gerekmektedir.
+3.3.6. Müessese tarafından manuel/e-reçetelerin, düzenlenme tarihinden itibaren 10 (on) iş
+günü içinde yapılan hasta müracaatları kabul edilir. Kabul edilen reçetenin MEDULA
+sistemine kaydı, nitelikli görmeye yardımcı tıbbi malzemelerde 30 (otuz) iş günü, diğer
+malzemelerde ise 20 (yirmi) iş günü içinde yapılır. Reçete içeriği malzeme ile ilgili ÜTS
+sisteminde tedarikçi firmanın verme bildirimini yaptığı tarihi takip eden 10 (on) iş günü, özel
+cam siparişlerinde ise 15 (on beş) iş günü içinde müessese tarafından malzeme hastaya/hasta
+yakınına teslim edilir. Süresi içinde yapılmayan hasta müracaatları ve/veya sistem kayıtlarına
+ilişkin reçete bedelleri Kurumca ödenmez.
+3.3.7. a) Müessese tarafından süresi içinde hazır hale getirilen ancak hasta/hasta yakını
+tarafından süresi içinde teslim alınmayan reçete muhteviyatı malzemenin hastanın mazeret
+beyanı alınmak suretiyle en geç 10 (on) iş günü içinde hastaya/hasta yakınına teslim edilmesi
+zorunludur. Hasta bilgilendirme formu üzerindeki açıklama bölümü doldurularak kayıt edilir.
+Sistemden döküm alınarak bir nüshası hasta/hasta yakınına bilgi amaçlı verilir.
+
+                                                                                    Sayfa 4/20
+b) Müessese tarafından kabul edilmiş hasta müracaatına ilişkin reçete içeriğinin süresi içinde
+karşılanarak hastaya tesliminden önce müessesenin sözleşmesinin sona ermesi halinde, reçete
+içeriği süresi içinde karşılanır.
+3.3.8. Reçetede;
+a) İki gözlük (uzak-yakın) yazılı ise ikisi de verilir.
+b) Uzak ve daimi gözlük yazılması halinde ise sadece uzak gözlük verilir.
+c) Uzak-yakın gözlüklerle birlikte bifokal/progressif gözlük de yazılmış ise her üç gözlük bir
+arada verilmeyip uzak ve yakın gözlük veya bifokal/ progressif gözlük verilir.
+ç) Reçetede uzak ve yakın gözlük yazılı ise hastanın talebi halinde müessese tarafından sistem
+üzerinden hasta bilgilendirme formu doldurularak bifokal/progressif gözlük verilebilir.
+d) Reçetede bifokal/progressif gözlük yazılı ise hastanın talebi halinde müessese tarafından
+sistem üzerinden hasta bilgilendirme formu doldurularak uzak ve yakın gözlük verilebilir.
+e) Bifokal/progressif gözlük verilmesi halinde hastanın uzak-yakın cam hakkının bulunması
+gerekmekte olup uzak-yakın çerçeve almış gibi işlem görür, hastanın çerçeve hakları
+MEDULA sistemi üzerinden kapatılır. Ancak Kuruma tek çerçeve bedeli fatura edilir.
+3.3.9. Hastanın malzemenin hatalı olduğuna dair müesseseye müracaat etmesi halinde;
+a) Hastaya hatalı verilen malzeme, müracaatı takip eden 5 (beş) iş günü içinde müessese
+tarafından bedelsiz olarak değiştirilir.
+b) Müessese ile hasta/hasta yakını arasında ihtilaf çıkması durumunda, hasta Kurum Taşra
+Teşkilatına müracaat edebilir. Bu birimlerce gerekli işlemler yürütülerek ihtilaf
+sonuçlandırılır.
+c) Malzeme hatası verildiğinin Kurum Taşra Teşkilatı tarafından o ilde bulunan sözleşmeli
+müesseseler içinden alfabetik sıra dikkate alınarak belirlenen bir müessesenin görüşü
+sorularak malzeme hatası tespit ettirilir, gerek duyurulursa ikinci bir müesseseden de görüş
+talep edilebilir. Tespit işleminin tamamlanmasından sonra söz konusu malzeme müessese
+tarafından 5 (beş) iş günü içinde değiştirilir. Aksi halde hatalı olarak verilen malzeme
+müessesenin nam ve hesabına başka bir sözleşmeli müesseseden temin edilerek bedelleri
+ilgili müesseseden tahsil edilir.
+3.4. Teknik hükümler
+3.4.1. Reçete içeriği malzeme müessese tarafından başka bir müesseseye ve/veya atölyeye
+yaptırılamaz. Müessese başka bir müessese tarafından kabul edilen reçete içeriği malzemeyi
+karşılayamaz ve reçete bedelini Kuruma fatura edemez.
+3.4.2. Reçeteler düzenlendiği il dışındaki Kurum ile sözleşmeli müesseseler tarafından da
+karşılanabilir.
+3.4.3. Kurumca iade edilen reçetede hekimce yapılması gereken düzeltmeler reçeteyi yazan
+göz sağlığı ve hastalıkları uzman hekimleri ile bu dalda ihtisas yapan asistan hekimlerin
+bulunmaması halinde aynı branştan hekim ya da asistan hekimler tarafından, Kurumca iade
+edilen sağlık raporlarında ise aslına sadık kalmak kaydıyla, raporda yer alan hekimlerden biri
+tarafından yapılır.
+3.4.4. İade nedenleri;
+Müessese tarafından Kuruma teslim edilen fatura ve ekinde bulunan manuel reçete ve eki
+belgelerin kontrolü aşamasında ortaya çıkan aşağıdaki hususlardan;
+a) (3.2.2.) maddesinde belirtilenlerden birinin veya birkaçının eksik olduğu durumlarda,
+b) (3.3.5) maddesinin (a) bendinde geçen manuel reçetenin arka yüzünde müessese ve mesul
+müdür kaşesinin ve imzasının eksik olduğu durumlarda,
+c) (3.3.5) maddesinin (b) bendinde manuel reçete arkasında bulunması gereken bilgilerden
+hasta/hasta yakınına ait bilgi eksiklikleri bulunması halinde,
+ç) (3.3.1) maddesinin (c) bendinde belirtilen “Sistemlerin çalışmaması nedeniyle e-reçete
+düzenlenememiştir” ibaresinin el yazısı ya da kaşe ile belirtilmemesi ve ibarenin altında ilgili
+hekim onayının (imzasının) bulunmaması halinde,
+d) (3.3.2) maddesinde belirtilen koşullarda talep edilen Sosyal Güvenlik Sözleşmesine göre
+Sağlık Yardım Belgesinin fotokopisinin eksik olması halinde,
+
+                                                                                     Sayfa 5/20
+e) İşveren tarafından düzenlenmiş olan iş kazası ve meslek hastalığı bildirim formunun eksik
+olması halinde,
+reçete müesseseye eksiklikleri tamamlanmak üzere iade edilir.
+3.4.5. Kesinti nedenleri;
+Müessese tarafından Kuruma teslim edilen fatura ekinde bulunan manuel reçeteler ile ilgili
+kontroller aşamasında ortaya çıkan aşağıdaki hususlardan;
+a) Kurumca belirlenen usul ve esaslar ile reçete düzenleme ve yazılım esaslarına uyulmaması,
+b) Reçetenin süresi içinde MEDULA sistemine müessese tarafından kaydedilmemesi,
+c) Reçetenin fatura ekinde bulunmaması,
+kesinti nedenidir.
+ç) (3.3.2.) maddesinde reçete ekinde bulunması gereken kare kod bilgilerinin eksik olması
+durumunda eksik olan kare kod bedelleri ödenmez.
+d) Manuel reçetelerde cam değerinin, reçete düzenlenme tarihinin ve gözlük türünün hatalı
+girilmesi durumlarında reçete iptal edilir. Müesseseye reçete bedeli ödenmez.
+3.4.6. Müessese tarafından Kuruma teslim edilen fatura eki icmalde (hasta döküm listesi)
+bulunan e-reçete ile ilgili kontroller aşamasında ortaya çıkan aşağıdaki hususlardan;
+a) (3.3.1) maddesinin (b) bendinde geçen e-reçetelerde hasta bilgilendirme formunun sistem
+üzerinden eksik ya da doldurulmamış olması halinde, müessese tarafından malzemeyi teslim
+alan hasta/hasta yakınından imza alınması koşulu ile düzenlenen hasta bilgilendirme formuna
+istinaden reçete bedeli ödenir.
+b) Müessese tarafından düzenlenen e-reçetenin sisteme manuel reçete gibi girilerek işlenmesi
+kesinti nedenidir.
+3.5. Yönlendirme ve işbirliği yasağı
+3.5.1. Müessese, hastayı sağlık hizmeti sunucusuna veya hekime, aynı şekilde sağlık hizmeti
+sunucuları veya hekimler de hastayı belli müesseseye yönlendiremez. Müessese sahibi
+ve/veya mesul müdürleri, müesseselerine hasta gönderilmesine yönelik olarak her ne şekilde
+olursa olsun, diğer sağlık hizmeti sunucuları ve üçüncü şahıslarla açık veya gizli işbirliği
+yapamaz, simsar ve benzeri yönlendirici personel bulunduramaz, reçete toplama ve
+yönlendirme yapamaz.
+3.5.2. Yönlendirme ve işbirliği yapıldığının tespit edilmesi ve/veya 5237 sayılı Kanunda
+belirtilen nitelikli dolandırıcılık fiillerini işleyen müessese hakkında ruhsat iptali de dahil
+olmak üzere gerekli tüm iş ve işlemler için keyfiyet Sağlık Bakanlığına bildirilir.
+3.6. Müesseseye ilişkin düzenlemeler
+3.6.1. Ruhsata esas adres için düzenlenen optisyenlik müessesi ruhsatnamesi ve optisyenlik
+mesleğini icra hak ve yetkisine haiz olanlar için düzenlenen personel çalışma belgesi başka bir
+müessesede kullanılamaz. Müessese sahibine ait birden fazla müessese var ise her bir
+müessese için ayrı mesul müdür bulundurulması zorunludur.
+3.6.2 a) Müessesenin unvan, sahip ve mesul müdürünün değişmemesi şartıyla aynı il sınırları
+içindeki adres değişikliği ile ilgili yeni ruhsatın müesseseye İl Sağlık Müdürlüğü tarafından
+teslim edildiği tarihi takip eden günden itibaren en geç 5 (beş) iş günü içinde ruhsat
+fotokopisinin aslı gibidir onaylı bir örneğinin Kuruma ibraz edilmesi mecburidir.
+b) Belediye tarafından bina veya sokak numaralarının, isimlerinin değiştirilmesi halinde
+müessese tarafından adresteki değişikliğin 5 (beş) iş günü içinde Kuruma bildirilmesi
+zorunludur. Ancak belediye tarafından yapılan düzenleme işlemlerinden doğan adres
+değişikliklerinin bildiriminin sözleşmede belirtilen süre içinde bildirilmemesi halinde ceza
+koşulu uygulanmaz.
+3.6.3. Müessese, unvan, nevi, sahip, anonim şirketlerde yönetim kurulu başkanı ve/veya
+yönetim kurulu üyelerine ilişkin değişiklikleri, diğer şirket türlerinde ise ortaklara ilişkin
+değişiklikleri, değişikliğin Türkiye Ticaret Sicil Gazetesi’nde, şahıs firmalarında Esnaf ve
+Sanatkarlar Odasından alınan Türkiye Esnaf ve Sanatkarlar Sicil Gazetesi’nde ilan edildiği
+tarih itibarıyla 20 (yirmi) iş günü içinde Kuruma bildirmek ve ilgili belgeleri sunmakla
+yükümlüdür.
+
+                                                                                    Sayfa 6/20
+3.6.4. Müessesenin bir başka kişi veya kuruluş tarafından devralınması halinde, devir tarihi
+itibarıyla Kurumla imzaladığı sözleşme sona ermiş sayılır. Müessese sahibi devir tarihini
+izleyen 5 (beş) iş günü içinde Kurum Taşra Teşkilatına bildirimde bulunmak zorundadır.
+Devralan kişi veya kuruluş ile 5510 sayılı Kanunun 103 üncü maddesi hükümleri, 6098 sayılı
+Türk Borçlar Kanununun sözleşmenin devri ve sözleşmeye katılma ve borç ilişkilerinde taraf
+değişikliklerine ilişkin hükümleri, 6102 sayılı Türk Ticaret Kanununun ticari işletme
+hukukuna ilişkin hükümleri ve işbu sözleşme hükümleri saklı kalmak kaydıyla Kurumca
+uygun bulunması halinde sözleşme yapılır.
+3.6.5. Müessesenin kapatılması halinde, kapatılma halinin ortaya çıktığı tarihi takip eden ilk iş
+günü bitimine kadar durum Kuruma bildirilir. Kapanma tarihi itibarıyla Kurumla imzalanan
+sözleşme sona erer.
+ Müessese sahibi veya mesul müdürün vefatı halinde ise takip eden 10 (on) iş günü içinde
+yeni durum Kuruma bildirilir. Vefat tarihi itibarıyla Kurumla var olan sözleşme sona erer,
+reçete kabul edilmez.
+ Müessese sahibinin vefatı halinde mesul müdür bulundurulması koşulu ile müessese
+sahibinin mirasçılarının talebi ve Kurumca uygun bulunması halinde yeniden sözleşme
+yapılarak müessesenin reçete ve hasta müracaat girişi açılır.
+3.7. Mesul müdüre ilişkin değişiklikler
+3.7.1. Mesul müdürün müessesede bizzat bulunması asıldır. Mesul müdürün izinli/raporlu
+olduğu tarihlerde bildirimde bulunması gerekmekte olup aynı tarihlerde mesul müdürün
+yerine birinin atandığının bildirilmesi halinde reçete bedelleri ödenir. Bildirilmemesi
+durumunda mesul müdürün izinli/raporlu olduğu tarihlere ait müessesece kabul edilen reçete
+bedelleri Kurumca ödenmez.
+3.7.2. Mesul müdür başka bir müessese veya kurumda görev yapamaz.
+3.7.3. Mesul müdürün görevine son verilmesi, istifası, mesul müdürlük şartlarını herhangi bir
+şekilde kaybetmesi durumunda, İl Sağlık Müdürlüğüne başvuru yapıldığı tarih itibarıyla 5
+(beş) iş günü içinde müessese sahibi veya mesul müdür tarafından Kuruma bildirilir, İl Sağlık
+Müdürlüğüne başvuru yapıldığı tarih itibarıyla MEDULA sistemi üzerinden müessesenin
+reçete ve hasta müracaat girişi kapatılır. Bu süreçte kabul edilen reçete bedelleri Kurumca
+ödenmez. Kurumla var olan sözleşme sona erer.
+Yeni mesul müdür göreve başladıktan sonra müracaatı halinde Kurumca uygun görülürse
+yeniden sözleşme yapılabilir.
+3.7.4. Müessese sahibi veya mesul müdürün vefatı halinde, vefat tarihi itibarıyla Kurumla var
+olan sözleşme sona erer, reçete kabul edilmez. Söz konusu tarihten sonra kabul edilen reçete
+bedelleri Kurumca ödenmez. İlgili müessesenin MEDULA sistemi üzerinden verilen işlem
+yetkisi sonlandırılır.
+ Müessese sahibi sahibinin vefatı halinde mesul müdür/yeni atanan mesul müdür ve müessese
+sahibinin mirasçılarının birlikte müracaatı halinde Kurumca uygun görülmesi halinde yeniden
+sözleşme yapılabilir.
+4. ÖDEME ŞARTLARI VE ZAMANI
+4.1. Faturaların düzenlenmesi
+4.1.1. Müessese tarafından fatura döneminde kabul edilen reçeteler MEDULA sistemi
+üzerinden dönem sonlandırması yapılarak faturalandırılır.
+4.1.2. Müessese mesul müdürü tarafından, MEDULA sistemi üzerinden fatura dönemine ait
+hasta döküm (icmal) listesi alınır, listedeki reçete adet ve tutarları kontrol edilerek mesul
+müdür tarafından imzalanarak onaylanır. Kaşelenmemiş ve mesul müdürün ıslak imzası
+olmayan hasta döküm (icmal) listelerine ait fatura bedelleri ödenmez.
+4.1.3. Müessesenin sözleşmesinin sona ermesi halinde, sözleşmenin (3.3.7) numaralı
+maddesinin (b) bendi gereği hastaya sözleşmenin sona erdiği tarihten önce kabul edilen
+malzemeye ait reçeteler o ayın son günü tarihini taşıyacak şekilde faturalandırılır.
+Müessesenin devredilmesi halinde devir tarihini taşıyacak şekilde işlemleri faturalandırılır.
+Müessesenin kapanması halinde kapanış tarihi itibarıyla sonlandırılarak faturalandırılır.
+
+                                                                                      Sayfa 7/20
+4.1.4. Kullanımı rapor koşuluna bağlanmış görmeye yardımcı tıbbi malzeme reçeteleri ayrı
+faturalandırılır.
+4.1.5. Yabancı ülkelerle yapılan sosyal güvenlik sözleşmeleri kapsamında sağlık hizmeti
+bedelleri Kurum tarafından karşılanan kişilerin trafik kazası, iş kazası, meslek hastalıkları ve
+adli vaka reçetelerinin faturalandırılması Kurumun ilgili mevzuatına göre yapılacaktır.
+4.2. Faturaların teslimi
+4.2.1. Müessese düzenlediği faturayı hasta döküm (icmal) listesi incelemeye esas belgelerle
+birlikte evrakın zarar görmesi ve bozulması engellenecek şekilde Kurum Taşra Teşkilatına
+teslim eder.
+4.2.2. Sağlık Hizmeti Sunucularının Faturalarının İncelenmesine ve Bedellerinin Ödenmesine
+İlişkin Usul ve Esaslar Hakkında Yönetmelikte tanımlanmış süre içinde teslim edilmeyen
+reçetelerin incelenme ve ödenme süreci, teslim edildiği tarihten sonraki ay döneminde teslim
+alınmış gibi kabul edilerek bu tarihten itibaren başlar. Kuruma zamanında teslim edildiği
+halde Kurum tarafından hatalı kayıt yapılması ya da kayıt altına alınamaması gibi nedenlere
+dayanılarak müesseseye yapılacak ödeme geciktirilemez.
+4.2.3. Reçetelerin, faturaların ve incelemeye esas belgelerin sorumluluğu Kurum tarafından
+teslim alınıncaya kadar (kimin tarafından teslim edildiğine bakılmaksızın) mesul müdüre ve
+müessese sahibine aittir.
+4.2.4. Kurum tarafından yapılan inceleme sonucu, sözleşme hükümlerine göre optisyenlik
+müessesesine iadesi gereken reçeteler Kurumca ödemeli olarak gönderilir veya tutanak
+düzenlenerek elden teslim edilir. Müessese tarafından teslim alındığı tarihten itibaren 10 (on)
+iş günü içinde iade edilen reçetelerin eksiklikleri giderilerek ve/veya düzeltilerek Kuruma
+teslim edilmesi gerekmekte olup reçeteler optisyenlik müessesesi tarafından, Kuruma kargo
+veya iadeli taahhütlü olarak gönderilir veya elden teslim edilir. İade edilen reçetelerin
+sorumluluğu, Kurum tarafından teslim alınıncaya kadar (kimin tarafından teslim edildiğine
+bakılmaksızın) mesul müdüre ve müessese sahibine aittir.
+4.3. Ödeme esasları
+4.3.1. Görmeye yardımcı tıbbi malzeme bedelleri SUT eki listede belirtilen tutarlar esas
+alınarak ödenir.
+4.3.2. Bu sözleşme kapsamında müesseseye yapılan yersiz ödemeler ödeme tarihinden
+itibaren, sözleşmenin uygulanmasından kaynaklanan ceza koşulu ise tebliğ tarihinden itibaren
+5510 sayılı Kanunun 89 uncu maddesine göre hesaplanacak faizi ile birlikte, müessesenin
+Kurumda tahakkuk etmiş alacağından mahsup edilir. Kurumda tahakkuk etmiş alacağı veya
+yeterli alacağı bulunmayan müesseseler için Kurum alacağı söz konusu faizi ile birlikte genel
+hükümlere göre tahsil edilir.
+4.3.3. Kurum mevzuatı ve sözleşme hükümlerine aykırı olarak karşılanan reçete bedelleri
+ödenmez, ödenmiş ise yapılan bu ödemeler yersiz ödeme kabul edilir.
+4.3.4. Müesseseye yapılan yersiz ödemeler ile ceza koşulunun tahsilinde, önce yersiz
+ödemelerin mahsubu yapılır.
+4.3.5. Bu sözleşmede belirtilen reçete düzenleme ve yazılım esasları ile Kurumca belirlenen
+ikincil mevzuata uyulmadığı durumlarda veya Kurumca (4.2.4.) numaralı maddede belirtilen
+süre içinde iade edilmesine rağmen eksikliklerinin giderilmediği ve/veya düzeltilmediği tespit
+edilen malzeme bedelleri ödenmez.
+4.3.6. Sözleşmenin (3.3.7.) numaralı maddesinin ilgili bentlerinde belirtilen sürelerden sonra
+hastaya/hasta yakınına teslim edilen malzemelerin bedelleri ödenmez.
+4.3.7. 5193 sayılı Optisyenlik Hakkında Kanuna ilişkin olarak çıkarılan Optisyenlik
+Müesseseleri Hakkında Yönetmeliğe aykırı olarak müessese dışındaki bir atölyede numaralı
+gözlük camı montajı yapıldığının tespiti halinde reçete bedelleri Kurumca ödenmez.
+4.3.8. Müessese adına tahakkuk etmiş olan her türlü Kurum alacağı ile bu alacaklardan
+doğacak fer’ilere ilişkin borcu bulunması halinde Kurumdaki alacağından mahsup edilir ve
+varsa kalan tutar müesseseye ödenerek yazı ile bilgi verilir.
+
+
+
+                                                                                     Sayfa 8/20
+4.3.9. Müessese sözleşme yapılması/yenilenmesi aşamasında faturalarının kontrolünde
+örnekleme yönteminin kullanılıp kullanılmaması hakkında tercihini Kuruma vereceği dilekçe
+ile bildirir. Tercihte bulunulmaması halinde örnekleme yöntemi kabul edilmiş sayılır.
+4.3.10. Kurum tarafından yapılan inceleme veya soruşturma esnasında yapılan tespitlere bağlı
+olarak oluşabilecek Kurum alacağı tahsilinin riske gireceğinin öngörülmesi halinde, Kurum
+mevzuatı doğrultusunda inceleme veya soruşturma sonuçlanıncaya kadar sağlık hizmeti
+sunucusunun Kurum nezdindeki muaccel veya müeccel alacaklarının ödemesi durdurulabilir
+4.3.11. Sözleşmenin geçerlilik süresi sonunda; Kuruma olan borcu, MEDULA sistemi
+üzerinden iletilen toplam tahakkuk tutarına göre hesaplanacak son altı aylık fatura
+ortalamasını aşan müesseselerle sözleşme yapılmaz.
+4.3.12. Sosyal Güvenlik Kurumuna Ödenecek Başvuru, Aidat, İşlem ve Sözleşme Ücretlerine
+İlişkin Usul ve Esaslarda yayımlanan sözleşme ücretini 10 (on) iş gününde ödemeyen
+müessesenin sözleşmesi ücret yatırılana kadar askıya alınır. Bu süreçte karşıladığı reçete
+bedelleri ödenmez.
+4.3.13. Kurumca yayımlanan SUT hükümlerine göre katılım payı alınması gerektiği belirtilen
+kişilerden, Kurumdan gelir ve aylık alanlar kişiler için gelir ve aylıklarından mahsup edilmek
+suretiyle, diğer kişiler için ise Kurumla sözleşmeli satış merkezi tarafından tahsil edilir. SUT
+hükümlerine göre satış merkezi tarafından kapsamda sayılan kişilerden Kurum adına tahsil
+edilen katılım payları, satış merkezinin alacağından mahsup edilir ve kalan tutar satış
+merkezine ödenir.
+4.3.14. SUT hükümlerine göre katılım payı alınmayacak kişilerden katılım payı alınması
+halinde alınan tutar satış merkezinin alacağından mahsup edilerek hastaya ödenir.
+
+4.4. Yersiz ödemeler ile ceza koşulu tutarlarının taksitlendirilmesi
+4.4.1. Bu sözleşme kapsamında Kurumca müesseselerden tahsil edilmesi gereken yersiz
+ödemeler ile ceza koşulu tutarları, talep tarihinden önceki son 1 (bir) yıl içinde Kuruma
+MEDULA sistemi üzerinden iletilen toplam tahakkuk tutarına göre hesaplanacak aylık
+ortalama tutarın %25’inden az olmaması şartıyla ve talep edilmesi halinde taksitlendirilebilir.
+Taksit tutarları, talep tarihinden önceki son 1(bir) yıl içinde Kuruma MEDULA sistemi
+üzerinden iletilen toplam tahakkuk tutarına göre hesaplanacak aylık ortalama tutarın
+%10’undan aşağı olmamak üzere hesaplanacak faizi ile birlikte en fazla 12 (oniki) aya kadar
+taksitlendirilebilir.
+4.4.2. Bu sözleşmenin (4.4.1),(4.4.3) numaralı maddesine göre ödenmesi gereken taksitler
+faizi ile birlikte öncelikle SHS’nin Kurumda tahakkuk etmiş alacağından mahsup edilir.
+Taksitlerden en az birisinin vadesinde faizi ile birlikte ödenmemesi veya eksik ödenmesi
+yapılmaması halinde, taksitlendirme bozulur, kalan borcun tamamı defaten tahsil edilir.
+4.4.3. Bir önceki yıla ait sözleşmenin geçerlilik süresi sonunda; sözleşmeden kaynaklı ceza
+koşulu ve yersiz ödeme nedeniyle Kuruma olan borcu; MEDULA sistemi üzerinden iletilen
+toplam tahakkuk tutarına göre hesaplanacak son altı aylık fatura ortalamasını aşan SHS ile
+sözleşme yapılmaz. Ancak talep edilmesi ve borcun %10’unun ödenmesi şartıyla sözleşme
+yapılabilir. Bu durumda kalan tutar, hesaplanacak faizi ile birlikte en fazla 12 (oniki) aya
+kadar taksitlendirilebilir.
+4.4.4. Bu sözleşmenin (6.8.5) numaralı maddesi “Ek sözleşme ile bildirilen değişiklikleri
+yerine getirmeyen ve yeni koşullara uymayan müesseselerin sözleşmeleri Kurumca tek taraflı
+feshedilir.” hükmü gereği sözleşmesi feshedilen müessese ile yeniden sözleşme yapılabilmesi
+için sözleşmeden kaynaklı ceza koşulu ve yersiz ödeme nedeniyle Kuruma borcunun
+bulunması halinde talep edilmesi ve borcun %10’unun ödenmesi ve kalan tutarın
+hesaplanacak faizi ile birlikte eşit taksitler halinde en fazla 12 (oniki) aya kadar
+taksitlendirilmesi ve fesih tarihinden önce müessese tarafından Kuruma tahakkuk ettirilmiş
+olan son 6 (altı) aylık fatura dönemi ortalamasının %1’i oranındaki tutarı defaten Kuruma
+ödemesi koşuluna bağlıdır. Taksitlerden en az birisinin vadesinde faizi ile birlikte
+ödenmemesi veya eksik ödenmesi halinde, taksitlendirme bozulur, kalan borcun tamamı
+defaten tahsil edilir.
+
+                                                                                     Sayfa 9/20
+4.4.5.Bu sözleşmede geçen aylık ortalama tutar; ceza koşulu gerektiren fiilin işlendiği fatura
+döneminden önce, fiillerin birden fazla fatura döneminde gerçekleştirilmiş olması halinde ise
+son fiilin işlendiği fatura döneminden önce müessese tarafından Kuruma tahakkuk ettirilmiş
+olan son 12 (oniki) aylık fatura dönemi ortalamasını, Kuruma tahakkuk ettirilmiş olan toplam
+fatura dönemi sayısının 12 (oniki) aydan az olması halinde tahakkuk ettirilmiş olan fatura
+dönemlerinin ortalamasını, hiç fatura iletilmemesi halinde ise müessesenin aylık ortalama
+tutarı bu sözleşmedeki 10.000 (onbin) TL’yi ifade eder.
+
+5. SÖZLEŞMENİN FESHİ VE CEZA KOŞULLARI
+5.1. Sözleşmenin feshini gerektiren idari hususlar
+5.1.1. Taraflar 20 (yirmi) iş günü öncesinden yazılı bildirimde bulunmak şartıyla sözleşmeyi
+herhangi bir sebep göstermeksizin her zaman feshedebilir. Sözleşmenin müessese tarafından
+tek taraflı olarak feshedilmesi halinde 6 (altı) ay süreyle müessese ile tekrar sözleşme
+yapılmaz.
+5.1.2. Müessesenin ruhsatının/faaliyet izin belgesinin Sağlık Bakanlığınca iptal edilmesi
+halinde, iptal tarihinden itibaren sözleşme feshedilmiş sayılır. Sağlık Bakanlığından yeniden
+ruhsat/faaliyet izin belgesi alınması halinde müessese sahibinin/mesul müdürün talebi halinde
+sözleşme yapılabilir.
+5.1.3. Müessesenin;
+a) Sağlık Bakanlığı tarafından faaliyetinin geçici durdurulması halinde durdurma kararının
+alındığı tarihi takip eden ilk iş günü içinde müessese tarafından Kuruma bildirimde bulunulur.
+Durdurma kararının alındığı tarih itibarıyla sözleşme askıya alınır,
+b) Sözleşme hükümlerine göre sözleşmenin askıya alınması halinde;
+Müessesenin sözleşmesinin askıya alındığı tarih itibarıyla reçete karşılanmaz, MEDULA
+sistemi kayıt ekranı kapatılır, sözleşmenin askıya alındığı süreçte karşılanan reçete bedelleri
+yersiz ödeme kabul edilir, genel hükümlere göre tahsil edilir. Geçici durdurma kararının veya
+sözleşme hükümlerine göre sözleşmenin askıya alınması halinin sona erdiği tarih itibarıyla
+sözleşme yürürlüğe girer.
+5.1.4. Muvazaalı olarak müessese işlettiği tespit edilen müessese sahibi/mesul müdürü ile 1
+(bir) yıl süreyle sözleşme yapılmaz. Sözleşme yapılmış ise feshedilir.
+Müessesenin muvazaalı olarak işletildiğinin tespiti halinde ilk sözleşme tarihinden itibaren
+Kurumca müesseseye yapılan tüm ödemeler geri alınır.
+5.2. Ceza koşulu gerektiren fiiller
+5.2.1. Sözleşmenin (3.6.2.) maddenin (a) bendinde, (3.6.3), (3.6.4), (3.6.5), (3.7.3) numaralı
+maddelerinden herhangi birinin gereğinin yerine getirilmemesi halinde her bir fiil için,
+optisyenlik müessesesine 500 (beşyüz) TL ceza koşulu uygulanır.
+5.2.2. Kurumun mahsup suretiyle tahsilini yaptığı haller hariç olmak üzere, alınması gereken
+katılım payının eksik tahsil edildiğinin ve/veya tahsil edilmediğinin tespit edilmesi halinde,
+müessese yazılı olarak uyarılır. 500 (beşyüz) TL tutarında ceza koşulu uygulanır. Aynı fiilin
+tekrarı halinde 1000 (bin) TL ceza koşulu uygulanır ve sözleşme 1(bir) ay süreyle askıya
+alınır.
+5.2.3. Sözleşmenin (3.3.9.) numaralı maddesinin (c) fıkrası gereği, Kurumca hatalı verildiği
+tespit edilen malzemelerin müessese tarafından başvuruya müteakip 5 (beş) iş günü içinde
+değiştirilmediğinin tespiti halinde, reçete bedeli kadar ceza koşulu uygulanır.
+5.2.4.Sözleşmenin (4.3.14.) numaralı maddesine aykırı olarak, katılım payı alınmaması
+gereken kişilerden katılım payı tahsil edildiğinin tespiti halinde, tahsil edilen katılım payı satış
+merkezinden tahsil edilerek ilgili hastaya iade edilir ve 500 (beşyüz) TL tutarında ceza koşulu
+uygulanır. Aynı fiilin tekrarı halinde 1000 (bin) TL ceza koşulu uygulanır ve sözleşme 1 (bir)
+ay süreyle askıya alınır.
+5.3. Ceza koşulu ve fesih gerektiren fiiller
+5.3.1. Müessese tarafından Kuruma fatura edilen reçetelerde bulunması gereken hasta/hasta
+yakınına ait imzanın hasta/hasta yakınına ait olmadığının tespit edilmesi halinde, ilgili reçete
+
+                                                                                        Sayfa 10/20
+içeriğinde yer alan malzeme bedelinin 2 (iki) katı ceza koşulu uygulanır ve müessese yazılı
+olarak uyarılır. Aynı fiilin tekrarı halinde ilgili reçete içeriğinde yer alan malzeme bedelinin 5
+(beş) katı tutarında ceza koşulu uygulanarak sözleşme 1 (bir) ay süreyle askıya alınır. Ancak
+hasta reçete muhteviyatı malzemeyi aldığını beyan etmesi durumunda bu madde hükmü
+uygulanmaz.
+5.3.2. Reçete içeriğindeki malzemelerin başka müesseseye yaptırılması veya başka
+müessesenin reçete içeriği malzemelerinin karşılanması halinde, reçete içeriğinde yer alan
+malzeme bedelinin 2 (iki) katı tutarında ceza koşulu uygulanır ve müessese yazılı olarak
+uyarılır. Aynı fiilin tekrarı halinde 5(beş) katı tutarında ceza koşulu uygulanarak sözleşme 3
+(üç) ay süreyle askıya alınır.
+5.3.3. Kurum tarafından yapılacak inceleme ve denetimlerde istenilen bilgi ve belgelerin ibraz
+edilmemesi, inceleme ve denetime engel olunması, denetimle görevli olan memurların
+görevlerini yapmasını engellemek amacıyla cebir ve tehdit kullanan müesseseler için Türk
+Ceza Kanununun 265 inci maddesi saklı olmak üzere 5510 sayılı Sosyal Sigortalar ve Genel
+Sağlık Sigortası Kanunun 102.nci maddesinin 1inci fıkrasının (ı) bendinde yer alan
+yaptırımlar uygulanır.
+5.3.4.Reçete içeriğindeki malzemelerin müracaatı kabul eden müessese tarafından
+faturalandırılmayıp başka müessese tarafından Kuruma fatura edildiğinin tespiti halinde 5.000
+(beş bin) TL ceza koşulu uygulanarak müessese yazılı olarak uyarılır. Aynı fiilin tekrarı
+halinde 10.000 (on bin) TL ceza koşulu uygulanarak sözleşme 3 (üç) ay süreyle askıya alınır.
+5.3.5. Sözleşmenin (3.5.1) maddesinin ihlalinin, Kurumca yapılan denetim, inceleme, teftiş
+sonucunda yönlendirmenin işbirliğinin tespiti halinde 10.000 (onbin)TL ceza koşulu
+uygulanarak müessese yazılı olarak uyarılır. Aynı fiilin tekrarı halinde 20.000 (yirmibin)TL
+ceza koşulu uygulanarak sözleşme 1(bir) yıl süreyle feshedilir.
+5.3.6. Müessese sahibi/mesul müdürü veya çalışanlar tarafından reçete/reçete eki belgede
+tahrifat yapıldığının tespit edilmesi halinde ilgili müessese yazılı olarak uyarılır ve reçete
+bedelinin 10 (on) katı tutarında ceza koşulu uygulanır. Aynı fiilin tekrarı halinde reçete
+bedelinin 20 (yirmi) katı tutarında ceza koşulu uygulanarak sözleşme 1(bir) yıl süreyle
+feshedilir
+5.3.7. Reçetelerdeki müessese mesul müdürünün ıslak imzasının sahte olduğunun Kurum
+tarafından tespit edilmesi halinde ilgili müessese yazılı olarak uyarılır ve reçete bedelinin 10
+(on) katı tutarında ceza koşulu uygulanır. Aynı fiilin tekrarı halinde reçete bedelinin 20
+(yirmi) katı tutarında ceza koşulu uygulanarak sözleşme 1(bir) yıl süreyle feshedilir.
+5.3.8. Reçete muhteviyatı malzemelerin verilmediği halde verilmiş gibi gösterilerek fatura
+edildiğinin tespit edilmesi halinde müessese yazılı olarak uyarılır ve reçete tutarının 10 (on)
+katı ceza koşulu uygulanır. Aynı fiilin tekrarı halinde 20 (yirmi) katı ceza koşulu uygulanarak
+sözleşme 1(bir) yıl süreyle feshedilir.
+5.3.9. Müessese sahibi/mesul müdür ile sözleşmenin (5) numaralı maddesinde belirtilen fiiller
+dışında mesleği ile ilgili olarak bir suçtan dolayı aleyhinde kesinleşmiş bir yargı kararının
+tespit edilmesi halinde ise sözleşme feshedilir, müessese sahibi/mesul müdür ile 3 (üç) yıl
+süreyle sözleşme imzalanmaz.
+5.3.10. Muvazaalı olarak optisyenlik müessesesi işlettiği tespit edilen müessese sahibi/mesul
+müdür ile 3 (üç) yıl süreyle sözleşme yapılmaz. Sözleşme yapılmış ise sözleşmesi feshedilir.
+5.4. Ceza koşulu ve fesih işlemlerine ilişkin genel esaslar
+5.4.1. Bu sözleşmenin;
+a) (5.2.2), (5.3.1), (5.2.3), (5.3.2), (5.3.6), (5.3.7) ,(5.3.8) maddelerindeki ceza koşulları ve
+fesih hükümleri reçete bazında uygulanır.
+b) (5.3.4) maddesindeki ceza koşullu ve fesih hükmü fatura dönemi esas alınarak
+değerlendirilir.
+c) (5.3.5) maddesindeki ceza koşullu ve fesih hükmü inceleme dönemi esas alınarak
+değerlendirilir.
+
+
+
+                                                                                      Sayfa 11/20
+5.4.2. Müessese tarafından sözleşmenin (5.4.1) maddesinin (a) bendinde belirtilen
+fiil/fiillerden, bir fatura dönemi için uygulanacak ceza koşulunun hesaplanması reçete bazında
+yapılır. Bir reçetede birden fazla usulsüz fiilin tespit edilmesi durumunda ceza koşullarından
+en yüksek olanı esas alınır.
+Bir fatura döneminde ceza koşulu gerektiren fiil/fiillerin birden fazla reçetede tespit edilmesi
+halinde belirlenen ceza koşulu her bir reçete için ayrı ayrı hesaplanıp bu bedeller toplanmak
+suretiyle tahsil edilir.
+Yine aynı sözleşme döneminde, sözleşmenin (5) başlıklı maddesinde belirtilen fiil/fiillerden
+sözleşmenin feshini gerektiren birden fazla farklı fiilin işlendiğinin tespiti halinde uzun olan
+fesih süresi uygulanır.
+5.4.3. Ceza koşulu ve/veya fesih uygulamasını gerektiren bir fiilin tespiti halinde
+müesseseden yazılı savunma istenir. Savunma talep yazısının tebliğ tarihinden itibaren 10
+(on) iş günü içinde müessese savunmasını verir. Kurum gerekli gördüğü hallerde bu süreyi
+uzatabilir. Kurum müfettişlerince yapılan inceleme veya soruşturmalarda, müfettişlerce
+savunma alınmış olması halinde aynı konuya ilişkin olarak Kurumca yeniden savunma
+istenmez.
+5.4.4. Süresi içinde savunma verilmemesi veya verilen savunmanın değerlendirilmesi
+sonucunda ceza koşulu ve/veya fesih uygulanmasına karar verilmesini müteakip müesseseye
+gerekli tebliğ yapılır. Ceza koşulu tutarı, ilgiliye tebliğ edildiği tarihte tahakkuk eder.
+Müessese, feshin/ceza koşulunun tebliğ tarihinden itibaren 10 (on) iş günü içinde Kurumun
+ilgili taşra teşkilatına itiraz edebilir. İtirazlar feshin ve ceza koşulunun uygulanmasını
+durdurmaz. Bütün itirazlar, mücbir sebepler dışında 15 (on beş) iş günü içinde Kurumca
+oluşturulacak komisyon marifetiyle karara bağlanır. Ceza koşulu, uyarı ve feshe ilişkin
+işlemlerde tebliğ tarihi esas alınır.
+Konu ile ilgili olarak mahkemeye başvurulmuş olması, ceza koşulunun takip ve tahsilini,
+feshin uygulanmasını durdurmaz.
+5.4.5. Sayıştay Başkanlığı ve Müfettiş raporlarına yapılacak itirazların ceza koşulunun
+değerlendirildiği komisyonlarca kabul edilmesi halinde, itirazlar ve komisyonun gerekçeli
+kararı GSS Genel Müdürlüğüne iletilir. GSS Genel Müdürlüğünce de kabul edilmesi halinde
+itirazlar gerekçeleri ile birlikte raporu düzenleyen birimlere iletilir.
+5.4.6. Müessesenin, sözleşmenin uygulanmasından kaynaklanan ceza koşulunun tahsilinde
+Kurumda tahakkuk etmiş alacağının bulunması halinde 10 (on) iş günlük itiraz süresi
+beklenmeksizin Kurumda tahakkuk etmiş alacağından mahsup edilir.
+5.4.7. İl sağlık müdürlükleri tarafından optisyenlik müessesinde yapılan denetimlerde bu
+sözleşmenin fesih edilmesini ve/veya ceza koşulu uygulanmasını gerektiren hususların tespit
+edilerek Kuruma bildirilmesi halinde, Kurum tarafından yukarıda belirtilen fesih hükümleri ve
+süreleri ile ceza koşullarına ilişkin hükümlere göre işlem yapılır.
+5.4.8. Bu sözleşme hükümleri ile ilgili olarak ceza hukuku açısından suç teşkil eden
+fiil/fiillerin tespiti halinde ilgili Cumhuriyet Savcılığına suç duyurusunda bulunulur ve durum
+müessesenin bağlı bulunduğu il sağlık müdürlüğüne bildirilir.
+5.4.9. Fesih nedeniyle sözleşme yapılmayacak süre dolduğunda, feshe ilişkin yargı süreci
+devam etse dahi Kurum alacaklarının tahsil edilmiş olması şartıyla, müessese sahibinin/mesul
+müdürün talebi ve Kurumca uygun bulunması halinde sözleşme yapılabilir.
+5.4.10. Sözleşmenin (5) başlıklı bölümünde belirtilen ilgili fiil/fiillerin gerçekleştirildiğinin
+tespiti halinde müessese yazılı olarak uyarılır. Tebliğ tarihi esas olmak üzere bir sene içinde
+aynı fiilin gerçekleşmesi ikinci tekrar olarak değerlendirilir. Yazılı uyarının tebliğ edildiği
+tarihten önceki dönemlere ait olup Kuruma teslim edilmiş reçetelerde aynı fiilin tekrarının
+tespiti halinde ilk tespit için geçerli ceza koşulu uygulanır
+5.4.11. Sözleşmenin (5.3.9) numaralı maddesinde yer alan fiil nedeniyle sözleşmenin
+feshedilmesi halinde, varsa müessese sahibine ait Kurumla sözleşmeli diğer
+müessesenin/müesseselerinin sözleşmeleri de feshedilir. Ancak bu durumda sözleşme
+
+
+                                                                                     Sayfa 12/20
+yapılmayacak süre cezası, müesseselerin müessese sahibi olmayan mesul müdürleri için
+uygulanmaz.
+5.4.12. Sözleşmenin feshini gerektiren ve aynı zamanda 5193 sayılı Optisyenlik Hakkında
+Kanun ve aynı Kanuna bağlı yönetmelik hükümlerini ihlal eden fiil/fiillerin tespiti halinde,
+durum müessesenin bağlı bulunduğu il sağlık müdürlüğüne ve varsa mesul müdürün bağlı
+olduğu derneğe bildirilir.
+5.4.13. 5237 sayılı Kanunda belirtilen ve Kurum zararına neden olan nitelikli dolandırıcılık
+suçunun işlendiği kesinleşmiş mahkeme kararıyla sabit görülmesi koşuluyla; söz konusu
+fiillerin müessesse sahibi ve/veya ortakları ve/veya mesul müdürleri tarafından işlendiği
+durumda aynı müessesse ile veya bunların daha sonra yönetici ve/veya ortak ve/veya mesul
+müdür olduğu müessese ile hiçbir şekilde sözleşme yapılmaz.
+5.4.14. Kurum tarafından sözleşmesi feshedilmiş müessesenin feshe neden olan fiillere bağlı
+olarak oluşan Kurum alacakları tahsil edilmeden ve fesih süresi tamamlanmadan yeni bir
+sözleşme yapılmaz. Söz konusu müessesenin devri halinde ise feshe neden olan Kurum
+alacakları tahsil edilmeden ve sözleşmedeki fesih süreleri esas olmak kaydıyla en az bir yıllık
+fesih süresi geçmeden devralan müessese ile sözleşme yapılmaz.
+5.4.15. Müessesenin devri halinde, hem devredenin hem de devralanın her türlü Kurum
+alacakları tahsil edilmeden devralan müessese ile sözleşme yapılmaz. Devreden müessese ile
+devralan müessesenin her türlü Kurum alacakları yönünden müşterek ve müteselsil
+sorumluluğu devam eder.
+5.4.16. Bu sözleşmenin yürürlük tarihinden önceki sözleşme hükümlerine göre Kuruma fatura
+edilen ve kontrolleri Kurum tarafından bu sözleşmenin imzalandığı tarihten sonra yapılan ya
+da kontrolleri yapılmış olmakla birlikte fesih ile ilgili işlemlerin henüz tamamlanmadığı
+durumlarda tespit edilen fiil/fiiller için Kurumca bu sözleşmenin (5) numaralı maddelerinde
+yer alan hükümleri uygulanır. Ancak tespiti yapılan fiil/fiiller için reçetenin veriliş tarihinde
+geçerli olan sözleşme hükümlerinin uygulanması optisyenlik müessesesi tarafından
+Kurumdan yazılı olarak talep edilirse reçetenin veriliş tarihinde yürürlükte olan sözleşmedeki
+ceza koşulu ve fesih hükümleri uygulanır.
+5.4.17. Kurumumuz ile sözleşmeli müessesenin sözleşmesinin feshini gerektiren fiilin/fiillerin
+müessese sahibi tarafından yapıldığının veya yaptırıldığının tespiti halinde müessese sahibine
+ait Kurumla sözleşmeli diğer müessesenin/müesseselerin sözleşmeleri de feshedilir. Ancak
+sözleşme yapılmayacak süre, fiilin/fiillerin gerçekleştiği müessese dışındaki
+müessesenin/müesseselerin müessese sahibi olmayan mesul müdürü/müdürleri için
+uygulanmaz.
+5.4.18. Müessese sahibi ve mesul müdür, fesih/uyarı ve ceza koşullarına ilişkin hükümlerden
+doğan borçlardan müştereken ve müteselsilen sorumludurlar.
+6.SÖZLEŞMEYE İLİŞKİN DİĞER HÜKÜMLER
+6.1. Kurum tarafından müesseseye yapılacak tebligatlar sözleşmede belirtilen adrese,
+müessese tarafından Kuruma yapılacak tebligatlar ise Kurum Taşra Teşkilatına yapılacaktır.
+Tebligatlar 7201 sayılı Tebligat Kanununun ilgili hükümlerine göre karşı tarafa bildirilir.
+6.2. (3.6.2) numaralı madde hükümleri doğrultusunda adres değişikliğinin Kuruma
+bildirilmemiş olması halinde, sözleşmede belirtilen adrese yapılan tebligatlar geçerli sayılır.
+6.3. Kurumla sözleşme imzalayan müessese, 5193 sayılı Optisyenlik Hakkında Kanun
+hükümlerine uygun müessese olduğunu beyan/kabul ve taahhüt etmiş sayılır.
+6.4. Aynı isim ve/veya farklı isimler altında birden fazla müessesesi bulunan gerçek ve tüzel
+kişiler, her bir müessese için Kurum ile ayrı ayrı sözleşme imzalamak zorundadır.
+6.5. Müessese, Kurumdan doğmuş ve doğacak alacaklarını hiçbir suretle başka bir
+müesseseye ve/veya gerçek veya tüzel kişilere devir ve temlik edemez.
+6.6. Sözleşmeden doğacak her türlü vergi, resim, harç ve masraflar müesseseye aittir.
+6.7. Kurum gerekli gördüğü hallerde sözleşme maddelerini güncelleme ve yenileme hakkına
+sahiptir.
+
+
+
+                                                                                     Sayfa 13/20
+6.8. Sözleşmede değişiklik yapılması
+6.8.1. Kurum, lüzum görmesi halinde istenen belgeler ve sözleşme maddeleri ile ilgili olarak
+sözleşmede ve ödeme politikalarında her zaman değişiklik yapma hakkına sahiptir.
+6.8.2. Kurum, sözleşme şartlarında ek sözleşme ile görmeye yardımcı tıbbi malzeme
+bedellerinde ise ek sözleşme gerektirmeksizin değişiklik yapabilir.
+6.8.3. Kurum tarafından düzenlenen ek sözleşmeler Kurumun resmi internet sitesinde
+ilgililere duyurulur.
+6.8.4. Müesseseler sözleşmenin yürütümü sırasında, Kurum tarafından Ek-1 formunda ve
+aranan koşullarda yapılan değişikliklerin gereğini Kurumca belirlenecek süre içinde yerine
+getirmek zorundadır.
+6.8.5. Ek sözleşme ile bildirilen değişiklikleri yerine getirmeyen ve yeni koşullara uymayan
+müesseselerin sözleşmeleri Kurumca tek taraflı feshedilir.
+6.8.6. Ek sözleşme ile yapılacak değişiklikler, sözleşmeye aykırılık teşkil eden fiiller
+nedeniyle tebliğ ve itiraz aşamaları tamamlanmış olan yaptırımlardan feragat eden hükümler
+ihtiva edemez.
+7. İNCELEME VE DENETİM
+7.1. Kurum, müesseseden her türlü her türlü bilgi, belge ve doküman, fatura ve ekleri ile
+tetkik ve kayıtların asıllarını isteme, inceleme, kopyalarını alma, müessese yetkilisinin,
+çalışanlarının ya da hastaların ifadelerini alma, inceleme ve denetim yetkisine sahiptir.
+7.2. Kurum, müessese tarafından verilen hizmetlere ilişkin bilgi ve belgeleri, verilen hizmetin
+niceliğini, niteliğini ve sözleşme kapsamına uygunluğunu kontrol eder. Kurum bu yetkisini,
+uygun gördüğü zamanda ve yerde görevlendireceği personel aracılığıyla veya ihtiyaç
+duyulması halinde Kurum dışı kişi veya kuruluşlara yaptırmak suretiyle kullanır.
+7.3. Denetim ve incelemeler sırasında gerekli hallerde Kurum dışına yaptırılan bilirkişi
+incelemelerine ilişkin giderler müesseseden tahsil edilir.
+7.4. Müessesenin ruhsat ve faaliyet izin belgesine ilişkin uygun olmayan bir durumun
+Kurumca ya da diğer kamu kurumlarınca tespit edilmesi halinde, tespit edilen durum ilgili il
+sağlık müdürlüğüne yazılı olarak bildirilir ve gelen cevabi yazıya göre işlem yapılır.
+7.5. Müessese yetkilileri denetim ekibine, denetim süresince görevlerinin ifası sırasında
+gereken her türlü kolaylığı sağlamak ve yardımcı olmak zorundadırlar.
+7.6. Denetim esnasında müessesede görev yapan yetkililer, çalışanlar ve üçüncü kişiler
+denetleme ekibinin görevine engel olamazlar.
+7.7. Kurum, kapsamdaki kişiler tarafından alınan sağlık hizmetlerinin denetlenmesini genel
+sağlık sigortası hükümleri sözleşme hükümleri yönünden, elektronik ve yazılı belgelerin
+üzerinden veya merkezin bünyesinde yapacağı denetlemelerle de yürütme yetkisine sahiptir.
+Kurum bu denetimleri ihbar veya şikayete bağlı olarak, gerekçeli olarak veya benzeri
+nedenlerle yapabilir.
+
+8. MÜCBİR SEBEP
+Müesseseden kaynaklanan bir kusurdan ileri gelmemiş olması, ödemeye esas kanıtlayıcı
+belgelerin veya görmeye yardımcı tıbbi malzemenin zayi olması veya işlevini yerine
+getirmesinde engel bir halin olması ve müessesenin bu engeli ortadan kaldırmaya gücünün
+yetmemiş bulunması, mücbir sebebin meydana geldiği tarihi izleyen 15 (onbeş) gün içinde
+müessesesinin Kuruma yazılı olarak bildirimde bulunması ve bu durumun yetkili merciler
+tarafından belgelendirilmesi kaydıyla aşağıda belirtilen haller mücbir sebep olarak kabul
+edilir.
+  a) Doğal afetler,
+  b) Kanuni grev,
+  c) Genel salgın hastalık,
+  ç) Kısmi veya genel seferberlik ilanı,
+  d) Gerektiğinde Kurum tarafından kabul edilecek benzeri diğer haller.
+
+
+
+                                                                                   Sayfa 14/20
+9. YETKİLİ MAHKEME
+9.1. Bu sözleşmenin uygulanmasından doğan uyuşmazlıklarda, ANKARA ili mahkeme ve
+icra daireleri yetkilidir.
+10. YÜRÜRLÜK
+10.1. Bu sözleşme .…/…./2018 tarihinden 31/12/2018 tarihine kadar 1 (bir) yıl süreyle
+geçerlidir.
+10.2. Sözleşmede belirtilen istisnalar dışında, her takvim yılının 15 Aralık günü mesai saati
+bitimine kadar taraflardan biri feshi ihbar etmediği takdirde sözleşme aynı şartlarla bir yıl
+daha uzamış sayılır ve yeniden sözleşme ücreti alınır.
+10.3. Müessese Kurumca yeni bir sözleşme duyurulmasına rağmen yeni sözleşmeyi
+imzalamaz ise verilen sürenin sonunda sözleşmesi sona erer.
+10.4.Kurumca yeni bir sözleşme duyurulmasına rağmen müessese yeni sözleşmeyi verilen
+sürenin sonunda imzalamaz ise sözleşmenin sona erme tarihinden itibaren 3 (üç) ayın
+bitiminde yeni sözleşme imzalamak üzere başvurulması halinde bu sözleşmenin (4.4.4)
+numaralı maddesinde yer alan Sözleşmenin sona erme tarihinden önce müessesesi tarafından
+Kuruma tahakkuk ettirilmiş olan son 6 (altı) aylık fatura dönemi ortalamasının %1’i
+oranındaki tutarın defaten Kuruma ödemesi koşulu aranmaz.
+
+11. YÜRÜTME
+11.1. Bu sözleşmenin yürütümü, Kurum Taşra Teşkilatı tarafından yapılır.
+11.2. …(……) sayfa ve üç nüsha olarak düzenlenen bu sözleşme metni, taraflar arasında
+karşılıklı kabul ve mutabakat ile imzalanmış olup, bir nüshası müessese sahibinde, bir nüshası
+mesul müdürde, bir nüshası da Kurum Taşra Teşkilatı tarafından muhafaza edilmek suretiyle
+saklanır.
+11.3. Bu sözleşme metni, optik müesseselerinin faaliyette bulunduğu yerdeki Kurumca
+yetkilendirilen Kurum Taşra Teşkilatından temin edilecektir.
+
+
+Örnekleme yöntemini;
+Kabul ediyorum
+
+Kabul etmiyorum
+
+Müessese Sahibi                       Mesul Müdür                 Sosyal Güvenlik Kurumu
+  Adı –Soyadı                         Adı-Soyadı
+      İmza                               İmza
+
+
+
+
+İmza Tarihi: …/…/20…
+
+Müessese Sicili:
+Müessese Adresi ve Kaşesi:
+
+
+
+
+                                                                                  Sayfa 15/20
+EK:1-Sözleşme Yapmak İçin Aranan Belgeler Listesi (1 adet)
+EK-2- Hasta Bilgilendirme Formu
+EK-3- Taahhütname Örneği
+
+
+
+
+                                                             Sayfa 16/20
+     SÖZLEŞME YAPMAK İÇİN ARANAN BELGELER                                          EK:1
+
+SIR            BELGELER                                                             AÇIKLAMA
+A
+NO
+         3 (üç) nüsha sözleşme                                       Her sayfası mesul müdür ve müessese
+1*                                                                   sahibi tarafından imzalanacak, son
+                                                                     sayfalara müessese kaşesi basılacaktır.
+         Ticaret Sicil Gazetesi (Müessese şirket ise)                Aslı veya noter onaylı örneği
+2*       Ortaklık Sözleşmesi (Adi ortaklık ise)
+3        Müessese sahibi ve mesul müdürün imza sirküleri             Aslı veya noter onaylı “ıslak imzalı”
+                                                                     (geriye dönük son 6 aya ait )
+4        Müessese sahibi ve mesul müdürün T.C. Kimlik                Sözleşme evraklarını teslim alan yetkili
+         Numarası ve kimlik fotokopisi                               tarafından kimliğin aslına uygunluğu
+                                                                     kontrol edilerek alınacaktır.
+5        Mesul müdürün optisyenlik diploması veya gözlükçülük        Aslı veya noter onaylı örneği
+         ruhsatnamesi
+         Optisyenlik müessese ruhsatnamesi                           Aslı veya noter onaylı örneği
+6*
+7        Personel Çalışma Belgesi fotokopisi ( İkinci Optisyen     Noter veya düzenleyen İl Sağlık
+         çalıştırılması durumunda)                                 Müdürlüğü tarafından onaylı
+8*       **Müessesenin sahibi gerçek kişi(şahıs firması) ise       Adli sicil kaydını gösterir belgenin aslı
+         müessese sahibi ve mesul müdürü, tüzel kişiliklerde
+         yöneticisi ve/veya ortaklarına ilişkin adli sicil kaydını
+         gösteren belge
+9        Dernek üyesi olan optisyen müesseselerinin her
+         sözleşme yaptığında üyesi olduğu dernekten faaliyet
+         belgesi
+
+      (*) Sözleşmesi olan optisyenlik müesseselerinin sözleşme yenilemeleri halinde de istenecek
+     belgelerdir. Kurum elektronik sözleşmeye geçildiğinde istenecek belgeler Kurum tarafından
+     belirlenecektir.
+      (**) Müessesenin yabancı uyruklu ortağına ilişkin adli sicil kaydı ile ilgili düzenleme
+     Türkiye'de ikamet eden/ ikamet etmeyen gerek yöneticileri gerek ortaklarından T.C.
+     Vatandaşı olmayan yabancı uyruklu kişilerin, uyruğunda bulunduğu ülkenin mevzuatına göre
+     yetkili makamlardan bizzat kendileri tarafından temin edeceği adli sicil kaydının
+     Büyükelçilik/Başkonsolosluk tarafından onaylı Türkçe tercümesi veya Adalet Bakanlığı Adlî
+     Sicil ve İstatistik Genel Müdürlüğünden alacağı adli sicil kaydını gösteren belgelerden birinin
+     Kuruma ibrazı yeterlidir.
+            Durumlarında her hangi bir değişiklik olan optisyenlik müesseselerinden yukarıdaki
+     belgelerin tamamı istenecektir.
+            İlk defa sözleşme yapacakların verecekleri belgeler ile aranan belgelerin içeriğinin
+     değişmesi nedeniyle yeniden sunulacak belgeler noter tasdikli olabileceği gibi, belge
+     asıllarının fotokopilerine Sağlık İl Müdürlüklerinden yetkili elemanlarınca “Aslı
+     Görülmüştür” ibaresi yazılarak mühür ve ıslak imza ile onaylanması durumunda da geçerli
+     olacaktır. Bu maddede tanımlanan işlemler için; 5. ve 6. sıra nolu belgelerin fotokopisi, üyesi
+     olduğu optisyenlik müesseseleri derneği tarafından “Aslı Görülmüştür” ibaresi yazılarak
+     mühür ve ıslak imza ile onaylanması durumunda da geçerli olacaktır.
+
+
+
+
+                                                                                        Sayfa 17/20
+     Bu sözleşme ve eklerinde belirtilen hükümleri okudum ve aynen uyacağımı kabul ve
+taahhüt ederim.
+      Listede belirtilen tüm belgeler tam ve eksiksizdir.
+
+
+
+
+             Kontrolü Yapan
+             Kurum Personelinin            Müessese Sahibinin       Mesul Müdürün
+Adı-Soyadı
+Görevi
+Tarih
+İmza
+
+
+
+
+                                                                          Sayfa 18/20
+                                                                                              EK-2
+
+                               HASTA BİLGİLENDİRME FORMU
+
+
+
+                                       Optik Firma Bilgileri
+
+Firmanın Adı:                                       Adresi:
+Mesul Müdürün                                       Telefon numarası:
+Adı/Soyadı:
+                                            Sigortalı Bilgileri
+Hastanın/Hasta                                        Hastanın/Hasta
+Yakınının Adı –                                       Yakınının T.C.
+Soyadı:                                               Kimlik Numarası:
+Katılım Payı
+                                            Reçete Bilgileri
+E-Reçete Numarası:                                  Reçete Tarihi:
+Müracaat Tarihi:                                    Veriliş Tarihi:
+Doktorun Adı-Soyadı:                                Teşhis.
+Tesis Adı:                                          Dr. Tescil Numarası:
+Çerçeve Bilgileri:
+Çerçeve Türü:                                             Ürün adı:
+
+Çerçeve Tipi:
+Cam Bilgileri:
+Cam
+Türü
+Cam
+Renk
+
+Cam     Sağ          Siferik   Silendirik    Aks    Sol        Siferik     Silendirik   Aks
+Tip
+          Sağ Cam                                              Sol Cam
+          Ürün                                                 Ürün Adı
+          Adı
+Nitelikli Gözlük:
+Gözlük Tipi:
+(Teleskopik,Lens)
+Gözlük Türü:
+Sağ Ürün Adı:
+Sol Ürün Adı:
+AÇIKLAMA
+
+
+
+
+                                                                                        Sayfa 19/20
+                                                                                            Ek-3
+
+
+                                      TAAHHÜTNAME
+
+              Kurumunuz tarafından sağlık hizmeti bedelleri karşılanan kişiler ile ikili sosyal
+güvenlik sözleşmeleri çerçevesinde sağlık hizmetleri Sosyal Güvenlik Kurumu tarafından
+karşılanan kişilere ait tıbbi bilgilerin gizliliği ile ilgili geçerli yasal gerekliliklere uymanın
+gerektiğini ve kişisel veri niteliğindeki bilgilerin üçüncü kişilerle paylaşılamayacağını,
+              Aksi halde, Hasta Kanununda öngörülen müeyyidelerin firmamıza
+uygulanmasını ve hakkımızda diğer lüzumlu tedbirlerin alınmasını kabul ve taahhüt ederiz.
+
+
+                                                                     (Tarih)…./…./20…
+
+
+Müessesenin Adı:                           Müessesenin Sahibi                   Mesul Müdürü
+Adresi:
+Telefon Numarası:
+Müessese Kaşesi :
+
+
+
+
+                                                                                      Sayfa 20/20
+

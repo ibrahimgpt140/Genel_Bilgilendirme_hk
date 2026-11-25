@@ -1,0 +1,967 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/106315
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2008-85
+ADI: ARAŞTIRMA VE GELİŞTİRME FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA 25.09.2008 TARİHLİ 2008-85 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 83ee4cfbd757539dbff448b9f8fc8f6b9505c3f53a2181e93f7f1d117d82de98
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+. T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+S GK Sosyal Sigortalar Genel Müdürlüğü
+SOSYAL GÜVEKLİK KURUMU Prim Tahsilat Daire Başkanlığı
+Sayı :B.13.2.SSK.5.01.08.00/73-031- (o 658475
+Konu : Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi
+25.09.2008
+GENELGE
+2008 —85
+
+I- Genel Açıklamalar:
+
+Bilindiği üzere, 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin
+Desteklenmesi Hakkında Kanun, 12/3/2008 tarihli ve 26814 sayılı Resmi Gazetede yayımlanarak
+1/4/2008 tarihi itibariyle yürürlüğe girmiştir.
+
+Anılan Kanunun “İndirim, istisna, destek ve teşvik unsurları” başlıklı 3 üncü maddesinin
+“Sigorta primi desteği” konulu üçüncü fıkrasında, “Kamu personeli hariç olmak üzere teknoloji
+merkezi işletmelerinde, Ar-Ge merkezlerinde, kamu kurum ve kuruluşları ile kanunla kurulan
+vakıflar tarafindan veya uluslararası fonlarca desteklenen ya da TÜBİTAK tarafindan yürütülen
+Ar-Ge ve yenilik projeleri ile rekabet öncesi işbirliği projelerinde ve teknogirişim sermaye
+desteklerinden yararlanan işletmelerde çalışan Ar-Ge ve destek personeli ile 26/6/2001 tarihli ve
+4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununun geçici 2 nci Maddesi uyarınca ücreti gelir
+vergisinden istisna olan personelin; bu çalışmaları karşılığında elde ettikleri ücretleri üzerinden
+hesaplanan sigorta primi işveren hissesinin yarısı, her bir çalışan için beş yıl süreyle Maliye
+Bakanlığı bütçesine konulacak ödenekten karşılanır.”
+
+Uygulama ve denetim esasları konulu 4 üncü maddesinde ise,
+
+“(1) Bu Kanun kapsamındaki destek ve teşvik unsurlarından yararlananların bu Kanunda
+öngörülen şartları taşıdıklarına ilişkin tespitler en geç iki yıllık süreler itibarıyla yapılır.
+
+(2) Bu Kanunun 3 üncü Maddesinde belirtilen gelir vergisi stopajı ve sigorta primi işveren
+hissesine ilişkin teşviklerden yararlanacak olan destek personelinin tam zaman eşdeğeri sayısı,
+toplam tam zamanlı Ar-Ge personeli sayısının yüzde onunu geçemez.
+
+(3) Asgari Ar-Ge personeli sayısının hesabında filen ve tam zamanlı olarak çalışan
+personelin üçer aylık dönemler itibarıyla ortalaması esas alınır.
+
+(5) Bu Kanun kapsamındaki indirim, istisna, destek ve teşviklerden yararlananlar; 193
+sayılı Kanunun 89 uncu Maddesinin birinci fikrasının (9) numaralı bendi, 5520 sayılı Kanunun 10
+uncu Maddesinin birinci fikrasının (a) bendi ve 29/1/2004 tarihli ve 3084 sayılı Yatırımların ve
+İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun aynı mahiyetteki
+hükümlerinden ayrıca yararlanamazlar.
+
+(6) Bu Kanunun uygulamasına ve denetimine ilişkin usul ve esaslar, TÜBİTAK'ın görüşü
+alınmak suretiyle Maliye Bakanlığı ile Sanayi ve Ticaret Bakanlığı tarafindan birlikte çıkarılacak
+yönetmelikle belirlenir.”
+
+hükümleri yer almaktadır.
+
+5746 sayılı Kanunun 4 üncü maddesinin altıncı fıkrasına dayanılarak, Maliye Bakanlığı ile
+Sanayi ve Ticaret Bakanlığınca müştereken hazırlanan ve 31/7/2008 tarihli, 26953 sayılı Resmi
+Gazetede yayımlanarak 1/8/2008 tarihi itibariyle yürürlüğe giren Araştırma ve Geliştirme
+Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve Denetim Yönetmeliğinin “Sigorta primi
+desteği uygulaması” başlıklı 11 inci maddesinde ise,
+
+(0) Kamu personeli hariç olmak üzere, teknoloji merkezi işletmelerinde, Ar-Ge
+merkezlerinde, kamu kurum ve kuruluşları ile kanunla kurulan vakıflar tarafindan veya
+uluslararası fonlarca desteklenen ya da TÜBİTAK tarafindan yürütülen Ar-Ge ve yenilik projeleri
+ile rekabet öncesi işbirliği projelerinde ve teknogirişim sermaye desteklerinden yararlanan
+işletmelerde çalışan Ar-Ge personeli ile destek personelinin 5 inci madde kapsamındaki
+çalışmaları nedeniyle elde ettikleri ücretleri üzerinden hesaplanan sigorta primi işveren hissesinin
+yarısı; 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununun geçici ikinci
+maddesi uyarınca ücreti gelir vergisinden istisna tutulmuş fiilen çalışan personelin gelir vergisi
+istisnasının uygulandığı sürece gelir vergisinden istisna tutulan ücretleri üzerinden hesaplanan
+sigorta primi işveren hissesinin yarısı, beş yılı aşmamak üzere Maliye Bakanlığı bütçesine
+konulacak ödenekten karşılanır.
+
+(2) İşveren hissesi sigorta primi desteğinden yararlanacak olan destek personelinin tam
+zaman eşdeğer sayısı toplam tam zamanlı Ar-Ge personeli sayısının 9610'unu aşamaz. Küsuratlı
+sayılar tama iblağ edilir. Destek personelinin toplam tam zamanlı Ar-Ge personeli sayısının
+9610'unu aşması hâlinde, brüt ücreti en az olan destek personelinin ücretinden başlamak üzere
+sigorta primi işveren hissesi teşviki uygulanır. Brüt ücretlerin aynı olması hâlinde, sigorta primi
+işveren hissesi teşviki uygulanacak destek personeli işverence belirlenir.
+
+(3) Sigorta primi işveren hissesi desteğinden yararlanılabilmesi için teknoloji merkezi
+işletmelerinin TEKMER müdürlüğünden, kamu kurum ve kuruluşları ile kanunla kurulan vakıflar
+tarafindan desteklenen Ar-Ge ve yenilik projelerinde desteği veren kamu kurum/kuruluşu veya
+kanunla kurulan vakıftan, uluslararası fonlarca desteklenen ya da TÜBİTAK tarafindan yürütülen
+Ar-Ge ve yenilik projeleri için TÜBİTAK 'tan, Ar-Ge merkezleri ile rekabet öncesi işbirliği projeleri
+için Sanayi ve Ticaret Bakanlığından, teknogirişim sermaye desteği alan işletmeler için merkezi
+yönetim kapsamındaki kamu idarelerinden, Teknoloji Geliştirme Bölgeleri Kanunu kapsamında
+ücreti gelir vergisinden istisna tutulan personel çalıştıran işverenlerin, sigortalının bölgede fiilen
+çalışıp çalışmadığını denetlemekle yükümlü yönetici şirketten alacakları belgeyle işyerinin bağlı
+bulunduğu Sosyal Güvenlik (Devredilen SSK) İl Sigorta Müdürlüğüne yazılı olarak müracaat
+etmeleri şarttır.
+
+(4) İşveren hissesi sigorta prim desteğinden, Kanunda aranılan şartların taşındığına ve bu
+Yönetmeliğin ilgili maddeleri gereğince destekten yararlanmaya hak kazanıldığına ilişkin ilgili
+kurum, kuruluş veya denetimle görevli şirket tarafindan düzenlenen belgenin alındığı tarihten
+itibaren yararlanılır.
+
+(5) İşverenlerin, işveren hissesi sigorta prim desteğinden yararlanabilmeleri için kapsama
+giren sigortalıların çalışmalarına ilişkin aylık prim ve hizmet belgelerini yasal süresi içinde Sosyal
+Güvenlik (Devredilen SSK) İl Sigorta Müdürlüğüne vermeleri zorunludur. Söz konusu belgenin
+yasal süresi dışında verilmesi hâlinde, Kanunda belirtilen sigorta primi işveren hissesi desteğinden
+yararlanılamaz ve bu belgelerdeki sigorta primlerinin sigortalı ve işveren hisselerinin tümü
+işverenlerden tahsil edilir.
+
+(6) Kapsama giren sigortalılara ilişkin aylık prim ve hizmet belgelerinin yasa! süresi içinde
+verilmesi hâlinde, tahakkuk eden sigorta primi işveren hissesinin yarısı ile sigortalı hissesinin
+işverenlerce ödenip ödenmediğine bakılmaksızın, sigorta primi işveren hissesinin diğer yarısı
+Maliye Bakanlığı bütçesine konulacak ödenekten karşılanır.
+
+(7) Sigorta primi işveren hissesi desteğinin hesaplanmasında, bu kapsamdaki personelin
+fülen Ar-Ge ve yenilik faaliyetlerine ayırdıkları zamanın, toplam çalışma zamanına oranı dikkate
+alınır.
+
+(8) Kapsama giren personelin ay içindeki çalışmalarının tamamının Ar-Ge ve yenilik
+faaliyetleriyle ilgili olması hâlinde hak kazanılmış hafta tatili ve yıllık ücretli izin süreleri de bu
+kapsamda değerlendirilir. Ar-Ge ve yenilik faaliyetlerinde kısmi zamanlı olarak çalışan personelin
+hak kazanılmış hafla tatili ve yıllık ücretli izin süreleri sigorta primi işveren hissesi desteği
+uygulamasında dikkate alınmaz
+
+(9) İşveren hissesi sigorta prim desteği, kapsama giren her bir personel için Kanunda
+sayılan şartları taşımaları kaydıyla, Kanuna göre Sosya! Güvenlik Kurumuna ilk defa bildirilmeye
+başlanılan tarihten itibaren beş yılı aşmamak üzere uygulanır. Destekten yararlanılmaya
+başlanıldıktan sonra herhangi bir sebeple çalışmaya ara verilmesi veya destekten yararlanılmaya
+başlanıldıktan sonra işten ayrılıp aynı işe tekrar başlanılması ya da Kanun kapsamına giren başka
+bir işyerinde çalışmaya başlanılması bu süreyi uzatmaz.
+
+(10) Kanun kapsamında sigorta primi işveren hissesi desteğinden yararlanılan
+sigortalılardan dolayı ayrıca, 3084 sayılı Kanunun değişik 4 üncü maddesi ve 22/5/2003 tarihli ve
+4857 sayılı İş Kanununun 30 uncu maddesinde öngörülen sigorta primi işveren hissesi desteğinden
+yararlanılamaz. Ancak, Ar-Ge ve destek personeli dışında kalan personel ile tam zamanlı Ar-Ge
+personeli sayısının ?610'unu aşan tam zaman eşdeğer destek personeli için gerekli şartların
+taşınması hâlinde, 5084 ve 4857 sayılı kanunlarda öngörülen sigorta primi işveren hissesi
+desteğinden yararlanılabilir.
+
+(11) İşveren hissesi sigorta prim desteğinden yararlanan işyerlerinin, Sosyal Güvenlik
+Kurumunun denetim ve kontrolle görevli memurlarınca veya Kanunun 4 üncü maddesi gereğince
+yapılacak denetimler sonucunda ya da TEKMER müdürlüğünden, yönetici şirketlerden veya resmi
+kurum ve kuruluşlardan alınacak belgelerden işveren hissesi sigorta prim desteğinden
+yararlanabilmek için gerekli şartları taşımadıklarının anlaşılması hâlinde, daha önce Maliye
+Bakanlığınca karşılanmış olan işveren hissesi sigorta prim tutarları, ödeme vadesinin bittiği tarihi
+takip eden aydan başlanarak sosyal güvenlik mevzuatının ilgili hükümleri gereğince hesaplanacak
+gecikme cezası ve gecikme zammıyla birlikte işverenlerden tahsil edilir.
+
+(12) Teknoloji Geliştirme Bölgeleri Kanununun geçici 2 nci maddesi uyarınca ücreti gelir
+vergisinden istisna tutulmuş ve bölgede fülen çalışan personelin ücretleri üzerinden hesaplanan
+sigorta primi işveren hissesi desteği uygulamasında, Yönetmeliğin bu maddesi dışındaki diğer
+şartlar aranmaz Teknoloji Geliştirme Bölgeleri Kanunu kapsamındaki yönetici şirketler bu
+destekten yararlanan işverenlerin ilgili mevzuata göre gerekli şartları taşıyıp taşımadığını
+denetlemek, şartların taşınmadığının tespiti hâlinde durumu işyerinin bağlı bulunduğu Sosyal
+Güvenlik (Devredilen SSK) İl Sigorta Müdürlüğüne 10 gün içinde bildirmekle yükümlüdür.
+
+(13) Birinci fikra kapsamına giren işverenlerin Ar-Ge ve yenilik faaliyetleriyle ilgili birden
+fazla işyerinin olması durumunda, kapsama giren her bir işyeri için ayrı başvuru yapılır ve her bir
+işyeri ayrı ayrı değerlendirilir. İşyerlerinin, aynı organizasyon yapısı içinde ayrı bir birim şeklinde
+örgütlenmiş birden fazla Ar-Ge merkezinin bulunması durumunda, her bir Ar-Ge merkezi için yeni
+işyeri dosyası tescil edilmek suretiyle ayrı başvuru yapılır.
+
+(14) Tamamlanmamış bir Ar-Ge ve yenilik projesinin devredilmesi durumunda, Ar-Ge ve
+yenilik projesini devralan işletme, gerekli şartları taşıması hâlinde işveren hissesi sigorta primi
+desteğinden yararlanır. Buna karşın, tamamlanmış bir Ar-Ge ve yenilik projesinin devredilmesi
+durumunda, Ar-Ge ve yenilik projesini devralan işletme, işveren hissesi sigorta primi desteğinden
+yararlanamaz.
+
+(15) Hizmetleri ve ücretleri daha önce Kanuna göre bildirilmiş olan sigortalılara,
+işverenlerince, toplu iş sözleşmelerine istinaden ücret farkı ödenmesine karar verilmesi ve Ar-Ge
+yenilik faaliyetleriyle ilgili çalışmalara ait ücret farklarına ilişkin ek nitelikteki aylık prim ve hizmet
+belgelerinin toplu iş sözleşmesinin imzalandığı ayı takip eden ayın sonuna kadar Kuruma verilmesi
+hâlinde, işveren hissesi sigorta primi desteğinden yararlanılabilir.
+
+(16) Birinci fikra kapsamında belirtilen projelerde görev alan veya işletmelerde çalışan
+kamu personeli, aylık sosyal güvenlik destek primine tabi olanlar, 5/6/1986 tarihli ve 3308 sayılı
+Mesleki Eğitim Kanununda belirtilen aday çırak, çırak ve işletmelerde mesleki eğilim gören
+öğrenciler ile topluluk sigortasına tabi olanlar için, işveren hissesi sigorta primi desteğinden
+yararlanılamaz.
+
+(17) Kanun kapsamına giren sigortalılara ücret dışında yapılan ödemeler, Kanun
+
+kapsamında düzenlenen aylık prim ve hizmet belgesinde yer alan prime esas kazanca dâhil
+edilmez. Bu ödemeler, destek kapsamına girmeyen aylık prim ve hizmet belgesiyle Sosyal Güvenlik
+Kurumuna bildirilir.
+
+(18) Kanun kapsamında düzenlenen aylık prim ve hizmet belgelerinden dolayı tahakkuk
+eden işsizlik sigortası primleri hakkında işveren hissesi sigorta primi desteği uygulanmaz.
+
+(19) Kanun kapsamına giren sigortalılar için düzenlenecek aylık prim ve hizmet belgeleri
+için damga vergisi alınmaz.
+
+(20) Yukarıdaki hükümler çerçevesinde doğan sigorta prim desteği tutarları, bu
+Yönetmeliğin yürürlüğe girdiği tarihten itibaren takvim yılının üçer aylık dönemleri itibarıyla
+Sosyal Güvenlik Kurumu tarafindan Bütçe ve Mali Kontrol Genel Müdürlüğüne bildirilir.”
+
+hükümlerine yer verilmiştir.
+
+Bu bağlamda, gerek 5746 sayılı Kanun, gerekse anılan Kanunun uygulamasına ve
+denetimine ilişkin hazırlanan yönetmelik uyarınca, Sosyal Güvenlik İ/Merkez Müdürlüklerince
+yapılacak olan işlemler ile uygulamanın usul ve esasları aşağıda açıklanmıştır.
+
+2- Kapsama Giren İşyerleri:
+
+5746 sayılı Kanun kapsamına;
+
+- Teknoloji merkezi işletmeleri,
+
+- Ar-Ge merkezleri,
+
+- Ar-Ge ve yenilik projelerinde faaliyet göstermekle birlikte, sözkonusu faaliyetleri kamu
+kurum ve kuruluşları ile kanunla kurulan vakıflar veya uluslararası fonlarca desteklenen işletmeler,
+
+- Ar-Ge ve yenilik projeleri TÜBİTAK tarafından yürütülen işletmeler,
+
+- Rekabet öncesi işbirliği projeleri bulunan işletmeler,
+
+- Teknogirişim sermaye desteği alan işletmeler,
+
+- 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında ücreti gelir vergisinden
+istisna tutulan personel çalıştıran işletmeler,
+
+girmektedir.
+
+3- Kapsama Giren İşyerlerince Yapılacak Başvurunun Şekli ve Yeri:
+
+5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden yararlanılabilmesi
+için,
+
+- Teknoloji merkezi işletmelerinin; TEKMER müdürlüğünden,
+
+- Ar-Ge ve yenilik projelerinde faaliyet göstermekle birlikte, sözkonusu faaliyetleri kamu
+kurum ve kuruluşları ile kanunla kurulan vakıflar tarafından desteklenen işletmelerin; desteği veren
+kamu kurum veya kuruluşundan ya da kanunla kurulan vakıftan,
+
+- Ar-Ge ve yenilik projeleri uluslararası fonlarca desteklenen ya da TÜBİTAK tarafından
+yürütülen işletmelerin; TÜBİTAK tan,
+
+- Ar-Ge merkezlerinin ve rekabet öncesi işbirliği projeleri bulunan işletmelerin; Sanayi ve
+Ticaret Bakanlığından,
+
+-Teknogirişim sermaye desteği alan işletmelerin; merkezi yönetim kapsamındaki kamu
+idarelerinden,
+
+- 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında ücreti gelir vergisinden
+istisna tutulan personel çalıştıran işletmelerin; denetimle yükümlü şirketten,
+
+alacakları belge ile, işyerinin bağlı bulunduğu Sosyal Güvenlik İ/Merkez Müdürlüğüne
+yazılı olarak müracaat etmeleri gerekmektedir.
+
+, 4- Başvuru Üzerine Sosyal Güvenlik İ/Merkez Müdürlüklerimizce Yapılacak
+İşlemler:
+
+5746 sayılı Kanunda öngörülen işveren hissesi sigorta prim desteğinden yararlanmaya hak
+
+kazanıldığına ilişkin (ilgili kurum, kuruluş, vakıf veya denetimle görevli şirketlerden alınan
+
+belgeler ile birlikte) yapılan yazılı müracaatlar üzerine, dilekçe ve eki ilgili kurum, kuruluş, vakıf
+veya şirketten alınan yazı, Sigorta Primleri Servislerine intikal ettirilecektir. Adı geçen servis
+personeli tarafından gerekli inceleme yapıldıktan sonra, uygun görülmesi halinde, dilekçe ve eki
+belgeler sistem üzerinde gerekli kodlamanın yapılmasını teminen mucip ekinde süpervizöre intikal
+ettirilecektir.
+
+Süpervizör tarafından, işveren sistemi ana menüden 9-1-3-9 nolu seçenekler işaretlenmek
+suretiyle erişilen “5746 SAYILI ARGE KANUNUNA TABİ İŞYERLERİ GİRİŞ” menüsü
+vasıtasıyla gerekli kodlama yapıldıktan sonra, kapsama giren sigortalılar için düzenlenecek olan
+aylık prim ve hizmet belgeleri, 5746 sayılı Kanun türü seçilmek suretiyle Kuruma
+gönderilebilecektir.
+
+5-Sigorta Primi İşveren Hissesi Desteğinden Yararlanılmaya Başlanılacak Tarih:
+
+5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden;
+
+- Teknoloji merkezi işletmeleri, Ar-Ge ve yenilik projesinin onaylandığı,
+
+- Ar-Ge merkezleri, Ar-Ge merkezi belgesinin düzenlendiği,
+
+- Rekabet öncesi işbirliği projeleri bulunan işletmeler, proje sözleşmesinin yürürlüğe
+girdiği,
+
+- Teknogirişim sermaye desteği alan işletmeler, kamu idaresi tarafından iş planının
+onaylandığı,
+
+- Ar-Ge ve yenilik projeleri, kamu kurum ve kuruluşları ile kanunla kurulan vakıflar veya
+uluslararası fonlarca desteklenen ya da TÜBİTAK tarafından yürütülen işletmeler, destek karar
+yazısının düzenlendiği veya proje sözleşmesinin yürürlüğe girdiği,
+
+4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamındaki işletmeler, ücreti gelir
+vergisinden istisna tutulan personel çalıştırmaya başladıkları,
+
+tarihten itibaren yararlanılabileceklerdir.
+
+Örnek 1- Ar-Ge merkezi bulunan (B) Anonim Şirketinin, Ar-Ge Merkezi Belgesini, Sanayi
+ve Ticaret Bakanlığından 20/8/2008 tarihinde itibariyle almış olduğu varsayıldığında, anılan
+işveren tarafından kapsama giren sigortalılar için 5746 sayılı Kanun türü seçilmek suretiyle
+düzenlenecek ilk belge, 2008/Ağustos ayına ilişkin aylık prim ve hizmet belgesi olacaktır.
+Destekten yararlanmaya hak kazanıldığına ilişkin Sanayi ve Ticaret Bakanlığınca düzenlenen
+belgenin 20/8/2008 tarihinde alınmış olması nedeniyle, 2008/Ağustos ayına ilişkin 5746 sayılı
+Kanun türü seçilmek suretiyle düzenlenmiş olan aylık prim ve hizmet belgesinde kayıtlı
+sigortalıların prim ödeme gün sayıları 2008/Ağustos ayının 31 gün çekmesi nedeniyle 12 günden
+fazla olamayacaktır. Dolayısıyla, anılan işverenin 2008/Ağustos ayında 5746 sayılı Kanun
+kapsamına giren sigortalılarına ilişkin 1/8/2008 ila 19/8/2008 tarihleri arasındaki çalışmaları,
+Kanun türü seçilmeksizin düzenlenecek aylık prim ve hizmet belgesi ile Kuruma bildirilecektir.
+
+Öte yandan, 5746 sayılı Kanunun yürürlüğe girdiği tarihten önce başlanılmış olan Ar-Ge ve
+yenilik projelerinde; kamu kurum ve kuruluşları ile kanunla kurulan vakıflar tarafından veya
+uluslararası fonlarca desteklenen ya da TÜBİTAK tarafından yürütülen Ar-Ge ve yenilik
+projelerine ilişkin destek karar yazısı veya proje sözleşmesinin 1/4/2008 tarihinden önce yürürlüğe
+girmiş olması halinde veya 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamındaki
+işletmelerin, ücreti gelir vergisinden istisna tutulan personeli 1/4/2008 tarihinden önce çalıştırmaya
+başlamış olmaları halinde, sözkonusu destekten 1/4/2008 tarihinden itibaren yararlanılabilecektir.
+
+Örnek 2- | nolu örnekteki işverenin Ar-Ge Merkezi Belgesini 12/1/2008 tarihinde almış
+olduğu varsayıldığında, sözkonusu işveren, sigorta primi işveren hissesi desteğinden 2008/Nisan
+ayına ilişkin düzenlenecek olan aylık prim ve hizmet belgesinden başlayarak faydalanabilecektir.
+
+6- Kapsama Giren Sigortalılar:
+
+5746 sayılı Kanun çeşidi seçilmek suretiyle düzenlenecek olan aylık prim ve hizmet
+belgeleri ile;
+
+- Ar-Ge merkezlerinin, kamu kurum ve kuruluşları ile kanunla kurulan vakıflar tarafından
+veya uluslararası fonlarca desteklenen ya da TÜBİTAK tarafından yürütülen Ar-Ge ve yenilik
+projeleri ile rekabet öncesi işbirliği projelerinde ve teknogirişim sermaye desteklerinden yararlanan
+işletmelerin Ar-Ge faaliyetlerinde doğrudan görevli olan araştırmacı ve teknisyenlerinin (Ar-Ge
+personelinin) tamamı ile Ar-Ge personel sayısının yüzde onunu aşmamak kaydıyla Ar-Ge
+faaliyetlerine katılan veya bu faaliyetlerle doğrudan ilişkili yönetici, teknik eleman, laborant,
+sekreter, işçi ve benzeri personel (destek personeli),
+
+- 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununun geçici 2 nci maddesi uyarınca
+ücreti gelir vergisinden istisna tutulmuş fiilen çalışan personel,
+
+bildirilebilecektir.
+
+Örnek 1- Teknogirişim sermaye desteği alan (C) Anonim Şirketince, Ar-Ge ve yenilik
+faaliyetlerinde; 150 Ar-Ge personeli, 40 destek personeli ve Ar-Ge faaliyetlerinde doğrudan görevli
+olmadığı gibi Ar-Ge faaliyetlerine katılmayan ve bu faaliyetlerle doğrudan ilişkisi de bulunmayan
+15 personel istihdam edildiği varsayıldığında, anılan işveren tarafından 5746 sayılı Kanun türü
+seçilmek suretiyle düzenlenecek olan aylık prim ve hizmet belgesinde 150 Ar-Ge personelinin
+tamamı ile 150 Ar-Ge personelinin 9o10'una isabet eden 15 destek personeli bildirebilecek, buna
+karşın 25 destek personeli ile Ar-Ge faaliyetlerine katılmayan 15 personel 5746 sayılı Kanun türü
+seçilmeksizin Kuruma bildirilecektir.
+
+Diğer taraftan, sigorta primi işveren hissesi desteğinden yararlanacak olan destek personeli
+sayısı, Ar-Ge personeli sayısının “010'u dikkate alınmak suretiyle tespit edileceğinden, Ar-Ge
+personel sayısı X 10 / 100 işlemi sonucunda elde edilen sayının küsuratlı çıkması halinde, bulunan
+sayı tama iblağ edilecektir.
+
+Örnek 2- Ar-Ge ve yenilik projesi uluslararası fonlarca desteklenen (Z) Limited Şirketince
+Ar-Ge ve yenilik faaliyetlerinde 2008/Kasım ayında 21 tam zamanlı Ar-Ge personeli ve 7 destek
+personeli istihdam edildiği varsayıldığında, sözkonusu ayda sigorta primi işveren hissesi
+desteğinden, 21 Ar-Ge personelinin tamamı ile, 21 X 10 / 100 2,1 - 3 destek personelinden
+dolayı yararlanılabilecek, buna karşın 7 — 3 — 4 destek personelinden dolayı bahse konu destekten
+yararlanılamayacaktır.
+
+Öte yandan, destek personeli sayısının toplam tam zamanlı Ar-Ge personel sayısının
+“o10*undan fazla olması halinde, sigorta primi işveren hissesi desteğinden, ilgili aydaki brüt ücreti
+en az olan destek personellerinden dolayı yararlanılabilecektir.
+
+Örnek 3- 2 nolu örnekteki işyerinde çalışan destek personelinin 2008/Kasım ayındaki brüt
+ücretlerinin;
+
+(A) destek personeli: o 700,00 YTL
+
+(B) destek personeli: (800,00 YTL
+
+(C) destek personeli: (700,00 YTL
+
+(D) destek personeli: 1.000,00 YTL
+
+(E) destek personeli: 2.000,00 YTL
+
+(F) destek personeli: 2.500,00 YTL
+
+(G) destek personeli: 1.500,00 YTL
+
+olduğu varsayıldığında, 2008/Kasım ayında destek personelinin ancak 3'ünden dolayı
+sigorta primi işveren hissesi desteğinden yararlanılabileceğinden, bahse konu ayda brüt ücretleri en
+az olan (A), (B) ve (C) destek personelinden dolayı sözkonusu destekten istifade edilebilecektir
+
+Sigorta primi işveren hissesi desteğinden yararlanılacak destek personelinin tespitinde,
+destek personelinin tamamının brüt ücretlerinin aynı olduğu veya brüt ücreti en az olan destek
+personeli sayısının, destekten yararlanılacak toplam destek personeli sayısından fazla olması
+halinde, sigorta prim desteğinden yararlanılacak destek personeli, işverence belirlenecektir.
+
+Örnek 4- 2 nolu örnekteki işyerinde çalışan destek personelinin 2008/Kasım ayındaki brüt
+ücretlerinin;
+
+(A) destek personeli: 700,00 YTL
+
+(B) destek personeli: (800,00 YTL
+
+(O) destek personeli: o 700,00 YTL
+
+(D) destek personeli: 800,00 YTL
+
+(E) destek personeli: 2.000,00 YTL
+
+(EF) destek personeli: 2.500,00 YTL
+
+(G)destek personeli: (o 800,00 YTL
+
+olduğu varsayıldığında, sigorta primi işveren hissesi desteğinden 2008/Kasım ayında
+çalışan destek personelinden brüt ücreti 700,00 YTL olan (A) ve (C) destek personeli ile birlikte
+brüt ücretleri 800,00 YTL olan (B), (D) ve (G) destek personelinden işveren tarafından belirlenecek
+bir destek personeli olmak üzere, toplam 3 destek personelinden dolayı yararlanılabilecektir.
+
+7- Kapsama Girmeyen Sigortalılar:
+
+5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden;
+
+7.1- Teknoloji merkezi işletmelerinde, Ar-Ge merkezlerinde, kamu kurum ve kuruluşları ile
+kanunla kurulan vakıflar tarafından veya uluslararası fonlarca desteklenen ya da TUBİTAK
+tarafından yürütülen Ar-Ge ve yenilik projeleri ile rekabet öncesi işbirliği projelerinde ve
+teknogirişim sermaye desteklerinden yararlanan işletmelerin:
+
+- Ar-Ge personel sayısının yüzde onunu aşan destek personelinden dolayı,
+
+- Ar-Ge faaliyetlerinde doğrudan görevli olmadığı gibi Ar-Ge faaliyetlerine katılmayan ve
+bu faaliyetlerle doğrudan ilişkisi de bulunmayan personelinden dolayı,
+
+7.2- Teknoloji Geliştirme Bölgelerinde faaliyet gösteren işyerlerinde çalışmakla birlikte,
+ücretinden gelir vergisi kesilen personelden dolayı,
+
+7.3- 7.1 ve 7.2 nolu bölümlerde belirtilen işyerlerinde çalışan kamu personeli ile aylık
+sosyal güvenlik destek primine tabi olarak çalıştırılan personelden, aracılar (taşeronlar) tarafından
+çalıştırılan sigortalılardan, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanununda belirtilen
+aday çırak, çırak ve işletmelerde mesleki eğitim gören öğrenciler ve topluluk sigortasına tabi
+olanlardan dolayı,
+
+yararlanılması mümkün bulunmamaktadır.
+
+8- Sigorta Primi İşveren Hissesi Desteğinden Yararlanma Süresi:
+
+Sigorta primi işveren hissesi desteği uygulamasından, 31/12/2023 tarihine kadar
+uygulanmak üzere, kapsama giren her bir sigortalı için en fazla beş yıl süreyle yararlanılması
+mümkün bulunmaktadır.
+
+Örnek 1- 17/8/2008 tarihinden itibaren sigorta primi işveren hissesi desteğinden
+yararlanmaya hak kazanmış olan (Y) Limited Şirketinin, 17/8/2008 ve önceki tarihlerde işe almış
+olduğu 73 Ar-Ge personelinin bulunduğu varsayıldığında, anılan işveren, sigorta primi işveren
+hissesi desteğinden, sözkonusu 73 sigortalıdan dolayı, 16/8/2013 tarihine kadar yararlanabilecektir.
+
+Örnek 2- 1 nolu örnekteki işveren tarafından Ar-Ge personeli olan (A) sigortalısının
+23/10/2008 tarihinde, (B) sigortalısının ise 5/9/2009 tarihinde işe alınmış olduğu varsayıldığında,
+anılan işveren sigorta primi işveren hissesi desteğinden,
+
+- (A) sigortalısından dolayı, 22/10/2013,
+
+- (B) sigortalısından dolayı, 4/9/2014,
+
+tarihine kadar yararlanabilecektir.
+
+Destekten yararlanılmaya başlanıldığı tarihten sonra çeşitli nedenlerle çalışmaya ara
+verilmesi veya destekten yararlanılmaya başlanıldıktan sonra işten ayrılıp aynı işe tekrar
+
+başlanılması ya da destek kapsamına giren başka bir işyerinde çalışmaya başlanılması durumunda
+dahi, sözkonusu beş yıllık sürenin uygulamasında herhangi bir değişiklik olmayacaktır.
+
+Örnek 3- 14/10/2008 tarihinden itibaren sigorta primi işveren hissesi desteğinden
+yararlanmaya hak kazanmış olan (D) Anonim Şirketinin Ar-Ge faaliyetlerinde çalışmakta olan ve
+hizmetleri de 14/10/2008 tarihinden itibaren 5746 sayılı Kanun çeşidi seçilmek suretiyle bildirilen
+(A) sigortalısının, 15/9/2009 tarihinde askerlik görevini yapmak üzere işten ayrıldığı ve 21/11/2010
+tarihinde aynı işyerindeki Ar-Ge faaliyetleri ile ilgili işine tekrar başlamış olduğu varsayıldığında,
+anılan sigortalıdan dolayı sigorta primi işveren hissesi desteğinden gerekli şartların taşınması
+kaydıyla 14/10/2013 tarihine kadar yararlanılabilecektir. Dolayısıyla, bahse konu sigortalının
+askerlik görevini yapmak üzere çalışmadan geçirdiği süreler beş yıllık süreye dahil olup (16/9/2009
+ila 20/11/2010 tarihleri arasındaki süreler) beş yıllık süreye ilave edilmeyecektir.
+
+9- Sigorta Primi İşveren Hissesi Desteğinden Yararlanabilmek İçin Aylık Prim ve
+Hizmet Belgelerinin Verilmesi
+
+İşveren hissesi sigorta prim desteğinden yararlanabilmesi için, kapsama giren sigortalıların
+kapsama giren çalışmaları dolayısıyla 5746 sayılı Kanun türü seçilmek suretiyle düzenlenmiş olan
+aylık prim ve hizmet belgelerinin, Kuruma, yasal süresi içinde verilmesi gerekmektedir.
+
+Sigorta primi işveren hissesi desteğinden yararlanmak üzere, işyerinin bağlı bulunduğu
+Sosyal Güvenlik İV/Merkez Müdürlüğüne yapılacak müracaatın, 5746 sayılı Kanun kapsamında
+düzenlenecek aylık prim ve hizmet belgesinin yasal verilme süresi sona erdikten sonra yapılması
+halinde, sigorta primi işveren hissesi desteğinden, gerekli şartların sağlanmış olması kaydıyla yasal
+verilme süresi sona ermemiş ilk aylık prim ve hizmet belgesinden başlanılarak
+yararlanılabilecektir.
+
+Örnek 1- Ar-Ge ve yenilik projesi, bir kamu kurumu tarafından desteklenen (A) Limited
+Şirketinin 5746 sayılı Kanunda aranılan şartların taşındığına ve destekten yararlanmaya hak
+kazanıldığına ilişkin belgeyi, desteği yapan kamu kurumundan 19/9/2008 tarihinde almış olmasına
+rağmen, destekten yararlanmak üzere işyerinin bağlı bulunduğu Sosyal Güvenlik İl Müdürlüğüne
+20/11/2008 tarihinde müracaat ettiği varsayıldığında, 2008/Eylül ayına ilişkin aylık prim ve hizmet
+belgesinin yasal verilme süresi 31/10/2008 tarihinde sona ermiş olacağından, sözkonusu işveren,
+sigorta primi işveren hissesi desteğinden 2008/Ekim ayına ilişkin aylık prim ve hizmet belgesinden
+başlayarak yararlanabilecektir.
+
+Hal böyle olmakla birlikte, Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesine
+Yönelik Uygulama ve Denetim Yönetmeliğinin yayımlandığı tarihten önce sözkonusu destekten
+yararlanmaları gerektiği halde, bu Genelgenin yayımlandığı tarihten önce anılan Kanunda aranılan
+şartların taşındığına ve destekten yararlanmaya hak kazanıldığına ilişkin belgelerini Sosyal
+Güvenlik İ/Merkez Müdürlüklerine ibraz edememiş olmaları nedeniyle sigorta primi işveren
+hissesi desteğinden yararlanamamış olan işverenlerin, destekten yararlanmaya hak kazanıldığına
+ilişkin belgeleri işyerinin bağlı bulunduğu Sosyal Güvenlik İ/Merkez Müdürlüklerine ibraz
+etmeleri ve kapsama giren sigortalılar için Kanun türü seçilmeksizin düzenlenmiş ve yasal süresi
+içinde Kuruma verilmiş asıl veya ek nitelikteki aylık prim ve hizmet belgeleri için iptal nitelikte,
+aynı sigortalılar için 5746 sayılı Kanun türü seçilmek suretiyle asıl nitelikte aylık prim ve hizmet
+belgesi vermeleri halinde, bu süreler için de sigorta primi işveren hissesi desteğinden
+yararlanılabilecektir.
+
+Dolayısıyla, 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden
+2008/Nisan, Mayıs, Haziran, Temmuz ve Ağustos aylarından dolayı yararlanması gerektiği halde
+yararlanamamış olan işverenlerin, yasal süresi geçirildikten sonra Kuruma verecekleri 5746 sayılı
+Kanun türü seçilmek suretiyle düzenlenmiş aylık prim ve hizmet belgelerinden dolayı sözkonusu
+destek hükümlerinden istifade edilmesi mümkün bulunmakta, buna karşın, 2008/Eylül ve sonrası
+aylardan dolayı 5746 sayılı Kanun türü seçilmek suretiyle yasal süresi dışında verilen aylık prim ve
+hizmet belgelerinden dolayı bahse konu destekten yararlanılması mümkün bulunmamaktadır.
+
+Diğer taraftan, hizmetleri ve ücretleri daha önce 5746 sayılı Kanun çeşidi seçilmek suretiyle
+Kuruma bildirilmiş olan sigortalılara, işverenlerince, toplu iş sözleşmelerine istinaden ücret farkı
+ödenmesine karar verilmesi ve Ar-Ge yenilik faaliyetleri ile ilgili çalışmalara ait ücret farklarına
+ilişkin ek nitelikteki aylık prim ve hizmet belgelerinin toplu iş sözleşmesinin imzalandığı ayı takip
+eden ayın sonuna kadar Kuruma verilmesi halinde, sözkonusu ücret farklarından dolayı da sigorta
+primi işveren hissesi desteğinden yararlanılabilecektir.
+
+10- Sigorta Primi İşveren Hissesi Desteğinden Yararlanılabilmesi İçin Ar-Ge
+Merkezlerinde Çalıştırılması Gereken Asgari Ar-Ge Personeli:
+
+Bir işletmenin Ar-Ge merkezi olabilmesi için, organizasyon yapısı içinde ayrı bir birim
+şeklinde örgütlenmiş, münhasıran yurt içinde araştırma ve geliştirme faaliyetlerinde bulunan, en az
+50 tam zamanlı eşdeğer Ar-Ge personeli istihdam ediliyor olması gerekmektedir. Ar-Ge
+merkezinde çalışan tam zaman eşdeğer Ar-Ge personeli sayısı ise, fiilen çalışan Ar-Ge
+personelinin, çalışma sürelerine göre üçer aylık dönemler itibarıyla hesaplanan toplam çalışma
+süresinin, bir kişinin üç aylık tam zamanlı çalışma süresine bölünmesi suretiyle bulunacaktır.
+
+Buna göre, Ar-Ge merkezlerinde çalışan tam zaman eşdeğer Ar-Ge personeli sayısı; fiilen
+çalışan Ar-Ge personelinin üçer aylık dönemler itibariyle bulunan toplam çalışma süresinin, 90
+güne bölünmesi suretiyle hesaplanacaktır. Başka bir ifade ile;
+
+Tam zaman eşdeğer Ar-Ge personeli sayısı - Ar-Ge personelinin üç aylık dönemdeki Ar-
+Ge faaliyetleri ile ilgili prim ödeme gün sayısı / 90
+
+formülü üzerinden hesaplanacaktır.
+
+Üçer aylık dönemler, geçici vergilendirme dönemleri olup,
+
+Birinci üç aylık dönem; Ocak-Şubat-Mart,
+
+İkinci üç aylık dönem; Nisan-Mayıs-Haziran,
+
+Üçüncü üç aylık dönem; Temmuz- Ağustos-Eylül,
+
+Dördüncü üç aylık dönem; Ekim-Kasım-Aralık,
+
+olarak dikkate alınacaktır.
+
+Örnek 1- Ar-Ge merkezi belgesini almış olan (B) Anonim Şirketinin Ar-Ge merkezinde
+çalıştırdığı Ar-Ge personelinin, Ar-Ge ve yenilik faaliyetleri ile ilgili olarak 2008 yılı dördüncü üç
+aylık dönemdeki prim ödeme gün sayısının;
+
+2008/Ekim ayında; 1.519 gün,
+
+2008/Kasım ayında; 1.426 gün,
+
+2008/Aralık ayında; 1.784 gün,
+
+olduğu varsayıldığında,
+
+2008 yılı dördüncü üç aylık dönem itibariyle;
+
+toplam prim ödeme gün sayısı 1.519 * 1.426 4 1.784 4.729,
+
+tam zaman eşdeğer Ar-Ge personel sayısı ise, 4.729 /90-52,54
+
+olacaktır.
+
+Üç aylık geçici vergilendirme dönemi itibariyle asgari 50 tam zaman eşdeğer Ar-Ge
+personeli çalıştırma şartını yerine getiren Ar-Ge merkezleri 5746 sayılı Kanunda öngörülen sigorta
+primi işveren hissesi desteğinden yararlanılabilecekler, buna karşın üç aylık geçici vergilendirme
+dönemi itibariyle asgari 50 tam zaman eşdeğer Ar-Ge personeli çalıştırma şartını yerine
+getiremeyen Ar-Ge merkezleri, şartların tekrar sağlandığı üç aylık geçici vergilendirme dönemine
+kadar sözkonusu destekten yararlanamayacaklardır.
+
+Örnek 2- Ar-Ge merkezi belgesini almış olan (A) Limited Şirketine ait Ar-Ge merkezinde
+çalışan Ar-Ge personelinin, 2009 yılı birinci üç aylık dönemde Ar-Ge ve yenilik faaliyetleri ile
+ilgili prim ödeme gün sayısının;
+
+2009/Ocak ayında; 1.613 gün,
+
+2009/Şubat ayında; 1.497 gün,
+
+2009/Mart ayında; 1.574 gün olduğu varsayıldığında,
+
+Ar-Ge personelinin toplam prim ödeme gün sayısı 1.613 * 1.497 * 1.574 — 4.684, üç aylık
+dönemdeki tam zaman eşdeğer Ar-Ge personel sayısı ise, 4.684 / 90 - 52,04 olduğundan, 2009 yılı
+birinci üç aylık geçici vergilendirme dönemi itibariyle asgari 50 tam zaman eşdeğer Ar-Ge
+personeli çalıştırma koşulu yerine getirilmiş olması nedeniyle, sözkonusu işveren, 2009/Ocak,
+Şubat ve Mart ayları için 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden
+yararlanabilecektir.
+
+Örnek 3- 1 nolu örnekteki Ar-Ge merkezinde çalışan Ar-Ge personelinin, 2009 yılı ikinci
+üç aylık dönemde Ar-Ge ve yenilik faaliyetleri ile ilgili prim ödeme gün sayısının;
+
+2009/Nisan ayında; 1.512 gün,
+
+2009/Mayıs ayında; 1.395 gün,
+
+2009/Haziran ayında; 1.411 gün olduğu varsayıldığında,
+
+sözkonusu dönemdeki Ar-Ge personelinin toplam prim ödeme gün sayısı 1.512 * 1.395 $
+1.411 — 4.318, üç aylık dönemdeki tam zaman eşdeğer Ar-Ge personel sayısı ise, 4.318 / 90 —
+47.98 olduğundan, 2009 yılı ikinci üç aylık geçici vergilendirme dönemi itibariyle asgari 50 tam
+zaman eşdeğer Ar-Ge personeli çalıştırma koşulunun yerine getirilmemiş olması nedeniyle,
+sözkonusu işveren, 2009/Nisan, Mayıs ve Haziran ayları için 5746 sayılı Kanunda öngörülen
+sigorta primi işveren hissesi desteğinden yararlanamayacaktır.
+
+Ar-Ge merkezlerinin, Ar-Ge ve yenilik faaliyetlerinde çalışan Ar-Ge personeline ilişkin
+aylık prim ve hizmet belgelerini 5746 sayılı Kanun türünü seçmek suretiyle Kuruma göndermeleri
+gerekmektedir. Ancak herhangi bir üç aylık vergilendirme dönemi sonunda asgari 50 tam zamanlı
+eşdeğer Ar-Ge personeli çalıştırma koşulunun yerine getirilmemiş olduğunun anlaşılması halinde,
+daha önce aynı vergilendirme dönemine ilişkin 5746 sayılı Kanun türü seçilerek düzenlenmiş aylık
+prim ve hizmet belgeleri için iptal nitelikte, sözkonusu aylar için Kanun türü seçilmeksizin asıl
+veya ek nitelikte aylık prim ve hizmet belgeleri düzenlenerek, işyerinin bağlı bulunduğu Sosyal
+Güvenlik İ/Merkez Müdürlüğüne kağıt ortamında verilecektir. Daha önce Maliye Bakanlığınca
+karşılanmış olan işveren hissesi prim tutarları ise, ödeme vadesinin bittiği tarihten ödemenin
+yapıldığı tarihe kadar gecikme cezası ve gecikme zammı ile birlikte işverenlerden tahsil edilecektir.
+
+Örnek 4- Ar-Ge merkezi belgesini almış (Z) Limited Şirketine ait Ar-Ge merkezinde
+çalışan Ar-Ge personelinin, 2008 yılı dördüncü üç aylık dönemde Ar-Ge ve yenilik faaliyetleri ile
+ilgili prim ödeme gün sayısının;
+
+2008/Ekim ayında; 1.576 gün,
+
+2008/Kasım ayında; 1.379 gün,
+
+2008/Aralık ayında; 1.506 gün,
+
+olduğu varsayıldığında,
+
+Ar-Ge personelinin toplam prim ödeme gün sayısı 1.576 * 1.379 * 1.506 - 4.461, üç aylık
+dönemdeki tam zaman eşdeğer Ar-Ge personel sayısı ise, 4.461/ 90 — 49,56 olduğundan, 2008 yılı
+dördüncü üç aylık geçici vergilendirme dönemi itibariyle asgari 50 tam zaman eşdeğer Ar-Ge
+personeli çalıştırma koşulu yerine getirilmemiş olması nedeniyle, sözkonusu işveren, 2008/Ekim,
+Kasım ve Aralık ayları için 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi
+desteğinden yararlanamayacaktır.
+
+Bu durumda, 2008/Ekim, Kasım ve Aralık aylarında çalıştırılan tam zaman eşdeğer Ar-Ge
+personeli sayısının 50'ye ulaşmadığının tespit edildiği 2008/Aralık ayına ilişkin aylık prim ve
+hizmet belgesinin Kuruma gönderileceği 2009/Ocak ayında, 2008/Aralık ayına ait aylık prim ve
+hizmet belgesi Kanun türü seçilmeksizin Kuruma gönderildikten sonra, daha önce 5746 sayılı
+Kanun türü seçilerek Kuruma gönderilmiş olan 2008/Ekim ve Kasım aylarına ilişkin aylık prim ve
+hizmet belgeleri için iptal nitelikte, aynı aylara ilişkin Kanun türü seçilmeksizin düzenlenmiş asıl
+veya ek nitelikte aylık prim ve hizmet belgeleri, işyerinin bağlı bulunduğu Sosyal Güvenlik
+İV/Merkez Müdürlüğüne kağıt ortamında verilecek ve daha önce Maliye Bakanlığınca karşılanmış
+
+olan işveren hissesi prim tutarları gecikme cezası ve gecikme zammı ile birlikte işverenden tahsil
+edilecektir. Daha önce 5746 sayılı Kanun türü seçilerek yasal süresi içinde Kuruma verilmiş olan
+2008/Ekim ve Kasım aylarına ilişkin aylık prim ve hizmet belgeleri için, düzeltme amacıyla ve
+yasal süresi dışında, Kanun türü seçilmeksizin Kuruma verilen asıl veya ek nitelikteki aylık prim ve
+hizmet belgelerinden dolayı oluşan idari para cezaları ise, Ünite İtiraz Komisyonu kararı ile iptal
+edilecektir.
+
+Diğer taraftan, 5746 sayılı Kanunun uygulamasına ilişkin olarak hazırlanan Yönetmelikte,
+asgari 50 tam zaman eşdeğer Ar-Ge personeli çalıştırma şartına ulaşılıp ulaşılmadığının tespitinde,
+Ar-Ge merkezlerinde çalışan tam zaman eşdeğer Ar-Ge personelinin Ar-Ge ve yenilik
+faaliyetleriyle ilgili prim ödeme gün sayılarının üçer aylık dönemler itibariyle ortalamasının esas
+alınacağı öngörülmüştür. Ancak, Ar-Ge Merkezi belgesinin Sanayi ve Ticaret Bakanlığından
+alındığı tarihi (herhangi bir üç aylık geçici vergilendirme döneminin ilk gününde alınmış olması
+durumu hariç olmak üzere) takip eden ilk üç aylık vergilendirme döneminin başına kadar, asgari 50
+tam zaman eşdeğer Ar-Ge personeli çalıştırma şartının yerine getirilip getirilmediği hususunun üç
+aylık dönem itibariyle tespiti mümkün olamayacaktır.
+
+Bu nedenle, Ar-Ge merkezi belgesinin alındığı tarihten ilk üç aylık vergilendirme
+döneminin başına kadar asgari 50 tam zaman eşdeğer Ar-Ge personeli çalıştırma şartının yerine
+getirilip getirilmediği hususunun tespiti sırasında, tam zaman eşdeğer Ar-Ge personeli sayısı,
+
+-Belgenin alındığı ayda, Ar-Ge personelinin ilgili aydaki Ar-Ge faaliyetleri ile ilgili prim
+ödeme gün sayısı / belgenin alındığı ayda belgenin alındığı tarihten sonraki kalan gün sayısı,
+
+-Varsa, ilk vergilendirme döneminin başına kadar olan ay/aylarda, Ar-Ge personelinin ilgili
+aydaki Ar-Ge faaliyetleri ile ilgili prim ödeme gün sayısı / 30
+
+formülü üzerinden hesaplanacaktır.
+
+Örnek 5- Ar-Ge merkezi belgesini 17/8/2008 tarihinde almış olan (E) Anonim Şirketine ait
+Ar-Ge merkezinde çalışan Ar-Ge personelinin, Ar-Ge ve yenilik faaliyetleri ile ilgili prim ödeme
+gün sayısının;
+
+2008/Ağustos ayında; 713 gün,
+
+2008/Eylül ayında; 1.579 gün,
+
+2008/Ekim ayında; 1.923 gün,
+
+2008/Kasım ayında; 1.498 gün,
+
+2008/Aralık ayında; 1.613 gün, (2008 yılı dördüncü üç aylık dönem)
+
+olduğu varsayıldığında,
+
+2008/Ağustos ayı için, bahse konu aydaki prim ödeme gün sayısının 713 gün, belgenin
+alındığı ayda belgenin alındığı tarihten sonra kalan gün sayısının ise 15 gün olduğu nazara alınarak;
+
+Tam zaman eşdeğer Ar-Ge personeli sayısı - 713 / 15 - 47,53 olduğundan, anılan işveren,
+2008/Ağustos ayı itibariyle asgari 50 tam zaman eşdeğer Ar-Ge personeli çalıştırma koşulunu
+yerine getirmemiş olması nedeniyle, 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi
+desteğinden yararlanamayacaktır.
+
+2008/Eylül ayı için, bahse konu aydaki prim ödeme gün sayısının 1.579 gün olduğu, nazara
+alınarak;
+
+Tam zaman eşdeğer Ar-Ge personeli sayısı — 1.579 / 30 - 52.63 olduğundan, anılan işveren,
+2008/Eylül ayı itibariyle asgari 50 tam zaman eşdeğer Ar-Ge personeli çalıştırma koşulunu yerine
+getirmiş olması nedeniyle, 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden
+yararlanabilecektir.
+
+2008 yılı dördüncü üç aylık döneme gelindiğinde ise,
+
+1.923 4 1.498 -1.613-5.034
+
+5.034 / 90 — 55.93 asgari 50 tam zaman eşdeğer Ar-Ge personel çalıştırma şartı sağlanmış
+olduğundan sözkonusu üç aylık dönemde de bahse konu destekten istifade edilebilecektir.
+
+Diğer taraftan, Ar-Ge merkezlerinde çalıştırılan Ar-Ge personelinin ay içindeki prim ödeme
+gün sayılarının hesaplanması sırasında, aracılar tarafından çalıştırılan Ar-Ge personeli ile kamu
+personeli ve sosyal güvenlik destek primine tabi çalışan Ar-Ge personelinin prim ödeme gün
+sayıları hesaplamaya dahil edilmeyecektir.
+
+11- Teknoloji Geliştirme Bölgelerinde Faaliyet Gösteren İşletmeler:
+
+4691 sayılı Kanuna göre, Teknoloji Geliştirme Bölgelerinde faaliyet gösteren işletmelerin,
+denetimle görevli olan şirketten alacakları belge ile sigorta primi işveren hissesi desteğinden
+yararlanmaya hak kazandıklarını belgelemeleri kaydıyla, bu işyerlerinde fiilen çalışan ve ücretleri
+gelir vergisinden istisna tutulan araştırmacı, yazılımcı ve Ar-Ge personelinin tamamından dolayı
+sözkonusu destekten yararlanabilecektir.
+
+Diğer taraftan, Teknoloji Geliştirme Bölgeleri Kanunu kapsamındaki yönetici şirketler bu
+destekten yararlanan işverenlerin ilgili mevzuata göre gerekli şartları taşıyıp taşımadıklarını
+denetlemek ve şartları taşımadıkları tespit edilen işyerlerini, işyerinin bağlı bulunduğu Sosyal
+Güvenlik İl / Merkez Müdürlüğüne 10 gün içinde bildirmekle yükümlüdür.
+ği 12- Diğer Teşvik Kanunlarından Yararlanan İşverenlerin 5746 Sayılı Kanunda
+Öngörülen Destek Hükmünden Yararlanmalarına İlişkin Usul ve Esaslar:
+
+Diğer teşvik Kanunlarına istinaden sigorta primi işveren hissesi teşviki uygulamasından
+yararlanmakta olan işverenlerin, teşvik kapsamına giren sigortalılarından dolayı aynı dönem için ve
+mükerrer olarak 5746 sayılı Kanunda öngörülen destekten yararlanmaları mümkün
+bulunmamaktadır.
+
+Ancak, Ar-Ge ve destek personeli dışında kalan personel ile tam zamanlı Ar-Ge personeli
+sayısının yüzde onunu aşan tam zaman eşdeğer destek personeli için gerekli şartların sağlanmış
+olması kaydıyla, diğer Kanunlarda öngörülen teşvik hükümlerinden yararlanılması mümkün
+bulunmaktadır.
+
+Yine, 4691 sayılı Kanun gereği Teknoloji Geliştirme Bölgesinde faaliyet gösteren ve
+ücretinden gelir vergisi kesilmeyen sigortalılardan dolayı 5746 sayılı Kanunda öngörülen destekten
+yararlanmakta olan işverenler, ücretinden gelir vergisi kesilen personelden dolayı gerekli koşulları
+sağlamış (oolmaları Okaydıyla diğer (Kanunlarda Öngörülen teşvik (hükümlerinden
+yararlanabileceklerdir.
+
+Örnek - Teknoloji Geliştirme Bölgesinde faaliyet gösteren ve çalıştırmış olduğu
+araştırmacı, yazılımcı ve AR-GE personelinin tamamından dolayı 5746 sayılı Kanunda öngörülen
+sigorta primi işveren hissesi desteğinden yararlanmakta olan (D) Limited Şirketinin, araştırmacı,
+yazılımcı ve AR-GE personeli niteliğinde olmayan (ücretinden gelir vergisi kesilen) özürlü bir
+sigortalıyı işe aldığı varsayıldığında, anılan işveren, özürlü sigortalıdan dolayı 4857 sayılı Kanunun
+30 uncu maddesinde öngörülen sigorta primi işveren hissesi teşvikinden yararlanabilecektir.
+
+İşe alınan özürlü sigortalının araştırmacı olduğu varsayıldığında ise, bu durumda sigorta
+primi işveren hissesi desteğinden aynı dönem ve aynı sigortalı için yalnızca bir defa yararlanılması
+mümkün bulunduğundan, sözkonusu sigortalı, ya 5746 ya da 4857 sayılı Kanun türü seçilmek
+suretiyle düzenlenecek aylık prim ve hizmet belgesi ile Kuruma bildirilebilecektir.
+
+13- Sigorta Primi İşveren Hissesinin Maliye Bakanlığınca Karşılanacak Kısmının
+Hesaplanması:
+
+5746 sayılı Kanun kapsamına giren sigortalıların, kapsama giren çalışmaları karşılığında
+elde ettikleri ücretleri üzerinden hesaplanan sigorta primi işveren hissesinin yarısı, Maliye
+Bakanlığı bütçesine konulacak ödenekten karşılanacaktır.
+
+Örnek 1- 5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteğinden
+yararlanmaya hak kazanmış, iş kazası ve meslek hastalığı prim oranı 2 olan (A) Anonim Şirketinin,
+
+kapsama giren sigortalılarına ilişkin 5746 sayılı Kanun çeşidi seçilmek suretiyle düzenlemiş olduğu
+aylık prim ve hizmet belgesinde;
+
+Kişi sayısı Prim ödeme gün sayısı Prime esas kazanç tutarı
+
+70 2014 76.850,00 YTL
+
+olduğu varsayıldığında,
+
+76.850 X 14  - 10.759,00 YTL sigortalı hissesi,
+
+76.850 X20 46 -15.370,00 YTL işveren hissesi olacağından,
+
+15.370/2 - 7.685,00 YTL işveren hissesinin, işveren tarafından ödenecek kısmı,
+
+15.370/2 - 7.685,00 YTL işveren hissesinin, Maliye Bakanlığınca karşılanacak kısmı,
+
+10.759,00 YTL * 7.685,00 YTL - 18.444,00 YTL tutarındaki kısım, işveren tarafından
+ödenecektir.
+
+Dolayısıyla, işveren hissesi prim tutarının Maliye Bakanlığınca karşılanacak olan kısmının
+hesaplanması sırasında, sigortalıların hak ettikleri ücretlerinin prime esas kazanç alt sınırının
+üzerinde olup olmadığına bakılmayacaktır.
+
+Diğer taraftan, kapsama giren sigortalılara ilişkin aylık prim ve hizmet belgelerinin yasal
+süresi içinde Kuruma verilmiş olması halinde, tahakkuk eden sigorta primi işveren hissesinin yarısı
+ile sigortalı hissesinin işverenlerce ödenip ödenmediğine bakılmaksızın, sigorta primi işveren
+hissesinin diğer yarısı Maliye Bakanlığınca karşılanacaktır.
+
+14- Kapsama Giren Sigortalılara Yapılan, Ancak Kapsama Girmeyen Ödemeler:
+
+Kapsama giren sigortalılara yapılan ücret dışındaki (ikramiye, prim v.b) ödemeler ile,
+kapsama giren sigortalıların Ar-Ge ve yenilik faaliyetleri dışındaki çalışmaları nedeniyle hak
+ettikleri ücretleri, destek kapsamına alınmadığından, bu nitelikteki ödemeler Kanun türü
+seçilmeksizin düzenlenecek aylık prim ve hizmet belgesi ile Kuruma bildirilecektir.
+
+Örnek 1- İşveren hissesi sigorta prim desteğinden yararlanmaya hak kazanmış (D) Limited
+Şirketince, Ar-Ge personeli olan (A) sigortalısına 2008/Kasım ayındaki çalışmalarından dolayı brüt
+2.500,00 YTL ücret ve 1.500,00 YTL ikramiye ödenmiş olduğu varsayıldığında, bahse konu
+sigortalının 2.500,00 YTL tutarındaki ücreti, prim ödeme gün sayısı da belirtilerek 5746 sayılı
+Kanun türü seçilmek suretiyle düzenlenecek aylık prim ve hizmet belgesi ile, 1.500,00 YTL
+tutarındaki ikramiyesi ise, prim ödeme gün sayısı O (sıfır) olarak yazılmak suretiyle Kanun türü
+seçilmeksizin düzenlenecek aylık prim ve hizmet belgesi ile Kuruma bildirilecektir.
+
+Diğer taraftan, kapsama giren personelin ay içindeki çalışmalarının tamamının Ar-Ge ve
+yenilik faaliyetleri ile ilgili olması halinde, hak kazanılmış hafta tatili ve yıllık ücretli izin süreleri
+anılan Kanun kapsamında değerlendirilecek, buna karşın Ar-Ge ve yenilik faaliyetlerinde kısmi
+zamanlı olarak çalışan personelin hak kazanılmış hafta tatili ve yıllık ücretli izin süreleri sigorta
+primi işveren hissesi desteği uygulamasında dikkate alınmayacaktır.
+
+Örnek 2- Sigorta primi işveren hissesi desteğinden yararlanmaya hak kazanmış (E) Anonim
+Şirketinin Ar-Ge personeli olan (A) sigortalısının, 2008/Eylül ayının 12 gününde Ar-Ge ve yenilik
+faaliyetleri kapsamında, ayın kalan günlerinde ise Ar-Ge ve yenilik faaliyetleri dışındaki işlerde
+çalışmış olduğu varsayıldığında, 2008/Eylül ayına ilişkin olarak 5746 sayılı Kanun türü seçilmek
+suretiyle düzenlenecek olan aylık prim ve hizmet belgesine, sözkonusu sigortalının prim ödeme
+gün sayısı 12 gün olarak, prime esas kazanç tutarı ise 12 günlük çalışması karşılığında hak ettiği
+ücreti kaydedilecek, aynı aya ilişkin olarak Kanun türü seçilmeksizin düzenlenecek olan aylık prim
+ve hizmet belgesine ise sözkonusu sigortalının Ar-Ge ve yenilik faaliyetleri dışındaki çalışmaları
+ile ay içindeki çalışmalarından dolayı hak kazandığı hafta tatiline ilişkin prim ödeme gün sayısı 18
+gün olarak, prime esas kazanç tutarı ise 18 günlük çalışması karşılığında hak ettiği ücreti
+kaydedilecektir.
+
+Hal böyle olmakla birlikte, ay içindeki çalışmalarının bir kısmı Ar-Ge faaliyetleri
+kapsamında, bir kısmı Ar-Ge faaliyetleri dışında olan sigortalılar için iki ayrı aylık prim ve hizmet
+belgesinden bildirilen prim ödeme gün sayısının toplamının 30'u geçmemesi gerekmektedir.
+
+Buna göre, kapsama giren sigortalıların 28, 29 veya 31 gün çeken ayların tamamında
+çalışmış olmalarına rağmen, söz konusu âyların bazı günlerinde Ar-Ge faaliyetleri kapsamında,
+bazı günlerinde ise kapsam dışındaki işlerde çalışmaları halinde, her iki belgede kayıtlı prim ödeme
+gün sayısının toplamının 30'un altında veya üstünde olması mümkün olmadığından, 5746 sayılı
+Kanun çeşidi seçilmek suretiyle düzenlenecek olan aylık prim ve hizmet belgelerinde kayıtlı prim
+ödeme gün sayısı, Ar-Ge ve yenilik faaliyetleri kapsamında fiilen çalışılan gün sayısı üzerinden,
+kapsama girmeyen çalışmalardan dolayı düzenlenecek olan aylık prim ve hizmet belgesinde kayıtlı
+prim ödeme gün sayısı ise 30 güne tamamlanmak suretiyle hesaplanacaktır.
+
+Öte yandan, kapsama giren işverenlerce, aynı ayda aynı sigortalı için iki ayrı aylık prim ve
+hizmet belgesi düzenlenmesi gerektiği durumlarda, gerek 5746 sayılı Kanun türü seçilmek
+suretiyle, gerekse Kanun türü seçilmeksizin düzenlenecek aylık prim ve hizmet belgeleri için eksik
+gün nedeni olarak “Diğer Nedenler” seçeneği işaretlenecek ve bu prim belgeleri ile ilgili olarak
+Kuruma verilecek olan “Ek-8 Sigortalıların Eksik Gün Bildirim Formları” ekine, sigortalıların
+bildirildiği diğer prim belgesinin sureti konulacaktır.
+
+15- İşyerlerinin Kontrolü, Denetimi ve Muvazaalı İşlemlerin Önlenmesi:
+
+15.1- Aylık prim ve hizmet belgelerini 5746 sayılı Kanun türünü seçmek suretiyle Kuruma
+göndermiş olan Ar-Ge merkezlerinin, her bir geçici vergilendirme dönemi itibariyle asgari 50 tam
+zaman eşdeğer Ar-Ge personeli çalıştırma şartını yerine getirip getirmedikleri, başka bir ifade ile
+anılan Kanunda öngörülen destekten yararlanmaya hak kazanmış olup olmadıkları hususu 5746
+sayılı Kanun türü seçilmek suretiyle Kuruma bildirilmiş olan aylık prim ve hizmet belgelerindeki
+prim ödeme gün sayılarına bakılmak suretiyle 10 nolu bölümde yapılan açıklamalar doğrultusunda
+kontrol edilecek ve sonucuna göre işlem yapılacaktır.
+
+15.2- İşveren hissesi sigorta prim desteğinden yararlanmış olan işverenlerin, Kurumumuzun
+denetim ve kontrolle görevli memurlarınca veya resmi kurum, kuruluş ya da denetimle görevli
+şirketler tarafından yapılan denetimler sonucunda veya teknoloji merkezi kurullarından, yönetici
+şirketlerden ya da resmi kurum ve kuruluşlardan alınacak belgelerden sigorta primi işveren hissesi
+desteğinden yararlanabilmek için gerekli şartları taşımadıklarının veya gerekli şartları taşımalarına
+rağmen kapsama girmeyen sigortalılar için de sözkonusu destekten yararlanılmış olduklarının ya da
+kapsama giren sigortalılara ödenen ücret dışındaki ödemelerden dolayı da sözkonusu destek
+hükümlerinden yararlanmış olduklarının anlaşılması halinde, daha önce karşılanmaması gerektiği
+halde Maliye Bakanlığınca karşılanmış olan sigorta primi işveren hissesi tutarları, ödeme
+vadesinin bittiği tarihi takip eden aydan başlanarak sosyal güvenlik mevzuatının ilgili hükümleri
+gereğince hesaplanacak gecikme cezası ve gecikme zammı ile birlikte işverenlerden tahsil
+edilecektir.
+
+Dolayısıyla bu nitelikteki işyeri işverenlerinden, 5746 sayılı Kanun çeşidi seçilmek suretiyle
+düzenlenmiş aylık prim ve hizmet belgeleri için iptal nitelikte, Kanun türü seçilmeksizin asıl veya
+ek nitelikte aylık prim ve hizmet belgelerinin düzenlenerek Kuruma verilmesi istenilecek,
+verilmemesi halinde ise, sözkonusu belgeler Kurumca re'sen düzenlenecek ve daha önce Maliye
+Bakanlığınca yersiz olarak karşılanmış olan sigorta primleri, ödeme vadesinin bittiği tarihten tahsil
+tarihine kadar gecikme cezası ve gecikme zammı ile birlikte işverenlerden tahsil edilecektir.
+
+16- Aynı İşverenin Kapsama Giren Birden Fazla İşyerinin Bulunması:
+
+Sigorta primi işveren hissesi desteği kapsamına giren işletmelerin Ar-Ge ve yenilik
+faaliyetleri ile ilgili birden fazla işyerinin olması durumunda, kapsama giren her bir işyeri için,
+destekten yararlanmaya hak kazanıldığına ilişkin ilgili kurum, kuruluş veya denetimle görevli
+şirketten ayrı belge alınacak ve işyerinin bağlı bulunduğu Sosyal Güvenlik İ/Merkez Müdürlüğüne
+ayrı başvuru yapılacaktır.
+
+Dolayısıyla, işveren hissesi sigorta prim desteğinden istifade edilebilmesi için gerekli olan
+şartlar, her bir işyeri için ayrı ayrı yerine getirilmiş olacaktır.
+
+Kapsama giren işletmelere ait aynı işyerinde, birden fazla Ar-Ge merkezinin bulunması
+durumunda ise, her bir Ar-Ge merkezinde çalıştırılan sigortalılardan dolayı işveren hissesi sigorta
+prim desteğinden yararlanabilmesi için gerekli şartların ayrı ayrı sağlanmış olması gerektiğinden,
+bu nitelikteki işyerlerindeki her bir Ar-Ge merkezinde dolayı yeni işyeri dosyası tescil edilmek
+suretiyle ayrı başvuru yapılacaktır.
+
+17- Kapsama Giren İşletmelerin Devredilmesi:
+
+Tamamlanmamış bir Ar-Ge ve yenilik projesinin veya 4691 sayılı Kanun gereği ücreti gelir
+vergisinden istisna tutulan personel çalıştıran bir işletmenin devredilrnesi durumunda, devralan
+işletmeler, destekten yararlanmaya hak kazandıklarına ilişkin alacakları belge ile, işyerinin bağlı
+bulunduğu Sosyal Güvenlik İl/Merkez Müdürlüğüne yazılı olarak müracaat etmeleri ve gerekli
+şartları taşımaları halinde sigorta primi işveren hissesi desteğinden yararlanabilecekler, buna
+karşın, tamamlanmış bir Ar-Ge ve yenilik projesinin devredilmesi durumunda, Ar-Ge ve yenilik
+projesini devralan işletme, işveren hissesi sigorta primi desteğinden yararlanamayacaktır.
+
+18- Destek Uygulamasının Sona Erdiği Haller:
+
+5746 sayılı Kanunda öngörülen sigorta primi işveren hissesi desteği,
+
+a- Asgari 50 tam zamanlı eş değer Ar-Ge personeli çalıştırma şartının gerçekleşmediği
+durumlarda, sözkonusu şartın gerçekleştirilmediği vergilendirme dönemi,
+
+b- Ar-Ge ve yenilik projelerinde, projenin herhangi bir nedenle sona ermesi veya projeye
+verilen desteğin son bulması halinde Ar-Ge ve yenilik faaliyeti sona ermiş sayılacağından, projenin
+sona erdiği/desteğin son bulduğu tarih,
+
+c- KOSGEB teknoloji merkezi işletmelerinde yürütülen projelerin herhangi bir nedenle
+sona ermesi veya projeye verilen desteğin son bulması halinde Ar-Ge ve yenilik faaliyeti sona
+ereceğinden, projenin sona erdiği/desteğin son bulduğu tarih,
+
+d- Rekabet öncesi işbirliği projesi içinde yer alan işletmelerde, projenin herhangi bir
+nedenle sona ermesi halinde, projenin sona erdiği tarih, proje sözleşmesinin iptal edilmesi halinde
+ise denetime başlanılan tarih,
+
+itibarıyla uygulanmaz.
+
+19- Diğer Hususlar:
+
+19.1- Kamu işletmelerinin, sigorta primi işveren hissesi desteğinden yararlanmaları
+mümkün olmadığından, mahiyet kodu (1) ve (3) olarak tescil edilen veya resmi nitelikte olduğu
+halde mahiyet kodu (2) kodu ile tescil edilmiş olan işyerleri kapsama dahil edilmeyecektir.
+
+19.2- Kapsama giren işletmelerin, 2886 sayılı Devlet İhale Kanunu ile 4734 sayılı Kamu
+İhale Kanunu hükümlerine tabi hizmet ve yapım işlerinin gerçekleştirilmesine yönelik faaliyetleri
+ile özel bina inşaatlarında çalıştırdıkları sigortalılarından dolayı sigorta primi işveren hissesi
+desteğinden yararlanmaları mümkün bulunmamaktadır.
+
+19.3- 5746 sayılı Kanun çeşidi seçilmek suretiyle düzenlenen aylık prim ve hizmet
+belgelerinden dolayı tahakkuk eden işsizlik sigortası primleri hakkında işveren hissesi sigorta primi
+desteği uygulanmayacaktır.
+
+19.4- Kanun kapsamına giren sigortalılar için düzenlenecek aylık prim ve hizmet belgeleri
+için damga vergisi tahakkuk ve tahsil edilmeyecektir.
+
+19.5- İşveren hissesi sigorta prim desteğinden yararlanmak için ay içinde asgari 50 Ar-Ge
+personeli çalıştırma zorunluluğu yalnızca Ar-Ge Merkezleri için geçerli olup, kapsama giren diğer
+işyerlerinde sözkonusu destekten yararlanmak amacıyla asgari 50 tam zamanlı eşdeğer Ar-Ge
+personeli çalıştırma zorunluluğu bulunmamaktadır.
+
+20- Muhasebe İşlemleri:
+
+5746 sayılı Kanun kapsamına giren sigortalılara ilişkin işveren hissesi sigorta primlerinin
+Maliye Bakanlığından karşılanabilmesi amacıyla Muhasebe Servislerince yapılacak olan işlemler,
+Strateji Geliştirme Başkanlığı Bütçe ve Muhasebe Daire Başkanlığınca ayrıca açıklanacaktır.
+
+Bilgi edinilmesini ve gereğinin buna göre yapılmasını rica ederim.

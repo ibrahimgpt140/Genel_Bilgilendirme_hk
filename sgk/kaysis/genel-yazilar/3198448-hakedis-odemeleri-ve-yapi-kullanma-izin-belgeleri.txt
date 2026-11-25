@@ -1,0 +1,94 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/106130
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3198448
+ADI: HAKEDİŞ ÖDEMELERİ VE YAPI KULLANMA İZİN BELGELERİ
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 9a333ffd8a1dd6d3d61a8cb15cbe5cf4b1e849e25e299bcf8575e7811bf8aae9
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C.
+SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+Sigorta Primleri Genel Müdürlüğü
+Asgari İşçilik Daire Başkanlığı
+Sayı : 92708280-206.05-E.3198448 12/06/2017
+Konu : Hakediş ödemeleri ve
+yapı kullanma izin belgeleri
+GENEL YAZI
+
+Bilindiği üzere, Kurum Alacaklarının 7020 sayılı Bazı Alacakların Yeniden
+Yapılandırılması ile Bazı Kanunlarda ve Bir Kanun Hükmünde Kararnamede Değişiklik
+Yapılmasına Dair Kanun kapsamında yapılandırılmasına ilişkin yürütülecek işlemler ile usul ve
+esaslar 07/06/2017 tarihli ve 2017/21 sayılı Genelgede açıklanmıştır.
+
+Kurumumuza olan borçlarını 7020 sayılı Kanun kapsamında yapılandıran borçluların ihale
+makamlarındaki hakediş ödemeleri ile yapı kullanma izin belgesi/teminat iadesi alabilmeleri
+amacıyla düzenlenecek yazılara ilişkin işlemler aşağıda belirtildiği şekilde yapılacaktır.
+
+a) Hakediş ödemelerine ilişkin düzenlenecek yazılar
+
+5510 sayılı Kanunun 90 ıncı maddesinin ikinci fıkrasına göre işverenlerin hakedişleri,
+Kuruma idari para cezası, prim ve prime ilişkin borçlarının bulunmaması kaydıyla ödendiğinden,
+idarelerce, işverenlerin muaccel borcunun olup olmadığının manuel veya elektronik ortamda
+sorgulandığı durumlarda, yeniden yapılandırılan borçlardan dolayı;
+
+-Peşin ödeme yolunu tercih eden borçlular için; yapılandırma kapsamına giren borçların
+tamamının ödenmesi ve kapsama girmeyen muaccel borçlarının da bulunmaması kaydıyla,
+
+-Taksitle ödeme yolunu tercih eden borçlular için; vadesi geçtiği halde ödenmemiş veya
+eksik ödenmiş taksiti ile kapsama girmeyen muaccel borcunun bulunmaması kaydıyla,
+
+hakediş ödemesine esas borcu yoktur yazıları verilecektir.
+
+b) Yapı kullanım izin belgesi/teminat iadesi alabilmek amacıyla yapılan başvurulara
+ilişkin düzenlenecek yazılar
+
+5510 sayılı Kanunun 90 ıncı maddesinin ikinci fıkrasına istinaden, işverenlerin kesin
+teminatları, ihale konusu işle ilgili olarak Kurumumuza borçlarının bulunmadığının tespit
+edilmesinden sonra iade edilmekte, dördüncü fıkrasına göre de, geçici iskân veya yapı kullanım
+izin belgeleri, yapılan inşaat dolayısıyla Kurumumuza borçlarının bulunmadığının tespit
+edilmesinden sonra verilmektedir.
+
+7020 sayılı Kanun kapsamına giren borçlarını peşin veya taksitler halinde ödemek üzere
+başvuruda bulunmuş olan ihale konusu işyeri ve özel nitelikteki inşaat işyeri işverenlerinin,
+kapsama giren borçları ile birlikte kapsama girmeyen diğer borçlarının tamamını ödemeleri
+kaydıyla ilişiksizlik belgesi/teminat iadesi yazısı verilecektir. Ancak, taksitleri düzenli olarak
+ödense dahi, kapsama giren ve girmeyen borçların tamamı ödenmediği sürece söz konusu yazılar
+verilmeyecektir.
+
+Geçici kabulü noksansız olarak yapılmış ihale konusu işler veya bitirilmiş olan özel
+nitelikteki inşaatlar için, gerek yapılandırma kapsamına giren, gerekse girmeyen borçlarını
+karşılayacak miktarda, bankalar ve özel finans kurumlarından alınmış teminat mektuplarının ya da
+Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetlerinin veya bu senetler yerine
+düzenlenen belgelerin teminat olarak verilmesi halinde, yapılandırılmış olan borçların ödenmesi
+beklenilmeden ilişiksizlik belgesi/teminat iade yazısı verilebilecektir.
+
+Süresiz ve kesin banka teminat mektubu veya Devlet iç borçlanma senetleri ya da bu
+senetler yerine düzenlenen belgeleri teminat olarak vererek yapılandırma başvurusunda bulunan ve
+ilişiksizlik belgesi/teminat iade yazısı talep eden işverenlerin ödeme yükümlülüklerinin yerine
+getirilmemesi nedeniyle 7020 sayılı Kanun hükümlerinden yararlanma hakkını kaybedilebileceği
+göz önüne alınarak, talep edilen taksit süresi de dikkate alınarak ilave teminat alınacaktır.
+
+Bu şekilde yapılacak olan başvurular sırasında alınacak olan teminat tutarı ise; kapsama
+giren ve girmeyen borç asıllarına ilişiksizlik belgesinin verileceği tarihe kadar 5510 sayılı Kanunun
+89 uncu maddesine göre hesaplanacak toplam borç üzerinden;
+
+(Taksit süresi)x(Taksitlendirme başvurusunda bulunulan tarihten önceki ay için
+
+gerçekleşmiş DİBS oranı) — (İlave teminat oranı)
+
+(İlave teminat tutarı) > (Toplam borç tutarı) x (İlave teminat oranı) / (100)
+
+(Alınacak toplam teminat) — (Toplam borç tutarı) * (İlave teminat tutarı)
+
+formülü vasıtasıyla hesaplanacaktır.
+
+Bilgi edinilmesini, 7020 sayılı Kanun kapsamına giren borçlarını peşin veya taksitler
+halinde ödemek üzere başvuruda bulunmuş olan borçluların hakediş ödemelerinde "borcu yoktur
+yazısı" ile yapı kullanma izin belgesi/teminat iadelerinde verilen "ilişiksizlik belgesi" işlemlerinin
+yukarıda yer alan açıklamalar doğrultusunda yapılmasını rica ederim.
+
+Dağıtım:
+Gereği:
+Sosyal Güvenlik İl/ Merkez Müdürlüklerine

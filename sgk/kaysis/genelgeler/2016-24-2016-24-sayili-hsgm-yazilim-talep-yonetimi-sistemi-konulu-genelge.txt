@@ -1,0 +1,256 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/83370
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2016/24
+ADI: 2016/24 SAYILI HSGM.YAZILIM TALEP YÖNETİMİ SİSTEMİ KONULU GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: c979e309958c767e2dc6fec91511d6cc902b4b42fe2cf8619a5c8ad7b222e70d
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+T.C. |
+; S GK SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+i emiri Hizmet Sunumu Genel Müdürlüğü |
+;
+|
+Sayı : 50664839-93402-00-E.5745225 26/10/2016
+: Konu : Yazılım Talep Yönetimi Sistemi |
+i
+: GENELGE
+; 2016/24
+i 5502 sayılı Sosyal Güvenlik Kurumu Kanunu ile Kurum merkez ve taşra teşkilâtının her
+i türlü bilişim hizmetlerinin yürütülmesi sorumluluğu Hizmet Sunumu Genel Müdürlüğüne
+; verilmiştir. Kurum hizmetlerinin vatandaşa en kolay, kaliteli, kesintisiz ve güvenli bir şekilde i
+ulaştırılmasını sağlamak ihtiyacı da bu sorumluluğun bir sonucudur. Bu amaçla Kurumumuzun i
+! vermiş olduğu hizmetlerin vatandaşlarımıza elektronik ortamda sunulması adına birçok yazılım |
+: geliştirilmiş olup, bu yazılımların yönetimi ise Hizmet Sunumu Genel Müdürlüğü tarafından
+; yürütülmektedir.
+i Söz konusu yazılımların yönetimi ve kaynak (insan, para, zaman vb.) kullanımında
+; etkinliğin sağlanması, güvenli yazılım geliştirme temel kuralları kapsamında yazılım yaşam |
+| döngüsü süreçlerinin kurallara bağlanması ve bu kurallara bağlı kalınması büyük önem arz !
+: etmektedir. Bu çerçevede gelişen bilişim teknolojilerine uyumlu olarak verilecek hizmetlerin daha ;
+i hızlı, kaliteli, sürdürülebilir, şeffaf, güvenilir olması hedeflenmiştir ve bu hizmetlerin i
+: iyileştirilmesine yönelik güncelleme işlemleri devam etmektedir. |
+i Kurumumuz bünyesinde verilmekte olan hizmetlerin standartlaştırılmış yazılım geliştirme ;
+: süreçleri ile yürütülmesi neticesinde kişi bağımlılığı azalacak, bilgi teknolojisi faaliyetleri daha iyi |
+: izlenebilir hale gelecek, uygulama birliği, şeffaflık, hizmetlerin süratli ve ekonomik bir şekilde ;
+| geliştirilmesi sağlanacak olup hizmet kesintileri ve aksaklıklar azalacaktır. Ayrıca hataların erken
+: tespit edilmesi ve en kısa sürede çözüme kavuşturulması kurumsal olarak etkinliği artıracak ve
+i bunun doğal sonucu olarak da hizmet kalitesi artacaktır. Sistem, karar vericilerin daha sağlıklı j
+! strateji ve politika geliştirilebilmesine imkân verecektir. Hak kaybı, kurum zararı, zaman kaybı gibi |
+i olumsuzlukların mümkün olduğunca az yaşanması sağlanacaktır. ;
+: Yazılım geliştirme süreçlerine ilişkin bu hedeflerin başlangıç noktası “Yazılım Talep |
+; Yönetimi”dir. Bu taleplere ilişkin 27.11.2014 tarihli ve 496 sayılı Merkez Çalışma Yönetmeliğinin İ
+; “Uygulama yazılımlarının eşgüdümü” başlıklı 83 üncü maddesinde “Birimler, görevleri i
+: kapsamında bulunan iş ve işlemlere ilişkin yazılımların hazırlanması için gerekli iş kurallarını
+i oluşturarak Hizmet Sunumu Genel Müdürlüğüne zamanında bildirmekle yükümlüdürler.” ifadesi
+il yer almaktadır. i
+; Yazılım Talep Yönetim Sistemi'nin devreye alınmasıyla hâlihazırda farklı noktalardan,
+j dağınık olarak alınmakta olan yeni yazılım, yazılım güncelleme ve değişiklik talepleri tek noktadan
+; alınmaya başlanacaktır. Böylece yazılım geliştirme faaliyetlerinin dokümante edilmesi, i
+i raporlanması, izlenmesi ve kaynak yönetiminin sağlanması mümkün olacaktır. Birimlerce bu :
+İ talepler tanımlanmış standart süreçler işletilerek iletilecek ve bu sayede yazılım taleplerinin |
+İ yönetiminde standartlaşma sağlanacaktır. ;
+li Bu çerçevede, yazılım taleplerinin elektronik ortamda yapılmasına ilişkin Yazılım Talep ;
+i Yönetimi Sisteminin geliştirme çalışmaları tamamlanmış ve test edilmiş olup, yazılım taleplerinin i
+: yapılmasına ilişkin kullanım kuralları Ek-I1'de belirtilmiştir. Genelge imza tarihinde yürürlüğe ;
+Bu belge, 5070 sayılı Ülekironik Tmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır |
+Ziyabey Cad.No:6 Balga/ANKARA Ayrıntılı bilgi için irtibat: Isa BÜLBÜL $.G. Uzmanı li
+Ni Tel: (312) 20786 89 Faks: (312) 207 85 86 e-posta:ibulbulOsgk.gov.tr Elektronik Ağ: www.sgk.gov.tr i
+j :
+
+i a,
+j
+i | a |
+girecek olup, yürürlük tarihinden itibaren yazılıma ilişkin talepler Yazılım Talep Yönetim Sistemi ;
+i ile alınacaktır. Bu tarihten itibaren e-posta, yazı vb. suretle Hizmet Sunumu Genel Müdürlüğüne
+: intikal eden yazılım talepleri işleme alınmayacaktır.
+Bilgi edinilmesini ve gereğinin tüm birimlerce yukarıdaki açıklamalara göre titizlikle
+; ifasını rica ederim. |
+| i
+İ |
+|
+: ;
+i :
+| |
+; Dr. Mehmet Selim BAĞLI |
+i Kurum Başkanı
+: j
+: ;
+: 1- Yazılım talep yönetimi sistemi süreçleri (2 sayfa) :
+: 2- İş kuralı şablonu (2 sayfa) |
+İ |
+|
+i DAĞITIM: |
+: Gereği: Bilgi:
+i Merkez ve Taşra Teşkilatına Çalışma ve Sosyal Güvenlik Bakanlığına
+|
+|
+İ |
+i :
+i i
+i ;
+| |
+: :
+: i
+| |
+i ;
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır i
+, Ziyabey Cad.No:6 Balga/ANKARA Ayrıntılı bilgi için irtibat: Isa BÜLBÜL S.G. Uzmanı ;
+: Tel: (312) .207 86 89 Faks: (312) 207 85 86 e-posta:ibulbulGsgk.gov.ir Elektronik Ağ: www.sgk.gov.tr :
+i i
+
+i |
+li Yazılım Talep Yönetimi Sistemi Süreçleri ile Rol ve Sorumluluklar: Ek-1 |
+, 1) Kullanıcılar
+
+| Hizmet Sunumu Genel Müdürlüğüne yazılım talebi iletecek birimler için;
+
+; » Talebi oluşturan,
+
+, * Talebi onaylayan
+) olmak üzere 2 rol bulunmaktadır.
+
+i Talebi oluşturan rolü, birimler adına yazılım geliştirme (yeni/değişiklik/hata düzeltme vb.)
+: ihtiyacını “Yazılım Talep Yönetimi Sistemine” giren, ihtiyacı tanımlayan, takibini ve yönetimini |
+; birim adına yapmaya yetkilendirilmiş iş birimi personelidir. |
+: Talebi onaylayan rolü ise talebi giren personelin bağlı olduğu üst yönetici seviyesinde
+: birim amiridir. Birim amiri, Kurumun merkez teşkilatı ana hizmet, danışma ve yardımcı hizmet i
+; birimlerinin yöneticileri ile genel müdürlükler bünyesindeki Genel Müdür, Genel Müdür ;
+: Yardımcıları ve Daire Başkanlarıdır.
+i Taşra teşkilatı yazılım taleplerini Yazılım Talep Yönetimi Sistemi vasıtasıyla iletmeyecek, i
+: mevcut yöntemle iletmeye devam edecektir, :
+i :
+i j
+: 2) Taleplerin Kaydedilmesi
+: Yazılım Talep Yönetimi Sistemine;
+
+i “https://clm.sgk.intra:9443/ccm/web/projects/Talep?620Yönetimi” adresinden erişim yetkisi |
+; olanlar ulaşabilecektir. Talepler, talebi oluşturan rolündeki personel tarafından ihtiyacın özeti, ;
+: tanımı, önceliği, etkisi, ilgili uygulama bilgisi ve varsa kritik bitiş tarihi vb. bilgileri girilir.
+i Değişiklik isteğinin (varsa) yasal gerekçesi kanun ve ikincil mevzuatı detaylı bir şekilde belirtilmek
+
+: suretiyle sisteme kaydedilir. Talebi onaylayacak birim amiri talebi oluşturan rolündeki personel
+i tarafından, ihtiyacın önem düzeyi gözetilerek belirlenir ve uygulamaya girilir. ;
+; Uygulama üzerinde talebin konusu olan değişiklikten elde edilmesi beklenen potansiyel i
+il faydalar ve gerçekleşmemesinin getirdiği riskler (hak kaybı, kurum zararı, zaman kaybı, itibar
+
+! kaybı vb.) belirtilir. Değişiklik bir hatadan kaynaklanıyorsa hatanın başladığı tarih ile tespit edildiği |
+: tarih belirtilmelidir. Tespit tarihinden itibaren gerçekleştirilen işlemler anlatılmalı ve varsa
+li dokümanlar sisteme girilmelidir. j
+Sisteme girilmesi sırasında yazılımdan beklenen işlevsel ihtiyaçların detaylandırıldığı “İş
+i Kuralı” alanı doldurulur. İstenen yeni yazılımın veya değişikliğin amacı, kapsamı ve yazılımdan
+
+! beklenen işlevsel ihtiyaçlar sıralanır. Talebin etkilediği diğer iş alanları da varsa belirtilmelidir.
+i Talebin gerektirdiği istatistiksel ihtiyaçlar öngörülmeli ve tanımlanmalıdır. Bu alanın yeterli :
+olmaması durumunda Ek-2 İş Kuralı Formu doldurulur ve talebe eklenir. “İş Kuralı Eklendi mi?”
+i seçeneği, iş kuralı eklenmesi/eklenmemesi durumunda “Evet” veya “Hayır” olarak işaretlenir ve i
+: “Kaydet” butonuna tıklanarak talep kaydetme adımı tamamlanır. ;
+/ ,
+N :
+| 3) Taleplerin Onaylanması i
+i Talepler, “Talebi Oluşturan” rolündeki personelin uygulama üzerinde tanımlamış olduğu
+: birim amiri tarafından incelendikten sonra onaylanır. Yetkili birim amirince onaylanmamış talepler i
+i işleme alınmaz. ;
+i Talebin tamamlanmasının ardından kapatılabilmesi için ilgili projeden sorumlu personel i
+; tarafından program üzerinde talep kapanış onayı oluşturulur ve talep biriminin “Talebi Onaylayan” :
+; rolündeki birim amiri tarafından talebin istenilen gereksinimleri karşıladığı teyit edilerek onaylanır. ;
+i :
+2 i
+i
+| |
+
+j
+: 4) Taleplerin Değerlendirilmesi
+i Onay sürecini tamamlayan talep, üzerindeki bilgilere göre belirlenen ilgili projeden
+i sorumlu personele (proje yöneticisine) yönlendirilerek talep değerlendirilmesi adımına geçer.
+i Hizmet Sunumu Genel Müdürlüğü tarafından talep ve eklerinde verilen bilgiler değerlendirilir.
+; Talebe ilişkin girilmiş olan bu bilgiler nihai olmayıp, tarafların eşgüdümüyle yapılacak talep
+i değerlendirme sürecinde Hizmet Sunumu Genel Müdürlüğünce gerçekleştirilen teknik
+, değerlendirme ve ilgili paydaşların görüşleri alınmak suretiyle kesinleştirilir. i
+j Talebi değerlendirecek olan teknik personel “Ret, Kabul, ya da Ek Bilgi İste”
+i seçeneklerinden birisiyle talep yapan birime uygulama üzerinden geri bildirim yapar. |
+i 5) Taleplerin Önceliklendirilmesi
+i Kabul edilmiş talepler, talebi yapan birim, Hizmet Sunumu Genel Müdürlüğü ve ilgili i
+! paydaşların katılımı ile yapılan talep değerlendirme toplantılarında değerlendirilir. Talep yapan ,
+i birimler öncelik listesini belirler ve birim amirinin bilgisi dâhilinde öncelik listesini talep
+; değerlendirme toplantılarından önce Hizmet Sunumu Genel Müdürlüğüne iletirler. Talep :
+: değerlendirme toplantılarında Hizmet Sunumu Genel Müdürlüğünce gerçekleştirilen teknik ;
+; değerlendirme de dikkate alınarak önceliklendirmeye son durumu verilir. i
+;
+i 6) Acil Talep |
+j Acil talepler, canlı ortamda yaşanan problem ve hataları düzeltmek, sistem sürekliliği ve |
+; servis erişilebilirliğini sağlamak amacıyla işleyen operasyonları mümkün olan en kısa sürede eski
+i haline getirebilmek için yapılacak değişikliklere ilişkin taleplerdir.
+i Acil değişiklik talebi, canlı ortamda çok sayıda kullanıcının etkilendiği bir problem olması i
+i durumunda ya da hizmetin kısmen veya tamamen verilememesi halinde ortaya çıkar. İş sürecindeki
+; iyileştirme ihtiyaçları veya yasal gereksinimlerden kaynaklanan öncelikli durumlar acil talep i
+i kapsamına girmez. Bu tür değişiklik talepleri için normal yazılım talep prosedürü akışı işletilir. :
+i Acil talepler için normal yazılım talep prosedürü akışı işletilir. Ancak değişikliklerin
+! ivedilikle uygulanabilmesi için talebin kayıt altına alınması, dokümantasyonun yapılması ile
+; gerekli onayların alınması süreçleri, canlı ortama geçiş sonrası hızlı bir şekilde tamamlanır.
+: i
+i 7) Taleplerin İzlenmesi ve Kontrolü |
+; Taleplerin odurum bilgisinin sisteme girilmesi Oproje yöneticisi (personelin i
+i sorumluluğundadır. Sürece ait takip ve raporlama, düzenli olarak bu personel tarafından |
+: gerçekleştirilir. Talep biriminin ilgili personeli Yazılım Talep Yönetimi Sistemi üzerinden birimleri :
+i adına açılmış olan taleplerin tarihçesini, aşamalarını ve dokümantasyonlarını takip eder.
+i
+: 8) Test Süreci ;
+Yazılım geliştirme süreci tamamlanan uygulamanın test edilmesi amacıyla ilgili proje |
+j grubunun talebi üzerine talebi yapan birim de dahil olmak üzere test ekibi görevlendirmesi yapılır. :
+İ Bu ekipteki personelin adları ve test işlemlerinin hedeflenen bitiş tarihi Yazılım Talep Yönetim |
+i Sistemine girilir. Zamanında tamamlanamayan test sürecinde ilgili talep birimi üst düzey yöneticisi ;
+i sistem aracılığı ile bilgilendirilir. |
+; İ
+i 9) Taleplerin Kapatılması i
+l Tamamlanan talepler ilgili projeden sorumlu personel tarafından sistem üzerinde i
+: “Tamamlandı” durumuna getirilir ve ardından talep eden birimin onayına sunulur. Talep biriminin :
+il onayından sonra, sistem üzerinde talebin durumu “Kapatıldı” olarak değiştirilir. ;
+i Uygulama kullanım kılavuzu Yazılım Talep Yönetim Sistemi içerisinde bulunmaktadır. i
+2n i
+;
+i i
+
+(SGK YAZILIM TALEP FORMU
+Sürüm Tarihi ve No | 03.06.2016 / 2.00 Sayfa No
+Birimi Adına Talepte Bulunanın
+Birimi :Bir öğe seçin.
+Alt Birim "Varsa alt biriminizi girmek için buraya tıklayın veya dokunun.
+Adı Soyadı :Adınızı ve soyadınızı girmek için buraya tıklayın veya dokunun.
+Ünvanı :Ünvanınızı girmek için buraya tıklayın veya dokunun.
+Telefon No :Telefon numaranızı girmek için buraya tıklayın veya dokunun.
+E-postası :Kullanıcı adınızı girmek için buraya tıklayın veya dokunun.Dsgk.gov.tr
+Tarih Tarih girmek için tıklayın veya dokunun.
+Talep İle İlgili Bilgiler
+Yazılım Konusu :Metin girmek için buraya tıklayın veya dokunun.
+Uygulama Adı :Biliniyorsa uygulama adını girmek için buraya tıklayın veya dokunun.
+Uygulama Modülü :Biliniyorsa uygulama modülünü girmek için buraya tıklayın veya dokunun.
+İlgili Mevzuat Değişiklik isteğinin (varsa) yasal gerekçesini girmek için buraya tıklayın veya dokunun. Lütfen kanun
+ve ikincil mevzuatı detaylı bir şekilde belirtiniz.
+Düzenleme için (varsa) kritik tarih :Tarih girmek için tıklayın veya dokunun.
+İstenen yeni yazılımın veya değişikliğin amacı, kapsamı, yazılımdan beklenen işlevsel ihtiyaçları detaylı olarak sıralayınız.
+Bu yeniliğin ya da değişikliğin etkilediği diğer iş alanlarını belirtiniz.
+Değişiklik, yetkilendirme, raporlama vb. ihtiyaçları da ayrıca belirtiniz. Yeni yazılım veya yazılım değişikliğinin doğuracağı istatistiksel
+ihtiyaçlar öngörülmeli ve tanımlanmalıdır.
+Metin girmek için buraya tıklayın veya dokunun.
+Risk/Fayda Analizi
+Bu değişiklikten elde edilmesi beklenen potansiyel faydaları ve gerçekleşmemesinin getirdiği riskleri (hak kaybı, kurum zararı, zaman
+kaybı, itibar kaybı vb.) belirtiniz. Değişiklik bir hatadan kaynaklanıyorsa hatanın başladığı tarih ve tespit edildiği tarih belirtilmelidir.
+Tespit tarihinden itibaren gerçekleştirilen işlemler anlatılmalıdır. Metin girmek için buraya tıklayın veya dokunun.
+Not: Yazılım çalışmasını yapan personelin, Yazılım Talep Formunda (Ek belgeler dahil) belirtmediğim seçenekler için inisiyatif
+kullanmasını kabul ediyorum. Yukarıda belirtilen yazılım ile ilgili yapılan tercihler doğrultusunda gerekli geliştirme işlemlerinin
+yapılmasını arz / rica ederim.
+Test Personeli Alan Uzmanı Bilgileri
+Yazılımın analiz, tasarım ve geliştirme aşamalarına katkı sağlayacak Alan uzmanı personel ile tamamlanmasının ardından test işlemlerini
+yürütecek personelini belirtiniz. Yeni satır eklemek için mevcut satırın sonunda bulunan * işaretine tıklayınız.
+Adı Soyadı | —oORol oO| Ünvanı | TelefonNo | E-postası
+Ad Soyad Rol Seçiniz E-posta
+
+( SGK YAZILIM TALEP FORMU
+Sürüm Tarihi ve No | 03.06.2016 / 2.00 Sayfa No
+Talebi Oluşturan Talebi Onaylayan
+Ad Soyad Ad Soyad
+Ünvan Ünvan
+Tarih Tarih
+İmza: İmza:

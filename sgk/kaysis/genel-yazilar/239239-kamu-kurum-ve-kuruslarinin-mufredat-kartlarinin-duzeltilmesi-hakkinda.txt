@@ -1,0 +1,203 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/148816
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 239239
+ADI: KAMU KURUM VE KURUŞLARININ MÜFREDAT KARTLARININ DÜZELTİLMESİ HAKKINDA 04/01/2019 TARİHLİ VE 239239 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 0c6fd333ed6072e5f2c1fc2f35fc99aab105fcf440d392f0a4d61c58fb2423d0
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+> T.C.
+S G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+AZAN Sigorta Primleri Genel Müdürlüğü
+Sayı : 99779835-202.99-E.239239 04/01/2019
+Konu : Kamu kurum ve kuruluşlarının
+müfredat kartlarının düzeltilmesi
+GENEL YAZI
+
+Bilindiği üzere, 9510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştıran işverenlere ilişkin alacakların on-line banka kanalıyla tahsiline
+1/1/2005 tarihinden itibaren geçilmiştir. Bu tarihten önce yapılan tahsilatların off-line olarak
+yapılması nedeniyle sigorta primi, işsizlik sigortası primi, eğitime katkı payı ve özel işlem vergisi
+tahsilatları kullanıcılar tarafından aktarılmıştır.
+
+Bu aktarımlar sırasında tahsil edilen paraların tamamı kimi zaman sigorta primine kimi
+zaman işsizlik sigortası primine ya da eğitime katkı payı/özel işlem vergisine aktarılmıştır.
+
+Örnek: 1.1487.01.01.1000125.006.04-47 sicil sayılı dosyada Devlet Demiryolları İşletmesi
+Genel Müdürlüğü adına tescilli bir işyerinin borç durumu aşağıdaki gibidir;
+
+2000/01 Prim: 3.000,00 EKP: 1,00 ÖİV: 1,00
+
+2000/02 Prim: 3.000,00 EKP: 1,00 ÖİV: 1,00
+
+2000/03 Prim: 3.000,00 EKP: 1,00 ÖİV: 1,00
+
+Maliyeden söz konusu işyeri için 9.006,00TL tahsilat gelmiş ve söz konusu tahsilat 2000/01.
+ay prim tahakkukuna işlenmiştir. Bu durumda, işyerinin dönemsel borç durumu,
+
+2000/01 Prim: -6.006,00 EKP: 1,00 ÖİV: 1,00
+
+2000/02 Prim: 3.000,00 EKP: 1,00 ÖİV: 1,00
+
+2000/03 Prim: 3.000,00 EKP: 1,00 ÖİV: 1,00
+olacak ve dönemsel borç sorgulamalarımızda işyerinin 2000/01. ay EKP ve ÖİV borcu ile 2000/02
+ve 2000/03. ay borçları görünmeye devam edecektir. İşyerinin bakiyesi ise Prim yönüyle -6,00 TL
+kırmızı bakiye verirken, EKP 3,00 TL borç bakiye ve ÖİV 3,00 TL borç bakiye verecektir.
+
+Diğer taraftan, devir bakiyelerinin tutmaması, devir aşamasında kartuş yüklenmemesi, dönem
+borç bakiyeleri ile müfredat kart bakiyelerinin uyumsuz olması gibi programsal hatalardan dolayı,
+ya da 16/244, 16/259, 16/298, 4958 gibi taksitlendirmeler adına alınan tahsilatların tek dönemde
+toplanmış olması, icradan tahsil edilmiş olmasına rağmen tahsil edilen tutarların icra
+dönemlerinden tek döneme işlenmiş olması, 1900/1 dönemden çıkılan tutarlar, donmuş prim olarak
+görünen borç tutarları, Maliye Saymanlıklarınca kamu işyerleri adına tek dosyaya gönderilen
+ödemeler, alt taşeronlara ait ödemelerin ana firmanın hesaplarına işlenmesi, hisseli olarak icra 48.
+madde taksiti ya da yapılandırma yapıldığında işveren tarafından yatırılan tutarların tek bir aya
+mahsup edilmesi, yapılandırma taksitine yatırılması veya işlenmesi gerekirken sehven cari ay
+ödemelerine işlenmiş tutarların olması gibi kullanıcı kaynaklı hatalardan dolayı işveren müfredat
+kartları eksi (-) bakiye vermektedir.
+
+Örnek: Devlet Demiryolları İşletmesi Genel Müdürlüğü adına tescilli üç işyerinin
+2001/Ocak dönemine ilişkin borç durumu aşağıdaki gibidir;
+
+1.1487.01.01.1000125.006.04-47 sicil sayılı dosyada 3.700,00 TL
+
+1.1257.01.01.1010127.006.04-22 sicil sayılı dosyada 4.000,00 TL
+
+1.2487.01.01.0007125.006.04-44 sicil sayılı dosyada 2.000,00 TL
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyazi CEYLAN Şef
+Tel: (0312) 4587131 Faks: (0312)4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posta : isverenlerPrimDB©sgk.gov.tr
+LOGO
+
+Maliyeden söz konusu işyeri için 9.700,00 TL tahsilat gelmiş ve söz konusu tahsilat
+1.1487.01.01.1000125.006.04-47 sicil sayılı dosyanın 2001/Ocak ayı tahakkukuna işlenmiştir. Bu
+durumda, tahsilatın işlendiği 1.1487.01.01.1000125.006.04-47 sicil sayılı dosya 6.000,00 TL (-)
+kırmızı bakiye vermekte, diğer iki dosyada ise borçlar görünmeye devam etmektedir.
+
+1.1487.01.01.1000125.006.04-47 sicil sayılı dosyada -6.000,00 TL
+
+1.1257.01.01.1010127.006.04-22 sicil sayılı dosyada 4.000,00 TL
+1.2487.01.01.0007125.006.04-44 sicil sayılı dosyada 2.000,00 TL
+
+Yine bilindiği üzere, 5510 sayılı Kanunun "prim ödeme yükümlüsü" başlıklı 87 nci
+maddesinde; " Bu Kanunun uygulanmasında kısa ve uzun vadeli sigorta kolları ile genel sağlık
+sigortası ve isteğe bağlı sigorta bakımından;
+
+a) 4 üncü maddenin birinci fıkrasının (a) ve (c) bentlerine ve 5 inci maddenin (a) bendine
+tabi olanlar için bunların işverenleri,
+
+prim ödeme yükümlüsüdür."
+
+Aynı Kanunun "primlerin ödenmesi" başlıklı 88 inci maddesinin birinci fıkrasında, "4 üncü
+maddenin birinci fıkrasının (a) bendinde belirtilen sigortalıları çalıştıran işveren, bir ay içinde
+çalıştırdığı sigortalıların primlerine esas tutulacak kazançlar toplamı üzerinden bu Kanun gereğince
+hesaplanacak sigortalı hissesi prim tutarlarını ücretlerinden keserek ve kendisine ait prim tutarlarını
+da bu tutara ekleyerek en geç Kurumca belirlenecek günün sonuna kadar Kuruma öder."
+
+hükümleri yer almaktadır.
+
+5510 sayılı Kanundaki bu düzenlemelere göre 4/a kapsamında sigortalı çalıştıran kamu
+kurum ve kuruluşları çalıştırdıkları işçilerin primlerini süresinde ödemek zorundadırlar.
+
+Kurum alacaklarımızın tahsilat etkinliğinin artırılmasına yönelik yapılan değerlendirmelerde
+bazı kamu işverenlerinin sigorta primi, idari para cezası, işsizlik sigortası primi borcunun olduğu
+tespit edilmiş ve 9/11/2017 tarihli, 5666386 sayılı Genel Yazı ile kamu işyerlerine ilişkin
+alacaklarımızın dönem bazında kontrolünün yapılmasını müteakip borcu bulunan kamu kurum ve
+kuruluşlarına güncel borçların ödenmesi yönünde ödemeye çağrı mektubunun gönderilmesi sosyal
+güvenlik il müdürlüklerimize talimatlandırılmıştır.
+
+Ancak söz konusu genel yazı uyarınca kamu kurumlarına ödemeye çağrı mektubunun
+gönderilmesi neticesinde birçok kamu kurumu tarafından sistemde borç olarak görüntülenen
+dönemlere ilişkin dekontların ibraz edildiği ve ibraz edilen dekontların bir kısmının emanet
+hesaplarda bulunmasına rağmen bir kısmının emanet hesaplarda da bulunamadığı anlaşılmıştır.
+
+Yine 2017 Yılı Sayıştay Denetim Raporunun “İşyeri Hesabı Cari Kartlarında Tahakkuku
+Olmayan Tahsilatlar Bulunması” başlıklı 47 numaralı bulgusunda;
+
+Prim yükümlülüklerinin tespitinde asıl kaynak olarak kullanılan işveren sistemi üzerindeki
+işyeri hesabı cari kartlarında tahakkuku olmayan tahsilatlar bulunması nedeniyle cari hesap
+kartlarının alacak (kırmızı) bakiye verdiği tespit edilmiş ve prim yükümlülüklerinin tespitinde asıl
+kaynak olarak kullanılan işyeri hesabı cari kartlarının güncellenmesi amacıyla, tahakkuku
+bulunmayan tahsilatlar nedeniyle alacak (kırmızı) bakiye veren işyeri dosyalarının incelenerek
+hatalı kayıtların nedenlerinin belirlenmesi ve düzeltici işlemlerin yapılması gerektiği
+değerlendirilmiştir.
+
+Buna göre, Kurum Başkanlık Makamının 17/12/2018 tarihli, 17267978 sayılı OLUR”una
+istinaden, kamu işyerlerine ilişkin kırmızı ve siyah bakiyelerde gerekli düzeltmelerin yapılabilmesi
+amacıyla terkin işlemine yer vermeyecek şekilde,
+
+- 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, (1) sayılı cetvelde yer alan
+“Genel Bütçe Kapsamındaki Kamu İdareleri” için;
+
+Dekont ibrazına gerek kalmaksızın kırmızı siyah bakiye kontrollerinin yapılarak, öncelikle
+kırmızı bakiye veren işveren dosyalarından alacak bakiye tutarlarının çıkılması ve çıkılan tutarların
+Prim Tahakkuk ve Tahsilat memuru/şefi rolü ile MOSİP sisteminden aynı işverenin siyah (borç)
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyazi CEYLAN Şef
+Tel: (0312) 4587131 Faks: (0312)4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posta : isverenlerPrimDB©sgk.gov.tr
+LOGO
+
+bakiye veren dosyalarına aktarımının sağlanması,
+
+Aktarımın tamamlanmasının ardından alacak bakiye tutarlarının yetmediği durumlarda siyah
+bakiyeler için öncelikle MOSİP sistemine eski SSK muhasebe sisteminden devredilen ve MOSİP
+sisteminde ilgili kurum işveren sicil numarası, vergi numarası veya Maliye adına kayıtlı
+emanetlerin taranması ve emanet hesaplarda bekleyen kayıtlı genel emanet ile kapatılması, bunun
+da yetmediği durumlarda İl Müdürlüğünüz veya Kurumumuz 7750409374 vergi no üzerinde
+geçmiş dönemden devir alınan mahiyeti belirsiz emanet tutarlarının kullanılması, o borcun
+kapanmadığı durumlarda ise gelirlerden red ve iade yapılarak borçların kapatılması gerekmekte
+olup, bu kapsamdaki işyerlerine ilişkin düzeltme ve aktarım işlemleri Strateji Geliştirme
+Başkanlığı, Hizmet Sunumu Genel Müdürlüğü ve Sigorta Primleri Genel Müdürlüğünce
+gerçekleştirilen çalışmalar neticesinde merkezden yapılacaktır.
+
+Ancak, söz konusu çalışmalar tamamlanıncaya kadar, 5018 sayılı Kamu Mali Yönetimi ve
+Kontrol Kanunu, (1) sayılı cetvelde yer alan Genel Bütçe Kapsamındaki Kamu İdarelerinden
+gerekli düzeltmelerin yapılması yönünde müracaat eden işverenlerimizin işlemleri sosyal güvenlik
+il müdürlüklerince de yapılabilecektir.
+
+Kurum ve kuruluşların (işyerlerinin) 5018 sayılı Kanunun eki (1) sayılı cetvele (genel bütçe
+kapsamındaki kuruluşlar içine) girip girmediği hususundaki sorularına ilişkin başvuru mercii
+Maliye Bakanlığı olduğundan belirtilen hususlarda ilgili kuruma müracaat edilmesi gerekmektedir.
+
+-() sayılı cetvelde sayılanların dışında kalan diğer kamu işyerleri için;
+
+Dekont ibrazına istinaden yapılan inceleme neticesinde borçların tahsil edildiğinin
+anlaşılması halinde kırmızı siyah bakiye kontrollerinin yapılarak, öncelikle kırmızı bakiye veren
+işveren dosyalarından alacak bakiye tutarlarının çıkılarak aynı işverenin siyah (borç) bakiye veren
+ve dekont ibraz edilen dosyalarına aktarımının sağlanması,
+
+Aktarımın tamamlanmasının ardından dekont ibraz edilen dönemler için alacak bakiye
+tutarlarının yetmediği durumlarda dekontta yazılı tutarı geçmemek üzere, öncelikle MOSİP
+sistemine eski SSK muhasebe sisteminden devredilen genel emanet ile kapatılması, yetmezse
+gelirlerden ret ve iade yapılarak borçların kapatılması, gerekmektedir.
+
+Kamu kurum ve kuruluşlarının müfredat kartları düzeltilmeden ilgili dönemlerin borçları
+icraya intikal ettirilmiş olması halinde, bu işyerleri yönünden de prim tahakkuk ve tahsilat
+servislerince müfredat kartlarının düzeltme işlemleri yukarıda belirtildiği şekilde yapılacaktır. 5018
+sayılı Kamu Mali Yönetimi ve Kontrol Kanunu (1) sayılı cetvelde yer alan genel bütçe
+kapsamındaki kamu idareleri yönünden açılmış icra takipleri, müfredat kartlarının düzeltilmesi
+sonucu prim tahakkuk ve tahsilat servislerince düzeltilen dönemler için icra takip dosyalarının
+iptalinin yapılmasına yönelik icra takip haciz servislerine mucip yazılacaktır. Buna göre, icra takip
+haciz servislerince de icra programından icra dosyalarının dönem iptalleri yapılarak icra takip
+dosyaları işlemden kaldırılacaktır.
+
+Diğer taraftan 5018 sayılı Kanunun (1) sayılı cetvelde sayılanların dışında kalan diğer kamu
+işyerleri için prim tahakkuk ve tahsilat servislerince gerekli düzeltmeler yapılması sonucu tahsil
+edilmiş dönemlerin icradan iptal edilmesi yönünde icra takip haciz servislerine mucip yazılması
+halinde icra takip dosyasından sadece ilgili tahsil edilmiş dönemlerin iptali yapılacaktır.
+
+İcra takibine konu olan yukarıda belirtilen kamu kurum ve kuruluşların borçları ile ilgili
+icra takip dosyasında dekont bulunması ve daha önce ödeme düzeltme belgesi düzenlenmemiş
+olması halinde ise ilgili dekont ödeme düzeltme belgesi ekinde prim tahakkuk ve tahsilat
+servislerine gönderilecektir.
+
+Bilgilerini rica ederim.
+
+Savaş ALIÇ
+Genel Müdür V.

@@ -1,0 +1,742 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/208912
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 139219762
+ADI: GÜNEŞ VE RÜZGÂR ENERJİSİ SANTRALİ İNŞAATLARINDA ASGARİ İŞÇİLİK UYGULAMASI HAKKINDA 20.04.2026 TARİHLİ VE 139219762 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 4b12d9dc72925b3875c61d1dfb449de34cc25bf4c9ec17fb20cf736ecc4d9c2b
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                                                                                  7
+                                                                                                                92
+                                                           T.C.
+                                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                            Sigorta Primleri Genel Müdürlüğü
+
+
+
+
+                                                                                                              67
+     Sayı     : E-66454725-206.05.02-139219762                                                                               20.04.2026
+
+
+
+
+                                                                                                           05
+     Konu     : Güneş ve Rüzgâr Enerjisi Santrali
+                İnşaatlarında Asgari İşçilik Uygulaması
+
+
+
+
+                                                                                                         -1
+                                                              GENEL YAZI
+
+              1-GİRİŞ
+
+
+
+
+                                                                                          78
+              Bilindiği üzere, 5510 sayılı Kanun'un 85'inci maddesinin ikinci fıkrası, Sosyal Sigorta İşlemleri
+     Yönetmeliği'nin (SSİY) 110, 111 ve 112'nci maddeleri ile 2011/13 sayılı Genelge'de yer alan usul ve
+
+
+
+
+                                                                                        27
+     esaslar çerçevesinde; kamu idareleri, döner sermayeli kuruluşlar, kanunla kurulan kurum ve kuruluşlar ile
+     bankalar tarafından ihale mevzuatına göre yaptırılan işler ile özel nitelikteki inşaat işlerinde yeterli işçilik
+     bildirilip bildirilmediğinin Kurumca araştırılması gerekmektedir.
+
+
+
+
+                                                                                 79
+              Bu kapsamda, özel nitelikteki inşaat işlerine ilişkin asgari işçilik araştırmalarının, ruhsat vermeye
+     yetkili idarelerce düzenlenen yapı ruhsatlarında yer alan toplam yapı inşaat alanı ile yapı sınıf ve grubu
+     üzerinden ünitece sonuçlandırılması esastır.                           56
+              Ancak, Güneş Enerjisi Santrali (GES) ve Rüzgâr Enerjisi Santrali (RES) inşaatlarının kendine özgü
+     teknik yapısı nedeniyle, imar mevzuatında bu yapılar için uzun süre belirgin ve standart bir "yapı inşaat
+                                                                  10
+     alanı" tanımının bulunmaması, ruhsatta yer alan bilgilerin Kurumumuz işlemlerine doğrudan esas
+     alınmasına engel teşkil etmiş ve asgari işçilik hesabına esas maliyetin Sosyal Güvenlik Denetmenlerince
+     yapılacak inceleme yoluyla tespit edilmesini zorunlu kılmıştır.
+                                                        8-
+
+
+              Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Planlı Alanlar İmar Yönetmeliği'nin 5'inci
+     maddesinde yapılan düzenlemeler uyarınca, söz konusu tesislerin yapı inşaat alanı hesaplamaları,
+                                                 77
+
+
+
+
+     tereddüde yer bırakmayacak şekilde nesnel ve standart bir yönteme bağlanmıştır. Bu kapsamda anılan
+     Yönetmeliğin 5'inci maddesine;
+              -GES Yapıları Bakımından: 12.05.2023 tarihli ve 32188 sayılı Resmî Gazete'de yayımlanan
+                                          92
+
+
+
+
+     değişiklikle eklenen otuz birinci fıkrada, "Güneş kaynaklı yenilenebilir enerji sistemlerinin yapı inşaat
+     alan hesabında, fotovoltaik panelleri taşımak amacıyla yapılan çerçeve/konstrüksiyon imalatının dış
+                                  67
+
+
+
+
+     ölçüleri içinde kalan alanın yatay izdüşümü dikkate alınır."
+              -RES Yapıları Bakımından: 11.03.2025 tarihli ve 32838 sayılı Resmî Gazete'de yayımlanan
+     değişiklikle eklenen otuz üçüncü fıkrada, "Rüzgâr kaynaklı yenilenebilir enerji sistemlerinin yapı inşaat
+                           05
+
+
+
+
+     alan hesabında; rüzgâr türbinlerinin tabi veya tesviye edilmiş zemin altı dâhil temel alanı ile kulenin
+     yüzey alanı toplamı dikkate alınır."
+                   -1
+
+
+
+
+              hükümlerine yer verilmiştir.
+              İmar mevzuatında yapılan söz konusu düzenlemelerle güneş ve rüzgâr kaynaklı yenilenebilir enerji
+     sistemlerinin yapı inşaat alanının hesaplanmasına ilişkin usul ve esaslar netleşmiş; bu durum, asgari işçilik
+     araştırmalarında yapı ruhsatında yer alan toplam yapı inşaat alanı ile yapı sınıf ve grubu bilgilerinin
+            78
+
+
+
+
+     doğrudan esas alınmasına imkân sağlamıştır.
+              Bu nedenle, söz konusu özel nitelikteki inşaat işlerinde yapılacak asgari işçilik işlemlerinde,
+     27
+
+
+
+
+     SSİY'nin 111'inci maddesinde öngörüldüğü üzere doğrudan ruhsat verilerinin esas alınması yöntemine
+     dönülmesinin, gereksiz emek ve zaman kaybının önüne geçilerek Kurum kaynaklarının daha etkin
+     kullanılması bakımından gerekli olduğu değerlendirilmiştir. Nitekim, Genel Müdürlüğümüze intikal eden
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      1/6
+                                                                                                                  7
+                                                                                                                92
+     talimat talepleri bu esaslar doğrultusunda sonuçlandırılmaktadır. Ayrıca, uygulama birliğinin sağlanması
+     amacıyla Asgari İşçilik Daire Başkanlığınca video konferans yoluyla düzenlenen eğitimlerde, ruhsat
+
+
+
+
+                                                                                                              67
+     verilerinin doğrudan esas alınmasına yönelik usul ve esaslar hakkında taşra teşkilatında görevli personele
+     bilgilendirme yapılmıştır.
+             Buna rağmen, uygulamada halen;
+
+
+
+
+                                                                                                           05
+             -Asgari işçilik hesaplamalarında yapı ruhsatı verilerinin esas alınması yönteminde uygulama
+     birliğinin sağlanamadığı,
+             -Yalnızca şalt sahası, trafo binası, idari bina, bekçi kulübesi ve zemin işleri gibi sınırlı alanlar
+
+
+
+
+                                                                                                         -1
+     dikkate alınarak işlem tesis edilmeye devam edildiği,
+             -Somut olayın özellikleri dikkate alınmaksızın, yersiz şekilde maliyet tespiti amacıyla denetime
+     sevk işlemi yapıldığı,
+
+
+
+
+                                                                                          78
+             -Asgari işçilik hesabında esas alınan yüzölçümü ile yapı ruhsatında yer alan toplam yapı inşaat
+     alanı bilgilerinin uyumsuzluğu nedeniyle düzenlenen ilişiksizlik belgelerinin, işverenlerin yapı kullanma
+
+
+
+
+                                                                                        27
+     izin belgesi alma süreçlerinde sorunlara yol açtığı,
+             tespit edilmiştir.
+             Bu itibarla; söz konusu aksaklıklarının giderilmesi, imar mevzuatında yapı inşaat alanı tanımlarına
+
+
+
+
+                                                                                 79
+     ilişkin yapılan düzenlemelerin asgari işçilik araştırma süreçlerinde eksiksiz şekilde uygulanmasının
+     sağlanması amacıyla, özel nitelikteki GES ve RES inşaatlarına ilişkin asgari işçilik araştırma işlemlerinde
+                                                                            56
+     Sosyal Güvenlik İl Müdürlüklerince/Sosyal Güvenlik Merkezlerince bu Genel Yazı'da belirtilen usul ve
+     esaslar doğrultusunda işlem tesis edilmesi gerekmektedir.
+             2- GES VE RES İNŞAATLARINDA ASGARİ İŞÇİLİK UYGULAMA ESASLARI
+                                                                  10
+             Bu Genel Yazı'da yer verilen düzenlemeler, lisanslı veya lisanssız ayrımı gözetilmeksizin sadece
+     özel nitelikteki GES ve RES inşaat işlerini kapsamakta olup kamu idareleri, döner sermayeli kuruluşlar,
+     kanunla kurulan kurum ve kuruluşlar ile bankalar tarafından ihale mevzuatına göre yaptırılan GES ve RES
+                                                        8-
+
+
+     inşaatları bu Genel Yazı'nın kapsamı dışındadır.
+             Kapsama giren özel nitelikteki GES ve RES inşaatlarına ilişkin asgari işçilik araştırmaları, yapı
+     ruhsatının düzenlendiği tarih ile asgari işçilik hesabında aranacak veri mevcudiyeti dikkate alınarak
+                                                 77
+
+
+
+
+     aşağıda belirtilen koşullar çerçevesinde yürütülecektir.
+             2.1- Yapı Ruhsatı Verileri Esas Alınmak Suretiyle Maliyet Tespiti
+                                          92
+
+
+
+
+             GES inşaatları için 12.05.2023 tarihinden itibaren, RES inşaatları için 11.03.2025 tarihinden
+     itibaren (ancak her hâlükârda inşaat fiilen tamamlanmadan önce) düzenlenmiş olmak kaydıyla; inşaata
+     başlanmadan evvel veya ruhsatsız başlanmış olmakla birlikte inşaatın devamı esnasında alınan ilk yapı
+                                  67
+
+
+
+
+     ruhsatları ile inşaatın devamı esnasında alınan yenileme ya da tadilat ruhsatları kapsamında yürütülerek
+     tamamlanan inşaat işlerinde, söz konusu ruhsatlarda yer alan toplam yapı inşaat alanının, imar
+                           05
+
+
+
+
+     mevzuatındaki yeni alan tanımları ve hesaplama usullerine uygun olduğu kabul edilecektir.
+             Belirtilen tarih koşulunu sağlayan (ilk veya yenileme/tadilat ruhsatlı) işlere ait asgari işçilik
+     araştırma işlemleri, maliyet tespiti amacıyla Sosyal Güvenlik Denetmenlerine sevk edilmeksizin, geçerli
+                   -1
+
+
+
+
+     ruhsatta kayıtlı toplam yapı inşaat alanı ile yapı sınıf ve grubu esas alınmak suretiyle ünitece
+     sonuçlandırılacaktır.
+             Örnek 1- 10.08.2023 tarihinde yapı ruhsatı düzenlenen, 20.08.2023 tarihinde yapımına başlanan ve
+          78
+
+
+
+
+     15.04.2024 tarihinde tamamlanan GES inşaatına ait ruhsatta, toplam yapı inşaat alanının 15.000 m²
+     (fotovoltaik panelleri taşıyan konstrüksiyon izdüşüm alanı, trafo ve idari bina dâhil) olarak belirtildiği
+     varsayıldığında;
+     27
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      2/6
+                                                                                                                  7
+                                                                                                                92
+             Yapı ruhsatının GES inşaatları için öngörülen 12.05.2023 tarihinden sonra (10.08.2023 tarihinde)
+     düzenlenmiş bulunması nedeniyle, asgari işçilik araştırma işlemi, 15.000 m²'lik toplam yapı inşaat alanı ile
+
+
+
+
+                                                                                                              67
+     ruhsatta kayıtlı yapı sınıf ve grubu esas alınarak ünitece sonuçlandırılacaktır.
+             Örnek 2- 20.04.2025 tarihinde yapı ruhsatı düzenlenen, 01.05.2025 tarihinde yapımına başlanan ve
+     10.12.2025 tarihinde tamamlanan RES inşaatına ait ruhsatta, toplam yapı inşaat alanının 4.500 m² (4.400
+
+
+
+
+                                                                                                           05
+     m² RES türbin inşaat alanı, 100 m² şalt sahası) olarak belirtildiği varsayıldığında;
+             Yapı ruhsatının RES inşaatları için öngörülen 11.03.2025 tarihinden sonra (20.04.2025 tarihinde)
+
+
+
+
+                                                                                                         -1
+     düzenlenmiş olması nedeniyle, asgari işçilik araştırma işlemi, 4.500 m²'lik toplam yapı inşaat alanı ile
+     ruhsatta kayıtlı yapı sınıf ve grubu esas alınarak ünitece sonuçlandırılacaktır.
+             Örnek 3- Yapımına 15.02.2024 tarihinde başlanan, inşaata başlandıktan üç ay sonra 15.05.2024
+     tarihinde yapı ruhsatı düzenlenen ve 20.08.2025 tarihinde tamamlanan GES inşaatına ait ruhsatta, toplam
+
+
+
+
+                                                                                          78
+     yapı inşaat alanının 20.000 m² (19.885 m² fotovoltaik panelleri taşıyan konstrüksiyon izdüşüm alanı, 55 m²
+     idari bina, 45 m² trafo binası ve 15 m² bekçi kulübesi) olarak belirtildiği varsayıldığında;
+
+
+
+
+                                                                                        27
+             Asgari işçilik hesaplamalarında tesisin teknik bütünlüğü esas olduğundan, araştırmanın yalnızca
+     idari bina, trafo ve bekçi kulübesinden oluşan 115 m²'lik sınırlı alan üzerinden yürütülmesi yönündeki
+     talepler kabul edilmeyecektir. Yapı ruhsatının 12.05.2023 tarihinden sonra (15.05.2024 tarihinde)
+
+
+
+
+                                                                                 79
+     düzenlenmiş olması nedeniyle, araştırma işlemi, 20.000 m²'lik toplam alan ile ruhsatta kayıtlı yapı sınıf ve
+     grubu üzerinden ünitece sonuçlandırılacaktır.
+                                                                            56
+             Örnek 4- 10.01.2022 tarihinde ilk yapı ruhsatı düzenlenen ve 15.03.2022 tarihinde yapımına
+     başlanan GES inşaatına ait ilk ruhsatta, toplam yapı inşaat alanının 400 m² olarak belirtildiği, inşaat devam
+     ederken 25.08.2023 tarihinde alınan tadilat ruhsatı ile toplam yapı inşaat alanının 36.000 m² olarak
+                                                                  10
+     güncellendiği ve inşaatın 30.11.2023 tarihinde tamamlandığı varsayıldığında;
+             Tesisin teknik verilerini imar mevzuatındaki yeni alan tanımlarına uyumlu hale getiren tadilat
+     ruhsatının, GES inşaatları için öngörülen 12.05.2023 tarihinden sonra (25.08.2023 tarihinde) ve inşaatın
+                                                        8-
+
+
+     fiilen tamamlandığı tarihten önce (30.11.2023) düzenlenmiş olması nedeniyle, ilk ruhsatın düzenlenme
+     tarihine bakılmaksızın söz konusu tadilat ruhsatı dikkate alınarak işlem yapılacaktır. Bu doğrultuda asgari
+     işçilik araştırma işlemi, maliyet tespiti amacıyla denetim birimine sevk işlemi yapılmaksızın; 36.000 m²'lik
+                                                 77
+
+
+
+
+     toplam yapı inşaat alanı ile tadilat ruhsatında kayıtlı yapı sınıf ve grubu esas alınmak suretiyle ünitece
+     sonuçlandırılacaktır.
+                                          92
+
+
+
+
+             2.2- Denetim Marifetiyle Yapılacak Maliyet Tespiti
+             GES inşaatları için 12.05.2023, RES inşaatları için 11.03.2025 tarihlerinden önce düzenlenmiş ilk
+     yapı ruhsatları kapsamında yürütülen ve inşaatın devamı esnasında imar mevzuatındaki yeni alan
+                                  67
+
+
+
+
+     tanımlarına uygun (bu tarihler ve sonrasında düzenlenmiş) geçerli bir yenileme veya tadilat ruhsatı
+     alınmayan inşaatlara ait dosyalar, doğrudan ünitece sonuçlandırılamayacağından, inşaat maliyetinin tespiti
+                           05
+
+
+
+
+     amacıyla Sosyal Güvenlik Denetmenlerine sevk edilecektir.
+             Söz konusu denetimler neticesinde düzenlenecek raporlarda, mevcut ruhsatta yer alan eksik veya
+     sınırlı alan verilerine bağlı kalınmaksızın, asgari işçilik hesabına esas maliyet bedeli tesisin teknik
+                   -1
+
+
+
+
+     bütünlüğü dikkate alınarak tespit edilecektir.
+             Örnek 5- 01.03.2022 tarihinde yapı ruhsatı düzenlenen ve 10.04.2022 tarihinde yapımına başlanan
+     GES inşaatında, inşaat süresince herhangi bir tadilat ruhsatı alınmadığı ve inşaatın 15.08.2024 tarihinde
+          78
+
+
+
+
+     tamamlandığı varsayıldığında;
+             Yapı ruhsatının GES inşaatları için öngörülen 12.05.2023 tarihinden önce (01.03.2022 tarihinde)
+     27
+
+
+
+
+     düzenlenmesi ve inşaat süresince yeni alan tanımlarına uygun bir tadilat ruhsatı alınmaması nedeniyle,
+     dosya, maliyet tespiti amacıyla Sosyal Güvenlik Denetmenlerine sevk edilecektir.
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      3/6
+                                                                                                                  7
+                                                                                                                92
+             Örnek 6- 05.01.2024 tarihinde yapı ruhsatı düzenlenen, 15.01.2024 tarihinde yapımına başlanan ve
+     20.10.2025 tarihinde tamamlanan RES inşaatına ait ruhsatta, alan bilgisinin sadece türbin temel alanı, şalt
+
+
+
+
+                                                                                                              67
+     sahası ve bekçi kulübesi olmak üzere toplam 550 m² olarak sınırlı şekilde gösterildiği varsayıldığında;
+             İşverenin asgari işçilik hesaplamasının sadece bu sınırlı alanlar üzerinden yapılması yönündeki
+     talebi reddedilecek olup, yapı ruhsatının RES inşaatları için öngörülen 11.03.2025 tarihinden önce
+
+
+
+
+                                                                                                           05
+     (05.01.2024 tarihinde) düzenlenmiş olması nedeniyle, dosya, maliyet tespiti amacıyla Sosyal Güvenlik
+     Denetmenlerine sevk edilecektir.
+
+
+
+
+                                                                                                         -1
+             2.3- Yapımı Tamamlandıktan Sonra Ruhsatlandırılan GES ve RES İnşaatları
+             Yapı ruhsatı bulunmaksızın yapımı tamamlanan, ancak daha sonra ilgili idarelerce ruhsatlandırılan
+     GES ve RES inşaatlarında, asgari işçilik araştırmasının ünitece yapılabilmesi için;
+             -Yapı ruhsatının GES inşaatları için 12.05.2023, RES inşaatları için 11.03.2025 tarihleri ve
+
+
+
+
+                                                                                          78
+     sonrasında düzenlenmiş olması,
+             -Asgari işçilik hesabında esas alınacak yıl için ilgili yapı sınıf ve grubuna ait yapı yaklaşık birim
+
+
+
+
+                                                                                        27
+     maliyet bedelinin yayımlanmış olması,
+             koşullarının birlikte gerçekleşmesi gerekmektedir.
+             Bu iki koşulun birlikte sağlanması halinde araştırma işlemi, ruhsatın inşaatın tamamlandığı tarihten
+
+
+
+
+                                                                                 79
+     sonra alındığı üzerinde durulmaksızın ruhsatta kayıtlı toplam yapı inşaat alanı ile yapı sınıf ve grubu esas
+     alınmak suretiyle ünitece sonuçlandırılır. Koşullardan herhangi birinin veya her ikisinin birlikte
+                                                                            56
+     sağlanmaması durumunda ise asgari işçilik araştırmasına esas maliyet tespiti Sosyal Güvenlik
+     Denetmenleri marifetiyle yapılır.
+             Örnek 7- 15.03.2024 tarihinde yapımına başlanıp 30.04.2025 tarihinde tamamlanan GES inşaatına
+                                                                  10
+     ilişkin yapı ruhsatının 19.02.2026 tarihinde düzenlendiği ve ruhsatta yapı sınıf ve grubunun I-D olarak
+     belirtildiği varsayıldığında;
+             Yapı ruhsatı GES inşaatları için öngörülen 12.05.2023 tarihinden sonra (19.02.2026 tarihinde)
+                                                        8-
+
+
+     düzenlenerek birinci koşul sağlanmış olsa da, esas alınacak 2024 yılı Tebliğinde I-D yapı sınıf ve grubu
+     için yayımlanmış bir maliyet bedelinin bulunmaması (ikinci koşulun gerçekleşmemesi) nedeniyle, dosya
+     maliyet tespiti amacıyla Sosyal Güvenlik Denetmenlerine sevk edilecektir.
+                                                 77
+
+
+
+
+             Örnek 8- 10.11.2023 tarihinde yapımına başlanıp 16.12.2024 tarihinde tamamlanan RES inşaatına
+     ilişkin yapı ruhsatının, inşaat bittikten sonra 20.05.2025 tarihinde düzenlendiği ve ruhsatta yapı sınıf ve
+                                          92
+
+
+
+
+     grubunun V-E olarak belirtildiği varsayıldığında;
+             Yapı ruhsatı RES inşaatları için öngörülen 11.03.2025 tarihinden sonra (20.05.2025 tarihinde)
+     düzenlenerek birinci koşul sağlanmış olsa da, esas alınacak 2023 yılı Tebliğinde V-E yapı sınıf ve grubu
+                                  67
+
+
+
+
+     için yayımlanmış bir maliyet bedeli bulunmaması (ikinci koşulun gerçekleşmemesi) nedeniyle, dosya
+     maliyet tespiti amacıyla Sosyal Güvenlik Denetmenlerine sevk edilecektir.
+                           05
+
+
+
+
+             Örnek 9- 02.12.2022 tarihinde yapımına başlanıp 18.10.2023 tarihinde tamamlanan GES inşaatına
+     ilişkin yapı ruhsatının 05.04.2024 tarihinde düzenlendiği ve ruhsatta yapı sınıf ve grubunun II-C olarak
+     belirtildiği varsayıldığında;
+                   -1
+
+
+
+
+             Yapı ruhsatı GES inşaatları için öngörülen 12.05.2023 tarihinden sonra (05.04.2024 tarihinde)
+     düzenlenerek birinci koşul, esas alınacak 2022 yılı Tebliğinde II-C yapı sınıf ve grubu için yayımlanmış
+     bir maliyet bedelinin bulunmasıyla da ikinci koşul sağlandığından (her iki koşul da gerçekleştiğinden),
+          78
+
+
+
+
+     araştırma işlemi, ruhsatta kayıtlı toplam yapı inşaat alanı ile yapı sınıf ve grubu esas alınarak ünitece
+     sonuçlandırılacaktır.
+     27
+
+
+
+
+             Örnek 10- 01.10.2024 tarihinde yapımına başlanıp 04.02.2026 tarihinde tamamlanan bir RES
+     inşaatına ilişkin yapı ruhsatının 18.03.2026 tarihinde düzenlendiği ve ruhsatta yapı sınıf ve grubunun V-E
+     olarak belirtildiği varsayıldığında;
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      4/6
+                                                                                                                  7
+                                                                                                                92
+             Yapı ruhsatı RES inşaatları için öngörülen 11.03.2025 tarihinden sonra (18.03.2026 tarihinde)
+     düzenlenerek birinci koşul, esas alınacak 2025 yılı Tebliğinde V-E yapı sınıf ve grubu için yayımlanmış
+
+
+
+
+                                                                                                              67
+     bir maliyet bedelinin bulunmasıyla da ikinci koşul sağlandığından (her iki koşul da gerçekleştiğinden),
+     araştırma işlemi, ruhsatta kayıtlı toplam yapı inşaat alanı ile yapı sınıf ve grubu esas alınarak ünitece
+     sonuçlandırılacaktır.
+
+
+
+
+                                                                                                           05
+             2.4- Araştırma ve İlişiksizlik Belgesi Düzenleme Süreçlerinde Ortak Esaslar
+             Asgari işçilik maliyet tespitinin doğrudan ruhsat üzerinden veya denetim incelemesi sonucunda
+
+
+
+
+                                                                                                         -1
+     yapıldığına bakılmaksızın, kapsama giren tüm dosyaların ünitece yürütülecek araştırma ve ilişiksizlik
+     belgesi düzenleme süreçlerinde uygulama birliğinin tesis edilmesi amacıyla;
+             -Tesisin teknik bütünlüğü esas olduğundan hesaplama ve belge düzenleme süreçlerinde yalnızca
+     sınırlı alanlar (şalt sahası, trafo binası, idari bina, bekçi kulübesi, zemin işleri gibi) dikkate alınarak
+
+
+
+
+                                                                                          78
+     maliyet bedelinin eksik hesaplanmasına sebebiyet verecek şekilde parçalı işlem tesis edilmeyecektir.
+             -Sözleşme bedeli ile mukayese işleminde, ruhsat verilerine dayalı maliyet tespit usulü gereği
+
+
+
+
+                                                                                        27
+     ünitece hesaplanan veya Sosyal Güvenlik Denetmenlerince düzenlenen raporla tespit edilen maliyet
+     bedeli, 2011/13 sayılı Genelge'nin 9.20 numaralı bölümü uyarınca (varsa) sözleşme bedeli ile mukayese
+     edilecek ve yüksek olan tutar araştırmaya esas maliyet bedeli olarak dikkate alınacaktır.
+
+
+
+
+                                                                                 79
+             -Düzenlenecek ilişiksizlik belgelerinde yer alan yüzölçümü bilgisi, yapı ruhsatındaki toplam yapı
+     inşaat alanı verisi ile birebir aynı olacaktır.
+                                                                            56
+             -İşverenlerin ilgili idareler nezdinde yürüttükleri yapı kullanma izin belgesi işlemlerinde herhangi
+     bir tereddüt veya mağduriyet yaşanmaması adına, düzenlenecek ilişiksizlik belgelerine "sadece trafo alanı
+     dikkate alınmıştır" veya "panel alanları hariç tutulmuştur" gibi tesisin bütünlüğünü parçalayan ve
+                                                                  10
+     belgenin kapsamını daraltan herhangi bir sınırlayıcı ifade veya açıklama eklenmeyecektir.
+             3- GEÇİŞ SÜRECİNDEKİ DOSYALARIN YENİDEN DEĞERLENDİRİLMESİ
+             3.1- İşlem Tesis Edilmiş Ancak İdari Aşamada Kesinleşmemiş Dosyalar
+                                                        8-
+
+
+             Bu Genel Yazı'nın yayımı tarihi itibarıyla, fark prim borcu idari aşamada kesinleşmiş olan dosyalar
+     hakkında yeniden değerlendirme işlemi yapılmayacaktır.
+             Buna karşın, denetim raporu düzenlenmiş veya ünitece asgari işçilik araştırması yapılmış olmasına
+                                                 77
+
+
+
+
+     rağmen, fark prim borcu henüz idari aşamada kesinleşmemiş olmakla birlikte asgari işçilik maliyetinin bu
+     Genel Yazı'da belirtilen usul ve esaslara aykırı hesaplandığı tespit edilen dosyalarda;
+                                          92
+
+
+
+
+             -Maliyet tespiti Bölüm 2.1 ve 2.3 uyarınca ünitece gerçekleştirilecek olması durumunda,
+     maliyet bedelinin daha önce ünitece veya denetim raporuyla belirlenmiş olduğuna bakılmaksızın; asgari
+     işçilik miktarı, tesisin teknik bütünlüğünü yansıtacak şekilde ruhsatta kayıtlı toplam yapı inşaat alanı ile
+                                  67
+
+
+
+
+     yapı sınıf ve grubu esas alınarak ünitece yeniden hesaplanacak ve bu durum bir tutanakla kayıt altına
+     alınacaktır.
+                           05
+
+
+
+
+             -Maliyet tespiti Bölüm 2.2 ve 2.3 uyarınca denetim marifetiyle yapılacak olması durumunda,
+      daha önce düzenlenen denetim raporlarında maliyetin yalnızca sınırlı alanlar üzerinden hesaplandığının
+     anlaşılması halinde, dosya, tesisin teknik bütünlüğünü yansıtacak toplam maliyet bedelinin belirlenmesi
+                   -1
+
+
+
+
+     amacıyla ek rapor düzenlenmek üzere denetim birimine sevk edilecektir. Ünitece yürütülecek işlemler bu
+     ek rapor esas alınarak sonuçlandırılacaktır.
+             3.2- Denetim Süreci Devam Eden Dosyalar
+          78
+
+
+
+
+             Bu Genel Yazı'nın yayımı tarihi itibarıyla maliyet tespiti amacıyla Sosyal Güvenlik
+     Denetmenlerine sevk edilmiş olmakla birlikte henüz raporu düzenlenmemiş olan dosyalarda;
+     27
+
+
+
+
+             -Maliyet tespiti Bölüm 2.1 ve 2.3 uyarınca ünitece gerçekleştirilecek olması durumunda,
+     maliyet tespitine yönelik denetim gerekçesi ortadan kalktığından, dosya bu yönüyle üniteye iade edilecek
+     ve maliyet hesabı doğrudan ünitece yapılarak sonuçlandırılacaktır. Ancak, denetim sürecinde kayıt ve
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      5/6
+                                                                                                                  7
+                                                                                                                92
+     belge ibraz yükümlülüğüne uyulmaması veya Kanun'a aykırı başkaca hususların tespiti halinde, bu durum
+     ilgili denetmen tarafından ayrıca raporlanarak üniteye bildirilecektir.
+
+
+
+
+                                                                                                              67
+              -Maliyet tespiti Bölüm 2.2 ve 2.3 uyarınca denetim marifetiyle yapılacak olması durumunda,
+     denetim sürecine devam edilecek olup, maliyet tespiti yalnızca sınırlı alanlar üzerinden değil, tesisin
+     teknik bütünlüğünü yansıtan toplam maliyet bedeli üzerinden tamamlanacaktır.
+
+
+
+
+                                                                                                           05
+              Bilgilerini ve gereğini rica ederim.
+
+
+
+
+                                                                                                         -1
+                                                                                                            Mürsel BAKİ
+                                                                                                   Sigorta Primleri Genel Müdürü
+
+     Dağıtım:
+
+
+
+
+                                                                                          78
+     Tüm Taşra Teşkilatına
+
+
+
+
+                                                                                        27
+                                                                                 79
+                                                                            56
+                                                                  10
+                                                        8-
+                                                 77
+                                          92
+                                  67
+                           05
+                   -1
+          78
+     27
+ 79
+
+
+
+
+                                              Bu belge, güvenli elektronik imza ile imzalanmıştır.
+     Doğrulama Kodu: F95495A4-2583-45D6-A02B-95AD6B1EDCB9                             Doğrulama Adresi: https://www.turkiye.gov.tr/sgk-ebys
+56
+
+
+
+
+     Adres: Mithatpaşa Cad. No:7 Sıhhiye Çankaya/Ankara                                             Bilgi için:Murat HAZIMLI
+     Telefon: 0 312 458 70 20                                                                      Sosyal Güvenlik Denetmeni
+     Faks: 0 312 433 43 97                                                                         Telefon No:(312) 458 81 22
+     E-Posta: aidb@sgk.gov.tr
+
+                                                                      6/6
+

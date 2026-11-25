@@ -1,0 +1,2119 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/159936
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 2020/05
+ADI: BORÇ SORGUSU HAKKINDA 02/03/2020 TARİHLİ VE 2020/05 SAYILI GENELGE
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ff42c7798739da63666d3fa4c6d134238d55f4f7bb2c3fe85ef680857dd97223
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+
+
+
+Sayı : 13986510-206.07-E.3675504                                                                                         02/03/2020
+Konu : Borç Sorgusu
+
+
+
+                                                           GENELGE
+                                                            2020/5
+
+        I. GENEL AÇIKLAMALAR
+
+        4734 sayılı Kamu İhale Kanununun "İhaleye Katılımda Yeterlilik Kuralları" başlıklı
+10 uncu maddesinin dördüncü fıkrasının (c) bendinde, Türkiye’nin veya kendi ülkesinin
+mevzuat hükümleri uyarınca kesinleşmiş sosyal güvenlik prim borcu bulunan isteklilerin
+ihale dışında bırakılacağı hükme bağlanmıştır.
+        5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 88 inci maddesinin
+onüçüncü fıkrasında "Prim borçları katma değer vergisi iade alacağından mahsubu suretiyle
+de ödenebilir. Bu takdirde katma değer vergisi iade hakkı sahibi kendisinin, mal veya hizmet
+satın aldığı veya iştirak veya ortaklık ilişkisi içinde bulunduğu işverenlerin prim borçları için
+de mahsup talep edebilir. Bu işverenlerin mahsup talebinde bulundukları ayda muaccel olan
+prim borçlarının birinci fıkrada belirtilen ödeme sürelerini izleyen onbeş gün içinde mahsup
+suretiyle ödenmesi halinde, yasal süresi içinde ödendiği kabul edilir. Ancak prim borçlarının
+katma değer vergisi iade alacağından mahsup suretiyle ödenmesi talebinde bulunulduğu
+halde, süresinde mahsup edilemeyen veya eksik mahsup edilen prim borçları için birinci
+fıkrada belirtilen ödeme sürelerini izleyen günden başlanarak gecikme cezası ve gecikme
+zammı uygulanır. Kurum, Maliye Bakanlığının uygun görüşü ile bu uygulamadan
+faydalanacak işverenleri; iştigal konusu, işletme türü ve işletme büyüklüğü itibarıyla
+belirlemeye ve lehine mahsup talebinde bulunulan işverenlerin prim borcu ödeme süresini
+otuz günü aşmamak üzere uzatmaya yetkilidir.",
+        5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 90 ıncı
+maddesinin;
+        İkinci fıkrasında, "İşverenlerin hak edişleri, Kuruma idari para cezası, prim ve prime
+ilişkin borçlarının olmaması kaydıyla ödenir. Kesin teminatları ise ihale konusu işle ilgili
+olarak Kuruma borçlarının bulunmadığının tespit edilmesinden sonra iade edilir.",
+        Dördüncü fıkrasında, "Valilikler, belediyeler, il özel idareleri ve ruhsat vermeye
+yetkili diğer merciler tarafından, geçici iskân veya yapı kullanma izin belgesi verilmeden
+önce yapılan inşaat dolayısıyla, diğer kamu idareleri ile döner sermayeli kuruluşlar, kanunla
+kurulan kurum ve kuruluşlar ve bankaların ise Cumhurbaşkanı kararı ile belirlenecek
+işlemlerinde Kuruma borçlarının bulunmadığına dair ilgililerden Kurumca düzenlenmiş bir
+belgenin istenmesi zorunludur.",
+        Beşinci fıkrasında, "Bu maddede belirtilen yükümlülükler yerine getirilmeden hak
+ediş ödenmesi, kesin teminatın iade edilmesi veya geçici iskân izin belgesi ve yapı kullanma
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+izin belgesi verilmesi veya diğer işlemlerin gerçekleştirilmesi hallerinde, ilgililer hakkında
+genel hükümlere göre idarî ve cezaî işlem yapılır.",
+        Altıncı fıkrasında, "Ülke çapında uygulanan ve özel bir izne veya belgeye
+dayanmayan genel düzenlemeler hariç olmak üzere, belirli bölgelere veya sektörlere yönelik
+ya da kamu kurum ve kuruluşları tarafından verilen özel belgelere veya izinlere dayalı olarak
+kamudan kaynak tahsis edilmesi şeklinde kanun, kararname ve diğer mevzuatla sağlanan
+araştırma, geliştirme, üretim, yatırım, pazarlama ve benzeri tüm aşamalarda uygulanan devlet
+yardımı, teşvik ve desteklerin, daha önce başlayıp devam eden nakdi olmayanlar ile kamu
+kurum ve kuruluşları tarafından proje ve faaliyetleri karşılığında kamu kurum ve
+kuruluşlarına sağlananlar hariç olmak üzere, verilmesinden önce işverenlerden Kuruma
+muaccel olmuş prim ve idari para cezası borçlarının bulunmadığına veya tecil ve
+taksitlendirildiğine ya da yapılandırıldığına dair belge ve bilgilerin istenmesi zorunludur. (Ek
+cümle: 13/2/2011-6111/43 md.) Devlet yardımı, teşvik ve desteklerden; işverenlerin muaccel
+prim ve idari para cezası borçları kesilip Kuruma aktarıldıktan sonra, varsa kalan kısmı
+üzerinden yararlanılabilir. Tecil ve takside bağlanmış ya da yapılandırılmış olan borçlara
+ilişkin yükümlülüklerin yerine getirilmemesinden dolayı anlaşması bozulanlardan veya bu
+sebepler dışında söz konusu yardım, teşvik ve desteklerden yararlanmaması gerektiği
+sonradan anlaşılanlardan, yapılan devlet yardımı teşvik ve destek ödemeleri ilgili mevzuat
+çerçevesinde müeyyideleri ile birlikte geri alınır. Bu fıkranın uygulanmasına ilişkin usûl ve
+esaslar Maliye Bakanlığı ile Hazine Müsteşarlığının görüşleri alınarak Kurumca belirlenir.",
+        hükümleri yer almıştır.
+        5510 sayılı Kanunun 90 ıncı maddesinin üçüncü fıkrasına istinaden, 29/9/2008 tarihli
+ve 27012 (2. Mükerrer) sayılı Resmi Gazete'de "Sosyal Güvenlik Kurumu Prim ve İdari Para
+Cezası Borçlarının Hakedişlerden Mahsubu, Ödenmesi ve İlişiksizlik Belgesinin Aranması
+Hakkında Yönetmelik" yayımlanarak, idarelerin ihale yoluyla yaptırdıkları her türlü işleri
+üstlenenlerin hak edişlerinin Sosyal Güvenlik Kurumuna idari para cezası, prim ve prime
+ilişkin borçlarının olmaması kaydıyla ödenmesine ve kesin teminatlarının ihale konusu işle
+ilgili Kuruma olan borçlarına karşılık tutulması ve iadesine ilişkin usul ve esaslar
+düzenlenmiştir.
+        5510 sayılı Kanunun 90 ıncı maddesinin altıncı fıkrasına istinaden, 28/9/2008 tarihli
+ve 27011 sayılı Resmi Gazete'de "İşverenlere Verilen Devlet Yardımı, Teşvik ve Desteklerde
+Sosyal Güvenlik Kurumundan Alınacak Borcu Yoktur Belgesinin Düzenlenmesine İlişkin
+Usul ve Esaslara Dair Tebliğ" yayımlanarak, belirli bölgelere veya sektörlere yönelik ya da
+kamu kurum ve kuruluşları tarafından verilen özel belgelere veya izinlere dayalı olarak
+kamudan kaynak tahsis edilmesi şeklinde kanun, kararname ve diğer mevzuatla sağlanan
+araştırma, geliştirme, üretim, yatırım, pazarlama ve benzeri tüm aşamalarda uygulanan devlet
+yardımı, teşvik ve desteklerden yararlanacak olanların borçlarının bulunmadığına dair Sosyal
+Güvenlik Kurumunca düzenlenmiş borcu yoktur belgesinin/yazısının aranılmasının usul ve
+esasları düzenlenmiştir.
+        Dolayısıyla, gerek anılan kanunların yukarıda açıklanan hükümleri uyarınca gerekse
+gerçek veya tüzel kişi olan işverenlerin kamu kurum ve kuruluşları ile ihale mevzuatına tabi
+olmaksızın yapmış oldukları protokol ve sözleşmelere istinaden Kurumumuzdan;
+        1- 4734 sayılı Kamu İhale Kanunu gereğince ihalelere katılmak üzere,
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+        2- İhale konusu olmayan işlerle ilgili borcu yoktur belgesi almak üzere,
+        3- 5510 sayılı Kanunun 90 ıncı maddesinin ikinci fıkrası uyarınca, hak ediş ödemesine
+ve kesin teminatın iadesine esas olmak üzere,
+        4- 5510 sayılı Kanunun 90 ıncı maddesinin dördüncü fıkrası uyarınca, yapı kullanma
+izin belgesinin alınmasına esas olmak üzere,
+        5- 5510 sayılı Kanunun 90 ıncı maddesinin altıncı fıkrası uyarınca, devlet yardımı,
+teşvik ve desteklerden yararlanmak amacıyla;
+        Hazine ve Maliye Bakanlığına ibraz edilmek üzere,
+        KOSGEB’e ibraz edilmek üzere,
+        TÜBİTAK’a ibraz edilmek üzere,
+        KGF'ye (Kredi Garanti Fonuna) ibraz edilmek üzere,
+        6- Prim borçlarının katma değer vergisi iade alacağından mahsubu suretiyle
+ödenmesinde,
+        7- 1 Seri No’lu Gümrük Genel Tebliği uyarınca, “Onaylanmış Kişi Statü Belgesi”
+almak amacıyla,
+        Yasal ödeme süresi geçmiş borcun olup olmadığının bildirilmesi talep edilmektedir.
+        Kurumumuzca sözkonusu belgelerin/yazıların verilmesi sırasında bazı belgeler/yazılar
+için işyeri bazında borç sorgulaması yapılırken, bazı belgeler/yazılar için işverenin Türkiye
+genelinde kendi adına tescil edilmiş işyerleri ile ortak, üst düzey yönetici, işveren vekili ve
+aracı olarak işlem gördüğü işyerlerinden kaynaklanan borçları sorgulanmakta ve bu
+belgelerde/yazılarda sorgulanan borç türleri düzenleniş amacına göre farklılık göstermektedir.
+        Söz konusu belgelerin/yazıların bir kısmı, Kurumumuza yapılan e-Borcu Yoktur
+aktivasyon başvurusu üzerine aktivasyonu gerçekleştirilen işverenlerce, e-Bildirge şifresi
+üzerinden elektronik ortamda yapılan sorgulamalar sonucunda alınabilmekte; bir kısmı ise,
+işyerinin bağlı olduğu Sosyal Güvenlik İl Müdürlüğüne/Sosyal Güvenlik Merkezine
+başvuruda bulunmak suretiyle kâğıt ortamında alınmaktadır.
+        Bahse konu belgelerin/yazıların düzenlenmesi sırasında, hangi durumlarda yazıların
+elektronik ortamda, hangi durumlarda belgelerin/yazıların ilgili üniteye müracaat edilmek
+suretiyle alınacağı; verilen belgeler/yazılar için hangi borç türlerinin sorgulanacağı, borçların
+işyeri bazında mı yoksa işveren bazında Türkiye genelinde mi sorgulanacağı, elektronik
+ortamda bu belgelerin/yazıların alınması amacıyla e-borcu yoktur aktivasyon başvuru
+işlemleri, hak ediş ödemeleri sırasında işverenlerin muaccel borçlarının olup olmadığının
+idarelerce sorgulanabilmesine ilişkin ünitelerce yapılacak olan işlemler ile uygulamanın usul
+ve esasları konu başlıklarına göre ayrı ayrı bölümler halinde aşağıda açıklanmıştır.
+
+    II. 4734 SAYILI KAMU İHALE KANUNUNA GÖRE VERİLECEK BORCU
+YOKTUR BELGELERİ
+
+       4734 sayılı Kamu İhale Kanununun "İhaleye Katılımda Yeterlilik Kuralları" başlıklı
+10 uncu maddesinin dördüncü fıkrasının (c) bendinde, Türkiye’nin veya kendi ülkesinin
+mevzuat hükümleri uyarınca kesinleşmiş sosyal güvenlik prim borcu olan isteklilerin ihale
+dışında bırakılacağı hükme bağlanmıştır.
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+        Diğer taraftan, 28/3/2007 tarihli ve 5615 sayılı Gelir Vergisi Kanunu ve Bazı
+Kanunlarda Değişiklik Yapılmasına Dair Kanunun 23 üncü maddesi ile;
+        "4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 10 uncu maddesinin sonuna
+gelmek üzere,
+        Kurum, dördüncü fıkranın; (c) bendi ile ilgili olarak Sosyal Güvenlik Kurumu
+Başkanlığının uygun görüşünü alarak sosyal güvenlik prim borcunun kapsamı ve tutarını; (d)
+bendi ile ilgili olarak, Gelir İdaresi Başkanlığının uygun görüşünü alarak vergi borcu
+kapsamına girecek vergileri; tür ve tutar itibariyle belirlemeye yetkilidir.
+        Bu madde kapsamında istenen belgelerden hangilerinin taahhütname olarak
+sunulabileceği Kurum tarafından belirlenir. Gerçeğe aykırı hususlar içeren taahhütname
+sunulması veya ihale üzerinde kalan istekli tarafından taahhüt altına alınan durumu tevsik
+eden belgelerin sözleşme imzalanmadan önce verilmemesi halinde bu durumda olanlar ihale
+dışı bırakılarak geçici teminatları gelir kaydedilir.",
+        fıkraları eklenmiştir.
+        Söz konusu Kanun maddesinde yapılan değişikliğe ilave olarak 14/8/2007 tarihli ve
+26613 sayılı Resmi Gazete'de yayımlanan Uygulama Yönetmeliklerinin "İhale Dışı
+Bırakılma" başlıklı maddelerinde de değişiklik yapılmıştır.
+        Yapılan bu değişiklikle, "Türkiye’de kesinleşmiş sosyal güvenlik prim borcu"nun
+kapsamı ve tutarının Kamu İhale Genel Tebliğinde belirleneceği ve "Türkiye’de kesinleşmiş
+sosyal güvenlik prim borcu"nun değerlendirilmesinde dikkate alınacak hususlar belirtilmiştir.
+        Kamu İhale Kanunu ile uygulama yönetmeliklerindeki değişikliklere istinaden
+14/8/2007 tarihli ve 26613 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren mülga
+Kamu İhale Genel Tebliğinde değişiklik yapılmış ve bu değişiklikler 22/8/2009 tarihli ve
+27327 sayılı Resmi Gazete’de yayımlanan Kamu İhale Tebliğinde de yer almıştır.
+        Buna göre, Kurumumuz ünitelerince yapılacak işlemler aşağıda açıklanmıştır.
+
+        1- Kapsama Giren Borç Türleri ve Tutarı
+        İhale tarihi itibariyle Türkiye genelindeki borç asıl ve fer'ileri toplamı dikkate alınmak
+kaydıyla isteklinin;
+        a) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştıran tüzel kişiliği haiz
+işveren olması halinde;
+        1) Gerek kendilerine ait işyerlerinin gerek devir aldıkları işyerlerinin gerekse kendi
+işyerleriyle birleşen veya kendi işyerlerine katılan işyerlerinin muaccel hale gelmiş sigorta
+primi, sosyal güvenlik destek primi, işsizlik sigortası primi borçları ile bunlara ilişkin
+gecikme cezası, gecikme zamları ile diğer fer’ileri,
+        2) 1/5/2004 tarihinden sonra biten ihale konusu işler ve özel bina inşaatı işyerlerinden
+dolayı gerek Sosyal Güvenlik Kurumunca yapılan araştırma, gerekse Serbest Muhasebeci
+Mali Müşavirler ile Yeminli Mali Müşavirlerce İşyeri Kayıtlarının İncelenmesi Hakkında
+Yönetmelik gereğince yapılan inceleme sonucunda, fark işçilik matrahı üzerinden bulunan ve
+isteklilerce ödenmesi kabul edilen prim, gecikme cezası ve gecikme zammı tutarları,
+        3) İşin yürütümü için gerekli olan asgari işçilik miktarının tespiti hususunda Sosyal
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+Güvenlik Kurumu denetim elemanlarınca düzenlenen raporlarda önerilen asgari işçilik
+miktarı üzerinden hesaplanan prim, gecikme cezası ve gecikme zammı tutarlarının idari
+aşamada kesinleşmiş olan kısımları,
+         4) Sosyal Güvenlik Kurumunun denetim ve kontrol ile görevlendirilmiş
+memurlarınca, fiilen yapılan denetimler sonucunda veya işyeri kayıtlarından yapılan
+tespitlerden ya da kamu idarelerinin denetim elemanlarınca kendi mevzuatı gereğince
+yapacakları soruşturma, denetim ve incelemeler neticesinde veya kamu kurum ve kuruluşları
+ile bankalar tarafından düzenlenen belge veya alınan bilgilerden çalıştığı tespit edildiği halde
+bu çalışmaları veya prime esas kazancı Sosyal Güvenlik Kurumuna bildirilmeyen veya eksik
+bildirilen sigortalılardan dolayı tahakkuk ettirilen sigorta primi, sosyal güvenlik destek primi,
+işsizlik sigortası primi borçları ile bunlara ilişkin gecikme cezası, gecikme zamları ve diğer
+fer'ilerinin idari aşamada kesinleşmiş olan kısımları,
+         5) Kesinleşmiş mahkeme kararları uyarınca geriye doğru verilen prim belgelerine
+istinaden oluşan ve muaccel hale gelmiş sigorta primi, sosyal güvenlik destek primi, işsizlik
+sigortası primi borçları ile bunlara ilişkin gecikme cezası, gecikme zamları ve diğer fer’ileri,
+         6) Ay içinde bazı iş günlerinde çalıştırılmadığına veya eksik ücret ödendiğine dair
+belgeleri Sosyal Güvenlik Kurumuna verilmeyen veya verilen belgeleri anılan Kurumca
+geçerli sayılmaması nedeniyle tahakkuk ettirilen sigorta primi, sosyal güvenlik destek primi,
+işsizlik sigortası primi borçları ile bunlara ilişkin gecikme cezası, gecikme zamları ve diğer
+fer’ilerinin idari aşamada kesinleşmiş olan kısımları,
+         7) Bir işverenin işyerinde yürüttüğü mal veya hizmet üretimine ilişkin bir işte veya bir
+işin bölüm veya eklentilerinde iş alan ve bu iş için görevlendirdiği sigortalıları çalıştıran alt
+işverenin, bu işyerlerinde çalıştırdıkları sigortalılardan dolayı tahakkuk eden ve ödenmeyen
+sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi ile bunlara ilişkin gecikme
+cezası, gecikme zammı ve diğer fer’ileri,
+         8) Ortağı olduğu şirketin sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası
+primi ile bunlara ait gecikme cezası, gecikme zamları ve diğer fer'ilerine ilişkin borçlarından
+ötürü, (şirketin nevi dikkate alınarak) sorumlu olduğu tutarları,
+         toplamının, ihale tarihi itibariyle geçerli sigorta primine esas aylık kazancın üst
+sınırının 3 katını, alt işvereni bulunan işyerlerinde alt işverenlerinin sigorta primine esas aylık
+kazancın üst sınırının 6 katını aşan tutarı kesinleşmiş sosyal güvenlik prim borcu olarak kabul
+edilecektir.
+         Hesaplamada alt işvereni bulunan işyerlerinde işverenin 3 kata kadar olan borcu ile alt
+işverenlerin 6 katı kadar olan borcu ayrı değerlendirilecek bu tutarların altında borç olması
+durumunda işverene Ek-1'de yer alan borcu yoktur belgesi verilecektir.
+         Örnek 1: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (A) Ltd. Şti.’nin,
+5/9/2017 tarihinde Ulucanlar SGM'ye müracaat ederek, ihale tarihi olarak belirttiği 28/8/2017
+tarihi itibariyle 4734 sayılı Kamu İhale Kanununun 10 uncu maddesi hükmü uyarınca borcu
+yoktur belgesi talep ettiğini ve adı geçen Ünitemizce de Türkiye genelinde yapılan sorgulama
+sonucunda bu işverenin, Bursa Sosyal Güvenlik İl Müdürlüğünde adına tescilli işyerinden
+dolayı 2017/Ocak ayından 9.000,00 TL sigorta prim aslı ile 1.710,06 TL gecikme cezası ve
+gecikme zammı, 1.890,00 TL işsizlik sigortası prim aslı ile 359,10 TL gecikme cezası ve
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+gecikme zammı olmak üzere toplam 12.959,16 TL muaccel hale gelmiş sosyal güvenlik prim
+borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda işverenin, Kurumumuza toplam 12.959,16 TL muaccel hale gelmiş
+sosyal güvenlik prim borcu olması ve bu tutarın ihale tarihindeki sigorta primine esas aylık
+kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmaması nedeniyle,
+Ulucanlar SGM tarafından söz konusu işverene 28/8/2017 tarihi itibariyle borcunun
+bulunmadığına dair örneği Ek-1’de yer alan belge verilecektir.
+        Örnek 2: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan B A.Ş’nin,
+Denizli Sosyal Güvenlik İl Müdürlüğüne 25/8/2017 tarihinde müracaat ederek, ihale tarihi
+olarak belirttiği 18/8/2017 tarihi itibariyle 4734 sayılı Kamu İhale Kanununun 10 uncu
+maddesi hükmü uyarınca borcu yoktur belgesini talep ettiğini ve adı geçen Ünitemizce de
+Türkiye genelinde yapılan sorgulama sonucunda, bu işverenin anılan Müdürlükte adına
+tescilli işyerinden dolayı muaccel hale gelmiş anapara ve fer’ileri toplamı 28.500,00 TL
+sigorta prim borcu, Nevşehir Sosyal Güvenlik İl Müdürlüğünde tescilli olan işyerinde
+ortaklıktan dolayı sorumlu olduğu muaccel hale gelmiş borcun 27.000,00 TL olduğunu
+varsayalım.
+        Bu durumda, söz konusu işverenin Türkiye genelinde ihale tarihi itibariyle muaccel
+hale gelmiş borç toplamının 55.500,00 TL olması ve ihale tarihindeki sigorta primine esas
+aylık kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmış olması
+nedeniyle, istekli (B) A.Ş’ye 4734 sayılı Kanunun 10 uncu maddesi hükmü uyarınca Türkiye
+genelinde ihale tarihi itibariyle kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir
+Ek-2'de yer alan belge verilecektir.
+        Örnek 3: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (C) Ltd. Şti.’nin,
+Balıkesir Sosyal Güvenlik İl Müdürlüğüne 18/8/2017 tarihinde müracaat ederek borcu yoktur
+belgesi talep ettiğini ve adı geçen Ünitemizce Türkiye genelinde yapılan sorgulama
+sonucunda da, işverenin anılan Müdürlükte tescilli işyerinden dolayı muaccel hale gelmiş
+anapara ve fer’ileri toplamı 15.750,00 TL, Adana Sosyal Güvenlik İl Müdürlüğünde tescilli
+işyerinden dolayı muaccel hale gelmiş anapara ve fer’ileri toplamı 18.300,00 TL olmak üzere
+muaccel hale gelmiş toplam borç tutarının 34.050,00 TL, Samsun Sosyal Güvenlik İl
+Müdürlüğünde tescilli işyerindeki aracılarının ise muaccel hale gelmiş anapara ve bunların
+fer’ileri toplamı 48.000,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin ihale tarihi itibariyle Türkiye genelinde
+Kurumumuza olan borçlarının işveren (aracı hariç) ve aracılar yönünden ayrı ayrı
+değerlendirilmesi sonucunda;
+        -İşverenin (aracıları dışındaki) borçları toplamının 34.050,00 TL olması ve söz konusu
+tutarın da sigorta primine esas aylık kazancın üst sınırının 3 katını (13.331,25 TL x
+3=39.993,75 TL) aşmaması,
+        -Yine bu işverenin aracılarının borçlarının toplamının 48.000,00 TL olması ve bu
+tutarın da sigorta primine esas aylık kazancın üst sınırının 6 katını (13.331,25
+TLx6=79.987,50 TL) aşmaması,
+        nedeniyle bu istekliye ihale tarihi itibariyle Türkiye genelinde kesinleşmiş sosyal
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+güvenlik prim borcu olmadığına dair örneği Ek-1’de yer alan borcu yoktur belgesi
+verilecektir.
+        Örnek 4: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (D) AŞ’nin,
+Denizli Sosyal Güvenlik İl Müdürlüğüne 29/8/2017 tarihinde müracaat ederek borcu yoktur
+belgesini talep ettiğini ve adı geçen Ünitemizce Türkiye genelinde yapılan sorgulama
+sonucunda da, işverenin anılan Müdürlükte tescilli işyerinden dolayı muaccel hale gelmiş
+toplam 13.500,00 TL, Konya Sosyal Güvenlik İl Müdürlüğünde tescilli işyerinden dolayı
+kendisinin muaccel hale gelmiş toplam 11.250,00 TL, Nevşehir Sosyal Güvenlik İl
+Müdürlüğünde tescilli işyerinden dolayı yine kendisinin muaccel hale gelmiş toplam
+8.250,00 TL olmak üzere toplam 33.000,00 TL, Ankara Sosyal Güvenlik İl Müdürlüğü ile
+Nevşehir Sosyal Güvenlik İl Müdürlüğünde tescilli işyerlerindeki aracılarının ise, muaccel
+hale gelmiş toplam 81.700,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin ihale tarihi itibariyle Türkiye genelinde
+Kurumumuza olan borçlarının işveren (aracı hariç) olarak kendisi ve aracıları yönünden ayrı
+ayrı değerlendirilmesi neticesinde;
+        -İsteklinin aracıları dışındaki borç toplamının 33.000,00 TL olması ve sigorta primine
+esas aylık kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmaması
+sebebiyle, bu istekliye 28/8/2017 tarihi itibariyle kesinleşmiş sosyal güvenlik prim borcu
+olmadığına dair borcu yoktur belge verilebilecek ise de,
+        -İşverenin aracılarına ait borç toplamının 81.700,00 TL olması ve bu borcun da sigorta
+primine esas aylık kazancın üst sınırının 6 katını (13.331,25 TLx6=79.987,50 TL) aşmış
+olması nedeniyle, kendisine borcu yoktur belgesi verilmeyecektir.
+        Bu durumda, söz konusu istekliye Türkiye genelinde 29/8/2017 tarihi itibariyle
+kesinleşmiş sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+        Diğer taraftan, Kamu İhale Genel Tebliğinde yer alan alt işveren (aracı) borçları ile
+ilgili sigorta primine esas aylık kazancın üst sınırının 6 katı sınırı, işverenin alt
+işverenlerinden oluşan borçlarının toplamında dikkate alınmaktadır. İşverenin başka bir
+işverenin işyerinde alt işveren olması durumunda ise alt işverenlikten kaynaklı borçları bu
+limite dahil edilmeyecektir.
+        Örnek 5: Tüzel kişiliği haiz ve sadece 5510 sayılı Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında sigortalı çalıştırması nedeni ile işveren olan (E) Ltd. Şti.’nin,
+19/9/2017 tarihinde Ankara Sosyal Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi
+olarak belirttiği 13/9/2017 tarihi itibariyle 4734 sayılı Kanunun 10 uncu maddesi hükmü
+uyarınca borcu yoktur belgesi talep ettiğini ve adı geçen Ünitemizce de Türkiye genelinde
+yapılan sorgulama sonucunda, işverenin anılan Müdürlükte adına tescilli işyerinden dolayı
+muaccel hale gelmiş toplam 12.500,00 TL, alt işveren olduğu işyerinden dolayı Kayseri
+Sosyal Güvenlik İl Müdürlüğüne muaccel hale gelmiş toplam 15.750,00 TL, yine alt işveren
+olduğu başka bir işyerindeki borcundan dolayı Yozgat Sosyal Güvenlik İl Müdürlüğüne
+muaccel hale gelmiş toplam 12.750,00 TL borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu işverenin gerek kendisine ait işyerlerinden gerekse alt
+işveren olduğu işyerlerinden dolayı Türkiye genelinde ihale tarihi itibariyle muaccel hale
+gelmiş borç tutarının 41.000,00 TL olması ve sigorta primine esas aylık kazancın üst sınırının
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+3 katını (13.331,25 TL x 3=39.993,75 TL) aşmış olması nedeniyle, bu istekliye 4734 sayılı
+Kanunun 10 uncu maddesi hükmü uyarınca borcu yoktur belgesi verilmeyecektir. Bu
+durumda, söz konusu istekliye Türkiye genelinde 13/9/2017 tarihi itibariyle kesinleşmiş
+sosyal güvenlik prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+
+        b) 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi ile (c) bendi
+kapsamında sigortalı çalıştıran tüzel kişiliği haiz işveren olması halinde;
+        5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+sigortalı sayılanları çalıştırmalarından dolayı yukarıdaki a) başlıklı bölümde sayılan borçların
+ihale tarihi itibariyle geçerli aylık prime esas kazanç üst sınırının 3 katı ile alt işvereni
+bulunan işyerlerinde aylık prime esas kazanç üst sınırının 6 katını aşan tutarlar ve 4 üncü
+maddenin birinci fıkrasının (c) bendi kapsamında sigortalı sayılanları çalıştırmalarından
+dolayı yasal ödeme süresi geçmiş prim, kesenek ve kurum karşılıkları ile bunların gecikme
+cezası, gecikme zammı ve diğer fer'ilerinin aylık prime esas kazanç üst sınırının 3 katını aşan
+tutarları kesinleşmiş sosyal güvenlik prim borcu olarak kabul edilecektir.
+        Hesaplamada işverenin Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi ile (c)
+bendi kapsamında çalıştırdığı sigortalılardan kaynaklanan borçlarının aylık prime esas kazanç
+üst sınırının 3 katı ile alt işvereni olması halinde aylık prime esas kazanç üst sınırının 6 katı
+tutarları ayrı ayrı değerlendirilecek, bu tutarların altında borç olması durumunda işverene
+Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 6: Kamu kurumu iken özelleştirilen ve Samsun’da faaliyette bulunan (X)
+AŞ’nin hem Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi hem de (c) bendi
+kapsamında sigortalı çalıştırdığı ve ihale tarihi olarak belirttiği 22/8/2017 tarihi itibariyle
+borcu yoktur belgesi talep ettiğini ve Samsun İl Müdürlüğünce Türkiye genelinde yapılan
+sorgulama sonucunda, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+çalıştırılan sigortalılardan dolayı muaccel hale gelmiş toplam 43.700,00 TL, (c) bendi
+kapsamında çalıştırılan sigortalılardan dolayı da muaccel hale gelmiş toplam 15.750,00 TL
+borcu olduğunun tespit edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin borçlarının Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi ve (c) bendi kapsamındaki sigortalılar bakımından ayrı ayrı
+değerlendirilmesi neticesinde;
+        -Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılardan
+doğan borçları toplamının 15.750,00 TL olması ve sigorta primine esas aylık kazancın üst
+sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmaması sebebiyle borcu yoktur belgesi
+verilebilecek ise de,
+        -Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki
+sigortalılarından kaynaklanan borçlarının toplamının 43.700,00 TL olması ve bu borcun da
+sigorta primine esas aylık kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL)
+aşmış olması nedeniyle bu istekliye borcu yoktur belgesi verilmeyecektir. Bu durumda, söz
+konusu istekliye Türkiye genelinde ihale tarihi itibariyle kesinleşmiş sosyal güvenlik prim
+borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+        Örnek 7: Trabzon ilinde bulunan (Y) Belediyesinin %60 hissesine sahip olduğu J AŞ
+işvereninin hem Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi hem de (c) bendi
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+kapsamında sigortalı çalıştırdığını ve Kurumumuzdan 15/9/2017 tarihi itibariyle 4734 sayılı
+Kanunun 10 uncu maddesi uyarınca borcu yoktur belgesi talep ettiğini, Trabzon İl
+Müdürlüğünce Türkiye genelinde yapılan borç sorgulaması sonucunda da, Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılardan dolayı işverenin muaccel
+hale gelmiş toplam 33.000,00 TL, Balıkesir İl Müdürlüğünde tescilli işyerindeki alt
+işvereninin ise muaccel hale gelmiş toplam 54.000,00 TL, (c) bendi kapsamında çalıştırılan
+sigortalılardan dolayı da muaccel hale gelmiş toplam 32.250,00 TL borcu olduğunun tespit
+edildiğini varsayalım.
+        Bu durumda, söz konusu isteklinin borçlarının ayrı ayrı değerlendirilmesi neticesinde,
+Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi ve (c) bentleri kapsamındaki
+sigortalılardan oluşan borçları ile alt işverenin borçları ihale tarihi itibariyle belirlenen
+limitleri aşmadığından, istekliye Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcu
+olmadığını gösterir Ek-1’de yer alan belge verilecektir.
+
+        c) 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+sigortalı çalıştıran gerçek kişiliği haiz işveren ve 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamında sigortalı olması durumunda,
+        5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında
+çalıştırılan sigortalılarından veya şirketin nev’ine göre sorumluluğu da dikkate alınarak üst
+düzey yöneticisi veya ortağı olduğu şirketin Kuruma yukarıda a) başlıklı bölümde sayılan
+borçlarının ihale tarihi itibariyle geçerli aylık prime esas kazanç üst sınırının 3 katı ile alt
+işvereni bulunan işyerlerinde aylık prime esas kazanç üst sınırının 6 katını aşan tutarlar ve
+Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığından
+doğan prim (Bu bölüm kapsamındaki ilgililer için SGDP sorgulanmayacaktır. 6663 sayılı
+Kanun ile 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki
+sigortalılığı yönünden 29/2/2016 tarihinden itibaren kaldırılmıştır. 7143 sayılı Kanunun 10
+uncu maddesi 5 inci fıkrası ile var olan borçlar terkin edilmiştir.) ile 5510 sayılı Kanunun 60
+ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası prim borçları
+ile bunların gecikme cezası, gecikme zammı ve ferîlerinin aylık prime esas kazanç alt
+sınırının 3 katını aşan tutarları kesinleşmiş sosyal güvenlik prim borcu olarak kabul
+edilecektir.
+        Hesaplamada işverenin, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalıları çalıştırması yönünden borçları ile üst düzey yöneticilik ve
+ortaklıktan kaynaklı borçların aylık prime esas kazanç üst sınırının 3 katı, alt işvereni olması
+halinde aylık prime esas kazanç üst sınırının 6 katı, Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamındaki sigortalılığından doğan borçlarının aylık prime esas kazanç
+alt sınırının 3 katı tutarları ayrı ayrı değerlendirilecek, bu tutarların altında borç olması
+durumunda işverene Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 8: Adana’da faaliyette bulunan gerçek kişi (F)’nin hem Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı
+işverenlik sıfatının bulunduğunu hem de (b) bendi kapsamında sigortalı olduğunu ve bu
+isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 7/9/2017 tarihi itibariyle borcu yoktur
+belgesi talep ettiğini, Adana Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan
+sorgulama sonucunda da, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+kapsamında çalıştırmış olduğu sigortalılar nedeniyle toplam 22.500,00 TL, (b) bendi
+kapsamındaki kendi sigortalılığından ise toplam 4.500,00 TL borcu olduğunun tespit
+edildiğini varsayalım.
+       Bu durumda, söz konusu isteklinin borç tutarlarının işverenliği ve kendi sigortalılığı
+yönünden ayrı ayrı değerlendirilmesi sonucunda;
+       -İşverenliğinden doğan borçlarının 22.500,00 TL olması ve sigorta primine esas aylık
+kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmaması,
+       -Kendi sigortalılığından doğan borçlarının da 4.500,00 TL olması ve sigorta primine
+esas aylık kazancın alt sınırının 3 katını (1.777,50 TL x 3 = 5.332,50 TL) aşmaması,
+       nedeniyle, bu istekliye ihale tarihi itibariyle Türkiye genelinde kesinleşmiş sosyal
+güvenlik prim borcunun olmadığını gösterir Ek-1’de yer alan belge verilecektir.
+       Örnek 9: Gaziantep’te faaliyette bulunan gerçek kişi (H)’nin hem Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı
+işverenlik sıfatının bulunduğunu hem de kendisinin (b) bendi kapsamında sigortalı olduğunu
+ve bu isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 4/9/2017 itibariyle borcu yoktur
+belgesi talep ettiğini ve Gaziantep Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde
+yapılan sorgulama sonucunda da Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında çalıştırdığı sigortalılardan kaynaklanan muaccel hale gelmiş toplam 33.600,00
+TL, (b) bendi kapsamındaki kendi sigortalılığından ise muaccel hale gelmiş toplam 9.000,00
+TL borcu olduğunun tespit edildiğini varsayalım.
+       Bu durumda, söz konusu isteklinin borçlarının ayrı ayrı değerlendirilmesi neticesinde,
+Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştırması
+sebebiyle oluşan borçları aylık prime esas kazanç üst sınırının 3 katının altında iken, (b)
+bendi kapsamındaki sigortalılığından oluşan borcunun aylık prime esas kazanç alt sınırının 3
+katının üstünde olması nedeniyle istekliye Türkiye genelinde kesinleşmiş sosyal güvenlik
+prim borcunu gösterir Ek-2’de yer alan belge verilecektir.
+
+        ç) 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında
+sigortalılığı olan gerçek kişi olması durumunda,
+        Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı
+sayılmasından veya sosyal güvenlik destek primi ödeme yükümlülüğünden doğan borçları ile
+60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası borçlarının
+gecikme cezası, gecikme zammı ve diğer ferîlerinin aylık prime esas kazanç alt sınırının 3
+katını aşan, gerek üst düzey yöneticisi olduğu gerekse ortağı olduğu işveren şirketin Kuruma
+olan prim, (Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki ilgililer
+için SGDP sorgulanmayacaktır. 6663 sayılı Kanun ile 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığı yönünden 29/2/2016
+tarihinden itibaren kaldırılmıştır. 7143 sayılı Kanunun 10 uncu maddesi beşinci fıkrası ile var
+olan borçlar terkin edilmiştir.) işsizlik sigortası primi ile bunlara ait gecikme cezası, gecikme
+zamları ve diğer ferîlerine ilişkin borçlarının şirketin nev’ini dikkate alarak aylık prime esas
+kazanç üst sınırının 3 katı, alt işvereni olması halinde aylık prime esas kazanç üst sınırının 6
+katı aşan tutarları kesinleşmiş sosyal güvenlik prim borcu olarak kabul edilecektir.
+        Hesaplamada üst düzey yöneticisi veya ortağı olduğu işveren şirketin Kanunun 4 üncü
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+maddesinin birinci fıkrasının (a) bendi kapsamında sigortalıları çalıştırması yönünden
+borçlarının aylık prime esas kazanç üst sınırının 3 katı, alt işvereni olması halinde aylık prime
+esas kazanç üst sınırının 6 katı, (b) bendi kapsamındaki sigortalılığından doğan borçlarının
+aylık prime esas kazanç alt sınırının 3 katı tutarları ayrı ayrı değerlendirilecek, bu tutarların
+altında borç olması durumunda işverene Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Bu durumdaki isteklilerin, Kurumumuza ihale tarihi itibariyle Türkiye genelinde
+kesinleşmiş sosyal güvenlik prim borçlarının olup olmadığının tespitinde hem Kanunun 4
+üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığından doğan sigorta
+primi ve fer’ilerinden oluşan borçları hem de üst düzey yöneticisi ve/veya ortağı olduğu
+işveren şirketin nevisi dikkate alınarak sorumlu olduğu sigorta primi, sosyal güvenlik destek
+primi, işsizlik sigortası primi ile bunlara ait gecikme cezası, gecikme zammı ve diğer
+fer’ilerine ilişkin borçlarının olup olmadığı sorgulanacaktır.
+        Örnek 10: (K) gerçek kişisinin hem (Z) AŞ’de yönetim kurulu üyesi ve ortaklık
+sıfatının bulunduğunu ve bu şirketin Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştırdığını hem de bu şirkette yönetim kurulu üyesi ve ortak olması
+nedeniyle (b) bendi kapsamında sigortalı olduğunu ve K gerçek kişisi olarak Kurumumuzdan
+ihale tarihi olarak belirttiği 19/9/2017 tarihi itibariyle borcu yoktur belgesi talep ettiğini,
+Sinop Sosyal Güvenlik İl Müdürlüğünce Türkiye genelinde yapılan sorgulama sonucunda da,
+(Z) AŞ firmasının borçlarından kaynaklanan K gerçek kişisinin üst düzey yönetici olarak
+28.500,00 TL’den sorumlu olduğu, ayrıca Kanunun 4 üncü maddesinin birinci fıkrasının (b)
+bendi kapsamındaki kendi sigortalılığından ise 3.000,00 TL borcu olduğunu varsayalım.
+        Bu durumda, K gerçek kişisinin borçlarının şirket ortaklığı ve üst düzey yöneticiliği
+ile kendi sigortalılığı yönünden ayrı ayrı değerlendirilmesi neticesinde;
+        -Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılardan kaynaklanan borçlardan dolayı üst düzey yönetici olarak sorumlu olduğu
+tutarın 28.500,00 TL olması ve bu borcun da sigorta primine esas aylık kazanç üst sınırının 3
+katını (13.331,25 TL x 3=39.993,75 TL) aşmaması,
+        -Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığından doğan borçlarının ise 3.000,00 TL olması ve sigorta primine esas aylık
+kazanç alt sınırının 3 katını (1.777,50 TL x 3 = 5.332,50 TL) aşmaması sebebiyle kendisine
+ihale tarihi itibariyle Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcu olmadığına
+dair Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+        Örnek 11: (S) gerçek kişisinin hem (N) Ltd. Şti.’de sadece ortaklık sıfatının
+bulunduğunu (ortaklarca şirket müdürü olarak (M) kişisine yetki verilmiştir) hem de bu
+şirketin Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+çalıştırdığını, (S)’nin, bu şirkette ortak olması nedeniyle Kanunun 4 üncü maddesinin birinci
+fıkrasının (b) bendi kapsamında sigortalı olduğunu ve Aksaray Sosyal Güvenlik İl
+Müdürlüğünden ihale tarihi olarak belirttiği 19/9/2017 tarihi itibariyle borcu yoktur belgesi
+talep ettiğini, Türkiye genelinde yapılan sorgulama sonucunda da (N) Ltd. Şti.’nin
+borçlarından ortak olarak 19/9/2017 tarihi itibariyle sorumlu olduğu tutarın 32.250,00 TL
+olduğunu, ayrıca Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında kendi
+sigortalılığından da 5.850,00 TL borcu olduğunu varsayalım.
+        Bu durumda, S gerçek kişisinin borçlarının, şirketin işverenliği ve şirket ortaklığından
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+dolayı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığı yönünden ayrı ayrı değerlendirilmesi sonucunda;
+       -Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalıştırılan
+sigortalılardan doğan borçlardan dolayı sorumlu olduğu tutarın 32.250,00 TL olması ve bu
+borcun da sigorta primine esas aylık kazanç üst sınırının 3 katını (13.331,25 TL x
+3=39.993,75 TL) aşmaması nedeniyle kendisine borcu yoktur belgesi verilebilecek ise de,
+       -Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki kendi
+sigortalılığından kaynaklanan borçlarının 5.850,00 TL olması ve sigorta primine esas aylık
+kazanç alt sınırının 3 katını (1.777,50 TL x 3 = 5.332,50 TL) aşması sebebiyle,
+       İstekliye 4734 sayılı Kanunun 10 uncu maddesine göre borcu yoktur yazısı
+verilmeyecek, Türkiye genelinde ihale tarihi itibariyle kesinleşmiş sosyal güvenlik prim
+borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+
+        2 - Kapsama Girmeyen Borç Türleri
+        İsteklilerin ihale tarihi itibariyle Türkiye genelindeki;
+        a) İlgili kanunlara göre tecil ve taksitlendirilerek ya da özel kanunlara göre yeniden
+yapılandırılarak ödeme planına bağlanan ve anılan kanunlar gereğince tecil ve
+taksitlendirmeye ya da yapılandırmaya ilişkin taksit ve/veya cari aya ilişkin ödeme
+yükümlükleri yerine getirilmiş olması kaydıyla, tecil ve taksitlendirmeye ya da yeniden
+yapılandırmaya konu prim, sosyal güvenlik destek primi, işsizlik sigortası primi, kesenek,
+kurum karşılığı borçları ile bunların fer’ileri,
+        b) Vadesi geçtiği halde ödenmemiş ancak ilgili kanunlar uyarınca ertelemeye tabi
+tutulan prim borçları,
+        c) İdari para cezaları borçları, tasarrufa teşvik kesintisi ve katkı tutarları, konut
+edindirme yardımı,
+        d) İlgili Kanunlar uyarınca takip ve tahsil görevi verilmiş olan özel işlem vergisi,
+eğitime katkı payı ve damga vergisi ile bunlara bağlı gecikme zamları,
+        e) Prim borcuna karşı dava açılması halinde, bu dava sürecinde veya sonucunda takip
+ve tahsili durduracak geçici veya nihai bir karar bulunduğu durumda prim borcu,
+        f) Prim borcunun 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
+hükümleri çerçevesinde cebren tahsili yolunda tesis edilen işlemlere karşı dava açılması
+halinde, bu dava sürecinde veya sonucunda takip ve tahsili durduracak ara veya nihai bir
+karar bulunduğu durumda prim borcu,
+        Kesinleşmiş sosyal güvenlik prim borcu olarak değerlendirilmeyecektir.
+        İsteklilerin Kurumumuzdan 4734 sayılı Kanunun 10 uncu maddesine göre borcu
+yoktur belgesi talebinde bulunmaları ve yapılan sorgulama sonucunda borçlarının yukarıda
+sayılan durumlarda olduğunun anlaşılması halinde, istekliye Kurumumuza ihale tarihi
+itibariyle Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcu olmadığını belirtir
+Ek-1’de yer alan belge verilecektir.
+        Örnek 1: Tüzel kişiliği haiz ve sadece Kanunun 4 üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştırması nedeniyle işveren olan (K) AŞ’nin, 11/9/2017
+tarihinde Muğla Sosyal Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi olarak
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+belirttiği 11/9/2017 tarihi itibariyle 4734 sayılı Kanunun 10 uncu maddesi hükmü uyarınca
+borcu yoktur belgesi talep ettiğini ve adı geçen Ünitemizce de Türkiye genelinde yapılan
+sorgulama sonucunda, bu işverenin anılan Müdürlükte adına tescilli işyerinden dolayı
+muaccel hale gelmiş 2015/5.,6.,7.,8. aylarından kaynaklanan toplam 55.500,00 TL borcu
+olduğunu ve borcunu, 6736 sayılı Kanuna göre yapılandırdığını, gerek cari ay primlerini
+gerekse 6736 sayılı Kanundan doğan taksit ödeme yükümlülüklerini düzenli olarak (herhangi
+bir aksatma/ihlal yapmadan) yerine getirdiğini, başkaca da borcunun bulunmadığının tespit
+edildiğini varsayalım.
+         Bu durumda isteklinin, 55.500,00 TL borcu olmasına karşın borcunu, 6736 sayılı
+Kanun uyarınca yapılandırdığı ve gerek yapılandırmaya ilişkin taksit tutarlarını, gerekse cari
+aya ilişkin ödeme yükümlüklerini yerine getirmiş olması nedeniyle, söz konusu borçlar,
+kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate alınmadığından,
+kendisine 11/9/2017 ihale tarihi itibariyle Türkiye genelinde kesinleşmiş sosyal güvenlik
+prim borcu olmadığına dair Ek-1’de yer alan borcu yoktur belgesi verilecektir.
+         Örnek 2: Tüzel kişiliği haiz ve sadece Kanunun 4 üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında işveren olan (M) Ltd. Şti.’nin İstanbul Sosyal Güvenlik İl Müdürlüğüne
+müracaat ederek ihale tarihi olarak belirttiği 18/9/2017 tarihi itibariyle borcu yoktur belgesi
+talep ettiğini ve adı geçen ünitemizce Türkiye genelinde yapılan sorgulama sonucunda da
+işverenin anılan Müdürlükte tescilli işyerinden dolayı muaccel hale gelmiş 2014/4-2015/2
+aylarından kaynaklanan toplam 135.750,00 TL, Adana Sosyal Güvenlik İl Müdürlüğündeki
+işyerinden dolayı 2016/7,8 aylarından kaynaklanan 33.000,00 TL olmak üzere muaccel hale
+gelmiş toplam 168.750,00 TL borcu olduğunun tespit edildiğini varsayalım.
+         Bu durumda, söz konusu isteklinin ihale tarihi itibariyle Türkiye genelinde
+Kurumumuza olan borçlarının değerlendirilmesi sonucunda;
+         Borç tutarının 168.750,00 TL olmasına karşın, borcunun 135.750,00 TL’sini 6736
+sayılı Kanun uyarınca yapılandırdığı ve gerek yapılandırmaya ilişkin taksit tutarlarının,
+gerekse cari aya ilişkin ödeme yükümlüklerinin düzenli olarak yerine getirilmiş olması
+nedeniyle yeniden yapılandırmaya konu olan 135.750,00 TL tutarındaki borç, kesinleşmiş
+sosyal güvenlik prim borcunun hesaplamasında dikkate alınmayacaktır.
+         Yapılandırma kapsamına girmeyen ihale tarihi itibariyle Türkiye genelindeki
+33.000,00 TL tutarındaki borcunun ise, sigorta primine esas aylık kazanç üst sınırının 3 katını
+(13.331,25 TL x 3=39.993,75TL) aşmaması nedeniyle, istekliye ihale tarihi itibariyle Türkiye
+genelinde kesinleşmiş sosyal güvenlik prim borcu olmadığına dair (Ek-1)’de yer alan borcu
+yoktur belgesi verilecektir.
+         Örnek 3: Tüzel kişiliği haiz ve sadece Kanunun 4 üncü maddesinin birinci fıkrasının
+(a) bendi kapsamında sigortalı çalıştıran işveren A Ltd. Şti.’nin, 21/9/2017 tarihinde Artvin
+Sosyal Güvenlik İl Müdürlüğüne müracaat ederek, ihale tarihi olarak belirttiği 13/9/2017
+tarihi itibariyle 4734 sayılı Kanunun 10 uncu maddesi hükmü uyarınca borcu yoktur belgesi
+talep ettiğini ve adı geçen Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, bu
+işverenin anılan Müdürlükte adına tescilli işyerinden muaccel hale gelmiş 2014/4,5,7,8
+aylarından kaynaklanan toplam 10.500,00 TL borcunu 6736 sayılı Kanuna göre
+yapılandırdığını ve gerek cari ay primlerini gerekse 6736 sayılı Kanundan doğan
+yükümlülüklerini düzenli olarak yerine getirdiğini, ayrıca Kayseri Sosyal Güvenlik İl
+Müdürlüğünde kendisine ait işyerinden muaccel hale gelmiş 2016/9,10 aylarından
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+kaynaklanan borçlarının toplamının 40.550,00 TL olduğunun tespit edildiğini varsayalım.
+         Bu durumda isteklinin, borçları toplamının 51.050,00 TL olmasına karşın, borcunun
+10.500,00 TL’sini 6736 sayılı Kanun uyarınca yapılandırdığı ve gerek yapılandırmaya ilişkin
+taksit tutarlarını gerekse cari aya ilişkin ödeme yükümlüklerini düzenli olarak yerine getirmiş
+olması nedeniyle isteklinin, yeniden yapılandırmaya konu olan 10.500,00 TL tutarındaki
+borcu kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında dikkate alınmayacaktır.
+         Yapılandırma kapsamına girmeyen ihale tarihi itibariyle Türkiye genelindeki
+40.550,00 TL borcunun olması ve bu borcun da sigorta primine esas aylık kazanç üst
+sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşması nedeniyle 4734 sayılı Kanunun 10
+uncu maddesine göre Türkiye genelinde ihale tarihi itibariyle kesinleşmiş sosyal güvenlik
+prim borcu miktarını belirtir Ek-2’de yer alan belge verilecektir.
+         Örnek 4: (J) gerçek kişisinin, Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
+kapsamında sigortalı çalıştıran herhangi bir şirketin üst düzey yöneticisi ve ortağı olmadığını,
+sadece Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı
+olduğunu ve Aydın Sosyal Güvenlik İl Müdürlüğünden 4/9/2017 tarihi itibariyle Türkiye
+genelinde kesinleşmiş sosyal güvenlik prim borcunun bulunmadığına ilişkin belge talep
+ettiğini, anılan Ünitemizce de Türkiye genelinde yapılan sorgulama sonucunda, Kanunun 4
+üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığından doğan sadece
+2015/5,6,7,8 aylarından kaynaklanan muaccel hale gelmiş toplam 14.850,00 TL borcu
+olduğunu ve söz konusu borçlarının 6736 sayılı Kanuna göre yapılandırıldığını varsayalım.
+         Bu durumda isteklinin, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında sigortalılığından doğan borç toplamının 14.850,00 TL olmasına karşın, borcunu,
+6736 sayılı Kanun uyarınca yapılandırdığı ve gerek yapılandırmaya ilişkin taksit tutarlarını,
+gerekse cari aya ilişkin ödeme yükümlüklerini düzenli bir şekilde yerine getirmiş olması
+nedeniyle söz konusu borçlar, kesinleşmiş sosyal güvenlik prim borcunun hesaplamasında
+dikkate alınmayacağından bu istekliye, 4734 sayılı Kanunun 10 uncu maddesi uyarınca
+4/9/2017 tarihi itibariyle Türkiye genelinde sosyal güvenlik prim borcu olmadığına dair
+Ek-1’de yer alan belge verilecektir.
+         Örnek 5: Edirne’de faaliyette bulunan gerçek kişiliği haiz (F)’in, hem Kanunun 4 üncü
+maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı çalıştıran işveren hem de kendi
+sigortalılığından Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında
+sigortalı olduğunu ve bu isteklinin Kurumumuzdan ihale tarihi olarak belirttiği 5/9/2017
+tarihi itibariyle borcu yoktur belgesi talep ettiğini, Edirne Sosyal Güvenlik İl Müdürlüğünce
+Türkiye genelinde yapılan sorgulama sonucunda da Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamında çalıştırdığı sigortalılardan dolayı muaccel hale gelmiş toplam
+52.500,00 TL borcunun olduğu ve bu borcun ödenmesi hususunda 6183 sayılı Kanun
+hükümlerine göre ödeme emri tebliğ edildiği, ancak (F) tarafından bu ödeme emrine karşı
+iptal davası açıldığı ve ihale tarihinden önce Edirne 1. İş Mahkemesince icra takibinin
+durdurulması kararının verildiği, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi
+kapsamında kendi sigortalılığından ise muaccel hale gelmiş toplam 4.500,00 TL borcu
+olduğunun tespit edildiğini varsayalım.
+         Bu durumda, söz konusu isteklinin borç tutarlarının ayrı ayrı değerlendirilmesi
+sonucunda;
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+        Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+çalıştırmasından oluşan borç toplamının 52.500,00 TL olmasına ve sigorta primine esas aylık
+kazancın üst sınırının 3 katını (13.331,25 TL x 3=39.993,75 TL) aşmasına rağmen, 6183
+sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri çerçevesinde cebren
+tahsili yolunda tesis edilen işlemlere karşı dava sürecinde veya sonucunda takip ve tahsili
+durduracak geçici veya nihai bir karar bulunduğundan söz konusu borçlar kesinleşmiş sosyal
+güvenlik prim borcunun hesaplamasında dikkate alınmayacak,
+        Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalılığından
+doğan borçları toplamının 4.500,00 TL olmasına rağmen, bu borcun sigorta primine esas
+aylık kazancın alt sınırının 3 katını (1.777,50 TL x 3 = 5.332,50 TL) aşmaması sebebiyle,
+        istekliye, 4734 sayılı Kanunun 10 uncu maddesi uyarınca 5/9/2017 tarihi itibariyle
+Türkiye genelinde sosyal güvenlik prim borcu olmadığına dair Ek-1’de yer alan belge
+verilecektir.
+
+        3 - Borçların Dönemi
+        Borcu yoktur belgesi düzenlenirken, işverenlerin dilekçelerinde beyan ettikleri ihale
+tarihi itibariyle kesinleşmiş sosyal güvenlik prim borçlarının mevcut olup olmadığına
+bakılarak işlem yapılacaktır. İşverenlerin borçlarının olup olmadığına ilişkin yapılacak
+sorgulama işlemi, başvuru dilekçelerinin Ünitelerimize intikal ettiği tarihe bakılarak değil,
+dilekçede beyan edilen ihale tarihi dikkate alınarak yapılacaktır.
+        Kesinleşmiş sosyal güvenlik prim borçlarının bulunup bulunmadığına ilişkin yapılan
+sorgulamalar sırasında, işverenlerin kapsama giren borçlarını en geç ihale tarihi itibariyle
+ödemeleri veya 6183 sayılı Kanunun 48 inci maddesine istinaden tecil ve taksitlendirmeleri
+ya da çeşitli Kanunlar gereği yeniden yapılandırmaları halinde, tecil edilmiş ve
+taksitlendirilmiş/yeniden yapılandırılmış borçlara ilişkin taksitlendirme veya yapılandırma
+anlaşmasının bozulmamış olması ve vadesi geçtiği halde ödenmemiş veya eksik ödenmiş
+taksitlerin ihale tarihine kadar hesaplanacak faizi ve varsa tecil ve taksitlendirme/yeniden
+yapılandırma kapsamına girmeyen diğer borçlarla birlikte toplam borç tutarının istisna
+tutarlarının altında olması durumunda işverene kesinleşmiş sosyal güvenlik prim borcu
+yoktur belgesi verilecektir.
+        Örnek 1: (A) Limited Şirketinin yasal ödeme süresi geçmiş 17.000,00 TL sigorta
+primi, işsizlik sigortası primi ve bunlara ilişkin gecikme cezası ve gecikme zammı borcunu
+6/3/2017 ihale tarihi itibariyle ödediği ve 17/3/2017 tarihinde işyerinin bağlı bulunduğu
+Sosyal Güvenlik Merkezine müracaat ederek 6/3/2017 tarihi itibariyle sosyal güvenlik prim
+borcunun bulunmadığına ilişkin belge verilmesini talep ettiği varsayıldığında, söz konusu
+işverene ihale tarihi itibariyle kesinleşmiş sosyal güvenlik prim borcu olmadığını belirtir
+Ek-1’de yer alan belge verilecektir.
+        Örnek 2: (B) gerçek kişisinin 25.000.00 TL tutarındaki yasal ödeme süresi geçmiş
+sigorta prim borcunun 17/5/2017 tarihi itibariyle 6183 sayılı Kanunun 48 inci maddesine
+istinaden tecil ve taksitlendirildiği ve anılan işverenin 25/5/2017 tarihinde işyerinin bağlı
+bulunduğu Sosyal Güvenlik Merkezine müracaat ederek 17/5/2017 tarihi itibariyle sosyal
+güvenlik prim borcunun bulunmadığına ilişkin belge verilmesini talep ettiği varsayıldığında,
+kapsama giren borçları ihale tarihi itibariyle tecil edilmiş ve taksitlendirilmiş ve tecil,
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+taksitlendirme anlaşmasının bozulmamış olması nedeniyle anılan işverene örneği Ek-1’de yer
+alan kesinleşmiş sosyal güvenlik prim borcu yoktur belgesi verilecektir.
+        Örnek 3: (C) Anonim Şirketinin 60.000,00 TL tutarındaki sigorta prim borcunu 6736
+sayılı Kanuna istinaden taksitlendirmek üzere 12/10/2016 tarihinde işyerinin bağlı bulunduğu
+Sosyal Güvenlik Merkezine müracaat ettiği, vadesi 2017/Nisan (2017/Ağustos oldu 6770
+sayılı Kanun ile) olan 3 ncü taksit ile 2017/Haziran (2017/Ekim oldu) olan 4 üncü taksit
+tutarı 10.000,00 TL'yi ödemediği ve 22/11/2017 tarihinde Kuruma başvurarak 16/11/2017
+tarihi itibariyle kesinleşmiş sosyal güvenlik prim borcunun bulunmadığına ilişkin belgenin
+verilmesini talep ettiği varsayıldığında, yeniden yapılandırma anlaşmasının 16/11/2017 tarihi
+itibariyle bozulmamış olması ve 16/11/2017 tarihi itibariyle ödeme vadesi geçmiş
+taksitlerinin belirlenen gecikme zammı ile birlikte hesaplanacak tutarının prime esas kazanç
+üst sınırının 3 katından düşük olması nedeniyle, anılan işverene örneği Ek-1’de yer alan
+kesinleşmiş sosyal güvenlik prim borcu yoktur belgesi verilecektir.
+        Buna karşın, kapsama giren borçların ihale tarihinden sonraki bir tarih itibariyle tecil
+edilmiş ve taksitlendirilmiş veya yeniden yapılandırılmış olması ve söz konusu borçların
+açıklanan istisna sınırlarının üzerinde olması halinde kesinleşmiş sosyal güvenlik prim
+borcunun bulunduğunu belirtir Ek-2’de yer alan belge verilecektir.
+
+        4- Ortak Girişimler (İş Ortaklığı veya Konsorsiyum)
+        4734 sayılı Kanunun "Ortak Girişimler" başlıklı 14 üncü maddesinde, ortak
+girişimlerin birden fazla gerçek veya tüzel kişi tarafından iş ortaklığı veya konsorsiyum
+olarak iki türlü oluşabileceği; iş ortaklığı üyelerinin, hak ve sorumluluklarıyla işin tümünü
+birlikte yapmak üzere, konsorsiyum üyelerinin ise, hak ve sorumluluklarını ayırarak işin
+kendi uzmanlık alanlarıyla ilgili kısımlarını yapmak üzere ortaklık yapabilecekleri; ihale
+aşamasında ortak girişimden kendi aralarında bir iş ortaklığı veya konsorsiyum yaptıklarına
+dair anlaşma isteneceği; iş ortaklığı anlaşmalarında pilot ortağın, konsorsiyum
+anlaşmalarında ise koordinatör ortağın belirtileceği; ihalenin iş ortaklığı veya konsorsiyum
+üzerinde kalması halinde, sözleşme imzalanmadan önce noter tasdikli iş ortaklığı veya
+konsorsiyum sözleşmesinin verilmesi gerektiği; iş ortaklığı anlaşma ve sözleşmesinde, iş
+ortaklığını oluşturan gerçek veya tüzel kişilerin taahhüdün yerine getirilmesinde müştereken
+ve müteselsilen sorumlu oldukları; konsorsiyum anlaşma ve sözleşmesinde ise, konsorsiyumu
+oluşturan gerçek veya tüzel kişilerin, işin hangi kısmını taahhüt ettikleri ve taahhüdün yerine
+getirilmesinde koordinatör ortak aracılığıyla aralarındaki koordinasyonu sağlayacakları
+açıklanmıştır.
+        Bu durumda ihaleye katılacak olan isteklinin;
+        İş ortaklığı olması durumunda müşterek ve müteselsil sorumluluğa göre ortaklığı
+oluşturan her bir ortağın borcunun olup olmadığı ayrı ayrı sorgulanacaktır. Her bir ortağın
+kesinleşmiş borcunun olmaması halinde borcu yoktur belgesi verilecek, bir ortağın borcunun
+olmayıp diğer ortağın borcunun olması halinde borcu olduğuna dair Ek-2’de yer alan belge,
+        Konsorsiyum olması durumunda yüklenicilerin her birine müstakilen istihkak
+ödenmesi, bu üstleniciler tarafından idareye ayrı ayrı teminat verilmiş olması ve
+yüklenicilerin her biri adına işyeri tescili yapılmış olması halinde her bir ortağın
+sorumluluğunun ayrı olmasından dolayı kesinleşmiş prim borcu olmayan ortağa diğer
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+ortakların borcunun olup olmadığına bakılmaksızın Ek-1’de yer alan borcu yoktur belgesi,
+       verilecektir.
+
+        5- Ticari Şirketler ve Ortakları
+        Tüzel kişiler birden fazla gerçek kişinin belli bir amaç doğrultusunda bir araya
+gelmesiyle oluşmuş, hak ve borç sahibi olabilen, kendisini oluşturan gerçek kişilerin dışında
+ayrı bir varlığa sahip olan topluluklardır. Tüzel kişi aslında bir insan topluluğudur. Ancak
+hukuk düzeni, bu insan topluluğuna onu meydana getiren insanlardan (gerçek kişilerden) ayrı
+bir kişilik tanımaktadır. Keza hukuk, tüzel kişiye, kendini oluşturan gerçek kişilerin iradesi
+dışında ayrı bir irade gücü vermektedir. Yani tüzel kişinin kendisini oluşturan gerçek kişilerin
+iradesi dışında ayrı bir iradesi vardır. Dolayısıyla, tüzel kişi yetkili karar organları aracılığıyla
+iradesini açıklayarak hak ve borç altına girebilir. Bu şekilde ortaya çıkan hak ve borçlar, tüzel
+kişiyi oluşturan gerçek kişilerin üzerinde değil, tüzel kişinin üzerinde doğmuş olur.
+        Ticari şirketler (kollektif, adi komandit, paylı komandit, anonim, limited ve kooperatif
+şirketleri) tescil ve ilan edilmekle tüzel kişilik kazanmaktadırlar. Bu nedenle ticari şirketler,
+ortakları ile ayrı ayrı kişiliğe sahip olduklarından bu şirket ortaklarının kendilerine ait
+işyerlerinden dolayı Kurumumuza borçları olsa bile ortağı oldukları ticari şirketlerin borçları
+bulunmuyorsa, talepleri üzerine ticari şirketlere borçlarının olmadığına dair belge
+verilebilecektir.
+        Yukarıda yer alan açıklamalar şirketler ile ilgili genel olarak hukukta yer alan
+hükümler olmakla birlikte Kurumumuzca düzenlenen borcu yoktur yazılarının/belgelerinin
+farklı kanunlar ve 5510 sayılı Kanununa göre farklı amaçlarla düzenlendiği göz önünde
+bulundurularak (ihaleye katılma, hakediş ödemesi, devlet yardım ve teşviklerden yaralanma
+vb.) düzenlenmesi gerekmektedir.
+        Örnek 1: (A) ve (B) olmak üzere iki gerçek kişi ortağı olan (X) Limited Şirketinin
+Kurumumuza borcu bulunmamasına karşın, şirket ortaklarında (A)'nın kendisine ait tescil
+edilmiş gerçek ya da tüzel kişiliğe haiz (Y) işyerinin Kurumumuza borcu varsa, (X) Limited
+Şirketi tüzel kişilik olarak Kurumumuzdan borcu yoktur belgesi talep etmesi durumunda
+borcu bulunmayan şirket tüzel kişiliğine borcu yoktur belgesi verilecektir.
+        Örnek 2: Kurumumuzda tescilli ve ortakları da aynı gerçek kişiler olan (X) ve (Y)
+Limited Şirketlerinden; (X) Limited şirketinin Kuruma borcunun bulunmasına karşın, (Y)
+Limited Şirketinin borcunun olmaması ve bu şirket tarafından da Kurumumuzdan borcu
+yoktur belgesinin talep edilmesi halinde (Y) Limited şirketine borcu yoktur belgesi
+verilecektir.
+        Gerçek kişi işverenin kendisine ait işyerinden borcu bulunmaması ancak ortağı olduğu
+şirketin borcunun tespiti halinde; şirket ortaklığı dolayısıyla şirketin borcundan Kuruma karşı
+sorumluluğu bulunduğundan, kendisine ait işyerinden borcu yoktur belgesi düzenlenirken
+ortağı olunan şirketin nevi (örneğin anonim şirket farklıdır, Türk Ticaret Kanununa göre
+ortakların şirkete karşı sorumlulukları vardır, üçüncü kişilere karşı yoktur ancak sadece
+yönetim kurulu üyesi ve üst düzey yönetici ortakları sorumludur) dikkate alınarak ortaklık
+sıfatından kaynaklanan borçları sorgulanacaktır.
+        Örnek 3: (A) gerçek kişisinin Kurumumuzda kendi adına tescilli (ABC) isimli
+işyerinin borcu bulunmamasına karşın, aynı gerçek kişinin %50 hissesine sahip olduğu (X)
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+Limited Şirketinin Kurumumuza borcu bulunduğu varsayıldığında (A) gerçek kişinin (ABC)
+işyerinden kendisine borcu yoktur belgesi talep etmesi halinde, bu kişi ortağı olduğu (X)
+Limited şirketinin borcundan 6183 sayılı Kanunun 35 inci maddesi uyarınca sermaye hissesi
+oranında (%50) sorumlu olduğundan, şirketin borcundan borcu ödemediği sürece, gerçek kişi
+olarak sahip olduğu (ABC) işyerinden kendisine borcu yoktur belgesi verilmeyecektir. (A)
+gerçek kişisi (X) Limited şirketinde şirket müdürü ise, bu durumda şirket müdürlüğü yaptığı
+dönemden kaynaklanan borcun tamamından 5510 sayılı Kanunun 88 inci maddesi ve 6183
+sayılı Kanunun Mükerrer 35 inci maddesi uyarınca sorumluluğu bulunduğundan, bu borcu
+ödemediği sürece gerçek kişi olarak sahibi olduğu ABC işyerine yine borcu yoktur yazısı
+verilmeyecektir.
+       Aynı şekilde, diğer tüzel kişiliği haiz işverenlerin borçlarından sorumlu tutulan üst
+düzey yönetici ve kanuni temsilcilerle ilgili Kanunlardaki özel hükümler göz önünde
+bulundurularak işlem yapılacaktır.
+       Ayrıca ortaklar ilgili dönemlerdeki borçlarından sorumlu olduklarından, ilgili
+dönemde borcun olmadığı ve ortağın ortaklığının sonlandırıldığı anlaşılıyorsa borcu yoktur
+sorgulamasına dahil edilmemesi gerekmektedir. Program üzerinde çalışmalar
+tamamlanıncaya kadar ünitece yapılacak işlemlerde bu husus dikkate alınarak sorgulama
+yapılacaktır.
+
+        6- Müracaat
+        4734 sayılı Kanunun 10 uncu maddesi uyarınca isteklilerin Kurumumuzdan ihale
+tarihi itibariyle Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcu olmadığına dair
+belge talep etmeleri durumda örneği Ek-3’te yer alan "4734 Sayılı Kanunun 10 uncu
+Maddesine Göre Borcu Yoktur Belgesi Verilmesine İlişkin Talep Formu" ile işyerinin kayıtlı
+bulunduğu Sosyal Güvenlik İl Müdürlüğüne veya Merkezine başvurmaları gerekmektedir.
+        Kurumda kayıtlı işyeri bulunmayan ilgililer, işveren işlemleri yapılan herhangi bir
+Sosyal Güvenlik İl Müdürlüğüne veya Sosyal Güvenlik Merkezine başvuruda
+bulunabileceklerdir.
+        İstekliler talep formunu, Kurumumuzun internet (www.sgk.gov.tr) sitesinden temin
+edebilcekleri gibi Sosyal Güvenlik İl Müdürlüklerimize / Sosyal Güvenlik Merkezlerimize
+başvurarak da temin edebileceklerdir. Söz konusu talep formu dışında bir form
+kullanılmayacaktır.
+        Gerek gerçek gerekse tüzel kişiliğe sahip istekliler, "4734 Sayılı Kanunun 10 uncu
+Maddesine Göre Borcu Yoktur Belgesi Verilmesine İlişkin Talep Formunda",
+Kurumumuzdan ilişiksizlik belgesi aldıkları işyerlerini (kısmı ilişiksizlik belgesi verilen özel
+bina inşaat işyerleri hariç) beyan etmeyecekler, buna karşın daha önce devredilen veya
+ortaklık, aracılık ve üst düzey yöneticilik durumu sona eren işyerleri ile halen gayri faal (daha
+önce sigortalı çalıştırılmış olmakla birlikte başvuruda bulunulan tarihte sigortalı
+çalıştırılmayıp, Kurumumuz tarafından Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+bendi kapsamında sigortalı çalıştırmaları nedeniyle Kanun kapsamından çıkarılmamış veya
+çıkarılmış olmakla birlikte henüz iz’e ayrılmamış) olan Türkiye genelindeki tüm işyerlerini
+beyan edeceklerdir.
+        Ayrıca, ekte yer alan form ile birlikte istenecek belgelerde işyeri bildirgesi ile birlikte
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+istenilen gerçek kişi işverenler yönünden kendilerinin, tüzel kişi işverenler yönünden ise tüzel
+kişiliği temsile yetkili kişilerin imza sirkülerinin ikinci defa istenmemesi; gerek görülmesi
+halinde borcu yoktur belgesi için Üniteye müracaatları sırasında kişiliği temsile yetkililerin
+kimliklerinin tespitiyle birlikte imza beyanlarının alınması yeterli sayılacaktır.
+        Diğer yandan ortak olunan işyerine ait Ticaret Sicil Gazetesi veya diğer belgelerin, üst
+düzey yöneticilerin göreve başlama ve bitiş tarihlerini belgeleyen belgelerin form ekinde
+sunulması gerekmektedir.
+        Talep formunda beyan edilen bilgilerin eksik veya hatalı olduğunun anlaşılması
+halinde, Kurumumuzun ve diğer kurum, kuruluş ve kişilerin uğrayacakları zararlardan
+istekliler sorumlu olacaktır.
+
+        7- Düzenlenecek Belgeler
+        Borcu yoktur belgesini verecek olan Ünitelerimizce söz konusu talep formunda
+belirtilen işyeri, ortaklık, aracılık, üst düzey yöneticilik, sigortalılık bilgilerinin yanı sıra
+Kurumumuz intranet sisteminde borç sorgulamasında kullanılan tüm kıstaslar kullanılarak
+gerekli araştırma ve sorgulamalar yapılacaktır.
+        Öncelikle isteklilerin gerçek kişi ya da tüzel kişi olup olmadığına bakılacak ve önceki
+bölümlerde açıklanan durumlardan hangisine giriyorsa o kapsamda değerlendirmeler
+yapılacaktır. Borcu yoktur belgesi için müracaat edilen Sosyal Güvenlik İl Müdürlüklerince
+ve Sosyal Güvenlik Merkezlerince Kurumumuz uygulamalarında yer alan borç sorgulama
+menülerinden sorgulama işlemi yapılacak veya gerek olması durumunda diğer İl
+Müdürlükleri/Merkezleri ile faks veya kurumsal e-posta yoluyla araştırma işlemi
+gerçekleştirilecektir. Bu sorgulama sonucunda isteklinin Türkiye genelinde kesinleşmiş
+sosyal güvenlik prim borcu olmadığının anlaşılması halinde; istekliye 4734 sayılı Kanunun
+10 uncu maddesi uyarınca ihale tarihi itibariyle Kurumumuza kesinleşmiş sosyal güvenlik
+prim borcu olmadığına dair Ek-1'de yer alan belge, kesinleşmiş sosyal güvenlik prim borcu
+olduğunun anlaşılması halinde Ek-2’de yer alan belge verilecektir.
+        İşverenlere verilen bu belgeler ile bu belgelerin verilmesine esas yapılan borç
+sorgulamalarının birer dökümü işveren dosyasında muhafaza edilecektir. Ayrıca Kurumda
+tescilli işyeri bulunmayan ilgililere verilen belgelerin birer örneği de ilgili serviste
+oluşturulacak dosyalarda muhafaza edilecektir.
+
+    III. KAMU İHALE KANUNU DIŞINDA DÜZENLENEN BORCU YOKTUR
+BELGELERİ/YAZILARI
+
+        1- İhaleli İşlerde Hak Ediş Ödenmesi İçin İstenen Borcu Yoktur Yazıları
+        "Sosyal Güvenlik Kurumu Prim ve İdari Para Cezası Borçlarının Hak Edişlerden
+Mahsubu, Ödenmesi ve İlişiksizlik Belgesinin Aranması Hakkında Yönetmelik"in 6 ncı
+maddesinin birinci fıkrası uyarınca; işverenlerin tahakkuk etmiş ve muaccel hale gelmiş idari
+para cezası, prim ve prime ilişkin gecikme cezası, gecikme zammı ve diğer ferilerinden
+oluşan borçlarının hak edişlerinden kesilerek ödenmesinin Kurumumuzca idareden
+istenilmesi gerekmektedir.
+        İhale konusu işin devamlı nitelikteki işyeri sigortalıları ile yapılmış olması halinde,
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+             ̧
+hak edislerden    kesinti yapılmasına esas olmak üzere ihale konusu işin yapıldığı dönemlere
+bakılmaksızın devamlı nitelikteki işyerinin, sigorta primi, işsizlik sigortası primi ve idari para
+cezası ile bunlara ilişkin gecikme cezası, gecikme zammı ve diğer fer’ilerinden oluşan tüm
+borçları sorgulanacaktır.
+        Bu bakımdan idarelerce, ihale yoluyla yaptırdıkları işleri üstlenenlere yapılacak her
+hak ediş ödemesinden önce;
+        Hizmet alımı ve yapım işleri için, ilgili ihale konusu işyerinden dolayı,
+        İhale suretiyle piyasadan hazır halde alınıp satılan mal teslim işleri için, işverenin
+merkez adresindeki işyerinin tescilli bulunduğu ünite tarafından, İl Müdürlüğünde işlem
+gören tüm işyerlerinden dolayı,
+        Kuruma muaccel hale gelmiş borçlarının bulunup bulunmadıkları hususu
+sorgulanacaktır.
+        Bu sorgulama sonucunda;
+        Borcu bulunmayan işverenlere örneği Ek-5’te yer alan yazı,
+        Borcu bulunan işverenlere örneği Ek-6’da yer alan yazı,
+        Konusu piyasadan hazır halde alınıp satılan mal olan işlerde tescilli işyerinin
+olmaması durumunda örneği Ek-4’te yer alan yazı,
+        düzenlenecektir.
+        İdarelerce (ihale makamları) işverenlere hak ediş ödenmeden önce Kurumumuza
+borçlarının olup olmadığı sorulduğu durumlarda; başvurunun yapıldığı Ünitece ihaleli işin
+işlem gördüğü işyerinin borcu olmadığı halde, Türkiye genelinde yapılan sorgulama
+sonucunda aynı işverenin diğer ünitelerimize muaccel borçlarının olduğu tespit
+edilebilmektedir. Bu durumda işverenlere ihaleli işten kaynaklanan borçlarının olmaması
+durumunda hak ediş ödemesine esas olmak üzere Ek-5’te yer alan, borcun olması durumunda
+ise Ek-6’da yer alan yazı düzenlenecek ve aynı zamanda işverenin borçlu olduğu ilgili
+Ünitelerimize, istihkak haczi yapmaları amacıyla ihale makamının ve yapılan ihaleli işin
+adları da belirtilmek suretiyle durum derhal yazıyla bildirilecektir.
+
+        2- Teminat İadeleri İçin Düzenlenen İlişiksizlik Belgesi
+        "Sosyal Güvenlik Kurumu Prim ve İdari Para Cezası Borçlarının Hakedişlerden
+Mahsubu, Ödenmesi ve İlişiksizlik Belgesinin Aranması Hakkında Yönetmelik"in 7 nci
+                                           ̧ tarafından, idareye ihale konusu işle ilgili olarak
+maddesinin birinci fıkrası uyarınca, isveren
+Kuruma borcunun bulunmadığına dair ilişiksizlik belgesi ibraz edilmedikçe işverene ait kesin
+teminat iade edilemez.
+        İlişiksizlik belgesinin düzenlenebilmesi için, işverenlerin, ihale konusu işle ilgili
+sigorta primi, işsizlik sigortası primi, idari para cezası, fark isçilik üzerinden hesaplanan
+prim, damga vergisi, eğitime katkı payı ve özel işlem vergisi ile bunlara ilişkin gecikme
+cezası, gecikme zammı ve diğer fer’ilerinden oluşan borçların bulunmaması gerekmektedir.
+        İhale konusu işin, devamlı mahiyetteki işyeri sigortalıları ile                   olması
+halinde ise, işyerinin ihale konusu işin başlayıp bitirildiği sürelerdeki sigorta primi, işsizlik
+sigortası primi, idari para cezası, fark işçilik üzerinden hesaplanan prim, damga vergisi,
+eğitime katkı payı ve özel işlem vergisi ile bunlara ilişkin gecikme cezası, gecikme zammı ve
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+diğer fer’ilerinden oluşan borçlarının bulunmaması gerekmektedir.
+
+       3- Özel Nitelikteki İnşaat İşyerleri Hakkında Düzenlenecek İlişiksizlik Belgesi
+       5510 sayılı Kanunun 90 ıncı maddesinin dördüncü fıkrasına göre geçici iskan veya
+yapı kullanma izin belgesi verilmeden önce ilgililerden yapılan inşaat dolayısıyla Kuruma
+borçlarının bulunmadığına dair Kurumca düzenlenmiş bir belgenin istenmesi zorunludur.
+       Bu nitelikteki işyerlerinden dolayı Kurumumuza borçlarının bulunmadığına dair bir
+belgenin verilmesinin istenilmesi halinde, bu işyerinden sigorta primi, işsizlik sigortası primi,
+sosyal güvenlik destek primi, idari para cezası, fark işçilik üzerinden hesaplanan prim,
+eğitime katkı payı, özel işlem vergisi, damga vergisi, konut edindirme yardımı, tasarruf teşvik
+kesintisi ile bunlara ilişkin gecikme cezası ve zammı borçlarının olup olmadığına bakılacak
+ve borçlarının bulunmaması kaydıyla ilişiksizlik belgesi verilecektir.
+       Fark işçilik prim borcunun kesinleşme aşamasında olması veya itiraz edilmesi
+durumlarında dahi borcun ödenmemesi halinde işlemler sonuçlandırılıncaya kadar ilişiksizlik
+belgesi verilmeyecek ancak borç kesinleşmemişse ihale konusu işler için istenilecek borcu
+yoktur belgesinde veya bu nitelikteki belgelerde borç olarak değerlendirilmeyecektir.
+
+        4- Özel Nitelikteki İşyerleri ve Alt İşverenler (Aracı) İçin Düzenlenecek Borcu
+Yoktur Belgeleri
+        Gerçek veya tüzel kişi işverenlerin işyerlerinden birisinden veya alt işveren (aracısı)
+olduğu bir işyerinden "borcu yoktur" belgesinin istenilmesi halinde, işyeri kayıtlarının
+incelenmesine başvurulmaksızın, bu konudaki taleplerin Kurum kayıtlarına intikal ettiği
+tarihe kadar Ünitelerimize verilmiş olan prim belgelerinde kayıtlı muaccel sigorta primi,
+işsizlik sigortası primi, sosyal güvenlik destek primi, idari para cezaları, fark işçilik üzerinden
+tahakkuk ettirilmiş olan prim borcu (kesinleşmemiş olsa bile), eğitime katkı payı, özel işlem
+vergisi, damga vergisi, tasarrufu teşvik kesintisi ve katkı tutarı, konut edindirme yardımı
+borcu ve bunlara ilişkin gecikme zammı ve varsa faizleri, borç kapsamına dahil edilecektir.
+        Örnek 1: (A) inşaat Ltd. Şti. işyeri işvereni, işyerindeki işin bölümlerinden biri olan
+sıva, boya işini (B) alt işverenine vermiştir. (A) işvereni, işin bitiminde sıva, boya işlerini
+üstlenmiş olan (B) alt işvereninden Kurumumuza bu işten dolayı borcunun olmadığına dair
+belge getirmesini istemiştir. Bu durumda, alt işveren (B)’nin sadece söz konusu işten dolayı
+borcunun olup olmadığı hususu yukarıda belirtildiği şekilde (tüm borçları dikkate alınmak
+suretiyle) araştırılarak sonucuna göre işlem yapılacaktır.
+        Örnek 2: (A) işyeri işvereni, işyerindeki işin bölümlerinden biri olan temizlik işini 1
+yıl süreyle (B) alt işverenine vermiştir. (A) işvereni, 1 yılın sonunda temizlik işlerini
+üstlenmiş olan (B) alt işvereninden Kurumumuza bu işten dolayı borcunun olmadığına dair
+belge getirmesini istemiştir. Bu durumda, alt işveren (B)’nin sadece söz konusu işten dolayı
+borcunun olup olmadığı hususu yukarıda belirtildiği şekilde (tüm borçları dikkate alınmak
+suretiyle) araştırılarak sonucuna göre işlem yapılacaktır.
+        Söz konusu yazıların verildiği tarihte işverenlerin muaccel olmuş borçlarının
+bulunması durumunda örneği Ek-8’de yer alan belge, borcu bulunmuyorsa örneği Ek-7’de
+yer alan belge verilecektir.
+        Ayrıca, işverenlere verilecek bu tür belgelerde ihalelere katılmak veya hak ediş
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+ödemeleri için kullanılamayacağına ve ibra anlamına gelmeyeceğine dair şerh konulacaktır.
+
+        IV- HAK EDİŞ ÖDEMELERİ SIRASINDA İŞVERENLERİN MUACCEL
+BORÇLARININ İDARELERCE ELEKTRONİK ORTAMDA SORGULANMASI
+        "Sosyal Güvenlik Kurumu Prim ve İdari Para Cezası Borçlarının Hakedişlerden
+Mahsubu, Ödenmesi ve İlişiksizlik Belgesinin Aranması Hakkında Yönetmelik"in 6 ncı
+maddesi üçüncü fıkrasına göre İdare, yaptığı ihaleler sonucunda işverene ödeyeceği her hak
+ediş ödemesinden önce işverenin ve alt işverenlerinin Kuruma idari para cezası, prim ve
+prime ilişkin gecikme cezası, gecikme zammı ve diğer ferilerinden oluşan borçlarının
+bulunup bulunmadığı hususunda sorgulama yapabilmek için Kuruma yetki başvurusunda
+bulunabilir.
+        Sorgulama yetkisinin alınabilmesi amacıyla idarelerce yapılacak başvurulara ilişkin
+usul ve esaslar ile Sosyal Güvenlik İl Müdürlüklerince / Sosyal Güvenlik Merkezlerince
+yapılacak işlemler ile prim ve idari para cezası borçlarının hak edişlerden mahsup edilmesine
+ilişkin idarelerin sorumlulukları aşağıda açıklanmıştır.
+
+        1- İşverenlerin Muaccel Borçlarının İdarelerce Sorgulanması
+        1.1- Sorgulama Yetkisinin Verilmesi
+        Kamu idareleri ile döner sermayeli kuruluşlar, 5411 sayılı Bankacılık Kanunu
+kapsamındaki kuruluşlar ve kanunla kurulan kurum ve kuruluşlar, ihale yolu ile yaptırdıkları
+işleri üstlenenlerin Kurumumuza borçlarının bulunup bulunmadığını elektronik ortamda
+sorgulayabilmek için, Ek-9’da yer alan "İdarelerce e-Borç Sorgulama Yetki Talep Formunu"
+eksiksiz olarak doldurmak suretiyle işyeri dosyalarının bulunduğu Sosyal Güvenlik İl
+Müdürlüklerinden / Sosyal Güvenlik Merkezlerinden herhangi birine başvuracaklardır.
+        İdarelerce birden fazla personel için yetki başvurusunda bulunulması mümkün
+bulunmaktadır. Ancak, bu durumda, her bir personel için yetki talep formunun ayrı ayrı
+düzenlenmesi gerekmektedir.
+        Yapılacak olan başvuru sırasında, ilgili idarenin, 5510 sayılı Kanunun 90 ıncı
+maddesinde sayılan kurum ve kuruluşlardan biri olduğunu kanıtlayan resmi nitelikteki belge
+ile yetki talebinde bulunulan kişinin ilgili idarede çalıştığını gösterir kimlik belgesinin onaylı
+bir fotokopisi, yetki talep formuna eklenecektir.
+        Yukarıda belirtilen kurum ve kuruluşlarca yapılacak müracaatlar üzerine, yetki talep
+formu evrak tarih ve sayısı verildikten sonra eki belgelerle birlikte "işyeri tescil ve e-sigorta
+servisi"ne intikal ettirilecektir. İlgili servis personeli tarafından, "işveren intra
+uygulamasından" "İdarelerce e-Borç Sorgu Başvuru İşlemleri" menüsü vasıtasıyla, ilgili
+idarenin yetki talebinde bulunmuş olduğu personel için gerekli olan kullanıcı kodu ve
+kullanıcı şifresi verilecektir.
+        "İdarelerce e-Borç Sorgu Başvuru İşlemleri" menüsünden başvuru girişi yapılarak
+idareye ve kullanıcıya ilişkin bilgiler sisteme girildikten sonra, sistem tarafından üretilecek
+olan kullanıcı kodu ve şifresi, Ek-10’da yer alan "İdarelerce e-Borç Sorgulama Yetkisi
+Kullanıcı Kodu ve Şifresi Teslim Tutanağına" kaydedilecektir.
+        İki nüsha olarak düzenlenecek olan "İdarelerce e-Borç Sorgulama Yetkisi Kullanıcı
+Kodu ve Şifresi Teslim Tutanağının" ilgililer tarafından imzalanmasının ardından, bir nüshası
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+yetki talebinde bulunan idareye verilecek, bir nüshası ise işyeri tescil ve e-Sigorta servisinde
+dosyalanacaktır.
+        Borç sorgulama yetkisi, yalnızca kamu idareleri ile döner sermayeli kuruluşlar, 5411
+sayılı Bankacılık Kanunu kapsamındaki kuruluşlar ve kanunla kurulan kurum ve kuruluşlara
+verileceğinden, bu idareler dışındaki gerçek veya tüzel kişilerce yetki başvurusunda
+bulunulsa dahi, herhangi bir yetkilendirme işlemi yapılmayacaktır.
+
+        1.2- Kullanıcı Kodu ve Kullanıcı Şifresinin İptali
+        İlgili idare tarafından, kullanıcı kodu ve şifresinin çalındığı, kaybolduğu veya
+unutulduğu gibi nedenlerle yeni bir kullanıcı şifresi verilmesinin ilgili Sosyal Güvenlik İl
+Müdürlüğünden / Sosyal Güvenlik Merkezinden yazılı olarak talep edilmesi halinde, işyeri
+tescil ve e-sigorta servisinde görevli personel tarafından "İdarelerce e-Borç Sorgu Başvuru
+İşlemleri" menüsünden "Başvuru Listele" seçeneği vasıtasıyla daha önce kullanıcı kodu ve
+şifresi verilmiş olan kişi için yeni bir kullanıcı şifresi verilebilecektir.
+        Diğer taraftan, ilgili idare veya kullanıcı kodu ve şifresi verilmiş yetkili kişi
+tarafından, kullanıcı kodu ve kullanıcı şifresinin iptal edilmesinin ilgili Sosyal Güvenlik İl
+Müdürlüğünden / Sosyal Güvenlik Merkezinden yazılı olarak talep edilmesi halinde, bu defa
+yetkili kişi için daha önce verilmiş olan kullanıcı kodu ve kullanıcı şifresi pasif hale
+getirilmek suretiyle sorgulama yetkisi iptal edilecektir.
+
+        1.3- Borçların Sorgulanması
+        İdareler, işverenlerin ve varsa alt işverenlerinin yasal ödeme süresi geçmiş sigorta
+primi, işsizlik sigortası primi ve idari para cezası ile bunlara ilişkin gecikme cezası ve
+gecikme zammı borçlarının bulunup bulunmadığı hususunu, Kurumumuz "www.sgk.gov.tr"
+adresinden "e-sgk" → "Kamu" → "İdare e-Borç Sorgu" alanları seçildikten sonra uygulama
+giriş yaparak sorgulayabileceklerdir.
+        İdarelerce, işverenlerin, ihale konusu işten dolayı Kuruma yasal ödeme süresi geçmiş
+borcunun olup olmadığına ilişkin işyeri sicil numarası girilmek suretiyle yapılacak olan
+sorgulama işlemi sırasında, sorgu parametresi olarak 23 haneli işyeri sicil numarasının
+yalnızca "yeni şube kodu", "eski şube kodu", "sıra no" ve "il kodu" bilgileri sisteme
+girilecektir.
+
+        Örnek 1: 4.4120.01.01.1099811.006.01.03 sicil numaralı işyeri için,
+            Yeni Şube kodu        Eski Şube Kodu   Sıra No İl Kodu
+                 01                     01        1099811       006
+        bilgileri sisteme girilecektir.
+
+        Örnek 2: 2.9605.01.02.1066983.080.10. 49 sicil numaralı işyeri için,
+
+        Yeni Şube kodu           Eski Şube Kodu                              Sıra No          İl Kodu
+                 01                     02                                  1066983             080
+        bilgileri sisteme girilecektir.
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+        İhale konusu işin piyasadan hazır halde alınıp satılan mal teslimine yönelik olması
+halinde, öncelikle söz konusu işleri üstlenen işverenlere ilişkin işyeri sicil numaralarının,
+uygulamada yer alan "Tescil Sorgulama" seçeneği vasıtasıyla ilgili idarece tespit edilmesi
+gerekmektedir.
+        "Tescil Sorgulama" menüsünde işyeri sicil numaraları, gerçek kişi olan işverenler için
+T.C. kimlik numarası girilmek suretiyle "Mernis No İle Tescil Bul" seçeneği vasıtasıyla, tüzel
+kişi olan işverenler için vergi kimlik numarası girilmek suretiyle "Vergi No İle Tescil Bul"
+seçeneği vasıtasıyla tespit edilecektir.
+        Kurumumuz uygulamalarında, her işyerine ayrı sicil numarası verildiğinden, ihale
+suretiyle piyasadan hazır halde alınıp satılan mal teslim işlerinden dolayı, işyeri sicil
+numarasının tespiti için T.C. kimlik numarası veya vergi kimlik numarası girilmek suretiyle
+sorgulama yapıldığında, aynı işverene ait birden fazla işyeri sicil numarası ile
+karşılaşılabilecektir. Bu durumda, işverenin merkez adresindeki işyerinin tescilli bulunduğu il
+kodu ile listelenen geçici ve daimi tüm işyerlerinden dolayı yasal ödeme süresi geçmiş
+borçları sorgulanacaktır.
+        Örnek 3: Piyasadan hazır halde alınıp satılan mal teslimi işini üstlenen ve merkez
+adresi Ankara’da bulunan 1234567890 numaralı vergi kimlik numaralı (B) Limited Şirketinin
+işyeri sicil numaralarının tespiti için ilgili idarece, "Vergi No İle Tescil Bul" seçeneğinden
+yapılan sorgulama sonucunda,
+        01.01.1038120.006
+        01.01.1097841.006
+        01.02.1096884.006
+        02.02.1114874.006
+        01.01.1063874.034
+        01.01.1118965.021
+        nolu işyeri sicil numaralarına ulaşıldığı varsayıldığında, Ankara’nın il kodu 006
+olduğu için, ilgili idarece, anılan işverenin Ankara ilinde kurulu işyerlerinden Rüzgarlı Sosyal
+Güvenlik       Merkezinde       işlem     gören      01.01.1038120.006,      01.01.1097841.006,
+01.02.1096884.006 nolu ve Ulucanlar Sosyal Güvenlik Merkezinde işlem gören
+02.02.1114874.006 sicil numaralı işyerlerine ilişkin borçları sorgulanacak ve varsa yasal
+ödeme süresi geçmiş borçları hak edişinden kesilerek Kurum hesaplarına aktarılacaktır. Buna
+karşın, anılan işverenin merkez adresinin bulunduğu il dışında faaliyet gösteren
+01.01.1063874.034 sicil numaralı (İstanbul’da işlem gören) işyeri dosyası ile
+01.01.1118965.021 sicil numaralı (Diyarbakır’da işlem gören) işyeri dosyalarının borçları ise
+sorgulanmayacaktır.
+        T.C. kimlik numarası veya vergi kimlik numarası girilmek suretiyle yapılan
+sorgulamalara rağmen işyeri sicil numarasına ulaşılamaması halinde ise, işverenin hak ediş
+ödemesine esas borcunun bulunup bulunmadığı hususu işverenin merkez adresini çevresine
+alan Sosyal Güvenlik İl Müdürlüğüne / Sosyal Güvenlik Merkezine resmi yazı ile
+sorulacaktır.
+        Sosyal Güvenlik Kurumu Prim ve İdari Para Cezası Borçlarının Hakedişlerden
+Mahsubu, Ödenmesi ve İlişiksizlik Belgesinin Aranması Hakkında Yönetmeliğin 5 inci
+maddesinin beşinci fıkrasında, idarelerce, yapılacak kesinti tutarının ödeme belgesinde
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+gösterileceği ve kesinti tutarının, ödeme makamınca muhasebe kayıtlarına intikal tarihinden
+itibaren on beş gün içinde Kuruma veya Kurumca bildirilmiş olan banka hesabına yatırılacağı
+öngörülmüştür.
+        Bu bakımdan, idarelerce borç sorgulanırken, uygulamadaki sorgu parametrelerinde
+yer alan "sorgu tarihi" bölümüne; sorgunun yapıldığı tarih girilecektir.
+        Örnek 4: (A) Bankasınca, (B) Limited Şirketine 10/2/2017 hak ediş ödemesi
+yapılacaktır. Bankaca yapılacak sorgulamada "sorgu tarihi" olarak sorgunun yapıldığı
+10/2/2017 tarihi girilecektir.
+        Öte yandan, ihale konusu işlerde, asıl işverenlerin yanı sıra asıl işverenlerden iş alan
+ve kendi nam ve hesabına sigortalı çalıştıran alt işverenlerin de bulunması halinde, "Borç
+Sorgulama" seçeneği vasıtasıyla yapılan sorgulamalar sırasında, asıl işverene ilişkin borçlarla
+birlikte alt işverenlerin borçları da sorgulanacağından, idarelerce, alt işverenlerin borçlarının
+ayrıca sorgulanmasına gerek bulunmamaktadır.
+        İdarelerce yapılacak olan sorgulama işlemleri sırasında, ihale konusu işi üstlenen
+işverenlere ait işyerlerinin hangi Sosyal Güvenlik İl Müdürlüğünde / Sosyal Güvenlik
+Merkezinde işlem gördüğü ve il kodu görüntülenecek olup, il kodlarına ise "İl Kodu
+Bilgileri" seçeneği vasıtasıyla erişilebilecektir.
+        İşverenlerin yasal ödeme süresi geçmiş borçlarının hak edişinden kesilmesi halinde,
+söz konusu kesinti tutarlarının, Kurumumuzun ilgili banka hesap numarasına yatırılarak,
+yatırılan paranın tutarının, tediye mahallinin, ödeme tarihinin, banka hesap numarasının,
+işyerinin sicil numarasının, işverenin ad ve soyadının/unvanının ilgili Sosyal Güvenlik İl
+Müdürlüğüne / Sosyal Güvenlik Merkezine bildirilmesi gerekmektedir.
+        İşverenlerin yasal ödeme süresi geçmiş borçlarının bulunup bulunmadığına ilişkin
+sorgulama işleminin her hak ediş ödemesinden önce yapılması gerektiğinden, ikinci hak ediş
+kesintisi yapılmadan önce daha önce yapılmış olan hak ediş kesintisine ilişkin yukarıda
+açıklanan bilgilerin, işyerinin işlem gördüğü Sosyal Güvenlik İl Müdürlüğüne / Merkezine
+bildirilmiş olması ve Sosyal Güvenlik İl Müdürlüğünce / Merkezince bahse konu paraların
+işyeri dosyasına aktarılmış olması icap etmektedir.
+        Bu bağlamda, idarelerce yapılan kesinti tutarlarının Kurumumuzun ilgili banka hesap
+numarasına yatırılması halinde, söz konusu hak ediş kesintisine ilişkin bilgilerin, Kurumca
+yapılacak aktarma işlemleri de nazara alınarak, en geç kesinti tutarının bankaya yatırıldığı
+tarihi izleyen 15 gün içinde ilgili Sosyal Güvenlik İl Müdürlüğüne / Merkezine bildirilmesi
+ve Sosyal Güvenlik İl Müdürlüğünce / Merkezince bahse konu kesinti tutarı; eğer işverenin
+ihale konusu işyeri dosyasına aktarımı yapılmamışsa en geç 7 gün içinde ilgili işyeri
+dosyasına aktarımını yapması gerekmektedir.
+
+        2- İdarelerin Sorumlulukları
+        29/9/2008 tarihli ve 27012 sayılı 2 nci mükerrer Resmi Gazete'de yayımlanan "Sosyal
+Güvenlik Kurumu Prim ve İdari Para Cezası Borçlarının Hakedişlerden Mahsubu, Ödenmesi
+ve İlişiksizlik Belgesinin Aranması Hakkında Yönetmelik" in 9 uncu maddesinde işverenin
+borcu varken hak ediş ödemesi yapan ilgililer hakkında genel hükümlere göre işlem
+yapılacağı belirtilmiştir.
+        Bu anlamda ihale makamlarına anılan yönetmelik ile sorumluluk yüklendiğinden, hak
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+ediş ödemelerinin ve kesin teminatın iadesinin prim borcunun mahsubu yapılmaksızın
+işverenlere ödenmesi halinde, Kurumca uğranılan zararın ihale makamlarınca karşılanması
+gerekmektedir. Bu amaçla 7201 sayılı Tebligat Kanuna göre yapılacak tebligat ile işverenin
+prim borçlarının 15 gün içinde ödenmesi ilgili kamu kurum ve kuruluşundan gecikme
+zamlarıyla birlikte istenebilecek, borcun bu süre içerisinde ödenmemesi halinde ise, bu defa
+ihale makamı aleyhine tazminat davası açılabilecektir. Ancak Kurumca ihale makamı
+aleyhine tazminat davası açılırken, ihale makamının Kurumun tebligatına rağmen işverene
+ödediği istihkak miktarı ve teminat tutarı kadar miktarla sorumlu olduğu dikkate alınacaktır.
+        6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 107 nci
+maddesinde, "Bu Kanunun tatbikinde vazifeli bulunan kimseler, bu vazifeleri dolayısıyla
+amme borçlusunun ve onunla ilgili kimselerin şahıslarına, mesleklerine, işlerine, muamele ve
+hesap durumlarına ait öğrendikleri sırlarla, gizli kalması lazım gelen diğer hususları ifşa
+ettikleri takdirde Türk Ceza Kanununun 239 uncu maddesine göre cezalandırılır.
+        Bu Kanunun 41 inci maddesine göre amme alacağını tahsil yetkisi verilen kuruluşlara,
+yapacakları tahsile yönelik bilgilerin ve 22/A maddesine göre borcun olmadığına dair belgeyi
+arama zorunluluğu getirilen kurum ve kuruluşlara, ödeme ve işleme taraf olanlara ilişkin borç
+bilgilerinin verilmesi sırrın ifşaı sayılmaz. Bu kurum ve kuruluşlarda vazifeli bulunan
+kimseler edindikleri bilgileri ifşa ettikleri takdirde birinci fıkra hükmüne göre cezalandırılır.",
+        hükmü yer almaktadır.
+        5510 sayılı Kanunun 88 inci maddesinde yer alan "…Kurumun süresi içinde
+ödenmeyen prim ve diğer alacaklarının tahsilinde, 6183 sayılı Amme Alacaklarının Tahsil
+Usûlü Hakkında Kanunun 51 inci, 102 nci ve 106 ncı maddeleri hariç, diğer maddeleri
+uygulanır. Kurum, 6183 sayılı Kanunun uygulanmasında Maliye Bakanlığı ile diğer kamu
+kurum ve kuruluşları ve mercilere verilen yetkileri kullanır…" hükmüne istinaden, idarelerce
+yapılan başvurular üzerine, yasal ödeme süresi geçmiş borçların sorgulanmasına ilişkin
+Kurumca yetki verilmiş olan kişilerin elde ettikleri bilgileri ifşa etmeleri veya Kurumca
+verilen kullanıcı kodu ve şifresi başka kişilere verilerek üçüncü kişilerce söz konusu
+bilgilerin temininin sağlanması halinde, ilgili kişilerin Türk Ceza Kanununun 239 uncu
+maddesine göre cezalandırılmaları istenilecektir.
+
+        3- Diğer Hususlar
+        "İdarelerce e-Borç Sorgulama" seçeneği vasıtasıyla yapılan sorgulamaların sonuçları,
+yalnızca ihale konusu işleri üstlenen işverenlerin hak edişlerinin ödenmesi veya Kuruma olan
+borçlarının hak edişlerden kesilmesi için kullanılmalıdır.
+        Bahse konu programlar vasıtasıyla yapılan sorgulamalara istinaden işverenlerin, ihale
+konusu işle ilgili teminatlarının iadesi mümkün bulunmadığı gibi, 4734 sayılı Kamu İhale
+Kanunu uyarınca ihaleye katılmak için Kuruma yasal ödeme süresi geçmiş borcunun bulunup
+bulunmadığının sorgulanması da mümkün bulunmamaktadır.
+        Dolayısıyla, ihalelere katılmak üzere kesinleşmiş sosyal güvenlik prim borcunun olup
+olmadığına ilişkin belgelerin, ilgili Sosyal Güvenlik İl Müdürlüğünden / Merkezinden ya da
+"e-Borcu Yoktur" programlarından alınması, ihale konusu işleri üstlenen işverenlerin kesin
+teminatlarının ise, ilgili Sosyal Güvenlik İl Müdürlüğünce / Merkezince düzenlenmiş
+ilişiksizlik belgesi ibraz edilmedikçe iade edilmemesi gerekmektedir.
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+
+        V- DEVLET YARDIMI TEŞVİK VE DESTEKLERDE BORÇ SORGUSU
+        5510 sayılı Kanunun 90 ıncı maddesinin altıncı fıkrası kapsamındaki devlet yardımı,
+teşvik ve desteklerin verilmesinden önce işverenlerden Kuruma muaccel olmuş borçlarının
+bulunmadığına veya tecil ve taksitlendirildiğine ya da yapılandırıldığına dair belge ve
+bilgilerin istenmesi gerekmektedir. Bu fıkranın uygulanmasına dair usul ve esaslar Hazine ve
+Maliye Bakanlığının görüşleri alınarak Kurumca belirlenmiştir.
+
+        1- Kapsama Giren Devlet Yardımı, Teşvik ve Destekler
+        Belirli bölgelere veya sektörlere yönelik ya da kamu kurum ve kuruluşları tarafından
+verilen özel belgelere veya izinlere dayalı olarak kamudan kaynak tahsis edilmesi şeklinde
+kanun, kararname ve diğer mevzuatla sağlanan araştırma, geliştirme, üretim, yatırım,
+pazarlama ve benzeri tüm aşamalarda uygulanan devlet yardımı, teşvik ve desteklerin
+verilmesinden önce Kuruma muaccel hale gelmiş borçlarının olup olmadığının sorgulanması
+gerekmektedir.
+        Bu itibarla;
+        a) 29/1/2004 tarihli ve 5084 sayılı "Yatırımların ve İstihdamın Teşviki ile Bazı
+Kanunlarda Değişiklik Yapılması Hakkında Kanun" ile sağlanan sigorta primi işveren hissesi
+teşviki, enerji desteği, bedelsiz yatırım yeri tahsisi ile aynı Kanunun Geçici 1 inci maddesine
+göre, Organize Sanayi Bölgeleri tüzel kişilikleri tarafından, gerçek ve tüzel kişilere yapılan
+bedelsiz arsa tahsisi,
+        b) 14/7/2004 tarihli ve 5225 sayılı "Kültür Yatırımları ve Girişimlerini Teşvik
+Kanunu" ile sağlanan sigorta primi işveren paylarında indirim, su bedeli indirimi ve enerji
+desteği,
+        c) Yatırımlarda Devlet Yardımları Hakkında Bakanlar Kurulu kararları uyarınca
+uygulanmakta olan ve kamu alacaklarından vazgeçilmesi şeklinde olmayan; sigorta primi
+işveren hissesi teşviki, katma değer vergisi istisnası, gümrük vergisi muafiyeti, kredi desteği,
+faiz desteği, turizm enerji desteği,
+        ç) 12/4/1990 tarihli ve 3624 sayılı "Küçük ve Orta Ölçekli Sanayi Geliştirme ve
+Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun" ve "24/4/2005 tarihli ve 25795
+sayılı Resmi Gazetede yayımlanmış olan Küçük ve Orta Ölçekli Sanayi Geliştirme ve
+Destekleme İdaresi Başkanlığı (KOSGEB) Destekleri Yönetmeliği" ile sağlanan geri ödemeli
+ve geri ödemesiz destekler ile 4/5/2004 tarihli ve 2004/7131 sayılı Bakanlar Kurulu kararına
+istinaden verilen kredi, faiz destekleri,
+        d) Araştırma ve geliştirme (Ar-Ge) destekleri,
+        e) 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin
+Desteklenmesi Hakkında Kanun uyarınca sağlanan ve kamu alacaklarından vazgeçilmesi
+şeklinde olmayan destek ve teşvikleri,
+        f) 26/7/2001 tarihli ve 24474 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren
+Tarımsal Amaçlı Kooperatiflere Kullandırılacak Kredilere İlişkin Yönetmelik hükümleri
+uyarınca sağlanan kredi destekleri,
+        g) İhracat Teşvikleri,
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+      gibi devlet yardımı, teşvik ve destekler Kanunun 90 ıncı maddesinin altıncı fıkrası
+kapsamında sağlanan devlet yardımı, teşvik ve destekler olarak kabul edilmektedir.
+
+        2- Kapsama Girmeyen Devlet Yardımı, Teşvik ve Destekler
+        Ülke çapında uygulanan ve özel bir izne veya belgeye dayanmayan genel
+düzenlemeler ile kamu kurum ve kuruluşları tarafından proje ve faaliyetleri karşılığında kamu
+kurum ve kuruluşlarına sağlanan veya 5510 sayılı Kanunun 90 ıncı maddesinin yürürlüğe
+girdiği 1/10/2008 tarihinden önce başlayıp devam eden nakdi olmayan Devlet yardımı, teşvik
+ve destekler kapsamda kabul edilmemektedir.
+
+         3- Borçların Sorgulanması
+         3.1 Borç Türleri
+         Kapsama giren devlet yardımları ile teşvik ve desteklerden yararlanacak olan tüzel
+kişiliği haiz olan ve tüzel kişiliği olmayan kurum ve kuruluş işverenlerinin çalıştırdığı
+sigortalılardan, gerçek kişiliği haiz işverenlerin ise gerek kendi sigortalılığı gerekse
+çalıştırdığı sigortalılardan dolayı oluşan sigorta primi ve genel sağlık sigorta primi, sosyal
+güvenlik destek primi (Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki
+ilgililer için SGDP sorgulanmayacaktır. 6663 sayılı Kanun ile 5510 sayılı Kanunun 4 üncü
+maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılığı yönünden 29/2/2016
+tarihinden itibaren kaldırılmıştır. 7143 sayılı Kanunun 10 uncu maddesinin beşinci fıkrası ile
+var olan borçlar terkin edilmiştir.), işsizlik sigortası primi, idari para cezası ile bunlara bağlı
+gecikme cezası ve gecikme zammı borçları sorgulanacaktır.
+
+         3.2 Yararlanma Şartları
+         Türkiye geneli borcun sorgulandığı tarihte, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu
+gereğince, belirlenen aylık asgari ücretin brüt tutarından fazla muaccel borcunun
+bulunmaması veya borcunun tecil ve taksitlendirilmiş ya da yapılandırılmış olması
+gerekmektedir.
+         Borcu tecil ve taksitlendirilmemiş ya da yapılandırılmamış olan işverenler, devlet
+yardımı, teşvik ve desteklerden; muaccel prim ve idari para cezası borçları kesilip Kuruma
+aktarıldıktan sonra varsa kalan kısmı üzerinden yararlandırılabilir.
+         Tecil ve taksite bağlanmış ya da yapılandırılmış olan borca ilişkin yükümlülüklerin
+yerine getirilmemesinden dolayı yapılandırması bozulanlardan veya bu sebepler dışında söz
+konusu yardım, teşvik ve desteklerden yararlanmaması gerektiği sonradan anlaşılanlardan,
+yapılan devlet yardımı teşvik ve destek ödemeleri ilgili mevzuat çerçevesinde müeyyideleri
+ile birlikte geri alınır.
+         Ancak, yapılacak bir ay süreli tebligat üzerine kapsama giren borçlarını tam olarak
+ödemeleri halinde, bu Tebliğ kapsamında devlet yardımları ile teşvik ve desteklerden usulüne
+uygun yararlanılmış sayılır.
+
+        3.3 Borcu Yoktur Belgeleri
+        Devlet yardımı, teşvik ve destekleri sağlayan ve ödeme işlemlerini tesis eden kurum
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+ve kuruluşların; yapacakları yardım, teşvik ve desteklere karar verilmesinden önce
+işverenlerden Kuruma borcunun bulunmadığına, borcu bulunmakla birlikte yapılandırdığına,
+tecil ya da taksitlendirdiğine dair Sosyal Güvenlik İl Müdürlükleri / Merkezleri tarafından
+verilen ya da elektronik ortamda doğrulama kodlu olarak üretilen belgeyi talep etmeleri
+zorunludur.
+        Sosyal Güvenlik İl Müdürlüklerine / Merkezlerine yapılan başvuru üzerine işverenin,
+devlet yardımı teşvik ve desteklerden yararlanacağı tarih belirtiliyor ise bu tarihte, tarih
+belirtilmiyorsa yazının verildiği tarihte Türkiye geneli kapsama giren borçlarının olup
+olmadığı sorgulanacak; borçları varsa ve limitin altında kalmışsa borcunun olmadığına dair
+örneği Ek-11’de yer alan belge, limitin üstünde borcu bulunmakla birlikte yapılandırılmış,
+tecil veya taksitlendirilmiş ise örneği Ek-12’de yer alan belge verilecektir. Sayılan bu
+durumların dışında borcun bulunması halinde örneği Ek-13’te yer alan belge düzenlenecektir.
+Kaydı bulunmayan ya da işveren konumunda olmayan ilgililere durumlarına göre örneği
+Ek-20/21’de yer alan belge düzenlenecektir.
+        Kurum tarafından Kanunun 90 ıncı maddesine göre verilen yardım, teşvik ve desteğin
+türüne ve veren idareye göre birden fazla şekilde belge düzenlenebilmektedir. Bu belgelerin
+düzenlenmesinde örnek belgelerde yer alan boşluklara belgenin istendiği duruma uygun
+ifadeler Sosyal Güvenlik İl Müdürlükleri / Merkezleri tarafından yazılacaktır.
+        Belgelerde aylık asgari ücretin brüt tutarının altında kalan borç tutarları
+belirtilmeyecektir. Yapılandırılmış, tecil edilmiş veya taksitlendirilmiş borçların, taksitleri
+düzenli ve tam ödeniyorsa Ek-12’de yer alan belge düzenlenecek olmakla birlikte
+yapılandırması bozulmamış ancak taksitlerini düzenli ve tam ödememiş olanların, vadesinde
+ödenemeyen taksit tutarları ile varsa cari dönemden ödenmemiş borçları toplamı belirtilen
+limitin üstünde ise örneği Ek-14’te yer alan yapılandırması bozulmadığı için yapılandırılmış
+tutarı ve muaccel hale gelmiş borç tutarını belirten belge düzenlenecektir.
+        Örnek 1: (A) Ltd. Şti.’ne (X) bankası tarafından 17/6/2017 tarihinde "Kredi Garanti
+Kurumlarına Sağlanan Hazine Desteğine İlişkin Karar"a göre kredi kullandırılmıştır.
+25/6/2017 tarihinde işverenin müracaatı üzerine Sosyal Güvenlik İl Müdürlüğü / Merkezi
+tarafından 17/6/2017 tarihli yapılan Türkiye geneli borç sorgusunda işverenin borcunun
+olmadığı ya da borçlarının sorgu tarihindeki asgari ücretin altında olduğu varsayıldığında
+ilgiliye örneği Ek-11’de yer alan belge verilecektir.
+        Örnek 2: (Y) Ltd. Şti. işvereni Kredi Garanti Fonuna verilmek üzere 15/11/2017
+tarihinde borcu yoktur belgesi talep etmiştir. İşverenin Türkiye geneli yapılan borç
+sorgusunda Rüzgarlı Sosyal Güvenlik Merkezinde tescilli işyerinden dolayı 30.000 TL
+borcunun olduğu ve 2016 yılı Haziran ayı ve önceki aylara ait toplam 30.000 TL olan sigorta
+prim borcunu 6736 sayılı Kanuna göre yapılandırdığı anlaşılmıştır. Ancak işverenin son
+ödeme tarihi 31/8/2017 (2/1/2018 oldu) olan 825 TL tutarındaki 5. yapılandırma taksitini ve
+aynı zamanda 2017 yılı Haziran ayına ait 2.285 TL prim borcunu ödemediği tespit edilmiştir.
+Bu durumda düzenlenecek olan belgede; işverenin yapılandırması devam ettiği için
+"yapılandırmasının bulunduğu" ifadesi ile ödenmemiş taksit ve yapılandırma kapsamı dışında
+kalan borçları toplamı asgari ücretin brüt tutarından fazla olduğundan borç tutarı yer
+alacaktır. İşverene örneği Ek-14’te yer alan Kredi Garanti Fonuna verilmek üzere
+düzenlenecek olan belge, belgenin verildiği tarih itibarıyla işverenin yapılandırmasının
+bulunduğunu ve ödenmemiş yapılandırma taksiti ile muaccel hale gelen cari prim borçları
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+toplamının 3.110 TL olduğunu gösterir şekilde düzenlenecektir.
+
+        VI. PRİM BORÇLARININ KATMA DEĞER VERGİSİ İLE ÖDENMESİ
+        Bilindiği üzere, 5510 sayılı Kanunun 88 inci maddesinin on üçüncü fıkrasında; "Prim
+borçları katma değer vergisi iade alacağından mahsubu suretiyle de ödenebilir. Bu takdirde
+katma değer vergisi iade hakkı sahibi kendisinin, mal veya hizmet satın aldığı veya iştirak
+veya ortaklık ilişkisi içinde bulunduğu işverenlerin prim borçları için de mahsup talep
+edebilir. Bu işverenlerin mahsup talebinde bulundukları ayda muaccel olan prim borçlarının
+birinci fıkrada belirtilen ödeme sürelerini izleyen onbeş gün içinde mahsup suretiyle
+ödenmesi halinde, yasal süresi içinde ödendiği kabul edilir. Ancak prim borçlarının katma
+değer vergisi iade alacağından mahsup suretiyle ödenmesi talebinde bulunulduğu halde,
+süresinde mahsup edilemeyen veya eksik mahsup edilen prim borçları için birinci fıkrada
+belirtilen ödeme sürelerini izleyen günden başlanarak gecikme cezası ve gecikme zammı
+uygulanır. Kurum, Maliye Bakanlığının uygun görüşü ile bu uygulamadan faydalanacak
+işverenleri; iştigal konusu, işletme türü ve işletme büyüklüğü itibarıyla belirlemeye ve lehine
+mahsup talebinde bulunulan işverenlerin prim borcu ödeme süresini otuz günü aşmamak
+üzere uzatmaya yetkilidir." hükmü bulunmaktadır.
+        28/11/2013 tarihli ve 28835 sayılı Resmi Gazete'de yayınlanarak yürürlüğe giren
+İşveren Uygulama Tebliğinde yapılan değişiklikle prim borçlarının katma değer vergisi iade
+alacağından mahsup suretiyle ödenmesinin talep edilmesi durumunda, cari aya ilişkin sigorta
+priminin en geç ödenmesi gereken yasal süre, primin ilişkin olduğu dönemi takip eden
+dönemin sonu (vade) yerine, vadeyi takip eden yirminci gün olarak değiştirilmiştir.
+        Sigorta primi borçlarını KDV alacağından mahsup suretiyle ödeyen işverenlerin,
+sigorta primlerinin yasal ödenmesi gereken sürenin bitiminden itibaren mahsup için geçecek
+olan ilave 20 günlük süre içinde ihalelere katılmak için Kurumumuzdan borcu olmadığına
+ilişkin yazı talep etmeleri halinde, KDV mahsubuyla ödenecek olan sigorta primi tutarı henüz
+Kurum hesaplarına intikal etmemiş olduğundan, kendilerine borcu olmadığına ilişkin belge
+verilememektedir.
+        İşverenlerin Kurumumuza olan borçlarını KDV alacağından mahsup yoluyla ödemeyi
+talep etmeleri ve cari ay haricinde kesinleşmiş prim borçlarının bulunmaması halinde KDV
+alacağından yapılacak sigorta primi ödemelerinin vergi dairelerince en geç ayın 20'sinde
+hesaplarımıza aktarıldığı dikkate alınarak, cari aya ilişkin sigorta primleri için yasal ödeme
+süresinin bittiği tarihten itibaren takip eden ayın 1'i ila 20'si arasında geçecek süre içinde
+borcu yoktur yazısı talep eden işverenlerin, iadeyi yapacak ilgili vergi dairesinden /
+saymanlıktan alacakları "mükellef ....nın ...ayına ait ....tutarındaki sigorta primi borcu tutarı
+KDV alacağından mahsup suretiyle ....tarihinde Kurumunuz hesaplarına aktarılacaktır."
+şeklinde düzenlenmiş ıslak imzalı bir yazı ile ünitelerimize müracaat etmeleri ve "vade
+tarihinde KDV mahsubuyla ödenecek olan sigorta priminin Kurum hesaplarına intikal
+etmemesi halinde verilmiş olan borcu yoktur yazısının hükümsüz olacağına dolayısıyla ihale
+tarihi itibariyle borçlarının olduğunu kabul edeceklerine" dair Ek-15'te yer alan
+taahhütnameyi vermeleri koşulu ile söz konusu süre zarfında kendilerine borcu olmadığına
+ilişkin Ek-16'da örneği bulunan belgenin verilmesi mümkün bulunmaktadır.
+        KDV mahsubu suretiyle prim ödemeleri için Hazine ve Maliye Bakanlığına (ilgili
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+vergi dairesine) sunulmak üzere Kurumdan işverenin borcunu belirtir yazı talep edilmesi
+halinde, borç sorgusu dönem bazlı yapılacak cari dönem borçları ayrı geçmiş dönem borçları
+ayrı sorgulanarak düzenlenecek yazılarda belirtilecektir. Yapılan sorgulamalarda
+yapılandırma, erteleme, tecil ve taksitlendirme kapsamında bulunan tutarlar borç olarak
+gösterilmeyecektir.
+       Örnek 1: Kurumumuzda 01.01.1234568.006 sicil numarası ile kayıtlı işyeri bulunanan
+(A) işvereni, 26/2/2019 tarihinde Hazine ve Maliye Bakanlığına (ilgili vergi dairesine)
+sunulmak üzere KDV iadesinden mahsup suretiyle ödenmek üzere prim borçlarını belirtir
+borcu yoktur belgesi talep etmektedir. İşverenin Ocak/2019 dönemine ait aylık prim ve
+hizmet belgesini de 20/2/2019 tarihinde süresinde verdiği bilinmektedir. İşverenin
+dilekçesine istinaden yapılacak 26/2/2019 tarihli borç sorgusunda cari dönem olan Ocak/2019
+dönemi tahakkuku oluştuğundan bu dönemden kaynaklanan borcu ayrı sorgulanacak varsa
+ayrıca geçmiş dönem (Ocak/2019 öncesi dönemler) borçları da sorgulanarak örneği Ek-17'de
+yer alan belge düzenlenecektir.
+
+         VII.      ONAYLANMIŞ            KİŞİ     STATÜ        BELGESİ          İLE       İLGİLİ
+YETKİLENDİRİLMİŞ                GÜMRÜK          MÜŞAVİRİNE           VERİLMEK             ÜZERE
+DÜZENLENECEK BELGELER
+         30/12/2011 tarihli ve 28158 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan
+Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No:1) 6 ncı maddesi;
+         "MADDE 6 – (1) Onaylanmış kişi statü belgesi başvurularında OK1(ilgili tebliğ
+tanımlar "OK1": Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının
+yetkilendirilmiş gümrük müşavirince gerçekleştirilecek ön incelemesi) için tespit sözleşmesi
+yapılmış Yetkilendirilmiş Gümrük Müşavirine aşağıda belirtilen belgelerin ibrazı gerekir:
+         ...
+         ç) Türkiye genelinde kesinleşmiş sosyal güvenlik prim borcu bulunmadığının
+tevsikine ilişkin olarak, OK1 tespiti için tespit sözleşmesi (ilgili tebliğ tanımlar "tespit
+sözleşmesi": Yetkilendirilmiş gümrük müşaviri ile onaylanmış kişi statü belgesi
+başvurusunda bulunacak kişi arasında OK1 tespitinin yapılması için özel hukuk hükümlerine
+istinaden yapılan sözleşme) yapıldığı tarihten geriye dönük en geç bir ay içerisinde Sosyal
+Güvenlik Kurumunun "e-Borcu yoktur" uygulaması içerisinde yer alan ihale konusu olmayan
+işlerle ilgili "e-borcu yoktur belgesi" seçeneğinden alınmış, tüzel kişiler için ticaret unvanı ve
+vergi numarasını, gerçek kişiler için ise ad ve soyadı ile T.C. kimlik numarasını, ilgili
+kurumca elektronik ortamda üretilen bar-kod ve referans numarasını, belgenin internet
+üzerinden alındığı tarihi, saati ve sorgulamanın Türkiye genelinde yapıldığına ilişkin bilgileri
+gösteren ihale konusu olmayan işlerle ilgili "e-borcu yoktur belgesi" ya da Ek-4/A’da yer
+alan örneğe uygun form ile Sosyal Güvenlik Kurumunun ilgili birimlerinden OK1 tespiti için
+tespit sözleşmesi yapıldığı tarihten geriye dönük en geç bir ay içerisinde alınan yazı aslı,
+         ... "
+         hükmü uyarınca, işverenlerce, Gümrük ve Ticaret Bakanlığından "Onaylanmış Kişi
+Statü Belgesi" almak amacıyla sosyal güvenlik prim borcu olmadığına ve çalıştırılan sigortalı
+sayısına ilişkin yapılan müracaatlar üzerine, Sosyal Güvenlik İl Müdürlükleri / Merkezlerince
+yapılacak işlemler aşağıda açıklanmıştır.
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+
+        1- Başvuru Formunun Doldurulması ve Başvuru Üzerine Yapılacak İşlemler
+        Onaylanmış Kişi Statü Belgesi almak amacıyla sosyal güvenlik prim borcu olup
+olmadığının bildirilmesine ilişkin müracaatlar Ek-18’de yer alan; çalıştırılan sigortalı
+sayısının bildirilmesine ilişkin müracaatlar da örneği Ek-19’da yer alan başvuru formları ile
+işyerinin bağlı bulunduğu Sosyal Güvenlik İl Müdürlüğüne / Merkezine yapılacaktır.
+        Başvuruda bulunan işveren tarafından, Türkiye genelinde aynı unvan / ad soyad ile
+tescil edilmiş diğer işyerlerinin yanı sıra aracısı, ortağı ve üst düzey yöneticisi olunan
+işyerlerine ilişkin bilgiler de başvuru formuna kaydedilecektir.
+        Onaylanmış Kişi Statü Belgesi almak amacıyla yapılan başvuru üzerine, başvuruda
+bulunan işverenin, başvuru formunda beyan ettiği işyerleri dışında işyerlerinin bulunup
+bulunmadığı, işveren intra uygulamasından "İşveren Tescil-Türkiye Geneli Sorgulama"
+menüsünden kontrol edilecektir.
+        Türkiye genelinde yapılacak olan kontrol sırasında, "Unvandan Sorgulama", "Ortak ve
+Yönetici Sorgulama", "TC Kimlik / Vergi No’dan Sorgulama" seçenekleri ayrı ayrı
+kullanılmak suretiyle çapraz sorgulama yapılacaktır.
+
+        2- Çalıştırılan Sigortalı Sayısının Belgelenmesi
+        Çalıştırılan sigortalı sayısının tespiti sırasında, işyerinin bağlı bulunduğu Sosyal
+Güvenlik İl Müdürlüğüne / Merkezine müracaat edildiği tarih itibariyle, Kuruma verilmiş
+olan yasal verilme süresi geçmiş en son aya ilişkin aylık prim ve hizmet belgeleri esas
+alınacaktır.
+        Örnek 1: (A) Limited Şirketinin, Onaylanmış Kişi Statü Belgesi almak için sosyal
+güvenlik prim borcu olup olmadığının ve çalıştırılan sigortalı sayısının bildirilmesi amacıyla
+13/8/2017 tarihinde işyerinin bağlı bulunduğu Sosyal Güvenlik İl Müdürlüğüne müracaat
+ettiği varsayıldığında, 13/8/2017 tarihi itibariyle yasal verilme süresi geçmiş en son aylık
+prim ve hizmet belgesi 2017/Haziran ayına ilişkin prim belgesi olacağından, çalıştırılan
+sigortalı sayısının tespitinde, 2017/Haziran ayına ilişkin olarak düzenlenmiş aylık prim ve
+hizmet belgeleri esas alınacaktır.
+        Örnek 2: Örnek 1'deki işverenin, işyerinin bağlı bulunduğu Sosyal Güvenlik İl
+Müdürlüğüne 25/9/2017 tarihinde müracaat ettiği varsayıldığında ise, 25/9/2017 tarihi
+itibariyle, yasal verilme süresi geçmiş en son aylık prim ve hizmet belgesi 2017/Ağustos
+ayına ilişkin prim belgesi olacağından, çalıştırılan sigortalı sayısının tespitinde, bu defa
+2017/Ağustos ayına ilişkin olarak düzenlenmiş aylık prim ve hizmet belgesi esas alınacaktır.
+        Sigortalı sayısının tespiti sırasında, başvuruda bulunan işverenin Türkiye genelinde
+aynı unvan / ad soyad ile tescil edilmiş olan işyerleri, bu işyerlerinde aracı sıfatı ile
+bildirimde bulunanlar ve kendisinin aracı sıfatı ile bildirimde bulunduğu işyerlerinde
+çalıştırmış olduğu sigortalılara ilişkin aylık prim ve hizmet belgeleri dikkate alınacak, buna
+karşın ortağı ve üst düzey yöneticisi olduğu işyerlerinde çalıştırmış olduğu sigortalılara
+ilişkin aylık prim ve hizmet belgeleri dikkate alınmayacaktır.
+        Örnek 3: Türkiye genelinde aynı unvan / ad soyad ile tescilli 4, aracı olarak işlem
+gördüğü 2, ortağı olduğu 5 işyeri bulunan (B) Limited Şirketinin, çalıştırılan sigortalı
+sayısının bildirilmesi amacıyla 15/9/2017 tarihinde işyerlerinden herhangi birinin bağlı
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+bulunduğu Sosyal Güvenlik İl Müdürlüğüne müracaat ettiği varsayıldığında, sigortalı
+sayısının tespitine esas alınacak ay 2017/Temmuz ayı olduğundan, işverenin aynı unvan / ad
+soyad ile tescili işyerleri ile aracı olarak işlem gördüğü işyerlerinden 2017/Temmuz ayına
+ilişkin düzenlenen aylık prim ve hizmet belgelerinde kayıtlı sigortalı sayısı dikkate alınacak,
+buna karşın ortağı olduğu işyerlerinde çalıştırmış olduğu sigortalılara ilişkin aylık prim ve
+hizmet belgelerinde kayıtlı sigortalı sayısı dikkate alınmayacaktır.
+        Başvuruda bulunan işverenin çalıştırdığı sigortalı sayısının tespitine esas alınacak
+ayda, asıl nitelikte aylık prim ve hizmet belgelerinin yanı sıra ek ve iptal nitelikte aylık prim
+ve hizmet belgesi de verilmiş ise, sigortalı sayısı asıl ve ek nitelikteki aylık prim ve hizmet
+belgelerinde kayıtlı sigortalı sayılarının toplamından iptal nitelikteki aylık prim ve hizmet
+belgelerinde kayıtlı sigortalı sayıları çıkartılmak (ASIL + EK – İPTAL) suretiyle tespit
+edilecektir.
+        Örnek 4: (A) gerçek kişisinin sigortalı sayısının tespitine esas olan 2017/Haziran ayına
+ilişkin düzenlemiş olduğu asıl nitelikteki aylık prim ve hizmet belgesinde 10 sigortalı, ek
+nitelikteki aylık prim ve hizmet belgesinde 4 sigortalı, iptal nitelikteki aylık prim ve hizmet
+belgesinde ise 3 sigortalı kayıtlı olduğu varsayıldığında, çalıştırılan sigortalı sayısı 10 + 4 – 3
+=11 olarak bildirilecektir.
+        Sigortalı sayısının tespitine esas olan ayda, sigortalının ay içinde işten ayrılması ve
+aynı ay içinde aynı işyerine tekrar başlamış olması halinde, bu sigortalı için aylık prim ve
+hizmet belgesinde iki ayrı kayıt yer alacağından, sigortalı sayısının tespitinde bu nitelikteki
+kayıtlardan mükerrer olan kayıtlar dikkate alınmayacaktır.
+        Çalıştırılan sigortalı sayısına ilişkin olarak Yetkilendirilmiş Gümrük Müşavirine
+sunulmak üzere düzenlenecek olan yazılar, ünite mührüyle tasdik edilerek tarih ve sayı
+verildikten sonra ilgililere verilecektir.
+        Sigortalı sayısının tespitine esas aya ilişkin olarak, başvuruda bulunan işverenin aynı
+ad soyad ile tescil edilmiş işyerlerinden ya da aracısı olduğu işyerlerinden iptal nitelikte aylık
+prim ve hizmet belgesi verilmiş ise, sigortalı sayısı, aylık prim ve hizmet belgeleri
+onaylanmak suretiyle değil, resmi bir yazı ile başvuru formunda belirtilen Yetkilendirilmiş
+Gümrük Müşavirine bildirilecektir.
+        Yine, başvuruda bulunan işverenin aynı unvan / ad soyad ile tescil edilmiş işyerleri ile
+aracısı olduğu işyerlerinin sayısının birden fazla olması halinde, herhangi bir karışıklığa
+mahal bırakılmaması amacıyla, çalıştırılan sigortalı sayısı, resmi bir yazı ile başvuru
+formunda belirtilen Yetkilendirilmiş Gümrük Müşavirine bildirilecektir.
+        Çalıştırılan sigortalı sayısının Yetkilendirilmiş Gümrük Müşavirine bildirilmesi
+sırasında hangi aya ilişkin aylık prim ve hizmet belgelerinin dikkate alındığı da belirtilecektir.
+        Çalıştırılan sigortalı sayısının tespitine esas olan ayda, aylık prim ve hizmet belgesi
+verilmemiş ise, önceki aylara ilişkin aylık prim ve hizmet belgesi verilip verilmediği üzerinde
+durulmaksızın, Yetkilendirilmiş Gümrük Müşavirine sigortalı çalıştırılmadığı bildirilecektir.
+
+      3- Sosyal Güvenlik Prim Borçlarının Sorgulanması
+      3.1 Sorgulama Kapsamına Giren Borç Türleri Ve Borç Sorgulamasında Esas
+Alınacak Tarih
+      Onaylanmış Kişi Statüsü Belgesi almak için sosyal güvenlik prim borcu olup
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+olmadığının ve çalıştırılan sigortalı sayısının Yetkilendirilmiş Gümrük Müşavirine
+bildirilmesi amacıyla yapılan müracaatlar üzerine, Sosyal Güvenlik İl Müdürlükleri
+/Merkezlerince;
+         Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı
+çalıştırması nedeniyle işveren olanlar yönünden sigorta primi, sosyal güvenlik destek primi,
+işsizlik sigortası primi, idari para cezaları ve fer'ileri,
+         Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında çalışan
+sigortalılar yönünden prim borçları ile bunlara bağlı gecikme cezası, gecikme zammı, varsa
+faiz ve diğer fer’ileri,
+         Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı çalıştıran
+işverenler yönünden kesenek ve kurum karşılıkları, sigorta primi, idari para cezaları ve
+fer'ileri,
+         sorgulanacaktır.
+         Borç sorgulaması, Kuruma müracaat ettiği tarih itibariyle, başka bir ifade ile başvuru
+formunun Kurum kayıtlarına intikal ettiği tarih itibariyle muaccel hale gelmiş olan borçları
+sorgulanmak suretiyle yapılacaktır.
+
+        3.2 Sorgulama Kapsamına Giren Borçların Taksitlendirilmiş veya Yapılandırılmış
+Olması
+        Başvuruda bulunan işverene, Yetkilendirilmiş Gümrük Müşavirinden Onaylanmış
+Kişi Statü Belgesi almak amacıyla, kesinleşmiş sosyal güvenlik prim borcu olmadığına
+ilişkin yazının verilebilmesi için, Türkiye genelinde aynı unvan / ad soyad ile tescil edilmiş
+ya da ortağı, aracısı ve üst düzey yöneticisi olduğu işyerlerinden dolayı yukarıdaki 3.1 nolu
+bölümde açıklanan nitelikte borçlarının bulunmaması gerekmektedir.
+        Sigorta primi ve işsizlik sigortası primlerinin, 6183 sayılı Kanunun 48 inci maddesine
+göre tecil edilmiş ve taksitlendirmiş ya da ilgili kanunlara göre yeniden yapılandırmış olması
+halinde, tecil ve taksitlendirilmiş ya da yeniden yapılandırılmış olan borçlara ilişkin taksit
+ödeme yükümlülüklerinin düzenli olarak yerine getiriliyor olması ve tecil ve taksitlendirme
+ya da yapılandırma kapsamına girmeyen muaccel hale gelmiş sigorta primi ve işsizlik
+sigortası prim borcunun bulunmaması kaydıyla, söz konusu işverenlere, tecil ve
+taksitlendirilmiş ya da yapılandırılmış olan kalan borç tutarı da belirtilmek suretiyle, borcun
+tecil ve taksitlendirilmiş ya da yapılandırılmış olduğu şeklinde belge verilecektir.
+
+        VIII. ORTAK HUSUSLAR
+
+       1-Emanet Hesaplarda Bulunan Paralar
+       Borç sorgulaması yapılırken aynı zamanda işverenin emanet hesapları da kontrol
+edilerek, varsa buradaki paraların ilgili hesaplara ve müfredat kartlarına aktarılması
+yapılacaktır.
+       Emanete alınmış olması nedeniyle ödenmediği görülen borçlarla ilgili olarak borcu
+yoktur belgesi / yazısı isteyen işverenler tarafından kendilerinin bu borçları ödediklerine dair
+makbuz ibraz etmeleri durumunda, emanet hesapları görüntüleme ekranları da kullanılarak
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+gerekli araştırma yapılacak ve borcun gerçekten ödenmiş olduğunun anlaşılması halinde
+aktarma işlemi yapılarak, ilgililere borcu yoktur belgesi / yazısı verilecektir.
+
+        2-Alt İşverenlere Ait Borçlardan İşverenin Sorumluluğu
+        Bilindiği gibi, işverenlere ait işyerlerinin bölüm veya eklentilerinden iş alan ve kendi
+adlarına sigortalı çalıştıran alt işverenlerin kendi adlarına işyeri dosyası açılmamakta,
+çalıştırdıkları sigortalılardan dolayı tahakkuk eden ve ödenmeyen prim borçlarından dolayı
+kendileri ile birlikte işverenleri de sorumlu bulunduğundan, alt işverenlerin kesinleşmiş
+sosyal güvenlik prim borçları ödenmedikçe, kendilerine ve işverenlerine borçlarının
+olmadığına dair belge verilmeyecektir.
+        Alt işverenlerin kendi çalıştırdıkları sigortalılardan dolayı prim borcu olmadığına dair
+belge talep etmeleri durumunda sadece alt işverenlikten kaynaklı borç sorgusu yapılarak
+örneği Ek-7 ya da Ek-8’de yer alan borcu yoktur belgesi verilecektir.
+
+        3-Kurumumuzda Tescilli İşyeri Bulunmayanlar
+        Kurumumuzdan farklı sebeplerle Kredi Garanti Fonu, KOSGEB, TÜBİTAK,
+Kalkınma Ajansları, Hazine ve Maliye Bakanlığı, Ticaret Bakanlığı gibi kurumlara verilmek
+üzere borcu yoktur belgeleri / yazıları istenebilmektedir. Düzenlenmesinin usul ve esasları
+Kanunen belirlenen bu belgeler / yazılar Genelgenin diğer bölümlerinde açıklanmıştır.
+        Ancak Kurumumuzda tescilli (kayıtlı) işyeri bulunmayanlarla ilgili yapılacak işlemin
+ve düzenlenecek belgenin / yazının isteyen kuruma göre farklı olmaması gerektiğinden,
+tescilinin (kaydının) olmadığına dair düzenlenecek belgeler / yazılar ayrı ayrı her bölümde
+belirlenmemiştir.
+        Kurumdan borcu olmadığına dair belge / yazı isteyen ilgilinin müracaatta bulunduğu
+işveren işlemleri yürütülen herhangi bir İl Müdürlüğü veya Sosyal Güvenlik Merkezince
+yapılan Türkiye geneli sorgulaması sonrasında kaydının veya tescilli işyerinin bulunmadığı
+tespit edildiğinde, ilgilinin sigortalılığından kaynaklı sorgulaması da yapılarak ilgiliye sorgu
+sonucunda durumuna uygun örneği Ek-20 ya da Ek-21’de yer alan "Tescili / Kaydı Yoktur"
+belgesi muhatap kurum / kuruluş / kişi dikkate alınarak düzenlenecektir.
+
+        4- İz’e Ayrılan ve Kanun Kapsamından Çıkarılan İşyeri Dosyaları
+        Yapılacak sorgulamada, işverenlerin daha önce başka ünitede işlem gören işyerlerine
+ait işyeri dosyalarının iz’e ayrıldığının tespiti durumunda, iz’e ayrılan işyerlerinden dolayı
+ödenmemiş prim borcu bulunamayacağından, işyerinin işlem gördüğü Ünite ile bu amaçla
+yazışma yapılmayacaktır.
+        Kanun kapsamından çıkarıldığı halde, henüz iz’e ayrılmamış işyerleri yapılacak
+sorgulamada dikkate alınarak bu işyerlerinin kapsama giren borçlarının olup olmadığı
+araştırılacaktır.
+
+     5- Müracaatlarda İstenilen Belgeler
+     Bilindiği üzere 31/7/2009 tarihinde Resmi Gazete'de yayımlanarak yürürlüğe giren
+"Kamu Hizmetlerinin Sunumunda Uyulacak Usul ve Esaslara İlişkin Yönetmelik"in başvuru
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+sahibinden bilgi ve belge istenmesine ilişkin esasların düzenlendiği 8 inci maddesinde,
+idarenin görevi gereği kendisinde bulunan bilgi ve belgeler ile daha önce başvuru sahibinden
+alınarak kurum kayıtlarına aktarılan ve değişmediği başvuru sahibi tarafından beyan edilen
+belgelerin yeniden istenmeyeceği, istenen belgenin aslının getirilmesi hâlinde, belgenin
+fotokopisi, aslına uygunluğu kontrol edildikten sonra ilgili görevli tarafından isim ve unvan
+yazılarak tasdik edileceği, diğer idarelerin elektronik ortamda paylaşıma açtığı bilgi ve
+belgelerin, başvuru sahibinden istenmeyeceği bu bilgi ve belgelere kolayca erişim için gerekli
+bilgilerin istenebileceği hükümleri yer almaktadır.
+        Dolayısıyla borcu yoktur belgelerine müracaat eden ilgililerden istenecek belgelerde
+işyeri bildirgesi ile birlikte istenilen gerçek kişi işverenler yönünden kendilerinin, tüzel kişi
+işverenler yönünden ise tüzel kişiliği temsile yetkili kişilerin imza sirkülerinin ikinci defa
+istenmemesi; gerek görülmesi halinde borcu yoktur belgesi için Üniteye müracaatları
+sırasında kişiliği temsile yetkililerin kimliklerinin tespitiyle birlikte imza beyanlarının
+alınması yeterli sayılacaktır.
+        Diğer yandan ortak olunan işyerine ait Ticaret Sicil Gazetesi veya diğer belgelerin, üst
+düzey yöneticilerin göreve başlama ve bitiş tarihlerini belgeleyen belgelerin başvuru
+sırasında sunulması gerekmektedir.
+
+        6- Yürürlükten Kaldırılan Hükümler
+        23/6/2016 tarihli ve 2016/13 sayılı, 21/8/2009 tarihli ve 2009-106 sayılı, 16/4/2009
+tarihli ve 2009-62 sayılı, 16/1/2009 tarihli ve 2009-13 sayılı, 1/10/2007 tarihli ve 2007/75
+sayılı Genelgeler ile 8/12/2017 tarihli ve 6183901 sayılı Genel Yazı, 1/3/2017 tarihli ve
+1154504 sayılı Genel Talimat, bu Genelgenin yürürlüğe girdiği tarih itibariyle yürürlükten
+kaldırılmış olup, diğer Genelgelerin bu Genelgeye aykırı hükümleri uygulanmayacaktır.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+                                                                                              İsmail YILMAZ
+                                                                                              Kurum Başkanı V.
+
+
+
+
+Ek : Ek Listesi (1 Sayfa)
+
+
+
+Dağıtım:
+Gereği:                                                           Bilgi:
+Merkez ve Taşra Teşkilatına                                       Aile, Çalışma ve Sosyal Hizmetler Bakanlığına
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+                                                  T.C.
+                              SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                   Sigorta Primleri Genel Müdürlüğü
+
+Ek Listesi
+
+1. 4734 Sayılı Kamu İhale Kanununa Göre Borç Sorgusu (Borcu Yok)
+2. 4734 Sayılı Kamu İhale Kanununa Göre Borç Sorgusu (Borcu Var)
+3. 4734 Sayılı Kanunun 10 uncu Maddesine Göre Borcu Yoktur Belgesi Verilmesine İlişkin
+Talep Formu
+4. Piyasadan Hazır Halde Alınıp Satılan Malların Hak ediş (İstihkak) Ödemesi
+5. Hak ediş (istihkak) ödemesi (Borcu Yok)
+6. Hak ediş (istihkak) ödemesi (Borcu Var)
+7. Tek İşyeri/Altişveren Borç Sorgulaması (Borcu Yok)
+8. Tek İşyeri/Altişveren Borç Sorgulaması (Borcu Var)
+9. İdarelerce e-Borç Sorgulama Yetki Talep Formu
+10. İdarelerce e-Borç Sorgulama Kullanıcı Kodu ve Kullanıcı Şifresi Teslim Tutanağı
+11. Devlet Yardımı, Teşvik ve Destekler için Prim Borcu Sorgulama (Borcu Yok)
+12. Devlet Yardımı, Teşvik ve Destekler için Prim Borcu Sorgulama (Yapılandırılmış, Borcu
+Yok)
+13. Devlet Yardımı, Teşvik ve Destekler için Prim Borcu Sorgulama (Borcu Var)
+14. Devlet Yardımı, Teşvik ve Destekler için Prim Borcu Sorgulama (Yapılandırılmış, Borcu
+Var)
+15. KDV Mahsubuyla Sigorta Primi Ödeyenler İçin Taahhütname
+16. KDV Mahsubuyla Sigorta Primi Ödeyenler İçin İhalelere Katılmak Üzere Prim Borcu
+Sorgulama (KDV Mahsup Borcu Yoktur)
+17. KDV İadesi Prim Borcu Sorgulama (KDV İadesi Borç Sorgusu)
+18. Sosyal Güvenlik Prim Borcunun Yetkilendirilmiş Gümrük Müşavirine Bildirilmesi
+19. Sigortalı Sayısının İlgili Yetkilendirilmiş Gümrük Müşavirine Bildirilmesi
+20. Türkiye Geneli Borç Sorgulaması (İşyeri Tescili/Kaydı Yok/Borcu Yok)
+21. Türkiye Geneli Borç Sorgulaması (İşyeri Tescili/Kaydı Yok/Borcu Var)
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+───────────────────────────────────────────────────────────────────────────────
+Mithatpaşa Cad. No: 7 06430 Sıhhıye/Ankara Çankaya/Ankara                                                   Bilgi için:Satılmış ÇELİK
+Telefon No: (0312) 458 70 20 Faks No: (0312) 433 43 97                                                                  Daire Başkanı
+E-Posta: aidb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr                                                Telefon No: (0312) 458 70 20
+10
+
+    Evrakın e-imzalı hali https://uyg.sgk.gov.tr/DYSEvrakDogrulamaWEB/ adresinden a894-e360-3c46-a33a-d9eb kodu ile teyit edilebilir.
+

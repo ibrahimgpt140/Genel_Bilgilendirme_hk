@@ -1,0 +1,121 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/155940
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 15367140
+ADI: "KAPSAM 4A UYGULAMASININ 4/1-(A), 4/1-(B), 4/1-(C) ÖDEME SİSTEMLERİYLE ENTEGRE EDİLMESİ" HAKKINDA 11/10/2019 TARİHLİ VE 15367140 SAYILI GENEL YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: ba4100e6d1ad3ad6abb75967f6d28c7110bdd0a2f81a12a6a968cb5fce24d592
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                              T.C.
+                          SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                              Emeklilik Hizmetleri Genel Müdürlüğü
+
+
+Sayı : 98547999-010.07.99-E.15367140                                                                     11/10/2019
+Konu : KAPSAM 4A Uygulamasının
+       4/1-(a), 4/1-(b), 4/1-(c) Ödeme
+       Sistemleriyle Entegre Edilmesi
+
+
+
+
+                                                 GENEL YAZI
+
+        Bilindiği üzere, 4/1-(a) kapsamında sigortalı ve hak sahiplerine bağlanan
+gelir/aylıkların yersiz olarak ödenmesini engellemek amacıyla 4/1-(a), 4/1-(b), 4/1-(c)
+kapsamında yapılan tescil bilgilerinin sistemden alınarak durdurulması, kesilmesi ve
+listelenmesine ilişkin KAPSAM 4A uygulaması 05/06/2017 tarihinde sadece tescil işlemleri
+yönüyle işletime açılmış olup, tespit edilen kayıtlarla ilgili yapılması gereken işlemler
+20/10/2017 tarih ve 5301948 sayılı Genel Yazıyla talimatlandırılmıştır.
+        Diğer taraftan, söz konusu uygulama 4/1-(a), 4/1-(b), 4/1-(c) ödemeler sistemleriyle de
+entegre duruma getirilmiş olup, 05/08/2019 tarihi itibariyle 4/1-(a) kapsamında gelir/aylık
+almakta olan sigortalı ve hak sahiplerinin hak kazanma koşulları ile 4/1-(a), 4/1-(b), 4/1-(c)
+statüleri ile birleşmesi durumları söz konusu uygulama tarafından kontrol edilmeye
+başlanmıştır.
+        Uygulamanın açıldığı tarihten itibaren günlük yapılan kontroller sonucu, 4/1-(a)
+kapsamında malullük, yaşlılık aylığı ve sürekli iş göremezlik geliri alan emekliler ile
+gelir/aylık alan hak sahibi eş, çocuk, ana ve babalardan yürürlükte olan mevzuata aykırı
+olarak gelir/aylık aldığı tespit edilen veya tereddüt nedeniyle durumu incelenmesi
+gerekenlerin gelir/aylıklarının durdurulması, kesilmesi ve kontrol amaçlı liste alınması
+işlemlerine de eş zamanlı olarak başlanmış olup, söz konusu uygulama üzerinden il bazında
+günlük olarak liste alınabilecektir.
+        Söz konusu uygulama açıldığı günden itibaren günlük olarak alınan listelere, her
+dosyanın bulunduğu sosyal güvenlik il/merkez müdürlüğünce işlem yapılacak olup, ilgili
+müdürlüklerce listede yer alan kayıtlar hakkında 5510 sayılı Kanunun 54 üncü ve geçici 7
+inci maddeleri, Sosyal Sigorta İşlemleri Yönetmeliğinin geçici 31 inci maddesi ve 2018/38
+sayılı Genelgenin "Gelir Aylıkların Birleşmesi" bölümünde yer alan usul ve esaslar
+doğrultusunda inceleme yapılarak tahsis işlemlerinin geciktirilmeden sonuçlandırılması
+gerekmektedir.
+        Buna göre, söz konusu uygulamadan mevzuata aykırı olduğu tespit edilen
+gelir/aylıkların görüntülenmesi için “Ödeme İşlemleri” menüsü altında sırasıyla;
+        - “İşlem aylık türü” sekmesinde; listelenmek istenen 4/1-(a) statüsündeki gelir/aylık
+türü,
+        - “İşlem kanun türü” sekmesinde; listelenmek istenen 4/1-(a) statüsündeki gelir/aylık
+türünün hangi kanuna göre bağlandığı bilgisi,
+        - “Kontrol aylık türü” sekmesinde; 4/1-(a) statüsündeki gelir/aylık türüyle birlikte
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                     Bilgi için: Beyhan AKYOL
+Telefon No: 0 312 458 70 30 Faks No: 0 312 432 10 62                                                    Daire Başkanı V.
+E-Posta: ehgm_bhacedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+                                                T.C.
+                       SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                             Emeklilik Hizmetleri Genel Müdürlüğü
+ödenmekte olan gelir/aylığın statüsü (4/1-(a), 4/1-(b) veya 4/1-(c)),
+        - “Kontrol aylık ayrıntı” sekmesinde; 4/1-(a) statüsündeki gelir/aylık türüyle birlikte
+ödenmekte olan gelir/aylığın türü ve hak sahipleri için yakınlık kodu bilgisi,
+        - “İşlem türü” sekmesinde ise KAPSAM 4A otomatik olarak durdurulan kayıtları
+listelemek için “ikinci karar işlemi yapılacaklar", otomatik olarak durdurulmayıp incelenmesi
+gerektiği tespit edilen kayıtları listelemek için ise “mevzuat kontrolü yapılacaklar” seçeneği,
+        seçildikten sonra "çalışma dönemi" seçilecek ve “Listele” butonuna basılarak
+incelenmesi gereken kayıtlar tespit edilecektir.
+        Her ünite yalnızca 4/1-(a) ödeme sisteminde "dosya yeri" bilgisi kendinde olan
+dosyalara ait kayıtları görüntüleyebilecek olup yersiz ödemeye sebebiyet vermemek için
+listelerin düzenli olarak kontrol edilmesi gerekmektedir.
+        Öte yandan, uygulama tarafından tespit edilerek listelenen kayıtların EMEKTAR 4A
+programı üzerinden otomatik alınması, kontrol ve tahsis işlemleri tamamlananların listelerden
+kaldırılmasına ilişkin program çalışmaları sürdürülmekte olup, proje hakkında
+gerçekleştirilecek düzenleme ve iyileştirmeler tamamlandıktan sonra EMEKTAR 4A
+programı üzerinden konuya ilişkin duyuru ile uygulamanın kullanımına ilişkin kullanım
+kılavuzu uygulamaya eklenecektir.
+        Bununla birlikte, Ağustos/2019 çalışma döneminin kapanmasıyla birlikte EMEKTAR
+4A uygulamasının tahsis işlemlerine kapalı olduğu sürede 4/1-(a) statüsünde bugüne kadar
+bağlanmış ve ödenmekte olan tüm gelir/aylıklar "KAPSAM 4A" uygulamasında belirlenen
+mevzuat iş kuralları kullanılarak toplu olarak sorgulanmış, sorgulama sonuçlarına ilişkin
+listeler alınmıştır. Söz konusu listeler gerekli kontroller yapıldıktan sonra işlem yapılmak
+üzere e-posta yoluyla ünitelere iletilecek olup, listelerin incelenerek, gelir/aylıkları
+durdurulanların yersiz ödemelerinin 5510 sayılı Kanunun 96 ıncı maddesi kapsamında tahsili
+yoluna gidilmesi, incelenmesi gerekenlerin ise yürürlükte olan ilgili mevzuat doğrultusunda
+incelenerek işlemlerin ivedilikle sonuçlandırılması gerekmektedir.
+        Ayrıca, KAPSAM 4A uygulamasına “MEYES Tekil Giriş (Single Sign On) Intranet
+Uygulamaları” (SSOM) sisteminden “KAPSAM 4A” modülüne yetki alınarak
+ulaşılabilecektir.
+        Bilgi edinilmesini ve gereğini rica ederim.
+
+
+
+
+                                                                                          İsmail YILMAZ
+                                                                                            Genel Müdür
+
+
+DAĞITIM:
+Gereği :
+Merkez ve Taşra Teşkilatına
+
+
+
+
+      Bu belge 5070 sayılı Elektronik İmza Kanununa göre Güvenli Elektronik İmza ile imzalanmıştır.
+
+
+Mıthatpaşa Caddesı No : 7 Sıhhıye/Ankara                                                     Bilgi için: Beyhan AKYOL
+Telefon No: 0 312 458 70 30 Faks No: 0 312 432 10 62                                                    Daire Başkanı V.
+E-Posta: ehgm_bhacedb@sgk.gov.tr İnternet Adresi: www.sgk.gov.tr
+9
+

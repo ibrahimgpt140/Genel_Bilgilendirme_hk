@@ -1,0 +1,81 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75278
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 4035156
+ADI: KÖMÜR VE LİNYİT MADENLERİNDE ÇALIŞAN SİGORTALILARIN ÜCRETLERİ HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 1ce1d9e894d23c08f160e181758b2e906aabcb87bcb3faed099e2687d9faa54a
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+>” EN s EE.
+Ş G K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+ei AN Sigorta Primleri Genel Müdürlüğü
+Sayı :64399925-70299-E 4035156 22/07/2016
+Konu : Kömür ve linyit madenlerinde çalışan
+sigortalıların ücretleri
+GENEL YAZI
+
+Bilindiği üzere, 25/3/2016 tarihli, 1787338 sayılı Genel Yazıda, 3213 sayılı
+Kanunda yapılan ve 11/9/2014 tarihinden itibaren geçerli olmak üzere yürürlüğe giren düzenleme
+uyarınca 0510 ve 0520 iş kolu kodlarında tescil edilmiş işyeri işverenlerince 4-5-35 ve 36 nolu
+belge türleri seçilmek suretiyle yapılacak bildirimlerde sigortalının ücretinin, asgari ücretin iki
+katından az olmaması gerektiği,
+
+Bu bağlamda, 11/09/2014 tarihinden, gerekli kontrollerin sisteme dahil edildiği
+2015/Temmuz dönemine kadar yapılan ücret bildirimlerinden iki asgari ücretin altında olan
+sigortalılara ait liste Ünitelerimize gönderilerek gerekli işlemlerin yapılması talimatlandırılmıştır.
+
+Ancak, anılan kanunun 11/9/2014 tarihinde yürürlüğe girmiş olması nedeniyle
+2014/9. Aya ait listede hatalı kayıtların bulunduğu tespit edildiğinden ilgili aya ait bildirimler Veri
+Yönetimi Daire Başkanlığından tekrar talep edilip, ilgili başkanlıktan alınan liste ilişikte
+gönderilmiştir.
+
+Buna göre, 2014/09, ay bildirimleri ile ilgili 25/3/2016 tarihli, 1787338 sayılı Genel
+Yazı eki liste yerine yazımız ekindeki listedeki gün ve kazançlar dikkate alınmak suretiyle işlem
+yapılması gerekmektedir. Bahse konu liste 30 gün prim gün sayısı üzerinden bildirimi yapılan
+sigortalılardan toplam prime esas kazanç tutarı 1.889,99 TL ve altında olanlar ile prim gün sayısı
+29 veya altında olanlar olmak üzere iki bölümden oluşmaktadır.
+
+-Birinci bölümde bulunan ve 30 gün prim günü olan toplam prime esas kazanç tutarı
+1.889,99 TL ve altındaki sigortalıların ücretlerinin asgari ücretin iki katına tamamlanması
+gerekmektedir
+
+-İkinci bölümde bulunan 29 ve altında günü bulunan sigortalılara ilişkin yapılacak
+işlemler sırasında kanunun yürürlük tarihi olan 11/9/2014 tarihi dikkate alınarak bu tarih ve
+sonrasındaki günlerin tespit edilebilmesi amacıyla işe giriş çıkış tarihleri, gerekmesi halinde işyeri
+puantaj kayıtları dikkate alınacak ve prime esas kazançlarının yeterli olup olmadığının tespiti
+yapılacaktır.
+
+Örnek: 2014/9. ayda işe giriş ve çıkışı bulunmayan 22 gün bildirimi olduğu
+varsayılan sigortalı için puantaj kayıtlarında ayın üçü ila yirmidördü arasında çalıştığı tespit
+edilmiştir. 8 gün*37,80-302,40TI., 14 gün*75,60-1.058,40TL Toplam-1.360,80TL prime esas
+kazancın altında bildirim olmaması gerekmektedir. İşverenin 22 gün bildirim karşılığında
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmışur
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyaz CEYLAN Şef
+Tel: (0312) 458 7131 Faks: (0312) 4321237
+Elektronik Ağ: vaww.sgk.gov tr
+e-Posta : isverenlerPrimDB©sgk.gov.ir
+
+ALO
+ve
+10GO
+KAYIT DIŞIÇALIŞMAYIN
+GETECEĞİNİZİ RİSK ATMA VİN
+
+831,60TL bildirmiş olması halinde, 1360,80-831,60-529,20TL lik fark prime esas kazancın
+işverenden istenilmesi gerekmektedir.
+Tespit edilen eksik sigorta primine esas kazançlarla ilgili 25/3/2016 tarihli, 1787338
+sayılı Genel Yazıda belirtilen esaslar doğrultusunda gerekli işlemler yapılacaktır.
+Bilgi edinilmesini ve gereğini rica ederim.
+EK. Excel liste
+Bu belge. 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Adres: Mithatpaşa Cad. No:7 Sıhhiye/Ankara Ayrıntılı bilgi için irtibat: Niyaz CEYLAN Şef
+Tel: (0312) 4587131 Faks: (0312) 4321237
+Elektronik Ağ: www.sgk.gov.tr
+e-Posla : isverenlerPrimDB©sgk.yov ir
+ALO
+YAĞI
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GETGOEĞİNİZİ RİSKE ATAMANIN

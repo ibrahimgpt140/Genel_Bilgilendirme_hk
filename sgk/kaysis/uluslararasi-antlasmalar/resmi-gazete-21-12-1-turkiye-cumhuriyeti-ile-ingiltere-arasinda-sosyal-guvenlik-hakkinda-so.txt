@@ -1,0 +1,512 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/24440
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Uluslararası Antlaşmalar
+SAYI: Resmi Gazete: 21.12.1960 - 10686
+ADI: TÜRKİYE CUMHURİYETİ İLE İNGİLTERE ARASINDA SOSYAL GÜVENLİK HAKKINDA SÖZLEŞME
+RESMÎ GAZETE: 21.12.1960 - 10686
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 32d47dbfeb066038848581771a376a7f64553ddaad963d4945b255cf1e42ec6e
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+  TÜRKİYE CUMHURİYETİ İLE İNGİLTERE ARASINDA SOSYAL GÜVENLİK
+                          SÖZLEŞMESİ
+
+İmza Tarihi: 09.09.1959
+Resmi Gazete Tarihi: 21.12.1960
+Resmi Gazete No: 10686
+Yürürlülük Tarihi: 01.06.1961
+
+Sosyal sahada işbirliği yapmayı kararlaştıran Büyük Britanya ve Şimal İrlanda Birleşik
+Krallığı ile Türkiye Cumhuriyeti Hükümeti;
+Bir akit taraf vatandaşlarının diğer tarafın Sosyal Sigorta mevzuatına göre, o tarafın
+vatandaşlarıyla müsavi muameleye tabi tutulması prensibini teyit,
+Bu prensibin tatbik mevkiine konmasını ve bir tarafın ülkesinden diğer tarafın ülkesine giden
+her iki taraf vatandaşlarının ya kendi ülkelerinde bulundukları sırada o taraf mevzuatına göre
+iktisap etmiş oldukları hakların muhafazasını veya gittikleri ülkede mer’i mevzuatla
+bahşedilen muadil haklardan faydalanmalarını mümkün kılacak tertibat alınmasını arzu,
+Sigorta yardımlarına müstehak olup olmadıkları hususunun tespiti maksadıyla her iki taraf
+mevzuatına göre ikmal edilmiş bulunan sigortalılık müddetlerinin birleştirilmesini teminen
+ayrıca tertibat alınmasını arzu,
+ederek aşağıda yazılı hususlarda mutabakata varmışlardır.
+
+                     İŞ KAZALARI VE MESLEK HASTALIKLARI
+                                   BÖLÜM I
+                           TARİFLER VE ŞÜMUL SAHASI
+
+Madde 1
+Bu sözleşmeninin tatbikatında, sözleşme metninde hilâfına sarahat olmadıkça:
+(1) Ülke, Birleşik Krallık bakımından, İngiltere, İskoçya, Gal Şimal İrlanda ve Man Adası;
+Türkiye bakımından da, milli hudutları içinde kalan toprakları demektir.
+(2) Vatandaş, Birleşik Krallık bakımından, Birleşik Krallık ile müstemlekelerinin vatandaşı;
+Türkiye bakımından da, Türk vatandaşlığını haiz kimse demektir.
+(3) Mevzuat, bu sözleşme metnine göre, taraflardan birinin veya diğerinin ülkesinin herhangi
+bir kısmında mer’i bulunan ve 2’nci maddede tasrih edilen mevzuat demektir.
+(4) Salâhiyetli Makam, Birleşik Krallık bakımından, işin icabına göre, Emeklilik İşleri ve
+Milli Sigorta Vekili , Şimal İrlanda Çalışma ve Milli Sigorta Vekâleti veya Man Adası Sosyal
+Hizmetler İdaresi; Türkiye bakımından da, Çalışma Vekaleti demektir.
+(5) Sosyal Sigorta Mercii, Birleşik Krallık bakımından, işin ica-bına göre, Emeklilik işleri ve
+Milli Sigorta Vekili, Şimal İrlanda Çalışma ve Milli Sigorta Vekaleti veya Man Adası Sosyal
+Hizmetler İda-resi; Türkiye bakımından da, İşçi Sigortaları Kurumu demektir.
+(6) İstihdam Edilen Kimse, mer’i bulunan mevzuata, istihdam edilen şahıs (veya istihdam
+edilmiş kimse muamelesi gören şahıs) ola-rak tarif edilen kimse demektir.
+(7) Sigortalının geçindirmekle mükellef olduğu kimse, Birleşik Krallık bakımından, bu
+Krallık mevzuatına göre, munzam yardım talebinde bulunmak maksadıyla sigortalının
+geçindirdiği şahıs mua-melesi gören kimse; Türkiye bakımından da, Türk mevuzuatında tarif
+edilen sigortalının geçindirmekle mükellef olduğu kimse demektir.
+(8) Sigortalılık müddeti, bir veya diğer taraf bakımından o tarafın mevzuatına göre, bir
+kimsenin sigortalı bulunduğu müddet demektir.
+(9) Prim ödeme müddeti, bir veya diğer taraf bakımından, taraflardan birinin veya diğerinin
+mevzuatına göre, mevzubahis olan yardımdan faydalanmak için gerekli, primi ödenmiş
+sigortalılık müddeti demektir.
+(10) Muadil Müddet, Birleşik Krallık bakımından, bu Krallık mevzuatına göre, mevzubahis
+olan yardımdan faydalanmak için gerekli, primi ödenmiş itibar edilen sigortalılık müddeti;
+Türkiye bakımından da; sigrtalı kimsenin işgöremez durumda kaldığı sigortalılık müddeti
+demektir.
+(11) Yardım ve Aylık kelimeleri yardım ve aylıklardaki artışı ve yardım ve aylıklarla birlikte
+tediye edilen munzam ödenekleri de ihtiva eder.
+(12) Hastalık Yardımı, Birleşik Krallık bakımından, bu Krallık mevzuatında tarif edilmiş olan
+malûliyet aylığından gayri hastalık yardımı; Türkiye bakımından da, Türk mevzuatında tarif
+edilen hastalık sigortası yardımı demektir.
+(13) Maluliyet Aylığı, Birleşik Krallık bakımından, bir kimsenin, Birleşik Krallık
+mevzuatında tarif edildiği üzere, üçyüz oniki gün devam eden işgöremezlik müddetinin bu
+üçyüz oniki günden sonraki her gün için, bir veya diğer taraf mevzuatına göre, müstehak
+olduğu Birleşik Krallık mevzuatında tarif edilen hastalık yardımı, veya Türk mevzuatına göre
+bir kimseye ödenen maluliyet aylığı; Türkiye bakımından da, Türkiye mevzuatında tarif
+edilen maluliyet aylığı demektir.
+(14) Dul Yardımı, Birleşik Krallık bakımından, bu Krallık mevzuatında tarif edildiği üzere,
+dul ödeneği, dul anaya yapılan yardım, dul aylığı ve esas dul aylığı; Türkiye bakımından da,
+Türk mevzuatına göre, ölüm sigortası ile ilgili olarak dul kadına veya dul kadı-nın çocuğuna
+yapılan yardım demektir.
+(15) Yetim Aylığı, Birleşik Krallık bakımından, bu Krallık mevzuatında tarif edildiği üzere,
+vasi ödeneği; Türkiye bakımından da, Türk mevzuatına göre, ölüm sigortası ile ilgili olarak
+anası ve babası ölen çocuğa yapılan yardım demektir.
+(16) İhtiyarlık Aylığı, Birleşik Krallık bakımından, kendi mevzuatında tarif edilmiş olan
+ihtiyarlık veya emeklilik aylığı; Türkiye bakımından da, Türk mevzuatında tarif edilen
+ihtiyarlık aylığı demektir.
+(17) Cenaze Masrafı, Birleşik Krallık bakımından, kendi mevzuatında tarif edilen ölüm
+yardımı; Türkiye bakımından da, Türk mevzuatına göre cenaze masrafları için yapılan yardım
+demektir.
+
+Madde 2
+(1) Bu sözleşme hükümleri:
+(a) Birleşik Krallık bakımından,
+(i) 1946 tarihli Milli Sigorta Kanunu, 1946 tarihli Şimal İrlanda Milli Sigorta Kanunu, 1948
+tarihli Man Adası Milli Sigorta Kanunu ve yerine bu kanunların ikame edildiği 5 Temmuz
+1948 tarihinden evvel mer’iyette bulunan kanunlar;
+(ii) 1946 tarihli Milli Sigorta (İş Kazaları) Kanunu, 1946 tarihli Şimal İrlanda Milli Sigorta (İş
+Kazaları) Kanunu ve 1948 tarihli Man Adası Milli Sigorta (İş Kazaları) Kanunu:
+(b) Türkiye bakamından,
+(i) 4772 sayılı İş Kazaları ile Meslek Hastalıkları ve Analık Sigortaları Kanunu;
+(ii) 5502 sayılı Hastalık ve Analık Sigortası Kanunu;
+(iii) 6900 sayılı Maluliyet, İhtiyarlık ve Ölüm Sigortaları Kanunu;
+hakkında tatbik olunur.
+(2) Bu maddenin 3’üncü ve 4’üncü paragrafları hükümleri mahfuz kalmak şartiyle, bu
+sözleşme aynı zamanda bu maddenin 1’nci pa-ragrafında tasrih edilmiş bulunan mevzuatı
+tadil eden, birleştiren veya bu mevzuata ek olarak çıkarılan mevzuat hakkında da tatbik
+olunur.
+(3) Âkit taraflardan biri bu sözleşme hükümlerinin yeni bir sigorta koluna taallûk eden
+herhangi bir mevzuata tatbik edilmemesine karar verir ve bu hususu, 30’uncu madde
+gereğince, üç ay içinde diğer tarafa bildirirse, bu sözleşme hükümleri bu yeni mevzuata tatbik
+olunmaz.
+(4) Bu sözleşme, bir veya diğer tarafın bir üçüncü tarafla yapmış olduğu mütekabiliyet esasına
+müstenit bir sosyal güvenlik sözleşmesinin tatbik mevkiine konulması maksadıyle bu
+maddenin 1’inci paragrafında yazılı mevzuatı değiştiren veya ek olarak çıkarılan her-hangi bir
+mevzuat hakkında, ancak tarafların mutabakata varması şartiyle, cari olur.
+
+                                     BÖLÜM II
+                                  UMUMİ HÜKÜMLER
+Madde 3
+Akit taraflardan birinin vatandaşı diğer tarafın mevzuatına göre yapılan yardımlardan, o
+tarafın vatandaşı imiş gibi, aynı şartlarda, faydalanmağa hak kazanır.
+
+Madde 4
+(1) Bu maddenin (2)’nci, (3)’üncü ve (4)’üncü paragrafları hükümleri mahfuz kalmak şartiyle,
+âkit taraflardan birinin vatandaşı taraflardan birinin ülkesine istihdam edildiği takdirde,
+kanuni ikametgâhı işvereni veya kendisini istihdam eden müessesenin iş merkezi diğer tarafın
+ülkesinde bulunsa dahi, bu kimse hakkında istihdam edildiği yer mevzuatı tatbik olunur.
+(2) İş merkezi taraflardan birinin ülkesinde bulunan bir işverenin hizmetindeki kimse,
+istihdam müddediti içinde, diğer tarafın ülkesine muvakkat bir işin icrası için gönderildiği
+takdirde, bu diğer tarafın vatandaşı değilse ve gittiği yerde kanuni ikametgâhı yoksa, kendi
+ülkesinde çalışıyormuş gibi, hakkında kendi mevzuatı tatbik olunur, diğer taraf mevzuatı
+tatbik olunmaz.
+(3) Kanuni ikametgâhı Birleşik Krallık ülkesinde olup Türkiye’de istihdam edilen ve
+hakkında (2)’nci paragraf hükümleri tatbik edilmeyen bir Birleşik Krallık vatandaşı bir tercih
+yapıp Türkiye Sosyal Sigorta Merciine müracaatta bulunmadıkça, hakkında malûliyet,
+ihtiyarlık ve ölüm sigortaları ile ilgili Türk mevzuatı tatbik olunmaz. Bu kimse, aynı zamanda
+kendisi hakkında Birleşik Krallık mevzuatının tatbik edilmesini seçmek hakkını haizdir. Bu
+hakkı kulllandığı takdirde, başka memleketlerden ihtiyarı olarak prim ödeme hakkını
+kazanmış bir sigortalı imiş gibi, o kimse hakkında Birleşik Krallık mevzuatı tatbik olunur.
+(4) Bu sözleşmenin 5’inci ve 6’ncı maddeleri hükümlerine tâbi olanlar hakkında bu madde
+hükümleri tatbik olunmaz.
+
+Madde 5
+(1) Bu maddenin tatbikatı bakımından, taraflardan birine veya diğerine ait gemi veya uçak bu
+sözleşme metnine göre,
+(a) Birleşik Krallık ülkesinde tescil edilmiş bir gemi veya sahibinin (veya sahibi birden fazla
+olduğu takdirde ortaklar arasından seçilen gemi müdürünün) veyahut gemi müdürünün o
+ülkede ikamet ettiği veya iş merkezinin o ülkede bulunduğu, diğer herhangi bir Britanya
+gemisi veya sahibinin (sahibi birden fazla olduğu takdirde uçak müdürünün) o ülkede ikamet
+ettiği veya iş merkezinin o ülkede bulunduğu yine o ülkede tescil edilmiş bir uçak veya
+(b) Denizde istihdamla ilgili Türk mevzuatı şumulüne giren bir gemi veyahut Türkiye’de
+tescil edilmiş bir uçak demektir.
+(2) Bu maddenin (3)’üncü paragrafı hükümleri mahfuz kalmak şartıyle, âkit taraflardan
+birinin ülkesinde kanuni ikametgâhı bulunan taraflardan birinin vatandaşı diğer tarafa ait bir
+gemide istihdam edildiği takdirde, kendi bakımından vatandaşlık, ikametgâh veya mesken
+şartları yerine getirilmişcesine, hakkında o taraf mevzuatı hükümleri tatbik olunur.
+(3) Âkit taraflardan birinin vatandaşı olup ta taraflardan birinin ülkesinde kanuni ikametgâhı
+bulunan ve diğer tarafa ait herhangi bir gemide istihdam edilen kimse, bu istihdam dolayısıyla
+ücretini, işyeri kanuni ikametgâhının bulunduğu yerde bulunan ve fakat geminin sahibi
+olmayan bir kimseden veya müesseseden aldığı takdirde, gemi o tarafa aitmiş gibi, hakkında o
+taraf mevzuatı tatbik edilir ve mezkur ücreti ödeyen kimse veya müessese bu mevzuat
+muvacehesinde işveren telâkki edilir.
+
+Madde 6
+(1) Bu sözleşme hükümleri her iki akit tarafın Hariciye Vekâleti memurları hakkında tatbik
+olunmaz.
+(2) Bu maddenin (1)’inci paragrafı hükmü mahfuz kalmak şartiyle, taraflardan birinin devlet
+hizmetinde bulunan o taraf vatandaşı diğer tarafın ülkesinde istihdam edildiği ve bu ülkede
+vazifesine başlamadan hemen evvel kendi mevzuatına göre mecburi sigortaya tabi tutulduğu
+takdirde, kendi ülkesinde istihdam edilmiş gibi hakkında kendi milli mevzuatı hükümleri
+tatbik olunur.
+(3) Hakkında bu maddenin (1) ve (2)’nci paragrafları hükümleri tatbik edilmeyen taraflardan
+birinin vatandaşı diğer tarafın ülkesinde kâin kendi elçiliğinde veya konsolosluğunda istihdam
+edildiği takdirde, hakkında vatandaşı bulunduğu taraf mevzuatının tatbik olunmasını seçmek
+hakkını haiz olur. Bu hakkını kullanan kimse elçiliğinde veya konsolosluğunda çalıştığı
+tarafın vatanadaşı olduğu takdirde, kendi ülkesinde istihdam edilmiş gibi hakkında kendi milli
+mevzuatı tatbik olunur.
+
+Madde 7
+Âkit taraflardan birinin ülkesinde istihdam edilmiş olup da hakkında, bu sözleşmenin 4’üncü
+maddesinin (2)’nci paragrafı veya 6’ncı maddesinin (2) veya (3)’üncü paragrafları gereğince,
+diğer tarafın mevzuatı tatbik edilen bir kimsenin Hastalık, Analık, İş Kazası ve Meslek
+Hastalığı sebebiyle işgöremezslik ödeneğine müstehak olup olmadığının tespitinde o kimse:
+(a) Hastalık ve Analık yardımı bakımından, hakkında mevzuatı tatbik edilen ülkedeymiş gibi,
+(b) Çalıştığı süre içinde vukubulan iş kazası veya meydana çıkan meslek hastalığı dolayısıyla
+yapılacak yardım bakımından da, iş kazası veya meslek hastalığı, hakkında mevzuatı tatbik
+edilen ülkede vuku bulmuş veya meydana çıkmış gibi, kabul edilir.
+
+Madde 8
+Âkit tarafların selâhiyetli makamları bu sözleşmenin 4’üncü, 5’inci ve 6’ncı maddeleri
+hükümlerinin muayyen kimselere veya gruplara tatbik edilmemesi hususunda mutabakata
+varabilirler.
+
+Madde 9
+Kanuni ikametgâhı âkit taraflardan birinin ülkesinde bulunan ve fakat bu yer mevzuatına göre,
+mecburi sigortaya tâbi olmayan bir kimse, bu yer mevzuatına göre, ihtiyarı sigortaya tâbi
+tutulmasını talep ettiği takdirde, diğer tarafın ülkesinde ikmal edilmiş olan sigortalılık ve prim
+ödeme müddetleri, böyle bir talebin is’afı bakımından, kanuni ikametgâhının bulunduğu yer
+mevzuatına göre ikmal edilmiş sayılır.
+                             BÖLÜM III
+                          HUSUSİ HÜKÜMLER
+                               KISIM I
+         HASTALIK, ANALIK YARDIMLARI VE CENAZE MASRAFLARI
+
+Madde 10
+Âkit taraflardan birinin mevzuatına göre prim ödeme müddetini ikmal etmiş olan bir kimse
+diğer tarafın mevzuatı ile temin edilmiş bulunan hastalık ve analık yardımları cenaze
+masraflarını almaya hak kazanır.
+Şu kadar ki bu yardımlardan faydalanabilmesi için:
+(a) Diğer tarafın ülkesine vardığı tarihten itibaren o tarafın mevzuatına göre prim ödemeğe
+başlamış olması,
+(b) O tarafın mevzuatında yazılı şartları yerine getirmiş bulunması icap eder.
+Bu bakımdan ilk bulunduğu yer mevzuatına göre ikmal edilmiş olan prim ödeme müddetleri,
+bu sözleşmenin 25’inci maddesi hükümleri dahilinde, diğer tarafın mevzuatına göre ikmal
+edilmiş prim ödeme müddeti olarak kabul edilir.
+(c) Analık halinde yardım; kadın veya yardım talebinde bulunan kimse sigortalı erkeğin
+sigortalı olmayan karısı ise erkek yardım talebinde bulunduğu sırada veya ondan evvel son
+olarak, hangi mevzuata göre prim ödüyorsa veya ödemiş ise, o mevzuat hükümlerine göre
+yapılır.
+
+Madde 11
+Âkit taraflardan birinin mevzuatına göre sigortalı sayılan veya bu şekilde sigortalı bir
+kimsenin karısı olan bir kadın diğer tarafın ülkesinde bulunduğu veya burada doğum yaptığı
+takdirde, kendi mevzuatına göre analık yardımına veya analık ödeneğine müstehak olup
+olmadığını tayin bakımından, kendi ülkesindeymiş veya bu ülkede doğum yapmış gibi
+muamele görür.
+
+Madde 12
+Âkit taraflardan birinin ülkesinde bulunduğu için o taraf mevzuatına göre hastalık yardımı
+almağa hak kazanmış olan bir kimse, o tarafın Sosyal Sigorta merciinin muvafakatı alınmak
+kaydiyle, bu yardım diğer taraf ülkesinde bulunduğu sırada da, bu merciin tespit ettiği
+müddetçe, almağa hak kazanır.
+
+Madde 13
+(1) Bir kimse âkit taraflardan birinin ülkesinde öldüğü takdirde, diğer taraf mevzuatına göre
+cenaze masrafına müstehak olup olmadığını tayin bakımından, o kimsenin ölümü diğer taraf
+ülkesinde vuku bulmuş sayılır.
+(2) Bir tarafın ülkesinde bulunup ta diğer taraf mevzuatına göre cenaze masrafı talebinde
+bulunan bir kimse diğer taraf ülkesinde imiş gibi muamele görür.
+
+                                       KISIM II
+                                  İHTİYARLIK AYLIĞI
+
+Madde 14
+(1) 16’ncı madde hükümleri mahfuz kalmak şartiyle, her iki âkit ta-rafın sigorta mevzuatına
+göre kendisine ihtiyarlık aylığı bağlanması için talepte bulunan bir kimsenin bu talebi bu
+maddenin müteakip pa-ragrafları hükümleri dahilinde karara bağlanır.
+(2) Taraflardan herbirinin Sosyal Sigorta mercii bir kimsenin kendi mevzuatına göre,
+ihtiyarlık aylığı almak için gerekli şartları yerine getirip getirmediğini yine kendi mevzuatı
+hükümleri dahilinde tespit eder ve bunu yaparken bu sözleşmenin 25’inci Maddesi
+hükümlerini de gözönünde bulundurarak, o kimse tarafından her iki taraf mevzuatına göre
+ikmal edilmiş olan bütün sigortalılık müddetlerini, prim ödeme müddetlerini ve muadil
+müddetleri kendi milli mevzuatına göre ikmal edilmiş gibi, nazara alır.
+(3) Bu maddenin (2)’nci paragrafı hükümleri dahilinde ihtiyarlık aylığına hak kazanıldığı
+tespit edildiği takdirde, her iki tarafın Sosyal Sigorta mercii:
+(a) Bir kimse tarafından her iki taraf mevzuatına göre ikmal edilmiş 25’inci madde
+hükümlerine göre hesaplanmış olan bütün sigortalılık müddetleri, prim ödeme müddetleri ve
+muadil müddetler kendi milli mevzuatına göre tamamlanmış olsa idi o kimseye yine kendi
+mevzuatına göre ne kadar aylık ödenecek idiyse o aylık miktarını,
+(b) Bu kimse tarafından kendi mevzuatına göre tamamlanmış olan prim ödeme müddetleri
+yekûnunun her iki taraf mevzuatına göre ikmal edilmiş olan prim ödeme müddetleri yekûnuna
+olan nisbeti dahilinde ihtiyarlık aylığının kendisine isabet eden kısmını, hesaplar.
+Bu şekilde hesaplanmış olan kısım ilgili Sosyal Sigorta merciinden o kimseye fiilen ödenecek
+aylığı teşkil eder.
+(4) Bu kimse tarafından bir veya diğer tarafın mevzuatına göre tamamlanmış olan prim ödeme
+müddetlerinin yekûnu 6 aydan az olduğu takdirde, o kimseye o tarafın mevzuatına göre
+ihtiyarlık aylığı ödenmez.
+(5) Bu maddenin tatbikatında, bir kimse tarafından ikmal edilmiş olan sigortalılık müddeti,
+prim ödeme müddeti veya muadil müddet, ilgili kimsenin kocasının sigortalılık hakkına veya
+kocası tarafından ödenen primlerin de nazara alınması suretiyle, kendi sigortalılık hakkına
+dayanarak ihtiyarlık aylığı bağlanması talebinde bulunan bir kadın olması halinde, o kimsenin
+kocası tarafından ikmâl edilmiş olan sigortalılık müddeti, prim ödeme müddeti veya muadil
+müddet ile tevhid edilir.
+
+Madde 15
+Her iki tarafın mevzuatında yazılı şartları aynı zamanda yerine getirmemiş olan bir kimsenin
+bir veya diğer taraf mevzuatına göre aylık alma hakkı, o tarafın mevzuatındaki şartları yerine
+getirdiği zaman tesis ve teşmil edilir. 14’üncü madde hükümleri mahfuzdur.
+
+Madde 16
+(1) Bir kimse ihtiyarlık aylığı almak hakkı teessüs ettiği zaman, bu sözleşmenin 14’üncü
+maddesi hükümlerinden faydalanmamayı tercih edebilir. Bu takdirde her iki âkit tarafın
+mevzuatına göre almaya hak kazandığı ihtiyarlık aylığı diğer taraf mevzuatına göre geçen
+sigortalılığı nazara alınmayarak, tâbi olduğu Sosyal Sigorta mercii tarafından kendisine ayrı
+olarak ödenir.
+(2) Kendisine ihtiyarlık aylığı bağlanmış olan kimse taraflardan birinin mevzuatı tadil edildiği
+veya bir tarafın ülkesinden diğer tarafın ülkesine gittiği veyahut 15’inci madde hükümleri
+dahilinde veya başka suretle, taraflardan birinin mevzuatına göre aylık alma hakkı tesis ve
+teşkil edildiği zaman, menfaatine uygun düşerse, 14’üncü veya bu madde hükümlerinden
+faydalanma hususunda yeniden bir tercih yapma hakkını kazanır.
+
+Madde 17
+Âkit taraflardan birinin mevzuatına göre, o tarafın ülkesinde bulunduğu takdirde ihtiyarlık
+aylığı almağa hak kazanan bir kimse bu aylığı diğer tarafn ülkesinde bulunduğu sırada da
+almağa hak kazanır.
+                                       KISIM III
+                                   MALÜLİYET AYLIĞI
+
+Madde 18
+Bu sözleşmenin 14’üncü maddesinin (2)’nci, (3)’üncü ve (4)’üncü paragraflarında yer alan
+ihtiyarlık aylığı ile ilgili hükümler, aylıkların mahiyetindeki farkın gerektirdiği değişiklikler
+mahfuz kalmak şartıyle, mâlüliyet aylığı hakkında da tatbik olunur.
+
+Madde 19
+Âkit taraflardan birinin ülkesinde bulunan ve bu sözleşmenin 18’inci maddesi gereğince o
+tarfın mevzuatına göre mâlüliyet aylığı almak hakkına sahip olan bir kimse diğer tarafın
+ülkesinde bulunsaydı o taraf mevzuatına göre de mâlüliyet aylığı almağa hak kazancak idiyse,
+bunlardan birini olduğu gibi diğerini de almağa hak kazanmış olur. Her iki aylığın tutarı,
+ülkesinde bulunduğu taraf mevzuatına göre almağa hak kazanacağı aylıktan noksan olduğu ve
+hakkında 18’inci madde hükmü de tatbik edilmediği takdirde, bu taraf Sosyal Sigorta mercii
+ayrıca aradaki farkı da kendisine öder.
+
+Madde 20
+(1) Âkit taraflardan birinin ülkesinde bulunan bir kimse, bu sözleşmenin 18’inci ve 19’uncu
+maddeleri gereğince, her iki tarafın mevzuatına göre de malûliyet aylığı almağa hak
+kazanmadığı takdirde, ülkesinde bulunduğu tarafın Sosyal Sigorta mercii bu maddenin (2)’nci
+paragrafı hükmü mahfuz kalmak şartıyle, hakkında 18’nci madde hükmü tatbik edilmemiş
+olsa idi kendi milli mevzuatına göre ne kadar aylık almağa hak kazanacak idiyse, kendisine o
+aylığı öder. Bu kimse diğer tarafın ülkesine giderse, ülkesinden ayrıldığı tarafın Sosyal
+Sigorta mercii, ülkesini terketmeden evvel hastalığının kronik olduğu tespit edilmek şartıyle,
+mezkûr malûliyet aylığını ödemeğe devam eder.
+(2) Bu maddenin (1)’inci paragrafı gereğince, bir tarafın mevzuatına göre malûliyet aylığı
+ödenmekte olması halinde, ilgili kimse diğer tarafın mevzuatında yazılı şartları yerine getirir
+getirmez, bu malûliyet aylığı yerine 18’inci ve 19’uncu maddeler hükümlerine uygun olarak
+tespit edilen aylıklar, bu maddeler hükümleri gözönünde bulundurularak, tediye edilir.
+
+                                     KISIM IV
+                            DUL AYLIĞI VE YETİM AYLIĞI
+
+Madde 21
+Bu sözleşmenin 14, 15, 16 ve 17’inci maddelerindeki ihtiyarlık aylığı ile ilgili hükümler dul,
+aylığı, 18 ve 19’uncu maddelerdeki ma-lüliyet aylığı ile ilgili hükümler de yetim aylığı
+hakkında tatbik olunur. Her hâdisede aylığın mahiyetindeki farkın gerektirdiği değişiklikler
+mahfuzdur.
+                                        KISIM V
+                    İŞ KAZALARI VE MESLEK HASTALIKLARI
+
+Madde 22
+(1) Bir âkit taraf ülkesinde bulunan ve o taraf mevzuatına göre, iş kazası veya meslek hastalığı
+sebebiyle, yardım almağa hak kazanmış olan bir kimse diğer tarafın ülkesinde bulunduğu
+sırada da bu yardımı almağa hak kazanır.
+(2) Bir tarafın ülkesinde bulunan ve o taraf mevzuatına göre, iş kazası veya meslek hastalığı
+neticesi ölüm sebebiyle yardıma hak kazanmış olan bir kimse diğer tarafın ülkesinde
+bulunduğu sırada da bu yardımı almağa hak kazanır.
+Madde 23
+İş kazasından ileri gelen malûliyet derecesinin âkit taraflardan birinin mevzuatına göre
+tespitinde, diğer taraf mevzuatına göre yardımı gerektiren daha evvel vuku bulmuş herhangi
+bir iş kazası, malûliyet derecesinin tespitinde mevzuatı esas alınan taraf mevzuatının
+şümulüne giren bir iş kazası imiş gibi nazara alınır.
+
+Madde 24
+Âkit taraflardan birinin mevzuatına göre, bir meslek hastalığı sebebiyle yardım görmüş olan
+bir kimse bilahare diğer taraf mevzuatına göre aynı neviden meslek hastalığı dolayısıyla
+yardım talabinde bulunursa, bu tarafın Sosyal Sigorta mercii öbür taraf mevzuatına göre
+yapılan yardımla ilgili delilleri toplamakla mükelleftir. Bir kimsenin kendi mevzuatına göre
+yardıma müstehak olup olmadığını, olduğu takdirde, yardım miktarını tespit maksadıyle o
+merci öbür tarafın mevzuatına göre yapılmış olan yardımı, kendi mevzuatına göre yapılmış
+gibi, nazara alır.
+
+                                     KISIM VI
+                                  UMUMİ HÜKÜMLER
+
+Madde 25
+(1) Bu sözleşmenin yardıma hak kazanılmış olup olmadığının tespiti maksadıyle sigortalılık
+müddetlerinin, prim ödemede müddetlerinin ve muadil müddetlerin tevhidi hakkındaki
+10’uncu ve 14’üncü maddeler hükümlerinin tatbikatında her iki âkit tarafın Sosyal Sigorta
+mercileri, bu müddetler tedahül etmemek şartıyle, kendi mevzuatının ilgili hükümlerini nazara
+alarak, kendi mevzuatına göre ikmal edilmiş olan sigortalılık müddetledini, prim ödeme
+müddetlerini ve muadil müddtleri diğer taraf mevzuatına göre ikmal edilmiş sigortalılık
+müddetlerine, prim ödeme müddetlerine ve muadil müddetlere ekler.
+(2) Bu maddenin (1)’inci paragrafı hükümleri aşağıda yazılı esaslar dahilinde tatbik olunur:
+(a) Bir tarafın mevzuatına göre mecburi olarak ikmal edilmiş olan bir prim ödeme müddeti
+diğer tarafın mevzuatına göre ihtiyari olarak ikmal edilmiş bir prim ödeme müddetiyle oynı
+zamana rastlarsa yalnız mecburi olarak ikmal edilmiş olan müddet nazara alınır.
+(b) Bir tarafın mevzuatına göre ikmal edilimiş olan bir prim ödeme müddeti diğer tarafın
+mevzuatına göre ikmal edilmiş olan bir muadil müddetle aynı zamana rastlarasa yalnız prim
+ödeme müddeti nazara alınır.
+
+Madde 26
+Âkit taraflardan birinin mevzuatına göre para yardımının he-saplanmasında prim ödeme
+müddetleri içinde elde edilen ortalama kazancın esas alınması halinde, o mevzuat hükümleri
+dahilinde ödenmesi gereken yardımların hesabında nazara alınacak ortalama kazanç, aynı
+mevzuata göre, fiilen ikmal edilmiş prim ödeme müddetleri içinde elde edilen kazanç
+üzerinden hesaplanır.
+
+Madde 27
+(1) İşbu sözleşmenin bu bölüm hükümlerine göre, âkit taraflardan birinin Sosyal Sigorta
+mercii tarafından diğer tarafın ülkesinde ikamet eden bir kimseye para yardımlarının
+ödenmesi gereken hallerde, bu ödeme o sigorta merciinin talebi üzerine, o sigorta mercii
+hesabına, ajan sıfatıyle, diğer tarafın Sosyal Sigorta mercii tarafından yapılabilir.
+(2) İki tarafın sigorta mercileri arasında varılacak mutabakat neticesinde tespit olunacak bir
+müddet içinde taraflardan birinin sigorta mercii tarafından bu maddenin (1)’inci paragrafı
+hükümleri dahilinde yapılan bütün ödemeler yekûnu diğer tarafın sigorta mercii tarafından
+yapılan ödemeler den fazla ise, bu taraf sigorta mercii yapılan ödemeler tutarını diğer tarafın
+sigorta merciine aynen tediye etmeyip tespit edillen bu müddet sonunda cari Kambiyo
+rayicine göre he-saplanacak miktarlar arasındaki farkı almağa hak kazanır.
+
+Madde 28
+(1) Âkit taraflardan birinin mevzuatına göre yardıma müstehak olan bir kimse, geçindirmekle
+mükellef olduğu kimse o taraf ülkesinde bulunduğu takdirde yardımda bir artış olacak idiyse,
+geçindirmekle mükellef olduğu kimsesi diğer taraf ülkesinde bulunduğu sırada dahi bu farkı
+almağa hak kazanır.
+(2) Bir kimse, bir çocuğun Birleşik Krallık ülkesinde bulunması veya ana ve babasından biri
+öldüğü zaman veyahut herhangi belli diğer bir zamanda bu ülkede bulunmuş olması
+dolayısıyle, Birleşik Krallık mevzuatına göre, dul yardımı veyahut iş kazası veya meslek
+hastalığı neticesi ölüm sebebiyle yardım almağa müstehak olursa, o kimse, icabına göre, o
+çocuk Türkiye’de bulunsa veya ana ve ba-basından biri öldüğü zaman veya diğer herhangi
+belli bir zamanda bu ülkede bulunmuş olsa dahi aynı yardımı almağa hak kazanır.
+
+Madde 29
+Bu sözleşmenin 16 ve 20 nici maddeleri hükümleri mahfuz kalmak şartıyle, her iki tarafın
+mevzuatına göre yardım talebinde bulunan bir kimse, bu sözleşme hükümlerini nazara
+almaksızın talebinin karara bağlanması yolunu seçebilir.
+
+                                     BÖLÜM IV
+                               MÜTEFERRİK HÜKÜMLER
+
+Madde 30
+Selâhiyetli makamlar:
+(a) Bu sözleşmenin tatbikatında gerekli görülebilecek idari tedbirleri alırlar.
+(b) Bu sözleşmenin tatbiki için alınan herhangi bir tedbirle ilgili malûmatı birbirlerine
+bildirirler.
+(c) Kendi milli mevzuatlarında yapılmış olan sözleşmenin tatbikatına müessir olacak herhangi
+bir değişiklilkle ilgili malûmatı, mümkün olan en kısa zamanda, birbirlerine ulaştırırlar.
+
+Madde 31
+(1) Âkit tarafların selâhiyetli makamları ve Sosyal Sigorta mercileri bu sözleşmenin tatbikatı
+ile ilglii herhangi bir meselede, bu mesele kendi milli mevzuatlarının tatbikatına müessir
+oluyormuş gibi, birbirlerine yardımda bulunurlar.
+(2) Selâhiyetli makamlar bilhassa bu sözleşme gereğince yardıma müstehak kimselerin tıbbi
+ve idari murakabeleri bakımından alınması gereken tedbirler üzerinde mutabakata varırlar.
+
+Madde 32
+(1) Taraflardan birinin mevzuatına göre tanzimi gereken evrak ve vesaike taraf mevzuatıyle
+tanınmış olan vergi, resim ve herçlardan muafiyet veya tenzilat hakkı diğer tarafın mevzuatına
+göre tanzimi gereken evrak ve vesaike de teşmil edilir.
+(2) Bu sözleşmenin tatbikatı ile ilgili olarak bir veya diğer tarafın selahiyetli makamına veya
+sigorta merciine bir vesika veya diğer bir belge tevdii gereken hallerde, o makam veya merci
+bu vesika veya belgenin tevsik veya tasdikini talep etmez.
+
+Madde 33
+Bir tarafın mevzuatına göre, o tarafın Sosyal Sigorta merciine muayyen bir müddet içinde
+yapılması gereken bir talep, ihbar veya müracaat diğer tarafın Sosyal Sigorta merciine bu
+müddet içinde yapılmışsa öbür tarafın sigorta merciine yapılmış kabul edilir. Bu gibi hallerde
+Sosyal Sigorta Mercii kendisine yapılan talebi, ihbarı veya müracaatı, mümkün olan en kısa
+zamanda, diğer tarafın sigorta merciine duyurur.
+
+Madde 34
+Âkit tarafların Sosyal Sigorta mercileri, bu sözleşmenin tatbikatı ile ilgili meselelerde,
+birbirleriyle veya bu sözleşme gereğince yardıma müstehak herhangi bir kimse ile veyahut
+onun kanuni mümessili ile doğrudan doğruya muhabere edebilirler.
+
+Madde 35
+Bu sözleşme hükümlerine göre yaplıması gereken herhangi bir yardım, bu yarıdımı yapmakla
+mükellef bulunan Sosyal Sigorta merciinin bağlı bulunduğu taraf parası ile hesaplanır.
+
+Madde 36
+(1) Bu sözleşme hükümleri, sözleşmenin mer’iyete girdiği tarihten evvelki bir devre için
+yardım yapılması hakkını bahşetmez.
+(2) (a) Bu maddenin (1)’inci paragrafı hükmü mahfuz kalmak şartıyle, bu sözleşme
+hükümlerine göre, sözleşmenin mer’iyete girdiği tarihten evvelki vak’alar için aşağıda yazılı
+hallerde toptan ödemeler-den gayri yardım yapılır.
+(i) İlgili kimsenin talepte bulunmaması veya âkit taraflardan birinin ülkesi dışında olması
+dolayısıyle yapılmamış olan yardım tebsbit edilip ödenir.
+(ii) İlgili kimsenin âkit taraflardan birinin ülkesi dışında bulunması sebebiyle tediyesi tâlik
+edilmiş olan yardım yapılır.
+(iii) Evvelce tespit edilmiş olan yardım miktarı, gereken hallerde, sermaye kıymeti tasfiye
+edilmemiş olmak şartıyle, yeniden tespit olunur.
+(b) Bu paragrafın (a) fıkrası hükümlerine göre yapılması gereken herhangi bir yardım, bu
+sözleşme mer’iyete girdiği tarihten itibaren ödenir veya, icabına göre, yeniden tespit edilip
+ödenir, Ancak böyle bir ödemenin yapılabilmesi için sözleşmenin mer’iyete girdiği tarihten
+itibaren 12 ay içinde bu hususta talepte bulunulması şarttır.
+(3) Bu sözleşmenin mer’iyete girdiği tarihten evvel bir kimse tarafından ikmal edilmiş olan
+sigortalılık müddeti,prim ödeme müddeti veya muadil müddet o kimsenin sözleşme
+hükümlerine göre yardıma müstehak olup olmadığının tespitinde nazara alınır.
+Ancak:
+(a) Bir kimse tarafından Birleşik Krallık mevzuatına göre ikmal erilmiş olan sigortalılık
+müddeti, o mevzuata göre bu müddet o kimse tarafından ödenen veya ödenmiş itibar edilen
+primlerin yıllık vasatisinin hesabında nazara alınmazsa, bu sözleşmenin 14’üncü madesi
+hükümlerinin tatbikatında da nazara alınmaz.
+(b) Türk mevzuatına göre yapılacak yardım talebinin tetkikinde Birleşik Krallık mevzuatına
+göre 1 Nisan 1950 tarihinden evvel ikmal edilmiş olan sigortalılık müddeti nazara alınmaz.
+
+Madde 37
+(1) Akit tarafların selâhiyetli makamları bu sözleşmenin tefsir veya tatbikiyle ilgili ihtilâfları
+müzakere yoluyla halletmeye gayret ederler.
+(2) Böyle herhangi bir ihtilaf 3 aylık bir müddet içinde müzakere yoluyla halledilmemiş
+olduğu takdirde, ihtilâf âkit tarafların teşkil ve usulünde mutabık kalacakları bir hakem
+heyetine tevdi olunur. Geçecek ikinci 3 ay içinde de mutabakata varılamadığı takdirde intilaf,
+taraflardan birinin talebi üzerine, Lâhey Adalet Divanı Reisi tarafından seçilecek bir hakeme
+tevdi edilir.
+(3) İşin icabına göre, hakem heyeti veya hakem bu sözleşme esaslarına ve ruhuna uygun
+olarak karar alır ve bu karar nihai olup tarafları bağlar.
+Madde 38
+Bu sözleşmenin sona ermesi halinde, sözleşme hükümlerine göre iktisap edilmiş olan
+herhangi bir hak muhafaza edilir ve bu hükümler gereğince o tarihte talep edilmiş olup henüz
+karara bağlanmayan haklar için müzakereler cereyan eder.
+
+Madde 39
+Bu sözleşme tasdik edilir ve tastik vesikaları mümkün olan en kısa zamanda LONDRA’da
+teati edilir.Sözleşme, tasdik vesikalarının teati edildiği ayı takip eden 3’üncü ayın ilk günü
+mer’iyete girer.
+
+Madde 40
+Bu sözleşme mer’iyete girdiği tarihten itibaren bir sene için muteberdir. Bu bir senelik
+müddetin sona ermesinden 3 ay evvel sözleşmenin yürürlükten kaldırılacağına dair yazılı
+ihbarda   bulunulmadığı    takdirde    müteakip     senelerde  de     mer’iyette   kalır.
+Hükümetleri tarafından ûsulü dairesinde selâhiyetlendirilmiş aşağıda imzaları bulunan
+kimseler, yukarıdaki hususları tasdik zımnında işbu sözleşmeyi imzalamışlardır.
+Bu sözleşme, ANKARA’da, dokuz Eylül bir dokuzyüz elli dokuz ta-rihinde, İngilizce ve
+Türkçe olarak ve her iki metin aynı derecede muteber bulunmak üzere iki nüsha halinde
+tanzim edimiştir.
+

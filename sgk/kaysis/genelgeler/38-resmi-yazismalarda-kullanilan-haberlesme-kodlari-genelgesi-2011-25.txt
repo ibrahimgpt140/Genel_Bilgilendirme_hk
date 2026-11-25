@@ -1,0 +1,59 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/105918
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Kurum Genelgeleri
+SAYI: 38
+ADI: RESMİ YAZIŞMALARDA KULLANILAN HABERLEŞME KODLARI GENELGESİ(2011/25)
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 017e5bdebb3d5c90886ff2786018432057eea89c10042706744fbb19b5958b37
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+                                                T.C.
+                           SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+                                  Strateji Geliştirme Başkanlığı
+
+Sayı : B.13.2.SGK.0.65.03.04/38                                                                 04/03/2011
+Konu : Resmi Yazışmalarda Kullanılan
+       Haberleşme Kodları
+                                                 GENELGE
+                                                  2011/ 25
+         Bilindiği üzere yazılı iletişimin çağa uygun olarak geliştirilmesi, evrak havale ve
+takiplerinin otomasyon tekniklerine uygun olarak yapılabilmesi için kamu kurum ve kuruluşları
+14 hanelik bir kod formatında kodlanmış ve Başbakanlığın 1991/17 sayılı genelgesi ile kurum
+ve kuruluşlara bildirilmiştir. Genelge ile ayrıca, hazırlanan formata uygun olarak kurumlardan
+iç yazışma kodlarını belirlemeleri ve bunların Başbakanlığa bildirilmesi istenmiş, bu kodların
+birleştirilmesi sonucunda da Devlet Teşkilatı Veri Tabanı (DTVT) oluşturulmuştur.
+         Ancak, yeni kurulan kurumlar ve mevcut kurumların teşkilat yapısında meydana gelen
+değişiklikler nedeniyle DTVT’nın güncellenmesi gerektiği 10/02/2011 tarihli ve 27842 sayılı
+Resmi Gazetede yayımlanan Başbakanlığın 2011/1 sayılı Devlet Teşkilatı Veri Tabanı konulu
+Genelgesi ile duyurulmuş ve 13/8/1991 tarihli ve 1991/17 sayılı Genelge yürürlükten
+kaldırılmıştır.
+         Bahsi geçen 2011/1 sayılı Başbakanlık Genelgesi hükümleri çerçevesinde, resmi
+yazışmalarda kullanılan haberleşme kodlarının elektronik ortamda üretilmesi, Başbakanlığa
+gönderilmesi ve tek merkezden ilan edilmesi amacıyla yürütülen “Devlet Teşkilatı Veri
+Tabanı” uygulama projesi kapsamında, Kurumumuzun merkez ve taşra teşkilatında
+kullanılmakta olan haberleşme kodlarında yeniden düzenleme yapılmıştır.
+         Söz konusu kod sistemi, e-belgenin gündeme geldiği günümüzde, sadece evrak kayıt ve
+takiplerinin otomasyonunda değil, e-belgenin oluşturulmasında, gideceği yere ulaşmasında,
+dosyalanmasında, saklanmasında ve bu belgelere erişimde de önem arz etmektedir. Ayrıca,
+Bakanlar Kurulu’nun 18/10/2004 tarihli ve 2004/8125 sayılı Kararıyla yürürlüğe konulan
+Resmi Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik, resmi yazışmalarda
+Başbakanlık tarafından belirlenen kodlama sistemine uyulmasını zorunlu kılmıştır.
+         Buna göre, Kurumumuz merkez ve taşra teşkilatına ait olan ve kurumsal intranet
+portalında yayınlanan yeni haberleşme kodlarının bundan sonra yapılacak tüm yazışmalarda
+titizlikle kullanılması ve yeni kurulan birimlere/servislere yazışma kodu verilebilmesi için
+Strateji Geliştirme Başkanlığına bilgi verilmesi hususunda gereğini rica ederim.
+
+
+
+                                                                                M. Emin ZARARSIZ
+                                                                                   Kurum Başkanı
+DAĞITIM:
+Merkez ve Taşra Teşkilatına
+
+
+
+
+Ziya Bey Caddesi No:6 06520 Balgat/ANKARA                       Ayrıntılı bilgi için irtibat: A. YILDIRIM Şb Md.
+Tel: (0312) 207 81 24 Faks: (0312) 207 84 66
+e-posta:ayildirim@sgk.gov.tr    Elektronik ağ: www.sgk.gov.tr
+

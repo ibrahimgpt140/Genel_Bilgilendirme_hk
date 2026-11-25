@@ -1,0 +1,92 @@
+KAYNAK: https://kms.kaysis.gov.tr/Home/Goster/75112
+KURUM: Sosyal Güvenlik Kurumu Başkanlığı (KAYSİS)
+TÜR: Genel Yazılar
+SAYI: 3118259
+ADI: MALİ TATİL HAKKINDA YAZI
+ALINMA: 25.11.2026 (KAYSİS resmî PDF; kullanıcının bilgisayarındaki tarayıcıdan)
+PDF SHA-256: 7837cf319848d18909572fd318baa2d81480c5de8591fcb0fda88559acba2978
+METİN: taranmış PDF; Türkçe OCR ile çıkarıldı (tesseract). OCR hataları olabilir, rakam ve tarihleri kaynak PDF'ten teyit ediniz.
+KONTROL: boyut tamam; sayı/başlık metinde bulundu
+
+KCK : T.C.
+$ Le K SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI
+de Sigorta Primleri Genel Müdürlüğü
+İşverenler Daire Başkanlığı
+Sayı :64399925-70299-E.3118259 01/06/2016
+Konu : Mali tatil
+GENEL YAZI
+
+Bilindiği gibi 14/1/2016 tarihli, 6661 sayılı kanunun 18 inci maddesi ile ” 15/3/2007
+tarihli ve 5604 sayılı Mali Tatil İhdas Edilmesi Hakkında Kanunun | inci maddesinin altıncı
+fıkrasında yer alan “yedi gün” ibaresi “ beş gün” “yedinci günün” ibaresi “beşinci günün”
+şeklinde değiştirilmiştir.
+
+Sözkonusu değişiklikle 5604 sayılı kanunun birinci maddesinin altıncı fıkrasındaki , “mali
+tatilin sona erdiği günü izleyen yedi gün içinde biten kanuni ve idari sürelerdeki ilave yedi günlük
+süre mali tatilin son gününü izleyen tarihten itibaren “beş gün” olarak değiştirildiğinden 21 ila 27
+temmuz tarihleri arasına tekabül eden yükümlülükler bakımından 27 temmuz tarihi 25 temmuz
+tarihi olarak düzenlenmiştir.
+
+Bu bakımdan mali tatili takip eden 21 temmuz ila 25 temmuz tarihleri arasındaki
+yükümlülüklerdeki son tarih 25 temmuz tarihi olduğundan, 21 ila 25 temmuz tarihleri arasındaki
+yükümlülüklerin 25 temmuz (dahil) yerine getirilmiş olması durumunda yasal süresi içinde yerine
+getirildiği kabul edilecektir.
+
+Örnek 1- Haziran ayına ait aylık prim ve hizmet belgesinin son verilmesi gereken tarih
+tatile denk gelmemesi durumunda takip eden ayın 23? ü olmasına rağmen, 5604 sayılı Kanunun
+1 inci maddesinin altıncı fıkrasına istinaden, mali tatilin sona erdiği günü izleyen beş gün içinde
+biten kanuni ve idari sürelerin, tatilin son gününü izleyen tarihten itibaren beşinci günün mesai
+saati bitiminde sona ereceği kabul edildiğinden, sözkonusu belgenin 25 Temmuz tarihinde
+verilmesi halinde yasal süresi içinde verildiği kabul edilecektir.
+
+Örnek 2- 2016 Mayıs ayına ait sigorta primlerini KDV mahsubuyla ödeyen işverenlerin
+Mayıs ayına ilişkin sigorta priminin 20 Temmuz 2016 tarihi yerine 27 Temmuz 2016 tarihine
+kadar( dahil) Kurum hesaplarına geçmiş olması halinde sigorta primi yasal süresi içinde ödenmiş
+olacağından gecikme cezası ve gecikme zammı uygulanmaması gerekmektedir.
+
+Öte yandan maddenin İkinci fıkrasındaki, "son günü mali tatile rastlayan sürelerin tatilin
+son gününü izleyen tarihten itibaren yedi gün uzamış sayılacağı" na ilişkin hüküm
+değiştirilmediğinden, söz konusu hükme istinaden | Temmuz ila 20 Temmuz tarihleri arasında
+yerine getirilmesi gereken kanuni ve idari yükümlülükler mali tatili izleyen 7 nci gün sonuna
+kadar yerine getirilirse yasal süresi içinde yerine getirilmiş olduğu kabul edilecektir.
+
+Örnek 3- 4 Temmuz 2016 tarihinde ilk defa sigortalı çalıştırmaya başlanılan bir işyerinde
+işyeri bildirgesinin en geç aynı tarihte verilmesi gerekmekte ise de, bu tarihin | ila 20 temmuz
+tarihleri arasına denk gelmesi dolayısıyla mali tatil süresine rastlaması nedeniyle “son günü mali
+tatile rastlayan sürelerin tatilin son gününü izleyen tarihten itibaren yedi gün uzamış sayılması”
+gerektiğine ilişkin uygulama aynen devam ettiğinden işyeri bildirgesinin 27 Temmuz 2016
+(dahil) tarihine kadar verilmesi halinde yasal süresi içinde verildiğinin kabul edilmesi
+gerekmektedir.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Caddesi No:7 06437 Sıhhiye /Ankara Ayrıntılı bilgi için irtibat: N.CEYLAN Şef
+Tel: (0312) 458 71 31 Faks: (0312) 4321237
+Elektronik Ağ: www.sgk.gov.tr e-posta: isverenlerPrimDB(Bsgk.gov.tr
+ALO
+170)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN
+
+Örnek 4- Kamu işverenine ait olan ( Z ) işyerinde aylık prim ve hizmet belgelerinin
+verilmesi gereken son tarihin dönemi izleyen ayın 7 si, ödemenin yapılması gereken son tarihin de
+dönemi izleyen ayın 14 ü olmasına rağmen, 15 mayıs 14 haziran ( mayıs ayı) dönemine ilişkin
+aylık prim ve hizmet belgesinin son verilme tarihi olan 7 temmuz tarihi ile son ödeme tarihi olan
+14 temmuz tarihlerinin mali tatil olan 1 ila 20 temmuz tarihleri arasına denk gelmiş olması,
+dolayısıyla mali tatil süresine denk gelen yükümlülüklerin mali tatili izleyen 7 gün içinde yerine
+getirilmesi halinde yasal süresinde yerine getirildiğinin kabul edilmesi nedeniyle, 15 mayıs-14
+haziran 2016 dönemine ilişkin aylık prim ve hizmet belgesinin verilmesi ile karşılığı sigorta
+primlerinin ödemesinin 27 temmuz tarihi bitimine kadar yerine getirilmesi durumunda
+yükümlülüklerin yasal süresi içinde yerine getirildiği kabul edilecektir.
+
+Bilgi edinilmesini, gereğinin buna göre yapılmasını rica ederim.
+
+Bu belge, 5070 sayılı Elektronik İmza Kanununun 5 inci maddesi gereğince güvenli elektronik imza ile imzalanmıştır
+Mithatpaşa Caddesi No:7 06437 Sıhhıye /Ankara Ayrıntılı bilgi için irtibat: N.CEYLAN Şef
+Tel: (0312) 45871 31 Faks: (0312) 4321237
+Elektronik Ağ: www.sgk.gov.tr e-posta: isverenlerPrimDB(&sgk.gov.ir
+ALO
+1G)
+LOGO
+KAYIT DIŞI ÇALIŞMAYIN
+GELECEĞİNİZİ RİSKE ATMAYIN

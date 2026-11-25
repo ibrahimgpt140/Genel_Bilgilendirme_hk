@@ -531,7 +531,7 @@ def calistir(kip, kuru, sinir):
 
 
 def gunluk(rapor):
-    if not (rapor["degisen"] or rapor["yeni"] or rapor["listede_yok"]):
+    if not (rapor["degisen"] or rapor["yeni"]):  # yalnızca "listede_yok" varsa her gün tekrar yazılmaz
         return
     g = KOK / "GUNLUK-mevzuat.md"
     eski = g.read_text(encoding="utf-8") if g.exists() else (

@@ -7,9 +7,10 @@
 Herhangi bir rapor (tam tasdik, KDV iadesi tasdik raporu vb.), dilekçe, KDV iade işlemi veya mevzuat yanıtı hazırlanırken bilgi şu sırayla alınır:
 
 1. **Önce bu depo:** kanunlar, tebliğler, yönetmelikler, özelgeler, sirküler, Danıştay kararları ve kılavuzlar.
-2. **Sonra yalnızca `gov.tr` ile biten resmî siteler:** mevzuat.gov.tr, resmigazete.gov.tr, gib.gov.tr, danistay.gov.tr, anayasa.gov.tr vb.
+2. **Sonra `gov.tr` ile biten resmî siteler:** mevzuat.gov.tr, resmigazete.gov.tr, gib.gov.tr, danistay.gov.tr, anayasa.gov.tr vb.
+3. **En son, yalnızca yol gösterici olarak güvenilir kaynaklar:** uzun yıllardır kullanılan ve dayanağını kanun, tebliğ veya yargı kararına bağlayan meslek kuruluşları, siteler ve bloglar (ör. TÜRMOB, YMM odaları, yerleşik mesleki yayınlar).
 
-Özel siteler, bloglar ve danışmanlık yazıları dayanak olarak kullanılmaz.
+Bu üçüncü gruptaki kaynaklar **tek başına dayanak olamaz**. Yalnızca nereye bakılacağını gösterir; içindeki her bilgi depo veya `gov.tr` kaynağıyla doğrulanmadan kullanılmaz. Doğrulanamayan bilgi yanıta konmaz ya da "doğrulanamadı" diye işaretlenir.
 
 ## 2. Yorum ve uydurma yasağı
 
@@ -25,6 +26,7 @@ Her bilgi iki kez doğrulanır:
 2. **Resmî site kontrolü:** Aynı konu `gov.tr` uzantılı resmî sayfalarda taranır.
    - Bilgiler örtüşüyorsa örtüşen bilgi kullanılır.
    - Resmî sitede daha güncel bir değişiklik varsa güncel bilgi kullanılır ve farkın ne olduğu kullanıcıya bildirilir.
+3. Güvenilir ikincil kaynaklar (1. bölümün 3. grubu) bu iki kontrolün yerine geçmez; yalnızca konuyu bulmaya ve uygulama örneğini görmeye yardım eder.
 
 ## 4. Uyarı yükümlülüğü
 
@@ -32,7 +34,7 @@ Kullanıcının verdiği bilgide, belgede veya taslakta mevzuata aykırı, eksik
 
 ## 5. Dayanak gösterme
 
-Her yanıtın ve her raporun **son kısmında** kullanılan dayanaklar listelenir: kanun ve madde numarası, tebliğ veya özelge adı ve tarihi, karar künyesi, depodaki dosya yolu ve resmî sayfa adresi.
+Her yanıtın ve her raporun **son kısmında** kullanılan dayanaklar listelenir: kanun ve madde numarası, tebliğ veya özelge adı ve tarihi, karar künyesi, depodaki dosya yolu ve resmî sayfa adresi. İkincil kaynak kullanıldıysa ayrıca "yol gösterici kaynak" olarak belirtilir. Kaynaklar mümkünse tablo halinde verilir.
 
 ## 6. Veri gizliliği
 

@@ -2,6 +2,15 @@
 
 `araclar/mevzuat/mevzuat_tara.py` her çalıştığında değişen ve yeni eklenen kayıtları buraya yazar (en yeni üstte).
 
+## 25.11.2026 (guncelle)
+
+**mevzuat.gov.tr listesinde artık görünmeyenler (4, silinmedi; mülga olabilir)**
+
+- `tebligler/genel-tebligler/vergi-usul-kanunu/22653-vergi-usul-kanunu-genel-tebligi-sira-no-334.txt`
+- `tebligler/genel-tebligler/vergi-usul-kanunu/39523-vergi-usul-kanunu-genel-tebligi-sira-no-537.txt`
+- `tebligler/genel-tebligler/vergi-usul-kanunu/19032-vergi-usul-kanunu-genel-tebligi-sira-no-430.txt`
+- `tebligler/genel-tebligler/diger/11724-transfer-fiyatlandirmasi-yoluyla-ortulu-kazanc-dagitimi-hakkinda-genel.txt`
+
 ## 24.11.2026 (guncelle — ilk tam çalıştırma)
 
 **Değişen (2)**

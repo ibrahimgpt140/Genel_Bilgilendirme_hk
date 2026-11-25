@@ -7,8 +7,8 @@ sayi: "11395140-105[229-2015/VUK1-19376]-1010941"
 kanun: "213 VERGİ USUL KANUNU"
 kaynak: https://gib.gov.tr/mevzuat/kanun/434/ozelge/25771
 gib_guncelleme: 2025-03-24T19:40:38
-bes_yil: gecerli
-alindi: 2026-11-23
+bes_yil: ASILDI
+alindi: 2026-11-25
 ---
 
 # Adi ortaklık adına kayıtlı kamyonetlerin (K2) yetki belgesi alabilmek için ortaklardan birine devredilmesi halinde belge düzeni ile ortaklık faaliyettinde kullanılacak söz konusu araca ait giderlerin ve bu giderler nedeniyle yüklenilen KDV'nin durumu hk.

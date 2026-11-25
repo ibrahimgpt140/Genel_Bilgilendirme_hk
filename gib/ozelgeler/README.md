@@ -2,7 +2,7 @@
 
 Kaynak: gib.gov.tr mevzuat. En yeni üstte.
 
-**5 yıl sınırı:** 2021-11-24 tarihinden eski belgeler 5 yılı aşmıştır (⚠ işaretli, 16295 kayıt). GİB'de tarihi girilmemiş özelgeler "? tarihsiz" ile gösterilir.
+**5 yıl sınırı:** 2021-11-25 tarihinden eski belgeler 5 yılı aşmıştır (⚠ işaretli, 16296 kayıt). GİB'de tarihi girilmemiş özelgeler "? tarihsiz" ile gösterilir.
 
 | Tarih | 5 yıl | Sayı | Kanun | Başlık |
 |---|---|---|---|---|
@@ -2131,7 +2131,7 @@ Kaynak: gib.gov.tr mevzuat. En yeni üstte.
 | 2021-12-13 | ✓ | E-11395140-105[VUK-3-7326-3-23]-1103008 | 213 VERGİ USUL KANUNU | [İkamet amaçlı binaların inşası faaliyetinde bulunan şirketin aktifine kayıtlı olan ve inşa faaliyetinde kullanılmak üzere iktisap edilmiş bulunan taşınmazın, Vergi Usul Kanununun geçici 31 inci maddesine, 7326 sayılı Kanunla eklenen yedinci fıkra hükümleri kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.](26692-ikamet-amacli-binalarin-insasi-faaliyetinde-bulunan-sirketin-aktifine.md) |
 | 2021-12-13 | ✓ | E-11395140-105[VUK3-7326-11]-1103066 | 213 VERGİ USUL KANUNU | [Geçmişte sat-kirala-geri al işlemine konu edilen ve 2021 yılında mülkiyeti geri alınarak şirket aktifine kaydedilen binanın, Vergi Usul Kanununun geçici 31 inci maddesine, 7326 sayılı Kanunla eklenen yedinci fıkra hükümleri kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.](27257-gecmiste-sat-kirala-geri-al-islemine-konu-edilen-ve-2021-yilinda-mulki.md) |
 | 2021-11-30 | ✓ | 19208162-120[7370967993]-12430 | 193 GELİR VERGİSİ KANUNU | [Toprak altı maden işletmelerinde çalışan personellerin maaş ödemelerinde, bordrolarında gelir vergisi, damga vergisi ve asgari geçim indirimi uygulaması hk.](21394-toprak-alti-maden-isletmelerinde-calisan-personellerin-maas-odemelerin.md) |
-| 2021-11-24 | ✓ | 11395140-105[229-2015/VUK1-19376]-1010941 | 213 VERGİ USUL KANUNU | [Adi ortaklık adına kayıtlı kamyonetlerin (K2) yetki belgesi alabilmek için ortaklardan birine devredilmesi halinde belge düzeni ile ortaklık faaliyettinde kullanılacak söz konusu araca ait giderlerin ve bu giderler nedeniyle yüklenilen KDV'nin durumu hk.](25771-adi-ortaklik-adina-kayitli-kamyonetlerin-k2-yetki-belgesi-alabilmek-ic.md) |
+| 2021-11-24 | ⚠ aşıldı | 11395140-105[229-2015/VUK1-19376]-1010941 | 213 VERGİ USUL KANUNU | [Adi ortaklık adına kayıtlı kamyonetlerin (K2) yetki belgesi alabilmek için ortaklardan birine devredilmesi halinde belge düzeni ile ortaklık faaliyettinde kullanılacak söz konusu araca ait giderlerin ve bu giderler nedeniyle yüklenilen KDV'nin durumu hk.](25771-adi-ortaklik-adina-kayitli-kamyonetlerin-k2-yetki-belgesi-alabilmek-ic.md) |
 | 2021-11-22 | ⚠ aşıldı | 39044742-130[Özelge]-1001848 | 3065 KATMA DEĞER VERGİSİ KANUNU | [Reklam hizmetine yönelik mal ve hizmet alımlarında KDV tevkifatı](30240-reklam-hizmetine-yonelik-mal-ve-hizmet-alimlarinda-kdv-tevkifati.md) |
 | 2021-11-17 | ⚠ aşıldı | E-64597866-105-20505 | 213 VERGİ USUL KANUNU | [Finansal kiralamalarda, kiralamaya konu iktisadî kıymeti kullanma hakkının, 213 sayılı Vergi Usul Kanununun geçici 31 inci maddesine, 7326 sayılı Kanunun 11 inci maddesi ile eklenen, 7 inci fıkra kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.](26863-finansal-kiralamalarda-kiralamaya-konu-iktisadi-kiymeti-kullanma-hakki.md) |
 | 2021-11-16 | ⚠ aşıldı | E-64597866-120-20310 | 193 GELİR VERGİSİ KANUNU | [Alacak taleplerine ilişkin ödenen faizlerin vergilendirilmesi](23995-alacak-taleplerine-iliskin-odenen-faizlerin-vergilendirilmesi.md) |

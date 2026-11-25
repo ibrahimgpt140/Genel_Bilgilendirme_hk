@@ -19,6 +19,7 @@ dosyanın geçmişinden (History) görülebilir.
 | `tebligler/` | Genel tebliğler, sirküler ve özelgeler |
 | `kararlar/danistay/` | Danıştay vergi daireleri ve VDDK kararları (künye + özet + tam metin), karar dizini (`dizin/`), İçtihatları Birleştirme Kurulu kararları (`ibk/`, 98 karar) ve VDDK karar bültenleri ile bültenlerdeki 644 Kurul kararı (`vddk-bultenleri/`) |
 | `cumhurbaskanligi/` | mevzuat.gov.tr'deki Cumhurbaşkanlığı Kararnameleri (işlenmiş güncel metin), Cumhurbaşkanı Kararları ve Cumhurbaşkanlığı Genelgeleri (PDF'ten çıkarılan metin); dizin: `cumhurbaskanligi/README.md` |
+| `sgk/` | SGK tebliğleri (19) ve yönetmelikleri (41), mevzuat.gov.tr; çift kontrollü. SGK kanunları `kanunlar/tum/` altında |
 | `resmi-gazete/` | Günlük Resmî Gazete taramasının özetleri |
 | `sablonlar/` | Boş rapor, dilekçe ve izahat şablonları |
 | `kontrol-listeleri/` | Rapor denetim kontrol listeleri |

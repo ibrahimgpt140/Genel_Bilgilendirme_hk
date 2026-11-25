@@ -49,6 +49,24 @@ TUR = {"kanun": ("Kanun", 1), "tuzuk": ("Tuzuk", 2), "teblig": ("Teblig", 9),
        "genelge": ("CumhurbaskanligiGenelgeleri", 22)}
 ETIKET = {"Kanun": "Kanun", "Tuzuk": "Tüzük", "Teblig": "Tebliğ", "CumhurbaskaniKararnameleri": "Cumhurbaşkanlığı Kararnamesi",
           "CumhurbaskaniKararlari": "Cumhurbaşkanı Kararı", "CumhurbaskanligiGenelgeleri": "Cumhurbaşkanlığı Genelgesi"}
+# SGK (sosyal güvenlik) mevzuatı: başlığa göre seçim
+SGK_AL = re.compile(r"SOSYAL GÜVENLİK KURUMU|SOSYAL SİGORTA|GENEL SAĞLIK SİGORTASI|İŞSİZLİK SİGORTASI|SİGORTALI|SİGORTA PRİM|PRİM VE İDARİ PARA|"
+                    r"PRİM BORÇ|PRİM HİZMET|PRİME ESAS|ASGARİ İŞÇİLİK|İŞYERİ KAYIT|EMEKLİ SANDIĞI|BAĞ-KUR|BAĞIMSIZ ÇALIŞAN|5510 SAYILI|"
+                    r"506 SAYILI|SOSYAL GÜVENLİK DESTEK|SAĞLIK UYGULAMA TEBLİĞİ|BORCU YOKTUR|İŞ KAZASI|MESLEK HASTALI|MALULLÜK|"
+                    r"ÇALIŞMA GÜCÜ KAYB|AYLIK PRİM|PRİM DESTEĞİ|PRİM TEŞVİK|SİGORTALILIK|GELİR TESPİTİ, TESCİL")
+SGK_ATLA = re.compile(r"DESTEKLEME PRİMİ|SİGORTACILIK|REASÜRANS|BİREYSEL EMEKLİLİK|EMEKLİLİK ŞİRKET|EMEKLİLİK YATIRIM|SİGORTA ŞİRKET|"
+                      r"PERSONEL|DİSİPLİN|GÖREVDE YÜKSELME|ATAMA VE YER|DÖNER SERMAYE|TAŞINMAZ|UZMANLIĞI|DENETMENLİĞİ|MÜFETTİŞ|"
+                      r"TEŞKİLAT|KAMU İHALE|EĞİTİM VE ARAŞTIRMA|ARŞİV|VERİLERİN KORUNMASI|AVUKATLIK STAJI|ÜNVAN DEĞİŞİKLİĞİ|UNVAN DEĞİŞİKLİĞİ|MEVDUAT")
+SGK_TUR = {"sgk-teblig": ("Teblig", "tebligler", "Tebliğ (SGK)"),
+           "sgk-kyon": ("KurumVeKurulusYonetmeligi", "yonetmelikler", "Kurum yönetmeliği (SGK)"),
+           "sgk-cyon": ("CumhurbaskanligiVeBakanlarKuruluYonetmelik", "yonetmelikler", "CB / BK yönetmeliği (SGK)")}
+
+
+def sgk_mi(ad):
+    u = re.sub(r"\s+", " ", ad.upper())
+    return bool(SGK_AL.search(u)) and not SGK_ATLA.search(u)
+
+
 MADDE_DOSYA = re.compile(r"^(madde-|ek-madde-|gecici-madde-|00-baslik\.txt$|zz-islenemeyen)")
 
 
@@ -164,7 +182,7 @@ def pdf_tarih(veri):
 def envanter():
     """Depodaki mevzuat.gov.tr kaynaklı kayıtlar."""
     htmls, pdfler = [], []
-    kokler = ["kanunlar", "tuzukler", "tebligler", "yonetmelikler", "cumhurbaskanligi"]
+    kokler = ["kanunlar", "tuzukler", "tebligler", "yonetmelikler", "cumhurbaskanligi", "sgk"]
     bas = re.compile(r"^KAYNAK: https://www\.mevzuat\.gov\.tr/mevzuat\?MevzuatNo=([^&\s]+)&MevzuatTur=(\d+)&MevzuatTertip=(\d+)")
     for k in kokler:
         for kok, dirs, files in os.walk(KOK / k):
@@ -270,7 +288,8 @@ def pdf_kontrol(k, kuru):
 
 # ---------------------------------------------------------------- yeni kayıtlar
 def baslik_satirlari(kayit, tur_ad, kaynak):
-    return (f"KAYNAK: {kaynak}\nADI: {kayit.get('mevAdi','').strip()}\nTÜR: {tur_ad}\n"
+    ad = re.sub(r"\s+", " ", kayit.get("mevAdi", "")).strip()
+    return (f"KAYNAK: {kaynak}\nADI: {ad}\nTÜR: {tur_ad}\n"
             f"RESMÎ GAZETE: {kayit.get('resmiGazeteTarihi') or ''} / {kayit.get('resmiGazeteSayisi') or ''}\n"
             f"ALINMA: {BUGUN_TR} (mevzuat.gov.tr güncel metni)\n\n")
 
@@ -485,7 +504,7 @@ def calistir(kip, kuru, sinir):
             return yeni_pdf_metin(k, hedef_yol(anahtar, k), tur_ad)
         ok, hata = paralel(ekle, yeniler, n=8 if anahtar == "cbkarar" else 6)
         for k, (yol, metinsiz) in ok:
-            rapor["yeni"].append({"tur": ETIKET[tur_ad], "no": k["mevzuatNo"], "ad": k["mevAdi"].strip(), "rg": k.get("resmiGazeteTarihi"), "yol": yol})
+            rapor["yeni"].append({"tur": ETIKET[tur_ad], "no": k["mevzuatNo"], "ad": re.sub(r"\s+", " ", k["mevAdi"]).strip(), "rg": k.get("resmiGazeteTarihi"), "yol": yol})
             if metinsiz:
                 rapor["metinsiz"].append(yol)
             if anahtar == "tuzuk":
@@ -495,6 +514,33 @@ def calistir(kip, kuru, sinir):
                 readme_ekle(KOK / "kanunlar" / "tum" / "README.md",
                             f"| `{pathlib.Path(yol).name}/` | {k['mevAdi'].strip()} | {k.get('resmiGazeteTarihi','')} | yeni ({BUGUN_TR}) |")
         rapor["hata"] += [{"yol": f"yeni:{tur_ad}:{k['mevzuatNo']}", "hata": e} for k, e in hata]
+
+    # 2b) SGK tebliğ ve yönetmelikleri (mevzuat.gov.tr, başlığa göre seçilir; daha önce depoda olanlar atlanır)
+    var_html = {(k["tur"], str(k["no"]), str(k["tertip"])) for k in envanter()[0]}
+    for anahtar, (tur_ad, klasor, etiket) in SGK_TUR.items():
+        try:
+            lst = listeler.get("teblig") if tur_ad == "Teblig" and "teblig" in listeler else liste(tur_ad)
+        except Exception as e:
+            rapor["hata"].append({"yol": f"liste:{tur_ad}", "hata": str(e)[:300]})
+            continue
+        sec = [k for k in lst if sgk_mi(k["mevAdi"])]
+        yeniler = [k for k in sec if (int(k["mevzuatTur"]), str(k["mevzuatNo"]), str(k["mevzuatTertip"])) not in var_html]
+        if sinir:
+            yeniler = yeniler[:sinir]
+        print(f"SGK {tur_ad}: seçilen {len(sec)}, yeni {len(yeniler)}", file=sys.stderr, flush=True)
+        if kuru:
+            rapor["yeni"] += [{"tur": etiket, "no": k["mevzuatNo"], "ad": k["mevAdi"].strip(), "rg": k.get("resmiGazeteTarihi"),
+                               "yol": "(kuru çalıştırma)"} for k in yeniler]
+            continue
+
+        def ekle_sgk(k, klasor=klasor, etiket=etiket):
+            hedef = KOK / "sgk" / klasor / f"{slug(str(k['mevzuatNo']), 20)}-{slug(k['mevAdi'].strip(), 70)}.txt"
+            return yeni_html(k, hedef, etiket)
+        ok, hata = paralel(ekle_sgk, yeniler)
+        for k, yol in ok:
+            rapor["yeni"].append({"tur": etiket, "no": k["mevzuatNo"], "ad": re.sub(r"\s+", " ", k["mevAdi"]).strip(), "rg": k.get("resmiGazeteTarihi"), "yol": yol})
+            var_html.add((int(k["mevzuatTur"]), str(k["mevzuatNo"]), str(k["mevzuatTertip"])))
+        rapor["hata"] += [{"yol": f"yeni:{etiket}:{k['mevzuatNo']}", "hata": e} for k, e in hata]
 
     # 3) haftalık: CB kararlarının değişiklik kontrolü (PDF metni)
     if kip == "haftalik" and "cbkarar" in listeler:
@@ -547,7 +593,7 @@ def gunluk(rapor):
             from collections import Counter
             s += [f"- {t}: {n}" for t, n in Counter(x["tur"] for x in yeni).items()] + [""]
         else:
-            s += [f"- {x['tur']} {x['no']} — {x['ad']} (RG {x['rg']}) → `{x['yol']}`" for x in yeni] + [""]
+            s += [f"- {x['tur']} {x['no']} — {re.sub(r'\\s+', ' ', x['ad'])} (RG {x['rg']}) → `{x['yol']}`" for x in yeni] + [""]
     if rapor["listede_yok"]:
         s += [f"**mevzuat.gov.tr listesinde artık görünmeyenler ({len(rapor['listede_yok'])}, silinmedi; mülga olabilir)**", ""] + \
              [f"- `{y}`" for y in rapor["listede_yok"][:100]] + [""]

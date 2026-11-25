@@ -14,7 +14,10 @@
 Bölme betiği çıktısı:
 
 ```
-{"dosya": "tam-metin.txt", "ana_son": 14, "ek_son": 0, "gecici_son": 0, "parca": 14, "butunluk": true, "baslik_tasinan": 0}
+{"dosya": "tam-metin.txt", "ana_son": 15, "ek_son": 0, "gecici_son": 0, "parca": 15, "butunluk": true, "baslik_tasinan": 0}
+KAYNAKTA YAZIM HATASI: 'l5' -> '15' (satır 147)
 ```
 
 Metin otomatik çıkarıldı; insan gözüyle resmî metinle karşılaştırılmadı. Kullanmadan önce mevzuat.gov.tr ile teyit ediniz.
+
+Not (25.11.2026): Kaynak PDF'te madde numarasında 1 yerine küçük L harfi kullanılmış başlık(lar) bulunduğundan maddeler yeniden bölündü.

@@ -14,8 +14,11 @@
 Bölme betiği çıktısı:
 
 ```
-{"dosya": "tam-metin.txt", "ana_son": 42, "ek_son": 0, "gecici_son": 13, "parca": 56, "butunluk": true, "baslik_tasinan": 48}
-EK BÖLÜM BAŞLANGICI: satır 1112: GEÇİCİ MADDE 13- (Ek:27/12/2018-7159/7 md.)
+{"dosya": "tam-metin.txt", "ana_son": 44, "ek_son": 0, "gecici_son": 15, "parca": 61, "butunluk": true, "baslik_tasinan": 50}
+AYNI NUMARALI İKİNCİ GEÇİCİ MADDE: 13 (satır 1112)
+EK BÖLÜM BAŞLANGICI: satır 1168: 6253 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
 ```
 
 Metin otomatik çıkarıldı; insan gözüyle resmî metinle karşılaştırılmadı. Kullanmadan önce mevzuat.gov.tr ile teyit ediniz.
+
+Not (25.11.2026): Kanunda aynı numarayla iki kez eklenmiş geçici madde bulunduğundan maddeler yeniden bölündü; ikinci madde `gecici-madde-NN-2.txt` dosyasındadır.

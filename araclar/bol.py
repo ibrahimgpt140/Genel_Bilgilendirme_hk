@@ -3,7 +3,7 @@
 import re, sys, json, pathlib
 src, outdir = pathlib.Path(sys.argv[1]), pathlib.Path(sys.argv[2])
 lines = src.read_text(encoding="utf-8").replace("\f", "\n").split("\n")
-pat = re.compile(r"^\s*(?:(Mükerrer|Geçici|Ek|MÜKERRER|GEÇİCİ|EK)\s+)?(?:Madde|MADDE)\s*(\d[\dl]*)?\s*(?:/\s*([A-ZÇĞİÖŞÜ]))?\s*([-–—]|$|\s)")
+pat = re.compile(r"^\s*(?:(Mükerrer|Geçici|Ek|MÜKERRER|GEÇİCİ|EK)\s+)?(?:Madde|MADDE)\s*(\d[\dl]*|l\d[\dl]*)?\s*(?:/\s*([A-ZÇĞİÖŞÜ]))?\s*([-–—]|$|\s)")
 main = ek = gec = 0
 arts = []      # (key, startline)
 log = []
@@ -64,6 +64,13 @@ for i, ln in enumerate(lines):
             gec = num; arts.append((f"gecici-madde-{num:02d}", i))
         elif suf and num == gec:
             arts.append((f"gecici-madde-{num:02d}-{suf}", i))
+        elif num == gec and re.search(r"\(\s*Ek\s*:", ln):
+            # aynı numarayla ikinci kez eklenmiş geçici madde (farklı kanunlarla), ör. 5510 geçici 79
+            key = f"gecici-madde-{num:02d}-2"
+            n2 = 2
+            while any(k == key for k, _ in arts): n2 += 1; key = f"gecici-madde-{num:02d}-{n2}"
+            log.append(f"AYNI NUMARALI İKİNCİ GEÇİCİ MADDE: {num} (satır {i+1})")
+            arts.append((key, i))
         elif num <= gec and gec >= 1:
             arts.append(("zz-islenemeyen-hukumler-ve-ekler", i)); done = True
             log.append(f"EK BÖLÜM BAŞLANGICI: satır {i+1}: {ln.strip()[:70]}")

@@ -14,8 +14,11 @@
 Bölme betiği çıktısı:
 
 ```
-{"dosya": "tam-metin.txt", "ana_son": 41, "ek_son": 4, "gecici_son": 13, "parca": 59, "butunluk": true, "baslik_tasinan": 41}
-EK BÖLÜM BAŞLANGICI: satır 1195: Geçici Madde 13- (Ek: 19/4/2018-7139/30 md.)
+{"dosya": "tam-metin.txt", "ana_son": 43, "ek_son": 4, "gecici_son": 20, "parca": 69, "butunluk": true, "baslik_tasinan": 41}
+AYNI NUMARALI İKİNCİ GEÇİCİ MADDE: 13 (satır 1195)
+EK BÖLÜM BAŞLANGICI: satır 1295: Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihte, kamulaştırma ka
 ```
 
 Metin otomatik çıkarıldı; insan gözüyle resmî metinle karşılaştırılmadı. Kullanmadan önce mevzuat.gov.tr ile teyit ediniz.
+
+Not (25.11.2026): Kanunda aynı numarayla iki kez eklenmiş geçici madde bulunduğundan maddeler yeniden bölündü; ikinci madde `gecici-madde-NN-2.txt` dosyasındadır.

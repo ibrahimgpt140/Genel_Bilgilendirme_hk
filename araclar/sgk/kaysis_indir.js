@@ -3,14 +3,14 @@
 // BILINEN yer tutucusu yerine depodaki sgk/kaysis/dizin.csv'den üretilen {"kategori": [id, ...], ...} nesnesi konur
 // (python3 araclar/sgk/kaysis_bilinen.py çıktısı).
 // Yeni kayıt varsa her biri base64 PDF olarak `kaysis-sgk-yeni-<tarih>-NN.json` paketlerine yazılıp İndirilenler'e indirilir;
-// ilk pakette sayfadaki tam dizin de bulunur. Durum: window.__kdurum (bitti, yeni, paket, hata, dosyalar).
+// ilk pakette sayfadaki tam dizin de bulunur. window.__kaysis_ref = '<commit sha>' verilirse dizin o commit'ten okunur (GitHub önbelleğinden etkilenmez). Durum: window.__kdurum (bitti, yeni, paket, hata, dosyalar).
 (async () => {
   let BILINEN;
   if (typeof __BILINEN__ !== 'undefined') {
     BILINEN = new Set(Object.entries(__BILINEN__).flatMap(([k, ids]) => ids.map(i => `${k}|${i}`)));
   } else {
     // yer tutucu doldurulmadıysa depodaki dizini GitHub'dan oku (depo herkese açık)
-    const csv = await fetch('https://raw.githubusercontent.com/ibrahimgpt140/Genel_Bilgilendirme_hk/main/sgk/kaysis/dizin.csv', {cache: 'no-store'}).then(r => r.text());
+    const csv = await fetch(`https://raw.githubusercontent.com/ibrahimgpt140/Genel_Bilgilendirme_hk/${window.__kaysis_ref || 'main'}/sgk/kaysis/dizin.csv`, {cache: 'no-store'}).then(r => r.text());
     // tırnaklı alanları (satır sonu ve virgül içerebilir) doğru okuyan küçük CSV ayrıştırıcı
     const satirlar = []; let alan = '', satir = [], tirnak = false;
     for (let i = 0; i < csv.length; i++) {

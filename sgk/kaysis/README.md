@@ -1,11 +1,11 @@
 # SGK mevzuatı — KAYSİS (kms.kaysis.gov.tr)
 
-Kaynak: Sosyal Güvenlik Kurumu Başkanlığının KAYSİS kurum sayfası (https://kms.kaysis.gov.tr/Home/Kurum/22620739). Alınma: 25.11.2026.
-KAYSİS yurt dışından erişime kapalı olduğundan belgeler kullanıcının bilgisayarındaki tarayıcıdan resmî PDF olarak alındı ve `araclar/sgk/kaysis_isle.py` ile metne çevrildi. Her dosyanın başında kaynak bağlantısı, sayı, PDF SHA-256 ve kontrol sonucu yazar.
+Kaynak: Sosyal Güvenlik Kurumu Başkanlığının KAYSİS kurum sayfası (https://kms.kaysis.gov.tr/Home/Kurum/22620739). Son güncelleme: 25.11.2026.
+KAYSİS yurt dışından erişime kapalı olduğundan belgeler kullanıcının bilgisayarındaki tarayıcıdan resmî PDF olarak alınır (`araclar/sgk/kaysis_indir.js`) ve `araclar/sgk/kaysis_isle.py` ile metne çevrilir. Her dosyanın başında kaynak bağlantısı, sayı, SHA-256 ve kontrol sonucu yazar.
 
 **Çift kontrol:** (1) indirilen belgenin boyutu KAYSİS'in gönderdiğiyle eşleşiyor ve SHA-256 değeri dosyanın başına yazıldı; (2) belgenin sayısı ya da başlığı metnin başında (ilk ~20.000 karakter) geçiyor. 1001 kaydın 987'i iki kontrolden de geçti. 13 belgede sayı/başlık metnin başında bulunamadı; bunlar ek/form, içindekiler sayfası ya da Resmî Gazete sayfa başlığıyla başlıyor (aşağıda listeli, içerik elle teyit edilmeli). 1 kaydın KAYSİS'te dosyası yok (yalnızca künye). 285 taranmış ya da metin katmanı bozuk PDF Türkçe OCR ile metne çevrildi (dosyalarında işaretli; OCR hatası olabileceğinden rakam ve tarihleri kaynak PDF'ten teyit ediniz). 36 belge KAYSİS'te PDF yerine HTML olarak sunuluyor; metni HTML'den alındı.
 
-Not: KAYSİS'teki genelgeler ve genel yazılar Resmî Gazete'de yayımlanmaz; SGK'nın kendi düzenlemeleridir. Güncelleme KAYSİS'e erişim gerektirdiğinden bulut görevinde yapılamaz; kullanıcının bilgisayarındaki tarayıcıyla elle yenilenir.
+Not: KAYSİS'teki genelgeler ve genel yazılar Resmî Gazete'de yayımlanmaz; SGK'nın kendi düzenlemeleridir. Yeni kayıtlar, kullanıcının bilgisayarında çalışan günlük görevle eklenir.
 
 | Klasör | Kategori | Adet |
 |---|---|---|

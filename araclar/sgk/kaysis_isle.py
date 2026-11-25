@@ -62,7 +62,9 @@ def sayfa_sayisi(veri):
 def main():
     kaynak = pathlib.Path(sys.argv[1])
     pdf_sakla = "--pdf-sakla" in sys.argv
-    paketler = sorted(kaynak.glob("kaysis-sgk-paket-*.json"))
+    ekle = "--ekle" in sys.argv
+    desen = sys.argv[sys.argv.index("--desen") + 1] if "--desen" in sys.argv else "kaysis-sgk-paket-*.json"
+    paketler = sorted(kaynak.glob(desen))
     dizin, docs = None, {}
     alinma = ""
     for p in paketler:
@@ -80,10 +82,25 @@ def main():
              "boyut_tutmadi": [], "kontrol2_tutmadi": [], "metinsiz": []}
     satirlar = []
     kullanilan = set()
+    eski = {}
+    if ekle and (HEDEF / "dizin.csv").exists():
+        with (HEDEF / "dizin.csv").open(encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                eski[(r["kategori"], r["kaynak"].rsplit("/", 1)[-1])] = r
+                kullanilan.add(pathlib.Path(r["dosya"]).stem)
+    rapor["yeni"] = []
     for x in dizin:
         d = docs.get((x["kat"], x["id"]))
+        if ekle and (x["kat"], x["id"]) in eski:
+            d = None  # artımlı kipte depoda olan kayıt yeniden işlenmez
         if not d:
-            rapor["eksik"].append(x["id"]); continue
+            e = eski.get((x["kat"], x["id"]))
+            if e:
+                satirlar.append([e["kategori"], e["sayi"], e["baslik"], e["resmi_gazete"], e["dosya"], e["kaynak"], e["pdf_sha256"], e["kontrol2"]])
+            else:
+                rapor["eksik"].append(x["id"])
+            continue
+        rapor["yeni"].append(f"{x['kat']} | {x['sayi']} | {x['baslik']}")
         veri = base64.b64decode(d["b64"])
         if len(veri) != d["boyut"]:
             rapor["boyut_tutmadi"].append(x["id"])
@@ -152,22 +169,27 @@ def main():
         w.writerow(["kategori", "sayi", "baslik", "resmi_gazete", "dosya", "kaynak", "pdf_sha256", "kontrol2"])
         w.writerows(satirlar)
     say = collections.Counter(s[0] for s in satirlar)
+    fs = [HEDEF / s_[4] for s_ in satirlar if (HEDEF / s_[4]).exists()]
+    bas_ = {f: f.read_text(encoding="utf-8", errors="replace")[:2500] for f in fs}
+    yok_ = [f for f, b in bas_.items() if "DURUM: KAYSİS'te bu kaydın dosyası yok" in b]
+    html_ = sum("KAYSİS resmî HTML belge" in b for b in bas_.values())
+    ocr_ = sum("Türkçe OCR ile" in b for b in bas_.values())
+    k2_ = [f for f, b in bas_.items() if "BULUNAMADI" in b]
+    gecen = len(fs) - len(k2_) - len(yok_)
     md = ["# SGK mevzuatı — KAYSİS (kms.kaysis.gov.tr)", "",
-          f"Kaynak: Sosyal Güvenlik Kurumu Başkanlığının KAYSİS kurum sayfası (https://kms.kaysis.gov.tr/Home/Kurum/22620739). Alınma: {tarih_tr}.",
-          "KAYSİS yurt dışından erişime kapalı olduğundan belgeler kullanıcının bilgisayarındaki tarayıcıdan resmî PDF olarak alındı "
-          "ve `araclar/sgk/kaysis_isle.py` ile metne çevrildi. Her dosyanın başında kaynak bağlantısı, sayı, PDF SHA-256 ve kontrol sonucu yazar.", "",
-          "**Çift kontrol:** (1) indirilen PDF'in boyutu KAYSİS'in gönderdiğiyle eşleşiyor; (2) belgenin sayısı ya da başlığı PDF metninin başında geçiyor. "
-          f"{rapor['yazilan']} belgenin {rapor['yazilan'] - len(rapor['kontrol2_tutmadi']) - len(rapor['metinsiz']) - sum(1 for y in rapor['pdf_degil'] if 'yok' in y[1])}'i iki kontrolden de geçti; "
-          f"{len(rapor['metinsiz'])} taranmış PDF'in metni çıkarılamadı; {len(rapor['kontrol2_tutmadi'])} belgede sayı/başlık metinde bulunamadı (listede).", "",
-          "Not: KAYSİS'teki genelgeler ve genel yazılar Resmî Gazete'de yayımlanmaz; SGK'nın kendi düzenlemeleridir. Güncelleme KAYSİS'e erişim gerektirdiğinden "
-          "bulut görevinde yapılamaz; kullanıcının bilgisayarındaki tarayıcıyla elle yenilenir.", "",
+          f"Kaynak: Sosyal Güvenlik Kurumu Başkanlığının KAYSİS kurum sayfası (https://kms.kaysis.gov.tr/Home/Kurum/22620739). Son güncelleme: {tarih_tr}.",
+          "KAYSİS yurt dışından erişime kapalı olduğundan belgeler kullanıcının bilgisayarındaki tarayıcıdan resmî PDF olarak alınır "
+          "(`araclar/sgk/kaysis_indir.js`) ve `araclar/sgk/kaysis_isle.py` ile metne çevrilir. Her dosyanın başında kaynak bağlantısı, sayı, SHA-256 ve kontrol sonucu yazar.", "",
+          f"**Çift kontrol:** (1) indirilen belgenin boyutu KAYSİS'in gönderdiğiyle eşleşiyor ve SHA-256 değeri dosyanın başına yazıldı; (2) belgenin sayısı ya da başlığı metnin başında (ilk ~20.000 karakter) geçiyor. "
+          f"{len(fs)} kaydın {gecen}'i iki kontrolden de geçti. {len(k2_)} belgede sayı/başlık metnin başında bulunamadı; bunlar ek/form, içindekiler sayfası ya da Resmî Gazete sayfa başlığıyla başlıyor (aşağıda listeli, içerik elle teyit edilmeli). "
+          f"{len(yok_)} kaydın KAYSİS'te dosyası yok (yalnızca künye). {ocr_} taranmış ya da metin katmanı bozuk PDF Türkçe OCR ile metne çevrildi (dosyalarında işaretli; OCR hatası olabileceğinden rakam ve tarihleri kaynak PDF'ten teyit ediniz). "
+          f"{html_} belge KAYSİS'te PDF yerine HTML olarak sunuluyor; metni HTML'den alındı.", "",
+          "Not: KAYSİS'teki genelgeler ve genel yazılar Resmî Gazete'de yayımlanmaz; SGK'nın kendi düzenlemeleridir. Yeni kayıtlar, kullanıcının bilgisayarında çalışan günlük görevle eklenir.", "",
           "| Klasör | Kategori | Adet |", "|---|---|---|"]
     md += [f"| `{KAT.get(k, slug(k))}/` | {k} | {n} |" for k, n in say.most_common()]
     md += ["", "Tam liste: `dizin.csv`.", ""]
-    if rapor["kontrol2_tutmadi"]:
-        md += ["## Sayı/başlık metinde bulunamayanlar (elle bakılmalı)", ""] + [f"- `{y}`" for y in rapor["kontrol2_tutmadi"]] + [""]
-    if rapor["metinsiz"]:
-        md += ["## Metni çıkarılamayanlar (taranmış PDF)", ""] + [f"- `{y}`" for y in rapor["metinsiz"]] + [""]
+    if k2_:
+        md += ["## Sayı/başlık metinde bulunamayanlar (elle bakılmalı)", ""] + [f"- `{f.relative_to(HEDEF).with_suffix('').as_posix()}`" for f in k2_] + [""]
     (HEDEF / "README.md").write_text("\n".join(md), encoding="utf-8")
     print(json.dumps({k: (v if not isinstance(v, list) or len(v) < 30 else f"{len(v)} kayıt") for k, v in rapor.items()}, ensure_ascii=False, indent=1))
 

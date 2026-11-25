@@ -3,14 +3,14 @@
 Kaynak: Sosyal Güvenlik Kurumu Başkanlığının KAYSİS kurum sayfası (https://kms.kaysis.gov.tr/Home/Kurum/22620739). Son güncelleme: 25.11.2026.
 KAYSİS yurt dışından erişime kapalı olduğundan belgeler kullanıcının bilgisayarındaki tarayıcıdan resmî PDF olarak alınır (`araclar/sgk/kaysis_indir.js`) ve `araclar/sgk/kaysis_isle.py` ile metne çevrilir. Her dosyanın başında kaynak bağlantısı, sayı, SHA-256 ve kontrol sonucu yazar.
 
-**Çift kontrol:** (1) indirilen belgenin boyutu KAYSİS'in gönderdiğiyle eşleşiyor ve SHA-256 değeri dosyanın başına yazıldı; (2) belgenin sayısı ya da başlığı metnin başında (ilk ~20.000 karakter) geçiyor. 1001 kaydın 987'i iki kontrolden de geçti. 13 belgede sayı/başlık metnin başında bulunamadı; bunlar ek/form, içindekiler sayfası ya da Resmî Gazete sayfa başlığıyla başlıyor (aşağıda listeli, içerik elle teyit edilmeli). 1 kaydın KAYSİS'te dosyası yok (yalnızca künye). 285 taranmış ya da metin katmanı bozuk PDF Türkçe OCR ile metne çevrildi (dosyalarında işaretli; OCR hatası olabileceğinden rakam ve tarihleri kaynak PDF'ten teyit ediniz). 36 belge KAYSİS'te PDF yerine HTML olarak sunuluyor; metni HTML'den alındı.
+**Çift kontrol:** (1) indirilen belgenin boyutu KAYSİS'in gönderdiğiyle eşleşiyor ve SHA-256 değeri dosyanın başına yazıldı; (2) belgenin sayısı ya da başlığı metnin başında (ilk ~20.000 karakter) geçiyor. 1003 kaydın 989'i iki kontrolden de geçti. 13 belgede sayı/başlık metnin başında bulunamadı; bunlar ek/form, içindekiler sayfası ya da Resmî Gazete sayfa başlığıyla başlıyor (aşağıda listeli, içerik elle teyit edilmeli). 1 kaydın KAYSİS'te dosyası yok (yalnızca künye). 286 taranmış ya da metin katmanı bozuk PDF Türkçe OCR ile metne çevrildi (dosyalarında işaretli; OCR hatası olabileceğinden rakam ve tarihleri kaynak PDF'ten teyit ediniz). 36 belge KAYSİS'te PDF yerine HTML olarak sunuluyor; metni HTML'den alındı.
 
 Not: KAYSİS'teki genelgeler ve genel yazılar Resmî Gazete'de yayımlanmaz; SGK'nın kendi düzenlemeleridir. Yeni kayıtlar, kullanıcının bilgisayarında çalışan günlük görevle eklenir.
 
 | Klasör | Kategori | Adet |
 |---|---|---|
-| `genelgeler/` | Kurum Genelgeleri | 401 |
-| `genel-yazilar/` | Genel Yazılar | 347 |
+| `genelgeler/` | Kurum Genelgeleri | 402 |
+| `genel-yazilar/` | Genel Yazılar | 348 |
 | `tebligler/` | Tebliğler | 77 |
 | `yonetmelikler/` | Kurum Yönetmelikleri | 56 |
 | `usul-ve-esaslar/` | Esas ve Usuller | 37 |

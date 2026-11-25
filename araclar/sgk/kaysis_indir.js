@@ -11,7 +11,18 @@
   } else {
     // yer tutucu doldurulmadıysa depodaki dizini GitHub'dan oku (depo herkese açık)
     const csv = await fetch('https://raw.githubusercontent.com/ibrahimgpt140/Genel_Bilgilendirme_hk/main/sgk/kaysis/dizin.csv', {cache: 'no-store'}).then(r => r.text());
-    BILINEN = new Set(csv.split('\n').slice(1).filter(Boolean).map(l => { const m = l.match(/Home\/Goster\/(\d+)/); return m ? `${l.split(',')[0]}|${m[1]}` : null; }).filter(Boolean));
+    // tırnaklı alanları (satır sonu ve virgül içerebilir) doğru okuyan küçük CSV ayrıştırıcı
+    const satirlar = []; let alan = '', satir = [], tirnak = false;
+    for (let i = 0; i < csv.length; i++) {
+      const c = csv[i];
+      if (tirnak) { if (c === '"' && csv[i + 1] === '"') { alan += '"'; i++; } else if (c === '"') tirnak = false; else alan += c; }
+      else if (c === '"') tirnak = true;
+      else if (c === ',') { satir.push(alan); alan = ''; }
+      else if (c === '\n') { satir.push(alan.replace(/\r$/, '')); satirlar.push(satir); satir = []; alan = ''; }
+      else alan += c;
+    }
+    if (alan || satir.length) { satir.push(alan); satirlar.push(satir); }
+    BILINEN = new Set(satirlar.slice(1).map(r => { const m = (r[5] || '').match(/Goster\/(\d+)/); return m ? `${r[0]}|${m[1]}` : null; }).filter(Boolean));
     if (BILINEN.size < 900) { window.__kdurum = {bitti: true, hata: [['dizin', 'depodaki dizin.csv okunamadı (' + BILINEN.size + ' kayıt)']]}; return; }
   }
   const idx = [];

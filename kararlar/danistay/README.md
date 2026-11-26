@@ -16,15 +16,15 @@ arka ucu bedesten.adalet.gov.tr) sisteminden alınır.
 | `vddk-bultenleri/` | **VDDK gündem karar bültenleri** (49 bülten, 2019–2026) ve bültenlerde bağlantısı verilen **644 Kurul kararının** tam metni (`vddk-bultenleri/kararlar/`; 2019–2020 kararları dahil). Kaynak: danistay.gov.tr → Yayınlar → Kararlar Bülteni |
 | `../../araclar/danistay/` | Tarama betikleri: `sayim.js` (daire × yıl sayımı), `dizin_tara.js` (künye dizini), `metin_cek.js` (tam metin), `depoya_yaz.py` (depoya yazma), `guncelle.py` (haftalık güncelleme), `ibk_bulten_cek.py` (İBK ve VDDK bültenleri) |
 
-## Kapsam (23.11.2026 itibarıyla)
+## Kapsam (26.11.2026 itibarıyla)
 
 | Daire | Dizindeki karar (2024 / 2025 / 2026) | Tam metin | Tam metin kuralı |
 |---|---|---|---|
 | Vergi Dava Daireleri Kurulu | 1.012 / 933 / 98 | 2.043 kayıt (2.028 tekil karar) | Tamamı |
-| 3. Daire | 7.709 / 3.834 / 72 | 5.388 | Konu bazında |
+| 3. Daire | 7.709 / 3.863 / 97 | 5.406 | Konu bazında |
 | 7. Daire | 4.929 / 2.546 / 12 | 1.466 | Konu bazında |
-| 9. Daire | 7.939 / 4.620 / – | 4.386 | Konu bazında |
-| **Toplam** | **33.704** | **13.283 kayıt** | |
+| 9. Daire | 7.939 / 4.638 / – | 4.393 | Konu bazında |
+| **Toplam** | **33.776** | **13.308 kayıt** | |
 
 **Konu bazında tam metin (3., 7. ve 9. Daire):** Karar Arama'da aşağıdaki kelimelerden biri geçen 2024–2026 kararlarının tamamı alındı.
 Her konu × daire × yıl için alınan karar sayısı, Karar Arama'nın verdiği toplamla birebir eşleşti (11.240 tekil kayıt).
@@ -105,6 +105,8 @@ Ardından kısa özet ve karar metni gelir.
 - **23.11.2026 – 2024–2026 taraması.** VDDK, 3., 7. ve 9. Dairenin 2024, 2025 ve 2026 karar yıllarına ait tüm kararlarının künye dizini (33.698 kayıt) ve VDDK kararlarının tamamının tam metni (2.028 tekil karar). Tüm tam metinlerde esas ve karar numarası karar metninde programla bulundu.
 
 - **23.11.2026 – Konu bazında tam metin.** 3., 7. ve 9. Dairenin 2024–2026 kararlarından sahte belge, KDV iadesi, vergi ziyaı ve tebligat konularına girenlerin tam metni (11.240 kayıt); dizine `konular` sütunu eklendi.
+
+- **26.11.2026 – Günlük güncelleme.** 3. Daire 2025: 3.834 → 3.863, 2026: 72 → 97; 9. Daire 2025: 4.620 → 4.638 (dizine 72 künye). Konu kelimesi geçen 25 kararın tam metni eklendi (3. Daire 18, 9. Daire 7); doğrulanmayan künye yok. VDDK ve 7. Daire değişmedi.
 
 ## İlk aktarımdaki özetli kararlar (44)
 

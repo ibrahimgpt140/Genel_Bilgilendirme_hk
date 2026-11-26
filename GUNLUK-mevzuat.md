@@ -2,6 +2,20 @@
 
 `araclar/mevzuat/mevzuat_tara.py` her çalıştığında değişen ve yeni eklenen kayıtları buraya yazar (en yeni üstte).
 
+## 26.11.2026 (guncelle)
+
+**Değişen (2)**
+
+- `kanunlar/tum/6222-sporda-siddet-ve-duzensizligin-onlenmesine-dair-kanun` (Kanun, +445 karakter, bölündü)
+- `kanunlar/tum/657-devlet-memurlari-kanunu` (Kanun, +3282 karakter, bölündü)
+
+**mevzuat.gov.tr listesinde artık görünmeyenler (4, silinmedi; mülga olabilir)**
+
+- `tebligler/genel-tebligler/vergi-usul-kanunu/22653-vergi-usul-kanunu-genel-tebligi-sira-no-334.txt`
+- `tebligler/genel-tebligler/vergi-usul-kanunu/39523-vergi-usul-kanunu-genel-tebligi-sira-no-537.txt`
+- `tebligler/genel-tebligler/vergi-usul-kanunu/19032-vergi-usul-kanunu-genel-tebligi-sira-no-430.txt`
+- `tebligler/genel-tebligler/diger/11724-transfer-fiyatlandirmasi-yoluyla-ortulu-kazanc-dagitimi-hakkinda-genel.txt`
+
 ## 25.11.2026 (KAYSİS — SGK, artımlı)
 
 **Yeni (2)**

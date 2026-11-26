@@ -6,9 +6,9 @@
 | Kaynak | https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6222&MevzuatTur=1&MevzuatTertip=5 |
 | Resmî Gazete | 14.04.2011 / 27905 |
 | Kabul | 31.03.2011 |
-| Alınma | 18.11.2026 (mevzuat.gov.tr güncel metni) |
+| Alınma | 26.11.2026 (mevzuat.gov.tr güncel metni) |
 | PDF | `kaynak-dosyalar/kanun-pdf/1.5.6222.pdf` |
-| SHA-256 | `17875285102a8b872ae3d9cbaf83a97dffd7aea74467513d4829ac0a4a14364e` |
+| SHA-256 | `29e76269782341ff3ba111a0fdde9984b3be2fbe68d39c67911bfa7b92b5df01` |
 | Madde bölme | bölündü |
 
 Bölme betiği çıktısı:

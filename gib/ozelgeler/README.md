@@ -2,7 +2,7 @@
 
 Kaynak: gib.gov.tr mevzuat. En yeni üstte.
 
-**5 yıl sınırı:** 2021-11-25 tarihinden eski belgeler 5 yılı aşmıştır (⚠ işaretli, 16296 kayıt). GİB'de tarihi girilmemiş özelgeler "? tarihsiz" ile gösterilir.
+**5 yıl sınırı:** 2021-11-26 tarihinden eski belgeler 5 yılı aşmıştır (⚠ işaretli, 16296 kayıt). GİB'de tarihi girilmemiş özelgeler "? tarihsiz" ile gösterilir.
 
 | Tarih | 5 yıl | Sayı | Kanun | Başlık |
 |---|---|---|---|---|

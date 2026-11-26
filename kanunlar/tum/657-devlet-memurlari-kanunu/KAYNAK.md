@@ -6,9 +6,9 @@
 | Kaynak | https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=657&MevzuatTur=1&MevzuatTertip=5 |
 | Resmî Gazete | 23.07.1965 / 12056 |
 | Kabul | 14.07.1965 |
-| Alınma | 18.11.2026 (mevzuat.gov.tr güncel metni) |
+| Alınma | 26.11.2026 (mevzuat.gov.tr güncel metni) |
 | PDF | `kaynak-dosyalar/kanun-pdf/1.5.657.pdf` |
-| SHA-256 | `e9c168f3b8d5d9f4e35b1d0370b6ce6f12af5e0f248a037bfb3404d43161405a` |
+| SHA-256 | `4433b5cb1a73a60c5dd960e481f0ceea74adccec92ed10dd501ed0c525ced15d` |
 | Madde bölme | bölündü |
 
 Bölme betiği çıktısı:
